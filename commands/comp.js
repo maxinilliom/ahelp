@@ -1,6 +1,9 @@
 const { inspect } = require("util");
 const { promisify } = require("util");
 const readdir = promisify(require("fs").readdir);
+const { data } = require("../guides/compGuides/compGuide.js");
+//const { data } = require(/*COMP CAPE GUIDES FILE, DATA SHOULD CONTAIN ACHIEVEMENT OBJECTS NAMED BY <ACHIEVENAME>*/)
+
 
 	/* const { something } = require("something");
 		// is same as
@@ -14,12 +17,11 @@ const readdir = promisify(require("fs").readdir);
 		console.log(bye); // "bye" */
 
 exports.run = async (client, message, [...achieveName], level) => { // eslint-disable-line no-unused-vars
-	//const { data } = require(/*COMP CAPE GUIDES FILE, DATA SHOULD CONTAIN ACHIEVEMENT OBJECTS NAMED BY <ACHIEVENAME>*/)
 	if (!achieveName[0]) return message.channel.send(`Please specify an achievement name.`);
-	//if (achieveName && !data.hasOwnProperty(`achieveName`)) return message.channel.send(`${achieveName} is not a valid achievement name.`);
+	if (achieveName && !data.hasOwnProperty(achieveName.join(" "))) return message.channel.send(`${achieveName} is not a valid achievement name.`);
 
-	//const guide = data["<ACHIEVENAME>"];
-	//message.channel.send("", {embed: guide});
+	const guide = data[achieveName.join(" ")];
+	message.channel.send("", {embed: guide});
 };
 
 exports.conf = {

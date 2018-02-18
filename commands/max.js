@@ -17,7 +17,7 @@ exports.run = async (client, message, [skill, ...args], level) => { // eslint-di
 	if (!skill) return message.channel.send(`Please specify a skill name.`);
 	if (skill && !client.maxGuides.includes(skill.toLowerCase())) return message.channel.send(`${skill.toProperCase()} is not a valid skill name.`);
 	if (!args[0]) return message.channel.send(`Please specify options to search the Max Cape guides with.`);
-	const { data } = require(`../maxGuides/${skill}.js`);
+	const { data } = require(`../guides/maxGuides/${skill}.js`);
 
 	const guide = data["1 - 30"];
 	message.channel.send("", {embed: guide});

@@ -29,7 +29,7 @@ module.exports = (client) => {
 
 	client.loadMaxGuide = (guideName) => {
 		try {
-			const guide = require(`../maxGuides/${guideName}`);
+			const guide = require(`../guides/maxGuides/${guideName}`);
 			console.log(`Loading Max cape guide: ${guideName.split(".")[0].toProperCase()}.`);
 			client.maxGuides.push(guideName.split(".")[0]);
 			return false;
@@ -86,9 +86,8 @@ module.exports = (client) => {
 	  text = await text;
 	if (typeof evaled !== "string")
 	  text = require("util").inspect(text, {depth: 0});
-  
+	if (text.toLowerCase().includes("error")) text = text.split("\n", 1)[0]; 
 	text = text
-		.replace(new RegExp(`${__dirname}/`, "g"), "./")
 		.replace(/`/g, "`" + String.fromCharCode(8203))
 		.replace(/@/g, "@" + String.fromCharCode(8203))
 		.replace(client.token, "mfa.VkO_2G4Qv3T--NO--lWetW_tjND--TOKEN--QFTm6YGtzq9PH--4U--tG0");

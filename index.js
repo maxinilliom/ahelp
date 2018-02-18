@@ -32,7 +32,7 @@ const init = async () => {
 		delete require.cache[require.resolve(`./events/${file}`)];
 	});
 
-	const maxGuides = await readdir("./maxGuides/");
+	const maxGuides = await readdir("./guides/maxGuides/");
 	console.log(`Loading a total of ${maxGuides.length} Max cape guides.`);
 	maxGuides.forEach(f => {
 		if (!f.endsWith(".js")) return;
