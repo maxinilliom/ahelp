@@ -9,13 +9,16 @@ module.exports = (client, message) => {
 	const settings = message.guild
 		? client.settings.get(message.guild.id)
 		: client.config.defaultSettings;
-		
+
+	//if settings.unmentionable.includes message.mentions.users <-> delete
+	if (message.mentions.users.has('151115578713702400')) return message.delete();
+
 	if (settings.muteList.includes(message.author.id)) {
 		message.delete();
 		const muteLog = client.channels.find("id", settings.logChannel);
 		muteLog.send(message.author.tag + ": `" + message.content + "`" + " deleted in " + message.channel.toString());
 	}
-	
+
 	if (message.content.indexOf(settings.prefix) !== 0) return;
 
 	message.settings = settings;

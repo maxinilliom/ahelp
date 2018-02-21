@@ -1,9 +1,7 @@
 const { inspect } = require("util");
 const { promisify } = require("util");
 const readdir = promisify(require("fs").readdir);
-const { data } = require("../guides/compGuides/compGuide.js");
-//const { data } = require(/*COMP CAPE GUIDES FILE, DATA SHOULD CONTAIN ACHIEVEMENT OBJECTS NAMED BY <ACHIEVENAME>*/)
-
+const { data } = require("../guides/compGuide.js");
 
 	/* const { something } = require("something");
 		// is same as
@@ -16,12 +14,51 @@ const { data } = require("../guides/compGuides/compGuide.js");
 		console.log(hi); // "hi"
 		console.log(bye); // "bye" */
 
-exports.run = async (client, message, [...achieveName], level) => { // eslint-disable-line no-unused-vars
-	if (!achieveName[0]) return message.channel.send(`Please specify an achievement name.`);
-	if (achieveName && !data.hasOwnProperty(achieveName.join(" "))) return message.channel.send(`${achieveName} is not a valid achievement name.`);
+exports.run = async (client, message, args, level) => { // eslint-disable-line no-unused-vars
+	const achName = args.join(" ").toLowerCase();
+	const keyList = Object.getOwnPropertyNames(data);
+	const rtnArr = [];
+	if (!args[0]) return message.channel.send(`Please specify an achievement name.`);
 
-	const guide = data[achieveName.join(" ")];
-	message.channel.send("", {embed: guide});
+	if (args[0].toLowerCase() == "help") {
+		let output = ""
+		const helpEmbed = data["help"].content;
+		keyList.forEach(k => {
+			if (k !== "help" && k !== "search" && k.cmds.includes("comp")) output += `${k.toProperCase()}\n`;
+		});
+		helpEmbed.title = "Comprehensive list of all valid Completionist guide commands";
+		helpEmbed.author.name = "Comp Cape Info";
+		helpEmbed.description = output;
+		return message.channel.send("", {embed: helpEmbed});
+	}
+	//if (args && !data.hasOwnProperty(achName)) return message.channel.send(`${achName} is not a valid achievement name.`);
+	if (keyList.includes(achName)) return message.channel.send("", {embed: data[achName.content]});
+	args.forEach(a => {
+		keyList.forEach(k => {
+			if (k.cmds.includes("comp") && k.includes(a)) rtnArr.push(k);
+		});
+	});
+
+	if (rtnArr.length == 0) {
+		return message.channel.send(`No results found for ${args.join(" ")}.`);
+	} else if (rtnArr.length == 1) {
+		const guide = data[rtnArr[0]].content;
+		message.channel.send("", {embed: guide});
+	} else if (rtnArr.length > 1) {
+		let output = "";
+		let i = 1;
+		const searchEmbed = data["search"].content;
+		rtnArr.forEach(n => {
+			output += `${i}: ${rtnArr[i-1].toProperCase()}\n`;
+			i++;
+		});
+		searchEmbed.title = "All Completionist Cape guide commands matching your search"
+		searchEmbed.author.name = "Comp Cape Info";
+		searchEmbed.description = output;
+		return message.channel.send("", {embed: searchEmbed});
+	} else {
+	message.channel.send("If you see this, contact @97928972305707008");
+	}
 };
 
 exports.conf = {
