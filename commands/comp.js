@@ -2,6 +2,7 @@ const { inspect } = require("util");
 const { promisify } = require("util");
 const readdir = promisify(require("fs").readdir);
 const { data } = require("../guides/compGuide.js");
+//const data = "";
 
 	/* const { something } = require("something");
 		// is same as
@@ -16,26 +17,28 @@ const { data } = require("../guides/compGuide.js");
 
 exports.run = async (client, message, args, level) => { // eslint-disable-line no-unused-vars
 	const achName = args.join(" ").toLowerCase();
-	const keyList = Object.getOwnPropertyNames(data);
+	const keyList = [];
 	const rtnArr = [];
+	Object.getOwnPropertyNames(data).forEach(k => {
+		if (data[k].cmds.includes("comp")) keyList.push(k);
+	});
 	if (!args[0]) return message.channel.send(`Please specify an achievement name.`);
 
 	if (args[0].toLowerCase() == "help") {
-		let output = ""
+		let output = "";
 		const helpEmbed = data["help"].content;
 		keyList.forEach(k => {
-			if (k !== "help" && k !== "search" && k.cmds.includes("comp")) output += `${k.toProperCase()}\n`;
+			if (k !== "help" && k !== "search") output += `${k.toProperCase()}\n`;
 		});
 		helpEmbed.title = "Comprehensive list of all valid Completionist guide commands";
 		helpEmbed.author.name = "Comp Cape Info";
 		helpEmbed.description = output;
 		return message.channel.send("", {embed: helpEmbed});
 	}
-	//if (args && !data.hasOwnProperty(achName)) return message.channel.send(`${achName} is not a valid achievement name.`);
 	if (keyList.includes(achName)) return message.channel.send("", {embed: data[achName.content]});
 	args.forEach(a => {
 		keyList.forEach(k => {
-			if (k.cmds.includes("comp") && k.includes(a)) rtnArr.push(k);
+			if (k.includes(a)) rtnArr.push(k);
 		});
 	});
 
@@ -52,7 +55,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 			output += `${i}: ${rtnArr[i-1].toProperCase()}\n`;
 			i++;
 		});
-		searchEmbed.title = "All Completionist Cape guide commands matching your search"
+		searchEmbed.title = "All Completionist Cape guide commands matching your search";
 		searchEmbed.author.name = "Comp Cape Info";
 		searchEmbed.description = output;
 		return message.channel.send("", {embed: searchEmbed});
