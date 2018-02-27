@@ -48,11 +48,11 @@ exports.data = {
 			"fields": [
 				{
 					"name": "Requirements:",
-					"value": "[Rune Mysteries Quest completion | Runescape Wikia](http://runescape.wikia.com/wiki/Rune_Mysteries)"
+					"value": "Rune Mysteries Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Rune_Mysteries)"
 				},
 				{
 					"name": "Guide:",
-					"value": "[Abyss (miniquest guide) | Runescape Wikia](http://runescape.wikia.com/wiki/Abyss_(miniquest)"
+					"value": "[Abyss (miniquest guide) | Runescape Wiki](http://runescape.wikia.com/wiki/Abyss_(miniquest)"
 				}
 			],
 			"footer": {
@@ -82,7 +82,7 @@ exports.data = {
 				},
 				{
 					"name": "Guide",
-					"value": "[Prawnbroker Prawn Perks | Runescape Wikia](http://runescape.wikia.com/wiki/Prawnbroker#Prawn_Perks)"
+					"value": "[Prawnbroker Prawn Perks | Runescape Wiki](http://runescape.wikia.com/wiki/Prawnbroker#Prawn_Perks)"
 				}
 			],
 			"footer": {
@@ -108,7 +108,7 @@ exports.data = {
 			"fields": [
 				{
 					"name": "Requirements:",
-					"value": "[Fate of the Gods (partial) Quest completion | Runescape Wikia](http://runescape.wikia.com/wiki/Fate_of_the_Gods)"
+					"value": "Fate of the Gods (partial) Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Fate_of_the_Gods)"
 				},
 				{
 					"name": "Guide:",
@@ -138,7 +138,7 @@ exports.data = {
 			"fields": [
 				{
 					"name": "Requirements:",
-					"value": "• 90 Divination\n\n• [Impressing the Locals Miniquest completion | Runescape Wikia](http://runescape.wikia.com/wiki/Impressing_the_Locals)"
+					"value": "• 90 Divination\n\n• Impressing the Locals Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Impressing_the_Locals)"
 				}
 			],
 			"footer": {
@@ -164,11 +164,11 @@ exports.data = {
 			"fields": [
 				{
 					"name": "Requirements:",
-					"value": "• [Impressing the Locals Miniquest completion | Runescape Wikia](http://runescape.wikia.com/wiki/Impressing_the_Locals)"
+					"value": "• Impressing the Locals Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Impressing_the_Locals)"
 				},
 				{
 					"name": "Guide:",
-					"value": "[Arc I - Flag Fall Miniquest Guide | Runescape Wikia](http://runescape.wikia.com/wiki/Flag_Fall)"
+					"value": "[Arc I - Flag Fall Miniquest Guide | Runescape Wiki](http://runescape.wikia.com/wiki/Flag_Fall)"
 				}
 			],
 			"footer": {
@@ -194,11 +194,11 @@ exports.data = {
 			"fields": [
 				{
 					"name": "Requirements:",
-					"value": "• 90 Woodcutting\n• 90 Fishing\n• 91 Cooking\n\n• [Impressing the Locals Miniquest completion | Runescape Wikia](http://runescape.wikia.com/wiki/Impressing_the_Locals)\n• [Flag Fall miniquest completion | Runescape Wikia](http://runescape.wikia.com/wiki/Flag_Fall)"
+					"value": "• 90 Woodcutting\n• 90 Fishing\n• 91 Cooking\n\n• Impressing the Locals Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Impressing_the_Locals)\n• Flag Fall miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Flag_Fall)"
 				},
 				{
 					"name": "Guide:",
-					"value": "[Arc II - Head of the Family Miniquest Guide | Runescape Wikia](http://runescape.wikia.com/wiki/Head_of_the_Family)"
+					"value": "[Arc II - Head of the Family Miniquest Guide | Runescape Wiki](http://runescape.wikia.com/wiki/Head_of_the_Family)"
 				}
 			],
 			"footer": {
@@ -224,11 +224,11 @@ exports.data = {
 			"fields": [
 				{
 					"name": "Requirements:",
-					"value": "• 90 Slayer\n\n• [Impressing the Locals Miniquest completion | Runescape Wikia](http://runescape.wikia.com/wiki/Impressing_the_Locals)\n• [Flag Fall Miniquest Miniquest completion | Runescape Wikia](http://runescape.wikia.com/wiki/Flag_Fall)\n• [Head of the Family Miniquest completion | Runescape Wikia](http://runescape.wikia.com/wiki/Head_of_the_Family)"
+					"value": "• 90 Slayer\n\n• Impressing the Locals Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Impressing_the_Locals)\n• Flag Fall Miniquest Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Flag_Fall)\n• Head of the Family Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Head_of_the_Family)"
 				},
 				{
 					"name": "Guide:",
-					"value": "[Arc III - Spiritual Enlightenment Miniquest guide | Runescape Wikia](http://runescape.wikia.com/wiki/Spiritual_Enlightenment)"
+					"value": "[Arc III - Spiritual Enlightenment Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Spiritual_Enlightenment)"
 				}
 			],
 			"footer": {
@@ -254,11 +254,11 @@ exports.data = {
 			"fields": [
 				{
 					"name": "Requirements:",
-					"value": "• 90 Hunter\n• 91 Crafting\n\n• [Impressing the Locals Miniquest | Runescape Wikia](http://runescape.wikia.com/wiki/Impressing_the_Locals)\n• [Flag Fall Miniquest | Runescape Wikia](http://runescape.wikia.com/Flag_Fall)\n• [Head of the Family Miniquest](http://runescape.wikia.com/Head_of_the_Family)\n• [Spiritual Enlightenment Miniquest | Runescape Wikia](http://runescape.wikia.com)"
+					"value": "• 90 Hunter\n• 91 Crafting\n\n• Impressing the Locals Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Impressing_the_Locals)\n• Flag Fall Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/Flag_Fall)\n• Head of the Family Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/Head_of_the_Family)\n• Spiritual Enlightenment Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Spiritual_Enlightenment)"
 				},
 				{
 					"name": "Guide:",
-					"value": "[Jed Hunter Miniquest guide | Runescape Wikia](http://runescape.wikia.com/wiki/Jed_Hunter)"
+					"value": "[Arc IV - Jed Hunter Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Jed_Hunter)"
 				}
 			],
 			"footer": {
@@ -269,10 +269,240 @@ exports.data = {
 			"timestamp": new Date()
 		}
 	},
+	"arc ix - damage control": {
+		"cmds": ["comp", "mqc"],
+		"content": {
+			"title": "Arc IX - Damage Control",
+			"author": {
+				"name": "Comp Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Arc IX - Damage Control](http://runescape.wikia.com/wiki/Arc_IX_-_Damage_Control) is an achievement that requires the player to complete the Damage Control miniquest.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/gGdB7UR.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• Impressing the Locals Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Impressing_the_Locals)\n• Flag Fall Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/Flag_Fall)\n• Head of the Family Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/Head_of_the_Family)\n• Spiritual Enlightenment Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Spiritual_Enlightenment)\n• Jed Hunter Miniquest completion | [Runescape Wikia](http://runescape.wikia.com/wiki/Jed_Hunter)\n• Eye for an Eye Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Eye_for_an_Eye)\n• Harbinger Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Harbinger)\n• Tuai Liet's Own Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Tuai_Leit%27s_Own)\n• Ghosts from the Past Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Ghosts_from_the_Past)"
+				},
+				{
+					"name": "Guide:",
+					"value": "[Arc IX - Damage Control Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Jed_Hunter)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 10"
+			},
+			"color": 16316664,
+			"timestamp": new Date()
+		}
+	},
+	"arc - unlocking waiko": {
+		"cmds": ["comp"],
+		"content": {
+			"title": "Arc - Unlocking Waiko",
+			"author": {
+				"name": "Comp Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Arc - Unlocking Waiko](http://runescape.wikia.com/wiki/Arc_-_Unlocking_Waiko) is an achievement that requires the player to purchase the unlocks from the Waiko Reward Shop for the list below for a total cost of 7,750 chimes and 5 Taijitu.\n\n• Waiko Grill\n• Whale's Maw Camp Fire\n• Whale's Maw Deposit Box\n• Arc Journal Teletabs\n • Crystal Tool Siphon Blueprints",
+			"thumbnail": {
+				"url": "https://i.imgur.com/gGdB7UR.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• Impressing the Locals Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Impressing_the_Locals)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 30"
+			},
+			"color": 16316664,
+			"timestamp": new Date()
+		}
+	},
+	"arc - upgrading waiko": {
+		"cmds": ["comp"],
+		"content": {
+			"title": "Arc - Upgrading Waiko",
+			"author": {
+				"name": "Comp Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Arc - Upgrading Waiko](http://runescape.wikia.com/wiki/Arc_-_Upgrading_Waiko) is an achievement that requires the player to purchase the first tier of the upgrades listed below from the Waiko Reward Shop for a total cost of 17,000 chimes and Taijitu 16 taijitu.\n\n• Commodity Sell Per Day Increase\n• Supplies Cap Increase\n• Contracts Per Day Increase\n• Supplies Cost Reduction\n• Commodity Sell Price Increase",
+			"thumbnail": {
+				"url": "https://i.imgur.com/gGdB7UR.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• Impressing the Locals Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Impressing_the_Locals)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 30"
+			},
+			"color": 16316664,
+			"timestamp": new Date()
+		}
+	},
 	"arc v - eye for an eye": {
 		"cmds": ["comp", "mqc"],
 		"content": {
-			
+			"title": "Arc V - Eye for an Eye",
+			"author": {
+				"name": "Comp Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Arc V - Eye for an Eye](http://runescape.wikia.com/wiki/Arc_V_-_Eye_for_an_Eye) is an achievement that requires the player to complete the Eye for an Eye miniquest.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/gGdB7UR.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• 90 Mining\n\n• Impressing the Locals Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Impressing_the_Locals)\n• Flag Fall Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/Flag_Fall)\n• Head of the Family Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/Head_of_the_Family)\n• Spiritual Enlightenment Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Spiritual_Enlightenment)\n• Jed Hunter Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Jed_Hunter)"
+				},
+				{
+					"name": "Guide:",
+					"value": "[Arc V - Eye for an Eye Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Eye_for_an_Eye)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 10"
+			},
+			"color": 16316664,
+			"timestamp": new Date()
+		}
+	},
+	"arc vi - harbinger of doom": {
+		"cmds": ["comp", "mqc"],
+		"content": {
+			"title": "Arc VI - Harbinger of Doom",
+			"author": {
+				"name": "Comp Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Arc VI - Harbinger of Doom](http://runescape.wikia.com/wiki/Arc_VI_-_Harbinger_of_Doom) is an achievement that requires the player to complete the Harbinger miniquest.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/gGdB7UR.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• Impressing the Locals Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Impressing_the_Locals)\n• Flag Fall Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/Flag_Fall)\n• Head of the Family Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/Head_of_the_Family)\n• Spiritual Enlightenment Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Spiritual_Enlightenment)\n• Jed Hunter Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Jed_Hunter)"
+				},
+				{
+					"name": "Guide:",
+					"value": "[Arc VI - Harbinger of Doom Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Harbinger)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 10"
+			},
+			"color": 16316664,
+			"timestamp": new Date()
+		}
+	},
+	"arc vii - tuai leit's own": {
+		"cmds": ["comp", "mqc"],
+		"content": {
+			"title": "Arc VII - Tuai Leit's Own",
+			"author": {
+				"name": "Comp Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Arc VII - Tuai Leit's Own](http://runescape.wikia.com/wiki/Arc_VII_-_Tuai_Leit%27s_Own) is an achievement that requires the player to complete the Tuai Leit's Own miniquest.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/gGdB7UR.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• Impressing the Locals Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Impressing_the_Locals)\n• Flag Fall Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/Flag_Fall)\n• Head of the Family Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/Head_of_the_Family)\n• Spiritual Enlightenment Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Spiritual_Enlightenment)\n• Jed Hunter Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Jed_Hunter)\n• Harbinger Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Harbinger)"
+				},
+				{
+					"name": "Guide:",
+					"value": "[Arc VII - Tuai Leit's Own Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Tuai_Leit%27s_Own)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 10"
+			},
+			"color": 16316664,
+			"timestamp": new Date()
+		}
+	},
+	"arc viii - ghosts from the past": {
+		"cmds": ["comp", "mqc"],
+		"content": {
+			"title": "Arc VIII - Ghosts from the Past",
+			"author": {
+				"name": "Comp Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Arc VIII - Ghosts from the Past](http://runescape.wikia.com/wiki/Arc_VIII_-_Ghosts_from_the_Past) is an achievement that requires the player to complete the Ghosts from the Past miniquest.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/gGdB7UR.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• Impressing the Locals Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Impressing_the_Locals)\n• Flag Fall Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/Flag_Fall)\n• Head of the Family Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/Head_of_the_Family)\n• Spiritual Enlightenment Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Spiritual_Enlightenment)\n• Jed Hunter Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Jed_Hunter)\n• Harbinger Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Harbinger)\n• Tuai Liet's Own Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Tuai_Leit%27s_Own)"
+				},
+				{
+					"name": "Guide:",
+					"value": "[Arc VIII - Ghosts from the Past Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Ghosts_from_the_Past)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 10"
+			},
+			"color": 16316664,
+			"timestamp": new Date()
+		}
+	},
+	"arc x - final destinationt": {
+		"cmds": ["comp", "mqc"],
+		"content": {
+			"title": "Arc X - Final Destination",
+			"author": {
+				"name": "Comp Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Arc X - Final Destination](http://runescape.wikia.com/wiki/Arc_X_-_Final_Destination) is an achievement that requires the player to complete the Final Destination miniquest.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/gGdB7UR.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• Impressing the Locals Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Impressing_the_Locals)\n• Flag Fall Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/Flag_Fall)\n• Head of the Family Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/Head_of_the_Family)\n• Spiritual Enlightenment Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Spiritual_Enlightenment)\n• Jed Hunter Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Jed_Hunter)\n• Eye for an Eye Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Eye_for_an_Eye)\n• Harbinger Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Harbinger)\n• Tuai Liet's Own Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Tuai_Leit%27s_Own)\n• Ghosts from the Past Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Ghosts_from_the_Past)"
+				},
+        {
+          "name": "Requirements continued:",
+          "value": "• Damage Control Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Damage_Control)"
+        },
+				{
+					"name": "Guide:",
+					"value": "[Arc X - Final Destination Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Final_Destination)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 10"
+			},
+			"color": 16316664,
+			"timestamp": new Date()
 		}
 	}
 };

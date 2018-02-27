@@ -37,7 +37,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 	}
 	args.forEach(a => {
 		keyList.forEach(k => {
-			if (k.includes(a)) rtnArr.push(k);
+			if (k.includes(a.toLowerCase())) rtnArr.push(k);
 		});
 	});
 
