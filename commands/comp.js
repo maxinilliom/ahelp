@@ -28,14 +28,13 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 		let output = "";
 		const helpEmbed = data["help"].content;
 		keyList.forEach(k => {
-			if (k !== "help" && k !== "search") output += `${k.toProperCase()}\n`;
+			output += `${data[k].content.title}\n`;
 		});
 		helpEmbed.title = "Comprehensive list of all valid Completionist guide commands";
 		helpEmbed.author.name = "Comp Cape Info";
 		helpEmbed.description = output;
 		return message.channel.send("", {embed: helpEmbed});
 	}
-	if (keyList.includes(achName)) return message.channel.send("", {embed: data[achName.content]});
 	args.forEach(a => {
 		keyList.forEach(k => {
 			if (k.includes(a)) rtnArr.push(k);
@@ -43,7 +42,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 	});
 
 	if (rtnArr.length == 0) {
-		return message.channel.send(`No results found for ${args.join(" ")}.`);
+		return message.channel.send(`No results found for **${args.join(" ")}**.`);
 	} else if (rtnArr.length == 1) {
 		const guide = data[rtnArr[0]].content;
 		message.channel.send("", {embed: guide});
@@ -52,13 +51,17 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 		let i = 1;
 		const searchEmbed = data["search"].content;
 		rtnArr.forEach(n => {
-			output += `${i}: ${rtnArr[i-1].toProperCase()}\n`;
+			output += `${i}: ${data[rtnArr[i-1]].content.title}\n`;
 			i++;
 		});
 		searchEmbed.title = "All Completionist Cape guide commands matching your search";
 		searchEmbed.author.name = "Comp Cape Info";
 		searchEmbed.description = output;
-		return message.channel.send("", {embed: searchEmbed});
+		message.channel.send("", {embed: searchEmbed});
+		const response = await client.awaitReply(message, "Which achievement were you searching for? Please enter the corresponding number.");
+		if (response > rtnArr.length || response < 1) return message.channel.send("Invalid number specified, search cancelled.");
+		const choice = data[rtnArr[response-1]].content;
+		return message.channel.send("", {embed: choice});
 	} else {
 	message.channel.send("If you see this, contact @97928972305707008");
 	}

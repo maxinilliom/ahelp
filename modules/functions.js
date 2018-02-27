@@ -1,5 +1,6 @@
 module.exports = (client) => {
-	
+
+	const numerals = ["i", "ii", "iii", "iv", "v", "vi", "vii", "viii", "ix", "x"];
 	client.permlevel = message => {
 		let permlvl = 0;
 
@@ -95,13 +96,13 @@ module.exports = (client) => {
 		return text;
 	};
 
-	  String.prototype.toProperCase = function() {
-    return this.replace(/([^\W_]+[^\s-]*) */g, function(txt) {return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase();});
-  };
+String.prototype.toProperCase = function() {
+	return this.replace(/([^\W_]+[^\s-]*) */g, function(txt) {return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase();});
+};
 
-  Array.prototype.random = function() {
-    return this[Math.floor(Math.random() * this.length)]
-  };
+Array.prototype.random = function() {
+	return this[Math.floor(Math.random() * this.length)]
+};
 
 	// These 2 process methods will catch exceptions and give *more details* about the error and stack trace.
 	process.on("uncaughtException", (err) => {
