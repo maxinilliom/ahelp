@@ -20,7 +20,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 	const keyList = [];
 	const rtnArr = [];
 	Object.getOwnPropertyNames(data).forEach(k => {
-		if (data[k].cmds.includes("comp")) keyList.push(k);
+		if (data[k].cmds.includes("mqc")) keyList.push(k);
 	});
 	if (!args[0]) return message.channel.send(`Please specify an achievement name.`);
 
@@ -30,8 +30,8 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 		keyList.forEach(k => {
 			output += `${data[k].content.title}\n`;
 		});
-		helpEmbed.title = "Comprehensive list of all valid Completionist guide commands";
-		helpEmbed.author.name = "Comp Cape Info";
+		helpEmbed.title = "Comprehensive list of all valid Master Quest Cape guide commands";
+		helpEmbed.author.name = "Master Quest Cape Info";
 		helpEmbed.description = output;
 		helpEmbed.timestamp = new Date();
 		return message.channel.send("", {embed: helpEmbed});
@@ -57,8 +57,8 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 			output += `${i}: ${data[rtnArr[i-1]].content.title}\n`;
 			i++;
 		});
-		searchEmbed.title = "All Completionist Cape guide commands matching your search";
-		searchEmbed.author.name = "Comp Cape Info";
+		searchEmbed.title = "All Master Quest Cape guide commands matching your search";
+		searchEmbed.author.name = "Master Quest Cape Info";
 		searchEmbed.description = output;
 		searchEmbed.timestamp = new Date();
 		message.channel.send("", {embed: searchEmbed});
@@ -80,8 +80,8 @@ exports.conf = {
 };
 
 exports.help = {
-	name: "comp",
+	name: "mqc",
 	category: "Guides",
-	description: "Encyclopedia of Completionist Cape guides written by The Five-O and assembled by Son.",
-	usage: "comp <help/achievement name>"
+	description: "Encyclopedia of Master Quest Cape guides written by The Five-O and assembled by Son.",
+	usage: "mqc <help/achievement name>"
 };
