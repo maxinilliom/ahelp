@@ -269,88 +269,6 @@ exports.data = {
 			"timestamp": new Date()
 		}
 	},
-	"arc ix - damage control": {
-		"cmds": ["comp", "mqc"],
-		"content": {
-			"title": "Arc IX - Damage Control",
-			"author": {
-				"name": "Comp Cape Info",
-				"icon_url": "https://i.imgur.com/6c6q2iC.png"
-			},
-			"description": "[Arc IX - Damage Control](http://runescape.wikia.com/wiki/Arc_IX_-_Damage_Control) is an achievement that requires the player to complete the Damage Control miniquest.",
-			"thumbnail": {
-				"url": "https://i.imgur.com/gGdB7UR.png"
-			},
-			"fields": [
-				{
-					"name": "Requirements:",
-					"value": "• Impressing the Locals Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Impressing_the_Locals)\n• Flag Fall Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/Flag_Fall)\n• Head of the Family Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/Head_of_the_Family)\n• Spiritual Enlightenment Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Spiritual_Enlightenment)\n• Jed Hunter Miniquest completion | [Runescape Wikia](http://runescape.wikia.com/wiki/Jed_Hunter)\n• Eye for an Eye Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Eye_for_an_Eye)\n• Harbinger Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Harbinger)\n• Tuai Liet's Own Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Tuai_Leit%27s_Own)\n• Ghosts from the Past Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Ghosts_from_the_Past)"
-				},
-				{
-					"name": "Guide:",
-					"value": "[Arc IX - Damage Control Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Jed_Hunter)"
-				}
-			],
-			"footer": {
-				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-				"text": "Runescore awarded: 10"
-			},
-			"color": 16316664,
-			"timestamp": new Date()
-		}
-	},
-	"arc - unlocking waiko": {
-		"cmds": ["comp"],
-		"content": {
-			"title": "Arc - Unlocking Waiko",
-			"author": {
-				"name": "Comp Cape Info",
-				"icon_url": "https://i.imgur.com/6c6q2iC.png"
-			},
-			"description": "[Arc - Unlocking Waiko](http://runescape.wikia.com/wiki/Arc_-_Unlocking_Waiko) is an achievement that requires the player to purchase the unlocks from the Waiko Reward Shop for the list below for a total cost of 7,750 chimes and 5 Taijitu.\n\n• Waiko Grill\n• Whale's Maw Camp Fire\n• Whale's Maw Deposit Box\n• Arc Journal Teletabs\n • Crystal Tool Siphon Blueprints",
-			"thumbnail": {
-				"url": "https://i.imgur.com/gGdB7UR.png"
-			},
-			"fields": [
-				{
-					"name": "Requirements:",
-					"value": "• Impressing the Locals Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Impressing_the_Locals)"
-				}
-			],
-			"footer": {
-				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-				"text": "Runescore awarded: 30"
-			},
-			"color": 16316664,
-			"timestamp": new Date()
-		}
-	},
-	"arc - upgrading waiko": {
-		"cmds": ["comp"],
-		"content": {
-			"title": "Arc - Upgrading Waiko",
-			"author": {
-				"name": "Comp Cape Info",
-				"icon_url": "https://i.imgur.com/6c6q2iC.png"
-			},
-			"description": "[Arc - Upgrading Waiko](http://runescape.wikia.com/wiki/Arc_-_Upgrading_Waiko) is an achievement that requires the player to purchase the first tier of the upgrades listed below from the Waiko Reward Shop for a total cost of 17,000 chimes and Taijitu 16 taijitu.\n\n• Commodity Sell Per Day Increase\n• Supplies Cap Increase\n• Contracts Per Day Increase\n• Supplies Cost Reduction\n• Commodity Sell Price Increase",
-			"thumbnail": {
-				"url": "https://i.imgur.com/gGdB7UR.png"
-			},
-			"fields": [
-				{
-					"name": "Requirements:",
-					"value": "• Impressing the Locals Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Impressing_the_Locals)"
-				}
-			],
-			"footer": {
-				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-				"text": "Runescore awarded: 30"
-			},
-			"color": 16316664,
-			"timestamp": new Date()
-		}
-	},
 	"arc v - eye for an eye": {
 		"cmds": ["comp", "mqc"],
 		"content": {
@@ -471,6 +389,36 @@ exports.data = {
 			"timestamp": new Date()
 		}
 	},
+	"arc ix - damage control": {
+		"cmds": ["comp", "mqc"],
+		"content": {
+			"title": "Arc IX - Damage Control",
+			"author": {
+				"name": "Comp Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Arc IX - Damage Control](http://runescape.wikia.com/wiki/Arc_IX_-_Damage_Control) is an achievement that requires the player to complete the Damage Control miniquest.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/gGdB7UR.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• Impressing the Locals Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Impressing_the_Locals)\n• Flag Fall Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/Flag_Fall)\n• Head of the Family Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/Head_of_the_Family)\n• Spiritual Enlightenment Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Spiritual_Enlightenment)\n• Jed Hunter Miniquest completion | [Runescape Wikia](http://runescape.wikia.com/wiki/Jed_Hunter)\n• Eye for an Eye Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Eye_for_an_Eye)\n• Harbinger Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Harbinger)\n• Tuai Liet's Own Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Tuai_Leit%27s_Own)\n• Ghosts from the Past Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Ghosts_from_the_Past)"
+				},
+				{
+					"name": "Guide:",
+					"value": "[Arc IX - Damage Control Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Jed_Hunter)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 10"
+			},
+			"color": 16316664,
+			"timestamp": new Date()
+		}
+	},
 	"arc x - final destinationt": {
 		"cmds": ["comp", "mqc"],
 		"content": {
@@ -500,6 +448,58 @@ exports.data = {
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 10"
+			},
+			"color": 16316664,
+			"timestamp": new Date()
+		}
+	},
+	"arc - unlocking waiko": {
+		"cmds": ["comp"],
+		"content": {
+			"title": "Arc - Unlocking Waiko",
+			"author": {
+				"name": "Comp Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Arc - Unlocking Waiko](http://runescape.wikia.com/wiki/Arc_-_Unlocking_Waiko) is an achievement that requires the player to purchase the unlocks from the Waiko Reward Shop for the list below for a total cost of 7,750 chimes and 5 Taijitu.\n\n• Waiko Grill\n• Whale's Maw Camp Fire\n• Whale's Maw Deposit Box\n• Arc Journal Teletabs\n • Crystal Tool Siphon Blueprints",
+			"thumbnail": {
+				"url": "https://i.imgur.com/gGdB7UR.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• Impressing the Locals Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Impressing_the_Locals)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 30"
+			},
+			"color": 16316664,
+			"timestamp": new Date()
+		}
+	},
+	"arc - upgrading waiko": {
+		"cmds": ["comp"],
+		"content": {
+			"title": "Arc - Upgrading Waiko",
+			"author": {
+				"name": "Comp Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Arc - Upgrading Waiko](http://runescape.wikia.com/wiki/Arc_-_Upgrading_Waiko) is an achievement that requires the player to purchase the first tier of the upgrades listed below from the Waiko Reward Shop for a total cost of 17,000 chimes and Taijitu 16 taijitu.\n\n• Commodity Sell Per Day Increase\n• Supplies Cap Increase\n• Contracts Per Day Increase\n• Supplies Cost Reduction\n• Commodity Sell Price Increase",
+			"thumbnail": {
+				"url": "https://i.imgur.com/gGdB7UR.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• Impressing the Locals Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Impressing_the_Locals)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 30"
 			},
 			"color": 16316664,
 			"timestamp": new Date()
