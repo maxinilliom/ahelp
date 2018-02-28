@@ -12,8 +12,7 @@ exports.data = {
 				"icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
 				"text": "Achievement Help"
 			},
-			"color": 16316664,
-			"timestamp": new Date()
+			"color": 16316664
 		}
 	},
 	"search": {
@@ -29,8 +28,7 @@ exports.data = {
 				"icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
 				"text": "Achievement Help"
 			},
-			"color": 16316664,
-			"timestamp": new Date()
+			"color": 16316664
 		}
 	},
 	"abyssal reach": {
@@ -43,7 +41,7 @@ exports.data = {
 			},
 			"description": "[Abyssal Reach](http://runescape.wikia.com/wiki/Almost_as_Perky_as_a_Prawn) is an achievement that requires the player to finish the abyss miniquest. In the Abyss miniquest, the player helps the Zamorakians access the rune essence mines so that they can craft their own runes. Previously it had been a Saradominist secret, but the Mage of Zamorak asks for the player's help in learning it.",
 			"thumbnail": {
-				"url": "https://cdn.discordapp.com/attachments/297388220231057419/414870553959333889/unknown.png"
+				"url": "https://i.imgur.com/Shmagnp.png"
 			},
 			"fields": [
 				{
@@ -52,15 +50,14 @@ exports.data = {
 				},
 				{
 					"name": "Guide:",
-					"value": "[Abyss (miniquest guide) | Runescape Wiki](http://runescape.wikia.com/wiki/Abyss_(miniquest)"
+					"value": "[Abyss (miniquest guide) | Runescape Wiki](http://runescape.wikia.com/wiki/Abyss_(miniquest%29)"
 				}
 			],
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 10"
 			},
-			"color": 16316664,
-			"timestamp": new Date()
+			"color": 16316664
 		}
 	},
 	"almost as perky as a prawn": {
@@ -73,7 +70,7 @@ exports.data = {
 			},
 			"description": "[Almost as Perky as a Prawn](http://runescape.wikia.com/wiki/Almost_as_Perky_as_a_Prawn) is an achievement that requires the player to unlock 15 of the Prawn Perks from the Aquarium in their player-owned house.\n\nPrawn Perks can be unlocked by finding golden fish eggs and gaining 1, 20, 100 and 200 prawn balls and prawn crackers.\n\nFifty bonus prawn balls are available to players who have obtained level 99 Fishing by speaking to the Prawnbroker.\n\nYou may also ask other players if they have extra golden crackers they could pull with you in order for you to quickly complete this requirement.\n\n",
 			"thumbnail": {
-				"url": "https://cdn.discordapp.com/attachments/297388220231057419/414870553959333889/unknown.png"
+				"url": "https://i.imgur.com/Shmagnp.png"
 			},
 			"fields": [
 				{
@@ -89,8 +86,7 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 20"
 			},
-			"color": 16316664,
-			"timestamp": new Date()
+			"color": 16316664
 		}
 	},
 	"annihilator": {
@@ -103,12 +99,12 @@ exports.data = {
 			},
 			"description": "[Annihilator](http://runescape.wikia.com/wiki/Annihilator) is an achievement that requires the player to obtain The Annihilator title by fighting all four nihil at once in Freneskae's pit as a boss fight during or after Fate of the Gods.",
 			"thumbnail": {
-				"url": "https://cdn.discordapp.com/attachments/297388220231057419/414870553959333889/unknown.png"
+				"url": "https://i.imgur.com/Shmagnp.png"
 			},
 			"fields": [
 				{
 					"name": "Requirements:",
-					"value": "Fate of the Gods (partial) Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Fate_of_the_Gods)"
+					"value": "Fate of the Gods Quest partial completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Fate_of_the_Gods)"
 				},
 				{
 					"name": "Guide:",
@@ -119,8 +115,7 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 20"
 			},
-			"color": 16316664,
-			"timestamp": new Date()
+			"color": 16316664
 		}
 	},
 	"arc - ancient eastern tortle portles": {
@@ -145,8 +140,7 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 10"
 			},
-			"color": 16316664,
-			"timestamp": new Date()
+			"color": 16316664
 		}
 	},
 	"arc i - flag fall": {
@@ -175,8 +169,7 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 10"
 			},
-			"color": 16316664,
-			"timestamp": new Date()
+			"color": 16316664
 		}
 	},
 	"arc ii - head of the family": {
@@ -205,8 +198,7 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 10"
 			},
-			"color": 16316664,
-			"timestamp": new Date()
+			"color": 16316664
 		}
 	},
 	"arc iii - spiritual enlightenment": {
@@ -235,8 +227,7 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 10"
 			},
-			"color": 16316664,
-			"timestamp": new Date()
+			"color": 16316664
 		}
 	},
 	"arc iv - jed hunter": {
@@ -265,8 +256,7 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 10"
 			},
-			"color": 16316664,
-			"timestamp": new Date()
+			"color": 16316664
 		}
 	},
 	"arc v - eye for an eye": {
@@ -295,8 +285,7 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 10"
 			},
-			"color": 16316664,
-			"timestamp": new Date()
+			"color": 16316664
 		}
 	},
 	"arc vi - harbinger of doom": {
@@ -325,8 +314,7 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 10"
 			},
-			"color": 16316664,
-			"timestamp": new Date()
+			"color": 16316664
 		}
 	},
 	"arc vii - tuai leit's own": {
@@ -355,8 +343,7 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 10"
 			},
-			"color": 16316664,
-			"timestamp": new Date()
+			"color": 16316664
 		}
 	},
 	"arc viii - ghosts from the past": {
@@ -385,8 +372,7 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 10"
 			},
-			"color": 16316664,
-			"timestamp": new Date()
+			"color": 16316664
 		}
 	},
 	"arc ix - damage control": {
@@ -415,8 +401,7 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 10"
 			},
-			"color": 16316664,
-			"timestamp": new Date()
+			"color": 16316664
 		}
 	},
 	"arc x - final destinationt": {
@@ -449,8 +434,7 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 10"
 			},
-			"color": 16316664,
-			"timestamp": new Date()
+			"color": 16316664
 		}
 	},
 	"arc - unlocking waiko": {
@@ -475,8 +459,7 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 30"
 			},
-			"color": 16316664,
-			"timestamp": new Date()
+			"color": 16316664
 		}
 	},
 	"arc - upgrading waiko": {
@@ -501,8 +484,198 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 30"
 			},
-			"color": 16316664,
-			"timestamp": new Date()
+			"color": 16316664
+		}
+	},
+	"bandos's memories": {
+		"cmds": ["comp", "mqc"],
+		"content": {
+			"title": "Bandos's Memories",
+			"author": {
+				"name": "Comp Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Bandos's Memories](http://runescape.wikia.com/wiki/Bandos%27s_Memories_(achievement%29) is an achievement that requires the player to fill Bandos's Memories by collecting an additional 13 Bandos chronicles after The Mighty Fall.In the troll camp east of the entrance.\n\n1. Along the path south of the troll camp.\n2. Along the path to Zarador.\n3. The ogre camp east of Zarador.\n4. Up the ladder south of Zarador.\n5. Graardor's camp southwest of the same ladder.\n6. Graardor's \"secret weapon\" camp to the east.\n7. The plateau south of the cyclops camp.\n8. Back down the ladder, Bork's camp east of the player's camp.\n9. The player's camp.\n10. Under the bridge to the north of the player's camp.\n12. Southern part of the goblin camp.\n13. Northern part of the goblin camp.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/gGdB7UR.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• The Mighty Fall Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Mighty_Fall)"
+				},
+				{
+					"name": "Guide:",
+					"value": "[Yu'biusk (Bandos's Arena) Map | Runescape Wiki](http://runescape.wikia.com/wiki/Map:Yu%27biusk_(Bandos%27s_Arena%29)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 15"
+			},
+			"color": 16316664
+		}
+	},
+	"bane tuner": {
+		"cmds": ["comp", "mqc"],
+		"content": {
+			"title": "Bane Tuner",
+			"author": {
+				"name": "Comp Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Bane Tuner](http://runescape.wikia.com/wiki/Bane_Tuner) is an achievement that requires the player to unlock the Tune Bane Ore spell during or after Ritual of the Mahjarrat.Players learn the spell in Kethsi where they find and read the tune bane ore scroll. It requires 2 astral runes, 4 earth runes, 1 bane ore in your inventory and an item related to the monster that the bane ore is to be tuned to.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• Ritual of the Mahjarrat Quest partial completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Mighty_Fall)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 25"
+			},
+			"color": 16316664
+		}
+	},
+	"big chinchompa": {
+		"cmds": ["comp"],
+		"content": {
+			"title": "Big Chinchompa",
+			"author": {
+				"name": "Comp Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Big Chinchompa](http://runescape.wikia.com/wiki/Big_Chinchompa) is an achievement that requires the player to score at least 1,111 competence points in a single round of Big Chinchompa.\n\nBig Chinchompa is a members-only Hunter Distraction and Diversion (D&D) that can be done twice daily. Big Chinchompa allows players to enter the lairs of massive plutonial chinchompas, catch native soporith moths, and feed them to the chinchompas in order to put them to sleep. Big Chinchompa is organised by the gnomes Nyriki Tapio and Mieliki Tapio, who wish to use the plutonial chinchompas for their mysterious alchemical experiments.\n\nThe D&D awards Hunter experience as well as competence points that can be spent on additional experience, a handful of Hunter-related items, or access to instanced private hunting areas.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "None"
+				},
+				{
+					"name": "Guide:",
+					"value": "[Big Chinchompa - How To Get 1,111+ Score In A Game! | YouTube](https://www.youtube.com/watch?v=ln6DgM7OkBQ)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 5"
+			},
+			"color": 16316664
+		}
+	},
+	"bipedal mask": {
+		"cmds": ["comp"],
+		"content": {
+			"title": "Bipedal Mask",
+			"author": {
+				"name": "Comp Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Bipedal Mask](http://runescape.wikia.com/wiki/Bipedal_Mask) is an achievement that requires the player to construct a Tuska mask out of a Tuska mask headpiece, Tuska mask lower tusks, Tuska mask upper tusks, Tuska mask plate and Tuska mask top which can be obtained as drops from Airut while on the appropriate Slayer assignment.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• 92 Slayer"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 10"
+			},
+			"color": 16316664
+		}
+	},
+	"bridge over fremmy waters": {
+		"cmds": ["comp", "mqc"],
+		"content": {
+			"title": "Bridge over Fremmy Waters",
+			"author": {
+				"name": "Comp Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Bridge over Fremmy Waters](http://runescape.wikia.com/wiki/Bridge_over_Fremmy_Waters) is an achievement that requires the player to finish all five unabridged Fremennik Sagas. To take part in the sagas, Skaldrun must first be unfrozen. He appears randomly on the frozen floors (floors 1-11) during a game of Dungeoneering (complexity 2 or higher only). He must be unfrozen with a tinderbox and logs, or a fire-based spell. After he has been found and freed, he can be found on the surface of Daemonheim near Thok.\n\nTo be able to play any one of the five sagas, players must then find an item while Dungeoneering that jolts Skaldrun's memory about that specific saga. These items cannot be found until after Skaldrun has been found and freed. Each of the five items has a specific range of floors that they can spawn on (listed in each saga's section below). All five items can be found on floors of any complexity.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• 71 Dungeoneering \n• 60 Attack\n• 30 Magic\n• 30 Ranged\n• 55 Agility\n• 55 Thieving"
+				},
+				{
+					"name": "Guides:",
+					"value": "• [Three's Company Saga guide | Runescape Wiki](http://runescape.wikia.com/wiki/Three%27s_Company)\n• [Vengeance Saga guide | Runescape Wiki](http://runescape.wikia.com/wiki/Vengeance_(Fremennik_Saga%29)\n• [Thok It To 'Em Saga guide | Runescape Wiki](http://runescape.wikia.com/wiki/Thok_It_To_%27Em)\n• [Nadir Saga guide | Runescape Wiki](http://runescape.wikia.com/wiki/Nadir)\n• [Thok Your Block Off Saga guide | Runescape Wiki](http://runescape.wikia.com/wiki/Thok_Your_Block_Off)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 15"
+			},
+			"color": 16316664
+		}
+	},
+	"claus is rising": {
+		"cmds": ["comp", "mqc"],
+		"content": {
+			"title": "Claus Is Rising",
+			"author": {
+				"name": "Comp Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Claus Is Rising](http://runescape.wikia.com/wiki/Claus_Is_Rising) is an achievement that requires the player to hand in a Cave Wolf Matriarch skull to Claus the chef after completion of Carnillean Rising.\n\nThe Cave Wolf Matriarch skull is obtained by killing the Cave Wolf Matriarch. The Cave Wolf Matriarch is a monster encountered during Carnillean Rising, in which Philipe Carnillean defeats it while the player distracts the wolf. After the completion of the quest, Claus the chef in the basement will assign you to kill the (now much stronger) wolf once more for her skull. You are then given limited access outside the cave again in which the juvenile wolves were in, and kill the Cave Wolf Matriarch and both of her cubs.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "Carnillean Rising Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Carnillean_Rising)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 10"
+			},
+			"color": 16316664
+		}
+	},
+	"deadlier catch": {
+		"cmds": ["comp", "mqc"],
+		"content": {
+			"title": "Deadlier Catch",
+			"author": {
+				"name": "Comp Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Deadlier Catch](http://runescape.wikia.com/wiki/Deadlier_Catch) is an achievement that requires the player to hunt the Thalassus another ten times after completion of Deadliest Catch.\n\nThalassus is a massive fish that originates from the Wushanko Isles and is featured in the Deadliest Catch quest.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "Deadliest Catch Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Deadliest_Catch)"
+				},
+				{
+					"name": "Guide:",
+					"value": "[Completionist Cape - Hunting Thalassus Guide](https://www.youtube.com/watch?v=wUxYUxN4I3c)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 10"
+			},
+			"color": 16316664
 		}
 	}
 };
