@@ -33,11 +33,12 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 		helpEmbed.title = "Comprehensive list of all valid Completionist guide commands";
 		helpEmbed.author.name = "Comp Cape Info";
 		helpEmbed.description = output;
+		helpEmbed.timestamp = new Date();
 		return message.channel.send("", {embed: helpEmbed});
 	}
 	args.forEach(a => {
 		keyList.forEach(k => {
-			if (k.includes(a.toLowerCase())) rtnArr.push(k);
+			if (k.includes(a.toLowerCase()) && !rtnArr.includes(k)) rtnArr.push(k);
 		});
 	});
 
@@ -45,11 +46,13 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 		return message.channel.send(`No results found for **${args.join(" ")}**.`);
 	} else if (rtnArr.length == 1) {
 		const guide = data[rtnArr[0]].content;
+		guide.timestamp = new Date();
 		message.channel.send("", {embed: guide});
 	} else if (rtnArr.length > 1) {
 		let output = "";
 		let i = 1;
 		const searchEmbed = data["search"].content;
+		const msgAuthor = message.author.id;
 		rtnArr.forEach(n => {
 			output += `${i}: ${data[rtnArr[i-1]].content.title}\n`;
 			i++;
@@ -57,9 +60,10 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 		searchEmbed.title = "All Completionist Cape guide commands matching your search";
 		searchEmbed.author.name = "Comp Cape Info";
 		searchEmbed.description = output;
+		searchEmbed.timestamp = new Date();
 		message.channel.send("", {embed: searchEmbed});
 		const response = await client.awaitReply(message, "Which achievement were you searching for? Please enter the corresponding number.");
-		if (response > rtnArr.length || response < 1) return message.channel.send("Invalid number specified, search cancelled.");
+		if (isNaN(response) || response > rtnArr.length || response < 1) return message.channel.send("Invalid number specified, search cancelled.");
 		const choice = data[rtnArr[response-1]].content;
 		return message.channel.send("", {embed: choice});
 	} else {
