@@ -33,6 +33,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 		helpEmbed.title = "Comprehensive list of all valid Completionist guide commands";
 		helpEmbed.author.name = "Comp Cape Info";
 		helpEmbed.description = output;
+		helpEmbed.color = 16316664;
 		helpEmbed.timestamp = new Date();
 		return message.channel.send("", {embed: helpEmbed});
 	}
@@ -46,13 +47,14 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 		return message.channel.send(`No results found for **${args.join(" ")}**.`);
 	} else if (rtnArr.length == 1) {
 		const guide = data[rtnArr[0]].content;
+		guide.author.name = "Comp Cape Info";
+		guide.color = 16316664;
 		guide.timestamp = new Date();
 		message.channel.send("", {embed: guide});
 	} else if (rtnArr.length > 1) {
 		let output = "";
 		let i = 1;
 		const searchEmbed = data["search"].content;
-		const msgAuthor = message.author.id;
 		rtnArr.forEach(n => {
 			output += `${i}: ${data[rtnArr[i-1]].content.title}\n`;
 			i++;
@@ -60,6 +62,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 		searchEmbed.title = "All Completionist Cape guide commands matching your search";
 		searchEmbed.author.name = "Comp Cape Info";
 		searchEmbed.description = output;
+		searchEmbed.color = 16316664;
 		searchEmbed.timestamp = new Date();
 		message.channel.send("", {embed: searchEmbed});
 		const response = await client.awaitReply(message, "Which achievement were you searching for? Please enter the corresponding number.");
@@ -67,7 +70,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 		const choice = data[rtnArr[response-1]].content;
 		return message.channel.send("", {embed: choice});
 	} else {
-	message.channel.send("If you see this, contact @97928972305707008");
+	message.channel.send("If you see this, contact @<97928972305707008>");
 	}
 };
 
