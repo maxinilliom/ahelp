@@ -19,10 +19,26 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 	const achName = args.join(" ").toLowerCase();
 	const keyList = [];
 	const rtnArr = [];
+
+	if (message.channel !== '382701090430386180' && message.author.permLevel < 1) return;
+
 	Object.getOwnPropertyNames(data).forEach(k => {
 		if (data[k].cmds.includes("comp")) keyList.push(k);
 	});
 	if (!args[0]) return message.channel.send(`Please specify an achievement name.`);
+
+	if (args[0].toLowerCase() == "all" && message.author.permLevel >= 4) {
+		let i = 0;
+		keyList.forEach(k => {
+			const guide = data[k].content;
+			guide.author.name = "Comp Cape Info";
+			guide.color = 16316664;
+			guide.timestamp = new Date();
+			message.channel.send("", {embed: guide});
+			i++;
+		});
+	return message.channel.send(`**${i}**/\**${keyList.length}** responses listed.`);
+	}
 
 	if (args[0].toLowerCase() == "help") {
 		let output = "";
@@ -37,10 +53,9 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 		helpEmbed.timestamp = new Date();
 		return message.channel.send("", {embed: helpEmbed});
 	}
-	args.forEach(a => {
-		keyList.forEach(k => {
-			if (k.includes(a.toLowerCase()) && !rtnArr.includes(k)) rtnArr.push(k);
-		});
+
+	keyList.forEach(k => {
+		if (RegExp(achName).test(k) && !rtnArr.includes(k)) rtnArr.push(k);
 	});
 
 	if (rtnArr.length == 0) {
@@ -78,7 +93,7 @@ exports.conf = {
 	enabled: true,
 	guildOnly: true,
 	aliases: [],
-	permLevel: "Administrator",
+	permLevel: "User",
 	guilds: []
 };
 

@@ -1,6 +1,5 @@
 module.exports = (client) => {
 
-	const numerals = ["i", "ii", "iii", "iv", "v", "vi", "vii", "viii", "ix", "x"];
 	client.permlevel = message => {
 		let permlvl = 0;
 
@@ -8,7 +7,7 @@ module.exports = (client) => {
 
 		while (permOrder.length) {
 			const currentLevel = permOrder.shift();
-			if (message.guild && currentLevel.guilOnly) continue;
+			if (message.guild && currentLevel.guildOnly) continue;
 			if (currentLevel.check(message)) {
 				permlvl = currentLevel.level;
 				break;
