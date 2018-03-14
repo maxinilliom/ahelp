@@ -1,33 +1,30 @@
 exports.run = (client, message, args, level) => {
-  const test = {
-    "title": "Levels 1 - 30: Troll Brutes",
-    "author": {
-      "name": "Max Cape info: Melee",
-      "icon_url": "https://i.imgur.com/6c6q2iC.png"
-    },
-    "description": "Levels 1-30 should take approximately one hour per skill and can be done on [**Troll Brutes**](http://runescape.wikia.com/wiki/Troll_brute).",
-    "thumbnail": {
-      "url": "https://vignette.wikia.nocookie.net/runescape2/images/f/f0/Troll_brute.png"
-    },
-    "fields": [
-      {
-        "name": "Info:",
-        "value": "Troll Brutes are found in the northernmost cave in Burthorpe. They regularly drop food which you can eat for sustenance. Although they are weak to air spells they only have 50 hitpoints so can be killed in one hit."
-      },
-      {
-        "name": "Stats:",
-        "value": "• Level 2\n• 50 Hitpoints\n• 40 EXP per kill (10 Constitution EXP included)\n• Weak to air spells"
-      },
-      {
-        "name": "Guide:",
-        "value": "[1-99 P2P/F2P Melee Guide 2017 - Fastest Experience Rates and How to Get 138 Combat Fast](https://levelskip.com/mmorpgs/RuneScape-3-1-99-Melee-Guide)"
-      }
-    ],
-    "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
-      "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
-    }
-  };
+	const test = {
+		"title": "Diaries of the Clans",
+		"author": {
+			"name": "Cape Info",
+			"icon_url": "https://i.imgur.com/6c6q2iC.png"
+		},
+		"description": "[Diaries of the Clans](http://runescape.wikia.com/wiki/Diaries_of_the_Clans) is a meta-achievement that requires the player to completely fill the Voice of the Elders by running laps on the Hefin Agility Course. One page is received every 20 laps, and a total of eight are needed to complete the book.",
+		"thumbnail": {
+			"url": "https://i.imgur.com/Shmagnp.png"
+		},
+		"fields": [
+				{
+				"name": "Clan",
+				"value": "Cadarn                20\nCrwys                 40\nIorwerth             60\nTrahaearn          80\nAmlodd             100\nHefin                  120\nIthell                   140\nMeilyr                160",
+				"inline": true
+				},
+				{
+				"name": "Requirements:",
+				"value": "• 77 Agility\n• Plague's End Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Plague%27s_End)"
+				}
+		],
+		"footer": {
+			"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+			"text": "Runescore awarded: 10"
+		}
+	}
   message.channel.send('', {embed: test});
 };
 
