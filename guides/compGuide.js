@@ -714,5 +714,111 @@ exports.data = {
 				"text": "Runescore awarded: 10"
 			}
 		}
+	},
+	"elven titles": {
+		"cmds": ["comp"],
+		"content": {
+			"title": "Elven Titles",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Elven Titles](http://runescape.wikia.com/wiki/Elven_Titles) is an achievement that requires the player to obtain the clan-named elven titles after Plague's End in Prifddinas.\n\n• of the Trahaearn: Obtain 100 corrupted ores while mining Seren stones.\n• of the Iorwerth: Complete 8 dark beast slayer assignments assigned by Morvran.\n• of the Cadarn: Defeat 1,000 Cadarn rangers or magi in combat.\n• of the Crwys: Check the health of an elder tree grown in the elder tree patch in the Crwys Clan district in Prifddinas.\n• of the Amlodd: Summon a light creature familiar, use an enlightenment scroll, then talk to Lord Amlodd.\n• of the Ithell: Craft 100 crystal flasks.\n• of the Hefin: Complete 200 laps of the Hefin Agility Course.\n• of the Meilyr: Harvest 50 harmony moss from the Harmony pillars.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• 89 Mining\n• 90 Slayer\n• 90 Farming\n• 77 Agility\n• 89 Crafting\n• 88 Summoning\n\n• Plague's End Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Plague%27s_End)\n• As a First Resort Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/As_a_First_Resort)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 25"
+			}
+  	}
+	},
+	"family spirit tree": {
+		"cmds": ["comp", "mqc"],
+		"content": {
+			"title": "Family Spirit Tree",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Family Spirit Tree](http://runescape.wikia.com/wiki/Family_Spirit_Tree) is an achievement that requires the player to plant the spirit tree in Brimhaven, Port Sarim and Etceteria before talking to Glouron to claim the Farming XP lamp.\n\nThe spirit tree must fully grow before being able to claim the Farming XP lamp, and therefore the achievement.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Obtaining a Spirit Seed:",
+					"value": "• Players can buy a spirit seed from Mrs. Winkin for 55,000 Vinesweeper points. Growing a spirit tree yields only 19,501.3 Farming experience, so players desiring experience would do better to trade Vinesweeper points for 55,000 Farming experience instead.\n• Players who have completed Royal Trouble may occasionally receive a spirit seed from managing their kingdom (workers allocated to farming).\n• Dropped by ganodermic beasts\n• They may be obtained from Bird's nests, including nests from Miscellania and Etceteria (workers allocated to woodcutting maple or mahogany trees).\n• The Motherlode Maw has an uncommon chance of awarding a player this seed."
+				},{
+					"name": "Requirements:",
+					"value": "• 89 Farming\n\n• Plague's End Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Plague%27s_End)\n• The Prisoner of Glouphrie Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Prisoner_of_Glouphrie)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 10"
+			}
+		}
+	},
+	"famous": {
+		"cmds": ["comp"],
+		"content": {
+			"title": "Famous",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Famous](http://runescape.wikia.com/wiki/Famous_(achievement%29) is an achievement that requires the player to complete Morvran's special Slayer challenge and earning the title The Famous.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Recommended order:",
+					"value": "• Araxxi\n• Giant Mole (hard mode)\n• Dagannoth Prime\n• Dagannoth Rex\n• Dagannoth Supreme\n• Queen Black Dragon\n• Commander Zilyana\n• Kree'arra\n• K'ril Tsutsaroth\n• General Graardor\n• Kalphite Queen\n• King Black Dragon"
+				},{
+					"name": "Requirements:",
+					"value": "• 70 Constitution\n• 70 Strength\n\n• Plague's End Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Plague%27s_End)\n• Troll Stronghold Quest partial completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Troll_Stronghold)"
+				},
+				{
+					"name": "Guide:",
+					"value": "[Morvran's Special Assignment guide | YouTube](https://www.youtube.com/watch?v=nRo_iLoFhL8)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 50"
+			}
+		}
+	},
+	"heal, quickly": {
+		"cmds": ["comp"],
+		"content": {
+			"title": "Heal, Quickly",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Heal, Quickly](http://runescape.wikia.com/wiki/Heal,_Quickly) is an achievement that requires the player to buy the Scroll of renewal from the Dungeoneering reward shop for 38,000 Dungeoneering tokens and reading it.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• 65 Dungeoneering\n• 65 Prayer"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 15"
+			}
+		}
 	}
 };
