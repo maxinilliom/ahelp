@@ -820,5 +820,89 @@ exports.data = {
 				"text": "Runescore awarded: 15"
 			}
 		}
+	},
+	"i'm forever washing shadows": {
+		"cmds": ["comp", "mqc"],
+		"content": {
+			"title": "I'm Forever Washing Shadows",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[I'm Forever Washing Shadows](http://runescape.wikia.com/wiki/I%27m_Forever_Washing_Shadows) is an achievement that requires the player to obtain the Divination XP lamp from Lord Amlodd by cleansing 15 of each blissful, truthful and manifest shadow cores that have been manually picked up by the player after killing the appropriate shadow creature.\n\nPrior shadow cores stored in the bank pre-update will not count towards the achievement. Do not use a legendary pet to pick up the cores, those cores will not count toward the 15 required.\n\n Boosts can be used to receive this lamp and complete the achievement.\n\n This achievement has no progress indicator, so it is recommended to keep the cores in the bank to determine which cores are left to do. When the player can claim the lamp and complete the achievement, they will receive the chat message \"You've collected enough of a variety of shadow cores that Lord Amlodd would like to reward you.\"\n\nThe title of this task is misleading, players do not have to cleanse the cores.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• 91 Divination\n\n• Plague's End Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Plague%27s_End)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 10"
+			}
+		}
+	},
+	"imping around": {
+		"cmds": ["comp"],
+		"content": {
+			"title": "Imping Around",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Imping Around](http://runescape.wikia.com/wiki/Imping_Around) is an achievement that requires the player to catch one of each type of impling for Daffyd after speaking to him. They can be caught with a butterfly net, magic butterfly net, sacred clay butterfly net, or volatile clay butterfly net.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Location methods:",
+					"value": "• Obtain tier 4 Menaphos reputation, since this will provide a chance to spawn an impling on every gather tick.\n• World hop within the Gorajo resource dungeon\n• Puro-Puro which can be accessed either at the Zanaris wheat field, which contains a permanent portal, or the various wheat fields around RuneScape, which have temporary crop circle portals. To use these portals, a hunter level of 17 is required.\n• Impetuous Impulses minigame\n• Using a tree-shaking scrimshaw in the Crwys clan during the Voice of Seren may disturb a crystal impling, which can then be caught by the player using the scrimshaw."
+				},
+        {
+					"name": "Requirements:",
+					"value": "• 95 Hunter\n\n• Plague's End Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Plague%27s_End)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 25"
+			}
+		}
+	},
+	"invention gives me the blues": {
+		"cmds": ["comp"],
+		"content": {
+			"title": "Invention Gives Me the Blues",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Invention Gives Me the Blues](http://runescape.wikia.com/wiki/Invention_Gives_Me_the_Blues) is an achievement that requires the player to catch one of each type of impling for Daffyd after speaking to him. They can be caught with a butterfly net, magic butterfly net, sacred clay butterfly net, or volatile clay butterfly net.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Dwarven Technology Tree:",
+					"value": "The dwarven tech tree is a tree of technology from the skill Invention. At level 40, you may choose to follow this path by talking to Drorkar in Keldagrim.Note that you must complete The Giant Dwarf quest in order for Drorkar to appear in the Keldagrim Palace workshop on the west side of the river.\n\nDwarven technology tree items can be unlocked using Dwarven currency which is earned by completing Invention tasks (not to be confused with Daily Tasks). These tasks can be found at the noticeboard in the Invention guild, in Dorgesh-Kaan near Oldak, and in Keldagrim near Drorkar. Up to 5 tasks can be saved and each 12 hours a new task is added."
+				},{
+					"name": "Cave Goblin Technology Tree:",
+					"value": "The cave goblin tech tree is a tree of technology from Invention. At level 40, you may choose to follow this path by talking to Oldak in Dorgesh-Kaan.\n\nCave goblin technology tree items can be unlocked using Cave goblin currency which is earned by completing Invention tasks (not to be confused with Daily Tasks). These tasks can be found at the noticeboard in the Invention guild, near Oldak in Dorgesh-Kaan, and near Drorkar in Keldagrim. Up to 5 tasks can be saved and each 12 hours a new task is added."
+				},
+        
+        {
+					"name": "Requirements:",
+					"value": "• 70 Invention\n\n• Giant Dwarf Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Giant_Dwarf)\n• Death to the Dorgeshuun Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Death_to_the_Dorgeshuun)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 30"
+			}
+		}
 	}
 };
