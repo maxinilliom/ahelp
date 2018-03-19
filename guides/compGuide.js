@@ -644,7 +644,7 @@ exports.data = {
 				},
 				{
 					"name": "Guide:",
-					"value": "[Completionist Cape - Hunting Thalassus Guide](https://www.youtube.com/watch?v=wUxYUxN4I3c)"
+					"value": "[Completionist Cape - Hunting Thalassus Guide | YouTube](https://www.youtube.com/watch?v=wUxYUxN4I3c)"
 				}
 			],
 			"footer": {
@@ -902,6 +902,98 @@ exports.data = {
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 30"
+			}
+		}
+	},
+	"kharshai's memories": {
+		"cmds": ["comp"],
+		"content": {
+			"title": "Kharshai's Memories",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Kharshai's Memories](http://runescape.wikia.com/wiki/Kharshai%27s_Memories) is an achievement that requires the player to obtain all 15 memories for Kharshai during the Mahjarrat Memories miniquest and finish the miniquest.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• 60 Divination\n\n• Koschei's Troubles Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Koschei%27s_Troubles)\n• Missing, Presumed Death Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Missing,_Presumed_Death)"
+				},
+				{
+					"name": "Guide:",
+					"value": "[Mahjarrat Memories Miniquest Guide | Runescape Wiki](http://runescape.wikia.com/wiki/Mahjarrat_Memories)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 15"
+			}
+		}
+	},
+	"kiln fighter": {
+		"cmds": ["comp"],
+		"content": {
+			"title": "Kiln Fighter",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Kiln Fighter](http://runescape.wikia.com/wiki/Kiln_Fighter) is an achievement that requires the player to finish the Fight Kiln once.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• Fire Cape\n\n• Elder Kiln Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Elder_Kiln)"
+				},
+				{
+					"name": "Guide:",
+					"value": "[Fight Kiln Guide | YouTube](https://www.youtube.com/watch?v=g1KWJUv5nG4)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 20"
+			}
+		}
+	},
+	"kudos to you": {
+		"cmds": ["comp", "mqc"],
+		"content": {
+			"title": "Kudos to You",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Kudos to You](http://runescape.wikia.com/wiki/Kudos_to_You) is an achievement that requires the player to obtain all available Kudos by helping out the Varrock Museum.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• The Curse of Zaros Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Curse_of_Zaros)\n• Defender of Varrock Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Defender_of_Varrock)\n• Demon Slayer Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Demon_Slayer)\n• Glorious Memories Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Glorious_Memories)\n• The Grand Tree Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Grand_Tree)\n• Hazeel Cult Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Hazeel_Cult)\n• In Aid of the Myreque Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/In_Aid_of_the_Myreque)\n• Making History Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Making_History)\n• Meeting History Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Meeting_History)"
+				},
+        {
+          "name": "Requirements continued:",
+          "value": "• Merlin's Crystal Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Merlin%27s_Crystal)\n• Observatory Quest Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Observatory_Quest)\n• Priest in Peril Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Priest_in_Peril)\n• Rune Mysteries Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Rune_Mysteries)\n• Shield of Arrav Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Shield_of_Arrav)\n• A Tail of Two Cats Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/A_Tail_of_Two_Cats)\n• Temple of Ikov Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Temple_of_Ikov)\n• What Lies Below Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/What_Lies_Below)"
+        },
+				{
+					"name": "Guide:",
+					"value": "A player can earn a maximum of 198 kudos in the Varrock Museum activity through 5 different methods:\n• by cleaning finds. You must also be wearing leather gloves and leather boots, and have a trowel, a rock pick, and a specimen brush. All can be obtained from the tool rack on the south wall in the museum. (50 kudos)\n• by answering a [National History quiz](http://runescape.wikia.com/wiki/Natural_history_quiz) about museum exhibits, by speaking to Orlando Smith, who is a natural historian found on the basement floor of the Varrock Museum (or Mark Brodie, who is found at the same location, if you have completed The World Wakes) and reading the plaques on the basement exhibits (28 kudos)"
+				},
+				{
+					"name": "Guide continued:",
+					"value": "• by relating details of certain completed quests to Historian Minas, who is a Varrock Museum employee and can be found on the 1st floor, near the staircase (currently 95 kudos)\n• by completing the [Dahmaroc statue](http://runescape.wikia.com/wiki/Dahmaroc_statue) for the first time (10 kudos)\n• by completing dragonkin related quests and tasks and talking to Mr. Mordaut, who is located behind the door at the back of the stairs to the Varrock Museum basement.  (15 kudos)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 25"
 			}
 		}
 	}
