@@ -969,7 +969,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Kudos to You](http://runescape.wikia.com/wiki/Kudos_to_You) is an achievement that requires the player to obtain all available Kudos by helping out the Varrock Museum.",
+			"description": "[Kudos to You](http://runescape.wikia.com/wiki/Kudos_to_You) is an achievement that requires the player to obtain all available Kudos by helping out the Varrock Museum. Players can speak to the Information clerk on the ground floor of the Varrock Museum to receive suggestions on how to receive more Kudos.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -996,5 +996,65 @@ exports.data = {
 				"text": "Runescore awarded: 25"
 			}
 		}
+	},
+	"long live the queen": {
+		"cmds": ["comp"],
+		"content": {
+			"title": "Long Live the Queen",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Long Live the Queen](http://runescape.wikia.com/wiki/Long_Live_the_Queen) is an achievement that requires the player to obtain the first dragonkin journal as drop from the first kill of the Queen Black Dragon.\n\nThe first dragonkin journal is a 100% drop from a player's first kill of the Queen Black Dragon. It describes how the Queen Black Dragon was created and tells of the curse of the dragonkin: to feel pain whenever the Stone of Jas is used by a False User.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• 60 Summoning"
+				},
+				{
+					"name": "Guide:",
+					"value": "[Queen Black Dragon Detailed Guide | YouTube](http://runescape.wikia.com/wiki/Mahjarrat_Memories)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 10"
+			}
+		}
+	},
+	"lost toys": {
+		"cmds": ["comp"],
+		"content": {
+			"title": "Lost Toys",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Lost Toys](http://runescape.wikia.com/wiki/Kharshai%27s_Memories) is an achievement that requires the player to complete The Lost Toys miniquest.\n\nPlayers can begin the event by speaking to Lex who is located in the Hair of the Dog inn in Canifis. The player hunts for 13 plushies lost throughout Morytania.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• The Lord of the Vampyrium Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Lord_of_Vampyrium)"
+				},
+				{
+					"name": "Guide:",
+					"value": "[The Lost Toys Guide | Runescape Wiki](http://runescape.wikia.com/wiki/The_Lost_Toys)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 10"
+			}
+		}
+	},
+	"lunar master": {
+		"cmds": ["comp"],
+		"content": 
 	}
 };
