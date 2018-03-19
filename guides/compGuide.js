@@ -1055,6 +1055,94 @@ exports.data = {
 	},
 	"lunar master": {
 		"cmds": ["comp"],
-		"content": 
+		"content": {
+			"title": "Lunar Master",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Lunar Master](http://runescape.wikia.com/wiki/Lunar_Master) is an achievement that tracks the player's progress into unlocking the nine Livid Farm spells.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• 70 Magic\n• 60 Agility\n • 60 Crafting\n • 60 Farming\n • 50 Construction\n\n• Lunar Diplomacy Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Lunar_Diplomacy)\n• Have the Lunar Spellbook activated"
+				},
+        {
+          "name": "Requirements to complete all the activities with full points and magic XP:",
+          "value": "• 81 Magic"
+        },
+        {
+          "name": "Requirements to complete all the distractions:",
+          "value": "• 93 Magic"
+        },
+				{
+					"name": "Guide:",
+					"value": "[Livid Farm Basics Guide | YouTube](https://www.youtube.com/watch?v=b7qql8K2Y2s)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 25"
+			}
+		}
+	},
+	"make them bleed": {
+		"cmds": ["comp", "mqc"],
+		"content": {
+			"title": "Make Them Bleed",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Make Them Bleed](http://runescape.wikia.com/wiki/Make_Them_Bleed) is an achievement that requires the player to clear wave twenty of any difficulty of Rush of Blood to claim the Slayer XP lamp from Morvran. Twenty waves need to be cleared, reaching wave 20 does not suffice. Players are not required to be on a reward run to complete this achievement, it can be done during a regular run.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• Plague's End Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Plague%27s_End)"
+				},
+				{
+					"name": "Guide:",
+					"value": "[Updated Rush of Blood Guide | YouTube](https://www.youtube.com/watch?v=l5jz9ybmg-U)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 20"
+			}
+		}
+	},
+	"master quester": {
+		"cmds": ["comp", "mqc"],
+		"content": {
+			"title": "Master Quester",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Master Quester](http://runescape.wikia.com/wiki/Master_Quester) is an achievement that is awarded after the completion of all available quests. The achievement also tracks the player's quest points. The current total is 396 quest points.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• Attack 79\n• Constitution 80\n• Mining 80+\n• Strength 85+\n• Agility 80\n• Smithing 82+\n• Defence 80\n• Herblore 80\n• Fishing 72\n• Ranged 78\n• Thieving 74\n• Cooking 70+\n• Prayer 80\n• Crafting 80\n• Firemaking 76\n• Magic 81\n• Fletching 75\n• Woodcutting 80\n• Runecrafting 61+\n• Slayer 80\n• Farming 65+\n• Construction 79\n• Hunter 76\n• Summoning 75\n• Dungeoneering 75\n• Divination 80\n• Invention 1\n• Combat 112~"
+				},
+				{
+					"name": "Guides:",
+					"value": "[List of Quests | Runescape Wiki](http://runescape.wikia.com/wiki/List_of_quests)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 75"
+			}
+		}
 	}
 };
