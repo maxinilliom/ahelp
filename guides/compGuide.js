@@ -969,7 +969,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Kudos to You](http://runescape.wikia.com/wiki/Kudos_to_You) is an achievement that requires the player to obtain all available Kudos by helping out the Varrock Museum. Players can speak to the Information clerk on the ground floor of the Varrock Museum to receive suggestions on how to receive more Kudos.",
+			"description": "[Kudos to You](http://runescape.wikia.com/wiki/Kudos_to_You) is an achievement that requires the player to obtain all available Kudos by helping out the Varrock Museum. Players can speak to the Information clerk on the ground floor of the Varrock Museum to receive suggestions on how to receive more Kudos.\n\nA player can earn a maximum of 198 kudos in the Varrock Museum activity through 5 different methods:\n• by cleaning finds. You must also be wearing leather gloves and leather boots, and have a trowel, a rock pick, and a specimen brush. All can be obtained from the tool rack on the south wall in the museum. (50 kudos)\n• by answering a [National History quiz](http://runescape.wikia.com/wiki/Natural_history_quiz) about museum exhibits, by speaking to Orlando Smith, who is a natural historian found on the basement floor of the Varrock Museum (or Mark Brodie, who is found at the same location, if you have completed The World Wakes) and reading the plaques on the basement exhibits (28 kudos)\n• by relating details of certain completed quests to Historian Minas, who is a Varrock Museum employee and can be found on the 1st floor, near the staircase (currently 95 kudos)\n• by completing the [Dahmaroc statue](http://runescape.wikia.com/wiki/Dahmaroc_statue) for the first time (10 kudos)\n• by completing dragonkin related quests and tasks and talking to Mr. Mordaut, who is located behind the door at the back of the stairs to the Varrock Museum basement. (15 kudos)",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -984,11 +984,7 @@ exports.data = {
         },
 				{
 					"name": "Guide:",
-					"value": "A player can earn a maximum of 198 kudos in the Varrock Museum activity through 5 different methods:\n• by cleaning finds. You must also be wearing leather gloves and leather boots, and have a trowel, a rock pick, and a specimen brush. All can be obtained from the tool rack on the south wall in the museum. (50 kudos)\n• by answering a [National History quiz](http://runescape.wikia.com/wiki/Natural_history_quiz) about museum exhibits, by speaking to Orlando Smith, who is a natural historian found on the basement floor of the Varrock Museum (or Mark Brodie, who is found at the same location, if you have completed The World Wakes) and reading the plaques on the basement exhibits (28 kudos)"
-				},
-				{
-					"name": "Guide continued:",
-					"value": "• by relating details of certain completed quests to Historian Minas, who is a Varrock Museum employee and can be found on the 1st floor, near the staircase (currently 95 kudos)\n• by completing the [Dahmaroc statue](http://runescape.wikia.com/wiki/Dahmaroc_statue) for the first time (10 kudos)\n• by completing dragonkin related quests and tasks and talking to Mr. Mordaut, who is located behind the door at the back of the stairs to the Varrock Museum basement.  (15 kudos)"
+					"value": "[Kudos | Runescape Wiki](http://runescape.wikia.com/wiki/Kudos)"
 				}
 			],
 			"footer": {
@@ -1044,7 +1040,7 @@ exports.data = {
 				},
 				{
 					"name": "Guide:",
-					"value": "[The Lost Toys Guide | Runescape Wiki](http://runescape.wikia.com/wiki/The_Lost_Toys)"
+					"value": "[The Lost Toys Miniquest Guide | Runescape Wiki](http://runescape.wikia.com/wiki/The_Lost_Toys)"
 				}
 			],
 			"footer": {
@@ -1142,6 +1138,150 @@ exports.data = {
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 75"
+			}
+		}
+	},
+	"master skiller": {
+		"cmds": ["comp"],
+		"content": {
+			"title": "Master Skiller",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Master Skiller](http://runescape.wikia.com/wiki/Master_Skiller) is an achievement that is awarded after the completion of all available quests. The achievement also tracks the player's quest points. The current total is 396 quest points.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "Currently the achievement requires level 99 in all skills, except Dungeoneering, Invention, and Slayer, which require level 120."
+				},
+				{
+					"name": "Guides:",
+					"value": "Please visit the [Skilling](https://discord.gg/EFrxgks) Discord server for guides on the best ways to level your skills."
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 75"
+			}
+		}
+	},
+	"memories of guthix": {
+		"cmds": ["comp", "mqc"],
+		"content": {
+			"title": "Memories of Guthix",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Memories of Guthix](http://runescape.wikia.com/wiki/Memories_of_Guthix_(achievement%29) is an achievement that requires the player to complete the Memorial to Guthix at least once by collecting all engrams, charging them, and handing them in to Orla Fairweather.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• Lost City Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Lost_City)"
+				},
+				{
+					"name": "Guide:",
+					"value": "[Memorial to Guthix | Runescape Wiki](https://www.youtube.com/watch?v=wUxYUxN4I3c)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 20"
+			}
+		}
+	},
+	"music maestro": {
+		"cmds": ["comp"],
+		"content": {
+			"title": "Music Maestro",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Music Maestro](http://runescape.wikia.com/wiki/Music_Maestro) is an achievement that tracks the amount of music tracks the player has unlocked. The current total is 1203. You can click on the song in game to view what needs done in order to unlock it.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• **80 Agility** for The Light Within Quest\n• **80 Attack** for Heart of Gielinor (Vindicta, Telos)\n• **80 Constitution** for River of Blood Quest\n• **79 Construction** for The Lord of Vampyrium Quest\n• **70 Cooking** for Recipe for Disaster: Freeing King Awowogei Quest (required for completing Ritual of the Mahjarrat Quest)\n• **80 Crafting** for The Light Within Quest\n• **76 Defence** for A Clockwork Syringe Quest\n• **80 Divination** for The Light Within Quest\n• **113 Dungeoneering** for Daemonheim (Kal'Ger the Warmonger)\n• **65 Farming** for While Guthix Sleeps Quest\n• **76 Firemaking** for River of Blood Quest\n• **70 Fishing** for Deadliest Catch Quest\n• **75 Fletching** for River of Blood Quest\n• **80 Herblore** for The Light Within Quest and River of Blood Quest\n• **76 Hunter** for The Lord of Vampyrium Quest\n• **1 Invention** for Invention Guild\n• **81 Magic** for One of a Kind Quest\n• **80 Mining** for Birthright of the Dwarves Quest"
+				},
+        {
+          "name": "Requirements continued:",
+          "value": "• **80 Prayer** for Heart of Gielinor (Gregorovic, Telos) and The Light Within Quest\n• **80 Ranged** for Heart of Gielinor (Twin Furies, Telos)\n• **66 Runecrafting** for Runespan (Upper level)\n• **115 Slayer** for Sophanem Slayer Dungeon (The Magister)\n• **82 Smithing** for Birthright of the Dwarves Quest\n• **85 Strength** for Birthright of the Dwarves Quest\n• **75 Summoning** for Plague's End Quest\n• **75 Thieving** for Flash Powder Factory Quest\n• **80 Woodcutting** for The Light Within Quest\n• **275 Quest points** for Ritual of the Mahjarrat Quest\n• **Quest point cape or 99 cape in any skill** for Max Guild Garden access\n• **Combat level 110** for Kuradal's Dungeon access\n• **350 Tasks** for the music track unlock"
+        },
+				{
+					"name": "Guide:",
+					"value": "[Music | Runescape Wiki](http://runescape.wikia.com/wiki/Music)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 50"
+			}
+		}
+	},
+	"myreque in memoriam": {
+		"cmds": ["comp", "mqc"],
+		"content": {
+			"title": "Myreque in Memoriam",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Myreque in Memoriam](http://runescape.wikia.com/wiki/Deadlier_Catch) is an achievement that requires the player to complete the In Memory of the Myreque miniquest. During the miniquest, the player builds monuments to honour allies lost in the Myreque quest series. The finished statues act as altars, which give five extra Prayer points per statue built.\n\nNote that you can only build one statue per day from when you start the miniquest, however, you can begin the miniquest and revisit in 10 days to build them all at once if you wish. ",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• Lord of Vampyrium Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Lord_of_Vampyrium)"
+				},
+				{
+					"name": "Guide:",
+					"value": "[In Memory of the Myreque Miniquest Guide | Runescape Wiki](http://runescape.wikia.com/wiki/In_Memory_of_the_Myreque)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 15"
+			}
+		}
+	},
+	"one foot in the grave": {
+		"cmds": ["comp", "mqc"],
+		"content": {
+			"title": "One Foot in the Grave",
+			"author": {
+				"name": "One Foot in the Grave",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[One Foot in the Grave](http://runescape.wikia.com/wiki/One_Foot_in_the_Grave) is an achievement that requires the player to complete the Returning Clarence miniquest.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• Back to my Roots Quest partial completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Back_to_my_Roots)"
+				},
+				{
+					"name": "Guide:",
+					"value": "[Returning Clarence Miniquest Guide | Runescape Wiki](http://runescape.wikia.com/wiki/Returning_Clarence)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 15"
 			}
 		}
 	}
