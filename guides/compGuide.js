@@ -1,7 +1,7 @@
 exports.data = {
 	"help": {
 		"cmds": [],
-		"content": {
+		"embed": {
 			"title": "Comprehensive list of all valid commands",
 			"author": {
 				"name": "Cape Info",
@@ -16,7 +16,7 @@ exports.data = {
 	},
 	"search": {
 		"cmds": [],
-		"content": {
+		"embed": {
 			"title": "All commands matching your search",
 			"author": {
 				"name": "Cape Info",
@@ -31,7 +31,7 @@ exports.data = {
 	},
 	"abyssal reach": {
 		"cmds": ["comp", "mqc"],
-		"content": {
+		"embed": {
 			"title": "Abyssal Reach",
 			"author": {
 				"name": "Cape Info",
@@ -59,7 +59,7 @@ exports.data = {
 	},
 	"almost as perky as a prawn": {
 		"cmds": ["comp"],
-		"content": {
+		"embed": {
 			"title": "Almost as Perky as a Prawn",
 			"author": {
 				"name": "Cape Info",
@@ -87,7 +87,7 @@ exports.data = {
 	},
 	"annihilator": {
 		"cmds": ["comp", "mqc"],
-		"content": {
+		"embed": {
 			"title": "Annihilator",
 			"author": {
 				"name": "Cape Info",
@@ -115,7 +115,7 @@ exports.data = {
 	},
 	"arc - ancient eastern tortle portles": {
 		"cmds": ["comp"],
-		"content": {
+		"embed": {
 			"title": "Arc - Ancient Eastern Tortle Portals",
 			"author": {
 				"name": "Cape Info",
@@ -139,7 +139,7 @@ exports.data = {
 	},
 	"arc i - flag fall": {
 		"cmds": ["comp", "mqc"],
-		"content": {
+		"embed": {
 			"title": "Arc I - Flag Fall",
 			"author": {
 				"name": "Cape Info",
@@ -167,7 +167,7 @@ exports.data = {
 	},
 	"arc ii - head of the family": {
 		"cmds": ["comp", "mqc"],
-		"content": {
+		"embed": {
 			"title": "Arc II - Head of the Family",
 			"author": {
 				"name": "Cape Info",
@@ -195,7 +195,7 @@ exports.data = {
 	},
 	"arc iii - spiritual enlightenment": {
 		"cmds": ["comp", "mqc"],
-		"content": {
+		"embed": {
 			"title": "Arc III - Spiritual Enlightenment",
 			"author": {
 				"name": "Cape Info",
@@ -223,7 +223,7 @@ exports.data = {
 	},
 	"arc iv - jed hunter": {
 		"cmds": ["comp", "mqc"],
-		"content": {
+		"embed": {
 			"title": "Arc IV - Jed Hunter",
 			"author": {
 				"name": "Cape Info",
@@ -251,7 +251,7 @@ exports.data = {
 	},
 	"arc v - eye for an eye": {
 		"cmds": ["comp", "mqc"],
-		"content": {
+		"embed": {
 			"title": "Arc V - Eye for an Eye",
 			"author": {
 				"name": "Cape Info",
@@ -279,7 +279,7 @@ exports.data = {
 	},
 	"arc vi - harbinger of doom": {
 		"cmds": ["comp", "mqc"],
-		"content": {
+		"embed": {
 			"title": "Arc VI - Harbinger of Doom",
 			"author": {
 				"name": "Cape Info",
@@ -307,7 +307,7 @@ exports.data = {
 	},
 	"arc vii - tuai leit's own": {
 		"cmds": ["comp", "mqc"],
-		"content": {
+		"embed": {
 			"title": "Arc VII - Tuai Leit's Own",
 			"author": {
 				"name": "Cape Info",
@@ -335,7 +335,7 @@ exports.data = {
 	},
 	"arc viii - ghosts from the past": {
 		"cmds": ["comp", "mqc"],
-		"content": {
+		"embed": {
 			"title": "Arc VIII - Ghosts from the Past",
 			"author": {
 				"name": "Cape Info",
@@ -363,7 +363,7 @@ exports.data = {
 	},
 	"arc ix - damage control": {
 		"cmds": ["comp", "mqc"],
-		"content": {
+		"embed": {
 			"title": "Arc IX - Damage Control",
 			"author": {
 				"name": "Cape Info",
@@ -391,7 +391,7 @@ exports.data = {
 	},
 	"arc x - final destinationt": {
 		"cmds": ["comp", "mqc"],
-		"content": {
+		"embed": {
 			"title": "Arc X - Final Destination",
 			"author": {
 				"name": "Cape Info",
@@ -423,7 +423,7 @@ exports.data = {
 	},
 	"arc - unlocking waiko": {
 		"cmds": ["comp"],
-		"content": {
+		"embed": {
 			"title": "Arc - Unlocking Waiko",
 			"author": {
 				"name": "Cape Info",
@@ -447,7 +447,7 @@ exports.data = {
 	},
 	"arc - upgrading waiko": {
 		"cmds": ["comp"],
-		"content": {
+		"embed": {
 			"title": "Arc - Upgrading Waiko",
 			"author": {
 				"name": "Cape Info",
@@ -471,7 +471,7 @@ exports.data = {
 	},
 	"bandos's memories": {
 		"cmds": ["comp", "mqc"],
-		"content": {
+		"embed": {
 			"title": "Bandos's Memories",
 			"author": {
 				"name": "Cape Info",
@@ -499,7 +499,7 @@ exports.data = {
 	},
 	"bane tuner": {
 		"cmds": ["comp", "mqc"],
-		"content": {
+		"embed": {
 			"title": "Bane Tuner",
 			"author": {
 				"name": "Cape Info",
@@ -523,7 +523,7 @@ exports.data = {
 	},
 	"big chinchompa": {
 		"cmds": ["comp"],
-		"content": {
+		"embed": {
 			"title": "Big Chinchompa",
 			"author": {
 				"name": "Cape Info",
@@ -551,7 +551,7 @@ exports.data = {
 	},
 	"bipedal mask": {
 		"cmds": ["comp"],
-		"content": {
+		"embed": {
 			"title": "Bipedal Mask",
 			"author": {
 				"name": "Cape Info",
@@ -575,7 +575,7 @@ exports.data = {
 	},
 	"bridge over fremmy waters": {
 		"cmds": ["comp", "mqc"],
-		"content": {
+		"embed": {
 			"title": "Bridge over Fremmy Waters",
 			"author": {
 				"name": "Cape Info",
@@ -603,7 +603,7 @@ exports.data = {
 	},
 	"claus is rising": {
 		"cmds": ["comp", "mqc"],
-		"content": {
+		"embed": {
 			"title": "Claus Is Rising",
 			"author": {
 				"name": "Cape Info",
@@ -627,7 +627,7 @@ exports.data = {
 	},
 	"deadlier catch": {
 		"cmds": ["comp", "mqc"],
-		"content": {
+		"embed": {
 			"title": "Deadlier Catch",
 			"author": {
 				"name": "Cape Info",
@@ -655,7 +655,7 @@ exports.data = {
 	},
 	"desert-ed ghosts": {
 		"cmds": ["comp"],
-		"content": {
+		"embed": {
 			"title": "Desert-ed Ghosts",
 			"author": {
 				"name": "Cape Info",
@@ -683,7 +683,7 @@ exports.data = {
 	},
 	"diaries of the clans": {
 		"cmds": ["comp", "mqc"],
-		"content": {
+		"embed": {
 			"title": "Diaries of the Clans",
 			"author": {
 				"name": "Cape Info",
@@ -717,7 +717,7 @@ exports.data = {
 	},
 	"elven titles": {
 		"cmds": ["comp"],
-		"content": {
+		"embed": {
 			"title": "Elven Titles",
 			"author": {
 				"name": "Cape Info",
@@ -741,7 +741,7 @@ exports.data = {
 	},
 	"family spirit tree": {
 		"cmds": ["comp", "mqc"],
-		"content": {
+		"embed": {
 			"title": "Family Spirit Tree",
 			"author": {
 				"name": "Cape Info",
@@ -768,7 +768,7 @@ exports.data = {
 	},
 	"famous": {
 		"cmds": ["comp"],
-		"content": {
+		"embed": {
 			"title": "Famous",
 			"author": {
 				"name": "Cape Info",
@@ -799,7 +799,7 @@ exports.data = {
 	},
 	"heal, quickly": {
 		"cmds": ["comp"],
-		"content": {
+		"embed": {
 			"title": "Heal, Quickly",
 			"author": {
 				"name": "Cape Info",
@@ -823,7 +823,7 @@ exports.data = {
 	},
 	"i'm forever washing shadows": {
 		"cmds": ["comp", "mqc"],
-		"content": {
+		"embed": {
 			"title": "I'm Forever Washing Shadows",
 			"author": {
 				"name": "Cape Info",
@@ -847,7 +847,7 @@ exports.data = {
 	},
 	"imping around": {
 		"cmds": ["comp"],
-		"content": {
+		"embed": {
 			"title": "Imping Around",
 			"author": {
 				"name": "Cape Info",
@@ -875,7 +875,7 @@ exports.data = {
 	},
 	"invention gives me the blues": {
 		"cmds": ["comp"],
-		"content": {
+		"embed": {
 			"title": "Invention Gives Me the Blues",
 			"author": {
 				"name": "Cape Info",
@@ -907,7 +907,7 @@ exports.data = {
 	},
 	"kharshai's memories": {
 		"cmds": ["comp"],
-		"content": {
+		"embed": {
 			"title": "Kharshai's Memories",
 			"author": {
 				"name": "Cape Info",
@@ -935,7 +935,7 @@ exports.data = {
 	},
 	"kiln fighter": {
 		"cmds": ["comp"],
-		"content": {
+		"embed": {
 			"title": "Kiln Fighter",
 			"author": {
 				"name": "Cape Info",
@@ -963,7 +963,7 @@ exports.data = {
 	},
 	"kudos to you": {
 		"cmds": ["comp", "mqc"],
-		"content": {
+		"embed": {
 			"title": "Kudos to You",
 			"author": {
 				"name": "Cape Info",
@@ -995,7 +995,7 @@ exports.data = {
 	},
 	"long live the queen": {
 		"cmds": ["comp"],
-		"content": {
+		"embed": {
 			"title": "Long Live the Queen",
 			"author": {
 				"name": "Cape Info",
@@ -1023,7 +1023,7 @@ exports.data = {
 	},
 	"lost toys": {
 		"cmds": ["comp"],
-		"content": {
+		"embed": {
 			"title": "Lost Toys",
 			"author": {
 				"name": "Cape Info",
@@ -1051,7 +1051,7 @@ exports.data = {
 	},
 	"lunar master": {
 		"cmds": ["comp"],
-		"content": {
+		"embed": {
 			"title": "Lunar Master",
 			"author": {
 				"name": "Cape Info",
@@ -1087,7 +1087,7 @@ exports.data = {
 	},
 	"make them bleed": {
 		"cmds": ["comp", "mqc"],
-		"content": {
+		"embed": {
 			"title": "Make Them Bleed",
 			"author": {
 				"name": "Cape Info",
@@ -1115,7 +1115,7 @@ exports.data = {
 	},
 	"master quester": {
 		"cmds": ["comp", "mqc"],
-		"content": {
+		"embed": {
 			"title": "Master Quester",
 			"author": {
 				"name": "Cape Info",
@@ -1143,7 +1143,7 @@ exports.data = {
 	},
 	"master skiller": {
 		"cmds": ["comp"],
-		"content": {
+		"embed": {
 			"title": "Master Skiller",
 			"author": {
 				"name": "Cape Info",
@@ -1160,7 +1160,7 @@ exports.data = {
 				},
 				{
 					"name": "Guides:",
-					"value": "Please visit the [Skilling](https://discord.gg/EFrxgks) Discord server for guides on the best ways to level your skills."
+					"value": "Please visit the <#412093571483828225> channel or use `.max help` for guides on the best ways to level your skills."
 				}
 			],
 			"footer": {
@@ -1171,7 +1171,7 @@ exports.data = {
 	},
 	"memories of guthix": {
 		"cmds": ["comp", "mqc"],
-		"content": {
+		"embed": {
 			"title": "Memories of Guthix",
 			"author": {
 				"name": "Cape Info",
@@ -1199,7 +1199,7 @@ exports.data = {
 	},
 	"music maestro": {
 		"cmds": ["comp"],
-		"content": {
+		"embed": {
 			"title": "Music Maestro",
 			"author": {
 				"name": "Cape Info",
@@ -1231,7 +1231,7 @@ exports.data = {
 	},
 	"myreque in memoriam": {
 		"cmds": ["comp", "mqc"],
-		"content": {
+		"embed": {
 			"title": "Myreque in Memoriam",
 			"author": {
 				"name": "Cape Info",
@@ -1259,7 +1259,7 @@ exports.data = {
 	},
 	"one foot in the grave": {
 		"cmds": ["comp", "mqc"],
-		"content": {
+		"embed": {
 			"title": "One Foot in the Grave",
 			"author": {
 				"name": "One Foot in the Grave",
@@ -1277,6 +1277,30 @@ exports.data = {
 				{
 					"name": "Guide:",
 					"value": "[Returning Clarence Miniquest Guide | Runescape Wiki](http://runescape.wikia.com/wiki/Returning_Clarence)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 15"
+			}
+		}
+	},
+	"out into the ourania": {
+		"cmds": ["comp", "mqc"],
+		"embed": {
+			"title": "Out into the Ourania",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Out into the Ourania](http://runescape.wikia.com/wiki/Deadlier_Catch) is an achievement that requires the player to unlock the Ourania Teleport spell by talking to Baba Yaga with the Lunar spellbook active after completion of Lunar Diplomacy.\n\nBaba Yaga is a member of the Moon Clan on Lunar Isle who lives in a house that walks about upon chicken legs.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• Lunar Diplomacy Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Deadliest_Catch)"
 				}
 			],
 			"footer": {

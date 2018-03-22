@@ -30,7 +30,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 	if (args[0].toLowerCase() == "all" && message.author.permLevel >= 4) {
 		let i = 0;
 		keyList.forEach(k => {
-			const guide = data[k].content;
+			const guide = data[k].embed;
 			guide.author.name = "Comp Cape Info";
 			guide.color = 16316664;
 			guide.timestamp = new Date();
@@ -42,9 +42,9 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 
 	if (args[0].toLowerCase() == "help") {
 		let output = "";
-		const helpEmbed = data["help"].content;
+		const helpEmbed = data["help"].embed;
 		keyList.forEach(k => {
-			output += `${data[k].content.title}\n`;
+			output += `${data[k].embed.title}\n`;
 		});
 		helpEmbed.title = "Comprehensive list of all valid Completionist guide commands";
 		helpEmbed.author.name = "Comp Cape Info";
@@ -61,7 +61,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 	if (rtnArr.length == 0) {
 		return message.channel.send(`No results found for **${args.join(" ")}**.`);
 	} else if (rtnArr.length == 1) {
-		const guide = data[rtnArr[0]].content;
+		const guide = data[rtnArr[0]].embed;
 		guide.author.name = "Comp Cape Info";
 		guide.color = 16316664;
 		guide.timestamp = new Date();
@@ -69,9 +69,9 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 	} else if (rtnArr.length > 1) {
 		let output = "";
 		let i = 1;
-		const searchEmbed = data["search"].content;
+		const searchEmbed = data["search"].embed;
 		rtnArr.forEach(n => {
-			output += `${i}: ${data[rtnArr[i-1]].content.title}\n`;
+			output += `${i}: ${data[rtnArr[i-1]].embed.title}\n`;
 			i++;
 		});
 		searchEmbed.title = "All Completionist Cape guide commands matching your search";
@@ -82,7 +82,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 		message.channel.send("", {embed: searchEmbed});
 		const response = await client.awaitReply(message, "Which achievement were you searching for? Please enter the corresponding number.");
 		if (isNaN(response) || response > rtnArr.length || response < 1) return message.channel.send("Invalid number specified, search cancelled.");
-		const choice = data[rtnArr[response-1]].content;
+		const choice = data[rtnArr[response-1]].embed;
 		return message.channel.send("", {embed: choice});
 	} else {
 	message.channel.send("If you see this, contact @<97928972305707008>");
