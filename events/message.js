@@ -11,7 +11,6 @@ module.exports = (client, message) => {
 		: client.config.defaultSettings;
 
 	//if settings.unmentionable.includes message.mentions.users <-> delete
-	if (message.mentions.users.has('151115578713702400')) return message.delete();
 
 	if (settings.muteList.includes(message.author.id)) {
 		message.delete();
