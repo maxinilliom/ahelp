@@ -1308,5 +1308,209 @@ exports.data = {
 				"text": "Runescore awarded: 15"
 			}
 		}
+	},
+	"peachy bones": {
+		"cmds": ["comp"],
+		"embed": {
+			"title": "Peachy Bones",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Peachy Bones](http://runescape.wikia.com/wiki/Peachy_Bones) is an achievement that requires the player to unlock the Bones To Peaches spell from the Mage Training Arena.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• 33 Magic"
+				},
+				{
+					"name": "Guide:",
+					"value": "[Bones to Peaches Quick Guide | Nonnera RS - YouTube](https://www.youtube.com/watch?v=Yfs2KMlDBcQ)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 10"
+			}
+		}
+	},
+	"pious prayers": {
+		"cmds": ["comp"],
+		"embed": {
+			"title": "Pious Prayers",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Pious Prayers](http://runescape.wikia.com/wiki/Pious_Prayers) is an achievement that requires the player to unlock Chivalry, Piety, Rigour and Augury by completing the Knight Waves training ground after King's Ransom.\n\nThe Knight Waves training ground, also known as the \"Camelot training room\", is a miniquest located on the top floor of Camelot castle. The miniquest is started by talking to a squire standing outside the door of the training room, who will explain how the training grounds work.\n\nPlayers must successfully defeat the eight Knights of the Round Table. Players are allowed to use any style of combat, however Summoning, Prayer, binds and stuns are not allowed and will not work. As well as doing damage, each knight drains certain combat stats (Attack, Defence, Strength, Magic and Ranged) by 5 upon hitting the player. Each knight is harder than the preceding one and will hit more accurately, thereby draining combat stats faster.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• 70 Prayer\n• 70 Defense \n\n• King's Ransom Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/King%27s_Ransom)"
+				},
+				{
+					"name": "Guide:",
+					"value": "[Knight Waves Training Ground Guide | Runescape Wiki](http://runescape.wikia.com/wiki/Knight_Waves_training_ground)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 15"
+			}
+		}
+	},
+	"port life": {
+		"cmds": ["comp"],
+		"embed": {
+			"title": "Port Life",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Port Life](http://runescape.wikia.com/wiki/Port_Life) is an achievement that requires the player to follow the Player-owned port tutorial.\n\nThis minigame involves players building their own port in order to manage a fleet of ships, staffed by recruited crew members. These ships explore the Wushanko Isles on the player's behalf and return with exotic items and supplies that are otherwise unavailable.\n\nPlayers can start the minigame by entering one of three portals located south-west of the Rusty Anchor pub in Port Sarim, north-east of the Lodestone in Prifddinas, or in the southern part of the Port district in Menaphos.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "One of the following:\n• 90 Agility\n• 90 Construction\n• 90 Cooking\n• 90 Divination\n• 90 Dungeoneering\n• 90 Fishing\n• 90 Herblore\n• 90 Hunter\n• 90 Prayer\n• 90 Runecrafting\n• 90 Slayer\n• 90 Thieving"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 5"
+			}
+		}
+	},
+	"potion for a lady": {
+		"cmds": ["comp", "mqc"],
+		"embed": {
+			"title": "Potion for a Lady",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Potion for a Lady](http://runescape.wikia.com/wiki/Potion_for_a_Lady) is an achievement that requires the player to find one unreadable page in Daemonheim and giving Lady Meilyr a self made super melee potion in exchange for the melee XP lamp.\n\nAn unreadable page is a lost text containing recipes for the Meilyr Clan in Prifddinas. It can be found within Daemonheim on any floor at any complexity (even on free worlds), or received from the Motherlode Maw. Hard mode floors will increase the chances of a page appearing however, there is no guarantee that a page will be found on any floor. A perfect juju herblore potion will increase the chance of finding a page by 10%, and a perfect juju dungeoneering potion can also increase the chance. A page is a guaranteed find with a Consistent yak solo/team card obtained from Gorajo hoardstalker.\n\nA player who hasn't talked to Lady Meilyr can generate a page, but they cannot pick it up and it will be invisible to other players. Attempting to do so will get the message: \"You need to get a journal from Lady Meilyr in Prifddinas before you can start collecting these.\" Players can obtain a one-time Melee XP lamp by giving a Super melee potion to her. Simply giving it to her does not work though. Players must talk to her, select \"1. What can I do here?\", then \"3. Ask about combination potion recipes\". She will then ask \"Ah, I see you have a super melee potion there. Can I have it?\". Upon giving her the potion at this point, she will hand you the lamp and exclaim: \"There you go, but don't lose it. That's the only one!\".",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• Plague's End Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Plague%27s_End)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 15"
+			}
+		}
+	},
+	"potion mixer master": {
+		"cmds": ["comp"],
+		"embed": {
+			"title": "Potion Mixer Master",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Potion Mixer Master](http://runescape.wikia.com/wiki/Potion_Mixer_Master) is an achievement that requires the player to collect all 26 combination potions by either buying the recipe in the Recipe Shop or finding unreadable pages in Daemonheim.\n\nThere are 26 combination potions in total. All of them need to be unlocked by purchasing the recipe from the Recipe Shop in Meilyr Clan district, with prices from 100,000 coins to 1,000,000 coins, and nine have the additional requirement of finding unreadable pages in Daemonheim first, similar to unlocking a Fremennik Saga. Buying all recipes will cost the player a total of 11,500,000 coins. If a player has already found all 9 pages, they are unable to see or generate a page spawn for any other party members to find. A player who hasn't talked to Lady Meilyr can generate a page, but they cannot pick it up and it will be invisible to other players. Attempting to do so will get the message: \"You need to get a journal from Lady Meilyr in Prifddinas before you can start collecting these.\"\n\nAn unreadable page is a lost text containing recipes for the Meilyr Clan in Prifddinas. It can be found within Daemonheim on any floor at any complexity (even on free worlds), or received from the Motherlode Maw. Pages can be found lying on the floor. Hard mode floors will increase the chances of a page appearing however, there is no guarantee that a page will be found on any floor. A perfect juju herblore potion will increase the chance of finding a page by 10%, and a perfect juju dungeoneering potion can also increase the chance. A page is a guaranteed find with a Consistent yak solo/team card obtained from Gorajo hoardstalker.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• Plague's End Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Plague%27s_End)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 60"
+			}
+		}
+	},
+	"reaper crew": {
+		"cmds": ["comp"],
+		"embed": {
+			"title": "Reaper Crew",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Reaper Crew](http://runescape.wikia.com/wiki/Reaper_Crew) is an achievement that requires the player to obtain [Name] the Reaper title by defeating every boss at least once. This does not include hard mode/challenge mode variants.\n\nIf you need help with a certain group boss, you can notify the Reaper Crew role in this server for help (their time permitting). Alternatively, check the <#394551908179902477> channel for invite links to the following Discord servers that we're partnered with to assist with bossing needs.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "All Bosses:",
+					"value": "• Cursed Combatants\n• Boss Guides/Marathons\n• Mass247\n• RS Pocketbook\n• Boss School"
+				},
+				{
+					"name": "Kalphite King:",
+					"value": "• LSKK247"
+				},
+				{
+					"name": "Nex: Angel of Death:",
+					"value": "• CsAod\n• AoD: 7-10 Man"
+				},
+				{
+					"name": "Raids:",
+					"value": "• Raiders\n• Raid FC"
+				},
+				{
+					"name": "Solak:",
+					"value": "• Solak Community"
+				},
+				{
+					"name": "Vorago:",
+					"value": "• Vorago Discord"
+				},
+				{
+					"name": "Guide:",
+					"value": "[PvM Pocketbook by Ancient Dawn | Google Drive]( https://drive.google.com/file/d/0B1BQkGxSlc2tQmt5Yl9LeUV4d1E/view)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 75"
+			}
+		}
+	},
+	"rhian the gold - the original": {
+		"cmds": ["comp"],
+		"embed": {
+			"title": "Rhian in Gold - The Original",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Rhian in Gold - The Original](http://runescape.wikia.com/wiki/Rhian_in_Gold_-_The_Original) is an achievement that requires the player to collect all of the golden rocks and building the statue of Rhiannon once.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• Plague's End Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Plague%27s_End)"
+				},
+				{
+					"name": "Guide:",
+					"value": "[Golden Rock Guide | Runescape Wiki](http://runescape.wikia.com/wiki/Golden_rock)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 50"
+			}
+		}
 	}
 };
