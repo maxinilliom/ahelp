@@ -1459,6 +1459,10 @@ exports.data = {
 					"value": "• LSKK247"
 				},
 				{
+					"name": "Nex:",
+					"value": "• Baby Nex Buddies"
+				},
+				{
 					"name": "Nex: Angel of Death:",
 					"value": "• CsAod\n• AoD: 7-10 Man"
 				},
@@ -1510,6 +1514,222 @@ exports.data = {
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 50"
+			}
+		}
+	},
+	"seren memories": {
+		"cmds": ["comp", "mqc"],
+		"embed": {
+			"title": "Seren Memories",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Seren Memories](http://runescape.wikia.com/wiki/Seren_Memories) is an achievement that requires the player to find all four of Seren's memoriam crystals and claim the Crest of Seren override on Freneskae after Fate of the Gods.\n\nThe four Seren crystals can be found in a special area in the Approach which cannot be reached until Fate of the Gods has been completed, since a bridge is formed when a pillar is knocked over by Mah's awakening.\n\nThe frequency of lightning strikes increase as more crystals are tagged: it is recommended to take plenty of food, and possibly a beast of burden. Consider wearing tank armour and using health boosts, defenders and Leviathan rings also have a chance to negate some of the damage taken. Having the Distorted engrammeter in your inventory also reduces damage taken from lightning strikes.\n\nOnce all crystals have been unlocked, be sure to retrieve them from the stand in the eastern corner. Upon depositing the four crystals at the Sanctum, a storage area will open. Searching the storage will reveal the Crest of Seren and unlock it as a cosmetic override in the head slot.\n\nNote: Leaving the area in any way (crossing the bridge, dying, logging out, or teleporting) will reset the count, but not the retrieved crystals.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Quick path to the Seren's Memorial crystals:",
+					"value": "• Start in the Sanctum, exit south into The Approach;\n• North, traverse the rock formation bridging a lavafall;\n• West, south, climb rock formation with black spikes;\n• West, walk across rock formation with purple healing crystals and climb down the Cliffside;\n• East, cross rock bridge into the area with crystal pillars;\n• You will be in an area with four pillars and four inactive crystals. One of the pillars will be active, and can be tagged. Tagging 80 active pillars will unlock all four crystals."
+				},
+				{
+					"name": "Requirements:",
+					"value": "• Fate of the Gods Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Fate_of_the_Gods)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 20"
+			}
+		}
+	},
+	"sing for the lady": {
+		"cmds": ["comp", "mqc"],
+		"embed": {
+			"title": "Sing for the Lady",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Sing for the Lady](http://runescape.wikia.com/wiki/Sing_for_the_Lady) is an achievement that requires the player to claim the magic XP lamp from Lady Ithell by giving her a crystal staff, crystal orb, crystal wand and crystal ward. All of these items may be obtained from the Grand Exchange.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• 75 Smithing\n\n• Plague's End Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Plague%27s_End)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 10"
+			}
+		}
+	},
+	"slayer master": {
+		"cmds": ["comp"],
+		"embed": {
+			"title": "Slayer Master",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Slayer Master](http://runescape.wikia.com/wiki/Slayer_Master_(achievement%29) is an achievement that requires the player to complete wave twenty of the platinum difficulty of Rush of Blood and earning the title Slayer Master [Name]. Twenty waves need to be cleared, reaching wave 20 does not suffice.\n\nThe title can be unlocked on either a reward or trial run. If any of the previous titles (the Abyssal, the Dark, and the Beast) weren't unlocked yet, then those will be unlocked at the same time.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• 90 Dungeoneering \n• 99 Slayer\n\n• Plague's End Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Plague%27s_End)\n• The Branches of Darkmeyer Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Branches_of_Darkmeyer)\n• Ritual of the Mahjarrat Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Ritual_of_the_Mahjarrat)\n• The Firemaker's Curse Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Firemaker%27s_Curse)\n• The Void Stares Back Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Void_Stares_Back)\n• The Chosen Commander Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Chosen_Commander)\n• One of a Kind Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/One_of_a_Kind)\n• The World Wakes Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_World_Wakes)\n• Fate of the Gods Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Fate_of_the_Gods)"
+				},
+				{
+					"name": "Guide:",
+					"value": "[Updated Rush of Blood Guide | The Junesong - YouTube](https://www.youtube.com/watch?v=l5jz9ybmg-U)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 45"
+			}
+		}
+	},
+	"stay safe": {
+		"cmds": ["comp", "mqc"],
+		"embed": {
+			"title": "Stay Safe",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Stay Safe](http://runescape.wikia.com/wiki/Stay_Safe) is an achievement that requires the player to obtain the rewards of the chest at the end of the Stronghold of Player Safety (including the Safety First emote, which can be collected from the same vault as the safety gloves beneath the jail beside the Training Centre).",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+        		"fields": [
+				{
+					"name": "Guide:",
+					"value": "[Stronghold of Player Safety Map | Runescape Wiki](http://runescape.wikia.com/wiki/Map:Stronghold_of_Player_Safety)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 5"
+			}
+		}
+	},
+	"stay secure": {
+		"cmds": ["comp", "mqc"],
+		"embed": {
+			"title": "Stay Secure",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Stay Secure](http://runescape.wikia.com/wiki/Stay_Secure) is an achievement that requires the player to obtain the rewards of the chest at the end of the Stronghold of Player Safety (including the Safety First emote, which can be collected from the same vault as the safety gloves beneath the jail beside the Training Centre).",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+        		"fields": [
+				{
+					"name": "Guide:",
+					"value": "[Stronghold of Security Map | Runescape Wiki](http://runescape.wikia.com/wiki/Map:Stronghold_of_Security)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 5"
+			}
+		}
+	},
+	"task master": {
+		"cmds": ["comp"],
+		"embed": {
+			"title": "Task Master",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Task Master](http://runescape.wikia.com/wiki/Rhian_in_Gold_-_The_Original) is an achievement that tracks the player's progress into completing the required Exploration achievements.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• 90 Agility\n• 90 Attack\n• 90 Constitution\n• 90 Construction\n• 95 Cooking\n• 98 Crafting\n• 90 Defence\n• 90 Divination\n• 95 Dungeoneering\n• 91 Farming\n• 92 Firemaking\n• 96 Fishing\n• 93 Fletching\n• 94 Herblore\n• 90 Hunter\n• 1 Invention\n• 90 Magic\n• 90 Mining\n• 95 Prayer\n• 90 Ranged\n• 91 Runecrafting\n• 95 Slayer\n• 95 Smithing\n• 90 Strength\n• 95 Summoning\n• 95 Thieving\n• 90 Woodcutting\n• 270 Quest points\n• 500 Music Tracks Unlocked\n• Combat level 127"
+				},
+				{
+					"name": "Guides:",
+					"value": "• [Ardougne achievements | Runescape Wiki](http://runescape.wikia.com/wiki/Ardougne_achievements)\n• [Desert achievements | Runescape Wiki](http://runescape.wikia.com/wiki/Desert_achievements)\n• [Daemonheim achievements | Runescape Wiki](http://runescape.wikia.com/wiki/Daemonheim_achievements)\n• [Falador achievements | Runescape Wiki](http://runescape.wikia.com/wiki/Falador_achievements)\n• [Fremennik achievements | Runescape Wiki](http://runescape.wikia.com/wiki/Fremennik_achievements)\n• [Karamja achievements | Runescape Wiki](http://runescape.wikia.com/wiki/Karamja_achievements)"
+				},
+				{
+					"name": "Guides continued:",
+					"value": "• [Lumbridge achievements | Runescape Wiki](http://runescape.wikia.com/wiki/Lumbridge_achievements)\n• [Morytania achievements | Runescape Wiki](http://runescape.wikia.com/wiki/Morytania_achievements)\n• [Seers achievements | Runescape Wiki](http://runescape.wikia.com/wiki/Seers%27_Village_achievements)\n• [Tirannwn achievements | Runescape Wiki](http://runescape.wikia.com/wiki/Tirannwn_achievements)\n• [Varrock achievements | Runescape Wiki](http://runescape.wikia.com/wiki/Varrock_achievements)\n• [Wilderness achievements | Runescape Wiki](http://runescape.wikia.com/wiki/Wilderness_achievements)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 75"
+			}
+		}
+	},
+	"tell tale tarn": {
+		"cmds": ["comp", "mqc"],
+		"embed": {
+			"title": "Tell Tale Tarn",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Tell Tale Tarn](http://runescape.wikia.com/wiki/Tell_Tale_Tarn) is an achievement that requires the player to complete the Lair of Tarn Razorlor miniquest, defeat Tarn Razorlor and find his secrets (collect and read Tarn's diary) during or after the miniquest.\n\nTarn Razorlor is a sorcerer and necromancer that dwells in his Lair beneath the Mort Ridge Mine, and is guarded by his undead minions, animated steel armour, and terror dogs.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• 40 Slayer\n\n• Haunted Mine Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Haunted_Mine)"
+				},
+				{
+					"name": "Guide:",
+					"value": "[The Lair of Tarn Razorlor Miniquest Guide | Runescape Wiki](http://runescape.wikia.com/wiki/The_Lair_of_Tarn_Razorlor)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 15"
+			}
+		}
+	},
+	"trip to the east": {
+		"cmds": ["comp"],
+		"embed": {
+			"title": "Trip to the East",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Trip to the East](http://runescape.wikia.com/wiki/Trip_to_the_East) is an achievement that requires the player to complete one of the storylines in the player-owned port: Quin, Hyu-Ji, Eastern Curiosities, or Guardians of the World. It is advised to not aim for Guardians of the World as the story line, as the final trio story voyage for Guardians of the World also requires that you have 6,000,000 distance and unlocked the island Exile's Point.\n\nNote: You must have three trios of ONE story line completed, giving your adventurer a total of 9/9 completed, not a single trio for 7/7 completed as is commonly believed.\n\nThe recommended steps to fulfill this achievement are:\n1. Send out as many adventurers as possible that you do NOT need on voyages. Do NOT check their voyages, leave them their forever until you get your trio voyage. This works even better if you send out duo adventurers you do NOT need on voyages.\n2. Build 1 icon of each of the 3 adventurers that you do need.\n3. Build Ostentatious Bar in the Shield region (Luxurious Bar in Pincers region).\n4. Do every random event (Barmaid, Seasinger Umi, Marketeer) you get for chance at adventurer reroll. You may get a max of 1 random event per Runescape \"day\".\n5. Do Motherlode Maw (Dragonkin) daily for chance at Player-Owned-Ports enhancers.\n6. Exchange 10 Crystal motherlode shards daily with Wythien for chance at Player-Owned-Ports enhancers.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• Level 90 in Slayer, Fishing and Runecrafting\nOR\n• Level 90 in Herblore, Thieving, and Prayer\nOR\n• Level 90 in Cooking, Huntering, and Construction\nOR\n• Level 90 in Divination, Dungeoneering, and Agility."
+				},
+				{
+					"name": "Guide:",
+					"value": "[Kags' POP Encyclopedia V5 | Runescape Forums](http://services.runescape.com/m=forum/forums.ws?75,76,519,65829739)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 15"
 			}
 		}
 	}
