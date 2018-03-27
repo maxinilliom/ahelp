@@ -1896,5 +1896,33 @@ exports.data = {
 				"text": "Runescore awarded: 10"
 			}
 		}
+	},
+	"zarosian memories": {
+		"cmds": ["comp", "mqc"],
+		"embed": {
+			"title": "Zarosian Memories",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Zarosian Memories](http://runescape.wikia.com/wiki/Zarosian_Memories) is an achievement that requires the player to find all twelve of Zaros' memoriam crystals on Freneskae after Fate of the Gods.\n\nz01: From the entrance, jump from ledge twice, take the left (north) branch and cross a rock formation. It will be found on the right before reaching the first healing point.\nz02: From the entrance, jump from ledge twice, take the right (south) branch and climb the cliffside. The crystal is a short distance along the passage, on the left.\nz03: The Cradle (can only be reached after the quest has been completed.)\nz04: From the first healing point, go north, cross the stepping stones and climb the cliffside. Go east and go down the drop.\nz05: From the first healing point, go north, cross the stepping stones and climb the cliffside. Go east and north and cross the overhang then climb down the cliffside. It will be found to the north at a dead end.\nz06: From the location of z07, back out of the dead end and take the south branch. Climb a rock formation, go west and walk across another rock formation. Climb down the cliffside, go west and find the crystal among the lava vents. (It is just west of the second healing point).\nz07: Enter the Approach from the Sanctum. Go north and traverse a rock formation, then go west and north into a dead end.\nz08: Enter the Approach from the Sanctum. Go south and squeeze through a crevice to the east.\nz09: Enter the Approach. From the entrance, go west and north, at a dead-end.\nz10: The Pit, through the exit doors.\nz11: The Sanctum.\nz12: The Elder Halls, near the end of the southeast passage.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• Fate of the Gods Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Fate_of_the_Gods)"
+				},
+				{
+					"name": "Guide:",
+					"value": "[Hopespear's Will Miniquest Guide | Runescape Wiki](http://runescape.wikia.com/wiki/Hopespear%27s_Will)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 20"
+			}
+		}
 	}
 };
