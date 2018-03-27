@@ -1732,5 +1732,169 @@ exports.data = {
 				"text": "Runescore awarded: 15"
 			}
 		}
+	},
+	"troublesome crystals": {
+		"cmds": ["comp", "mqc"],
+		"embed": {
+			"title": "Troublesome Crystals",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Troublesome Crystals](http://runescape.wikia.com/wiki/Troublesome_Crystals) is an achievement that requires the player to collect all 16 Prifddinas memoriam crystals after Plague's End, not including the unknown crystal.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• 77 Agility\n• 75 Farming\n\n• Fate of the Gods Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Fate_of_the_Gods)\n• Plague's End Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Plague%27s_End)\n• Fairy Tale II - Cure a Queen Quest partial completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Fairy_Tale_II_-_Cure_a_Queen)"
+				},
+				{
+					"name": "Guide:",
+					"value": "[Prifddinas Crystal Locations | Runescape Wiki](http://runescape.wikia.com/wiki/Memoriam_crystal#Prifddinas_crystal_locations)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 10"
+			}
+		}
+	},
+	"uncorrupted ore": {
+		"cmds": ["comp", "mqc"],
+		"embed": {
+			"title": "Uncorrupted Ore",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Uncorrupted Ore](http://runescape.wikia.com/wiki/Uncorrupted_Ore) is an achievement that requires the player to smelt 100 corrupted ore in the Trahaearn Clan furnace, and then claiming the Smithing XP lamp from Lady Trahaearn.\n\nCorrupted ore, also called Seren corruption, is an ore gained from mining Seren Stones in Prifddinas or mining any rocks in the Trahaearn Clan's district when the Voice of Seren is active in the district.\n\nAlthough this achievement is listed as having a level 89 Mining requirement, this is not actually needed for completion, as the player can receive corrupted ore from other sources than Seren Stones, such as from the Crystal chest.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• 89 Minng\n• 89 Smihing\n\n• Plague's End Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Plague%27s_End)"
+				},
+				{
+					"name": "Guide:",
+					"value": "[Prifddinas Crystal Locations | Runescape Wiki](http://runescape.wikia.com/wiki/Memoriam_crystal#Prifddinas_crystal_locations)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 10"
+			}
+		}
+	},
+	"walking the reef": {
+		"cmds": ["comp"],
+		"embed": {
+			"title": "Walking the Reef",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Walking the Reef](http://runescape.wikia.com/wiki/Walking_the_Reef) is an achievement that requires the player to find the four parts of the reefwalker's cape eastern scroll within the player-owned port.\n\nEastern scrolls are blueprints obtained from the Wushanko Isles in the Player-owned port minigame. Scrolls have four parts each and must be completed before the item may be created. Scrolls can only be obtained from adventurer voyages, having the highest adversity. You can select which scrolls to look for and see how many you have in the Port Management screen which you can access from the Captains Log or by clicking the button at the top of the screen when in the ports area.\n\nIn order to get the most scrolls in the shortest time, it is best to start farming them when reaching the Skull. Travelling far enough to access a new region will cause the time and difficulty of scroll missions to go up.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "Level 90 in one of the following skills;\n• Agility\n• Construction\n• Cooking\n• Divination\n• Dungeoneering\n• Fishing\n• Herblore\n• Hunter\n• Prayer\n• Runecrafting\n• Slayer\n• Thieving"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 15"
+			}
+		}
+	},
+	"what's mine is also doric's": {
+		"cmds": ["comp", "mqc"],
+		"embed": {
+			"title": "What's Mine Is Also Doric's",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[What's Mine Is Also Doric's](http://runescape.wikia.com/wiki/What%27s_Mine_Is_Also_Doric%27s) is an achievement that requires the player to complete the Doric and Boric tasks after completion of What's Mine is Yours.\n\nThe items requested can only be smithed after the task is started, otherwise they will not count. You cannot buy the items from the Grand Exchange, but you can buy the metal bars - you do not have to mine the ores or smelt them. After you complete each task, return to Doric or Boric for the next task. You cannot boost any of the requirements.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• 60 Mining\n• 75 Smithing\n\n• What's Mine is Yours Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Haunted_Mine)"
+				},
+				{
+					"name": "Guide:",
+					"value": "[Doric and Boric Tasks Guide | Runescape Wiki](http://runescape.wikia.com/wiki/Doric_and_Boric_tasks)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 10"
+			}
+		}
+	},
+	"yaktwee's a charm": {
+		"cmds": ["comp"],
+		"embed": {
+			"title": "Yaktwee's a Charm",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Yaktwee's a Charm](http://runescape.wikia.com/wiki/Yaktwee%27s_a_Charm) is an achievement that requires the player to catch 1,000 charm sprites to unlock the enhanced yaktwee stick.\n\nCharm sprites are fast flying creatures that can be hunted with a Yaktwee stick and Sprite lure, located south-west of the Tree Gnome Stronghold.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• 72 Hunter\n• Yaktwee Stick"
+				},
+				{
+					"name": "Guide:",
+					"value": "[RS3 Charm Sprite Guide | Teh Proez - YouTube](http://runescape.wikia.com/wiki/Doric_and_Boric_tasks)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 10"
+			}
+		}
+	},
+	"you be dead": {
+		"cmds": ["comp", "mqc"],
+		"embed": {
+			"title": "You Be Dead",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[You Be Dead](http://runescape.wikia.com/wiki/You_Be_Dead) is an achievement that requires the player to complete the Hopespear's Will miniquest during which the remains of 5 goblin priests are buried.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• 40 Prayer\n\n• Fairy Tale II - Cure a Queen Quest partial completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Fairy_Tale_II_-_Cure_a_Queen)\n• Desert Treasure Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Desert_Treasure)\n• Land of the Goblins Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Land_of_the_Goblins)"
+				},
+				{
+					"name": "Guide:",
+					"value": "[Hopespear's Will Miniquest Guide | Runescape Wiki](http://runescape.wikia.com/wiki/Hopespear%27s_Will)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 10"
+			}
+		}
 	}
 };
