@@ -346,7 +346,8 @@ exports.data = {
         "value": "The full list may be found [here](http://runescape.wikia.com/wiki/Quests/Experience_rewards#Agility)."
       }
       ]
-  }{
+  },
+  "alternative methods": {
     "title": "Alternative Methods of Training",
     "url": "http://runescape.wikia.com/wiki/Agility_training#Alternative_methods_of_gaining_experience",
     "description": "Some users may wish to utilize methods outside of the ones displayed in this channel's guide. To aid in this, the following alternative methods are provided.",
