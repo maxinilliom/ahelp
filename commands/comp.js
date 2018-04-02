@@ -1,3 +1,4 @@
+
 const { inspect } = require("util");
 const { promisify } = require("util");
 const readdir = promisify(require("fs").readdir);
@@ -46,7 +47,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 		keyList.forEach(k => {
 			output += `${data[k].embed.title}\n`;
 		});
-		helpEmbed.title = "Comprehensive list of all valid Completionist guide commands";
+		helpEmbed.title = "Comprehensive list of all valid Completionist Cape guide commands";
 		helpEmbed.author.name = "Comp Cape Info";
 		helpEmbed.description = output;
 		helpEmbed.color = 16316664;

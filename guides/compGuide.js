@@ -429,7 +429,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Arc - Unlocking Waiko](http://runescape.wikia.com/wiki/Arc_-_Unlocking_Waiko) is an achievement that requires the player to purchase the unlocks from the Waiko Reward Shop for the list below for a total cost of 7,750 chimes and 5 Taijitu.\n\n• Waiko Grill\n• Whale's Maw Camp Fire\n• Whale's Maw Deposit Box\n• Arc Journal Teletabs\n • Crystal Tool Siphon Blueprints",
+			"description": "[Arc - Unlocking Waiko](http://runescape.wikia.com/wiki/Arc_-_Unlocking_Waiko) is an achievement that requires the player to purchase the unlocks from the Waiko Reward Shop for the list below for a total cost of 7,750 chimes and 5 Taijitu.\n\n• Waiko Grill\n• Whale's Maw Camp Fire\n• Whale's Maw Deposit Box\n• Arc Journal Teletabs\n• Crystal Tool Siphon Blueprints",
 			"thumbnail": {
 				"url": "https://i.imgur.com/gGdB7UR.png"
 			},

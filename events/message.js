@@ -30,6 +30,8 @@ module.exports = (client, message) => {
 	if (!cmd) return;
 	const guilds = cmd.conf.guilds;
 
+	if (cmd && !cmd.conf.enabled) return message.channel.send(`\`${cmd.help.name}\` is currently disabled.`);
+
 	if (cmd && cmd.conf.guilds.length > 0 && !guilds.includes(message.guild.id))
 		return message.channel.send(`\`${command}\` cannot be used on this server.`);
 
