@@ -20,24 +20,30 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 	const keyList = [];
 	const rtnArr = [];
 
-	if (message.channel !== '382701090430386180' && message.author.permLevel < 1) return;
+	if (message.channel !== '382701090430386180' && level < 2) return;
 
 	Object.getOwnPropertyNames(data).forEach(k => {
 		if (data[k].cmds.includes("mqc")) keyList.push(k);
 	});
 	if (!args[0]) return message.channel.send(`Please specify an achievement name.`);
 
-	if (args[0].toLowerCase() == "all" && message.author.permLevel >= 4) {
-		let i = 0;
-		keyList.forEach(k => {
-			const guide = data[k].embed;
-			guide.author.name = "Master Quest Cape Info";
-			guide.color = 8113151;
-			guide.timestamp = new Date();
-			message.channel.send("", {embed: guide});
-			i++;
-		});
-	return message.channel.send(`**${i}**/\**${keyList.length}** responses listed.`);
+
+	if (args[0].toLowerCase() == "all" && level >= 2) {
+                let i = 0, o = 0, x = keyList.length;
+                function list() {
+                        const guide = data[k].embed;
+                        guide.author.name = "Master Quest Cape Info";
+                        guide.color = 8113151;
+                        guide.timestamp = new Date();
+                        message.channel.send("", {embed: guide});
+                        i++;
+                        o++;
+                        if (o < x) {
+                                setTimeout(list, 2500);
+                        }
+			if (o == x) return message.channel.send(`**${i}**/\**${keyList.length}** responses listed.`);
+                }
+                list();
 	}
 
 	if (args[0].toLowerCase() == "help") {
@@ -90,7 +96,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 		const choice = data[rtnArr[response-1]].embed;
 		return message.channel.send("", {embed: choice});
 	} else {
-	message.channel.send("If you see this, contact @<97928972305707008>");
+	message.channel.send("If you see this, contact <@97928972305707008>");
 	}
 };
 

@@ -14,11 +14,11 @@ const readdir = promisify(require("fs").readdir);
 		console.log(bye); // "bye" */
 
 exports.run = async (client, message, [skill, ...args], level) => { // eslint-disable-line no-unused-vars
+	if (message.channel.id !== '429108140924076032' && level < "2") return;
 	if (!skill) return message.channel.send(`Please specify a skill name.`);
 	if (skill && !client.maxGuides.includes(skill.toLowerCase())) return message.channel.send(`**${skill.toProperCase()}** is not a valid skill name.`);
 	if (!args[0]) return message.channel.send(`Please specify options to search the **${skill.toProperCase()}** guides with.`);
-	if (message.channel !== '382701090430386180' && message.author.permLevel < 1) return;
-	const { data } = require(`../guides/maxGuides/${skill}.js`);
+	const { data } = require(`../guides/maxGuides/${skill.toLowerCase()}.js`);
 	const keyList = [];
 	const numKeyList = [];
 	const strKeyList = [];
@@ -44,13 +44,14 @@ exports.run = async (client, message, [skill, ...args], level) => { // eslint-di
 		//number search
 		keyList.forEach(k => {
 			const first = Number(k.split(" ")[0]);
-			const last = Number(k.split(" ")[2]);
+			let last = Number(k.split(" ")[2]);
+			if (last == "99") last += 1;
 			if (args[0] >= first && args[0] < last) rtnArr.push(k);
 		});
 	} else if (!Number(args[0])) {
 		//string search
 		keyList.forEach(k => {
-			if (RegExp(args[0]).test(k) && !rtnArr.includes(k)) rtnArr.push(k);
+			if (RegExp(args[0].toLowerCase()).test(k) && !rtnArr.includes(k)) rtnArr.push(k);
 		});
 	}
 
@@ -85,7 +86,7 @@ exports.conf = {
 	enabled: true,
 	guildOnly: true,
 	aliases: [],
-	permLevel: "Administrator",
+	permLevel: "User",
 	guilds: []
 };
 

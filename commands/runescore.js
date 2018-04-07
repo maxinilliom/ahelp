@@ -20,10 +20,10 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 	const keyList = [];
 	const rtnArr = [];
 
-	if (message.channel.id !== '412093604979277844' && level < 2) return;
+	if (message.channel.id !== '412093714522046465' && level < 2) return;
 
 	Object.getOwnPropertyNames(data).forEach(k => {
-		if (data[k].cmds.includes("comp")) keyList.push(k);
+		if (data[k].cmds.includes("rs")) keyList.push(k);
 	});
 	if (!args[0]) return message.channel.send(`Please specify a valid achievement name.`);
 
@@ -31,8 +31,8 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 		let i = 0, o = 0, x = keyList.length;
 		function list() {
 			const guide = data[keyList[o]].embed;
-			guide.author.name = "Comp Cape Info";
-			guide.color = 16316664;
+			guide.author.name = "RuneScore Info";
+			guide.color = 2011148;
 			guide.timestamp = new Date();
 			message.channel.send("", {embed: guide});
 			i++;
@@ -51,10 +51,10 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 		keyList.forEach(k => {
 			output += `${data[k].embed.title}\n`;
 		});
-		helpEmbed.title = "Comprehensive list of all valid Completionst Cape guide commands";
-		helpEmbed.author.name = "Comp Cape Info";
+		helpEmbed.title = "Comprehensive list of all valid RuneScore guide commands";
+		helpEmbed.author.name = "RuneScore Info";
 		helpEmbed.description = output;
-		helpEmbed.color = 16316664;
+		helpEmbed.color = 2011148;
 		helpEmbed.timestamp = new Date();
 		return message.channel.send("", {embed: helpEmbed});
 	}
@@ -67,8 +67,8 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 		return message.channel.send(`No results found for **${args.join(" ")}**.`);
 	} else if (rtnArr.length == 1) {
 		const guide = data[rtnArr[0]].embed;
-		guide.author.name = "Comp Cape Info";
-		guide.color = 16316664;
+		guide.author.name = "RuneScore Info";
+		guide.color = 2011148;
 		guide.timestamp = new Date();
 		message.channel.send("", {embed: guide});
 	} else if (rtnArr.length > 1) {
@@ -79,10 +79,10 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 			output += `${i}: ${data[rtnArr[i-1]].embed.title}\n`;
 			i++;
 		});
-		searchEmbed.title = "All Completionist Cape guide commands matching your search";
-		searchEmbed.author.name = "Comp Cape Info";
+		searchEmbed.title = "All RuneScore guide commands matching your search";
+		searchEmbed.author.name = "RuneScore Info";
 		searchEmbed.description = output;
-		searchEmbed.color = 16316664;
+		searchEmbed.color = 2011148;
 		searchEmbed.timestamp = new Date();
 		message.channel.send("", {embed: searchEmbed});
 		const response = await client.awaitReply(message, "Which achievement were you searching for? Please enter the corresponding number.");
@@ -97,14 +97,14 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 exports.conf = {
 	enabled: true,
 	guildOnly: true,
-	aliases: [],
+	aliases: ["rs"],
 	permLevel: "User",
 	guilds: []
 };
 
 exports.help = {
-	name: "comp",
+	name: "runescore",
 	category: "Guides",
-	description: "Encyclopedia of Completionist Cape guides written by The Five-O and assembled by Son.",
-	usage: "comp <help/achievement name>"
+	description: "Encyclopedia of RuneScore guides written by The Five-O and assembled by Son.",
+	usage: "runescore <help/achievement name>"
 };
