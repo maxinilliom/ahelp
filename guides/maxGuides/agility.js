@@ -145,13 +145,13 @@ exports.data = {
     "title": "Agility Training Levels 77-99+",
     "description": "At level 77 Agility players can train at the [Hefin Agility Course](http://runescape.wikia.com/wiki/Hefin_Agility_Course). Completion of the [Plague's End quest](http://runescape.wikia.com/wiki/Plague%27s_End) is required to access it. The amount of experience gained from traversing obstacles on the course and bonus experience awarded for completing a full lap of the course increases every 5 Agility levels. It is not possible to fail obstacles on this course.",
     "url": "http://runescape.wikia.com/wiki/Agility_training#Hefin_Agility_Course_.2877-99.2B.29",
-    "color": 13118778,
+    "color": 12269891,
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "thumbnail": {
-      "url": "https://vignette.wikia.nocookie.net/runescape2/images/a/a9/Agility_cape_detail.png/revision/latest?cb=20160114194145"
+      "url": "https://vignette.wikia.nocookie.net/runescape2/images/6/6a/Agility_Emote.gif/revision/latest?cb=20150317030850"
     },
     "author": {
       "name": "Max Cape Info",
@@ -176,17 +176,17 @@ exports.data = {
       }
     ]
   },
-  "permanent boosts": {
-    "title": "Permanent Boosts",
-    "url": "http://runescape.wikia.com/wiki/Bonus_experience_items",
-    "description": "A permanent skill boost is anything caused by an item that permanently raises a player's level in one or more skills. It allows the player to do things above their current level.",
-        "color": 13118778,
+  "alternative methods": {
+    "title": "Alternative Methods of Training",
+    "url": "http://runescape.wikia.com/wiki/Agility_training#Alternative_methods_of_gaining_experience",
+    "description": "Some users may wish to utilize methods outside of the ones displayed in this channel's guide. To aid in this, the following alternative methods are provided.",
+        "color": 12269891,
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "thumbnail": {
-      "url": "https://vignette.wikia.nocookie.net/runescape2/images/c/c2/Nimble_outfit_equipped.png/revision/latest?cb=20160312113439"
+      "url": "https://vignette.wikia.nocookie.net/runescape2/images/8/80/Silverhawk_boots_detail.png/revision/latest/scale-to-width-down/120?cb=20141007165752"
     },
     "author": {
       "name": "Max Cape Info",
@@ -194,38 +194,38 @@ exports.data = {
     },
     "fields": [
       {
-        "name": "Agility Cape",
-        "value": "The [Agility Cape's](http://runescape.wikia.com/wiki/Agility_cape) perk provides a chance of being awarded double tickets at the [Brimhaven Agility Arena](http://runescape.wikia.com/wiki/Brimhaven_Agility_Arena)."
+        "name": "Silverhawk Boots",
+        "value": "[Silverhawk Boots](http://runescape.wikia.com/wiki/Silverhawk_boots) are an item that can be won from Treasure Hunter or purchased for 750 Thaler. While the boots are equipped and charged, players will periodically receive Agility experience equal to 10% of the experience that is gained from using a small XP lamp. Experience will be gained:\n\t• Once per minute spent running\n\t• While skilling (maximum of once every 45 seconds)\n\t• When using an ultimate ability (a maximum of once every 45 seconds)\n\nEach time that experience is gained from the boots a charge is used up. Silverhawk boots may hold up to 500 charges at once. [Silverhawk Feathers](http://runescape.wikia.com/wiki/Silverhawk_feathers) give 1 charge per feather used with the boots. Silverhawk feathers can be won from Treasure Hunter and are tradeable. One [Silverhawk Down](<http://runescape.wikia.com/wiki/Silverhawk_down>) can also be used give the boots 1 charge. Silverhawk down is an untradeable item that can be purchased for 35 thaler per 10 down."
       },
       {
-        "name": "Weight-Reducing Clothing",
-        "value": "As a player's chance of successfully traversing an Agility obstacle is increased if they have a low weight, players may wish to wear [weight-reducing clothing](http://runescape.wikia.com/wiki/Weight-reducing_clothing) while training Agility to decrease their weight and minimize their failure rate."
+        "name": "​",
+        "value": "The amount of Agility experience gained from using 1 charge from a pair of silverhawk boots ranges between 6.25 experience, with level 1 Agility, and 860.2 experience, with level 99 Agility. Players can gain between 375 and 51,612 Agility experience an hour from silverhawk boots, assuming that 60 charges are used. The maximum amount of charges used per hour is 80. It is not recommended to use Silverhawk boots as a way to train agility under level 98 because of the relatively low experience gained per feather and high cost of the feathers unless the user has the means to make a large amount of money every hour."
       },
       {
-        "name": "Nimble Outfit",
-        "value": "Wearing components of the [Nimble Outfit](http://runescape.wikia.com/wiki/Nimble_outfit) gives a percentage increase in the amount of Agility experience gained. There are five pieces in the set: the headwear, chestpiece, legwear, gloves and boots. Components of the nimble outfit can be won from Treasure Hunter or obtained randomly from completing [The Pit](http://runescape.wikia.com/wiki/The_Pit) (successfully or unsuccessfully). Each piece provides 1% additional agility experience when worn. If all pieces of the set are worn, an additional set bonus effect of 1% is given, for a total of 6%."
+        "name": "Serenity Posts (75+)",
+        "value": "[Serenity Posts](http://runescape.wikia.com/wiki/Serenity_posts) are an Agility training activity which can be completed to gain a maximum of 20,000 Agility experience once per day. Level 75 Agility is required to participate in the activity, as well as completion of the [Plague's End](http://runescape.wikia.com/wiki/Plague%27s_End). To begin the activity use the balance on option on any of the 6 serenity posts in the Hefin district training area, and choose a pose in the minigame interface."
       },
       {
-        "name": "Collectors Insignia",
-        "value": "Wearing the [Collector's Insignia](http://runescape.wikia.com/wiki/Collector%27s_insignia) gives a 5% increase to Agility experience gained and 10% experience when charged. the collector's insignias are obtained from [Barbarian Assault](http://runescape.wikia.com/wiki/Barbarian_Assault) for 500 collector points and 5 Penance King kills. Insignias are worn in the pocket slot."
+        "name": "​",
+        "value": "Experience is gained once per second whilst stood on a serenity post. Maximum experience is gained when imitating Lady Hefin's pose. Doing the correct pose, which is the same pose that Lady Hefin is currently doing, grants between 30-58 Agility experience each second, depending on the player's Agility level, while doing a different pose to Lady Hefin grants 10% of this amount of experience. Only base experience gains count towards the daily limit. Upon reaching the limit, the player's character will automatically leave the serenity post, and they will be unable to stand on the post again until the next day. A player with level 99 Agility can obtain the 20,000 experience limit in around 10 minutes, giving an experience rate equivalent to 120,000 experience an hour."
       },
       {
-        "name": "Karamja Gloves",
-        "value": "• [Karamja Gloves 2](http://runescape.wikia.com/wiki/Karamja_gloves_2)\n\t• 10% extra experience from obstacles in the [Brimhaven Agility Arena](http://runescape.wikia.com/wiki/Brimhaven_Agility_Arena)\n\t• 10% extra experience when trading in [Agility Arena Tickets](http://runescape.wikia.com/wiki/Agility_Arena_ticket)\n• [Karamja Gloves 4](http://runescape.wikia.com/wiki/Karamja_gloves_4)\n\t• 25% chance of receiving double tickets in the Brimhaven Agility Arena"
+        "name": "Barbarian Assault",
+        "value": "Players can gain Agility bonus experience as a reward from playing the [Barbarian Assault]( http://runescape.wikia.com/wiki/Barbarian_Assault) minigame. At level 99 Agility it is possible to gain 1,300,000 bonus experience per hour playing hard mode Barbarian Assault waves 6-9, at a cost of 6 Barbarian assault ticket - hard wave 10 per hour. Players may, as an alternative, gain 920,000 bonus experience per hour playing hard mode waves 1-9 without having to pay for the tickets.\n\nIn order to play hard mode Barbarian Assault the normal mode of the minigame must be completed at least once. It is highly recommended for players to reach maximum role levels before starting playing for bonus experience."
       }
       ]
   },
-  "temporary boosts": {
-    "title": "Temporary Boosts",
-    "url": "http://runescape.wikia.com/wiki/Temporary_skill_boost",
-    "description": "A temporary skill boost is anything caused by an item, Summoning familiar, or action that temporarily raises a player's level in one or more skills. It allows the player to do things above their current level.",
-        "color": 13118778,
+  "pet - dojo mojo": {
+    "title": "Agility Pet - Dojo Mojo",
+    "description": "Dojo Mojo is the skilling pet obtainable from Agility. He is unlocked by inspecting the [Dojo Mojo Pet](http://runescape.wikia.com/wiki/Dojo_Mojo_pet).",
+    "url": "http://runescape.wikia.com/wiki/Dojo_Mojo",
+    "color": 12269891,
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "thumbnail": {
-      "url": "https://vignette.wikia.nocookie.net/runescape2/images/6/6a/Summer_pie_detail.png/revision/latest?cb=20111129085248"
+      "url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e2/Dojo_Mojo_%28pet%29.png/revision/latest?cb=20160825173743"
     },
     "author": {
       "name": "Max Cape Info",
@@ -233,38 +233,34 @@ exports.data = {
     },
     "fields": [
       {
-        "name": "Agility Boosts",
-        "value": "[Agility Cape](http://runescape.wikia.com/wiki/Agility_cape)\n • +1 to Agility for 1 minute\n\n[Spicy Stew](http://runescape.wikia.com/wiki/Spicy_stew)\n • Boost is applied to a random skill\n • Up to ±5 with 3 spice doses\n • Up to ±3 with 2 spice doses\n • Up to ±1 with 1 spice dose\n\n[God Banner](http://runescape.wikia.com/wiki/God_banner)\n• Exploration boost: +5 to Agility\n\n[Jitterberry](http://runescape.wikia.com/wiki/Jitterberry)\n• +2 levels\n• Requires access to [The Arc](http://runescape.wikia.com/wiki/The_Arc)\n• Reduces Defence by 1 level\n\n[Tireless Run Scroll](http://runescape.wikia.com/wiki/Spirit_terrorbird#Tireless_run_scroll)\n• +2 levels\n• Special move of the [Spirit terrorbird](http://runescape.wikia.com/wiki/Spirit_terrorbird)\n\n[Agility Potion](http://runescape.wikia.com/wiki/Agility_potion)\n• +3 levels\n• [Mix](http://runescape.wikia.com/wiki/Agility_mix) version heals 60 life points."
+        "name": "Methods to Obtain",
+        "value": "• Burthorpe Agility Course\n• Gnome Stronghold Agility Course\n• Advanced Gnome Stronghold Agility Course\n• Agility Pyramid\n• Penguin Agility Course\n• Barbarian Outpost\n• Advanced Barbarian Outpost\n• Ape Atoll Agility Course\n• Wilderness Agility Course\n• Werewolf Agility Course\n• Agility Course\n• Hefin Agility Course\n• Dorgesh-Kaan Agility Course\n• Collecting an Agility arena ticket from the Brimhaven Agility Arena\n• Serenity posts\n• Manual Auto-cycles in The Empty Throne Room\n• Taking Agility Shortcuts"
       },
       {
-        "name": "​",
-        "value": "[Abyssal Stealth Scroll](http://runescape.wikia.com/wiki/Abyssal_lurker#Abyssal_stealth_scroll)\n• +4 levels\n• Special move of the [Abyssal Lurker](http://runescape.wikia.com/wiki/Abyssal_lurker)\n\n[Summer Pie](http://runescape.wikia.com/wiki/Summer_pie)\n• +5 levels\n• Heals 1,187 life points and restores 20% run energy per bite\n\n[Surefooted Auras](http://runescape.wikia.com/wiki/Agility_training#Surefooted_auras)\n• Surefooted auras prevent the player from failing the obstacles of an Agility course while they are activated. Players may use 20 or 40 [Vis Wax](http://runescape.wikia.com/wiki/Vis_wax) to extend a surefooted aura's activation time by 50% or 100%. This effect must be applied before the aura is activated. Surefooted auras can be bought using [Membership Loyalty Points](http://runescape.wikia.com/wiki/Members_Loyalty_Programme). The lower tier aura must be owned before the greater version of the aura can be purchased."
+        "name": "Best Method",
+        "value": "• Manual Auto-cycles in The Empty Throne Room utilizing the incorrect action for the max amount of experience drops\n• Serenity Posts utilizing the incorrect action for the most possible experience drops per day"
       },
       {
-        "name": "​",
-        "value": "[Perfect Juju Agility Potion](http://runescape.wikia.com/wiki/Perfect_juju_agility_potion)\n• A dose of the potion lasts for one hour. While the potion is in effect, for each lap of the Hefin Agility Course, there is an increased chance that either the cathedral roof shortcut will be usable, or there will be a light creature on the roof that gives you a reward. Note that the two effects might be activated on the same run.\n\n[Perfect Plus Potion](http://runescape.wikia.com/wiki/Perfect_plus_potion)\n• The same effect as the Perfect Juju Agility Potion, but will instead last for four hours.\n\n[Salt-water spring](http://runescape.wikia.com/wiki/Spa)\n• The salt-water spring allows for unlimited run energy by restoring run energy to 100% every two ticks. It will last approximately 10 to 25 minutes, possibly depending on the player's agility level."
+        "name": "Methods which do not Work",
+        "value": "• Using silverhawk boots to passively train Agility does not give a chance of earning this item\n• Agility Skill Training Dummies"
       },
       {
-        "name": "​",
-        "value": "[Brawling Gloves (Agility)](http://runescape.wikia.com/wiki/Brawling_gloves_(Agility)\n• A 50% XP boost is given anywhere outside of the Wilderness. However, the buff increases to 300% at level 47 Wilderness, just south of the fence. The gloves only last about 400 uses on any agility obstacle; this varies on what obstacle players decide to equip them. The gloves should only be worn during the last obstacle to prolong the use of a pair.\n\n[Wise Perk](http://runescape.wikia.com/wiki/Wise)\n• Wise is an [Invention Perk](http://runescape.wikia.com/wiki/Invention) that boosts all experience gained while the item is equipped by 1% per rank. Players may gain up to 50,000 additional experience per day with the use of this perk."
-      },
-      {
-        "name": "​",
-        "value": "[Voice of Seren - Hefin](http://runescape.wikia.com/wiki/Voice_of_Seren#Known_effects)\n• 20% more base Agility experience whilst training agility on the Hefin Agility Course. The rate at which velocity is gained on the agility course is doubled\n• While doing laps on the Hefin Agility Course, an additional 25% of base Agility experience is gained in the Prayer skill for each action performed. Experience boosts, such as bonus experience and the [First Age](http://runescape.wikia.com/wiki/First_age_outfit) set do work\n• The [Collector's Insignia](http://runescape.wikia.com/wiki/Collector%27s_insignia) will not lose charge\n• Increased chance of the window and light creature shortcuts appearing on the Hefin Agility Course"
+        "name": "Formula",
+        "value": "Gaining this pet is based on the amount of experience drops received, not the size of the experience drops. Therefore, it is best to choose a method among the fastest experience drops.\n\nIn a purely mathematical format your chance (f) of receiving a pet on any particular action is:\nf = T *S / 50,000,000\n\nWhere:\n*T* is the estimated completion time (in game ticks) of each course lap, since the pet can only be obtained at the end of a lap\n*S* is the virtual skill level. At 200 million experience, a flat bonus of 50 is applied to this value."
       }
       ]
   },
-  "daily challenge": {
-    "title": "Daily Challenge",
-    "url": "http://runescape.wikia.com/wiki/Challenge_System/Agility",
-    "description": "Completing a daily challenge in Agility will give Agility experience, depending on the player's Agility level.",
+  "quests": {
+    "title": "Quests which Grant Agility Experience",
+    "url": "http://runescape.wikia.com/wiki/Quests/Experience_rewards#Agility",
+    "description": "Currently, a total of 1,005,962 experience may be gained specifically to agility throughout all of the RuneScape Quests. These rewards are automatically given and there is no choice involved.",
         "color": 13118778,
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "thumbnail": {
-      "url": "https://vignette.wikia.nocookie.net/runescape2/images/d/d5/Daily_Challenge_icon.png/revision/latest?cb=20140711174355"
+      "url": "https://vignette.wikia.nocookie.net/runescape2/images/8/8d/Quest_Icon_Crest.png/revision/latest?cb=20170206115901"
     },
     "author": {
       "name": "Max Cape Info",
@@ -272,8 +268,8 @@ exports.data = {
     },
     "fields": [
       {
-        "name": "​",
-        "value": "Completing a daily challenge in Agility will give Agility experience, depending on the player's Agility level. At level 98, 21,315 experience is awarded per day for completing either:\n\n• 6 Dorgesh-Kaan Agility Course Laps\n• 24 Advanced Barbarian Outpost Agility Course Laps\n\nDaily challenges may be extended for 50 [Vis Wax](http://runescape.wikia.com/wiki/Vis_wax) for double the reward.\n\nA full chart of the experience per level for the daily challenge may be found [here](http://runescape.wikia.com/wiki/Challenge_System/Agility)."
+        "name": "Complete List by RS Wiki",
+        "value": "The full list may be found [here](http://runescape.wikia.com/wiki/Quests/Experience_rewards#Agility)."
       }
       ]
   },
@@ -324,17 +320,17 @@ exports.data = {
       }
       ]
   },
-  "quests": {
-    "title": "Quests which Grant Agility Experience",
-    "url": "http://runescape.wikia.com/wiki/Quests/Experience_rewards#Agility",
-    "description": "Currently, a total of 1,005,962 experience may be gained specifically to agility throughout all of the RuneScape Quests. These rewards are automatically given and there is no choice involved.",
-        "color": 13118778,
+  "daily challenge": {
+    "title": "Daily Challenge",
+    "url": "http://runescape.wikia.com/wiki/Challenge_System/Agility",
+    "description": "Completing a daily challenge in Agility will give Agility experience, depending on the player's Agility level.",
+        "color": 12269891,
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "thumbnail": {
-      "url": "https://vignette.wikia.nocookie.net/runescape2/images/8/8d/Quest_Icon_Crest.png/revision/latest?cb=20170206115901"
+      "url": "https://vignette.wikia.nocookie.net/runescape2/images/d/d5/Daily_Challenge_icon.png/revision/latest?cb=20140711174355"
     },
     "author": {
       "name": "Max Cape Info",
@@ -342,22 +338,22 @@ exports.data = {
     },
     "fields": [
       {
-        "name": "Complete List by RS Wiki",
-        "value": "The full list may be found [here](http://runescape.wikia.com/wiki/Quests/Experience_rewards#Agility)."
+        "name": "​",
+        "value": "At level 98, 21,315 experience is awarded per day for completing either:\n\n• 6 [Dorgesh-Kaan Agility Course](http://runescape.wikia.com/wiki/Dorgesh-Kaan_Agility_Course) Laps, or\n• 24 [Advanced Barbarian Outpost Agility Course](http://runescape.wikia.com/wiki/Barbarian_Outpost) Laps\n\nDaily challenges may be extended for 50 [Vis Wax](http://runescape.wikia.com/wiki/Vis_wax) for double the reward.\n\nA full chart of the experience per level for the daily challenge may be found [here](http://runescape.wikia.com/wiki/Challenge_System/Agility)."
       }
       ]
   },
-  "alternative methods": {
-    "title": "Alternative Methods of Training",
-    "url": "http://runescape.wikia.com/wiki/Agility_training#Alternative_methods_of_gaining_experience",
-    "description": "Some users may wish to utilize methods outside of the ones displayed in this channel's guide. To aid in this, the following alternative methods are provided.",
-        "color": 13118778,
+  "permanent boosts": {
+    "title": "Permanent Boosts",
+    "url": "http://runescape.wikia.com/wiki/Bonus_experience_items",
+    "description": "A permanent skill boost is anything caused by an item that permanently raises a player's level in one or more skills. It allows the player to do things above their current level.",
+        "color": 12269891,
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "thumbnail": {
-      "url": "https://vignette.wikia.nocookie.net/runescape2/images/1/1a/Controls_worldmapview.jpg/revision/latest?cb=20080729101303"
+      "url": "https://vignette.wikia.nocookie.net/runescape2/images/c/c2/Nimble_outfit_equipped.png/revision/latest?cb=20160312113439"
     },
     "author": {
       "name": "Max Cape Info",
@@ -365,38 +361,38 @@ exports.data = {
     },
     "fields": [
       {
-        "name": "Silverhawk Boots",
-        "value": "[Silverhawk Boots](http://runescape.wikia.com/wiki/Silverhawk_boots) are an item that can be won from Treasure Hunter or purchased for 750 Thaler. While the boots are equipped and charged, players will periodically receive Agility experience equal to 10% of the experience that is gained from using a small XP lamp. Experience will be gained:\n\n• Once per minute spent running\n• While skilling (maximum of once every 45 seconds)\n• When using an ultimate ability (a maximum of once every 45 seconds)\n\nEach time that experience is gained from the boots a charge is used up. Silverhawk boots may hold up to 500 charges at once. [Silverhawk Feathers](http://runescape.wikia.com/wiki/Silverhawk_feathers) give 1 charge per feather used with the boots. Silverhawk feathers can be won from Treasure Hunter and are tradeable. One [Silverhawk Down](<http://runescape.wikia.com/wiki/Silverhawk_down>) can also be used give the boots 1 charge. Silverhawk down is an untradeable item that can be purchased for 35 thaler per 10 down."
+        "name": "Agility Cape",
+        "value": "• The [Agility Cape's](http://runescape.wikia.com/wiki/Agility_cape) perk provides a chance of being awarded double tickets at the [Brimhaven Agility Arena](http://runescape.wikia.com/wiki/Brimhaven_Agility_Arena)."
       },
       {
-        "name": "​",
-        "value": "The amount of Agility experience gained from using 1 charge from a pair of silverhawk boots ranges between 6.25 experience, with level 1 Agility, and 860.2 experience, with level 99 Agility. Players can gain between 375 and 51,612 Agility experience an hour from silverhawk boots, assuming that 60 charges are used. The maximum amount of charges used per hour is 80. It is not recommended to use Silverhawk boots as a way to train agility under level 98 because of the relatively low experience gained per feather and high cost of the feathers unless the user has the means to make a large amount of money every hour."
+        "name": "Weight-Reducing Clothing",
+        "value": "• As a player's chance of successfully traversing an Agility obstacle is increased if they have a low weight, players may wish to wear [weight-reducing clothing](http://runescape.wikia.com/wiki/Weight-reducing_clothing) while training Agility to decrease their weight and minimize their failure rate."
       },
       {
-        "name": "Serenity Posts (75+)",
-        "value": "[Serenity Posts](http://runescape.wikia.com/wiki/Serenity_posts) are an Agility training activity which can be completed to gain a maximum of 20,000 Agility experience once per day. Level 75 Agility is required to participate in the activity, as well as completion of the [Plague's End](http://runescape.wikia.com/wiki/Plague%27s_End). To begin the activity use the balance on option on any of the 6 serenity posts in the Hefin district training area, and choose a pose in the minigame interface."
+        "name": "Nimble Outfit",
+        "value": "• Wearing components of the [Nimble Outfit](http://runescape.wikia.com/wiki/Nimble_outfit) gives a percentage increase in the amount of Agility experience gained. There are five pieces in the set: the headwear, chestpiece, legwear, gloves and boots. Components of the nimble outfit can be won from Treasure Hunter or obtained randomly from completing [The Pit](http://runescape.wikia.com/wiki/The_Pit) (successfully or unsuccessfully). Each piece provides 1% additional agility experience when worn. If all pieces of the set are worn, an additional set bonus effect of 1% is given, for a total of 6%."
       },
       {
-        "name": "​",
-        "value": "Experience is gained once per second whilst stood on a serenity post. Maximum experience is gained when imitating Lady Hefin's pose. Doing the correct pose, which is the same pose that Lady Hefin is currently doing, grants between 30-58 Agility experience each second, depending on the player's Agility level, while doing a different pose to Lady Hefin grants 10% of this amount of experience. Only base experience gains count towards the daily limit. Upon reaching the limit, the player's character will automatically leave the serenity post, and they will be unable to stand on the post again until the next day. A player with level 99 Agility can obtain the 20,000 experience limit in around 10 minutes, giving an experience rate equivalent to 120,000 experience an hour."
+        "name": "Collectors Insignia",
+        "value": "• Wearing the [Collector's Insignia](http://runescape.wikia.com/wiki/Collector%27s_insignia) gives a 5% increase to Agility experience gained and 10% experience when charged. the collector's insignias are obtained from [Barbarian Assault](http://runescape.wikia.com/wiki/Barbarian_Assault) for 500 collector points and 5 Penance King kills. Insignias are worn in the pocket slot."
       },
       {
-        "name": "Barbarian Assault",
-        "value": "Players can gain Agility bonus experience as a reward from playing the [Barbarian Assault]( http://runescape.wikia.com/wiki/Barbarian_Assault) minigame. At level 99 Agility it is possible to gain 1,300,000 bonus experience per hour playing hard mode Barbarian Assault waves 6-9, at a cost of 6 Barbarian assault ticket - hard wave 10 per hour. Players may, as an alternative, gain 920,000 bonus experience per hour playing hard mode waves 1-9 without having to pay for the tickets.\n\nIn order to play hard mode Barbarian Assault the normal mode of the minigame must be completed at least once. It is highly recommended for players to reach maximum role levels before starting playing for bonus experience."
+        "name": "Karamja Gloves",
+        "value": "• [Karamja Gloves 2](http://runescape.wikia.com/wiki/Karamja_gloves_2)\n\t• 10% extra experience from obstacles in the [Brimhaven Agility Arena](http://runescape.wikia.com/wiki/Brimhaven_Agility_Arena)\n\t• 10% extra experience when trading in [Agility Arena Tickets](http://runescape.wikia.com/wiki/Agility_Arena_ticket)\n• [Karamja Gloves 4](http://runescape.wikia.com/wiki/Karamja_gloves_4)\n\t• 25% chance of receiving double tickets in the Brimhaven Agility Arena"
       }
       ]
   },
-  "pet - dojo mojo": {
-    "title": "Agility Pet - Dojo Mojo",
-    "description": "Dojo Mojo is the skilling pet obtainable from Agility. He is unlocked by inspecting the [Dojo Mojo Pet](http://runescape.wikia.com/wiki/Dojo_Mojo_pet).",
-    "url": "http://runescape.wikia.com/wiki/Dojo_Mojo",
-    "color": 13118778,
+  "temporary boosts": {
+    "title": "Temporary Boosts",
+    "url": "http://runescape.wikia.com/wiki/Temporary_skill_boost",
+    "description": "A temporary skill boost is anything caused by an item, Summoning familiar, or action that temporarily raises a player's level in one or more skills. It allows the player to do things above their current level.",
+        "color": 12269891,
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "thumbnail": {
-      "url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e2/Dojo_Mojo_%28pet%29.png/revision/latest?cb=20160825173743"
+      "url": "https://vignette.wikia.nocookie.net/runescape2/images/6/6a/Summer_pie_detail.png/revision/latest?cb=20111129085248"
     },
     "author": {
       "name": "Max Cape Info",
@@ -404,20 +400,24 @@ exports.data = {
     },
     "fields": [
       {
-        "name": "Methods to Obtain",
-        "value": "• Burthorpe Agility Course\n• Gnome Stronghold Agility Course\n• Advanced Gnome Stronghold Agility Course\n• Agility Pyramid\n• Penguin Agility Course\n• Barbarian Outpost\n• Advanced Barbarian Outpost\n• Ape Atoll Agility Course\n• Wilderness Agility Course\n• Werewolf Agility Course\n• Agility Course\n• Hefin Agility Course\n• Dorgesh-Kaan Agility Course\n• Collecting an Agility arena ticket from the Brimhaven Agility Arena\n• Serenity posts\n• Manual Auto-cycles in The Empty Throne Room\n• Taking Agility Shortcuts"
+        "name": "Agility Boosts",
+        "value": "[Agility Cape](http://runescape.wikia.com/wiki/Agility_cape)\n • +1 level for 1 minute\n\n[Spicy Stew](http://runescape.wikia.com/wiki/Spicy_stew)\n • Boost is applied to a random skill\n • Up to ±5 with 3 spice doses\n • Up to ±3 with 2 spice doses\n • Up to ±1 with 1 spice dose\n\n[God Banner](http://runescape.wikia.com/wiki/God_banner)\n• Exploration boost: +5 levels\n• The boost can be used once per day and lasts for 30 minutes\n\n[Jitterberry](http://runescape.wikia.com/wiki/Jitterberry)\n• +2 levels\n• Requires access to [The Arc](http://runescape.wikia.com/wiki/The_Arc)\n• Reduces Defence by 1 level\n\n[Tireless Run Scroll](http://runescape.wikia.com/wiki/Spirit_terrorbird#Tireless_run_scroll)\n• +2 levels\n• Special move of the [Spirit terrorbird](http://runescape.wikia.com/wiki/Spirit_terrorbird)\n\n[Agility Potion](http://runescape.wikia.com/wiki/Agility_potion)\n• +3 levels\n• [Mix](http://runescape.wikia.com/wiki/Agility_mix) version heals 600 life points per dose"
       },
       {
-        "name": "Best Method",
-        "value": "• Manual Auto-cycles in The Empty Throne Room utilizing the incorrect action for the max amount of experience drops\n• Serenity Posts utilizing the incorrect action for the most possible experience drops per day."
+        "name": "​",
+        "value": "[Abyssal Stealth Scroll](http://runescape.wikia.com/wiki/Abyssal_lurker#Abyssal_stealth_scroll)\n• +4 levels\n• Special move of the [Abyssal Lurker](http://runescape.wikia.com/wiki/Abyssal_lurker)\n\n[Summer Pie](http://runescape.wikia.com/wiki/Summer_pie)\n• +5 levels\n• Heals 1,187 life points and restores 20% run energy per bite\n\n[Surefooted Auras](http://runescape.wikia.com/wiki/Agility_training#Surefooted_auras)\n• Surefooted auras prevent the player from failing the obstacles of an Agility course while they are activated. Players may use 20 or 40 [Vis Wax](http://runescape.wikia.com/wiki/Vis_wax) to extend a surefooted aura's activation time by 50% or 100%. This effect must be applied before the aura is activated. Surefooted auras can be bought using [Membership Loyalty Points](http://runescape.wikia.com/wiki/Members_Loyalty_Programme). The lower tier aura must be owned before the greater version of the aura can be purchased."
       },
       {
-        "name": "Methods which do not Work",
-        "value": "• Using silverhawk boots to passively train Agility does not give a chance of earning this item\n• Agility Skill Training Dummies"
+        "name": "​",
+        "value": "[Perfect Juju Agility Potion](http://runescape.wikia.com/wiki/Perfect_juju_agility_potion)\n• A dose of the potion lasts for one hour. While the potion is in effect, for each lap of the Hefin Agility Course, there is an increased chance that either the cathedral roof shortcut will be usable, or there will be a light creature on the roof that gives you a reward. Note that the two effects might be activated on the same run.\n\n[Perfect Plus Potion](http://runescape.wikia.com/wiki/Perfect_plus_potion)\n• The same effect as the Perfect Juju Agility Potion, but will instead last for four hours.\n\n[Salt-water spring](http://runescape.wikia.com/wiki/Spa)\n• The salt-water spring allows for unlimited run energy by restoring run energy to 100% every two ticks. It will last approximately 10 to 25 minutes, possibly depending on the player's agility level."
       },
       {
-        "name": "Formula",
-        "value": "Gaining this pet is based on the amount of experience drops received, not the size of the experience drops. Therefore, it is best to choose a method among the fastest experience drops.\n\nIn a purely mathematical format your chance (f) of receiving a pet on any particular action is:\nf = T *S / 50,000,000\n\nWhere:\n*T* is the estimated completion time (in game ticks) of each course lap, since the pet can only be obtained at the end of a lap\n*S* is the virtual skill level. At 200 million experience, a flat bonus of 50 is applied to this value"
+        "name": "​",
+        "value": "[Brawling Gloves (Agility)](http://runescape.wikia.com/wiki/Brawling_gloves_(Agility)\n• A 50% XP boost is given anywhere outside of the Wilderness. However, the buff increases to 300% at level 47 Wilderness, just south of the fence. The gloves only last about 400 uses on any agility obstacle; this varies on what obstacle players decide to equip them. The gloves should only be worn during the last obstacle to prolong the use of a pair."
+      },
+      {
+        "name": "​",
+        "value": "[Voice of Seren - Hefin](http://runescape.wikia.com/wiki/Voice_of_Seren#Known_effects)\n• 20% more base Agility experience whilst training agility on the Hefin Agility Course. The rate at which velocity is gained on the agility course is doubled\n• While doing laps on the Hefin Agility Course, an additional 25% of base Agility experience is gained in the Prayer skill for each action performed. Experience boosts, such as bonus experience and the [First Age](http://runescape.wikia.com/wiki/First_age_outfit) set do work\n• The [Collector's Insignia](http://runescape.wikia.com/wiki/Collector%27s_insignia) will not lose charge\n• Increased chance of the window and light creature shortcuts appearing on the Hefin Agility Course"
       }
       ]
   }
