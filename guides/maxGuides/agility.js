@@ -386,7 +386,7 @@ exports.data = {
       }
       ]
   },
-  "pet": {
+  "pet - dojo mojo": {
     "title": "Agility Pet - Dojo Mojo",
     "description": "Dojo Mojo is the skilling pet obtainable from Agility. He is unlocked by inspecting the [Dojo Mojo Pet](http://runescape.wikia.com/wiki/Dojo_Mojo_pet).",
     "url": "http://runescape.wikia.com/wiki/Dojo_Mojo",
