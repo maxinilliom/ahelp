@@ -254,7 +254,7 @@ exports.data = {
       }
       ]
   },
-  "daily challenge": {
+  "distractions and diversions": {
     "title": "Distractions and Diversions",
     "url": "http://runescape.wikia.com/wiki/Distractions_and_Diversions",
     "description": "D&Ds are a subclassification of minigames. However, unlike minigames many D&Ds move around the world to various locations, have a limit on how often they can be played, and only occur at particular times of day.\n\nDistractions and Diversions aim to divert the original intentions of the player in order to provide an interesting distraction from their everyday routines. D&Ds come in many different shapes and sizes; covering Combat, Gathering, Artisan, and Support skills. There are a wide variety of different options available to suit the players choice.",
