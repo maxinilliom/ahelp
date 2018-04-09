@@ -49,7 +49,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 		let output = "";
 		const helpEmbed = data["help"].embed;
 		keyList.forEach(k => {
-			output += `${data[k].embed.title}\n`;
+			output += `• ${data[k].embed.title}\n`;
 		});
 		helpEmbed.title = "Comprehensive list of all valid Trimmed Completionist Cape guide commands";
 		helpEmbed.author.name = "Trim Comp Cape Info";

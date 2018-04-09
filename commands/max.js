@@ -17,7 +17,7 @@ exports.run = async (client, message, [skill, ...args], level) => { // eslint-di
 	if (message.channel.id !== '429108140924076032' && level < "2") return;
 	if (!skill) return message.channel.send(`Please specify a skill name.`);
 	if (skill && !client.maxGuides.includes(skill.toLowerCase())) return message.channel.send(`**${skill.toProperCase()}** is not a valid skill name.`);
-	if (!args[0]) return message.channel.send(`Please specify options to search the **${skill.toProperCase()}** guides with.`);
+	if (!args[0] && skill !== "help") return message.channel.send(`Please specify options to search the **${skill.toProperCase()}** guides with.`);
 	const { data } = require(`../guides/maxGuides/${skill.toLowerCase()}.js`);
 	const keyList = [];
 	const numKeyList = [];
@@ -28,16 +28,28 @@ exports.run = async (client, message, [skill, ...args], level) => { // eslint-di
 		if (k !== "help" && k !== "search") keyList.push(k);
 	});
 
+	if (skill.toLowerCase() == "help") {
+		let output = "";
+		const helpEmbed = data["help"];
+		client.maxGuides.forEach(g => {
+			if (g !== "help") output += `• ${g.toProperCase()}\n`;
+		});
+		helpEmbed.title = `Comprehensive list of all valid skills`;
+		helpEmbed.description = output;
+		helpEmbed.color = 12269891;
+		return message.channel.send("", {embed: helpEmbed});
+	}
+
 	if (args[0].toLowerCase() == "help") {
                 let output = "";
                 const helpEmbed = data["help"];
                 keyList.forEach(k => {
-                        output += `${data[k].title}\n`;
+                        output += `• ${data[k].title}\n`;
                 });
                 helpEmbed.title = `Comprehensive list of all valid ${skill.toProperCase()} guide commands`;
                 helpEmbed.description = output;
-                helpEmbed.color = 12269891;
-                return message.channel.send("", {embed: helpEmbed});
+		helpEmbed.color = 12269891;
+		return message.channel.send("", {embed: helpEmbed});
         }
 
 	if (Number(args[0])) {
@@ -55,8 +67,6 @@ exports.run = async (client, message, [skill, ...args], level) => { // eslint-di
 		});
 	}
 
-	//dumped below - double check all code. add help above and check for help/search embeds
-	//finalise help/search embeds in melee with formatting from max commands and copy to agility
         if (rtnArr.length == 0) {
                 return message.channel.send(`No results found for **${args.join(" ")}**.`);
         } else if (rtnArr.length == 1) {
