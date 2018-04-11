@@ -17,12 +17,16 @@ exports.run = async (client, message, [skill, ...args], level) => { // eslint-di
 	if (message.channel.id !== '429108140924076032' && level < "2") return;
 	if (!skill) return message.channel.send(`Please specify a skill name.`);
 	if (skill && !client.maxGuides.includes(skill.toLowerCase())) return message.channel.send(`**${skill.toProperCase()}** is not a valid skill name.`);
-	if (!args[0] && skill !== "help") return message.channel.send(`Please specify options to search the **${skill.toProperCase()}** guides with.`);
+	if (!args[0] && skill !== "help" && skill !== "universal") return message.channel.send(`Please specify options to search the **${skill.toProperCase()}** guides with.`);
 	const { data } = require(`../guides/maxGuides/${skill.toLowerCase()}.js`);
 	const keyList = [];
 	const numKeyList = [];
 	const strKeyList = [];
 	const rtnArr = [];
+
+	if (skill.toLowerCase() == "universal") {
+		return message.channel.send("", {embed: data});
+	}
 
 	Object.getOwnPropertyNames(data).forEach(k => {
 		if (k !== "help" && k !== "search") keyList.push(k);
@@ -32,7 +36,7 @@ exports.run = async (client, message, [skill, ...args], level) => { // eslint-di
 		let output = "";
 		const helpEmbed = data["help"];
 		client.maxGuides.forEach(g => {
-			if (g !== "help") output += `• ${g.toProperCase()}\n`;
+			if (g !== "help" && g !== "universal") output += `• ${g.toProperCase()}\n`;
 		});
 		helpEmbed.title = `Comprehensive list of all valid skills`;
 		helpEmbed.description = output;
