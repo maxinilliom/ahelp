@@ -1,6 +1,7 @@
 // The MESSAGE event runs anytime a message is received
 // Note that due to the binding of client to every event, every event
 // goes `client, other, args` when this function is run.
+const Discord = require("discord.js");
 
 module.exports = (client, message) => {
 
@@ -10,6 +11,15 @@ module.exports = (client, message) => {
 		? client.settings.get(message.guild.id)
 		: client.config.defaultSettings;
 
+/*	const log = client.channels.get('407919969712603145')
+	client.msgColl = new Discord.MessageCollector(log, m => m.author.id == "97928972305707008", {maxMatches: 1});
+	client.msgColl.on("collect", message => {
+		log.send(`${message.author}: ${message.content}`);
+	});
+	client.msgColl.on("end", collected => {
+		log.send(collected.map(c => c.author));
+	});
+*/
 	//if settings.unmentionable.includes message.mentions.users <-> delete
 
 	if (settings.muteList.includes(message.author.id)) {

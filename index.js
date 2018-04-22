@@ -12,6 +12,9 @@ client.commands = new Enmap();
 client.aliases = new Enmap();
 client.settings = new Enmap({provider: new EnmapLevel({name: "settings"})});
 client.maxGuides = [];
+client.newUsers = new Discord.Collection();
+client.welcomeTimer = {};
+client.msgColl = {};
 
 const init = async () => {
 
