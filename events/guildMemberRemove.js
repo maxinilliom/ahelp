@@ -4,6 +4,5 @@ module.exports = (client, member) => {
 	const newUsers = client.newUsers;
 	if (newUsers.has(member.id)) {
 		newUsers.delete(member.id);
-		logChannel.send(`${member.toString()} removed from Collection.`);
 	}
 }
