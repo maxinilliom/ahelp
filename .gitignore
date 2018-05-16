@@ -1,2 +1,6 @@
 node_modules
 config.js
+.flowconfig
+/.je-project-settings
+ahelp.sublime-project
+ahelp.sublime-workspace
