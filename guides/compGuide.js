@@ -2781,42 +2781,14 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Reaper Crew](http://runescape.wikia.com/wiki/Reaper_Crew) is an achievement that requires the player to obtain [Name] the Reaper title by defeating every boss at least once. This does not include hard mode/challenge mode variants.\n\nIf you need help with a certain group boss, you can notify the Reaper Crew role in this server for help (their time permitting). Alternatively, check the <#394551908179902477> channel for invite links to the following Discord servers that we're partnered with to assist with bossing needs.",
+			"description": "[Reaper Crew](http://runescape.wikia.com/wiki/Reaper_Crew) is an achievement that requires the player to obtain [Name] the Reaper title by defeating every boss at least once. This does not include hard mode/challenge mode variants.\n\nIf you need help with a certain group boss, you can notify the Reaper Crew role in this server for help (their time permitting). Alternatively, check the <#441624301616234496> channel for invite links to Discord servers that we're partnered with to assist with bossing needs.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
 			"fields": [
 				{
-					"name": "All Bosses:",
-					"value": "• Cursed Combatants\n• Boss Guides/Marathons\n• Mass247\n• RS Pocketbook\n• Boss School"
-				},
-				{
-					"name": "Kalphite King:",
-					"value": "• LSKK247"
-				},
-				{
-					"name": "Nex:",
-					"value": "• Baby Nex Buddies"
-				},
-				{
-					"name": "Nex: Angel of Death:",
-					"value": "• CsAod\n• AoD: 7-10 Man"
-				},
-				{
-					"name": "Raids:",
-					"value": "• Raiders\n• Raid FC"
-				},
-				{
-					"name": "Solak:",
-					"value": "• Solak Community"
-				},
-				{
-					"name": "Vorago:",
-					"value": "• Vorago Discord"
-				},
-				{
 					"name": "Guide:",
-					"value": "[PvM Pocketbook by Ancient Dawn | Google Drive]( https://drive.google.com/file/d/0B1BQkGxSlc2tQmt5Yl9LeUV4d1E/view)"
+					"value": "[PvM Pocketbook by Ancient Dawn | Google Drive](https://drive.google.com/file/d/0B1BQkGxSlc2tQmt5Yl9LeUV4d1E/view)"
 				}
 			],
 			"footer": {
