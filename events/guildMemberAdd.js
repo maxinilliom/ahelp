@@ -7,7 +7,7 @@ module.exports = async (client, member) => {
 	const welcomeChannel = client.channels.get("382700760317558786");
 	const replyChannel = client.channels.get('435588740346413057');
 	const logChannel = client.channels.get('407919969712603145');
-	const wMsg = `\n\nIf you have any of the following, please respond to this message letting us know and we will assign the correct roles to signify:\n• Max | Comp | MQC | Comp (t) Cape\n• Insane Final Boss or Master of All titles\n• 1,706/1,855 achievements or 18,220/19,805 RuneScore\n• Max Total Virtual Level or Max Experience\n• A HCIM or IM Account you actively play on\n• You are a RS Twitch streamer or YouTuber with more than 50 followers\n\nWe also have a friend chat in game: 'Saint Cannon'\n\nThanks for joining us! (:\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬`;
+	const wMsg = `\n\nIf you have any of the following, please respond to this message letting us know and we will assign the correct roles to signify:\n• Max | Comp | MQC | Comp (t) Cape\n• Insane Final Boss or Master of All titles\n• 1,686/1,857 achievements or 18,225/19,810 RuneScore\n• Max Total Virtual Level or Max Experience\n• A HCIM or IM Account you actively play on\n• You are a RS Twitch streamer or YouTuber with more than 50 followers\n\nWe also have a friend chat in game: 'Saint Cannon'\n\nThanks for joining us! (:\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬`;
 	const maxUsers = "5";
 
 	const collEnd = (coll, arr) => {
