@@ -17,7 +17,7 @@ exports.run = async (client, message, [skill, ...args], level) => { // eslint-di
 	if (message.channel.id !== '429108140924076032' && level < "2") return;
 	if (!skill) return message.channel.send(`Please specify a skill name.`);
 	if (skill && !client.maxGuides.includes(skill.toLowerCase())) return message.channel.send(`**${skill.toProperCase()}** is not a valid skill name.`);
-	if (!args[0] && skill !== "help" && skill !== "universal") return message.channel.send(`Please specify options to search the **${skill.toProperCase()}** guides with.`);
+	if (!args[0] && skill !== "help" && skill !== "all" && skill !== "universal") return message.channel.send(`Please specify options to search the **${skill.toProperCase()}** guides with.`);
 	const { data } = require(`../guides/maxGuides/${skill.toLowerCase()}.js`);
 	const keyList = [];
 	const numKeyList = [];
