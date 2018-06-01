@@ -594,10 +594,10 @@ exports.data = {
 					"name": "Requirements:",
 					"value": "• Impressing the Locals Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Impressing_the_Locals)\n• Flag Fall Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/Flag_Fall)\n• Head of the Family Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/Head_of_the_Family)\n• Spiritual Enlightenment Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Spiritual_Enlightenment)\n• Jed Hunter Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Jed_Hunter)\n• Eye for an Eye Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Eye_for_an_Eye)\n• Harbinger Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Harbinger)\n• Tuai Liet's Own Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Tuai_Leit%27s_Own)\n• Ghosts from the Past Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Ghosts_from_the_Past)"
 				},
-        {
-          "name": "Requirements continued:",
-          "value": "• Damage Control Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Damage_Control)"
-        },
+				{
+					"name": "Requirements continued:",
+					"value": "• Damage Control Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Damage_Control)"
+				},
 				{
 					"name": "Guide:",
 					"value": "[Arc X - Final Destination Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Final_Destination)"
@@ -1637,6 +1637,54 @@ exports.data = {
 			}
 		}
 	},
+	"daemonology of celerity": {
+		"cmds": ["mqc"],
+		"embed": {
+			"title": "Daemonology of Celerity",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Daemonology of Celerity](http://runescape.wikia.com/wiki/Daemonology_of_Celerity) is an achievement that requires the player to claim the Malleus daemoniorum by talking to Brother Celerity after taking part in a Demon Flash Mob.\n\nBrother Celerity is a monk who gives advice on how to defeat the demons. He is located at the Edgeville Monastery.\n\nFlash mobs appear every hour in one of 14 locations including the Wilderness. Players with the required combat level get a filtered notice of a surge of demonic energy at a specific location fifteen minutes before the mob spawns, then receive a second message stating that the demons have spawned in that location. Mobs can spawn at any time and are not synchronised across worlds.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "None"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 10"
+			}
+		}
+	},
+	"daero take this experience?": {
+		"cmds": ["mqc"],
+		"embed": {
+			"title": "Daero Take This Experience?",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Daero Take This Experience?](http://runescape.wikia.com/wiki/Daero_Take_This_Experience) is an achievement that requires the player to claim the total of 110,000 combat experience from Daero after completion of Monkey Madness.\n\nDaero is the new tree guardian of the Tree Gnome Stronghold, who is found at Blurberry's Bar on the first floor of the Grand Tree.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• Monkey Madness Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Monkey_Madness)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 10"
+			}
+		}
+	},
 	"deadlier catch": {
 		"cmds": ["comp", "mqc"],
 		"embed": {
@@ -1662,6 +1710,54 @@ exports.data = {
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 10"
+			}
+		}
+	},
+	"death to the mahjarrat": {
+		"cmds": ["mqc"],
+		"embed": {
+			"title": "Death to the Mahjarrat",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Death to the Mahjarrat](http://runescape.wikia.com/wiki/Death_to_the_Mahjarrat) is an achievement that requires the player to find and inspect all Mahjarrat deathstones in Freneskae during or after Children of Mah.\n\n• Rhakzhul: His deathstone can be found by the World Gate portal and the first lava rock ride on Freneskae.\n• Kyreetha: Their deathstone can be found before the second lava rock ride on Freneskae. \n• Hizzindra: Their deathstone can be found after the lavafall on Freneskae.\n• Zemouregal: His deathstone can be found right outside Mah's ritual marker on Freneskae.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• Children of Mah Quest partial completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Children_of_Mah)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 20"
+			}
+		}
+	},
+	"deep and bloody experience": {
+		"cmds": ["mqc"],
+		"embed": {
+			"title": "Deep and Bloody Experience",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Deep and Bloody Experience](http://runescape.wikia.com/wiki/Deep_and_Bloody_Experience) is an achievement that requires the player to claim the 3x 150,000 combat experience reward after Blood Runs Deep by talking to Brundt the Chieftain.\n\nBrundt the Chieftain is the chieftain of Rellekka, the capital of the Fremennik Province. He is located in the long hall in the centre of town.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• Blood Runs Deep Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Blood_Runs_Deep)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 15"
 			}
 		}
 	},
@@ -1706,16 +1802,16 @@ exports.data = {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
 			"fields": [
-        {
-          "name": "Clan",
-          "value": "Cadarn\nCrwys\nIorwerth\nTrahaearn\nAmlodd\nHefin\nIthell\nMeilyr",
-          "inline": true
-        },
-        {
-          "name": "Laps",
-          "value": "20\n40\n60\n80\n100\n120\n140\n160",
-          "inline": true
-        },
+				{
+					"name": "Clan",
+					"value": "Cadarn\nCrwys\nIorwerth\nTrahaearn\nAmlodd\nHefin\nIthell\nMeilyr",
+					"inline": true
+				},
+				{
+					"name": "Laps",
+					"value": "20\n40\n60\n80\n100\n120\n140\n160",
+					"inline": true
+				},
 				{
 					"name": "Requirements:",
 					"value": "• 77 Agility\n• Plague's End Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Plague%27s_End)"
@@ -1724,6 +1820,234 @@ exports.data = {
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 10"
+			}
+		}
+	},
+	"diary of oreb": {
+		"cmds": ["mqc"],
+		"embed": {
+			"title": "Diary of Oreb",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Diary of Oreb](http://runescape.wikia.com/wiki/Diary_of_Oreb) is an achievement that requires the player to find and obtain all of the The Magister's Journals from either The Magister or monsters in the Sophanem Slayer Dungeon.\n\nIt is recommended to complete this alongside capturing the Soul Devourers' and Corrupted Creatures' souls with Ushabtis. Ensure you pick up each journal as they are received so that the next will spawn.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• 88 Slayer\n\n• Jack of Spades Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Jack_of_Spades)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 25"
+			}
+		}
+	},
+	"diary of the gods": {
+		"cmds": ["mqc"],
+		"embed": {
+			"title": "Diary of the Gods",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Diary of the Gods](http://runescape.wikia.com/wiki/Diary_of_the_Gods) is a meta-achievement that requires the player to obtain Zilyana's Notes, The Glory of General Graardor, Armadyl's Assault, Razulei's Tale and Nex's Followers as a drop from the respective bosses in the God Wars Dungeon.\n\nEach book will come with your first unique boss drop from the respective boss, whether it is your drop or your partners.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• 70 Constitution \n• 70 Strength \n• 70 Agility \n• 70 Ranged\n\n• Troll Stronghold Quest partial completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Troll_Stronghold)"
+				},
+				{
+					"name": "Guides:",
+					"value": "• [Low level Commander Zilyana solo guide | The RS Guy - YouTube](https://www.youtube.com/watch?v=znBF-LwvPJs)\n• [Low level K'ril Tsutsaroth solo guide | The RS Guy - YouTube](https://www.youtube.com/watch?v=pPfEMLlt8QA)\n• [Low level Kree'arra solo guide | The RS Guy - YouTube](https://www.youtube.com/watch?v=Zq0eGung16k)\n• [Low level General Graardor solo guide | The RS Guy - YouTube](https://www.youtube.com/watch?v=CDur0jqFF_8)\n• [Beginner's guide to Nex | The RS Guy - YouTube](https://www.youtube.com/watch?v=aidYDSQGlXQ)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 25"
+			}
+		}
+	},
+	"dishonourable gains": {
+		"cmds": ["mqc"],
+		"embed": {
+			"title": "Dishonourable Gains",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Dishonourable Gains](http://runescape.wikia.com/wiki/Dishonourable_Gains) is an achievement that requires the player to open the three chests in Zamorak's hideout during or after Dishonour among Thieves. To teleport to Zamorak's hideout use the communication device.\n\nThe communication device is given by Moia to the player at the beginning of Dishonour among Thieves. It can be used to communicate with Moia, to teleport to Zamorak's hideout underneath Daemonheim and to view the quest cutscenes. If the item is lost at any time, it can be reclaimed from Moldark in Edgeville.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• At least level 90 in every non-elite skill\n\n• Dishonour among Thieves Quest partial completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Dishonour_among_Thieves)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 15"
+			}
+		}
+	},
+	"dishonourable loot": {
+		"cmds": ["mqc"],
+		"embed": {
+			"title": "Dishonourable Loot",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Dishonourable Loot](http://runescape.wikia.com/wiki/Dishonourable_Loot) is an achievement that requires the player to open the six chests (excluding the one found at Jerrod, since the location is inaccessible after the quest) that are found along the way during Dishonour among Thieves.\n\nChest Locations: \n• West end of Zamorak's hideout\n• Behind the Handelmort Mansion in the cellar where Jerrod was kept (inaccessible after the quest)\n• Inside the Ruins of Uzer, near General Khazard \n• Black Knights' Base, near Lord Daquarius\n• Zemouregal's fort, on the east side of the ground floor, accessible from Trollweiss Mountain\n• South of Barrows, near the entrance to Sliske's lair",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• At least level 90 in every non-elite skill\n\n• Dishonour among Thieves Quest partial completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Dishonour_among_Thieves)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 15"
+			}
+		}
+	},
+	"distorted div": {
+		"cmds": ["mqc"],
+		"embed": {
+			"title": "Distorted Div",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Distorted Div](http://runescape.wikia.com/wiki/Distorted_Div) is an achievement that requires the player to claim the one-time Divination XP from a distorted engrammeter.\n\nThe engrammeter is an item given to the player by Kharshai to collect Mahjarrat Memories, charged by 500 Divine memories of Vibrant or higher. It is used in the Mahjarrat Memories miniquest, starting out depleted but becoming charged as memories are collected.\n\nAfter the player brings all 15 memories to Kharshai, he will state that the Engrammeter might be useful on Freneskae if the player is ever able to go there.\n\nThe distorted engrammeter can be re-obtained from Kharshai. Kharshai will not detect if the player is already holding one, making it possible to obtain multiple copies.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• Distorted engrammeter\n\n• Mahjarrat Memories Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Mahjarrat_Memories)"
+				},
+				{
+					"name": "Guide:",
+					"value": "[Mahjarrat Memories Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Mahjarrat_Memories)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 10"
+			}
+		}
+	},
+	"do a minion, take notes": {
+		"cmds": ["mqc"],
+		"embed": {
+			"title": "Do a Minion, Take Notes",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Do a Minion, Take Notes](http://runescape.wikia.com/wiki/Do_a_Minion,_Take_Notes) is an achievement that requires the player to fill a dominion journal with twenty journal pages, obtained from playing the Dominion Tower.\n\nIt seems that the chances of getting a page increase the higher one's dominion factor gets. An effective way to do this is to do Climber Mode and fighting to as high as possible, as your dominion factor accumulates very fast in this mode. Reaching floor 20 will often yield over 200,000 dominion factor, which usually results in one or two journal pages upon opening the rewards box.\n\nIf, however, you come across a boss you don't think you will be able to defeat, it is better to end climber mode and collect the reward than to die fighting the boss, as your dominion factor will be greatly reduced upon death.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• Completion of at least 20 of the following quests | [Runescape Wiki](http://runescape.wikia.com/wiki/Dominion_Tower#Requirements)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 25"
+			}
+		}
+	},
+	"do no elite": {
+		"cmds": ["mqc"],
+		"embed": {
+			"title": "Do No Elite",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Do No Elite](http://runescape.wikia.com/wiki/Do_No_Elite) is an achievement that requires the player claim the elite clue scroll while using Ava's alerter after completing Do No Evil. There are four possible locations where the elite clue scroll can be found.\n\nDig where it bwuks four times just like in the quest. If the alerter fails to detect anything, move onto the next location.\n\nIsafdar:\nStart in Lletya. Run west out of Lletya, cross the tripwire, and go through the dense forest to the northwest. Next, go northeast and hop over the leaves. In the next clearing your alerter should start bwuking.\n\nLunar Isle:\nThe scroll can be found on the southwest part of the island, west of the astral altar and south of the city, slightly west of the little peninsula.\n\nIceberg:\nOn the iceberg from the penguin quests. After getting off the boat, run north-west to the giant ice column that you can see on the minimap. It's on the north-western side of the column.\n\nMeiyerditch:\nThe easiest method is to use Drakan's medallion to teleport to Meiyerditch Laboratories, then make the quick trek southwards. If Drakan's Medallion is unavailable, take the boat from Burgh de Rott and get caught by a Vyrewatch. Choose to do hard labor and get sent to the mines. Ask a miner for a spare pickaxe, mine 15 daeyalt ore, deposit them in the mine cart, and then talk to one of the guards to be let out. Then run south along the eastern wall. The spot is in an indent in the wall (on the minimap), right next to a sitting child.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• Ava's Alerter equipped\n• No metal armour equipped in the chest slot\n• Spade in inventory (tool belt spade will not work)\n\n• Do No Evil Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Do_No_Evil)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 10"
+			}
+		}
+	},
+	"don't fear the ripper": {
+		"cmds": ["mqc"],
+		"embed": {
+			"title": "Don't Fear the Ripper",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Don't Fear the Ripper](http://runescape.wikia.com/wiki/Don%27t_Fear_the_Ripper) is an achievement that requires the player to find and obtain all five miner's journals and the diary of Jebediah Omnis from Ripper Demons.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• 96 Slayer"
+				},
+				{
+					"name": "Guide:",
+					"value": "[Ripper Demon Slayer guide | puretppc - YouTube](https://www.youtube.com/watch?v=f1R3T5OkeOI)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 25"
+			}
+		}
+	},
+	"dragonkin logs": {
+		"cmds": ["mqc"],
+		"embed": {
+			"title": "Dragonkin Logs",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Dragonkin Logs](http://runescape.wikia.com/wiki/Dragonkin_Logs) is an achievement that requires the player to kill adamant dragons in the Dragonkin Lair until they dropped all four journals.\n\nThe Dragonkin Lair is a lair found in the Ancient Cavern south of Kuradal. It is initially accessed with the dragon-mithril key.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• Hero's Welcome Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Hero%27s_Welcome)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 20"
 			}
 		}
 	},
@@ -1749,7 +2073,7 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 25"
 			}
-  	}
+		}
 	},
 	"family spirit tree": {
 		"cmds": ["comp", "mqc"],
@@ -1874,7 +2198,7 @@ exports.data = {
 					"name": "Location methods:",
 					"value": "• Obtain tier 4 Menaphos reputation, since this will provide a chance to spawn an impling on every gather tick.\n• World hop within the Gorajo resource dungeon\n• Puro-Puro which can be accessed either at the Zanaris wheat field, which contains a permanent portal, or the various wheat fields around RuneScape, which have temporary crop circle portals. To use these portals, a hunter level of 17 is required.\n• Impetuous Impulses minigame\n• Using a tree-shaking scrimshaw in the Crwys clan during the Voice of Seren may disturb a crystal impling, which can then be caught by the player using the scrimshaw."
 				},
-        {
+				{
 					"name": "Requirements:",
 					"value": "• 95 Hunter\n\n• Plague's End Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Plague%27s_End)"
 				}
@@ -1905,8 +2229,8 @@ exports.data = {
 					"name": "Cave Goblin Technology Tree:",
 					"value": "The cave goblin tech tree is a tree of technology from Invention. At level 40, you may choose to follow this path by talking to Oldak in Dorgesh-Kaan.\n\nCave goblin technology tree items can be unlocked using Cave goblin currency which is earned by completing Invention tasks (not to be confused with Daily Tasks). These tasks can be found at the noticeboard in the Invention guild, near Oldak in Dorgesh-Kaan, and near Drorkar in Keldagrim. Up to 5 tasks can be saved and each 12 hours a new task is added."
 				},
-        
-        {
+				
+				{
 					"name": "Requirements:",
 					"value": "• 70 Invention\n\n• Giant Dwarf Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Giant_Dwarf)\n• Death to the Dorgeshuun Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Death_to_the_Dorgeshuun)"
 				}
@@ -1990,10 +2314,10 @@ exports.data = {
 					"name": "Requirements:",
 					"value": "• The Curse of Zaros Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Curse_of_Zaros)\n• Defender of Varrock Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Defender_of_Varrock)\n• Demon Slayer Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Demon_Slayer)\n• Glorious Memories Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Glorious_Memories)\n• The Grand Tree Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Grand_Tree)\n• Hazeel Cult Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Hazeel_Cult)\n• In Aid of the Myreque Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/In_Aid_of_the_Myreque)\n• Making History Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Making_History)\n• Meeting History Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Meeting_History)"
 				},
-        {
-          "name": "Requirements continued:",
-          "value": "• Merlin's Crystal Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Merlin%27s_Crystal)\n• Observatory Quest Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Observatory_Quest)\n• Priest in Peril Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Priest_in_Peril)\n• Rune Mysteries Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Rune_Mysteries)\n• Shield of Arrav Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Shield_of_Arrav)\n• A Tail of Two Cats Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/A_Tail_of_Two_Cats)\n• Temple of Ikov Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Temple_of_Ikov)\n• What Lies Below Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/What_Lies_Below)"
-        },
+				{
+					"name": "Requirements continued:",
+					"value": "• Merlin's Crystal Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Merlin%27s_Crystal)\n• Observatory Quest Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Observatory_Quest)\n• Priest in Peril Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Priest_in_Peril)\n• Rune Mysteries Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Rune_Mysteries)\n• Shield of Arrav Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Shield_of_Arrav)\n• A Tail of Two Cats Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/A_Tail_of_Two_Cats)\n• Temple of Ikov Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Temple_of_Ikov)\n• What Lies Below Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/What_Lies_Below)"
+				},
 				{
 					"name": "Guide:",
 					"value": "[Kudos | Runescape Wiki](http://runescape.wikia.com/wiki/Kudos)"
@@ -2078,14 +2402,14 @@ exports.data = {
 					"name": "Requirements:",
 					"value": "• 70 Magic\n• 60 Agility\n • 60 Crafting\n • 60 Farming\n • 50 Construction\n\n• Lunar Diplomacy Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Lunar_Diplomacy)\n• Have the Lunar Spellbook activated"
 				},
-        {
-          "name": "Requirements to complete all the activities with full points and magic XP:",
-          "value": "• 81 Magic"
-        },
-        {
-          "name": "Requirements to complete all the distractions:",
-          "value": "• 93 Magic"
-        },
+				{
+					"name": "Requirements to complete all the activities with full points and magic XP:",
+					"value": "• 81 Magic"
+				},
+				{
+					"name": "Requirements to complete all the distractions:",
+					"value": "• 93 Magic"
+				},
 				{
 					"name": "Guide:",
 					"value": "[Livid Farm Basics Guide | Dexxon - YouTube](https://www.youtube.com/watch?v=b7qql8K2Y2s)"
@@ -2226,10 +2550,10 @@ exports.data = {
 					"name": "Requirements:",
 					"value": "• **80 Agility** for The Light Within Quest\n• **80 Attack** for Heart of Gielinor (Vindicta, Telos)\n• **80 Constitution** for River of Blood Quest\n• **79 Construction** for The Lord of Vampyrium Quest\n• **70 Cooking** for Recipe for Disaster: Freeing King Awowogei Quest (required for completing Ritual of the Mahjarrat Quest)\n• **80 Crafting** for The Light Within Quest\n• **76 Defence** for A Clockwork Syringe Quest\n• **80 Divination** for The Light Within Quest\n• **113 Dungeoneering** for Daemonheim (Kal'Ger the Warmonger)\n• **65 Farming** for While Guthix Sleeps Quest\n• **76 Firemaking** for River of Blood Quest\n• **70 Fishing** for Deadliest Catch Quest\n• **75 Fletching** for River of Blood Quest\n• **80 Herblore** for The Light Within Quest and River of Blood Quest\n• **76 Hunter** for The Lord of Vampyrium Quest\n• **1 Invention** for Invention Guild\n• **81 Magic** for One of a Kind Quest\n• **80 Mining** for Birthright of the Dwarves Quest"
 				},
-        {
-          "name": "Requirements continued:",
-          "value": "• **80 Prayer** for Heart of Gielinor (Gregorovic, Telos) and The Light Within Quest\n• **80 Ranged** for Heart of Gielinor (Twin Furies, Telos)\n• **66 Runecrafting** for Runespan (Upper level)\n• **115 Slayer** for Sophanem Slayer Dungeon (The Magister)\n• **82 Smithing** for Birthright of the Dwarves Quest\n• **85 Strength** for Birthright of the Dwarves Quest\n• **75 Summoning** for Plague's End Quest\n• **75 Thieving** for Flash Powder Factory Quest\n• **80 Woodcutting** for The Light Within Quest\n• **275 Quest points** for Ritual of the Mahjarrat Quest\n• **Quest point cape or 99 cape in any skill** for Max Guild Garden access\n• **Combat level 110** for Kuradal's Dungeon access\n• **350 Tasks** for the music track unlock"
-        },
+				{
+					"name": "Requirements continued:",
+					"value": "• **80 Prayer** for Heart of Gielinor (Gregorovic, Telos) and The Light Within Quest\n• **80 Ranged** for Heart of Gielinor (Twin Furies, Telos)\n• **66 Runecrafting** for Runespan (Upper level)\n• **115 Slayer** for Sophanem Slayer Dungeon (The Magister)\n• **82 Smithing** for Birthright of the Dwarves Quest\n• **85 Strength** for Birthright of the Dwarves Quest\n• **75 Summoning** for Plague's End Quest\n• **75 Thieving** for Flash Powder Factory Quest\n• **80 Woodcutting** for The Light Within Quest\n• **275 Quest points** for Ritual of the Mahjarrat Quest\n• **Quest point cape or 99 cape in any skill** for Max Guild Garden access\n• **Combat level 110** for Kuradal's Dungeon access\n• **350 Tasks** for the music track unlock"
+				},
 				{
 					"name": "Guide:",
 					"value": "[Music | Runescape Wiki](http://runescape.wikia.com/wiki/Music)"
@@ -2621,7 +2945,7 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-        		"fields": [
+						"fields": [
 				{
 					"name": "Guide:",
 					"value": "[Stronghold of Player Safety Map | Runescape Wiki](http://runescape.wikia.com/wiki/Map:Stronghold_of_Player_Safety)"
@@ -2645,7 +2969,7 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-        		"fields": [
+						"fields": [
 				{
 					"name": "Guide:",
 					"value": "[Stronghold of Security Map | Runescape Wiki](http://runescape.wikia.com/wiki/Map:Stronghold_of_Security)"

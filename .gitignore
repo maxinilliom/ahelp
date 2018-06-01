@@ -4,3 +4,4 @@ config.js
 /.je-project-settings
 ahelp.sublime-project
 ahelp.sublime-workspace
+guides/templates.js
