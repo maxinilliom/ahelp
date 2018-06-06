@@ -2051,6 +2051,86 @@ exports.data = {
 			}
 		}
 	},
+	"dusting murial": {
+		"cmds": ["mqc"],
+		"embed": {
+			"title": "Dusting Murial",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Dusting Murial](http://runescape.wikia.com/wiki/Dusting_Murial) is an achievement that requires the player to translate the murals in the adamant dragon dungeon and on Mount Firewake on Kethsi, using a charged dragonfire shield with the Dragonkin Primer in the inventory.\n\nThe Adamant dragon dungeon is home to the adamant variety of metal dragons. The dungeon is a Dragonkin laboratory underneath Brimhaven Dungeon, accessible via a set of stairs previously hidden under a grate in a room between the moss and fire giants and the black demons.\n\nMount Firewake is a great mountain located in the plane of Kethsi, and prior to the Adamant and Rune dragon update it was only mentioned in the Ritual of the Mahjarrat quest. It is accessed by the World Gate and right-clicking it for quick access.\n\nTo charge the dragonfire shield, simply equip the shield and attack any dragon capable of breathing dragonfire. With the use of an antifire potion, no damage will be taken. This can be safely done at a steel dragon (POH) in a player-owned house's Treasure Room or a pit Iron dragon in a player-owned house's Dungeon Pit.\n\nThe Dragonkin Primer is a translator for Dragonkin language found in the library beneath Unferth's house by searching the eastern bookcase next to the locked chest. Unferth is the hypochondriac human pet of Bob the Cat who resides in North West Burthope.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• 80 Firemaking\n\n• Ritual of the Mahjarrat Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Ritual_of_the_Mahjarrat)\n• Fate of the Fods Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Fate_of_the_Gods)\n• One of a Kind Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/One_of_a_Kind)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 25"
+			}
+		}
+	},
+	"eastern adventurer": {
+		"cmds": ["mqc", "trim"],
+		"embed": {
+			"title": "Eastern Adventurer",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Eastern Adventurer](http://runescape.wikia.com/wiki/Eastern_Adventurer) is an achievement that requires the player to complete all storylines in the player-owned port; Quin, Hyu-Ji, Eastern Curiosities, and Guardians of the World.\n\nUseful tips:\n• Send out as many adventurers as possible that you do NOT need on voyages. Do NOT check their voyages, leave them their forever until you get your trio voyage. This works even better if you send out duo adventurers you do NOT need on voyages.\n• Build 1 icon of each of the 3 adventurers that you do need.\n• Build Ostentatious Bar in the Shield region (Luxurious Bar in Pincers region).\n• Do every random event (Barmaid, Seasinger Umi, Marketeer) you get for chance at adventurer reroll. You may get a max of 1 random event per Runescape \"day\".\n• Do Motherlode Maw (Dragonkin) daily for chance at Player-Owned-Ports enhancers.\n• Exchange 10 Crystal motherlode shards daily with Wythien for chance at Player-Owned-Ports enhancers.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• 90 Agility\n• 90 Construction\n• 90 Cooking\n• 90 Divination\n• 90 Dungeoneering\n• 90 Fishing\n• 90 Herblore\n• 90 Hunter\n• 90 Prayer\n• 90 Runecrafting\n• 90 Slayer\n• 90 Thieving"
+				},
+				{
+					"name": "Guide:",
+					"value": "[Kag's PoP Encyclopedia V5 | Runescape Forums](http://services.runescape.com/m=forum/forums.ws?75,76,519,65829739)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 0"
+			}
+		}
+	},
+	"eeeeagle!": {
+		"cmds": ["mqc", "trim"],
+		"embed": {
+			"title": "Eeeeagle!",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Eeeeagle!](http://runescape.wikia.com/wiki/Eeeeagle!) is an achievement that requires the player to unlock all of the eagle transport routes. The Eagles can be found at Eagles' Peak, Rellekka, Feldip, Uzer, and Karamja.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• 45 Strength\n\n• Eagles Peak Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Eagles%27_Peak)\n• Back to my Roots Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Back_to_my_Roots)"
+				},
+				{
+					"name": "Guide:",
+					"value": "[Detailed guide to unlocking all eagle transport routes | Rogie - YouTube](https://www.youtube.com/watch?v=MEHBzt0qTDM)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 15"
+			}
+		}
+	},
 	"elven titles": {
 		"cmds": ["comp"],
 		"embed": {
@@ -2072,6 +2152,102 @@ exports.data = {
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 25"
+			}
+		}
+	},
+	"enough of the crazy walking": {
+		"cmds": ["mqc"],
+		"embed": {
+			"title": "Enough of the Crazy Walking",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Enough of the Crazy Walking](http://runescape.wikia.com/wiki/Enough_of_the_Crazy_Walking) is an achievement that requires the player to buy both part of Mad Ramblings from Commander Connad for a total of 50 Honour Points in any Barbarian Assault role.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "None"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 20"
+			}
+		}
+	},
+	"epi logueque experience": {
+		"cmds": ["mqc"],
+		"embed": {
+			"title": "Epi Logueque Experience",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Epi Logueque Experience](http://runescape.wikia.com/wiki/Epi_Logueque_Experience) is an achievement that requires the player to watch the cutscene after While Guthix Sleeps by talking to Idria directly after the quest or Silif at the White Knights' Castle in Falador afterwards. Silif needs to be in the same room as Surok Magis (the room with the cell). Talking to him in another room will not trigger the cutscene.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• While Guthix Sleeps Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/While_Guthix_Sleeps)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 15"
+			}
+		}
+	},
+	"experience the fate of the gods": {
+		"cmds": ["mqc"],
+		"embed": {
+			"title": "Experience the Fate of the Gods",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Experience the Fate of the Gods](http://runescape.wikia.com/wiki/Experience_the_Fate_of_the_Gods) is an achievement that requires the player to claim the three survivor's lamps from Azzanadra and the large prismatic lamp from Wahisietel after Fate of the Gods.\n\nAzzanadra is located in the temple beneath the Digsite east of Varrock.\n\nWahisietel, also known under his alias Ali the Wise is a knowledgeable Zarosian Mahjarrat who lives in Nardah. He is located in the northernmost building, under the guise of Ali the Wise.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• The Temple at Senntisten Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Temple_at_Senntisten)\n• The World Wakes Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_World_Wakes)\n• Ritual of the Mahjarrat Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Ritual_of_the_Mahjarrat)\n• Fate of the Gods Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Fate_of_the_Gods)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 20"
+			}
+		}
+	},
+	"explore for nestor": {
+		"cmds": ["mqc"],
+		"embed": {
+			"title": "Explore for Nestor",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Explore for Nestor](http://runescape.wikia.com/wiki/Explore_for_Nestor) is an achievement that requires the player to read the Explorer's notes.\n\nThe Explorer's notes are written by Nestor Peregrine, a famous dwarven explorer who used to live in Keldagrim. The book details his journey beyond Trollheim, where he discovered the God Wars Dungeon. It can be found in the Keldagrim Library, on the 1st floor. Once taken from the library, it can be retrieved from the bookcase in a player-owned house, in which the book's title is Beyond Trollheim.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• The Giant Dwarf Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Giant_Dwarf)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 10"
 			}
 		}
 	},
