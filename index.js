@@ -1,5 +1,5 @@
 const Discord = require("discord.js");
-const client = new Discord.Client([fetchAllMembers: true});
+const client = new Discord.Client({fetchAllMembers: true});
 const { promisify } = require("util");
 const readdir = promisify(require("fs").readdir);
 const Enmap = require("enmap");
@@ -15,6 +15,7 @@ client.maxGuides = [];
 client.newUsers = new Discord.Collection();
 client.welcomeTimer = {};
 client.msgColl = {};
+client.five;
 
 const init = async () => {
 
