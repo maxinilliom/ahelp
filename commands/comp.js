@@ -20,7 +20,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 	const keyList = [];
 	const rtnArr = [];
 
-	if (message.channel.id !== '412093604979277844' && level < 2) return;
+	if (message.channel.id !== '407919969712603145' && level < 2) return;
 
 	Object.getOwnPropertyNames(data).forEach(k => {
 		if (data[k].cmds.includes("comp")) keyList.push(k);
@@ -40,9 +40,10 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 			if (o < x) {
 				setTimeout(list, 2500);
 			}
-			if (o == x) return message.channel.send(`**${i}**/\**${keyList.length}** responses listed.`);
+			if (o == x) message.reply(`**${i}**/\**${keyList.length}** responses listed.`);
 		}
 		list();
+		return message.delete();
 	}
 
 	if (args[0].toLowerCase() == "help") {
@@ -88,6 +89,9 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 		const response = await client.awaitReply(message, "Which achievement were you searching for? Please enter the corresponding number.");
 		if (isNaN(response) || response > rtnArr.length || response < 1) return message.channel.send("Invalid number specified, search cancelled.");
 		const choice = data[rtnArr[response-1]].embed;
+		choice.author.name = "Comp Cape Info";
+		choice.color = 16316664;
+		choice.timestamp = new Date();
 		return message.channel.send("", {embed: choice});
 	} else {
 	message.channel.send("If you see this, contact <@97928972305707008>");

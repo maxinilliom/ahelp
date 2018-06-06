@@ -25,13 +25,13 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 	Object.getOwnPropertyNames(data).forEach(k => {
 		if (data[k].cmds.includes("mqc")) keyList.push(k);
 	});
-	if (!args[0]) return message.channel.send(`Please specify an achievement name.`);
+	if (!args[0]) return message.channel.send(`Please specify a valid achievement name.`);
 
 
 	if (args[0].toLowerCase() == "all" && level >= 2) {
                 let i = 0, o = 0, x = keyList.length;
                 function list() {
-                        const guide = data[k].embed;
+                        const guide = data[keyList[o]].embed;
                         guide.author.name = "Master Quest Cape Info";
                         guide.color = 8113151;
                         guide.timestamp = new Date();
@@ -41,9 +41,10 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
                         if (o < x) {
                                 setTimeout(list, 2500);
                         }
-			if (o == x) return message.channel.send(`**${i}**/\**${keyList.length}** responses listed.`);
+			if (o == x) message.reply(`**${i}**/\**${keyList.length}** responses listed.`);
                 }
                 list();
+		return message.delete();
 	}
 
 	if (args[0].toLowerCase() == "help") {

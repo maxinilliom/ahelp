@@ -25,7 +25,9 @@ exports.run = async (client, message, [skill, ...args], level) => { // eslint-di
 	const rtnArr = [];
 
 	if (skill.toLowerCase() == "universal") {
-		return message.channel.send("", {embed: data});
+		message.channel.send("", {embed: data[0]});
+		message.channel.send("", {embed: data[1]});
+		return;
 	}
 
 	Object.getOwnPropertyNames(data).forEach(k => {
@@ -54,6 +56,25 @@ exports.run = async (client, message, [skill, ...args], level) => { // eslint-di
                 helpEmbed.description = output;
 		helpEmbed.color = 12269891;
 		return message.channel.send("", {embed: helpEmbed});
+        }
+
+	if (args[0].toLowerCase() == "all" && level >=2) {
+                let i = 0, o = 0, x = keyList.length;
+                function list() {
+                        const guide = data[keyList[o]];
+                        guide.author.name = "Max Cape Info";
+                        guide.color = 12269891;
+                        guide.timestamp = new Date();
+                        message.channel.send("", {embed: guide});
+                        i++;
+                        o++;
+                        if (o < x) {
+                                setTimeout(list, 2500);
+                        }
+                        if (o == x) message.reply(`**${i}**/\**${keyList.length}** responses listed.`);
+                }
+                list();
+		return message.delete();
         }
 
 	if (Number(args[0])) {
