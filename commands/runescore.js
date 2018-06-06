@@ -40,9 +40,10 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 			if (o < x) {
 				setTimeout(list, 2500);
 			}
-			if (o == x) return message.channel.send(`**${i}**/\**${keyList.length}** responses listed.`);
+			if (o == x) message.reply(`**${i}**/\**${keyList.length}** responses listed.`);
 		}
 		list();
+		return message.delete();
 	}
 
 	if (args[0].toLowerCase() == "help") {
