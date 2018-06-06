@@ -2,11 +2,11 @@
   "name": "",
   "version": "",
   "dependencies": {
-    "discord.js": "^11.3.0",
-    "enmap": "^0.4.2",
-    "enmap-level": "^1.0.0",
-    "moment": "^2.20.1",
-    "moment-duration-format": "^2.1.1",
-    "pm2": "^2.9.2"
+    "discord.js": "^11.3.2",
+    "enmap": "^0.4.6",
+    "enmap-level": "^1.0.1",
+    "moment": "^2.22.1",
+    "moment-duration-format": "^2.2.2",
+    "pm2": "^2.10.3"
   }
 }
