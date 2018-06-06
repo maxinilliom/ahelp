@@ -4,11 +4,11 @@ exports.run = (client, message, args, level) => {
 			? client.settings.get(message.guild.id)
 			: client.config.defaultSettings;
 		const myCommands = message.guild
-			? client.commands.filter(cmd => client.levelCache[cmd.conf.permLevel] <= level && !cmd.conf.guilds.includes(message.guild.id) && settings.enabledCommands.includes(cmd.help.name)&& cmd.conf.enabled)
-			: client.commands.filter(cmd => client.levelCache[cmd.conf.permLevel] <= level && !cmd.conf.guildOnly && cmd.conf.enabled);
+			? client.commands.filter(cmd => client.levelCache[cmd.conf.permLevel] <= level /*&& cmd.conf.guilds.includes(message.guild.id)*/ && settings.enabledCommands.includes(cmd.help.name) && cmd.conf.enabled && cmd.help.category !== "Guides")
+			: client.commands.filter(cmd => client.levelCache[cmd.conf.permLevel] <= level && !cmd.conf.guildOnly && cmd.conf.enabled && cmd.help.category !== "Guides");
 		const posCommands = message.guild
-			? client.commands.filter(cmd => client.levelCache[cmd.conf.permLevel] <= level && !cmd.conf.guilds.includes(message.guild.id) && !settings.enabledCommands.includes(cmd.help.name)&& cmd.conf.enabled)
-			: client.commands.filter(cmd => client.levelCache[cmd.conf.permLevel] <= level && !cmd.conf.guildOnly && cmd.conf.enabled);
+			? client.commands.filter(cmd => client.levelCache[cmd.conf.permLevel] <= level /*&& cmd.conf.guilds.includes(message.guild.id)*/ && !settings.enabledCommands.includes(cmd.help.name) && cmd.conf.enabled && cmd.help.category !== "Guides")
+			: client.commands.filter(cmd => client.levelCache[cmd.conf.permLevel] <= level && !cmd.conf.guildOnly && cmd.conf.enabled && cmd.help.category !== "Guides");
 		const commandNames = myCommands.keyArray();
 		const posNames = posCommands.keyArray();
 		const longest = commandNames.reduce((long, str) => Math.max(long, str.length), 0);
