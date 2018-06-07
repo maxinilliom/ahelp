@@ -1,7 +1,6 @@
 exports.run = (client, message, args, level) => {
 
-const friendly = client.config.permLevels.find(l => l.level === level);
-message.reply(`Your permission level is: ${level}`);
+
 
 };
 
@@ -9,7 +8,7 @@ exports.conf = {
   enabled: true,
   guildOnly: false,
   aliases: [],
-  permLevel: "User",
+  permLevel: "Bot Owner",
   guilds: []
 };
 
