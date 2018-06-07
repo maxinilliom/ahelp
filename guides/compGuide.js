@@ -2309,6 +2309,32 @@ exports.data = {
 			}
 		}
 	},
+	"fires are mostly harmless": {
+		"cmds": ["mqc"],
+		"embed": {
+  "embed": {
+			"title": "Fires Are Mostly Harmless",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Fires Are Mostly Harmless](http://runescape.wikia.com/wiki/Fires_Are_Mostly_Harmless) is an achievement that requires the player to light the campfire on Mos Le'Harmless (near fairy ring dip) using 8 willow logs and finding the herb cache in the south-eastern section of the Gu'Tanoth cave (fairy ring alp) after completion of Fairy Tale III - Battle at Orks Rift.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• 85 Herblore\n• 85 Firemaking\n\n• Fairy Tale III - Battle at Orks Rift Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Fairy_Tale_III_-_Battle_at_Ork's_Rift)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 15"
+			}
+		}
+}
+	},
 	"heal, quickly": {
 		"cmds": ["comp"],
 		"embed": {
