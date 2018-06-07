@@ -17,6 +17,7 @@ client.welcomeTimer = {};
 client.msgColl = {};
 client.fiveLast;
 client.five = 0;
+client.fiveCD = 66;
 
 const init = async () => {
 
