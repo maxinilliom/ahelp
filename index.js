@@ -15,7 +15,8 @@ client.maxGuides = [];
 client.newUsers = new Discord.Collection();
 client.welcomeTimer = {};
 client.msgColl = {};
-client.five;
+client.fiveLast;
+client.five = 0;
 
 const init = async () => {
 
