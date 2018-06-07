@@ -1,9 +1,10 @@
 exports.run = (client, message, args, level) => {
 	if (args[0] == "five") return message.channel.send(`Successful attempts so far: **${client.five}**`);
 	const x = max => Math.floor(Math.random() * Math.floor(max));
-	if (client.fiveLast !== message.author.id && x(1000) > 995) {
+	if (client.fiveLast !== message.author.id) {
 		client.fiveLast = message.author.id;
 		client.five++;
+		if (x(1000) <= 995) return;
 		if (!args[0]) {
 			message.reply('Your letter was received but we\'re sad to see that there was no message.');
 		} else if (args.join(" ").length <= 32) {
