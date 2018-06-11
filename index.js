@@ -17,7 +17,10 @@ client.welcomeTimer = {};
 client.msgColl = {};
 client.fiveLast;
 client.five = 0;
-client.fiveCD = 66;
+client.fiveCD = 17;
+client.scav = new Discord.Collection();
+client.scavrsns = [];
+client.scavteams = new Discord.Collection();
 
 const init = async () => {
 
