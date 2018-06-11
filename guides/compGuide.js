@@ -2312,7 +2312,6 @@ exports.data = {
 	"fires are mostly harmless": {
 		"cmds": ["mqc"],
 		"embed": {
-  "embed": {
 			"title": "Fires Are Mostly Harmless",
 			"author": {
 				"name": "Cape Info",
@@ -2333,7 +2332,226 @@ exports.data = {
 				"text": "Runescore awarded: 15"
 			}
 		}
-}
+	},
+	"for the love of mabel": {
+		"cmds": ["mqc"],
+		"embed": {
+			"title": "For the Love of Mabel",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[For the Love of Mabel](http://runescape.wikia.com/wiki/For_the_Love_of_Mabel) is an achievement that requires the player to return Mabel's ring to Mabel for Mabel's lamp, and chop down the Guard in tree for a 5,000 coin reward, after completion of Love Story.\n\nIf the ring is lost, Zenevivia will replace it. Zenevivia is located in the Wise Old Man's house.\n\nThe guard in tree (full name Darius 'Suave' Aniseed) is located in the tree with a Talk to tree option just west of the Draynor Village bank.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• Love Story Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Love_Story)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 15"
+			}
+		}
+	},
+	"forcae's mettle": {
+		"cmds": ["mqc"],
+		"embed": {
+			"title": "Forcae's Mettle",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Forcae's Mettle](http://runescape.wikia.com/wiki/Forcae%27s_Mettle) is an achievement that requires the player to complete Forcae's journal by collecting ten pages that are dropped by Adamant and Rune dragons.\n\nThis should be completed in the Dragonkin Lair to help aid you towards the progression of the MQC requirement, \"Dragonkin Logs\".\n\nThe Dragonkin Lair is a lair found in the Ancient Cavern south of Kuradal. It is initially accessed with the dragon-mithril key.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "None"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 15"
+			}
+		}
+	},
+	"fred's shearings": {
+		"cmds": ["mqc"],
+		"embed": {
+			"title": "Fred's Shearings",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Fred's Shearings](http://runescape.wikia.com/wiki/Fred%27s_Shearings) is an achievement that requires the player to complete the Sheep Shearer miniquest, or talk to Fred the Farmer if the player has completed the quest before the reward was increased from 60 to 2,000 coins.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "None"
+				},
+				{
+					"name": "Guide:",
+					"value": "[Sheep Shearer Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Sheep_Shearer)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 5"
+			}
+		}
+	},
+	"gift from sliske": {
+		"cmds": ["mqc"],
+		"embed": {
+			"title": "Gift from Sliske",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Gift from Sliske](http://runescape.wikia.com/wiki/Gift_from_Sliske) is an achievement that requires the player to find Sliske at the Empyrean Citadel to get the permanent effect of the ring of visibility, and bring the Sixth-Age circuit to the Guthixian High Druid, who leads the mourning at the shrine in Guthix's Cave, to add the teleport to the World Gate to the ring after completion of Fate of the Gods.\n\nGuthix's Cave is a large cave located a short distance west of the Legends' Guild and east of the Ardougne Lodestone.\n\nRegardless of whether you finished Sliske's Endgame or not, Sliske can be found by entering the throne room in the Empyrean Citadel, walking to the middle of it and then walking away. Sliske will then appear on the stage and after a short dialogue, you will get the ability to always see into the Shadow Realm.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• The General's Shadow Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_General%27s_Shadow)\n• The World Wakes Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_World_Wakes)\n• Ritual of the Mahjarrat Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Ritual_of_the_Mahjarrat)\n• Fate of the Gods Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Fate_of_the_Gods)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 15"
+			}
+		}
+	},
+	"goebie relics": {
+		"cmds": ["mqc"],
+		"embed": {
+			"title": "Goebie Relics",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Goebie Relics](http://runescape.wikia.com/wiki/Goebie_Relics) is an achievement that requires the player to find all five stone fragments scattered around Mazcab and handing them in at the ancient statue.\n\n• The first stone fragment is found on the north wall of the graveyard on Mazcab\n• The second stone fragment is found southeast of the Ancient statue on Mazcab\n• The third stone fragment is found at the entrance of the Nemi Forest at the west of the Goebie graveyard near the Ranger\n• The fourth stone fragment is found in north-west Otot, north-west of Quercy\n• The fifth stone fragment is found north-east of the Kanatah camp",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "None"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 5"
+			}
+		}
+	},
+	"got a vyre reputation": {
+		"cmds": ["mqc"],
+		"embed": {
+			"title": "Got a Vyre Reputation",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Got a Vyre Reputation](http://runescape.wikia.com/wiki/Got_a_Vyre_Reputation) is an achievement that requires the player to complete all tasks in Darkmeyer to achieve maximum reputation and unlock the Vyrelord/Vyrelady title during or after The Branches of Darkmeyer.\n\nTo earn repuation after fully completing the quest, go into the caged area west of Vanstrom's mansion with the Darkmeyer Disguise equipped and kill the captives.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• The Branches of Darkmeyer Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Branches_of_Darkmeyer)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 10"
+			}
+		}
+	},
+	"grondabans' legacy": {
+		"cmds": ["mqc"],
+		"embed": {
+			"title": "Grondabans' legacy",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Grondabans' legacy](http://runescape.wikia.com/wiki/Grondabans'_legacy) is an achievement that requires the player to pick up the Grondaban's stalker notes lore book near the portal in the north of the stalker dungeon.\n\nThe dungeon is only accessible by entering the western door of Zamorak's hideout, which in turn is only accessible using the communication device obtained during Dishonour among Thieves. The device can be reclaimed from Moldark in Edgeville if lost.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• Dishonour among Thieves Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Dishonour_among_Thieves)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 5"
+			}
+		}
+	},
+	"gunning for jewellery": {
+		"cmds": ["mqc"],
+		"embed": {
+			"title": "Gunning for Jewellery",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Gunning for Jewellery](http://runescape.wikia.com/wiki/Gunning_for_Jewellery) is an achievement that requires the player to pick up the Grondaban's stalker notes lore book near the portal in the north of the stalker dungeon.\n\nThe dungeon is only accessible by entering the western door of Zamorak's hideout, which in turn is only accessible using the communication device obtained during Dishonour among Thieves. The device can be reclaimed from Moldark in Edgeville if lost.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• 90 Crafting\n\n• Gunnar's Ground Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Gunnar%27s_Ground)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 10"
+			}
+		}
+	},
+	"haul comes to templeton": {
+		"cmds": ["mqc"],
+		"embed": {
+			"title": "Haul Comes to Templeton",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Haul Comes to Templeton](http://runescape.wikia.com/wiki/Haul_Comes_to_Templeton) is an achievement that requires the player to complete a job for Simon Templeton to unlock the ability to trade noted artefacts.\n\nSimon Templeton is an unscrupulous archaeologist and treasure hunter infamous for his tomb raiding. He is located near the stairs up to the Agility Pyramid, situated between Nardah and Sophanem. A quick way to reach him is to teleport to Jaleustrophos using the Pharaoh's sceptre.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• Dealing with Scabaras Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Dealing_with_Scabaras)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 10"
+			}
+		}
 	},
 	"heal, quickly": {
 		"cmds": ["comp"],
@@ -2356,6 +2574,78 @@ exports.data = {
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 15"
+			}
+		}
+	},
+	"herbi's flax": {
+		"cmds": ["mqc"],
+		"embed": {
+			"title": "Herbi's Flax",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Herbi's Flax](http://runescape.wikia.com/wiki/Herbi%27s_Flax) is an achievement that requires the player to give Herbi Flax's diary to the Varrock apothecary. Ingald Belger the apothecary is a man who runs an Apothecary in southwest Varrock.\n\nThe Diary of Herbi Flax is found on the shelves in a ruined house towards the south-west side of Mort'ton during the Shades of Mort'ton quest. It can also be found in the bookcase in your house or on the same shelf of the same Mort'ton house during the Temple Trekking shades event.\n\nIt should be noted, however, that taking part in the Temple Trekking event is not needed to obtain this book. If the player runs north of Burgh de Rott after hopping over the gate it can be found on the shelf in the first ruined house with vials on the floor.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• Shades of Mort'ton Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Shades_of_Mort%27ton)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 10"
+			}
+		}
+	},
+	"here was a scabaras mask": {
+		"cmds": ["mqc"],
+		"embed": {
+			"title": "Here Was a Scabaras Mask",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Here Was a Scabaras Mask](http://runescape.wikia.com/wiki/Here_Was_a_Scabaras_Mask) is an achievement that requires the player to mine a crack in the room under the quicksand encountered during Diamond in the Rough to gain access to a treasure room containing the Scabaras mask and the Was.\n\nTo reach the fissure room, go down the well (north-west of the Kalphite Lair, fairy ring BIQ) and go in the tunnel in the east wall of the Kalphite nursery. Then go through the tunnel all the way to the other side and enter.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• 80 Mining\n\n• Diamond in the Rough Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Diamond_in_the_Rough)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 5"
+			}
+		}
+	},
+	"history of bilrach": {
+		"cmds": ["mqc"],
+		"embed": {
+			"title": "History of Bilrach",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[History of Bilrach](http://runescape.wikia.com/wiki/History_of_Bilrach) is a meta-achievement that requires the player to collect all thirty Chronicles of Bilrach (also known as mysterious chronicles) in Daemonheim. Every mysterious chronicle has a 1/4 chance of spawning at the end of a Dungeoneering floor.\n\n**Chronicle locations**:\n• Mysterious chronicle (part 1): floor 1-2\n• Mysterious chronicle (part 2): floor 3-4\n• Mysterious chronicle (part 3): floor 5-6\n• Mysterious chronicle (part 4): floor 7-8\n• Mysterious chronicle (part 5): floor 9-10\n• Mysterious chronicle (part 6): floor 11-12\n• Mysterious chronicle (part 7): floor 13-14\n• Mysterious chronicle (part 8): floor 15-16\n• Mysterious chronicle (part 9): floor 17-18\n• Mysterious chronicle (part 10): floor 19-20\n• Mysterious chronicle (part 11): floor 21-22\n• Mysterious chronicle (part 12): floor 23-24\n• Mysterious chronicle (part 13): floor 25-26\n• Mysterious chronicle (part 14): floor 27-28\n• Mysterious chronicle (part 15): floor 29-30\n• Mysterious chronicle (part 16): floor 31-32\n• Mysterious chronicle (part 17): floor 33-34\n• Mysterious chronicle (part 18): floor 35-36\n• Mysterious chronicle (part 19): floor 37-38\n• Mysterious chronicle (part 20): floor 39-40\n• Mysterious chronicle (part 21): floor 41-42\n• Mysterious chronicle (part 22): floor 43-44\n• Mysterious chronicle (part 23): floor 45-46\n• Mysterious chronicle (part 24): floor 47-48\n• Mysterious chronicle (part 25): floor 49-50\n• Mysterious chronicle (part 26): floor 51-52\n• Mysterious chronicle (part 27): floor 53-54\n• Mysterious chronicle (part 28): floor 55-56\n• Mysterious chronicle (part 29): floor 57-58\n• Mysterious chronicle (part 30): floor 59-60)",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• 119 Dungeoneering"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 40"
 			}
 		}
 	},
