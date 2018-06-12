@@ -1,5 +1,5 @@
 exports.run = async (client, message, args, level) => { // eslint-disable-line no-unused-vars
-	message.channel.send(`Five score currently: ${client.five}`);
+	client.users.get(client.config.ownerID).send(`Five score currently: ${client.five}`);
 	await message.channel.send("Shutting down.");
 	client.commands.forEach(async cmd => {
 		await client.unloadCommand(cmd);
