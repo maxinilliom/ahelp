@@ -2649,6 +2649,34 @@ exports.data = {
 			}
 		}
 	},
+	"i can see for miles and miles": {
+		"cmds": ["mqc"],
+		"embed": {
+			"title": "I Can See For Miles and Miles",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[I Can See For Miles and Miles](http://runescape.wikia.com/wiki/I_Can_See_For_Miles_and_Miles) is an achievement that requires the player to unlock all beacon keepers and fully unlock the beacon map by providing the keepers with macaw pouches.\n\nIn total, there are 14 beacons in the beacon network, with each beacon requiring 20 un-noted logs of your choice to light.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• 92 Firemaking\n• 42 Construction\n• 56 Smithing\n• 70 Smithing **or** 59 Construction\n• 60 Crafting\n• 64 Agility\n• 31 Prayer\n• 60 Strength\n\n• All Fired Up Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/All_Fired_Up)\n• Land of the Goblins Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Land_of_the_Goblins)\n• Troll Stronghold Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Troll_Stronghold)\n\n• Climbing Boots or Rock Climbing Boots (if not using Trollheim teleport)"
+				},
+				{
+					"name": "Guide:",
+					"value": "• [All Fired Up easy method guide | munclesonkey - YouTube](https://www.youtube.com/watch?v=s0ua5SFd4PE)\n• [All Fired Up minigame guide | Runescape Wiki](http://runescape.wikia.com/wiki/All_Fired_Up_(minigame%29/Walkthrough)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 30"
+			}
+		}
+	},
 	"i'm forever washing shadows": {
 		"cmds": ["comp", "mqc"],
 		"embed": {
