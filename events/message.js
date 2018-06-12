@@ -6,7 +6,7 @@ const Discord = require("discord.js");
 module.exports = (client, message) => {
 
 	if (message.author.bot) return;
-	if (!message.guild) client.users.get(client.config.ownerID).send(`**${message.author.tag}**: ${message.content}`);
+	if (!message.guild && message.author.id !== client.config.ownerID) client.users.get(client.config.ownerID).send(`**${message.author.tag}**: ${message.content}`);
 
 	const settings = message.guild
 		? client.settings.get(message.guild.id)
