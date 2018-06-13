@@ -24,7 +24,7 @@ exports.run = async (client, message, [skill, ...args], level) => { // eslint-di
 	const strKeyList = [];
 	const rtnArr = [];
 
-	if (skill.toLowerCase() == "universal") {
+	if (skill.toLowerCase() == "universal" && !args[0]) {
 		message.channel.send("", {embed: data[0]});
 		message.channel.send("", {embed: data[1]});
 		return;
@@ -74,7 +74,8 @@ exports.run = async (client, message, [skill, ...args], level) => { // eslint-di
                         if (o == x) message.reply(`**${i}**/\**${keyList.length}** responses listed.`);
                 }
                 list();
-		return message.delete();
+		message.delete();
+		return;
         }
 
 	if (Number(args[0])) {
