@@ -1685,6 +1685,30 @@ exports.data = {
 			}
 		}
 	},
+	"data recovery": {
+		"cmds": ["comp"],
+		"embed": {
+      "title": "Data Recovery",
+      "author": {
+        "name": "Cape Info",
+        "icon_url": "https://i.imgur.com/6c6q2iC.png"
+      },
+      "description": "[Data Recovery](https://runescape.wikia.com/wiki/Data_Recovery) is an achievement that requires the player to help [the Archivist](https://runescape.wikia.com/wiki/The_Archivist) recover all core memory data in the [Hall of Memories](http://runescape.wikia.com/wiki/Hall_of_Memories).\n\nHall of Memories is a Divination training dungeon located below the [Memorial to Guthix](http://runescape.wikia.com/wiki/Memorial_to_Guthix), revolving around the late god Guthix and his memories. Level 70 Divination is required to enter.\n\nPlayers can easily access the dungeon by teleporting to the Memorial to Guthix with [Memory strands](http://runescape.wikia.com/wiki/Memory_strand), [Sixth-Age circuit](http://runescape.wikia.com/wiki/Sixth-Age_circuit) or with charged [engrams](http://runescape.wikia.com/wiki/Engram). The dungeon is located inside the pool in the middle of the Memorial to Guthix building.\n\nUpon first entry, The Archivist will hand the player two [memory jars](https://runescape.wikia.com/wiki/Memory_jar) (one empty, one full) and a [memory-storage bot](https://runescape.wikia.com/wiki/Memory-storage_bot_%28Aagi%29), and will give a short dialogue explaining what to do inside the dungeon.\n\nThe player will have to gather a specific type of memory for each memory-storage bot. The player can inspect the memory-storage bot to check which type of memories is needed.\n\nGathering from other types will not progress towards the memory-storage bot and will only fill up the memory jars.\n\nThe gathering speed of the memories can be increased by clicking exactly when the exp drops appears, for players that don't receive exp drops they can turn on their game sounds and keep track of when they should click again that way.",
+      "thumbnail": {
+        "url": "https://i.imgur.com/Shmagnp.png"
+      },
+      "fields": [
+        {
+          "name": "Requirements:",
+          "value": "• 95 Divination"
+        }
+      ],
+      "footer": {
+        "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+        "text": "Runescore awarded: 20"
+      }
+    }
+	},
 	"deadlier catch": {
 		"cmds": ["comp", "mqc"],
 		"embed": {
@@ -2677,6 +2701,54 @@ exports.data = {
 			}
 		}
 	},
+	"i dig this transportation": {
+		"cmds": ["mqc"],
+		"embed": {
+			"title": "I Dig This Transportation",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[I Dig This Transportation](http://runescape.wikia.com/wiki/I_Dig_This_Transportation) is an achievement that requires the player to unlock the digsite pendant by cleaning uncleaned finds in the Varrock Museum until they find a clean necklace, and then talk to one of the archeologists.\n\nAn uncleaned find is a rock obtained from the Dig Site specimen rocks as part of the Varrock Museum activity. Players need to use it on a specimen table to reveal the archaeological artefact inside.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• The Dig Site Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Dig_Site)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 10"
+			}
+		}
+	},
+	"i presume these rewards are mine, death?": {
+		"cmds": ["mqc"],
+		"embed": {
+			"title": "I Presume These Rewards Are Mine, Death?",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[I Presume These Rewards Are Mine, Death?](http://runescape.wikia.com/wiki/I_Presume_These_Rewards_Are_Mine,_Death?) is an achievement that requires the player to claim all post-quest rewards from the Missing, Presumed Death quest by speaking to the Statue of Death, which can be found again at the Empyrean Citadel.\n\nThe only way to get to the citadel is to use the Invitation box which is obtained during Missing, Presumed Death. If you lose your Invitation box you can reclaim it from Brother Samwell or from the box in place of him after Kindred Spirits.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• 80 Combat\n• 75 Thieving\n• 75 Constitution\n\n• Missing, Presumed Death Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Missing,_Presumed_Death)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 20"
+			}
+		}
+	},
 	"i'm forever washing shadows": {
 		"cmds": ["comp", "mqc"],
 		"embed": {
@@ -2693,6 +2765,58 @@ exports.data = {
 				{
 					"name": "Requirements:",
 					"value": "• 91 Divination\n\n• Plague's End Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Plague%27s_End)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 10"
+			}
+		}
+	},
+	"ice ice chimpy": {
+		"cmds": ["mqc", "trim"],
+		"embed": {
+			"title": "Ice Ice Chimpy",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Ice Ice Chimpy](http://runescape.wikia.com/wiki/Ice_Ice_Chimpy) is an achievement that requires the player to complete an additional 25 chimp ice deliveries, buying them from the chimp ice chimp in the monkey colony in the Kharidian Desert and delivering them to Awowogei on Ape Atoll.\n\nEnsure you use your Chimp ice enhancer on every 5th run when the melting speed is increased.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• Do No Evil Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Do_No_Evil)"
+				},
+				{
+					"name": "Guide:",
+					"value": "[Ice Ice Chimpy delivery quick guide | Landon PvM - YouTube](https://www.youtube.com/watch?v=aVCMu26Jccg)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 25"
+			}
+		}
+	},
+	"icthlarin's little chest": {
+		"cmds": ["mqc"],
+		"embed": {
+			"title": "Icthlarin's Little Chest",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Icthlarin's Little Chest](http://runescape.wikia.com/wiki/Icthlarin%27s_Little_Chest) is an achievement that requires the player to loot the chest in Klenter's Pyramid for 50 coins during or after Icthlarin's Little Helper. \n\nKlenter's Pyramid is one of the two pyramids in Sophanem, the other being Jalsavrah, and the final resting place of Klenter. The pyramid is guarded over by a sphinx and can only be accessed with a cat. In order to progress in the pyramid, traps must be avoided. First, there are a few sets of wall crushers. Walking diagonally will avoid these. Then, the rocky path should be followed (with ground decoration on) to avoid pitfall traps.\n\nPast the first two mummies is an automatic spawn for a scarab swarm. There are more mummies, then a pit that can be crossed, leading to Klenter's sarcophagus and organs. Another wall crusher and pitfall-infested path leads to a closed chest to the east.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• Icthlarin's Little Helper Quest partial completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Icthlarin%27s_Little_Helper)"
 				}
 			],
 			"footer": {
@@ -2729,6 +2853,34 @@ exports.data = {
 			}
 		}
 	},
+	"impressing char": {
+		"cmds": ["mqc", "trim"],
+		"embed": {
+			"title": "Impressing Char",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Impressing Char](http://runescape.wikia.com/wiki/Impressing_Char) is an achievement that requires the player to make a Zaros symbol during an instance of Char's training cave.\n\nThe training cave is located just north of the quest start, south of Eagles' Peak, west of the Tree Gnome Stronghold and north of West Ardougne.\n\nThe fastest way to get there is by using the teleport function on the Book of Char, teleporting you right in front of the cave's entrance.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• 91 Firemaking\n\n• The Firemaker's Curse Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Firemaker%27s_Curse)"
+				},
+				{
+					"name": "Guide:",
+					"value": "[Char's Treasure (Zaros) symbol guide | Rogie - YouTube](https://www.youtube.com/watch?v=89wtdVYfWxA)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 10"
+			}
+		}
+	},
 	"invention gives me the blues": {
 		"cmds": ["comp"],
 		"embed": {
@@ -2758,6 +2910,110 @@ exports.data = {
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 30"
+			}
+		}
+	},
+	"ivan is flailing": {
+		"cmds": ["mqc", "trim"],
+		"embed": {
+			"title": "Ivan is Flailing",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Ivan is Flailing](http://runescape.wikia.com/wiki/Ivan_is_Flailing) is an achievement that requires the player to fully upgrade the Ivandis flail by burning 500 vyre corpses in the Columbarium. Kills completed by using Sunspear or any of its reformed versions DO NOT count towards the total.\n\nThis also upgrades blisterwood weapons.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• 40 Firemaking\n\n• Legacy of Seergaze Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Legacy_of_Seergaze)"
+				},
+				{
+					"name": "Guide:",
+					"value": "[Ivandis Flail upgrading guide | Rogie - YouTube](https://www.youtube.com/watch?v=hlHZAmgh0eE)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 10"
+			}
+		}
+	},
+	"kaiki's tusks": {
+		"cmds": ["mqc"],
+		"embed": {
+			"title": "Kaiki's Tusks",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Kaiki's Tusks](http://runescape.wikia.com/wiki/Kaiki%27s_Tusks) is an achievement that requires the player to obtain Kaigi's journal as well as four Kaigi's journal pages as drops from Airut.\n\nKaigi's journal is a book dropped by the Airut, written by a Naragi known as Kaigi. It can be filled with Kaigi's journal pages, resulting in a completed version, this version gives an account of how Tuska arrived to the Naragi homeworld a few years after Saradomin's destruction of Askroth.\n\nOnce completed, Kaigi's journal can be stored inside the bookcase of a player's Player-Owned House.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• 92 Slayer"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 10"
+			}
+		}
+	},
+	"kal'gerion notes": {
+		"cmds": ["mqc"],
+		"embed": {
+			"title": "Kal'gerion Notes",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Kal'gerion Notes](http://runescape.wikia.com/wiki/Kal%27gerion_Notes_(achievement%29) is a meta-achievement that requires the player to collect all five parts of the [Kal'gerion notes](http://runescape.wikia.com/wiki/Kal%27gerion_notes) within Daemonheim.\n\nPart 1 is dropped by To'Kash the Bloodchiller, found on floors 9-11\n Part 2 is dropped by Har'Lakk the Riftsplitter, found on floors 18-29\n Part 3 is dropped by Bal'lak the Pummeller, found on floors 33-35\n Part 4 is dropped by Yk'Lagor the Thunderous, found on floors 45-47\n Part 5 is dropped by Kal'Ger the Warmonger, found on floors 57-60",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• 113 Dungeoneering"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 35"
+			}
+		}
+	},
+	"keeping up with the carnilleans": {
+		"cmds": ["mqc"],
+		"embed": {
+			"title": "Keeping Up with the Carnilleans",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Keeping Up with the Carnilleans](http://runescape.wikia.com/wiki/Kal%27gerion_Notes_(achievement%29) is an achievement that requires the player to find Philipe Carnillean around Gielinor and claim the experience lamps. Philipe will travel the world on his [own adventures](http://runescape.wikia.com/wiki/Philipe_Carnillean#Adventures_of_his_own), and if you speak to him will he give you his experience lamps.\n\nYou can speak to Ceril Carnillean to find out more about Philipe's current location.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• 113 Dungeoneering"
+				},
+				{
+					"name": "Guide:",
+					"value": "[Phillipe Carnillean's Adventures of his own Guide | Runescape Wiki](http://runescape.wikia.com/wiki/Philipe_Carnillean#Adventures_of_his_own)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 35"
 			}
 		}
 	},
@@ -2817,6 +3073,34 @@ exports.data = {
 			}
 		}
 	},
+	"koschei's cache": {
+		"cmds": ["mqc"],
+		"embed": {
+			"title": "Koschei's Cache",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Koschei's Cache](http://runescape.wikia.com/wiki/Koschei%27s_Cache) is a meta-achievement that requires the player to complete Koschei's Troubles and change the jewel's colour to blue, green and red.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• 90 Strength\n• 90 Prayer\n\n• Blood Runs Deep Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Blood_Runs_Deep)\n• Ritual of the Mahjarrat Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Ritual_of_the_Mahjarrat)"
+				},
+				{
+					"name": "Guide:",
+					"value": "[Koschei's Troubles Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Koschei%27s_Troubles)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 15"
+			}
+		}
+	},
 	"kudos to you": {
 		"cmds": ["comp", "mqc"],
 		"embed": {
@@ -2846,6 +3130,154 @@ exports.data = {
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 25"
+			}
+		}
+	},
+	"last of the summer swine": {
+		"cmds": ["mqc"],
+		"embed": {
+			"title": "Last of the Summer Swine",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Last of the Summer Swine](http://runescape.wikia.com/wiki/Last_of_the_Summer_Swine) is an achievement that requires the player to fully upgrade the pig creation machine after the Bringing Home the Bacon quest.\n\nUpgrading to tier 2 requires 44 Construction, 44 Crafting and 44 Summoning and 3 oak planks, 2 steel bars and at least 3 nails. This gives 100 Construction and Crafting experience.\n\nUpgrading to tier 3 requires 84 Construction, 84 Crafting and 84 Summoning and 3 teak planks, 2 mithril bars, and at least 3 nails. This gives 1,000 Construction and Crafting experience",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• 84 Construction\n• 84 Crafting\n• 84 Summoning\n\n• Bringing Home the Bacon Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Bringing_Home_the_Bacon)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 10"
+			}
+		}
+	},
+	"learning from mr. mordaut": {
+		"cmds": ["mqc"],
+		"embed": {
+			"title": "Learning from Mr. Mordaut",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Learning from Mr. Mordaut](http://runescape.wikia.com/wiki/Learning_from_Mr._Mordaut) is an achievement that requires the player to claim and use the Divination lamp from [Mr. Mordaut](http://runescape.wikia.com/wiki/Mr._Mordaut) after the One of a Kind quest. Mr. Mordaut is a very old, friendly and wise draconic professor, currently employed as the Professor of Unnatural History at the Varrock Museum. His office is located behind the door at the back of the stairs to the basement.\n\nPlayers who completed the quest before this update can obtain it by talking to Mr. Mordaut in Varrock Museum, as he will gladly \"return\" it to you. Contrary to the destroy message, it CANNOT be reclaimed.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• One of a Kind Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/One_of_a_Kind)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 10"
+			}
+		}
+	},
+	"let us give ugthanks": {
+		"cmds": ["mqc"],
+		"embed": {
+			"title": "Let us Give Ugthanks",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Let us Give Ugthanks](http://runescape.wikia.com/wiki/Let_us_Give_Ugthanks) is an achievement that requires the player to read the [Ugthanatos journal](http://runescape.wikia.com/wiki/Ugthanatos_journal).\n\nThe Ugthanatos is a book obtained by killing Camel Warriors, also known as Ugthanatos. Players do not have to be on a slayer assigment to obtain one.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• 96 Slayer"
+				},
+				{
+					"name": "Guide:",
+					"value": "[Camel Warriors Strategy guide | The Junesong - YouTube](https://www.youtube.com/watch?v=UhyGIrHymvY)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 25"
+			}
+		}
+	},
+	"library of nex": {
+		"cmds": ["mqc"],
+		"embed": {
+			"title": "Library of Nex",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Library of Nex](http://runescape.wikia.com/wiki/Library_of_Nex) is a meta-achievement that requires the player to obtain [The Promised Gift](http://runescape.wikia.com/wiki/The_Promised_Gift) and [The Praesul](http://runescape.wikia.com/wiki/The_Praesul) by completing one Nex: Angel of Death encounter.\n\nFeel free to mention the **Reaper Crew** role or view our AoD specific <#441624301616234496> for help with this feat.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• 70 Constitution\n• 70 Ranged\n• 70 Agility\n• 70 Strength"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 25"
+			}
+		}
+	},
+	"load of bakulla": {
+		"cmds": ["mqc"],
+		"embed": {
+			"title": "Load of Bakulla",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Load of Bakulla](http://runescape.wikia.com/wiki/Load_of_Bakulla) is an achievement that requires the player to hear The Epic of Bukalla in the [Rellekka Longhall Bar](http://runescape.wikia.com/wiki/Rellekka_Longhall_Bar) after The Fremennik Trials.\n\nPlayers may listen to it by speaking to one of Ospak, Fridgeir, or Styrmir in Rellekka longhall after The Fremennik Trials.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• The Fremennik Trials Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Fremennik_Trials)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 5"
+			}
+		}
+	},
+	"looting the demon throne": {
+		"cmds": ["mqc"],
+		"embed": {
+			"title": "Looting the Demon Throne",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Looting the Demon Throne](http://runescape.wikia.com/wiki/Looting_the_Demon_Throne) is an achievement that requires the player to claim the gems from the throne in [Thammaron's Throne Room](http://runescape.wikia.com/wiki/Thammaron%27s_Throne_Room) after defeating him during or after The Golem.\n\nAt Uzer, go down the stairs to the temple ruins. Go through the double doors to enter Thammaron's throne room.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• The Golem Quest partial completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Golem)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 10"
 			}
 		}
 	},
@@ -2904,6 +3336,10 @@ exports.data = {
 				"text": "Runescore awarded: 10"
 			}
 		}
+	},
+	"lovingly crafted": {
+		"cmds": ["mqc"],
+		"embed": 
 	},
 	"lunar master": {
 		"cmds": ["comp"],
