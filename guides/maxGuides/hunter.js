@@ -108,10 +108,10 @@ exports.data = {
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     }
   },
-  "77 - 96": {
+  "77 - 96 pt1": {
     "title": "Hunter Training Levels 77-96",
     "url": "http://runescape.wikia.com/wiki/Hunter_training#Levels_77-96:_grenwalls_using_Crystallise",
-    "description": "Players who have at least level 77 Hunter can hunt [Grenwalls](http://runescape.wikia.com/wiki/Grenwall) using box traps, after completing the [Regicide](http://runescape.wikia.com/wiki/Regicide) quest to gain access to [Isafdar](http://runescape.wikia.com/wiki/Isafdar). For maximum efficiency this method requires access to [Crystallise](http://runescape.wikia.com/wiki/Crystallise) and [Light Form](http://runescape.wikia.com/wiki/Light_Form) as well as completion of the medium set of [Tirannwn tasks](http://runescape.wikia.com/wiki/Tirannwn_achievements), which allows players to trap grenwalls without bait. It is useful to bring a [bonecrusher](http://runescape.wikia.com/wiki/Bonecrusher) and [herbicide](http://runescape.wikia.com/wiki/Herbicide) to convert some of the items received from hunting grenwalls into Prayer and Herblore experience. The use of [demon horn](http://runescape.wikia.com/wiki/Demon_horn_necklace), [twisted bird skull](http://runescape.wikia.com/wiki/Twisted_bird_skull_necklace), or [split dragontooth necklace](http://runescape.wikia.com/wiki/Split_dragontooth_necklace) in addition to a bonecrusher can restore the player's prayer points, removing the need to bring prayer potions for the use of Light Form although Prayer Renewals may still be needed especially at lower levels. Grenwalls can be found in two locations: in the [Gorajo resource dungeon](http://runescape.wikia.com/wiki/Gorajo_resource_dungeon) in [Meilyr Clan](http://runescape.wikia.com/wiki/Meilyr_Clan), requiring level 95 Dungeoneering, and just south of the [Elf Camp](http://runescape.wikia.com/wiki/Elf_Camp). Normally, laying a box trap takes 6 game ticks (3.6 seconds). If, however, you drink a potion and set the trap in the same tick, the trap will be set in just one tick. This method while less afk will grant much higher experience rates of more than 800,000 Hunter experience an hour at level 99.",
+    "description": "Players who have at least level 77 Hunter can hunt [Grenwalls](http://runescape.wikia.com/wiki/Grenwall) using box traps, after completing the [Regicide](http://runescape.wikia.com/wiki/Regicide) quest to gain access to [Isafdar](http://runescape.wikia.com/wiki/Isafdar). For maximum efficiency this method requires access to [Crystallise](http://runescape.wikia.com/wiki/Crystallise) and [Light Form](http://runescape.wikia.com/wiki/Light_Form) as well as completion of the medium set of [Tirannwn tasks](http://runescape.wikia.com/wiki/Tirannwn_achievements), which allows players to trap grenwalls without bait. It is useful to bring a [Bonecrusher](http://runescape.wikia.com/wiki/Bonecrusher) and [Herbicide](http://runescape.wikia.com/wiki/Herbicide) to convert some of the items received from hunting grenwalls into Prayer and Herblore experience. The use of [Demon Horn](http://runescape.wikia.com/wiki/Demon_horn_necklace), [Twisted Bird Skull](http://runescape.wikia.com/wiki/Twisted_bird_skull_necklace), or [Split Dragontooth Necklace](http://runescape.wikia.com/wiki/Split_dragontooth_necklace) in addition to a bonecrusher can restore the player's prayer points, removing the need to bring prayer potions for the use of Light Form although Prayer Renewals may still be needed especially at lower levels. Grenwalls can be found in two locations: in the [Gorajo Resource Dungeon](http://runescape.wikia.com/wiki/Gorajo_resource_dungeon) in [Meilyr Clan](http://runescape.wikia.com/wiki/Meilyr_Clan), requiring level 95 Dungeoneering, and just south of the [Elf Camp](http://runescape.wikia.com/wiki/Elf_Camp). Normally, laying a box trap takes 6 game ticks (3.6 seconds). If, however, you drink a potion and set the trap in the same tick, the trap will be set in just one tick. This method while less afk will grant much higher experience rates of more than 800,000 Hunter experience an hour at level 99.",
         "color": 12269891,
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
@@ -123,16 +123,30 @@ exports.data = {
     "author": {
       "name": "Max Cape Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    }
+  },
+  "77 - 96 pt2": {
+    "title": "Alternative Hunter Training Levels 77-80",
+    "url": "http://runescape.wikia.com/wiki/Hunter_training#Amphibious_jadinkos_.28levels_77-80.29",
+    "description": "If the player does not have access to Crystallise then they can start hunting [Amphibious Jadinkos](http://runescape.wikia.com/wiki/Amphibious_jadinko) at level 77 Hunter. With level 77-80 Hunter this gives approximately 83,000 experience an hour. Amphibious jadinkos can only be caught at the [Herblore Habitat](http://runescape.wikia.com/wiki/Herblore_Habitat) using [marasamaw plants](http://runescape.wikia.com/wiki/Marasamaw_plant). To attract amphibious jadinkos players must have at least level 61 Farming in order to plant a [blue blossom seed](http://runescape.wikia.com/wiki/Blue_blossom_seed) and [lergberry seed](http://runescape.wikia.com/wiki/Lergberry_seed) in the vine blossom and bush patches. Players must also build a [pond habitat](http://runescape.wikia.com/wiki/Pond_(Herblore_Habitat) at the environmental feature patch.",
+        "color": 12269891,
+    "footer": {
+      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
+    },
+    "thumbnail": {
+      "url": "https://vignette.wikia.nocookie.net/runescape2/images/3/35/Amphibious_jadinko.png/revision/latest?cb=20130626213931"
+    },
+    "author": {
+      "name": "Max Cape Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
     "fields": [
-      {
-        "name": "Alternative Method: Levels 77-80",
-        "value": "If the player does not have access to Crystallise then they can start hunting [Amphibious Jadinkos](http://runescape.wikia.com/wiki/Amphibious_jadinko) at level 77 Hunter. With level 77-80 Hunter this gives approximately 83,000 experience an hour. Amphibious jadinkos can only be caught at the [Herblore Habitat](http://runescape.wikia.com/wiki/Herblore_Habitat) using [marasamaw plants](http://runescape.wikia.com/wiki/Marasamaw_plant). To attract amphibious jadinkos players must have at least level 61 Farming in order to plant a [blue blossom seed](http://runescape.wikia.com/wiki/Blue_blossom_seed) and [lergberry seed](http://runescape.wikia.com/wiki/Lergberry_seed) in the vine blossom and bush patches. Players must also build a [pond habitat](http://runescape.wikia.com/wiki/Pond_(Herblore_Habitat) at the environmental feature patch."
-      },
-      {
+            {
         "name": "​",
-        "value": "Vine bush and blossom seeds are untradeable and can be found by hunting jadinkos or by exchanging [favour points](http://runescape.wikia.com/wiki/Jadinko_Lair#Rewards). Favour points can be earned by slaying [mutated jadinkos](http://runescape.wikia.com/wiki/Mutated_jadinko) or woodcutting and firemaking [roots](http://runescape.wikia.com/wiki/Curly_root) in the [Jadinko Lair](http://runescape.wikia.com/wiki/Jadinko_Lair) and can be exchanged at the [offering stone](http://runescape.wikia.com/wiki/Offering_stone) within this area."
+        "value": "Vine bush and blossom seeds are untradeable and can be found by hunting jadinkos or by exchanging [Favour points](http://runescape.wikia.com/wiki/Jadinko_Lair#Rewards). Favour points can be earned by slaying [mutated jadinkos](http://runescape.wikia.com/wiki/Mutated_jadinko) or woodcutting and firemaking [roots](http://runescape.wikia.com/wiki/Curly_root) in the [Jadinko Lair](http://runescape.wikia.com/wiki/Jadinko_Lair) and can be exchanged at the [offering stone](http://runescape.wikia.com/wiki/Offering_stone) within this area."
       },
+
       {
         "name": "Alternative Method: Levels 80-88",
         "value": "At level 80 Hunter players can catch [Draconic Jadinkos](http://runescape.wikia.com/wiki/Draconic_jadinko). Players can gain around 100,000 experience an hour hunting draconic jadinkos with level 80 Hunter. As with amphibious jadinkos, draconic jadinkos can only be hunted using marasamaw plants at the Herblore Habitat, once they have been attracted by the presence of a particular combination of plants and habitat."
