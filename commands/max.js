@@ -85,6 +85,9 @@ exports.run = async (client, message, [skill, ...args], level) => { // eslint-di
 			let last = Number(k.split(" ")[2]);
 			if (last == "99") last += 1;
 			if (args[0] >= first && args[0] < last) rtnArr.push(k);
+			if (args[0] >= first && args[0] < last && k.split(" ")[3]) {
+				if (k.split(" ")[3].includes("pt")) rtnArr.pusk(k)
+			}
 		});
 	} else if (!Number(args[0])) {
 		//string search
