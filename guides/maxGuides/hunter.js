@@ -126,7 +126,7 @@ exports.data = {
     }
   },
   "77 - 96 pt2": {
-    "title": "Alternative Hunter Training Levels 77-80",
+    "title": "Alternative Hunter Training Levels 77-96",
     "url": "http://runescape.wikia.com/wiki/Hunter_training#Amphibious_jadinkos_.28levels_77-80.29",
     "description": "If the player does not have access to Crystallise then they can start hunting [Amphibious Jadinkos](http://runescape.wikia.com/wiki/Amphibious_jadinko) at level 77 Hunter. With level 77-80 Hunter this gives approximately 83,000 experience an hour. Amphibious jadinkos can only be caught at the [Herblore Habitat](http://runescape.wikia.com/wiki/Herblore_Habitat) using [marasamaw plants](http://runescape.wikia.com/wiki/Marasamaw_plant). To attract amphibious jadinkos players must have at least level 61 Farming in order to plant a [blue blossom seed](http://runescape.wikia.com/wiki/Blue_blossom_seed) and [lergberry seed](http://runescape.wikia.com/wiki/Lergberry_seed) in the vine blossom and bush patches. Players must also build a [pond habitat](http://runescape.wikia.com/wiki/Pond_(Herblore_Habitat) at the environmental feature patch.",
         "color": 12269891,
