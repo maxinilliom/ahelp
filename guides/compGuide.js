@@ -3337,10 +3337,6 @@ exports.data = {
 			}
 		}
 	},
-	"lovingly crafted": {
-		"cmds": ["mqc"],
-		"embed": 
-	},
 	"lunar master": {
 		"cmds": ["comp"],
 		"embed": {
