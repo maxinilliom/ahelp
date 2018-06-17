@@ -23,6 +23,7 @@ exports.run = async (client, message, [skill, ...args], level) => { // eslint-di
 	const numKeyList = [];
 	const strKeyList = [];
 	const rtnArr = [];
+	let pt = "false";
 
 	if (skill.toLowerCase() == "universal" && !args[0]) {
 		message.channel.send("", {embed: data[0]});
@@ -84,9 +85,13 @@ exports.run = async (client, message, [skill, ...args], level) => { // eslint-di
 			const first = Number(k.split(" ")[0]);
 			let last = Number(k.split(" ")[2]);
 			if (last == "99") last += 1;
-			if (args[0] >= first && args[0] < last) rtnArr.push(k);
+			if (args[0] >= first && args[0] < last && !k.split(" ")[3]) rtnArr.push(k);
 			if (args[0] >= first && args[0] < last && k.split(" ")[3]) {
-				if (k.split(" ")[3].includes("pt")) rtnArr.pusk(k)
+				if (k.split(" ")[3].includes("pt")) {
+					const guide = data[k];
+					message.channel.send("", {embed: guide});
+					pt = "true";
+				}
 			}
 		});
 	} else if (!Number(args[0])) {
@@ -96,7 +101,7 @@ exports.run = async (client, message, [skill, ...args], level) => { // eslint-di
 		});
 	}
 
-        if (rtnArr.length == 0) {
+        if (rtnArr.length == 0 && pt == "false") {
                 return message.channel.send(`No results found for **${args.join(" ")}**.`);
         } else if (rtnArr.length == 1) {
                 const guide = data[rtnArr[0]];
@@ -116,8 +121,10 @@ exports.run = async (client, message, [skill, ...args], level) => { // eslint-di
                 if (isNaN(response) || response > rtnArr.length || response < 1) return message.channel.send("Invalid number specified, search cancelled.");
                 const choice = data[rtnArr[response-1]];
                 return message.channel.send("", {embed: choice});
-        } else {
-        message.channel.send("If you see this, contact @<97928972305707008>");
+        } else if (pt == "true") {
+		return;
+	} else {
+        message.channel.send("If you see this, contact <@97928972305707008>");
         }
 };
 
