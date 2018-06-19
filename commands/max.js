@@ -97,7 +97,12 @@ exports.run = async (client, message, [skill, ...args], level) => { // eslint-di
 	} else if (!Number(args[0])) {
 		//string search
 		keyList.forEach(k => {
-			if (RegExp(args[0].toLowerCase()).test(k) && !rtnArr.includes(k)) rtnArr.push(k);
+			if (RegExp(args[0].toLowerCase()).test(k) && !/pt/.test(k) && !rtnArr.includes(k)) rtnArr.push(k);
+			if (RegExp(args[0].toLowerCase()).test(k) && /pt/.test(k)) {
+				const guide = data[k];
+				message.channel.send("", {embed: guide});
+				pt = "true";
+			}
 		});
 	}
 
