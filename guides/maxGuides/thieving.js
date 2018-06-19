@@ -211,7 +211,7 @@ exports.data = {
       ]
   },
   "pet - ralph": {
-    "title": "Agility Pet - Ralph",
+    "title": "Thieving Pet - Ralph",
     "description": "Ralph is the skilling pet obtainable from Theiving. He is unlocked by inspecting the [Ralph Pet](http://runescape.wikia.com/wiki/Ralph_pet).",
     "url": "http://runescape.wikia.com/wiki/Dojo_Mojo",
     "color": 12269891,
