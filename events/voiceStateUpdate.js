@@ -10,13 +10,13 @@ module.exports = async (client, oldMember, newMember) => {
 
 	if (oldUserChannel.id == genVoice.id) {
 		genText.overwritePermissions(client.users.get(oldMember.user.id), {'VIEW_CHANNEL': false})
-	} else
+	}
 	if (oldUserChannel.id == eventVoice.id) {
 		eventText.overwritePermissions(client.users.get(oldMember.user.id), {'VIEW_CHANNEL': false})
-	} else
+	}
 	if (newUserChannel.id == genVoice.id) {
 		genText.overwritePermissions(client.users.get(newMember.user.id), {'VIEW_CHANNEL': true})
-	} else
+	}
 	if (newUserChannel.id == eventVoice.id) {
 		eventText.overwritePermissions(client.users.get(newMember.user.id), {'VIEW_CHANNEL': true})
 	}
