@@ -268,57 +268,76 @@ exports.data = {
       }
       ]
   },
-  "distractions and diversions": { 
-"title": "Distractions and Diversions", 
-"url": "http://runescape.wikia.com/wiki/Distractions_and_Diversions", 
-"description": "D&Ds are a sub-classification of minigames. However, unlike minigames many D&Ds move around the world to various locations, have a limit on how often they can be played, and only occur at particular times of day.\n\nDistractions and Diversions aim to divert the original intentions of the player in order to provide an interesting distraction from their everyday routines. D&Ds come in many different shapes and sizes; covering Combat, Gathering, Artisan, and Support skills. There are a wide variety of different options available to suit the players choice.", 
-"color": 12269891, 
-"footer": { 
-"icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg", 
-"text": "Achievement Help | Helping you reach your goals, whatever they may be!" 
-}, 
-"thumbnail": { 
-"url": "https://vignette.wikia.nocookie.net/runescape2/images/6/62/D%26D_icon.png/revision/latest?cb=20140914110639" 
-}, 
-"author": { 
-"name": "Max Cape Info", 
-"icon_url": "https://i.imgur.com/6c6q2iC.png" 
-}, 
-"fields": [ 
-{ 
-"name": "▬▬ Flash Powder Factory ▬▬", 
-"value": "[Flash Powder Factory](http://runescape.wikia.com/wiki/Flash_Powder_Factory) is a minigame that can be found in the [Rogue's Den](http://runescape.wikia.com/wiki/Rogues%27_Den) below the [Pick and Lute Inn](http://runescape.wikia.com/wiki/The_Pick_and_Lute) in Taverly. Players can earn Thieving experience by pickpocketing other people playing the game, and by spending the reward currency ['Brainpoints'](http://runescape.wikia.com/wiki/Flash_Powder_Factory#Brianpoints) on Thieving experience at a rate of 175xp per point.'" 
-},
-{ 
-"name": "▬▬ Balthazar Beauregard's Big Top Bonanza ▬▬", 
-"value": "Players can do an Thieving performance at the [Balthazar Beauregard's Big Top Bonanza](http://runescape.wikia.com/wiki/Balthazar_Beauregard%27s_Big_Top_Bonanza) Distraction and Diversion once per week if they have completed the [Some Like It Cold](http://runescape.wikia.com/wiki/Some_Like_It_Cold) quest. To enter the circus the player must gain a circus ticket from the ticket vendor, which is randomly located in 1 of 12 possible locations each week. The Thieving performance can be started by standing on the star next to [Teddy the Polar Bear](http://runescape.wikia.com/wiki/Teddy)." 
-}, 
-{ 
-"name": "​", 
-"value": "During the performance players have 5 attempts to perform up to 5 different tricks. Thieving experience is received upon the first successful attempt of each trick that the player performs: repeating a trick more than once does not grant additional experience. Each trick has a recommended Thieving level to attempt; however this level is not required in order to perform the trick, as it is possible to successfully perform or fail to perform a trick at any Thieving level. It may take several attempts for a trick is successfully performed. However, when a player performs a trick that has a higher recommended Thieving level than they currently have, the experience received will be the same as that given for performing a trick with half the recommended Thieving level, rounded down." 
-}, 
-{ 
-"name": "​", 
-"value": "To gain the most experience from the Thieving performance players should begin by performing the highest recommended level trick for their current Thieving level, and work down to the trick with a recommended level half of their current Thieving level. After this players should perform any tricks with a recommended Thieving level which is greater than their current Thieving level and then finally perform any tricks with a recommended level of less than half of their current Thieving level. The Distraction and Diversion's interface will display the recommended Thieving level for the performance's tricks, as well as show which tricks the player has performed successfully. With completion of the [Back to the Freezer quest](http://runescape.wikia.com/wiki/Back_to_the_Freezer) players may gain up to 1.5 times as much experience from each trick, at level 99. [Source](http://runescape.wikia.com/wiki/Agility_training#Balthazar_Beauregard.27s_Big_Top_Bonanza)." 
-}, 
-{ 
-"name": "▬▬ Sorceress's Garden ▬▬", 
-"value": "The [Sorceress's Garden](http://runescape.wikia.com/wiki/Sorceress%27s_Garden) is a minigame located in [Al Kharid](http://runescape.wikia.com/wiki/Al_Kharid). Players must have completed the [Diamond in the Rough](http://runescape.wikia.com/wiki/Diamond_in_the_Rough) quest and spoken to [Osman](http://runescape.wikia.com/wiki/Osman) in order to play, and can access the gardens by talking to the [Apprentice](http://runescape.wikia.com/wiki/Apprentice) in the south east of the city. There are four seasonal gardens, each of which has its own level requirement to access. The [Winter garden](http://runescape.wikia.com/wiki/Sorceress%27s_Garden/Winter) requires level 1 Thieving, the [Spring garden](http://runescape.wikia.com/wiki/Sorceress%27s_Garden/Spring) requires level 25 Thieving, the [Autumn garden](http://runescape.wikia.com/wiki/Sorceress%27s_Garden/Autumn) requires level 45 Thieving and the [Summer garden](http://runescape.wikia.com/wiki/Sorceress%27s_Garden/Summer) requires level 65 Thieving." 
-}, 
-{ 
-"name": "​", 
-"value": "The objective of the minigame is to steal [Sq'irk fruits](http://runescape.wikia.com/wiki/Sq%27irk) off the trees at the end of each garden maze. The gardens are guarded by elementals who will teleport the player back to the beginning of the maze if they are caught. The fruits can be ground with a [pestle and mortar](http://runescape.wikia.com/wiki/Pestle_and_mortar) into a [beer glass](http://runescape.wikia.com/wiki/Beer_glass) to make [Sq'irkjuice](http://runescape.wikia.com/wiki/Sq%27irkjuice). These can be drank for a Thieving boost or handed in to Osman for Thieving experience. It is recommended to wear [weight reducing gear](http://runescape.wikia.com/wiki/Weight-reducing_clothing) whilst playing this minigame."
-},
-{ 
-"name": "▬▬ Heist ▬▬", 
-"value": "[Heist](http://runescape.wikia.com/wiki/Heist) is a minigame located north west of [Falador](http://runescape.wikia.com/wiki/Falador). Players can access the game by climbing the ladder, and each team requires between 2-5 players for a game to begin. For Thieving training, players should join the robbers team." 
-}, 
-{ 
-"name": "​", 
-"value": "As a robber, the objective of the minigame is to steal loot from around the town and safely deposit it in receptacles around the map. Robbers can disguise themselves as NPCs in order to avoid attracting the attention of players on the guard's team. The game will end when all robbers are caught, when 20 minutes has ended or when the robbers have deposited two loot per person. Playing as a robber earns [robber reward points](http://runescape.wikia.com/wiki/Heist#Robber_rewards) which can be turned in for bonus experience. The rate of experience per point varies by level and a full table can be found [here](http://runescape.wikia.com/wiki/Heist#Thieving_Experience)."
-} 
-] 
-},
+  "distractions and diversions pt1": { 
+    "title": "Distractions and Diversions", 
+    "url": "http://runescape.wikia.com/wiki/Distractions_and_Diversions", 
+    "description": "D&Ds are a subclassification of minigames. However, unlike minigames many D&Ds move around the world to various locations, have a limit on how often they can be played, and only occur at particular times of day.\n\nDistractions and Diversions aim to divert the original intentions of the player in order to provide an interesting distraction from their everyday routines. D&Ds come in many different shapes and sizes; covering Combat, Gathering, Artisan, and Support skills. There are a wide variety of different options available to suit the players choice.", 
+    "color": 12269891, 
+    "footer": { 
+    "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg", 
+    "text": "Achievement Help | Helping you reach your goals, whatever they may be!" 
+    }, 
+    "thumbnail": { 
+    "url": "https://vignette.wikia.nocookie.net/runescape2/images/6/62/D%26D_icon.png/revision/latest?cb=20140914110639" 
+    }, 
+    "author": { 
+    "name": "Max Cape Info", 
+    "icon_url": "https://i.imgur.com/6c6q2iC.png" 
+    }, 
+    "fields": [ 
+    { 
+    "name": "▬▬ Flash Powder Factory ▬▬", 
+    "value": "[Flash Powder Factory](http://runescape.wikia.com/wiki/Flash_Powder_Factory) is a minigame that can be found in the [Rogue's Den](http://runescape.wikia.com/wiki/Rogues%27_Den) below the [Pick and Lute Inn](http://runescape.wikia.com/wiki/The_Pick_and_Lute) in Taverly. Players can earn Thieving experience by pickpocketing other people playing the game, and by spending the reward currency ['Brainpoints'](http://runescape.wikia.com/wiki/Flash_Powder_Factory#Brianpoints) on Thieving experience at a rate of 175xp per point.'" 
+    },
+    { 
+    "name": "▬▬ Balthazar Beauregard's Big Top Bonanza ▬▬", 
+    "value": "Players can do an Thieving performance at the [Balthazar Beauregard's Big Top Bonanza](http://runescape.wikia.com/wiki/Balthazar_Beauregard%27s_Big_Top_Bonanza) Distraction and Diversion once per week if they have completed the [Some Like It Cold](http://runescape.wikia.com/wiki/Some_Like_It_Cold) quest. To enter the circus the player must gain a circus ticket from the ticket vendor, which is randomly located in 1 of 12 possible locations each week. The Thieving performance can be started by standing on the star next to [Teddy the Polar Bear](http://runescape.wikia.com/wiki/Teddy)." 
+    }, 
+    { 
+    "name": "​", 
+    "value": "During the performance players have 5 attempts to perform up to 5 different tricks. Thieving experience is received upon the first successful attempt of each trick that the player performs: repeating a trick more than once does not grant additional experience. Each trick has a recommended Thieving level to attempt; however this level is not required in order to perform the trick, as it is possible to successfully perform or fail to perform a trick at any Thieving level. It may take several attempts for a trick is successfully performed. However, when a player performs a trick that has a higher recommended Thieving level than they currently have, the experience received will be the same as that given for performing a trick with half the recommended Thieving level, rounded down." 
+    }, 
+    { 
+    "name": "​", 
+    "value": "To gain the most experience from the Thieving performance players should begin by performing the highest recommended level trick for their current Thieving level, and work down to the trick with a recommended level half of their current Thieving level. After this players should perform any tricks with a recommended Thieving level which is greater than their current Thieving level and then finally perform any tricks with a recommended level of less than half of their current Thieving level. The Distraction and Diversion's interface will display the recommended Thieving level for the performance's tricks, as well as show which tricks the player has performed successfully. With completion of the [Back to the Freezer quest](http://runescape.wikia.com/wiki/Back_to_the_Freezer) players may gain up to 1.5 times as much experience from each trick, at level 99. [Source](http://runescape.wikia.com/wiki/Agility_training#Balthazar_Beauregard.27s_Big_Top_Bonanza)." 
+    }
+    ] 
+  },
+  "distractions and diversions pt2": { 
+    "title": "Distractions and Diversions", 
+    "url": "http://runescape.wikia.com/wiki/Distractions_and_Diversions", 
+    "description": "D&Ds are a subclassification of minigames. However, unlike minigames many D&Ds move around the world to various locations, have a limit on how often they can be played, and only occur at particular times of day.\n\nDistractions and Diversions aim to divert the original intentions of the player in order to provide an interesting distraction from their everyday routines. D&Ds come in many different shapes and sizes; covering Combat, Gathering, Artisan, and Support skills. There are a wide variety of different options available to suit the players choice.", 
+    "color": 12269891, 
+    "footer": { 
+    "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg", 
+    "text": "Achievement Help | Helping you reach your goals, whatever they may be!" 
+    }, 
+    "thumbnail": { 
+    "url": "https://vignette.wikia.nocookie.net/runescape2/images/6/62/D%26D_icon.png/revision/latest?cb=20140914110639" 
+    }, 
+    "author": { 
+    "name": "Max Cape Info", 
+    "icon_url": "https://i.imgur.com/6c6q2iC.png" 
+    }, 
+    "fields": [ 
+    { 
+    "name": "▬▬ Sorceress's Garden ▬▬", 
+    "value": "The [Sorceress's Garden](http://runescape.wikia.com/wiki/Sorceress%27s_Garden) is a minigame located in [Al Kharid](http://runescape.wikia.com/wiki/Al_Kharid). Players must have completed the [Diamond in the Rough](http://runescape.wikia.com/wiki/Diamond_in_the_Rough) quest and spoken to [Osman](http://runescape.wikia.com/wiki/Osman) in order to play, and can access the gardens by talking to the [Apprentice](http://runescape.wikia.com/wiki/Apprentice) in the south east of the city. There are four seasonal gardens, each of which has its own level requirement to access. The [Winter garden](http://runescape.wikia.com/wiki/Sorceress%27s_Garden/Winter) requires level 1 Thieving, the [Spring garden](http://runescape.wikia.com/wiki/Sorceress%27s_Garden/Spring) requires level 25 Thieving, the [Autumn garden](http://runescape.wikia.com/wiki/Sorceress%27s_Garden/Autumn) requires level 45 Thieving and the [Summer garden](http://runescape.wikia.com/wiki/Sorceress%27s_Garden/Summer) requires level 65 Thieving." 
+    }, 
+    { 
+    "name": "​", 
+    "value": "The objective of the minigame is to steal [Sq'irk fruits](http://runescape.wikia.com/wiki/Sq%27irk) off the trees at the end of each garden maze. The gardens are guarded by elementals who will teleport the player back to the beginning of the maze if they are caught. The fruits can be ground with a [pestle and mortar](http://runescape.wikia.com/wiki/Pestle_and_mortar) into a [beer glass](http://runescape.wikia.com/wiki/Beer_glass) to make [Sq'irkjuice](http://runescape.wikia.com/wiki/Sq%27irkjuice). These can be drank for a Thieving boost or handed in to Osman for Thieving experience. It is recommended to wear [weight reducing gear](http://runescape.wikia.com/wiki/Weight-reducing_clothing) whilst playing this minigame."
+    },
+    { 
+    "name": "▬▬ Heist ▬▬", 
+    "value": "[Heist](http://runescape.wikia.com/wiki/Heist) is a minigame located north west of [Falador](http://runescape.wikia.com/wiki/Falador). Players can access the game by climbing the ladder, and each team requires between 2-5 players for a game to begin. For Thieving training, players should join the robbers team." 
+    }, 
+    { 
+    "name": "​", 
+    "value": "As a robber, the objective of the minigame is to steal loot from around the town and safely deposit it in receptacles around the map. Robbers can disguise themselves as NPCs in order to avoid attracting the attention of players on the guard's team. The game will end when all robbers are caught, when 20 minutes has ended or when the robbers have deposited two loot per person. Playing as a robber earns [robber reward points](http://runescape.wikia.com/wiki/Heist#Robber_rewards) which can be turned in for bonus experience. The rate of experience per point varies by level and a full table can be found [here](http://runescape.wikia.com/wiki/Heist#Thieving_Experience)."
+    } 
+    ] 
+  },
   "daily challenge": {
     "title": "Daily Challenge",
     "url": "http://runescape.wikia.com/wiki/Challenge_System/Thieving",

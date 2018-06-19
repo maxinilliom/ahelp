@@ -294,11 +294,11 @@ exports.data = {
       },
       {
         "name": "▬▬ Waiko Reward Shop ▬▬",
-        "value": "The [Waiko Reward Shop](http://runescape.wikia.com/wiki/Waiko_Reward_Shop#Consumables) is a shop located on the [Waiko](http://runescape.wikia.com/wiki/Waiko) island in [The Arc](http://runescape.wikia.com/wiki/The_Arc) region and is run by [Boni](http://runescape.wikia.com/wiki/Boni_(rewards). Players must complete the [Impressing the Locals](http://runescape.wikia.com/wiki/Impressing_the_Locals) quest in order to access The Arc. The Waiko Reward Shop only accepts a combination of [Chimes](http://runescape.wikia.com/wiki/Chimes) and [Taijitu](http://runescape.wikia.com/wiki/Taijitu) as currency. Players can buy Divination skill specific lamps from the shop for chimes. The available lamp sizes and cost are:\n\n\t• [Small XP Lamp]() for 1,700 chimes\n\t• [Medium XP Lamp]() for 2,500 chimes\n\t• [Large XP Lamp]() for 3,300 chimes, and a\n\t• [Huge XP Lamp]() for 6,400 chimes"
+        "value": "The [Waiko Reward Shop](http://runescape.wikia.com/wiki/Waiko_Reward_Shop#Consumables) is a shop located on the [Waiko](http://runescape.wikia.com/wiki/Waiko) island in [The Arc](http://runescape.wikia.com/wiki/The_Arc) region and is run by [Boni](http://runescape.wikia.com/wiki/Boni_(rewards). Players must complete the [Impressing the Locals](http://runescape.wikia.com/wiki/Impressing_the_Locals) quest in order to access The Arc. The Waiko Reward Shop only accepts a combination of [Chimes](http://runescape.wikia.com/wiki/Chimes) and [Taijitu](http://runescape.wikia.com/wiki/Taijitu) as currency. Players can buy Divination skill specific lamps from the shop for chimes. "
       },
       {
         "name": "​",
-        "value": "Note that a player may choose to buy any size XP lamp in a random, Arc related skill for a lower amount of chimes at a 1/11 chance of gaining Divination experience. Random XP Lamps are generally not worth it if you are trying to gain experience in a specific skill."
+        "value": "The available lamp size and cost are:\n\n\t• [Small XP Lamp](http://runescape.wikia.com/wiki/Small_XP_lamp_(The_Arc)) for 1,700 chimes\n\t• [Medium XP Lamp](http://runescape.wikia.com/wiki/Medium_XP_lamp_(The_Arc)) for 2,500 chimes\n\t• [Large XP Lamp](http://runescape.wikia.com/wiki/Large_XP_lamp_(The_Arc)) for 3,300 chimes, and a\n\t• [Huge XP Lamp](http://runescape.wikia.com/wiki/Huge_XP_lamp_(The_Arc)) for 6,400 chimes\n\n\nNote that a player may choose to buy any size XP lamp in a random, Arc related skill for a lower amount of chimes at a 1/11 chance of gaining Divination experience. Random XP Lamps are generally not worth it if you are trying to gain experience in a specific skill."
       }
       ]
   },
@@ -410,7 +410,7 @@ exports.data = {
     "fields": [
       {
         "name": "​",
-        "value": "At level 98, 24,666 experience is awarded per day for completing one of the following:\n\n• Gather 100 [Luminous Memories](http://runescape.wikia.com/wiki/Luminous_memory),\n• Gather 100 [Incandescent Memories](http://runescape.wikia.com/wiki/Incandescent_memory)\n• Convert 25 [Manifest Shadow Cores](http://runescape.wikia.com/wiki/Manifest_shadow_core)\n\nDaily challenges may be extended for 50 [Vis Wax](http://runescape.wikia.com/wiki/Vis_wax) for double the reward.\n\nA full chart of the experience per level for the daily challenge may be found [here](http://runescape.wikia.com/wiki/Challenge_System/Divination)."
+        "value": "At level 98, 24,666 experience is awarded per day for completing one of the following:\n\n• Gather 100 [Luminous Memories](http://runescape.wikia.com/wiki/Luminous_memory),\n• Gather 100 [Incandescent Memories](http://runescape.wikia.com/wiki/Incandescent_memory),\n• Convert 25 [Manifest Shadow Cores](http://runescape.wikia.com/wiki/Manifest_shadow_core)\n\nDaily challenges may be extended for 50 [Vis Wax](http://runescape.wikia.com/wiki/Vis_wax) for double the reward.\n\nA full chart of the experience per level for the daily challenge may be found [here](http://runescape.wikia.com/wiki/Challenge_System/Divination)."
       }
       ]
   },

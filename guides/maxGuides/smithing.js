@@ -263,17 +263,17 @@ exports.data = {
       },
       ]
   },
-  "pet - ralph": {
-    "title": "Thieving Pet - Ralph",
-    "description": "Ralph is the skilling pet obtainable from Theiving. He is unlocked by inspecting the [Ralph Pet](http://runescape.wikia.com/wiki/Ralph_pet).",
-    "url": "http://runescape.wikia.com/wiki/Dojo_Mojo",
+  "pet - smithy": {
+    "title": "Smithing Pet - Smithy",
+    "description": "Smithy is the skilling pet obtainable from Smithing. He is unlocked by inspecting the [Smithy pet](http://runescape.wikia.com/wiki/Smithy_pet).",
+    "url": "http://runescape.wikia.com/wiki/Smithy",
     "color": 12269891,
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "thumbnail": {
-      "url": "https://vignette.wikia.nocookie.net/runescape2/images/5/55/Ralph_%28pet%29.png/revision/latest/scale-to-width-down/200?cb=20161217004312"
+      "url": "https://vignette.wikia.nocookie.net/runescape2/images/f/f1/Smithy_%28pet%29.png/revision/latest/scale-to-width-down/200?cb=20160917173035"
     },
     "author": {
       "name": "Max Cape Info",
@@ -282,19 +282,19 @@ exports.data = {
     "fields": [
       {
         "name": "Methods to Obtain",
-        "value": "• Regular pickpocketing\n• Elf pickpocketing\n• Stalls\n• Chests\n• Pyramid Plunder chests\n• Monkey knife fighters\n• Lockpicking\n• Safecracking"
+        "value": "• Smelting bars\n• Smithing bars into weapons or armour\n• Completing the [burial armour](http://runescape.wikia.com/wiki/Artisans_Workshop#Burial_armour) in [Artisans workshop](http://runescape.wikia.com/wiki/Artisans_Workshop)\n• [Repairing a cannon](http://runescape.wikia.com/wiki/Artisans_Workshop#Cannon_repair) in Artisans workshop\n• [Ceremonial swords](http://runescape.wikia.com/wiki/Artisans_Workshop#Ceremonial_swords) in Artisans workshop\n• [Track repair](http://runescape.wikia.com/wiki/Artisans_Workshop#Track_room) activities in Artisans workshop\n• Smelting corrupted ore\n• Casting [Superheat item](http://runescape.wikia.com/wiki/Superheat_Item)"
       },
       {
         "name": "Best Method",
-        "value": "• Prifddinas Elves\n• Dwarvern Traders\n• Rushing Pyramid Plunder chests, ignoring urns"
+        "value": "• Smithing [rune two-handed swords](http://runescape.wikia.com/wiki/Rune_2h_sword) or [rune platelegs](http://runescape.wikia.com/wiki/Rune_platelegs)"
       },
       {
         "name": "Methods which do not Work",
-        "value": "• Opening locked doors\n• Thieving Skill Training Dummies"
+        "value": "• Any actions performed with [protean bars](http://runescape.wikia.com/wiki/Protean_bar)"
       },
       {
         "name": "Formula",
-        "value": "Gaining this pet is based on the amount of experience drops received, not the size of the experience drops. Therefore, it is best to choose a method among the fastest experience drops.\n\nIn a purely mathematical format your chance (f) of receiving a pet on any particular action is:\nf = T*S / 50,000,000\n\nWhere:\n*T* is the amount of game ticks taken per action\n*S* is the virtual skill level. At 200 million experience, a flat bonus of 50 is applied to this value."
+        "value": "Gaining this pet is based on the amount of experience awarded at once; the more experience granted per item made, the greater the chance of gaining this pet. The chance is not affected by experience boosters.\n\nIn a purely mathematical format your chance (f) of receiving the pet on any particular action is: f = B * S / 1,000,000,000\n\nWhere:\nB is the base experience per action\nS is the virtual skill level. At 200 million experience, a flat bonus of 200 is applied to this value."
       }
       ]
   },
@@ -322,40 +322,40 @@ exports.data = {
       ]
   },
   "distractions and diversions": { 
-"title": "Distractions and Diversions", 
-"url": "http://runescape.wikia.com/wiki/Distractions_and_Diversions", 
-"description": "D&Ds are a subclassification of minigames. However, unlike minigames many D&Ds move around the world to various locations, have a limit on how often they can be played, and only occur at particular times of day.\n\nDistractions and Diversions aim to divert the original intentions of the player in order to provide an interesting distraction from their everyday routines. D&Ds come in many different shapes and sizes; covering Combat, Gathering, Artisan, and Support skills. There are a wide variety of different options available to suit the players choice.", 
-"color": 12269891, 
-"footer": { 
-"icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg", 
-"text": "Achievement Help | Helping you reach your goals, whatever they may be!" 
-}, 
-"thumbnail": { 
-"url": "https://vignette.wikia.nocookie.net/runescape2/images/6/62/D%26D_icon.png/revision/latest?cb=20140914110639" 
-}, 
-"author": { 
-"name": "Max Cape Info", 
-"icon_url": "https://i.imgur.com/6c6q2iC.png" 
-}, 
-"fields": [ 
-{ 
-"name": "▬▬ Stealing Creation ▬▬", 
-"value": "[Stealing Creation](http://runescape.wikia.com/wiki/Stealing_Creation) is a minigame where players must collect [sacred clay](http://runescape.wikia.com/wiki/Sacred_clay) from points around a map. The team that wins is the one that deposits the most clay in their base before the time runs out or by the time all clay has been exhausted. Players may attack each other to take clay or steal from other players. It is recommended to begin by collecting clay fragments and creating tools which will allow them to harvest clay from skilling sites. There are 5 classes of clay with each class requiring an extra 20 levels in the relevant skill to collect - beginning at level 1 for class 1 and ending at level 80 for class 5. " 
-}, 
-{ 
-"name": "​", 
-"value": "Players are rewarded with points for each game, which can be used to purchase [rewards](http://runescape.wikia.com/wiki/Stealing_Creation/Rewards). A [proto-tool](http://runescape.wikia.com/wiki/Proto-tool) can be purchased for 20 points. It can be transformed into a [sacred clay hammer](http://runescape.wikia.com/wiki/Sacred_clay_hammer) which gives the player 24,450 bonus Smithing experience. Alternatively a [volatile clay tool](http://runescape.wikia.com/wiki/Volatile_clay_tool) can be purchased for 20 points. This awards 29,340 bonus experience but the player cannot choose which skill this is awarded in. Volatile tools can be remorphed but the tool loses 10% of its original experience with each morph. After the initial expense of buying and morphing volatile tools, recharging volatile tools gives better value than buying proto-tools or bulk experience." 
-},
-{ 
-"name": "▬▬ Warbands ▬▬", 
-"value": "[Wilderness Warbands](http://runescape.wikia.com/wiki/Wilderness_Warbands) is a dangerous distraction & diversion that occurs every 7 hours. Due to the extremely high risk of death it is recommended that the player take no items with them to the warband, and is part of a dedicated warbands [friends chat](http://runescape.wikia.com/wiki/Friends_Chat). Smithing experience is gained in the final stages of the warband, where players can loot the camp. Only three of the five possible skills will be available on each world, so you may have to hop to find [Smithing supplies](http://runescape.wikia.com/wiki/Smithing_supplies)." 
-}, 
-{ 
-"name": "​", 
-"value": "Once the player has looted supplies they will be [skulled](http://runescape.wikia.com/wiki/Skull_(status) and unable to teleport out of the wilderness. A player can loot up to 25 supplies during each warband and participate up to 3 times a day for a maximum of 75 supplies per day. When the supplies are handed in to [Quercus](http://runescape.wikia.com/wiki/Quercus), he will award experience based on the number of supplies and the player's level in that skill. At level 99 a maximum of 363,862.5 experience can be earned per day." 
-} 
-] 
-},
+    "title": "Distractions and Diversions", 
+    "url": "http://runescape.wikia.com/wiki/Distractions_and_Diversions", 
+    "description": "D&Ds are a subclassification of minigames. However, unlike minigames many D&Ds move around the world to various locations, have a limit on how often they can be played, and only occur at particular times of day.\n\nDistractions and Diversions aim to divert the original intentions of the player in order to provide an interesting distraction from their everyday routines. D&Ds come in many different shapes and sizes; covering Combat, Gathering, Artisan, and Support skills. There are a wide variety of different options available to suit the players choice.", 
+    "color": 12269891, 
+    "footer": { 
+    "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg", 
+    "text": "Achievement Help | Helping you reach your goals, whatever they may be!" 
+    }, 
+    "thumbnail": { 
+    "url": "https://vignette.wikia.nocookie.net/runescape2/images/6/62/D%26D_icon.png/revision/latest?cb=20140914110639" 
+    }, 
+    "author": { 
+    "name": "Max Cape Info", 
+    "icon_url": "https://i.imgur.com/6c6q2iC.png" 
+    }, 
+    "fields": [ 
+    { 
+    "name": "▬▬ Stealing Creation ▬▬", 
+    "value": "[Stealing Creation](http://runescape.wikia.com/wiki/Stealing_Creation) is a minigame where players must collect [sacred clay](http://runescape.wikia.com/wiki/Sacred_clay) from points around a map. The team that wins is the one that deposits the most clay in their base before the time runs out or by the time all clay has been exhausted. Players may attack each other to take clay or steal from other players. It is recommended to begin by collecting clay fragments and creating tools which will allow them to harvest clay from skilling sites. There are 5 classes of clay with each class requiring an extra 20 levels in the relevant skill to collect - beginning at level 1 for class 1 and ending at level 80 for class 5. " 
+    }, 
+    { 
+    "name": "​", 
+    "value": "Players are rewarded with points for each game, which can be used to purchase [rewards](http://runescape.wikia.com/wiki/Stealing_Creation/Rewards). A [proto-tool](http://runescape.wikia.com/wiki/Proto-tool) can be purchased for 20 points. It can be transformed into a [sacred clay hammer](http://runescape.wikia.com/wiki/Sacred_clay_hammer) which gives the player 24,450 bonus Smithing experience. Alternatively a [volatile clay tool](http://runescape.wikia.com/wiki/Volatile_clay_tool) can be purchased for 20 points. This awards 29,340 bonus experience but the player cannot choose which skill this is awarded in. Volatile tools can be remorphed but the tool loses 10% of its original experience with each morph. After the initial expense of buying and morphing volatile tools, recharging volatile tools gives better value than buying proto-tools or bulk experience." 
+    },
+    { 
+    "name": "▬▬ Warbands ▬▬", 
+    "value": "[Wilderness Warbands](http://runescape.wikia.com/wiki/Wilderness_Warbands) is a dangerous distraction & diversion that occurs every 7 hours. Due to the extremely high risk of death it is recommended that the player take no items with them to the warband, and is part of a dedicated warbands [friends chat](http://runescape.wikia.com/wiki/Friends_Chat). Smithing experience is gained in the final stages of the warband, where players can loot the camp. Only three of the five possible skills will be available on each world, so you may have to hop to find [Smithing supplies](http://runescape.wikia.com/wiki/Smithing_supplies)." 
+    }, 
+    { 
+    "name": "​", 
+    "value": "Once the player has looted supplies they will be [skulled](http://runescape.wikia.com/wiki/Skull_(status) and unable to teleport out of the wilderness. A player can loot up to 25 supplies during each warband and participate up to 3 times a day for a maximum of 75 supplies per day. When the supplies are handed in to [Quercus](http://runescape.wikia.com/wiki/Quercus), he will award experience based on the number of supplies and the player's level in that skill. At level 99 a maximum of 363,862.5 experience can be earned per day." 
+    } 
+    ] 
+  },
   "daily challenge": {
     "title": "Daily Challenge",
     "url": "http://runescape.wikia.com/wiki/Challenge_System/Smithing",
