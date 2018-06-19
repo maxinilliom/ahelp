@@ -50,7 +50,7 @@ exports.data = {
       "text": "Achievement Help | Divination"
     },
     "thumbnail": {
-      "url": "https://vignette.wikia.nocookie.net/runescape2/images/3/3e/Pale_wisp.png/revision/latest/scale-to-width-down/200?cb=20180207090710"
+      "url": "https://vignette.wikia.nocookie.net/runescape2/images/5/5e/Flickering_wisp.png/revision/latest/scale-to-width-down/200?cb=20180207090738"
     },
     "author": {
       "name": "Max Cape Info",
