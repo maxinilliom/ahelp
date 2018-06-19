@@ -202,7 +202,7 @@ exports.data = {
       ]
   },
   "88 - 99 +": {
-    "title": "Smithing Training Levels 89-99+",
+    "title": "Smithing Training Levels 88-99+",
     "description": "The player can smelt 1 [runite ore](http://runescape.wikia.com/wiki/Runite_ore) and 8 [coal](http://runescape.wikia.com/wiki/Coal) into [rune bars](http://runescape.wikia.com/wiki/Rune_bar). The player can choose to mine the ore themselves (higher profit) or buy it off the Grand Exchange (faster experience). Using the spell [superheat item](http://runescape.wikia.com/wiki/Superheat_Item) increases the speed of smelting consdierably. Using a [staff of fire](http://runescape.wikia.com/wiki/Staff_of_fire), this spell costs 1 [nature rune](http://runescape.wikia.com/wiki/Nature_rune), but even with this extra cost this method [makes money](http://runescape.wikia.com/wiki/Money_making_guide/Superheating_runite_ore). It has a rate of around 110,000 experience per hour",
     "url": "http://runescape.wikia.com/wiki/Rune_bar",
     "color": 12269891,
@@ -379,7 +379,7 @@ exports.data = {
       }
       ]
   },
-  "permanent boosts": {
+  "permanent boosts pt1": {
     "title": "Permanent Boosts",
     "url": "http://runescape.wikia.com/wiki/Bonus_experience_items",
     "description": "A permanent skill boost is anything caused by an item that permanently raises a player's level in one or more skills. It allows the player to do things above their current level.",
@@ -419,8 +419,27 @@ exports.data = {
       {
         "name": "Ring of Forging",
         "value": "• The [ring of forging](http://runescape.wikia.com/wiki/Ring_of_forging) increases the chance of successfully smelting [iron ore](http://runescape.wikia.com/wiki/Iron_ore) to 100%. It has 140 charges, and can be made from a [ruby ring](http://runescape.wikia.com/wiki/Ruby_ring)."
-      },
-      {
+      }
+      ]
+  },
+  "permanent boosts pt2": {
+    "title": "Permanent Boosts",
+    "url": "http://runescape.wikia.com/wiki/Bonus_experience_items",
+    "description": "A permanent skill boost is anything caused by an item that permanently raises a player's level in one or more skills. It allows the player to do things above their current level.",
+        "color": 12269891,
+    "footer": {
+      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
+    },
+    "thumbnail": {
+      "url": "https://vignette.wikia.nocookie.net/runescape2/images/8/8e/Blacksmith%27s_outfit_equipped.png/revision/latest/scale-to-width-down/120?cb=20140406202055"
+    },
+    "author": {
+      "name": "Max Cape Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "fields": [
+          {
         "name": "Scroll of Efficiency",
         "value": "• The [scroll of efficiency](http://runescape.wikia.com/wiki/Scroll_of_efficiency) is a [Dungeoneering reward](http://runescape.wikia.com/wiki/Dungeoneering/Rewards) that can be purchased for 20,000 [Dungeoneering tokens](http://runescape.wikia.com/wiki/Dungeoneering_token). It requires level 55 Smithing and Dungeoneering to purchase. Reading the scroll of efficiency permanently unlocks the chance of retaining a bar when smithing items which require at least 3 bars. The chance of saving is less with higher tier bars. The chance of saving a bar is per item smithed, not each per bar used. For example, smithing items requiring 5 bars will cost 4.8 bars per item on average, whilst smithing items requiring 3 bars will use 2.8 bars on average. A table of average savings per tier of bar can be found [here]."
       },
