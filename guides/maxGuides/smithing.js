@@ -52,7 +52,7 @@ exports.data = {
   },
   "15 - 30": {
     "title": "Smithing Training Levels 15-30",
-    "description": "At level 15, players should smelt [iron bars](http://runescape.wikia.com/wiki/Iron_bar) from iron ore [http://runescape.wikia.com/wiki/Iron_ore]. The fastest experience is to buy iron ore from the [Grand Exchange](http://runescape.wikia.com/wiki/Grand_Exchange). Using a [furnace](http://runescape.wikia.com/wiki/Furnace) or [portable forge](http://runescape.wikia.com/wiki/Portable_forge), smelt the ores into iron bars and then sell these back on the Grand Exchange. The closest furnaces to a bank are in [Edgeville](http://runescape.wikia.com/wiki/Edgeville) and the [Lumbridge Combat Academy](http://runescape.wikia.com/wiki/Combat_Academy).\n\nAt level 15 there is only a 50% chance of successfully smelting iron ore into a bar. This increases by 1% every level up to an 80% chance at level 45. Because of this it is recommended to buy [rings of forging](http://runescape.wikia.com/wiki/Ring_of_forging), which increase the success rate to 100% for 140 ores. Although this reduces the profit per ore, it increases overall profit due to the 100% success rate.\n\nThis method requires an initial investment of around 6,000 gold pieces, but will make a profit.",
+    "description": "At level 15, players should smelt [iron bars](http://runescape.wikia.com/wiki/Iron_bar) from [iron ore](http://runescape.wikia.com/wiki/Iron_ore). The fastest experience is to buy iron ore from the [Grand Exchange](http://runescape.wikia.com/wiki/Grand_Exchange). Using a [furnace](http://runescape.wikia.com/wiki/Furnace) or [portable forge](http://runescape.wikia.com/wiki/Portable_forge), smelt the ores into iron bars and then sell these back on the Grand Exchange. The closest furnaces to a bank are in [Edgeville](http://runescape.wikia.com/wiki/Edgeville) and the [Lumbridge Combat Academy](http://runescape.wikia.com/wiki/Combat_Academy).\n\nAt level 15 there is only a 50% chance of successfully smelting iron ore into a bar. This increases by 1% every level up to an 80% chance at level 45. Because of this it is recommended to buy [rings of forging](http://runescape.wikia.com/wiki/Ring_of_forging), which increase the success rate to 100% for 140 ores. Although this reduces the profit per ore, it increases overall profit due to the 100% success rate.\n\nThis method requires an initial investment of around 6,000 gold pieces, but will make a profit.",
     "url": "http://runescape.wikia.com/wiki/Iron_bar",
     "color": 12269891,
     "footer": {
@@ -153,7 +153,7 @@ exports.data = {
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "thumbnail": {
-      "url": "https://vignette.wikia.nocookie.net/runescape2/images/7/7a/Gold_bar_detail.png/revision/latest/scale-to-width-down/100?cb=20110217225704"
+      "url": "https://vignette.wikia.nocookie.net/runescape2/images/f/fb/Mithril_ingot_III_detail.png/revision/latest/scale-to-width-down/100?cb=20131107044330"
     },
     "author": {
       "name": "Max Cape Info",
@@ -246,7 +246,7 @@ exports.data = {
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "thumbnail": {
-      "url": "https://vignette.wikia.nocookie.net/runescape2/images/8/80/Silverhawk_boots_detail.png/revision/latest/scale-to-width-down/120?cb=20141007165752"
+      "url": "https://vignette.wikia.nocookie.net/runescape2/images/9/98/Protean_bar_detail.png/revision/latest?cb=20140516000527"
     },
     "author": {
       "name": "Max Cape Info",
@@ -261,6 +261,10 @@ exports.data = {
         "name": "▬▬ Dungeoneering ▬▬",
         "value": "It is possible to earn Smithing experience inside [Daemonheim](http://runescape.wikia.com/wiki/Daemonheim) whilst completing [Dungeoneering floors](http://runescape.wikia.com/wiki/Dungeoneering_floors). Although completely free, this is not recommended due to the high variability in Smithing supplies available on each floor."
       },
+      {
+        "name": "▬▬ Protean Bars ▬▬",
+        "value": "[Protean bars](http://runescape.wikia.com/wiki/Protean_bar) can be won on [Treasure Hunter](http://runescape.wikia.com/wiki/Treasure_Hunter). They can be smithed on an anvil, which gives experience but no items. At 750 bars per hour the experience is greater than other methods. The bars are stackable, therefore there is there is no need to banking. If you use a [portable forge](http://runescape.wikia.com/wiki/Portable_forge) while smithing the bar, the forge will occasionally save you one protean bar. At level 85+ a player can achieve up to 337,500 experience per hour."
+      }
       ]
   },
   "pet - smithy": {
@@ -448,10 +452,6 @@ exports.data = {
         "value": "• The [coal bag](http://runescape.wikia.com/wiki/Coal_bag) is a Dungeoneering reward that can be purchased for 4,000 Dungeoneering tokens. It requires level 35 Mining and Dungeoneering to purchase. The bag holds up to 81 pieces of [coal](http://runescape.wikia.com/wiki/Coal). When smelting or superheating, coal in the bag will be used before the coal in the inventory."
       },
       {
-        "name": "Portable Forge",
-        "value": "• A [portable forge](http://runescape.wikia.com/wiki/Portable_forge) is an item won on [Treasure Hunter](http://runescape.wikia.com/wiki/Treasure_Hunter) or bought off the [Grand Exchange](http://runescape.wikia.com/wiki/Grand_Exchange) that acts as both an anvil and furnace. Using the forge provides 10% additional experience to most smithing actions (however it does not provide extra experience when smelting corrupted ore). The furnace provides a 5% chance of smelting an extra bar, while the anvil has a 10% chance per bar of saving each of the bars in use (this includes [protean bars](http://runescape.wikia.com/wiki/Protean_bar)). All bars saved are deposited in the bank whether your inventory is full or not."
-      },
-      {
         "name": "Crystal Hammer",
         "value": "• The [crystal hammer](http://runescape.wikia.com/wiki/Crystal_hammer) is a degradable item that is made with a [crystal tool seed](http://runescape.wikia.com/wiki/Crystal_tool_seed) and 150 [harmonic dust](http://runescape.wikia.com/wiki/Harmonic_dust) in a process requiring 80 Smithing. Alternatively [Ilfeen](http://runescape.wikia.com/wiki/Ilfeen), [Eluned](http://runescape.wikia.com/wiki/Eluned), [Islwyn](http://runescape.wikia.com/wiki/Islwyn) or [Rhodri Dail](http://runescape.wikia.com/wiki/Rhodri_Dail) can be paid to turn create the hammer without any harmonic dust or level 80 Smithing. If the scroll of efficiency has been unlocked, the hammer adds an extra 5% chance to its effect. Each activation consumes 3.57% charge, or 1.78% while in [Prifddinas](http://runescape.wikia.com/wiki/Prifddinas). After all charges are used it reverts back to the crystal tool seed. Accessing this item requires partial completion of the quest [Mourning's End Part I](http://runescape.wikia.com/wiki/Mourning%27s_End_Part_I)."
         },
@@ -489,6 +489,10 @@ exports.data = {
       {
         "name": "​",
         "value": "[Brawling Gloves (Smithing)](http://runescape.wikia.com/wiki/Brawling_gloves_(Smithing)\n• A 50% XP boost is given anywhere outside of the [Wilderness](http://runescape.wikia.com/wiki/Wilderness). However, the buff increases to 300% at level 47 Wilderness, just south of the fence. The gloves only last about 434 uses. It is recommended to use the gloves at the lever to the [Mage Arena bank](http://runescape.wikia.com/wiki/Mage_Arena#Bank) with a [portable forge](http://runescape.wikia.com/wiki/Portable_forge).\n\n• The [Gofannon amulet](http://runescape.wikia.com/wiki/Gofannon_amulet) is a reward from the quest [What's Mine is Yours](http://runescape.wikia.com/wiki/What%27s_Mine_is_Yours). Completing the [optional tasks](http://runescape.wikia.com/wiki/Doric_and_Boric_tasks) after the quest charges the amulet with bonus experience, which the player can choose to use on Smithing. Completing all the tasks requires level 75 Smithing and 60 Mining, but rewards the player with 183,500 bonus experience."
+      },
+      {
+        "name": "Portable Forge",
+        "value": "• A [portable forge](http://runescape.wikia.com/wiki/Portable_forge) is an item won on [Treasure Hunter](http://runescape.wikia.com/wiki/Treasure_Hunter) or bought off the [Grand Exchange](http://runescape.wikia.com/wiki/Grand_Exchange) that acts as both an anvil and furnace. Using the forge provides 10% additional experience to most smithing actions (however it does not provide extra experience when smelting corrupted ore). The furnace provides a 5% chance of smelting an extra bar, while the anvil has a 10% chance per bar of saving each of the bars in use (this includes [protean bars](http://runescape.wikia.com/wiki/Protean_bar)). All bars saved are deposited in the bank whether your inventory is full or not."
       },
       {
         "name": "​",
