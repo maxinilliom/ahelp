@@ -131,7 +131,7 @@ exports.data = {
       "text": "Achievement Help | Helping you reach your agoals, whatever they may be!"
     },
     "thumbnail": {
-      "url": "https://vignette.wikia.nocookie.net/runescape2/images/1/10/Stethoscope_detail.png/revision/latest/scale-to-width-down/100?cb=20180430161042"
+      "url": "https://vignette.wikia.nocookie.net/runescape2/images/7/73/Safe.png/revision/latest/scale-to-width-down/200?cb=20180430155438"
     },
     "image": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/b/bc/Safecracking_Asgarnia_map.png/revision/latest/scale-to-width-down/180?cb=20180430154151"
@@ -143,18 +143,18 @@ exports.data = {
   },
   "83 - 99 +": {
     "title": "Thieving Training Levels 83-99+",
-    "description": "At level 83 Thieving, and with the [Thieves' Guild](http://runescape.wikia.com/wiki/Thieves'_Guild) [capers](http://runescape.wikia.com/wiki/Thieves'_Guild_quest_series) completed, players can [safecrack](http://runescape.wikia.com/wiki/Safecracking) in Kandarin. First, players should speak to the safe-cracking trainer in the Thieves' Guild if they haven't already to receive a [stethoscope](http://runescape.wikia.com/wiki/Stethoscope) and a [small loot bag](http://runescape.wikia.com/wiki/Small_loot_bag), and then begin looting from chests in Kandarin.\n\nThe best route is to start by casting the [Ardougne teleport spell](http://runescape.wikia.com/wiki/Ardougne_Teleport) and then loot the safes upstairs in the two buildings in Ardougne Market, teleport to the Yanille lodestone and loot the two safes within the wall and in the pub, then teleport to Camelot and loot the two safes on the ground floor of the castle. This can provide up to 500,000 experience an hour. At level 90 Thieving, players should begin to incorporate hidden safes into their route, most notably the safes in [Rogues' Castle](http://runescape.wikia.com/wiki/Rogues%27_Castle) in the [Wilderness](http://runescape.wikia.com/wiki/Wilderness). Do not bring any items that you would not want to lose. This can increase experience per hour to up to 700,000.\n\nEnsure that you click on the safe when it flashes blue for quicker experience. When your loot bag is full, turn it in to Chief Thief Robin at the Thieves' Guild for even more experience. You will also receive [Pilfer Points](http://runescape.wikia.com/wiki/Dodgy_Derek%27s_Dirty_Deals#Reward_Shop) which can be exchanged for tool-belt items, larger loot bags and useful Thieving consumables",
-    "url": "http://runescape.wikia.com/wiki/Thieves%27_Guild/Training#Blackjacking",
-    "color": 13118778,
+    "description": "At level 83 Thieving, and with the [Thieves' Guild](http://runescape.wikia.com/wiki/Thieves'_Guild) [capers](http://runescape.wikia.com/wiki/Thieves'_Guild_quest_series) completed, players can [safecrack](http://runescape.wikia.com/wiki/Safecracking) in Kandarin. First, players should speak to the safe-cracking trainer in the Thieves' Guild if they haven't already to receive a [stethoscope](http://runescape.wikia.com/wiki/Stethoscope) and a [small loot bag](http://runescape.wikia.com/wiki/Small_loot_bag), and then begin looting from chests in Kandarin.\n\nThe best route is to start by casting the [Ardougne teleport spell](http://runescape.wikia.com/wiki/Ardougne_Teleport) and then loot the safes upstairs in the two buildings in Ardougne Market, teleport to the Yanille lodestone and loot the two safes within the wall and in the pub, then teleport to Camelot and loot the two safes on the ground floor of the castle. This can provide up to 500,000 experience an hour. At level 90 Thieving, players should begin to incorporate hidden safes into their route, most notably the safes in [Rogues' Castle](http://runescape.wikia.com/wiki/Rogues%27_Castle) in the [Wilderness](http://runescape.wikia.com/wiki/Wilderness). Do not bring any items that you would not want to lose. This can increase experience per hour to up to 700,000.\n\nEnsure that you click on the safe when it flashes blue for quicker experience. When your loot bag is full, turn it in to Chief Thief Robin at the Thieves' Guild for even more experience. You will also receive [Pilfer Points](http://runescape.wikia.com/wiki/Dodgy_Derek%27s_Dirty_Deals#Reward_Shop) which can be exchanged for tool-belt items, larger loot bags and useful Thieving consumables.",
+    "url": "http://runescape.wikia.com/wiki/Safecracking",
+    "color": 12269891,
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
-      "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
+      "text": "Achievement Help | Helping you reach your agoals, whatever they may be!"
+    },
+    "thumbnail": {
+      "url": "https://vignette.wikia.nocookie.net/runescape2/images/2/26/Trader_%28dwarf%29.png/revision/latest/scale-to-width-down/130?cb=20140306223632"
     },
     "image": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/0/04/Safecracking_Kandarin_map.png/revision/latest/scale-to-width-down/180?cb=20180430153142"
-    },
-    "thumbnail": {
-      "url": "http://runescape.wikia.com/wiki/Safecracking"
     },
     "author": {
       "name": "Max Cape Info",
@@ -181,7 +181,7 @@ exports.data = {
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "thumbnail": {
-      "url": "https://vignette.wikia.nocookie.net/runescape2/images/8/80/Silverhawk_boots_detail.png/revision/latest/scale-to-width-down/120?cb=20141007165752"
+      "url": "https://vignette.wikia.nocookie.net/runescape2/images/d/d8/Mg_pyramidplunder.jpg/revision/latest?cb=20080728142300"
     },
     "author": {
       "name": "Max Cape Info",
@@ -341,7 +341,7 @@ exports.data = {
   "daily challenge": {
     "title": "Daily Challenge",
     "url": "http://runescape.wikia.com/wiki/Challenge_System/Thieving",
-    "description": "Completing a daily challenge in Thieving will give Thieving experience, depending on the player's Agility level.",
+    "description": "Completing a daily challenge in Thieving will give Thieving experience, depending on the player's Thieving level.",
         "color": 12269891,
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
@@ -361,7 +361,7 @@ exports.data = {
       }
       ]
   },
-  "permanent boosts": {
+  "permanent boosts pt1": {
     "title": "Permanent Boosts",
     "url": "http://runescape.wikia.com/wiki/Bonus_experience_items",
     "description": "A permanent skill boost is anything caused by an item that permanently raises a player's level in one or more skills. It allows the player to do things above their current level.",
@@ -398,6 +398,29 @@ exports.data = {
         "name": " Standard Camouflage Outfits",
         "value": "• There are three standard camouflage outfits; [Keldagrim](http://runescape.wikia.com/wiki/Keldagrim_camouflage_outfit), [Prifddinas](http://runescape.wikia.com/wiki/Prifddinas_camouflage_outfit) and [Desert](http://runescape.wikia.com/wiki/Desert_camouflage_outfit). Parts can be obtained from Treasure Hunter, or by collecting [camouflage fragments](http://runescape.wikia.com/wiki/Camouflage_fragments) whilst Thieving. These can be made into outfit parts at level 20 [invention](http://runescape.wikia.com/wiki/Invention).\n\n\nWhen wearing a full set, it will give the benefits of the Black Ibis outfit, the Trahaearn exoskeleton set, and the hands will act as Gloves of silence provided you own these items. Wearing a full set of standard camouflage has the following additional benefits:"
       },
+      {
+        "name": "​",
+        "value": "• 5 daily teleports to various thieving locations.\n• 5% chance to double pickpocket.\n• 5% chance to avoid being stunned when pickpocketing.\n• 5% increased chance of not being bitten by snakes in Pyramid Plunder.\n• Increased chance to pass doors in Pyramid Plunder.\n• Increased chances of finding Black Ibis clothing and the [Sceptre of the gods](http://runescape.wikia.com/wiki/Sceptre_of_the_gods) in Pyramid Plunder."
+      }
+      ]
+  },
+  "permanent boosts pt2": {
+    "title": "Permanent Boosts",
+    "url": "http://runescape.wikia.com/wiki/Bonus_experience_items",
+    "description": "A permanent skill boost is anything caused by an item that permanently raises a player's level in one or more skills. It allows the player to do things above their current level.",
+        "color": 12269891,
+    "footer": {
+      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
+    },
+    "thumbnail": {
+      "url": "https://vignette.wikia.nocookie.net/runescape2/images/d/dd/Master_camouflage_outfit_equipped.png/revision/latest/scale-to-width-down/145?cb=20160507011703"
+    },
+    "author": {
+      "name": "Max Cape Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "fields": [
       {
         "name": "​",
         "value": "• 5 daily teleports to various thieving locations.\n• 5% chance to double pickpocket.\n• 5% chance to avoid being stunned when pickpocketing.\n• 5% increased chance of not being bitten by snakes in Pyramid Plunder.\n• Increased chance to pass doors in Pyramid Plunder.\n• Increased chances of finding Black Ibis clothing and the [Sceptre of the gods](http://runescape.wikia.com/wiki/Sceptre_of_the_gods) in Pyramid Plunder."
