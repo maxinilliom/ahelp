@@ -109,7 +109,7 @@ exports.data = {
     }
   },
   "50 - 60": {
-    "title": "Divination Training Levels 60-70",
+    "title": "Divination Training Levels 50-60",
     "description": "At level 60 Divination players should start training at the [Vibrant Wisp Colony](http://runescape.wikia.com/wiki/Vibrant_wisp), just north of Mobilising Armies (A spirit tree is located right next to the colony). Around 40,000 experience an hour may be gained by players who are not using additional purchased energy. Around 53,000 experience an hour may be gained if using additional energy. \n\n If [The Dig Site](http://runescape.wikia.com/wiki/The_Dig_Site) quest has not been completed continue this method until level 70-75",
     "url": "http://runescape.wikia.com/wiki/Divination_training#Vibrant_wisps_.28levels_60.E2.80.9365.29",
     "color": 12269891,
