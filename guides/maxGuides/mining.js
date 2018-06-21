@@ -207,7 +207,7 @@ exports.data = {
       }
       ]
   },
-  "pet - ": {
+  "pet - rocky": {
     "title": "Mining Pet - Rocky",
     "description": "Rocky is the skilling pet obtainable from Mining. He is unlocked by inspecting the [Rocky Pet](http://runescape.wikia.com/wiki/Rocky_pet).",
     "url": "http://runescape.wikia.com/wiki/Rocky",
