@@ -194,7 +194,7 @@ exports.data = {
     },
         "fields": [
       {
-        "name": "Alternative Method: Levels 90-99",
+        "name": "Alternative Method: Levels 90-99+",
         "value": "If the player does not want to spend nearly as much burning elder logs to 99, the next best and cheaper option would be burning [corrupted magic logs](http://runescape.wikia.com/wiki/Corrupted_magic_logs)."
       }
       ]
