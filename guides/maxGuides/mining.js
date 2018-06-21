@@ -155,7 +155,7 @@ exports.data = {
         "value": "The experience from mining alaea crablets can further be bolstered by completing contracts given by [Sojobo](https://runescape.wikia.com/wiki/The_Tengu) on Waiko or via a [contract contact](https://runescape.wikia.com/wiki/Contract_contact) on an uncharted isle. Players may complete up to 3 contracts daily, and may purchase upgrades from [Boni](https://runescape.wikia.com/wiki/Boni) for a maximum of 7 daily contracts. Doing contracts, however, requires chimes to be able to reroll contracts until satisfactory alaea crablet ones are assigned."
       }
         ]
-  }
+  },
   "alternate methods": {
     "title": "Alternative Methods of Training",
     "url": "https://runescape.wikia.com/wiki/Pay-to-play_Mining_training#Alternative_methods_of_gaining_experience",
