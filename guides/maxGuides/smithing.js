@@ -211,7 +211,7 @@ exports.data = {
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "thumbnail": {
-      "url": "https://vignette.wikia.nocookie.net/runescape2/images/8/84/Adamant_bar_detail.png/revision/latest/scale-to-width-down/100?cb=20110217224053"
+      "url": "https://vignette.wikia.nocookie.net/runescape2/images/b/b9/Rune_bar_detail.png/revision/latest/scale-to-width-down/100?cb=20111127231939"
     },
     "author": {
       "name": "Max Cape Info",
