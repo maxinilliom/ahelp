@@ -420,7 +420,7 @@ exports.data = {
         "value": "[Brawling Gloves (WC)](http://runescape.wikia.com/wiki/Brawling_gloves_(WC)\n• A 50% XP boost is given anywhere outside of the Wilderness. However, the buff increases to 300% at level 47 Wilderness, just south of the fence. The gloves last for approximately 832 logs cut, or half of that with a Sacred clay hatchet and will disintegrate afterwards."
       },
       {
-        "name": "​",:joy
+        "name": "​",
         "value": "[Voice of Seren - Crwys](http://runescape.wikia.com/wiki/Voice_of_Seren#Known_effects)\n• 20% more base Woodcutting XP from cutting ivy, magic logs, and yew logs. All bird's nest drops are replaced with crystal geode, though this does not require 94 woodcutting."
       },
       {
