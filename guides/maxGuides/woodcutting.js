@@ -171,7 +171,7 @@ exports.data = {
   "pet - woody": {
     "title": "Woodcutting Pet - Woody",
     "description": "Woody is the skilling pet obtainable from Woodcutting. He is unlocked by inspecting the [Woody Pet](http://runescape.wikia.com/wiki/Woody_pet).",
-    "url": "hhttp://runescape.wikia.com/wiki/Woody",
+    "url": "http://runescape.wikia.com/wiki/Woody",
     "color": 12269891,
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
@@ -420,7 +420,7 @@ exports.data = {
         "value": "[Brawling Gloves (WC)](http://runescape.wikia.com/wiki/Brawling_gloves_(WC)\n• A 50% XP boost is given anywhere outside of the Wilderness. However, the buff increases to 300% at level 47 Wilderness, just south of the fence. The gloves last for approximately 832 logs cut, or half of that with a Sacred clay hatchet and will disintegrate afterwards."
       },
       {
-        "name": "​",
+        "name": "​",:joy
         "value": "[Voice of Seren - Crwys](http://runescape.wikia.com/wiki/Voice_of_Seren#Known_effects)\n• 20% more base Woodcutting XP from cutting ivy, magic logs, and yew logs. All bird's nest drops are replaced with crystal geode, though this does not require 94 woodcutting."
       },
       {
