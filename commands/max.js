@@ -84,10 +84,11 @@ exports.run = async (client, message, [skill, ...args], level) => { // eslint-di
 		keyList.forEach(k => {
 			const first = Number(k.split(" ")[0]);
 			let last = Number(k.split(" ")[2]);
+			const parts = k.split(" ")[3] ? k.split(" ")[3] : "";
 			if (last == "99") last += 1;
-			if (args[0] >= first && args[0] < last && !k.split(" ")[3].includes("pt")) rtnArr.push(k);
-			if (args[0] >= first && args[0] < last && k.split(" ")[3]) {
-				if (k.split(" ")[3].includes("pt")) {
+			if (args[0] >= first && args[0] < last && !parts.includes("pt")) rtnArr.push(k);
+			if (args[0] >= first && args[0] < last && parts !== "") {
+				if (parts.includes("pt")) {
 					const guide = data[k];
 					message.channel.send("", {embed: guide});
 					pt = "true";
@@ -97,8 +98,8 @@ exports.run = async (client, message, [skill, ...args], level) => { // eslint-di
 	} else if (!Number(args[0])) {
 		//string search
 		keyList.forEach(k => {
-			if (RegExp(args[0].toLowerCase()).test(k) && !/pt/.test(k) && !rtnArr.includes(k)) rtnArr.push(k);
-			if (RegExp(args[0].toLowerCase()).test(k) && /pt/.test(k)) {
+			if (RegExp(args[0].toLowerCase()).test(k) && !/\bpt/.test(k) && !rtnArr.includes(k)) rtnArr.push(k);
+			if (RegExp(args[0].toLowerCase()).test(k) && /\bpt/.test(k)) {
 				const guide = data[k];
 				message.channel.send("", {embed: guide});
 				pt = "true";
