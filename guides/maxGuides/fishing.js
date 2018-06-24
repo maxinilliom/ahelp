@@ -50,7 +50,7 @@ exports.data = {
          }
       ]
    },
-  "20 - 70": {  
+  "20 - 70 pt1": {  
       "title":"Fishing Training Levels 20-70",
       "description":"At level 20 Fishing you should start catching [raw trout](https://runescape.wikia.com/wiki/Raw_trout). To catch them, you will need a [fly fishing rod](https://runescape.wikia.com/wiki/Fly_fishing_rod) and [feathers](https://runescape.wikia.com/wiki/Feathers), both of which can be bought at shops that sell fishing supplies (for a full list of all shops that sell fishing supplies, please click [here](https://runescape.wikia.com/wiki/Fishing#Fishing_Supplies)) and from the [Grand Exchange](https://runescape.wikia.com/wiki/Grand_Exchange).\n\n A list of all the fishing locations for raw trout can be found [here](https://runescape.wikia.com/wiki/Raw_trout#Fishing_locations). We recommend the following locations:\n• Immediately East of the [Lumbridge church](https://runescape.wikia.com/wiki/Lumbridge_church), by the [River Lum](https://runescape.wikia.com/wiki/River_Lum)\n• East of [Gunnarsgrunn](https://runescape.wikia.com/wiki/Gunnarsgrunn) (also known as Barbarian Village), which is located South of [Edgeville](https://runescape.wikia.com/wiki/Edgeville), West of [Varrock](https://runescape.wikia.com/wiki/Varrock) and North of [Draynor Village](https://runescape.wikia.com/wiki/Draynor_Village)\n• In [Shilo Village](https://runescape.wikia.com/wiki/Shilo_Village_%28location%29) (after completion of the [Shilo Village quest](https://runescape.wikia.com/wiki/Shilo_Village))\n\n To catch raw trout, you must use the \"lure\" option on the fishing spots, and will give you 50 experience.\n\n At level 30 you will start catching [raw salmon](https://runescape.wikia.com/wiki/Raw_salmon) as well, which will give you 70 experience per fish caught. Raw salmon uses the same supplies as raw trout (fly fishing rod and feathers) and can be caught at the same spots, so you will start catching both of them at the same time.",
       "url":"https://runescape.wikia.com/wiki/Pay-to-play_Fishing_training#Levels_20-70:_fly_fishing",
@@ -74,7 +74,26 @@ exports.data = {
          {  
             "name":"​",
             "value":"A list of all the fishing locations for raw lobsters can be found [here](https://runescape.wikia.com/wiki/Raw_lobster#Fishing_locations). We recommend the following locations:\n• North-east [Karamja](https://runescape.wikia.com/wiki/Karamja) at the docks of [Musa Point](https://runescape.wikia.com/wiki/Musa_Point). You can note your raw lobsters at [Stiles](https://runescape.wikia.com/wiki/Stiles) to the South-west of you to prevent the need to bank\n• On the beach south-east of [Catherby](https://runescape.wikia.com/wiki/Catherby) bank (members only location)\n• In the [Fishing Guild](https://runescape.wikia.com/wiki/Fishing_Guild) once you have reached level 68 fishing"
-         },
+         }
+      ]
+   },
+  "20 - 70 pt2": {  
+      "title":"Fishing Training Levels 20-70",
+      "description":"​",
+      "url":"https://runescape.wikia.com/wiki/Pay-to-play_Fishing_training#Levels_20-70:_fly_fishing",
+      "color":12269891,
+      "footer":{  
+         "icon_url":"https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+         "text":"Achievement Help | Helping you reach your goals, whatever they may be!"
+      },
+      "thumbnail":{  
+         "url":"https://vignette.wikia.nocookie.net/runescape2/images/1/10/Raw_trout_detail.png/revision/latest/scale-to-width-down/100?cb=20111127144107"
+      },
+      "author":{  
+         "name":"Max Cape Info",
+         "icon_url":"https://i.imgur.com/6c6q2iC.png"
+      },
+      "fields":[  
          {  
             "name":"▬▬ Alternative Method: Levels 48-70 ▬▬",
             "value":"Once you reach level 48 Fishing and also have 15 Agility and 35 Strength, you can start [Barbarian fishing](https://runescape.wikia.com/wiki/Barbarian_Fishing). To be able to start, you will need to complete the [Barbarian Training](https://runescape.wikia.com/wiki/Barbarian_Training) up untill the point where you have learned how to fish with a [heavy fishing rod](https://runescape.wikia.com/wiki/Barbarian_rod). With Barbarian fishing, you will catch [leaping trout](https://runescape.wikia.com/wiki/Leaping_trout), giving 50 experience as well as 5 experience in both agility and strength."
@@ -101,7 +120,7 @@ exports.data = {
          }
       ]
    },
-  "70 - 93": {  
+  "70 - 93 pt1": {  
       "title":"Fishing Training Levels 70-93",
       "description":"At level 70 Fishing it is adviced to keep on fly fishing [raw trout](https://runescape.wikia.com/wiki/Raw_trout) and [raw salmon](https://runescape.wikia.com/wiki/Raw_salmon) if you're able to use the [Crystallise](https://runescape.wikia.com/wiki/Crystallise) spell and [Light Form](https://runescape.wikia.com/wiki/Light_Form) prayer. This method requires a [fly fishing rod](https://runescape.wikia.com/wiki/Fly_fishing_rod) and [feathers](https://runescape.wikia.com/wiki/Feathers), both of which can be bought at shops (for a full list of all shops that sell fishing supplies, please click [here](https://runescape.wikia.com/wiki/Fishing#Fishing_Supplies)) and the [Grand Exchange](https://runescape.wikia.com/wiki/Grand_Exchange).\n\nTo be able to use Crystallise and Light Form, you must complete the quest [The Light Within](https://runescape.wikia.com/wiki/The_Light_Within), and have 88 Magic.\n\nBy using Crystallise and Light Form, you will get 87.5% more experience at the cost of preventing resource yield, magic runes and prayer points. Because of the prayer point drain, it is therefor adviced to do this training method at the [River Lum](https://runescape.wikia.com/wiki/River_Lum) while having built the nearby [God Statue](https://runescape.wikia.com/wiki/God_Statues) to recharge your prayer points. The Crystallise spell only lasts for 30 seconds, so you will need to reapply the spell every 30 seconds.",
       "url":"https://runescape.wikia.com/wiki/Pay-to-play_Fishing_training#Levels_70-93:_fly_fishing_with_crystallise",
@@ -129,7 +148,26 @@ exports.data = {
          {  
             "name":"​",
             "value":"A good way to do Barbarian fishing is to bring your heavy fishing rod, a knife and 25 fishing bait or feathers. You start by catching a full inventory of fish, and cutting them into fish offcuts and roe/caviar. If your inventory gets full of offcuts and roe/caviar, drop the fish offcuts and continue fishing using the roe/caviar. When you're out of roe/caviar and your inventory isn't full of fish yet, you can pick up the fish offcuts again and continue fishing until you have a full inventory of fish again. Because fish offcuts are stackable, you may also keep them in your inventory at all times and use them as bait later on if you wish to bank the roe/cavair."
-         },
+         }
+      ]
+   },
+  "70 - 93 pt2": {  
+      "title":"Fishing Training Levels 70-93",
+      "description":"​",
+      "url":"https://runescape.wikia.com/wiki/Pay-to-play_Fishing_training#Levels_70-93:_fly_fishing_with_crystallise",
+      "color":12269891,
+      "footer":{  
+         "icon_url":"https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+         "text":"Achievement Help | Helping you reach your goals, whatever they may be!"
+      },
+      "thumbnail":{  
+         "url":"https://vignette.wikia.nocookie.net/runescape2/images/1/10/Raw_trout_detail.png/revision/latest/scale-to-width-down/100?cb=20111127144107"
+      },
+      "author":{  
+         "name":"Max Cape Info",
+         "icon_url":"https://i.imgur.com/6c6q2iC.png"
+      },
+      "fields":[  
          {  
             "name":"▬▬ Alternative Method: Levels 70-93 ▬▬",
             "value":"Another way to train your Fishing is by catching [raw desert sole](https://runescape.wikia.com/wiki/Raw_desert_sole) (giving 60 experience) and [raw catfish](https://runescape.wikia.com/wiki/Raw_catfish) (giving 85 experience). To catch them, you will need a [fishing rod](https://runescape.wikia.com/wiki/Fishing_rod) and [fishing bait](https://runescape.wikia.com/wiki/Fishing_bait). Both of these items can be bought in all the shops that sell fishing supplies (for a full list of all shops that sell fishing supplies, please click [here](https://runescape.wikia.com/wiki/Fishing#Fishing_Supplies))."
@@ -145,22 +183,6 @@ exports.data = {
          {  
             "name":"▬▬ Alternative Method: Levels 76-93 ▬▬",
             "value":"At level 76, you will be able to catch [raw sharks](https://runescape.wikia.com/wiki/Raw_shark) for 110 experience. Catching sharks is a rather slow way to gain experience but it's a nice way to make profit. Raw sharks can be caught using a [harpoon](https://runescape.wikia.com/wiki/Harpoon), which can be bought in fishing supplies shops (click [here](https://runescape.wikia.com/wiki/Fishing#Fishing_Supplies) for a list of all the shops).\n\nRaw sharks can be caught at numerous places, but the best way to catch them is at the [Fishing Guild](https://runescape.wikia.com/wiki/Fishing_Guild). For a full list of all places where you can catch sharks, click [here](https://runescape.wikia.com/wiki/Harpoon#Sharks).\n\nRemember that this is a slow way of training fishing but makes some nice profit."
-         },
-         {  
-            "name":"▬▬ Alternative Method: Levels 85-93 ▬▬",
-            "value":"Starting from level 85, you will be able to catch [raw cavefish](https://runescape.wikia.com/wiki/Raw_cavefish) for 300 experience per fish you catch. You will need a [fishing rod](https://runescape.wikia.com/wiki/Fishing_rod) and [fishing bait](https://runescape.wikia.com/wiki/Fishing_bait) to catch them, and they can only be caught in the [Living Rock Caverns](https://runescape.wikia.com/wiki/Living_Rock_Caverns) underneath the [Dwarven Mine](https://runescape.wikia.com/wiki/Dwarven_Mine). Catching raw cavefish is a slow way to train fishing but a good way to make profit."
-         },
-         {  
-            "name":"​",
-            "value":"It is recommended to have any of the [shark outfits](https://runescape.wikia.com/wiki/Shark_outfit_%28disambiguation%29) or the [magic golem outfit](https://runescape.wikia.com/wiki/Magic_golem_outfit) to remove the aggression from [living rock creatures](https://runescape.wikia.com/wiki/Living_rock_creatures), which are level 92 and 95 creatures that can hit quite high. Without any of these outfits, you will get attacked by them which will interrupt your fishing and might even cause you to die."
-         },
-         {  
-            "name":"▬▬ Alternative Method: Levels 90-93 ▬▬",
-            "value":"At level 90, you will be able to catch [raw rocktail](https://runescape.wikia.com/wiki/Raw_rocktail), giving you 380 experience. They require a [fishing rod](https://runescape.wikia.com/wiki/Fishing_rod) and [living minerals](https://runescape.wikia.com/wiki/Living_minerals) as bait to catch them. Living minerals can be obtained by killing [living rock creatures](https://runescape.wikia.com/wiki/Living_rock_creatures) and mining their remains, or bought from the [Grand Exchange](https://runescape.wikia.com/wiki/Grand_Exchange). Raw rocktail can only be found in the [Living Rock Caverns](https://runescape.wikia.com/wiki/Living_Rock_Caverns) underneath the [Dwarven Mine](https://runescape.wikia.com/wiki/Dwarven_Mine). Just like raw sharks and raw cavefish, catching raw rocktails is a slow way to train fishing as well (between 40,000 and 45,000 per hour) but a good way to make some profit (between 105 and 120 raw rocktails per hour)."
-         },
-         {  
-            "name":"​",
-            "value":"It is recommended to have any of the [shark outfits](https://runescape.wikia.com/wiki/Shark_outfit_%28disambiguation%29) or the [magic golem outfit](https://runescape.wikia.com/wiki/Magic_golem_outfit) to remove the aggression from [living rock creatures](https://runescape.wikia.com/wiki/Living_rock_creatures), which are level 92 and 95 creatures that can hit quite high. Without any of these outfits, you will get attacked by them which will interrupt your fishing and might even cause you to die."
          },
          {  
             "name":"▬▬ Alternative Method: Levels 91-93 ▬▬",
@@ -207,7 +229,7 @@ exports.data = {
          }
       ]
    },
-   "94 - 99 +": {  
+   "94 - 99 + pt1": {  
       "title":"Fishing Training Levels 94-99+",
       "description":"Once you've reached 94 Fishing, you can start fishing at the [Fishing Frenzy](https://runescape.wikia.com/wiki/Deep_Sea_Fishing#Fishing_frenzy) spots within the [Deep Sea Fishing Hub](https://runescape.wikia.com/wiki/Deep_Sea_Fishing_Hub), which can be accessed by talking to [Goomah](https://runescape.wikia.com/wiki/Goomah) in the [Fishing Guild](https://runescape.wikia.com/wiki/Fishing_Guild). Fishing Frenzy doesn't give you any fish but you can get up to 285,000 experience an hour by using this method. This does require you to pay close attention and click continually because it works with a streak mechanic. Every time you gain experience from Fishing Frenzy, you will need to click again on one of the rapidly moving spots to increase your streak. You can achieve a maximum streak of 200, granting you 20% more experience per catch (you will get 1% extra experience for every 10 streak). Your streak will be halved if you're inactive for 6 seconds, and completely lost if you're inactive for longer than 6 seconds.",
       "url":"https://runescape.wikia.com/wiki/Pay-to-play_Fishing_training#Levels_94-99.2B:_Fishing_Frenzy",
@@ -239,30 +261,11 @@ exports.data = {
          {  
             "name":"​",
             "value":"The jellyfish may occasionally electrify themselves, which will give you debuffs for fishing and might even stun you for 10 seconds. You will need to pay some attention to the spot you're fishing from to prevent this from happening."
-         },
-         {  
-            "name":"▬▬ Alternative Method: Levels 94-99+ ▬▬",
-            "value":"Another alternative would be [Prifddinas Waterfall Fishing](https://runescape.wikia.com/wiki/Prifddinas_Waterfall_Fishing). Just like Fishing Frenzy, this method doesn't give you any fish but it requires a lot less attention and clicking while still giving a decent amount of experience."
-         },
-         {  
-            "name":"​",
-            "value":"The waterfall is located in [Prifddinas](https://runescape.wikia.com/wiki/Prifddinas) (as the name already suggested), so completion of the quest [Plague's End](https://runescape.wikia.com/wiki/Plague%27s_End) is required. Other than that, you also need level 90 Ranged, Agility and Strength to be able to use the grapply shortcut to reach the top of the waterfall. To use the grappe shurtcut, you will need to bring a [mithril grapple](https://runescape.wikia.com/wiki/Mithril_grapple) and a [crossbow](https://runescape.wikia.com/wiki/Crossbow), have an [enhanced grappling hook](https://runescape.wikia.com/wiki/Enhanced_grappling_hook) on your [tool belt](https://runescape.wikia.com/wiki/Tool_belt), or have built the [hidey-hole](https://runescape.wikia.com/wiki/Hidey-hole) at the shortcut."
-         },
-         {  
-            "name":"​",
-            "value":"At level 93 Fishing, you will only be able to catch [small crystal urchins](https://runescape.wikia.com/wiki/Small_crystal_urchin) at the low-level area, giving 310 experience. All the urchins stack so you won't need to bank or empty your inventory to keep on fishing.\n\nAt level 95 Fishing, you will also be able to catch [medium crystal urchins](https://runescape.wikia.com/wiki/Medium_crystal_urchin) (giving 330 experience) and [large crystal urchins](https://runescape.wikia.com/wiki/Large_crystal_urchin) (giving 350 experience) at 97 Fishing.\n\nAll urchins can be used to buy rewards or experience from the [Prifddinas Waterfall Fishing Shop](https://runescape.wikia.com/wiki/Prifddinas_Waterfall_Fishing_Shop), or can be ground into [harmony dust](https://runescape.wikia.com/wiki/Harmony_dust) to be used in [perfect juju fishing potions](https://runescape.wikia.com/wiki/Perfect_juju_fishing_potion)."
-         },
-         {  
-            "name":"▬▬ Alternative Method: Levels 96-99+ ▬▬",
-            "value":"At level 96, you will be able to start catching [raw wobbegong](https://runescape.wikia.com/wiki/Raw_wobbegong) on some [Uncharted Isles](https://runescape.wikia.com/wiki/Uncharted_Isles). Raw wobbegongs can be fished using a [fishing rod](https://runescape.wikia.com/wiki/Fishing_rod), and will give 682.5 experience when caught. Every fishing spot depletes after having caught approximately 100 raw wobbegong, which will take around 30 minutes. Once the fishing spot has been depleted, you can't fish at it anymore until after the reset at 00:00 UTC. You can, however, travel to a different Uncharted Isle, where you can encounter (not all Uncharted Isles have fishing spots) a new fishing spot and start fishing again.\n\nTo travel to a different Uncharted Isle, you will need supplies, which can be bought from [Rosie](https://runescape.wikia.com/wiki/Rosie_%28supplies%29) on [Waiko](https://runescape.wikia.com/wiki/Waiko)."
-         },
-         {  
-            "name":"​",
-            "value":"You can't sell the raw wobbegongs on the [Grand Exchange](https://runescape.wikia.com/wiki/Grand_Exchange), but they can instead be sold for [chimes](https://runescape.wikia.com/wiki/Chimes) to be used within [The Arc](https://runescape.wikia.com/wiki/The_Arc).\n\nYou can get even more experience from fishing raw wobbegong if you combine it with completing [contracts](https://runescape.wikia.com/wiki/Contract) given by [Sojobo (contracts)](https://runescape.wikia.com/wiki/The_Tengu) on [Waiko](https://runescape.wikia.com/wiki/Waiko), [Hubbub (contracts)](https://runescape.wikia.com/wiki/The_Whaler#Whale.27s_Maw) on [Whale's Maw](https://runescape.wikia.com/wiki/Whale%27s_Maw) or via a [Contract contact](https://runescape.wikia.com/wiki/Contract_contact) on an Uncharted Isle."
          }
       ]
    },
-  "alternate methods": {
+   "94 - 99 + pt2": ,
+  "alternate methods pt1": {
       "title":"Alternative Methods of Training",
       "description":"Some users may wish to utilize methods outside of the ones displayed in this channel's guide. To aid in this, the following alternative methods are provided.",
       "url":"https://runescape.wikia.com/wiki/Pay-to-play_Fishing_training#Alternative_methods_of_gaining_experience",
@@ -298,7 +301,26 @@ exports.data = {
          {  
             "name":"​",
             "value":"Note that a player may choose to buy any size XP lamp in a random, Arc related skill for a lower amount of chimes at a 1/11 chance of gaining Fishing experience. Random XP Lamps are generally not worth it if you are trying to gain experience in a specific skill."
-         },
+         }
+      ]
+   },
+   "alternate methods pt2": {
+      "title":"Alternative Methods of Training",
+      "description":"​",
+      "url":"https://runescape.wikia.com/wiki/Pay-to-play_Fishing_training#Alternative_methods_of_gaining_experience",
+      "color":12269891,
+      "footer":{  
+         "icon_url":"https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+         "text":"Achievement Help | Helping you reach your goals, whatever they may be!"
+      },
+      "thumbnail":{  
+         "url":"https://vignette.wikia.nocookie.net/runescape2/images/e/e3/Volatile_clay_harpoon_detail.png/revision/latest/scale-to-width-down/30?cb=20140926111252"
+      },
+      "author":{  
+         "name":"Max Cape Info",
+         "icon_url":"https://i.imgur.com/6c6q2iC.png"
+      },
+      "fields":[  
          {  
             "name":"▬▬ Divine fishing bubbles ▬▬",
             "value":"[Divine fishing bubbles](https://runescape.wikia.com/wiki/Divine_location#Divine_fishing_bubbles) can be an alternative way to train Fishing. Divine locations are items with can be made using the [Divination](https://runescape.wikia.com/wiki/Divination) skill. If you don't have the Divination level to create divine locations, you can still harvest from them if they are placed by another player. A placed divine location lasts approximately 30 seconds before disappearing. Players can gain a limited amount of resources from divine locations per day, with the daily limit resetting at 00:00 UTC each day. A player's daily limit of resources depends on their total level, up to a maximum of 250 resources with a total level of 2,500 or more."
@@ -379,7 +401,7 @@ exports.data = {
          }
       ]
    },
-  "distractions and diversions": {  
+  "distractions and diversions pt1": {  
       "title":"Distractions and Diversions",
       "description":"D&Ds are a subclassification of minigames. However, unlike minigames many D&Ds move around the world to various locations, have a limit on how often they can be played, and only occur at particular times of day.\n\nDistractions and Diversions aim to divert the original intentions of the player in order to provide an interesting distraction from their everyday routines. D&Ds come in many different shapes and sizes; covering Combat, Gathering, Artisan, and Support skills. There are a wide variety of different options available to suit the players choice.",
       "url":"https://runescape.wikia.com/wiki/Distractions_and_Diversions",
@@ -415,7 +437,26 @@ exports.data = {
          {  
             "name":"​",
             "value":"After successfully completing a game of Fishing Trawler players receive rewards by searching the net near Murphy. The trawler will reward players with raw fish, up to and including [raw tiger sharks](https://runescape.wikia.com/wiki/Raw_tiger_shark) which can only be obtained through the minigame. The type of fish received depends on the player's Fishing level. The Trawler-specific tiger sharks require a Fishing level of 95, which is not boostable.\n\nPlayers are also awarded Fishing experience. A player with level 99 Fishing will receive approximately 2-3k Fishing experience per trip. It should be noted that the amount of experience a player gains is equal to 40 percent of the experience they would receive from fishing their total catch by regular methods. For example, each [raw swordfish](https://runescape.wikia.com/wiki/Raw_swordfish) caught in Fishing Trawler will give 40 experience rather than the normal 100."
-         },
+         }
+      ]
+   },
+  "distractions and diversions pt2": {  
+      "title":"Distractions and Diversions",
+      "description":"​",
+      "url":"https://runescape.wikia.com/wiki/Distractions_and_Diversions",
+      "color":12269891,
+      "footer":{  
+         "icon_url":"https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+         "text":"Achievement Help | Helping you reach your goals, whatever they may be!"
+      },
+      "thumbnail":{  
+         "url":"https://vignette.wikia.nocookie.net/runescape2/images/6/62/D%26D_icon.png/revision/latest/scale-to-width-down/100?cb=20140914110639"
+      },
+      "author":{  
+         "name":"Max Cape Info",
+         "icon_url":"https://i.imgur.com/6c6q2iC.png"
+      },
+      "fields":[
          {  
             "name":"Giant Oyster",
             "value":"The [Giant Oyster](https://runescape.wikia.com/wiki/Giant_Oyster) is a monthly Distraction and Diversion requiring only completion of [Beneath Cursed Tides](https://runescape.wikia.com/wiki/Beneath_Cursed_Tides). Traveling to [Tutorial Island](https://runescape.wikia.com/wiki/Tutorial_Island_%28Beneath_Cursed_Tides%29), players can obtain [delicious seaweed](https://runescape.wikia.com/wiki/Delicious_seaweed) and [sea cucumbers](https://runescape.wikia.com/wiki/Sea_cucumber), feeding these to a giant oyster. The following month, players can loot the oyster to receive a reward from the [clue scroll rewards table](https://runescape.wikia.com/wiki/Treasure_Trails/Rewards). Fishing and Farming experience are also awarded while gathering the seaweed and cucumber, and makes for a nice alternative method of gaining experience."
@@ -447,7 +488,7 @@ exports.data = {
          "icon_url":"https://i.imgur.com/6c6q2iC.png"
       }
    },
-  "permanent boosts": {  
+  "permanent boosts pt1": {  
       "title":"Permanent boosts",
       "description":"A permanent skill boost is anything caused by an item that permanently raises a player's level in one or more skills. It allows the player to do things above their current level.",
       "url":"https://runescape.wikia.com/wiki/Bonus_experience_items",
@@ -482,16 +523,35 @@ exports.data = {
          },
          {  
             "name":"Crystal fishing rod",
-            "value":"The [crystal fishing rod](https://runescape.wikia.com/wiki/Crystal_fishing_rod) gives a 5% increase in the chance of catching a fish at fishing spots that require the use of a fishing rod. Players can unlock the ability to create degradable crystal fishing rods by exchanging 3,000 [crystal urchin points](https://runescape.wikia.com/wiki/Crystal_urchin_point) at the [Prifddinas Waterfall Fishing Shop](https://runescape.wikia.com/wiki/Prifddinas_Waterfall_Fishing_Shop). This gives the crystal rod the indirect requirements of 93 fishing, 90 agility, 90 ranged, and 90 strength (all of which are boostable) to create."
+            "value":"The [crystal fishing rod](https://runescape.wikia.com/wiki/Crystal_fishing_rod) gives a 5% increase in the chance of catching a fish at fishing spots that require the use of a fishing rod. Players can unlock the ability to create degradable crystal fishing rods by exchanging 3,000 [crystal urchin points](https://runescape.wikia.com/wiki/Crystal_urchin_point) at the [Prifddinas Waterfall Fishing Shop](https://runescape.wikia.com/wiki/Prifddinas_Waterfall_Fishing_Shop). This gives the crystal rod the indirect requirements of 93 Fishing, 90 Agility, 90 Ranged, and 90 Strength to create."
          },
          {  
             "name":"​",
-            "value":"After obtaining this ability players with level 80 Smithing can create a crystal fishing rod by combining a [crystal tool seed](https://runescape.wikia.com/wiki/Crystal_tool_seed) with 150 [harmonic dust](https://runescape.wikia.com/wiki/Harmonic_dust) through [crystal singing](https://runescape.wikia.com/wiki/Crystal_singing). Alternatively, players can pay [Ilfeen](https://runescape.wikia.com/wiki/Ilfeen), [Eluned](https://runescape.wikia.com/wiki/Eluned), [Islwyn](https://runescape.wikia.com/wiki/Islwyn) or [Rhodri Dail](https://runescape.wikia.com/wiki/Rhodri_Dail) 102,000-510,000 coins to create a crystal fishing rod for them; this does not require harmonic dust."
+            "value":"After obtaining this ability players with level 80 Smithing can create a crystal fishing rod by combining a [crystal tool seed](https://runescape.wikia.com/wiki/Crystal_tool_seed) with 150 [harmonic dust](https://runescape.wikia.com/wiki/Harmonic_dust) through [crystal singing](https://runescape.wikia.com/wiki/Crystal_singing). Alternatively, players can pay [Ilfeen](https://runescape.wikia.com/wiki/Ilfeen), [Eluned](https://runescape.wikia.com/wiki/Eluned), [Islwyn](https://runescape.wikia.com/wiki/Islwyn) or [Rhodri Dail](https://runescape.wikia.com/wiki/Rhodri_Dail) 102,000-510,000 coins to create a crystal fishing rod for them without needing harmonic dust."
          },
          {  
             "name":"​",
             "value":"When first made a crystal fishing rod has 1,000 charges. While fishing outside of Prifddinas 2 charges are consumed each time that the player catches a fish, meaning that the rod can be used to catch 500 fish. 1 charge is used each time that the player catches a fish within Prifddinas, meaning that it can be used to catch 1,000 fish in this area. Upon being degraded the crystal tool seed can be re-enchanted by Ilfeen, Eluned, Islwyn or Rhodri Dail for 102,000-510,000 coins, depending on the number of times that the tool seed has previously been enchanted."
-         },
+         }
+      ]
+   },
+  "permanent boosts pt2": {  
+      "title":"Permanent boosts",
+      "description":"​",
+      "url":"https://runescape.wikia.com/wiki/Bonus_experience_items",
+      "color":12269891,
+      "footer":{  
+         "icon_url":"https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+         "text":"Achievement Help | Helping you reach your goals, whatever they may be!"
+      },
+      "thumbnail":{  
+         "url":"https://vignette.wikia.nocookie.net/runescape2/images/2/2a/Fishing_outfit_equipped.png/revision/latest/scale-to-width-down/100?cb=20130409010837"
+      },
+      "author":{  
+         "name":"Max Cape Info",
+         "icon_url":"https://i.imgur.com/6c6q2iC.png"
+      },
+      "fields":[  
          {  
             "name":"Shark's tooth necklace",
             "value":"The [shark's tooth necklace](https://runescape.wikia.com/wiki/Shark%27s_tooth_necklace) can be obtained after playing the [Fishing Trawler](https://runescape.wikia.com/wiki/Fishing_Trawler) minigame. It can be made by using 5 [Shark teeth](https://runescape.wikia.com/wiki/Shark%27s_tooth) obtained from the minigame, with some [thread](https://runescape.wikia.com/wiki/Thread). A Crafting level of 91 is required to make it, and doing so will give 170 experience."
@@ -514,7 +574,7 @@ exports.data = {
          }
       ]
    },
-  "temporary boosts": {  
+  "temporary boosts pt1": {  
       "title":"Temporary boosts",
       "description":"A temporary skill boost is anything caused by an item, Summoning familiar, or action that temporarily raises a player's level in one or more skills. If the boost is visible, it allows the player to do things above their current level. If the boost is invisible, you won't be able to do things above their current level. However, it is possible to combine a visible and invisible boost, in which case the visible boost will work first, followed by the invisible boost.",
       "url":"https://runescape.wikia.com/wiki/Temporary_skill_boost",
@@ -537,7 +597,7 @@ exports.data = {
          },
          {  
             "name":"​",
-            "value":"[Spicy stew](https://runescape.wikia.com/wiki/Spicy_stew)\n\t•  Boost is applied to a random skill\n\t•  Up to ±6 with 3 spice doses\n\t•  Up to ±3 with 2 spice doses\n\t•  Up to ±1 with 1 spice dose"
+            "value":"[Spicy stew](https://runescape.wikia.com/wiki/Spicy_stew)\n\t•  Boost is applied to a random skill\n\t•  Up to ±5 with 3 spice doses\n\t•  Up to ±3 with 2 spice doses\n\t•  Up to ±1 with 1 spice dose"
          },
          {  
             "name":"​",
@@ -578,7 +638,26 @@ exports.data = {
          {  
             "name":"​",
             "value":"[Squeck juice](https://runescape.wikia.com/wiki/Squeck_juice)\n\t• Skill boost: +1 level\n\t• Severely reduces Cooking"
-         },
+         }
+      ]
+   },
+  "temporary boosts pt2": {  
+      "title":"Temporary boosts",
+      "description":"​",
+      "url":"https://runescape.wikia.com/wiki/Temporary_skill_boost",
+      "color":12269891,
+      "footer":{  
+         "icon_url":"https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+         "text":"Achievement Help | Helping you reach your goals, whatever they may be!"
+      },
+      "thumbnail":{  
+         "url":"https://vignette.wikia.nocookie.net/runescape2/images/7/72/Decorated_fishing_urn_detail.png/revision/latest/scale-to-width-down/100?cb=20141030200349"
+      },
+      "author":{  
+         "name":"Max Cape Info",
+         "icon_url":"https://i.imgur.com/6c6q2iC.png"
+      },
+      "fields":[ 
          {  
             "name":"​",
             "value":"[Granite Crab](https://runescape.wikia.com/wiki/Granite_Crab) familiar\n\t• Invisible skill boost: +1 level\n\t• Forages [raw cod](https://runescape.wikia.com/wiki/Raw_cod), [raw pike](https://runescape.wikia.com/wiki/Raw_pike), [seaweed](https://runescape.wikia.com/wiki/Seaweed) and [oysters](https://runescape.wikia.com/wiki/Oyster) while you're fishing\n\t• Requires 16 Summoning to be summoned"
@@ -597,7 +676,7 @@ exports.data = {
          },
          {  
             "name":"​",
-            "value":"[Granite lobster](https://runescape.wikia.com/wiki/Granite_lobster) familiar\n\t• A 50% XP boost is given anywhere outside of the Wilderness. However, the buff increases up to 300% at level 47 Wilderness, just south of the fence. The gloves last for about 400 fish caught."
+            "value":"[GBrawling gloves (fishing)](https://runescape.wikia.com/wiki/Brawling_gloves_%28Fishing%29)\n\t• A 50% XP boost is given anywhere outside of the Wilderness. However, the buff increases up to 300% at level 47 Wilderness, just south of the fence. The gloves last for about 400 fish caught."
          },
          {  
             "name":"​",
@@ -610,7 +689,26 @@ exports.data = {
          {  
             "name":"​",
             "value":"There are 5 different gloves available:\n\t• [Swordfish gloves](https://runescape.wikia.com/wiki/Swordfish_gloves): 100 extra experience per [raw swordfish](https://runescape.wikia.com/wiki/Raw_swordfish) caught\n\t• [Shark gloves](https://runescape.wikia.com/wiki/Shark_gloves): 100 extra experience per [raw shark](https://runescape.wikia.com/wiki/Raw_shark) caught\n\t• [Monkfish gloves](https://runescape.wikia.com/wiki/Monkfish_gloves): 100 extra experience per [raw monkfish](https://runescape.wikia.com/wiki/Raw_monkfish) caught\n\t• [Cavefish gloves](https://runescape.wikia.com/wiki/Cavefish_gloves): 150 extra experience per [raw cavefish](https://runescape.wikia.com/wiki/Raw_cavefish) caught\n\t• [Rocktail gloves](https://runescape.wikia.com/wiki/Rocktail_gloves): 150 extra experience per [raw rocktail](https://runescape.wikia.com/wiki/Raw_rocktail) caught"
-         },
+         }
+      ]
+   },
+  "temporary boosts pt3": {  
+      "title":"Temporary boosts",
+      "description":"​",
+      "url":"https://runescape.wikia.com/wiki/Temporary_skill_boost",
+      "color":12269891,
+      "footer":{  
+         "icon_url":"https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+         "text":"Achievement Help | Helping you reach your goals, whatever they may be!"
+      },
+      "thumbnail":{  
+         "url":"https://vignette.wikia.nocookie.net/runescape2/images/7/72/Decorated_fishing_urn_detail.png/revision/latest/scale-to-width-down/100?cb=20141030200349"
+      },
+      "author":{  
+         "name":"Max Cape Info",
+         "icon_url":"https://i.imgur.com/6c6q2iC.png"
+      },
+      "fields":[  
          {  
             "name":"​",
             "value":"[Skillchompas](https://runescape.wikia.com/wiki/Pay-to-play_Fishing_training#Skillchompas)\nSkillchompas can be equipped or kept in the inventory while fishing to increase the rate at which fish are caught. They also prevent players from needing to use bait while catching fish. When fishing with skillchompas equipped or held in the inventory, a skillchompa is consumed each time the player's character attempts to fish - even if the action is unsuccessful. If a player successfully gains experience from catching a raw fish while fishing with a skillchompa then they receive an additional 10% of the normal base experience. Each time a fishing attempt is unsuccessful a player gains 5% of the bonus experience that they would have received if the attempt was successful."
