@@ -264,7 +264,45 @@ exports.data = {
          }
       ]
    },
-   "94 - 99 + pt2": ,
+  "94 - 99 + pt2": {  
+      "title":"Fishing Training Levels 94-99+",
+      "description":"​",
+      "url":"https://runescape.wikia.com/wiki/Pay-to-play_Fishing_training#Levels_94-99.2B:_Fishing_Frenzy",
+      "color":12269891,
+      "footer":{  
+         "icon_url":"https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+         "text":"Achievement Help | Helping you reach your goals, whatever they may be!"
+      },
+      "thumbnail":{  
+         "url":"https://vignette.wikia.nocookie.net/runescape2/images/4/47/Fish_%28Fishing_frenzy%29.png/revision/latest/scale-to-width-down/250?cb=20180309143738"
+      },
+      "author":{  
+         "name":"Max Cape Info",
+         "icon_url":"https://i.imgur.com/6c6q2iC.png"
+      },
+      "fields":[  
+         {  
+            "name":"▬▬ Alternative Method: Levels 94-99+ ▬▬",
+            "value":"Another alternative would be [Prifddinas Waterfall Fishing](https://runescape.wikia.com/wiki/Prifddinas_Waterfall_Fishing). Just like Fishing Frenzy, this method doesn't give you any fish but it requires a lot less attention and clicking while still giving a decent amount of experience."
+         },
+         {  
+            "name":"​",
+            "value":"The waterfall is located in [Prifddinas](https://runescape.wikia.com/wiki/Prifddinas) (as the name already suggested), so completion of the quest [Plague's End](https://runescape.wikia.com/wiki/Plague%27s_End) is required. Other than that, you also need level 90 Ranged, Agility and Strength to be able to use the grapply shortcut to reach the top of the waterfall. To use the grappe shurtcut, you will need to bring a [mithril grapple](https://runescape.wikia.com/wiki/Mithril_grapple) and a [crossbow](https://runescape.wikia.com/wiki/Crossbow), have an [enhanced grappling hook](https://runescape.wikia.com/wiki/Enhanced_grappling_hook) on your [tool belt](https://runescape.wikia.com/wiki/Tool_belt), or have built the [hidey-hole](https://runescape.wikia.com/wiki/Hidey-hole) at the shortcut."
+         },
+         {  
+            "name":"​",
+            "value":"At level 93 Fishing, you will only be able to catch [small crystal urchins](https://runescape.wikia.com/wiki/Small_crystal_urchin) at the low-level area, giving 310 experience. All the urchins stack so you won't need to bank or empty your inventory to keep on fishing.\n\nAt level 95 Fishing, you will also be able to catch [medium crystal urchins](https://runescape.wikia.com/wiki/Medium_crystal_urchin) (giving 330 experience) and [large crystal urchins](https://runescape.wikia.com/wiki/Large_crystal_urchin) (giving 350 experience) at 97 Fishing.\n\nAll urchins can be used to buy rewards or experience from the [Prifddinas Waterfall Fishing Shop](https://runescape.wikia.com/wiki/Prifddinas_Waterfall_Fishing_Shop), or can be ground into [harmony dust](https://runescape.wikia.com/wiki/Harmony_dust) to be used in [perfect juju fishing potions](https://runescape.wikia.com/wiki/Perfect_juju_fishing_potion)."
+         },
+         {  
+            "name":"▬▬ Alternative Method: Levels 96-99+ ▬▬",
+            "value":"At level 96, you will be able to start catching [raw wobbegong](https://runescape.wikia.com/wiki/Raw_wobbegong) on some [Uncharted Isles](https://runescape.wikia.com/wiki/Uncharted_Isles). Raw wobbegongs can be fished using a [fishing rod](https://runescape.wikia.com/wiki/Fishing_rod), and will give 682.5 experience when caught. Every fishing spot depletes after having caught approximately 100 raw wobbegong, which will take around 30 minutes. Once the fishing spot has been depleted, you can't fish at it anymore until after the reset at 00:00 UTC. You can, however, travel to a different Uncharted Isle, where you can encounter (not all Uncharted Isles have fishing spots) a new fishing spot and start fishing again.\n\nTo travel to a different Uncharted Isle, you will need supplies, which can be bought from [Rosie](https://runescape.wikia.com/wiki/Rosie_%28supplies%29) on [Waiko](https://runescape.wikia.com/wiki/Waiko)."
+         },
+         {  
+            "name":"​",
+            "value":"You can't sell the raw wobbegongs on the [Grand Exchange](https://runescape.wikia.com/wiki/Grand_Exchange), but they can instead be sold for [chimes](https://runescape.wikia.com/wiki/Chimes) to be used within [The Arc](https://runescape.wikia.com/wiki/The_Arc).\n\nYou can get even more experience from fishing raw wobbegong if you combine it with completing [contracts](https://runescape.wikia.com/wiki/Contract) given by [Sojobo (contracts)](https://runescape.wikia.com/wiki/The_Tengu) on [Waiko](https://runescape.wikia.com/wiki/Waiko), [Hubbub (contracts)](https://runescape.wikia.com/wiki/The_Whaler#Whale.27s_Maw) on [Whale's Maw](https://runescape.wikia.com/wiki/Whale%27s_Maw) or via a [Contract contact](https://runescape.wikia.com/wiki/Contract_contact) on an Uncharted Isle."
+         }
+      ]
+   },
   "alternate methods pt1": {
       "title":"Alternative Methods of Training",
       "description":"Some users may wish to utilize methods outside of the ones displayed in this channel's guide. To aid in this, the following alternative methods are provided.",
