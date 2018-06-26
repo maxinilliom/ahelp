@@ -31,7 +31,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 		let i = 0, o = 0, x = keyList.length;
 		function list() {
 			const guide = data[keyList[o]].embed;
-			guide.author.name = "Comp Cape Info";
+			guide.author.name = "Completionist Cape Info";
 			guide.color = 16316664;
 			guide.timestamp = new Date();
 			message.channel.send("", {embed: guide});
@@ -48,16 +48,29 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 
 	if (args[0].toLowerCase() == "help") {
 		let output = "";
+		let second = "";
 		const helpEmbed = data["help"].embed;
 		keyList.forEach(k => {
-			output += `• ${data[k].embed.title}\n`;
+			if (output.length <= 2000) {
+				output += `• ${data[k].embed.title}\n`;
+			} else {
+				second += `• ${data[k].embed.title}\n`;
+			}
 		});
+
 		helpEmbed.title = "Comprehensive list of all valid Completionst Cape guide commands";
-		helpEmbed.author.name = "Comp Cape Info";
+		helpEmbed.author.name = "Completionist Cape Info";
 		helpEmbed.description = output;
 		helpEmbed.color = 16316664;
 		helpEmbed.timestamp = new Date();
-		return message.channel.send("", {embed: helpEmbed});
+		message.channel.send("", {embed: helpEmbed});
+
+		if (second.length > 0) {
+			helpEmbed.description = second;
+			helpEmbed.timestamp = new Date();
+			message.channel.send("", {embed: helpEmbed});
+		}
+		return;
 	}
 
 	keyList.forEach(k => {
@@ -68,7 +81,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 		return message.channel.send(`No results found for **${args.join(" ")}**.`);
 	} else if (rtnArr.length == 1) {
 		const guide = data[rtnArr[0]].embed;
-		guide.author.name = "Comp Cape Info";
+		guide.author.name = "Completionist Cape Info";
 		guide.color = 16316664;
 		guide.timestamp = new Date();
 		message.channel.send("", {embed: guide});
@@ -81,7 +94,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 			i++;
 		});
 		searchEmbed.title = "All Completionist Cape guide commands matching your search";
-		searchEmbed.author.name = "Comp Cape Info";
+		searchEmbed.author.name = "Completionist Cape Info";
 		searchEmbed.description = output;
 		searchEmbed.color = 16316664;
 		searchEmbed.timestamp = new Date();
@@ -89,7 +102,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 		const response = await client.awaitReply(message, "Which achievement were you searching for? Please enter the corresponding number.");
 		if (isNaN(response) || response > rtnArr.length || response < 1) return message.channel.send("Invalid number specified, search cancelled.");
 		const choice = data[rtnArr[response-1]].embed;
-		choice.author.name = "Comp Cape Info";
+		choice.author.name = "Completionist Cape Info";
 		choice.color = 16316664;
 		choice.timestamp = new Date();
 		return message.channel.send("", {embed: choice});

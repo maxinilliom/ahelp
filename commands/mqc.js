@@ -49,22 +49,30 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 
 	if (args[0].toLowerCase() == "help") {
 		let output = "";
+		let second = "";
 		const helpEmbed = data["help"].embed;
 		keyList.forEach(k => {
-			output += `• ${data[k].embed.title}\n`;
+			if (output.length <= 2000) {
+				output += `• ${data[k].embed.title}\n`;
+			} else {
+				second += `• ${data[k].embed.title}\n`;
+			}
 		});
+
 		helpEmbed.title = "Comprehensive list of all valid Master Quest Cape guide commands";
 		helpEmbed.author.name = "Master Quest Cape Info";
 		helpEmbed.description = output;
 		helpEmbed.color = 8113151;
 		helpEmbed.timestamp = new Date();
-		return message.channel.send("", {embed: helpEmbed});
+		message.channel.send("", {embed: helpEmbed});
+
+		if (second.length > 0) {
+			helpEmbed.description = second;
+			helpEmbed.timestamp = new Date();
+			message.channel.send("", {embed: helpEmbed});
+		}
+		return;
 	}
-/*	args.forEach(a => {
-		keyList.forEach(k => {
-			if (k.includes(a.toLowerCase()) && !rtnArr.includes(k)) rtnArr.push(k);
-		});
-	});*/
 
 	keyList.forEach(k => {
 		if (RegExp(achName).test(k) && !rtnArr.includes(k)) rtnArr.push(k);

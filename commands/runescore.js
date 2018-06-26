@@ -48,16 +48,28 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 
 	if (args[0].toLowerCase() == "help") {
 		let output = "";
+		let second = "";
 		const helpEmbed = data["help"].embed;
 		keyList.forEach(k => {
-			output += `• ${data[k].embed.title}\n`;
+			if (output.length >= 2000) {
+				output += `• ${data[k].embed.title}\n`;
+			} else {
+				second += `• ${data[k].embed.title}\n`;
+			}
 		});
 		helpEmbed.title = "Comprehensive list of all valid RuneScore guide commands";
 		helpEmbed.author.name = "RuneScore Info";
 		helpEmbed.description = output;
 		helpEmbed.color = 2011148;
 		helpEmbed.timestamp = new Date();
-		return message.channel.send("", {embed: helpEmbed});
+		message.channel.send("", {embed: helpEmbed});
+
+		if (second.length > 0) {
+			helpEmbed.description = second;
+			helpEmbed.timestamp = new Date();
+			message.channel.send("", {embed: helpEmbed});
+		}
+		return;
 	}
 
 	keyList.forEach(k => {
