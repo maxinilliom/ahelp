@@ -211,6 +211,23 @@ exports.data = {
      }
     ]
   },
+  "offsetting costs": {
+    "title": "Offsetting Costs",
+    "description": "There are several ways a player can help relieve the costs from tree seeds. These crops are usually ready faster than most trees, and can be done multiple times a day. For a full list of profitable methods, [click here](http://runescape.wikia.com/wiki/Farming_training#Money_making_using_the_Farming_skill).",
+    "url": "http://runescape.wikia.com/wiki/Farming_training#Money_making_using_the_Farming_skill",
+    "color": 12269891,
+    "footer": {
+      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
+    },
+    "thumbnail": {
+      "url": "https://vignette.wikia.nocookie.net/runescape2/images/1/18/Farming.png/revision/latest?cb=20120223124329"
+    },
+    "author": {
+      "name": "Max Cape Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    }
+  },
   "alternate methods": {
     "title": "Alternative Methods of Training",
     "url": "http://runescape.wikia.com/wiki/Farming_training#Alternative_methods_of_gaining_experience",
