@@ -316,7 +316,7 @@ exports.data = {
 			"fields": [
 				{
 					"name": "Requirements:",
-					"value": "• 90 Divination\n\n• Impressing the Locals Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Impressing_the_Locals)"
+					"value": "• 90 Divination\n\n• Impressing the Locals Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Impressing_the_Locals)"
 				}
 			],
 			"footer": {
@@ -340,7 +340,7 @@ exports.data = {
 			"fields": [
 				{
 					"name": "Requirements:",
-					"value": "• Impressing the Locals Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Impressing_the_Locals)"
+					"value": "• Impressing the Locals Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Impressing_the_Locals)"
 				},
 				{
 					"name": "Guide:",
@@ -368,7 +368,7 @@ exports.data = {
 			"fields": [
 				{
 					"name": "Requirements:",
-					"value": "• 90 Woodcutting\n• 90 Fishing\n• 91 Cooking\n\n• Impressing the Locals Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Impressing_the_Locals)\n• Flag Fall miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Flag_Fall)"
+					"value": "• 90 Woodcutting\n• 90 Fishing\n• 91 Cooking\n\n• Impressing the Locals Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Impressing_the_Locals)\n• Flag Fall miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Flag_Fall)"
 				},
 				{
 					"name": "Guide:",
@@ -396,7 +396,7 @@ exports.data = {
 			"fields": [
 				{
 					"name": "Requirements:",
-					"value": "• 90 Slayer\n\n• Impressing the Locals Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Impressing_the_Locals)\n• Flag Fall Miniquest Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Flag_Fall)\n• Head of the Family Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Head_of_the_Family)"
+					"value": "• 90 Slayer\n\n• Impressing the Locals Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Impressing_the_Locals)\n• Flag Fall Miniquest Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Flag_Fall)\n• Head of the Family Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Head_of_the_Family)"
 				},
 				{
 					"name": "Guide:",
@@ -424,7 +424,7 @@ exports.data = {
 			"fields": [
 				{
 					"name": "Requirements:",
-					"value": "• 90 Hunter\n• 91 Crafting\n\n• Impressing the Locals Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Impressing_the_Locals)\n• Flag Fall Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/Flag_Fall)\n• Head of the Family Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/Head_of_the_Family)\n• Spiritual Enlightenment Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Spiritual_Enlightenment)"
+					"value": "• 90 Hunter\n• 91 Crafting\n\n• Impressing the Locals Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Impressing_the_Locals)\n• Flag Fall Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/Flag_Fall)\n• Head of the Family Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/Head_of_the_Family)\n• Spiritual Enlightenment Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Spiritual_Enlightenment)"
 				},
 				{
 					"name": "Guide:",
@@ -452,7 +452,7 @@ exports.data = {
 			"fields": [
 				{
 					"name": "Requirements:",
-					"value": "• 90 Mining\n\n• Impressing the Locals Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Impressing_the_Locals)\n• Flag Fall Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/Flag_Fall)\n• Head of the Family Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/Head_of_the_Family)\n• Spiritual Enlightenment Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Spiritual_Enlightenment)\n• Jed Hunter Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Jed_Hunter)"
+					"value": "• 90 Mining\n\n• Impressing the Locals Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Impressing_the_Locals)\n• Flag Fall Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/Flag_Fall)\n• Head of the Family Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/Head_of_the_Family)\n• Spiritual Enlightenment Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Spiritual_Enlightenment)\n• Jed Hunter Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Jed_Hunter)"
 				},
 				{
 					"name": "Guide:",
@@ -480,7 +480,7 @@ exports.data = {
 			"fields": [
 				{
 					"name": "Requirements:",
-					"value": "• Impressing the Locals Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Impressing_the_Locals)\n• Flag Fall Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/Flag_Fall)\n• Head of the Family Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/Head_of_the_Family)\n• Spiritual Enlightenment Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Spiritual_Enlightenment)\n• Jed Hunter Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Jed_Hunter)"
+					"value": "• Impressing the Locals Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Impressing_the_Locals)\n• Flag Fall Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/Flag_Fall)\n• Head of the Family Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/Head_of_the_Family)\n• Spiritual Enlightenment Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Spiritual_Enlightenment)\n• Jed Hunter Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Jed_Hunter)"
 				},
 				{
 					"name": "Guide:",
@@ -508,7 +508,7 @@ exports.data = {
 			"fields": [
 				{
 					"name": "Requirements:",
-					"value": "• Impressing the Locals Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Impressing_the_Locals)\n• Flag Fall Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/Flag_Fall)\n• Head of the Family Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/Head_of_the_Family)\n• Spiritual Enlightenment Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Spiritual_Enlightenment)\n• Jed Hunter Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Jed_Hunter)\n• Harbinger Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Harbinger)"
+					"value": "• Impressing the Locals Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Impressing_the_Locals)\n• Flag Fall Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/Flag_Fall)\n• Head of the Family Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/Head_of_the_Family)\n• Spiritual Enlightenment Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Spiritual_Enlightenment)\n• Jed Hunter Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Jed_Hunter)\n• Harbinger Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Harbinger)"
 				},
 				{
 					"name": "Guide:",
@@ -536,7 +536,7 @@ exports.data = {
 			"fields": [
 				{
 					"name": "Requirements:",
-					"value": "• Impressing the Locals Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Impressing_the_Locals)\n• Flag Fall Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/Flag_Fall)\n• Head of the Family Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/Head_of_the_Family)\n• Spiritual Enlightenment Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Spiritual_Enlightenment)\n• Jed Hunter Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Jed_Hunter)\n• Harbinger Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Harbinger)\n• Tuai Liet's Own Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Tuai_Leit%27s_Own)"
+					"value": "• Impressing the Locals Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Impressing_the_Locals)\n• Flag Fall Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/Flag_Fall)\n• Head of the Family Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/Head_of_the_Family)\n• Spiritual Enlightenment Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Spiritual_Enlightenment)\n• Jed Hunter Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Jed_Hunter)\n• Harbinger Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Harbinger)\n• Tuai Liet's Own Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Tuai_Leit%27s_Own)"
 				},
 				{
 					"name": "Guide:",
@@ -564,7 +564,7 @@ exports.data = {
 			"fields": [
 				{
 					"name": "Requirements:",
-					"value": "• Impressing the Locals Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Impressing_the_Locals)\n• Flag Fall Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/Flag_Fall)\n• Head of the Family Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/Head_of_the_Family)\n• Spiritual Enlightenment Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Spiritual_Enlightenment)\n• Jed Hunter Miniquest completion | [Runescape Wikia](http://runescape.wikia.com/wiki/Jed_Hunter)\n• Eye for an Eye Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Eye_for_an_Eye)\n• Harbinger Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Harbinger)\n• Tuai Liet's Own Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Tuai_Leit%27s_Own)\n• Ghosts from the Past Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Ghosts_from_the_Past)"
+					"value": "• Impressing the Locals Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Impressing_the_Locals)\n• Flag Fall Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/Flag_Fall)\n• Head of the Family Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/Head_of_the_Family)\n• Spiritual Enlightenment Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Spiritual_Enlightenment)\n• Jed Hunter Miniquest completion | [Runescape Wikia](http://runescape.wikia.com/wiki/Jed_Hunter)\n• Eye for an Eye Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Eye_for_an_Eye)\n• Harbinger Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Harbinger)\n• Tuai Liet's Own Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Tuai_Leit%27s_Own)\n• Ghosts from the Past Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Ghosts_from_the_Past)"
 				},
 				{
 					"name": "Guide:",
@@ -592,7 +592,7 @@ exports.data = {
 			"fields": [
 				{
 					"name": "Requirements:",
-					"value": "• Impressing the Locals Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Impressing_the_Locals)\n• Flag Fall Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/Flag_Fall)\n• Head of the Family Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/Head_of_the_Family)\n• Spiritual Enlightenment Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Spiritual_Enlightenment)\n• Jed Hunter Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Jed_Hunter)\n• Eye for an Eye Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Eye_for_an_Eye)\n• Harbinger Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Harbinger)\n• Tuai Liet's Own Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Tuai_Leit%27s_Own)\n• Ghosts from the Past Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Ghosts_from_the_Past)"
+					"value": "• Impressing the Locals Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Impressing_the_Locals)\n• Flag Fall Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/Flag_Fall)\n• Head of the Family Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/Head_of_the_Family)\n• Spiritual Enlightenment Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Spiritual_Enlightenment)\n• Jed Hunter Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Jed_Hunter)\n• Eye for an Eye Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Eye_for_an_Eye)\n• Harbinger Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Harbinger)\n• Tuai Liet's Own Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Tuai_Leit%27s_Own)\n• Ghosts from the Past Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Ghosts_from_the_Past)"
 				},
 				{
 					"name": "Requirements continued:",
@@ -624,7 +624,7 @@ exports.data = {
 			"fields": [
 				{
 					"name": "Requirements:",
-					"value": "• Impressing the Locals Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Impressing_the_Locals)"
+					"value": "• Impressing the Locals Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Impressing_the_Locals)"
 				}
 			],
 			"footer": {
@@ -648,7 +648,7 @@ exports.data = {
 			"fields": [
 				{
 					"name": "Requirements:",
-					"value": "• Impressing the Locals Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Impressing_the_Locals)"
+					"value": "• Impressing the Locals Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Impressing_the_Locals)"
 				}
 			],
 			"footer": {
@@ -2553,6 +2553,34 @@ exports.data = {
 			}
 		}
 	},
+	"guthix and the chamber of secrets": {
+		"cmds": ["mqc"],
+		"embed": {
+			"title": "Guthix and the Chamber of Secrets",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Guthix and the Chamber of Secrets](http://runescape.wikia.com/wiki/Guthix_and_the_Chamber_of_Secrets) is an achievement that requires the player to learn about Guthix's core memories in the [Hall of Memories](http://runescape.wikia.com/wiki/Hall_of_Memories).\n\nThis can be done filling all the related [memory-storage bots](http://runescape.wikia.com/wiki/Memory-storage_bot_(disambiguation%29) and then reading the memories at [the Archivist](http://runescape.wikia.com/wiki/The_Archivist).\n\nAlternatively it can be completed by catching [Core memory fragments](http://runescape.wikia.com/wiki/Core_memory_fragment) which may spawn randomly in the Hall and then placing them on the six plinths in the Hall. If all 6 plinths are filled out, the memory bud in the centre of the Hall will open into a core memory, and all players will be able to inspect it to read the corresponding core memory to tick it off the list.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• 70 Divination"
+				},
+				{
+					"name": "Guide:",
+					"value": "[Hall of Memories guide | Vyrecraft - YouTube](https://www.youtube.com/watch?v=OfATvxBKzYQ)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 10"
+			}
+		}
+	},
 	"haul comes to templeton": {
 		"cmds": ["mqc"],
 		"embed": {
@@ -2722,6 +2750,30 @@ exports.data = {
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 10"
+			}
+		}
+	},
+	"i know, i was there...": {
+		"cmds": ["mqc"],
+		"embed": {
+			"title": "I know, I was there...",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[I know, I was there...](http://runescape.wikia.com/wiki/I_know%2C_I_was_there...) is an achievement that requires the player to collect books from Bruce and from the furnace in Edgeville.\n\nBruce's bad break is obtained by talking to Bruce in Edgeville after Ritual of the Mahjarrat.\n\nFroggi, the smithy's apprentice is found by inspecting the Edgeville furnace after Ritual of the Mahjarrat.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• Ritual of the Mahjarrat Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Ritual_of_the_Mahjarrat)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 5"
 			}
 		}
 	},
@@ -3962,6 +4014,54 @@ exports.data = {
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 15"
+			}
+		}
+	},
+	"the book of elei": {
+		"cmds": ["mqc"],
+		"embed": {
+			"title": "The Book of Elei",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[The Book of Elei](http://runescape.wikia.com/wiki/The_Book_of_Elei) is an achievement that requires the player to obtain all 22 Acolyte's diary pages to complete Elei's Diary in the [Temple of Aminishi](http://runescape.wikia.com/wiki/Temple_of_Aminishi) in either normal or story mode.\n\n• 7 pages are found in the first room of the Temple.\n• 4 pages are found in the second room of the Temple of which 1 is located on an upper corridor which can only be obtained by using the Telekinetic Grab spell in the normal spellbook.\n• 8 pages are found in the third room of the Temple of which 1 is located below a staircase which can only be obtained by using the Telekinetic Grab spell in the normal spellbook.\n• 3 pages are found in the fourth room of the Temple.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• Impressing the Locals Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Impressing_the_Locals)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 20"
+			}
+		}
+	},
+	"the many hands that write": {
+		"cmds": ["mqc"],
+		"embed": {
+			"title": "The Many Hands That Write",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[The Many Hands That Write](http://runescape.wikia.com/wiki/The_Many_Hands_That_Write) is an achievement that requires the player to obtain the books Crassian Allegiance and Himiko's Vision from bosses in the [Temple of Aminishi](http://runescape.wikia.com/wiki/Temple_of_Aminishi) in either normal or story mode.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• Impressing the Locals Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Impressing_the_Locals)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 20"
 			}
 		}
 	},
