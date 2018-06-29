@@ -3309,30 +3309,6 @@ exports.data = {
 			}
 		}
 	},
-	"looting the demon throne": {
-		"cmds": ["mqc"],
-		"embed": {
-			"title": "Looting the Demon Throne",
-			"author": {
-				"name": "Cape Info",
-				"icon_url": "https://i.imgur.com/6c6q2iC.png"
-			},
-			"description": "[Looting the Demon Throne](http://runescape.wikia.com/wiki/Looting_the_Demon_Throne) is an achievement that requires the player to claim the gems from the throne in [Thammaron's Throne Room](http://runescape.wikia.com/wiki/Thammaron%27s_Throne_Room) after defeating him during or after The Golem.\n\nAt Uzer, go down the stairs to the temple ruins. Go through the double doors to enter Thammaron's throne room.",
-			"thumbnail": {
-				"url": "https://i.imgur.com/Shmagnp.png"
-			},
-			"fields": [
-				{
-					"name": "Requirements:",
-					"value": "• The Golem Quest partial completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Golem)"
-				}
-			],
-			"footer": {
-				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-				"text": "Runescore awarded: 10"
-			}
-		}
-	},
 	"long live the queen": {
 		"cmds": ["comp"],
 		"embed": {
@@ -3361,6 +3337,30 @@ exports.data = {
 			}
 		}
 	},
+	"looting the demon throne": {
+		"cmds": ["mqc"],
+		"embed": {
+			"title": "Looting the Demon Throne",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Looting the Demon Throne](http://runescape.wikia.com/wiki/Looting_the_Demon_Throne) is an achievement that requires the player to claim the gems from the throne in [Thammaron's Throne Room](http://runescape.wikia.com/wiki/Thammaron%27s_Throne_Room) after defeating him during or after The Golem.\n\nAt Uzer, go down the stairs to the temple ruins. Go through the double doors to enter Thammaron's throne room.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• The Golem Quest partial completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Golem)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 10"
+			}
+		}
+	},
 	"lost toys": {
 		"cmds": ["comp"],
 		"embed": {
@@ -3381,6 +3381,30 @@ exports.data = {
 				{
 					"name": "Guide:",
 					"value": "[The Lost Toys Miniquest Guide | Runescape Wiki](http://runescape.wikia.com/wiki/The_Lost_Toys)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 10"
+			}
+		}
+	},
+	"lovingly crafted": {
+		"cmds": ["mqc"],
+		"embed": {
+			"title": "Lovingly Crafted",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Lovingly Crafted](http://runescape.wikia.com/wiki/Lovingly_Crafted) is an achievement that requires the player to obtain and read all 5 horror journals.\n\n• Decaying journal: Guaranteed drop from [Skeletal horror](http://runescape.wikia.com/wiki/Skeletal_horror).\n• Festering journal: Uncommon drop from [Unspeakable horrors](http://runescape.wikia.com/wiki/Unspeakable_horror).\n• Rotten journal: Complete the [Hooded pirate's miniquest](http://runescape.wikia.com/wiki/Hooded_pirate).\n• Pestilent journal: Found north-west of Mos Le'Harmless in a jungle plant.\n• Blasphemous journal: Dirt mound north-east of the wheat field in Mos Le'Harmless after finding and reading the other four journals.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• 58 Slayer\n\n• Cabin Fever Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Cabin_Fever)\n• Fur 'n' Seek Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Fur_%27n%27_Seek/Wish_list)"
 				}
 			],
 			"footer": {
@@ -3425,6 +3449,30 @@ exports.data = {
 			}
 		}
 	},
+	"lurgon's run": {
+		"cmds": ["mqc"],
+		"embed": {
+			"title": "Lurgon's Run",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Lurgon's Run](http://runescape.wikia.com/wiki/Lurgon%27s_Run) is an achievement that requires the player to unlock the [Dorgesh-Kaan trading minigame](http://runescape.wikia.com/wiki/Dorgesh-Kaan_market_trading).\n\nDorgesh-Kaan market trading is an activity that can be played at the market of [Dorgesh-Kaan](http://runescape.wikia.com/wiki/Dorgesh-Kaan). It revolves around selling \"exotic\" surface foods to Dorgeshuun gourmets for a certain price, with some foods being more or less desired than others.\n\nBefore being able to sell foods, you will need to get permission first. This is done by speaking to [Lurgon](http://runescape.wikia.com/wiki/Lurgon), owner of [Dorgesh-Kaan General Supplies](http://runescape.wikia.com/wiki/Dorgesh-Kaan_General_Supplies) - he can be found wandering around the middle of the market.\n\nLurgon will explain the basics of trading and inform you that you will need permission from the [Dorgeshuun Council](http://runescape.wikia.com/wiki/Dorgeshuun_Council) first, with a certain (random) councillor in charge of the marketplace. Find this councillor and ask for permission, which you are granted instantly. Return to Lurgon - you will now be able to sell food to the goblins.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• Death to the Dorgeshuun Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Death_to_the_Dorgeshuun)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 10"
+			}
+		}
+	},
 	"make them bleed": {
 		"cmds": ["comp", "mqc"],
 		"embed": {
@@ -3450,6 +3498,92 @@ exports.data = {
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 20"
+			}
+		}
+	},
+	"many shades of a cure": {
+		"cmds": ["mqc"],
+		"embed": {
+			"title": "Many Shades of a Cure",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Many Shades of a Cure](http://runescape.wikia.com/wiki/Many_Shades_of_a_Cure) is an achievement that requires the player to use a dose of [Serum 208](http://runescape.wikia.com/wiki/Serum_208) on [Razmire Keelgan](http://runescape.wikia.com/wiki/Razmire_Keelgan) and [Ulsquire Shauncy](http://runescape.wikia.com/wiki/Ulsquire_Shauncy) after completion of Shades of Mort'ton.\n\nRazmire Keelgan is located at [Mort'ton](http://runescape.wikia.com/wiki/Mort%27ton) and runs both the general store and the store with building supplies.\n\nUlsquire Shauncy is an afflicted resident of Mort'ton, and a local priest and teacher in the town which was famed for its religious ceremonies. Ulsquire is located in one of the three still-standing houses of Mort'ton, along with a sink acting as the town's only water source.\n\nSerum 208 is a permanent cure for the afflicted villagers of Mort'ton. It is used during the Shades of Mort'ton quest to turn Afflicted NPCs back into normal characters so the player can interact with them.\n\nIt is made by using [Serum 207](http://runescape.wikia.com/wiki/Serum_207) on the sacred flame at the rebuilt temple. Serum 207 is a temporary cure for the afflicted villagers of Mort'ton, who are otherwise incoherent.\n\nA player who has read the Diary of Herbi Flax during the quest Shades of Mort'ton, and has at least 15 Herblore may produce it by adding clean tarromin to a vial of water and then adding Ashes, giving 50 Herblore experience.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• Shades of Mort'ton Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Shades_of_Mort%27ton)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 10"
+			}
+		}
+	},
+	"marmaros and thok letters": {
+		"cmds": ["mqc"],
+		"embed": {
+			"title": "Marmaros and Thok Letters",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Marmaros and Thok Letters](http://runescape.wikia.com/wiki/Marmaros_and_Thok_Letters) is a meta-achievement that requires the player to collect all ten [M. and thok letters](http://runescape.wikia.com/wiki/M._and_thok_letter) within Daemonheim.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "M. and thok letter",
+					"value": "Part 1\nPart 2\nPart 3\nPart 4\nPart 5\nPart 6\nPart 7\nPart 8\nPart 9\nPart 10",
+					"inline": true
+				},
+				{
+					"name": "Found on floors",
+					"value": "Frozen floors 1-5\nFrozen floors 6-11\nAbandoned 1 floors 12-14\nAbandoned 1 floors 15-17\nFurnished floors 18-22\nFurnished floors 23-29\nOccult floors 36-40\nOccult foors 42-47\nWarped floors 48-53\nWarped floors 54-60",
+					"inline": true
+				},
+				{
+					"name": "Requirements:",
+					"value": "• 107 Dungeoneering"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 20"
+			}
+		}
+	},
+	"master bogreman": {
+		"cmds": ["mqc"],
+		"embed": {
+			"title": "Master Bogreman",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Master Bogreman](http://runescape.wikia.com/wiki/Master_Bogreman) is an achievement that requires the player to unlock the ogre bowman hat by killing 30 [Chompy birds](http://runescape.wikia.com/wiki/Chompy_bird).\n\n Chompy birds can only be attacked with the [Ogre composite bow](http://runescape.wikia.com/wiki/Ogre_composite_bow) or [Ogre bow](http://runescape.wikia.com/wiki/Ogre_bow), and [Bloated toads](http://runescape.wikia.com/wiki/Bloated_toad) must be used as bait to catch them. Use a set of [Ogre bellows](http://runescape.wikia.com/wiki/Ogre_bellows) which has been loaded with swamp gas on a [Swamp toad](http://runescape.wikia.com/wiki/Swamp_toad_(creature%29) to get a bloated toad which is placed in the inventory.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• Ogre composite bow **or** Ogre bow\n• Ogre bellows\n• Bloated toads\n\n• Big Chompy Bird Hunting Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Big_Chompy_Bird_Hunting)"
+				},
+				{
+					"name": "Guide:",
+					"value": "[Chompy Bird Hunting guide | redkobe - YouTube](https://www.youtube.com/watch?v=LkYHucFFtkk)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 10"
 			}
 		}
 	},
@@ -3506,6 +3640,54 @@ exports.data = {
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 75"
+			}
+		}
+	},
+	"measure of old": {
+		"cmds": ["mqc"],
+		"embed": {
+			"title": "Measure of Old",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Measure of Old](http://runescape.wikia.com/wiki/Measure_of_Old) is an achievement that requires the player to use [The Measure](http://runescape.wikia.com/wiki/The_Measure) to locate and interact with the four [Elder chronicles](http://runescape.wikia.com/wiki/Elder_chronicle).\n\nElder chronicles are wisps that can be found after Fate of the Gods, using The Measure in the following four different locations:\n\n• Bik's chronicle: near the submerged statue on the far northwest corner of [Entrana](http://runescape.wikia.com/wiki/Entrana).\n• Ful's chronicle: next to the [TzHaar city](http://runescape.wikia.com/wiki/TzHaar_city) entrance on top of [Karamja volcano](http://runescape.wikia.com/wiki/Karamja_volcano).\n• Wen's chronicle: near the [Oracle](http://runescape.wikia.com/wiki/Oracle) on the [Ice Mountain](http://runescape.wikia.com/wiki/Ice_Mountain).\n• Jas' chronicle: by the archaeologist camp in the [Ruins of Ullek](http://runescape.wikia.com/wiki/Ruins_of_Ullek).\n\nAfter capturing them, they award the player with 50,000 Divination experience each, for a total of 200,000.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• Fate of the Gods Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Fate_of_the_Gods)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 10"
+			}
+		}
+	},
+	"meeting your idols": {
+		"cmds": ["mqc"],
+		"embed": {
+			"title": "Meeting your Idols",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Meeting your Idols](http://runescape.wikia.com/wiki/Meeting_your_Idols) is an achievement that requires the player to find the book titled [The End of Gara-Dul](http://runescape.wikia.com/wiki/The_End_of_Gara-Dul). It is found by searching an [Overgrown idol](http://runescape.wikia.com/wiki/Overgrown_idol) on [Karamja](http://runescape.wikia.com/wiki/Karamja).\n\nAn idol can be found south west of the [Ship Yard](http://runescape.wikia.com/wiki/Ship_Yard) entrance and another north of the [Jadinko Lair](http://runescape.wikia.com/wiki/Jadinko_Lair).",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• 81 Woodcutting"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 5"
 			}
 		}
 	},
