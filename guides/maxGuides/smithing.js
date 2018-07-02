@@ -23,7 +23,7 @@ exports.data = {
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     }
   },
-  "1 - 15": {
+  "1 - 15":  {
     "title": "Smithing Training Levels 1-15",
     "description": "Players should begin their Smithing training by making [bronze bars](http://runescape.wikia.com/wiki/Bronze_bar). The fastest experience, and most profitable method is to buy an equal amount of [copper ore](http://runescape.wikia.com/wiki/Copper_ore) and [tin ore](http://runescape.wikia.com/wiki/Tin_ore) from the [Grand Exchange](http://runescape.wikia.com/wiki/Grand_Exchange). Using a [furnace](http://runescape.wikia.com/wiki/Furnace) or [portable forge](http://runescape.wikia.com/wiki/Portable_forge), smelt the ores into bronze bars and then sell these back on the Grand Exchange. The closest furnaces to a bank are in [Edgeville](http://runescape.wikia.com/wiki/Edgeville) and the [Lumbridge Combat Academy](http://runescape.wikia.com/wiki/Combat_Academy).\n\nIt is recommended to have enough money for an initial investment of around 50,000 gold pieces, but it is possible to do this method with under 1,000 gold pieces as starting money. This method of smithing will make a profit.",
     "url": "http://runescape.wikia.com/wiki/Bronze_bar",
@@ -358,7 +358,7 @@ exports.data = {
     "name": "​", 
     "value": "Once the player has looted supplies, they will be [skulled](http://runescape.wikia.com/wiki/Skull_(status) and unable to teleport out of the wilderness. A player can loot up to 25 supplies during each warband and participate up to 3 times a day for a maximum of 75 supplies per day. When the supplies are handed in to [Quercus](http://runescape.wikia.com/wiki/Quercus), he will award experience based on the number of supplies and the player's level in that skill. At level 99, a maximum of 363,862.5 experience can be earned per day." 
     } 
-    ] 
+    ]
   },
   "daily challenge": {
     "title": "Daily Challenge",
@@ -453,7 +453,7 @@ exports.data = {
       },
       {
         "name": "Crystal Hammer",
-        "value": "• The [crystal hammer](http://runescape.wikia.com/wiki/Crystal_hammer) is a degradable item that is made with a [crystal tool seed](http://runescape.wikia.com/wiki/Crystal_tool_seed) and 150 [harmonic dust](http://runescape.wikia.com/wiki/Harmonic_dust) in a process requiring 80 Smithing. Alternatively, [Ilfeen](http://runescape.wikia.com/wiki/Ilfeen), [Eluned](http://runescape.wikia.com/wiki/Eluned), [Islwyn](http://runescape.wikia.com/wiki/Islwyn) or [Rhodri Dail](http://runescape.wikia.com/wiki/Rhodri_Dail) can be paid to turn create the hammer without any harmonic dust or level 80 Smithing. If the scroll of efficiency has been unlocked, the hammer adds an extra 5% chance to its effect. Each activation consumes 3.57% charge, or 1.78% while in [Prifddinas](http://runescape.wikia.com/wiki/Prifddinas). After all charges are used, it reverts back to the crystal tool seed. Accessing this item requires partial completion of the quest [Mourning's End Part I](http://runescape.wikia.com/wiki/Mourning%27s_End_Part_I)."
+        "value": "• The [crystal hammer](http://runescape.wikia.com/wiki/Crystal_hammer) is a degradable item that is made with a [crystal tool seed](http://runescape.wikia.com/wiki/Crystal_tool_seed) and 150 [harmonic dust](http://runescape.wikia.com/wiki/Harmonic_dust) in a process requiring 80 Smithing. Alternatively, [Ilfeen](http://runescape.wikia.com/wiki/Ilfeen), [Eluned](http://runescape.wikia.com/wiki/Eluned), [Islwyn](http://runescape.wikia.com/wiki/Islwyn) or [Rhodri Dail](http://runescape.wikia.com/wiki/Rhodri_Dail) can be paid to turn create the hammer without harmonic dust or level 80 Smithing. If the scroll of efficiency has been unlocked, the hammer adds an extra 5% chance to its effect. Each activation consumes 3.57% charge, or 1.78% while in [Prifddinas](http://runescape.wikia.com/wiki/Prifddinas). After all charges are used, it reverts back to the crystal tool seed. Accessing this item requires partial completion of the quest [Mourning's End Part I](http://runescape.wikia.com/wiki/Mourning%27s_End_Part_I)."
         },
       {
         "name": "Invention Perks",
