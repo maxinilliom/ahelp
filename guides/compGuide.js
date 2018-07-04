@@ -3691,6 +3691,34 @@ exports.data = {
 			}
 		}
 	},
+	"memoirs of a mahjarrat": {
+		"cmds": ["mqc"],
+		"embed": {
+			"title": "Memoirs of a Mahjarrat",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Memoirs of a Mahjarrat](http://runescape.wikia.com/wiki/Memories_of_a_Mahjarrat) is an achievement that requires the player to complete the [Mahjarrat Memories](http://runescape.wikia.com/wiki/Mahjarrat_Memories) miniquest.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• 60 Divination\n\n• Missing, Presumed Death Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Missing,_Presumed_Death)\n• Koschei's Troubles Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Koschei%27s_Troubles)"
+				},
+				{
+					"name": "Guide:",
+					"value": "[Mahjarrat Memories Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Mahjarrat_Memories)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 15"
+			}
+		}
+	},
 	"memories of guthix": {
 		"cmds": ["comp", "mqc"],
 		"embed": {
@@ -3716,6 +3744,112 @@ exports.data = {
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 20"
+			}
+		}
+	},
+	"met het yet?": {
+		"cmds": ["mqc"],
+		"embed": {
+			"title": "Met Het Yet?",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Met Het Yet?](http://runescape.wikia.com/wiki/Met_Het_Yet%3F) is an achievement that requires the player to access the secret [tomb](http://runescape.wikia.com/wiki/Het_tomb) found in the [Duel Arena](http://runescape.wikia.com/wiki/Duel_Arena) after [Our Man in the North](http://runescape.wikia.com/wiki/Our_Man_in_the_North).\n\nThe entrance to it is located behind the Het statue in the centre of the Duel Arena.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• Our Man in the North Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Our_Man_in_the_North)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 5"
+			}
+		}
+	},
+	"milky teeth": {
+		"cmds": ["mqc"],
+		"embed": {
+			"title": "Milky Teeth",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Milky Teeth](http://runescape.wikia.com/wiki/Milky_Teeth) is an achievement that requires the player to claim the tooth creature from the Tooth Fairy by giving her [Kebbit teeth](http://runescape.wikia.com/wiki/Kebbit_teeth), a [Suqah tooth](http://runescape.wikia.com/wiki/Suqah_tooth), an [Old tooth](http://runescape.wikia.com/wiki/Old_tooth), [Monkey dentures](http://runescape.wikia.com/wiki/Monkey_dentures), and a [Human tooth](http://runescape.wikia.com/wiki/Human_tooth).\n\n• Kebbit teeth are dropped from [Sabre-toothed kebbits](http://runescape.wikia.com/wiki/Sabre-toothed_kebbit) after a successful deadfall trapping.\n• The suqah tooth is obtained as a drop from [Suqah](http://runescape.wikia.com/wiki/Suqah).\n• An old tooth can be found while digging at the [Digsite](http://runescape.wikia.com/wiki/Digsite) in the plot in the very northeast corner. To dig, a player must use a trowel on the soil while having a specimen jar and a specimen brush in their inventory. A gardening trowel will not work. The odds of digging up an old tooth are around 1/50.\n• The monkey dentures are a quest item used during the Monkey Madness quest. They are obtained by searching the dark brown crates in the warehouse south of the scimitar stall on Ape Atoll.\n• The human tooth can be found by searching the bunk beds in [Gertrude](http://runescape.wikia.com/wiki/Gertrude)'s house just outside Varrock.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• 51 Hunter\n\n• Fairy Tale III - Orks Rift Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Fairy_Tale_III_-_Battle_at_Ork's_Rift)\n• The Dig Site Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Dig_Site)\n• Monkey Madness Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Monkey_Madness)\n• Lunar Diplomacy Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Lunar_Diplomacy)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 10"
+			}
+		}
+	},
+	"miscellaneous notes": {
+		"cmds": ["mqc"],
+		"embed": {
+			"title": "Miscellaneous Notes",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Miscellaneous Notes](http://runescape.wikia.com/wiki/Miscellaneous_Notes) is a meta-achievement that requires the player to collect the first fifteen [Miscellaneous journals](http://runescape.wikia.com/wiki/Miscellaneous_journals) within Daemonheim.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Journal",
+					"value": "Astea frostweb's journal\nTroll scrawlings\nEnvironmental effects (part 1)\nDivine skinweaver's journal\nHobgoblin scrawlings\nThe price of betrayal\nEquipment requisition receipts\nLexicus runewright's journal\nAmmunition requisition orders\nBellefleur's journal\nTombstone transcription\nArch necrolord request\nBlink's scribblings\nGulega missive\nResource requisition orders",
+					"inline": true
+				},
+				{
+					"name": "Obtained from",
+					"value": "Astea frostweb\nIcy Bones\nLuminescent icefiend\nSkeletal Horde\nHobgoblin Geomancer\nUnholy cursebearer\nRammernaut\nLexicus Runewright\nSagittare\nSkeletal Trio\nGravecreeper\nNecrolord\nBlink\nWarped Gulega\nDreadnaut",
+					"inline": true
+				},
+        {
+					"name": "Requirements:",
+					"value": "• 95 Dungeoneering"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 15"
+			}
+		}
+	},
+	"mixing in ancient circles": {
+		"cmds": ["mqc"],
+		"embed": {
+			"title": "Mixing in Ancient Circles",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Mixing in Ancient Circles](http://runescape.wikia.com/wiki/Mixing_in_Ancient_Circles) is an achievement that requires the player to restore the [Fairy ring](http://runescape.wikia.com/wiki/Fairy_ring) in the [Ancient Cavern](http://runescape.wikia.com/wiki/Ancient_Cavern) by planting 5 [Bittercap mushrooms](http://runescape.wikia.com/wiki/Bittercap_mushroom).\n\nThe Ancient Cavern is an area reached from the whirlpool near [Otto Godblessed](http://runescape.wikia.com/wiki/Otto_Godblessed)'s house. Players must dive into the whirlpool to enter the cavern.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+        {
+					"name": "Requirements:",
+					"value": "• 35 Firemaking\n\n• Barbarian Firemaking Training partial completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Barbarian_Firemaking)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 10"
 			}
 		}
 	},
