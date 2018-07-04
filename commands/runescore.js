@@ -20,7 +20,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 	const keyList = [];
 	const rtnArr = [];
 
-	if (message.channel.id !== '412093714522046465' && level < 2) return;
+	if (message.channel.id !== '407919969712603145' && level < 2) return;
 
 	Object.getOwnPropertyNames(data).forEach(k => {
 		if (data[k].cmds.includes("rs")) keyList.push(k);
