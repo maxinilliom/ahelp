@@ -3815,7 +3815,7 @@ exports.data = {
 				},
 				{
 					"name": "Obtained from",
-					"value": "Astea frostweb\nIcy Bones\nLuminescent icefiend\nSkeletal Horde\nHobgoblin Geomancer\nUnholy cursebearer\nRammernaut\nLexicus Runewright\nSagittare\nSkeletal Trio\nGravecreeper\nNecrolord\nBlink\nWarped Gulega\nDreadnaut",
+					"value": "[Astea frostweb](http://runescape.wikia.com/wiki/Astea_frostweb)\n[Icy Bones](http://runescape.wikia.com/wiki/Icy_Bones)\n[Luminescent icefiend](http://runescape.wikia.com/wiki/Luminescent_icefiend)\n[Skeletal Horde](http://runescape.wikia.com/wiki/Skeletal_Horde)\n[Hobgoblin Geomancer](http://runescape.wikia.com/wiki/Hobgoblin_Geomancer)\n[Unholy cursebearer](http://runescape.wikia.com/wiki/Unholy_cursebearer)\n[Rammernaut](http://runescape.wikia.com/wiki/Rammernaut)\n[Lexicus Runewright](http://runescape.wikia.com/wiki/Lexicus_Runewright)\n[Sagittare](http://runescape.wikia.com/wiki/Sagittare)\n[Skeletal Trio](http://runescape.wikia.com/wiki/Skeletal_Trio)\n[Gravecreeper](http://runescape.wikia.com/wiki/Gravecreeper)\n[Necrolord](http://runescape.wikia.com/wiki/Necrolord)\n[Blink](http://runescape.wikia.com/wiki/Blink)\n[Warped Gulega](http://runescape.wikia.com/wiki/Warped_Gulega)\n[Dreadnaut](http://runescape.wikia.com/wiki/Dreadnaut)",
 					"inline": true
 				},
         {
@@ -3882,6 +3882,30 @@ exports.data = {
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 50"
+			}
+		}
+	},
+	"my adze is bigger than yours": {
+		"cmds": ["mqc"],
+		"embed": {
+			"title": "My Adze is Bigger than Yours",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[My Adze is Bigger than Yours](http://runescape.wikia.com/wiki/My_Adze_is_Bigger_than_Yours) is an achievement that requires the player to speak to [King Roald](http://runescape.wikia.com/wiki/King_Roald) with the [Inferno adze](http://runescape.wikia.com/wiki/Inferno_adze) equipped.\n\nKing Roald Remanis III, more commonly known simply as King Roald, is the current ruler of the prosperous kingdom of Misthalin. His residence is within [Varrock Palace](http://runescape.wikia.com/wiki/Varrock_Palace), where the Varrock Palace Secret Guard work to keep him safe. He is located in the south-east side of the Palace on the ground floor.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+        {
+					"name": "Requirements:",
+					"value": "• 92 Firemaking\n• 64 Agility\n• 59 Construction\n• 70 Smithing\n• 60 Crafting\n• 31 Prayer\n\n• All Fired Up Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/All_Fired_Up)\n• Land of the Goblins Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Land_of_the_Goblins)\n• Troll Stronghold Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Troll_Stronghold)\n\n• Inferno adze"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 25"
 			}
 		}
 	},
