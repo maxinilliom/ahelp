@@ -229,7 +229,7 @@ exports.data = {
     "fields": [
       {
         "name": "Methods to Obtain",
-        "value": "• Regular pickpocketing\n• Elf pickpocketing\n• Stalls\n• Chests\n• Pyramid Plunder chests\n• Monkey knife fighters\n• Lockpicking\n• Safecracking"
+        "value": "• Regular pickpocketing\n• Elf pickpocketing\n• Stalls\n• Chests\n• Pyramid Plunder chests\n• Monkey knife fighters\n• Lockpicking\n• Safecracking\n• Shifting Tombs with the Apmeken statue activated"
       },
       {
         "name": "Best Method",
