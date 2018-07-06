@@ -284,7 +284,7 @@ exports.data = {
       "fields":[  
          {  
             "name":"Methods to obtain",
-            "value":"• Cremating Vyre Corpses (50% more experiencer with Morytania Legs 4)\n• Cremating Vyres with the Sunspear (50% more experiencer with Morytania Legs 4)\n• Ectofunctus with bones\n• Ectofunctus with ashes\n• Burying Bones\n• Scattering Ashes\n• Bonecrusher during combat\n• Attuned Ectoplasmator during combat\n• Cleansing Crystals\n• Skeletal Horror\n• Blessing Spirit Shields\n• Nemi Forrest"
+            "value":"• Cremating Vyre Corpses (50% more experiencer with Morytania Legs 4)\n• Cremating Vyres with the Sunspear (50% more experiencer with Morytania Legs 4)\n• Ectofunctus with bones\n• Ectofunctus with ashes\n• Burying Bones\n• Scattering Ashes\n• Bonecrusher during combat\n• Attuned Ectoplasmator during combat\n• Cleansing Crystals\n• Skeletal Horror\n• Blessing Spirit Shields\n• Nemi Forrest\n• Shifting Tombs with the Scabaras brazier lit"
          },
          {  
             "name":"Best method",
