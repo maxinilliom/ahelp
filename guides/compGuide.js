@@ -113,6 +113,30 @@ exports.data = {
 			}
 		}
 	},
+	"agile from head to toe": {
+		"cmds": ["trim"],
+		"embed": {
+            "title": "Agile from Head to Toe",
+            "author": {
+                "name": "Trimmed Completionist Cape Info",
+                "icon_url": "https://i.imgur.com/6c6q2iC.png"
+            },
+            "description": "[Agile from Head to Toe](https://runescape.wikia.com/wiki/Agile_from_Head_to_Toe) is an achievement that requires the player to get the [Agile Top](https://runescape.wikia.com/wiki/Agile_top) and [Legs](https://runescape.wikia.com/wiki/Agile_legs). They each require 250 completed laps of the [Advanced Barbarian Outpost](https://runescape.wikia.com/wiki/Barbarian_Outpost) and [Advanced Gnome Stronghold](https://runescape.wikia.com/wiki/Gnome_Stronghold_Agility_Course) agility course respectively.",
+            "thumbnail": {
+                "url": "https://i.imgur.com/Shmagnp.png"
+            },
+            "fields": [
+                {
+                    "name": "Requirements:",
+                    "value": "• 90 Agility"
+                }
+            ],
+            "footer": {
+                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+                "text": "Runescore awarded: 20"
+            }
+        }
+	},
 	"ali the trader": {
 		"cmds": ["mqc"],
 		"embed": {
@@ -301,6 +325,30 @@ exports.data = {
 			}
 		}
 	},
+	"arc - all your energies": {
+		"cmds": ["trim"],
+		"embed": {
+            "title": "Arc - All Your Energies",
+            "author": {
+                "name": "Cape Info",
+                "icon_url": "https://i.imgur.com/6c6q2iC.png"
+            },
+            "description": "[Arc - All Your Energies](http://runescape.wikia.com/wiki/Arc_-_All_Your_Energies) is an achievement that requires the player to unlock the [energy-gathering scrimshaw](https://runescape.wikia.com/wiki/Energy-gathering_scrimshaw) from the [Waiko Reward Shop](https://runescape.wikia.com/wiki/Waiko_Reward_Shop) for 5,000 [chimes](https://runescape.wikia.com/wiki/Chimes) and 5 [taijitu](https://runescape.wikia.com/wiki/Taijitu).",
+            "thumbnail": {
+                "url": "https://i.imgur.com/Shmagnp.png"
+            },
+            "fields": [
+                {
+                    "name": "Requirements:",
+                    "value": "• Impressing the Locals Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Impressing_the_Locals)"
+                }
+            ],
+            "footer": {
+                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+                "text": "Runescore awarded: 10"
+            }
+        }
+	},
 	"arc - ancient eastern tortle portles": {
 		"cmds": ["comp"],
 		"embed": {
@@ -324,6 +372,154 @@ exports.data = {
 				"text": "Runescore awarded: 10"
 			}
 		}
+	},
+	"arc - bone to pick with you": {
+		"cmds": ["trim"],
+		"embed": {
+            "title": "Arc - Bone To Pick With You",
+            "author": {
+                "name": "Cape Info",
+                "icon_url": "https://i.imgur.com/6c6q2iC.png"
+            },
+            "description": "[Arc - Bone To Pick With You](http://runescape.wikia.com/wiki/Arc_-_Bone_To_Pick_With_You) is an achievement that requires the player to unlock the upgrade for the [bonecrusher](https://runescape.wikia.com/wiki/Bonecrusher) from the [Waiko Reward Shop](https://runescape.wikia.com/wiki/Waiko_Reward_Shop) for 25,000 [chimes](https://runescape.wikia.com/wiki/Chimes) and 25 [taijitu](https://runescape.wikia.com/wiki/Taijitu).",
+            "thumbnail": {
+                "url": "https://i.imgur.com/Shmagnp.png"
+            },
+            "fields": [
+                {
+                    "name": "Requirements:",
+                    "value": "• 25 Dungeoneering \n\n• Impressing the Locals Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Impressing_the_Locals)\n• Own a bonecrusher from the [Dungeoneering Reward Shop](https://runescape.wikia.com/wiki/Marmaros)"
+                }
+            ],
+            "footer": {
+                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+                "text": "Runescore awarded: 10"
+            }
+        }
+	},
+	"arc - don't crush my memories": {
+		"cmds": ["trim"],
+		"embed": {
+            "title": "Arc - Don't Crush my Memories",
+            "author": {
+                "name": "Cape Info",
+                "icon_url": "https://i.imgur.com/6c6q2iC.png"
+            },
+            "description": "[Arc - Don't Crush my Memories](https://runescape.wikia.com/wiki/Arc_-_Don%27t_Crush_my_Memories) is an achievement that requires the player to unlock the [memory-crushing scrimshaw](https://runescape.wikia.com/wiki/Memory-crushing_scrimshaw) from the [Waiko Reward Shop](https://runescape.wikia.com/wiki/Waiko_Reward_Shop) for 5,000 [chimes](https://runescape.wikia.com/wiki/Chimes) and 5 [taijitu](https://runescape.wikia.com/wiki/Taijitu).",
+            "thumbnail": {
+                "url": "https://i.imgur.com/Shmagnp.png"
+            },
+            "fields": [
+                {
+                    "name": "Requirements:",
+                    "value": "• Impressing the Locals Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Impressing_the_Locals)"
+                }
+            ],
+            "footer": {
+                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+                "text": "Runescore awarded: 10"
+            }
+        }
+	},
+	"arc - mitts and waders - death lotus": {
+		"cmds": ["trim"],
+		"embed": {
+            "title": "Arc - Mitts and Waders - Death Lotus",
+            "author": {
+                "name": "Cape Info",
+                "icon_url": "https://i.imgur.com/6c6q2iC.png"
+            },
+            "description": "[Arc - Mitts and Waders - Death Lotus](https://runescape.wikia.com/wiki/Arc_-_Mitts_and_Waders_-_Death_Lotus) is an achievement that requires the player to buy the [Superior Death Lotus Tekoh](https://runescape.wikia.com/wiki/Superior_Death_Lotus_tekoh) and [Superior Death Lotus Tabi](https://runescape.wikia.com/wiki/Superior_Death_Lotus_tabi) scrolls from the [Waiko Reward Shop](https://runescape.wikia.com/wiki/Waiko_Reward_Shop), both costing 2,500 [chimes](https://runescape.wikia.com/wiki/Chimes) and 3 [taijitu](https://runescape.wikia.com/wiki/Taijitu).",
+            "thumbnail": {
+                "url": "https://i.imgur.com/Shmagnp.png"
+            },
+            "fields": [
+                {
+                    "name": "Requirements:",
+                    "value": "• Impressing the Locals Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Impressing_the_Locals)\n• Unlock the scrolls for the [Death Lotus](https://runescape.wikia.com/wiki/Death_Lotus_equipment) hood, chestplate, and chaps in the [Player-owned port](https://runescape.wikia.com/wiki/Player-owned_port)."
+                }
+            ],
+            "footer": {
+                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+                "text": "Runescore awarded: 15"
+            }
+        }
+	},
+	"arc - mitts and waders - seasinger": {
+		"cmds": ["trim"],
+		"embed": {
+            "title": "Arc - Mitts and Waders - Seasinger",
+            "author": {
+                "name": "Cape Info",
+                "icon_url": "https://i.imgur.com/6c6q2iC.png"
+            },
+            "description": "[Arc - Mitts and Waders - Seasinger](http://runescape.wikia.com/wiki/Arc_-_Mitts_and_Waders_-_Seasinger) is an achievement that requires the player to buy the [Superior Seasinger Asari](https://runescape.wikia.com/wiki/Superior_seasinger_asari) and [Superior Seasinger Aonori](https://runescape.wikia.com/wiki/Superior_seasinger_aonori) scrolls from the [Waiko Reward Shop](https://runescape.wikia.com/wiki/Waiko_Reward_Shop), both costing 2,500 [chimes](https://runescape.wikia.com/wiki/Chimes) and 3 [taijitu](https://runescape.wikia.com/wiki/Taijitu).",
+            "thumbnail": {
+                "url": "https://i.imgur.com/Shmagnp.png"
+            },
+            "fields": [
+                {
+                    "name": "Requirements:",
+                    "value": "• Impressing the Locals Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Impressing_the_Locals)\n• Unlock the scrolls for the [Seasinger](https://runescape.wikia.com/wiki/Seasinger's_equipment) hood, robe top, and robe bottom in the [Player-owned port](https://runescape.wikia.com/wiki/Player-owned_port)."
+                }
+            ],
+            "footer": {
+                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+                "text": "Runescore awarded: 15"
+            }
+        }
+	},
+	"arc - mitts and waders - tetsu": {
+		"cmds": ["trim"],
+		"embed": {
+            "title": "Arc - Mitts and Waders - Tetsu",
+            "author": {
+                "name": "Cape Info",
+                "icon_url": "https://i.imgur.com/6c6q2iC.png"
+            },
+            "description": "[Arc - Mitts and Waders - Tetsu](http://runescape.wikia.com/wiki/Arc_-_Mitts_and_Waders_-_Tetsu) is an achievement that requires the player to buy the [Superior Tetsu Kogake](https://runescape.wikia.com/wiki/Superior_tetsu_kogake) and [Superior Tetsu Kote](https://runescape.wikia.com/wiki/Superior_tetsu_kote) scrolls from the [Waiko Reward Shop](https://runescape.wikia.com/wiki/Waiko_Reward_Shop), both costing 2,500 [chimes](https://runescape.wikia.com/wiki/Chimes) and 3 [taijitu](https://runescape.wikia.com/wiki/Taijitu).",
+            "thumbnail": {
+                "url": "https://i.imgur.com/Shmagnp.png"
+            },
+            "fields": [
+                {
+                    "name": "Requirements:",
+                    "value": "• Impressing the Locals Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Impressing_the_Locals)\n• Unlock the scrolls for the [Tetsu](https://runescape.wikia.com/wiki/Tetsu_equipment) helm, body, and platelegs in the [Player-owned port](https://runescape.wikia.com/wiki/Player-owned_port)."
+                }
+            ],
+            "footer": {
+                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+                "text": "Runescore awarded: 15"
+            }
+        }
+	},
+	"barbarian scavenger": {
+		"cmds": ["trim"],
+		"embed": {
+            "title": "Barbarian Scavenger",
+            "author": {
+                "name": "Cape Info",
+                "icon_url": "https://i.imgur.com/6c6q2iC.png"
+            },
+            "description": "[Barbarian Scavenger](https://runescape.wikia.com/wiki/Barbarian_Scavenger) is an achievement that requires the player to find all 26 [ancient pages](https://runescape.wikia.com/wiki/Ancient_page) dropped by monster inside the [ancient cavern](https://runescape.wikia.com/wiki/Ancient_Cavern). They are part of the book [My notes](https://runescape.wikia.com/wiki/My_notes). Duplicate pages may still be obtained before completion of My notes if rummaging barbarian skeletons. Because they are uncommon drops, My notes will take several hours to complete.",
+            "thumbnail": {
+                "url": "https://i.imgur.com/Shmagnp.png"
+            },
+            "fields": [
+                {
+                    "name": "Requirements:",
+                    "value": "• Access to the [Ancient Cavern](http://runescape.wikia.com/wiki/Ancient_Cavern)"
+                },
+                {
+                    "name": "Guide:",
+                    "value": "[Ancient Pages - Trim Comp Mini-Guides | Charis - YouTube](https://www.youtube.com/watch?v=A3hzA8ToS4E)"
+                }
+            ],
+            "footer": {
+                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+                "text": "Runescore awarded: 30"
+            }
+        }
 	},
 	"arc i - flag fall": {
 		"cmds": ["comp", "mqc"],
@@ -1265,6 +1461,34 @@ exports.data = {
 			}
 		}
 	},
+	"champions, what champions?": {
+		"cmds": ["trim"],
+		"embed": {
+            "title": "Champions, What Champions?",
+            "author": {
+                "name": "Cape Info",
+                "icon_url": "https://i.imgur.com/6c6q2iC.png"
+            },
+            "description": "[Champions, What Champions?](https://runescape.wikia.com/wiki/Champions,_What_Champions%3F) is an achievement that requires the player to defeat all 15 [champions](https://runescape.wikia.com/wiki/Champions%27_Challenge) after finding their respective [scroll](https://runescape.wikia.com/wiki/Champion%27s_scroll).",
+            "thumbnail": {
+                "url": "https://i.imgur.com/Shmagnp.png"
+            },
+            "fields": [
+                {
+                    "name": "Requirements:",
+                    "value": "• 60 Slayer Slayer\n\n• 33 Quest Points for access to the [Champions' Guild](https://runescape.wikia.com/wiki/Champions%27_Guild)"
+                },
+                {
+                    "name": "Guide:",
+                    "value": "[Trimmed Completionist Guides - Champion Scrolls! | Teh Proez - YouTube](https://www.youtube.com/watch?v=m_0486aC1gA)\n\n\t• Some of these methods are semi outdated due to the release of the personally owned dungeons (PODS) for slayer.\n\t• Check this spreadsheet supplied by Slayer Dungs FC for [Player Owned Dungeons locations](https://docs.google.com/spreadsheets/d/1NibABxK2xciVmIeuZ2gGEBZPe9NIoi7skprEiEuGBc0/edit#gid=516613908)\n\t• You can use the 99 or 120 [Dungeoneering capes]( https://runescape.wikia.com/wiki/Dungeoneering_cape) instead of [hoardstalker ring]( https://runescape.wikia.com/wiki/Hoardstalker_ring) as their effect works the same."
+                }
+            ],
+            "footer": {
+                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+                "text": "Runescore awarded: 75"
+            }
+        }
+	},
 	"chilling with arrav": {
 		"cmds": ["mqc"],
 		"embed": {
@@ -1385,6 +1609,34 @@ exports.data = {
 			}
 		}
 	},
+	"chompy massacre": {
+		"cmds": ["trim"],
+		"embed": {
+            "title": "Chompy Massacre",
+            "author": {
+                "name": "Cape Info",
+                "icon_url": "https://i.imgur.com/6c6q2iC.png"
+            },
+            "description": "[Chompy Massacre](http://runescape.wikia.com/wiki/Chompy_Massacre) requires the player to kill 4,000 [chompy birds](https://runescape.wikia.com/wiki/Chompy_bird). They can only be attacked with the [ogre composite bow](https://runescape.wikia.com/wiki/Comp_ogre_bow) or [ogre bow](https://runescape.wikia.com/wiki/Ogre_bow), and [bloated toads](https://runescape.wikia.com/wiki/Bloated_toad) must be used as bait to catch them. Use a [ogre bellows](https://runescape.wikia.com/wiki/Ogre_bellows) which has been loaded with swamp gas on a [swamp toad](https://runescape.wikia.com/wiki/Swamp_toad_(creature) to get a bloated toad which is placed in the inventory. Player's with 70 Invention have the option to utilize an [Oldak coil](https://runescape.wikia.com/wiki/Oldak_coil) to help speed up their kills per hour. This method still requires an orge composite bow or bow be equipped.",
+            "thumbnail": {
+                "url": "https://i.imgur.com/Shmagnp.png"
+            },
+            "fields": [
+                {
+                    "name": "Requirements:",
+                    "value": "• 70 Invention (Optional)\n\n• Big Chompy Bird Hunting Quest completion | [Runescape Wiki](https://runescape.wikia.com/wiki/Big_Chompy_Bird_Hunting)"
+                },
+                {
+                    "name": "Guide:",
+                    "value": "[2017 Chompy Bird Hunting Guide 250 kills/hr w/ Oldak Coil | RS3 | Redkobe - YouTube](https://www.youtube.com/watch?v=LkYHucFFtkk)"
+                }
+            ],
+            "footer": {
+                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+                "text": "Runescore awarded: 50"
+            }
+        }
+	},
 	"circus of fire": {
 		"cmds": ["mqc"],
 		"embed": {
@@ -1432,6 +1684,30 @@ exports.data = {
 				"text": "Runescore awarded: 10"
 			}
 		}
+	},
+	"class crown": {
+		"cmds": ["trim"],
+		"embed": {
+            "title": "Class Crown",
+            "author": {
+                "name": "Cape Info",
+                "icon_url": "https://i.imgur.com/6c6q2iC.png"
+            },
+            "description": "[Class Crown](https://runescape.wikia.com/wiki/Class_Crown) is an achievement that requires the player to gain tier 10 [reputation](https://runescape.wikia.com/wiki/Menaphos/Reputation) in the Imperial district of [Menaphos](https://runescape.wikia.com/wiki/Menaphos). You can use `soulobby` fc to find [Soul Obelisks](https://runescape.wikia.com/wiki/Soul_obelisk_(Menaphos) and [Corrupted Scarabs](https://runescape.wikia.com/wiki/Corrupted_scarab) easily. You can gain 20,000 reputatation per day from Soul Obelisks and a varied amount from Corrupted Scarabs daily. You will be able to finish this requirment within two weeks utilizing this method as a daily.",
+            "thumbnail": {
+                "url": "https://i.imgur.com/Shmagnp.png"
+            },
+            "fields": [
+                {
+                    "name": "Requirements:",
+                    "value": "• The Jack of Spades Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Jack_of_Spades)"
+                }
+            ],
+            "footer": {
+                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+                "text": "Runescore awarded: 40"
+            }
+        }
 	},
 	"claus is rising": {
 		"cmds": ["comp", "mqc"],
@@ -1532,6 +1808,58 @@ exports.data = {
 				"text": "Runescore awarded: 40"
 			}
 		}
+	},
+	"completionist cape": {
+		"cmds": ["trim"],
+		"embed": {
+            "title": "Completionist Cape (achievement)",
+            "author": {
+                "name": "Cape Info",
+                "icon_url": "https://i.imgur.com/6c6q2iC.png"
+            },
+            "description": "[Completionist Cape (achievement)](https://runescape.wikia.com/wiki/Completionist_Cape_(achievement) is an achievement that requires the player to complete all [Completionist Cape achievements](https://runescape.wikia.com/wiki/Completionist_cape). Please visit the <#412093604979277844> channel for more information on how to do this.",
+            "thumbnail": {
+                "url": "https://i.imgur.com/Shmagnp.png"
+            },
+            "fields": [
+                {
+                    "name": "Requirements:",
+                    "value": "• Visit the <#412093604979277844> channel for a full list"
+                }
+            ],
+            "footer": {
+                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+                "text": "Runescore awarded: 75"
+            }
+        }
+	},
+	"conquest adore": {
+		"cmds": ["trim"],
+		"embed": {
+            "title": "Conquest Adore",
+            "author": {
+                "name": "Cape Info",
+                "icon_url": "https://i.imgur.com/6c6q2iC.png"
+            },
+            "description": "[Conquest Adore](https://runescape.wikia.com/wiki/Conquest_Adore) is an achievement that requires the player to play [Conquest](https://runescape.wikia.com/wiki/Conquest) until a [rank](https://runescape.wikia.com/wiki/Conquest#Rewards) of 1,250 is achieved. It is easiest to do this with a friend willing to boost you/trade boosts or during the Conquest Spotlight. You may also tag the **Notify Minigame Achievement/Song Help** role in this server to attempt to find a willing party member.",
+            "thumbnail": {
+                "url": "https://i.imgur.com/Shmagnp.png"
+            },
+            "fields": [
+                {
+                    "name": "Requirements:",
+                    "value": "• 55 Combat"
+                },
+                {
+                    "name": "Guide:",
+                    "value": "[Conquest Guide (Boosting) guide | AOROX - YouTube](https://www.youtube.com/watch?v=JJ_OiMjXaE8)"
+                }
+            ],
+            "footer": {
+                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+                "text": "Runescore awarded: 10"
+            }
+        }
 	},
 	"cook's delights": {
 		"cmds": ["mqc"],
@@ -1736,6 +2064,34 @@ exports.data = {
 				"text": "Runescore awarded: 10"
 			}
 		}
+	},
+	"death effect": {
+		"cmds": ["trim"],
+		"embed": {
+            "title": "Death Effect",
+            "author": {
+                "name": "Cape Info",
+                "icon_url": "https://i.imgur.com/6c6q2iC.png"
+            },
+            "description": "[Death Effect](https://runescape.wikia.com/wiki/Death_Effect) is an achievement that requires the player to unlock all of the [permanent effects](https://runescape.wikia.com/wiki/Death%27s_Store#Unlocks) from [Death's Store](https://runescape.wikia.com/wiki/Death%27s_Store). This achievement requires the player to purchase the following items: [Book of death](https://runescape.wikia.com/wiki/Book_of_Death), Reaper's choice, [Rainbow loot beam](https://runescape.wikia.com/wiki/Rainbow_loot_beam), [Grave loot beam](https://runescape.wikia.com/wiki/Grave_loot_beam), Bonfire booster, Instance cost, Additional tasks, Reaper scroll, and Deaths support. ",
+            "thumbnail": {
+                "url": "https://i.imgur.com/Shmagnp.png"
+            },
+            "fields": [
+                {
+                    "name": "Requirements:",
+                    "value": "• A total of 1,650 - 2,050 [reaper points](https://runescape.wikia.com/wiki/Reaper_points)\n• 0-400 [slayer points](https://runescape.wikia.com/wiki/Slayer_reward_point)\n• 50 Combat"
+                },
+                {
+                    "name": "Guide:",
+                    "value": "[RS Pocketbook | Ancient Dawn](https://drive.google.com/file/d/0B1BQkGxSlc2tQmt5Yl9LeUV4d1E/view)"
+                }
+            ],
+            "footer": {
+                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+                "text": "Runescore awarded: 75"
+            }
+        }
 	},
 	"death to the mahjarrat": {
 		"cmds": ["mqc"],
@@ -2127,6 +2483,34 @@ exports.data = {
 			}
 		}
 	},
+	"eastern explorer": {
+		"cmds": ["trim"],
+		"embed": {
+            "title": "Eastern Explorer",
+            "author": {
+                "name": "Cape Info",
+                "icon_url": "https://i.imgur.com/6c6q2iC.png"
+            },
+            "description": "[Eastern Explorer](https://runescape.wikia.com/wiki/Eastern_Explorer) is an achievement that requires the player to explore within your [Player-owned port](https://runescape.wikia.com/wiki/Player-owned_port) until you reach the [Shield region](https://runescape.wikia.com/wiki/The_Shield). Always send voyages based in the highest region you are in, all other regions' former distance gains are cut in half.\n\nFor the 1st 6 regions ([Arc Region](https://runescape.wikia.com/wiki/The_Arc) through [Pincers Region](https://runescape.wikia.com/wiki/The_Pincers)), only the 2 highest resource voyages will give the maximum distance for your time spent sailing. In [Scythe](https://runescape.wikia.com/wiki/The_Scythe), send for 300/500 Cherrywood. In [Bowl](https://runescape.wikia.com/wiki/The_Bowl), send for 360/600 Jade. In [Pincers](https://runescape.wikia.com/wiki/The_Pincers), send for 450/700 Stainless Steel. For the final 2 regions ([Loop](https://runescape.wikia.com/wiki/The_Loop) and [Shield](https://runescape.wikia.com/wiki/The_Shield) Regions), the 3 highest resource voyages will give the maximum distance.\n• Loop: 125/175/275 Terracotta (along with 400 [Barmaid](https://runescape.wikia.com/wiki/The_Barmaid#Gossip)).\n• Shield: 240/360/560 Azure (along with 720 [Barmaid](https://runescape.wikia.com/wiki/The_Barmaid#Gossip)). \n\nAlways have all 4 ships sailing and not idle in your port. Make sure to raise your speed to the max on every voyage. You know you have maxed out your speed when further increases in speed do not lower your voyage time. Scroll and trade good voyages have higher speed caps. Even if you fail a voyage, you still get full (100%) distance gain!",
+            "thumbnail": {
+                "url": "https://i.imgur.com/Shmagnp.png"
+            },
+            "fields": [
+                {
+                    "name": "Requirements:",
+                    "value": "• [Player Owned Ports Tutorial completion | Runescape Wiki](https://runescape.wikia.com/wiki/Player-owned_port#Tutorial) \n\n• **Level 90 in at least one of the following skills:**\n• Agility\n• Construction\n• Cooking\n• Divination\n• Dungeoneering\n• Fishing\n• Herblore\n• Hunter\n• Prayer\n• Runecrafting\n• Slayer\n• Thieving"
+                },
+                {
+                    "name": "Guide:",
+                    "value": "[ Kags' POP Enclycopedia | Runescape Forums](http://services.runescape.com/m=forum/forums.ws?75,76,519,65829739)"
+                }
+            ],
+            "footer": {
+                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+                "text": "Runescore awarded: 40"
+            }
+        }
+	},
 	"eeeeagle!": {
 		"cmds": ["mqc", "trim"],
 		"embed": {
@@ -2332,6 +2716,58 @@ exports.data = {
 				"text": "Runescore awarded: 50"
 			}
 		}
+	},
+	"ferocious upgrade": {
+		"cmds": ["trim"],
+		"embed": {
+            "title": "Ferocious Upgrade",
+            "author": {
+                "name": "Cape Info",
+                "icon_url": "https://i.imgur.com/6c6q2iC.png"
+            },
+            "description": "[Ferocious Upgrade](https://runescape.wikia.com/wiki/Ferocious_Upgrade) is an achievement that requires the player to unlock the [Ferocious ring](https://runescape.wikia.com/wiki/Ferocious_ring) upgrade to the [Slayer helmet](https://runescape.wikia.com/wiki/Full_slayer_helmet) from [Morvran](https://runescape.wikia.com/wiki/Morvran#Slayer_points). He can be found in the [Iorwerth Clan](https://runescape.wikia.com/wiki/Iorwerth_Clan) district of [Prifddinas](https://runescape.wikia.com/wiki/Prifddinas).",
+            "thumbnail": {
+                "url": "https://i.imgur.com/Shmagnp.png"
+            },
+            "fields": [
+                {
+                    "name": "Requirements:",
+                    "value": "• 100 [slayer points](https://runescape.wikia.com/wiki/Slayer_reward_point)\n\n• 90 Slayer"
+                }
+            ],
+            "footer": {
+                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+                "text": "Runescore awarded: 20"
+            }
+        }
+	},
+	"finish him": {
+		"cmds": ["trim"],
+		"embed": {
+            "title": "Finish Him!",
+            "author": {
+                "name": "Cape Info",
+                "icon_url": "https://i.imgur.com/6c6q2iC.png"
+            },
+            "description": "[Finish Him!](https://runescape.wikia.com/wiki/Finish_Him!) is an achievement that requires the player to obtain the [Maul of omens](https://runescape.wikia.com/wiki/Maul_of_omens) during the fight with [Vorago]([Vorago](https://runescape.wikia.com/wiki/Vorago)) by collecting all 3 parts during phases 1, 2 and 4 respectively and using it to finish off Vorago. You may tagthe **Reaper Crew** in this server for help with this requirment (their time permitting) or post your request in the <#436714722847621120> channel. ",
+            "thumbnail": {
+                "url": "https://i.imgur.com/Shmagnp.png"
+            },
+            "fields": [
+                {
+                    "name": "Requirements:",
+                    "value": "• You must have listened to [Vorago's Challenging Chat](https://runescape.wikia.com/wiki/Challenging_Chat)"
+                },
+                {
+                    "name": "Guide:",
+                    "value": "[Vorago DPS Beginners Guide 2017 | Cursed Combatants | Wumpery RS](https://www.youtube.com/watch?v=VWsNhghbzpk)"
+                }
+            ],
+            "footer": {
+                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+                "text": "Runescore awarded: 50"
+            }
+        }
 	},
 	"fires are mostly harmless": {
 		"cmds": ["mqc"],
@@ -2581,6 +3017,34 @@ exports.data = {
 			}
 		}
 	},
+	"hard as daemons": {
+		"cmds": ["trim"],
+		"embed": {
+            "title": "Hard as Daemons",
+            "author": {
+                "name": "Cape Info",
+                "icon_url": "https://i.imgur.com/6c6q2iC.png"
+            },
+            "description": "[Hard as Daemons](https://runescape.wikia.com/wiki/Hard_as_Daemons) is an achievement that requires the player to claim the [of Daemonheim title]( https://runescape.wikia.com/wiki/Of_Daemonheim). This requires the player to complete every dungeoneering floor on [hard mode]( https://runescape.wikia.com/wiki/Dungeoneering/Hard_mode). Hard Mode floors can be obtained as a reward after completing the [elite set]( https://runescape.wikia.com/wiki/Daemonheim_achievements#Elite_Tasks) of [Daemonheim tasks]( https://runescape.wikia.com/wiki/Daemonheim_achievements). It is only available for [complexity]( https://runescape.wikia.com/wiki/Complexity) 6 dungeons and makes the dungeon as difficult as it can randomly be.\n\nPlayers who have not completed the Elite tasks may take part in Hard mode floors with other players who have. Players who have completed the Elite tasks must form the party and lead the dungeon. They then invite the players without the tasks complete into the floors. To start Hard mode, select a floor and set the difficulty to Complexity 6 via the [Ring of kinship]( https://runescape.wikia.com/wiki/Ring_of_kinship) or the ladder. Attempting to start a floor results in the Floor Settings interface, the top section of which is a radio button for Hard mode. Select `Yes` to `Activate Hard Mode?` Players are unable to select the floor size they wish. If the party is 1-2 people, the floor size is Medium; if 3-5, the floor size is Large. It is recommended to activate [guide mode]( https://runescape.wikia.com/wiki/Dungeoneering#Guide_mode) during hard mode floors to speed up the requirement. Players may tag the **Notify HM Dungeoneering** role in this server to try to find a willing party.",
+            "thumbnail": {
+                "url": "https://i.imgur.com/Shmagnp.png"
+            },
+            "fields": [
+                {
+                    "name": "Requirements:",
+                    "value": "• Elite Daemonheim tasks completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Daemonheim_achievements)\n\n• 119 Dungeoneering\n• 90+ in all skills or close enough to boost all skill doors is recommended"
+                },
+                {
+                    "name": "Guide:",
+                    "value": "[Trimmed Completionist Guides - Hardmode Dungeoneering | Teh Proez - YouTube](https://www.youtube.com/watch?v=HpGPdyNQEzA)"
+                }
+            ],
+            "footer": {
+                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+                "text": "Runescore awarded: 25"
+            }
+        }
+	},
 	"haul comes to templeton": {
 		"cmds": ["mqc"],
 		"embed": {
@@ -2700,6 +3164,30 @@ exports.data = {
 				"text": "Runescore awarded: 40"
 			}
 		}
+	},
+	"how many games?": {
+		"cmds": ["trim"],
+		"embed": {
+            "title": "How Many Games?",
+            "author": {
+                "name": "Cape Info",
+                "icon_url": "https://i.imgur.com/6c6q2iC.png"
+            },
+            "description": "[How Many Games?](https://runescape.wikia.com/wiki/How_Many_Games%3F) an achievement that requires the player to purchase a full set of [profound decorative equipment]( https://runescape.wikia.com/wiki/Profound_decorative_equipment) and show it to [Lanthus]( https://runescape.wikia.com/wiki/Lanthus). Profound equipment can be purchased using [gold Castle Wars tickets]( https://runescape.wikia.com/wiki/Castle_wars_ticket_(gold), [Thaler]( https://runescape.wikia.com/wiki/Thaler), or a mixture of both.\n\nThis is one of the most time-consuming achievements in the game, taking up to 795 hours to complete by playing only [spotlighted minigames]( https://calendar.google.com/calendar/embed?src=42brp3b48aumm199hord137gh0@group.calendar.google.com) or playing 20 minute Castle Wars games with a 100% win rate (accounting for the 3 minute wait time between games). Even using the fastest methods, playing on spotlight and/or Minigames Weekend, and using Castle wars token enhancers, it will take at least 300 hours to complete. It is generally considered to be the longest and most onerous requirement for the trimmed completionist cape. However, using only Thaler, this achievement can be completed without playing a single game of Castle Wars.\n\n**It is highly advised to do this with a Castle Wars or Thaler Service.**\n• You may find a Castle Wars community at [this discord](https://discord.gg/hzvwrvX) or at friend-chat `Cwar United`. You can fill out the application for the friend-chat [here](http://services.runescape.com/m=forum/c=9s7nqZXGY8Y/forums.ws?75,76,32,66000897).\n• You may find an AFK Thaler community in this server. Users can tag the **AFK Thaler** role if Barbarian Assault, Conquest, Fist of Guthix, Great Orb Project, Heist, Mobilising Armies, Pest Control, Soul Wars, Stealing Creation, or Trouble Brewing minigames are on spotlight in order to find teams. You may join this role by reacting to the :zero: emoji on the third to last message in the <#413750063756607488> channel.",
+            "thumbnail": {
+                "url": "https://i.imgur.com/Shmagnp.png"
+            },
+            "fields": [
+                {
+                    "name": "Requirements:",
+                    "value": "• A stong will to live"
+                }
+            ],
+            "footer": {
+                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+                "text": "Runescore awarded: 70"
+            }
+        }
 	},
 	"i can see for miles and miles": {
 		"cmds": ["mqc"],
@@ -2993,6 +3481,34 @@ exports.data = {
 			}
 		}
 	},
+	"jack of the circus": {
+		"cmds": ["trim"],
+		"embed": {
+            "title": "Jack of the Circus",
+            "author": {
+                "name": "Cape Info",
+                "icon_url": "https://i.imgur.com/6c6q2iC.png"
+            },
+            "description": "[Jack of the Circus](https://runescape.wikia.com/wiki/Jack_of_the_Circus) is an achievement that requires the player to claim all of the circus equipment from [Balthazar Beauregard's Big Top Bonanza](https://runescape.wikia.com/wiki/Balthazar_Beauregard%27s_Big_Top_Bonanza). These costumes can be gained through getting points in activities. Repeating any trick will not result in more experience so you need to work through different tricks. This is different from the way Circus score is earned, where players can repeatedly perform the same high-level trick to increase their score (as long as they take measures to ensure they do not become boring). Therefore players wishing to maximise their experience gain do so at the expense of their Circus score. To get the lower level costumes, you will need to get their score range needed as going above will roll you a no reward if you have all rewards of the higher tier. With this being the case, it would be beneficial to attempt for the Ringmaster outfit first so failed attempts are still rewarding.\n\n Players will need to have purchased the full following costumes:\n• [Audience](https://runescape.wikia.com/wiki/Audience_costume)\n• [Acrobat](https://runescape.wikia.com/wiki/Acrobat_costume)\n• [Firemakers](https://runescape.wikia.com/wiki/Firemaker%27s_costume)\n• [Clown](https://runescape.wikia.com/wiki/Clown_costume)\n• [Ringmaster](https://runescape.wikia.com/wiki/Ringmaster_costume)",
+            "thumbnail": {
+                "url": "https://i.imgur.com/Shmagnp.png"
+            },
+            "fields": [
+                {
+                    "name": "Requirements:",
+                    "value": "• The Firemaker's Curse Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Firemaker%27s_Curse)"
+                },
+                {
+                    "name": "Guide:",
+                    "value": "[Ringmaster Outfit Guide - Circus - RuneScape Trimmed Completionist Requirement | AlexshineProductions - YouTube](https://www.youtube.com/watch?v=-rizDICRH54)"
+                }
+            ],
+            "footer": {
+                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+                "text": "Runescore awarded: 25"
+            }
+        }
+	},
 	"kaiki's tusks": {
 		"cmds": ["mqc"],
 		"embed": {
@@ -3016,6 +3532,34 @@ exports.data = {
 				"text": "Runescore awarded: 10"
 			}
 		}
+	},
+	"kal'gerion commander": {
+		"cmds": ["trim"],
+		"embed": {
+            "title": "Kal'gerion Commander",
+            "author": {
+                "name": "Cape Info",
+                "icon_url": "https://i.imgur.com/6c6q2iC.png"
+            },
+            "description": "[Kal'gerion Commander](https://runescape.wikia.com/wiki/Kal%27gerion_Commander) is an achievement that requires the player to find all of the [Kal'gerion battle commendations](https://runescape.wikia.com/wiki/Kal%27gerion_battle_commendation) which are dropped by [Kal'gerion demons](https://runescape.wikia.com/wiki/Kal%27gerion_demon). Currently, it is advised players kill Kal'gerion demons in a [Player owned slayer dungeon](https://runescape.wikia.com/wiki/Sunken_Pyramid#Slayer_Dungeon) as they will be unable to utilize their special attack in this area. Players may visit the `Slayer Dungs` FC to find an availble POD.\n\n There are 5 titles to collect:\n• [the Bloodchiller](https://runescape.wikia.com/wiki/The_Bloodchiller)\n• [the Riftsplitter](https://runescape.wikia.com/wiki/The_Riftsplitter)\n• [the Pummeller](https://runescape.wikia.com/wiki/The_Pummeller)\n• [the Thunderous](https://runescape.wikia.com/wiki/The_Thunderous)\n• [the Warmonger](https://runescape.wikia.com/wiki/The_Warmonger)",
+            "thumbnail": {
+                "url": "https://i.imgur.com/Shmagnp.png"
+            },
+            "fields": [
+                {
+                    "name": "Requirements:",
+                    "value": "• 113 Dungeoneering\n• Killing [To'Kash the Bloodchiller](https://runescape.wikia.com/wiki/To%27Kash_the_Bloodchiller) at least once\n• Killing [Har'Lakk the Riftsplitter](https://runescape.wikia.com/wiki/Har%27Lakk_the_Riftsplitter) at least once\n• Killing [Bal'lak the Pummeller](https://runescape.wikia.com/wiki/Bal%27lak_the_Pummeller) at least once\n• Killing [Yk'Lagor the Thunderous](https://runescape.wikia.com/wiki/Yk%27Lagor_the_Thunderous) at least once\n• Killing [Kal'Ger the Warmonger](https://runescape.wikia.com/wiki/Kal%27Ger_the_Warmonger) at least once"
+                },
+                {
+                    "name": "Guide:",
+                    "value": "[Kal'gerion Demon Slayer Guide 2017: Great Slayer exp + Profit! | puretppc - YouTube](https://www.youtube.com/watch?v=Xptgvb9aydM) "
+                }
+            ],
+            "footer": {
+                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+                "text": "Runescore awarded: 35"
+            }
+        }
 	},
 	"kal'gerion notes": {
 		"cmds": ["mqc"],
@@ -3309,6 +3853,30 @@ exports.data = {
 			}
 		}
 	},
+	"lock, stock and barrel": {
+		"cmds": ["trim"],
+		"embed": {
+            "title": "Lock, Stock and Barrel",
+            "author": {
+                "name": "Cape Info",
+                "icon_url": "https://i.imgur.com/6c6q2iC.png"
+            },
+            "description": "[Lock, Stock and Barrel](http://runescape.wikia.com/wiki/Lock,_Stock_and_Barrel) is an achievement that requires the player to gain tier 10 [reputation](https://runescape.wikia.com/wiki/Menaphos/Reputation) in the Merchant district of [Menaphos](https://runescape.wikia.com/wiki/Menaphos). You can use `soulobby` fc to find [Soul Obelisks](https://runescape.wikia.com/wiki/Soul_obelisk_(Menaphos) and [Corrupted Scarabs](https://runescape.wikia.com/wiki/Corrupted_scarab) easily. You can gain 20,000 reputatation per day from Soul Obelisks and a varied amount from Corrupted Scarabs daily. You will be able to finish this requirment within two weeks utilizing this method as a daily.",
+            "thumbnail": {
+                "url": "https://i.imgur.com/Shmagnp.png"
+            },
+            "fields": [
+                {
+                    "name": "Requirements:",
+                    "value": "• The Jack of Spades Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Jack_of_Spades)"
+                }
+            ],
+            "footer": {
+                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+                "text": "Runescore awarded: 40"
+            }
+        }
+	},
 	"long live the queen": {
 		"cmds": ["comp"],
 		"embed": {
@@ -3525,6 +4093,34 @@ exports.data = {
 			}
 		}
 	},
+	"maria, you gotta see her": {
+		"cmds": ["trim"],
+		"embed": {
+            "title": "Maria, You Gotta See Her",
+            "author": {
+                "name": "Cape Info",
+                "icon_url": "https://i.imgur.com/6c6q2iC.png"
+            },
+            "description": "[Maria, You Gotta See Her](https://runescape.wikia.com/wiki/Maria,_You_Gotta_See_Her) is an achievement that requires the player to complete all three [challenges](https://runescape.wikia.com/wiki/Broken_Home#Challenges) in the haunted house after [Broken Home](https://runescape.wikia.com/wiki/Broken_Home).\n\n The required challenges are:\n• Complete a replay without dying (try to always peek foggy doors and move very quickly in purple rooms)\n• Complete a replay without dying using one or less healing item (save your one piece for when your health drops to 500 or when it drops to 200 in purple room)\n• Complete a replay in under 37 minutes and complete both other challenges\n\nIt is best to do this achievement either on a dual monitor computer or split screen while following along with the guide. ",
+            "thumbnail": {
+                "url": "https://i.imgur.com/Shmagnp.png"
+            },
+            "fields": [
+                {
+                    "name": "Requirements:",
+                    "value": "• Broken Home Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Broken_Home)"
+                },
+                {
+                    "name": "Guide:",
+                    "value": "[Broken Home + All Challenges Under 30 Minutes + Chest Locations | Chrisces - YouTube](https://www.youtube.com/watch?v=lMtEEHKH9Gg)"
+                }
+            ],
+            "footer": {
+                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+                "text": "Runescore awarded: 25"
+            }
+        }
+	},
 	"marmaros and thok letters": {
 		"cmds": ["mqc"],
 		"embed": {
@@ -3559,6 +4155,34 @@ exports.data = {
 			}
 		}
 	},
+	"master angler": {
+		"cmds": ["trim"],
+		"embed": {
+            "title": "Master Angler",
+            "author": {
+                "name": "Cape Info",
+                "icon_url": "https://i.imgur.com/6c6q2iC.png"
+            },
+            "description": "[Master Angler](http://runescape.wikia.com/wiki/Master_Angler) is an achievement that requires the player to obtain the [Champion's tackle box](https://runescape.wikia.com/wiki/Champion%27s_tackle_box) from [Fish Flingers](https://runescape.wikia.com/wiki/Fish_Flingers). This requires a total of 1860 [tokens](https://runescape.wikia.com/wiki/Fish_Flingers#Tokens) and 500 [medals](https://runescape.wikia.com/wiki/Fish_Flingers#Medals). You should utilize `FishFlingers` fc to complete this requirement. You want to be in there during reset if you can, otherwise it’s a rather dead place to be. You can stock up to 15 tickets total by talking to the fish master at any fishing location. You can get more tickets from fishing, but it’s slow and isn’t worth doing unless it’s your last requirement. A [Fish Flingers medal enhancer](https://runescape.wikia.com/wiki/Fish_flingers_medal_enhancer) can speed it up a bit, but it only doubles medals, not tokens. However, this allows you to [quick cast](https://runescape.wikia.com/wiki/Fish_Flingers#Quick_casting) games once you receive all medals and it is a much less stressful playthrough.\n\nMedals are given for the following achievements:\n• Junior Angler: Find the perfect tackle for three species.\n• Master Angler: Find the perfect tackle for all six species.\n• Whopper: Catch 3 big fish.\n• Team Player: Assist in catching at least 6 big fish.\n\nIt is highly recommended to use the [alt1 application](https://runeapps.org/alt1) to quickly find the perfect tackle combination. Once you reach 500 medals, you’ll want to ignore going for medals and find the heaviest fish spot (this is called in the aforementioned friends chat) and just quick cast that location. Meaning as soon as you get the message that you caught a fish, you cast again. This gives most tokens per games. ",
+            "thumbnail": {
+                "url": "https://i.imgur.com/Shmagnp.png"
+            },
+            "fields": [
+                {
+                    "name": "Requirements:",
+                    "value": "• An entry ticket is required to enter a game of Fish Flingers"
+                },
+                {
+                    "name": "Guide:",
+                    "value": "[Trimmed Completionist Guides - Fish Flingers! | Teh Proez - YouTube](https://www.youtube.com/watch?v=a7Ce0ZnlvYo)"
+                }
+            ],
+            "footer": {
+                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+                "text": "Runescore awarded: 30"
+            }
+        }
+	},
 	"master bogreman": {
 		"cmds": ["mqc"],
 		"embed": {
@@ -3586,6 +4210,66 @@ exports.data = {
 				"text": "Runescore awarded: 10"
 			}
 		}
+	},
+	"master of assault": {
+		"cmds": ["trim"],
+		"embed": {
+            "title": "Master of Assault",
+            "author": {
+                "name": "Cape Info",
+                "icon_url": "https://i.imgur.com/6c6q2iC.png"
+            },
+            "description": "[Master of Assault](https://runescape.wikia.com/wiki/Master_of_Assault) is an achievement that requires the player to play [Barbarian Assault](https://runescape.wikia.com/wiki/Barbarian_Assault) until they have achieved the maximum rank (5) in all of the roles: [Attacker](https://runescape.wikia.com/wiki/Barbarian_Assault#Attacker), [Collector](https://runescape.wikia.com/wiki/Barbarian_Assault#Collector), [Defender](https://runescape.wikia.com/wiki/Barbarian_Assault#Defender), and [Healer](https://runescape.wikia.com/wiki/Barbarian_Assault#Healer). Players may wish to utilize the friend chat `ba teams` or the **@Barbarian Assault** tag in this server to help complete this requirement. This should be completed in [hard mode](https://runescape.wikia.com/wiki/Barbarian_Assault:_Hard_Mode) for maximum points per round.",
+            "thumbnail": {
+                "url": "https://i.imgur.com/Shmagnp.png"
+            },
+            "fields": [
+                {
+                    "name": "Requirements:",
+                    "value": "• A high Defence and Constitution level is recommended"
+                },
+                {
+                    "name": "Guides:",
+                    "value": "• [Barbarian Assault Guide 2017 • Hard Mode Waves 1-9 • Defender | puretppc - YouTube](https://www.youtube.com/watch?v=03kTmys4DWI)\n• [Barbarian Assault Guide 2017 • Hard Mode Waves 1-9 • Collector | puretppc - YouTube](https://www.youtube.com/watch?v=1t_Q_bvd9Hc)\n• [Barbarian Assault Guide 2017 • Hard Mode Waves 1-9 • Healer | puretppc - YouTube](https://www.youtube.com/watch?v=8m2nmcGJE_8)\n• [Barbarian Assault Guide 2017 • Hard Mode Waves 1-9 • Attackers | puretppc - YouTube](https://www.youtube.com/watch?v=VJbNQqMxQSk)"
+                },
+                {
+                    "name": "Leech Service:",
+                    "value": "[Leech BA](http://w11.zetaboards.com/LeechBA/pages/leechingrs3/)"
+                }
+            ],
+            "footer": {
+                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+                "text": "Runescore awarded: 40"
+            }
+        }
+	},
+	"master otto": {
+		"cmds": ["trim"],
+		"embed": {
+            "title": "Master Otto",
+            "author": {
+                "name": "Cape Info",
+                "icon_url": "https://i.imgur.com/6c6q2iC.png"
+            },
+            "description": "[Master Otto](https://runescape.wikia.com/wiki/Master_Otto) is an achievement that requires the player to complete all of the [Barbarian Training](https://runescape.wikia.com/wiki/Barbarian_Training) with [Otto Godblessed](https://runescape.wikia.com/wiki/Otto_Godblessed). Barbarian Training is a set of expansions to Firemaking, Herblore, Fishing and Smithing. This activity also provides access to the [Ancient Cavern](https://runescape.wikia.com/wiki/Ancient_Cavern). Otto can be found south-west of the Ancient Cavern entrance.",
+            "thumbnail": {
+                "url": "https://i.imgur.com/Shmagnp.png"
+            },
+            "fields": [
+                {
+                    "name": "Requirements:",
+                    "value": "• 35 Firemaking\n• 11 Crafting\n• 55 Fishing\n• 15 Agility\n• 35 Strength\n• 5 Smithing\n• 4 Herblore\n\n• Tai Bwo Wannai Trio Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Tai_Bwo_Wannai_Trio)\n\n• Two [bronze bars](https://runescape.wikia.com/wiki/Bronze_bar)\n• Two [logs](https://runescape.wikia.com/wiki/Logs) \n• [Fishing Bait](https://runescape.wikia.com/wiki/Fishing_bait) \n• One two-dose [attack potion](https://runescape.wikia.com/wiki/Attack_potion) \n• [Roe](https://runescape.wikia.com/wiki/Roe) (obtained during Barbarian Fishing)\n• A tree-type [bow](https://runescape.wikia.com/wiki/Bow)"
+                },
+                {
+                    "name": "Guide:",
+                    "value": "[Barbarian Training guide | Runescape Wiki](http://runescape.wikia.com/wiki/Barbarian_Training)"
+                }
+            ],
+            "footer": {
+                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+                "text": "Runescore awarded: 25"
+            }
+        }
 	},
 	"master quester": {
 		"cmds": ["comp", "mqc"],
@@ -3642,6 +4326,30 @@ exports.data = {
 				"text": "Runescore awarded: 75"
 			}
 		}
+	},
+	"mazcab telport": {
+		"cmds": ["trim"],
+		"embed": {
+            "title": "Mazcab Teleport",
+            "author": {
+                "name": "Cape Info",
+                "icon_url": "https://i.imgur.com/6c6q2iC.png"
+            },
+            "description": "[Mazcab Teleport](https://runescape.wikia.com/wiki/Mazcab_Teleport_(achievement) is an achievement that requires the player to unlock the [Mazcab Teleport spell](https://runescape.wikia.com/wiki/Mazcab_Teleport) by reading a [Mazcab teleport codex](https://runescape.wikia.com/wiki/Mazcab_teleport_codex).  It can be bought from the [Armoursmith](https://runescape.wikia.com/wiki/Armoursmith) for 2,000 [Teci](https://runescape.wikia.com/wiki/Teci). Teci is the currency of the [Liberation of Mazcab](https://runescape.wikia.com/wiki/Liberation_of_Mazcab) Raid. It is obtained by defeating [Beastmaster Durzag](https://runescape.wikia.com/wiki/Beastmaster_Durzag) and [Yakamaru](https://runescape.wikia.com/wiki/Yakamaru). You may post in the #436714722847621120 channel if you are in need of a Raids Team for this requirement.",
+            "thumbnail": {
+                "url": "https://i.imgur.com/Shmagnp.png"
+            },
+            "fields": [
+                {
+                    "name": "Requirements:",
+                    "value": "• 2000 Teci"
+                }
+            ],
+            "footer": {
+                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+                "text": "Runescore awarded: 15"
+            }
+        }
 	},
 	"measure of old": {
 		"cmds": ["mqc"],
@@ -3719,6 +4427,34 @@ exports.data = {
 			}
 		}
 	},
+	"memorialised more than once": {
+		"cmds": ["trim"],
+		"embed": {
+            "title": "Memorialised More Than Once",
+            "author": {
+                "name": "Cape Info",
+                "icon_url": "https://i.imgur.com/6c6q2iC.png"
+            },
+            "description": "[Memorialised More Than Once](https://runescape.wikia.com/wiki/Memorialised_More_Than_Once) is an achievement that requires the player to complete the [Memorial to Guthix](https://runescape.wikia.com/wiki/Memorial_to_Guthix) [Distractions and Diversion](https://runescape.wikia.com/wiki/Distractions_and_Diversions) 3 times in order to unlock the ability to have four [passive ability benefits](https://runescape.wikia.com/wiki/Memorial_to_Guthix#Benefits) active at once. \n\nThe memorial site is located in the [Piscatoris Hunter area](https://runescape.wikia.com/wiki/Piscatoris_Hunter_area), just north of the [ferrets](https://runescape.wikia.com/wiki/Ferret) and [Nickolaus](https://runescape.wikia.com/wiki/Nickolaus)'s camp and just south of the [Phoenix Lair](https://runescape.wikia.com/wiki/Phoenix_Lair) and the [Airut](https://runescape.wikia.com/wiki/Airut). Players can teleport directly to the shrine through the use of [memory strands](https://runescape.wikia.com/wiki/Memory_strand), [Sixth-Age circuit](https://runescape.wikia.com/wiki/Sixth-Age_circuit) and [charged engrams](https://runescape.wikia.com/wiki/Engram).\n\nWhile training Divination outside of Dungeoneering, memory strands can be collected and stored in the currency pouch. The strands are stored automatically after adding the strands to the currency pouch for the first time. These strands can be combined with engrams which can be found all around Gielinor to create echoes. Echoes can be placed in the temple to unlock beneficial buffs, gain Divination experience, and reveal lore about Guthix's life on Gielinor.",
+            "thumbnail": {
+                "url": "https://i.imgur.com/Shmagnp.png"
+            },
+            "fields": [
+                {
+                    "name": "Requirements:",
+                    "value": "•The World Wakes Quest (partial) completion | [Runescape Wiki](https://runescape.wikia.com/wiki/The_World_Wakes)\n•Fairy Tale II - Cure a Queen (started) | [Runescape Wiki](http://runescape.wikia.com/wiki/Fairy_Tale_II_-_Cure_a_Queen)"
+                },
+                {
+                    "name": "Guide:",
+                    "value": "[Memorial to Guthix guide | Runescape Wiki](https://runescape.wikia.com/wiki/Memorial_to_Guthix#Locations_and_buffs)"
+                }
+            ],
+            "footer": {
+                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+                "text": "Runescore awarded: 50"
+            }
+        }
+	},
 	"memories of guthix": {
 		"cmds": ["comp", "mqc"],
 		"embed": {
@@ -3770,6 +4506,34 @@ exports.data = {
 				"text": "Runescore awarded: 5"
 			}
 		}
+	},
+	"milk of chocolate, snape of grass": {
+		"cmds": ["trim"],
+		"embed": {
+            "title": "Milk of Chocolate, Snape of Grass",
+            "author": {
+                "name": "Cape Info",
+                "icon_url": "https://i.imgur.com/6c6q2iC.png"
+            },
+            "description": "[Milk of Chocolate, Snape of Grass](https://runescape.wikia.com/wiki/Milk_of_Chocolate,_Snape_of_Grass) is an achievement that requires the player to sober up [Skippy](https://runescape.wikia.com/wiki/Skippy) by using a [bucket of water](https://runescape.wikia.com/wiki/Bucket_of_water), [nettle tea](https://runescape.wikia.com/wiki/Nettle_tea) and a [Hangover cure](https://runescape.wikia.com/wiki/Hangover_cure) (made by mixing [chocolate dust](https://runescape.wikia.com/wiki/Chocolate_dust) with a [bucket of milk](https://runescape.wikia.com/wiki/Bucket_of_milk) to get [chocolatey milk](https://runescape.wikia.com/wiki/Chocolatey_milk), then mixing it with [snape grass](https://runescape.wikia.com/wiki/Snape_grass)) on him. Skippy is found behind Hetty's house in [Rimmington](https://runescape.wikia.com/wiki/Rimmington).",
+            "thumbnail": {
+                "url": "https://i.imgur.com/Shmagnp.png"
+            },
+            "fields": [
+                {
+                    "name": "Requirements:",
+                    "value": "• 20 Cooking"
+                },
+                {
+                    "name": "Guide:",
+                    "value": "[Morge Miniquest guide | Runescape Wiki](https://runescape.wikia.com/wiki/Mogre_(miniquest)"
+                }
+            ],
+            "footer": {
+                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+                "text": "Runescore awarded: 5"
+            }
+        }
 	},
 	"milky teeth": {
 		"cmds": ["mqc"],
@@ -3852,6 +4616,34 @@ exports.data = {
 				"text": "Runescore awarded: 10"
 			}
 		}
+	},
+	"mobilise this": {
+		"cmds": ["trim"],
+		"embed": {
+            "title": "Mobilise This",
+            "author": {
+                "name": "Cape Info",
+                "icon_url": "https://i.imgur.com/6c6q2iC.png"
+            },
+            "description": "[Mobilise This](https://runescape.wikia.com/wiki/Mobilise_This) is an achievement that requires the player to achieve [rank](https://runescape.wikia.com/wiki/Mobilising_Armies#Ranking_points) 401 in [Mobilising Armies](https://runescape.wikia.com/wiki/Mobilising_Armies) to unlock maximum access to the rewards. It is recommended to complete this requirment during its respective spotlight.\n\nA [Mobilising Armies point enhancer](https://runescape.wikia.com/wiki/Mobilising_armies_point_enhancer) can be used to complete this requirement faster. Only two enhancers are needed for a full completion. As this item cannot be taken into a game of Mobilising Armies, the enhancer functions while in the player's bank. It drains charges when they lose a game but still are eligible to receive rank points. This means the game must be at least 3 minutes per round and the other players don't forfeit. Instead of the usual 1 rank point gained from this situation, they receive double the amount, which is 2 rank points. Players can also receive double the rank points when winning a game, but only under specific win conditions. The enhancer starts with 100 charges, and one is used up whenever the rank gain is doubled. It disappears when all the charges have been used. The enhancer drains charges when players would normally gain rank points but have hit the 1 hour limit of 12 rank points. Therefore, it is advised to stop as soon as the 1 hour limit is reached. Also, the extra rank points gained with the enhancer do not count towards the limit.",
+            "thumbnail": {
+                "url": "https://i.imgur.com/Shmagnp.png"
+            },
+            "fields": [
+                {
+                    "name": "Requirements:",
+                    "value": "• [Investment Credits](https://runescape.wikia.com/wiki/Mobilising_Armies#Investments)"
+                },
+                {
+                    "name": "Guide:",
+                    "value": "[Trimmed Completionist Guides - Mobilising Armies! | Teh Proez - YouTube](https://www.youtube.com/watch?v=_bbYbB01_68)"
+                }
+            ],
+            "footer": {
+                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+                "text": "Runescore awarded: 15"
+            }
+        }
 	},
 	"music maestro": {
 		"cmds": ["comp"],
@@ -3937,6 +4729,62 @@ exports.data = {
 			}
 		}
 	},
+	"nomad's mirage": {
+		"cmds": ["trim"],
+		"embed": {
+            "title": "Nomad's Mirage",
+            "author": {
+                "name": "Cape Info",
+                "icon_url": "https://i.imgur.com/6c6q2iC.png"
+            },
+            "description": "[Nomad's Mirage](http://runescape.wikia.com/wiki/Nomad%27s_Mirage) is an achievement that requires the player to defeat the [Memory of Nomad](https://runescape.wikia.com/wiki/Memory_of_Nomad) and loot the chest thereafter. If you struggle with PvM, it is advised to bring a [Pack Mammoth](https://runescape.wikia.com/wiki/Pack_mammoth) and [Mammoth feast scrolls](https://runescape.wikia.com/wiki/Mammoth_feast_scroll) for eating, as this uses no adreniline and consequently supplies more damage per second. Also, remember to utilize [devotion](https://runescape.wikia.com/wiki/Devotion), [barricade](https://runescape.wikia.com/wiki/Barricade), and [debilitate](https://runescape.wikia.com/wiki/Debilitate) abilities. Protection prayers being kept up on last phase is of dire importance.\n\nThe Memory of Nomad is essentially a hard mode version of the fight in [Nomad's Elegy](https://runescape.wikia.com/wiki/Nomad%27s_Elegy). Most of the mechanics are the same as in the normal fight but there are a few additional mechanics, especially in the final phase. There are also no checkpoints, so all four phases must be completed in one go.",
+            "thumbnail": {
+                "url": "https://i.imgur.com/Shmagnp.png"
+            },
+            "fields": [
+                {
+                    "name": "Requirements:",
+                    "value": "• Nomad's Elegy Quest completion | [Runescape Wiki](https://runescape.wikia.com/wiki/Nomad%27s_Elegy)"
+                },
+                {
+                    "name": "Guide:",
+                    "value": "[Hard Mode Nomad Guide | The Junesong - YouTube](https://www.youtube.com/watch?v=QUEZ4su06Pw)"
+                }
+            ],
+            "footer": {
+                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+                "text": "Runescore awarded: 20"
+            }
+        }
+	},
+	"on a rune high": {
+		"cmds": ["trim"],
+		"embed": {
+            "title": "On a Rune High",
+            "author": {
+                "name": "Cape Info",
+                "icon_url": "https://i.imgur.com/6c6q2iC.png"
+            },
+            "description": "[On a Rune High](https://runescape.wikia.com/wiki/On_a_Rune_High) is an achievement that requires the player to unlock the highest rune shop from [Ali Morrisane](https://runescape.wikia.com/wiki/Ali_Morrisane) by completing the [Rogue Trader miniquest](https://runescape.wikia.com/wiki/Rogue_Trader). There are 3 parts to the Rogue Trader miniquest. Each part allows the player to buy something different from Ali Morrisane. Completing this achievement requires the player to open a large casket of runes. Simply unlocking the ability to open them, or opening a small casket, is insufficient.",
+            "thumbnail": {
+                "url": "https://i.imgur.com/Shmagnp.png"
+            },
+            "fields": [
+                {
+                    "name": "Requirements:",
+                    "value": "• The Feud Quest completion | [Runescape Wiki](https://runescape.wikia.com/wiki/The_Feud)"
+                },
+                {
+                    "name": "Guide:",
+                    "value": "[Rouge Trader Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Rogue_Trader)"
+                }
+            ],
+            "footer": {
+                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+                "text": "Runescore awarded: 10"
+            }
+        }
+	},
 	"one foot in the grave": {
 		"cmds": ["comp", "mqc"],
 		"embed": {
@@ -4016,6 +4864,58 @@ exports.data = {
 				"text": "Runescore awarded: 10"
 			}
 		}
+	},
+	"penance to the king": {
+		"cmds": ["trim"],
+		"embed": {
+            "title": "Penance to the King",
+            "author": {
+                "name": "Cape Info",
+                "icon_url": "https://i.imgur.com/6c6q2iC.png"
+            },
+            "description": "[Penance to the King](http://runescape.wikia.com/wiki/Penance_to_the_King) is an achievement that requires the player to kill the [Penance King](https://runescape.wikia.com/wiki/Penance_King) after doing all 10 hard-mode waves in [Barbarian Assault](https://runescape.wikia.com/wiki/Barbarian_Assault). Players may wish to utilize the friend chat `BA teams` or the **@Penance King** role call in this discord to help complete this requirement. ",
+            "thumbnail": {
+                "url": "https://i.imgur.com/Shmagnp.png"
+            },
+            "fields": [
+                {
+                    "name": "Requirements:",
+                    "value": "• You must have completed waves 1-10 on Hard Mode Barbarian Assault"
+                },
+                {
+                    "name": "Guide:",
+                    "value": "[A quick Penance King kill guide | A Friend - YouTube](https://www.youtube.com/watch?v=TTLz5Kn-0v4)"
+                }
+            ],
+            "footer": {
+                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+                "text": "Runescore awarded: 20"
+            }
+        }
+	},
+	"perky like a prawn": {
+		"cmds": ["trim"],
+		"embed": {
+            "title": "Perky like a Prawn",
+            "author": {
+                "name": "Cape Info",
+                "icon_url": "https://i.imgur.com/6c6q2iC.png"
+            },
+            "description": "[Perky like a Prawn](https://runescape.wikia.com/wiki/Perky_like_a_Prawn) is an achievement that requires the player to unlock all [prawn perks](https://runescape.wikia.com/wiki/Prawnbroker#Prawn_Perks) from the [Prawnbroker](https://runescape.wikia.com/wiki/Prawnbroker). This can be done by collecting [golden fish eggs](https://runescape.wikia.com/wiki/Golden_fish_egg) and gaining 1, 20, 100, and 200 [prawn balls](https://runescape.wikia.com/wiki/Prawn_balls) and [prawn crackers](https://runescape.wikia.com/wiki/Prawn_cracker). Fifty bonus prawn balls are available to players who have obtained level 99 Fishing by speaking to the Prawnbroker. You may also ask other players if they have extra golden crackers they could pull with you in order for you to quickly complete this requirement. You may tag the **@Golden Crackers** role in this discord to inquire about availability as well. ",
+            "thumbnail": {
+                "url": "https://i.imgur.com/Shmagnp.png"
+            },
+            "fields": [
+                {
+                    "name": "Requirements:",
+                    "value": "• 63 Construction\n• An [Aquarium](https://runescape.wikia.com/wiki/Aquarium) in your [player-owned house](https://runescape.wikia.com/wiki/Player-owned_house)"
+                }
+            ],
+            "footer": {
+                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+                "text": "Runescore awarded: 25"
+            }
+        }
 	},
 	"pious prayers": {
 		"cmds": ["comp"],
@@ -4117,6 +5017,34 @@ exports.data = {
 			}
 		}
 	},
+	"rank: master finix": {
+		"cmds": ["trim"],
+		"embed": {
+            "title": "Rank: Master Finix",
+            "author": {
+                "name": "Cape Info",
+                "icon_url": "https://i.imgur.com/6c6q2iC.png"
+            },
+            "description": "[Rank: Master Finix](https://runescape.wikia.com/wiki/Rank:_Master_Finix) is an achievement that requires the player to obtain the rank 1 [esteem](https://runescape.wikia.com/wiki/Runespan#Esteem.28m.29) from [Wizard Finix](https://runescape.wikia.com/wiki/Wizard_Finix) in [Runespan](https://runescape.wikia.com/wiki/Runespan). This will cost a total of 211,860 [runespan points](https://runescape.wikia.com/wiki/Runespan#Points). Players are also have a chance to receive an [unstable air runes](https://runescape.wikia.com/wiki/Unstable_air_rune) from the [Motherlode Maw](https://runescape.wikia.com/wiki/Motherlode_Maw) and the [Traveling Merchant's Shop](https://runescape.wikia.com/wiki/Travelling_Merchant%27s_Shop). You may sign up for the **@Unstable Air Rune** notification role to be notified when the [Traveling Merchant](https://runescape.wikia.com/wiki/Travelling_merchant) has one in stock.  You may be interested in viewing this [Runespan Points Calculator](https://www.reddit.com/r/runescape/comments/7mi0fz/runespan_points_per_minute_at_99_rc_test_my/?st=JBPOLNJZ&sh=28343b1c) for aiding you in this requirement.",
+            "thumbnail": {
+                "url": "https://i.imgur.com/Shmagnp.png"
+            },
+            "fields": [
+                {
+                    "name": "Requirements:",
+                    "value": "• 211,860 Runespan points\n• [Infinity Etheral Outfit](https://runescape.wikia.com/wiki/Infinity_ethereal_outfit) and [Master Runecrafter Robes](https://runescape.wikia.com/wiki/Master_runecrafter_robes) are recommended"
+                },
+                {
+                    "name": "Guide:",
+                    "value": "[Efficiency Experts Ultimate Guide to Runespan | Efficiency Experts - YouTube](https://www.youtube.com/watch?v=xWFruSMMK9s)"
+                }
+            ],
+            "footer": {
+                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+                "text": "Runescore awarded: 30"
+            }
+        }
+	},
 	"reaper crew": {
 		"cmds": ["comp"],
 		"embed": {
@@ -4169,6 +5097,58 @@ exports.data = {
 			}
 		}
 	},
+	"scrolling with power": {
+		"cmds": ["trim"],
+		"embed": {
+            "title": "Scrolling with Power",
+            "author": {
+                "name": "Cape Info",
+                "icon_url": "https://i.imgur.com/6c6q2iC.png"
+            },
+            "description": "[Scrolling with Power](https://runescape.wikia.com/wiki/Scrolling_with_Power) is an achievement that requires the player to unlock all Dungeoneering [scroll traits](https://runescape.wikia.com/wiki/Dungeoneering/Rewards). This will cost a total of 190,000 [Dungeoneering tokens](https://runescape.wikia.com/wiki/Dungeoneering_token).\n\nThis includes:\n• [Scroll of life](https://runescape.wikia.com/wiki/Scroll_of_life)\n• [Scroll of cleansing](https://runescape.wikia.com/wiki/Scroll_of_cleansing)\n• [Scroll of proficiency](https://runescape.wikia.com/wiki/Scroll_of_proficiency)\n• [Scroll of quick teleportation](https://runescape.wikia.com/wiki/Scroll_of_quick_teleportation)\n• [Scroll of efficiency](https://runescape.wikia.com/wiki/Scroll_of_efficiency)\n• [Scroll of Daemonheim](https://runescape.wikia.com/wiki/Scroll_of_Daemonheim)\n• [Scroll of dexterity](https://runescape.wikia.com/wiki/Scroll_of_dexterity)\n• [Wild card](https://runescape.wikia.com/wiki/Wild_card)\n\nTokens are received for completing a dungeon; no tokens are earned if the dungeon is left early. The amount of tokens a player receives is dependent on the amount of experience gained for completing a floor, in a 10:1 ratio of experience to tokens rounded down. An example being if a player received 459 experience, they would get 45 Dungeoneering tokens. Bonus experience does not affect token gain. Tokens can also be obtained in ways other than completing dungeons. By participating in [Sinkholes](https://runescape.wikia.com/wiki/Sinkholes), a player will earn tokens relative to their level and their prize. They can also be obtained by playing [Fremennik sagas](https://runescape.wikia.com/wiki/Fremennik_saga).",
+            "thumbnail": {
+                "url": "https://i.imgur.com/Shmagnp.png"
+            },
+            "fields": [
+                {
+                    "name": "Requirements:",
+                    "value": "• 190,000 Dungeoneering tokens"
+                },
+                {
+                    "name": "Guide:",
+                    "value": "<#431117799965065216>"
+                }
+            ],
+            "footer": {
+                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+                "text": "Runescore awarded: 20"
+            }
+        }
+	},
+	"seagullible": {
+		"cmds": ["trim"],
+		"embed": {
+            "title": "Seagullible",
+            "author": {
+                "name": "Cape Info",
+                "icon_url": "https://i.imgur.com/6c6q2iC.png"
+            },
+            "description": "[Seagullible](https://runescape.wikia.com/wiki/Seagullible) is an achievement that requires the player to gain tier 10 [reputation](https://runescape.wikia.com/wiki/Menaphos/Reputation) in the Ports district of [Menaphos](https://runescape.wikia.com/wiki/Menaphos). You can use `soulobby` fc to find [Soul Obelisks](https://runescape.wikia.com/wiki/Soul_obelisk_(Menaphos) and [Corrupted Scarabs](https://runescape.wikia.com/wiki/Corrupted_scarab) easily. You can gain 20,000 reputatation per day from Soul Obelisks and a varied amount from Corrupted Scarabs daily. You will be able to finish this requirment within two weeks utilizing this method as a daily.",
+            "thumbnail": {
+                "url": "https://i.imgur.com/Shmagnp.png"
+            },
+            "fields": [
+                {
+                    "name": "Requirements:",
+                    "value": "• The Jack of Spades Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Jack_of_Spades)"
+                }
+            ],
+            "footer": {
+                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+                "text": "Runescore awarded: 40"
+            }
+        }
+	},
 	"seren memories": {
 		"cmds": ["comp", "mqc"],
 		"embed": {
@@ -4196,6 +5176,34 @@ exports.data = {
 				"text": "Runescore awarded: 20"
 			}
 		}
+	},
+	"shadows below": {
+		"cmds": ["trim"],
+		"embed": {
+            "title": "Shadows Below",
+            "author": {
+                "name": "Cape Info",
+                "icon_url": "https://i.imgur.com/6c6q2iC.png"
+            },
+            "description": "[Shadows Below](https://runescape.wikia.com/wiki/Shadows_Below) is is an achievement that requires the player to defeat the [Barrows: Rise of the Six](https://runescape.wikia.com/wiki/Barrows:_Rise_of_the_Six). Players may request free assistance for this kill utilizing the <#436714722847621120> channel.",
+            "thumbnail": {
+                "url": "https://i.imgur.com/Shmagnp.png"
+            },
+            "fields": [
+                {
+                    "name": "Requirements:",
+                    "value": "• A [Barrows totem](https://runescape.wikia.com/wiki/Barrows_totem)"
+                },
+                {
+                    "name": "Guide:",
+                    "value": "[Rise of the Six Guide | The Junesong - YouTube](https://www.youtube.com/watch?v=lN5vy1gEh4o)"
+                }
+            ],
+            "footer": {
+                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+                "text": "Runescore awarded: 50"
+            }
+        }
 	},
 	"sing for the lady": {
 		"cmds": ["comp", "mqc"],
@@ -4249,6 +5257,34 @@ exports.data = {
 			}
 		}
 	},
+	"special slayer delivery": {
+		"cmds": ["trim"],
+		"embed": {
+            "title": "Special Slayer Delivery",
+            "author": {
+                "name": "Cape Info",
+                "icon_url": "https://i.imgur.com/6c6q2iC.png"
+            },
+            "description": "[Special Slayer Delivery](http://runescape.wikia.com/wiki/Special_Slayer_Delivery) is an achievement that requires the player to unlock the three crafting abilities from the Slayer reward shop. This will cost 1,000 [Slayer points](https://runescape.wikia.com/wiki/Slayer#Slayer_reward_points).\n\nThis includes:\n• Ability to fletch [broad arrows](https://runescape.wikia.com/wiki/Broad_arrow) and [broad-tipped bolts](https://runescape.wikia.com/wiki/Broad-tipped_bolts)\n• [Ability to craft ring of slaying](https://runescape.wikia.com/wiki/Ring_of_slaying)\n• [Ability to craft Slayer helmets](https://runescape.wikia.com/wiki/Slayer_helmet)",
+            "thumbnail": {
+                "url": "https://i.imgur.com/Shmagnp.png"
+            },
+            "fields": [
+                {
+                    "name": "Requirements:",
+                    "value": "• 1,000 Slayer points"
+                },
+                {
+                    "name": "Guide:",
+                    "value": "[How to farm Slayer Points FAST & Easy | puretppc - YouTube](https://www.youtube.com/watch?v=PR7v91xbGBQ)"
+                }
+            ],
+            "footer": {
+                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+                "text": "Runescore awarded: 30"
+            }
+        }
+	},
 	"stay safe": {
 		"cmds": ["comp", "mqc"],
 		"embed": {
@@ -4296,6 +5332,50 @@ exports.data = {
 				"text": "Runescore awarded: 5"
 			}
 		}
+	},
+	"stone's throw away": {
+		"cmds": ["trim"],
+		"embed": {
+            "title": "Stone's Throw Away",
+            "author": {
+                "name": "Cape Info",
+                "icon_url": "https://i.imgur.com/6c6q2iC.png"
+            },
+            "description": "[Stone's Throw Away](https://runescape.wikia.com/wiki/Stone%27s_Throw_Away) is an achievement that requires the player to collect all 30 [replica statue pieces](https://runescape.wikia.com/wiki/Replica_statue_piece) to use on the [Dahmaroc statue](https://runescape.wikia.com/wiki/Dahmaroc_statue) in your house's [study](https://runescape.wikia.com/wiki/Study). The Dahmaroc statue is built on the [statue plinth](https://runescape.wikia.com/wiki/Statue_plinth) located in the [Varrock Museum](https://runescape.wikia.com/wiki/Varrock_Museum) and is built while participating in the [Shattered Heart](https://runescape.wikia.com/wiki/Shattered_Heart) [Distraction and Diversion](https://runescape.wikia.com/wiki/Distractions_and_Diversions). You can build 1 statue per week. This achievement can only be completed while in [building mode](https://runescape.wikia.com/wiki/Building_mode), completing it outside building mode will not complete the achievement, but once switched to building mode it will automatically be completed if the statue is complete.\n\nPlayers should note:\n• Rocks are obtained randomly based on the number of experience drops, not on the size of the experience drop. \n• Rock chances reduce for the given skill when gaining the first rock, so you should switch skills in-between. \n• It is beneficial to obtain rocks while capping if that is something your clan requires.\n• It is beneficial to do the Dahmaroc statue and [Statue of Rhiannon](https://runescape.wikia.com/wiki/Statue_of_Rhiannon) simultaneously. Although the Statue of Rhiannon has no time lock, many skills are shared with the Dahmaroc statue, making them being done together a viable option.\n• The rocks must be added in pairs, and can be stored in the [statue collection bag]( https://runescape.wikia.com/wiki/Statue_collection_bag).",
+            "thumbnail": {
+                "url": "https://i.imgur.com/Shmagnp.png"
+            },
+            "fields": [
+                {
+                    "name": "Requirements:",
+                    "value": "• The ability to obtain [strange rocks](https://runescape.wikia.com/wiki/Strange_rock) must be toggled on"
+                },
+                {
+                    "name": "Guide:",
+                    "value": "\n**Cooking**\n• Cooking any [fish](https://runescape.wikia.com/wiki/Fish) or cutting [Arc mushroms](https://runescape.wikia.com/wiki/Sliced_mushrooms_(The_Arc)\n\n**Firemaking**\n• [Maple Logs](https://runescape.wikia.com/wiki/Maple_logs)\n• [Curly Roots](https://runescape.wikia.com/wiki/Curly_root)\n\n**Fishing**\n• [Crayfish](https://runescape.wikia.com/wiki/Raw_crayfish)\n• [Barbarian Fishing](https://runescape.wikia.com/wiki/Barbarian_Fishing)\n\n**Fletching**\n• [Bakriminel Bolts](https://runescape.wikia.com/wiki/Bakriminel_bolts)\n• [Maple Shieldbow(u)](https://runescape.wikia.com/wiki/Maple_shieldbow_(u)\n\n**Hunter**\n• [Crystal Skillchompas](https://runescape.wikia.com/wiki/Crystal_skillchompa_(Hunter)\n\n**Runecrafting**\n• [Wicked Hood](https://runescape.wikia.com/wiki/Wicked_hood#Profits) Daily \n• [Runespan](https://runescape.wikia.com/wiki/Runespan)\n• [Soul Runecrafting](https://runescape.wikia.com/wiki/Soul_Altar)"
+                },
+                {
+                    "name": "​",
+                    "value": "**Agility**\n• [Cycling](https://runescape.wikia.com/wiki/The_Empty_Throne_Room#Agility) in [The Empty Throne Room](https://runescape.wikia.com/wiki/The_Empty_Throne_Room)\n\n**Construction**\n• [Stone Fireplaces](https://runescape.wikia.com/wiki/Stone_fireplace) (buy [limestone bricks](https://runescape.wikia.com/wiki/Limestone) outside of [Prifddinas](https://runescape.wikia.com/wiki/Prifddinas) house portal during the [Ithell](https://runescape.wikia.com/wiki/Ithell_Clan) [Voice of Seren](https://runescape.wikia.com/wiki/Voice_of_Seren))\n• [Oak Lecterns](https://runescape.wikia.com/wiki/Oak_lectern) (Requires only 1 [Oak Plank](https://runescape.wikia.com/wiki/Oak_plank))"
+                },
+                {
+                    "name": "​",
+                    "value": "**Crafting**\n• [Crystal Flasks](https://runescape.wikia.com/wiki/Crystal_flask) or [Potion Flasks](https://runescape.wikia.com/wiki/Potion_flask) made with Daily [Crystal Glass](https://runescape.wikia.com/wiki/Crystal_glass) or [Robust Glass](https://runescape.wikia.com/wiki/Robust_glass) in any district where the Voice of Seren is active\n• [Empty light orb](https://runescape.wikia.com/wiki/Empty_light_orb) from [Molten Glass](https://runescape.wikia.com/wiki/Molten_glass)\n• Playing the [harps](https://runescape.wikia.com/wiki/Harp) in Prifddinas\n\n**Farming**\n• [Rumberry Bushes](https://runescape.wikia.com/wiki/Rumberry_bush) on [Tuai Leit](https://runescape.wikia.com/wiki/Tuai_Leit)\n• [Grapvine](https://www.youtube.com/watch?v=EKBj8-gF28M) Runs with [Herb Run](https://www.youtube.com/watch?v=TzNhjl2RZ1c)"
+                },
+                {
+                    "name": "​",
+                    "value": "**Herblore**\n• Cleaning [Tarromin](https://runescape.wikia.com/wiki/Grimy_tarromin) in any district where the Voice of Seren is active\n\n**Mining**\n• [Seren Stones](https://runescape.wikia.com/wiki/Seren_stone)\n• [Pure Essence](https://runescape.wikia.com/wiki/Pure_essence)\n• [Red Sandstone](https://runescape.wikia.com/wiki/Red_sandstone) or [Crystal-flecked sandstone](https://runescape.wikia.com/wiki/Crystal-flecked_sandstone) Daily\n\n**Smithing**\n• [Corrupted Ore](https://runescape.wikia.com/wiki/Corrupted_ore)\n• [Gold Bars](https://runescape.wikia.com/wiki/Gold_bar) at a [portable forge](https://runescape.wikia.com/wiki/Portable_forge)\n\n**Woodcutting**\n• [Crystallise](https://runescape.wikia.com/wiki/Crystallise) [Acadia](https://runescape.wikia.com/wiki/Acadia_tree) in [Menaphos](https://runescape.wikia.com/wiki/Menaphos)\n• [Ivy](https://runescape.wikia.com/wiki/Ivy)"
+                },
+                {
+                    "name": "​",
+                    "value": "**Thieving**\n• [Elven clan workers](https://runescape.wikia.com/wiki/Elven_clan_worker)\n• [Dwarf Traders](https://runescape.wikia.com/wiki/Trader)"
+                }
+            ],
+            "footer": {
+                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+                "text": "Runescore awarded: 50"
+            }
+        }
 	},
 	"task master": {
 		"cmds": ["comp"],
@@ -4357,6 +5437,34 @@ exports.data = {
 			}
 		}
 	},
+	"telos if you're angry": {
+		"cmds": ["trim"],
+		"embed": {
+            "title": "Telos If You're Angry",
+            "author": {
+                "name": "Cape Info",
+                "icon_url": "https://i.imgur.com/6c6q2iC.png"
+            },
+            "description": "[Telos If You're Angry](http://runescape.wikia.com/wiki/Telos_If_You%27re_Angry) is is an achievement that requires the player to defeat [Telos, the Warden](https://runescape.wikia.com/wiki/Telos,_the_Warden) at 100% enrage.",
+            "thumbnail": {
+                "url": "https://i.imgur.com/Shmagnp.png"
+            },
+            "fields": [
+                {
+                    "name": "Requirements:",
+                    "value": "•80 Attack\n• 80 Prayer\n• 80 Magic\n• 80 Ranged\n\n• An [Ancient Sigil](http://runescape.wikia.com/wiki/Ancient_sigil)\n• Players must have defeated [Helwyr](), [Gregorovic](), the [Twin Furies](), and [Vindicta]() at least once to obtain their sigil pieces "
+                },
+                {
+                    "name": "Guide:",
+                    "value": "[Complete Telos Guide | The Junesong - YouTube](https://www.youtube.com/watch?v=Lv6QRSgBY5w)"
+                }
+            ],
+            "footer": {
+                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+                "text": "Runescore awarded: 5"
+            }
+        }
+	},
 	"the book of elei": {
 		"cmds": ["mqc"],
 		"embed": {
@@ -4404,6 +5512,54 @@ exports.data = {
 				"text": "Runescore awarded: 20"
 			}
 		}
+	},
+	"to be a master": {
+		"cmds": ["trim"],
+		"embed": {
+            "title": "To Be a Master",
+            "author": {
+                "name": "Cape Info",
+                "icon_url": "https://i.imgur.com/6c6q2iC.png"
+            },
+            "description": "[To Be a Master](http://runescape.wikia.com/wiki/To_Be_a_Master) is an achievement that requires the player to complete the [Slayer Codex](https://runescape.wikia.com/wiki/Slayer_Codex). The Slayer Codex is the book used to record the souls of [Slayer monsters](https://runescape.wikia.com/wiki/Slayer_monsters) that the player has captured. It is obtained from [Faiza](https://runescape.wikia.com/wiki/Faiza), who is bound to the [Sunken Pyramid](https://runescape.wikia.com/wiki/Sunken_Pyramid), after achieving level 99 Slayer. The Codex is updated when a new creature's soul is captured in an [ushabti](https://runescape.wikia.com/wiki/Ushabti) and placed in the [Chest of Souls](https://runescape.wikia.com/wiki/Chest_of_Souls), or when it is added to the [player's personal Slayer Dungeon](https://runescape.wikia.com/wiki/Sunken_Pyramid#Slayer_Dungeon).\n\nUshabti are containers used to trap the souls of Slayer monsters used to fill the Slayer Codex. A small number (25-50) are initially handed out by Faiza depending on Slayer level. Additional ushabti can be purchased from [Slayer Masters](https://runescape.wikia.com/wiki/Slayer_Master) for 20 [slayer points](https://runescape.wikia.com/wiki/Slayer_reward_point) each, and are a possible reward from the [Rush of Blood](https://runescape.wikia.com/wiki/Rush_of_Blood) [Distraction and Diversion](https://runescape.wikia.com/wiki/Distractions_and_Diversions) and the [Motherlode Maw](https://runescape.wikia.com/wiki/Motherlode_Maw). The formula for the initial number received is 25 + 1 for each additional Slayer level over 99, or 50 at level 120 Slayer. If the free ushabti are claimed prior to having a max Slayer level, upon leveling, the player can still acquire more from Faiza.\n\nIt should be noted that you may not capture a soul from a creature in your own, or another player's, personal slayer dungeon.",
+            "thumbnail": {
+                "url": "https://i.imgur.com/Shmagnp.png"
+            },
+            "fields": [
+                {
+                    "name": "Requirements:",
+                    "value": "• 117 Slayer\n• The Jack of Spades Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Jack_of_Spades)"
+                }
+            ],
+            "footer": {
+                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+                "text": "Runescore awarded: 75"
+            }
+        }
+	},
+	"to the bone": {
+		"cmds": ["trim"],
+		"embed": {
+            "title": "To The Bone",
+            "author": {
+                "name": "Cape Info",
+                "icon_url": "https://i.imgur.com/6c6q2iC.png"
+            },
+            "description": "[To The Bone](https://runescape.wikia.com/wiki/To_The_Bone) is an achievement that requires the player to gain tier 10 [reputation](https://runescape.wikia.com/wiki/Menaphos/Reputation) in the Worker district of [Menaphos](https://runescape.wikia.com/wiki/Menaphos). You can use `soulobby` fc to find [Soul Obelisks](https://runescape.wikia.com/wiki/Soul_obelisk_(Menaphos) and [Corrupted Scarabs](https://runescape.wikia.com/wiki/Corrupted_scarab) easily. You can gain 20,000 reputatation per day from Soul Obelisks and a varied amount from Corrupted Scarabs daily. You will be able to finish this requirment within two weeks utilizing this method as a daily.",
+            "thumbnail": {
+                "url": "https://i.imgur.com/Shmagnp.png"
+            },
+            "fields": [
+                {
+                    "name": "Requirements:",
+                    "value": "• The Jack of Spades Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Jack_of_Spades)"
+                }
+            ],
+            "footer": {
+                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+                "text": "Runescore awarded: 40"
+            }
+        }
 	},
 	"trip to the east": {
 		"cmds": ["comp"],
@@ -4540,6 +5696,86 @@ exports.data = {
 				"text": "Runescore awarded: 10"
 			}
 		}
+	},
+	"who will be her lover?": {
+		"cmds": ["trim"],
+		"embed": {
+            "title": "Who Will Be Her Lover?",
+            "author": {
+                "name": "Cape Info",
+                "icon_url": "https://i.imgur.com/6c6q2iC.png"
+            },
+            "description": "[Who Will Be Her Lover?](https://runescape.wikia.com/wiki/Who_Will_Be_Her_Lover%3F) is an achievement that requires the player to complete the [Statue of Rhiannon]( https://runescape.wikia.com/wiki/Statue_of_Rhiannon) statue 32 times to rebuild it fully in the [Max Guild]( https://runescape.wikia.com/wiki/Max_Guild) garden and is built while participating in the [Shattered Heart](https://runescape.wikia.com/wiki/Shattered_Heart) [Distraction and Diversion](https://runescape.wikia.com/wiki/Distractions_and_Diversions). The Max Guild is in [Prifddinas]( https://runescape.wikia.com/wiki/Prifddinas), in the south-eastern part of the [Cadarn Clan]( https://runescape.wikia.com/wiki/Cadarn_Clan) district. The plinth for the statue is located in the Tower of Voices in Prifddinas, where it is attended by Auron Ithell. You can build as many statues per week as you desire, unlike the [Dahmaroc statue](https://runescape.wikia.com/wiki/Dahmaroc_statue).\n\nPlayers should note:\n• Rocks are obtained randomly based on the number of experience drops, not on the size of the experience drop. \n• Rock chances reduce for the given skill when gaining the first rock, so you should switch skills in-between.\n• It is beneficial to obtain rocks while capping if that is something your clan requires.\n• It is beneficial to do the Dahmaroc statue and Statue of Rhiannon simultaneously. Although the Statue of Rhiannon has no time lock, many skills are shared with the Dahmaroc statue, making them being done together a viable option.\n• The rocks must be added in pairs, and can be stored in the [statue collection bag]( https://runescape.wikia.com/wiki/Statue_collection_bag). \n• While [Golden rocks]( https://runescape.wikia.com/wiki/Golden_rock) are not restricted to only being found in Prifddinas, it is more likely to find one while skilling in a district of the city that has the [Voice of Seren]( https://runescape.wikia.com/wiki/Voice_of_Seren) active.",
+            "thumbnail": {
+                "url": "https://i.imgur.com/Shmagnp.png"
+            },
+            "fields": [
+                {
+                    "name": "Requirements:",
+                    "value": "• The ability to obtain golden rocks must be toggled on"
+                },
+                {
+                    "name": "Guide:",
+                    "value": "\n**Dungeoneering**\n• Completing [Small]( https://runescape.wikia.com/wiki/Dungeoneering#Dungeon_size), [Complexity 4]( https://runescape.wikia.com/wiki/Dungeoneering#Complexity) Dungeoneering [floors]( https://runescape.wikia.com/wiki/Dungeoneering#Floors)\n• Participating in an [Elite Dungeon]( https://runescape.wikia.com/wiki/Elite_dungeons)\n\n**Summoning**\n• [Spirit Terrorbird pouches]( https://runescape.wikia.com/wiki/Spirit_terrorbird_pouch) during the [Amlodd]( https://runescape.wikia.com/wiki/Amlodd_Clan) Voice of Seren\n\n**Slayer**\n• Gather slayer with your preferred [mask]( https://runescape.wikia.com/wiki/Slayer_mask) or [slayer contract]( https://runescape.wikia.com/wiki/Slayer_contract) and then go to the [trolls]( https://runescape.wikia.com/wiki/Troll) in the [abandoned Burthorpe mine]( https://runescape.wikia.com/wiki/Abandoned_Burthorpe_mine)"
+                },
+                {
+                    "name": "​",
+                    "value": "**Divination**\n• [Siphon Incandescent Memories]( https://runescape.wikia.com/wiki/Incandescent_memory) into [energy]( https://runescape.wikia.com/wiki/Incandescent_energy), experience, or [divine charges]( https://runescape.wikia.com/wiki/Divine_charge)"
+                },
+                {
+                    "name": "​",
+                    "value": "**Agility**\n• [Cycling](https://runescape.wikia.com/wiki/The_Empty_Throne_Room#Agility) in [The Empty Throne Room](https://runescape.wikia.com/wiki/The_Empty_Throne_Room)\n\n**Construction**\n• [Stone Fireplaces](https://runescape.wikia.com/wiki/Stone_fireplace) (buy [limestone bricks](https://runescape.wikia.com/wiki/Limestone) outside of [Prifddinas](https://runescape.wikia.com/wiki/Prifddinas) house portal during the [Ithell](https://runescape.wikia.com/wiki/Ithell_Clan) [Voice of Seren](https://runescape.wikia.com/wiki/Voice_of_Seren))\n• [Oak Lecterns](https://runescape.wikia.com/wiki/Oak_lectern) (Requires only 1 [Oak Plank](https://runescape.wikia.com/wiki/Oak_plank))"
+                },
+                {
+                    "name": "​",
+                    "value": "**Crafting**\n• [Crystal Flasks](https://runescape.wikia.com/wiki/Crystal_flask) or [Potion Flasks](https://runescape.wikia.com/wiki/Potion_flask) made with Daily [Crystal Glass](https://runescape.wikia.com/wiki/Crystal_glass) or [Robust Glass](https://runescape.wikia.com/wiki/Robust_glass) in any district where the Voice of Seren is active\n• [Empty light orb](https://runescape.wikia.com/wiki/Empty_light_orb) from [Molten Glass](https://runescape.wikia.com/wiki/Molten_glass)\n• Playing the [harps](https://runescape.wikia.com/wiki/Harp) in Prifddinas\n\n**Farming**\n• [Rumberry Bushes](https://runescape.wikia.com/wiki/Rumberry_bush) on [Tuai Leit](https://runescape.wikia.com/wiki/Tuai_Leit)\n• [Grapvine](https://www.youtube.com/watch?v=EKBj8-gF28M) Runs with [Herb Run](https://www.youtube.com/watch?v=TzNhjl2RZ1c)"
+                },
+                {
+                    "name": "​",
+                    "value": "**Herblore**\n• Cleaning [Tarromin](https://runescape.wikia.com/wiki/Grimy_tarromin) in any district where the Voice of Seren is active\n\n**Mining**\n• [Seren Stones](https://runescape.wikia.com/wiki/Seren_stone)\n• [Pure Essence](https://runescape.wikia.com/wiki/Pure_essence)\n• [Red Sandstone](https://runescape.wikia.com/wiki/Red_sandstone) or [Crystal-flecked sandstone](https://runescape.wikia.com/wiki/Crystal-flecked_sandstone) Daily\n\n**Smithing**\n• [Corrupted Ore](https://runescape.wikia.com/wiki/Corrupted_ore)\n• [Gold Bars](https://runescape.wikia.com/wiki/Gold_bar) at a [portable forge](https://runescape.wikia.com/wiki/Portable_forge)\n\n**Woodcutting**\n• [Crystallise](https://runescape.wikia.com/wiki/Crystallise) [Acadia](https://runescape.wikia.com/wiki/Acadia_tree) in [Menaphos](https://runescape.wikia.com/wiki/Menaphos)\n• [Ivy](https://runescape.wikia.com/wiki/Ivy)"
+                },
+                {
+                    "name": "​",
+                    "value": "**Thieving**\n• [Elven clan workers](https://runescape.wikia.com/wiki/Elven_clan_worker)\n• [Dwarf Traders](https://runescape.wikia.com/wiki/Trader)"
+                }
+            ],
+            "footer": {
+                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+                "text": "Runescore awarded: 75"
+            }
+        }
+	},
+	"work on your artisan": {
+		"cmds": ["trim"],
+		"embed": {
+            "title": "Work On Your Artisan",
+            "author": {
+                "name": "Cape Info",
+                "icon_url": "https://i.imgur.com/6c6q2iC.png"
+            },
+            "description": "[Work On Your Artisan](http://runescape.wikia.com/wiki/Work_On_Your_Artisan) is an achievement that requires the player to unlock all of the permanent [rewards](https://runescape.wikia.com/wiki/Artisans_Workshop#Rewards) from the [Artisans Workshop](https://runescape.wikia.com/wiki/Artisans_Workshop).  Artisans' Workshop is a Smithing workshop founded by [Aksel](https://runescape.wikia.com/wiki/Aksel), located in the south-east corner of [Falador](https://runescape.wikia.com/wiki/Falador).\n\nThese needed reward purchases include:\n• Quick Repairs\n• Repair Expert\n• Quick Learners\n• Budding Student\n• Master Student\n• Golden Cannon\n• Royale Cannon\n• Ceremonial Sword I\n• Ceremonial Sword II\n• Ceremonial Sword III\n• Ceremonial Sword IV\n• Ceremonial Sword V\n• Restocking Cannon\n• Ceremonial Sword Orders\n\nThe total cost of all unlocks is 590% [respect](https://runescape.wikia.com/wiki/Respect_(Artisans_Workshop). You may only have 100% respect at a time, so you will need to spend time before accruing more. You do **NOT** need to purchase the Sword Polishing Kit or Bonus Package unlocks. \n\nIt is recommended players complete this solely by doing [rune ceremonial swords](https://runescape.wikia.com/wiki/Rune_ceremonial_sword) for an extended [daily smithing challenges](https://runescape.wikia.com/wiki/Challenge_System/Smithing) as this breaks up the grind and makes use of a costless method. ",
+            "thumbnail": {
+                "url": "https://i.imgur.com/Shmagnp.png"
+            },
+            "fields": [
+                {
+                    "name": "Requirements:",
+                    "value": "• 590% respect"
+                },
+                {
+                    "name": "Guide/Method 1:",
+                    "value": "[Ceremonial Swords Guide 2017 | puretppc - YouTube](https://www.youtube.com/watch?v=2m1e7wftBE0)"
+                },
+                {
+                    "name": "Guide/Method 2:",
+                    "value": "[Road to Trimmed Completionist #6 - Artisan's Workshop | Runescape's SCRUB NATION - YouTube](https://www.youtube.com/watch?v=Qr6B32P3-SM)"
+                }
+            ],
+            "footer": {
+                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+                "text": "Runescore awarded: 20"
+            }
+        }
 	},
 	"yaktwee's a charm": {
 		"cmds": ["comp"],
