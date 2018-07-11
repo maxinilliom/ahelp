@@ -15,6 +15,7 @@ const readdir = promisify(require("fs").readdir);
 
 exports.run = async (client, message, [skill, ...args], level) => { // eslint-disable-line no-unused-vars
 	if (message.channel.id !== '429108140924076032' && level < "2") return;
+	if (args[0] == "-") return;
 	if (!skill) return message.channel.send(`Please specify a skill name.`);
 	if (skill && !client.maxGuides.includes(skill.toLowerCase())) return message.channel.send(`**${skill.toProperCase()}** is not a valid skill name.`);
 	if (!args[0] && skill !== "help" && skill !== "all" && skill !== "universal") return message.channel.send(`Please specify options to search the **${skill.toProperCase()}** guides with.`);
@@ -142,6 +143,6 @@ exports.conf = {
 exports.help = {
 	name: "max",
 	category: "Guides",
-	description: "Encyclopedia of Max Cape guides written by The Five-O and assembled by Son.",
-	usage: "max <help/skill> <level/name/help>"
+	description: "Encyclopedia of Max Cape guides composed by the AHelpers and assembled by Son.",
+	usage: "max <help/skill> <help/level/keyword>"
 };
