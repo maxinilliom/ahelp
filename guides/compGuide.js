@@ -4729,6 +4729,116 @@ exports.data = {
 			}
 		}
 	},
+	"mysteries of the tokhaar": {
+		"cmds": ["mqc"],
+		"embed": {
+            "title": "Mysteries of the TokHaar",
+            "author": {
+                "name": "Cape Info",
+                "icon_url": "https://i.imgur.com/6c6q2iC.png"
+            },
+            "description": "[Mysteries of the TokHaar](http://runescape.wikia.com/wiki/Mysteries_of_the_TokHaar) is an achievement that requires the player to have fully interacted with and claimed the experience from the [Mysterious statues](http://runescape.wikia.com/wiki/Mysterious_statue) and the [Submerged statue](http://runescape.wikia.com/wiki/Submerged_statue) after completion of the One of a Kind quest.\n\nIf the statue west of the [Brimhaven](http://runescape.wikia.com/wiki/Brimhaven) player-owned house portal cannot be spoken to, then acquire another [Animate Rock scroll](http://runescape.wikia.com/wiki/Animate_Rock_scroll) from the One of a Kind quest by going back to Robert the Strong's Library underneath [Unferth](http://runescape.wikia.com/wiki/Animate_Rock_scroll)'s house in Burthorpe. Click on the weapons rack near the stairs to obtain [Iron oxide](http://runescape.wikia.com/wiki/Iron_oxide), and use an emerald on it to create another scroll.",
+            "thumbnail": {
+                "url": "https://i.imgur.com/Shmagnp.png"
+            },
+            "fields": [
+                {
+                  "name": "Statue",
+                  "value": "Mysterious statue\nMysterious statue\nMysterious statue\nMysterious statue\nSubmerged statue",
+                  "inline": true
+                },
+                {
+                  "name": "Location",
+                  "value": "East of [Seers' Village](http://runescape.wikia.com/wiki/Seers%27_Village) bank\nSouth of the [Fishing Guild](http://runescape.wikia.com/wiki/Fishing_Guild)\nNorth of the [Tower of Life](http://runescape.wikia.com/wiki/Tower_of_Life_(building%29)\nWest of the [Brimhaven](http://runescape.wikia.com/wiki/Brimhaven) [POH portal](http://runescape.wikia.com/wiki/POH_portal)\nNorth-west corner of [Entrana](http://runescape.wikia.com/wiki/Entrana)",
+                  "inline": true
+                },
+                {
+                    "name": "Requirements:",
+                    "value": "• One of a Kind Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/One_of_a_Kind)"
+                }
+            ],
+            "footer": {
+                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+                "text": "Runescore awarded: 15"
+            }
+        }
+	},
+	"nano to kipple, come in kipple": {
+		"cmds": ["mqc"],
+		"embed": {
+            "title": "Nano To Kipple, Come In Kipple",
+            "author": {
+                "name": "Cape Info",
+                "icon_url": "https://i.imgur.com/6c6q2iC.png"
+            },
+              "description": "[Nano To Kipple, Come In Kipple](http://runescape.wikia.com/wiki/Nano_To_Kipple,_Come_In_Kipple) is an achievement that requires the player to talk to [Ariane](http://runescape.wikia.com/wiki/Ariane) at the [Wizards' Tower](http://runescape.wikia.com/wiki/Wizards%27_Tower) to claim the [Kipple Nano](http://runescape.wikia.com/wiki/Kipple_Nano) pet after completion of Heart of Stone.\n\nThe immense tower is located on a small island south of [Draynor Village](http://runescape.wikia.com/wiki/Draynor_Village), connected to the mainland by an exquisite bridge. A [Fairy ring](http://runescape.wikia.com/wiki/Fairy_ring) with the code **DIS** is located directly south of the tower. It can also be accessed by entering the eastern portal on the second floor of the [Wizards' Guild](http://runescape.wikia.com/wiki/Wizards%27_Guild).",
+            "thumbnail": {
+                "url": "https://i.imgur.com/Shmagnp.png"
+            },
+            "fields": [
+                {
+                    "name": "Requirements:",
+                    "value": "• Heart of Stone Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Heart_of_Stone)"
+                }
+            ],
+            "footer": {
+                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+                "text": "Runescore awarded: 5"
+            }
+        }
+	},
+	"naturally muspah": {
+		"cmds": ["mqc"],
+		"embed": {
+            "title": "Naturally Muspah",
+            "author": {
+                "name": "Cape Info",
+                "icon_url": "https://i.imgur.com/6c6q2iC.png"
+            },
+              "description": "[Naturally Muspah](http://runescape.wikia.com/wiki/Naturally_Muspah) is an achievement that requires the player to answer the questions of the [Natural historian](http://runescape.wikia.com/wiki/Natural_historian_(Rellekka_Hunter_area%29) in the [Rellekka Hunter area](http://runescape.wikia.com/wiki/Rellekka_Hunter_area) after completing The Tale of the Muspah.\n\nThe Rellekka Hunter area is located northeast of [Rellekka](http://runescape.wikia.com/wiki/Rellekka), near the entrance to the dwarven city of [Keldagrim](http://runescape.wikia.com/wiki/Keldagrim).",
+            "thumbnail": {
+                "url": "https://i.imgur.com/Shmagnp.png"
+            },
+            "fields": [
+                {
+                    "name": "Requirements:",
+                    "value": "• The Tale of the Muspah Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Tale_of_the_Muspah)"
+                }
+            ],
+            "footer": {
+                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+                "text": "Runescore awarded: 10"
+            }
+        }
+	},
+	"nomad's genesis": {
+		"cmds": ["mqc", "trim"],
+		"embed": {
+            "title": "Nomad's Genesis",
+            "author": {
+                "name": "Cape Info",
+                "icon_url": "https://i.imgur.com/6c6q2iC.png"
+            },
+              "description": "[Nomad's Genesis](http://runescape.wikia.com/wiki/Nomad%27s_Genesis) is an achievement that requires the player to complete the Tales of Nomad miniquest.",
+            "thumbnail": {
+                "url": "https://i.imgur.com/Shmagnp.png"
+            },
+            "fields": [
+                {
+                    "name": "Requirements:",
+                    "value": "• Nomad's Elegy Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Tale_of_the_Muspah)"
+                },
+                {
+                    "name": "Guide",
+                    "value": "[Tales of Nomad Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Tales_of_Nomad)"
+                }
+            ],
+            "footer": {
+                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+                "text": "Runescore awarded: 15"
+            }
+        }
+	},
 	"nomad's mirage": {
 		"cmds": ["trim"],
 		"embed": {
@@ -4757,6 +4867,62 @@ exports.data = {
             }
         }
 	},
+	"ocellus virius notus": {
+		"cmds": ["mqc"],
+		"embed": {
+            "title": "Ocellus Virius Notus",
+            "author": {
+                "name": "Cape Info",
+                "icon_url": "https://i.imgur.com/6c6q2iC.png"
+            },
+              "description": "[Ocellus Virius Notus](http://runescape.wikia.com/wiki/Ocellus_Virius_Notus) is an achievement that requires the player to collect twenty-two [Order journal pages](http://runescape.wikia.com/wiki/Order_journal_page) from inside the [Monastery of Ascension](http://runescape.wikia.com/wiki/Monastery_of_Ascension).\n\nThe pages are automatically added to the [History of the Order](http://runescape.wikia.com/wiki/History_of_the_Order) book when one is found. The first page will come with the book. Three can be found from the library in the dungeon, and another from the lectern next to it. The remaining 18 pages can be found by any of the monsters within the monastery and all pages can be dropped by the same monster.",
+            "thumbnail": {
+                "url": "https://i.imgur.com/Shmagnp.png"
+            },
+            "fields": [
+                {
+                    "name": "Requirements:",
+                    "value": "• 81 Slayer"
+                },
+                {
+                    "name": "Guide",
+                    "value": "[Rorarius Money Making guide | munclesonkey - YouTube](https://www.youtube.com/watch?v=FC6aL771hs4)"
+                }
+            ],
+            "footer": {
+                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+                "text": "Runescore awarded: 20"
+            }
+        }
+	},
+	"on a mission from... the gods": {
+		"cmds": ["mqc"],
+		"embed": {
+            "title": "On a Mission From... The Gods",
+            "author": {
+                "name": "Cape Info",
+                "icon_url": "https://i.imgur.com/6c6q2iC.png"
+            },
+              "description": "[On a Mission From... The Gods](http://runescape.wikia.com/wiki/On_a_Mission_From..._The_Gods) is a meta-achievement that requires the player to complete all of the [tasks](http://runescape.wikia.com/wiki/God_Emissaries/Tasks) given by the [God Emissaries](http://runescape.wikia.com/wiki/God_Emissaries).\n\nGod Emissaries are a group of followers, each devoted to a different god, who attempt to convert citizens of Gielinor to their religion as well. There are nine Emissaries, each of which will give a full account of what their god represents, what these gods have been up to since the [Edicts of Guthix](http://runescape.wikia.com/wiki/Edicts_of_Guthix) were abolished and why players should follow that particular god.",
+            "thumbnail": {
+                "url": "https://i.imgur.com/Shmagnp.png"
+            },
+            "fields": [
+                {
+                    "name": "Requirements:",
+                    "value": "• 55 Attack **or** 55 Ranged **or** 55 Strength\n• 13 Cooking **or** 14 Smithing\n• 30 Fishing **or** 30 Mining **or** 30 Woodcutting\n• 40 Firemaking **or** 40 Crafting\n• 45 Thieving **or** 50 Hunter\n• 30 Woodcutting \n• 30 Fishing \n• 30 Mining \n• 60 Woodcutting **or** 60 Fishing **or** 60 Mining\n• A combined total of 200 levels in Summoning, Magic, Prayer, and Runecrafting"
+                },
+                {
+                    "name": "Guide",
+                    "value": "[God Emissaries Tasks guide | Runescape Wiki](https://www.youtube.com/watch?v=FC6aL771hs4)"
+                }
+            ],
+            "footer": {
+                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+                "text": "Runescore awarded: 10"
+            }
+        }
+	},
 	"on a rune high": {
 		"cmds": ["trim"],
 		"embed": {
@@ -4782,6 +4948,62 @@ exports.data = {
             "footer": {
                 "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
                 "text": "Runescore awarded: 10"
+            }
+        }
+	},
+	"one final ride": {
+		"cmds": ["mqc"],
+		"embed": {
+            "title": "One Final Ride",
+            "author": {
+                "name": "Cape Info",
+                "icon_url": "https://i.imgur.com/6c6q2iC.png"
+            },
+              "description": "[One Final Ride](http://runescape.wikia.com/wiki/One_Final_Ride) is an achievement that requires the player to obtain and read the [Last riders](http://runescape.wikia.com/wiki/Last_riders) book as a very rare drop from the [King Black Dragon](http://runescape.wikia.com/wiki/King_Black_Dragon).\n\nIt has a drop rate of 1/1,000, but after 1,000 kill count, each kill will decrease the denominator by 1, so it is a guaranteed drop on a solo kill with a kill count of at least 2,000.",
+            "thumbnail": {
+                "url": "https://i.imgur.com/Shmagnp.png"
+            },
+            "fields": [
+                {
+                    "name": "Requirements:",
+                    "value": "None"
+                },
+                {
+                    "name": "Guide",
+                    "value": "[Low Level King Black Dragon guide | Lildogdog RS - YouTube](https://www.youtube.com/watch?v=tak1OoQG7nY)"
+                }
+            ],
+            "footer": {
+                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+                "text": "Runescore awarded: 20"
+            }
+        }
+	},
+	"one man's junk... is mine": {
+		"cmds": ["mqc"],
+		"embed": {
+            "title": "One Man's Junk...Is Mine",
+            "author": {
+                "name": "Cape Info",
+                "icon_url": "https://i.imgur.com/6c6q2iC.png"
+            },
+              "description": "[One Man's Junk...Is Mine](http://runescape.wikia.com/wiki/One_Man%27s_Junk...Is_Mine) is an achievement that requires the player to fully loot [Movario's base](http://runescape.wikia.com/wiki/Movario%27s_base#The_storage_room). The room containing all the loot can be accessed by entering a tunnel in Movario's study. Movario's base contains 100 of each of the following; coal, death runes, fire runes, and magic logs.\n\nThe entrance to the base is in a ruined building on the Khazard [Battlefield](http://runescape.wikia.com/wiki/Battlefield). The building can be entered by climbing the broken wall. The quickest way to get to the base is to use a [Spirit tree](http://runescape.wikia.com/wiki/Spirit_tree) to go to the battlefield. Other practical options are to use an [Ardougne teleport](http://runescape.wikia.com/wiki/Ardougne_teleport), an [Ourania Teleport](http://runescape.wikia.com/wiki/Ourania_Teleport) from the [Lunar spells](http://runescape.wikia.com/wiki/Lunar_spells), or [Fairy ring](http://runescape.wikia.com/wiki/Fairy_ring) **D-J-P** to the [Tower of Life](http://runescape.wikia.com/wiki/Tower_of_Life_(building%29). ",
+            "thumbnail": {
+                "url": "https://i.imgur.com/Shmagnp.png"
+            },
+            "fields": [
+                {
+                    "name": "Requirements:",
+                    "value": "While Guthix Sleeps Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/While_Guthix_Sleeps)"
+                },
+                {
+                    "name": "Guide",
+                    "value": "[Movario's Base guide | Runescape Wiki](http://runescape.wikia.com/wiki/Movario%27s_base)"
+                }
+            ],
+            "footer": {
+                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+                "text": "Runescore awarded: 20"
             }
         }
 	},
