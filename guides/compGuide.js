@@ -5035,6 +5035,58 @@ exports.data = {
 			}
 		}
 	},
+	"ornate crockery": {
+		"cmds": ["mqc"],
+		"embed": {
+			"title": "Ornate Crockery",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Ornate Crockery](http://runescape.wikia.com/wiki/Ornate_Crockery) is an achievement that requires the player to create the [Ornate bowl](http://runescape.wikia.com/wiki/Ornate_bowl) by mining [Magic stone](http://runescape.wikia.com/wiki/Magic_stone_(Tears_of_Guthix%29), and using a chisel on a [Larger rock](http://runescape.wikia.com/wiki/Larger_rock), and handing it to [Juna](http://runescape.wikia.com/wiki/Juna).\n\nA larger rock may be mined from the Magic stone mine across the chasm by [Tears of Guthix](http://runescape.wikia.com/wiki/Tears_of_Guthix_cavern).\n\nJuna can be found protecting the Tears of Guthix cave.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• 80 Crafting\n• 80 Mining\n\n• Tears of Guthix Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Tears_of_Guthix)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 10"
+			}
+		}
+	},
+	"otto the ancient": {
+		"cmds": ["mqc"],
+		"embed": {
+			"title": "Otto the Ancient",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Otto the Ancient](http://runescape.wikia.com/wiki/Otto_the_Ancient) is an achievement that requires the player to find all 26 ancient pages from rummaging skeletons and fighting monsters within the Ancient Cavern.\n\nYou must add the page to My Notes before the next can be found. Duplicate pages may still be obtained before completion of My notes if rummaging skeletons. Because they are uncommon drops, My notes will take several hours to complete.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• Access to the Ancient Cavern | [Runescape Wiki](http://runescape.wikia.com/wiki/Ancient_Cavern)"
+				},
+				{
+					"name": "Guide:",
+					"value": "[Ancient Pages guide | Charis - YouTube](https://www.youtube.com/watch?v=A3hzA8ToS4E)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 30"
+			}
+		}
+	},
 	"out into the ourania": {
 		"cmds": ["comp", "mqc"],
 		"embed": {
@@ -5056,6 +5108,54 @@ exports.data = {
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 15"
+			}
+		}
+	},
+	"oyster mash": {
+		"cmds": ["mqc"],
+		"embed": {
+			"title": "Oyster Mash",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Oyster Mash](http://runescape.wikia.com/wiki/Oyster_Mash) is an achievement that requires the player to feed the Giant Oyster on Tutorial Island.\n\nTutorial Island is a sunken island visited during Beneath Cursed Tides, where the adventurer explores the island and searches for clues as to why it sank. Speak to Wizard Myrtle, found outside Wizards' Tower, to return to Tutorial Island.\n\nOnce beneath the tides,  delicious seaweed can be harvested from the tasty looking seaweed patch north of the Oyster, near the large Jellyfish, and a sea cucumber can be fished from the fishing spots found west of the Giant Oyster. The player must then feed both the delicious seaweed and the sea cucumber to the giant oyster.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• Beneath Cursed Tides Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Beneath_Cursed_Tides)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 5"
+			}
+		}
+	},
+	"paint it red": {
+		"cmds": ["mqc"],
+		"embed": {
+			"title": "Paint it Red",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Paint it Red](http://runescape.wikia.com/wiki/Paint_it_Red) is an achievement that requires the player to uncover the secrets of haemalchemy, after the River of Blood quest.\n\nThis can be done by talking to Vanescula Drakan on the roof of Castle Drakan. The player will have a choice to select one free blood essence which also grants the ability to craft blood essences.\n\nCastle Drakan is the home of Lord Drakan, the vampyre lord of Morytania, built as an exact replica of the Drakan family's castle on Vampyrium. Found just north of Meiyerditch, it looms over the Sanguinesti region and reminds all that are trapped there of the vampyres' dominance.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• River of Blood Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/River_of_Blood)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 20"
 			}
 		}
 	},
@@ -5114,6 +5214,34 @@ exports.data = {
                 "text": "Runescore awarded: 20"
             }
         }
+	},
+	"penny for your life": {
+		"cmds": ["mqc"],
+		"embed": {
+			"title": "Penny for Your Life",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Penny for Your Life](http://runescape.wikia.com/wiki/Penny_for_Your_Life) is an achievement that requires the player to buy all the upgrades from Gypsy Aris' Reward Shop after Dimension of Disaster (excluding the weekly XP lamp), requiring a total of 30 silver pennies, equivalent to completing the quest and then replaying it four more times.\n\nIt is recommended to buy the Curse of Arrav boss fight shortcut first and the Demon Slayer boss fight shortcut second in order to make the subsequent playthroughs quicker.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• Dimension of Disaster Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Dimension_of_Disaster)"
+				},
+				{
+					"name": "Guide:",
+					"value": "[Dimension of Disaster guide | Runescape Wiki](http://runescape.wikia.com/wiki/Dimension_of_Disaster)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 15"
+			}
+		}
 	},
 	"perky like a prawn": {
 		"cmds": ["trim"],
@@ -5191,6 +5319,30 @@ exports.data = {
 			}
 		}
 	},
+	"post fume": {
+		"cmds": ["mqc"],
+		"embed": {
+			"title": "Post Fume",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Post Fume](http://runescape.wikia.com/wiki/Post_Fume) is an achievement that requires the player to kill all of four Pollnivneach Slayer Dungeon bosses.\n\n• [Monstrous cave crawler](http://runescape.wikia.com/wiki/Monstrous_cave_crawler)\n• [Basilisk boss](http://runescape.wikia.com/wiki/Basilisk_boss)\n• [Mightiest turoth](http://runescape.wikia.com/wiki/Mightiest_turoth)\n• [Kurask overlord](http://runescape.wikia.com/wiki/Kurask_overlord)",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• Smoking Kills Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Smoking_Kills)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 20"
+			}
+		}
+	},
 	"potion for a lady": {
 		"cmds": ["comp", "mqc"],
 		"embed": {
@@ -5236,6 +5388,58 @@ exports.data = {
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 60"
+			}
+		}
+	},
+	"power of three spirits": {
+		"cmds": ["mqc"],
+		"embed": {
+			"title": "Power of Three Spirits",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Power of Three Spirits](http://runescape.wikia.com/wiki/Power_of_Three_Spirits) is an achievement that requires the player to unlock the ability to grow three spirit trees at once. This ability is unlocked by completing the Plague's End and The Prisoner of Glouphrie quests while also having level 89 Farming by talking with Glouron near the spirit tree in Prifddinas.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• 89 Farming\n\n• The Prisoner of Glouphrie Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Prisoner_of_Glouphrie)\n• Plague's End Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Plague%27s_End)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 10"
+			}
+		}
+	},
+	"quiet but deadly lore": {
+		"cmds": ["mqc"],
+		"embed": {
+			"title": "Quiet but Deadly Lore",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Quiet but Deadly Lore](http://runescape.wikia.com/wiki/Quiet_but_Deadly_Lore) is an achievement that requires the player to kill the Queen Black Dragon for all dragonkin journals and also read these journals.\n\nThe first dragonkin journal is a 100% drop from a player's first kill of the Queen Black Dragon, while journals 2-4 are common drops.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• 60 Summoning"
+				},
+				{
+					"name": "Guide:",
+					"value": "[Complete Queen Black Dragon guide | Trissle - YouTube](https://www.youtube.com/watch?v=2hsgcV_fp5Q)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 30"
 			}
 		}
 	},
@@ -5288,6 +5492,54 @@ exports.data = {
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 75"
+			}
+		}
+	},
+	"relight my fire": {
+		"cmds": ["mqc"],
+		"embed": {
+			"title": "Relight my Fire",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Relight my Fire](http://runescape.wikia.com/wiki/Relight_my_Fire) is an achievement that requires the player to re-kindle the Dragon Forge.\n\nAfter the completion of the quest, While Guthix Sleeps, it is possible to unlock the mithril door on the upper level using a Dragonkin key. This key is made by fusing together the strange key teeth with the strange key loop, items found during the quest. The player can get the key fused by using either piece on a mithril dragon while having the other piece of the key in inventory.\n\nBe aware that some players regard this activity as being hazardous while the mithril dragons are aggressive, although it is possible to fuse the key on a mithril dragon that is attacking. The key cannot be fused on a mithril dragon, however, while the player is being attacked by a different mithril dragon.\n\nThe Dragonkin key unlocks the mithril door. The key disappears when this occurs, and the door thereafter remains unlocked. The player can then enter the mithril key chamber. Inside the mithril door are three hanging dragon heads and a giant orb in the centre. The player must click on each head to light it using Fire Wave spells, which will cause them to have fire to appear in their mouths and to slide towards the orb in the centre.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• While Guthix Sleeps Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/While_Guthix_Sleeps)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 20"
+			}
+		}
+	},
+	"reliquary of cithara": {
+		"cmds": ["mqc"],
+		"embed": {
+			"title": "Reliquary of Cithara",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Reliquary of Cithara](http://runescape.wikia.com/wiki/Reliquary_of_Cithara) is an achievement that requires the player to obtain and play the Holy Cithara.\n\nTo obtain the Holy Cithara a player must wear at least 6 pieces of certain Saradomin-aligned equipment and meet certain holy requirements:\n• The player must be on the standard spellbook or Lunar spellbook.\n• The player must be on standard prayers and have full prayer points.\n• The player must have 100% run energy.\n• The player must not have a follower or pet summoned\n• The player must have the following equipped:\n\n• A ring of visibility (unless the player has been granted the gift of looking into the shadow realm by Sliske)\n• A ghostspeak amulet or cramulet (unless the reward from the Morytania Hard Tasks have been claimed)\n• Six pieces of acceptable Saradomin equipment that the player owns. No items aligned with another god may be either equipped or in the player's inventory. Neither the ring of visibility nor ghostspeak amulet count as one of these items.\n\nIt can take several tries to successfully grab the cithara. If players don't obtain it on their first try, but the ghost appears and the player doesn't get dealt any damage, keep trying until you get it.\n\nIf you get a message reading \"An invisible force gently but firmly moves your hand away from the cithara\", you are not wearing the correct ring.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• One Piercing Note Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/One_Piercing_Note)\n• The Restless Ghost Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Restless_Ghost)\n• Desert Treasure Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Desert_Treasure)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 10"
 			}
 		}
 	},
