@@ -85,7 +85,7 @@ exports.run = async (client, message, [skill, ...args], level) => { // eslint-di
 		keyList.forEach(k => {
 			const first = Number(k.split(" ")[0]);
 			let last = Number(k.split(" ")[2]);
-			if (last == "99") last += 1;
+			if (last >= "99") last += 1;
 			if (args[0] >= first && args[0] < last && !/\bpt\d/.test(k) && !rtnArr.includes(k)) rtnArr.push(k);
 			if (args[0] >= first && args[0] < last && /\bpt\d/.test(k)) {
 				const guide = data[k];
