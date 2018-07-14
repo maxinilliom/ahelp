@@ -31,7 +31,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 		let i = 0, o = 0, x = keyList.length;
 		function list() {
 			const guide = data[keyList[o]].embed;
-			guide.author.name = "True Trimmed Completionist Cape Info";
+			guide.author.name = "True Trimmed Info";
 			guide.color = 10257648;
 			guide.timestamp = new Date();
 			message.channel.send("", {embed: guide});
@@ -57,8 +57,8 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 				second += `• ${data[k].embed.title}\n`;
 			}
 		});
-		helpEmbed.title = "Comprehensive list of all valid True Trimmed Completionist Cape guide commands";
-		helpEmbed.author.name = "True Trimmed Completionist Cape Info";
+		helpEmbed.title = "Comprehensive list of all valid True Trimmed guide commands";
+		helpEmbed.author.name = "True Trimmed Info";
 		helpEmbed.description = output;
 		helpEmbed.color = 10257648;
 		helpEmbed.timestamp = new Date();
@@ -80,7 +80,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 		return message.channel.send(`No results found for **${args.join(" ")}**.`);
 	} else if (rtnArr.length == 1) {
 		const guide = data[rtnArr[0]].embed;
-		guide.author.name = "True Trimmed Completionist Cape Info";
+		guide.author.name = "True Trimmed Info";
 		guide.color = 10257648;
 		guide.timestamp = new Date();
 		message.channel.send("", {embed: guide});
@@ -92,8 +92,8 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 			output += `${i}: ${data[rtnArr[i-1]].embed.title}\n`;
 			i++;
 		});
-		searchEmbed.title = "All True Trimmed Completionist Cape guide commands matching your search";
-		searchEmbed.author.name = "True Trimmed Completionist Cape Info";
+		searchEmbed.title = "All True Trimmed guide commands matching your search";
+		searchEmbed.author.name = "True Trimmed Info";
 		searchEmbed.description = output;
 		searchEmbed.color = 10257648;
 		searchEmbed.timestamp = new Date();
@@ -118,6 +118,6 @@ exports.conf = {
 exports.help = {
 	name: "truetrim",
 	category: "Guides",
-	description: "Encyclopedia of True Trimmed Completionist Cape guides written by Frosty and assembled by Son.",
+	description: "Encyclopedia of True Trimmed guides written by Frosty and assembled by Son.",
 	usage: "truetrim <help/achievement name>"
 };
