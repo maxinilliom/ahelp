@@ -149,7 +149,9 @@ exports.data = {
       }
       ]
   },
-  "distractions and diversions": {},
+  "distractions and diversions": {
+    "title": "Embed missing"
+  },
   "daily challenge": {
     "title": "Daily Challenge",
     "url": "http://runescape.wikia.com/wiki/Challenge_System/Crafting",
