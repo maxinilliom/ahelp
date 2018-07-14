@@ -5543,6 +5543,30 @@ exports.data = {
 			}
 		}
 	},
+	"respect the balance": {
+		"cmds": ["mqc"],
+		"embed": {
+			"title": "Respect the Balance",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Respect the Balance](http://runescape.wikia.com/wiki/Respect_the_Balance) is an achievement that requires the player to pay respects and light the torches in [Guthix's shrine](http://runescape.wikia.com/wiki/Guthix%27s_shrine).",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• 74 Firemaking\n\n• The World Wakes Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_World_Wakes)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 15"
+			}
+		}
+	},
 	"rhian the gold - the original": {
 		"cmds": ["comp"],
 		"embed": {
@@ -5568,6 +5592,77 @@ exports.data = {
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 50"
+			}
+		}
+	},
+	"roake kal": {
+		"cmds": ["mqc"],
+		"embed": {
+			"title": "Roake Kal",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Roake Kal](http://runescape.wikia.com/wiki/Roake_Kal) is an achievement that requires the player to decipher all 4 murals on the west wall of the sunken temple, where Rabid Jack was defeated, after completion of Pieces of Hate.\n\nThe temple can be revisited by using the rowboat on the south-west coast of Mos Le'Harmless then running north and passing through the shimmering barrier. Deciphering each mural requires level 85 in Agility, Construction, Firemaking, and Thieving and will grant 50,000 experience in each of the required skills.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• 85 Agility\n• 85 Construction\n• 85 Firemaking\n• 85 Thieving \n\n• Pieces of Hate Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Pieces_of_Hate)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 10"
+			}
+		}
+	},
+	"rogue down": {
+		"cmds": ["mqc"],
+		"embed": {
+			"title": "Rogue Down",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Rogue Down](http://runescape.wikia.com/wiki/Rogue_Down) is an achievement that requires the player to free the Wilderness portal rogue trader in Rogues' Castle after Summer's End.\n\nThe Rogue is a non-player character that players first encounter by completing the quest Summer's End. To find him, players must enter the Spirit Realm using Jennica's ring via the portal located in the Rogues' Castle courtyard and close the prison doors there; this will open them in the \"real\" world, allowing the players to talk to him.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• Summer's End Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Summer%27s_End)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 15"
+			}
+	},
+	"rusty reward": {
+		"cmds": ["mqc"],
+		"embed": {
+			"title": "Rusty Reward",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Rusty Reward](http://runescape.wikia.com/wiki/Rusty_Reward) is an achievement that requires the player claim 20 coins from the bartender of the Rusty Anchor after Rocking Out.\n\nThe Rusty Anchor is a bar found in the northeast corner of the Asgarnian port city of Port Sarim.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• Rocking Out Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Rocking_Out)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 15"
 			}
 		}
 	},
@@ -5598,6 +5693,82 @@ exports.data = {
                 "text": "Runescore awarded: 20"
             }
         }
+	},
+	"scabigail": {
+		"cmds": ["mqc", "trim"],
+		"embed": {
+			"title": "Scabigail",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Scabigail](http://runescape.wikia.com/wiki/Scabigail) is an achievement that requires the player to collect all 19 Scabarite notes by killing skeletons, dried zombies, and scabarites at the northern part of Ullek, or mummies to the west and adding them to the Scabaras research before handing it in to Lead archaeologist Abigail after Dealing with Scabaras.\n\nSome notes can also be found by searching the chests spread throughout the Scabarite Hive dungeon, namely chapters 18 and 19. The other notes are uncommon drops from creatures within the Scabarite Hive dungeon.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• Dealing with Scabaras Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Dealing_with_Scabaras)"
+				},
+				{
+					"name": "Guide:",
+					"value": "[Scabarite Notes Collection guide | Rogie - YouTube](https://www.youtube.com/watch?v=8rz821vlUsw)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 10"
+			}
+		}
+	},
+	"scribbling in the depths": {
+		"cmds": ["mqc", "trim"],
+		"embed": {
+			"title": "Scribbling in the Depths",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Scribbling in the Depths](http://runescape.wikia.com/wiki/Scribbling_in_the_Depths) is an achievement that requires the player to obtain the Constitution experience after completion of the Song from the Depths quest with level 80 Constitution.\n\nEnter the quest cave (where souls wandered, entrance in a wall south of the Rimmington mining site). Swim through the acid pool (requires 50 Constitution) and go through the only door to the east. In the next cave, go west, then south, then east, then north. Read the northern Ancient writings for 5,000 Constitution experience, then swim through the acid pool (requires 80 Constitution and will cause 50+ damage, but cannot kill you) and read the second wall for the remaining 25,000 Constitution experience.\n\nBefore reading the ancient writings, their examine text is, \"This text is some kind of magic to fortify the body.\" Once the ancient writings have been read examine will yield the message \"The writing has jumbled to become incomprehensible.\"",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• 80 Constitution\n\n• Song from the Depths Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Song_from_the_Depths)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 10"
+			}
+		}
+	},
+	"scribblings of a dragonkin": {
+		"cmds": ["mqc"],
+		"embed": {
+			"title": "Scribblings of a Dragonkin",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Scribblings of a Dragonkin](http://runescape.wikia.com/wiki/Scribblings_of_a_Dragonkin) is an achievement that requires the player to collect Vicendithas' Scribblings inside of the Edimmu resource dungeon.\n\nVicendithas' Scribblings is a book found by searching the Dragonkin altar.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• 115 Dungeoneering"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 25"
+			}
+		}
 	},
 	"seagullible": {
 		"cmds": ["trim"],
