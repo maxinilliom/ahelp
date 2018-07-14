@@ -225,7 +225,9 @@ exports.data = {
       ]
   },
   "distractions and diversions": {
-    "title": "Embed missing"
+    "author": {
+      "name": "Embed missing"
+    }
   },
   "daily challenge": {
     "title": "Daily Challenge",
@@ -236,16 +238,19 @@ exports.data = {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
-   
     "author": {
       "name": "Max Cape Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     }
   },
   "permanent boosts": {
-    "title": "Embed missing"
+    "author": {
+      "name": "Embed missing"
+    }
   },
   "temporary boosts": {
-    "title": "Embed missing"
-  }
+    "author": {
+      "name": "Embed missing"
+    }
+  },
 };

@@ -150,7 +150,9 @@ exports.data = {
       ]
   },
   "distractions and diversions": {
-    "title": "Embed missing"
+    "author": {
+      "name": "Embed missing"
+    }
   },
   "daily challenge": {
     "title": "Daily Challenge",
