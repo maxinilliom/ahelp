@@ -5665,6 +5665,7 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 15"
 			}
+		}
 	},
 	"rusty reward": {
 		"cmds": ["mqc"],
