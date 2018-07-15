@@ -1685,6 +1685,30 @@ exports.data = {
 			}
 		}
 	},
+	"claiming the knight's experience": {
+		"cmds": ["mqc"],
+		"embed": {
+            "title": "Claiming the Knight's Experience",
+            "author": {
+                "name": "Cape Info",
+                "icon_url": "https://i.imgur.com/6c6q2iC.png"
+            },
+            "description": "[Claiming the Knight's Experience](http://runescape.wikia.com/wiki/Claiming_the_Knight%27s_Experience) is an achievement that requires the player to claim the Smithing XP lamp from Squire Asrol after completing the quest, The Knight's Sword. \n\nSquire Asrol is the squire of Sir Vyvin. He can be found in the courtyard of the White Knights' castle.",
+            "thumbnail": {
+                "url": "https://i.imgur.com/Shmagnp.png"
+            },
+            "fields": [
+                {
+                    "name": "Requirements:",
+                    "value": "•  The Knight's Sword Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Knight%27s_Sword)"
+                }
+            ],
+            "footer": {
+                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+                "text": "Runescore awarded: 10"
+            }
+        }
+	},
 	"class crown": {
 		"cmds": ["trim"],
 		"embed": {
@@ -5794,6 +5818,30 @@ exports.data = {
             }
         }
 	},
+	"sentient letters": {
+		"cmds": ["mqc"],
+		"embed": {
+            "title": "Sentient Letters",
+            "author": {
+                "name": "Cape Info",
+                "icon_url": "https://i.imgur.com/6c6q2iC.png"
+            },
+            "description": "[Sentient Letters](http://runescape.wikia.com/wiki/Sentient_Letters) is an achievement that requires the player to collect the four lore drops (Letter signed 'Pontifex Madromurt', Letter signed 'Pontifex Nabor', Letter signed 'Pontifex Bilrach' and the damaged digsite letter) from activities within The Empty Throne Room.\n\nTraining at any of the skill nodes has a chance to add a Senntisten scroll to the player's inventory. Senntisten scrolls are items found randomly while skilling in The Empty Throne Room. They should be returned to Celia Diggory, which unlocks the ability to claim a transcribed copy from her.\n\nThe Empty Throne Room (also known as the Senntisten digsite) is the excavated remains of the throne room of Zaros in the ancient city of Senntisten. It is located to the east of the Digsite.",
+            "thumbnail": {
+                "url": "https://i.imgur.com/Shmagnp.png"
+            },
+            "fields": [
+                {
+                    "name": "Requirements:",
+                    "value": "• 65 Mining **or** 65 Agility **or** 65 Divination"
+                }
+            ],
+            "footer": {
+                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+                "text": "Runescore awarded: 10"
+            }
+        }
+	},
 	"seren memories": {
 		"cmds": ["comp", "mqc"],
 		"embed": {
@@ -5821,6 +5869,30 @@ exports.data = {
 				"text": "Runescore awarded: 20"
 			}
 		}
+	},
+	"shadow hanging over me": {
+		"cmds": ["mqc"],
+		"embed": {
+            "title": "Shadow Hanging Over Me",
+            "author": {
+                "name": "Cape Info",
+                "icon_url": "https://i.imgur.com/6c6q2iC.png"
+            },
+            "description": "[Shadow Hanging Over Me](http://runescape.wikia.com/wiki/Shadow_Hanging_Over_Me) is an achievement that requires the player to claim all treasure from the chests during (or from Gudrik after) the A Shadow over Ashdale quest.\n\nGudrik Halbaddon is a retired dwarf adventurer who can be found south-west of Taverley's bank.",
+            "thumbnail": {
+                "url": "https://i.imgur.com/Shmagnp.png"
+            },
+            "fields": [
+                {
+                    "name": "Requirements:",
+                    "value": "•  A Shadow over Ashdale Quest partial completion | [Runescape Wiki](http://runescape.wikia.com/wiki/A_Shadow_over_Ashdale)"
+                }
+            ],
+            "footer": {
+                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+                "text": "Runescore awarded: 5"
+            }
+        }
 	},
 	"shadows below": {
 		"cmds": ["trim"],
@@ -5850,6 +5922,34 @@ exports.data = {
             }
         }
 	},
+	"sheep shearer": {
+		"cmds": ["mqc", "trim"],
+		"embed": {
+            "title": "Sheep Shearer",
+            "author": {
+                "name": "Cape Info",
+                "icon_url": "https://i.imgur.com/6c6q2iC.png"
+            },
+            "description": "[Sheep Shearer](http://runescape.wikia.com/wiki/Sheep_Shearer_(achievement%29) is an achievement that requires the player to complete the Sheep Shearer miniquest.",
+            "thumbnail": {
+                "url": "https://i.imgur.com/Shmagnp.png"
+            },
+            "fields": [
+                {
+                    "name": "Requirements:",
+                    "value": "None"
+                },
+                {
+                  "name": "Guide:",
+                  "value": "[Sheep Shearer Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Sheep_Shearer)"
+                }
+            ],
+            "footer": {
+                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+                "text": "Runescore awarded: 5"
+            }
+        }
+	},
 	"sing for the lady": {
 		"cmds": ["comp", "mqc"],
 		"embed": {
@@ -5873,6 +5973,34 @@ exports.data = {
 				"text": "Runescore awarded: 10"
 			}
 		}
+	},
+	"skeletal wishes": {
+		"cmds": ["mqc"],
+		"embed": {
+            "title": "Skeletal Wishes",
+            "author": {
+                "name": "Cape Info",
+                "icon_url": "https://i.imgur.com/6c6q2iC.png"
+            },
+            "description": "[Skeletal Wishes](http://runescape.wikia.com/wiki/Skeletal_Wishes) is an achievement that requires the player to complete the Rag and Bone Man wish list and the Fur 'n' Seek wish list, and then having the Odd Old Man rebuild the skeletal horror.",
+            "thumbnail": {
+                "url": "https://i.imgur.com/Shmagnp.png"
+            },
+            "fields": [
+                {
+                    "name": "Requirements:",
+                    "value": "• Fur 'n' Seek Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Fur_%27n%27_Seek)\n• Recipe for Disaster: Freeing King Awowogei Subquest partial completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Recipe_for_Disaster:_Freeing_King_Awowogei)\n• The Fremennik Trials Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Fremennik_Trials)\n• Horror from the Deep Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Horror_from_the_Deep)\nStarted the pyre ship section of Barbarian Firemaking | [Runescape Wiki](http://runescape.wikia.com/wiki/Barbarian_Firemaking)"
+                },
+                {
+                  "name": "Guides:",
+                  "value": "• [Rag and Bone man Wish list guide | Runescape Wiki](http://runescape.wikia.com/wiki/Rag_and_Bone_Man/Wish_list)\n• [Fur 'n' Seek Wish list guide | Runescape Wiki]()"
+                }
+            ],
+            "footer": {
+                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+                "text": "Runescore awarded: 15"
+            }
+        }
 	},
 	"slayer master": {
 		"cmds": ["comp"],
@@ -5901,6 +6029,34 @@ exports.data = {
 				"text": "Runescore awarded: 45"
 			}
 		}
+	},
+	"slime and snails and god war tales": {
+		"cmds": ["mqc", "trim"],
+		"embed": {
+            "title": "Slime and Snails and God Wars Tales",
+            "author": {
+                "name": "Cape Info",
+                "icon_url": "https://i.imgur.com/6c6q2iC.png"
+            },
+            "description": "[Slime and Snails and God Wars Tales](http://runescape.wikia.com/wiki/Slime_and_Snails_and_God_Wars_Tales) is an achievement that requires the player to complete Tales of the God Wars.",
+            "thumbnail": {
+                "url": "https://i.imgur.com/Shmagnp.png"
+            },
+            "fields": [
+                {
+                    "name": "Requirements:",
+                    "value": "• 70 Constitution\n• 70 Strength **or** 70 Agility \n\n• Troll Stronghold Quest partial completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Troll_Stronghold)\n• Death Plateau Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Death_Plateau)"
+                },
+                {
+                  "name": "Guide:",
+                  "value": "• [Tales of the God Wars Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Tales_of_the_God_Wars)"
+                }
+            ],
+            "footer": {
+                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+                "text": "Runescore awarded: 20"
+            }
+        }
 	},
 	"special slayer delivery": {
 		"cmds": ["trim"],
