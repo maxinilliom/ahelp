@@ -35,7 +35,11 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
                         guide.author.name = "Master Quest Cape Info";
                         guide.color = 8113151;
                         guide.timestamp = new Date();
-                        message.channel.send("", {embed: guide});
+                        try {
+				message.channel.send("", {embed: guide});
+			} catch (err) {
+				i--;
+			}
                         i++;
                         o++;
                         if (o < x) {
@@ -50,26 +54,40 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 	if (args[0].toLowerCase() == "help") {
 		let output = "";
 		let second = "";
+		let third = "";
 		const helpEmbed = data["help"].embed;
+		const thirdEmbed = data["help"].embed;
 		keyList.forEach(k => {
 			if (output.length <= 2000) {
 				output += `• ${data[k].embed.title}\n`;
-			} else {
+			} else if (second.length <= 2000) {
 				second += `• ${data[k].embed.title}\n`;
+			} else {
+				third += `• ${data[k].embed.title}\n`;
 			}
 		});
+
+		message.channel.send(`${output.length}, ${second.length}, ${third.length}`);
+
+		await client.wait(500);
 
 		helpEmbed.title = "Comprehensive list of all valid Master Quest Cape guide commands";
 		helpEmbed.author.name = "Master Quest Cape Info";
 		helpEmbed.description = output;
 		helpEmbed.color = 8113151;
 		helpEmbed.timestamp = new Date();
-		message.channel.send("", {embed: helpEmbed});
+		await message.channel.send("", {embed: helpEmbed});
 
 		if (second.length > 0) {
 			helpEmbed.description = second;
 			helpEmbed.timestamp = new Date();
-			message.channel.send("", {embed: helpEmbed});
+			await message.channel.send("", {embed: helpEmbed});
+		}
+
+		if (third.length > 0) {
+			helpEmbed.description = third;
+			helpEmbed.timestamp = new Date();
+			await message.channel.send("", {embed: helpEmbed});
 		}
 		return;
 	}
