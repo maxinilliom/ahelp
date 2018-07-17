@@ -309,7 +309,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Ape A'hollow](http://runescape.wikia.com/wiki/Ape_A%27hollow) is an achievement that requires the player to clear shortcuts on Ape Atoll and Gu'Tanoth during or after Fairy Tale III - Orks Rift.\n\nThe shortcuts can be found in the following locations:\n• Hollow Log: At the top of a mountain in the Ape Atoll Agility Course near fairy ring C-L-R\n• Tunnel: Gu'Tanoth, north of fairy ring A-L-P",
+			"description": "[Ape A'hollow](http://runescape.wikia.com/wiki/Ape_A%27hollow) is an achievement that requires the player to clear shortcuts on Ape Atoll and Gu'Tanoth during or after Fairy Tale III - Orks Rift.\n\nThe shortcuts can be found in the following locations:\n• Hollow Log: At the top of a mountain in the Ape Atoll Agility Course near fairy ring code **C-L-R**\n• Tunnel: Gu'Tanoth, north of fairy ring code **A-L-P**",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -1369,7 +1369,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Caving Into the Gains](http://runescape.wikia.com/wiki/Caving_Into_the_Gains) is an achievement that requires the player to claim the experience from the cave paintings during or after the Myths of the White Lands quest and claim 5,000 coins from Explorer Jack in the Land of Snow after the quest.\n\nHead over to the Wizards' Tower west of Lumbridge (Fairy Ring code D-I-S) and talk to Isidor. He can be found by ascending the beam onto the 1st floor then going west. Speak to him and he will teleport the player to the Land of Snow. Players are not allowed to teleport with their own snow imp.",
+			"description": "[Caving Into the Gains](http://runescape.wikia.com/wiki/Caving_Into_the_Gains) is an achievement that requires the player to claim the experience from the cave paintings during or after the Myths of the White Lands quest and claim 5,000 coins from Explorer Jack in the Land of Snow after the quest.\n\nHead over to the Wizards' Tower west of Lumbridge (Fairy Ring code **D-I-S**) and talk to Isidor. He can be found by ascending the beam onto the 1st floor then going west. Speak to him and he will teleport the player to the Land of Snow. Players are not allowed to teleport with their own snow imp.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -2801,7 +2801,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Fires Are Mostly Harmless](http://runescape.wikia.com/wiki/Fires_Are_Mostly_Harmless) is an achievement that requires the player to light the campfire on Mos Le'Harmless (near fairy ring dip) using 8 willow logs and finding the herb cache in the south-eastern section of the Gu'Tanoth cave (fairy ring alp) after completion of Fairy Tale III - Battle at Orks Rift.",
+			"description": "[Fires Are Mostly Harmless](http://runescape.wikia.com/wiki/Fires_Are_Mostly_Harmless) is an achievement that requires the player to light the campfire on Mos Le'Harmless (near fairy ring code **D-I-P**) using 8 willow logs and finding the herb cache in the south-eastern section of the Gu'Tanoth cave (fairy ring code **A-L-P**) after completion of Fairy Tale III - Battle at Orks Rift.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -3149,7 +3149,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Here Was a Scabaras Mask](http://runescape.wikia.com/wiki/Here_Was_a_Scabaras_Mask) is an achievement that requires the player to mine a crack in the room under the quicksand encountered during Diamond in the Rough to gain access to a treasure room containing the Scabaras mask and the Was.\n\nTo reach the fissure room, go down the well (north-west of the Kalphite Lair, fairy ring BIQ) and go in the tunnel in the east wall of the Kalphite nursery. Then go through the tunnel all the way to the other side and enter.",
+			"description": "[Here Was a Scabaras Mask](http://runescape.wikia.com/wiki/Here_Was_a_Scabaras_Mask) is an achievement that requires the player to mine a crack in the room under the quicksand encountered during Diamond in the Rough to gain access to a treasure room containing the Scabaras mask and the Was.\n\nTo reach the fissure room, go down the well (north-west of the Kalphite Lair, fairy ring code **B-I-Q**) and go in the tunnel in the east wall of the Kalphite nursery. Then go through the tunnel all the way to the other side and enter.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -4795,7 +4795,7 @@ exports.data = {
                 "name": "Cape Info",
                 "icon_url": "https://i.imgur.com/6c6q2iC.png"
             },
-              "description": "[Nano To Kipple, Come In Kipple](http://runescape.wikia.com/wiki/Nano_To_Kipple,_Come_In_Kipple) is an achievement that requires the player to talk to [Ariane](http://runescape.wikia.com/wiki/Ariane) at the [Wizards' Tower](http://runescape.wikia.com/wiki/Wizards%27_Tower) to claim the [Kipple Nano](http://runescape.wikia.com/wiki/Kipple_Nano) pet after completion of Heart of Stone.\n\nThe immense tower is located on a small island south of [Draynor Village](http://runescape.wikia.com/wiki/Draynor_Village), connected to the mainland by an exquisite bridge. A [Fairy ring](http://runescape.wikia.com/wiki/Fairy_ring) with the code **DIS** is located directly south of the tower. It can also be accessed by entering the eastern portal on the second floor of the [Wizards' Guild](http://runescape.wikia.com/wiki/Wizards%27_Guild).",
+              "description": "[Nano To Kipple, Come In Kipple](http://runescape.wikia.com/wiki/Nano_To_Kipple,_Come_In_Kipple) is an achievement that requires the player to talk to [Ariane](http://runescape.wikia.com/wiki/Ariane) at the [Wizards' Tower](http://runescape.wikia.com/wiki/Wizards%27_Tower) to claim the [Kipple Nano](http://runescape.wikia.com/wiki/Kipple_Nano) pet after completion of Heart of Stone.\n\nThe immense tower is located on a small island south of [Draynor Village](http://runescape.wikia.com/wiki/Draynor_Village), connected to the mainland by an exquisite bridge. A [Fairy ring](http://runescape.wikia.com/wiki/Fairy_ring) with the code **D-I-S** is located directly south of the tower. It can also be accessed by entering the eastern portal on the second floor of the [Wizards' Guild](http://runescape.wikia.com/wiki/Wizards%27_Guild).",
             "thumbnail": {
                 "url": "https://i.imgur.com/Shmagnp.png"
             },
@@ -5011,7 +5011,7 @@ exports.data = {
                 "name": "Cape Info",
                 "icon_url": "https://i.imgur.com/6c6q2iC.png"
             },
-              "description": "[One Man's Junk...Is Mine](http://runescape.wikia.com/wiki/One_Man%27s_Junk...Is_Mine) is an achievement that requires the player to fully loot [Movario's base](http://runescape.wikia.com/wiki/Movario%27s_base#The_storage_room). The room containing all the loot can be accessed by entering a tunnel in Movario's study. Movario's base contains 100 of each of the following; coal, death runes, fire runes, and magic logs.\n\nThe entrance to the base is in a ruined building on the Khazard [Battlefield](http://runescape.wikia.com/wiki/Battlefield). The building can be entered by climbing the broken wall. The quickest way to get to the base is to use a [Spirit tree](http://runescape.wikia.com/wiki/Spirit_tree) to go to the battlefield. Other practical options are to use an [Ardougne teleport](http://runescape.wikia.com/wiki/Ardougne_teleport), an [Ourania Teleport](http://runescape.wikia.com/wiki/Ourania_Teleport) from the [Lunar spells](http://runescape.wikia.com/wiki/Lunar_spells), or [Fairy ring](http://runescape.wikia.com/wiki/Fairy_ring) **D-J-P** to the [Tower of Life](http://runescape.wikia.com/wiki/Tower_of_Life_(building%29). ",
+              "description": "[One Man's Junk...Is Mine](http://runescape.wikia.com/wiki/One_Man%27s_Junk...Is_Mine) is an achievement that requires the player to fully loot [Movario's base](http://runescape.wikia.com/wiki/Movario%27s_base#The_storage_room). The room containing all the loot can be accessed by entering a tunnel in Movario's study. Movario's base contains 100 of each of the following; coal, death runes, fire runes, and magic logs.\n\nThe entrance to the base is in a ruined building on the Khazard [Battlefield](http://runescape.wikia.com/wiki/Battlefield). The building can be entered by climbing the broken wall. The quickest way to get to the base is to use a [Spirit tree](http://runescape.wikia.com/wiki/Spirit_tree) to go to the battlefield. Other practical options are to use an [Ardougne teleport](http://runescape.wikia.com/wiki/Ardougne_teleport), an [Ourania Teleport](http://runescape.wikia.com/wiki/Ourania_Teleport) from the [Lunar spells](http://runescape.wikia.com/wiki/Lunar_spells), or [Fairy ring](http://runescape.wikia.com/wiki/Fairy_ring) code **D-J-P** to the [Tower of Life](http://runescape.wikia.com/wiki/Tower_of_Life_(building%29). ",
             "thumbnail": {
                 "url": "https://i.imgur.com/Shmagnp.png"
             },
@@ -6031,7 +6031,7 @@ exports.data = {
 			}
 		}
 	},
-	"slime and snails and god war tales": {
+	"slime and snails and god wars tales": {
 		"cmds": ["mqc", "trim"],
 		"embed": {
             "title": "Slime and Snails and God Wars Tales",
@@ -6051,6 +6051,62 @@ exports.data = {
                 {
                   "name": "Guide:",
                   "value": "• [Tales of the God Wars Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Tales_of_the_God_Wars)"
+                }
+            ],
+            "footer": {
+                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+                "text": "Runescore awarded: 20"
+            }
+        }
+	},
+	"soft kitty, purple kitty": {
+		"cmds": ["mqc"],
+		"embed": {
+            "title": "Soft Kitty, Purple Kitty",
+            "author": {
+                "name": "Cape Info",
+                "icon_url": "https://i.imgur.com/6c6q2iC.png"
+            },
+            "description": "[Soft Kitty, Purple Kitty](http://runescape.wikia.com/wiki/Soft_Kitty,_Purple_Kitty) is an achievement that requires the player to complete the Purple Cat miniquest.",
+            "thumbnail": {
+                "url": "https://i.imgur.com/Shmagnp.png"
+            },
+            "fields": [
+                {
+                    "name": "Requirements:",
+                    "value": "• Gertrude's Cat Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Gertrude%27s_Cat)"
+                },
+                {
+                  "name": "Guide:",
+                  "value": "• [Purple Cat Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Purple_cat_(miniquest%29)"
+                }
+            ],
+            "footer": {
+                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+                "text": "Runescore awarded: 10"
+            }
+        }
+	},
+	"some old dusty journals": {
+		"cmds": ["mqc"],
+		"embed": {
+            "title": "Some Old Dusty Journals",
+            "author": {
+                "name": "Cape Info",
+                "icon_url": "https://i.imgur.com/6c6q2iC.png"
+            },
+            "description": "[Some Old Dusty Journals](http://runescape.wikia.com/wiki/Some_Old_Dusty_Journals) is an achievement that requires the player to find and read the Ancient, Dusty and Weathered Tarddian Journal found on Tarddiad after The Light Within.",
+            "thumbnail": {
+                "url": "https://i.imgur.com/Shmagnp.png"
+            },
+            "fields": [
+                {
+                    "name": "Requirements:",
+                    "value": "• The Light Within Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Light_Within)"
+                },
+                {
+                  "name": "Guide:",
+                  "value": "• [Tarddiad Map guide | Runescape Wiki](http://runescape.wikia.com/wiki/Map:Tarddiad)"
                 }
             ],
             "footer": {
@@ -6079,6 +6135,64 @@ exports.data = {
                 {
                     "name": "Guide:",
                     "value": "[How to farm Slayer Points FAST & Easy | puretppc - YouTube](https://www.youtube.com/watch?v=PR7v91xbGBQ)"
+                }
+            ],
+            "footer": {
+                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+                "text": "Runescore awarded: 30"
+            }
+        }
+	},
+	"squeal for coins": {
+		"cmds": ["mqc"],
+		"embed": {
+            "title": "Squeal for Coins",
+            "author": {
+                "name": "Cape Info",
+                "icon_url": "https://i.imgur.com/6c6q2iC.png"
+            },
+            "description": "[Squeal for Coins](http://runescape.wikia.com/wiki/Squeal_for_Coins) is an achievement that requires the player to open Yelps's very own cash bag (claimed from his chest after killing him on Yu'biusk, or automatically put into the player's bank after sparing him during The Mighty Fall).\n\nYu'biusk is a world within the multiverse that is separate from Gielinor. Players can return to Yu'biusk after the quest is completed by using the fairy ring code **B-L-Q**.",
+            "thumbnail": {
+                "url": "https://i.imgur.com/Shmagnp.png"
+            },
+            "fields": [
+                {
+                    "name": "Requirements:",
+                    "value": "• The Mighty Fall Quest partial completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Mighty_Fall)"
+                }
+            ],
+            "footer": {
+                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+                "text": "Runescore awarded: 15"
+            }
+        }
+	},
+	"stalker notes": {
+		"cmds": ["mqc"],
+		"embed": {
+            "title": "Stalker Notes",
+            "author": {
+                "name": "Cape Info",
+                "icon_url": "https://i.imgur.com/6c6q2iC.png"
+            },
+            "description": "[Stalker Notes](http://runescape.wikia.com/wiki/Stalker_Notes_(achievement%29) is a meta-achievement that requires the player to collect all five Stalker notes within Daemonheim.",
+            "thumbnail": {
+                "url": "https://i.imgur.com/Shmagnp.png"
+            },
+            "fields": [
+                {
+                  "name": "Stalker Notes",
+                  "value": "Part 1\nPart 2\nPart 3\nPart 4\nPart 5",
+                  "inline": true
+                },
+                {
+                  "name": "Dropped by",
+                  "value": "Plane-freezer Lakhrahnaz\nNight-gazer Khighorahk\nShadow-forger Ihlakhizan\nFlesh-spoiler Haasghenahk\nWorld-gorger Shukarhazh",
+                  "inline": true
+                },
+                {
+                    "name": "Requirements:",
+                    "value": "• 107 Dungeoneering"
                 }
             ],
             "footer": {
@@ -6135,6 +6249,30 @@ exports.data = {
 			}
 		}
 	},
+	"stealing sedridor's stones": {
+		"cmds": ["mqc"],
+		"embed": {
+            "title": "Stealing Sedridor's Stones",
+            "author": {
+                "name": "Cape Info",
+                "icon_url": "https://i.imgur.com/6c6q2iC.png"
+            },
+            "description": "[Stealing Sedridor's Stones](http://runescape.wikia.com/wiki/Stealing_Sedridor%27s_Stones) is an achievement that requires the player to obtain all pure essence given from Archmage Sedridors chest after completing Rune Memories.\n\nSedridor is the current archmage of the second Wizards' Tower, which trains wizards in the magical arts. He can be found in his office on the 2nd floor of the tower. Sedridor will be saddened by the betrayal of Wizard Ellaron and offer players to take from his personal rune chest after the quest.\n\nThis yields pure essence equal to **2.5 * level * (level+1)**, updated each time a level is gained, for a total of 24,750 essence granted once level 99 is reached.",
+            "thumbnail": {
+                "url": "https://i.imgur.com/Shmagnp.png"
+            },
+            "fields": [
+                {
+                    "name": "Requirements:",
+                    "value": "• 99 Runecrafting\n\n• Rune Memories Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Rune_Memories)"
+                }
+            ],
+            "footer": {
+                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+                "text": "Runescore awarded: 20"
+            }
+        }
+	},
 	"stone's throw away": {
 		"cmds": ["trim"],
 		"embed": {
@@ -6179,6 +6317,58 @@ exports.data = {
             }
         }
 	},
+	"summary spirits": {
+		"cmds": ["mqc"],
+		"embed": {
+            "title": "Summary Spirits",
+            "author": {
+                "name": "Cape Info",
+                "icon_url": "https://i.imgur.com/6c6q2iC.png"
+            },
+            "description": "[Summary Spirits](http://runescape.wikia.com/wiki/Summary_Spirits) is an achievement that requires the player to enter all of the Wilderness spirit portals after completing Summer's End. There are 8 in total.",
+            "thumbnail": {
+                "url": "https://i.imgur.com/Shmagnp.png"
+            },
+            "fields": [
+                {
+                    "name": "Requirements:",
+                    "value": "• Summer's End Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Rune_Memories)\n• Jennica's Ring"
+                },
+                {
+                  "name": "Guide:",
+                  "value": "[Spirit Realm guide | Runescape Wiki](http://runescape.wikia.com/wiki/Spirit_Realm)"
+                }
+            ],
+            "footer": {
+                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+                "text": "Runescore awarded: 20"
+            }
+        }
+	},
+	"supply and demand": {
+		"cmds": ["mqc"],
+		"embed": {
+            "title": "Supply and Demand",
+            "author": {
+                "name": "Cape Info",
+                "icon_url": "https://i.imgur.com/6c6q2iC.png"
+            },
+            "description": "[Supply and Demand](http://runescape.wikia.com/wiki/Supply_and_Demand) is an achievement that requires the player to complete five supply runs after completion of Death Plateau.\n\nThis achievement requires the player to take a crate of supplies from Commander Denulth to the Ambush Commander. Commander Denulth can be found in the courtyard just east of the Burthorpe bank. The Ambush Commander is an Imperial Guard archer that is stationed on top of Death Plateau, right outside of the cave the player discovers during the quest.\n\nAfter finishing the fifth run, this activity is no longer available. These do not have to be done to start Troll Stronghold. A quick method to complete the trips is to instead run past the thrower trolls, up onto Death Plateau, then climb the rocks on the eastern side and home teleport back to Burthorpe.",
+            "thumbnail": {
+                "url": "https://i.imgur.com/Shmagnp.png"
+            },
+            "fields": [
+                {
+                    "name": "Requirements:",
+                    "value": "• 18 Combat\n\n• Death Plateau Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Death_Plateau)"
+                }
+            ],
+            "footer": {
+                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+                "text": "Runescore awarded: 10"
+            }
+        }
+	},
 	"task master": {
 		"cmds": ["comp"],
 		"embed": {
@@ -6210,6 +6400,30 @@ exports.data = {
 				"text": "Runescore awarded: 75"
 			}
 		}
+	},
+	"tasty bobbles": {
+		"cmds": ["mqc"],
+		"embed": {
+            "title": "Tasty Bobbles",
+            "author": {
+                "name": "Cape Info",
+                "icon_url": "https://i.imgur.com/6c6q2iC.png"
+            },
+            "description": "[Tasty Bobbles](http://runescape.wikia.com/wiki/Tasty_Bobbles) is an achievement that requires the player to speak with Tim and Crunchy after completing Gower Quest to obtain bobblehead pets of themselves.\n\nTim and Crunchy are located in Behind the Scenes. Behind the Scenes is a location visited during the Gower Quest which resembles a bar. It can be accessed by using a disk of returning in the dwarven mines north of Falador, beneath Ice Mountain, to The Black Hole.\n\nAfter the quest, the disk of returning can be used from any bank area.",
+            "thumbnail": {
+                "url": "https://i.imgur.com/Shmagnp.png"
+            },
+            "fields": [
+                {
+                    "name": "Requirements:",
+                    "value": "• Gower Quest Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Gower_Quest)"
+                }
+            ],
+            "footer": {
+                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+                "text": "Runescore awarded: 15"
+            }
+        }
 	},
 	"tell tale tarn": {
 		"cmds": ["comp", "mqc"],
@@ -6267,6 +6481,30 @@ exports.data = {
             }
         }
 	},
+	"that'll teach bill": {
+		"cmds": ["mqc"],
+		"embed": {
+            "title": "That'll Teach Bill",
+            "author": {
+                "name": "Cape Info",
+                "icon_url": "https://i.imgur.com/6c6q2iC.png"
+            },
+            "description": "[That'll Teach Bill](http://runescape.wikia.com/wiki/That%27ll_Teach_Bill) is an achievement that requires the player to speak to Bill Teach after completion of Cabin Fever in order to claim 10,000 coins from him.\n\nBill Teach is a pirate captain from the southern island of Mos Le'Harmless. He can be found in multiple places: Port Phasmatys on the ship at the east end of the pier or in The Green Ghost Inn; in Mos Le'Harmless on the ship at the east pier, in The Other Inn, in the basement of Harpoon Joe's House of 'Rum', or Mos Le'Harmless pier on his boat.",
+            "thumbnail": {
+                "url": "https://i.imgur.com/Shmagnp.png"
+            },
+            "fields": [
+                {
+                    "name": "Requirements:",
+                    "value": "• Cabin Fever Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Cabin_Fever)"
+                }
+            ],
+            "footer": {
+                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+                "text": "Runescore awarded: 15"
+            }
+        }
+	},
 	"the book of elei": {
 		"cmds": ["mqc"],
 		"embed": {
@@ -6290,6 +6528,30 @@ exports.data = {
 				"text": "Runescore awarded: 20"
 			}
 		}
+	},
+	"the history of slayer": {
+		"cmds": ["mqc"],
+		"embed": {
+            "title": "The History of Slayer",
+            "author": {
+                "name": "Cape Info",
+                "icon_url": "https://i.imgur.com/6c6q2iC.png"
+            },
+            "description": "[The History of Slayer](http://runescape.wikia.com/wiki/The_History_of_Slayer) is an achievement that requires the player to read all of the murals in the Sunken Pyramid. These can be uncovered by collecting 110 unique souls and depositing them into the chest at the centre of the pyramid.\n\nThe Slayer Codex is the book used to record the souls of Slayer monsters that the player has captured in an Ushabti. It is obtained from Faiza in the Sunken Pyramid after achieving level 99 Slayer. The Codex is updated when a new creature's soul is captured in an ushabti and placed in the Chest of Souls, or when it is added to the player's personal Slayer Dungeon.\n\nUshabti are containers used to trap the souls of Slayer monsters used to fill the Slayer Codex. A small number (25-50) are initially handed out by Faiza depending on Slayer level. Additional ushabti can be purchased from Slayer Masters for 20 slayer points each, and are a possible reward from the Rush of Blood D&D and the Motherlode Maw.\n\nThe formula for the initial number of ushabti received appears to be 25 + 1 for each additional Slayer level over 99, or 50 at level 120 Slayer. If the free ushabti are claimed prior to having a max Slayer level, upon leveling, the player can still acquire more from Faiza.",
+            "thumbnail": {
+                "url": "https://i.imgur.com/Shmagnp.png"
+            },
+            "fields": [
+                {
+                    "name": "Requirements:",
+                    "value": "• 99 Slayer\n\n• The Jack of Spades Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Jack_of_Spades)"
+                }
+            ],
+            "footer": {
+                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+                "text": "Runescore awarded: 25"
+            }
+        }
 	},
 	"the many hands that write": {
 		"cmds": ["mqc"],
@@ -6315,6 +6577,34 @@ exports.data = {
 			}
 		}
 	},
+	"three's a kiln": {
+		"cmds": ["mqc"],
+		"embed": {
+            "title": "Three's A Kiln",
+            "author": {
+                "name": "Cape Info",
+                "icon_url": "https://i.imgur.com/6c6q2iC.png"
+            },
+            "description": "[Three's A Kiln](http://runescape.wikia.com/wiki/Three%27s_A_Kiln) is an achievement that requires the player to complete the Fight Kiln at least three times, getting each of the TokHaar-Kal capes, and handing them in to TzHaar-Mej-Jeh to claim the enhanced fire cape. The capes are permanently lost when doing this.",
+            "thumbnail": {
+                "url": "https://i.imgur.com/Shmagnp.png"
+            },
+            "fields": [
+                {
+                    "name": "Requirements:",
+                    "value": "• The Elder Kiln Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Elder_Kiln)"
+                },
+                {
+                  "name": "Guide:",
+                  "value": "[Fight Kiln guide | Moto - YouTube](https://youtu.be/g1KWJUv5nG4)"
+                }
+            ],
+            "footer": {
+                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+                "text": "Runescore awarded: 15"
+            }
+        }
+	},
 	"to be a master": {
 		"cmds": ["trim"],
 		"embed": {
@@ -6339,6 +6629,34 @@ exports.data = {
             }
         }
 	},
+	"to ga'al or not to ga'al": {
+		"cmds": ["mqc"],
+		"embed": {
+            "title": "To Ga'al or Not to Ga'al",
+            "author": {
+                "name": "Cape Info",
+                "icon_url": "https://i.imgur.com/6c6q2iC.png"
+            },
+            "description": "[To Ga'al or Not to Ga'al](http://runescape.wikia.com/wiki/To_Ga%27al_or_Not_to_Ga%27al) is an achievement that requires the player to find [TzHaar-Ga'al-Kot](http://runescape.wikia.com/wiki/TzHaar-Ga%27al-Kot).",
+            "thumbnail": {
+                "url": "https://i.imgur.com/Shmagnp.png"
+            },
+            "fields": [
+                {
+                    "name": "Requirements:",
+                    "value": "• Desert Treasure Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Desert_Treasure)\n• The Brink of Extinction Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Brink_of_Extinction)"
+                },
+                {
+                  "name": "Guide:",
+                  "value": "[Fight Kiln guide | Runescape Wiki](http://runescape.wikia.com/wiki/TzHaar-Ga%27al-Kot)"
+                }
+            ],
+            "footer": {
+                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+                "text": "Runescore awarded: 10"
+            }
+        }
+	},
 	"to the bone": {
 		"cmds": ["trim"],
 		"embed": {
@@ -6360,6 +6678,64 @@ exports.data = {
             "footer": {
                 "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
                 "text": "Runescore awarded: 40"
+            }
+        }
+	},
+	"trials of the heart": {
+		"cmds": ["mqc"],
+		"embed": {
+            "title": "Trials of the Heart",
+            "author": {
+                "name": "Cape Info",
+                "icon_url": "https://i.imgur.com/6c6q2iC.png"
+            },
+            "description": "[Trials of the Heart](http://runescape.wikia.com/wiki/Trials_of_the_Heart) is an achievement that requires the player to claim the Helm of Trials from Xenia (or Ilona, after Heart of Stone) by talking to her with at least 300 quest points.\n\nXenia can be found in the Lumbridge cemetery. Ilona can be found in the Lumbridge Catacombs.",
+            "thumbnail": {
+                "url": "https://i.imgur.com/Shmagnp.png"
+            },
+            "fields": [
+                {
+                    "name": "Requirements:",
+                    "value": "• 300 Quest points"
+                }
+            ],
+            "footer": {
+                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+                "text": "Runescore awarded: 20"
+            }
+        }
+	},
+	"trickster's trinkets": {
+		"cmds": ["mqc"],
+		"embed": {
+            "title": "Trickster's Trinkets",
+            "author": {
+                "name": "Cape Info",
+                "icon_url": "https://i.imgur.com/6c6q2iC.png"
+            },
+            "description": "[Trickster's Trinkets](http://runescape.wikia.com/wiki/Trickster%27s_Trinkets) is an achievement which can be completed by finding all necklace trinkets and combining them with the old necklace to create the necklace of Charos after the You Are It quest.\n\nNecklace trinkets can be found by searching Gielinor using the old necklace received after You Are It. The necklace's 'Scan' function will operate like a compass clue when close enough to the location.",
+            "thumbnail": {
+                "url": "https://i.imgur.com/Shmagnp.png"
+            },
+            "fields": [
+                {
+                  "name": "Trinket",
+                  "value": "1\n2\n3\n4\n5",
+                  "inline": true
+                },
+                {
+                  "name": "Location",
+                  "value": "The doors to Castle Drakan\nFenkenstrain's Castle garden\nBeacon south of Paterdomus\nNorth of Aggie's house in Draynor Village\nCatherby beach grapple tree",
+                  "inline": true
+                },
+                {
+                    "name": "Requirements:",
+                    "value": "• You Are It Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/You_Are_It)"
+                }
+            ],
+            "footer": {
+                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+                "text": "Runescore awarded: 5"
             }
         }
 	},
@@ -6391,6 +6767,30 @@ exports.data = {
 			}
 		}
 	},
+	"triple trouble": {
+		"cmds": ["mqc"],
+		"embed": {
+            "title": "Triple Trouble",
+            "author": {
+                "name": "Cape Info",
+                "icon_url": "https://i.imgur.com/6c6q2iC.png"
+            },
+            "description": "[Triple Trouble](http://runescape.wikia.com/wiki/Triple_Trouble) is an achievement that requires the player to claim the rewards from the three brothers after completing Tai Bwo Wannai Trio. The reward is claimed by talking to each brother.\n\nLocations:\n• Tamayu can be found in the village of Tai Bwo Wannai where he runs a spear stall\n• Tinsay can be found in the middle hut in Tai Bwo Wannai\n• Tiadeche can be found in the village of Tai Bwo Wannai in the most southwestern house.",
+            "thumbnail": {
+                "url": "https://i.imgur.com/Shmagnp.png"
+            },
+            "fields": [
+                {
+                    "name": "Requirements:",
+                    "value": "• Tai Bwo Wannai Trio Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Tai_Bwo_Wannai_Trio)"
+                }
+            ],
+            "footer": {
+                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+                "text": "Runescore awarded: 10"
+            }
+        }
+	},
 	"troublesome crystals": {
 		"cmds": ["comp", "mqc"],
 		"embed": {
@@ -6419,6 +6819,30 @@ exports.data = {
 			}
 		}
 	},
+	"ultimate codex": {
+		"cmds": ["mqc"],
+		"embed": {
+            "title": "Ultimate Codex",
+            "author": {
+                "name": "Cape Info",
+                "icon_url": "https://i.imgur.com/6c6q2iC.png"
+            },
+            "description": "[Ultimate Codex](http://runescape.wikia.com/wiki/Ultimate_Codex) is an achievement that requires the player to claim the Codex Ultimatus from the archaeological expert and reading it.\n\nTerrance Balando is an archaeological expert at the Exam Centre. The Exam Centre is a location in Misthalin east of Varrock and south of the digsite.\n\nReading the book unlocks three threshold abilities – one per combat style: Blood Tendrils (75 Attack), Shadow Tendrils (75 Ranged), and Smoke Tendrils (75 Magic) – and one ultimate ability – Ice Asylum (91 Constitution).",
+            "thumbnail": {
+                "url": "https://i.imgur.com/Shmagnp.png"
+            },
+            "fields": [
+                {
+                    "name": "Requirements:",
+                    "value": "• 75 Attack **or** 75 Ranged **or** 75 Magic **or** 91 Constitution\n\n• The Dig Site Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Dig_Site)"
+                }
+            ],
+            "footer": {
+                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+                "text": "Runescore awarded: 10"
+            }
+        }
+	},
 	"uncorrupted ore": {
 		"cmds": ["comp", "mqc"],
 		"embed": {
@@ -6446,6 +6870,82 @@ exports.data = {
 				"text": "Runescore awarded: 10"
 			}
 		}
+	},
+	"under croc and key": {
+		"cmds": ["mqc"],
+		"embed": {
+            "title": "Under Croc and Key",
+            "author": {
+                "name": "Cape Info",
+                "icon_url": "https://i.imgur.com/6c6q2iC.png"
+            },
+            "description": "[Under Croc and Key](http://runescape.wikia.com/wiki/Under_Croc_and_Key) is an achievement that requires the player to access the secret tomb found in the Crondis's pyramid after Crocodile Tears.\n\nThe entrance can be accessed from within Crondis' pyramid by swimming through the underwater tunnel east of the entrance.",
+            "thumbnail": {
+                "url": "https://i.imgur.com/Shmagnp.png"
+            },
+            "fields": [
+                {
+                    "name": "Requirements:",
+                    "value": "• Crocodile Tears Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Crocodile_Tears)"
+                }
+            ],
+            "footer": {
+                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+                "text": "Runescore awarded: 5"
+            }
+        }
+	},
+	"unholy crafting": {
+		"cmds": ["mqc"],
+		"embed": {
+            "title": "Unholy Crafting",
+            "author": {
+                "name": "Cape Info",
+                "icon_url": "https://i.imgur.com/6c6q2iC.png"
+            },
+            "description": "[Unholy Crafting](http://runescape.wikia.com/wiki/Unholy_Crafting) is an achievement that requires the player to speak with the Spirit of Scorpius after completing the Observatory Quest to unlock the ability to craft the symbols.\n\nThe Spirit of Scorpius is a Zamorakian ghost. He is found south-west of Ardougne in the Scorpius Shrine, due west of the Observatory.",
+            "thumbnail": {
+                "url": "https://i.imgur.com/Shmagnp.png"
+            },
+            "fields": [
+                {
+                    "name": "Requirements:",
+                    "value": "• Observatory Quest Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Observatory_Quest)"
+                }
+            ],
+            "footer": {
+                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+                "text": "Runescore awarded: 5"
+            }
+        }
+	},
+	"uzer master": {
+		"cmds": ["mqc"],
+		"embed": {
+            "title": "Uzer Master",
+            "author": {
+                "name": "Cape Info",
+                "icon_url": "https://i.imgur.com/6c6q2iC.png"
+            },
+            "description": "[Uzer Master](http://runescape.wikia.com/wiki/Uzer_Master) is an achievement that requires the player to clear the shortcut found in the Uzer Mastaba, going from the ground floor to the floor with the small scarabs after Missing My Mummy.\n\nUzer Mastaba is the name given to a flat-topped pyramid just south of Uzer.",
+            "thumbnail": {
+                "url": "https://i.imgur.com/Shmagnp.png"
+            },
+            "fields": [
+                {
+                    "name": "Requirements:",
+                    "value": "• Missing My Mummy Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Missing_My_Mummy)"
+                },
+                {
+                  "name": "Guide:",
+                  "value": "[Uzer Mastaba guide | Runescape Wiki](http://runescape.wikia.com/wiki/Map:Uzer_Mastaba)"
+                }
+            ],
+            "footer": {
+                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+                "text": "Runescore awarded: 10"
+            }
+        }
 	},
 	"walking the reef": {
 		"cmds": ["comp"],
@@ -6499,6 +6999,62 @@ exports.data = {
 			}
 		}
 	},
+	"white knight rises": {
+		"cmds": ["mqc", "trim"],
+		"embed": {
+            "title": "White Knight Rises",
+            "author": {
+                "name": "Cape Info",
+                "icon_url": "https://i.imgur.com/6c6q2iC.png"
+            },
+            "description": "[White Knight Rises](http://runescape.wikia.com/wiki/White_Knight_Rises) is an achievement that requires the player to obtain the White Knight rank of Master by killing 1,300 black knights or 130 Elite Black Knights.\n\nThe best location to complete this task would be in Taverley Dungeon at the very south of the dungeon. Setting up a Dwarf multicannon while using AoE abilities makes completing this task very quick.",
+            "thumbnail": {
+                "url": "https://i.imgur.com/Shmagnp.png"
+            },
+            "fields": [
+                {
+                    "name": "Requirements:",
+                    "value": "• Wanted! Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Wanted!)"
+                },
+                {
+                  "name": "Guide:",
+                  "value": "[MQC White Knight Master Rank guide | Norepi - YouTube](https://www.youtube.com/watch?v=oy3BRXOzuUo)"
+                }
+            ],
+            "footer": {
+                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+                "text": "Runescore awarded: 20"
+            }
+        }
+	},
+	"witch's potion": {
+		"cmds": ["mqc", "trim"],
+		"embed": {
+            "title": "Witch's Potion",
+            "author": {
+                "name": "Cape Info",
+                "icon_url": "https://i.imgur.com/6c6q2iC.png"
+            },
+            "description": "[Witch's Potion](http://runescape.wikia.com/wiki/Witch%27s_Potion_(achievement%29) is an achievement that requires the player to complete the Witch's Potion miniquest.",
+            "thumbnail": {
+                "url": "https://i.imgur.com/Shmagnp.png"
+            },
+            "fields": [
+                {
+                    "name": "Requirements:",
+                    "value": "None"
+                },
+                {
+                  "name": "Guide:",
+                  "value": "[Witch's Potion guide | Runescape Wiki](http://runescape.wikia.com/wiki/Witch%27s_Potion)"
+                }
+            ],
+            "footer": {
+                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+                "text": "Runescore awarded: 5"
+            }
+        }
+	},
 	"who will be her lover?": {
 		"cmds": ["trim"],
 		"embed": {
@@ -6544,6 +7100,34 @@ exports.data = {
             "footer": {
                 "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
                 "text": "Runescore awarded: 75"
+            }
+        }
+	},
+	"work for idol hands": {
+		"cmds": ["mqc"],
+		"embed": {
+            "title": "Work for Idol Hands",
+            "author": {
+                "name": "Cape Info",
+                "icon_url": "https://i.imgur.com/6c6q2iC.png"
+            },
+            "description": "[Work for Idol Hands](http://runescape.wikia.com/wiki/Work_for_Idol_Hands) is an achievement that requires the player to hand in all the demon statuettes from the Lumbridge Catacombs. They are sold to Xenia after completing The Blood Pact, or Ilona if Heart of Stone is completed.\n\nXenia can be found in the Lumbridge cemetery. Ilona can be found in the Lumbridge Catacombs.",
+            "thumbnail": {
+                "url": "https://i.imgur.com/Shmagnp.png"
+            },
+            "fields": [
+                {
+                    "name": "Requirements:",
+                    "value": "• The Blood Pact Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Blood_Pact)"
+                },
+                {
+                  "name": "Guide:",
+                  "value": "[Lumbridge Catacombs guide | Runescape Wiki](http://runescape.wikia.com/wiki/Map:Lumbridge_Catacombs)"
+                }
+            ],
+            "footer": {
+                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+                "text": "Runescore awarded: 10"
             }
         }
 	},
@@ -6634,6 +7218,58 @@ exports.data = {
 				"text": "Runescore awarded: 10"
 			}
 		}
+	},
+	"you mistag this brooch": {
+		"cmds": ["mqc"],
+		"embed": {
+            "title": "You Mistag This Brooch",
+            "author": {
+                "name": "Cape Info",
+                "icon_url": "https://i.imgur.com/6c6q2iC.png"
+            },
+            "description": "[You Mistag This Brooch](http://runescape.wikia.com/wiki/You_Mistag_This_Brooch) is an achievement that requires the player to find Mistag's brooch behind the secret entrance in Lumbridge cellar and return it to him at the entrace to Dorgesh-Kaan mine.\n\nPlayers can find it at the first fork of the Lumbridge Castle cellar caves, heading towards the Dorgeshuun Mines. It does not have a respawn time—it immediately appears on the ground right after one is taken.\n\nAfter The Lost Tribe Quest completion, the brooch can be given to Mistag in exchange for a mining helmet.",
+            "thumbnail": {
+                "url": "https://i.imgur.com/Shmagnp.png"
+            },
+            "fields": [
+                {
+                    "name": "Requirements:",
+                    "value": "• The Lost Tribe Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Lost_Tribe)"
+                },
+                {
+                  "name": "Guide:",
+                  "value": "[Lumbridge Catacombs guide | Runescape Wiki](http://runescape.wikia.com/wiki/Map:Lumbridge_Catacombs)"
+                }
+            ],
+            "footer": {
+                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+                "text": "Runescore awarded: 10"
+            }
+        }
+	},
+	"you're not my real mah": {
+		"cmds": ["mqc", "trim"],
+		"embed": {
+            "title": "You're Not My Real Mah",
+            "author": {
+                "name": "Cape Info",
+                "icon_url": "https://i.imgur.com/6c6q2iC.png"
+            },
+            "description": "[You're Not My Real Mah](http://runescape.wikia.com/wiki/You%27re_Not_My_Real_Mah) is an achievement that requires the player to hand in a total of one hundred elder chronicles (10 chronicles for each memory) at Orla Fairweather or Guthix's shrine.\n\nElder chronicles are memory fragments gathered by harvesting from elder wisps within Freneskae. They are akin to chronicle fragments in that they may spawn randomly from an elder spring and grant Hunter experience based on the player's level when collected.\n\nYou can speed this requirement up by asking a friend to train divination at elder wisps within Freneskae and allow you to capture their spawned elder chronicles.\n\nIf a player is also yet to complete the Memoirs of a Mahjarrat achievement and plans on doing so in the future, it may be beneficial to gather the required memories in the Elder Halls so they can also begin obtaining Elder chronicles. This effectively completes both requirements at the same time.",
+            "thumbnail": {
+                "url": "https://i.imgur.com/Shmagnp.png"
+            },
+            "fields": [
+                {
+                    "name": "Requirements:",
+                    "value": "• Fate of the Gods Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Fate_of_the_Gods)"
+                }
+            ],
+            "footer": {
+                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+                "text": "Runescore awarded: 25"
+            }
+        }
 	},
 	"zarosian memories": {
 		"cmds": ["comp", "mqc"],
