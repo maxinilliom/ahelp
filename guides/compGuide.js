@@ -5790,6 +5790,7 @@ exports.data = {
 				"text": "Runescore awarded: 25"
 			}
 		}
+	},
 	"scrolling with power": {
 		"cmds": ["trim"],
 		"embed": {
