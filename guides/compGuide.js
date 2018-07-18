@@ -37,7 +37,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[About 'Kin Time](http://runescape.wikia.com/wiki/About_%27Kin_Time) is an achievement that requires the player to help Mandrith rebuild Edgeville after it was attacked by the dragonkin during Ritual of the Mahjarrat.\n\nMandrith is located in Edgeville bank.",
+			"description": "[About 'Kin Time](http://runescape.wikia.com/wiki/About_%27Kin_Time) is an achievement that requires the player to help [Mandrith](http://runescape.wikia.com/wiki/Mandrith) in [Rebuilding Edgeville](http://runescape.wikia.com/wiki/Rebuilding_Edgeville) after it was attacked by the [Dragonkin](http://runescape.wikia.com/wiki/Dragonkin) during [Ritual of the Mahjarrat](http://runescape.wikia.com/wiki/Ritual_of_the_Mahjarrat).\n\nMandrith is located in [Edgeville](http://runescape.wikia.com/wiki/Edgeville) bank.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -65,7 +65,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Abyssal Reach](http://runescape.wikia.com/wiki/Almost_as_Perky_as_a_Prawn) is an achievement that requires the player to finish the abyss miniquest. In the Abyss miniquest, the player helps the Zamorakians access the rune essence mines so that they can craft their own runes. Previously it had been a Saradominist secret, but the Mage of Zamorak asks for the player's help in learning it.",
+			"description": "[Abyssal Reach](http://runescape.wikia.com/wiki/Almost_as_Perky_as_a_Prawn) is an achievement that requires the player to finish the [Abyss miniquest](http://runescape.wikia.com/wiki/Abyss_(miniquest%29).\n\nIn the Abyss miniquest, the player helps the [Zamorakians](http://runescape.wikia.com/wiki/Zamorak) access the [Rune essence mines](http://runescape.wikia.com/wiki/Rune_essence_mine) so that they can craft their own runes. Previously it had been a [Saradominist](http://runescape.wikia.com/wiki/Saradomin) secret, but the [Mage of Zamorak](http://runescape.wikia.com/wiki/Mage_of_Zamorak) asks for the player's help in learning it.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -93,7 +93,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Advanced Sweeping](http://runescape.wikia.com/wiki/Advanced_Sweeping) is an achievement that requires the player to fully enchant the broomstick by bringing it to various magic users around the world. Temporary boosts, such as a magic potion, can be used to reach the requirements, but the God Emissary banner boost does not work as a boost for these requirements.\n\nWhen attempting to visit Kardia in the Underground Pass, do not attempt to go into her house directly as she will hit the player with damage with a spell. Instead, pick up the Witch's cat from a platform to the north-west and use it on her door. It would then be possible to enter her house; use the broomstick with Kardia to get it enchanted.\n\nNPC: Apprentice\nLocation: Al Kharid\nMagic Level Required: 1\n\nNPC: Ali the Hag\nLocation: Pollnivneach\nMagic Level Required: 33\n\nNPC: Old crone\nLocation: East of the Slayer Tower\nMagic Level Required: 53\n\nNPC: Baby Yaga\nLocation: Lunar Isle\nMagic Level Required: 73\n\nNPC: Kardia\nLocation: Underground Pass\nMagic Level Required: 93",
+			"description": "[Advanced Sweeping](http://runescape.wikia.com/wiki/Advanced_Sweeping) is an achievement that requires the player to fully enchant the [Broomstick](http://runescape.wikia.com/wiki/Broomstick) by bringing it to various magic users around the world. Temporary boosts, such as a [Magic potion](http://runescape.wikia.com/wiki/Magic_potion), can be used to reach the requirements, but the [God Emissary banner](http://runescape.wikia.com/wiki/God_banner) boost does not work as a boost for these requirements.\n\nWhen attempting to visit [Kardia](http://runescape.wikia.com/wiki/Kardia) in the [Underground Pass](http://runescape.wikia.com/wiki/Underground_Pass_(dungeon%29), do not attempt to go into her house directly as she will hit the player with a damaging spell. Instead, pick up the [Witch's cat](http://runescape.wikia.com/wiki/Witch's_cat) from a platform to the north-west and use it on her door. It will then be possible to enter her house; use the broomstick with Kardia to get it enchanted.\n\nNPC: [Apprentice](http://runescape.wikia.com/wiki/Apprentice)\nLocation: [Al Kharid](http://runescape.wikia.com/wiki/Al_Kharid)\nMagic Level Required: 1\n\nNPC: [Ali the Hag](http://runescape.wikia.com/wiki/Ali_the_Hag)\nLocation: [Pollnivneach](http://runescape.wikia.com/wiki/Pollnivneach)\nMagic Level Required: 33\n\nNPC: [Old crone](http://runescape.wikia.com/wiki/Old_crone)\nLocation: East of the [Slayer Tower](http://runescape.wikia.com/wiki/Slayer_Tower)\nMagic Level Required: 53\n\nNPC: [Baba Yaga](http://runescape.wikia.com/wiki/Baba_Yaga)\nLocation: [Lunar Isle](http://runescape.wikia.com/wiki/Lunar_Isle)\nMagic Level Required: 73\n\nNPC: [Kardia](http://runescape.wikia.com/wiki/Kardia)\nLocation: [Underground Pass](http://runescape.wikia.com/wiki/Underground_Pass_(dungeon%29)\nMagic Level Required: 93",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -121,7 +121,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Aereck's Old Bones](http://runescape.wikia.com/wiki/Aereck%27s_Old_Bones) is an achievement that requires the player to finish the Restless Ghost quest, or claim the ancient bones by talking to Father Aereck if the player has completed the quest before the bones were added as a reward.\n\nFather Aereck is a Saradominist priest in charge of the Church of Lumbridge, and of Saradominist worship in Lumbridge.",
+			"description": "[Aereck's Old Bones](http://runescape.wikia.com/wiki/Aereck%27s_Old_Bones) is an achievement that requires the player to finish the [Restless Ghost](http://runescape.wikia.com/wiki/The_Restless_Ghost) quest, or claim the [Ancient bones](http://runescape.wikia.com/wiki/Ancient_bones_(The_Restless_Ghost%29) by talking to [Father Aereck](http://runescape.wikia.com/wiki/Father_Aereck) if the player has completed the quest before the bones were added as a reward.\n\nFather Aereck is a [Saradominist](http://runescape.wikia.com/wiki/Saradomin) priest in charge of the [Church of Lumbridge](http://runescape.wikia.com/wiki/Lumbridge_church), and of Saradominist worship in Lumbridge.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -173,7 +173,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Ali The Trader](http://runescape.wikia.com/wiki/Ali_The_Trader) is an achievement that requires the player to complete the Rogue Trader miniquest to unlock 3 new parts of Ali Morrisanes shop.",
+			"description": "[Ali The Trader](http://runescape.wikia.com/wiki/Ali_The_Trader) is an achievement that requires the player to complete the [Rogue Trader](http://runescape.wikia.com/wiki/Rogue_Trader) miniquest to unlock 3 new parts of [Ali Morrisanes](http://runescape.wikia.com/wiki/Ali_Morrisane) shop.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -209,10 +209,6 @@ exports.data = {
 				{
 					"name": "Requirements:",
 					"value": "• King's Ransom Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/King%27s_Ransom)"
-				},
-				{
-					"name": "Guide:",
-					"value": "[Rogue Trader Miniquest Guide | Runescape Wiki](http://runescape.wikia.com/wiki/Rogue_Trader)"
 				}
 			],
 			"footer": {
@@ -229,7 +225,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Almost as Perky as a Prawn](http://runescape.wikia.com/wiki/Almost_as_Perky_as_a_Prawn) is an achievement that requires the player to unlock 15 of the Prawn Perks from the Aquarium in their player-owned house.\n\nPrawn Perks can be unlocked by finding golden fish eggs and gaining 1, 20, 100 and 200 prawn balls and prawn crackers.\n\nFifty bonus prawn balls are available to players who have obtained level 99 Fishing by speaking to the Prawnbroker.\n\nYou may also ask other players if they have extra golden crackers they could pull with you in order for you to quickly complete this requirement.\n\n",
+			"description": "[Almost as Perky as a Prawn](http://runescape.wikia.com/wiki/Almost_as_Perky_as_a_Prawn) is an achievement that requires the player to unlock 15 of the [Prawn Perks](http://runescape.wikia.com/wiki/Prawnbroker#Prawn_Perks) from the [Aquarium](http://runescape.wikia.com/wiki/Aquarium) in their [Player-owned house](http://runescape.wikia.com/wiki/Player-owned_house).\n\nPrawn Perks can be unlocked by finding [Golden fish eggs](http://runescape.wikia.com/wiki/Golden_fish_egg) and gaining 1, 20, 100 and 200 [Prawn balls](http://runescape.wikia.com/wiki/Prawn_ball) and [Prawn crackers](http://runescape.wikia.com/wiki/Prawn_cracker).\n\nFifty bonus prawn balls are available to players who have obtained level 99 [Fishing](http://runescape.wikia.com/wiki/Fishing) by speaking to the [Prawnbroker](http://runescape.wikia.com/wiki/Prawnbroker).\n\nYou may also ask other players if they have extra [Golden crackers](http://runescape.wikia.com/wiki/Golden_cracker) they could pull with you in order for you to quickly complete this requirement.\n\n",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -518,34 +514,6 @@ exports.data = {
             "footer": {
                 "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
                 "text": "Runescore awarded: 15"
-            }
-        }
-	},
-	"barbarian scavenger": {
-		"cmds": ["trim"],
-		"embed": {
-            "title": "Barbarian Scavenger",
-            "author": {
-                "name": "Cape Info",
-                "icon_url": "https://i.imgur.com/6c6q2iC.png"
-            },
-            "description": "[Barbarian Scavenger](https://runescape.wikia.com/wiki/Barbarian_Scavenger) is an achievement that requires the player to find all 26 [ancient pages](https://runescape.wikia.com/wiki/Ancient_page) dropped by monster inside the [ancient cavern](https://runescape.wikia.com/wiki/Ancient_Cavern). They are part of the book [My notes](https://runescape.wikia.com/wiki/My_notes). Duplicate pages may still be obtained before completion of My notes if rummaging barbarian skeletons. Because they are uncommon drops, My notes will take several hours to complete.",
-            "thumbnail": {
-                "url": "https://i.imgur.com/Shmagnp.png"
-            },
-            "fields": [
-                {
-                    "name": "Requirements:",
-                    "value": "• Access to the [Ancient Cavern](http://runescape.wikia.com/wiki/Ancient_Cavern)"
-                },
-                {
-                    "name": "Guide:",
-                    "value": "[Ancient Pages - Trim Comp Mini-Guides | Charis - YouTube](https://www.youtube.com/watch?v=A3hzA8ToS4E)"
-                }
-            ],
-            "footer": {
-                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-                "text": "Runescore awarded: 30"
             }
         }
 	},
@@ -1140,6 +1108,34 @@ exports.data = {
 				"text": "Runescore awarded: 25"
 			}
 		}
+	},
+	"barbarian scavenger": {
+		"cmds": ["trim"],
+		"embed": {
+            "title": "Barbarian Scavenger",
+            "author": {
+                "name": "Cape Info",
+                "icon_url": "https://i.imgur.com/6c6q2iC.png"
+            },
+            "description": "[Barbarian Scavenger](https://runescape.wikia.com/wiki/Barbarian_Scavenger) is an achievement that requires the player to find all 26 [ancient pages](https://runescape.wikia.com/wiki/Ancient_page) dropped by monster inside the [ancient cavern](https://runescape.wikia.com/wiki/Ancient_Cavern). They are part of the book [My notes](https://runescape.wikia.com/wiki/My_notes). Duplicate pages may still be obtained before completion of My notes if rummaging barbarian skeletons. Because they are uncommon drops, My notes will take several hours to complete.",
+            "thumbnail": {
+                "url": "https://i.imgur.com/Shmagnp.png"
+            },
+            "fields": [
+                {
+                    "name": "Requirements:",
+                    "value": "• Access to the [Ancient Cavern](http://runescape.wikia.com/wiki/Ancient_Cavern)"
+                },
+                {
+                    "name": "Guide:",
+                    "value": "[Ancient Pages - Trim Comp Mini-Guides | Charis - YouTube](https://www.youtube.com/watch?v=A3hzA8ToS4E)"
+                }
+            ],
+            "footer": {
+                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+                "text": "Runescore awarded: 30"
+            }
+        }
 	},
 	"behemoth notes": {
 		"cmds": ["mqc"],
@@ -4263,6 +4259,34 @@ exports.data = {
 			}
 		}
 	},
+	"master otto": {
+		"cmds": ["trim"],
+		"embed": {
+            "title": "Master Otto",
+            "author": {
+                "name": "Cape Info",
+                "icon_url": "https://i.imgur.com/6c6q2iC.png"
+            },
+            "description": "[Master Otto](https://runescape.wikia.com/wiki/Master_Otto) is an achievement that requires the player to complete all of the [Barbarian Training](https://runescape.wikia.com/wiki/Barbarian_Training) with [Otto Godblessed](https://runescape.wikia.com/wiki/Otto_Godblessed). Barbarian Training is a set of expansions to Firemaking, Herblore, Fishing and Smithing. This activity also provides access to the [Ancient Cavern](https://runescape.wikia.com/wiki/Ancient_Cavern). Otto can be found south-west of the Ancient Cavern entrance.",
+            "thumbnail": {
+                "url": "https://i.imgur.com/Shmagnp.png"
+            },
+            "fields": [
+                {
+                    "name": "Requirements:",
+                    "value": "• 35 Firemaking\n• 11 Crafting\n• 55 Fishing\n• 15 Agility\n• 35 Strength\n• 5 Smithing\n• 4 Herblore\n\n• Tai Bwo Wannai Trio Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Tai_Bwo_Wannai_Trio)\n\n• Two [bronze bars](https://runescape.wikia.com/wiki/Bronze_bar)\n• Two [logs](https://runescape.wikia.com/wiki/Logs) \n• [Fishing Bait](https://runescape.wikia.com/wiki/Fishing_bait) \n• One two-dose [attack potion](https://runescape.wikia.com/wiki/Attack_potion) \n• [Roe](https://runescape.wikia.com/wiki/Roe) (obtained during Barbarian Fishing)\n• A tree-type [bow](https://runescape.wikia.com/wiki/Bow)"
+                },
+                {
+                    "name": "Guide:",
+                    "value": "[Barbarian Training guide | Runescape Wiki](http://runescape.wikia.com/wiki/Barbarian_Training)"
+                }
+            ],
+            "footer": {
+                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+                "text": "Runescore awarded: 25"
+            }
+        }
+	},
 	"master of assault": {
 		"cmds": ["trim"],
 		"embed": {
@@ -4292,34 +4316,6 @@ exports.data = {
             "footer": {
                 "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
                 "text": "Runescore awarded: 40"
-            }
-        }
-	},
-	"master otto": {
-		"cmds": ["trim"],
-		"embed": {
-            "title": "Master Otto",
-            "author": {
-                "name": "Cape Info",
-                "icon_url": "https://i.imgur.com/6c6q2iC.png"
-            },
-            "description": "[Master Otto](https://runescape.wikia.com/wiki/Master_Otto) is an achievement that requires the player to complete all of the [Barbarian Training](https://runescape.wikia.com/wiki/Barbarian_Training) with [Otto Godblessed](https://runescape.wikia.com/wiki/Otto_Godblessed). Barbarian Training is a set of expansions to Firemaking, Herblore, Fishing and Smithing. This activity also provides access to the [Ancient Cavern](https://runescape.wikia.com/wiki/Ancient_Cavern). Otto can be found south-west of the Ancient Cavern entrance.",
-            "thumbnail": {
-                "url": "https://i.imgur.com/Shmagnp.png"
-            },
-            "fields": [
-                {
-                    "name": "Requirements:",
-                    "value": "• 35 Firemaking\n• 11 Crafting\n• 55 Fishing\n• 15 Agility\n• 35 Strength\n• 5 Smithing\n• 4 Herblore\n\n• Tai Bwo Wannai Trio Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Tai_Bwo_Wannai_Trio)\n\n• Two [bronze bars](https://runescape.wikia.com/wiki/Bronze_bar)\n• Two [logs](https://runescape.wikia.com/wiki/Logs) \n• [Fishing Bait](https://runescape.wikia.com/wiki/Fishing_bait) \n• One two-dose [attack potion](https://runescape.wikia.com/wiki/Attack_potion) \n• [Roe](https://runescape.wikia.com/wiki/Roe) (obtained during Barbarian Fishing)\n• A tree-type [bow](https://runescape.wikia.com/wiki/Bow)"
-                },
-                {
-                    "name": "Guide:",
-                    "value": "[Barbarian Training guide | Runescape Wiki](http://runescape.wikia.com/wiki/Barbarian_Training)"
-                }
-            ],
-            "footer": {
-                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-                "text": "Runescore awarded: 25"
             }
         }
 	},
@@ -5372,7 +5368,7 @@ exports.data = {
 		}
 	},
 	"post fume": {
-		"cmds": ["mqc"],
+		"cmds": ["mqc", "trim"],
 		"embed": {
 			"title": "Post Fume",
 			"author": {
@@ -5468,7 +5464,7 @@ exports.data = {
 		}
 	},
 	"quiet but deadly lore": {
-		"cmds": ["mqc"],
+		"cmds": ["mqc", "trim"],
 		"embed": {
 			"title": "Quiet but Deadly Lore",
 			"author": {
@@ -5719,34 +5715,6 @@ exports.data = {
 			}
 		}
 	},
-	"scrolling with power": {
-		"cmds": ["trim"],
-		"embed": {
-            "title": "Scrolling with Power",
-            "author": {
-                "name": "Cape Info",
-                "icon_url": "https://i.imgur.com/6c6q2iC.png"
-            },
-            "description": "[Scrolling with Power](https://runescape.wikia.com/wiki/Scrolling_with_Power) is an achievement that requires the player to unlock all Dungeoneering [scroll traits](https://runescape.wikia.com/wiki/Dungeoneering/Rewards). This will cost a total of 190,000 [Dungeoneering tokens](https://runescape.wikia.com/wiki/Dungeoneering_token).\n\nThis includes:\n• [Scroll of life](https://runescape.wikia.com/wiki/Scroll_of_life)\n• [Scroll of cleansing](https://runescape.wikia.com/wiki/Scroll_of_cleansing)\n• [Scroll of proficiency](https://runescape.wikia.com/wiki/Scroll_of_proficiency)\n• [Scroll of quick teleportation](https://runescape.wikia.com/wiki/Scroll_of_quick_teleportation)\n• [Scroll of efficiency](https://runescape.wikia.com/wiki/Scroll_of_efficiency)\n• [Scroll of Daemonheim](https://runescape.wikia.com/wiki/Scroll_of_Daemonheim)\n• [Scroll of dexterity](https://runescape.wikia.com/wiki/Scroll_of_dexterity)\n• [Wild card](https://runescape.wikia.com/wiki/Wild_card)\n\nTokens are received for completing a dungeon; no tokens are earned if the dungeon is left early. The amount of tokens a player receives is dependent on the amount of experience gained for completing a floor, in a 10:1 ratio of experience to tokens rounded down. An example being if a player received 459 experience, they would get 45 Dungeoneering tokens. Bonus experience does not affect token gain. Tokens can also be obtained in ways other than completing dungeons. By participating in [Sinkholes](https://runescape.wikia.com/wiki/Sinkholes), a player will earn tokens relative to their level and their prize. They can also be obtained by playing [Fremennik sagas](https://runescape.wikia.com/wiki/Fremennik_saga).",
-            "thumbnail": {
-                "url": "https://i.imgur.com/Shmagnp.png"
-            },
-            "fields": [
-                {
-                    "name": "Requirements:",
-                    "value": "• 190,000 Dungeoneering tokens"
-                },
-                {
-                    "name": "Guide:",
-                    "value": "<#431117799965065216>"
-                }
-            ],
-            "footer": {
-                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-                "text": "Runescore awarded: 20"
-            }
-        }
-	},
 	"scabigail": {
 		"cmds": ["mqc", "trim"],
 		"embed": {
@@ -5822,6 +5790,33 @@ exports.data = {
 				"text": "Runescore awarded: 25"
 			}
 		}
+	"scrolling with power": {
+		"cmds": ["trim"],
+		"embed": {
+            "title": "Scrolling with Power",
+            "author": {
+                "name": "Cape Info",
+                "icon_url": "https://i.imgur.com/6c6q2iC.png"
+            },
+            "description": "[Scrolling with Power](https://runescape.wikia.com/wiki/Scrolling_with_Power) is an achievement that requires the player to unlock all Dungeoneering [scroll traits](https://runescape.wikia.com/wiki/Dungeoneering/Rewards). This will cost a total of 190,000 [Dungeoneering tokens](https://runescape.wikia.com/wiki/Dungeoneering_token).\n\nThis includes:\n• [Scroll of life](https://runescape.wikia.com/wiki/Scroll_of_life)\n• [Scroll of cleansing](https://runescape.wikia.com/wiki/Scroll_of_cleansing)\n• [Scroll of proficiency](https://runescape.wikia.com/wiki/Scroll_of_proficiency)\n• [Scroll of quick teleportation](https://runescape.wikia.com/wiki/Scroll_of_quick_teleportation)\n• [Scroll of efficiency](https://runescape.wikia.com/wiki/Scroll_of_efficiency)\n• [Scroll of Daemonheim](https://runescape.wikia.com/wiki/Scroll_of_Daemonheim)\n• [Scroll of dexterity](https://runescape.wikia.com/wiki/Scroll_of_dexterity)\n• [Wild card](https://runescape.wikia.com/wiki/Wild_card)\n\nTokens are received for completing a dungeon; no tokens are earned if the dungeon is left early. The amount of tokens a player receives is dependent on the amount of experience gained for completing a floor, in a 10:1 ratio of experience to tokens rounded down. An example being if a player received 459 experience, they would get 45 Dungeoneering tokens. Bonus experience does not affect token gain. Tokens can also be obtained in ways other than completing dungeons. By participating in [Sinkholes](https://runescape.wikia.com/wiki/Sinkholes), a player will earn tokens relative to their level and their prize. They can also be obtained by playing [Fremennik sagas](https://runescape.wikia.com/wiki/Fremennik_saga).",
+            "thumbnail": {
+                "url": "https://i.imgur.com/Shmagnp.png"
+            },
+            "fields": [
+                {
+                    "name": "Requirements:",
+                    "value": "• 190,000 Dungeoneering tokens"
+                },
+                {
+                    "name": "Guide:",
+                    "value": "<#431117799965065216>"
+                }
+            ],
+            "footer": {
+                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+                "text": "Runescore awarded: 20"
+            }
+        }
 	},
 	"seagullible": {
 		"cmds": ["trim"],
@@ -6481,15 +6476,15 @@ exports.data = {
 			}
 		}
 	},
-	"telos if you're angry": {
+	"telos if you're angry ii": {
 		"cmds": ["trim"],
 		"embed": {
-            "title": "Telos If You're Angry",
+            "title": "Telos If You're Angry II",
             "author": {
                 "name": "Cape Info",
                 "icon_url": "https://i.imgur.com/6c6q2iC.png"
             },
-            "description": "[Telos If You're Angry](http://runescape.wikia.com/wiki/Telos_If_You%27re_Angry) is is an achievement that requires the player to defeat [Telos, the Warden](https://runescape.wikia.com/wiki/Telos,_the_Warden) at 100% enrage.",
+            "description": "[Telos If You're Angry II](http://runescape.wikia.com/wiki/Telos_If_You%27re_Angry_II) is is an achievement that requires the player to defeat [Telos, the Warden](https://runescape.wikia.com/wiki/Telos,_the_Warden) at 100% enrage.",
             "thumbnail": {
                 "url": "https://i.imgur.com/Shmagnp.png"
             },
@@ -7055,34 +7050,6 @@ exports.data = {
             }
         }
 	},
-	"witch's potion": {
-		"cmds": ["mqc", "trim"],
-		"embed": {
-            "title": "Witch's Potion",
-            "author": {
-                "name": "Cape Info",
-                "icon_url": "https://i.imgur.com/6c6q2iC.png"
-            },
-            "description": "[Witch's Potion](http://runescape.wikia.com/wiki/Witch%27s_Potion_(achievement%29) is an achievement that requires the player to complete the Witch's Potion miniquest.",
-            "thumbnail": {
-                "url": "https://i.imgur.com/Shmagnp.png"
-            },
-            "fields": [
-                {
-                    "name": "Requirements:",
-                    "value": "None"
-                },
-                {
-                  "name": "Guide:",
-                  "value": "[Witch's Potion guide | Runescape Wiki](http://runescape.wikia.com/wiki/Witch%27s_Potion)"
-                }
-            ],
-            "footer": {
-                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-                "text": "Runescore awarded: 5"
-            }
-        }
-	},
 	"who will be her lover?": {
 		"cmds": ["trim"],
 		"embed": {
@@ -7128,6 +7095,34 @@ exports.data = {
             "footer": {
                 "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
                 "text": "Runescore awarded: 75"
+            }
+        }
+	},
+	"witch's potion": {
+		"cmds": ["mqc", "trim"],
+		"embed": {
+            "title": "Witch's Potion",
+            "author": {
+                "name": "Cape Info",
+                "icon_url": "https://i.imgur.com/6c6q2iC.png"
+            },
+            "description": "[Witch's Potion](http://runescape.wikia.com/wiki/Witch%27s_Potion_(achievement%29) is an achievement that requires the player to complete the Witch's Potion miniquest.",
+            "thumbnail": {
+                "url": "https://i.imgur.com/Shmagnp.png"
+            },
+            "fields": [
+                {
+                    "name": "Requirements:",
+                    "value": "None"
+                },
+                {
+                  "name": "Guide:",
+                  "value": "[Witch's Potion guide | Runescape Wiki](http://runescape.wikia.com/wiki/Witch%27s_Potion)"
+                }
+            ],
+            "footer": {
+                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+                "text": "Runescore awarded: 5"
             }
         }
 	},
