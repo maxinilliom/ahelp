@@ -113,6 +113,34 @@ exports.data = {
 			}
 		}
 	},
+	"aereck's old bones": {
+		"cmds": ["mqc"],
+		"embed": {
+			"title": "Aereck's Old Bones",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Aereck's Old Bones](http://runescape.wikia.com/wiki/Aereck%27s_Old_Bones) is an achievement that requires the player to finish the Restless Ghost quest, or claim the ancient bones by talking to Father Aereck if the player has completed the quest before the bones were added as a reward.\n\nFather Aereck is a Saradominist priest in charge of the Church of Lumbridge, and of Saradominist worship in Lumbridge.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• The Restless Ghost Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Restless_Ghost)"
+				},
+				{
+					"name": "Guide:",
+					"value": "[The Restless Ghost Quest guide | Runescape Wiki](http://runescape.wikia.com/wiki/The_Restless_Ghost)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 5"
+			}
+		}
+	},
 	"agile from head to toe": {
 		"cmds": ["trim"],
 		"embed": {
