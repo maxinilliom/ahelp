@@ -67,10 +67,6 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 			}
 		});
 
-		message.channel.send(`${output.length}, ${second.length}, ${third.length}`);
-
-		await client.wait(500);
-
 		helpEmbed.title = "Comprehensive list of all valid Master Quest Cape guide commands";
 		helpEmbed.author.name = "Master Quest Cape Info";
 		helpEmbed.description = output;
