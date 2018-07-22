@@ -1117,7 +1117,7 @@ exports.data = {
                 "name": "Cape Info",
                 "icon_url": "https://i.imgur.com/6c6q2iC.png"
             },
-            "description": "[Barbarian Scavenger](https://runescape.wikia.com/wiki/Barbarian_Scavenger) is an achievement that requires the player to find all 26 [ancient pages](https://runescape.wikia.com/wiki/Ancient_page) dropped by monster inside the [ancient cavern](https://runescape.wikia.com/wiki/Ancient_Cavern). They are part of the book [My notes](https://runescape.wikia.com/wiki/My_notes). Duplicate pages may still be obtained before completion of My notes if rummaging barbarian skeletons. Because they are uncommon drops, My notes will take several hours to complete.",
+            "description": "[Barbarian Scavenger](https://runescape.wikia.com/wiki/Barbarian_Scavenger) is an achievement that requires the player to find all 26 [Ancient pages](https://runescape.wikia.com/wiki/Ancient_page) dropped by monsters inside the [Ancient cavern](https://runescape.wikia.com/wiki/Ancient_Cavern). They are part of the book [My notes](https://runescape.wikia.com/wiki/My_notes). Duplicate pages may still be obtained before completion of My notes if rummaging [Barbarian skeletons](http://runescape.wikia.com/wiki/Ancient_Cavern#Rummaging_skeletons). Because they are uncommon drops, My notes will take several hours to complete.",
             "thumbnail": {
                 "url": "https://i.imgur.com/Shmagnp.png"
             },
@@ -1169,7 +1169,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Big Chinchompa](http://runescape.wikia.com/wiki/Big_Chinchompa) is an achievement that requires the player to score at least 1,111 competence points in a single round of Big Chinchompa.\n\nBig Chinchompa is a members-only Hunter Distraction and Diversion (D&D) that can be done twice daily. Big Chinchompa allows players to enter the lairs of massive plutonial chinchompas, catch native soporith moths, and feed them to the chinchompas in order to put them to sleep. Big Chinchompa is organised by the gnomes Nyriki Tapio and Mieliki Tapio, who wish to use the plutonial chinchompas for their mysterious alchemical experiments.\n\nThe D&D awards Hunter experience as well as competence points that can be spent on additional experience, a handful of Hunter-related items, or access to instanced private hunting areas.",
+			"description": "[Big Chinchompa](http://runescape.wikia.com/wiki/Big_Chinchompa) is an achievement that requires the player to score at least 1,111 [Competence points]http://runescape.wikia.com/wiki/Competence_points) in a single round of [Big Chinchompa](http://runescape.wikia.com/wiki/Big_Chinchompa).\n\nBig Chinchompa is a members-only [Hunter](http://runescape.wikia.com/wiki/Hunter) [Distraction and Diversion](http://runescape.wikia.com/wiki/Distractions_and_Diversions) (D&D) that can be done twice daily. Big Chinchompa allows players to enter the lairs of massive [Plutonial chinchompas](http://runescape.wikia.com/wiki/Plutonial_chinchompa), catch native [Soporith moths](http://runescape.wikia.com/wiki/Soporith_moths), and feed them to the chinchompas in order to put them to sleep. Big Chinchompa is organised by the [Gnomes](http://runescape.wikia.com/wiki/Gnome) [Nyriki Tapio](http://runescape.wikia.com/wiki/Nyriki_Tapio) and [Mieliki Tapio](http://runescape.wikia.com/wiki/Mieliki_Tapio), who wish to use the plutonial chinchompas for their mysterious alchemical experiments.\n\nThe D&D awards Hunter [Experience](http://runescape.wikia.com/wiki/Experience) as well as competence points that can be spent on additional experience, a handful of Hunter-related items, or access to instanced private hunting areas.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -1197,7 +1197,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Bipedal Mask](http://runescape.wikia.com/wiki/Bipedal_Mask) is an achievement that requires the player to construct a Tuska mask out of a Tuska mask headpiece, Tuska mask lower tusks, Tuska mask upper tusks, Tuska mask plate and Tuska mask top which can be obtained as drops from Airut while on the appropriate Slayer assignment.",
+			"description": "[Bipedal Mask](http://runescape.wikia.com/wiki/Bipedal_Mask) is an achievement that requires the player to construct a [Tuska mask](http://runescape.wikia.com/wiki/Tuska_mask) out of a [Tuska mask headpiece](http://runescape.wikia.com/wiki/Tuska_mask_headpiece), [Tuska mask lower tusks](http://runescape.wikia.com/wiki/Tuska_mask_lower_tusks), [Tuska mask upper tusks](http://runescape.wikia.com/wiki/Tuska_mask_upper_tusks), [Tuska mask plate](http://runescape.wikia.com/wiki/Tuska_mask_plate) and [Tuska mask top](http://runescape.wikia.com/wiki/Tuska_mask_top) which can be obtained as drops from [Airut]() while on the appropriate [Slayer assignment](http://runescape.wikia.com/wiki/Slayer_assignment).",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
