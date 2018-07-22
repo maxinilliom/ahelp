@@ -253,7 +253,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Angs off my Ring](http://runescape.wikia.com/wiki/Angs_off_my_Ring) is an achievement that requires the player to get the ancient elven wedding ring drop from Crystal Shapeshifters and return it to Angof.\n\nAncient Elven Wedding Ring Tip from Griffinbork:\n• First buy the regular crystal armour at the GE (can sell back later)\n• Upgrade to attuned pieces when you have gathered enough Tarddian crystals\n• You should get the ring before upgrading the whole set.\n• Use the last few crystals to repair the regular armour to be able to sell it.",
+			"description": "[Angs off my Ring](http://runescape.wikia.com/wiki/Angs_off_my_Ring) is an achievement that requires the player to get the [Ancient elven wedding ring](http://runescape.wikia.com/wiki/Ancient_elven_wedding_ring) drop from [Crystal Shapeshifters](http://runescape.wikia.com/wiki/Crystal_Shapeshifter) and return it to [Angof](http://runescape.wikia.com/wiki/Angof).\n\nAncient Elven Wedding Ring Tip from Griffinbork:\n• First buy the regular [Crystal armour](http://runescape.wikia.com/wiki/Crystal_equipment#Crystal_armour) at the GE (can sell back later)\n• Upgrade to Attuned crystal armour](http://runescape.wikia.com/wiki/Crystal_equipment#Attuned_crystal_armour) pieces when you have gathered enough [Tarddian crystals](http://runescape.wikia.com/wiki/Tarddian_crystal)\n• You should get the ring before upgrading the whole set.\n• Use the last few crystals to repair the regular armour to be able to sell it.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -281,7 +281,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Annihilator](http://runescape.wikia.com/wiki/Annihilator) is an achievement that requires the player to obtain The Annihilator title by fighting all four nihil at once in Freneskae's pit as a boss fight during or after Fate of the Gods.",
+			"description": "[Annihilator](http://runescape.wikia.com/wiki/Annihilator) is an achievement that requires the player to obtain [The Annihilator](http://runescape.wikia.com/wiki/The_Annihilator) title by fighting all four [Nihil](http://runescape.wikia.com/wiki/Nihil) at once in [Freneskae's pit](http://runescape.wikia.com/wiki/Freneskae#The_Pit) as a boss fight during or after [Fate of the Gods](http://runescape.wikia.com/wiki/Fate_of_the_Gods). Players must be engaged in combat with all four before defeating any of the nihil or the achievement will not be completed.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -309,7 +309,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Any Odd Chicken](http://runescape.wikia.com/wiki/Any_Odd_Chicken) is an achievement that requires the player to complete the Ernest the Chicken quest, or talk to Professor Oddenstein if the player completed the quest before the 10 eggs and 300 feathers were added as a reward for the quest.\n\nProfessor Oddenstein is an eccentric scientist residing on the top floor of Draynor Manor.",
+			"description": "[Any Odd Chicken](http://runescape.wikia.com/wiki/Any_Odd_Chicken) is an achievement that requires the player to complete the [Ernest the Chicken](http://runescape.wikia.com/wiki/Ernest_the_Chicken) quest, or talk to [Professor Oddenstein](http://runescape.wikia.com/wiki/Professor_Oddenstein) if the player completed the quest before the 10 eggs and 300 feathers were added as a reward for the quest.\n\nProfessor Oddenstein is an eccentric scientist residing on the top floor of [Draynor Manor](http://runescape.wikia.com/wiki/Draynor_Manor).",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -333,7 +333,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Ape A'hollow](http://runescape.wikia.com/wiki/Ape_A%27hollow) is an achievement that requires the player to clear shortcuts on Ape Atoll and Gu'Tanoth during or after Fairy Tale III - Orks Rift.\n\nThe shortcuts can be found in the following locations:\n• Hollow Log: At the top of a mountain in the Ape Atoll Agility Course near fairy ring code **C-L-R**\n• Tunnel: Gu'Tanoth, north of fairy ring code **A-L-P**",
+			"description": "[Ape A'hollow](http://runescape.wikia.com/wiki/Ape_A%27hollow) is an achievement that requires the player to clear shortcuts on [Ape Atoll](http://runescape.wikia.com/wiki/Ape_Atoll) and [Gu'Tanoth](http://runescape.wikia.com/wiki/Gu%27Tanoth) during or after [Fairy Tale III - Battle at Orks Rift]().\n\nThe shortcuts can be found in the following locations:\n• Hollow Log: At the top of a mountain in the [Ape Atoll Agility Course](http://runescape.wikia.com/wiki/Ape_Atoll_Agility_Course) near fairy ring code **C-L-R**\n• Tunnel: [Gu'Tanoth](http://runescape.wikia.com/wiki/Gu%27Tanoth), north of fairy ring code **A-L-P**",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -381,7 +381,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Arc - Ancient Eastern Tortle Portals](http://runescape.wikia.com/wiki/Arc_-_Ancient_Eastern_Tortle_Portals) is an achievement that requires the player to activate all three tortle portals on The Islands That Once Were Turtles, requiring a total of 100 ancestral energy.\n\nTortle portals are portals with which one can teleport between The Islands That Once Were Turtles.\n\nThe first one is on the island with the former Skulls' fortress. It can be activated without any energy, but does require level 90 Divination to do so. It leads to an island with Halia, the divine merchant.\n\nThe second one is on the same island as Halia. It requires 50 ancestral energies as a one time payment to activate. It leads to the island with the positive and negative wisps around the island chain's dead moai. There is also one going back to the fortress island.\n\nThe third one is at the island with the divine colony. It also requires 50 ancestral energies to be activated. It has a one-way teleport option to Waiko.",
+			"description": "[Arc - Ancient Eastern Tortle Portals](http://runescape.wikia.com/wiki/Arc_-_Ancient_Eastern_Tortle_Portals) is an achievement that requires the player to activate all three [Tortle portals](http://runescape.wikia.com/wiki/Tortle_portal) on [The Islands That Once Were Turtles](http://runescape.wikia.com/wiki/The_Islands_That_Once_Were_Turtles), requiring a total of 100 [Ancestral energy](http://runescape.wikia.com/wiki/Ancestral_energy).\n\nTortle portals are portals with which one can teleport between The Islands That Once Were Turtles.\n\nThe first one is on the island with the former Skulls' fortress. It can be activated without any energy, but does require level 90 Divination to do so. It leads to an island with [Halia, the divine merchant](http://runescape.wikia.com/wiki/Halia_(divine_merchant%29).\n\nThe second one is on the same island as Halia. It requires 50 ancestral energies as a one time payment to activate. It leads to the island with the positive and negative wisps around the island chain's [Dead moai](http://runescape.wikia.com/wiki/Dead_moai). There is also one going back to the fortress island.\n\nThe third one is at the island with the divine colony. It also requires 50 ancestral energies to be activated. It has a one-way teleport option to [Waiko](http://runescape.wikia.com/wiki/Waiko).",
 			"thumbnail": {
 				"url": "https://i.imgur.com/gGdB7UR.png"
 			},
@@ -517,6 +517,54 @@ exports.data = {
             }
         }
 	},
+	"arc - unlocking waiko": {
+		"cmds": ["comp"],
+		"embed": {
+			"title": "Arc - Unlocking Waiko",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Arc - Unlocking Waiko](http://runescape.wikia.com/wiki/Arc_-_Unlocking_Waiko) is an achievement that requires the player to purchase the unlocks from the [Waiko Reward Shop](http://runescape.wikia.com/wiki/Waiko_Reward_Shop) for the list below for a total cost of 7,750 [Chimes](http://runescape.wikia.com/wiki/Chimes) and 5 [Taijitu](http://runescape.wikia.com/wiki/Taijitu).\n\n• Waiko Grill\n• Whale's Maw Camp Fire\n• Whale's Maw Deposit Box\n• Arc Journal Teletabs\n• Crystal Tool Siphon Blueprints",
+			"thumbnail": {
+				"url": "https://i.imgur.com/gGdB7UR.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• Impressing the Locals Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Impressing_the_Locals)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 30"
+			}
+		}
+	},
+	"arc - upgrading waiko": {
+		"cmds": ["comp"],
+		"embed": {
+			"title": "Arc - Upgrading Waiko",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Arc - Upgrading Waiko](http://runescape.wikia.com/wiki/Arc_-_Upgrading_Waiko) is an achievement that requires the player to purchase the first tier of the upgrades listed below from the [Waiko Reward Shop](http://runescape.wikia.com/wiki/Waiko_Reward_Shop) for a total cost of 17,000 [Chimes](http://runescape.wikia.com/wiki/Chimes) and 16 [Taijitu](http://runescape.wikia.com/wiki/Taijitu).\n\n• Commodity Sell Per Day Increase\n• Supplies Cap Increase\n• Contracts Per Day Increase\n• Supplies Cost Reduction\n• Commodity Sell Price Increase",
+			"thumbnail": {
+				"url": "https://i.imgur.com/gGdB7UR.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• Impressing the Locals Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Impressing_the_Locals)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 30"
+			}
+		}
+	},
 	"arc i - flag fall": {
 		"cmds": ["comp", "mqc"],
 		"embed": {
@@ -525,7 +573,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Arc I - Flag Fall](http://runescape.wikia.com/wiki/Arc_I_-_Flag_Fall) is an achievement that requires the player to complete the Flag Fall miniquest.",
+			"description": "[Arc I - Flag Fall](http://runescape.wikia.com/wiki/Arc_I_-_Flag_Fall) is an achievement that requires the player to complete the [Flag Fall](http://runescape.wikia.com/wiki/Flag_Fall) miniquest.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/gGdB7UR.png"
 			},
@@ -553,7 +601,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Arc II - Head of the Family](http://runescape.wikia.com/wiki/Arc_II_-_Head_of_the_Family) is an achievement that requires the player to complete the Head of the Family miniquest.",
+			"description": "[Arc II - Head of the Family](http://runescape.wikia.com/wiki/Arc_II_-_Head_of_the_Family) is an achievement that requires the player to complete the [Head of the Family](http://runescape.wikia.com/wiki/Head_of_the_Family) miniquest.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/gGdB7UR.png"
 			},
@@ -581,7 +629,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Arc III - Spiritual Enlightenment](http://runescape.wikia.com/wiki/Arc_III_-_Spiritual_Enlightenment) is an achievement that requires the player to complete the Spiritual Enlightenment miniquest.",
+			"description": "[Arc III - Spiritual Enlightenment](http://runescape.wikia.com/wiki/Arc_III_-_Spiritual_Enlightenment) is an achievement that requires the player to complete the [Spiritual Enlightenment](http://runescape.wikia.com/wiki/Spiritual_Enlightenment) miniquest.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/gGdB7UR.png"
 			},
@@ -609,7 +657,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Arc IV - Jed Hunter](http://runescape.wikia.com/wiki/Arc_IV_-_Jed_Hunter) is an achievement that requires the player to complete the Jed Hunter miniquest.",
+			"description": "[Arc IV - Jed Hunter](http://runescape.wikia.com/wiki/Arc_IV_-_Jed_Hunter) is an achievement that requires the player to complete the [Jed Hunter](http://runescape.wikia.com/wiki/Jed_Hunter) miniquest.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/gGdB7UR.png"
 			},
@@ -629,6 +677,34 @@ exports.data = {
 			}
 		}
 	},
+	"arc ix - damage control": {
+		"cmds": ["comp", "mqc"],
+		"embed": {
+			"title": "Arc IX - Damage Control",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Arc IX - Damage Control](http://runescape.wikia.com/wiki/Arc_IX_-_Damage_Control) is an achievement that requires the player to complete the [Damage Control](http://runescape.wikia.com/wiki/Damage_Control) miniquest.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/gGdB7UR.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• Impressing the Locals Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Impressing_the_Locals)\n• Flag Fall Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/Flag_Fall)\n• Head of the Family Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/Head_of_the_Family)\n• Spiritual Enlightenment Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Spiritual_Enlightenment)\n• Jed Hunter Miniquest completion | [Runescape Wikia](http://runescape.wikia.com/wiki/Jed_Hunter)\n• Eye for an Eye Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Eye_for_an_Eye)\n• Harbinger Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Harbinger)\n• Tuai Liet's Own Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Tuai_Leit%27s_Own)\n• Ghosts from the Past Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Ghosts_from_the_Past)"
+				},
+				{
+					"name": "Guide:",
+					"value": "[Arc IX - Damage Control Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Damage_Control)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 10"
+			}
+		}
+	},
 	"arc v - eye for an eye": {
 		"cmds": ["comp", "mqc"],
 		"embed": {
@@ -637,7 +713,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Arc V - Eye for an Eye](http://runescape.wikia.com/wiki/Arc_V_-_Eye_for_an_Eye) is an achievement that requires the player to complete the Eye for an Eye miniquest.",
+			"description": "[Arc V - Eye for an Eye](http://runescape.wikia.com/wiki/Arc_V_-_Eye_for_an_Eye) is an achievement that requires the player to complete the [Eye for an Eye](http://runescape.wikia.com/wiki/Eye_for_an_Eye) miniquest.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/gGdB7UR.png"
 			},
@@ -665,7 +741,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Arc VI - Harbinger of Doom](http://runescape.wikia.com/wiki/Arc_VI_-_Harbinger_of_Doom) is an achievement that requires the player to complete the Harbinger miniquest.",
+			"description": "[Arc VI - Harbinger of Doom](http://runescape.wikia.com/wiki/Arc_VI_-_Harbinger_of_Doom) is an achievement that requires the player to complete the [Harbinger](http://runescape.wikia.com/wiki/Harbinger) miniquest.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/gGdB7UR.png"
 			},
@@ -693,7 +769,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Arc VII - Tuai Leit's Own](http://runescape.wikia.com/wiki/Arc_VII_-_Tuai_Leit%27s_Own) is an achievement that requires the player to complete the Tuai Leit's Own miniquest.",
+			"description": "[Arc VII - Tuai Leit's Own](http://runescape.wikia.com/wiki/Arc_VII_-_Tuai_Leit%27s_Own) is an achievement that requires the player to complete the [Tuai Leit's Own](http://runescape.wikia.com/wiki/Tuai_Leit%27s_Own) miniquest.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/gGdB7UR.png"
 			},
@@ -721,7 +797,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Arc VIII - Ghosts from the Past](http://runescape.wikia.com/wiki/Arc_VIII_-_Ghosts_from_the_Past) is an achievement that requires the player to complete the Ghosts from the Past miniquest.",
+			"description": "[Arc VIII - Ghosts from the Past](http://runescape.wikia.com/wiki/Arc_VIII_-_Ghosts_from_the_Past) is an achievement that requires the player to complete the [Ghosts from the Past](http://runescape.wikia.com/wiki/Ghosts_from_the_Past) miniquest.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/gGdB7UR.png"
 			},
@@ -741,34 +817,6 @@ exports.data = {
 			}
 		}
 	},
-	"arc ix - damage control": {
-		"cmds": ["comp", "mqc"],
-		"embed": {
-			"title": "Arc IX - Damage Control",
-			"author": {
-				"name": "Cape Info",
-				"icon_url": "https://i.imgur.com/6c6q2iC.png"
-			},
-			"description": "[Arc IX - Damage Control](http://runescape.wikia.com/wiki/Arc_IX_-_Damage_Control) is an achievement that requires the player to complete the Damage Control miniquest.",
-			"thumbnail": {
-				"url": "https://i.imgur.com/gGdB7UR.png"
-			},
-			"fields": [
-				{
-					"name": "Requirements:",
-					"value": "• Impressing the Locals Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Impressing_the_Locals)\n• Flag Fall Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/Flag_Fall)\n• Head of the Family Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/Head_of_the_Family)\n• Spiritual Enlightenment Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Spiritual_Enlightenment)\n• Jed Hunter Miniquest completion | [Runescape Wikia](http://runescape.wikia.com/wiki/Jed_Hunter)\n• Eye for an Eye Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Eye_for_an_Eye)\n• Harbinger Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Harbinger)\n• Tuai Liet's Own Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Tuai_Leit%27s_Own)\n• Ghosts from the Past Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Ghosts_from_the_Past)"
-				},
-				{
-					"name": "Guide:",
-					"value": "[Arc IX - Damage Control Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Jed_Hunter)"
-				}
-			],
-			"footer": {
-				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-				"text": "Runescore awarded: 10"
-			}
-		}
-	},
 	"arc x - final destinationt": {
 		"cmds": ["comp", "mqc"],
 		"embed": {
@@ -777,7 +825,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Arc X - Final Destination](http://runescape.wikia.com/wiki/Arc_X_-_Final_Destination) is an achievement that requires the player to complete the Final Destination miniquest.",
+			"description": "[Arc X - Final Destination](http://runescape.wikia.com/wiki/Arc_X_-_Final_Destination) is an achievement that requires the player to complete the [Final Destination](http://runescape.wikia.com/wiki/Final_Destination) miniquest.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/gGdB7UR.png"
 			},
@@ -801,54 +849,6 @@ exports.data = {
 			}
 		}
 	},
-	"arc - unlocking waiko": {
-		"cmds": ["comp"],
-		"embed": {
-			"title": "Arc - Unlocking Waiko",
-			"author": {
-				"name": "Cape Info",
-				"icon_url": "https://i.imgur.com/6c6q2iC.png"
-			},
-			"description": "[Arc - Unlocking Waiko](http://runescape.wikia.com/wiki/Arc_-_Unlocking_Waiko) is an achievement that requires the player to purchase the unlocks from the Waiko Reward Shop for the list below for a total cost of 7,750 chimes and 5 Taijitu.\n\n• Waiko Grill\n• Whale's Maw Camp Fire\n• Whale's Maw Deposit Box\n• Arc Journal Teletabs\n• Crystal Tool Siphon Blueprints",
-			"thumbnail": {
-				"url": "https://i.imgur.com/gGdB7UR.png"
-			},
-			"fields": [
-				{
-					"name": "Requirements:",
-					"value": "• Impressing the Locals Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Impressing_the_Locals)"
-				}
-			],
-			"footer": {
-				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-				"text": "Runescore awarded: 30"
-			}
-		}
-	},
-	"arc - upgrading waiko": {
-		"cmds": ["comp"],
-		"embed": {
-			"title": "Arc - Upgrading Waiko",
-			"author": {
-				"name": "Cape Info",
-				"icon_url": "https://i.imgur.com/6c6q2iC.png"
-			},
-			"description": "[Arc - Upgrading Waiko](http://runescape.wikia.com/wiki/Arc_-_Upgrading_Waiko) is an achievement that requires the player to purchase the first tier of the upgrades listed below from the Waiko Reward Shop for a total cost of 17,000 chimes and Taijitu 16 taijitu.\n\n• Commodity Sell Per Day Increase\n• Supplies Cap Increase\n• Contracts Per Day Increase\n• Supplies Cost Reduction\n• Commodity Sell Price Increase",
-			"thumbnail": {
-				"url": "https://i.imgur.com/gGdB7UR.png"
-			},
-			"fields": [
-				{
-					"name": "Requirements:",
-					"value": "• Impressing the Locals Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Impressing_the_Locals)"
-				}
-			],
-			"footer": {
-				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-				"text": "Runescore awarded: 30"
-			}
-		}
-	},
 	"are you needing access?": {
 		"cmds": ["mqc"],
 		"embed": {
@@ -857,7 +857,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Are You Needing Access?](http://runescape.wikia.com/wiki/Are_You_Needing_Access%3F) is an achievement that requires the player to access the Apmeken tomb after completion of the Do No Evil quest.\n\nApmeken's tomb can be entered through a crack in the cliff wall immediately south in the Monkey Colony, east of the Bandit Camp.",
+			"description": "[Are You Needing Access?](http://runescape.wikia.com/wiki/Are_You_Needing_Access%3F) is an achievement that requires the player to access the [Apmeken tomb](http://runescape.wikia.com/wiki/Apmeken_tomb) after completion of the [Do No Evil](http://runescape.wikia.com/wiki/Do_No_Evil) quest.\n\nApmeken's tomb can be entered through a crack in the cliff wall immediately south in the [Monkey Colony](http://runescape.wikia.com/wiki/Monkey_Colony), east of the [Bandit Camp](http://runescape.wikia.com/wiki/Bandit_Camp_(Kharidian_Desert%29).",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -885,7 +885,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Arise from the Ash](http://runescape.wikia.com/wiki/Arise_from_the_Ash) is an achievement that requires the player to kill the phoenix after the In Pyre Need quest.\n\nThe Phoenix Lair is located near to the Piscatoris Fishing Colony and can be reached using the Phoenix Lair Teleport scroll obtained from Treasure Trails or bought from the GE.",
+			"description": "[Arise from the Ash](http://runescape.wikia.com/wiki/Arise_from_the_Ash) is an achievement that requires the player to kill the [Phoenix](http://runescape.wikia.com/wiki/Phoenix) after the [In Pyre Need](http://runescape.wikia.com/wiki/In_Pyre_Need) quest.\n\n[The Phoenix Lair](http://runescape.wikia.com/wiki/Phoenix_Lair) is located near to the [Piscatoris Fishing Colony](http://runescape.wikia.com/wiki/Piscatoris_Fishing_Colony) and can be reached using the [Phoenix Lair Teleport](http://runescape.wikia.com/wiki/Phoenix_Lair_Teleport) scroll obtained from [Treasure Trails](http://runescape.wikia.com/wiki/Treasure_Trails) or bought from the [Grand Exchange](http://runescape.wikia.com/wiki/Grand_Exchange).",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -913,7 +913,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Around the World in Six Ways](http://runescape.wikia.com/wiki/Around_the_World_in_Six_Ways) is an achievement that requires the player to go to each destination using the balloon transport system after Enlightened Journey.\n\nThe Balloon Transport System or Hot Air Balloon is one of several transportation modes in RuneScape.\n\n• Each control always moves one \"space\" forward (horizontally to the right), and either up, down, or without change in altitude.\n• Drop sandbag: moves up two spaces (UP 2).\n• Burn log: moves up one space (UP 1).\n• Relax: moves forward (right), with no change in altitude (RIGHT).\n• Pull normal rope: moves down one space (DOWN 1).\n• Pull red rope: moves down two spaces (DOWN 2).\n• Bail: bails out the player from the balloon flight. (\"Crashes\" east of Falador and west of Draynor Manor.)",
+			"description": "[Around the World in Six Ways](http://runescape.wikia.com/wiki/Around_the_World_in_Six_Ways) is an achievement that requires the player to go to each destination using the [Balloon transport system](http://runescape.wikia.com/wiki/Balloon_transport_system) after [Enlightened Journey](http://runescape.wikia.com/wiki/Enlightened_Journey).\n\nThe Balloon Transport System or Hot Air Balloon is one of several transportation modes in RuneScape.\n\n• Each control always moves one \"space\" forward (horizontally to the right), and either up, down, or without change in altitude.\n• Drop sandbag: moves up two spaces (UP 2).\n• Burn log: moves up one space (UP 1).\n• Relax: moves forward (right), with no change in altitude (RIGHT).\n• Pull normal rope: moves down one space (DOWN 1).\n• Pull red rope: moves down two spaces (DOWN 2).\n• Bail: bails out the player from the balloon flight. (\"Crashes\" east of [Falador](http://runescape.wikia.com/wiki/Falador) and west of [Draynor Manor](runescape.wikia.com/wiki/Draynor_Manor).)",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -941,7 +941,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[As clear as a Crystal Seed](http://runescape.wikia.com/wiki/As_clear_as_a_Crystal_Seed) is an achievement that requires the player to unlock the Temple of Light teleport on the crystal teleport seed. This can be unlocked by talking to Eluned or Islwyn with a charged seed after the quest.\n\nEluned Ithell is an elf travelling with Islwyn, teleporting between the south-western magic trees outside Lletya and the clearing north-east of the Tyras Camp. If she is not in one spot in a given world, it is possible to hop worlds until you find her. After completing Plague's End, she takes up permanent residence in the Ithell district of Prifddinas. After The Light Within, she is replaced by Islwyn and cannot be found ingame.",
+			"description": "[As clear as a Crystal Seed](http://runescape.wikia.com/wiki/As_clear_as_a_Crystal_Seed) is an achievement that requires the player to unlock the [Temple of Light](http://runescape.wikia.com/wiki/Temple_of_Light) teleport on the [Crystal teleport seed](http://runescape.wikia.com/wiki/Crystal_teleport_seed). This can be unlocked by talking to [Eluned](http://runescape.wikia.com/wiki/Eluned) or [Islwyn](http://runescape.wikia.com/wiki/Islwyn) with a charged seed after the quest.\n\nEluned Ithell is an elf travelling with Islwyn, teleporting between the south-western magic trees outside [Lletya](http://runescape.wikia.com/wiki/Lletya) and the clearing north-east of the [Tyras Camp](http://runescape.wikia.com/wiki/Tyras_Camp). If she is not in one spot in a given world, it is possible to hop worlds until you find her. After completing [Plague's End](http://runescape.wikia.com/wiki/Plague%27s_End), she takes up permanent residence in the [Ithell](http://runescape.wikia.com/wiki/Ithell_Clan) district of [Prifddinas](http://runescape.wikia.com/wiki/Prifddinas). After [The Light Within](http://runescape.wikia.com/wiki/The_Light_Within), she is replaced by Islwyn and cannot be found ingame.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -965,7 +965,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[As Taxed as a Yak](http://runescape.wikia.com/wiki/As_Taxed_as_a_Yak) is an achievement that requires the player to unlock the Contraband Yak Produce shop owned by Vanligga Gastfrihet by offering to pay for her taxes during or after the Fremennik Isles quest. The achievement is unlocked after talking to her after the quest again.\n\nVanligga Gastfrihet can be found in her restaurant on Jatizso, north of King Gjuki Sorvott IV.",
+			"description": "[As Taxed as a Yak](http://runescape.wikia.com/wiki/As_Taxed_as_a_Yak) is an achievement that requires the player to unlock the [Contraband Yak Produce](http://runescape.wikia.com/wiki/Contraband_Yak_Produce) shop owned by [Vanligga Gastfrihet](http://runescape.wikia.com/wiki/Vanligga_Gastfrihet) by offering to pay for her taxes during or after the [Fremennik Isles](http://runescape.wikia.com/wiki/Fremennik_Isles) quest. The achievement is unlocked after talking to her after the quest again.\n\nVanligga Gastfrihet can be found in her restaurant on [Jatizso](http://runescape.wikia.com/wiki/Jatizso), north of [King Gjuki Sorvott IV](http://runescape.wikia.com/wiki/King_Gjuki_Sorvott_IV).",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -989,7 +989,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Azacorax's Rewards](http://runescape.wikia.com/wiki/Azacorax%27s_Rewards) is an achievement that requires the player to speak with Azacorax in the Wizards' Tower after completion of Rune Memories.\n\nAzacorax, Keeper of the Key to the Abyss, named Timmy by the wizards of the Wizards' tower, is the Wizards' Tower's pet lesser demon, kept by Melville Grayzag and Wizard Taloram.",
+			"description": "[Azacorax's Rewards](http://runescape.wikia.com/wiki/Azacorax%27s_Rewards) is an achievement that requires the player to speak with [Azacorax](http://runescape.wikia.com/wiki/Lesser_demon_(Wizards%27_Tower%29) in the [Wizards' Tower](http://runescape.wikia.com/wiki/Wizards%27_Tower) after completion of [Rune Memories](http://runescape.wikia.com/wiki/Rune_Memories) with level 50 in both Magic and Prayer to gain either Magic or Prayer experience.\n\nAzacorax, Keeper of the Key to the Abyss, named Timmy by the wizards of the Wizards' tower, is the Wizards' Tower's pet [Lesser demon](http://runescape.wikia.com/wiki/Lesser_demon), kept by [Melville Grayzag](http://runescape.wikia.com/wiki/Melville_Grayzag) and [Wizard Taloram](http://runescape.wikia.com/wiki/Wizard_Taloram).",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -1013,7 +1013,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Azdaran Birthright](http://runescape.wikia.com/wiki/Azdaran_Birthright) is an achievement that requires the player to complete the Azdaran document by mining the statues in the Ancient Keldagrim ruins and receiving ten fragments after Birthright of the Dwarves.\n\nThe Azdaran document appears in your inventory when you find all 10 Azdaran fragments in the Ancient Keldagrim ruins north of Keldagrim library. The document can be taken to the librarian in Keldagrim Library to discuss it. It may be placed on a bookshelf in the player's house.",
+			"description": "[Azdaran Birthright](http://runescape.wikia.com/wiki/Azdaran_Birthright) is an achievement that requires the player to complete the [Azdaran document](http://runescape.wikia.com/wiki/Azdaran_document) by mining the statues in the [Ancient Keldagrim ruins](http://runescape.wikia.com/wiki/Ancient_Keldagrim_ruins) and receiving ten fragments after [Birthright of the Dwarves](http://runescape.wikia.com/wiki/Birthright_of_the_Dwarves).\n\nThe Azdaran document appears in your inventory when you find all 10 [Azdaran fragments](http://runescape.wikia.com/wiki/Azdaran_fragment) in the Ancient Keldagrim ruins north of [Keldagrim](http://runescape.wikia.com/wiki/Keldagrim) library. The document can be taken to the [Librarian](http://runescape.wikia.com/wiki/Librarian) in Keldagrim Library to discuss it. It may be placed on a bookshelf in the player's house.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -1037,7 +1037,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Bandos's Memories](http://runescape.wikia.com/wiki/Bandos%27s_Memories_(achievement%29) is an achievement that requires the player to fill Bandos's Memories by collecting an additional 13 Bandos chronicles after The Mighty Fall.In the troll camp east of the entrance.\n\n1. Along the path south of the troll camp.\n2. Along the path to Zarador.\n3. The ogre camp east of Zarador.\n4. Up the ladder south of Zarador.\n5. Graardor's camp southwest of the same ladder.\n6. Graardor's \"secret weapon\" camp to the east.\n7. The plateau south of the cyclops camp.\n8. Back down the ladder, Bork's camp east of the player's camp.\n9. The player's camp.\n10. Under the bridge to the north of the player's camp.\n12. Southern part of the goblin camp.\n13. Northern part of the goblin camp.",
+			"description": "[Bandos's Memories](http://runescape.wikia.com/wiki/Bandos%27s_Memories_(achievement%29) is an achievement that requires the player to fill [Bandos's Memories](http://runescape.wikia.com/wiki/Bandos%27s_Memories) by collecting an additional 13 [Bandos chronicles](http://runescape.wikia.com/wiki/Bandos_chronicle) after [The Mighty Fall](http://runescape.wikia.com/wiki/The_Mighty_Fall).\n\n1. In the troll camp east of the entrance.\n2. Along the path south of the troll camp.\n3. Along the path to Zarador.\n4. The ogre camp east of Zarador.\n5. Up the ladder south of Zarador.\n6. Graardor's camp southwest of the same ladder.\n7. Graardor's \"secret weapon\" camp to the east.\n8. The plateau south of the cyclops camp.\n9. Back down the ladder, Bork's camp east of the player's camp.\n10. The player's camp.\n11. Under the bridge to the north of the player's camp.\n12. Southern part of the goblin camp.\n13. Northern part of the goblin camp.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/gGdB7UR.png"
 			},
@@ -1065,7 +1065,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Bane Tuner](http://runescape.wikia.com/wiki/Bane_Tuner) is an achievement that requires the player to unlock the Tune Bane Ore spell during or after Ritual of the Mahjarrat.Players learn the spell in Kethsi where they find and read the tune bane ore scroll. It requires 2 astral runes, 4 earth runes, 1 bane ore in your inventory and an item related to the monster that the bane ore is to be tuned to.",
+			"description": "[Bane Tuner](http://runescape.wikia.com/wiki/Bane_Tuner) is an achievement that requires the player to unlock the [Tune Bane Ore](http://runescape.wikia.com/wiki/Tune_Bane_Ore) spell during or after [Ritual of the Mahjarrat](http://runescape.wikia.com/wiki/Ritual_of_the_Mahjarrat).\n\nPlayers learn the spell in [Kethsi](http://runescape.wikia.com/wiki/Kethsi) where they find and read the tune bane ore scroll. It requires 2 [Astral runes](http://runescape.wikia.com/wiki/Astral_rune), 4 [Earth runes](http://runescape.wikia.com/wiki/Earth_rune), 1 [Bane ore](http://runescape.wikia.com/wiki/Bane_ore) in your inventory and an item related to the monster that the bane ore is to be tuned to.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -1089,7 +1089,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Banking History](http://runescape.wikia.com/wiki/Banking_History) is an achievement that requires the player to complete the enchanted key miniquest.",
+			"description": "[Banking History](http://runescape.wikia.com/wiki/Banking_History) is an achievement that requires the player to complete the [Enchanted key](http://runescape.wikia.com/wiki/Enchanted_key_(miniquest%29) miniquest.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -1145,7 +1145,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Behemoth Notes](http://runescape.wikia.com/wiki/Behemoth_Notes_(achievement%29) is a meta-achievement that requires the player to collect all five Behemoth notes within Daemonheim.\n\nThe Behemoth Notes are a series of journals that players can find while dungeoneering in Daemonheim. Players can view these by talking to the Dungeoneering tutor.\n\n• Part 1: dropped by the Gluttonous behemoth found on frozen floors 1 through 11.\n• Part 2: dropped by the Bulwark beast found on Abandoned and Abandoned 2 floors (12-17, 30-35).\n• Part 3: dropped by Stomp found on floors 18 through 29.\n• Part 4: dropped by the Runebound behemoth found on Occult floors 36 through 47.\n• Part 5: dropped by the Hope devourer found on the Warped floors, floor 51 through 60.",
+			"description": "[Behemoth Notes](http://runescape.wikia.com/wiki/Behemoth_Notes_(achievement%29) is a meta-achievement that requires the player to collect all five [Behemoth notes](http://runescape.wikia.com/wiki/Dungeoneering) within [Daemonheim](http://runescape.wikia.com/wiki/Daemonheim).\n\nThe Behemoth Notes are a series of journals that players can find while Dungeoneering in Daemonheim. Players can view these by talking to the [Dungeoneering tutor](http://runescape.wikia.com/wiki/Dungeoneering_tutor).\n\n• Part 1: dropped by the [Gluttonous behemoth](http://runescape.wikia.com/wiki/Gluttonous_behemoth) found on [Frozen](http://runescape.wikia.com/wiki/Dungeoneering_floors#Frozen_floors) floors (1-11).\n• Part 2: dropped by the [Bulwark beast](http://runescape.wikia.com/wiki/Bulwark_beast) found on [Abandoned](http://runescape.wikia.com/wiki/Dungeoneering_floors#Abandoned_floors) and [Abandoned 2](http://runescape.wikia.com/wiki/Dungeoneering_floors#Abandoned_2_floors) floors (12-17, 30-35).\n• Part 3: dropped by [Stomp](http://runescape.wikia.com/wiki/Stomp_(monster%29) found on [Furnished](http://runescape.wikia.com/wiki/Dungeoneering_floors#Furnished_floors) floors (18-29).\n• Part 4: dropped by the [Runebound behemoth](http://runescape.wikia.com/wiki/Runebound_behemoth) found on [Occult](http://runescape.wikia.com/wiki/Dungeoneering_floors#Occult_floors_.28m.29) floors (36-47).\n• Part 5: dropped by the [Hope devourer](http://runescape.wikia.com/wiki/Hope_devourer) found on the [Warped](http://runescape.wikia.com/wiki/Dungeoneering_floors#Warped_floors_.28m.29) floors (51-60).",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
