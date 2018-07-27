@@ -49,16 +49,19 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 	if (args[0].toLowerCase() == "help") {
 		let output = "";
 		let second = "";
+		let third = "";
 		const helpEmbed = data["help"].embed;
 		keyList.forEach(k => {
 			if (output.length <= 2000) {
 				output += `• ${data[k].embed.title}\n`;
-			} else {
+			} else if (second.length <= 2000) {
 				second += `• ${data[k].embed.title}\n`;
+			} else {
+				third += `• ${data[k].embed.title}\n`;
 			}
 		});
 
-		helpEmbed.title = "Comprehensive list of all valid Trimmed Completionist Cape guide commands";
+		helpEmbed.title = "Comprehensive list of all valid Trimmed Completionist Cape achievement guides";
 		helpEmbed.author.name = "Trimmed Completionist Cape Info";
 		helpEmbed.description = output;
 		helpEmbed.color = 16430082;
@@ -70,6 +73,15 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 			helpEmbed.timestamp = new Date();
 			message.channel.send("", {embed: helpEmbed});
 		}
+
+		if (third.length > 0) {
+			helpEmbed.description = third;
+			helpEmbed.timestamp = new Date();
+			await message.channel.send("", {embed: helpEmbed});
+		}
+		const helpMsg = message.channel.id == '382701090430386180'
+			? `To search for an achievement, use **.${exports.help.name}** <keyword>.`
+			: `To search for an achievement, use **.${exports.help.name}** <keyword> in the <#382701090430386180> channel.`		message.channel.send(helpMsg);		message.channel.send(helpMsg);
 		return;
 	}
 
@@ -93,7 +105,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 			output += `${i}: ${data[rtnArr[i-1]].embed.title}\n`;
 			i++;
 		});
-		searchEmbed.title = "All Trimmed Completionist Cape guide commands matching your search";
+		searchEmbed.title = "All Trimmed Completionist Cape achievement guides matching your search";
 		searchEmbed.author.name = "Trimmed Completionist Cape Info";
 		searchEmbed.description = output;
 		searchEmbed.color = 16430082;

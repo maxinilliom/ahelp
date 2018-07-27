@@ -36,10 +36,10 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
                         guide.color = 8113151;
                         guide.timestamp = new Date();
                         try {
-				message.channel.send("", {embed: guide});
-			} catch (err) {
-				i--;
-			}
+							message.channel.send("", {embed: guide});
+							} catch (err) {
+								i--;
+							}
                         i++;
                         o++;
                         if (o < x) {
@@ -67,7 +67,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 			}
 		});
 
-		helpEmbed.title = "Comprehensive list of all valid Master Quest Cape guide commands";
+		helpEmbed.title = "Comprehensive list of all valid Master Quest Cape achievement guides";
 		helpEmbed.author.name = "Master Quest Cape Info";
 		helpEmbed.description = output;
 		helpEmbed.color = 8113151;
@@ -85,6 +85,10 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 			helpEmbed.timestamp = new Date();
 			await message.channel.send("", {embed: helpEmbed});
 		}
+		const helpMsg = message.channel.id == '382701090430386180'
+			? `To search for an achievement, use **.${exports.help.name}** <keyword>.`
+			: `To search for an achievement, use **.${exports.help.name}** <keyword> in the <#382701090430386180> channel.`
+		message.channel.send(helpMsg);
 		return;
 	}
 
@@ -108,7 +112,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 			output += `${i}: ${data[rtnArr[i-1]].embed.title}\n`;
 			i++;
 		});
-		searchEmbed.title = "All Master Quest Cape guide commands matching your search";
+		searchEmbed.title = "All Master Quest Cape achievement guides matching your search";
 		searchEmbed.author.name = "Master Quest Cape Info";
 		searchEmbed.description = output;
 		searchEmbed.color = 8113151;
