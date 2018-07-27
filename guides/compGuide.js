@@ -149,7 +149,7 @@ exports.data = {
                 "name": "Trimmed Completionist Cape Info",
                 "icon_url": "https://i.imgur.com/6c6q2iC.png"
             },
-            "description": "[Agile from Head to Toe](https://runescape.wikia.com/wiki/Agile_from_Head_to_Toe) is an achievement that requires the player to get the [Agile Top](https://runescape.wikia.com/wiki/Agile_top) and [Legs](https://runescape.wikia.com/wiki/Agile_legs). They each require 250 completed laps of the [Advanced Barbarian Outpost](https://runescape.wikia.com/wiki/Barbarian_Outpost) and [Advanced Gnome Stronghold](https://runescape.wikia.com/wiki/Gnome_Stronghold_Agility_Course) agility course respectively.",
+            "description": "[Agile from Head to Toe](https://runescape.wikia.com/wiki/Agile_from_Head_to_Toe) is an achievement that requires the player to get the [Agile Top](https://runescape.wikia.com/wiki/Agile_top) and [Legs](https://runescape.wikia.com/wiki/Agile_legs). They each require 250 completed laps of the [Advanced Barbarian Outpost](https://runescape.wikia.com/wiki/Barbarian_Outpost) and [Advanced Gnome Stronghold agility course](https://runescape.wikia.com/wiki/Gnome_Stronghold_Agility_Course) respectively.",
             "thumbnail": {
                 "url": "https://i.imgur.com/Shmagnp.png"
             },
@@ -201,7 +201,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[All Rise](http://runescape.wikia.com/wiki/All_Rise) is an achievement that requires the player to complete all sixteen Court Cases.\n\nNote that if you have the Dwarven Instinct Aura from the 2015 Premier club, you are almost guarenteed one court case per day through its activation. Other methods of obtaining include: Monster drops, Pickpocketing, as a drop from caskets, as a reward from hard or elite clue scrolls, and as a reward from the Giant Oyster.\n\n• [Mugger v. Roger Murray](http://runescape.wikia.com/wiki/Mugger_v._Roger_Murray)\n• [River troll v. The People](http://runescape.wikia.com/wiki/River_troll_v._The_People)\n• [Drunken Dwarf v. The People](http://runescape.wikia.com/wiki/Drunken_Dwarf_v._The_People)\n• [Evil Twin v. Good Twin](http://runescape.wikia.com/wiki/Evil_Twin_v._Good_Twin)\n• [Rick Turpentine v. The (Rich) People](http://runescape.wikia.com/wiki/Rick_Turpentine_v._The_(Rich%29_People)\n• [The Mime v. The People](http://runescape.wikia.com/wiki/The_Mime_v._The_People)\n• [The Frog Prince v. The People](http://runescape.wikia.com/wiki/The_Frog_Prince_v._The_People)\n• [The Gravedigger v. The People](http://runescape.wikia.com/wiki/The_Gravedigger_v._The_People)\n• [EVIL DAVE v. The People](http://runescape.wikia.com/wiki/EVIL_DAVE_v._The_People)\n• [The Sandwich Lady v. The People](http://runescape.wikia.com/wiki/The_Sandwich_Lady_v._The_People)\n• [Party Pete v. His Neighbours](http://runescape.wikia.com/wiki/Party_Pete_v._His_Neighbours)\n• [Miss Schism v. Draynor Village](http://runescape.wikia.com/wiki/Miss_Schism_v._Draynor_Village)\n• [Sawmill Man v. The People](http://runescape.wikia.com/wiki/Sawmill_Man_v._The_People)\n• [Ernest v. Professor Oddenstein](http://runescape.wikia.com/wiki/Ernest_v._Professor_Oddenstein)\n• [H.A.M. v. Dorgeshuun](http://runescape.wikia.com/wiki/H.A.M._v._Dorgeshuun)\n• [Barbarians v. Wizards](http://runescape.wikia.com/wiki/Barbarians_v._Wizards)",
+			"description": "[All Rise](http://runescape.wikia.com/wiki/All_Rise) is an achievement that requires the player to complete all sixteen [Court Cases](http://runescape.wikia.com/wiki/Court_Cases).\n\nNote that if you have the [Dwarven Instinct Aura](http://runescape.wikia.com/wiki/Dwarven_instinct_aura) from the 2015 [Premier club](http://runescape.wikia.com/wiki/Premier_Club), you are almost guarenteed one court case per day through its activation. Other methods of obtaining include: [Monster](http://runescape.wikia.com/wiki/Monster) drops, [Pickpocketing](http://runescape.wikia.com/wiki/Thieving#Pickpocketing), as a drop from [Caskets](http://runescape.wikia.com/wiki/Casket), as a reward from hard or elite [Clue scrolls](http://runescape.wikia.com/wiki/Clue_scroll), and as a reward from the [Giant Oyster](http://runescape.wikia.com/wiki/Giant_Oyster).\n\n• [Mugger v. Roger Murray](http://runescape.wikia.com/wiki/Mugger_v._Roger_Murray)\n• [River troll v. The People](http://runescape.wikia.com/wiki/River_troll_v._The_People)\n• [Drunken Dwarf v. The People](http://runescape.wikia.com/wiki/Drunken_Dwarf_v._The_People)\n• [Evil Twin v. Good Twin](http://runescape.wikia.com/wiki/Evil_Twin_v._Good_Twin)\n• [Rick Turpentine v. The (Rich) People](http://runescape.wikia.com/wiki/Rick_Turpentine_v._The_(Rich%29_People)\n• [The Mime v. The People](http://runescape.wikia.com/wiki/The_Mime_v._The_People)\n• [The Frog Prince v. The People](http://runescape.wikia.com/wiki/The_Frog_Prince_v._The_People)\n• [The Gravedigger v. The People](http://runescape.wikia.com/wiki/The_Gravedigger_v._The_People)\n• [EVIL DAVE v. The People](http://runescape.wikia.com/wiki/EVIL_DAVE_v._The_People)\n• [The Sandwich Lady v. The People](http://runescape.wikia.com/wiki/The_Sandwich_Lady_v._The_People)\n• [Party Pete v. His Neighbours](http://runescape.wikia.com/wiki/Party_Pete_v._His_Neighbours)\n• [Miss Schism v. Draynor Village](http://runescape.wikia.com/wiki/Miss_Schism_v._Draynor_Village)\n• [Sawmill Man v. The People](http://runescape.wikia.com/wiki/Sawmill_Man_v._The_People)\n• [Ernest v. Professor Oddenstein](http://runescape.wikia.com/wiki/Ernest_v._Professor_Oddenstein)\n• [H.A.M. v. Dorgeshuun](http://runescape.wikia.com/wiki/H.A.M._v._Dorgeshuun)\n• [Barbarians v. Wizards](http://runescape.wikia.com/wiki/Barbarians_v._Wizards)",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -357,7 +357,7 @@ exports.data = {
                 "name": "Cape Info",
                 "icon_url": "https://i.imgur.com/6c6q2iC.png"
             },
-            "description": "[Arc - All Your Energies](http://runescape.wikia.com/wiki/Arc_-_All_Your_Energies) is an achievement that requires the player to unlock the [energy-gathering scrimshaw](https://runescape.wikia.com/wiki/Energy-gathering_scrimshaw) from the [Waiko Reward Shop](https://runescape.wikia.com/wiki/Waiko_Reward_Shop) for 5,000 [chimes](https://runescape.wikia.com/wiki/Chimes) and 5 [taijitu](https://runescape.wikia.com/wiki/Taijitu).",
+            "description": "[Arc - All Your Energies](http://runescape.wikia.com/wiki/Arc_-_All_Your_Energies) is an achievement that requires the player to unlock the [Energy-gathering scrimshaw](https://runescape.wikia.com/wiki/Energy-gathering_scrimshaw) from the [Waiko Reward Shop](https://runescape.wikia.com/wiki/Waiko_Reward_Shop) for 5,000 [Chimes](https://runescape.wikia.com/wiki/Chimes) and 5 [Taijitu](https://runescape.wikia.com/wiki/Taijitu).",
             "thumbnail": {
                 "url": "https://i.imgur.com/Shmagnp.png"
             },
@@ -429,7 +429,7 @@ exports.data = {
                 "name": "Cape Info",
                 "icon_url": "https://i.imgur.com/6c6q2iC.png"
             },
-            "description": "[Arc - Don't Crush my Memories](https://runescape.wikia.com/wiki/Arc_-_Don%27t_Crush_my_Memories) is an achievement that requires the player to unlock the [memory-crushing scrimshaw](https://runescape.wikia.com/wiki/Memory-crushing_scrimshaw) from the [Waiko Reward Shop](https://runescape.wikia.com/wiki/Waiko_Reward_Shop) for 5,000 [chimes](https://runescape.wikia.com/wiki/Chimes) and 5 [taijitu](https://runescape.wikia.com/wiki/Taijitu).",
+            "description": "[Arc - Don't Crush my Memories](https://runescape.wikia.com/wiki/Arc_-_Don%27t_Crush_my_Memories) is an achievement that requires the player to unlock the [Memory-crushing scrimshaw](https://runescape.wikia.com/wiki/Memory-crushing_scrimshaw) from the [Waiko Reward Shop](https://runescape.wikia.com/wiki/Waiko_Reward_Shop) for 5,000 [Chimes](https://runescape.wikia.com/wiki/Chimes) and 5 [Taijitu](https://runescape.wikia.com/wiki/Taijitu).",
             "thumbnail": {
                 "url": "https://i.imgur.com/Shmagnp.png"
             },
@@ -453,7 +453,7 @@ exports.data = {
                 "name": "Cape Info",
                 "icon_url": "https://i.imgur.com/6c6q2iC.png"
             },
-            "description": "[Arc - Mitts and Waders - Death Lotus](https://runescape.wikia.com/wiki/Arc_-_Mitts_and_Waders_-_Death_Lotus) is an achievement that requires the player to buy the [Superior Death Lotus Tekoh](https://runescape.wikia.com/wiki/Superior_Death_Lotus_tekoh) and [Superior Death Lotus Tabi](https://runescape.wikia.com/wiki/Superior_Death_Lotus_tabi) scrolls from the [Waiko Reward Shop](https://runescape.wikia.com/wiki/Waiko_Reward_Shop), both costing 2,500 [chimes](https://runescape.wikia.com/wiki/Chimes) and 3 [taijitu](https://runescape.wikia.com/wiki/Taijitu).",
+            "description": "[Arc - Mitts and Waders - Death Lotus](https://runescape.wikia.com/wiki/Arc_-_Mitts_and_Waders_-_Death_Lotus) is an achievement that requires the player to buy the [Superior Death Lotus Tekoh](https://runescape.wikia.com/wiki/Superior_Death_Lotus_tekoh) and [Superior Death Lotus Tabi](https://runescape.wikia.com/wiki/Superior_Death_Lotus_tabi) scrolls from the [Waiko Reward Shop](https://runescape.wikia.com/wiki/Waiko_Reward_Shop), both costing 2,500 [Chimes](https://runescape.wikia.com/wiki/Chimes) and 3 [Taijitu](https://runescape.wikia.com/wiki/Taijitu).",
             "thumbnail": {
                 "url": "https://i.imgur.com/Shmagnp.png"
             },
@@ -477,7 +477,7 @@ exports.data = {
                 "name": "Cape Info",
                 "icon_url": "https://i.imgur.com/6c6q2iC.png"
             },
-            "description": "[Arc - Mitts and Waders - Seasinger](http://runescape.wikia.com/wiki/Arc_-_Mitts_and_Waders_-_Seasinger) is an achievement that requires the player to buy the [Superior Seasinger Asari](https://runescape.wikia.com/wiki/Superior_seasinger_asari) and [Superior Seasinger Aonori](https://runescape.wikia.com/wiki/Superior_seasinger_aonori) scrolls from the [Waiko Reward Shop](https://runescape.wikia.com/wiki/Waiko_Reward_Shop), both costing 2,500 [chimes](https://runescape.wikia.com/wiki/Chimes) and 3 [taijitu](https://runescape.wikia.com/wiki/Taijitu).",
+            "description": "[Arc - Mitts and Waders - Seasinger](http://runescape.wikia.com/wiki/Arc_-_Mitts_and_Waders_-_Seasinger) is an achievement that requires the player to buy the [Superior Seasinger Asari](https://runescape.wikia.com/wiki/Superior_seasinger_asari) and [Superior Seasinger Aonori](https://runescape.wikia.com/wiki/Superior_seasinger_aonori) scrolls from the [Waiko Reward Shop](https://runescape.wikia.com/wiki/Waiko_Reward_Shop), both costing 2,500 [Chimes](https://runescape.wikia.com/wiki/Chimes) and 3 [Taijitu](https://runescape.wikia.com/wiki/Taijitu)..",
             "thumbnail": {
                 "url": "https://i.imgur.com/Shmagnp.png"
             },
@@ -501,7 +501,7 @@ exports.data = {
                 "name": "Cape Info",
                 "icon_url": "https://i.imgur.com/6c6q2iC.png"
             },
-            "description": "[Arc - Mitts and Waders - Tetsu](http://runescape.wikia.com/wiki/Arc_-_Mitts_and_Waders_-_Tetsu) is an achievement that requires the player to buy the [Superior Tetsu Kogake](https://runescape.wikia.com/wiki/Superior_tetsu_kogake) and [Superior Tetsu Kote](https://runescape.wikia.com/wiki/Superior_tetsu_kote) scrolls from the [Waiko Reward Shop](https://runescape.wikia.com/wiki/Waiko_Reward_Shop), both costing 2,500 [chimes](https://runescape.wikia.com/wiki/Chimes) and 3 [taijitu](https://runescape.wikia.com/wiki/Taijitu).",
+            "description": "[Arc - Mitts and Waders - Tetsu](http://runescape.wikia.com/wiki/Arc_-_Mitts_and_Waders_-_Tetsu) is an achievement that requires the player to buy the [Superior Tetsu Kogake](https://runescape.wikia.com/wiki/Superior_tetsu_kogake) and [Superior Tetsu Kote](https://runescape.wikia.com/wiki/Superior_tetsu_kote) scrolls from the [Waiko Reward Shop](https://runescape.wikia.com/wiki/Waiko_Reward_Shop), both costing 2,500 [Chimes](https://runescape.wikia.com/wiki/Chimes) and 3 [Taijitu](https://runescape.wikia.com/wiki/Taijitu).",
             "thumbnail": {
                 "url": "https://i.imgur.com/Shmagnp.png"
             },
@@ -1145,11 +1145,21 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Behemoth Notes](http://runescape.wikia.com/wiki/Behemoth_Notes_(achievement%29) is a meta-achievement that requires the player to collect all five [Behemoth notes](http://runescape.wikia.com/wiki/Dungeoneering) within [Daemonheim](http://runescape.wikia.com/wiki/Daemonheim).\n\nThe Behemoth Notes are a series of journals that players can find while Dungeoneering in Daemonheim. Players can view these by talking to the [Dungeoneering tutor](http://runescape.wikia.com/wiki/Dungeoneering_tutor).\n\n• Part 1: dropped by the [Gluttonous behemoth](http://runescape.wikia.com/wiki/Gluttonous_behemoth) found on [Frozen](http://runescape.wikia.com/wiki/Dungeoneering_floors#Frozen_floors) floors (1-11).\n• Part 2: dropped by the [Bulwark beast](http://runescape.wikia.com/wiki/Bulwark_beast) found on [Abandoned](http://runescape.wikia.com/wiki/Dungeoneering_floors#Abandoned_floors) and [Abandoned 2](http://runescape.wikia.com/wiki/Dungeoneering_floors#Abandoned_2_floors) floors (12-17, 30-35).\n• Part 3: dropped by [Stomp](http://runescape.wikia.com/wiki/Stomp_(monster%29) found on [Furnished](http://runescape.wikia.com/wiki/Dungeoneering_floors#Furnished_floors) floors (18-29).\n• Part 4: dropped by the [Runebound behemoth](http://runescape.wikia.com/wiki/Runebound_behemoth) found on [Occult](http://runescape.wikia.com/wiki/Dungeoneering_floors#Occult_floors_.28m.29) floors (36-47).\n• Part 5: dropped by the [Hope devourer](http://runescape.wikia.com/wiki/Hope_devourer) found on the [Warped](http://runescape.wikia.com/wiki/Dungeoneering_floors#Warped_floors_.28m.29) floors (51-60).",
+			"description": "[Behemoth Notes](http://runescape.wikia.com/wiki/Behemoth_Notes_(achievement%29) is a meta-achievement that requires the player to collect all five [Behemoth notes](http://runescape.wikia.com/wiki/Behemoth_notes) within [Daemonheim](http://runescape.wikia.com/wiki/Daemonheim).\n\nThe Behemoth Notes are a series of journals that players can find while Dungeoneering in Daemonheim. Players can view these by talking to the [Dungeoneering tutor](http://runescape.wikia.com/wiki/Dungeoneering_tutor).",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
 			"fields": [
+				{
+					"name": "Notes",
+					"value": "Part 1\nPart 2\nPart 3\nPart 4\nPart 5",
+					"inline": true
+				},
+				{
+					"name": "Obtained from",
+					"value": "[Gluttonous behemoth](http://runescape.wikia.com/wiki/Gluttonous_behemoth) (floors 1-11).\n[Bulwark beast](http://runescape.wikia.com/wiki/Bulwark_beast) (floors 12-17 and 30-35).\n[Stomp](http://runescape.wikia.com/wiki/Stomp_(monster%29) (floors 18-29).\n[Runebound behemoth](http://runescape.wikia.com/wiki/Runebound_behemoth) (floors 36-47).\n[Hope devourer](http://runescape.wikia.com/wiki/Hope_devourer) (floors 51-60).",
+					"inline": true
+				},
 				{
 					"name": "Requirements:",
 					"value": "• 101 Dungeoneering"
@@ -1321,7 +1331,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Brutal Stuffies](http://runescape.wikia.com/wiki/Brutal_Stuffies) is an achievement that requires the player to open Uglug's Stuffsies by giving Uglug Nar a relicym's balm.\n\nUglug Nar is an ogre shaman who wanders around outside Jiggig. Jiggig is a former ogre ritual site, located south of Castle Wars. Relicym's balm is made by mixing a Rogue's purse potion (unf) and a clean snake weed. It requires level 8 Herblore and completion of the Zogre Flesh Eaters quest to the point where Sithik Ints tells the player how to cure the zogre disease.",
+			"description": "[Brutal Stuffies](http://runescape.wikia.com/wiki/Brutal_Stuffies) is an achievement that requires the player to open [Uglug's Stuffsies](http://runescape.wikia.com/wiki/Uglug%27s_Stuffsies) by giving [Uglug Nar](http://runescape.wikia.com/wiki/Uglug_Nar) a [Relicym's balm](http://runescape.wikia.com/wiki/Relicym%27s_balm).\n\nUglug Nar is an ogre shaman who wanders around outside [Jiggig](http://runescape.wikia.com/wiki/Jiggig).\n\nJiggig is a former [Ogre](http://runescape.wikia.com/wiki/Ogre_(race%29) ritual site, located south of [Castle Wars](http://runescape.wikia.com/wiki/Castle_Wars).\n\nRelicym's balm is made by mixing a [Rogue's purse potion (unf)](http://runescape.wikia.com/wiki/Rogue%27s_purse_potion_(unf%29) and a [Clean snake weed](http://runescape.wikia.com/wiki/Clean_snake_weed). It requires level 8 [Herblore](http://runescape.wikia.com/wiki/Herblore) and completion of the [Zogre Flesh Eaters](http://runescape.wikia.com/wiki/Zogre_Flesh_Eaters) quest to the point where [Sithik Ints](http://runescape.wikia.com/wiki/Sithik_Ints) tells the player how to cure the zogre disease.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -1345,7 +1355,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Buy and Sell Some XP](http://runescape.wikia.com/wiki/Buy_and_Sell_Some_XP) is an achievement that requires the player to pickpocket the training dummy again after asking Darren Lightfinger to do so, earning a total of 2,000 experience. (Guildmaster) Darren Lightfinger is the founder and man in charge of the Thieves' Guild, found in the cellar underneath a house just north of the furnace in Lumbridge.\n\nThe player will need to pickpocket the training dummy several times before the experience will be rewarded. After each pickpocket, there will be additional dialogue the player needs to click through or the player won't progress.",
+			"description": "[Buy and Sell Some XP](http://runescape.wikia.com/wiki/Buy_and_Sell_Some_XP) is an achievement that requires the player to pickpocket the training dummy again after asking [Darren Lightfinger](http://runescape.wikia.com/wiki/Darren_Lightfinger) to do so, earning a total of 2,000 experience.\n\nThe player will need to pickpocket the training dummy, agree to teach Darren some tips, then pickpocket it several times before the experience will be rewarded. After each pickpocket, there will be additional dialogue the player needs to click through or the player won't progress. \n\n(Guildmaster) Darren Lightfinger is the founder and man in charge of the [Thieves' Guild](http://runescape.wikia.com/wiki/Thieves%27_Guild), found in the cellar underneath a house just north of the furnace in [Lumbridge](http://runescape.wikia.com/wiki/Lumbridge).",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -1369,7 +1379,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Buying Up Ancient Artefacts](http://runescape.wikia.com/wiki/Buying_Up_Ancient_Artefacts) is an achievement that requires the player to buy an ancient staff from Eblis after completion of the Desert Treasure quest.\n\nEblis is a Zarosian mystic from the Desert Bandit Camp.",
+			"description": "[Buying Up Ancient Artefacts](http://runescape.wikia.com/wiki/Buying_Up_Ancient_Artefacts) is an achievement that requires the player to buy an [Ancient staff](http://runescape.wikia.com/wiki/Ancient_staff) from [Eblis](http://runescape.wikia.com/wiki/Eblis) after completion of the [Desert Treasure](http://runescape.wikia.com/wiki/Desert_Treasure) quest.\n\nEblis is a [Zarosian](http://runescape.wikia.com/wiki/Zaros) mystic from the [Desert Bandit Camp](http://runescape.wikia.com/wiki/Bandit_Camp_(Kharidian_Desert%29) who seeks to free the [Mahjarrat](http://runescape.wikia.com/wiki/Mahjarrat) [Azzanadra](http://runescape.wikia.com/wiki/Azzanadra) from his prison in the [Jaldraocht Pyramid](http://runescape.wikia.com/wiki/Jaldraocht_Pyramid).",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -1393,7 +1403,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Caving Into the Gains](http://runescape.wikia.com/wiki/Caving_Into_the_Gains) is an achievement that requires the player to claim the experience from the cave paintings during or after the Myths of the White Lands quest and claim 5,000 coins from Explorer Jack in the Land of Snow after the quest.\n\nHead over to the Wizards' Tower west of Lumbridge (Fairy Ring code **D-I-S**) and talk to Isidor. He can be found by ascending the beam onto the 1st floor then going west. Speak to him and he will teleport the player to the Land of Snow. Players are not allowed to teleport with their own snow imp.",
+			"description": "[Caving Into the Gains](http://runescape.wikia.com/wiki/Caving_Into_the_Gains) is an achievement that requires the player to claim the experience from the cave paintings during or after the [Myths of the White Lands](http://runescape.wikia.com/wiki/Myths_of_the_White_Lands) quest and claim 5,000 coins from [Explorer Jack](http://runescape.wikia.com/wiki/Explorer_Jack) in the [Land of Snow](http://runescape.wikia.com/wiki/Land_of_Snow) after the quest.\n\nTo return to the Land of Snow, talk to [Isidor](http://runescape.wikia.com/wiki/Wizard_Isidor) at the [Wizards' Tower](http://runescape.wikia.com/wiki/Wizards%27_Tower) west of [Lumbridge](http://runescape.wikia.com/wiki/Lumbridge) ([Fairy Ring](http://runescape.wikia.com/wiki/Fairy_ring) code **D-I-S**). He can be found by ascending the beam onto the 1st floor then going west. Speak to him and he will teleport the player to the Land of Snow. Players are not allowed to teleport with their own snow imp.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -1417,7 +1427,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Cecilia, I'm Begging You, Please...](http://runescape.wikia.com/wiki/Cecilia,_I%27m_Begging_You,_Please...) is an achievement that requires the player to tell Sister Cecilia whether to leave or stay after the One Piercing Note quest.\n\nSister Cecilia is a nun of the Abbey of St. Elspeth Citharede, acting as the choirmistress. The Abbey of St. Elspeth Citharede is a large abbey in the desert where the followers of Saint Elspeth live. It is located east of Al Kharid, past the desert strykewyrms. It is the location where St. Elspeth's remains were found.",
+			"description": "[Cecilia, I'm Begging You, Please...](http://runescape.wikia.com/wiki/Cecilia,_I%27m_Begging_You,_Please...) is an achievement that requires the player to tell [Sister Cecilia](http://runescape.wikia.com/wiki/Sister_Cecilia) whether to leave or stay after the [One Piercing Note]() quest.\n\nSister Cecilia is a nun of the [Abbey of St. Elspeth Citharede](), acting as the choirmistress.\n\nThe Abbey of St. Elspeth Citharede is a large abbey in the desert where the followers of [Saint Elspeth](http://runescape.wikia.com/wiki/Saint_Elspeth) live. It is located east of [Al Kharid](http://runescape.wikia.com/wiki/Al_Kharid), past the [Desert strykewyrms](http://runescape.wikia.com/wiki/Desert_strykewyrm). It is the location where St. Elspeth's remains were found.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -1441,7 +1451,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Challenge Maria](http://runescape.wikia.com/wiki/Challenge_Maria) is an achievement that requires the player to collect all nine replay bonus lamps and complete all three challenges in the haunted house after Broken Home.\n\nIt is highly recommended to use a dual monitor or split screen setup while following along with the guide.",
+			"description": "[Challenge Maria](http://runescape.wikia.com/wiki/Challenge_Maria) is an achievement that requires the player to collect all nine [Replay bonus lamps]() and complete all three [challenges]() in the haunted house after [Broken Home]().\n\nIt is highly recommended to use a split screen or dual monitor setup while following along with the guide.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -1469,7 +1479,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Challenging Chat](http://runescape.wikia.com/wiki/Challenge_Maria) is an achievement that requires the player to listen to Vorago's introduction by talking to him inside of the Borehole lobby.\n\nThe Borehole is a cave located north of Falador. It is where Vorago can be fought. After jumping across the three floating rock gaps and running a short distance, a waterfall can be seen along with Vorago.",
+			"description": "[Challenging Chat](http://runescape.wikia.com/wiki/Challenge_Maria) is an achievement that requires the player to listen to [Vorago](http://runescape.wikia.com/wiki/Vorago)'s introduction by talking to him inside of the [Borehole](http://runescape.wikia.com/wiki/Borehole) lobby.\n\nThe Borehole is a cave located north of [Falador](http://runescape.wikia.com/wiki/Falador). It is where Vorago can be fought. After jumping across the three floating rock gaps and running a short distance, a waterfall can be seen along with Vorago.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -1493,7 +1503,7 @@ exports.data = {
                 "name": "Cape Info",
                 "icon_url": "https://i.imgur.com/6c6q2iC.png"
             },
-            "description": "[Champions, What Champions?](https://runescape.wikia.com/wiki/Champions,_What_Champions%3F) is an achievement that requires the player to defeat all 15 [champions](https://runescape.wikia.com/wiki/Champions%27_Challenge) after finding their respective [scroll](https://runescape.wikia.com/wiki/Champion%27s_scroll).",
+            "description": "[Champions, What Champions?](https://runescape.wikia.com/wiki/Champions,_What_Champions%3F) is an achievement that requires the player to defeat all 15 [Champions](https://runescape.wikia.com/wiki/Champions%27_Challenge) after finding their respective [Scroll](https://runescape.wikia.com/wiki/Champion%27s_scroll).",
             "thumbnail": {
                 "url": "https://i.imgur.com/Shmagnp.png"
             },
@@ -1504,7 +1514,7 @@ exports.data = {
                 },
                 {
                     "name": "Guide:",
-                    "value": "[Trimmed Completionist Guides - Champion Scrolls! | Teh Proez - YouTube](https://www.youtube.com/watch?v=m_0486aC1gA)\n\n\t• Some of these methods are semi outdated due to the release of the personally owned dungeons (PODS) for slayer.\n\t• Check this spreadsheet supplied by Slayer Dungs FC for [Player Owned Dungeons locations](https://docs.google.com/spreadsheets/d/1NibABxK2xciVmIeuZ2gGEBZPe9NIoi7skprEiEuGBc0/edit#gid=516613908)\n\t• You can use the 99 or 120 [Dungeoneering capes]( https://runescape.wikia.com/wiki/Dungeoneering_cape) instead of [hoardstalker ring]( https://runescape.wikia.com/wiki/Hoardstalker_ring) as their effect works the same."
+                    "value": "[Trimmed Completionist Guides - Champion Scrolls! | Teh Proez - YouTube](https://www.youtube.com/watch?v=m_0486aC1gA)\n\n\t• Some of these methods are semi outdated due to the release of the Player-owned dungeons (PODs) for slayer.\n\t• Check this spreadsheet supplied by Slayer Dungs FC for [Player Owned Dungeons locations](https://docs.google.com/spreadsheets/d/1NibABxK2xciVmIeuZ2gGEBZPe9NIoi7skprEiEuGBc0/edit#gid=516613908)\n\t• You can use the 99 or 120 [Dungeoneering capes]( https://runescape.wikia.com/wiki/Dungeoneering_cape) instead of a [Hoardstalker ring]( https://runescape.wikia.com/wiki/Hoardstalker_ring) as their effect works the same."
                 }
             ],
             "footer": {
@@ -1521,7 +1531,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Chilling with Arrav](http://runescape.wikia.com/wiki/Chilling_with_Arrav) is an achievement that requires the player to put Arrav to rest after the Ritual of the Mahjarrat quest. He can be located at the burial site, west of the tunnel, slightly north east of the Ritual marker.\n\nThe Ritual marker is an ancient stone located at the Mahjarrat Ritual Site (also known as The North). The Mahjarrat Ritual Site is an icy region located between the Trollweiss Mountains and Wilderness.",
+			"description": "[Chilling with Arrav](http://runescape.wikia.com/wiki/Chilling_with_Arrav) is an achievement that requires the player to put [Arrav](http://runescape.wikia.com/wiki/Arrav) to rest after the [Ritual of the Mahjarrat](http://runescape.wikia.com/wiki/Ritual_of_the_Mahjarrat) quest. He can be located at the burial site, directly north of the tunnel, slightly north east of the [Ritual marker](http://runescape.wikia.com/wiki/Ritual_marker).\n\nThe Ritual marker is an ancient stone located at the [Mahjarrat Ritual Site](http://runescape.wikia.com/wiki/Mahjarrat_Ritual_Site) (also known as The North).\n\nThe Mahjarrat Ritual Site is an icy region located between the [Trollweiss Mountains](http://runescape.wikia.com/wiki/Trollweiss_Mountain) and [Wilderness](http://runescape.wikia.com/wiki/Trollweiss_Mountain).",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -1545,7 +1555,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Chippy Transport](http://runescape.wikia.com/wiki/Chippy_Transport) is an achievement that requires the player to unlock the ability to make Trollheim tablets by giving the miner's diary, obtained from Runvastr, to the Wise Old Man in Draynor Village after completion of Love Story.\n\nRunvastr is a poor dwarf that lives on Keldagrim's east side in the house directly south of the pickaxe shop.",
+			"description": "[Chippy Transport](http://runescape.wikia.com/wiki/Chippy_Transport) is an achievement that requires the player to unlock the ability to make [Trollheim tablets](http://runescape.wikia.com/wiki/Trollheim_tablet) by giving the [Miner's diary](http://runescape.wikia.com/wiki/Miner%27s_diary), obtained from [Runvastr](http://runescape.wikia.com/wiki/Runvastr), to the [Wise Old Man](http://runescape.wikia.com/wiki/Wise_Old_Man) in [Draynor Village](http://runescape.wikia.com/wiki/Draynor_Village) after completion of [Love Story](http://runescape.wikia.com/wiki/Love_Story).\n\nRunvastr is a poor [Dwarf](http://runescape.wikia.com/wiki/Dwarves) that lives on [Keldagrim](http://runescape.wikia.com/wiki/Keldagrim)'s east side in the house directly south of the pickaxe shop.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -1569,7 +1579,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Chivalry is Dead](http://runescape.wikia.com/wiki/Chivalry_is_Dead) is an achievement that requires the player to open all of the coffins and the supply crate in the Tomb of the Fallen, as well as kick the gilded cabbage thirty times, after completion of The Death of Chivalry.\n\nThe Tomb of the Fallen is a crypt explored by the player and Sir Owen during The Death of Chivalry. It can be accessed through the portal on the roof of the Black Knights' Fortress, accessed via Dulcin's office. \n\nThe gilded cabbage is an extra item obtained after The Death of Chivalry quest. After the quest is completed, it can be looted from one of the coffins in the room where you fight Dawn, the final boss of the quest.",
+			"description": "[Chivalry is Dead](http://runescape.wikia.com/wiki/Chivalry_is_Dead) is an achievement that requires the player to open all of the coffins and the supply crate in the [Tomb of the Fallen](http://runescape.wikia.com/wiki/Tomb_of_the_Fallen), as well as kick the [Gilded cabbage](http://runescape.wikia.com/wiki/Gilded_cabbage) thirty times, after completion of [The Death of Chivalry](http://runescape.wikia.com/wiki/The_Death_of_Chivalry).\n\nThe Tomb of the Fallen is a crypt explored by the player and [Sir Owen](http://runescape.wikia.com/wiki/Sir_Owen) during The Death of Chivalry. It can be accessed through the portal on the roof of the [Black Knights' Fortress](http://runescape.wikia.com/wiki/Black_Knights%27_Fortress), accessed via [Dulcin](http://runescape.wikia.com/wiki/Dulcin)'s office. \n\nThe gilded cabbage is an extra item obtained after The Death of Chivalry quest. After the quest is completed, it can be looted from one of the coffins in the room where you fight [Dawn](http://runescape.wikia.com/wiki/Dawn), the final boss of the quest.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -1577,30 +1587,6 @@ exports.data = {
 				{
 					"name": "Requirements:",
 					"value": "• 80 Strength\n• 65 Prayer\n\n• The Death of Chivalry Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Death_of_Chivalry)"
-				}
-			],
-			"footer": {
-				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-				"text": "Runescore awarded: 10"
-			}
-		}
-	},
-	"chivalry is threads": {
-		"cmds": ["mqc"],
-		"embed": {
-			"title": "Chivalry Is Threads",
-			"author": {
-				"name": "Cape Info",
-				"icon_url": "https://i.imgur.com/6c6q2iC.png"
-			},
-			"description": "[Chivalry Is Threads](http://runescape.wikia.com/wiki/Chivalry_Is_Threads) is an achievement that requires the player to claim the Templar armour from one of the coffins in the Tomb of the Fallen and the Dulcin armour from defeating Dawn after The Death of Chivalry.\n\nThe Tomb of the Fallen is a crypt explored by the player and Sir Owen during The Death of Chivalry. It can be accessed through the portal on the roof of the Black Knights' Fortress, accessed via Dulcin's office.",
-			"thumbnail": {
-				"url": "https://i.imgur.com/Shmagnp.png"
-			},
-			"fields": [
-				{
-					"name": "Requirements:",
-					"value": "• The Death of Chivalry Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Death_of_Chivalry)"
 				}
 			],
 			"footer": {
@@ -1617,7 +1603,31 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Chivalry Is Fed](http://runescape.wikia.com/wiki/Chivalry_Is_Fed) is an achievement that requires the player to restore the cabbage patch at the north side of Edgeville Monastery after The Death of Chivalry quest. In order to do this, 12 cabbage seeds need to be in the player's inventory and used on the scorch marks in the patch. This will cause a short cutscene to play where the patch is restored and the achievement is completed.",
+			"description": "[Chivalry Is Fed](http://runescape.wikia.com/wiki/Chivalry_Is_Fed) is an achievement that requires the player to restore the cabbage patch at the north side of [Edgeville Monastery](http://runescape.wikia.com/wiki/Edgeville_Monastery) after [The Death of Chivalry](http://runescape.wikia.com/wiki/The_Death_of_Chivalry) quest. In order to do this, 12 [Cabbage seeds](http://runescape.wikia.com/wiki/Cabbage_seeds) need to be in the player's inventory and used on the scorch marks in the patch. This will cause a short cutscene to play where the patch is restored and the achievement is completed.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• The Death of Chivalry Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Death_of_Chivalry)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 10"
+			}
+		}
+	},
+	"chivalry is threads": {
+		"cmds": ["mqc"],
+		"embed": {
+			"title": "Chivalry Is Threads",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Chivalry Is Threads](http://runescape.wikia.com/wiki/Chivalry_Is_Threads) is an achievement that requires the player to claim the [Templar armour](http://runescape.wikia.com/wiki/Templar_armour) from one of the coffins in the [Tomb of the Fallen](http://runescape.wikia.com/wiki/Tomb_of_the_Fallen) and the [Dulcin armour](http://runescape.wikia.com/wiki/Dulcin_armour) from defeating [Dawn](http://runescape.wikia.com/wiki/Dawn) after [The Death of Chivalry](http://runescape.wikia.com/wiki/The_Death_of_Chivalry).\n\nThe Tomb of the Fallen is a crypt explored by the player and [Sir Owen](http://runescape.wikia.com/wiki/Sir_Owen) during The Death of Chivalry. It can be accessed through the portal on the roof of the [Black Knights' Fortress](http://runescape.wikia.com/wiki/Black_Knights%27_Fortress), accessed via [Dulcin](http://runescape.wikia.com/wiki/Dulcin)'s office.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -1641,7 +1651,7 @@ exports.data = {
                 "name": "Cape Info",
                 "icon_url": "https://i.imgur.com/6c6q2iC.png"
             },
-            "description": "[Chompy Massacre](http://runescape.wikia.com/wiki/Chompy_Massacre) requires the player to kill 4,000 [chompy birds](https://runescape.wikia.com/wiki/Chompy_bird). They can only be attacked with the [ogre composite bow](https://runescape.wikia.com/wiki/Comp_ogre_bow) or [ogre bow](https://runescape.wikia.com/wiki/Ogre_bow), and [bloated toads](https://runescape.wikia.com/wiki/Bloated_toad) must be used as bait to catch them. Use a [ogre bellows](https://runescape.wikia.com/wiki/Ogre_bellows) which has been loaded with swamp gas on a [swamp toad](https://runescape.wikia.com/wiki/Swamp_toad_(creature) to get a bloated toad which is placed in the inventory. Player's with 70 Invention have the option to utilize an [Oldak coil](https://runescape.wikia.com/wiki/Oldak_coil) to help speed up their kills per hour. This method still requires an orge composite bow or bow be equipped.",
+            "description": "[Chompy Massacre](http://runescape.wikia.com/wiki/Chompy_Massacre) requires the player to kill 4,000 [Chompy birds](https://runescape.wikia.com/wiki/Chompy_bird). They can only be attacked with the [Ogre composite bow](https://runescape.wikia.com/wiki/Comp_ogre_bow) or [Ogre bow](https://runescape.wikia.com/wiki/Ogre_bow), and [Bloated toads](https://runescape.wikia.com/wiki/Bloated_toad) must be used as bait to catch them. Use a [Ogre bellows](https://runescape.wikia.com/wiki/Ogre_bellows) which has been loaded with swamp gas on a [Swamp toad](https://runescape.wikia.com/wiki/Swamp_toad_(creature) to get a bloated toad which is placed in the inventory. Player's with 70 Invention have the option to utilize an [Oldak coil](https://runescape.wikia.com/wiki/Oldak_coil) to help speed up their kills per hour. This method still requires an orge composite bow or bow be equipped.",
             "thumbnail": {
                 "url": "https://i.imgur.com/Shmagnp.png"
             },
@@ -1669,7 +1679,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Circus of Fire](http://runescape.wikia.com/wiki/Circus_of_Fire) is an achievement that requires the player to obtain the firemaker's costume from playing the Firemaking area in the Balthazar Beauregard's Big Top Bonanza Distraction and Diversion after completion of The Firemaker's Curse.\n\nThe Firemaker's costume is a costume obtained from the Balthazar Beauregard's Big Top Bonanza Distraction and Diversion. It is rewarded to players who earn between 501 and 1,000 points in any of the circus performances after receiving all of the Acrobat costume and completing The Firemaker's Curse. Upon completion of the set, it becomes available as a cosmetic override in the Customisation interface.",
+			"description": "[Circus of Fire](http://runescape.wikia.com/wiki/Circus_of_Fire) is an achievement that requires the player to obtain the [Firemaker's costume](http://runescape.wikia.com/wiki/Firemaker%27s_costume) from playing the [Firemaking](http://runescape.wikia.com/wiki/Firemaking) area in the [Balthazar Beauregard's Big Top Bonanza](http://runescape.wikia.com/wiki/Balthazar_Beauregard%27s_Big_Top_Bonanza) [Distraction and Diversion](http://runescape.wikia.com/wiki/Distraction_and_Diversion) after completion of [The Firemaker's Curse](http://runescape.wikia.com/wiki/The_Firemaker%27s_Curse).\n\nThe Firemaker's costume is a costume obtained from the Balthazar Beauregard's Big Top Bonanza Distraction and Diversion. It is rewarded to players who earn between 501 and 1,000 points in any of the circus performances after receiving all of the [Acrobat costume](http://runescape.wikia.com/wiki/Acrobat_costume) and completing The Firemaker's Curse. Upon completion of the set, it becomes available as a cosmetic override in the [Customisation](http://runescape.wikia.com/wiki/Customisation) interface.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -1693,7 +1703,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Claiming Azzanadra's Heart](http://runescape.wikia.com/wiki/Claiming_Azzanadra%27s_Heart) is an achievement that requires the player to speak to Azzanadra after completion of Heart of Stone in order to claim a medium experience lamp. Azzanadra is located in the the temple beneath the Digsite east of Varrock.\n\nTo receive the lamp, tell him what you discovered about the Elder Gods, and continue the dialogue.",
+			"description": "[Claiming Azzanadra's Heart](http://runescape.wikia.com/wiki/Claiming_Azzanadra%27s_Heart) is an achievement that requires the player to speak to [Azzanadra](http://runescape.wikia.com/wiki/Azzanadra) after completion of [Heart of Stone](http://runescape.wikia.com/wiki/Heart_of_Stone) in order to claim a [Medium experience lamp](http://runescape.wikia.com/wiki/Medium_experience_lamp).\n\nTo receive the lamp, tell him what you discovered about the Elder Gods, and continue the dialogue.\n\n Azzanadra is located in the the [Temple](http://runescape.wikia.com/wiki/Temple_at_Senntisten) beneath the [Digsite](http://runescape.wikia.com/wiki/Digsite) east of [Varrock](http://runescape.wikia.com/wiki/Varrock).",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -1717,7 +1727,7 @@ exports.data = {
                 "name": "Cape Info",
                 "icon_url": "https://i.imgur.com/6c6q2iC.png"
             },
-            "description": "[Claiming the Knight's Experience](http://runescape.wikia.com/wiki/Claiming_the_Knight%27s_Experience) is an achievement that requires the player to claim the Smithing XP lamp from Squire Asrol after completing the quest, The Knight's Sword. \n\nSquire Asrol is the squire of Sir Vyvin. He can be found in the courtyard of the White Knights' castle.",
+            "description": "[Claiming the Knight's Experience](http://runescape.wikia.com/wiki/Claiming_the_Knight%27s_Experience) is an achievement that requires the player to claim the [Smithing XP lamp](http://runescape.wikia.com/wiki/Smithing_XP_lamp_(The_Knight%27s_Sword)) from [Squire Asrol](http://runescape.wikia.com/wiki/Squire_Asrol) after completing the quest, [The Knight's Sword](http://runescape.wikia.com/wiki/The_Knight%27s_Sword). \n\nSquire Asrol is the squire of [Sir Vyvin](http://runescape.wikia.com/wiki/Sir_Vyvin). He can be found in the courtyard of the [White Knights' castle](http://runescape.wikia.com/wiki/White_Knights'_Castle).",
             "thumbnail": {
                 "url": "https://i.imgur.com/Shmagnp.png"
             },
@@ -1741,11 +1751,23 @@ exports.data = {
                 "name": "Cape Info",
                 "icon_url": "https://i.imgur.com/6c6q2iC.png"
             },
-            "description": "[Class Crown](https://runescape.wikia.com/wiki/Class_Crown) is an achievement that requires the player to gain tier 10 [reputation](https://runescape.wikia.com/wiki/Menaphos/Reputation) in the Imperial district of [Menaphos](https://runescape.wikia.com/wiki/Menaphos). You can use `soulobby` fc to find [Soul Obelisks](https://runescape.wikia.com/wiki/Soul_obelisk_(Menaphos) and [Corrupted Scarabs](https://runescape.wikia.com/wiki/Corrupted_scarab) easily. You can gain 20,000 reputatation per day from Soul Obelisks and a varied amount from Corrupted Scarabs daily. You will be able to finish this requirment within two weeks utilizing this method as a daily.",
+            "description": "[Class Crown](https://runescape.wikia.com/wiki/Class_Crown) is an achievement that requires the player to gain tier 10 [reputation](https://runescape.wikia.com/wiki/Menaphos/Reputation) in the [Imperial district](https://runescape.wikia.com/wiki/Imperial_district) of [Menaphos](https://runescape.wikia.com/wiki/Menaphos).\n\nPlayers must first choose to which faction they want to align themselves before reputation can be earned. Right-click on a faction icon within the faction windows to choose a faction. If no faction is selected, reputation is not gained and the following message is seen instead: `You have not currently selected a faction, so earned no reputation!`\n\nYou can use `soulobby` fc to find [Soul Obelisks](https://runescape.wikia.com/wiki/Soul_obelisk_(Menaphos) and [Corrupted Scarabs](https://runescape.wikia.com/wiki/Corrupted_scarab) easily. You can gain 20,000 reputatation per day from Soul Obelisks and a varied amount from Corrupted Scarabs daily. You will be able to finish this requirment within two weeks utilizing this method as a daily.\n\nReputation is a mechanic that is used within [Menaphos](https://runescape.wikia.com/wiki/Menaphos). All skilling activities within the walls of Menaphos earn reputation. In addition, skilling using any of the methods released along with Menaphos rewards a higher amount of reputation. ",
             "thumbnail": {
                 "url": "https://i.imgur.com/Shmagnp.png"
             },
             "fields": [
+                {
+                    "name": "Increased Reputation Methods:",
+                    "value": "Those activities which award reputation at an increased rate are chopping [acadia trees](https://runescape.wikia.com/wiki/Acadia_tree), mining [concentrated sandstone](https://runescape.wikia.com/wiki/Concentrated_sandstone_rocks), fishing for [desert sole](https://runescape.wikia.com/wiki/Raw_desert_sole), [catfish](https://runescape.wikia.com/wiki/Raw_catfish), and [beltfish](https://runescape.wikia.com/wiki/Raw_beltfish), thieving in the Menaphos market, catching [plover birds](https://runescape.wikia.com/wiki/Plover_bird) in [Sophanem](https://runescape.wikia.com/wiki/Sophanem), and fighting corrupted and devourer creatures in the [Sophanem Slayer Dungeon](https://runescape.wikia.com/wiki/Sophanem_Slayer_Dungeon). Furthermore, the highest rates of reputation are earned by playing the [Shifting Tombs](https://runescape.wikia.com/wiki/Shifting_Tombs) minigame."
+                },
+                {
+                    "name": "Repeatable Events for Reputation:",
+                    "value": "• Interacting with [soul obelisks](https://runescape.wikia.com/wiki/Soul_obelisk_(Menaphos) in Menaphos can reward players up to 20,000 base reputation per day in a very short duration\n• Interacting with [Corrupted Scarabs](https://runescape.wikia.com/wiki/Corrupted_Scarab_(Menaphos) in Menaphos can reward players reputation\n• Completing a [City Quest](https://runescape.wikia.com/wiki/City_Quest) grants 2,000 base reputation, as well as a random-sized [Menaphite gift offering](https://runescape.wikia.com/wiki/Menaphite_gift_offering)"
+                },
+                {
+                    "name": "Permanent Reputation Increase:",
+                    "value": "After completion of Menaphos related quests, all reputation gain is increased.\n\t• [The Jack of Spades](https://runescape.wikia.com/wiki/The_Jack_of_Spades) - 1.25\n\t• [Crocadile Tears](https://runescape.wikia.com/wiki/Crocodile_Tears) - x.15\n\t• [Our Man in the North](https://runescape.wikia.com/wiki/Our_Man_in_the_North) - x.175\n\t• ['Phite Club](https://runescape.wikia.com/wiki/%27Phite_Club) - x2.0"
+                },
                 {
                     "name": "Requirements:",
                     "value": "• The Jack of Spades Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Jack_of_Spades)"
@@ -1765,7 +1787,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Claus Is Rising](http://runescape.wikia.com/wiki/Claus_Is_Rising) is an achievement that requires the player to hand in a Cave Wolf Matriarch skull to Claus the chef after completion of Carnillean Rising.\n\nThe Cave Wolf Matriarch skull is obtained by killing the Cave Wolf Matriarch. The Cave Wolf Matriarch is a monster encountered during Carnillean Rising, in which Philipe Carnillean defeats it while the player distracts the wolf. After the completion of the quest, Claus the chef in the basement will assign you to kill the (now much stronger) wolf once more for her skull. You are then given limited access outside the cave again in which the juvenile wolves were in, and kill the Cave Wolf Matriarch and both of her cubs.",
+				"description": "[Claus Is Rising](http://runescape.wikia.com/wiki/Claus_Is_Rising) is an achievement that requires the player to hand in a [Cave Wolf Matriarch skull](http://runescape.wikia.com/wiki/Cave_Wolf_Matriarch_skull) to [Claus the chef](http://runescape.wikia.com/wiki/Claus_the_chef) after completion of [Carnillean Rising](http://runescape.wikia.com/wiki/Carnillean_Rising).Players can choose between these selected rewards:\n\n• 2,000 [Pure Essence](http://runescape.wikia.com/wiki/Pure_essence)\n• [3,500 Flax](http://runescape.wikia.com/wiki/Flax)\n• [200 Dragon scale dust](http://runescape.wikia.com/wiki/Dragon_scale_dust)\n• [100 Unicorn horn dust](http://runescape.wikia.com/wiki/Unicorn_horn_dust)\n\nThe Cave Wolf Matriarch skull is obtained by killing the [Cave Wolf Matriarch](http://runescape.wikia.com/wiki/Cave_Wolf_Matriarch) after the Carnillean Rising quest.\n\nThe Cave Wolf Matriarch is a monster encountered during Carnillean Rising, in which [Philipe Carnillean](http://runescape.wikia.com/wiki/Philipe_Carnillean) defeats it while the player distracts the wolf. After the completion of the quest, Claus the chef in the basement will assign you to kill the (now much stronger) wolf once more for her skull. You are then given limited access outside the cave again in which the [Juvenile wolves](http://runescape.wikia.com/wiki/Juvenile_wolf) were in, and kill the Cave Wolf Matriarch and both of her cubs.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -1789,7 +1811,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Clue's in the Monkey Drool](http://runescape.wikia.com/wiki/Clue%27s_in_the_Monkey_Drool) is an achievement that requires the player to receive the medium clue scroll from the monkey in the player's inventory during or after the Monkey Madness quest, after feeding it a number of banana's. The drop rate is 1 in 256.\n\nIt is suggested to feed the bananas to the monkey while at the banana plantation at Musa Point so the player is close to a free source of bananas. This will display the message \"The monkey chews on the banana and spits out a clue!\" in the chatbox. To obtain the clue scroll the player must not have another medium difficulty clue scroll in their inventory nor bank; however, another difficulty clue scroll won't interfere. Do not skip the dialogue when feeding the monkey, as it will not count as an attempt towards the clue scroll.\n\nPlayers must talk to a monkey with their monkeyspeak amulet and convince it to get into their backpack. To get out of the cage, players must unwield the greegree and speak with the Monkey Minder who will remove you from the cage. Players cannot teleport with the Monkey in their inventory, and it cannot be banked. Using any form of teleportation will make the monkey disappear from your backpack.\n\nDropping the Monkey will cause it to leave your pack and wander around for a bit, although it will disappear after about 30 seconds.",
+			"description": "[Clue's in the Monkey Drool](http://runescape.wikia.com/wiki/Clue%27s_in_the_Monkey_Drool) is an achievement that requires the player to receive the [Medium clue scroll](http://runescape.wikia.com/wiki/Medium_clue_scroll) from the [Monkey](http://runescape.wikia.com/wiki/Monkey_(item)) in the player's inventory during or after the [Monkey Madness]() quest, after feeding it a number of [Bananas](http://runescape.wikia.com/wiki/Banana). The drop rate is 1 in 256.\n\nIt is suggested to feed the bananas to the monkey while at the banana plantation at [Musa Point](http://runescape.wikia.com/wiki/Musa_Point) so the player is close to a free source of bananas. This will display the message \"The monkey chews on the banana and spits out a clue!\" in the chatbox. To obtain the clue scroll the player must not have another medium difficulty clue scroll in their inventory nor bank; however, another difficulty clue scroll won't interfere. Do not skip the dialogue when feeding the monkey, as it will not count as an attempt towards the clue scroll.\n\nPlayers must talk to a monkey with their [Monkeyspeak amulet](http://runescape.wikia.com/wiki/Monkeyspeak_amulet) and convince it to get into their backpack. To get out of the cage, players must unwield the [Greegree](http://runescape.wikia.com/wiki/Greegree) and speak with the [Monkey Minder](http://runescape.wikia.com/wiki/Monkey_minder) who will remove you from the cage. Players cannot teleport with the Monkey in their inventory, and it cannot be banked. Using any form of teleportation will make the monkey disappear from your backpack.\n\nDropping the Monkey will cause it to leave your pack and wander around for a bit, although it will disappear after about 30 seconds.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -1832,30 +1854,30 @@ exports.data = {
 	"complete trekky": {
 		"cmds": ["mqc", "trim"],
 		"embed": {
-			"title": "Complete Trekky",
-			"author": {
-				"name": "Cape Info",
-				"icon_url": "https://i.imgur.com/6c6q2iC.png"
-			},
-			"description": "[Complete Trekky](http://runescape.wikia.com/wiki/Complete_Trekky) is an achievement that requires the player to level all adventurers in Temple Trekking to level 99.",
-			"thumbnail": {
-				"url": "https://i.imgur.com/Shmagnp.png"
-			},
-			"fields": [
-				{
-					"name": "Requirements:",
-					"value": "• Darkness of Hallowvale Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Darkness_of_Hallowvale)"
-				},
-				{
-					"name": "Guide:",
-					"value": "[Temple Trekking powerleveling companions guide | FBA - YouTube](https://www.youtube.com/watch?v=uLH1vnxrXBs)"
-				}
-			],
-			"footer": {
-				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-				"text": "Runescore awarded: 40"
-			}
-		}
+            "title": "Complete Trekky",
+            "author": {
+                "name": "Cape Info",
+                "icon_url": "https://i.imgur.com/6c6q2iC.png"
+            },
+            "description": "[Complete Trekky](https://runescape.wikia.com/wiki/Complete_Trekky) is an achievement that requires the player to level all adventurers in [Temple Trekking](https://runescape.wikia.com/wiki/Temple_Trekking) to level 99.\n\nThere are a total of six people that can be escorted - three people for the journey to the [Temple](https://runescape.wikia.com/wiki/Paterdomus) and three for [Burgh De Rott](https://runescape.wikia.com/wiki/Burgh_de_Rott). They are:\n• [Dean Vellio](https://runescape.wikia.com/wiki/Dean_Vellio)\n• [Jayene Kliyn](https://runescape.wikia.com/wiki/Jayene_Kliyn)\n• [Smiddi Ryak](https://runescape.wikia.com/wiki/Smiddi_Ryak)\n• [Pazuzu](https://runescape.wikia.com/wiki/Pazuzu)\n• [Zachory Bragg](https://runescape.wikia.com/wiki/Zachory_Bragg)\n• [Rolayne Twickit](https://runescape.wikia.com/wiki/Rolayne_Twickit)\n\nYou can choose who to escort by using the noticeboard at the start point at Paterdomus or in Burgh De Rott. Each of the three people on each journey has a different [Difficulty](https://runescape.wikia.com/wiki/Temple_Trekking#Difficulty) - easy, medium and hard.\n\nBy being escorted, the follower will gain experience and levels. As they do so, they will gain new abilities and become more adept in combat. Their examine information and appearance will also change after receiving some new abilities. It will also allow the player to unlock certain rewards - some rewards require all of the followers to have reached a certain level.\n\nIt is possible to let your companion do much, if not all, of the fighting leading to fast level ups. This is easier for the mages and ranger, but can still be done with the warrior provided you have food to sustain him. This tactic works well with the Easy and Medium NPCs at the easy and medium route difficulties for the giant snail, ghast, nail beast, swamp snake, and shade [Events](https://runescape.wikia.com/wiki/Temple_Trekking/Events). The Hard NPC’s can simply be rushed through the hard path for the fastest levels.",
+            "thumbnail": {
+                "url": "https://i.imgur.com/Shmagnp.png"
+            },
+            "fields": [
+                {
+                  "name": "Requirements:",
+                  "value": "• The [Darkness of Hallowvale](https://runescape.wikia.com/wiki/Darkness_of_Hallowvale) quest for Burgh de Rott Ramble route\n• The [In Aid of the Myreque](https://runescape.wikia.com/wiki/In_Aid_of_the_Myreque) quest for Temple Trekking route"
+                },
+                {
+                    "name": "Guide:",
+                    "value": "[Temple Trekking powerleveling companions guide | FBA - YouTube](https://www.youtube.com/watch?v=uLH1vnxrXBs)"
+                }
+            ],
+            "footer": {
+                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+                "text": "Runescore awarded: 40"
+            }
+        }
 	},
 	"completionist cape": {
 		"cmds": ["trim"],
@@ -1865,7 +1887,7 @@ exports.data = {
                 "name": "Cape Info",
                 "icon_url": "https://i.imgur.com/6c6q2iC.png"
             },
-            "description": "[Completionist Cape (achievement)](https://runescape.wikia.com/wiki/Completionist_Cape_(achievement) is an achievement that requires the player to complete all [Completionist Cape achievements](https://runescape.wikia.com/wiki/Completionist_cape). Please visit the <#412093604979277844> channel for more information on how to do this.",
+            "description": "[Completionist Cape (achievement)](https://runescape.wikia.com/wiki/Completionist_Cape_(achievement%29) is an achievement that requires the player to complete all [Completionist Cape achievements](http://runescape.wikia.com/wiki/Completionist_Cape_achievements). Please visit the <#412093604979277844> channel for more information on how to do this.",
             "thumbnail": {
                 "url": "https://i.imgur.com/Shmagnp.png"
             },
@@ -1889,7 +1911,7 @@ exports.data = {
                 "name": "Cape Info",
                 "icon_url": "https://i.imgur.com/6c6q2iC.png"
             },
-            "description": "[Conquest Adore](https://runescape.wikia.com/wiki/Conquest_Adore) is an achievement that requires the player to play [Conquest](https://runescape.wikia.com/wiki/Conquest) until a [rank](https://runescape.wikia.com/wiki/Conquest#Rewards) of 1,250 is achieved. It is easiest to do this with a friend willing to boost you/trade boosts or during the Conquest Spotlight. You may also tag the **Notify Minigame Achievement/Song Help** role in this server to attempt to find a willing party member.",
+            "description": "[Conquest Adore](https://runescape.wikia.com/wiki/Conquest_Adore) is an achievement that requires the player to achieve the [Rank](https://runescape.wikia.com/wiki/Conquest#Rewards) of 1,250 in [Conquest](https://runescape.wikia.com/wiki/Conquest).\n\nIt is easiest to do this with a friend willing to boost you/trade boosts or during the Conquest Spotlight. You may also tag the <@&451411977894494212> role in this server to attempt to find a willing party member.",
             "thumbnail": {
                 "url": "https://i.imgur.com/Shmagnp.png"
             },
@@ -1900,7 +1922,7 @@ exports.data = {
                 },
                 {
                     "name": "Guide:",
-                    "value": "[Conquest Guide (Boosting) guide | AOROX - YouTube](https://www.youtube.com/watch?v=JJ_OiMjXaE8)"
+                    "value": "[Conquest (Boosting) guide | AOROX - YouTube](https://www.youtube.com/watch?v=JJ_OiMjXaE8)"
                 }
             ],
             "footer": {
@@ -1917,7 +1939,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Cook's Delights](http://runescape.wikia.com/wiki/Cook%27s_Delights) is an achievement that requires the player to complete the Cook's Assistant quest, or talk to the Cook if the player has completed the quest before the 20 sardines and 500 coins were added as a reward.\n\nThe cook is in the Lumbridge Castle's kitchen on the ground floor on the south side of the castle.",
+			"description": "[Cook's Delights](http://runescape.wikia.com/wiki/Cook%27s_Delights) is an achievement that requires the player to complete the [Cook's Assistant](http://runescape.wikia.com/wiki/Cook%27s_Assistant) quest, or talk to the [Cook](http://runescape.wikia.com/wiki/Cook_(Lumbridge%29) if the player has completed the quest before the 20 [Sardines](http://runescape.wikia.com/wiki/Sardine) and 500 [Coins](http://runescape.wikia.com/wiki/Coins) were added as a reward.\n\nThe cook is in the [Lumbridge Castle](http://runescape.wikia.com/wiki/Lumbridge_Castle)'s kitchen on the ground floor on the south side of the castle.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -1945,7 +1967,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Count All Light Fingers](http://runescape.wikia.com/wiki/Count_All_Light_Fingers) is an achievement that requires the player to complete the Thieves' Guild miniquests after completion of Buyers and Cellars.",
+			"description": "[Count All Light Fingers](http://runescape.wikia.com/wiki/Count_All_Light_Fingers) is an achievement that requires the player to complete the [Thieves' Guild](http://runescape.wikia.com/wiki/Thieves%27_Guild) miniquests after completion of [Buyers and Cellars](http://runescape.wikia.com/wiki/Buyers_and_Cellars).",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -1973,7 +1995,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Cower Behind the Chosen Commander](http://runescape.wikia.com/wiki/Cower_Behind_the_Chosen_Commander) is an achievement that requires the player to obtain the Goblin cower shield by talking to General Wartface or General Bentnoze after The Chosen Commander.\n\nGeneral Bentnoze and General Wartface are the Goblin Generals who are found in the Goblin Village, which is near Falador and directly north of Doric's Anvils.",
+			"description": "[Cower Behind the Chosen Commander](http://runescape.wikia.com/wiki/Cower_Behind_the_Chosen_Commander) is an achievement that requires the player to obtain the [Goblin cower shield](http://runescape.wikia.com/wiki/Goblin_cower_shield) by talking to [General Wartface](http://runescape.wikia.com/wiki/General_Wartface) or [General Bentnoze](http://runescape.wikia.com/wiki/General_Bentnoze) after [The Chosen Commander](http://runescape.wikia.com/wiki/The_Chosen_Commander). It can still be claimed by non-members, provided they have completed the quest.\n\nGeneral Bentnoze and General Wartface are the Goblin Generals who are found in the [Goblin Village](http://runescape.wikia.com/wiki/Goblin_Village), which is near [Falador](http://runescape.wikia.com/wiki/Falador) and directly north of [Doric's Hut](http://runescape.wikia.com/wiki/Doric%27s_hut).",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -1997,7 +2019,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Cran Door's Secret](http://runescape.wikia.com/wiki/Cran_Door%27s_Secret) is an achievement that requires the player to open the door in the Crandor and Karamja Dungeon from the Crandor side during or after Dragon Slayer.\n\nCrandor is a small volcanic island north of Karamja.",
+			"description": "[Cran Door's Secret](http://runescape.wikia.com/wiki/Cran_Door%27s_Secret) is an achievement that requires the player to open the door in the [Crandor and Karamja Dungeon](http://runescape.wikia.com/wiki/Crandor_and_Karamja_Dungeon) from the [Crandor](http://runescape.wikia.com/wiki/Crandor) side during or after [Dragon Slayer](http://runescape.wikia.com/wiki/Dragon_Slayer).\n\nCrandor is a small volcanic island north of [Karamja](http://runescape.wikia.com/wiki/Karamja).",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -2021,7 +2043,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Daemonology of Celerity](http://runescape.wikia.com/wiki/Daemonology_of_Celerity) is an achievement that requires the player to claim the Malleus daemoniorum by talking to Brother Celerity after taking part in a Demon Flash Mob.\n\nBrother Celerity is a monk who gives advice on how to defeat the demons. He is located at the Edgeville Monastery.\n\nFlash mobs appear every hour in one of 14 locations including the Wilderness. Players with the required combat level get a filtered notice of a surge of demonic energy at a specific location fifteen minutes before the mob spawns, then receive a second message stating that the demons have spawned in that location. Mobs can spawn at any time and are not synchronised across worlds.",
+			"description": "[Daemonology of Celerity](http://runescape.wikia.com/wiki/Daemonology_of_Celerity) is an achievement that requires the player to claim the [Malleus daemoniorum](http://runescape.wikia.com/wiki/Malleus_daemoniorum) by talking to [Brother Celerity](http://runescape.wikia.com/wiki/Brother_Celerity) after taking part in a [Demon Flash Mob](http://runescape.wikia.com/wiki/Demon_Flash_Mob).\n\nBrother Celerity is a [Monk](http://runescape.wikia.com/wiki/Monk) who gives advice on how to defeat the demons. He is located at the [Edgeville Monastery](http://runescape.wikia.com/wiki/Monastery_of_Saradomin).\n\nDemon Flash Mobs appear every hour in one of 14 locations including the [Wilderness](http://runescape.wikia.com/wiki/Wilderness). Players with the required combat level get a filtered notice of a surge of demonic energy at a specific location fifteen minutes before the mob spawns, then receive a second message stating that the demons have spawned in that location. Mobs can spawn at any time and are not synchronised across worlds.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -2045,7 +2067,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Daero Take This Experience?](http://runescape.wikia.com/wiki/Daero_Take_This_Experience) is an achievement that requires the player to claim the total of 110,000 combat experience from Daero after completion of Monkey Madness.\n\nDaero is the new tree guardian of the Tree Gnome Stronghold, who is found at Blurberry's Bar on the first floor of the Grand Tree.",
+			"description": "[Daero Take This Experience?](http://runescape.wikia.com/wiki/Daero_Take_This_Experience) is an achievement that requires the player to claim the total of 110,000 combat experience from [Daero](http://runescape.wikia.com/wiki/Daero) after completion of [Monkey Madness](http://runescape.wikia.com/wiki/Monkey_Madness).\n\nDaero is the new tree guardian of the [Tree Gnome Stronghold](http://runescape.wikia.com/wiki/Tree_Gnome_Stronghold), who is found at [Blurberry's Bar](http://runescape.wikia.com/wiki/Blurberry%27s_Bar) on the first floor of the [Grand Tree](http://runescape.wikia.com/wiki/Grand_Tree).",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -2069,7 +2091,7 @@ exports.data = {
         "name": "Cape Info",
         "icon_url": "https://i.imgur.com/6c6q2iC.png"
       },
-      "description": "[Data Recovery](https://runescape.wikia.com/wiki/Data_Recovery) is an achievement that requires the player to help [the Archivist](https://runescape.wikia.com/wiki/The_Archivist) recover all core memory data in the [Hall of Memories](http://runescape.wikia.com/wiki/Hall_of_Memories).\n\nHall of Memories is a Divination training dungeon located below the [Memorial to Guthix](http://runescape.wikia.com/wiki/Memorial_to_Guthix), revolving around the late god Guthix and his memories. Level 70 Divination is required to enter.\n\nPlayers can easily access the dungeon by teleporting to the Memorial to Guthix with [Memory strands](http://runescape.wikia.com/wiki/Memory_strand), [Sixth-Age circuit](http://runescape.wikia.com/wiki/Sixth-Age_circuit) or with charged [engrams](http://runescape.wikia.com/wiki/Engram). The dungeon is located inside the pool in the middle of the Memorial to Guthix building.\n\nUpon first entry, The Archivist will hand the player two [memory jars](https://runescape.wikia.com/wiki/Memory_jar) (one empty, one full) and a [memory-storage bot](https://runescape.wikia.com/wiki/Memory-storage_bot_%28Aagi%29), and will give a short dialogue explaining what to do inside the dungeon.\n\nThe player will have to gather a specific type of memory for each memory-storage bot. The player can inspect the memory-storage bot to check which type of memories is needed.\n\nGathering from other types will not progress towards the memory-storage bot and will only fill up the memory jars.\n\nThe gathering speed of the memories can be increased by clicking exactly when the exp drops appears, for players that don't receive exp drops they can turn on their game sounds and keep track of when they should click again that way.",
+      "description": "[Data Recovery](https://runescape.wikia.com/wiki/Data_Recovery) is an achievement that requires the player to help [The Archivist](https://runescape.wikia.com/wiki/The_Archivist) recover all core memory data in the [Hall of Memories](http://runescape.wikia.com/wiki/Hall_of_Memories).\n\nHall of Memories is a Divination training dungeon located below the [Memorial to Guthix](http://runescape.wikia.com/wiki/Memorial_to_Guthix), revolving around the late god Guthix and his memories. Level 70 Divination is required to enter.\n\nPlayers can easily access the dungeon by teleporting to the Memorial to Guthix with [Memory strands](http://runescape.wikia.com/wiki/Memory_strand), [Sixth-Age circuit](http://runescape.wikia.com/wiki/Sixth-Age_circuit) or with charged [Engrams](http://runescape.wikia.com/wiki/Engram). The dungeon is located inside the pool in the middle of the Memorial to Guthix building.\n\nUpon first entry, The Archivist will hand the player two [Memory jars](https://runescape.wikia.com/wiki/Memory_jar) (one empty, one full) and a [Memory-storage bot](https://runescape.wikia.com/wiki/Memory-storage_bot_%28Aagi%29), and will give a short dialogue explaining what to do inside the dungeon.\n\nThe player will have to gather a specific type of memory for each memory-storage bot. The player can inspect the memory-storage bot to check which type of memories is needed.\n\nGathering from other types will not progress towards the memory-storage bot and will only fill up the memory jars.\n\nThe gathering speed of the memories can be increased by clicking exactly when the exp drops appears, for players that don't receive exp drops they can turn on their game sounds and keep track of when they should click again that way.",
       "thumbnail": {
         "url": "https://i.imgur.com/Shmagnp.png"
       },
@@ -2093,7 +2115,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Deadlier Catch](http://runescape.wikia.com/wiki/Deadlier_Catch) is an achievement that requires the player to hunt the Thalassus another ten times after completion of Deadliest Catch.\n\nThalassus is a massive fish that originates from the Wushanko Isles and is featured in the Deadliest Catch quest.",
+			"description": "[Deadlier Catch](http://runescape.wikia.com/wiki/Deadlier_Catch) is an achievement that requires the player to hunt the [Thalassus](http://runescape.wikia.com/wiki/Thalassus) another ten times after completion of [Deadliest Catch](http://runescape.wikia.com/wiki/Deadliest_Catch).\n\nThalassus is a massive fish that originates from the [Wushanko Isles](http://runescape.wikia.com/wiki/Wushanko_Isles) and is featured in the Deadliest Catch quest.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -2121,11 +2143,21 @@ exports.data = {
                 "name": "Cape Info",
                 "icon_url": "https://i.imgur.com/6c6q2iC.png"
             },
-            "description": "[Death Effect](https://runescape.wikia.com/wiki/Death_Effect) is an achievement that requires the player to unlock all of the [permanent effects](https://runescape.wikia.com/wiki/Death%27s_Store#Unlocks) from [Death's Store](https://runescape.wikia.com/wiki/Death%27s_Store). This achievement requires the player to purchase the following items: [Book of death](https://runescape.wikia.com/wiki/Book_of_Death), Reaper's choice, [Rainbow loot beam](https://runescape.wikia.com/wiki/Rainbow_loot_beam), [Grave loot beam](https://runescape.wikia.com/wiki/Grave_loot_beam), Bonfire booster, Instance cost, Additional tasks, Reaper scroll, and Deaths support. ",
+            "description": "[Death Effect](https://runescape.wikia.com/wiki/Death_Effect) is an achievement that requires the player to unlock all of the [Permanent effects](https://runescape.wikia.com/wiki/Death%27s_Store#Unlocks) from [Death's Store](https://runescape.wikia.com/wiki/Death%27s_Store).This achievement requires a total of 1,650 - 2,050 reaper points and 0 - 4,000 slayer points.\n\nPlayers have a chance to receive a [Gift for the Reaper](https://runescape.wikia.com/wiki/Gift_for_the_Reaper) from the [Motherlode Maw](https://runescape.wikia.com/wiki/Motherlode_Maw) and the [Travelling Merchant's Shop](https://runescape.wikia.com/wiki/Travelling_Merchant%27s_Shop). You may sign up for the <@&443761366201925653> notification role to be notified when the [Travelling Merchant](https://runescape.wikia.com/wiki/Travelling_merchant) has one in stock.\n\nThis achievement requires the player to purchase the following items:",
             "thumbnail": {
                 "url": "https://i.imgur.com/Shmagnp.png"
             },
             "fields": [
+                {
+                    "name": "Effect",
+                    "value": "[Book of death](https://runescape.wikia.com/wiki/Book_of_Death)\nReaper's choice\n[Rainbow loot beam](https://runescape.wikia.com/wiki/Rainbow_loot_beam)\n[Grave loot beam](https://runescape.wikia.com/wiki/Grave_loot_beam)\nBonfire booster\nInstance cost\nAdditional tasks\nReaper scroll\nDeaths support",
+                    "inline": true
+                },
+                {
+                    "name": "Reaper point cost",
+                    "value": "500\n250\n75\n75\n250\n250\n150\n250\n250",
+                    "inline": true
+                },
                 {
                     "name": "Requirements:",
                     "value": "• A total of 1,650 - 2,050 [reaper points](https://runescape.wikia.com/wiki/Reaper_points)\n• 0-400 [slayer points](https://runescape.wikia.com/wiki/Slayer_reward_point)\n• 50 Combat"
@@ -3073,7 +3105,7 @@ exports.data = {
                 "name": "Cape Info",
                 "icon_url": "https://i.imgur.com/6c6q2iC.png"
             },
-            "description": "[Hard as Daemons](https://runescape.wikia.com/wiki/Hard_as_Daemons) is an achievement that requires the player to claim the [of Daemonheim title]( https://runescape.wikia.com/wiki/Of_Daemonheim). This requires the player to complete every dungeoneering floor on [hard mode]( https://runescape.wikia.com/wiki/Dungeoneering/Hard_mode). Hard Mode floors can be obtained as a reward after completing the [elite set]( https://runescape.wikia.com/wiki/Daemonheim_achievements#Elite_Tasks) of [Daemonheim tasks]( https://runescape.wikia.com/wiki/Daemonheim_achievements). It is only available for [complexity]( https://runescape.wikia.com/wiki/Complexity) 6 dungeons and makes the dungeon as difficult as it can randomly be.\n\nPlayers who have not completed the Elite tasks may take part in Hard mode floors with other players who have. Players who have completed the Elite tasks must form the party and lead the dungeon. They then invite the players without the tasks complete into the floors. To start Hard mode, select a floor and set the difficulty to Complexity 6 via the [Ring of kinship]( https://runescape.wikia.com/wiki/Ring_of_kinship) or the ladder. Attempting to start a floor results in the Floor Settings interface, the top section of which is a radio button for Hard mode. Select `Yes` to `Activate Hard Mode?` Players are unable to select the floor size they wish. If the party is 1-2 people, the floor size is Medium; if 3-5, the floor size is Large. It is recommended to activate [guide mode]( https://runescape.wikia.com/wiki/Dungeoneering#Guide_mode) during hard mode floors to speed up the requirement. Players may tag the **Notify HM Dungeoneering** role in this server to try to find a willing party.",
+            "description": "[Hard as Daemons](https://runescape.wikia.com/wiki/Hard_as_Daemons) is an achievement that requires the player to claim the [of Daemonheim title]( https://runescape.wikia.com/wiki/Of_Daemonheim). This requires the player to complete every dungeoneering floor on [hard mode]( https://runescape.wikia.com/wiki/Dungeoneering/Hard_mode). Hard Mode floors can be obtained as a reward after completing the [elite set]( https://runescape.wikia.com/wiki/Daemonheim_achievements#Elite_Tasks) of [Daemonheim tasks]( https://runescape.wikia.com/wiki/Daemonheim_achievements). It is only available for [complexity]( https://runescape.wikia.com/wiki/Complexity) 6 dungeons and makes the dungeon as difficult as it can randomly be.\n\nPlayers who have not completed the Elite tasks may take part in Hard mode floors with other players who have. Players who have completed the Elite tasks must form the party and lead the dungeon. They then invite the players without the tasks complete into the floors. To start Hard mode, select a floor and set the difficulty to Complexity 6 via the [Ring of kinship]( https://runescape.wikia.com/wiki/Ring_of_kinship) or the ladder. Attempting to start a floor results in the Floor Settings interface, the top section of which is a radio button for Hard mode. Select `Yes` to `Activate Hard Mode?` Players are unable to select the floor size they wish. If the party is 1-2 people, the floor size is Medium; if 3-5, the floor size is Large. It is recommended to activate [guide mode]( https://runescape.wikia.com/wiki/Dungeoneering#Guide_mode) during hard mode floors to speed up the requirement. Players may tag the <@&382960017499881474> role in this server to try to find a willing party.",
             "thumbnail": {
                 "url": "https://i.imgur.com/Shmagnp.png"
             },
@@ -3221,7 +3253,7 @@ exports.data = {
                 "name": "Cape Info",
                 "icon_url": "https://i.imgur.com/6c6q2iC.png"
             },
-            "description": "[How Many Games?](https://runescape.wikia.com/wiki/How_Many_Games%3F) an achievement that requires the player to purchase a full set of [profound decorative equipment]( https://runescape.wikia.com/wiki/Profound_decorative_equipment) and show it to [Lanthus]( https://runescape.wikia.com/wiki/Lanthus). Profound equipment can be purchased using [gold Castle Wars tickets]( https://runescape.wikia.com/wiki/Castle_wars_ticket_(gold), [Thaler]( https://runescape.wikia.com/wiki/Thaler), or a mixture of both.\n\nThis is one of the most time-consuming achievements in the game, taking up to 795 hours to complete by playing only [spotlighted minigames]( https://calendar.google.com/calendar/embed?src=42brp3b48aumm199hord137gh0@group.calendar.google.com) or playing 20 minute Castle Wars games with a 100% win rate (accounting for the 3 minute wait time between games). Even using the fastest methods, playing on spotlight and/or Minigames Weekend, and using Castle wars token enhancers, it will take at least 300 hours to complete. It is generally considered to be the longest and most onerous requirement for the trimmed completionist cape. However, using only Thaler, this achievement can be completed without playing a single game of Castle Wars.\n\n**It is highly advised to do this with a Castle Wars or Thaler Service.**\n• You may find a Castle Wars community at [this discord](https://discord.gg/hzvwrvX) or at friend-chat `Cwar United`. You can fill out the application for the friend-chat [here](http://services.runescape.com/m=forum/c=9s7nqZXGY8Y/forums.ws?75,76,32,66000897).\n• You may find an AFK Thaler community in this server. Users can tag the **AFK Thaler** role if Barbarian Assault, Conquest, Fist of Guthix, Great Orb Project, Heist, Mobilising Armies, Pest Control, Soul Wars, Stealing Creation, or Trouble Brewing minigames are on spotlight in order to find teams. You may join this role by reacting to the :zero: emoji on the third to last message in the <#413750063756607488> channel.",
+            "description": "[How Many Games?](https://runescape.wikia.com/wiki/How_Many_Games%3F) an achievement that requires the player to purchase a full set of [profound decorative equipment]( https://runescape.wikia.com/wiki/Profound_decorative_equipment) and show it to [Lanthus]( https://runescape.wikia.com/wiki/Lanthus). Profound equipment can be purchased using [gold Castle Wars tickets]( https://runescape.wikia.com/wiki/Castle_wars_ticket_(gold), [Thaler]( https://runescape.wikia.com/wiki/Thaler), or a mixture of both.\n\nThis is one of the most time-consuming achievements in the game, taking up to 795 hours to complete by playing only [spotlighted minigames]( https://calendar.google.com/calendar/embed?src=42brp3b48aumm199hord137gh0@group.calendar.google.com) or playing 20 minute Castle Wars games with a 100% win rate (accounting for the 3 minute wait time between games). Even using the fastest methods, playing on spotlight and/or Minigames Weekend, and using Castle wars token enhancers, it will take at least 300 hours to complete. It is generally considered to be the longest and most onerous requirement for the trimmed completionist cape. However, using only Thaler, this achievement can be completed without playing a single game of Castle Wars.\n\n**It is highly advised to do this with a Castle Wars or Thaler Service.**\n• You may find a Castle Wars community at [this discord](https://discord.gg/hzvwrvX) or at friend-chat `Cwar United`. You can fill out the application for the friends chat [here](http://services.runescape.com/m=forum/c=9s7nqZXGY8Y/forums.ws?75,76,32,66000897).\n• You may find an AFK Thaler community in this server. Users can tag the <@&446729279149965315> role if Barbarian Assault, Conquest, Fist of Guthix, Great Orb Project, Heist, Mobilising Armies, Pest Control, Soul Wars, Stealing Creation, or Trouble Brewing minigames are on spotlight in order to find teams. You may join this role by reacting to the 🇻 emoji on the third to last message in the <#418298983002275851> channel.",
             "thumbnail": {
                 "url": "https://i.imgur.com/Shmagnp.png"
             },
@@ -4032,38 +4064,42 @@ exports.data = {
 	"lunar master": {
 		"cmds": ["comp"],
 		"embed": {
-			"title": "Lunar Master",
-			"author": {
-				"name": "Cape Info",
-				"icon_url": "https://i.imgur.com/6c6q2iC.png"
-			},
-			"description": "[Lunar Master](http://runescape.wikia.com/wiki/Lunar_Master) is an achievement that tracks the player's progress into unlocking the nine Livid Farm spells.",
-			"thumbnail": {
-				"url": "https://i.imgur.com/Shmagnp.png"
-			},
-			"fields": [
-				{
-					"name": "Requirements:",
-					"value": "• 70 Magic\n• 60 Agility\n • 60 Crafting\n • 60 Farming\n • 50 Construction\n\n• Lunar Diplomacy Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Lunar_Diplomacy)\n• Have the Lunar Spellbook activated"
-				},
-				{
-					"name": "Requirements to complete all the activities with full points and magic XP:",
-					"value": "• 81 Magic"
-				},
-				{
-					"name": "Requirements to complete all the distractions:",
-					"value": "• 93 Magic"
-				},
-				{
-					"name": "Guide:",
-					"value": "[Livid Farm Basics Guide | Dexxon - YouTube](https://www.youtube.com/watch?v=b7qql8K2Y2s)"
-				}
-			],
-			"footer": {
-				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-				"text": "Runescore awarded: 25"
-			}
-		}
+            "title": "Lunar Master",
+            "author": {
+                "name": "Cape Info",
+                "icon_url": "https://i.imgur.com/6c6q2iC.png"
+            },
+            "description": "[Lunar Master](http://runescape.wikia.com/wiki/Lunar_Master) is an achievement that tracks the player's progress into unlocking the nine Livid Farm spells.\n\nLivid Farm is an activity in which the player helps [Pauline Polaris](https://runescape.wikia.com/wiki/Pauline_Polaris) run and maintain her farm. The farm is located on the northern part of [Lunar Isle](https://runescape.wikia.com/wiki/Lunar_Isle). The farm is tended to by casting [Lunar spells](https://runescape.wikia.com/wiki/Lunar_spells), and experience is gained in Magic, Agility, Construction, Crafting, and Farming. Working on the farm earns [produce points](https://runescape.wikia.com/wiki/Produce_points) which can be used to unlock new Lunar spells\n\nThe spells to unlock are:\n• [South Falador Teleport](https://runescape.wikia.com/wiki/South_Falador_Teleport)\n• [Repair Rune Pouch](https://runescape.wikia.com/wiki/Repair_Rune_Pouch)\n• [North Ardougne Teleport](https://runescape.wikia.com/wiki/North_Ardougne_Teleport)\n• [Remote Farming](https://runescape.wikia.com/wiki/Remote_Farm)\n• [Spiritualise Food](https://runescape.wikia.com/wiki/Spiritualise_Food)\n• [Make Leather](https://runescape.wikia.com/wiki/Make_Leather)\n• [Disruption Shield](https://runescape.wikia.com/wiki/Disruption_Shield)\n• [Vengeance Group](https://runescape.wikia.com/wiki/Vengeance_Group)\n• [Trollheim Teleport](https://runescape.wikia.com/wiki/Trollheim_Teleport_(Lunar)\n• [Tele-group Trollheim](https://runescape.wikia.com/wiki/Tele-group_Trollheim)\n• [Borrowed Power](https://runescape.wikia.com/wiki/Borrowed_Power)\n\nA [Livid farm point enhancer](https://runescape.wikia.com/wiki/Livid_farm_point_enhancer) will allow the player to gain produce points at 1.5 times the normal rate.You may also sign up for the <@&472071116622659600> notification role in the <#465998663710146579> channel to be notified whenever the [Travelling Merchant](https://runescape.wikia.com/wiki/Travelling_Merchant%27s_Shop) has a [Livid plant](https://runescape.wikia.com/wiki/Livid_plant_(Deep_Sea_Fishing%29) in stock.",
+            "thumbnail": {
+                "url": "https://i.imgur.com/Shmagnp.png"
+            },
+            "fields": [
+                {
+                    "name": "Earning Produce Points:",
+                    "value": "• Fertilize empty plots using [Fertile Soil](https://runescape.wikia.com/wiki/Fertile_Soil) - 20 produce points. Click on an empty plot.\n\n• Cure diseased plants using [Cure Plant](https://runescape.wikia.com/wiki/Cure_Plant) - 20 produce points. See Identifying the [Diseased Livid](https://runescape.wikia.com/wiki/Livid_Farm#Identifying_the_diseased_livid)\n\n• Fix fence beams by using fence posts made from [Lunar lumber](https://runescape.wikia.com/wiki/Lunar_lumber) with [Plank Make](https://runescape.wikia.com/wiki/Plank_Make) - 20 produce points. Click on lumber bin to take lumber, click on lumber in inventory to convert, click on damaged section of fence to fix. Take two lumbers from the bin at once to save time.\n\n• Deposit a bundle of 5 livid that is wrapped using [String Jewellery](https://runescape.wikia.com/wiki/String_Jewellery) - 120 produce points. Click on livid bin to take 10 livids, click twice in inventory to make two bunches, click on cart to deposit for twice the number of points."
+                },
+                  {
+                    "name": "Guide:",
+                    "value": "If there are no livids showing in the bin, it's time to encourage Pauline by saying some kind words (this does not use any runes) - 100 produce points. Right-click on Pauline and select the correct option, which could be one of the following:\n\t• Come on, you're doing so well\n\t• Keep going! We can do this\n\t• Look at all the produce being made\n\t• Lokar will really appreciate this\n\t• Extraordinary\n\t• You're doing a fantastic job\n\nA helpful way to do this would be to look at the first word or the length of the option. For example, if the first word is `Come,` then select the first option. If it's `Keep` or `Lokar,` then choose the second one. If it's `You're,` then pick the third. Otherwise, if the dialogue is short, then select the fourth option, or if it is long, then the third option is correct\n\nIf you do not have the required Magic level the produce points earned will be halved. The maximum produce points that can be harvested is 430,000; going above this will give you a message to spend some points."
+                },
+                  {
+                    "name": "Produce Points Cost:",
+                    "value": "Counting nature and astral runes, and using a mud staff, the cost of produce points per rune is:\n\t• Cure plant: 20 points per rune\n\t• Bundle Livids: 60 points per rune\n\t• Fertile soil: 4 points per rune\n\t• Fence repairs: 6.6 points per rune"
+                },
+                {
+                    "name": "Requirements:",
+                    "value": "• 70 Magic\n• 81 Magic to complete all the activities\n• 93 Magic to complete all the distractions\n• 60 Agility\n• 60 Crafting\n• 60 Farming\n• 50 Construction\n\n• Lunar Diplomacy Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Lunar_Diplomacy)\n• Have the Lunar Spellbook activated"
+                },
+                {
+                    "name": "Guide:",
+                    "value": "[Livid Farm Basics Guide | Dexxon - YouTube](https://www.youtube.com/watch?v=b7qql8K2Y2s)"
+                }
+            ],
+            "footer": {
+                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+                "text": "Runescore awarded: 25"
+            }
+        }
 	},
 	"lurgon's run": {
 		"cmds": ["mqc"],
@@ -4366,7 +4402,7 @@ exports.data = {
 				},
 				{
 					"name": "Guides:",
-					"value": "Please visit the following channels for a guide on each skill or use `.max help` for guides on the best ways to level your skills.\n\n• <#428778477617938432>\n• <#431118201200312331>\n• <#430122250016915478>\n• <#431118731276451862>\n• <#431118782304354320>\n• <#431117699196649473>\n• <#431117738216259584>\n• <#431118254270840852>\n• <#431117799965065216>\n• <#431117865471574036>\n• <#431117916679831583>\n• <#431117950238457866>\n• <#431117975307943947>\n• <#431118104710348800>\n• <#431118153892888576>\n• <#431118590213881857>\n• <#431118174834917386>\n• <#431118294934618112>\n• <#431118328661016596>\n• <#431118351574499330>\n• <#431118404699553812>\n• <#431118435792060417>\n• <#431118462472028160>\n• <#431118228668809216>\n• <#431118494583750666>\n• <#431118537088696320>\n• <#431118560551501844>"
+					"value": "Please visit the following channels for a guide on each skill or use `.max help` for guides on the best ways to level your skills.\n\n• <#452248684059688960>\n• <#431118201200312331>\n• <#430122250016915478>\n• <#431118731276451862>\n• <#431118782304354320>\n• <#431117699196649473>\n• <#431117738216259584>\n• <#431118254270840852>\n• <#431117799965065216>\n• <#431117865471574036>\n• <#431117916679831583>\n• <#431117950238457866>\n• <#431117975307943947>\n• <#431118104710348800>\n• <#431118153892888576>\n• <#431118590213881857>\n• <#431118174834917386>\n• <#431118294934618112>\n• <#431118328661016596>\n• <#431118351574499330>\n• <#431118404699553812>\n• <#431118435792060417>\n• <#431118462472028160>\n• <#431118228668809216>\n• <#431118494583750666>\n• <#431118537088696320>\n• <#431118560551501844>"
 				}
 			],
 			"footer": {
@@ -5423,7 +5459,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Potion Mixer Master](http://runescape.wikia.com/wiki/Potion_Mixer_Master) is an achievement that requires the player to collect all 26 combination potions by either buying the recipe in the Recipe Shop or finding unreadable pages in Daemonheim.\n\nThere are 26 combination potions in total. All of them need to be unlocked by purchasing the recipe from the Recipe Shop in Meilyr Clan district, with prices from 100,000 coins to 1,000,000 coins, and nine have the additional requirement of finding unreadable pages in Daemonheim first, similar to unlocking a Fremennik Saga. Buying all recipes will cost the player a total of 11,500,000 coins. If a player has already found all 9 pages, they are unable to see or generate a page spawn for any other party members to find. A player who hasn't talked to Lady Meilyr can generate a page, but they cannot pick it up and it will be invisible to other players. Attempting to do so will get the message: \"You need to get a journal from Lady Meilyr in Prifddinas before you can start collecting these.\"\n\nAn unreadable page is a lost text containing recipes for the Meilyr Clan in Prifddinas. It can be found within Daemonheim on any floor at any complexity (even on free worlds), or received from the Motherlode Maw. Pages can be found lying on the floor. Hard mode floors will increase the chances of a page appearing however, there is no guarantee that a page will be found on any floor. A perfect juju herblore potion will increase the chance of finding a page by 10%, and a perfect juju dungeoneering potion can also increase the chance. A page is a guaranteed find with a Consistent yak solo/team card obtained from Gorajo hoardstalker.",
+			"description": "[Potion Mixer Master](http://runescape.wikia.com/wiki/Potion_Mixer_Master) is an achievement that requires the player to collect all 26 combination potions by either buying the recipe in the Recipe Shop or finding unreadable pages in Daemonheim.\n\nThere are 26 combination potions in total. All of them need to be unlocked by purchasing the recipe from the Recipe Shop in Meilyr Clan district, with prices from 100,000 coins to 1,000,000 coins, and nine have the additional requirement of finding unreadable pages in Daemonheim first, similar to unlocking a Fremennik Saga. Buying all recipes will cost the player a total of 11,500,000 coins.\n\nIf a player has already found all 9 pages, they are unable to see or generate a page spawn for any other party member(s) to find. A player who hasn't talked to Lady Meilyr can generate a page, but they cannot pick it up and it will be invisible to other players. Attempting to do so will get the message: \"You need to get a journal from Lady Meilyr in Prifddinas before you can start collecting these.\"\n\nAn unreadable page is a lost text containing recipes for the Meilyr Clan in Prifddinas. It can be found within Daemonheim on any floor at any complexity (even on free worlds), or received from the Motherlode Maw. Pages can be found lying on the floor. Hard mode floors will increase the chances of a page appearing however, there is no guarantee that a page will be found on any floor.\n\nA perfect juju herblore potion will increase the chance of finding a page by 10%, and a perfect juju dungeoneering potion can also increase the chance. A page is a guaranteed find with a Consistent yak solo/team card obtained from Gorajo hoardstalker.\n\nThe Elite Dungeon Reward Shop is a shop run by Bryll Thoksdottir that sells unlocks and consumables (including upgrades for activities pertaining to Dungeoneering). It's located south of Daemonheim near the Dungeoneering reward shop. The player can purchase team and solo Gorajo cards here in the hopes of receiving a Consistent Yak card.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -5499,7 +5535,7 @@ exports.data = {
                 "name": "Cape Info",
                 "icon_url": "https://i.imgur.com/6c6q2iC.png"
             },
-            "description": "[Rank: Master Finix](https://runescape.wikia.com/wiki/Rank:_Master_Finix) is an achievement that requires the player to obtain the rank 1 [esteem](https://runescape.wikia.com/wiki/Runespan#Esteem.28m.29) from [Wizard Finix](https://runescape.wikia.com/wiki/Wizard_Finix) in [Runespan](https://runescape.wikia.com/wiki/Runespan). This will cost a total of 211,860 [runespan points](https://runescape.wikia.com/wiki/Runespan#Points). Players are also have a chance to receive an [unstable air runes](https://runescape.wikia.com/wiki/Unstable_air_rune) from the [Motherlode Maw](https://runescape.wikia.com/wiki/Motherlode_Maw) and the [Traveling Merchant's Shop](https://runescape.wikia.com/wiki/Travelling_Merchant%27s_Shop). You may sign up for the **@Unstable Air Rune** notification role to be notified when the [Traveling Merchant](https://runescape.wikia.com/wiki/Travelling_merchant) has one in stock.  You may be interested in viewing this [Runespan Points Calculator](https://www.reddit.com/r/runescape/comments/7mi0fz/runespan_points_per_minute_at_99_rc_test_my/?st=JBPOLNJZ&sh=28343b1c) for aiding you in this requirement.",
+            "description": "[Rank: Master Finix](https://runescape.wikia.com/wiki/Rank:_Master_Finix) is an achievement that requires the player to obtain the rank 1 [esteem](https://runescape.wikia.com/wiki/Runespan#Esteem.28m.29) from [Wizard Finix](https://runescape.wikia.com/wiki/Wizard_Finix) in [Runespan](https://runescape.wikia.com/wiki/Runespan). This will cost a total of 211,860 [runespan points](https://runescape.wikia.com/wiki/Runespan#Points). Players are also have a chance to receive an [unstable air runes](https://runescape.wikia.com/wiki/Unstable_air_rune) from the [Motherlode Maw](https://runescape.wikia.com/wiki/Motherlode_Maw) and the [Travelling Merchant's Shop](https://runescape.wikia.com/wiki/Travelling_Merchant%27s_Shop). You may sign up for the <@&443761702903873536> notification role to be notified when the [Travelling Merchant](https://runescape.wikia.com/wiki/Travelling_merchant) has one in stock.  You may be interested in viewing this [Runespan Points Calculator](https://www.reddit.com/r/runescape/comments/7mi0fz/runespan_points_per_minute_at_99_rc_test_my/?st=JBPOLNJZ&sh=28343b1c) for aiding you in this requirement.",
             "thumbnail": {
                 "url": "https://i.imgur.com/Shmagnp.png"
             },
@@ -5527,7 +5563,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Reaper Crew](http://runescape.wikia.com/wiki/Reaper_Crew) is an achievement that requires the player to obtain [Name] the Reaper title by defeating every boss at least once. This does not include hard mode/challenge mode variants.\n\nIf you need help with a certain group boss, you can notify the Reaper Crew role in this server for help (their time permitting). Alternatively, check the <#441624301616234496> channel for invite links to Discord servers that we're partnered with to assist with bossing needs.",
+			"description": "[Reaper Crew](http://runescape.wikia.com/wiki/Reaper_Crew) is an achievement that requires the player to obtain [Name] the Reaper title by defeating every boss at least once. This does not include hard mode/challenge mode variants.\n\nIf you need help with a certain group boss, you can tag the <@&415885607626211338> role in this server for help (their time permitting). Alternatively, check the <#441624301616234496> channel for invite links to Discord servers that we're partnered with to assist with bossing needs.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
