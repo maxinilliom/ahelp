@@ -3941,11 +3941,23 @@ exports.data = {
                 "name": "Cape Info",
                 "icon_url": "https://i.imgur.com/6c6q2iC.png"
             },
-            "description": "[Lock, Stock and Barrel](http://runescape.wikia.com/wiki/Lock,_Stock_and_Barrel) is an achievement that requires the player to gain tier 10 [reputation](https://runescape.wikia.com/wiki/Menaphos/Reputation) in the Merchant district of [Menaphos](https://runescape.wikia.com/wiki/Menaphos). You can use `soulobby` fc to find [Soul Obelisks](https://runescape.wikia.com/wiki/Soul_obelisk_(Menaphos) and [Corrupted Scarabs](https://runescape.wikia.com/wiki/Corrupted_scarab) easily. You can gain 20,000 reputatation per day from Soul Obelisks and a varied amount from Corrupted Scarabs daily. You will be able to finish this requirment within two weeks utilizing this method as a daily.",
+            "description": "[Lock, Stock and Barrel](http://runescape.wikia.com/wiki/Lock,_Stock_and_Barrel) is an achievement that requires the player to gain tier 10 [Reputation](https://runescape.wikia.com/wiki/Menaphos/Reputation) in the [Merchant district](https://runescape.wikia.com/wiki/Merchant_district) of [Menaphos](https://runescape.wikia.com/wiki/Menaphos).\n\nPlayers must first choose to which faction they want to align themselves before reputation can be earned. Right-click on a faction icon within the faction windows to choose a faction. If no faction is selected, reputation is not gained and the following message is seen instead: `You have not currently selected a faction, so earned no reputation!`\n\nYou can use `soulobby` fc to find [Soul Obelisks](https://runescape.wikia.com/wiki/Soul_obelisk_(Menaphos%29) and [Corrupted Scarabs](https://runescape.wikia.com/wiki/Corrupted_scarab) easily. You can gain 20,000 reputatation per day from Soul Obelisks and a varied amount from Corrupted Scarabs daily. You will be able to finish this requirment within two weeks utilizing this method as a daily.\n\nReputation is a mechanic that is used within [Menaphos](https://runescape.wikia.com/wiki/Menaphos). All skilling activities within the walls of Menaphos earn reputation. In addition, skilling using any of the methods released along with Menaphos rewards a higher amount of reputation. ",
             "thumbnail": {
                 "url": "https://i.imgur.com/Shmagnp.png"
             },
             "fields": [
+                {
+                    "name": "Increased Reputation Methods:",
+                    "value": "Those activities which award reputation at an increased rate are chopping [Acadia trees](https://runescape.wikia.com/wiki/Acadia_tree), mining [Concentrated sandstone](https://runescape.wikia.com/wiki/Concentrated_sandstone_rocks), fishing for [Desert sole](https://runescape.wikia.com/wiki/Raw_desert_sole), [Catfish](https://runescape.wikia.com/wiki/Raw_catfish), and [Beltfish](https://runescape.wikia.com/wiki/Raw_beltfish), thieving in the Menaphos market, catching [Plover birds](https://runescape.wikia.com/wiki/Plover_bird) in [Sophanem](https://runescape.wikia.com/wiki/Sophanem), and fighting [Corrupted creatures](http://runescape.wikia.com/wiki/Corrupted_creature) and [Soul devourers](http://runescape.wikia.com/wiki/Soul_devourer) in the [Sophanem Slayer Dungeon](https://runescape.wikia.com/wiki/Sophanem_Slayer_Dungeon). Furthermore, the highest rates of reputation are earned by playing the [Shifting Tombs](https://runescape.wikia.com/wiki/Shifting_Tombs) minigame."
+                },
+                {
+                    "name": "Repeatable Events for Reputation:",
+                    "value": "• Interacting with [Soul obelisks](https://runescape.wikia.com/wiki/Soul_obelisk_(Menaphos%29) in Menaphos can reward players up to 20,000 base reputation per day in a very short duration\n• Interacting with [Corrupted Scarabs](https://runescape.wikia.com/wiki/Corrupted_Scarab_(Menaphos) in Menaphos can reward players reputation\n• Completing a [City Quest](https://runescape.wikia.com/wiki/City_Quest) grants 2,000 base reputation, as well as a random-sized [Menaphite gift offering](https://runescape.wikia.com/wiki/Menaphite_gift_offering)"
+                },
+                {
+                    "name": "Permanent Reputation Increase:",
+                    "value": "After completion of Menaphos related quests, all reputation gain is increased.\n\t• [The Jack of Spades](https://runescape.wikia.com/wiki/The_Jack_of_Spades) - 1.25x\n\t• [Crocodile Tears](https://runescape.wikia.com/wiki/Crocodile_Tears) - 1.5x\n\t• [Our Man in the North](https://runescape.wikia.com/wiki/Our_Man_in_the_North) - 1.75x\n\t• ['Phite Club](https://runescape.wikia.com/wiki/%27Phite_Club) - 2.0x"
+                },
                 {
                     "name": "Requirements:",
                     "value": "• The Jack of Spades Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Jack_of_Spades)"
