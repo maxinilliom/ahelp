@@ -80,7 +80,8 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 		}
 		const helpMsg = message.channel.id == '382701090430386180'
 			? `To search for an achievement, use **.${exports.help.name}** <keyword>.`
-			: `To search for an achievement, use **.${exports.help.name}** <keyword> in the <#382701090430386180> channel.`		message.channel.send(helpMsg);
+			: `To search for an achievement, use **.${exports.help.name}** <keyword> in the <#382701090430386180> channel.`
+		message.channel.send(helpMsg);
 		return;
 	}
 
