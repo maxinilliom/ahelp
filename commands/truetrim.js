@@ -23,7 +23,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 	if (message.channel.id !== '407919969712603145' && level < 2) return;
 
 	Object.getOwnPropertyNames(data).forEach(k => {
-		if (data[k].cmds.includes("true")) keyList.push(k);
+		if (data[k].cmds.includes("tt")) keyList.push(k);
 	});
 	if (!args[0]) return message.channel.send(`Please specify a valid achievement name.`);
 
@@ -80,7 +80,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 		}
 		const helpMsg = message.channel.id == '382701090430386180'
 			? `To search for an achievement, use **.${exports.help.name}** <keyword>.`
-			: `To search for an achievement, use **.${exports.help.name}** <keyword> in the <#382701090430386180> channel.`		message.channel.send(helpMsg);
+			: `To search for an achievement, use **.${exports.help.name}** <keyword> in the <#382701090430386180> channel.`
 		message.channel.send(helpMsg);
 		return;
 	}
