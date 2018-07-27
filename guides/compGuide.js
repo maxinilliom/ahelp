@@ -28,7 +28,30 @@ exports.data = {
 				"text": "Achievement Help"
 			}
 		}
-	},
+	}, 
+    "a brief history of telescopes": {
+        "cmds": ["rs"],
+        "embed": {
+			"title": "A Brief History of Telescopes",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[A Brief History of Telescopes](https://runescape.wikia.com/wiki/A_Brief_History_of_Telescopes) is a hidden achievement that requires the player to discover the pieces of a famous quote of Stephen Hawking by examining 4 different telescopes around Gielinor. Although the order for the achievement is irrelevant, the saying received is the sequence of examining:\n\n• Big telescope on 1st floor[UK] floor of the [Observatory](https://runescape.wikia.com/wiki/Observatory), north of [Castle Wars](https://runescape.wikia.com/wiki/Castle_Wars)\n• Telescope in [player-owned house](https://runescape.wikia.com/wiki/Player-owned_house)\n• Telescope in [player-owned port](https://runescape.wikia.com/wiki/Player-owned_port) (requires 3,000 [jade](https://runescape.wikia.com/wiki/Jade_(Player-owned_port) and 2,000 [cherrywood](https://runescape.wikia.com/wiki/Cherrywood) to build)\n• Telescope on 1st floor[UK] floor in [Wise Old Man](https://runescape.wikia.com/wiki/Wise_Old_Man)'s house in [Draynor Village](https://runescape.wikia.com/wiki/Draynor_Village).",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• None"
+				}			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 0"
+			}
+		}
+    },
 	"about 'kin time": {
 		"cmds": ["mqc"],
 		"embed": {
