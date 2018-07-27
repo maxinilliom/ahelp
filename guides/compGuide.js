@@ -2205,7 +2205,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Deep and Bloody Experience](http://runescape.wikia.com/wiki/Deep_and_Bloody_Experience) is an achievement that requires the player to claim the 3x 150,000 combat experience reward after Blood Runs Deep by talking to Brundt the Chieftain.\n\nBrundt the Chieftain is the chieftain of Rellekka, the capital of the Fremennik Province. He is located in the long hall in the centre of town.",
+			"description": "[Deep and Bloody Experience](http://runescape.wikia.com/wiki/Deep_and_Bloody_Experience) is an achievement that requires the player to claim the 3x 150,000 combat experience reward after [Blood Runs Deep](http://runescape.wikia.com/wiki/Blood_Runs_Deep) by talking to [Brundt the Chieftain](http://runescape.wikia.com/wiki/Brundt_the_Chieftain).\n\nBrundt the Chieftain is the chieftain of [Rellekka](http://runescape.wikia.com/wiki/Rellekka), the capital of the [Fremennik Province](http://runescape.wikia.com/wiki/Fremennik_Province). He is located in the long hall in the centre of town.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
