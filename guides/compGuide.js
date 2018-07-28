@@ -7311,21 +7311,39 @@ exports.data = {
 		}
 	},
 	"you be dead": {
-		"cmds": ["comp", "mqc"],
-		"embed": {
 			"title": "You Be Dead",
 			"author": {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[You Be Dead](http://runescape.wikia.com/wiki/You_Be_Dead) is an achievement that requires the player to complete the Hopespear's Will miniquest during which the remains of 5 goblin priests are buried.",
+			"description": "[You Be Dead](http://runescape.wikia.com/wiki/You_Be_Dead) is an achievement that requires the player to complete the [Hopespear's Will](https://runescape.wikia.com/wiki/Hopespear%27s_Will) miniquest during which the remains of 5 [goblin priests](https://runescape.wikia.com/wiki/Goblin_High_Priest) are buried.\n\nThe Goblin priest remains are:\n\n• [Snothead's bone](https://runescape.wikia.com/wiki/Snothead%27s_bone)\n• [Snailfeet's bone](https://runescape.wikia.com/wiki/Snailfeet%27s_bone)\n• [Mosschin's bone](https://runescape.wikia.com/wiki/Mosschin%27s_bone)\n• [Redeyes's bone](https://runescape.wikia.com/wiki/Redeyes%27s_bone)\n• [Strongbones's bone](https://runescape.wikia.com/wiki/Strongbones%27s_bone)",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
 			"fields": [
 				{
+                    "name": "Start Point:",
+                    "value": "• Speak to [Hopespear](https://runescape.wikia.com/wiki/Ghost_(Hopespear) in the Crypt in the [Goblin Temple](https://runescape.wikia.com/wiki/Goblin_Temple) located in the north part of the [Goblin cave](https://runescape.wikia.com/wiki/Goblin_Cave)"
+      			},
+        		{
+                    "name": "Official Difficulty:",
+                    "value": "• None"
+        		},
+        		{
+                    "name": "Official Length:",
+                    "value": "• Short"
+       			},
+        		{
+                    "name": "Items Required:",
+                    "value": "• [Goblin transmogrification potion](https://runescape.wikia.com/wiki/Goblin_potion)\n• [Dramen staff](https://runescape.wikia.com/wiki/Dramen_staff) or [Lunar staff](https://runescape.wikia.com/wiki/Lunar_staff) (Unless [Fairy Tale III - Orks Rift](https://runescape.wikia.com/wiki/Fairy_Tale_III_-_Battle_at_Ork's_Rift) has been completed)\n• [Ring of visibility](https://runescape.wikia.com/wiki/Ring_of_visibility) (Still needed even if the [Gift from Sliske](https://runescape.wikia.com/wiki/Gift_from_Sliske) achievement has been completed)\n• [Ghostspeak amulet](https://runescape.wikia.com/wiki/Ghostspeak_amulet) or [Cramulet](https://runescape.wikia.com/wiki/Cramulet) or [Hard Morytania achievements](https://runescape.wikia.com/wiki/Morytania_achievements#Hard_achievements) (Note: If you have the Cramulet, it will have to be dismantled so you just wear the ghostspeak amulet, otherwise the goblins won't drop their bones. Players can also take off the amulet after speaking to the ghost and before fighting.)"
+        		},
+        		{
+                    "name": "Enemies to Defeat:",
+                    "value": "• [Snothead](https://runescape.wikia.com/wiki/Snothead) (level 19)\n• [Snailfeet](https://runescape.wikia.com/wiki/Snailfeet) (level 25)\n• [Mosschin](https://runescape.wikia.com/wiki/Mosschin) (level 30)\n• [Redeyes](https://runescape.wikia.com/wiki/Redeyes) (level 36)\n• [Strongbones](https://runescape.wikia.com/wiki/Strongbones) (level 36)"
+        		},
+        		{
 					"name": "Requirements:",
-					"value": "• 40 Prayer\n\n• Fairy Tale II - Cure a Queen Quest partial completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Fairy_Tale_II_-_Cure_a_Queen)\n• Desert Treasure Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Desert_Treasure)\n• Land of the Goblins Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Land_of_the_Goblins)"
+					"value": "• 40 Prayer\n\n• Fairy Tale II - Cure a Queen Quest partial completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Fairy_Tale_II_-_Cure_a_Queen)\n• Desert Treasure Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Desert_Treasure)\n• Land of the Goblins Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Land_of_the_Goblins)\n\n• Ability to defeat five foes up to level 36 without any armour or weapons; you may not use Magic attacks or Summon familiars, either."
 				},
 				{
 					"name": "Guide:",
