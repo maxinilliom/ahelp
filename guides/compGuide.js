@@ -2252,7 +2252,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Desert-ed Ghosts](http://runescape.wikia.com/wiki/Desert-ed_Ghosts) is an achievement that requires the player to finish the Curse of Zaros miniquest.",
+			"description": "[Desert-ed Ghosts](http://runescape.wikia.com/wiki/Desert-ed_Ghosts) is an achievement that requires the player to finish the [Curse of Zaros](http://runescape.wikia.com/wiki/The_Curse_of_Zaros) miniquest.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -2280,7 +2280,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Diaries of the Clans](http://runescape.wikia.com/wiki/Diaries_of_the_Clans) is a meta-achievement that requires the player to completely fill the Voice of the Elders by running laps on the Hefin Agility Course. One page is received every 20 laps, and a total of eight are needed to complete the book.",
+			"description": "[Diaries of the Clans](http://runescape.wikia.com/wiki/Diaries_of_the_Clans) is a meta-achievement that requires the player to completely fill the [Voice of the Elders](http://runescape.wikia.com/wiki/Voice_of_the_Elders) by running laps on the [Hefin Agility Course](http://runescape.wikia.com/wiki/Hefin_Agility_Course). One page is received every 20 laps, and a total of eight are needed to complete the book.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -2314,7 +2314,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Diary of Oreb](http://runescape.wikia.com/wiki/Diary_of_Oreb) is an achievement that requires the player to find and obtain all of the The Magister's Journals from either The Magister or monsters in the Sophanem Slayer Dungeon.\n\nIt is recommended to complete this alongside capturing the Soul Devourers' and Corrupted Creatures' souls with Ushabtis. Ensure you pick up each journal as they are received so that the next will spawn.",
+			"description": "[Diary of Oreb](http://runescape.wikia.com/wiki/Diary_of_Oreb) is an achievement that requires the player to find and obtain all of the [The Magister's Journals](http://runescape.wikia.com/wiki/The_Magister%27s_Journal) from either [The Magister](http://runescape.wikia.com/wiki/The_Magister) or monsters in the [Sophanem Slayer Dungeon](http://runescape.wikia.com/wiki/Sophanem_Slayer_Dungeon).\n\nIt is recommended to complete this alongside capturing the [Soul Devourers](http://runescape.wikia.com/wiki/Soul_devourer)' and [Corrupted Creatures](http://runescape.wikia.com/wiki/Corrupted_creature)' souls with [Ushabti](http://runescape.wikia.com/wiki/Ushabti). Ensure you pick up each journal as they are received so that the next will spawn.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -2338,7 +2338,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Diary of the Gods](http://runescape.wikia.com/wiki/Diary_of_the_Gods) is a meta-achievement that requires the player to obtain Zilyana's Notes, The Glory of General Graardor, Armadyl's Assault, Razulei's Tale and Nex's Followers as a drop from the respective bosses in the God Wars Dungeon.\n\nEach book will come with your first unique boss drop from the respective boss, whether it is your drop or your partners.",
+			"description": "[Diary of the Gods](http://runescape.wikia.com/wiki/Diary_of_the_Gods) is a meta-achievement that requires the player to obtain [Zilyana's Notes](http://runescape.wikia.com/wiki/Zilyana%27s_Notes), [The Glory of General Graardor](http://runescape.wikia.com/wiki/The_Glory_of_General_Graardor), [Armadyl's Assault](http://runescape.wikia.com/wiki/Armadyl%27s_Assault), [Razulei's Tale](http://runescape.wikia.com/wiki/Razulei%27s_Tale) and [Nex's Followers](http://runescape.wikia.com/wiki/Nex%27s_Followers) as a drop from the respective bosses in the [God Wars Dungeon](http://runescape.wikia.com/wiki/God_Wars_Dungeon).\n\nEach book will come with your first unique boss drop from the respective boss, whether it is your drop or your partners.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -2366,7 +2366,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Dishonourable Gains](http://runescape.wikia.com/wiki/Dishonourable_Gains) is an achievement that requires the player to open the three chests in Zamorak's hideout during or after Dishonour among Thieves. To teleport to Zamorak's hideout use the communication device.\n\nThe communication device is given by Moia to the player at the beginning of Dishonour among Thieves. It can be used to communicate with Moia, to teleport to Zamorak's hideout underneath Daemonheim and to view the quest cutscenes. If the item is lost at any time, it can be reclaimed from Moldark in Edgeville.",
+			"description": "[Dishonourable Gains](http://runescape.wikia.com/wiki/Dishonourable_Gains) is an achievement that requires the player to open the three chests in [Zamorak's hideout](http://runescape.wikia.com/wiki/Zamorak%27s_hideout) during or after [Dishonour among Thieves](http://runescape.wikia.com/wiki/Dishonour_among_Thieves). To teleport to Zamorak's hideout use the [Communication device](http://runescape.wikia.com/wiki/Communication_device).\n\nThe communication device is given by [Moia](http://runescape.wikia.com/wiki/Moia) to the player at the beginning of Dishonour among Thieves. It can be used to communicate with Moia, to teleport to Zamorak's hideout underneath [Daemonheim](http://runescape.wikia.com/wiki/Daemonheim) and to view the quest cutscenes. If the item is lost at any time, it can be reclaimed from [Moldark]http://runescape.wikia.com/wiki/Moldark) in [Edgeville](http://runescape.wikia.com/wiki/Edgeville).",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -2390,7 +2390,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Dishonourable Loot](http://runescape.wikia.com/wiki/Dishonourable_Loot) is an achievement that requires the player to open the six chests (excluding the one found at Jerrod, since the location is inaccessible after the quest) that are found along the way during Dishonour among Thieves.\n\nChest Locations: \n• West end of Zamorak's hideout\n• Behind the Handelmort Mansion in the cellar where Jerrod was kept (inaccessible after the quest)\n• Inside the Ruins of Uzer, near General Khazard \n• Black Knights' Base, near Lord Daquarius\n• Zemouregal's fort, on the east side of the ground floor, accessible from Trollweiss Mountain\n• South of Barrows, near the entrance to Sliske's lair",
+			"description": "[Dishonourable Loot](http://runescape.wikia.com/wiki/Dishonourable_Loot) is an achievement that requires the player to open the six chests (excluding the one found at [Jerrod](http://runescape.wikia.com/wiki/Jerrod), since the location is inaccessible after the quest) that are found along the way during [Dishonour among Thieves](http://runescape.wikia.com/wiki/Dishonour_among_Thieves).\n\nChest Locations: \n• West end of [Zamorak's hideout](http://runescape.wikia.com/wiki/Zamorak%27s_hideout)\n• Behind the [Handelmort Mansion](http://runescape.wikia.com/wiki/Handelmort_Mansion) in the cellar where Jerrod was kept (inaccessible after the quest)\n• Inside the [Ruins of Uzer](http://runescape.wikia.com/wiki/Uzer), near [General Khazard](http://runescape.wikia.com/wiki/General_Khazard) \n• [Black Knights' Base](http://runescape.wikia.com/wiki/Black_Knights%27_Base), near [Lord Daquarius](http://runescape.wikia.com/wiki/Lord_Daquarius)\n• [Zemouregal's fort](http://runescape.wikia.com/wiki/Zemouregal%27s_fort), on the east side of the ground floor, accessible from [Trollweiss Mountain](http://runescape.wikia.com/wiki/Trollweiss_Mountain)\n• South of [Barrows](http://runescape.wikia.com/wiki/Barrows), near the entrance to [Sliske's lair](http://runescape.wikia.com/wiki/Sliske%27s_lair)",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -2414,7 +2414,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Distorted Div](http://runescape.wikia.com/wiki/Distorted_Div) is an achievement that requires the player to claim the one-time Divination XP from a distorted engrammeter.\n\nThe engrammeter is an item given to the player by Kharshai to collect Mahjarrat Memories, charged by 500 Divine memories of Vibrant or higher. It is used in the Mahjarrat Memories miniquest, starting out depleted but becoming charged as memories are collected.\n\nAfter the player brings all 15 memories to Kharshai, he will state that the Engrammeter might be useful on Freneskae if the player is ever able to go there.\n\nThe distorted engrammeter can be re-obtained from Kharshai. Kharshai will not detect if the player is already holding one, making it possible to obtain multiple copies.",
+			"description": "[Distorted Div](http://runescape.wikia.com/wiki/Distorted_Div) is an achievement that requires the player to claim the one-time Divination XP from a [Distorted engrammeter](http://runescape.wikia.com/wiki/Distorted_engrammeter).\n\nThe [Engrammeter](http://runescape.wikia.com/wiki/Engrammeter) is an item given to the player by [Kharshai](http://runescape.wikia.com/wiki/Kharshai) to collect Mahjarrat Memories, charged by 500 Divine [Memories](http://runescape.wikia.com/wiki/Memory) of Vibrant or higher. It is used in the [Mahjarrat Memories](http://runescape.wikia.com/wiki/Mahjarrat_Memories) miniquest, starting out depleted but becoming charged as memories are collected.\n\nAfter the player brings all 15 memories to Kharshai, he will state that the Engrammeter might be useful on [Freneskae](http://runescape.wikia.com/wiki/Freneskae) if the player is ever able to go there.\n\nThe distorted engrammeter can be re-obtained from Kharshai. Kharshai will not detect if the player is already holding one, making it possible to obtain multiple copies.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -2442,14 +2442,14 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Do a Minion, Take Notes](http://runescape.wikia.com/wiki/Do_a_Minion,_Take_Notes) is an achievement that requires the player to fill a dominion journal with twenty journal pages, obtained from playing the Dominion Tower.\n\nIt seems that the chances of getting a page increase the higher one's dominion factor gets. An effective way to do this is to do Climber Mode and fighting to as high as possible, as your dominion factor accumulates very fast in this mode. Reaching floor 20 will often yield over 200,000 dominion factor, which usually results in one or two journal pages upon opening the rewards box.\n\nIf, however, you come across a boss you don't think you will be able to defeat, it is better to end climber mode and collect the reward than to die fighting the boss, as your dominion factor will be greatly reduced upon death.",
+			"description": "[Do a Minion, Take Notes](http://runescape.wikia.com/wiki/Do_a_Minion,_Take_Notes) is an achievement that requires the player to fill a [Dominion journal](http://runescape.wikia.com/wiki/Dominion_journal) with twenty [Journal pages](http://runescape.wikia.com/wiki/A_journal_page), obtained from playing the [Dominion Tower](http://runescape.wikia.com/wiki/Dominion_Tower).\n\nIt seems that the chances of getting a page increase the higher one's [Dominion factor](http://runescape.wikia.com/wiki/Dominion_Factor) gets. An effective way to do this is to do Climber Mode and fighting to the highest floor possible, as your dominion factor accumulates very fast in this mode. Reaching floor 20 will often yield over 200,000 dominion factor, which usually results in one or two journal pages upon opening the rewards box.\n\nIf, however, you come across a boss you don't think you will be able to defeat, it is better to end climber mode and collect the reward than to die fighting the boss, as your dominion factor will be greatly reduced upon death.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
 			"fields": [
 				{
 					"name": "Requirements:",
-					"value": "• Completion of at least 20 of the following quests | [Runescape Wiki](http://runescape.wikia.com/wiki/Dominion_Tower#Requirements)"
+					"value": "• Completion of at least 20 of the listed quests | [Runescape Wiki](http://runescape.wikia.com/wiki/Dominion_Tower#Requirements)"
 				}
 			],
 			"footer": {
@@ -2466,7 +2466,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Do No Elite](http://runescape.wikia.com/wiki/Do_No_Elite) is an achievement that requires the player claim the elite clue scroll while using Ava's alerter after completing Do No Evil. There are four possible locations where the elite clue scroll can be found.\n\nDig where it bwuks four times just like in the quest. If the alerter fails to detect anything, move onto the next location.\n\nIsafdar:\nStart in Lletya. Run west out of Lletya, cross the tripwire, and go through the dense forest to the northwest. Next, go northeast and hop over the leaves. In the next clearing your alerter should start bwuking.\n\nLunar Isle:\nThe scroll can be found on the southwest part of the island, west of the astral altar and south of the city, slightly west of the little peninsula.\n\nIceberg:\nOn the iceberg from the penguin quests. After getting off the boat, run north-west to the giant ice column that you can see on the minimap. It's on the north-western side of the column.\n\nMeiyerditch:\nThe easiest method is to use Drakan's medallion to teleport to Meiyerditch Laboratories, then make the quick trek southwards. If Drakan's Medallion is unavailable, take the boat from Burgh de Rott and get caught by a Vyrewatch. Choose to do hard labor and get sent to the mines. Ask a miner for a spare pickaxe, mine 15 daeyalt ore, deposit them in the mine cart, and then talk to one of the guards to be let out. Then run south along the eastern wall. The spot is in an indent in the wall (on the minimap), right next to a sitting child.",
+			"description": "[Do No Elite](http://runescape.wikia.com/wiki/Do_No_Elite) is an achievement that requires the player claim the [Elite clue scroll](http://runescape.wikia.com/wiki/Clue_scroll_(elite)) while using [Ava's alerter](http://runescape.wikia.com/wiki/Ava%27s_alerter) after completing [Do No Evil](http://runescape.wikia.com/wiki/Do_No_Evil). There are [four possible locations](http://runescape.wikia.com/wiki/Ava%27s_alerter#Elite_clue_scroll) where the elite clue scroll can be found.\n\nDig where it bwuks four times just like in the quest. If the alerter fails to detect anything, move onto the next location.\n\nPossible locations:\n\nIsafdar:\nStart in [Lletya](http://runescape.wikia.com/wiki/Lletya). Run west out of Lletya, cross the tripwire, and go through the dense forest to the northwest. Next, go northeast and hop over the leaves. In the next clearing your alerter should start bwuking.\n\n[Lunar Isle](http://runescape.wikia.com/wiki/Lunar_Isle):\nThe scroll can be found on the southwest part of the island, west of the [Astral altar](http://runescape.wikia.com/wiki/Astral_Altar) and south of the city, slightly west of the little peninsula.\n\n[Iceberg](http://runescape.wikia.com/wiki/Iceberg):\nOn the iceberg from the [Penguin quests](http://runescape.wikia.com/wiki/Penguin_series). After getting off the boat, run north-west to the giant ice column that you can see on the minimap. It's on the north-western side of the column.\n\n[Meiyerditch](http://runescape.wikia.com/wiki/Meiyerditch):\nThe easiest method is to use [Drakan's medallion](http://runescape.wikia.com/wiki/Drakan%27s_medallion) to teleport to [Meiyerditch Laboratories](http://runescape.wikia.com/wiki/Meiyerditch_Laboratories), then make the quick trek southwards. If Drakan's Medallion is unavailable, take the boat from [Burgh de Rott](http://runescape.wikia.com/wiki/Burgh_de_Rott) and get caught by a [Vyrewatch](http://runescape.wikia.com/wiki/Vyrewatch). Choose to do hard Load_of_Bakullar and get sent to the mines. Ask a miner for a spare pickaxe, mine 15 daeyalt ore, deposit them in the mine cart, and then talk to one of the guards to be let out. Then run south along the eastern wall. The spot is in an indent in the wall (on the minimap), right next to a sitting child.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -2490,7 +2490,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Don't Fear the Ripper](http://runescape.wikia.com/wiki/Don%27t_Fear_the_Ripper) is an achievement that requires the player to find and obtain all five miner's journals and the diary of Jebediah Omnis from Ripper Demons.",
+			"description": "[Don't Fear the Ripper](http://runescape.wikia.com/wiki/Don%27t_Fear_the_Ripper) is an achievement that requires the player to find and obtain all five [Miner's journals](http://runescape.wikia.com/wiki/Miner%27s_journal) and [The diary of Jebediah Omnis](http://runescape.wikia.com/wiki/The_diary_of_Jebediah_Omnis) from [Ripper Demons](http://runescape.wikia.com/wiki/Ripper_Demon).",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -2518,7 +2518,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Dragonkin Logs](http://runescape.wikia.com/wiki/Dragonkin_Logs) is an achievement that requires the player to kill adamant dragons in the Dragonkin Lair until they dropped all four journals.\n\nThe Dragonkin Lair is a lair found in the Ancient Cavern south of Kuradal. It is initially accessed with the dragon-mithril key.",
+			"description": "[Dragonkin Logs](http://runescape.wikia.com/wiki/Dragonkin_Logs) is an achievement that requires the player to kill [Adamant dragons](http://runescape.wikia.com/wiki/Adamant_dragon) in the [Dragonkin Lair](http://runescape.wikia.com/wiki/Dragonkin_Lair) until they drop all four journals.\n\nThe Dragonkin Lair is a lair found in the [Ancient Cavern](http://runescape.wikia.com/wiki/Ancient_Cavern) south of [Kuradal](http://runescape.wikia.com/wiki/Kuradal). It is initially accessed with the [Dragon-mithril key](http://runescape.wikia.com/wiki/Dragon-mithril_key).",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
