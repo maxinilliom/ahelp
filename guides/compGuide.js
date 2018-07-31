@@ -2138,7 +2138,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Deadlier Catch](http://runescape.wikia.com/wiki/Deadlier_Catch) is an achievement that requires the player to hunt the [Thalassus](http://runescape.wikia.com/wiki/Thalassus) another ten times after completion of [Deadliest Catch](http://runescape.wikia.com/wiki/Deadliest_Catch).\n\nThalassus is a massive fish that originates from the [Wushanko Isles](http://runescape.wikia.com/wiki/Wushanko_Isles) and is featured in the Deadliest Catch quest.",
+			"description": "[Deadlier Catch](http://runescape.wikia.com/wiki/Deadlier_Catch) is an achievement that requires the player to hunt the [Thalassus](http://runescape.wikia.com/wiki/Thalassus) another ten times after completion of [Deadliest Catch](http://runescape.wikia.com/wiki/Deadliest_Catch).\n\nThalassus is a massive fish that originates from the [Wushanko Isles](http://runescape.wikia.com/wiki/Wushanko_Isles) and is featured in the Deadliest Catch quest.\n\nTo begin these hunts, talk to [Jones](https://runescape.wikia.com/wiki/Jones) outside the bank in the [Fishing Guild](https://runescape.wikia.com/wiki/Fishing_Guild). During the last three hunts, the sea wind will blow and disorient the player, rotating the camera's viewpoint. Players can easily correct for this by rotating back to face north. Once it has been hunted ten times, Thalassus will flee to another part of the sea and is unable to be hunted again.\n\nIf the player turns their run energy off then no energy will be consumed. During the activity, 'The Guns' energy is equal to the player's run energy. The [Oo'glog](https://runescape.wikia.com/wiki/Oo%27glog) salt-water spring [spa](https://runescape.wikia.com/wiki/Spa) can be used for 10–25 minutes of practically infinite energy for 'The Guns' to use.\n\nWhile the path changes for each hunt, the location of the shipwrecks is fixed. [This blank map](https://runescape.wikia.com/wiki/File:Thallasus_map.png) may be used as an easier way to track down the Thalassus. It is recommended to mark each shipwreck which leads the player along the trail.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -2247,30 +2247,50 @@ exports.data = {
 	"desert-ed ghosts": {
 		"cmds": ["comp"],
 		"embed": {
-			"title": "Desert-ed Ghosts",
-			"author": {
-				"name": "Cape Info",
-				"icon_url": "https://i.imgur.com/6c6q2iC.png"
-			},
-			"description": "[Desert-ed Ghosts](http://runescape.wikia.com/wiki/Desert-ed_Ghosts) is an achievement that requires the player to finish the [Curse of Zaros](http://runescape.wikia.com/wiki/The_Curse_of_Zaros) miniquest.",
-			"thumbnail": {
-				"url": "https://i.imgur.com/Shmagnp.png"
-			},
-			"fields": [
-				{
-					"name": "Requirements:",
-					"value": "• Desert Treasure Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Desert_Treasure)"
-				},
-				{
-					"name": "Guide:",
-					"value": "[The Curse of Zaros Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/The_Curse_of_Zaros)"
-				}
-			],
-			"footer": {
-				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-				"text": "Runescore awarded: 15"
-			}
-		}
+                        "title": "Desert-ed Ghosts",
+                        "author": {
+                                "name": "Cape Info",
+                                "icon_url": "https://i.imgur.com/6c6q2iC.png"
+                        },
+                        "description": "[Desert-ed Ghosts](http://runescape.wikia.com/wiki/Desert-ed_Ghosts) is an achievement that requires the player to finish the [Curse of Zaros](http://runescape.wikia.com/wiki/The_Curse_of_Zaros) miniquest.\n\nThe Curse of Zaros is a miniquest following the events of [Desert Treasure](https://runescape.wikia.com/wiki/Desert_Treasure), allowing the player to obtain a set of [ghostly robes](https://runescape.wikia.com/wiki/Ghostly_robes). Ghostly robes is a set of magic armour that makes the wearer translucent.",
+                        "thumbnail": {
+                                "url": "https://i.imgur.com/Shmagnp.png"
+                        },
+                        "fields": [
+                                                        {
+                    "name": "Start Point:",
+                    "value": "• Speak to to the Mysterious ghost ([Valdez](https://runescape.wikia.com/wiki/Mysterious_ghost_(Valdez)) near [Glarial's tombstone](https://runescape.wikia.com/wiki/Glarial%27s_tombstone), which serves as the entrance to [Glarial's Tomb](https://runescape.wikia.com/wiki/Glarial%27s_Tomb)"
+                              },
+                        {
+                    "name": "Official Difficulty:",
+                    "value": "• None"
+                        },
+                        {
+                    "name": "Official Length:",
+                    "value": "• Medium-Long"
+                               },
+                        {
+                    "name": "Items Required:",
+                    "value": "• [Ring of visibility](https://runescape.wikia.com/wiki/Ring_of_visibility)\n• [Ghostspeak amulet](https://runescape.wikia.com/wiki/Ghostspeak_amulet) or [Cramulet](https://runescape.wikia.com/wiki/Cramulet) (Note: After you have completed the [Hard Morytania tasks](https://runescape.wikia.com/wiki/Morytania_achievements#Hard_achievements), you can speak with the ghosts without the amulets.)"
+                        },
+                        {
+                    "name": "Enemies to Defeat:",
+                    "value": "• None"
+                        },
+            {
+                                        "name": "Requirements:",
+                                        "value": "• 31 Prayer (If [Dhalak](https://runescape.wikia.com/wiki/Mysterious_ghost_(Dhalak) is at the [Edgeville Monastery](https://runescape.wikia.com/wiki/Monastery_of_Saradomin))\n• 15 Agility (If [Viggora](https://runescape.wikia.com/wiki/Viggora) is in [Edgeville Dungeon](https://runescape.wikia.com/wiki/Edgeville_Dungeon))\n\n• Desert Treasure Quest partial completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Desert_Treasure)\n• The Restless Ghost Quest partial completion | [Runescape Wiki](https://runescape.wikia.com/wiki/The_Restless_Ghost)"
+                                },
+                                {
+                                        "name": "Guide:",
+                                        "value": "[The Curse of Zaros Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/The_Curse_of_Zaros)"
+                                }
+                        ],
+                        "footer": {
+                                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+                                "text": "Runescore awarded: 15"
+                        }
+                }
 	},
 	"diaries of the clans": {
 		"cmds": ["comp", "mqc"],
@@ -3564,7 +3584,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Ivan is Flailing](http://runescape.wikia.com/wiki/Ivan_is_Flailing) is an achievement that requires the player to fully upgrade the Ivandis flail by burning 500 vyre corpses in the Columbarium. Kills completed by using Sunspear or any of its reformed versions DO NOT count towards the total.\n\nThis also upgrades blisterwood weapons.",
+			"description": "[Ivan is Flailing](http://runescape.wikia.com/wiki/Ivan_is_Flailing) is an achievement that requires the player to fully upgrade the [Ivandis flail](https://runescape.wikia.com/wiki/Ivandis_flail) by burning 500 [vyre corpses](https://runescape.wikia.com/wiki/Vyre_corpse) in the [Columbarium](https://runescape.wikia.com/wiki/Columbarium).\n\nA vyre corpse is the body of a slain [Vyrewatch](https://runescape.wikia.com/wiki/Vyrewatch), [Vyrelord](https://runescape.wikia.com/wiki/Vyrelord), or [Vyrelady](https://runescape.wikia.com/wiki/Vyrelady). Vyre corpses stack in both the inventory and bank so players will find they can stay longer while killing them as their [inventory](https://runescape.wikia.com/wiki/Inventory) does not fill up with individual corpses.\n\nThe fastest way to reach the Columbarium is by using a [ring of slaying](https://runescape.wikia.com/wiki/Ring_of_slaying) to teleport to the [Slayer Tower](https://runescape.wikia.com/wiki/Slayer_Tower), and running to the [Paterdomus temple](https://runescape.wikia.com/wiki/Paterdomus) or using fairy ring **c•k•s** which will bring you just southeast of the bridge near the trapdoor entrance to the temple.\n\nKills completed by using [Sunspear](https://runescape.wikia.com/wiki/Sunspear) or any of its reformed versions DO NOT count towards the total.\n\nThis also upgrades [blisterwood weapons](https://runescape.wikia.com/wiki/Blisterwood#Weapons).",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -3724,25 +3744,45 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Kharshai's Memories](http://runescape.wikia.com/wiki/Kharshai%27s_Memories) is an achievement that requires the player to obtain all 15 memories for Kharshai during the Mahjarrat Memories miniquest and finish the miniquest.",
-			"thumbnail": {
-				"url": "https://i.imgur.com/Shmagnp.png"
-			},
-			"fields": [
-				{
-					"name": "Requirements:",
-					"value": "• 60 Divination\n\n• Koschei's Troubles Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Koschei%27s_Troubles)\n• Missing, Presumed Death Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Missing,_Presumed_Death)"
-				},
-				{
-					"name": "Guide:",
-					"value": "[Mahjarrat Memories Miniquest Guide | Runescape Wiki](http://runescape.wikia.com/wiki/Mahjarrat_Memories)"
-				}
-			],
-			"footer": {
-				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-				"text": "Runescore awarded: 15"
-			}
-		}
+			"description": "[Kharshai's Memories](http://runescape.wikia.com/wiki/Kharshai%27s_Memories) is an achievement that requires the player to obtain all 15 memories for [Kharshai](https://runescape.wikia.com/wiki/Kharshai) during the [Mahjarrat Memories miniquest](https://runescape.wikia.com/wiki/Mahjarrat_Memories) and finish the miniquest.\n\nMahjarrat Memories is a miniquest wherein players help the [Mahjarrat](https://runescape.wikia.com/wiki/Mahjarrat) [Kharshai](https://runescape.wikia.com/wiki/Kharshai) recover the memories of some of his kin - both dead and alive - so he can learn what they've been up to. There are 15 memories in total, and they reveal information on the [Zarosian](https://runescape.wikia.com/wiki/Zaros) empire, [demons](https://runescape.wikia.com/wiki/Demon) and the Mahjarrat themselves.\n\nEach Mahjarrat mentioned in [Zemouregal's notes](https://runescape.wikia.com/wiki/Zemouregal%27s_notes) has their own memory, with the exception of [Zamorak](https://runescape.wikia.com/wiki/Zamorak), because he has become a [god](https://runescape.wikia.com/wiki/Gods), and [Khazard](https://runescape.wikia.com/wiki/General_Khazard) and [Moia](https://runescape.wikia.com/wiki/Moia), because they did not exist in the [Second Age](https://runescape.wikia.com/wiki/Second_Age).\n\nIf a player is also yet to complete the [You're Not My Real Mah](https://runescape.wikia.com/wiki/You%27re_Not_My_Real_Mah) achievement and plans on doing so in the future, it may be beneficial to gather the required memories in the [Elder Halls](https://runescape.wikia.com/wiki/Elder_Halls) so they can also begin obtaining [Elder chronicles](https://runescape.wikia.com/wiki/Elder_chronicle_(item). This effectively completes both requirements at the same time.",
+                        "thumbnail": {
+                                "url": "https://i.imgur.com/Shmagnp.png"
+                        },
+                        "fields": [
+                                                        {
+                    "name": "Start Point:",
+                    "value": "• Speak to Kharshai under [Thorvald the Warrior](https://runescape.wikia.com/wiki/Thorvald_the_Warrior)'s house in [Rellekka](https://runescape.wikia.com/wiki/Rellekka)"
+                              },
+                        {
+                    "name": "Official Difficulty:",
+                    "value": "• None"
+                        },
+                        {
+                    "name": "Official Length:",
+                    "value": "• Very, Very Long"
+                               },
+                        {
+                    "name": "Items Required:",
+                    "value": "• 7500 [Vibrant memories](https://runescape.wikia.com/wiki/Vibrant_memory) (or memories of a higher tier); enriched memories count for double (collected during miniquest)\n• [Invitation box](https://runescape.wikia.com/wiki/Invitation_box) (for Sliske's memory)\n• [Insulated boots](https://runescape.wikia.com/wiki/Insulated_boots) (for Zemouregal's memory)\n• [Macaw pouch](https://runescape.wikia.com/wiki/Macaw_pouch) or [Ravenous locust pouch](https://runescape.wikia.com/wiki/Ravenous_locust_pouch) (for Zemouregal's memory)"
+                        },
+                        {
+                    "name": "Enemies to Defeat:",
+                    "value": "• None"
+                        },
+            {
+                                        "name": "Requirements:",
+                                        "value": "• 60 Divination\n\n• Missing, Presumed Death Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Missing,_Presumed_Death)\n• Koschei's Troubles Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Koschei%27s_Troubles)"
+                                },
+                                {
+                                        "name": "Guide:",
+                                        "value": "[Mahjarrat Memories Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Mahjarrat_Memories)"
+                                }
+                        ],
+                        "footer": {
+                                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+                                "text": "Runescore awarded: 15"
+                        }
+                }
 	},
 	"kiln fighter": {
 		"cmds": ["comp"],
@@ -3780,12 +3820,32 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Koschei's Cache](http://runescape.wikia.com/wiki/Koschei%27s_Cache) is a meta-achievement that requires the player to complete Koschei's Troubles and change the jewel's colour to blue, green and red.",
+			"description": "[Koschei's Cache](http://runescape.wikia.com/wiki/Koschei%27s_Cache) is a meta-achievement that requires the player to complete [Koschei's Troubles](https://runescape.wikia.com/wiki/Koschei%27s_Troubles) and change the jewel's color to [blue](https://runescape.wikia.com/wiki/Blue_jewel), [green](https://runescape.wikia.com/wiki/Green_jewel), and [red](https://runescape.wikia.com/wiki/Red_jewel).\n\nKoschei's Troubles is a short miniquest revolving around the mind-wiping and history of [Fremennik](https://runescape.wikia.com/wiki/Fremennik) champion [Koschei the deathless](https://runescape.wikia.com/wiki/Koschei_the_Deathless). He was found years ago by the Fremennik, washed ashore without memory of his identity, after which he was made a Fremennik warrior.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
 			"fields": [
-				{
+							{
+                    "name": "Start Point:",
+                    "value": "• Speak to [Thorvald the Warrior](https://runescape.wikia.com/wiki/Thorvald_the_Warrior) in [Skulgrimen's Battle Gear](https://runescape.wikia.com/wiki/Skulgrimen%27s_Battle_Gear) in Rellekka"
+      			},
+        		{
+                    "name": "Official Difficulty:",
+                    "value": "• None"
+        		},
+        		{
+                    "name": "Official Length:",
+                    "value": "• Short"
+       			},
+        		{
+                    "name": "Items Required:",
+                    "value": "• [Balmung](https://runescape.wikia.com/wiki/Balmung)"
+        		},
+        		{
+                    "name": "Enemies to Defeat:",
+                    "value": "• None"
+        		},
+            {
 					"name": "Requirements:",
 					"value": "• 90 Strength\n• 90 Prayer\n\n• Blood Runs Deep Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Blood_Runs_Deep)\n• Ritual of the Mahjarrat Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Ritual_of_the_Mahjarrat)"
 				},
@@ -3808,20 +3868,44 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Kudos to You](http://runescape.wikia.com/wiki/Kudos_to_You) is an achievement that requires the player to obtain all available Kudos by helping out the Varrock Museum. Players can speak to the Information clerk on the ground floor of the Varrock Museum to receive suggestions on how to receive more Kudos.\n\nA player can earn a maximum of 198 kudos in the Varrock Museum activity through 5 different methods:\n• by cleaning finds. You must also be wearing leather gloves and leather boots, and have a trowel, a rock pick, and a specimen brush. All can be obtained from the tool rack on the south wall in the museum. (50 kudos)\n• by answering a [National History quiz](http://runescape.wikia.com/wiki/Natural_history_quiz) about museum exhibits, by speaking to Orlando Smith, who is a natural historian found on the basement floor of the Varrock Museum (or Mark Brodie, who is found at the same location, if you have completed The World Wakes) and reading the plaques on the basement exhibits (28 kudos)\n• by relating details of certain completed quests to Historian Minas, who is a Varrock Museum employee and can be found on the 1st floor, near the staircase (currently 95 kudos)\n• by completing the [Dahmaroc statue](http://runescape.wikia.com/wiki/Dahmaroc_statue) for the first time (10 kudos)\n• by completing dragonkin related quests and tasks and talking to Mr. Mordaut, who is located behind the door at the back of the stairs to the Varrock Museum basement. (15 kudos)",
+			"description": "[Kudos to You](http://runescape.wikia.com/wiki/Kudos_to_You) is an achievement that requires the player to obtain all available [Kudos](https://runescape.wikia.com/wiki/Kudos) by helping out the [Varrock Museum](https://runescape.wikia.com/wiki/Varrock_Museum). Players can speak to the [Information clerk](https://runescape.wikia.com/wiki/Information_clerk) on the ground floor of the Varrock Museum to receive suggestions on how to receive more Kudos.\n\nA player can earn a maximum of 198 kudos in the Varrock Museum activity through 5 different methods:",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
 			"fields": [
 				{
+					"name": "​",
+					"value": "• Cleaning [finds](https://runescape.wikia.com/wiki/Kudos#Cleaning_finds). You must be wearing [leather gloves](https://runescape.wikia.com/wiki/Leather_gloves) and [leather boots](https://runescape.wikia.com/wiki/Leather_boots), and have a [trowel](https://runescape.wikia.com/wiki/Trowel), a [rock pick](https://runescape.wikia.com/wiki/Rock_pick), and a [specimen brush](https://runescape.wikia.com/wiki/Specimen_brush). All can be obtained from the tool rack on the south wall in the museum **(50 kudos)**"
+				},
+        {
+					"name": "​",
+					"value": "• Answering a [National History quiz](http://runescape.wikia.com/wiki/Natural_history_quiz) about museum exhibits, by speaking to [Orlando Smith](https://runescape.wikia.com/wiki/Orlando_Smith), who is a natural historian found on the basement floor of the Varrock Museum. If you have completed [The World Wakes](https://runescape.wikia.com/wiki/The_World_Wakes) quest, it will then be [Mark Brodie](https://runescape.wikia.com/wiki/Mark_Brodie) instead, who is found at the same location. The player must then read all the plaques on the basement exhibits **(28 kudos)**"
+				},
+        {
+					"name": "​",
+					"value": "• By relating details of [certain completed quests](https://runescape.wikia.com/wiki/Kudos#Completing_Quests) to [Historian Minas](https://runescape.wikia.com/wiki/Historian_Minas), who is a Varrock Museum employee and can be found on the 1st floor[UK], near the staircase **(currently 95 kudos)**"
+				},
+        {
+					"name": "​",
+					"value": "• Completing the [Dahmaroc statue](http://runescape.wikia.com/wiki/Dahmaroc_statue) for the first time **(10 kudos)**"
+				},
+        {
+					"name": "​",
+					"value": "• Completing [dragonkin](https://runescape.wikia.com/wiki/Dragonkin) related [quests and tasks](https://runescape.wikia.com/wiki/Kudos#Mr._Mordaut) and talking to [Mr. Mordaut](https://runescape.wikia.com/wiki/Mr._Mordaut), who is located behind the door at the back of the stairs to the Varrock Museum basement **(15 kudos)**"
+				},
+        {
 					"name": "Requirements:",
 					"value": "• The Curse of Zaros Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Curse_of_Zaros)\n• Defender of Varrock Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Defender_of_Varrock)\n• Demon Slayer Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Demon_Slayer)\n• Glorious Memories Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Glorious_Memories)\n• The Grand Tree Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Grand_Tree)\n• Hazeel Cult Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Hazeel_Cult)\n• In Aid of the Myreque Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/In_Aid_of_the_Myreque)\n• Making History Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Making_History)\n• Meeting History Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Meeting_History)"
 				},
 				{
-					"name": "Requirements continued:",
-					"value": "• Merlin's Crystal Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Merlin%27s_Crystal)\n• Observatory Quest Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Observatory_Quest)\n• Priest in Peril Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Priest_in_Peril)\n• Rune Mysteries Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Rune_Mysteries)\n• Shield of Arrav Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Shield_of_Arrav)\n• A Tail of Two Cats Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/A_Tail_of_Two_Cats)\n• Temple of Ikov Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Temple_of_Ikov)\n• What Lies Below Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/What_Lies_Below)"
+					"name": "​",
+					"value": "• Merlin's Crystal Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Merlin%27s_Crystal)\n• Observatory Quest Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Observatory_Quest)\n• Priest in Peril Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Priest_in_Peril)\n• Rune Mysteries Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Rune_Mysteries)\n• Shield of Arrav Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Shield_of_Arrav)\n• A Tail of Two Cats Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/A_Tail_of_Two_Cats)\n• Temple of Ikov Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Temple_of_Ikov)\n• What Lies Below Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/What_Lies_Below)\n• Ritual of the Mahjarrat Quest completion | [Runescape Wiki](https://runescape.wikia.com/wiki/Ritual_of_the_Mahjarrat)"
 				},
 				{
+					"name": "​",
+					"value": "• Kill the [King Black Dragon](https://runescape.wikia.com/wiki/King_Black_Dragon) \n• Defeat the [Queen Black Dragon](https://runescape.wikia.com/wiki/Queen_Black_Dragon)"
+				},
+        {
 					"name": "Guide:",
 					"value": "[Kudos | Runescape Wiki](http://runescape.wikia.com/wiki/Kudos)"
 				}
@@ -4047,19 +4131,37 @@ exports.data = {
 	"lost toys": {
 		"cmds": ["comp"],
 		"embed": {
-			"title": "Lost Toys",
-			"author": {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Lost Toys](http://runescape.wikia.com/wiki/Kharshai%27s_Memories) is an achievement that requires the player to complete The Lost Toys miniquest.\n\nPlayers can begin the event by speaking to Lex who is located in the Hair of the Dog inn in Canifis. The player hunts for 13 plushies lost throughout Morytania.",
+			"description": "[Lost Toys](http://runescape.wikia.com/wiki/Kharshai%27s_Memories) is an achievement that requires the player to complete [The Lost Toys](https://runescape.wikia.com/wiki/The_Lost_Toys) miniquest.\n\nThe player hunts for 13 plushies lost throughout Morytania. Completion of quests in the [Myreque quest series](https://runescape.wikia.com/wiki/Myreque_quest_series) is recommended, as some of the toys are located in areas used in the quests.\n\nThe toys are:\n\n• [Mr Bitey](https://runescape.wikia.com/wiki/Mr_Bitey)\n• [Count Snugula](https://runescape.wikia.com/wiki/Count_Snugula)\n• [Drakemon](https://runescape.wikia.com/wiki/Drakemon)\n• [Draccles]()\n• [Booboo](https://runescape.wikia.com/wiki/Booboo)\n• [Scare Bear](https://runescape.wikia.com/wiki/Scare_Bear)\n• [Vamplushie](https://runescape.wikia.com/wiki/Vamplushie)\n• [Fangs](https://runescape.wikia.com/wiki/Fangs)\n• [Vlad the Embracer](https://runescape.wikia.com/wiki/Vlad_the_Embracer)\n• [Mr Puddles](https://runescape.wikia.com/wiki/Mr_Puddles)\n• [Heartless](https://runescape.wikia.com/wiki/Heartless)\n• [Blushie](https://runescape.wikia.com/wiki/Blushie)\n• [My Little Vanstrom](https://runescape.wikia.com/wiki/My_Little_Vanstrom)\n• [Draccles](https://runescape.wikia.com/wiki/Draccles)",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
 			"fields": [
-				{
+							{
+                    "name": "Start Point:",
+                    "value": "• Speak to [Lex](https://runescape.wikia.com/wiki/Lex) who is located in the [Hair of the Dog](https://runescape.wikia.com/wiki/Hair_of_the_Dog) inn in [Canifis](https://runescape.wikia.com/wiki/Canifis)"
+      			},
+        		{
+                    "name": "Official Difficulty:",
+                    "value": "• None"
+        		},
+        		{
+                    "name": "Official Length:",
+                    "value": "• Short"
+       			},
+        		{
+                    "name": "Items Required:",
+                    "value": "• None, but several [teleport items](https://runescape.wikia.com/wiki/The_Lost_Toys#Recommended_teleport_items) are recommended"
+        		},
+        		{
+                    "name": "Enemies to Defeat:",
+                    "value": "• None"
+        		},
+            {
 					"name": "Requirements:",
-					"value": "• The Lord of the Vampyrium Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Lord_of_Vampyrium)"
+					"value": "• The Lord of the Vampyrium Quest partial completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Lord_of_Vampyrium)"
 				},
 				{
 					"name": "Guide:",
@@ -4338,14 +4440,34 @@ exports.data = {
                 "name": "Cape Info",
                 "icon_url": "https://i.imgur.com/6c6q2iC.png"
             },
-            "description": "[Master Otto](https://runescape.wikia.com/wiki/Master_Otto) is an achievement that requires the player to complete all of the [Barbarian Training](https://runescape.wikia.com/wiki/Barbarian_Training) with [Otto Godblessed](https://runescape.wikia.com/wiki/Otto_Godblessed). Barbarian Training is a set of expansions to Firemaking, Herblore, Fishing and Smithing. This activity also provides access to the [Ancient Cavern](https://runescape.wikia.com/wiki/Ancient_Cavern). Otto can be found south-west of the Ancient Cavern entrance.",
+            "description": "[Master Otto](https://runescape.wikia.com/wiki/Master_Otto) is an achievement that requires the player to complete all of the [Barbarian Training](https://runescape.wikia.com/wiki/Barbarian_Training) with [Otto Godblessed](https://runescape.wikia.com/wiki/Otto_Godblessed). Barbarian Training is a set of expansions to Firemaking, Herblore, Fishing and Smithing. This activity also provides access to the [Ancient Cavern](https://runescape.wikia.com/wiki/Ancient_Cavern).",
             "thumbnail": {
                 "url": "https://i.imgur.com/Shmagnp.png"
             },
             "fields": [
-                {
+                			{
+                    "name": "Start Point:",
+                    "value": "• Speak to Otto, located south-west of the Ancient Cavern entrance"
+      			},
+        		{
+                    "name": "Official Difficulty:",
+                    "value": "• None"
+        		},
+        		{
+                    "name": "Official Length:",
+                    "value": "• Medium"
+       			},
+        		{
+                    "name": "Items Required:",
+                    "value": "• 2 normal [logs](https://runescape.wikia.com/wiki/Logs)\n• 2 [bronze bars](https://runescape.wikia.com/wiki/Bronze_bar)\n• Some [fishing bait](https://runescape.wikia.com/wiki/Fishing_bait)\n• A normal [attack potion](https://runescape.wikia.com/wiki/Attack_potion) (2 doses) (You can buy all the ingredients for free from [Poletax's Herblore shop](https://runescape.wikia.com/wiki/Poletax%27s_Herblore_Shop) north-east of [Taverley](https://runescape.wikia.com/wiki/Taverley) lodestone)\n• [Roe](https://runescape.wikia.com/wiki/Roe) (obtained during Barbarian Fishing)\n• A [shortbow](https://runescape.wikia.com/wiki/Shortbow)"
+        		},
+        		{
+                    "name": "Enemies to Defeat:",
+                    "value": "• None"
+        		},
+            {
                     "name": "Requirements:",
-                    "value": "• 35 Firemaking\n• 11 Crafting\n• 55 Fishing\n• 15 Agility\n• 35 Strength\n• 5 Smithing\n• 4 Herblore\n\n• Tai Bwo Wannai Trio Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Tai_Bwo_Wannai_Trio)\n\n• Two [bronze bars](https://runescape.wikia.com/wiki/Bronze_bar)\n• Two [logs](https://runescape.wikia.com/wiki/Logs) \n• [Fishing Bait](https://runescape.wikia.com/wiki/Fishing_bait) \n• One two-dose [attack potion](https://runescape.wikia.com/wiki/Attack_potion) \n• [Roe](https://runescape.wikia.com/wiki/Roe) (obtained during Barbarian Fishing)\n• A tree-type [bow](https://runescape.wikia.com/wiki/Bow)"
+                    "value": "• 35 Firemaking\n• 11 Crafting\n• 55 Fishing\n• 15 Agility\n• 35 Strength\n• 5 Smithing\n• 4 Herblore\n\n• Tai Bwo Wannai Trio Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Tai_Bwo_Wannai_Trio)"
                 },
                 {
                     "name": "Guide:",
@@ -4526,12 +4648,32 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Memoirs of a Mahjarrat](http://runescape.wikia.com/wiki/Memories_of_a_Mahjarrat) is an achievement that requires the player to complete the [Mahjarrat Memories](http://runescape.wikia.com/wiki/Mahjarrat_Memories) miniquest.",
+			"description": "[Memoirs of a Mahjarrat](http://runescape.wikia.com/wiki/Memories_of_a_Mahjarrat) is an achievement that requires the player to complete the [Mahjarrat Memories](http://runescape.wikia.com/wiki/Mahjarrat_Memories) miniquest.\n\nMahjarrat Memories is a miniquest wherein players help the [Mahjarrat](https://runescape.wikia.com/wiki/Mahjarrat) [Kharshai](https://runescape.wikia.com/wiki/Kharshai) recover the memories of some of his kin - both dead and alive - so he can learn what they've been up to. There are 15 memories in total, and they reveal information on the [Zarosian](https://runescape.wikia.com/wiki/Zaros) empire, [demons](https://runescape.wikia.com/wiki/Demon) and the Mahjarrat themselves.\n\nEach Mahjarrat mentioned in [Zemouregal's notes](https://runescape.wikia.com/wiki/Zemouregal%27s_notes) has their own memory, with the exception of [Zamorak](https://runescape.wikia.com/wiki/Zamorak), because he has become a [god](https://runescape.wikia.com/wiki/Gods), and [Khazard](https://runescape.wikia.com/wiki/General_Khazard) and [Moia](https://runescape.wikia.com/wiki/Moia), because they did not exist in the [Second Age](https://runescape.wikia.com/wiki/Second_Age).\n\nIf a player is also yet to complete the [You're Not My Real Mah](https://runescape.wikia.com/wiki/You%27re_Not_My_Real_Mah) achievement and plans on doing so in the future, it may be beneficial to gather the required memories in the [Elder Halls](https://runescape.wikia.com/wiki/Elder_Halls) so they can also begin obtaining [Elder chronicles](https://runescape.wikia.com/wiki/Elder_chronicle_(item). This effectively completes both requirements at the same time.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
 			"fields": [
-				{
+							{
+                    "name": "Start Point:",
+                    "value": "• Speak to Kharshai under [Thorvald the Warrior](https://runescape.wikia.com/wiki/Thorvald_the_Warrior)'s house in [Rellekka](https://runescape.wikia.com/wiki/Rellekka)"
+      			},
+        		{
+                    "name": "Official Difficulty:",
+                    "value": "• None"
+        		},
+        		{
+                    "name": "Official Length:",
+                    "value": "• Very, Very Long"
+       			},
+        		{
+                    "name": "Items Required:",
+                    "value": "• 7500 [Vibrant memories](https://runescape.wikia.com/wiki/Vibrant_memory) (or memories of a higher tier); enriched memories count for double (collected during miniquest)\n• [Invitation box](https://runescape.wikia.com/wiki/Invitation_box) (for Sliske's memory)\n• [Insulated boots](https://runescape.wikia.com/wiki/Insulated_boots) (for Zemouregal's memory)\n• [Macaw pouch](https://runescape.wikia.com/wiki/Macaw_pouch) or [Ravenous locust pouch](https://runescape.wikia.com/wiki/Ravenous_locust_pouch) (for Zemouregal's memory)"
+        		},
+        		{
+                    "name": "Enemies to Defeat:",
+                    "value": "• None"
+        		},
+            {
 					"name": "Requirements:",
 					"value": "• 60 Divination\n\n• Missing, Presumed Death Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Missing,_Presumed_Death)\n• Koschei's Troubles Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Koschei%27s_Troubles)"
 				},
@@ -4634,12 +4776,32 @@ exports.data = {
                 "name": "Cape Info",
                 "icon_url": "https://i.imgur.com/6c6q2iC.png"
             },
-            "description": "[Milk of Chocolate, Snape of Grass](https://runescape.wikia.com/wiki/Milk_of_Chocolate,_Snape_of_Grass) is an achievement that requires the player to sober up [Skippy](https://runescape.wikia.com/wiki/Skippy) by using a [bucket of water](https://runescape.wikia.com/wiki/Bucket_of_water), [nettle tea](https://runescape.wikia.com/wiki/Nettle_tea) and a [Hangover cure](https://runescape.wikia.com/wiki/Hangover_cure) (made by mixing [chocolate dust](https://runescape.wikia.com/wiki/Chocolate_dust) with a [bucket of milk](https://runescape.wikia.com/wiki/Bucket_of_milk) to get [chocolatey milk](https://runescape.wikia.com/wiki/Chocolatey_milk), then mixing it with [snape grass](https://runescape.wikia.com/wiki/Snape_grass)) on him. Skippy is found behind Hetty's house in [Rimmington](https://runescape.wikia.com/wiki/Rimmington).",
+            "description": "[Milk of Chocolate, Snape of Grass](https://runescape.wikia.com/wiki/Milk_of_Chocolate,_Snape_of_Grass) is an achievement that requires the player to sober up [Skippy](https://runescape.wikia.com/wiki/Skippy) by using a [bucket of water](https://runescape.wikia.com/wiki/Bucket_of_water), [nettle tea](https://runescape.wikia.com/wiki/Nettle_tea) and a [Hangover cure](https://runescape.wikia.com/wiki/Hangover_cure). This is made by mixing [chocolate dust](https://runescape.wikia.com/wiki/Chocolate_dust) with a [bucket of milk](https://runescape.wikia.com/wiki/Bucket_of_milk) to get [chocolatey milk](https://runescape.wikia.com/wiki/Chocolatey_milk), then mixing it with [snape grass](https://runescape.wikia.com/wiki/Snape_grass) on him.",
             "thumbnail": {
                 "url": "https://i.imgur.com/Shmagnp.png"
             },
             "fields": [
-                {
+                			{
+                    "name": "Start Point:",
+                    "value": "• Speak to Skippy behind Hetty's house in [Rimmington](https://runescape.wikia.com/wiki/Rimmington)"
+      			},
+        		{
+                    "name": "Official Difficulty:",
+                    "value": "• None"
+        		},
+        		{
+                    "name": "Official Length:",
+                    "value": "• Short"
+       			},
+        		{
+                    "name": "Items Required:",
+                    "value": "• Hangover Cure"
+        		},
+        		{
+                    "name": "Enemies to Defeat:",
+                    "value": "• None"
+        		},
+            {
                     "name": "Requirements:",
                     "value": "• 20 Cooking"
                 },
@@ -4828,12 +4990,32 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Myreque in Memoriam](http://runescape.wikia.com/wiki/Deadlier_Catch) is an achievement that requires the player to complete the In Memory of the Myreque miniquest. During the miniquest, the player builds monuments to honour allies lost in the Myreque quest series. The finished statues act as altars, which give five extra Prayer points per statue built.\n\nNote that you can only build one statue per day from when you start the miniquest, however, you can begin the miniquest and revisit in 10 days to build them all at once if you wish. ",
+			"description": "[Myreque in Memoriam](http://runescape.wikia.com/wiki/Deadlier_Catch) is an achievement that requires the player to complete the [In Memory of the Myreque](https://runescape.wikia.com/wiki/In_Memory_of_the_Myreque) miniquest. During the miniquest, the player builds monuments to honor allies lost in the [Myreque quest series](https://runescape.wikia.com/wiki/Myreque_quest_series). The finished statues act as [altars](https://runescape.wikia.com/wiki/Altar), which give five extra Prayer points per statue built.\n\nNote that **you can only build one statue per day from when you start the miniquest**, however, you can begin the miniquest and revisit in 10 days to build them all at once if you wish. ",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
 			"fields": [
-				{
+							{
+                    "name": "Start Point:",
+                    "value": "• Speak to [Veliaf Hurtz](https://runescape.wikia.com/wiki/Veliaf_Hurtz), north-west of the [Canifis](https://runescape.wikia.com/wiki/Canifis) lodestone"
+      			},
+        		{
+                    "name": "Official Difficulty:",
+                    "value": "• None"
+        		},
+        		{
+                    "name": "Official Length:",
+                    "value": "• Long"
+       			},
+        		{
+                    "name": "Items Required:",
+                    "value": "• 10x [blisterwood sickles](https://runescape.wikia.com/wiki/Blisterwood_sickle)\n• 20x [Granite (5kg)](https://runescape.wikia.com/wiki/Granite_(5kg)\n• [Blamish blue shell (pointed)](https://runescape.wikia.com/wiki/Blamish_blue_shell_(pointed)\n• [Nail beast nails](https://runescape.wikia.com/wiki/Nail_beast_nails)\n• [Snakeskin body](https://runescape.wikia.com/wiki/Snakeskin_body)\n• [Ivandis flail](https://runescape.wikia.com/wiki/Ivandis_flail)\n• [Rune boots](https://runescape.wikia.com/wiki/Rune_boots)\n• [Mort myre pear](https://runescape.wikia.com/wiki/Mort_myre_pear)\n• [Moonlight mead](https://runescape.wikia.com/wiki/Moonlight_mead)\n• [Blisterwood stake-thrower crossbow](https://runescape.wikia.com/wiki/Blisterwood_stake-thrower_crossbow)\n• [Histories of the Hallowland](https://runescape.wikia.com/wiki/Histories_of_the_Hallowland)\n• [Holy water](https://runescape.wikia.com/wiki/Holy_water)"
+        		},
+        		{
+                    "name": "Enemies to Defeat:",
+                    "value": "• None"
+        		},
+            {
 					"name": "Requirements:",
 					"value": "• Lord of Vampyrium Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Lord_of_Vampyrium)"
 				},
@@ -4938,11 +5120,31 @@ exports.data = {
                 "name": "Cape Info",
                 "icon_url": "https://i.imgur.com/6c6q2iC.png"
             },
-              "description": "[Nomad's Genesis](http://runescape.wikia.com/wiki/Nomad%27s_Genesis) is an achievement that requires the player to complete the Tales of Nomad miniquest.",
+              "description": "[Nomad's Genesis](http://runescape.wikia.com/wiki/Nomad%27s_Genesis) is an achievement that requires the player to complete the [Tales of Nomad](https://runescape.wikia.com/wiki/Tales_of_Nomad) miniquest. Tales of Nomad is a miniquest chronicling [Nomad](https://runescape.wikia.com/wiki/Nomad)'s life. It takes place after [Nomad's Elegy](https://runescape.wikia.com/wiki/Nomad%27s_Elegy) and tells his story via static scenes from his life found at various locations indicated by cryptic hints. Most of the narrative is revealed through examine texts.",
             "thumbnail": {
                 "url": "https://i.imgur.com/Shmagnp.png"
             },
             "fields": [
+                			{
+                    "name": "Start Point:",
+                    "value": "• Sift through Nomad's memory in the [Grim Underworld](https://runescape.wikia.com/wiki/Grim_Underworld) on the western side of the lower level, before the bridge. Players can return to the Underworld by passing through the door in [Death's office](https://runescape.wikia.com/wiki/Death%27s_office)"
+      			},
+        		{
+                    "name": "Official Difficulty:",
+                    "value": "• None"
+        		},
+        		{
+                    "name": "Official Length:",
+                    "value": "• Short"
+       			},
+        		{
+                    "name": "Items Required:",
+                    "value": "• None"
+        		},
+        		{
+                    "name": "Enemies to Defeat:",
+                    "value": "• None"
+        		},
                 {
                     "name": "Requirements:",
                     "value": "• Nomad's Elegy Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Tale_of_the_Muspah)"
@@ -5129,17 +5331,35 @@ exports.data = {
 	"one foot in the grave": {
 		"cmds": ["comp", "mqc"],
 		"embed": {
-			"title": "One Foot in the Grave",
-			"author": {
 				"name": "One Foot in the Grave",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[One Foot in the Grave](http://runescape.wikia.com/wiki/One_Foot_in_the_Grave) is an achievement that requires the player to complete the Returning Clarence miniquest.",
+			"description": "[One Foot in the Grave](http://runescape.wikia.com/wiki/One_Foot_in_the_Grave) is an achievement that requires the player to complete the [Returning Clarence](https://runescape.wikia.com/wiki/Returning_Clarence) miniquest. This miniquest becomes available after reaching a certain point in [Back to my Roots](https://runescape.wikia.com/wiki/Back_to_my_Roots). It is a sequel to the [Hand in the Sand](https://runescape.wikia.com/wiki/The_Hand_in_the_Sand) quest, and features the player searching for the deceased wizard [Clarence](https://runescape.wikia.com/wiki/Clarence)'s body parts so he can be buried.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
 			"fields": [
-				{
+							{
+                    "name": "Start Point:",
+                    "value": "• Speak to [Zavistic Rarve](https://runescape.wikia.com/wiki/Zavistic_Rarve) at the [Wizards' Guild](https://runescape.wikia.com/wiki/Wizards%27_Guild) with [Clarence's hand](https://runescape.wikia.com/wiki/Hand_(Back_to_my_Roots) in your inventory"
+      			},
+        		{
+                    "name": "Official Difficulty:",
+                    "value": "• None"
+        		},
+        		{
+                    "name": "Official Length:",
+                    "value": "• Short to Medium"
+       			},
+        		{
+                    "name": "Items Required:",
+                    "value": "• None"
+        		},
+        		{
+                    "name": "Enemies to Defeat:",
+                    "value": "• [Monsters](https://runescape.wikia.com/wiki/Jade_vine_maze#Monsters) in the [Jade vine maze](https://runescape.wikia.com/wiki/Jade_vine_maze)"
+        		},
+            {
 					"name": "Requirements:",
 					"value": "• Back to my Roots Quest partial completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Back_to_my_Roots)"
 				},
@@ -5394,12 +5614,32 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Pious Prayers](http://runescape.wikia.com/wiki/Pious_Prayers) is an achievement that requires the player to unlock Chivalry, Piety, Rigour and Augury by completing the Knight Waves training ground after King's Ransom.\n\nThe Knight Waves training ground, also known as the \"Camelot training room\", is a miniquest located on the top floor of Camelot castle. The miniquest is started by talking to a squire standing outside the door of the training room, who will explain how the training grounds work.\n\nPlayers must successfully defeat the eight Knights of the Round Table. Players are allowed to use any style of combat, however Summoning, Prayer, binds and stuns are not allowed and will not work. As well as doing damage, each knight drains certain combat stats (Attack, Defence, Strength, Magic and Ranged) by 5 upon hitting the player. Each knight is harder than the preceding one and will hit more accurately, thereby draining combat stats faster.",
+			"description": "[Pious Prayers](http://runescape.wikia.com/wiki/Pious_Prayers) is an achievement that requires the player to unlock [Chivalry](https://runescape.wikia.com/wiki/Chivalry), [Piety](https://runescape.wikia.com/wiki/Piety), [Rigour](https://runescape.wikia.com/wiki/Rigour), and [Augury](https://runescape.wikia.com/wiki/Augury) by completing the [Knight Waves training ground](https://runescape.wikia.com/wiki/Knight_Waves_training_ground) after [King's Ransom](https://runescape.wikia.com/wiki/King%27s_Ransom).\n\nThe Knight Waves training ground, also known as the \"Camelot training room\", is a miniquest located on the top floor of [Camelot](https://runescape.wikia.com/wiki/Camelot) castle.\n\nPlayers must successfully defeat the eight Knights of the Round Table. Players are allowed to use any style of combat, however Summoning, Prayer, binds and stuns are not allowed and will not work. As well as doing damage, each knight drains certain combat stats by 5 upon hitting the player. Each knight is harder than the preceding one and will hit more accurately, thereby draining combat stats faster.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
 			"fields": [
-				{
+							{
+                    "name": "Start Point:",
+                    "value": "• Speak to a [squire](https://runescape.wikia.com/wiki/Squire) standing outside the door of the Camelot Castle training room, who will explain how the training grounds work"
+      			},
+        		{
+                    "name": "Official Difficulty:",
+                    "value": "• None"
+        		},
+        		{
+                    "name": "Official Length:",
+                    "value": "• Short"
+       			},
+        		{
+                    "name": "Items Required:",
+                    "value": "• Combat Equipment"
+        		},
+        		{
+                    "name": "Enemies to Defeat:",
+                    "value": "• [Sir Bedivere](https://runescape.wikia.com/wiki/Sir_Bedivere) (Level 79)\n• [Sir Pelleas](https://runescape.wikia.com/wiki/Sir_Pelleas) (Level 79)\n• [Sir Tristram](https://runescape.wikia.com/wiki/Sir_Tristram) (Level 79)\n• [Sir Palomedes](https://runescape.wikia.com/wiki/Sir_Palomedes) (Level 84)\n• [Sir Lucan](https://runescape.wikia.com/wiki/Sir_Lucan) (Level 84)\n• [Sir Gawain](https://runescape.wikia.com/wiki/Sir_Gawain) (Level 84)\n• [Sir Kay](https://runescape.wikia.com/wiki/Sir_Kay) (Level 84)\n• [Sir Lancelot](https://runescape.wikia.com/wiki/Sir_Lancelot) (Level 84)"
+        		},
+            {
 					"name": "Requirements:",
 					"value": "• 70 Prayer\n• 70 Defense \n\n• King's Ransom Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/King%27s_Ransom)"
 				},
@@ -5794,12 +6034,32 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Scabigail](http://runescape.wikia.com/wiki/Scabigail) is an achievement that requires the player to collect all 19 Scabarite notes by killing skeletons, dried zombies, and scabarites at the northern part of Ullek, or mummies to the west and adding them to the Scabaras research before handing it in to Lead archaeologist Abigail after Dealing with Scabaras.\n\nSome notes can also be found by searching the chests spread throughout the Scabarite Hive dungeon, namely chapters 18 and 19. The other notes are uncommon drops from creatures within the Scabarite Hive dungeon.",
+			"description": "[Scabigail](http://runescape.wikia.com/wiki/Scabigail) is an achievement that requires the player to collect all 19 [Scabarite notes](https://runescape.wikia.com/wiki/Scabarite_notes) by killing [skeletons](https://runescape.wikia.com/wiki/Skeleton_(Ullek), [dried zombies](https://runescape.wikia.com/wiki/Dried_zombie), and [scabarites](https://runescape.wikia.com/wiki/Scabarites) at the northern part of [Ullek](https://runescape.wikia.com/wiki/Ullek), or [mummies](https://runescape.wikia.com/wiki/Mummy_(Ullek) to the west. Players must then add them to the [Scabaras research](https://runescape.wikia.com/wiki/Scabaras_research) before handing it in to [Lead archaeologist Abigail](https://runescape.wikia.com/wiki/Lead_archaeologist_Abigail). This can only be done after [Dealing with Scabaras](https://runescape.wikia.com/wiki/Dealing_with_Scabaras).\n\nThe Scabaras research book has 24 pages and it is full when the player has found all 19 notes. Pages 1, 18 and 24 are blank. **Two of the notes are exclusively found in the [Scabarite hive](https://runescape.wikia.com/wiki/Scabarite_Hive_dungeon) within treasure chests.**\n\nTrying to 'Copy to log' a papyrus note that has already been copied with give the message: 'You already have this information in your logbook.' However, the note will disappear from the player's inventory. There are 19 different types of scabarite notes to collect, each with a different examine text.\n\nIt's possible that the notes are much more common if you have a scabarite slayer task whilst killing the scabarites in the [swamp](https://runescape.wikia.com/wiki/File:Ullek_map.png). The notes are far more common when killing the scabaras and locusts compared to the skeletons. A good spot for this is the most north-eastern corner of the scabaras swamp where a cannon can be placed.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
 			"fields": [
-				{
+							{
+                    "name": "Start Point:",
+                    "value": "• Speak to Lead archaeologist Abigail in the Ullek [buttes](https://runescape.wikia.com/wiki/File:Lead_archaeologist_Abigail_location.png)"
+      			},
+        		{
+                    "name": "Official Difficulty:",
+                    "value": "• None"
+        		},
+        		{
+                    "name": "Official Length:",
+                    "value": "• Medium"
+       			},
+        		{
+                    "name": "Items Required:",
+                    "value": "• Scabaras research (It can be found in the [bookcase](https://runescape.wikia.com/wiki/Bookcase) of a [Player-owned house](https://runescape.wikia.com/wiki/Player-owned_house) listed under `My Notes` with a subtitle: `Dealing With Scabaras`. There is another book in the bookcase with the title `My Notes` pertaining to 'Discoveries from the ancient cavern beneath the lake.')"
+        		},
+        		{
+                    "name": "Enemies to Defeat:",
+                    "value": "• Many Skeletons, Dried zombies, Scabarites, or Mummies"
+        		},
+            {
 					"name": "Requirements:",
 					"value": "• Dealing with Scabaras Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Dealing_with_Scabaras)"
 				},
@@ -6038,12 +6298,32 @@ exports.data = {
                 "name": "Cape Info",
                 "icon_url": "https://i.imgur.com/6c6q2iC.png"
             },
-            "description": "[Sheep Shearer](http://runescape.wikia.com/wiki/Sheep_Shearer_(achievement%29) is an achievement that requires the player to complete the Sheep Shearer miniquest.",
+            "description": "[Sheep Shearer](http://runescape.wikia.com/wiki/Sheep_Shearer_(achievement%29) is an achievement that requires the player to complete the [Sheep Shearer](https://runescape.wikia.com/wiki/Sheep_Shearer) miniquest. It was one of the six quests available when RuneScape was released, and features [Fred the Farmer](https://runescape.wikia.com/wiki/Fred_the_Farmer) tasking the player with shearing his [black sheep](https://runescape.wikia.com/wiki/Sheep_(black) in order to collect 20 [Balls of black wool](https://runescape.wikia.com/wiki/Ball_of_black_wool).",
             "thumbnail": {
                 "url": "https://i.imgur.com/Shmagnp.png"
             },
             "fields": [
-                {
+                			{
+                    "name": "Start Point:",
+                    "value": "• Speak to Fred the Farmer, located in his house in [Lumbridge](https://runescape.wikia.com/wiki/Lumbridge), found North of the [Combat Academy](https://runescape.wikia.com/wiki/Combat_Academy)"
+      			},
+        		{
+                    "name": "Official Difficulty:",
+                    "value": "• None"
+        		},
+        		{
+                    "name": "Official Length:",
+                    "value": "• Short"
+       			},
+        		{
+                    "name": "Items Required:",
+                    "value": "• 20 Balls of black wool (unnoted, can be obtained during the miniquest)"
+        		},
+        		{
+                    "name": "Enemies to Defeat:",
+                    "value": "• None, but watch out for [rams](https://runescape.wikia.com/wiki/Ram)"
+        		},
+            {
                     "name": "Requirements:",
                     "value": "None"
                 },
@@ -6090,14 +6370,34 @@ exports.data = {
                 "name": "Cape Info",
                 "icon_url": "https://i.imgur.com/6c6q2iC.png"
             },
-            "description": "[Skeletal Wishes](http://runescape.wikia.com/wiki/Skeletal_Wishes) is an achievement that requires the player to complete the Rag and Bone Man wish list and the Fur 'n' Seek wish list, and then having the Odd Old Man rebuild the skeletal horror.",
+            "description": "[Skeletal Wishes](http://runescape.wikia.com/wiki/Skeletal_Wishes) is an achievement that requires the player to complete the [Rag and Bone Man wish list](https://runescape.wikia.com/wiki/Rag_and_Bone_Man/Wish_list) and the [Fur 'n' Seek wish list](https://runescape.wikia.com/wiki/Fur_'n'_Seek/Wish_list), and then having the[ Odd Old Man](https://runescape.wikia.com/wiki/Odd_Old_Man) rebuild the [skeletal horror](https://runescape.wikia.com/wiki/Skeletal_horror).\n\nAfter completing the wish list from the Fur 'n' Seek quest, it is revealed that the old man had found the remains of a powerful, undead, mind-controlling skeletal horror and carried them in the sack on his back for over 10 years, and the bones collected by the player during the quests and wish lists were needed to construct the beast. It is also revealed that he used the furs from Fur 'n' Seek to make himself a new outfit. The player then defeats the Skeletal Horror, freeing the Odd Old Man from its control. Afterwards, the old man sets about rebuilding the monster for research purposes and invites the player to return once a week to ensure the beast is kept under control.",
             "thumbnail": {
                 "url": "https://i.imgur.com/Shmagnp.png"
             },
             "fields": [
-                {
+                			{
+                    "name": "Start Point:",
+                    "value": "• Speak to the Odd Old man located in [Silvarea](https://runescape.wikia.com/wiki/Silvarea), northeast of [Varrock](https://runescape.wikia.com/wiki/Varrock)"
+      			},
+        		{
+                    "name": "Official Difficulty:",
+                    "value": "• None"
+        		},
+        		{
+                    "name": "Official Length:",
+                    "value": "• Short"
+       			},
+        		{
+                    "name": "Items Required:",
+                    "value": "• None"
+        		},
+        		{
+                    "name": "Enemies to Defeat:",
+                    "value": "• None"
+        		},
+            {
                     "name": "Requirements:",
-                    "value": "• Fur 'n' Seek Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Fur_%27n%27_Seek)\n• Recipe for Disaster: Freeing King Awowogei Subquest partial completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Recipe_for_Disaster:_Freeing_King_Awowogei)\n• The Fremennik Trials Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Fremennik_Trials)\n• Horror from the Deep Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Horror_from_the_Deep)\nStarted the pyre ship section of Barbarian Firemaking | [Runescape Wiki](http://runescape.wikia.com/wiki/Barbarian_Firemaking)"
+                    "value": "• Fur 'n' Seek Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Fur_%27n%27_Seek)\n• Recipe for Disaster: Freeing King Awowogei Subquest partial completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Recipe_for_Disaster:_Freeing_King_Awowogei)\n• The Fremennik Trials Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Fremennik_Trials)\n• Horror from the Deep Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Horror_from_the_Deep)\n\n• Started the pyre ship section of Barbarian Firemaking | [Runescape Wiki](http://runescape.wikia.com/wiki/Barbarian_Firemaking)"
                 },
                 {
                   "name": "Guides:",
@@ -6146,14 +6446,34 @@ exports.data = {
                 "name": "Cape Info",
                 "icon_url": "https://i.imgur.com/6c6q2iC.png"
             },
-            "description": "[Slime and Snails and God Wars Tales](http://runescape.wikia.com/wiki/Slime_and_Snails_and_God_Wars_Tales) is an achievement that requires the player to complete Tales of the God Wars.",
+            "description": "[Slime and Snails and God Wars Tales](http://runescape.wikia.com/wiki/Slime_and_Snails_and_God_Wars_Tales) is an achievement that requires the player to complete [Tales of the God Wars](https://runescape.wikia.com/wiki/Tales_of_the_God_Wars).\n\nTales of the God Wars is a miniquest that serves as an introduction to the [Heart of Gielinor](https://runescape.wikia.com/wiki/Heart_of_Gielinor). It features the backstory of its denizens, exploring the rivalries between the generals as well as taking a first look around the dungeon and the significance of its location. Completion of the Tales of the God Wars is not required for participating in the Heart of Gielinor. However, it does give rewards useful for accessing the dungeon.",
             "thumbnail": {
                 "url": "https://i.imgur.com/Shmagnp.png"
             },
             "fields": [
-                {
+                			{
+                    "name": "Start Point:",
+                    "value": "• Speak to [the Curator](https://runescape.wikia.com/wiki/The_Curator) at the Heart of Gielinor, north of the [Agility Pyramid](https://runescape.wikia.com/wiki/Agility_Pyramid) in the [Kharidian Desert](https://runescape.wikia.com/wiki/Kharidian_Desert)"
+      			},
+        		{
+                    "name": "Official Difficulty:",
+                    "value": "• None"
+        		},
+        		{
+                    "name": "Official Length:",
+                    "value": "• Medium"
+       			},
+        		{
+                    "name": "Items Required:",
+                    "value": "• None"
+        		},
+        		{
+                    "name": "Enemies to Defeat:",
+                    "value": "• Up to seven [Barrows Brothers](https://runescape.wikia.com/wiki/Barrows_brothers) (level 150) (optional)\n• 40 [God Wars Dungeon](https://runescape.wikia.com/wiki/God_Wars_Dungeon) monsters aligned to [Zamorak](https://runescape.wikia.com/wiki/Zamorak)\n• [K'ril Tsutsaroth](https://runescape.wikia.com/wiki/K%27ril_Tsutsaroth) (level 650)\n• 20 [young grotworms](https://runescape.wikia.com/wiki/Young_grotworm) (level 28)\n• 20 [grotworms](https://runescape.wikia.com/wiki/Grotworm) (level 63)\n• 20 [mature grotworms](https://runescape.wikia.com/wiki/Mature_grotworm) (level 98)"
+        		},
+            {
                     "name": "Requirements:",
-                    "value": "• 70 Constitution\n• 70 Strength **or** 70 Agility \n\n• Troll Stronghold Quest partial completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Troll_Stronghold)\n• Death Plateau Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Death_Plateau)"
+                    "value": "• 70 Constitution\n• 70 Strength **or** 70 Agility\n\n• Troll Stronghold Quest partial completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Troll_Stronghold)"
                 },
                 {
                   "name": "Guide:",
@@ -6174,18 +6494,38 @@ exports.data = {
                 "name": "Cape Info",
                 "icon_url": "https://i.imgur.com/6c6q2iC.png"
             },
-            "description": "[Soft Kitty, Purple Kitty](http://runescape.wikia.com/wiki/Soft_Kitty,_Purple_Kitty) is an achievement that requires the player to complete the Purple Cat miniquest.",
+            "description": "[Soft Kitty, Purple Kitty](http://runescape.wikia.com/wiki/Soft_Kitty,_Purple_Kitty) is an achievement that requires the player to complete the [Purple Cat](https://runescape.wikia.com/wiki/Purple_cat_(miniquest) miniquest. The Purple Cat miniquest is unlocked after the completion of the [Swept Away](https://runescape.wikia.com/wiki/Swept_Away) quest, and was released during the [2008 Hallowe'en event](https://runescape.wikia.com/wiki/2008_Hallowe%27en_event).",
             "thumbnail": {
                 "url": "https://i.imgur.com/Shmagnp.png"
             },
             "fields": [
-                {
+                			{
+                    "name": "Start Point:",
+                    "value": "• Speak to [Wendy](https://runescape.wikia.com/wiki/Wendy), west of the [Draynor Village](https://runescape.wikia.com/wiki/Draynor_Village) [lodestone](https://runescape.wikia.com/wiki/Lodestone_Network)"
+      			},
+        		{
+                    "name": "Official Difficulty:",
+                    "value": "• None"
+        		},
+        		{
+                    "name": "Official Length:",
+                    "value": "• Short"
+       			},
+        		{
+                    "name": "Items Required:",
+                    "value": "• [Cat](https://runescape.wikia.com/wiki/Cat) (if you want to dye your cat)"
+        		},
+        		{
+                    "name": "Enemies to Defeat:",
+                    "value": "• None"
+        		},
+            {
                     "name": "Requirements:",
-                    "value": "• Gertrude's Cat Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Gertrude%27s_Cat)"
+                    "value": "• Swept Away Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Gertrude%27s_Cat)"
                 },
                 {
                   "name": "Guide:",
-                  "value": "• [Purple Cat Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Purple_cat_(miniquest%29)"
+                  "value": "• [Purple Cat Miniquest guide | Runescape Wiki](https://runescape.wikia.com/wiki/Swept_Away)"
                 }
             ],
             "footer": {
@@ -6316,14 +6656,34 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Stay Safe](http://runescape.wikia.com/wiki/Stay_Safe) is an achievement that requires the player to obtain the rewards of the chest at the end of the Stronghold of Player Safety (including the Safety First emote, which can be collected from the same vault as the safety gloves beneath the jail beside the Training Centre).",
+			"description": "[Stay Safe](http://runescape.wikia.com/wiki/Stay_Safe) is an achievement that requires the player to obtain the rewards of the chest at the end of the [Stronghold of Player Safety](https://runescape.wikia.com/wiki/Stronghold_of_Player_Safety), including the [Safety First](https://runescape.wikia.com/wiki/Safety_First) emote, which can be collected from the same vault as the [safety gloves](https://runescape.wikia.com/wiki/Safety_gloves) beneath the jail beside the [Training Centre](https://runescape.wikia.com/wiki/Misthalin_Training_Centre_of_Excellence) or obtained from [Professor Henry](https://runescape.wikia.com/wiki/Professor_Henry). The Misthalin Training Centre of Excellence can be found between [Edgeville](https://runescape.wikia.com/wiki/Edgeville) and [Barbarian Village](https://runescape.wikia.com/wiki/Barbarian_Village).",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
 						"fields": [
-				{
+						{
+                    "name": "Start Point:",
+                    "value": "• The [entrance](https://vignette.wikia.nocookie.net/runescape2/images/d/d8/Stronghold_of_Player_Safety_entrance_location.png/revision/latest/scale-to-width-down/150?cb=20141210023410) of the Stronghold of Player Safety"
+      			},
+        		{
+                    "name": "Official Difficulty:",
+                    "value": "• None"
+        		},
+        		{
+                    "name": "Official Length:",
+                    "value": "• Short"
+       			},
+        		{
+                    "name": "Items Required:",
+                    "value": "• None"
+        		},
+        		{
+                    "name": "Enemies to Defeat:",
+                    "value": "• None"
+        		},
+            {
 					"name": "Guide:",
-					"value": "[Stronghold of Player Safety Map | Runescape Wiki](http://runescape.wikia.com/wiki/Map:Stronghold_of_Player_Safety)"
+					"value": "[Stronghold of Player Safety Map and Chest location | Runescape Wiki](https://runescape.wikia.com/wiki/Map:Stronghold_of_Player_Safety)"
 				}
 			],
 			"footer": {
@@ -6340,14 +6700,34 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Stay Secure](http://runescape.wikia.com/wiki/Stay_Secure) is an achievement that requires the player to obtain the rewards of the chest at the end of the Stronghold of Player Safety (including the Safety First emote, which can be collected from the same vault as the safety gloves beneath the jail beside the Training Centre).",
+			"description": "[Stay Secure](http://runescape.wikia.com/wiki/Stay_Secure) is an achievement which requires the player to obtain the rewards from the [Gift of Peace](https://runescape.wikia.com/wiki/Gift_of_Peace), [Grain of Plenty](https://runescape.wikia.com/wiki/Grain_of_Plenty), [Box of Health](https://runescape.wikia.com/wiki/Box_of_Health) and [Cradle of Life](https://runescape.wikia.com/wiki/Cradle_of_Life) within the [Stronghold of Security](https://runescape.wikia.com/wiki/Stronghold_of_Security). The Stronghold of Security is located in the middle of the [Barbarian Village](https://runescape.wikia.com/wiki/Barbarian_Village).",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
 						"fields": [
-				{
+						{
+                    "name": "Start Point:",
+                    "value": "• The [entrance](https://vignette.wikia.nocookie.net/runescape2/images/7/7d/Stronghold_of_Security_entrance_location.png/revision/latest?cb=20141210070054) of the Stronghold of Security"
+      			},
+        		{
+                    "name": "Official Difficulty:",
+                    "value": "• None"
+        		},
+        		{
+                    "name": "Official Length:",
+                    "value": "• Short"
+       			},
+        		{
+                    "name": "Items Required:",
+                    "value": "• None"
+        		},
+        		{
+                    "name": "Enemies to Defeat:",
+                    "value": "• None"
+        		},
+            {
 					"name": "Guide:",
-					"value": "[Stronghold of Security Map | Runescape Wiki](http://runescape.wikia.com/wiki/Map:Stronghold_of_Security)"
+					"value": "[Stronghold of Security Map and Chest locations | Runescape Wiki](https://runescape.wikia.com/wiki/File:Stronghold_of_Security_map.png)"
 				}
 			],
 			"footer": {
@@ -6540,12 +6920,32 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Tell Tale Tarn](http://runescape.wikia.com/wiki/Tell_Tale_Tarn) is an achievement that requires the player to complete the Lair of Tarn Razorlor miniquest, defeat Tarn Razorlor and find his secrets (collect and read Tarn's diary) during or after the miniquest.\n\nTarn Razorlor is a sorcerer and necromancer that dwells in his Lair beneath the Mort Ridge Mine, and is guarded by his undead minions, animated steel armour, and terror dogs.",
+			"description": "[Tell Tale Tarn](http://runescape.wikia.com/wiki/Tell_Tale_Tarn) is an achievement that requires the player to complete the [Lair of Tarn Razorlor](https://runescape.wikia.com/wiki/The_Lair_of_Tarn_Razorlor) miniquest, defeat [Tarn Razorlor](https://runescape.wikia.com/wiki/Tarn), and find his secrets by collecting and reading [Tarn's diary](https://runescape.wikia.com/wiki/Tarn%27s_diary) during or after the miniquest.\n\nTarn Razorlor is a sorcerer and necromancer that dwells in [his Lair](https://runescape.wikia.com/wiki/Tarn's_Lair) beneath the [Mort Ridge Mine](https://runescape.wikia.com/wiki/Abandoned_Mine). He is guarded by his undead minions; [animated steel armor](https://runescape.wikia.com/wiki/Animated_steel_armour) and [terror dogs](https://runescape.wikia.com/wiki/Terror_dog).",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
 			"fields": [
-				{
+							{
+                    "name": "Start Point:",
+                    "value": "• Speak to the [Zealot](https://runescape.wikia.com/wiki/Zealot) at the mines in [Morytania](https://runescape.wikia.com/wiki/Morytania)"
+      			},
+        		{
+                    "name": "Official Difficulty:",
+                    "value": "• None"
+        		},
+        		{
+                    "name": "Official Length:",
+                    "value": "• Short"
+       			},
+        		{
+                    "name": "Items Required:",
+                    "value": "• [Salve amulet](https://runescape.wikia.com/wiki/Salve_amulet)"
+        		},
+        		{
+                    "name": "Enemies to Defeat:",
+                    "value": "• [Tarn Razorlor](https://runescape.wikia.com/wiki/Tarn) (level 79)"
+        		},
+            {
 					"name": "Requirements:",
 					"value": "• 40 Slayer\n\n• Haunted Mine Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Haunted_Mine)"
 				},
