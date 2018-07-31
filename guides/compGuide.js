@@ -6744,11 +6744,31 @@ exports.data = {
                 "name": "Cape Info",
                 "icon_url": "https://i.imgur.com/6c6q2iC.png"
             },
-            "description": "[To Ga'al or Not to Ga'al](http://runescape.wikia.com/wiki/To_Ga%27al_or_Not_to_Ga%27al) is an achievement that requires the player to find [TzHaar-Ga'al-Kot](http://runescape.wikia.com/wiki/TzHaar-Ga%27al-Kot).",
+            "description": "[To Ga'al or Not to Ga'al](http://runescape.wikia.com/wiki/To_Ga%27al_or_Not_to_Ga%27al) is an achievement that requires the player to find [TzHaar-Ga'al-Kot](http://runescape.wikia.com/wiki/TzHaar-Ga%27al-Kot). \n\nTzHaar-Ga'al-Kot is a [Ga'al](https://runescape.wikia.com/wiki/Ga%27al) explorer who decided to travel the world after the Ga'al were integrated into [TzHaar](https://runescape.wikia.com/wiki/TzHaar) society after a plot by the [TokHaar](https://runescape.wikia.com/wiki/TokHaar) to drive the TzHaar to extinction was thwarted. He can be encountered by adventurers after completing [The Brink of Extinction](https://runescape.wikia.com/wiki/The_Brink_of_Extinction) by performing some special actions, which help him unhide.\n\nAfter encountering him, you can bring him back to the bookcase in the [Fight Cauldron](https://runescape.wikia.com/wiki/Fight_Cauldron), and he will translate it, revealing some lore on the [Elder Gods](https://runescape.wikia.com/wiki/Elder_Gods), including [Jas](https://runescape.wikia.com/wiki/Jas) and [Ful](https://runescape.wikia.com/wiki/Ful).",
             "thumbnail": {
                 "url": "https://i.imgur.com/Shmagnp.png"
             },
             "fields": [
+                			{
+                    "name": "Start Point:",
+                    "value": "• Donate to the [TokKul coffer](https://runescape.wikia.com/wiki/Tokkul) near the Fight Cauldron"
+      			},
+        		{
+                    "name": "Official Difficulty:",
+                    "value": "• None"
+        		},
+        		{
+                    "name": "Official Length:",
+                    "value": "• Short"
+       			},
+        		{
+                    "name": "Items Required:",
+                    "value": "• [Uncharged TokKul-Zo](https://runescape.wikia.com/wiki/TokKul-Zo)\n• At least one piece of [obsidian equipment](https://runescape.wikia.com/wiki/Obsidian_equipment#Armour),[obsidian gloves](https://runescape.wikia.com/wiki/Obsidian_gloves) or [obsidian boots](https://runescape.wikia.com/wiki/Obsidian_boots) being cheapest to make\n• 15,000 [Tokkul](https://runescape.wikia.com/wiki/Tokkul)\n• X number of [Obsidian shards](https://runescape.wikia.com/wiki/Obsidian_shard) equal to the current [Runedate](https://runescape.wikia.com/wiki/Runedate)\n• [Ring of stone](https://runescape.wikia.com/wiki/Ring_of_stone)\n• [Ring of visibility](https://runescape.wikia.com/wiki/Ring_of_visibility)"
+        		},
+        		{
+                    "name": "Enemies to Defeat:",
+                    "value": "• Must be able to defeat foes of at least level 112 in the Fight Cauldron"
+        		},
                 {
                     "name": "Requirements:",
                     "value": "• Desert Treasure Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Desert_Treasure)\n• The Brink of Extinction Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Brink_of_Extinction)"
@@ -7098,14 +7118,34 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[What's Mine Is Also Doric's](http://runescape.wikia.com/wiki/What%27s_Mine_Is_Also_Doric%27s) is an achievement that requires the player to complete the Doric and Boric tasks after completion of What's Mine is Yours.\n\nThe items requested can only be smithed after the task is started, otherwise they will not count. You cannot buy the items from the Grand Exchange, but you can buy the metal bars - you do not have to mine the ores or smelt them. After you complete each task, return to Doric or Boric for the next task. You cannot boost any of the requirements.",
+			"description": "[What's Mine Is Also Doric's](http://runescape.wikia.com/wiki/What%27s_Mine_Is_Also_Doric%27s) is an achievement that requires the player to complete the [Doric](https://runescape.wikia.com/wiki/Doric) and [Boric](https://runescape.wikia.com/wiki/Boric) tasks after completion of [What's Mine is Yours](https://runescape.wikia.com/wiki/What%27s_Mine_is_Yours).\n\nThe items requested can only be smithed after the task is started, otherwise they will not count. You cannot buy the items from the Grand Exchange, but you can buy the metal bars. You do not have to mine the ores or smelt them. After you complete each task, return to Doric or Boric for the next task. You cannot boost any of the requirements.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
 			"fields": [
-				{
+						{
+                    "name": "Start Point:",
+                    "value": "• Speak to [Doric](https://runescape.wikia.com/wiki/Doric) and [Boric](https://runescape.wikia.com/wiki/Boric) who live in their hut east of [Taverley](https://runescape.wikia.com/wiki/Taverley)"
+      			},
+        		{
+                    "name": "Official Difficulty:",
+                    "value": "• None"
+        		},
+        		{
+                    "name": "Official Length:",
+                    "value": "• Medium"
+       			},
+        		{
+                    "name": "Items Required:",
+                    "value": "• 36 bronze bars](https://runescape.wikia.com/wiki/Bronze_bar)\n• [25 iron bars](https://runescape.wikia.com/wiki/Iron_bar)\n• [50 steel bars](https://runescape.wikia.com/wiki/Steel_bar) (or 10 steel bars and 8 [steel platebodies](https://runescape.wikia.com/wiki/Steel_platebody)\n• [60 mithril bars](https://runescape.wikia.com/wiki/Mithril_bar)\n• [50 adamant bars](https://runescape.wikia.com/wiki/Adamant_bar)\n• [20 iron ore](https://runescape.wikia.com/wiki/Iron_ore)\n• [30 coal](https://runescape.wikia.com/wiki/Coal)"
+        		},
+        		{
+                    "name": "Enemies to Defeat:",
+                    "value": "• None"
+        		},
+            {
 					"name": "Requirements:",
-					"value": "• 60 Mining\n• 75 Smithing\n\n• What's Mine is Yours Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Haunted_Mine)"
+					"value": "• 60 Mining\n• 75 Smithing\n\n• What's Mine is Yours Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Haunted_Mine)\n• Death Plateau Quest completion | [Runescape Wiki](https://runescape.wikia.com/wiki/Death_Plateau)"
 				},
 				{
 					"name": "Guide:",
@@ -7126,7 +7166,7 @@ exports.data = {
                 "name": "Cape Info",
                 "icon_url": "https://i.imgur.com/6c6q2iC.png"
             },
-            "description": "[White Knight Rises](http://runescape.wikia.com/wiki/White_Knight_Rises) is an achievement that requires the player to obtain the White Knight rank of Master by killing 1,300 black knights or 130 Elite Black Knights.\n\nThe best location to complete this task would be in Taverley Dungeon at the very south of the dungeon. Setting up a Dwarf multicannon while using AoE abilities makes completing this task very quick.",
+            "description": "[White Knight Rises](http://runescape.wikia.com/wiki/White_Knight_Rises) is an achievement that requires the player to obtain the White Knight rank of Master by killing 1,300 black knights or 130 Elite Black Knights.\n\nThe best location to complete this task would be in Taverley Dungeon at the very south of the dungeon. Setting up a Dwarf multicannon while using area of effect abilities makes completing this task very quick.",
             "thumbnail": {
                 "url": "https://i.imgur.com/Shmagnp.png"
             },
@@ -7202,12 +7242,32 @@ exports.data = {
                 "name": "Cape Info",
                 "icon_url": "https://i.imgur.com/6c6q2iC.png"
             },
-            "description": "[Witch's Potion](http://runescape.wikia.com/wiki/Witch%27s_Potion_(achievement%29) is an achievement that requires the player to complete the Witch's Potion miniquest.",
+            "description": "[Witch's Potion](http://runescape.wikia.com/wiki/Witch%27s_Potion_(achievement%29) is an achievement that requires the player to complete the [Witch's Potion](http://runescape.wikia.com/wiki/Witch%27s_Potion) miniquest. In the quest, the player assists [Hetty](https://runescape.wikia.com/wiki/Hetty) the [Witch](https://runescape.wikia.com/wiki/Helda) by gathering ingredients for a magical potion.",
             "thumbnail": {
                 "url": "https://i.imgur.com/Shmagnp.png"
             },
             "fields": [
-                {
+                				{
+                    "name": "Start Point:",
+                    "value": "• Speak to [Hetty](https://runescape.wikia.com/wiki/Hetty) in her house in [Rimmington](https://runescape.wikia.com/wiki/Rimmington), south of [Falador](https://runescape.wikia.com/wiki/Falador) and west of [Port Sarim](https://runescape.wikia.com/wiki/Port_Sarim)"
+      			},
+        		{
+                    "name": "Official Difficulty:",
+                    "value": "• None"
+        		},
+        		{
+                    "name": "Official Length:",
+                    "value": "• Short"
+       			},
+        		{
+                    "name": "Items Required:",
+                    "value": "• [Burnt meat](https://runescape.wikia.com/wiki/Burnt_meat)\n• [Eye of newt](https://runescape.wikia.com/wiki/Eye_of_newt)\n• [Onion](https://runescape.wikia.com/wiki/Onion)"
+        		},
+        		{
+                    "name": "Enemies to Defeat:",
+                    "value": "• [Rat](https://runescape.wikia.com/wiki/Rat) (Level 1)"
+        		},
+             	{
                     "name": "Requirements:",
                     "value": "None"
                 },
