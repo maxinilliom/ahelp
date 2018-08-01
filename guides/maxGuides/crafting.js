@@ -149,10 +149,33 @@ exports.data = {
       }
       ]
   },
-  "distractions and diversions": {
-    "author": {
-      "name": "Embed missing"
+  "distractions and diversions": { 
+    "title": "Distractions and Diversions", 
+    "url": "http://runescape.wikia.com/wiki/Distractions_and_Diversions", 
+    "description": "D&Ds are a subclassification of minigames. However, unlike minigames many D&Ds move around the world to various locations, have a limit on how often they can be played, and only occur at particular times of day.\n\nDistractions and Diversions aim to divert the original intentions of the player in order to provide an interesting distraction from their everyday routines. D&Ds come in many different shapes and sizes; covering Combat, Gathering, Artisan, and Support skills. There are a wide variety of different options available to suit the players choice.", 
+    "color": 12269891, 
+    "footer": { 
+    "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg", 
+    "text": "Achievement Help | Helping you reach your goals, whatever they may be!" 
+    }, 
+    "thumbnail": { 
+    "url": "https://vignette.wikia.nocookie.net/runescape2/images/6/62/D%26D_icon.png/revision/latest?cb=20140914110639" 
+    }, 
+    "author": { 
+    "name": "Max Cape Info", 
+    "icon_url": "https://i.imgur.com/6c6q2iC.png" 
+    }, 
+    "fields": [ 
+
+    { 
+    "name": "▬▬ Mazcab Supply Runs ▬▬", 
+    "value": "[Supply Runs](http://runescape.wikia.com/wiki/Supply_run) are a safe activity that take place on [Mazcab](http://runescape.wikia.com/wiki/Mazcab) every 12 hours (at midnight and noon game time). The activity begins with goebie supplies spawning at the supply rock near to Querci in Kanatah and is available until 25 minutes past the hour. Players may take up to 10 goebie supplies per day from the supply rock. Upon taking goebie supplies players become flagged for safe PvP and can be attacked by other players, with death resulting in the loss of all goebie supplies that the players are carrying. After obtaining goebie supplies players must travel north-west through the Nemi Forest to Otot, where the supplies may be exchanged for experience with Quercy. " 
+    }, 
+    { 
+    "name": "​", 
+    "value": "The player will be given a choice between two skills in which to gain experience: Agility or Crafting, Farming or Herblore and Hunter or Woodcutting. Different skills are offered on different worlds, so players may change worlds to find a world where the skill in which they wish to gain experience is offered. Between 495, with level 1, and 48,515, with level 99, experience can be gained from exchanging 10 goebie supplies. Assuming the activity is completed in 5 minutes, experience is awarded at a rate equivalent to between 5,940, with level 1, and 582,180, with level 99, experience an hour. [Source](http://runescape.wikia.com/wiki/Agility_training#Supply_runs)." 
     }
+    ]
   },
   "daily challenge": {
     "title": "Daily Challenge",
