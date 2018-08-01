@@ -5,4 +5,5 @@ config.js
 ahelp.sublime-project
 ahelp.sublime-workspace
 guides/templates.js
+guides/maxGuides/template.js
 data
