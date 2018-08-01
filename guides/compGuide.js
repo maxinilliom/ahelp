@@ -936,11 +936,39 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Around the World in Six Ways](http://runescape.wikia.com/wiki/Around_the_World_in_Six_Ways) is an achievement that requires the player to go to each destination using the [Balloon transport system](http://runescape.wikia.com/wiki/Balloon_transport_system) after [Enlightened Journey](http://runescape.wikia.com/wiki/Enlightened_Journey).\n\nThe Balloon Transport System or Hot Air Balloon is one of several transportation modes in RuneScape.\n\n• Each control always moves one \"space\" forward (horizontally to the right), and either up, down, or without change in altitude.\n• Drop sandbag: moves up two spaces (UP 2).\n• Burn log: moves up one space (UP 1).\n• Relax: moves forward (right), with no change in altitude (RIGHT).\n• Pull normal rope: moves down one space (DOWN 1).\n• Pull red rope: moves down two spaces (DOWN 2).\n• Bail: bails out the player from the balloon flight. (\"Crashes\" east of [Falador](http://runescape.wikia.com/wiki/Falador) and west of [Draynor Manor](runescape.wikia.com/wiki/Draynor_Manor).)",
+			"description": "[Around the World in Six Ways](http://runescape.wikia.com/wiki/Around_the_World_in_Six_Ways) is an achievement that requires the player to go to each destination using the [Balloon transport system](http://runescape.wikia.com/wiki/Balloon_transport_system) after [Enlightened Journey](http://runescape.wikia.com/wiki/Enlightened_Journey).\n\nThe Balloon Transport System or Hot Air Balloon is one of several transportation modes in RuneScape.\n\nAfter completing the Enlightened Journey quest, a player can travel between [Entrana](https://runescape.wikia.com/wiki/Entrana) and [Taverley](https://runescape.wikia.com/wiki/Taverley). To unlock the 4 new routes, a player must first start from Entrana with the required new logs, and navigate successfully through 3 screens to a new destination. Crashing the balloon will result in the loss of the remaining logs, and the need to start again in Entrana with a new set of logs. Once a destination is unlocked, players may travel there from any other unlocked location, using fewer logs, and without navigating the 3 screens.\n\nThe player may not carry over 40 kilograms of weight when using the balloon. You can use [weight reducing clothing](https://runescape.wikia.com/wiki/Weight-reducing_clothing) to carry what would otherwise weigh more than 40 kg. This weight limit does not include the log used to make the journey.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
 			"fields": [
+				{
+					"name": "Baloon Locations",
+					"value": "**Destination:** [Entrana](https://runescape.wikia.com/wiki/Entrana)\n\t**Inititial Trip Cost:** Build balloon (during Quest)\n\t**NPC:** [Auguste](https://runescape.wikia.com/wiki/Auguste)"
+				},
+        {
+					"name": "​",
+					"value": "**Destination:** [Taverley](https://runescape.wikia.com/wiki/Taverley)\n\t**Inititial Trip Cost:** 10 normal [logs]() (during Quest)\n\t**NPC:** [Assistant Stan](https://runescape.wikia.com/wiki/Assistant_Stan)"
+				},
+        {
+					"name": "​",
+					"value": "**Destination:** [Crafting Guild](https://runescape.wikia.com/wiki/Crafting_Guild)\n\t**Inititial Trip Cost:** 10 [oak logs](https://runescape.wikia.com/wiki/Oak_logs)\n\t**NPC:** [Assistant Brock](https://runescape.wikia.com/wiki/Assistant_Brock)"
+				},
+        {
+					"name": "​",
+					"value": "**Destination:** [Varrock](https://runescape.wikia.com/wiki/Varrock) - south of [Lumber Yard](https://runescape.wikia.com/wiki/Lumber_Yard) \n\t**Inititial Trip Cost:** 10 [willow logs](https://runescape.wikia.com/wiki/Willow_logs)\n\t**NPC:** [Assistant Serf](https://runescape.wikia.com/wiki/Assistant_Serf)"
+				},
+        {
+					"name": "​",
+					"value": "**Destination:** [Castle Wars](https://runescape.wikia.com/wiki/Castle_Wars)\n\t**Inititial Trip Cost:** 10 [yew logs](https://runescape.wikia.com/wiki/Yew_logs)\n\t**NPC:** [Assistant Marrow](https://runescape.wikia.com/wiki/Assistant_Marrow)"
+				},
+        {
+					"name": "​",
+					"value": "**Destination:** [Grand Tree](https://runescape.wikia.com/wiki/Grand_Tree)\n\t**Inititial Trip Cost:** 10 [mahic logs](https://runescape.wikia.com/wiki/Magic_logs)\n\t**NPC:** [Assistant Le Smith](https://runescape.wikia.com/wiki/Assistant_Le_Smith)"
+				},
+        {
+					"name": "Balooning:",
+					"value": "• Each control always moves one \"space\" forward (horizontally to the right), and either up, down, or without change in altitude.\n• Drop sandbag: moves up two spaces (UP 2).\n• Burn log: moves up one space (UP 1).\n• Relax: moves forward (right), with no change in altitude (RIGHT).\n• Pull normal rope: moves down one space (DOWN 1).\n• Pull red rope: moves down two spaces (DOWN 2).\n• Bail: bails out the player from the balloon flight. (\"Crashes\" east of [Falador](http://runescape.wikia.com/wiki/Falador) and west of [Draynor Manor](runescape.wikia.com/wiki/Draynor_Manor).)"
+				},
 				{
 					"name": "Requirements:",
 					"value": "• 60 Firemaking\n\n• Enlightened Journey Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Enlightened_Journey)"
@@ -1112,14 +1140,34 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Banking History](http://runescape.wikia.com/wiki/Banking_History) is an achievement that requires the player to complete the [Enchanted key](http://runescape.wikia.com/wiki/Enchanted_key_(miniquest%29) miniquest.",
+			"description": "[Banking History](http://runescape.wikia.com/wiki/Banking_History) is an achievement that requires the player to complete the [Enchanted key](http://runescape.wikia.com/wiki/Enchanted_key_(miniquest%29) miniquest\n\nEnchanted key is a two-part miniquest that uses the [item of the same]() name to find hidden treasures after [Making History](https://runescape.wikia.com/wiki/Making_History) and [Meeting History](https://runescape.wikia.com/wiki/Meeting_History). There are 11 treasure sites in each part of the miniquest. The main rewards of the miniquest are the [Guthix mjolnir](https://runescape.wikia.com/wiki/Guthix_mjolnir), [Saradomin mjolnir](https://runescape.wikia.com/wiki/Saradomin_mjolnir), and [Zamorak mjolnir](https://runescape.wikia.com/wiki/Zamorak_mjolnir), which can only be obtained during the miniquest.\n\nThe treasures from Making History must be looted before being able to loot the ones from Meeting History.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
 			"fields": [
-				{
+							{
+                    "name": "Start Point:",
+                    "value": "• Speak to [Jorral](https://runescape.wikia.com/wiki/Jorral) in the outpost south of the [Tree Gnome Stronghold](https://runescape.wikia.com/wiki/Tree_Gnome_Stronghold)"
+      			},
+        		{
+                    "name": "Official Difficulty:",
+                    "value": "• None"
+        		},
+        		{
+                    "name": "Official Length:",
+                    "value": "• Short"
+       			},
+        		{
+                    "name": "Items Required:",
+                    "value": "• [Enchanted key](https://runescape.wikia.com/wiki/Enchanted_key_(Making_History) - used to located the buried chests\n• [Spade](https://runescape.wikia.com/wiki/Spade) - used to dig the buried chests"
+        		},
+        		{
+                    "name": "Enemies to Defeat:",
+                    "value": "• None"
+        		},
+            {
 					"name": "Requirements:",
-					"value": "• Meeting History Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Meeting_History)"
+					"value": "• Meeting History Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Meeting_History)\n• Making History Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Making_History)"
 				},
 				{
 					"name": "Guide:",
