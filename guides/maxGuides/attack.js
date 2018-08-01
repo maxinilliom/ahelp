@@ -248,6 +248,29 @@ exports.data = {
          }
       ]
   },
+  "abilities": {
+    "title": "Abilities",
+    "url": "http://runescape.wikia.com/wiki/Abilities#Attack",
+    "description": "Abilities are a set of combat commands for Attack, Strength, Defence, Constitution, Ranged, and Magic. Abilities form the basis of combat following the Evolution of Combat, though they cannot be used when in Legacy Mode combat. Each skill has a menu of abilities, found in the [Powers](http://runescape.wikia.com/wiki/Interface#Powers) menu, which can be dragged outside as part of an interface setup.",
+        "color": 12269891,
+    "footer": {
+      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
+    },
+    "thumbnail": {
+      "url": "https://vignette.wikia.nocookie.net/runescape2/images/0/00/Attack.png/revision/latest?cb=20160101092952"
+    },
+    "author": {
+      "name": "Max Cape Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "fields": [
+      {
+        "name": "Attack Abilities",
+        "value": "The full list of Attack abilities can be found [here](http://runescape.wikia.com/wiki/Abilities#Attack).\n\nA guide on Damage Per Second that can aid on an effective ability bar can be found here [DPS for Dummies: Melee DPS Basics | The Junesong - YouTube](https://www.youtube.com/watch?v=LIrXHNi00k8)."
+      }
+      ]
+  },
   "alternate methods": {
     "title": "Alternative Methods of Training",
     "url": "http://runescape.wikia.com/wiki/Agility_training#Alternative_methods_of_gaining_experience",
