@@ -37,7 +37,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[A Brief History of Telescopes](https://runescape.wikia.com/wiki/A_Brief_History_of_Telescopes) is a hidden achievement that requires the player to discover the pieces of a famous quote of Stephen Hawking by examining 4 different telescopes around Gielinor. Although the order for the achievement is irrelevant, the saying received is the sequence of examining:\n\n• Big telescope on 1st floor[UK] floor of the [Observatory](https://runescape.wikia.com/wiki/Observatory), north of [Castle Wars](https://runescape.wikia.com/wiki/Castle_Wars)\n• Telescope in [player-owned house](https://runescape.wikia.com/wiki/Player-owned_house)\n• Telescope in [player-owned port](https://runescape.wikia.com/wiki/Player-owned_port) (requires 3,000 [jade](https://runescape.wikia.com/wiki/Jade_(Player-owned_port) and 2,000 [cherrywood](https://runescape.wikia.com/wiki/Cherrywood) to build)\n• Telescope on 1st floor[UK] floor in [Wise Old Man](https://runescape.wikia.com/wiki/Wise_Old_Man)'s house in [Draynor Village](https://runescape.wikia.com/wiki/Draynor_Village).",
+			"description": "[A Brief History of Telescopes](https://runescape.wikia.com/wiki/A_Brief_History_of_Telescopes) is a hidden achievement that requires the player to discover the pieces of a famous quote of Stephen Hawking by examining 4 different telescopes around [Gielinor](https://runescape.wikia.com/wiki/Gielinor). Although the order for the achievement is irrelevant, the saying received is the sequence of examining:\n\n• Big telescope on 1st floor[UK] floor of the [Observatory](https://runescape.wikia.com/wiki/Observatory), north of [Castle Wars](https://runescape.wikia.com/wiki/Castle_Wars)\n• Telescope in [player-owned house](https://runescape.wikia.com/wiki/Player-owned_house)\n• Telescope in [player-owned port](https://runescape.wikia.com/wiki/Player-owned_port) (requires 3,000 [jade](https://runescape.wikia.com/wiki/Jade_(Player-owned_port) and 2,000 [cherrywood](https://runescape.wikia.com/wiki/Cherrywood) to build)\n• Telescope on 1st floor[UK] floor in [Wise Old Man](https://runescape.wikia.com/wiki/Wise_Old_Man)'s house in [Draynor Village](https://runescape.wikia.com/wiki/Draynor_Village).\n\nThis achievement is hidden until unlocked.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -93,7 +93,27 @@ exports.data = {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
 			"fields": [
-				{
+							{
+                    "name": "Start Point:",
+                    "value": "• Speak to the Mage of Zamorak at the end of the [River Lum](https://runescape.wikia.com/wiki/River_Lum) in the [Wilderness](https://runescape.wikia.com/wiki/Wilderness) (Roams levels 4-7)."
+      			},
+        		{
+                    "name": "Official Difficulty:",
+                    "value": "• None"
+        		},
+        		{
+                    "name": "Official Length:",
+                    "value": "• Short"
+       			},
+        		{
+                    "name": "Items Required:",
+                    "value": "• None"
+        		},
+        		{
+                    "name": "Enemies to Defeat:",
+                    "value": "• None"
+        		},
+            {
 					"name": "Requirements:",
 					"value": "• Rune Mysteries Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Rune_Mysteries)"
 				},
@@ -201,7 +221,27 @@ exports.data = {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
 			"fields": [
-				{
+							{
+                    "name": "Start Point:",
+                    "value": "• Speak to Ali Morrisane, north of [Faruq](https://runescape.wikia.com/wiki/Faruq) in [Al Kharid](https://runescape.wikia.com/wiki/Al_Kharid)"
+      			},
+        		{
+                    "name": "Official Difficulty:",
+                    "value": "• None"
+        		},
+        		{
+                    "name": "Official Length:",
+                    "value": "• Short"
+       			},
+        		{
+                    "name": "Items Required:",
+                    "value": "• [Coins](https://runescape.wikia.com/wiki/Coins) to pay the [Street Urchin](https://runescape.wikia.com/wiki/Street_urchin) to conspire against the [Blackjack seller](https://runescape.wikia.com/wiki/Blackjack_seller) (required for [defensive blackjacks](https://runescape.wikia.com/wiki/Rogue_Trader#Defensive_Blackjacks)) and for [Magic carpet](https://runescape.wikia.com/wiki/Magic_carpet) rides (optional)\n\n• 3 [Dyes](https://runescape.wikia.com/wiki/Dye) of any color (for [Desert outfits](https://runescape.wikia.com/wiki/Desert_outfit))\n\n **OR**\n\n• 3 Animal pelts of the same kind. This may include [Cowhide](https://runescape.wikia.com/wiki/Cowhide), [Wool](https://runescape.wikia.com/wiki/Wool), [Snakeskin](https://runescape.wikia.com/wiki/Snakeskin), any type of [fur](https://runescape.wikia.com/wiki/Fur), etc. (for [Menaphite clothing](https://runescape.wikia.com/wiki/Menaphite_clothing), can be obtained in [Pollnivneach](https://runescape.wikia.com/wiki/Pollnivneach))"
+        		},
+        		{
+                    "name": "Enemies to Defeat:",
+                    "value": "• None"
+        		},
+            {
 					"name": "Requirements:",
 					"value": "• Rune Mysteries Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Rune_Mysteries)\n• The Feud Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Feud)\n• Ichtlarin's Little Helper Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Icthlarin%27s_Little_Helper)"
 				},
@@ -596,12 +636,32 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Arc I - Flag Fall](http://runescape.wikia.com/wiki/Arc_I_-_Flag_Fall) is an achievement that requires the player to complete the [Flag Fall](http://runescape.wikia.com/wiki/Flag_Fall) miniquest.",
+			"description": "[Arc I - Flag Fall](http://runescape.wikia.com/wiki/Arc_I_-_Flag_Fall) is an achievement that requires the player to complete the [Flag Fall](http://runescape.wikia.com/wiki/Flag_Fall) miniquest. This miniquest is a part of the [Tales of the Arc](https://runescape.wikia.com/wiki/Tales_of_the_Arc) miniquest series. Tales of the Arc is series of a quest and multiple miniquests revolving around [The Arc](https://runescape.wikia.com/wiki/The_Arc).\n\n For this quest, players will work with Boni to fix her loom. Doing so allows access to Flags, which can be used to claim [Uncharted Isles](https://runescape.wikia.com/wiki/Uncharted_Isles).",
 			"thumbnail": {
 				"url": "https://i.imgur.com/gGdB7UR.png"
 			},
 			"fields": [
-				{
+							{
+                    "name": "Start Point:",
+                    "value": "• Speak to [Boni](https://runescape.wikia.com/wiki/Boni_(rewards) at the [Waiko](https://runescape.wikia.com/wiki/Waiko) market."
+      			},
+        		{
+                    "name": "Official Difficulty:",
+                    "value": "• None"
+        		},
+        		{
+                    "name": "Official Length:",
+                    "value": "• Short"
+       			},
+        		{
+                    "name": "Items Required:",
+                    "value": "• 0-1,000+ [chimes](https://runescape.wikia.com/wiki/Chimes) (for supplies)\n• 5 [driftwood](https://runescape.wikia.com/wiki/Driftwood) (obtained during the miniquest)"
+        		},
+        		{
+                    "name": "Enemies to Defeat:",
+                    "value": "• None"
+        		},
+            {
 					"name": "Requirements:",
 					"value": "• Impressing the Locals Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Impressing_the_Locals)"
 				},
@@ -624,14 +684,34 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Arc II - Head of the Family](http://runescape.wikia.com/wiki/Arc_II_-_Head_of_the_Family) is an achievement that requires the player to complete the [Head of the Family](http://runescape.wikia.com/wiki/Head_of_the_Family) miniquest.",
+			"description": "[Arc II - Head of the Family](http://runescape.wikia.com/wiki/Arc_II_-_Head_of_the_Family) is an achievement that requires the player to complete the [Head of the Family](http://runescape.wikia.com/wiki/Head_of_the_Family) miniquest. This miniquest is a part of the [Tales of the Arc](https://runescape.wikia.com/wiki/Tales_of_the_Arc) miniquest series. Tales of the Arc is series of a quest and multiple miniquests revolving around [The Arc](https://runescape.wikia.com/wiki/The_Arc).\n\n For this quest, players help a lonely [Moai](https://runescape.wikia.com/wiki/Moai) on Waiko get back into contact with other cut off Moai. Gather a strong crew of [Cyclopes](https://runescape.wikia.com/wiki/Cyclops_(Cyclosis) and complete some tasks to gain access to a ship to help move [Aminishi](https://runescape.wikia.com/wiki/Aminishi)'s Moai to [Waiko](https://runescape.wikia.com/wiki/Waiko). However, the Cyclopes are traitors working for [Jed](https://runescape.wikia.com/wiki/Jed)! Defeat them to complete the shipment and gain a loyal new [Lookout](https://runescape.wikia.com/wiki/Cap%27n_Ekahi) in the process.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/gGdB7UR.png"
 			},
 			"fields": [
-				{
+							{
+                    "name": "Start Point:",
+                    "value": "• Speak to the [Waiko moai](https://runescape.wikia.com/wiki/Waiko_moai) on the hill north-east of Waiko"
+      			},
+        		{
+                    "name": "Official Difficulty:",
+                    "value": "• None"
+        		},
+        		{
+                    "name": "Official Length:",
+                    "value": "• Medium"
+       			},
+        		{
+                    "name": "Items Required:",
+                    "value": "• 450 [chimes](https://runescape.wikia.com/wiki/Chimes)\n• 5 [bamboo](https://runescape.wikia.com/wiki/Bamboo)\n• 15 [fish oil](https://runescape.wikia.com/wiki/Fish_oil)"
+        		},
+        		{
+                    "name": "Enemies to Defeat:",
+                    "value": "• [Cap'n Ekahi](https://runescape.wikia.com/wiki/Cap%27n_Ekahi)\n• 2x [Cyclops labourer](https://runescape.wikia.com/wiki/Cyclops_labourer)"
+        		},
+            {
 					"name": "Requirements:",
-					"value": "• 90 Woodcutting\n• 90 Fishing\n• 91 Cooking\n\n• Impressing the Locals Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Impressing_the_Locals)\n• Flag Fall miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Flag_Fall)"
+					"value": "• 90 Woodcutting\n• 90 Fishing\n• 91 Cooking\n\n• Flag Fall miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Flag_Fall)"
 				},
 				{
 					"name": "Guide:",
@@ -646,20 +726,40 @@ exports.data = {
 	},
 	"arc iii - spiritual enlightenment": {
 		"cmds": ["comp", "mqc"],
-		"embed": {
+		"embed":{
 			"title": "Arc III - Spiritual Enlightenment",
 			"author": {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Arc III - Spiritual Enlightenment](http://runescape.wikia.com/wiki/Arc_III_-_Spiritual_Enlightenment) is an achievement that requires the player to complete the [Spiritual Enlightenment](http://runescape.wikia.com/wiki/Spiritual_Enlightenment) miniquest.",
+			"description": "[Arc III - Spiritual Enlightenment](http://runescape.wikia.com/wiki/Arc_III_-_Spiritual_Enlightenment) is an achievement that requires the player to complete the [Spiritual Enlightenment](http://runescape.wikia.com/wiki/Spiritual_Enlightenment) miniquest. This miniquest is a part of the [Tales of the Arc](https://runescape.wikia.com/wiki/Tales_of_the_Arc) miniquest series. Tales of the Arc is series of a quest and multiple miniquests revolving around [The Arc](https://runescape.wikia.com/wiki/The_Arc).\n\n For this quest, players help [Ling](https://runescape.wikia.com/wiki/The_Assassin) track down a monk, slaughtering many [Acolytes of Seiryu](https://runescape.wikia.com/wiki/Acolytes_of_Seiryu) along the way to learn their secrets. Discover a strange spirit realm containing truly enlightened [Arhat](https://runescape.wikia.com/wiki/Arhat), find the monk here, and soon learn Ling was not there to kill him, simply to catch up with an old friend.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/gGdB7UR.png"
 			},
 			"fields": [
-				{
+							{
+                    "name": "Start Point:",
+                    "value": "• Speak to [Ling (contracts)](https://runescape.wikia.com/wiki/The_Assassin) on [Aminishi](https://runescape.wikia.com/wiki/Aminishi)"
+      			},
+        		{
+                    "name": "Official Difficulty:",
+                    "value": "• None"
+        		},
+        		{
+                    "name": "Official Length:",
+                    "value": "• Medium"
+       			},
+        		{
+                    "name": "Items Required:",
+                    "value": "• None"
+        		},
+        		{
+                    "name": "Enemies to Defeat:",
+                    "value": "• Multiple [Sotapanna](https://runescape.wikia.com/wiki/Sotapanna), [Sakadagami](https://runescape.wikia.com/wiki/Sakadagami), and/or [Anagami](https://runescape.wikia.com/wiki/Anagami)"
+        		},
+            {
 					"name": "Requirements:",
-					"value": "• 90 Slayer\n\n• Impressing the Locals Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Impressing_the_Locals)\n• Flag Fall Miniquest Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Flag_Fall)\n• Head of the Family Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Head_of_the_Family)"
+					"value": "• 90 Slayer\n\n• Head of the Family Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Head_of_the_Family)"
 				},
 				{
 					"name": "Guide:",
@@ -680,14 +780,34 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Arc IV - Jed Hunter](http://runescape.wikia.com/wiki/Arc_IV_-_Jed_Hunter) is an achievement that requires the player to complete the [Jed Hunter](http://runescape.wikia.com/wiki/Jed_Hunter) miniquest.",
+			"description": "[Arc IV - Jed Hunter](http://runescape.wikia.com/wiki/Arc_IV_-_Jed_Hunter) is an achievement that requires the player to complete the [Jed Hunter](http://runescape.wikia.com/wiki/Jed_Hunter) miniquest. This miniquest is a part of the [Tales of the Arc](https://runescape.wikia.com/wiki/Tales_of_the_Arc) miniquest series. Tales of the Arc is series of a quest and multiple miniquests revolving around [The Arc](https://runescape.wikia.com/wiki/The_Arc).\n\n For this quest, players are told it's time to hunt down [Jed](https://runescape.wikia.com/wiki/Jed)! Outfit your crew and prepare for battle through various tasks before setting the bait for Jed by faking your own death. Gain an ally in [Thalassus](https://runescape.wikia.com/wiki/Thalassus) along the way. Lead Jed into a trap with Lookout [Ekahi](https://runescape.wikia.com/wiki/Cap'n_Ekahi)'s help and learn of the mysterious [Harbinger](https://runescape.wikia.com/wiki/The_Harbinger) that Jed is selling slaves to. Jed refuses to be taken prisoner, and leaps from the ship... Only to be devoured by Thalassus before he can hit the water. Free the prisoners from [Port Sarim](https://runescape.wikia.com/wiki/Port_Sarim) and return them to safety.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/gGdB7UR.png"
 			},
 			"fields": [
-				{
+							{
+                    "name": "Start Point:",
+                    "value": "• Speak to Lookout Ekahi who is on the northern dock on Waiko near [Sarim's Revenge](https://runescape.wikia.com/wiki/Sarim%27s_Revenge)"
+      			},
+        		{
+                    "name": "Official Difficulty:",
+                    "value": "• None"
+        		},
+        		{
+                    "name": "Official Length:",
+                    "value": "• Short"
+       			},
+        		{
+                    "name": "Items Required:",
+                    "value": "• 10 [driftwood](https://runescape.wikia.com/wiki/Driftwood)\n• 5 [sea shells](https://runescape.wikia.com/wiki/Sea_shell)\n• 2 [tortle shell bowls](https://runescape.wikia.com/wiki/Tortle_shell_bowl)\n• 1 [taijitu](https://runescape.wikia.com/wiki/Taijitu)\n• 200+ [chimes](https://runescape.wikia.com/wiki/Chimes) (for supplies)"
+        		},
+        		{
+                    "name": "Enemies to Defeat:",
+                    "value": "• 3 [Gu ronin](https://runescape.wikia.com/wiki/Gu_ronin) (level 119)"
+        		},
+            {
 					"name": "Requirements:",
-					"value": "• 90 Hunter\n• 91 Crafting\n\n• Impressing the Locals Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Impressing_the_Locals)\n• Flag Fall Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/Flag_Fall)\n• Head of the Family Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/Head_of_the_Family)\n• Spiritual Enlightenment Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Spiritual_Enlightenment)"
+					"value": "• 90 Hunter\n• 91 Crafting\n\n• Spiritual Enlightenment Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Spiritual_Enlightenment)"
 				},
 				{
 					"name": "Guide:",
@@ -708,14 +828,34 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Arc IX - Damage Control](http://runescape.wikia.com/wiki/Arc_IX_-_Damage_Control) is an achievement that requires the player to complete the [Damage Control](http://runescape.wikia.com/wiki/Damage_Control) miniquest.",
+			"description": "[Arc IX - Damage Control](http://runescape.wikia.com/wiki/Arc_IX_-_Damage_Control) is an achievement that requires the player to complete the [Damage Control](http://runescape.wikia.com/wiki/Damage_Control) miniquest. This miniquest is a part of the [Tales of the Arc](https://runescape.wikia.com/wiki/Tales_of_the_Arc) miniquest series. Tales of the Arc is series of a quest and multiple miniquests revolving around [The Arc](https://runescape.wikia.com/wiki/The_Arc).\n\n For this quest, players will prepare for a battle with [the Harbinger](https://runescape.wikia.com/wiki/The_Harbinger) by repairing your ship and salvaging a cannon. Help [Evie](https://runescape.wikia.com/wiki/Bosun_Higgs) hunt for her brother on [Goshima](https://runescape.wikia.com/wiki/Goshima) in the process, and discover a dark spirit haunting the ravaged island.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/gGdB7UR.png"
 			},
 			"fields": [
-				{
+							{
+                    "name": "Start Point:",
+                    "value": "• Speak to [Bosun Higgs](https://runescape.wikia.com/wiki/Bosun_Higgs)"
+      			},
+        		{
+                    "name": "Official Difficulty:",
+                    "value": "• None"
+        		},
+        		{
+                    "name": "Official Length:",
+                    "value": "• Short"
+       			},
+        		{
+                    "name": "Items Required:",
+                    "value": "• 2,500 [chimes](https://runescape.wikia.com/wiki/Chimes)"
+        		},
+        		{
+                    "name": "Enemies to Defeat:",
+                    "value": "• None"
+        		},
+            {
 					"name": "Requirements:",
-					"value": "• Impressing the Locals Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Impressing_the_Locals)\n• Flag Fall Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/Flag_Fall)\n• Head of the Family Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/Head_of_the_Family)\n• Spiritual Enlightenment Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Spiritual_Enlightenment)\n• Jed Hunter Miniquest completion | [Runescape Wikia](http://runescape.wikia.com/wiki/Jed_Hunter)\n• Eye for an Eye Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Eye_for_an_Eye)\n• Harbinger Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Harbinger)\n• Tuai Liet's Own Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Tuai_Leit%27s_Own)\n• Ghosts from the Past Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Ghosts_from_the_Past)"
+					"value": "• Ghosts from the Past Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Ghosts_from_the_Past)"
 				},
 				{
 					"name": "Guide:",
@@ -736,14 +876,34 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Arc V - Eye for an Eye](http://runescape.wikia.com/wiki/Arc_V_-_Eye_for_an_Eye) is an achievement that requires the player to complete the [Eye for an Eye](http://runescape.wikia.com/wiki/Eye_for_an_Eye) miniquest.",
+			"description": "[Arc V - Eye for an Eye](http://runescape.wikia.com/wiki/Arc_V_-_Eye_for_an_Eye) is an achievement that requires the player to complete the [Eye for an Eye](http://runescape.wikia.com/wiki/Eye_for_an_Eye) miniquest. This miniquest is a part of the [Tales of the Arc](https://runescape.wikia.com/wiki/Tales_of_the_Arc) miniquest series. Tales of the Arc is series of a quest and multiple miniquests revolving around [The Arc](https://runescape.wikia.com/wiki/The_Arc).\n\n For this quest, players help the [Cyclopes](https://runescape.wikia.com/wiki/Cyclops_(Cyclosis) of [Cyclosis](https://runescape.wikia.com/wiki/Cyclosis) discover who or what is behind the kidnapping of a number of villagers. Fight off an army of [Zyclops](https://runescape.wikia.com/wiki/Zyclops) and discover an old foe seemingly back from the dead.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/gGdB7UR.png"
 			},
 			"fields": [
-				{
+							{
+                    "name": "Start Point:",
+                    "value": "• Speak to [Ichi](https://runescape.wikia.com/wiki/Ichi) on Cyclosis"
+      			},
+        		{
+                    "name": "Official Difficulty:",
+                    "value": "• None"
+        		},
+        		{
+                    "name": "Official Length:",
+                    "value": "• Short"
+       			},
+        		{
+                    "name": "Items Required:",
+                    "value": "• 30 [alaea](https://runescape.wikia.com/wiki/Alaea_sea_salt) or [regular sea salt](https://runescape.wikia.com/wiki/Sea_salt)"
+        		},
+        		{
+                    "name": "Enemies to Defeat:",
+                    "value": "• 27 Zyclopes (Level 93)\n• [Undead Jed](https://runescape.wikia.com/wiki/Undead_Jed)"
+        		},
+            {
 					"name": "Requirements:",
-					"value": "• 90 Mining\n\n• Impressing the Locals Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Impressing_the_Locals)\n• Flag Fall Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/Flag_Fall)\n• Head of the Family Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/Head_of_the_Family)\n• Spiritual Enlightenment Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Spiritual_Enlightenment)\n• Jed Hunter Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Jed_Hunter)"
+					"value": "• 90 Mining\n\n• Jed Hunter Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Jed_Hunter)"
 				},
 				{
 					"name": "Guide:",
@@ -764,14 +924,35 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Arc VI - Harbinger of Doom](http://runescape.wikia.com/wiki/Arc_VI_-_Harbinger_of_Doom) is an achievement that requires the player to complete the [Harbinger](http://runescape.wikia.com/wiki/Harbinger) miniquest.",
+			"description": "[Arc VI - Harbinger of Doom](http://runescape.wikia.com/wiki/Arc_VI_-_Harbinger_of_Doom) is an achievement that requires the player to complete the [Harbinger](http://runescape.wikia.com/wiki/Harbinger) miniquest. This miniquest is a part of the [Tales of the Arc](https://runescape.wikia.com/wiki/Tales_of_the_Arc) miniquest series. Tales of the Arc is series of a quest and multiple miniquests revolving around [The Arc](https://runescape.wikia.com/wiki/The_Arc).\n\n For this quest, players are ambushed. [The Harbinger](https://runescape.wikia.com/wiki/The_Harbinger) attacks the [Sarim's Revenge](https://runescape.wikia.com/wiki/Sarim%27s_Revenge). Defend your ship and escape.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/gGdB7UR.png"
 			},
 			"fields": [
-				{
+							{
+                    "name": "Start Point:",
+                    "value": "• Speak to [Seasinger Jemi](https://runescape.wikia.com/wiki/Navigator_Jemi) on Tuai Leit"
+      			},
+        		{
+                    "name": "Official Difficulty:",
+                    "value": "• None"
+        		},
+        		{
+                    "name": "Official Length:",
+                    "value": "• Short"
+       			},
+        		{
+                    "name": "Items Required:",
+                    "value": "• None"
+        		},
+        		{
+                    "name": "Enemies to Defeat:",
+                    "value": "• None"
+        		},
+
+            {
 					"name": "Requirements:",
-					"value": "• Impressing the Locals Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Impressing_the_Locals)\n• Flag Fall Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/Flag_Fall)\n• Head of the Family Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/Head_of_the_Family)\n• Spiritual Enlightenment Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Spiritual_Enlightenment)\n• Jed Hunter Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Jed_Hunter)"
+					"value": "• Jed Hunter Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Jed_Hunter)"
 				},
 				{
 					"name": "Guide:",
@@ -792,14 +973,34 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Arc VII - Tuai Leit's Own](http://runescape.wikia.com/wiki/Arc_VII_-_Tuai_Leit%27s_Own) is an achievement that requires the player to complete the [Tuai Leit's Own](http://runescape.wikia.com/wiki/Tuai_Leit%27s_Own) miniquest.",
+			"description": "[Arc VII - Tuai Leit's Own](http://runescape.wikia.com/wiki/Arc_VII_-_Tuai_Leit%27s_Own) is an achievement that requires the player to complete the [Tuai Leit's Own](http://runescape.wikia.com/wiki/Tuai_Leit%27s_Own) miniquest. This miniquest is a part of the [Tales of the Arc](https://runescape.wikia.com/wiki/Tales_of_the_Arc) miniquest series. Tales of the Arc is series of a quest and multiple miniquests revolving around [The Arc](https://runescape.wikia.com/wiki/The_Arc).\n\n For this quest, players discover lookout [Ekahi](https://runescape.wikia.com/wiki/Cap'n_Ekahi)'s situation is worsening and travel to [Tuai Leit](https://runescape.wikia.com/wiki/Tuai_Leit) to hunt for a cure. After several failures, a dangerous solution appears - either kill him, or hunt down the being that caused the curse in the first place.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/gGdB7UR.png"
 			},
 			"fields": [
-				{
+							{
+                    "name": "Start Point:",
+                    "value": "• Speak to [Seasinger Jemi](https://runescape.wikia.com/wiki/Navigator_Jemi) on Tuai Leit"
+      			},
+        		{
+                    "name": "Official Difficulty:",
+                    "value": "• None"
+        		},
+        		{
+                    "name": "Official Length:",
+                    "value": "• Short"
+       			},
+        		{
+                    "name": "Items Required:",
+                    "value": "• [30 rumberries](https://runescape.wikia.com/wiki/Rumberry)\n• 30 [positive energies](https://runescape.wikia.com/wiki/Positive_energy)\n• At least 1 [Spirit dragon charm](https://runescape.wikia.com/wiki/Spirit_dragon_charm)"
+        		},
+        		{
+                    "name": "Enemies to Defeat:",
+                    "value": "• None"
+        		},
+            {
 					"name": "Requirements:",
-					"value": "• Impressing the Locals Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Impressing_the_Locals)\n• Flag Fall Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/Flag_Fall)\n• Head of the Family Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/Head_of_the_Family)\n• Spiritual Enlightenment Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Spiritual_Enlightenment)\n• Jed Hunter Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Jed_Hunter)\n• Harbinger Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Harbinger)"
+					"value": "• 86 Farming\n• 90 Divination\n\n• Harbinger Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Harbinger)"
 				},
 				{
 					"name": "Guide:",
@@ -820,14 +1021,34 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Arc VIII - Ghosts from the Past](http://runescape.wikia.com/wiki/Arc_VIII_-_Ghosts_from_the_Past) is an achievement that requires the player to complete the [Ghosts from the Past](http://runescape.wikia.com/wiki/Ghosts_from_the_Past) miniquest.",
+			"description": "[Arc VIII - Ghosts from the Past](http://runescape.wikia.com/wiki/Arc_VIII_-_Ghosts_from_the_Past) is an achievement that requires the player to complete the [Ghosts from the Past](http://runescape.wikia.com/wiki/Ghosts_from_the_Past) miniquest. This miniquest is a part of the [Tales of the Arc](https://runescape.wikia.com/wiki/Tales_of_the_Arc) miniquest series. Tales of the Arc is series of a quest and multiple miniquests revolving around [The Arc](https://runescape.wikia.com/wiki/The_Arc).\n\n For this quest, players travel to the [Islands That Once Were Turtles](https://runescape.wikia.com/wiki/The_Islands_That_Once_Were_Turtles) to dig into [Quartermaster Gully](https://runescape.wikia.com/wiki/Quartermaster_Gully)'s history with [Captain Cora](https://runescape.wikia.com/wiki/Captain_Cora).",
 			"thumbnail": {
 				"url": "https://i.imgur.com/gGdB7UR.png"
 			},
 			"fields": [
-				{
+							{
+                    "name": "Start Point:",
+                    "value": "• Speak to Quartermaster Gully on any of The Arc’s docks"
+      			},
+        		{
+                    "name": "Official Difficulty:",
+                    "value": "• None"
+        		},
+        		{
+                    "name": "Official Length:",
+                    "value": "• Short"
+       			},
+        		{
+                    "name": "Items Required:",
+                    "value": "• None"
+        		},
+        		{
+                    "name": "Enemies to Defeat:",
+                    "value": "• None"
+        		},
+            {
 					"name": "Requirements:",
-					"value": "• Impressing the Locals Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Impressing_the_Locals)\n• Flag Fall Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/Flag_Fall)\n• Head of the Family Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/Head_of_the_Family)\n• Spiritual Enlightenment Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Spiritual_Enlightenment)\n• Jed Hunter Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Jed_Hunter)\n• Harbinger Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Harbinger)\n• Tuai Liet's Own Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Tuai_Leit%27s_Own)"
+					"value": "• Tuai Liet's Own Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Tuai_Leit%27s_Own)"
 				},
 				{
 					"name": "Guide:",
@@ -848,17 +1069,33 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Arc X - Final Destination](http://runescape.wikia.com/wiki/Arc_X_-_Final_Destination) is an achievement that requires the player to complete the [Final Destination](http://runescape.wikia.com/wiki/Final_Destination) miniquest.",
+			"description": "[Arc X - Final Destination](http://runescape.wikia.com/wiki/Arc_X_-_Final_Destination) is an achievement that requires the player to complete the [Final Destination](http://runescape.wikia.com/wiki/Final_Destination) miniquest. This miniquest is a part of the [Tales of the Arc](https://runescape.wikia.com/wiki/Tales_of_the_Arc) miniquest series. Tales of the Arc is series of a quest and multiple miniquests revolving around [The Arc](https://runescape.wikia.com/wiki/The_Arc).\n\n For this quest, players will take the fight to [the Harbinger](https://runescape.wikia.com/wiki/The_Harbinger), battling through the crew all the way to [Captain Cora](https://runescape.wikia.com/wiki/Captain_Cora), hoping to finally discover where the creature that cursed [Ekahi](https://runescape.wikia.com/wiki/Cap'n_Ekahi) is. Learn about the secret of [Goshima](https://runescape.wikia.com/wiki/Goshima)'s Khan and best Cora in the process. Bring her to Goshima to see the destruction the creature has wrought, and end it once and for all.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/gGdB7UR.png"
 			},
 			"fields": [
-				{
+						{
+                    "name": "Start Point:",
+                    "value": "• Speak to [Lookout Ekahi](https://runescape.wikia.com/wiki/Cap'n_Ekahi), who can be found on south-east [Aminishi](https://runescape.wikia.com/wiki/Aminishi)"
+      			},
+        		{
+                    "name": "Official Difficulty:",
+                    "value": "• None"
+        		},
+        		{
+                    "name": "Official Length:",
+                    "value": "• Short"
+       			},
+        		{
+                    "name": "Items Required:",
+                    "value": "• None"
+        		},
+        		{
+                    "name": "Enemies to Defeat:",
+                    "value": "• 3x [zyclops cannoneer](https://runescape.wikia.com/wiki/Zyclops_cannoneer)\n• 6x [zombie](https://runescape.wikia.com/wiki/Zombie_(Uncharted_Isles)\n• 2x [skeleton](https://runescape.wikia.com/wiki/Skeleton_(Uncharted_Isles)\n• 2x [zyclops](https://runescape.wikia.com/wiki/Zyclops)\n• [Captain Cora](https://runescape.wikia.com/wiki/Captain_Cora)"
+        		},
+            {
 					"name": "Requirements:",
-					"value": "• Impressing the Locals Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Impressing_the_Locals)\n• Flag Fall Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/Flag_Fall)\n• Head of the Family Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/Head_of_the_Family)\n• Spiritual Enlightenment Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Spiritual_Enlightenment)\n• Jed Hunter Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Jed_Hunter)\n• Eye for an Eye Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Eye_for_an_Eye)\n• Harbinger Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Harbinger)\n• Tuai Liet's Own Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Tuai_Leit%27s_Own)\n• Ghosts from the Past Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Ghosts_from_the_Past)"
-				},
-				{
-					"name": "Requirements continued:",
 					"value": "• Damage Control Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Damage_Control)"
 				},
 				{
