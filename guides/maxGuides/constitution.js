@@ -40,7 +40,34 @@ exports.data = {
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     }
   },
-  "alternate methods": ,
+  "alternate methods": {
+    "title": "Alternative Methods of Training",
+    "url": "http://runescape.wikia.com/wiki/Pay-to-play_Constitution_training",
+    "description": "Some users may wish to utilize methods outside of the ones displayed in this channel's guide. To aid in this, the following alternative methods are provided.",
+        "color": 12269891,
+    "footer": {
+      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
+    },
+    "thumbnail": {
+      "url": "https://vignette.wikia.nocookie.net/runescape2/images/4/43/Soul_wars_xp_rewards.png/revision/latest?cb=20131031233723"
+    },
+    "author": {
+      "name": "Max Cape Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "fields": [
+ 
+    {
+      "name": "▬▬ Soul Wars ▬▬",
+      "value": "[Soul Wars](http://runescape.wikia.com/wiki/Soul_Wars)  is a team minigame that lasts twenty minutes per game and can be played on any world. In Soul Wars, two opposing teams compete against each other to gather [Soul Fragments](http://runescape.wikia.com/wiki/Soul_fragment) and offer them to the [Soul Obelisk](http://runescape.wikia.com/wiki/Soul_obelisk_(Soul_Wars) in order to weaken, and ultimately defeat, each other's avatars through combat."
+    },
+    {
+      "name": "​",
+      "value": "Players will receive a number of zeal points based on their performance in the game, unless the player joined the waiting area after the game was half over; in which case no zeal points are awarded. Players may trade these in with [Nomad](http://runescape.wikia.com/wiki/Nomad), [Zimberfizz](http://runescape.wikia.com/wiki/Zimberfizz), [Zimberfizz ashes](http://runescape.wikia.com/wiki/Zimberfizz_ashes), or [Zanik](http://runescape.wikia.com/wiki/Zanik) for a variety of rewards such as experience, charms, Slayer pets, and other items. Players can store a maximum of 50,000 Zeal points. This is equivalent to playing and winning 16,667 games."
+    }
+      ]
+  },
   "pet - morty": {
     "title": "Constitution Pet - Morty",
     "description": "The Sparky pet is an item that can be found while training Constitution. It can be used to unlock the [Morty pet](http://runescape.wikia.com/wiki/Morty).",
