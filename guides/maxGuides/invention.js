@@ -137,7 +137,7 @@ exports.data = {
       },
       {
         "name": "▬▬ Firemaking ▬▬",
-        "value": "• <#431118462472028160> Guide\n\t• **Tools:**\n\t\t• [Crystal Tinderbox](https://runescape.wikia.com/wiki/Crystal_tinderbox)\n\t• **Methods:**\n\t\t• [Bonfire](https://runescape.wikia.com/wiki/Bonfire)\n\t\t• [Portable Brazier](https://runescape.wikia.com/wiki/Portable_brazier)\n\t• **Tool Perks:**\n\t\t• [Tinker 3](https://runescape.wikia.com/wiki/Tinker)\n\t\t• [Pyromaniac 5](https://runescape.wikia.com/wiki/Pyromaniac)\n\t• **Equipped Item Perks:**\n\t\t• [Wise 3](https://runescape.wikia.com/wiki/Wise) \n\t\t• [Enhanced Devoted 3](https://runescape.wikia.com/wiki/Enhanced_Devoted)"
+        "value": "• <#431117916679831583> Guide\n\t• **Tools:**\n\t\t• [Crystal Tinderbox](https://runescape.wikia.com/wiki/Crystal_tinderbox)\n\t• **Methods:**\n\t\t• [Bonfire](https://runescape.wikia.com/wiki/Bonfire)\n\t\t• [Portable Brazier](https://runescape.wikia.com/wiki/Portable_brazier)\n\t• **Tool Perks:**\n\t\t• [Tinker 3](https://runescape.wikia.com/wiki/Tinker)\n\t\t• [Pyromaniac 5](https://runescape.wikia.com/wiki/Pyromaniac)\n\t• **Equipped Item Perks:**\n\t\t• [Wise 3](https://runescape.wikia.com/wiki/Wise) \n\t\t• [Enhanced Devoted 3](https://runescape.wikia.com/wiki/Enhanced_Devoted)"
      }
       ]
   },
