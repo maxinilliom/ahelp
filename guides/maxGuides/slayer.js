@@ -116,6 +116,7 @@ exports.data = {
   "75 - 85": {
     "title": "Slayer Training Levels 75-85",
     "description": "From levels 75-85, it's recommended to use [Kuradal](http://runescape.wikia.com/wiki/Slayer_Master#Kuradal), which requires 110 combat. \n\t\n\t Kuradal is the second highest level slayer master, requiring 75 slayer and 110 combat to use. She is located in the [Ancient Cavern](http://runescape.wikia.com/wiki/Ancient_Cavern) under [Baxtorian Falls](http://runescape.wikia.com/wiki/Baxtorian_Falls). The first time you access the cave through the whirlpool on the surface, but you can also access it by repairing the [Fairy Ring](http://runescape.wikia.com/wiki/Fairy_Ring) or using a [Ferocious Ring](http://runescape.wikia.com/wiki/Ferocious_ring).",
+    "url": "http://runescape.wikia.com/wiki/Slayer_Master",
     "color": 12269891,
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",

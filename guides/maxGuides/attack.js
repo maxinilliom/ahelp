@@ -25,227 +25,186 @@ exports.data = {
   },
 	"1 - 40": {
     "title": "Attack Training Levels 1-40",
-    "description": "From level 1-40 it's recommended to train on lower level creatures such as [Goblins](http://runescape.wikia.com/wiki/Goblin), [Cockroach drones](http://runescape.wikia.com/wiki/Cockroach_drone) and [Troll chuckers](http://runescape.wikia.com/wiki/Troll_chucker)",
+    "description": "From levels 1-40 players can begin training Attack on [Troll Chuckers](http://runescape.wikia.com/wiki/Troll_chucker). The trolls are level 1, with only 50 life points. They can be found in the northern section of the [Abandoned Burthorpe mine](http://runescape.wikia.com/wiki/Abandoned_Burthorpe_mine), north of [Burthorpe](http://runescape.wikia.com/wiki/Burthorpe).",
+    "url": "http://runescape.wikia.com/wiki/Pay-to-play_melee_training#Level_1-40",
     "color": 12269891,
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "thumbnail": {
-      "url": "https://vignette.wikia.nocookie.net/runescape2/images/f/f6/Goblin_level_5.png/revision/latest?cb=20121025095831"
+      "url": "https://vignette.wikia.nocookie.net/runescape2/images/f/ff/Troll_chucker.png/revision/latest?cb=20120201222754"
     },
     "author": {
       "name": "Max Cape Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
       "fields":[  
-         {  
-            "name":"​Goblins",
-            "value":"\t Location: East of Lumbridge castle \n\t XP rate: 52k/h\n\t Pros: Die quickly, decent drops for low levels. \n\t Cons: The spawn rate can be slow as you get higher levels."
-         },
-         {  
-            "name":"​Coackroach Drones",
-            "value":"\t Location: Middle level of the Stronghold of Player Safety\n\t XP rate: 45k/h\n\t Pros: Really good drops for low levels \n\t Cons: Spawns are quite far apart"
-         },
-         {  
-            "name":"​Troll Chuckers",
-            "value":"\t Location: Cave, west of Burthope\n\t XP rate: 43k/h\n\t Pros: Easy to kill \n\t Cons: Bad drops"
-         }
+
+     {
+       "name":"Recommended Armor",
+       "value":"• 1-10 [Bronze](http://runescape.wikia.com/wiki/Bronze_equipment#Armour)\n\nUpgrade:\n• 10-20 [Iron](http://runescape.wikia.com/wiki/Iron_equipment#Armour) (Requires 10 Defence)\n\nUpgrade:\n• 20-30 [Steel](http://runescape.wikia.com/wiki/Steel_equipment#Armour) (Requires 20 Defence)\n\nUpgrade:\n• 30-40 [Mithril](http://runescape.wikia.com/wiki/Mithril_equipment#Armour) (Requires 30 Defence)"
+     },
+     {
+       "name":"Recommended Weapons",
+       "value":"• 1-10 [Bronze](http://runescape.wikia.com/wiki/Bronze_equipment#Melee_weapons)\n\nUpgrade:\n• 10-20 [Iron](http://runescape.wikia.com/wiki/Iron_equipment#Melee_weapons)\n\nUpgrade:\n• 20-30 [Steel](http://runescape.wikia.com/wiki/Steel_equipment#Melee_weapons)\n\nUpgrade:\n• 30-40 [Mithril](http://runescape.wikia.com/wiki/Mithril_equipment#Melee_weapons)"
+     },
+     {
+       "name":"Alternative Method",
+       "value":"Alternatively, players can begin training Attack on [Goblins](http://runescape.wikia.com/wiki/Goblin). The goblins are level 2, with 100 life points. They can be found in [Lumbridge](http://runescape.wikia.com/wiki/Lumbridge), on the east side of the [River Lum](http://runescape.wikia.com/wiki/River_Lum). Players should use the recommended armor and weapons listed above."
+     },
+     {
+       "name":"Alternative Method",
+       "value":"Another alternative can be [Cockroach Drones](http://runescape.wikia.com/wiki/Cockroach_drone). These are level 4, with only 150 life points. They can be found in the [Stronghold of Player Safety](http://runescape.wikia.com/wiki/Stronghold_of_Player_Safety), under the [Misthalin Training Centre of Excellence](http://runescape.wikia.com/wiki/Misthalin_Training_Centre_of_Excellence). These creatures take longer to kill, meaning less experience gained per hour, but can be worth doing to make some starting coins. Players should use the recommended armor and weapons listed above."
+     }
       ]
   },
   "40 - 60": {
     "title": "Attack Training Levels 40-60",
-    "description": "From level 40 the recomended monsters to kill are [Gnome troops](http://runescape.wikia.com/wiki/Gnome_troop), [Hill giants](http://runescape.wikia.com/wiki/Hill_giant), [Moss giants](http://runescape.wikia.com/wiki/Moss_giant), [Ghouls](http://runescape.wikia.com/wiki/Ghoul) and [Ogres](http://runescape.wikia.com/wiki/Ogre).",
+    "description": "At level 40 players should now kill [Gnome Troops](http://runescape.wikia.com/wiki/Gnome_troop). The troops are level 44, with 1,600 life points. They can be found in [Khazard Battlefield](http://runescape.wikia.com/wiki/Battlefield).",
+    "url": "http://runescape.wikia.com/wiki/Pay-to-play_melee_training#Level_40-60",
     "color": 12269891,
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "thumbnail": {
-      "url": "https://vignette.wikia.nocookie.net/runescape2/images/b/bd/Hill_giant.png/revision/latest?cb=20121110145354"
+      "url": "https://vignette.wikia.nocookie.net/runescape2/images/4/42/Gnome_troop.png/revision/latest?cb=20130815223008"
     },
     "author": {
       "name": "Max Cape Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-      "fields":[  
-         {  
-            "name":"​Gnome Troops",
-            "value":"\t Location: \n\t XP rate: 74k/h\n\t Pros: Easy to kill \n\t Cons: No drops"
-         },
-         {  
-            "name":"​Hill Giants",
-            "value":"\t Location: \n\t XP rate: 90k/h\n\t Pros: A lot of spawns in a small area\n\t Cons: Can hit hard on low defence"
-         },
-                 {  
-            "name":"​Moss Giants",
-            "value":"\t Location: \n\t XP rate: 100k/h\n\t Pros: Weak to slash and low hitpoints\n\t Cons: Slow spawn rate and poor drops"
-         },
-                 {  
-            "name":"​Ghouls",
-            "value":"\t Location: \n\t XP rate: 84k/h\n\t Pros: A lot of spawns, low hitpoints\n\t Cons: High defence, poor drops"
-         },
-         {  
-            "name":"​Ogres",
-            "value":"\t Location: \n\t XP rate: 62k/h\n\t Pros: Can be safespotted with halberd and drop gold charms\n\t Cons: Bad drops and high defence"
-         }
-        
-      ]
+     "fields": [
+      
+     {
+       "name":"Recommended Armor",
+       "value":"• 40-50 [Adamant](http://runescape.wikia.com/wiki/Adamant_equipment#Armour) (Requires 40 Defence)\n\nUpgrade:\n• 50-60 [Rune](http://runescape.wikia.com/wiki/Rune_equipment#Armour) (Requires 50 Defence)"
+     },
+     {
+       "name":"Recommended Weapons",
+       "value":"• 40-50 [Adamant](http://runescape.wikia.com/wiki/Adamant_equipment#Melee_weapons)\n\nUpgrade:\n• 50-60 [Rune](http://runescape.wikia.com/wiki/Rune_equipment#Melee_weapons)"
+     },
+     {
+       "name":"Alternative Method",
+       "value":"Alternatively, players can kill [Moss Giants](http://runescape.wikia.com/wiki/Moss_giant). The giants are level 31, with 3,700 life points. They can be found in [Brimhaven Dungeon](http://runescape.wikia.com/wiki/Brimhaven_Dungeon). Giants are a great alternative because they can be killed fast. Players should use the recommended armor and weapons listed above."
+     },
+     {
+       "name":"Alternative Method",
+       "value":"A player can also kill [Rock Crabs](http://runescape.wikia.com/wiki/Rock_Crab). The crabs are level 71, with 2,550 life points. They can be found in the northern part of [Relleka](http://runescape.wikia.com/wiki/Rellekka). These are a good alternative for those looking for aggressive creatures, though a player will still have to walk near them to activate the aggression.  Players should use the recommended armor and weapons listed above."
+     }
+    ]
   },
   "60 - 70": {
     "title": "Attack Training Levels 60-70",
-    "description": "From level 60-70 the recommended monsters to train on are [Jungle spiders](https://runescape.wikia.com/wiki/Jungle_spider), [Deadly red spiders](https://runescape.wikia.com/wiki/Deadly_red_spider), [Hellhounds](https://runescape.wikia.com/wiki/Hellhound), [Abyssal creatures](https://runescape.wikia.com/wiki/Abyssal_leech) and [Fire giants](https://runescape.wikia.com/wiki/Fire_giant) . **Note: The methods from 60 to 99 are tested on a maxed account w/ T70 gear, and xp rates are not accurate, this will be changed in the future. **",
+    "description": "Once level 60, players can begin training on [Fire Giants](http://runescape.wikia.com/wiki/Fire_giant). The giants are level 85, with 6,700 life points. They can be found in [Brimhaven Dungeon](http://runescape.wikia.com/wiki/Brimhaven_Dungeon).",
+    "url": "http://runescape.wikia.com/wiki/Pay-to-play_melee_training#Level_60-70",
     "color": 12269891,
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "thumbnail": {
-      "url": "https://vignette.wikia.nocookie.net/runescape2/images/8/8b/Abyssal_leech.png/revision/latest?cb=20100815125425"
+      "url": "https://vignette.wikia.nocookie.net/runescape2/images/f/ff/Troll_chucker.png/revision/latest?cb=20120201222754"
     },
     "author": {
       "name": "Max Cape Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
       "fields":[  
-         {  
-            "name":"​Jungle Spiders",
-            "value":"\t Location: Fairy ring south of Musa Point (DKP) \n\t XP rate: 185k/h\n\t Pros: Weak to crush weapons\n\t Cons: Can be hard to spot as they don't appear on the minimap"
-         },
-         {  
-            "name":"​Deadly Red Spiders",
-            "value":"\t Location: Edgeville Dungeon (levels 4 to 6 Wilderness) \n\t XP rate: 262k/h\n\t Pros: Weak to crush and drop gold charms\n\t Cons: Can hit hard with range attacks on lower levels"
-         },
-                 {  
-            "name":"​Hellhounds",
-            "value":"\t Location: Taverly dungeon resource dungeon\n\t XP rate: 390k/h/h\n\t Pros: Weak to slash, drop a lot of gold charms and hard clues\n\t Cons: Can hit hard on lower levels"
-         },
-                 {  
-            "name":"​Abyssal Creatures",
-            "value":"\t Location: The abyss (Accessed through the wilderness)\n\t XP rate: 650k/h\n\t Pros: Using aoe attacks will grant high experience rates\n\t Cons: Can be difficult to find an open world"
-         },
-         {  
-            "name":"​Fire Giants",
-            "value":"\t Location: Waterfall Dungeon\n\t XP rate: 220k/h\n\t Pros: Weak to slash and have decent drops\n\t Cons: They can do moderate damage with their ranged attacks"
-         }
+
+     {
+       "name":"Recommended Armor",
+       "value":"• 60-70 [Dragon](http://runescape.wikia.com/wiki/Dragon_equipment#Armour) (Requires 60 Defence)"
+     },
+     {
+       "name":"Recommended Weapons",
+       "value":"• 60-70 [Dragon](http://runescape.wikia.com/wiki/Dragon_equipment#Melee_weapons)"
+     },
+     {
+       "name":"Alternative Method",
+       "value":"Alternatively, players can train on [Jungle Spiders](http://runescape.wikia.com/wiki/Jungle_spider). The spiders are level 86, with 3,100 life points. Players should use the recommended armor and weapons listed above."
+     }
       ]
   },
   "70 - 80": {
     "title": "Attack Training Levels 70-80",
-    "description": "From level 70-80 the recommended monsters to train on are [Tzhaar Creatures](https://runescape.wikia.com/wiki/TzHaar), [Dagannoth](https://runescape.wikia.com/wiki/Dagannoth), [Dust Devil](https://runescape.wikia.com/wiki/Dust_devil), [Living rock creatures](https://runescape.wikia.com/wiki/Living_rock_creature), [Frost Dragon](https://runescape.wikia.com/wiki/Frost_dragon) and [Armoured zombie](https://runescape.wikia.com/wiki/Armoured_zombie). **Note: The methods from 60 to 99 are tested on a maxed account w/ T70 gear, and xp rates are not accurate, this will be changed in the future. **",
+    "description": "Once level 70, players can train on [Hellhounds](http://runescape.wikia.com/wiki/Hellhound). Hellhounds are level 92, with 3,300 life points. They can be found in [Taverly Dungeon](http://runescape.wikia.com/wiki/Taverley_Dungeon). They are aggressive creatures, and will require a player to bring food at lower levels.",
+    "url": "http://runescape.wikia.com/wiki/Pay-to-play_melee_training#Level_70-80",
     "color": 12269891,
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "thumbnail": {
-      "url": "https://vignette.wikia.nocookie.net/runescape2/images/5/56/Frost_dragon.png/revision/latest?cb=20111110051039"
+      "url": "https://vignette.wikia.nocookie.net/runescape2/images/3/3e/Hellhound.png/revision/latest?cb=20130415212442"
     },
     "author": {
       "name": "Max Cape Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
       "fields":[  
-         {  
-            "name":"​Tzhaar creatures",
-            "value":"\t Location:  Tzhaar City\n\t XP rate: 180k/h\n\t Pros: Decent drops\n\t Cons: Can hit high on lower levels"
-         },
-         {  
-            "name":"​Dagganoths",
-            "value":"\t Location: Lighthouse basement\n\t XP rate: 340k/h\n\t Pros: A lor of spawns in a small area\n\t Cons: Bad drops and low aggression range"
-         },
-                 {  
-            "name":"​Dust Devils",
-            "value":"\t Location: Smoke Dungeon\n\t XP rate: 200k/h/h\n\t Pros: Weak to crush and a decent slayer task\n\t Cons: Requires 65 Slayer to kill"
-         },
-                 {  
-            "name":"​Living Rock Creatures",
-            "value":"\t Location: Living Rock Cavern\n\t XP rate: 300k/h\n\t Pros: Low defence and the Strikers are weak to crush\n\t Cons: They have high accuracy and are fairly spread out"
-         },
-                         {  
-            "name":"​Frost Dragons",
-            "value":"\t Location: Asgarnian Ice Dungeon resource dungeon\n\t XP rate: 455k/h\n\t Pros: Very good money with notepaper or yak teleports\n\t Cons: Requires 85 Dungeroneering"
-         },
-         {  
-            "name":"​Armoured Zombies",
-            "value":"\t Location: \n\t XP rate: 580k/h\n\t Pros: The zombies do not hit hard and theres an altar close by\n\t Cons: Requires partal completion of [Defender of Varrock](https://runescape.wikia.com/wiki/Defender_of_Varrock)"
-         }
+
+     {
+       "name":"Recommended Armor",
+       "value":"• 70-80 [Guthan's](http://runescape.wikia.com/wiki/Guthan_the_Infested%27s_equipment#Price) (Requires 70 Defence)"
+     },
+     {
+       "name":"Recommended Weapons",
+       "value":"• 70-80 [Guthan's Warspear](http://runescape.wikia.com/wiki/Guthan%27s_warspear)"
+     },
+     {
+       "name":"Alternative Method",
+       "value":"Alternatively, players can train on [TzHaar-Xils](http://runescape.wikia.com/wiki/TzHaar-Xil) specifically, due to slash weakness. The TzHaar are level 86, with 3,100 life points. Players should use the following recommended armor and weapons."
+     },
+     {
+       "name":"Recommended Armor",
+       "value":"• 70-80 [Bandos](http://runescape.wikia.com/wiki/Bandos_equipment) (Requires 70 Defence)"
+     },
+     {
+       "name":"Recommended Weapons",
+       "value":"• 70-80 [Godsword](http://runescape.wikia.com/wiki/Godsword)\nOR\n• 70-80 [Abyssal Whip](http://runescape.wikia.com/wiki/Abyssal_whip)"
+     }
       ]
   },
-  "80 - 90": {
-    "title": "Attack Training Levels 80-90",
-    "description": "From level 80-90 the recommended monsters to train on are [Mutated Jadinkos](https://runescape.wikia.com/wiki/Mutated_jadinko), [Nechryael](https://runescape.wikia.com/wiki/Nechryaels), [Exiled Kalphite Guardians](https://runescape.wikia.com/wiki/Exiled_kalphite_guardian) and [Abyssal Demons](https://runescape.wikia.com/wiki/Abyssal_demon). **Note: The methods from 60 to 99 are tested on a maxed account w/ T70 gear, and xp rates are not accurate, this will be changed in the future. **",
+  "80 - 99 +": {
+    "title": "Attack Training Levels 80-99+",
+    "description": "At level 80, players should now head over to the [Abyssal Creatures](http://runescape.wikia.com/wiki/Abyss/Combat_training). Abyssal creatures levels range from 72 to 79, with 2,600 to 2,850 life points. To enter the Abyss, the player needs to complete the [Abyss Miniquest](http://runescape.wikia.com/wiki/Abyss_(miniquest). Once completed, use the 'Teleport' option on the [Mage of Zamorak](http://runescape.wikia.com/wiki/Mage_of_Zamorak) north of [Edgeville](http://runescape.wikia.com/wiki/Edgeville) in level 4 to 6 Wilderness to enter.",
+    "url": "http://runescape.wikia.com/wiki/Pay-to-play_melee_training#Level_80-90",
     "color": 12269891,
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "thumbnail": {
-      "url": "https://vignette.wikia.nocookie.net/runescape2/images/2/21/Abyssal_demon.png/revision/latest?cb=20160417194717"
+      "url": "https://vignette.wikia.nocookie.net/runescape2/images/9/9b/Abyssal_guardian.png/revision/latest?cb=20111117035014"
     },
     "author": {
       "name": "Max Cape Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
       "fields":[  
-         {  
-            "name":"​Mutated Jadinkos (Male)",
-            "value":"\t Location: Jadinko Lair\n\t XP rate: 650k/h\n\t Pros: Easy to kill and they drop food\n\t Cons: Requires 91 Slayer to kill"
-         },
-         {  
-            "name":"​Nechryaels",
-            "value":"\t Location: Morytania slayer tower\n\t XP rate: 255k/h\n\t Pros: Weak to crush and give money from slayer contracts\n\t Cons: Requires 80 slayer to kill and food may be required"
-         },
-                 {  
-            "name":"​Exiled Kalphite Guardians",
-            "value":"\t Location: Exiled Kalphite Hive\n\t XP rate: 420k/h\n\t Pros: Very good for blue charms\n\t Cons: They are in a multi area and can hit quite hard"
-         },
-         {  
-            "name":"​Abyssal Demons",
-            "value":"\t Location: Morytania slayer tower\n\t XP rate: 800k/h\n\t Pros: Weak to slash and can be quite good money\n\t Cons: Requires 85 Slayer to kill"
-         }
-      ]
-  },
-  "90 - 99 +": {
-    "title": "Attack Training Levels 90-99+",
-    "description": "From level 90-99+ the recommended monsters to train on are [General Graardor](https://runescape.wikia.com/wiki/General_Graardor), [K'ril Tsutsaroth](https://runescape.wikia.com/wiki/K%27ril_Tsutsaroth), [Automaton Tracer](https://runescape.wikia.com/wiki/Automaton_Tracer), [Airuts](https://runescape.wikia.com/wiki/Airut), [Crystal Shapeshifters](https://runescape.wikia.com/wiki/Crystal_Shapeshifter) and [Corrupted workers](https://runescape.wikia.com/wiki/Corrupted_worker). **Note: The methods from 60 to 99 are tested on a maxed account w/ T70 gear, and xp rates are not accurate, this will be changed in the future. **",
-    "color": 12269891,
-    "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
-      "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
-    },
-    "thumbnail": {
-      "url": "https://vignette.wikia.nocookie.net/runescape2/images/9/91/Crystal_Shapeshifter.png/revision/latest?cb=20150825173958"
-    },
-    "author": {
-      "name": "Max Cape Info",
-      "icon_url": "https://i.imgur.com/6c6q2iC.png"
-    },
-      "fields":[  
-         {  
-            "name":"​General Graardor",
-            "value":"\t Location: Godwars dungeon\n\t XP rate: 300k/h\n\t Pros: Good drops, fast kills with instance\n\t Cons: High risk of death and getting KC slows down xp rates"
-         },
-         {  
-            "name":"​Kr'ril Trutsaroth",
-            "value":"\t Location: Godwars dungeon\n\t XP rate: 310k/h\n\t Pros: Good drops, fast kills with instance\n\t Cons: High risk of death and getting KC slows down xp rates"
-         },
-                 {  
-            "name":"​Automaton Tracers",
-            "value":"\t Location: Guthix's cave, central room\n\t XP rate: 280k/h\n\t Pros: All drops are noted and they are weak to crush\n\t Cons: Requires all parts of The World Wakes"
-         },
-                         {  
-            "name":"​Airuts",
-            "value":"\t Location: West of the Phoenix Lair / Mazcab\n\t XP rate: 600k/h\n\t Pros: Valuable drops and most of them are noted\n\t Cons: High defence and can hit hard"
-         },
-                         {  
-            "name":"​Crystal Shapeshifters",
-            "value":"\t Location: Tarddiad\n\t XP rate: 720k/h\n\t Pros: Decent drops\n\t Cons: They change combat style depending on your equipment"
-         },
-         {  
-            "name":"​Corrupted Workers",
-            "value":"\t Location: Sophanem slayer dungeon\n\t XP rate: 700k/h\n\t Pros: Semi-afk with aggression potions \n\t Cons: Requires 103 slayer and can hit relatively hard"
-         }
+
+     {
+       "name":"Recommended Armor",
+       "value":"• 80-99+ [Bandos](http://runescape.wikia.com/wiki/Bandos_equipment) (Requires 70 Defence)"
+     },
+     {
+       "name":"Recommended Weapons",
+       "value":"• 80-85 [Crystal Halberd](http://runescape.wikia.com/wiki/Crystal_halberd) (Requires [Roving Elves](http://runescape.wikia.com/wiki/Roving_Elves))\nOR\n• 80-85 [Dragon Halberd](http://runescape.wikia.com/wiki/Dragon_halberd)\n\nUpgrade:\n• 85-99+ [Dragon Rider Lance](http://runescape.wikia.com/wiki/Dragon_Rider_lance)\n\nExpensive Alternative:\n• 90-99+ [Noxious Scythe](http://runescape.wikia.com/wiki/Noxious_scythe)"
+     },
+     {
+       "name":"Alternative Method",
+       "value":"At level 85, players can instead do [Waterfiends](http://runescape.wikia.com/wiki/Waterfiend). With a combat level of 107, and 8,000 life points, waterfiends are a viable option for those who also want to collect as many charms as possible on the way to 99. Waterfiends can be found in the [Ancient Caverns](http://runescape.wikia.com/wiki/Ancient_Cavern), which requires the first part of [Barbarian Firemaking](http://runescape.wikia.com/wiki/Barbarian_Firemaking) to be done."
+     },
+     {
+       "name":"Recommended Armor",
+       "value":"• 85-99+ [Bandos](http://runescape.wikia.com/wiki/Bandos_equipment) (Requires 70 Defence)\n\nExpensive Alternative:\n• [Anima Core of Zaros](http://runescape.wikia.com/wiki/Anima_Core_of_Zaros) (Requires 80 Defence)\n• [Torva](http://runescape.wikia.com/wiki/Torva_equipment) (Requires 80 Defence)"
+     },
+     {
+       "name":"Recommended Weapons",
+       "value":"• 85-99+ [Godsword](http://runescape.wikia.com/wiki/Godsword)\nOR\n• 85-99+ [Dragon Rider Lance](http://runescape.wikia.com/wiki/Dragon_Rider_lance)\n\nExpensive Alternative:\n• 90-99+ [Noxious Scythe](http://runescape.wikia.com/wiki/Noxious_scythe)"
+     }
       ]
   },
   "abilities": {
@@ -271,9 +230,9 @@ exports.data = {
       }
       ]
   },
-  "alternate methods": {
+  "alternate methods pt1": {
     "title": "Alternative Methods of Training",
-    "url": "http://runescape.wikia.com/wiki/Agility_training#Alternative_methods_of_gaining_experience",
+    "url": "http://runescape.wikia.com/wiki/Pay-to-play_Ranged_training#Other_training_methods",
     "description": "Some users may wish to utilize methods outside of the ones displayed in this channel's guide. To aid in this, the following alternative methods are provided.",
         "color": 12269891,
     "footer": {
@@ -281,38 +240,65 @@ exports.data = {
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "thumbnail": {
-      "url": "https://vignette.wikia.nocookie.net/runescape2/images/8/82/TzTok-Jad.png/revision/latest?cb=20120703093421"
+      "url": "https://vignette.wikia.nocookie.net/runescape2/images/c/ce/Melee_training_dummy_detail.png/revision/latest?cb=20140812213350"
     },
     "author": {
       "name": "Max Cape Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
     "fields": [
-      {
-        "name": "▬▬ Tzhaar Fight Cave ▬▬",
-        "value": "The TzHaar Fight Cave is a minigame in RuneScape. It involves single-handedly fighting off 62 waves of TzHaar creatures, not including a boss fight against one of the strongest monsters on RuneScape: [TzTok-Jad](https://runescape.wikia.com/wiki/TzTok-Jad), with a combat level of 702. Players will be rewarded with [Tokkul](https://runescape.wikia.com/wiki/Tokkul) for playing this minigame, and if they manage to defeat TzTok-Jad, they will be rewarded with the [fire cape](https://runescape.wikia.com/wiki/Fire_cape). "
-      },
-      {
-        "name": "​",
-        "value": "Completing the entire TzHaar Fight Caves gives about 130,000 experience in combat skills and about 45,000 experience in constitution, giving roughly 175,000 experience total for completing the fight caves, including Jad. This is a safe minigame, as you will keep all your items if you die. However, you will not keep the ammo, food, and potions already used when you die, so doing the fight cave is not cost free."
-      },
-      {
-        "name": "▬▬ Fight Kiln ▬▬",
-        "value": "The Fight Kiln is a combat minigame wherein waves of [TokHaar](https://runescape.wikia.com/wiki/TokHaar) are fought for the sole sake of combat and the TokHaar's amusement. It's a tougher and improved sequel to the [TzHaar Fight Cave minigame](https://runescape.wikia.com/wiki/TzHaar_Fight_Cave), and is extremely difficult to complete for the average player."
-      },
-      {
-        "name": "​",
-        "value": "Unlike the typical 63 waves of the Fight Cave, the Fight Kiln only has 37 waves. While there is no combat level pattern to be followed for each wave, the waves are always the same between attempts, and the monsters always spawn in the same location. To reach the end of the minigame, players must fight a total of 7 [TokHaar-Jad](https://runescape.wikia.com/wiki/TokHaar-Jad) - who function in much the same way as the standard [TzTok-Jad](https://runescape.wikia.com/wiki/TzTok-Jad) - before being faced with their final challenge; the gigantic [Har-Aken](https://runescape.wikia.com/wiki/Har-Aken). "
-      },
-      {
-        "name": "▬▬ Fight Cauldron ▬▬",
-        "value": "The Fight Cauldron is located South-East of the Main Plaza in the [TzHaar city](https://runescape.wikia.com/wiki/TzHaar_City). It is the fourth TzHaar minigame to be released, and can only be accessed after completion of [The Brink of Extinction](https://runescape.wikia.com/wiki/The_Brink_of_Extinction). Summoning familiars may not be brought into the Fight Cauldron. Within the Fight Cauldron, players battle endless waves of TokHaar monsters to receive combat experience, [obsidian shards](https://runescape.wikia.com/wiki/Obsidian_shard) used to smith the level 60, hybrid [obsidian armour](https://runescape.wikia.com/wiki/Obsidian_equipment#Armour), and other miscellaneous drops. "
-      },
+    {
+      "name": "▬▬ Combat Training Dummies ▬▬",
+      "value": "The [Melee Training Dummy](http://runescape.wikia.com/wiki/Melee_training_dummy) is a dummy won off of [Treasure Hunter](http://runescape.wikia.com/wiki/Treasure_Hunter). The dummy can be attacked and destroyed up to 5 times. Each time the dummy is destroyed, the player will receive a certain amount of Constitution experience, as well as experience in a Melee skill of choice. Once it has been defeated 5 times, the dummy will be permanently destroyed, meaning that the player has to place another one down. Killing the dummy a fifth time will provide an extra amount of experience."
+    },
+    {
+      "name": "▬▬ Slayer ▬▬",
+      "value": "Slayer is a support skill involving the use of combat. Players are assigned specific monsters to kill, which grant both combat and Slayer experience per kill. These assignments are given out by one of the eight [Slayer Masters](http://runescape.wikia.com/wiki/Slayer_Master). It is highly recommended to train all combat skills through Slayer, especially if a player is working towards [Max Cape](http://runescape.wikia.com/wiki/Max_cape)."
+    },
+    {
+      "name": "▬▬ Darkbeasts ▬▬",
+      "value": "[Darkbeast](http://runescape.wikia.com/wiki/Dark_beast) can be an alternative training method at level 90 Attack. They require 90 Slayer to kill, and can be found in the [Mourner Tunnels](http://runescape.wikia.com/wiki/Mourner_Tunnels) (requires [Mournings End End II](http://runescape.wikia.com/wiki/Mourning%27s_End_Part_II)). A player can expect to gain 300,000-600,000 combat experience per hour here."
+    },
+    {
+      "name": "▬▬ Airuts ▬▬",
+      "value": "[Airuts](http://runescape.wikia.com/wiki/Airut) can be another level 90 Attack alternative. They require 92 Slayer to kill, and can be found just west of the [Pheonix Lair](http://runescape.wikia.com/wiki/Phoenix_Lair). Aside from the experience per hour gained here, airuts are also great for their drops."
+    }
+      ]
+  },
+  "alternate methods pt2": {
+    "title": "Alternative Methods of Training Continued",
+    "url": "http://runescape.wikia.com/wiki/Pay-to-play_Ranged_training#Other_training_methods",
+    "description": "Some users may wish to utilize methods outside of the ones displayed in this channel's guide. To aid in this, the following alternative methods are provided.",
+        "color": 12269891,
+    "footer": {
+      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
+    },
+    "thumbnail": {
+      "url": "https://vignette.wikia.nocookie.net/runescape2/images/4/43/Soul_wars_xp_rewards.png/revision/latest?cb=20131031233723"
+    },
+    "author": {
+      "name": "Max Cape Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "fields": [
+    { 
+      "name": "▬▬ Stealing Creation ▬▬", 
+      "value": "[Stealing Creation](http://runescape.wikia.com/wiki/Stealing_Creation) is a minigame located in the [Gamers' Grotto](http://runescape.wikia.com/wiki/Gamers%27_Grotto) with a reward shop ran by [Rewards Mystic](http://runescape.wikia.com/wiki/Rewards_mystic) in the north-east corner. The goal of the minigame, played in two opposing teams, is to collect and process as much [clay](http://runescape.wikia.com/wiki/Sacred_clay) as possible, and deposit it at the base. However, the two teams may attack each other, claiming all of one's held clay and items upon death. No items may be taken into the game, either in inventory or worn, nor any pets or familiars. There is a bank deposit box right by the entrance. Items on the tool belt do not work in the game. Games can last up to 20 minutes, but they can end earlier if all resources in the play arena are exhausted."
+    }, 
+    { 
+      "name": "​", 
+      "value": "Points are given based on the actions performed during each game, with a breakdown found [here](http://runescape.wikia.com/wiki/Stealing_Creation/Rewards#Point_system). Players can buy items such as the [Volatile tool](http://runescape.wikia.com/wiki/Volatile_clay_tool), the [Proto-tool](http://runescape.wikia.com/wiki/Proto-tool), and the different types of [Sacred Clay Armour and Weapons](http://runescape.wikia.com/wiki/Sacred_clay_equipment). Volatile tools provide 29,340 bonus experience, but change at random. All other rewards, except for the [shield](http://runescape.wikia.com/wiki/Sacred_clay_equipment#Shields), provide 24,450 bonus experience. The [Artisan's outfit](http://runescape.wikia.com/wiki/Artisan%27s_outfit) and [Fletcher's outfit](http://runescape.wikia.com/wiki/Fletcher%27s_outfit) can be bought at the reward shop as well. For more in-depth information about each reward, refer to the main article using this [link](http://runescape.wikia.com/wiki/Stealing_Creation/Rewards#Reward_equipment)."
+    },
+    {
+      "name": "▬▬ Soul Wars ▬▬",
+      "value": "[Soul Wars](http://runescape.wikia.com/wiki/Soul_Wars)  is a team minigame that lasts twenty minutes per game and can be played on any world. In Soul Wars, two opposing teams compete against each other to gather [Soul Fragments](http://runescape.wikia.com/wiki/Soul_fragment) and offer them to the [Soul Obelisk](http://runescape.wikia.com/wiki/Soul_obelisk_(Soul_Wars) in order to weaken, and ultimately defeat, each other's avatars through combat."
+    },
+    { 
+      "name": "​", 
+      "value": "Players will receive a number of zeal points based on their performance in the game, unless the player joined the waiting area after the game was half over; in which case no zeal points are awarded. Players may trade these in with [Nomad](http://runescape.wikia.com/wiki/Nomad), [Zimberfizz](http://runescape.wikia.com/wiki/Zimberfizz), [Zimberfizz ashes](http://runescape.wikia.com/wiki/Zimberfizz_ashes), or [Zanik](http://runescape.wikia.com/wiki/Zanik) for a variety of rewards such as experience, charms, Slayer pets, and other items. Players can store a maximum of 50,000 Zeal points. This is equivalent to playing and winning 16,667 games."
+    },
        {
-        "name": "​",
-        "value": "The Fight Cauldron takes place in a medium-sized square-shaped arena that is entered from a hot vent door to the west. Players may leave the minigame at any time by exiting the vent door, or by allowing themselves to be killed; as the Fight Cauldron is a safe minigame, players who die will respawn at the Fight Cauldron bank in the TzHaar City with their items intact and fully restored stats. However, potion boosts will wear off, [overload timers](https://runescape.wikia.com/wiki/Overload) will be depleted, and you will lose half of the shards that you earned while in the arena."
-      },
-      {
         "name": "▬▬ Pest Control ▬▬",
         "value": "[Pest Control](https://runescape.wikia.com/wiki/Pest_Control) is a co-operative members-only combat-based minigame. In it, players must defend an NPC known as the [Void Knight](https://runescape.wikia.com/wiki/Pest_Control) from an onslaught of monsters, while at the same time destroying the portals from which the monsters spawn. It is advisable to have some players stay at the Void Knight and some at each portal. "
       },
@@ -328,7 +314,7 @@ exports.data = {
   },
   "pet - sifu": {
     "title": "Attack Pet - Sifu",
-    "description": "Sifu is the skilling pet obtainable from Attack. He is unlocked by inspecting the [Sifu Pet](https://runescape.wikia.com/wiki/Sifu_pet).",
+    "description": "Sifu is the skilling pet obtainable from Attack. He is unlocked by inspecting the [Sifu Pet](http://runescape.wikia.com/wiki/Sifu).",
     "url": "https://runescape.wikia.com/wiki/Sifu_pet",
     "color": 12269891,
     "footer": {
@@ -336,7 +322,7 @@ exports.data = {
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "thumbnail": {
-      "url": "https://vignette.wikia.nocookie.net/runescape2/images/c/cb/Sifu_pet_detail.png/revision/latest?cb=20171122111149"
+      "url": "https://vignette.wikia.nocookie.net/runescape2/images/3/3d/Sifu_%28pet%29.png/revision/latest?cb=20171121125300"
     },
     "author": {
       "name": "Max Cape Info",
@@ -363,7 +349,7 @@ exports.data = {
   },
   "quests": {
     "title": "Quests which Grant Attack Experience",
-    "url": "http://runescape.wikia.com/wiki/Quests/Experience_rewards#Agility",
+    "url": "http://runescape.wikia.com/wiki/Quests/Experience_rewards#Attack",
     "description": "Currently, a total of 209,667 experience may be gained specifically to Attack throughout all of the RuneScape Quests. These rewards are automatically given and there is no choice involved.",
         "color": 12269891,
     "footer": {
@@ -406,16 +392,12 @@ exports.data = {
     "value": "Accessible to both Free-to-play and Members after completion of the quest [A Shadow over Ashdale](https://runescape.wikia.com/wiki/A_Shadow_over_Ashdale), [Agoroth](https://runescape.wikia.com/wiki/Agoroth) can be fought in the Ashdale Caves by accessing the Dead Man's chest once a week for non-members, and twice a week for members. Defeating Agoroth awards players with a black pearl, awarding bonus experience in a skill of their choice. "
     }, 
     { 
-    "name": "▬▬ Champions' Challenge ▬▬", 
-    "value": "While fighting creatures of one of 13 races, players may receive a [Champion's scroll as a drop](https://runescape.wikia.com/wiki/Champion%27s_scroll), [challenging](https://runescape.wikia.com/wiki/Champions%27_Challenge) them to a formal duel by the race's Champion. Champion's scrolls are extremely rare drops, making it quite difficult to duel all the Champions. Once a scroll is obtained, giving it to Larxus in the basement of the Champions' Guild will permanently unlock access to that champion. Champions may be re-fought weekly for additional rewards. "
-    }, 
-    { 
     "name": "▬▬ Demon Flash Mobs ▬▬", 
-    "value": "A [demon mob](https://runescape.wikia.com/wiki/Demon_Flash_Mob) spawns every hour, consisting of a demon boss and several of its minions. All minions must be killed before the boss can be damaged; taking too long to dispatch the minions will allow the boss to become more powerful. The demon boss is extremely powerful, and not to be underestimated - this D&D is designed for groups, but solo play can be achieved at near max levels. Once the demon boss is defeated, it will drop loot, with a chance to receive [demon slayer armour](https://runescape.wikia.com/wiki/Demon_slayer_equipment). "
+    "value": "A [Demon Mob](https://runescape.wikia.com/wiki/Demon_Flash_Mob) spawns every hour, consisting of a demon boss and several of its minions. All minions must be killed before the boss can be damaged; taking too long to dispatch the minions will allow the boss to become more powerful. The demon boss is extremely powerful, and not to be underestimated - this D&D is designed for groups, but solo play can be achieved at near max levels. Once the demon boss is defeated, it will drop loot, with a chance to receive [demon slayer armour](https://runescape.wikia.com/wiki/Demon_slayer_equipment). "
     }, 
     { 
     "name": "▬▬ Goblin raids ▬▬", 
-    "value": "Available to both Free-to-play and Members, [goblin raids](https://runescape.wikia.com/wiki/Goblin_Raids) occurs every 30 minutes. [Goblin Raiders](https://runescape.wikia.com/wiki/Goblin_Raider) lead by [Hollowtoof](https://runescape.wikia.com/wiki/Hollowtoof) will randomly plunder a farm or copper mine in the kingdoms of Misthalin and Asgarnia. Goblin raiders will drop their pillaged loot when killed. Hollowtoof attacks anyone nearby once his mob has been lost, awarding a piece of [raider equipment](https://runescape.wikia.com/wiki/Raider_equipment) when defeated. After the raid has collapsed, a Black Guard squad led by [Commander Yodri](https://runescape.wikia.com/wiki/Commander_Yodri) arrives, awarding additional skilling supplies when approached by defenders. "
+    "value": "Available to both Free-to-play and Members, [Goblin Raids](https://runescape.wikia.com/wiki/Goblin_Raids) occurs every 30 minutes. [Goblin Raiders](https://runescape.wikia.com/wiki/Goblin_Raider) lead by [Hollowtoof](https://runescape.wikia.com/wiki/Hollowtoof) will randomly plunder a farm or copper mine in the kingdoms of Misthalin and Asgarnia. Goblin raiders will drop their pillaged loot when killed. Hollowtoof attacks anyone nearby once his mob has been lost, awarding a piece of [raider equipment](https://runescape.wikia.com/wiki/Raider_equipment) when defeated. After the raid has collapsed, a Black Guard squad led by [Commander Yodri](https://runescape.wikia.com/wiki/Commander_Yodri) arrives, awarding additional skilling supplies when approached by defenders. "
     }, 
     { 
     "name": "▬▬ Memory of Nomad ▬▬", 
@@ -424,13 +406,9 @@ exports.data = {
     { 
     "name": "▬▬ Rush of Blood ▬▬", 
     "value": "[Rush of Blood](https://runescape.wikia.com/wiki/Rush_of_Blood) is a weekly Slayer-themed combat D&D that can be played in [Prifddinas](https://runescape.wikia.com/wiki/Prifddinas), requiring at least level 85 Slayer and completion of [Plague's End](https://runescape.wikia.com/wiki/Plague%27s_End) to take part. It is run by [Morvran Iorwerth](https://runescape.wikia.com/wiki/Morvran), slayer master and former warband leader. Rush of Blood takes place in [Morvran's Dungeon](https://runescape.wikia.com/wiki/Morvran%27s_Dungeon), where waves of different slayer-themed monsters, assembled from Morvran's assignment list, must be fought. Players have ten minutes to dispatch as many foes as possible. The activity can be played once a week for rewards, and any number of times for practice. "
-    }, 
-    { 
-    "name": "▬▬ Troll Invasion ▬▬", 
-    "value": "[Troll Invasion](https://runescape.wikia.com/wiki/Troll_Invasion) is a D&D in which players attempt to defend [Burthorpe](https://runescape.wikia.com/wiki/Burthorpe) from a troll assault, either via combat, or using non-combat skills. For combat, waves of trolls will approach from [Death Plateau](https://runescape.wikia.com/wiki/Death_Plateau), getting progressively more difficult. In the regular version, there are 20 waves; in the hard version, there are 7. If defending with non-combat skills, the trolls must be held off for ten minutes before they will depart. To do so, the gatehouse must be maintained for the soldiers assault, ballistas must be tended to, oil vats refilled, and barricades repaired. A [reward book](https://runescape.wikia.com/wiki/Reward_book) is awarded upon success or failure, granting experience in any skill, scaling to how successful the player was at defending Burthorpe. "
     } 
-    ] 
-  },
+    ]
+},
   "daily challenge": {
     "title": "Daily Challenge",
     "url": "http://runescape.wikia.com/wiki/Challenge_XP_Lamp",
@@ -477,7 +455,7 @@ exports.data = {
       }
       ]
   },
-  "temporary boosts": {
+  "temporary boosts pt1": {
     "title": "Temporary Boosts",
     "url": "http://runescape.wikia.com/wiki/Temporary_skill_boost",
     "description": "A temporary skill boost is anything caused by an item, Summoning familiar, or action that temporarily raises a player's level in one or more skills. It allows the player to do things above their current level.",
@@ -487,7 +465,7 @@ exports.data = {
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "thumbnail": {
-      "url": "https://vignette.wikia.nocookie.net/runescape2/images/e/ed/Overload_salve_%286%29.png/revision/latest?cb=20160502061719"
+      "url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e6/Extreme_brawler%27s_potion_detail.png/revision/latest?cb=20141212210813"
     },
     "author": {
       "name": "Max Cape Info",
@@ -496,102 +474,47 @@ exports.data = {
     "fields": [
       {
         "name": "Attack Boosts",
-        "value": "Boosts that temporarily boost your attack level"
+        "value": "[Attack Potion](http://runescape.wikia.com/wiki/Attack_potion)\n• 8% + 1 to Attack level\n\n[Attack Mix](http://runescape.wikia.com/wiki/Attack_mix)\n• 8% + 1 to Attack level\n• Requires Herblore part of [Barbarian Training](http://runescape.wikia.com/wiki/Barbarian_Training)\n\n[Super Attack Potion](http://runescape.wikia.com/wiki/Super_attack)\n• 12% + 2 to Attack levels\n\n[Super Attack Mix](http://runescape.wikia.com/wiki/Super_attack_mix)\n• 12% + 2 to Attack levels\n• Requires Herblore part of Barbarian Training\n\n[Extreme Attack Potion](http://runescape.wikia.com/wiki/Extreme_attack)\n• 15% + 3 to Attack levels\n• Requires 88 Herblore to make\n\n[Grand Attack Potion](http://runescape.wikia.com/wiki/Grand_attack_potion)\n• 14% + 2 to Attack levels\n\n[Supreme Attack Potion](http://runescape.wikia.com/wiki/Supreme_attack_potion)\n• 16% + 4 to Attack levels\n• Recipe must be bought\n• Requires 92 Herblore to make"
       },
       {
-        "name": "Super melee potion",
-        "value": "Boosts Attack, Strength and Defence by 12% + 2, rounded down"
+        "name": "​",
+        "value": "[Super Melee Potion](http://runescape.wikia.com/wiki/Super_melee_potion)\n• 12% + 2 to Attack, Strength, and Defence levels\n• Recipe must be found and bought\n• Requires 81 Herblore to make\n\n[Super Warmaster's Potion](http://runescape.wikia.com/wiki/Super_warmaster%27s_potion)\n• 12% + 2 to all combat skills\n\n[Extreme Warmaster's Potion](http://runescape.wikia.com/wiki/Extreme_warmaster%27s_potion)\n• 15% + 3 to all combat skills\n• Recipe must be found and bought\n\n[Extreme Brawler's Potion](http://runescape.wikia.com/wiki/Extreme_brawler%27s_potion)\n• 15% + 3 to Attack, Strength, and Defence\n• Recipe must be found and bought\n\n[Overload](http://runescape.wikia.com/wiki/Overload)\n• 15% + 3 to all combat skills\n• Reapplies boost every 15 seconds\n\n[Holy Overload](http://runescape.wikia.com/wiki/Holy_overload_potion)\n• 15% + 3 to all combat skills\n• Recipe must be bought\n• Reapplies boost every 15 seconds"
       },
       {
-        "name": "Super warmaster's potion",
-        "value": "Boosts Attack, Strength, Defence, Magic and Ranged \nby 12% + 2, rounded down "
+        "name": "​",
+        "value": "[Overload Salve](http://runescape.wikia.com/wiki/Overload_salve)\n• 15% + 3 to all combat skills\n• Recipe must be bought\n• Reapplies boost every 15 seconds\n• Reduces poison damage taken by 100%\n• Protects against dragon and wyvern fire damage\n\n[Supreme Overload Potion](http://runescape.wikia.com/wiki/Supreme_overload_potion)\n• 16% + 4 to all combat skills\n• Recipe must be found and bought\n\n[Supreme Overload Salve](http://runescape.wikia.com/wiki/Supreme_overload_salve)\n• 16% + 4 to all combat skills\n• Recipe must be found and bought\n• Reapplies boost every 15 seconds\n• Reduces poison damage taken by 100%\n• Protects against dragon and wyvern fire damage"
       },
       {
-        "name": "Extreme brawler's potion",
-        "value": "Boosts Attack, Strength and Defence by 15% + 3, rounded down "
+        "name": "​",
+        "value": "[Searing Overload Potion](http://runescape.wikia.com/wiki/Searing_overload_potion)\n• 15% + 3 to all combat skills\n• Recipe must be bought\n• Reapplies boost every 15 seconds\n• Protects against dragon fire\n\n[Brawler Aura](http://runescape.wikia.com/wiki/Brawler_aura)\n• Increases your melee accuracy by 3%\n\n[Greater Brawler Aura](http://runescape.wikia.com/wiki/Greater_brawler_aura)\n• Increases your melee accuracy by 5%\n\n[Master Brawler Aura](http://runescape.wikia.com/wiki/Master_brawler_aura)\n• Increases your melee accuracy by 7%.\n\n[Supreme Brawler Aura](http://runescape.wikia.com/wiki/Supreme_brawler_aura)\n• Increases your melee accuracy by 10%\n\n[Berserker Aura](http://runescape.wikia.com/wiki/Berserker_aura)\n• A wrathful state which boosts your Attack and Strength, but at the cost of your Defence"
       },
-            {
-        "name": " Extreme warmaster's potion",
-        "value": "Boosts Attack, Strength, Defence, Magic and Range \nby 15% + 3, rounded down "
-      },
-            {
-        "name": "Overload",
-        "value": "Boosts Attack, Strength, Defence, Magic and Range \nby 15% + 3, rounded down "
-      },
-
-            {
-        "name": " Holy overload potion",
-        "value": "Boosts Attack, Strength, Defence, Magic and Range \nby 15% + 3, rounded down and adds the prayer renewal effect"
-      },
-            {
-        "name": " Searing overload potion",
-        "value": "Boosts Attack, Strength, Defence, Magic and Range \nby 15% + 3, rounded down and adds protection from dragon fire"
-      },
-            {
-        "name": "Overload salve",
-        "value": "Boosts Attack, Strength, Defence, Magic and Range \nby 15% + 3, rounded down, adds protection from wyvern fire, \nadds prayer renewal effect and adds antipoison"
-      },
-            {
-        "name": "Supreme overload potion",
-        "value": "Boosts Attack, Strength, Defence, Magic and Range \nby 16% + 4, rounded down "
-      },
-            {
-        "name": "Supreme overload salve",
-        "value": "Boosts Attack, Strength, Defence, Magic and Range \nby 15% + 3, rounded down, adds protection from dragon/wyvern fire, \nadds prayer renewal effect and adds antipoison"
-      },
-            {
-        "name": "Extreme attack potion",
-        "value": "Boosts Attack by 3 + 15% rounded down"
-      },
-                  {
-        "name": "Super attack potion",
-        "value": "Boosts Attack by 2 + 12% rounded down"
-      },
-                  {
-        "name": "Attack potion",
-        "value": "Boosts Attack by 1 + 8% rounded down"
-      },
-
-                  {
-        "name": "Zamorak brew",
-        "value": "Boosts Attack by 2 + 20%, and Strength by 2 + 12%. \nIt also decreases Defence by 2 + 10% and life points by 20 + 10%"
-      },
-                  {
-        "name": "Combat potion",
-        "value": "Boosts Attack and Strength by 3 + 10%"
-      },
-                  {
-        "name": "Grand attack potion",
-        "value": "Boosts Attack by 2 + 14%"
-      },
-                  {
-        "name": "Supreme attack potion",
-        "value": "Boosts Attack by 4 + 16%"
-      },
-                  {
-        "name": "Cavefish",
-        "value": "Boosts a random combat skill by 2"
-      },
-                  {
-        "name": "Rumberry",
-        "value": "Boosts attack by 2"
-      },
-                  {
-        "name": "Ruby harvest",
-        "value": "Boosts Attack by 20%"
-      },
-                        {
-        "name": "Dominion marker",
-        "value": "Boosts Combat skills when placed nearby. Reapplies the boost once it decays back to the base level. Boost depends on the markers tier \n**Tier 1:** +4, **Tier 2:** +6, **Tier 3:** +8, **Tier 4:** +10 "
-      },
-                  {
-        "name": "God banner powerup",
-        "value": "Boosts Attack, Strength, Defence, Ranged and magic by +5"
-      },
-                  {
-        "name": "Cup of tea",
-        "value": "Boosts Attack by +3 and heals 375 hitpoints"
+      {
+        "name": "​",
+        "value": "[Brawling Gloves (Melee)](http://runescape.wikia.com/wiki/Brawling_gloves_(Melee)\n• When wielded, 50% XP boost is given at the entrance or outside of the Wilderness, with the buff increasing to 300% (4x the experience) at level 47 Wilderness just south of the fence. Since an update, instead of charges the gloves have approximately a 300,000 XP cap on extra XP gained. As this cap recognizes XP buffs, expending them in the Wilderness only uses charges faster for no increased gain. It is recommended to consume them during normal training."
       }
-      ]
+       ]
+  },
+  "temporary boosts pt2": {
+    "title": "Temporary Boosts Continued",
+    "url": "http://runescape.wikia.com/wiki/Temporary_skill_boost",
+    "description": "\n[Cup of Tea](http://runescape.wikia.com/wiki/Cup_of_tea)\n• +3 Attack levels\n• Heals 375 life points\n\n[Ruby Harvest](http://runescape.wikia.com/wiki/Ruby_harvest)\n• +20% Attack boost\n• Boosts another players Attack level, not yours\n\n[Zamorak Brew](http://runescape.wikia.com/wiki/Zamorak_brew)\n• 8% + 1 Attack and Strength boost\n• Reduces Defence by 8% + 1\n\n[Zamorak Brew Mix](http://runescape.wikia.com/wiki/Zamorak_mix)\n• 8% + 1 Attack and Strength boost\n• Reduces Defence by 8% + 1\n\n[Combat Potion](http://runescape.wikia.com/wiki/Combat_potion)\n• +8% + 1 Attack and Strength boost\n\n[Combat Mix](http://runescape.wikia.com/wiki/Combat_mix)\n• +8% + 1 Attack and Strength boost\n\n[Dominion Marker](http://runescape.wikia.com/wiki/Dominion_marker)\n• Tier 1: +4\n• Tier 2: +6\n• Tier 3: +8\n• Tier 4: +10\n• Reapplies the boost once it decays back to the base level",
+        "color": 12269891,
+    "footer": {
+      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
+    },
+    "thumbnail": {
+      "url": "https://vignette.wikia.nocookie.net/runescape2/images/8/8f/Cup_of_tea_detail.png/revision/latest?cb=20160131205229"
+    },
+    "author": {
+      "name": "Max Cape Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "fields": [
+      {
+        "name": "​",
+        "value": "[Rumberry](http://runescape.wikia.com/wiki/Rumberry)\n• +2 Attack levels\n• Reduces Defence by 1\n• Requires access to [The Arc](http://runescape.wikia.com/wiki/The_Arc)\n\n [Sugar Skull](http://runescape.wikia.com/wiki/Sugar_skull)\n• +2 Attack levels\n\n [Toffee Apple](http://runescape.wikia.com/wiki/Toffee_apple)\n• +2 Attack levelst\n\n[Spicy Stew](http://runescape.wikia.com/wiki/Spicy_stew)\n • Boost is applied to a random skill\n • Up to ±5 with 3 spice doses\n • Up to ±3 with 2 spice doses\n • Up to ±1 with 1 spice dose\n\n[God Banner](http://runescape.wikia.com/wiki/God_banner)\n• +5 levels\n• Lasts 30 minutes once per day"
+      }
+       ]
   }
 };
