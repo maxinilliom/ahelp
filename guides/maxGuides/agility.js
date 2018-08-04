@@ -25,7 +25,7 @@ exports.data = {
   },
   "1 - 18": {
     "title": "Agility Training Levels 1-18",
-    "description": "At level 1 Agility players should begin training at the [Gnome Stronghold Agility Course](http://runescape.wikia.com/wiki/Gnome_Stronghold_Agility_Course). With level 1-18 Agility around 6,800 experience an hour can be gained from completing laps of this course. As only 3,523 experience is needed in order to achieve level 18 Agility, players with no previous experience of the skill should achieve level 18 in approximately 31 minutes. It is not possible to fail obstacles within this course.",
+    "description": "At level 1 Agility players should begin training at the [Gnome Stronghold Agility Course](http://runescape.wikia.com/wiki/Gnome_Stronghold_Agility_Course). From levels 1-18 Agility around 6,800 experience an hour can be gained by completing laps of this course. As only 3,523 experience is needed in order to achieve level 18 Agility, players with no previous experience of the skill should achieve level 18 in approximately 31 minutes. It is not possible to fail obstacles within this course.",
     "url": "http://runescape.wikia.com/wiki/Agility_training#Levels_1-18:_Gnome_Stronghold_Agility_Course",
     "color": 16443077,
     "footer": {
@@ -76,7 +76,7 @@ exports.data = {
     "fields": [
       {
         "name": "Alternative Method: Level 35-48",
-        "value": "For a less click-intensive alternative to training with clockwork suits, training at the [Barbarian Outpost](http://runescape.wikia.com/wiki/Barbarian_Outpost) Agility Course is also available from level 35 Agility. Accessing this Agility course requires completion of the [Bar Crawl miniquest](http://runescape.wikia.com/wiki/Bar_Crawl). It is possible to fail some of the obstacles here, so players may wish to bring food or another method to regain life points. Completing laps of this course can give between 11,000 experience an hour, with level 35 Agility, and 13,500 experience an hour, with level 48 Agility."
+        "value": "For a less click-intensive alternative to training with clockwork suits, training at the [Barbarian Outpost Agility Course](http://runescape.wikia.com/wiki/Barbarian_Outpost#Basic_course) Agility Course is also available from level 35 Agility. Accessing this Agility course requires completion of the [Bar Crawl miniquest](http://runescape.wikia.com/wiki/Bar_Crawl). It is possible to fail some of the obstacles here, so players may wish to bring food or another method to regain life points. Completing laps of this course can give between 11,000 experience an hour with level 35 Agility and 13,500 experience an hour with level 48 Agility."
       },
       {
         "name": "Alternative Method: Level 48-52",
@@ -86,7 +86,7 @@ exports.data = {
   },
   "52 - 65": {
     "title": "Agility Training Levels 52-65",
-    "description": "At level 52 Agility players should start training at the [Wilderness Agility Course](http://runescape.wikia.com/wiki/Wilderness_Agility_Course), which gives between 36,000 and 41,000 experience an hour, at level 52-65 Agility. As the course is located in the Wilderness, it is possible to be attacked by other players whilst training. Death will result in the loss of players' items: players should not bring items that they are not willing to lose while training Agility at this course.\n\nFailure is common at these levels. It is recommended to bring food or another method to regain life points. While food is recommended, damage from failure is based on a percentage of remaining health, thus keeping your health around 25% is ideal when alone.\n\n5% additional experience can be gained on completing a lap if the player has the [Wilderness Sword 2](http://runescape.wikia.com/wiki/Wilderness_sword_2), obtained from completing the [Medium Wilderness Tasks set](http://runescape.wikia.com/wiki/Wilderness_achievements), or better equipped. [The Demonic Skull](http://runescape.wikia.com/wiki/Demonic_skull) also gives a scaling bonus to all Agility experience gained while doing the course. Using the demonic skull the player can gain between 50,000 and 74,000 experience an hour while doing laps of the Wilderness Agility Course at these levels. The wilderness sword and demonic skull's bonuses do stack. With completion of the elite Wilderness Tasks the player can obtain the [Wilderness Sword 4](http://runescape.wikia.com/wiki/Wilderness_sword_4) which gives unlimited teleports to the Wilderness Agility Course.",
+    "description": "At level 52 Agility players should start training at the [Wilderness Agility Course](http://runescape.wikia.com/wiki/Wilderness_Agility_Course), which gives between 36,000 and 41,000 experience an hour. As the course is located in the Wilderness, it is possible to be attacked by other players whilst training. Death will result in the loss of players' items. Players should not bring items that they are not willing to lose while training Agility at this course.\n\nFailure is common at these levels. It is recommended to bring food or another method to regain life points. While food is recommended, damage from failure is based on a percentage of remaining health, thus keeping your health around 25% is ideal when alone.\n\n5% additional experience can be gained on completing a lap if the player has the [Wilderness Sword 2](http://runescape.wikia.com/wiki/Wilderness_sword_2), obtained from completing the [Medium Wilderness Tasks set](http://runescape.wikia.com/wiki/Wilderness_achievements), or better equipped. [The Demonic Skull](http://runescape.wikia.com/wiki/Demonic_skull) also gives a scaling bonus to all Agility experience gained while doing the course. Using the demonic skull the player can gain between 50,000 and 74,000 experience an hour while doing laps of the Wilderness Agility Course at these levels. The wilderness sword and demonic skull's bonuses do stack. With completion of the elite Wilderness Tasks the player can obtain the [Wilderness Sword 4](http://runescape.wikia.com/wiki/Wilderness_sword_4) which gives unlimited teleports to the Wilderness Agility Course.",
     "url": "http://runescape.wikia.com/wiki/Agility_training#Levels_52-65:_Wilderness_Agility_Course",
     "color": 13118778,
     "footer": {
@@ -103,7 +103,7 @@ exports.data = {
   },
   "65 - 75": {
     "title": "Agility Training Levels 65-75",
-    "description": "If the player is not using a demonic skull at the Wilderness Agility Course then they should train using alternative methods. With at least 65 Agility players who have completed [The Dig Site quest](http://runescape.wikia.com/wiki/The_Dig_Site) can gain Agility experience from The Empty Throne Room. Players can gain a total of 800,000 Agility experience from the [Empty Throne Room](http://runescape.wikia.com/wiki/The_Empty_Throne_Room): this is enough to level from 65-75 Agility. It is advised that the player uses the method to train from level 65-75 as it gives the greatest improvement in experience rates over other training methods available when used at these levels and is free. Training at the throne room gives around 60,000 Agility experience an hour at these levels.\n\nTo gain Agility experience the player must pedal the [Manual Auto-Cycle Bikes](http://runescape.wikia.com/wiki/Manual_Auto-cycle), located in the center of the bottom floor of the throne room. One of the manual auto-cycles is empowered, with this changing approximately every minute. Pedaling the empowered manual auto-cycle gives 10 times the regular experience so players should prioritize using that cycle.",
+    "description": "If the player is not using a demonic skull at the [Wilderness Agility Course](http://runescape.wikia.com/wiki/Wilderness_Agility_Course) then they should train using alternative methods. With at least 65 Agility players who have completed [The Dig Site quest](http://runescape.wikia.com/wiki/The_Dig_Site) can gain Agility experience from The Empty Throne Room. Players can gain a total of 800,000 Agility experience from the [Empty Throne Room](http://runescape.wikia.com/wiki/The_Empty_Throne_Room): this is enough to level from 65-75 Agility. It is advised that the player uses the method to train from level 65-75 as it gives the greatest improvement in experience rates over other training methods available when used at these levels and is free. Training at the throne room gives around 60,000 Agility experience an hour at these levels.\n\nTo gain Agility experience the player must pedal the [Manual Auto-Cycle Bikes](http://runescape.wikia.com/wiki/Manual_Auto-cycle), located in the center of the bottom floor of the throne room. One of the manual auto-cycles is empowered, with this changing approximately every minute. Pedaling the empowered manual auto-cycle gives 10 times the regular experience so players should prioritize using that cycle.",
     "url": "http://runescape.wikia.com/wiki/Agility_training#The_Empty_Throne_Room_.2865-75.29",
     "color": 13118778,
     "footer": {
@@ -120,7 +120,7 @@ exports.data = {
      "fields": [
       {
         "name": "Alternative Method: Levels 65-99+",
-        "value": "Players should only continue to train at the Wilderness Agility Course if they are using a [Demonic Skull](http://runescape.wikia.com/wiki/Demonic_skull). The demonic skull gives an additional 4% Agility experience for each Agility level the player has over level 50 Agility. Players gain at least double experience for doing the course from level 75 Agility onward, up to triple experience at level 99. At level 99 Agility players can gain around 137,000 experience an hour using a demonic skull at the Wilderness Agility Course."
+        "value": "Players should only continue to train at the [Wilderness Agility Course](http://runescape.wikia.com/wiki/Wilderness_Agility_Course) if they are using a [Demonic Skull](http://runescape.wikia.com/wiki/Demonic_skull). The demonic skull gives an additional 4% Agility experience for each Agility level the player has over level 50 Agility. Players gain at least double experience for doing the course from level 75 Agility onward, up to triple experience at level 99. At level 99 Agility players can gain around 137,000 experience an hour using a demonic skull at the Wilderness Agility Course."
       }
        ]
   },
@@ -143,7 +143,7 @@ exports.data = {
   },
   "77 - 99 +": {
     "title": "Agility Training Levels 77-99+",
-    "description": "At level 77 Agility players can train at the [Hefin Agility Course](http://runescape.wikia.com/wiki/Hefin_Agility_Course). Completion of the [Plague's End quest](http://runescape.wikia.com/wiki/Plague%27s_End) is required to access it. The amount of experience gained from traversing obstacles on the course and bonus experience awarded for completing a full lap of the course increases every 5 Agility levels. It is not possible to fail obstacles on this course.",
+    "description": "At level 77 Agility players can train at the [Hefin Agility Course](http://runescape.wikia.com/wiki/Hefin_Agility_Course). Completion of the [Plague's End](http://runescape.wikia.com/wiki/Plague%27s_End) quest is required to access it. The amount of experience gained from traversing obstacles on the course and bonus experience awarded for completing a full lap of the course increases every 5 Agility levels. It is not possible to fail obstacles on this course.",
     "url": "http://runescape.wikia.com/wiki/Agility_training#Hefin_Agility_Course_.2877-99.2B.29",
     "color": 12269891,
     "footer": {
@@ -172,14 +172,14 @@ exports.data = {
       },
      {
         "name": "Alternative Method: Levels 65-99+",
-        "value": "Players should only continue to train at the Wilderness Agility Course if they are using a [Demonic Skull](http://runescape.wikia.com/wiki/Demonic_skull). The demonic skull gives an additional 4% Agility experience for each Agility level the player has over level 50 Agility. Players gain at least double experience for doing the course from level 75 Agility onward, up to triple experience at level 99. At level 99 Agility players can gain around 137,000 experience an hour using a demonic skull at the Wilderness Agility Course."
+        "value": "Players should only continue to train at the [Wilderness Agility Course](http://runescape.wikia.com/wiki/Wilderness_Agility_Course) if they are using a [Demonic Skull](http://runescape.wikia.com/wiki/Demonic_skull). The demonic skull gives an additional 4% Agility experience for each Agility level the player has over level 50 Agility. Players gain at least double experience for doing the course from level 75 Agility onward, up to triple experience at level 99. At level 99 Agility players can gain around 137,000 experience an hour using a demonic skull at the Wilderness Agility Course."
       }
     ]
   },
   "alternative methods": {
     "title": "Alternative Methods of Training",
     "url": "http://runescape.wikia.com/wiki/Agility_training#Alternative_methods_of_gaining_experience",
-    "description": "Some users may wish to utilize methods outside of the ones displayed in this channel's guide. To aid in this, the following alternative methods are provided.",
+    "description": "Some users may wish to utilise methods outside of the ones displayed in this channel's guide. To aid in this, the following alternative methods are provided.",
         "color": 12269891,
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
@@ -195,7 +195,7 @@ exports.data = {
     "fields": [
       {
         "name": "Silverhawk Boots",
-        "value": "[Silverhawk Boots](http://runescape.wikia.com/wiki/Silverhawk_boots) are an item that can be won from Treasure Hunter or purchased for 750 Thaler. While the boots are equipped and charged, players will periodically receive Agility experience equal to 10% of the experience that is gained from using a small XP lamp. Experience will be gained:\n\t• Once per minute spent running\n\t• While skilling (maximum of once every 45 seconds)\n\t• When using an ultimate ability (a maximum of once every 45 seconds)\n\nEach time that experience is gained from the boots a charge is used up. Silverhawk boots may hold up to 500 charges at once. [Silverhawk Feathers](http://runescape.wikia.com/wiki/Silverhawk_feathers) give 1 charge per feather used with the boots. Silverhawk feathers can be won from Treasure Hunter and are tradeable. One [Silverhawk Down](<http://runescape.wikia.com/wiki/Silverhawk_down>) can also be used give the boots 1 charge. Silverhawk down is an untradeable item that can be purchased for 35 thaler per 10 down."
+        "value": "[Silverhawk Boots](http://runescape.wikia.com/wiki/Silverhawk_boots) are an item that can be won from Treasure Hunter or purchased for 750 Thaler. While the boots are equipped and charged, players will periodically receive Agility experience equal to 10% of the experience that is gained from using a small XP lamp. Experience will be gained:\n\t• Once per minute spent running\n\t• While skilling (maximum of once every 30 seconds)\n\t• When using an ultimate ability (a maximum of once every 45 seconds)\n\nEach time that experience is gained from the boots a charge is used up. Silverhawk boots may hold up to 500 charges at once. [Silverhawk Feathers](http://runescape.wikia.com/wiki/Silverhawk_feathers) give 1 charge per feather used with the boots. Silverhawk feathers can be won from Treasure Hunter and are tradeable. One [Silverhawk Down](<http://runescape.wikia.com/wiki/Silverhawk_down>) can also be used give the boots 1 charge. Silverhawk down is an untradeable item that can be purchased for 35 [Thaler](http://runescape.wikia.com/wiki/Thaler) per 10 down."
       },
       {
         "name": "​",
@@ -234,11 +234,11 @@ exports.data = {
     "fields": [
       {
         "name": "Methods to Obtain",
-        "value": "• Burthorpe Agility Course\n• Gnome Stronghold Agility Course\n• Advanced Gnome Stronghold Agility Course\n• Agility Pyramid\n• Penguin Agility Course\n• Barbarian Outpost\n• Advanced Barbarian Outpost\n• Ape Atoll Agility Course\n• Wilderness Agility Course\n• Werewolf Agility Course\n• Agility Course\n• Hefin Agility Course\n• Dorgesh-Kaan Agility Course\n• Collecting an Agility arena ticket from the Brimhaven Agility Arena\n• Serenity posts\n• Manual Auto-cycles in The Empty Throne Room\n• Taking Agility Shortcuts"
+        "value": "• Burthorpe Agility Course\n• Gnome Stronghold Agility Course\n• Advanced Gnome Stronghold Agility Course\n• Agility Pyramid\n• Penguin Agility Course\n• Barbarian Outpost\n• Advanced Barbarian Outpost\n• Ape Atoll Agility Course\n• Wilderness Agility Course\n• Werewolf Agility Course\n• Bandos Agility Course\n• Hefin Agility Course\n• Dorgesh-Kaan Agility Course\n• Collecting an Agility arena ticket from the Brimhaven Agility Arena\n• Serenity posts\n• Manual Auto-cycles in The Empty Throne Room\n• Taking Agility Shortcuts"
       },
       {
-        "name": "Best Method",
-        "value": "• Manual Auto-cycles in The Empty Throne Room utilizing the incorrect action for the max amount of experience drops\n• Serenity Posts utilizing the incorrect action for the most possible experience drops per day"
+        "name": "Best Methods",
+        "value": "• [Manual Auto-cycles](http://runescape.wikia.com/wiki/Manual_Auto-cycle) in [The Empty Throne Room](http://runescape.wikia.com/wiki/The_Empty_Throne_Room) utilising the incorrect action for the maximum amount of experience drops\n• [Serenity Posts](http://runescape.wikia.com/wiki/Serenity_posts) utilising the incorrect action for the most possible experience drops per day"
       },
       {
         "name": "Methods which do not Work",
@@ -339,7 +339,7 @@ exports.data = {
     "fields": [
       {
         "name": "​",
-        "value": "At level 98, 21,315 experience is awarded per day for completing either:\n\n• 6 [Dorgesh-Kaan Agility Course](http://runescape.wikia.com/wiki/Dorgesh-Kaan_Agility_Course) Laps, or\n• 24 [Advanced Barbarian Outpost Agility Course](http://runescape.wikia.com/wiki/Barbarian_Outpost) Laps\n\nDaily challenges may be extended for 50 [Vis Wax](http://runescape.wikia.com/wiki/Vis_wax) for double the reward.\n\nA full chart of the experience per level for the daily challenge may be found [here](http://runescape.wikia.com/wiki/Challenge_System/Agility)."
+        "value": "At level 98, 21,315 experience is awarded per day for completing either:\n\n• 6 [Dorgesh-Kaan Agility Course](http://runescape.wikia.com/wiki/Dorgesh-Kaan_Agility_Course) Laps, or\n• 24 [Advanced Barbarian Outpost Agility Course](https://runescape.wikia.com/wiki/Barbarian_Outpost#Advanced_course) Laps\n\nDaily challenges may be extended for 50 [Vis Wax](http://runescape.wikia.com/wiki/Vis_wax) for double the reward.\n\nA full chart of the experience per level for the daily challenge may be found [here](http://runescape.wikia.com/wiki/Challenge_System/Agility)."
       }
       ]
   },
