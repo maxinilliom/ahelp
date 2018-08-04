@@ -331,7 +331,7 @@ exports.data = {
     "fields": [
       {
         "name": "Cooking Boosts",
-        "value": "[Cooking Cape](http://runescape.wikia.com/wiki/Cooking_cape)\n • +1 to Cooking for 1 minute\n\n[Spicy Stew](http://runescape.wikia.com/wiki/Spicy_stew)\n • Boost is applied to a random skill\n • Up to ±5 with 3 spice doses\n • Up to ±3 with 2 spice doses\n • Up to ±1 with 1 spice dose\n\n[God Banner](http://runescape.wikia.com/wiki/God_banner)\n• +2 levels\n• The boost can be used once per day and lasts for 30 minutes.\n\n[Chef's Deligt](http://runescape.wikia.com/wiki/Chef%27s_delight)\n• +1 level and 5% of your agility level (5.95 at level 99)\n• Also heals 540 life points\n• Reduces Attack and Strength by 2 or more levels\n\n[Mature Chef's Delight](http://runescape.wikia.com/wiki/Chef's_delight_(m)\n• +1 level and 5% of your agility level (5.95 at level 99)\n• Also heals 570 life points\n• Reduces Attack and Strength by 2 or more levels\n\n[Squiffberry](http://runescape.wikia.com/wiki/Agility_potion)\n• Requires access to [The Arc](http://runescape.wikia.com/wiki/The_Arc)\n• Reduces Defence by 1 level"
+        "value": "[Cooking Cape](http://runescape.wikia.com/wiki/Cooking_cape)\n • +1 to Cooking for 1 minute\n\n[Spicy Stew](http://runescape.wikia.com/wiki/Spicy_stew)\n • Boost is applied to a random skill\n • Up to ±5 with 3 spice doses\n • Up to ±3 with 2 spice doses\n • Up to ±1 with 1 spice dose\n\n[God Banner](http://runescape.wikia.com/wiki/God_banner)\n• +2 levels\n• The boost can be used once per day and lasts for 30 minutes.\n\n[Chef's Deligt](http://runescape.wikia.com/wiki/Chef%27s_delight)\n• +1 level and 5% of your agility level (5.95 at level 99)\n• Also heals 540 life points\n• Reduces Attack and Strength by 2 or more levels\n\n[Mature Chef's Delight](http://runescape.wikia.com/wiki/Chef's_delight_(m)\n• +1 level and 5% of your agility level (5.95 at level 99)\n• Also heals 570 life points\n• Reduces Attack and Strength by 2 or more levels\n\n[Squiffberry](https://runescape.wikia.com/wiki/Squiffberry)\n• Requires access to [The Arc](http://runescape.wikia.com/wiki/The_Arc)\n• Reduces Defence by 1 level"
       },
       {
         "name": "​",
@@ -339,7 +339,7 @@ exports.data = {
       },
       {
         "name": "​",
-        "value": "There are several types of urns, each which require a greater level in the Crafting skill to make. The levels of urns are:\n\t• [Cracked Cooking Urn](http://runescape.wikia.com/wiki/Cracked_cooking_urn)\n\t\t• Level 2 Crafting\n\t• [Fragile Cooking Urn](http://runescape.wikia.com/wiki/Fragile_cooking_urn)\n\t\t• Level 12 Crafting\n\t• [Cooking Urn](http://runescape.wikia.com/wiki/Cracked_cooking_urn)\n\t\t• Level 34 Crafting\n\t• [Strong Cooking Urn](http://runescape.wikia.com/wiki/Strong_cooking_urn)\n\t\t• Level51 Crafting \n\t• [Decoration Cooking Urn](http://runescape.wikia.com/wiki/Decorated_cooking_urn)\n\t\t• Level 81 Crafting"
+        "value": "There are several types of urns, each which require a greater level in the Crafting skill to make. The levels of urns are:\n\t• [Cracked Cooking Urn](http://runescape.wikia.com/wiki/Cracked_cooking_urn)\n\t\t• Level 2 Crafting\n\t• [Fragile Cooking Urn](http://runescape.wikia.com/wiki/Fragile_cooking_urn)\n\t\t• Level 12 Crafting\n\t• [Cooking Urn](https://runescape.wikia.com/wiki/Cooking_urn)\n\t\t• Level 36 Crafting\n\t• [Strong Cooking Urn](http://runescape.wikia.com/wiki/Strong_cooking_urn)\n\t\t• Level 51 Crafting \n\t• [Decoration Cooking Urn](http://runescape.wikia.com/wiki/Decorated_cooking_urn)\n\t\t• Level 81 Crafting"
       },
       {
         "name": "​",
@@ -347,7 +347,7 @@ exports.data = {
       },
       {
         "name": "​",
-        "value": "• [Bonfires](http://runescape.wikia.com/wiki/Bonfire) are a great way of training cooking for both members and non-members. Cooking on a Bonfire will earn a player 10% more experience. Additionally, they can be freely placed, allowed the player to cook closer to a bank."
+        "value": "• [Bonfires](http://runescape.wikia.com/wiki/Bonfire) are a great way of training cooking for both members and non-members. Cooking on a Bonfire will earn a player 10% more experience. Additionally, they can be freely placed, allowing the player to cook closer to a bank."
       },
       {
         "name": "​",
