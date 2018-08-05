@@ -25,7 +25,7 @@ exports.data = {
   },
   "1 - 15": {
     "title": "Cooking Training Levels 1-15",
-    "description": "At this level, just cook anything readily available. Efficiency is not important due to the first 10 levels being able to be quickly gained. Some options include [chicken](http://runescape.wikia.com/wiki/Raw_chicken), [meat](http://runescape.wikia.com/wiki/Raw_chicken), [bread](http://runescape.wikia.com/wiki/Bread_dough), [shrimp](http://runescape.wikia.com/wiki/Raw_shrimps), [anchovies](http://runescape.wikia.com/wiki/Raw_anchovies), or [herring](http://runescape.wikia.com/wiki/Raw_herring).",
+    "description": "At this level, just cook anything readily available. Efficiency is not important due to the first 10 levels being able to be quickly gained. Some options include [Chicken](http://runescape.wikia.com/wiki/Raw_chicken), [Meat](http://runescape.wikia.com/wiki/Raw_chicken), [Bread](http://runescape.wikia.com/wiki/Bread_dough), [Shrimp](http://runescape.wikia.com/wiki/Raw_shrimps), [Anchovies](http://runescape.wikia.com/wiki/Raw_anchovies), or [Herring](http://runescape.wikia.com/wiki/Raw_herring).",
     "url": "http://runescape.wikia.com/wiki/Pay-to-play_Cooking_training#Level_advancement_-_Fish",
     "color": 12269891,
     "footer": {
@@ -33,7 +33,7 @@ exports.data = {
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "thumbnail": {
-      "url": "https://vignette.wikia.nocookie.net/runescape2/images/b/b0/Cooking_cape_detail.png/revision/latest?cb=20150502101550"
+      "url": "https://vignette.wikia.nocookie.net/runescape2/images/5/57/Raw_chicken_detail.png/revision/latest?cb=20111127141258"
     },
     "author": {
       "name": "Max Cape Info",
@@ -42,7 +42,7 @@ exports.data = {
   },
   "15 - 28": {
     "title": "Cooking Training Levels 15-28",
-    "description": "Cook fish such as [trout](http://runescape.wikia.com/wiki/Trout), [cod](http://runescape.wikia.com/wiki/Cod), [pike](http://runescape.wikia.com/wiki/Pike), and [salmon](http://runescape.wikia.com/wiki/Salmon).",
+    "description": "Cook fish such as [Trout](http://runescape.wikia.com/wiki/Trout), [Cod](http://runescape.wikia.com/wiki/Cod), [Pike](http://runescape.wikia.com/wiki/Pike), and [Salmon](http://runescape.wikia.com/wiki/Salmon).",
     "url": "http://runescape.wikia.com/wiki/Pay-to-play_Cooking_training#Level_advancement_-_Fish",
     "color": 12269891,
     "footer": {
@@ -50,7 +50,7 @@ exports.data = {
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "thumbnail": {
-      "url": "https://vignette.wikia.nocookie.net/runescape2/images/b/b0/Cooking_cape_detail.png/revision/latest?cb=20150502101550"
+      "url": "https://vignette.wikia.nocookie.net/runescape2/images/8/87/Trout_detail.png/revision/latest?cb=20110220215413"
     },
     "author": {
       "name": "Max Cape Info",
@@ -67,7 +67,7 @@ exports.data = {
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "thumbnail": {
-      "url": "https://vignette.wikia.nocookie.net/runescape2/images/b/b0/Cooking_cape_detail.png/revision/latest?cb=20150502101550"
+      "url": "https://vignette.wikia.nocookie.net/runescape2/images/2/21/Sweetcorn_detail.png/revision/latest?cb=20180621140308"
     },
     "author": {
       "name": "Max Cape Info",
@@ -84,24 +84,7 @@ exports.data = {
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "thumbnail": {
-      "url": "https://vignette.wikia.nocookie.net/runescape2/images/b/b0/Cooking_cape_detail.png/revision/latest?cb=20150502101550"
-    },
-    "author": {
-      "name": "Max Cape Info",
-      "icon_url": "https://i.imgur.com/6c6q2iC.png"
-    }
-  },
-  "60 - 84": {
-    "title": "Cooking Training Levels 60-84",
-    "description": "[Raw lobsters](http://runescape.wikia.com/wiki/Raw_lobster) can be cooked to gain 120 experience on a range and 132 over a bonfire. Raw lobsters stop being burnt at level 74 cooking, or at level 64 cooking with [cooking gauntlets](http://runescape.wikia.com/wiki/Cooking_gauntlets), though the chance to burn a lobster turns rare at level 60 Cooking.",
-    "url": "http://runescape.wikia.com/wiki/Pay-to-play_Cooking_training#Level_advancement_-_Fish",
-    "color": 12269891,
-    "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
-      "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
-    },
-    "thumbnail": {
-      "url": "https://vignette.wikia.nocookie.net/runescape2/images/b/b0/Cooking_cape_detail.png/revision/latest?cb=20150502101550"
+      "url": "https://vignette.wikia.nocookie.net/runescape2/images/c/c3/Raw_lobster_detail.png/revision/latest?cb=20160906182641"
     },
     "author": {
       "name": "Max Cape Info",
@@ -110,7 +93,7 @@ exports.data = {
   },
   "84 - 92": {
     "title": "Cooking Training Levels 84-92",
-    "description": " [Raw swordfish](http://runescape.wikia.com/wiki/Raw_swordfish) can be cooked to gain 140 Cooking experience on a range and 154 over a bonfire. Raw swordfish stop being burnt at level 86 cooking, or at level 80 cooking with [cooking gauntlets](http://runescape.wikia.com/wiki/Cooking_gauntlets).",
+    "description": " [Raw swordfish](http://runescape.wikia.com/wiki/Raw_swordfish) can be cooked to gain 140 Cooking experience on a range and 154 over a bonfire. Raw swordfish stop being burnt at level 86 cooking, or at level 80 cooking with [Cooking gauntlets](http://runescape.wikia.com/wiki/Cooking_gauntlets).",
     "url": "http://runescape.wikia.com/wiki/Pay-to-play_Cooking_training#Level_advancement_-_Fish",
     "color": 12269891,
     "footer": {
@@ -118,7 +101,7 @@ exports.data = {
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "thumbnail": {
-      "url": "https://vignette.wikia.nocookie.net/runescape2/images/b/b0/Cooking_cape_detail.png/revision/latest?cb=20150502101550"
+      "url": "https://vignette.wikia.nocookie.net/runescape2/images/d/d9/Raw_swordfish_detail.png/revision/latest?cb=20141227020527"
     },
     "author": {
       "name": "Max Cape Info",
@@ -127,7 +110,7 @@ exports.data = {
   },
   "92 - 94": {
     "title": "Cooking Training Levels 92-94",
-    "description": "[Raw shark](http://runescape.wikia.com/wiki/Raw_shark) can be cooked to gain 210 Cooking experience on a range and 241 over a bonfire. Raw shark never stop being burnt, unless a player is wearing the [cooking gauntlets](http://runescape.wikia.com/wiki/Cooking_gauntlets), in which case they stopped being burnt at level 94.",
+    "description": "[Raw shark](http://runescape.wikia.com/wiki/Raw_shark) can be cooked to gain 210 Cooking experience on a range and 241 over a bonfire. Raw shark never stop being burnt, unless a player is wearing the [Cooking gauntlets](http://runescape.wikia.com/wiki/Cooking_gauntlets), in which case they stop being burnt at level 94.",
     "url": "http://runescape.wikia.com/wiki/Pay-to-play_Cooking_training#Level_advancement_-_Fish",
     "color": 12269891,
     "footer": {
@@ -135,7 +118,7 @@ exports.data = {
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "thumbnail": {
-      "url": "https://vignette.wikia.nocookie.net/runescape2/images/b/b0/Cooking_cape_detail.png/revision/latest?cb=20150502101550"
+      "url": "https://vignette.wikia.nocookie.net/runescape2/images/3/37/Raw_shark_detail.png/revision/latest?cb=20111127143834"
     },
     "author": {
       "name": "Max Cape Info",
@@ -143,8 +126,8 @@ exports.data = {
     }
   },
   "94 - 99 +": {
-    "title": "Cooking Training Levels 94-99",
-    "description": "[Raw rocktails](http://runescape.wikia.com/wiki/Raw_rocktail) can be cooked to gain 225 Cooking experience on a range and 247.5 over a bonfire. Raw rocktails never stop being burnt, unless a player is wearing the [cooking gauntlets](http://runescape.wikia.com/wiki/Cooking_gauntlets), in which case they stopped being burnt at level 94.",
+    "title": "Cooking Training Levels 94-99+",
+    "description": "[Raw rocktails](http://runescape.wikia.com/wiki/Raw_rocktail) can be cooked to gain 225 Cooking experience on a range and 247.5 over a bonfire. Raw rocktails never stop being burnt, unless a player is wearing the [Cooking gauntlets](http://runescape.wikia.com/wiki/Cooking_gauntlets), in which case they stopped being burnt at level 94.",
     "url": "http://runescape.wikia.com/wiki/Pay-to-play_Cooking_training#Level_advancement_-_Fish",
     "color": 12269891,
     "footer": {
@@ -152,7 +135,7 @@ exports.data = {
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "thumbnail": {
-      "url": "https://vignette.wikia.nocookie.net/runescape2/images/8/86/Cooking_Emote.gif/revision/latest?cb=20150317030902"
+      "url": "https://vignette.wikia.nocookie.net/runescape2/images/4/4d/Raw_rocktail_detail.png/revision/latest?cb=20120116182730"
     },
     "author": {
       "name": "Max Cape Info",
@@ -160,7 +143,7 @@ exports.data = {
     },
     "fields": [
       {
-        "name": "Level 99+",
+        "name": "▬▬ Level 99+ ▬▬",
         "value": "[Raw sailfish](http://runescape.wikia.com/wiki/Raw_sailfish) can be cooked to gain 270 Cooking experience on a range and 297 over a bonfire. Raw sailfish never stop being burnt, unless a player is wearing the [cooking gauntlets](http://runescape.wikia.com/wiki/Cooking_gauntlets), in which case they stopped being burnt at level 99."
       }
       ]
@@ -183,16 +166,28 @@ exports.data = {
     },
     "fields": [
       {
-        "name": "Clan Citadel - Barbecue",
+        "name": "▬▬ Clan Citadel - Barbecue ▬▬",
         "value": "If you are in a clan with a Cooking plot ([Barbecue](http://runescape.wikia.com/wiki/Barbecue)), a substantial amount of Cooking experience can be gained weekly depending on your Cooking level and [Fealty](http://runescape.wikia.com/wiki/Clan_Citadel#Fealty). Clans may unlock the at [Tier](http://runescape.wikia.com/wiki/Clan_Citadel#Citadel_tiers_and_skill_plots) 6 and is used to gather [Rations](http://runescape.wikia.com/wiki/Rations) to upkeep and eventually upgrade or build structures on the citadel. This is regarded as a cheap way to train Cooking while gathering citadel resources for your clan. Players also have the benefit of having no change of burnt food or using money to buy raw food to cook. Stewing Pots, Large Chopping Boards, and Grills all give the same amount of experience. Each complete round of cooking takes approximately 18 seconds."
       },
       {
-        "name": "Gunnarsgrunn Cooking",
+        "name": "▬▬ Gunnarsgrunn Cooking ▬▬",
         "value": "This method neither makes nor loses money, so it can be quite helpful for players without a lot of money. Since many players power-fish [Salmon](http://runescape.wikia.com/wiki/Salmon) and [Trout](http://runescape.wikia.com/wiki/Trout) at [Gunnarsgrunn](http://runescape.wikia.com/wiki/Barbarian_Village), you can easily light a fire with the trees nearby and cook all the fish that they drop. After that, drop the cooked fish and pick up the new fish the players have dropped. Since the fish are cooked, alternating between dropping and eating is both more effective and uses less clicks than simply dropping. It can be more efficient if you can get one of the other players to directly trade you the fish. This method is helpful to both players, the fisher gets more experience per hour and the cooker gets a free way of gaining cooking levels."
       },
       {
-        "name": "Wine​",
+        "name": "▬▬ Wine ▬▬",
         "value": "While this method cost a lot of money, it is very fast experience, coming in around 700K+ XP/H. 14 [Grapes](http://runescape.wikia.com/wiki/Grapes) are used with 14 [Jugs of Water](http://runescape.wikia.com/wiki/Jug_of_water) to make 14 [Unfermented Wines](http://runescape.wikia.com/wiki/Unfermented_wine) which, after 12 seconds, become [Jugs of Wine](http://runescape.wikia.com/wiki/Jug_of_wine) granting 200 experience each This adds up to 2,800 experience per inventory if no [Jugs of Bad Wine](http://runescape.wikia.com/wiki/Jug_of_bad_wine) are made. Wine is made very fast, and ferments in your bank. As wine only requires level 35 cooking to make, it becomes very difficult to fail."
+      },
+      {
+        "name": "▬▬ Waiko Reward Shop ▬▬",
+        "value": "The [Waiko Reward Shop](http://runescape.wikia.com/wiki/Waiko_Reward_Shop#Consumables) is a shop located on the [Waiko](http://runescape.wikia.com/wiki/Waiko) island in [The Arc](http://runescape.wikia.com/wiki/The_Arc) region and is run by [Boni](http://runescape.wikia.com/wiki/Boni_(rewards). Players must complete the [Impressing the Locals](http://runescape.wikia.com/wiki/Impressing_the_Locals) quest in order to access The Arc. The Waiko Reward Shop only accepts a combination of [Chimes](http://runescape.wikia.com/wiki/Chimes) and [Taijitu](http://runescape.wikia.com/wiki/Taijitu) as currency. Players can buy Cooking skill specific lamps from the shop for chimes."
+      },
+      {
+        "name": "​",
+        "value": " The available lamp sizes and cost are:\n\n\t• [Small XP Lamp](https://runescape.wikia.com/wiki/Small_XP_lamp_(The_Arc) for 1,700 chimes\n\t• [Medium XP Lamp](https://runescape.wikia.com/wiki/Medium_XP_lamp_(The_Arc) for 2,500 chimes\n\t• [Large XP Lamp](https://runescape.wikia.com/wiki/Large_XP_lamp_(The_Arc) for 3,300 chimes, and a\n\t• [Huge XP Lamp](https://runescape.wikia.com/wiki/Huge_XP_lamp_(The_Arc) for 6,400 chimes."
+      },
+      {
+        "name": "​",
+        "value": "Note that a player may choose to buy any size XP lamp in a random, Arc related skill for a lower amount of chimes at a 1/11 chance of gaining Cooking experience. Random XP Lamps are generally not worth it if you are trying to gain experience in a specific skill."
       }
       ]
   },
@@ -219,7 +214,7 @@ exports.data = {
       },
       {
         "name": "Best Method",
-        "value": "• Rocktail Soups\n• Sailfish (with [cooking gauntlets](http://runescape.wikia.com/wiki/Cooking_gauntlets))"
+        "value": "• [Rocktail Soups](http://runescape.wikia.com/wiki/Rocktail_soup)\n• [Sailfish](http://runescape.wikia.com/wiki/Sailfish) (with [Cooking gauntlets](http://runescape.wikia.com/wiki/Cooking_gauntlets))"
       },
       {
         "name": "Methods which do not Work",
@@ -272,8 +267,31 @@ exports.data = {
     },
     "fields": [
       {
-        "name": "Managing Miscellania",
+        "name": "▬▬ Managing Miscellania ▬▬",
         "value": "After finishing the [Throne of Miscellania](http://runescape.wikia.com/wiki/Throne_of_Miscellania) quest, you can [set up your kingdom](http://runescape.wikia.com/wiki/Managing_Miscellania) to gather raw fish. If allocated and well funded, subjects will gather [raw swordfish](http://runescape.wikia.com/wiki/Raw_swordfish) and [raw tuna](http://runescape.wikia.com/wiki/Raw_tuna), and a good amount of raw fish available to be cooked can be collected – either every day, or after a few days. This is a free way to help towards levelling your Cooking skill."
+      }
+      ]
+  },
+  "daily challenge": {
+    "title": "Daily Challenge",
+    "url": "http://runescape.wikia.com/wiki/Challenge_System/Agility",
+    "description": "Completing a daily challenge in Cooking will give Cooking experience, depending on the player's Cooking level.",
+        "color": 12269891,
+    "footer": {
+      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
+    },
+    "thumbnail": {
+      "url": "https://vignette.wikia.nocookie.net/runescape2/images/d/d5/Daily_Challenge_icon.png/revision/latest?cb=20140711174355"
+    },
+    "author": {
+      "name": "Max Cape Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "fields": [
+      {
+        "name": "​",
+        "value": "At level 98, 65,707 experience is awarded per day for cooking:\n\n• 39 [Meat Pizzas](http://runescape.wikia.com/wiki/Meat_pizza), or\n\n 87,610 experience is awarded per day for cooking either\n• 249 [Rocktails](http://runescape.wikia.com/wiki/Rocktail) or\n• 331 [Summer Pies](http://runescape.wikia.com/wiki/Summer_pie)\n\nDaily challenges may be extended for 50 [Vis Wax](http://runescape.wikia.com/wiki/Vis_wax) for double the reward.\n\nA full chart of the experience per level for the daily challenge may be found [here](http://runescape.wikia.com/wiki/Challenge_System/Cooking)."
       }
       ]
   },
