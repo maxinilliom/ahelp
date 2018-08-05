@@ -23,31 +23,29 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 	if (message.channel.id !== '407919969712603145' && level < 2) return;
 
 	Object.getOwnPropertyNames(data).forEach(k => {
-		if (data[k].cmds.includes("mqc")) keyList.push(k);
+		keyList.push(k);
 	});
 	if (!args[0]) return message.channel.send(`Please specify a valid achievement name.`);
 
 
 	if (args[0].toLowerCase() == "all" && level >= 2) {
-                let i = 0, o = 0, x = keyList.length;
-                function list() {
-                        const guide = data[keyList[o]].embed;
-                        guide.author.name = "Master Quest Cape Info";
-                        guide.color = 8113151;
-                        guide.timestamp = new Date();
-                        try {
-							message.channel.send("", {embed: guide});
-							} catch (err) {
-								i--;
-							}
-                        i++;
-                        o++;
-                        if (o < x) {
-                                setTimeout(list, 2500);
-                        }
+    let i = 0, o = 0, x = keyList.length;
+    function list() {
+      const guide = data[keyList[o]].embed;
+      guide.author.name = "Master Quest Cape Info";
+      guide.color = 8113151;
+      guide.timestamp = new Date();
+      try {
+				message.channel.send("", {embed: guide});
+			} catch (err) {
+				i--;
+			}
+      i++;
+      o++;
+      if (o < x) setTimeout(list, 2500);
 			if (o == x) message.reply(`**${i}**/\**${keyList.length}** responses listed.`);
-                }
-                list();
+    }
+    list();
 		return message.delete();
 	}
 
