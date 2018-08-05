@@ -36,10 +36,10 @@ exports.run = async (client, message, args, level) => {
 
 	if (args[0].toLowerCase() == "help") {
 		let output = "";
-		const helpEmbed = data["help"].embed;
+		const helpEmbed = data["help"];
 		keyList.forEach(k => {
 			if (output.length <= 2000) {
-				output += `• ${data[k].embed.title}\n`;
+				output += `• ${data[k].title}\n`;
 			}
 		});
 
