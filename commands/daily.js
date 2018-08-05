@@ -4,6 +4,8 @@ exports.run = async (client, message, args, level) => {
 	const guideName = args.join(" ").toLowerCase();
 	const keyList = [];
 	const rtnArr = [];
+	const name = "Daily Money Making Guide Info";
+	const color = 16430082;
 
 	if (message.channel.id !== '407919969712603145' && level < 2) return;
 
@@ -17,8 +19,8 @@ exports.run = async (client, message, args, level) => {
     let i = 0, o = 0, x = keyList.length;
     function list() {
       const guide = data[keyList[o]];
-      guide.author.name = "Daily Money Making Guide Info";
-      guide.color = 16430082;
+      guide.author.name = name;
+      guide.color = color;
       guide.timestamp = new Date();
       try {
 				message.channel.send("", {embed: guide});
@@ -44,9 +46,9 @@ exports.run = async (client, message, args, level) => {
 		});
 
 		helpEmbed.title = "Comprehensive list of all valid Daily Money Making guides";
-		helpEmbed.author.name = "Daily Money Making Guide Info";
+		helpEmbed.author.name = name;
 		helpEmbed.description = output;
-		helpEmbed.color = 16430082;
+		helpEmbed.color = color;
 		helpEmbed.timestamp = new Date();
 		await message.channel.send("", {embed: helpEmbed});
 
@@ -66,8 +68,8 @@ exports.run = async (client, message, args, level) => {
 		return message.channel.send(`No results found for **${args.join(" ")}**.`);
 	} else if (rtnArr.length == 1) {
 		const guide = data[rtnArr[0]];
-		guide.author.name = "Daily Money Making Guide Info";
-		guide.color = 16430082;
+		guide.author.name = name;
+		guide.color = color;
 		guide.timestamp = new Date();
 		message.channel.send("", {embed: guide});
 	} else if (rtnArr.length > 1) {
@@ -79,14 +81,17 @@ exports.run = async (client, message, args, level) => {
 			i++;
 		});
 		searchEmbed.title = "All Daily Money Making guides matching your search";
-		searchEmbed.author.name = "Daily Money Making Guide Info";
+		searchEmbed.author.name = name;
 		searchEmbed.description = output;
-		searchEmbed.color = 16430082;
+		searchEmbed.color = color;
 		searchEmbed.timestamp = new Date();
 		message.channel.send("", {embed: searchEmbed});
 		const response = await client.awaitReply(message, "Which guide were you searching for? Please enter the corresponding number.");
 		if (isNaN(response) || response > rtnArr.length || response < 1) return message.channel.send("Invalid number specified, search cancelled.");
 		const choice = data[rtnArr[response-1]];
+		choice.author.name = name;
+		choice.color = color;
+		choice.timestamp = new Date();
 		return message.channel.send("", {embed: choice});
 	} else {
 	message.channel.send("If you see this, contact <@97928972305707008>");
