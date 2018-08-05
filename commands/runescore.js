@@ -1,7 +1,7 @@
 const { inspect } = require("util");
 const { promisify } = require("util");
 const readdir = promisify(require("fs").readdir);
-const { data } = require("../guides/compGuide.js");
+const { data } = require("../guides/rsGuide.js");
 //const data = "";
 
 	/* const { something } = require("something");
@@ -131,6 +131,6 @@ exports.conf = {
 exports.help = {
 	name: "runescore",
 	category: "Guides",
-	description: "Encyclopedia of RuneScore guides written by The Five-O and assembled by Son.",
+	description: "An encyclopedia of RuneScore guides.",
 	usage: "runescore <help/achievement name>"
 };

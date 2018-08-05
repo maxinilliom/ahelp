@@ -1,7 +1,7 @@
 const { inspect } = require("util");
 const { promisify } = require("util");
 const readdir = promisify(require("fs").readdir);
-const { data } = require("../guides/compGuide.js");
+const { data } = require("../guides/ttGuide.js");
 //const data = "";
 
 	/* const { something } = require("something");
