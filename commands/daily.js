@@ -22,9 +22,9 @@ exports.run = async (client, message, args, level) => {
       guide.timestamp = new Date();
       try {
 				message.channel.send("", {embed: guide});
-				} catch (err) {
-					i--;
-				}
+			} catch (err) {
+				i--;
+			}
       i++;
       o++;
       if (o < x) setTimeout(list, 2500);

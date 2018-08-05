@@ -22,7 +22,7 @@ exports.data = {
 				"icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
 				"text": "Achievement Help"
 			}
-	}
+	},
 	"broad arrowheads": {
     "title": "Broad Arrowheads",
     "description": "[Broad Arrowheads](http://runescape.wikia.com/wiki/Broad_arrowheads) can be purchased only after the completion of [Smoking Kills](http://runescape.wikia.com/wiki/Smoking_Kills) from [Slayer Shops](http://runescape.wikia.com/wiki/Slayer_Equipment). A total of 9,000 arrowheads can be purchased daily. 3,000 from [Turael](http://runescape.wikia.com/wiki/Turael) or [Spria](http://runescape.wikia.com/wiki/Spria) (They share the same stock), 3,000 from any other [Slayer Master](http://runescape.wikia.com/wiki/Slayer_Master), and 3,000 from [Noterazzo](http://runescape.wikia.com/wiki/Noterazzo) found in the [Wilderness Bandit Camp](http://runescape.wikia.com/wiki/Bandit_Camp_(Wilderness).",
