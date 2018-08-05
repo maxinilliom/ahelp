@@ -19,6 +19,8 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 	const achName = args.join(" ").toLowerCase();
 	const keyList = [];
 	const rtnArr = [];
+	const name = "Master Quest Cape Info";
+	const color = 8113151;
 
 	if (message.channel.id !== '407919969712603145' && level < 2) return;
 
@@ -32,8 +34,8 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
     let i = 0, o = 0, x = keyList.length;
     function list() {
       const guide = data[keyList[o]].embed;
-      guide.author.name = "Master Quest Cape Info";
-      guide.color = 8113151;
+      guide.author.name = name;
+      guide.color = color;
       guide.timestamp = new Date();
       try {
 				message.channel.send("", {embed: guide});
@@ -66,9 +68,9 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 		});
 
 		helpEmbed.title = "Comprehensive list of all valid Master Quest Cape achievement guides";
-		helpEmbed.author.name = "Master Quest Cape Info";
+		helpEmbed.author.name = name;
 		helpEmbed.description = output;
-		helpEmbed.color = 8113151;
+		helpEmbed.color = color;
 		helpEmbed.timestamp = new Date();
 		await message.channel.send("", {embed: helpEmbed});
 
@@ -98,8 +100,8 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 		return message.channel.send(`No results found for **${args.join(" ")}**.`);
 	} else if (rtnArr.length == 1) {
 		const guide = data[rtnArr[0]].embed;
-		guide.author.name = "Master Quest Cape Info";
-		guide.color = 8113151;
+		guide.author.name = name;
+		guide.color = color;
 		guide.timestamp = new Date();
 		message.channel.send("", {embed: guide});
 	} else if (rtnArr.length > 1) {
@@ -111,14 +113,17 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 			i++;
 		});
 		searchEmbed.title = "All Master Quest Cape achievement guides matching your search";
-		searchEmbed.author.name = "Master Quest Cape Info";
+		searchEmbed.author.name = name;
 		searchEmbed.description = output;
-		searchEmbed.color = 8113151;
+		searchEmbed.color = color;
 		searchEmbed.timestamp = new Date();
 		message.channel.send("", {embed: searchEmbed});
 		const response = await client.awaitReply(message, "Which achievement were you searching for? Please enter the corresponding number.");
 		if (isNaN(response) || response > rtnArr.length || response < 1) return message.channel.send("Invalid number specified, search cancelled.");
 		const choice = data[rtnArr[response-1]].embed;
+		choice.author.name = name;
+		choice.color = color;
+		choice.timestamp = new Date();
 		return message.channel.send("", {embed: choice});
 	} else {
 	message.channel.send("If you see this, contact <@97928972305707008>");
