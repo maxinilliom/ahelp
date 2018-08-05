@@ -8,7 +8,7 @@ exports.run = async (client, message, args, level) => {
 	if (message.channel.id !== '407919969712603145' && level < 2) return;
 
 	Object.getOwnPropertyNames(data).forEach(k => {
-		keyList.push(k);
+		if (data[k] !== "help" && data[k] !== "search") keyList.push(k);
 	});
 	if (!args[0]) return message.channel.send(`Please specify a valid guide name.`);
 
@@ -18,7 +18,7 @@ exports.run = async (client, message, args, level) => {
     function list() {
       const guide = data[keyList[o]];
       guide.author.name = "Daily Money Making Guide Info";
-      guide.color = 8113151;
+      guide.color = 16430082;
       guide.timestamp = new Date();
       try {
 				message.channel.send("", {embed: guide});

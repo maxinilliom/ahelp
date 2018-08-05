@@ -23,7 +23,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 	if (message.channel.id !== '407919969712603145' && level < 2) return;
 
 	Object.getOwnPropertyNames(data).forEach(k => {
-		keyList.push(k);
+		if (data[k].cmds.includes("mqc")) keyList.push(k);
 	});
 	if (!args[0]) return message.channel.send(`Please specify a valid achievement name.`);
 
