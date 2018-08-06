@@ -1,6 +1,6 @@
 const { data } = require("../guides/reaperGuide.js");
 
-exports.run = (client, message, args, level) => {
+exports.run = async (client, message, args, level) => {
 	const guideName = args.join(" ").toLowerCase();
 	const keyList = [];
 	const rtnArr = [];
