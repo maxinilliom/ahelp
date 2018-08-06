@@ -4,7 +4,7 @@ exports.run = async (client, message, args, level) => {
 	const guideName = args.join(" ").toLowerCase();
 	const keyList = [];
 	const rtnArr = [];
-	const name = "Daily Money Making Guide Info";
+	const name = "Daily Money Making Info";
 	const color = 16430082;
 
 	if (message.channel.id !== '407919969712603145' && level < 2) return;
@@ -53,8 +53,8 @@ exports.run = async (client, message, args, level) => {
 		await message.channel.send("", {embed: helpEmbed});
 
 		const helpMsg = message.channel.id == '382701090430386180'
-			? `To search for an achievement, use **.${exports.help.name}** <keyword>.`
-			: `To search for an achievement, use **.${exports.help.name}** <keyword> in the <#382701090430386180> channel.`
+			? `To search for a guide, use **.${exports.help.name}** <keyword>.`
+			: `To search for a guide, use **.${exports.help.name}** <keyword> in the <#382701090430386180> channel.`
 		message.channel.send(helpMsg);
 		return;
 

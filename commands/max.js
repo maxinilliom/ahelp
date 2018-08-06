@@ -25,6 +25,8 @@ exports.run = async (client, message, [skill, ...args], level) => { // eslint-di
 	const strKeyList = [];
 	const rtnArr = [];
 	let pt = "false";
+	const name = "Max Cape Info";
+	const color = 12269891;
 
 	if (skill.toLowerCase() == "universal" && !args[0]) {
 		message.channel.send("", {embed: data[0]});
@@ -44,7 +46,7 @@ exports.run = async (client, message, [skill, ...args], level) => { // eslint-di
 		});
 		helpEmbed.title = `Comprehensive list of all valid skills`;
 		helpEmbed.description = output;
-		helpEmbed.color = 12269891;
+		helpEmbed.color = color;
 		return message.channel.send("", {embed: helpEmbed});
 	}
 
@@ -56,7 +58,7 @@ exports.run = async (client, message, [skill, ...args], level) => { // eslint-di
                 });
                 helpEmbed.title = `Comprehensive list of all valid ${skill.toProperCase()} guide commands`;
                 helpEmbed.description = output;
-		helpEmbed.color = 12269891;
+		helpEmbed.color = color;
 		return message.channel.send("", {embed: helpEmbed});
         }
 
@@ -64,8 +66,8 @@ exports.run = async (client, message, [skill, ...args], level) => { // eslint-di
                 let i = 0, o = 0, x = keyList.length;
                 function list() {
                         const guide = data[keyList[o]];
-                        guide.author.name = "Max Cape Info";
-                        guide.color = 12269891;
+                        guide.author.name = name;
+                        guide.color = color;
                         guide.timestamp = new Date();
                         message.channel.send("", {embed: guide});
                         i++;
