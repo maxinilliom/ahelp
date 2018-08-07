@@ -7,6 +7,10 @@ exports.run = async (client, message, args, level) => {
 	let pt = "false";
 	const name = "Reaper Info";
 	const color = 13480569;
+	const footer = {
+        "icon_url": "http://vignette.wikia.nocookie.net/runescape2/images/c/c9/The_Reaper.png/revision/latest",
+        "text": "All first time reaper kills are free in #reaper-request-list!"
+      };
 
 	if (message.channel.id !== '407919969712603145' && level < 2) return;
 
@@ -22,6 +26,7 @@ exports.run = async (client, message, args, level) => {
       const guide = data[keyList[o]];
       guide.author.name = name;
       guide.color = color;
+      guide.footer = footer;
       guide.timestamp = new Date();
       try {
 				message.channel.send("", {embed: guide});
@@ -51,6 +56,7 @@ exports.run = async (client, message, args, level) => {
 		helpEmbed.author.name = name;
 		helpEmbed.description = output;
 		helpEmbed.color = color;
+		helpEmbed.footer = footer;
 		helpEmbed.timestamp = new Date();
 		await message.channel.send("", {embed: helpEmbed});
 
@@ -68,10 +74,7 @@ exports.run = async (client, message, args, level) => {
 			const guide = data[k];
 			if (/\bpt1/.test(k)) guide.author.name = name;
 			guide.color = color;
-			if (guide.footer) guide.footer = {
-        "icon_url": "http://vignette.wikia.nocookie.net/runescape2/images/c/c9/The_Reaper.png/revision/latest",
-        "text": "All first time reaper kills are free in #reaper-request-list!"
-      };
+			if (guide.footer) guide.footer = footer;
 			if (guide.timestamp) guide.timestamp = new Date();
 			message.channel.send("", {embed: guide});
 			pt = "true";
@@ -84,6 +87,7 @@ exports.run = async (client, message, args, level) => {
 		const guide = data[rtnArr[0]];
 		guide.author.name = name;
 		guide.color = color;
+		guide.footer = footer;
 		guide.timestamp = new Date();
 		message.channel.send("", {embed: guide});
 	} else if (rtnArr.length > 1) {
@@ -98,6 +102,7 @@ exports.run = async (client, message, args, level) => {
 		searchEmbed.author.name = name;
 		searchEmbed.description = output;
 		searchEmbed.color = color;
+		searchEmbed.footer = footer;
 		searchEmbed.timestamp = new Date();
 		message.channel.send("", {embed: searchEmbed});
 		const response = await client.awaitReply(message, "Which boss were you searching for? Please enter the corresponding number.");
@@ -105,6 +110,7 @@ exports.run = async (client, message, args, level) => {
 		const choice = data[rtnArr[response-1]];
 		choice.author.name = name;
 		choice.color = color;
+		choice.footer = footer;
 		choice.timestamp = new Date();
 		return message.channel.send("", {embed: choice});
 	} else if (pt == "true") {

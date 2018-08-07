@@ -6,6 +6,10 @@ exports.run = async (client, message, args, level) => {
 	const rtnArr = [];
 	const name = "Daily Money Making Info";
 	const color = 16430082;
+	const footer = {
+        "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/3/30/Coins_10000.png/revision/latest",
+        "text": "Lovely money!"
+      };
 
 	if (message.channel.id !== '407919969712603145' && level < 2) return;
 
@@ -21,6 +25,7 @@ exports.run = async (client, message, args, level) => {
       const guide = data[keyList[o]];
       guide.author.name = name;
       guide.color = color;
+      guide.footer = footer;
       guide.timestamp = new Date();
       try {
 				message.channel.send("", {embed: guide});
@@ -49,6 +54,7 @@ exports.run = async (client, message, args, level) => {
 		helpEmbed.author.name = name;
 		helpEmbed.description = output;
 		helpEmbed.color = color;
+		helpEmbed.footer = footer;
 		helpEmbed.timestamp = new Date();
 		await message.channel.send("", {embed: helpEmbed});
 
@@ -70,6 +76,7 @@ exports.run = async (client, message, args, level) => {
 		const guide = data[rtnArr[0]];
 		guide.author.name = name;
 		guide.color = color;
+		guide.footer = footer;
 		guide.timestamp = new Date();
 		message.channel.send("", {embed: guide});
 	} else if (rtnArr.length > 1) {
@@ -84,6 +91,7 @@ exports.run = async (client, message, args, level) => {
 		searchEmbed.author.name = name;
 		searchEmbed.description = output;
 		searchEmbed.color = color;
+		searchEmbed.footer = footer;
 		searchEmbed.timestamp = new Date();
 		message.channel.send("", {embed: searchEmbed});
 		const response = await client.awaitReply(message, "Which guide were you searching for? Please enter the corresponding number.");
@@ -91,6 +99,7 @@ exports.run = async (client, message, args, level) => {
 		const choice = data[rtnArr[response-1]];
 		choice.author.name = name;
 		choice.color = color;
+		choice.footer = footer;
 		choice.timestamp = new Date();
 		return message.channel.send("", {embed: choice});
 	} else {
