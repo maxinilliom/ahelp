@@ -66,6 +66,9 @@ exports.run = async (client, message, args, level) => {
 		if (RegExp(guideName).test(k) && !/\bpt\d/.test(k) && !rtnArr.includes(k)) rtnArr.push(k);
 		if (RegExp(guideName).test(k) && /\bpt\d/.test(k)) {
 			const guide = data[k];
+			guide.author.name = name;
+			guide.color = color;
+			guide.timestamp = new Date();
 			message.channel.send("", {embed: guide});
 			pt = "true";
 		}
