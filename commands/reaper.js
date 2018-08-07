@@ -66,9 +66,13 @@ exports.run = async (client, message, args, level) => {
 		if (RegExp(guideName).test(k) && !/\bpt\d/.test(k) && !rtnArr.includes(k)) rtnArr.push(k);
 		if (RegExp(guideName).test(k) && /\bpt\d/.test(k)) {
 			const guide = data[k];
-			guide.author.name = name;
+			if (/\bpt1/.test(k)) guide.author.name = name;
 			guide.color = color;
-			guide.timestamp = new Date();
+			if (guide.footer) guide.footer = {
+        "icon_url": "http://vignette.wikia.nocookie.net/runescape2/images/c/c9/The_Reaper.png/revision/latest",
+        "text": "All first time reaper kills are free in #reaper-request-list!"
+      };
+			if (guide.timestamp) guide.timestamp = new Date();
 			message.channel.send("", {embed: guide});
 			pt = "true";
 		}

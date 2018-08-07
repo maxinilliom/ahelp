@@ -85,7 +85,8 @@ exports.data = {
                 ],
                 "footer": {
                     "icon_url": "https://images-ext-2.discordapp.net/external/fkEkEkLF-5krIYVQdAOfYdvyUW4_mm6xFLacYDdGYpw/%3Fcb%3D20171023212914/https/vignette.wikia.nocookie.net/runescape2/images/c/c9/The_Reaper.png/revision/latest",
-                    "text": "Remember, all first time reaper kills are free in #reaper-request-list"
-                }
+                    "text": "All first time reaper kills are free in #reaper-request-list!"
+                },
+                "timestamp": new Date()
             }
 }
