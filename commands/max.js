@@ -21,12 +21,14 @@ exports.run = async (client, message, [skill, ...args], level) => { // eslint-di
 	if (!args[0] && skill !== "help" && skill !== "all" && skill !== "universal") return message.channel.send(`Please specify options to search the **${skill.toProperCase()}** guides with.`);
 	const { data } = require(`../guides/maxGuides/${skill.toLowerCase()}.js`);
 	const keyList = [];
-	const numKeyList = [];
-	const strKeyList = [];
 	const rtnArr = [];
 	let pt = "false";
 	const name = "Max Cape Info";
 	const color = 12269891;
+	const footer = {
+        "icon_url": "https://i.imgur.com/KDhyn44.png",
+        "text": "Let's unfurl those banners!"
+      };
 
 	if (skill.toLowerCase() == "universal" && !args[0]) {
 		message.channel.send("", {embed: data[0]});
@@ -47,6 +49,7 @@ exports.run = async (client, message, [skill, ...args], level) => { // eslint-di
 		helpEmbed.title = `Comprehensive list of all valid skills`;
 		helpEmbed.description = output;
 		helpEmbed.color = color;
+		helpEmbed.footer = footer;
 		return message.channel.send("", {embed: helpEmbed});
 	}
 
@@ -58,7 +61,8 @@ exports.run = async (client, message, [skill, ...args], level) => { // eslint-di
                 });
                 helpEmbed.title = `Comprehensive list of all valid ${skill.toProperCase()} guide commands`;
                 helpEmbed.description = output;
-		helpEmbed.color = color;
+								helpEmbed.color = color;
+								helpEmbed.footer = footer;
 		return message.channel.send("", {embed: helpEmbed});
         }
 
@@ -68,6 +72,7 @@ exports.run = async (client, message, [skill, ...args], level) => { // eslint-di
                         const guide = data[keyList[o]];
                         guide.author.name = name;
                         guide.color = color;
+      									guide.footer = footer;
                         guide.timestamp = new Date();
                         message.channel.send("", {embed: guide});
                         i++;
@@ -112,6 +117,10 @@ exports.run = async (client, message, [skill, ...args], level) => { // eslint-di
                 return message.channel.send(`No results found for **${args.join(" ")}**.`);
         } else if (rtnArr.length == 1) {
                 const guide = data[rtnArr[0]];
+								guide.author.name = name;
+								guide.color = color;
+								guide.footer = footer;
+								guide.timestamp = new Date();
                 message.channel.send("", {embed: guide});
         } else if (rtnArr.length > 1) {
                 let output = "";
@@ -122,11 +131,19 @@ exports.run = async (client, message, [skill, ...args], level) => { // eslint-di
                         i++;
                 });
                 searchEmbed.title = `All ${skill.toProperCase()} guide commands matching your search`;
-                searchEmbed.description = output;
+								searchEmbed.author.name = name;
+								searchEmbed.description = output;
+								searchEmbed.color = color;
+								searchEmbed.footer = footer;
+								searchEmbed.timestamp = new Date();
                 message.channel.send("", {embed: searchEmbed});
                 const response = await client.awaitReply(message, "Which guide were you searching for? Please enter the corresponding number.");
                 if (isNaN(response) || response > rtnArr.length || response < 1) return message.channel.send("Invalid number specified, search cancelled.");
                 const choice = data[rtnArr[response-1]];
+								choice.author.name = name;
+								choice.color = color;
+								choice.footer = footer;
+								choice.timestamp = new Date();
                 return message.channel.send("", {embed: choice});
         } else if (pt == "true") {
 		return;

@@ -8,13 +8,13 @@ exports.run = async (client, message, args, level) => {
 	const color = 16430082;
 	const footer = {
         "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/3/30/Coins_10000.png/revision/latest",
-        "text": "Lovely money!"
+        "text": "Money, money, money, Lovely money!"
       };
 
 	if (message.channel.id !== '407919969712603145' && level < 2) return;
 
 	Object.getOwnPropertyNames(data).forEach(k => {
-		if (!data[k].title.includes("commands")) keyList.push(k);
+		if (k !== "help" && k !== "search") keyList.push(k);
 	});
 	if (!args[0]) return message.channel.send(`Please specify a valid guide name.`);
 

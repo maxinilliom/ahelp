@@ -15,7 +15,7 @@ exports.run = async (client, message, args, level) => {
 	if (message.channel.id !== '407919969712603145' && level < 2) return;
 
 	Object.getOwnPropertyNames(data).forEach(k => {
-		if (data[k].fields || !data[k].title.includes("commands")) keyList.push(k);
+		if (k !== "help" && k !== "search") keyList.push(k);
 	});
 	if (!args[0]) return message.channel.send(`Please specify a valid boss name.`);
 
