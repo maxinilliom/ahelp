@@ -4601,7 +4601,7 @@ exports.data = {
                 "name": "Cape Info",
                 "icon_url": "https://i.imgur.com/6c6q2iC.png"
             },
-            "description": "[Lunar Master](http://runescape.wikia.com/wiki/Lunar_Master) is an achievement that tracks the player's progress into unlocking the nine Livid Farm spells.\n\nLivid Farm is an activity in which the player helps [Pauline Polaris](https://runescape.wikia.com/wiki/Pauline_Polaris) run and maintain her farm. The farm is located on the northern part of [Lunar Isle](https://runescape.wikia.com/wiki/Lunar_Isle). The farm is tended to by casting [Lunar spells](https://runescape.wikia.com/wiki/Lunar_spells), and experience is gained in Magic, Agility, Construction, Crafting, and Farming. Working on the farm earns [Produce points](https://runescape.wikia.com/wiki/Produce_points) which can be used to unlock new Lunar spells\n\nThe spells to unlock are:\n• [South Falador Teleport](https://runescape.wikia.com/wiki/South_Falador_Teleport)\n• [Repair Rune Pouch](https://runescape.wikia.com/wiki/Repair_Rune_Pouch)\n• [North Ardougne Teleport](https://runescape.wikia.com/wiki/North_Ardougne_Teleport)\n• [Remote Farming](https://runescape.wikia.com/wiki/Remote_Farm)\n• [Spiritualise Food](https://runescape.wikia.com/wiki/Spiritualise_Food)\n• [Make Leather](https://runescape.wikia.com/wiki/Make_Leather)\n• [Disruption Shield](https://runescape.wikia.com/wiki/Disruption_Shield)\n• [Vengeance Group](https://runescape.wikia.com/wiki/Vengeance_Group)\n• [Trollheim Teleport](https://runescape.wikia.com/wiki/Trollheim_Teleport_(Lunar)\n• [Tele-group Trollheim](https://runescape.wikia.com/wiki/Tele-group_Trollheim)\n• [Borrowed Power](https://runescape.wikia.com/wiki/Borrowed_Power)\n\nA [Livid farm point enhancer](https://runescape.wikia.com/wiki/Livid_farm_point_enhancer) will allow the player to gain produce points at 1.5 times the normal rate.You may also sign up for the <@&472071116622659600> notification role in the <#465998663710146579> channel to be notified whenever the [Travelling Merchant](https://runescape.wikia.com/wiki/Travelling_Merchant%27s_Shop) has a [Livid plant](https://runescape.wikia.com/wiki/Livid_plant_(Deep_Sea_Fishing%29) in stock.",
+            "description": "[Lunar Master](http://runescape.wikia.com/wiki/Lunar_Master) is an achievement that tracks the player's progress into unlocking the nine [Livid Farm](https://runescape.wikia.com/wiki/Livid_Farm) spells.\n\nLivid Farm is an activity in which the player helps [Pauline Polaris](https://runescape.wikia.com/wiki/Pauline_Polaris) run and maintain her farm. The farm is located on the northern part of [Lunar Isle](https://runescape.wikia.com/wiki/Lunar_Isle). The farm is tended to by casting [Lunar spells](https://runescape.wikia.com/wiki/Lunar_spells). Working on the farm earns [Produce points](https://runescape.wikia.com/wiki/Produce_points) which can be used to unlock new Lunar spells\n\nThe spells to unlock are:\n• [South Falador Teleport](https://runescape.wikia.com/wiki/South_Falador_Teleport)\n• [Repair Rune Pouch](https://runescape.wikia.com/wiki/Repair_Rune_Pouch)\n• [North Ardougne Teleport](https://runescape.wikia.com/wiki/North_Ardougne_Teleport)\n• [Remote Farming](https://runescape.wikia.com/wiki/Remote_Farm)\n• [Spiritualise Food](https://runescape.wikia.com/wiki/Spiritualise_Food)\n• [Make Leather](https://runescape.wikia.com/wiki/Make_Leather)\n• [Disruption Shield](https://runescape.wikia.com/wiki/Disruption_Shield)\n• [Vengeance Group](https://runescape.wikia.com/wiki/Vengeance_Group)\n• [Trollheim Teleport](https://runescape.wikia.com/wiki/Trollheim_Teleport_(Lunar)\n• [Tele-group Trollheim](https://runescape.wikia.com/wiki/Tele-group_Trollheim)\n• [Borrowed Power](https://runescape.wikia.com/wiki/Borrowed_Power)\n\nA [Livid farm point enhancer](https://runescape.wikia.com/wiki/Livid_farm_point_enhancer) will allow the player to gain produce points at 1.5 times the rate. You may sign up for the <@&472071116622659600> notification role in the <#465998663710146579> channel to be notified whenever the [Travelling Merchant](https://runescape.wikia.com/wiki/Travelling_Merchant%27s_Shop) has a [Livid plant](https://runescape.wikia.com/wiki/Livid_plant_(Deep_Sea_Fishing%29) in stock.",
             "thumbnail": {
                 "url": "https://i.imgur.com/Shmagnp.png"
             },
@@ -4620,7 +4620,7 @@ exports.data = {
                 },
                 {
                     "name": "Requirements:",
-                    "value": "• 70 Magic\n• 81 Magic to complete all the activities\n• 93 Magic to complete all the distractions\n• 60 Agility\n• 60 Crafting\n• 60 Farming\n• 50 Construction\n\n• Lunar Diplomacy Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Lunar_Diplomacy)\n• Have the Lunar Spellbook activated"
+                    "value": "• 70 Magic\n• 81 Magic to complete all the activities\n• 93 Magic to complete all the distractions\n• 60 Agility\n• 60 Crafting\n• 60 Farming\n• 50 Construction\n\n• Lunar Diplomacy Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Lunar_Diplomacy)\n\n• Have the Lunar Spellbook activated"
                 },
                 {
                     "name": "Guide:",
@@ -7409,7 +7409,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Task Master](https://runescape.wikia.com/wiki/Task_Master) is an achievement that tracks the player's progress into completing the required [Exploration achievements](https://runescape.wikia.com/wiki/Exploration_achievements).",
+			"description": "[Task Master](https://runescape.wikia.com/wiki/Task_Master) is an achievement that tracks the player's progress into completing the required [Exploration achievements](https://runescape.wikia.com/wiki/Exploration_achievements).\n\nIt should be noted that players do **not** need to complete the [Menaphos achievements](https://runescape.wikia.com/wiki/Menaphos_achievements), [New Varrock achievements](https://runescape.wikia.com/wiki/New_Varrock_achievements), or the [Wushanko: The Arc achievements](https://runescape.wikia.com/wiki/Wushanko:_The_Arc_achievements) in order to complete this requirement.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -7423,7 +7423,7 @@ exports.data = {
 					"value": "• [Ardougne achievements | Runescape Wiki](http://runescape.wikia.com/wiki/Ardougne_achievements)\n• [Desert achievements | Runescape Wiki](http://runescape.wikia.com/wiki/Desert_achievements)\n• [Daemonheim achievements | Runescape Wiki](http://runescape.wikia.com/wiki/Daemonheim_achievements)\n• [Falador achievements | Runescape Wiki](http://runescape.wikia.com/wiki/Falador_achievements)\n• [Fremennik achievements | Runescape Wiki](http://runescape.wikia.com/wiki/Fremennik_achievements)\n• [Karamja achievements | Runescape Wiki](http://runescape.wikia.com/wiki/Karamja_achievements)"
 				},
 				{
-					"name": "Guides continued:",
+					"name": "​",
 					"value": "• [Lumbridge achievements | Runescape Wiki](http://runescape.wikia.com/wiki/Lumbridge_achievements)\n• [Morytania achievements | Runescape Wiki](http://runescape.wikia.com/wiki/Morytania_achievements)\n• [Seers achievements | Runescape Wiki](http://runescape.wikia.com/wiki/Seers%27_Village_achievements)\n• [Tirannwn achievements | Runescape Wiki](http://runescape.wikia.com/wiki/Tirannwn_achievements)\n• [Varrock achievements | Runescape Wiki](http://runescape.wikia.com/wiki/Varrock_achievements)\n• [Wilderness achievements | Runescape Wiki](http://runescape.wikia.com/wiki/Wilderness_achievements)"
 				}
 			],
@@ -7831,14 +7831,38 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Trip to the East](http://runescape.wikia.com/wiki/Trip_to_the_East) is an achievement that requires the player to complete one of the storylines in the player-owned port: Quin, Hyu-Ji, Eastern Curiosities, or Guardians of the World. It is advised to not aim for Guardians of the World as the story line, as the final trio story voyage for Guardians of the World also requires that you have 6,000,000 distance and unlocked the island Exile's Point.\n\nNote: You must have three trios of ONE story line completed, giving your adventurer a total of 9/9 completed, not a single trio for 7/7 completed as is commonly believed.\n\nThe recommended steps to fulfill this achievement are:\n1. Send out as many adventurers as possible that you do NOT need on voyages. Do NOT check their voyages, leave them their forever until you get your trio voyage. This works even better if you send out duo adventurers you do NOT need on voyages.\n2. Build 1 icon of each of the 3 adventurers that you do need.\n3. Build Ostentatious Bar in the Shield region (Luxurious Bar in Pincers region).\n4. Do every random event (Barmaid, Seasinger Umi, Marketeer) you get for chance at adventurer reroll. You may get a max of 1 random event per Runescape \"day\".\n5. Do Motherlode Maw (Dragonkin) daily for chance at Player-Owned-Ports enhancers.\n6. Exchange 10 Crystal motherlode shards daily with Wythien for chance at Player-Owned-Ports enhancers.",
+			"description": "[Trip to the East](http://runescape.wikia.com/wiki/Trip_to_the_East) is an achievement that requires the player to complete one of the storylines in the [player-owned port](https://runescape.wikia.com/wiki/Player-owned_port): [Quin](https://runescape.wikia.com/wiki/Quin), [Hyu-Ji](https://runescape.wikia.com/wiki/Hyu-Ji), [Eastern Curiosities](https://runescape.wikia.com/wiki/Eastern_Curiosities), or [Guardians of the World](https://runescape.wikia.com/wiki/Guardians_of_the_World). It is advised to not aim for Guardians of the World as the story line, as the final trio story voyage for Guardians of the World also requires that you have 6,000,000 [distance](https://runescape.wikia.com/wiki/Player-owned_port#Distance_travelled) and unlocked the island [Exile's Point](https://runescape.wikia.com/wiki/Exile%27s_Point).\n\nNote: You must have **THREE** trios of **ONE** story line completed, giving your adventurer a total of **9/9** completed, not a single trio for 7/7 completed as is commonly believed.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
 			"fields": [
 				{
+					"name": "The recommended steps to fulfill this achievement are:",
+					"value": "1. Send out as many [adventurers](https://runescape.wikia.com/wiki/Player-owned_port/Special_voyages) as possible that you do NOT need on voyages. Do NOT check their voyages, leave them there until you get your required trio voyage. This works even better if you send out duo adventurers you do NOT need on voyages."
+				},
+				{
+					"name": "​",
+					"value": "2. Build 1 [icon](https://runescape.wikia.com/wiki/Player-owned_port/Upgrades#Icon_hotspots) of each of the 3 adventurers that you do need."
+				},
+				{
+					"name": "​",
+					"value": "3. Build Ostentatious [Bar](https://runescape.wikia.com/wiki/Player-owned_port/Upgrades#Bar) in the [Shield region](https://runescape.wikia.com/wiki/The_Shield) (Luxurious Bar in [Pincers region](https://runescape.wikia.com/wiki/The_Pincers))."
+				},
+				{
+					"name": "​",
+					"value": "4. Do every [random event](https://runescape.wikia.com/wiki/Player-owned_port#Random_events_.28minigames.29) you get for chance at [adventurer reroll](https://runescape.wikia.com/wiki/Player-owned_port/Random_events#Rewards). You may get a max of 1 random event per Runescape \"day\"."
+				},
+				{
+					"name": "​",
+					"value": "5. Do [Motherlode Maw](https://runescape.wikia.com/wiki/Motherlode_Maw) daily for chance at [Player-Owned-Ports enhancers](https://runescape.wikia.com/wiki/Player-owned_ports_enhancer)."
+				},
+				{
+					"name": "​",
+					"value": "6. Exchange 10 [Crystal motherlode shards](https://runescape.wikia.com/wiki/Crystal_motherlode_shard) daily with [Wythien](https://runescape.wikia.com/wiki/Wythien) in the [Meilyr Clan](https://runescape.wikia.com/wiki/Meilyr_Clan) district for chance at Player-Owned-Ports enhancers."
+				},
+				{
 					"name": "Requirements:",
-					"value": "• Level 90 in Slayer, Fishing and Runecrafting\nOR\n• Level 90 in Herblore, Thieving, and Prayer\nOR\n• Level 90 in Cooking, Huntering, and Construction\nOR\n• Level 90 in Divination, Dungeoneering, and Agility."
+					"value": "• Level 90 in Slayer, Fishing and Runecrafting\n\t\tOR\n• Level 90 in Herblore, Thieving, and Prayer\n\t\tOR\n• Level 90 in Cooking, Huntering, and Construction\n\t\tOR\n• Level 90 in Divination, Dungeoneering, and Agility"
 				},
 				{
 					"name": "Guide:",
@@ -7883,11 +7907,75 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Troublesome Crystals](http://runescape.wikia.com/wiki/Troublesome_Crystals) is an achievement that requires the player to collect all 16 Prifddinas memoriam crystals after Plague's End, not including the unknown crystal.",
+			"description": "[Troublesome Crystals](http://runescape.wikia.com/wiki/Troublesome_Crystals) is an achievement that requires the player to collect all 16 [Prifddinas memoriam crystals](https://runescape.wikia.com/wiki/Memoriam_crystal#Prifddinas_crystal_locations) after [Plague's End](https://runescape.wikia.com/wiki/Plague%27s_End), not including the [unknown crystal](https://runescape.wikia.com/wiki/Memoriam_crystal_(unknown).\n\nAll the Memoriam crystals can be stored in the Memoriam device upstairs in the [Tower of Voices](https://runescape.wikia.com/wiki/Tower_of_Voices) found in the centre of [Prifddinas](https://runescape.wikia.com/wiki/Prifddinas).",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
 			"fields": [
+				{
+					"name": "Prifddinas Crystal Locations",
+					"value": "**Memoriam Crytal:** [01](https://runescape.wikia.com/wiki/Memoriam_crystal_01)\n\t• **Location:** West of [Morvran](https://runescape.wikia.com/wiki/Morvran) in [Iorwerth Clan](https://runescape.wikia.com/wiki/Iorwerth_Clan) district, in front of the house you can't enter"
+				},
+				{
+					"name": "​",
+					"value": "**Memoriam Crytal:** [02](https://runescape.wikia.com/wiki/Memoriam_crystal_02)\n\t• **Location:** The house east of the Elder tree patch in [Crwys Clan](https://runescape.wikia.com/wiki/Crwys_Clan) district, on the south side"
+				},
+				{
+					"name": "​",
+					"value": "**Memoriam Crytal:** [03](https://runescape.wikia.com/wiki/Memoriam_crystal_03)\n\t• **Location:** Inside the [Trahaearn Clan](https://runescape.wikia.com/wiki/Trahaearn_Clan) Tower with the [Trahaearn herald](https://runescape.wikia.com/wiki/Trahaearn_herald)"
+				},
+				{
+					"name": "​",
+					"value": "**Memoriam Crytal:** [04](https://runescape.wikia.com/wiki/Memoriam_crystal_04)\n\t• **Location:** Inside [Haf's Battlestaves](https://runescape.wikia.com/wiki/Haf%27s_Battlestaves) shop, in the [Cadarn Clan](https://runescape.wikia.com/wiki/Cadarn_Clan) district"
+				},
+				{
+					"name": "​",
+					"value": "**Memoriam Crytal:** [05](https://runescape.wikia.com/wiki/Memoriam_crystal_05)\n\t• **Location:** Pickpocketed from [Arianwyn](https://runescape.wikia.com/wiki/Arianwyn) near the [Cadarn herald](https://runescape.wikia.com/wiki/Cadarn_herald)"
+				},
+				{
+					"name": "​",
+					"value": "**Memoriam Crytal:** [06](https://runescape.wikia.com/wiki/Memoriam_crystal_06)\n\t• **Location:** Speak to [Lord Iorwerth](https://runescape.wikia.com/wiki/Iestin_Edern), near the Iorwerth prayer altar, and ask him about Clan Iorwerth. You will get the crystal when the world gate is mentioned. Requires completion of [Fate of the Gods](https://runescape.wikia.com/wiki/Fate_of_the_Gods)"
+				},
+				{
+					"name": "​",
+					"value": "**Memoriam Crytal:** [07](https://runescape.wikia.com/wiki/Memoriam_crystal_07)\n\t• **Location:** In the building south of the [Seren Stone](https://runescape.wikia.com/wiki/Seren_stone) rocks in the [Trahaearn Clan](https://runescape.wikia.com/wiki/Trahaearn_Clan) district; search the crate on the west side of the building."
+				},
+				{
+					"name": "​",
+					"value": "**Memoriam Crytal:** [08](https://runescape.wikia.com/wiki/Memoriam_crystal_08)\n\t• **Location:** Plant a [bush seed](https://runescape.wikia.com/wiki/Seeds#Bushes) in the [bush patch](https://runescape.wikia.com/wiki/Farming/Patch_locations#Bush_patches), just east of the Crwys bankchest, then `Check Health` once it has grown."
+				},
+				{
+					"name": "​",
+					"value": "**Memoriam Crytal:** [09](https://runescape.wikia.com/wiki/Memoriam_crystal_09)\n\t• **Location:** In the [Hefin Cathedral](https://runescape.wikia.com/wiki/Hefin_Cathedral) south of the [Corrupted Seren Stone](https://runescape.wikia.com/wiki/Corrupted_Seren_Stone)"
+				},
+				{
+					"name": "​",
+					"value": "**Memoriam Crytal:** [10](https://runescape.wikia.com/wiki/Memoriam_crystal_10)\n\t• **Location:** In the [harp](https://runescape.wikia.com/wiki/Harp) building on the south-west side of the [Ithell Clan](https://runescape.wikia.com/wiki/Ithell_Clan) district"
+				},
+				{
+					"name": "​",
+					"value": "**Memoriam Crytal:** [11](https://runescape.wikia.com/wiki/Memoriam_crystal_11)\n\t• **Location:** In [Daffyd](https://runescape.wikia.com/wiki/Daffyd)'s house at the north-west edge of the [Amlodd Clan](https://runescape.wikia.com/wiki/Amlodd_Clan) district"
+				},
+				{
+					"name": "​",
+					"value": "**Memoriam Crytal:** [12](https://runescape.wikia.com/wiki/Memoriam_crystal_12)\n\t• **Location:** In [Lady Meilyr](https://runescape.wikia.com/wiki/Lady_Meilyr)'s house in the north-east corner of the [Meilyr Clan](https://runescape.wikia.com/wiki/Meilyr_Clan) district"
+				},
+				{
+					"name": "​",
+					"value": "**Memoriam Crytal:** [13](https://runescape.wikia.com/wiki/Memoriam_crystal_13)\n\t• **Location:** Use one of the [emotes](https://runescape.wikia.com/wiki/Hefin_Agility_Course#Emotes) awarded from the [Hefin Agility Course](https://runescape.wikia.com/wiki/Hefin_Agility_Course) near the [serenity posts](https://runescape.wikia.com/wiki/Serenity_posts)"
+				},
+				{
+					"name": "​",
+					"value": "**Memoriam Crytal:** [14](https://runescape.wikia.com/wiki/Memoriam_crystal_14)\n\t• **Location:** Collect a [bucket](https://runescape.wikia.com/wiki/Bucket) of sand from the [sandpit](https://runescape.wikia.com/wiki/Sandpit) in the southern side of the [Ithell clan](https://runescape.wikia.com/wiki/Ithell_Clan) district while only having 10 or more empty buckets in your inventory. If you have anything else in your inventory you will not receive this Memoriam Crystal"
+				},
+				{
+					"name": "​",
+					"value": "**Memoriam Crytal:** [15](https://runescape.wikia.com/wiki/Memoriam_crystal_15)\n\t• **Location:** Teleport to the [fairy ring](https://runescape.wikia.com/wiki/Fairy_ring) in Prifddinas (**d•j•s**)"
+				},
+				{
+					"name": "​",
+					"value": "**Memoriam Crytal:** [16](https://runescape.wikia.com/wiki/Memoriam_crystal_16)\n\t• **Location:** Harvest [Harmony moss](https://runescape.wikia.com/wiki/Harmony_moss) from a [Harmony pillar](https://runescape.wikia.com/wiki/Harmony_pillar) while under the effect of a [perfect juju farming potion](https://runescape.wikia.com/wiki/Perfect_juju_farming_potion), with a fruit tree fully grown in the Meilyr district"
+				},
 				{
 					"name": "Requirements:",
 					"value": "• 77 Agility\n• 75 Farming\n\n• Fate of the Gods Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Fate_of_the_Gods)\n• Plague's End Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Plague%27s_End)\n• Fairy Tale II - Cure a Queen Quest partial completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Fairy_Tale_II_-_Cure_a_Queen)"
@@ -7935,14 +8023,14 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Uncorrupted Ore](http://runescape.wikia.com/wiki/Uncorrupted_Ore) is an achievement that requires the player to smelt 100 corrupted ore in the Trahaearn Clan furnace, and then claiming the Smithing XP lamp from Lady Trahaearn.\n\nCorrupted ore, also called Seren corruption, is an ore gained from mining Seren Stones in Prifddinas or mining any rocks in the Trahaearn Clan's district when the Voice of Seren is active in the district.\n\nAlthough this achievement is listed as having a level 89 Mining requirement, this is not actually needed for completion, as the player can receive corrupted ore from other sources than Seren Stones, such as from the Crystal chest.",
+			"description": "[Uncorrupted Ore](http://runescape.wikia.com/wiki/Uncorrupted_Ore) is an achievement that requires the player to smelt 100 [corrupted ore](https://runescape.wikia.com/wiki/Corrupted_ore) in the [Trahaearn Clan](https://runescape.wikia.com/wiki/Trahaearn_Clan) [furnace](https://runescape.wikia.com/wiki/Furnace), and then claiming the [Smithing XP lamp](https://runescape.wikia.com/wiki/Smithing_XP_lamp) from [Lady Trahaearn](https://runescape.wikia.com/wiki/Lady_Trahaearn).\n\nCorrupted ore, also called Seren corruption, is an ore gained from mining [Seren Stones](https://runescape.wikia.com/wiki/Seren_stone) in [Prifddinas](https://runescape.wikia.com/wiki/Prifddinas) or mining any rocks in the Trahaearn Clan's district when the Voice of Seren is active in the district.\n\nAlthough this achievement is listed as having a level 89 Mining requirement, this is not actually needed for completion, as the player can receive corrupted ore from sources other than Seren Stones, such as from the [Crystal chest](https://runescape.wikia.com/wiki/Crystal_chest), [Motherlode Maw](https://runescape.wikia.com/wiki/Motherlode_Maw), and [Wythien](https://runescape.wikia.com/wiki/Wythien).",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
 			"fields": [
 				{
 					"name": "Requirements:",
-					"value": "• 89 Minng\n• 89 Smihing\n\n• Plague's End Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Plague%27s_End)"
+					"value": "• 89 Minng*\n• 89 Smihing\n\n• Plague's End Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Plague%27s_End)"
 				},
 				{
 					"name": "Guide:",
@@ -8039,14 +8127,14 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Walking the Reef](http://runescape.wikia.com/wiki/Walking_the_Reef) is an achievement that requires the player to find the four parts of the reefwalker's cape eastern scroll within the player-owned port.\n\nEastern scrolls are blueprints obtained from the Wushanko Isles in the Player-owned port minigame. Scrolls have four parts each and must be completed before the item may be created. Scrolls can only be obtained from adventurer voyages, having the highest adversity. You can select which scrolls to look for and see how many you have in the Port Management screen which you can access from the Captains Log or by clicking the button at the top of the screen when in the ports area.\n\nIn order to get the most scrolls in the shortest time, it is best to start farming them when reaching the Skull. Travelling far enough to access a new region will cause the time and difficulty of scroll missions to go up.",
+			"description": "[Walking the Reef](http://runescape.wikia.com/wiki/Walking_the_Reef) is an achievement that requires the player to find the four parts of the [reefwalker's cape](https://runescape.wikia.com/wiki/Reefwalker%27s_cape) [eastern scroll](https://runescape.wikia.com/wiki/Eastern_scroll) within the [player-owned port](https://runescape.wikia.com/wiki/Player-owned_port).\n\nEastern scrolls are blueprints obtained from the [Wushanko Isles](https://runescape.wikia.com/wiki/Wushanko_Isles) in the Player-owned port minigame. Scrolls have four parts each and must be completed before the item may be created. Scrolls can only be obtained from [adventurer voyages](https://runescape.wikia.com/wiki/Player-owned_port/Special_voyages), which have the highest difficulty. You can select which scrolls to look for and see how many you have in the [Port Management](https://runescape.wikia.com/wiki/Player-owned_port/Interfaces#Port_Management) screen which you can access from the [Captains Log](https://runescape.wikia.com/wiki/Captain%27s_Log) or by clicking the button at the top of the screen when in the ports area.\n\nIn order to get the most scrolls in the shortest time, it is best to start farming them when reaching [the Skull](https://runescape.wikia.com/wiki/The_Skull). Travelling far enough to access a new [region](https://runescape.wikia.com/wiki/Player-owned_port#Regions) will cause the time and difficulty of scroll missions to go up.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
 			"fields": [
 				{
 					"name": "Requirements:",
-					"value": "Level 90 in one of the following skills;\n• Agility\n• Construction\n• Cooking\n• Divination\n• Dungeoneering\n• Fishing\n• Herblore\n• Hunter\n• Prayer\n• Runecrafting\n• Slayer\n• Thieving"
+					"value": "Level 90 in one of the following skills:\n• Agility\n• Construction\n• Cooking\n• Divination\n• Dungeoneering\n• Fishing\n• Herblore\n• Hunter\n• Prayer\n• Runecrafting\n• Slayer\n• Thieving"
 				}
 			],
 			"footer": {
@@ -8063,7 +8151,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[What's Mine Is Also Doric's](http://runescape.wikia.com/wiki/What%27s_Mine_Is_Also_Doric%27s) is an achievement that requires the player to complete the [Doric](https://runescape.wikia.com/wiki/Doric) and [Boric](https://runescape.wikia.com/wiki/Boric) tasks after completion of [What's Mine is Yours](https://runescape.wikia.com/wiki/What%27s_Mine_is_Yours).\n\nThe items requested can only be smithed after the task is started, otherwise they will not count. You cannot buy the items from the Grand Exchange, but you can buy the metal bars. You do not have to mine the ores or smelt them. After you complete each task, return to Doric or Boric for the next task. You cannot boost any of the requirements.",
+			"description": "[What's Mine Is Also Doric's](http://runescape.wikia.com/wiki/What%27s_Mine_Is_Also_Doric%27s) is an achievement that requires the player to complete the [Doric](https://runescape.wikia.com/wiki/Doric) and [Boric](https://runescape.wikia.com/wiki/Boric) tasks after completion of [What's Mine is Yours](https://runescape.wikia.com/wiki/What%27s_Mine_is_Yours).\n\nThe items requested can only be smithed after the task is started, otherwise they will not count. You cannot buy the items from the [Grand Exchange](https://runescape.wikia.com/wiki/Grand_Exchange), but you can buy the metal bars. You do not have to mine the ores or smelt them. After you complete each task, return to Doric or Boric for the next task. You cannot boost any of the requirements.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -8082,7 +8170,7 @@ exports.data = {
        			},
         		{
                     "name": "Items Required:",
-                    "value": "• 36 bronze bars](https://runescape.wikia.com/wiki/Bronze_bar)\n• [25 iron bars](https://runescape.wikia.com/wiki/Iron_bar)\n• [50 steel bars](https://runescape.wikia.com/wiki/Steel_bar) (or 10 steel bars and 8 [Steel platebodies](https://runescape.wikia.com/wiki/Steel_platebody)\n• [60 mithril bars](https://runescape.wikia.com/wiki/Mithril_bar)\n• [50 adamant bars](https://runescape.wikia.com/wiki/Adamant_bar)\n• [20 iron ore](https://runescape.wikia.com/wiki/Iron_ore)\n• [30 coal](https://runescape.wikia.com/wiki/Coal)"
+                    "value": "• 36 [bronze bars](https://runescape.wikia.com/wiki/Bronze_bar)\n• [25 iron bars](https://runescape.wikia.com/wiki/Iron_bar)\n• [50 steel bars](https://runescape.wikia.com/wiki/Steel_bar) (or 10 steel bars and 8 [Steel platebodies](https://runescape.wikia.com/wiki/Steel_platebody))\n• [60 mithril bars](https://runescape.wikia.com/wiki/Mithril_bar)\n• [50 adamant bars](https://runescape.wikia.com/wiki/Adamant_bar)\n• [20 iron ore](https://runescape.wikia.com/wiki/Iron_ore)\n• [30 coal](https://runescape.wikia.com/wiki/Coal)"
         		},
         		{
                     "name": "Enemies to Defeat:",
@@ -8295,14 +8383,14 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Yaktwee's a Charm](http://runescape.wikia.com/wiki/Yaktwee%27s_a_Charm) is an achievement that requires the player to catch 1,000 charm sprites to unlock the enhanced yaktwee stick.\n\nCharm sprites are fast flying creatures that can be hunted with a Yaktwee stick and Sprite lure, located south-west of the Tree Gnome Stronghold.",
+			"description": "[Yaktwee's a Charm](http://runescape.wikia.com/wiki/Yaktwee%27s_a_Charm) is an achievement that requires the player to catch 1,000 [charm sprites](https://runescape.wikia.com/wiki/Charm_sprite) to unlock the [enhanced yaktwee stick](https://runescape.wikia.com/wiki/Enhanced_yaktwee_stick).\n\nCharm sprites are fast flying creatures that can be hunted with a [Yaktwee stick](https://runescape.wikia.com/wiki/Yaktwee_stick) and [Sprite lure](https://runescape.wikia.com/wiki/Sprite_lure), located south-west of the [Tree Gnome Stronghold](https://runescape.wikia.com/wiki/Tree_Gnome_Stronghold).\n\nThere are 3 different versions of charm sprites:\n• [Gleaelg](https://runescape.wikia.com/wiki/Gleaelg) (130 experience), yellow smoke trail\n• [Tranart](https://runescape.wikia.com/wiki/Tranart) (200 experience), orange smoke trail\n• [Slithtils](https://runescape.wikia.com/wiki/Slithtils) (400 experience), purple smoke trail\n\nWhen wielded, the enhanced yaktwee stick increases the chance to get the rarer charm sprites by about 5% as well as giving 5% extra experience in any Hunter activity, as long as the activity allows the stick to be wielded.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
 			"fields": [
 				{
 					"name": "Requirements:",
-					"value": "• 72 Hunter\n• Yaktwee Stick"
+					"value": "• 72 Hunter\n\n• Yaktwee Stick and Sprite lure"
 				},
 				{
 					"name": "Guide:",
@@ -8423,18 +8511,66 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Zarosian Memories](http://runescape.wikia.com/wiki/Zarosian_Memories) is an achievement that requires the player to find all twelve of Zaros' memoriam crystals on Freneskae after Fate of the Gods.\n\nz01: From the entrance, jump from ledge twice, take the left (north) branch and cross a rock formation. It will be found on the right before reaching the first healing point.\nz02: From the entrance, jump from ledge twice, take the right (south) branch and climb the cliffside. The crystal is a short distance along the passage, on the left.\nz03: The Cradle (can only be reached after the quest has been completed.)\nz04: From the first healing point, go north, cross the stepping stones and climb the cliffside. Go east and go down the drop.\nz05: From the first healing point, go north, cross the stepping stones and climb the cliffside. Go east and north and cross the overhang then climb down the cliffside. It will be found to the north at a dead end.\nz06: From the location of z07, back out of the dead end and take the south branch. Climb a rock formation, go west and walk across another rock formation. Climb down the cliffside, go west and find the crystal among the lava vents. (It is just west of the second healing point).\nz07: Enter the Approach from the Sanctum. Go north and traverse a rock formation, then go west and north into a dead end.\nz08: Enter the Approach from the Sanctum. Go south and squeeze through a crevice to the east.\nz09: Enter the Approach. From the entrance, go west and north, at a dead-end.\nz10: The Pit, through the exit doors.\nz11: The Sanctum.\nz12: The Elder Halls, near the end of the southeast passage.",
+			"description": "[Zarosian Memories](http://runescape.wikia.com/wiki/Zarosian_Memories) is an achievement that requires the player to find all twelve of [Zaros' memoriam crystals](https://runescape.wikia.com/wiki/Memoriam_crystal#Zaros.27_Memories) on [Freneskae](https://runescape.wikia.com/wiki/Freneskae) after [Fate of the Gods](https://runescape.wikia.com/wiki/Fate_of_the_Gods).\n\nTwelve of the crystals found on Freneskae will unlock memories about [Zaros](https://runescape.wikia.com/wiki/Zaros) and four of the memories found on Freneskae will unlock memories about [Seren](https://runescape.wikia.com/wiki/Seren). Finding all 12 Zarosian crystals unlocks the [Helm of Zaros](https://runescape.wikia.com/wiki/Helm_of_Zaros). When activating the device after placing all twelve of the Zarosian crystals, the east wall reveals a hidden room. Clicking on this will unlock the Helm of Zaros.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
 			"fields": [
+				{
+					"name": "Freneskae Crystal Locations:",
+					"value": "**Memoriam Crystal:** [01](https://runescape.wikia.com/wiki/Memoriam_crystal_z01)\n\t• **Location:** From the entrance of Freneskae, jump from ledge twice, take the left (north) branch and cross a rock formation. It will be found on the right before reaching the first healing point."
+				},
+				{
+					"name": "​",
+					"value": "**Memoriam Crystal:** [02](https://runescape.wikia.com/wiki/Memoriam_crystal_z02)\n\t• **Location:** From the entrance of Freneskae, jump from ledge twice, take the right (south) branch and climb the cliffside. The crystal is a short distance along the passage, on the left."
+				},
+				{
+					"name": "​",
+					"value": "**Memoriam Crystal:** [03](https://runescape.wikia.com/wiki/Memoriam_crystal_z03)\n\t• **Location:** [The Cradle](https://runescape.wikia.com/wiki/Freneskae#The_Cradle) (can only be reached after the quest has been completed.)"
+				},
+				{
+					"name": "​",
+					"value": "**Memoriam Crystal:** [04](https://runescape.wikia.com/wiki/Memoriam_crystal_z04)\n\t• **Location:** From the first healing point, go north, cross the stepping stones and climb the cliffside. Go east and go down the drop."
+				},
+				{
+					"name": "​",
+					"value": "**Memoriam Crystal:** [05](https://runescape.wikia.com/wiki/Memoriam_crystal_z05)\n\t• **Location:** From the first healing point, go north, cross the stepping stones and climb the cliffside. Go east and north and cross the overhang then climb down the cliffside. It will be found to the north at a dead end."
+				},
+				{
+					"name": "​",
+					"value": "**Memoriam Crystal:** [06](https://runescape.wikia.com/wiki/Memoriam_crystal_z06)\n\t• **Location:** From the location of z07, back out of the dead end and take the south branch. Climb a rock formation, go west and walk across another rock formation. Climb down the cliffside, go west and find the crystal among the lava vents. (It is just west of the second healing point)."
+				},
+				{
+					"name": "​",
+					"value": "**Memoriam Crystal:** [07](https://runescape.wikia.com/wiki/Memoriam_crystal_z07)\n\t• **Location:** Enter [the Approach](https://runescape.wikia.com/wiki/Freneskae#The_Approach) from [the Sanctum](https://runescape.wikia.com/wiki/Freneskae#The_Sanctum). Go north and traverse a rock formation, then go west and north into a dead end."
+				},
+				{
+					"name": "​",
+					"value": "**Memoriam Crystal:** [08](https://runescape.wikia.com/wiki/Memoriam_crystal_z08)\n\t• **Location:** Enter the Approach from the Sanctum. Go south and squeeze through a crevice to the east."
+				},
+				{
+					"name": "​",
+					"value": "**Memoriam Crystal:** [09](https://runescape.wikia.com/wiki/Memoriam_crystal_z09)\n\t• **Location:** Enter the Approach. From the entrance, go west and north, at a dead-end."
+				},
+				{
+					"name": "​",
+					"value": "**Memoriam Crystal:** [10](https://runescape.wikia.com/wiki/Memoriam_crystal_z10)\n\t• **Location:** [The Pit](https://runescape.wikia.com/wiki/Freneskae#The_Pit), through the exit doors."
+				},
+				{
+					"name": "​",
+					"value": "**Memoriam Crystal:** [11](https://runescape.wikia.com/wiki/Memoriam_crystal_z11)\n\t• **Location:** The Sanctum."
+				},
+				{
+					"name": "​",
+					"value": "**Memoriam Crystal:** [12](https://runescape.wikia.com/wiki/Memoriam_crystal_z12)\n\t• **Location:** [The Elder Halls](https://runescape.wikia.com/wiki/Freneskae#The_Elder_Halls), near the end of the southeast passage."
+				},
 				{
 					"name": "Requirements:",
 					"value": "• Fate of the Gods Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Fate_of_the_Gods)"
 				},
 				{
 					"name": "Guide:",
-					"value": "[Hopespear's Will Miniquest Guide | Runescape Wiki](http://runescape.wikia.com/wiki/Hopespear%27s_Will)"
+					"value": "[Freneskae Map and Locations | Runescape Wiki](https://runescape.wikia.com/wiki/Map:Freneskae)"
 				}
 			],
 			"footer": {
