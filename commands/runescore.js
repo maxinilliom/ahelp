@@ -16,14 +16,14 @@ const { data } = require("../guides/rsGuide.js");
 		console.log(bye); // "bye" */
 
 exports.run = async (client, message, args, level) => { // eslint-disable-line no-unused-vars
-	const split = args.join(" ").toLowerCase().split(" - ");
-	let cat = split[0] ? split[0].trim() : undefined
-	let sub = split[1] ? split[1].trim() : undefined
-	let ach = split[2] ? split[2].trim() : undefined
-	const catLast = cat.split(" ").pop();
-	const subLast = sub.split(" ").pop();
-	cat = catLast == "all" || catLast == "help" ? cat.substring(0, cat.lastIndexOf(" "));
-	sub = subLast == "all" || subLast == "help" ? sub.substring(0, sub.lastIndexOf(" "));
+	const split = args[0] ? args.join(" ").toLowerCase().split(" - ") : undefined;
+	let cat = split && split[0] ? split[0].trim() : undefined
+	let sub = split && split[1] ? split[1].trim() : undefined
+	let ach = split && split[2] ? split[2].trim() : undefined
+	const catLast = cat && cat.split(" ").pop() == "help" ? cat.split(" ").pop() : undefined;
+	const subLast = sub && sub.split(" ").pop() == "help" ? sub.split(" ").pop() : undefined;
+	cat = catLast == "all" || catLast == "help" ? cat.substring(0, cat.lastIndexOf(" ")) : cat;
+	sub = subLast == "all" || subLast == "help" ? sub.substring(0, sub.lastIndexOf(" ")) : sub;
 	const keyList = [];
 	const catList = [];
 	const subList = [];
@@ -31,18 +31,19 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 	const name = "RuneScore Info";
 	const color = 2011148;
 
+	if (!args[0]) return message.channel.send(`Please specify a valid category to search within.`);
+
 	if (message.channel.id !== '407919969712603145' && level < 2) return;
 
 	Object.getOwnPropertyNames(data).forEach(k => {
 		const guideSplit = k.split("-");
 		const guideCat = guideSplit[0].trim();
-		const guideSub = guideSplit[1].trim();
-		if (data[k].cmds.includes("rs")) keyList.push(k);
-		if (!catList.includes(guideCat)) catList.push(guideCat);
-		if (!subList.includes(guideSub)) subList.push(guideSub);
+//		const guideSub = guideSplit[1].trim();
+		if (k !== "help" && k !== "search") keyList.push(k);
+		if (k !== "help" && k !== "search" && !catList.includes(guideCat)) catList.push(guideCat);
+//		if (!subList.includes(guideSub)) subList.push(guideSub);
 	});
 
-	if (!cat) return message.channel.send(`Please specify a valid category to search within.`);
 
 	if (cat == "all" && level >= 2) {
 		let i = 0, o = 0, x = keyList.length;
