@@ -26,9 +26,13 @@ exports.run = async (client, message, [skill, ...args], level) => { // eslint-di
 	const name = "Max Cape Info";
 	const color = 12269891;
 	const footer = {
-        "icon_url": "https://i.imgur.com/KDhyn44.png",
-        "text": "Let's unfurl those banners!"
-      };
+    "icon_url": "https://i.imgur.com/KDhyn44.png",
+    "text": "Let's unfurl those banners!"
+  };
+
+  // switch (skill.toLowerCase()) {
+  //switch footer icon based on skill
+  // }
 
 	if (skill.toLowerCase() == "universal" && !args[0]) {
 		message.channel.send("", {embed: data[0]});
@@ -50,6 +54,7 @@ exports.run = async (client, message, [skill, ...args], level) => { // eslint-di
 		helpEmbed.description = output;
 		helpEmbed.color = color;
 		helpEmbed.footer = footer;
+		helpEmbed.timestamp = new Date();
 		return message.channel.send("", {embed: helpEmbed});
 	}
 
@@ -63,6 +68,7 @@ exports.run = async (client, message, [skill, ...args], level) => { // eslint-di
                 helpEmbed.description = output;
 								helpEmbed.color = color;
 								helpEmbed.footer = footer;
+								helpEmbed.timestamp = new Date();
 		return message.channel.send("", {embed: helpEmbed});
         }
 
@@ -97,6 +103,10 @@ exports.run = async (client, message, [skill, ...args], level) => { // eslint-di
 			if (args[0] >= first && args[0] < last && !/\bpt\d/.test(k) && !rtnArr.includes(k)) rtnArr.push(k);
 			if (args[0] >= first && args[0] < last && /\bpt\d/.test(k)) {
 				const guide = data[k];
+				if (/\bpt1/.test(k)) guide.author.name = name;
+				guide.color = color;
+				if (guide.footer) guide.footer = footer;
+				if (guide.timestamp) guide.timestamp = new Date();
 				message.channel.send("", {embed: guide});
 				pt = "true";
 			}

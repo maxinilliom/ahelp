@@ -16,8 +16,17 @@ const { data } = require("../guides/rsGuide.js");
 		console.log(bye); // "bye" */
 
 exports.run = async (client, message, args, level) => { // eslint-disable-line no-unused-vars
-	const achName = args.join(" ").toLowerCase();
+	const split = args.join(" ").toLowerCase().split(" - ");
+	let cat = split[0] ? split[0].trim() : undefined
+	let sub = split[1] ? split[1].trim() : undefined
+	let ach = split[2] ? split[2].trim() : undefined
+	const catLast = cat.split(" ").pop();
+	const subLast = sub.split(" ").pop();
+	cat = catLast == "all" || catLast == "help" ? cat.substring(0, cat.lastIndexOf(" "));
+	sub = subLast == "all" || subLast == "help" ? sub.substring(0, sub.lastIndexOf(" "));
 	const keyList = [];
+	const catList = [];
+	const subList = [];
 	const rtnArr = [];
 	const name = "RuneScore Info";
 	const color = 2011148;
@@ -25,11 +34,17 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 	if (message.channel.id !== '407919969712603145' && level < 2) return;
 
 	Object.getOwnPropertyNames(data).forEach(k => {
+		const guideSplit = k.split("-");
+		const guideCat = guideSplit[0].trim();
+		const guideSub = guideSplit[1].trim();
 		if (data[k].cmds.includes("rs")) keyList.push(k);
+		if (!catList.includes(guideCat)) catList.push(guideCat);
+		if (!subList.includes(guideSub)) subList.push(guideSub);
 	});
-	if (!args[0]) return message.channel.send(`Please specify a valid achievement name.`);
 
-	if (args[0].toLowerCase() == "all" && level >= 2) {
+	if (!cat) return message.channel.send(`Please specify a valid category to search within.`);
+
+	if (cat == "all" && level >= 2) {
 		let i = 0, o = 0, x = keyList.length;
 		function list() {
 			const guide = data[keyList[o]].embed;
@@ -42,53 +57,91 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 			if (o < x) {
 				setTimeout(list, 2500);
 			}
-			if (o == x) message.reply(`**${i}**/\**${keyList.length}** responses listed.`);
+//			if (o == x) message.reply(`**${i}**/\**${keyList.length}** responses listed.`);
 		}
 		list();
 		return message.delete();
 	}
 
-	if (args[0].toLowerCase() == "help") {
+	if (cat == "help") {
 		let output = "";
-		let second = "";
-		let third = "";
 		const helpEmbed = data["help"].embed;
 		keyList.forEach(k => {
-			if (output.length <= 2000) {
-				output += `• ${data[k].embed.title}\n`;
-			} else if (second.length <= 2000) {
-				second += `• ${data[k].embed.title}\n`;
-			} else {
-				third += `• ${data[k].embed.title}\n`;
+			const guideSplit = k.split("-");
+			const guideCat = guideSplit[0].trim();
+			if (output.includes(`• ${guideCat}\n`)) return;
+			if (output.join("").length <= 2000) {
+				output.push(`• ${guideCat}\n`);
 			}
 		});
-		helpEmbed.title = "Comprehensive list of all valid RuneScore achievement guides";
+		helpEmbed.title = "Comprehensive list of all valid RuneScore achievement categories";
 		helpEmbed.author.name = name;
-		helpEmbed.description = output;
+		helpEmbed.description = output.join("");
 		helpEmbed.color = color;
 		helpEmbed.timestamp = new Date();
 		message.channel.send("", {embed: helpEmbed});
-
-		if (second.length > 0) {
-			helpEmbed.description = second;
-			helpEmbed.timestamp = new Date();
-			message.channel.send("", {embed: helpEmbed});
-		}
-
-		if (third.length > 0) {
-			helpEmbed.description = third;
-			helpEmbed.timestamp = new Date();
-			await message.channel.send("", {embed: helpEmbed});
-		}
 		const helpMsg = message.channel.id == '382701090430386180'
-			? `To search for an achievement, use **.${exports.help.name}** <keyword>.`
-			: `To search for an achievement, use **.${exports.help.name}** <keyword> in the <#382701090430386180> channel.`
+			? `To search for an achievement, use **.${exports.help.name}** <category> <sub-category> <keyword>.`
+			: `To search for an achievement, use **.${exports.help.name}** <category> <sub-category> <keyword> in the <#382701090430386180> channel.`
 		message.channel.send(helpMsg);
 		return;
 	}
 
+	if (!catList.includes(cat)) return message.channel.send(`Please specify a valid category to search within.`);
+
+	if (catLast == "all" && level >= 2) {
+		let i = 0, o = 0, x = keyList.length;
+		function list() {
+			const guideSplit = keyList[o].split("-");
+			const guideCat = guideSplit[0].trim();
+			if (!catList.includes(guideCat)) return;
+			const guide = data[keyList[o]].embed;
+			guide.author.name = name;
+			guide.color = color;
+			guide.timestamp = new Date();
+			message.channel.send("", {embed: guide});
+			i++;
+			o++;
+			if (o < x) {
+				setTimeout(list, 2500);
+			}
+//			if (o == x) message.reply(`**${i}**/\**${keyList.length}** responses listed.`);
+		}
+		list();
+		return message.delete();
+	}
+
+	if (catLast == "help") {
+		let output = "";
+		const helpEmbed = data["help"].embed;
+		keyList.forEach(k => {
+			const guideSplit = k.split("-");
+			const guideCat = guideSplit[0].trim();
+			const guideSub = guideSplit[1].trim();
+			if (output.includes(`• ${guideSub}\n`)) return;
+			if (output.join("").length <= 2000) {
+				output.push(`• ${guideSub}\n`);
+			}
+		});
+		helpEmbed.title = `Comprehensive list of all valid RuneScore achievement sub-categories within ${cat}`;
+		helpEmbed.author.name = name;
+		helpEmbed.description = output.join("");
+		helpEmbed.color = color;
+		helpEmbed.timestamp = new Date();
+		message.channel.send("", {embed: helpEmbed});
+
+		const helpMsg = message.channel.id == '382701090430386180'
+			? `To search for an achievement, use **.${exports.help.name}** <category> <sub-category> <keyword>.`
+			: `To search for an achievement, use **.${exports.help.name}** <category> <sub-category> <keyword> in the <#382701090430386180> channel.`
+		message.channel.send(helpMsg);
+		return;
+	}
+
+	if (!subList.includes(sub)) return message.channel.send(`Please specify a valid sub-category to search within.`);
+
 	keyList.forEach(k => {
-		if (RegExp(achName).test(k) && !rtnArr.includes(k)) rtnArr.push(k);
+//		if (RegExp(achName).test(k) && !rtnArr.includes(k)) rtnArr.push(k);
+
 	});
 
 	if (rtnArr.length == 0) {
