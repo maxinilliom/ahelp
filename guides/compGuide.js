@@ -43,8 +43,28 @@ exports.data = {
 			},
 			"fields": [
 				{
+                    "name": "Start Point:",
+                    "value": "• Speak to Mandrith in Edgeville"
+      			},
+        		{
+                    "name": "Official Difficulty:",
+                    "value": "• None"
+        		},
+        		{
+                    "name": "Official Length:",
+                    "value": "• Short"
+       			},
+        		{
+                    "name": "Items Required:",
+                    "value": "• 5 [Bittercap mushroom](https://runescape.wikia.com/wiki/Bittercap_mushroom)\n• 20 [Plank](https://runescape.wikia.com/wiki/Plank)\n• 10 [Oak plank](https://runescape.wikia.com/wiki/Oak_plank)\n• 10 [Mahogany plank](https://runescape.wikia.com/wiki/Mahogany_plank)\n• [Molten glass](https://runescape.wikia.com/wiki/Molten_glass)\n• [Marble block](https://runescape.wikia.com/wiki/Marble_block)\n• 100 [Water rune](https://runescape.wikia.com/wiki/Water_rune)\n• [Magic watering can](https://runescape.wikia.com/wiki/Magic_watering_can) (tool belt works)"
+        		},
+        		{
+                    "name": "Enemies to Defeat:",
+                    "value": "• None"
+        		},
+        		{
 					"name": "Requirements:",
-					"value": "• Rebuilding Edgeville Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Rebuilding_Edgeville)"
+					"value": "• Rebuilding Edgeville Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Rebuilding_Edgeville)\n• Ritual of the Mahjarrat Quest completion | [Runescape Wiki](https://runescape.wikia.com/wiki/Ritual_of_the_Mahjarrat)"
 				},
 				{
 					"name": "Guide:",
@@ -70,9 +90,9 @@ exports.data = {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
 			"fields": [
-							{
+				{
                     "name": "Start Point:",
-                    "value": "• Speak to the Mage of Zamorak at the end of the [River Lum](https://runescape.wikia.com/wiki/River_Lum) in the [Wilderness](https://runescape.wikia.com/wiki/Wilderness) (Roams levels 4-7)."
+                    "value": "• Speak to the Mage of Zamorak at the end of the [River Lum](https://runescape.wikia.com/wiki/River_Lum) in the [Wilderness](https://runescape.wikia.com/wiki/Wilderness) (Roams levels 4-7)"
       			},
         		{
                     "name": "Official Difficulty:",
@@ -90,7 +110,7 @@ exports.data = {
                     "name": "Enemies to Defeat:",
                     "value": "• None"
         		},
-            {
+            	{
 					"name": "Requirements:",
 					"value": "• Rune Mysteries Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Rune_Mysteries)"
 				},
@@ -113,7 +133,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Advanced Sweeping](http://runescape.wikia.com/wiki/Advanced_Sweeping) is an achievement that requires the player to fully enchant the [Broomstick](http://runescape.wikia.com/wiki/Broomstick) by bringing it to various magic users around the world. Temporary boosts, such as a [Magic potion](http://runescape.wikia.com/wiki/Magic_potion), can be used to reach the requirements, but the [God Emissary banner](http://runescape.wikia.com/wiki/God_banner) boost does not work as a boost for these requirements.\n\nWhen attempting to visit [Kardia](http://runescape.wikia.com/wiki/Kardia) in the [Underground Pass](http://runescape.wikia.com/wiki/Underground_Pass_(dungeon%29), do not attempt to go into her house directly as she will hit the player with a damaging spell. Instead, pick up the [Witch's cat](http://runescape.wikia.com/wiki/Witch's_cat) from a platform to the north-west and use it on her door. It will then be possible to enter her house; use the broomstick with Kardia to get it enchanted.\n\nNPC: [Apprentice](http://runescape.wikia.com/wiki/Apprentice)\nLocation: [Al Kharid](http://runescape.wikia.com/wiki/Al_Kharid)\nMagic Level Required: 1\n\nNPC: [Ali the Hag](http://runescape.wikia.com/wiki/Ali_the_Hag)\nLocation: [Pollnivneach](http://runescape.wikia.com/wiki/Pollnivneach)\nMagic Level Required: 33\n\nNPC: [Old crone](http://runescape.wikia.com/wiki/Old_crone)\nLocation: East of the [Slayer Tower](http://runescape.wikia.com/wiki/Slayer_Tower)\nMagic Level Required: 53\n\nNPC: [Baba Yaga](http://runescape.wikia.com/wiki/Baba_Yaga)\nLocation: [Lunar Isle](http://runescape.wikia.com/wiki/Lunar_Isle)\nMagic Level Required: 73\n\nNPC: [Kardia](http://runescape.wikia.com/wiki/Kardia)\nLocation: [Underground Pass](http://runescape.wikia.com/wiki/Underground_Pass_(dungeon%29)\nMagic Level Required: 93",
+			"description": "[Advanced Sweeping](http://runescape.wikia.com/wiki/Advanced_Sweeping) is an achievement that requires the player to fully enchant the [Broomstick](http://runescape.wikia.com/wiki/Broomstick) by bringing it to various magic users around the world. Temporary boosts, such as a [Magic potion](http://runescape.wikia.com/wiki/Magic_potion), can be used to reach the requirements, but the [God Emissary banner](http://runescape.wikia.com/wiki/God_banner) boost does not work as a boost for these requirements.\n\nWhen attempting to visit [Kardia](http://runescape.wikia.com/wiki/Kardia) in the [Underground Pass](http://runescape.wikia.com/wiki/Underground_Pass_(dungeon%29), do not attempt to go into her house directly as she will hit the player with a damaging spell. Instead, pick up the [Witch's cat](http://runescape.wikia.com/wiki/Witch's_cat) from a platform to the north-west and use it on her door. It will then be possible to enter her house; use the broomstick with Kardia to get it enchanted.\n\nNPC: [Apprentice](http://runescape.wikia.com/wiki/Apprentice)\n• Location: [Al Kharid](http://runescape.wikia.com/wiki/Al_Kharid)\n• Magic Level Required: 1\n\nNPC: [Ali the Hag](http://runescape.wikia.com/wiki/Ali_the_Hag)\n• Location: [Pollnivneach](http://runescape.wikia.com/wiki/Pollnivneach)\n• Magic Level Required: 33\n\nNPC: [Old crone](http://runescape.wikia.com/wiki/Old_crone)\n• Location: East of the [Slayer Tower](http://runescape.wikia.com/wiki/Slayer_Tower)\n• Magic Level Required: 53\n\nNPC: [Baba Yaga](http://runescape.wikia.com/wiki/Baba_Yaga)\n• Location: [Lunar Isle](http://runescape.wikia.com/wiki/Lunar_Isle)\n• Magic Level Required: 73\n\nNPC: [Kardia](http://runescape.wikia.com/wiki/Kardia)\n• Location: [Underground Pass](http://runescape.wikia.com/wiki/Underground_Pass_(dungeon%29)\n• Magic Level Required: 93",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -146,6 +166,26 @@ exports.data = {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
 			"fields": [
+				{
+                    "name": "Start Point:",
+                    "value": "• Speak to Father Aereck in the Lumbridge church, east of [Lumbridge Castle](https://runescape.wikia.com/wiki/Lumbridge_Castle)"
+      			},
+        		{
+                    "name": "Official Difficulty:",
+                    "value": "• Novice"
+        		},
+        		{
+                    "name": "Official Length:",
+                    "value": "• Short"
+       			},
+        		{
+                    "name": "Items Required:",
+                    "value": "• None"
+        		},
+        		{
+                    "name": "Enemies to Defeat:",
+                    "value": "• None"
+        		},
 				{
 					"name": "Requirements:",
 					"value": "• The Restless Ghost Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Restless_Ghost)"
@@ -241,14 +281,22 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[All Rise](http://runescape.wikia.com/wiki/All_Rise) is an achievement that requires the player to complete all sixteen [Court Cases](http://runescape.wikia.com/wiki/Court_Cases).\n\nNote that if you have the [Dwarven Instinct Aura](http://runescape.wikia.com/wiki/Dwarven_instinct_aura) from the 2015 [Premier club](http://runescape.wikia.com/wiki/Premier_Club), you are almost guarenteed one court case per day through its activation. Other methods of obtaining include: [Monster](http://runescape.wikia.com/wiki/Monster) drops, [Pickpocketing](http://runescape.wikia.com/wiki/Thieving#Pickpocketing), as a drop from [Caskets](http://runescape.wikia.com/wiki/Casket), as a reward from hard or elite [Clue scrolls](http://runescape.wikia.com/wiki/Clue_scroll), and as a reward from the [Giant Oyster](http://runescape.wikia.com/wiki/Giant_Oyster).\n\n• [Mugger v. Roger Murray](http://runescape.wikia.com/wiki/Mugger_v._Roger_Murray)\n• [River troll v. The People](http://runescape.wikia.com/wiki/River_troll_v._The_People)\n• [Drunken Dwarf v. The People](http://runescape.wikia.com/wiki/Drunken_Dwarf_v._The_People)\n• [Evil Twin v. Good Twin](http://runescape.wikia.com/wiki/Evil_Twin_v._Good_Twin)\n• [Rick Turpentine v. The (Rich) People](http://runescape.wikia.com/wiki/Rick_Turpentine_v._The_(Rich%29_People)\n• [The Mime v. The People](http://runescape.wikia.com/wiki/The_Mime_v._The_People)\n• [The Frog Prince v. The People](http://runescape.wikia.com/wiki/The_Frog_Prince_v._The_People)\n• [The Gravedigger v. The People](http://runescape.wikia.com/wiki/The_Gravedigger_v._The_People)\n• [EVIL DAVE v. The People](http://runescape.wikia.com/wiki/EVIL_DAVE_v._The_People)\n• [The Sandwich Lady v. The People](http://runescape.wikia.com/wiki/The_Sandwich_Lady_v._The_People)\n• [Party Pete v. His Neighbours](http://runescape.wikia.com/wiki/Party_Pete_v._His_Neighbours)\n• [Miss Schism v. Draynor Village](http://runescape.wikia.com/wiki/Miss_Schism_v._Draynor_Village)\n• [Sawmill Man v. The People](http://runescape.wikia.com/wiki/Sawmill_Man_v._The_People)\n• [Ernest v. Professor Oddenstein](http://runescape.wikia.com/wiki/Ernest_v._Professor_Oddenstein)\n• [H.A.M. v. Dorgeshuun](http://runescape.wikia.com/wiki/H.A.M._v._Dorgeshuun)\n• [Barbarians v. Wizards](http://runescape.wikia.com/wiki/Barbarians_v._Wizards)",
+			"description": "[All Rise](http://runescape.wikia.com/wiki/All_Rise) is an achievement that requires the player to complete all sixteen [Court Cases](http://runescape.wikia.com/wiki/Court_Cases).\n\nCourt Cases are a [Distraction and Diversion](https://runescape.wikia.com/wiki/Distractions_and_Diversions) that is accessible after completing the [King's Ransom](https://runescape.wikia.com/wiki/King%27s_Ransom) quest. Players also require 65 Attack if they wish to prosecute, or 65 Defence to defend during the case. The first court case can be tackled for free, but players must obtain a [court summons](https://runescape.wikia.com/wiki/Court_summons) to attempt court cases thereafter.\n\nNote that if you have the [Dwarven Instinct Aura](http://runescape.wikia.com/wiki/Dwarven_instinct_aura) from the 2015 [Premier club](http://runescape.wikia.com/wiki/Premier_Club), you are almost guarenteed one court case per day through its activation. Other methods of obtaining include: [Monster](http://runescape.wikia.com/wiki/Monster) drops, [Pickpocketing](http://runescape.wikia.com/wiki/Thieving#Pickpocketing), as a drop from [Caskets](http://runescape.wikia.com/wiki/Casket), as a reward from hard or elite [Clue scrolls](http://runescape.wikia.com/wiki/Clue_scroll), and as a reward from the [Giant Oyster](http://runescape.wikia.com/wiki/Giant_Oyster).",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
 			"fields": [
 				{
+					"name": "Court Cases:",
+					"value": "• [Mugger v. Roger Murray](http://runescape.wikia.com/wiki/Mugger_v._Roger_Murray)\n• [River troll v. The People](http://runescape.wikia.com/wiki/River_troll_v._The_People)\n• [Drunken Dwarf v. The People](http://runescape.wikia.com/wiki/Drunken_Dwarf_v._The_People)\n• [Evil Twin v. Good Twin](http://runescape.wikia.com/wiki/Evil_Twin_v._Good_Twin)\n• [Rick Turpentine v. The (Rich) People](http://runescape.wikia.com/wiki/Rick_Turpentine_v._The_(Rich%29_People)\n• [The Mime v. The People](http://runescape.wikia.com/wiki/The_Mime_v._The_People)\n• [The Frog Prince v. The People](http://runescape.wikia.com/wiki/The_Frog_Prince_v._The_People)\n• [The Gravedigger v. The People](http://runescape.wikia.com/wiki/The_Gravedigger_v._The_People)"
+				},
+				{
+					"name": "​",
+					"value": "• [EVIL DAVE v. The People](http://runescape.wikia.com/wiki/EVIL_DAVE_v._The_People)\n• [The Sandwich Lady v. The People](http://runescape.wikia.com/wiki/The_Sandwich_Lady_v._The_People)\n• [Party Pete v. His Neighbours](http://runescape.wikia.com/wiki/Party_Pete_v._His_Neighbours)\n• [Miss Schism v. Draynor Village](http://runescape.wikia.com/wiki/Miss_Schism_v._Draynor_Village)\n• [Sawmill Man v. The People](http://runescape.wikia.com/wiki/Sawmill_Man_v._The_People)\n• [Ernest v. Professor Oddenstein](http://runescape.wikia.com/wiki/Ernest_v._Professor_Oddenstein)\n• [H.A.M. v. Dorgeshuun](http://runescape.wikia.com/wiki/H.A.M._v._Dorgeshuun)\n• [Barbarians v. Wizards](http://runescape.wikia.com/wiki/Barbarians_v._Wizards)"
+				},
+				{
 					"name": "Requirements:",
-					"value": "• King's Ransom Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/King%27s_Ransom)"
+					"value": "• 65 Attack or Defense\n\n• King's Ransom Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/King%27s_Ransom)"
 				}
 			],
 			"footer": {
@@ -293,7 +341,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Angs off my Ring](http://runescape.wikia.com/wiki/Angs_off_my_Ring) is an achievement that requires the player to get the [Ancient elven wedding ring](http://runescape.wikia.com/wiki/Ancient_elven_wedding_ring) drop from [Crystal Shapeshifters](http://runescape.wikia.com/wiki/Crystal_Shapeshifter) and return it to [Angof](http://runescape.wikia.com/wiki/Angof).\n\nAncient Elven Wedding Ring Tip from Griffinbork:\n• First buy the regular [Crystal armour](http://runescape.wikia.com/wiki/Crystal_equipment#Crystal_armour) at the GE (can sell back later)\n• Upgrade to Attuned crystal armour](http://runescape.wikia.com/wiki/Crystal_equipment#Attuned_crystal_armour) pieces when you have gathered enough [Tarddian crystals](http://runescape.wikia.com/wiki/Tarddian_crystal)\n• You should get the ring before upgrading the whole set.\n• Use the last few crystals to repair the regular armour to be able to sell it.",
+			"description": "[Angs off my Ring](http://runescape.wikia.com/wiki/Angs_off_my_Ring) is an achievement that requires the player to get the [Ancient elven wedding ring](http://runescape.wikia.com/wiki/Ancient_elven_wedding_ring) drop from [Crystal Shapeshifters](http://runescape.wikia.com/wiki/Crystal_Shapeshifter) and return it to [Angof](http://runescape.wikia.com/wiki/Angof).\n\nCrystal Shapeshifters are Slayer monsters located on [Tarddiad](https://runescape.wikia.com/wiki/Tarddiad).\n\nAncient Elven Wedding Ring Tips:\n\n• First buy the regular [Crystal armour](http://runescape.wikia.com/wiki/Crystal_equipment#Crystal_armour) at the GE (can sell back later)\n\n• Upgrade to [Attuned crystal armour](http://runescape.wikia.com/wiki/Crystal_equipment#Attuned_crystal_armour) pieces when you have gathered enough [Tarddian crystals](http://runescape.wikia.com/wiki/Tarddian_crystal).\n\n• Each piece of crystal armour worn increases the drop chance of the ring, and attuned crystal armour increases the drop chance even more. By wearing the full set of attuned crystal armour the chance of obtaining this ring is 1/10.\n\n• You should get the ring before upgrading the whole set.\n\n• Use the last few crystals to repair the regular armor to be able to sell it.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -349,12 +397,32 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Any Odd Chicken](http://runescape.wikia.com/wiki/Any_Odd_Chicken) is an achievement that requires the player to complete the [Ernest the Chicken](http://runescape.wikia.com/wiki/Ernest_the_Chicken) quest, or talk to [Professor Oddenstein](http://runescape.wikia.com/wiki/Professor_Oddenstein) if the player completed the quest before the 10 eggs and 300 feathers were added as a reward for the quest.\n\nProfessor Oddenstein is an eccentric scientist residing on the top floor of [Draynor Manor](http://runescape.wikia.com/wiki/Draynor_Manor).",
+			"description": "[Any Odd Chicken](http://runescape.wikia.com/wiki/Any_Odd_Chicken) is an achievement that requires the player to complete the [Ernest the Chicken](http://runescape.wikia.com/wiki/Ernest_the_Chicken) quest, or talk to [Professor Oddenstein](http://runescape.wikia.com/wiki/Professor_Oddenstein) if the player completed the quest before the 10 [eggs](https://runescape.wikia.com/wiki/Egg) and 300 [feathers](https://runescape.wikia.com/wiki/Feather) were added as a reward for the quest.\n\nProfessor Oddenstein is an eccentric scientist residing on the top floor of [Draynor Manor](http://runescape.wikia.com/wiki/Draynor_Manor).",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
 			"fields": [
 				{
+                    "name": "Start Point:",
+                    "value": "• Speak to [Veronica](https://runescape.wikia.com/wiki/Veronica), south of Draynor Manor gates"
+      			},
+        		{
+                    "name": "Official Difficulty:",
+                    "value": "• Novice"
+        		},
+        		{
+                    "name": "Official Length:",
+                    "value": "• Medium"
+       			},
+        		{
+                    "name": "Items Required:",
+                    "value": "• None"
+        		},
+        		{
+                    "name": "Enemies to Defeat:",
+                    "value": "• None"
+        		},
+        		{
 					"name": "Guide:",
 					"value": "[Ernest the Chicken Quest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Abyss_(miniquest%29)"
 				}
@@ -373,7 +441,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Ape A'hollow](http://runescape.wikia.com/wiki/Ape_A%27hollow) is an achievement that requires the player to clear shortcuts on [Ape Atoll](http://runescape.wikia.com/wiki/Ape_Atoll) and [Gu'Tanoth](http://runescape.wikia.com/wiki/Gu%27Tanoth) during or after [Fairy Tale III - Battle at Orks Rift](http://runescape.wikia.com/wiki/Fairy_Tale_III_-_Battle_at_Ork's_Rift).\n\nThe shortcuts can be found in the following locations:\n• Hollow Log: At the top of a mountain in the [Ape Atoll Agility Course](http://runescape.wikia.com/wiki/Ape_Atoll_Agility_Course) near fairy ring code **C-L-R**\n• Tunnel: [Gu'Tanoth](http://runescape.wikia.com/wiki/Gu%27Tanoth), north of fairy ring code **A-L-P**",
+			"description": "[Ape A'hollow](http://runescape.wikia.com/wiki/Ape_A%27hollow) is an achievement that requires the player to clear shortcuts on [Ape Atoll](http://runescape.wikia.com/wiki/Ape_Atoll) and [Gu'Tanoth](http://runescape.wikia.com/wiki/Gu%27Tanoth) during or after [Fairy Tale III - Battle at Orks Rift](http://runescape.wikia.com/wiki/Fairy_Tale_III_-_Battle_at_Ork's_Rift).\n\nThe shortcuts can be found in the following locations:\n• **Hollow Log:** At the top of a mountain in the [Ape Atoll Agility Course](http://runescape.wikia.com/wiki/Ape_Atoll_Agility_Course) near fairy ring code **c•l•r**\n\n• **Tunnel:** [Gu'Tanoth](http://runescape.wikia.com/wiki/Gu%27Tanoth), north of fairy ring code **a•l•p**",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -1154,11 +1222,19 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Arise from the Ash](http://runescape.wikia.com/wiki/Arise_from_the_Ash) is an achievement that requires the player to kill the [Phoenix](http://runescape.wikia.com/wiki/Phoenix) after the [In Pyre Need](http://runescape.wikia.com/wiki/In_Pyre_Need) quest.\n\n[The Phoenix Lair](http://runescape.wikia.com/wiki/Phoenix_Lair) is located near to the [Piscatoris Fishing Colony](http://runescape.wikia.com/wiki/Piscatoris_Fishing_Colony) and can be reached using the [Phoenix Lair Teleport](http://runescape.wikia.com/wiki/Phoenix_Lair_Teleport) scroll obtained from [Treasure Trails](http://runescape.wikia.com/wiki/Treasure_Trails) or bought from the [Grand Exchange](http://runescape.wikia.com/wiki/Grand_Exchange).",
+			"description": "[Arise from the Ash](http://runescape.wikia.com/wiki/Arise_from_the_Ash) is an achievement that requires the player to kill the [Phoenix](http://runescape.wikia.com/wiki/Phoenix) after the [In Pyre Need](http://runescape.wikia.com/wiki/In_Pyre_Need) quest.\n\n[The Phoenix Lair](http://runescape.wikia.com/wiki/Phoenix_Lair) is located near to the [Piscatoris Fishing Colony](http://runescape.wikia.com/wiki/Piscatoris_Fishing_Colony) and can be reached using the [Phoenix Lair Teleport](http://runescape.wikia.com/wiki/Phoenix_Lair_Teleport) scroll obtained from [Treasure Trails](http://runescape.wikia.com/wiki/Treasure_Trails) or bought from the [Grand Exchange](http://runescape.wikia.com/wiki/Grand_Exchange).\n\nThe player may decide to pay 10 [Phoenix quills](https://runescape.wikia.com/wiki/Phoenix_quill) to skip directly to the fight with the Phoenix or navigate the Phoenix's Lair without needing to kill any of the [Reborn](https://runescape.wikia.com/wiki/Reborn) creatures that are present in the lair.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
 			"fields": [
+				{
+					"name": "The Fight:",
+					"value": "The Phoenix herself has a combat level of 84 and high Defence. She attacks purely with Magic and can hit up to 350. It is advisable that lower-leveled players use the [Protect from Magic](https://runescape.wikia.com/wiki/Protect_from_Magic) prayer and range her with the best [bow](https://runescape.wikia.com/wiki/Bow) and [arrows](https://runescape.wikia.com/wiki/Arrows) they can afford to use. Those who have a high Prayer level and access to [Ancient Curses](https://runescape.wikia.com/wiki/Ancient_Curses) should use [Deflect Magic](https://runescape.wikia.com/wiki/Deflect_Magic) instead. Players may also bring [familiars](https://runescape.wikia.com/wiki/Summoning_familiars) to aid them."
+				},
+				{
+					"name": "​",
+					"value": "She also uses a \"Dust Attack\" which will drain some of a player's stats, even if they have magic protecting prayers on. Affected stats are Attack, Magic and Ranged. Boosted stats are affected as if unboosted, so stat-boosting potions are a waste. Drained stats will return to their normal (unboosted) levels after a few seconds. This makes using magic against the Phoenix somewhat difficult."
+				},
 				{
 					"name": "Requirements:",
 					"value": "• 51 Slayer\n\n• In Pyre Need Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/In_Pyre_Need)"
@@ -1189,27 +1265,27 @@ exports.data = {
 			"fields": [
 				{
 					"name": "Baloon Locations",
-					"value": "**Destination:** [Entrana](https://runescape.wikia.com/wiki/Entrana)\n\t**Inititial Trip Cost:** Build balloon (during Quest)\n\t**NPC:** [Auguste](https://runescape.wikia.com/wiki/Auguste)"
+					"value": "**Destination:** [Entrana](https://runescape.wikia.com/wiki/Entrana)\n\t• **Inititial Trip Cost:** Build balloon (during Quest)\n\t• **NPC:** [Auguste](https://runescape.wikia.com/wiki/Auguste)"
 				},
         {
 					"name": "​",
-					"value": "**Destination:** [Taverley](https://runescape.wikia.com/wiki/Taverley)\n\t**Inititial Trip Cost:** 10 normal [Logs](http://runescape.wikia.com/wiki/Logs) (during Quest)\n\t**NPC:** [Assistant Stan](https://runescape.wikia.com/wiki/Assistant_Stan)"
+					"value": "**Destination:** [Taverley](https://runescape.wikia.com/wiki/Taverley)\n\t• **Inititial Trip Cost:** 10 normal [Logs](http://runescape.wikia.com/wiki/Logs) (during Quest)\n\t• **NPC:** [Assistant Stan](https://runescape.wikia.com/wiki/Assistant_Stan)"
 				},
         {
 					"name": "​",
-					"value": "**Destination:** [Crafting Guild](https://runescape.wikia.com/wiki/Crafting_Guild)\n\t**Inititial Trip Cost:** 10 [Oak logs](https://runescape.wikia.com/wiki/Oak_logs)\n\t**NPC:** [Assistant Brock](https://runescape.wikia.com/wiki/Assistant_Brock)"
+					"value": "**Destination:** [Crafting Guild](https://runescape.wikia.com/wiki/Crafting_Guild)\n\t• **Inititial Trip Cost:** 10 [Oak logs](https://runescape.wikia.com/wiki/Oak_logs)\n\t• **NPC:** [Assistant Brock](https://runescape.wikia.com/wiki/Assistant_Brock)"
 				},
         {
 					"name": "​",
-					"value": "**Destination:** [Varrock](https://runescape.wikia.com/wiki/Varrock) - south of [Lumber Yard](https://runescape.wikia.com/wiki/Lumber_Yard) \n\t**Inititial Trip Cost:** 10 [Willow logs](https://runescape.wikia.com/wiki/Willow_logs)\n\t**NPC:** [Assistant Serf](https://runescape.wikia.com/wiki/Assistant_Serf)"
+					"value": "**Destination:** [Varrock](https://runescape.wikia.com/wiki/Varrock) - south of [Lumber Yard](https://runescape.wikia.com/wiki/Lumber_Yard) \n\t• **Inititial Trip Cost:** 10 [Willow logs](https://runescape.wikia.com/wiki/Willow_logs)\n\t• **NPC:** [Assistant Serf](https://runescape.wikia.com/wiki/Assistant_Serf)"
 				},
         {
 					"name": "​",
-					"value": "**Destination:** [Castle Wars](https://runescape.wikia.com/wiki/Castle_Wars)\n\t**Inititial Trip Cost:** 10 [Yew logs](https://runescape.wikia.com/wiki/Yew_logs)\n\t**NPC:** [Assistant Marrow](https://runescape.wikia.com/wiki/Assistant_Marrow)"
+					"value": "**Destination:** [Castle Wars](https://runescape.wikia.com/wiki/Castle_Wars)\n\t• **Inititial Trip Cost:** 10 [Yew logs](https://runescape.wikia.com/wiki/Yew_logs)\n\t• **NPC:** [Assistant Marrow](https://runescape.wikia.com/wiki/Assistant_Marrow)"
 				},
         {
 					"name": "​",
-					"value": "**Destination:** [Grand Tree](https://runescape.wikia.com/wiki/Grand_Tree)\n\t**Inititial Trip Cost:** 10 [Magic logs](https://runescape.wikia.com/wiki/Magic_logs)\n\t**NPC:** [Assistant Le Smith](https://runescape.wikia.com/wiki/Assistant_Le_Smith)"
+					"value": "**Destination:** [Grand Tree](https://runescape.wikia.com/wiki/Grand_Tree)\n\t• **Inititial Trip Cost:** 10 [Magic logs](https://runescape.wikia.com/wiki/Magic_logs)\n\t• **NPC:** [Assistant Le Smith](https://runescape.wikia.com/wiki/Assistant_Le_Smith)"
 				},
         {
 					"name": "Balooning:",
@@ -1238,7 +1314,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[As clear as a Crystal Seed](http://runescape.wikia.com/wiki/As_clear_as_a_Crystal_Seed) is an achievement that requires the player to unlock the [Temple of Light](http://runescape.wikia.com/wiki/Temple_of_Light) teleport on the [Crystal teleport seed](http://runescape.wikia.com/wiki/Crystal_teleport_seed). This can be unlocked by talking to [Eluned](http://runescape.wikia.com/wiki/Eluned) or [Islwyn](http://runescape.wikia.com/wiki/Islwyn) with a charged seed after the quest.\n\nEluned Ithell is an elf travelling with Islwyn, teleporting between the south-western magic trees outside [Lletya](http://runescape.wikia.com/wiki/Lletya) and the clearing north-east of the [Tyras Camp](http://runescape.wikia.com/wiki/Tyras_Camp). If she is not in one spot in a given world, it is possible to hop worlds until you find her. After completing [Plague's End](http://runescape.wikia.com/wiki/Plague%27s_End), she takes up permanent residence in the [Ithell](http://runescape.wikia.com/wiki/Ithell_Clan) district of [Prifddinas](http://runescape.wikia.com/wiki/Prifddinas). After [The Light Within](http://runescape.wikia.com/wiki/The_Light_Within), she is replaced by Islwyn and cannot be found ingame.",
+			"description": "[As clear as a Crystal Seed](http://runescape.wikia.com/wiki/As_clear_as_a_Crystal_Seed) is an achievement that requires the player to unlock the [Temple of Light](http://runescape.wikia.com/wiki/Temple_of_Light) teleport on the [Crystal teleport seed](http://runescape.wikia.com/wiki/Crystal_teleport_seed). This can be unlocked by talking to [Eluned](http://runescape.wikia.com/wiki/Eluned) or [Islwyn](http://runescape.wikia.com/wiki/Islwyn) with a charged seed after the [Within the Light](https://runescape.wikia.com/wiki/Within_the_Light) quest.\n\nEluned Ithell is an elf travelling with Islwyn, teleporting between the south-western [magic trees](https://runescape.wikia.com/wiki/Magic_tree) outside [Lletya](http://runescape.wikia.com/wiki/Lletya) and the clearing north-east of the [Tyras Camp](http://runescape.wikia.com/wiki/Tyras_Camp). If she is not in one spot in a given world, it is possible to hop worlds until you find her. After completing [Plague's End](http://runescape.wikia.com/wiki/Plague%27s_End), she takes up permanent residence in the [Ithell clan](http://runescape.wikia.com/wiki/Ithell_Clan) district of [Prifddinas](http://runescape.wikia.com/wiki/Prifddinas). After [The Light Within](http://runescape.wikia.com/wiki/The_Light_Within), she is replaced by Islwyn and cannot be found ingame.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -1262,7 +1338,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[As Taxed as a Yak](http://runescape.wikia.com/wiki/As_Taxed_as_a_Yak) is an achievement that requires the player to unlock the [Contraband Yak Produce](http://runescape.wikia.com/wiki/Contraband_Yak_Produce) shop owned by [Vanligga Gastfrihet](http://runescape.wikia.com/wiki/Vanligga_Gastfrihet) by offering to pay for her taxes during or after the [Fremennik Isles](http://runescape.wikia.com/wiki/Fremennik_Isles) quest. The achievement is unlocked after talking to her after the quest again.\n\nVanligga Gastfrihet can be found in her restaurant on [Jatizso](http://runescape.wikia.com/wiki/Jatizso), north of [King Gjuki Sorvott IV](http://runescape.wikia.com/wiki/King_Gjuki_Sorvott_IV).",
+			"description": "[As Taxed as a Yak](http://runescape.wikia.com/wiki/As_Taxed_as_a_Yak) is an achievement that requires the player to unlock the [Contraband Yak Produce](http://runescape.wikia.com/wiki/Contraband_Yak_Produce) shop owned by [Vanligga Gastfrihet](http://runescape.wikia.com/wiki/Vanligga_Gastfrihet) by offering to pay for her taxes during or after the [Fremennik Isles](http://runescape.wikia.com/wiki/Fremennik_Isles) quest.\n\nIf you refused to pay during the quest, the achievement is unlocked after talking to her after the quest again and paying her 5,000 coins in taxes.\n\nVanligga Gastfrihet can be found in her restaurant on [Jatizso](http://runescape.wikia.com/wiki/Jatizso), north of [King Gjuki Sorvott IV](http://runescape.wikia.com/wiki/King_Gjuki_Sorvott_IV).",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -1286,14 +1362,14 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Azacorax's Rewards](http://runescape.wikia.com/wiki/Azacorax%27s_Rewards) is an achievement that requires the player to speak with [Azacorax](http://runescape.wikia.com/wiki/Lesser_demon_(Wizards%27_Tower%29) in the [Wizards' Tower](http://runescape.wikia.com/wiki/Wizards%27_Tower) after completion of [Rune Memories](http://runescape.wikia.com/wiki/Rune_Memories) with level 50 in both Magic and Prayer to gain either Magic or Prayer experience.\n\nAzacorax, Keeper of the Key to the Abyss, named Timmy by the wizards of the Wizards' tower, is the Wizards' Tower's pet [Lesser demon](http://runescape.wikia.com/wiki/Lesser_demon), kept by [Melville Grayzag](http://runescape.wikia.com/wiki/Melville_Grayzag) and [Wizard Taloram](http://runescape.wikia.com/wiki/Wizard_Taloram).",
+			"description": "[Azacorax's Rewards](http://runescape.wikia.com/wiki/Azacorax%27s_Rewards) is an achievement that requires the player to speak with [Azacorax](http://runescape.wikia.com/wiki/Lesser_demon_(Wizards%27_Tower%29) in the [Wizards' Tower](http://runescape.wikia.com/wiki/Wizards%27_Tower) after completion of [Rune Memories](http://runescape.wikia.com/wiki/Rune_Memories) with level 50 in both Magic and Prayer to gain either Magic or Prayer experience.\n\nAzacorax, Keeper of the Key to the Abyss, named Timmy by the wizards of the Wizards' tower, is the Wizards' Tower's pet [Lesser demon](http://runescape.wikia.com/wiki/Lesser_demon), kept by [Melville Grayzag](http://runescape.wikia.com/wiki/Melville_Grayzag) and [Wizard Taloram](http://runescape.wikia.com/wiki/Wizard_Taloram).\n\nHe was summoned many years ago and caused damage to the earlier Wizards' Tower. The tower wizards kept destroying him, but he would respawn on the same spot on the 1st floor[UK] of the Wizards' Tower each time they did so. As such, a protective barrier was placed around that spot, making the demon unable to escape.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
 			"fields": [
 				{
 					"name": "Requirements:",
-					"value": "• 50 Magic\n• 50 Prayer\n\n• Rune Mysteries Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Rune_Mysteries)"
+					"value": "• 50 Magic\n• 50 Prayer\n\n• Rune Memories Quest completion | [Runescape Wiki](https://runescape.wikia.com/wiki/Rune_Memories)"
 				}
 			],
 			"footer": {
@@ -1310,7 +1386,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Azdaran Birthright](http://runescape.wikia.com/wiki/Azdaran_Birthright) is an achievement that requires the player to complete the [Azdaran document](http://runescape.wikia.com/wiki/Azdaran_document) by mining the statues in the [Ancient Keldagrim ruins](http://runescape.wikia.com/wiki/Ancient_Keldagrim_ruins) and receiving ten fragments after [Birthright of the Dwarves](http://runescape.wikia.com/wiki/Birthright_of_the_Dwarves).\n\nThe Azdaran document appears in your inventory when you find all 10 [Azdaran fragments](http://runescape.wikia.com/wiki/Azdaran_fragment) in the Ancient Keldagrim ruins north of [Keldagrim](http://runescape.wikia.com/wiki/Keldagrim) library. The document can be taken to the [Librarian](http://runescape.wikia.com/wiki/Librarian) in Keldagrim Library to discuss it. It may be placed on a bookshelf in the player's house.",
+			"description": "[Azdaran Birthright](http://runescape.wikia.com/wiki/Azdaran_Birthright) is an achievement that requires the player to complete the [Azdaran document](http://runescape.wikia.com/wiki/Azdaran_document) by mining the statues in the [Ancient Keldagrim ruins](http://runescape.wikia.com/wiki/Ancient_Keldagrim_ruins) and receiving ten fragments after [Birthright of the Dwarves](http://runescape.wikia.com/wiki/Birthright_of_the_Dwarves).\n\nThe Azdaran document appears in your inventory when you find all 10 [Azdaran fragments](http://runescape.wikia.com/wiki/Azdaran_fragment) in the Ancient Keldagrim ruins north of [Keldagrim](http://runescape.wikia.com/wiki/Keldagrim) library. The document can be taken to the [Librarian](http://runescape.wikia.com/wiki/Librarian) in Keldagrim Library to discuss it. After which, it may then be placed on a bookshelf in the player's house.\n\nCompleting this requirement will award a total of 250,000 mining experience.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -1334,7 +1410,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Bandos's Memories](http://runescape.wikia.com/wiki/Bandos%27s_Memories_(achievement%29) is an achievement that requires the player to fill [Bandos's Memories](http://runescape.wikia.com/wiki/Bandos%27s_Memories) by collecting an additional 13 [Bandos chronicles](http://runescape.wikia.com/wiki/Bandos_chronicle) after [The Mighty Fall](http://runescape.wikia.com/wiki/The_Mighty_Fall).\n\nThis includes the one which is automatically unlocked when the book is received upon the completion of The Mighty Fall. After the quest, [Yu'biusk](https://runescape.wikia.com/wiki/Yu%27biusk) can be accessed only by the portal east of [Goblin Village](https://runescape.wikia.com/wiki/Goblin_Village).\n\nTeleport to the [Falador](https://runescape.wikia.com/wiki/Falador) [lodestone](https://runescape.wikia.com/wiki/Lodestone_Network) and run north until the entrance to Goblin Village is reached, east of it is a big green portal which can be used to teleport to Yu'biusk.\n\nThe locations of the memories are:\n\n1. In the troll camp east of the entrance.\n\n2. Along the path south of the troll camp.\n\n3. Along the path to Zarador.\n\n4. The ogre camp east of Zarador.\n\n5. Up the ladder south of Zarador.\n\n6. Graardor's camp southwest of the same ladder.\n\n7. Graardor's \"secret weapon\" camp to the east.\n\n8. The plateau south of the cyclops camp.\n\n9. Back down the ladder, Bork's camp east of the player's camp.\n\n10. The player's camp.\n\n11. Under the bridge to the north of the player's camp.\n\n12. Southern part of the goblin camp.\n\n13. Northern part of the goblin camp.",
+			"description": "[Bandos's Memories](http://runescape.wikia.com/wiki/Bandos%27s_Memories_(achievement%29) is an achievement that requires the player to fill [Bandos's Memories](http://runescape.wikia.com/wiki/Bandos%27s_Memories) by collecting an additional 13 [Bandos chronicles](http://runescape.wikia.com/wiki/Bandos_chronicle) after [The Mighty Fall](http://runescape.wikia.com/wiki/The_Mighty_Fall).\n\nThis includes the one which is automatically unlocked when the book is received upon the completion of The Mighty Fall. After the quest, [Yu'biusk](https://runescape.wikia.com/wiki/Yu%27biusk) can be accessed only by the portal east of [Goblin Village](https://runescape.wikia.com/wiki/Goblin_Village).\n\nTeleport to the [Falador](https://runescape.wikia.com/wiki/Falador) [lodestone](https://runescape.wikia.com/wiki/Lodestone_Network) and run north until the entrance to Goblin Village is reached, east of it is a big green portal which can be used to teleport to Yu'biusk.\n\nThe locations of the memories are:\n\n1. In the troll camp east of the entrance.\n\n2. Along the path south of the troll camp.\n\n3. Along the path to [Zarador](https://runescape.wikia.com/wiki/Zarador).\n\n4. The ogre camp east of Zarador.\n\n5. Up the ladder south of Zarador.\n\n6. [Graardor](https://runescape.wikia.com/wiki/General_Graardor)'s camp southwest of the same ladder.\n\n7. Graardor's \"secret weapon\" camp to the east.\n\n8. The plateau south of the cyclops camp.\n\n9. Back down the ladder, [Bork](https://runescape.wikia.com/wiki/Bork)'s camp east of the player's camp.\n\n10. The player's camp.\n\n11. Under the bridge to the north of the player's camp.\n\n12. Southern part of the goblin camp.\n\n13. Northern part of the goblin camp.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -1468,12 +1544,12 @@ exports.data = {
 			},
 			"fields": [
 				{
-					"name": "Notes",
+					"name": "Notes:",
 					"value": "Part 1\nPart 2\nPart 3\nPart 4\nPart 5",
 					"inline": true
 				},
 				{
-					"name": "Obtained from",
+					"name": "Obtained from:",
 					"value": "[Gluttonous behemoth](http://runescape.wikia.com/wiki/Gluttonous_behemoth) (floors 1-11).\n[Bulwark beast](http://runescape.wikia.com/wiki/Bulwark_beast) (floors 12-17 and 30-35).\n[Stomp](http://runescape.wikia.com/wiki/Stomp_(monster%29) (floors 18-29).\n[Runebound behemoth](http://runescape.wikia.com/wiki/Runebound_behemoth) (floors 36-47).\n[Hope devourer](http://runescape.wikia.com/wiki/Hope_devourer) (floors 51-60).",
 					"inline": true
 				},
@@ -1552,7 +1628,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Blinded by Ramarno's Teaching](http://runescape.wikia.com/wiki/Blinded_by_Ramarno%27s_Teaching) is an achievement that requires the player to give [Ramarno](http://runescape.wikia.com/wiki/Ramarno) a [Redberry pie](http://runescape.wikia.com/wiki/Redberry_pie) after [Defender of Varrock](http://runescape.wikia.com/wiki/Defender_of_Varrock) in order to claim the post-quest [Smithing](http://runescape.wikia.com/wiki/Smithing) experience reward. Ramarno can be found by the [Sacred Forge](http://runescape.wikia.com/wiki/Sacred_Forge) in [Camdozaal](http://runescape.wikia.com/wiki/Camdozaal), found by entering the hole by the white tree on [Ice Mountain](http://runescape.wikia.com/wiki/Ice_Mountain). A light source is recommended to avoid taking damage.",
+			"description": "[Blinded by Ramarno's Teaching](http://runescape.wikia.com/wiki/Blinded_by_Ramarno%27s_Teaching) is an achievement that requires the player to give [Ramarno](http://runescape.wikia.com/wiki/Ramarno) a [Redberry pie](http://runescape.wikia.com/wiki/Redberry_pie) after [Defender of Varrock](http://runescape.wikia.com/wiki/Defender_of_Varrock) in order to claim the post-quest [Smithing](http://runescape.wikia.com/wiki/Smithing) experience reward.\n\nRamarno can be found by the [Sacred Forge](http://runescape.wikia.com/wiki/Sacred_Forge) in [Camdozaal](http://runescape.wikia.com/wiki/Camdozaal), which is entered by going into the hole by the white tree on [Ice Mountain](http://runescape.wikia.com/wiki/Ice_Mountain). A [light source](https://runescape.wikia.com/wiki/Light_sources) is recommended to avoid taking damage.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -1568,15 +1644,15 @@ exports.data = {
 			}
 		}
 	},
-	"blood stained treasure": {
+	"bloodstained treasure": {
 		"cmds": ["mqc"],
 		"embed": {
-			"title": "Blood Stained Treasure",
+			"title": "Bloodstained Treasure",
 			"author": {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Blood Stained Treasure](http://runescape.wikia.com/wiki/Blood_Stained_Treasure) is an achievement that requires the player to obtain hidden runes from [Meiyerditch Laboratories](http://runescape.wikia.com/wiki/Meiyerditch_Laboratories) and the [Blood Altar](http://runescape.wikia.com/wiki/Blood_Altar) ruins after [Legacy of Seergaze](http://runescape.wikia.com/wiki/Legacy_of_Seergaze).\n\nThe hidden runes are located in the broken rune case in the Meiyerditch Laboratories (West of the stairs after entering the lab from [Meiyerditch](http://runescape.wikia.com/wiki/Meiyerditch)) and in the corpse next to the Blood Altar ruins.",
+			"description": "[Bloodstained Treasure](http://runescape.wikia.com/wiki/Blood_Stained_Treasure) is an achievement that requires the player to obtain hidden runes from [Meiyerditch Laboratories](http://runescape.wikia.com/wiki/Meiyerditch_Laboratories) and the [Blood Altar](http://runescape.wikia.com/wiki/Blood_Altar) ruins after [Legacy of Seergaze](http://runescape.wikia.com/wiki/Legacy_of_Seergaze).\n\nThe hidden runes are located:\n• in the broken rune case in the Meiyerditch Laboratories (west of the stairs after entering the lab from [Meiyerditch](http://runescape.wikia.com/wiki/Meiyerditch))\n• in the corpse next to the Blood Altar ruins.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -1684,7 +1760,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Buy and Sell Some XP](http://runescape.wikia.com/wiki/Buy_and_Sell_Some_XP) is an achievement that requires the player to pickpocket the training dummy again after asking [Darren Lightfinger](http://runescape.wikia.com/wiki/Darren_Lightfinger) to do so, earning a total of 2,000 experience.\n\nThe player will need to pickpocket the training dummy, agree to teach Darren some tips, then pickpocket it several times before the experience will be rewarded. After each pickpocket, there will be additional dialogue the player needs to click through or the player won't progress. \n\n(Guildmaster) Darren Lightfinger is the founder and man in charge of the [Thieves' Guild](http://runescape.wikia.com/wiki/Thieves%27_Guild), found in the cellar underneath a house just north of the furnace in [Lumbridge](http://runescape.wikia.com/wiki/Lumbridge).",
+			"description": "[Buy and Sell Some XP](http://runescape.wikia.com/wiki/Buy_and_Sell_Some_XP) is an achievement that requires the player to pickpocket the training dummy again after asking [Darren Lightfinger](http://runescape.wikia.com/wiki/Darren_Lightfinger) to do so, earning a total of 2,000 experience.\n\nThe player will need to pickpocket the training dummy, agree to teach Darren some tips, then pickpocket it several times before the experience will be rewarded. After each pickpocket, there will be additional dialogue the player needs to click through or the player won't progress. \n\n Darren Lightfinger is the founder and man in charge of the [Thieves' Guild](http://runescape.wikia.com/wiki/Thieves%27_Guild), found in the cellar underneath a house just north of the furnace in [Lumbridge](http://runescape.wikia.com/wiki/Lumbridge).",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -1708,7 +1784,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Buying Up Ancient Artefacts](http://runescape.wikia.com/wiki/Buying_Up_Ancient_Artefacts) is an achievement that requires the player to buy an [Ancient staff](http://runescape.wikia.com/wiki/Ancient_staff) from [Eblis](http://runescape.wikia.com/wiki/Eblis) after completion of the [Desert Treasure](http://runescape.wikia.com/wiki/Desert_Treasure) quest.\n\nEblis is a [Zarosian](http://runescape.wikia.com/wiki/Zaros) mystic from the [Desert Bandit Camp](http://runescape.wikia.com/wiki/Bandit_Camp_(Kharidian_Desert%29) who seeks to free the [Mahjarrat](http://runescape.wikia.com/wiki/Mahjarrat) [Azzanadra](http://runescape.wikia.com/wiki/Azzanadra) from his prison in the [Jaldraocht Pyramid](http://runescape.wikia.com/wiki/Jaldraocht_Pyramid).",
+			"description": "[Buying Up Ancient Artefacts](http://runescape.wikia.com/wiki/Buying_Up_Ancient_Artefacts) is an achievement that requires the player to buy an [Ancient staff](http://runescape.wikia.com/wiki/Ancient_staff) from [Eblis](http://runescape.wikia.com/wiki/Eblis) after completion of the [Desert Treasure](http://runescape.wikia.com/wiki/Desert_Treasure) quest.\n\nEblis is a [Zarosian](http://runescape.wikia.com/wiki/Zaros) mystic from the [Desert Bandit Camp](http://runescape.wikia.com/wiki/Bandit_Camp_(Kharidian_Desert%29) who seeks to free the [Mahjarrat](http://runescape.wikia.com/wiki/Mahjarrat) [Azzanadra](http://runescape.wikia.com/wiki/Azzanadra) from his prison in the [Jaldraocht Pyramid](http://runescape.wikia.com/wiki/Jaldraocht_Pyramid). He resides by the [mystical mirrors](https://runescape.wikia.com/wiki/Mystical_mirror), believing the spot to be important.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -1732,7 +1808,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Caving Into the Gains](http://runescape.wikia.com/wiki/Caving_Into_the_Gains) is an achievement that requires the player to claim the experience from the cave paintings during or after the [Myths of the White Lands](http://runescape.wikia.com/wiki/Myths_of_the_White_Lands) quest and claim 5,000 coins from [Explorer Jack](http://runescape.wikia.com/wiki/Explorer_Jack) in the [Land of Snow](http://runescape.wikia.com/wiki/Land_of_Snow) after the quest.\n\nTo return to the Land of Snow, talk to [Isidor](http://runescape.wikia.com/wiki/Wizard_Isidor) at the [Wizards' Tower](http://runescape.wikia.com/wiki/Wizards%27_Tower) west of [Lumbridge](http://runescape.wikia.com/wiki/Lumbridge) ([Fairy Ring](http://runescape.wikia.com/wiki/Fairy_ring) code **D-I-S**). He can be found by ascending the beam onto the 1st floor then going west. Speak to him and he will teleport the player to the Land of Snow. Players are not allowed to teleport with their own snow imp.",
+			"description": "[Caving Into the Gains](http://runescape.wikia.com/wiki/Caving_Into_the_Gains) is an achievement that requires the player to claim the experience from the cave paintings during or after the [Myths of the White Lands](http://runescape.wikia.com/wiki/Myths_of_the_White_Lands) quest and claim 5,000 coins from [Explorer Jack](http://runescape.wikia.com/wiki/Explorer_Jack) in the [Land of Snow](http://runescape.wikia.com/wiki/Land_of_Snow) after the quest.\n\nTo return to the Land of Snow, talk to [Isidor](http://runescape.wikia.com/wiki/Wizard_Isidor) at the [Wizards' Tower](http://runescape.wikia.com/wiki/Wizards%27_Tower) west of [Lumbridge](http://runescape.wikia.com/wiki/Lumbridge) ([Fairy Ring](http://runescape.wikia.com/wiki/Fairy_ring) code **d•i•s**). He can be found by ascending the beam onto the 1st floor then going west. Speak to him and he will teleport the player to the Land of Snow. Players are not allowed to teleport with their own snow imp.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -1780,7 +1856,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Challenge Maria](http://runescape.wikia.com/wiki/Challenge_Maria) is an achievement that requires the player to collect all nine [Replay bonus lamps](http://runescape.wikia.com/wiki/Broken_Home#Replay_bonuses) and complete all three [Challenges](http://runescape.wikia.com/wiki/Broken_Home#Challenges) in the haunted house after [Broken Home](http://runescape.wikia.com/wiki/Broken_Home).\n\nIt is highly recommended to use a split screen or dual monitor setup while following along with the guide.",
+			"description": "[Challenge Maria](http://runescape.wikia.com/wiki/Challenge_Maria) is an achievement that requires the player to collect all nine [Replay bonus lamps](http://runescape.wikia.com/wiki/Broken_Home#Replay_bonuses) and complete all three [Challenges](http://runescape.wikia.com/wiki/Broken_Home#Challenges) in the haunted house after [Broken Home](http://runescape.wikia.com/wiki/Broken_Home).\n\nIt is highly recommended to use a split screen or dual monitor setup while following along with the guide.\n\nAfter completing the quest, three challenges can be completed while replaying the quest. These must be done in order, although it is possible to do all at once. It is not possible to complete the third challenge without completing the first and second in the same or on a previous playthrough.\n\nThe challenges are:\n\n• Complete a replay without dying (try to always peek foggy doors and move very quickly in purple rooms)\n• Complete a replay without dying using one or less healing item (save your one piece for when your health drops to 500 or when it drops to 200 in purple room)\n• Complete a replay in under 37 minutes and complete both other challenges (the [quick guide](https://runescape.wikia.com/wiki/Broken_Home/Quick_guide) can help with this - try to memorise what direction your next door will be to stay ahead)",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -1808,7 +1884,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Challenging Chat](http://runescape.wikia.com/wiki/Challenge_Maria) is an achievement that requires the player to listen to [Vorago](http://runescape.wikia.com/wiki/Vorago)'s introduction by talking to him inside of the [Borehole](http://runescape.wikia.com/wiki/Borehole) lobby.\n\nThe Borehole is a cave located north of [Falador](http://runescape.wikia.com/wiki/Falador). It is where Vorago can be fought. After jumping across the three floating rock gaps and running a short distance, a waterfall can be seen along with Vorago.",
+			"description": "[Challenging Chat](http://runescape.wikia.com/wiki/Challenge_Maria) is an achievement that requires the player to listen to [Vorago](http://runescape.wikia.com/wiki/Vorago)'s introduction by talking to him inside of the [Borehole](http://runescape.wikia.com/wiki/Borehole) lobby and choosing the chat option \"Can I face you?\".\n\nPlayers do not have to start the fight with Vorago to complete this achievement.\n\nThe Borehole is a cave located north of [Falador](http://runescape.wikia.com/wiki/Falador). It is where Vorago can be fought. After jumping across the three floating rock gaps and running a short distance, a waterfall can be seen along with Vorago.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -1884,7 +1960,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Chippy Transport](http://runescape.wikia.com/wiki/Chippy_Transport) is an achievement that requires the player to unlock the ability to make [Trollheim tablets](http://runescape.wikia.com/wiki/Trollheim_tablet) by giving the [Miner's diary](http://runescape.wikia.com/wiki/Miner%27s_diary), obtained from [Runvastr](http://runescape.wikia.com/wiki/Runvastr), to the [Wise Old Man](http://runescape.wikia.com/wiki/Wise_Old_Man) in [Draynor Village](http://runescape.wikia.com/wiki/Draynor_Village) after completion of [Love Story](http://runescape.wikia.com/wiki/Love_Story).\n\nRunvastr is a poor [Dwarf](http://runescape.wikia.com/wiki/Dwarves) that lives on [Keldagrim](http://runescape.wikia.com/wiki/Keldagrim)'s east side in the house directly south of the pickaxe shop.",
+			"description": "[Chippy Transport](http://runescape.wikia.com/wiki/Chippy_Transport) is an achievement that requires the player to unlock the ability to make [Trollheim tablets](http://runescape.wikia.com/wiki/Trollheim_tablet) by giving the [Miner's diary](http://runescape.wikia.com/wiki/Miner%27s_diary), obtained from [Runvastr](http://runescape.wikia.com/wiki/Runvastr), to the [Wise Old Man](http://runescape.wikia.com/wiki/Wise_Old_Man) in [Draynor Village](http://runescape.wikia.com/wiki/Draynor_Village) after completion of [Love Story](http://runescape.wikia.com/wiki/Love_Story).\n\nRunvastr is a poor [Dwarf](http://runescape.wikia.com/wiki/Dwarves) that lives on [Keldagrim](http://runescape.wikia.com/wiki/Keldagrim)'s east side in the house directly south of the pickaxe shop. Simply ask him about his mining days to receive the diary.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -2032,7 +2108,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Claiming Azzanadra's Heart](http://runescape.wikia.com/wiki/Claiming_Azzanadra%27s_Heart) is an achievement that requires the player to speak to [Azzanadra](http://runescape.wikia.com/wiki/Azzanadra) after completion of [Heart of Stone](http://runescape.wikia.com/wiki/Heart_of_Stone) in order to claim a [Medium experience lamp](http://runescape.wikia.com/wiki/Medium_experience_lamp).\n\nTo receive the lamp, tell him what you discovered about the Elder Gods, and continue the dialogue.\n\n Azzanadra is located in the the [Temple](http://runescape.wikia.com/wiki/Temple_at_Senntisten) beneath the [Digsite](http://runescape.wikia.com/wiki/Digsite) east of [Varrock](http://runescape.wikia.com/wiki/Varrock).",
+			"description": "[Claiming Azzanadra's Heart](http://runescape.wikia.com/wiki/Claiming_Azzanadra%27s_Heart) is an achievement that requires the player to speak to [Azzanadra](http://runescape.wikia.com/wiki/Azzanadra) after completion of [Heart of Stone](http://runescape.wikia.com/wiki/Heart_of_Stone) in order to claim a [Medium experience lamp](http://runescape.wikia.com/wiki/Medium_experience_lamp).\n\nTo receive the lamp, tell him what you discovered about the [Elder Gods](https://runescape.wikia.com/wiki/Elder_Gods), and continue the dialogue.\n\n Azzanadra is located in the the [Temple](http://runescape.wikia.com/wiki/Temple_at_Senntisten) beneath the [Digsite](http://runescape.wikia.com/wiki/Digsite) east of [Varrock](http://runescape.wikia.com/wiki/Varrock).",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -2056,7 +2132,7 @@ exports.data = {
                 "name": "Cape Info",
                 "icon_url": "https://i.imgur.com/6c6q2iC.png"
             },
-            "description": "[Claiming the Knight's Experience](http://runescape.wikia.com/wiki/Claiming_the_Knight%27s_Experience) is an achievement that requires the player to claim the [Smithing XP lamp](http://runescape.wikia.com/wiki/Smithing_XP_lamp_(The_Knight%27s_Sword)) from [Squire Asrol](http://runescape.wikia.com/wiki/Squire_Asrol) after completing the quest, [The Knight's Sword](http://runescape.wikia.com/wiki/The_Knight%27s_Sword). \n\nSquire Asrol is the squire of [Sir Vyvin](http://runescape.wikia.com/wiki/Sir_Vyvin). He can be found in the courtyard of the [White Knights' castle](http://runescape.wikia.com/wiki/White_Knights'_Castle).",
+            "description": "[Claiming the Knight's Experience](http://runescape.wikia.com/wiki/Claiming_the_Knight%27s_Experience) is an achievement that requires the player to claim the [Smithing XP lamp](http://runescape.wikia.com/wiki/Smithing_XP_lamp_(The_Knight%27s_Sword) from [Squire Asrol](http://runescape.wikia.com/wiki/Squire_Asrol) after completing the quest, [The Knight's Sword](http://runescape.wikia.com/wiki/The_Knight%27s_Sword). \n\nSquire Asrol is the squire of [Sir Vyvin](http://runescape.wikia.com/wiki/Sir_Vyvin). He can be found in the courtyard of the [White Knights' castle](http://runescape.wikia.com/wiki/White_Knights'_Castle) in [Falador](https://runescape.wikia.com/wiki/Falador).",
             "thumbnail": {
                 "url": "https://i.imgur.com/Shmagnp.png"
             },
@@ -2144,7 +2220,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Clue's in the Monkey Drool](http://runescape.wikia.com/wiki/Clue%27s_in_the_Monkey_Drool) is an achievement that requires the player to receive the [Medium clue scroll](http://runescape.wikia.com/wiki/Medium_clue_scroll) from the [Monkey](http://runescape.wikia.com/wiki/Monkey_(item)) in the player's inventory during or after the [Monkey Madness](http://runescape.wikia.com/wiki/Monkey_Madness) quest, after feeding it a number of [Bananas](http://runescape.wikia.com/wiki/Banana). The drop rate is 1 in 256.\n\nIt is suggested to feed the bananas to the monkey while at the banana plantation at [Musa Point](http://runescape.wikia.com/wiki/Musa_Point) so the player is close to a free source of bananas. This will display the message \"The monkey chews on the banana and spits out a clue!\" in the chatbox. To obtain the clue scroll the player must not have another medium difficulty clue scroll in their inventory nor bank; however, another difficulty clue scroll won't interfere. Do not skip the dialogue when feeding the monkey, as it will not count as an attempt towards the clue scroll.\n\nPlayers must talk to a monkey with their [Monkeyspeak amulet](http://runescape.wikia.com/wiki/Monkeyspeak_amulet) and convince it to get into their backpack. To get out of the cage, players must unwield the [Greegree](http://runescape.wikia.com/wiki/Greegree) and speak with the [Monkey Minder](http://runescape.wikia.com/wiki/Monkey_minder) who will remove you from the cage. Players cannot teleport with the Monkey in their inventory, and it cannot be banked. Using any form of teleportation will make the monkey disappear from your backpack.\n\nDropping the Monkey will cause it to leave your pack and wander around for a bit, although it will disappear after about 30 seconds.",
+			"description": "[Clue's in the Monkey Drool](http://runescape.wikia.com/wiki/Clue%27s_in_the_Monkey_Drool) is an achievement that requires the player to receive the [Medium clue scroll](http://runescape.wikia.com/wiki/Medium_clue_scroll) from the [Monkey](http://runescape.wikia.com/wiki/Monkey_(item) in the player's inventory during or after the [Monkey Madness](http://runescape.wikia.com/wiki/Monkey_Madness) quest, after feeding it a number of [Bananas](http://runescape.wikia.com/wiki/Banana). The drop rate is 1 in 256.\n\nIt is suggested to feed the bananas to the monkey while at the banana plantation at [Musa Point](http://runescape.wikia.com/wiki/Musa_Point) so the player is close to a free source of bananas. This will display the message \"The monkey chews on the banana and spits out a clue!\" in the chatbox. To obtain the clue scroll the player must not have reached the cap of 25 sealed and active combined medium difficulty clue scrolls in their inventory nor bank; however, another difficulty clue scroll won't interfere.\n\nDo not skip the dialogue when feeding the monkey, as it will not count as an attempt towards the clue scroll. Holding down spacebar while feeding the monkey bananas is an easy way to make sure the dialogue doesn't get skipped.\n\nPlayers must talk to a monkey with their [Monkeyspeak amulet](http://runescape.wikia.com/wiki/Monkeyspeak_amulet) and convince it to get into their backpack. To get out of the cage, players must unwield the [Greegree](http://runescape.wikia.com/wiki/Greegree) and speak with the [Monkey Minder](http://runescape.wikia.com/wiki/Monkey_minder) who will remove you from the cage. Players cannot teleport with the Monkey in their inventory, and it cannot be banked. Using any form of teleportation will make the monkey disappear from your backpack.\n\nDropping the Monkey will cause it to leave your pack and wander around for a bit, although it will disappear after about 30 seconds.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -2168,7 +2244,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Complete History of Droalak](http://runescape.wikia.com/wiki/Complete_History_of_Droalak) is an achievement that requires the player to free Droalak after the Making History quest.\n\nYou can return to Droalak in Port Phasmatys after the quest and upon learning of what happened, he will finally be at peace and will disappear.",
+			"description": "[Complete History of Droalak](http://runescape.wikia.com/wiki/Complete_History_of_Droalak) is an achievement that requires the player to free [Droalak](https://runescape.wikia.com/wiki/Droalak) after the [Making History](https://runescape.wikia.com/wiki/Making_History) quest. He stands behind the [General Store](https://runescape.wikia.com/wiki/Port_Phasmatys#Port_Phasmatys_General_Store) in [Port Phasmatys](https://runescape.wikia.com/wiki/Port_Phasmatys) and can be set free by simply completing the dialogue with him after the quest.\n\nYou can return to Droalak in Port Phasmatys after the quest and upon learning of what happened, he will finally be at peace and will disappear.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -2192,7 +2268,7 @@ exports.data = {
                 "name": "Cape Info",
                 "icon_url": "https://i.imgur.com/6c6q2iC.png"
             },
-            "description": "[Complete Trekky](https://runescape.wikia.com/wiki/Complete_Trekky) is an achievement that requires the player to level all adventurers in [Temple Trekking](https://runescape.wikia.com/wiki/Temple_Trekking) to level 99.\n\nThere are a total of six people that can be escorted - three people for the journey to the [Temple](https://runescape.wikia.com/wiki/Paterdomus) and three for [Burgh De Rott](https://runescape.wikia.com/wiki/Burgh_de_Rott). They are:\n• [Dean Vellio](https://runescape.wikia.com/wiki/Dean_Vellio)\n• [Jayene Kliyn](https://runescape.wikia.com/wiki/Jayene_Kliyn)\n• [Smiddi Ryak](https://runescape.wikia.com/wiki/Smiddi_Ryak)\n• [Pazuzu](https://runescape.wikia.com/wiki/Pazuzu)\n• [Zachory Bragg](https://runescape.wikia.com/wiki/Zachory_Bragg)\n• [Rolayne Twickit](https://runescape.wikia.com/wiki/Rolayne_Twickit)\n\nYou can choose who to escort by using the noticeboard at the start point at Paterdomus or in Burgh De Rott. Each of the three people on each journey has a different [Difficulty](https://runescape.wikia.com/wiki/Temple_Trekking#Difficulty) - easy, medium and hard.\n\nBy being escorted, the follower will gain experience and levels. As they do so, they will gain new abilities and become more adept in combat. Their examine information and appearance will also change after receiving some new abilities. It will also allow the player to unlock certain rewards - some rewards require all of the followers to have reached a certain level.\n\nIt is possible to let your companion do much, if not all, of the fighting leading to fast level ups. This is easier for the mages and ranger, but can still be done with the warrior provided you have food to sustain him. This tactic works well with the Easy and Medium NPCs at the easy and medium route difficulties for the giant snail, ghast, nail beast, swamp snake, and shade [Events](https://runescape.wikia.com/wiki/Temple_Trekking/Events). The Hard NPC’s can simply be rushed through the hard path for the fastest levels.",
+            "description": "[Complete Trekky](https://runescape.wikia.com/wiki/Complete_Trekky) is an achievement that requires the player to level all adventurers in [Temple Trekking](https://runescape.wikia.com/wiki/Temple_Trekking) to level 99.\n\nThere are a total of six people that can be escorted - three people for the journey to the [Paterdomus Temple](https://runescape.wikia.com/wiki/Paterdomus) and three for [Burgh De Rott](https://runescape.wikia.com/wiki/Burgh_de_Rott). They are:\n• [Dean Vellio](https://runescape.wikia.com/wiki/Dean_Vellio)\n• [Jayene Kliyn](https://runescape.wikia.com/wiki/Jayene_Kliyn)\n• [Smiddi Ryak](https://runescape.wikia.com/wiki/Smiddi_Ryak)\n• [Pazuzu](https://runescape.wikia.com/wiki/Pazuzu)\n• [Zachory Bragg](https://runescape.wikia.com/wiki/Zachory_Bragg)\n• [Rolayne Twickit](https://runescape.wikia.com/wiki/Rolayne_Twickit)\n\nYou can choose who to escort by using the noticeboard at the start point at Paterdomus or in Burgh De Rott. Each of the three people on each journey has a different [Difficulty](https://runescape.wikia.com/wiki/Temple_Trekking#Difficulty) - easy, medium and hard.\n\nBy being escorted, the follower will gain experience and levels. As they do so, they will gain new abilities and become more adept in combat. Their examine information and appearance will also change after receiving some new abilities. It will also allow the player to unlock certain rewards - some rewards require all of the followers to have reached a certain level.\n\nIt is possible to let your companion do much, if not all, of the fighting leading to fast level ups. This is easier for the mages and ranger, but can still be done with the warrior provided you have food to sustain him. This tactic works well with the Easy and Medium NPCs at the easy and medium route difficulties for the giant snail, ghast, nail beast, swamp snake, and shade [events](https://runescape.wikia.com/wiki/Temple_Trekking/Events). The Hard NPC’s can simply be rushed through the hard path for the fastest levels.",
             "thumbnail": {
                 "url": "https://i.imgur.com/Shmagnp.png"
             },
@@ -2215,12 +2291,12 @@ exports.data = {
 	"completionist cape": {
 		"cmds": ["trim"],
 		"embed": {
-            "title": "Completionist Cape (achievement)",
+            "title": "Completionist Cape",
             "author": {
                 "name": "Cape Info",
                 "icon_url": "https://i.imgur.com/6c6q2iC.png"
             },
-            "description": "[Completionist Cape (achievement)](https://runescape.wikia.com/wiki/Completionist_Cape_(achievement%29) is an achievement that requires the player to complete all [Completionist Cape achievements](http://runescape.wikia.com/wiki/Completionist_Cape_achievements). Please visit the <#412093604979277844> channel for more information on how to do this.",
+            "description": "[Completionist Cape](https://runescape.wikia.com/wiki/Completionist_Cape_(achievement%29) is an achievement that requires the player to complete all [Completionist Cape achievements](http://runescape.wikia.com/wiki/Completionist_Cape_achievements). Please visit the <#412093604979277844> channel for more information on how to do this.",
             "thumbnail": {
                 "url": "https://i.imgur.com/Shmagnp.png"
             },
@@ -2278,6 +2354,26 @@ exports.data = {
 			},
 			"fields": [
 				{
+                    "name": "Start Point:",
+                    "value": "• Speak to the cook in the kitchen of Lumbridge Castle"
+      			},
+        		{
+                    "name": "Official Difficulty:",
+                    "value": "• Novice"
+        		},
+        		{
+                    "name": "Official Length:",
+                    "value": "• Short"
+       			},
+        		{
+                    "name": "Items Required:",
+                    "value": "• [Empty pot](https://runescape.wikia.com/wiki/Empty_pot) (can be obtained during quest)\n• [Bucket](https://runescape.wikia.com/wiki/Bucket) (can be obtained during quest)"
+        		},
+        		{
+                    "name": "Enemies to Defeat:",
+                    "value": "• None"
+        		},
+        		{
 					"name": "Requirements:",
 					"value": "• Cook's Assistant Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Cook%27s_Assistant)"
 				},
@@ -2300,7 +2396,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Count All Light Fingers](http://runescape.wikia.com/wiki/Count_All_Light_Fingers) is an achievement that requires the player to complete the [Thieves' Guild](http://runescape.wikia.com/wiki/Thieves%27_Guild) miniquests after completion of [Buyers and Cellars](http://runescape.wikia.com/wiki/Buyers_and_Cellars).",
+			"description": "[Count All Light Fingers](http://runescape.wikia.com/wiki/Count_All_Light_Fingers) is an achievement that requires the player to complete the [Thieves' Guild](http://runescape.wikia.com/wiki/Thieves%27_Guild) miniquests after completion of [Buyers and Cellars](http://runescape.wikia.com/wiki/Buyers_and_Cellars).\n\nThe miniquests are:\n\n• [From Tiny Acorns](https://runescape.wikia.com/wiki/From_Tiny_Acorns)\n• [Lost Her Marbles](https://runescape.wikia.com/wiki/Lost_Her_Marbles)\n• [A Guild of Our Own](https://runescape.wikia.com/wiki/A_Guild_of_Our_Own)",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -2328,7 +2424,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Cower Behind the Chosen Commander](http://runescape.wikia.com/wiki/Cower_Behind_the_Chosen_Commander) is an achievement that requires the player to obtain the [Goblin cower shield](http://runescape.wikia.com/wiki/Goblin_cower_shield) by talking to [General Wartface](http://runescape.wikia.com/wiki/General_Wartface) or [General Bentnoze](http://runescape.wikia.com/wiki/General_Bentnoze) after [The Chosen Commander](http://runescape.wikia.com/wiki/The_Chosen_Commander). It can still be claimed by non-members, provided they have completed the quest.\n\nGeneral Bentnoze and General Wartface are the Goblin Generals who are found in the [Goblin Village](http://runescape.wikia.com/wiki/Goblin_Village), which is near [Falador](http://runescape.wikia.com/wiki/Falador) and directly north of [Doric's Hut](http://runescape.wikia.com/wiki/Doric%27s_hut).",
+			"description": "[Cower Behind the Chosen Commander](http://runescape.wikia.com/wiki/Cower_Behind_the_Chosen_Commander) is an achievement that requires the player to obtain the [Goblin cower shield](http://runescape.wikia.com/wiki/Goblin_cower_shield) by talking to [General Wartface](http://runescape.wikia.com/wiki/General_Wartface) or [General Bentnoze](http://runescape.wikia.com/wiki/General_Bentnoze) after [The Chosen Commander](http://runescape.wikia.com/wiki/The_Chosen_Commander).\n\nGeneral Bentnoze and General Wartface are the Goblin Generals who are found in the [Goblin Village](http://runescape.wikia.com/wiki/Goblin_Village), which is near [Falador](http://runescape.wikia.com/wiki/Falador) and directly north of [Doric's Hut](http://runescape.wikia.com/wiki/Doric%27s_hut).",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -2352,7 +2448,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Cran Door's Secret](http://runescape.wikia.com/wiki/Cran_Door%27s_Secret) is an achievement that requires the player to open the door in the [Crandor and Karamja Dungeon](http://runescape.wikia.com/wiki/Crandor_and_Karamja_Dungeon) from the [Crandor](http://runescape.wikia.com/wiki/Crandor) side during or after [Dragon Slayer](http://runescape.wikia.com/wiki/Dragon_Slayer).\n\nCrandor is a small volcanic island north of [Karamja](http://runescape.wikia.com/wiki/Karamja).",
+			"description": "[Cran Door's Secret](http://runescape.wikia.com/wiki/Cran_Door%27s_Secret) is an achievement that requires the player to open the door in the [Crandor and Karamja Dungeon](http://runescape.wikia.com/wiki/Crandor_and_Karamja_Dungeon) from the [Crandor](http://runescape.wikia.com/wiki/Crandor) side during or after [Dragon Slayer](http://runescape.wikia.com/wiki/Dragon_Slayer).\n\nCrandor is a small volcanic island north of [Karamja](http://runescape.wikia.com/wiki/Karamja). There are two ways to get to Crandor. The first way is by travelling to Crandor on the [Lady Lumbridge](https://runescape.wikia.com/wiki/Lady_Lumbridge) during Dragon Slayer. There is also a secret passage connecting [Crandor and Karamja Dungeon](https://runescape.wikia.com/wiki/Crandor_and_Karamja_Dungeon), south of [Elvarg](https://runescape.wikia.com/wiki/Elvarg)'s lair, that must be unlocked from the Crandorian side.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -2376,11 +2472,15 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Daemonology of Celerity](http://runescape.wikia.com/wiki/Daemonology_of_Celerity) is an achievement that requires the player to claim the [Malleus daemoniorum](http://runescape.wikia.com/wiki/Malleus_daemoniorum) by talking to [Brother Celerity](http://runescape.wikia.com/wiki/Brother_Celerity) after taking part in a [Demon Flash Mob](http://runescape.wikia.com/wiki/Demon_Flash_Mob).\n\nBrother Celerity is a [Monk](http://runescape.wikia.com/wiki/Monk) who gives advice on how to defeat the demons. He is located at the [Edgeville Monastery](http://runescape.wikia.com/wiki/Monastery_of_Saradomin).\n\nDemon Flash Mobs appear every hour in one of 14 locations including the [Wilderness](http://runescape.wikia.com/wiki/Wilderness). Players with the required combat level get a filtered notice of a surge of demonic energy at a specific location fifteen minutes before the mob spawns, then receive a second message stating that the demons have spawned in that location. Mobs can spawn at any time and are not synchronised across worlds.",
+			"description": "[Daemonology of Celerity](http://runescape.wikia.com/wiki/Daemonology_of_Celerity) is an achievement that requires the player to claim the [Malleus daemoniorum](http://runescape.wikia.com/wiki/Malleus_daemoniorum) by talking to [Brother Celerity](http://runescape.wikia.com/wiki/Brother_Celerity) after taking part in a [Demon Flash Mob](http://runescape.wikia.com/wiki/Demon_Flash_Mob).\n\nBrother Celerity is a [Monk](http://runescape.wikia.com/wiki/Monk) who gives advice on how to defeat the demons. He is located at the [Edgeville Monastery](http://runescape.wikia.com/wiki/Monastery_of_Saradomin).\n\nDemon Flash Mobs is a [Distraction and Diversion](https://runescape.wikia.com/wiki/Distractions_and_Diversions) that appears every hour in one of 14 [locations](https://runescape.wikia.com/wiki/Demon_Flash_Mob#Locations), including the [Wilderness](http://runescape.wikia.com/wiki/Wilderness). Players with the required combat level will receive a filtered notice of a surge of demonic energy at a specific location fifteen minutes before the mob spawns, then receive a second message stating that the demons have spawned in that location. Demon Flash Mobs can spawn at any time and are not synchronised across worlds.\n\nThis flash mob consists of a [demon boss](https://runescape.wikia.com/wiki/Demon_boss), two [black demons](https://runescape.wikia.com/wiki/Black_demon_(Demon_Flash_Mobs), four [lesser demons](https://runescape.wikia.com/wiki/Lesser_demon_(Demon_Flash_Mobs) and eight [imp heralds](https://runescape.wikia.com/wiki/Imp_herald). Once the minions are killed, the boss can be attacked. However, the minions cannot be slain until their lower-ranking counterparts are first defeated; black demons cannot be attacked until all imp heralds and lesser demons are destroyed. If the demon boss finishes off all lesser demons, the imp heralds must still be killed to attack the black demons. The only exception is that imp heralds do not need to be killed to attack the demon boss.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
 			"fields": [
+				{
+					"name": "​",
+					"value": "A new mob spawns every hour; if the demon general is not slain within one hour of spawning, he will despawn, regardless of the damage dealt on him.\n\nPlayers may utilize the `DemonMobs FC` friend's chat in order to attempt to find a group for this D&D."
+				},
 				{
 					"name": "Requirements:",
 					"value": "None"
@@ -2514,7 +2614,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Death to the Mahjarrat](http://runescape.wikia.com/wiki/Death_to_the_Mahjarrat) is an achievement that requires the player to find and inspect all [Mahjarrat deathstones](http://runescape.wikia.com/wiki/Mahjarrat_deathstone) in [Freneskae](http://runescape.wikia.com/wiki/Freneskae) during or after [Children of Mah](http://runescape.wikia.com/wiki/Children_of_Mah).\n\n• [Rhakzhul](http://runescape.wikia.com/wiki/Rhakzhul): His deathstone can be found by the [World Gate](http://runescape.wikia.com/wiki/World_Gate) portal and the first lava rock ride on Freneskae.\n• [Kyreetha](http://runescape.wikia.com/wiki/Kyreetha): Their deathstone can be found before the second lava rock ride on Freneskae. \n• [Hizzindra](http://runescape.wikia.com/wiki/Hizzindra): Their deathstone can be found after the lavafall on Freneskae.\n• [Zemouregal](http://runescape.wikia.com/wiki/Zemouregal_(senior%29): His deathstone can be found right outside [Mah](http://runescape.wikia.com/wiki/Mah)'s ritual marker on Freneskae.",
+			"description": "[Death to the Mahjarrat](http://runescape.wikia.com/wiki/Death_to_the_Mahjarrat) is an achievement that requires the player to find and inspect all [Mahjarrat deathstones](http://runescape.wikia.com/wiki/Mahjarrat_deathstone) in [Freneskae](http://runescape.wikia.com/wiki/Freneskae) during or after [Children of Mah](http://runescape.wikia.com/wiki/Children_of_Mah).\n\nThe deathstones and their locations are:\n\n• [Rhakzhul](http://runescape.wikia.com/wiki/Rhakzhul): His deathstone can be found by the [World Gate](http://runescape.wikia.com/wiki/World_Gate) portal and the first lava rock ride on Freneskae.\n• [Kyreetha](http://runescape.wikia.com/wiki/Kyreetha): Their deathstone can be found before the second lava rock ride on Freneskae. \n• [Hizzindra](http://runescape.wikia.com/wiki/Hizzindra): Their deathstone can be found after the lavafall on Freneskae.\n• [Zemouregal](http://runescape.wikia.com/wiki/Zemouregal_(senior%29): His deathstone can be found right outside [Mah](http://runescape.wikia.com/wiki/Mah)'s ritual marker on Freneskae.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -2538,7 +2638,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Deep and Bloody Experience](http://runescape.wikia.com/wiki/Deep_and_Bloody_Experience) is an achievement that requires the player to claim the 3x 150,000 combat experience reward after [Blood Runs Deep](http://runescape.wikia.com/wiki/Blood_Runs_Deep) by talking to [Brundt the Chieftain](http://runescape.wikia.com/wiki/Brundt_the_Chieftain).\n\nBrundt the Chieftain is the chieftain of [Rellekka](http://runescape.wikia.com/wiki/Rellekka), the capital of the [Fremennik Province](http://runescape.wikia.com/wiki/Fremennik_Province). He is located in the long hall in the centre of town.",
+			"description": "[Deep and Bloody Experience](http://runescape.wikia.com/wiki/Deep_and_Bloody_Experience) is an achievement that requires the player to claim the 3x 150,000 combat experience reward after [Blood Runs Deep](http://runescape.wikia.com/wiki/Blood_Runs_Deep) by talking to [Brundt the Chieftain](http://runescape.wikia.com/wiki/Brundt_the_Chieftain).\n\nBrundt the Chieftain is the chieftain of [Rellekka](http://runescape.wikia.com/wiki/Rellekka), the capital of the [Fremennik Province](http://runescape.wikia.com/wiki/Fremennik_Province). He is located in the [longhall](https://runescape.wikia.com/wiki/Rellekka_Longhall_Bar) in the center of town.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
