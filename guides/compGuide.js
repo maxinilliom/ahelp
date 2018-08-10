@@ -2710,7 +2710,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Diaries of the Clans](http://runescape.wikia.com/wiki/Diaries_of_the_Clans) is a meta-achievement that requires the player to completely fill the [Voice of the Elders](http://runescape.wikia.com/wiki/Voice_of_the_Elders) by running laps on the [Hefin Agility Course](http://runescape.wikia.com/wiki/Hefin_Agility_Course). One page is received every 20 laps, and a total of eight are needed to complete the book.",
+			"description": "[Diaries of the Clans](http://runescape.wikia.com/wiki/Diaries_of_the_Clans) is a meta-achievement that requires the player to completely fill the [Voice of the Elders](http://runescape.wikia.com/wiki/Voice_of_the_Elders) by running laps on the [Hefin Agility Course](http://runescape.wikia.com/wiki/Hefin_Agility_Course). One [page](https://runescape.wikia.com/wiki/The_Voice_of_the_Elders) is received every 20 laps, and a total of eight are needed to complete the book.\n\nFound in the inner ring of [Prifddinas](https://runescape.wikia.com/wiki/Prifddinas) in the [Hefin Clan district](https://runescape.wikia.com/wiki/Prifddinas), the course traverses the entirety of the Hefin district going up to the top of the [Hefin Cathedral](https://runescape.wikia.com/wiki/Prifddinas) and then back down again.\n\nIn contrast to most other Agility courses, actions performed on the Hefin Agility Course can never fail, regardless of Agility level. Experience gained for traversing every obstacle and the full lap bonus are scaled and increase every 5 Agility levels. It is not possible to leave the course by any means other than finishing it (or dying), as teleportation is not allowed.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -2727,7 +2727,7 @@ exports.data = {
 				},
 				{
 					"name": "Requirements:",
-					"value": "• 77 Agility\n• Plague's End Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Plague%27s_End)"
+					"value": "• 77 Agility\n\n• Plague's End Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Plague%27s_End)"
 				}
 			],
 			"footer": {
@@ -2744,7 +2744,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Diary of Oreb](http://runescape.wikia.com/wiki/Diary_of_Oreb) is an achievement that requires the player to find and obtain all of the [The Magister's Journals](http://runescape.wikia.com/wiki/The_Magister%27s_Journal) from either [The Magister](http://runescape.wikia.com/wiki/The_Magister) or monsters in the [Sophanem Slayer Dungeon](http://runescape.wikia.com/wiki/Sophanem_Slayer_Dungeon).\n\nIt is recommended to complete this alongside capturing the [Soul Devourers](http://runescape.wikia.com/wiki/Soul_devourer)' and [Corrupted Creatures](http://runescape.wikia.com/wiki/Corrupted_creature)' souls with [Ushabti](http://runescape.wikia.com/wiki/Ushabti). Ensure you pick up each journal as they are received so that the next will spawn.",
+			"description": "[Diary of Oreb](http://runescape.wikia.com/wiki/Diary_of_Oreb) is an achievement that requires the player to find and obtain all of the [The Magister's Journals](http://runescape.wikia.com/wiki/The_Magister%27s_Journal) from either [The Magister](http://runescape.wikia.com/wiki/The_Magister) or monsters in the [Sophanem Slayer Dungeon](http://runescape.wikia.com/wiki/Sophanem_Slayer_Dungeon).\n\nIt is recommended to complete this alongside capturing the [Soul Devourers](http://runescape.wikia.com/wiki/Soul_devourer)' and [Corrupted Creatures](http://runescape.wikia.com/wiki/Corrupted_creature)' souls with [Ushabti](http://runescape.wikia.com/wiki/Ushabti). Ensure you pick up and read each journal as they are received so that the next will spawn.\n\nPlayers do not have to be on a slayer assignment to obtain this journal.\n\nThe five journals are:\n\n• [The Magister's Journal #1](https://runescape.wikia.com/wiki/The_Magister%27s_Journal_1)\n• [The Magister's Journal #2](https://runescape.wikia.com/wiki/The_Magister%27s_Journal_2)\n• [The Magister's Journal #3](https://runescape.wikia.com/wiki/The_Magister%27s_Journal_3)\n• [The Magister's Journal #4](https://runescape.wikia.com/wiki/The_Magister%27s_Journal_4)\n• [The Magister's Journal #5](https://runescape.wikia.com/wiki/The_Magister%27s_Journal_5)",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -2796,7 +2796,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Dishonourable Gains](http://runescape.wikia.com/wiki/Dishonourable_Gains) is an achievement that requires the player to open the three chests in [Zamorak's hideout](http://runescape.wikia.com/wiki/Zamorak%27s_hideout) during or after [Dishonour among Thieves](http://runescape.wikia.com/wiki/Dishonour_among_Thieves). To teleport to Zamorak's hideout use the [Communication device](http://runescape.wikia.com/wiki/Communication_device).\n\nThe communication device is given by [Moia](http://runescape.wikia.com/wiki/Moia) to the player at the beginning of Dishonour among Thieves. It can be used to communicate with Moia, to teleport to Zamorak's hideout underneath [Daemonheim](http://runescape.wikia.com/wiki/Daemonheim) and to view the quest cutscenes. If the item is lost at any time, it can be reclaimed from [Moldark]http://runescape.wikia.com/wiki/Moldark) in [Edgeville](http://runescape.wikia.com/wiki/Edgeville).",
+			"description": "[Dishonourable Gains](http://runescape.wikia.com/wiki/Dishonourable_Gains) is an achievement that requires the player to open the three chests in [Zamorak's hideout](http://runescape.wikia.com/wiki/Zamorak%27s_hideout) during or after [Dishonour among Thieves](http://runescape.wikia.com/wiki/Dishonour_among_Thieves). To teleport to Zamorak's hideout use the [Communication device](http://runescape.wikia.com/wiki/Communication_device).\n\nThe communication device is given by [Moia](http://runescape.wikia.com/wiki/Moia) to the player at the beginning of Dishonour among Thieves. It can be used to communicate with Moia, to teleport to Zamorak's hideout underneath [Daemonheim](http://runescape.wikia.com/wiki/Daemonheim), and to view the quest cutscenes. If the item is lost at any time, it can be reclaimed from [Moldark](http://runescape.wikia.com/wiki/Moldark) in eastern [Edgeville](http://runescape.wikia.com/wiki/Edgeville).\n\n• The first chest contains an XP lamp (tier 1) with 7,000 experience, and requires level 50 in all skills to obtain (south side, along the east wall right before the wall slants diagonally).\n\n• The second chest contains an experience XP lamp (tier 2) with 50,000 experience, and requires level 70 in all skills to obtain (east side, in front of the northern lava pit).\n\n• The third chest contains an XP lamp (tier 3) with 96,000 experience, and requires level 90 in all skills to obtain (behind [Zamorak](https://runescape.wikia.com/wiki/Zamorak)'s throne).",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -2820,7 +2820,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Dishonourable Loot](http://runescape.wikia.com/wiki/Dishonourable_Loot) is an achievement that requires the player to open the six chests (excluding the one found at [Jerrod](http://runescape.wikia.com/wiki/Jerrod), since the location is inaccessible after the quest) that are found along the way during [Dishonour among Thieves](http://runescape.wikia.com/wiki/Dishonour_among_Thieves).\n\nChest Locations: \n• West end of [Zamorak's hideout](http://runescape.wikia.com/wiki/Zamorak%27s_hideout)\n• Behind the [Handelmort Mansion](http://runescape.wikia.com/wiki/Handelmort_Mansion) in the cellar where Jerrod was kept (inaccessible after the quest)\n• Inside the [Ruins of Uzer](http://runescape.wikia.com/wiki/Uzer), near [General Khazard](http://runescape.wikia.com/wiki/General_Khazard) \n• [Black Knights' Base](http://runescape.wikia.com/wiki/Black_Knights%27_Base), near [Lord Daquarius](http://runescape.wikia.com/wiki/Lord_Daquarius)\n• [Zemouregal's fort](http://runescape.wikia.com/wiki/Zemouregal%27s_fort), on the east side of the ground floor, accessible from [Trollweiss Mountain](http://runescape.wikia.com/wiki/Trollweiss_Mountain)\n• South of [Barrows](http://runescape.wikia.com/wiki/Barrows), near the entrance to [Sliske's lair](http://runescape.wikia.com/wiki/Sliske%27s_lair)",
+			"description": "[Dishonourable Loot](http://runescape.wikia.com/wiki/Dishonourable_Loot) is an achievement that requires the player to open the six chests, excluding the one found at [Jerrod](http://runescape.wikia.com/wiki/Jerrod), since the location is inaccessible after the quest, that are found along the way during [Dishonour among Thieves](http://runescape.wikia.com/wiki/Dishonour_among_Thieves).\n\n**Chest Locations:**\n\n• West end of [Zamorak's hideout](http://runescape.wikia.com/wiki/Zamorak%27s_hideout)\n\n• Behind the [Handelmort Mansion](http://runescape.wikia.com/wiki/Handelmort_Mansion) in the cellar where Jerrod was kept (inaccessible after the quest)\n\n• Inside the [Ruins of Uzer](http://runescape.wikia.com/wiki/Uzer), near [General Khazard](http://runescape.wikia.com/wiki/General_Khazard)\n\n• [Black Knights' Base](http://runescape.wikia.com/wiki/Black_Knights%27_Base), near [Lord Daquarius](http://runescape.wikia.com/wiki/Lord_Daquarius)\n\n• [Zemouregal's fort](http://runescape.wikia.com/wiki/Zemouregal%27s_fort), on the east side of the ground floor, accessible from [Trollweiss Mountain](http://runescape.wikia.com/wiki/Trollweiss_Mountain)\n\n• South of [Barrows](http://runescape.wikia.com/wiki/Barrows), near the entrance to [Sliske's lair](http://runescape.wikia.com/wiki/Sliske%27s_lair)",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -2844,7 +2844,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Distorted Div](http://runescape.wikia.com/wiki/Distorted_Div) is an achievement that requires the player to claim the one-time Divination XP from a [Distorted engrammeter](http://runescape.wikia.com/wiki/Distorted_engrammeter).\n\nThe [Engrammeter](http://runescape.wikia.com/wiki/Engrammeter) is an item given to the player by [Kharshai](http://runescape.wikia.com/wiki/Kharshai) to collect Mahjarrat Memories, charged by 500 Divine [Memories](http://runescape.wikia.com/wiki/Memory) of Vibrant or higher. It is used in the [Mahjarrat Memories](http://runescape.wikia.com/wiki/Mahjarrat_Memories) miniquest, starting out depleted but becoming charged as memories are collected.\n\nAfter the player brings all 15 memories to Kharshai, he will state that the Engrammeter might be useful on [Freneskae](http://runescape.wikia.com/wiki/Freneskae) if the player is ever able to go there.\n\nThe distorted engrammeter can be re-obtained from Kharshai. Kharshai will not detect if the player is already holding one, making it possible to obtain multiple copies.",
+			"description": "[Distorted Div](http://runescape.wikia.com/wiki/Distorted_Div) is an achievement that requires the player to claim the one-time Divination experience from a [Distorted engrammeter](http://runescape.wikia.com/wiki/Distorted_engrammeter).\n\nThe [Engrammeter](http://runescape.wikia.com/wiki/Engrammeter) is an item given to the player by [Kharshai](http://runescape.wikia.com/wiki/Kharshai). It is used to collect Mahjarrat Memories and is charged by 500 Divine [Memories](http://runescape.wikia.com/wiki/Memory) of [Vibrant](https://runescape.wikia.com/wiki/Vibrant_memory) or higher. It is used in the [Mahjarrat Memories](http://runescape.wikia.com/wiki/Mahjarrat_Memories) miniquest, starting out depleted but becoming charged as memories are collected.\n\nAfter the player brings all 15 memories to Kharshai, he will state that the Engrammeter might be useful on [Freneskae](http://runescape.wikia.com/wiki/Freneskae) if the player is ever able to go there.\n\nThe distorted engrammeter can be re-obtained from Kharshai. Kharshai will not detect if the player is already holding one, making it possible to obtain multiple copies.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -2872,7 +2872,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Do a Minion, Take Notes](http://runescape.wikia.com/wiki/Do_a_Minion,_Take_Notes) is an achievement that requires the player to fill a [Dominion journal](http://runescape.wikia.com/wiki/Dominion_journal) with twenty [Journal pages](http://runescape.wikia.com/wiki/A_journal_page), obtained from playing the [Dominion Tower](http://runescape.wikia.com/wiki/Dominion_Tower).\n\nIt seems that the chances of getting a page increase the higher one's [Dominion factor](http://runescape.wikia.com/wiki/Dominion_Factor) gets. An effective way to do this is to do Climber Mode and fighting to the highest floor possible, as your dominion factor accumulates very fast in this mode. Reaching floor 20 will often yield over 200,000 dominion factor, which usually results in one or two journal pages upon opening the rewards box.\n\nIf, however, you come across a boss you don't think you will be able to defeat, it is better to end climber mode and collect the reward than to die fighting the boss, as your dominion factor will be greatly reduced upon death.",
+			"description": "[Do a Minion, Take Notes](http://runescape.wikia.com/wiki/Do_a_Minion,_Take_Notes) is an achievement that requires the player to fill a [Dominion journal](http://runescape.wikia.com/wiki/Dominion_journal) with twenty [Journal pages](http://runescape.wikia.com/wiki/A_journal_page), obtained from playing the [Dominion Tower](http://runescape.wikia.com/wiki/Dominion_Tower).\n\nIt seems that the chances of getting a page increase the higher one's [Dominion factor](http://runescape.wikia.com/wiki/Dominion_Factor) gets. An effective way to do this is to do [Climber Mode](https://runescape.wikia.com/wiki/Dominion_Tower#Climber_mode) and fighting to the highest floor possible, as your dominion factor accumulates very fast in this mode. Reaching floor 20 will often yield over 200,000 dominion factor, which usually results in one or two journal pages upon opening the [rewards box](https://runescape.wikia.com/wiki/Dominion_Tower#Reward_box).\n\nIf, however, you come across a boss you don't think you will be able to defeat, it is better to end climber mode and collect the reward than to die fighting the boss, as your dominion factor will be greatly reduced upon death.\n\nIf you destroy the journal, you will have to get all of the pages back that it holds. They are not saved; however, if you have collected all pages, the journal can be put into one's bookcase to save a bank space.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -2896,11 +2896,31 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Do No Elite](http://runescape.wikia.com/wiki/Do_No_Elite) is an achievement that requires the player claim the [Elite clue scroll](http://runescape.wikia.com/wiki/Clue_scroll_(elite)) while using [Ava's alerter](http://runescape.wikia.com/wiki/Ava%27s_alerter) after completing [Do No Evil](http://runescape.wikia.com/wiki/Do_No_Evil). There are [Four possible locations](http://runescape.wikia.com/wiki/Ava%27s_alerter#Elite_clue_scroll) where the elite clue scroll can be found.\n\nDig where it bwuks four times just like in the quest. If the alerter fails to detect anything, move onto the next location.\n\nPossible locations:\n\nIsafdar:\nStart in [Lletya](http://runescape.wikia.com/wiki/Lletya). Run west out of Lletya, cross the tripwire, and go through the dense forest to the northwest. Next, go northeast and hop over the leaves. In the next clearing your alerter should start bwuking.\n\n[Lunar Isle](http://runescape.wikia.com/wiki/Lunar_Isle):\nThe scroll can be found on the southwest part of the island, west of the [Astral altar](http://runescape.wikia.com/wiki/Astral_Altar) and south of the city, slightly west of the little peninsula.\n\n[Iceberg](http://runescape.wikia.com/wiki/Iceberg):\nOn the iceberg from the [Penguin quests](http://runescape.wikia.com/wiki/Penguin_series). After getting off the boat, run north-west to the giant ice column that you can see on the minimap. It's on the north-western side of the column.\n\n[Meiyerditch](http://runescape.wikia.com/wiki/Meiyerditch):\nThe easiest method is to use [Drakan's medallion](http://runescape.wikia.com/wiki/Drakan%27s_medallion) to teleport to [Meiyerditch Laboratories](http://runescape.wikia.com/wiki/Meiyerditch_Laboratories), then make the quick trek southwards. If Drakan's Medallion is unavailable, take the boat from [Burgh de Rott](http://runescape.wikia.com/wiki/Burgh_de_Rott) and get caught by a [Vyrewatch](http://runescape.wikia.com/wiki/Vyrewatch). Choose to do hard Load_of_Bakullar and get sent to the mines. Ask a miner for a spare pickaxe, mine 15 daeyalt ore, deposit them in the mine cart, and then talk to one of the guards to be let out. Then run south along the eastern wall. The spot is in an indent in the wall (on the minimap), right next to a sitting child.",
+			"description": "[Do No Elite](http://runescape.wikia.com/wiki/Do_No_Elite) is an achievement that requires the player claim the [Elite clue scroll](http://runescape.wikia.com/wiki/Clue_scroll_(elite) while using [Ava's alerter](http://runescape.wikia.com/wiki/Ava%27s_alerter) after completing [Do No Evil](http://runescape.wikia.com/wiki/Do_No_Evil). There are four [possible locations](http://runescape.wikia.com/wiki/Ava%27s_alerter#Elite_clue_scroll) where the elite clue scroll can be found.\n\nDig where the alerter bwuks four times just like in the quest. If the alerter fails to detect anything, move onto the next location.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
 			"fields": [
+				{
+					"name": "Possible Locations:",
+					"value": "\n[Isafdar](https://runescape.wikia.com/wiki/Isafdar):\nStart in [Lletya](http://runescape.wikia.com/wiki/Lletya). Run west out of Lletya, cross the [tripwire](https://runescape.wikia.com/wiki/Tripwire), and go through the [dense forest](https://runescape.wikia.com/wiki/Dense_forest) to the northwest. Next, go northeast and hop over the [leaves](https://runescape.wikia.com/wiki/Leaf_trap). In the next clearing, your alerter should start bwuking. Alternatively, using the [Tirannwn](https://runescape.wikia.com/wiki/Tirannwn) [lodestone](https://runescape.wikia.com/wiki/Lodestone_Network) and going north-east is another fast route to this location.\n\nThe coordinates for this location are \"1 degrees, 31 minutes north, 5 degrees, 5 minutes west\"."
+				},
+				{
+					"name": "​",
+					"value": "[Lunar Isle](http://runescape.wikia.com/wiki/Lunar_Isle):\nThe scroll can be found on the southwest part of the island, west of the [Astral altar](http://runescape.wikia.com/wiki/Astral_Altar) and south of the city, slightly west of the little peninsula.\n\nThe coordinates for this location are \"21 degrees 50 minutes north, 11 degrees 7 minutes west\"."
+				},
+				{
+					"name": "​",
+					"value": "[Iceberg](http://runescape.wikia.com/wiki/Iceberg):\nOn the iceberg from the [Penguin quests](http://runescape.wikia.com/wiki/Penguin_series). After getting off the boat, run north-west to the giant ice column that you can see on the minimap. It's on the north-western side of the column.\n\nThe coordinates for this location are \"26 degrees, 16 minutes north, 6 degrees, 20 minutes east\"."
+				},
+				{
+					"name": "​",
+					"value": "[Meiyerditch](http://runescape.wikia.com/wiki/Meiyerditch):\nThe easiest method is to use [Drakan's medallion](http://runescape.wikia.com/wiki/Drakan%27s_medallion) to teleport to [Meiyerditch Laboratories](http://runescape.wikia.com/wiki/Meiyerditch_Laboratories), then make the quick trek southwards.\n\nIf Drakan's Medallion is unavailable, take the boat from [Burgh de Rott](http://runescape.wikia.com/wiki/Burgh_de_Rott) and get caught by a [Vyrewatch](http://runescape.wikia.com/wiki/Vyrewatch). Choose to do hard labor and get sent to the [mines](https://runescape.wikia.com/wiki/Meiyerditch_mine). Ask a [miner](https://runescape.wikia.com/wiki/Meiyerditch_miner) for a spare pickaxe, mine 15 [daeyalt ore](https://runescape.wikia.com/wiki/Daeyalt_ore), deposit them in the mine cart, and then talk to one of the [Juvinate guards](https://runescape.wikia.com/wiki/Juvinate_guard) to be let out. Then run south along the eastern wall. The spot is in an indent in the wall (on the minimap), right next to a sitting child."
+				},
+				{
+					"name": "​",
+					"value": "The coordinates for this location are \"3 degrees, 41 minutes north 37 degrees, 31 minutes east\"."
+				},
 				{
 					"name": "Requirements:",
 					"value": "• Ava's Alerter equipped\n• No metal armour equipped in the chest slot\n• Spade in inventory (tool belt spade will not work)\n\n• Do No Evil Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Do_No_Evil)"
@@ -2920,11 +2940,19 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Don't Fear the Ripper](http://runescape.wikia.com/wiki/Don%27t_Fear_the_Ripper) is an achievement that requires the player to find and obtain all five [Miner's journals](http://runescape.wikia.com/wiki/Miner%27s_journal) and [The diary of Jebediah Omnis](http://runescape.wikia.com/wiki/The_diary_of_Jebediah_Omnis) from [Ripper Demons](http://runescape.wikia.com/wiki/Ripper_Demon).",
+			"description": "[Don't Fear the Ripper](http://runescape.wikia.com/wiki/Don%27t_Fear_the_Ripper) is an achievement that requires the player to find and obtain all five [Miner's journals](http://runescape.wikia.com/wiki/Miner%27s_journal) and [The diary of Jebediah Omnis](http://runescape.wikia.com/wiki/The_diary_of_Jebediah_Omnis) from [Ripper Demons](http://runescape.wikia.com/wiki/Ripper_Demon).\n\nRipper Demons are Slayer monsters that can be found in a [cave](https://runescape.wikia.com/wiki/Ripper_Demon_cave) just east of the [Al Kharid](https://runescape.wikia.com/wiki/Al_Kharid)'s eastern gate, west of [Abbey of St. Elspeth Citharede](https://runescape.wikia.com/wiki/Abbey_of_St._Elspeth_Citharede). They are [Chthonian demons](https://runescape.wikia.com/wiki/Chthonian) and are affected by [Silverlight](https://runescape.wikia.com/wiki/Silverlight) and [Darklight](https://runescape.wikia.com/wiki/Darklight), as well as the [Demon Slayer perk](https://runescape.wikia.com/wiki/Demon_Slayer_(perk).\n\nWhen killing Ripper Demons, it is highly advised to use [Protect from Melee](https://runescape.wikia.com/wiki/Protect_from_Melee) / [Deflect Melee](https://runescape.wikia.com/wiki/Deflect_Melee) along with [Devotion](https://runescape.wikia.com/wiki/Devotion) and the [Devoted](https://runescape.wikia.com/wiki/Devoted) / [Enhanced Devoted](https://runescape.wikia.com/wiki/Enhanced_Devoted) perks, if available, in order to mitigate as much damage as possible. Ripper demons can hit anywhere from 1-3 times per attack.\n\nIf the demon cannot reach the player, they will immediately teleport to them and use [Slaughter](https://runescape.wikia.com/wiki/Slaughter).\n\nAs the mine they are in is very cramped, area-of-effect abilities are highly discouraged as they can hit multiple demon.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
 			"fields": [
+				{
+					"name": "​",
+					"value": "Once the Ripper Demon's [adrenaline](https://runescape.wikia.com/wiki/Adrenaline) bar is filled, it may jump into the ceiling and the player will lose track of the demon.  A shadow will then appear **west** of the player's position (or directly under them if there is no space for the demon). If the player is directly under or next to the shadow, they will take a hit of 32,000 damage, which instantly kills the player.\n\nAt all times, players should keep their health at 50% or higher. If their current health falls below 35% of their maximum amount, nearby demons will turn aggressive on the player and will most likely hit them with Slaughter. It is highly advised to teleport out if multiple demons attack you at once.\n\nWhen the demon reaches 0 life points, it will perform a last-ditch struggle attack. The demon will spin uncontrollably on the spot, dealing 950 damage per tick to nearby players before dying. This damage can be reduced/blocked, though it is best to stay away until the demon drops onto the floor."
+				},
+				{
+					"name": "The Required Journals are:",
+					"value": "\n• [Miner's journal #1](https://runescape.wikia.com/wiki/Miner%27s_journal_1)\n• [Miner's journal #2](https://runescape.wikia.com/wiki/Miner%27s_journal_2)\n• [Miner's journal #3](https://runescape.wikia.com/wiki/Miner%27s_journal_3)\n• [Miner's journal #4](https://runescape.wikia.com/wiki/Miner%27s_journal_4)\n• [Miner's journal #5](https://runescape.wikia.com/wiki/Miner%27s_journal_5)\n• [The diary of Jebediah Omnis](https://runescape.wikia.com/wiki/The_diary_of_Jebediah_Omnis)"
+				},
 				{
 					"name": "Requirements:",
 					"value": "• 96 Slayer"
@@ -2948,11 +2976,15 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Dragonkin Logs](http://runescape.wikia.com/wiki/Dragonkin_Logs) is an achievement that requires the player to kill [Adamant dragons](http://runescape.wikia.com/wiki/Adamant_dragon) in the [Dragonkin Lair](http://runescape.wikia.com/wiki/Dragonkin_Lair) until they drop all four journals.\n\nThe Dragonkin Lair is a lair found in the [Ancient Cavern](http://runescape.wikia.com/wiki/Ancient_Cavern) south of [Kuradal](http://runescape.wikia.com/wiki/Kuradal). It is initially accessed with the [Dragon-mithril key](http://runescape.wikia.com/wiki/Dragon-mithril_key).",
+			"description": "[Dragonkin Logs](http://runescape.wikia.com/wiki/Dragonkin_Logs) is an achievement that requires the player to kill [Adamant dragons](http://runescape.wikia.com/wiki/Adamant_dragon) in the [Dragonkin Lair](http://runescape.wikia.com/wiki/Dragonkin_Lair) until they drop all four journals.\n\nThe Dragonkin Lair is a lair found in the [Ancient Cavern](http://runescape.wikia.com/wiki/Ancient_Cavern) south of [Kuradal](http://runescape.wikia.com/wiki/Kuradal). It is initially accessed with the [Dragon-mithril key](http://runescape.wikia.com/wiki/Dragon-mithril_key).\n\nThe dragon-mithril key is obtained by using a [mithril bar](https://runescape.wikia.com/wiki/Mithril_bar) on a mithril dragon with the [key mould](https://runescape.wikia.com/wiki/Key_mould_(Hero%27s_Welcome) in your inventory and without having a shield or potion effect equipped that protects against [dragonfire](https://runescape.wikia.com/wiki/Dragonfire).\n\nThe key mould is an item obtained by using [soft clay](https://runescape.wikia.com/wiki/Soft_clay) on the door in the Ancient Cavern.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
 			"fields": [
+				{
+					"name": "Strategy:",
+					"value": "Adamant dragons can use all three attack styles, as well as dragonfire. [Super antifires](https://runescape.wikia.com/wiki/Super_antifire) are highly recommended, with some form of dragonfire protection being needed. While in melee range it will not use its Ranged attack and while outside of melee range it will be unable to use melee. They will use Magic attacks in melee range. For this reason, it is suggested that:\n\n• If wearing Magic type armour, they should stay inside melee attack range (due to Magic armour being weak to Ranged type attacks)\n\n• If wearing Ranged type armour with [dragonbane ammunition](https://runescape.wikia.com/wiki/Bane_ammunition), they should stay outside melee attack range."
+				},
 				{
 					"name": "Requirements:",
 					"value": "• Hero's Welcome Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Hero%27s_Welcome)"
@@ -2972,11 +3004,15 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Dusting Murial](http://runescape.wikia.com/wiki/Dusting_Murial) is an achievement that requires the player to translate the murals in the [Adamant dragon dungeon](http://runescape.wikia.com/wiki/Adamant_dragon_dungeon) and on [Mount Firewake](http://runescape.wikia.com/wiki/Mount_Firewake) on [Kethsi](http://runescape.wikia.com/wiki/Kethsi), using a charged [Dragonfire shield](http://runescape.wikia.com/wiki/Dragonfire_shield) with the [Dragonkin Primer](http://runescape.wikia.com/wiki/Dragonkin_Primer) in the inventory.\n\nThe Adamant dragon dungeon is home to the [Adamant](http://runescape.wikia.com/wiki/Adamant_dragon) variety of [Metal dragons](http://runescape.wikia.com/wiki/Metal_dragons). The dungeon is a [Dragonkin](http://runescape.wikia.com/wiki/Dragonkin) laboratory underneath [Brimhaven Dungeon](http://runescape.wikia.com/wiki/Brimhaven_Dungeon), accessible via a set of stairs previously hidden under a grate in a room between the [Moss](http://runescape.wikia.com/wiki/Moss_giant) and [Fire](http://runescape.wikia.com/wiki/Fire_giant) giants and the [Black demons](http://runescape.wikia.com/wiki/Black_demon).\n\nMount Firewake is a great mountain located in the plane of Kethsi, and prior to the Adamant and Rune dragon update it was only mentioned in the [Ritual of the Mahjarrat](http://runescape.wikia.com/wiki/Ritual_of_the_Mahjarrat) [Quest](http://runescape.wikia.com/wiki/Quest). It is accessed by the [World Gate](http://runescape.wikia.com/wiki/World_Gate) and right-clicking it for quick access.\n\nTo charge the dragonfire shield, simply equip the shield and attack any dragon capable of breathing dragonfire. With the use of an [Antifire potion](http://runescape.wikia.com/wiki/Antifire), no damage will be taken. This can be safely done at a [Steel dragon (POH)](http://runescape.wikia.com/wiki/Steel_dragon_(POH)) in a [Player-owned house](http://runescape.wikia.com/wiki/Player-owned_house)'s [Treasure Room](http://runescape.wikia.com/wiki/Treasure_Room) or a [Pit Iron dragon](http://runescape.wikia.com/wiki/Pit_iron_dragon) in a player-owned house's [Dungeon Pit](http://runescape.wikia.com/wiki/Dungeon_Pit).\n\nThe Dragonkin Primer is a translator for Dragonkin language found in the library beneath [Unferth](http://runescape.wikia.com/wiki/Unferth)'s house by searching the eastern bookcase next to the locked chest. Unferth is the hypochondriac human pet of [Bob the Cat](http://runescape.wikia.com/wiki/Bob_the_Cat) who resides in North West [Burthope](http://runescape.wikia.com/wiki/Burthorpe).",
+			"description": "[Dusting Murial](http://runescape.wikia.com/wiki/Dusting_Murial) is an achievement that requires the player to translate the murals in the [Adamant dragon dungeon](http://runescape.wikia.com/wiki/Adamant_dragon_dungeon) and on [Mount Firewake](http://runescape.wikia.com/wiki/Mount_Firewake) on [Kethsi](http://runescape.wikia.com/wiki/Kethsi), using a charged [Dragonfire shield](http://runescape.wikia.com/wiki/Dragonfire_shield) with the [Dragonkin Primer](http://runescape.wikia.com/wiki/Dragonkin_Primer) in the inventory.\n\nThe Adamant dragon dungeon is home to the [Adamant](http://runescape.wikia.com/wiki/Adamant_dragon) variety of [Metal dragons](http://runescape.wikia.com/wiki/Metal_dragons). The dungeon is a [Dragonkin](http://runescape.wikia.com/wiki/Dragonkin) laboratory underneath [Brimhaven Dungeon](http://runescape.wikia.com/wiki/Brimhaven_Dungeon), accessible via a set of stairs previously hidden under a grate in a room between the [Moss](http://runescape.wikia.com/wiki/Moss_giant) and [Fire](http://runescape.wikia.com/wiki/Fire_giant) giants and the [Black demons](http://runescape.wikia.com/wiki/Black_demon).\n\nMount Firewake is a great mountain located in the plane of Kethsi. It is accessed by the [World Gate](http://runescape.wikia.com/wiki/World_Gate) and right-clicking it for quick access. To charge the dragonfire shield, simply equip the shield and attack any dragon capable of breathing [dragonfire](https://runescape.wikia.com/wiki/Dragonfire).",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
 			"fields": [
+				{
+					"name": "​",
+					"value": "With the use of an [Antifire potion](http://runescape.wikia.com/wiki/Antifire), no damage will be taken. This can be safely done at a [Steel dragon (POH)](http://runescape.wikia.com/wiki/Steel_dragon_(POH) in a [Player-owned house](http://runescape.wikia.com/wiki/Player-owned_house)'s [Treasure Room](http://runescape.wikia.com/wiki/Treasure_Room) or a [Pit Iron dragon](http://runescape.wikia.com/wiki/Pit_iron_dragon) in a player-owned house's [Dungeon Pit](http://runescape.wikia.com/wiki/Dungeon_Pit).\n\nThe Dragonkin Primer is a translator for Dragonkin language found in the library beneath [Unferth](http://runescape.wikia.com/wiki/Unferth)'s house by searching the eastern bookcase next to the locked chest. Unferth is the hypochondriac human pet of [Bob the Cat](http://runescape.wikia.com/wiki/Bob_the_Cat) who resides in north west [Burthope](http://runescape.wikia.com/wiki/Burthorpe)."
+				},
 				{
 					"name": "Requirements:",
 					"value": "• 80 Firemaking\n\n• Ritual of the Mahjarrat Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Ritual_of_the_Mahjarrat)\n• Fate of the Fods Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Fate_of_the_Gods)\n• One of a Kind Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/One_of_a_Kind)"
@@ -2996,11 +3032,35 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Eastern Adventurer](http://runescape.wikia.com/wiki/Eastern_Adventurer) is an achievement that requires the player to complete all storylines in the [Player-owned port](http://runescape.wikia.com/wiki/Player-owned_port); [Quin](http://runescape.wikia.com/wiki/Quin), [Hyu-Ji](http://runescape.wikia.com/wiki/Hyu-Ji), [Eastern Curiosities](http://runescape.wikia.com/wiki/Eastern_Curiosities), and [Guardians of the World](http://runescape.wikia.com/wiki/Guardians_of_the_World).\n\nUseful tips:\n• Send out as many adventurers as possible that you do NOT need on voyages. Do NOT check their voyages, leave them their forever until you get your trio voyage. This works even better if you send out duo adventurers you do NOT need on voyages.\n• Build 1 icon of each of the 3 adventurers that you do need.\n• Build Ostentatious Bar in the Shield region (Luxurious Bar in Pincers region).\n• Do every random event ([Barmaid](http://runescape.wikia.com/wiki/Player-owned_port/Random_events#Surula.27s_Bar:_Last_Orders), [Seasinger Umi](http://runescape.wikia.com/wiki/Player-owned_port/Random_events#Seasinger_Umi:_Helping_Hand), [Marketeer](http://runescape.wikia.com/wiki/Player-owned_port/Random_events#Felix_The_Black_Marketeer:_A_Simple_Favour)) you get for chance at adventurer reroll. You may get a max of 1 random event per Runescape \"day\".\n• Do [Motherlode Maw (Dragonkin)](http://runescape.wikia.com/wiki/Motherlode_Maw) daily for chance at [Player-Owned-Ports enhancers](http://runescape.wikia.com/wiki/Player-owned_ports_enhancer).\n• Exchange 10 [Crystal motherlode shards](http://runescape.wikia.com/wiki/Crystal_motherlode_shard) daily with [Wythien](http://runescape.wikia.com/wiki/Wythien) for a chance at Player-Owned-Ports enhancers.",
+			"description": "[Eastern Adventurer](http://runescape.wikia.com/wiki/Eastern_Adventurer) is an achievement that requires the player to complete all storylines in the [Player-owned port](http://runescape.wikia.com/wiki/Player-owned_port); [Quin](http://runescape.wikia.com/wiki/Quin), [Hyu-Ji](http://runescape.wikia.com/wiki/Hyu-Ji), [Eastern Curiosities](http://runescape.wikia.com/wiki/Eastern_Curiosities), and [Guardians of the World](http://runescape.wikia.com/wiki/Guardians_of_the_World).",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
 			"fields": [
+				{
+					"name": "The recommended steps to fulfill this achievement are:",
+					"value": "1. Send out as many [adventurers](https://runescape.wikia.com/wiki/Player-owned_port/Special_voyages) as possible that you do NOT need on voyages. Do NOT check their voyages, leave them there until you get your required trio voyage. This works even better if you send out duo adventurers you do NOT need on voyages."
+				},
+				{
+					"name": "​",
+					"value": "2. Build 1 [icon](https://runescape.wikia.com/wiki/Player-owned_port/Upgrades#Icon_hotspots) of each of the 3 adventurers that you do need."
+				},
+				{
+					"name": "​",
+					"value": "3. Build Ostentatious [Bar](https://runescape.wikia.com/wiki/Player-owned_port/Upgrades#Bar) in the [Shield region](https://runescape.wikia.com/wiki/The_Shield) (Luxurious Bar in [Pincers region](https://runescape.wikia.com/wiki/The_Pincers))."
+				},
+				{
+					"name": "​",
+					"value": "4. Do every [random event](https://runescape.wikia.com/wiki/Player-owned_port#Random_events_.28minigames.29) you get for chance at [adventurer reroll](https://runescape.wikia.com/wiki/Player-owned_port/Random_events#Rewards). You may get a max of 1 random event per Runescape \"day\"."
+				},
+				{
+					"name": "​",
+					"value": "5. Do [Motherlode Maw](https://runescape.wikia.com/wiki/Motherlode_Maw) daily for chance at [Player-Owned-Ports enhancers](https://runescape.wikia.com/wiki/Player-owned_ports_enhancer)."
+				},
+				{
+					"name": "​",
+					"value": "6. Exchange 10 [Crystal motherlode shards](https://runescape.wikia.com/wiki/Crystal_motherlode_shard) daily with [Wythien](https://runescape.wikia.com/wiki/Wythien) in the [Meilyr Clan](https://runescape.wikia.com/wiki/Meilyr_Clan) district for chance at Player-Owned-Ports enhancers."
+				},
 				{
 					"name": "Requirements:",
 					"value": "• 90 Agility\n• 90 Construction\n• 90 Cooking\n• 90 Divination\n• 90 Dungeoneering\n• 90 Fishing\n• 90 Herblore\n• 90 Hunter\n• 90 Prayer\n• 90 Runecrafting\n• 90 Slayer\n• 90 Thieving"
@@ -3052,20 +3112,24 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Eeeeagle!](http://runescape.wikia.com/wiki/Eeeeagle!) is an achievement that requires the player to unlock all of the [Eagle transport routes](http://runescape.wikia.com/wiki/Eagle_transport_system).",
+			"description": "[Eeeeagle!](http://runescape.wikia.com/wiki/Eeeeagle!) is an achievement that requires the player to unlock all of the [Eagle transport routes](http://runescape.wikia.com/wiki/Eagle_transport_system).\n\nThe Eagle transport system is unlocked after completion of the [Eagles' Peak](https://runescape.wikia.com/wiki/Eagles%27_Peak) quest. Players may use it to travel quickly to different Hunter areas as well as to the [Jade Vine Maze](https://runescape.wikia.com/wiki/Jade_vine_maze).",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
 			"fields": [
 				{
-					"name": "Eagle",
+					"name": "Eagle:",
 					"value": "[Giant Eagle](http://runescape.wikia.com/wiki/Giant_eagle)\n[Polar Eagle](http://runescape.wikia.com/wiki/Polar_eagle)\n[Jungle Eagle](http://runescape.wikia.com/wiki/Jungle_eagle)\n[Desert Eagle](http://runescape.wikia.com/wiki/Desert_eagle)\n[Karamjan Jungle Eagle](http://runescape.wikia.com/wiki/Karamjan_Jungle_Eagle)",
 					"inline": true
 				},
 				{
-					"name": "Location",
+					"name": "Location:",
 					"value": "[Eagles' Peak](http://runescape.wikia.com/wiki/Eagles%27_Peak_Dungeon)\n[Rellekka](http://runescape.wikia.com/wiki/Rellekka_Hunter_area)\n[Feldip](http://runescape.wikia.com/wiki/Feldip_Hunter_area)\n[Uzer](http://runescape.wikia.com/wiki/Uzer_Hunter_area)\n[Karamja](http://runescape.wikia.com/wiki/Jade_vine_maze)",
 					"inline": true
+				},
+				{
+					"name": "​",
+					"value": "A [rope](https://runescape.wikia.com/wiki/Rope) is required to travel using the eagles. Rope spawns are found in the Trollweiss and Uzer eyries, while ruined rope racks can be found in Eagles' Peak, Karamja , and Feldip. Players with sufficient construction levels and the correct resources can build rope racks over the ruined [rope rack](https://runescape.wikia.com/wiki/Rope_rack) hotspots, which then become an infinite supply of rope."
 				},
 				{
 					"name": "Requirements:",
@@ -3114,15 +3178,23 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Enough of the Crazy Walking](http://runescape.wikia.com/wiki/Enough_of_the_Crazy_Walking) is an achievement that requires the player to buy both part of Mad Ramblings from Commander Connad for a total of 50 Honour Points in any Barbarian Assault role.",
+			"description": "[Enough of the Crazy Walking](http://runescape.wikia.com/wiki/Enough_of_the_Crazy_Walking) is an achievement that requires the player to buy both part of Mad Ramblings from [Commander Connad](https://runescape.wikia.com/wiki/Commander_Connad) for a total of 50 [Honour Points](https://runescape.wikia.com/wiki/Honour_Points) in any [Barbarian Assault](https://runescape.wikia.com/wiki/Barbarian_Assault) [role](https://runescape.wikia.com/wiki/Barbarian_Assault#All_roles).\n\nThe players are required to purchase both [The Account of Aesa Fellsdottir (Part 1)](https://runescape.wikia.com/wiki/The_Account_of_Aesa_Fellsdottir_(Part_1) and [The Account of Aesa Fellsdottir (Part 2)](https://runescape.wikia.com/wiki/The_Account_of_Aesa_Fellsdottir_(Part_2), also known as Mad Ramblings (1) and (2) in the Barbarian Assault rewards interface.\n\nHonour points are a figurative currency used by [Barbarians](https://runescape.wikia.com/wiki/Barbarian) at the Barbarian Outpost to sell [various armour, weapons, and Barbarian Assault role level upgrades](https://runescape.wikia.com/wiki/Barbarian_Assault/Rewards). They are not a physical item, but rather an idea or reputation that a player can receive through defeating waves of [Penance](https://runescape.wikia.com/wiki/Penance_(race) in Barbarian Assault. They can be checked by talking to Commander Comrad at the Barbarian Outpost.\n\nAfter each wave is complete, the player will receive a number of Honour points based on their team's performance in battle. The team members will be presented with an interface indicating the amount of points awarded to the individual and to which role, the player will also have the choice to level up in that role if he or she has the required amount of points to do so. After completion of the 10th wave you will receive 80 points in your current role and 5 in the others. Upon completing the 10th wave you will be automatically reset to wave 1.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
 			"fields": [
 				{
 					"name": "Requirements:",
-					"value": "None"
-				}
+					"value": "• None"
+				},
+				{
+                    "name": "Guides:",
+                    "value": "• [Barbarian Assault Guide 2017 • Hard Mode Waves 1-9 • Defender | puretppc - YouTube](https://www.youtube.com/watch?v=03kTmys4DWI)\n• [Barbarian Assault Guide 2017 • Hard Mode Waves 1-9 • Collector | puretppc - YouTube](https://www.youtube.com/watch?v=1t_Q_bvd9Hc)\n• [Barbarian Assault Guide 2017 • Hard Mode Waves 1-9 • Healer | puretppc - YouTube](https://www.youtube.com/watch?v=8m2nmcGJE_8)\n• [Barbarian Assault Guide 2017 • Hard Mode Waves 1-9 • Attackers | puretppc - YouTube](https://www.youtube.com/watch?v=VJbNQqMxQSk)"
+                },
+                {
+                    "name": "Leech Service:",
+                    "value": "[Leech BA](http://w11.zetaboards.com/LeechBA/pages/leechingrs3/)"
+                }
 			],
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
