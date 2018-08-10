@@ -3210,7 +3210,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Epi Logueque Experience](http://runescape.wikia.com/wiki/Epi_Logueque_Experience) is an achievement that requires the player to watch the cutscene after While Guthix Sleeps by talking to Idria directly after the quest or Silif at the White Knights' Castle in Falador afterwards. Silif needs to be in the same room as Surok Magis (the room with the cell). Talking to him in another room will not trigger the cutscene.",
+			"description": "[Epi Logueque Experience](http://runescape.wikia.com/wiki/Epi_Logueque_Experience) is an achievement that requires the player to watch the cutscene after [While Guthix Sleeps](https://runescape.wikia.com/wiki/While_Guthix_Sleeps) by talking to [Idria](https://runescape.wikia.com/wiki/Idria) directly after the quest or [Silif](https://runescape.wikia.com/wiki/Silif) at the [White Knights' Castle](https://runescape.wikia.com/wiki/White_Knights%27_Castle) in [Falador](https://runescape.wikia.com/wiki/Falador) afterwards.\n\nSilif needs to be in the same room as [Surok Magis](https://runescape.wikia.com/wiki/Surok_Magis) (the room with the cell). Talking to him in another room will not trigger the cutscene.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -3234,14 +3234,14 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Experience the Fate of the Gods](http://runescape.wikia.com/wiki/Experience_the_Fate_of_the_Gods) is an achievement that requires the player to claim the three survivor's lamps from Azzanadra and the large prismatic lamp from Wahisietel after Fate of the Gods.\n\nAzzanadra is located in the temple beneath the Digsite east of Varrock.\n\nWahisietel, also known under his alias Ali the Wise is a knowledgeable Zarosian Mahjarrat who lives in Nardah. He is located in the northernmost building, under the guise of Ali the Wise.",
+			"description": "[Experience the Fate of the Gods](http://runescape.wikia.com/wiki/Experience_the_Fate_of_the_Gods) is an achievement that requires the player to claim the three [survivor's lamps](https://runescape.wikia.com/wiki/Survivor%27s_lamp_(combat_skills) from [Azzanadra](https://runescape.wikia.com/wiki/Azzanadra) and the [large prismatic lamp](https://runescape.wikia.com/wiki/Large_prismatic_lamp_(Fate_of_the_Gods) from [Wahisietel](https://runescape.wikia.com/wiki/Wahisietel) after [Fate of the Gods](https://runescape.wikia.com/wiki/Fate_of_the_Gods).\n\nAzzanadra is located in the [Temple of Senntisten](https://runescape.wikia.com/wiki/The_Temple_at_Senntisten) beneath the [Digsite](https://runescape.wikia.com/wiki/Digsite) east of [Varrock](https://runescape.wikia.com/wiki/Varrock).\n\nWahisietel, also known under his alias [Ali the Wise](https://www.runehq.com/person/ali-the-wise), is a knowledgeable [Zarosian](https://runescape.wikia.com/wiki/Zaros) [Mahjarrat](https://runescape.wikia.com/wiki/Mahjarrat) who lives in [Nardah](https://runescape.wikia.com/wiki/Nardah). He is located in the northernmost building, under the guise of Ali the Wise.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
 			"fields": [
 				{
 					"name": "Requirements:",
-					"value": "• The Temple at Senntisten Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Temple_at_Senntisten)\n• The World Wakes Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_World_Wakes)\n• Ritual of the Mahjarrat Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Ritual_of_the_Mahjarrat)\n• Fate of the Gods Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Fate_of_the_Gods)"
+					"value": "• A level 80 Combat related skill (excluding Prayer/Summoning)\n\n• The Temple at Senntisten Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Temple_at_Senntisten)\n• The World Wakes Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_World_Wakes)\n• Ritual of the Mahjarrat Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Ritual_of_the_Mahjarrat)\n• Fate of the Gods Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Fate_of_the_Gods)"
 				}
 			],
 			"footer": {
@@ -3258,14 +3258,14 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Explore for Nestor](http://runescape.wikia.com/wiki/Explore_for_Nestor) is an achievement that requires the player to read the Explorer's notes.\n\nThe Explorer's notes are written by Nestor Peregrine, a famous dwarven explorer who used to live in Keldagrim. The book details his journey beyond Trollheim, where he discovered the God Wars Dungeon. It can be found in the Keldagrim Library, on the 1st floor. Once taken from the library, it can be retrieved from the bookcase in a player-owned house, in which the book's title is Beyond Trollheim.",
+			"description": "[Explore for Nestor](http://runescape.wikia.com/wiki/Explore_for_Nestor) is an achievement that requires the player to read the [Explorer's notes](https://runescape.wikia.com/wiki/Explorer%27s_notes).\n\nThe Explorer's notes are written by [Nestor Peregrine](https://runescape.wikia.com/wiki/Nestor_Peregrine), a famous dwarven explorer who used to live in [Keldagrim](https://runescape.wikia.com/wiki/Keldagrim). The book details his journey beyond [Trollheim](https://runescape.wikia.com/wiki/Trollheim), where he discovered the [God Wars Dungeon](https://runescape.wikia.com/wiki/God_Wars_Dungeon). It can be found in the [Keldagrim Library](https://runescape.wikia.com/wiki/Keldagrim_Library), on the 1st floor[UK]. Once taken from the library, it can be retrieved from the [bookcase](https://runescape.wikia.com/wiki/Bookcase) in a player-owned house, in which the book's title is \"Beyond Trollheim\".\n\nKeldagrim is accessible from the tunnel entrance east of [Rellekka](https://runescape.wikia.com/wiki/Rellekka) or, after Keldagrim has been visited once, from the [Grand Exchange](https://runescape.wikia.com/wiki/Grand_Exchange), [Dwarven Mine](https://runescape.wikia.com/wiki/Dwarven_Mine), [Dorgesh-Kaan](https://runescape.wikia.com/wiki/Dorgesh-Kaan), or underneath [White Wolf Mountain](https://runescape.wikia.com/wiki/White_Wolf_Mountain).",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
 			"fields": [
 				{
 					"name": "Requirements:",
-					"value": "• The Giant Dwarf Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Giant_Dwarf)"
+					"value": "• The Giant Dwarf Quest partial completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Giant_Dwarf)"
 				}
 			],
 			"footer": {
@@ -3282,14 +3282,14 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Family Spirit Tree](http://runescape.wikia.com/wiki/Family_Spirit_Tree) is an achievement that requires the player to plant the [spirit tree](https://runescape.wikia.com/wiki/Spirit_tree) in [Brimhaven](https://runescape.wikia.com/wiki/Brimhaven), [Port Sarim](https://runescape.wikia.com/wiki/Port_Sarim), and [Etceteria](https://runescape.wikia.com/wiki/Etceteria) before talking to [Glouron](https://runescape.wikia.com/wiki/Glouron) to claim the Farming XP lamp.\n\nThe spirit tree must fully grow before being able to claim the Farming XP lamp, and therefore the achievement.",
+			"description": "[Family Spirit Tree](http://runescape.wikia.com/wiki/Family_Spirit_Tree) is an achievement that requires the player to plant the [spirit tree](https://runescape.wikia.com/wiki/Spirit_tree) in [Brimhaven](https://runescape.wikia.com/wiki/Brimhaven), [Port Sarim](https://runescape.wikia.com/wiki/Port_Sarim), and [Etceteria](https://runescape.wikia.com/wiki/Etceteria) before talking to [Glouron](https://runescape.wikia.com/wiki/Glouron) to claim the Farming XP lamp.\n\nThe spirit tree must fully grow before being able to claim the [Farming XP lamp](https://runescape.wikia.com/wiki/Farming_XP_lamp_(Prifddinas), and therefore the achievement.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
 			"fields": [
 				{
 					"name": "Obtaining a Spirit Seed:",
-					"value": "• Players can buy a [spirit seed](https://runescape.wikia.com/wiki/Spirit_seed) from Mrs. Winkin for 55,000 Vinesweeper points.\n\n• Players who have completed [Royal Trouble](https://runescape.wikia.com/wiki/Royal_Trouble) may occasionally receive a spirit seed from [managing their kingdom](https://runescape.wikia.com/wiki/Managing_Miscellania) (workers allocated to farming).\n\n• Dropped by [ganodermic beasts](https://runescape.wikia.com/wiki/Ganodermic_beast)\n\n• They may be obtained from [Bird's nests](https://runescape.wikia.com/wiki/Bird%27s_nest), including nests from Miscellania and Etceteria (workers allocated to woodcutting maple or mahogany trees).\n\n• The [Motherlode Maw](https://runescape.wikia.com/wiki/Motherlode_Maw) has an uncommon chance of awarding a player this seed."
+					"value": "• Players can buy a [spirit seed](https://runescape.wikia.com/wiki/Spirit_seed) from [Mrs. Winkin](https://runescape.wikia.com/wiki/Mrs._Winkin) for 55,000 [Vinesweeper points](https://runescape.wikia.com/wiki/Vinesweeper).\n\n• Players who have completed [Royal Trouble](https://runescape.wikia.com/wiki/Royal_Trouble) may occasionally receive a spirit seed from [managing their kingdom](https://runescape.wikia.com/wiki/Managing_Miscellania) (workers allocated to farming).\n\n• Dropped by [ganodermic beasts](https://runescape.wikia.com/wiki/Ganodermic_beast)\n\n• They may be obtained from [Bird's nests](https://runescape.wikia.com/wiki/Bird%27s_nest), including nests from [Miscellania](https://runescape.wikia.com/wiki/Miscellania) and Etceteria (workers allocated to woodcutting maple or mahogany trees).\n\n• The [Motherlode Maw](https://runescape.wikia.com/wiki/Motherlode_Maw) has an uncommon chance of awarding a player this seed."
 				},{
 					"name": "Requirements:",
 					"value": "• 89 Farming\n\n• Plague's End Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Plague%27s_End)\n• The Prisoner of Glouphrie Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Prisoner_of_Glouphrie)"
@@ -3393,7 +3393,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Fires Are Mostly Harmless](http://runescape.wikia.com/wiki/Fires_Are_Mostly_Harmless) is an achievement that requires the player to light the campfire on Mos Le'Harmless (near fairy ring code **D-I-P**) using 8 willow logs and finding the herb cache in the south-eastern section of the Gu'Tanoth cave (fairy ring code **A-L-P**) after completion of Fairy Tale III - Battle at Orks Rift.",
+			"description": "[Fires Are Mostly Harmless](http://runescape.wikia.com/wiki/Fires_Are_Mostly_Harmless) is an achievement that requires the player to light the campfire on [Mos Le'Harmless](https://runescape.wikia.com/wiki/Mos_Le%27Harmless) (near [fairy ring](https://runescape.wikia.com/wiki/Fairy_ring) code **d•i•p**) using 8 [willow logs](https://runescape.wikia.com/wiki/Willow_logs) and finding the herb cache in the south-eastern section of the [Gu'Tanoth](https://runescape.wikia.com/wiki/Gu%27Tanoth) [Skavid caves](https://runescape.wikia.com/wiki/Skavid_caves) (fairy ring code **a•l•p**) after completion of [Fairy Tale III - Battle at Orks Rift](https://runescape.wikia.com/wiki/Fairy_Tale_III_-_Battle_at_Ork's_Rift).\n\nThe Skavid caves are a set of six caves around the ogre city of Gu'Tanoth. The caves are inhabited by the [Skavid](https://runescape.wikia.com/wiki/Skavid), a race of creatures enslaved by the [Ogres](https://runescape.wikia.com/wiki/Ogre).",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
