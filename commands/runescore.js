@@ -32,7 +32,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 	if (args[0].toLowerCase() == "all" && level >= 2) {
 		let i = 0, o = 0, x = keyList.length;
 		function list() {
-			const guide = data[keyList[o]].embed;
+			const guide = data[keyList[o]];
 			guide.author.name = name;
 			guide.color = color;
 			guide.timestamp = new Date();
@@ -56,11 +56,11 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 		keyList.forEach(k => {
 			const [cat, sub, ach] = k.split(" - ");
 			if (output.length <= 2000) {
-				output += `• ${data[k].embed.title} (${cat}, ${sub})\n`;
+				output += `• ${data[k].title}\n`;
 			} else if (second.length <= 2000) {
-				second += `• ${data[k].embed.title} (${cat}, ${sub})\n`;
+				second += `• ${data[k].title} (${cat.toProperCase()}, ${sub.toProperCase()})\n`;
 			} else {
-				third += `• ${data[k].embed.title} (${cat}, ${sub})\n`;
+				third += `• ${data[k].title} (${cat.toProperCase()}, ${sub.toProperCase()})\n`;
 			}
 		});
 		helpEmbed.title = "Comprehensive list of all valid RuneScore achievement guides";
@@ -95,9 +95,9 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 	if (rtnArr.length == 0) {
 		return message.channel.send(`No results found for **${args.join(" ")}**.`);
 	} else if (rtnArr.length == 1) {
-		const guide = data[rtnArr[0]].embed;
+		const guide = data[rtnArr[0]];
 		const [cat, sub, ach] = rtnArr[0].split(" - ");
-		guide.title += ` (${cat.toProperCase()}, ${sub.toProperCase()})`;
+//		guide.title += ` (${cat.toProperCase()}, ${sub.toProperCase()})`;
 		guide.author.name = name;
 		guide.color = color;
 		guide.timestamp = new Date();
@@ -107,7 +107,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 		let i = 1;
 		const searchEmbed = data["search"].embed;
 		rtnArr.forEach(n => {
-			output += `${i}: ${data[rtnArr[i-1]].embed.title}\n`;
+			output += `${i}: ${data[rtnArr[i-1]].title}\n`;
 			i++;
 		});
 		searchEmbed.title = "All RuneScore achievement guides matching your search";
@@ -118,9 +118,9 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 		message.channel.send("", {embed: searchEmbed});
 		const response = await client.awaitReply(message, "Which achievement were you searching for? Please enter the corresponding number.");
 		if (isNaN(response) || response > rtnArr.length || response < 1) return message.channel.send("Invalid number specified, search cancelled.");
-		const choice = data[rtnArr[response-1]].embed;
+		const choice = data[rtnArr[response-1]];
 		const [cat, sub, ach] = rtnArr[response-1].split(" - ");
-		choice.title += ` (${cat.toProperCase()}, ${sub.toProperCase()})`;
+//		choice.title += ` (${cat.toProperCase()}, ${sub.toProperCase()})`;
 		choice.author.name = name;
 		choice.color = color;
 		choice.timestamp = new Date();
