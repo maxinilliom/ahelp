@@ -25,7 +25,13 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 	if (message.channel.id !== '407919969712603145' && level < 2) return;
 
 	Object.getOwnPropertyNames(data).forEach(k => {
-		if (k !== "help" && k !== "search") keyList.push(k);
+		if (k !== "help" && k !== "search") {
+			keyList.push(k);
+			const [cat, sub, ach] = k.split(" - ");
+			if (!data[k].title.includes(`(${cat.toProperCase()}, ${sub.toProperCase()})`)) {
+				data[k].title = `${data[k].title} (${cat.toProperCase()}, ${sub.toProperCase()})`;
+			}
+		}
 	});
 	if (!args[0]) return message.channel.send(`Please specify a valid achievement name.`);
 
@@ -58,9 +64,9 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 			if (output.length <= 2000) {
 				output += `• ${data[k].title}\n`;
 			} else if (second.length <= 2000) {
-				second += `• ${data[k].title} (${cat.toProperCase()}, ${sub.toProperCase()})\n`;
+				second += `• ${data[k].title}\n`;
 			} else {
-				third += `• ${data[k].title} (${cat.toProperCase()}, ${sub.toProperCase()})\n`;
+				third += `• ${data[k].title}\n`;
 			}
 		});
 		helpEmbed.title = "Comprehensive list of all valid RuneScore achievement guides";
@@ -97,7 +103,6 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 	} else if (rtnArr.length == 1) {
 		const guide = data[rtnArr[0]];
 		const [cat, sub, ach] = rtnArr[0].split(" - ");
-//		guide.title += ` (${cat.toProperCase()}, ${sub.toProperCase()})`;
 		guide.author.name = name;
 		guide.color = color;
 		guide.timestamp = new Date();
@@ -120,7 +125,6 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 		if (isNaN(response) || response > rtnArr.length || response < 1) return message.channel.send("Invalid number specified, search cancelled.");
 		const choice = data[rtnArr[response-1]];
 		const [cat, sub, ach] = rtnArr[response-1].split(" - ");
-//		choice.title += ` (${cat.toProperCase()}, ${sub.toProperCase()})`;
 		choice.author.name = name;
 		choice.color = color;
 		choice.timestamp = new Date();
