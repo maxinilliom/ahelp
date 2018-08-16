@@ -106,10 +106,15 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 		message.channel.send("", {embed: guide});
 	} else if (rtnArr.length > 1) {
 		let output = "";
+		let second = "";
 		let i = 1;
 		const searchEmbed = data["search"].embed;
 		rtnArr.forEach(n => {
-			output += `${i}: ${data[rtnArr[i-1]].embed.title}\n`;
+			if (output.length <= 2000) {
+				output += `${i}: ${data[rtnArr[i-1]].embed.title}\n`;
+			} else if (second.length <= 2000) {
+				second += `${i}: ${data[rtnArr[i-1]].embed.title}\n`;
+			}
 			i++;
 		});
 		searchEmbed.title = "All Master Quest Cape achievement guides matching your search";
@@ -117,7 +122,14 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 		searchEmbed.description = output;
 		searchEmbed.color = color;
 		searchEmbed.timestamp = new Date();
-		message.channel.send("", {embed: searchEmbed});
+		await message.channel.send("", {embed: searchEmbed});
+
+		if (second.length > 0) {
+			searchEmbed.description = second;
+			searchEmbed.timestamp = new Date();
+			await message.channel.send("", {embed: searchEmbed});
+		}
+
 		const response = await client.awaitReply(message, "Which achievement were you searching for? Please enter the corresponding number.");
 		if (isNaN(response) || response > rtnArr.length || response < 1) return message.channel.send("Invalid number specified, search cancelled.");
 		const choice = data[rtnArr[response-1]].embed;
