@@ -101,5 +101,26 @@ exports.data = {
                 "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
                 "text": "Runescore awarded: 20"
             }
+        },
+        "combat - elite dungeons - the many hands that write": {
+            "title": "The Many Hands That Write",
+            "author": {
+                "name": "Cape Info",
+                "icon_url": "https://i.imgur.com/6c6q2iC.png"
+            },
+            "description": "[The Many Hands That Write](https://runescape.wikia.com/wiki/The_Many_Hands_That_Write) is an achievement that requires the player to obtain the books [Crassian Allegiance](https://runescape.wikia.com/wiki/Crassian_Allegiance) and [Himiko's Vision](https://runescape.wikia.com/wiki/Himiko%27s_Vision) from bosses in the [Temple of Aminishi](https://runescape.wikia.com/wiki/Temple_of_Aminishi) in either normal or story mode.\n\nCrassian Allegiance is a book found by defeating [The Sanctum Guardian](https://runescape.wikia.com/wiki/The_Sanctum_Guardian) and Himiko's Vision is a book found by defeating [Masuta the Ascended](https://runescape.wikia.com/wiki/Masuta_the_Ascended). Both can be obtained in either normal or story mode, however the drop rate is higher in story mode.",
+            "thumbnail": {
+                "url": "https://i.imgur.com/Shmagnp.png"
+            },
+            "fields": [
+                {
+            "name": "Requirements:",
+            "value": "• Impressing the Locals Quest completion | [Runescape Wiki](https://runescape.wikia.com/wiki/Impressing_the_Locals)"
+                }
+            ],
+            "footer": {
+                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+                "text": "Runescore awarded: 20"
+            }
         }
 }
