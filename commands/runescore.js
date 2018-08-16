@@ -37,7 +37,10 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 
 	if (args[0].toLowerCase() == "all" && level >= 2) {
 		let i = 0, o = 0, x = keyList.length;
+		if (achName.includes("*")) category = achName.split(" * ")[1];
 		function list() {
+			const [cat, sub, ach] = keyList[o].split(" - ");
+			if (category && cat !== category) return;
 			const guide = data[keyList[o]];
 			guide.author.name = name;
 			guide.color = color;
