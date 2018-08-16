@@ -37,7 +37,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 
 	if (args[0].toLowerCase() == "all" && level >= 2) {
 		let i = 0, o = 0, x = keyList.length;
-		if (achName.includes("*")) category = achName.split(" * ")[1];
+		const category = args[1] ? args[1].toLowerCase() : undefined
 		function list() {
 			const [cat, sub, ach] = keyList[o].split(" - ");
 			if (category && cat !== category) return;
@@ -52,6 +52,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 				setTimeout(list, 2500);
 			}
 			if (o == x) message.reply(`**${i}**/\**${keyList.length}** responses listed.`);
+			}
 		}
 		list();
 		return message.delete();
