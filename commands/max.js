@@ -17,6 +17,52 @@ exports.run = async (client, message, [skill, ...args], level) => { // eslint-di
 	if (message.channel.id !== '429108140924076032' && level < "2") return;
 	if (args[0] == "-") return;
 	if (!skill) return message.channel.send(`Please specify a skill name.`);
+
+	const aliases = {
+		"agi": "agility",
+		"agil": "agility",
+		"atk": "attack",
+		"att": "attack",
+		"hp ": "constitution",
+		"con": "construction",
+		"cons": "construction",
+		"cook": "cooking",
+		"craft": "crafting",
+		"div": "divination",
+		"divi": "divination",
+		"def": "Defence",
+		"defense": "Defence",
+		"dg": "dungeoneering",
+		"dung": "dungeoneering",
+		"farm": "farming",
+		"fm": "firemaking",
+		"fish": "fishing",
+		"fletch": "fletching",
+		"herb": "herblore",
+		"herby": "herblore",
+		"hunt": "hunter",
+		"inv": "invention",
+		"invent": "invention",
+		"mage": "magic",
+		"mine": "mining",
+		"pray": "prayer",
+		"range": "ranged",
+		"rc": "runecrafting",
+		"slay": "slayer",
+		"smith": "smithing",
+		"str": "strength",
+		"sum": "summoning",
+		"summ": "summoning",
+		"summon": "summoning",
+		"thief": "thieving",
+		"thiev": "thievingi",
+		"thieve": "thieving",
+		"wc": "woodcutting",
+		"woodcut": "woodcutting"
+	}
+
+	if (aliases.includes(skill.toLowerCase())) skill = aliases[skill];
+
 	if (skill && !client.maxGuides.includes(skill.toLowerCase())) return message.channel.send(`**${skill.toProperCase()}** is not a valid skill name.`);
 	if (!args[0] && skill !== "help" && skill !== "all" && skill !== "universal") return message.channel.send(`Please specify options to search the **${skill.toProperCase()}** guides with.`);
 	const { data } = require(`../guides/maxGuides/${skill.toLowerCase()}.js`);
@@ -26,13 +72,66 @@ exports.run = async (client, message, [skill, ...args], level) => { // eslint-di
 	const name = "Max Cape Info";
 	const color = 12269891;
 	const footer = {
-    "icon_url": "https://i.imgur.com/KDhyn44.png",
     "text": "Let's unfurl those banners!"
   };
 
-  // switch (skill.toLowerCase()) {
-  //switch footer icon based on skill
-  // }
+  switch (skill.toProperCase()) {
+  	case 'Agility': footer["icon_url"] = "https://i.imgur.com/srP1pM6.png";
+			break;
+		case 'Attack': footer["icon_url"] = "https://i.imgur.com/gwpYsWu.png";
+			break;
+		case 'Constitution': footer["icon_url"] = "https://i.imgur.com/1mEzhB1.png";
+			break;
+		case 'Construction': footer["icon_url"] = "https://i.imgur.com/yh5fD3j.png";
+			break;
+		case 'Cooking': footer["icon_url"] = "https://i.imgur.com/KHb9eOf.png";
+			break;
+		case 'Crafting': footer["icon_url"] = "https://i.imgur.com/HwJUxAa.png";
+			break;
+		case 'Defence': footer["icon_url"] = "https://i.imgur.com/zYxUeSD.png";
+			break;
+		case 'Divination': footer["icon_url"] = "https://i.imgur.com/ElfPGQC.png";
+			break;
+		case 'Dungeoneering': footer["icon_url"] = "https://i.imgur.com/BNANPYA.png";
+			break;
+		case 'Farming': footer["icon_url"] = "https://i.imgur.com/0rtK7uL.png";
+			break;
+		case 'Firemaking': footer["icon_url"] = "https://i.imgur.com/HhLQMc0.png";
+			break;
+		case 'Fishing': footer["icon_url"] = "https://i.imgur.com/H9dO8mR.png";
+			break;
+		case 'Fletching': footer["icon_url"] = "https://i.imgur.com/6TXnmAF.png";
+			break;
+		case 'Herblore': footer["icon_url"] = "https://i.imgur.com/RGJHDBT.png";
+			break;
+		case 'Hunter': footer["icon_url"] = "https://i.imgur.com/rbucU6y.png";
+			break;
+		case 'Invention': footer["icon_url"] = "https://i.imgur.com/Wq4Y0T4.png";
+			break;
+		case 'Magic': footer["icon_url"] = "https://i.imgur.com/iOUr5uV.png";
+			break;
+		case 'Mining': footer["icon_url"] = "https://i.imgur.com/6VXKcwk.png";
+			break;
+		case 'Prayer': footer["icon_url"] = "https://i.imgur.com/HBi7Czz.png";
+			break;
+		case 'Ranged': footer["icon_url"] = "https://i.imgur.com/3eIUB5K.png";
+			break;
+		case 'Runecrafting': footer["icon_url"] = "https://i.imgur.com/kaiaImZ.png";
+			break;
+		case 'Slayer': footer["icon_url"] = "https://i.imgur.com/TCeBHKL.png";
+			break;
+		case 'Smithing': footer["icon_url"] = "https://i.imgur.com/mUJOyXX.png";
+			break;
+		case 'Strength': footer["icon_url"] = "https://i.imgur.com/6R7nOpZ.png";
+			break;
+		case 'Summoning': footer["icon_url"] = "https://i.imgur.com/my5cDbl.png";
+			break;
+		case 'Thieving': footer["icon_url"] = "https://i.imgur.com/my5cDbl.png";
+			break;
+		case 'Woodcutting': footer["icon_url"] = "https://i.imgur.com/FrBPOyS.png";
+			break;
+		default: footer["icon_url"] = "https://i.imgur.com/KDhyn44.png";
+  }
 
 	if (skill.toLowerCase() == "universal" && !args[0]) {
 		message.channel.send("", {embed: data[0]});
