@@ -62,8 +62,7 @@ exports.run = async (client, message, [skill, ...args], level) => { // eslint-di
 	}
 
 	if (Object.getOwnPropertyNames(aliases).includes(skill.toLowerCase())) skill = aliases[skill.toLowerCase()];
-	message.channel.send(skill);
-	message.channel.send(skill.toProperCase());
+
 	if (skill && !client.maxGuides.includes(skill.toLowerCase())) return message.channel.send(`**${skill.toProperCase()}** is not a valid skill name.`);
 	if (!args[0] && skill !== "help" && skill !== "all" && skill !== "universal") return message.channel.send(`Please specify options to search the **${skill.toProperCase()}** guides with.`);
 	const { data } = require(`../guides/maxGuides/${skill.toLowerCase()}.js`);
