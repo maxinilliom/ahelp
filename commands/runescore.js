@@ -62,7 +62,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 		let output = "";
 		let second = "";
 		let third = "";
-		const helpEmbed = data["help"].embed;
+		const helpEmbed = data["help"];
 		keyList.forEach(k => {
 			const [cat, sub, ach] = k.split(" - ");
 			if (output.length <= 2000) {
@@ -114,7 +114,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 	} else if (rtnArr.length > 1) {
 		let output = "";
 		let i = 1;
-		const searchEmbed = data["search"].embed;
+		const searchEmbed = data["search"];
 		rtnArr.forEach(n => {
 			output += `${i}: ${data[rtnArr[i-1]].title}\n`;
 			i++;

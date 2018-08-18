@@ -25,14 +25,23 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 	if (message.channel.id !== '407919969712603145' && level < 2) return;
 
 	Object.getOwnPropertyNames(data).forEach(k => {
-		if (data[k].cmds.includes("tt")) keyList.push(k);
+		if (k !== "help" && k !== "search") {
+			keyList.push(k);
+			const [cat, sub, ach] = k.split(" - ");
+			if (!data[k].title.includes(`(${cat.toProperCase()}, ${sub.toProperCase()})`)) {
+				data[k].title = `${data[k].title} (${cat.toProperCase()}, ${sub.toProperCase()})`;
+			}
+		}
 	});
-	if (!args[0]) return message.channel.send(`Please specify a valid achievement name.`);
+	if (!args[0]) return message.channel.send(`Please specify a valid guide name.`);
 
 	if (args[0].toLowerCase() == "all" && level >= 2) {
 		let i = 0, o = 0, x = keyList.length;
+		const category = args[1] ? args[1].toLowerCase() : undefined
 		function list() {
-			const guide = data[keyList[o]].embed;
+			const [cat, sub, ach] = keyList[o].split(" - ");
+			if (category && cat !== category) return;
+			const guide = data[keyList[o]];
 			guide.author.name = name;
 			guide.color = color;
 			guide.timestamp = new Date();
@@ -52,17 +61,17 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 		let output = "";
 		let second = "";
 		let third = "";
-		const helpEmbed = data["help"].embed;
+		const helpEmbed = data["help"];
 		keyList.forEach(k => {
 			if (output.length <= 2000) {
-				output += `• ${data[k].embed.title}\n`;
+				output += `• ${data[k].title}\n`;
 			} else if (second.length <= 2000) {
-				second += `• ${data[k].embed.title}\n`;
+				second += `• ${data[k].title}\n`;
 			} else {
-				third += `• ${data[k].embed.title}\n`;
+				third += `• ${data[k].title}\n`;
 			}
 		});
-		helpEmbed.title = "Comprehensive list of all valid True Trimmed achievement guides";
+		helpEmbed.title = "Comprehensive list of all valid True Trimmed guides";
 		helpEmbed.author.name = name;
 		helpEmbed.description = output;
 		helpEmbed.color = color;
@@ -81,8 +90,8 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 			await message.channel.send("", {embed: helpEmbed});
 		}
 		const helpMsg = message.channel.id == '382701090430386180'
-			? `To search for an achievement, use **.${exports.help.name}** <keyword>.`
-			: `To search for an achievement, use **.${exports.help.name}** <keyword> in the <#382701090430386180> channel.`
+			? `To search for a guide, use **.${exports.help.name}** <keyword>.`
+			: `To search for a guide, use **.${exports.help.name}** <keyword> in the <#382701090430386180> channel.`
 		message.channel.send(helpMsg);
 		return;
 	}
@@ -94,7 +103,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 	if (rtnArr.length == 0) {
 		return message.channel.send(`No results found for **${args.join(" ")}**.`);
 	} else if (rtnArr.length == 1) {
-		const guide = data[rtnArr[0]].embed;
+		const guide = data[rtnArr[0]];
 		guide.author.name = name;
 		guide.color = color;
 		guide.timestamp = new Date();
@@ -102,20 +111,20 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 	} else if (rtnArr.length > 1) {
 		let output = "";
 		let i = 1;
-		const searchEmbed = data["search"].embed;
+		const searchEmbed = data["search"];
 		rtnArr.forEach(n => {
-			output += `${i}: ${data[rtnArr[i-1]].embed.title}\n`;
+			output += `${i}: ${data[rtnArr[i-1]].title}\n`;
 			i++;
 		});
-		searchEmbed.title = "All True Trimmed achievement guides matching your search";
+		searchEmbed.title = "All True Trimmed guides matching your search";
 		searchEmbed.author.name = name;
 		searchEmbed.description = output;
 		searchEmbed.color = color;
 		searchEmbed.timestamp = new Date();
 		message.channel.send("", {embed: searchEmbed});
-		const response = await client.awaitReply(message, "Which achievement were you searching for? Please enter the corresponding number.");
+		const response = await client.awaitReply(message, "Which were you searching for? Please enter the corresponding number.");
 		if (isNaN(response) || response > rtnArr.length || response < 1) return message.channel.send("Invalid number specified, search cancelled.");
-		const choice = data[rtnArr[response-1]].embed;
+		const choice = data[rtnArr[response-1]];
 		choice.author.name = name;
 		choice.color = color;
 		choice.timestamp = new Date();
