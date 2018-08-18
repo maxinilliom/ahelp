@@ -52,7 +52,6 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 				setTimeout(list, 2500);
 			}
 			if (o == x) message.reply(`**${i}**/\**${keyList.length}** responses listed.`);
-			}
 		}
 		list();
 		return message.delete();
