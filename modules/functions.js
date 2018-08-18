@@ -96,7 +96,10 @@ module.exports = (client) => {
 	};
 
 String.prototype.toProperCase = function() {
-	return this.replace(/([^\W_]+[^\s-]*) */g, function(txt) {return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase();});
+	this.replace(/([^\W_]+[^\s-]*) */g, function(txt) {return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase();})
+	.replace(/pvm/gi, "PvM")
+	.replace(/dnds/gi, "Distrations & Diversions");
+	return this;
 };
 
 Array.prototype.random = function() {
