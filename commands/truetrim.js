@@ -28,6 +28,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 		if (k !== "help" && k !== "search") {
 			keyList.push(k);
 			const [cat, sub, ach] = k.split(" - ");
+			if (cat == "Dnds") cat = "D&Ds";
 			if (!data[k].title.includes(`(${cat.toProperCase()}, ${sub.toProperCase()})`)) {
 				data[k].title = `${data[k].title} (${cat.toProperCase()}, ${sub.toProperCase()})`;
 			}
