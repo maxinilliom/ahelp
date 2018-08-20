@@ -3393,7 +3393,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Fires Are Mostly Harmless](http://runescape.wikia.com/wiki/Fires_Are_Mostly_Harmless) is an achievement that requires the player to light the campfire on [Mos Le'Harmless](https://runescape.wikia.com/wiki/Mos_Le%27Harmless) (near [fairy ring](https://runescape.wikia.com/wiki/Fairy_ring) code **d•i•p**) using 8 [willow logs](https://runescape.wikia.com/wiki/Willow_logs) and finding the herb cache in the south-eastern section of the [Gu'Tanoth](https://runescape.wikia.com/wiki/Gu%27Tanoth) [Skavid caves](https://runescape.wikia.com/wiki/Skavid_caves) (fairy ring code **a•l•p**) after completion of [Fairy Tale III - Battle at Orks Rift](https://runescape.wikia.com/wiki/Fairy_Tale_III_-_Battle_at_Ork's_Rift).\n\nThe Skavid caves are a set of six caves around the ogre city of Gu'Tanoth. The caves are inhabited by the [Skavid](https://runescape.wikia.com/wiki/Skavid), a race of creatures enslaved by the [Ogres](https://runescape.wikia.com/wiki/Ogre).",
+			"description": "[Fires Are Mostly Harmless](http://runescape.wikia.com/wiki/Fires_Are_Mostly_Harmless) is an achievement that requires the player to:\n\n• Light the campfire on [Mos Le'Harmless](https://runescape.wikia.com/wiki/Mos_Le%27Harmless) (near [fairy ring](https://runescape.wikia.com/wiki/Fairy_ring) code **d•i•p**) using 8 [willow logs](https://runescape.wikia.com/wiki/Willow_logs)\n\n• Find the herb cache in the south-eastern section of the [Gu'Tanoth](https://runescape.wikia.com/wiki/Gu%27Tanoth) caves (fairy ring code **a•l•p**) after completion of [Fairy Tale III - Battle at Orks Rift](https://runescape.wikia.com/wiki/Fairy_Tale_III_-_Battle_at_Ork's_Rift).",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -3417,7 +3417,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[For the Love of Mabel](http://runescape.wikia.com/wiki/For_the_Love_of_Mabel) is an achievement that requires the player to return Mabel's ring to Mabel for Mabel's lamp, and chop down the Guard in tree for a 5,000 coin reward, after completion of Love Story.\n\nIf the ring is lost, Zenevivia will replace it. Zenevivia is located in the Wise Old Man's house.\n\nThe guard in tree (full name Darius 'Suave' Aniseed) is located in the tree with a Talk to tree option just west of the Draynor Village bank.",
+			"description": "[For the Love of Mabel](http://runescape.wikia.com/wiki/For_the_Love_of_Mabel) is an achievement that requires the player to:\n\n• Return [Mabel's ring](https://runescape.wikia.com/wiki/Mabel%27s_ring) to [Mabel](https://runescape.wikia.com/wiki/Mabel) for [Mabel's lamp](https://runescape.wikia.com/wiki/Mabel%27s_lamp)\n\n• Chop down the [Guard in tree](https://runescape.wikia.com/wiki/Guard_in_tree) for a 5,000 [coin](https://runescape.wikia.com/wiki/Coins) reward, after completion of [Love Story](https://runescape.wikia.com/wiki/Love_Story)\n\nIf the ring is lost, [Zenevivia](https://runescape.wikia.com/wiki/Zenevivia) will replace it. Zenevivia is located in the [Wise Old Man](https://runescape.wikia.com/wiki/Wise_Old_Man)'s house.\n\nThe guard in tree (full name Darius 'Suave' Aniseed) is located in the tree with a *Talk to tree* option just west of the [Draynor Village](https://runescape.wikia.com/wiki/Draynor_Village) bank.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -3441,11 +3441,15 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Forcae's Mettle](http://runescape.wikia.com/wiki/Forcae%27s_Mettle) is an achievement that requires the player to complete Forcae's journal by collecting ten pages that are dropped by Adamant and Rune dragons.\n\nThis should be completed in the Dragonkin Lair to help aid you towards the progression of the MQC requirement, \"Dragonkin Logs\".\n\nThe Dragonkin Lair is a lair found in the Ancient Cavern south of Kuradal. It is initially accessed with the dragon-mithril key.",
+			"description": "[Forcae's Mettle](http://runescape.wikia.com/wiki/Forcae%27s_Mettle) is an achievement that requires the player to complete [Forcae's journal](https://runescape.wikia.com/wiki/Forcae%27s_journal) by collecting ten [pages](https://runescape.wikia.com/wiki/Forcae%27s_journal_page) that are dropped by [Adamant](https://runescape.wikia.com/wiki/Adamant_dragon) and [Rune dragons](https://runescape.wikia.com/wiki/Rune_dragon).\n\nThis should be completed in the [Dragonkin Lair](https://runescape.wikia.com/wiki/Dragonkin_Lair) to help aid you towards the progression of the MQC requirement, \"[Dragonkin Logs](https://runescape.wikia.com/wiki/Dragonkin_Logs)\".\n\nThe Dragonkin Lair is a lair found in the [Ancient Cavern](http://runescape.wikia.com/wiki/Ancient_Cavern) south of [Kuradal](http://runescape.wikia.com/wiki/Kuradal). It is initially accessed with the [Dragon-mithril key](http://runescape.wikia.com/wiki/Dragon-mithril_key).\n\nThe dragon-mithril key is obtained by using a [mithril bar](https://runescape.wikia.com/wiki/Mithril_bar) on a mithril dragon with the [key mould](https://runescape.wikia.com/wiki/Key_mould_(Hero%27s_Welcome) in your inventory and without having a shield or potion effect equipped that protects against [dragonfire](https://runescape.wikia.com/wiki/Dragonfire).\n\nThe key mould is an item obtained by using [soft clay](https://runescape.wikia.com/wiki/Soft_clay) on the door in the Ancient Cavern.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
 			"fields": [
+				{
+					"name": "Strategy:",
+					"value": "Adamant dragons can use all three attack styles, as well as dragonfire. [Super antifires](https://runescape.wikia.com/wiki/Super_antifire) are highly recommended, with some form of dragonfire protection being needed. While in melee range it will not use its Ranged attack and while outside of melee range it will be unable to use melee. They will use Magic attacks in melee range. For this reason, it is suggested that:\n\n• If wearing Magic type armour, they should stay inside melee attack range (due to Magic armour being weak to Ranged type attacks)\n\n• If wearing Ranged type armour with [dragonbane ammunition](https://runescape.wikia.com/wiki/Bane_ammunition), they should stay outside melee attack range."
+				},
 				{
 					"name": "Requirements:",
 					"value": "None"
@@ -3465,11 +3469,31 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Fred's Shearings](http://runescape.wikia.com/wiki/Fred%27s_Shearings) is an achievement that requires the player to complete the Sheep Shearer miniquest, or talk to Fred the Farmer if the player has completed the quest before the reward was increased from 60 to 2,000 coins.",
+			"description": "[Fred's Shearings](http://runescape.wikia.com/wiki/Fred%27s_Shearings) is an achievement that requires the player to complete the [Sheep Shearer](https://runescape.wikia.com/wiki/Sheep_Shearer) miniquest, or talk to [Fred the Farmer](https://runescape.wikia.com/wiki/Fred_the_Farmer) if the player has completed the quest before the reward was increased from 60 to 2,000 [coins](https://runescape.wikia.com/wiki/Coins).",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
 			"fields": [
+				{
+                    "name": "Start Point:",
+                    "value": "• Speak to Fred the Farmer, found in his house in [Lumbridge](https://runescape.wikia.com/wiki/Lumbridge), found north of the [Combat Academy](https://runescape.wikia.com/wiki/Combat_Academy)"
+      			},
+        		{
+                    "name": "Official Difficulty:",
+                    "value": "• None"
+        		},
+        		{
+                    "name": "Official Length:",
+                    "value": "• Short"
+       			},
+        		{
+                    "name": "Items Required:",
+                    "value": "• 20 Balls of black wool (unnoted, can be obtained during the miniquest)"
+        		},
+        		{
+                    "name": "Enemies to Defeat:",
+                    "value": "• None, but watch out for [Rams](https://runescape.wikia.com/wiki/Ram)"
+        		},
 				{
 					"name": "Requirements:",
 					"value": "None"
@@ -3493,7 +3517,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Gift from Sliske](http://runescape.wikia.com/wiki/Gift_from_Sliske) is an achievement that requires the player to find Sliske at the Empyrean Citadel to get the permanent effect of the ring of visibility, and bring the Sixth-Age circuit to the Guthixian High Druid, who leads the mourning at the shrine in Guthix's Cave, to add the teleport to the World Gate to the ring after completion of Fate of the Gods.\n\nGuthix's Cave is a large cave located a short distance west of the Legends' Guild and east of the Ardougne Lodestone.\n\nRegardless of whether you finished Sliske's Endgame or not, Sliske can be found by entering the throne room in the Empyrean Citadel, walking to the middle of it and then walking away. Sliske will then appear on the stage and after a short dialogue, you will get the ability to always see into the Shadow Realm.",
+			"description": "[Gift from Sliske](http://runescape.wikia.com/wiki/Gift_from_Sliske) is an achievement that requires the player to:\n\n• Find [Sliske](https://runescape.wikia.com/wiki/Sliske) at the [Empyrean Citadel](https://runescape.wikia.com/wiki/Empyrean_Citadel) to get the permanent effect of the [ring of visibility](https://runescape.wikia.com/wiki/Ring_of_visibility)\n\n• Bring the [Sixth-Age circuit](https://runescape.wikia.com/wiki/Sixth-Age_circuit) to the [Guthixian High Druid](https://runescape.wikia.com/wiki/Guthixian_High_Druid), who leads the mourning at the shrine in [Guthix's Cave](https://runescape.wikia.com/wiki/Guthix%27s_Cave), to add the teleport to the [World Gate](https://runescape.wikia.com/wiki/World_Gate) to the ring after completion of [Fate of the Gods]()\n\nGuthix's Cave is a large cave located a short distance west of the [Legends' Guild](https://runescape.wikia.com/wiki/Legends%27_Guild) and east of the [Ardougne](https://runescape.wikia.com/wiki/Ardougne) [Lodestone](https://runescape.wikia.com/wiki/Lodestone_Network).\n\nRegardless of whether you finished [Sliske's Endgame](https://runescape.wikia.com/wiki/Fate_of_the_Gods) or not, Sliske can be found by entering the throne room in the Empyrean Citadel, walking to the middle of it and then walking away. Sliske will then appear on the stage and after a short dialogue, you will get the ability to always see into the [Shadow Realm](https://runescape.wikia.com/wiki/Shadow_Realm).",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -3517,7 +3541,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Goebie Relics](http://runescape.wikia.com/wiki/Goebie_Relics) is an achievement that requires the player to find all five stone fragments scattered around Mazcab and handing them in at the ancient statue.\n\n• The first stone fragment is found on the north wall of the graveyard on Mazcab\n• The second stone fragment is found southeast of the Ancient statue on Mazcab\n• The third stone fragment is found at the entrance of the Nemi Forest at the west of the Goebie graveyard near the Ranger\n• The fourth stone fragment is found in north-west Otot, north-west of Quercy\n• The fifth stone fragment is found north-east of the Kanatah camp",
+			"description": "[Goebie Relics](http://runescape.wikia.com/wiki/Goebie_Relics) is an achievement that requires the player to find all five [stone fragments](https://runescape.wikia.com/wiki/Stone_fragment) scattered around [Mazcab](https://runescape.wikia.com/wiki/Mazcab) and handing them in at the [ancient statue](https://runescape.wikia.com/wiki/Ancient_statue).\n\n• The [first stone fragment](https://runescape.wikia.com/wiki/First_stone_fragment) is found on the north wall of the [Goebie](https://runescape.wikia.com/wiki/Goebie) [graveyard](https://runescape.wikia.com/wiki/Graveyard_(Mazcab) on Mazcab\n\n• The [second stone fragment](https://runescape.wikia.com/wiki/Second_stone_fragment) is found southeast of the Ancient statue on Mazcab\n\n• The [third stone fragment](https://runescape.wikia.com/wiki/Third_stone_fragment) is found at the entrance of the [Nemi Forest](https://runescape.wikia.com/wiki/Nemi_Forest) at the west of the graveyard, near the [Ranger](https://www.runehq.com/person/goebie-ranger)\n\n• The [fourth stone fragment](https://runescape.wikia.com/wiki/Fourth_stone_fragment) is found in north-west [Otot](https://runescape.wikia.com/wiki/Otot), north-west of [Quercy](https://runescape.wikia.com/wiki/Quercy)\n\n• The [fifth stone fragment](https://runescape.wikia.com/wiki/Fifth_stone_fragment) is found north-east of the [Kanatah camp](https://runescape.wikia.com/wiki/Kanatah)",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -3541,7 +3565,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Got a Vyre Reputation](http://runescape.wikia.com/wiki/Got_a_Vyre_Reputation) is an achievement that requires the player to complete all tasks in Darkmeyer to achieve maximum reputation and unlock the Vyrelord/Vyrelady title during or after The Branches of Darkmeyer.\n\nTo earn repuation after fully completing the quest, go into the caged area west of Vanstrom's mansion with the Darkmeyer Disguise equipped and kill the captives.",
+			"description": "[Got a Vyre Reputation](http://runescape.wikia.com/wiki/Got_a_Vyre_Reputation) is an achievement that requires the player to complete all tasks in [Darkmeyer](https://runescape.wikia.com/wiki/Darkmeyer) to achieve maximum reputation and unlock the [Vyrelord/Vyrelady](https://runescape.wikia.com/wiki/Vyrelord/Vyrelady) title during or after [The Branches of Darkmeyer](https://runescape.wikia.com/wiki/The_Branches_of_Darkmeyer).\n\nTo earn repuation after fully completing the quest, go into the caged area west of [Vanstrom](https://runescape.wikia.com/wiki/Vanstrom_Klause)'s mansion with the [Darkmeyer Disguise](https://runescape.wikia.com/wiki/Darkmeyer_disguise) equipped and kill the [Meiyerditch citizens](https://runescape.wikia.com/wiki/Meiyerditch_citizen).",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -3565,7 +3589,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Grondabans' legacy](http://runescape.wikia.com/wiki/Grondabans'_legacy) is an achievement that requires the player to pick up the Grondaban's stalker notes lore book near the portal in the north of the stalker dungeon.\n\nThe dungeon is only accessible by entering the western door of Zamorak's hideout, which in turn is only accessible using the communication device obtained during Dishonour among Thieves. The device can be reclaimed from Moldark in Edgeville if lost.",
+			"description": "[Grondabans' legacy](http://runescape.wikia.com/wiki/Grondabans'_legacy) is an achievement that requires the player to pick up the [Grondaban's stalker notes](https://runescape.wikia.com/wiki/Grondaban%27s_stalker_notes) lore book near the portal in the north of the [stalker dungeon](https://runescape.wikia.com/wiki/Stalker_dungeon).\n\nThe dungeon is only accessible by entering the western door of [Zamorak's hideout](https://runescape.wikia.com/wiki/Zamorak%27s_hideout) in [Daemonheim](https://runescape.wikia.com/wiki/Daemonheim), located behind the western door in the hideout. This area is only accessible using the [communication device](https://runescape.wikia.com/wiki/Communication_device) obtained during [Dishonour among Thieves](https://runescape.wikia.com/wiki/Dishonour_among_Thieves). The device can be reclaimed from [Moldark](https://runescape.wikia.com/wiki/Moldark,_Emissary_of_Zamorak) in [Edgeville](https://runescape.wikia.com/wiki/Edgeville) if lost.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -3589,7 +3613,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Gunning for Jewellery](http://runescape.wikia.com/wiki/Gunning_for_Jewellery) is an achievement that requires the player to pick up the Grondaban's stalker notes lore book near the portal in the north of the stalker dungeon.\n\nThe dungeon is only accessible by entering the western door of Zamorak's hideout, which in turn is only accessible using the communication device obtained during Dishonour among Thieves. The device can be reclaimed from Moldark in Edgeville if lost.",
+			"description": "[Gunning for Jewellery](http://runescape.wikia.com/wiki/Gunning_for_Jewellery) is an achievement that requires the player to engrave all of [Dororan](https://runescape.wikia.com/wiki/Dororan)'s jewellery after the completion of [Gunnar's Ground](https://runescape.wikia.com/wiki/Gunnar%27s_Ground).\n\nAfter the quest, you can go to what used to be [Juliet's house](https://vignette.wikia.nocookie.net/runescape2/images/e/ed/Dororan_%28after%29_location.png/revision/latest?cb=20141208030437), near the [Cook's Guild](https://runescape.wikia.com/wiki/Cooks%27_Guild), and Dororan is now living there with [Gudrun](https://runescape.wikia.com/wiki/Gudrun). You can talk to Dororan and ask for additional tasks to engrave jewellery for him.\n\nThe jewellery to be engraved are:\n\n• [Ruby bracelet](https://runescape.wikia.com/wiki/Ruby_bracelet)\n• [Dragon necklace](https://runescape.wikia.com/wiki/Dragon_necklace)\n• [Onyx amulet](https://runescape.wikia.com/wiki/Onyx_amulet)",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -3613,7 +3637,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Guthix and the Chamber of Secrets](http://runescape.wikia.com/wiki/Guthix_and_the_Chamber_of_Secrets) is an achievement that requires the player to learn about Guthix's core memories in the [Hall of Memories](http://runescape.wikia.com/wiki/Hall_of_Memories).\n\nThis can be done filling all the related [Memory-storage bots](http://runescape.wikia.com/wiki/Memory-storage_bot_(disambiguation%29) and then reading the memories at [The Archivist](http://runescape.wikia.com/wiki/The_Archivist).\n\nAlternatively it can be completed by catching [Core memory fragments](http://runescape.wikia.com/wiki/Core_memory_fragment) which may spawn randomly in the Hall and then placing them on the six plinths in the Hall. If all 6 plinths are filled out, the memory bud in the centre of the Hall will open into a core memory, and all players will be able to inspect it to read the corresponding core memory to tick it off the list.",
+			"description": "[Guthix and the Chamber of Secrets](http://runescape.wikia.com/wiki/Guthix_and_the_Chamber_of_Secrets) is an achievement that requires the player to learn about [Guthix](https://runescape.wikia.com/wiki/Guthix)'s core memories in the [Hall of Memories](http://runescape.wikia.com/wiki/Hall_of_Memories).\n\nThis can be done filling all the related [Memory-storage bots](http://runescape.wikia.com/wiki/Memory-storage_bot_(disambiguation%29) and then reading the memories at [The Archivist](http://runescape.wikia.com/wiki/The_Archivist).\n\nAlternatively, it can be completed by catching [Core memory fragments](http://runescape.wikia.com/wiki/Core_memory_fragment), which may spawn randomly in the Hall and then placing them on the six [plinths](https://runescape.wikia.com/wiki/Plinth) in the Hall. If all 6 plinths are filled out, the [memory bud](https://runescape.wikia.com/wiki/Memory_bud) in the center of the Hall will open into a core memory, and all players will be able to inspect it to read the corresponding core memory to tick it off the list.\n\nPlinths can be found in north-east and north-western parts of the Hall of Memories.\n\nThe core memories are:\n• [Aagi](https://runescape.wikia.com/wiki/Aagi)\n• [Seren](https://runescape.wikia.com/wiki/Seren)\n• [Juna](https://runescape.wikia.com/wiki/Juna)\n• [Sword of Edicts](https://runescape.wikia.com/wiki/Sword_of_Edicts)\n• [Cres](https://runescape.wikia.com/wiki/Cres)",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -3669,7 +3693,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Haul Comes to Templeton](http://runescape.wikia.com/wiki/Haul_Comes_to_Templeton) is an achievement that requires the player to complete a job for Simon Templeton to unlock the ability to trade noted artefacts.\n\nSimon Templeton is an unscrupulous archaeologist and treasure hunter infamous for his tomb raiding. He is located near the stairs up to the Agility Pyramid, situated between Nardah and Sophanem. A quick way to reach him is to teleport to Jaleustrophos using the Pharaoh's sceptre.",
+			"description": "[Haul Comes to Templeton](http://runescape.wikia.com/wiki/Haul_Comes_to_Templeton) is an achievement that requires the player to complete a job for [Simon Templeton](https://runescape.wikia.com/wiki/Simon_Templeton) to unlock the ability to trade noted artefacts.\n\nSimon Templeton is an unscrupulous archaeologist and treasure hunter infamous for his tomb raiding. He is located near the stairs up to the [Agility Pyramid](https://runescape.wikia.com/wiki/Agility_Pyramid), situated between [Nardah](https://runescape.wikia.com/wiki/Nardah) and [Sophanem](https://runescape.wikia.com/wiki/Sophanem). A quick way to reach him is to teleport to **Jaleustrophos** using the [Pharaoh's sceptre](https://runescape.wikia.com/wiki/Pharaoh%27s_sceptre).",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -3717,7 +3741,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Herbi's Flax](http://runescape.wikia.com/wiki/Herbi%27s_Flax) is an achievement that requires the player to give Herbi Flax's diary to the Varrock apothecary. Ingald Belger the apothecary is a man who runs an Apothecary in southwest Varrock.\n\nThe Diary of Herbi Flax is found on the shelves in a ruined house towards the south-west side of Mort'ton during the Shades of Mort'ton quest. It can also be found in the bookcase in your house or on the same shelf of the same Mort'ton house during the Temple Trekking shades event.\n\nIt should be noted, however, that taking part in the Temple Trekking event is not needed to obtain this book. If the player runs north of Burgh de Rott after hopping over the gate it can be found on the shelf in the first ruined house with vials on the floor.",
+			"description": "[Herbi's Flax](http://runescape.wikia.com/wiki/Herbi%27s_Flax) is an achievement that requires the player to give [Herbi Flax's diary](https://runescape.wikia.com/wiki/Diary_(Shades_of_Mort%27ton) to the [Varrock](https://runescape.wikia.com/wiki/Varrock) [apothecary](https://runescape.wikia.com/wiki/Apothecary). Ingald Belger the apothecary is the man who runs an Apothecary in southwest Varrock.\n\nThe Diary of Herbi Flax is found on the shelves in a ruined house towards the south-west side of [Mort'ton](https://runescape.wikia.com/wiki/Mort%27ton) during the [Shades of Mort'ton](https://runescape.wikia.com/wiki/Shades_of_Mort%27ton) quest. It can also be found in the [bookcase](https://runescape.wikia.com/wiki/Bookcase) in your [house](https://runescape.wikia.com/wiki/Player-owned_house) or on the same shelf of the same Mort'ton house during the [Temple Trekking](https://runescape.wikia.com/wiki/Temple_Trekking) shades [event](https://runescape.wikia.com/wiki/Temple_Trekking#Events).\n\nIt should be noted, however, that taking part in the Temple Trekking event is not needed to obtain this book. If the player runs north of [Burgh de Rott](https://runescape.wikia.com/wiki/Burgh_de_Rott) after hopping over the gate it can be found on the shelf in the first ruined house with [vials](https://runescape.wikia.com/wiki/Vial) on the floor.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -3741,7 +3765,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Here Was a Scabaras Mask](http://runescape.wikia.com/wiki/Here_Was_a_Scabaras_Mask) is an achievement that requires the player to mine a crack in the room under the quicksand encountered during Diamond in the Rough to gain access to a treasure room containing the Scabaras mask and the Was.\n\nTo reach the fissure room, go down the well (north-west of the Kalphite Lair, fairy ring code **B-I-Q**) and go in the tunnel in the east wall of the Kalphite nursery. Then go through the tunnel all the way to the other side and enter.",
+			"description": "[Here Was a Scabaras Mask](http://runescape.wikia.com/wiki/Here_Was_a_Scabaras_Mask) is an achievement that requires the player to mine a crack in the room under the quicksand encountered during [Diamond in the Rough](https://runescape.wikia.com/wiki/Diamond_in_the_Rough) to gain access to a treasure room containing the [Scabaras mask](https://runescape.wikia.com/wiki/Scabaras_mask) and the [Was](https://runescape.wikia.com/wiki/Was).\n\nTo reach the fissure room, go down the well (north-west of the Kalphite Lair, fairy ring code **b•i•q**) and go in the tunnel in the east wall of the [Kalphite nursery](https://runescape.wikia.com/wiki/Kalphite_Nursery). From here, take the tunnel to the east, then enter the room that you fell into during the quest (go all the way east to enter the room). There is a crack in the floor you can mine, which will open a fissure. The items will be in the room behind the fissure.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -3765,11 +3789,35 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[History of Bilrach](http://runescape.wikia.com/wiki/History_of_Bilrach) is a meta-achievement that requires the player to collect all thirty Chronicles of Bilrach (also known as mysterious chronicles) in Daemonheim. Every mysterious chronicle has a 1/4 chance of spawning at the end of a Dungeoneering floor.\n\n**Chronicle locations**:\n• Mysterious chronicle (part 1): floor 1-2\n• Mysterious chronicle (part 2): floor 3-4\n• Mysterious chronicle (part 3): floor 5-6\n• Mysterious chronicle (part 4): floor 7-8\n• Mysterious chronicle (part 5): floor 9-10\n• Mysterious chronicle (part 6): floor 11-12\n• Mysterious chronicle (part 7): floor 13-14\n• Mysterious chronicle (part 8): floor 15-16\n• Mysterious chronicle (part 9): floor 17-18\n• Mysterious chronicle (part 10): floor 19-20\n• Mysterious chronicle (part 11): floor 21-22\n• Mysterious chronicle (part 12): floor 23-24\n• Mysterious chronicle (part 13): floor 25-26\n• Mysterious chronicle (part 14): floor 27-28\n• Mysterious chronicle (part 15): floor 29-30\n• Mysterious chronicle (part 16): floor 31-32\n• Mysterious chronicle (part 17): floor 33-34\n• Mysterious chronicle (part 18): floor 35-36\n• Mysterious chronicle (part 19): floor 37-38\n• Mysterious chronicle (part 20): floor 39-40\n• Mysterious chronicle (part 21): floor 41-42\n• Mysterious chronicle (part 22): floor 43-44\n• Mysterious chronicle (part 23): floor 45-46\n• Mysterious chronicle (part 24): floor 47-48\n• Mysterious chronicle (part 25): floor 49-50\n• Mysterious chronicle (part 26): floor 51-52\n• Mysterious chronicle (part 27): floor 53-54\n• Mysterious chronicle (part 28): floor 55-56\n• Mysterious chronicle (part 29): floor 57-58\n• Mysterious chronicle (part 30): floor 59-60)",
+			"description": "[History of Bilrach](http://runescape.wikia.com/wiki/History_of_Bilrach) is a meta-achievement that requires the player to collect all thirty [Chronicles of Bilrach](https://runescape.wikia.com/wiki/Chronicles_of_Bilrach) (also known as mysterious chronicles) in [Daemonheim](https://runescape.wikia.com/wiki/Daemonheim). Every mysterious chronicle has a 1/4 chance of spawning at the end of a Dungeoneering [floor](https://runescape.wikia.com/wiki/Dungeoneering#Floors).",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
 			"fields": [
+				{
+					"name": "Chronicle locations:",
+					"value": "\n• [Mysterious chronicle (part 1)](https://runescape.wikia.com/wiki/Mysterious_chronicle_(part_1): floor 1-2\n• [Mysterious chronicle (part 2)](https://runescape.wikia.com/wiki/Mysterious_chronicle_(part_2): floor 3-4\n• [Mysterious chronicle (part 3)](https://runescape.wikia.com/wiki/Mysterious_chronicle_(part_3): floor 5-6\n• [Mysterious chronicle (part 4)](https://runescape.wikia.com/wiki/Mysterious_chronicle_(part_4): floor 7-8\n• [Mysterious chronicle (part 5)](https://runescape.wikia.com/wiki/Mysterious_chronicle_(part_5): floor 9-10"
+				},
+				{
+					"name": "​",
+					"value": "• [Mysterious chronicle (part 6)](https://runescape.wikia.com/wiki/Mysterious_chronicle_(part_6): floor 11-12\n• [Mysterious chronicle (part 7)](https://runescape.wikia.com/wiki/Mysterious_chronicle_(part_7): floor 13-14\n• [Mysterious chronicle (part 8)](https://runescape.wikia.com/wiki/Mysterious_chronicle_(part_8): floor 15-16\n• [Mysterious chronicle (part 9)](https://runescape.wikia.com/wiki/Mysterious_chronicle_(part_9): floor 17-18\n• [Mysterious chronicle (part 10)](https://runescape.wikia.com/wiki/Mysterious_chronicle_(part_10): floor 19-20"
+				},
+				{
+					"name": "​",
+					"value": "• [Mysterious chronicle (part 11)](https://runescape.wikia.com/wiki/Mysterious_chronicle_(part_11): floor 21-22\n• [Mysterious chronicle (part 12)](https://runescape.wikia.com/wiki/Mysterious_chronicle_(part_12): floor 23-24\n• [Mysterious chronicle (part 13)](https://runescape.wikia.com/wiki/Mysterious_chronicle_(part_13): floor 25-26\n• [Mysterious chronicle (part 14)](https://runescape.wikia.com/wiki/Mysterious_chronicle_(part_14): floor 27-28\n• [Mysterious chronicle (part 15)](https://runescape.wikia.com/wiki/Mysterious_chronicle_(part_15): floor 29-30"
+				},
+				{
+					"name": "​",
+					"value": "• [Mysterious chronicle (part 16)](https://runescape.wikia.com/wiki/Mysterious_chronicle_(part_16): floor 31-32\n• [Mysterious chronicle (part 17)](https://runescape.wikia.com/wiki/Mysterious_chronicle_(part_17): floor 33-34\n• [Mysterious chronicle (part 18)](https://runescape.wikia.com/wiki/Mysterious_chronicle_(part_18): floor 35-36\n• [Mysterious chronicle (part 19)](https://runescape.wikia.com/wiki/Mysterious_chronicle_(part_19): floor 37-38\n• [Mysterious chronicle (part 20)](https://runescape.wikia.com/wiki/Mysterious_chronicle_(part_20): floor 39-40"
+				},
+				{
+					"name": "​",
+					"value": "• [Mysterious chronicle (part 21)](https://runescape.wikia.com/wiki/Mysterious_chronicle_(part_21): floor 41-42\n• [Mysterious chronicle (part 22)](https://runescape.wikia.com/wiki/Mysterious_chronicle_(part_22): floor 43-44\n• [Mysterious chronicle (part 23)](https://runescape.wikia.com/wiki/Mysterious_chronicle_(part_23): floor 45-46\n• [Mysterious chronicle (part 24)](https://runescape.wikia.com/wiki/Mysterious_chronicle_(part_24): floor 47-48\n• [Mysterious chronicle (part 25)](https://runescape.wikia.com/wiki/Mysterious_chronicle_(part_25): floor 49-50"
+				},
+				{
+					"name": "​",
+					"value": "• [Mysterious chronicle (part 26)](https://runescape.wikia.com/wiki/Mysterious_chronicle_(part_26): floor 51-52\n• [Mysterious chronicle (part 27)](https://runescape.wikia.com/wiki/Mysterious_chronicle_(part_27): floor 53-54\n• [Mysterious chronicle (part 28)](https://runescape.wikia.com/wiki/Mysterious_chronicle_(part_281): floor 55-56\n• [Mysterious chronicle (part 29)](https://runescape.wikia.com/wiki/Mysterious_chronicle_(part_29): floor 57-58\n• [Mysterious chronicle (part 30)](https://runescape.wikia.com/wiki/Mysterious_chronicle_(part_30): floor 59-60"
+				},
 				{
 					"name": "Requirements:",
 					"value": "• 119 Dungeoneering"
@@ -3789,7 +3837,7 @@ exports.data = {
                 "name": "Cape Info",
                 "icon_url": "https://i.imgur.com/6c6q2iC.png"
             },
-            "description": "[How Many Games?](https://runescape.wikia.com/wiki/How_Many_Games%3F) an achievement that requires the player to purchase a full set of [Profound decorative equipment]( https://runescape.wikia.com/wiki/Profound_decorative_equipment) and show it to [Lanthus]( https://runescape.wikia.com/wiki/Lanthus). Profound equipment can be purchased using [Gold Castle Wars tickets]( https://runescape.wikia.com/wiki/Castle_wars_ticket_(gold), [Thaler]( https://runescape.wikia.com/wiki/Thaler), or a mixture of both.\n\nThis is one of the most time-consuming achievements in the game, taking up to 795 hours to complete by playing only [Spotlighted minigames]( https://calendar.google.com/calendar/embed?src=42brp3b48aumm199hord137gh0@group.calendar.google.com) or playing 20 minute Castle Wars games with a 100% win rate (accounting for the 3 minute wait time between games). Even using the fastest methods, playing on spotlight and/or Minigames Weekend, and using Castle wars token enhancers, it will take at least 300 hours to complete. It is generally considered to be the longest and most onerous requirement for the trimmed completionist cape. However, using only Thaler, this achievement can be completed without playing a single game of Castle Wars.\n\n**It is highly advised to do this with a Castle Wars or Thaler Service.**\n• You may find a Castle Wars community at [this discord](https://discord.gg/hzvwrvX) or at friend-chat `Cwar United`. You can fill out the application for the friends chat [here](http://services.runescape.com/m=forum/c=9s7nqZXGY8Y/forums.ws?75,76,32,66000897).\n• You may find an AFK Thaler community in this server. Users can tag the <@&446729279149965315> role if Barbarian Assault, Conquest, Fist of Guthix, Great Orb Project, Heist, Mobilising Armies, Pest Control, Soul Wars, Stealing Creation, or Trouble Brewing minigames are on spotlight in order to find teams. You may join this role by reacting to the 🇻 emoji on the third to last message in the <#418298983002275851> channel.",
+            "description": "[How Many Games?](https://runescape.wikia.com/wiki/How_Many_Games%3F) an achievement that requires the player to purchase a full set of [Profound decorative equipment]( https://runescape.wikia.com/wiki/Profound_decorative_equipment) and show it to [Lanthus]( https://runescape.wikia.com/wiki/Lanthus). Profound equipment can be purchased using [Gold Castle Wars tickets]( https://runescape.wikia.com/wiki/Castle_wars_ticket_(gold), [Thaler]( https://runescape.wikia.com/wiki/Thaler), or a mixture of both.\n\nThis is one of the most time-consuming achievements in the game, taking up to 795 hours to complete by playing only [Spotlighted minigames]( https://calendar.google.com/calendar/embed?src=42brp3b48aumm199hord137gh0@group.calendar.google.com) or playing 20 minute Castle Wars games with a 100% win rate (accounting for the 3 minute wait time between games). Even using the fastest methods, playing on spotlight and/or Minigames Weekend, and using Castle wars token enhancers, it will take at least 300 hours to complete. It is generally considered to be the longest and most onerous requirement for the trimmed completionist cape. However, using only Thaler, this achievement can be completed without playing a single game of Castle Wars.\n\n**It is highly advised to do this with a Castle Wars or Thaler community.**\n• You may find a Castle Wars community at [this discord](https://discord.gg/hzvwrvX) or at friend-chat `Cwar United`. You can fill out the application for the friends chat [here](http://services.runescape.com/m=forum/c=9s7nqZXGY8Y/forums.ws?75,76,32,66000897).\n• You may find an AFK Thaler community in this server. Users can tag the <@&446729279149965315> role if Barbarian Assault, Conquest, Fist of Guthix, Great Orb Project, Heist, Mobilising Armies, Pest Control, Soul Wars, Stealing Creation, or Trouble Brewing minigames are on spotlight in order to find teams. You may join this role by reacting to the 🇻 emoji on the third to last message in the <#418298983002275851> channel.",
             "thumbnail": {
                 "url": "https://i.imgur.com/Shmagnp.png"
             },
@@ -3805,6 +3853,30 @@ exports.data = {
             }
         }
 	},
+	"i'm forever washing shadows": {
+		"cmds": ["comp", "mqc"],
+		"embed": {
+			"title": "I'm Forever Washing Shadows",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[I'm Forever Washing Shadows](http://runescape.wikia.com/wiki/I%27m_Forever_Washing_Shadows) is an achievement that requires the player to obtain the [Divination XP lamp](https://runescape.wikia.com/wiki/Divination_XP_lamp) from [Lord Amlodd](https://runescape.wikia.com/wiki/Lord_Amlodd) by cleansing 15 of each [blissful](https://runescape.wikia.com/wiki/Blissful_shadow_core), [truthful](https://runescape.wikia.com/wiki/Truthful_shadow_core) and [manifest shadow cores](https://runescape.wikia.com/wiki/Manifest_shadow_core) that have been manually picked up by the player after killing the appropriate [shadow creature](https://runescape.wikia.com/wiki/Shadow_creature).\n\nPrior shadow cores stored in the bank pre-update will not count towards the achievement. Do not use a [legendary pet](https://runescape.wikia.com/wiki/Category:Legendary_pets) to pick up the cores, as those cores will not count toward the 15 required.\n\n Boosts can be used to receive this lamp and complete the achievement.\n\n This achievement has no progress indicator, so it is recommended to keep the cores in the bank to determine which cores are left to do.\n\nWhen the player can claim the lamp and complete the achievement, they will receive the chat message \"You've collected enough of a variety of shadow cores that Lord Amlodd would like to reward you.\"\n\nThe title of this task is misleading, players do not have to cleanse the cores.\n\nPlayers may need to talk to Lord Amlodd before the achievement will complete, asking about \"Amlodd Skills\". If players have already picked up 15 of each core before talking to Lord Amlodd, they may need to get 1 more core as a drop to force the achievement to complete.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• 91 Divination\n\n• Plague's End Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Plague%27s_End)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 10"
+			}
+		}
+	},
 	"i can see for miles and miles": {
 		"cmds": ["mqc"],
 		"embed": {
@@ -3813,14 +3885,18 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[I Can See For Miles and Miles](http://runescape.wikia.com/wiki/I_Can_See_For_Miles_and_Miles) is an achievement that requires the player to unlock all beacon keepers and fully unlock the beacon map by providing the keepers with macaw pouches.\n\nIn total, there are 14 beacons in the beacon network, with each beacon requiring 20 un-noted logs of your choice to light.",
+			"description": "[I Can See For Miles and Miles](http://runescape.wikia.com/wiki/I_Can_See_For_Miles_and_Miles) is an achievement that requires the player to unlock all [beacon keepers](https://runescape.wikia.com/wiki/Beacon_keeper) and fully unlock the beacon map by providing the keepers with [macaw pouches](https://runescape.wikia.com/wiki/Macaw_pouch).\n\nIn total, there are 14 beacons in the beacon network, with each beacon requiring 20 un-noted [logs](https://runescape.wikia.com/wiki/Log_(disambiguation) of your choice to light. Players will also need a [White tree fruit](https://runescape.wikia.com/wiki/White_tree_fruit), a [Davy kebbit hat](https://runescape.wikia.com/wiki/Davy_kebbit_hat), and a raw and cook [lava eel](https://runescape.wikia.com/wiki/Raw_lava_eel) to complete this achievement.\n\nRaw lava eels may be caught using an [oily fishing rod](https://runescape.wikia.com/wiki/Oily_fishing_rod) and [bait](https://runescape.wikia.com/wiki/Fishing_bait) in the lava rivers found in [Taverley Dungeon](https://runescape.wikia.com/wiki/Taverley_Dungeon) or in the [Wilderness](https://runescape.wikia.com/wiki/Wilderness) [Lava Maze](https://runescape.wikia.com/wiki/Lava_Maze).\n\nA Davy kebbit hat is an item of clothing that players can purchase from other players or have made for them in [Oo'glog](https://runescape.wikia.com/wiki/Oo%27glog). White tree fruits can be picked from the last remaining [White Tree](https://runescape.wikia.com/wiki/White_Tree) in the east garden of [Varrock Palace](https://runescape.wikia.com/wiki/Varrock_Palace).",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
 			"fields": [
 				{
 					"name": "Requirements:",
-					"value": "• 92 Firemaking\n• 42 Construction\n• 56 Smithing\n• 70 Smithing **or** 59 Construction\n• 60 Crafting\n• 64 Agility\n• 31 Prayer\n• 60 Strength\n\n• All Fired Up Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/All_Fired_Up)\n• Land of the Goblins Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Land_of_the_Goblins)\n• Troll Stronghold Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Troll_Stronghold)\n\n• Climbing Boots or Rock Climbing Boots (if not using Trollheim teleport)"
+					"value": "• 70 Smithing\n• 59 Construction\n• 60 Crafting\n• 64 Agility\n• 53 Prayer\n• 81 Summoning\n\n• Completed all four levels of the [Stronghold of Security](https://runescape.wikia.com/wiki/Stronghold_of_Security)\n\n• [Climbing Boots](https://runescape.wikia.com/wiki/Climbing_boots) or [Rock Climbing Boots](https://runescape.wikia.com/wiki/Rock_climbing_boots) (if not using Trollheim teleport)\n• A [Catspeak amulet](https://runescape.wikia.com/wiki/Catspeak_amulet)"
+				},
+				{
+					"name": "Requirements:",
+					"value": "• All Fired Up Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/All_Fired_Up)\n• Land of the Goblins Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Land_of_the_Goblins)\n• Troll Stronghold Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Troll_Stronghold)\n• Family Crest Quest completion | [Runescape Wiki](https://runescape.wikia.com/wiki/Family_Crest)\n• Garden of Tranquillity Quest completion | [Runescape Wiki](https://runescape.wikia.com/wiki/Garden_of_Tranquillity)\n• A Tail of Two Cats Quest completion | [Runescape Wiki](https://runescape.wikia.com/wiki/A_Tail_of_Two_Cats)\n• Heroes' Quest Quest completion | [Runescape Wiki](https://runescape.wikia.com/wiki/Heroes%27_Quest)\n• Troll Romance Quest completion | [Runescape Wiki](https://runescape.wikia.com/wiki/Troll_Romance)\n• My Arm's Big Adventure Quest completion | [Runescape Wiki](https://runescape.wikia.com/wiki/My_Arm%27s_Big_Adventure)"
 				},
 				{
 					"name": "Guide:",
@@ -3902,30 +3978,6 @@ exports.data = {
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 20"
-			}
-		}
-	},
-	"i'm forever washing shadows": {
-		"cmds": ["comp", "mqc"],
-		"embed": {
-			"title": "I'm Forever Washing Shadows",
-			"author": {
-				"name": "Cape Info",
-				"icon_url": "https://i.imgur.com/6c6q2iC.png"
-			},
-			"description": "[I'm Forever Washing Shadows](http://runescape.wikia.com/wiki/I%27m_Forever_Washing_Shadows) is an achievement that requires the player to obtain the [Divination XP lamp](https://runescape.wikia.com/wiki/Divination_XP_lamp) from [Lord Amlodd](https://runescape.wikia.com/wiki/Lord_Amlodd) by cleansing 15 of each [blissful](https://runescape.wikia.com/wiki/Blissful_shadow_core), [truthful](https://runescape.wikia.com/wiki/Truthful_shadow_core) and [manifest shadow cores](https://runescape.wikia.com/wiki/Manifest_shadow_core) that have been manually picked up by the player after killing the appropriate [shadow creature](https://runescape.wikia.com/wiki/Shadow_creature).\n\nPrior shadow cores stored in the bank pre-update will not count towards the achievement. Do not use a [legendary pet](https://runescape.wikia.com/wiki/Category:Legendary_pets) to pick up the cores, as those cores will not count toward the 15 required.\n\n Boosts can be used to receive this lamp and complete the achievement.\n\n This achievement has no progress indicator, so it is recommended to keep the cores in the bank to determine which cores are left to do.\n\nWhen the player can claim the lamp and complete the achievement, they will receive the chat message \"You've collected enough of a variety of shadow cores that Lord Amlodd would like to reward you.\"\n\nThe title of this task is misleading, players do not have to cleanse the cores.\n\nPlayers may need to talk to Lord Amlodd before the achievement will complete, asking about \"Amlodd Skills\". If players have already picked up 15 of each core, before talking to Lord Amlodd, they may need to get 1 more core as a drop to force the achievement to complete.",
-			"thumbnail": {
-				"url": "https://i.imgur.com/Shmagnp.png"
-			},
-			"fields": [
-				{
-					"name": "Requirements:",
-					"value": "• 91 Divination\n\n• Plague's End Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Plague%27s_End)"
-				}
-			],
-			"footer": {
-				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-				"text": "Runescore awarded: 10"
 			}
 		}
 	},
