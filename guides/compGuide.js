@@ -1606,6 +1606,10 @@ exports.data = {
 			},
 			"fields": [
 				{
+					"name": "​",
+					"value": "They have a special attack that is signalled when they roar and hit their chest. The airut's damage will be doubled, in addition to a faster attack speed (2x for ranged, 4x for melee) while it is in a \"frenzy\" state. If the airut is successfully hit with [Flurry](https://runescape.wikia.com/wiki/Flurry) or [Rapid Fire](https://runescape.wikia.com/wiki/Rapid_Fire), when they signal this attack or are in the process of using it, they will be disoriented. While disoriented, the airut is [stunned](https://runescape.wikia.com/wiki/Stun) and takes double damage from all attacks; this also stacks with damage boosting abilities like [Berserk](https://runescape.wikia.com/wiki/Berserk).\n\nThey also have a passive ability that increases their defence the lower their health is."
+				},
+				{
 					"name": "Requirements:",
 					"value": "• 92 Slayer"
 				},
@@ -3891,6 +3895,62 @@ exports.data = {
 			},
 			"fields": [
 				{
+					"name": "Beacon Keeper Locations:",
+					"value": "**Keeper:** [Blaze Sharpeye](https://runescape.wikia.com/wiki/Blaze_Sharpeye)\n\t• **Location:** North-east of [Varrock](https://runescape.wikia.com/wiki/Varrock) and south of the [Temple of Paterdomus](https://runescape.wikia.com/wiki/Paterdomus), on [Silvarea](https://runescape.wikia.com/wiki/Silvarea)"
+				},
+				{
+					"name": "​",
+					"value": "**Keeper:** [Squire Fyre](https://runescape.wikia.com/wiki/Squire_Fyre)\n\t• **Location:** At the limestone quarry north-east of Varrock on Silvarea; just west of the [Odd Old Man](https://runescape.wikia.com/wiki/Odd_Old_Man)"
+				},
+				{
+					"name": "​",
+					"value": "**Keeper:** [Orry](https://runescape.wikia.com/wiki/Orry)\n\t• **Location:** Just north of the [Jolly Boar Inn](https://runescape.wikia.com/wiki/Jolly_Boar_Inn) in north-east Varrock, in low-level [Wilderness](https://runescape.wikia.com/wiki/Wilderness)"
+				},
+				{
+					"name": "​",
+					"value": "**Keeper:** [Ube](https://runescape.wikia.com/wiki/Ube)\n\t• **Location:** At the north exit of Varrock, in low-level Wilderness; just west of the Jolly Boar Inn beacon"
+				},
+				{
+					"name": "​",
+					"value": "**Keeper:** [Waldo](https://runescape.wikia.com/wiki/Waldo_(All_Fired_Up)\n\t• **Location:** North of the [Grand Exchange](https://runescape.wikia.com/wiki/Grand_Exchange) in low-level Wilderness"
+				},
+				{
+					"name": "​",
+					"value": "**Keeper:** [Gjalp](https://runescape.wikia.com/wiki/Gjalp)\n\t• **Location:** Northern part of [Edgeville](https://runescape.wikia.com/wiki/Edgeville), this beacon is not in the Wilderness"
+				},
+				{
+					"name": "​",
+					"value": "**Keeper:** [Brother Fintan](https://runescape.wikia.com/wiki/Brother_Fintan)\n\t• **Location:** South-east of the [Black Knights' Fortress](https://runescape.wikia.com/wiki/Black_Knights'_Fortress)"
+				},
+				{
+					"name": "​",
+					"value": "**Keeper:** [Stubthumb](https://runescape.wikia.com/wiki/Stubthumb)\n\t• **Location:** The north-east corner of the [Goblin Village](https://runescape.wikia.com/wiki/Goblin_Village) (only accessible from the village)"
+				},
+				{
+					"name": "​",
+					"value": "**Keeper:** [Doronbol](https://runescape.wikia.com/wiki/Doronbol)\n\t• **Location:** On the border of Wilderness and east [Burthorpe](https://runescape.wikia.com/wiki/Burthorpe); only accessible from Burthorpe"
+				},
+				{
+					"name": "​",
+					"value": "**Keeper:** [Crate](https://runescape.wikia.com/wiki/Crate_(NPC)\n\t• **Location:** East of [Death Plateau](https://runescape.wikia.com/wiki/Death_Plateau_(location); only accessible from Level 13 Wilderness."
+				},
+				{
+					"name": "​",
+					"value": "**Keeper:** [Egg](https://runescape.wikia.com/wiki/Egg_(NPC)\n\t• **Location:** Near the shortcut into the wilderness; accessed with the [Trollheim Teleport](https://runescape.wikia.com/wiki/Trollheim_Teleport)"
+				},
+				{
+					"name": "​",
+					"value": "**Keeper:** [Nanuq](https://runescape.wikia.com/wiki/Nanuq)\n\t• **Location:** North-east of the entrance to the [God Wars Dungeon](https://runescape.wikia.com/wiki/God_Wars_Dungeon) (not located in the Wilderness)"
+				},
+				{
+					"name": "​",
+					"value": "**Keeper:** *None*\n\t• **Location:** Near the small temple in level 40 Wilderness"
+				},
+				{
+					"name": "​",
+					"value": "**Keeper:** *None*\n\t• **Location:** On the [Frozen Waste Plateau](https://runescape.wikia.com/wiki/Frozen_Waste_Plateau), west of the [Agility course](https://runescape.wikia.com/wiki/Wilderness_Agility_Course) in level 52 Wilderness"
+				},
+				{
 					"name": "Requirements:",
 					"value": "• 70 Smithing\n• 59 Construction\n• 60 Crafting\n• 64 Agility\n• 53 Prayer\n• 81 Summoning\n\n• Completed all four levels of the [Stronghold of Security](https://runescape.wikia.com/wiki/Stronghold_of_Security)\n\n• [Climbing Boots](https://runescape.wikia.com/wiki/Climbing_boots) or [Rock Climbing Boots](https://runescape.wikia.com/wiki/Rock_climbing_boots) (if not using Trollheim teleport)\n• A [Catspeak amulet](https://runescape.wikia.com/wiki/Catspeak_amulet)"
 				},
@@ -3917,7 +3977,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[I Dig This Transportation](http://runescape.wikia.com/wiki/I_Dig_This_Transportation) is an achievement that requires the player to unlock the digsite pendant by cleaning uncleaned finds in the Varrock Museum until they find a clean necklace, and then talk to one of the archeologists.\n\nAn uncleaned find is a rock obtained from the Dig Site specimen rocks as part of the Varrock Museum activity. Players need to use it on a specimen table to reveal the archaeological artefact inside.",
+			"description": "[I Dig This Transportation](http://runescape.wikia.com/wiki/I_Dig_This_Transportation) is an achievement that requires the player to unlock the [digsite pendant](https://runescape.wikia.com/wiki/Digsite_pendant) by cleaning [uncleaned finds](https://runescape.wikia.com/wiki/Uncleaned_find) in the [Varrock Museum](https://runescape.wikia.com/wiki/Varrock_Museum) until they find a [clean necklace](https://runescape.wikia.com/wiki/Clean_necklace). Finding it is very rare and can easily take over an hour.\n\nAn uncleaned find is a rock obtained from the Dig Site specimen rocks as part of the Varrock Museum activity. Players need to use it on a specimen table to reveal the archaeological artefact inside.\n\nPlayer should then show the artefact to one of the six archaeologists in the room, who will then tell them what to do with the item. Certain items are valuable, and he will tell the player to add these to a [display case](https://runescape.wikia.com/wiki/Varrock_Museum_displays). Other items can be put in the storage crates. When showing artefacts to the archaeologists they will only recognise that a player has one artefact at a time in the order of [pottery](https://runescape.wikia.com/wiki/Pottery), [arrowheads](https://runescape.wikia.com/wiki/Arrowheads_(Varrock_Museum), [jewellery](https://runescape.wikia.com/wiki/Jewellery_(item), and [old chipped vases](https://runescape.wikia.com/wiki/Old_chipped_vase). To show them a different item the player must get rid of the other prioritised items or use the item they wish to show them directly on the archaeologist.\n\nIt also seems, when cleaning the find, that the [rock pick](https://runescape.wikia.com/wiki/Rock_pick) destroys more often than the [specimen brush](https://runescape.wikia.com/wiki/Specimen_brush).",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -3933,30 +3993,6 @@ exports.data = {
 			}
 		}
 	},
-	"i know, i was there...": {
-		"cmds": ["mqc"],
-		"embed": {
-			"title": "I know, I was there...",
-			"author": {
-				"name": "Cape Info",
-				"icon_url": "https://i.imgur.com/6c6q2iC.png"
-			},
-			"description": "[I know, I was there...](http://runescape.wikia.com/wiki/I_know%2C_I_was_there...) is an achievement that requires the player to collect books from Bruce and from the furnace in Edgeville.\n\nBruce's bad break is obtained by talking to Bruce in Edgeville after Ritual of the Mahjarrat.\n\nFroggi, the smithy's apprentice is found by inspecting the Edgeville furnace after Ritual of the Mahjarrat.",
-			"thumbnail": {
-				"url": "https://i.imgur.com/Shmagnp.png"
-			},
-			"fields": [
-				{
-					"name": "Requirements:",
-					"value": "• Ritual of the Mahjarrat Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Ritual_of_the_Mahjarrat)"
-				}
-			],
-			"footer": {
-				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-				"text": "Runescore awarded: 5"
-			}
-		}
-	},
 	"i presume these rewards are mine, death?": {
 		"cmds": ["mqc"],
 		"embed": {
@@ -3965,7 +4001,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[I Presume These Rewards Are Mine, Death?](http://runescape.wikia.com/wiki/I_Presume_These_Rewards_Are_Mine,_Death?) is an achievement that requires the player to claim all post-quest rewards from the Missing, Presumed Death quest by speaking to the Statue of Death, which can be found again at the Empyrean Citadel.\n\nThe only way to get to the citadel is to use the Invitation box which is obtained during Missing, Presumed Death. If you lose your Invitation box you can reclaim it from Brother Samwell or from the box in place of him after Kindred Spirits.",
+			"description": "[I Presume These Rewards Are Mine, Death?](http://runescape.wikia.com/wiki/I_Presume_These_Rewards_Are_Mine,_Death?) is an achievement that requires the player to claim all post-quest rewards from the [Missing, Presumed Death](http://runescape.wikia.com/wiki/Missing,_Presumed_Death) quest by speaking to the [Statue of Death](https://runescape.wikia.com/wiki/Statue_of_Death), which can be found again at the [Empyrean Citadel](https://runescape.wikia.com/wiki/Empyrean_Citadel).\n\nThe only way to get to the citadel is to use the [Invitation box]() which is obtained during Missing, Presumed Death. If you lose your Invitation box you can reclaim it from [Brother Samwell](https://runescape.wikia.com/wiki/Brother_Samwell) or from the box in place of him after [Kindred Spirits](https://runescape.wikia.com/wiki/Kindred_Spirits). Brother Samwell is located in [Silvarea](https://runescape.wikia.com/wiki/Silvarea), west of [Paterdomus](https://runescape.wikia.com/wiki/Paterdomus).",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -3981,6 +4017,30 @@ exports.data = {
 			}
 		}
 	},
+	"i know, i was there...": {
+		"cmds": ["mqc"],
+		"embed": {
+			"title": "I know, I was there...",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[I know, I was there...](http://runescape.wikia.com/wiki/I_know%2C_I_was_there...) is an achievement that requires the player to collect books from [Bruce](https://runescape.wikia.com/wiki/Bruce) and from the furnace in [Edgeville](https://runescape.wikia.com/wiki/Edgeville).\n\n• [Bruce's bad break](https://runescape.wikia.com/wiki/Bruce%27s_bad_break) is obtained by talking to Bruce in [Edgeville](https://runescape.wikia.com/wiki/Edgeville) after [Ritual of the Mahjarrat](https://runescape.wikia.com/wiki/Ritual_of_the_Mahjarrat).\n\n• [Froggi, the smithy's apprentice](https://runescape.wikia.com/wiki/Froggi,_the_smithy%27s_apprentice) is found by inspecting the Edgeville furnace after Ritual of the Mahjarrat.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• Ritual of the Mahjarrat Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Ritual_of_the_Mahjarrat)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 5"
+			}
+		}
+	},
 	"ice ice chimpy": {
 		"cmds": ["mqc", "trim"],
 		"embed": {
@@ -3989,11 +4049,23 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Ice Ice Chimpy](http://runescape.wikia.com/wiki/Ice_Ice_Chimpy) is an achievement that requires the player to complete an additional 25 chimp ice deliveries, buying them from the chimp ice chimp in the monkey colony in the Kharidian Desert and delivering them to Awowogei on Ape Atoll.\n\nEnsure you use your Chimp ice enhancer on every 5th run when the melting speed is increased.",
+			"description": "[Ice Ice Chimpy](http://runescape.wikia.com/wiki/Ice_Ice_Chimpy) is an achievement that requires the player to complete an additional 25 [chimp ice](https://runescape.wikia.com/wiki/Chimp_ice) deliveries, buying them from the [chimp ice chimp](https://runescape.wikia.com/wiki/Chimp_ice_chimp) in the [monkey colony](https://runescape.wikia.com/wiki/Monkey_colony) in the [Kharidian Desert](https://runescape.wikia.com/wiki/Kharidian_Desert) and delivering them to [Awowogei](https://runescape.wikia.com/wiki/Awowogei) on [Ape Atoll](https://runescape.wikia.com/wiki/Ape_Atoll).\n\nThe use of a [Chimp ice enhancer](https://runescape.wikia.com/wiki/Chimp_ice_enhancer) will double the length of the chimp ice being frozen by an ice spell. Ensure you at least use your Chimp ice enhancer on every 5th run when the melting speed is increased.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
 			"fields": [
+				{
+					"name": "Teleportation:",
+					"value": "The use of any magic-based [transportation](https://runescape.wikia.com/wiki/Transportation) results in the Chimp ice melting instantly. Allowed relevant methods of transportation include:\n• [Magic carpet](https://runescape.wikia.com/wiki/Magic_carpet)\n• [Charter ship](https://runescape.wikia.com/wiki/Charter_ship)\n• [Balloon transport system](https://runescape.wikia.com/wiki/Balloon_transport_system)\n• [Eagle transport system](https://runescape.wikia.com/wiki/Eagle_transport_system)\n• [Shantay arrest](https://runescape.wikia.com/wiki/Shantay)\n• [Daemonheim boat](https://runescape.wikia.com/wiki/Daemonheim) ([Lumbridge Swamp](https://runescape.wikia.com/wiki/Lumbridge_Swamp), [Al Kharid](https://runescape.wikia.com/wiki/Al_Kharid), and [Taverley](https://runescape.wikia.com/wiki/Taverley))\n\n[Gnome gliders](https://runescape.wikia.com/wiki/Gnome_glider) cannot be used, as a cloud of \"volcanic ash\" will be over [Karamja](https://runescape.wikia.com/wiki/Karamja) during the activity."
+				},
+				{
+					"name": "Tips:",
+					"value": "In order to freeze the treat, left-click on the chimp ice then select an ice spell and use it on the treat. The [Wicked pouch](https://runescape.wikia.com/wiki/Wicked_pouch) cannot be used instead of runes.\n\nFreezing the chimp ice resets the duration according to the type of spell cast; it does not add excess time. [Ice Barrage](https://runescape.wikia.com/wiki/Ice_Barrage) (94) will reset the timer of the chimp ice from melting to approximately 1 minute, [Ice Burst](https://runescape.wikia.com/wiki/Ice_Burst) (70) will reset the ice to about 45 seconds. [Ice Blitz](https://runescape.wikia.com/wiki/Ice_Blitz) (82) will keep it frozen for about 35 seconds, and [Ice Rush](https://runescape.wikia.com/wiki/Ice_Rush) (58) will reset the chimp ice to a default of 25 seconds.\n\nBe aware every 5th Chimp Ice bought from the Chimp Ice Chimp lasts only half the time. Preceded with the message \"I'd eat that one extra quick. I left that one out in the sun.\" upon purchase."
+				},
+				{
+					"name": "​",
+					"value": "You will be warned with a red message in your chatbox of the status of your chimp ice.\n\t• 20 seconds before melting, you will receive the message, \"Your chimp ice is beginning to melt.\"\n\t• 10 seconds before melting, you will receive the message, \"Your chimp ice has nearly melted.\"\n\t• When your chimp ice melts, you will receive the message, \"Your chimp ice has melted.\"\n\nIt is useful to note that the chimp ice will not melt when using a bank, the world map, transportation such as carpets and eagles, and when talking to NPCs. Also a dripping sound will play every few seconds if it's melting."
+				},
 				{
 					"name": "Requirements:",
 					"value": "• Do No Evil Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Do_No_Evil)"
@@ -4017,7 +4089,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Icthlarin's Little Chest](http://runescape.wikia.com/wiki/Icthlarin%27s_Little_Chest) is an achievement that requires the player to loot the chest in Klenter's Pyramid for 50 coins during or after Icthlarin's Little Helper. \n\nKlenter's Pyramid is one of the two pyramids in Sophanem, the other being Jalsavrah, and the final resting place of Klenter. The pyramid is guarded over by a sphinx and can only be accessed with a cat. In order to progress in the pyramid, traps must be avoided. First, there are a few sets of wall crushers. Walking diagonally will avoid these. Then, the rocky path should be followed (with ground decoration on) to avoid pitfall traps.\n\nPast the first two mummies is an automatic spawn for a scarab swarm. There are more mummies, then a pit that can be crossed, leading to Klenter's sarcophagus and organs. Another wall crusher and pitfall-infested path leads to a closed chest to the east.",
+			"description": "[Icthlarin's Little Chest](http://runescape.wikia.com/wiki/Icthlarin%27s_Little_Chest) is an achievement that requires the player to loot the chest in [Klenter's Pyramid](https://runescape.wikia.com/wiki/Klenter%27s_Pyramid) for 50 [coins](https://runescape.wikia.com/wiki/Coins) during or after [Icthlarin's Little Helper](https://runescape.wikia.com/wiki/Icthlarin%27s_Little_Helper). \n\nKlenter's Pyramid is one of the two [pyramids](https://runescape.wikia.com/wiki/Pyramid) in [Sophanem](https://runescape.wikia.com/wiki/Sophanem), the other being [Jalsavrah](https://runescape.wikia.com/wiki/Jalsavrah_Pyramid), and the final resting place of [Klenter](https://runescape.wikia.com/wiki/Klenter). The pyramid is guarded over by a [sphinx](https://runescape.wikia.com/wiki/Sphinx) and can only be accessed with a [cat](https://runescape.wikia.com/wiki/Cat).\n\nIn order to progress in the pyramid, traps must be avoided. First, there are a few sets of wall crushers. Walking diagonally will avoid these. Then, the rocky path should be followed (with ground decoration on) to avoid pitfall traps.\n\nPast the first two [mummies](https://runescape.wikia.com/wiki/Mummy_(Sophanem) is an automatic spawn for a [scarab swarm](https://runescape.wikia.com/wiki/Scarab_swarm). There are more mummies, then a pit that can be crossed, leading to Klenter's sarcophagus and organs. Another wall crusher and pitfall-infested path leads to a closed chest to the east.\n\nTo reach the chest players should avoid the wall crushers by walking diagonally between them. When standing with the east part of the easternmost crusher directly south, take three steps forward (east), walk one step diagonally to the south-east, and then walk forward (east) to the chest to loot it.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -4025,6 +4097,10 @@ exports.data = {
 				{
 					"name": "Requirements:",
 					"value": "• Icthlarin's Little Helper Quest partial completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Icthlarin%27s_Little_Helper)"
+				},
+				{
+					"name": "Guide:",
+					"value": "• [Klenter's Pyramid Map](https://vignette.wikia.nocookie.net/runescape2/images/5/5d/Klenter%27s_Pyramid_map.png/revision/latest?cb=20161112173534)"
 				}
 			],
 			"footer": {
@@ -4077,11 +4153,15 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Impressing Char](http://runescape.wikia.com/wiki/Impressing_Char) is an achievement that requires the player to make a Zaros symbol during an instance of Char's training cave.\n\nThe training cave is located just north of the quest start, south of Eagles' Peak, west of the Tree Gnome Stronghold and north of West Ardougne.\n\nThe fastest way to get there is by using the teleport function on the Book of Char, teleporting you right in front of the cave's entrance.",
+			"description": "[Impressing Char](http://runescape.wikia.com/wiki/Impressing_Char) is an achievement that requires the player to make a [Zaros symbol](https://runescape.wikia.com/wiki/Char%27s_training_cave#Symbol_of_Zaros) during an instance of [Char's training cave](https://runescape.wikia.com/wiki/Char%27s_training_cave).\n\nThe training cave is located just north of [The Firemaker's Curse](https://runescape.wikia.com/wiki/The_Firemaker%27s_Curse) quest start, south of [Eagles' Peak](https://runescape.wikia.com/wiki/Eagles%27_Peak_(location), west of the [Tree Gnome Stronghold](https://runescape.wikia.com/wiki/Tree_Gnome_Stronghold) and north of [West Ardougne](https://runescape.wikia.com/wiki/West_Ardougne).\n\nThe fastest way to get there is by using the teleport function on the [Book of Char](https://runescape.wikia.com/wiki/The_Book_of_Char), teleporting you right in front of the cave's entrance. The next fastest way is to use the World Gate teleport via the [Sixth-Age circuit](https://runescape.wikia.com/wiki/Sixth-Age_circuit), which is unlocked after [The World Wakes](https://runescape.wikia.com/wiki/The_World_Wakes). Another closer teleport location is the Eagles' Peak [lodestone](https://runescape.wikia.com/wiki/Lodestone_Network), provided you have activated it. It is also possible to use the [fairy ring](https://runescape.wikia.com/wiki/Fairy_ring) (**a•k•q**) and then take the boat near the entrance of the [Piscatoris Fishing Colony](https://runescape.wikia.com/wiki/Piscatoris_Fishing_Colony), or to use the [Spirit tree](https://runescape.wikia.com/wiki/Spirit_tree) teleport.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
 			"fields": [
+				{
+					"name": "Starting:",
+					"value": "To start the training you must speak to [Char](https://runescape.wikia.com/wiki/Char), who is just in the entrance of the cave. The training consists of making the logless fires using a [Pitch can](https://runescape.wikia.com/wiki/Pitch_can), which can be found close to Char, into as many accepted symbols in the gridded area as possible within the 5 minute time limit. The symbols are visible in the Book of Char. There is one symbol, the Zaros symbol, that Char did not note down as it is 'very close to her heart.' When you first make the Zaros symbol however, it will appear in the Book of Char along with the others.\n\nChar will let you \"Start\" training even if you forget to bring the Book of Char. However, without both the book and a pitch can, you will be unable to light any fires."
+				},
 				{
 					"name": "Requirements:",
 					"value": "• 91 Firemaking\n\n• The Firemaker's Curse Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Firemaker%27s_Curse)"
@@ -4201,11 +4281,19 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Kaiki's Tusks](http://runescape.wikia.com/wiki/Kaiki%27s_Tusks) is an achievement that requires the player to obtain Kaigi's journal as well as four Kaigi's journal pages as drops from Airut.\n\nKaigi's journal is a book dropped by the Airut, written by a Naragi known as Kaigi. It can be filled with Kaigi's journal pages, resulting in a completed version, this version gives an account of how Tuska arrived to the Naragi homeworld a few years after Saradomin's destruction of Askroth.\n\nOnce completed, Kaigi's journal can be stored inside the bookcase of a player's Player-Owned House.",
+			"description": "[Kaiki's Tusks](http://runescape.wikia.com/wiki/Kaiki%27s_Tusks) is an achievement that requires the player to obtain [Kaigi's journal](https://runescape.wikia.com/wiki/Kaigi%27s_journal) as well as four [Kaigi's journal pages](https://runescape.wikia.com/wiki/Kaigi%27s_journal_pages) as drops from [Airut](https://runescape.wikia.com/wiki/Airut).\n\nKaigi's journal is a book dropped by the Airut, written by a [Naragi](https://runescape.wikia.com/wiki/Naragi) known as [Kaigi](https://runescape.wikia.com/wiki/Kaigi). It can be filled with Kaigi's journal pages, resulting in a [completed version](https://runescape.wikia.com/wiki/Kaigi%27s_journal_(complete), this version gives an account of how [Tuska](https://runescape.wikia.com/wiki/Tuska) arrived to the [Naragi homeworld](https://runescape.wikia.com/wiki/Naragun) a few years after [Saradomin](https://runescape.wikia.com/wiki/Saradomin)'s destruction of [Askroth](https://runescape.wikia.com/wiki/Askroth).\n\nOnce completed, Kaigi's journal can be stored inside the [bookcase](https://runescape.wikia.com/wiki/Bookcase) of a player's [Player-Owned House](https://runescape.wikia.com/wiki/Player-owned_house).",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
 			"fields": [
+				{
+					"name": "Airut Information:",
+					"value": "Airtus can be found at:\n\n• just west of the [Phoenix Lair](https://runescape.wikia.com/wiki/Phoenix_Lair) in the [Piscatoris Hunter area](https://runescape.wikia.com/wiki/Piscatoris_Hunter_area) ([Fairy ring](https://runescape.wikia.com/wiki/Fairy_ring) **a•k•q**, [Phoenix Lair Teleport](https://runescape.wikia.com/wiki/Phoenix_Lair_Teleport), or [Mask of the Airut](https://runescape.wikia.com/wiki/Mask_of_the_Airut)/[Helm of the Airut](https://runescape.wikia.com/wiki/Helm_of_the_Airut))\n\n• in [Kuradal's Dungeon](https://runescape.wikia.com/wiki/Kuradal%27s_Dungeon)\n\n• on [Mazcab](https://runescape.wikia.com/wiki/Mazcab) at the eastern part of the [Graveyard](https://runescape.wikia.com/wiki/Graveyard_(Mazcab); a [bank chest](https://runescape.wikia.com/wiki/Bank_chest) is located north-east at the entrance to [Pit of Trials](https://runescape.wikia.com/wiki/Pit_of_Trials)"
+				},
+				{
+					"name": "​",
+					"value": "The Airut in Mazcab are the only Airut that the [Nemi poison](https://runescape.wikia.com/wiki/Nemi_poison) affects. Those in Kuradal's Dungeon are clustered closer together, whereas those west of the Phoenix Lair and on Mazcab are spread out.\n\nThey have a special attack that is signalled when they roar and hit their chest. The airut's damage will be doubled, in addition to a faster attack speed (2x for ranged, 4x for melee) while it is in a \"frenzy\" state. If the airut is successfully hit with [Flurry](https://runescape.wikia.com/wiki/Flurry) or [Rapid Fire](https://runescape.wikia.com/wiki/Rapid_Fire), when they signal this attack or are in the process of using it, they will be disoriented. While disoriented, the airut is [stunned](https://runescape.wikia.com/wiki/Stun) and takes double damage from all attacks; this also stacks with damage boosting abilities like [Berserk](https://runescape.wikia.com/wiki/Berserk).\n\nThey also have a passive ability that increases their defence the lower their health is."
+				},
 				{
 					"name": "Requirements:",
 					"value": "• 92 Slayer"
@@ -4253,11 +4341,31 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Kal'gerion Notes](http://runescape.wikia.com/wiki/Kal%27gerion_Notes_(achievement%29) is a meta-achievement that requires the player to collect all five parts of the [Kal'gerion notes](http://runescape.wikia.com/wiki/Kal%27gerion_notes) within Daemonheim.\n\nPart 1 is dropped by To'Kash the Bloodchiller, found on floors 9-11\n Part 2 is dropped by Har'Lakk the Riftsplitter, found on floors 18-29\n Part 3 is dropped by Bal'lak the Pummeller, found on floors 33-35\n Part 4 is dropped by Yk'Lagor the Thunderous, found on floors 45-47\n Part 5 is dropped by Kal'Ger the Warmonger, found on floors 57-60",
+			"description": "[Kal'gerion Notes](http://runescape.wikia.com/wiki/Kal%27gerion_Notes_(achievement%29) is a meta-achievement that requires the player to collect all five parts of the [Kal'gerion notes](http://runescape.wikia.com/wiki/Kal%27gerion_notes) within [Daemonheim](https://runescape.wikia.com/wiki/Daemonheim).\n\nPlayers may utilize a [Daemonheim aura 1-4](https://runescape.wikia.com/wiki/Daemonheim_aura) choose which boss is faced in a dungeon, once per day, or a [Dungeoneering cape](https://runescape.wikia.com/wiki/Dungeoneering_cape) perk to have a chance of doing so.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
 			"fields": [
+				{
+					"name": "Locations:",
+					"value": "[Kal'gerion notes (part 1)](https://runescape.wikia.com/wiki/Kal%27gerion_notes_(part_1)\n\t• **Obtained from:** [To'Kash the Bloodchiller](https://runescape.wikia.com/wiki/To%27Kash_the_Bloodchiller)\n\t• **On [floors](https://runescape.wikia.com/wiki/Dungeoneering#Floors):** 9-11"
+				},
+				{
+					"name": "​",
+					"value": "[Kal'gerion notes (part 2)](https://runescape.wikia.com/wiki/Kal%27gerion_notes_(part_2)\n\t• **Obtained from:** [Har'Lakk the Riftsplitter](https://runescape.wikia.com/wiki/Har%27Lakk_the_Riftsplitter)\n\t• **On floors:** 18-29"
+				},
+				{
+					"name": "​",
+					"value": "[Kal'gerion notes (part 3)](https://runescape.wikia.com/wiki/Kal%27gerion_notes_(part_3)\n\t• **Obtained from:** [Bal'lak the Pummeller](https://runescape.wikia.com/wiki/Bal%27lak_the_Pummeller)\n\t• **On floors:** 33-35"
+				},
+				{
+					"name": "​",
+					"value": "[Kal'gerion notes (part 4)](https://runescape.wikia.com/wiki/Kal%27gerion_notes_(part_4)\n\t• **Obtained from:** [Yk'Lagor the Thunderous](https://runescape.wikia.com/wiki/Yk%27Lagor_the_Thunderous)\n\t• **On floors:** 45-47"
+				},
+				{
+					"name": "​",
+					"value": "[Kal'gerion notes (part 5)](https://runescape.wikia.com/wiki/Kal%27gerion_notes_(part_5)\n\t• **Obtained from:** [Kal'Ger the Warmonger](https://runescape.wikia.com/wiki/Kal%27Ger_the_Warmonger)\n\t• **On floors:** 57-60"
+				},
 				{
 					"name": "Requirements:",
 					"value": "• 113 Dungeoneering"
@@ -4277,14 +4385,46 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Keeping Up with the Carnilleans](http://runescape.wikia.com/wiki/Kal%27gerion_Notes_(achievement%29) is an achievement that requires the player to find Philipe Carnillean around Gielinor and claim the experience lamps. Philipe will travel the world on his [Own adventures](http://runescape.wikia.com/wiki/Philipe_Carnillean#Adventures_of_his_own), and if you speak to him will he give you his experience lamps.\n\nYou can speak to Ceril Carnillean to find out more about Philipe's current location.",
+			"description": "[Keeping Up with the Carnilleans](https://runescape.wikia.com/wiki/Keeping_Up_with_the_Carnilleans) is an achievement that requires the player to find [Philipe Carnillean](https://runescape.wikia.com/wiki/Philipe_Carnillean) around [Gielinor](https://runescape.wikia.com/wiki/Gielinor) and claim the experience lamps.\n\nPhilipe will travel the world on his [Own adventures](http://runescape.wikia.com/wiki/Philipe_Carnillean#Adventures_of_his_own), and if you speak to him will he give you his experience lamps.\n\nYou can speak to [Ceril Carnillean](https://runescape.wikia.com/wiki/Ceril_Carnillean) to find out more about Philipe's current location.\n\nThe list of locations is the same for every player; however, you need a certain number of quest points for him to appear. Ceril will say that he doesn't know where he is if you don't have the sufficient amount of quest points to receive the next reward. You will have to use the lamp before Philipe will appear at the next location.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
 			"fields": [
 				{
+					"name": "Order of Locations:",
+					"value": "**Location:** Inside the [Ardougne](https://runescape.wikia.com/wiki/Ardougne) [Combat Training Camp](https://runescape.wikia.com/wiki/Combat_Training_Camp), near the entrance.\n\t• **Quest Points Required:** 50"
+				},
+				{
+					"name": "​",
+					"value": "**Location:** At the entrance to the [Mountain Camp](https://runescape.wikia.com/wiki/Mountain_Camp) of [Hamal](https://runescape.wikia.com/wiki/Hamal_the_Chieftain)'s tribe, in the [Fremennik Province](https://runescape.wikia.com/wiki/Fremennik_Province).\n\t• **Quest Points Required:** 100"
+				},
+				{
+					"name": "​",
+					"value": "**Location:** On the [Paramaya Inn](https://runescape.wikia.com/wiki/Paramaya_Inn)'s top floor in [Shilo Village](https://runescape.wikia.com/wiki/Shilo_Village). You will need 35 coins to go to the top floor.\n\t• **Quest Points Required:** 150"
+				},
+				{
+					"name": "​",
+					"value": "**Location:** [Port Phasmatys](https://runescape.wikia.com/wiki/Port_Phasmatys), inside [The Green Ghost](https://runescape.wikia.com/wiki/The_Green_Ghost) Inn.\n\t• **Quest Points Required:** 200"
+				},
+				{
+					"name": "​",
+					"value": "**Location:** The [Polypore Dungeon](https://runescape.wikia.com/wiki/Polypore_Dungeon), close to the [Ramokee Skinweaver](https://runescape.wikia.com/wiki/Ramokee_Skinweaver_(Polypore_Dungeon) on the very bottom.\n\t• **Quest Points Required:** 250"
+				},
+				{
+					"name": "​",
+					"value": "**Location:** Outside [Oldak](https://runescape.wikia.com/wiki/Oldak)'s house in the north-west of [Dorgesh-Kaan](https://runescape.wikia.com/wiki/Dorgesh-Kaan).\n\t• **Quest Points Required:** 300"
+				},
+				{
+					"name": "​",
+					"value": "**Location:** Inside the machine room in the [Piscatoris Fishing Colony](https://runescape.wikia.com/wiki/Piscatoris_Fishing_Colony).\n\t• **Quest Points Required:** 350"
+				},
+				{
+					"name": "​",
+					"value": "**Location:** At the southern gate of [Prifddinas](https://runescape.wikia.com/wiki/Prifddinas), north of [Isafdar](https://runescape.wikia.com/wiki/Isafdar) woods.\n\t• **Quest Points Required:** 400"
+				},
+				{
 					"name": "Requirements:",
-					"value": "• 113 Dungeoneering"
+					"value": "• Carnillean Rising Quest completion | [Runescape Wiki](https://runescape.wikia.com/wiki/Carnillean_Rising)\n\n• 400 Quest Points"
 				},
 				{
 					"name": "Guide:",
