@@ -5,14 +5,14 @@ exports.data = {
                 "name": "AFK Thaler Guide",
                 "icon_url": "https://i.imgur.com/6c6q2iC.png"
             },
-            "description": "[Thaler](http://runescape.wikia.com/wiki/Thaler) is a global [currency](https://runescape.wikia.com/wiki/Currencies) for [minigames](https://runescape.wikia.com/wiki/Minigames) that was released with the [Minigame Spotlight](https://runescape.wikia.com/wiki/Update:Minigame_Spotlight) system. It can be earned by playing any of the selected 14 minigames and is rewarded at a rate of 1 thaler every 5 minutes. In addition, a different minigame is spotlighted every three days to reward 1 thaler every minute.\n\nThe time for which thaler is awarded is rounded down at the end of a game. Any remainder is saved and added after a next game.\n\nAchievement Help members may find an AFK Thaler community in this server. Users can tag the <@&446729279149965315> role for the current spotlight in order to find teams. You may join this role by reacting to the :regional_indicator_v: emoji on the third to last message in the <#418298983002275851> channel.\n\nIt should be noted that playing Castle Wars is faster, though less AFK, than thaler. If you would like to obtain your goals through Castle Wars either in full, or partway, you may view the Castle Wars United consistent win community in the <#441624301616234496> channel.",
+            "description": "[Thaler](http://runescape.wikia.com/wiki/Thaler) is a global [currency](https://runescape.wikia.com/wiki/Currencies) for [minigames](https://runescape.wikia.com/wiki/Minigames) that was released with the [Minigame Spotlight](https://runescape.wikia.com/wiki/Update:Minigame_Spotlight) system. It can be earned by playing any of the selected 14 minigames and is rewarded at a rate of 1 thaler every 5 minutes. In addition, a different minigame is spotlighted every three days to reward 1 thaler every minute.\n\nThe time for which thaler is awarded is rounded down at the end of a game. Any remainder is saved and added after a next game.\n\nPlayers may view the <#383761895871610880> channel to view the current and next 3 spotlights, or the [Minigame Spotlight Calendar](https://calendar.google.com/calendar/embed?src=42brp3b48aumm199hord137gh0@group.calendar.google.com) for a three month view.\n\nIt is highly recommended to make friends throughout your AFK games so you can message one another to build teams when the spotlight changes to a more difficult spotlighted minigame.\n\nAchievement Help members may find an AFK Thaler community in this server. Users can tag the <@&446729279149965315> role for the current spotlight in order to find teams. You may join or leave this role by reacting to the :regional_indicator_v: emoji on the third to last message in the <#418298983002275851> channel.\n\nIt should be noted that playing Castle Wars is faster, though less AFK, than thaler. If you would like to obtain your goals through Castle Wars either in full, or partway, you may view the Castle Wars United consistent win community in the <#441624301616234496> channel.",
             "thumbnail": {
                 "url": "https://vignette.wikia.nocookie.net/runescape2/images/a/a8/Thaler.png/revision/latest?cb=20171016023811"
             },
             "fields": [
                 {
                     "name": "​",
-                    "value": "[Pest Control](https://runescape.wikia.com/wiki/Pest_Control) \n\t• **Location:** [Void Knights' Outpost](https://runescape.wikia.com/wiki/Void_Knights%27_Outpost)\n\t• **Tips:** This game requires 5-25 players. It is not worth playing on spotlight unless you organize a team through the AFK Thaler role tag as games end far too often on the official worls."
+                    "value": "[Pest Control](https://runescape.wikia.com/wiki/Pest_Control) \n\t• **Location:** [Void Knights' Outpost](https://runescape.wikia.com/wiki/Void_Knights%27_Outpost)\n\t• **Tips:** This game requires 5-25 players. It is not worth playing on spotlight unless you organize a team through the AFK Thaler role tag as games end far too often on the official worls. An alternative option is to play the game on the official worlds (53, 69) in order to gain thaler and [commendation points](https://runescape.wikia.com/wiki/Void_Knight_commendation_points) for [Elite Void Knight Equipment](https://runescape.wikia.com/wiki/Elite_Void_Knight_equipment)."
                 },
                 {
                     "name": "​",
@@ -20,7 +20,7 @@ exports.data = {
                 },
                 {
                     "name": "​",
-                    "value": "[Fist of Guthix](https://runescape.wikia.com/wiki/Fist_of_Guthix) \n\t• **Location:** [Gamers' Grotto](https://runescape.wikia.com/wiki/Gamers%27_Grotto)\n\t• **Tips:** This game requires 4+ people to play. Games run consistently on world 92 during the spotlight. You can grab a [stone of power](https://runescape.wikia.com/wiki/Stone_of_power) from a [stone dispenser](https://runescape.wikia.com/wiki/Stone_dispenser) if you are the hunted for a chance of winning. As the hunted, you may be killed. Simply ignore players and enjoy the Thaler as the hunter."
+                    "value": "[Fist of Guthix](https://runescape.wikia.com/wiki/Fist_of_Guthix) \n\t• **Location:** [Gamers' Grotto](https://runescape.wikia.com/wiki/Gamers%27_Grotto)\n\t• **Tips:** This game requires 4+ people to play. Games run consistently on world 92 during the spotlight. You can grab a [stone of power](https://runescape.wikia.com/wiki/Stone_of_power) from a [stone dispenser](https://runescape.wikia.com/wiki/Stone_dispenser) if you are the hunted for a chance of winning, if winning is desired. As the hunted, you may be killed. Simply ignore players attempting to grief and enjoy the Thaler as the hunter or start a prviate game."
                 },
                 {
                     "name": "​",
@@ -28,11 +28,11 @@ exports.data = {
                 },
                 {
                     "name": "​",
-                    "value": "[Fishing Trawler](https://runescape.wikia.com/wiki/Fishing_Trawler)\n\t• **Location:** [Port Khazard](https://runescape.wikia.com/wiki/Port_Khazard)\n\t• **Tips:** This game cannot be AFK'd and is dead on spotlights." 
+                    "value": "[Fishing Trawler](https://runescape.wikia.com/wiki/Fishing_Trawler)\n\t• **Location:** [Port Khazard](https://runescape.wikia.com/wiki/Port_Khazard)\n\t• **Tips:** This game cannot be AFK'd and is low to no activity on spotlights." 
                 },
                 {
                     "name": "​",
-                    "value": "[The Great Orb Project](https://runescape.wikia.com/wiki/The_Great_Orb_Project) \n\t• **Location:** [Runecrafting Guild](https://runescape.wikia.com/wiki/Runecrafting_Guild)\n\t• **Tips:** This game is consistently played on world 65 during spotlight. There is an activity bar on this game. To get around this, players may utilize an [attractor](https://runescape.wikia.com/wiki/Attractor_wand) on an orb, within each map location without actually scoring to keep the activity level high. Since this is the only world it is played on, you may have legitimate players stealing your orb. If this occurs, its best to have the fellow AFKers in the match to join you on a different world. You will need a minimum of 3 other players to accomplish this."
+                    "value": "[The Great Orb Project](https://runescape.wikia.com/wiki/The_Great_Orb_Project) \n\t• **Location:** [Runecrafting Guild](https://runescape.wikia.com/wiki/Runecrafting_Guild)\n\t• **Tips:** This game is consistently played on world 65 during spotlight. There is an activity bar on this game. To get around this, players may utilize an [attractor](https://runescape.wikia.com/wiki/Attractor_wand) on an orb within each map location without actually scoring to keep the activity level high. Since this is the only world it is played on, you may have legitimate players stealing your orb. If this occurs, its best to have the fellow AFKers in the match to join you on a different world. You will need a minimum of 3 other players to accomplish this."
                 },
                 {
                     "name": "​",
@@ -48,7 +48,7 @@ exports.data = {
                 },
                 {
                     "name": "​",
-                    "value": "[Cabbage Facepunch Bonanza](https://runescape.wikia.com/wiki/Cabbage_Facepunch_Bonanza) \n\t• **Location:** [Gamers' Grotto](https://runescape.wikia.com/wiki/Gamers%27_Grotto)\n\t• **Tips:** This game is instanced across every world. Players may simply idle wherever they spawn and turn into a gorilla for the remaining duration of the game upon round change. It is in your best interest to not PK other players, as this will end the game sooner."
+                    "value": "[Cabbage Facepunch Bonanza](https://runescape.wikia.com/wiki/Cabbage_Facepunch_Bonanza) \n\t• **Location:** [Gamers' Grotto](https://runescape.wikia.com/wiki/Gamers%27_Grotto)\n\t• **Tips:** This game is instanced across every world. Players may simply idle wherever they spawn and turn into a gorilla for the remaining duration of the game upon round change. It is in your best interest to not PK other players, as this will end the game sooner. You may also legitimately participate in this game in order to obtain the [seedicide](https://runescape.wikia.com/wiki/Seedicide) reward."
                 },
                 {
                     "name": "​",
@@ -60,7 +60,7 @@ exports.data = {
                 },
                 {
                     "name": "​",
-                    "value": "[Barbarian Assault](https://runescape.wikia.com/wiki/Barbarian_Assault) \n\t• **Location:** [Barbarian Outpost](https://runescape.wikia.com/wiki/Barbarian_Outpost)\n\t• **Tips:** This game is consistently played on world 6. AFK Teams are usually formed in the lobby of first room, however, you may use the AFK Thaler tag to try to find team fills if needed. You may stay in this minigame until someone logs out. Simply run to the raised platform and hide behind the Penance Horn at the start of wave 1."
+                    "value": "[Barbarian Assault](https://runescape.wikia.com/wiki/Barbarian_Assault) \n\t• **Location:** [Barbarian Outpost](https://runescape.wikia.com/wiki/Barbarian_Outpost)\n\t• **Tips:** This game is consistently played on world 6. AFK Teams are usually formed in the lobby of the first room, however, you may use the AFK Thaler tag to try to find team fills if needed. You may stay in this minigame until someone logs out. Simply run to the raised platform and hide behind the Penance Horn at the start of wave 1. You may also play the game legitimately with our [BA Teams](https://discord.gg/XUuhc9y) affiliates to gain major bonus experience rewards in mining, agility, or firemaking over the course of the spotlight."
                 },
                 {
                     "name": "​",
