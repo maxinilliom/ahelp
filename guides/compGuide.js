@@ -4341,7 +4341,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Kal'gerion Notes](http://runescape.wikia.com/wiki/Kal%27gerion_Notes_(achievement%29) is a meta-achievement that requires the player to collect all five parts of the [Kal'gerion notes](http://runescape.wikia.com/wiki/Kal%27gerion_notes) within [Daemonheim](https://runescape.wikia.com/wiki/Daemonheim).\n\nPlayers may utilize a [Daemonheim aura 1-4](https://runescape.wikia.com/wiki/Daemonheim_aura) choose which boss is faced in a dungeon, once per day, or a [Dungeoneering cape](https://runescape.wikia.com/wiki/Dungeoneering_cape) perk to have a chance of doing so.",
+			"description": "[Kal'gerion Notes](http://runescape.wikia.com/wiki/Kal%27gerion_Notes_(achievement%29) is a meta-achievement that requires the player to collect all five parts of the [Kal'gerion notes](http://runescape.wikia.com/wiki/Kal%27gerion_notes) within [Daemonheim](https://runescape.wikia.com/wiki/Daemonheim).\n\nPlayers may utilize a [Daemonheim aura 1-4](https://runescape.wikia.com/wiki/Daemonheim_aura) choose which boss is faced in a dungeon, once per day, or a [Dungeoneering cape (t)](https://runescape.wikia.com/wiki/Dungeoneering_cape_(t) perk to have a chance of doing so.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -4629,7 +4629,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Last of the Summer Swine](http://runescape.wikia.com/wiki/Last_of_the_Summer_Swine) is an achievement that requires the player to fully upgrade the pig creation machine after the Bringing Home the Bacon quest.\n\nUpgrading to tier 2 requires 44 Construction, 44 Crafting and 44 Summoning and 3 oak planks, 2 steel bars and at least 3 nails. This gives 100 Construction and Crafting experience.\n\nUpgrading to tier 3 requires 84 Construction, 84 Crafting and 84 Summoning and 3 teak planks, 2 mithril bars, and at least 3 nails. This gives 1,000 Construction and Crafting experience",
+			"description": "[Last of the Summer Swine](http://runescape.wikia.com/wiki/Last_of_the_Summer_Swine) is an achievement that requires the player to fully upgrade the pig creation machine after the [Bringing Home the Bacon](https://runescape.wikia.com/wiki/Bringing_Home_the_Bacon) quest.\n\n• Upgrading to tier 2 requires 3 [oak planks](https://runescape.wikia.com/wiki/Oak_plank), 2 [steel bars](https://runescape.wikia.com/wiki/Steel_bar), and at least 3 [steel nails](https://runescape.wikia.com/wiki/Steel_nails).\n\n• Upgrading to tier 3 requires 3 [teak planks](https://runescape.wikia.com/wiki/Teak_plank), 2 [mithril bars](https://runescape.wikia.com/wiki/Mithril_bar), and at least 3 steel nails.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -4653,7 +4653,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Learning from Mr. Mordaut](http://runescape.wikia.com/wiki/Learning_from_Mr._Mordaut) is an achievement that requires the player to claim and use the Divination lamp from [Mr. Mordaut](http://runescape.wikia.com/wiki/Mr._Mordaut) after the One of a Kind quest. Mr. Mordaut is a very old, friendly and wise draconic professor, currently employed as the Professor of Unnatural History at the Varrock Museum. His office is located behind the door at the back of the stairs to the basement.\n\nPlayers who completed the quest before this update can obtain it by talking to Mr. Mordaut in Varrock Museum, as he will gladly \"return\" it to you. Contrary to the destroy message, it CANNOT be reclaimed.",
+			"description": "[Learning from Mr. Mordaut](http://runescape.wikia.com/wiki/Learning_from_Mr._Mordaut) is an achievement that requires the player to claim and use the [Divination lamp](https://runescape.wikia.com/wiki/Divination_lamp) from [Mr. Mordaut](http://runescape.wikia.com/wiki/Mr._Mordaut) after the [One of a Kind](https://runescape.wikia.com/wiki/One_of_a_Kind) quest. Mr. Mordaut is a very old, friendly and wise draconic professor, currently employed as the Professor of Unnatural History at the [Varrock Museum](https://runescape.wikia.com/wiki/Varrock_Museum). His office is located behind the door at the back of the stairs to the basement.\n\nPlayers who completed the quest before this update can obtain it by talking to Mr. Mordaut in Varrock Museum, as he will gladly \"return\" it to you. Contrary to the destroy message, it CANNOT be reclaimed.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -4677,11 +4677,23 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Let us Give Ugthanks](http://runescape.wikia.com/wiki/Let_us_Give_Ugthanks) is an achievement that requires the player to read the [Ugthanatos journal](http://runescape.wikia.com/wiki/Ugthanatos_journal).\n\nThe Ugthanatos is a book obtained by killing Camel Warriors, also known as Ugthanatos. Players do not have to be on a slayer assigment to obtain one.",
+			"description": "[Let us Give Ugthanks](http://runescape.wikia.com/wiki/Let_us_Give_Ugthanks) is an achievement that requires the player to read the [Ugthanatos journal](http://runescape.wikia.com/wiki/Ugthanatos_journal).\n\nThe Ugthanatos is a book obtained by killing Camel Warriors, also known as Ugthanatos. Players do not have to be on a slayer assigment to obtain one. It has a drop rate of 1/25.\n\nCamel Warriors can be found on the [island](https://runescape.wikia.com/wiki/Camel_Warriors_island) east of [Sophanem](https://runescape.wikia.com/wiki/Sophanem). The island has [desert heat](https://runescape.wikia.com/wiki/Desert_heat), so players may wish to use [waterskins](https://runescape.wikia.com/wiki/Waterskin) or an [enchanted water tiara](https://runescape.wikia.com/wiki/Enchanted_water_tiara) while they are on the island. If the [Crocodile Tears](https://runescape.wikia.com/wiki/Crocodile_Tears) quest is completed, then the player will be automatically protected against desert heat. Once attacked, the Camel Warrior will almost immediately split into three mirages; a [blood](https://runescape.wikia.com/wiki/Blood_mirage), [shadow](https://runescape.wikia.com/wiki/Shadow_mirage), and [smoke mirage](https://runescape.wikia.com/wiki/Smoke_mirage). Camel Warriors themselves do not use spells from the ancient spellbook; their mirages do this instead. They have their own standard attacks; their ranged attack is their spit and the magic attack a small dust tornado.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
 			"fields": [
+				{
+					"name": "Mechanics:",
+					"value": "The mirages use magic attacks and spells from the ancient spellbook. Smoke spells reduce accuracy, shadow reduces damage, blood heals for 5% of the damage dealt and ice binds for 10 seconds. Each mirage has 11,250 life points, and has a max hit of about 1,000. The blood mirage heals its fellow mirages for up to 900 life points each for each attack it performs, regardless if it hits the player or not. The healing only applies to the mirages that it was summoned with, so it will not heal mirages of another camel. The shadow mirage has an adrenaline bar over its head, which fills as it attacks. When completely filled, it will launch a curse at the player that drains a massive amount of your prayer points. It can also perform [Weaken](https://runescape.wikia.com/wiki/Weaken) on the player. The smoke mirage does not have any unique mechanics, apart from the ability to cast [Confuse](https://runescape.wikia.com/wiki/Confuse) on the player."
+				},
+				{
+					"name": "​",
+					"value": "It is recommended to kill the shadow mirage first, then followed up by the blood and smoke mirage. Since the mirages can stack heavy damage, it is recommended to kill one quickly, then bind the blood mirage and go under it. Doing so prevents the blood mirage from attacking you, which will temporarily stop it from being able to heal its mirages. If the blood mirage breaks free and the remaining mirage is not killed yet, bind it again.\n\nThe camel will appear again at the location of the last mirage killed. Throughout the fight with the main camel, a bar will appear above its head, similar to the shadow mirage. When this bar fills they will either use a sandstorm attack which deals 50 damage initially then doubles every tick until it disappears, or use the prayer draining attack the shadow mirages use. The sandstorm attack is signified when the camel bashes its staff into the ground."
+				},
+				{
+					"name": "​",
+					"value": "While the camel warrior is not immune to [stuns](https://runescape.wikia.com/wiki/Stun) and [binds](https://runescape.wikia.com/wiki/Bind), doing so will result in the camel using its powerful sandstorm attack once it breaks free. The sandstorm doubles in damage every 0.6 seconds, quickly killing any player who stands in the area for several seconds. It can be easily avoided though, so stunning and binding them is recommended if you need to kill it quickly.\n\nCamel Warriors have an unusual weakness mechanic. While they are weak to crushing attacks, (melee) themselves, their mirages are weak to thrown attacks (ranged). Since you will be hit with accuracy reducing debuffs, it is possible to miss even with an overload and level 95 leech curses if using one combat style. It might be preferable to bring both melee and ranged weapons."
+				},
 				{
 					"name": "Requirements:",
 					"value": "• 96 Slayer"
@@ -4705,14 +4717,14 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Library of Nex](http://runescape.wikia.com/wiki/Library_of_Nex) is a meta-achievement that requires the player to obtain [The Promised Gift](http://runescape.wikia.com/wiki/The_Promised_Gift) and [The Praesul](http://runescape.wikia.com/wiki/The_Praesul) by completing one Nex: Angel of Death encounter.\n\nFeel free to mention the **Reaper Crew** role or view our AoD specific <#441624301616234496> for help with this feat.",
+			"description": "[Library of Nex](http://runescape.wikia.com/wiki/Library_of_Nex) is a meta-achievement that requires the player to obtain [The Promised Gift](http://runescape.wikia.com/wiki/The_Promised_Gift) and [The Praesul](http://runescape.wikia.com/wiki/The_Praesul) by completing one [Nex: Angel of Death](https://runescape.wikia.com/wiki/Nex:_Angel_of_Death) encounter.\n\nThe entrance to her arena is a hidden door found on the south wall of the original Nex's lobby area in [God Wars Dungeon](https://runescape.wikia.com/wiki/God_Wars_Dungeon)'s [Ancient Prison](https://runescape.wikia.com/wiki/Ancient_Prison), which requires a [Frozen key](https://runescape.wikia.com/wiki/Frozen_key) and either 40 Zarosian kills or a set of [Ancient ceremonial robes](https://runescape.wikia.com/wiki/Ancient_ceremonial_robes).\n\nA team size of 7 players is recommended for this fight. Up to 50 players may battle Nex. Her attacks will affect more targets the more players there are. An instance only lasts for one kill, but are provided free of charge.\n\nPlayers may request assitance with this kill in the <#436714722847621120> channel of this discord, and view a guide on how to complete it in the <#476790691436167168> channel.\n\nFeel free to also check our boss teaching <#477196003989127168> for help with this feat.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
 			"fields": [
 				{
 					"name": "Requirements:",
-					"value": "• 70 Constitution\n• 70 Ranged\n• 70 Agility\n• 70 Strength"
+					"value": "• 70 Constitution\n• 70 Ranged\n• 70 Agility\n• 70 Strength\n\n• A Frozen key\n• 40 Zarosian kills or a set of Ancient ceremonial robes"
 				}
 			],
 			"footer": {
@@ -4729,7 +4741,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Load of Bakulla](http://runescape.wikia.com/wiki/Load_of_Bakulla) is an achievement that requires the player to hear The Epic of Bukalla in the [Rellekka Longhall Bar](http://runescape.wikia.com/wiki/Rellekka_Longhall_Bar) after The Fremennik Trials.\n\nPlayers may listen to it by speaking to one of Ospak, Fridgeir, or Styrmir in Rellekka longhall after The Fremennik Trials.",
+			"description": "[Load of Bakulla](http://runescape.wikia.com/wiki/Load_of_Bakulla) is an achievement that requires the player to hear [The Epic of Bukalla](https://runescape.wikia.com/wiki/The_Epic_of_Bukalla) in the [Rellekka Longhall Bar](http://runescape.wikia.com/wiki/Rellekka_Longhall_Bar) after [The Fremennik Trials](https://runescape.wikia.com/wiki/The_Fremennik_Trials).\n\nThe Rellekka Longhall Bar is a bar found in the [Rellekka](https://runescape.wikia.com/wiki/Rellekka) longhall.\n\nPlayers may listen to it by speaking to one of [Ospak](https://runescape.wikia.com/wiki/Ospak), [Fridgeir](https://runescape.wikia.com/wiki/Fridgeir), or [Styrmir](https://runescape.wikia.com/wiki/Styrmir) in the Rellekka longhall. [Torbrund](https://runescape.wikia.com/wiki/Torbrund) is also seen in the audience, but cannot be spoken with because of his location within that audience.\n\nIt is an alliterative poem, based on the same principles as Viking and Anglo-Saxon poetry, such as Norse sagas, Beowulf and later medieval romances. It is a five minute long, voice acted cutscene performed by [Mark Ogilvie](https://runescape.wikia.com/wiki/Mod_Mark).",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -4817,7 +4829,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Looting the Demon Throne](http://runescape.wikia.com/wiki/Looting_the_Demon_Throne) is an achievement that requires the player to claim the gems from the throne in [Thammaron's Throne Room](http://runescape.wikia.com/wiki/Thammaron%27s_Throne_Room) after defeating him during or after The Golem.\n\nAt Uzer, go down the stairs to the temple ruins. Go through the double doors to enter Thammaron's throne room.",
+			"description": "[Looting the Demon Throne](http://runescape.wikia.com/wiki/Looting_the_Demon_Throne) is an achievement that requires the player to claim the gems from the throne in [Thammaron's Throne Room](http://runescape.wikia.com/wiki/Thammaron%27s_Throne_Room) after defeating him during or after [The Golem](https://runescape.wikia.com/wiki/The_Golem).\n\nTo reach the throne room, go to [Uzer](https://runescape.wikia.com/wiki/Uzer), then go down the stairs to the temple ruins. Go through the double doors to enter Thammaron's throne room and loot the gems.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -4941,7 +4953,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Lovingly Crafted](http://runescape.wikia.com/wiki/Lovingly_Crafted) is an achievement that requires the player to obtain and read all 5 horror journals.\n\n• Decaying journal: Guaranteed drop from [Skeletal horror](http://runescape.wikia.com/wiki/Skeletal_horror).\n• Festering journal: Uncommon drop from [Unspeakable horrors](http://runescape.wikia.com/wiki/Unspeakable_horror).\n• Rotten journal: Complete the [Hooded pirate's miniquest](http://runescape.wikia.com/wiki/Hooded_pirate).\n• Pestilent journal: Found north-west of Mos Le'Harmless in a jungle plant.\n• Blasphemous journal: Dirt mound north-east of the wheat field in Mos Le'Harmless after finding and reading the other four journals.",
+			"description": "[Lovingly Crafted](http://runescape.wikia.com/wiki/Lovingly_Crafted) is an achievement that requires the player to obtain and read all 5 horror journals.\n\nThe five journals and their locations are:\n\n[Decaying journal](https://runescape.wikia.com/wiki/Decaying_journal)\n• Guaranteed drop from [Skeletal horror](http://runescape.wikia.com/wiki/Skeletal_horror).\n\n[Festering journal](https://runescape.wikia.com/wiki/Festering_journal)\n• Uncommon drop from [Unspeakable horrors](http://runescape.wikia.com/wiki/Unspeakable_horror).\n\n[Rotten journal](https://runescape.wikia.com/wiki/Rotten_journal)\n• Complete the [Hooded pirate's miniquest](http://runescape.wikia.com/wiki/Hooded_pirate).\n\n[Pestilent journal](https://runescape.wikia.com/wiki/Pestilent_journal)\n• Found north-west of Mos Le'Harmless in a jungle plant.\n\n[Blasphemous journal](https://runescape.wikia.com/wiki/Blasphemous_journal)\n• Dirt mound north-east of the wheat field in Mos Le'Harmless after finding and reading the other four journals. **This means the blasphemous journal has to be obtained last.**",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
