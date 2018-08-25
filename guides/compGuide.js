@@ -323,7 +323,7 @@ exports.data = {
 					"value": "• 63 Construction"
 				},
 				{
-					"name": "Guide",
+					"name": "Guide:",
 					"value": "[Prawnbroker Prawn Perks | Runescape Wiki](http://runescape.wikia.com/wiki/Prawnbroker#Prawn_Perks)"
 				}
 			],
@@ -2060,7 +2060,7 @@ exports.data = {
                 "name": "Cape Info",
                 "icon_url": "https://i.imgur.com/6c6q2iC.png"
             },
-            "description": "[Chompy Massacre](http://runescape.wikia.com/wiki/Chompy_Massacre) requires the player to kill 4,000 [Chompy birds](https://runescape.wikia.com/wiki/Chompy_bird). They can only be attacked with the [Ogre composite bow](https://runescape.wikia.com/wiki/Comp_ogre_bow) or [Ogre bow](https://runescape.wikia.com/wiki/Ogre_bow), and [Bloated toads](https://runescape.wikia.com/wiki/Bloated_toad) must be used as bait to catch them. Use a [Ogre bellows](https://runescape.wikia.com/wiki/Ogre_bellows) which has been loaded with swamp gas on a [Swamp toad](https://runescape.wikia.com/wiki/Swamp_toad_(creature) to get a bloated toad which is placed in the inventory. Player's with 70 Invention have the option to utilize an [Oldak coil](https://runescape.wikia.com/wiki/Oldak_coil) to help speed up their kills per hour. This method still requires an orge composite bow or bow be equipped.",
+            "description": "[Chompy Massacre](http://runescape.wikia.com/wiki/Chompy_Massacre) requires the player to kill 4,000 [Chompy birds](https://runescape.wikia.com/wiki/Chompy_bird). They can only be attacked with the [Ogre composite bow](https://runescape.wikia.com/wiki/Comp_ogre_bow) or [Ogre bow](https://runescape.wikia.com/wiki/Ogre_bow), and [Bloated toads](https://runescape.wikia.com/wiki/Bloated_toad) must be used as bait to catch them. Use a [Ogre bellows](https://runescape.wikia.com/wiki/Ogre_bellows), which has been loaded with swamp gas, on a [Swamp toad](https://runescape.wikia.com/wiki/Swamp_toad_(creature) to get a bloated toad which is placed in the inventory.\n\nPlayer's with 70 Invention have the option to utilize an [Oldak coil](https://runescape.wikia.com/wiki/Oldak_coil) to help speed up their kills per hour. This method still requires an orge composite bow or bow be equipped.\n\nWhen a chompy bird is killed, a message says: \"You scratch a notch on your bow for the chompy bird kill.\"",
             "thumbnail": {
                 "url": "https://i.imgur.com/Shmagnp.png"
             },
@@ -4341,7 +4341,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Kal'gerion Notes](http://runescape.wikia.com/wiki/Kal%27gerion_Notes_(achievement%29) is a meta-achievement that requires the player to collect all five parts of the [Kal'gerion notes](http://runescape.wikia.com/wiki/Kal%27gerion_notes) within [Daemonheim](https://runescape.wikia.com/wiki/Daemonheim).\n\nPlayers may utilize a [Daemonheim aura 1-4](https://runescape.wikia.com/wiki/Daemonheim_aura) choose which boss is faced in a dungeon, once per day, or a [Dungeoneering cape (t)](https://runescape.wikia.com/wiki/Dungeoneering_cape_(t) perk to have a chance of doing so.",
+			"description": "[Kal'gerion Notes](http://runescape.wikia.com/wiki/Kal%27gerion_Notes_(achievement%29) is a meta-achievement that requires the player to collect all five parts of the [Kal'gerion notes](http://runescape.wikia.com/wiki/Kal%27gerion_notes) within [Daemonheim](https://runescape.wikia.com/wiki/Daemonheim).\n\nPlayers may utilize a [Daemonheim aura 1-4](https://runescape.wikia.com/wiki/Daemonheim_aura) choose which boss is faced in a dungeon, once per day, or a [Dungeoneering master cape](https://runescape.wikia.com/wiki/Dungeoneering_cape_(t) perk to have a chance of doing so.\n\nPlayers may find parts of the notes once they defeat certain [bosses](https://runescape.wikia.com/wiki/Dungeoneering/Bosses) in the dungeons\n\nWearing the Dungeoneering master cape will increase the chance of receiving lore drops while Dungeoneering.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -5017,11 +5017,39 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Lurgon's Run](http://runescape.wikia.com/wiki/Lurgon%27s_Run) is an achievement that requires the player to unlock the [Dorgesh-Kaan trading minigame](http://runescape.wikia.com/wiki/Dorgesh-Kaan_market_trading).\n\nDorgesh-Kaan market trading is an activity that can be played at the market of [Dorgesh-Kaan](http://runescape.wikia.com/wiki/Dorgesh-Kaan). It revolves around selling \"exotic\" surface foods to Dorgeshuun gourmets for a certain price, with some foods being more or less desired than others.\n\nBefore being able to sell foods, you will need to get permission first. This is done by speaking to [Lurgon](http://runescape.wikia.com/wiki/Lurgon), owner of [Dorgesh-Kaan General Supplies](http://runescape.wikia.com/wiki/Dorgesh-Kaan_General_Supplies) - he can be found wandering around the middle of the market.\n\nLurgon will explain the basics of trading and inform you that you will need permission from the [Dorgeshuun Council](http://runescape.wikia.com/wiki/Dorgeshuun_Council) first, with a certain (random) councillor in charge of the marketplace. Find this councillor and ask for permission, which you are granted instantly. Return to Lurgon - you will now be able to sell food to the goblins.",
+			"description": "[Lurgon's Run](http://runescape.wikia.com/wiki/Lurgon%27s_Run) is an achievement that requires the player to unlock the [Dorgesh-Kaan trading minigame](http://runescape.wikia.com/wiki/Dorgesh-Kaan_market_trading).\n\nDorgesh-Kaan market trading is an activity that can be played at the market of [Dorgesh-Kaan](http://runescape.wikia.com/wiki/Dorgesh-Kaan). It revolves around selling \"exotic\" surface foods to [Dorgeshuun gourmets](https://runescape.wikia.com/wiki/Dorgeshuun) for a certain price, with some foods being more or less desired than others.\n\nBefore being able to sell foods, you will need to get permission first. This is done by speaking to [Lurgon](http://runescape.wikia.com/wiki/Lurgon), owner of [Dorgesh-Kaan General Supplies](http://runescape.wikia.com/wiki/Dorgesh-Kaan_General_Supplies), who can be found wandering around the middle of the market.\n\nLurgon will explain the basics of trading and inform you that you will need permission from the [Dorgeshuun Council](http://runescape.wikia.com/wiki/Dorgeshuun_Council) first, with a certain (random) councillor in charge of the marketplace. Find this councillor and ask for permission, which you are granted instantly. Return to Lurgon - you will now be able to sell food to the goblins.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
 			"fields": [
+				{
+					"name": "Councillor Locations:",
+					"value": "**Councillor:** [Ur-lun](https://runescape.wikia.com/wiki/Ur-lun)\n\t• **Location:** In the south-east of the city, along with Ur-pel"
+				},
+				{
+					"name": "​",
+					"value": "**Councillor:** [Ur-meg](https://runescape.wikia.com/wiki/Ur-meg)\n\t• **Location:** In her house west of the market, south of [Barlak](https://runescape.wikia.com/wiki/Barlak)'s shop"
+				},
+				{
+					"name": "​",
+					"value": "**Councillor:** [Ur-pel](https://runescape.wikia.com/wiki/Ur-pel)\n\t• **Location:** In the south-east of the city, along with Ur-lun"
+				},
+				{
+					"name": "​",
+					"value": "**Councillor:** [Ur-taal](https://runescape.wikia.com/wiki/Ur-taal)\n\t• **Location:** In the north-west of the city, by the large pond and outside [Oldak](https://runescape.wikia.com/wiki/Oldak)'s laboratory, along with Ur-zek"
+				},
+				{
+					"name": "​",
+					"value": "**Councillor:** [Ur-tag](https://runescape.wikia.com/wiki/Ur-tag)\n\t• **Location:** East of the council's meeting room in the north-east of the city, on the first floor."
+				},
+				{
+					"name": "​",
+					"value": "**Councillor:** [Ur-vass](https://runescape.wikia.com/wiki/Ur-vass)\n\t• **Location:** Slightly north-east of the market, east of the fountains."
+				},
+				{
+					"name": "​",
+					"value": "**Councillor:** [Ur-zek](https://runescape.wikia.com/wiki/Ur-zek)\n\t• **Location:** In the north-west of the city, by the large pond and outside Oldak's laboratory, along with Ur-taal"
+				},
 				{
 					"name": "Requirements:",
 					"value": "• Death to the Dorgeshuun Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Death_to_the_Dorgeshuun)"
@@ -5069,7 +5097,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Many Shades of a Cure](http://runescape.wikia.com/wiki/Many_Shades_of_a_Cure) is an achievement that requires the player to use a dose of [Serum 208](http://runescape.wikia.com/wiki/Serum_208) on [Razmire Keelgan](http://runescape.wikia.com/wiki/Razmire_Keelgan) and [Ulsquire Shauncy](http://runescape.wikia.com/wiki/Ulsquire_Shauncy) after completion of Shades of Mort'ton.\n\nRazmire Keelgan is located at [Mort'ton](http://runescape.wikia.com/wiki/Mort%27ton) and runs both the general store and the store with building supplies.\n\nUlsquire Shauncy is an afflicted resident of Mort'ton, and a local priest and teacher in the town which was famed for its religious ceremonies. Ulsquire is located in one of the three still-standing houses of Mort'ton, along with a sink acting as the town's only water source.\n\nSerum 208 is a permanent cure for the afflicted villagers of Mort'ton. It is used during the Shades of Mort'ton quest to turn Afflicted NPCs back into normal characters so the player can interact with them.\n\nIt is made by using [Serum 207](http://runescape.wikia.com/wiki/Serum_207) on the sacred flame at the rebuilt temple. Serum 207 is a temporary cure for the afflicted villagers of Mort'ton, who are otherwise incoherent.\n\nA player who has read the Diary of Herbi Flax during the quest Shades of Mort'ton, and has at least 15 Herblore may produce it by adding clean tarromin to a vial of water and then adding Ashes, giving 50 Herblore experience.",
+			"description": "[Many Shades of a Cure](http://runescape.wikia.com/wiki/Many_Shades_of_a_Cure) is an achievement that requires the player to use a dose of [Serum 208](http://runescape.wikia.com/wiki/Serum_208) on [Razmire Keelgan](http://runescape.wikia.com/wiki/Razmire_Keelgan) and [Ulsquire Shauncy](http://runescape.wikia.com/wiki/Ulsquire_Shauncy) after completion of [Shades of Mort'ton](https://runescape.wikia.com/wiki/Shades_of_Mort%27ton).\n\nRazmire Keelgan is located at [Mort'ton](http://runescape.wikia.com/wiki/Mort%27ton) and runs both the general store and the store with building supplies.\n\nUlsquire Shauncy is an afflicted resident of Mort'ton, and a local priest and teacher in the town which was famed for its religious ceremonies. Ulsquire is located in one of the three still-standing houses of Mort'ton, along with a sink acting as the town's only water source.\n\nSerum 208 is a permanent cure for the afflicted villagers of Mort'ton. It is used during the Shades of Mort'ton quest to turn afflicted NPCs back into normal characters so the player can interact with them.\n\nIt is made by using [Serum 207](http://runescape.wikia.com/wiki/Serum_207) on the sacred flame at the rebuilt temple. Serum 207 is a temporary cure for the afflicted villagers of Mort'ton, who are otherwise incoherent.\n\nA player who has read the [Diary of Herbi Flax](https://runescape.wikia.com/wiki/Diary_(Shades_of_Mort'ton) during the quest Shades of Mort'ton, and has at least 15 Herblore may produce Serum 207 by adding [clean tarromin](https://runescape.wikia.com/wiki/Clean_tarromin) to a [vial of water](https://runescape.wikia.com/wiki/Vial_of_water) and then adding [Ashes](https://runescape.wikia.com/wiki/Ashes).",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -5121,19 +5149,19 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Marmaros and Thok Letters](http://runescape.wikia.com/wiki/Marmaros_and_Thok_Letters) is a meta-achievement that requires the player to collect all ten [M. and thok letters](http://runescape.wikia.com/wiki/M._and_thok_letter) within Daemonheim.",
+			"description": "[Marmaros and Thok Letters](http://runescape.wikia.com/wiki/Marmaros_and_Thok_Letters) is a meta-achievement that requires the player to collect all ten [M. and thok letters](http://runescape.wikia.com/wiki/M._and_thok_letter) within [Daemonheim](https://runescape.wikia.com/wiki/Daemonheim).\n\nThe journal entries are dropped by monsters and bosses within the dungeons, and detail the Fremennik expedition into the tunnels and certain monsters which can be encountered there. On very rare occasions, multiple letters from Marmaros and Thok are obtainable from a single monster drop.\n\nAfter finding all ten of the M. And Thok letters a new chat option appears when speaking to Thok (and by extension, Marmaros) which helps to somewhat refresh the memories of both men about the events they went through at the bottom of Daemonheim.\n\nWearing the [Dungeoneering master cape](https://runescape.wikia.com/wiki/Dungeoneering_cape_(t) will increase the chance of receiving lore drops while Dungeoneering.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
 			"fields": [
 				{
 					"name": "M. and thok letter",
-					"value": "Part 1\nPart 2\nPart 3\nPart 4\nPart 5\nPart 6\nPart 7\nPart 8\nPart 9\nPart 10",
+					"value": "[M. and thok letter Part 1](https://runescape.wikia.com/wiki/M._and_thok_letter_(part_1)\n[M. and thok letter Part 2](https://runescape.wikia.com/wiki/M._and_thok_letter_(part_2)\n[M. and thok letter Part 3](https://runescape.wikia.com/wiki/M._and_thok_letter_(part_3)\n[M. and thok letter Part 4](https://runescape.wikia.com/wiki/M._and_thok_letter_(part_4)\n[M. and thok letter Part 5](https://runescape.wikia.com/wiki/M._and_thok_letter_(part_5)\n[M. and thok letter Part 6](https://runescape.wikia.com/wiki/M._and_thok_letter_(part_6)\n[M. and thok letter Part 7](https://runescape.wikia.com/wiki/M._and_thok_letter_(part_7)\n[M. and thok letter Part 8](https://runescape.wikia.com/wiki/M._and_thok_letter_(part_8)\n[M. and thok letter Part 9](https://runescape.wikia.com/wiki/M._and_thok_letter_(part_9)\n[M. and thok letter Part 10](https://runescape.wikia.com/wiki/M._and_thok_letter_(part_10)",
 					"inline": true
 				},
 				{
 					"name": "Found on floors",
-					"value": "Frozen floors 1-5\nFrozen floors 6-11\nAbandoned 1 floors 12-14\nAbandoned 1 floors 15-17\nFurnished floors 18-22\nFurnished floors 23-29\nOccult floors 36-40\nOccult foors 42-47\nWarped floors 48-53\nWarped floors 54-60",
+					"value": "[Frozen floors](https://runescape.wikia.com/wiki/Dungeoneering_floors#Frozen_floors) 1-5\nFrozen floors 6-11\n[Abandoned 1](https://runescape.wikia.com/wiki/Dungeoneering_floors#Abandoned_floors) floors 12-14\nAbandoned 1 floors 15-17\n[Furnished floors](https://runescape.wikia.com/wiki/Dungeoneering_floors#Furnished_floors) 18-22\nFurnished floors 23-29\n[Occult](https://runescape.wikia.com/wiki/Dungeoneering_floors#Occult_floors_.28m.29) floors 36-40\nOccult foors 42-47\nWarped floors 48-53\n[Warped](https://runescape.wikia.com/wiki/Dungeoneering_floors#Warped_floors_.28m.29) floors 54-60",
 					"inline": true
 				},
 				{
@@ -5183,7 +5211,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Master Bogreman](http://runescape.wikia.com/wiki/Master_Bogreman) is an achievement that requires the player to unlock the ogre bowman hat by killing 30 [Chompy birds](http://runescape.wikia.com/wiki/Chompy_bird).\n\n Chompy birds can only be attacked with the [Ogre composite bow](http://runescape.wikia.com/wiki/Ogre_composite_bow) or [Ogre bow](http://runescape.wikia.com/wiki/Ogre_bow), and [Bloated toads](http://runescape.wikia.com/wiki/Bloated_toad) must be used as bait to catch them. Use a set of [Ogre bellows](http://runescape.wikia.com/wiki/Ogre_bellows) which has been loaded with swamp gas on a [Swamp toad](http://runescape.wikia.com/wiki/Swamp_toad_(creature%29) to get a bloated toad which is placed in the inventory.",
+			"description": "[Master Bogreman](http://runescape.wikia.com/wiki/Master_Bogreman) is an achievement that requires the player to unlock the [ogre bowman hat](https://runescape.wikia.com/wiki/Chompy_bird_hat_(ogre_bowman) by killing 30 [Chompy birds](http://runescape.wikia.com/wiki/Chompy_bird).\n\n Chompy birds can only be attacked with the [Ogre composite bow](http://runescape.wikia.com/wiki/Ogre_composite_bow) or [Ogre bow](http://runescape.wikia.com/wiki/Ogre_bow), and [Bloated toads](http://runescape.wikia.com/wiki/Bloated_toad) must be used as bait to catch them. Use a set of [Ogre bellows](http://runescape.wikia.com/wiki/Ogre_bellows), which has been loaded with swamp gas, on a [Swamp toad](http://runescape.wikia.com/wiki/Swamp_toad_(creature%29) to get a bloated toad which is placed in the inventory.\n\nPlayer's with 70 Invention have the option to utilize an [Oldak coil](https://runescape.wikia.com/wiki/Oldak_coil) to help speed up their kills per hour. This method still requires an orge composite bow or bow be equipped.\n\nWhen a chompy bird is killed, a message says: \"You scratch a notch on your bow for the chompy bird kill.\"",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -5371,7 +5399,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Measure of Old](http://runescape.wikia.com/wiki/Measure_of_Old) is an achievement that requires the player to use [The Measure](http://runescape.wikia.com/wiki/The_Measure) to locate and interact with the four [Elder chronicles](http://runescape.wikia.com/wiki/Elder_chronicle).\n\nElder chronicles are wisps that can be found after Fate of the Gods, using The Measure in the following four different locations:\n\n• Bik's chronicle: near the submerged statue on the far northwest corner of [Entrana](http://runescape.wikia.com/wiki/Entrana).\n• Ful's chronicle: next to the [TzHaar city](http://runescape.wikia.com/wiki/TzHaar_city) entrance on top of [Karamja volcano](http://runescape.wikia.com/wiki/Karamja_volcano).\n• Wen's chronicle: near the [Oracle](http://runescape.wikia.com/wiki/Oracle) on the [Ice Mountain](http://runescape.wikia.com/wiki/Ice_Mountain).\n• Jas' chronicle: by the archaeologist camp in the [Ruins of Ullek](http://runescape.wikia.com/wiki/Ruins_of_Ullek).\n\nAfter capturing them, they award the player with 50,000 Divination experience each, for a total of 200,000.",
+			"description": "[Measure of Old](http://runescape.wikia.com/wiki/Measure_of_Old) is an achievement that requires the player to use [The Measure](http://runescape.wikia.com/wiki/The_Measure) to locate and interact with the four [Elder chronicles](http://runescape.wikia.com/wiki/Elder_chronicle).\n\nElder chronicles are [wisps](https://runescape.wikia.com/wiki/Wisp) that can be found after [Fate of the Gods](https://runescape.wikia.com/wiki/Fate_of_the_Gods), using The Measure in the following four different locations:\n\n[Bik](https://runescape.wikia.com/wiki/Bik)'s chronicle:\n\t• Near the submerged statue on the far northwest corner of [Entrana](http://runescape.wikia.com/wiki/Entrana).\n\n[Ful](https://runescape.wikia.com/wiki/Ful)'s chronicle:\n\t• Next to the [TzHaar city](http://runescape.wikia.com/wiki/TzHaar_city) entrance on top of [Karamja volcano](http://runescape.wikia.com/wiki/Karamja_volcano).\n\n[Wen](https://runescape.wikia.com/wiki/Wen)'s chronicle:\n\t• Near the [Oracle](http://runescape.wikia.com/wiki/Oracle) on the [Ice Mountain](http://runescape.wikia.com/wiki/Ice_Mountain).\n\n[Jas](https://runescape.wikia.com/wiki/Jas)' chronicle:\n\t• By the archaeologist camp in the [Ruins of Ullek](http://runescape.wikia.com/wiki/Ruins_of_Ullek).\n\nAfter capturing them, they award the player with 50,000 Divination experience each, for a total of 200,000.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -5395,7 +5423,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Meeting your Idols](http://runescape.wikia.com/wiki/Meeting_your_Idols) is an achievement that requires the player to find the book titled [The End of Gara-Dul](http://runescape.wikia.com/wiki/The_End_of_Gara-Dul). It is found by searching an [Overgrown idol](http://runescape.wikia.com/wiki/Overgrown_idol) on [Karamja](http://runescape.wikia.com/wiki/Karamja).\n\nAn idol can be found south west of the [Ship Yard](http://runescape.wikia.com/wiki/Ship_Yard) entrance and another north of the [Jadinko Lair](http://runescape.wikia.com/wiki/Jadinko_Lair).",
+			"description": "[Meeting your Idols](http://runescape.wikia.com/wiki/Meeting_your_Idols) is an achievement that requires the player to find the book titled [The End of Gara-Dul](http://runescape.wikia.com/wiki/The_End_of_Gara-Dul). It is found by searching an [Overgrown idol](http://runescape.wikia.com/wiki/Overgrown_idol) on [Karamja](http://runescape.wikia.com/wiki/Karamja).\n\nAn idol can be found south west of the [Ship Yard](http://runescape.wikia.com/wiki/Ship_Yard) entrance and another north of the [Jadinko Lair](http://runescape.wikia.com/wiki/Jadinko_Lair).\n\nAll vines around it in the inner ring must be chopped before being able to chop the idol. However, it is not necessary to clear all vines. Only one light vine needs to be cut to reach the inner ring, and only the inner ring of medium and dense vines needs to be cleared.\n\nIt is possible to reach the overgrown idol by using the portal at the [Max Guild](https://runescape.wikia.com/wiki/Max_Guild).",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -5619,7 +5647,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Met Het Yet?](http://runescape.wikia.com/wiki/Met_Het_Yet%3F) is an achievement that requires the player to access the secret [Tomb](http://runescape.wikia.com/wiki/Het_tomb) found in the [Duel Arena](http://runescape.wikia.com/wiki/Duel_Arena) after [Our Man in the North](http://runescape.wikia.com/wiki/Our_Man_in_the_North).\n\nThe entrance to it is located behind the Het statue in the centre of the Duel Arena.",
+			"description": "[Met Het Yet?](http://runescape.wikia.com/wiki/Met_Het_Yet%3F) is an achievement that requires the player to access the secret [Tomb](http://runescape.wikia.com/wiki/Het_tomb) found in the [Duel Arena](http://runescape.wikia.com/wiki/Duel_Arena) after [Our Man in the North](http://runescape.wikia.com/wiki/Our_Man_in_the_North).\n\nThe entrance to it is located behind the Het statue in the centre of the Duel Arena. A pictured location may be found [here](https://vignette.wikia.nocookie.net/runescape2/images/f/ff/Het_tomb_location.png/revision/latest?cb=20170917170342).",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -5691,7 +5719,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Milky Teeth](http://runescape.wikia.com/wiki/Milky_Teeth) is an achievement that requires the player to claim the tooth creature from the Tooth Fairy by giving her [Kebbit teeth](http://runescape.wikia.com/wiki/Kebbit_teeth), a [Suqah tooth](http://runescape.wikia.com/wiki/Suqah_tooth), an [Old tooth](http://runescape.wikia.com/wiki/Old_tooth), [Monkey dentures](http://runescape.wikia.com/wiki/Monkey_dentures), and a [Human tooth](http://runescape.wikia.com/wiki/Human_tooth).\n\n• Kebbit teeth are dropped from [Sabre-toothed kebbits](http://runescape.wikia.com/wiki/Sabre-toothed_kebbit) after a successful deadfall trapping.\n• The suqah tooth is obtained as a drop from [Suqah](http://runescape.wikia.com/wiki/Suqah).\n• An old tooth can be found while digging at the [Digsite](http://runescape.wikia.com/wiki/Digsite) in the plot in the very northeast corner. To dig, a player must use a trowel on the soil while having a specimen jar and a specimen brush in their inventory. A gardening trowel will not work. The odds of digging up an old tooth are around 1/50.\n• The monkey dentures are a quest item used during the Monkey Madness quest. They are obtained by searching the dark brown crates in the warehouse south of the scimitar stall on Ape Atoll.\n• The human tooth can be found by searching the bunk beds in [Gertrude](http://runescape.wikia.com/wiki/Gertrude)'s house just outside Varrock.",
+			"description": "[Milky Teeth](http://runescape.wikia.com/wiki/Milky_Teeth) is an achievement that requires the player to claim the tooth creature from the Tooth Fairy by giving her [Kebbit teeth](http://runescape.wikia.com/wiki/Kebbit_teeth), a [Suqah tooth](http://runescape.wikia.com/wiki/Suqah_tooth), an [Old tooth](http://runescape.wikia.com/wiki/Old_tooth), [Monkey dentures](http://runescape.wikia.com/wiki/Monkey_dentures), and a [Human tooth](http://runescape.wikia.com/wiki/Human_tooth).\n\n• Kebbit teeth are dropped from [Sabre-toothed kebbits](http://runescape.wikia.com/wiki/Sabre-toothed_kebbit) after a successful [deadfall trapping](https://runescape.wikia.com/wiki/Deadfall_trapping).\n\n• The suqah tooth is obtained as a drop from [Suqah](http://runescape.wikia.com/wiki/Suqah).\n\n• An old tooth can be found while digging at the [Digsite](http://runescape.wikia.com/wiki/Digsite) in the plot in the very northeast corner. To dig, a player must use a [trowel](https://runescape.wikia.com/wiki/Trowel) on the soil while having a [specimen jar](https://runescape.wikia.com/wiki/Specimen_jar) and a [specimen brush](https://runescape.wikia.com/wiki/Specimen_brush) in their inventory. A [gardening trowel](https://runescape.wikia.com/wiki/Gardening_trowel) will not work. The odds of digging up an old tooth are around 1/50.\n\n• The monkey dentures are a quest item used during the Monkey Madness quest. They are obtained by searching the dark brown crates in the warehouse south of the scimitar stall on Ape Atoll.\n\n• The human tooth can be found by searching the bunk beds in [Gertrude](http://runescape.wikia.com/wiki/Gertrude)'s house just outside [Varrock](https://runescape.wikia.com/wiki/Varrock).",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -5715,18 +5743,22 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Miscellaneous Notes](http://runescape.wikia.com/wiki/Miscellaneous_Notes) is a meta-achievement that requires the player to collect the first fifteen [Miscellaneous journals](http://runescape.wikia.com/wiki/Miscellaneous_journals) within Daemonheim.",
+			"description": "[Miscellaneous Notes](http://runescape.wikia.com/wiki/Miscellaneous_Notes) is a meta-achievement that requires the player to collect the first fifteen [Miscellaneous journals](http://runescape.wikia.com/wiki/Miscellaneous_journals) within [Daemonheim](https://runescape.wikia.com/wiki/Daemonheim) from their respective [bosses](https://runescape.wikia.com/wiki/Dungeoneering/Bosses).\n\nThe requried journals are: [Astea frostweb's journa](https://runescape.wikia.com/wiki/Astea_frostweb%27s_journal), [Troll scrawlings](https://runescape.wikia.com/wiki/Troll_scrawlings), [Environmental effects (part 1)](https://runescape.wikia.com/wiki/Environmental_effects_(part_1), [Divine skinweaver's journal](https://runescape.wikia.com/wiki/Divine_skinweaver%27s_journal), [Hobgoblin scrawlings](https://runescape.wikia.com/wiki/Hobgoblin_scrawlings), [The price of betrayal](https://runescape.wikia.com/wiki/The_price_of_betrayal), [Equipment requisition receipts](https://runescape.wikia.com/wiki/Equipment_requisition_receipts), [Lexicus runewright's journal](https://runescape.wikia.com/wiki/Lexicus_runewright%27s_journal), [Ammunition requisition orders](https://runescape.wikia.com/wiki/Ammunition_requisition_orders), [Bellefleur's journal](https://runescape.wikia.com/wiki/Bellefleur%27s_journal), [Tombstone transcription](https://runescape.wikia.com/wiki/Tombstone_transcription), [Arch necrolord request](https://runescape.wikia.com/wiki/Arch_necrolord_request), [Blink's scribblings](https://runescape.wikia.com/wiki/Blink%27s_scribblings), [Gulega missive](https://runescape.wikia.com/wiki/Gulega_missive), and [Resource requisition orders](https://runescape.wikia.com/wiki/Resource_requisition_orders).",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
 			"fields": [
 				{
-					"name": "Journal",
+					"name": "​",
+					"value": "The [Portal notes](https://runescape.wikia.com/wiki/Portal_notes), [Scrap of parchment](https://runescape.wikia.com/wiki/Scrap_of_parchment), [Letter to an acolyte](https://runescape.wikia.com/wiki/Letter_to_an_acolyte), [Letter from brundt](https://runescape.wikia.com/wiki/Letter_from_brundt), and [Strange token](https://runescape.wikia.com/wiki/Strange_token), which are dropped by monsters on [Warped floors](https://runescape.wikia.com/wiki/Dungeoneering_floors#Warped_floors_.28m.29) are not requred for this achievement or cape.\n\nWearing the [Dungeoneering master cape](https://runescape.wikia.com/wiki/Dungeoneering_cape_(t) will increase the chance of receiving lore drops while Dungeoneering."
+				},
+				{
+					"name": "Journal:",
 					"value": "Astea frostweb's journal\nTroll scrawlings\nEnvironmental effects (part 1)\nDivine skinweaver's journal\nHobgoblin scrawlings\nThe price of betrayal\nEquipment requisition receipts\nLexicus runewright's journal\nAmmunition requisition orders\nBellefleur's journal\nTombstone transcription\nArch necrolord request\nBlink's scribblings\nGulega missive\nResource requisition orders",
 					"inline": true
 				},
 				{
-					"name": "Obtained from",
+					"name": "Obtained from:",
 					"value": "[Astea frostweb](http://runescape.wikia.com/wiki/Astea_frostweb)\n[Icy Bones](http://runescape.wikia.com/wiki/Icy_Bones)\n[Luminescent icefiend](http://runescape.wikia.com/wiki/Luminescent_icefiend)\n[Skeletal Horde](http://runescape.wikia.com/wiki/Skeletal_Horde)\n[Hobgoblin Geomancer](http://runescape.wikia.com/wiki/Hobgoblin_Geomancer)\n[Unholy cursebearer](http://runescape.wikia.com/wiki/Unholy_cursebearer)\n[Rammernaut](http://runescape.wikia.com/wiki/Rammernaut)\n[Lexicus Runewright](http://runescape.wikia.com/wiki/Lexicus_Runewright)\n[Sagittare](http://runescape.wikia.com/wiki/Sagittare)\n[Skeletal Trio](http://runescape.wikia.com/wiki/Skeletal_Trio)\n[Gravecreeper](http://runescape.wikia.com/wiki/Gravecreeper)\n[Necrolord](http://runescape.wikia.com/wiki/Necrolord)\n[Blink](http://runescape.wikia.com/wiki/Blink)\n[Warped Gulega](http://runescape.wikia.com/wiki/Warped_Gulega)\n[Dreadnaut](http://runescape.wikia.com/wiki/Dreadnaut)",
 					"inline": true
 				},
@@ -5749,7 +5781,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Mixing in Ancient Circles](http://runescape.wikia.com/wiki/Mixing_in_Ancient_Circles) is an achievement that requires the player to restore the [Fairy ring](http://runescape.wikia.com/wiki/Fairy_ring) in the [Ancient Cavern](http://runescape.wikia.com/wiki/Ancient_Cavern) by planting 5 [Bittercap mushrooms](http://runescape.wikia.com/wiki/Bittercap_mushroom).\n\nThe Ancient Cavern is an area reached from the whirlpool near [Otto Godblessed](http://runescape.wikia.com/wiki/Otto_Godblessed)'s house. Players must dive into the whirlpool to enter the cavern.",
+			"description": "[Mixing in Ancient Circles](http://runescape.wikia.com/wiki/Mixing_in_Ancient_Circles) is an achievement that requires the player to restore the [Fairy ring](http://runescape.wikia.com/wiki/Fairy_ring) in the [Ancient Cavern](http://runescape.wikia.com/wiki/Ancient_Cavern) by planting 5 [Bittercap mushrooms](http://runescape.wikia.com/wiki/Bittercap_mushroom).\n\nThe Ancient Cavern is an area reached from the whirlpool near [Otto Godblessed](http://runescape.wikia.com/wiki/Otto_Godblessed)'s house. Players must dive into the whirlpool to enter the cavern.\n\nBittercap mushrooms may be grown from a [bittercap mushroom spore](https://runescape.wikia.com/wiki/Bittercap_mushroom_spore) (taking up to 240 minutes to grow) by players with level 53 Farming in the [mushroom patch](https://runescape.wikia.com/wiki/Farming/Patch_locations#Mushroom_patches) near [Canifis](https://runescape.wikia.com/wiki/Canifis) and in the patch in [Isafdar](https://runescape.wikia.com/wiki/Isafdar) or bought from the [Grand Exchange](https://runescape.wikia.com/wiki/Grand_Exchange).",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -5833,7 +5865,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[My Adze is Bigger than Yours](http://runescape.wikia.com/wiki/My_Adze_is_Bigger_than_Yours) is an achievement that requires the player to speak to [King Roald](http://runescape.wikia.com/wiki/King_Roald) with the [Inferno adze](http://runescape.wikia.com/wiki/Inferno_adze) equipped.\n\nKing Roald Remanis III, more commonly known simply as King Roald, is the current ruler of the prosperous kingdom of Misthalin. His residence is within [Varrock Palace](http://runescape.wikia.com/wiki/Varrock_Palace), where the Varrock Palace Secret Guard work to keep him safe. He is located in the south-east side of the Palace on the ground floor.",
+			"description": "[My Adze is Bigger than Yours](http://runescape.wikia.com/wiki/My_Adze_is_Bigger_than_Yours) is an achievement that requires the player to speak to [King Roald](http://runescape.wikia.com/wiki/King_Roald) with the [Inferno adze](http://runescape.wikia.com/wiki/Inferno_adze) equipped.\n\nKing Roald Remanis III, more commonly known simply as King Roald, is the current ruler of the prosperous kingdom of [Misthalin](https://runescape.wikia.com/wiki/Misthalin). His residence is within [Varrock Palace](http://runescape.wikia.com/wiki/Varrock_Palace), where the [Varrock Palace Secret Guard](https://runescape.wikia.com/wiki/Varrock_Palace_Secret_Guard) work to keep him safe. He is located in the south-east side of the Palace on the ground floor.\n\nThe inferno adze is obtained as a reward from the [All Fired Up](https://runescape.wikia.com/wiki/All_Fired_Up_(minigame) minigame by [having all fourteen beacons lit at the same time](https://runescape.wikia.com/wiki/All_Fired_Up_(minigame%29/Walkthrough_(thorough).",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -5857,7 +5889,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Myreque in Memoriam](http://runescape.wikia.com/wiki/Deadlier_Catch) is an achievement that requires the player to complete the [In Memory of the Myreque](https://runescape.wikia.com/wiki/In_Memory_of_the_Myreque) miniquest. During the miniquest, the player builds monuments to honor allies lost in the [Myreque quest series](https://runescape.wikia.com/wiki/Myreque_quest_series). The finished statues act as [Altars](https://runescape.wikia.com/wiki/Altar), which give five extra Prayer points per statue built.\n\nNote that **you can only build one statue per day from when you start the miniquest**, however, you can begin the miniquest and revisit in 10 days to build them all at once if you wish. ",
+			"description": "[Myreque in Memoriam](https://runescape.wikia.com/wiki/Myreque_in_Memoriam) is an achievement that requires the player to complete the [In Memory of the Myreque](https://runescape.wikia.com/wiki/In_Memory_of_the_Myreque) miniquest. During the miniquest, the player builds monuments to honor allies lost in the [Myreque quest series](https://runescape.wikia.com/wiki/Myreque_quest_series). The finished statues act as [Altars](https://runescape.wikia.com/wiki/Altar), which give five extra Prayer points per statue built.\n\nNote that **you can only build one statue per day from when you start the miniquest**, however, you can begin the miniquest and revisit in 10 days to build them all at once if you wish. ",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -5905,18 +5937,18 @@ exports.data = {
                 "name": "Cape Info",
                 "icon_url": "https://i.imgur.com/6c6q2iC.png"
             },
-            "description": "[Mysteries of the TokHaar](http://runescape.wikia.com/wiki/Mysteries_of_the_TokHaar) is an achievement that requires the player to have fully interacted with and claimed the experience from the [Mysterious statues](http://runescape.wikia.com/wiki/Mysterious_statue) and the [Submerged statue](http://runescape.wikia.com/wiki/Submerged_statue) after completion of the One of a Kind quest.\n\nIf the statue west of the [Brimhaven](http://runescape.wikia.com/wiki/Brimhaven) player-owned house portal cannot be spoken to, then acquire another [Animate Rock scroll](http://runescape.wikia.com/wiki/Animate_Rock_scroll) from the One of a Kind quest by going back to Robert the Strong's Library underneath [Unferth](http://runescape.wikia.com/wiki/Animate_Rock_scroll)'s house in Burthorpe. Click on the weapons rack near the stairs to obtain [Iron oxide](http://runescape.wikia.com/wiki/Iron_oxide), and use an emerald on it to create another scroll.",
+            "description": "[Mysteries of the TokHaar](http://runescape.wikia.com/wiki/Mysteries_of_the_TokHaar) is an achievement that requires the player to have fully interacted with and claimed the experience from the [Mysterious statues](http://runescape.wikia.com/wiki/Mysterious_statue) and the [Submerged statue](http://runescape.wikia.com/wiki/Submerged_statue) after completion of the [One of a Kind](https://runescape.wikia.com/wiki/One_of_a_Kind) quest.\n\nIf the statue west of the [Brimhaven](http://runescape.wikia.com/wiki/Brimhaven) [player-owned house](https://runescape.wikia.com/wiki/Player-owned_house) portal cannot be spoken to, then acquire another [Animate Rock scroll](http://runescape.wikia.com/wiki/Animate_Rock_scroll) from the One of a Kind quest by going back to [Robert the Strong's Library](https://runescape.wikia.com/wiki/Robert_the_Strong%27s_library) underneath [Unferth](http://runescape.wikia.com/wiki/Animate_Rock_scroll)'s house in [Burthorpe](https://runescape.wikia.com/wiki/Burthorpe). Click on the weapons rack near the stairs to obtain [Iron oxide](http://runescape.wikia.com/wiki/Iron_oxide), and use an [emerald](https://runescape.wikia.com/wiki/Emerald) on it to create another scroll.",
             "thumbnail": {
                 "url": "https://i.imgur.com/Shmagnp.png"
             },
             "fields": [
                 {
-                  "name": "Statue",
+                  "name": "Statue:",
                   "value": "Mysterious statue\nMysterious statue\nMysterious statue\nMysterious statue\nSubmerged statue",
                   "inline": true
                 },
                 {
-                  "name": "Location",
+                  "name": "Location:",
                   "value": "East of [Seers' Village](http://runescape.wikia.com/wiki/Seers%27_Village) bank\nSouth of the [Fishing Guild](http://runescape.wikia.com/wiki/Fishing_Guild)\nNorth of the [Tower of Life](http://runescape.wikia.com/wiki/Tower_of_Life_(building%29)\nWest of the [Brimhaven](http://runescape.wikia.com/wiki/Brimhaven) [POH portal](http://runescape.wikia.com/wiki/POH_portal)\nNorth-west corner of [Entrana](http://runescape.wikia.com/wiki/Entrana)",
                   "inline": true
                 },
@@ -5939,7 +5971,7 @@ exports.data = {
                 "name": "Cape Info",
                 "icon_url": "https://i.imgur.com/6c6q2iC.png"
             },
-              "description": "[Nano To Kipple, Come In Kipple](http://runescape.wikia.com/wiki/Nano_To_Kipple,_Come_In_Kipple) is an achievement that requires the player to talk to [Ariane](http://runescape.wikia.com/wiki/Ariane) at the [Wizards' Tower](http://runescape.wikia.com/wiki/Wizards%27_Tower) to claim the [Kipple Nano](http://runescape.wikia.com/wiki/Kipple_Nano) pet after completion of Heart of Stone.\n\nThe immense tower is located on a small island south of [Draynor Village](http://runescape.wikia.com/wiki/Draynor_Village), connected to the mainland by an exquisite bridge. A [Fairy ring](http://runescape.wikia.com/wiki/Fairy_ring) with the code **D-I-S** is located directly south of the tower. It can also be accessed by entering the eastern portal on the second floor of the [Wizards' Guild](http://runescape.wikia.com/wiki/Wizards%27_Guild).",
+              "description": "[Nano To Kipple, Come In Kipple](http://runescape.wikia.com/wiki/Nano_To_Kipple,_Come_In_Kipple) is an achievement that requires the player to talk to [Ariane](http://runescape.wikia.com/wiki/Ariane) at the [Wizards' Tower](http://runescape.wikia.com/wiki/Wizards%27_Tower) to claim the [Kipple Nano](http://runescape.wikia.com/wiki/Kipple_Nano) pet after completion of [Heart of Stone](https://runescape.wikia.com/wiki/Heart_of_Stone).\n\nThe immense tower is located on a small island south of [Draynor Village](http://runescape.wikia.com/wiki/Draynor_Village), connected to the mainland by an exquisite bridge. A [Fairy ring](http://runescape.wikia.com/wiki/Fairy_ring) with the code **d•i•s** is located directly south of the tower. It can also be accessed by entering the eastern portal on the second floor of the [Wizards' Guild](http://runescape.wikia.com/wiki/Wizards%27_Guild).",
             "thumbnail": {
                 "url": "https://i.imgur.com/Shmagnp.png"
             },
@@ -5963,7 +5995,7 @@ exports.data = {
                 "name": "Cape Info",
                 "icon_url": "https://i.imgur.com/6c6q2iC.png"
             },
-              "description": "[Naturally Muspah](http://runescape.wikia.com/wiki/Naturally_Muspah) is an achievement that requires the player to answer the questions of the [Natural historian](http://runescape.wikia.com/wiki/Natural_historian_(Rellekka_Hunter_area%29) in the [Rellekka Hunter area](http://runescape.wikia.com/wiki/Rellekka_Hunter_area) after completing The Tale of the Muspah.\n\nThe Rellekka Hunter area is located northeast of [Rellekka](http://runescape.wikia.com/wiki/Rellekka), near the entrance to the dwarven city of [Keldagrim](http://runescape.wikia.com/wiki/Keldagrim).",
+              "description": "[Naturally Muspah](http://runescape.wikia.com/wiki/Naturally_Muspah) is an achievement that requires the player to answer the questions of the [Natural historian](http://runescape.wikia.com/wiki/Natural_historian_(Rellekka_Hunter_area%29) in the [Rellekka Hunter area](http://runescape.wikia.com/wiki/Rellekka_Hunter_area) after completing [The Tale of the Muspah](https://runescape.wikia.com/wiki/The_Tale_of_the_Muspah). He is located on the iceberg where [Polar Kebbit](https://runescape.wikia.com/wiki/Polar_Kebbit) are located, normally on the eastern pathway.\n\nThe Rellekka Hunter area is located northeast of [Rellekka](http://runescape.wikia.com/wiki/Rellekka), near the entrance to the dwarven city of [Keldagrim](http://runescape.wikia.com/wiki/Keldagrim).\n\nThe answers are:\n\n1. It's yellow.\n2. It has 4 arms.\n 3. It has no legs, like a snail.\n 4. It has spikes, which run down its spine.\n 5. It has a spiky tail with vicious spines.\n 6. It has pincers, like a crab.",
             "thumbnail": {
                 "url": "https://i.imgur.com/Shmagnp.png"
             },
@@ -6017,7 +6049,7 @@ exports.data = {
                     "value": "• Nomad's Elegy Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Tale_of_the_Muspah)"
                 },
                 {
-                    "name": "Guide",
+                    "name": "Guide:",
                     "value": "[Tales of Nomad Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Tales_of_Nomad)"
                 }
             ],
@@ -6063,17 +6095,21 @@ exports.data = {
                 "name": "Cape Info",
                 "icon_url": "https://i.imgur.com/6c6q2iC.png"
             },
-              "description": "[Ocellus Virius Notus](http://runescape.wikia.com/wiki/Ocellus_Virius_Notus) is an achievement that requires the player to collect twenty-two [Order journal pages](http://runescape.wikia.com/wiki/Order_journal_page) from inside the [Monastery of Ascension](http://runescape.wikia.com/wiki/Monastery_of_Ascension).\n\nThe pages are automatically added to the [History of the Order](http://runescape.wikia.com/wiki/History_of_the_Order) book when one is found. The first page will come with the book. Three can be found from the library in the dungeon, and another from the lectern next to it. The remaining 18 pages can be found by any of the monsters within the monastery and all pages can be dropped by the same monster.",
+              "description": "[Ocellus Virius Notus](http://runescape.wikia.com/wiki/Ocellus_Virius_Notus) is an achievement that requires the player to collect twenty-two [Order journal pages](http://runescape.wikia.com/wiki/Order_journal_page) from inside the [Monastery of Ascension](http://runescape.wikia.com/wiki/Monastery_of_Ascension).\n\nThe pages are automatically added to the [History of the Order](http://runescape.wikia.com/wiki/History_of_the_Order) book when one is found. The first page will come with the book. Three can be found from the library in the dungeon, and another from the lectern next to it. The remaining 18 pages can be found by any of the monsters within the monastery and all pages can be dropped by the same monster.\n\nThe Monastery of Ascension, or the Ascension dungeon, is a high-level Slayer dungeon in the [Feldip Hills](https://runescape.wikia.com/wiki/Feldip_Hills) that contains a number of magic-based monsters, all of which are weak to Ranged.\n\nThe easiest way to obtain the pages is by killing [Rorarius](https://runescape.wikia.com/wiki/Rorarius).",
             "thumbnail": {
                 "url": "https://i.imgur.com/Shmagnp.png"
             },
             "fields": [
                 {
+                    "name": "Mechanics:",
+                    "value": "Rorarii are always found in groups, and attacking one of them will cause any nearby Rorarii to become aggressive to the attacker. When an undamaged Rorarius is attacked, it will send off an \"alert\" in a 5x5 radius that will cause nearby Rorarii to attack the player. Sometimes, Rorarii may send out a second \"alert\", causing them to go into melee distance of the player and attack them from there, where they'll attack the player with extremely inaccurate melee.\n\nFor this reason, if the player is struggling to kill Rorarii, simply damage the current ones attacking you before killing them off. If this will cause more Rorarii to attack, indirectly damage them with [Corruption Shot](https://runescape.wikia.com/wiki/Corruption_Shot), as the \"alert\" only goes off when an undamaged Rorarii is tagged."
+                },
+                {
                     "name": "Requirements:",
                     "value": "• 81 Slayer"
                 },
                 {
-                    "name": "Guide",
+                    "name": "Guide:",
                     "value": "[Rorarius Money Making guide | munclesonkey - YouTube](https://www.youtube.com/watch?v=FC6aL771hs4)"
                 }
             ],
@@ -6091,7 +6127,7 @@ exports.data = {
                 "name": "Cape Info",
                 "icon_url": "https://i.imgur.com/6c6q2iC.png"
             },
-              "description": "[On a Mission From... The Gods](http://runescape.wikia.com/wiki/On_a_Mission_From..._The_Gods) is a meta-achievement that requires the player to complete all of the [Tasks](http://runescape.wikia.com/wiki/God_Emissaries/Tasks) given by the [God Emissaries](http://runescape.wikia.com/wiki/God_Emissaries).\n\nGod Emissaries are a group of followers, each devoted to a different god, who attempt to convert citizens of Gielinor to their religion as well. There are nine Emissaries, each of which will give a full account of what their god represents, what these gods have been up to since the [Edicts of Guthix](http://runescape.wikia.com/wiki/Edicts_of_Guthix) were abolished and why players should follow that particular god.",
+              "description": "[On a Mission From... The Gods](http://runescape.wikia.com/wiki/On_a_Mission_From..._The_Gods) is a meta-achievement that requires the player to complete all of the [Tasks](http://runescape.wikia.com/wiki/God_Emissaries/Tasks) given by the [God Emissaries](http://runescape.wikia.com/wiki/God_Emissaries).\n\nGod Emissaries are a group of followers, each devoted to a different [god](https://runescape.wikia.com/wiki/Gods), who attempt to convert citizens of [Gielinor](https://runescape.wikia.com/wiki/Gielinor) to their religion as well. There are nine Emissaries, each of which will give a full account of what their god represents, what these gods have been accomplishing since the [Edicts of Guthix](http://runescape.wikia.com/wiki/Edicts_of_Guthix) were abolished, and why players should follow that particular god.",
             "thumbnail": {
                 "url": "https://i.imgur.com/Shmagnp.png"
             },
@@ -6101,8 +6137,8 @@ exports.data = {
                     "value": "• 55 Attack **or** 55 Ranged **or** 55 Strength\n• 13 Cooking **or** 14 Smithing\n• 30 Fishing **or** 30 Mining **or** 30 Woodcutting\n• 40 Firemaking **or** 40 Crafting\n• 45 Thieving **or** 50 Hunter\n• 30 Woodcutting \n• 30 Fishing \n• 30 Mining \n• 60 Woodcutting **or** 60 Fishing **or** 60 Mining\n• A combined total of 200 levels in Summoning, Magic, Prayer, and Runecrafting"
                 },
                 {
-                    "name": "Guide",
-                    "value": "[God Emissaries Tasks guide | Runescape Wiki](https://www.youtube.com/watch?v=FC6aL771hs4)"
+                    "name": "Guide:",
+                    "value": "[God Emissaries Tasks guide | Runescape Wiki](https://runescape.wikia.com/wiki/God_Emissaries/Tasks)"
                 }
             ],
             "footer": {
@@ -6147,46 +6183,18 @@ exports.data = {
                 "name": "Cape Info",
                 "icon_url": "https://i.imgur.com/6c6q2iC.png"
             },
-              "description": "[One Final Ride](http://runescape.wikia.com/wiki/One_Final_Ride) is an achievement that requires the player to obtain and read the [Last riders](http://runescape.wikia.com/wiki/Last_riders) book as a very rare drop from the [King Black Dragon](http://runescape.wikia.com/wiki/King_Black_Dragon).\n\nIt has a drop rate of 1/1,000, but after 1,000 kill count, each kill will decrease the denominator by 1, so it is a guaranteed drop on a solo kill with a kill count of at least 2,000.",
+              "description": "[One Final Ride](http://runescape.wikia.com/wiki/One_Final_Ride) is an achievement that requires the player to obtain and read the [Last riders](http://runescape.wikia.com/wiki/Last_riders) book as a very rare drop from the [King Black Dragon](http://runescape.wikia.com/wiki/King_Black_Dragon).\n\nIt has a drop rate of 1/1,000, but after 1,000 kill count, each kill will decrease the denominator by 1, so it is a guaranteed drop on a solo kill with a kill count of at least 2,000.\n\nThere are two ways that players can reach the [King Black Dragon's Lair](https://runescape.wikia.com/wiki/King_Black_Dragon%27s_Lair). Note that the lair itself is not considered part of the [Wilderness](https://runescape.wikia.com/wiki/Wilderness), and therefore there is no risk of being killed by other players.\n\n\t• There is a ladder in level 43 of the Wilderness guarded by four [lesser demons](https://runescape.wikia.com/wiki/Lesser_demon), leading to a small area with [poison spiders](https://runescape.wikia.com/wiki/Poison_spider) and a lever which can be pulled to access the King Black Dragon's lair. Entering the lair with this method will grant players a 10% damage boost against the King Black Dragon. [Wilderness Obelisks](https://runescape.wikia.com/wiki/Wilderness_obelisk) may be useful in reaching it. Players should be wary of player killers if planning to use this route.\n\n\t• Players can use either the [artefact](https://runescape.wikia.com/wiki/Artefact) in the Wilderness wall north-west of the [Edgeville](https://runescape.wikia.com/wiki/Edgeville) [lodestone](https://runescape.wikia.com/wiki/Lodestone_Network), or the artefact in the [Lava Maze Dungeon](https://runescape.wikia.com/wiki/Lava_Maze_Dungeon). Activating either one will teleport the player to the lair; however, using an artefact to enter will not grant players the damage boost the way using the lever does.\n\nPlayers may view the <#476790691436167168> channel of this discord for a beginngers guide to the boss.",
             "thumbnail": {
                 "url": "https://i.imgur.com/Shmagnp.png"
             },
             "fields": [
                 {
                     "name": "Requirements:",
-                    "value": "None"
+                    "value": "• None"
                 },
                 {
-                    "name": "Guide",
+                    "name": "Guide:",
                     "value": "[Low Level King Black Dragon guide | Lildogdog RS - YouTube](https://www.youtube.com/watch?v=tak1OoQG7nY)"
-                }
-            ],
-            "footer": {
-                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-                "text": "Runescore awarded: 20"
-            }
-        }
-	},
-	"one man's junk... is mine": {
-		"cmds": ["mqc"],
-		"embed": {
-            "title": "One Man's Junk...Is Mine",
-            "author": {
-                "name": "Cape Info",
-                "icon_url": "https://i.imgur.com/6c6q2iC.png"
-            },
-              "description": "[One Man's Junk...Is Mine](http://runescape.wikia.com/wiki/One_Man%27s_Junk...Is_Mine) is an achievement that requires the player to fully loot [Movario's base](http://runescape.wikia.com/wiki/Movario%27s_base#The_storage_room). The room containing all the loot can be accessed by entering a tunnel in Movario's study. Movario's base contains 100 of each of the following; coal, death runes, fire runes, and magic logs.\n\nThe entrance to the base is in a ruined building on the Khazard [Battlefield](http://runescape.wikia.com/wiki/Battlefield). The building can be entered by climbing the broken wall. The quickest way to get to the base is to use a [Spirit tree](http://runescape.wikia.com/wiki/Spirit_tree) to go to the battlefield. Other practical options are to use an [Ardougne teleport](http://runescape.wikia.com/wiki/Ardougne_teleport), an [Ourania Teleport](http://runescape.wikia.com/wiki/Ourania_Teleport) from the [Lunar spells](http://runescape.wikia.com/wiki/Lunar_spells), or [Fairy ring](http://runescape.wikia.com/wiki/Fairy_ring) code **D-J-P** to the [Tower of Life](http://runescape.wikia.com/wiki/Tower_of_Life_(building%29). ",
-            "thumbnail": {
-                "url": "https://i.imgur.com/Shmagnp.png"
-            },
-            "fields": [
-                {
-                    "name": "Requirements:",
-                    "value": "While Guthix Sleeps Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/While_Guthix_Sleeps)"
-                },
-                {
-                    "name": "Guide",
-                    "value": "[Movario's Base guide | Runescape Wiki](http://runescape.wikia.com/wiki/Movario%27s_base)"
                 }
             ],
             "footer": {
@@ -6243,6 +6251,34 @@ exports.data = {
 			}
 		}
 	},
+	"one man's junk... is mine": {
+		"cmds": ["mqc"],
+		"embed": {
+            "title": "One Man's Junk...Is Mine",
+            "author": {
+                "name": "Cape Info",
+                "icon_url": "https://i.imgur.com/6c6q2iC.png"
+            },
+              "description": "[One Man's Junk...Is Mine](http://runescape.wikia.com/wiki/One_Man%27s_Junk...Is_Mine) is an achievement that requires the player to fully loot [Movario's base](http://runescape.wikia.com/wiki/Movario%27s_base#The_storage_room). The room containing all the loot can be accessed by entering a tunnel in Movario's study. Movario's base contains 100 of each of the following; [coal](https://runescape.wikia.com/wiki/Coal), [death runes](https://runescape.wikia.com/wiki/Death_rune), [fire runes](https://runescape.wikia.com/wiki/Fire_rune), and [magic logs](https://runescape.wikia.com/wiki/Magic_logs). A player can [dissassemble](https://runescape.wikia.com/wiki/Disassemble) the magic logs and coal to complete the achievement in one trip, or use a [beast of burden](https://runescape.wikia.com/wiki/Beast_of_Burden) and a [Coal Bag](https://runescape.wikia.com/wiki/Coal_bag).\n\nThe entrance to the base is in a ruined building on the Khazard [Battlefield](http://runescape.wikia.com/wiki/Battlefield). The building can be entered by climbing the broken wall. The quickest way to get to the base is to use a [Spirit tree](http://runescape.wikia.com/wiki/Spirit_tree) to go to the battlefield. Other practical options are to use an [Ardougne teleport](http://runescape.wikia.com/wiki/Ardougne_teleport), an [Ourania Teleport](http://runescape.wikia.com/wiki/Ourania_Teleport) from the [Lunar spells](http://runescape.wikia.com/wiki/Lunar_spells), or [Fairy ring](http://runescape.wikia.com/wiki/Fairy_ring) code **d•j•p** to the [Tower of Life](http://runescape.wikia.com/wiki/Tower_of_Life_(building%29).",
+            "thumbnail": {
+                "url": "https://i.imgur.com/Shmagnp.png"
+            },
+            "fields": [
+                {
+                    "name": "Requirements:",
+                    "value": "• While Guthix Sleeps Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/While_Guthix_Sleeps)"
+                },
+                {
+                    "name": "Guide:",
+                    "value": "• [Movario's Base guide | Runescape Wiki](http://runescape.wikia.com/wiki/Movario%27s_base)\n• [Map of Movario's Base | Runescape Wiki](https://vignette.wikia.nocookie.net/runescape2/images/b/b5/Movario%27s_base_map.png/revision/latest?cb=20170617181712)"
+                }
+            ],
+            "footer": {
+                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+                "text": "Runescore awarded: 20"
+            }
+        }
+	},
 	"ornate crockery": {
 		"cmds": ["mqc"],
 		"embed": {
@@ -6251,7 +6287,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Ornate Crockery](http://runescape.wikia.com/wiki/Ornate_Crockery) is an achievement that requires the player to create the [Ornate bowl](http://runescape.wikia.com/wiki/Ornate_bowl) by mining [Magic stone](http://runescape.wikia.com/wiki/Magic_stone_(Tears_of_Guthix%29), and using a chisel on a [Larger rock](http://runescape.wikia.com/wiki/Larger_rock), and handing it to [Juna](http://runescape.wikia.com/wiki/Juna).\n\nA larger rock may be mined from the Magic stone mine across the chasm by [Tears of Guthix](http://runescape.wikia.com/wiki/Tears_of_Guthix_cavern).\n\nJuna can be found protecting the Tears of Guthix cave.",
+			"description": "[Ornate Crockery](http://runescape.wikia.com/wiki/Ornate_Crockery) is an achievement that requires the player to create the [Ornate bowl](http://runescape.wikia.com/wiki/Ornate_bowl) by mining [Magic stone](http://runescape.wikia.com/wiki/Magic_stone_(Tears_of_Guthix%29), and using a chisel on a [Larger rock](http://runescape.wikia.com/wiki/Larger_rock), and handing it to [Juna](http://runescape.wikia.com/wiki/Juna).\n\nA larger rock may be mined from the [Magic stone mine](https://runescape.wikia.com/wiki/Magic_stone_mine) across the chasm by [Tears of Guthix](http://runescape.wikia.com/wiki/Tears_of_Guthix_cavern). Only the larger rocks may be used for this achievement.\n\nJuna can be found protecting the Tears of Guthix cave.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -6259,7 +6295,11 @@ exports.data = {
 				{
 					"name": "Requirements:",
 					"value": "• 80 Crafting\n• 80 Mining\n\n• Tears of Guthix Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Tears_of_Guthix)"
-				}
+				},
+				{
+                    "name": "Guide:",
+                    "value": "• [Tears of Guthix Cavern Map | Runescape Wiki](https://runescape.wikia.com/wiki/Ornate_Crockery?file=Tears_of_Guthix_cavern_map.png)"
+                }
 			],
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
@@ -6275,7 +6315,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Otto the Ancient](http://runescape.wikia.com/wiki/Otto_the_Ancient) is an achievement that requires the player to find all 26 ancient pages from rummaging skeletons and fighting monsters within the Ancient Cavern.\n\nYou must add the page to My Notes before the next can be found. Duplicate pages may still be obtained before completion of My notes if rummaging skeletons. Because they are uncommon drops, My notes will take several hours to complete.",
+			"description": "[Otto the Ancient](http://runescape.wikia.com/wiki/Otto_the_Ancient) is an achievement that requires the player to find all 26 [ancient pages](https://runescape.wikia.com/wiki/Ancient_page) from [rummaging skeletons](https://runescape.wikia.com/wiki/Ancient_Cavern#Rummaging_skeletons) and fighting [monsters](https://runescape.wikia.com/wiki/Ancient_Cavern#Monsters) within the [Ancient Cavern](https://runescape.wikia.com/wiki/Ancient_Cavern).\n\nYou must add the page to [My Notes](https://runescape.wikia.com/wiki/My_notes) before the next can be found. Duplicate pages may still be obtained before completion of My notes if rummaging skeletons. Because they are uncommon drops, My notes will take several hours to complete.\n\nMy notes is a book given during [Barbarian Training](https://runescape.wikia.com/wiki/Barbarian_Training) by [Otto Godblessed](https://runescape.wikia.com/wiki/Otto_Godblessed). He may be found in his house to the south-west of the Ancient Cavern entrance. To reach [Otto's Grotto](https://runescape.wikia.com/wiki/Otto%27s_Grotto), you can teleport to [Barbarian Outpost](https://runescape.wikia.com/wiki/Barbarian_Outpost) using a [Games necklace](https://runescape.wikia.com/wiki/Games_necklace). After teleporting, go south until you reach his house.\n\nThe fastest way to complete this requirement is by killing the [Angry barbarian spirit](https://runescape.wikia.com/wiki/Angry_barbarian_spirit), [Berserk barbarian spirit](https://runescape.wikia.com/wiki/Berserk_barbarian_spirit), and [Enraged barbarian spirit](https://runescape.wikia.com/wiki/Enraged_barbarian_spirit), rummaging the skeletons, and then hopping between worlds and repeating until complete.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -6327,7 +6367,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Oyster Mash](http://runescape.wikia.com/wiki/Oyster_Mash) is an achievement that requires the player to feed the Giant Oyster on Tutorial Island.\n\nTutorial Island is a sunken island visited during Beneath Cursed Tides, where the adventurer explores the island and searches for clues as to why it sank. Speak to Wizard Myrtle, found outside Wizards' Tower, to return to Tutorial Island.\n\nOnce beneath the tides,  delicious seaweed can be harvested from the tasty looking seaweed patch north of the Oyster, near the large Jellyfish, and a sea cucumber can be fished from the fishing spots found west of the Giant Oyster. The player must then feed both the delicious seaweed and the sea cucumber to the giant oyster.",
+			"description": "[Oyster Mash](http://runescape.wikia.com/wiki/Oyster_Mash) is an achievement that requires the player to feed the [Giant Oyster](https://runescape.wikia.com/wiki/Giant_Oyster) on [Tutorial Island](https://runescape.wikia.com/wiki/Tutorial_Island_(Beneath_Cursed_Tides).\n\nTutorial Island is a sunken island visited during [Beneath Cursed Tides](https://runescape.wikia.com/wiki/Beneath_Cursed_Tides), where the adventurer explores the island and searches for clues as to why it sank. Speak to [Wizard Myrtle](https://runescape.wikia.com/wiki/Wizard_Myrtle), found outside [Wizards' Tower](https://runescape.wikia.com/wiki/Wizards%27_Tower), to return to Tutorial Island.\n\nOnce beneath the water, [delicious seaweed](https://runescape.wikia.com/wiki/Delicious_seaweed) can be harvested from the [tasty looking seaweed](https://runescape.wikia.com/wiki/Tasty_looking_seaweed) patch north of the Oyster, near the [large Jellyfish](https://runescape.wikia.com/wiki/Large_Jellyfish). A [sea cucumber](https://runescape.wikia.com/wiki/Sea_cucumber) can be fished from the fishing spots found west of the Giant Oyster. When attempting to fish from the Fishing spot the player will gain Fishing experience 30 times before finally catching a sea cucumber. The player must then feed both the delicious seaweed and the sea cucumber to the giant oyster.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -6351,7 +6391,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Paint it Red](http://runescape.wikia.com/wiki/Paint_it_Red) is an achievement that requires the player to uncover the secrets of haemalchemy, after the River of Blood quest.\n\nThis can be done by talking to Vanescula Drakan on the roof of Castle Drakan. The player will have a choice to select one free blood essence which also grants the ability to craft blood essences.\n\nCastle Drakan is the home of Lord Drakan, the vampyre lord of Morytania, built as an exact replica of the Drakan family's castle on Vampyrium. Found just north of Meiyerditch, it looms over the Sanguinesti region and reminds all that are trapped there of the vampyres' dominance.",
+			"description": "[Paint it Red](http://runescape.wikia.com/wiki/Paint_it_Red) is an achievement that requires the player to uncover the secrets of [haemalchemy](https://runescape.wikia.com/wiki/Haemalchemy), after the [River of Blood](https://runescape.wikia.com/wiki/River_of_Blood) quest.\n\nThis can be done by talking to [Vanescula Drakan](https://runescape.wikia.com/wiki/Vanescula_Drakan) on the roof of [Castle Drakan](https://runescape.wikia.com/wiki/Castle_Drakan). The player will have a choice to select one free [blood essence](https://runescape.wikia.com/wiki/Blood_essence#Essences) which also grants the ability to craft blood essences.\n\nBlood essences are pocket slot items with combat benefits, made using potions and [congealed blood](https://runescape.wikia.com/wiki/Congealed_blood).\n\nCastle Drakan is the home of [Lord Drakan](https://runescape.wikia.com/wiki/Lowerniel_Drakan), the vampyre lord of [Morytania](https://runescape.wikia.com/wiki/Morytania). It is found just north of [Meiyerditch](https://runescape.wikia.com/wiki/Meiyerditch). It looms over the [Sanguinesti region](https://runescape.wikia.com/wiki/Sanguinesti_region) and reminds all that are trapped there of the vampyres' dominance.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -6431,11 +6471,15 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Penny for Your Life](http://runescape.wikia.com/wiki/Penny_for_Your_Life) is an achievement that requires the player to buy all the upgrades from Gypsy Aris' Reward Shop after Dimension of Disaster (excluding the weekly XP lamp), requiring a total of 30 silver pennies, equivalent to completing the quest and then replaying it four more times.\n\nIt is recommended to buy the Curse of Arrav boss fight shortcut first and the Demon Slayer boss fight shortcut second in order to make the subsequent playthroughs quicker.",
+			"description": "[Penny for Your Life](http://runescape.wikia.com/wiki/Penny_for_Your_Life) is an achievement that requires the player to buy all the upgrades from [Gypsy Aris' Reward Shop](https://runescape.wikia.com/wiki/Gypsy_Aris%27_Reward_Shop) after [Dimension of Disaster](https://runescape.wikia.com/wiki/Dimension_of_Disaster) (excluding the weekly XP lamp), requiring a total of 30 [silver pennies](https://runescape.wikia.com/wiki/Silver_penny).\n\nSilver pennies are used to buy rewards after Dimension of Disaster, in Gypsy Aris' Reward Shop. Upon the first completion of the quest 10 silver pennies are awarded, and 5 are awarded for subsequent completions. In order to obtain every reward, excluding the XP lamp, 30 silver pennies are required. Thus, the entire quest must be replayed four times for every reward.\n\nGypsy Aris' Reward Shop is a shop run by [Gypsy Aris](https://runescape.wikia.com/wiki/Gypsy_Aris) that sells upgrades, items, and cosmetic overrides. It is located in the south-west corner of [Varrock Square](https://runescape.wikia.com/wiki/Varrock_Square).\n\nThe required upgrades consist of:\n• [Darklight](https://runescape.wikia.com/wiki/Darklight) upgrade\n• [Sani's Orefully Affordable Store](https://runescape.wikia.com/wiki/Sani%27s_Orefully_Affordable_Store) & [Zaff's Superior Spellcasting](https://runescape.wikia.com/wiki/Zaff%27s_Superior_Spellcasting_(New_Varrock) upgrade\n• [Silverlight](https://runescape.wikia.com/wiki/Silverlight) overrides\n• [Shield of Arrav](https://runescape.wikia.com/wiki/Shield_of_Arrav_(override) override",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
 			"fields": [
+				{
+					"name": "​",
+					"value": "• [Zombie outfit](https://runescape.wikia.com/wiki/Zombie_outfit_(New_Varrock)\n• [New Varrock cultist robes](https://runescape.wikia.com/wiki/New_Varrock_cultist_robes)\n• [Tiny Zemouregal (pet)](https://runescape.wikia.com/wiki/Tiny_Zemouregal_(pet)\n• [Arrav outfit](https://runescape.wikia.com/wiki/Arrav_outfit) ovveride\n\n\n• [Necrofelinomicon](https://runescape.wikia.com/wiki/Necrofelinomicon_(override) override\n• [Arrav's sword](https://runescape.wikia.com/wiki/Arrav%27s_sword) override\n• [Curse of Arrav](https://runescape.wikia.com/wiki/Dimension_of_Disaster:_Curse_of_Arrav)boss fight shortcut\n• [Demon Slayer](https://runescape.wikia.com/wiki/Dimension_of_Disaster:_Demon_Slayer) boss fight shortcut\n\nIt is recommended to buy the Curse of Arrav boss fight shortcut first, and the Demon Slayer boss fight shortcut second, in order to make the subsequent playthroughs much quicker."
+				},
 				{
 					"name": "Requirements:",
 					"value": "• Dimension of Disaster Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Dimension_of_Disaster)"
@@ -6555,11 +6599,27 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Post Fume](http://runescape.wikia.com/wiki/Post_Fume) is an achievement that requires the player to kill all of four Pollnivneach Slayer Dungeon bosses.\n\n• [Monstrous cave crawler](http://runescape.wikia.com/wiki/Monstrous_cave_crawler)\n• [Basilisk boss](http://runescape.wikia.com/wiki/Basilisk_boss)\n• [Mightiest turoth](http://runescape.wikia.com/wiki/Mightiest_turoth)\n• [Kurask overlord](http://runescape.wikia.com/wiki/Kurask_overlord)",
+			"description": "[Post Fume](http://runescape.wikia.com/wiki/Post_Fume) is an achievement that requires the player to kill all of four [Pollnivneach Slayer Dungeon](https://runescape.wikia.com/wiki/Pollnivneach_Slayer_Dungeon) bosses.\n\n• [Monstrous cave crawler](http://runescape.wikia.com/wiki/Monstrous_cave_crawler)\n• [Basilisk boss](http://runescape.wikia.com/wiki/Basilisk_boss)\n• [Mightiest turoth](http://runescape.wikia.com/wiki/Mightiest_turoth)\n• [Kurask overlord](http://runescape.wikia.com/wiki/Kurask_overlord)\n\nThe Pollnivneach Slayer Dungeon is a large dungeon found beneath the desert town of [Pollnivneach](https://runescape.wikia.com/wiki/Pollnivneach). Players can access part of the dungeon during the [Smoking Kills](https://runescape.wikia.com/wiki/Smoking_Kills) quest and the full dungeon after completing the quest.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
 			"fields": [
+				{
+					"name": "Monstrous Cave Crawler:",
+					"value": "This boss attacks rapidly with ranged. The poison from its ranged attack severely reduces the duration of any [antipoison](https://runescape.wikia.com/wiki/Antipoison) effect. The recommended style to fight the Monstrous cave crawler is melee, although it is also possible to use ranged or magic. The creature's attacks continue to poison players quickly even through prayer. It is futile to drink antipoison as quickly as the creature inflicts poison. Players should instead concentrate on killing the creature, using food occasionally if necessary to heal from the poison. Take some antipoison for after the fight is over, though."
+				},
+				{
+					"name": "Basilisk Boss:",
+					"value": "The recommended strategy for fighting the basilisk boss is to use melee combat; the basilisk is weak to stab attacks, so the use of a one-handed stabbing weapon is recommended. Even with the use of prayers, each of its attacks still reduces one or two combat stats by one to three points. A [super restore](https://runescape.wikia.com/wiki/Super_restore) potion is very useful."
+				},
+				{
+					"name": "Mightiest Turoth:",
+					"value": "The Mightiest turoth is immune to all damage not dealt via a [Leaf-bladed spear](https://runescape.wikia.com/wiki/Leaf-bladed_spear), a [Leaf-bladed sword](https://runescape.wikia.com/wiki/Leaf-bladed_sword), [Broad arrows](https://runescape.wikia.com/wiki/Broad_arrow), [Broad-tipped bolts](https://runescape.wikia.com/wiki/Broad-tipped_bolts), or the [Slayer Dart spell](https://runescape.wikia.com/wiki/Slayer_Dart). The recommended strategy for fighting the Mightiest turoth is to use Slayer Dart. It summons some [Swarming turoths](https://runescape.wikia.com/wiki/Swarming_turoth) (level 68) to aid it."
+				},
+				{
+					"name": "Kurask Iverlord:",
+					"value": "The Kurask overlord is immune to all damage not dealt via a [Leaf-bladed spear](https://runescape.wikia.com/wiki/Leaf-bladed_spear), a [Leaf-bladed sword](https://runescape.wikia.com/wiki/Leaf-bladed_sword), [Broad arrows](https://runescape.wikia.com/wiki/Broad_arrow), [Broad-tipped bolts](https://runescape.wikia.com/wiki/Broad-tipped_bolts), or the [Slayer Dart spell](https://runescape.wikia.com/wiki/Slayer_Dart). The recommended strategy for fighting the Mightiest turoth is to use Slayer Dart. [Kurask minions](https://runescape.wikia.com/wiki/Kurask_minion) are summoned by the kurask overlord when fighting him."
+				},
 				{
 					"name": "Requirements:",
 					"value": "• Smoking Kills Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Smoking_Kills)"
@@ -6590,7 +6650,7 @@ exports.data = {
 				},
 				{
 					"name": "​",
-					"value": "A player who hasn't talked to Lady Meilyr can generate a page, but they cannot pick it up and it will be invisible to other players. Attempting to do so will get the message: \"You need to get a journal from Lady Meilyr in Prifddinas before you can start collecting these.\"\n\nPlayers can obtain a one-time Melee XP lamp by giving a Super melee potion to her. Simply giving it to her does not work though. Players must talk to her, select \"1. What can I do here?\", then \"3. Ask about combination potion recipes\". She will then ask \"Ah, I see you have a super melee potion there. Can I have it?\". Upon giving her the potion at this point, she will hand you the lamp and exclaim: \"There you go, but don't lose it. That's the only one!\"."
+					"value": "A player who hasn't talked to Lady Meilyr can generate a page, but they cannot pick it up and it will be invisible to other players. Attempting to do so will get the message: \"You need to get a journal from Lady Meilyr in Prifddinas before you can start collecting these.\"\n\nPlayers can obtain a one-time Melee XP lamp by giving a Super melee potion to her. Simply giving it to her does not work though. Players must talk to her, select \"1. What can I do here?\", then \"3. Ask about combination potion recipes\". She will then ask \"Ah, I see you have a super melee potion there. Can I have it?\". Upon giving her the potion at this point, she will hand you the lamp and exclaim: \"There you go, but don't lose it. That's the only one!\"\n\nWearing the [Dungeoneering master cape](https://runescape.wikia.com/wiki/Dungeoneering_cape_(t) will increase the chance of receiving lore drops within Dungeoneering.."
 				},
 				{
 					"name": "Requirements:",
@@ -6639,7 +6699,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Power of Three Spirits](http://runescape.wikia.com/wiki/Power_of_Three_Spirits) is an achievement that requires the player to unlock the ability to grow three spirit trees at once. This ability is unlocked by completing the Plague's End and The Prisoner of Glouphrie quests while also having level 89 Farming by talking with Glouron near the spirit tree in Prifddinas.",
+			"description": "[Power of Three Spirits](http://runescape.wikia.com/wiki/Power_of_Three_Spirits) is an achievement that requires the player to unlock the ability to grow three [spirit trees](https://runescape.wikia.com/wiki/Spirit_tree) at once. This ability is unlocked by talking with [Glouron](https://runescape.wikia.com/wiki/Glouron) near the [spirit tree in Prifddinas](https://runescape.wikia.com/wiki/Spirit_Tree_(Prifddinas) after completing the [Plague's End](https://runescape.wikia.com/wiki/Plague%27s_End) and [The Prisoner of Glouphrie](https://runescape.wikia.com/wiki/The_Prisoner_of_Glouphrie) quests and also having level 89 Farming.\n\nGlouron is a [gnome](https://runescape.wikia.com/wiki/Gnome) watching over the Spirit Tree in the [Crwys Clan](https://runescape.wikia.com/wiki/Crwys_Clan) district in [Prifddinas](https://runescape.wikia.com/wiki/Prifddinas).",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -6663,7 +6723,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Quiet but Deadly Lore](http://runescape.wikia.com/wiki/Quiet_but_Deadly_Lore) is an achievement that requires the player to kill the Queen Black Dragon for all dragonkin journals and also read these journals.\n\nThe first dragonkin journal is a 100% drop from a player's first kill of the Queen Black Dragon, while journals 2-4 are common drops.",
+			"description": "[Quiet but Deadly Lore](http://runescape.wikia.com/wiki/Quiet_but_Deadly_Lore) is an achievement that requires the player to kill the [Queen Black Dragon](https://runescape.wikia.com/wiki/Queen_Black_Dragon) for all dragonkin journals and also read these journals.\n\nThe first dragonkin journal is a 100% drop from a player's first kill of the Queen Black Dragon, while journals 2-4 are uncommon drops with a droprate of 1/19.\n\nThe Dragonkin Journals are:\n• [First dragonkin journal](https://runescape.wikia.com/wiki/First_dragonkin_journal)\n• [Second dragonkin journal](https://runescape.wikia.com/wiki/Second_dragonkin_journal)\n• [Third dragonkin journal](https://runescape.wikia.com/wiki/Third_dragonkin_journal)\n• [Fourth dragonkin journal](https://runescape.wikia.com/wiki/Fourth_dragonkin_journal)\n\nPlayers may view the <#476790691436167168> channel of this discord for a beginngers guide to the boss.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -6743,7 +6803,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Relight my Fire](http://runescape.wikia.com/wiki/Relight_my_Fire) is an achievement that requires the player to re-kindle the Dragon Forge.\n\nAfter the completion of the quest, While Guthix Sleeps, it is possible to unlock the mithril door on the upper level using a Dragonkin key. This key is made by fusing together the strange key teeth with the strange key loop, items found during the quest. The player can get the key fused by using either piece on a mithril dragon while having the other piece of the key in inventory.\n\nBe aware that some players regard this activity as being hazardous while the mithril dragons are aggressive, although it is possible to fuse the key on a mithril dragon that is attacking. The key cannot be fused on a mithril dragon, however, while the player is being attacked by a different mithril dragon.\n\nThe Dragonkin key unlocks the mithril door. The key disappears when this occurs, and the door thereafter remains unlocked. The player can then enter the mithril key chamber. Inside the mithril door are three hanging dragon heads and a giant orb in the centre. The player must click on each head to light it using Fire Wave spells, which will cause them to have fire to appear in their mouths and to slide towards the orb in the centre.",
+			"description": "[Relight my Fire](http://runescape.wikia.com/wiki/Relight_my_Fire) is an achievement that requires the player to re-kindle the [Dragon Forge]().\n\nAfter the completion of the quest, While Guthix Sleeps](), it is possible to unlock the mithril door]() on the upper level using a Dragonkin key](). This key is made by fusing together the strange key teeth]() with the strange key loop](), items found during the quest. The player can get the key fused by using either piece on a mithril dragon]() while having the other piece of the key in inventory.\n\nThe Dragonkin key can then be used to unlock the mithril door. The key disappears when this occurs, and the door thereafter remains unlocked. The player can then enter the mithril key chamber. Inside the mithril door are three hanging dragon heads and a giant orb in the centre. The player must click on each head to light it using Fire Wave spells, which will cause them to have fire to appear in their mouths and to slide towards the orb in the centre.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
