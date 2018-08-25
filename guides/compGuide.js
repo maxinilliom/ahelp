@@ -4341,7 +4341,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Kal'gerion Notes](http://runescape.wikia.com/wiki/Kal%27gerion_Notes_(achievement%29) is a meta-achievement that requires the player to collect all five parts of the [Kal'gerion notes](http://runescape.wikia.com/wiki/Kal%27gerion_notes) within [Daemonheim](https://runescape.wikia.com/wiki/Daemonheim).\n\nPlayers may utilize a [Daemonheim aura 1-4](https://runescape.wikia.com/wiki/Daemonheim_aura) choose which boss is faced in a dungeon, once per day, or a [Dungeoneering master cape](https://runescape.wikia.com/wiki/Dungeoneering_cape_(t) perk to have a chance of doing so.\n\nPlayers may find parts of the notes once they defeat certain [bosses](https://runescape.wikia.com/wiki/Dungeoneering/Bosses) in the dungeons\n\nWearing the Dungeoneering master cape will increase the chance of receiving lore drops while Dungeoneering.",
+			"description": "[Kal'gerion Notes](http://runescape.wikia.com/wiki/Kal%27gerion_Notes_(achievement%29) is a meta-achievement that requires the player to collect all five parts of the [Kal'gerion notes](http://runescape.wikia.com/wiki/Kal%27gerion_notes) within [Daemonheim](https://runescape.wikia.com/wiki/Daemonheim).\n\nPlayers may utilize a [Daemonheim aura 1-4](https://runescape.wikia.com/wiki/Daemonheim_aura) choose which boss is faced in a dungeon, once per day, or a [Dungeoneering master cape](https://runescape.wikia.com/wiki/Dungeoneering_master_cape) perk to have a chance of doing so.\n\nPlayers may find parts of the notes once they defeat certain [bosses](https://runescape.wikia.com/wiki/Dungeoneering/Bosses) in the dungeons\n\nWearing the Dungeoneering master cape will increase the chance of receiving lore drops while Dungeoneering.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -5149,7 +5149,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Marmaros and Thok Letters](http://runescape.wikia.com/wiki/Marmaros_and_Thok_Letters) is a meta-achievement that requires the player to collect all ten [M. and thok letters](http://runescape.wikia.com/wiki/M._and_thok_letter) within [Daemonheim](https://runescape.wikia.com/wiki/Daemonheim).\n\nThe journal entries are dropped by monsters and bosses within the dungeons, and detail the Fremennik expedition into the tunnels and certain monsters which can be encountered there. On very rare occasions, multiple letters from Marmaros and Thok are obtainable from a single monster drop.\n\nAfter finding all ten of the M. And Thok letters a new chat option appears when speaking to Thok (and by extension, Marmaros) which helps to somewhat refresh the memories of both men about the events they went through at the bottom of Daemonheim.\n\nWearing the [Dungeoneering master cape](https://runescape.wikia.com/wiki/Dungeoneering_cape_(t) will increase the chance of receiving lore drops while Dungeoneering.",
+			"description": "[Marmaros and Thok Letters](http://runescape.wikia.com/wiki/Marmaros_and_Thok_Letters) is a meta-achievement that requires the player to collect all ten [M. and thok letters](http://runescape.wikia.com/wiki/M._and_thok_letter) within [Daemonheim](https://runescape.wikia.com/wiki/Daemonheim).\n\nThe journal entries are dropped by monsters and bosses within the dungeons, and detail the Fremennik expedition into the tunnels and certain monsters which can be encountered there. On very rare occasions, multiple letters from Marmaros and Thok are obtainable from a single monster drop.\n\nAfter finding all ten of the M. And Thok letters a new chat option appears when speaking to Thok (and by extension, Marmaros) which helps to somewhat refresh the memories of both men about the events they went through at the bottom of Daemonheim.\n\nWearing the [Dungeoneering master cape](https://runescape.wikia.com/wiki/Dungeoneering_master_cape) will increase the chance of receiving lore drops while Dungeoneering.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -5750,7 +5750,7 @@ exports.data = {
 			"fields": [
 				{
 					"name": "​",
-					"value": "The [Portal notes](https://runescape.wikia.com/wiki/Portal_notes), [Scrap of parchment](https://runescape.wikia.com/wiki/Scrap_of_parchment), [Letter to an acolyte](https://runescape.wikia.com/wiki/Letter_to_an_acolyte), [Letter from brundt](https://runescape.wikia.com/wiki/Letter_from_brundt), and [Strange token](https://runescape.wikia.com/wiki/Strange_token), which are dropped by monsters on [Warped floors](https://runescape.wikia.com/wiki/Dungeoneering_floors#Warped_floors_.28m.29) are not requred for this achievement or cape.\n\nWearing the [Dungeoneering master cape](https://runescape.wikia.com/wiki/Dungeoneering_cape_(t) will increase the chance of receiving lore drops while Dungeoneering."
+					"value": "The [Portal notes](https://runescape.wikia.com/wiki/Portal_notes), [Scrap of parchment](https://runescape.wikia.com/wiki/Scrap_of_parchment), [Letter to an acolyte](https://runescape.wikia.com/wiki/Letter_to_an_acolyte), [Letter from brundt](https://runescape.wikia.com/wiki/Letter_from_brundt), and [Strange token](https://runescape.wikia.com/wiki/Strange_token), which are dropped by monsters on [Warped floors](https://runescape.wikia.com/wiki/Dungeoneering_floors#Warped_floors_.28m.29) are not requred for this achievement or cape.\n\nWearing the [Dungeoneering master cape](https://runescape.wikia.com/wiki/Dungeoneering_master_cape) will increase the chance of receiving lore drops while Dungeoneering."
 				},
 				{
 					"name": "Journal:",
@@ -6650,7 +6650,7 @@ exports.data = {
 				},
 				{
 					"name": "​",
-					"value": "A player who hasn't talked to Lady Meilyr can generate a page, but they cannot pick it up and it will be invisible to other players. Attempting to do so will get the message: \"You need to get a journal from Lady Meilyr in Prifddinas before you can start collecting these.\"\n\nPlayers can obtain a one-time Melee XP lamp by giving a Super melee potion to her. Simply giving it to her does not work though. Players must talk to her, select \"1. What can I do here?\", then \"3. Ask about combination potion recipes\". She will then ask \"Ah, I see you have a super melee potion there. Can I have it?\". Upon giving her the potion at this point, she will hand you the lamp and exclaim: \"There you go, but don't lose it. That's the only one!\"\n\nWearing the [Dungeoneering master cape](https://runescape.wikia.com/wiki/Dungeoneering_cape_(t) will increase the chance of receiving lore drops within Dungeoneering.."
+					"value": "A player who hasn't talked to Lady Meilyr can generate a page, but they cannot pick it up and it will be invisible to other players. Attempting to do so will get the message: \"You need to get a journal from Lady Meilyr in Prifddinas before you can start collecting these.\"\n\nPlayers can obtain a one-time Melee XP lamp by giving a Super melee potion to her. Simply giving it to her does not work though. Players must talk to her, select \"1. What can I do here?\", then \"3. Ask about combination potion recipes\". She will then ask \"Ah, I see you have a super melee potion there. Can I have it?\". Upon giving her the potion at this point, she will hand you the lamp and exclaim: \"There you go, but don't lose it. That's the only one!\"\n\nWearing the [Dungeoneering master cape](https://runescape.wikia.com/wiki/Dungeoneering_master_cape) will increase the chance of receiving lore drops within Dungeoneering.."
 				},
 				{
 					"name": "Requirements:",
@@ -6803,14 +6803,18 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Relight my Fire](http://runescape.wikia.com/wiki/Relight_my_Fire) is an achievement that requires the player to re-kindle the [Dragon Forge]().\n\nAfter the completion of the quest, While Guthix Sleeps](), it is possible to unlock the mithril door]() on the upper level using a Dragonkin key](). This key is made by fusing together the strange key teeth]() with the strange key loop](), items found during the quest. The player can get the key fused by using either piece on a mithril dragon]() while having the other piece of the key in inventory.\n\nThe Dragonkin key can then be used to unlock the mithril door. The key disappears when this occurs, and the door thereafter remains unlocked. The player can then enter the mithril key chamber. Inside the mithril door are three hanging dragon heads and a giant orb in the centre. The player must click on each head to light it using Fire Wave spells, which will cause them to have fire to appear in their mouths and to slide towards the orb in the centre.",
+			"description": "[Relight my Fire](http://runescape.wikia.com/wiki/Relight_my_Fire) is an achievement that requires the player to re-kindle the [Dragon Forge](https://runescape.wikia.com/wiki/Ancient_Cavern#The_dragon_forge_and_mithril_door).\n\nAfter the completion of the quest, [While Guthix Sleeps](https://runescape.wikia.com/wiki/While_Guthix_Sleeps), it is possible to unlock the [mithril door](https://runescape.wikia.com/wiki/Mithril_door) on the upper level using a [Dragonkin key](https://runescape.wikia.com/wiki/Dragonkin_key).\n\nThis key is made by fusing together the [strange key teeth](https://runescape.wikia.com/wiki/Strange_key_teeth) with the [strange key loop](https://runescape.wikia.com/wiki/Strange_key_loop), items found during the quest. The two Strange key parts can be found in [Movario's base](https://runescape.wikia.com/wiki/Movario%27s_base). The quickest way to get to the base is to use a [Spirit tree](https://runescape.wikia.com/wiki/Spirit_tree) to go to the battlefield. Other practical options are to use an [Ardougne teleport](https://runescape.wikia.com/wiki/Ardougne_teleport) or [Fairy ring](https://runescape.wikia.com/wiki/Fairy_ring) **d•j•p** to the [Tower of Life](https://runescape.wikia.com/wiki/Tower_of_Life_(building).\n\nThe player can get the key fused by using either piece on a [Mithril dragon](https://runescape.wikia.com/wiki/Mithril_dragon) during combat, while having the other piece of the key in inventory. The Dragonkin key can then be used to unlock the mithril door. The key disappears when this occurs, and the door thereafter remains unlocked.Inside the mithril door are three hanging [dragon heads](https://runescape.wikia.com/wiki/Dragon_head_(Ancient_Cavern) and a giant orb in the center. The player must click on each head to light it using [Fire Wave](https://runescape.wikia.com/wiki/Fire_Wave) spells, which will cause them to have fire to appear in their mouths and to slide towards the orb in the center.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
 			"fields": [
 				{
 					"name": "Requirements:",
-					"value": "• While Guthix Sleeps Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/While_Guthix_Sleeps)"
+					"value": "• 75 Magic\n\n• While Guthix Sleeps Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/While_Guthix_Sleeps)"
+				},
+				{
+					"name": "Guide:",
+					"value": "• Map of Movario's Base | [Runescape Wiki](https://runescape.wikia.com/wiki/Map:Movario%27s_base)"
 				}
 			],
 			"footer": {
@@ -6827,11 +6831,19 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Reliquary of Cithara](http://runescape.wikia.com/wiki/Reliquary_of_Cithara) is an achievement that requires the player to obtain and play the Holy Cithara.\n\nTo obtain the Holy Cithara a player must wear at least 6 pieces of certain Saradomin-aligned equipment and meet certain holy requirements:\n• The player must be on the standard spellbook or Lunar spellbook.\n• The player must be on standard prayers and have full prayer points.\n• The player must have 100% run energy.\n• The player must not have a follower or pet summoned\n• The player must have the following equipped:\n\n• A ring of visibility (unless the player has been granted the gift of looking into the shadow realm by Sliske)\n• A ghostspeak amulet or cramulet (unless the reward from the Morytania Hard Tasks have been claimed)\n• Six pieces of acceptable Saradomin equipment that the player owns. No items aligned with another god may be either equipped or in the player's inventory. Neither the ring of visibility nor ghostspeak amulet count as one of these items.\n\nIt can take several tries to successfully grab the cithara. If players don't obtain it on their first try, but the ghost appears and the player doesn't get dealt any damage, keep trying until you get it.\n\nIf you get a message reading \"An invisible force gently but firmly moves your hand away from the cithara\", you are not wearing the correct ring.",
+			"description": "[Reliquary of Cithara](http://runescape.wikia.com/wiki/Reliquary_of_Cithara) is an achievement that requires the player to obtain and play the [Holy Cithara](https://runescape.wikia.com/wiki/Holy_Cithara). The Holy Cithara is an object that can be found within the holy reliquary in the basement of the [Abbey of St. Elspeth Citharede](https://runescape.wikia.com/wiki/Abbey_of_St._Elspeth_Citharede) after completing [One Piercing Note](https://runescape.wikia.com/wiki/One_Piercing_Note).\n\nTo obtain the Holy Cithara a player must wear at least 6 pieces of certain [Saradomin](https://runescape.wikia.com/wiki/Saradomin)-aligned equipment and meet certain [holy requirements](https://runescape.wikia.com/wiki/Holy_Cithara#Obtaining_the_Holy_Cithara):\n\n• The player must be on the [standard spellbook](https://runescape.wikia.com/wiki/Spellbook#Standard.2FModern) or [Lunar spellbook](https://runescape.wikia.com/wiki/Lunar_spells).\n\n• The player must be on [standard prayers](https://runescape.wikia.com/wiki/Prayer#Prayers) and have full prayer points.\n\n• The player must have 100% run [energy](https://runescape.wikia.com/wiki/Energy).\n\n• The player must not have a [follower](https://runescape.wikia.com/wiki/Follower) or [pet](https://runescape.wikia.com/wiki/Pet) summoned\n\n• The player must have the following equipped:",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
 			"fields": [
+				{
+					"name": "​",
+					"value": "\t• A [ring of visibility](https://runescape.wikia.com/wiki/Ring_of_visibility) (unless the player has been granted the gift of looking into the [shadow realm](https://runescape.wikia.com/wiki/Shadow_Realm) by [Sliske](https://runescape.wikia.com/wiki/Sliske))\n\t• A [ghostspeak amulet](https://runescape.wikia.com/wiki/Ghostspeak_amulet) or [cramulet](https://runescape.wikia.com/wiki/Cramulet) (unless the [reward](https://runescape.wikia.com/wiki/Morytania_legs_3) from the [Morytania Hard Tasks](https://runescape.wikia.com/wiki/Morytania_achievements#Hard_tasks) have been claimed)\n\t• Six pieces of [acceptable Saradomin equipment](https://runescape.wikia.com/wiki/Holy_Cithara#Obtaining_the_Holy_Cithara) that the player owns. No items aligned with another [god](https://runescape.wikia.com/wiki/Gods) may be either equipped or in the player's inventory. Neither the ring of visibility nor ghostspeak amulet count as one of these items."
+				},
+				{
+					"name": "​",
+					"value": "It can take several tries to successfully grab the cithara. If players don't obtain it on their first try, but the ghost appears and the player doesn't get dealt any damage, keep trying until you get it.\n\nIf you get a message reading \"An invisible force gently but firmly moves your hand away from the cithara\", you are not wearing the correct ring."
+				},
 				{
 					"name": "Requirements:",
 					"value": "• One Piercing Note Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/One_Piercing_Note)\n• The Restless Ghost Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Restless_Ghost)\n• Desert Treasure Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Desert_Treasure)"
@@ -6851,14 +6863,14 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Respect the Balance](http://runescape.wikia.com/wiki/Respect_the_Balance) is an achievement that requires the player to pay respects and light the torches in [Guthix's shrine](http://runescape.wikia.com/wiki/Guthix%27s_shrine).",
+			"description": "[Respect the Balance](http://runescape.wikia.com/wiki/Respect_the_Balance) is an achievement that requires the player to pay respects and light the torches in [Guthix's shrine](http://runescape.wikia.com/wiki/Guthix%27s_shrine). There are a total of 5 torches to be lit for a cumalitive 50,000 Firemaking experience. Paying respects at the altar will provide 100,000 prayer experience.\n\nGuthix's Cave is a large cave located a short distance west of the [Legends' Guild](https://runescape.wikia.com/wiki/Legends%27_Guild) and east of the [Ardougne](https://runescape.wikia.com/wiki/Ardougne) [Lodestone](https://runescape.wikia.com/wiki/Lodestone_Network).\n\nThe shrine can be reached using the \"Guthix shrine\" [teleport](https://runescape.wikia.com/wiki/Teleportation) on the [Sixth-Age circuit](https://runescape.wikia.com/wiki/Sixth-Age_circuit) or the [Modified diviner's headwear](https://runescape.wikia.com/wiki/Modified_diviner%27s_headwear).",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
 			"fields": [
 				{
 					"name": "Requirements:",
-					"value": "• 74 Firemaking\n\n• The World Wakes Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_World_Wakes)"
+					"value": "• 74 Firemaking\n• 90 Prayer\n\n• The World Wakes Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_World_Wakes)"
 				}
 			],
 			"footer": {
@@ -6931,7 +6943,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Roake Kal](http://runescape.wikia.com/wiki/Roake_Kal) is an achievement that requires the player to decipher all 4 murals on the west wall of the sunken temple, where Rabid Jack was defeated, after completion of Pieces of Hate.\n\nThe temple can be revisited by using the rowboat on the south-west coast of Mos Le'Harmless then running north and passing through the shimmering barrier. Deciphering each mural requires level 85 in Agility, Construction, Firemaking, and Thieving and will grant 50,000 experience in each of the required skills.",
+			"description": "[Roake Kal](http://runescape.wikia.com/wiki/Roake_Kal) is an achievement that requires the player to decipher all 4 murals on the west wall of the [sunken temple](https://runescape.wikia.com/wiki/Ulthven_Kreath), where [Rabid Jack](https://runescape.wikia.com/wiki/Captain_Rabid_Jack) was defeated, after completion of [Pieces of Hate](https://runescape.wikia.com/wiki/Pieces_of_Hate).\n\nThe temple can be revisited by using the rowboat on the south-west coast of [Mos Le'Harmless](https://runescape.wikia.com/wiki/Mos_Le%27Harmless), then running north and passing through the shimmering barrier.\n\nThe four murals must be deciphered in order: Thieving, Agility, Firemaking, and Construction. If you do not have the level for an earlier mural, you cannot decipher the following murals either. Deciphering each mural will grant 50,000 experience in each of the required skills.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -6955,7 +6967,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Rogue Down](http://runescape.wikia.com/wiki/Rogue_Down) is an achievement that requires the player to free the Wilderness portal rogue trader in Rogues' Castle after Summer's End.\n\nThe Rogue is a non-player character that players first encounter by completing the quest Summer's End. To find him, players must enter the Spirit Realm using Jennica's ring via the portal located in the Rogues' Castle courtyard and close the prison doors there; this will open them in the \"real\" world, allowing the players to talk to him.",
+			"description": "[Rogue Down](http://runescape.wikia.com/wiki/Rogue_Down) is an achievement that requires the player to free the [Wilderness portal rogue trader](https://runescape.wikia.com/wiki/Rogue_(Varrock) in [Rogues' Castle](https://runescape.wikia.com/wiki/Rogues%27_Castle) after [Summer's End](https://runescape.wikia.com/wiki/Summer%27s_End).\n\nThe Rogue is a [non-player character](https://runescape.wikia.com/wiki/Non-player_character) that players first encounter by completing the quest Summer's End. To find him, players must enter the [Spirit Realm](https://runescape.wikia.com/wiki/Spirit_Realm) using [Jennica's ring](https://runescape.wikia.com/wiki/Jennica%27s_ring) via the portal located in the Rogues' Castle courtyard and close the prison doors there; this will open them in the \"real\" world, allowing the players to talk to him.\n\nThe Rogues' Castle is a fortress located in the deep [Wilderness](https://runescape.wikia.com/wiki/Wilderness), specifically in levels 50-54, so be sure to bring no items you aren't willing to possibly lose to player killers. ",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -6979,7 +6991,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Rusty Reward](http://runescape.wikia.com/wiki/Rusty_Reward) is an achievement that requires the player claim 20 coins from the bartender of the Rusty Anchor after Rocking Out.\n\nThe Rusty Anchor is a bar found in the northeast corner of the Asgarnian port city of Port Sarim.",
+			"description": "[Rusty Reward](http://runescape.wikia.com/wiki/Rusty_Reward) is an achievement that requires the player claim 20 [coins](https://runescape.wikia.com/wiki/Coins) from the [bartender](https://runescape.wikia.com/wiki/Bartender_(Rusty_Anchor) of the [Rusty Anchor](https://runescape.wikia.com/wiki/The_Rusty_Anchor) after [Rocking Out](https://runescape.wikia.com/wiki/Rocking_Out).\n\nThe Rusty Anchor is a bar found in the northeast corner of the [Asgarnian](https://runescape.wikia.com/wiki/Asgarnia) port city of [Port Sarim](https://runescape.wikia.com/wiki/Port_Sarim).",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -7051,7 +7063,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Scribbling in the Depths](http://runescape.wikia.com/wiki/Scribbling_in_the_Depths) is an achievement that requires the player to obtain the Constitution experience after completion of the Song from the Depths quest with level 80 Constitution.\n\nEnter the quest cave (where souls wandered, entrance in a wall south of the Rimmington mining site). Swim through the acid pool (requires 50 Constitution) and go through the only door to the east. In the next cave, go west, then south, then east, then north. Read the northern Ancient writings for 5,000 Constitution experience, then swim through the acid pool (requires 80 Constitution and will cause 50+ damage, but cannot kill you) and read the second wall for the remaining 25,000 Constitution experience.\n\nBefore reading the ancient writings, their examine text is, \"This text is some kind of magic to fortify the body.\" Once the ancient writings have been read examine will yield the message \"The writing has jumbled to become incomprehensible.\"",
+			"description": "[Scribbling in the Depths](http://runescape.wikia.com/wiki/Scribbling_in_the_Depths) is an achievement that requires the player to obtain the Constitution experience after completion of the [Song from the Depths](https://runescape.wikia.com/wiki/Song_from_the_Depths) quest and having obtained at least level 80 Constitution.\n\nEnter the quest cave where souls wandered. The entrance is in a wall south of the [Rimmington mining site](https://runescape.wikia.com/wiki/Rimmington_mining_site). Swim through the acid pool and go through the only door to the east. In the next cave, go west, then south, then east, then north. Read the northern Ancient writings, then swim through the acid pool (will cause 50+ damage, but cannot kill you) and read the second wall for the remaining experience.\n\nBefore reading the ancient writings, their examine text is, \"This text is some kind of magic to fortify the body.\" Once the ancient writings have been read examine will yield the message \"The writing has jumbled to become incomprehensible.\"\n\nThe Rimmington mine is a mine that is located north-east of [Rimmington](https://runescape.wikia.com/wiki/Rimmington), west of [Port Sarim](https://runescape.wikia.com/wiki/Port_Sarim), and south-west of [Falador](https://runescape.wikia.com/wiki/Falador).",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -7075,14 +7087,18 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Scribblings of a Dragonkin](http://runescape.wikia.com/wiki/Scribblings_of_a_Dragonkin) is an achievement that requires the player to collect Vicendithas' Scribblings inside of the Edimmu resource dungeon.\n\nVicendithas' Scribblings is a book found by searching the Dragonkin altar.",
+			"description": "[Scribblings of a Dragonkin](http://runescape.wikia.com/wiki/Scribblings_of_a_Dragonkin) is an achievement that requires the player to collect [Vicendithas' Scribblings]() inside of the [Edimmu resource dungeon](https://runescape.wikia.com/wiki/Edimmu_resource_dungeon).\n\nVicendithas' Scribblings is a book found by searching the [Dragonkin](https://runescape.wikia.com/wiki/Dragonkin) mural.\n\nThe Edimmu resource dungeon is a [resource dungeon](https://runescape.wikia.com/wiki/Resource_dungeon) in the [Meilyr Clan](https://runescape.wikia.com/wiki/Meilyr_Clan) district of [Prifddinas](https://runescape.wikia.com/wiki/Prifddinas).",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
 			"fields": [
 				{
 					"name": "Requirements:",
-					"value": "• 115 Dungeoneering"
+					"value": "• 115 Dungeoneering\n\n• Plague's End Quest completion | [Runescape Wiki](https://runescape.wikia.com/wiki/Plague%27s_End)"
+				},
+				{
+					"name": "Guide:",
+					"value": "• [Location of the Mural | Runescape Wiki](https://vignette.wikia.nocookie.net/runescape2/images/8/8f/Crystal-flecked_sandstone_%28Edimmu_resource_dungeon%29_location.png/revision/latest?cb=20141125173206)"
 				}
 			],
 			"footer": {
@@ -7163,7 +7179,7 @@ exports.data = {
                 "name": "Cape Info",
                 "icon_url": "https://i.imgur.com/6c6q2iC.png"
             },
-            "description": "[Sentient Letters](http://runescape.wikia.com/wiki/Sentient_Letters) is an achievement that requires the player to collect the four lore drops (Letter signed 'Pontifex Madromurt', Letter signed 'Pontifex Nabor', Letter signed 'Pontifex Bilrach' and the damaged digsite letter) from activities within The Empty Throne Room.\n\nTraining at any of the skill nodes has a chance to add a Senntisten scroll to the player's inventory. Senntisten scrolls are items found randomly while skilling in The Empty Throne Room. They should be returned to Celia Diggory, which unlocks the ability to claim a transcribed copy from her.\n\nThe Empty Throne Room (also known as the Senntisten digsite) is the excavated remains of the throne room of Zaros in the ancient city of Senntisten. It is located to the east of the Digsite.",
+            "description": "[Sentient Letters](http://runescape.wikia.com/wiki/Sentient_Letters) is an achievement that requires the player to collect the four lore drops from activities within [The Empty Throne Room](https://runescape.wikia.com/wiki/The_Empty_Throne_Room).\n\nThe four lore drops include:\n• [Letter signed 'Pontifex Madromurt'](https://runescape.wikia.com/wiki/Letter_signed_%27Pontifex_Madromurt%27)\n• [Letter signed 'Pontifex Nabor'](https://runescape.wikia.com/wiki/Letter_signed_%27Pontifex_Nabor%27)\n• [Letter signed 'Pontifex Bilrach'](https://runescape.wikia.com/wiki/Letter_signed_%27Pontifex_Bilrach%27)\n• The [damaged digsite letter](https://runescape.wikia.com/wiki/Damaged_digsite_letter)\n\nTraining at any of the skill nodes has a chance to add a [Senntisten scroll](https://runescape.wikia.com/wiki/Senntisten_scroll) to the player's inventory. They should be returned to [Celia Diggory](https://runescape.wikia.com/wiki/Celia_Diggory), which unlocks the ability to claim a transcribed copy from her. Celia Diggory is an archaeologist involved in digging up The Empty Throne Room, where she is located.\n\nThe Empty Throne Room (also known as the Senntisten digsite) is the excavated remains of the throne room of [Zaros](https://runescape.wikia.com/wiki/Zaros) in the ancient city of [Senntisten](https://runescape.wikia.com/wiki/Senntisten). It is located to the east of the [Digsite](https://runescape.wikia.com/wiki/Digsite).\n\nThe quickest way to obtain these lore drops is by using one of the 6 [Manual auto-cycles](https://runescape.wikia.com/wiki/The_Empty_Throne_Room#Agility).",
             "thumbnail": {
                 "url": "https://i.imgur.com/Shmagnp.png"
             },
@@ -7219,7 +7235,7 @@ exports.data = {
                 "name": "Cape Info",
                 "icon_url": "https://i.imgur.com/6c6q2iC.png"
             },
-            "description": "[Shadow Hanging Over Me](http://runescape.wikia.com/wiki/Shadow_Hanging_Over_Me) is an achievement that requires the player to claim all treasure from the chests during (or from Gudrik after) the A Shadow over Ashdale quest.\n\nGudrik Halbaddon is a retired dwarf adventurer who can be found south-west of Taverley's bank.",
+            "description": "[Shadow Hanging Over Me](http://runescape.wikia.com/wiki/Shadow_Hanging_Over_Me) is an achievement that requires the player to claim all treasure from the chests during, or from [Gudrik](https://runescape.wikia.com/wiki/Gudrik) after, the [A Shadow over Ashdale](https://runescape.wikia.com/wiki/A_Shadow_over_Ashdale) quest.\n\nGudrik Halbaddon is a retired [dwarf](https://runescape.wikia.com/wiki/Dwarf_(race) adventurer who can be found south-west of [Taverley](https://runescape.wikia.com/wiki/Taverley)'s bank.",
             "thumbnail": {
                 "url": "https://i.imgur.com/Shmagnp.png"
             },
@@ -7523,7 +7539,7 @@ exports.data = {
                 "name": "Cape Info",
                 "icon_url": "https://i.imgur.com/6c6q2iC.png"
             },
-            "description": "[Some Old Dusty Journals](http://runescape.wikia.com/wiki/Some_Old_Dusty_Journals) is an achievement that requires the player to find and read the Ancient, Dusty and Weathered Tarddian Journal found on Tarddiad after The Light Within.",
+            "description": "[Some Old Dusty Journals](http://runescape.wikia.com/wiki/Some_Old_Dusty_Journals) is an achievement that requires the player to find and read the [Ancient](https://runescape.wikia.com/wiki/Ancient_Tarddian_Journal), [Dusty](https://runescape.wikia.com/wiki/Dusty_Tarddian_Journal) and [Weathered Tarddian Journal](https://runescape.wikia.com/wiki/Weathered_Tarddian_Journal) found on [Tarddiad](https://runescape.wikia.com/wiki/Tarddiad) after [The Light Within](https://runescape.wikia.com/wiki/The_Light_Within).\n\nThe Ancient Tarddian Journal is located on the northwest side. There is a large boulder inside a house that can be searched for the book. It fills in a backstory of the elven's history on Tarddiad.\n\nThe Dusty Tarddian Journal is located east of the [World Gate](https://runescape.wikia.com/wiki/World_Gate), on the west side of the stairs near the southernmost ruins. There is a crystal formation that can be searched for the book. It fills in a backstory of the elven's history in the quest.\n\nThe Weathered Tarddian Journal is located in the far north, west of the river in a bush. It fills in a backstory of the elven's history in the quest. The lore relates directly to the aftermath of the Elven Exodus though the world gate, and those left behind. ",
             "thumbnail": {
                 "url": "https://i.imgur.com/Shmagnp.png"
             },
@@ -7579,7 +7595,7 @@ exports.data = {
                 "name": "Cape Info",
                 "icon_url": "https://i.imgur.com/6c6q2iC.png"
             },
-            "description": "[Squeal for Coins](http://runescape.wikia.com/wiki/Squeal_for_Coins) is an achievement that requires the player to open Yelps's very own cash bag (claimed from his chest after killing him on Yu'biusk, or automatically put into the player's bank after sparing him during The Mighty Fall).\n\nYu'biusk is a world within the multiverse that is separate from Gielinor. Players can return to Yu'biusk after the quest is completed by using the fairy ring code **B-L-Q**.",
+            "description": "[Squeal for Coins](http://runescape.wikia.com/wiki/Squeal_for_Coins) is an achievement that requires the player to open [Yelps's very own cash bag](https://runescape.wikia.com/wiki/Yelps%27s_very_own_cash_bag). [Yelps](https://runescape.wikia.com/wiki/Yelps)'s very own cash bag is claimed from his [chest](https://runescape.wikia.com/wiki/Yelps%27s_chest) after killing him on [Yu'biusk](https://runescape.wikia.com/wiki/Yu%27biusk), or automatically put into the player's bank after sparing him during [The Mighty Fall](https://runescape.wikia.com/wiki/The_Mighty_Fall).\n\nYu'biusk is a world within the multiverse that is separate from [Gielinor](https://runescape.wikia.com/wiki/Gielinor). Players can return to Yu'biusk after the quest is completed by using the fairy ring code **b•l•q**.",
             "thumbnail": {
                 "url": "https://i.imgur.com/Shmagnp.png"
             },
@@ -7603,19 +7619,19 @@ exports.data = {
                 "name": "Cape Info",
                 "icon_url": "https://i.imgur.com/6c6q2iC.png"
             },
-            "description": "[Stalker Notes](http://runescape.wikia.com/wiki/Stalker_Notes_(achievement%29) is a meta-achievement that requires the player to collect all five Stalker notes within Daemonheim.",
+            "description": "[Stalker Notes](http://runescape.wikia.com/wiki/Stalker_Notes_(achievement%29) is a meta-achievement that requires the player to collect all five [Stalker notes](https://runescape.wikia.com/wiki/Stalker_notes) within [Daemonheim](https://runescape.wikia.com/wiki/Daemonheim).\n\nPlayers may find parts of the notes once they defeat certain [bosses](https://runescape.wikia.com/wiki/Dungeoneering/Bosses) in the dungeons\n\nWearing the [Dungeoneering master cape](https://runescape.wikia.com/wiki/Dungeoneering_master_cape) will increase the chance of receiving lore drops while Dungeoneering.",
             "thumbnail": {
                 "url": "https://i.imgur.com/Shmagnp.png"
             },
             "fields": [
                 {
-                  "name": "Stalker Notes",
-                  "value": "Part 1\nPart 2\nPart 3\nPart 4\nPart 5",
+                  "name": "Stalker Notes:",
+                  "value": "[Stalker Notes Part 1](https://runescape.wikia.com/wiki/Stalker_notes_(part_1)\n[Stalker Notes Part 2](https://runescape.wikia.com/wiki/Stalker_notes_(part_2)\n[Stalker Notes Part 3](https://runescape.wikia.com/wiki/Stalker_notes_(part_3)\n[Stalker Notes Part 4](https://runescape.wikia.com/wiki/Stalker_notes_(part_4)\n[Stalker Notes Part 5](https://runescape.wikia.com/wiki/Stalker_notes_(part_5)",
                   "inline": true
                 },
                 {
-                  "name": "Dropped by",
-                  "value": "Plane-freezer Lakhrahnaz\nNight-gazer Khighorahk\nShadow-forger Ihlakhizan\nFlesh-spoiler Haasghenahk\nWorld-gorger Shukarhazh",
+                  "name": "Dropped by:",
+                  "value": "[Plane-freezer Lakhrahnaz](https://runescape.wikia.com/wiki/Plane-freezer_Lakhrahnaz)\n[Night-gazer Khighorahk](https://runescape.wikia.com/wiki/Night-gazer_Khighorahk)\n[Shadow-forger Ihlakhizan](https://runescape.wikia.com/wiki/Shadow-Forger_Ihlakhizan)\n[Flesh-spoiler Haasghenahk](https://runescape.wikia.com/wiki/Flesh-spoiler_Haasghenahk)\n[World-gorger Shukarhazh](https://runescape.wikia.com/wiki/World-gorger_Shukarhazh)",
                   "inline": true
                 },
                 {
@@ -7725,7 +7741,7 @@ exports.data = {
                 "name": "Cape Info",
                 "icon_url": "https://i.imgur.com/6c6q2iC.png"
             },
-            "description": "[Stealing Sedridor's Stones](http://runescape.wikia.com/wiki/Stealing_Sedridor%27s_Stones) is an achievement that requires the player to obtain all pure essence given from Archmage Sedridors chest after completing Rune Memories.\n\nSedridor is the current archmage of the second Wizards' Tower, which trains wizards in the magical arts. He can be found in his office on the 2nd floor of the tower. Sedridor will be saddened by the betrayal of Wizard Ellaron and offer players to take from his personal rune chest after the quest.\n\nThis yields pure essence equal to **2.5 * level * (level+1)**, updated each time a level is gained, for a total of 24,750 essence granted once level 99 is reached.",
+            "description": "[Stealing Sedridor's Stones](http://runescape.wikia.com/wiki/Stealing_Sedridor%27s_Stones) is an achievement that requires the player to obtain all [pure essence](https://runescape.wikia.com/wiki/Pure_essence) given from [Archmage Sedridor](https://runescape.wikia.com/wiki/Archmage_Sedridor)'s [chest](https://runescape.wikia.com/wiki/Rune_chest) after completing [Rune Memories](https://runescape.wikia.com/wiki/Rune_Memories).\n\nSedridor is the current archmage of the second [Wizards' Tower](https://runescape.wikia.com/wiki/Wizards%27_Tower), which trains wizards in the magical arts. He can be found in his office on the 2nd floor of the tower. Sedridor will be saddened by the betrayal of [Wizard Ellaron](https://runescape.wikia.com/wiki/Wizard_Ellaron) and offer players to take from his personal rune chest after the quest.\n\nThis yields pure essence equal to **2.5 * level * (level+1)**, updated each time a level is gained, for a total of 24,750 essence granted once level 99 is reached.\n\nThe immense tower is located on a small island south of [Draynor Village](https://runescape.wikia.com/wiki/Draynor_Village), connected to the mainland by an exquisite bridge. A [fairy ring](https://runescape.wikia.com/wiki/Fairy_ring) with the code **d•i•s** is located directly south of the tower. ",
             "thumbnail": {
                 "url": "https://i.imgur.com/Shmagnp.png"
             },
