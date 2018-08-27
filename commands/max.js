@@ -15,7 +15,7 @@ const readdir = promisify(require("fs").readdir);
 
 exports.run = async (client, message, [skill, ...args], level) => { // eslint-disable-line no-unused-vars
 	if (message.channel.id !== '429108140924076032' && level < "2") return;
-	if (args[0] == "-") return;
+	if (args[0] == "-" || args[0] == "+") return;
 	if (!skill) return message.channel.send(`Please specify a skill name.`);
 
 	const aliases = {
@@ -23,7 +23,7 @@ exports.run = async (client, message, [skill, ...args], level) => { // eslint-di
 		"agil": "agility",
 		"atk": "attack",
 		"att": "attack",
-		"hp ": "constitution",
+		"hp": "constitution",
 		"con": "construction",
 		"cons": "construction",
 		"cook": "cooking",
