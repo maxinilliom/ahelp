@@ -220,7 +220,7 @@ exports.data = {
       }
       ]
   },
-  "quests": {{
+  "quests": {
     "title": "Quests which Grant Construction Experience",
     "url": "http://runescape.wikia.com/wiki/Quests/Experience_rewards#Construction",
     "description": "Currently, a total of 535,750 experience may be gained specifically to Construction throughout all of the RuneScape Quests. These rewards are automatically given and there is no choice involved.",
