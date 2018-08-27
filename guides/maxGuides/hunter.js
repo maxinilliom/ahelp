@@ -25,7 +25,7 @@ exports.data = {
   },
   "1 - 20": {
     "title": "Hunter Training Levels 1-20",
-    "description": "At level 1 Hunter players should begin training by feeding [ogleroots](http://runescape.wikia.com/wiki/Ogleroot) to [rabbits](http://runescape.wikia.com/wiki/Rabbit_(Vinesweeper) within the [Vinesweeper](http://runescape.wikia.com/wiki/Vinesweeper) minigame. This gives approximately 10,000 experience an hour. However as only 4,470 experience is needed to achieve level 20 Hunter, it should take players with no previous experience of the skill approximately 27 minutes to achieve level 20.",
+    "description": "At level 1 Hunter, players should begin training by feeding [ogleroots](http://runescape.wikia.com/wiki/Ogleroot) to [rabbits](http://runescape.wikia.com/wiki/Rabbit_(Vinesweeper) within the [Vinesweeper](http://runescape.wikia.com/wiki/Vinesweeper) minigame. This gives approximately 10,000 experience an hour. However as only 4,470 experience is needed to achieve level 20 Hunter, it should take players with no previous experience of the skill approximately 27 minutes to achieve level 20.",
     "url": "http://runescape.wikia.com/wiki/Hunter_training#Levels_1-20:_feeding_ogleroots_to_rabbits",
     "color": 12269891,
     "footer": {
@@ -42,7 +42,7 @@ exports.data = {
   },
   "20 - 27": {
     "title": "Hunter Training Levels 20-27",
-    "description": "With level 20 Hunter players can start hunting [Tropical Wagtails](http://runescape.wikia.com/wiki/Tropical_wagtail), laying 2 bird snares at the same time. With level 20-27 Hunter players can gain approximately 11,500 experience an hour hunting tropical wagtails. Tropical wagtails are located in the [Feldip Hunter](http://runescape.wikia.com/wiki/Feldip_Hunter_area) area; good places to catch them are located west and north-east of the lodestone. The best way to catch them easily is to place the snares close to their spawn points.",
+    "description": "With level 20 Hunter, players can start hunting [Tropical Wagtails](http://runescape.wikia.com/wiki/Tropical_wagtail), laying 2 bird snares at the same time. With level 20-27 Hunter players can gain approximately 11,500 experience an hour hunting tropical wagtails. Tropical wagtails are located in the [Feldip Hunter](http://runescape.wikia.com/wiki/Feldip_Hunter_area) area; good places to catch them are located west and north-east of the lodestone. The best way to catch them easily is to place the snares close to their spawn points.",
     "url": "http://runescape.wikia.com/wiki/Hunter_training#Levels_20-27:_tropical_wagtails",
     "color": 12269891,
     "footer": {
@@ -59,7 +59,7 @@ exports.data = {
   },
   "27 - 46": {
     "title": "Hunter Training Levels 27-46",
-    "description": "Players with level 27 Hunter can begin to hunt [Cobalt Skillchompas](http://runescape.wikia.com/wiki/Cobalt_skillchompa_(Hunter) using box traps. This gives around 30,000 experience an hour while using 2 traps at level 27-40 Hunter. Once the player can use 3 traps, with level 40 or more Hunter, it gives around 40,000 experience an hour. Up to 4 skillchompas can be caught per trap, which scales with Agility level. At level 42 Agility, multiple are always caught. Once trapped, cobalt skillchompas become stackable items. Cobalt skillchompas are found at the [Tree Gnome Stronghold Hunter area](http://runescape.wikia.com/wiki/Tree_Gnome_Stronghold_Hunter_area), which can be accessed via a shortcut, requiring level 19 Agility, north of the [Grand Tree](http://runescape.wikia.com/wiki/Grand_Tree) or by travelling south-west from the [Barbarian Outpost](http://runescape.wikia.com/wiki/Barbarian_Outpost).",
+    "description": "Players with level 27 Hunter can begin to hunt [Cobalt Skillchompas](http://runescape.wikia.com/wiki/Cobalt_skillchompa_(Hunter) using box traps. This gives around 30,000 experience an hour while using 2 traps at level 27-40 Hunter. Once the player can use 3 traps, with level 40 or more Hunter, it gives around 40,000 experience an hour. Up to 4 skillchompas can be caught per trap, which scales with Agility level. At level 42 Agility, multiple are always caught. Once trapped, cobalt skillchompas become stackable items. Cobalt skillchompas are found at the [Tree Gnome Stronghold Hunter area](http://runescape.wikia.com/wiki/Tree_Gnome_Stronghold_Hunter_area), which can be accessed via a shortcut, requiring level 19 Agility, north of the [Grand Tree](http://runescape.wikia.com/wiki/Grand_Tree), or by travelling south-west from the [Barbarian Outpost](http://runescape.wikia.com/wiki/Barbarian_Outpost).",
     "url": "http://runescape.wikia.com/wiki/Hunter_training#Levels_27-46:_cobalt_skillchompas",
     "color": 12269891,
     "footer": {
@@ -76,7 +76,7 @@ exports.data = {
   },
   "46 - 68": {
     "title": "Hunter Training Levels 46-68",
-    "description": "Once a player has achieved level 46 Hunter then they can begin to hunt [Viridian Skillchompas](http://runescape.wikia.com/wiki/Viridian_skillchompa_(Hunter) using box traps. Up to 4 skillchompas can be caught per trap, which scales with Agility level. At level 64 Agility, multiple are always caught. Around 70,000-80,000 experience an hour can be gained by hunting these creatures. Successfully catching one of these creatures results in the player obtaining a stackable viridian skillchompa. These skillchompas can be caught at the [Port Phasmatys Hunter area](http://runescape.wikia.com/wiki/Port_Phasmatys_Hunter_area), which is found south of [Port Phasmatys](http://runescape.wikia.com/wiki/Port_Phasmatys).",
+    "description": "Once a player has achieved level 46 Hunter, they can begin to hunt [Viridian Skillchompas](http://runescape.wikia.com/wiki/Viridian_skillchompa_(Hunter) using box traps. Up to 4 skillchompas can be caught per trap, which scales with Agility level. At level 64 Agility, multiple are always caught. Around 70,000-80,000 experience an hour can be gained by hunting these creatures. Successfully catching one of these creatures results in the player obtaining a stackable viridian skillchompa. These skillchompas can be caught at the [Port Phasmatys Hunter area](http://runescape.wikia.com/wiki/Port_Phasmatys_Hunter_area), which is found south of [Port Phasmatys](http://runescape.wikia.com/wiki/Port_Phasmatys).",
     "url": "http://runescape.wikia.com/wiki/Hunter_training#Levels_46-68:_viridian_skillchompas",
     "color": 12269891,
     "footer": {
@@ -93,7 +93,7 @@ exports.data = {
   },
   "68 - 77": {
     "title": "Hunter Training Levels 68-77",
-    "description": "With at least level 68 Hunter players can hunt [Azure Skillchompas](http://runescape.wikia.com/wiki/Azure_skillchompa_(Hunter) to gain between 120,000 to 150,000 experience an hour. Azure skillchompas can be caught using box traps at the [Rellekka Hunter area](http://runescape.wikia.com/wiki/Rellekka_Hunter_area). Up to 4 skillchompas can be caught per trap, which scales with Agility level. At level 81 Agility, multiple are always caught. Successfully catching one of these creatures results in the player obtaining a stackable azure skillchompa.",
+    "description": "With at least level 68 Hunter, players can hunt [Azure Skillchompas](http://runescape.wikia.com/wiki/Azure_skillchompa_(Hunter) to gain between 120,000 to 150,000 experience an hour. Azure skillchompas can be caught using box traps at the [Rellekka Hunter area](http://runescape.wikia.com/wiki/Rellekka_Hunter_area). Up to 4 skillchompas can be caught per trap, which scales with Agility level. At level 81 Agility, multiple are always caught. Successfully catching one of these creatures results in the player obtaining a stackable azure skillchompa.",
     "url": "http://runescape.wikia.com/wiki/Hunter_training#Levels_68-77:_azure_skillchompas",
     "color": 12269891,
     "footer": {
@@ -111,24 +111,26 @@ exports.data = {
   "77 - 96 pt1": {
     "title": "Hunter Training Levels 77-96",
     "url": "http://runescape.wikia.com/wiki/Hunter_training#Levels_77-96:_grenwalls_using_Crystallise",
-    "description": "Players who have at least level 77 Hunter can hunt [Grenwalls](http://runescape.wikia.com/wiki/Grenwall) using box traps, after completing the [Regicide](http://runescape.wikia.com/wiki/Regicide) quest to gain access to [Isafdar](http://runescape.wikia.com/wiki/Isafdar). For maximum efficiency this method requires access to [Crystallise](http://runescape.wikia.com/wiki/Crystallise) and [Light Form](http://runescape.wikia.com/wiki/Light_Form) as well as completion of the medium set of [Tirannwn tasks](http://runescape.wikia.com/wiki/Tirannwn_achievements), which allows players to trap grenwalls without bait. It is useful to bring a [Bonecrusher](http://runescape.wikia.com/wiki/Bonecrusher) and [Herbicide](http://runescape.wikia.com/wiki/Herbicide) to convert some of the items received from hunting grenwalls into Prayer and Herblore experience. The use of [Demon Horn](http://runescape.wikia.com/wiki/Demon_horn_necklace), [Twisted Bird Skull](http://runescape.wikia.com/wiki/Twisted_bird_skull_necklace), or [Split Dragontooth Necklace](http://runescape.wikia.com/wiki/Split_dragontooth_necklace) in addition to a bonecrusher can restore the player's prayer points, removing the need to bring prayer potions for the use of Light Form although Prayer Renewals may still be needed especially at lower levels. Grenwalls can be found in two locations: in the [Gorajo Resource Dungeon](http://runescape.wikia.com/wiki/Gorajo_resource_dungeon) in [Meilyr Clan](http://runescape.wikia.com/wiki/Meilyr_Clan), requiring level 95 Dungeoneering, and just south of the [Elf Camp](http://runescape.wikia.com/wiki/Elf_Camp). Normally, laying a box trap takes 6 game ticks (3.6 seconds). If, however, you drink a potion and set the trap in the same tick, the trap will be set in just one tick. This method while less afk will grant much higher experience rates of more than 800,000 Hunter experience an hour at level 99.",
+    "description": "Players who have at least level 77 Hunter can hunt [Grenwalls](http://runescape.wikia.com/wiki/Grenwall) using box traps, after completing the [Regicide](http://runescape.wikia.com/wiki/Regicide) quest to gain access to [Isafdar](http://runescape.wikia.com/wiki/Isafdar). For maximum efficiency this method requires access to [Crystallise](http://runescape.wikia.com/wiki/Crystallise) and [Light Form](http://runescape.wikia.com/wiki/Light_Form) as well as completion of the medium set of [Tirannwn tasks](http://runescape.wikia.com/wiki/Tirannwn_achievements), which allows players to trap grenwalls without bait. It is useful to bring a [Bonecrusher](http://runescape.wikia.com/wiki/Bonecrusher) and [Herbicide](http://runescape.wikia.com/wiki/Herbicide) to convert some of the items received from hunting grenwalls into Prayer and Herblore experience. The use of [Demon Horn](http://runescape.wikia.com/wiki/Demon_horn_necklace), [Twisted Bird Skull](http://runescape.wikia.com/wiki/Twisted_bird_skull_necklace), or [Split Dragontooth Necklace](http://runescape.wikia.com/wiki/Split_dragontooth_necklace) in addition to a bonecrusher can restore the player's prayer points, removing the need to bring prayer potions for the use of Light Form although Prayer Renewals may still be needed especially at lower levels. Grenwalls can be found in three locations; at the [Gorajo Resource Dungeon](http://runescape.wikia.com/wiki/Gorajo_resource_dungeon) in [Meilyr Clan](http://runescape.wikia.com/wiki/Meilyr_Clan) requiring level 95 Dungeoneering, just south of the [Elf Camp](http://runescape.wikia.com/wiki/Elf_Camp) and at the the Grenwall Portal. Normally, laying a box trap takes 6 game ticks (3.6 seconds). If, however, you drink a potion and set the trap in the same tick, the trap will be set in just one tick. This method while less afk will grant much higher experience rates of more than 800,000 Hunter experience an hour at level 99.",
         "color": 12269891,
-    "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
-      "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
-    },
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/0/0a/Grenwall.png/revision/latest?cb=20160702123331"
     },
     "author": {
       "name": "Max Cape Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
-    }
+    },
+     "fields": [
+            {
+        "name": "Grenwall Portal",
+        "value": "The [Grenwall Portal](http://runescape.wikia.com/wiki/Grenwall_portal) is located in the [Gnome Stronghold](http://runescape.wikia.com/wiki/Tree_Gnome_Stronghold) that leads to a private hunting area. This location is by far the most preferred when hunting grenwalls It can only be accessed if the player is holding at least one [Grenwall Quota Ticket](http://runescape.wikia.com/wiki/Grenwall_quota_ticket), obtained from the [Big Chinchompa](http://runescape.wikia.com/wiki/Big_Chinchompa) Distraction and Diversion, in their inventory. A ticket is used up each time a creature is caught, limiting the amount of time that may be spent there."
+      }
+   ]
   },
   "77 - 96 pt2": {
-    "title": "Alternative Hunter Training Levels 77-96",
+    "title": "Alternative Hunter Training Levels 77-80",
     "url": "http://runescape.wikia.com/wiki/Hunter_training#Amphibious_jadinkos_.28levels_77-80.29",
-    "description": "If the player does not have access to Crystallise then they can start hunting [Amphibious Jadinkos](http://runescape.wikia.com/wiki/Amphibious_jadinko) at level 77 Hunter. With level 77-80 Hunter this gives approximately 83,000 experience an hour. Amphibious jadinkos can only be caught at the [Herblore Habitat](http://runescape.wikia.com/wiki/Herblore_Habitat) using [marasamaw plants](http://runescape.wikia.com/wiki/Marasamaw_plant). To attract amphibious jadinkos players must have at least level 61 Farming in order to plant a [blue blossom seed](http://runescape.wikia.com/wiki/Blue_blossom_seed) and [lergberry seed](http://runescape.wikia.com/wiki/Lergberry_seed) in the vine blossom and bush patches. Players must also build a [pond habitat](http://runescape.wikia.com/wiki/Pond_(Herblore_Habitat) at the environmental feature patch.",
+    "description": "If the player does not have access to Crystallise, they can instead start hunting [Amphibious Jadinkos](http://runescape.wikia.com/wiki/Amphibious_jadinko) at level 77 Hunter. With level 77-80 Hunter this gives approximately 83,000 experience an hour. Amphibious jadinkos can only be caught at the [Herblore Habitat](http://runescape.wikia.com/wiki/Herblore_Habitat) using [marasamaw plants](http://runescape.wikia.com/wiki/Marasamaw_plant). To attract amphibious jadinkos players must have at least level 61 Farming in order to plant a [blue blossom seed](http://runescape.wikia.com/wiki/Blue_blossom_seed) and [lergberry seed](http://runescape.wikia.com/wiki/Lergberry_seed) in the vine blossom and bush patches. Players must also build a [pond habitat](http://runescape.wikia.com/wiki/Pond_(Herblore_Habitat) at the environmental feature patch.",
         "color": 12269891,
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
@@ -136,10 +138,6 @@ exports.data = {
     },
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/3/35/Amphibious_jadinko.png/revision/latest?cb=20130626213931"
-    },
-    "author": {
-      "name": "Max Cape Info",
-      "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
     "fields": [
             {
@@ -175,7 +173,7 @@ exports.data = {
   },
   "96 - 99 +": {
     "title": "Hunter Training Levels 96-99+",
-    "description": "At level 96 Hunter players can start hunting [Ornate Tortles](http://runescape.wikia.com/wiki/Ornate_tortle). Ornate tortles are a rare Hunter resource that can be found randomly on [Uncharted Isles](http://runescape.wikia.com/wiki/Uncharted_Isles), which requires completion of the [Impressing the Locals](http://runescape.wikia.com/wiki/Impressing_the_Locals) quest to access. Ornate tortles can be caught using tortle traps at level 96 Hunter and yield [shiny shell chippings](http://runescape.wikia.com/wiki/Shiny_shell_chippings) when they are trapped successfully. Depleting one colony of ornate tortles takes around 30 minutes and gives around 333,000 experience. At level 99 Hunter trapping ornate tortles gives an experience rate equivalent to around 666,000 experience an hour. The experience from hunting ornate tortles can further be bolstered by completing contracts given by [Sojobo](http://runescape.wikia.com/wiki/The_Tengu) (contracts) on [Waiko](http://runescape.wikia.com/wiki/Waiko) or via a [Contract contact](http://runescape.wikia.com/wiki/Contract_contact) on an uncharted isle.",
+    "description": "At level 96 Hunter, players can start hunting [Ornate Tortles](http://runescape.wikia.com/wiki/Ornate_tortle). Ornate tortles are a rare Hunter resource that can be found randomly on [Uncharted Isles](http://runescape.wikia.com/wiki/Uncharted_Isles), which requires completion of the [Impressing the Locals](http://runescape.wikia.com/wiki/Impressing_the_Locals) quest to access. Ornate tortles can be caught using tortle traps at level 96 Hunter and yield [shiny shell chippings](http://runescape.wikia.com/wiki/Shiny_shell_chippings) when they are trapped successfully. Depleting one colony of ornate tortles takes around 30 minutes and gives around 333,000 experience. At level 99 Hunter, trapping ornate tortles gives an experience rate equivalent to around 666,000 experience an hour. Normally, laying a box trap takes 6 game ticks (3.6 seconds). If, however, you drink a potion and set the trap in the same tick, the trap will be set in just one tick. The experience from hunting ornate tortles can further be bolstered by completing contracts given by [Sojobo](http://runescape.wikia.com/wiki/The_Tengu) (contracts) on [Waiko](http://runescape.wikia.com/wiki/Waiko) or via a [Contract contact](http://runescape.wikia.com/wiki/Contract_contact) on an uncharted isle. Hunter contracts give between 12,600–34,200 experience when handed in.",
     "url": "http://runescape.wikia.com/wiki/Hunter_training#Levels_96-99.2B:_ornate_tortles",
     "color": 12269891,
     "footer": {
@@ -192,7 +190,7 @@ exports.data = {
      "fields": [
       {
         "name": "▬▬ Alternative Method: Levels 97-99+ ▬▬",
-        "value": "At level 97 Hunter players may wish to catch [Crystal Skillchompas](http://runescape.wikia.com/wiki/Crystal_skillchompa_(Hunter) as an alternative to hunting ornate tortles. They are a good alternative for players who want money and/or do not want to deal with the hassle of finding new uncharted isles each time an Ornate tortle spot is depleted. There is a chance of catching multiple in a single trap, up to a maximum of four, with higher levels of Agility giving a better chance. At level 99 Agility there is a guaranteed chance of receiving multiple skillchompas from a single trap. Players can gain around 520,000 experience an hour hunting crystal skillchompas with level 99 Hunter and at least 700,000 experience an hour if they have 99 Agility as well. These skillchompas can be caught in [Tirannwn](http://runescape.wikia.com/wiki/Tirannwn), north of [Tyras Camp](http://runescape.wikia.com/wiki/Tyras_Camp)."
+        "value": "At level 97 Hunter, players may wish to catch [Crystal Skillchompas](http://runescape.wikia.com/wiki/Crystal_skillchompa_(Hunter) as an alternative to hunting ornate tortles. They are a good alternative for players who want money and/or do not want to deal with the hassle of finding new uncharted isles each time an Ornate tortle spot is depleted. There is a chance of catching multiple in a single trap, up to a maximum of four, with higher levels of Agility giving a better chance. At level 99 Agility, there is a guaranteed chance of receiving multiple skillchompas from a single trap. Players can gain around 520,000 experience an hour hunting crystal skillchompas with level 99 Hunter, and at least 700,000 experience an hour if they have 99 Agility as well. These skillchompas can be caught in [Tirannwn](http://runescape.wikia.com/wiki/Tirannwn), north of [Tyras Camp](http://runescape.wikia.com/wiki/Tyras_Camp). Using the 1-tick method previously mentioned using potions is highly recommended."
       }
        ]
   },
@@ -215,7 +213,11 @@ exports.data = {
     "fields": [
       {
         "name": "▬▬ Protean Trap ▬▬",
-        "value": "[Protean traps](http://runescape.wikia.com/wiki/Protean_trap) can be won from [Treasure Hunter](http://runescape.wikia.com/wiki/Treasure_Hunter). The traps can be used as a stackable substitute for bird snares, box traps and marasamaw plants. The traps do not function as tortle traps. Using the trap gives a 25% experience boost with successful catches and gives 50% of the normal catching experience for failed catches. This stacks with bonus experience and other modifiers, along with the [enhanced yaktwee stick](http://runescape.wikia.com/wiki/Enhanced_yaktwee_stick) providing its usual 5% experience boost. Use of the trap adds a 10% chance of catching prey, and it stays up for 50% longer."
+        "value": "[Protean traps](http://runescape.wikia.com/wiki/Protean_trap) can be won from [Treasure Hunter](http://runescape.wikia.com/wiki/Treasure_Hunter). The traps can be used as a stackable substitute for bird snares, box traps, and marasamaw plants. The traps do not function as tortle traps. Using the trap gives a 25% experience boost with successful catches and gives 50% of the normal catching experience for failed catches. This stacks with bonus experience and other modifiers, along with the [enhanced yaktwee stick](http://runescape.wikia.com/wiki/Enhanced_yaktwee_stick) providing its usual 5% experience boost. Use of the trap adds a 10% chance of catching prey, and it stays up for 50% longer."
+      },
+      {
+        "name": "▬▬ Divine Location ▬▬",
+        "value": "A [Divine Location](http://runescape.wikia.com/wiki/Divine_location) is a gathering hub that can be placed almost anywhere using the Divination skill. Players may only collect a certain number of resources from divine locations per day, both through their own gathering and contributions from a created location, based on their total level and will be notified when they are close to their daily limit, reaching a maximum cap of 250 resources once level 2,500+. The maximum cap may be temporarily increased by using vis wax. A list of locations that aid in Hunter and their requirements can be found [here](http://runescape.wikia.com/wiki/Divine_location#Divine_hunter_spots)."
       },
       { 
       "name": "▬▬ Stealing Creation ▬▬", 
@@ -227,11 +229,15 @@ exports.data = {
       }, 
       {
         "name": "▬▬ Waiko Reward Shop ▬▬",
-        "value": "The [Waiko Reward Shop](http://runescape.wikia.com/wiki/Waiko_Reward_Shop#Consumables) is a shop located on the [Waiko](http://runescape.wikia.com/wiki/Waiko) island in [The Arc](http://runescape.wikia.com/wiki/The_Arc) region and is run by [Boni](http://runescape.wikia.com/wiki/Boni_(rewards). Players must complete the [Impressing the Locals](http://runescape.wikia.com/wiki/Impressing_the_Locals) quest in order to access The Arc. The Waiko Reward Shop only accepts a combination of [Chimes](http://runescape.wikia.com/wiki/Chimes) and [Taijitu](http://runescape.wikia.com/wiki/Taijitu) as currency. Players can buy Agility skill specific lamps from the shop for chimes. The available lamp sizes and cost are:\n\n\t• [Small XP Lamp]() for 1,700 chimes\n\t• [Medium XP Lamp]() for 2,500 chimes\n\t• [Large XP Lamp]() for 3,300 chimes, and a\n\t• [Huge XP Lamp]() for 6,400 chimes"
+        "value": "The [Waiko Reward Shop](http://runescape.wikia.com/wiki/Waiko_Reward_Shop#Consumables) is a shop located on the [Waiko](http://runescape.wikia.com/wiki/Waiko) island in [The Arc](http://runescape.wikia.com/wiki/The_Arc) region and is run by [Boni](http://runescape.wikia.com/wiki/Boni_(rewards). Players must complete the [Impressing the Locals](http://runescape.wikia.com/wiki/Impressing_the_Locals) quest in order to access The Arc. The Waiko Reward Shop only accepts a combination of [Chimes](http://runescape.wikia.com/wiki/Chimes) and [Taijitu](http://runescape.wikia.com/wiki/Taijitu) as currency. Players can buy Hunter skill specific lamps from the shop for chimes."
       },
       {
         "name": "​",
-        "value": "Note that a player may choose to buy any size XP lamp in a random, Arc related skill for a lower amount of chimes at a 1/11 chance of gaining Agility experience. Random XP Lamps are generally not worth it if you are trying to gain experience in a specific skill."
+        "value": " The available lamp sizes and cost are:\n\n • [Small XP Lamp](https://runescape.wikia.com/wiki/Small_XP_lamp_(The_Arc) for 1,700 chimes\n • [Medium XP Lamp](https://runescape.wikia.com/wiki/Medium_XP_lamp_(The_Arc) for 2,500 chimes\n • [Large XP Lamp](https://runescape.wikia.com/wiki/Large_XP_lamp_(The_Arc) for 3,300 chimes, and a\n • [Huge XP Lamp](https://runescape.wikia.com/wiki/Huge_XP_lamp_(The_Arc) for 6,400 chimes."
+      },
+      {
+        "name": "​",
+        "value": "Note that a player may choose to buy any size XP lamp in a random, Arc related skill for a lower amount of chimes at a 1/11 chance of gaining Hunter experience. Random XP Lamps are generally not worth it if you are trying to gain experience in a specific skill."
       }
       ]
   },
@@ -294,59 +300,59 @@ exports.data = {
       ]
   },
   "distractions and diversions": { 
-    "title": "Distractions and Diversions", 
-    "url": "http://runescape.wikia.com/wiki/Distractions_and_Diversions", 
-    "description": "D&Ds are a subclassification of minigames. However, unlike minigames many D&Ds move around the world to various locations, have a limit on how often they can be played, and only occur at particular times of day.\n\nDistractions and Diversions aim to divert the original intentions of the player in order to provide an interesting distraction from their everyday routines. D&Ds come in many different shapes and sizes; covering Combat, Gathering, Artisan, and Support skills. There are a wide variety of different options available to suit the players choice.", 
-    "color": 12269891, 
-    "footer": { 
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg", 
-      "text": "Achievement Help | Helping you reach your goals, whatever they may be!" 
-    }, 
-    "thumbnail": { 
-      "url": "https://vignette.wikia.nocookie.net/runescape2/images/6/62/D%26D_icon.png/revision/latest?cb=20140914110639" 
-    }, 
-    "author": { 
-      "name": "Max Cape Info", 
-      "icon_url": "https://i.imgur.com/6c6q2iC.png" 
-    }, 
-    "fields": [ 
-      { 
-        "name": "▬▬ Impetuous Impulses ▬▬", 
-        "value": "[Impetuous Impulses](http://runescape.wikia.com/wiki/Impetuous_Impulses) is a solo minigame in which the objective is to capture [implings](runescape.wikia.com/wiki/Impling), flying imp-like creatures that have been stealing trinkets and treasures all over RuneScape. Players begin the game by speaking with [Elnock Inquisitor](http://runescape.wikia.com/wiki/Elnock_Inquisitor). The game works in two different ways: The player can either track the Implings to their home world of [Puro-Puro](http://runescape.wikia.com/wiki/Puro-Puro), via [crop circle](http://runescape.wikia.com/wiki/Crop_circle) portals and can capture them in a mystical wheat field, or can search for them throughout RuneScape. For greater success in this minigame a combination of high Hunter, Strength, Agility, and Thieving is a must."
-      }, 
-      { 
-        "name": "​", 
-        "value": "The easier of the two options is catching the implings on their home world: Puro-Puro. The player can either travel through a stable portal on [Zanaris](http://runescape.wikia.com/wiki/Zanaris), or randomly appearing portals in wheat fields. Those who have access to Zanaris can talk to the [Wandering Impling](http://runescape.wikia.com/wiki/Wandering_impling) near the crop circle to see where the random crop circle is located at that time. Once in Puro-Puro talk to Elnock Inquisitor, who will give the player a run down of the game, the maze and the implings. He will also give the player a butterfly net, some magical impling jars and an [Impling scroll](http://runescape.wikia.com/wiki/Impling_scroll) containing the number of implings the player has caught. There is no time limit for this minigame."
-      }, 
-      { 
-        "name": "▬▬ Big Chinchompa ▬▬", 
-        "value": "Once every hour, at half past the hour, [Nyriki Tapio](http://runescape.wikia.com/wiki/Nyriki_Tapio) will emerge from the ground at one of the various Hunter areas across Gielinor. Players can enter a [Big Chinchompa](http://runescape.wikia.com/wiki/Big_Chinchompa) game by climbing down the hole he leaves in the ground. For several minutes before his arrival, the ground will frequently rumble and the screen will shake slightly."
-      }, 
-      { 
-        "name": "​", 
-        "value": "Big Chinchompa takes place in a large cavern, in the middle of which is the nest of a large plutonial chinchompa. The objective of the game is to catch [soporith moths](http://runescape.wikia.com/wiki/Soporith_moths) and feed them to the chinchompa in order to put it to sleep. A game of Big Chinchompa lasts 20 minutes, or until the chinchompa eats enough moths and falls asleep. Players can join a game that is already in progress, but can only join two games per day."
-      }, 
-      { 
-        "name": "​", 
-        "value": "Growing around the lair are a large number of small trees. Soporith moths will frequently hatch from cocoons that hang on the branches of the trees. Players can either catch moths directly from the air, or click on shaking trees to catch them as they hatch. Moths can be caught barehanded and stored in the [moth jar](http://runescape.wikia.com/wiki/Moth_jar) that Nyriki will hand players at the start of a game. The jar holds up to 15 moths, and once full, it must be emptied into the chinchompa's nest; this awards Hunter experience and competence points for each moth caught, and increases the chinchompa's drowsiness. A bar on the left side of the minigame interface measures the current drowsiness level, and once it fills to 100%, the chinchompa falls asleep and the game ends. If a player still has moths in their jar when the game ends, they are awarded experience and points for them as normal."
-      },
-      {
-        "name": "​",
-        "value": "[Protea flowers](http://runescape.wikia.com/wiki/Protea_flower) grow at each corner of the lair. These flowers attract soporith moths when wielded by players. With a protea flower equipped, players will occasionally attract the highest-level moth they can catch and automatically attempt to capture it, though success is not guaranteed."
-      },
-      { 
-        "name": "▬▬ Mazcab Supply Runs ▬▬", 
-        "value": "[Supply Runs](http://runescape.wikia.com/wiki/Supply_run) are a safe activity that take place on [Mazcab](http://runescape.wikia.com/wiki/Mazcab) every 12 hours (at midnight and noon game time). The activity begins with goebie supplies spawning at the supply rock near to Querci in Kanatah and is available until 25 minutes past the hour. Players may take up to 10 goebie supplies per day from the supply rock. Upon taking goebie supplies players become flagged for safe PvP and can be attacked by other players, with death resulting in the loss of all goebie supplies that the players are carrying. After obtaining goebie supplies players must travel north-west through the Nemi Forest to Otot, where the supplies may be exchanged for experience with Quercy. " 
-      }, 
-      { 
-        "name": "​", 
-        "value": "The player will be given a choice between two skills in which to gain experience: Agility or Crafting, Farming or Herblore and Hunter or Woodcutting. Different skills are offered on different worlds, so players may change worlds to find a world where the skill in which they wish to gain experience is offered. Between 495, with level 1, and 48,515, with level 99, experience can be gained from exchanging 10 goebie supplies. Assuming the activity is completed in 5 minutes, experience is awarded at a rate equivalent to between 5,940, with level 1, and 582,180, with level 99, experience an hour. [Source](http://runescape.wikia.com/wiki/Agility_training#Supply_runs)." 
-      } 
-    ] 
-  },
-  "daily challenge":  {
+"title": "Distractions and Diversions", 
+"url": "http://runescape.wikia.com/wiki/Distractions_and_Diversions", 
+"description": "D&Ds are a subclassification of minigames. However, unlike minigames many D&Ds move around the world to various locations, have a limit on how often they can be played, and only occur at particular times of day.\n\nDistractions and Diversions aim to divert the original intentions of the player in order to provide an interesting distraction from their everyday routines. D&Ds come in many different shapes and sizes; covering Combat, Gathering, Artisan, and Support skills. There are a wide variety of different options available to suit the players choice.", 
+"color": 12269891, 
+"footer": { 
+"icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg", 
+"text": "Achievement Help | Helping you reach your goals, whatever they may be!" 
+}, 
+"thumbnail": { 
+"url": "https://vignette.wikia.nocookie.net/runescape2/images/6/62/D%26D_icon.png/revision/latest?cb=20140914110639" 
+}, 
+"author": { 
+"name": "Max Cape Info", 
+"icon_url": "https://i.imgur.com/6c6q2iC.png" 
+}, 
+"fields": [ 
+{ 
+"name": "▬▬ Impetuous Impulses ▬▬", 
+"value": "[Impetuous Impulses](http://runescape.wikia.com/wiki/Impetuous_Impulses) is a solo minigame in which the objective is to capture [implings](runescape.wikia.com/wiki/Impling), flying imp-like creatures that have been stealing trinkets and treasures all over RuneScape. Players begin the game by speaking with [Elnock Inquisitor](http://runescape.wikia.com/wiki/Elnock_Inquisitor). The game works in two different ways: The player can either track the Implings to their home world of [Puro-Puro](http://runescape.wikia.com/wiki/Puro-Puro), via [crop circle](http://runescape.wikia.com/wiki/Crop_circle) portals and can capture them in a mystical wheat field, or can search for them throughout RuneScape. For greater success in this minigame, a combination of high Hunter, Strength, Agility, and Thieving is a must."
+}, 
+{ 
+"name": "​", 
+"value": "The easier of the two options is catching the implings on their home world: Puro-Puro. The player can either travel through a stable portal on [Zanaris](http://runescape.wikia.com/wiki/Zanaris), or randomly appearing portals in wheat fields. Those who have access to Zanaris can talk to the [Wandering Impling](http://runescape.wikia.com/wiki/Wandering_impling) near the crop circle to see where the random crop circle is located at that time. Once in Puro-Puro, talk to Elnock Inquisitor, who will give the player a run down of the game, the maze and the implings. He will also give the player a butterfly net, some magical impling jars, and an [Impling scroll](http://runescape.wikia.com/wiki/Impling_scroll) containing the number of implings the player has caught. There is no time limit for this minigame."
+}, 
+{ 
+"name": "▬▬ Big Chinchompa ▬▬", 
+"value": "Once every hour, at half past the hour, [Nyriki Tapio](http://runescape.wikia.com/wiki/Nyriki_Tapio) will emerge from the ground at one of the various Hunter areas across Gielinor. Players can enter a [Big Chinchompa](http://runescape.wikia.com/wiki/Big_Chinchompa) game by climbing down the hole he leaves in the ground. For several minutes before his arrival, the ground will frequently rumble and the screen will shake slightly."
+}, 
+{ 
+"name": "​", 
+"value": "Big Chinchompa takes place in a large cavern, in the middle of which is the nest of a large plutonial chinchompa. The objective of the game is to catch [soporith moths](http://runescape.wikia.com/wiki/Soporith_moths) and feed them to the chinchompa in order to put it to sleep. A game of Big Chinchompa lasts 20 minutes, or until the chinchompa eats enough moths and falls asleep. Players can join a game that is already in progress, but can only join two games per day."
+}, 
+{ 
+"name": "​", 
+"value": "Growing around the lair are a large number of small trees. Soporith moths will frequently hatch from cocoons that hang on the branches of the trees. Players can either catch moths directly from the air, or click on shaking trees to catch them as they hatch. Moths can be caught barehanded and stored in the [moth jar](http://runescape.wikia.com/wiki/Moth_jar) that Nyriki will hand players at the start of a game. The jar holds up to 15 moths, and once full, it must be emptied into the chinchompa's nest; this awards Hunter experience and competence points for each moth caught, and increases the chinchompa's drowsiness. A bar on the left side of the minigame interface measures the current drowsiness level, and once it fills to 100%, the chinchompa falls asleep and the game ends. If a player still has moths in their jar when the game ends, they are awarded experience and points for them as normal."
+},
+{
+"name": "​",
+"value": "[Protea flowers](http://runescape.wikia.com/wiki/Protea_flower) grow at each corner of the lair. These flowers attract soporith moths when wielded by players. With a protea flower equipped, players will occasionally attract the highest-level moth they can catch and automatically attempt to capture it, though success is not guaranteed."
+},
+{ 
+"name": "▬▬ Mazcab Supply Runs ▬▬", 
+"value": "[Supply Runs](http://runescape.wikia.com/wiki/Supply_run) are a safe activity that take place on [Mazcab](http://runescape.wikia.com/wiki/Mazcab) every 12 hours (at midnight and noon game time). The activity begins with goebie supplies spawning at the supply rock near to Querci in Kanatah and is available until 25 minutes past the hour. Players may take up to 10 goebie supplies per day from the supply rock. Upon taking goebie supplies, players become flagged for safe PvP and can be attacked by other players, with death resulting in the loss of all goebie supplies that the players are carrying. After obtaining goebie supplies players must travel north-west through the Nemi Forest to Otot, where the supplies may be exchanged for experience with Quercy. " 
+}, 
+{ 
+"name": "​", 
+"value": "The player will be given a choice between two skills in which to gain experience: Agility or Crafting, Farming or Herblore, and Hunter or Woodcutting. Different skills are offered on different worlds, so players may change worlds to find a world where the skill in which they wish to gain experience is offered. Between 495, with level 1, and 48,515, with level 99, experience can be gained from exchanging 10 goebie supplies. Assuming the activity is completed in 5 minutes, experience is awarded at a rate equivalent to between 5,940, with level 1, and 582,180, with level 99, experience an hour. [Source](http://runescape.wikia.com/wiki/Agility_training#Supply_runs)." 
+} 
+] 
+},
+  "daily challenge": {
     "title": "Daily Challenge",
-    "url": "http://runescape.wikia.com/wiki/Challenge_System/Agility",
+    "url": "http://runescape.wikia.com/wiki/Challenge_System/Hunter",
     "description": "Completing a daily challenge in Hunter will give experience, depending on the player's Hunter level.",
         "color": 12269891,
     "footer": {
@@ -386,11 +392,11 @@ exports.data = {
     "fields": [
       {
         "name": "Enhanced Yaktwee Stick",
-        "value": "• The [Enhanced Yaktwee Stick](http://runescape.wikia.com/wiki/Enhanced_yaktwee_stick) is an upgraded version of the [yaktwee stick](http://runescape.wikia.com/wiki/Yaktwee_stick), and is obtained by catching a total of 1,000 [charm sprites](http://runescape.wikia.com/wiki/Charm_sprite) with the yaktwee stick equipped and talking to [Yaktwee Swinmari Cianta](http://runescape.wikia.com/wiki/Yaktwee_Swinmari_Cianta). When wielded, it increases the chance to get the rarer charm sprites by about 5% as well as giving 5% extra experience in any Hunter activity, as long as the activity allows the stick to be wielded. The boost also works for the [Big Chinchompa](http://runescape.wikia.com/wiki/Big_Chinchompa) Distraction and Diversion"
+        "value": "• The [Enhanced Yaktwee Stick](http://runescape.wikia.com/wiki/Enhanced_yaktwee_stick) is an upgraded version of the [yaktwee stick](http://runescape.wikia.com/wiki/Yaktwee_stick), and is obtained by catching a total of 1,000 [charm sprites](http://runescape.wikia.com/wiki/Charm_sprite) with the yaktwee stick equipped and talking to [Yaktwee Swinmari Cianta](http://runescape.wikia.com/wiki/Yaktwee_Swinmari_Cianta). When wielded, it increases the chance to get the rarer charm sprites by about 5% as well as giving 5% extra experience in any Hunter activity, as long as the activity allows the stick to be wielded. The boost also works for the [Big Chinchompa](http://runescape.wikia.com/wiki/Big_Chinchompa) Distraction and Diversion."
       },
       {
         "name": "Hunter's Outfit",
-        "value": "• The [Hunter's outfit](http://runescape.wikia.com/wiki/Hunter%27s_outfit) is experience-boosting set for the Hunter skill. The 5 pieces can be purchased in the [Waiko Reward Shop](http://runescape.wikia.com/wiki/Waiko_Reward_Shop) for a total of 10,000 chimes and 10 taijitu. Each piece grants 1% bonus to Hunter experience, wearing the full set grants 6%. The outfit also stacks with the enhanced yaktwee stick granting a total of 11%."
+        "value": "• The [Hunter's outfit](http://runescape.wikia.com/wiki/Hunter%27s_outfit) is experience-boosting set for the Hunter skill. The 5 pieces can be purchased in the [Waiko Reward Shop](http://runescape.wikia.com/wiki/Waiko_Reward_Shop) for a total of 10,000 chimes and 10 taijitu. Each piece grants 1% bonus to Hunter experience, wearing the full set grants 6%. The outfit also stacks with the enhanced yaktwee stick, granting a total of 11%."
       },
       {
         "name": "Witchdoctor Camouflage",
@@ -424,7 +430,7 @@ exports.data = {
     },
     "fields": [
       {
-        "name": "Agility Boosts",
+        "name": "Hunter Boosts",
         "value": "[Hunter Cape](http://runescape.wikia.com/wiki/Hunter_cape)\n • Effects of Juju Hunting Potion at Herblore Habitat\n\n[Spicy Stew](http://runescape.wikia.com/wiki/Spicy_stew)\n • Boost is applied to a random skill\n • Up to ±5 with 3 spice doses\n • Up to ±3 with 2 spice doses\n • Up to ±1 with 1 spice dose\n\n[Mournberry](http://runescape.wikia.com/wiki/Mournberry)\n• +2 Levels\n• Reduces Defence by 1\n• Requires access to [The Arc](http://runescape.wikia.com/wiki/The_Arc)\n\n[Hunter Potion](http://runescape.wikia.com/wiki/Hunter_potion)\n• +3 levels\n• Does not stack with Mud Bath boost\n\n[Arctic Bear](http://runescape.wikia.com/wiki/Arctic_bear)\n• +7 invisible levels\n• Requires 71 Summoning \n\n[Wolpertinger](http://runescape.wikia.com/wiki/Wolpertinger)\n• +5 invisible levels\n• Requires 92 Summoning"
       },
       {
@@ -437,7 +443,7 @@ exports.data = {
       },
       {
         "name": "​",
-        "value": "[Seren Spells/Prayer](http://runescape.wikia.com/wiki/Hunter_training#Seren_spells_and_prayers)\n• Upon completion of [The Light Within](http://runescape.wikia.com/wiki/The_Light_Within) quest, players will unlock [Seren Spells](http://runescape.wikia.com/wiki/Seren_spells). [Crystallise](http://runescape.wikia.com/wiki/Crystallise) is a Seren-alligned spell that can be cast on a shaking box and will be repeatedly checked upon being checked by the player, granting 50% additional experience each time though no resources will be gained. This effect lasts for 30 seconds after Crystallise has been cast; it is not possible to cast Crystallise on more than one trap at the same time. With at least level 80 Prayer players can use the [Light Form](http://runescape.wikia.com/wiki/Light_Form) prayer, which enhances the effects of Seren-aligned spells while it is activated, to further increase additional the Hunter experience gained from checking a crystallised box trap to 87.5%"
+        "value": "[Seren Spells/Prayer](http://runescape.wikia.com/wiki/Hunter_training#Seren_spells_and_prayers)\n• Upon completion of [The Light Within](http://runescape.wikia.com/wiki/The_Light_Within) quest, players will unlock [Seren Spells](http://runescape.wikia.com/wiki/Seren_spells). [Crystallise](http://runescape.wikia.com/wiki/Crystallise) is a Seren-alligned spell that can be cast on a shaking box and will be repeatedly checked upon being checked by the player, granting 50% additional experience each time, though no resources will be gained. This effect lasts for 30 seconds after Crystallise has been cast; it is not possible to cast Crystallise on more than one trap at the same time. With at least level 80 Prayer, players can use the [Light Form](http://runescape.wikia.com/wiki/Light_Form) prayer, which enhances the effects of Seren-aligned spells while it is activated, to further increase additional the Hunter experience gained from checking a crystallised box trap to 87.5%."
       }
         ]
   }

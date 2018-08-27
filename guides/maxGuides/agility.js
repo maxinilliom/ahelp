@@ -238,7 +238,7 @@ exports.data = {
       },
       {
         "name": "Best Methods",
-        "value": "• [Manual Auto-cycles](http://runescape.wikia.com/wiki/Manual_Auto-cycle) in [The Empty Throne Room](http://runescape.wikia.com/wiki/The_Empty_Throne_Room) utilising the incorrect action for the maximum amount of experience drops\n• [Serenity Posts](http://runescape.wikia.com/wiki/Serenity_posts) utilising the incorrect action for the most possible experience drops per day"
+        "value": "• Manual Auto-cycles in The Empty Throne Room utilising the incorrect action for the maximum amount of experience drops\n• Serenity Posts utilising the incorrect action for the most possible experience drops per day"
       },
       {
         "name": "Methods which do not Work",

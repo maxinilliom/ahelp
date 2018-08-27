@@ -52,7 +52,7 @@ exports.data = {
   },
   "1 - 19": {
     "title": "Construction Training Levels 1-19",
-    "description": "At level 1, players can begin training Construction by making [Crude Wooden Chairs](http://runescape.wikia.com/wiki/Crude_wooden_chair). The chairs can be built in the [Parlour](http://runescape.wikia.com/wiki/Parlour) room, using 2 [Planks](http://runescape.wikia.com/wiki/Plank) and 2 [Iron Nails](http://runescape.wikia.com/wiki/Iron_nails) per chair. Several nails will break while training, so a player should bring plenty of spares. 13 crude wooden chairs are built to reach level 8.",
+    "description": "At level 1, players can begin training Construction by making [Crude Wooden Chairs](http://runescape.wikia.com/wiki/Crude_wooden_chair). The chairs can be built in the [Parlour](http://runescape.wikia.com/wiki/Parlour) room, using 2 [Planks](http://runescape.wikia.com/wiki/Plank) and 2 [Iron Nails](http://runescape.wikia.com/wiki/Iron_nails) per chair. Several nails will break while training, so a player should bring plenty of spares. 13 crude wooden chairs should be built to reach level 8.",
     "url": "http://runescape.wikia.com/wiki/Construction_training#Level_1_to_19",
     "color": 12269891,
     "footer": {
@@ -69,7 +69,7 @@ exports.data = {
     "fields": [
     {
       "name": "Wooden Chairs",
-      "value": "At level 8, a player can switch to [Wooden Chairs](http://runescape.wikia.com/wiki/Wooden_chair). These chairs require 3 planks and 3 nails per chair. 34 wooden chairs are built to reach level 19."
+      "value": "At level 8, a player can switch to [Wooden Chairs](http://runescape.wikia.com/wiki/Wooden_chair). These chairs require 3 planks and 3 nails per chair. 34 wooden chairs should be built to reach level 19."
     }
     ]
   },
@@ -220,7 +220,7 @@ exports.data = {
       }
       ]
   },
-  "quests": {
+  "quests": {{
     "title": "Quests which Grant Construction Experience",
     "url": "http://runescape.wikia.com/wiki/Quests/Experience_rewards#Construction",
     "description": "Currently, a total of 535,750 experience may be gained specifically to Construction throughout all of the RuneScape Quests. These rewards are automatically given and there is no choice involved.",
@@ -244,48 +244,48 @@ exports.data = {
       ]
   },
   "distractions and diversions": { 
-    "title": "Distractions and Diversions", 
-    "url": "http://runescape.wikia.com/wiki/Distractions_and_Diversions", 
-    "description": "D&Ds are a subclassification of minigames. However, unlike minigames many D&Ds move around the world to various locations, have a limit on how often they can be played, and only occur at particular times of day.\n\nDistractions and Diversions aim to divert the original intentions of the player in order to provide an interesting distraction from their everyday routines. D&Ds come in many different shapes and sizes; covering Combat, Gathering, Artisan, and Support skills. There are a wide variety of different options available to suit the players choice.", 
-    "color": 12269891, 
-    "footer": { 
-    "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg", 
-    "text": "Achievement Help | Helping you reach your goals, whatever they may be!" 
-    }, 
-    "thumbnail": { 
-    "url": "https://vignette.wikia.nocookie.net/runescape2/images/6/62/D%26D_icon.png/revision/latest?cb=20140914110639" 
-    }, 
-    "author": { 
-    "name": "Max Cape Info", 
-    "icon_url": "https://i.imgur.com/6c6q2iC.png" 
-    }, 
-    "fields": [ 
-    { 
-    "name": "▬▬ Anima Islands ▬▬", 
-    "value": "[Anima Islands](http://runescape.wikia.com/wiki/Anima_Islands) is a members only Distraction and Diversion. It can be played at any time, and it is possible to get up to 1,000 Reward Currency from each game. Experience received is scaled according to level. Deaths here are safe. For Construction, players will be playing [Lightning Storm](http://runescape.wikia.com/wiki/Anima_Islands#Lightning_storm) for experience." 
-    }, 
-    { 
-    "name": "​", 
-    "value": "After 20 minutes on the islands, the players are returned to Tuska's corpse, and receive reward currency equal to 10x the percentage the meter was filled to. Up to 1,000 reward currency can be obtained per game by completing runs on the islands. The maximum amount of reward currency that can be kept is 30,000. Upon reaching this limit, some of the reward currency must be spent before more can be collected." 
-    },
-    { 
-    "name": "▬▬ God Statues ▬▬", 
-    "value": "[God Statues](http://runescape.wikia.com/wiki/God_Statues) is a Construction based monthly Distraction and Diversion. The aim is to aid [Copernicus Glyph](http://runescape.wikia.com/wiki/Copernicus_Glyph) building up to five statues around Gielinor which act as prayer altars. To take part, one of the following must be completed:\n• Completed or manually turned off tutorial mode\n• Completed at least 60 Achievements\n• Completed [Let Them Eat Pie](http://runescape.wikia.com/wiki/Let_Them_Eat_Pie)\nAll locations can be found [here](http://runescape.wikia.com/wiki/God_Statues#Locations)." 
-    }, 
-    { 
-    "name": "​", 
-    "value": "Each statue completed will award Construction experience equal to a large XP lamp, while praying to a statue or killing a fanatic will award Prayer or Slayer experience equal to a medium XP lamp respectively, capped at level 99." 
-    },
-    { 
-    "name": "▬▬ Wilderness Warbands ▬▬", 
-    "value": "[Wilderness Warbands](https://runescape.wikia.com/wiki/Wilderness_Warbands) is a dangerous members Distraction & Diversion that occurs in the [Wilderness](https://runescape.wikia.com/wiki/Wilderness), composed of heavily defended storage camps guarded by the followers of the different Gods. They will set up camp in the Wilderness every 7 hours, one time at each of the [three locations]((https://runescape.wikia.com/wiki/Wilderness_Warbands#Time_for_the_next_warbands). Warbands events are synchronised on each world. \n\nWilderness Warbands give large amounts of experience in Farming, Construction, Herblore, Mining, or Smithing. While no combat is necessary, it is still highly contested between players which may result in the loss of most rewards if you are killed. Players should take combat equipment to fight off/scare off player killers but must be conscious of the fact that this gear can be lost too. You also need 25 free inventory spaces for the Warbands supplies from looting the camps." 
-    }, 
-    { 
-    "name": "​", 
-    "value": "Players will be notified via a server-wide notice when a Wilderness camp appears. Participating in looting will [skull](https://runescape.wikia.com/wiki/Skull_(status) you, and holding the looting supplies in your inventory will prevent you from teleporting. Players can be attacked whilst looting without any combat level restrictions. \n\nYou can loot from up to 3 camps (25 maximum per camp) and obtain up to 75 supplies every day, resetting at midnight UTC. At level 98, a total of 356,550 experience can be obtained per day from 75 supplies. The 3 camps looted must be on different worlds and each world's camp can be at a different location. Even if you are killed and lose supplies, your attempt will still count as one of the three. However you can return to the same camp to try again without penalty." 
-    } 
-    ]
-  },
+"title": "Distractions and Diversions", 
+"url": "http://runescape.wikia.com/wiki/Distractions_and_Diversions", 
+"description": "D&Ds are a subclassification of minigames. However, unlike minigames many D&Ds move around the world to various locations, have a limit on how often they can be played, and only occur at particular times of day.\n\nDistractions and Diversions aim to divert the original intentions of the player in order to provide an interesting distraction from their everyday routines. D&Ds come in many different shapes and sizes; covering Combat, Gathering, Artisan, and Support skills. There are a wide variety of different options available to suit the players choice.", 
+"color": 12269891, 
+"footer": { 
+"icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg", 
+"text": "Achievement Help | Helping you reach your goals, whatever they may be!" 
+}, 
+"thumbnail": { 
+"url": "https://vignette.wikia.nocookie.net/runescape2/images/6/62/D%26D_icon.png/revision/latest?cb=20140914110639" 
+}, 
+"author": { 
+"name": "Max Cape Info", 
+"icon_url": "https://i.imgur.com/6c6q2iC.png" 
+}, 
+"fields": [ 
+{ 
+"name": "▬▬ Anima Islands ▬▬", 
+"value": "[Anima Islands](http://runescape.wikia.com/wiki/Anima_Islands) is a members only Distraction and Diversion. It can be played at any time, and it is possible to get up to 1,000 Reward Currency from each game. Experience received is scaled according to level. Deaths here are safe. For Construction, players will be playing [Lightning Storm](http://runescape.wikia.com/wiki/Anima_Islands#Lightning_storm) for experience." 
+}, 
+{ 
+"name": "​", 
+"value": "After 20 minutes on the islands, the players are returned to Tuska's corpse, and receive reward currency equal to 10x the percentage the meter was filled to. Up to 1,000 reward currency can be obtained per game by completing runs on the islands. The maximum amount of reward currency that can be kept is 30,000. Upon reaching this limit, some of the reward currency must be spent before more can be collected." 
+},
+{ 
+"name": "▬▬ God Statues ▬▬", 
+"value": "[God Statues](http://runescape.wikia.com/wiki/God_Statues) is a Construction based monthly Distraction and Diversion. The aim is to aid [Copernicus Glyph](http://runescape.wikia.com/wiki/Copernicus_Glyph) building up to five statues around Gielinor which act as prayer altars. To take part, one of the following must be completed:\n• Completed or manually turned off tutorial mode\n• Completed at least 60 Achievements\n• Completed [Let Them Eat Pie](http://runescape.wikia.com/wiki/Let_Them_Eat_Pie)\nAll locations can be found [here](http://runescape.wikia.com/wiki/God_Statues#Locations)." 
+}, 
+{ 
+"name": "​", 
+"value": "Each statue completed will award Construction experience equal to a large XP lamp, while praying to a statue or killing a fanatic will award Prayer or Slayer experience equal to a medium XP lamp respectively, capped at level 99." 
+},
+{ 
+"name": "▬▬ Wilderness Warbands ▬▬", 
+"value": "[Wilderness Warbands](https://runescape.wikia.com/wiki/Wilderness_Warbands) is a dangerous members Distraction & Diversion that occurs in the [Wilderness](https://runescape.wikia.com/wiki/Wilderness), composed of heavily defended storage camps guarded by the followers of the different Gods. They will set up camp in the Wilderness every 7 hours, one time at each of the [three locations]((https://runescape.wikia.com/wiki/Wilderness_Warbands#Time_for_the_next_warbands). Warbands events are synchronised on each world. \n\nWilderness Warbands give large amounts of experience in Farming, Construction, Herblore, Mining, or Smithing. While no combat is necessary, it is still highly contested between players which may result in the loss of most rewards if you are killed. Players should take combat equipment to fight off/scare off player killers but must be conscious of the fact that this gear can be lost too. You also need 25 free inventory spaces for the Warbands supplies from looting the camps." 
+}, 
+{ 
+"name": "​", 
+"value": "Players will be notified via a server-wide notice when a Wilderness camp appears. Participating in looting will [skull](https://runescape.wikia.com/wiki/Skull_(status) you, and holding the looting supplies in your inventory will prevent you from teleporting. Players can be attacked whilst looting without any combat level restrictions. \n\nYou can loot from up to 3 camps (25 maximum per camp) and obtain up to 75 supplies every day, resetting at midnight UTC. At level 98, a total of 356,550 experience can be obtained per day from 75 supplies. The 3 camps looted must be on different worlds and each world's camp can be at a different location. Even if you are killed and lose supplies, your attempt will still count as one of the three. However, you can return to the same camp to try again without penalty." 
+} 
+] 
+},
   "daily challenge": {
     "title": "Daily Challenge",
     "url": "http://runescape.wikia.com/wiki/Challenge_System/Construction",
@@ -328,7 +328,7 @@ exports.data = {
     "fields": [
       {
         "name": "Constructor's outfit",
-        "value": "• The [Constructor's Outfit](http://runescape.wikia.com/wiki/Constructor%27s_outfit) can be obtained from the Temple Trekking and Burgh de Rott Ramble minigame. This outfit requires completion of In Aid of the Myreque to participate in the minigame and The Darkness of Hallowvale must also be completed to get over 300 total levels. Each piece grants 1% bonus to Construction experience, wearing the full set grants 6%."
+        "value": "• The [Constructor's Outfit](http://runescape.wikia.com/wiki/Constructor%27s_outfit) can be obtained from the [Temple Trekking](http://runescape.wikia.com/wiki/Temple_Trekking). This outfit requires completion of [In Aid of the Myreque](http://runescape.wikia.com/wiki/In_Aid_of_the_Myreque) to participate in the minigame and [The Darkness of Hallowvale](http://runescape.wikia.com/wiki/Darkness_of_Hallowvale) must also be completed to get over 300 total levels. Each piece grants 1% bonus to Construction experience, wearing the full set grants 6%."
       },
       {
         "name": "Sculpting Chisel",

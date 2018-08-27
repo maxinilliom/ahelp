@@ -153,44 +153,44 @@ exports.data = {
       ]
   },
   "distractions and diversions": { 
-    "title": "Distractions and Diversions", 
-    "url": "http://runescape.wikia.com/wiki/Distractions_and_Diversions", 
-    "description": "D&Ds are a subclassification of minigames. However, unlike minigames many D&Ds move around the world to various locations, have a limit on how often they can be played, and only occur at particular times of day.\n\nDistractions and Diversions aim to divert the original intentions of the player in order to provide an interesting distraction from their everyday routines. D&Ds come in many different shapes and sizes; covering Combat, Gathering, Artisan, and Support skills. There are a wide variety of different options available to suit the players choice.", 
-    "color": 12269891, 
-    "footer": { 
-    "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg", 
-    "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
-    }, 
-    "thumbnail": { 
-    "url": "https://vignette.wikia.nocookie.net/runescape2/images/6/62/D%26D_icon.png/revision/latest?cb=20140914110639" 
-    }, 
-    "author": { 
-    "name": "Max Cape Info", 
-    "icon_url": "https://i.imgur.com/6c6q2iC.png" 
-    }, 
-    "fields": [ 
-    { 
-    "name": "▬▬ Agoroth ▬▬", 
-    "value": "Accessible to both Free-to-play and Members after completion of the quest [A Shadow over Ashdale](https://runescape.wikia.com/wiki/A_Shadow_over_Ashdale), [Agoroth](https://runescape.wikia.com/wiki/Agoroth) can be fought in the Ashdale Caves by accessing the Dead Man's chest once a week for non-members, and twice a week for members. Defeating Agoroth awards players with a black pearl, awarding bonus experience in a skill of their choice. "
-    }, 
-    { 
-    "name": "▬▬ Demon Flash Mobs ▬▬", 
-    "value": "A [Demon Mob](https://runescape.wikia.com/wiki/Demon_Flash_Mob) spawns every hour, consisting of a demon boss and several of its minions. All minions must be killed before the boss can be damaged; taking too long to dispatch the minions will allow the boss to become more powerful. The demon boss is extremely powerful, and not to be underestimated - this D&D is designed for groups, but solo play can be achieved at near max levels. Once the demon boss is defeated, it will drop loot, with a chance to receive [demon slayer armour](https://runescape.wikia.com/wiki/Demon_slayer_equipment). "
-    }, 
-    { 
-    "name": "▬▬ Goblin raids ▬▬", 
-    "value": "Available to both Free-to-play and Members, [Goblin Raids](https://runescape.wikia.com/wiki/Goblin_Raids) occurs every 30 minutes. [Goblin Raiders](https://runescape.wikia.com/wiki/Goblin_Raider) lead by [Hollowtoof](https://runescape.wikia.com/wiki/Hollowtoof) will randomly plunder a farm or copper mine in the kingdoms of Misthalin and Asgarnia. Goblin raiders will drop their pillaged loot when killed. Hollowtoof attacks anyone nearby once his mob has been lost, awarding a piece of [raider equipment](https://runescape.wikia.com/wiki/Raider_equipment) when defeated. After the raid has collapsed, a Black Guard squad led by [Commander Yodri](https://runescape.wikia.com/wiki/Commander_Yodri) arrives, awarding additional skilling supplies when approached by defenders. "
-    }, 
-    { 
-    "name": "▬▬ Memory of Nomad ▬▬", 
-    "value": "[Memory of Nomad](https://runescape.wikia.com/wiki/Memory_of_Nomad) is a combat-themed weekly Distraction and Diversion available after completion of the [Nomad's Elegy quest](https://runescape.wikia.com/wiki/Nomad%27s_Elegy). Players may test their might against the memory of Nomad after the events of the quest at a greater difficultly. During the D&D, Nomad will have new mechanics, a greater amount of life points, his attacks will deal more damage, and does not have checkpoints. If victorious, players can claim their rewards from one of two bounty chests containing an assortment of high-value loot and combat supplies. " 
-    }, 
-    { 
-    "name": "▬▬ Rush of Blood ▬▬", 
-    "value": "[Rush of Blood](https://runescape.wikia.com/wiki/Rush_of_Blood) is a weekly Slayer-themed combat D&D that can be played in [Prifddinas](https://runescape.wikia.com/wiki/Prifddinas), requiring at least level 85 Slayer and completion of [Plague's End](https://runescape.wikia.com/wiki/Plague%27s_End) to take part. It is run by [Morvran Iorwerth](https://runescape.wikia.com/wiki/Morvran), slayer master and former warband leader. Rush of Blood takes place in [Morvran's Dungeon](https://runescape.wikia.com/wiki/Morvran%27s_Dungeon), where waves of different slayer-themed monsters, assembled from Morvran's assignment list, must be fought. Players have ten minutes to dispatch as many foes as possible. The activity can be played once a week for rewards, and any number of times for practice. "
-    } 
-    ]
-  },
+"title": "Distractions and Diversions", 
+"url": "http://runescape.wikia.com/wiki/Distractions_and_Diversions", 
+"description": "D&Ds are a subclassification of minigames. However, unlike minigames many D&Ds move around the world to various locations, have a limit on how often they can be played, and only occur at particular times of day.\n\nDistractions and Diversions aim to divert the original intentions of the player in order to provide an interesting distraction from their everyday routines. D&Ds come in many different shapes and sizes; covering Combat, Gathering, Artisan, and Support skills. There are a wide variety of different options available to suit the players choice.", 
+"color": 12269891, 
+"footer": { 
+"icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg", 
+"text": "Achievement Help | Helping you reach your goals, whatever they may be!"
+}, 
+"thumbnail": { 
+"url": "https://vignette.wikia.nocookie.net/runescape2/images/6/62/D%26D_icon.png/revision/latest?cb=20140914110639" 
+}, 
+"author": { 
+"name": "Max Cape Info", 
+"icon_url": "https://i.imgur.com/6c6q2iC.png" 
+}, 
+"fields": [ 
+{ 
+"name": "▬▬ Agoroth ▬▬", 
+"value": "Accessible to both Free-to-play and Members after completion of the quest [A Shadow over Ashdale](https://runescape.wikia.com/wiki/A_Shadow_over_Ashdale), [Agoroth](https://runescape.wikia.com/wiki/Agoroth) can be fought in the Ashdale Caves by accessing the Dead Man's chest once a week for non-members, and twice a week for members. Defeating Agoroth awards players with a black pearl, awarding bonus experience in a skill of their choice. "
+}, 
+{ 
+"name": "▬▬ Demon Flash Mobs ▬▬", 
+"value": "A [Demon Mob](https://runescape.wikia.com/wiki/Demon_Flash_Mob) spawns every hour, consisting of a demon boss and several of its minions. All minions must be killed before the boss can be damaged; taking too long to dispatch the minions will allow the boss to become more powerful. The demon boss is extremely powerful, and not to be underestimated - this D&D is designed for groups, but solo play can be achieved at near max levels. Once the demon boss is defeated, it will drop loot, with a chance to receive [demon slayer armour](https://runescape.wikia.com/wiki/Demon_slayer_equipment). "
+}, 
+{ 
+"name": "▬▬ Goblin raids ▬▬", 
+"value": "Available to both Free-to-play and Members, [Goblin Raids](https://runescape.wikia.com/wiki/Goblin_Raids) occurs every 30 minutes. [Goblin Raiders](https://runescape.wikia.com/wiki/Goblin_Raider) lead by [Hollowtoof](https://runescape.wikia.com/wiki/Hollowtoof) will randomly plunder a farm or copper mine in the kingdoms of Misthalin and Asgarnia. Goblin raiders will drop their pillaged loot when killed. Hollowtoof attacks anyone nearby once his mob has been lost, awarding a piece of [raider equipment](https://runescape.wikia.com/wiki/Raider_equipment) when defeated. After the raid has collapsed, a Black Guard squad led by [Commander Yodri](https://runescape.wikia.com/wiki/Commander_Yodri) arrives, awarding additional skilling supplies when approached by defenders. "
+}, 
+{ 
+"name": "▬▬ Memory of Nomad ▬▬", 
+"value": "[Memory of Nomad](https://runescape.wikia.com/wiki/Memory_of_Nomad) is a combat-themed weekly Distraction and Diversion available after completion of the [Nomad's Elegy quest](https://runescape.wikia.com/wiki/Nomad%27s_Elegy). Players may test their might against the memory of Nomad after the events of the quest at a greater difficultly. During the D&D, Nomad will have new mechanics, a greater amount of life points, his attacks will deal more damage, and does not have checkpoints. If victorious, players can claim their rewards from one of two bounty chests containing an assortment of high-value loot and combat supplies. " 
+}, 
+{ 
+"name": "▬▬ Rush of Blood ▬▬", 
+"value": "[Rush of Blood](https://runescape.wikia.com/wiki/Rush_of_Blood) is a weekly Slayer-themed combat D&D that can be played in [Prifddinas](https://runescape.wikia.com/wiki/Prifddinas), requiring at least level 85 Slayer and completion of [Plague's End](https://runescape.wikia.com/wiki/Plague%27s_End) to take part. It is run by [Morvran Iorwerth](https://runescape.wikia.com/wiki/Morvran), slayer master and former warband leader. Rush of Blood takes place in [Morvran's Dungeon](https://runescape.wikia.com/wiki/Morvran%27s_Dungeon), where waves of different slayer-themed monsters, assembled from Morvran's assignment list, must be fought. Players have ten minutes to dispatch as many foes as possible. The activity can be played once a week for rewards, and any number of times for practice. "
+} 
+] 
+},
   "daily challenge": {
     "title": "Daily Challenge",
     "url": "http://runescape.wikia.com/wiki/Challenge_XP_Lamp",
@@ -272,7 +272,7 @@ exports.data = {
       },
       {
         "name": "​",
-        "value": "[Cabbage (Draynor Manor)](http://runescape.wikia.com/wiki/Cabbage_(Draynor_Manor)\n• +1-2 Defence levels\n\n[Sugar Skull](http://runescape.wikia.com/wiki/Sugar_skull)\n• +2 Attack levels\n\n [Toffee Apple](http://runescape.wikia.com/wiki/Toffee_apple)\n• +2 Attack levelst\n\n[Spicy Stew](http://runescape.wikia.com/wiki/Spicy_stew)\n • Boost is applied to a random skill\n • Up to ±5 with 3 spice doses\n • Up to ±3 with 2 spice doses\n • Up to ±1 with 1 spice dose\n\n[God Banner](http://runescape.wikia.com/wiki/God_banner)\n• +5 levels\n• Lasts 30 minutes once per day\n\n[Sapphire Glacialis](http://runescape.wikia.com/wiki/Sapphire_glacialis)\n• +15% + 4 Defence boost\n• Boosts another players Defence level, not yours"
+        "value": "[Cabbage (Draynor Manor)](http://runescape.wikia.com/wiki/Cabbage_(Draynor_Manor)\n• +1-2 Defence levels\n\n[Sugar Skull](http://runescape.wikia.com/wiki/Sugar_skull)\n• +2 Defence levels\n\n [Toffee Apple](http://runescape.wikia.com/wiki/Toffee_apple)\n• +2 Defence levelst\n\n[Spicy Stew](http://runescape.wikia.com/wiki/Spicy_stew)\n • Boost is applied to a random skill\n • Up to ±5 with 3 spice doses\n • Up to ±3 with 2 spice doses\n • Up to ±1 with 1 spice dose\n\n[God Banner](http://runescape.wikia.com/wiki/God_banner)\n• +5 levels\n• Lasts 30 minutes once per day\n\n[Sapphire Glacialis](http://runescape.wikia.com/wiki/Sapphire_glacialis)\n• +15% + 4 Defence boost\n• Boosts another players Defence level, not yours"
       },
       {
         "name": "​",

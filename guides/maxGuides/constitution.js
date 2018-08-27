@@ -40,6 +40,29 @@ exports.data = {
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     }
   },
+  "abilities": {
+    "title": "Abilities",
+    "url": "http://runescape.wikia.com/wiki/Abilities#Magic",
+    "description": "Abilities are a set of combat commands for Attack, Strength, Defence, Constitution, Ranged, and Magic. Abilities form the basis of combat following the Evolution of Combat, though they cannot be used when in Legacy Mode combat. Each skill has a menu of abilities, found in the [Powers](http://runescape.wikia.com/wiki/Interface#Powers) menu, which can be dragged outside as part of an interface setup.",
+        "color": 12269891,
+    "footer": {
+      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
+    },
+    "thumbnail": {
+      "url": "https://vignette.wikia.nocookie.net/runescape2/images/0/03/Constitution.png/revision/latest?cb=20120224162736"
+    },
+    "author": {
+      "name": "Max Cape Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "fields": [
+      {
+        "name": "Constitution Abilities",
+        "value": "The full list of Constitution abilities can be found [here](http://runescape.wikia.com/wiki/Abilities#Constitution)."
+      }
+      ]
+  },
   "alternate methods": {
     "title": "Alternative Methods of Training",
     "url": "http://runescape.wikia.com/wiki/Pay-to-play_Constitution_training",
@@ -57,13 +80,13 @@ exports.data = {
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
     "fields": [
- 
+
     {
       "name": "▬▬ Soul Wars ▬▬",
       "value": "[Soul Wars](http://runescape.wikia.com/wiki/Soul_Wars)  is a team minigame that lasts twenty minutes per game and can be played on any world. In Soul Wars, two opposing teams compete against each other to gather [Soul Fragments](http://runescape.wikia.com/wiki/Soul_fragment) and offer them to the [Soul Obelisk](http://runescape.wikia.com/wiki/Soul_obelisk_(Soul_Wars) in order to weaken, and ultimately defeat, each other's avatars through combat."
     },
-    {
-      "name": "​",
+    { 
+      "name": "​", 
       "value": "Players will receive a number of zeal points based on their performance in the game, unless the player joined the waiting area after the game was half over; in which case no zeal points are awarded. Players may trade these in with [Nomad](http://runescape.wikia.com/wiki/Nomad), [Zimberfizz](http://runescape.wikia.com/wiki/Zimberfizz), [Zimberfizz ashes](http://runescape.wikia.com/wiki/Zimberfizz_ashes), or [Zanik](http://runescape.wikia.com/wiki/Zanik) for a variety of rewards such as experience, charms, Slayer pets, and other items. Players can store a maximum of 50,000 Zeal points. This is equivalent to playing and winning 16,667 games."
     }
       ]
@@ -106,7 +129,7 @@ exports.data = {
   "quests": {
     "title": "Quests which Grant Constitution Experience",
     "url": "http://runescape.wikia.com/wiki/Quests/Experience_rewards#Constitution",
-    "description": "Currently, a total of 293,312 - 308,312 (depending on the choise made in [Monkey Madness](http://runescape.wikia.com/wiki/Monkey_Madness)) experience may be gained specifically to Construction throughout all of the RuneScape Quests. These rewards are automatically given and there is no choice involved.",
+    "description": "Currently, a total of 293,312 - 308,312 (depending on the choice made in [Monkey Madness](http://runescape.wikia.com/wiki/Monkey_Madness)) experience may be gained specifically to Construction throughout all of the RuneScape Quests. These rewards are automatically given and there is no choice involved.",
         "color": 12269891,
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
@@ -127,28 +150,28 @@ exports.data = {
       ]
   },
   "distractions and diversions": { 
-    "title": "Distractions and Diversions", 
-    "url": "http://runescape.wikia.com/wiki/Distractions_and_Diversions", 
-    "description": "D&Ds are a subclassification of minigames. However, unlike minigames many D&Ds move around the world to various locations, have a limit on how often they can be played, and only occur at particular times of day.\n\nDistractions and Diversions aim to divert the original intentions of the player in order to provide an interesting distraction from their everyday routines. D&Ds come in many different shapes and sizes; covering Combat, Gathering, Artisan, and Support skills. There are a wide variety of different options available to suit the players choice.", 
-    "color": 12269891, 
-    "footer": { 
-    "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg", 
-    "text": "Achievement Help | Helping you reach your goals, whatever they may be!" 
-    }, 
-    "thumbnail": { 
-    "url": "https://vignette.wikia.nocookie.net/runescape2/images/6/62/D%26D_icon.png/revision/latest?cb=20140914110639" 
-    }, 
-    "author": { 
-    "name": "Max Cape Info", 
-    "icon_url": "https://i.imgur.com/6c6q2iC.png" 
-    }, 
-    "fields": [ 
-    { 
-    "name": "▬▬ N/A ▬▬", 
-    "value": "There are currently no D&D's that aid in Constitution."
-    }
-    ]
-  },
+"title": "Distractions and Diversions", 
+"url": "http://runescape.wikia.com/wiki/Distractions_and_Diversions", 
+"description": "D&Ds are a subclassification of minigames. However, unlike minigames many D&Ds move around the world to various locations, have a limit on how often they can be played, and only occur at particular times of day.\n\nDistractions and Diversions aim to divert the original intentions of the player in order to provide an interesting distraction from their everyday routines. D&Ds come in many different shapes and sizes; covering Combat, Gathering, Artisan, and Support skills. There are a wide variety of different options available to suit the players choice.", 
+"color": 12269891, 
+"footer": { 
+"icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg", 
+"text": "Achievement Help | Helping you reach your goals, whatever they may be!" 
+}, 
+"thumbnail": { 
+"url": "https://vignette.wikia.nocookie.net/runescape2/images/6/62/D%26D_icon.png/revision/latest?cb=20140914110639" 
+}, 
+"author": { 
+"name": "Max Cape Info", 
+"icon_url": "https://i.imgur.com/6c6q2iC.png" 
+}, 
+"fields": [ 
+{ 
+"name": "▬▬ N/A ▬▬", 
+"value": "There are currently no D&D's that aid in Constitution."
+}
+] 
+},
   "daily challenge": {
     "title": "Daily Challenge",
     "url": "http://runescape.wikia.com/wiki/Challenge_XP_Lamp",

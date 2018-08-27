@@ -23,6 +23,49 @@ exports.data = {
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     }
   },
+  "introduction": {
+    "title": "Farming Introduction",
+    "description": "Farming is a members' gathering skill, through which players grow crops by planting seeds at [Farming Patches](http://runescape.wikia.com/wiki/Farming/Patch_locations). Different types of seeds can be planted at corresponding types of Farming patches, which are found throughout RuneScape.\n\n The following list of topics will become important knowledge during a players time training Farming, no matter the level. This can vary from the very basics, to understanding how logging in can affect your plant growth.",
+    "url": "http://runescape.wikia.com/wiki/Farming",
+    "color": 12269891,
+    "footer": {
+      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
+    },
+    "thumbnail": {
+      "url": "https://vignette.wikia.nocookie.net/runescape2/images/1/18/Farming.png/revision/latest?cb=20120223124329"
+    },
+    "author": {
+      "name": "Max Cape Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+     "fields": [
+       {
+        "name":"Supercompost",
+        "value":"[Supercompost](http://runescape.wikia.com/wiki/Supercompost) is a more potent version of [Compost](http://runescape.wikia.com/wiki/Compost). For many farming plots, supercompost reduces the chance of a player's crops becoming diseased while growing (better than regular compost does), as well as increasing the minimum amount of produce from the crops. It is recommended to use supercompost on every crop grown on their way to 99."
+       },
+       {
+        "name":"Getting Saplings",
+        "value":"A [Sapling](http://runescape.wikia.com/wiki/Sapling) is a tree seedling that has grown sufficiently to be planted in a [Tree Patch](http://runescape.wikia.com/wiki/Farming/Patch_locations). In order to plant a tree in a farming patch, a sapling must be preparedusing the following steps:\n\n1. Use a tree seed on a [Plant Pot](http://runescape.wikia.com/wiki/Plant_pot) filled with soil\n2. Use a [Watering Can](http://runescape.wikia.com/wiki/Watering_can) on the unwatered seedling\n3. Wait for the seedling to grow into a sapling"
+       },
+       {
+        "name":"Paying To Protect",
+        "value":"Paying to protect crops is an option for players although its not recommended, especially at higher levels. This is based on the fact that with supercompost, trees die 12.5% of the time. Payments will still be added to each section of the guide for the players convenience. A list of calculations between paying protection versus using supercompost for trees can be found [here](http://runescape.wikia.com/wiki/Calculator:Farming/Compost_to_payment)."
+       },
+       {
+        "name":"Disease & Death",
+        "value":"[Disease & Death](http://runescape.wikia.com/wiki/Farming#Disease_and_death) can happen when they reach a growth tick that falls within a growth stage window, instead of the crop advancing a growth stage. A diseased plant cannot advance a growth stage until it is cured; it will either remain diseased or die. The chance of a diseased plant dying at the following growth tick that falls in a growth stage window is roughly 50%. Diseased herb, flower, allotment, hops, belladonna, cactus, mushroom, and jade vine patches can be treated with [Plant Cure](http://runescape.wikia.com/wiki/Plant_cure) to restore the crop to health. Diseased trees and bushes can be restored by pruning them with [Secateurs](http://runescape.wikia.com/wiki/Secateurs)."
+       },
+       {
+        "name":"Harvesting",
+        "value":"[Harvests](http://runescape.wikia.com/wiki/Farming#Harvesting) are determined either by chance or by the type of patch. Fruit trees, bushes, and flowers have set harvests. Herb and allotment patches have harvest sizes determined by chance, based on a life points system. Each herb and allotment patch starts with three lives, increased by 1 with compost and by 2 with supercompost. Every harvesting action will decrease the number of lives by 1 unless it is saved, with the patch becoming empty when it runs out of lives. This chance is dependent on Farming level. "
+       },
+       {
+        "name":"Growth Cycles",
+        "value":"[Growth Cycles](http://runescape.wikia.com/wiki/Farming#Growth_cycles) vary depending on the type of crop.  Regardless of the seed, growth stage windows last five minutes. The frequency of growth stage windows occurring is determined by the type of seed e.g. spirit trees' growth stages take 320 minutes, which includes a 5 minute growth window followed by 315 minutes of inactivity, repeated multiple times. In comparison hops' growth stages last 10 minutes, including 5 minutes of inactivity and a 5 minute growth stage window."
+       }
+   ]
+  },
   "1 - 15": {
     "title": "Farming Training Levels 1-15",
     "description": "At level 1 Farming players should begin their training by planting at [Allotments](http://runescape.wikia.com/wiki/Farming/Patch_locations#Allotment.2FFlower.2FHerb_patches). There are 4 main allotments that contain 2 allotment patches, as well as a flower patch and herb patch. A list of what seeds to plant at what level can be found [here](http://runescape.wikia.com/wiki/Farming_training#Allotments_.281-15.29).",
@@ -33,7 +76,7 @@ exports.data = {
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "thumbnail": {
-      "url": "https://vignette.wikia.nocookie.net/runescape2/images/b/b3/Arrow_shaft_detail.png/revision/latest?cb=20140803025418"
+      "url": "https://vignette.wikia.nocookie.net/runescape2/images/6/65/Weeds_detail.png/revision/latest?cb=20111130151406"
     },
     "author": {
       "name": "Max Cape Info",
@@ -251,7 +294,7 @@ exports.data = {
     },
     {
       "name": "▬▬ Turoths ▬▬",
-      "value": "Killing Turoths is a viable method and gives the player ~220k farming experience per hour. A guide can be founded [here](http://runescape.wikia.com/wiki/Turoth/Strategies)."
+      "value": "Killing Turoths is a viable method and gives the player ~220k farming experience per hour. A guide can be found [here](http://runescape.wikia.com/wiki/Turoth/Strategies)."
     },
     {
       "name": "▬▬ Foraging Rumberry Bushes Levels 86-99+ ▬▬",
@@ -272,7 +315,7 @@ exports.data = {
       ]
   },
   "pet - brains": {
-    "title": "Herblore Pet - Herbert",
+    "title": "Farming Pet - Brains",
     "description": "The Brains pet is an item that can be found while training Farming. It can be used to unlock the [Brains pet](http://runescape.wikia.com/wiki/Brains).",
     "url": "http://runescape.wikia.com/wiki/Brains_pet",
     "color": 12269891,
@@ -307,7 +350,7 @@ exports.data = {
       ]
   },
   "quests": {
-    "title": "Quests which Grant Fletching Experience",
+    "title": "Quests which Grant Farming Experience",
     "url": "http://runescape.wikia.com/wiki/Quests/Experience_rewards#Farming",
     "description": "Currently, a total of 95,350 experience may be gained specifically to Farming throughout all of the RuneScape Quests (excluding the 15,000 post-quest [Spirit of Summer](http://runescape.wikia.com/wiki/Spirit_of_Summer) experience). These rewards are automatically given and there is no choice involved.",
         "color": 12269891,
@@ -330,52 +373,52 @@ exports.data = {
       ]
   },
   "distractions and diversions": { 
-    "title": "Distractions and Diversions", 
-    "url": "http://runescape.wikia.com/wiki/Distractions_and_Diversions", 
-    "description": "D&Ds are a subclassification of minigames. However, unlike minigames many D&Ds move around the world to various locations, have a limit on how often they can be played, and only occur at particular times of day.\n\nDistractions and Diversions aim to divert the original intentions of the player in order to provide an interesting distraction from their everyday routines. D&Ds come in many different shapes and sizes; covering Combat, Gathering, Artisan, and Support skills. There are a wide variety of different options available to suit the players choice.", 
-    "color": 12269891, 
-    "footer": { 
-    "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg", 
-    "text": "Achievement Help | Helping you reach your goals, whatever they may be!" 
-    }, 
-    "thumbnail": { 
-    "url": "https://vignette.wikia.nocookie.net/runescape2/images/6/62/D%26D_icon.png/revision/latest?cb=20140914110639" 
-    }, 
-    "author": { 
-    "name": "Max Cape Info", 
-    "icon_url": "https://i.imgur.com/6c6q2iC.png" 
-    }, 
-    "fields": [ 
-      { 
-    "name": "▬▬ Giant Oyster ▬▬", 
-    "value": "The [Giant Oyster](http://runescape.wikia.com/wiki/Giant_Oyster) is a mostly members-only monthly D&D that is accessible upon completion of [Beneath Cursed Tides](http://runescape.wikia.com/wiki/Beneath_Cursed_Tides). Players can collect and catch items to feed to the Giant Oyster, receiving Fishing and Farming experience from doing so. Once fed, the Giant Oyster will close its mouth, preventing further feedings. The following month after being fed, the Giant Oyster can be checked, opening to reveal treasure inside for the player to collect." 
-    },
-    { 
-    "name": "▬▬ Goblin Raids ▬▬", 
-    "value": "[Goblin Raids](http://runescape.wikia.com/wiki/Goblin_Raids#Rewards) are a free to play feature in Gielinor. Every 30 minutes a notice goes out detailing the latest location of a goblin raid. It is up to the player to repulse the raiders. The goblins drop [skilling materials](http://runescape.wikia.com/wiki/Goblin_Raids#Rewards) useful to lower levelled players." 
-    },
-    { 
-    "name": "▬▬ Wilderness Warbands ▬▬", 
-    "value": "[Wilderness Warbands](https://runescape.wikia.com/wiki/Wilderness_Warbands) is a dangerous members D&D that occurs in the [Wilderness](https://runescape.wikia.com/wiki/Wilderness), composed of heavily defended storage camps guarded by the followers of the different Gods. They will set up camp in the Wilderness every 7 hours, one time at each of the [three locations]((https://runescape.wikia.com/wiki/Wilderness_Warbands#Time_for_the_next_warbands). Warbands events are synchronised on each world. \n\nWilderness Warbands give large amounts of experience in Farming, Construction, Herblore, Mining, or Smithing. While no combat is necessary, it is still highly contested between players which may result in the loss of most rewards if you are killed. Players should take combat equipment to fight off/scare off player killers but must be conscious of the fact that this gear can be lost too. You also need 25 free inventory spaces for the Warbands supplies from looting the camps." 
-    }, 
-    { 
-    "name": "​", 
-    "value": "Players will be notified via a server-wide notice when a Wilderness camp appears. Participating in looting will [skull](https://runescape.wikia.com/wiki/Skull_(status) you, and holding the looting supplies in your inventory will prevent you from teleporting. Players can be attacked whilst looting without any combat level restrictions. \n\nYou can loot from up to 3 camps (25 maximum per camp) and obtain up to 75 supplies every day, resetting at midnight UTC. At level 98, a total of 356,550 experience can be obtained per day from 75 supplies. The 3 camps looted must be on different worlds and each world's camp can be at a different location. Even if you are killed and lose supplies, your attempt will still count as one of the three. However you can return to the same camp to try again without penalty." 
-    },
-    { 
-    "name": "▬▬ Mazcab Supply Runs ▬▬", 
-    "value": "[Supply Runs](http://runescape.wikia.com/wiki/Supply_run) are a safe activity that take place on [Mazcab](http://runescape.wikia.com/wiki/Mazcab) every 12 hours (at midnight and noon game time). The activity begins with goebie supplies spawning at the supply rock near to Querci in Kanatah and is available until 25 minutes past the hour. Players may take up to 10 goebie supplies per day from the supply rock. Upon taking goebie supplies players become flagged for safe PvP and can be attacked by other players, with death resulting in the loss of all goebie supplies that the players are carrying. After obtaining goebie supplies players must travel north-west through the Nemi Forest to Otot, where the supplies may be exchanged for experience with Quercy. " 
-    }, 
-    { 
-    "name": "​", 
-    "value": "The player will be given a choice between two skills in which to gain experience: Agility or Crafting, Farming or Herblore and Hunter or Woodcutting. Different skills are offered on different worlds, so players may change worlds to find a world where the skill in which they wish to gain experience is offered. Between 495, with level 1, and 48,515, with level 99, experience can be gained from exchanging 10 goebie supplies. Assuming the activity is completed in 5 minutes, experience is awarded at a rate equivalent to between 5,940, with level 1, and 582,180, with level 99, experience an hour. [Source](http://runescape.wikia.com/wiki/Agility_training#Supply_runs)." 
-    }
-    ] 
-  },
+"title": "Distractions and Diversions", 
+"url": "http://runescape.wikia.com/wiki/Distractions_and_Diversions", 
+"description": "D&Ds are a subclassification of minigames. However, unlike minigames many D&Ds move around the world to various locations, have a limit on how often they can be played, and only occur at particular times of day.\n\nDistractions and Diversions aim to divert the original intentions of the player in order to provide an interesting distraction from their everyday routines. D&Ds come in many different shapes and sizes; covering Combat, Gathering, Artisan, and Support skills. There are a wide variety of different options available to suit the players choice.", 
+"color": 12269891, 
+"footer": { 
+"icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg", 
+"text": "Achievement Help | Helping you reach your goals, whatever they may be!" 
+}, 
+"thumbnail": { 
+"url": "https://vignette.wikia.nocookie.net/runescape2/images/6/62/D%26D_icon.png/revision/latest?cb=20140914110639" 
+}, 
+"author": { 
+"name": "Max Cape Info", 
+"icon_url": "https://i.imgur.com/6c6q2iC.png" 
+}, 
+"fields": [ 
+  { 
+"name": "▬▬ Giant Oyster ▬▬", 
+"value": "The [Giant Oyster](http://runescape.wikia.com/wiki/Giant_Oyster) is a mostly members-only monthly D&D that is accessible upon completion of [Beneath Cursed Tides](http://runescape.wikia.com/wiki/Beneath_Cursed_Tides). Players can collect and catch items to feed to the Giant Oyster, receiving Fishing and Farming experience from doing so. Once fed, the Giant Oyster will close its mouth, preventing further feedings. The following month after being fed, the Giant Oyster can be checked, opening to reveal treasure inside for the player to collect." 
+},
+{ 
+"name": "▬▬ Goblin Raids ▬▬", 
+"value": "[Goblin Raids](http://runescape.wikia.com/wiki/Goblin_Raids#Rewards) are a free to play feature in Gielinor. Every 30 minutes a notice goes out detailing the latest location of a goblin raid. It is up to the player to repulse the raiders. The goblins drop [skilling materials](http://runescape.wikia.com/wiki/Goblin_Raids#Rewards) useful to lower levelled players." 
+},
+{ 
+"name": "▬▬ Wilderness Warbands ▬▬", 
+"value": "[Wilderness Warbands](https://runescape.wikia.com/wiki/Wilderness_Warbands) is a dangerous members D&D that occurs in the [Wilderness](https://runescape.wikia.com/wiki/Wilderness), composed of heavily defended storage camps guarded by the followers of the different Gods. They will set up camp in the Wilderness every 7 hours, one time at each of the [three locations]((https://runescape.wikia.com/wiki/Wilderness_Warbands#Time_for_the_next_warbands). Warbands events are synchronised on each world. \n\nWilderness Warbands give large amounts of experience in Farming, Construction, Herblore, Mining, or Smithing. While no combat is necessary, it is still highly contested between players which may result in the loss of most rewards if you are killed. Players should take combat equipment to fight off/scare off player killers but must be conscious of the fact that this gear can be lost too. You also need 25 free inventory spaces for the Warbands supplies from looting the camps." 
+}, 
+{ 
+"name": "​", 
+"value": "Players will be notified via a server-wide notice when a Wilderness camp appears. Participating in looting will [skull](https://runescape.wikia.com/wiki/Skull_(status) you, and holding the looting supplies in your inventory will prevent you from teleporting. Players can be attacked whilst looting without any combat level restrictions. \n\nYou can loot from up to 3 camps (25 maximum per camp) and obtain up to 75 supplies every day, resetting at midnight UTC. At level 98, a total of 356,550 experience can be obtained per day from 75 supplies. The 3 camps looted must be on different worlds and each world's camp can be at a different location. Even if you are killed and lose supplies, your attempt will still count as one of the three. However you can return to the same camp to try again without penalty." 
+},
+{ 
+"name": "▬▬ Mazcab Supply Runs ▬▬", 
+"value": "[Supply Runs](http://runescape.wikia.com/wiki/Supply_run) are a safe activity that take place on [Mazcab](http://runescape.wikia.com/wiki/Mazcab) every 12 hours (at midnight and noon game time). The activity begins with goebie supplies spawning at the supply rock near to Querci in Kanatah and is available until 25 minutes past the hour. Players may take up to 10 goebie supplies per day from the supply rock. Upon taking goebie supplies players become flagged for safe PvP and can be attacked by other players, with death resulting in the loss of all goebie supplies that the players are carrying. After obtaining goebie supplies players must travel north-west through the Nemi Forest to Otot, where the supplies may be exchanged for experience with Quercy. " 
+}, 
+{ 
+"name": "​", 
+"value": "The player will be given a choice between two skills in which to gain experience: Agility or Crafting, Farming or Herblore and Hunter or Woodcutting. Different skills are offered on different worlds, so players may change worlds to find a world where the skill in which they wish to gain experience is offered. Between 495, with level 1, and 48,515, with level 99, experience can be gained from exchanging 10 goebie supplies. Assuming the activity is completed in 5 minutes, experience is awarded at a rate equivalent to between 5,940, with level 1, and 582,180, with level 99, experience an hour. [Source](http://runescape.wikia.com/wiki/Agility_training#Supply_runs)." 
+}
+] 
+},
   "daily challenge": {
     "title": "Daily Challenge",
     "url": "http://runescape.wikia.com/wiki/Challenge_System/Farming",
-    "description": "Completing a daily challenge in Fletching will give experience, depending on the player's Fletching level.",
+    "description": "Completing a daily challenge in Farming will give experience, depending on the player's Farming level.",
         "color": 12269891,
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",

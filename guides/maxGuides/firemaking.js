@@ -25,7 +25,7 @@ exports.data = {
   },
 	"1 - 15": {
     "title": "Firemaking Training Levels 1-15",
-    "description": "The best way to get from level 1 to level 15 is by burning normal [logs](http://runescape.wikia.com/wiki/Logs) on a [bonfire](http://runescape.wikia.com/wiki/Bonfire) which grants 50 experience per log.",
+    "description": "The best way to get from level 1 to level 15 is by burning normal [logs](http://runescape.wikia.com/wiki/Logs) on a [bonfire](http://runescape.wikia.com/wiki/Bonfire) which, grants at least 50 experience per log.",
     "url": "http://runescape.wikia.com/wiki/Pay-to-play_Firemaking_training#Level_1-15_-_Normal_logs",
     "color": 12269891,
     "footer": {
@@ -42,7 +42,7 @@ exports.data = {
   },
   "15 - 30": {
     "title": "Firemaking Training Levels 15-30",
-    "description": "The best way to get from level 15 to level 30 is by burning [oak logs](http://runescape.wikia.com/wiki/Oak_logs) on a [bonfire](http://runescape.wikia.com/wiki/Bonfire) which grants 85 experience per log.",
+    "description": "The best way to get from level 15 to level 30 is by burning [oak logs](http://runescape.wikia.com/wiki/Oak_logs) on a [bonfire](http://runescape.wikia.com/wiki/Bonfire), which grants at least 85 experience per log.",
     "url": "http://runescape.wikia.com/wiki/Pay-to-play_Firemaking_training#Level_15-30_-_Oak_logs",
     "color": 12269891,
     "footer": {
@@ -59,7 +59,7 @@ exports.data = {
   },
   "30 - 35": {
     "title": "Firemaking Training Levels 30-35",
-    "description": "The best way to get from level 30 to level 35 is by burning [willow logs](http://runescape.wikia.com/wiki/Willow_logs) on a [bonfire](http://runescape.wikia.com/wiki/Bonfire) which grants 105 experience per log.",
+    "description": "The best way to get from level 30 to level 35 is by burning [willow logs](http://runescape.wikia.com/wiki/Willow_logs) on a [bonfire](http://runescape.wikia.com/wiki/Bonfire), which grants at least 105 experience per log.",
     "url": "http://runescape.wikia.com/wiki/Pay-to-play_Firemaking_training#Level_30-35_-_Willow_logs",
     "color": 12269891,
     "footer": {
@@ -76,7 +76,7 @@ exports.data = {
   },
   "35 - 45": {
     "title": "Firemaking Training Levels 35-45",
-    "description": "The best way to get from level 35 to level 45 is by burning [teak logs](http://runescape.wikia.com/wiki/Teak_logs) on a [bonfire](http://runescape.wikia.com/wiki/Bonfire) which grants 120 experience per log.",
+    "description": "The best way to get from level 35 to level 45 is by burning [teak logs](http://runescape.wikia.com/wiki/Teak_logs) on a [bonfire](http://runescape.wikia.com/wiki/Bonfire), which grants at least 120 experience per log.",
     "url": "http://runescape.wikia.com/wiki/Pay-to-play_Firemaking_training#Level_35-45_-_Teak_logs",
     "color": 12269891,
     "footer": {
@@ -93,7 +93,7 @@ exports.data = {
   },
   "45 - 50": {
     "title": "Firemaking Training Levels 45-50",
-    "description": "The best way to get from level 45 to level 50 is by burning [maple logs](http://runescape.wikia.com/wiki/Maple_logs) on a [bonfire](http://runescape.wikia.com/wiki/Bonfire) which grants 165 experience per log.",
+    "description": "The best way to get from level 45 to level 50 is by burning [maple logs](http://runescape.wikia.com/wiki/Maple_logs) on a [bonfire](http://runescape.wikia.com/wiki/Bonfire), which grants at least 165 experience per log.",
     "url": "http://runescape.wikia.com/wiki/Pay-to-play_Firemaking_training#Level_45-50_-_Maple_logs",
     "color": 12269891,
     "footer": {
@@ -110,7 +110,7 @@ exports.data = {
   },
   "50 - 58": {
     "title": "Firemaking Training Levels 50-58",
-    "description": "The best way to get from level 50 to level 58 is by burning [mahogany logs](http://runescape.wikia.com/wiki/Mahogany_logs) on a [bonfire](http://runescape.wikia.com/wiki/Bonfire) which grants 180 experience per log.",
+    "description": "The best way to get from level 50 to level 58 is by burning [mahogany logs](http://runescape.wikia.com/wiki/Mahogany_logs) on a [bonfire](http://runescape.wikia.com/wiki/Bonfire), which grants at least 180 experience per log.",
     "url": "http://runescape.wikia.com/wiki/Pay-to-play_Firemaking_training#Level_50-58_-_Mahogany_logs",
     "color": 12269891,
     "footer": {
@@ -127,7 +127,7 @@ exports.data = {
   },
   "58 - 60": {
     "title": "Firemaking Training Levels 58-60",
-    "description": "The best way to get from level 58 to level 60 is by burning [eucalyptus logs](http://runescape.wikia.com/wiki/Eucalyptus_logs) on a [bonfire](http://runescape.wikia.com/wiki/Bonfire) which grants 195 experience per log.",
+    "description": "The best way to get from level 58 to level 60 is by burning [eucalyptus logs](http://runescape.wikia.com/wiki/Eucalyptus_logs) on a [bonfire](http://runescape.wikia.com/wiki/Bonfire), which grants at least 195 experience per log.",
     "url": "http://runescape.wikia.com/wiki/Pay-to-play_Firemaking_training#Level_58-60_-_Eucalyptus_logs",
     "color": 12269891,
     "footer": {
@@ -144,7 +144,7 @@ exports.data = {
   },
   "60 - 75": {
     "title": "Firemaking Training Levels 60-75",
-    "description": "The best way to get from level 60 to level 75 is by burning [yew logs](http://runescape.wikia.com/wiki/Yew_logs) on a [bonfire](http://runescape.wikia.com/wiki/Bonfire) which grants 260 experience per log.",
+    "description": "The best way to get from level 60 to level 75 is by burning [yew logs](http://runescape.wikia.com/wiki/Yew_logs) on a [bonfire](http://runescape.wikia.com/wiki/Bonfire), which grants at least 260 experience per log.",
     "url": "http://runescape.wikia.com/wiki/Pay-to-play_Firemaking_training#Level_60-75_-_Yew_logs",
     "color": 12269891,
     "footer": {
@@ -161,7 +161,7 @@ exports.data = {
   },
   "75 - 90": {
     "title": "Firemaking Training Levels 75-90",
-    "description": "The best way to get from level 75 to level 90 is by burning [corrupted magic logs](http://runescape.wikia.com/wiki/Corrupted_magic_logs) on a [bonfire](http://runescape.wikia.com/wiki/Bonfire) which grants 321.9 experience per log.",
+    "description": "The best way to get from level 75 to level 90 is by burning [corrupted magic logs](http://runescape.wikia.com/wiki/Corrupted_magic_logs) on a [bonfire](http://runescape.wikia.com/wiki/Bonfire), which grants at least 319 experience per log.",
     "url": "http://runescape.wikia.com/wiki/Pay-to-play_Firemaking_training#Level_75-90_-_Magic_logs",
     "color": 12269891,
     "footer": {
@@ -178,7 +178,7 @@ exports.data = {
   },
   "90 - 99 +": {
     "title": "Firemaking Training Levels 90-99+",
-    "description": "The best way to get from level 90 to level 99 is by burning [elder logs](http://runescape.wikia.com/wiki/elder_logs) on a [bonfire](http://runescape.wikia.com/wiki/Bonfire) which grants 449 experience per log.",
+    "description": "The best way to get from level 90 to level 99 is by burning [elder logs](http://runescape.wikia.com/wiki/elder_logs) on a [bonfire](http://runescape.wikia.com/wiki/Bonfire), which grants at least 449 experience per log.",
     "url": "http://runescape.wikia.com/wiki/Pay-to-play_Firemaking_training#Level_90-99_-_Elder_logs",
     "color": 12269891,
     "footer": {
@@ -194,8 +194,8 @@ exports.data = {
     },
         "fields": [
       {
-        "name": "Alternative Method: Levels 90-99+",
-        "value": "If the player does not want to spend nearly as much burning elder logs to 99, the next best and cheaper option would be burning [corrupted magic logs](http://runescape.wikia.com/wiki/Corrupted_magic_logs)."
+        "name": "Alternative Method: Levels 90-99",
+        "value": "If the player does not want to spend nearly as much for 99, the next best and cheaper option would be burning [corrupted magic logs](http://runescape.wikia.com/wiki/Corrupted_magic_logs)."
       }
       ]
 
@@ -231,7 +231,11 @@ exports.data = {
       },
       {
         "name": "▬▬ Barbarian Assault ▬▬",
-        "value": "Players can gain Agility bonus experience as a reward from playing the [Barbarian Assault]( http://runescape.wikia.com/wiki/Barbarian_Assault) minigame. At level 99 Agility it is possible to gain 1,300,000 bonus experience per hour playing hard mode Barbarian Assault waves 6-9, at a cost of 6 Barbarian assault ticket - hard wave 10 per hour. Players may, as an alternative, gain 920,000 bonus experience per hour playing hard mode waves 1-9 without having to pay for the tickets.\n\nIn order to play hard mode Barbarian Assault the normal mode of the minigame must be completed at least once. It is highly recommended for players to reach maximum role levels before starting playing for bonus experience."
+        "value": "Players can gain Firemaking bonus experience as a reward from playing the [Barbarian Assault]( http://runescape.wikia.com/wiki/Barbarian_Assault) minigame. At level 99 Firemaking it is possible to gain 3,500,000 bonus experience per hour playing hard mode Barbarian Assault waves 6-9, at a cost of 6 Barbarian assault ticket - hard wave 10 per hour. Players may, as an alternative, gain 2,400,000 bonus experience per hour playing hard mode waves 1-9 without having to pay for the tickets.\n\nIn order to play hard mode Barbarian Assault the normal mode of the minigame must be completed at least once. It is highly recommended for players to reach maximum role levels before starting playing for bonus experience."
+      },
+      {
+        "name": "▬▬ Pitch Can ▬▬",
+        "value": "The [pitch can](http://runescape.wikia.com/wiki/Pitch_can) is used to enhance line-style [Firemaking](http://runescape.wikia.com/wiki/Firemaking). It is a potential reward from participating in [Char's training cave](http://runescape.wikia.com/wiki/Char%27s_training_cave). When lighting fires while carrying it, the fires light instantly, allowing for much faster Firemaking training. It also reduces the time between each log being added to a [bonfire](http://runescape.wikia.com/wiki/Bonfire) by 1 [tick](http://runescape.wikia.com/wiki/Game_tick).\n\nThe can is obtained with 2000 charges, and each log burned consumes a charge. It can be refilled by participating in Char's training cave. Each shape completed grants 100 charges to the pitch can. It is tradeable when completely full or empty.\n\nUsing [magic logs](http://runescape.wikia.com/wiki/Magic_logs) or higher, players may gain over 1,000,000 XP/h lighting fires in lines."
       }
       ]
   },
@@ -266,7 +270,7 @@ exports.data = {
       },
       {
         "name": "Formula",
-        "value": "Gaining this pet is based on the amount of experience drops received, not the size of the experience drops. Therefore, it is best to choose a method among the fastest experience drops.\n\nIn a purely mathematical format your chance (f) of receiving a pet on any particular action is:\nf = T *S / 50,000,000\n\nWhere:\n*T* is the estimated completion time (in game ticks) of each course lap, since the pet can only be obtained at the end of a lap\n*S* is the virtual skill level. At 200 million experience, a flat bonus of 50 is applied to this value."
+        "value": "Gaining this pet is based on the amount of experience drops received, not the size of the experience drops. Therefore, it is best to choose a method among the fastest experience drops.\n\nIn a purely mathematical format your chance (f) of receiving a pet on any particular action is:\nf = T *S / 50,000,000\n\nWhere:\n*T* is the estimated completion time (in game ticks) of each log burned\n*S* is the virtual skill level. At 200 million experience, a flat bonus of 50 is applied to this value."
       }
       ]
   },
@@ -294,48 +298,48 @@ exports.data = {
       ]
   },
   "distractions and diversions": { 
-    "title": "Distractions and Diversions", 
-    "url": "http://runescape.wikia.com/wiki/Distractions_and_Diversions", 
-    "description": "D&Ds are a subclassification of minigames. However, unlike minigames many D&Ds move around the world to various locations, have a limit on how often they can be played, and only occur at particular times of day.\n\nDistractions and Diversions aim to divert the original intentions of the player in order to provide an interesting distraction from their everyday routines. D&Ds come in many different shapes and sizes; covering Combat, Gathering, Artisan, and Support skills. There are a wide variety of different options available to suit the players choice.", 
-    "color": 12269891, 
-    "footer": { 
-    "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg", 
-    "text": "Achievement Help | Helping you reach your goals, whatever they may be!" 
-    }, 
-    "thumbnail": { 
-    "url": "https://vignette.wikia.nocookie.net/runescape2/images/6/62/D%26D_icon.png/revision/latest?cb=20140914110639" 
-    }, 
-    "author": { 
-    "name": "Max Cape Info", 
-    "icon_url": "https://i.imgur.com/6c6q2iC.png" 
-    }, 
-    "fields": [ 
-    { 
-    "name": "▬▬ Pheonix Lair Challenge ▬▬", 
-    "value": "[Pheonix Lair](http://runescape.wikia.com/wiki/Phoenix_Lair) is a solo minigame in which players must navigate through a series of caverns and optionally fight against the aggressive [reborn](http://runescape.wikia.com/wiki/Reborn) monstrosities that can teleport to attack the player if another reborn is already attacking the player. In each of the first five caverns, players collect twigs from trees. These will later need to be cut into ribbons which are then used to build the phoenix's pyre in the last cavern calling the Phoenix to battle."
-    }, 
-    { 
-    "name": "​", 
-    "value": "The Phoenix has a Combat level of 84, her main attack is Magic-based, and she is weak to arrows. She also has an unblockable dust attack, which lowers Attack, Ranged, and Magic level by approximately 50 percent for a few seconds, nullifying stat-boosting potions. When the Phoenix has been defeated, she crawls onto the pyre. The player can then light the pyre to set it alight, and the Phoenix is consumed by the flames to be reborn. Once she reappears, the player can talk to her to receive the reward and to optionally engage in some dialogue."
-    },
-    { 
-    "name": "▬▬ Evil Tree ▬▬", 
-    "value": "The purpose of the event is to kill the [Evil tree](http://runescape.wikia.com/wiki/Evil_Tree), after which the player is rewarded. There are seven types of evil trees and 25 possible locations. Farming experience is granted each time the sapling advances to another stage of development while nurturing. Woodcutting experience is granted every few seconds during chopping. Firemaking experience is granted each time a new section of the Tree is lit on fire from evil tree kindling. Firemaking experience is also granted after adding the evil tree kindling to the bonfire from the dead evil tree."
-    }, 
-    { 
-    "name": "​", 
-    "value": "The evil tree can be killed by chopping at it with a hatchet and lighting fires at its base. Different levels are required to cut and burn different tree types. Chopping the evil tree and roots earns Woodcutting experience; lighting kindling gives Firemaking experience, both at the base of the evil tree while alive, and at the bonfire once the tree has died."
-    }, 
-    { 
-    "name": "▬▬ Balthazar Beauregard's Big Top Bonanza ▬▬", 
-    "value": "Players can do two Firemaking performances at the [Balthazar Beauregard's Big Top Bonanza](http://runescape.wikia.com/wiki/Balthazar_Beauregard%27s_Big_Top_Bonanza) Distraction and Diversion once per week. To enter the circus the player must gain a circus ticket from the ticket vendor, which is randomly located in 1 of 12 possible locations each week. The Firemaking performances can be found in the south-west and south ends of the circus." 
-    }, 
-    { 
-    "name": "​", 
-    "value": "During the performance players have 10 attempts to perform up to 10 different tricks. Firemaking experience is received upon the first successful attempt of each trick that the player performs. Repeating a trick does not grant additional experience. Each trick has a recommended Firemaking level to attempt, however the level is not required in order to perform the trick, as it is possible to succeed or fail a trick at any Firemaking level. When a trick is performed that has a higher recommended Firemaking level than the player has, the experience received will be the same as that given for performing a trick with half the recommended Firemaking level, rounded down." 
-    }
-    ] 
-  },
+"title": "Distractions and Diversions", 
+"url": "http://runescape.wikia.com/wiki/Distractions_and_Diversions", 
+"description": "D&Ds are a subclassification of minigames. However, unlike minigames many D&Ds move around the world to various locations, have a limit on how often they can be played, and only occur at particular times of day.\n\nDistractions and Diversions aim to divert the original intentions of the player in order to provide an interesting distraction from their everyday routines. D&Ds come in many different shapes and sizes; covering Combat, Gathering, Artisan, and Support skills. There are a wide variety of different options available to suit the players choice.", 
+"color": 12269891, 
+"footer": { 
+"icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg", 
+"text": "Achievement Help | Helping you reach your goals, whatever they may be!" 
+}, 
+"thumbnail": { 
+"url": "https://vignette.wikia.nocookie.net/runescape2/images/6/62/D%26D_icon.png/revision/latest?cb=20140914110639" 
+}, 
+"author": { 
+"name": "Max Cape Info", 
+"icon_url": "https://i.imgur.com/6c6q2iC.png" 
+}, 
+"fields": [ 
+{ 
+"name": "▬▬ Pheonix Lair Challenge ▬▬", 
+"value": "[Pheonix Lair](http://runescape.wikia.com/wiki/Phoenix_Lair) is a solo minigame in which players must navigate through a series of caverns and optionally fight against the aggressive [reborn](http://runescape.wikia.com/wiki/Reborn) monstrosities that can teleport to attack the player if another reborn is already attacking the player. In each of the first five caverns, players collect twigs from trees. These will later need to be cut into ribbons which are then used to build the phoenix's pyre in the last cavern calling the Phoenix to battle."
+}, 
+{ 
+"name": "​", 
+"value": "The Phoenix has a Combat level of 84, her main attack is Magic-based, and she is weak to arrows. She also has an unblockable dust attack, which lowers Attack, Ranged, and Magic level by approximately 50 percent for a few seconds, nullifying stat-boosting potions. When the Phoenix has been defeated, she crawls onto the pyre. The player can then light the pyre to set it alight, and the Phoenix is consumed by the flames to be reborn. Once she reappears, the player can talk to her to receive the reward and to optionally engage in some dialogue."
+},
+{ 
+"name": "▬▬ Evil Tree ▬▬", 
+"value": "The purpose of the event is to kill the [Evil tree](http://runescape.wikia.com/wiki/Evil_Tree), after which the player is rewarded. There are seven types of evil trees and 25 possible locations. Farming experience is granted each time the sapling advances to another stage of development while nurturing. Woodcutting experience is granted every few seconds during chopping. Firemaking experience is granted each time a new section of the Tree is lit on fire from evil tree kindling. Firemaking experience is also granted after adding the evil tree kindling to the bonfire from the dead evil tree."
+}, 
+{ 
+"name": "​", 
+"value": "The evil tree can be killed by chopping at it with a hatchet and lighting fires at its base. Different levels are required to cut and burn different tree types. Chopping the evil tree and roots earns Woodcutting experience; lighting kindling gives Firemaking experience, both at the base of the evil tree while alive, and at the bonfire once the tree has died."
+}, 
+{ 
+"name": "▬▬ Balthazar Beauregard's Big Top Bonanza ▬▬", 
+"value": "Players can do two Firemaking performances at the [Balthazar Beauregard's Big Top Bonanza](http://runescape.wikia.com/wiki/Balthazar_Beauregard%27s_Big_Top_Bonanza) Distraction and Diversion once per week. To enter the circus the player must gain a circus ticket from the ticket vendor, which is randomly located in 1 of 12 possible locations each week. The Firemaking performances can be found in the south-west and south ends of the circus. This event is unlocked after [The Firemaker's Curse](http://runescape.wikia.com/wiki/The_Firemaker%27s_Curse)." 
+}, 
+{ 
+"name": "​", 
+"value": "During the performance players have 10 attempts to perform up to 10 different tricks. Firemaking experience is received upon the first successful attempt of each trick that the player performs. Repeating a trick does not grant additional experience. Each trick has a recommended Firemaking level to attempt, however the level is not required in order to perform the trick, as it is possible to succeed or fail a trick at any Firemaking level. When a trick is performed that has a higher recommended Firemaking level than the player has, the experience received will be the same as that given for performing a trick with half the recommended Firemaking level, rounded down." 
+}
+] 
+},
   "daily challenge": {
     "title": "Daily Challenge",
     "url": "http://runescape.wikia.com/wiki/Challenge_System/Firemaking",
@@ -378,11 +382,11 @@ exports.data = {
     "fields": [
       {
         "name": "Ring of Fire",
-        "value": "• The [Ring of Fire](http://runescape.wikia.com/wiki/Ring_of_fire) is a reward from the [All Fired Up minigame](http://runescape.wikia.com/wiki/All_Fired_Up_(minigame) requiring a level of 62 firemaking to equip, which is also the minimum level needed to obtain the ring. 6 beacons are required to obtain the ring.  The ring's effect adds an additional 2% Firemaking experience for burning logs. It also works when burning [curly roots](http://runescape.wikia.com/wiki/Curly_root)."
+        "value": "• The [Ring of Fire](http://runescape.wikia.com/wiki/Ring_of_fire) is a reward from the [All Fired Up minigame](http://runescape.wikia.com/wiki/All_Fired_Up_(minigame) requiring a level of 62 Firemaking to equip, which is also the minimum level needed to obtain the ring. 6 lit beacons are required to obtain the ring.  The ring's effect adds an additional 2% Firemaking experience for burning logs. It also works when burning [curly roots](http://runescape.wikia.com/wiki/Curly_root)."
       },
       {
         "name": "Flame Gloves",
-        "value": "• The [Flame Gloves](http://runescape.wikia.com/wiki/Flame_gloves) are also a reward from the All Fired Up minigame after lighting 10 beacons. These gloves require a firemaking level of 79 to equip, which is also the minimum level needed to obtain the gloves. They give a 2% bonus to experience gained through Firemaking, which will stack with the 2% bonus from the ring of fire, however, when both are worn, the total bonus is 5%."
+        "value": "• The [Flame Gloves](http://runescape.wikia.com/wiki/Flame_gloves) are also a reward from the All Fired Up minigame after lighting 10 beacons. These gloves require a Firemaking level of 79 to equip, which is also the minimum level needed to obtain the gloves. They give a 2% bonus to experience gained through Firemaking, which will stack with the 2% bonus from the ring of fire, however, when both are worn, the total bonus is 5%."
       },
       {
         "name": "Inferno Adze",

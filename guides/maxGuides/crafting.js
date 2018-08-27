@@ -219,7 +219,7 @@ exports.data = {
     "fields": [
       {
         "name": "Crafting Cape",
-        "value": "• The [Crafting Cape's](http://runescape.wikia.com/wiki/Crafting_cape) perk removes the need for thread when crafting [leathers](http://runescape.wikia.com/wiki/Leather_(disambiguation)."
+        "value": "• The [Crafting Cape's](http://runescape.wikia.com/wiki/Crafting_cape) perk removes the need for thread when crafting [Leathers](http://runescape.wikia.com/wiki/Leather_(disambiguation)."
       },
       {
         "name": "Artisan's Outfit",

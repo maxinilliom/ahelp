@@ -161,7 +161,7 @@ exports.data = {
   },
   "55 - 65": {
     "title": "Fletching Training Levels 55-65",
-    "description": "You can now make [Maple Shieldbows](http://runescape.wikia.com/wiki/Maple_shortbow), which give 58.2 Fletching experience for fletching from [Maple Logs](http://runescape.wikia.com/wiki/Maple_logs) or stringing. A player will need 4,859 logs, making unfinished bows.",
+    "description": "You can now make [Maple Shieldbows](http://runescape.wikia.com/wiki/Maple_shieldbow), which give 58.2 Fletching experience for fletching from [Maple Logs](http://runescape.wikia.com/wiki/Maple_logs) or stringing. A player will need 4,859 logs, assuming they're making unfinished bows.",
     "url": "http://runescape.wikia.com/wiki/Pay-to-play_Fletching_training#Level_55-65_-_Maple_shieldbows",
     "color": 12269891,
     "footer": {
@@ -178,7 +178,7 @@ exports.data = {
   },
   "65 - 70": {
     "title": "Fletching Training Levels 65-70",
-    "description": "Working with [Yew Logs](http://runescape.wikia.com/wiki/Yew_logs) will be available to you. Making [Yew Shortbows](http://runescape.wikia.com/wiki/Yew_shortbow) give 67.5 experience perr fletching or stringing action. 4,270 logs are needed making unfinished bows.",
+    "description": "Working with [Yew Logs](http://runescape.wikia.com/wiki/Yew_logs) will be available to you. Making [Yew Shortbows](http://runescape.wikia.com/wiki/Yew_shortbow) give 67.5 experience per fletching or stringing action. 4,270 logs are needed, assuming a player is making unfinished bows.",
     "url": "http://runescape.wikia.com/wiki/Pay-to-play_Fletching_training#Level_65-70_-_Yew_shortbows",
     "color": 12269891,
     "footer": {
@@ -298,7 +298,6 @@ exports.data = {
         "value": "[Elder Shieldbows](http://runescape.wikia.com/wiki/Elder_shieldbow) can be an alternative, although it's a much slower method in comparison to arrows or darts. Requiring [Elder Logs](http://runescape.wikia.com/wiki/Elder_logs), they give 116 experience for fletching or stringing them. Making only unfinished bows, a player will need 36,749 logs to finish off 99."
       }
       ]
-
   },
   "alternate methods": {
     "title": "Alternative Methods of Training",
@@ -331,7 +330,7 @@ exports.data = {
     }, 
     { 
       "name": "​", 
-      "value": "Points are given based on the actions performed during each game, with a breakdown found [here](http://runescape.wikia.com/wiki/Stealing_Creation/Rewards#Point_system). Players can buy items such as the [Volatile tool](http://runescape.wikia.com/wiki/Volatile_clay_tool), the [Proto-tool](http://runescape.wikia.com/wiki/Proto-tool), and the different types of [Sacred Clay Armour and Weapons](http://runescape.wikia.com/wiki/Sacred_clay_equipment). Volatile tools provide 29,340 bonus experience but change at random. All other rewards, except for the [shield](http://runescape.wikia.com/wiki/Sacred_clay_equipment#Shields), provide 24,450 bonus experience. The [Artisan's outfit](http://runescape.wikia.com/wiki/Artisan%27s_outfit) and [Fletcher's outfit](http://runescape.wikia.com/wiki/Fletcher%27s_outfit) can be bought at the reward shop as well. For more in-depth information about each reward, refer to the main article using this [link](http://runescape.wikia.com/wiki/Stealing_Creation/Rewards#Reward_equipment)."
+      "value": "Points are given based on the actions performed during each game, with a breakdown found [here](http://runescape.wikia.com/wiki/Stealing_Creation/Rewards#Point_system). Players can buy items such as the [Volatile tool](http://runescape.wikia.com/wiki/Volatile_clay_tool), the [Proto-tool](http://runescape.wikia.com/wiki/Proto-tool), and the different types of [Sacred Clay Armour and Weapons](http://runescape.wikia.com/wiki/Sacred_clay_equipment). Volatile tools provide 29,340 bonus experience, but change at random. All other rewards, except for the [shield](http://runescape.wikia.com/wiki/Sacred_clay_equipment#Shields), provide 24,450 bonus experience. The [Artisan's outfit](http://runescape.wikia.com/wiki/Artisan%27s_outfit) and [Fletcher's outfit](http://runescape.wikia.com/wiki/Fletcher%27s_outfit) can be bought at the reward shop as well. For more in-depth information about each reward, refer to the main article using this [link](http://runescape.wikia.com/wiki/Stealing_Creation/Rewards#Reward_equipment)."
     }
       ]
   },
@@ -394,28 +393,28 @@ exports.data = {
       ]
   },
   "distractions and diversions": { 
-    "title": "Distractions and Diversions", 
-    "url": "http://runescape.wikia.com/wiki/Distractions_and_Diversions", 
-    "description": "D&Ds are a subclassification of minigames. However, unlike minigames many D&Ds move around the world to various locations, have a limit on how often they can be played, and only occur at particular times of day.\n\nDistractions and Diversions aim to divert the original intentions of the player in order to provide an interesting distraction from their everyday routines. D&Ds come in many different shapes and sizes; covering Combat, Gathering, Artisan, and Support skills. There are a wide variety of different options available to suit the players choice.", 
-    "color": 12269891, 
-    "footer": { 
-    "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg", 
-    "text": "Achievement Help | Helping you reach your goals, whatever they may be!" 
-    }, 
-    "thumbnail": { 
-    "url": "https://vignette.wikia.nocookie.net/runescape2/images/6/62/D%26D_icon.png/revision/latest?cb=20140914110639" 
-    }, 
-    "author": { 
-    "name": "Max Cape Info", 
-    "icon_url": "https://i.imgur.com/6c6q2iC.png" 
-    }, 
-    "fields": [ 
-    { 
-    "name": "▬▬ N/A ▬▬", 
-    "value": "There are currently no D&D's to aid in Fletching experience."
-    }
-    ] 
-  },
+"title": "Distractions and Diversions", 
+"url": "http://runescape.wikia.com/wiki/Distractions_and_Diversions", 
+"description": "D&Ds are a subclassification of minigames. However, unlike minigames many D&Ds move around the world to various locations, have a limit on how often they can be played, and only occur at particular times of day.\n\nDistractions and Diversions aim to divert the original intentions of the player in order to provide an interesting distraction from their everyday routines. D&Ds come in many different shapes and sizes; covering Combat, Gathering, Artisan, and Support skills. There are a wide variety of different options available to suit the players choice.", 
+"color": 12269891, 
+"footer": { 
+"icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg", 
+"text": "Achievement Help | Helping you reach your goals, whatever they may be!" 
+}, 
+"thumbnail": { 
+"url": "https://vignette.wikia.nocookie.net/runescape2/images/6/62/D%26D_icon.png/revision/latest?cb=20140914110639" 
+}, 
+"author": { 
+"name": "Max Cape Info", 
+"icon_url": "https://i.imgur.com/6c6q2iC.png" 
+}, 
+"fields": [ 
+{ 
+"name": "▬▬ N/A ▬▬", 
+"value": "There are currently no D&D's to aid in Fletching experience."
+}
+] 
+},
   "daily challenge": {
     "title": "Daily Challenge",
     "url": "http://runescape.wikia.com/wiki/Challenge_System/Fletching",
