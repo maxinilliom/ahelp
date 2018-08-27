@@ -2783,7 +2783,7 @@ exports.data = {
 				},
 				{
 					"name": "Guides:",
-					"value": "• [Low level Commander Zilyana solo guide | The RS Guy - YouTube](https://www.youtube.com/watch?v=znBF-LwvPJs)\n• [Low level K'ril Tsutsaroth solo guide | The RS Guy - YouTube](https://www.youtube.com/watch?v=pPfEMLlt8QA)\n• [Low level Kree'arra solo guide | The RS Guy - YouTube](https://www.youtube.com/watch?v=Zq0eGung16k)\n• [Low level General Graardor solo guide | The RS Guy - YouTube](https://www.youtube.com/watch?v=CDur0jqFF_8)\n• [Beginner's guide to Nex | The RS Guy - YouTube](https://www.youtube.com/watch?v=aidYDSQGlXQ)"
+					"value": "• [Low level Commander Zilyana solo guide | The RS Guy - YouTube](https://www.youtube.com/watch?v=znBF-LwvPJs)\n• [Low level K'ril Tsutsaroth solo guide | The RS Guy - YouTube](https://www.youtube.com/watch?v=pPfEMLlt8QA)\n• [Low level Kree'arra solo guide | The RS Guy - YouTube](https://www.youtube.com/watch?v=Zq0eGung16k)\n• [Low level General Graardor solo guide | The RS Guy - YouTube](https://www.youtube.com/watch?v=CDur0jqFF_8)\n• [Beginner's guide to Nex | The RS Guy - YouTube](https://www.youtube.com/watch?v=aidYDSQGlXQ)\n• <#476790691436167168>"
 				}
 			],
 			"footer": {
@@ -5502,7 +5502,7 @@ exports.data = {
             "fields": [
 				{
 					"name": "Engrams and Locations:",
-					"value": "• **Engram:** [Naragi](https://runescape.wikia.com/wiki/Naragi_engram)\n\t• **Location:** Given by Orla Fairweather during the tutorial. After each prestige it can be found in [Naragun](https://runescape.wikia.com/wiki/Naragun), north and then west from the [fairy ring](https://runescape.wikia.com/wiki/Fairy_ring) (*)*a•i•s**), on the floor of Guthix's house. Requires partial completion of [The World Wakes](https://runescape.wikia.com/wiki/The_World_Wakes) quest, up to the point where players visit Naragun with [Guthix](https://runescape.wikia.com/wiki/Guthix)"
+					"value": "• **Engram:** [Naragi](https://runescape.wikia.com/wiki/Naragi_engram)\n\t• **Location:** Given by Orla Fairweather during the tutorial. After each prestige it can be found in [Naragun](https://runescape.wikia.com/wiki/Naragun), north and then west from the [fairy ring](https://runescape.wikia.com/wiki/Fairy_ring) (**a•i•s**), on the floor of Guthix's house. Requires partial completion of [The World Wakes](https://runescape.wikia.com/wiki/The_World_Wakes) quest, up to the point where players visit Naragun with [Guthix](https://runescape.wikia.com/wiki/Guthix)"
 				},
 				{
 					"name": "​",
@@ -5578,7 +5578,7 @@ exports.data = {
 			"fields": [
 				{
 					"name": "Engrams and Locations:",
-					"value": "• **Engram:** [Naragi](https://runescape.wikia.com/wiki/Naragi_engram)\n\t• **Location:** Given by Orla Fairweather during the tutorial. After each prestige it can be found in [Naragun](https://runescape.wikia.com/wiki/Naragun), north and then west from the [fairy ring](https://runescape.wikia.com/wiki/Fairy_ring) (*)*a•i•s**), on the floor of Guthix's house. Requires partial completion of [The World Wakes](https://runescape.wikia.com/wiki/The_World_Wakes) quest, up to the point where players visit Naragun with [Guthix](https://runescape.wikia.com/wiki/Guthix)"
+					"value": "• **Engram:** [Naragi](https://runescape.wikia.com/wiki/Naragi_engram)\n\t• **Location:** Given by Orla Fairweather during the tutorial. After each prestige it can be found in [Naragun](https://runescape.wikia.com/wiki/Naragun), north and then west from the [fairy ring](https://runescape.wikia.com/wiki/Fairy_ring) (**a•i•s**), on the floor of Guthix's house. Requires partial completion of [The World Wakes](https://runescape.wikia.com/wiki/The_World_Wakes) quest, up to the point where players visit Naragun with [Guthix](https://runescape.wikia.com/wiki/Guthix)"
 				},
 				{
 					"name": "​",
@@ -7809,11 +7809,43 @@ exports.data = {
                 "name": "Cape Info",
                 "icon_url": "https://i.imgur.com/6c6q2iC.png"
             },
-            "description": "[Summary Spirits](http://runescape.wikia.com/wiki/Summary_Spirits) is an achievement that requires the player to enter all of the Wilderness spirit portals after completing Summer's End. There are 8 in total.",
+            "description": "[Summary Spirits](http://runescape.wikia.com/wiki/Summary_Spirits) is an achievement that requires the player to enter all 8 of the [Wilderness spirit portals](https://runescape.wikia.com/wiki/Spirit_Realm) after completing [Summer's End](https://runescape.wikia.com/wiki/Summer%27s_End). Two portals are available during the quest [Spirit of Summer](https://runescape.wikia.com/wiki/Spirit_of_Summer), and the reward item from the quest, [Jennica's ring](https://runescape.wikia.com/wiki/Jennica%27s_ring), activates additional portals after the completion of Summer's End.\n\nThe first portal is used at the beginning of the Spirit of Summer quest. It is in the entrance of a house in the [Ruins (east)](https://runescape.wikia.com/wiki/Ruins_(east). Experience is only given after Summer's End. There are also five [weak portals](https://runescape.wikia.com/wiki/Spirit_Realm#Weak_portals) that can be activated using the upgraded version of Jennica's ring.",
             "thumbnail": {
                 "url": "https://i.imgur.com/Shmagnp.png"
             },
             "fields": [
+                {
+                    "name": "Spiritual Portals:",
+                    "value": "• Visible; at the flower farming patch where the diseased [Limpwurt plant](https://runescape.wikia.com/wiki/Limpwurt_root) was grown in the quest at the [Ruins (west)](https://runescape.wikia.com/wiki/Ruins_(west) in level 22 [Wilderness](https://runescape.wikia.com/wiki/Wilderness).\n• Coordinates: [16° 44' N, 17° 15' E](https://vignette.wikia.nocookie.net/runescape2/images/1/1a/Spirit_Realm_portal_%28Ruins_west%29_location.png/revision/latest?cb=20141210065020)"
+                },
+                {
+                    "name": "​",
+                    "value": "• Visible; outside the [magic axe hut](https://runescape.wikia.com/wiki/Magic_axe_hut) in level 55 Wilderness, just northeast of the [Ardougne teleport lever](https://runescape.wikia.com/wiki/Ardougne_teleport_lever).\n• Coordinates: [24° 50' N, 23° 27' E](https://vignette.wikia.nocookie.net/runescape2/images/c/cb/Spirit_Realm_portal_%28magic_axe_hut%29_location.png/revision/latest?cb=20170614183653)"
+                },
+                {
+                    "name": "​",
+                    "value": "• Visible; at the [Forgotten Cemetery](https://runescape.wikia.com/wiki/The_Forgotten_Cemetery) just north of the flower patch portal, in level 30 Wilderness.\n• Coordinates: [18° 37' N, 16° 54' E](https://vignette.wikia.nocookie.net/runescape2/images/6/69/Spirit_Realm_portal_%28Forgotten_Cemetery%29_location.png/revision/latest?cb=20170614184205)\n\n"
+                },
+                {
+                    "name": "Weak Portals:",
+                    "value": "• Weak but visible; at [Summer's farm](https://runescape.wikia.com/wiki/Ruins_(east) in level 28 Wilderness.\n• Coordinates: [17° 58' N, 24° 45' E](https://vignette.wikia.nocookie.net/runescape2/images/3/3b/Spirit_Realm_portal_%28Wilderness_Ruins%29_location.png/revision/latest?cb=20170911121611)"
+                },
+                {
+                    "name": "​",
+                    "value": "• Very weak and invisible; in the very centre of the [Dark Warriors' Fortress](https://runescape.wikia.com/wiki/Dark_Warriors%27_Fortress) in level 14 Wilderness.\n• Coordinates: [14° 43' N, 18° 22' E](https://vignette.wikia.nocookie.net/runescape2/images/3/32/Spirit_Realm_portal_%28Dark_Warriors%27_Fortress%29_location.png/revision/latest?cb=20170614185748)"
+                },
+                {
+                    "name": "​",
+                    "value": "• Weak but visible; at the [Chaos Temple](https://runescape.wikia.com/wiki/Chaos_Temple_(Wilderness) in level 12 Wilderness.\n• Coordinates: [14° 0' N, 25° 5' E](https://vignette.wikia.nocookie.net/runescape2/images/e/e2/Spirit_Realm_portal_%28Chaos_Temple%29_location.png/revision/latest?cb=20170614185548)"
+                },
+                {
+                    "name": "​",
+                    "value": "• Very weak and invisible; in the north of [Rogues' Castle](https://runescape.wikia.com/wiki/Rogues%27_Castle) in level 53 Wilderness.\n• Coordinates: [24° 18' N, 26° 33' E](https://vignette.wikia.nocookie.net/runescape2/images/0/08/Spirit_Realm_portal_%28Rogues%27_Castle%29_location.png/revision/latest?cb=20170614190004)"
+                },
+                {
+                    "name": "​",
+                    "value": "• Weak but visible; in the [castle ruins](https://runescape.wikia.com/wiki/Deep_Wilderness_Castle_Ruins) far east of the [Demonic Ruins](https://runescape.wikia.com/wiki/Demonic_Ruins), in Level 47 Wilderness.\n• Coordinates: [22° 56' N, 29° 9' E](https://vignette.wikia.nocookie.net/runescape2/images/0/09/Spirit_Realm_portal_%28east_of_Demonic_Ruins%29_location.png/revision/latest?cb=20180815113729)"
+                },
                 {
                     "name": "Requirements:",
                     "value": "• Summer's End Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Rune_Memories)\n• Jennica's Ring"
@@ -7837,7 +7869,7 @@ exports.data = {
                 "name": "Cape Info",
                 "icon_url": "https://i.imgur.com/6c6q2iC.png"
             },
-            "description": "[Supply and Demand](http://runescape.wikia.com/wiki/Supply_and_Demand) is an achievement that requires the player to complete five supply runs after completion of Death Plateau.\n\nThis achievement requires the player to take a crate of supplies from Commander Denulth to the Ambush Commander. Commander Denulth can be found in the courtyard just east of the Burthorpe bank. The Ambush Commander is an Imperial Guard archer that is stationed on top of Death Plateau, right outside of the cave the player discovers during the quest.\n\nAfter finishing the fifth run, this activity is no longer available. These do not have to be done to start Troll Stronghold. A quick method to complete the trips is to instead run past the thrower trolls, up onto Death Plateau, then climb the rocks on the eastern side and home teleport back to Burthorpe.",
+            "description": "[Supply and Demand](http://runescape.wikia.com/wiki/Supply_and_Demand) is an achievement that requires the player to complete five supply runs after completion of [Death Plateau](https://runescape.wikia.com/wiki/Death_Plateau).\n\nThis achievement requires the player to take a [crate of supplies](https://runescape.wikia.com/wiki/Supplies) from [Commander Denulth](https://runescape.wikia.com/wiki/Commander_Denulth) to the [Ambush Commander](https://runescape.wikia.com/wiki/Ambush_Commander).\n\nCommander Denulth can be found in the courtyard just east of the [Burthorpe](https://runescape.wikia.com/wiki/Burthorpe) bank.\n\nThe Ambush Commander is an [Imperial Guard](https://runescape.wikia.com/wiki/Burthorpe_Imperial_Guard) archer that is stationed on top of [Death Plateau](https://runescape.wikia.com/wiki/Death_Plateau_(location), right outside of the cave the player discovers during the quest.\n\nAfter finishing the fifth run, this activity is no longer available.\n\n A quick method to complete the trips is to instead run past the [thrower trolls](https://runescape.wikia.com/wiki/Thrower_Troll), up onto Death Plateau, then climb the rocks on the eastern side (requires [climbing boots](https://runescape.wikia.com/wiki/Climbing_boots) or an agility level of 41) and [home teleport](https://runescape.wikia.com/wiki/Home_Teleport) back to Burthorpe.",
             "thumbnail": {
                 "url": "https://i.imgur.com/Shmagnp.png"
             },
@@ -7853,6 +7885,34 @@ exports.data = {
             }
         }
 	},
+	"tactless analysis": {
+		"cmds": ["mqc"],
+		"embed": {
+   			"title": "Tactless Analysis",
+    		"author": {
+     			"name": "RuneScore Achievement Info",
+      			"icon_url": "https://i.imgur.com/6c6q2iC.png"
+    		},
+    		"description": "[Tactless Analysis](https://runescape.wikia.com/wiki/Tactless_Analysis) is an achievement that requires the player to obtain all 22 [Dragonkin research notes](https://runescape.wikia.com/wiki/Dragonkin_research_notes) to complete [Dragonkin research](https://runescape.wikia.com/wiki/Dragonkin_research) in the [Dragonkin Laboratory](https://runescape.wikia.com/wiki/Dragonkin_Laboratory) in either normal or story mode.\n\nThe notes can be found on the following places:\n\n• 1 note can be found right by the entrance in a side room.\n• 3 notes can be found around the [red dragons](https://runescape.wikia.com/wiki/Red_dragon_(Dragonkin_Laboratory%29) by the entrance.\n• 1 note can be found past the [lava spiders](https://runescape.wikia.com/wiki/Lava_spider) next to the [Spyndra](https://runescape.wikia.com/wiki/Spyndra) miniboss.\n• 10 notes can be found in the building around the [Astellarn](https://runescape.wikia.com/wiki/Astellarn) boss room.\n• 1 note can be found north of the [black dragons](https://runescape.wikia.com/wiki/Black_dragon_(Dragonkin_Laboratory%29), this note can only be obtained with the [Telekinetic Grab](https://runescape.wikia.com/wiki/Telekinetic_Grab) spell.\n• 1 note can be found inside the [Verak Lith](https://runescape.wikia.com/wiki/Verak_Lith) boss room.\n• 5 notes can be found on route to the [Black Stone Dragon](https://runescape.wikia.com/wiki/Black_Stone_Dragon) boss room.\n\nAll notes are shown as red dots on the minimap.",
+    		"thumbnail": {
+      			"url": "https://i.imgur.com/Shmagnp.png"
+    		},
+    		"fields": [
+      			{
+        			"name": "Requirements:",
+        			"value": "• 33 Magic\n\n• Completed the [Temple of Aminishi](https://runescape.wikia.com/wiki/Temple_of_Aminishi) Elite Dungeon once in either story or normal mode"
+      			},
+      			{
+       				"name": "Guide:",
+        			"value": "[Map of all note locations | Runescape Wiki](https://vignette.wikia.nocookie.net/runescape2/images/a/ab/Dragonkin_Laboratory_map.png/revision/latest?cb=20180817141803)"
+      			}
+    		],
+    		"footer": {
+      			"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+      			"text": "Runescore awarded: 20"
+    		}
+  		}
+	},			
 	"task master": {
 		"cmds": ["comp"],
 		"embed": {
@@ -7893,7 +7953,7 @@ exports.data = {
                 "name": "Cape Info",
                 "icon_url": "https://i.imgur.com/6c6q2iC.png"
             },
-            "description": "[Tasty Bobbles](http://runescape.wikia.com/wiki/Tasty_Bobbles) is an achievement that requires the player to speak with Tim and Crunchy after completing Gower Quest to obtain bobblehead pets of themselves.\n\nTim and Crunchy are located in Behind the Scenes. Behind the Scenes is a location visited during the Gower Quest which resembles a bar. It can be accessed by using a disk of returning in the dwarven mines north of Falador, beneath Ice Mountain, to The Black Hole.\n\nAfter the quest, the disk of returning can be used from any bank area.",
+            "description": "[Tasty Bobbles](http://runescape.wikia.com/wiki/Tasty_Bobbles) is an achievement that requires the player to speak with [Tim](https://runescape.wikia.com/wiki/Tim) and [Crunchy](https://runescape.wikia.com/wiki/Crunchy) after completing [Gower Quest](https://runescape.wikia.com/wiki/Gower_Quest) to obtain [bobblehead](https://runescape.wikia.com/wiki/Bobblehead) pets of themselves.\n\nTim and Crunchy are located in [Behind the Scenes](https://runescape.wikia.com/wiki/Behind_the_Scenes_(location).\n\nBehind the Scenes is a location visited during the Gower Quest which resembles a bar. It can be accessed during the quest by using a [disk of returning](https://runescape.wikia.com/wiki/Disk_of_returning_(Gower_Quest) in the [dwarven mines](https://runescape.wikia.com/wiki/Dwarven_Mine) north of [Falador](https://runescape.wikia.com/wiki/Falador), beneath [Ice Mountain](https://runescape.wikia.com/wiki/Ice_Mountain), to go to [The Black Hole](https://runescape.wikia.com/wiki/The_Black_Hole_(Gower_Quest).\n\nAfter the quest, the disk of returning can be used from any bank area.",
             "thumbnail": {
                 "url": "https://i.imgur.com/Shmagnp.png"
             },
@@ -7993,7 +8053,7 @@ exports.data = {
                 "name": "Cape Info",
                 "icon_url": "https://i.imgur.com/6c6q2iC.png"
             },
-            "description": "[That'll Teach Bill](http://runescape.wikia.com/wiki/That%27ll_Teach_Bill) is an achievement that requires the player to speak to Bill Teach after completion of Cabin Fever in order to claim 10,000 coins from him.\n\nBill Teach is a pirate captain from the southern island of Mos Le'Harmless. He can be found in multiple places: Port Phasmatys on the ship at the east end of the pier or in The Green Ghost Inn; in Mos Le'Harmless on the ship at the east pier, in The Other Inn, in the basement of Harpoon Joe's House of 'Rum', or Mos Le'Harmless pier on his boat.",
+            "description": "[That'll Teach Bill](http://runescape.wikia.com/wiki/That%27ll_Teach_Bill) is an achievement that requires the player to speak to [Bill Teach](https://runescape.wikia.com/wiki/Bill_Teach) after completion of [Cabin Fever](https://runescape.wikia.com/wiki/Cabin_Fever) in order to claim 10,000 [coins](https://runescape.wikia.com/wiki/Coins) from him.\n\nBill Teach is a pirate captain from the southern island of [Mos Le'Harmless](https://runescape.wikia.com/wiki/Mos_Le%27Harmless).\n\nHe can be found in multiple places, being:\n\n• [Port Phasmatys](https://runescape.wikia.com/wiki/Port_Phasmatys) on the ship at the east end of the pier or in [The Green Ghost Inn](https://runescape.wikia.com/wiki/The_Green_Ghost)\n• In Mos Le'Harmless on the ship at the east pier, in [The Other Inn](https://runescape.wikia.com/wiki/The_Other_Inn)\n• In the basement of [Harpoon Joe's House of 'Rum'](https://runescape.wikia.com/wiki/Harpoon_Joe%27s_House_of_%27Rum%27)\n• Mos Le'Harmless pier on his boat.\n\nFor maps of his location see [here](https://runescape.wikia.com/wiki/Bill_Teach#Locations).",
             "thumbnail": {
                 "url": "https://i.imgur.com/Shmagnp.png"
             },
@@ -8017,7 +8077,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[The Book of Elei](http://runescape.wikia.com/wiki/The_Book_of_Elei) is an achievement that requires the player to obtain all 22 Acolyte's diary pages to complete Elei's Diary in the [Temple of Aminishi](http://runescape.wikia.com/wiki/Temple_of_Aminishi) in either normal or story mode.\n\n• 7 pages are found in the first room of the Temple.\n• 4 pages are found in the second room of the Temple of which 1 is located on an upper corridor which can only be obtained by using the Telekinetic Grab spell in the normal spellbook.\n• 8 pages are found in the third room of the Temple of which 1 is located below a staircase which can only be obtained by using the Telekinetic Grab spell in the normal spellbook.\n• 3 pages are found in the fourth room of the Temple.",
+			"description": "[The Book of Elei](http://runescape.wikia.com/wiki/The_Book_of_Elei) is an achievement that requires the player to obtain all 22 Acolyte's diary pages to complete Elei's Diary in the [Temple of Aminishi](http://runescape.wikia.com/wiki/Temple_of_Aminishi) in either normal or story mode. The notes can be found on the following places:\n\n• 7 pages are found in the first room of the Temple.\n• 4 pages are found in the second room of the Temple of which 1 is located on an upper corridor which can only be obtained by using the Telekinetic Grab spell in the normal spellbook.\n• 8 pages are found in the third room of the Temple of which 1 is located below a staircase which can only be obtained by using the Telekinetic Grab spell in the normal spellbook.\n• 3 pages are found in the fourth room of the Temple.\n\nAll notes are shown as red dots on the minimap.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -8026,6 +8086,10 @@ exports.data = {
 					"name": "Requirements:",
 					"value": "• Impressing the Locals Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Impressing_the_Locals)"
 				}
+				{
+        			"name": "Guide:",
+        			"value": "[A map showing all notes locations | Runescape Wiki](https://vignette.wikia.nocookie.net/runescape2/images/d/d6/Temple_of_Aminishi_map.png/revision/latest?cb=20180701160746)"
+      			}
 			],
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
@@ -8041,11 +8105,19 @@ exports.data = {
                 "name": "Cape Info",
                 "icon_url": "https://i.imgur.com/6c6q2iC.png"
             },
-            "description": "[The History of Slayer](http://runescape.wikia.com/wiki/The_History_of_Slayer) is an achievement that requires the player to read all of the murals in the Sunken Pyramid. These can be uncovered by collecting 110 unique souls and depositing them into the chest at the centre of the pyramid.\n\nThe Slayer Codex is the book used to record the souls of Slayer monsters that the player has captured in an Ushabti. It is obtained from Faiza in the Sunken Pyramid after achieving level 99 Slayer. The Codex is updated when a new creature's soul is captured in an ushabti and placed in the Chest of Souls, or when it is added to the player's personal Slayer Dungeon.\n\nUshabti are containers used to trap the souls of Slayer monsters used to fill the Slayer Codex. A small number (25-50) are initially handed out by Faiza depending on Slayer level. Additional ushabti can be purchased from Slayer Masters for 20 slayer points each, and are a possible reward from the Rush of Blood D&D and the Motherlode Maw.\n\nThe formula for the initial number of ushabti received appears to be 25 + 1 for each additional Slayer level over 99, or 50 at level 120 Slayer. If the free ushabti are claimed prior to having a max Slayer level, upon leveling, the player can still acquire more from Faiza.",
+            "description": "[The History of Slayer](http://runescape.wikia.com/wiki/The_History_of_Slayer) is an achievement that requires the player to read all of the murals in the [Sunken Pyramid](https://runescape.wikia.com/wiki/Sunken_Pyramid). These can be uncovered by collecting 110 unique souls and depositing them into the chest at the center of the pyramid.\n\nThe [Slayer Codex](https://runescape.wikia.com/wiki/Slayer_Codex) is the book used to record the souls of Slayer monsters that the player has captured in an [Ushabti](https://runescape.wikia.com/wiki/Ushabti). It is obtained from [Faiza](https://runescape.wikia.com/wiki/Faiza) in the Sunken Pyramid after achieving level 99 Slayer. The Codex is updated when a new creature's soul is captured in an ushabti and placed in the [Chest of Souls](https://runescape.wikia.com/wiki/Chest_of_Souls), or when it is added to the player's personal [Slayer Dungeon](https://runescape.wikia.com/wiki/Sunken_Pyramid#Slayer_Dungeon).\n\nUshabti are containers used to trap the souls of Slayer monsters used to fill the Slayer Codex. A small number (25-50) are initially handed out by Faiza depending on Slayer level. Additional ushabti can be purchased from Slayer Masters for 20 [slayer points](https://runescape.wikia.com/wiki/Slayer_points) each, and are a possible reward from the [Rush of Blood](https://runescape.wikia.com/wiki/Rush_of_Blood) Distraction and Diversion (D&D) and the [Motherlode Maw](https://runescape.wikia.com/wiki/Motherlode_Maw).\n\nThe formula for the initial number of ushabti received appears to be 25 + 1 for each additional Slayer level over 99, or 50 at level 120 Slayer. If the free ushabti are claimed prior to having a max Slayer level, upon leveling, the player can still acquire more from Faiza.\n\n Souls can be removed from ushabti's if you accidently caught an undesired or duplicate soul.",
             "thumbnail": {
                 "url": "https://i.imgur.com/Shmagnp.png"
             },
             "fields": [
+                {
+                    "name": "​",
+                    "value": "The likelihood of capturing a soul has a few factors. Every kill has a chance of trapping a soul, which is affected by base Slayer level compared to the creature's required Slayer level to kill. Being on a Slayer assignment for the monster also doubles the chance of trapping the soul. Using level-boosting items such as [wilder pies](https://runescape.wikia.com/wiki/Wilder_pie) does not affect the likelihood of capturing a soul. If the player has level 120 Slayer, the chance to catch a soul is the same as if the player were on task. This doesn't stack with the doubling effect when on assignment."
+                },
+                {
+                    "name": "Tips:",
+                    "value": "• An ushabti can be upgraded into a [cursed ushabti](https://runescape.wikia.com/wiki/Cursed_ushabti) by combining it with [cursed amascut sand](https://runescape.wikia.com/wiki/Cursed_amascut_sand). The cursed ushabti has a 50% increased catch chance over the normal ushabti. Due to the rarity and price of sand, it's best reserved for particularly high Slayer level or difficult monsters.\n\n• Cursed amascut sand can be purchased from players or obtained as a rare drop from a [Ripper Demon](https://runescape.wikia.com/wiki/Ripper_Demon), [Wyvern](https://runescape.wikia.com/wiki/Wyvern), [Camel Warrior](https://runescape.wikia.com/wiki/Camel_Warrior), or [Acheron mammoth](https://runescape.wikia.com/wiki/Acheron_mammoth).\n\n• Wearing a [corrupted slayer helmet](https://runescape.wikia.com/wiki/Corrupted_slayer_helmet) increases the chances of capturing a soul by 5% when killing an assigned monster.\n\n• The [Shattered Worlds](https://runescape.wikia.com/wiki/Shattered_Worlds) D&D is very useful for obtaining souls."
+                },
                 {
                     "name": "Requirements:",
                     "value": "• 99 Slayer\n\n• The Jack of Spades Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Jack_of_Spades)"
@@ -8065,7 +8137,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[The Many Hands That Write](http://runescape.wikia.com/wiki/The_Many_Hands_That_Write) is an achievement that requires the player to obtain the books Crassian Allegiance and Himiko's Vision from bosses in the [Temple of Aminishi](http://runescape.wikia.com/wiki/Temple_of_Aminishi) in either normal or story mode.",
+			"description": "[The Many Hands That Write](https://runescape.wikia.com/wiki/The_Many_Hands_That_Write) is an achievement that requires the player to obtain the books [Crassian Allegiance](https://runescape.wikia.com/wiki/Crassian_Allegiance) and [Himiko's Vision](https://runescape.wikia.com/wiki/Himiko%27s_Vision) from bosses in the [Temple of Aminishi](https://runescape.wikia.com/wiki/Temple_of_Aminishi) in either normal or story mode.\n\nCrassian Allegiance is a book found by defeating [The Sanctum Guardian](https://runescape.wikia.com/wiki/The_Sanctum_Guardian) and Himiko's Vision is a book found by defeating [Masuta the Ascended](https://runescape.wikia.com/wiki/Masuta_the_Ascended). Both can be obtained in either normal or story mode, however the drop rate is higher in story mode.\n\nThe lorebooks drop at a 1/10 drop rate. Every normal mode or solo kill of the boss increases that chance by 1%. Wearing the [Dungeoneering master cape](https://runescape.wikia.com/wiki/Dungeoneering_master_cape) will increase the chance of receiving lore drops within all Elite Dungeons.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -8089,18 +8161,18 @@ exports.data = {
                 "name": "Cape Info",
                 "icon_url": "https://i.imgur.com/6c6q2iC.png"
             },
-            "description": "[Three's A Kiln](http://runescape.wikia.com/wiki/Three%27s_A_Kiln) is an achievement that requires the player to complete the Fight Kiln at least three times, getting each of the TokHaar-Kal capes, and handing them in to TzHaar-Mej-Jeh to claim the enhanced fire cape. The capes are permanently lost when doing this.",
+            "description": "[Three's A Kiln](http://runescape.wikia.com/wiki/Three%27s_A_Kiln) is an achievement that requires the player to complete the [Fight Kiln](https://runescape.wikia.com/wiki/Fight_Kiln) at least three times, getting each of the [TokHaar-Kal](https://runescape.wikia.com/wiki/TokHaar-Kal) capes, and handing them in to [TzHaar-Mej-Jeh](https://runescape.wikia.com/wiki/TzHaar-Mej-Jeh) to claim the [enhanced fire cape](https://runescape.wikia.com/wiki/Enhanced_fire_cape). The capes are permanently lost when doing this.\n\nAfter completing [The Elder Kiln](http://runescape.wikia.com/wiki/The_Elder_Kiln), TzHaar-Mej-Jeh can be found in the main plaza of [TzHaar City](https://runescape.wikia.com/wiki/TzHaar_City).\n\nThe Fight Kiln is a combat minigame wherein waves of [TokHaar](https://runescape.wikia.com/wiki/TokHaar) are fought for the sole sake of combat and the TokHaar's amusement. It's a tougher and improved sequel to the [TzHaar Fight Cave](https://runescape.wikia.com/wiki/TzHaar_Fight_Cave) [minigame](https://runescape.wikia.com/wiki/Minigames), and can be reasonably difficult to complete for the average player. Entering the Fight Kiln requires having done The Elder Kiln, as well as a one-time payment of a [fire cape](https://runescape.wikia.com/wiki/Fire_cape). After this, the kiln may be played as many times as desired for the rewards.",
             "thumbnail": {
                 "url": "https://i.imgur.com/Shmagnp.png"
             },
             "fields": [
                 {
                     "name": "Requirements:",
-                    "value": "• The Elder Kiln Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Elder_Kiln)"
+                    "value": "• The Elder Kiln Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Elder_Kiln)\n\n• Tzhaar Fight Cave completion for a fire cape"
                 },
                 {
                   "name": "Guide:",
-                  "value": "[Fight Kiln guide | Moto - YouTube](https://youtu.be/g1KWJUv5nG4)"
+                  "value": "• [Fight Kiln guide | Moto - YouTube](https://youtu.be/g1KWJUv5nG4)\n\n• <#476790691436167168>"
                 }
             ],
             "footer": {
@@ -8225,7 +8297,7 @@ exports.data = {
                 "name": "Cape Info",
                 "icon_url": "https://i.imgur.com/6c6q2iC.png"
             },
-            "description": "[Trials of the Heart](http://runescape.wikia.com/wiki/Trials_of_the_Heart) is an achievement that requires the player to claim the Helm of Trials from Xenia (or Ilona, after Heart of Stone) by talking to her with at least 300 quest points.\n\nXenia can be found in the Lumbridge cemetery. Ilona can be found in the Lumbridge Catacombs.",
+            "description": "[Trials of the Heart](http://runescape.wikia.com/wiki/Trials_of_the_Heart) is an achievement that requires the player to claim the [Helm of Trials](https://runescape.wikia.com/wiki/Helmet_of_trials) from [Xenia](https://runescape.wikia.com/wiki/Xenia), or [Ilona](https://runescape.wikia.com/wiki/Ilona) if after the [Heart of Stone](https://runescape.wikia.com/wiki/Heart_of_Stone) quest, by talking to her with at least 300 [quest points](https://runescape.wikia.com/wiki/Quest_points).\n\nXenia can be found in the [Lumbridge cemetery](https://runescape.wikia.com/wiki/Lumbridge_cemetery).\n\nIlona can be found in the [Lumbridge Catacombs](https://runescape.wikia.com/wiki/Lumbridge_Catacombs).",
             "thumbnail": {
                 "url": "https://i.imgur.com/Shmagnp.png"
             },
@@ -8249,24 +8321,24 @@ exports.data = {
                 "name": "Cape Info",
                 "icon_url": "https://i.imgur.com/6c6q2iC.png"
             },
-            "description": "[Trickster's Trinkets](http://runescape.wikia.com/wiki/Trickster%27s_Trinkets) is an achievement which can be completed by finding all necklace trinkets and combining them with the old necklace to create the necklace of Charos after the You Are It quest.\n\nNecklace trinkets can be found by searching Gielinor using the old necklace received after You Are It. The necklace's 'Scan' function will operate like a compass clue when close enough to the location.",
+            "description": "[Trickster's Trinkets](http://runescape.wikia.com/wiki/Trickster%27s_Trinkets) is an achievement which can be completed by finding all [necklace trinkets](https://runescape.wikia.com/wiki/Necklace_trinket) and combining them with the [old necklace](https://runescape.wikia.com/wiki/Old_necklace) to create the [necklace of Charos](https://runescape.wikia.com/wiki/Necklace_of_Charos) after the [You Are It](https://runescape.wikia.com/wiki/You_Are_It) quest.\n\nThe Old necklace is an item obtained during the You Are It quest, found inside the [locked casket](https://runescape.wikia.com/wiki/Locked_casket) by using the [casket key](https://runescape.wikia.com/wiki/Casket_key) on the latter. When lost, it can be reobtained by digging with a [spade](https://runescape.wikia.com/wiki/Spade) in [Lumbridge cemetery](https://runescape.wikia.com/wiki/Lumbridge_cemetery) at 00 degrees 58 minutes north, 25 degrees 01 minutes east.\n\nNecklace trinkets can be found by searching across [Gielinor](https://runescape.wikia.com/wiki/Gielinor), and [Charos's Journal](https://runescape.wikia.com/wiki/Charos%27s_Journal) provides some hints of where to next look.\n\nCharos's Journal is an item obtained during the You Are It quest by investigating the coffin in [Charos' tomb](https://runescape.wikia.com/wiki/Charos%27_tomb). Finding each trinket unlocks an additional passage of Charos's Journal.",
             "thumbnail": {
                 "url": "https://i.imgur.com/Shmagnp.png"
             },
             "fields": [
                 {
-                  "name": "Trinket",
-                  "value": "1\n2\n3\n4\n5",
+                  "name": "Trinket:",
+                  "value": "• [Necklace Trinket 1](https://runescape.wikia.com/wiki/Necklace_trinket_(1)\n• [Necklace Trinket 2](https://runescape.wikia.com/wiki/Necklace_trinket_(2)\n• [Necklace Trinket 3](https://runescape.wikia.com/wiki/Necklace_trinket_(3)\n• [Necklace Trinket 4](https://runescape.wikia.com/wiki/Necklace_trinket_(4)\n• [Necklace Trinket 5](https://runescape.wikia.com/wiki/Necklace_trinket_(5)",
                   "inline": true
                 },
                 {
-                  "name": "Location",
-                  "value": "The doors to Castle Drakan\nFenkenstrain's Castle garden\nBeacon south of Paterdomus\nNorth of Aggie's house in Draynor Village\nCatherby beach grapple tree",
+                  "name": "Location:",
+                  "value": "• The doors to [Castle Drakan](https://runescape.wikia.com/wiki/Castle_Drakan) ([Image](https://runescape.wikia.com/wiki/File:Necklace_trinket_%281%29_location.png))\n• [Fenkenstrain's Castle garden](https://runescape.wikia.com/wiki/Fenkenstrain%27s_Castle) ([Image](https://runescape.wikia.com/wiki/File:Necklace_trinket_%282%29_location.png))\n• Beacon south of [Paterdomus](https://runescape.wikia.com/wiki/Paterdomus) ([Image](https://runescape.wikia.com/wiki/File:Necklace_trinket_%283%29_location.png))\n• North of [Aggie](https://runescape.wikia.com/wiki/Aggie)'s house in [Draynor Village](https://runescape.wikia.com/wiki/Draynor_Village) ([Image](https://runescape.wikia.com/wiki/File:Necklace_trinket_%284%29_location.png))\n• [Catherby](https://runescape.wikia.com/wiki/Catherby) beach [grapple](https://runescape.wikia.com/wiki/Mithril_grapple) [tree](https://runescape.wikia.com/wiki/Strong_tree) ([Image](https://runescape.wikia.com/wiki/File:Necklace_trinket_%285%29_location.png))",
                   "inline": true
                 },
                 {
                     "name": "Requirements:",
-                    "value": "• You Are It Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/You_Are_It)"
+                    "value": "• You Are It Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/You_Are_It)\n\n• The The Branches of Darkmeyer Quest partial completion | [Runescape Wiki](https://runescape.wikia.com/wiki/The_Branches_of_Darkmeyer)"
                 }
             ],
             "footer": {
@@ -8335,7 +8407,7 @@ exports.data = {
                 "name": "Cape Info",
                 "icon_url": "https://i.imgur.com/6c6q2iC.png"
             },
-            "description": "[Triple Trouble](http://runescape.wikia.com/wiki/Triple_Trouble) is an achievement that requires the player to claim the rewards from the three brothers after completing Tai Bwo Wannai Trio. The reward is claimed by talking to each brother.\n\nLocations:\n• Tamayu can be found in the village of Tai Bwo Wannai where he runs a spear stall\n• Tinsay can be found in the middle hut in Tai Bwo Wannai\n• Tiadeche can be found in the village of Tai Bwo Wannai in the most southwestern house.",
+            "description": "[Triple Trouble](http://runescape.wikia.com/wiki/Triple_Trouble) is an achievement that requires the player to claim the rewards from the three brothers after completing [Tai Bwo Wannai Trio](https://runescape.wikia.com/wiki/Tai_Bwo_Wannai_Trio). The reward is claimed by talking to each brother.\n\n**Locations:**\n• [Tamayu](https://runescape.wikia.com/wiki/Tamayu) can be found in the village of [Tai Bwo Wannai](https://runescape.wikia.com/wiki/Tai_Bwo_Wannai) where he runs a [spear stall](https://runescape.wikia.com/wiki/Tamayu%27s_Spear_Stall)\n\n• [Tinsay](https://runescape.wikia.com/wiki/Tinsay) can be found in the middle hut in Tai Bwo Wannai\n\n• [Tiadeche](https://runescape.wikia.com/wiki/Tiadeche) can be found in the village of Tai Bwo Wannai in the most southwestern house.",
             "thumbnail": {
                 "url": "https://i.imgur.com/Shmagnp.png"
             },
@@ -8451,7 +8523,7 @@ exports.data = {
                 "name": "Cape Info",
                 "icon_url": "https://i.imgur.com/6c6q2iC.png"
             },
-            "description": "[Ultimate Codex](http://runescape.wikia.com/wiki/Ultimate_Codex) is an achievement that requires the player to claim the Codex Ultimatus from the archaeological expert and reading it.\n\nTerrance Balando is an archaeological expert at the Exam Centre. The Exam Centre is a location in Misthalin east of Varrock and south of the digsite.\n\nReading the book unlocks three threshold abilities – one per combat style: Blood Tendrils (75 Attack), Shadow Tendrils (75 Ranged), and Smoke Tendrils (75 Magic) – and one ultimate ability – Ice Asylum (91 Constitution).",
+            "description": "[Ultimate Codex](http://runescape.wikia.com/wiki/Ultimate_Codex) is an achievement that requires the player to claim the [Codex Ultimatus](https://runescape.wikia.com/wiki/Codex_Ultimatus) from the [archaeological expert](https://runescape.wikia.com/wiki/Archaeological_expert) and reading it.\n\nTerrance Balando is an archaeological expert at the [Exam Centre](https://runescape.wikia.com/wiki/Exam_Centre).\n\nThe Exam Centre is a location in [Misthalin](https://runescape.wikia.com/wiki/Misthalin) east of [Varrock](https://runescape.wikia.com/wiki/Varrock) and south of the [digsite](https://runescape.wikia.com/wiki/Digsite).\n\nReading the book unlocks three threshold [abilities](https://runescape.wikia.com/wiki/Abilities) – one per combat style: [Blood Tendrils](https://runescape.wikia.com/wiki/Blood_Tendrils) (75 Attack), [Shadow Tendrils](https://runescape.wikia.com/wiki/Shadow_Tendrils) (75 Ranged), and [Smoke Tendrils](https://runescape.wikia.com/wiki/Smoke_Tendrils) (75 Magic) – and one ultimate ability – [Ice Asylum](https://runescape.wikia.com/wiki/Ice_Asylum) (91 Constitution).",
             "thumbnail": {
                 "url": "https://i.imgur.com/Shmagnp.png"
             },
@@ -8503,7 +8575,7 @@ exports.data = {
                 "name": "Cape Info",
                 "icon_url": "https://i.imgur.com/6c6q2iC.png"
             },
-            "description": "[Under Croc and Key](http://runescape.wikia.com/wiki/Under_Croc_and_Key) is an achievement that requires the player to access the secret tomb found in the Crondis's pyramid after Crocodile Tears.\n\nThe entrance can be accessed from within Crondis' pyramid by swimming through the underwater tunnel east of the entrance.",
+            "description": "[Under Croc and Key](http://runescape.wikia.com/wiki/Under_Croc_and_Key) is an achievement that requires the player to access the [secret tomb](https://runescape.wikia.com/wiki/Crondis_tomb) found in the [Crondis's pyramid](https://runescape.wikia.com/wiki/Crondis%27s_pyramid) after [Crocodile Tears](https://runescape.wikia.com/wiki/Crocodile_Tears).\n\nThe entrance can be accessed from within Crondis' pyramid by swimming through the underwater tunnel east of the entrance.\n\nCrondis's pyramid is located on the southern end of the [river Elid](https://runescape.wikia.com/wiki/River_Elid), south-east of [Menaphos](https://runescape.wikia.com/wiki/Menaphos) and south-west of [Sophanem](https://runescape.wikia.com/wiki/Sophanem).",
             "thumbnail": {
                 "url": "https://i.imgur.com/Shmagnp.png"
             },
@@ -8527,7 +8599,7 @@ exports.data = {
                 "name": "Cape Info",
                 "icon_url": "https://i.imgur.com/6c6q2iC.png"
             },
-            "description": "[Unholy Crafting](http://runescape.wikia.com/wiki/Unholy_Crafting) is an achievement that requires the player to speak with the Spirit of Scorpius after completing the Observatory Quest to unlock the ability to craft the symbols.\n\nThe Spirit of Scorpius is a Zamorakian ghost. He is found south-west of Ardougne in the Scorpius Shrine, due west of the Observatory.",
+            "description": "[Unholy Crafting](http://runescape.wikia.com/wiki/Unholy_Crafting) is an achievement that requires the player to speak with the [Spirit of Scorpius](https://runescape.wikia.com/wiki/Spirit_of_Scorpius) after completing the [Observatory Quest](https://runescape.wikia.com/wiki/Observatory_Quest) to unlock the ability to craft the [symbols](https://runescape.wikia.com/wiki/Unholy_symbol).\n\nThe Spirit of Scorpius is a [Zamorakian](https://runescape.wikia.com/wiki/Zamorak#Followers_of_Zamorak) ghost. He is found south-west of [Ardougne](https://runescape.wikia.com/wiki/Ardougne) in the [Scorpius Shrine](https://runescape.wikia.com/wiki/Shrine_of_Scorpius), due west of the [Observatory](https://runescape.wikia.com/wiki/Observatory).",
             "thumbnail": {
                 "url": "https://i.imgur.com/Shmagnp.png"
             },
@@ -8551,7 +8623,7 @@ exports.data = {
                 "name": "Cape Info",
                 "icon_url": "https://i.imgur.com/6c6q2iC.png"
             },
-            "description": "[Uzer Master](http://runescape.wikia.com/wiki/Uzer_Master) is an achievement that requires the player to clear the shortcut found in the Uzer Mastaba, going from the ground floor to the floor with the small scarabs after Missing My Mummy.\n\nUzer Mastaba is the name given to a flat-topped pyramid just south of Uzer.",
+            "description": "[Uzer Master](http://runescape.wikia.com/wiki/Uzer_Master) is an achievement that requires the player to clear the shortcut found in the [Uzer Mastaba](https://runescape.wikia.com/wiki/Uzer_Mastaba), going from the ground floor to the floor with the [small scarabs](https://runescape.wikia.com/wiki/Small_scarab) after [Missing My Mummy](https://runescape.wikia.com/wiki/Missing_My_Mummy).\n\nUzer Mastaba is the name given to a flat-topped pyramid just south of [Uzer](https://runescape.wikia.com/wiki/Uzer).",
             "thumbnail": {
                 "url": "https://i.imgur.com/Shmagnp.png"
             },
@@ -8562,7 +8634,7 @@ exports.data = {
                 },
                 {
                   "name": "Guide:",
-                  "value": "[Uzer Mastaba guide | Runescape Wiki](http://runescape.wikia.com/wiki/Map:Uzer_Mastaba)"
+                  "value": "[Uzer Mastaba Guide | Runescape Wiki](http://runescape.wikia.com/wiki/Map:Uzer_Mastaba)"
                 }
             ],
             "footer": {
@@ -8651,7 +8723,7 @@ exports.data = {
                 "name": "Cape Info",
                 "icon_url": "https://i.imgur.com/6c6q2iC.png"
             },
-            "description": "[White Knight Rises](http://runescape.wikia.com/wiki/White_Knight_Rises) is an achievement that requires the player to obtain the White Knight rank of Master by killing 1,300 black knights or 130 Elite Black Knights.\n\nThe best location to complete this task would be in Taverley Dungeon at the very south of the dungeon. Setting up a Dwarf multicannon while using area of effect abilities makes completing this task very quick.",
+            "description": "[White Knight Rises](http://runescape.wikia.com/wiki/White_Knight_Rises) is an achievement that requires the player to obtain the [White Knight rank](https://runescape.wikia.com/wiki/White_equipment#Ranks_and_equipment) of Master by killing 1,300 [Black Knights](https://runescape.wikia.com/wiki/Black_Knight) or 130 [Elite Black Knights](https://runescape.wikia.com/wiki/Elite_Black_Knight).\n\nThe best location to complete this task would be in [Taverley Dungeon](https://runescape.wikia.com/wiki/Taverley_Dungeon) at the very south of the dungeon. Setting up a [Dwarf multicannon](https://runescape.wikia.com/wiki/Dwarf_multicannon) while using area of effect [abilities](https://runescape.wikia.com/wiki/Abilities) makes completing this task very quick.\n\nAlternatively, players may kill Elite Black Knights as they count as 12 normal black knight kills, and they are relatively fast to kill, but require more attention.",
             "thumbnail": {
                 "url": "https://i.imgur.com/Shmagnp.png"
             },
@@ -8775,18 +8847,42 @@ exports.data = {
                 "name": "Cape Info",
                 "icon_url": "https://i.imgur.com/6c6q2iC.png"
             },
-            "description": "[Work for Idol Hands](http://runescape.wikia.com/wiki/Work_for_Idol_Hands) is an achievement that requires the player to hand in all the demon statuettes from the Lumbridge Catacombs. They are sold to Xenia after completing The Blood Pact, or Ilona if Heart of Stone is completed.\n\nXenia can be found in the Lumbridge cemetery. Ilona can be found in the Lumbridge Catacombs.",
+            "description": "[Work for Idol Hands](http://runescape.wikia.com/wiki/Work_for_Idol_Hands) is an achievement that requires the player to hand in all the demon statuettes from the [Lumbridge Catacombs](https://runescape.wikia.com/wiki/Lumbridge_Catacombs). The entrance to the catacombs are located in [Lumbridge cemetery](https://runescape.wikia.com/wiki/Lumbridge_cemetery). They are sold to [Xenia](https://runescape.wikia.com/wiki/Xenia) after completing [The Blood Pact](https://runescape.wikia.com/wiki/The_Blood_Pact), or [Ilona](https://runescape.wikia.com/wiki/Ilona) if [Heart of Stone](https://runescape.wikia.com/wiki/Heart_of_Stone) is completed.\n\nXenia can be found in the Lumbridge cemetery.\n\nIlona can be found in the Lumbridge Catacombs.",
             "thumbnail": {
                 "url": "https://i.imgur.com/Shmagnp.png"
             },
             "fields": [
+                {
+                    "name": "Statues and Locations:",
+                    "value": "• [Jade demon statuette](https://runescape.wikia.com/wiki/Jade_demon_statuette)\n• **Location:** Found on its plinth that is located near the [Warped flies](https://runescape.wikia.com/wiki/Warped_fly)"
+                },
+                {
+                    "name": "​",
+                    "value": "• [Topaz demon statuette](https://runescape.wikia.com/wiki/Topaz_demon_statuette)\n• **Location:** Found on a plinth near the [Skeletons](https://runescape.wikia.com/wiki/Skeleton_(Lumbridge_Catacombs)"
+                },
+                {
+                    "name": "​",
+                    "value": "• [Sapphire demon statuette](https://runescape.wikia.com/wiki/Sapphire_demon_statuette)\n• **Location:** Found on a plinth near the [Corpse archer](https://runescape.wikia.com/wiki/Corpse_archer)"
+                },
+                {
+                    "name": "​",
+                    "value": "• [Emerald demon statuette](https://runescape.wikia.com/wiki/Emerald_demon_statuette)\n• **Location:** Found on a plinth near the [Skoblins](https://runescape.wikia.com/wiki/Skoblin)"
+                },
+                {
+                    "name": "​",
+                    "value": "• [Ruby demon statuette](https://runescape.wikia.com/wiki/Ruby_demon_statuette)\n• **Location:** Found on a plinth near the [Corpse mages](https://runescape.wikia.com/wiki/Corpse_mage)"
+                },
+                {
+                    "name": "​",
+                    "value": "• [Diamond demon statuette](https://runescape.wikia.com/wiki/Diamond_demon_statuette)\n• **Location:** Found in the final room of the Lumbridge Catacombs"
+                },
                 {
                     "name": "Requirements:",
                     "value": "• The Blood Pact Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Blood_Pact)"
                 },
                 {
                   "name": "Guide:",
-                  "value": "[Lumbridge Catacombs guide | Runescape Wiki](http://runescape.wikia.com/wiki/Map:Lumbridge_Catacombs)"
+                  "value": "[Lumbridge Catacombs Guide | Runescape Wiki](http://runescape.wikia.com/wiki/Map:Lumbridge_Catacombs)"
                 }
             ],
             "footer": {
@@ -8855,6 +8951,30 @@ exports.data = {
 			}
 		}
 	},
+	"you're not my real mah": {
+		"cmds": ["mqc", "trim"],
+		"embed": {
+            "title": "You're Not My Real Mah",
+            "author": {
+                "name": "Cape Info",
+                "icon_url": "https://i.imgur.com/6c6q2iC.png"
+            },
+            "description": "[You're Not My Real Mah](http://runescape.wikia.com/wiki/You%27re_Not_My_Real_Mah) is an achievement that requires the player to hand in a total of one hundred [elder chronicles](https://runescape.wikia.com/wiki/Elder_chronicle_(item), 10 chronicles for each memory, at [Orla Fairweather](https://runescape.wikia.com/wiki/Orla_Fairweather) or [Guthix's shrine](https://runescape.wikia.com/wiki/Guthix%27s_Cave).\n\nElder chronicles are memory fragments gathered by harvesting from [elder wisps](https://runescape.wikia.com/wiki/Elder_wisp) within [Freneskae](https://runescape.wikia.com/wiki/Freneskae). They are akin to [chronicle fragments](https://runescape.wikia.com/wiki/Chronicle_fragment) in that they may spawn randomly from an elder spring and grant Hunter experience based on the player's level when collected.\n\nYou can speed this requirement up by asking a friend to train divination at elder wisps within Freneskae and allow you to capture their spawned elder chronicles.\n\nIf a player is also yet to complete the [Mahjarrat Memories](https://runescape.wikia.com/wiki/Mahjarrat_Memories) miniquest / [Memoirs of a Mahjarrat](https://runescape.wikia.com/wiki/Memoirs_of_a_Mahjarrat) achievement and plans on doing so in the future, it may be **extremely** beneficial to gather the required memories with an [engrammeter](https://runescape.wikia.com/wiki/Engrammeter) in your inventory. This effectively completes both requirements at the same time.",
+            "thumbnail": {
+                "url": "https://i.imgur.com/Shmagnp.png"
+            },
+            "fields": [
+                {
+                    "name": "Requirements:",
+                    "value": "• Fate of the Gods Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Fate_of_the_Gods)"
+                }
+            ],
+            "footer": {
+                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+                "text": "Runescore awarded: 25"
+            }
+        }
+	},
 	"you be dead": {
 		"cmds": ["comp", "mqc"],
 		"embed": {
@@ -8911,7 +9031,7 @@ exports.data = {
                 "name": "Cape Info",
                 "icon_url": "https://i.imgur.com/6c6q2iC.png"
             },
-            "description": "[You Mistag This Brooch](http://runescape.wikia.com/wiki/You_Mistag_This_Brooch) is an achievement that requires the player to find Mistag's brooch behind the secret entrance in Lumbridge cellar and return it to him at the entrace to Dorgesh-Kaan mine.\n\nPlayers can find it at the first fork of the Lumbridge Castle cellar caves, heading towards the Dorgeshuun Mines. It does not have a respawn time—it immediately appears on the ground right after one is taken.\n\nAfter The Lost Tribe Quest completion, the brooch can be given to Mistag in exchange for a mining helmet.",
+            "description": "[You Mistag This Brooch](http://runescape.wikia.com/wiki/You_Mistag_This_Brooch) is an achievement that requires the player to find [Mistag](https://runescape.wikia.com/wiki/Mistag)'s [brooch](https://runescape.wikia.com/wiki/Brooch_(The_Lost_Tribe) behind the secret entrance in [Lumbridge](https://runescape.wikia.com/wiki/Lumbridge) cellar and return it to him at the entrace to [Dorgesh-Kaan mine](https://runescape.wikia.com/wiki/Dorgesh-Kaan_mine).\n\nPlayers can find it at the first fork of the [Lumbridge Castle](https://runescape.wikia.com/wiki/Lumbridge_Castle) cellar caves, heading towards the Dorgeshuun Mines. It does not have a respawn time, it immediately appears on the ground right after one is taken.",
             "thumbnail": {
                 "url": "https://i.imgur.com/Shmagnp.png"
             },
@@ -8919,39 +9039,11 @@ exports.data = {
                 {
                     "name": "Requirements:",
                     "value": "• The Lost Tribe Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Lost_Tribe)"
-                },
-                {
-                  "name": "Guide:",
-                  "value": "[Lumbridge Catacombs guide | Runescape Wiki](http://runescape.wikia.com/wiki/Map:Lumbridge_Catacombs)"
                 }
             ],
             "footer": {
                 "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
                 "text": "Runescore awarded: 10"
-            }
-        }
-	},
-	"you're not my real mah": {
-		"cmds": ["mqc", "trim"],
-		"embed": {
-            "title": "You're Not My Real Mah",
-            "author": {
-                "name": "Cape Info",
-                "icon_url": "https://i.imgur.com/6c6q2iC.png"
-            },
-            "description": "[You're Not My Real Mah](http://runescape.wikia.com/wiki/You%27re_Not_My_Real_Mah) is an achievement that requires the player to hand in a total of one hundred elder chronicles (10 chronicles for each memory) at Orla Fairweather or Guthix's shrine.\n\nElder chronicles are memory fragments gathered by harvesting from elder wisps within Freneskae. They are akin to chronicle fragments in that they may spawn randomly from an elder spring and grant Hunter experience based on the player's level when collected.\n\nYou can speed this requirement up by asking a friend to train divination at elder wisps within Freneskae and allow you to capture their spawned elder chronicles.\n\nIf a player is also yet to complete the Memoirs of a Mahjarrat achievement and plans on doing so in the future, it may be beneficial to gather the required memories in the Elder Halls so they can also begin obtaining Elder chronicles. This effectively completes both requirements at the same time.",
-            "thumbnail": {
-                "url": "https://i.imgur.com/Shmagnp.png"
-            },
-            "fields": [
-                {
-                    "name": "Requirements:",
-                    "value": "• Fate of the Gods Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Fate_of_the_Gods)"
-                }
-            ],
-            "footer": {
-                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-                "text": "Runescore awarded: 25"
             }
         }
 	},
