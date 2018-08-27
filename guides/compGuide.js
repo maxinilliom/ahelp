@@ -8085,7 +8085,7 @@ exports.data = {
 				{
 					"name": "Requirements:",
 					"value": "• Impressing the Locals Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Impressing_the_Locals)"
-				}
+				},
 				{
         			"name": "Guide:",
         			"value": "[A map showing all notes locations | Runescape Wiki](https://vignette.wikia.nocookie.net/runescape2/images/d/d6/Temple_of_Aminishi_map.png/revision/latest?cb=20180701160746)"
