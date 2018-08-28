@@ -68,7 +68,7 @@ exports.data = {
 				},
 				{
 					"name": "Guide:",
-					"value": "[Rebuilding Edgeville Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Rebuilding_Edgeville)"
+					"value": "• [Rebuilding Edgeville Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Rebuilding_Edgeville)"
 				}
 			],
 			"footer": {
@@ -116,7 +116,7 @@ exports.data = {
 				},
 				{
 					"name": "Guide:",
-					"value": "[Abyss Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Abyss_(miniquest%29)"
+					"value": "• [Abyss Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Abyss_(miniquest%29)"
 				}
 			],
 			"footer": {
@@ -133,7 +133,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Advanced Sweeping](http://runescape.wikia.com/wiki/Advanced_Sweeping) is an achievement that requires the player to fully enchant the [Broomstick](http://runescape.wikia.com/wiki/Broomstick) by bringing it to various magic users around the world. Temporary boosts, such as a [Magic potion](http://runescape.wikia.com/wiki/Magic_potion), can be used to reach the requirements, but the [God Emissary banner](http://runescape.wikia.com/wiki/God_banner) boost does not work as a boost for these requirements.\n\nWhen attempting to visit [Kardia](http://runescape.wikia.com/wiki/Kardia) in the [Underground Pass](http://runescape.wikia.com/wiki/Underground_Pass_(dungeon%29), do not attempt to go into her house directly as she will hit the player with a damaging spell. Instead, pick up the [Witch's cat](http://runescape.wikia.com/wiki/Witch's_cat) from a platform to the north-west and use it on her door. It will then be possible to enter her house; use the broomstick with Kardia to get it enchanted.\n\nNPC: [Apprentice](http://runescape.wikia.com/wiki/Apprentice)\n• Location: [Al Kharid](http://runescape.wikia.com/wiki/Al_Kharid)\n• Magic Level Required: 1\n\nNPC: [Ali the Hag](http://runescape.wikia.com/wiki/Ali_the_Hag)\n• Location: [Pollnivneach](http://runescape.wikia.com/wiki/Pollnivneach)\n• Magic Level Required: 33\n\nNPC: [Old crone](http://runescape.wikia.com/wiki/Old_crone)\n• Location: East of the [Slayer Tower](http://runescape.wikia.com/wiki/Slayer_Tower)\n• Magic Level Required: 53\n\nNPC: [Baba Yaga](http://runescape.wikia.com/wiki/Baba_Yaga)\n• Location: [Lunar Isle](http://runescape.wikia.com/wiki/Lunar_Isle)\n• Magic Level Required: 73\n\nNPC: [Kardia](http://runescape.wikia.com/wiki/Kardia)\n• Location: [Underground Pass](http://runescape.wikia.com/wiki/Underground_Pass_(dungeon%29)\n• Magic Level Required: 93",
+			"description": "[Advanced Sweeping](http://runescape.wikia.com/wiki/Advanced_Sweeping) is an achievement that requires the player to fully enchant the [Broomstick](http://runescape.wikia.com/wiki/Broomstick) by bringing it to various magic users around the world. [Temporary boosts](https://runescape.wikia.com/wiki/Temporary_skill_boost), such as a [Magic potion](http://runescape.wikia.com/wiki/Magic_potion), can be used to reach the requirements, but the [God Emissary banner](http://runescape.wikia.com/wiki/God_banner) boost does not work as a boost for these requirements.\n\nWhen attempting to visit [Kardia](http://runescape.wikia.com/wiki/Kardia) in the [Underground Pass](http://runescape.wikia.com/wiki/Underground_Pass_(dungeon%29), do not attempt to go into her house directly as she will hit the player with a damaging spell. Instead, pick up the [Witch's cat](http://runescape.wikia.com/wiki/Witch's_cat) from a platform to the north-west and use it on her door. It will then be possible to enter her house; use the broomstick with Kardia to get it enchanted.\n\nNPC: [Apprentice](http://runescape.wikia.com/wiki/Apprentice)\n• Location: [Al Kharid](http://runescape.wikia.com/wiki/Al_Kharid)\n• Magic Level Required: 1\n\nNPC: [Ali the Hag](http://runescape.wikia.com/wiki/Ali_the_Hag)\n• Location: [Pollnivneach](http://runescape.wikia.com/wiki/Pollnivneach)\n• Magic Level Required: 33\n\nNPC: [Old crone](http://runescape.wikia.com/wiki/Old_crone)\n• Location: East of the [Slayer Tower](http://runescape.wikia.com/wiki/Slayer_Tower)\n• Magic Level Required: 53\n\nNPC: [Baba Yaga](http://runescape.wikia.com/wiki/Baba_Yaga)\n• Location: [Lunar Isle](http://runescape.wikia.com/wiki/Lunar_Isle)\n• Magic Level Required: 73\n\nNPC: [Kardia](http://runescape.wikia.com/wiki/Kardia)\n• Location: [Underground Pass](http://runescape.wikia.com/wiki/Underground_Pass_(dungeon%29)\n• Magic Level Required: 93",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -144,7 +144,7 @@ exports.data = {
 				},
 				{
 					"name": "Guide:",
-					"value": "[Advanced Sweeping Achievement Guide | Runescape Wiki](http://runescape.wikia.com/wiki/Advanced_Sweeping)"
+					"value": "• [Advanced Sweeping Achievement Guide | Runescape Wiki](http://runescape.wikia.com/wiki/Advanced_Sweeping)"
 				}
 			],
 			"footer": {
@@ -192,7 +192,7 @@ exports.data = {
 				},
 				{
 					"name": "Guide:",
-					"value": "[The Restless Ghost Quest guide | Runescape Wiki](http://runescape.wikia.com/wiki/The_Restless_Ghost)"
+					"value": "• [The Restless Ghost Quest guide | Runescape Wiki](http://runescape.wikia.com/wiki/The_Restless_Ghost)"
 				}
 			],
 			"footer": {
@@ -209,7 +209,7 @@ exports.data = {
                 "name": "Trimmed Completionist Cape Info",
                 "icon_url": "https://i.imgur.com/6c6q2iC.png"
             },
-            "description": "[Agile from Head to Toe](https://runescape.wikia.com/wiki/Agile_from_Head_to_Toe) is an achievement that requires the player to get the [Agile Top](https://runescape.wikia.com/wiki/Agile_top) and [Legs](https://runescape.wikia.com/wiki/Agile_legs). They each require 250 completed laps of the [Advanced Barbarian Outpost](https://runescape.wikia.com/wiki/Barbarian_Outpost) and [Advanced Gnome Stronghold agility course](https://runescape.wikia.com/wiki/Gnome_Stronghold_Agility_Course) respectively.",
+            "description": "[Agile from Head to Toe](https://runescape.wikia.com/wiki/Agile_from_Head_to_Toe) is an achievement that requires the player to get the [Agile Top](https://runescape.wikia.com/wiki/Agile_top) and [Legs](https://runescape.wikia.com/wiki/Agile_legs). They each require 250 completed laps of the [Advanced Barbarian Outpost](https://runescape.wikia.com/wiki/Barbarian_Outpost) and [Advanced Gnome Stronghold agility course](https://runescape.wikia.com/wiki/Gnome_Stronghold_Agility_Course) respectively.\n\nThe Barbarian Outpost is located north-east of [Baxtorian Falls](https://runescape.wikia.com/wiki/Baxtorian_Falls) and north of the [Tree Gnome Stronghold](https://runescape.wikia.com/wiki/Tree_Gnome_Stronghold). Players can easily get there by utilizing the [games necklace](https://runescape.wikia.com/wiki/Games_necklace) teleport. Once the laps have been successfully completed, players can speak to [Gunnjorn](https://runescape.wikia.com/wiki/Gunnjorn), located near the course, to claim the agile top. \n\nThe Gnome Stronghold agility course is located south-east of the [Grand Tree](https://runescape.wikia.com/wiki/Grand_Tree) in the [Tree Gnome Stronghold](https://runescape.wikia.com/wiki/Tree_Gnome_Stronghold), which is north-west of [East Ardougne](https://runescape.wikia.com/wiki/East_Ardougne). Players can easily get there by utilizing the [Spirit Tree](https://runescape.wikia.com/wiki/Spirit_tree) teleportation. Once the laps have been successfully completed, players can speak to the [Gnome trainer](https://runescape.wikia.com/wiki/Gnome_trainer), located near the course, to claim the agile legs.",
             "thumbnail": {
                 "url": "https://i.imgur.com/Shmagnp.png"
             },
@@ -264,7 +264,7 @@ exports.data = {
 				},
 				{
 					"name": "Guide:",
-					"value": "[Rogue Trader Miniquest Guide | Runescape Wiki](http://runescape.wikia.com/wiki/Rogue_Trader)"
+					"value": "• [Rogue Trader Miniquest Guide | Runescape Wiki](http://runescape.wikia.com/wiki/Rogue_Trader)"
 				}
 			],
 			"footer": {
@@ -281,7 +281,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[All Rise](http://runescape.wikia.com/wiki/All_Rise) is an achievement that requires the player to complete all sixteen [Court Cases](http://runescape.wikia.com/wiki/Court_Cases).\n\nCourt Cases are a [Distraction and Diversion](https://runescape.wikia.com/wiki/Distractions_and_Diversions) that is accessible after completing the [King's Ransom](https://runescape.wikia.com/wiki/King%27s_Ransom) quest. Players also require 65 Attack if they wish to prosecute, or 65 Defence to defend during the case. The first court case can be tackled for free, but players must obtain a [court summons](https://runescape.wikia.com/wiki/Court_summons) to attempt court cases thereafter.\n\nNote that if you have the [Dwarven Instinct Aura](http://runescape.wikia.com/wiki/Dwarven_instinct_aura) from the 2015 [Premier club](http://runescape.wikia.com/wiki/Premier_Club), you are almost guarenteed one court case per day through its activation. Other methods of obtaining include: [Monster](http://runescape.wikia.com/wiki/Monster) drops, [Pickpocketing](http://runescape.wikia.com/wiki/Thieving#Pickpocketing), as a drop from [Caskets](http://runescape.wikia.com/wiki/Casket), as a reward from hard or elite [Clue scrolls](http://runescape.wikia.com/wiki/Clue_scroll), and as a reward from the [Giant Oyster](http://runescape.wikia.com/wiki/Giant_Oyster).",
+			"description": "[All Rise](http://runescape.wikia.com/wiki/All_Rise) is an achievement that requires the player to complete all sixteen [Court Cases](http://runescape.wikia.com/wiki/Court_Cases).\n\nCourt Cases are a [Distraction and Diversion](https://runescape.wikia.com/wiki/Distractions_and_Diversions) that is accessible after completing the [King's Ransom](https://runescape.wikia.com/wiki/King%27s_Ransom) quest. Players also require 65 Attack if they wish to prosecute, or 65 Defence to defend during the case. The first court case can be tackled for free, but players must obtain a [court summons](https://runescape.wikia.com/wiki/Court_summons) to attempt court cases thereafter.\n\nNote that if you have the [Dwarven Instinct Aura](http://runescape.wikia.com/wiki/Dwarven_instinct_aura) from the 2015 [Premier club](http://runescape.wikia.com/wiki/Premier_Club), you are almost guarenteed one court case per day through its activation. Other methods of obtaining include: [Monster](http://runescape.wikia.com/wiki/Monster) drops, [Pickpocketing](http://runescape.wikia.com/wiki/Thieving#Pickpocketing), as a drop from [Caskets](http://runescape.wikia.com/wiki/Casket), as a reward from hard or elite [Clue scrolls](http://runescape.wikia.com/wiki/Clue_scroll), and as a reward from the [Giant Oyster](http://runescape.wikia.com/wiki/Giant_Oyster). If you do not have the Dwarven Instinct Aura, buying caskets from the [Grand Exchange](https://runescape.wikia.com/wiki/Grand_Exchange) is the next best option. ",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -296,7 +296,7 @@ exports.data = {
 				},
 				{
 					"name": "Requirements:",
-					"value": "• 65 Attack or Defense\n\n• King's Ransom Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/King%27s_Ransom)"
+					"value": "• 65 Attack **or** Defense\n\n• King's Ransom Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/King%27s_Ransom)"
 				}
 			],
 			"footer": {
@@ -324,7 +324,7 @@ exports.data = {
 				},
 				{
 					"name": "Guide:",
-					"value": "[Prawnbroker Prawn Perks | Runescape Wiki](http://runescape.wikia.com/wiki/Prawnbroker#Prawn_Perks)"
+					"value": "• [Prawnbroker Prawn Perks | Runescape Wiki](http://runescape.wikia.com/wiki/Prawnbroker#Prawn_Perks)"
 				}
 			],
 			"footer": {
@@ -380,7 +380,7 @@ exports.data = {
 				},
 				{
 					"name": "Guide:",
-					"value": "[2017 Annihilator Title Guide | Dexxon - YouTube](https://www.youtube.com/watch?v=nBnUNIITVC8)"
+					"value": "• [2017 Annihilator Title Guide | Dexxon - YouTube](https://www.youtube.com/watch?v=nBnUNIITVC8)"
 				}
 			],
 			"footer": {
@@ -424,7 +424,7 @@ exports.data = {
         		},
         		{
 					"name": "Guide:",
-					"value": "[Ernest the Chicken Quest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Abyss_(miniquest%29)"
+					"value": "• [Ernest the Chicken Quest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Abyss_(miniquest%29)"
 				}
 			],
 			"footer": {
@@ -476,7 +476,7 @@ exports.data = {
                 },
                 {
                     "name": "Guides:",
-                    "value": "• The best way to gather large amounts of taijitu is to repeatedly go on long voyages and look for treasure chests and taijitu on the ground.\n• [Farming Chimes on the Arc | Maikeru RS - YouTube](https://www.youtube.com/watch?v=zRs1QtGzv5o)"
+                    "value": "• The best way to gather large amounts of taijitu is to repeatedly go on long voyages and look for treasure chests and taijitu on the ground.\n\n• [Farming Chimes on the Arc | Maikeru RS - YouTube](https://www.youtube.com/watch?v=zRs1QtGzv5o)"
                 }
             ],
             "footer": {
@@ -524,11 +524,11 @@ exports.data = {
             "fields": [
                 {
                     "name": "Requirements:",
-                    "value": "• 25 Dungeoneering \n\n• Impressing the Locals Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Impressing_the_Locals)\n• Own a bonecrusher from the [Dungeoneering Reward Shop](https://runescape.wikia.com/wiki/Marmaros)"
+                    "value": "• 25 Dungeoneering \n\n• Impressing the Locals Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Impressing_the_Locals)\n\n• Own a bonecrusher from the [Dungeoneering Reward Shop](https://runescape.wikia.com/wiki/Marmaros)"
                 },
                 {
                     "name": "Guides:",
-                    "value": "• The best way to gather large amounts of taijitu is to repeatedly go on long voyages and look for treasure chests and taijitu on the ground.\n• [Farming Chimes on the Arc | Maikeru RS - YouTube](https://www.youtube.com/watch?v=zRs1QtGzv5o)"
+                    "value": "• The best way to gather large amounts of taijitu is to repeatedly go on long voyages and look for treasure chests and taijitu on the ground.\n\n• [Farming Chimes on the Arc | Maikeru RS - YouTube](https://www.youtube.com/watch?v=zRs1QtGzv5o)"
                 }
             ],
             "footer": {
@@ -556,7 +556,7 @@ exports.data = {
                 },
                 {
                     "name": "Guides:",
-                    "value": "• The best way to gather large amounts of taijitu is to repeatedly go on long voyages and look for treasure chests and taijitu on the ground.\n• [Farming Chimes on the Arc | Maikeru RS - YouTube](https://www.youtube.com/watch?v=zRs1QtGzv5o)"
+                    "value": "• The best way to gather large amounts of taijitu is to repeatedly go on long voyages and look for treasure chests and taijitu on the ground.\n\n• [Farming Chimes on the Arc | Maikeru RS - YouTube](https://www.youtube.com/watch?v=zRs1QtGzv5o)"
                 }
             ],
             "footer": {
@@ -580,11 +580,11 @@ exports.data = {
             "fields": [
                 {
                     "name": "Requirements:",
-                    "value": "• Impressing the Locals Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Impressing_the_Locals)\n• Unlock the scrolls for the [Death Lotus](https://runescape.wikia.com/wiki/Death_Lotus_equipment) hood, chestplate, and chaps in the [Player-owned port](https://runescape.wikia.com/wiki/Player-owned_port)."
+                    "value": "• Impressing the Locals Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Impressing_the_Locals)\n\n• Unlock the scrolls for the [Death Lotus](https://runescape.wikia.com/wiki/Death_Lotus_equipment) hood, chestplate, and chaps in the [Player-owned port](https://runescape.wikia.com/wiki/Player-owned_port)."
                 },
                 {
                     "name": "Guides:",
-                    "value": "• The best way to gather large amounts of taijitu is to repeatedly go on long voyages and look for treasure chests and taijitu on the ground.\n• [Farming Chimes on the Arc | Maikeru RS - YouTube](https://www.youtube.com/watch?v=zRs1QtGzv5o)"
+                    "value": "• The best way to gather large amounts of taijitu is to repeatedly go on long voyages and look for treasure chests and taijitu on the ground.\n\n• [Farming Chimes on the Arc | Maikeru RS - YouTube](https://www.youtube.com/watch?v=zRs1QtGzv5o)"
                 }
             ],
             "footer": {
@@ -608,11 +608,11 @@ exports.data = {
             "fields": [
                 {
                     "name": "Requirements:",
-                    "value": "• Impressing the Locals Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Impressing_the_Locals)\n• Unlock the scrolls for the [Seasinger](https://runescape.wikia.com/wiki/Seasinger's_equipment) hood, robe top, and robe bottom in the [Player-owned port](https://runescape.wikia.com/wiki/Player-owned_port)."
+                    "value": "• Impressing the Locals Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Impressing_the_Locals)\n\n• Unlock the scrolls for the [Seasinger](https://runescape.wikia.com/wiki/Seasinger's_equipment) hood, robe top, and robe bottom in the [Player-owned port](https://runescape.wikia.com/wiki/Player-owned_port)."
                 },
                 {
                     "name": "Guides:",
-                    "value": "• The best way to gather large amounts of taijitu is to repeatedly go on long voyages and look for treasure chests and taijitu on the ground.\n• [Farming Chimes on the Arc | Maikeru RS - YouTube](https://www.youtube.com/watch?v=zRs1QtGzv5o)"
+                    "value": "• The best way to gather large amounts of taijitu is to repeatedly go on long voyages and look for treasure chests and taijitu on the ground.\n\n• [Farming Chimes on the Arc | Maikeru RS - YouTube](https://www.youtube.com/watch?v=zRs1QtGzv5o)"
                 }
             ],
             "footer": {
@@ -636,11 +636,11 @@ exports.data = {
             "fields": [
                 {
                     "name": "Requirements:",
-                    "value": "• Impressing the Locals Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Impressing_the_Locals)\n• Unlock the scrolls for the [Tetsu](https://runescape.wikia.com/wiki/Tetsu_equipment) helm, body, and platelegs in the [Player-owned port](https://runescape.wikia.com/wiki/Player-owned_port)."
+                    "value": "• Impressing the Locals Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Impressing_the_Locals)\n\n• Unlock the scrolls for the [Tetsu](https://runescape.wikia.com/wiki/Tetsu_equipment) helm, body, and platelegs in the [Player-owned port](https://runescape.wikia.com/wiki/Player-owned_port)."
                 },
                 {
                     "name": "Guide:",
-                    "value": "• The best way to gather large amounts of taijitu is to repeatedly go on long voyages and look for treasure chests and taijitu on the ground.\n• [Farming Chimes on the Arc | Maikeru RS - YouTube](https://www.youtube.com/watch?v=zRs1QtGzv5o)"
+                    "value": "• The best way to gather large amounts of taijitu is to repeatedly go on long voyages and look for treasure chests and taijitu on the ground.\n\n• [Farming Chimes on the Arc | Maikeru RS - YouTube](https://www.youtube.com/watch?v=zRs1QtGzv5o)"
                 }
             ],
             "footer": {
@@ -668,7 +668,7 @@ exports.data = {
 				},
         {
             "name": "Guides:",
-            "value": "• The best way to gather large amounts of taijitu is to repeatedly go on long voyages and look for treasure chests and taijitu on the ground.\n• [Farming Chimes on the Arc | Maikeru RS - YouTube](https://www.youtube.com/watch?v=zRs1QtGzv5o)"
+            "value": "• The best way to gather large amounts of taijitu is to repeatedly go on long voyages and look for treasure chests and taijitu on the ground.\n\n• [Farming Chimes on the Arc | Maikeru RS - YouTube](https://www.youtube.com/watch?v=zRs1QtGzv5o)"
         }
 			],
 			"footer": {
@@ -696,7 +696,7 @@ exports.data = {
 				},
         {
             "name": "Guides:",
-            "value": "• The best way to gather large amounts of taijitu is to repeatedly go on long voyages and look for treasure chests and taijitu on the ground.\n• [Farming Chimes on the Arc | Maikeru RS - YouTube](https://www.youtube.com/watch?v=zRs1QtGzv5o)"
+            "value": "• The best way to gather large amounts of taijitu is to repeatedly go on long voyages and look for treasure chests and taijitu on the ground.\n\n• [Farming Chimes on the Arc | Maikeru RS - YouTube](https://www.youtube.com/watch?v=zRs1QtGzv5o)"
         }
 			],
 			"footer": {
@@ -744,7 +744,7 @@ exports.data = {
 				},
 				{
 					"name": "Guides:",
-					"value": "• [Arc I - Flag Fall Miniquest Guide | Runescape Wiki](http://runescape.wikia.com/wiki/Flag_Fall)\n• The best way to gather large amounts of taijitu is to repeatedly go on long voyages and look for treasure chests and taijitu on the ground.\n• [Farming Chimes on the Arc | Maikeru RS - YouTube](https://www.youtube.com/watch?v=zRs1QtGzv5o)"
+					"value": "• [Arc I - Flag Fall Miniquest Guide | Runescape Wiki](http://runescape.wikia.com/wiki/Flag_Fall)\n• The best way to gather large amounts of taijitu is to repeatedly go on long voyages and look for treasure chests and taijitu on the ground.\n\n• [Farming Chimes on the Arc | Maikeru RS - YouTube](https://www.youtube.com/watch?v=zRs1QtGzv5o)"
 				}
 			],
 			"footer": {
@@ -792,7 +792,7 @@ exports.data = {
 				},
 				{
 					"name": "Guides:",
-					"value": "[Arc II - Head of the Family Miniquest Guide | Runescape Wiki](http://runescape.wikia.com/wiki/Head_of_the_Family)\n• The best way to gather large amounts of taijitu is to repeatedly go on long voyages and look for treasure chests and taijitu on the ground.\n• [Farming Chimes on the Arc | Maikeru RS - YouTube](https://www.youtube.com/watch?v=zRs1QtGzv5o)"
+					"value": "[Arc II - Head of the Family Miniquest Guide | Runescape Wiki](http://runescape.wikia.com/wiki/Head_of_the_Family)\n• The best way to gather large amounts of taijitu is to repeatedly go on long voyages and look for treasure chests and taijitu on the ground.\n\n• [Farming Chimes on the Arc | Maikeru RS - YouTube](https://www.youtube.com/watch?v=zRs1QtGzv5o)"
 				}
 			],
 			"footer": {
@@ -840,7 +840,7 @@ exports.data = {
 				},
 				{
 					"name": "Guide:",
-					"value": "[Arc III - Spiritual Enlightenment Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Spiritual_Enlightenment)"
+					"value": "• [Arc III - Spiritual Enlightenment Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Spiritual_Enlightenment)"
 				}
 			],
 			"footer": {
@@ -888,7 +888,7 @@ exports.data = {
 				},
 				{
 					"name": "Guides:",
-					"value": "[Arc IV - Jed Hunter Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Jed_Hunter)\n• The best way to gather large amounts of taijitu is to repeatedly go on long voyages and look for treasure chests and taijitu on the ground.\n• [Farming Chimes on the Arc | Maikeru RS - YouTube](https://www.youtube.com/watch?v=zRs1QtGzv5o)"
+					"value": "[Arc IV - Jed Hunter Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Jed_Hunter)\n• The best way to gather large amounts of taijitu is to repeatedly go on long voyages and look for treasure chests and taijitu on the ground.\n\n• [Farming Chimes on the Arc | Maikeru RS - YouTube](https://www.youtube.com/watch?v=zRs1QtGzv5o)"
 				}
 			],
 			"footer": {
@@ -936,7 +936,7 @@ exports.data = {
 				},
 				{
 					"name": "Guides:",
-					"value": "[Arc IX - Damage Control Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Damage_Control)\n• The best way to gather large amounts of taijitu is to repeatedly go on long voyages and look for treasure chests and taijitu on the ground.\n• [Farming Chimes on the Arc | Maikeru RS - YouTube](https://www.youtube.com/watch?v=zRs1QtGzv5o)"
+					"value": "[Arc IX - Damage Control Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Damage_Control)\n• The best way to gather large amounts of taijitu is to repeatedly go on long voyages and look for treasure chests and taijitu on the ground.\n\n• [Farming Chimes on the Arc | Maikeru RS - YouTube](https://www.youtube.com/watch?v=zRs1QtGzv5o)"
 				}
 			],
 			"footer": {
@@ -984,7 +984,7 @@ exports.data = {
 				},
 				{
 					"name": "Guide:",
-					"value": "[Arc V - Eye for an Eye Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Eye_for_an_Eye)"
+					"value": "• [Arc V - Eye for an Eye Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Eye_for_an_Eye)"
 				}
 			],
 			"footer": {
@@ -1033,7 +1033,7 @@ exports.data = {
 				},
 				{
 					"name": "Guide:",
-					"value": "[Arc VI - Harbinger of Doom Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Harbinger)"
+					"value": "• [Arc VI - Harbinger of Doom Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Harbinger)"
 				}
 			],
 			"footer": {
@@ -1081,7 +1081,7 @@ exports.data = {
 				},
 				{
 					"name": "Guide:",
-					"value": "[Arc VII - Tuai Leit's Own Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Tuai_Leit%27s_Own)"
+					"value": "• [Arc VII - Tuai Leit's Own Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Tuai_Leit%27s_Own)"
 				}
 			],
 			"footer": {
@@ -1129,7 +1129,7 @@ exports.data = {
 				},
 				{
 					"name": "Guide:",
-					"value": "[Arc VIII - Ghosts from the Past Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Ghosts_from_the_Past)"
+					"value": "• [Arc VIII - Ghosts from the Past Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Ghosts_from_the_Past)"
 				}
 			],
 			"footer": {
@@ -1177,7 +1177,7 @@ exports.data = {
 				},
 				{
 					"name": "Guide:",
-					"value": "[Arc X - Final Destination Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Final_Destination)"
+					"value": "• [Arc X - Final Destination Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Final_Destination)"
 				}
 			],
 			"footer": {
@@ -1205,7 +1205,7 @@ exports.data = {
 				},
 				{
 					"name": "Guide:",
-					"value": "[Apmeken Tomb guide | thebreakercore - Youtube](http://runescape.wikia.com/wiki/Abyss_(miniquest%29)"
+					"value": "• [Apmeken Tomb guide | thebreakercore - Youtube](http://runescape.wikia.com/wiki/Abyss_(miniquest%29)"
 				}
 			],
 			"footer": {
@@ -1241,7 +1241,7 @@ exports.data = {
 				},
 				{
 					"name": "Guide:",
-					"value": "[Phoenix Lair guide | RBH - YouTube](https://www.youtube.com/watch?v=5GT9zUOXAbM)"
+					"value": "• [Phoenix Lair guide | RBH - YouTube](https://www.youtube.com/watch?v=5GT9zUOXAbM)"
 				}
 			],
 			"footer": {
@@ -1258,7 +1258,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Around the World in Six Ways](http://runescape.wikia.com/wiki/Around_the_World_in_Six_Ways) is an achievement that requires the player to go to each destination using the [Balloon transport system](http://runescape.wikia.com/wiki/Balloon_transport_system) after [Enlightened Journey](http://runescape.wikia.com/wiki/Enlightened_Journey).\n\nThe Balloon Transport System or Hot Air Balloon is one of several transportation modes in RuneScape.\n\nAfter completing the Enlightened Journey quest, a player can travel between [Entrana](https://runescape.wikia.com/wiki/Entrana) and [Taverley](https://runescape.wikia.com/wiki/Taverley). To unlock the 4 new routes, a player must first start from Entrana with the required new logs, and navigate successfully through 3 screens to a new destination. Crashing the balloon will result in the loss of the remaining logs, and the need to start again in Entrana with a new set of logs. Once a destination is unlocked, players may travel there from any other unlocked location, using fewer logs, and without navigating the 3 screens.\n\nThe player may not carry over 40 kilograms of weight when using the balloon. You can use [Weight reducing clothing](https://runescape.wikia.com/wiki/Weight-reducing_clothing) to carry what would otherwise weigh more than 40 kg. This weight limit does not include the log used to make the journey.",
+			"description": "[Around the World in Six Ways](http://runescape.wikia.com/wiki/Around_the_World_in_Six_Ways) is an achievement that requires the player to go to each destination using the [Balloon transport system](http://runescape.wikia.com/wiki/Balloon_transport_system) after [Enlightened Journey](http://runescape.wikia.com/wiki/Enlightened_Journey).\n\nThe Balloon Transport System, or Hot Air Balloon system, is one of several transportation modes in RuneScape.\n\nAfter completing the Enlightened Journey quest, a player can travel between [Entrana](https://runescape.wikia.com/wiki/Entrana) and [Taverley](https://runescape.wikia.com/wiki/Taverley). To unlock the 4 new routes, a player must first start from Entrana with the required new logs, and navigate successfully through 3 screens to a new destination. Crashing the balloon will result in the loss of the remaining logs, and the need to start again in Entrana with a new set of logs. Once a destination is unlocked, players may travel there from any other unlocked location, using fewer logs, and without navigating the 3 screens.\n\nThe player may not carry over 40 kilograms of weight when using the balloon. You can use [Weight reducing clothing](https://runescape.wikia.com/wiki/Weight-reducing_clothing) to carry what would otherwise weigh more than 40 kg. This weight limit does not include the log used to make the journey.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -1267,29 +1267,29 @@ exports.data = {
 					"name": "Baloon Locations",
 					"value": "**Destination:** [Entrana](https://runescape.wikia.com/wiki/Entrana)\n\t• **Inititial Trip Cost:** Build balloon (during Quest)\n\t• **NPC:** [Auguste](https://runescape.wikia.com/wiki/Auguste)"
 				},
-        {
+        		{
 					"name": "​",
 					"value": "**Destination:** [Taverley](https://runescape.wikia.com/wiki/Taverley)\n\t• **Inititial Trip Cost:** 10 normal [Logs](http://runescape.wikia.com/wiki/Logs) (during Quest)\n\t• **NPC:** [Assistant Stan](https://runescape.wikia.com/wiki/Assistant_Stan)"
 				},
-        {
+        		{
 					"name": "​",
 					"value": "**Destination:** [Crafting Guild](https://runescape.wikia.com/wiki/Crafting_Guild)\n\t• **Inititial Trip Cost:** 10 [Oak logs](https://runescape.wikia.com/wiki/Oak_logs)\n\t• **NPC:** [Assistant Brock](https://runescape.wikia.com/wiki/Assistant_Brock)"
 				},
-        {
+        		{
 					"name": "​",
 					"value": "**Destination:** [Varrock](https://runescape.wikia.com/wiki/Varrock) - south of [Lumber Yard](https://runescape.wikia.com/wiki/Lumber_Yard) \n\t• **Inititial Trip Cost:** 10 [Willow logs](https://runescape.wikia.com/wiki/Willow_logs)\n\t• **NPC:** [Assistant Serf](https://runescape.wikia.com/wiki/Assistant_Serf)"
 				},
-        {
+        		{
 					"name": "​",
-					"value": "**Destination:** [Castle Wars](https://runescape.wikia.com/wiki/Castle_Wars)\n\t• **Inititial Trip Cost:** 10 [Yew logs](https://runescape.wikia.com/wiki/Yew_logs)\n\t• **NPC:** [Assistant Marrow](https://runescape.wikia.com/wiki/Assistant_Marrow)"
+					"value": "**Destination:** [Castle Wars](https://runescape.wikia.com/wiki/Castle_Wars)\n\t• **Inititial Trip Cost:** 10 [Yew logs](https://runescape.wikia.com/wiki/Yew_logs)\n\t• **NPC:** [Assistant Marrow](https://runescape.wikia.com/wiki/Assistant_Marrow)\n"
 				},
-        {
+        		{
 					"name": "​",
 					"value": "**Destination:** [Grand Tree](https://runescape.wikia.com/wiki/Grand_Tree)\n\t• **Inititial Trip Cost:** 10 [Magic logs](https://runescape.wikia.com/wiki/Magic_logs)\n\t• **NPC:** [Assistant Le Smith](https://runescape.wikia.com/wiki/Assistant_Le_Smith)"
 				},
-        {
+        		{
 					"name": "Balooning:",
-					"value": "• Each control always moves one \"space\" forward (horizontally to the right), and either up, down, or without change in altitude.\n• Drop sandbag: moves up two spaces (UP 2).\n• Burn log: moves up one space (UP 1).\n• Relax: moves forward (right), with no change in altitude (RIGHT).\n• Pull normal rope: moves down one space (DOWN 1).\n• Pull red rope: moves down two spaces (DOWN 2).\n• Bail: bails out the player from the balloon flight. (\"Crashes\" east of [Falador](http://runescape.wikia.com/wiki/Falador) and west of [Draynor Manor](runescape.wikia.com/wiki/Draynor_Manor).)"
+					"value": "• Each control always moves one \"space\" forward (horizontally to the right), and either up, down, or without change in altitude.\n• Drop sandbag: moves up two spaces (UP 2).\n• Burn log: moves up one space (UP 1).\n• Relax: moves forward (right), with no change in altitude (RIGHT).\n• Pull normal rope: moves down one space (DOWN 1).\n• Pull red rope: moves down two spaces (DOWN 2).\n• Bail: bails out the player from the balloon flight. (\"Crashes\" east of [Falador](http://runescape.wikia.com/wiki/Falador) and west of [Draynor Manor](runescape.wikia.com/wiki/Draynor_Manor).)\n"
 				},
 				{
 					"name": "Requirements:",
@@ -1297,7 +1297,7 @@ exports.data = {
 				},
 				{
 					"name": "Guide:",
-					"value": "[Balloon Transport System Miniquest guide | CloudVidz - YouTube](https://www.youtube.com/watch?v=Zozu2woPVrw)"
+					"value": "• [Balloon Transport System Miniquest guide | CloudVidz - YouTube](https://www.youtube.com/watch?v=Zozu2woPVrw)"
 				}
 			],
 			"footer": {
@@ -1421,7 +1421,7 @@ exports.data = {
 				},
 				{
 					"name": "Guide:",
-					"value": "[Yu'biusk (Bandos's Arena) Map | Runescape Wiki](http://runescape.wikia.com/wiki/Map:Yu%27biusk_(Bandos%27s_Arena%29)"
+					"value": "• [Yu'biusk (Bandos's Arena) Map | Runescape Wiki](http://runescape.wikia.com/wiki/Map:Yu%27biusk_(Bandos%27s_Arena%29)"
 				}
 			],
 			"footer": {
@@ -1462,7 +1462,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Banking History](http://runescape.wikia.com/wiki/Banking_History) is an achievement that requires the player to complete the [Enchanted key](http://runescape.wikia.com/wiki/Enchanted_key_(miniquest%29) miniquest\n\nEnchanted key is a two-part miniquest that uses the [Item of the same name](http://runescape.wikia.com/wiki/Enchanted_key) to find hidden treasures after [Making History](https://runescape.wikia.com/wiki/Making_History) and [Meeting History](https://runescape.wikia.com/wiki/Meeting_History). There are 11 treasure sites in each part of the miniquest. The main rewards of the miniquest are the [Guthix mjolnir](https://runescape.wikia.com/wiki/Guthix_mjolnir), [Saradomin mjolnir](https://runescape.wikia.com/wiki/Saradomin_mjolnir), and [Zamorak mjolnir](https://runescape.wikia.com/wiki/Zamorak_mjolnir), which can only be obtained during the miniquest.\n\nThe treasures from Making History must be looted before being able to loot the ones from Meeting History.",
+			"description": "[Banking History](http://runescape.wikia.com/wiki/Banking_History) is an achievement that requires the player to complete the [Enchanted key](http://runescape.wikia.com/wiki/Enchanted_key_(miniquest%29) miniquest.\n\nEnchanted key is a two-part miniquest that uses the [Item of the same name](http://runescape.wikia.com/wiki/Enchanted_key) to find hidden treasures after [Making History](https://runescape.wikia.com/wiki/Making_History) and [Meeting History](https://runescape.wikia.com/wiki/Meeting_History). There are 11 treasure sites in each part of the miniquest. The main rewards of the miniquest are the [Guthix mjolnir](https://runescape.wikia.com/wiki/Guthix_mjolnir), [Saradomin mjolnir](https://runescape.wikia.com/wiki/Saradomin_mjolnir), and [Zamorak mjolnir](https://runescape.wikia.com/wiki/Zamorak_mjolnir), which can only be obtained during the miniquest.\n\nThe treasures from Making History must be looted before being able to loot the ones from Meeting History.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -1493,7 +1493,7 @@ exports.data = {
 				},
 				{
 					"name": "Guide:",
-					"value": "[Enchanted Key Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Enchanted_key_(miniquest%29)"
+					"value": "• [Enchanted Key Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Enchanted_key_(miniquest%29)"
 				}
 			],
 			"footer": {
@@ -1510,7 +1510,7 @@ exports.data = {
                 "name": "Cape Info",
                 "icon_url": "https://i.imgur.com/6c6q2iC.png"
             },
-            "description": "[Barbarian Scavenger](https://runescape.wikia.com/wiki/Barbarian_Scavenger) is an achievement that requires the player to find all 26 [Ancient pages](https://runescape.wikia.com/wiki/Ancient_page) dropped by monsters inside the [Ancient cavern](https://runescape.wikia.com/wiki/Ancient_Cavern). They are part of the book [My notes](https://runescape.wikia.com/wiki/My_notes). Duplicate pages may still be obtained before completion of My notes if rummaging [Barbarian skeletons](http://runescape.wikia.com/wiki/Ancient_Cavern#Rummaging_skeletons). Because they are uncommon drops, My notes will take several hours to complete.",
+            "description": "[Barbarian Scavenger](https://runescape.wikia.com/wiki/Barbarian_Scavenger) is an achievement that requires the player to find all 26 [ancient pages](https://runescape.wikia.com/wiki/Ancient_page) from [rummaging skeletons](https://runescape.wikia.com/wiki/Ancient_Cavern#Rummaging_skeletons) and fighting [monsters](https://runescape.wikia.com/wiki/Ancient_Cavern#Monsters) within the [Ancient Cavern](https://runescape.wikia.com/wiki/Ancient_Cavern).\n\nYou must add the page to [My Notes](https://runescape.wikia.com/wiki/My_notes) before the next can be found. Duplicate pages may still be obtained before completion of My notes if rummaging skeletons. Because they are uncommon drops, My notes will take several hours to complete.\n\nMy notes is a book given during [Barbarian Training](https://runescape.wikia.com/wiki/Barbarian_Training) by [Otto Godblessed](https://runescape.wikia.com/wiki/Otto_Godblessed). He may be found in his house to the south-west of the Ancient Cavern entrance. To reach [Otto's Grotto](https://runescape.wikia.com/wiki/Otto%27s_Grotto), you can teleport to [Barbarian Outpost](https://runescape.wikia.com/wiki/Barbarian_Outpost) using a [Games necklace](https://runescape.wikia.com/wiki/Games_necklace). After teleporting, go south until you reach his house.\n\nThe fastest way to complete this requirement is by killing the [Angry barbarian spirit](https://runescape.wikia.com/wiki/Angry_barbarian_spirit), [Berserk barbarian spirit](https://runescape.wikia.com/wiki/Berserk_barbarian_spirit), and [Enraged barbarian spirit](https://runescape.wikia.com/wiki/Enraged_barbarian_spirit), rummaging the skeletons, and then hopping between worlds and repeating until complete.",
             "thumbnail": {
                 "url": "https://i.imgur.com/Shmagnp.png"
             },
@@ -1520,8 +1520,8 @@ exports.data = {
                     "value": "• Access to the [Ancient Cavern](http://runescape.wikia.com/wiki/Ancient_Cavern)"
                 },
                 {
-                    "name": "Guide:",
-                    "value": "[Ancient Pages - Trim Comp Mini-Guides | Charis - YouTube](https://www.youtube.com/watch?v=A3hzA8ToS4E)"
+					"name": "Guide:",
+					"value": "• [Ancient Pages - Trim Comp Mini-Guides | Charis - YouTube](https://www.youtube.com/watch?v=A3hzA8ToS4E)"
                 }
             ],
             "footer": {
@@ -1583,7 +1583,7 @@ exports.data = {
 				},
 				{
 					"name": "Guide:",
-					"value": "[Big Chinchompa - How To Get 1,111+ Score In A Game! | Rogie - YouTube](https://www.youtube.com/watch?v=ln6DgM7OkBQ)"
+					"value": "• [Big Chinchompa - How To Get 1,111+ Score In A Game! | Rogie - YouTube](https://www.youtube.com/watch?v=ln6DgM7OkBQ)"
 				}
 			],
 			"footer": {
@@ -1871,7 +1871,7 @@ exports.data = {
 				},
 				{
 					"name": "Guide:",
-					"value": "[Broken Home + all challenges under 30 minutes guide | Chrisces - YouTube](https://www.youtube.com/watch?v=lMtEEHKH9Gg)"
+					"value": "• [Broken Home + all challenges under 30 minutes guide | Chrisces - YouTube](https://www.youtube.com/watch?v=lMtEEHKH9Gg)"
 				}
 			],
 			"footer": {
@@ -1912,18 +1912,78 @@ exports.data = {
                 "name": "Cape Info",
                 "icon_url": "https://i.imgur.com/6c6q2iC.png"
             },
-            "description": "[Champions, What Champions?](https://runescape.wikia.com/wiki/Champions,_What_Champions%3F) is an achievement that requires the player to defeat all 15 [Champions](https://runescape.wikia.com/wiki/Champions%27_Challenge) after finding their respective [Scroll](https://runescape.wikia.com/wiki/Champion%27s_scroll).",
+            "description": "[Champions, What Champions?](https://runescape.wikia.com/wiki/Champions,_What_Champions%3F) is an achievement that requires the player to defeat all 15 [Champions](https://runescape.wikia.com/wiki/Champions%27_Challenge) after finding their respective [Scroll](https://runescape.wikia.com/wiki/Champion%27s_scroll).\n\nPlayers may wish to view the the spreadsheet supplied by [Slayer Dungs](https://discord.gg/4ksg37t) FC for [Player Owned Dungeons locations](https://docs.google.com/spreadsheets/d/1NibABxK2xciVmIeuZ2gGEBZPe9NIoi7skprEiEuGBc0/edit#gid=516613908), as these can be the most optimal locations for the slayer related champions ever since the release of [Player-owned dungeons](https://runescape.wikia.com/wiki/Sunken_Pyramid#Slayer_Dungeon).\n\nPlayers should utilize the [Scavenging 2/3](https://runescape.wikia.com/wiki/Scavenging) perk on an [Augmented](https://runescape.wikia.com/wiki/Augmentation) reforged [Sunspear](https://runescape.wikia.com/wiki/Sunspear) in order to gain many invention [materials](https://runescape.wikia.com/wiki/Materials) to help make a profit during this daunting achievement. The sunspear requires [The Lord of Vampyrium](https://runescape.wikia.com/wiki/The_Lord_of_Vampyrium) quest and the reforged sunspear requires the [River of Blood](https://runescape.wikia.com/wiki/River_of_Blood) quest.\n\nThe [Dwarf multicannon](https://runescape.wikia.com/wiki/Dwarf_multicannon), [Oldak coil](https://runescape.wikia.com/wiki/Oldak_coil), or [Kinetic cyclone](https://runescape.wikia.com/wiki/Kinetic_cyclone) and/or [Aggression potions](https://runescape.wikia.com/wiki/Aggression_potion) are very useful in maintaining the mobs agression.",
             "thumbnail": {
                 "url": "https://i.imgur.com/Shmagnp.png"
             },
             "fields": [
                 {
-                    "name": "Requirements:",
-                    "value": "• 60 Slayer Slayer\n\n• 33 Quest Points for access to the [Champions' Guild](https://runescape.wikia.com/wiki/Champions%27_Guild)"
+                    "name": "List of Champion Scrolls:",
+                    "value": "[Imp Champion's scroll](https://runescape.wikia.com/wiki/Imp_Champion%27s_scroll)\n\t• **Monster:** [Imp](https://runescape.wikia.com/wiki/Imp)\n\t• **Location(s):** In the area near [Tower of Life](https://runescape.wikia.com/wiki/Tower_of_Life_(building), the [Zamorak](https://runescape.wikia.com/wiki/Zamorak) Fortress in the [God Wars Dungeon](https://runescape.wikia.com/wiki/God_Wars_Dungeon), around the volcano on [Musa Point](https://runescape.wikia.com/wiki/Musa_Point), and inside the [resource dungeon](https://runescape.wikia.com/wiki/Resource_dungeon) in [Karamja Volcano](https://runescape.wikia.com/wiki/Karamja_Volcano) (requires 25 Dungeoneering and are together with aggressive Lesser Demons.)"
                 },
                 {
-                    "name": "Guide:",
-                    "value": "[Trimmed Completionist Guides - Champion Scrolls! | Teh Proez - YouTube](https://www.youtube.com/watch?v=m_0486aC1gA)\n\n\t• Some of these methods are semi outdated due to the release of the Player-owned dungeons (PODs) for slayer.\n\t• Check this spreadsheet supplied by Slayer Dungs FC for [Player Owned Dungeons locations](https://docs.google.com/spreadsheets/d/1NibABxK2xciVmIeuZ2gGEBZPe9NIoi7skprEiEuGBc0/edit#gid=516613908)\n\t• You can use the 99 or 120 [Dungeoneering capes]( https://runescape.wikia.com/wiki/Dungeoneering_cape) instead of a [Hoardstalker ring]( https://runescape.wikia.com/wiki/Hoardstalker_ring) as their effect works the same."
+                    "name": "​",
+                    "value": "[Goblin Champion's scroll](https://runescape.wikia.com/wiki/Goblin_Champion%27s_scroll)\n\t• **Monster:** [Goblin](https://runescape.wikia.com/wiki/Goblin)\n\t• **Location(s):** In and near the 'Goblin House' in [Lumbridge](https://runescape.wikia.com/wiki/Lumbridge), the [Goblin Village](https://runescape.wikia.com/wiki/Goblin_Village) north of [Falador](https://runescape.wikia.com/wiki/Falador), the [goblin cave](https://runescape.wikia.com/wiki/Goblin_Cave) east of entrance to [Fishing Guild](https://runescape.wikia.com/wiki/Fishing_Guild), God Wars Dungeon, and the [Stronghold of Security](https://runescape.wikia.com/wiki/Stronghold_of_Security)."
+                },
+                {
+                    "name": "​",
+                    "value": "[Skeleton Champion's scroll](https://runescape.wikia.com/wiki/Skeleton_Champion%27s_scroll)\n\t• **Monster:** [Skeleton](https://runescape.wikia.com/wiki/Skeleton)\n\t• **Location(s):** Many dungeons such as [Taverley Dungeon](https://runescape.wikia.com/wiki/Taverley_Dungeon), [Edgeville Dungeon](https://runescape.wikia.com/wiki/Edgeville_Dungeon), and Karamja Volcano. [Lumbridge Catacombs](https://runescape.wikia.com/wiki/Lumbridge_Catacombs) contain many low level skeletons that higher level players can kill in a single hit, for upwards of 3000 kills per hour."
+                },
+                {
+                    "name": "​",
+                    "value": "[Zombie Champion's scroll](https://runescape.wikia.com/wiki/Zombie_Champion%27s_scroll)\n\t• **Monster:** [Zombie](https://runescape.wikia.com/wiki/Zombie)\n\t• **Location(s):** Many dungeons such as [Varrock Sewers](https://runescape.wikia.com/wiki/Varrock_Sewers), and some graveyards such as [West Ardougne](https://runescape.wikia.com/wiki/West_Ardougne) graveyard. [Armoured Zombies](https://runescape.wikia.com/wiki/Armoured_zombie) in the [Chaos Temple Dungeon](https://runescape.wikia.com/wiki/Chaos_Temple_Dungeon) also drop Champion's Scrolls. [Dried zombies](https://runescape.wikia.com/wiki/Dried_zombie) in the [Kharidian Desert](https://runescape.wikia.com/wiki/Kharidian_Desert) are a good alternative for players who prefer to use a cannon. They die and respawn quickly. There are also 8 in a locked cage in the basement of the [Wizard's Guild](https://runescape.wikia.com/wiki/Wizards%27_Guild) in [Yanille](https://runescape.wikia.com/wiki/Yanille). Drops will need to be tele-grabbed."
+                },
+                {
+                    "name": "​",
+                    "value": "[Hobgoblin Champion's scroll](https://runescape.wikia.com/wiki/Hobgoblin_Champion%27s_scroll)\n\t• **Monster:** [Hobgoblin](https://runescape.wikia.com/wiki/Hobgoblin)\n\t• **Location(s):** In the cave beneath [Tree Gnome Village](https://runescape.wikia.com/wiki/Tree_Gnome_Village_(location) maze, at the level 35 [Wilderness](https://runescape.wikia.com/wiki/Wilderness) mine, God Wars Dungeon, and at the peninsula west of the [Crafting Guild](https://runescape.wikia.com/wiki/Crafting_Guild)."
+                },
+                {
+                    "name": "​",
+                    "value": "[Giant Champion's scroll](https://runescape.wikia.com/wiki/Giant_Champion%27s_scroll)\n\t• **Monster:** [Hill giant](https://runescape.wikia.com/wiki/Hill_giant)\n\t• **Location(s):** Edgeville Dungeon, the area south west of the [Tree Gnome Stronghold](https://runescape.wikia.com/wiki/Tree_Gnome_Stronghold), and inside the resource dungeon in Edgeville Dungeon (requires 20 Dungeoneering)."
+                },
+                {
+                    "name": "​",
+                    "value": "[Ghoul Champion's scroll](https://runescape.wikia.com/wiki/Ghoul_Champion%27s_scroll)\n\t• **Monster:** [Ghoul](https://runescape.wikia.com/wiki/Ghoul)\n\t• **Location(s):** South-east of the [Slayer Tower](https://runescape.wikia.com/wiki/Slayer_Tower) in [Morytania](https://runescape.wikia.com/wiki/Morytania), North of the [Canifis](https://runescape.wikia.com/wiki/Canifis) [Lodestone](https://runescape.wikia.com/wiki/Lodestone_Network)."
+                },
+                {
+                    "name": "​",
+                    "value": "[Earth Warrior Champion's scroll](https://runescape.wikia.com/wiki/Earth_Warrior_Champion%27s_scroll)\n\t• **Monster:** [Earth Warrior](https://runescape.wikia.com/wiki/Earth_warrior)\n\t• **Location(s):** In the Wilderness part of the Edgeville Dungeon or in the north-western [Chaos Tunnels](https://runescape.wikia.com/wiki/Chaos_Tunnels)."
+                },
+                {
+                    "name": "​",
+                    "value": "[Jogre Champion's scroll](https://runescape.wikia.com/wiki/Jogre_Champion%27s_scroll)\n\t• **Monster:** [Jogre](https://runescape.wikia.com/wiki/Jogre)\n\t• **Location(s):** Eastern [Karamja](https://runescape.wikia.com/wiki/Karamja) and the Bandos Fortress of the God Wars Dungeon."
+                },
+                {
+                    "name": "​",
+                    "value": "[Lesser Demon Champion's scroll](https://runescape.wikia.com/wiki/Lesser_Demon_Champion%27s_scroll)\n\t• **Monster:** [Lesser Demon](https://runescape.wikia.com/wiki/Lesser_demon)\n\t• **Location(s):** [Crandor and Karamja Dungeon](https://runescape.wikia.com/wiki/Crandor_and_Karamja_Dungeon), inside the resource dungeon in Karamja Volcano (requires 25 Dungeoneering)."
+                },
+                {
+                    "name": "​",
+                    "value": "[Aberrant Spectre Champion's scroll](https://runescape.wikia.com/wiki/Aberrant_Spectre_Champion%27s_scroll)\n\t• **Monster:** [Aberrant Spectre](https://runescape.wikia.com/wiki/Aberrant_spectre)\n\t• **Location(s):** On the first floor of the Slayer Tower in the east rooms, or on the bottom floor of the [Pollnivneach Slayer Dungeon](https://runescape.wikia.com/wiki/Pollnivneach_Slayer_Dungeon)."
+                },
+                {
+                    "name": "​",
+                    "value": "[Banshee Champion's scroll](https://runescape.wikia.com/wiki/Banshee_Champion%27s_scroll)\n\t• **Monster:** [Banshee](https://runescape.wikia.com/wiki/Banshee)\n\t• **Location(s):** On the ground floor of the Slayer Tower, in the east rooms. [Mighty Banshees](https://runescape.wikia.com/wiki/Mighty_banshee) found in the Pollnivneach Slayer Dungeon can also drop the champion's scroll."
+                },
+                {
+                    "name": "​",
+                    "value": "[Mummy Champion's scroll](https://runescape.wikia.com/wiki/Mummy_Champion%27s_scroll)\n\t• **Monster:** [Mummy](https://runescape.wikia.com/wiki/Mummy)\n\t• **Location(s):** [Jaldraocht Pyramid](https://runescape.wikia.com/wiki/Jaldraocht_Pyramid) - the ones that spawn continuously from the walls, have low life points, and can only be killed with fire magic. Also by the [Agility pyramid](https://runescape.wikia.com/wiki/Agility_Pyramid), across the shortcut from the Archaelogists's camp in [Ullek](https://runescape.wikia.com/wiki/Ullek).\n\n"
+                },
+                {
+                    "name": "​Champions of Champions",
+                    "value": "[Human](https://runescape.wikia.com/wiki/Human)\n\t• **Name:** [Leon d'Cour](https://runescape.wikia.com/wiki/Leon_d%27Cour)\n\t• **Location(s):** There is no human champion's scroll. After defeating 10 lower champions in formal duels, the player receives a challenge from Leon d'Cour."
+                },
+                {
+                    "name": "​",
+                    "value": "[Gnome](https://runescape.wikia.com/wiki/Gnome)\n\t• **Name:** [Glophren](https://runescape.wikia.com/wiki/Glophren)\n\t• **Location(s):** There is no gnome champion's scroll. After defeating both the 13 lower champions in formal duels and Leon d'Cour, the player receives a challenge from Glophren."
+                },
+                {
+                    "name": "Requirements:",
+                    "value": "• 60 Slayer\n\n• 33 Quest Points for access to the [Champions' Guild](https://runescape.wikia.com/wiki/Champions%27_Guild)"
+                },
+                {
+					"name": "Guide:",
+					"value": "• [Trimmed Completionist Guides - Champion Scrolls! | Teh Proez - YouTube](https://www.youtube.com/watch?v=m_0486aC1gA)\n\t• Some of these methods are semi outdated due to the release of the Player-owned dungeons for slayer."
                 }
             ],
             "footer": {
@@ -2070,8 +2130,8 @@ exports.data = {
                     "value": "• 70 Invention (Optional)\n\n• Big Chompy Bird Hunting Quest completion | [Runescape Wiki](https://runescape.wikia.com/wiki/Big_Chompy_Bird_Hunting)"
                 },
                 {
-                    "name": "Guide:",
-                    "value": "[2017 Chompy Bird Hunting Guide 250 kills/hr w/ Oldak Coil | RS3 | Redkobe - YouTube](https://www.youtube.com/watch?v=LkYHucFFtkk)"
+					"name": "Guide:",
+					"value": "• [2017 Chompy Bird Hunting Guide 250 kills/hr w/ Oldak Coil | RS3 | Redkobe - YouTube](https://www.youtube.com/watch?v=LkYHucFFtkk)"
                 }
             ],
             "footer": {
@@ -2272,18 +2332,22 @@ exports.data = {
                 "name": "Cape Info",
                 "icon_url": "https://i.imgur.com/6c6q2iC.png"
             },
-            "description": "[Complete Trekky](https://runescape.wikia.com/wiki/Complete_Trekky) is an achievement that requires the player to level all adventurers in [Temple Trekking](https://runescape.wikia.com/wiki/Temple_Trekking) to level 99.\n\nThere are a total of six people that can be escorted - three people for the journey to the [Paterdomus Temple](https://runescape.wikia.com/wiki/Paterdomus) and three for [Burgh De Rott](https://runescape.wikia.com/wiki/Burgh_de_Rott). They are:\n• [Dean Vellio](https://runescape.wikia.com/wiki/Dean_Vellio)\n• [Jayene Kliyn](https://runescape.wikia.com/wiki/Jayene_Kliyn)\n• [Smiddi Ryak](https://runescape.wikia.com/wiki/Smiddi_Ryak)\n• [Pazuzu](https://runescape.wikia.com/wiki/Pazuzu)\n• [Zachory Bragg](https://runescape.wikia.com/wiki/Zachory_Bragg)\n• [Rolayne Twickit](https://runescape.wikia.com/wiki/Rolayne_Twickit)\n\nYou can choose who to escort by using the noticeboard at the start point at Paterdomus or in Burgh De Rott. Each of the three people on each journey has a different [Difficulty](https://runescape.wikia.com/wiki/Temple_Trekking#Difficulty) - easy, medium and hard.\n\nBy being escorted, the follower will gain experience and levels. As they do so, they will gain new abilities and become more adept in combat. Their examine information and appearance will also change after receiving some new abilities. It will also allow the player to unlock certain rewards - some rewards require all of the followers to have reached a certain level.\n\nIt is possible to let your companion do much, if not all, of the fighting leading to fast level ups. This is easier for the mages and ranger, but can still be done with the warrior provided you have food to sustain him. This tactic works well with the Easy and Medium NPCs at the easy and medium route difficulties for the giant snail, ghast, nail beast, swamp snake, and shade [events](https://runescape.wikia.com/wiki/Temple_Trekking/Events). The Hard NPC’s can simply be rushed through the hard path for the fastest levels.",
+            "description": "[Complete Trekky](https://runescape.wikia.com/wiki/Complete_Trekky) is an achievement that requires the player to level all adventurers in [Temple Trekking](https://runescape.wikia.com/wiki/Temple_Trekking) to level 99.\n\nThere are a total of six people that can be escorted - three people for the journey to the [Paterdomus Temple](https://runescape.wikia.com/wiki/Paterdomus) and three for [Burgh De Rott](https://runescape.wikia.com/wiki/Burgh_de_Rott). They are:\n• [Dean Vellio](https://runescape.wikia.com/wiki/Dean_Vellio)\n• [Jayene Kliyn](https://runescape.wikia.com/wiki/Jayene_Kliyn)\n• [Smiddi Ryak](https://runescape.wikia.com/wiki/Smiddi_Ryak)\n• [Pazuzu](https://runescape.wikia.com/wiki/Pazuzu)\n• [Zachory Bragg](https://runescape.wikia.com/wiki/Zachory_Bragg)\n• [Rolayne Twickit](https://runescape.wikia.com/wiki/Rolayne_Twickit)\n\nYou can choose who to escort by using the noticeboard at the start point at Paterdomus or in Burgh De Rott. Each of the three people on each journey has a different [Difficulty](https://runescape.wikia.com/wiki/Temple_Trekking#Difficulty) - easy, medium and hard.\n\nBy being escorted, the follower will gain experience and levels. As they do so, they will gain new abilities and become more adept in combat. Their examine information and appearance will also change after receiving some new abilities. It will also allow the player to unlock certain rewards. Some rewards require all of the followers to have reached a certain level.\n\nIt is possible to let your companion do much, if not all, of the fighting leading to fast level ups. This is easier for the mages and ranger, but can still be done with the warrior provided you have food to sustain him. This tactic works well with the Easy and Medium NPCs at the easy and medium route difficulties for the giant snail, ghast, nail beast, swamp snake, and shade [events](https://runescape.wikia.com/wiki/Temple_Trekking/Events). The Hard NPC’s can simply be rushed through the hard path for the fastest levels.",
             "thumbnail": {
                 "url": "https://i.imgur.com/Shmagnp.png"
             },
             "fields": [
                 {
+                  "name": "​",
+                  "value": "Players should use [potatoes](https://runescape.wikia.com/wiki/Potatoes) (sack of potatoes) with 10 [raw potatoes](https://runescape.wikia.com/wiki/Raw_potato) within each for their follower's food, as each type of food will heal the same amount and this allows the most food to be carried at once."
+                },
+                {
                   "name": "Requirements:",
                   "value": "• The [Darkness of Hallowvale](https://runescape.wikia.com/wiki/Darkness_of_Hallowvale) quest for Burgh de Rott Ramble route\n• The [In Aid of the Myreque](https://runescape.wikia.com/wiki/In_Aid_of_the_Myreque) quest for Temple Trekking route"
                 },
                 {
-                    "name": "Guide:",
-                    "value": "[Temple Trekking powerleveling companions guide | FBA - YouTube](https://www.youtube.com/watch?v=uLH1vnxrXBs)"
+					"name": "Guide:",
+					"value": "• [Temple Trekking powerleveling companions guide | FBA - YouTube](https://www.youtube.com/watch?v=uLH1vnxrXBs)"
                 }
             ],
             "footer": {
@@ -2300,14 +2364,14 @@ exports.data = {
                 "name": "Cape Info",
                 "icon_url": "https://i.imgur.com/6c6q2iC.png"
             },
-            "description": "[Completionist Cape](https://runescape.wikia.com/wiki/Completionist_Cape_(achievement%29) is an achievement that requires the player to complete all [Completionist Cape achievements](http://runescape.wikia.com/wiki/Completionist_Cape_achievements). Please visit the <#412093604979277844> channel for more information on how to do this.",
+            "description": "[Completionist Cape](https://runescape.wikia.com/wiki/Completionist_Cape_(achievement%29) is an achievement that requires the player to complete all [Completionist Cape achievements](http://runescape.wikia.com/wiki/Completionist_Cape_achievements). Please visit the <#476762700270141440> channel for more information on how to do this.",
             "thumbnail": {
                 "url": "https://i.imgur.com/Shmagnp.png"
             },
             "fields": [
                 {
                     "name": "Requirements:",
-                    "value": "• Visit the <#412093604979277844> channel for a full list"
+                    "value": "• Visit the <#476762700270141440> channel for a full list"
                 }
             ],
             "footer": {
@@ -2324,18 +2388,26 @@ exports.data = {
                 "name": "Cape Info",
                 "icon_url": "https://i.imgur.com/6c6q2iC.png"
             },
-            "description": "[Conquest Adore](https://runescape.wikia.com/wiki/Conquest_Adore) is an achievement that requires the player to achieve the [Rank](https://runescape.wikia.com/wiki/Conquest#Rewards) of 1,250 in [Conquest](https://runescape.wikia.com/wiki/Conquest).\n\nIt is easiest to do this with a friend willing to boost you/trade boosts or during the Conquest Spotlight. You may also tag the <@&451411977894494212> role in this server to attempt to find a willing party member.",
+            "description": "[Conquest Adore](https://runescape.wikia.com/wiki/Conquest_Adore) is an achievement that requires the player to achieve the [Rank](https://runescape.wikia.com/wiki/Conquest#Rewards) of 1,250 in [Conquest](https://runescape.wikia.com/wiki/Conquest).\n\nConquest is a [minigame](https://runescape.wikia.com/wiki/Minigames) released as an addition to the [Void Knights quest series](https://runescape.wikia.com/wiki/Void_Knight_quest_series). This minigame is located at the [Void Knights' Outpost](https://runescape.wikia.com/wiki/Void_Knights%27_Outpost). To get there, either speak to the [Squire](https://runescape.wikia.com/wiki/Squire_(Void_Knights) on the pier at [Port Sarim](https://runescape.wikia.com/wiki/Port_Sarim) to travel to the island by ship free of charge, use the teleport option of a [Void knight seal](https://runescape.wikia.com/wiki/Void_knight_seal). It is a safe minigame, in which players cannot die. It awards [Void Knight commendation points](https://runescape.wikia.com/wiki/Void_Knight_commendation_points) in higher quantities than [Pest Control](https://runescape.wikia.com/wiki/Pest_Control), but games may take longer and there is no time limit per game.\n\nIt is easiest to do this with a friend willing to boost you/trade boosts, or during the Conquest Spotlight. You may also tag the <@&451411977894494212> role in this server to attempt to find a willing party member.",
             "thumbnail": {
                 "url": "https://i.imgur.com/Shmagnp.png"
             },
             "fields": [
                 {
+                    "name": "Commendation Points:",
+                    "value": "Each time you play Conquest, both players are awarded Commendations. The amount each player earns from playing a game of Conquest works as follows:\n\nWhen both players begin playing, the game starts counting the number of rounds between players. If the game ends too early, either by early truce, resignation, or army elimination, then neither player gains nor loses rating, and neither gain any commendations.\n\nDepending on the number of turns between players, both winner and loser are given the same number of commendations (before applying a level multiplier), which is a number between 1-10. In general, the more turns there are in a game, the more commendations are awarded, although commendations are not equal to the number of turns. This is the Commendation Ratio. Both players are given the same Commendation Ratio, as both played the same game of that length of time. "
+                },
+                {
+                    "name": "​",
+                    "value": "This number is then multiplied:\n\t• by 2, (as the Beginner Pest Control Boat) if the Player is between Combat Levels 35-74. All players within this range of combat levels gain 2,4,6,8,10... to 20 commendations in any game. 20 is the maximum.\n\t•by 3, (as the Intermediate Pest Control Boat) if the player is between Combat Levels 75-99. All players within this range of combat levels gain 3,6,9,12,15.... to 30 commendations in any game. 30 is the maximum.\n\t•by 4, (as the Veteran Pest Control Boat) if the player is Combat Level 100 or above. All players within this range of combat levels gain 4,8,12,16,20.... to 40 commendations in any game. 40 is the maximum."
+                },
+                {
                     "name": "Requirements:",
                     "value": "• 55 Combat"
                 },
                 {
-                    "name": "Guide:",
-                    "value": "[Conquest (Boosting) guide | AOROX - YouTube](https://www.youtube.com/watch?v=JJ_OiMjXaE8)"
+					"name": "Guide:",
+					"value": "• [Conquest (Boosting) guide | AOROX - YouTube](https://www.youtube.com/watch?v=JJ_OiMjXaE8)"
                 }
             ],
             "footer": {
@@ -2383,7 +2455,7 @@ exports.data = {
 				},
 				{
 					"name": "Guide:",
-					"value": "[Cook's Assistant Quest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Cook%27s_Assistant)"
+					"value": "• [Cook's Assistant Quest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Cook%27s_Assistant)"
 				}
 			],
 			"footer": {
@@ -2400,7 +2472,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Count All Light Fingers](http://runescape.wikia.com/wiki/Count_All_Light_Fingers) is an achievement that requires the player to complete the [Thieves' Guild](http://runescape.wikia.com/wiki/Thieves%27_Guild) miniquests after completion of [Buyers and Cellars](http://runescape.wikia.com/wiki/Buyers_and_Cellars).\n\nThe miniquests are:\n\n• [From Tiny Acorns](https://runescape.wikia.com/wiki/From_Tiny_Acorns)\n• [Lost Her Marbles](https://runescape.wikia.com/wiki/Lost_Her_Marbles)\n• [A Guild of Our Own](https://runescape.wikia.com/wiki/A_Guild_of_Our_Own)",
+			"description": "[Count All Light Fingers](http://runescape.wikia.com/wiki/Count_All_Light_Fingers) is an achievement that requires the player to complete the [Thieves' Guild](http://runescape.wikia.com/wiki/Thieves%27_Guild) miniquests after completion of [Buyers and Cellars](http://runescape.wikia.com/wiki/Buyers_and_Cellars).\n\nThe miniquests are:\n\n• [From Tiny Acorns](https://runescape.wikia.com/wiki/From_Tiny_Acorns)\n• [Lost Her Marbles](https://runescape.wikia.com/wiki/Lost_Her_Marbles)\n• [A Guild of Our Own](https://runescape.wikia.com/wiki/A_Guild_of_Our_Own)\n\nThe Thieves' Guild is a members [guild](https://runescape.wikia.com/wiki/Guilds) that is owned and established by Guildmaster [Darren Lightfinger](https://runescape.wikia.com/wiki/Darren_Lightfinger). It is located under the [Zamorakian herbalists](https://runescape.wikia.com/wiki/Zamorakian_herbalist)' house just north of the [Lumbridge](https://runescape.wikia.com/wiki/Lumbridge) furnace. It can be accessed via the trapdoor just outside of the house's north wall. The guild is not labelled on the map except by the quest symbol.\n\nThe fastest way to get to the Thieves' Guild is with the [Thieves' Guild teleport](https://runescape.wikia.com/wiki/Thieves%27_Guild_teleport), which can be bought from the [Grand Exchange](https://runescape.wikia.com/wiki/Grand_Exchange) or from [Dodgy Derek's Dirty Deals](https://runescape.wikia.com/wiki/Dodgy_Derek%27s_Dirty_Deals) with [pilfer points](https://runescape.wikia.com/wiki/Pilfer_points) earned from [safecracking](https://runescape.wikia.com/wiki/Safecracking).",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -2563,7 +2635,7 @@ exports.data = {
 				},
 				{
 					"name": "Guide:",
-					"value": "[Completionist Cape - Hunting Thalassus Guide | SirShowOff - YouTube](https://www.youtube.com/watch?v=wUxYUxN4I3c)"
+					"value": "• [Completionist Cape - Hunting Thalassus Guide | SirShowOff - YouTube](https://www.youtube.com/watch?v=wUxYUxN4I3c)"
 				}
 			],
 			"footer": {
@@ -2580,7 +2652,7 @@ exports.data = {
                 "name": "Cape Info",
                 "icon_url": "https://i.imgur.com/6c6q2iC.png"
             },
-            "description": "[Death Effect](https://runescape.wikia.com/wiki/Death_Effect) is an achievement that requires the player to unlock all of the [Permanent effects](https://runescape.wikia.com/wiki/Death%27s_Store#Unlocks) from [Death's Store](https://runescape.wikia.com/wiki/Death%27s_Store).This achievement requires a total of 1,650 - 2,050 reaper points and 0 - 4,000 slayer points.\n\nPlayers have a chance to receive a [Gift for the Reaper](https://runescape.wikia.com/wiki/Gift_for_the_Reaper) from the [Motherlode Maw](https://runescape.wikia.com/wiki/Motherlode_Maw) and the [Travelling Merchant's Shop](https://runescape.wikia.com/wiki/Travelling_Merchant%27s_Shop). You may sign up for the <@&443761366201925653> notification role to be notified when the [Travelling Merchant](https://runescape.wikia.com/wiki/Travelling_merchant) has one in stock.\n\nThis achievement requires the player to purchase the following items:",
+            "description": "[Death Effect](https://runescape.wikia.com/wiki/Death_Effect) is an achievement that requires the player to unlock all of the [Permanent effects](https://runescape.wikia.com/wiki/Death%27s_Store#Unlocks) from [Death's Store](https://runescape.wikia.com/wiki/Death%27s_Store). This achievement requires a total of 1,650 - 2,050 [reaper points](https://runescape.wikia.com/wiki/Reaper_points) and 0 - 4,000 [slayer points](https://runescape.wikia.com/wiki/Slayer_points).\n\nReaper points are points rewarded to the player after completing a [Soul Reaper](https://runescape.wikia.com/wiki/Soul_Reaper) task. The amount of points rewarded depends on the difficulty of the boss and if it was completed in hard mode (if available). The amount of points is increased by 25% if you have group bosses turned on, and a further 25% if you have extended tasks on. Both of these may be toggled through [Death](https://runescape.wikia.com/wiki/Death)'s interface. To receive the hard mode points reward, the player's Soul Reaper task must be all hard mode kills.\n\nUpon the completion of a specific number of tasks, additional Reaper points are awarded (non cumulative):\n• 10 extra points for every 10th task\n• 50 extra points for every 50th task\n\nPlayers may tag the <@&484082439963279361> role of this discord to try to find a partner for their tasks.\n\nPlayers also have a chance to receive a [Gift for the Reaper](https://runescape.wikia.com/wiki/Gift_for_the_Reaper) from the [Motherlode Maw](https://runescape.wikia.com/wiki/Motherlode_Maw) and the [Travelling Merchant's Shop](https://runescape.wikia.com/wiki/Travelling_Merchant%27s_Shop). You may sign up for the <@&443761366201925653> notification role to be notified when the [Travelling Merchant](https://runescape.wikia.com/wiki/Travelling_merchant) has one in stock.\n\nThis achievement requires the player to purchase the following items:",
             "thumbnail": {
                 "url": "https://i.imgur.com/Shmagnp.png"
             },
@@ -2597,11 +2669,11 @@ exports.data = {
                 },
                 {
                     "name": "Requirements:",
-                    "value": "• A total of 1,650 - 2,050 [Reaper points](https://runescape.wikia.com/wiki/Reaper_points)\n• 0-400 [Slayer points](https://runescape.wikia.com/wiki/Slayer_reward_point)\n• 50 Combat"
+                    "value": "• A total of 1,650 - 2,050 Reaper points\n• A total of 0-400 Slayer points\n• 50 Combat **or** 68 Fishing"
                 },
                 {
-                    "name": "Guide:",
-                    "value": "[RS Pocketbook | Ancient Dawn](https://drive.google.com/file/d/0B1BQkGxSlc2tQmt5Yl9LeUV4d1E/view)"
+					"name": "Guide:",
+					"value": "• [RS Pocketbook | Ancient Dawn](https://drive.google.com/file/d/0B1BQkGxSlc2tQmt5Yl9LeUV4d1E/view)\n\n• <#476790691436167168>"
                 }
             ],
             "footer": {
@@ -2859,7 +2931,7 @@ exports.data = {
 				},
 				{
 					"name": "Guide:",
-					"value": "[Mahjarrat Memories Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Mahjarrat_Memories)"
+					"value": "• [Mahjarrat Memories Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Mahjarrat_Memories)"
 				}
 			],
 			"footer": {
@@ -2963,7 +3035,7 @@ exports.data = {
 				},
 				{
 					"name": "Guide:",
-					"value": "[Ripper Demon Slayer guide | puretppc - YouTube](https://www.youtube.com/watch?v=f1R3T5OkeOI)"
+					"value": "• [Ripper Demon Slayer guide | puretppc - YouTube](https://www.youtube.com/watch?v=f1R3T5OkeOI)"
 				}
 			],
 			"footer": {
@@ -3036,7 +3108,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Eastern Adventurer](http://runescape.wikia.com/wiki/Eastern_Adventurer) is an achievement that requires the player to complete all storylines in the [Player-owned port](http://runescape.wikia.com/wiki/Player-owned_port); [Quin](http://runescape.wikia.com/wiki/Quin), [Hyu-Ji](http://runescape.wikia.com/wiki/Hyu-Ji), [Eastern Curiosities](http://runescape.wikia.com/wiki/Eastern_Curiosities), and [Guardians of the World](http://runescape.wikia.com/wiki/Guardians_of_the_World).",
+			"description": "[Eastern Adventurer](http://runescape.wikia.com/wiki/Eastern_Adventurer) is an achievement that requires the player to complete all storylines in the [Player-owned port](http://runescape.wikia.com/wiki/Player-owned_port); [Quin](http://runescape.wikia.com/wiki/Quin), [Hyu-Ji](http://runescape.wikia.com/wiki/Hyu-Ji), [Eastern Curiosities](http://runescape.wikia.com/wiki/Eastern_Curiosities), and [Guardians of the World](http://runescape.wikia.com/wiki/Guardians_of_the_World).\n\nPlayers can start the Player-owned port [minigame](https://runescape.wikia.com/wiki/Minigames) by entering one of three portals located either south-west of the [Rusty Anchor](https://runescape.wikia.com/wiki/The_Rusty_Anchor) pub in [Port Sarim](https://runescape.wikia.com/wiki/Port_Sarim), north-east of the [Lodestone](https://runescape.wikia.com/wiki/Lodestone_Network) in [Prifddinas](https://runescape.wikia.com/wiki/Prifddinas), or in the southern part of the [Port district](https://runescape.wikia.com/wiki/Port_district) in [Menaphos](https://runescape.wikia.com/wiki/Menaphos).\n\nPlayers can manage almost all of their port from anywhere with the [Captain's log](https://runescape.wikia.com/wiki/Captain%27s_Log). The captain's log is a book that contains personalised information about the player-owned port minigame. It is obtained after completing the player-owned port [tutorial](https://runescape.wikia.com/wiki/Player-owned_port#Tutorial). When lost, this item can be reclaimed from [The Navigator](https://runescape.wikia.com/wiki/The_Navigator) by talking to him or right-clicking \"Reclaim log.\" There are four primary functions of this item: sending out [standard voyages](https://runescape.wikia.com/wiki/Player-owned_port#Standard_voyages), reading player statistics, viewing the map, and teleporting the player to the port.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -3071,7 +3143,7 @@ exports.data = {
 				},
 				{
 					"name": "Guide:",
-					"value": "[Kag's PoP Encyclopedia V5 | Runescape Forums](http://services.runescape.com/m=forum/forums.ws?75,76,519,65829739)"
+					"value": "• [Kag's PoP Encyclopedia V5 | Runescape Forums](http://services.runescape.com/m=forum/forums.ws?75,76,519,65829739)"
 				}
 			],
 			"footer": {
@@ -3088,18 +3160,26 @@ exports.data = {
                 "name": "Cape Info",
                 "icon_url": "https://i.imgur.com/6c6q2iC.png"
             },
-            "description": "[Eastern Explorer](https://runescape.wikia.com/wiki/Eastern_Explorer) is an achievement that requires the player to explore within your [Player-owned port](https://runescape.wikia.com/wiki/Player-owned_port) until you reach the [Shield region](https://runescape.wikia.com/wiki/The_Shield). Always send voyages based in the highest region you are in, all other regions' former distance gains are cut in half.\n\nFor the 1st 6 regions ([Arc Region](https://runescape.wikia.com/wiki/The_Arc) through [Pincers Region](https://runescape.wikia.com/wiki/The_Pincers)), only the 2 highest resource voyages will give the maximum distance for your time spent sailing. In [Scythe](https://runescape.wikia.com/wiki/The_Scythe), send for 300/500 Cherrywood. In [Bowl](https://runescape.wikia.com/wiki/The_Bowl), send for 360/600 Jade. In [Pincers](https://runescape.wikia.com/wiki/The_Pincers), send for 450/700 Stainless Steel. For the final 2 regions ([Loop](https://runescape.wikia.com/wiki/The_Loop) and [Shield](https://runescape.wikia.com/wiki/The_Shield) Regions), the 3 highest resource voyages will give the maximum distance.\n• Loop: 125/175/275 Terracotta (along with 400 [Barmaid](https://runescape.wikia.com/wiki/The_Barmaid#Gossip)).\n• Shield: 240/360/560 Azure (along with 720 [Barmaid](https://runescape.wikia.com/wiki/The_Barmaid#Gossip)). \n\nAlways have all 4 ships sailing and not idle in your port. Make sure to raise your speed to the max on every voyage. You know you have maxed out your speed when further increases in speed do not lower your voyage time. Scroll and trade good voyages have higher speed caps. Even if you fail a voyage, you still get full (100%) distance gain!",
+            "description": "[Eastern Explorer](https://runescape.wikia.com/wiki/Eastern_Explorer) is an achievement that requires the player to explore within your [Player-owned port](https://runescape.wikia.com/wiki/Player-owned_port) until you reach the [Shield region](https://runescape.wikia.com/wiki/The_Shield). Always send voyages based in the highest region you are in, all other regions' former distance gains are cut in half.\n\nPlayers can start the Player-owned port [minigame](https://runescape.wikia.com/wiki/Minigames) by entering one of three portals located either south-west of the [Rusty Anchor](https://runescape.wikia.com/wiki/The_Rusty_Anchor) pub in [Port Sarim](https://runescape.wikia.com/wiki/Port_Sarim), north-east of the [Lodestone](https://runescape.wikia.com/wiki/Lodestone_Network) in [Prifddinas](https://runescape.wikia.com/wiki/Prifddinas), or in the southern part of the [Port district](https://runescape.wikia.com/wiki/Port_district) in [Menaphos](https://runescape.wikia.com/wiki/Menaphos).\n\nPlayers can manage almost all of their port from anywhere with the [Captain's log](https://runescape.wikia.com/wiki/Captain%27s_Log). The captain's log is a book that contains personalised information about the player-owned port minigame. It is obtained after completing the player-owned port [tutorial](https://runescape.wikia.com/wiki/Player-owned_port#Tutorial). When lost, this item can be reclaimed from [The Navigator](https://runescape.wikia.com/wiki/The_Navigator) by talking to him or right-clicking \"Reclaim log.\" There are four primary functions of this item: sending out [standard voyages](https://runescape.wikia.com/wiki/Player-owned_port#Standard_voyages), reading player statistics, viewing the map, and teleporting the player to the port.",
             "thumbnail": {
                 "url": "https://i.imgur.com/Shmagnp.png"
             },
             "fields": [
                 {
+                    "name": "Tips:",
+                    "value": "For the 1st 6 regions ([Arc Region](https://runescape.wikia.com/wiki/The_Arc) through [Pincers Region](https://runescape.wikia.com/wiki/The_Pincers)), only the 2 highest resource voyages will give the maximum distance for your time spent sailing.\n\nIn [Scythe](https://runescape.wikia.com/wiki/The_Scythe), send for 300/500 Cherrywood voyages.\n\nIn [Bowl](https://runescape.wikia.com/wiki/The_Bowl), send for 360/600 Jade voyages.\n\nIn [Pincers](https://runescape.wikia.com/wiki/The_Pincers), send for 450/700 Stainless Steel voyages.\n\nFor the final 2 regions ([Loop](https://runescape.wikia.com/wiki/The_Loop) and [Shield](https://runescape.wikia.com/wiki/The_Shield) Regions), the 3 highest resource voyages will give the maximum distance.\n\t• Loop: 125/175/275 Terracotta (along with 400 [Barmaid](https://runescape.wikia.com/wiki/The_Barmaid#Gossip)).\n\t• Shield: 240/360/560 Azure (along with 720 [Barmaid](https://runescape.wikia.com/wiki/The_Barmaid#Gossip))."
+                },
+                {
+                    "name": "​",
+                    "value": "Always have all 4 ships sailing and not idle in your port. Make sure to raise your [speed](https://runescape.wikia.com/wiki/Player-owned_port#Time_required) to the max on every voyage. You know you have maxed out your speed when further increases in speed do not lower your voyage time. [Scroll and trade good](https://runescape.wikia.com/wiki/Player-owned_port/Special_voyages) voyages have higher speed caps. **Even if you fail a voyage, you still get full (100%) distance gain!**"
+                },
+                {
                     "name": "Requirements:",
                     "value": "• [Player Owned Ports Tutorial completion | Runescape Wiki](https://runescape.wikia.com/wiki/Player-owned_port#Tutorial) \n\n• **Level 90 in at least one of the following skills:**\n• Agility\n• Construction\n• Cooking\n• Divination\n• Dungeoneering\n• Fishing\n• Herblore\n• Hunter\n• Prayer\n• Runecrafting\n• Slayer\n• Thieving"
                 },
                 {
-                    "name": "Guide:",
-                    "value": "[Kags' POP Enclycopedia | Runescape Forums](http://services.runescape.com/m=forum/forums.ws?75,76,519,65829739)"
+					"name": "Guide:",
+					"value": "• [Kags' POP Enclycopedia | Runescape Forums](http://services.runescape.com/m=forum/forums.ws?75,76,519,65829739)"
                 }
             ],
             "footer": {
@@ -3133,15 +3213,35 @@ exports.data = {
 				},
 				{
 					"name": "​",
-					"value": "A [rope](https://runescape.wikia.com/wiki/Rope) is required to travel using the eagles. Rope spawns are found in the Trollweiss and Uzer eyries, while ruined rope racks can be found in Eagles' Peak, Karamja , and Feldip. Players with sufficient construction levels and the correct resources can build rope racks over the ruined [rope rack](https://runescape.wikia.com/wiki/Rope_rack) hotspots, which then become an infinite supply of rope."
+					"value": "A [rope](https://runescape.wikia.com/wiki/Rope) is required to travel using the eagles. Rope spawns are found in the [Trollweiss](https://runescape.wikia.com/wiki/Trollweiss_Mountain) and Uzer eyries, while ruined rope racks can be found in Eagles' Peak, Karamja , and Feldip. Players with sufficient construction levels and the correct resources can build [rope racks](https://runescape.wikia.com/wiki/Rope_rack) over the ruined rope rack hotspots, which then become an infinite supply of rope."
+				},
+				{
+					"name": "Eagles' Peak Tip:",
+					"value": "Upon entering the dungeon at the top of the path of [Eagles' Peak mountain](https://runescape.wikia.com/wiki/Eagles%27_Peak_(location), head east, then south until the door is visible at the end of the cave. Go through the door then all the way east, passing the eagle guarding the nest, until the cave turns north. The eyrie is at the end of the north tunnel."
+				},
+				{
+					"name": "Rellekka Tip:",
+					"value": "Found in the far north east of the Rellekka Hunter area, 35 Agility is required to ascend the cliffside into the eyrie."
+				},
+				{
+					"name": "Feldip Tip:",
+					"value": "The eyrie is located north-west from the hunting expert's shack. To enter, ONE of the following is required:\n\t• [Garden cane](https://runescape.wikia.com/wiki/Garden_cane)\n\t• [Thatch spar](https://runescape.wikia.com/wiki/Thatch_spar)\n\t• [Teasing stick](https://runescape.wikia.com/wiki/Teasing_stick).\n\nUse one of said item on the young vine near the entrance, once stuck down it will take around an hour for the vine to grow strong enough to support a player's weight. Once the vine reaches maturity, a \"those vines should be worth checking on now\" message will appear in the player's chatbox."
+				},
+				{
+					"name": "Uzer Tip:",
+					"value": "While it is possible to fly to Uzer from Piscatoris, a boulder will obstruct the exit; it is required that the boulder is pushed from outside. You will need 45 Strength to push it away."
+				},
+				{
+					"name": "Karamja Tip:",
+					"value": "Found [deep within the Jade vine maze](https://runescape.wikia.com/wiki/File:Jade_vine_maze_location.png)."
 				},
 				{
 					"name": "Requirements:",
-					"value": "• 45 Strength\n\n• Eagles Peak Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Eagles%27_Peak)\n• Back to my Roots Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Back_to_my_Roots)"
+					"value": "• 45 Strength\n• 35 Agility\n\n• Eagles Peak Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Eagles%27_Peak)\n• Back to my Roots Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Back_to_my_Roots)"
 				},
 				{
 					"name": "Guide:",
-					"value": "[Detailed guide to unlocking all eagle transport routes | Rogie - YouTube](https://www.youtube.com/watch?v=MEHBzt0qTDM)"
+					"value": "• [Detailed guide to unlocking all eagle transport routes | Rogie - YouTube](https://www.youtube.com/watch?v=MEHBzt0qTDM)"
 				}
 			],
 			"footer": {
@@ -3328,7 +3428,7 @@ exports.data = {
 				},
 				{
 					"name": "Guide:",
-					"value": "[Morvran's Special Assignment guide | SlayerHolik - YouTube](https://www.youtube.com/watch?v=nRo_iLoFhL8)"
+					"value": "• [Morvran's Special Assignment guide | SlayerHolik - YouTube](https://www.youtube.com/watch?v=nRo_iLoFhL8)"
 				}
 			],
 			"footer": {
@@ -3345,14 +3445,14 @@ exports.data = {
                 "name": "Cape Info",
                 "icon_url": "https://i.imgur.com/6c6q2iC.png"
             },
-            "description": "[Ferocious Upgrade](https://runescape.wikia.com/wiki/Ferocious_Upgrade) is an achievement that requires the player to unlock the [Ferocious ring](https://runescape.wikia.com/wiki/Ferocious_ring) upgrade to the [Slayer helmet](https://runescape.wikia.com/wiki/Full_slayer_helmet) from [Morvran](https://runescape.wikia.com/wiki/Morvran#Slayer_points). He can be found in the [Iorwerth Clan](https://runescape.wikia.com/wiki/Iorwerth_Clan) district of [Prifddinas](https://runescape.wikia.com/wiki/Prifddinas).",
+            "description": "[Ferocious Upgrade](https://runescape.wikia.com/wiki/Ferocious_Upgrade) is an achievement that requires the player to unlock the [Ferocious ring](https://runescape.wikia.com/wiki/Ferocious_ring) upgrade to the [Slayer helmet](https://runescape.wikia.com/wiki/Full_slayer_helmet) from [Morvran](https://runescape.wikia.com/wiki/Morvran#Slayer_points). He can be found in the [Iorwerth Clan](https://runescape.wikia.com/wiki/Iorwerth_Clan) district of [Prifddinas](https://runescape.wikia.com/wiki/Prifddinas).\n\nThis will cost 100 [Slayer points](https://runescape.wikia.com/wiki/Slayer_reward_point). Slayer points are a currency obtained by completing [Slayer assignments](https://runescape.wikia.com/wiki/Slayer_assignment) or a [special challenge](https://runescape.wikia.com/wiki/Slayer/Challenges) from any [Slayer Master](https://runescape.wikia.com/wiki/Slayer_Master), bar [Turael](https://runescape.wikia.com/wiki/Turael) and [Spria](https://runescape.wikia.com/wiki/Spria), or by trading in completed [Tuska masks](https://runescape.wikia.com/wiki/Tuska_mask). The number rewarded depends on the Slayer Master, with the tougher masters awarding more points. Completion of [Smoking Kills](https://runescape.wikia.com/wiki/Smoking_Kills) will double the value of the points received.",
             "thumbnail": {
                 "url": "https://i.imgur.com/Shmagnp.png"
             },
             "fields": [
                 {
                     "name": "Requirements:",
-                    "value": "• 100 [Slayer points](https://runescape.wikia.com/wiki/Slayer_reward_point)\n\n• 90 Slayer"
+                    "value": "• 100 Slayer points\n\n• 90 Slayer"
                 }
             ],
             "footer": {
@@ -3369,7 +3469,7 @@ exports.data = {
                 "name": "Cape Info",
                 "icon_url": "https://i.imgur.com/6c6q2iC.png"
             },
-            "description": "[Finish Him!](https://runescape.wikia.com/wiki/Finish_Him!) is an achievement that requires the player to obtain the [Maul of omens](https://runescape.wikia.com/wiki/Maul_of_omens) during the fight with [Vorago]([Vorago](https://runescape.wikia.com/wiki/Vorago)) by collecting all 3 parts during phases 1, 2 and 4 respectively and using it to finish off Vorago. You may tagthe **Reaper Crew** in this server for help with this requirment (their time permitting) or post your request in the <#436714722847621120> channel. ",
+            "description": "[Finish Him!](https://runescape.wikia.com/wiki/Finish_Him!) is an achievement that requires the player to obtain the [Maul of omens](https://runescape.wikia.com/wiki/Maul_of_omens) during the fight with [Vorago](https://runescape.wikia.com/wiki/Vorago) by collecting all 3 parts during phases 1, 2 and 4 respectively and using it to finish off Vorago.\n\nAll 3 pieces of the maul should be available at Phase 5 of the fight, and they should be combined to create the maul. If the maul is not created, the pieces \"come to life\" and anyone holding any piece of it take 100 typeless damage every 2 ticks until it is assembled. If the team manages to push Vorago all the way east, the player holding the Maul of Omens will be able to click on it to finish the fight if they stand in melee distance of Vorago.\n\nYou may tag the <@&484094779546664960> in this server for help with this requirment, their time permitting, or post your request in the <#436714722847621120> channel.",
             "thumbnail": {
                 "url": "https://i.imgur.com/Shmagnp.png"
             },
@@ -3379,8 +3479,8 @@ exports.data = {
                     "value": "• You must have listened to [Vorago's Challenging Chat](https://runescape.wikia.com/wiki/Challenging_Chat)"
                 },
                 {
-                    "name": "Guide:",
-                    "value": "[Vorago DPS Beginners Guide 2017 | Cursed Combatants | Wumpery RS](https://www.youtube.com/watch?v=VWsNhghbzpk)"
+					"name": "Guide:",
+					"value": "• [Vorago DPS Beginners Guide 2017 | Cursed Combatants | Wumpery RS](https://www.youtube.com/watch?v=VWsNhghbzpk)"
                 }
             ],
             "footer": {
@@ -3504,7 +3604,7 @@ exports.data = {
 				},
 				{
 					"name": "Guide:",
-					"value": "[Sheep Shearer Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Sheep_Shearer)"
+					"value": "• [Sheep Shearer Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Sheep_Shearer)"
 				}
 			],
 			"footer": {
@@ -3652,7 +3752,7 @@ exports.data = {
 				},
 				{
 					"name": "Guide:",
-					"value": "[Hall of Memories guide | Vyrecraft - YouTube](https://www.youtube.com/watch?v=OfATvxBKzYQ)"
+					"value": "• [Hall of Memories guide | Vyrecraft - YouTube](https://www.youtube.com/watch?v=OfATvxBKzYQ)"
 				}
 			],
 			"footer": {
@@ -3669,18 +3769,26 @@ exports.data = {
                 "name": "Cape Info",
                 "icon_url": "https://i.imgur.com/6c6q2iC.png"
             },
-            "description": "[Hard as Daemons](https://runescape.wikia.com/wiki/Hard_as_Daemons) is an achievement that requires the player to claim the [of Daemonheim title]( https://runescape.wikia.com/wiki/Of_Daemonheim). This requires the player to complete every dungeoneering floor on [Hard mode]( https://runescape.wikia.com/wiki/Dungeoneering/Hard_mode). Hard Mode floors can be obtained as a reward after completing the [Elite set]( https://runescape.wikia.com/wiki/Daemonheim_achievements#Elite_Tasks) of [Daemonheim tasks]( https://runescape.wikia.com/wiki/Daemonheim_achievements). It is only available for [Complexity]( https://runescape.wikia.com/wiki/Complexity) 6 dungeons and makes the dungeon as difficult as it can randomly be.\n\nPlayers who have not completed the Elite tasks may take part in Hard mode floors with other players who have. Players who have completed the Elite tasks must form the party and lead the dungeon. They then invite the players without the tasks complete into the floors. To start Hard mode, select a floor and set the difficulty to Complexity 6 via the [Ring of kinship]( https://runescape.wikia.com/wiki/Ring_of_kinship) or the ladder. Attempting to start a floor results in the Floor Settings interface, the top section of which is a radio button for Hard mode. Select `Yes` to `Activate Hard Mode?` Players are unable to select the floor size they wish. If the party is 1-2 people, the floor size is Medium; if 3-5, the floor size is Large. It is recommended to activate [Guide mode]( https://runescape.wikia.com/wiki/Dungeoneering#Guide_mode) during hard mode floors to speed up the requirement. Players may tag the <@&382960017499881474> role in this server to try to find a willing party.",
+            "description": "[Hard as Daemons](https://runescape.wikia.com/wiki/Hard_as_Daemons) is an achievement that requires the player to claim the [of Daemonheim title]( https://runescape.wikia.com/wiki/Of_Daemonheim). This requires the player to complete every dungeoneering floor on [Hard mode]( https://runescape.wikia.com/wiki/Dungeoneering/Hard_mode). Hard Mode floors can be obtained as a reward after completing the [Elite set]( https://runescape.wikia.com/wiki/Daemonheim_achievements#Elite_Tasks) of [Daemonheim tasks]( https://runescape.wikia.com/wiki/Daemonheim_achievements). It is only available for [Complexity]( https://runescape.wikia.com/wiki/Complexity) 6 dungeons and makes the dungeon as difficult as it can randomly be.\n\nPlayers who have not completed the Elite tasks may take part in Hard mode floors with other players who have. Players who have completed the Elite tasks must form the party and lead the dungeon. They then invite the players without the tasks complete into the floors.\n\nTo start Hard mode, select a floor and set the difficulty to Complexity 6 via the [Ring of kinship]( https://runescape.wikia.com/wiki/Ring_of_kinship) or the ladder. Attempting to start a floor results in the Floor Settings interface, the top section of which is a radio button for Hard mode. Select `Yes` to `Activate Hard Mode?` Players are unable to select the floor size they wish. If the party is 1-2 people, the floor size is Medium; if 3-5, the floor size is Large. It is recommended to activate [Guide mode]( https://runescape.wikia.com/wiki/Dungeoneering#Guide_mode) during hard mode floors to speed up the requirement.\n\nPlayers may tag the <@&382960017499881474> role in this server to try to find a willing party.",
             "thumbnail": {
                 "url": "https://i.imgur.com/Shmagnp.png"
             },
             "fields": [
                 {
+                    "name": "Additional Differences with Hard mode:",
+                    "value": "• All monsters and bosses spawn at their maximum levels. Due to the high combat level, certain boss monsters are difficult and may take a few minutes to kill, as opposed to a normal floor. This can be extremely tedious if doing a solo-floor. Bosses begin to have special abilities.\n\n• The chance of encountering slayer monsters is drastically increased. Multiple slayer monsters may be encountered in a single room.\n\n• All doors behave like guardian doors, regardless of what kind of door it is. The \"guardian eye\" above the door does not appear. This means, you cannot exit any room without teleporting out of it. If you attempt open or leave a room, you receive the following message: The door won't unlock until all the guardians in the room have been slain. You can teleport out of the faux-guardian doors and dead-ends, but you cannot teleport out of boss rooms."
+                },
+                {
+                    "name": "​",
+                    "value": "• It is not possible to teleport at all once inside a boss room. That is, even placing a [gatestone](https://runescape.wikia.com/wiki/Gatestone) at one place in the room and teleporting from another place in the room is prohibited. • All skill doors and challenge rooms require skills of level 90 or higher, even if doing so makes the dungeon impossible to complete. The \"90\" doors are crucial doors; this means that this door is on a critical path or leads to a critical path. Any doors higher than 90, specifically pot doors, do not need to be completed.\n\n• Doors that require boosted stats over 99 ([portents](https://runescape.wikia.com/wiki/Dungeoneering/Divination#Portents) or [potions](https://runescape.wikia.com/wiki/Dungeoneering/Herblore#Potions)) are more common.\n\n• Food is scarcer.\n\n• [Daemonheim aura](https://runescape.wikia.com/wiki/Daemonheim_aura) does not bring you back to life or let you choose the boss."
+                },
+                {
                     "name": "Requirements:",
                     "value": "• Elite Daemonheim tasks completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Daemonheim_achievements)\n\n• 119 Dungeoneering\n• 90+ in all skills or close enough to boost all skill doors is recommended"
                 },
                 {
-                    "name": "Guide:",
-                    "value": "[Trimmed Completionist Guides - Hardmode Dungeoneering | Teh Proez - YouTube](https://www.youtube.com/watch?v=HpGPdyNQEzA)"
+					"name": "Guide:",
+					"value": "• [Trimmed Completionist Guides - Hardmode Dungeoneering | Teh Proez - YouTube](https://www.youtube.com/watch?v=HpGPdyNQEzA)"
                 }
             ],
             "footer": {
@@ -4072,7 +4180,7 @@ exports.data = {
 				},
 				{
 					"name": "Guide:",
-					"value": "[Ice Ice Chimpy delivery quick guide | Landon PvM - YouTube](https://www.youtube.com/watch?v=aVCMu26Jccg)"
+					"value": "• [Ice Ice Chimpy delivery quick guide | Landon PvM - YouTube](https://www.youtube.com/watch?v=aVCMu26Jccg)"
 				}
 			],
 			"footer": {
@@ -4168,7 +4276,7 @@ exports.data = {
 				},
 				{
 					"name": "Guide:",
-					"value": "[Char's Treasure (Zaros) symbol guide | Rogie - YouTube](https://www.youtube.com/watch?v=89wtdVYfWxA)"
+					"value": "• [Char's Treasure (Zaros) symbol guide | Rogie - YouTube](https://www.youtube.com/watch?v=89wtdVYfWxA)"
 				}
 			],
 			"footer": {
@@ -4236,7 +4344,7 @@ exports.data = {
 				},
 				{
 					"name": "Guide:",
-					"value": "[Ivandis Flail upgrading guide | Rogie - YouTube](https://www.youtube.com/watch?v=hlHZAmgh0eE)"
+					"value": "• [Ivandis Flail upgrading guide | Rogie - YouTube](https://www.youtube.com/watch?v=hlHZAmgh0eE)"
 				}
 			],
 			"footer": {
@@ -4263,8 +4371,8 @@ exports.data = {
                     "value": "• The Firemaker's Curse Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Firemaker%27s_Curse)"
                 },
                 {
-                    "name": "Guide:",
-                    "value": "[Ringmaster Outfit Guide - Circus - RuneScape Trimmed Completionist Requirement | AlexshineProductions - YouTube](https://www.youtube.com/watch?v=-rizDICRH54)"
+					"name": "Guide:",
+					"value": "• [Ringmaster Outfit Guide - Circus - RuneScape Trimmed Completionist Requirement | AlexshineProductions - YouTube](https://www.youtube.com/watch?v=-rizDICRH54)"
                 }
             ],
             "footer": {
@@ -4323,8 +4431,8 @@ exports.data = {
                     "value": "• 113 Dungeoneering\n• Killing [To'Kash the Bloodchiller](https://runescape.wikia.com/wiki/To%27Kash_the_Bloodchiller) at least once\n• Killing [Har'Lakk the Riftsplitter](https://runescape.wikia.com/wiki/Har%27Lakk_the_Riftsplitter) at least once\n• Killing [Bal'lak the Pummeller](https://runescape.wikia.com/wiki/Bal%27lak_the_Pummeller) at least once\n• Killing [Yk'Lagor the Thunderous](https://runescape.wikia.com/wiki/Yk%27Lagor_the_Thunderous) at least once\n• Killing [Kal'Ger the Warmonger](https://runescape.wikia.com/wiki/Kal%27Ger_the_Warmonger) at least once"
                 },
                 {
-                    "name": "Guide:",
-                    "value": "[Kal'gerion Demon Slayer Guide 2017: Great Slayer exp + Profit! | puretppc - YouTube](https://www.youtube.com/watch?v=Xptgvb9aydM) "
+					"name": "Guide:",
+					"value": "• [Kal'gerion Demon Slayer Guide 2017: Great Slayer exp + Profit! | puretppc - YouTube](https://www.youtube.com/watch?v=Xptgvb9aydM) "
                 }
             ],
             "footer": {
@@ -4428,7 +4536,7 @@ exports.data = {
 				},
 				{
 					"name": "Guide:",
-					"value": "[Phillipe Carnillean's Adventures of his own Guide | Runescape Wiki](http://runescape.wikia.com/wiki/Philipe_Carnillean#Adventures_of_his_own)"
+					"value": "• [Phillipe Carnillean's Adventures of his own Guide | Runescape Wiki](http://runescape.wikia.com/wiki/Philipe_Carnillean#Adventures_of_his_own)"
 				}
 			],
 			"footer": {
@@ -4508,7 +4616,7 @@ exports.data = {
 				},
 				{
 					"name": "Guide:",
-					"value": "[Fight Kiln Guide | Moto - YouTube](https://www.youtube.com/watch?v=g1KWJUv5nG4)"
+					"value": "• [Fight Kiln Guide | Moto - YouTube](https://www.youtube.com/watch?v=g1KWJUv5nG4)"
 				}
 			],
 			"footer": {
@@ -4556,7 +4664,7 @@ exports.data = {
 				},
 				{
 					"name": "Guide:",
-					"value": "[Koschei's Troubles Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Koschei%27s_Troubles)"
+					"value": "• [Koschei's Troubles Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Koschei%27s_Troubles)"
 				}
 			],
 			"footer": {
@@ -4612,7 +4720,7 @@ exports.data = {
 				},
         {
 					"name": "Guide:",
-					"value": "[Kudos | Runescape Wiki](http://runescape.wikia.com/wiki/Kudos)"
+					"value": "• [Kudos | Runescape Wiki](http://runescape.wikia.com/wiki/Kudos)"
 				}
 			],
 			"footer": {
@@ -4700,7 +4808,7 @@ exports.data = {
 				},
 				{
 					"name": "Guide:",
-					"value": "[Camel Warriors Strategy guide | The Junesong - YouTube](https://www.youtube.com/watch?v=UhyGIrHymvY)"
+					"value": "• [Camel Warriors Strategy guide | The Junesong - YouTube](https://www.youtube.com/watch?v=UhyGIrHymvY)"
 				}
 			],
 			"footer": {
@@ -4812,7 +4920,7 @@ exports.data = {
 				},
 				{
 					"name": "Guide:",
-					"value": "[Queen Black Dragon Detailed Guide | Todd Plays Runescape - YouTube](https://www.youtube.com/watch?v=m4RBTH85oC0)"
+					"value": "• [Queen Black Dragon Detailed Guide | Todd Plays Runescape - YouTube](https://www.youtube.com/watch?v=m4RBTH85oC0)"
 				}
 			],
 			"footer": {
@@ -4936,7 +5044,7 @@ exports.data = {
 				},
 				{
 					"name": "Guide:",
-					"value": "[The Lost Toys Miniquest Guide | Runescape Wiki](http://runescape.wikia.com/wiki/The_Lost_Toys)"
+					"value": "• [The Lost Toys Miniquest Guide | Runescape Wiki](http://runescape.wikia.com/wiki/The_Lost_Toys)"
 				}
 						],
 					"footer": {
@@ -4999,8 +5107,8 @@ exports.data = {
                     "value": "• 70 Magic\n• 81 Magic to complete all the activities\n• 93 Magic to complete all the distractions\n• 60 Agility\n• 60 Crafting\n• 60 Farming\n• 50 Construction\n\n• Lunar Diplomacy Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Lunar_Diplomacy)\n\n• Have the Lunar Spellbook activated"
                 },
                 {
-                    "name": "Guide:",
-                    "value": "[Livid Farm Basics Guide | Dexxon - YouTube](https://www.youtube.com/watch?v=b7qql8K2Y2s)"
+					"name": "Guide:",
+					"value": "• [Livid Farm Basics Guide | Dexxon - YouTube](https://www.youtube.com/watch?v=b7qql8K2Y2s)"
                 }
             ],
             "footer": {
@@ -5080,7 +5188,7 @@ exports.data = {
 				},
 				{
 					"name": "Guide:",
-					"value": "[Updated Rush of Blood Guide | The Junesong - YouTube](https://www.youtube.com/watch?v=l5jz9ybmg-U)"
+					"value": "• [Updated Rush of Blood Guide | The Junesong - YouTube](https://www.youtube.com/watch?v=l5jz9ybmg-U)"
 				}
 			],
 			"footer": {
@@ -5131,8 +5239,8 @@ exports.data = {
                     "value": "• Broken Home Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Broken_Home)"
                 },
                 {
-                    "name": "Guide:",
-                    "value": "[Broken Home + All Challenges Under 30 Minutes + Chest Locations | Chrisces - YouTube](https://www.youtube.com/watch?v=lMtEEHKH9Gg)"
+					"name": "Guide:",
+					"value": "• [Broken Home + All Challenges Under 30 Minutes + Chest Locations | Chrisces - YouTube](https://www.youtube.com/watch?v=lMtEEHKH9Gg)"
                 }
             ],
             "footer": {
@@ -5193,8 +5301,8 @@ exports.data = {
                     "value": "• An entry ticket is required to enter a game of Fish Flingers"
                 },
                 {
-                    "name": "Guide:",
-                    "value": "[Trimmed Completionist Guides - Fish Flingers! | Teh Proez - YouTube](https://www.youtube.com/watch?v=a7Ce0ZnlvYo)"
+					"name": "Guide:",
+					"value": "• [Trimmed Completionist Guides - Fish Flingers! | Teh Proez - YouTube](https://www.youtube.com/watch?v=a7Ce0ZnlvYo)"
                 }
             ],
             "footer": {
@@ -5222,7 +5330,7 @@ exports.data = {
 				},
 				{
 					"name": "Guide:",
-					"value": "[Chompy Bird Hunting guide | redkobe - YouTube](https://www.youtube.com/watch?v=LkYHucFFtkk)"
+					"value": "• [Chompy Bird Hunting guide | redkobe - YouTube](https://www.youtube.com/watch?v=LkYHucFFtkk)"
 				}
 			],
 			"footer": {
@@ -5269,8 +5377,8 @@ exports.data = {
                     "value": "• 35 Firemaking\n• 11 Crafting\n• 55 Fishing\n• 15 Agility\n• 35 Strength\n• 5 Smithing\n• 4 Herblore\n\n• Tai Bwo Wannai Trio Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Tai_Bwo_Wannai_Trio)"
                 },
                 {
-                    "name": "Guide:",
-                    "value": "[Barbarian Training guide | Runescape Wiki](http://runescape.wikia.com/wiki/Barbarian_Training)"
+					"name": "Guide:",
+					"value": "• [Barbarian Training guide | Runescape Wiki](http://runescape.wikia.com/wiki/Barbarian_Training)"
                 }
             ],
             "footer": {
@@ -5478,7 +5586,7 @@ exports.data = {
 				},
 				{
 					"name": "Guide:",
-					"value": "[Mahjarrat Memories Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Mahjarrat_Memories)"
+					"value": "• [Mahjarrat Memories Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Mahjarrat_Memories)"
 				}
 			],
 			"footer": {
@@ -5553,8 +5661,8 @@ exports.data = {
                     "value": "•The World Wakes Quest (partial) completion | [Runescape Wiki](https://runescape.wikia.com/wiki/The_World_Wakes)\n•Fairy Tale II - Cure a Queen (started) | [Runescape Wiki](http://runescape.wikia.com/wiki/Fairy_Tale_II_-_Cure_a_Queen)"
                 },
                 {
-                    "name": "Guide:",
-                    "value": "[Memorial to Guthix guide | Runescape Wiki](https://runescape.wikia.com/wiki/Memorial_to_Guthix#Locations_and_buffs)"
+					"name": "Guide:",
+					"value": "• [Memorial to Guthix guide | Runescape Wiki](https://runescape.wikia.com/wiki/Memorial_to_Guthix#Locations_and_buffs)"
                 }
             ],
             "footer": {
@@ -5630,7 +5738,7 @@ exports.data = {
 				},
 				{
 					"name": "Guide:",
-					"value": "[Memorial to Guthix | Runescape Wiki](https://www.youtube.com/watch?v=wUxYUxN4I3c)"
+					"value": "• [Memorial to Guthix | Runescape Wiki](https://www.youtube.com/watch?v=wUxYUxN4I3c)"
 				}
 			],
 			"footer": {
@@ -5701,8 +5809,8 @@ exports.data = {
                     "value": "• 20 Cooking"
                 },
                 {
-                    "name": "Guide:",
-                    "value": "[Morge Miniquest guide | Runescape Wiki](https://runescape.wikia.com/wiki/Mogre_(miniquest)"
+					"name": "Guide:",
+					"value": "• [Morge Miniquest guide | Runescape Wiki](https://runescape.wikia.com/wiki/Mogre_(miniquest)"
                 }
             ],
             "footer": {
@@ -5815,8 +5923,8 @@ exports.data = {
                     "value": "• [Investment Credits](https://runescape.wikia.com/wiki/Mobilising_Armies#Investments)"
                 },
                 {
-                    "name": "Guide:",
-                    "value": "[Trimmed Completionist Guides - Mobilising Armies! | Teh Proez - YouTube](https://www.youtube.com/watch?v=_bbYbB01_68)"
+					"name": "Guide:",
+					"value": "• [Trimmed Completionist Guides - Mobilising Armies! | Teh Proez - YouTube](https://www.youtube.com/watch?v=_bbYbB01_68)"
                 }
             ],
             "footer": {
@@ -5848,7 +5956,7 @@ exports.data = {
 				},
 				{
 					"name": "Guide:",
-					"value": "[Music | Runescape Wiki](http://runescape.wikia.com/wiki/Music)"
+					"value": "• [Music | Runescape Wiki](http://runescape.wikia.com/wiki/Music)"
 				}
 			],
 			"footer": {
@@ -5920,7 +6028,7 @@ exports.data = {
 				},
 				{
 					"name": "Guide:",
-					"value": "[In Memory of the Myreque Miniquest Guide | Runescape Wiki](http://runescape.wikia.com/wiki/In_Memory_of_the_Myreque)"
+					"value": "• [In Memory of the Myreque Miniquest Guide | Runescape Wiki](http://runescape.wikia.com/wiki/In_Memory_of_the_Myreque)"
 				}
 			],
 			"footer": {
@@ -6049,8 +6157,8 @@ exports.data = {
                     "value": "• Nomad's Elegy Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Tale_of_the_Muspah)"
                 },
                 {
-                    "name": "Guide:",
-                    "value": "[Tales of Nomad Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Tales_of_Nomad)"
+					"name": "Guide:",
+					"value": "• [Tales of Nomad Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Tales_of_Nomad)"
                 }
             ],
             "footer": {
@@ -6077,8 +6185,8 @@ exports.data = {
                     "value": "• Nomad's Elegy Quest completion | [Runescape Wiki](https://runescape.wikia.com/wiki/Nomad%27s_Elegy)"
                 },
                 {
-                    "name": "Guide:",
-                    "value": "[Hard Mode Nomad Guide | The Junesong - YouTube](https://www.youtube.com/watch?v=QUEZ4su06Pw)"
+					"name": "Guide:",
+					"value": "• [Hard Mode Nomad Guide | The Junesong - YouTube](https://www.youtube.com/watch?v=QUEZ4su06Pw)"
                 }
             ],
             "footer": {
@@ -6109,8 +6217,8 @@ exports.data = {
                     "value": "• 81 Slayer"
                 },
                 {
-                    "name": "Guide:",
-                    "value": "[Rorarius Money Making guide | munclesonkey - YouTube](https://www.youtube.com/watch?v=FC6aL771hs4)"
+					"name": "Guide:",
+					"value": "• [Rorarius Money Making guide | munclesonkey - YouTube](https://www.youtube.com/watch?v=FC6aL771hs4)"
                 }
             ],
             "footer": {
@@ -6137,8 +6245,8 @@ exports.data = {
                     "value": "• 55 Attack **or** 55 Ranged **or** 55 Strength\n• 13 Cooking **or** 14 Smithing\n• 30 Fishing **or** 30 Mining **or** 30 Woodcutting\n• 40 Firemaking **or** 40 Crafting\n• 45 Thieving **or** 50 Hunter\n• 30 Woodcutting \n• 30 Fishing \n• 30 Mining \n• 60 Woodcutting **or** 60 Fishing **or** 60 Mining\n• A combined total of 200 levels in Summoning, Magic, Prayer, and Runecrafting"
                 },
                 {
-                    "name": "Guide:",
-                    "value": "[God Emissaries Tasks guide | Runescape Wiki](https://runescape.wikia.com/wiki/God_Emissaries/Tasks)"
+					"name": "Guide:",
+					"value": "• [God Emissaries Tasks guide | Runescape Wiki](https://runescape.wikia.com/wiki/God_Emissaries/Tasks)"
                 }
             ],
             "footer": {
@@ -6165,8 +6273,8 @@ exports.data = {
                     "value": "• The Feud Quest completion | [Runescape Wiki](https://runescape.wikia.com/wiki/The_Feud)"
                 },
                 {
-                    "name": "Guide:",
-                    "value": "[Rouge Trader Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Rogue_Trader)"
+					"name": "Guide:",
+					"value": "• [Rouge Trader Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Rogue_Trader)"
                 }
             ],
             "footer": {
@@ -6193,8 +6301,8 @@ exports.data = {
                     "value": "• None"
                 },
                 {
-                    "name": "Guide:",
-                    "value": "[Low Level King Black Dragon guide | Lildogdog RS - YouTube](https://www.youtube.com/watch?v=tak1OoQG7nY)"
+					"name": "Guide:",
+					"value": "• [Low Level King Black Dragon guide | Lildogdog RS - YouTube](https://www.youtube.com/watch?v=tak1OoQG7nY)"
                 }
             ],
             "footer": {
@@ -6242,7 +6350,7 @@ exports.data = {
 				},
 				{
 					"name": "Guide:",
-					"value": "[Returning Clarence Miniquest Guide | Runescape Wiki](http://runescape.wikia.com/wiki/Returning_Clarence)"
+					"value": "• [Returning Clarence Miniquest Guide | Runescape Wiki](http://runescape.wikia.com/wiki/Returning_Clarence)"
 				}
 			],
 			"footer": {
@@ -6326,7 +6434,7 @@ exports.data = {
 				},
 				{
 					"name": "Guide:",
-					"value": "[Ancient Pages guide | Charis - YouTube](https://www.youtube.com/watch?v=A3hzA8ToS4E)"
+					"value": "• [Ancient Pages guide | Charis - YouTube](https://www.youtube.com/watch?v=A3hzA8ToS4E)"
 				}
 			],
 			"footer": {
@@ -6426,7 +6534,7 @@ exports.data = {
 				},
 				{
 					"name": "Guide:",
-					"value": "[Bones to Peaches Quick Guide | Nonnera RS - YouTube](https://www.youtube.com/watch?v=Yfs2KMlDBcQ)"
+					"value": "• [Bones to Peaches Quick Guide | Nonnera RS - YouTube](https://www.youtube.com/watch?v=Yfs2KMlDBcQ)"
 				}
 			],
 			"footer": {
@@ -6453,8 +6561,8 @@ exports.data = {
                     "value": "• You must have completed waves 1-10 on Hard Mode Barbarian Assault"
                 },
                 {
-                    "name": "Guide:",
-                    "value": "[A quick Penance King kill guide | A Friend - YouTube](https://www.youtube.com/watch?v=TTLz5Kn-0v4)"
+					"name": "Guide:",
+					"value": "• [A quick Penance King kill guide | A Friend - YouTube](https://www.youtube.com/watch?v=TTLz5Kn-0v4)"
                 }
             ],
             "footer": {
@@ -6486,7 +6594,7 @@ exports.data = {
 				},
 				{
 					"name": "Guide:",
-					"value": "[Dimension of Disaster guide | Runescape Wiki](http://runescape.wikia.com/wiki/Dimension_of_Disaster)"
+					"value": "• [Dimension of Disaster guide | Runescape Wiki](http://runescape.wikia.com/wiki/Dimension_of_Disaster)"
 				}
 			],
 			"footer": {
@@ -6558,7 +6666,7 @@ exports.data = {
 				},
 				{
 					"name": "Guide:",
-					"value": "[Knight Waves Training Ground Guide | Runescape Wiki](http://runescape.wikia.com/wiki/Knight_Waves_training_ground)"
+					"value": "• [Knight Waves Training Ground Guide | Runescape Wiki](http://runescape.wikia.com/wiki/Knight_Waves_training_ground)"
 				}
 			],
 			"footer": {
@@ -6575,7 +6683,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Port Life](http://runescape.wikia.com/wiki/Port_Life) is an achievement that requires the player to follow the [Player-owned port tutorial](https://runescape.wikia.com/wiki/Player-owned_port#Tutorial).\n\nThis minigame involves players building their own port in order to manage a fleet of [ships](https://runescape.wikia.com/wiki/Player-owned_port#The_ship), staffed by recruited [crew members](https://runescape.wikia.com/wiki/Player-owned_port#Captains_and_crew). These ships explore the [Wushanko Isles](https://runescape.wikia.com/wiki/Wushanko_Isles) on the player's behalf and return with exotic items and supplies that are otherwise unavailable.\n\nPlayers can start the minigame by entering one of three portals located south-west of the [Rusty Anchor](https://runescape.wikia.com/wiki/The_Rusty_Anchor) pub in [Port Sarim](https://runescape.wikia.com/wiki/Port_Sarim), north-east of the [Lodestone](https://runescape.wikia.com/wiki/Lodestone_Network) in [Prifddinas](https://runescape.wikia.com/wiki/Prifddinas), or in the southern part of the [Port district](https://runescape.wikia.com/wiki/Port_district) in [Menaphos](https://runescape.wikia.com/wiki/Menaphos).",
+			"description": "[Port Life](http://runescape.wikia.com/wiki/Port_Life) is an achievement that requires the player to follow the [Player-owned port tutorial](https://runescape.wikia.com/wiki/Player-owned_port#Tutorial).\n\nThis minigame involves players building their own port in order to manage a fleet of [ships](https://runescape.wikia.com/wiki/Player-owned_port#The_ship), staffed by recruited [crew members](https://runescape.wikia.com/wiki/Player-owned_port#Captains_and_crew). These ships explore the [Wushanko Isles](https://runescape.wikia.com/wiki/Wushanko_Isles) on the player's behalf and return with exotic items and supplies that are otherwise unavailable.\n\nPlayers can start the minigame by entering one of three portals located either south-west of the [Rusty Anchor](https://runescape.wikia.com/wiki/The_Rusty_Anchor) pub in [Port Sarim](https://runescape.wikia.com/wiki/Port_Sarim), north-east of the [Lodestone](https://runescape.wikia.com/wiki/Lodestone_Network) in [Prifddinas](https://runescape.wikia.com/wiki/Prifddinas), or in the southern part of the [Port district](https://runescape.wikia.com/wiki/Port_district) in [Menaphos](https://runescape.wikia.com/wiki/Menaphos).",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -6734,7 +6842,7 @@ exports.data = {
 				},
 				{
 					"name": "Guide:",
-					"value": "[Complete Queen Black Dragon guide | Trissle - YouTube](https://www.youtube.com/watch?v=2hsgcV_fp5Q)"
+					"value": "• [Complete Queen Black Dragon guide | Trissle - YouTube](https://www.youtube.com/watch?v=2hsgcV_fp5Q)"
 				}
 			],
 			"footer": {
@@ -6761,8 +6869,8 @@ exports.data = {
                     "value": "• 211,860 Runespan points\n• [Infinity Etheral Outfit](https://runescape.wikia.com/wiki/Infinity_ethereal_outfit) and [Master Runecrafter Robes](https://runescape.wikia.com/wiki/Master_runecrafter_robes) are recommended"
                 },
                 {
-                    "name": "Guide:",
-                    "value": "[Efficiency Experts Ultimate Guide to Runespan | Efficiency Experts - YouTube](https://www.youtube.com/watch?v=xWFruSMMK9s)"
+					"name": "Guide:",
+					"value": "• [Efficiency Experts Ultimate Guide to Runespan | Efficiency Experts - YouTube](https://www.youtube.com/watch?v=xWFruSMMK9s)"
                 }
             ],
             "footer": {
@@ -6926,7 +7034,7 @@ exports.data = {
 				},
 				{
 					"name": "Guide:",
-					"value": "[Golden Rock Guide | Runescape Wiki](http://runescape.wikia.com/wiki/Golden_rock)"
+					"value": "• [Golden Rock Guide | Runescape Wiki](http://runescape.wikia.com/wiki/Golden_rock)"
 				}
 					],
 					"footer": {
@@ -7046,7 +7154,7 @@ exports.data = {
 				},
 				{
 					"name": "Guide:",
-					"value": "[Scabarite Notes Collection guide | Rogie - YouTube](https://www.youtube.com/watch?v=8rz821vlUsw)"
+					"value": "• [Scabarite Notes Collection guide | Rogie - YouTube](https://www.youtube.com/watch?v=8rz821vlUsw)"
 				}
 			],
 			"footer": {
@@ -7269,8 +7377,8 @@ exports.data = {
                     "value": "• A [Barrows totem](https://runescape.wikia.com/wiki/Barrows_totem)"
                 },
                 {
-                    "name": "Guide:",
-                    "value": "[Rise of the Six Guide | The Junesong - YouTube](https://www.youtube.com/watch?v=lN5vy1gEh4o)"
+					"name": "Guide:",
+					"value": "• [Rise of the Six Guide | The Junesong - YouTube](https://www.youtube.com/watch?v=lN5vy1gEh4o)"
                 }
             ],
             "footer": {
@@ -7426,7 +7534,7 @@ exports.data = {
 				},
 				{
 					"name": "Guide:",
-					"value": "[Updated Rush of Blood Guide | The Junesong - YouTube](https://www.youtube.com/watch?v=l5jz9ybmg-U)"
+					"value": "• [Updated Rush of Blood Guide | The Junesong - YouTube](https://www.youtube.com/watch?v=l5jz9ybmg-U)"
 				}
 			],
 			"footer": {
@@ -7577,8 +7685,8 @@ exports.data = {
                     "value": "• 1,000 Slayer points"
                 },
                 {
-                    "name": "Guide:",
-                    "value": "[How to farm Slayer Points FAST & Easy | puretppc - YouTube](https://www.youtube.com/watch?v=PR7v91xbGBQ)"
+					"name": "Guide:",
+					"value": "• [How to farm Slayer Points FAST & Easy | puretppc - YouTube](https://www.youtube.com/watch?v=PR7v91xbGBQ)"
                 }
             ],
             "footer": {
@@ -7680,7 +7788,7 @@ exports.data = {
         		},
             {
 					"name": "Guide:",
-					"value": "[Stronghold of Player Safety Map and Chest location | Runescape Wiki](https://runescape.wikia.com/wiki/Map:Stronghold_of_Player_Safety)"
+					"value": "• [Stronghold of Player Safety Map and Chest location | Runescape Wiki](https://runescape.wikia.com/wiki/Map:Stronghold_of_Player_Safety)"
 				}
 			],
 			"footer": {
@@ -7724,7 +7832,7 @@ exports.data = {
         		},
             {
 					"name": "Guide:",
-					"value": "[Stronghold of Security Map and Chest locations | Runescape Wiki](https://runescape.wikia.com/wiki/File:Stronghold_of_Security_map.png)"
+					"value": "• [Stronghold of Security Map and Chest locations | Runescape Wiki](https://runescape.wikia.com/wiki/File:Stronghold_of_Security_map.png)"
 				}
 			],
 			"footer": {
@@ -8008,7 +8116,7 @@ exports.data = {
 				},
 				{
 					"name": "Guide:",
-					"value": "[The Lair of Tarn Razorlor Miniquest Guide | Runescape Wiki](http://runescape.wikia.com/wiki/The_Lair_of_Tarn_Razorlor)"
+					"value": "• [The Lair of Tarn Razorlor Miniquest Guide | Runescape Wiki](http://runescape.wikia.com/wiki/The_Lair_of_Tarn_Razorlor)"
 				}
 			],
 			"footer": {
@@ -8035,8 +8143,8 @@ exports.data = {
                     "value": "•80 Attack\n• 80 Prayer\n• 80 Magic\n• 80 Ranged\n\n• An [Ancient Sigil](http://runescape.wikia.com/wiki/Ancient_sigil)\n• Players must have defeated [Helwyr](https://runescape.wikia.com/wiki/Helwyr), [Gregorovic](https://runescape.wikia.com/wiki/Gregorovic), the [Twin Furies](https://runescape.wikia.com/wiki/Twin_Furies), and [Vindicta](https://runescape.wikia.com/wiki/Vindicta) at least once to obtain their sigil pieces"
                 },
                 {
-                    "name": "Guide:",
-                    "value": "[Complete Telos Guide | The Junesong - YouTube](https://www.youtube.com/watch?v=Lv6QRSgBY5w)"
+					"name": "Guide:",
+					"value": "• [Complete Telos Guide | The Junesong - YouTube](https://www.youtube.com/watch?v=Lv6QRSgBY5w)"
                 }
             ],
             "footer": {
@@ -8355,11 +8463,15 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Trip to the East](http://runescape.wikia.com/wiki/Trip_to_the_East) is an achievement that requires the player to complete one of the storylines in the [player-owned port](https://runescape.wikia.com/wiki/Player-owned_port): [Quin](https://runescape.wikia.com/wiki/Quin), [Hyu-Ji](https://runescape.wikia.com/wiki/Hyu-Ji), [Eastern Curiosities](https://runescape.wikia.com/wiki/Eastern_Curiosities), or [Guardians of the World](https://runescape.wikia.com/wiki/Guardians_of_the_World). It is advised to not aim for Guardians of the World as the story line, as the final trio story voyage for Guardians of the World also requires that you have 6,000,000 [distance](https://runescape.wikia.com/wiki/Player-owned_port#Distance_travelled) and unlocked the island [Exile's Point](https://runescape.wikia.com/wiki/Exile%27s_Point).\n\nNote: You must have **THREE** trios of **ONE** story line completed, giving your adventurer a total of **9/9** completed, not a single trio for 7/7 completed as is commonly believed.",
+			"description": "[Trip to the East](http://runescape.wikia.com/wiki/Trip_to_the_East) is an achievement that requires the player to complete one of the storylines in the [player-owned port](https://runescape.wikia.com/wiki/Player-owned_port): [Quin](https://runescape.wikia.com/wiki/Quin), [Hyu-Ji](https://runescape.wikia.com/wiki/Hyu-Ji), [Eastern Curiosities](https://runescape.wikia.com/wiki/Eastern_Curiosities), or [Guardians of the World](https://runescape.wikia.com/wiki/Guardians_of_the_World).\n\nPlayers can start the Player-owned port [minigame](https://runescape.wikia.com/wiki/Minigames) by entering one of three portals located either south-west of the [Rusty Anchor](https://runescape.wikia.com/wiki/The_Rusty_Anchor) pub in [Port Sarim](https://runescape.wikia.com/wiki/Port_Sarim), north-east of the [Lodestone](https://runescape.wikia.com/wiki/Lodestone_Network) in [Prifddinas](https://runescape.wikia.com/wiki/Prifddinas), or in the southern part of the [Port district](https://runescape.wikia.com/wiki/Port_district) in [Menaphos](https://runescape.wikia.com/wiki/Menaphos).\n\nPlayers can manage almost all of their port from anywhere with the [Captain's log](https://runescape.wikia.com/wiki/Captain%27s_Log). The captain's log is a book that contains personalised information about the player-owned port minigame. It is obtained after completing the player-owned port [tutorial](https://runescape.wikia.com/wiki/Player-owned_port#Tutorial). When lost, this item can be reclaimed from [The Navigator](https://runescape.wikia.com/wiki/The_Navigator) by talking to him or right-clicking \"Reclaim log.\" There are four primary functions of this item: sending out [standard voyages](https://runescape.wikia.com/wiki/Player-owned_port#Standard_voyages), reading player statistics, viewing the map, and teleporting the player to the port.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
 			"fields": [
+				{
+					"name": "​",
+					"value": "It is advised to not aim for Guardians of the World as the story line, as the final trio story voyage for Guardians of the World also requires that you have 6,000,000 [distance](https://runescape.wikia.com/wiki/Player-owned_port#Distance_travelled) and unlocked the island [Exile's Point](https://runescape.wikia.com/wiki/Exile%27s_Point).\n\nNote: You must have **THREE** trios of **ONE** story line completed, giving your adventurer a total of **9/9** completed, not a single trio for 7/7 completed as is commonly believed."
+				},
 				{
 					"name": "The recommended steps to fulfill this achievement are:",
 					"value": "1. Send out as many [adventurers](https://runescape.wikia.com/wiki/Player-owned_port/Special_voyages) as possible that you do NOT need on voyages. Do NOT check their voyages, leave them there until you get your required trio voyage. This works even better if you send out duo adventurers you do NOT need on voyages."
@@ -8390,7 +8502,7 @@ exports.data = {
 				},
 				{
 					"name": "Guide:",
-					"value": "[Kags' POP Encyclopedia V5 | Runescape Forums](http://services.runescape.com/m=forum/forums.ws?75,76,519,65829739)"
+					"value": "• [Kags' POP Encyclopedia V5 | Runescape Forums](http://services.runescape.com/m=forum/forums.ws?75,76,519,65829739)"
 				}
 			],
 			"footer": {
@@ -8506,7 +8618,7 @@ exports.data = {
 				},
 				{
 					"name": "Guide:",
-					"value": "[Prifddinas Crystal Locations | Runescape Wiki](http://runescape.wikia.com/wiki/Memoriam_crystal#Prifddinas_crystal_locations)"
+					"value": "• [Prifddinas Crystal Locations | Runescape Wiki](http://runescape.wikia.com/wiki/Memoriam_crystal#Prifddinas_crystal_locations)"
 				}
 			],
 			"footer": {
@@ -8558,7 +8670,7 @@ exports.data = {
 				},
 				{
 					"name": "Guide:",
-					"value": "[Prifddinas Crystal Locations | Runescape Wiki](http://runescape.wikia.com/wiki/Memoriam_crystal#Prifddinas_crystal_locations)"
+					"value": "• [Prifddinas Crystal Locations | Runescape Wiki](http://runescape.wikia.com/wiki/Memoriam_crystal#Prifddinas_crystal_locations)"
 				}
 			],
 			"footer": {
@@ -8651,11 +8763,19 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Walking the Reef](http://runescape.wikia.com/wiki/Walking_the_Reef) is an achievement that requires the player to find the four parts of the [reefwalker's cape](https://runescape.wikia.com/wiki/Reefwalker%27s_cape) [eastern scroll](https://runescape.wikia.com/wiki/Eastern_scroll) within the [player-owned port](https://runescape.wikia.com/wiki/Player-owned_port).\n\nEastern scrolls are blueprints obtained from the [Wushanko Isles](https://runescape.wikia.com/wiki/Wushanko_Isles) in the Player-owned port minigame. Scrolls have four parts each and must be completed before the item may be created. Scrolls can only be obtained from [adventurer voyages](https://runescape.wikia.com/wiki/Player-owned_port/Special_voyages), which have the highest difficulty. You can select which scrolls to look for and see how many you have in the [Port Management](https://runescape.wikia.com/wiki/Player-owned_port/Interfaces#Port_Management) screen which you can access from the [Captains Log](https://runescape.wikia.com/wiki/Captain%27s_Log) or by clicking the button at the top of the screen when in the ports area.\n\nIn order to get the most scrolls in the shortest time, it is best to start farming them when reaching [the Skull](https://runescape.wikia.com/wiki/The_Skull). Travelling far enough to access a new [region](https://runescape.wikia.com/wiki/Player-owned_port#Regions) will cause the time and difficulty of scroll missions to go up.",
+			"description": "[Walking the Reef](http://runescape.wikia.com/wiki/Walking_the_Reef) is an achievement that requires the player to find the four parts of the [reefwalker's cape](https://runescape.wikia.com/wiki/Reefwalker%27s_cape) [eastern scroll](https://runescape.wikia.com/wiki/Eastern_scroll) within the [player-owned port](https://runescape.wikia.com/wiki/Player-owned_port).\n\nPlayers can start the Player-owned port [minigame](https://runescape.wikia.com/wiki/Minigames) by entering one of three portals located either south-west of the [Rusty Anchor](https://runescape.wikia.com/wiki/The_Rusty_Anchor) pub in [Port Sarim](https://runescape.wikia.com/wiki/Port_Sarim), north-east of the [Lodestone](https://runescape.wikia.com/wiki/Lodestone_Network) in [Prifddinas](https://runescape.wikia.com/wiki/Prifddinas), or in the southern part of the [Port district](https://runescape.wikia.com/wiki/Port_district) in [Menaphos](https://runescape.wikia.com/wiki/Menaphos).\n\nPlayers can manage almost all of their port from anywhere with the [Captain's log](https://runescape.wikia.com/wiki/Captain%27s_Log). The captain's log is a book that contains personalised information about the player-owned port minigame. It is obtained after completing the player-owned port [tutorial](https://runescape.wikia.com/wiki/Player-owned_port#Tutorial). When lost, this item can be reclaimed from [The Navigator](https://runescape.wikia.com/wiki/The_Navigator) by talking to him or right-clicking \"Reclaim log.\" There are four primary functions of this item: sending out [standard voyages](https://runescape.wikia.com/wiki/Player-owned_port#Standard_voyages), reading player statistics, viewing the map, and teleporting the player to the port.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
 			"fields": [
+				{
+					"name": "​",
+					"value": "Eastern scrolls are blueprints obtained from the [Wushanko Isles](https://runescape.wikia.com/wiki/Wushanko_Isles) in the Player-owned port minigame. Scrolls have four parts each and must be completed before the item may be created. Scrolls can only be obtained from [adventurer voyages](https://runescape.wikia.com/wiki/Player-owned_port/Special_voyages), which have the highest difficulty. You can select which scrolls to look for and see how many you have in the [Port Management](https://runescape.wikia.com/wiki/Player-owned_port/Interfaces#Port_Management) screen which you can access from the Captains Log or by clicking the button at the top of the screen when in the ports area."
+				},
+				{
+					"name": "​",
+					"value": "In order to get the most scrolls in the shortest time, it is best to start farming them when reaching [the Skull](https://runescape.wikia.com/wiki/The_Skull) region. Travelling far enough to access a new [region](https://runescape.wikia.com/wiki/Player-owned_port#Regions) will cause the time and difficulty of scroll missions to go up."
+				},
 				{
 					"name": "Requirements:",
 					"value": "Level 90 in one of the following skills:\n• Agility\n• Construction\n• Cooking\n• Divination\n• Dungeoneering\n• Fishing\n• Herblore\n• Hunter\n• Prayer\n• Runecrafting\n• Slayer\n• Thieving"
@@ -8706,7 +8826,7 @@ exports.data = {
 				},
 				{
 					"name": "Guide:",
-					"value": "[Doric and Boric Tasks Guide | Runescape Wiki](http://runescape.wikia.com/wiki/Doric_and_Boric_tasks)"
+					"value": "• [Doric and Boric Tasks Guide | Runescape Wiki](http://runescape.wikia.com/wiki/Doric_and_Boric_tasks)"
 				}
 			],
 			"footer": {
@@ -8942,7 +9062,7 @@ exports.data = {
 				},
 				{
 					"name": "Guide:",
-					"value": "[RS3 Charm Sprite Guide | Teh Proez - YouTube](http://runescape.wikia.com/wiki/Doric_and_Boric_tasks)"
+					"value": "• [RS3 Charm Sprite Guide | Teh Proez - YouTube](http://runescape.wikia.com/wiki/Doric_and_Boric_tasks)"
 				}
 			],
 			"footer": {
@@ -9014,7 +9134,7 @@ exports.data = {
 				},
 				{
 					"name": "Guide:",
-					"value": "[Hopespear's Will Miniquest Guide | Runescape Wiki](http://runescape.wikia.com/wiki/Hopespear%27s_Will)"
+					"value": "• [Hopespear's Will Miniquest Guide | Runescape Wiki](http://runescape.wikia.com/wiki/Hopespear%27s_Will)"
 				}
 			],
 			"footer": {
@@ -9114,7 +9234,7 @@ exports.data = {
 				},
 				{
 					"name": "Guide:",
-					"value": "[Freneskae Map and Locations | Runescape Wiki](https://runescape.wikia.com/wiki/Map:Freneskae)"
+					"value": "• [Freneskae Map and Locations | Runescape Wiki](https://runescape.wikia.com/wiki/Map:Freneskae)"
 				}
 			],
 			"footer": {
