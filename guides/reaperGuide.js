@@ -44,11 +44,11 @@ exports.data = {
                     },
                     {
                         "name": "Mechanics",
-                        "value": "Araxxor and Araxxi will use a special attack after every 5 attacks. Some of these mechanics can be made easier to deal with by using [anticipate](http://runescape.wikia.com/wiki/Anticipation) or [freedom](http://runescape.wikia.com/wiki/Freedom) prior to the special attack. As such, one of the key points to doing this boss is counting auto attacks between specials, and using anticipate or freedom on the 5th auto attack. Each phase has 100k Health"
+                        "value": "Araxxor and Araxxi will use a special attack after every 5 attacks. Some of these mechanics can be made easier to deal with by using [anticipate](http://runescape.wikia.com/wiki/Anticipation) or [freedom](http://runescape.wikia.com/wiki/Freedom) prior to the special attack. As such, one of the key points to doing this boss is counting auto attacks between specials, and using anticipate or freedom on the 5th auto attack. Each phase has 100,000 Health"
                     },
                     {
                         "name": "​",
-                        "value": "• **Cleave (Phase 1, 3 and 4):** Araxxor pulls the player in, and cleaves the player dealing around 4k damage. If you anticipate or freedom prior to this special, you will not be pulled in. If you are pulled in, immediately click away from araxxor to dodge the cleave.\n\n• **Cocoon (Phase 1,3 and 4):** Araxxor encases the player in a cocoon, dealing rapid hits of around 200 damage. The player needs to spam click to escape from the cocoon. If you anticipate or freedom prior to this special, the amount of spam clicking needed is reduced.\n\n• **Web Shield (Phase 1,3 and 4):** Araxxor encases himself in a web, healing 1.000, 5 times, and reflecting any damage done by the player. If it reflects damage, it will not heal. You can either\n\t1. Not attack, not take reflect hits, and let araxxor heal 5.000.\n\t2. Use [fragmentation shot](http://runescape.wikia.com/wiki/Fragmentation_Shot), take minimal reflect hits and prevent araxxor from healing."
+                        "value": "• **Cleave (Phase 1, 3 and 4):** Araxxor pulls the player in, and cleaves the player dealing around 4,000 damage. If you anticipate or freedom prior to this special, you will not be pulled in. If you are pulled in, immediately click away from araxxor to dodge the cleave.\n\n• **Cocoon (Phase 1,3 and 4):** Araxxor encases the player in a cocoon, dealing rapid hits of around 200 damage. The player needs to spam click to escape from the cocoon. If you anticipate or freedom prior to this special, the amount of spam clicking needed is reduced.\n\n• **Web Shield (Phase 1,3 and 4):** Araxxor encases himself in a web, healing 1,000, 5 times, and reflecting any damage done by the player. If it reflects damage, it will not heal. You can either\n\t1. Not attack, not take reflect hits, and let araxxor heal 5,000.\n\t2. Use [fragmentation shot](http://runescape.wikia.com/wiki/Fragmentation_Shot), take minimal reflect hits and prevent araxxor from healing."
                     },
                     {
                         "name": "​",
@@ -56,15 +56,15 @@ exports.data = {
                     },
                     {
                         "name": "Phase 1:",
-                        "value": "Once you enter the arena, Run to the southernmost web and burn it. Pray mage, stay out of melee distance, count attacks and DPS araxxor while dealing with mechanics as described above.\n\nAraxxor will use the cleave, cocoon and web shield specials. When Araxxor hits 5.000 Life points and the web is burnt down follow the path into phase 2."
+                        "value": "Once you enter the arena, Run to the southernmost web and burn it. Pray mage, stay out of melee distance, count attacks, and DPS araxxor while dealing with mechanics as described above.\n\nAraxxor will use the cleave, cocoon and web shield specials. When Araxxor hits 5,000 Life points and the web is burnt down, follow the path into phase 2."
                     },
                     {
                         "name": "Phase 2:",
-                        "value": "This whole phase is under the Darkness special attack. So stand in the light when you can. Occasionally, araxxor will spawn a set of eggs and a bomb which chases you. Walk onto the eggs so that the bomb hits you while you are standing on the eggs. This will reduce the damage of the bomb from 3000 to 300 and prevent minions spawning. It is always worth going into the darkness to walk onto eggs at 0%.\n\n[Surge](http://runescape.wikia.com/wiki/Surge) and [bladed dive](http://runescape.wikia.com/wiki/Bladed_dive) are highly recommended to help you move into the light quickly, but are not entirely necessary, the darkness should not hit very high at 0%, eat up if you feel unsafe."
+                        "value": "This whole phase is under the Darkness special attack. So stand in the light when you can. Occasionally, Araxxor will spawn a set of eggs and a bomb which chases you. Walk onto the eggs so that the bomb hits you while you are standing on the eggs. This will reduce the damage of the bomb from 3,000 to 300 and prevent minions spawning. It is always worth going into the darkness to walk onto eggs at 0%.\n\n[Surge](http://runescape.wikia.com/wiki/Surge) and [bladed dive](http://runescape.wikia.com/wiki/Bladed_dive) are highly recommended to help you move into the light quickly, but are not entirely necessary. The darkness should not hit very high at 0%, eat up if you feel unsafe."
                     },
                     {
                         "name": "​",
-                        "value": "The phase progresses when araxxor charges at you. This will trigger a cutscene of araxxor swiping at you. In response to this, you must press the arrow key which corresponds to the direction araxxor swipes.\n\t• When Araxxor swipes from the right, dodge **right (right arrow key)**.\n\t• When Araxxor swipes from the left, dodge **left (left arrow key)**.\n\t• When Araxxor's front legs are low to the ground and spread, dodge **up (up arrow key)**.\n\t• When Araxxor's front legs are pointing down and close to each other, dodge **down (down arrow key)**"
+                        "value": "The phase progresses when Araxxor charges at you. This will trigger a cutscene of Araxxor swiping at you. In response to this, you must press the arrow key which corresponds to the direction Araxxor swipes.\n\t• When Araxxor swipes from the right, dodge **right (right arrow key)**.\n\t• When Araxxor swipes from the left, dodge **left (left arrow key)**.\n\t• When Araxxor's front legs are low to the ground and spread, dodge **up (up arrow key)**.\n\t• When Araxxor's front legs are pointing down and close to each other, dodge **down (down arrow key)**"
                     }
                   ]
   },
@@ -72,20 +72,24 @@ exports.data = {
                 "fields": [
                     {
                         "name": "Phase 3:",
-                        "value": "Once the wall is down, the kill will automatically transition to phase 3. This is similar to Phase 1, but araxxor will use all available special attacks and increase his attack speed.\n\nOnce again, dps 100.000 Life points while dealing with mechanics."
+                        "value": "Once the wall is down, the kill will automatically transition to phase 3. This is similar to Phase 1, but Araxxor will use all available special attacks and increase his attack speed.\n\nOnce again, dps 100,000 Life points while dealing with mechanics."
                     },
                     {
                         "name": "Phase 4:",
-                        "value": "Araxxi attacks with both range and mage, so it is important to flick prayers during this phase. Drink your antipoison potion because araxxi can poison you.\nA green orb of poison is the magic attack - so pray mage.\nA white ball of silk is the ranged attack - so pray ranged.\n\n[Revolution](http://runescape.wikia.com/wiki/Revolution) may be useful for this part, especially if you are new, so you can focus on prayer flicking. For the first 50.000 Life points, Rax will use special attacks just like phase 3, so remember to anticipate and freedom while dpsing.\n\nShe stops using specials after her health falls below 50.000 Life points. And at 25.000 Life points she drains 50% adrenaline and spawns a black sludge. The sludge will bounce around the platform randomly at least five times before bouncing towards the player. If the sludge hits you, you will take heavy damage, which will continue if you do not move out of that spot. Let the sludge hit you once and then move off of your square."
+                        "value": "Araxxi attacks with both range and mage, so it is important to flick [prayers](https://runescape.wikia.com/wiki/Deflect_Curses) during this phase. Clear the poison through your preffered method, such as an [antipoison potion](https://runescape.wikia.com/wiki/Antipoison) while in this phase.\nA green orb of poison is the magic attack - so pray mage.\nA white ball of silk is the ranged attack - so pray ranged."
                     },
                     {
                         "name": "​",
-                        "value": "A very simple way to finish off the kill is, remembering to pray flick throughout:\n\t1. Build to 100% adrenaline while lowering Araxxi to 30.000 Life points.\n\t2. Use [Devotion](http://runescape.wikia.com/wiki/Devotion).\n\t3. Use a [Adrenaline Potion](http://runescape.wikia.com/wiki/Adrenaline_potion) or [replenishment potion](http://runescape.wikia.com/wiki/Replenishment_potion).\n\t4. Use [Onslaught](http://runescape.wikia.com/wiki/Onslaught), (activate [enhanced excalibur](http://runescape.wikia.com/wiki/Enhanced_Excalibur) if you have it).\n\nIf the kill is not finished, eat up and continue dealing damage. While keeping a eye out for the slugde."
+                        "value": "[Revolution](http://runescape.wikia.com/wiki/Revolution) may be useful for this part, especially if you are new, so you can focus on prayer flicking. For the first 50,000 Life points, Araxxi will use special attacks just like phase 3, so remember to anticipate and freedom while dpsing.\n\nShe stops using specials after her health falls below 50,000 Life points, and at 25,000 Life points she drains 50% adrenaline and spawns a black acidic core. The acidic core will bounce around the platform randomly at least five times before bouncing towards the player. If the acidic core hits you, you will take heavy damage, which will continue if you do not move out of that spot. Let the acidic core hit you once and then move off of your square."
+                    },
+                    {
+                        "name": "​",
+                        "value": "A very simple way to finish off the kill is, remembering to pray flick throughout:\n\t1. Build to 100% adrenaline while lowering Araxxi to 30,000 Life points.\n\t2. Use [Devotion](http://runescape.wikia.com/wiki/Devotion).\n\t3. Use a [Adrenaline Potion](http://runescape.wikia.com/wiki/Adrenaline_potion) or [replenishment potion](http://runescape.wikia.com/wiki/Replenishment_potion).\n\t4. Use [Onslaught](http://runescape.wikia.com/wiki/Onslaught) and activate [enhanced excalibur](http://runescape.wikia.com/wiki/Enhanced_Excalibur).\n\nIf the kill is not finished, eat up and continue dealing damage. While keeping a eye out for the acidic core."
                     }
                 ],
                 "footer": {
                     "icon_url": "https://images-ext-2.discordapp.net/external/fkEkEkLF-5krIYVQdAOfYdvyUW4_mm6xFLacYDdGYpw/%3Fcb%3D20171023212914/https/vignette.wikia.nocookie.net/runescape2/images/c/c9/The_Reaper.png/revision/latest",
-                    "text": "All first time reaper kills are free in #reaper-request-list!"
+                    "text": "Remember, all first time reaper kills are free in #reaper-request-list"
                 },
                 "timestamp": new Date()
             }
