@@ -13,7 +13,7 @@ exports.data = {
             "fields": [
                 {
                     "name": "​",
-                    "value": "[Pest Control](https://runescape.wikia.com/wiki/Pest_Control) \n\t• **Location:** [Void Knights' Outpost](https://runescape.wikia.com/wiki/Void_Knights%27_Outpost)\n\t• **Tips:** This game requires 5-25 players. It is not worth playing on spotlight unless you organize a team through the AFK Thaler role tag as games end far too often on the official worls. An alternative option is to play the game on the official worlds (53, 69) in order to gain thaler and [commendation points](https://runescape.wikia.com/wiki/Void_Knight_commendation_points) for [Elite Void Knight Equipment](https://runescape.wikia.com/wiki/Elite_Void_Knight_equipment)."
+                    "value": "[Pest Control](https://runescape.wikia.com/wiki/Pest_Control) \n\t• **Location:** [Void Knights' Outpost](https://runescape.wikia.com/wiki/Void_Knights%27_Outpost)\n\t• **Tips:** This game requires 5-25 players. It is not worth playing on spotlight unless you organize a team through the AFK Thaler role tag as games end far too often on the official worlds. An alternative option is to play the game on the official worlds (53, 69) in order to gain thaler and [commendation points](https://runescape.wikia.com/wiki/Void_Knight_commendation_points) for [Elite Void Knight Equipment](https://runescape.wikia.com/wiki/Elite_Void_Knight_equipment)."
                 },
                 {
                     "name": "​",
@@ -21,7 +21,7 @@ exports.data = {
                 },
                 {
                     "name": "​",
-                    "value": "[Fist of Guthix](https://runescape.wikia.com/wiki/Fist_of_Guthix) \n\t• **Location:** [Gamers' Grotto](https://runescape.wikia.com/wiki/Gamers%27_Grotto)\n\t• **Tips:** This game requires 4+ people to play. Games run consistently on world 92 during the spotlight. You can grab a [stone of power](https://runescape.wikia.com/wiki/Stone_of_power) from a [stone dispenser](https://runescape.wikia.com/wiki/Stone_dispenser) if you are the hunted for a chance of winning, if winning is desired. As the hunted, you may be killed. Simply ignore players attempting to grief and enjoy the Thaler as the hunter or start a prviate game."
+                    "value": "[Fist of Guthix](https://runescape.wikia.com/wiki/Fist_of_Guthix) \n\t• **Location:** [Gamers' Grotto](https://runescape.wikia.com/wiki/Gamers%27_Grotto)\n\t• **Tips:** This game requires 4+ people to play. Games run consistently on world 92 during the spotlight. You can grab a [stone of power](https://runescape.wikia.com/wiki/Stone_of_power) from a [stone dispenser](https://runescape.wikia.com/wiki/Stone_dispenser) if you are the hunted for a chance of winning, if winning is desired. As the hunted, you may be killed. Simply ignore players attempting to grief and enjoy the Thaler as the hunter or start a private game."
                 },
                 {
                     "name": "​",
@@ -66,11 +66,11 @@ exports.data = {
                 },
                 {
                     "name": "​",
-                    "value": "[Flash Powder Factory](https://runescape.wikia.com/wiki/Flash_Powder_Factory) \n\t• **Location:** [Rogues' Den](https://runescape.wikia.com/wiki/Rogues%27_Den)\n\t• **Tips:** This game is instanced across every world. Players may simply stand wherever they are spawned for the duraiton of their alotted time in the factory."
+                    "value": "[Flash Powder Factory](https://runescape.wikia.com/wiki/Flash_Powder_Factory) \n\t• **Location:** [Rogues' Den](https://runescape.wikia.com/wiki/Rogues%27_Den)\n\t• **Tips:** This game is instanced across every world. Players may simply stand wherever they are spawned for the duration of their allotted time in the factory."
                 },
                 {
                     "name": "​",
-                    "value": "[Mobilising Armies](https://runescape.wikia.com/wiki/Mobilising_Armies) \n\t• **Location:** West of [Oo'glog](https://runescape.wikia.com/wiki/Oo%27glog)\n\t• **Tips:** This game is consitently played on world 76 during spotlight. This is the only world in which it may be played with 4 players, so utilizing pre-formed teams is not an option. Many players during spotlight are attempting to complete the trimmed completionist rank of obtaining rank 401 at the minigame. Consequently, you may find games ending early from the aforementioned players leaving before the time ends."
+                    "value": "[Mobilising Armies](https://runescape.wikia.com/wiki/Mobilising_Armies) \n\t• **Location:** West of [Oo'glog](https://runescape.wikia.com/wiki/Oo%27glog)\n\t• **Tips:** This game is consistently played on world 76 during spotlight. This is the only world in which it may be played with 4 players, so utilizing pre-formed teams is not an option. Many players during spotlight are attempting to complete the trimmed completionist rank of obtaining rank 401 at the minigame. Consequently, you may find games ending early from the aforementioned players leaving before the time ends."
                 }
             ],
            "footer": {
