@@ -63,6 +63,8 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 		let third = "";
 		let fourth = "";
 		let fifth = "";
+		let sixth = "";
+		let seventh = "";
 		const helpEmbed = data["help"];
 		keyList.forEach(k => {
 			const [cat, sub, ach] = k.split(" - ");
@@ -76,6 +78,10 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 				fourth += `• ${data[k].title}\n`;
 			} else if (fifth.length <= 1950) {
 				fifth += `• ${data[k].title}\n`;
+			} else if (sixth.length <= 1950) {
+				sixth += `• ${data[k].title}\n`;
+			} else if (seventh.length <= 1950) {
+				seventh += `• ${data[k].title}\n`;
 			}
 		});
 		helpEmbed.title = "Comprehensive list of all valid RuneScore achievement guides";
@@ -105,6 +111,18 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 
 		if (fifth.length > 0) {
 			helpEmbed.description = fifth;
+			helpEmbed.timestamp = new Date();
+			await message.channel.send("", {embed: helpEmbed});
+		}
+
+		if (sixth.length > 0) {
+			helpEmbed.description = sixth;
+			helpEmbed.timestamp = new Date();
+			await message.channel.send("", {embed: helpEmbed});
+		}
+
+		if (seventh.length > 0) {
+			helpEmbed.description = seventh;
 			helpEmbed.timestamp = new Date();
 			await message.channel.send("", {embed: helpEmbed});
 		}
