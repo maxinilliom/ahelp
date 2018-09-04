@@ -4,7 +4,7 @@ exports.run = async (client, message, args, level) => {
 
 	await message.channel.send('', {embed: data[0]});
 	message.channel.send('', {embed: data[1]});
-
+	message.delete();
 };
 
 exports.conf = {
