@@ -61,15 +61,21 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 		let output = "";
 		let second = "";
 		let third = "";
+		let fourth = "";
+		let fifth = "";
 		const helpEmbed = data["help"];
 		keyList.forEach(k => {
 			const [cat, sub, ach] = k.split(" - ");
-			if (output.length <= 2000) {
+			if (output.length <= 1950) {
 				output += `• ${data[k].title}\n`;
-			} else if (second.length <= 2000) {
+			} else if (second.length <= 1950) {
 				second += `• ${data[k].title}\n`;
-			} else {
+			} else if (third.length <= 1950) {
 				third += `• ${data[k].title}\n`;
+			} else if (fourth.length <= 1950) {
+				fourth += `• ${data[k].title}\n`;
+			} else if (fifth.length <= 1950) {
+				fifth += `• ${data[k].title}\n`;
 			}
 		});
 		helpEmbed.title = "Comprehensive list of all valid RuneScore achievement guides";
@@ -77,12 +83,12 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 		helpEmbed.description = output;
 		helpEmbed.color = color;
 		helpEmbed.timestamp = new Date();
-		message.channel.send("", {embed: helpEmbed});
+		await message.channel.send("", {embed: helpEmbed});
 
 		if (second.length > 0) {
 			helpEmbed.description = second;
 			helpEmbed.timestamp = new Date();
-			message.channel.send("", {embed: helpEmbed});
+			await message.channel.send("", {embed: helpEmbed});
 		}
 
 		if (third.length > 0) {
@@ -90,6 +96,19 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 			helpEmbed.timestamp = new Date();
 			await message.channel.send("", {embed: helpEmbed});
 		}
+
+		if (fourth.length > 0) {
+			helpEmbed.description = fourth;
+			helpEmbed.timestamp = new Date();
+			await message.channel.send("", {embed: helpEmbed});
+		}
+
+		if (fifth.length > 0) {
+			helpEmbed.description = fifth;
+			helpEmbed.timestamp = new Date();
+			await message.channel.send("", {embed: helpEmbed});
+		}
+
 		const helpMsg = message.channel.id == '382701090430386180'
 			? `To search for an achievement, use **.${exports.help.name}** <keyword>.`
 			: `To search for an achievement, use **.${exports.help.name}** <keyword> in the <#382701090430386180> channel.`
