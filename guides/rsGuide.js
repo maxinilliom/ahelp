@@ -4795,7 +4795,6 @@ exports.data = {
     }
   },
   "exploration - wushanko: the arc - unlocking more waiko": {
-    "embed": {
       "title": "Arc - Unlocking More Waiko",
       "author": {
         "name": "RuneScore Achievement Info",
@@ -4822,7 +4821,6 @@ exports.data = {
         "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
         "text": "Runescore awarded: 30"
       }
-    }
   },
   "exploration - wushanko: the arc - upgrading all of the waiko": {
     "title": "Arc - Unlocking More Waiko",
