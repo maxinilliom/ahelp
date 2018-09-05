@@ -2667,13 +2667,13 @@ exports.data = {
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     }
   },
-  "unlockables - general - dialing fairy codes": {
-    "title": "Dialing Fairy Codes",
+  "unlockables - general - dialling fairy codes": {
+    "title": "Dialling Fairy Codes",
     "author": {
       "name": "True Trimmed Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Dialing Fairy Codes](https://runescape.wikia.com/wiki/Fairy_ring#Fairy_ring_codes) requires the player to unlock the all the [Fairy ring](https://runescape.wikia.com/wiki/Fairy_ring) codes. Unlocking all the codes can be achieved by having traveled to the corresponding location atleast once.",
+    "description": "[Dialling Fairy Codes](https://runescape.wikia.com/wiki/Fairy_ring#Fairy_ring_codes) requires the player to unlock the all the [Fairy ring](https://runescape.wikia.com/wiki/Fairy_ring) codes. Unlocking all the codes can be achieved by having traveled to the corresponding location atleast once.",
     "color": 10257648,
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/c/cc/Fairy_ring.png/revision/latest?cb=20130516090302"
@@ -2688,7 +2688,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "A full list of all the locations can be found on [the Runescape Wiki](https://runescape.wikia.com/wiki/Fairy_ring#Fairy_ring_codes)."
+        "value": "A full list of all the locations can be found on the [Runescape Wiki](https://runescape.wikia.com/wiki/Fairy_ring#Fairy_ring_codes)."
       }
     ],
     "footer": {
