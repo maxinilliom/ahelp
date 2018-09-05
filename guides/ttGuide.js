@@ -1726,6 +1726,10 @@ exports.data = {
   },
   "unlockables - boss collection log - corporeal beast": {
     "title": "Corporeal Beast",
+    "author": {
+      "name": "True Trimmed Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
     "description": "[Out of Body experience](https://runescape.wikia.com/wiki/Out_of_Body_experience) is an achievement that requires the player to complete the [Corporeal Beast](https://runescape.wikia.com/wiki/Corporeal_Beast) [Boss collection log](https://runescape.wikia.com/wiki/Boss_collection_log), by obtaining every unique drop. Completing this achievement will unlock the [Dark Core](https://runescape.wikia.com/wiki/Dark_Core) title.",
     "color": 10257648,
     "thumbnail": {
