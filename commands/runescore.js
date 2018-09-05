@@ -67,7 +67,6 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 		let seventh = "";
 		const helpEmbed = data["help"];
 		keyList.forEach(k => {
-			const [cat, sub, ach] = k.split(" - ");
 			if (output.length <= 1950) {
 				output += `• ${data[k].title}\n`;
 			} else if (second.length <= 1950) {
@@ -142,7 +141,6 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 		return message.channel.send(`No results found for **${args.join(" ")}**.`);
 	} else if (rtnArr.length == 1) {
 		const guide = data[rtnArr[0]];
-		const [cat, sub, ach] = rtnArr[0].split(" - ");
 		guide.author.name = name;
 		guide.color = color;
 		guide.timestamp = new Date();
@@ -164,7 +162,6 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 		const response = await client.awaitReply(message, "Which achievement were you searching for? Please enter the corresponding number.");
 		if (isNaN(response) || response > rtnArr.length || response < 1) return message.channel.send("Invalid number specified, search cancelled.");
 		const choice = data[rtnArr[response-1]];
-		const [cat, sub, ach] = rtnArr[response-1].split(" - ");
 		choice.author.name = name;
 		choice.color = color;
 		choice.timestamp = new Date();
