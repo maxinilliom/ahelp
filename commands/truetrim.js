@@ -65,6 +65,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 		let fourth = "";
 		const helpEmbed = data["help"];
 		keyList.forEach(k => {
+			if (!data[k].title) return;
 			if (output.length <= 1950) {
 				output += `• ${data[k].title}\n`;
 			} else if (second.length <= 1950) {
@@ -156,6 +157,6 @@ exports.conf = {
 exports.help = {
 	name: "truetrim",
 	category: "Guides",
-	description: "Encyclopedia of True Trimmed guides written by Frosty and assembled by Son.",
-	usage: "truetrim <help/achievement name>"
+	description: "Encyclopedia of True Trimmed guides.",
+	usage: "truetrim <help/guide name>"
 };

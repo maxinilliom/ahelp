@@ -67,6 +67,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 		let seventh = "";
 		const helpEmbed = data["help"];
 		keyList.forEach(k => {
+			if (!data[k].title) return;
 			if (output.length <= 1950) {
 				output += `• ${data[k].title}\n`;
 			} else if (second.length <= 1950) {
