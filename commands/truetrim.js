@@ -82,32 +82,20 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 		helpEmbed.timestamp = new Date();
 		await message.channel.send("", {embed: helpEmbed});
 
-		delete helpEmbed.title;
-		delete helpEmbed.author;
-		delete helpEmbed.footer;
-		delete helpEmbed.timestamp;
-
 		if (second.length > 0) {
 			helpEmbed.description = second;
-			if (third.length < 0){
-				helpEmbed.footer = data.help.footer;
-				helpEmbed.timestamp = new Date();
-			}
+			helpEmbed.timestamp = new Date();
 			await message.channel.send("", {embed: helpEmbed});
 		}
 
 		if (third.length > 0) {
 			helpEmbed.description = third;
-			if (fourth.length < 0){
-				helpEmbed.footer = data.help.footer;
-				helpEmbed.timestamp = new Date();
-			}
+			helpEmbed.timestamp = new Date();
 			await message.channel.send("", {embed: helpEmbed});
 		}
 
 		if (fourth.length > 0) {
 			helpEmbed.description = fourth;
-			helpEmbed.footer = data.help.footer;
 			helpEmbed.timestamp = new Date();
 			await message.channel.send("", {embed: helpEmbed});
 		}
