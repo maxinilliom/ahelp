@@ -1529,7 +1529,7 @@ exports.data = {
     }
   },
   "miscellaneous - skilling - magic boons": {
-    "title": "Maigc Boons",
+    "title": "Magic Boons",
     "author": {
       "name": "True Trimmed Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
