@@ -2696,7 +2696,7 @@ exports.data = {
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     }
   },
-  "unlockables - general - doomsday warning signs": {
+  "unlockables - general - doomsday warning signs pt1": {
     "title": "Doomsday Warning Signs",
     "author": {
       "name": "True Trimmed Info",
@@ -2730,7 +2730,12 @@ exports.data = {
       {
         "name": "The Kharidian Desert:",
         "value": "The Kharidian Desert has multiple places that will show the following warnings upon entering dangerous areas:\n\nThe Ripper Demons sign toggle:\n• Unlocked by entering the [Ripper Demon cave](https://runescape.wikia.com/wiki/Ripper_Demon_cave), which can be found east of Al Kharid.\n\nThe [Contact Dungeon](https://runescape.wikia.com/wiki/Sophanem_Dungeon) sign toggle:\n• Unlocked by climbing down the stairs inside the [bank](https://runescape.wikia.com/wiki/Sophanem_Dungeon#Bank_level) that is located in the basement of the building with the broken altar, north-east in [Sophanem](https://runescape.wikia.com/wiki/Sophanem).\n\nThe [Elid Genie](https://runescape.wikia.com/wiki/Genie_(Spirits_of_the_Elid%29) Cave sign toggle:\n• Unlocked by entering the crevice west of [Nardah](https://runescape.wikia.com/wiki/Nardah)."
-      },
+      }
+    ]
+  },
+  "unlockables - general - doomsday warning signs pt2": {
+      "color": 10257648,
+      "fields": [
       {
         "name": "Edgeville and Varrock:",
         "value": "[Edgeville](https://runescape.wikia.com/wiki/Edgeville) and [Varrock](https://runescape.wikia.com/wiki/Varrock) have multiple places that will show the following warnings upon entering dangerous areas:\n\nThe [KBD](https://runescape.wikia.com/wiki/King_Black_Dragon) Shortcut sign toggle:\n• Unlocked by entering the [King black Dragon's lair](https://runescape.wikia.com/wiki/King_Black_Dragon%27s_Lair) after interacting with the [Artefact](https://runescape.wikia.com/wiki/Artefact) north-west of the Edgeville [lodestone](https://runescape.wikia.com/wiki/Lodestone_Network).\n\nThe [Stronghold of Security](https://runescape.wikia.com/wiki/Stronghold_of_Security) sign toggle:\n• Unlocked by climbing down the ladders on each [level](https://runescape.wikia.com/wiki/Stronghold_of_Security#Levels) in the dungeon.\n\nThe [Varrock Sewer](https://runescape.wikia.com/wiki/Varrock_Sewers) sign toggle:\n• Unlocked by entering the manhole just east of [Varrock Palace](https://runescape.wikia.com/wiki/Varrock_Palace)."
@@ -2759,12 +2764,12 @@ exports.data = {
         "name": "Guides:",
         "value": "• From **The Player-Owned House** the permanent sign toggle is unlocked by repeating the the process atleast 6-8 times.\n\n• From **The Wilderness**, **Trollheim**, **Al Kharid**, **Edgeville and Varrock**, **Morytania**, **Living Rock Caverns**, **The Kharidian Desert** and **The Kandarin Kingdom** the permanent sign toggles are unlocked by entering the dangerous areas atleast 6-8 times.\n\n• From **Dorgesh-Kaan**, **Lumbridge** and the **Elite Genie cave in the Kharidian Desert**, the permanent sign toggles are unlocked by entering the dangerous areas atleast 6-8 times without a [light source](https://runescape.wikia.com/wiki/Light_sources)."
       }
-    ],
-    "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
-      "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
-    }
-  },
+      ],
+      "footer": {
+        "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+        "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
+      }
+    },
   "unlockables - general - dragonkin mutators research": {
     "title": "Dragonkin Mutators Research",
     "author": {
