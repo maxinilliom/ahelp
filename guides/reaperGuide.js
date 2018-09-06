@@ -1,29 +1,29 @@
 exports.data = {
-	"help": {
-		"title": "Comprehensive list of all valid commands",
-		"author": {
-			"name": "Cape Info",
-			"icon_url": "https://i.imgur.com/6c6q2iC.png"
-		},
-		"description": "{{output}}",
-		"footer": {
-			"icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
-			"text": "Achievement Help"
-		}
-	},
-	"search": {
-		"title": "All commands matching your search",
-		"author": {
-			"name": "Cape Info",
-			"icon_url": "https://i.imgur.com/6c6q2iC.png"
-		},
-		"description": "{{output}}",
-		"footer": {
-			"icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
-			"text": "Achievement Help"
-		}
-	},
-	"araxxor pt1": {
+    "help": {
+        "title": "Comprehensive list of all valid commands",
+        "author": {
+            "name": "Cape Info",
+            "icon_url": "https://i.imgur.com/6c6q2iC.png"
+        },
+        "description": "{{output}}",
+        "footer": {
+            "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+            "text": "Achievement Help"
+        }
+    },
+    "search": {
+        "title": "All commands matching your search",
+        "author": {
+            "name": "Cape Info",
+            "icon_url": "https://i.imgur.com/6c6q2iC.png"
+        },
+        "description": "{{output}}",
+        "footer": {
+            "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+            "text": "Achievement Help"
+        }
+    },
+    "araxxor pt1": {
                 "title": "Araxxor",
                 "author": {
                     "name": "Boss Reaper Kill Info",
@@ -35,12 +35,12 @@ exports.data = {
                 },
                 "fields": [
                     {
-                        "name": "This guide is for the sole purpose of helping you to complete your first kill.",
+                        "name": "This guide has the sole purpose if having you complete your first killcount for Araxxor.",
                         "value": "• The full written strategy guide may be found [here](http://runescape.wikia.com/wiki/Araxxor/Strategies).\n• Video Guide: [A Beginners' Guide to Araxxor | The RS Guy - Youtube](https://www.youtube.com/watch?v=-Wwc1ovTQIc)."
                     },
                     {
-                        "name": "Requirements and Recommendations:",
-                        "value": "• __Recommended Combat Level:__ 120+\n• __Recommended Attack Style:__ Ranged\n• __Recommended Prayer Level:__ 95\n• __Recommended Herblore Level:__ 96\n• __Recommended Summoning Level:__ 52+"
+                        "name": "Recommendations and Requirements:",
+                        "value": "• __Recommended Attack Style:__ Range or Mage\n• __Recommended Armor Tier:__ 70\n• __Recommended Weapon Tier:__ 80\n• __Recommended Prayer:__ [Deflect Magic](https://runescape.wikia.com/wiki/Deflect_Magic)"
                     },
                     {
                         "name": "Mechanics",
@@ -84,7 +84,7 @@ exports.data = {
                     },
                     {
                         "name": "​",
-                        "value": "A very simple way to finish off the kill is, remembering to pray flick throughout:\n\t1. Build to 100% adrenaline while lowering Araxxi to 30,000 Life points.\n\t2. Use [Devotion](http://runescape.wikia.com/wiki/Devotion).\n\t3. Use a [Adrenaline Potion](http://runescape.wikia.com/wiki/Adrenaline_potion) or [replenishment potion](http://runescape.wikia.com/wiki/Replenishment_potion).\n\t4. Use [Onslaught](http://runescape.wikia.com/wiki/Onslaught) and activate [enhanced excalibur](http://runescape.wikia.com/wiki/Enhanced_Excalibur).\n\nIf the kill is not finished, eat up and continue dealing damage. While keeping a eye out for the acidic core."
+                        "value": "A very simple way to finish off the kill is, remembering to pray flick throughout:\n\t1. Build to 100% [adrenaline](https://runescape.wikia.com/wiki/Adrenaline) while lowering Araxxi to 30,000 Life points.\n\t2. Use [Devotion](http://runescape.wikia.com/wiki/Devotion).\n\t3. Use an [Adrenaline Potion](http://runescape.wikia.com/wiki/Adrenaline_potion) or [replenishment potion](http://runescape.wikia.com/wiki/Replenishment_potion).\n\t4. Use [Onslaught](http://runescape.wikia.com/wiki/Onslaught) and activate [enhanced excalibur](http://runescape.wikia.com/wiki/Enhanced_Excalibur).\n\nIf the kill is not finished, eat up and continue dealing damage. While keeping a eye out for the acidic core."
                     }
                 ],
                 "footer": {
