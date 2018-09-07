@@ -143,7 +143,7 @@ exports.data = {
       "name": "RuneScore Achievement Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Bless You, Seiryu](https://runescape.wikia.com/wiki/Malignant_Enigmas) is an achievement that requires the player to make [Seiryu the Azure Serpent](https://runescape.wikia.com/wiki/Seiryu_the_Azure_Serpent) in the [Temple of Aminishi](https://runescape.wikia.com/wiki/Temple_of_Aminishi) sneeze by using a [feather](https://runescape.wikia.com/wiki/Feather) on him after defeating him.\n\nThis achievement can be obtained in either normal or story mode.",
+    "description": "[Bless You, Seiryu](https://runescape.wikia.com/wiki/Bless_You,_Seiryu) is an achievement that requires the player to make [Seiryu the Azure Serpent](https://runescape.wikia.com/wiki/Seiryu_the_Azure_Serpent) in the [Temple of Aminishi](https://runescape.wikia.com/wiki/Temple_of_Aminishi) sneeze by using a [feather](https://runescape.wikia.com/wiki/Feather) on him after defeating him.\n\nThis achievement can be obtained in either normal or story mode.",
     "thumbnail": {
       "url": "https://i.imgur.com/Shmagnp.png"
     },
