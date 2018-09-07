@@ -24,7 +24,7 @@ exports.run = async (client, message, args, level) => {
     let i = 0, o = 0, x = keyList.length;
     function list() {
       const guide = data[keyList[o]];
-      guide.author.name = name;
+      if (guide.author) guide.author.name = name;
       guide.color = color;
       guide.footer = footer;
       guide.timestamp = new Date();
