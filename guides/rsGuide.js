@@ -1415,34 +1415,39 @@ exports.data = {
     }
   },
   "combat - raids - all together now": {
-    "title": "The Hero of the Goebies",
+    "title": "All Together Now",
     "author": {
       "name": "RuneScore Achievement Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[the Daredevil](http://runescape.wikia.com/wiki/The_Daredevil) is a title unlocked by completing [the Hero of the Goebies](http://runescape.wikia.com/wiki/Hero_of_the_Goebies) achievement, which requires the player to complete 10 Raid achievements in total. Five are completed at [Beastmaster Durzag](http://runescape.wikia.com/wiki/Beastmaster_Durzag), and the other five at [Yakamaru](http://runescape.wikia.com/wiki/Yakamaru). ",
+    "description": "[All Together Now](https://runescape.wikia.com/wiki/All_Together_Now) is an achievement that requires the player to defeat all 4 [images](http://runescape.wikia.com/wiki/Image_of_Yakamaru) of [Yakamaru](https://runescape.wikia.com/wiki/Yakamaru) within 10 seconds of each other.",
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/4/43/All_Together_Now_achievement_icon.png/revision/latest?cb=20180325005426"
     },
-    "fields": [{
-        "name": "Yakamaru - All Together Now:",
-        "value": "[All Together Now](https://runescape.wikia.com/wiki/All_Together_Now) is an achievement that requires the player to defeat all 4 [images of Yakamaru](http://runescape.wikia.com/wiki/Image_of_Yakamaru) within 10 seconds of each other."
-      },
+    "fields": [
       {
         "name": "Strategies:",
-        "value": "There should be at least one player [tanking](https://runescape.wikia.com/wiki/Tanking) each image of Yakamaru, with [shark](https://runescape.wikia.com/wiki/Yakamaru/Strategies#South-western_pool_.28Sharknado.29) and [stun](https://runescape.wikia.com/wiki/Yakamaru/Strategies#North-eastern_pool_.28No-stun.29) pool members carrying the [planks](https://runescape.wikia.com/wiki/Plank_(Mazcab). It is recommended to have one or two players with [wands](https://runescape.wikia.com/wiki/Wand) using [Entangle](http://runescape.wikia.com/wiki/Entangle) on [jellyfish](https://runescape.wikia.com/wiki/Jellyfish). Weaken all four mirages to at most 20,000 life points before killing simultaneously. The ten second timer begins after the first pool is sealed with planks or sand."
+        "value": "There should be at least one player [tanking](https://runescape.wikia.com/wiki/Tanking) each image of Yakamaru, with [Shark](https://runescape.wikia.com/wiki/Yakamaru/Strategies#South-western_pool_.28Sharknado.29) and [No Stun](https://runescape.wikia.com/wiki/Yakamaru/Strategies#North-eastern_pool_.28No-stun.29) pool members carrying the [planks](https://runescape.wikia.com/wiki/Plank_(Mazcab).\n\nEach player that will be tanking the pool should have a [wizard wand](https://runescape.wikia.com/wiki/Wizard_wand) or [Shortbow](https://runescape.wikia.com/wiki/Shortbow) to keep the images agro without killing it.\n\nIt is recommended to have one player with [wands](https://runescape.wikia.com/wiki/Wand) using [Entangle](http://runescape.wikia.com/wiki/Entangle) on [jellyfish](https://runescape.wikia.com/wiki/Jellyfish) and gathering them around the center pool."
       },
       {
         "name": "​",
-        "value": "The easiest method is to \"prefill\" sand and/or [tendril](https://runescape.wikia.com/wiki/Yakamaru/Strategies#Southern-most_pool_.28Tentacles.29) pool by lowering the pools and having three players each fill the pools three times (9/10 required fills). This reduces time from filling pools the final time.\n\n The DPS group should start mirage by damaging [sand](https://runescape.wikia.com/wiki/Yakamaru/Strategies#North-western_pool_.28Sand.29), then shark and finally the tentacle pool. Stun pool members should solo their pool as normal. When everyone is ready, the stun pool should be [stunned](https://runescape.wikia.com/wiki/Stun) to signal the start of finishing the pools as attempting to stun delays dps."
+        "value": "Weaken all four mirages to at most 20,000 life points before killing them all simultaneously. The ten second timer begins after the first pool is sealed with [planks](https://runescape.wikia.com/wiki/Plank_(Mazcab) or sand.\n\nThe easiest method is to \"prefill\" [Sand](https://runescape.wikia.com/wiki/Yakamaru/Strategies#North-western_pool_.28Sand.29) and/or [Tendril](https://runescape.wikia.com/wiki/Yakamaru/Strategies#Southern-most_pool_.28Tentacles.29) pool by lowering the pools and having three players each fill the pools three times (9/10 required fills). This reduces time from filling pools the final time. Prefilling is accomplished by the players running melee distance and spam clicking the pool to fill the pool with sand whenever the pool becomes close to dying. Each person can only contribute a maximum of 3 buckets of sand. The 2 DPS'ers and the base tank role will prefill the pool so that the pool has 1-2 buckets remaining whenever the kill initiates."
+      },
+      {
+        "name": "​",
+        "value": "The DPS group should start mirage by inflicting 1 attack of either [wild magic](https://runescape.wikia.com/wiki/Wild_Magic) or [snap shot](https://runescape.wikia.com/wiki/Snap_Shot), depending on their attack style, on to the stun pool.\n\nFrom there, the DPS pile will begin damaging the Sand pool. When the pool dies, the designated pre-fillers will fill the pool and damage the pool down to ~40,000 life points. The rest of the DPS pile will continue on to the Tentacle pool and follow the same routine as they did in the sand pool.\n\nThe shark tank 10 role will be responsible for taking down the shark pool's life points and can will call for DPS aid, if required, after the Tendril Pool has been taken care of.\n\nThe tanks of each pool should communicate and call out remaining life points in order for a successful achievement."
+      },
+      {
+        "name": "​",
+        "value": "Once the pools near 10k, they need to switch to their wizard wand or shortbow and utilize [defensives](https://runescape.wikia.com/wiki/Abilities#Defence) until the kill signal is made. Ensure [reflect](https://runescape.wikia.com/wiki/Reflect) is not used as this can kill the pool prematurely.\n\nAfter it has been confirmed that all pools have 10,000 or less health, the stun pool tank will [stun](https://runescape.wikia.com/wiki/Stun) his or her pool to signal the start of finishing the pools. The stun pool tank needs to mindful of when the pools have used their special and to not stun before the sand pool and tendril pool have cycled through their pool special. Once the stun pool has been stunned, the DPS need to quickly kill tendril, move to shark, and then to sand, killing each on the way. Only the tank for tendril and sand should fill the pools with sand while everyone will fill the sand pool. From here, all that is left is to kill the center pool as normal."
       },
       {
         "name": "Tips:",
-        "value": "• Bring your best [power armor](https://runescape.wikia.com/wiki/Category:Power_armour)\n• Communicate with other pools"
+        "value": "• Bring your best [power armor](https://runescape.wikia.com/wiki/Category:Power_armour)\n\n• Communicate with other pools"
       },
       {
         "name": "Requirements:",
-        "value": "• Players must have defeated Beastmaster Durzag in their most recent lockout period\n• Players must have completed the Raids puzzle in their most recent lockout period"
+        "value": "• Players must have defeated [Beastmaster Durzag](https://runescape.wikia.com/wiki/Beastmaster_Durzag) in their most recent lockout period\n• Players must have completed the [Mazcab Canal Puzzle](https://runescape.wikia.com/wiki/Yakamaru/Strategies#Canals_Puzzle) in their most recent lockout period"
       },
       {
         "name": "Guide:",
@@ -1455,26 +1460,23 @@ exports.data = {
     }
   },
   "combat - raids - animal cruelty": {
-    "title": "The Hero of the Goebies",
+    "title": "Animal Cruelty",
     "author": {
       "name": "RuneScore Achievement Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[the Daredevil](http://runescape.wikia.com/wiki/The_Daredevil) is a title unlocked by completing [the Hero of the Goebies](http://runescape.wikia.com/wiki/Hero_of_the_Goebies) achievement, which requires the player to complete 10 Raid achievements in total. Five are completed at [Beastmaster Durzag](http://runescape.wikia.com/wiki/Beastmaster_Durzag), and the other five at [Yakamaru](http://runescape.wikia.com/wiki/Yakamaru). ",
+    "description": "[Animal Cruelty](https://runescape.wikia.com/wiki/Animal_Cruelty) is an achievement that requires the player to have [Beastmaster Durzag](https://runescape.wikia.com/wiki/Beastmaster_Durzag) kill both [Tuz](http://runescape.wikia.com/wiki/Tuz) and [Krar](http://runescape.wikia.com/wiki/Krar) while fighting him during the [Liberation of Mazcab](http://runescape.wikia.com/wiki/Liberation_of_Mazcab).",
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/3/3d/Animal_Cruelty_achievement_icon.png/revision/latest?cb=20171112011120"
     },
-    "fields": [{
-        "name": "Beastmaster Durzag - Animal Cruelty:",
-        "value": "[Animal Cruelty](https://runescape.wikia.com/wiki/Animal_Cruelty) is an achievement that requires the player to have Beastmaster Durzag kill both [Tuz](http://runescape.wikia.com/wiki/Tuz) and [Krar](http://runescape.wikia.com/wiki/Krar) while fighting him during the [Liberation of Mazcab](http://runescape.wikia.com/wiki/Liberation_of_Mazcab). "
-      },
+    "fields": [
       {
         "name": "Strategies:",
-        "value": "In order to complete this achievement Beastmaster Durzag has to do the final blow to both Tuz and Krar. Beastmaster Durzag can kill Tuz and Krar by either doing area damage or by [bombs](https://runescape.wikia.com/wiki/Bomb_(Pit_of_Trials). [Cormes](https://runescape.wikia.com/wiki/Cormes) can be killed by the players like normal as he spawns before Durzag. \n\nPlayers attack Tuz and Krar like normal and trying to keep them alive with ~50k hp. Once they hit 50k hp players turn to Beastmaster Durzag and damage him to ~750-800k hp. \n\nBeastmaster Durzag wil throw bombs to the players from this point. The players want to make thier way on top of Tuz and Krar and make the bombs explode. Continue this progress until both Tuz and Krar die from a bomb explosion. After the death of both pets, players can kill Beastmaster Durzag as normal."
+        "value": "In order to complete this achievement Beastmaster Durzag has to do the final blow to both Tuz and Krar. Beastmaster Durzag can kill Tuz and Krar by either doing area damage or by [bombs](https://runescape.wikia.com/wiki/Bomb_(Pit_of_Trials). [Cormes](https://runescape.wikia.com/wiki/Cormes) can be killed by the players like normal as he spawns before Durzag. \n\nPlayers attack Tuz and Krar like normal and trying to keep them alive with ~50,000 life points. Once they hit 50,000 life points players turn to Beastmaster Durzag and damage him to ~750,000 - 800,000 life points.\n\nBeastmaster Durzag wil throw bombs to the players from this point. The players want to make thier way on top of Tuz and Krar and make the bombs explode. Continue this progress until both Tuz and Krar die from a bomb explosion. After the death of both pets, players can kill Beastmaster Durzag as normal."
       },
       {
         "name": "Tips:",
-        "value": "• Players who [tank](https://runescape.wikia.com/wiki/Tanking) the damage from the pets want to use protect ranged or mage on the [regular prayerbook](https://runescape.wikia.com/wiki/Category:Standard_Prayers) instead of Deflect ranged or mage in order to not kill them on accident.\n\n• Players want to build up to 100% [adrenaline](https://runescape.wikia.com/wiki/Adrenaline) and use the ability [barricade](http://runescape.wikia.com/wiki/Barricade) in order to take 0 damage from the bomb explosions.\n\n• Pet tanks should disable [auto-retaliate](http://runescape.wikia.com/wiki/Auto_Retaliate)."
+        "value": "• Players who [tank](https://runescape.wikia.com/wiki/Tanking) the damage from the pets want to use [protect from magic](https://runescape.wikia.com/wiki/Protect_from_Magic) or [protect from missiles](https://runescape.wikia.com/wiki/Protect_from_Missiles) on the [regular prayerbook](https://runescape.wikia.com/wiki/Category:Standard_Prayers) instead of [Deflect curses](https://runescape.wikia.com/wiki/Deflect_Curses) in order to not kill them on accident with reflect.\n\n• Players want to build up to 100% [adrenaline](https://runescape.wikia.com/wiki/Adrenaline) and use the ability [barricade](http://runescape.wikia.com/wiki/Barricade) in order to take 0 damage from the bomb explosions.\n\n• Pet tanks should disable [auto-retaliate](http://runescape.wikia.com/wiki/Auto_Retaliate) and utilize [defensives](https://runescape.wikia.com/wiki/Abilities#Defence) as to not prematurely kill the pets."
       },
       {
         "name": "Requirements:",
@@ -1491,30 +1493,31 @@ exports.data = {
     }
   },
   "combat - raids - better not touch": {
-    "title": "The Hero of the Goebies",
+    "title": "Better Not Touch",
     "author": {
       "name": "RuneScore Achievement Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[the Daredevil](http://runescape.wikia.com/wiki/The_Daredevil) is a title unlocked by completing [the Hero of the Goebies](http://runescape.wikia.com/wiki/Hero_of_the_Goebies) achievement, which requires the player to complete 10 Raid achievements in total. Five are completed at [Beastmaster Durzag](http://runescape.wikia.com/wiki/Beastmaster_Durzag), and the other five at [Yakamaru](http://runescape.wikia.com/wiki/Yakamaru). ",
+    "description": "[Better Not Touch](https://runescape.wikia.com/wiki/Better_Not_Touch) is an achievement that requires the player to defeat [Yakamaru](https://runescape.wikia.com/wiki/Yakamaru) during the [Liberation of Mazcab](http://runescape.wikia.com/wiki/Liberation_of_Mazcab) with all but one member of the party still under the effect of [poison](http://runescape.wikia.com/wiki/Poison).",
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/3/3f/Better_Not_Touch_achievement_icon.png/revision/latest?cb=20180325005233"
     },
-    "fields": [{
-        "name": "Yakamaru - Better Not Touch:",
-        "value": "[Better Not Touch](https://runescape.wikia.com/wiki/Better_Not_Touch) is an achievement that requires the player to defeat Yakamaru during the [Liberation of Mazcab](http://runescape.wikia.com/wiki/Liberation_of_Mazcab) with all but one member of the party still under the effect of [poison](http://runescape.wikia.com/wiki/Poison)."
+    "fields": [
+      {
+        "name": "Strategies:",
+        "value": "When Yakamaru reaches 100,000 life points at the [speciality pools](https://runescape.wikia.com/wiki/Yakamaru/Strategies#Phases), poison will spawn in a designated spot. The team should have a poison runner; someone who will use the poison to infect Yakamaru at the end of the phase. When Yakamaru shoots the poison, it will hit a 1x1 area (shown with green arrows on that spot). The poison runner has 5 seconds to reach to this location. The [Bladed Dive](https://runescape.wikia.com/wiki/Bladed_Dive) ability is very useful in completing this. The poison runner will then go melee distance to Yakamaru once they are poisoned with the [Deflect Magic](https://runescape.wikia.com/wiki/Deflect_Magic) prayer enabled, and the team depletes Yakamaru's health to 0."
       },
       {
         "name": "Strategies:",
-        "value": "When Yakamaru reaches 100,000 life points at the [speciality pools](https://runescape.wikia.com/wiki/Yakamaru/Strategies#Phases), poison will spawn in a designated spot. The team should have a poison runner; someone who will use the poison to infect Yakamaru at the end of the phase. When Yakamaru shoots the poison, it will hit a 1x1 area (shown with green arrows on that spot). The poison runner has 5 seconds to reach to this location. The [Bladed Dive](https://runescape.wikia.com/wiki/Bladed_Dive) ability is very useful in completing this. The poison runner will then go melee distance to Yakamaru once they are poisoned with the [Deflect Magic](https://runescape.wikia.com/wiki/Deflect_Magic) prayer enabled, and the team depletes Yakamaru's health to 0.\n\nInstead of having one person taking the poison on the last phase before Mirage, the intire team moves to the 1x1 area and takes the poison. The poison runner continues his role like normal. The rest of the players must tank the poison until the end of the kill."
+        "value": "Instead of having one person taking the poison on the last pool before [Mirage](https://runescape.wikia.com/wiki/Yakamaru/Strategies#Mirage_phase), the entire team moves to the 1x1 area and takes the poison. To accomplish this, the players should be standing on top of one another on a single tile so the poison can be clearly seen. The North **or** base tank role should be the only person to be consumed by Yakamaru and the rest of the team must constantly stay high life points as they take 500-1000 poison damage every other game tick until the kill is completed."
       },
       {
         "name": "Tips:",
-        "value": "• If the kill starts with [Shark](https://runescape.wikia.com/wiki/Yakamaru/Strategies#South-western_pool_.28Sharknado.29) or [Stun](https://runescape.wikia.com/wiki/Yakamaru/Strategies#North-eastern_pool_.28No-stun.29) Pool after the middle pool, leave the kill.\n\n• Keep your Health Points above 5000.\n\n• Communicate with your team.\n\n• Use [defensive](https://runescape.wikia.com/wiki/Abilities#Defence) [abilities](https://runescape.wikia.com/wiki/Abilities) to minimize taken damage.\n\n• Use the [Bladed Dive](http://runescape.wikia.com/wiki/Bladed_Dive) ability to quickly move to the poison area."
+        "value": "• If the kill starts with [Shark](https://runescape.wikia.com/wiki/Yakamaru/Strategies#South-western_pool_.28Sharknado.29) or [Stun](https://runescape.wikia.com/wiki/Yakamaru/Strategies#North-eastern_pool_.28No-stun.29) Pool after the center pool, leave the kill.\n\n• Keep your Health Points above 5,000.\n\n• Communicate with your team.\n\n• Use [defensive](https://runescape.wikia.com/wiki/Abilities#Defence) [abilities](https://runescape.wikia.com/wiki/Abilities) to minimize taken damage.\n\n• Use the [Bladed Dive](http://runescape.wikia.com/wiki/Bladed_Dive) ability to quickly move to the poison area.\n\n• Every player who can should have a [pack yak](https://runescape.wikia.com/wiki/Pack_yak) for extra food to make up for the increased damage that will be taken in comparison to a normal raid.\n\n• All 10 players must hit the pool at the end of the kill for this achievement to register, and thusly, no one may die."
       },
       {
         "name": "Requirements:",
-        "value": "• Players must have defeated Beastmaster Durzag in their most recent lockout period\n• Players must have completed the Raids puzzle in their most recent lockout period"
+        "value": "• Players must have defeated [Beastmaster Durzag](https://runescape.wikia.com/wiki/Beastmaster_Durzag) in their most recent lockout period\n• Players must have completed the [Mazcab Canal Puzzle](https://runescape.wikia.com/wiki/Yakamaru/Strategies#Canals_Puzzle) in their most recent lockout period"
       },
       {
         "name": "Guide:",
@@ -1527,26 +1530,23 @@ exports.data = {
     }
   },
   "combat - raids - cormes and goes": {
-    "title": "The Hero of the Goebies",
+    "title": "Cormes and Goes",
     "author": {
       "name": "RuneScore Achievement Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[the Daredevil](http://runescape.wikia.com/wiki/The_Daredevil) is a title unlocked by completing [the Hero of the Goebies](http://runescape.wikia.com/wiki/Hero_of_the_Goebies) achievement, which requires the player to complete 10 Raid achievements in total. Five are completed at [Beastmaster Durzag](http://runescape.wikia.com/wiki/Beastmaster_Durzag), and the other five at [Yakamaru](http://runescape.wikia.com/wiki/Yakamaru). ",
+    "description": "[Cormes and Goes](https://runescape.wikia.com/wiki/Cormes_and_Goes) is an achievement that requires the player to kill [Beastmaster Durzag](https://runescape.wikia.com/wiki/Beastmaster_Durzag) during the [Liberation of Mazcab](http://runescape.wikia.com/wiki/Liberation_of_Mazcab) while leaving [Cormes](http://runescape.wikia.com/wiki/Cormes) alive.",
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/a/ac/Cormes_and_Goes_achievement_icon.png/revision/latest?cb=20171112022541"
     },
-    "fields": [{
-        "name": "Beastmaster Durzag - Cormes and Goes:",
-        "value": "[Cormes and Goes](https://runescape.wikia.com/wiki/Cormes_and_Goes) is an achievement that requires the player to kill Beastmaster Durzag during the [Liberation of Mazcab](http://runescape.wikia.com/wiki/Liberation_of_Mazcab) while leaving [Cormes](http://runescape.wikia.com/wiki/Cormes) alive.  "
-      },
+    "fields": [
       {
         "name": "Strategies:",
         "value": "Cormes is one of Beastmaster Durzag's [pets](https://runescape.wikia.com/wiki/Beastmaster_Durzag/Strategies#Notes_About_Pets). It initially appears during the wave of monsters before the fight with Durzag, along with [chargers](http://runescape.wikia.com/wiki/Charger) and [airut](http://runescape.wikia.com/wiki/Airut).\n\nTeams want an additional player who takes the role as pet tank 1 rather then having a pet tank 1/3 like in your standard Beastmaster Durzag raid. The pet tank makes sure Cormes is faced away from the team and takes him to the south west corner of the arena.\n\nThe remaining 9 players ignore Cormes and continue the raid as normal.  "
       },
       {
         "name": "Tips:",
-        "value": "• The pet tank uses the [Incite ability](http://runescape.wikia.com/wiki/Incite) to keep Cormes aggression on him/herself.\n\n• The pet tank faces Cormes away from the south to make room for the north and south chargers roles ones Beastmaster Durzag appears in the arena.\n\n• The pet tank uses a [shield](https://runescape.wikia.com/wiki/Shield) to cycle through [defensive](https://runescape.wikia.com/wiki/Abilities#Defence) [abilties](https://runescape.wikia.com/wiki/Abilities)."
+        "value": "• The pet tank uses the [Incite ability](http://runescape.wikia.com/wiki/Incite) to keep Cormes aggression on him/herself.\n\n• The pet tank should utilize [provoke](https://runescape.wikia.com/wiki/Provoke) to face Cormes away from the south in order to make room for the north and south charger roles once Beastmaster Durzag appears in the arena. Provoke will need to be used to force the Cormes' agro back on to the pet tank 1 every time it jumps to another player.\n\n• The pet tank will then use a [shield](https://runescape.wikia.com/wiki/Shield) to cycle through [defensive](https://runescape.wikia.com/wiki/Abilities#Defence) [abilties](https://runescape.wikia.com/wiki/Abilities) until Beastermaster Durzag, [Krar](https://runescape.wikia.com/wiki/Krar), and [Tuz](https://runescape.wikia.com/wiki/Tuz) are all dead."
       },
       {
         "name": "Guide:",
@@ -1559,30 +1559,31 @@ exports.data = {
     }
   },
   "combat - raids - day at the aquarium": {
-    "title": "The Hero of the Goebies",
+    "title": "Day at the Aquarium",
     "author": {
       "name": "RuneScore Achievement Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[the Daredevil](http://runescape.wikia.com/wiki/The_Daredevil) is a title unlocked by completing [the Hero of the Goebies](http://runescape.wikia.com/wiki/Hero_of_the_Goebies) achievement, which requires the player to complete 10 Raid achievements in total. Five are completed at [Beastmaster Durzag](http://runescape.wikia.com/wiki/Beastmaster_Durzag), and the other five at [Yakamaru](http://runescape.wikia.com/wiki/Yakamaru). ",
+    "description": "[Day at the Aquarium](https://runescape.wikia.com/wiki/Day_at_the_Aquarium) is an achievement that requires the player to defeat [Yakamaru](https://runescape.wikia.com/wiki/Yakamaru) during the [Liberation of Mazcab](http://runescape.wikia.com/wiki/Liberation_of_Mazcab) while keeping a [Durable](http://runescape.wikia.com/wiki/Durable_Jellyfish) and a [Reflecting Jellyfish](http://runescape.wikia.com/wiki/Reflecting_Jellyfish) alive.",
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/0/02/Day_at_the_Aquarium_achievement_icon.png/revision/latest?cb=20180112221013"
     },
-    "fields": [{
-        "name": "Yakamaru - Day at the Aquarium:",
-        "value": "[Day at the Aquarium](https://runescape.wikia.com/wiki/Day_at_the_Aquarium) is an achievement that requires the player to defeat Yakamaru during the [Liberation of Mazcab](http://runescape.wikia.com/wiki/Liberation_of_Mazcab) while keeping a [Durable](http://runescape.wikia.com/wiki/Durable_Jellyfish) and a [Reflecting Jellyfish](http://runescape.wikia.com/wiki/Reflecting_Jellyfish) alive."
-      },
+    "fields": [
       {
         "name": "Strategies:",
-        "value": "A wave of [Jellyfish](https://runescape.wikia.com/wiki/Jellyfish) will spawn everytime a [phase](https://runescape.wikia.com/wiki/Yakamaru/Strategies#Phases) will end. Within these waves, a Durable or Reflecting Jellyfish can spawn.\n\nTo optain this achievement, one player must carry a durable and reflecting Jellyfish away from the \"battleground\" so they stay alive for the rest of the kill. The player must use the [Provoke ability](http://runescape.wikia.com/wiki/Provoke) in order to get targeted by the Jellyfish.\n\nThe player Provokes a Durable Jellyfish between the 3rd and 4th phase and brings it to the most south part of the arena. A Reflecting Jellyfish will spawn between the 4th phase and the [Mirage phase](https://runescape.wikia.com/wiki/Yakamaru/Strategies#Mirage_phase) for the player to Provoke and carry to safety.  "
+        "value": "A wave of [Jellyfish](https://runescape.wikia.com/wiki/Jellyfish) will spawn everytime a [phase](https://runescape.wikia.com/wiki/Yakamaru/Strategies#Phases) will end. Within these waves, a Durable or Reflecting Jellyfish can spawn.\n\nTo obtain this achievement, the jelly tank role player must carry a durable, reflecting, and a [magical](https://runescape.wikia.com/wiki/Magical_Jellyfish) jellyfish away from the \"battleground\" so they stay alive for the rest of the kill.\n\nThe player must use the [Provoke](http://runescape.wikia.com/wiki/Provoke) ability in order to get targeted by the Jellyfish and the [Incite](https://runescape.wikia.com/wiki/Incite) ability to maintain its agro. The magical jellyfish is brought with the reflecting because the reflecting jellyfish requires another jellyfish to be present, or else it will die. Since the reflecting jellyfish attacks with magic, it is best to bring a magical jellyfish and utilize the [deflect magic](https://runescape.wikia.com/wiki/Deflect_Magic) prayer."
+      },
+      {
+        "name": "​",
+        "value": "The jelly tank role player will Provoke a Durable Jellyfish between the 3rd and 4th phase and bring it to the most south part of the arena. A Reflecting Jellyfish will spawn between the 4th phase and the [Mirage phase](https://runescape.wikia.com/wiki/Yakamaru/Strategies#Mirage_phase) for the player to Provoke and carry to safety in the same fashion.\n\nThe jelly tank should be using magic gear with a [wizard wand](https://runescape.wikia.com/wiki/Wizard_wand) at this point. The player can simply idle on the reflecting jellyfish while rotating [defensive abilities](https://runescape.wikia.com/wiki/Abilities#Defence). They need to make sure there Durable jellyfish isn't too close to the middle pool or else it will start restart the kill with the [Rewind feat](http://runescape.wikia.com/wiki/Rewind). However, be sure to have the jellies be semi-close to the pool or else the feat will not register."
       },
       {
         "name": "Tips:",
-        "value": "• Killing regular Jellyfish can kill the reflecting one.\n\n• Use a [combat dummy MKII](https://runescape.wikia.com/wiki/Combat_dummy_MKII) away from Yakamaru in order to build [adrenaline](https://runescape.wikia.com/wiki/Adrenaline) while the Jellyfish wrangler is moving the Durable and Reflecting Jellyfish.\n\n• Use [defensive](https://runescape.wikia.com/wiki/Abilities#Defence) [abilities](https://runescape.wikia.com/wiki/Abilities), like [Barricade](http://runescape.wikia.com/wiki/Barricade), [Devotion](runescape.wikia.com/wiki/Devotion), and [Immortality](http://runescape.wikia.com/wiki/Immortality), to stay alive while [tanking](https://runescape.wikia.com/wiki/Tanking) the Jellyfishes.\n\n•Attack the southern-most pool ([Tentacles](https://runescape.wikia.com/wiki/Yakamaru/Strategies#Southern-most_pool_.28Tentacles.29)) during Mirage phase to build adrenaline. "
+        "value": "• Killing regular Jellyfish can kill the reflecting one.\n\n• Use defensive abilities, like [Barricade](http://runescape.wikia.com/wiki/Barricade), [Devotion](runescape.wikia.com/wiki/Devotion), and [Immortality](http://runescape.wikia.com/wiki/Immortality), to stay alive while [tanking](https://runescape.wikia.com/wiki/Tanking) the Jellyfishes.\n\n•Attack the southern-most pool ([Tentacles](https://runescape.wikia.com/wiki/Yakamaru/Strategies#Southern-most_pool_.28Tentacles.29)) during [Mirage phase](https://runescape.wikia.com/wiki/Yakamaru/Strategies#Mirage_phase) to build [adrenaline](http://runescape.wikia.com/wiki/Adrenaline)."
       },
       {
         "name": "Requirements:",
-        "value": "• Players must have defeated Beastmaster Durzag in their most recent lockout period\n• Players must have completed the Raids puzzle in their most recent lockout period"
+        "value": "• Players must have defeated [Beastmaster Durzag](https://runescape.wikia.com/wiki/Beastmaster_Durzag) in their most recent lockout period\n• Players must have completed the [Mazcab Canal Puzzle](https://runescape.wikia.com/wiki/Yakamaru/Strategies#Canals_Puzzle) in their most recent lockout period"
       },
       {
         "name": "Guide:",
@@ -1595,26 +1596,23 @@ exports.data = {
     }
   },
   "combat - raids - day at the pound": {
-    "title": "The Hero of the Goebies",
+    "title": "Day at the Pound",
     "author": {
       "name": "RuneScore Achievement Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[the Daredevil](http://runescape.wikia.com/wiki/The_Daredevil) is a title unlocked by completing [the Hero of the Goebies](http://runescape.wikia.com/wiki/Hero_of_the_Goebies) achievement, which requires the player to complete 10 Raid achievements in total. Five are completed at [Beastmaster Durzag](http://runescape.wikia.com/wiki/Beastmaster_Durzag), and the other five at [Yakamaru](http://runescape.wikia.com/wiki/Yakamaru). ",
+    "description": "[Day at the Pound](https://runescape.wikia.com/wiki/Day_at_the_Pound) is an achievement that requires the player to defeat [Beastmaster Durzag](https://runescape.wikia.com/wiki/Beastmaster_Durzag) during the [Liberation of Mazcab](http://runescape.wikia.com/wiki/Liberation_of_Mazcab) without opening the pens containing [chargers](http://runescape.wikia.com/wiki/Charger) during the fight.",
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/9/9f/Day_at_the_Pound_achievement_icon.png/revision/latest?cb=20171112023405"
     },
-    "fields": [{
-        "name": "Beastmaster Durzag - Day at the Pound:",
-        "value": "[Day at the Pound](https://runescape.wikia.com/wiki/Day_at_the_Pound) is an achievement that requires the player to defeat Beastmaster Durzag during the [Liberation of Mazcab](http://runescape.wikia.com/wiki/Liberation_of_Mazcab) without opening the pens containing [chargers](http://runescape.wikia.com/wiki/Charger) during the fight."
-      },
+    "fields": [
       {
         "name": "Strategies:",
-        "value": "There are cages located on the outeredge of the arena. Once the [Airut](https://runescape.wikia.com/wiki/Airut_(Pit_of_Trials) counter on the top of the screen counts to 0, Beastmaster Durzag will enter the arena, filling all the cages with chargers.\n\nIn order to complete this achievement, all the players within the team must keep the cages unopened.\n\nPlayers are allowed to kill chargers once they escaped on their own by having the team death dot one another and using area of effect [abilities](https://runescape.wikia.com/wiki/Abilities)."
+        "value": "There are cages located on the outeredge of the arena. Once the [Airut](https://runescape.wikia.com/wiki/Airut_(Pit_of_Trials) counter on the top of the screen counts to 0, Beastmaster Durzag will enter the arena, filling all the cages with chargers.\n\nIn order to complete this achievement, all the players within the team must keep the cages unopened.\n\nPlayers are allowed to kill chargers once they escaped on their own. The chargers attacking the base tank and back up tank roles should be eliminated first. Once these are dead, the team should all stand on one another on a single tile and utilize area of effect [abilities](https://runescape.wikia.com/wiki/Abilities) to quickly eliminate all the chargers."
       },
       {
         "name": "Tips:",
-        "value": "• Clear the chargers that attack the base and pet tanks first before killing the remaining ones."
+        "value": "• Clear the chargers that attack the base and pet tanks first before killing the remaining ones.\n\n• The best spot to stand is on the north-eastern point of the insignia on the arena's floor.\n\n• Switch prayers to [deflect melee](https://runescape.wikia.com/wiki/Deflect_Melee) if you find that the damage is too much while killing the chargers."
       },
       {
         "name": "Requirements:",
@@ -1631,26 +1629,23 @@ exports.data = {
     }
   },
   "combat - raids - going maintenance expert": {
-    "title": "The Hero of the Goebies",
+    "title": "Gong Maintenance Expert",
     "author": {
       "name": "RuneScore Achievement Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[the Daredevil](http://runescape.wikia.com/wiki/The_Daredevil) is a title unlocked by completing [the Hero of the Goebies](http://runescape.wikia.com/wiki/Hero_of_the_Goebies) achievement, which requires the player to complete 10 Raid achievements in total. Five are completed at [Beastmaster Durzag](http://runescape.wikia.com/wiki/Beastmaster_Durzag), and the other five at [Yakamaru](http://runescape.wikia.com/wiki/Yakamaru). ",
+    "description": "[Gong Maintenance Expert](https://runescape.wikia.com/wiki/Gong_Maintenance_Expert) is an achievement that requires the player to defeat [Beastmaster Durzag](https://runescape.wikia.com/wiki/Beastmaster_Durzag) during the [Liberation of Mazcab](http://runescape.wikia.com/wiki/Liberation_of_Mazcab) with all four [gongs](https://runescape.wikia.com/wiki/Gong_(Pit_of_Trials) in the arena repaired, but **not used** to lower his stats.",
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/d/dd/Gong_Maintenance_Expert_achievement_icon.png/revision/latest?cb=20180303073513"
     },
-    "fields": [{
-        "name": "Beastmaster Durzag - Gong Maintenance Expert:",
-        "value": "[Gong Maintenance Expert](https://runescape.wikia.com/wiki/Gong_Maintenance_Expert) is an achievement that requires the player to defeat Beastmaster Durzag during the [Liberation of Mazcab](http://runescape.wikia.com/wiki/Liberation_of_Mazcab) with all four [gongs](https://runescape.wikia.com/wiki/Gong_(Pit_of_Trials) in the arena repaired, but **not used** to lower his stats."
-      },
+    "fields": [
       {
         "name": "Strategies:",
-        "value": "There are a total 4 gongs located within the arena. One on the north, east, south, and west side. The gongs can be repaired once Beastmaster Durzag enters into the arena. Constructing a gong can take a while when doing it alone.\n\n**WARNING:** Do not ring any of the gongs once they are repaired, this can make you fail getting the achievement."
+        "value": "There are a total 4 gongs located within the arena. One on the north, east, south, and west side. The gongs can be repaired once Beastmaster Durzag enters into the arena.\n\nConstructing a gong can take a while when doing it alone, so it is best to have two players complete this. The animation is long so ensure you physically see the planks nailed to the gong before moving on. If you need to stop at any point, the gong will remember where you left off when you continue constructing it again.\n\nA DPS'er should construct the north and east gong, while the north charger role completes his or her normal duties and then constructs the west and south gongs.\n\n**WARNING:** Do not ring any of the gongs once they are repaired, this can make you fail getting the achievement."
       },
       {
         "name": "Tips:",
-        "value": "• Construct a gong with multiple people at the same time."
+        "value": "• The player constructing the south gong should be weary of potential hits from Beastmaster Durzag due to his close proximity."
       },
       {
         "name": "Requirements:",
@@ -1699,30 +1694,35 @@ exports.data = {
     }
   },
   "combat - raids - make friends and influence people": {
-    "title": "The Hero of the Goebies",
+    "title": "Make Friends and Influence People",
     "author": {
       "name": "RuneScore Achievement Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[the Daredevil](http://runescape.wikia.com/wiki/The_Daredevil) is a title unlocked by completing [the Hero of the Goebies](http://runescape.wikia.com/wiki/Hero_of_the_Goebies) achievement, which requires the player to complete 10 Raid achievements in total. Five are completed at [Beastmaster Durzag](http://runescape.wikia.com/wiki/Beastmaster_Durzag), and the other five at [Yakamaru](http://runescape.wikia.com/wiki/Yakamaru). ",
+    "description": "[Make Friends and Influence People](https://runescape.wikia.com/wiki/Make_Friends_and_Influence_People) is an achievement that requires the player to use [asphyxiate](http://runescape.wikia.com/wiki/Asphyxiate) on [Yakamaru](http://runescape.wikia.com/wiki/Yakamaru) while he is in the north-eastern [stun](https://runescape.wikia.com/wiki/Yakamaru/Strategies#North-eastern_pool_.28No-stun.29) pool while having everyone in the raid party survive the damage taken.",
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/2/21/Make_Friends_and_Influence_People_achievement_icon.png/revision/latest?cb=20180112220552"
     },
-    "fields": [{
-        "name": "Yakamaru - Make Friends and Influence People:",
-        "value": "[Make Friends and Influence People](https://runescape.wikia.com/wiki/Make_Friends_and_Influence_People) is an achievement that requires the player to use [asphyxiate](http://runescape.wikia.com/wiki/Asphyxiate) on Yakamaru while he is in the north-eastern [stun](https://runescape.wikia.com/wiki/Yakamaru/Strategies#North-eastern_pool_.28No-stun.29) pool while having everyone in the raid party survive the damage taken."
-      },
+    "fields": [
       {
         "name": "Strategies:",
-        "value": "There are many methods for completing the Asphyxiate feat. One of the easiest methods is to have every player except the stunner and the base tank go as far south as possible, out of range of the pool. The base tank will then use [Barricade](http://runescape.wikia.com/wiki/Barricade) and use [intercept](http://runescape.wikia.com/wiki/Intercept) on the stunner, who will asphyxiate as soon he or she is beeing intercepted.\n\nOnly four total asphyxiates need to hit during the course of the kill, so using asphyxiate on four separate occasions will work."
+        "value": "There are many methods for completing the Asphyxiate feat. One of the easiest methods is to have every player except the stunner, the jelly wrangler, and the base tank go as far south as possible, out of range of the pool. The base tank will then use [Barricade](http://runescape.wikia.com/wiki/Barricade) and use [intercept](http://runescape.wikia.com/wiki/Intercept) on the stunner, who will asphyxiate as soon he or she is beeing intercepted.\n\nOnly four total asphyxiates need to hit during the course of the kill, so using asphyxiate on four separate occasions will work. However, it needs to be four **unique** hits from asphyxiate. That is, if the stunner asphyxiates and only the first, second, and fourth damage placers hit during the attack, then the attack must be used again, ensuring the third hit lands successfully.\n\nIf more than one asphyxiate is required, the jelly wrangler should handle the second intercept and barricade for the stunner."
+      },
+      {
+        "name": "​",
+        "value": "The seven players who run south should cycle through [defensive](https://runescape.wikia.com/wiki/Abilities#Defence) [abilities](https://runescape.wikia.com/wiki/Abilities) to stay in a combat stance, otherwise Yakamaru will inflict 2,000 damage periodically for fleeing from the battle."
       },
       {
         "name": "Tips:",
-        "value": "• Communicate with your team.\n• Players on the most south side of the arena can use a [combat dummy MKII](http://runescape.wikia.com/wiki/Combat_dummy_MKII) to build [adrenaline](https://runescape.wikia.com/wiki/Adrenaline)."
+        "value": "• Select players before the kill to apply the [Guthix staff](https://runescape.wikia.com/wiki/Guthix_staff) [special attack](https://runescape.wikia.com/wiki/Special_attack), [quake](https://runescape.wikia.com/wiki/Quake) ability, [Vulnerability](http://runescape.wikia.com/wiki/Vulnerability) spell, and [Statius's warhammer](https://runescape.wikia.com/wiki/Statius%27s_warhammer) special attack debuffs to Yakamaru before running to the south to ensure successfull asphyxiate hits.\n\nThe stunner should utilize the [Maniacal aura](https://runescape.wikia.com/wiki/Maniacal_aura) for the same reason as above.\n\n• Communicate with your team.\n\n• Players on the most south side of the arena can cycle through [resonance](https://runescape.wikia.com/wiki/Resonance), [freedom](https://runescape.wikia.com/wiki/Freedom), and [anticipation](https://runescape.wikia.com/wiki/Anticipation) as a good cycle to stay in near constant combat."
+      },
+      {
+        "name": "​",
+        "value": "• [Escape](https://runescape.wikia.com/wiki/Escape) and [surge](https://runescape.wikia.com/wiki/Surge) should not be utilized to stall [adrenaline](https://runescape.wikia.com/wiki/Adrenaline) as it can cause the player to be hit by the stun reflect damage.\n\n• All 10 players must hit the pool at the end of the kill for this achievement to register, and thusly, no one may die."
       },
       {
         "name": "Requirements:",
-        "value": "• Players must have defeated Beastmaster Durzag in their most recent lockout period\n• Players must have completed the Raids puzzle in their most recent lockout period"
+        "value": "• Players must have defeated [Beastmaster Durzag](https://runescape.wikia.com/wiki/Beastmaster_Durzag) in their most recent lockout period\n• Players must have completed the [Mazcab Canal Puzzle](https://runescape.wikia.com/wiki/Yakamaru/Strategies#Canals_Puzzle) in their most recent lockout period"
       },
       {
         "name": "Guide:",
@@ -1735,22 +1735,19 @@ exports.data = {
     }
   },
   "combat - raids - prison break": {
-    "title": "The Hero of the Goebies",
+    "title": "Prison Break",
     "author": {
       "name": "RuneScore Achievement Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[the Daredevil](http://runescape.wikia.com/wiki/The_Daredevil) is a title unlocked by completing [the Hero of the Goebies](http://runescape.wikia.com/wiki/Hero_of_the_Goebies) achievement, which requires the player to complete 10 Raid achievements in total. Five are completed at [Beastmaster Durzag](http://runescape.wikia.com/wiki/Beastmaster_Durzag), and the other five at [Yakamaru](http://runescape.wikia.com/wiki/Yakamaru). ",
+    "description": "[Prison Break](https://runescape.wikia.com/wiki/Prison_Break) is an achievement that requires the player to defeat [Beastmaster Durzag](https://runescape.wikia.com/wiki/Beastmaster_Durzag) during the [Liberation of Mazcab](http://runescape.wikia.com/wiki/Liberation_of_Mazcab) with at least one [goebie prisoner](https://runescape.wikia.com/wiki/Prisoner_(Goebie) surviving.",
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/e/ee/Prison_Break_achievement_icon.png/revision/latest?cb=20180303073633"
     },
-    "fields": [{
-        "name": "Beastmaster Durzag - Prison Break:",
-        "value": "[Prison Break](https://runescape.wikia.com/wiki/Prison_Break) is an achievement that requires the player to defeat Beastmaster Durzag during the [Liberation of Mazcab](http://runescape.wikia.com/wiki/Liberation_of_Mazcab) with at least one [goebie prisoner](https://runescape.wikia.com/wiki/Prisoner_(Goebie) surviving. "
-      },
+    "fields": [
       {
         "name": "Strategies:",
-        "value": "Goebie prisoners appear at the start of the Liberation of Mazcab raid, after a fellow [Goebie](https://runescape.wikia.com/wiki/Goebie) frees them from their prison. The goebies will yell out various phrases, and will assist the players in fighting the [Airuts](http://runescape.wikia.com/wiki/Airut), [Chargers](http://runescape.wikia.com/wiki/Charger), and [Cormes](http://runescape.wikia.com/wiki/Cormes). They do negligible damage, only have 1000 life points, and die rather easily.\n\nIn order to save them the player must take the aggression of the monsters off them. This can be done by using the [Provoke ability](http://runescape.wikia.com/wiki/Provoke), or by [stunning](https://runescape.wikia.com/wiki/Stun) the targets. "
+        "value": "Goebie prisoners appear at the start of the Liberation of Mazcab raid, after a fellow [Goebie](https://runescape.wikia.com/wiki/Goebie) frees them from their prison. The goebies will yell out various phrases, and will assist the players in fighting the [Airuts](http://runescape.wikia.com/wiki/Airut), [Chargers](http://runescape.wikia.com/wiki/Charger), and [Cormes](http://runescape.wikia.com/wiki/Cormes). They do negligible damage, only have 1,000 life points, and die rather easily.\n\nIn order to save them, the player must take the aggression of the monsters off them. This can be done by using the [Provoke ability](http://runescape.wikia.com/wiki/Provoke), or by [stunning](https://runescape.wikia.com/wiki/Stun) the targets.\n\nThis feat is usually completed without trying in a normal Raid kill."
       },
       {
         "name": "Tips:",
@@ -1771,26 +1768,23 @@ exports.data = {
     }
   },
   "combat - raids - rewind": {
-    "title": "The Hero of the Goebies",
+    "title": "Rewind",
     "author": {
       "name": "RuneScore Achievement Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[the Daredevil](http://runescape.wikia.com/wiki/The_Daredevil) is a title unlocked by completing [the Hero of the Goebies](http://runescape.wikia.com/wiki/Hero_of_the_Goebies) achievement, which requires the player to complete 10 Raid achievements in total. Five are completed at [Beastmaster Durzag](http://runescape.wikia.com/wiki/Beastmaster_Durzag), and the other five at [Yakamaru](http://runescape.wikia.com/wiki/Yakamaru). ",
+    "description": "[Rewind](https://runescape.wikia.com/wiki/Rewind) is an achievement that requires the player to allow [Yakamaru](https://runescape.wikia.com/wiki/Yakamaru) to consume a [Durable Jellyfish](http://runescape.wikia.com/wiki/Durable_Jellyfish) after his [Mirage](https://runescape.wikia.com/wiki/Yakamaru/Strategies#Mirage_phase) phase during the [Liberation of Mazcab](http://runescape.wikia.com/wiki/Liberation_of_Mazcab), essentially restarting the fight.",
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/8/82/Rewind_achievement_icon.png/revision/latest?cb=20180325005716"
     },
-    "fields": [{
-        "name": "Yakamaru - Rewind:",
-        "value": "[Rewind](https://runescape.wikia.com/wiki/Rewind) is an achievement that requires the player to allow Yakamaru to consume a [Durable Jellyfish](http://runescape.wikia.com/wiki/Durable_Jellyfish) after his [Mirage](https://runescape.wikia.com/wiki/Yakamaru/Strategies#Mirage_phase) phase during the [Liberation of Mazcab](http://runescape.wikia.com/wiki/Liberation_of_Mazcab), essentially restarting the fight."
-      },
+    "fields": [
       {
         "name": "Strategies:",
-        "value": "When the last durable jellyfish spawns, have one player tank it all the way to the end of mirage phase. Lure it to melee distance of Yakamaru in the centre pool when all the mirages are dead. Doing so when Yakamru is at 50,000 or lower health will result in the whole fight being reset, so be prepared to face all four [pools](https://runescape.wikia.com/wiki/Yakamaru/Strategies#Phases) and mirage phase again including [planking](https://runescape.wikia.com/wiki/Plank_(Mazcab). The reset is marked by a message: \"In desperation, Yakamaru sees the Durable Jellyfish and consumes it, healing him fully!\""
+        "value": "When the last durable jellyfish spawns, have one player [tank](https://runescape.wikia.com/wiki/Tanking) it all the way to the end of mirage phase. Lure it to melee distance of Yakamaru in the center pool when all the mirages are dead. Doing so when Yakamru is at 50,000 or lower health will result in the whole fight being reset, so be prepared to face all four [pools](https://runescape.wikia.com/wiki/Yakamaru/Strategies#Phases) and mirage phase again, including [planking](https://runescape.wikia.com/wiki/Plank_(Mazcab). The reset is marked by a message: \"In desperation, Yakamaru sees the Durable Jellyfish and consumes it, healing him fully!\""
       },
       {
         "name": "Tips:",
-        "value": "•Use [Saradomin brews](http://runescape.wikia.com/wiki/Saradomin_brew) and [defensive](https://runescape.wikia.com/wiki/Abilities#Defence) [abilities](https://runescape.wikia.com/wiki/Abilities) to sustain lost life points, as supplies are most likely to be depleted.\n\n• Put Saradomin brews and food on your [action bar](http://runescape.wikia.com/wiki/Action_bar) to consume it faster."
+        "value": "• This is a true test of your team, do not attempt it without confidence.\n\n• Use [Saradomin brews](http://runescape.wikia.com/wiki/Saradomin_brew) and [defensive](https://runescape.wikia.com/wiki/Abilities#Defence) [abilities](https://runescape.wikia.com/wiki/Abilities) to sustain lost life points, as supplies are most likely to be depleted.\n\n• Put Saradomin brews and food on your [action bar](http://runescape.wikia.com/wiki/Action_bar) to consume it faster.\n\n• Every player who can should have a [pack yak](https://runescape.wikia.com/wiki/Pack_yak) for extra food to make up for the increased damage that will be taken in comparison to a normal raid."
       },
       {
         "name": "Requirements:",
