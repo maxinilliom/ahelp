@@ -40,7 +40,7 @@ exports.data = {
                     },
                     {
                         "name": "Recommendations and Requirements:",
-                        "value": "• __Recommended Attack Style:__ Range or Mage\n• __Recommended Armor Tier:__ 70\n• __Recommended Weapon Tier:__ 80\n• __Recommended Prayer:__ [Deflect Magic](https://runescape.wikia.com/wiki/Deflect_Magic)"
+                        "value": "• __Recommended Attack Style:__ Range or Mage\n• __Minimum Recommended Armor Tier:__ 70\n• __Minimum Recommended Weapon Tier:__ 80\n• __Recommended Prayer:__ [Deflect Magic](https://runescape.wikia.com/wiki/Deflect_Magic)"
                     },
                     {
                         "name": "Mechanics",
@@ -110,7 +110,7 @@ exports.data = {
                 },
                 {
                     "name": "Recommendations and Requirements:",
-                    "value": "• Completion of [The Temple of Aminishi](https://runescape.wikia.com/wiki/Temple_of_Aminishi) in normal or story mode\n• __Recommended Attack Style:__ Range or Mage\n• __Recommended Armor Tier:__ 70\n• __Recommended Weapon Tier:__ 80\n• __Recommended Prayer:__ [Deflect Magic](https://runescape.wikia.com/wiki/Deflect_Magic)"
+                    "value": "• Completion of [The Temple of Aminishi](https://runescape.wikia.com/wiki/Temple_of_Aminishi) in normal or story mode\n• __Recommended Attack Style:__ Range or Mage\n• __Minimum Recommended Armor Tier:__ 70\n• __Minimum Recommended Weapon Tier:__ 80\n• __Recommended Prayer:__ [Deflect Magic](https://runescape.wikia.com/wiki/Deflect_Magic)"
                 },
                 {
                     "name": "Attack 1:",
@@ -210,7 +210,7 @@ exports.data = {
                     },
                     {
                     "name": "Recommendations and Requirements:",
-                    "value": "• __Recommended Attack Style:__ Range or Mage\n• __Recommended Armor Tier:__ 70\n• __Recommended Weapon Tier:__ 80\n• __Recommended Prayer:__ [Deflect Missles](https://runescape.wikia.com/wiki/Deflect_Melee)/[Melee](https://runescape.wikia.com/wiki/Deflect_Melee)"
+                    "value": "• __Recommended Attack Style:__ Range or Mage\n• __Minimum Recommended Armor Tier:__ 70\n• __Minimum Recommended Weapon Tier:__ 80\n• __Recommended Prayer:__ [Deflect Missles](https://runescape.wikia.com/wiki/Deflect_Melee)/[Melee](https://runescape.wikia.com/wiki/Deflect_Melee)"
                     },
                     {
                         "name": "The Pre-Fight Scene",
@@ -296,7 +296,7 @@ exports.data = {
                     },
                     {
                         "name": "Recommendations and Requirements:",
-                        "value": "• __Recommended Attack Style:__ Range or Mage\n• __Recommended Armor Tier:__ 50\n• __Recommended Weapon Tier:__ 60\n• __Recommended Prayer:__ [Protect from Magic](https://runescape.wikia.com/wiki/Protect_from_Magic)/[Soul Split](https://runescape.wikia.com/wiki/Soul_Split)"
+                        "value": "• __Recommended Attack Style:__ Range or Mage\n• __Minimum Recommended Armor Tier:__ 50\n• __Minimum Recommended Weapon Tier:__ 60\n• __Recommended Prayer:__ [Protect from Magic](https://runescape.wikia.com/wiki/Protect_from_Magic)/[Soul Split](https://runescape.wikia.com/wiki/Soul_Split)"
                     },
                     {
                         "name": "Attack 1: Discord",
@@ -345,7 +345,7 @@ exports.data = {
          },
          {  
             "name":"​Requirements and Recommendations:",
-            "value":"• 70 Agility\n• 40 Saradomonist Killcount\n• Access to God Wars Dungeon\n• __Recommended Attack Style:__ Magic\n• __Recommended Armour Tier:__ 70\n• __Recommended Weapon Tier:__ 70\n• __Recommended Prayer:__ [Protect from Magic](https://runescape.wikia.com/wiki/Protect_from_Magic) or [Soul Split](https://runescape.wikia.com/wiki/Soul_Split)"
+            "value":"• 70 Agility\n• 40 Saradomonist Killcount\n• Access to God Wars Dungeon\n• __Recommended Attack Style:__ Magic\n• __Minimum Recommended Armour Tier:__ 70\n• __Minimum Recommended Weapon Tier:__ 70\n• __Recommended Prayer:__ [Protect from Magic](https://runescape.wikia.com/wiki/Protect_from_Magic) or [Soul Split](https://runescape.wikia.com/wiki/Soul_Split)"
          },
          {  
             "name":"​Melee Attack",
@@ -378,7 +378,7 @@ exports.data = {
                     },
                     {
                         "name": "Requirements and Recommendations:",
-                        "value": "• Completion of the [Summer's End](http://runescape.wikia.com/wiki/Summer%27s_End) quest.\n• __Recommended Attack Style:__  Melee\n• __Recommended Armour Tier:__ 70\n• __Recommended Weapon Tier:__ 70\n• __Recommended Prayer:__ [Protect from Magic](https://runescape.wikia.com/wiki/Protect_from_Magic) or [Soul Split](https://runescape.wikia.com/wiki/Soul_Split)"
+                        "value": "• Completion of the [Summer's End](http://runescape.wikia.com/wiki/Summer%27s_End) quest.\n• __Recommended Attack Style:__  Melee\n• __Minimum Recommended Armour Tier:__ 70\n• __Minimum Recommended Weapon Tier:__ 70\n• __Recommended Prayer:__ [Protect from Magic](https://runescape.wikia.com/wiki/Protect_from_Magic) or [Soul Split](https://runescape.wikia.com/wiki/Soul_Split)"
                     },
                     {
                         "name": "Melee Attack:",
@@ -415,7 +415,7 @@ exports.data = {
                     },
                     {
                         "name": "Requirements and Recommendations:",
-                        "value": "• Started [The Fremennik Trials](https://runescape.wikia.com/wiki/The_Fremennik_Trials) quest.\n• __Recommended Attack Style:__  Melee, Ranged, **and** Magic\n• __Recommended Armour Tier:__ 50\n• __Recommended Weapon Tier:__ 60\n• __Recommended Prayer:__ [Protect from Magic](https://runescape.wikia.com/wiki/Protect_from_Magic) or [Soul Split](https://runescape.wikia.com/wiki/Soul_Split)"
+                        "value": "• Started [The Fremennik Trials](https://runescape.wikia.com/wiki/The_Fremennik_Trials) quest.\n• __Recommended Attack Style:__  Melee, Ranged, **and** Magic\n• __Minimum Recommended Armour Tier:__ 50\n• __Minimum Recommended Weapon Tier:__ 60\n• __Recommended Prayer:__ [Protect from Magic](https://runescape.wikia.com/wiki/Protect_from_Magic) or [Soul Split](https://runescape.wikia.com/wiki/Soul_Split)"
                     },
                     {
                         "name": "Dagannoth Prime:",
@@ -460,7 +460,7 @@ exports.data = {
          },
          {  
             "name":"​Requirements and Recommendations:",
-            "value":"• 70 Strength\n• 40 [Bandosian Killcount](https://runescape.wikia.com/wiki/General_Graardor/Strategies#Getting_the_Kill_Count)\n• Access to God Wars Dungeon\n• __Recommended Attack Style:__ Melee\n• __Recommended Armour Tier:__ 70\n• __Recommended Weapon Tier:__ 70\n• __Recommended Prayer:__ [Protect from Melee](https://runescape.wikia.com/wiki/Protect_from_Melee) or [Soul Split](https://runescape.wikia.com/wiki/Soul_Split)"
+            "value":"• 70 Strength\n• 40 [Bandosian Killcount](https://runescape.wikia.com/wiki/General_Graardor/Strategies#Getting_the_Kill_Count)\n• Access to God Wars Dungeon\n• __Recommended Attack Style:__ Melee\n• __Minimum Recommended Armour Tier:__ 70\n• __Minimum Recommended Weapon Tier:__ 70\n• __Recommended Prayer:__ [Protect from Melee](https://runescape.wikia.com/wiki/Protect_from_Melee) or [Soul Split](https://runescape.wikia.com/wiki/Soul_Split)"
          },
          {  
             "name":"​Melee Attack:",
@@ -493,7 +493,7 @@ exports.data = {
                     },
                     {  
                         "name":"Requirements and Recommendations:",
-                        "value":"• __Recommended Attack Style:__ Melee\n• __Recommended Armour Tier:__ 40\n• __Recommended Weapon Tier:__ 50\n• __Recommended Prayer:__ [Protect from Melee](https://runescape.wikia.com/wiki/Protect_from_Melee) or [Soul Split](https://runescape.wikia.com/wiki/Soul_Split)"
+                        "value":"• __Recommended Attack Style:__ Melee\n• __Minimum Recommended Armour Tier:__ 40\n• __Minimum Recommended Weapon Tier:__ 50\n• __Recommended Prayer:__ [Protect from Melee](https://runescape.wikia.com/wiki/Protect_from_Melee) or [Soul Split](https://runescape.wikia.com/wiki/Soul_Split)"
                     },
                     {
                         "name": "Main Cavern",
@@ -550,7 +550,7 @@ exports.data = {
                     },
                     {  
                         "name":"​Requirements and Recommendations:",
-                        "value":"• 80 Prayer\n• 40 Sliskean killcount or 20 if the player has unlocked the 50% killcount reduction perk, requiring 4,500 [Reputation](https://runescape.wikia.com/wiki/Reputation_(Heart_of_Gielinor)\n• __Recommended Attack Style:__ Ranged\n• __Recommended Armour Tier:__ 70\n• __Recommended Weapon Tier:__ 80\n• __Recommended Prayer:__ [Deflect Missiles](https://runescape.wikia.com/wiki/Deflect_Missiles)"
+                        "value":"• 80 Prayer\n• 40 Sliskean killcount or 20 if the player has unlocked the 50% killcount reduction perk, requiring 4,500 [Reputation](https://runescape.wikia.com/wiki/Reputation_(Heart_of_Gielinor)\n• __Recommended Attack Style:__ Ranged\n• __Minimum Recommended Armour Tier:__ 70\n• __Minimum Recommended Weapon Tier:__ 80\n• __Recommended Prayer:__ [Deflect Missiles](https://runescape.wikia.com/wiki/Deflect_Missiles)"
                     },
                     {
                         "name": "Special Attack 1:",
@@ -595,7 +595,7 @@ exports.data = {
          },
          {  
             "name":"​Requirements and Recommendations:",
-            "value":"\n• Completion of [The Elder Kiln](http://runescape.wikia.com/wiki/The_Elder_Kiln) quest\n• One time payment of a [Fire Cape](http://runescape.wikia.com/wiki/Fire_cape)\n• __Recommended Attack Style:__ Magic\n• __Recommended Armour Tier:__ 70\n• __Recommended Weapon Tier:__ 85\n• __Recommended Prayer:__ [Soulsplit](https://runescape.wikia.com/wiki/Soul_Split)\n• [The Brink of Extinction](http://runescape.wikia.com/wiki/The_Brink_of_Extinction) for [Obsidian Armour](http://runescape.wikia.com/wiki/Obsidian_equipment) (recommended)"
+            "value":"\n• Completion of [The Elder Kiln](http://runescape.wikia.com/wiki/The_Elder_Kiln) quest\n• One time payment of a [Fire Cape](http://runescape.wikia.com/wiki/Fire_cape)\n• __Recommended Attack Style:__ Magic\n• __Minimum Recommended Armour Tier:__ 70\n• __Minimum Recommended Weapon Tier:__ 85\n• __Recommended Prayer:__ [Soulsplit](https://runescape.wikia.com/wiki/Soul_Split)\n• [The Brink of Extinction](http://runescape.wikia.com/wiki/The_Brink_of_Extinction) for [Obsidian Armour](http://runescape.wikia.com/wiki/Obsidian_equipment) (recommended)"
          },
          {  
             "name":"​Strategy",
@@ -628,7 +628,7 @@ exports.data = {
                 },
                 {
                     "name": "Recommendations and Requirements:",
-                    "value": "• 80 Magic\n• 40 Serenist killcount or 20 if the player has unlocked the 50% killcount reduction perk, requiring 4,500 [Reputation](https://runescape.wikia.com/wiki/Reputation_(Heart_of_Gielinor)\n• __Recommended Attack Style:__ Melee\n• __Recommended Armor Tier:__ 70\n• __Recommended Weapon Tier:__ 70\n• __Recommended Prayer:__ [Protect from Melee](https://runescape.wikia.com/wiki/Protect_from_Melee) or [Soul Split](https://runescape.wikia.com/wiki/Soul_Split)"
+                    "value": "• 80 Magic\n• 40 Serenist killcount or 20 if the player has unlocked the 50% killcount reduction perk, requiring 4,500 [Reputation](https://runescape.wikia.com/wiki/Reputation_(Heart_of_Gielinor)\n• __Recommended Attack Style:__ Melee\n• __Minimum Recommended Armor Tier:__ 70\n• __Minimum Recommended Weapon Tier:__ 70\n• __Recommended Prayer:__ [Protect from Melee](https://runescape.wikia.com/wiki/Protect_from_Melee) or [Soul Split](https://runescape.wikia.com/wiki/Soul_Split)"
                 },
                 {
                     "name": "Attack 1: Nature, lend me your aid!",
@@ -669,7 +669,7 @@ exports.data = {
                 },
                 {
                     "name": "Recommendations and Requirements:",
-                    "value": "• 70 Constitution\n• 40 [K'ril Count](https://runescape.wikia.com/wiki/K%27ril_Tsutsaroth/Strategies#K.27ril_count)\n• Access to God Wars Dungeon\n• __Recommended Attack Style:__ Magic\n• __Recommended Minimum Armor Tier:__ 60\n• __Recommended Minimum Weapon Tier:__ 70\n• __Recommended Prayer:__ [Protect from Melee](https://runescape.wikia.com/wiki/Protect_from_Melee) or [Soul Split](https://runescape.wikia.com/wiki/Soul_Split)"
+                    "value": "• 70 Constitution\n• 40 [K'ril Count](https://runescape.wikia.com/wiki/K%27ril_Tsutsaroth/Strategies#K.27ril_count)\n• Access to God Wars Dungeon\n• __Recommended Attack Style:__ Magic\n• __Minimum Recommended Armor Tier:__ 60\n• __Minimum Recommended Weapon Tier:__ 70\n• __Recommended Prayer:__ [Protect from Melee](https://runescape.wikia.com/wiki/Protect_from_Melee) or [Soul Split](https://runescape.wikia.com/wiki/Soul_Split)"
                 },
                 {
                     "name": "Melee Attack:",
@@ -710,7 +710,7 @@ exports.data = {
                 },
                 {
                     "name": "Recommendations and Requirements:",
-                    "value": "• __Recommended Attack Style:__ Ranged **and** Melee\n• __Recommended Minimum Armor Tier:__ 70\n• __Recommended Minimum Weapon Tier:__ 80\n• __Recommended Prayer:__ [Protection Prayers](https://runescape.wikia.com/wiki/Protection_prayers) or [Deflect Curses](https://runescape.wikia.com/wiki/Deflect_Curses) will need to be alternated across all styles for this fight."
+                    "value": "• __Recommended Attack Style:__ Ranged **and** Melee\n• __Minimum Recommended Armor Tier:__ 70\n• __Minimum Recommended Weapon Tier:__ 80\n• __Recommended Prayer:__ [Protection Prayers](https://runescape.wikia.com/wiki/Protection_prayers) or [Deflect Curses](https://runescape.wikia.com/wiki/Deflect_Curses) will need to be alternated across all styles for this fight."
                 },
                 {
                     "name": "Melee Attacks:",
@@ -763,7 +763,7 @@ exports.data = {
                     },
                     {
                        "name": "Recommendations and Requirements:",
-                       "value": "• __Recommended Attack Style:__ Melee **and** Ranged **or** Mage\n• __Recommended Minimum Armor Tier:__ 50\n• __Recommended Minimum Weapon Tier:__ 60\n• __Recommended Prayer:__ [Protection Prayers](https://runescape.wikia.com/wiki/Protection_prayers) or [Deflect Curses](https://runescape.wikia.com/wiki/Deflect_Curses) will need to be alternated across all styles for this fight."
+                       "value": "• __Recommended Attack Style:__ Melee **and** Ranged **or** Mage\n• __Minimum Recommended Armor Tier:__ 50\n• __Minimum Recommended Weapon Tier:__ 60\n• __Recommended Prayer:__ [Protection Prayers](https://runescape.wikia.com/wiki/Protection_prayers) or [Deflect Curses](https://runescape.wikia.com/wiki/Deflect_Curses) will need to be alternated across all styles for this fight."
                     },
                     {
                         "name": "Stage 1: Grounded Stage",
@@ -816,7 +816,7 @@ exports.data = {
                     },
                     {
                        "name": "Recommendations and Requirements:",
-                       "value": "• __Recommended Attack Style:__Ranged\n• __Recommended Minimum Armor Tier:__ 50\n• __Recommended Minimum Weapon Tier:__ 60\n• __Recommended Prayer:__ [Protect from Melee](https://runescape.wikia.com/wiki/Protect_from_Melee) or [Soulsplit](https://runescape.wikia.com/wiki/Soul_Split)\n• __Recommended Items:__ A [Dragonfire protection item](https://runescape.wikia.com/wiki/Dragonfire#Protection) and an [Antipoison](https://runescape.wikia.com/wiki/Antipoison) potion."
+                       "value": "• __Recommended Attack Style:__Ranged\n• __Minimum Recommended Armor Tier:__ 50\n• __Minimum Recommended Weapon Tier:__ 60\n• __Recommended Prayer:__ [Protect from Melee](https://runescape.wikia.com/wiki/Protect_from_Melee) or [Soulsplit](https://runescape.wikia.com/wiki/Soul_Split)\n• __Recommended Items:__ A [Dragonfire protection item](https://runescape.wikia.com/wiki/Dragonfire#Protection) and an [Antipoison](https://runescape.wikia.com/wiki/Antipoison) potion."
                     },
                     {
                         "name": "Attack 1: Melee",
@@ -865,7 +865,7 @@ exports.data = {
                 },
                 {
                     "name": "Recommendations and Requirements:",
-                    "value": "• 70 Ranged\n• 40 Armadylian Killcount\n• Access to God Wars Dungeon\n• __Recommended Attack Style:__ Magic\n• __Recommended Minimum Armor Tier:__ 60\n• __Recommended Minimum Weapon Tier:__ 70\n• __Recommended Prayer:__ [Protect from Missiles](https://runescape.wikia.com/wiki/Protect_from_Missiles) or [Soul Split](https://runescape.wikia.com/wiki/Soul_Split)"
+                    "value": "• 70 Ranged\n• 40 Armadylian Killcount\n• Access to God Wars Dungeon\n• __Recommended Attack Style:__ Magic\n• __Minimum Recommended Armor Tier:__ 60\n• __Minimum Recommended Weapon Tier:__ 70\n• __Recommended Prayer:__ [Protect from Missiles](https://runescape.wikia.com/wiki/Protect_from_Missiles) or [Soul Split](https://runescape.wikia.com/wiki/Soul_Split)"
                 },
                 {
                     "name": "Melee Attack:",
@@ -906,7 +906,7 @@ exports.data = {
                 },
                 {
                     "name": "Requirements and Recommendations:",
-                    "value": "• An Ascension Keystone [Primus](http://runescape.wikia.com/wiki/Ascension_Keystone_Primus), [Secundus](https://runescape.wikia.com/wiki/Ascension_Keystone_Secundus), [Tertius](https://runescape.wikia.com/wiki/Ascension_Keystone_Tertius), [Quartus](https://runescape.wikia.com/wiki/Ascension_Keystone_Quartus), [Quintus](https://runescape.wikia.com/wiki/Ascension_Keystone_Quintus), or [Sextus](https://runescape.wikia.com/wiki/Ascension_Keystone_Sextus)\n• __Recommended Attack Style:__ Ranged\n• __Recommended Armour Tier:__ 70\n• __Recommended Weapon Tier:__ 70\n• __Recommended Prayer:__ [Deflect Magic](https://runescape.wikia.com/wiki/Deflect_Magic) or [Soulsplit](https://runescape.wikia.com/wiki/Soul_Split)"
+                    "value": "• An Ascension Keystone [Primus](http://runescape.wikia.com/wiki/Ascension_Keystone_Primus), [Secundus](https://runescape.wikia.com/wiki/Ascension_Keystone_Secundus), [Tertius](https://runescape.wikia.com/wiki/Ascension_Keystone_Tertius), [Quartus](https://runescape.wikia.com/wiki/Ascension_Keystone_Quartus), [Quintus](https://runescape.wikia.com/wiki/Ascension_Keystone_Quintus), or [Sextus](https://runescape.wikia.com/wiki/Ascension_Keystone_Sextus)\n• __Recommended Attack Style:__ Ranged\n• __Minimum Recommended Armour Tier:__ 70\n• __Minimum Recommended Weapon Tier:__ 70\n• __Recommended Prayer:__ [Deflect Magic](https://runescape.wikia.com/wiki/Deflect_Magic) or [Soulsplit](https://runescape.wikia.com/wiki/Soul_Split)"
                 },
                 {
                     "name": "General Attack Rotation and Mechanics:",
@@ -963,7 +963,7 @@ exports.data = {
                 },                
                 {
                     "name": "Recommendations and Requirements:",
-                    "value": "• __Recommended Attack Style:__ Magic\n• __Recommended Minimum Armor Tier:__ 70\n• __Recommended Minimum Weapon Tier:__ 80\n• __Recommended Prayer:__ [Protection Prayers](https://runescape.wikia.com/wiki/Protection_prayers) or [Deflect Curses](https://runescape.wikia.com/wiki/Deflect_Curses) will need to be alternated across all styles for this fight."
+                    "value": "• [Impressing the Locals](https://runescape.wikia.com/wiki/Impressing_the_Locals) Quest completion\n\n• __Recommended Attack Style:__ Magic\n• __Minimum Recommended Armor Tier:__ 70\n• __Minimum Recommended Weapon Tier:__ 80\n• __Recommended Prayer:__ [Protection Prayers](https://runescape.wikia.com/wiki/Protection_prayers) or [Deflect Curses](https://runescape.wikia.com/wiki/Deflect_Curses) will need to be alternated across all styles for this fight."
                 },
                 {
                     "name": "Attack 1: Clones",
@@ -1016,7 +1016,7 @@ exports.data = {
                 },
                 {  
                     "name":"​Requirements and Recommendations:",
-                    "value":"• 70 Ranged, Strength, Agility **and** Constitution\n• 40 Zarosian killcount **or** [Ancient Ceremonial Robes](https://runescape.wikia.com/wiki/Ancient_ceremonial_robes)\n• A [Frozen key](https://runescape.wikia.com/wiki/Frozen_key)\n• Access to God Wars Dungeon\n• __Recommended Attack Style:__ Ranged\n• __Recommended Armour Tier:__ 70\n• __Recommended Weapon Tier:__ 85\n• __Recommended Prayer:__ [Deflect Magic](https://runescape.wikia.com/wiki/Deflect_Magic) **and** [Deflect Missles](https://runescape.wikia.com/wiki/Deflect_Missiles)"
+                    "value":"• 70 Ranged, Strength, Agility **and** Constitution\n• 40 Zarosian killcount **or** [Ancient Ceremonial Robes](https://runescape.wikia.com/wiki/Ancient_ceremonial_robes)\n• A [Frozen key](https://runescape.wikia.com/wiki/Frozen_key)\n• Access to God Wars Dungeon\n• __Recommended Attack Style:__ Ranged\n• __Minimum Recommended Armour Tier:__ 70\n• __Minimum Recommended Weapon Tier:__ 85\n• __Recommended Prayer:__ [Deflect Magic](https://runescape.wikia.com/wiki/Deflect_Magic) **and** [Deflect Missles](https://runescape.wikia.com/wiki/Deflect_Missiles)"
                 },
                 {
                     "name": "Phase 1: Smoke",
@@ -1062,7 +1062,7 @@ exports.data = {
                     },
                     {  
                     "name":"​Requirements and Recommendations:",
-                    "value":"• 70 Ranged, Strength, Agility **and** Constitution\n• 40 Zarosian killcount **or** [Ancient Ceremonial Robes](https://runescape.wikia.com/wiki/Ancient_ceremonial_robes)\n• A [Frozen key](https://runescape.wikia.com/wiki/Frozen_key)\n• Access to God Wars Dungeon\n• __Recommended Attack Style:__ Ranged\n• __Recommended Armour Tier:__ 70\n• __Recommended Weapon Tier:__ 85\n• __Recommended Prayer:__ [Deflect Magic](http://runescape.wikia.com/wiki/Deflect_Magic)"
+                    "value":"• 70 Ranged, Strength, Agility **and** Constitution\n• 40 Zarosian killcount **or** [Ancient Ceremonial Robes](https://runescape.wikia.com/wiki/Ancient_ceremonial_robes)\n• A [Frozen key](https://runescape.wikia.com/wiki/Frozen_key)\n• Access to God Wars Dungeon\n• __Recommended Attack Style:__ Ranged\n• __Minimum Recommended Armour Tier:__ 70\n• __Minimum Recommended Weapon Tier:__ 85\n• __Recommended Prayer:__ [Deflect Magic](http://runescape.wikia.com/wiki/Deflect_Magic)"
                     },
                     {
                         "name": "Phase 1:",
@@ -1134,7 +1134,7 @@ exports.data = {
          },
          {  
             "name":"Requirements and Recommendations:",
-            "value":"\n• 60 Summoning\n• __Recommended Attack Style:__ Ranged\n• __Recommended Armour Tier:__ 70\n• __Recommended Weapon Tier:__ 70\n• __Recommended Prayer:__ [Protect from Missles](https://runescape.wikia.com/wiki/Protect_from_Missiles) or [Soulsplit](https://runescape.wikia.com/wiki/Soul_Split)\n• __Recommended Items:__ A [Dragonfire protection item](https://runescape.wikia.com/wiki/Dragonfire#Protection)"
+            "value":"\n• 60 Summoning\n• __Recommended Attack Style:__ Ranged\n• __Minimum Recommended Armour Tier:__ 70\n• __Minimum Recommended Weapon Tier:__ 70\n• __Recommended Prayer:__ [Protect from Missles](https://runescape.wikia.com/wiki/Protect_from_Missiles) or [Soulsplit](https://runescape.wikia.com/wiki/Soul_Split)\n• __Recommended Items:__ A [Dragonfire protection item](https://runescape.wikia.com/wiki/Dragonfire#Protection)"
          },
          {  
             "name":"Combat Breakdown",
@@ -1239,7 +1239,7 @@ exports.data = {
                 },
                 {  
                     "name":"Requirements and Recommendations:",
-                    "value":"• __Recommended Attack Style:__ Magic\n• __Recommended Armour Tier:__ 70\n• __Recommended Weapon Tier:__ 80\n• __Recommended Prayer:__ [Deflect Magic](https://runescape.wikia.com/wiki/Deflect_Magic) and [Soulsplit](https://runescape.wikia.com/wiki/Soul_Split)"
+                    "value":"• [Impressing the Locals](https://runescape.wikia.com/wiki/Impressing_the_Locals) Quest completion\n\n• __Recommended Attack Style:__ Magic\n• __Minimum Recommended Armour Tier:__ 70\n• __Minimum Recommended Weapon Tier:__ 80\n• __Recommended Prayer:__ [Deflect Magic](https://runescape.wikia.com/wiki/Deflect_Magic) and [Soulsplit](https://runescape.wikia.com/wiki/Soul_Split)"
                 },
                 {
                     "name": "Attack 1:",
@@ -1292,7 +1292,7 @@ exports.data = {
                 },
                 {  
                     "name":"Requirements and Recommendations:",
-                    "value":"• __Recommended Attack Style:__ Magic\n• __Recommended Armour Tier:__ 80\n• __Recommended Weapon Tier:__ 90\n• __Recommended Prayer:__ [Deflect Magic](https://runescape.wikia.com/wiki/Deflect_Magic) and [Soulsplit](https://runescape.wikia.com/wiki/Soul_Split)"
+                    "value":"• __Recommended Attack Style:__ Magic\n• __Minimum Recommended Armour Tier:__ 80\n• __Minimum Recommended Weapon Tier:__ 90\n• __Recommended Prayer:__ [Deflect Magic](https://runescape.wikia.com/wiki/Deflect_Magic) and [Soulsplit](https://runescape.wikia.com/wiki/Soul_Split)"
                 },
                 {
                     "name": "Pre-kill:",
@@ -1361,7 +1361,7 @@ exports.data = {
                     },
                     {
                     "name": "Recommendations and Requirements:",
-                    "value": "• 80 Attack\n• 80 Prayer\n• 80 Magic\n• 80 Ranged\n• An [Ancient Sigil](http://runescape.wikia.com/wiki/Ancient_sigil)\n• Players must have defeated [Helwyr](https://runescape.wikia.com/wiki/Helwyr), [Gregorovic](https://runescape.wikia.com/wiki/Gregorovic), the [Twin Furies](https://runescape.wikia.com/wiki/Twin_Furies), and [Vindicta](https://runescape.wikia.com/wiki/Vindicta) at least once to obtain their sigil pieces\n• __Recommended Attack Style:__ Ranged or Mage\n• __Recommended Minimum Armor Tier:__ 80\n• __Recommended Minimum Weapon Tier:__ 80\n• __Recommended Prayer:__ [Deflect Magic](https://runescape.wikia.com/wiki/Deflect_Magic) and [Deflect Melee](https://runescape.wikia.com/wiki/Deflect_Melee)"
+                    "value": "• 80 Attack\n• 80 Prayer\n• 80 Magic\n• 80 Ranged\n• An [Ancient Sigil](http://runescape.wikia.com/wiki/Ancient_sigil)\n• Players must have defeated [Helwyr](https://runescape.wikia.com/wiki/Helwyr), [Gregorovic](https://runescape.wikia.com/wiki/Gregorovic), the [Twin Furies](https://runescape.wikia.com/wiki/Twin_Furies), and [Vindicta](https://runescape.wikia.com/wiki/Vindicta) at least once to obtain their sigil pieces\n• __Recommended Attack Style:__ Ranged or Mage\n• __Minimum Recommended Armor Tier:__ 80\n• __Minimum Recommended Weapon Tier:__ 80\n• __Recommended Prayer:__ [Deflect Magic](https://runescape.wikia.com/wiki/Deflect_Magic) and [Deflect Melee](https://runescape.wikia.com/wiki/Deflect_Melee)"
                     },
                     {
                         "name": "Mechanics",
@@ -1419,7 +1419,7 @@ exports.data = {
                     },
                     {
                         "name": "Requirements and Recommendations:",
-                        "value": "• __Recommended Attack Style:__ Tribrid or Magic\n• __Recommended Armour Tier:__ 50\n• __Recommended WeaponTier:__ 60\n• __Recommended Prayer:__  [Protection Prayers](https://runescape.wikia.com/wiki/Protection_prayers) or [Deflect Curses](https://runescape.wikia.com/wiki/Deflect_Curses) will need to be alternated across all styles for this fight or [Soul Split](https://runescape.wikia.com/wiki/Soul_Split)"
+                        "value": "• __Recommended Attack Style:__ Tribrid or Magic\n• __Minimum Recommended Armour Tier:__ 50\n• __Minimum Recommended Weapon Tier:__ 60\n• __Recommended Prayer:__  [Protection Prayers](https://runescape.wikia.com/wiki/Protection_prayers) or [Deflect Curses](https://runescape.wikia.com/wiki/Deflect_Curses) will need to be alternated across all styles for this fight or [Soul Split](https://runescape.wikia.com/wiki/Soul_Split)"
                     },
                     {
                         "name": "Ahrim the Blighted",
@@ -1492,7 +1492,7 @@ exports.data = {
                     },
                     {
                         "name": "Requirements and Recommendations:",
-                        "value": "• 115 Slayer\n• A [Key to the Crossing](http://runescape.wikia.com/wiki/Key_to_the_Crossing)\n• __Recommended Attack Style:__ Magic\n• __Recommended Armour Tier:__ 70\n• __Recommended Weapon Tier:__ 80\n• __Recommended Prayer:__ [Deflect Magic](https://runescape.wikia.com/wiki/Deflect_Magic) or [Soulsplit](https://runescape.wikia.com/wiki/Soul_Split)"
+                        "value": "• 115 Slayer\n• A [Key to the Crossing](http://runescape.wikia.com/wiki/Key_to_the_Crossing)\n• __Recommended Attack Style:__ Magic\n• __Minimum Recommended Armour Tier:__ 70\n• __Minimum Recommended Weapon Tier:__ 80\n• __Recommended Prayer:__ [Deflect Magic](https://runescape.wikia.com/wiki/Deflect_Magic) or [Soulsplit](https://runescape.wikia.com/wiki/Soul_Split)"
                     },
                     {
                         "name": "Auto-attack:",
@@ -1560,8 +1560,12 @@ exports.data = {
             },
             "fields": [
                 {
-                    "name": "This guide has the sole purpose if having you complete your first killcount for The Sanctum Guardian",
+                    "name": "This guide has the sole purpose if having you complete your first killcount for The Sanctum Guardian.",
                     "value": "• The full written strategy guide may be found [here](http://runescape.wikia.com/wiki/Temple_of_Aminishi/Strategies).\n• A full video guide: [The Sanctum Guardian Solo Strategy Guide | iTrolledU - YouTube](https://www.youtube.com/watch?v=oeJk3ZfEFYU)."
+                },
+                {
+                        "name": "Requirements and Recommendations:",
+                        "value": "• [Impressing the Locals](https://runescape.wikia.com/wiki/Impressing_the_Locals) Quest completion\n• __Recommended Attack Style:__ Magic\n• __Minimum Recommended Armour Tier:__ 70\n• __Minimum Recommended Weapon Tier:__ 80\n• __Recommended Prayer:__ [Deflect Missiles](https://runescape.wikia.com/wiki/Deflect_Missiles)"
                 },
                 {
                     "name": "Attack 1: Melee Attack",
@@ -1612,7 +1616,7 @@ exports.data = {
          },
          {  
             "name":"​Requirements and Recommendations:",
-            "value":"• 80 Ranged\n• 40 Zamorakian killcount or 20 if the player has unlocked the 50% killcount reduction perk, requiring 4,500 [Reputation](https://runescape.wikia.com/wiki/Reputation_(Heart_of_Gielinor)\n• __Recommended Attack Style:__ Melee\n• __Recommended Armour Tier:__ 70\n• __Recommended Weapon Tier:__ 70\n• __Recommended Prayer:__ [Protect from Melee](https://runescape.wikia.com/wiki/Protect_from_Melee) or [Soul Split](https://runescape.wikia.com/wiki/Soul_Split)"
+            "value":"• 80 Ranged\n• 40 Zamorakian killcount or 20 if the player has unlocked the 50% killcount reduction perk, requiring 4,500 [Reputation](https://runescape.wikia.com/wiki/Reputation_(Heart_of_Gielinor)\n• __Recommended Attack Style:__ Melee\n• __Minimum Recommended Armour Tier:__ 70\n• __Minimum Recommended Weapon Tier:__ 70\n• __Recommended Prayer:__ [Protect from Melee](https://runescape.wikia.com/wiki/Protect_from_Melee) or [Soul Split](https://runescape.wikia.com/wiki/Soul_Split)"
          },
          {  
             "name":"​Attack Pattern",
@@ -1634,7 +1638,7 @@ exports.data = {
    },
     "tztok-jad": {  
       "title":"TzTok-Jad",
-      "description":"[TzTok-Jad](https://runescape.wikia.com/wiki/TzTok-Jad) is the final and most powerful TzHaar creature in the [TzHaar Fight Cave](https://runescape.wikia.com/wiki/TzHaar_Fight_Cave), appearing at wave 63. Its name can be roughly translated to \"Obsidian fire elemental\".\n\n*This guide has the sole purpose if having you complete your first killcount for TzTok-Jad.*\n• The full written strategy guide can be found [here](https://runescape.wikia.com/wiki/TzHaar_Fight_Cave/Strategies#TzTok-Jad)\n• A full video guide: [Fight Caves Guide | Lildogdog RS - YouTube](https://www.youtube.com/watch?v=nMXqFm5VHv8)",
+      "description":"[TzTok-Jad](https://runescape.wikia.com/wiki/TzTok-Jad) is the final and most powerful TzHaar creature in the [TzHaar Fight Cave](https://runescape.wikia.com/wiki/TzHaar_Fight_Cave), appearing at wave 63. Its name can be roughly translated to \"Obsidian fire elemental\".",
       "url":"https://runescape.wikia.com/wiki/TzTok-Jad",
       "color":12269891,
       "footer":{  
@@ -1650,11 +1654,15 @@ exports.data = {
       },
       "fields":[  
          {  
-            "name":"​Requirements and Recommendations:",
-            "value":"• 40 Prayer\n• __Recommended Attack Style:__ Magic\n• __Recommended Armour Tier:__ 70\n• __Recommended Weapon Tier:__ 70\n• __Recommended Prayer:__ [Protect from Missiles](https://runescape.wikia.com/wiki/Protect_from_Missiles) and [Protect from Magic](https://runescape.wikia.com/wiki/Protect_from_Magic)"
+            "name":"This guide has the sole purpose if having you complete your first killcount for TzTok-Jad.",
+            "value":"• The full written strategy guide can be found [here](https://runescape.wikia.com/wiki/TzHaar_Fight_Cave/Strategies#TzTok-Jad)\n• A full video guide: [Fight Caves Guide | Lildogdog RS - YouTube](https://www.youtube.com/watch?v=nMXqFm5VHv8)"
          },
          {  
-            "name":"​Fighting TzTok-Jad",
+            "name":"Requirements and Recommendations:",
+            "value":"• 40 Prayer\n• __Recommended Attack Style:__ Magic\n• __Minimum Recommended Armour Tier:__ 70\n• __Minimum Recommended Weapon Tier:__ 70\n• __Recommended Prayer:__ [Protect from Missiles](https://runescape.wikia.com/wiki/Protect_from_Missiles) and [Protect from Magic](https://runescape.wikia.com/wiki/Protect_from_Magic)"
+         },
+         {  
+            "name":"Fighting TzTok-Jad",
             "value":"TzTok-Jad will spawn at wave 63 of the TzHaar Fight Cave, so you will have already fought 62 waves of monsters before reaching him.\n\nIt is advised to start wave 63 with your Protect from Ranged prayer active, as TzTok-Jad often starts the fight with a Ranged attack. Always keep a distance from TzTok-Jad to prevent any melee damage and make sure you're using the correct protection prayer. Having the wrong protection prayer active will hit you very high, up to a maximum of at least 8,000, and has a high chance of killing you in just 1 hit. If you do take a hit, don't panic, focus on his attacks and your protection prayers and slowly eat back up."
          },
          {  
@@ -1666,11 +1674,11 @@ exports.data = {
             "value":"TzTok-Jad will dip his head down and then rear up, standing up straight and will begin to breathe fire after about half a second. You can hear him inhale/growl loudly while rearing up before he actually attacks, so having sounds turned on may help to identify the attack. Ensure you enable Protect from Magic as soon as you see or hear this attack begin,"
          },
          {  
-            "name":"​Melee Attack:",
+            "name":"Melee Attack:",
             "value":"TzTok-Jad slashes the player with his right claw. This is the fastest of TzTok-Jads attacks, and no warning is given for it. Attempt to keep distance between yourself and TzTok-Jad to avoid this attack."
          },
          {  
-            "name":"​Healers:",
+            "name":"Healers:",
             "value":"When TzTok-Jad is down to half health, he will summon four [Yt-HurKots](https://runescape.wikia.com/wiki/Yt-HurKot) to heal him, effectively causing him to regenerate health endlessly until they are either killed, lured away from TzTok-Jad or trapped. They will respawn only if they healed TzTok-Jad back to full health and are then killed.\n\nAn easy way to deal with the Yt-HurKots is to attack them once in order to make them attack you, drawing them away from TzTok-Jad. Their melee attacks hit up to 250, so with decent Defence level and good equipment, they should not be extremely dangerous and can be ignored while left alive so no more will spawn."
          },
          {  
@@ -1691,12 +1699,12 @@ exports.data = {
             },
             "fields": [
                 {
-                    "name": "Recommendations and Requirements:",
-                    "value": "• Completion of [The Temple of Aminishi](https://runescape.wikia.com/wiki/Temple_of_Aminishi) in normal or story mode\n• __Recommended Attack Style:__ Mage\n• __Recommended Armor Tier:__ 70\n• __Recommended Weapon Tier:__ 80\n• __Recommended Prayer:__ [Deflect Magic](https://runescape.wikia.com/wiki/Deflect_Magic)"
-                },
-                {
                     "name": "This guide is for the sole purpose of helping you to complete your first kill.",
                     "value": "• The full written strategy guide may be found [here](http://runescape.wikia.com/wiki/Dragonkin_Laboratory/Strategies).\n• A full video guide: [Dragonkin Laboratory - Boss Guide | Taki Maki - YouTube](https://www.youtube.com/watch?v=TOgFlIblHq8)."
+                },
+                {
+                    "name": "Recommendations and Requirements:",
+                    "value": "• Completion of [The Temple of Aminishi](https://runescape.wikia.com/wiki/Temple_of_Aminishi) in normal or story mode\n• __Recommended Attack Style:__ Mage\n• __Minimum Recommended Armor Tier:__ 70\n• __Minimum Recommended Weapon Tier:__ 80\n• __Recommended Prayer:__ [Deflect Magic](https://runescape.wikia.com/wiki/Deflect_Magic)"
                 },
                 {
                     "name": "Attack 1: Spires",
@@ -1737,7 +1745,7 @@ exports.data = {
                 },
                 {
                     "name": "Recommendations and Requirements:",
-                    "value": "• 80 Attack\n• 40 Zarosian killcount or 20 if the player has unlocked the 50% killcount reduction perk, requiring 4,500 [Reputation](https://runescape.wikia.com/wiki/Reputation_(Heart_of_Gielinor)\n• __Recommended Attack Style:__ Mage or Melee\n• __Minimum Armor Tier:__ 70\n• __Minimum Weapon Tier:__ 80\n• __Recommended Prayer:__ [Protect from Melee](https://runescape.wikia.com/wiki/Protect_from_Melee) and [Protect from Missiles](https://runescape.wikia.com/wiki/Protect_from_Missiles) or [Soul Split](https://runescape.wikia.com/wiki/Soul_Split)"
+                    "value": "• 80 Attack\n• 40 Zarosian killcount or 20 if the player has unlocked the 50% killcount reduction perk, requiring 4,500 [Reputation](https://runescape.wikia.com/wiki/Reputation_(Heart_of_Gielinor)\n• __Recommended Attack Style:__ Mage or Melee\n• __Minimum Recommended Armor Tier:__ 70\n• __Minimum Recommended Weapon Tier:__ 80\n• __Recommended Prayer:__ [Protect from Melee](https://runescape.wikia.com/wiki/Protect_from_Melee) and [Protect from Missiles](https://runescape.wikia.com/wiki/Protect_from_Missiles) or [Soul Split](https://runescape.wikia.com/wiki/Soul_Split)"
                 },
                 {
                     "name": "Phase 1: Vindicta",
