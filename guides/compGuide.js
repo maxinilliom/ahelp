@@ -8317,25 +8317,24 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[The Book of Elei](http://runescape.wikia.com/wiki/The_Book_of_Elei) is an achievement that requires the player to obtain all 22 Acolyte's diary pages to complete Elei's Diary in the [Temple of Aminishi](http://runescape.wikia.com/wiki/Temple_of_Aminishi) in either normal or story mode. The notes can be found on the following places:\n\n• 7 pages are found in the first room of the Temple.\n• 4 pages are found in the second room of the Temple of which 1 is located on an upper corridor which can only be obtained by using the Telekinetic Grab spell in the normal spellbook.\n• 8 pages are found in the third room of the Temple of which 1 is located below a staircase which can only be obtained by using the Telekinetic Grab spell in the normal spellbook.\n• 3 pages are found in the fourth room of the Temple.\n\nAll notes are shown as red dots on the minimap.",
-			"thumbnail": {
-				"url": "https://i.imgur.com/Shmagnp.png"
-			},
-			"fields": [
-				{
-					"name": "Requirements:",
-					"value": "• Impressing the Locals Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Impressing_the_Locals)"
-				},
-				{
-        			"name": "Guide:",
-        			"value": "[A map showing all notes locations | Runescape Wiki](https://vignette.wikia.nocookie.net/runescape2/images/d/d6/Temple_of_Aminishi_map.png/revision/latest?cb=20180701160746)"
-      			}
-			],
-			"footer": {
-				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-				"text": "Runescore awarded: 20"
-			}
-		}
+    		"description": "[The Book of Elei](https://runescape.wikia.com/wiki/The_Book_of_Elei) is an achievement that requires the player to obtain all 22 [acolyte's diary pages](https://runescape.wikia.com/wiki/Acolyte%27s_diary_page) to complete [Elei's Diary](https://runescape.wikia.com/wiki/Elei%27s_Diary) in the [Temple of Aminishi](https://runescape.wikia.com/wiki/Temple_of_Aminishi) in either normal or story mode.\n\n• 7 pages are found in the first room of the Temple.\n• 4 pages are found in the second room of the Temple of which 1 is located on an upper corridor which can only be obtained by using the [Telekinetic Grab](https://runescape.wikia.com/wiki/Telekinetic_Grab) spell in the [standard spellbook](https://runescape.wikia.com/wiki/Standard_spells).\n• 8 pages are found in the third room of the Temple of which 1 is located below a staircase which can only be obtained by using the Telekinetic Grab spell in the normal spellbook.\n• 3 pages are found in the fourth room of the Temple.\n\nOne page in the third room is currently bugged so it does not appear in the NXT client all the time, but it does always appear in Java. The room is in the square-shaped room that sometimes holds the [Horrific Crassian](https://runescape.wikia.com/wiki/Horrific_crassian) miniboss. The room has a passageway leading to it from all four walls, and artwork depicting a green and a blue dragon. It *can* be obtained using NXT by enabling area loot and dropping something else to pick up nearby the spawn location. Alternatively, players can also go to the fourth room and back to the third room to make the page appear on the minimap and floor.",
+    		"thumbnail": {
+      		"url": "https://i.imgur.com/Shmagnp.png"
+    		},
+    		"fields": [{
+        		"name": "Requirements:",
+        		"value": "• 33 Magic\n• Impressing the Locals Quest completion | [Runescape Wiki](https://runescape.wikia.com/wiki/Impressing_the_Locals)"
+      		},
+      		{
+        		"name": "Guide:",
+        		"value": "[A map showing all notes locations | Runescape Wiki](https://vignette.wikia.nocookie.net/runescape2/images/d/d6/Temple_of_Aminishi_map.png/revision/latest?cb=20180701160746)"
+      		}
+    		],
+    			"footer": {
+      			"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+      			"text": "Runescore awarded: 20"
+    		}
+  		}
 	},
 	"the history of slayer": {
 		"cmds": ["mqc"],
