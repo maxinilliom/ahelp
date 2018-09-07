@@ -26,8 +26,8 @@ exports.run = async (client, message, args, level) => {
       const guide = data[keyList[o]];
       if (guide.author) guide.author.name = name;
       guide.color = color;
-      guide.footer = footer;
-      guide.timestamp = new Date();
+      if (guide.footer) guide.footer = footer;
+      if (guide.timestamp) guide.timestamp = new Date();
       try {
 				message.channel.send("", {embed: guide});
 			} catch (err) {

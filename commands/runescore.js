@@ -43,7 +43,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 			const [cat, sub, ach] = keyList[o].split(" - ");
 			if (category && cat !== category) return;
 			const guide = data[keyList[o]];
-			guide.author.name = name;
+			if (guide.author.name) guide.author.name = name;
 			guide.color = color;
 			guide.timestamp = new Date();
 			try {
