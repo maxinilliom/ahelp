@@ -1788,7 +1788,7 @@ exports.data = {
       },
       {
         "name": "Requirements:",
-        "value": "• Players must have defeated Beastmaster Durzag in their most recent lockout period\n• Players must have completed the Raids puzzle in their most recent lockout period"
+        "value": "• Players must have defeated [Beastmaster Durzag](https://runescape.wikia.com/wiki/Beastmaster_Durzag) in their most recent lockout period\n• Players must have completed the [Mazcab Canal Puzzle](https://runescape.wikia.com/wiki/Yakamaru/Strategies#Canals_Puzzle) in their most recent lockout period"
       },
       {
         "name": "Guide:",
@@ -8476,14 +8476,15 @@ exports.data = {
     "thumbnail": {
       "url": "https://i.imgur.com/Shmagnp.png"
     },
-    "fields": [{
+    "fields": [
+        {
+        "name": "​",
+        "value": "A common and efficient method to reduce the damage taken from this attack is to use [Devotion](https://runescape.wikia.com/wiki/Devotion) while praying against his mage attacks and use [Resonance](https://runescape.wikia.com/wiki/Resonance) when the bar is 80% filled, as players will negate all damage against themselves.\n\nDo keep in mind that aside from his normal magic attacks, Verak sometimes uses melee attacks, therefore it is recommended that the player keeps their lifepoints above 9,000, as these attacks may hit the players Resonance if you do not use Devotion first, causing the energy attack to hit the player."
+        },
+        {
         "name": "Requirements:",
-        "value": "• Completed the [Temple of Aminishi](https://runescape.wikia.com/wiki/Temple_of_Aminishi) elite dungeon once"
-      },
-      {
-        "name": "Tips:",
-        "value": "A common and efficient method to reduce the damage taken from this attack is to use [Devotion](https://runescape.wikia.com/wiki/Devotion) while praying against his mage attacks and use [Resonance](https://runescape.wikia.com/wiki/Resonance) when the bar is 80% filled, as players will heal themselves for all the damage the energy would have caused.\n\nDo keep in mind that aside from his normal magic attacks, Verak sometimes uses melee attacks, therefore it is recommended that the player keeps their lifepoints above 9,000, as these attacks may hit the players Resonance causing the energy attack to hit the player."
-      }
+        "value": "• Completed the [Temple of Aminishi](https://runescape.wikia.com/wiki/Temple_of_Aminishi) Elite Dungeon once in either normal or story mode."
+        }
     ],
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
@@ -8500,14 +8501,15 @@ exports.data = {
     "thumbnail": {
       "url": "https://i.imgur.com/Shmagnp.png"
     },
-    "fields": [{
-        "name": "Requirements:",
-        "value": "• 81 Magic\n\n• Completed the [Temple of Aminishi](https://runescape.wikia.com/wiki/Temple_of_Aminishi) elite dungeon once"
+    "fields": [
+      {
+        "name": "​",
+        "value": "It is recommended to wait with using Tsunami until there is more than enough magma golems in range, as the magma golems move very slow and could therefore not be in range of the Tsunami attack. This can easily be accomplished by [surging](https://runescape.wikia.com/wiki/Abilities) to the opposite corner of the bridge and waiting for them to gather.\n\nIt is wise to utilize the [deflect melee](https://runescape.wikia.com/wiki/Deflect_Melee) prayer while completing this achievement as the golems can be heavy hitting in mass."
       },
       {
-        "name": "Tips:",
-        "value": "It is recommended to wait with using Tsunami until there is more than enough magma golems in range, as the magma golems move very slow and could therefore not be in range of the Tsunami attack. This can easily be accomplished by surging to the opposite corner of the bridge and waiting for them to gather."
-      }
+        "name": "Requirements:",
+        "value": "• 81 Magic\n\n• Completed the [Temple of Aminishi](https://runescape.wikia.com/wiki/Temple_of_Aminishi) Elite Dungeon once in either normal or story mode."
+      }     
     ],
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
@@ -8558,13 +8560,13 @@ exports.data = {
       "name": "RuneScore Achievement Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Dragon Ink](https://runescape.wikia.com/wiki/Dragon_Ink) is an achievement that requires the player to obtain the lore books [Diary of an Overzealous Gnome](https://runescape.wikia.com/wiki/Diary_of_an_Overzealous_Gnome) and [Redacted Dragonkin Research](https://runescape.wikia.com/wiki/Redacted_Dragonkin_Research) from bosses in the [Dragonkin Laboratory](https://runescape.wikia.com/wiki/Dragonkin_Laboratory).\n\nThe Diary of an Overzealous Gnome is a lore book obtained by defeating [Astellarn](https://runescape.wikia.com/wiki/Astellarn) and the Redacted Dragonkin Research is a lore book obtained by defeating [Verak Lith](https://runescape.wikia.com/wiki/Verak_Lith). Both can be obtained in either normal or story mode, however the drop rate is higher in story mode.\n\nThe lorebooks drop at a 1/10 drop rate. Every normal mode or solo kill of the boss increases that chance by 1%. Wearing the [Dungeoneering cape (t)](https://runescape.wikia.com/wiki/Dungeoneering_cape_(t) will increase the chance of receiving lore drops within all Elite Dungeons.",
+    "description": "[Dragon Ink](https://runescape.wikia.com/wiki/Dragon_Ink) is an achievement that requires the player to obtain the lore books [Diary of an Overzealous Gnome](https://runescape.wikia.com/wiki/Diary_of_an_Overzealous_Gnome) and [Redacted Dragonkin Research](https://runescape.wikia.com/wiki/Redacted_Dragonkin_Research) from bosses in the [Dragonkin Laboratory](https://runescape.wikia.com/wiki/Dragonkin_Laboratory).\n\nThe Diary of an Overzealous Gnome is a lore book obtained by defeating [Astellarn](https://runescape.wikia.com/wiki/Astellarn) and the Redacted Dragonkin Research is a lore book obtained by defeating [Verak Lith](https://runescape.wikia.com/wiki/Verak_Lith). Both can be obtained in either normal or story mode, however the drop rate is higher in story mode.\n\nThe lorebooks drop at a 1/10 drop rate. Every normal mode or solo kill of the boss increases that chance by 1%. Wearing the [Dungeoneering master cape](https://runescape.wikia.com/wiki/Dungeoneering_master_cape) will increase the chance of receiving lore drops within all Elite Dungeons.",
     "thumbnail": {
       "url": "https://i.imgur.com/Shmagnp.png"
     },
     "fields": [{
       "name": "Requirements:",
-      "value": "• Completed the [Temple of Aminishi](https://runescape.wikia.com/wiki/Temple_of_Aminishi) elite dungeon once"
+      "value": "• Completed the [Temple of Aminishi](https://runescape.wikia.com/wiki/Temple_of_Aminishi) Elite Dungeon once in either normal or story mode."
     }],
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
@@ -8581,13 +8583,14 @@ exports.data = {
     "thumbnail": {
       "url": "https://i.imgur.com/Shmagnp.png"
     },
-    "fields": [{
-        "name": "Requirements:",
-        "value": "• Completed the [Temple of Aminishi](https://runescape.wikia.com/wiki/Temple_of_Aminishi) elite dungeon once"
+    "fields": [
+      {
+        "name": "​",
+        "value": "To make sure the attack is dispersed into the eggs the player will have to keep track of which color smoke falls down on the indicated spot. There is a poison (green) smoke, an ice (blue) smoke, and a shock (blue) smoke.\n\nTo disperse the energy the player has to run to one of the other 2 eggs that are different from the type of smoke that fell down. Therefore, it is recommended only to pay attention to the color of the smoke, if its green smoke (poison): the player simply has to run to 1 of the blue eggs and inspect them. If the player has a blue smoke (ice or shock): the player simply has to run to the green eggs and inspect them as well. This will take away the confusion of which type of smoke it was.\n\nIf that player misjudges which element they caught, simply [surge](https://runescape.wikia.com/wiki/Surge) or [bladed dive](https://runescape.wikia.com/wiki/Bladed_Dive) to the next closest egg."
       },
       {
-        "name": "Guide:",
-        "value": "To make sure the attack is dispersed into the eggs the player will have to keep track of which color smoke falls down on the indicated spot. There is a poison (green) smoke, an ice (blue) smoke, and a shock (blue) smoke.\n\nTo disperse the energy the player has to run to one of the other 2 eggs that are different from the type of smoke that fell down. Therefore, it is recommended only to pay attention to the color of the smoke, if its green smoke (poison): the player simply has to run to 1 of the blue eggs and inspect them. If the player has a blue smoke (ice or shock): the player simply has to run to the green eggs and inspect them as well. This will take away the confusion of which type of smoke it was."
+        "name": "Requirements:",
+        "value": "• Completed the [Temple of Aminishi](https://runescape.wikia.com/wiki/Temple_of_Aminishi) Elite Dungeon once in either normal or story mode."
       }
     ],
     "footer": {
@@ -8601,16 +8604,16 @@ exports.data = {
       "name": "RuneScore Achievement Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Dragonkin Laboratory](https://runescape.wikia.com/wiki/Dragonkin_Laboratory_(achievement%29) is an achievement that requires the player to complete all of the achievements regarding the [Dragonkin Laboratory](https://runescape.wikia.com/wiki/Dragonkin_Laboratory):\n\n• [Elite Dungeons and Dragons](https://runescape.wikia.com/wiki/Elite_Dungeons_and_Dragons)\n• [Dragon Ink](https://runescape.wikia.com/wiki/Dragon_Ink)\n• [Tactless Analysis](https://runescape.wikia.com/wiki/Tactless_Analysis)\n• [We Will Fight in the Shade](https://runescape.wikia.com/wiki/We_Will_Fight_in_the_Shade)\n• [A Quest for Understanding](https://runescape.wikia.com/wiki/A_Quest_for_Understanding)\n• [Broodmother](https://runescape.wikia.com/wiki/Broodmother)\n• [Dragonhide Infanticide](https://runescape.wikia.com/wiki/Dragonhide_Infanticide)\n• [Get Back, Hand!](https://runescape.wikia.com/wiki/Get_Back,_Hand!)\n• [Shadow Wave](https://runescape.wikia.com/wiki/Shadow_Wave)\n• [Not a Moth](https://runescape.wikia.com/wiki/Not_a_Moth)\n• [Four in Hand](https://runescape.wikia.com/wiki/Four_in_Hand)\n• [Goopy Bloop Boop](https://runescape.wikia.com/wiki/Goopy_Bloop_Boop)\n• [You Won't Like Me When I'm Sangri](https://runescape.wikia.com/wiki/You_Won%27t_Like_Me_When_I%27m_Sangri)\n• [Smoulders and Skully](https://runescape.wikia.com/wiki/Smoulders_and_Skully)\n• [Psychedelic Relics](https://runescape.wikia.com/wiki/Psychedelic_Relics)\n• [Chill Out, Bro!](https://runescape.wikia.com/wiki/Chill_Out,_Bro!)\n• [Spiderlogical Warfare](https://runescape.wikia.com/wiki/Spiderlogical_Warfare)\n• [Elder Souls](https://runescape.wikia.com/wiki/Elder_Souls)\n• [Ebony and Irony](https://runescape.wikia.com/wiki/Ebony_and_Irony)",
+    "description": "[Dragonkin Laboratory](https://runescape.wikia.com/wiki/Dragonkin_Laboratory_(achievement%29) is an achievement that requires the player to complete all of the achievements regarding the [Dragonkin Laboratory](https://runescape.wikia.com/wiki/Dragonkin_Laboratory). The achievements are:\n\n• [Elite Dungeons and Dragons](https://runescape.wikia.com/wiki/Elite_Dungeons_and_Dragons)\n• [Dragon Ink](https://runescape.wikia.com/wiki/Dragon_Ink)\n• [Tactless Analysis](https://runescape.wikia.com/wiki/Tactless_Analysis)\n• [We Will Fight in the Shade](https://runescape.wikia.com/wiki/We_Will_Fight_in_the_Shade)\n• [A Quest for Understanding](https://runescape.wikia.com/wiki/A_Quest_for_Understanding)\n• [Broodmother](https://runescape.wikia.com/wiki/Broodmother)\n• [Dragonhide Infanticide](https://runescape.wikia.com/wiki/Dragonhide_Infanticide)\n• [Get Back, Hand!](https://runescape.wikia.com/wiki/Get_Back,_Hand!)\n• [Shadow Wave](https://runescape.wikia.com/wiki/Shadow_Wave)\n• [Not a Moth](https://runescape.wikia.com/wiki/Not_a_Moth)\n• [Four in Hand](https://runescape.wikia.com/wiki/Four_in_Hand)\n• [Goopy Bloop Boop](https://runescape.wikia.com/wiki/Goopy_Bloop_Boop)\n• [You Won't Like Me When I'm Sangri](https://runescape.wikia.com/wiki/You_Won%27t_Like_Me_When_I%27m_Sangri)\n• [Smoulders and Skully](https://runescape.wikia.com/wiki/Smoulders_and_Skully)\n• [Psychedelic Relics](https://runescape.wikia.com/wiki/Psychedelic_Relics)\n• [Chill Out, Bro!](https://runescape.wikia.com/wiki/Chill_Out,_Bro!)\n• [Spiderlogical Warfare](https://runescape.wikia.com/wiki/Spiderlogical_Warfare)\n• [Elder Souls](https://runescape.wikia.com/wiki/Elder_Souls)\n• [Ebony and Irony](https://runescape.wikia.com/wiki/Ebony_and_Irony)",
     "thumbnail": {
       "url": "https://i.imgur.com/Shmagnp.png"
     },
     "fields": [{
         "name": "Requirements:",
-        "value": "• 15 Attack\n• 42 Strength\n• 10 Magic **or** 10 Ranged\n• 81 Magic\n• 60 Defence\n• 87 Prayer\n\n• Completed the [Temple of Aminishi](https://runescape.wikia.com/wiki/Temple_of_Aminishi) elite dungeon once\n• Invention Tutorial completion | [Runescape Wiki](https://runescape.wikia.com/wiki/Invention_Tutorial)\n• The Light Within Quest completion | [Runescape Wiki](https://runescape.wikia.com/wiki/The_Light_Within)\n• Abyss Miniquest completion | [Runescape Wiki](https://runescape.wikia.com/wiki/Abyss_(miniquest%29)"
+        "value": "• 15 Attack\n• 42 Strength\n• 81 Magic\n• 60 Defence\n• 87 Prayer\n\n• Completed the [Temple of Aminishi](https://runescape.wikia.com/wiki/Temple_of_Aminishi) Elite Dungeon once in either normal or story mode.\n\n• Invention Tutorial completion | [Runescape Wiki](https://runescape.wikia.com/wiki/Invention_Tutorial)\n\n• The Light Within Quest completion | [Runescape Wiki](https://runescape.wikia.com/wiki/The_Light_Within)\n• Abyss Miniquest completion | [Runescape Wiki](https://runescape.wikia.com/wiki/Abyss_(miniquest%29)"
       },
       {
-        "name": "Tips:",
+        "name": "Guide:",
         "value": "Each individual achievement can also be viewed by using the **.rs combat elite dungeons [corresponding achievement name]** command."
       }
     ],
@@ -8629,14 +8632,15 @@ exports.data = {
     "thumbnail": {
       "url": "https://i.imgur.com/Shmagnp.png"
     },
-    "fields": [{
-        "name": "Requirements:",
-        "value": "• 60 Defence\n\n• Completed the [Temple of Aminishi](https://runescape.wikia.com/wiki/Temple_of_Aminishi) elite dungeon once"
+    "fields": [
+      {
+        "name": "​",
+        "value": "Alanogard the Black can be found at the top of the Southern mountain, right before the [Verak Lith](https://runescape.wikia.com/wiki/Verak_Lith) boss room."
       },
       {
-        "name": "Tips:",
-        "value": "Alanogard the Black can be found at the top of the Southern mountain, right before the [Verak Lith](https://runescape.wikia.com/wiki/Verak_Lith) boss room."
-      }
+        "name": "Requirements:",
+        "value": "• 60 Defence\n\n• Completed the [Temple of Aminishi](https://runescape.wikia.com/wiki/Temple_of_Aminishi) Elite Dungeon once in either normal or story mode."
+      }      
     ],
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
@@ -8653,14 +8657,15 @@ exports.data = {
     "thumbnail": {
       "url": "https://i.imgur.com/Shmagnp.png"
     },
-    "fields": [{
-        "name": "Requirements:",
-        "value": "• 87 Prayer\n\n• Completed the [Temple of Aminishi](https://runescape.wikia.com/wiki/Temple_of_Aminishi) elite dungeon once\n• The Light Within Quest completion | [Runescape Wiki](https://runescape.wikia.com/wiki/The_Light_Within)"
+    "fields": [
+      {
+        "name": "​",
+        "value": "The Emberbound Soul can be found on the east side of the wide-open area right before the player goes up the mountain in the south, north east of the [black dragons](https://runescape.wikia.com/wiki/Black_dragon_(Dragonkin_Laboratory%29).\n\nTo complete this achievement the player will need to have their [Ancient Curses](https://runescape.wikia.com/wiki/Ancient_Curses) active."
       },
       {
-        "name": "Tips:",
-        "value": "The Emberbound Soul can be found on the east side of the wide-open area right before the player goes up the mountain in the south, north east of the [black dragons](https://runescape.wikia.com/wiki/Black_dragon_(Dragonkin_Laboratory%29).\n\nTo complete this achievement the player will need to have their [Ancient Curses](https://runescape.wikia.com/wiki/Ancient_Curses) active."
-      }
+        "name": "Requirements:",
+        "value": "• 87 Prayer\n\n• Completed the [Temple of Aminishi](https://runescape.wikia.com/wiki/Temple_of_Aminishi) Elite Dungeon once in either normal or story mode.\n\n• The Light Within Quest completion | [Runescape Wiki](https://runescape.wikia.com/wiki/The_Light_Within)"
+      }      
     ],
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
@@ -8673,7 +8678,7 @@ exports.data = {
       "name": "RuneScore Achievement Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Elite Dungeons and Dragons](https://runescape.wikia.com/wiki/Elite_Dungeons_and_Dragons) is an achievement that requires the player to defeat all 13 minibosses inside the [Dragonkin Laboratory](https://runescape.wikia.com/wiki/Dragonkin_Laboratory). This is one of the few achievements which can be completed in Story Mode as well as Normal Mode.\n\nNot every miniboss will not spawn on every run. They can be identified with a red skull icon in the minimap. A maximum of four minibosses will spawn per run.",
+    "description": "[Elite Dungeons and Dragons](https://runescape.wikia.com/wiki/Elite_Dungeons_and_Dragons) is an achievement that requires the player to defeat all 13 minibosses inside the [Dragonkin Laboratory](https://runescape.wikia.com/wiki/Dragonkin_Laboratory). This is one of the few achievements which can be completed in Story Mode as well as Normal Mode.\n\nNot every miniboss will spawn on every run. They can be identified with a red skull icon in the minimap. A maximum of four minibosses will spawn per run.",
     "thumbnail": {
       "url": "https://i.imgur.com/Shmagnp.png"
     },
@@ -8731,7 +8736,7 @@ exports.data = {
       },
       {
         "name": "Requirements:",
-        "value": "• Completed the [Temple of Aminishi](https://runescape.wikia.com/wiki/Temple_of_Aminishi) elite dungeon once"
+        "value": "• Completed the [Temple of Aminishi](https://runescape.wikia.com/wiki/Temple_of_Aminishi) Elite Dungeon once in either normal or story mode."
       },
       {
         "name": "Guide:",
@@ -8768,17 +8773,13 @@ exports.data = {
       "name": "RuneScore Achievement Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Four in Hand](https://runescape.wikia.com/wiki/Four_in_Hand) is an achievement that requires the player to defeat all 4 [black hands](https://runescape.wikia.com/wiki/Black_hand), within 10 seconds after defeating the first, during the [Black Stone Dragon](https://runescape.wikia.com/wiki/Black_stone_dragon) fight in the [Dragonkin Laboratory](https://runescape.wikia.com/wiki/Dragonkin_Laboratory).",
+    "description": "[Four in Hand](https://runescape.wikia.com/wiki/Four_in_Hand) is an achievement that requires the player to defeat all 4 [black hands](https://runescape.wikia.com/wiki/Black_hand), within 10 seconds after defeating the first, during the [Black Stone Dragon](https://runescape.wikia.com/wiki/Black_stone_dragon) fight in the [Dragonkin Laboratory](https://runescape.wikia.com/wiki/Dragonkin_Laboratory).\n\nAs the black hands have a very high defence, it is recommended to leave all of them at 4,000 health before killing them off with a [sunshine]() ability, followed by a [super adreneline potion](https://runescape.wikia.com/wiki/Super_adrenaline_potion) and threshold [abilities](https://runescape.wikia.com/wiki/Abilities).",
     "thumbnail": {
       "url": "https://i.imgur.com/Shmagnp.png"
     },
     "fields": [{
         "name": "Requirements:",
-        "value": "• Completed the [Temple of Aminishi](https://runescape.wikia.com/wiki/Temple_of_Aminishi) elite dungeon once"
-      },
-      {
-        "name": "Tips:",
-        "value": "As the black hands have a very high defence, it is recommended to leave all of them at 4,000 health before killing them off."
+        "value": "• Completed the [Temple of Aminishi](https://runescape.wikia.com/wiki/Temple_of_Aminishi) Elite Dungeon once in either normal or story mode."
       }
     ],
     "footer": {
@@ -8792,17 +8793,13 @@ exports.data = {
       "name": "RuneScore Achievement Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Get Back, Hand!](https://runescape.wikia.com/wiki/Get_Back,_Hand!) is an achievement that requires the player to use [Forceful Backhand](https://runescape.wikia.com/wiki/Forceful_Backhand) against a [black hand](https://runescape.wikia.com/wiki/Black_hand) during the [black stone dragon](https://runescape.wikia.com/wiki/Black_stone_dragon) fight in the [Dragonkin Laboratory](https://runescape.wikia.com/wiki/Dragonkin_Laboratory). Forceful Backhand must successfully damage the black hand to complete the achievement.",
+    "description": "[Get Back, Hand!](https://runescape.wikia.com/wiki/Get_Back,_Hand!) is an achievement that requires the player to use [Forceful Backhand](https://runescape.wikia.com/wiki/Forceful_Backhand) against a [black hand](https://runescape.wikia.com/wiki/Black_hand) during the [black stone dragon](https://runescape.wikia.com/wiki/Black_stone_dragon) fight in the [Dragonkin Laboratory](https://runescape.wikia.com/wiki/Dragonkin_Laboratory). Forceful Backhand must successfully damage the black hand to complete the achievement.\n\nIt is recommended to attempt using Forceful Backhand shortly after the black hands hit the player with a magic attack. Right after the player gets hit, the black hands will spawn smaller black crawling hands that slowly move towards the place the player was standing on. They can easily be dodged by stepping away.\n\nAfter dodging the black crawling hands, the player can switch to a melee gear setup and attempt hitting the black hands to complete the achievement.",
     "thumbnail": {
       "url": "https://i.imgur.com/Shmagnp.png"
     },
     "fields": [{
         "name": "Requirements:",
-        "value": "• 15 Attack\n\n• Completed the [Temple of Aminishi](https://runescape.wikia.com/wiki/Temple_of_Aminishi) elite dungeon once"
-      },
-      {
-        "name": "Tips:",
-        "value": "It is recommended to attempt using Forceful Backhand shortly after the black hands hit the player with a magic attack. Right after the player gets hit, the black hands will spawn smaller black crawling hands that slowly move towards the place the player was standing on. They can easily be dodged by stepping away.\n\nAfter dodging the black crawling hands, the player can switch to a melee gear setup and attempt hitting the black hands."
+        "value": "• 15 Attack\n\n• Completed the [Temple of Aminishi](https://runescape.wikia.com/wiki/Temple_of_Aminishi) Elite Dungeon once in either normal or story mode."
       }
     ],
     "footer": {
@@ -8822,7 +8819,7 @@ exports.data = {
     },
     "fields": [{
       "name": "Requirements:",
-      "value": "• 3 Strength **or** 10 Magic **or** 10 Ranged\n\n• Completed the [Temple of Aminishi](https://runescape.wikia.com/wiki/Temple_of_Aminishi) elite dungeon once"
+      "value": "• 3 Strength **or** 10 Magic **or** 10 Ranged\n\n• Completed the [Temple of Aminishi](https://runescape.wikia.com/wiki/Temple_of_Aminishi) Elite Dungeon once in either normal or story mode."
     }],
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
@@ -8892,17 +8889,13 @@ exports.data = {
       "name": "RuneScore Achievement Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Not a Moth](https://runescape.wikia.com/wiki/Not_a_Moth) is an achievement that requires the player to defeat the [Black Stone Dragon](https://runescape.wikia.com/wiki/Black_Stone_Dragon) in the [Dragonkin Laboratory](https://runescape.wikia.com/wiki/Dragonkin_Laboratory) without taking damage from any shadow flames.\n\nThe 'shadow flames' is referring to her dragonfire spiral and flying rampage attacks. The dragonfire spiral attack is first used after the four [black hands](https://runescape.wikia.com/wiki/Black_hand) are defeated, and the flying rampage attack is performed when she reaches 260,000 or lower health.",
+    "description": "[Not a Moth](https://runescape.wikia.com/wiki/Not_a_Moth) is an achievement that requires the player to defeat the [Black Stone Dragon](https://runescape.wikia.com/wiki/Black_Stone_Dragon) in the [Dragonkin Laboratory](https://runescape.wikia.com/wiki/Dragonkin_Laboratory) without taking damage from any shadow flames.\n\nThe 'shadow flames' is referring to her dragonfire spiral and flying rampage attacks. The dragonfire spiral attack is first used after the four [black hands](https://runescape.wikia.com/wiki/Black_hand) are defeated, and when the flying rampage attack is performed when she reaches 260,000 or lower health.\n\nTo avoid the shadow flames during her dragonfire spiral attack, it is recommended to start off by standing close to the Black Stone Dragon. This will allow the player to move out of the spiral once it becomes smaller while still attacking the boss.\n\nTo avoid the shadow flames during her flying rampage attack, it is recommended to stand somewhere in the smallest area of the boss arena in the north, as most of her landing zones are in the larger section where no players will be in range.\n\nAlternatively, players can run around the arena until the phase passes, utilizing [surge](https://runescape.wikia.com/wiki/Surge) and [bladed dive](https://runescape.wikia.com/wiki/Bladed_Dive) when the fire gets too near to the player. Be sure to not surge or bladed dive into another line of fire, however.",
     "thumbnail": {
       "url": "https://i.imgur.com/Shmagnp.png"
     },
     "fields": [{
         "name": "Requirements:",
-        "value": "• Completed the [Temple of Aminishi](https://runescape.wikia.com/wiki/Temple_of_Aminishi) elite dungeon once"
-      },
-      {
-        "name": "Tips:",
-        "value": "To avoid the shadow flames during her dragonfire spiral attack, it is recommended to start off by standing close to the Black Stone Dragon. This will allow the player to move out of the spiral once it becomes smaller while still attacking the boss.\n\nTo avoid the shadow flames during her flying rampage attack, it is recommended to stand somewhere in the smallest area of the boss arena in the north, as most of her landing zones are in the larger section where no players will be in range."
+        "value": "• Completed the [Temple of Aminishi](https://runescape.wikia.com/wiki/Temple_of_Aminishi) Elite Dungeon once in either normal or story mode."
       }
     ],
     "footer": {
@@ -8954,17 +8947,13 @@ exports.data = {
       "name": "RuneScore Achievement Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Psychedelic Relics](https://runescape.wikia.com/wiki/Psychedelic_Relics) is an achievement that requires the player to disassemble a combination of 5 [rare laboratory relics](https://runescape.wikia.com/wiki/Laboratory_relic_(rare%29) or [rare relics of Aminishi](https://runescape.wikia.com/wiki/Relic_of_aminishi_(rare%29).",
+    "description": "[Psychedelic Relics](https://runescape.wikia.com/wiki/Psychedelic_Relics) is an achievement that requires the player to disassemble a combination of 5 [rare laboratory relics](https://runescape.wikia.com/wiki/Laboratory_relic_(rare%29) or [rare relics of Aminishi](https://runescape.wikia.com/wiki/Relic_of_aminishi_(rare%29).\n\nThere is a bug when disassembling noted relics, as they will not count towards the achievement. Therefore, it is currently required not to note them.\n\nIt is highly recommended that the player fills up their loot chest with 32 items without having the rare relics in the chest. This way, the player has a chance of obtaining 2 rare relics when recieving a rare relic drop.",
     "thumbnail": {
       "url": "https://i.imgur.com/Shmagnp.png"
     },
     "fields": [{
         "name": "Requirements:",
         "value": "• Invention Tutorial completion | [Runescape Wiki](https://runescape.wikia.com/wiki/Invention_Tutorial)"
-      },
-      {
-        "name": "Tips:",
-        "value": "There appears to be a bug when disassembling noted relics, as they will not count towards the achievement. Therefore, it is recommended not to note them.\n\nIt is highly recommended that the player fills up their loot chest with 32 items without having the rare relics in the chest. This way, the player has a chance of obtaining 2 rare relics when recieving a rare relic drop."
       }
     ],
     "footer": {
@@ -8978,17 +8967,13 @@ exports.data = {
       "name": "RuneScore Achievement Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Shadow Wave](https://runescape.wikia.com/wiki/Shadow_Wave) is an achievement that requires the player to use the [Wave](https://runescape.wikia.com/wiki/Wave) emote towards a [black hand](https://runescape.wikia.com/wiki/Black_hand) during the [Black Stone Dragon](https://runescape.wikia.com/wiki/Black_stone_dragon) fight in the [Dragonkin Laboratory](https://runescape.wikia.com/wiki/Dragonkin_Laboratory).\n\nThe player must perform the emote after a black hand is killed, and before the purple energy it emits dissipates for good.",
+    "description": "[Shadow Wave](https://runescape.wikia.com/wiki/Shadow_Wave) is an achievement that requires the player to use the [Wave](https://runescape.wikia.com/wiki/Wave) emote towards a [black hand](https://runescape.wikia.com/wiki/Black_hand) during the [Black Stone Dragon](https://runescape.wikia.com/wiki/Black_stone_dragon) fight in the [Dragonkin Laboratory](https://runescape.wikia.com/wiki/Dragonkin_Laboratory).\n\nThe player must perform the emote after a black hand is killed, and before the purple energy it emits dissipates for good.\n\nIt is recommended to avoid getting attacked by more than one of the black hands during the fight, as this will allow the player to get out of combat to use the emote in time.\n\nAttempting to use the emote on the last black hand might not give the player enough time to get out of combat, due to the fact that the Black Stone Dragon will start attacking the player again.",
     "thumbnail": {
       "url": "https://i.imgur.com/Shmagnp.png"
     },
     "fields": [{
         "name": "Requirements:",
-        "value": "• Completed the [Temple of Aminishi](https://runescape.wikia.com/wiki/Temple_of_Aminishi) elite dungeon once"
-      },
-      {
-        "name": "Tips:",
-        "value": "It is recommended to avoid getting attacked by more than one of the black hands during the fight, as this will allow the player to get out of combat to use the emote in time.\n\nAttempting to use the emote on the last black hand might not give the player enough time to get out of combat due to the fact that the Black Stone Dragon will start attacking the player again."
+        "value": "• Completed the [Temple of Aminishi](https://runescape.wikia.com/wiki/Temple_of_Aminishi) Elite Dungeon once in either normal or story mode."
       }
     ],
     "footer": {
@@ -9002,17 +8987,13 @@ exports.data = {
       "name": "RuneScore Achievement Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Smoulders and Skully](https://runescape.wikia.com/wiki/Smoulders_and_Skully) is an achievement that requires the player to kill the [Smoulders](https://runescape.wikia.com/wiki/Smoulders) miniboss in the [Dragonkin Laboratory](https://runescape.wikia.com/wiki/Dragonkin_Laboratory) while wearing a [demonic skull](https://runescape.wikia.com/wiki/Demonic_skull).",
+    "description": "[Smoulders and Skully](https://runescape.wikia.com/wiki/Smoulders_and_Skully) is an achievement that requires the player to kill the [Smoulders](https://runescape.wikia.com/wiki/Smoulders) miniboss in the [Dragonkin Laboratory](https://runescape.wikia.com/wiki/Dragonkin_Laboratory) while wearing a [demonic skull](https://runescape.wikia.com/wiki/Demonic_skull).\n\nSmoulders can be found in the open area with [lava strykewyrms](https://runescape.wikia.com/wiki/Lava_strykewyrm_(Dragonkin_Laboratory%29) after defeating [Astellarn](https://runescape.wikia.com/wiki/Astellarn). He will wander around this whole open area near the first instance of [lava strykewyrms](https://runescape.wikia.com/wiki/Lava_strykewyrm_(Dragonkin_Laboratory) in the dungeon.\n\nIt is recommended to attempt to complete this achievement in a duo or trio group, as this will allow the player to get their demonic skull from the bank or seller instead of having to take it with them into the Astellarn boss fight and risking dying with the demonic skull. Note that banking in a solo dungeon sometimes causes monsters, including minibosses, to despawn.\n\nThe demonic skull can be purchased from the [Mage of Zamorak](https://runescape.wikia.com/wiki/Mage_of_Zamorak) in the [Wilderness](https://runescape.wikia.com/wiki/Wilderness) for 550,000 [coins](https://runescape.wikia.com/wiki/Coins).",
     "thumbnail": {
       "url": "https://i.imgur.com/Shmagnp.png"
     },
     "fields": [{
         "name": "Requirements:",
-        "value": "• Completed the [Temple of Aminishi](https://runescape.wikia.com/wiki/Temple_of_Aminishi) elite dungeon once\n• Abyss Miniquest completion | [Runescape Wiki](https://runescape.wikia.com/wiki/Abyss_(miniquest%29)"
-      },
-      {
-        "name": "Tips:",
-        "value": "Smoulders can be found in the open area with [lava strykewyrms](https://runescape.wikia.com/wiki/Lava_strykewyrm_(Dragonkin_Laboratory%29) after defeating [Astellarn](https://runescape.wikia.com/wiki/Astellarn). He will wander around this whole open area near the first instance of [lava strykewyrms](https://runescape.wikia.com/wiki/Lava_strykewyrm_(Dragonkin_Laboratory) in the dungeon.\n\nIt is recommended to attempt to complete this achievement in a duo or trio group, as this will allow the player to get their demonic skull from the bank instead of having to take it with them into the Astellarn boss fight and risking dying with the demonic skull. Note that banking in a solo dungeon sometimes causes monsters, including minibosses, to despawn."
+        "value": "• Completed the [Temple of Aminishi](https://runescape.wikia.com/wiki/Temple_of_Aminishi) Elite Dungeon once in either normal or story mode.\n\n• Abyss Miniquest completion | [Runescape Wiki](https://runescape.wikia.com/wiki/Abyss_(miniquest%29)"
       }
     ],
     "footer": {
@@ -9026,17 +9007,13 @@ exports.data = {
       "name": "RuneScore Achievement Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Spiderlogical Warfare](https://runescape.wikia.com/wiki/Spiderlogical_Warfare) is an achievement that requires the player to defeat the [Spyndra](https://runescape.wikia.com/wiki/Spyndra) miniboss in the [Dragonkin Laboratory](https://runescape.wikia.com/wiki/Dragonkin_Laboratory) while having one of the following items in the player's inventory:\n\n• A [Spider leg](https://runescape.wikia.com/wiki/Spider_leg)\n• An [Araxxi's eye](https://runescape.wikia.com/wiki/Araxxi%27s_eye)\n• An [Araxxi's fang](https://runescape.wikia.com/wiki/Araxxi%27s_fang)\n• An [Araxxi's web](https://runescape.wikia.com/wiki/Araxxi%27s_web)\n\nThe [spider leg bottom](https://runescape.wikia.com/wiki/Spider_leg_bottom), [middle](https://runescape.wikia.com/wiki/Spider_leg_middle) and [top](https://runescape.wikia.com/wiki/Spider_leg_top) do not work. This achievement can also not be completed in story mode.",
+    "description": "[Spiderlogical Warfare](https://runescape.wikia.com/wiki/Spiderlogical_Warfare) is an achievement that requires the player to defeat the [Spyndra](https://runescape.wikia.com/wiki/Spyndra) miniboss in the [Dragonkin Laboratory](https://runescape.wikia.com/wiki/Dragonkin_Laboratory) while having one of the following items in the player's inventory:\n\n• A [Spider leg](https://runescape.wikia.com/wiki/Spider_leg)\n• An [Araxxi's eye](https://runescape.wikia.com/wiki/Araxxi%27s_eye)\n• An [Araxxi's fang](https://runescape.wikia.com/wiki/Araxxi%27s_fang)\n• An [Araxxi's web](https://runescape.wikia.com/wiki/Araxxi%27s_web)\n\nThe [spider leg bottom](https://runescape.wikia.com/wiki/Spider_leg_bottom), [middle](https://runescape.wikia.com/wiki/Spider_leg_middle) and [top](https://runescape.wikia.com/wiki/Spider_leg_top) do not work. This achievement can also not be completed in story mode.\n\nSpyndra can be found in the most northeastern corner of the dungeon, which can be accessed by killing the [lava spiders](https://runescape.wikia.com/wiki/Lava_spider) by the entrance, east of the [red dragons](https://runescape.wikia.com/wiki/Red_dragon_(Dragonkin_Laboratory%29).\n\nAraxxi's eye, fang, and web are untradeable, but the spider leg is tradeable, if the player wishes to avoid fighting [Araxxi](https://runescape.wikia.com/wiki/Araxxi) for the drops.",
     "thumbnail": {
       "url": "https://i.imgur.com/Shmagnp.png"
     },
     "fields": [{
         "name": "Requirements:",
-        "value": "• Completed the [Temple of Aminishi](https://runescape.wikia.com/wiki/Temple_of_Aminishi) elite dungeon once"
-      },
-      {
-        "name": "Tips:",
-        "value": "Spyndra can be found in the most Northeastern corner of the dungeon, which can be accessed by killing the [lava spiders](https://runescape.wikia.com/wiki/Lava_spider) by the entrance, east of the [red dragons](https://runescape.wikia.com/wiki/Red_dragon_(Dragonkin_Laboratory%29).\n\nAraxxi's eye, fang, and web are untradeable, but the spider leg is tradeable, if the player wishes to avoid fighting [Araxxi](https://runescape.wikia.com/wiki/Araxxi) for the drops."
+        "value": "• Completed the [Temple of Aminishi](https://runescape.wikia.com/wiki/Temple_of_Aminishi) Elite Dungeon once in either normal or story mode."
       }
     ],
     "footer": {
@@ -9094,7 +9071,7 @@ exports.data = {
     },
     "fields": [{
         "name": "Requirements:",
-        "value": "• 33 Magic\n• Completed the [Temple of Aminishi](https://runescape.wikia.com/wiki/Temple_of_Aminishi) elite dungeon once"
+        "value": "• 33 Magic\n\n• Completed the [Temple of Aminishi](https://runescape.wikia.com/wiki/Temple_of_Aminishi) Elite Dungeon once in either normal or story mode."
       },
       {
         "name": "Guide:",
@@ -9112,7 +9089,7 @@ exports.data = {
       "name": "RuneScore Achievement Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Temple of Aminishi](https://runescape.wikia.com/wiki/Temple_of_Aminishi_(achievement%29) is an achievement that requires the player to complete all of the achievements regarding the [Temple of Aminishi](https://runescape.wikia.com/wiki/Temple_of_Aminishi):\n\n• [Aminishi? Completed it, mate.](https://runescape.wikia.com/wiki/Aminishi%3F_Completed_it,_mate.)\n• [The Many Hands That Write](https://runescape.wikia.com/wiki/The_Many_Hands_That_Write)\n• [The Book of Elei](https://runescape.wikia.com/wiki/The_Book_of_Elei)\n• [Here Is My Handle](https://runescape.wikia.com/wiki/Here_Is_My_Handle)\n• [Outflanked 'em in the Sanctum](https://runescape.wikia.com/wiki/Outflanked_%27em_in_the_Sanctum)\n• [Crassian en Masse](https://runescape.wikia.com/wiki/Crassian_en_Masse)\n• [I'll Pulverise You!](https://runescape.wikia.com/wiki/I%27ll_Pulverise_You!)\n• [Force of a Great Typhoon](https://runescape.wikia.com/wiki/Force_of_a_Great_Typhoon)\n• [Swift as the Coursing River](https://runescape.wikia.com/wiki/Swift_as_the_Coursing_River)\n• [Strength of a Raging Fire](https://runescape.wikia.com/wiki/Strength_of_a_Raging_Fire)\n• [Arc Reactor](https://runescape.wikia.com/wiki/Arc_Reactor)\n• [Malignant Enigmas](https://runescape.wikia.com/wiki/Malignant_Enigmas)\n• [Bless You, Seiryu](https://runescape.wikia.com/wiki/Bless_You,_Seiryu)\n• [The Purple Dart](https://runescape.wikia.com/wiki/The_Purple_Dart)\n• [What Does Monster Examine Say About His Combat Level?](https://runescape.wikia.com/wiki/What_Does_Monster_Examine_Say_About_His_Combat_Level%3F)\n• [Oops! Wrong Cult!](https://runescape.wikia.com/wiki/Oops!_Wrong_Cult!)\n\nThis doesn't include the [Died by the Blade!](https://runescape.wikia.com/wiki/Died_by_the_Blade!) achievement, as this would force [Hardcode Ironman/Ironwoman](https://runescape.wikia.com/wiki/Ironman_Mode) accounts to lose their hardcore status.",
+    "description": "[Temple of Aminishi](https://runescape.wikia.com/wiki/Temple_of_Aminishi_(achievement%29) is an achievement that requires the player to complete all of the achievements regarding the [Temple of Aminishi](https://runescape.wikia.com/wiki/Temple_of_Aminishi). The achievements are:\n\n• [Aminishi? Completed it, mate.](https://runescape.wikia.com/wiki/Aminishi%3F_Completed_it,_mate.)\n• [The Many Hands That Write](https://runescape.wikia.com/wiki/The_Many_Hands_That_Write)\n• [The Book of Elei](https://runescape.wikia.com/wiki/The_Book_of_Elei)\n• [Here Is My Handle](https://runescape.wikia.com/wiki/Here_Is_My_Handle)\n• [Outflanked 'em in the Sanctum](https://runescape.wikia.com/wiki/Outflanked_%27em_in_the_Sanctum)\n• [Crassian en Masse](https://runescape.wikia.com/wiki/Crassian_en_Masse)\n• [I'll Pulverise You!](https://runescape.wikia.com/wiki/I%27ll_Pulverise_You!)\n• [Force of a Great Typhoon](https://runescape.wikia.com/wiki/Force_of_a_Great_Typhoon)\n• [Swift as the Coursing River](https://runescape.wikia.com/wiki/Swift_as_the_Coursing_River)\n• [Strength of a Raging Fire](https://runescape.wikia.com/wiki/Strength_of_a_Raging_Fire)\n• [Arc Reactor](https://runescape.wikia.com/wiki/Arc_Reactor)\n• [Malignant Enigmas](https://runescape.wikia.com/wiki/Malignant_Enigmas)\n• [Bless You, Seiryu](https://runescape.wikia.com/wiki/Bless_You,_Seiryu)\n• [The Purple Dart](https://runescape.wikia.com/wiki/The_Purple_Dart)\n• [What Does Monster Examine Say About His Combat Level?](https://runescape.wikia.com/wiki/What_Does_Monster_Examine_Say_About_His_Combat_Level%3F)\n• [Oops! Wrong Cult!](https://runescape.wikia.com/wiki/Oops!_Wrong_Cult!)\n\nThis doesn't include the [Died by the Blade!](https://runescape.wikia.com/wiki/Died_by_the_Blade!) achievement, as this would force [Hardcode Ironman/Ironwoman](https://runescape.wikia.com/wiki/Ironman_Mode) accounts to lose their hardcore status.",
     "thumbnail": {
       "url": "https://i.imgur.com/Shmagnp.png"
     },
@@ -9121,7 +9098,7 @@ exports.data = {
         "value": "• 33 Magic\n• 81 Strength\n• 88 Ranged\n\n• Impressing the Locals Quest completion | [Runescape Wiki](https://runescape.wikia.com/wiki/Impressing_the_Locals)"
       },
       {
-        "name": "Tips:",
+        "name": "Guide:",
         "value": "Each individual achievement can also be viewed by using the **.rs combat elite dungeons [corresponding achievement name]** command."
       }
     ],
@@ -9166,10 +9143,10 @@ exports.data = {
     },
     "fields": [{
         "name": "Requirements:",
-        "value": "• 81 Strength\n• 88 Ranged\n• 15 Attack\n• 81 Magic\n• 60 Defence\n• 87 Prayer\n\n• Completed the [Temple of Aminishi](https://runescape.wikia.com/wiki/Temple_of_Aminishi) elite dungeon once\n• Invention Tutorial completion | [Runescape Wiki](https://runescape.wikia.com/wiki/Invention_Tutorial)\n• The Light Within Quest completion | [Runescape Wiki](https://runescape.wikia.com/wiki/The_Light_Within)\n• Abyss Miniquest completion | [Runescape Wiki](https://runescape.wikia.com/wiki/Abyss_(miniquest%29)"
+        "value": "• 81 Strength\n• 88 Ranged\n• 15 Attack\n• 81 Magic\n• 60 Defence\n• 87 Prayer\n\n• Completed the [Temple of Aminishi](https://runescape.wikia.com/wiki/Temple_of_Aminishi) Elite Dungeon once in either normal or story mode.\n\n• Invention Tutorial completion | [Runescape Wiki](https://runescape.wikia.com/wiki/Invention_Tutorial)\n\n• The Light Within Quest completion | [Runescape Wiki](https://runescape.wikia.com/wiki/The_Light_Within)\n• Abyss Miniquest completion | [Runescape Wiki](https://runescape.wikia.com/wiki/Abyss_(miniquest%29)"
       },
       {
-        "name": "Tips:",
+        "name": "Guide:",
         "value": "Each individual achievement can also be viewed by using the **.rs combat elite dungeons [corresponding achievement name]** command."
       }
     ],
@@ -9222,17 +9199,13 @@ exports.data = {
       "name": "RuneScore Achievement Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[We Will Fight in the Shade](https://runescape.wikia.com/wiki/We_Will_Fight_in_the_Shade) is an achievement that requires the player and their group to defeat Astellarn, the first boss in the Dragonkin Laboratory, without having taken more than 10,000 total damage from her solar storm.\n\nThe solar storm is her celestial rain attack that appears above the arena when she reaches 360,000 health. The rain deals around 50 damage every half-tick for players standing in the affected area, which will rapidly increase to 600 damage as it persists. When the rain changes position, the damage resets back to the minimum amount.",
+    "description": "[We Will Fight in the Shade](https://runescape.wikia.com/wiki/We_Will_Fight_in_the_Shade) is an achievement that requires the player and their group to defeat [Astellarn](http://runescape.wikia.com/wiki/Astellarn), the first boss in the Dragonkin Laboratory, without having taken more than 10,000 total damage from her solar storm.\n\nThe solar storm is her celestial rain attack that appears above the arena when she reaches 360,000 health. The rain deals around 50 damage every half-tick for players standing in the affected area, which will rapidly increase to 600 damage as it persists. When the rain changes position, the damage resets back to the minimum amount.\n\nIt is recommended to place the [Wyrmhole](https://runescape.wikia.com/wiki/Wyrmhole) somewhere in the middle between the north and south side of the arena. This will allow the player to stay inside the stabalized wyrmhole without getting hit by the rain when it spawns on 1 side of the arena.\n\nIf the player moves out of the rain as soon as it spawns above them, it should be relatively easy to complete the achievement.",
     "thumbnail": {
       "url": "https://i.imgur.com/Shmagnp.png"
     },
     "fields": [{
         "name": "Requirements:",
-        "value": "• Completed the [Temple of Aminishi](https://runescape.wikia.com/wiki/Temple_of_Aminishi) elite dungeon once"
-      },
-      {
-        "name": "Tips:",
-        "value": "It is recommended to place the [Wyrmhole](https://runescape.wikia.com/wiki/Wyrmhole) somewhere in the middle between the north and south side of the arena, this will allow the player to stay inside the stabalized wyrmhole without getting hit by the rain when it spawns on 1 side of the arena.\n\nIf the player moves out of the rain as soon as it spawns above them it should be relatively easy to complete the achievement."
+        "value": "• Completed the [Temple of Aminishi](https://runescape.wikia.com/wiki/Temple_of_Aminishi) Elite Dungeon once in either normal or story mode."
       }
     ],
     "footer": {
@@ -9265,17 +9238,13 @@ exports.data = {
       "name": "RuneScore Achievement Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[You Won't Like Me When I'm Sangri](https://runescape.wikia.com/wiki/You_Won%27t_Like_Me_When_I%27m_Sangri) is an achievement that requires the player to kill [Sangri the Red](https://runescape.wikia.com/wiki/Sangri_the_Red) in the [Dragonkin Laboratory](https://runescape.wikia.com/wiki/Dragonkin_Laboratory) while under the effects of [Berserk](https://runescape.wikia.com/wiki/Berserk).",
+    "description": "[You Won't Like Me When I'm Sangri](https://runescape.wikia.com/wiki/You_Won%27t_Like_Me_When_I%27m_Sangri) is an achievement that requires the player to kill [Sangri the Red](https://runescape.wikia.com/wiki/Sangri_the_Red) in the [Dragonkin Laboratory](https://runescape.wikia.com/wiki/Dragonkin_Laboratory) while under the effects of [Berserk](https://runescape.wikia.com/wiki/Berserk).\n\nSangri the Red can be found right next to entrance of the dungeon west of the [red dragons](https://runescape.wikia.com/wiki/Red_dragon_(Dragonkin_Laboratory%29). This place can be accessed by killing some of the red dragons to drop the barrier.\n\nTo complete the achievement, Berserk must be active upon killing Sangri the Red. Therefore, it is recommended to active it when Sangri is low on life points before finishing it off.",
     "thumbnail": {
       "url": "https://i.imgur.com/Shmagnp.png"
     },
     "fields": [{
         "name": "Requirements:",
-        "value": "• 42 Strength\n\n• Completed the [Temple of Aminishi](https://runescape.wikia.com/wiki/Temple_of_Aminishi) elite dungeon once"
-      },
-      {
-        "name": "Guide:",
-        "value": "Sangri the Red can be found right next to entrance of the dungeon west of the [red dragons](https://runescape.wikia.com/wiki/Red_dragon_(Dragonkin_Laboratory%29). This place can be accessed by killing some of the red dragons to drop the barrier.\n\nTo complete the achievement, Berserk must be active upon killing Sangri the Red. Therefore, it is recommended to active it when Sangri is low on life points before finishing it off."
+        "value": "• 42 Strength\n\n• Completed the [Temple of Aminishi](https://runescape.wikia.com/wiki/Temple_of_Aminishi) Elite Dungeon once in either normal or story mode."
       }
     ],
     "footer": {
