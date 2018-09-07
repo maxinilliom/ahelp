@@ -38,20 +38,26 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 	if (args[0].toLowerCase() == "all" && level >= 2) {
 		let i = 0, o = 0, x = keyList.length;
 		const category = args[1] ? args[1].toLowerCase() : undefined
-		function list() {
+		let errMsg = "";
+		async function list() {
 			const [cat, sub, ach] = keyList[o].split(" - ");
 			if (category && cat !== category) return;
 			const guide = data[keyList[o]];
 			guide.author.name = name;
 			guide.color = color;
 			guide.timestamp = new Date();
-			message.channel.send("", {embed: guide});
+			try {
+				await message.channel.send("", {embed: guide});
+			} catch (err) {
+				errMsg += `${o}. ${keyList[o]} failed to send with error: ${err}\n`;
+				i--;
+			}
 			i++;
 			o++;
 			if (o < x) {
 				setTimeout(list, 2500);
 			}
-			if (o == x) message.reply(`**${i}**/\**${keyList.length}** responses listed.`);
+			if (o == x) message.reply(`**${i}**/\**${keyList.length}** responses listed.\n\n${errMsg}`);
 		}
 		list();
 		return message.delete();
