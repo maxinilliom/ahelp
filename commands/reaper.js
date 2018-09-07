@@ -8,7 +8,7 @@ exports.run = async (client, message, args, level) => {
 	const name = "Reaper Info";
 	const color = 13480569;
 	const footer = {
-        "icon_url": "http://vignette.wikia.nocookie.net/runescape2/images/c/c9/The_Reaper.png/revision/latest",
+        "icon_url": "https://i.imgur.com/NJmVzyZ.png",
         "text": "All first time reaper kills are free in #reaper-request-list!"
       };
 
@@ -22,15 +22,17 @@ exports.run = async (client, message, args, level) => {
 
 	if (args[0].toLowerCase() == "all" && level >= 2) {
     let i = 0, o = 0, x = keyList.length;
-    function list() {
+    let errMsg = "";
+    async function list() {
       const guide = data[keyList[o]];
       if (guide.author) guide.author.name = name;
       guide.color = color;
       if (guide.footer) guide.footer = footer;
       if (guide.timestamp) guide.timestamp = new Date();
       try {
-				message.channel.send("", {embed: guide});
+				await message.channel.send("", {embed: guide});
 			} catch (err) {
+				errMsg += `${o}. ${keyList[o]} failed to send with error: ${err}\n`;
 				i--;
 			}
       i++;
