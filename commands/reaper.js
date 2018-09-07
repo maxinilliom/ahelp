@@ -32,7 +32,7 @@ exports.run = async (client, message, args, level) => {
       try {
 				await message.channel.send("", {embed: guide});
 			} catch (err) {
-				errMsg += `${o}. ${keyList[o]} failed to send with error: ${err}\n`;
+				errMsg += `${o}. ${keyList[o]} failed to send with error: ${err}\n\n${errMsg}`;
 				i--;
 			}
       i++;
