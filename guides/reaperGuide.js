@@ -644,7 +644,7 @@ exports.data = {
                 },
                 {
                     "name": "Attack 4: Spawns Cywir Alphas",
-                    "value": "Helwyr will howl and spawn two [Cywir Alpha](https://runescape.wikia.com/wiki/Cywir_Alpha) minions. This minions attacks can be severely reduced through the use of melee protection prayers. If a player is using a halberd type weapon, the minions can easily be defeated with area of effect attacks such as [Quake](https://runescape.wikia.com/wiki/Quake) and [Hurricane](https://runescape.wikia.com/wiki/Hurricane).\n\nIf the player plans to utilize resonance on Attack 2, it is imperative to ensure the minions are dead beforehand. Otherwise, the minions can be ignored. Helwyr will then do (2) auto attacks before utilizing attack 1 and repeating the attacks until defeated."
+                    "value": "Helwyr will howl and spawn two [Cywir Alpha](https://runescape.wikia.com/wiki/Cywir_Alpha) minions. These minions attacks can be severely reduced through the use of melee protection prayers. If a player is using a halberd type weapon, the minions can easily be defeated with area of effect attacks such as [Quake](https://runescape.wikia.com/wiki/Quake) and [Hurricane](https://runescape.wikia.com/wiki/Hurricane).\n\nIf the player plans to utilize resonance on Attack 2, it is imperative to ensure the minions are dead beforehand. Otherwise, the minions can be ignored. Helwyr will then do (2) auto attacks before utilizing attack 1 and repeating the attacks until defeated."
                 }
             ],
             "footer": {
