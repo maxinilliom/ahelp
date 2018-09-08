@@ -29,18 +29,18 @@ exports.data = {
       "name": "True Trimmed Info",
       "icon_url": "http://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Anima Isles Rewards](http://runescape.wikia.com/wiki/Anima_Islands#Rewards) are rewards that can be bought with currency rewarded by playing the [Anima Isles](http://runescape.wikia.com/wiki/Anima_Islands) [Distractions and Diversions](https://runescape.wikia.com/wiki/Distractions_and_Diversions), which was released during the [Tuska comes](http://runescape.wikia.com/wiki/Tuska_Comes) world event, and later on made permanent. It is located west of the [Desert Bandit Camp](https://runescape.wikia.com/wiki/Bandit_Camp_(Kharidian_Desert%29).\n\n The following rewards are considered permanent rewards:\n\n• The [Tuska storm teleport](http://runescape.wikia.com/wiki/Tuska_storm_teleport)\n• The [Tuska's Fury (Tier 3)](https://runescape.wikia.com/wiki/Tuska's_Fury_(Tier_3%29) emote\n• The [Calibration device](http://runescape.wikia.com/wiki/Calibration_device) override\n• The [Saradomin Tuska spear](https://runescape.wikia.com/wiki/Saradomin_Tuska_spear) override\n• The [Godless Tuska spear](https://runescape.wikia.com/wiki/Godless_Tuska_spear) override\n• The [Zamorak Tuska spear](https://runescape.wikia.com/wiki/Zamorak_Tuska_spear) override\n• The [Armadyl Tuska spear](https://runescape.wikia.com/wiki/Armadyl_Tuska_spear) override\n• The [Tuska's Wrath](http://runescape.wikia.com/wiki/Tuska%27s_Wrath) ability\n• The [Sacrifice](http://runescape.wikia.com/wiki/Sacrifice) ability\n• The [Devotion](http://runescape.wikia.com/wiki/Devotion) ability\n• The [Transfigure](http://runescape.wikia.com/wiki/Transfigure) ability\n• The [Warpriest of Tuska](https://runescape.wikia.com/wiki/Warpriest_of_Tuska_armour) set (to upgrade the [Sliske's Parody](https://runescape.wikia.com/wiki/Anima_Core_of_Sliske) set)\n\nThe total amount of currency needed to buy all rewards is either 25,700 or 36,200 depending on how Sacrifice, Devotion and Transfigure are obtained.\n\nA maxmimum total of 1,000 currency is reward per playthrough, therefore a minimum of either 26 or 37 playthroughs is required to buy all of the permanent rewards.",
+    "description": "[Anima Isles Rewards](http://runescape.wikia.com/wiki/Anima_Islands#Rewards) are rewards that can be bought with currency rewarded by playing the [Anima Isles](http://runescape.wikia.com/wiki/Anima_Islands) [Distractions and Diversions](https://runescape.wikia.com/wiki/Distractions_and_Diversions), which was released during the [Tuska comes](http://runescape.wikia.com/wiki/Tuska_Comes) world event, and later on made permanent. It is located west of the [Desert Bandit Camp](https://runescape.wikia.com/wiki/Bandit_Camp_(Kharidian_Desert%29).\n\n The following rewards are considered permanent rewards:\n\n• The [Tuska storm teleport](http://runescape.wikia.com/wiki/Tuska_storm_teleport)\n• The [Tuska's Fury (Tier 3)](https://runescape.wikia.com/wiki/Tuska's_Fury_(Tier_3%29) emote\n• The [Calibration device](http://runescape.wikia.com/wiki/Calibration_device) override\n• The [Saradomin Tuska spear](https://runescape.wikia.com/wiki/Saradomin_Tuska_spear) override\n• The [Godless Tuska spear](https://runescape.wikia.com/wiki/Godless_Tuska_spear) override\n• The [Zamorak Tuska spear](https://runescape.wikia.com/wiki/Zamorak_Tuska_spear) override\n• The [Armadyl Tuska spear](https://runescape.wikia.com/wiki/Armadyl_Tuska_spear) override\n• The [Tuska's Wrath](http://runescape.wikia.com/wiki/Tuska%27s_Wrath) ability\n• The [Sacrifice](http://runescape.wikia.com/wiki/Sacrifice) ability\n• The [Devotion](http://runescape.wikia.com/wiki/Devotion) ability\n• The [Transfigure](http://runescape.wikia.com/wiki/Transfigure) ability\n• The [Warpriest of Tuska](https://runescape.wikia.com/wiki/Warpriest_of_Tuska_armour) set (to upgrade the [Sliske's Parody](https://runescape.wikia.com/wiki/Anima_Core_of_Sliske) set)\n\nThe total amount of currency needed to buy all rewards is either 25,700 or 36,200; depending on how Sacrifice, Devotion, and Transfigure are obtained.\n\nA maxmimum total of 1,000 currency is reward per playthrough, therefore a minimum of either 26 or 37 playthroughs is required to buy all of the permanent rewards.",
     "color": 10257648,
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/e/ee/Tuska_symbol.png"
     },
     "fields": [{
         "name": "Tips:",
-        "value": "Players can save a total of 10,500 reward currency by unlocking Sacrifice, Devotion and Transfigure as drops from either [General Graardor](http://runescape.wikia.com/wiki/General_Graardor) or [Kree'arra](http://runescape.wikia.com/wiki/Kree'arra) and their bodygaurds.\n\nDeaths during the minigame are safe, and Ironman accounts can participate in all content and have access to all rewards."
+        "value": "Players can save a total of 10,500 reward currency by unlocking Sacrifice, Devotion and Transfigure as drops from either [General Graardor](http://runescape.wikia.com/wiki/General_Graardor) or [Kree'arra](http://runescape.wikia.com/wiki/Kree'arra), their bodygaurds, or the minion located within [Bandos' Stronghold](https://runescape.wikia.com/wiki/God_Wars_Dungeon#Bandos.27_Stronghold) or [Armadyl's Eyrie](https://runescape.wikia.com/wiki/God_Wars_Dungeon#Armadyl.27s_Eyrie).\n\nDeaths during the minigame are safe, and Ironman accounts can participate in all content and have access to all rewards."
       },
       {
         "name": "Guide:",
-        "value": "[Runescape - 2017 Anima Islands Guide! | Dexxon - YouTube](https://www.youtube.com/watch?v=uyrm9c6dmTU)"
+        "value": "• [Runescape - 2017 Anima Islands Guide! | Dexxon - YouTube](https://www.youtube.com/watch?v=uyrm9c6dmTU)"
       }
     ],
     "footer": {
@@ -54,14 +54,18 @@ exports.data = {
       "name": "True Trimmed Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Champions' Challenge Rewards](https://runescape.wikia.com/wiki/Champions%27_Challenge#Rewards) are rewards that can be obtained by talking to [Larxus]() after defeating all 15 champions from the [Champions' Challenge](https://runescape.wikia.com/wiki/Champions%27_Challenge) [Distractions and Diversions](https://runescape.wikia.com/wiki/Distractions_and_Diversions), which can be done by bringing the 13 corresponding [Champion's scrolls](https://runescape.wikia.com/wiki/Champion%27s_scroll) to the [Champions' Guild's basement](https://runescape.wikia.com/wiki/Champions%27_Guild#Basement), and defeating the champions.\n\n[Leon d'Cour](https://runescape.wikia.com/wiki/Leon_d'Cour) will challenge the player after they defeated 10 champions and [Glophren](https://runescape.wikia.com/wiki/Glophren) will challenge the player after they defeated all 13 champions. After defeating Glophren, the player can claim the rewards from Larxus.",
+    "description": "[Champions' Challenge Rewards](https://runescape.wikia.com/wiki/Champions%27_Challenge#Rewards) are rewards that can be obtained by talking to [Larxus]() after defeating all 15 champions from the [Champions' Challenge](https://runescape.wikia.com/wiki/Champions%27_Challenge) [Distractions and Diversions](https://runescape.wikia.com/wiki/Distractions_and_Diversions), which can be done by bringing the 13 corresponding [Champion's scrolls](https://runescape.wikia.com/wiki/Champion%27s_scroll) to the [Champions' Guild's basement](https://runescape.wikia.com/wiki/Champions%27_Guild#Basement), and defeating the champions.\n\n[Leon d'Cour](https://runescape.wikia.com/wiki/Leon_d'Cour) will challenge the player after they defeated 10 champions and [Glophren](https://runescape.wikia.com/wiki/Glophren) will challenge the player after they defeated all 13 champions. After defeating Glophren, the player can claim the rewards from [Larxus](https://runescape.wikia.com/wiki/Larxus).",
     "color": 10257648,
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/2/28/Banner_carrier.png/revision/latest?cb=20160406195155"
     },
     "fields": [{
       "name": "Guide and Tips:",
-      "value": "Some of these methods are semi outdated due to the release of the player-owned slayer dungeons. Players may check the spreadsheet that is supplied by Slayer Dungs FC for [Player Owned Dungeons locations](https://docs.google.com/spreadsheets/d/1NibABxK2xciVmIeuZ2gGEBZPe9NIoi7skprEiEuGBc0/edit#gid=516613908).\n\nInstead of using the hoardstalker ring they player may choose to use the 99 or 120 [Dungeoneering capes](https://runescape.wikia.com/wiki/Dungeoneering_cape), as their [perk effects](https://runescape.wikia.com/wiki/Dungeoneering_cape#Perk) works the same. \n\n• [Trimmed Comp cape guide - Champion Scrolls! | Teh Proez - YouTube](https://www.youtube.com/watch?v=m_0486aC1gA)"
+      "value": "Players can utilize the **.trim champion of champions** command to see the best locations of all Champions.\n\nPlayers may wish to view the the spreadsheet supplied by [Slayer Dungs](https://discord.gg/4ksg37t) friend's chat for [Player Owned Dungeons locations](https://docs.google.com/spreadsheets/d/1NibABxK2xciVmIeuZ2gGEBZPe9NIoi7skprEiEuGBc0/edit#gid=516613908), as these can be the most optimal locations for the slayer related champions ever since the release of [Player-owned dungeons](https://runescape.wikia.com/wiki/Sunken_Pyramid#Slayer_Dungeon)."
+    },
+    {
+      "name": "​",
+      "value": "Players should utilize the [Scavenging 2/3](https://runescape.wikia.com/wiki/Scavenging) perk on an [Augmented](https://runescape.wikia.com/wiki/Augmentation) reforged [Sunspear](https://runescape.wikia.com/wiki/Sunspear) in order to gain many invention [materials](https://runescape.wikia.com/wiki/Materials) to help make a profit during this daunting achievement. The sunspear requires [The Lord of Vampyrium](https://runescape.wikia.com/wiki/The_Lord_of_Vampyrium) quest and the reforged sunspear requires the [River of Blood](https://runescape.wikia.com/wiki/River_of_Blood) quest.\n\nThe [Dwarf multicannon](https://runescape.wikia.com/wiki/Dwarf_multicannon), [Oldak coil](https://runescape.wikia.com/wiki/Oldak_coil), or [Kinetic cyclone](https://runescape.wikia.com/wiki/Kinetic_cyclone) and/or [Aggression potions](https://runescape.wikia.com/wiki/Aggression_potion) are very useful in maintaining the mobs agression."
     }],
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
@@ -85,7 +89,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[Solo Demon Flash Mob Guide | CuddleScape - Youtube](https://www.youtube.com/watch?v=6WIPaq3thX0)"
+        "value": "• [Solo Demon Flash Mob Guide | CuddleScape - Youtube](https://www.youtube.com/watch?v=6WIPaq3thX0)"
       },
       {
         "name": "Note:",
@@ -138,7 +142,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[Fish Flingers solo method | Lildogdog RS - Youtube](https://www.youtube.com/watch?v=kst1261t1uo)"
+        "value": "• [Fish Flingers solo method | Lildogdog RS - Youtube](https://www.youtube.com/watch?v=kst1261t1uo)"
       }
     ],
     "footer": {
@@ -183,7 +187,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[God Statues Guide - 2017 | Tectail - Youtube](https://www.youtube.com/watch?v=ZDK_fF3OFVo)"
+        "value": "• [God Statues Guide - 2017 | Tectail - Youtube](https://www.youtube.com/watch?v=ZDK_fF3OFVo)"
       }
     ],
     "footer": {
@@ -232,7 +236,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[Hard Mode Nomad Guide | The Junesong - Youtube](https://www.youtube.com/watch?v=QUEZ4su06Pw)"
+        "value": "• [Hard Mode Nomad Guide | The Junesong - Youtube](https://www.youtube.com/watch?v=QUEZ4su06Pw)"
       }
     ],
     "footer": {
@@ -265,7 +269,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[In Pyre Need Quest & Phoenix Lair D&D Guide | CloudVidz - Youtube](https://www.youtube.com/watch?v=0UkqTrYtX3A)"
+        "value": "• [In Pyre Need Quest & Phoenix Lair D&D Guide | CloudVidz - Youtube](https://www.youtube.com/watch?v=0UkqTrYtX3A)"
       }
     ],
     "footer": {
@@ -290,7 +294,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[Sinkholes Guide 2017 - Fast daily DG exp | puretppc - Youtube](https://www.youtube.com/watch?v=QxqkmHUf6HU)"
+        "value": "• [Sinkholes Guide 2017 - Fast daily DG exp | puretppc - Youtube](https://www.youtube.com/watch?v=QxqkmHUf6HU)"
       }
     ],
     "footer": {
@@ -359,7 +363,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[Wisps of the Grove! Weekly D&D guide | Maikeru RS - Youtube](https://www.youtube.com/watch?v=YBP7HGYYowQ)"
+        "value": "• [Wisps of the Grove! Weekly D&D guide | Maikeru RS - Youtube](https://www.youtube.com/watch?v=YBP7HGYYowQ)"
       }
     ],
     "footer": {
@@ -551,7 +555,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[Playing Flash Powder Factory | Runescape Wiki](https://runescape.wikia.com/wiki/Flash_Powder_Factory#Playing_the_game)"
+        "value": "• [Playing Flash Powder Factory | Runescape Wiki](https://runescape.wikia.com/wiki/Flash_Powder_Factory#Playing_the_game)"
       }
     ],
     "footer": {
@@ -609,7 +613,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[The Mage Arena video showcase | Pravus Gaming - Youtube](https://www.youtube.com/watch?v=drl2lLfGrrk)"
+        "value": "• [The Mage Arena video showcase | Pravus Gaming - Youtube](https://www.youtube.com/watch?v=drl2lLfGrrk)"
       }
     ],
     "footer": {
@@ -634,7 +638,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[Cabbage Facepunch Guide • FAST Points | puretppc - YouTube](https://www.youtube.com/watch?v=biM5YfWTVJM)"
+        "value": "• [Cabbage Facepunch Guide • FAST Points | puretppc - YouTube](https://www.youtube.com/watch?v=biM5YfWTVJM)"
       }
     ],
     "footer": {
@@ -687,7 +691,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[POP Encyclopedia V5 | Kags - Runescape official forums](http://services.runescape.com/m=forum/forums.ws?75,76,519,65829739)"
+        "value": "• [POP Encyclopedia V5 | Kags - Runescape official forums](http://services.runescape.com/m=forum/forums.ws?75,76,519,65829739)"
       }
     ],
     "footer": {
@@ -712,7 +716,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[How to get Black Ibis Outfit FAST! | puretppc - Youtube](https://www.youtube.com/watch?v=g674eqaF2Og)"
+        "value": "• [How to get Black Ibis Outfit FAST! | puretppc - Youtube](https://www.youtube.com/watch?v=g674eqaF2Og)"
       }
     ],
     "footer": {
@@ -753,7 +757,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[Shattered Worlds Guide: farming anima | The Junesong - Youtube](https://www.youtube.com/watch?v=1lPZtELt0yQ)"
+        "value": "• [Shattered Worlds Guide: farming anima | The Junesong - Youtube](https://www.youtube.com/watch?v=1lPZtELt0yQ)"
       }
     ],
     "footer": {
@@ -1063,7 +1067,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[The Nexus (Easy & Free Prayer XP!) | HumblexTurtle - Youtube](https://www.youtube.com/watch?v=crSyO6b3ago)"
+        "value": "• [The Nexus (Easy & Free Prayer XP!) | HumblexTurtle - Youtube](https://www.youtube.com/watch?v=crSyO6b3ago)"
       }
     ],
     "footer": {
@@ -1475,7 +1479,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[Ceremonial Swords Guide | puretppc - Youtube](https://www.youtube.com/watch?v=2m1e7wftBE0)"
+        "value": "• [Ceremonial Swords Guide | puretppc - Youtube](https://www.youtube.com/watch?v=2m1e7wftBE0)"
       }
     ],
     "footer": {
@@ -1597,7 +1601,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[Empty Throne Room Guide Easy XP | FatNooblet - Youtube](https://www.youtube.com/watch?v=dhn7TRbw2zI)"
+        "value": "• [Empty Throne Room Guide Easy XP | FatNooblet - Youtube](https://www.youtube.com/watch?v=dhn7TRbw2zI)"
       }
     ],
     "footer": {
@@ -1662,7 +1666,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[Rise of the Six Guide | The Junesong - Youtube](https://www.youtube.com/watch?v=lN5vy1gEh4o)"
+        "value": "• [Rise of the Six Guide | The Junesong - Youtube](https://www.youtube.com/watch?v=lN5vy1gEh4o)"
       }
     ],
     "footer": {
@@ -1687,7 +1691,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[Chaos Elemental basic Guide | The Junesong - Youtube](https://www.youtube.com/watch?v=F5Hwv-Fu8hM)"
+        "value": "• [Chaos Elemental basic Guide | The Junesong - Youtube](https://www.youtube.com/watch?v=F5Hwv-Fu8hM)"
       }
     ],
     "footer": {
@@ -1716,7 +1720,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[Hard Mode Commander Zilyana Guide | The Junesong - Youtube](https://www.youtube.com/watch?v=2sLUq3Ymq6M)"
+        "value": "• [Hard Mode Commander Zilyana Guide | The Junesong - Youtube](https://www.youtube.com/watch?v=2sLUq3Ymq6M)"
       }
     ],
     "footer": {
@@ -1741,7 +1745,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[Complete Solo Corporeal Beast Guide | Trissle - Youtube](https://youtu.be/lfwu9Owd5kg?t=22s)"
+        "value": "• [Complete Solo Corporeal Beast Guide | Trissle - Youtube](https://youtu.be/lfwu9Owd5kg?t=22s)"
       }
     ],
     "footer": {
@@ -1786,7 +1790,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[Complete Dragonkin Laboratory Solo guide | Ravlar RS - Youtube](https://www.youtube.com/watch?v=qKqJdMwJGqI)"
+        "value": "• [Complete Dragonkin Laboratory Solo guide | Ravlar RS - Youtube](https://www.youtube.com/watch?v=qKqJdMwJGqI)"
       }
     ],
     "footer": {
@@ -1840,7 +1844,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[Low Level Giant Mole Solo Guide | Lildogdog RS - Youtube](https://www.youtube.com/watch?v=0lrGI8Nsvns)"
+        "value": "• [Low Level Giant Mole Solo Guide | Lildogdog RS - Youtube](https://www.youtube.com/watch?v=0lrGI8Nsvns)"
       }
     ],
     "footer": {
@@ -1927,7 +1931,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[Hard Mode K'ril Tsutsaroth Guide | The Junesong - Youtube](https://www.youtube.com/watch?v=_QoHy2ca4pE)"
+        "value": "• [Hard Mode K'ril Tsutsaroth Guide | The Junesong - Youtube](https://www.youtube.com/watch?v=_QoHy2ca4pE)"
       }
     ],
     "footer": {
@@ -2016,7 +2020,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[Hard Mode Solo Kree'Arra Guide | Munclesonkey - Youtube](https://www.youtube.com/watch?v=Igzndw-QVNg)"
+        "value": "• [Hard Mode Solo Kree'Arra Guide | Munclesonkey - Youtube](https://www.youtube.com/watch?v=Igzndw-QVNg)"
       }
     ],
     "footer": {
@@ -2041,7 +2045,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[Legiones Guide, All Legios Covered! | Maikeru RS - Youtube](https://www.youtube.com/watch?v=r0HNvnx6ZLM)"
+        "value": "• [Legiones Guide, All Legios Covered! | Maikeru RS - Youtube](https://www.youtube.com/watch?v=r0HNvnx6ZLM)"
       }
     ],
     "footer": {
@@ -2095,7 +2099,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[A Complete Guide to Soloing Nex | The RS Guy - Youtube](https://www.youtube.com/watch?v=aidYDSQGlXQ)"
+        "value": "• [A Complete Guide to Soloing Nex | The RS Guy - Youtube](https://www.youtube.com/watch?v=aidYDSQGlXQ)"
       }
     ],
     "footer": {
@@ -2124,7 +2128,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[Nex: Angel of Death Guide | The Junesong - Youtube](https://www.youtube.com/watch?v=9CkzBVvKN1E)"
+        "value": "• [Nex: Angel of Death Guide | The Junesong - Youtube](https://www.youtube.com/watch?v=9CkzBVvKN1E)"
       }
     ],
     "footer": {
@@ -2153,7 +2157,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[Queen Black Dragon beginner guide | Trissle - Youtube](https://www.youtube.com/watch?v=2hsgcV_fp5Q)"
+        "value": "• [Queen Black Dragon beginner guide | Trissle - Youtube](https://www.youtube.com/watch?v=2hsgcV_fp5Q)"
       }
     ],
     "footer": {
@@ -2198,7 +2202,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[Complete Telos Guide | The Junesong - Youtube](https://www.youtube.com/watch?v=Lv6QRSgBY5w)"
+        "value": "• [Complete Telos Guide | The Junesong - Youtube](https://www.youtube.com/watch?v=Lv6QRSgBY5w)"
       }
     ],
     "footer": {
@@ -2252,7 +2256,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[A Complete Guide to The Magister | The RS Guy - Youtube](https://www.youtube.com/watch?v=A8Uy2rBtCWA)"
+        "value": "• [A Complete Guide to The Magister | The RS Guy - Youtube](https://www.youtube.com/watch?v=A8Uy2rBtCWA)"
       }
     ],
     "footer": {
@@ -2385,7 +2389,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[Full Sliske's Endgame Quest Guide | Dexxon - Youtube](https://www.youtube.com/watch?v=yg0aaHCdXjg)"
+        "value": "• [Full Sliske's Endgame Quest Guide | Dexxon - Youtube](https://www.youtube.com/watch?v=yg0aaHCdXjg)"
       }
     ],
     "footer": {
@@ -2494,7 +2498,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[Rune Dragons Guide | Moto - Youtube](https://www.youtube.com/watch?v=BweUJs_1ylU)"
+        "value": "• [Rune Dragons Guide | Moto - Youtube](https://www.youtube.com/watch?v=BweUJs_1ylU)"
       }
     ],
     "footer": {
@@ -2519,7 +2523,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[Solak Guide - All Phases Covered! | Maikeru RS - Youtube](https://www.youtube.com/watch?v=3z9hYZNOr_k)"
+        "value": "• [Solak Guide - All Phases Covered! | Maikeru RS - Youtube](https://www.youtube.com/watch?v=3z9hYZNOr_k)"
       }
     ],
     "footer": {
@@ -2618,7 +2622,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[Nex: Angel of Death Guide | The Junesong - Youtube](https://www.youtube.com/watch?v=9CkzBVvKN1E)"
+        "value": "• [Nex: Angel of Death Guide | The Junesong - Youtube](https://www.youtube.com/watch?v=9CkzBVvKN1E)"
       }
     ],
     "footer": {
@@ -2787,7 +2791,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[Complete Dragonkin Laboratory Solo guide | Ravlar RS - Youtube](https://www.youtube.com/watch?v=qKqJdMwJGqI)"
+        "value": "• [Complete Dragonkin Laboratory Solo guide | Ravlar RS - Youtube](https://www.youtube.com/watch?v=qKqJdMwJGqI)"
       }
     ],
     "footer": {
@@ -2935,7 +2939,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[A full list of how to earn reputation | Runescape Wiki](https://runescape.wikia.com/wiki/Reputation_(Heart_of_Gielinor%29)"
+        "value": "• [A full list of how to earn reputation | Runescape Wiki](https://runescape.wikia.com/wiki/Reputation_(Heart_of_Gielinor%29)"
       }
     ],
     "footer": {
@@ -3040,7 +3044,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[Solak Guide - All Phases Covered! | Maikeru RS - Youtube](https://www.youtube.com/watch?v=3z9hYZNOr_k)"
+        "value": "• [Solak Guide - All Phases Covered! | Maikeru RS - Youtube](https://www.youtube.com/watch?v=3z9hYZNOr_k)"
       }
     ],
     "footer": {
@@ -3129,7 +3133,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[Edimmu Slayer Guide with Cannon | puretppc - Youtube](https://www.youtube.com/watch?v=ChPrsf5er0s)"
+        "value": "• [Edimmu Slayer Guide with Cannon | puretppc - Youtube](https://www.youtube.com/watch?v=ChPrsf5er0s)"
       }
     ],
     "footer": {
@@ -3198,7 +3202,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[Shadow Creatures Slayer Guide | puretppc - Youtube](https://www.youtube.com/watch?v=UmgnW4-3Tgk)"
+        "value": "• [Shadow Creatures Slayer Guide | puretppc - Youtube](https://www.youtube.com/watch?v=UmgnW4-3Tgk)"
       }
     ],
     "footer": {
@@ -3243,7 +3247,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[Complete Safecracking Guide | puretppc - Youtube](https://www.youtube.com/watch?v=RtIYA-la_i4)"
+        "value": "• [Complete Safecracking Guide | puretppc - Youtube](https://www.youtube.com/watch?v=RtIYA-la_i4)"
       }
     ],
     "footer": {
@@ -3296,7 +3300,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[Farming minibosses at Elite Dungeons | Maikeru RS - Youtube](https://www.youtube.com/watch?v=K_X_flMiLyk)"
+        "value": "• [Farming minibosses at Elite Dungeons | Maikeru RS - Youtube](https://www.youtube.com/watch?v=K_X_flMiLyk)"
       }
     ],
     "footer": {
@@ -3341,7 +3345,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[How to farm Slayer Points FAST & Easy | puretppc - Youtube](https://www.youtube.com/watch?v=PR7v91xbGBQ)"
+        "value": "• [How to farm Slayer Points FAST & Easy | puretppc - Youtube](https://www.youtube.com/watch?v=PR7v91xbGBQ)"
       }
     ],
     "footer": {
@@ -3386,7 +3390,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[Waterfall Fishing Guide & Rewards | shadowgattler - Youtube](https://www.youtube.com/watch?v=Tk9NbBFsusY)"
+        "value": "• [Waterfall Fishing Guide & Rewards | shadowgattler - Youtube](https://www.youtube.com/watch?v=Tk9NbBFsusY)"
       }
     ],
     "footer": {
