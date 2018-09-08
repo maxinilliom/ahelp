@@ -11,6 +11,7 @@ exports.run = async (client, message, args, level) => {
         "icon_url": "https://i.imgur.com/NJmVzyZ.png",
         "text": "All first time reaper kills are free in #reaper-request-list!"
       };
+    if (guideName == "solak") footer.text = "Check #reaper-request-list for information about leeching services and discounts.";
 
 	if (message.channel.id !== '407919969712603145' && level < 2) return;
 
