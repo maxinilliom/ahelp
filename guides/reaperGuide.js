@@ -441,7 +441,7 @@ exports.data = {
             },
     "general graardor": {  
       "title":"General Graardor",
-      "description":"[General Graardor](https://runescape.wikia.com/wiki/General_Graardor)is the leader of the army of [Bandos](https://runescape.wikia.com/wiki/Bandos) within the [God Wars Dungeon](https://runescape.wikia.com/wiki/God_Wars_Dungeon). He is one of the last known surviving members of the [ourg](https://runescape.wikia.com/wiki/Ourg) race, a species who served Bandos' armies, which almost completely died out over the course of numerous wars.",
+      "description":"[General Graardor](https://runescape.wikia.com/wiki/General_Graardor) is the leader of the army of [Bandos](https://runescape.wikia.com/wiki/Bandos) within the [God Wars Dungeon](https://runescape.wikia.com/wiki/God_Wars_Dungeon). He is one of the last known surviving members of the [ourg](https://runescape.wikia.com/wiki/Ourg) race, a species who served Bandos' armies, which almost completely died out over the course of numerous wars.",
       "footer":{  
          "icon_url":"https://vignette.wikia.nocookie.net/runescape2/images/c/c9/The_Reaper.png/revision/latest/scale-to-width-down/20?cb=20171023212914",
          "text":"Remember, all reaper kills are free in #reaper-request-list"
