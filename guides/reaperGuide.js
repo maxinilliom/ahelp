@@ -1275,7 +1275,7 @@ exports.data = {
                 "text": "Remember, all first time reaper kills are free in #reaper-request-list"
             }
         },
-    "Solak": {
+    "solak": {
             "title": "Solak, the Grove Guardian",
             "author": {
                 "name": "Boss Reaper Kill Info",
