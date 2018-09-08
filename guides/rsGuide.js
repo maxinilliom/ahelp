@@ -110,7 +110,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[A map showing all Miniboss locations | Runescape Wiki](https://vignette.wikia.nocookie.net/runescape2/images/d/d6/Temple_of_Aminishi_map.png/revision/latest/scale-to-width-down/300?cb=20180701160746)"
+        "value": "• [A map showing all Miniboss locations | Runescape Wiki](https://vignette.wikia.nocookie.net/runescape2/images/d/d6/Temple_of_Aminishi_map.png/revision/latest/scale-to-width-down/300?cb=20180701160746)"
       }
     ],
     "footer": {
@@ -430,7 +430,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[A map showing all Miniboss locations | Runescape Wiki](https://vignette.wikia.nocookie.net/runescape2/images/a/ab/Dragonkin_Laboratory_map.png/revision/latest?cb=20180817141803)"
+        "value": "• [A map showing all Miniboss locations | Runescape Wiki](https://vignette.wikia.nocookie.net/runescape2/images/a/ab/Dragonkin_Laboratory_map.png/revision/latest?cb=20180817141803)"
       }
     ],
     "footer": {
@@ -765,7 +765,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[A map showing all notes locations | Runescape Wiki](https://vignette.wikia.nocookie.net/runescape2/images/a/ab/Dragonkin_Laboratory_map.png/revision/latest?cb=20180817141803)"
+        "value": "• [A map showing all notes locations | Runescape Wiki](https://vignette.wikia.nocookie.net/runescape2/images/a/ab/Dragonkin_Laboratory_map.png/revision/latest?cb=20180817141803)"
       }
     ],
     "footer": {
@@ -813,7 +813,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[A map showing all notes locations | Runescape Wiki](https://vignette.wikia.nocookie.net/runescape2/images/d/d6/Temple_of_Aminishi_map.png/revision/latest?cb=20180701160746)"
+        "value": "• [A map showing all notes locations | Runescape Wiki](https://vignette.wikia.nocookie.net/runescape2/images/d/d6/Temple_of_Aminishi_map.png/revision/latest?cb=20180701160746)"
       }
     ],
     "footer": {
@@ -1314,7 +1314,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[Completing All Raid Feats: How to Unlock Daredevil Title | UrgntJustice - YouTube](https://www.youtube.com/watch?v=Yc5jtymFRD4)"
+        "value": "• [Completing All Raid Feats: How to Unlock Daredevil Title | UrgntJustice - YouTube](https://www.youtube.com/watch?v=Yc5jtymFRD4)"
       }
     ],
     "footer": {
@@ -1347,7 +1347,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[Completing All Raid Feats: How to Unlock Daredevil Title | UrgntJustice - YouTube](https://www.youtube.com/watch?v=Yc5jtymFRD4)"
+        "value": "• [Completing All Raid Feats: How to Unlock Daredevil Title | UrgntJustice - YouTube](https://www.youtube.com/watch?v=Yc5jtymFRD4)"
       }
     ],
     "footer": {
@@ -1384,7 +1384,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[Completing All Raid Feats: How to Unlock Daredevil Title | UrgntJustice - YouTube](https://www.youtube.com/watch?v=Yc5jtymFRD4)"
+        "value": "• [Completing All Raid Feats: How to Unlock Daredevil Title | UrgntJustice - YouTube](https://www.youtube.com/watch?v=Yc5jtymFRD4)"
       }
     ],
     "footer": {
@@ -1413,7 +1413,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[Completing All Raid Feats: How to Unlock Daredevil Title | UrgntJustice - YouTube](https://www.youtube.com/watch?v=Yc5jtymFRD4)"
+        "value": "• [Completing All Raid Feats: How to Unlock Daredevil Title | UrgntJustice - YouTube](https://www.youtube.com/watch?v=Yc5jtymFRD4)"
       }
     ],
     "footer": {
@@ -1450,7 +1450,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[Completing All Raid Feats: How to Unlock Daredevil Title | UrgntJustice - YouTube](https://www.youtube.com/watch?v=Yc5jtymFRD4)"
+        "value": "• [Completing All Raid Feats: How to Unlock Daredevil Title | UrgntJustice - YouTube](https://www.youtube.com/watch?v=Yc5jtymFRD4)"
       }
     ],
     "footer": {
@@ -1483,7 +1483,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[Completing All Raid Feats: How to Unlock Daredevil Title | UrgntJustice - YouTube](https://www.youtube.com/watch?v=Yc5jtymFRD4)"
+        "value": "• [Completing All Raid Feats: How to Unlock Daredevil Title | UrgntJustice - YouTube](https://www.youtube.com/watch?v=Yc5jtymFRD4)"
       }
     ],
     "footer": {
@@ -1516,7 +1516,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[Completing All Raid Feats: How to Unlock Daredevil Title | UrgntJustice - YouTube](https://www.youtube.com/watch?v=Yc5jtymFRD4)"
+        "value": "• [Completing All Raid Feats: How to Unlock Daredevil Title | UrgntJustice - YouTube](https://www.youtube.com/watch?v=Yc5jtymFRD4)"
       }
     ],
     "footer": {
@@ -1548,7 +1548,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[Completing All Raid Feats: How to Unlock Daredevil Title | UrgntJustice - YouTube](https://www.youtube.com/watch?v=Yc5jtymFRD4)"
+        "value": "• [Completing All Raid Feats: How to Unlock Daredevil Title | UrgntJustice - YouTube](https://www.youtube.com/watch?v=Yc5jtymFRD4)"
       }
     ],
     "footer": {
@@ -1589,7 +1589,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[Completing All Raid Feats: How to Unlock Daredevil Title | UrgntJustice - YouTube](https://www.youtube.com/watch?v=Yc5jtymFRD4)"
+        "value": "• [Completing All Raid Feats: How to Unlock Daredevil Title | UrgntJustice - YouTube](https://www.youtube.com/watch?v=Yc5jtymFRD4)"
       }
     ],
     "footer": {
@@ -1622,7 +1622,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[Completing All Raid Feats: How to Unlock Daredevil Title | UrgntJustice - YouTube](https://www.youtube.com/watch?v=Yc5jtymFRD4)"
+        "value": "• [Completing All Raid Feats: How to Unlock Daredevil Title | UrgntJustice - YouTube](https://www.youtube.com/watch?v=Yc5jtymFRD4)"
       }
     ],
     "footer": {
@@ -1655,7 +1655,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[Completing All Raid Feats: How to Unlock Daredevil Title | UrgntJustice - YouTube](https://www.youtube.com/watch?v=Yc5jtymFRD4)"
+        "value": "• [Completing All Raid Feats: How to Unlock Daredevil Title | UrgntJustice - YouTube](https://www.youtube.com/watch?v=Yc5jtymFRD4)"
       }
     ],
     "footer": {
@@ -3279,7 +3279,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[New Varrock Task Set Full Run Guide | TheCompleteRS - YouTube](https://www.youtube.com/watch?v=PShlz5cPZKg)"
+        "value": "• [New Varrock Task Set Full Run Guide | TheCompleteRS - YouTube](https://www.youtube.com/watch?v=PShlz5cPZKg)"
       }
     ],
     "footer": {
@@ -3339,7 +3339,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[New Varrock Task Set Full Run Guide | TheCompleteRS - YouTube](https://www.youtube.com/watch?v=PShlz5cPZKg)"
+        "value": "• [New Varrock Task Set Full Run Guide | TheCompleteRS - YouTube](https://www.youtube.com/watch?v=PShlz5cPZKg)"
       }
     ],
     "footer": {
@@ -3363,7 +3363,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[New Varrock Task Set Full Run Guide | TheCompleteRS - YouTube](https://www.youtube.com/watch?v=PShlz5cPZKg)"
+        "value": "• [New Varrock Task Set Full Run Guide | TheCompleteRS - YouTube](https://www.youtube.com/watch?v=PShlz5cPZKg)"
       }
     ],
     "footer": {
@@ -3387,7 +3387,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[New Varrock Task Set Full Run Guide | TheCompleteRS - YouTube](https://www.youtube.com/watch?v=PShlz5cPZKg)"
+        "value": "• [New Varrock Task Set Full Run Guide | TheCompleteRS - YouTube](https://www.youtube.com/watch?v=PShlz5cPZKg)"
       }
     ],
     "footer": {
@@ -3411,7 +3411,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[New Varrock Task Set Full Run Guide | TheCompleteRS - YouTube](https://www.youtube.com/watch?v=PShlz5cPZKg)"
+        "value": "• [New Varrock Task Set Full Run Guide | TheCompleteRS - YouTube](https://www.youtube.com/watch?v=PShlz5cPZKg)"
       }
     ],
     "footer": {
@@ -3435,7 +3435,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[New Varrock Task Set Full Run Guide | TheCompleteRS - YouTube](https://www.youtube.com/watch?v=PShlz5cPZKg)"
+        "value": "• [New Varrock Task Set Full Run Guide | TheCompleteRS - YouTube](https://www.youtube.com/watch?v=PShlz5cPZKg)"
       }
     ],
     "footer": {
@@ -3459,7 +3459,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[New Varrock Task Set Full Run Guide | TheCompleteRS - YouTube](https://www.youtube.com/watch?v=PShlz5cPZKg)"
+        "value": "• [New Varrock Task Set Full Run Guide | TheCompleteRS - YouTube](https://www.youtube.com/watch?v=PShlz5cPZKg)"
       }
     ],
     "footer": {
@@ -3483,7 +3483,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[New Varrock Task Set Full Run Guide | TheCompleteRS - YouTube](https://www.youtube.com/watch?v=PShlz5cPZKg)"
+        "value": "• [New Varrock Task Set Full Run Guide | TheCompleteRS - YouTube](https://www.youtube.com/watch?v=PShlz5cPZKg)"
       }
     ],
     "footer": {
@@ -3507,7 +3507,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[New Varrock Task Set Full Run Guide | TheCompleteRS - YouTube](https://www.youtube.com/watch?v=PShlz5cPZKg)"
+        "value": "• [New Varrock Task Set Full Run Guide | TheCompleteRS - YouTube](https://www.youtube.com/watch?v=PShlz5cPZKg)"
       }
     ],
     "footer": {
@@ -3531,7 +3531,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[New Varrock Task Set Full Run Guide | TheCompleteRS - YouTube](https://www.youtube.com/watch?v=PShlz5cPZKg)"
+        "value": "• [New Varrock Task Set Full Run Guide | TheCompleteRS - YouTube](https://www.youtube.com/watch?v=PShlz5cPZKg)"
       }
     ],
     "footer": {
@@ -3555,7 +3555,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[New Varrock Task Set Full Run Guide | TheCompleteRS - YouTube](https://www.youtube.com/watch?v=PShlz5cPZKg)"
+        "value": "• [New Varrock Task Set Full Run Guide | TheCompleteRS - YouTube](https://www.youtube.com/watch?v=PShlz5cPZKg)"
       }
     ],
     "footer": {
@@ -3579,7 +3579,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[New Varrock Task Set Full Run Guide | TheCompleteRS - YouTube](https://www.youtube.com/watch?v=PShlz5cPZKg)"
+        "value": "• [New Varrock Task Set Full Run Guide | TheCompleteRS - YouTube](https://www.youtube.com/watch?v=PShlz5cPZKg)"
       }
     ],
     "footer": {
@@ -3603,7 +3603,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[New Varrock Task Set Full Run Guide | TheCompleteRS - YouTube](https://www.youtube.com/watch?v=PShlz5cPZKg)"
+        "value": "• [New Varrock Task Set Full Run Guide | TheCompleteRS - YouTube](https://www.youtube.com/watch?v=PShlz5cPZKg)"
       }
     ],
     "footer": {
@@ -3723,7 +3723,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[New Varrock Task Set Full Run Guide | TheCompleteRS - YouTube](https://www.youtube.com/watch?v=PShlz5cPZKg)"
+        "value": "• [New Varrock Task Set Full Run Guide | TheCompleteRS - YouTube](https://www.youtube.com/watch?v=PShlz5cPZKg)"
       }
     ],
     "footer": {
@@ -3747,7 +3747,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[New Varrock Task Set Full Run Guide | TheCompleteRS - YouTube](https://www.youtube.com/watch?v=PShlz5cPZKg)"
+        "value": "• [New Varrock Task Set Full Run Guide | TheCompleteRS - YouTube](https://www.youtube.com/watch?v=PShlz5cPZKg)"
       }
     ],
     "footer": {
@@ -3771,7 +3771,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[New Varrock Task Set Full Run Guide | TheCompleteRS - YouTube](https://www.youtube.com/watch?v=PShlz5cPZKg)"
+        "value": "• [New Varrock Task Set Full Run Guide | TheCompleteRS - YouTube](https://www.youtube.com/watch?v=PShlz5cPZKg)"
       }
     ],
     "footer": {
@@ -3795,7 +3795,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[New Varrock Task Set Full Run Guide | TheCompleteRS - YouTube](https://www.youtube.com/watch?v=PShlz5cPZKg)"
+        "value": "• [New Varrock Task Set Full Run Guide | TheCompleteRS - YouTube](https://www.youtube.com/watch?v=PShlz5cPZKg)"
       }
     ],
     "footer": {
@@ -3819,7 +3819,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[New Varrock Task Set Full Run Guide | TheCompleteRS - YouTube](https://www.youtube.com/watch?v=PShlz5cPZKg)"
+        "value": "• [New Varrock Task Set Full Run Guide | TheCompleteRS - YouTube](https://www.youtube.com/watch?v=PShlz5cPZKg)"
       }
     ],
     "footer": {
@@ -3843,7 +3843,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[New Varrock Task Set Full Run Guide | TheCompleteRS - YouTube](https://www.youtube.com/watch?v=PShlz5cPZKg)"
+        "value": "• [New Varrock Task Set Full Run Guide | TheCompleteRS - YouTube](https://www.youtube.com/watch?v=PShlz5cPZKg)"
       }
     ],
     "footer": {
@@ -3887,7 +3887,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[Arc I - Flag Fall Miniquest Guide | Runescape Wiki](http://runescape.wikia.com/wiki/Flag_Fall)"
+        "value": "• [Arc I - Flag Fall Miniquest Guide | Runescape Wiki](http://runescape.wikia.com/wiki/Flag_Fall)"
       }
     ],
     "footer": {
@@ -3931,7 +3931,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[Arc II - Head of the Family Miniquest Guide | Runescape Wiki](http://runescape.wikia.com/wiki/Head_of_the_Family)"
+        "value": "• [Arc II - Head of the Family Miniquest Guide | Runescape Wiki](http://runescape.wikia.com/wiki/Head_of_the_Family)"
       }
     ],
     "footer": {
@@ -3975,7 +3975,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[Arc III - Spiritual Enlightenment Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Spiritual_Enlightenment)"
+        "value": "• [Arc III - Spiritual Enlightenment Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Spiritual_Enlightenment)"
       }
     ],
     "footer": {
@@ -4019,7 +4019,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[Arc IV - Jed Hunter Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Jed_Hunter)"
+        "value": "• [Arc IV - Jed Hunter Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Jed_Hunter)"
       }
     ],
     "footer": {
@@ -4063,7 +4063,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[Arc IX - Damage Control Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Damage_Control)"
+        "value": "• [Arc IX - Damage Control Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Damage_Control)"
       }
     ],
     "footer": {
@@ -4107,7 +4107,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[Arc V - Eye for an Eye Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Eye_for_an_Eye)"
+        "value": "• [Arc V - Eye for an Eye Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Eye_for_an_Eye)"
       }
     ],
     "footer": {
@@ -4152,7 +4152,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[Arc VI - Harbinger of Doom Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Harbinger)"
+        "value": "• [Arc VI - Harbinger of Doom Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Harbinger)"
       }
     ],
     "footer": {
@@ -4196,7 +4196,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[Arc VII - Tuai Leit's Own Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Tuai_Leit%27s_Own)"
+        "value": "• [Arc VII - Tuai Leit's Own Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Tuai_Leit%27s_Own)"
       }
     ],
     "footer": {
@@ -4240,7 +4240,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[Arc VIII - Ghosts from the Past Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Ghosts_from_the_Past)"
+        "value": "• [Arc VIII - Ghosts from the Past Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Ghosts_from_the_Past)"
       }
     ],
     "footer": {
@@ -4284,7 +4284,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[Arc X - Final Destination Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Final_Destination)"
+        "value": "• [Arc X - Final Destination Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Final_Destination)"
       }
     ],
     "footer": {
@@ -5468,7 +5468,7 @@ exports.data = {
       "name": "RuneScore Achievement Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[A Wizard Did It](https://runescape.wikia.com/wiki/A_Wizard_Did_It) is an achievement that requires the player to talk to [Avalani](https://runescape.wikia.com/wiki/Avalani) while in the [Clan Camp](https://runescape.wikia.com/wiki/Clan_Camp), or in [Prifddinas](https://runescape.wikia.com/wiki/Prifddinas), to visit their own [Clan Citadel](https://runescape.wikia.com/wiki/Clan_Citadel) or one of another clan. After having entered any clan citadel, Avalani is located just west of the welcome area.\n\nA clan member's citadel can be accessed by using the portal in the [Clan Camp](https://runescape.wikia.com/wiki/Clan_Camp) area south of [Falador](https://runescape.wikia.com/wiki/Falador) or alternatively by using the clan portal in the [Tower of Voices](https://runescape.wikia.com/wiki/Tower_of_Voices) in [Prifddinas](https://runescape.wikia.com/wiki/Prifddinas).",
+    "description": "[A Wizard Did It](https://runescape.wikia.com/wiki/A_Wizard_Did_It) is an achievement that requires the player to talk to [Avalani](https://runescape.wikia.com/wiki/Avalani) while in their [Clan Camp](https://runescape.wikia.com/wiki/Clan_Camp), or one of another clan. After having entered any clan citadel, Avalani is located just west of the welcome area.\n\nA clan member's citadel can be accessed by using the portal in the [Clan Camp](https://runescape.wikia.com/wiki/Clan_Camp) area south of [Falador](https://runescape.wikia.com/wiki/Falador) or alternatively by using the clan portal in the [Tower of Voices](https://runescape.wikia.com/wiki/Tower_of_Voices) in [Prifddinas](https://runescape.wikia.com/wiki/Prifddinas).",
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/5/58/Clans_achievement_icon.png/revision/latest?cb=20180102225440"
     },
@@ -5487,7 +5487,7 @@ exports.data = {
       "name": "RuneScore Achievement Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Castles In The Sky](https://runescape.wikia.com/wiki/Castles_In_The_Sky) is an achievement that requires the player to use the portal in the [Clan Camp](https://runescape.wikia.com/wiki/Clan_Camp), or in [Prifddinas](https://runescape.wikia.com/wiki/Prifddinas), to visit their own [Clan Citadel](https://runescape.wikia.com/wiki/Clan_Citadel) or one of another clan.\n\nA clan member's citadel can be accessed by using the portal in the [Clan Camp](https://runescape.wikia.com/wiki/Clan_Camp) area south of [Falador](https://runescape.wikia.com/wiki/Falador) or alternatively by using the clan portal in the [Tower of Voices](https://runescape.wikia.com/wiki/Tower_of_Voices) in [Prifddinas](https://runescape.wikia.com/wiki/Prifddinas).",
+    "description": "[Castles In The Sky](https://runescape.wikia.com/wiki/Castles_In_The_Sky) is an achievement that requires the player to use the portal in the [Clan Camp](https://runescape.wikia.com/wiki/Clan_Camp), or in [Prifddinas](https://runescape.wikia.com/wiki/Prifddinas), to visit their own [Clan Citadel](https://runescape.wikia.com/wiki/Clan_Citadel) or one of another clan.\n\nA clan member's citadel can be accessed by using the portal in the [Clan Camp](https://runescape.wikia.com/wiki/Clan_Camp) area south of [Falador](https://runescape.wikia.com/wiki/Falador) or alternatively by using the clan portal in the [Tower of Voices](https://runescape.wikia.com/wiki/Tower_of_Voices) in Prifddinas.",
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/5/58/Clans_achievement_icon.png/revision/latest?cb=20180102225440"
     },
@@ -5506,7 +5506,7 @@ exports.data = {
       "name": "RuneScore Achievement Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Citadelementary](https://runescape.wikia.com/wiki/Citadelementary) that requires the player to open the [Clan Citadel](https://runescape.wikia.com/wiki/Clan_Citadel) interface by clicking on the replaced world map icon within a Clan Citadel. This only be done at the clan citadel of the clan that the player is a part of. It is not possible to do this while visiting another clan's citadel.\n\nA clan member's citadel can be accessed by using the portal in the [Clan Camp](https://runescape.wikia.com/wiki/Clan_Camp) area south of [Falador](https://runescape.wikia.com/wiki/Falador) or alternatively by using the clan portal in the [Tower of Voices](https://runescape.wikia.com/wiki/Tower_of_Voices) in [Prifddinas](https://runescape.wikia.com/wiki/Prifddinas).",
+    "description": "[Citadelementary](https://runescape.wikia.com/wiki/Citadelementary) that requires the player to open the [Clan Citadel](https://runescape.wikia.com/wiki/Clan_Citadel) interface by clicking on the replaced world map icon within a Clan Citadel. This can only be done at the clan citadel of the clan that the player is a part of. It is not possible to do this while visiting another clan's citadel.\n\nA clan member's citadel can be accessed by using the portal in the [Clan Camp](https://runescape.wikia.com/wiki/Clan_Camp) area south of [Falador](https://runescape.wikia.com/wiki/Falador) or alternatively by using the clan portal in the [Tower of Voices](https://runescape.wikia.com/wiki/Tower_of_Voices) in [Prifddinas](https://runescape.wikia.com/wiki/Prifddinas).",
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/5/58/Clans_achievement_icon.png/revision/latest?cb=20180102225440"
     },
@@ -5525,7 +5525,7 @@ exports.data = {
       "name": "RuneScore Achievement Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Faceless And Ready](https://runescape.wikia.com/wiki/Faceless_And_Ready) is an achievement that requires the player to talk to [Battlemaster](https://runescape.wikia.com/wiki/Battlemaster) while in the [Clan Camp](https://runescape.wikia.com/wiki/Clan_Camp), or in [Prifddinas](https://runescape.wikia.com/wiki/Prifddinas), to visit their own [Clan Citadel](https://runescape.wikia.com/wiki/Clan_Citadel) or one of another clan. Cross the bridge after entering the citadel and follow the cobblestone road until the battlemaster is encountered.\n\nA clan member's citadel can be accessed by using the portal in the [Clan Camp](https://runescape.wikia.com/wiki/Clan_Camp) area south of [Falador](https://runescape.wikia.com/wiki/Falador) or alternatively by using the clan portal in the [Tower of Voices](https://runescape.wikia.com/wiki/Tower_of_Voices) in [Prifddinas](https://runescape.wikia.com/wiki/Prifddinas).",
+    "description": "[Faceless And Ready](https://runescape.wikia.com/wiki/Faceless_And_Ready) is an achievement that requires the player to talk to [Battlemaster](https://runescape.wikia.com/wiki/Battlemaster) while in their [Clan Camp](https://runescape.wikia.com/wiki/Clan_Camp), or one of another clan.\n\n Once inside, cross the bridge after entering the citadel and follow the cobblestone road until the battlemaster is encountered.\n\nA clan member's citadel can be accessed by using the portal in the [Clan Camp](https://runescape.wikia.com/wiki/Clan_Camp) area south of [Falador](https://runescape.wikia.com/wiki/Falador) or alternatively by using the clan portal in the [Tower of Voices](https://runescape.wikia.com/wiki/Tower_of_Voices) in [Prifddinas](https://runescape.wikia.com/wiki/Prifddinas).",
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/5/58/Clans_achievement_icon.png/revision/latest?cb=20180102225440"
     },
@@ -5600,7 +5600,7 @@ exports.data = {
       "name": "RuneScore Achievement Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Open Bar](https://runescape.wikia.com/wiki/Open_Bar) is an achievement that requires players to speak to the [Drunken Dwarf](https://runescape.wikia.com/wiki/Drunken_Dwarf_(Keldagrim) in his house in the north-eastern side of [Keldagrim](https://runescape.wikia.com/wiki/Keldagrim) with 28 different [ales](https://runescape.wikia.com/wiki/Ale) in their inventory. As more than 28 different ales exist, it is not required to use all of them to obtain the achievement. The ales are kept after getting the achievement.\n\nThe easiest way to complete this achievement is to tag the **@Open Bar** role in this server, and a member will assist you as soon as they are available. Ensure you give these ales back when you are finished.",
+    "description": "[Open Bar](https://runescape.wikia.com/wiki/Open_Bar) is an achievement that requires players to speak to the [Drunken Dwarf](https://runescape.wikia.com/wiki/Drunken_Dwarf_(Keldagrim) in his house in the north-eastern side of [Keldagrim](https://runescape.wikia.com/wiki/Keldagrim) with 28 different [ales](https://runescape.wikia.com/wiki/Ale) in their inventory. As more than 28 different ales exist, it is not required to use all of them to obtain the achievement. The ales are kept after getting the achievement.\n\nThe easiest way to complete this achievement is to tag the <@466105019553546241> role in this server, and a member will assist you as soon as they are available. Ensure you give these ales back when you are finished and **do not** drink any.",
     "thumbnail": {
       "url": "https://i.imgur.com/Shmagnp.png"
     },
@@ -5619,7 +5619,7 @@ exports.data = {
       "name": "RuneScore Achievement Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Second Shrubbery](https://runescape.wikia.com/wiki/Second_Shrubbery) is an achievement that requires the player to use a [herring](https://runescape.wikia.com/wiki/Herring) or [raw herring](https://runescape.wikia.com/wiki/Raw_herring) on any [tree](https://runescape.wikia.com/wiki/Tree). To obtain herring, the player can either trade with another player, buy one on the [Grand Exchange](https://runescape.wikia.com/wiki/Grand_Exchange), or receive one from fishing in one of the listed [locations](https://runescape.wikia.com/wiki/Raw_herring#Fishing_locations).",
+    "description": "[Second Shrubbery](https://runescape.wikia.com/wiki/Second_Shrubbery) is an achievement that requires the player to use a [herring](https://runescape.wikia.com/wiki/Herring) or [raw herring](https://runescape.wikia.com/wiki/Raw_herring) on any [tree](https://runescape.wikia.com/wiki/Tree).\n\nTo obtain herring, the player can either trade with another player, buy one on the [Grand Exchange](https://runescape.wikia.com/wiki/Grand_Exchange), or receive one from fishing in one of the listed [locations](https://runescape.wikia.com/wiki/Raw_herring#Fishing_locations).",
     "thumbnail": {
       "url": "https://i.imgur.com/Shmagnp.png"
     },
@@ -5638,7 +5638,7 @@ exports.data = {
       "name": "RuneScore Achievement Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Seven Colours In Their Hat](https://runescape.wikia.com/wiki/Seven_Colours_In_Their_Hat) is an achievement that requires the player to show their [chromatic partyhat](https://runescape.wikia.com/wiki/Chromatic_partyhat_(Gielinor) to the [Wise Old Man](https://runescape.wikia.com/wiki/Wise_Old_Man). Showing a [keepsaked](https://runescape.wikia.com/wiki/Keepsake_key) version also works. The [chromatic partyhat](https://runescape.wikia.com/wiki/Chromatic_partyhat) is obtained from opening the [mystery gift](https://runescape.wikia.com/wiki/Mystery_gift), purchased from [Thessalia](https://runescape.wikia.com/wiki/Thessalia) for 200,000 [Zemomarks](https://runescape.wikia.com/wiki/Zemomark).\n\nThis achievement is completed in [New Varrock](https://runescape.wikia.com/wiki/New_Varrock). You must have started Dimension of Disaster to first gain access to the city. Upon starting the quest, [Gypsy Aris](https://runescape.wikia.com/wiki/Gypsy_Aris) will give you a [coin](https://runescape.wikia.com/wiki/Coin_(Dimension_of_Disaster) , which transforms into a [double-headed coin](https://runescape.wikia.com/wiki/Double-headed_coin) upon investigation. This special double-headed coin must be used on the fountain at the [center square of Varrock](https://runescape.wikia.com/wiki/Varrock_Square), which opens a portal through which you can enter New Varrock.",
+    "description": "[Seven Colours In Their Hat](https://runescape.wikia.com/wiki/Seven_Colours_In_Their_Hat) is an achievement that requires the player to show their [chromatic partyhat](https://runescape.wikia.com/wiki/Chromatic_partyhat_(Gielinor) to the [Wise Old Man](https://runescape.wikia.com/wiki/Wise_Old_Man). Showing a [keepsaked](https://runescape.wikia.com/wiki/Keepsake_key) version also works. The [chromatic partyhat](https://runescape.wikia.com/wiki/Chromatic_partyhat) is obtained from opening the [mystery gift](https://runescape.wikia.com/wiki/Mystery_gift), purchased from [Thessalia](https://runescape.wikia.com/wiki/Thessalia) for 200,000 [Zemomarks](https://runescape.wikia.com/wiki/Zemomark).\n\nThis achievement is completed in [New Varrock](https://runescape.wikia.com/wiki/New_Varrock). You must have started [Dimension of Disaster](https://runescape.wikia.com/wiki/Dimension_of_Disaster) to first gain access to the city. Upon starting the quest, [Gypsy Aris](https://runescape.wikia.com/wiki/Gypsy_Aris) will give you a [coin](https://runescape.wikia.com/wiki/Coin_(Dimension_of_Disaster), which transforms into a [double-headed coin](https://runescape.wikia.com/wiki/Double-headed_coin) upon investigation. This special double-headed coin must be used on the fountain at the [center square of Varrock](https://runescape.wikia.com/wiki/Varrock_Square), which opens a portal through which you can enter New Varrock.",
     "thumbnail": {
       "url": "https://i.imgur.com/Shmagnp.png"
     },
@@ -5648,7 +5648,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[80k+/hr zemomarks Guide | drunkpriest666 - YouTube](https://www.youtube.com/watch?v=5Fu8KjGEM0I)"
+        "value": "• [80k+/hr zemomarks Guide | drunkpriest666 - YouTube](https://www.youtube.com/watch?v=5Fu8KjGEM0I)"
       }
     ],
     "footer": {
@@ -5711,7 +5711,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[A Guild of Our Own Miniquest Guide | Runescape Wiki](https://runescape.wikia.com/wiki/A_Guild_of_Our_Own)"
+        "value": "• [A Guild of Our Own Miniquest Guide | Runescape Wiki](https://runescape.wikia.com/wiki/A_Guild_of_Our_Own)"
       }
     ],
     "footer": {
@@ -5755,7 +5755,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[Abyss Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Abyss_(miniquest%29)"
+        "value": "• [Abyss Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Abyss_(miniquest%29)"
       }
     ],
     "footer": {
@@ -5799,7 +5799,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[Rogue Trader Miniquest Guide | Runescape Wiki](http://runescape.wikia.com/wiki/Rogue_Trader)"
+        "value": "• [Rogue Trader Miniquest Guide | Runescape Wiki](http://runescape.wikia.com/wiki/Rogue_Trader)"
       }
     ],
     "footer": {
@@ -5843,7 +5843,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[Arc I - Flag Fall Miniquest Guide | Runescape Wiki](http://runescape.wikia.com/wiki/Flag_Fall)"
+        "value": "• [Arc I - Flag Fall Miniquest Guide | Runescape Wiki](http://runescape.wikia.com/wiki/Flag_Fall)"
       }
     ],
     "footer": {
@@ -5887,7 +5887,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[Arc II - Head of the Family Miniquest Guide | Runescape Wiki](http://runescape.wikia.com/wiki/Head_of_the_Family)"
+        "value": "• [Arc II - Head of the Family Miniquest Guide | Runescape Wiki](http://runescape.wikia.com/wiki/Head_of_the_Family)"
       }
     ],
     "footer": {
@@ -5931,7 +5931,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[Arc III - Spiritual Enlightenment Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Spiritual_Enlightenment)"
+        "value": "• [Arc III - Spiritual Enlightenment Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Spiritual_Enlightenment)"
       }
     ],
     "footer": {
@@ -5975,7 +5975,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[Arc IV - Jed Hunter Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Jed_Hunter)"
+        "value": "• [Arc IV - Jed Hunter Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Jed_Hunter)"
       }
     ],
     "footer": {
@@ -6019,7 +6019,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[Arc V - Eye for an Eye Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Eye_for_an_Eye)"
+        "value": "• [Arc V - Eye for an Eye Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Eye_for_an_Eye)"
       }
     ],
     "footer": {
@@ -6064,7 +6064,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[Arc VI - Harbinger of Doom Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Harbinger)"
+        "value": "• [Arc VI - Harbinger of Doom Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Harbinger)"
       }
     ],
     "footer": {
@@ -6108,7 +6108,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[Arc VII - Tuai Leit's Own Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Tuai_Leit%27s_Own)"
+        "value": "• [Arc VII - Tuai Leit's Own Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Tuai_Leit%27s_Own)"
       }
     ],
     "footer": {
@@ -6152,7 +6152,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[Arc VIII - Ghosts from the Past Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Ghosts_from_the_Past)"
+        "value": "• [Arc VIII - Ghosts from the Past Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Ghosts_from_the_Past)"
       }
     ],
     "footer": {
@@ -6196,7 +6196,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[Arc IX - Damage Control Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Damage_Control)"
+        "value": "• [Arc IX - Damage Control Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Damage_Control)"
       }
     ],
     "footer": {
@@ -6240,7 +6240,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[Arc X - Final Destination Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Final_Destination)"
+        "value": "• [Arc X - Final Destination Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Final_Destination)"
       }
     ],
     "footer": {
@@ -6260,31 +6260,31 @@ exports.data = {
     },
     "fields": [{
         "name": "Baloon Locations",
-        "value": "**Destination:** [Entrana](https://runescape.wikia.com/wiki/Entrana)\n\t**Inititial Trip Cost:** Build balloon (during Quest)\n\t**NPC:** [Auguste](https://runescape.wikia.com/wiki/Auguste)"
+        "value": "**Destination:** [Entrana](https://runescape.wikia.com/wiki/Entrana)\n\t• **Inititial Trip Cost:** Build balloon (during Quest)\n\t• **NPC:** [Auguste](https://runescape.wikia.com/wiki/Auguste)"
       },
       {
         "name": "​",
-        "value": "**Destination:** [Taverley](https://runescape.wikia.com/wiki/Taverley)\n\t**Inititial Trip Cost:** 10 normal [logs]() (during Quest)\n\t**NPC:** [Assistant Stan](https://runescape.wikia.com/wiki/Assistant_Stan)"
+        "value": "**Destination:** [Taverley](https://runescape.wikia.com/wiki/Taverley)\n\t• **Inititial Trip Cost:** 10 normal [logs](https://runescape.wikia.com/wiki/Logs) (during Quest)\n\t• **NPC:** [Assistant Stan](https://runescape.wikia.com/wiki/Assistant_Stan)"
       },
       {
         "name": "​",
-        "value": "**Destination:** [Crafting Guild](https://runescape.wikia.com/wiki/Crafting_Guild)\n\t**Inititial Trip Cost:** 10 [oak logs](https://runescape.wikia.com/wiki/Oak_logs)\n\t**NPC:** [Assistant Brock](https://runescape.wikia.com/wiki/Assistant_Brock)"
+        "value": "**Destination:** [Crafting Guild](https://runescape.wikia.com/wiki/Crafting_Guild)\n\t• **Inititial Trip Cost:** 10 [oak logs](https://runescape.wikia.com/wiki/Oak_logs)\n\t• **NPC:** [Assistant Brock](https://runescape.wikia.com/wiki/Assistant_Brock)"
       },
       {
         "name": "​",
-        "value": "**Destination:** [Varrock](https://runescape.wikia.com/wiki/Varrock) - south of [Lumber Yard](https://runescape.wikia.com/wiki/Lumber_Yard) \n\t**Inititial Trip Cost:** 10 [willow logs](https://runescape.wikia.com/wiki/Willow_logs)\n\t**NPC:** [Assistant Serf](https://runescape.wikia.com/wiki/Assistant_Serf)"
+        "value": "**Destination:** [Varrock](https://runescape.wikia.com/wiki/Varrock) - south of [Lumber Yard](https://runescape.wikia.com/wiki/Lumber_Yard) \n\t• **Inititial Trip Cost:** 10 [willow logs](https://runescape.wikia.com/wiki/Willow_logs)\n\t• **NPC:** [Assistant Serf](https://runescape.wikia.com/wiki/Assistant_Serf)"
       },
       {
         "name": "​",
-        "value": "**Destination:** [Castle Wars](https://runescape.wikia.com/wiki/Castle_Wars)\n\t**Inititial Trip Cost:** 10 [yew logs](https://runescape.wikia.com/wiki/Yew_logs)\n\t**NPC:** [Assistant Marrow](https://runescape.wikia.com/wiki/Assistant_Marrow)"
+        "value": "**Destination:** [Castle Wars](https://runescape.wikia.com/wiki/Castle_Wars)\n\t• **Inititial Trip Cost:** 10 [yew logs](https://runescape.wikia.com/wiki/Yew_logs)\n\t• **NPC:** [Assistant Marrow](https://runescape.wikia.com/wiki/Assistant_Marrow)"
       },
       {
         "name": "​",
-        "value": "**Destination:** [Grand Tree](https://runescape.wikia.com/wiki/Grand_Tree)\n\t**Inititial Trip Cost:** 10 [mahic logs](https://runescape.wikia.com/wiki/Magic_logs)\n\t**NPC:** [Assistant Le Smith](https://runescape.wikia.com/wiki/Assistant_Le_Smith)"
+        "value": "**Destination:** [Grand Tree](https://runescape.wikia.com/wiki/Grand_Tree)\n\t• **Inititial Trip Cost:** 10 [mahic logs](https://runescape.wikia.com/wiki/Magic_logs)\n\t• **NPC:** [Assistant Le Smith](https://runescape.wikia.com/wiki/Assistant_Le_Smith)"
       },
       {
         "name": "Balooning:",
-        "value": "• Each control always moves one \"space\" forward (horizontally to the right), and either up, down, or without change in altitude.\n• Drop sandbag: moves up two spaces (UP 2).\n• Burn log: moves up one space (UP 1).\n• Relax: moves forward (right), with no change in altitude (RIGHT).\n• Pull normal rope: moves down one space (DOWN 1).\n• Pull red rope: moves down two spaces (DOWN 2).\n• Bail: bails out the player from the balloon flight. (\"Crashes\" east of [Falador](http://runescape.wikia.com/wiki/Falador) and west of [Draynor Manor](runescape.wikia.com/wiki/Draynor_Manor).)"
+        "value": "• Each control always moves one \"space\" forward (horizontally to the right), and either up, down, or without change in altitude.\n• Drop sandbag: moves up two spaces (UP 2).\n• Burn log: moves up one space (UP 1).\n• Relax: moves forward (right), with no change in altitude (RIGHT).\n• Pull normal rope: moves down one space (DOWN 1).\n• Pull red rope: moves down two spaces (DOWN 2).\n• Bail: bails out the player from the balloon flight. (\"Crashes\" east of [Falador](http://runescape.wikia.com/wiki/Falador) and west of [Draynor Manor]((http://runescape.wikia.com/wiki/Draynor_Manor).)"
       },
       {
         "name": "Requirements:",
@@ -6292,7 +6292,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[Balloon Transport System Miniquest guide | CloudVidz - YouTube](https://www.youtube.com/watch?v=Zozu2woPVrw)"
+        "value": "• [Balloon Transport System Miniquest guide | CloudVidz - YouTube](https://www.youtube.com/watch?v=Zozu2woPVrw)"
       }
     ],
     "footer": {
@@ -6336,7 +6336,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[Enchanted Key Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Enchanted_key_(miniquest%29)"
+        "value": "• [Enchanted Key Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Enchanted_key_(miniquest%29)"
       }
     ],
     "footer": {
@@ -6392,7 +6392,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[Benedict's World Tour Scrapbook All 16 locations | skilled slayerz - YouTube](https://www.youtube.com/watch?v=k0HFVI6PWB4)"
+        "value": "• [Benedict's World Tour Scrapbook All 16 locations | skilled slayerz - YouTube](https://www.youtube.com/watch?v=k0HFVI6PWB4)"
       }
     ],
     "footer": {
@@ -6480,7 +6480,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[Benedict's World Tour Scrapbook All 16 locations | skilled slayerz - YouTube](https://www.youtube.com/watch?v=k0HFVI6PWB4)"
+        "value": "• [Benedict's World Tour Scrapbook All 16 locations | skilled slayerz - YouTube](https://www.youtube.com/watch?v=k0HFVI6PWB4)"
       }
     ],
     "footer": {
@@ -6504,7 +6504,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[Completionist Cape - Hunting Thalassus Guide | SirShowOff - YouTube](https://www.youtube.com/watch?v=wUxYUxN4I3c)"
+        "value": "• [Completionist Cape - Hunting Thalassus Guide | SirShowOff - YouTube](https://www.youtube.com/watch?v=wUxYUxN4I3c)"
       }
     ],
     "footer": {
@@ -6548,7 +6548,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[The Curse of Zaros Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/The_Curse_of_Zaros)"
+        "value": "• [The Curse of Zaros Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/The_Curse_of_Zaros)"
       }
     ],
     "footer": {
@@ -6592,7 +6592,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[From Tiny Acorns Miniquest Guide | Runescape Wiki](https://runescape.wikia.com/wiki/From_Tiny_Acorns)"
+        "value": "• [From Tiny Acorns Miniquest Guide | Runescape Wiki](https://runescape.wikia.com/wiki/From_Tiny_Acorns)"
       }
     ],
     "footer": {
@@ -6616,7 +6616,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[Ivandis Flail upgrading guide | Rogie - YouTube](https://www.youtube.com/watch?v=hlHZAmgh0eE)"
+        "value": "• [Ivandis Flail upgrading guide | Rogie - YouTube](https://www.youtube.com/watch?v=hlHZAmgh0eE)"
       }
     ],
     "footer": {
@@ -6660,7 +6660,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[Mahjarrat Memories Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Mahjarrat_Memories)"
+        "value": "• [Mahjarrat Memories Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Mahjarrat_Memories)"
       }
     ],
     "footer": {
@@ -6704,7 +6704,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[Koschei's Troubles Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Koschei%27s_Troubles)"
+        "value": "• [Koschei's Troubles Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Koschei%27s_Troubles)"
       }
     ],
     "footer": {
@@ -6756,7 +6756,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[Kudos | Runescape Wiki](http://runescape.wikia.com/wiki/Kudos)"
+        "value": "• [Kudos | Runescape Wiki](http://runescape.wikia.com/wiki/Kudos)"
       }
     ],
     "footer": {
@@ -6800,7 +6800,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[Lose Her Marbles Miniquest Guide | Runescape Wiki](https://runescape.wikia.com/wiki/Lost_Her_Marbles)"
+        "value": "• [Lose Her Marbles Miniquest Guide | Runescape Wiki](https://runescape.wikia.com/wiki/Lost_Her_Marbles)"
       }
     ],
     "footer": {
@@ -6896,7 +6896,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[The Lost Toys Miniquest Guide | Runescape Wiki](http://runescape.wikia.com/wiki/The_Lost_Toys)"
+        "value": "• [The Lost Toys Miniquest Guide | Runescape Wiki](http://runescape.wikia.com/wiki/The_Lost_Toys)"
       }
     ],
     "footer": {
@@ -6940,7 +6940,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[Barbarian Training guide | Runescape Wiki](http://runescape.wikia.com/wiki/Barbarian_Training)"
+        "value": "• [Barbarian Training guide | Runescape Wiki](http://runescape.wikia.com/wiki/Barbarian_Training)"
       }
     ],
     "footer": {
@@ -6984,7 +6984,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[Morge Miniquest guide | Runescape Wiki](https://runescape.wikia.com/wiki/Mogre_(miniquest)"
+        "value": "• [Morge Miniquest guide | Runescape Wiki](https://runescape.wikia.com/wiki/Mogre_(miniquest)"
       }
     ],
     "footer": {
@@ -7028,7 +7028,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[In Memory of the Myreque Miniquest Guide | Runescape Wiki](http://runescape.wikia.com/wiki/In_Memory_of_the_Myreque)"
+        "value": "• [In Memory of the Myreque Miniquest Guide | Runescape Wiki](http://runescape.wikia.com/wiki/In_Memory_of_the_Myreque)"
       }
     ],
     "footer": {
@@ -7048,51 +7048,51 @@ exports.data = {
     },
     "fields": [{
         "name": "Memory Locations:",
-        "value": "Memory #1\n\t• **Location:** By the graves near the yew trees in [Edgeville](https://runescape.wikia.com/wiki/Edgeville), south of the bank."
+        "value": "**Memory #1**\n\t• **Location:** By the graves near the yew trees in [Edgeville](https://runescape.wikia.com/wiki/Edgeville), south of the bank."
       },
       {
         "name": "​",
-        "value": "Memory #2\n\t• **Location:** West of [Aubury's rune shop](https://runescape.wikia.com/wiki/Aubury%27s_Rune_Shop) in [Varrock](https://runescape.wikia.com/wiki/Varrock), east of the [Blue Moon Inn](https://runescape.wikia.com/wiki/Blue_Moon_Inn)."
+        "value": "**Memory #2**\n\t• **Location:** West of [Aubury's rune shop](https://runescape.wikia.com/wiki/Aubury%27s_Rune_Shop) in [Varrock](https://runescape.wikia.com/wiki/Varrock), east of the [Blue Moon Inn](https://runescape.wikia.com/wiki/Blue_Moon_Inn)."
       },
       {
         "name": "​",
-        "value": "Memory #3\n\t• **Location:** At the [Ourania altar](https://runescape.wikia.com/wiki/Ourania_Runecrafting_Altar), near the altar itself at the end of the tunnel."
+        "value": "**Memory #3**\n\t• **Location:** At the [Ourania altar](https://runescape.wikia.com/wiki/Ourania_Runecrafting_Altar), near the altar itself at the end of the tunnel."
       },
       {
         "name": "​",
-        "value": "Memory #4\n\t• **Location:** [Nomad's temple](https://runescape.wikia.com/wiki/Nomad%27s_temple) - enter the tent in the [Soul Wars](https://runescape.wikia.com/wiki/Soul_Wars) lobby area. After [Nomad's Elegy](https://runescape.wikia.com/wiki/Nomad%27s_Elegy) talk to [Zanik](https://runescape.wikia.com/wiki/Zanik) / [Zimberfizz ashes](https://runescape.wikia.com/wiki/Zimberfizz_ashes) about the [soul obelisk](https://runescape.wikia.com/wiki/Soul_obelisk_(Soul_Wars) to re-enter."
+        "value": "**Memory #4**\n\t• **Location:** [Nomad's temple](https://runescape.wikia.com/wiki/Nomad%27s_temple) - enter the tent in the [Soul Wars](https://runescape.wikia.com/wiki/Soul_Wars) lobby area. After [Nomad's Elegy](https://runescape.wikia.com/wiki/Nomad%27s_Elegy) talk to [Zanik](https://runescape.wikia.com/wiki/Zanik) / [Zimberfizz ashes](https://runescape.wikia.com/wiki/Zimberfizz_ashes) about the [soul obelisk](https://runescape.wikia.com/wiki/Soul_obelisk_(Soul_Wars) to re-enter."
       },
       {
         "name": "​",
-        "value": "Memory #5\n\t• **Location:** In [Dragith Nurn](https://runescape.wikia.com/wiki/Dragith_Nurn)'s chamber at the end of the [Lumbridge Catacombs](https://runescape.wikia.com/wiki/Lumbridge_Catacombs)."
+        "value": "**Memory #5**\n\t• **Location:** In [Dragith Nurn](https://runescape.wikia.com/wiki/Dragith_Nurn)'s chamber at the end of the [Lumbridge Catacombs](https://runescape.wikia.com/wiki/Lumbridge_Catacombs)."
       },
       {
         "name": "​",
-        "value": "Memory #6\n\t• **Location:** Near the small guard house just outside of the east gate in to Varrock."
+        "value": "**Memory #6**\n\t• **Location:** Near the small guard house just outside of the east gate in to Varrock."
       },
       {
         "name": "​",
-        "value": "Memory #7\n\t• **Location:** Between the two graveyards in the Soul Wars lobby."
+        "value": "**Memory #7**\n\t• **Location:** Between the two graveyards in the Soul Wars lobby."
       },
       {
         "name": "​",
-        "value": "Memory #8\n\t• **Location:** Nomad's temple - enter the tent in the Soul Wars lobby area. After Nomad's Elegy talk to Zanik/Zimberfizz ashes about the soul obelisk to re-enter."
+        "value": "**Memory #8**\n\t• **Location:** Nomad's temple - enter the tent in the Soul Wars lobby area. After Nomad's Elegy talk to Zanik/Zimberfizz ashes about the soul obelisk to re-enter."
       },
       {
         "name": "​",
-        "value": "Memory #9\n\t• **Location:** [Falador castle](https://runescape.wikia.com/wiki/White_Knights%27_Castle) courtyard, in the south-west area."
+        "value": "**Memory #9**\n\t• **Location:** [Falador castle](https://runescape.wikia.com/wiki/White_Knights%27_Castle) courtyard, in the south-west area."
       },
       {
         "name": "​",
-        "value": "Memory #10\n\t• **Location:** Just west of the entrance to the [Black Knight's Fortress](https://runescape.wikia.com/wiki/Black_Knights'_Fortress)."
+        "value": "**Memory #10**\n\t• **Location:** Just west of the entrance to the [Black Knight's Fortress](https://runescape.wikia.com/wiki/Black_Knights'_Fortress)."
       },
       {
         "name": "​",
-        "value": "Memory #11\n\t• **Location:** Near the [incandescent wisps](https://runescape.wikia.com/wiki/Incandescent_wisp) south of the [poison wastes](https://runescape.wikia.com/wiki/Poison_Waste) - on the northern shore, slightly west of the crater."
+        "value": "**Memory #11**\n\t• **Location:** Near the [incandescent wisps](https://runescape.wikia.com/wiki/Incandescent_wisp) south of the [poison wastes](https://runescape.wikia.com/wiki/Poison_Waste) - on the northern shore, slightly west of the crater."
       },
       {
         "name": "​",
-        "value": "Memory #12\n\t• **Location:** Return to the underworld where the miniquest started."
+        "value": "**Memory #12**\n\t• **Location:** Return to the underworld where the miniquest started."
       },
       {
         "name": "Start Point:",
@@ -7164,7 +7164,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[Returning Clarence Miniquest Guide | Runescape Wiki](http://runescape.wikia.com/wiki/Returning_Clarence)"
+        "value": "• [Returning Clarence Miniquest Guide | Runescape Wiki](http://runescape.wikia.com/wiki/Returning_Clarence)"
       }
     ],
     "footer": {
@@ -7178,7 +7178,7 @@ exports.data = {
       "name": "RuneScore Achievement Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Pious Prayers](http://runescape.wikia.com/wiki/Pious_Prayers) is an achievement that requires the player to unlock [Chivalry](https://runescape.wikia.com/wiki/Chivalry), [Piety](https://runescape.wikia.com/wiki/Piety), [Rigour](https://runescape.wikia.com/wiki/Rigour), and [Augury](https://runescape.wikia.com/wiki/Augury) by completing the [Knight Waves training ground](https://runescape.wikia.com/wiki/Knight_Waves_training_ground) after [King's Ransom](https://runescape.wikia.com/wiki/King%27s_Ransom).\n\nThe Knight Waves training ground, also known as the \"Camelot training room\", is a miniquest located on the top floor of [Camelot](https://runescape.wikia.com/wiki/Camelot) castle.\n\nPlayers must successfully defeat the eight Knights of the Round Table. Players are allowed to use any style of combat, however Summoning, Prayer, binds and stuns are not allowed and will not work. As well as doing damage, each knight drains certain combat stats by 5 upon hitting the player. Each knight is harder than the preceding one and will hit more accurately, thereby draining combat stats faster.",
+    "description": "[Pious Prayers](http://runescape.wikia.com/wiki/Pious_Prayers) is an achievement that requires the player to unlock [Chivalry](https://runescape.wikia.com/wiki/Chivalry), [Piety](https://runescape.wikia.com/wiki/Piety), [Rigour](https://runescape.wikia.com/wiki/Rigour), and [Augury](https://runescape.wikia.com/wiki/Augury) by completing the [Knight Waves training ground](https://runescape.wikia.com/wiki/Knight_Waves_training_ground) after [King's Ransom](https://runescape.wikia.com/wiki/King%27s_Ransom).\n\nThe Knight Waves training ground, also known as the \"Camelot training room\", is a miniquest located on the top floor of [Camelot](https://runescape.wikia.com/wiki/Camelot) castle.\n\nPlayers must successfully defeat the eight Knights of the Round Table. Players are allowed to use any style of combat, however Summoning, [prayers](https://runescape.wikia.com/wiki/Category:Standard_Prayers), [ancient curses](https://runescape.wikia.com/wiki/Ancient_Curses), [binds](https://runescape.wikia.com/wiki/Bind), and [stuns](https://runescape.wikia.com/wiki/Stun) are not allowed and will not work. As well as doing damage, each knight drains certain combat stats by 5 upon hitting the player. Each knight is harder than the preceding one and will hit more accurately, thereby draining combat stats faster.",
     "thumbnail": {
       "url": "https://i.imgur.com/Shmagnp.png"
     },
@@ -7208,7 +7208,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[Knight Waves Training Ground Guide | Runescape Wiki](http://runescape.wikia.com/wiki/Knight_Waves_training_ground)"
+        "value": "• [Knight Waves Training Ground Guide | Runescape Wiki](http://runescape.wikia.com/wiki/Knight_Waves_training_ground)"
       }
     ],
     "footer": {
@@ -7240,7 +7240,7 @@ exports.data = {
       },
       {
         "name": "Items Required:",
-        "value": "• Scabaras research (It can be found in the [bookcase](https://runescape.wikia.com/wiki/Bookcase) of a [Player-owned house](https://runescape.wikia.com/wiki/Player-owned_house) listed under `My Notes` with a subtitle: `Dealing With Scabaras`. There is another book in the bookcase with the title `My Notes` pertaining to 'Discoveries from the ancient cavern beneath the lake.')"
+        "value": "• Scabaras research. Note, it can be found in the [bookcase](https://runescape.wikia.com/wiki/Bookcase) of a [Player-owned house](https://runescape.wikia.com/wiki/Player-owned_house) listed under **My Notes** with a subtitle: **Dealing With Scabaras**. There is another book in the bookcase with the title **My Notes** pertaining to **Discoveries from the ancient cavern beneath the lake.**"
       },
       {
         "name": "Enemies to Defeat:",
@@ -7252,7 +7252,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[Scabarite Notes Collection guide | Rogie - YouTube](https://www.youtube.com/watch?v=8rz821vlUsw)"
+        "value": "• [Scabarite Notes Collection guide | Rogie - YouTube](https://www.youtube.com/watch?v=8rz821vlUsw)"
       }
     ],
     "footer": {
@@ -7296,7 +7296,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[Sheep Shearer Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Sheep_Shearer)"
+        "value": "• [Sheep Shearer Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Sheep_Shearer)"
       }
     ],
     "footer": {
@@ -7468,7 +7468,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[Stronghold of Player Safety Map and Chest location | Runescape Wiki](https://runescape.wikia.com/wiki/Map:Stronghold_of_Player_Safety)"
+        "value": "• [Stronghold of Player Safety Map and Chest location | Runescape Wiki](https://runescape.wikia.com/wiki/Map:Stronghold_of_Player_Safety)"
       }
     ],
     "footer": {
@@ -7508,7 +7508,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[Stronghold of Security Map and Chest locations | Runescape Wiki](https://runescape.wikia.com/wiki/File:Stronghold_of_Security_map.png)"
+        "value": "• [Stronghold of Security Map and Chest locations | Runescape Wiki](https://runescape.wikia.com/wiki/File:Stronghold_of_Security_map.png)"
       }
     ],
     "footer": {
@@ -7552,7 +7552,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[The Lair of Tarn Razorlor Miniquest Guide | Runescape Wiki](http://runescape.wikia.com/wiki/The_Lair_of_Tarn_Razorlor)"
+        "value": "• [The Lair of Tarn Razorlor Miniquest Guide | Runescape Wiki](http://runescape.wikia.com/wiki/The_Lair_of_Tarn_Razorlor)"
       }
     ],
     "footer": {
@@ -7596,7 +7596,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[The General's Shadow guide | Runescape Wiki](https://runescape.wikia.com/wiki/The_General%27s_Shadow)"
+        "value": "• [The General's Shadow guide | Runescape Wiki](https://runescape.wikia.com/wiki/The_General%27s_Shadow)"
       }
     ],
     "footer": {
@@ -7640,7 +7640,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[Chaos Tunnels: The Hunt for Surok guide | Runescape Wiki](https://runescape.wikia.com/wiki/Chaos_Tunnels:_The_Hunt_for_Surok)"
+        "value": "• [Chaos Tunnels: The Hunt for Surok guide | Runescape Wiki](https://runescape.wikia.com/wiki/Chaos_Tunnels:_The_Hunt_for_Surok)"
       }
     ],
     "footer": {
@@ -7684,7 +7684,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[Fight Kiln guide | Runescape Wiki](http://runescape.wikia.com/wiki/TzHaar-Ga%27al-Kot)"
+        "value": "• [Fight Kiln guide | Runescape Wiki](http://runescape.wikia.com/wiki/TzHaar-Ga%27al-Kot)"
       }
     ],
     "footer": {
@@ -7728,7 +7728,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[Doric and Boric Tasks Guide | Runescape Wiki](http://runescape.wikia.com/wiki/Doric_and_Boric_tasks)"
+        "value": "• [Doric and Boric Tasks Guide | Runescape Wiki](http://runescape.wikia.com/wiki/Doric_and_Boric_tasks)"
       }
     ],
     "footer": {
@@ -7772,7 +7772,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[Witch's Potion guide | Runescape Wiki](http://runescape.wikia.com/wiki/Witch%27s_Potion)"
+        "value": "• [Witch's Potion guide | Runescape Wiki](http://runescape.wikia.com/wiki/Witch%27s_Potion)"
       }
     ],
     "footer": {
@@ -7816,7 +7816,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[Hopespear's Will Miniquest Guide | Runescape Wiki](http://runescape.wikia.com/wiki/Hopespear%27s_Will)"
+        "value": "• [Hopespear's Will Miniquest Guide | Runescape Wiki](http://runescape.wikia.com/wiki/Hopespear%27s_Will)"
       }
     ],
     "footer": {
@@ -8035,7 +8035,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "[Hall of Memories Guide | Maikeru RS - YouTube](https://www.youtube.com/watch?v=IEr8GdCB4_4)"
+        "value": "• [Hall of Memories Guide | Maikeru RS - YouTube](https://www.youtube.com/watch?v=IEr8GdCB4_4)"
       }
     ],
     "footer": {
