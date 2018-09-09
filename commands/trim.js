@@ -30,19 +30,22 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 	if (!args[0]) return message.channel.send(`Please specify a valid achievement name.`);
 
 	if (args[0].toLowerCase() == "all" && level >= 2) {
-		let i = 0, o = 0, x = keyList.length;
-		function list() {
+		let i = 0, o = 0, x = keyList.length, errMsg = "";
+		async function list() {
 			const guide = data[keyList[o]].embed;
-			guide.author.name = name;
 			guide.color = color;
-			guide.timestamp = new Date();
-			message.channel.send("", {embed: guide});
+			if (guide.author.name) guide.author.name = name;
+			if (guide.timestamp) guide.timestamp = new Date();
+			try {
+				await message.channel.send("", {embed: guide});
+			} catch (err) {
+				errMsg += `${o}. ${keyList[o]} failed to send with error: ${err}\n`;
+				i--;
+			}
 			i++;
 			o++;
-			if (o < x) {
-				setTimeout(list, 2500);
-			}
-			if (o == x) message.reply(`**${i}**/\**${keyList.length}** responses listed.`);
+			if (o < x) setTimeout(list, 2500);
+			if (o == x) message.reply(`**${i}**/\**${keyList.length}** responses listed.\n\n${errMsg}`);
 		}
 		list();
 		return message.delete();
@@ -54,6 +57,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 		let third = "";
 		const helpEmbed = data["help"].embed;
 		keyList.forEach(k => {
+			if (!data[k].title) return;
 			if (output.length <= 2000) {
 				output += `• ${data[k].embed.title}\n`;
 			} else if (second.length <= 2000) {
@@ -89,10 +93,18 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 	}
 
 	keyList.forEach(k => {
-		if (RegExp(achName).test(k) && !rtnArr.includes(k)) rtnArr.push(k);
+		if (RegExp(achName).test(k) && !/\bpt\d/.test(k) && !rtnArr.includes(k)) rtnArr.push(k);
+		if (RegExp(achName).test(k) && /\bpt\d/.test(k)) {
+			const guide = data[k];
+			guide.color = color;
+			if (/\bpt1/.test(k)) guide.author.name = name;
+			if (guide.timestamp) guide.timestamp = new Date();
+			message.channel.send("", {embed: guide});
+			pt = "true";
+		}
 	});
 
-	if (rtnArr.length == 0) {
+	if (rtnArr.length == 0 && pt == "false") {
 		return message.channel.send(`No results found for **${args.join(" ")}**.`);
 	} else if (rtnArr.length == 1) {
 		const guide = data[rtnArr[0]].embed;
@@ -121,6 +133,8 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 		choice.color = color;
 		choice.timestamp = new Date();
 		return message.channel.send("", {embed: choice});
+	} else if (pt == "true") {
+		return;
 	} else {
 	message.channel.send("If you see this, contact <@97928972305707008>");
 	}
