@@ -150,7 +150,6 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 			const guide = data[k];
 			guide.color = color;
 			if (/\bpt1/.test(k)) guide.author.name = name;
-			if (guide.footer) guide.footer = footer;
 			if (guide.timestamp) guide.timestamp = new Date();
 			message.channel.send("", {embed: guide});
 			pt = "true";
