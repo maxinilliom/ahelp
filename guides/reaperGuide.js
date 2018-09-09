@@ -91,7 +91,7 @@ exports.data = {
                     "icon_url": "https://images-ext-2.discordapp.net/external/fkEkEkLF-5krIYVQdAOfYdvyUW4_mm6xFLacYDdGYpw/%3Fcb%3D20171023212914/https/vignette.wikia.nocookie.net/runescape2/images/c/c9/The_Reaper.png/revision/latest",
                     "text": "Remember, all first time reaper kills are free in #reaper-request-list"
                 },
-                "timestamp": new Date()
+                "timestamp": "2001-01-04T12:00:00Z"
             },
     "astellarn": {
             "title": "Astellarn",
@@ -132,9 +132,10 @@ exports.data = {
             "footer": {
                 "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/b/b8/Reaper_points.png/revision/latest?cb=20160606215136",
                 "text": "Remember, all first time reaper kills are free in #reaper-request-list"
-            }
+            },
+                "timestamp": "2001-01-04T12:00:00Z"
         },
-    "barrows: rise of the six": {
+    "barrows: rise of the six pt1": {
                 "title": "Barrows: Rise of the Six",
                 "author": {
                     "name": "Boss Reaper Kill Info",
@@ -173,7 +174,11 @@ exports.data = {
                     {
                         "name": "Verac the Defiled",
                         "value": "• Verac's auto attacks have a 1/8 chance to ignore the target's armour.\n\n• **Soulspot:** Verac binds a player's soul to a specific place, which is marked by four green arrows. This will drain their prayer extremely quickly. To prevent this, they must move to the center of the bound spot. When done, the player restores some prayer points and prayer drain stops.\n\n• **Deathcopter:** Verac will use a charging animation when he signals this attack. If any of the Brothers help Verac within 20 seconds, he will track a player with his flail, which acts similar the [Hurricane](https://runescape.wikia.com/wiki/Hurricane) attack. This won't occur if he is the only brother standing on his side, and most brothers don't help Verac perform the attack."
-                    },
+                    }
+      ]
+    },
+    "barrows: rise of the six pt2": {
+              "fields": [
                     {
                         "name": "Guthan the Infested",
                         "value": "• Guthan has a 1/8 chance to heal with his auto attacks. Damage healed is equal to damage done.\n\n• **Impale:** Guthan throws his warspear at a player who he is not attacking on his side. His primary target will receive the message \"Guthan prepares to throw his spear!\", while the other player will receive the message \"Guthan throws his spear at you!\" The targeted player will suffer 400-500 damage per tick until the warspear is given back to him. Guthan will attack his target by punching, and loses access to his special attacks. When the impaled player is next to Guthan, he will rip his spear out of them and deal 1,000 unblockable damage."
@@ -187,10 +192,8 @@ exports.data = {
                         "value": "• When Torag hits with an auto attack, there is a 1/8 chance that the target's adrenaline is reduced by 5%.\n\n• **Whack:** Torag smashes his target into the ground, and the player will be unable to move away or use abilities while being pummeled for 250 damage quickly. This attack also rapidly resets most [defensive](https://runescape.wikia.com/wiki/Abilities#Defence) [abilities](https://runescape.wikia.com/wiki/Abilities). To rescue the trapped player, the other player must deal 5,000 damage onto Torag before he will let go of his target. While Torag is pummeling the player, damage dealt to him during the animation will not affect his health."
                     }
                 ],
-                "footer": {
-                    "icon_url": "https://images-ext-2.discordapp.net/external/fkEkEkLF-5krIYVQdAOfYdvyUW4_mm6xFLacYDdGYpw/%3Fcb%3D20171023212914/https/vignette.wikia.nocookie.net/runescape2/images/c/c9/The_Reaper.png/revision/latest",
-                    "text": "Remember, all first time reaper kills are free in #reaper-request-list"
-                }
+                "footer": {},
+                "timestamp": "2001-01-04T12:00:00Z"
             },
     "beastmaster durzag": {
                 "title": "Beastmaster Durzag",
@@ -232,7 +235,8 @@ exports.data = {
                 "footer": {
                     "icon_url": "https://images-ext-2.discordapp.net/external/fkEkEkLF-5krIYVQdAOfYdvyUW4_mm6xFLacYDdGYpw/%3Fcb%3D20171023212914/https/vignette.wikia.nocookie.net/runescape2/images/c/c9/The_Reaper.png/revision/latest",
                     "text": "Remember, all first time reaper kills are free in #reaper-request-list"
-                }
+                },
+                "timestamp": "2001-01-04T12:00:00Z"
             },
     "black stone dragon": {
             "title": "Black stone dragon",
@@ -277,7 +281,8 @@ exports.data = {
             "footer": {
                 "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/b/b8/Reaper_points.png/revision/latest?cb=20160606215136",
                 "text": "Remember, all first time reaper kills are free in #reaper-request-list"
-            }
+            },
+                "timestamp": "2001-01-04T12:00:00Z"
         },
     "chaos elemental": {
                 "title": "Chaos Elemental",
@@ -322,7 +327,8 @@ exports.data = {
                 "footer": {
                     "icon_url": "https://images-ext-2.discordapp.net/external/fkEkEkLF-5krIYVQdAOfYdvyUW4_mm6xFLacYDdGYpw/%3Fcb%3D20171023212914/https/vignette.wikia.nocookie.net/runescape2/images/c/c9/The_Reaper.png/revision/latest",
                     "text": "Remember, all first time reaper kills are free in #reaper-request-list"
-                }
+                },
+                "timestamp": "2001-01-04T12:00:00Z"
             },
     "commander zilyana": {  
       "title":"Commander Zilyana",
@@ -359,7 +365,12 @@ exports.data = {
             "name":"Minions:",
             "value":"Zilyana has 3 bodyguards: [Starlight](https://runescape.wikia.com/wiki/Starlight), [Growler](https://runescape.wikia.com/wiki/Growler), and [Bree](https://runescape.wikia.com/wiki/Bree). Each of them has 7,500 life points and are, respectively, weak to Magic, Ranged, and Melee. Players shouldn't worry about them too much since they don't deal much damage and can be easily eliminated with area of effect [abilities](https://runescape.wikia.com/wiki/Abilities)."
          }
-      ]
+      ],
+        "footer": {
+            "icon_url": "https://images-ext-2.discordapp.net/external/fkEkEkLF-5krIYVQdAOfYdvyUW4_mm6xFLacYDdGYpw/%3Fcb%3D20171023212914/https/vignette.wikia.nocookie.net/runescape2/images/c/c9/The_Reaper.png/revision/latest",
+            "text": "Remember, all first time reaper kills are free in #reaper-request-list"
+        },
+        "timestamp": "2001-01-04T12:00:00Z"
    },
     "Corporeal Beast": {
                 "title": "Corporeal Beast",
@@ -396,7 +407,8 @@ exports.data = {
                 "footer": {
                     "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/b/b8/Reaper_points.png/revision/latest?cb=20160606215136",
                     "text": "Remember, all first time reaper kills are free in #reaper-request-list"
-                }
+                },
+        "timestamp": "2001-01-04T12:00:00Z"
             },
     "dagannoth kings": {
                 "title": "Dagannoth Kings",
@@ -437,7 +449,8 @@ exports.data = {
                 "footer": {
                     "icon_url": "https://images-ext-2.discordapp.net/external/fkEkEkLF-5krIYVQdAOfYdvyUW4_mm6xFLacYDdGYpw/%3Fcb%3D20171023212914/https/vignette.wikia.nocookie.net/runescape2/images/c/c9/The_Reaper.png/revision/latest",
                     "text": "Remember, all first time reaper kills are free in #reaper-request-list"
-                }
+                },
+        "timestamp": "2001-01-04T12:00:00Z"
             },
     "general graardor": {  
       "title":"General Graardor",
@@ -474,7 +487,12 @@ exports.data = {
             "name":"Minions:",
             "value":"Graardor has 3 bodyguards: [Sergeant Strongstack](https://runescape.wikia.com/wiki/Sergeant_Strongstack), [Sergeant Steelwill](https://runescape.wikia.com/wiki/Sergeant_Steelwill), and [Sergeant Grimspike](https://runescape.wikia.com/wiki/Sergeant_Grimspike). Each of them has 5,475 lifepoints and are, respectively, weak to Magic, Ranged. and Melee. Players shouldn't worry about them too much since they don't deal much damage and can be easily eliminated with area of effect [abilities](https://runescape.wikia.com/wiki/Abilities)."
          }
-      ]
+      ],
+                "footer": {
+                    "icon_url": "https://images-ext-2.discordapp.net/external/fkEkEkLF-5krIYVQdAOfYdvyUW4_mm6xFLacYDdGYpw/%3Fcb%3D20171023212914/https/vignette.wikia.nocookie.net/runescape2/images/c/c9/The_Reaper.png/revision/latest",
+                    "text": "Remember, all first time reaper kills are free in #reaper-request-list"
+                },
+        "timestamp": "2001-01-04T12:00:00Z"
    },
     "giant mole": {
                 "title": "Giant Mole",
@@ -531,7 +549,8 @@ exports.data = {
                 "footer": {
                     "icon_url": "https://images-ext-2.discordapp.net/external/fkEkEkLF-5krIYVQdAOfYdvyUW4_mm6xFLacYDdGYpw/%3Fcb%3D20171023212914/https/vignette.wikia.nocookie.net/runescape2/images/c/c9/The_Reaper.png/revision/latest",
                     "text": "Remember, all first time reaper kills are free in #reaper-request-list"
-                }
+                },
+        "timestamp": "2001-01-04T12:00:00Z"
             },
     "gregorovic": {
                 "title": "Gregorovic",
@@ -572,7 +591,8 @@ exports.data = {
                 "footer": {
                     "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/b/b8/Reaper_points.png/revision/latest?cb=20160606215136",
                     "text": "Remember, all first time reaper kills are free in #reaper-request-list"
-                }
+                },
+        "timestamp": "2001-01-04T12:00:00Z"
             },
     "har-aken": {  
       "title":"Har-Aken",
@@ -609,7 +629,12 @@ exports.data = {
            "name":"​",
            "value":"If using a combat style other than magic, it is suggested that damage increasing abilities such as [berserk](http://runescape.wikia.com/wiki/Berserk) (melee) or [death's swiftness](http://runescape.wikia.com/wiki/Death's_Swiftness) (ranged) be used whenever the head pops up in order to deal more damage. Before using Berserk, however, the player should make certain that there is a low amount of tentacles within attacking range to avoid taking heavy damage.\n\nA [Pack Yak](http://runescape.wikia.com/wiki/Pack_yak_) can be used for carrying more supplies if the player is inexperienced. For optimal kill speeds, a [Steel titan](http://runescape.wikia.com/wiki/Steel_titan) should be used once the player becomes comfortable with using less food.\n\nThere are various monsters weak to melee and ranged in the previous waves, so it is highly recommended to bring all three combat styles to clear the waves faster before facing Har-Aken with magic."
        }
-    ]
+    ],
+                "footer": {
+                    "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/b/b8/Reaper_points.png/revision/latest?cb=20160606215136",
+                    "text": "Remember, all first time reaper kills are free in #reaper-request-list"
+                },
+        "timestamp": "2001-01-04T12:00:00Z"
   },
     "helwyr": {
             "title": "Helwyr",
@@ -650,7 +675,8 @@ exports.data = {
             "footer": {
                 "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/c/c9/The_Reaper.png/revision/latest?cb=20171023212914",
                 "text": "Remember, all first time reaper kills are free in #reaper-request-list"
-            }
+            },
+        "timestamp": "2001-01-04T12:00:00Z"
         },
     "k'ril tsutsaroth": {
             "title": "K'ril Tsutsaroth",
@@ -691,7 +717,8 @@ exports.data = {
             "footer": {
                 "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/c/c9/The_Reaper.png/revision/latest?cb=20171023212914",
                 "text": "Remember, all first time reaper kills are free in #reaper-request-list"
-            }
+            },
+        "timestamp": "2001-01-04T12:00:00Z"
         },
     "kalphite king": {
             "title": "Kalphite King",
@@ -731,8 +758,12 @@ exports.data = {
                 {
                     "name": "Other Attacks and Abilities:",
                     "value": "• **Beetlejuice**: The King charges up and splatters his target with a green goo, stunning and binding them. He will then proceed to lunge at his target for up to 32,000 damage, often resulting in an instant-kill unless the King is [provoked](https://runescape.wikia.com/wiki/Provoke) to another player.\n\n• **Marauders**: The King will spawn a group of [Exiled kalphite marauders](https://runescape.wikia.com/wiki/Exiled_kalphite_marauder) (level 107). If standing on top of the marauders when they spawn, you can take from 400-600 damage from each one, and is classified as a melee attack, which will reflect on the minion if the player uses Protect/Deflect Melee.\n\n• **Digging**: The King will dig into the sand and re-appear under the player it is targeting. The targeted player must get away from the King otherwise they will be knocked back and be dealt with up to 5,000 life point's worth of damage. This attack will override all damage reducing abilities."
-                },
-                {
+                }
+            ]
+        },
+    "kalphite king pt2": {
+              "fields": [
+                    {
                     "name": "​",
                     "value": "• **Combat Changing**: The King will change its wings randomly throughout the fight. The colors of its wings correspond to its main attacking style.\n\n• **Healing Auras**:\n\t- Red: The King will sometimes be surrounded by a red aura, causing any attacks done by it to heal it by the amount it would have hit if no protection prayers or other damage reduction buffs were in effect.\n\t- Green: The King will surround itself with a green aura, making it heal instead of taking damage for the duration of the aura.\n\n• **Barricade**: Using the ultimate ability [Frenzy](http://runescape.wikia.com/wiki/Frenzy) or [Unload](http://runescape.wikia.com/wiki/Unload) will cause the King to use the defensive ultimate ability [Barricade](http://runescape.wikia.com/wiki/Barricade), negating all damage received for 10 seconds."
                 },
@@ -741,11 +772,9 @@ exports.data = {
                     "value": "• **Immortality**: The King can use another defensive ultimate ability, [Immortality](http://runescape.wikia.com/wiki/Immortality) reviving the King with 35,000 life points remaining.\n\n• **Charge**: The King only uses this attack during his melee and magic phases. The attack is typeless and hits up to 3,600 damage."
                 }
             ],
-            "footer": {
-                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/b/b8/Reaper_points.png/revision/latest?cb=20160606215136",
-                "text": "Remember, all first time reaper kills are free in #reaper-request-list"
-            }
-        },
+                "footer": {},
+                "timestamp": "2001-01-04T12:00:00Z"
+            },
     "kalphite queen": {
                 "title": "Kalphite Queen",
                 "author": {
@@ -797,7 +826,8 @@ exports.data = {
                 "footer": {
                     "icon_url": "https://images-ext-2.discordapp.net/external/fkEkEkLF-5krIYVQdAOfYdvyUW4_mm6xFLacYDdGYpw/%3Fcb%3D20171023212914/https/vignette.wikia.nocookie.net/runescape2/images/c/c9/The_Reaper.png/revision/latest",
                     "text": "Remember, all first time reaper kills are free in #reaper-request-list"
-                }
+                },
+                "timestamp": "2001-01-04T12:00:00Z"
             },
     "king black dragon": {
                 "title": "King Black Dragon",
@@ -846,7 +876,8 @@ exports.data = {
                 "footer": {
                     "icon_url": "https://images-ext-2.discordapp.net/external/fkEkEkLF-5krIYVQdAOfYdvyUW4_mm6xFLacYDdGYpw/%3Fcb%3D20171023212914/https/vignette.wikia.nocookie.net/runescape2/images/c/c9/The_Reaper.png/revision/latest",
                     "text": "Remember, all first time reaper kills are free in #reaper-request-list"
-                }
+                },
+                "timestamp": "2001-01-04T12:00:00Z"
             },
     "kree'arra": {
             "title": "Kree'ara",
@@ -887,9 +918,10 @@ exports.data = {
             "footer": {
                 "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/c/c9/The_Reaper.png/revision/latest?cb=20171023212914",
                 "text": "Remember, all first time reaper kills are free in #reaper-request-list"
-            }
+            },
+                "timestamp": "2001-01-04T12:00:00Z"
         },
-    "legiones": {
+    "legiones pt1": {
             "title": "Legiones",
             "author": {
                 "name": "Boss Reaper Kill Info",
@@ -931,7 +963,11 @@ exports.data = {
                 {
                     "name": "Quartus' Special Attack:",
                     "value": "Legio Quartus' unique ability is teleporting the player next to him when he reaches 75%, 50% and 25% life points and launching an additional lightning attack at/around the spot he teleported the player, in addition to his regular attacks.\n\nThis act can be seen as both a benefit or threat. If the player is very far from Quartus, being teleported nearby should not have much of an effect to their life points. However, being nearby may cause the player to be stuck for a few ticks inside an orb attack, proving dangerous to be in. With this, as soon as the player is teleported, immediately run away before the orb attack hits you."
-                },
+                }
+            ]
+        },
+    "legiones pt2": {
+              "fields": [
                 {
                     "name": "Quintus' Special Attack:",
                     "value": "Legio Quintus' unique ability is summoning \"Lines of Ascension\" in the laboratory when he reaches 75%, 50% and 25% life points. This is very dangerous and makes Quintus possibly the most tedious to fight for inexperienced players as death is a much higher possibility due to limiting the player's space to avoid orb attacks, in addition to dealing much more damage than them.\n\nThe first and third lines he summons will run horizontally, while the second line runs vertically.\n\nStepping on one of these lines will deal incredibly heavy damage, more than the lighting strike in terms of individual damage. However, it only hits once if you step across the line. Unless using [Devotion](http://runescape.wikia.com/wiki/Devotion), you'll be forced to move to avoid being electrocuted by the lightning attack."
@@ -941,11 +977,9 @@ exports.data = {
                     "value": "Legio Sextus' unique ability is a longer lasting and larger radius lightning orb attack that occurs with a lowered amount of life points. He also does not use the regular magic attack unlike the other Legio. This should be kept in mind while running around; doing so in an erratic way is not advised as the larger radius and prolonged duration will probably end up killing the player.\n\nAn aggressive [familiar](https://runescape.wikia.com/wiki/Summoning_familiars) can be used to distract Sextus. However, multiple pouches may be required as he can hit very hard and often against them. Despite this, Sextus is generally straightforward to kill, like Primus."
                 }
             ],
-            "footer": {
-                "icon_url": "https://images-ext-2.discordapp.net/external/fkEkEkLF-5krIYVQdAOfYdvyUW4_mm6xFLacYDdGYpw/%3Fcb%3D20171023212914/https/vignette.wikia.nocookie.net/runescape2/images/c/c9/The_Reaper.png/revision/latest",
-                "text": "Remember, all first time reaper kills are free in #reaper-request-list"
-            }
-        },
+                "footer": {},
+                "timestamp": "2001-01-04T12:00:00Z"
+            },
     "masuta": {
             "title": "Masuta, the Ascended",
             "author": {
@@ -997,7 +1031,8 @@ exports.data = {
             "footer": {
                 "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/b/b8/Reaper_points.png/revision/latest?cb=20160606215136",
                 "text": "Remember, all first time reaper kills are free in #reaper-request-list"
-            }
+            },
+                "timestamp": "2001-01-04T12:00:00Z"
         },
     "nex": {
             "title": "Nex",
@@ -1042,9 +1077,10 @@ exports.data = {
             "footer": {
                 "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/c/c9/The_Reaper.png/revision/latest?cb=20171023212914",
                 "text": "Remember, all first time reaper kills are free in #reaper-request-list"
-            }
+            },
+                "timestamp": "2001-01-04T12:00:00Z"
         },
-    "nex: angel of death": {
+    "nex: angel of death pt1": {
                 "title": "Nex: Angel of Death",
                 "author": {
                     "name": "Boss Reaper Kill Info",
@@ -1087,8 +1123,12 @@ exports.data = {
                     {
                         "name": "​",
                         "value": "• **Ice Prison:** Nex will freeze a few players on the team. The screen of the selected player will become glossy, as if its iced over. Players should use [Freedom](http://runescape.wikia.com/wiki/Freedom) and [Surge](http://runescape.wikia.com/wiki/Surge) away from the team. Icicles will spawn underneath the player and hit everyone within its range with high damage. After a few seconds, players will come out of this icicle.\n\nNex will continue rotating between these three specials until she has 600,000 life points remaining."
-                    },
-                    {
+                    }
+            ]
+        },
+    "nex: angel of death pt2": {
+              "fields": [
+                {
                         "name": "Phase 3:",
                         "value": "The first thing players should do at the start of this phase is constantly move around until the shadow spots underneath you disappear. After which, head to the southeast corner of the arena and start killing the pillar. Players will need to kill the pillars in the same order they killed the minions. After killing the southeast pillar kill the next pillars moving counterclockwise.\n\n**Souteast corner:** Shadows will appear underneath you. If the player stand too long on the same spot, they will get hit by a massive amount of damage. Note: Players can be hit by the shadows from other players.\n\n**Northwest corner:** This pillar will make your screen become glossy. Players can use Freedom to remove the icing effect.\n\n**Northwest corner:** This pillar will heal Nex."
                     },
@@ -1098,28 +1138,21 @@ exports.data = {
                     },
                     {
                         "name": "​",
-                        "value": "The most important feature of the final phase is that there is an instant kill mechanic. One player on the team will get the message **\"Nex has infused you with all of the elements\"** and a blue bar will appear under the [adrenaline](https://runescape.wikia.com/wiki/Adrenaline) bar above the player. They will need to run to the middle of the arena and allow the blue bar to full up completely. There will be a brief bomb flash. After this, the player must to move to an empty space within the arena and let the bar fill up a second time. Once it does, the players need to move to avoid massive incoming rappid damage. Most teams will run all bombs to the south of the arena to avoid confusion. **Don't** let the bar fill up for the second time in the center or the next bombed player won't be able to remove their first bomb."
+                        "value": "The most important feature of the final phase is that there is an instant kill mechanic. One player on the team will get the message **\"Nex has infused you with all of the elements\"** and a blue bar will appear under the [adrenaline](https://runescape.wikia.com/wiki/Adrenaline) bar above the player. They will need to run to the middle of the arena and allow the blue bar to full up completely. There will be a brief bomb flash. After this, the player must to move to an empty space within the arena and let the bar fill up a second time. Once it does, the players need to move to avoid massive incoming rapid damage. Most teams will run all bombs to the south of the arena to avoid confusion. **Don't** let the bar fill up for the second time in the center or the next bombed player won't be able to remove their first bomb."
                     },
                     {
                         "name": "​",
                         "value": "After all four pillars have been destroyed, the team must attack Nex till she reaches 0 life points in order to complete the kill."
                     }
                 ],
-                "footer": {
-                    "icon_url": "https://images-ext-2.discordapp.net/external/fkEkEkLF-5krIYVQdAOfYdvyUW4_mm6xFLacYDdGYpw/%3Fcb%3D20171023212914/https/vignette.wikia.nocookie.net/runescape2/images/c/c9/The_Reaper.png/revision/latest",
-                    "text": "Remember, all first time reaper kills are free in #reaper-request-list"
-                }
+                "footer": {},
+                "timestamp": "2001-01-04T12:00:00Z"
             },
-    "queen black dragon": {  
+    "queen black dragon pt1": {  
       "title":"Queen Black Dragon",
       "url":"http://runescape.wikia.com/wiki/Queen_Black_Dragon",
       "description":"The [Queen Black Dragon](http://runescape.wikia.com/wiki/Queen_Black_Dragon) is a very powerful dragon slumbering at the bottom of the [Grotworm Lair](http://runescape.wikia.com/wiki/Grotworm_Lair). Completing the [Song from the Depths](https://runescape.wikia.com/wiki/Song_from_the_Depths#Rewards) reduces incoming damage from the Quenn Black Dragon.",
       "url":"http://runescape.wikia.com/wiki/Queen_Black_Dragon",
-      "color":12269891,
-      "footer":{  
-         "icon_url":"https://vignette.wikia.nocookie.net/runescape2/images/c/c9/The_Reaper.png/revision/latest/scale-to-width-down/20?cb=20171023212914",
-         "text":"Remember, all reaper kills are free in #reaper-request-list"
-      },
       "thumbnail":{  
          "url":"https://vignette.wikia.nocookie.net/runescape2/images/e/ef/Queen_Black_Dragon.png/revision/latest?cb=20130512015221"
       },
@@ -1134,7 +1167,7 @@ exports.data = {
          },
          {  
             "name":"Requirements and Recommendations:",
-            "value":"\n• 60 Summoning\n• __Recommended Attack Style:__ Ranged\n• __Minimum Recommended Armour Tier:__ 70\n• __Minimum Recommended Weapon Tier:__ 70\n• __Recommended Prayer:__ [Protect from Missles](https://runescape.wikia.com/wiki/Protect_from_Missiles) or [Soulsplit](https://runescape.wikia.com/wiki/Soul_Split)\n• __Recommended Items:__ A [Dragonfire protection item](https://runescape.wikia.com/wiki/Dragonfire#Protection)"
+            "value":"\n• 60 Summoning\n• __Recommended Attack Style:__ Ranged\n• __Minimum Recommended Armour Tier:__ 70\n• __Minimum Recommended Weapon Tier:__ 70\n• __Recommended Prayer:__ [Protect from Missiles](https://runescape.wikia.com/wiki/Protect_from_Missiles) or [Soulsplit](https://runescape.wikia.com/wiki/Soul_Split)\n• __Recommended Items:__ A [Dragonfire protection item](https://runescape.wikia.com/wiki/Dragonfire#Protection)"
          },
          {  
             "name":"Combat Breakdown",
@@ -1158,13 +1191,17 @@ exports.data = {
          },
          {  
             "name":"Grotworms",
-            "value":"The QBD coughs up level 105 [Giant worms](http://runescape.wikia.com/wiki/Giant_worm) every time its current health bar is depleted. These worms attack with magic and continue spawning until the correct artefact for the stage has been activated or a maximum of around 11 worms are in the arena.\n\nIf the player still has not activated the artefact after the maximum number of worms has been spawned, they receive the message ***The power of the unprotected artefact leaks out and damages you!*** and the player begins receiving constant typeless hits of 2,000 from the artefact until it is activated.\n\nWhile these worms hit up to 500s, players shouldn't worry about them too much since they don't deal much damage and can be easily eliminated with area of effect [abilities](https://runescape.wikia.com/wiki/Abilities)"
+            "value":"The QBD coughs up level 105 [Giant worms](http://runescape.wikia.com/wiki/Giant_worm) every time its current health bar is depleted. These worms attack with magic and continue spawning until the correct artefact for the stage has been activated or a maximum of around 11 worms are in the arena.\n\nIf the player still has not activated the artefact after the maximum number of worms has been spawned, they receive the message ***The power of the unprotected artefact leaks out and damages you!*** and the player begins receiving constant typeless hits of 2,000 from the artefact until it is activated.\n\nWhile these worms hit up to 500s, players shouldn't worry about them too much since they don't deal much damage and can be easily eliminated with area of effect [abilities](https://runescape.wikia.com/wiki/Abilities)."
          },
          {  
             "name":"Magical Platforms",
             "value":"The start of the second, third, and fourth stages comes with an extension to the playing area: a magical platform that extends over the ocean, allowing reach to the next appropriate artefact. Standing on one of these platforms for too long at once deals 1,500 typeless damage every few seconds until the player returns to solid ground. It is a good idea to keep your life points over 2,500+ while running to touch a southern artefact, as you can easily get combo'ed by the QBD's attacks, the grotworms, and the magical platform damage."
-         },
-         {  
+         }
+            ]
+        },
+    "queen black dragon pt2": {
+        "fields": [
+        {  
             "name":"Tortured Souls",
             "value":"One of the most notable aspects of the entire fight is the summoning of [tortured souls](http://runescape.wikia.com/wiki/Tortured_soul_(Queen_Black_Dragon). Seconds before the attack is used, a purple message will appear in the chatbox saying ***The Queen Black Dragon summons one/several of her captured souls.***\n\nThis attack is not used at all during the first stage. Of the others:\n• Stage two: **One** soul will spawn one square west of the player.\n• Stage three: **Two** souls will spawn, one on each side of the player.\n• Stage four: **Four** souls will spawn, each soul on a different square one diagonal away from the player (e.g. one tile northeast of the player)."
          },
@@ -1199,8 +1236,12 @@ exports.data = {
          {
            "name":"Extreme Dragon Breath",
            "value":"This is the QBD's most extreme dragonfire attack, only used in the final stage. The text **The Queen Black Dragon gathers her strength to breathe extremely hot flames** appears in dark orange on the player's chatbox seconds prior to the move. Once the attack begins, the damage will depend on how far you are from the Queen Black Dragon's head. Being in or very close to the middle will result in three hits of 1,950, which totals up to 5,850 life points. Staying on the side will results in three hits of 750, which totals up to 2,250 life points."
-         },
-         {
+         }
+        ]
+    },
+    "queen black dragon pt3": {
+              "fields": [
+                    {
            "name":"The Fight",
            "value":"This section explains the basic mechanics of the fight, regardless of what combat style the player is using."
          },
@@ -1220,8 +1261,10 @@ exports.data = {
            "name":"Phase 4",
            "value":"All attacks from previous stages remain available. Time Stop and Extreme Dragon Breath are now potential attacks, and soul spawns will come in **fours**. The fire wall attack is unchanged.\n\nThe fourth and final artefact is to the direct south, between the second and third. Once activated, all souls and grotworms on the field will die, and the QBD will return to her slumber. However, if she spat out a worm just as the artefact was touched, that worm will survive and can kill the player if they run low on health, so wait until the stairs become a \"solid\" object so the worm cannot attack you as you enter."
          }
-      ]
-   },
+      ],
+                "footer": {},
+                "timestamp": "2001-01-04T12:00:00Z"
+            },
     "seiryu": {
             "title": "Seiryu the Azure Serpent",
             "author": {
@@ -1273,9 +1316,10 @@ exports.data = {
             "footer": {
                 "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/b/b8/Reaper_points.png/revision/latest?cb=20160606215136",
                 "text": "Remember, all first time reaper kills are free in #reaper-request-list"
-            }
+            },
+                "timestamp": "2001-01-04T12:00:00Z"
         },
-    "solak": {
+    "solak pt1": {
             "title": "Solak, the Grove Guardian",
             "author": {
                 "name": "Boss Reaper Kill Info",
@@ -1313,8 +1357,12 @@ exports.data = {
                 {
                     "name": "​",
                     "value": "The next step is to kill the arms. The timers are very slow in a 7-man. Make sure you use [chain](https://runescape.wikia.com/wiki/Chain), as it hits both arms, and then use some thresholds.\n\nAs they face south, you are able to use [flanking](https://runescape.wikia.com/wiki/Flanking) from the north.\n\nOnce the arms are down, kill the Legs. The Legs can be nearly taken out by a team of [detonates](https://runescape.wikia.com/wiki/Detonate). Everyone should detonate and release when it's at 100%.\nnSunshine + Adrenaline potion as soon as you are back up to 100%, this should allow you to get 1-2 abilities off on the legs before they die.\n\nThe core will spawn in the middle. Much like the arms/legs they face south so you can flank from the north. Do a threshold rotation on the orb, this should get it under 500k life points."
-                },
-                {
+                }
+            ]
+        },
+    "solak pt2": {
+              "fields": [
+                    {
                     "name": "​",
                     "value": "Solak will stand back up and you'll have ~15 seconds of sunshine left, which you can get the second threshold rotation in under.\n\nThe Tank will turn the boss facing south so that all the DPS can use flanking and help get it to 6.0m.\n\nGetting it to 6m skips all the other mechanics in the phase except for Arms/Legs/Core.\n\nAs long as its below 6.6m life points when Solak stands back up, you should have no problem getting to 6.0m before he goes back to the start of the phase.\n\nRe-do Arms/Legs/Core, however, this time you can either Sunshine when the legs spawn, Meta + Sigil when the core spawns, or Onslaught on the Core to kill it.\n\nShould you not reach 6m life points, you have to do all that over again, except for on the second time you aren't mining south but you are mining your own root. This means that you have to help the tank out on the southern roots. Focus on the roots over Solak, as you should be able to get to 6.0m fairly quickly after dealing with the roots.\n\nPhase 1 Ends when the core dies."
                 },
@@ -1339,11 +1387,9 @@ exports.data = {
                     "value": "Run north behind Solak so the team is grouped up in a pile. Use [natural instinct](https://runescape.wikia.com/wiki/Natural_Instinct) as the red message pops up, build back up to 100% adrenaline, and use sunshine + Adrenaline potion while you do a sunshine rotation.\n\n**Make sure you [Asphyxiate](https://runescape.wikia.com/wiki/Asphyxiate)**. If you do not, the team will get hit with 11k damage to each player.\n\nWhen you get a bar over your head, use [reprisal](https://runescape.wikia.com/wiki/Reprisal) and make sure you are 9k+ life points. You will get hit by both blight bombs causing 9k in damage and a massive reprisal hit. Task one person with [shattering](https://runescape.wikia.com/wiki/Shatter).\n\nIf done right, the phase will be over before your second [Wild Magic ](https://runescape.wikia.com/wiki/Wild_Magic)and Asphyxiate."
                 }
             ],
-            "footer": {
-                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/b/b8/Reaper_points.png/revision/latest?cb=20160606215136",
-                "text": "Check #reaper-request-list for information about leeching services and discounts."
-            }
-        },
+                "footer": {},
+                "timestamp": "2001-01-04T12:00:00Z"
+            },
     "telos, the warden": {
                 "title": "Telos, the Warden",
                 "author": {
