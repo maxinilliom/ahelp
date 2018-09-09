@@ -22,7 +22,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 	const name = "True Trimmed Info";
 	const color = 10257648;
 	const footer = {
-      "icon_url": "https://cdn.discordapp.com/icons/288095269604556800/420626f365dd61ab403af6336b706a16.webp",
+      "icon_url": "https://i.imgur.com/8Q1uWSu.png",
       "text": "For the True Achievers, True Completionists and True Trimmers!"
     };
 
