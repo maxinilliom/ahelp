@@ -41,7 +41,6 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 		async function list() {
 			const [cat, sub, ach] = keyList[o].split(" - ");
 			if (category && cat !== category) {
-				i++;
 				o++;
 				if (o < x) list();
                 if (o == x) message.reply(`**${i}**/\**${keyList.length}** responses listed.\n\n${errMsg}`);
