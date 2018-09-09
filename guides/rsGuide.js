@@ -985,7 +985,7 @@ exports.data = {
       "text": "Runescore awarded: 30"
     }
   },
-  "combat - general - shattering worlds": {
+  "combat - general - shattering worlds pt1": {
     "title": "Shattering Worlds I-VI",
     "author": {
       "name": "RuneScore Achievement Info",
@@ -1024,6 +1024,30 @@ exports.data = {
         "value": "Using range weapons with 9 [attack range](https://runescape.wikia.com/wiki/Attack_range) to [snipe](https://runescape.wikia.com/wiki/Snipe) from a distance is highly recommended. Pay careful attention to the surroundings and the terrain of the environment to look for safe-spots. Use of the edges of the map or obstacles often helps. Use abilities for their effects like [Rapid Fire](https://runescape.wikia.com/wiki/Rapid_Fire) and its guaranteed binding for 6 seconds, cooldown 20 seconds; [Devotion](https://runescape.wikia.com/wiki/Devotion) and its guaranteed damage mitigation for 10-20 seconds, cooldown 60 seconds. Read over the descriptions of all the [mutators](https://runescape.wikia.com/wiki/Shattered_Worlds#Mutators) and know them inside out."
       },
       {
+        "name": "Alternative Method:",
+        "value": "Bring 5 [Achto](https://runescape.wikia.com/wiki/Achto) armour pieces and a tier 90 [defender](https://runescape.wikia.com/wiki/Defender), as well as equipment that increases hitchance, e.g. [Reckless](https://runescape.wikia.com/wiki/Reckless_aura), [Ancestor spirits](https://runescape.wikia.com/wiki/Reckless_aura), or accuracy [auras](https://runescape.wikia.com/wiki/Aura). Take advantage of the Achto cooldown resets to heal with Rejuvenate when needed. The majority of the player's damage per second in these worlds will be from [reflect](https://runescape.wikia.com/wiki/Reflect) and [weapon poison](https://runescape.wikia.com/wiki/Weapon_poison%2B%2B) damage, as the monsters' defenses scale up incredibly high."
+      },
+      {
+        "name": "Mutator Preference:",
+        "value": "Prioritise selecting mutators in this order:\n• Feeling Pumped\n• Electric\n• Charged\n• Zones of Restoration\n• Explosive\n• Vampyric\n• Laser Lodestones\n• Blood Money\n• Power Grows\n• Hungry\n• Static\n\nNever select these mutators, as they are essentially a guaranteed death:\n• Catastrophe\n• Unstable Rifts\n• Hydra\n• Freezing"
+      },
+      {
+        "name": "Requirements:",
+        "value": "• None"
+      },
+      {
+        "name": "Guide:",
+        "value": "• [High End Shattered Worlds Guide | Omustardo - Google Sheets](https://docs.google.com/spreadsheets/d/1NPCL9ZN2lWElOhh9a3Cec_Jqsov0aNMfqsLKKWBwrvA/pubhtml?pageId=114838104039217496579)\n• [Shattered Worlds Guide | The Junesong - YouTube](https://www.youtube.com/watch?v=1lPZtELt0yQ)"
+      }
+    ],
+    "footer": {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+      "text": "Runescore awarded: 5"
+    }
+  },
+  "combat - general - shattering worlds pt2": {
+      "fields": [
+        {
         "name": "Alternative Method:",
         "value": "Bring 5 [Achto](https://runescape.wikia.com/wiki/Achto) armour pieces and a tier 90 [defender](https://runescape.wikia.com/wiki/Defender), as well as equipment that increases hitchance, e.g. [Reckless](https://runescape.wikia.com/wiki/Reckless_aura), [Ancestor spirits](https://runescape.wikia.com/wiki/Reckless_aura), or accuracy [auras](https://runescape.wikia.com/wiki/Aura). Take advantage of the Achto cooldown resets to heal with Rejuvenate when needed. The majority of the player's damage per second in these worlds will be from [reflect](https://runescape.wikia.com/wiki/Reflect) and [weapon poison](https://runescape.wikia.com/wiki/Weapon_poison%2B%2B) damage, as the monsters' defenses scale up incredibly high."
       },
@@ -4488,7 +4512,7 @@ exports.data = {
       "text": "Runescore awarded: 25"
     }
   },
-  "exploration - wushanko: the arc - castaways of the arc": {
+  "exploration - wushanko: the arc - castaways of the arc pt1": {
     "title": "Castaways of the Arc",
     "author": {
       "name": "RuneScore Achievement Info",
@@ -4533,12 +4557,16 @@ exports.data = {
       {
         "name": "​",
         "value": "• **Castaway:** [Squick](https://runescape.wikia.com/wiki/Squick)\n\t• **Bottle location:** Found on the west side of the third island in The Islands That Once Were Turtles, underneath the south-western rocks, western side. [(Picture)](https://vignette.wikia.nocookie.net/runescape2/images/b/ba/Message_in_a_bottle_%28Quis-land%29_location.png/revision/latest/scale-to-width-down/150?cb=20170819195831)"
-      },
+      }
+      ]
+    },
+  "exploration - wushanko: the arc - castaways of the arc pt2": {
+      "fields": [
       {
         "name": "​",
         "value": "• **Castaway:** [Salmon Ella](https://runescape.wikia.com/wiki/Salmon_Ella)\n\t• **Bottle location:** Found next to the southern dock exit on [Goshima](https://runescape.wikia.com/wiki/Goshima). [(Picture)](https://vignette.wikia.nocookie.net/runescape2/images/a/a0/Message_in_a_bottle_%28Agar_Atoll%29_location.png/revision/latest/scale-to-width-down/150?cb=20170519223534)"
       },
-      {
+        {
         "name": "Requirements:",
         "value": "• 90 Divination\n\n• Spirtual Enlightenment Miniquest completion | [Runescape Wiki](https://runescape.wikia.com/wiki/Spiritual_Enlightenment)\n• Impressing the Locals Quest completion | [Runescape Wiki](https://runescape.wikia.com/wiki/Impressing_the_Locals)"
       }
