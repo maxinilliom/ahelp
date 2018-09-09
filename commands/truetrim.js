@@ -21,6 +21,10 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 	const rtnArr = [];
 	const name = "True Trimmed Info";
 	const color = 10257648;
+	const footer = {
+      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
+    };
 
 	if (message.channel.id !== '407919969712603145' && level < 2) return;
 
@@ -38,22 +42,26 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 	if (!args[0]) return message.channel.send(`Please specify a valid guide name.`);
 
 	if (args[0].toLowerCase() == "all" && level >= 2) {
-		let i = 0, o = 0, x = keyList.length;
+		let i = 0, o = 0, x = keyList.length, errMsg = "";
 		const category = args[1] ? args[1].toLowerCase() : undefined
 		function list() {
 			const [cat, sub, ach] = keyList[o].split(" - ");
 			if (category && cat !== category) return;
 			const guide = data[keyList[o]];
-			guide.author.name = name;
 			guide.color = color;
-			guide.timestamp = new Date();
-			message.channel.send("", {embed: guide});
+		    if (guide.author) guide.author.name = name;
+      		if (guide.footer) guide.footer = footer;
+		    if (guide.timestamp) guide.timestamp = new Date();
+			try {
+				await message.channel.send("", {embed: guide});
+			} catch (err) {
+				errMsg += `${o}. ${keyList[o]} failed to send with error: ${err}`;
+				i--;
+			}
 			i++;
 			o++;
-			if (o < x) {
-				setTimeout(list, 2500);
-			}
-			if (o == x) message.reply(`**${i}**/\**${keyList.length}** responses listed.`);
+			if (o < x) setTimeout(list, 2500);
+			if (o == x) message.reply(`**${i}**/\**${keyList.length}** responses listed.\n\n${errMsg}`);
 		}
 		list();
 		return message.delete();
@@ -81,6 +89,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 		helpEmbed.author.name = name;
 		helpEmbed.description = output;
 		helpEmbed.color = color;
+		helpEmbed.footer = footer;
 		helpEmbed.timestamp = new Date();
 		await message.channel.send("", {embed: helpEmbed});
 
@@ -110,15 +119,25 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 	}
 
 	keyList.forEach(k => {
-		if (RegExp(achName).test(k) && !rtnArr.includes(k)) rtnArr.push(k);
+		if (RegExp(achName).test(k) && !/\bpt\d/.test(k) && !rtnArr.includes(k)) rtnArr.push(k);
+		if (RegExp(achName).test(k) && /\bpt\d/.test(k)) {
+			const guide = data[k];
+			guide.color = color;
+			if (/\bpt1/.test(k)) guide.author.name = name;
+			if (guide.footer) guide.footer = footer;
+			if (guide.timestamp) guide.timestamp = new Date();
+			message.channel.send("", {embed: guide});
+			pt = "true";
+		}
 	});
 
-	if (rtnArr.length == 0) {
+	if (rtnArr.length == 0 && pt == "false") {
 		return message.channel.send(`No results found for **${args.join(" ")}**.`);
 	} else if (rtnArr.length == 1) {
 		const guide = data[rtnArr[0]];
 		guide.author.name = name;
 		guide.color = color;
+		guide.footer = footer;
 		guide.timestamp = new Date();
 		message.channel.send("", {embed: guide});
 	} else if (rtnArr.length > 1) {
@@ -133,6 +152,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 		searchEmbed.author.name = name;
 		searchEmbed.description = output;
 		searchEmbed.color = color;
+		searchEmbed.footer = footer;
 		searchEmbed.timestamp = new Date();
 		message.channel.send("", {embed: searchEmbed});
 		const response = await client.awaitReply(message, "Which were you searching for? Please enter the corresponding number.");
@@ -140,8 +160,11 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 		const choice = data[rtnArr[response-1]];
 		choice.author.name = name;
 		choice.color = color;
+		choice.footer = footer;
 		choice.timestamp = new Date();
 		return message.channel.send("", {embed: choice});
+	} else if (pt == "true") {
+		return;
 	} else {
 	message.channel.send("If you see this, contact <@97928972305707008>");
 	}
