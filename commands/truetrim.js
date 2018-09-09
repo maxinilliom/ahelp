@@ -27,6 +27,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 	Object.getOwnPropertyNames(data).forEach(k => {
 		if (k !== "help" && k !== "search") {
 			keyList.push(k);
+			if (!data[k].title) return;
 			const [cat, sub, ach] = k.split(" - ");
 			if (cat == "Dnds") cat = "D&Ds";
 			if (!data[k].title.includes(`(${cat.toProperCase()}, ${sub.toProperCase()})`)) {
