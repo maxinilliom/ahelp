@@ -22,8 +22,7 @@ exports.run = async (client, message, args, level) => {
 
 
 	if (args[0].toLowerCase() == "all" && level >= 2) {
-    let i = 0, o = 0, x = keyList.length;
-    let errMsg = "";
+    let i = 0, o = 0, x = keyList.length, errMsg = "";
     async function list() {
       const guide = data[keyList[o]];
       guide.color = color;
@@ -39,7 +38,7 @@ exports.run = async (client, message, args, level) => {
       i++;
       o++;
       if (o < x) setTimeout(list, 2500);
-			if (o == x) message.reply(`**${i}**/\**${keyList.length}** responses listed.\n\n${errMsg}`);
+	  if (o == x) message.reply(`**${i}**/\**${keyList.length}** responses listed.\n\n${errMsg}`);
     }
     list();
 		return message.delete();
