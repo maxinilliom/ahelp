@@ -43,7 +43,8 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 
 	if (args[0].toLowerCase() == "all" && level >= 2) {
 		let i = 0, o = 0, x = keyList.length, errMsg = "";
-		const category = args[1] ? args[1].toLowerCase() : undefined
+		const category = args[1] ? args[1].toLowerCase() : undefined;
+		if (["dnds", "minigames", "miscellaneous", "unlockables"].includes(category)) category = undefined;
 		async function list() {
 			const [cat, sub, ach] = keyList[o].split(" - ");
 			if (category && cat !== category) {
@@ -186,6 +187,6 @@ exports.conf = {
 exports.help = {
 	name: "truetrim",
 	category: "Guides",
-	description: "Encyclopedia of True Trimmed guides.",
+	description: "An encyclopedia of True Trimmed guides.",
 	usage: "truetrim <help/guide name>"
 };
