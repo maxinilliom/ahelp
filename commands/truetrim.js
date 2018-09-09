@@ -22,8 +22,8 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 	const name = "True Trimmed Info";
 	const color = 10257648;
 	const footer = {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
-      "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
+      "icon_url": "https://cdn.discordapp.com/icons/288095269604556800/420626f365dd61ab403af6336b706a16.webp",
+      "text": "For the True Achievers, True Completionists and True Trimmers!"
     };
 
 	if (message.channel.id !== '407919969712603145' && level < 2) return;
