@@ -1022,28 +1022,7 @@ exports.data = {
       {
         "name": "Very high worlds (W151+):",
         "value": "Using range weapons with 9 [attack range](https://runescape.wikia.com/wiki/Attack_range) to [snipe](https://runescape.wikia.com/wiki/Snipe) from a distance is highly recommended. Pay careful attention to the surroundings and the terrain of the environment to look for safe-spots. Use of the edges of the map or obstacles often helps. Use abilities for their effects like [Rapid Fire](https://runescape.wikia.com/wiki/Rapid_Fire) and its guaranteed binding for 6 seconds, cooldown 20 seconds; [Devotion](https://runescape.wikia.com/wiki/Devotion) and its guaranteed damage mitigation for 10-20 seconds, cooldown 60 seconds. Read over the descriptions of all the [mutators](https://runescape.wikia.com/wiki/Shattered_Worlds#Mutators) and know them inside out."
-      },
-      {
-        "name": "Alternative Method:",
-        "value": "Bring 5 [Achto](https://runescape.wikia.com/wiki/Achto) armour pieces and a tier 90 [defender](https://runescape.wikia.com/wiki/Defender), as well as equipment that increases hitchance, e.g. [Reckless](https://runescape.wikia.com/wiki/Reckless_aura), [Ancestor spirits](https://runescape.wikia.com/wiki/Reckless_aura), or accuracy [auras](https://runescape.wikia.com/wiki/Aura). Take advantage of the Achto cooldown resets to heal with Rejuvenate when needed. The majority of the player's damage per second in these worlds will be from [reflect](https://runescape.wikia.com/wiki/Reflect) and [weapon poison](https://runescape.wikia.com/wiki/Weapon_poison%2B%2B) damage, as the monsters' defenses scale up incredibly high."
-      },
-      {
-        "name": "Mutator Preference:",
-        "value": "Prioritise selecting mutators in this order:\n• Feeling Pumped\n• Electric\n• Charged\n• Zones of Restoration\n• Explosive\n• Vampyric\n• Laser Lodestones\n• Blood Money\n• Power Grows\n• Hungry\n• Static\n\nNever select these mutators, as they are essentially a guaranteed death:\n• Catastrophe\n• Unstable Rifts\n• Hydra\n• Freezing"
-      },
-      {
-        "name": "Requirements:",
-        "value": "• None"
-      },
-      {
-        "name": "Guide:",
-        "value": "• [High End Shattered Worlds Guide | Omustardo - Google Sheets](https://docs.google.com/spreadsheets/d/1NPCL9ZN2lWElOhh9a3Cec_Jqsov0aNMfqsLKKWBwrvA/pubhtml?pageId=114838104039217496579)\n• [Shattered Worlds Guide | The Junesong - YouTube](https://www.youtube.com/watch?v=1lPZtELt0yQ)"
       }
-    ],
-    "footer": {
-      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-      "text": "Runescore awarded: 5"
-    }
   },
   "combat - general - shattering worlds pt2": {
       "fields": [
