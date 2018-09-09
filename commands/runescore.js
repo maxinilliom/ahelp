@@ -39,7 +39,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 	if (args[0].toLowerCase() == "all" && level >= 2) {
 		let i = 0, o = 0, x = keyList.length, errMsg = "";
 		const category = args[1] ? args[1].toLowerCase() : undefined
-		if (["combat", "exploration", "minigames", "miscellaneous", "skills"].includes(category)) category = undefined;
+		if (!["combat", "exploration", "minigames", "miscellaneous", "skills"].includes(category)) category = undefined;
 		async function list() {
 			const [cat, sub, ach] = keyList[o].split(" - ");
 			if (category && cat !== category) {

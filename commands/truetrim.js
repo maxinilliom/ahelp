@@ -23,7 +23,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 	const color = 10257648;
 	const footer = {
       "icon_url": "https://i.imgur.com/8Q1uWSu.png",
-      "text": "For the True Achievers, True Completionists and True Trimmers!"
+      "text": "For the True Achievers, True Completionists, and True Trimmers!"
     };
 
 	if (message.channel.id !== '407919969712603145' && level < 2) return;
@@ -44,7 +44,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 	if (args[0].toLowerCase() == "all" && level >= 2) {
 		let i = 0, o = 0, x = keyList.length, errMsg = "";
 		const category = args[1] ? args[1].toLowerCase() : undefined;
-		if (["dnds", "minigames", "miscellaneous", "unlockables"].includes(category)) category = undefined;
+		if (!["dnds", "minigames", "miscellaneous", "unlockables"].includes(category)) category = undefined;
 		async function list() {
 			const [cat, sub, ach] = keyList[o].split(" - ");
 			if (category && cat !== category) {
