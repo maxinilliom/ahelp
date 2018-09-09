@@ -2668,11 +2668,11 @@ exports.data = {
       },
       {
         "name": "​",
-        "value": "• **Insect:** [Kalphite wanderer in amber](https://runescape.wikia.com/wiki/Kalphite_wanderer_in_amber)\n\t• **Location:** Pickpocketed from the [Gullible tourist](https://runescape.wikia.com/wiki/Gullible_tourist) on the southern dock in the [Port district](https://runescape.wikia.com/wiki/Port_district) or from [Menaphite marketeer](https://runescape.wikia.com/wiki/Menaphite_marketeer). The tourist will spawn randomly on some worlds. World locations are often called in the `soulobby` friends chat."
+        "value": "• **Insect:** [Kalphite wanderer in amber](https://runescape.wikia.com/wiki/Kalphite_wanderer_in_amber)\n\t• **Location:** Pickpocketed from the [Gullible tourist](https://runescape.wikia.com/wiki/Gullible_tourist) on the southern dock in the [Port district](https://runescape.wikia.com/wiki/Port_district) or from [Menaphite marketeer](https://runescape.wikia.com/wiki/Menaphite_marketeer). The tourist will spawn randomly on some worlds. World locations are often called in the **soulobby** friend's chat."
       },
       {
         "name": "​",
-        "value": "• **Insect:** [Hornless unicornfly in amber](https://runescape.wikia.com/wiki/Hornless_unicornfly_in_amber)\n\t• **Location:** Found whilst pickpocketing the Gullible tourist on the southern dock in the Port district or from Menaphite marketeers. The tourist will spawn randomly on some worlds. World locations are often called in the `soulobby` friends chat."
+        "value": "• **Insect:** [Hornless unicornfly in amber](https://runescape.wikia.com/wiki/Hornless_unicornfly_in_amber)\n\t• **Location:** Pickpocketed from the Gullible tourist on the southern dock in the Port district or from Menaphite marketeers. The tourist will spawn randomly on some worlds. World locations are often called in the **soulobby** friend's chat."
       },
       {
         "name": "​",
@@ -2708,11 +2708,11 @@ exports.data = {
       },
       {
         "name": "​",
-        "value": "• **Insect:** [Fly dragon](https://runescape.wikia.com/wiki/Fly_dragon)\n\t• **Location:** Found whilst harvesting [luminous memories](https://runescape.wikia.com/wiki/Luminous_memory) south of Sophanem. Using a [divine-o-matic vacuum](https://runescape.wikia.com/wiki/Divine-o-matic_vacuum) works"
+        "value": "• **Insect:** [Fly dragon](https://runescape.wikia.com/wiki/Fly_dragon)\n\t• **Location:** Found whilst harvesting [luminous memories](https://runescape.wikia.com/wiki/Luminous_memory) south of Sophanem. Using a [divine-o-matic vacuum](https://runescape.wikia.com/wiki/Divine-o-matic_vacuum) works for this as well"
       },
       {
         "name": "​",
-        "value": "• **Insect:** [Fruit fly](https://runescape.wikia.com/wiki/Fruit_fly)\n\t• **Location:** Found whilst harvesting luminous memories south of Sophanem. Using a divine-o-matic vacuum works"
+        "value": "• **Insect:** [Fruit fly](https://runescape.wikia.com/wiki/Fruit_fly)\n\t• **Location:** Found whilst harvesting luminous memories south of Sophanem. Using a divine-o-matic vacuum works for this as well"
       },
       {
         "name": "Requirements:",
@@ -2730,7 +2730,7 @@ exports.data = {
       "name": "RuneScore Achievement Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Boys to Menaphites](https://runescape.wikia.com/wiki/Boys_to_Menaphites) is an achievement that requires the player to gain tier 10 overall [reputation](https://runescape.wikia.com/wiki/Menaphos/Reputation) in [Menaphos](https://runescape.wikia.com/wiki/Menaphos).\n\nPlayers must first choose to which faction they want to align themselves before reputation can be earned. Right-click on a faction icon within the faction windows to choose a faction. If no faction is selected, reputation is not gained and the following message is seen instead: `You have not currently selected a faction, so earned no reputation!`\n\nYou can use `soulobby` friend's chat to find [Soul Obelisks](https://runescape.wikia.com/wiki/Soul_obelisk_(Menaphos) and [Corrupted Scarabs](https://runescape.wikia.com/wiki/Corrupted_scarab) easily. You can gain 20,000 reputatation per day from Soul Obelisks and a varied amount from Corrupted Scarabs daily. You will be able to finish this requirment within two weeks utilizing this method as a daily.\n\nReputation is a mechanic that is used within [Menaphos](https://runescape.wikia.com/wiki/Menaphos). All skilling activities within the walls of Menaphos earn reputation. In addition, skilling using any of the methods released along with Menaphos rewards a higher amount of reputation. ",
+    "description": "[Boys to Menaphites](https://runescape.wikia.com/wiki/Boys_to_Menaphites) is an achievement that requires the player to gain tier 10 overall [reputation](https://runescape.wikia.com/wiki/Menaphos/Reputation) in [Menaphos](https://runescape.wikia.com/wiki/Menaphos).\n\nPlayers must first choose to which faction they want to align themselves before reputation can be earned. Right-click on a faction icon within the faction windows to choose a faction. If no faction is selected, reputation is not gained and the following message is seen instead: `You have not currently selected a faction, so earned no reputation!`\n\nYou can use **soulobby** friend's chat to find [Soul Obelisks](https://runescape.wikia.com/wiki/Soul_obelisk_(Menaphos) and [Corrupted Scarabs](https://runescape.wikia.com/wiki/Corrupted_scarab) easily. You can gain 20,000 reputatation per day from Soul Obelisks and a varied amount from Corrupted Scarabs daily. You will be able to finish this requirment within two weeks utilizing this method as a daily.\n\nReputation is a mechanic that is used within [Menaphos](https://runescape.wikia.com/wiki/Menaphos). All skilling activities within the walls of Menaphos earn reputation. In addition, skilling using any of the methods released along with Menaphos rewards a higher amount of reputation. ",
     "thumbnail": {
       "url": "https://i.imgur.com/Shmagnp.png"
     },
@@ -2758,7 +2758,7 @@ exports.data = {
       "name": "RuneScore Achievement Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Class Crown](https://runescape.wikia.com/wiki/Class_Crown) is an achievement that requires the player to gain tier 10 [reputation](https://runescape.wikia.com/wiki/Menaphos/Reputation) in the [Imperial district](https://runescape.wikia.com/wiki/Imperial_district) of [Menaphos](https://runescape.wikia.com/wiki/Menaphos).\n\nPlayers must first choose to which faction they want to align themselves before reputation can be earned. Right-click on a faction icon within the faction windows to choose a faction. If no faction is selected, reputation is not gained and the following message is seen instead: `You have not currently selected a faction, so earned no reputation!`\n\nYou can use `soulobby` friend's chat to find [Soul Obelisks](https://runescape.wikia.com/wiki/Soul_obelisk_(Menaphos) and [Corrupted Scarabs](https://runescape.wikia.com/wiki/Corrupted_scarab) easily. You can gain 20,000 reputatation per day from Soul Obelisks and a varied amount from Corrupted Scarabs daily. You will be able to finish this requirment within two weeks utilizing this method as a daily.\n\nReputation is a mechanic that is used within [Menaphos](https://runescape.wikia.com/wiki/Menaphos). All skilling activities within the walls of Menaphos earn reputation. In addition, skilling using any of the methods released along with Menaphos rewards a higher amount of reputation. ",
+    "description": "[Class Crown](https://runescape.wikia.com/wiki/Class_Crown) is an achievement that requires the player to gain tier 10 [reputation](https://runescape.wikia.com/wiki/Menaphos/Reputation) in the [Imperial district](https://runescape.wikia.com/wiki/Imperial_district) of [Menaphos](https://runescape.wikia.com/wiki/Menaphos).\n\nPlayers must first choose to which faction they want to align themselves before reputation can be earned. Right-click on a faction icon within the faction windows to choose a faction. If no faction is selected, reputation is not gained and the following message is seen instead: `You have not currently selected a faction, so earned no reputation!`\n\nYou can use **soulobby** friend's chat to find [Soul Obelisks](https://runescape.wikia.com/wiki/Soul_obelisk_(Menaphos) and [Corrupted Scarabs](https://runescape.wikia.com/wiki/Corrupted_scarab) easily. You can gain 20,000 reputatation per day from Soul Obelisks and a varied amount from Corrupted Scarabs daily. You will be able to finish this requirment within two weeks utilizing this method as a daily.\n\nReputation is a mechanic that is used within [Menaphos](https://runescape.wikia.com/wiki/Menaphos). All skilling activities within the walls of Menaphos earn reputation. In addition, skilling using any of the methods released along with Menaphos rewards a higher amount of reputation. ",
     "thumbnail": {
       "url": "https://i.imgur.com/Shmagnp.png"
     },
@@ -2947,7 +2947,7 @@ exports.data = {
       "name": "RuneScore Achievement Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Lock, Stock and Barrel](http://runescape.wikia.com/wiki/Lock,_Stock_and_Barrel) is an achievement that requires the player to gain tier 10 [reputation](https://runescape.wikia.com/wiki/Menaphos/Reputation) in the [Merchant district](https://runescape.wikia.com/wiki/Merchant_district) of [Menaphos](https://runescape.wikia.com/wiki/Menaphos).\n\nPlayers must first choose to which faction they want to align themselves before reputation can be earned. Right-click on a faction icon within the faction windows to choose a faction. If no faction is selected, reputation is not gained and the following message is seen instead: `You have not currently selected a faction, so earned no reputation!`\n\nYou can use `soulobby` friend's chat to find [Soul Obelisks](https://runescape.wikia.com/wiki/Soul_obelisk_(Menaphos) and [Corrupted Scarabs](https://runescape.wikia.com/wiki/Corrupted_scarab) easily. You can gain 20,000 reputatation per day from Soul Obelisks and a varied amount from Corrupted Scarabs daily. You will be able to finish this requirment within two weeks utilizing this method as a daily.\n\nReputation is a mechanic that is used within [Menaphos](https://runescape.wikia.com/wiki/Menaphos). All skilling activities within the walls of Menaphos earn reputation. In addition, skilling using any of the methods released along with Menaphos rewards a higher amount of reputation. ",
+    "description": "[Lock, Stock and Barrel](http://runescape.wikia.com/wiki/Lock,_Stock_and_Barrel) is an achievement that requires the player to gain tier 10 [reputation](https://runescape.wikia.com/wiki/Menaphos/Reputation) in the [Merchant district](https://runescape.wikia.com/wiki/Merchant_district) of [Menaphos](https://runescape.wikia.com/wiki/Menaphos).\n\nPlayers must first choose to which faction they want to align themselves before reputation can be earned. Right-click on a faction icon within the faction windows to choose a faction. If no faction is selected, reputation is not gained and the following message is seen instead: `You have not currently selected a faction, so earned no reputation!`\n\nYou can use **soulobby** friend's chat to find [Soul Obelisks](https://runescape.wikia.com/wiki/Soul_obelisk_(Menaphos) and [Corrupted Scarabs](https://runescape.wikia.com/wiki/Corrupted_scarab) easily. You can gain 20,000 reputatation per day from Soul Obelisks and a varied amount from Corrupted Scarabs daily. You will be able to finish this requirment within two weeks utilizing this method as a daily.\n\nReputation is a mechanic that is used within [Menaphos](https://runescape.wikia.com/wiki/Menaphos). All skilling activities within the walls of Menaphos earn reputation. In addition, skilling using any of the methods released along with Menaphos rewards a higher amount of reputation. ",
     "thumbnail": {
       "url": "https://i.imgur.com/Shmagnp.png"
     },
@@ -3041,7 +3041,7 @@ exports.data = {
       },
       {
         "name": "​",
-        "value": "• **Jewel:** [Waikonite](https://runescape.wikia.com/wiki/Waikonite)\n\t• **Location:** Pickpocketed from the [Gullible tourist](https://runescape.wikia.com/wiki/Gullible_tourist) on the southern dock in the [Port district](https://runescape.wikia.com/wiki/Port_district). The tourist will spawn randomly on some worlds. World locations are often called in the `soulobby` friends chat."
+        "value": "• **Jewel:** [Waikonite](https://runescape.wikia.com/wiki/Waikonite)\n\t• **Location:** Pickpocketed from the [Gullible tourist](https://runescape.wikia.com/wiki/Gullible_tourist) on the southern dock in the [Port district](https://runescape.wikia.com/wiki/Port_district). The tourist will spawn randomly on some worlds. World locations are often called in the **soulobby** friend's chat."
       },
       {
         "name": "​",
@@ -3061,7 +3061,7 @@ exports.data = {
       },
       {
         "name": "​",
-        "value": "• **Jewel:** [Alaeite](https://runescape.wikia.com/wiki/Alaeite)\n\t• **Location:** Complete the [riddler crab](https://runescape.wikia.com/wiki/Riddler_crab) riddle, on the southern dock in the Port district. The crab will spawn randomly on some worlds. World locations are often called in the `soulobby` friends chat."
+        "value": "• **Jewel:** [Alaeite](https://runescape.wikia.com/wiki/Alaeite)\n\t• **Location:** Complete the [riddler crab](https://runescape.wikia.com/wiki/Riddler_crab) riddle, on the southern dock in the Port district. The crab will spawn randomly on some worlds. World locations are often called in the **soulobby** friend's chat."
       },
       {
         "name": "​",
@@ -3069,7 +3069,7 @@ exports.data = {
       },
       {
         "name": "​",
-        "value": "• **Jewel:** [Aminishi miststone](https://runescape.wikia.com/wiki/Aminishi_miststone)\n\t• **Location:** Sold by [Aminishi gem trader](https://runescape.wikia.com/wiki/Aminishi_gem_trader) for one unit of [Spices](https://runescape.wikia.com/wiki/Spices) on the southern dock in the Port district. The trader will spawn randomly on some worlds. World locations are often called in the `soulobby` friends chat."
+        "value": "• **Jewel:** [Aminishi miststone](https://runescape.wikia.com/wiki/Aminishi_miststone)\n\t• **Location:** Sold by [Aminishi gem trader](https://runescape.wikia.com/wiki/Aminishi_gem_trader) for one unit of [Spices](https://runescape.wikia.com/wiki/Spices) on the southern dock in the Port district. The trader will spawn randomly on some worlds. World locations are often called in the **soulobby** friend's chat."
       },
       {
         "name": "​",
@@ -3081,7 +3081,7 @@ exports.data = {
       },
       {
         "name": "​",
-        "value": "• **Jewel:** [Tuai Leit sparkle](https://runescape.wikia.com/wiki/Tuai_Leit_sparkle)\n\t• **Location:** Sold by [Tuai Leit gem trader](https://runescape.wikia.com/wiki/Tuai_Leit_gem_trader) for 5 [bamboo](https://runescape.wikia.com/wiki/Bamboo), on the southern dock in the Port district. The trader will spawn randomly on some worlds. World locations are often called in the `soulobby` friends chat."
+        "value": "• **Jewel:** [Tuai Leit sparkle](https://runescape.wikia.com/wiki/Tuai_Leit_sparkle)\n\t• **Location:** Sold by [Tuai Leit gem trader](https://runescape.wikia.com/wiki/Tuai_Leit_gem_trader) for 5 [bamboo](https://runescape.wikia.com/wiki/Bamboo), on the southern dock in the Port district. The trader will spawn randomly on some worlds. World locations are often called in the **soulobby** friend's chat."
       },
       {
         "name": "​",
@@ -3111,7 +3111,7 @@ exports.data = {
       "name": "RuneScore Achievement Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Seagullible](https://runescape.wikia.com/wiki/Seagullible) is an achievement that requires the player to gain tier 10 [reputation](https://runescape.wikia.com/wiki/Menaphos/Reputation) in the [Ports district](https://runescape.wikia.com/wiki/Port_district) of [Menaphos](https://runescape.wikia.com/wiki/Menaphos).\n\nPlayers must first choose to which faction they want to align themselves before reputation can be earned. Right-click on a faction icon within the faction windows to choose a faction. If no faction is selected, reputation is not gained and the following message is seen instead: `You have not currently selected a faction, so earned no reputation!`\n\nYou can use `soulobby` friend's chat to find [Soul Obelisks](https://runescape.wikia.com/wiki/Soul_obelisk_(Menaphos) and [Corrupted Scarabs](https://runescape.wikia.com/wiki/Corrupted_scarab) easily. You can gain 20,000 reputatation per day from Soul Obelisks and a varied amount from Corrupted Scarabs daily. You will be able to finish this requirment within two weeks utilizing this method as a daily.\n\nReputation is a mechanic that is used within [Menaphos](https://runescape.wikia.com/wiki/Menaphos). All skilling activities within the walls of Menaphos earn reputation. In addition, skilling using any of the methods released along with Menaphos rewards a higher amount of reputation. ",
+    "description": "[Seagullible](https://runescape.wikia.com/wiki/Seagullible) is an achievement that requires the player to gain tier 10 [reputation](https://runescape.wikia.com/wiki/Menaphos/Reputation) in the [Ports district](https://runescape.wikia.com/wiki/Port_district) of [Menaphos](https://runescape.wikia.com/wiki/Menaphos).\n\nPlayers must first choose to which faction they want to align themselves before reputation can be earned. Right-click on a faction icon within the faction windows to choose a faction. If no faction is selected, reputation is not gained and the following message is seen instead: `You have not currently selected a faction, so earned no reputation!`\n\nYou can use **soulobby** friend's chat to find [Soul Obelisks](https://runescape.wikia.com/wiki/Soul_obelisk_(Menaphos) and [Corrupted Scarabs](https://runescape.wikia.com/wiki/Corrupted_scarab) easily. You can gain 20,000 reputatation per day from Soul Obelisks and a varied amount from Corrupted Scarabs daily. You will be able to finish this requirment within two weeks utilizing this method as a daily.\n\nReputation is a mechanic that is used within [Menaphos](https://runescape.wikia.com/wiki/Menaphos). All skilling activities within the walls of Menaphos earn reputation. In addition, skilling using any of the methods released along with Menaphos rewards a higher amount of reputation. ",
     "thumbnail": {
       "url": "https://i.imgur.com/Shmagnp.png"
     },
@@ -3143,11 +3143,31 @@ exports.data = {
       "name": "RuneScore Achievement Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Slay Bells Ring](https://runescape.wikia.com/wiki/Slay_Bells_Ring_V) is an achievement that requires the player to slay a combination of 500-10,000 [corrupted](https://runescape.wikia.com/wiki/Corrupted_creature) or [devourer](https://runescape.wikia.com/wiki/Soul_devourer) creatures.\n\nCorrupted creatures and soul devourers are high-level Slayer monsters found in the [Sophanem Slayer Dungeon](https://runescape.wikia.com/wiki/Sophanem_Slayer_Dungeon). [Feathers of Ma'at](https://runescape.wikia.com/wiki/Feather_of_Ma%27at) are required to kill these monsters. [The Magister](https://runescape.wikia.com/wiki/The_Magister) counts as a corrupted creature. Except for the salawa akh, all soul devourers have some sort of unique mechanic(s). Corrupted creature and soul devourer Slayer tasks are assigned by [Sumona](https://runescape.wikia.com/wiki/Sumona), [Kuradal](https://runescape.wikia.com/wiki/Kuradal), and [Morvran](https://runescape.wikia.com/wiki/Morvran). Sumona has a higher chance of assigning them.",
+    "description": "[Slay Bells Ring](https://runescape.wikia.com/wiki/Slay_Bells_Ring_V) is an achievement that requires the player to slay a combination of 500-10,000 [corrupted](https://runescape.wikia.com/wiki/Corrupted_creature) or [devourer](https://runescape.wikia.com/wiki/Soul_devourer) creatures.\n\nCorrupted creatures and soul devourers are high-level Slayer monsters found in the [Sophanem Slayer Dungeon](https://runescape.wikia.com/wiki/Sophanem_Slayer_Dungeon). [Feathers of Ma'at](https://runescape.wikia.com/wiki/Feather_of_Ma%27at) are required to kill these monsters.\n\n[The Magister](https://runescape.wikia.com/wiki/The_Magister) counts as a corrupted creature. Except for the [salawa akh](https://runescape.wikia.com/wiki/Salawa_akh), all soul devourers have some sort of unique mechanic(s). Corrupted creature and soul devourer Slayer tasks are assigned by [Sumona](https://runescape.wikia.com/wiki/Sumona), [Kuradal](https://runescape.wikia.com/wiki/Kuradal), and [Morvran](https://runescape.wikia.com/wiki/Morvran). Sumona has a higher chance of assigning them.\n\nYou do not need to be on a slayer task for your kills to count. It is recommended to collect all variations of required souls with an [ushabti](https://runescape.wikia.com/wiki/Ushabti) for the [Slayer Codex](https://runescape.wikia.com/wiki/Slayer_Codex) before focussing on your preferred creature to kill.",
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/c/cd/Menaphos_achievement_icon.png/revision/latest?cb=20180211004808"
     },
     "fields": [{
+        "name": "Feline Akh Special:",
+        "value": "• Upon reaching 2,200 life points or lower, the [feline akh](https://runescape.wikia.com/wiki/Feline_akh) will begin a screech, with a game message stating \"The feline akh begins to call for help.\" If it is not killed before the bar is filled, it will launch a magic attack and nearby feline akhs will turn aggressive towards the player. The magic attack it hits is extremely powerful and can hit up to 3,500 damage."
+      },
+      {
+        "name": "Scarab Akh Special:",
+        "value": "• [Scarab Akh](https://runescape.wikia.com/wiki/Scarab_akh) attacks have a chance of applying [Vulnerability](https://runescape.wikia.com/wiki/Vulnerability). When successfully cast on the player, the damage they take from all sources is increased by 10% for 60 seconds."
+      },
+      {
+        "name": "Crocodile Akh Special:",
+        "value": "• [Crocodile akhs](https://runescape.wikia.com/wiki/Crocodile_akh) have a special attack where they slam their tail at the player, dealing massive (3000+) damage. This attack happens after 5 normal attacks, and it is usually not of a concern as with sufficient weaponry, a player can easily kill them before they can use it."
+      },
+      {
+        "name": "Gorilla Akh Special:",
+        "value": "• [Gorilla akhs](https://runescape.wikia.com/wiki/Gorilla_akh) attack with standard melee. After a set amount of attacks, the gorilla will pound its chest, staying still and smashing the area around it for three hits of rapid melee damage. If all of these hits are taken, the player will be [stunned](https://runescape.wikia.com/wiki/Stun) and bound for three seconds. This can be avoided by running away from the gorilla. With high-levelled equipment, players should be able to kill the gorilla before it is able to use it.\n\nGorilla ahks are a large 2x2 creature, meaning they can be safespotted around corners in the area."
+      },
+      {
+        "name": "Imperial Akh Specials:",
+        "value": "• The [Imperial mage akh](https://runescape.wikia.com/wiki/Imperial_mage_akh), [Imperial warrior](https://runescape.wikia.com/wiki/Imperial_warrior_akh), and [Imperial ranger](https://runescape.wikia.com/wiki/Imperial_ranger_akh) all have access to several [abilities](https://runescape.wikia.com/wiki/Abilities) respective to their attack style.\n\nThe warrior is the easiest of the three Imperial akhs, however, players should try to avoid having multiple Imperial akhs attacking the player as they can deal significant damage, especially if their [corruption](https://runescape.wikia.com/wiki/Sophanem_Slayer_Dungeon#Mechanics) meter is full."
+      },
+      {
         "name": "Requirements:",
         "value": "• 88 Slayer\n\n• The Jack of Spades Quest completion | [Runescape Wiki](https://runescape.wikia.com/wiki/The_Jack_of_Spades)"
       },
@@ -3168,7 +3188,7 @@ exports.data = {
       "name": "RuneScore Achievement Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Squishing Level](https://runescape.wikia.com/wiki/Squishing_Level_V) is an achievement that requires the player to squish 1-200 [corrupted scarabs](https://runescape.wikia.com/wiki/Corrupted_Scarab_(Menaphos). **This is a dangerous activity. If you die, you will lose your items and will need to [reclaim](https://runescape.wikia.com/wiki/Items_Kept_on_Death) them from [Death](https://runescape.wikia.com/wiki/Death) or your [grave](https://runescape.wikia.com/wiki/Gravestone).**\n\nCorrupted Scarabs may appear around [Shifting Tombs](https://runescape.wikia.com/wiki/Shifting_Tombs) entrances in Menaphos, at the mine in the [worker district](https://runescape.wikia.com/wiki/Worker_district), and periodically outside the [Sophanem Slayer Dungeon](https://runescape.wikia.com/wiki/Sophanem_Slayer_Dungeon). They may also be found in the [treasure chests](https://runescape.wikia.com/wiki/Shifting_Tombs#Looting_treasure_chests) in Shifting Tombs. They can be burst to gain a small amount of [reputation](https://runescape.wikia.com/wiki/Menaphos/Reputation) and a high amount of Slayer experience. However, this also deals damage to the player that varies based on their Constitution level.\n\nIf multiple players click the same scarab they will all be able to burst it even if one player clicks later and the scarab has already been burst showing the splatter animation where it was.\n\nWhen scarabs spawn in a world, there is a game message: `Agitated scarabs have burrowed up onto the surface and are spreading corruption!`\n\nOnce the scarab mob is depleted, players may refresh it by entering into the Shifting Tombs entrance and exiting it once again. Players may receive double the killcount/experience by left clicking the scarab to burst it, right clicking, and selecting the burst option after the initial burst experience drop has occurred.\n\n Scarab locations are often called in the `soulobby` friends chat.",
+    "description": "[Squishing Level](https://runescape.wikia.com/wiki/Squishing_Level_V) is an achievement that requires the player to squish 1-200 [corrupted scarabs](https://runescape.wikia.com/wiki/Corrupted_Scarab_(Menaphos). **This is a dangerous activity. If you die, you will lose your items and will need to [reclaim](https://runescape.wikia.com/wiki/Items_Kept_on_Death) them from [Death](https://runescape.wikia.com/wiki/Death) or your [grave](https://runescape.wikia.com/wiki/Gravestone).**\n\nCorrupted Scarabs may appear around [Shifting Tombs](https://runescape.wikia.com/wiki/Shifting_Tombs) entrances in Menaphos, at the mine in the [worker district](https://runescape.wikia.com/wiki/Worker_district), and periodically outside the [Sophanem Slayer Dungeon](https://runescape.wikia.com/wiki/Sophanem_Slayer_Dungeon). They may also be found in the [treasure chests](https://runescape.wikia.com/wiki/Shifting_Tombs#Looting_treasure_chests) in Shifting Tombs. They can be burst to gain a small amount of [reputation](https://runescape.wikia.com/wiki/Menaphos/Reputation) and a high amount of Slayer experience. However, this also deals damage to the player that varies based on their Constitution level.\n\nIf multiple players click the same scarab, they will all be able to burst it, even if one player clicks later and the scarab has already been burst showing the splatter animation where it was.\n\nWhen scarabs spawn in a world, there is a game message: `Agitated scarabs have burrowed up onto the surface and are spreading corruption!`\n\nOnce the scarab mob is depleted, players may refresh it by entering into the Shifting Tombs entrance and exiting it once again. Players may receive double the killcount/experience by left clicking the scarab to burst it, right clicking, and selecting the burst option after the initial burst experience drop has occurred.\n\n Scarab locations are often called in the **soulobby** friend's chat.",
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/c/cd/Menaphos_achievement_icon.png/revision/latest?cb=20180211004808"
     },
@@ -3237,7 +3257,7 @@ exports.data = {
       "name": "RuneScore Achievement Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[To The Bone](https://runescape.wikia.com/wiki/To_The_Bone) is an achievement that requires the player to gain tier 10 [reputation](https://runescape.wikia.com/wiki/Menaphos/Reputation) in the [Worker district](https://runescape.wikia.com/wiki/Worker_district) of [Menaphos](https://runescape.wikia.com/wiki/Menaphos).\n\nPlayers must first choose to which faction they want to align themselves before reputation can be earned. Right-click on a faction icon within the faction windows to choose a faction. If no faction is selected, reputation is not gained and the following message is seen instead: `You have not currently selected a faction, so earned no reputation!`\n\nYou can use `soulobby` friend's chat to find [Soul Obelisks](https://runescape.wikia.com/wiki/Soul_obelisk_(Menaphos) and [Corrupted Scarabs](https://runescape.wikia.com/wiki/Corrupted_scarab) easily. You can gain 20,000 reputatation per day from Soul Obelisks and a varied amount from Corrupted Scarabs daily. You will be able to finish this requirment within two weeks utilizing this method as a daily.\n\nReputation is a mechanic that is used within [Menaphos](https://runescape.wikia.com/wiki/Menaphos). All skilling activities within the walls of Menaphos earn reputation. In addition, skilling using any of the methods released along with Menaphos rewards a higher amount of reputation. ",
+    "description": "[To The Bone](https://runescape.wikia.com/wiki/To_The_Bone) is an achievement that requires the player to gain tier 10 [reputation](https://runescape.wikia.com/wiki/Menaphos/Reputation) in the [Worker district](https://runescape.wikia.com/wiki/Worker_district) of [Menaphos](https://runescape.wikia.com/wiki/Menaphos).\n\nPlayers must first choose to which faction they want to align themselves before reputation can be earned. Right-click on a faction icon within the faction windows to choose a faction. If no faction is selected, reputation is not gained and the following message is seen instead: `You have not currently selected a faction, so earned no reputation!`\n\nYou can use **soulobby** friend's chat to find [Soul Obelisks](https://runescape.wikia.com/wiki/Soul_obelisk_(Menaphos) and [Corrupted Scarabs](https://runescape.wikia.com/wiki/Corrupted_scarab) easily. You can gain 20,000 reputatation per day from Soul Obelisks and a varied amount from Corrupted Scarabs daily. You will be able to finish this requirment within two weeks utilizing this method as a daily.\n\nReputation is a mechanic that is used within [Menaphos](https://runescape.wikia.com/wiki/Menaphos). All skilling activities within the walls of Menaphos earn reputation. In addition, skilling using any of the methods released along with Menaphos rewards a higher amount of reputation. ",
     "thumbnail": {
       "url": "https://i.imgur.com/Shmagnp.png"
     },
@@ -3269,7 +3289,7 @@ exports.data = {
       "name": "RuneScore Achievement Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Bank-Z](https://runescape.wikia.com/wiki/Bank-Z) is an achievement that requires the player to deface the three paintings of [Zemouregal](https://runescape.wikia.com/wiki/Zemouregal) in the [castle](https://runescape.wikia.com/wiki/New_Varrock#Castle)’s heart vault.\n\nSearch the footlocker of Zemouregal’s bedroom in the north-eastern room on the 1st floor[UK] for the [vault key](https://runescape.wikia.com/wiki/Vault_key). After opening the vault's outer door on the 1st floor[UK] in the castle there are three paintings on the northern wall, click on them to deface.",
+    "description": "[Bank-Z](https://runescape.wikia.com/wiki/Bank-Z) is an achievement that requires the player to deface the three paintings of [Zemouregal](https://runescape.wikia.com/wiki/Zemouregal) in the [castle](https://runescape.wikia.com/wiki/New_Varrock#Castle)’s heart vault in [New Varrock](https://runescape.wikia.com/wiki/New_Varrock).\n\nNew Varrock is an alternate reality in which [Varrock](https://runescape.wikia.com/wiki/Varrock) has been taken over by Zemouregal. You cannot enter or leave the city by any means other than the fountain located in [Varrock Square](https://runescape.wikia.com/wiki/Varrock_Square) or New Varrock Square, respectively.\n\nSearch the footlocker of Zemouregal’s bedroom in the north-eastern room on the 1st floor[UK] for the [vault key](https://runescape.wikia.com/wiki/Vault_key). After opening the vault's outer door on the 1st floor[UK] in the castle there are three paintings on the northern wall, click on them to deface.",
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/a/a4/New_Varrock_achievement_icon.png/revision/latest?cb=20180106224805"
     },
@@ -3293,7 +3313,7 @@ exports.data = {
       "name": "RuneScore Achievement Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Cat's Bane](https://runescape.wikia.com/wiki/Cat%27s_Bane) is an achievement that requires the player to do something to deal with [New Varrock](https://runescape.wikia.com/wiki/New_Varrock)'s stray cat problem.\n\nThe achievement requires the player to bring each cat the required item. Once all four have agreed to leave their location, they can be found at Fluff's grave at the western wall beside the New Varrock West bank.",
+    "description": "[Cat's Bane](https://runescape.wikia.com/wiki/Cat%27s_Bane) is an achievement that requires the player to do something to deal with [New Varrock](https://runescape.wikia.com/wiki/New_Varrock)'s stray cat problem.\n\n\n\nNew Varrock is an alternate reality in which [Varrock](https://runescape.wikia.com/wiki/Varrock) has been taken over by Zemouregal. You cannot enter or leave the city by any means other than the fountain located in [Varrock Square](https://runescape.wikia.com/wiki/Varrock_Square) or New Varrock Square, respectively.\n\nThe achievement requires the player to bring each cat the required item. Once all four have agreed to leave their location, they can be found at Fluff's grave at the western wall beside the New Varrock West bank.",
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/a/a4/New_Varrock_achievement_icon.png/revision/latest?cb=20180106224805"
     },
@@ -3329,7 +3349,7 @@ exports.data = {
       "name": "RuneScore Achievement Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Dark Imperator-ment](https://runescape.wikia.com/wiki/Dark_Imperator-ment) is an achievement that requires the player to go to the [museum](https://runescape.wikia.com/wiki/Varrock_Museum) in [New Varrock](https://runescape.wikia.com/wiki/New_Varrock), press the big red button south of [Orlando Smith](https://runescape.wikia.com/wiki/Orlando_Smith), and use all four options.",
+    "description": "[Dark Imperator-ment](https://runescape.wikia.com/wiki/Dark_Imperator-ment) is an achievement that requires the player to go to the [museum](https://runescape.wikia.com/wiki/Varrock_Museum) in [New Varrock](https://runescape.wikia.com/wiki/New_Varrock), press the big red button south of [Orlando Smith](https://runescape.wikia.com/wiki/Orlando_Smith), and use all four options.\n\nNew Varrock is an alternate reality in which [Varrock](https://runescape.wikia.com/wiki/Varrock) has been taken over by Zemouregal. You cannot enter or leave the city by any means other than the fountain located in [Varrock Square](https://runescape.wikia.com/wiki/Varrock_Square) or New Varrock Square, respectively.",
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/a/a4/New_Varrock_achievement_icon.png/revision/latest?cb=20180106224805"
     },
@@ -3353,7 +3373,7 @@ exports.data = {
       "name": "RuneScore Achievement Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Guard is Dead](https://runescape.wikia.com/wiki/Guard_is_Dead) is an achievement that requires the player to defeat a [New Varrock guard](https://runescape.wikia.com/wiki/New_Varrock_guard).\n\nNew Varrock guards are found in [New Varrock](https://runescape.wikia.com/wiki/New_Varrock). They are always found in groups with a [New Varrock guard captain](https://runescape.wikia.com/wiki/New_Varrock_guard_captain). If a guard or captain is attacked, they will yell a quote and all nearby guards and the captain will attack the player. It is highly recommended to use Ranged or Magic attacks and [safe spot](https://runescape.wikia.com/wiki/Safe_spot) them as their melee attacks can hit high and they use abilities to increase their damage output.The New Varrock guards can also be summoned during the fight against [Zemouregal](https://runescape.wikia.com/wiki/Zemouregal). These guards can open doors, so it is difficult to get a solo fight with the guards at the gates.",
+    "description": "[Guard is Dead](https://runescape.wikia.com/wiki/Guard_is_Dead) is an achievement that requires the player to defeat a [New Varrock guard](https://runescape.wikia.com/wiki/New_Varrock_guard), which are found in [New Varrock](https://runescape.wikia.com/wiki/New_Varrock).\n\nNew Varrock is an alternate reality in which [Varrock](https://runescape.wikia.com/wiki/Varrock) has been taken over by Zemouregal. You cannot enter or leave the city by any means other than the fountain located in [Varrock Square](https://runescape.wikia.com/wiki/Varrock_Square) or New Varrock Square, respectively.\n\nThe guards are always found in groups with a [New Varrock guard captain](https://runescape.wikia.com/wiki/New_Varrock_guard_captain). If a guard or captain is attacked, they will yell a quote and all nearby guards and the captain will attack the player. It is highly recommended to use Ranged or Magic attacks and [safe spot](https://runescape.wikia.com/wiki/Safe_spot) them as their melee attacks can hit high and they use abilities to increase their damage output. The New Varrock guards can also be summoned during the fight against Zemouregal. These guards can open doors, so it is difficult to get a solo fight with the guards at the gates.",
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/a/a4/New_Varrock_achievement_icon.png/revision/latest?cb=20180106224805"
     },
@@ -3377,7 +3397,7 @@ exports.data = {
       "name": "RuneScore Achievement Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Hand Exchange](https://runescape.wikia.com/wiki/Hand_Exchange) is an achievement that requires the player to pickpocket one of [New Varrock](https://runescape.wikia.com/wiki/New_Varrock)'s many zombie inhabitants.",
+    "description": "[Hand Exchange](https://runescape.wikia.com/wiki/Hand_Exchange) is an achievement that requires the player to pickpocket one of [New Varrock](https://runescape.wikia.com/wiki/New_Varrock)'s many zombie inhabitants.\n\nNew Varrock is an alternate reality in which [Varrock](https://runescape.wikia.com/wiki/Varrock) has been taken over by Zemouregal. You cannot enter or leave the city by any means other than the fountain located in [Varrock Square](https://runescape.wikia.com/wiki/Varrock_Square) or New Varrock Square, respectively.",
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/a/a4/New_Varrock_achievement_icon.png/revision/latest?cb=20180106224805"
     },
@@ -3401,11 +3421,15 @@ exports.data = {
       "name": "RuneScore Achievement Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Hide and Seek](https://runescape.wikia.com/wiki/Hide_and_Seek) is an achievement that requires the player to tan a [zombie cowhide](https://runescape.wikia.com/wiki/Zombie_cowhide) in [New Varrock](https://runescape.wikia.com/wiki/New_Varrock). Zombie cowhide is dropped by [zombie cows](https://runescape.wikia.com/wiki/Zombie_cow_(New_Varrock). It can be taken to the [tanner](https://runescape.wikia.com/wiki/Tanner) and made into [soft leather](https://runescape.wikia.com/wiki/Leather) (for free) or [hard leather](https://runescape.wikia.com/wiki/Hard_leather) (for 3 [zemomarks](https://runescape.wikia.com/wiki/Zemomark)).\n\nThe Zemomark is the currency used to buy items in New Varrock. 10 Zemomarks are received upon first entry to New Varrock. Zemomarks are not stored in a money pouch, but are kept in the backpack. Zemomarks, like all items in New Varrock, are kept upon death. More Zemomarks may be earned by:\n• Completing [Dimension of Disaster](https://runescape.wikia.com/wiki/Dimension_of_Disaster) subquests\n• Completing tasks in the New Varrock Tasks\n• Selling items obtained in New Varrock to [stores](https://runescape.wikia.com/wiki/New_Varrock#Commerce)\n• Opening [treasure chests](https://vignette.wikia.nocookie.net/runescape2/images/e/e0/New_Varrock_chest_locations.png/revision/latest?cb=20170327015402) around New Varrock and stealing loot (requires a [lockpick](https://runescape.wikia.com/wiki/Lockpick_(Dimension_of_Disaster), obtained during the [Shield of Arrav subquest](https://runescape.wikia.com/wiki/Dimension_of_Disaster:_Shield_of_Arrav))\n• Attacking or pickpocketing citizens of New Varrock\n\nYou cannot use the banks in the city, as the [skeleton clerk](https://runescape.wikia.com/wiki/Skeleton_clerk) tells you that they no longer serve the fleshy folk, nor is there a Grand Exchange. Thus, it is recommended to sell supplies you will not need or are easily replaced.",
+    "description": "[Hide and Seek](https://runescape.wikia.com/wiki/Hide_and_Seek) is an achievement that requires the player to tan a [zombie cowhide](https://runescape.wikia.com/wiki/Zombie_cowhide) in [New Varrock](https://runescape.wikia.com/wiki/New_Varrock).\n\nNew Varrock is an alternate reality in which [Varrock](https://runescape.wikia.com/wiki/Varrock) has been taken over by Zemouregal. You cannot enter or leave the city by any means other than the fountain located in [Varrock Square](https://runescape.wikia.com/wiki/Varrock_Square) or New Varrock Square, respectively.\n\nZombie cowhide is dropped by [zombie cows](https://runescape.wikia.com/wiki/Zombie_cow_(New_Varrock). It can be taken to the [tanner](https://runescape.wikia.com/wiki/Tanner) and made into [soft leather](https://runescape.wikia.com/wiki/Leather) (for free) or [hard leather](https://runescape.wikia.com/wiki/Hard_leather) (for 3 [zemomarks](https://runescape.wikia.com/wiki/Zemomark)).\n\nThe Zemomark is the currency used to buy items in New Varrock. 10 Zemomarks are received upon first entry to New Varrock. Zemomarks are not stored in a money pouch, but are kept in the backpack. Zemomarks, like all items in New Varrock, are kept upon death.",
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/a/a4/New_Varrock_achievement_icon.png/revision/latest?cb=20180106224805"
     },
     "fields": [{
+        "name": "​",
+        "value": "More Zemomarks may be earned by:\n\n• Completing [Dimension of Disaster](https://runescape.wikia.com/wiki/Dimension_of_Disaster) subquests\n• Completing tasks in the New Varrock Tasks\n• Selling items obtained in New Varrock to [stores](https://runescape.wikia.com/wiki/New_Varrock#Commerce)\n• Opening [treasure chests](https://vignette.wikia.nocookie.net/runescape2/images/e/e0/New_Varrock_chest_locations.png/revision/latest?cb=20170327015402) around New Varrock and stealing loot (requires a [lockpick](https://runescape.wikia.com/wiki/Lockpick_(Dimension_of_Disaster), obtained during the [Shield of Arrav subquest](https://runescape.wikia.com/wiki/Dimension_of_Disaster:_Shield_of_Arrav))\n• Attacking or pickpocketing citizens of New Varrock\n\nYou cannot use the banks in the city, as the [skeleton clerk](https://runescape.wikia.com/wiki/Skeleton_clerk) tells you that they no longer serve the fleshy folk, nor is there a Grand Exchange. Thus, it is recommended to sell supplies you will not need or are easily replaced."
+      },
+      {
         "name": "Requirements:",
         "value": "• Dimension of Disaster: Coin of the Realm sub-quest completion | [Runescape Wiki](https://runescape.wikia.com/wiki/Dimension_of_Disaster:_Coin_of_the_Realm)"
       },
@@ -3425,7 +3449,7 @@ exports.data = {
       "name": "RuneScore Achievement Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Micro Brew](https://runescape.wikia.com/wiki/Micro_Brew) is an achievement that requires the player to make a [Zemouregal brew](https://runescape.wikia.com/wiki/Zemouregal_brew) for [Tiny Zemouregal](https://runescape.wikia.com/wiki/Tiny_Zemouregal) and give it to him.\nA Zemouregal brew is made by following these steps:\n• With an empty [jug](https://runescape.wikia.com/wiki/Jug), get the [wine of Zemouregal](https://runescape.wikia.com/wiki/Wine_of_Zemouregal) from the south-west room on ground floor[UK] in the [castle](https://runescape.wikia.com/wiki/New_Varrock#Castle)\n• Buy a [doogle leaf](https://runescape.wikia.com/wiki/Doogle_leaves_(New_Varrock) from [Xuan](https://runescape.wikia.com/wiki/Xuan) for 100 [zemomarks](https://runescape.wikia.com/wiki/Zemomark) and combine it with a[ vial of water](https://runescape.wikia.com/wiki/Vial_of_water)\n• Add the wine of Zemouregal.",
+    "description": "[Micro Brew](https://runescape.wikia.com/wiki/Micro_Brew) is an achievement that requires the player to make a [Zemouregal brew](https://runescape.wikia.com/wiki/Zemouregal_brew) for [Tiny Zemouregal](https://runescape.wikia.com/wiki/Tiny_Zemouregal) in [New Varrock](https://runescape.wikia.com/wiki/New_Varrock) and give it to him.\n\nNew Varrock is an alternate reality in which [Varrock](https://runescape.wikia.com/wiki/Varrock) has been taken over by Zemouregal. You cannot enter or leave the city by any means other than the fountain located in [Varrock Square](https://runescape.wikia.com/wiki/Varrock_Square) or New Varrock Square, respectively.\n\nA Zemouregal brew is made by following these steps:\n• With an empty [jug](https://runescape.wikia.com/wiki/Jug), get the [wine of Zemouregal](https://runescape.wikia.com/wiki/Wine_of_Zemouregal) from the south-west room on ground floor[UK] in the [castle](https://runescape.wikia.com/wiki/New_Varrock#Castle)\n• Buy a [doogle leaf](https://runescape.wikia.com/wiki/Doogle_leaves_(New_Varrock) from [Xuan](https://runescape.wikia.com/wiki/Xuan) for 100 [zemomarks](https://runescape.wikia.com/wiki/Zemomark) and combine it with a[ vial of water](https://runescape.wikia.com/wiki/Vial_of_water)\n• Add the Wine of Zemouregal",
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/a/a4/New_Varrock_achievement_icon.png/revision/latest?cb=20180106224805"
     },
@@ -3449,7 +3473,7 @@ exports.data = {
       "name": "RuneScore Achievement Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Moo-er of All Bombs](https://runescape.wikia.com/wiki/Moo-er_of_All_Bombs) is an achievement that requires the player to damage [Zemouregal](https://runescape.wikia.com/wiki/Zemouregal) at least five times with exploding cows when fighting him during [Dimension of Disaster: Curse of Arrav](https://runescape.wikia.com/wiki/Dimension_of_Disaster:_Curse_of_Arrav).\n\nOn the second set of portals, Zemouregal adds explosive cows as reinforcements. Although they are fairly weak, they explode when they touch Arrav, Zemouregal, or a portal, dealing 1500 damage, which instantly destroys portals. When Zemouregal has 1/3rd of his life points left, he starts summoning a large amount of protection portals and explosive cows. Lure the cows into the portals to destroy as many of them as you can. Once all of the portals are destroyed, explosive cows continually appear until Zemouregal is killed. When dodging cows, be mindful of the fact that accidentally running onto the stairs to the north will reset the entire battle with no warning whatsoever.",
+    "description": "[Moo-er of All Bombs](https://runescape.wikia.com/wiki/Moo-er_of_All_Bombs) is an achievement that requires the player to damage [Zemouregal](https://runescape.wikia.com/wiki/Zemouregal) at least five times with exploding cows when fighting him in [New Varrock](https://runescape.wikia.com/wiki/New_Varrock) during [Dimension of Disaster: Curse of Arrav](https://runescape.wikia.com/wiki/Dimension_of_Disaster:_Curse_of_Arrav).\n\nNew Varrock is an alternate reality in which [Varrock](https://runescape.wikia.com/wiki/Varrock) has been taken over by Zemouregal. You cannot enter or leave the city by any means other than the fountain located in [Varrock Square](https://runescape.wikia.com/wiki/Varrock_Square) or New Varrock Square, respectively.\n\nOn the second set of portals, Zemouregal adds explosive cows as reinforcements. Although they are fairly weak, they explode when they touch Arrav, Zemouregal, or a portal, dealing 1,500 damage, which instantly destroys portals. When Zemouregal has 1/3rd of his life points left, he starts summoning a large amount of protection portals and explosive cows. Lure the cows into the portals to destroy as many of them as you can. Once all of the portals are destroyed, explosive cows continually appear until Zemouregal is killed. When dodging cows, be mindful of the fact that accidentally running onto the stairs to the north will reset the entire battle with no warning whatsoever.",
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/a/a4/New_Varrock_achievement_icon.png/revision/latest?cb=20180106224805"
     },
@@ -3473,7 +3497,7 @@ exports.data = {
       "name": "RuneScore Achievement Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Mummy Returns](https://runescape.wikia.com/wiki/Mummy_Returns) is an achievement that requires the player to inspect [Fluffs](https://runescape.wikia.com/wiki/Fluffs)' grave (on the west wall of [New Varrock](https://runescape.wikia.com/wiki/New_Varrock), near the west bank) twice after completing Cat's Bane.",
+    "description": "[Mummy Returns](https://runescape.wikia.com/wiki/Mummy_Returns) is an achievement that requires the player to inspect [Fluffs](https://runescape.wikia.com/wiki/Fluffs)' grave on the west wall of [New Varrock](https://runescape.wikia.com/wiki/New_Varrock), near the west bank, twice after completing [Cat's Bane](https://runescape.wikia.com/wiki/Cat%27s_Bane).\n\nNew Varrock is an alternate reality in which [Varrock](https://runescape.wikia.com/wiki/Varrock) has been taken over by Zemouregal. You cannot enter or leave the city by any means other than the fountain located in [Varrock Square](https://runescape.wikia.com/wiki/Varrock_Square) or New Varrock Square, respectively.",
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/a/a4/New_Varrock_achievement_icon.png/revision/latest?cb=20180106224805"
     },
@@ -3497,7 +3521,7 @@ exports.data = {
       "name": "RuneScore Achievement Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Pick All](https://runescape.wikia.com/wiki/Pick_All) is an achievement that requires the player to use a lockpick to open all of [New Varrock](https://runescape.wikia.com/wiki/New_Varrock)'s treasure chests. See map [here](https://vignette.wikia.nocookie.net/runescape2/images/e/e0/New_Varrock_chest_locations.png/revision/latest?cb=20170327015402).\n\t• Yellow - ground floor[UK]\n\t• Blue - Upstairs\n\t• Aqua - 6 chests upstairs in gang stashes. These can only be collected in one or the other. Both are not required and attempting to search the opposite gang stash on a second playthrough will show the chests as already looted.",
+    "description": "[Pick All](https://runescape.wikia.com/wiki/Pick_All) is an achievement that requires the player to use a lockpick to open all of [New Varrock](https://runescape.wikia.com/wiki/New_Varrock)'s treasure chests.\n\nNew Varrock is an alternate reality in which [Varrock](https://runescape.wikia.com/wiki/Varrock) has been taken over by Zemouregal. You cannot enter or leave the city by any means other than the fountain located in [Varrock Square](https://runescape.wikia.com/wiki/Varrock_Square) or New Varrock Square, respectively.\n\nPlayers can see a map for this achievement [here](https://vignette.wikia.nocookie.net/runescape2/images/e/e0/New_Varrock_chest_locations.png/revision/latest?cb=20170327015402).\n\t• Yellow - ground floor[UK]\n\t• Blue - Upstairs\n\t• Aqua - 6 chests upstairs in gang stashes. These can only be collected in one or the other. Both are not required and attempting to search the opposite gang stash on a second playthrough will show the chests as already looted.",
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/a/a4/New_Varrock_achievement_icon.png/revision/latest?cb=20180106224805"
     },
@@ -3521,7 +3545,7 @@ exports.data = {
       "name": "RuneScore Achievement Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Pick Half](https://runescape.wikia.com/wiki/Pick_Half) is an achievement requires the player to use a lockpick to open half of [New Varrock](https://runescape.wikia.com/wiki/New_Varrock)'s treasure chests. See map [here](https://vignette.wikia.nocookie.net/runescape2/images/e/e0/New_Varrock_chest_locations.png/revision/latest?cb=20170327015402).\n\t• Yellow - ground floor[UK]\n\t• Blue - Upstairs\n\t• Aqua - 6 chests upstairs in gang stashes. These can only be collected in one or the other. Both are not required and attempting to search the opposite gang stash on a second playthrough will show the chests as already looted.",
+    "description": "[Pick Half](https://runescape.wikia.com/wiki/Pick_Half) is an achievement requires the player to use a lockpick to open half of [New Varrock](https://runescape.wikia.com/wiki/New_Varrock)'s treasure chests.\n\nNew Varrock is an alternate reality in which [Varrock](https://runescape.wikia.com/wiki/Varrock) has been taken over by Zemouregal. You cannot enter or leave the city by any means other than the fountain located in [Varrock Square](https://runescape.wikia.com/wiki/Varrock_Square) or New Varrock Square, respectively.\n\nPlayers can see a map for this achievement [here](https://vignette.wikia.nocookie.net/runescape2/images/e/e0/New_Varrock_chest_locations.png/revision/latest?cb=20170327015402).\n\t• Yellow - ground floor[UK]\n\t• Blue - Upstairs\n\t• Aqua - 6 chests upstairs in gang stashes. These can only be collected in one or the other. Both are not required and attempting to search the opposite gang stash on a second playthrough will show the chests as already looted.",
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/a/a4/New_Varrock_achievement_icon.png/revision/latest?cb=20180106224805"
     },
@@ -3545,7 +3569,7 @@ exports.data = {
       "name": "RuneScore Achievement Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Pick One](https://runescape.wikia.com/wiki/Pick_One) is an achievement requires the player to use a lockpick to open any of [New Varrock](https://runescape.wikia.com/wiki/New_Varrock)'s treasure chests. See map [here](https://vignette.wikia.nocookie.net/runescape2/images/e/e0/New_Varrock_chest_locations.png/revision/latest?cb=20170327015402).\n\t• Yellow - ground floor[UK]\n\t• Blue - Upstairs\n\t• Aqua - 6 chests upstairs in gang stashes. These can only be collected in one or the other. Both are not required and attempting to search the opposite gang stash on a second playthrough will show the chests as already looted.",
+    "description": "[Pick One](https://runescape.wikia.com/wiki/Pick_One) is an achievement requires the player to use a lockpick to open any of [New Varrock](https://runescape.wikia.com/wiki/New_Varrock)'s treasure chests.\n\nNew Varrock is an alternate reality in which [Varrock](https://runescape.wikia.com/wiki/Varrock) has been taken over by Zemouregal. You cannot enter or leave the city by any means other than the fountain located in [Varrock Square](https://runescape.wikia.com/wiki/Varrock_Square) or New Varrock Square, respectively.\n\nPlayers can see a map for this achievement [here](https://vignette.wikia.nocookie.net/runescape2/images/e/e0/New_Varrock_chest_locations.png/revision/latest?cb=20170327015402).\n\t• Yellow - ground floor[UK]\n\t• Blue - Upstairs\n\t• Aqua - 6 chests upstairs in gang stashes. These can only be collected in one or the other. Both are not required and attempting to search the opposite gang stash on a second playthrough will show the chests as already looted.",
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/a/a4/New_Varrock_achievement_icon.png/revision/latest?cb=20180106224805"
     },
@@ -3569,7 +3593,7 @@ exports.data = {
       "name": "RuneScore Achievement Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Ready, Deady, Cook](https://runescape.wikia.com/wiki/Pick_One) is an achievement requires the player to cook some [meat](https://runescape.wikia.com/wiki/Raw_undead_beef) from an undead source ([cow](https://runescape.wikia.com/wiki/Zombie_cow_(New_Varrock) or chicken) at a [range](https://runescape.wikia.com/wiki/Range) or [fire](https://runescape.wikia.com/wiki/Fire).",
+    "description": "[Ready, Deady, Cook](https://runescape.wikia.com/wiki/Ready,_Deady,_Cook) is an achievement requires the player to cook some [meat](https://runescape.wikia.com/wiki/Raw_undead_beef) from an undead source ([cow](https://runescape.wikia.com/wiki/Zombie_cow_(New_Varrock) or chicken) at a [range](https://runescape.wikia.com/wiki/Range) or [fire](https://runescape.wikia.com/wiki/Fire) in [New Varrock](https://runescape.wikia.com/wiki/New_Varrock).\n\nNew Varrock is an alternate reality in which [Varrock](https://runescape.wikia.com/wiki/Varrock) has been taken over by Zemouregal. You cannot enter or leave the city by any means other than the fountain located in [Varrock Square](https://runescape.wikia.com/wiki/Varrock_Square) or New Varrock Square, respectively.",
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/a/a4/New_Varrock_achievement_icon.png/revision/latest?cb=20180106224805"
     },
@@ -3593,7 +3617,7 @@ exports.data = {
       "name": "RuneScore Achievement Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Scrying Game](https://runescape.wikia.com/wiki/Scrying_Game) is an achievement that requires the player to use the scrying pool in the treasure room of Zemouregal's [castle](https://runescape.wikia.com/wiki/New_Varrock#Castle) to spy on the citizens of [New Varrock](https://runescape.wikia.com/wiki/New_Varrock) by clicking on the first 6 options.",
+    "description": "[Scrying Game](https://runescape.wikia.com/wiki/Scrying_Game) is an achievement that requires the player to use the scrying pool in the treasure room of Zemouregal's [castle](https://runescape.wikia.com/wiki/New_Varrock#Castle) to spy on the citizens of [New Varrock](https://runescape.wikia.com/wiki/New_Varrock) by clicking on the first 6 options.\n\nNew Varrock is an alternate reality in which [Varrock](https://runescape.wikia.com/wiki/Varrock) has been taken over by Zemouregal. You cannot enter or leave the city by any means other than the fountain located in [Varrock Square](https://runescape.wikia.com/wiki/Varrock_Square) or New Varrock Square, respectively.",
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/a/a4/New_Varrock_achievement_icon.png/revision/latest?cb=20180106224805"
     },
@@ -3617,7 +3641,7 @@ exports.data = {
       "name": "RuneScore Achievement Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[New Varrock Set Tasks - Easy](https://runescape.wikia.com/wiki/New_Varrock_Set_Tasks_-_Easy) is an achievement that  is rewarded upon finishing the easy set of the [New Varrock achievements](https://runescape.wikia.com/wiki/New_Varrock_achievements).",
+    "description": "[New Varrock Set Tasks - Easy](https://runescape.wikia.com/wiki/New_Varrock_Set_Tasks_-_Easy) is an achievement that  is rewarded upon finishing the easy set of the [New Varrock achievements](https://runescape.wikia.com/wiki/New_Varrock_achievements).\n\n[New Varrock](https://runescape.wikia.com/wiki/New_Varrock) is an alternate reality in which [Varrock](https://runescape.wikia.com/wiki/Varrock) has been taken over by Zemouregal. You cannot enter or leave the city by any means other than the fountain located in [Varrock Square](https://runescape.wikia.com/wiki/Varrock_Square) or New Varrock Square, respectively.",
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/a/a4/New_Varrock_achievement_icon.png/revision/latest?cb=20180106224805"
     },
@@ -3641,7 +3665,7 @@ exports.data = {
       "name": "RuneScore Achievement Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[New Varrock Set Tasks - Elite](https://runescape.wikia.com/wiki/New_Varrock_Set_Tasks_-_Elite) is an achievement that  is rewarded upon finishing the elite set of the [New Varrock achievements](https://runescape.wikia.com/wiki/New_Varrock_achievements).",
+    "description": "[New Varrock Set Tasks - Elite](https://runescape.wikia.com/wiki/New_Varrock_Set_Tasks_-_Elite) is an achievement that  is rewarded upon finishing the elite set of the [New Varrock achievements](https://runescape.wikia.com/wiki/New_Varrock_achievements).\n\n[New Varrock](https://runescape.wikia.com/wiki/New_Varrock) is an alternate reality in which [Varrock](https://runescape.wikia.com/wiki/Varrock) has been taken over by Zemouregal. You cannot enter or leave the city by any means other than the fountain located in [Varrock Square](https://runescape.wikia.com/wiki/Varrock_Square) or New Varrock Square, respectively.",
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/a/a4/New_Varrock_achievement_icon.png/revision/latest?cb=20180106224805"
     },
@@ -3665,7 +3689,7 @@ exports.data = {
       "name": "RuneScore Achievement Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[New Varrock Set Tasks - Hard](https://runescape.wikia.com/wiki/New_Varrock_Set_Tasks_-_Hard) is an achievement that is rewarded upon finishing the hard set of the [New Varrock achievements](https://runescape.wikia.com/wiki/New_Varrock_achievements).",
+    "description": "[New Varrock Set Tasks - Hard](https://runescape.wikia.com/wiki/New_Varrock_Set_Tasks_-_Hard) is an achievement that is rewarded upon finishing the hard set of the [New Varrock achievements](https://runescape.wikia.com/wiki/New_Varrock_achievements).\n\n[New Varrock](https://runescape.wikia.com/wiki/New_Varrock) is an alternate reality in which [Varrock](https://runescape.wikia.com/wiki/Varrock) has been taken over by Zemouregal. You cannot enter or leave the city by any means other than the fountain located in [Varrock Square](https://runescape.wikia.com/wiki/Varrock_Square) or New Varrock Square, respectively.",
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/a/a4/New_Varrock_achievement_icon.png/revision/latest?cb=20180106224805"
     },
@@ -3689,7 +3713,7 @@ exports.data = {
       "name": "RuneScore Achievement Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[New Varrock Set Tasks - Medium](https://runescape.wikia.com/wiki/New_Varrock_Set_Tasks_-_Medium) is an achievement that  is rewarded upon finishing the medium set of the [New Varrock achievements](https://runescape.wikia.com/wiki/New_Varrock_achievements).",
+    "description": "[New Varrock Set Tasks - Medium](https://runescape.wikia.com/wiki/New_Varrock_Set_Tasks_-_Medium) is an achievement that  is rewarded upon finishing the medium set of the [New Varrock achievements](https://runescape.wikia.com/wiki/New_Varrock_achievements).\n\n[New Varrock](https://runescape.wikia.com/wiki/New_Varrock) is an alternate reality in which [Varrock](https://runescape.wikia.com/wiki/Varrock) has been taken over by Zemouregal. You cannot enter or leave the city by any means other than the fountain located in [Varrock Square](https://runescape.wikia.com/wiki/Varrock_Square) or New Varrock Square, respectively.",
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/a/a4/New_Varrock_achievement_icon.png/revision/latest?cb=20180106224805"
     },
@@ -3713,7 +3737,7 @@ exports.data = {
       "name": "RuneScore Achievement Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[South AND West Side Story](https://runescape.wikia.com/wiki/South_AND_West_Side_Story) is an achievement that requires the player to infiltrate both the [Black Arm Gang](https://runescape.wikia.com/wiki/Black_Arm_Gang) and the [Phoenix Gang](https://runescape.wikia.com/wiki/Phoenix_Gang). This requires the player to complete [Dimension of Disaster](https://runescape.wikia.com/wiki/Dimension_of_Disaster) at least once and then join the opposite gang during [Dimension of Disaster: Shield of Arrav](https://runescape.wikia.com/wiki/Dimension_of_Disaster:_Shield_of_Arrav).",
+    "description": "[South AND West Side Story](https://runescape.wikia.com/wiki/South_AND_West_Side_Story) is an achievement that requires the player to infiltrate both the [Black Arm Gang](https://runescape.wikia.com/wiki/Black_Arm_Gang) and the [Phoenix Gang](https://runescape.wikia.com/wiki/Phoenix_Gang) of [New Varrock](https://runescape.wikia.com/wiki/New_Varrock).\n\nNew Varrock is an alternate reality in which [Varrock](https://runescape.wikia.com/wiki/Varrock) has been taken over by Zemouregal. You cannot enter or leave the city by any means other than the fountain located in [Varrock Square](https://runescape.wikia.com/wiki/Varrock_Square) or New Varrock Square, respectively.\n\nThis achievement requires the player to complete [Dimension of Disaster](https://runescape.wikia.com/wiki/Dimension_of_Disaster) at least once and then join the opposite gang during [Dimension of Disaster: Shield of Arrav](https://runescape.wikia.com/wiki/Dimension_of_Disaster:_Shield_of_Arrav).",
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/a/a4/New_Varrock_achievement_icon.png/revision/latest?cb=20180106224805"
     },
@@ -3737,7 +3761,7 @@ exports.data = {
       "name": "RuneScore Achievement Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Steel, Stud or Silk Salute](https://runescape.wikia.com/wiki/Steel,_Stud_or_Silk_Salute) is an achievement that requires the player to perform the [Salute](https://runescape.wikia.com/wiki/Salute) emote in [New Varrock](https://runescape.wikia.com/wiki/New_Varrock) while wearing a full set of level 20 armour ([steel](https://runescape.wikia.com/wiki/Steel_equipment#Armour) helm, body and legs or [spider silk](https://runescape.wikia.com/wiki/Spider_silk_equipment) hood, robe top and bottoms or [leather](https://runescape.wikia.com/wiki/Studded_leather_armour) coif, studded body and studded chaps).\n\nPlayers can get drops from [New Varrock guards](https://runescape.wikia.com/wiki/New_Varrock_guard), or have the items traded from other players. Alternatively, if [Dimension of Disaster](https://runescape.wikia.com/wiki/Dimension_of_Disaster) is completed, one could purchase the [Sani](https://runescape.wikia.com/wiki/Sani) and [Zaff](https://runescape.wikia.com/wiki/Zaff) Shop Upgrade [reward](https://runescape.wikia.com/wiki/Gypsy_Aris%27_Reward_Shop) from [Gypsy Aris](https://runescape.wikia.com/wiki/Gypsy_Aris), then simply reset the quest and buy 7 [spider silk](https://runescape.wikia.com/wiki/Spider_silk) from [Zaff's Shop](https://runescape.wikia.com/wiki/New_Varrock#Zaff.27s_Superior_Spellcasting). The full set of robes can then be crafted without killing guards.",
+    "description": "[Steel, Stud or Silk Salute](https://runescape.wikia.com/wiki/Steel,_Stud_or_Silk_Salute) is an achievement that requires the player to perform the [Salute](https://runescape.wikia.com/wiki/Salute) emote in [New Varrock](https://runescape.wikia.com/wiki/New_Varrock) while wearing a full set of level 20 armour ([steel](https://runescape.wikia.com/wiki/Steel_equipment#Armour) helm, body and legs or [spider silk](https://runescape.wikia.com/wiki/Spider_silk_equipment) hood, robe top and bottoms or [leather](https://runescape.wikia.com/wiki/Studded_leather_armour) coif, studded body and studded chaps).\n\nNew Varrock is an alternate reality in which [Varrock](https://runescape.wikia.com/wiki/Varrock) has been taken over by Zemouregal. You cannot enter or leave the city by any means other than the fountain located in [Varrock Square](https://runescape.wikia.com/wiki/Varrock_Square) or New Varrock Square, respectively.\n\nPlayers can get drops from [New Varrock guards](https://runescape.wikia.com/wiki/New_Varrock_guard), or have the items traded from other players. Alternatively, if [Dimension of Disaster](https://runescape.wikia.com/wiki/Dimension_of_Disaster) is completed, one could purchase the [Sani](https://runescape.wikia.com/wiki/Sani) and [Zaff](https://runescape.wikia.com/wiki/Zaff) Shop Upgrade [reward](https://runescape.wikia.com/wiki/Gypsy_Aris%27_Reward_Shop) from [Gypsy Aris](https://runescape.wikia.com/wiki/Gypsy_Aris), then simply reset the quest and buy 7 [spider silk](https://runescape.wikia.com/wiki/Spider_silk) from [Zaff's Shop](https://runescape.wikia.com/wiki/New_Varrock#Zaff.27s_Superior_Spellcasting). The full set of robes can then be crafted without killing guards.",
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/a/a4/New_Varrock_achievement_icon.png/revision/latest?cb=20180106224805"
     },
@@ -3761,7 +3785,7 @@ exports.data = {
       "name": "RuneScore Achievement Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[They Had a Gudrun](https://runescape.wikia.com/wiki/They_Had_a_Gudrun) is an achievement  that requires the player to find a way to silence [Romeo](https://runescape.wikia.com/wiki/Romeo), in [Zemouregal's Study](https://runescape.wikia.com/wiki/New_Varrock#Castle) in [New Varrock](https://runescape.wikia.com/wiki/New_Varrock). Bring [cadava berries](https://runescape.wikia.com/wiki/Cadava_berries_(New_Varrock) to the [Apothecary](https://runescape.wikia.com/wiki/Apothecary) to create a [cadava potion](https://runescape.wikia.com/wiki/Cadava_potion_(New_Varrock) (a potion that makes it seem like the person that drinks it is dead). A cadava berry bush can be found near the entrance of Apothecary's house. Then bring this potion to the hanging heads in Zemouregal's study (ground floor[UK], north-west section inside of his castle) which requires a [vial of orange mist](https://runescape.wikia.com/wiki/Vial_of_orange_mist) to enter.\n\nThe vial of orange mist is made by putting some [Yellow dye](https://runescape.wikia.com/wiki/Yellow_dye_(Dimension_of_Disaster) in a [vial of red mist](https://runescape.wikia.com/wiki/Vial_of_red_mist). Yellow dye is made in New Varrock by bringing [Thessalia](https://runescape.wikia.com/wiki/Thessalia) an [onion](https://runescape.wikia.com/wiki/Onion) and a [vial of water](https://runescape.wikia.com/wiki/Vial_of_water). A vial of red mist can be obtained by killing an [Armoured zombie](https://runescape.wikia.com/wiki/Armoured_zombie) and using an [empty vial](https://runescape.wikia.com/wiki/Empty_vial) on the red mist that appears.",
+    "description": "[They Had a Gudrun](https://runescape.wikia.com/wiki/They_Had_a_Gudrun) is an achievement  that requires the player to find a way to silence [Romeo](https://runescape.wikia.com/wiki/Romeo), in [Zemouregal's Study](https://runescape.wikia.com/wiki/New_Varrock#Castle) in [New Varrock](https://runescape.wikia.com/wiki/New_Varrock).\n\nNew Varrock is an alternate reality in which [Varrock](https://runescape.wikia.com/wiki/Varrock) has been taken over by Zemouregal. You cannot enter or leave the city by any means other than the fountain located in [Varrock Square](https://runescape.wikia.com/wiki/Varrock_Square) or New Varrock Square, respectively.\n\nBring [cadava berries](https://runescape.wikia.com/wiki/Cadava_berries_(New_Varrock) to the [Apothecary](https://runescape.wikia.com/wiki/Apothecary) to create a [cadava potion](https://runescape.wikia.com/wiki/Cadava_potion_(New_Varrock) (a potion that makes it seem like the person that drinks it is dead). A cadava berry bush can be found near the entrance of Apothecary's house. Then bring this potion to the hanging heads in Zemouregal's study (ground floor[UK], north-west section inside of his castle) which requires a [vial of orange mist](https://runescape.wikia.com/wiki/Vial_of_orange_mist) to enter.\n\nThe vial of orange mist is made by putting some [Yellow dye](https://runescape.wikia.com/wiki/Yellow_dye_(Dimension_of_Disaster) in a [vial of red mist](https://runescape.wikia.com/wiki/Vial_of_red_mist). Yellow dye is made in New Varrock by bringing [Thessalia](https://runescape.wikia.com/wiki/Thessalia) an [onion](https://runescape.wikia.com/wiki/Onion) and a [vial of water](https://runescape.wikia.com/wiki/Vial_of_water). A vial of red mist can be obtained by killing an [Armoured zombie](https://runescape.wikia.com/wiki/Armoured_zombie) and using an [empty vial](https://runescape.wikia.com/wiki/Empty_vial) on the red mist that appears.",
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/a/a4/New_Varrock_achievement_icon.png/revision/latest?cb=20180106224805"
     },
@@ -3785,7 +3809,7 @@ exports.data = {
       "name": "RuneScore Achievement Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Tier Gear](https://runescape.wikia.com/wiki/Tier_Gear) is an achievement that requires the player to smith or craft any piece of level 10 armor ([iron](https://runescape.wikia.com/wiki/Iron_equipment), [imphide](https://runescape.wikia.com/wiki/Imphide_equipment) or [hardleather](https://runescape.wikia.com/wiki/Hard_leather_armour); head, body or legs) within [New Varrock](https://runescape.wikia.com/wiki/New_Varrock). An easy way to complete this is to obtain a [needle](https://runescape.wikia.com/wiki/Needle) and [thread](https://runescape.wikia.com/wiki/Thread) along with [hard leather](https://runescape.wikia.com/wiki/Hard_leather) by tanning a [zombie cow hide](https://runescape.wikia.com/wiki/Zombie_cowhide) at the [New Varrock Leather Emporium](https://runescape.wikia.com/wiki/New_Varrock#New_Varrock_Leather_Emporium), and then crafting the hard leather into any piece of armor.",
+    "description": "[Tier Gear](https://runescape.wikia.com/wiki/Tier_Gear) is an achievement that requires the player to smith or craft any piece of level 10 armor ([iron](https://runescape.wikia.com/wiki/Iron_equipment), [imphide](https://runescape.wikia.com/wiki/Imphide_equipment) or [hardleather](https://runescape.wikia.com/wiki/Hard_leather_armour); head, body or legs) within [New Varrock](https://runescape.wikia.com/wiki/New_Varrock).\n\nNew Varrock is an alternate reality in which [Varrock](https://runescape.wikia.com/wiki/Varrock) has been taken over by Zemouregal. You cannot enter or leave the city by any means other than the fountain located in [Varrock Square](https://runescape.wikia.com/wiki/Varrock_Square) or New Varrock Square, respectively.\n\nAn easy way to complete this is to obtain a [needle](https://runescape.wikia.com/wiki/Needle) and [thread](https://runescape.wikia.com/wiki/Thread) along with [hard leather](https://runescape.wikia.com/wiki/Hard_leather) by tanning a [zombie cow hide](https://runescape.wikia.com/wiki/Zombie_cowhide) at the [New Varrock Leather Emporium](https://runescape.wikia.com/wiki/New_Varrock#New_Varrock_Leather_Emporium), and then crafting the hard leather into any piece of armor.",
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/a/a4/New_Varrock_achievement_icon.png/revision/latest?cb=20180106224805"
     },
@@ -3809,7 +3833,7 @@ exports.data = {
       "name": "RuneScore Achievement Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Top Pick](https://runescape.wikia.com/wiki/Top_Pick) is an achievement that requires the player to use a lockpick to access [Zemouregal](https://runescape.wikia.com/wiki/Zemouregal)'s [lost property](https://runescape.wikia.com/wiki/Lost_property) chest (in his study).\n\nEnter the north-west room (the study) on the ground floor[UK] in the [castle](https://runescape.wikia.com/wiki/New_Varrock#Castle) passing the orange barrier and open the chest with your [lockpick](https://runescape.wikia.com/wiki/Lockpick_(Dimension_of_Disaster).",
+    "description": "[Top Pick](https://runescape.wikia.com/wiki/Top_Pick) is an achievement that requires the player to use a lockpick to access [Zemouregal](https://runescape.wikia.com/wiki/Zemouregal)'s [lost property](https://runescape.wikia.com/wiki/Lost_property) chest in his study within [New Varrock](https://runescape.wikia.com/wiki/New_Varrock).\n\nNew Varrock is an alternate reality in which [Varrock](https://runescape.wikia.com/wiki/Varrock) has been taken over by Zemouregal. You cannot enter or leave the city by any means other than the fountain located in [Varrock Square](https://runescape.wikia.com/wiki/Varrock_Square) or New Varrock Square, respectively.\n\nEnter the north-west room (the study) on the ground floor[UK] in the [castle](https://runescape.wikia.com/wiki/New_Varrock#Castle) passing the orange barrier and open the chest with your [lockpick](https://runescape.wikia.com/wiki/Lockpick_(Dimension_of_Disaster).",
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/a/a4/New_Varrock_achievement_icon.png/revision/latest?cb=20180106224805"
     },
@@ -3833,7 +3857,7 @@ exports.data = {
       "name": "RuneScore Achievement Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Trade Parade](https://runescape.wikia.com/wiki/Trade_Parade) is an achievement that requires the player to sell something to one of [New Varrock](https://runescape.wikia.com/wiki/New_Varrock)'s [many shops](https://runescape.wikia.com/wiki/New_Varrock#Commerce). You can complete this easily by selling your cooked food from the `Ready, Deady, Cook` task to [Gerturde’s Food](https://runescape.wikia.com/wiki/Gertrude%27s_Food) store.",
+    "description": "[Trade Parade](https://runescape.wikia.com/wiki/Trade_Parade) is an achievement that requires the player to sell something to one of [New Varrock](https://runescape.wikia.com/wiki/New_Varrock)'s [many shops](https://runescape.wikia.com/wiki/New_Varrock#Commerce).\n\nNew Varrock is an alternate reality in which [Varrock](https://runescape.wikia.com/wiki/Varrock) has been taken over by Zemouregal. You cannot enter or leave the city by any means other than the fountain located in [Varrock Square](https://runescape.wikia.com/wiki/Varrock_Square) or New Varrock Square, respectively.\n\nYou can complete this easily by selling your cooked food from the [Ready, Deady, Cook](https://runescape.wikia.com/wiki/Ready,_Deady,_Cook) task to [Gerturde’s Food](https://runescape.wikia.com/wiki/Gertrude%27s_Food) store.",
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/a/a4/New_Varrock_achievement_icon.png/revision/latest?cb=20180106224805"
     },
@@ -4312,63 +4336,63 @@ exports.data = {
       },
       {
         "name": "​",
-        "value": "• **Berry:** [Fireberry](https://runescape.wikia.com/wiki/Fireberry)\n\t• **Cross-pollination / source:** Rumberry seed and [Exuberry seed](https://runescape.wikia.com/wiki/Exuberry_seed)"
+        "value": "**Berry:** [Fireberry](https://runescape.wikia.com/wiki/Fireberry)\n\t• **Cross-pollination / source:** Rumberry seed and [Exuberry seed](https://runescape.wikia.com/wiki/Exuberry_seed)"
       },
       {
         "name": "​",
-        "value": "• **Berry:** [Blisterberry](https://runescape.wikia.com/wiki/Blisterberry)\n\t• **Cross-pollination / source:** Rumberry seed and [Fireberry seed](https://runescape.wikia.com/wiki/Fireberry_seed)"
+        "value": "**Berry:** [Blisterberry](https://runescape.wikia.com/wiki/Blisterberry)\n\t• **Cross-pollination / source:** Rumberry seed and [Fireberry seed](https://runescape.wikia.com/wiki/Fireberry_seed)"
       },
       {
         "name": "​",
-        "value": "• **Berry:** [Mournberry](https://runescape.wikia.com/wiki/Mournberry)\n\t• **Cross-pollination / source:** Exuberry seed and Fireberry seed"
+        "value": "**Berry:** [Mournberry](https://runescape.wikia.com/wiki/Mournberry)\n\t• **Cross-pollination / source:** Exuberry seed and Fireberry seed"
       },
       {
         "name": "​",
-        "value": "• **Berry:** [Stoneberry](https://runescape.wikia.com/wiki/Stoneberry)\n\t• **Cross-pollination / source:** Found in [treasure chests](https://runescape.wikia.com/wiki/Treasure_chest_(Uncharted_Isles) on Uncharted Isles"
+        "value": "**Berry:** [Stoneberry](https://runescape.wikia.com/wiki/Stoneberry)\n\t• **Cross-pollination / source:** Found in [treasure chests](https://runescape.wikia.com/wiki/Treasure_chest_(Uncharted_Isles) on Uncharted Isles"
       },
       {
         "name": "​",
-        "value": "• **Berry:** [Stormberry](https://runescape.wikia.com/wiki/Stormberry)\n\t• **Cross-pollination / source:** Found in treasure chests on Uncharted Isles"
+        "value": "**Berry:** [Stormberry](https://runescape.wikia.com/wiki/Stormberry)\n\t• **Cross-pollination / source:** Found in treasure chests on Uncharted Isles"
       },
       {
         "name": "​",
-        "value": "• **Berry:** [Rosaberry](https://runescape.wikia.com/wiki/Rosaberry)\n\t• **Cross-pollination / source:** Rumberry seed and [Stoneberry seed](https://runescape.wikia.com/wiki/Stoneberry_seed)"
+        "value": "**Berry:** [Rosaberry](https://runescape.wikia.com/wiki/Rosaberry)\n\t• **Cross-pollination / source:** Rumberry seed and [Stoneberry seed](https://runescape.wikia.com/wiki/Stoneberry_seed)"
       },
       {
         "name": "​",
-        "value": "• **Berry:** [Squiffberry](https://runescape.wikia.com/wiki/Squiffberry)\n\t• **Cross-pollination / source:** Rumberry seed and [Blisterberry seed](https://runescape.wikia.com/wiki/Blisterberry_seed)"
+        "value": "**Berry:** [Squiffberry](https://runescape.wikia.com/wiki/Squiffberry)\n\t• **Cross-pollination / source:** Rumberry seed and [Blisterberry seed](https://runescape.wikia.com/wiki/Blisterberry_seed)"
       },
       {
         "name": "​",
-        "value": "• **Berry:** [Meloberry](https://runescape.wikia.com/wiki/Meloberry)\n\t• **Cross-pollination / source:** Rumberry seed and [Mournberry seed](https://runescape.wikia.com/wiki/Mournberry_seed)"
+        "value": "**Berry:** [Meloberry](https://runescape.wikia.com/wiki/Meloberry)\n\t• **Cross-pollination / source:** Rumberry seed and [Mournberry seed](https://runescape.wikia.com/wiki/Mournberry_seed)"
       },
       {
         "name": "​",
-        "value": "• **Berry:** [Jitterberry](https://runescape.wikia.com/wiki/Jitterberry)\n\t• **Cross-pollination / source:** Exuberry seed and Blisterberry seed"
+        "value": "**Berry:** [Jitterberry](https://runescape.wikia.com/wiki/Jitterberry)\n\t• **Cross-pollination / source:** Exuberry seed and Blisterberry seed"
       },
       {
         "name": "​",
-        "value": "• **Berry:** [Cocoaberry](https://runescape.wikia.com/wiki/Cocoaberry)\n\t• **Cross-pollination / source:** Exuberry seed and Mournberry seed"
+        "value": "**Berry:** [Cocoaberry](https://runescape.wikia.com/wiki/Cocoaberry)\n\t• **Cross-pollination / source:** Exuberry seed and Mournberry seed"
       },
       {
         "name": "​",
-        "value": "• **Berry:** [Smoulderberry](https://runescape.wikia.com/wiki/Smoulderberry)\n\t• **Cross-pollination / source:** Fireberry seed and Blisterberry seed"
+        "value": "**Berry:** [Smoulderberry](https://runescape.wikia.com/wiki/Smoulderberry)\n\t• **Cross-pollination / source:** Fireberry seed and Blisterberry seed"
       },
       {
         "name": "​",
-        "value": "• **Berry:** [Sourberry](https://runescape.wikia.com/wiki/Sourberry)\n\t• **Cross-pollination / source:** Fireberry seed and Mournberry seed"
+        "value": "**Berry:** [Sourberry](https://runescape.wikia.com/wiki/Sourberry)\n\t• **Cross-pollination / source:** Fireberry seed and Mournberry seed"
       },
       {
         "name": "​",
-        "value": "• **Berry:** [Gloomberry](https://runescape.wikia.com/wiki/Gloomberry)\n\t• **Cross-pollination / source:** Blisterberry seed and Mournberry seed"
+        "value": "**Berry:** [Gloomberry](https://runescape.wikia.com/wiki/Gloomberry)\n\t• **Cross-pollination / source:** Blisterberry seed and Mournberry seed"
       },
       {
         "name": "​",
-        "value": "• **Berry:** [Musaberry](https://runescape.wikia.com/wiki/Musaberry)\n\t• **Cross-pollination / source:** Exuberry seed and [Stormberry seed](https://runescape.wikia.com/wiki/Stormberry_seed)"
+        "value": "**Berry:** [Musaberry](https://runescape.wikia.com/wiki/Musaberry)\n\t• **Cross-pollination / source:** Exuberry seed and [Stormberry seed](https://runescape.wikia.com/wiki/Stormberry_seed)"
       },
       {
         "name": "Requirements:",
-        "value": "• 86 Farming\n• 90 Hunter\n\n• Impressing the Locals Quest completion | [Runescape Wiki](https://runescape.wikia.com/wiki/Impressing_the_Locals)"
+        "value": "• 86 Farming\n• 90 Hunter (optional)\n\n• Impressing the Locals Quest completion | [Runescape Wiki](https://runescape.wikia.com/wiki/Impressing_the_Locals)"
       },
       {
         "name": "Guide:",
@@ -4392,67 +4416,67 @@ exports.data = {
     },
     "fields": [{
         "name": "Bird Log",
-        "value": "• **Bird:** [Cyclosis Cockatiel](https://runescape.wikia.com/wiki/Cyclosis_Cockatiel)\n\t• **Event:** Thursday\n\t• **Location:** On [Cyclosis](https://runescape.wikia.com/wiki/Cyclosis) at the south-eastern beach"
+        "value": "**Bird:** [Cyclosis Cockatiel](https://runescape.wikia.com/wiki/Cyclosis_Cockatiel)\n\t• **Event:** Thursday\n\t• **Location:** On [Cyclosis](https://runescape.wikia.com/wiki/Cyclosis) at the south-eastern beach"
       },
       {
         "name": "​",
-        "value": "• **Bird:** [Pumpkin Limpkin](https://runescape.wikia.com/wiki/Pumpkin_Limpkin)\n\t• **Event:** Farming/Foraging\n\t• **Location:** [Mushroom cluster](https://runescape.wikia.com/wiki/Mushroom_cluster) or berry bushes throughout the Arc."
+        "value": "**Bird:** [Pumpkin Limpkin](https://runescape.wikia.com/wiki/Pumpkin_Limpkin)\n\t• **Event:** Farming/Foraging\n\t• **Location:** [Mushroom cluster](https://runescape.wikia.com/wiki/Mushroom_cluster) or berry bushes throughout the Arc."
       },
       {
         "name": "​",
-        "value": "• **Bird:** [Cyansoul Kakapo](https://runescape.wikia.com/wiki/Cyansoul_Kakapo)\n\t• **Event:** Siphoning springs\n\t• **Location:** [Divination](https://runescape.wikia.com/wiki/Divination) colonies throughout the Arc."
+        "value": "**Bird:** [Cyansoul Kakapo](https://runescape.wikia.com/wiki/Cyansoul_Kakapo)\n\t• **Event:** Siphoning springs\n\t• **Location:** [Divination](https://runescape.wikia.com/wiki/Divination) colonies throughout the Arc."
       },
       {
         "name": "​",
-        "value": "• **Bird:** [Tortleshell Plover](https://runescape.wikia.com/wiki/Tortleshell_Plover)\n\t• **Event:** Hunting tortles\n\t• **Location:** [Tortle](https://runescape.wikia.com/wiki/Tortle) colonies throughout the Arc."
+        "value": "**Bird:** [Tortleshell Plover](https://runescape.wikia.com/wiki/Tortleshell_Plover)\n\t• **Event:** Hunting tortles\n\t• **Location:** [Tortle](https://runescape.wikia.com/wiki/Tortle) colonies throughout the Arc."
       },
       {
         "name": "​",
-        "value": "• **Bird:** [Dusky Wigglebill](https://runescape.wikia.com/wiki/Dusky_Wigglebill)\n\t• **Event:** Tuesday / Dusk Skybox\n\t• **Location:** [Aminishi](https://runescape.wikia.com/wiki/Aminishi)'s spirit realm, at the west beach. While using NXT dust [skybox](https://runescape.wikia.com/wiki/Skyboxes_and_filters), this bird can also be found on Uncharted Isles"
+        "value": "**Bird:** [Dusky Wigglebill](https://runescape.wikia.com/wiki/Dusky_Wigglebill)\n\t• **Event:** Tuesday / Dusk Skybox\n\t• **Location:** [Aminishi](https://runescape.wikia.com/wiki/Aminishi)'s spirit realm, at the west beach. While using NXT dust [skybox](https://runescape.wikia.com/wiki/Skyboxes_and_filters), this bird can also be found on Uncharted Isles"
       },
       {
         "name": "​",
-        "value": "• **Bird:** [Titchy Tinamou](https://runescape.wikia.com/wiki/Titchy_Tinamou)\n\t• **Event:** Friday on [The Islands That Once Were Turtles](https://runescape.wikia.com/wiki/The_Islands_That_Once_Were_Turtles), Tuesday and Thursday on Uncharted Isles\n\t• **Location:** On the first island of The Islands That Once Were Turtles, at the northern end of the west beach, or on Uncharted Isles."
+        "value": "**Bird:** [Titchy Tinamou](https://runescape.wikia.com/wiki/Titchy_Tinamou)\n\t• **Event:** Friday on [The Islands That Once Were Turtles](https://runescape.wikia.com/wiki/The_Islands_That_Once_Were_Turtles), Tuesday and Thursday on Uncharted Isles\n\t• **Location:** On the first island of The Islands That Once Were Turtles, at the northern end of the west beach, or on Uncharted Isles."
       },
       {
         "name": "​",
-        "value": "• **Bird:** [Azure Parrot](https://runescape.wikia.com/wiki/Azure_Parrot)\n\t• **Event:** [Arc gumbo](https://runescape.wikia.com/wiki/Arc_gumbo) or [Shark soup](https://runescape.wikia.com/wiki/Shark_soup)\n\t• **Location:** Fires and ranges in the Arc. You don't have to be cooking, but that's where the bird appears on Waiko."
+        "value": "**Bird:** [Azure Parrot](https://runescape.wikia.com/wiki/Azure_Parrot)\n\t• **Event:** [Arc gumbo](https://runescape.wikia.com/wiki/Arc_gumbo) or [Shark soup](https://runescape.wikia.com/wiki/Shark_soup)\n\t• **Location:** Fires and ranges in the Arc. You don't have to be cooking, but that's where the bird appears on Waiko."
       },
       {
         "name": "​",
-        "value": "• **Bird:** [Awah Guan](https://runescape.wikia.com/wiki/Awah_Guan)\n\t• **Event:** Mining [Alaea sea salt](https://runescape.wikia.com/wiki/Alaea_sea_salt) or [Sea salt](https://runescape.wikia.com/wiki/Sea_salt)\n\t• **Location:** Near [crablet](https://runescape.wikia.com/wiki/Crablet) spawns on Uncharted Isles or by the [salty crabletines](https://runescape.wikia.com/wiki/Salty_crabletine) on Cyclosis."
+        "value": "**Bird:** [Awah Guan](https://runescape.wikia.com/wiki/Awah_Guan)\n\t• **Event:** Mining [Alaea sea salt](https://runescape.wikia.com/wiki/Alaea_sea_salt) or [Sea salt](https://runescape.wikia.com/wiki/Sea_salt)\n\t• **Location:** Near [crablet](https://runescape.wikia.com/wiki/Crablet) spawns on Uncharted Isles or by the [salty crabletines](https://runescape.wikia.com/wiki/Salty_crabletine) on Cyclosis."
       },
       {
         "name": "​",
-        "value": "• **Bird:** [Great Pecker](https://runescape.wikia.com/wiki/Great_Pecker)\n\t• **Event:** Cutting [Bamboo](https://runescape.wikia.com/wiki/Bamboo_(tree) or [Golden Bamboo](https://runescape.wikia.com/wiki/Golden_Bamboo_(tree)\n\t• **Location:** Bamboo trees throughout the Arc."
+        "value": "**Bird:** [Great Pecker](https://runescape.wikia.com/wiki/Great_Pecker)\n\t• **Event:** Cutting [Bamboo](https://runescape.wikia.com/wiki/Bamboo_(tree) or [Golden Bamboo](https://runescape.wikia.com/wiki/Golden_Bamboo_(tree)\n\t• **Location:** Bamboo trees throughout the Arc."
       },
       {
         "name": "​",
-        "value": "• **Bird:** [Tuai Leit Toucan](https://runescape.wikia.com/wiki/Tuai_Leit_Toucan)\n\t• **Event:** Saturday\n\t• **Location:** On [Tuai Leit](https://runescape.wikia.com/wiki/Tuai_Leit), west of the [Rumberry bush](https://runescape.wikia.com/wiki/Rumberry_bush)"
+        "value": "**Bird:** [Tuai Leit Toucan](https://runescape.wikia.com/wiki/Tuai_Leit_Toucan)\n\t• **Event:** Saturday\n\t• **Location:** On [Tuai Leit](https://runescape.wikia.com/wiki/Tuai_Leit), west of the [Rumberry bush](https://runescape.wikia.com/wiki/Rumberry_bush)"
       },
       {
         "name": "​",
-        "value": "• **Bird:** [Waiko Warbler](https://runescape.wikia.com/wiki/Waiko_Warbler)\n\t• **Event:** Sunday\n\t• **Location:** [Waiko](https://runescape.wikia.com/wiki/Waiko) marketplace"
+        "value": "**Bird:** [Waiko Warbler](https://runescape.wikia.com/wiki/Waiko_Warbler)\n\t• **Event:** Sunday\n\t• **Location:** [Waiko](https://runescape.wikia.com/wiki/Waiko) marketplace"
       },
       {
         "name": "​",
-        "value": "• **Bird:** [Fluffy Jublet](https://runescape.wikia.com/wiki/Fluffy_Jublet)\n\t• **Event:** Monday, Wednesday, Friday, Saturday, Sunday\n\t• **Location:** Uncharted Isles"
+        "value": "**Bird:** [Fluffy Jublet](https://runescape.wikia.com/wiki/Fluffy_Jublet)\n\t• **Event:** Monday, Wednesday, Friday, Saturday, Sunday\n\t• **Location:** Uncharted Isles"
       },
       {
         "name": "​",
-        "value": "• **Bird:** [Cocoa Macaw](https://runescape.wikia.com/wiki/Cocoa_Macaw)\n\t• **Event:** Monday, Wednesday, Friday, Saturday, Sunday\n\t• **Location:** Uncharted Isles"
+        "value": "**Bird:** [Cocoa Macaw](https://runescape.wikia.com/wiki/Cocoa_Macaw)\n\t• **Event:** Monday, Wednesday, Friday, Saturday, Sunday\n\t• **Location:** Uncharted Isles"
       },
       {
         "name": "​",
-        "value": "• **Bird:** [Gongdung Peligorn](https://runescape.wikia.com/wiki/Gongdung_Peligorn)\n\t• **Event:** Wednesday\n\t• **Location:** On [Goshima](https://runescape.wikia.com/wiki/Goshima) at the south-western beach"
+        "value": "**Bird:** [Gongdung Peligorn](https://runescape.wikia.com/wiki/Gongdung_Peligorn)\n\t• **Event:** Wednesday\n\t• **Location:** On [Goshima](https://runescape.wikia.com/wiki/Goshima) at the south-western beach"
       },
       {
         "name": "​",
-        "value": "• **Bird:** [Crested Sillago Snatcher](https://runescape.wikia.com/wiki/Crested_Sillago_Snatcher)\n\t• **Event:** Monday\n\t• **Location:** On [Whale's Maw](https://runescape.wikia.com/wiki/Whale%27s_Maw) above the east docks, by [The Whaler](https://runescape.wikia.com/wiki/The_Whaler)"
+        "value": "**Bird:** [Crested Sillago Snatcher](https://runescape.wikia.com/wiki/Crested_Sillago_Snatcher)\n\t• **Event:** Monday\n\t• **Location:** On [Whale's Maw](https://runescape.wikia.com/wiki/Whale%27s_Maw) above the east docks, by [The Whaler](https://runescape.wikia.com/wiki/The_Whaler)"
       },
       {
         "name": "​",
-        "value": "• **Bird:** [Shrine Ibis](https://runescape.wikia.com/wiki/Shrine_Ibis)\n\t• **Event:** Tuesday\n\t• **Location:** On Aminishi near the statue that's used by the monks in a cleansing ritual"
+        "value": "**Bird:** [Shrine Ibis](https://runescape.wikia.com/wiki/Shrine_Ibis)\n\t• **Event:** Tuesday\n\t• **Location:** On Aminishi near the statue that's used by the monks in a cleansing ritual"
       },
       {
         "name": "Requirements:",
@@ -4623,7 +4647,7 @@ exports.data = {
     },
     "fields": [{
         "name": "Requirements:",
-        "value": "• [Birds of the Arc](https://runescape.wikia.com/wiki/Birds_of_the_Arc)\n\t• Completion of this achievement unlocks [Iago](https://runescape.wikia.com/wiki/Iago), a pet [shrine ibis](https://runescape.wikia.com/wiki/Shrine_Ibis), after speaking to [Odd Billy](https://runescape.wikia.com/wiki/Odd_Billy) on [Cyclosis](https://runescape.wikia.com/wiki/Cyclosis).\n\n• [Berries of the Arc](https://runescape.wikia.com/wiki/Berries_of_the_Arc)\n\t• Speaking to [Ani](https://runescape.wikia.com/wiki/Ani_(farming_merchant) after completion of this achievement grants the player a 50,000 experience [Farming lamp](https://runescape.wikia.com/wiki/Farming_XP_lamp_(Ani) and a 10% boost to the experience and berries harvested from Arc berry plants.)."
+        "value": "• [Birds of the Arc](https://runescape.wikia.com/wiki/Birds_of_the_Arc)\n\t• Completion of this achievement unlocks [Iago](https://runescape.wikia.com/wiki/Iago), a pet [shrine ibis](https://runescape.wikia.com/wiki/Shrine_Ibis), after speaking to [Odd Billy](https://runescape.wikia.com/wiki/Odd_Billy) on [Cyclosis](https://runescape.wikia.com/wiki/Cyclosis).\n\n• [Berries of the Arc](https://runescape.wikia.com/wiki/Berries_of_the_Arc)\n\t• Speaking to [Ani](https://runescape.wikia.com/wiki/Ani_(farming_merchant) after completion of this achievement grants the player a 50,000 experience [Farming lamp](https://runescape.wikia.com/wiki/Farming_XP_lamp_(Ani) and a 10% boost to the experience and berries harvested from Arc berry plants."
       },
       {
         "name": "​",
@@ -4641,7 +4665,7 @@ exports.data = {
       "name": "RuneScore Achievement Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Arc - Salty](https://runescape.wikia.com/wiki/Arc_-_Salty) is an achievement that requires the player to unlock all [Arc rewards](https://runescape.wikia.com/wiki/Waiko_Reward_Shop), complete the [Arc journal](https://runescape.wikia.com/wiki/Arc_Journal), and convince [Flippers McGraw](https://runescape.wikia.com/wiki/Flippers_McGraw) to join their crew.\n\nCompletion of this achievement unlocks the `Salty [Name]` title.\n\nYou may utilize the `.rs exploration wushanko: the arc` commands in this server for a list of all task guides.",
+    "description": "[Arc - Salty](https://runescape.wikia.com/wiki/Arc_-_Salty) is an achievement that requires the player to unlock all [Arc rewards](https://runescape.wikia.com/wiki/Waiko_Reward_Shop), complete the [Arc journal](https://runescape.wikia.com/wiki/Arc_Journal), and convince [Flippers McGraw](https://runescape.wikia.com/wiki/Flippers_McGraw) to join their crew.\n\nCompletion of this achievement unlocks the **Salty [Name]** title.\n\nYou may utilize the **.rs exploration wushanko: the arc** commands in this server for a list of all task guides.",
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/a/ad/Wushanko_-_The_Arc_achievement_icon.png/revision/latest?cb=20180221204546"
     },
@@ -4693,17 +4717,13 @@ exports.data = {
       "name": "RuneScore Achievement Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Arc - Unlocking More Waiko](https://runescape.wikia.com/wiki/Arc_-_Unlocking_More_Waiko) is an achievement that requires the player to purchase additional unlocks from the [Waiko Reward Shop](https://runescape.wikia.com/wiki/Waiko_Reward_Shop). The additional unlocks have a total cost of 192,600 [chimes](https://runescape.wikia.com/wiki/Chimes), 277 [taijitu](https://runescape.wikia.com/wiki/Taijitu), and 2 [Golden idols](https://runescape.wikia.com/wiki/Golden_idol).",
+    "description": "[Arc - Upgrading All of the Waiko](https://runescape.wikia.com/wiki/Arc_-_Upgrading_All_of_the_Waiko) is an achievement that requires the player to purchase all tiers of the upgrades listed below from the Waiko Reward Shop for a total cost of 52,000 [chimes](https://runescape.wikia.com/wiki/Chimes) and 49 [taijitu](https://runescape.wikia.com/wiki/Taijitu).",
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/a/ad/Wushanko_-_The_Arc_achievement_icon.png/revision/latest?cb=20180221204546"
     },
     "fields": [{
         "name": "Requirements:",
-        "value": "• Sojobo [Contract](https://runescape.wikia.com/wiki/Contract) Guru\n• [Ancestral Divination I](https://runescape.wikia.com/wiki/Ancestral_Divination_I)\n• [Ancestral Divination II](https://runescape.wikia.com/wiki/Ancestral_Divination_II)\n• [Ancestral Conversion](https://runescape.wikia.com/wiki/Ancestral_Conversion)\n• [Spirit Dragon Pet](https://runescape.wikia.com/wiki/Spirit_dragon)\n• [Idol Crabletine Pet](https://runescape.wikia.com/wiki/Idol_crabletine)\n• [Gu Ronin Outfit](https://runescape.wikia.com/wiki/Gu_ronin_armour)\n• [Death Lotus Rogue Outfit](https://runescape.wikia.com/wiki/Death_Lotus_rogue_armour)\n• [Seasinger Acolyte Outfit](https://runescape.wikia.com/wiki/Seasinger_acolyte_armour)\n• [Hunter Outfit](https://runescape.wikia.com/wiki/Hunter%27s_outfit)"
-      },
-      {
-        "name": "​",
-        "value": "• [Hanto Outfit](https://runescape.wikia.com/wiki/High_Armour_of_Hanto)\n• [Thalassia's Revenge](https://runescape.wikia.com/wiki/Thalassia%27s_Revenge)\n• [Winds of Waiko](https://runescape.wikia.com/wiki/Winds_of_Waiko)\n• [Rage of Hyu-Ji](https://runescape.wikia.com/wiki/Rage_of_Hyu-Ji)\n\n• Impressing the Locals Quest completion | [Runescape Wiki](https://runescape.wikia.com/wiki/Impressing_the_Locals)"
+        "value": "• Commodity sell per day increase\n• **Tiers:** 2\n\nSupplies cap increase\n• **Tiers:** 4\n\nContracts per day increase\n• **Tiers:** 4\n\nSupplies cost reduction\n• **Tiers:** 5\n\nCommodity sell price increase\n• **Tiers:** 2\n\n• Impressing the Locals Quest completion | [Runescape Wiki](https://runescape.wikia.com/wiki/Impressing_the_Locals)"
       },
       {
         "name": "Guide:",
@@ -4721,7 +4741,7 @@ exports.data = {
       "name": "RuneScore Achievement Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Wushanko Isles: The Arc](https://runescape.wikia.com/wiki/Wushanko_Isles:_The_Arc) is an achievement that requires the player to complete the [Arc Journal](https://runescape.wikia.com/wiki/Arc_Journal). The Arc Journal is a book given to the player by [Sharkborne](https://runescape.wikia.com/wiki/Sharkborne) on [Waiko](https://runescape.wikia.com/wiki/Waiko).\n\nCompletion of this achievement unlocks `[Name] the Voyager` title.\n\nYou may utilize the `.rs exploration wushanko: the arc` commands in this server for a list of all task guides.",
+    "description": "[Wushanko Isles: The Arc](https://runescape.wikia.com/wiki/Wushanko_Isles:_The_Arc) is an achievement that requires the player to complete the [Arc Journal](https://runescape.wikia.com/wiki/Arc_Journal). The Arc Journal is a book given to the player by [Sharkborne](https://runescape.wikia.com/wiki/Sharkborne) on [Waiko](https://runescape.wikia.com/wiki/Waiko).\n\nCompletion of this achievement unlocks **[Name] the Voyager** title.\n\nYou may utilize the **.rs exploration wushanko: the arc** commands in this server for a list of all task guides.",
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/a/ad/Wushanko_-_The_Arc_achievement_icon.png/revision/latest?cb=20180221204546"
     },
@@ -4906,7 +4926,7 @@ exports.data = {
       "name": "RuneScore Achievement Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Little Leaguer](https://runescape.wikia.com/wiki/Little_Leaguer) is an achievement that requires the player to play a game of [Gnome Ball](https://runescape.wikia.com/wiki/Gnome_Ball) and score a goal. Gnome ball is located north-east of the [Tree Gnome Stronghold](https://runescape.wikia.com/wiki/Tree_Gnome_Stronghold), west of the [Grand Tree](https://runescape.wikia.com/wiki/Grand_Tree). This achievement and [minigame](https://runescape.wikia.com/wiki/Minigames) can be done solo.",
+    "description": "[Little Leaguer](https://runescape.wikia.com/wiki/Little_Leaguer) is an achievement that requires the player to play a game of [Gnome Ball](https://runescape.wikia.com/wiki/Gnome_Ball) and score a goal. This is done by throwing the [gnomeball](https://runescape.wikia.com/wiki/Gnomeball) into the goal.\n\nGnome ball is located north-east of the [Tree Gnome Stronghold](https://runescape.wikia.com/wiki/Tree_Gnome_Stronghold), west of the [Grand Tree](https://runescape.wikia.com/wiki/Grand_Tree). When players enter the field, they should talk to the referee to learn the rules and how to play. When you are ready to shoot, simply click on the goal, and you will shoot it. You will either score, or not.\n\nThis achievement and [minigame](https://runescape.wikia.com/wiki/Minigames) can be done solo.",
     "thumbnail": {
       "url": "https://i.imgur.com/Shmagnp.png"
     },
@@ -4944,7 +4964,7 @@ exports.data = {
       "name": "RuneScore Achievement Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Seeing Lava](https://runescape.wikia.com/wiki/Seeing_Lava) is an achievement that requires the player to use a previously obtained [fire cape](https://runescape.wikia.com/wiki/Fire_cape) on [TzTok-Jad](https://runescape.wikia.com/wiki/TzTok-Jad) at the end of the [TzHaar Fight Caves]. TzTok-Jad is the final and most powerful TzHaar creature in the TzHaar Fight Cave, appearing at wave 63.The Fight Cave is located in [TzHaar City](https://runescape.wikia.com/wiki/TzHaar_City), deep under the ground of [Karamja](https://runescape.wikia.com/wiki/Karamja).\n\nBe aware that you will run up to TzTok-Jad when using the fire cape on him. As this occurs, he can perform a melee attack when you are still within melee distance for his next attack.\n\nUsing a fire cape on a TokHaar-Jad in the Fight Kiln will not complete this achievement, nor can TokHaar-Kal capes from the Fight Kiln be used as a substitute.",
+    "description": "[Seeing Lava](https://runescape.wikia.com/wiki/Seeing_Lava) is an achievement that requires the player to use a previously obtained [fire cape](https://runescape.wikia.com/wiki/Fire_cape) on [TzTok-Jad](https://runescape.wikia.com/wiki/TzTok-Jad) at the end of the [TzHaar Fight Caves](https://runescape.wikia.com/wiki/TzHaar_Fight_Cave). TzTok-Jad is the final and most powerful TzHaar creature in the TzHaar Fight Cave, appearing at wave 63.\n\nThe Fight Cave is located in [TzHaar City](https://runescape.wikia.com/wiki/TzHaar_City), deep under the ground of [Karamja](https://runescape.wikia.com/wiki/Karamja).\n\nBe aware that you will run up to TzTok-Jad when using the fire cape on him. As this occurs, he can perform a melee attack when you are still within melee distance for his next attack. This is the fastest of TzTok-Jads attacks, and no warning is given for it, so [deflect melee](https://runescape.wikia.com/wiki/Deflect_Melee) may be required.\n\nUsing a fire cape on a TokHaar-Jad in the [Fight Kiln](https://runescape.wikia.com/wiki/Fight_Kiln) will not complete this achievement, nor can [TokHaar-Kal](https://runescape.wikia.com/wiki/TokHaar-Kal) capes from the Fight Kiln be used as a substitute.",
     "thumbnail": {
       "url": "https://i.imgur.com/Shmagnp.png"
     },
@@ -4968,7 +4988,7 @@ exports.data = {
       "name": "RuneScore Achievement Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Source of Denial](https://runescape.wikia.com/wiki/Source_of_Denial) is an achievement that requires the player to pick a [Squ’irk fruit](https://runescape.wikia.com/wiki/Sq%27irk) from a [Sq'irk tree](https://runescape.wikia.com/wiki/Sq%27irk_tree) in the [Sorceress's Garden](https://runescape.wikia.com/wiki/Sorceress%27s_Garden) without stopping to avoid the elementals.\n\nThe player has to start right beyond the entrance gate and pick a fruit from the tree without stopping. Running is imperative. Players may find it easiest to achieve on the [Winter Garden](https://runescape.wikia.com/wiki/Sorceress%27s_Garden/Winter) as it's the least troublesome of the four gardens.\n\nWhen you see the spirit, click on the sq’irk tree and let your character do the running. As you near the tree, click on it again so it picks it straight up.",
+    "description": "[Source of Denial](https://runescape.wikia.com/wiki/Source_of_Denial) is an achievement that requires the player to pick a [Squ’irk fruit](https://runescape.wikia.com/wiki/Sq%27irk) from a [Sq'irk tree](https://runescape.wikia.com/wiki/Sq%27irk_tree) in the [Sorceress's Garden](https://runescape.wikia.com/wiki/Sorceress%27s_Garden) without stopping to avoid the elementals.\n\nThe Sorceress's Garden is a Thieving/Farming [minigame](https://runescape.wikia.com/wiki/Minigame) located in [Al Kharid](https://runescape.wikia.com/wiki/Al_Kharid). This minigame can be started by talking to [Osman](https://runescape.wikia.com/wiki/Osman) (or [Emir Ali Mirza](https://runescape.wikia.com/wiki/Emir_Ali_Mirza) after [Our Man in the North](https://runescape.wikia.com/wiki/Our_Man_in_the_North)).\n\nThe player has to start right beyond the entrance gate and pick a fruit from the tree without stopping. Running is imperative. Players may find it easiest to achieve on the [Winter Garden](https://runescape.wikia.com/wiki/Sorceress%27s_Garden/Winter) as it's the least troublesome of the four gardens.\n\nWhen you see the spirit, click on the sq’irk tree and let your character do the running. As you near the tree, click on it again so it picks it straight up.",
     "thumbnail": {
       "url": "https://i.imgur.com/Shmagnp.png"
     },
@@ -4992,17 +5012,17 @@ exports.data = {
       "name": "RuneScore Achievement Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[TokHaar-Mok](https://runescape.wikia.com/wiki/TokHaar-Mok) is an achievement that requires the player to defeat [TokHaar-Hok](https://runescape.wikia.com/wiki/TokHaar-Hok) in the [Fight Cauldron](https://runescape.wikia.com/wiki/Fight_Cauldron) using only [Obsidian equipment](https://runescape.wikia.com/wiki/Obsidian_equipment). The Fight Cauldron is located South-East of the Main Plaza in the [TzHaar city](https://runescape.wikia.com/wiki/TzHaar_City). Obsidian equipment is a group of [TzHaar](https://runescape.wikia.com/wiki/TzHaar) weapons and armour from TzHaar City. To wield obsidian weaponry and armor, the player must have at least level 60 Attack, Strength, Magic, Ranged or Defence, except the cape, which has no requirements. The Obsidian armor set is untradeable and is made by Smithing [obsidian bars](https://runescape.wikia.com/wiki/Obsidian_bar), which can only be acquired by playing the Fight Cauldron minigame after the quest [The Brink of Extinction](https://runescape.wikia.com/wiki/The_Brink_of_Extinction). **NO OTHER EQUIPMENT IS ALLOWED INTO THE FIGHT!** This includes jewelry, auras, pocket items, etc.\n\nAfter the Brink of Extinction, players may have a rematch with TokHaar-Hok at the Fight Cauldron. While fighting [TokHaar](https://runescape.wikia.com/wiki/TokHaar) in the Cauldron, he can **randomly** challenge you to a duel.\n\nHe is significantly harder than he is in the quest, as he deals 25% more damage and reduces prayer 25% faster. To counter this, he has 45,000 life points instead of 50,000. He also summons more Tokhaar to aid him. If the player does not defeat him in the duel, he will be able to challenge the player during the Fight Cauldron again.",
+    "description": "[TokHaar-Mok](https://runescape.wikia.com/wiki/TokHaar-Mok) is an achievement that requires the player to defeat [TokHaar-Hok](https://runescape.wikia.com/wiki/TokHaar-Hok) in the [Fight Cauldron](https://runescape.wikia.com/wiki/Fight_Cauldron) using only [Obsidian equipment](https://runescape.wikia.com/wiki/Obsidian_equipment).\n\nThe Fight Cauldron is located southeast of the Main Plaza in the [TzHaar city](https://runescape.wikia.com/wiki/TzHaar_City).\n\nObsidian equipment is a group of [TzHaar](https://runescape.wikia.com/wiki/TzHaar) weapons and armour from TzHaar City. The Obsidian armor set is untradeable and is made by Smithing [obsidian bars](https://runescape.wikia.com/wiki/Obsidian_bar), which can only be acquired by playing the Fight Cauldron minigame after the quest [The Brink of Extinction](https://runescape.wikia.com/wiki/The_Brink_of_Extinction). **NO OTHER EQUIPMENT IS ALLOWED INTO THE FIGHT!** This includes jewelry, auras, pocket items, etc.\n\nAfter the Brink of Extinction, players may have a rematch with TokHaar-Hok at the Fight Cauldron. While fighting [TokHaar](https://runescape.wikia.com/wiki/TokHaar) in the Cauldron, he can **randomly** challenge you to a duel.\n\nHe is significantly harder than he is in the quest, as he deals 25% more damage and reduces prayer 25% faster. To counter this, he has 45,000 life points instead of 50,000. He also summons more Tokhaar to aid him. If the player does not defeat him in the duel, he will be able to challenge the player during the Fight Cauldron again.",
     "thumbnail": {
       "url": "https://i.imgur.com/Shmagnp.png"
     },
     "fields": [{
         "name": "Healing Ability:",
-        "value": "• After reaching roughly half health he will begin to attempt to heal using the fountain of lava, exclaiming `We require healing` or `We must regenerate`. If he manages to reach the lava, he will be healed by 5000 life points every tick. This can be prevented with a stun ability such as [Backhand](https://runescape.wikia.com/wiki/Backhand), [Binding Shot](https://runescape.wikia.com/wiki/Binding_Shot), or [Entangle](https://runescape.wikia.com/wiki/Entangle). A player may also use a special attack on legacy mode to stun him. Ice spells do not work - only abilities. When stunned, he will exclaim `We...cannot move` or `We...cannot regenerate`, and will be unable to heal via the lava for roughly 20 seconds.. When the period is over, he will exclaim `We will crush you utterly`, `We will tear you apart` or `Now we will crush you` and the message `TokHaar-Hok is now able to heal` will appear in the chatbox. If he does manage to heal to full health, he will exclaim `We are whole!` and resume attack. "
+        "value": "• After reaching roughly half health he will begin to attempt to heal using the fountain of lava, exclaiming `We require healing` or `We must regenerate`. If he manages to reach the lava, he will be healed by 5000 life points every tick. This can be prevented with a stun ability such as [Backhand](https://runescape.wikia.com/wiki/Backhand), [Binding Shot](https://runescape.wikia.com/wiki/Binding_Shot), or [Entangle](https://runescape.wikia.com/wiki/Entangle). A player may also use a special attack on legacy mode to stun him. Ice spells do not work - only abilities. When stunned, he will exclaim `We...cannot move` or `We...cannot regenerate`, and will be unable to heal via the lava for roughly 20 seconds.. When the period is over, he will exclaim `We will crush you utterly`, `We will tear you apart` or `Now we will crush you` and the message `TokHaar-Hok is now able to heal` will appear in the chatbox. If he does manage to heal to full health, he will exclaim `We are whole!` and resume attacking. "
       },
       {
         "name": "Sacred Lava Ability:",
-        "value": "• An unknown condition will cause him to exclaim `Embrace the Sacred Lava!` and teleport you into the lavafall. It is possible he teleports when he is healing in the lavafall and may use it multiple times in a row. The lavafall deals damage equal to 20% of player's maximum life point per 1.2 seconds. Player will take damage in lavafall even if TokHaar-Hok is not using his teleport."
+        "value": "• An unknown condition will cause him to exclaim `Embrace the Sacred Lava!` and teleport you into the lavafall. It is possible he teleports when he is healing in the lavafall and may use it multiple times in a row. The lavafall deals damage equal to 20% of player's maximum life point per 1.2 seconds. Players will take damage in lavafall even if TokHaar-Hok is not using his teleport."
       },
       {
         "name": "Requirements:",
@@ -5024,13 +5044,13 @@ exports.data = {
       "name": "RuneScore Achievement Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Unlucky For Some](https://runescape.wikia.com/wiki/Unlucky_For_Some) is an achievement that requires the player to dig up 13 potato seeds during the [Vinesweeper](https://runescape.wikia.com/wiki/Vinesweeper) [minigame](https://runescape.wikia.com/wiki/Minigames), which is located on [Winkin](https://runescape.wikia.com/wiki/Winkin)’s Farm. The seeds must be dug up and not flagged.\n\nPlayers can get to the minigame from almost any farming patch with a Tool Leprechaun wandering around. Simply right-click him or her and click 'teleport' and request to be teleported to the minigame. He will then say `[Avach nimporto](https://runescape.wikia.com/wiki/Avach_nimporto` and you will find yourself at the minigame site. There is a [portal](https://runescape.wikia.com/wiki/Portal) North-East of the farmhouse to return to the patch. Familiars and pets cannot be brought into the minigame.\n\nThe game involves a grid of holes. After digging at a hole with a spade a number will appear at the digging location. The number indicates the number of adjacent squares that hold a seed. The numbers range from zero to seven. (0 is invisible, 1 is blue, 2 is green, 3 is red, 4 is yellow, 5 is purple, 6 is teal, 7 is very light brown.) In case of a zero, the minigame will show an empty area if the edge of the empty area is close enough the numbers on the edge will be displayed instantly too. Digging at a location that carries a seed, destroys the seed.\n\nTo complete the requirement, speak to [Farmer Blinkin](https://runescape.wikia.com/wiki/Farmer_Blinkin) or [Mrs. Winkin](https://runescape.wikia.com/wiki/Mrs._Winkin) and claim a free flag. Head south and begin digging up the field. The trick is the dig around until you see some number 3's, then dig around it for the seed. Repeat 12 times.",
+    "description": "[Unlucky For Some](https://runescape.wikia.com/wiki/Unlucky_For_Some) is an achievement that requires the player to dig up 13 potato seeds during the [Vinesweeper](https://runescape.wikia.com/wiki/Vinesweeper) [minigame](https://runescape.wikia.com/wiki/Minigames), which is located on [Winkin](https://runescape.wikia.com/wiki/Winkin)’s Farm. The seeds must be dug up and not flagged.\n\nPlayers can get to the minigame from almost any farming patch with a [Tool Leprechaun](https://runescape.wikia.com/wiki/Tool_leprechaun) wandering around. Simply right-click him or her and click 'teleport' and request to be teleported to the minigame. He will then say [Avach nimporto](https://runescape.wikia.com/wiki/Avach_nimporto) and you will find yourself at the minigame site. There is a [portal](https://runescape.wikia.com/wiki/Portal) northeast of the farmhouse to return to the patch. [Familiars](https://runescape.wikia.com/wiki/Summoning_familiars) and [pets](https://runescape.wikia.com/wiki/Pet) cannot be brought into the minigame.\n\nThe game involves a grid of holes. After digging at a hole with a spade a number will appear at the digging location. The number indicates the number of adjacent squares that hold a seed. The numbers range from zero to seven.\n• 0 is invisible\n• 1 is blue\n• 2 is green\n• 3 is red\n• 4 is yellow\n• 5 is purple\n• 6 is teal\n• 7 is very light brown\n\nIn case of a zero, the minigame will show an empty area. If the edge of the empty area is close enough the numbers on the edge will be displayed instantly too. Digging at a location that carries a seed destroys the seed.\n\nTo complete the requirement, speak to [Farmer Blinkin](https://runescape.wikia.com/wiki/Farmer_Blinkin) or [Mrs. Winkin](https://runescape.wikia.com/wiki/Mrs._Winkin) and claim a free [flag](https://runescape.wikia.com/wiki/Flag). Head south and begin digging up the field. The trick is the dig around until you see some number 3's, then dig around it for the seed. Repeat 12 times.",
     "thumbnail": {
       "url": "https://i.imgur.com/Shmagnp.png"
     },
     "fields": [{
         "name": "Requirements:",
-        "value": "• A [spade](https://runescape.wikia.com/wiki/Spade)\n• A [flag](https://runescape.wikia.com/wiki/Flag)"
+        "value": "• A [spade](https://runescape.wikia.com/wiki/Spade)\n• A flag"
       },
       {
         "name": "Guide:",
@@ -5054,11 +5074,11 @@ exports.data = {
     },
     "fields": [{
         "name": "Route:",
-        "value": "Once all the beacons are stocked with logs and all maintenance and requirements are done, light the beacons. The following order is not necessary, but is efficient:\n\n• Use a [Lumber yard teleport](https://runescape.wikia.com/wiki/Lumber_Yard_Teleport) (then run east), [Bonesack (e)](https://runescape.wikia.com/wiki/Bonesack(e)/[Ram skull helm(e)](https://runescape.wikia.com/wiki/Ram_skull_helm(e) or [Invitation box](https://runescape.wikia.com/wiki/Invitation_box) and light both beacons 1 and 2.\n\n• Use a Lumber yard teleport and light beacons 3–5 by running west along the edge of the [Wilderness](https://runescape.wikia.com/wiki/Wilderness).\n\n• After beacon 5, teleport to [Edgeville](https://runescape.wikia.com/wiki/Edgeville) and light beacon 6. Run west to the [Monastery](https://runescape.wikia.com/wiki/Monastery_of_Saradomin) and light beacon 7."
+        "value": "Once all the beacons are stocked with logs and all maintenance and requirements are done, light the beacons. The following order is not necessary, but is efficient:\n\n• Use a [Lumber yard teleport](https://runescape.wikia.com/wiki/Lumber_Yard_Teleport) (then run east), [Bonesack (e)](https://runescape.wikia.com/wiki/Bonesack(e)/[Ram skull helm(e)](https://runescape.wikia.com/wiki/Ram_skull_helm(e), or [Invitation box](https://runescape.wikia.com/wiki/Invitation_box) and light both beacons 1 and 2.\n\n• Use a Lumber yard teleport and light beacons 3–5 by running west along the edge of the [Wilderness](https://runescape.wikia.com/wiki/Wilderness).\n\n• After beacon 5, teleport to [Edgeville](https://runescape.wikia.com/wiki/Edgeville) and light beacon 6. Run west to the [Monastery](https://runescape.wikia.com/wiki/Monastery_of_Saradomin) and light beacon 7."
       },
       {
         "name": "​",
-        "value": "• Using a [Goblin village sphere](https://runescape.wikia.com/wiki/Goblin_village_sphere) or running from Taverley/Falador, go to [Goblin Village](https://runescape.wikia.com/wiki/Goblin_Village) and light beacon 8.\n\n• Use a [Games necklace](https://runescape.wikia.com/wiki/Games_necklace), [Combat bracelet](https://runescape.wikia.com/wiki/Combat_bracelet) or Burthorpe [lodestone](https://runescape.wikia.com/wiki/Lodestone_Network/Gallery) to teleport to [Burthorpe](https://runescape.wikia.com/wiki/Burthorpe) and light beacon 9 to the east.\n\n• Teleport to [Trollheim](https://runescape.wikia.com/wiki/Trollheim) and light beacon 11 to the east. Then use the shortcut into the Wilderness. Run south and light beacon 10."
+        "value": "• Using a [Goblin village sphere](https://runescape.wikia.com/wiki/Goblin_village_sphere) or running from [Taverley](https://runescape.wikia.com/wiki/Taverley)/[Falador](https://runescape.wikia.com/wiki/Falador), go to [Goblin Village](https://runescape.wikia.com/wiki/Goblin_Village) and light beacon 8.\n\n• Use a [Games necklace](https://runescape.wikia.com/wiki/Games_necklace), [Combat bracelet](https://runescape.wikia.com/wiki/Combat_bracelet) or Burthorpe [lodestone](https://runescape.wikia.com/wiki/Lodestone_Network/Gallery) to teleport to [Burthorpe](https://runescape.wikia.com/wiki/Burthorpe) and light beacon 9 to the east.\n\n• Teleport to [Trollheim](https://runescape.wikia.com/wiki/Trollheim) and light beacon 11 to the east. Then use the shortcut into the Wilderness. Run south and light beacon 10."
       },
       {
         "name": "​",
@@ -5066,7 +5086,7 @@ exports.data = {
       },
       {
         "name": "Requirements:",
-        "value": "• 70 Smithing or 59 Construction\n• 42 Construction\n• 56 Smithing\n• 60 Crafting\n• 64 Agility\n• 31 Prayer\n• 60 Strength\n• 92 Firemaking\n\n• All Fired Up Quest completion | [Runescape Wiki](https://runescape.wikia.com/wiki/All_Fired_Up)\n• Land of the Goblins Quest completion | [Runescape Wiki](https://runescape.wikia.com/wiki/Land_of_the_Goblins)"
+        "value": "• 70 Smithing **or** 59 Construction\n• 42 Construction\n• 56 Smithing\n• 60 Crafting\n• 64 Agility\n• 31 Prayer\n• 60 Strength\n• 92 Firemaking\n\n• All Fired Up Quest completion | [Runescape Wiki](https://runescape.wikia.com/wiki/All_Fired_Up)\n• Land of the Goblins Quest completion | [Runescape Wiki](https://runescape.wikia.com/wiki/Land_of_the_Goblins)"
       },
       {
         "name": "Guide:",
@@ -5103,7 +5123,7 @@ exports.data = {
       "name": "RuneScore Achievement Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Who Do Broodoo?](https://runescape.wikia.com/wiki/Who_Do_Broodoo%3F) is an achievement that requires the player to kill each different type of [Broodoo victim](https://runescape.wikia.com/wiki/Broodoo_victim) whilst wearing their mask during the [Tai Bwo Wannai Cleanup](https://runescape.wikia.com/wiki/Tai_Bwo_Wannai_Cleanup) [minigame](https://runescape.wikia.com/wiki/Minigames). The victims can be spawned by hacking away at the different types of jungle.\n\nTai Bwo Wannai Cleanup takes place around the village of [Tai Bwo Wannai](https://runescape.wikia.com/wiki/Tai_Bwo_Wannai) on western [Karamja](https://runescape.wikia.com/wiki/Karamja), south of [Brimhaven](https://runescape.wikia.com/wiki/Brimhaven).\n\nBroodoo victims are undead creatures which appear during the Tai Bwo Wannai Cleanup minigame. Their attack is capable of draining the player's combat stats. They take reduced damage from the player's attacks, but they have few life points and could be taken down fairly easily even then. Certain items can be used on them to damage them, but is not recommended as it is time-consuming.\n\nTribal masks come in three different colors:\n• [Tribal mask (orange)](https://runescape.wikia.com/wiki/Tribal_mask_(orange)\n• [Tribal mask (blue)](https://runescape.wikia.com/wiki/Tribal_mask_(orange)\n• [Tribal mask (green)](https://runescape.wikia.com/wiki/Tribal_mask_(green)\n\nThey can be obtained by either defeating a broodoo victim during the Tai Bwo Wannai Cleanup minigame or through purchasing it from either the Grand Exchange or another player.\n\nPlayers seeking to complete the achievement may find it helpful to start off with an inventory of each tribal mask and rapidly put on the appropriate [Tribal mask](https://runescape.wikia.com/wiki/Tribal_mask), as a particular victim's spawn may be from a couple of minutes to a few hours.",
+    "description": "[Who Do Broodoo?](https://runescape.wikia.com/wiki/Who_Do_Broodoo%3F) is an achievement that requires the player to kill each different type of [Broodoo victim](https://runescape.wikia.com/wiki/Broodoo_victim) whilst wearing their mask during the [Tai Bwo Wannai Cleanup](https://runescape.wikia.com/wiki/Tai_Bwo_Wannai_Cleanup) [minigame](https://runescape.wikia.com/wiki/Minigames). The victims can be spawned by hacking away at the different types of jungle.\n\nTai Bwo Wannai Cleanup takes place around the village of [Tai Bwo Wannai](https://runescape.wikia.com/wiki/Tai_Bwo_Wannai) on western [Karamja](https://runescape.wikia.com/wiki/Karamja), south of [Brimhaven](https://runescape.wikia.com/wiki/Brimhaven).\n\nBroodoo victims are undead creatures which appear during the Tai Bwo Wannai Cleanup minigame. Their attack is capable of draining the player's combat stats. They take reduced damage from the player's attacks, but they have few life points and could be taken down fairly easily even then. Certain items can be used on them to damage them, but is not recommended as it is time-consuming.\n\nTribal masks come in three different colors:\n• [Tribal mask (orange)](https://runescape.wikia.com/wiki/Tribal_mask_(orange)\n• [Tribal mask (blue)](https://runescape.wikia.com/wiki/Tribal_mask_(orange)\n• [Tribal mask (green)](https://runescape.wikia.com/wiki/Tribal_mask_(green)\n\nThey can be obtained by either defeating a broodoo victim during the Tai Bwo Wannai Cleanup minigame or through purchasing it from either the [Grand Exchange](https://runescape.wikia.com/wiki/Grand_Exchange) or another player.\n\nPlayers seeking to complete the achievement may find it helpful to start off with an inventory of each tribal mask and rapidly put on the appropriate [Tribal mask](https://runescape.wikia.com/wiki/Tribal_mask) as the corresponding color appears, as a particular victim's spawn may be from a couple of minutes to a few hours.",
     "thumbnail": {
       "url": "https://i.imgur.com/Shmagnp.png"
     },
@@ -5122,7 +5142,7 @@ exports.data = {
       "name": "RuneScore Achievement Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[You're It](https://runescape.wikia.com/wiki/You%27re_It) is an achievement that requires the player to tag 30 pillars correctly in one session at the [Brimhaven Agility Arena](https://runescape.wikia.com/wiki/Brimhaven_Agility_Arena). The Brimhaven Agility Arena is a [minigame](https://runescape.wikia.com/wiki/Minigames) that features an obstacle course for training Agility. It can be found in the east of [Brimhaven](https://runescape.wikia.com/wiki/Brimhaven), and is run by [Cap'n Izzy No-Beard](https://runescape.wikia.com/wiki/Cap%27n_Izzy_No-Beard) who charges 200 [coins](https://runescape.wikia.com/wiki/Coins) for admission. If players have completed [Rocking Out](https://runescape.wikia.com/wiki/Rocking_Out), they will be allowed to enter free of charge. Although there is no official world, many players choose to do this minigame on worlds 2, 6 or 71, because the number of people generates more fun and enjoyment than doing the arena on an empty world.\n\nYou do not need to tag every pillar consecutively, just touch 30 pillars at any time during your session. It is recommended to proceed back to the middle of the arena once a pillar has been tagged so you can reach all corners of the arena more quickly when the next pillar can be tagged. Logging out or switching worlds will cause your progress to be reset.",
+    "description": "[You're It](https://runescape.wikia.com/wiki/You%27re_It) is an achievement that requires the player to tag 30 pillars correctly in one session at the [Brimhaven Agility Arena](https://runescape.wikia.com/wiki/Brimhaven_Agility_Arena).\n\nThe Brimhaven Agility Arena is a [minigame](https://runescape.wikia.com/wiki/Minigames) that features an obstacle course for training Agility. It can be found in the east of [Brimhaven](https://runescape.wikia.com/wiki/Brimhaven), and is run by [Cap'n Izzy No-Beard](https://runescape.wikia.com/wiki/Cap%27n_Izzy_No-Beard) who charges 200 [coins](https://runescape.wikia.com/wiki/Coins) for admission. If players have completed [Rocking Out](https://runescape.wikia.com/wiki/Rocking_Out), they will be allowed to enter free of charge. Although there is no official world, many players choose to do this minigame on worlds 2, 6, or 71, because the number of people generates more fun and enjoyment than doing the arena on an empty world.\n\nYou do not need to tag every pillar consecutively, just touch 30 pillars at any time during your session. It is recommended to proceed back to the middle of the arena once a pillar has been tagged so you can reach all corners of the arena more quickly when the next pillar can be tagged. Logging out or switching worlds will cause your progress to be reset.",
     "thumbnail": {
       "url": "https://i.imgur.com/Shmagnp.png"
     },
@@ -5184,7 +5204,7 @@ exports.data = {
       "name": "RuneScore Achievement Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Digging For Treasure](https://runescape.wikia.com/wiki/Digging_For_Treasure) is an achievement that requires the player to dig up and retrieve a [scroll box](https://runescape.wikia.com/wiki/Scroll_box) by using a [meerkat](https://runescape.wikia.com/wiki/Meerkats) familiar's [special move](https://runescape.wikia.com/wiki/Special_moves). Digging up a scroll box without using a [fetch casket scroll](https://runescape.wikia.com/wiki/Fetch_casket_scroll) will not work. A [Meerkats pouch](https://runescape.wikia.com/wiki/Meerkats_pouch) and Fetch casket scroll can both be purchased from the [Grand Exchange](https://runescape.wikia.com/wiki/Grand_Exchange).",
+    "description": "[Digging For Treasure](https://runescape.wikia.com/wiki/Digging_For_Treasure) is an achievement that requires the player to dig up and retrieve a [scroll box](https://runescape.wikia.com/wiki/Scroll_box) by using a [meerkat](https://runescape.wikia.com/wiki/Meerkats) familiar's [special move](https://runescape.wikia.com/wiki/Special_moves). Digging up a scroll box without using a [fetch casket scroll](https://runescape.wikia.com/wiki/Fetch_casket_scroll) will not work. A [Meerkats pouch](https://runescape.wikia.com/wiki/Meerkats_pouch) and Fetch casket scroll can both be purchased from the [Grand Exchange](https://runescape.wikia.com/wiki/Grand_Exchange), from another player, or obtained as a possible reward from any level [Treasure Trail](https://runescape.wikia.com/wiki/Treasure_Trails).",
     "thumbnail": {
       "url": "https://i.imgur.com/Shmagnp.png"
     },
@@ -5203,7 +5223,7 @@ exports.data = {
       "name": "RuneScore Achievement Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Diving For Clues](https://runescape.wikia.com/wiki/Diving_For_Clues) is an achievement that requires the player to obtain a [sealed clue scroll (elite)](https://runescape.wikia.com/wiki/Sealed_clue_scroll_(elite) by opening the [treasure chest](https://runescape.wikia.com/wiki/Treasure_chest_decoration) in their [player-owned house](https://runescape.wikia.com/wiki/Player-owned_house) [aquarium](https://runescape.wikia.com/wiki/Aquarium).\n\nA player-owned house (often shortened to POH) can be bought from an [estate agent](https://runescape.wikia.com/wiki/Estate_agent).\n\nThe treasure chest decoration is an item that is obtained from [prawn balls](https://runescape.wikia.com/wiki/Prawn_balls) with a chance of 3%. It can be added to an Aquarium. Once placed, it can be opened once a week using a [Salvage hunter suit](https://runescape.wikia.com/wiki/Salvage_hunter_suit) to receive a sealed clue scroll (elite). The chest resets on Wednesdays.\n\nPrawn balls are an item regularly obtained whilst Fishing. They are earned for every 35,000 life points worth of fish caught. The life point threshold can be reduced with [prawn perks](https://runescape.wikia.com/wiki/Prawnbroker#Prawn_Perks).\n\nA salvage hunter suit is a diving suit that can be built on the ground level of an Aquarium in a player-owned house.",
+    "description": "[Diving For Clues](https://runescape.wikia.com/wiki/Diving_For_Clues) is an achievement that requires the player to obtain a [sealed clue scroll (elite)](https://runescape.wikia.com/wiki/Sealed_clue_scroll_(elite) by opening the [treasure chest](https://runescape.wikia.com/wiki/Treasure_chest_decoration) in their [player-owned house](https://runescape.wikia.com/wiki/Player-owned_house) [aquarium](https://runescape.wikia.com/wiki/Aquarium).\n\nA player-owned house (often shortened to POH) can be bought from an [estate agent](https://runescape.wikia.com/wiki/Estate_agent).\n\nThe treasure chest decoration is an item that is obtained from [prawn balls](https://runescape.wikia.com/wiki/Prawn_balls), with a chance of 3% of obtaining the specific item. It can be added to an Aquarium. Once placed, it can be opened once a week using a [Salvage hunter suit](https://runescape.wikia.com/wiki/Salvage_hunter_suit) to receive a sealed clue scroll (elite). The chest resets on Wednesdays.\n\nPrawn balls are an item regularly obtained whilst Fishing. They are earned for every 35,000 life points worth of fish caught. The life point threshold can be reduced with [prawn perks](https://runescape.wikia.com/wiki/Prawnbroker#Prawn_Perks).\n\nA salvage hunter suit is a diving suit that can be built on the ground level of an Aquarium in a player-owned house.",
     "thumbnail": {
       "url": "https://i.imgur.com/Shmagnp.png"
     },
@@ -5241,13 +5261,13 @@ exports.data = {
       "name": "RuneScore Achievement Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Globetrotter](https://runescape.wikia.com/wiki/Globetrotter_(achievement) is an achievement that requires the player to purchase the full [globetrotter outfit](https://runescape.wikia.com/wiki/Globetrotter_outfit) from the [Treasure Trails Reward Shop](https://runescape.wikia.com/wiki/Treasure_Trails_Reward_Shop).\n\nThe globetrotter outfit is an outfit that is obtainable from Treasure Trail points. [Treasure Trail Points](https://runescape.wikia.com/wiki/Treasure_Trails_Reward_Shop#Treasure_Trail_Points) are awarded to the player upon completion of [clue scrolls](https://runescape.wikia.com/wiki/Clue_scroll) and obtaining or solving their relative [caskets](https://runescape.wikia.com/wiki/Casket_(disambiguation). More points are awarded every multiple of 10, 50, 100, 250, and 500 completed treasure trails. Purchasing the whole globetrotter outfit costs the player 4950 Treasure Trail points. For a point of reference, it would take 500 [elite clue scrolls](https://runescape.wikia.com/wiki/Clue_scroll_(elite) to purchase the full outfit.",
+    "description": "[Globetrotter](https://runescape.wikia.com/wiki/Globetrotter_(achievement) is an achievement that requires the player to purchase the full [globetrotter outfit](https://runescape.wikia.com/wiki/Globetrotter_outfit) from the [Treasure Trails Reward Shop](https://runescape.wikia.com/wiki/Treasure_Trails_Reward_Shop).\n\nThe globetrotter outfit is an outfit that is obtainable from Treasure Trail points. [Treasure Trail Points](https://runescape.wikia.com/wiki/Treasure_Trails_Reward_Shop#Treasure_Trail_Points) are awarded to the player upon completion of [clue scrolls](https://runescape.wikia.com/wiki/Clue_scroll) and obtaining or solving their relative [caskets](https://runescape.wikia.com/wiki/Casket_(disambiguation). More points are awarded every multiple of 10, 50, 100, 250, and 500 completed treasure trails. Purchasing the whole globetrotter outfit costs the player 4,950 Treasure Trail points. For a point of reference, it would take 500 [elite clue scrolls](https://runescape.wikia.com/wiki/Clue_scroll_(elite) to purchase the full outfit.",
     "thumbnail": {
       "url": "https://i.imgur.com/Shmagnp.png"
     },
     "fields": [{
         "name": "Requirements:",
-        "value": "• 4950 Treasure Trail points"
+        "value": "• 4,950 Treasure Trail points"
       },
       {
         "name": "Guide:",
@@ -5265,7 +5285,7 @@ exports.data = {
       "name": "RuneScore Achievement Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Skeletrail Horror](https://runescape.wikia.com/wiki/Skeletrail_Horror) is an achievement that requires the player to obtain an [elite clue scroll](https://runescape.wikia.com/wiki/Sealed_clue_scroll_(elite) by defeating the [skeletal horror](https://runescape.wikia.com/wiki/Skeletal_horror)\n\nThe Skeletal horror is a monster which may be fought after completing the [Rag and Bone Man](https://runescape.wikia.com/wiki/Rag_and_Bone_Man/Wish_list) wish list miniquests. The horror may be killed once a week after completion of the miniquests, resetting every Wednesday at 00:00 UTC.\n\nFor every 12,500 damage dealt to the Skeletal Horror an appendage will be thrown to a corner of the battlefield. First the [right arm](https://runescape.wikia.com/wiki/Arm_(right) will fall off, then the [left arm](https://runescape.wikia.com/wiki/Arm_(left), and finally the [tail](https://runescape.wikia.com/wiki/Tail).\n\nWhen an appendage is lost the skeletal horror will become weakened; lowering the combat level, the max hit, accuracy, and defensive capabilities of the skeletal horror. The appendages must be picked up into the player's [inventory](https://runescape.wikia.com/wiki/Inventory) and buried. If left on the ground or in your inventory, the appendage will reattach to the Skeletal horror healing back the damage dealt, and restoring its combat stats.\n\nIt is possible, albeit difficult to kill the skeletal horror without burying any of the appendages.\n\nThe skeletal horror can be dangerous if unprepared, or for lower level players. It will not attack you with the attack style that you are praying against (e.g., if praying against Magic, it will use Melee, and vice versa), so high healing food such as [monkfish](https://runescape.wikia.com/wiki/Monkfish) or [sharks](https://runescape.wikia.com/wiki/Shark) are recommended. It is not recommended to use armor below level 70 to fight the skeletal horror as it can hit exceptionally high if you do. A high levelled player should be able to defeat the skeletal horror without any issue.",
+    "description": "[Skeletrail Horror](https://runescape.wikia.com/wiki/Skeletrail_Horror) is an achievement that requires the player to obtain an [elite clue scroll](https://runescape.wikia.com/wiki/Sealed_clue_scroll_(elite) by defeating the [skeletal horror](https://runescape.wikia.com/wiki/Skeletal_horror).\n\nThe Skeletal horror is a monster which may be fought after completing the [Rag and Bone Man](https://runescape.wikia.com/wiki/Rag_and_Bone_Man/Wish_list) wish list miniquests. The horror may be killed once a week after completion of the miniquests, resetting every Wednesday at 00:00 UTC.\n\nFor every 12,500 damage dealt to the Skeletal Horror an appendage will be thrown to a corner of the battlefield. First the [right arm](https://runescape.wikia.com/wiki/Arm_(right) will fall off, then the [left arm](https://runescape.wikia.com/wiki/Arm_(left), and finally the [tail](https://runescape.wikia.com/wiki/Tail).\n\nWhen an appendage is lost the skeletal horror will become weakened; lowering the combat level, the max hit, accuracy, and defensive capabilities of the skeletal horror. The appendages must be picked up into the player's [inventory](https://runescape.wikia.com/wiki/Inventory) and buried. If left on the ground or in your inventory, the appendage will reattach to the Skeletal horror, healing back the damage dealt, and restoring its combat stats.\n\nIt is possible, albeit difficult to kill the skeletal horror without burying any of the appendages.\n\nThe skeletal horror can be dangerous if unprepared, or for lower level players. It will not attack you with the attack style that you are praying against (e.g., if praying against Magic, it will use Melee, and vice versa), so high healing food such as [monkfish](https://runescape.wikia.com/wiki/Monkfish) or [sharks](https://runescape.wikia.com/wiki/Shark) are recommended. It is not recommended to use armor below level 70 to fight the skeletal horror as it can hit exceptionally high if you do. A high levelled player should be able to defeat the skeletal horror without any issue.",
     "thumbnail": {
       "url": "https://i.imgur.com/Shmagnp.png"
     },
@@ -5284,7 +5304,7 @@ exports.data = {
       "name": "RuneScore Achievement Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Slide To The Left](https://runescape.wikia.com/wiki/Skeletrail_Horror) is an achievement that requires the player to solve a [Treasure Trails](https://runescape.wikia.com/wiki/Treasure_Trails) [puzzle box](https://runescape.wikia.com/wiki/Treasure_Trails/Guide/Puzzle_boxes).\n\nWhile progressing through a treasure trail, the player may receive a puzzle box.\n\nPuzzle boxes are the RuneScape version of n-puzzles – they contain a scrambled image that players must work to unscramble by clicking on tiles to move them to an empty space. Once the puzzle box is completed, players will need to talk to the NPC who gave the puzzle to receive the next clue or the reward, if an NPC is involved.\n\nThe game scrambles the puzzles by randomly moving pieces approximately 50 - 200 times. If the player logs out, without finishing the puzzle, they will lose all progress and will have to start over again. However, if the puzzle box belongs to an elite clue, they will be unable to ask for another one, and must either complete the puzzle or drop the puzzle scroll box/casket.\n\nTo solve the puzzle: ([picture for reference](https://vignette.wikia.nocookie.net/runescape2/images/5/51/Puzzle_box_guide_5x5.png/revision/latest/scale-to-width-down/180?cb=20120828194240))\n• Begin by arranging from left to right, the first section (red) so that it matches the solution\n• Repeat step one with the second section (orange)\n• Repeat the process for the third section (yellow)\n• Correctly arrange the two tiles located in the fourth section (green)\n• Repeat the process as in step four for the fifth section (blue)\n• , arrange the last six tiles in the sixth section (purple)\n• When all of the tiles match the solution exactly, exit the interface to complete the puzzle.",
+    "description": "[Slide To The Left](https://runescape.wikia.com/wiki/Skeletrail_Horror) is an achievement that requires the player to solve a [Treasure Trails](https://runescape.wikia.com/wiki/Treasure_Trails) [puzzle box](https://runescape.wikia.com/wiki/Treasure_Trails/Guide/Puzzle_boxes).\n\nWhile progressing through a treasure trail, the player may receive a puzzle box.\n\nPuzzle boxes are the RuneScape version of n-puzzles – they contain a scrambled image that players must work to unscramble by clicking on tiles to move them to an empty space. Once the puzzle box is completed, players will need to talk to the NPC who gave the puzzle to receive the next clue or the reward, if an NPC is involved.\n\nThe game scrambles the puzzles by randomly moving pieces approximately 50 - 200 times. If the player logs out, without finishing the puzzle, they will lose all progress and will have to start over again. However, if the puzzle box belongs to an elite clue, they will be unable to ask for another one, and must either complete the puzzle or drop the puzzle scroll box/casket.\n\nTo solve the puzzle: ([picture for reference](https://vignette.wikia.nocookie.net/runescape2/images/5/51/Puzzle_box_guide_5x5.png/revision/latest/scale-to-width-down/180?cb=20120828194240))\n• Begin by arranging from left to right, the first section (red) so that it matches the solution\n• Repeat step one with the second section (orange)\n• Repeat the process for the third section (yellow)\n• Correctly arrange the two tiles located in the fourth section (green)\n• Repeat the process as in step four for the fifth section (blue)\n• Arrange the last six tiles in the sixth section (purple)\n• When all of the tiles match the solution exactly, exit the interface to complete the puzzle.",
     "thumbnail": {
       "url": "https://i.imgur.com/Shmagnp.png"
     },
@@ -8125,7 +8145,7 @@ exports.data = {
       "name": "RuneScore Achievement Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Make A Wish](https://runescape.wikia.com/wiki/Make_A_Wish) is an achievement that requires the player to throw any number of coins into the whirlpool at the [Deep Sea Fishing hub](https://runescape.wikia.com/wiki/Deep_Sea_Fishing_hub).\n\nThe best way to complete this achievement is by fishing in world 116, the official Deep Sea fishing world, or by waiting for a world call in the **whirpooldnd** friends chat.",
+    "description": "[Make A Wish](https://runescape.wikia.com/wiki/Make_A_Wish) is an achievement that requires the player to throw any number of coins into the whirlpool at the [Deep Sea Fishing hub](https://runescape.wikia.com/wiki/Deep_Sea_Fishing_hub).\n\nThe best way to complete this achievement is by fishing in world 116, the official Deep Sea fishing world, or by waiting for a world call in the **whirpooldnd** friend's chat.",
     "thumbnail": {
       "url": "https://i.imgur.com/Shmagnp.png"
     },
