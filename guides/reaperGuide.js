@@ -35,7 +35,7 @@ exports.data = {
                 },
                 "fields": [
                     {
-                        "name": "This guide has the sole purpose if having you complete your first killcount for Araxxor.",
+                        "name": "This guide has the sole purpose of having you complete your first killcount for Araxxor.",
                         "value": "• The full written strategy guide may be found [here](http://runescape.wikia.com/wiki/Araxxor/Strategies).\n• Video Guide: [A Beginners' Guide to Araxxor | The RS Guy - Youtube](https://www.youtube.com/watch?v=-Wwc1ovTQIc)."
                     },
                     {
@@ -105,7 +105,7 @@ exports.data = {
             },
             "fields": [                
                 {
-                    "name": "This guide has the sole purpose if having you complete your first killcount for Astellarn.",
+                    "name": "This guide has the sole purpose of having you complete your first killcount for Astellarn.",
                     "value": "• The full written strategy guide may be found [here](http://runescape.wikia.com/wiki/Dragonkin_Laboratory/Strategies).\n• A full video guide: [Dragonkin Laboratory - Boss Guide | Taki Maki - YouTube](https://www.youtube.com/watch?v=TOgFlIblHq8)."
                 },
                 {
@@ -135,6 +135,81 @@ exports.data = {
             },
                 "timestamp": "2001-01-04T12:00:00Z"
         },
+    "barrows brothers": {
+                "title": "The Barrows Brothers",
+                "author": {
+                    "name": "Boss Reaper Kill Info",
+                    "icon_url": "https://i.imgur.com/6c6q2iC.png"
+                },
+                "description": "[Barrows](http://runescape.wikia.com/wiki/Barrows) can be found in southern [Morytania](http://runescape.wikia.com/wiki/Morytania).\n\nThe brothers consist of: [Ahrim the Blighted](https://runescape.wikia.com/wiki/Ahrim_the_Blighted), [Dharok the Wretched](https://runescape.wikia.com/wiki/Dharok_the_Wretched), [Guthan the Infested](https://runescape.wikia.com/wiki/Guthan_the_Infested), [Karil the Tainted](https://runescape.wikia.com/wiki/Karil_the_Tainted), [Torag the Corrupted](https://runescape.wikia.com/wiki/Torag_the_Corrupted), [Verac the Defiled](https://runescape.wikia.com/wiki/Verac_the_Defiled), [Akrisae the Doomed](https://runescape.wikia.com/wiki/Akrisae_the_Doomed), and [Linza the Disgraced](https://runescape.wikia.com/wiki/Linza_the_Disgraced).",
+                "thumbnail": {
+                    "url": "https://vignette.wikia.nocookie.net/runescape2/images/7/70/Barrows_Brothers_1920x1200.jpg/revision/latest?cb=20110223024829"
+                },
+    
+                "fields": [
+                    {
+                        "name": "This guide has the sole purpose of having you complete your first killcount for The Barrows Brothers",
+                        "value": "• The full written strategy guide may be found [here](http://runescape.wikia.com/wiki/Barrows/Strategies).\n• A full video guide: [2017 Runescape 3 Barrows Guide - A Complete Walkthrough | Lildogdog Guides - YouTube](https://www.youtube.com/watch?v=uw8wLh1BtDs)."
+                    },
+                    {
+                        "name": "Requirements and Recommendations:",
+                        "value": "• __Recommended Attack Style:__ Tribrid or Magic\n• __Minimum Recommended Armour Tier:__ 50\n• __Minimum Recommended Weapon Tier:__ 60\n• __Recommended Prayer:__  [Protection Prayers](https://runescape.wikia.com/wiki/Protection_prayers) or [Deflect Curses](https://runescape.wikia.com/wiki/Deflect_Curses) will need to be alternated across all styles for this fight or [Soul Split](https://runescape.wikia.com/wiki/Soul_Split)"
+                    },
+                    {
+                        "name": "Ahrim the Blighted",
+                        "value": "• Located in the center tomb.\n• Uses magic attacks.\n• Each attack has a 25% chance of lowering your strength level."
+                    },
+                    {
+                        "name": "Dharok the Wretched",
+                        "value": "• Located in the Northeastern tomb.\n• Uses melee.\n• As his HP gets lowered he will start to hit harder."
+                    },
+                    {
+                        "name": "Verac the Defiled",
+                        "value": "• Located in the Northwestern tomb.\n• Uses melee.\n• Each attack has a 25% Chance of ignoring all armour stats."
+                    },
+                    {
+                        "name": "Guthan the Infested",
+                        "value": "• Located in the Southeastern tomb.\n• Uses melee.\n• Each attack has a 25% of him healing himself."
+                    },
+                    {
+                        "name": "Karil the Tainted",
+                        "value": "• Located in the Southern tomb.\n• Uses Ranged.\n• Each attack has a 25% chance of lowering your magic level."
+                    },
+                    {
+                        "name": "Torag the Corrupted",
+                        "value": "• Located in the Southwestern tomb.\n• Uses Melee.\n• Each attack has a 25% chance of draining 5% of your adrenaline/Special attack."
+                    },
+                    {
+                        "name": "Akrisae the Doomed",
+                        "value": "• Only available after the [Ritual of the Mahjarrat](https://runescape.wikia.com/wiki/Ritual_of_the_Mahjarrat) quest.\n• Located in the same tomb as Verac.\n• Uses both melee and magic.\n• Able to use protection prayers."
+                    },
+                    {
+                        "name": "Linza the Disgraced",
+                        "value": "• Only available after the [Kindred Spirits](https://runescape.wikia.com/wiki/Kindred_Spirits) quest.\n• Located in the same tomb as Ahrim.\n• Increased lifepoints of 150,000, as opposed to 12,000 of other brothers.\n• Uses melee.\n• Small chance of reflecting damage."
+                    },
+                    {
+                        "name": "Strategy:",
+                        "value": "• Each brother resides in a Crypt in their respective tombs and are summoned by clicking the tomb.\n\n• One of the brothers, except Linza, is randomly chosen to lead to the catacombs below barrows. The player will get a chatbox popup when interacting with this chest instead of the brother spawning. Players must wait to kill this brother last.\n\n• If only going for killcount, it’s recommended to ignore Akrisae and Linza as they are significantly more challenging than the others and players only need to kill 6 total brothers for the killcount to count."
+                    },
+                    {
+                        "name": "The Tunnels:",
+                        "value": "Once you have killed 6-8 of the brothers, return to the crypt with the chosen lead brother and enter into the catacomb. The player will spawn in a room with a rope and 4 doors, in which only one will be available to go through. The objective is to navigate your way to the middle of the maze.\n\nIt is recommended to right click the doors leading to the middle when you’re able to see them, to see which one can be opened. You can tell which door can be opened by seeing if there is an \"open\" option on it or not."
+                    },
+                    {
+                        "name": "​",
+                        "value": "Any brother(s) that weren’t killed in their crypt, except Linza, will have a chance to spawn in the dungeon as you navigate through or click the chest in the middle.\n\nThe brother who resides in the crypt you entered from will always spawn in the catacombs.\n\nWhen you have navigated your way to the correct door leading to the middle room containing the chest, the door will have a puzzle the player needs to solve. If the puzzle is incorrectly answered, the doors will move around and the player must find the new door. View the correct answers [here](https://cdn.discordapp.com/attachments/409858098015109129/487078465158512671/unknown.png)."
+                    },
+                    {
+                        "name": "​",
+                        "value": "After the puzzle has been completed, the player will gain access to the chest. If the brother hasn’t spawned throughout the catacombs it will spawn as you open the chest, kill it. After killing it, click the chest again to collect your loot and kill count.\n\nTo leave, either teleport or navigate your way back through the catacombs to the room you entered from and climb up the rope."
+                    }
+                ],
+                "footer": {
+                    "icon_url": "https://images-ext-2.discordapp.net/external/fkEkEkLF-5krIYVQdAOfYdvyUW4_mm6xFLacYDdGYpw/%3Fcb%3D20171023212914/https/vignette.wikia.nocookie.net/runescape2/images/c/c9/The_Reaper.png/revision/latest",
+                    "text": "Remember, all first time reaper kills are free in #reaper-request-list"
+                },
+                "timestamp": "2001-01-04T12:00:00Z"
+            },
     "barrows: rise of the six pt1": {
                 "title": "Barrows: Rise of the Six",
                 "author": {
@@ -239,7 +314,7 @@ exports.data = {
                 "timestamp": "2001-01-04T12:00:00Z"
             },
     "black stone dragon": {
-            "title": "Black stone dragon",
+            "title": "Black Stone Dragon",
             "author": {
                 "name": "Boss Reaper Kill Info",
                 "icon_url": "https://i.imgur.com/6c6q2iC.png"
@@ -250,7 +325,7 @@ exports.data = {
             },
             "fields": [
                 {
-                    "name": "This guide has the sole purpose if having you complete your first killcount for the Black Stone Dragon.",
+                    "name": "This guide has the sole purpose of having you complete your first killcount for the Black Stone Dragon.",
                     "value": "• The full written strategy guide may be found [here](http://runescape.wikia.com/wiki/Dragonkin_Laboratory/Strategies).\n• A full video guide: [Dragonkin Laboratory - Boss Guide | Taki Maki - YouTube](https://www.youtube.com/watch?v=TOgFlIblHq8)"
                 },
                 {
@@ -296,7 +371,7 @@ exports.data = {
                 },
                 "fields": [
                      {
-                    "name": "This guide has the sole purpose if having you complete your first killcount for the Chaos Elemental.",
+                    "name": "This guide has the sole purpose of having you complete your first killcount for the Chaos Elemental.",
                     "value": "• The full written strategy guide may be found [here](https://runescape.wikia.com/wiki/Chaos_Elemental/Strategies).\n• A full video guide: [Chaos Elemental Guide | The Junesong - YouTube](https://www.youtube.com/watch?v=F5Hwv-Fu8hM)"
                     },
                     {
@@ -346,7 +421,7 @@ exports.data = {
       },
       "fields":[  
          {  
-            "name":"​This guide has the sole purpose if having you complete your first killcount for Commander Zilyana.",
+            "name":"​This guide has the sole purpose of having you complete your first killcount for Commander Zilyana.",
             "value":"• The full written strategy guide can be found [here](https://runescape.wikia.com/wiki/Commander_Zilyana/Strategies)\n• A full video guide for lower levels: [Commander Zilyana Guide | The RS Guy - YouTube](https://www.youtube.com/watch?v=znBF-LwvPJs)"
          },
          {  
@@ -372,7 +447,7 @@ exports.data = {
         },
         "timestamp": "2001-01-04T12:00:00Z"
    },
-    "Corporeal Beast": {
+    "corporeal Beast": {
                 "title": "Corporeal Beast",
                 "author": {
                     "name": "Boss Reaper Kill Info",
@@ -384,7 +459,7 @@ exports.data = {
                 },
                 "fields": [
                     {
-                        "name": "This guide has the sole purpose if having you complete your first killcount for the Corporeal Beast.",
+                        "name": "This guide has the sole purpose of having you complete your first killcount for the Corporeal Beast.",
                         "value": "• The full written strategy guide may be found [here](http://runescape.wikia.com/wiki/Corporeal_Beast/Strategies).\n• A full video guide: [Complete Solo Corporeal Beast Guide](https://www.youtube.com/watch?v=lfwu9Owd5kg)."
                     },
                     {
@@ -422,7 +497,7 @@ exports.data = {
                 },
                 "fields": [
                     {
-                        "name": "This guide has the sole purpose if having you complete your first killcount for the Dagannoth Kings.",
+                        "name": "This guide has the sole purpose of having you complete your first killcount for the Dagannoth Kings.",
                         "value": "• The full written strategy guide may be found [here](http://runescape.wikia.com/wiki/Dagannoth_Kings/Strategies).\n• Video Guide: [Low Level Dagannoth Kings Solo Guide | Taki Maki - Youtube](https://www.youtube.com/watch?v=wxUDfSt57bM)."
                     },
                     {
@@ -468,7 +543,7 @@ exports.data = {
       },
       "fields":[  
          {  
-            "name":"​This guide has the sole purpose if having you complete your first killcount for General Graardor.",
+            "name":"​This guide has the sole purpose of having you complete your first killcount for General Graardor.",
             "value":"• The full written strategy guide can be found [here](https://runescape.wikia.com/wiki/General_Graardor/Strategies)\n• A full video guide for lower levels: [General Graardor Guide | The RS Guy - YouTube](https://www.youtube.com/watch?v=CDur0jqFF_8)"
          },
          {  
@@ -506,7 +581,7 @@ exports.data = {
                 },
                 "fields": [
                     {
-                        "name": "This guide has the sole purpose if having you complete your first killcount for the Giant Mole.",
+                        "name": "This guide has the sole purpose of having you complete your first killcount for the Giant Mole.",
                         "value": "• The full written strategy guide may be found [here](http://runescape.wikia.com/wiki/Giant_mole/Strategies).\n• A full video guide: [Low Level Giant Mole Solo Guide for F2P and Members!](https://www.youtube.com/watch?v=0lrGI8Nsvns)."
                     },
                     {  
@@ -564,7 +639,7 @@ exports.data = {
                 },
                 "fields": [
                     {
-                        "name": "This guide has the sole purpose if having you complete your first killcount for Gregorovic.",
+                        "name": "This guide has the sole purpose of having you complete your first killcount for Gregorovic.",
                         "value": "• The full written strategy guide may be found [here](https://runescape.wikia.com/wiki/Gregorovic/Strategies).\n• A full video guide: [Gregorovic Solo Guide GWD2 | Trissle - YouTube](https://www.youtube.com/watch?v=-XN3pn12H3s)."
                     },
                     {  
@@ -610,7 +685,7 @@ exports.data = {
       },
       "fields":[  
          {  
-            "name":"​This guide has the sole purpose if having you complete your first killcount for Har-Aken",
+            "name":"​This guide has the sole purpose of having you complete your first killcount for Har-Aken",
             "value":"• The full written strategy guide can be found [here](http://runescape.wikia.com/wiki/Fight_Kiln/Strategies). \n• A full video guide: [Runescape 2016 | Fight Kiln Guide (AFTER BUFFS!) | Moto - YouTube](https://www.youtube.com/watch?v=g1KWJUv5nG4&feature=youtu.be)"
          },
          {  
@@ -732,7 +807,7 @@ exports.data = {
             },
             "fields": [
                 {
-                    "name": "This guide has the sole purpose if having you complete your first killcount for the Kalphite King.",
+                    "name": "This guide has the sole purpose of having you complete your first killcount for the Kalphite King.",
                     "value": "• The full written strategy guide may be found [here](http://runescape.wikia.com/wiki/Kalphite_King/Strategies).\n• A full video guide: [Ultimate Runescape 3 Kalphite King Guide | Teh Proez - YouTube](https://www.youtube.com/watch?v=vgAEnOtkUG4)."
                 },
                 {
@@ -787,7 +862,7 @@ exports.data = {
                 },
                 "fields": [
                     {
-                        "name": "This guide has the sole purpose if having you complete your first killcount for the Kalphite Queen.",
+                        "name": "This guide has the sole purpose of having you complete your first killcount for the Kalphite Queen.",
                         "value": "• The full written strategy guide may be found [here](http://runescape.wikia.com/wiki/Kalphite_Queen/Strategies).\n• Video Guide: [Junesong's KQ Tips/Pseudo-Guide](https://www.youtube.com/watch?v=3HaTPId6ZJM)."
                     },
                     {
@@ -841,7 +916,7 @@ exports.data = {
                 },
                 "fields": [
                     {
-                        "name": "This guide has the sole purpose if having you complete your first killcount for the King Black Dragon.",
+                        "name": "This guide has the sole purpose of having you complete your first killcount for the King Black Dragon.",
                         "value": "• The full written strategy guide may be found [here](http://runescape.wikia.com/wiki/King_Black_Dragon/Strategies).\n• A full video guide: [How to Kill the King Black Dragon | Lildogdog Guides - YouTube](https://www.youtube.com/watch?v=tak1OoQG7nY)."
                     },
                     {
@@ -891,7 +966,7 @@ exports.data = {
             },
             "fields": [
                 {
-                    "name": "This guide has the sole purpose if having you complete your first killcount for Kree'ara:",
+                    "name": "This guide has the sole purpose of having you complete your first killcount for Kree'ara:",
                     "value": "• The full written strategy guide can be found [here](http://runescape.wikia.com/wiki/Kree%27arra/Strategies)\n• A full video guide: [The RS Guy | Detailed Low Level Arma (Kree'arra) Solo Guide](https://www.youtube.com/watch?v=Zq0eGung16k)"
                 },
                 {
@@ -980,7 +1055,7 @@ exports.data = {
                 "footer": {},
                 "timestamp": "2001-01-04T12:00:00Z"
             },
-    "masuta": {
+    "masuta, the ascended": {
             "title": "Masuta, the Ascended",
             "author": {
                 "name": "Boss Reaper Kill Info",
@@ -992,7 +1067,7 @@ exports.data = {
             },
             "fields": [
                 {
-                    "name": "This guide has the sole purpose if having you complete your first killcount for Masuta, the Ascended.",
+                    "name": "This guide has the sole purpose of having you complete your first killcount for Masuta, the Ascended.",
                     "value": "• The full written strategy guide may be found [here](http://runescape.wikia.com/wiki/Temple_of_Aminishi/Strategies).\n• A full video guide: [Masuta the Ascended Solo Strategy Guide | iTrolledU - Youtube](https://www.youtube.com/watch?v=K55WgblpZRk)."
                 },                
                 {
@@ -1046,7 +1121,7 @@ exports.data = {
             },
             "fields": [
                 {
-                    "name": "This guide has the sole purpose if having you complete your first killcount for Nex.",
+                    "name": "This guide has the sole purpose of having you complete your first killcount for Nex.",
                     "value": "• The full written strategy guide can be found [here](https://runescape.wikia.com/wiki/Nex/Strategies)\n• A full video guide: [Casual Nex Solo Guide | The Junesong - YouTube](https://www.youtube.com/watch?v=U7q-M0ecODA)"
                 },
                 {  
@@ -1093,7 +1168,7 @@ exports.data = {
     
                 "fields": [
                     {
-                    "name": "This guide has the sole purpose if having you complete your first killcount for Nex: Angel of Death.",
+                    "name": "This guide has the sole purpose of having you complete your first killcount for Nex: Angel of Death.",
                     "value": "• The full written strategy guide can be found [here](http://runescape.wikia.com/wiki/Nex:_Angel_of_Death/Strategies).\n• A full video guide: [A Guide to Nex: Angel of Death | The RS Guy - Youtube](https://www.youtube.com/watch?v=Yrh93pIPNzk)"
                     },
                     {  
@@ -1162,7 +1237,7 @@ exports.data = {
       },
       "fields":[  
          {  
-            "name":"This guide has the sole purpose if having you complete your first killcount for The Queen Black Dragon.",
+            "name":"This guide has the sole purpose of having you complete your first killcount for The Queen Black Dragon.",
             "value":"• The full written strategy guide can be found [here](http://runescape.wikia.com/wiki/Queen_Black_Dragon/Strategies)\n• A full video guide: [Queen Black Dragon Guide 2017 (All Styles) | Trissle - YouTube](https://www.youtube.com/watch?v=2hsgcV_fp5Q)"
          },
          {  
@@ -1265,7 +1340,7 @@ exports.data = {
                 "footer": {},
                 "timestamp": "2001-01-04T12:00:00Z"
             },
-    "seiryu": {
+    "seiryu the azure serpent": {
             "title": "Seiryu the Azure Serpent",
             "author": {
                 "name": "Boss Reaper Kill Info",
@@ -1277,7 +1352,7 @@ exports.data = {
             },
             "fields": [
                 {
-                    "name": "This guide has the sole purpose if having you complete your first killcount for Seiryu, the Azure Serpent.",
+                    "name": "This guide has the sole purpose of having you complete your first killcount for Seiryu, the Azure Serpent.",
                     "value": "• The full written strategy guide may be found [here](http://runescape.wikia.com/wiki/Temple_of_Aminishi/Strategies).\n• A full video guide: [A Beginners' Guide to Solo Seiryu The Azure Serpent | The RS Guy - Youtube](https://www.youtube.com/watch?v=vM2-p1AjfJI)."
                 },
                 {  
@@ -1319,7 +1394,7 @@ exports.data = {
             },
                 "timestamp": "2001-01-04T12:00:00Z"
         },
-    "solak pt1": {
+    "solak, the grove guardian pt1": {
             "title": "Solak, the Grove Guardian",
             "author": {
                 "name": "Boss Reaper Kill Info",
@@ -1331,7 +1406,7 @@ exports.data = {
             },
             "fields": [
                 {
-                    "name": "This guide has the sole purpose if having you complete your first killcount for Solak, the Grove Guardian.",
+                    "name": "This guide has the sole purpose of having you complete your first killcount for Solak, the Grove Guardian.",
                     "value": "• The full written strategy guide may be found [here](http://runescape.wikia.com/wiki/Solak/Strategies).\n• A full video guide: [Solak Guide - All Phases Covered | Maikeru RS - YouTube](https://www.youtube.com/watch?v=3z9hYZNOr_k)."
                 },
                 {  
@@ -1360,7 +1435,7 @@ exports.data = {
                 }
             ]
         },
-    "solak pt2": {
+    "solak, the grove guardian pt2": {
               "fields": [
                     {
                     "name": "​",
@@ -1390,7 +1465,7 @@ exports.data = {
                 "footer": {},
                 "timestamp": "2001-01-04T12:00:00Z"
             },
-    "telos, the warden": {
+    "telos, the warden pt1": {
                 "title": "Telos, the Warden",
                 "author": {
                     "name": "Boss Reaper Kill Info",
@@ -1402,7 +1477,7 @@ exports.data = {
                 },
                 "fields": [
                     {
-                        "name": "This guide has the sole purpose if having you complete your first killcount for Telos, the Warden.",
+                        "name": "This guide has the sole purpose of having you complete your first killcount for Telos, the Warden.",
                         "value": "• The full written strategy guide may be found [here](http://runescape.wikia.com/wiki/Telos,_the_Warden/Strategies).\n• A full video guide: [Telos Guide (0-99% enrage) | Scape Mates - YouTube](https://www.youtube.com/watch?v=9fhjkVqh6go)."
                     },
                     {
@@ -1428,8 +1503,12 @@ exports.data = {
                     {
                         "name": "Phase 3 (Pray Mage)",
                         "value": "If you ended phase 2 on a magic barrage special, the rotation will be as follows.\n\nTelos always starts with 7 attacks, and then a repeating rotation of Red Virus -> 3 attacks -> Uppercut -> 3 attacks -> Hold Still -> 3 attacks.\n\nThis phase can be done very easily by following a few simple steps!\n\t1. Run to the south west corner.\n\t2. Then run into the red beam.\n\t3. Use [Onslaught](http://runescape.wikia.com/wiki/Onslaught).\n\t4. Surge to dodge uppercut.\n\t5. Kill the [anima golems](https://runescape.wikia.com/wiki/Anima-golem) present, and keep Telos out of the red beam.\n\t6. Resonance the hold still, and continue DPSing to finish the phase.\n\nIf the red bar fills to the right, Telos will start using powerful shockwaves. Don’t panic, use [reflect](https://runescape.wikia.com/wiki/Reflect) or [barricade](https://runescape.wikia.com/wiki/Barricade) and eat if you need to."
-                    },
-                    {
+                    }
+            ]
+        },
+    "telos, the warden pt2": {
+              "fields": [
+                {
                         "name": "Phase 4 (Pray Melee)",
                         "value": "Like Phase 2, the attack rotation varies.\n\n• If your last special was Red Virus, the first special will be Hold Still.\n• If your last special was Uppercut, the first special will be Uppercut.\n• If your last special was Hold still, the first special will be Weak Anima Bomb.\n\nThe repeating rotation is Hold still -> 3 attacks -> Uppercut - > 3 attacks -> Weak Anima bomb -> 3 attacks."
                     },
@@ -1439,87 +1518,11 @@ exports.data = {
                     },
                     {
                         "name": "​",
-                        "value": "After the second font telos will use the *“so much power”* special, where he will hit you for 5,555 damage, instead of using a normal special attack. In order to deal with this safely:\n\n\t1. Stop hitting telos at around 53k HP, before the second font.\n\t2. Wait for him to use a special attack - deal with it accordingly.\n\t3. [Asphyxiate](http://runescape.wikia.com/wiki/Asphyxiate) to damage him under 50k hp.\n\t4. Deal with the font as before.\n\t5. Telos will then use 3 auto attacks.\n\t6. Build to 100% adrenaline and Barricade to block the damage from his special.\n\nFrom here, the last font is the same as the first!"
+                        "value": "After the second font telos will use the *“so much power”* special, where he will hit you for 5,555 damage, instead of using a normal special attack. In order to deal with this safely:\n\n\t1. Stop hitting telos at around 53k life points, before the second font.\n\t2. Wait for him to use a special attack - deal with it accordingly.\n\t3. [Asphyxiate](http://runescape.wikia.com/wiki/Asphyxiate) to damage him below 50K life points.\n\t4. Deal with the font as before.\n\t5. Telos will then use 3 auto attacks.\n\t6. Build to 100% adrenaline and Barricade to block the damage from his special.\n\nFrom here, the last font is the same as the first!"
                     }
                 ],
-                "footer": {
-                    "icon_url": "https://images-ext-2.discordapp.net/external/fkEkEkLF-5krIYVQdAOfYdvyUW4_mm6xFLacYDdGYpw/%3Fcb%3D20171023212914/https/vignette.wikia.nocookie.net/runescape2/images/c/c9/The_Reaper.png/revision/latest",
-                    "text": "Remember, all first time reaper kills are free in #reaper-request-list"
-                }
-            },
-    "the barrows brothers": {
-                "title": "The Barrows Brothers",
-                "author": {
-                    "name": "Boss Reaper Kill Info",
-                    "icon_url": "https://i.imgur.com/6c6q2iC.png"
-                },
-                "description": "[Barrows](http://runescape.wikia.com/wiki/Barrows) can be found in southern [Morytania](http://runescape.wikia.com/wiki/Morytania).\n\nThe brothers consist of: [Ahrim the Blighted](https://runescape.wikia.com/wiki/Ahrim_the_Blighted), [Dharok the Wretched](https://runescape.wikia.com/wiki/Dharok_the_Wretched), [Guthan the Infested](https://runescape.wikia.com/wiki/Guthan_the_Infested), [Karil the Tainted](https://runescape.wikia.com/wiki/Karil_the_Tainted), [Torag the Corrupted](https://runescape.wikia.com/wiki/Torag_the_Corrupted), [Verac the Defiled](https://runescape.wikia.com/wiki/Verac_the_Defiled), [Akrisae the Doomed](https://runescape.wikia.com/wiki/Akrisae_the_Doomed), and [Linza the Disgraced](https://runescape.wikia.com/wiki/Linza_the_Disgraced).",
-                "thumbnail": {
-                    "url": "https://vignette.wikia.nocookie.net/runescape2/images/7/70/Barrows_Brothers_1920x1200.jpg/revision/latest?cb=20110223024829"
-                },
-    
-                "fields": [
-                    {
-                        "name": "This guide has the sole purpose if having you complete your first killcount for The Barrows Brothers",
-                        "value": "• The full written strategy guide may be found [here](http://runescape.wikia.com/wiki/Barrows/Strategies).\n• A full video guide: [2017 Runescape 3 Barrows Guide - A Complete Walkthrough | Lildogdog Guides - YouTube](https://www.youtube.com/watch?v=uw8wLh1BtDs)."
-                    },
-                    {
-                        "name": "Requirements and Recommendations:",
-                        "value": "• __Recommended Attack Style:__ Tribrid or Magic\n• __Minimum Recommended Armour Tier:__ 50\n• __Minimum Recommended Weapon Tier:__ 60\n• __Recommended Prayer:__  [Protection Prayers](https://runescape.wikia.com/wiki/Protection_prayers) or [Deflect Curses](https://runescape.wikia.com/wiki/Deflect_Curses) will need to be alternated across all styles for this fight or [Soul Split](https://runescape.wikia.com/wiki/Soul_Split)"
-                    },
-                    {
-                        "name": "Ahrim the Blighted",
-                        "value": "• Located in the center tomb.\n• Uses magic attacks.\n• Each attack has a 25% chance of lowering your strength level."
-                    },
-                    {
-                        "name": "Dharok the Wretched",
-                        "value": "• Located in the Northeastern tomb.\n• Uses melee.\n• As his HP gets lowered he will start to hit harder."
-                    },
-                    {
-                        "name": "Verac the Defiled",
-                        "value": "• Located in the Northwestern tomb.\n• Uses melee.\n• Each attack has a 25% Chance of ignoring all armour stats."
-                    },
-                    {
-                        "name": "Guthan the Infested",
-                        "value": "• Located in the Southeastern tomb.\n• Uses melee.\n• Each attack has a 25% of him healing himself."
-                    },
-                    {
-                        "name": "Karil the Tainted",
-                        "value": "• Located in the Southern tomb.\n• Uses Ranged.\n• Each attack has a 25% chance of lowering your magic level."
-                    },
-                    {
-                        "name": "Torag the Corrupted",
-                        "value": "• Located in the Southwestern tomb.\n• Uses Melee.\n• Each attack has a 25% chance of draining 5% of your adrenaline/Special attack."
-                    },
-                    {
-                        "name": "Akrisae the Doomed",
-                        "value": "• Only available after the [Ritual of the Mahjarrat](https://runescape.wikia.com/wiki/Ritual_of_the_Mahjarrat) quest.\n• Located in the same tomb as Verac.\n• Uses both melee and magic.\n• Able to use protection prayers."
-                    },
-                    {
-                        "name": "Linza the Disgraced",
-                        "value": "• Only available after the [Kindred Spirits](https://runescape.wikia.com/wiki/Kindred_Spirits) quest.\n• Located in the same tomb as Ahrim.\n• Increased lifepoints of 150,000, as opposed to 12,000 of other brothers.\n• Uses melee.\n• Small chance of reflecting damage."
-                    },
-                    {
-                        "name": "Strategy:",
-                        "value": "• Each brother resides in a Crypt in their respective tombs and are summoned by clicking the tomb.\n\n• One of the brothers, except Linza, is randomly chosen to lead to the catacombs below barrows. The player will get a chatbox popup when interacting with this chest instead of the brother spawning. Players must wait to kill this brother last.\n\n• If only going for killcount, it’s recommended to ignore Akrisae and Linza as they are significantly more challenging than the others and players only need to kill 6 total brothers for the killcount to count."
-                    },
-                    {
-                        "name": "The Tunnels:",
-                        "value": "Once you have killed 6-8 of the brothers, return to the crypt with the chosen lead brother and enter into the catacomb. The player will spawn in a room with a rope and 4 doors, in which only one will be available to go through. The objective is to navigate your way to the middle of the maze.\n\nIt is recommended to right click the doors leading to the middle when you’re able to see them, to see which one can be opened. You can tell which door can be opened by seeing if there is an \"open\" option on it or not."
-                    },
-                    {
-                        "name": "​",
-                        "value": "Any brother(s) that weren’t killed in their crypt, except Linza, will have a chance to spawn in the dungeon as you navigate through or click the chest in the middle.\n\nThe brother who resides in the crypt you entered from will always spawn in the catacombs.\n\nWhen you have navigated your way to the correct door leading to the middle room containing the chest, the door will have a puzzle the player needs to solve. If the puzzle is incorrectly answered, the doors will move around and the player must find the new door. View the correct answers [here](https://cdn.discordapp.com/attachments/409858098015109129/487078465158512671/unknown.png)."
-                    },
-                    {
-                        "name": "​",
-                        "value": "After the puzzle has been completed, the player will gain access to the chest. If the brother hasn’t spawned throughout the catacombs it will spawn as you open the chest, kill it. After killing it, click the chest again to collect your loot and kill count.\n\nTo leave, either teleport or navigate your way back through the catacombs to the room you entered from and climb up the rope."
-                    }
-                ],
-                "footer": {
-                    "icon_url": "https://images-ext-2.discordapp.net/external/fkEkEkLF-5krIYVQdAOfYdvyUW4_mm6xFLacYDdGYpw/%3Fcb%3D20171023212914/https/vignette.wikia.nocookie.net/runescape2/images/c/c9/The_Reaper.png/revision/latest",
-                    "text": "Remember, all first time reaper kills are free in #reaper-request-list"
-                }
+                "footer": {},
+                "timestamp": "2001-01-04T12:00:00Z"
             },
     "the magister": {
                 "title": "The Magister",
@@ -1533,7 +1536,7 @@ exports.data = {
                 },
                 "fields": [
                     {
-                        "name": "This guide has the sole purpose if having you complete your first killcount for The Magister.",
+                        "name": "This guide has the sole purpose of having you complete your first killcount for The Magister.",
                         "value": "• The full written strategy guide may be found [here](http://runescape.wikia.com/wiki/The_Magister/Strategies).\n• Video Guide: [A Complete Guide to The Magister | The RS Guy - Youtube](https://www.youtube.com/watch?v=A8Uy2rBtCWA)."
                     },
                     {
@@ -1592,7 +1595,8 @@ exports.data = {
                 "footer": {
                     "icon_url": "https://images-ext-2.discordapp.net/external/fkEkEkLF-5krIYVQdAOfYdvyUW4_mm6xFLacYDdGYpw/%3Fcb%3D20171023212914/https/vignette.wikia.nocookie.net/runescape2/images/c/c9/The_Reaper.png/revision/latest",
                     "text": "Remember, all first time reaper kills are free in #reaper-request-list"
-                }
+                },
+                "timestamp": "2001-01-04T12:00:00Z"
             },
     "the sanctum guardian": {
             "title": "The Sanctum Guardian",
@@ -1606,7 +1610,7 @@ exports.data = {
             },
             "fields": [
                 {
-                    "name": "This guide has the sole purpose if having you complete your first killcount for The Sanctum Guardian.",
+                    "name": "This guide has the sole purpose of having you complete your first killcount for The Sanctum Guardian.",
                     "value": "• The full written strategy guide may be found [here](http://runescape.wikia.com/wiki/Temple_of_Aminishi/Strategies).\n• A full video guide: [The Sanctum Guardian Solo Strategy Guide | iTrolledU - YouTube](https://www.youtube.com/watch?v=oeJk3ZfEFYU)."
                 },
                 {
@@ -1637,17 +1641,13 @@ exports.data = {
             "footer": {
                 "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/b/b8/Reaper_points.png/revision/latest?cb=20160606215136",
                 "text": "Remember, all first time reaper kills are free in #reaper-request-list"
-            }
+            },
+                "timestamp": "2001-01-04T12:00:00Z"
         },
     "twin furies": {  
       "title":"Twin Furies",
       "description":"The [Twin Furies](https://runescape.wikia.com/wiki/Twin_Furies) are the generals of [Zamorak](https://runescape.wikia.com/wiki/Zamorak)'s army in the [Heart of Gielinor](https://runescape.wikia.com/wiki/Heart_of_Gielinor). The pair consists of [Nymora, the Vengeful](https://runescape.wikia.com/wiki/Nymora,_the_Vengeful) and [Avaryss, the Unceasing](https://runescape.wikia.com/wiki/Avaryss,_the_Unceasing).",
       "url":"https://runescape.wikia.com/wiki/Twin_Furies",
-      "color":12269891,
-      "footer":{  
-         "icon_url":"https://vignette.wikia.nocookie.net/runescape2/images/c/c9/The_Reaper.png/revision/latest/scale-to-width-down/20?cb=20171023212914",
-         "text":"Remember, all reaper kills are free in #reaper-request-list"
-      },
       "thumbnail":{  
          "url":"https://vignette.wikia.nocookie.net/runescape2/images/1/16/Nymora%2C_the_Vengeful.png/revision/latest/scale-to-width-down/200?cb=20160402210335"
       },
@@ -1657,7 +1657,7 @@ exports.data = {
       },
       "fields":[  
          {  
-            "name":"​This guide has the sole purpose if having you complete your first killcount for Twin Furies.",
+            "name":"​This guide has the sole purpose of having you complete your first killcount for Twin Furies.",
             "value":"• The full written strategy guide can be found [here](https://runescape.wikia.com/wiki/Twin_Furies/Strategies)\n• A full video guide: [Twin Furies Guide | The RS Guy - YouTube](https://www.youtube.com/watch?v=CJv790KpJro)"
          },
          {  
@@ -1680,17 +1680,17 @@ exports.data = {
             "name":"Attack 3: Channelled Bomb",
             "value":"Avaryss and Nymora will fly to the center of the room, saying \"Burn, burn, BURN!\" and \"Come to me, my sister!\". A ring of fire will also appear in the outer area, dealing up to 2,500 damage every few ticks the player(s) are in it. They will channel their powers to create a portal of energy which sends out fire bolts at the player for up to 350 damage per tick.\n\nDuring this process, they will not attack the player and will suffer a 2x damage multiplier on them. A blue bar will also appear over their heads and will change to orange over time.\n\nOnce the bar is completely orange, the portal explodes and deals up to 4,500 typeless damage to players in its radius. Just a few seconds before the explosion, the outer ring of fire will dissipate. [Resonance](https://runescape.wikia.com/wiki/Resonance) or [Barricade](https://runescape.wikia.com/wiki/Barricade) will lower the damage from the explosion to 0, but be sure to time this right as the fire bolts can take away your resonance before the explosion occurs."
          }
-      ]
+      ],
+      "footer":{  
+         "icon_url":"https://vignette.wikia.nocookie.net/runescape2/images/c/c9/The_Reaper.png/revision/latest/scale-to-width-down/20?cb=20171023212914",
+         "text":"Remember, all reaper kills are free in #reaper-request-list"
+      },
+                "timestamp": "2001-01-04T12:00:00Z"
    },
     "tztok-jad": {  
       "title":"TzTok-Jad",
       "description":"[TzTok-Jad](https://runescape.wikia.com/wiki/TzTok-Jad) is the final and most powerful TzHaar creature in the [TzHaar Fight Cave](https://runescape.wikia.com/wiki/TzHaar_Fight_Cave), appearing at wave 63. Its name can be roughly translated to \"Obsidian fire elemental\".",
       "url":"https://runescape.wikia.com/wiki/TzTok-Jad",
-      "color":12269891,
-      "footer":{  
-         "icon_url":"https://vignette.wikia.nocookie.net/runescape2/images/c/c9/The_Reaper.png/revision/latest/scale-to-width-down/20?cb=20171023212914",
-         "text":"Remember, all reaper kills are free in #reaper-request-list"
-      },
       "thumbnail":{  
          "url":"https://vignette.wikia.nocookie.net/runescape2/images/8/82/TzTok-Jad.png/revision/latest/scale-to-width-down/201?cb=20120703093421"
       },
@@ -1700,7 +1700,7 @@ exports.data = {
       },
       "fields":[  
          {  
-            "name":"This guide has the sole purpose if having you complete your first killcount for TzTok-Jad.",
+            "name":"This guide has the sole purpose of having you complete your first killcount for TzTok-Jad.",
             "value":"• The full written strategy guide can be found [here](https://runescape.wikia.com/wiki/TzHaar_Fight_Cave/Strategies#TzTok-Jad)\n• A full video guide: [Fight Caves Guide | Lildogdog RS - YouTube](https://www.youtube.com/watch?v=nMXqFm5VHv8)"
          },
          {  
@@ -1731,7 +1731,12 @@ exports.data = {
             "name":"Practice:",
             "value":"You may practice your prayer switching with this [Jad Simulator](https://runeapps.org/jadsim_home) created by <@107515476296368128>."
          }
-      ]
+      ],
+      "footer":{  
+         "icon_url":"https://vignette.wikia.nocookie.net/runescape2/images/c/c9/The_Reaper.png/revision/latest/scale-to-width-down/20?cb=20171023212914",
+         "text":"Remember, all reaper kills are free in #reaper-request-list"
+      },
+                "timestamp": "2001-01-04T12:00:00Z"
    },
     "verak-lith": {
             "title": "Verak Lith",
@@ -1772,7 +1777,8 @@ exports.data = {
             "footer": {
                 "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/b/b8/Reaper_points.png/revision/latest?cb=20160606215136",
                 "text": "Remember, all first time reaper kills are free in #reaper-request-list"
-            }
+            },
+                "timestamp": "2001-01-04T12:00:00Z"
         },
     "vindicta": {
             "title": "Vindicta",
@@ -1809,9 +1815,10 @@ exports.data = {
             "footer": {
                 "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/c/c9/The_Reaper.png/revision/latest?cb=20171023212914",
                 "text": "Remember, all first time reaper kills are free in #reaper-request-list"
-            }
+            },
+                "timestamp": "2001-01-04T12:00:00Z"
         },
-    "vorago": {
+    "vorago pt1": {
                 "title": "Vorago",
                 "author": {
                     "name": "Boss Reaper Kill Info",
@@ -1833,7 +1840,7 @@ exports.data = {
                     },
                     {
                         "name": "General Mechanics:",
-                        "value": "Vorgao has five phases in total. The first two and the fourth phase are mechanic based. the third and fifth phase are DPS based.\n\nVorago will jump three times to a random spot in the arena at the end of each of the first four phases. The location he will land is marked with shadows. Players should avoid these spots as they will take high damage if Vorago lands on them.\n\nVorago will use melee swipes and send out bombs. The player must locate tehmselves 3-5 squares away from Vorago in oder to avoid getting hit with melee.\n\n**Blue bombs:** Vorago will send out bombs to the furthest person. If you getting these bombs, you must to move closer to Vorago.\n\n**Red Bombs:** There is a chance Vorago will send out a red bomb to a random player, signaled by a message on their screen. The base damage of a red bomb is 2,000 damge and will increase by 1,000 damage for each player close to you. Those hit by the red bomb will ge their [defensive abilities](https://runescape.wikia.com/wiki/Abilities#Defence) put on cooldown."
+                        "value": "Vorago has five phases in total. The first two and the fourth phase are mechanic based. the third and fifth phase are DPS based.\n\nVorago will jump three times to a random spot in the arena at the end of each of the first four phases. The location he will land is marked with shadows. Players should avoid these spots as they will take high damage if Vorago lands on them.\n\nVorago will use melee swipes and send out bombs. The player must locate tehmselves 3-5 squares away from Vorago in oder to avoid getting hit with melee.\n\n**Blue bombs:** Vorago will send out bombs to the furthest person. If you getting these bombs, you must to move closer to Vorago.\n\n**Red Bombs:** There is a chance Vorago will send out a red bomb to a random player, signaled by a message on their screen. The base damage of a red bomb is 2,000 damge and will increase by 1,000 damage for each player close to you. Those hit by the red bomb will ge their [defensive abilities](https://runescape.wikia.com/wiki/Abilities#Defence) put on cooldown."
                     },
                     {
                         "name": "Starting the Fight/Phase 1:",
@@ -1850,8 +1857,11 @@ exports.data = {
                     {
                         "name": "Phase 3:",
                         "value": "Phase 3 changes entirely based on the week's rotation. There are 6 different special attacks that Vorago has, described below. Except for Scopulus week, phase 3 ends when Vorago has reached 0 life points. During Scopulus week, phase 3 ends when both [scopulii](https://runescape.wikia.com/wiki/Scopulus) are killed.\n\nAsk your teacher which week it is so you do not read unnecessary information."
-                    },
-                    {
+                    }
+            ]
+        },
+    "vorago pt2": {"fields": [
+      {
                         "name": "​",
                         "value": "• **Ceiling Collapse:** Vorago will jump and hit the ceiling causing a rock to fall on the ground. There will be a shadow on the location the rock is falling. Players should avoid standing in this location as they will take 8,000 damage if the rock hits them. Rocks can be cleared by right clicking on them, dealing 4,000 damage to the destroyer. Your teacher will handle this.\n\nVorago reflect mechanic starts after he jumps the first time. Players need to deal as much damage as possible after the second jump. Every reflect mechanic will start after an odd number jump. When Vorago hits 0 life points, the phase ends."
                     },
@@ -1869,7 +1879,7 @@ exports.data = {
                     },
                     {
                         "name": "​",
-                        "value": "• **Team Split:** TeamSplit consists of Vorago charging himself for an explosion for 7.8 seconds, turning half of the players red and the other half blue. During this charge, Vorago is immune to all attacks. When he begins his charge, players' defence abilities will be removed and put on cooldown. Two box outlines will appear in the room —one red, one blue— and players will need to be inside the outline that matches their color when Vorago explodes. Anyone not inside the correct box will receive 8,000 typeless damage."
+                        "value": "• **Team Split:** Team Split consists of Vorago charging himself for an explosion for 7.8 seconds, turning half of the players red and the other half blue. During this charge, Vorago is immune to all attacks. When he begins his charge, players' defence abilities will be removed and put on cooldown. Two box outlines will appear in the room —one red, one blue— and players will need to be inside the outline that matches their color when Vorago explodes. Anyone not inside the correct box will receive 8,000 typeless damage."
                     },
                     {
                         "name": "​",
@@ -1882,8 +1892,12 @@ exports.data = {
                     {
                         "name": "Phase 4:",
                         "value": "Phase 4 is a time-based phase that differs slightly week to week. Phase 4 ends when Vorago has reached 0 life points and the weapon handle is obtained. The handle dislodges from Vorago after he performs his third waterfall attack.\n\nPhase 4 begins with Vorago's waterfall attack. He teleports to the center of the room, charges up, and a waterfall appears in one of the corners of the room, disabling all defensive abilities. After 10.2 seconds, Vorago explodes, dealing 9,000–10,000 typeless damage to all players who are not safely behind the waterfall.\n\n[Stone clones](https://runescape.wikia.com/wiki/Stone_clone) have 10,000 life points and spawn after the waterfall with the same attack style the player was using. They spawn for a random player with the name \"Stone [Player name]\". Players who receive one will see an arrow flashing over their clone. Only the player who the clone spawned for may attack it, but players who have already killed their clone can assist other players in killing any remaining."
-                    },
-                    {
+                    }
+        ]
+    },
+    "vorago pt3": {
+              "fields": [
+                {
                         "name": "​",
                         "value": "• **Ceiling Collapse:** Vorago's special during this week is collapsing a pile of rocks from the ceiling in the same manner as he did in phase 3. Three attacks after, he performs his smash sequence and then leads into reflect."
                     },
@@ -1924,12 +1938,10 @@ exports.data = {
                         "value": "• **Green bomb:** During Green bomb week, Vorago's special is launching a green bomb. The bomb always lands off the platform, so no mist is created. During this phase, the bomb only deals damage 3 times."
                     }
                 ],
-                "footer": {
-                    "icon_url": "https://images-ext-2.discordapp.net/external/fkEkEkLF-5krIYVQdAOfYdvyUW4_mm6xFLacYDdGYpw/%3Fcb%3D20171023212914/https/vignette.wikia.nocookie.net/runescape2/images/c/c9/The_Reaper.png/revision/latest",
-                    "text": "Remember, all first time reaper kills are free in #reaper-request-list"
-                }
+                "footer": {},
+                "timestamp": "2001-01-04T12:00:00Z"
             },
-    "yakamaru": {
+    "yakamaru pt1": {
                 "title": "Yakamaru",
                 "author": {
                     "name": "Boss Reaper Kill Info",
@@ -1951,7 +1963,7 @@ exports.data = {
                     },
                     {
                         "name": "WARNING: DON'T USE STUNS!",
-                        "value": "It is **VERY IMPORTANT** to take off all [stuns](https://runescape.wikia.com/wiki/Stun) on your [ability](https://runescape.wikia.com/wiki/Abilities) bars. As a learner, do not even have them on your bar nor click on them in your books.\n\nFor **mage** remove the following spells: [Impact](http://runescape.wikia.com/wiki/Impact), [Deep Impact](http://runescape.wikia.com/wiki/Deep_Impact), [Shock](http://runescape.wikia.com/wiki/Shock), [Horror](http://runescape.wikia.com/wiki/Horror) and [Asphyxiate](http://runescape.wikia.com/wiki/Asphyxiate).\n\nFor **ranged** players want to remove: [Binding Shot](http://runescape.wikia.com/wiki/Binding_Shot), [Tight Binding](http://runescape.wikia.com/wiki/Tight_Bindings), [Demoralise](http://runescape.wikia.com/wiki/Demoralise) and [Rout](http://runescape.wikia.com/wiki/Rout).\n\nDo **NOT** put them back on your bar until the fight is over."
+                        "value": "It is **VERY IMPORTANT** to remove all [stuns](https://runescape.wikia.com/wiki/Stun) from your [ability](https://runescape.wikia.com/wiki/Abilities) bars. As a learner, do not even have them on your bar nor click on them in your books.\n\nFor **mage** remove the following spells: [Impact](http://runescape.wikia.com/wiki/Impact), [Deep Impact](http://runescape.wikia.com/wiki/Deep_Impact), [Shock](http://runescape.wikia.com/wiki/Shock), [Horror](http://runescape.wikia.com/wiki/Horror) and [Asphyxiate](http://runescape.wikia.com/wiki/Asphyxiate).\n\nFor **ranged** players want to remove: [Binding Shot](http://runescape.wikia.com/wiki/Binding_Shot), [Tight Binding](http://runescape.wikia.com/wiki/Tight_Bindings), [Demoralise](http://runescape.wikia.com/wiki/Demoralise) and [Rout](http://runescape.wikia.com/wiki/Rout).\n\nDo **NOT** put them back on your bar until the fight is over."
                     },
                     {
                         "name": "Start of the Fight::",
@@ -1964,8 +1976,12 @@ exports.data = {
                     {
                         "name": "​",
                         "value": "Deal damage to Yakamaru while avoiding his special attacks until the end of the phase, where like all phases, poison will spawn. The poison tank role will be contaminated by running into the 1x1 target area must then run melee distance to Yakamaru, infecting it. Ensure you do not stand where the poison lands so the poison tanker may grab it freely."
-                    },
-                    {
+                    }
+            ]
+        },
+    "yakamaru pt2": {
+              "fields": [
+                {
                         "name": "Center Pool (Poison):",
                         "value": "Yakamaru leaves this pool after 200,000 life points lost. If it was successfully poisoned, it will continue to the next phase, following a clockwise pattern from the last pool.\n\nIf you defeated Yakamaru before he was poisoned, the pool that he was just in will need to be fought again with an additional 50,000 life points.\n\nAfter every successful phase, Yakamaru will return to this pool and summon multiple [jellyfish](https://runescape.wikia.com/wiki/Jellyfish) encountered in the canal puzzle.\n\nEach group always contains 3 combat canal jellyfish, one of each type, and one support jellyfish, being either a [durable](https://runescape.wikia.com/wiki/Durable_Jellyfish) or [reflect](https://runescape.wikia.com/wiki/Reflecting_Jellyfish). The support jellyfish rotate after every successful phase, the first spawn being random."
                     },
@@ -1986,9 +2002,7 @@ exports.data = {
                         "value": "All four pools will become active at once, meaning all four pool specials will be occurring. As a learner, you will attack the South-western pool (Sharknado). Remember to run away whenever the sharks are about to land.\n\nJellyfish can be ignored and avoided in this phase.\n\nAfter the pool dies, the learner wants to go and kill the Southern-most pool (Tentacles). When this pool is about to die, players want to move into melee distance and spam click the middle in order to fill it with sand. If done successfully the pool closes and the team can move to the last remaining pool, the North-western pool (Sand).\n\nAfter all four pools are dead and closed by either sand or [planks](https://runescape.wikia.com/wiki/Plank_(Mazcab), Yakamaru will spawn back in the Center pool, where it can be killed in order to finish the fight."
                     }
                 ],
-                "footer": {
-                    "icon_url": "https://images-ext-2.discordapp.net/external/fkEkEkLF-5krIYVQdAOfYdvyUW4_mm6xFLacYDdGYpw/%3Fcb%3D20171023212914/https/vignette.wikia.nocookie.net/runescape2/images/c/c9/The_Reaper.png/revision/latest",
-                    "text": "Remember, all first time reaper kills are free in #reaper-request-list"
-                }
+                "footer": {},
+                "timestamp": "2001-01-04T12:00:00Z"
             }
 }
