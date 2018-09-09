@@ -40,7 +40,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 20"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "combat - elite dungeons - aminishi? completed it, mate.": {
     "title": "Aminishi? Completed it, mate.",
@@ -116,7 +117,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 20"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "combat - elite dungeons - arc reactor": {
     "title": "Arc Reactor",
@@ -135,7 +137,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 30"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "combat - elite dungeons - bless you, seiryu": {
     "title": "Bless You, Seiryu",
@@ -154,7 +157,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 5"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "combat - elite dungeons - broodmother": {
     "title": "Broodmother",
@@ -179,7 +183,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 30"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "combat - elite dungeons - chill out, bro!": {
     "title": "Chill Out, Bro!",
@@ -204,7 +209,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 10"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "combat - elite dungeons - crassian en masse": {
     "title": "Crassian en Masse",
@@ -223,7 +229,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 30"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "combat - elite dungeons - died by the blade!": {
     "title": "Died by the Blade!",
@@ -242,7 +249,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 20"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "combat - elite dungeons - dragon ink": {
     "title": "Dragon Ink",
@@ -261,7 +269,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 20"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "combat - elite dungeons - dragonhide infanticide": {
     "title": "Dragonhide Infanticide",
@@ -286,7 +295,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 20"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "combat - elite dungeons - dragonkin laboratory": {
     "title": "Dragonkin Laboratory",
@@ -310,7 +320,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 50"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "combat - elite dungeons - ebony and irony": {
     "title": "Ebony and Irony",
@@ -335,7 +346,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 10"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "combat - elite dungeons - elder souls": {
     "title": "Elder Souls",
@@ -360,7 +372,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 10"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "combat - elite dungeons - elite dungeons and dragons": {
     "title": "Elite Dungeons and Dragons",
@@ -436,7 +449,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 20"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "combat - elite dungeons - force of a great typhoon": {
     "title": "Force of a Great Typhoon",
@@ -455,7 +469,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 30"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "combat - elite dungeons - four in hand": {
     "title": "Four in Hand",
@@ -475,7 +490,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 10"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "combat - elite dungeons - get back, hand!": {
     "title": "Get Back, Hand!",
@@ -495,7 +511,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 5"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "combat - elite dungeons - goopy bloop boop": {
     "title": "Goopy Bloop Boop",
@@ -514,7 +531,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 5"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "combat - elite dungeons - here is my handle": {
     "title": "Here Is My Handle",
@@ -533,7 +551,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 20"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "combat - elite dungeons - i'll pulverise you!": {
     "title": "I'll Pulverise You!",
@@ -552,7 +571,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 20"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "combat - elite dungeons - malignant enigmas": {
     "title": "Malignant Enigmas",
@@ -571,7 +591,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 30"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "combat - elite dungeons - not a moth": {
     "title": "Not a Moth",
@@ -591,7 +612,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 20"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "combat - elite dungeons - oops! wrong cult!": {
     "title": "Oops! Wrong Cult!",
@@ -610,7 +632,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 5"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "combat - elite dungeons - outflanked 'em in the sanctum": {
     "title": "Outflanked 'em in the Sanctum",
@@ -629,7 +652,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 30"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "combat - elite dungeons - psychedelic relics": {
     "title": "Psychedelic Relics",
@@ -649,7 +673,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 10"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "combat - elite dungeons - shadow wave": {
     "title": "Shadow Wave",
@@ -669,7 +694,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 5"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "combat - elite dungeons - smoulders and skully": {
     "title": "Smoulders and Skully",
@@ -689,7 +715,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 10"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "combat - elite dungeons - spiderlogical warfare": {
     "title": "Spiderlogical Warfare",
@@ -709,7 +736,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 10"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "combat - elite dungeons - strength of a raging fire": {
     "title": "Strength of a Raging Fire",
@@ -728,7 +756,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 50"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "combat - elite dungeons - swift as the coursing river": {
     "title": "Swift as the Coursing River",
@@ -747,7 +776,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 30"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "combat - elite dungeons - tactless analysis": {
     "title": "Tactless Analysis",
@@ -771,7 +801,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 20"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "combat - elite dungeons - temple of aminishi": {
     "title": "Temple of Aminishi",
@@ -795,7 +826,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 50"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "combat - elite dungeons - the book of elei": {
     "title": "The Book of Elei",
@@ -819,7 +851,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 20"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "combat - elite dungeons - the elite": {
     "title": "The Elite",
@@ -843,7 +876,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 75"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "combat - elite dungeons - the many hands that write": {
     "title": "The Many Hands That Write",
@@ -862,7 +896,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 20"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "combat - elite dungeons - the purple dart": {
     "title": "The Purple Dart",
@@ -881,7 +916,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 10"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "combat - elite dungeons - we will fight in the shade": {
     "title": "We Will Fight in the Shade",
@@ -901,7 +937,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 10"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "combat - elite dungeons - what does monster examine say about his combat level?": {
     "title": "What Does Monster Examine Say About His Combat Level?",
@@ -920,7 +957,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 10"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "combat - elite dungeons - you won't like me when i'm sangri": {
     "title": "You Won't Like Me When I'm Sangri",
@@ -940,7 +978,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 10"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "combat - general - bone i fired": {
     "title": "Bone I Fired",
@@ -964,7 +1003,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 10"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "combat - general - order of slayers": {
     "title": "Order of Slayers",
@@ -983,7 +1023,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 30"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "combat - general - shattering worlds pt1": {
     "title": "Shattering Worlds I-VI",
@@ -1047,7 +1088,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 5"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "combat - group pvm - best offence": {
     "title": "Best Offence",
@@ -1075,7 +1117,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 50"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "combat - group pvm - brothers in arms": {
     "title": "Brothers In More Arms",
@@ -1103,7 +1146,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 40"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "combat - group pvm - classic rock": {
     "title": "Classic Rock",
@@ -1135,7 +1179,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 60"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "combat - group pvm - hungry hungry reavers": {
     "title": "Hungry Hungry Reavers",
@@ -1163,7 +1208,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 75"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "combat - group pvm - matricide": {
     "title": "Matricide",
@@ -1191,7 +1237,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 50"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "combat - group pvm - never eat silk worms": {
     "title": "Never Eat Silk Worms",
@@ -1219,7 +1266,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 40"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "combat - group pvm - next to no power": {
     "title": "Next To No Power",
@@ -1247,7 +1295,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 65"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "combat - group pvm - who's your daddy": {
     "title": "Who's Your Daddy?",
@@ -1279,7 +1328,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 50"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "combat - raids - all together now": {
     "title": "All Together Now",
@@ -1324,7 +1374,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 70"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
 "combat - raids - animal cruelty": {
     "title": "Animal Cruelty",
@@ -1357,7 +1408,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 60"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "combat - raids - better not touch": {
     "title": "Better Not Touch",
@@ -1394,7 +1446,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 65"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "combat - raids - cormes and goes": {
     "title": "Cormes and Goes",
@@ -1423,7 +1476,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 50"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "combat - raids - day at the aquarium": {
     "title": "Day at the Aquarium",
@@ -1460,7 +1514,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 50"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "combat - raids - day at the pound": {
     "title": "Day at the Pound",
@@ -1493,7 +1548,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 60"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "combat - raids - going maintenance expert": {
     "title": "Gong Maintenance Expert",
@@ -1526,7 +1582,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 50"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "combat - raids - hero of the goebies": {
     "title": "The Hero of the Goebies",
@@ -1558,7 +1615,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 75"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "combat - raids - make friends and influence people": {
     "title": "Make Friends and Influence People",
@@ -1599,7 +1657,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 50"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "combat - raids - prison break": {
     "title": "Prison Break",
@@ -1632,7 +1691,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 50"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "combat - raids - rewind": {
     "title": "Rewind",
@@ -1665,7 +1725,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 60"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "combat - solo pvm - all aboard": {
     "title": "All Aboard",
@@ -1689,7 +1750,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 30"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "combat - solo pvm - baroo quality": {
     "title": "Baroo Quality",
@@ -1713,7 +1775,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 35"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "combat - solo pvm - bring it all back": {
     "title": "Bring It All Back",
@@ -1737,7 +1800,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 40"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "combat - solo pvm - brothers in arms": {
     "title": "Brothers In Arms",
@@ -1793,7 +1857,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 20"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "combat - solo pvm - burn, fury, burn": {
     "title": "Burn, Fury, Burn",
@@ -1817,7 +1882,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 40"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "combat - solo pvm - change of the guard": {
     "title": "Changing of the Guard",
@@ -1841,7 +1907,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 20"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "combat - solo pvm - classic dragon killing": {
     "title": "Classic Dragon Killing",
@@ -1865,7 +1932,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 40"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "combat - solo pvm - coursing through you": {
     "title": "Coursing Through You",
@@ -1889,7 +1957,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 70"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "combat - solo pvm - dagannoth traffic wardens": {
     "title": "Dagannoth Traffic Wardens",
@@ -1913,7 +1982,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 50"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "combat - solo pvm - double swoop": {
     "title": "Double Swoop",
@@ -1937,7 +2007,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 40"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "combat - solo pvm - fist contact": {
     "title": "Fist Contact",
@@ -1961,7 +2032,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 50"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "combat - solo pvm - floor is larval": {
     "title": "Floor Is Larval",
@@ -1985,7 +2057,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 50"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "combat - solo pvm - glutton for punishment": {
     "title": "Glutton For Punishment",
@@ -2009,7 +2082,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 30"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "combat - solo pvm - good enough for a goblin": {
     "title": "Good Enough for a Goblin",
@@ -2037,7 +2111,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 40"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "combat - solo pvm - graardone": {
     "title": "Graardone",
@@ -2061,7 +2136,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 40"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "combat - solo pvm - hail to the queen": {
     "title": "Hail To The Queen",
@@ -2085,7 +2161,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 20"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "combat - solo pvm - i got this": {
     "title": "I Got This",
@@ -2109,7 +2186,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 40"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "combat - solo pvm - in the spirit of things": {
     "title": "In The Spirit Of Things",
@@ -2133,7 +2211,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 60"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "combat - solo pvm - k'ril will be done": {
     "title": "K'ril Will Be Done",
@@ -2157,7 +2236,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 30"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "combat - solo pvm - k'rilow": {
     "title": "K'rilow",
@@ -2181,7 +2261,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 40"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "combat - solo pvm - like a boss": {
     "title": "Like A Boss",
@@ -2205,7 +2286,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 5"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "combat - solo pvm - loyal subject": {
     "title": "Loyal Subject",
@@ -2229,7 +2311,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 20"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "combat - solo pvm - lumbridge strikes back": {
     "title": "Lumbridge Strikes Back",
@@ -2281,7 +2364,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 75"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "combat - solo pvm - naturist": {
     "title": "Naturist",
@@ -2305,7 +2389,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 15"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "combat - solo pvm - safety dance": {
     "title": "Safety Dance",
@@ -2329,7 +2414,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 50"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "combat - solo pvm - stand your ground": {
     "title": "Stand Your Ground",
@@ -2357,7 +2443,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 50"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "combat - solo pvm - stuffed with anima": {
     "title": "Stuffed With Anima",
@@ -2401,7 +2488,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 55"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "combat - solo pvm - sunshine through the rain": {
     "title": "Sunshine Through The Rain",
@@ -2425,7 +2513,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 40"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "combat - solo pvm - telos if you're angry": {
     "title": "Telos If You're Angry I-VI",
@@ -2449,7 +2538,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 5"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "combat - solo pvm - they all fell down": {
     "title": "They All Fell Down",
@@ -2473,7 +2563,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 40"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "combat - solo pvm - through the fire and flames": {
     "title": "Through The Fire And Flames",
@@ -2497,7 +2588,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 30"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "combat - solo pvm - traitorous": {
     "title": "Traitorous",
@@ -2521,7 +2613,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 30"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "combat - solo pvm - unionised": {
     "title": "Unionised",
@@ -2545,7 +2638,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 40"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "combat - solo pvm - wolf pack": {
     "title": "Wolf Pack",
@@ -2569,7 +2663,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 70"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "exploration - menaphos - 'phite club": {
     "title": "'Phite Club",
@@ -2617,7 +2712,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 40"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "exploration - menaphos - 'phite for your right": {
     "title": "'Phite For Your Right I-V",
@@ -2642,7 +2738,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 5-25"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "exploration - menaphos - all abuzz": {
     "title": "All Abuzz",
@@ -2726,7 +2823,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 25"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "exploration - menaphos - boys to menaphites": {
     "title": "Boys to Menaphites",
@@ -2754,7 +2852,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 50"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "exploration - menaphos - class crown": {
     "title": "Class Crown",
@@ -2786,7 +2885,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 40"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "exploration - menaphos - crocadile tears": {
     "title": "Crocodile Tears",
@@ -2834,7 +2934,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 25"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "exploration - menaphos - feline good": {
     "title": "Feline Good",
@@ -2918,7 +3019,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 25"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "exploration - menaphos - game of tombs": {
     "title": "Game of Tombs I-V",
@@ -2943,7 +3045,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 5-25"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "exploration - menaphos - lock, stock, and barrel": {
     "title": "Lock, Stock and Barrel",
@@ -2975,7 +3078,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 40"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "exploration - menaphos - our man in the north": {
     "title": "Our Man in the North",
@@ -3023,7 +3127,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 25"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "exploration - menaphos - rock and roll": {
     "title": "Rock and Roll",
@@ -3107,7 +3212,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 25"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "exploration - menaphos - seagullible": {
     "title": "Seagullible",
@@ -3139,7 +3245,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 40"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "exploration - menaphos - slay bells ring": {
     "title": "Slay Bells Ring I-V",
@@ -3184,7 +3291,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 25"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "exploration - menaphos - squishing level": {
     "title": "Squishing Level I-V",
@@ -3209,7 +3317,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 5-25"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "exploration - menaphos - the jack of spades": {
     "title": "The Jack of Spades",
@@ -3253,7 +3362,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 5"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "exploration - menaphos - to the bone": {
     "title": "To The Bone",
@@ -3285,7 +3395,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 40"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "exploration - new varrock - bank-z": {
     "title": "Bank-Z",
@@ -3309,7 +3420,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 15"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "exploration - new varrock - cat's bane": {
     "title": "Cat's Bane",
@@ -3345,7 +3457,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 10"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "exploration - new varrock - dark imperator-ment": {
     "title": "Dark Imperator-ment",
@@ -3369,7 +3482,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 25"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "exploration - new varrock - guard is dead": {
     "title": "Guard is Dead",
@@ -3393,7 +3507,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 25"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "exploration - new varrock - hand exchange": {
     "title": "Hand Exchange",
@@ -3417,7 +3532,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 5"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "exploration - new varrock - hide and seek": {
     "title": "Hide and Seek",
@@ -3445,7 +3561,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 5"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "exploration - new varrock - micro brew": {
     "title": "Micro Brew",
@@ -3469,7 +3586,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 15"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "exploration - new varrock - moo-er of all bombs": {
     "title": "Moo-er of All Bombs",
@@ -3493,7 +3611,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 25"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "exploration - new varrock - mummy returns": {
     "title": "Mummy Returns",
@@ -3517,7 +3636,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 15"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "exploration - new varrock - pick all": {
     "title": "Pick All",
@@ -3541,7 +3661,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 15"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "exploration - new varrock - pick half": {
     "title": "Pick Half",
@@ -3565,7 +3686,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 10"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "exploration - new varrock - pick one": {
     "title": "Pick One",
@@ -3589,7 +3711,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 5"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "exploration - new varrock - ready, deady, cook": {
     "title": "Ready, Deady, Cook",
@@ -3613,7 +3736,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 5"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "exploration - new varrock - scrying game": {
     "title": "Scrying Game",
@@ -3637,7 +3761,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 10"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "exploration - new varrock - set tasks easy": {
     "title": "New Varrock Set Tasks - Easy",
@@ -3661,7 +3786,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 5"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "exploration - new varrock - set tasks elite": {
     "title": "New Varrock Set Tasks - Elite",
@@ -3685,7 +3811,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 25"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "exploration - new varrock - set tasks hard": {
     "title": "New Varrock Set Tasks - Hard",
@@ -3709,7 +3836,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 15"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "exploration - new varrock - set tasks medium": {
     "title": "New Varrock Set Tasks - Medium",
@@ -3733,7 +3861,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 10"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "exploration - new varrock - south and west side story": {
     "title": "South AND West Side Story",
@@ -3757,7 +3886,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 15"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "exploration - new varrock - steel, stud or silk salute": {
     "title": "Steel, Stud or Silk Salute",
@@ -3781,7 +3911,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 25"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "exploration - new varrock - they had a gudrun": {
     "title": "They Had a Gudrun",
@@ -3805,7 +3936,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 10"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "exploration - new varrock - tier gear": {
     "title": "Tier Gear",
@@ -3829,7 +3961,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 10"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "exploration - new varrock - top pick": {
     "title": "Top Pick",
@@ -3853,7 +3986,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 25"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "exploration - new varrock - trade parade": {
     "title": "Trade Parade",
@@ -3877,7 +4011,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 5"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "exploration - wushanko: the arc - arc i - flag fall": {
     "title": "Arc I - Flag Fall",
@@ -3921,7 +4056,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 10"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "exploration - wushanko: the arc - arc ii - head of the family": {
     "title": "Arc II - Head of the Family",
@@ -3965,7 +4101,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 10"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "exploration - wushanko: the arc - arc iii - spiritual enlightenment": {
     "title": "Arc III - Spiritual Enlightenment",
@@ -4009,7 +4146,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 10"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "exploration - wushanko: the arc - arc iv - jed hunter": {
     "title": "Arc IV - Jed Hunter",
@@ -4053,7 +4191,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 10"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "exploration - wushanko: the arc - arc ix - damage control": {
     "title": "Arc IX - Damage Control",
@@ -4097,7 +4236,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 10"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "exploration - wushanko: the arc - arc v - eye for an eye": {
     "title": "Arc V - Eye for an Eye",
@@ -4141,7 +4281,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 10"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "exploration - wushanko: the arc - arc vi - harbinger of doom": {
     "title": "Arc VI - Harbinger of Doom",
@@ -4186,7 +4327,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 10"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "exploration - wushanko: the arc - arc vii - tuai leit's own": {
     "title": "Arc VII - Tuai Leit's Own",
@@ -4230,7 +4372,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 10"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "exploration - wushanko: the arc - arc viii - ghosts from the past": {
     "title": "Arc VIII - Ghosts from the Past",
@@ -4274,7 +4417,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 10"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "exploration - wushanko: the arc - arc x - final destination": {
     "title": "Arc X - Final Destination",
@@ -4318,7 +4462,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 10"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "exploration - wushanko: the arc - berries of the arc": {
     "title": "Berries of the Arc",
@@ -4406,7 +4551,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 25"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "exploration - wushanko: the arc - birds of the arc": {
     "title": "Birds of the Arc",
@@ -4490,7 +4636,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 25"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "exploration - wushanko: the arc - castaways of the arc pt1": {
     "title": "Castaways of the Arc",
@@ -4554,7 +4701,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 25"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "exploration - wushanko: the arc - flippers": {
     "title": "Arc - Flippers",
@@ -4573,7 +4721,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 5"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "exploration - wushanko: the arc - kami spirits of the arc": {
     "title": "Kami Spirits of the Arc",
@@ -4609,7 +4758,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 25"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "exploration - wushanko: the arc - mushrooms of the arc": {
     "title": "Mushroom Clusters of the Arc",
@@ -4641,7 +4791,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 25"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "exploration - wushanko: the arc - rewards": {
     "title": "Arc - Rewards",
@@ -4665,7 +4816,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 25"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "exploration - wushanko: the arc - salty": {
     "title": "Arc - Salty",
@@ -4689,7 +4841,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 30"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "exploration - wushanko: the arc - unlocking more waiko": {
     "title": "Arc - Unlocking More Waiko",
@@ -4717,7 +4870,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 30"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "exploration - wushanko: the arc - upgrading all of the waiko": {
     "title": "Arc - Unlocking More Waiko",
@@ -4741,7 +4895,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 30"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "exploration - wushanko: the arc - wushanko isles: the arc": {
     "title": "Wushanko Isles: The Arc",
@@ -4765,7 +4920,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 50"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "minigames - general - a-voiding conflict": {
     "title": "A-Voiding Conflict",
@@ -4784,7 +4940,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 25"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "minigames - general - altar explorer": {
     "title": "Altar Explorer",
@@ -4803,7 +4960,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 10"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "minigames - general - beggars can't be choosers": {
     "title": "Beggars Can't Be Choosers",
@@ -4822,7 +4980,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 5"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "minigames - general - careful, there are snakes": {
     "title": "Careful, There Are Snakes",
@@ -4841,7 +5000,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 20"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "minigames - general - claymation": {
     "title": "Claymation",
@@ -4860,7 +5020,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 20"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "minigames - general - disowned": {
     "title": "Disowned",
@@ -4888,7 +5049,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 40"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "minigames - general - going down with the ship": {
     "title": "Going Down With The Ship",
@@ -4907,7 +5069,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 15"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "minigames - general - it's not called surging tombs": {
     "title": "It's Not Called Surging Tombs",
@@ -4926,7 +5089,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 15"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "minigames - general - little leaguer": {
     "title": "Little Leaguer",
@@ -4945,7 +5109,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 10"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "minigames - general - magister smagister": {
     "title": "Magister Smagister",
@@ -4964,7 +5129,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 20"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "minigames - general - seeing lava": {
     "title": "Seeing Lava",
@@ -4988,7 +5154,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 25"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "minigames - general - source of denial": {
     "title": "Source of Denial",
@@ -5012,7 +5179,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 10"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "minigames - general - tokhaar-mok": {
     "title": "TokHaar-Mok",
@@ -5044,7 +5212,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 25"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "minigames - general - unlucky for some": {
     "title": "Unlucky For Some",
@@ -5068,7 +5237,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 10"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "minigames - general - varrock calls for aid!": {
     "title": "Varrock Calls for Aid!",
@@ -5104,7 +5274,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 20"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "minigames - general - what year is it?": {
     "title": "What Year Is It?",
@@ -5123,7 +5294,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 20"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "minigames - general - who do broodoo?": {
     "title": "Who Do Broodoo?",
@@ -5142,7 +5314,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 10"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "minigames - general - you're it": {
     "title": "You're It",
@@ -5161,7 +5334,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 20"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "minigames - treasure trails - balance combat triangle": {
     "title": "Balanced Combat Triangle",
@@ -5185,7 +5359,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 5"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "minigames - treasure trails - clued-up": {
     "title": "Clued-Up",
@@ -5204,7 +5379,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 5"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "minigames - treasure trails - digging for treasure": {
     "title": "Digging For Treasure",
@@ -5223,7 +5399,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 5"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "minigames - treasure trails - diving for clues": {
     "title": "Diving For Clues",
@@ -5242,7 +5419,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 5"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "minigames - treasure trails - fill them all!": {
     "title": "Fill Them All!",
@@ -5261,7 +5439,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 5"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "minigames - treasure trails - globetrotter": {
     "title": "Globetrotter",
@@ -5285,7 +5464,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 50"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "minigames - treasure trails - skeletrail horror": {
     "title": "Skeletrail Horror",
@@ -5304,7 +5484,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 5"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "minigames - treasure trails - slide to the left": {
     "title": "Slide To The Left",
@@ -5328,7 +5509,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 5"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "minigames - treasure trails - towering over us all": {
     "title": "Towering Over Us All",
@@ -5376,7 +5558,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 5"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "minigames - treasure trails - treasure seeker": {
     "title": "Treasure Seeker I-X",
@@ -5420,7 +5603,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 5-25"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "minigames - treasure trails - untangled": {
     "title": "Untangled",
@@ -5469,7 +5653,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 5"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "minigames - treasure trails - what's in the hole?": {
     "title": "What's In The Hole?",
@@ -5488,7 +5673,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 5"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "miscellaneous - clan - a wizard did it": {
     "title": "A Wizard Did It",
@@ -5507,7 +5693,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 0"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "miscellaneous - clan - castles in the sky": {
     "title": "Castles In The Sky",
@@ -5526,7 +5713,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 0"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "miscellaneous - clan - citadelementary": {
     "title": "Citadelementary",
@@ -5545,7 +5733,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 0"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "miscellaneous - clan - faceless and ready": {
     "title": "Faceless And Ready",
@@ -5564,7 +5753,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 0"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "miscellaneous - general - going for a punt": {
     "title": "Going For A Punt",
@@ -5583,7 +5773,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 10"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "miscellaneous - general - great gielinor run": {
     "title": "Great Gielinor Run",
@@ -5620,7 +5811,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 50"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "miscellaneous - general - open bar": {
     "title": "Open Bar",
@@ -5639,7 +5831,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 5"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "miscellaneous - general - second shrubbery": {
     "title": "Second Shrubbery",
@@ -5658,7 +5851,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 10"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "miscellaneous - general - seven colours in their hat": {
     "title": "Seven Colours In Their Hat",
@@ -5682,7 +5876,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 50"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "miscellaneous - miniquest - a brief history of telescopes": {
     "title": "A Brief History of Telescopes",
@@ -5701,7 +5896,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 0"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "miscellaneous - miniquest - a guild of our own": {
     "title": "A Guild of Our Own",
@@ -5745,7 +5941,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 5"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "miscellaneous - miniquest - abyssal reach": {
     "title": "Abyssal Reach",
@@ -5789,7 +5986,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 10"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "miscellaneous - miniquest - ali the trader": {
     "title": "Ali The Trader",
@@ -5833,7 +6031,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 15"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "miscellaneous - miniquest - arc i - flag fall": {
     "title": "Arc I - Flag Fall",
@@ -5877,7 +6076,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 10"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "miscellaneous - miniquest - arc ii - head of the family": {
     "title": "Arc II - Head of the Family",
@@ -5921,7 +6121,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 10"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "miscellaneous - miniquest - arc iii - spiritual enlightenment": {
     "title": "Arc III - Spiritual Enlightenment",
@@ -5965,7 +6166,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 10"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "miscellaneous - miniquest - arc iv - jed hunter": {
     "title": "Arc IV - Jed Hunter",
@@ -6009,7 +6211,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 10"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "miscellaneous - miniquest - arc v - an eye for an eye": {
     "title": "Arc V - Eye for an Eye",
@@ -6053,7 +6256,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 10"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "miscellaneous - miniquest - arc vi - harbinger of doom": {
     "title": "Arc VI - Harbinger of Doom",
@@ -6098,7 +6302,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 10"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "miscellaneous - miniquest - arc vii - tuai leit's own": {
     "title": "Arc VII - Tuai Leit's Own",
@@ -6142,7 +6347,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 10"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "miscellaneous - miniquest - arc viii - ghosts from the past": {
     "title": "Arc VIII - Ghosts from the Past",
@@ -6186,7 +6392,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 10"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "miscellaneous - miniquest - arc ix - damage control": {
     "title": "Arc IX - Damage Control",
@@ -6230,7 +6437,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 10"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "miscellaneous - miniquest - arc x - final destination": {
     "title": "Arc X - Final Destination",
@@ -6274,7 +6482,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 10"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "miscellaneous - miniquest - around the world in six ways": {
     "title": "Around the World in Six Ways",
@@ -6326,7 +6535,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 15"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "miscellaneous - miniquest - banking history": {
     "title": "Banking History",
@@ -6370,7 +6580,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 25"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "miscellaneous - miniquest - benedict's world tour, part 1": {
     "title": "Benedict's World Tour, Part 1",
@@ -6426,7 +6637,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 5"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "miscellaneous - miniquest - benedict's world tour, part 2": {
     "title": "Benedict's World Tour, Part 2",
@@ -6514,7 +6726,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 5"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "miscellaneous - miniquest - deadlier catch": {
     "title": "Deadlier Catch",
@@ -6538,7 +6751,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 10"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "miscellaneous - miniquest - desert-ed ghosts": {
     "title": "Desert-ed Ghosts",
@@ -6582,7 +6796,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 15"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "miscellaneous - miniquest - from tiny acorns": {
     "title": "From Tiny Acorns",
@@ -6626,7 +6841,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 5"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "miscellaneous - miniquest - ivan is flailing": {
     "title": "Ivan is Flailing",
@@ -6650,7 +6866,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 10"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "miscellaneous - miniquest - kharshai's memories": {
     "title": "Kharshai's Memories",
@@ -6694,7 +6911,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 15"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "miscellaneous - miniquest - koschei's cache": {
     "title": "Koschei's Cache",
@@ -6738,7 +6956,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 15"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "miscellaneous - miniquest - kudos to you": {
     "title": "Kudos to You",
@@ -6790,7 +7009,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 25"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "miscellaneous - miniquest - lost her marbles": {
     "title": "Lost Her Marbles",
@@ -6834,7 +7054,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 5"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "miscellaneous - miniquest - lost toys": {
     "title": "Lost Toys",
@@ -6930,7 +7151,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 10"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "miscellaneous - miniquest - master otto": {
     "title": "Master Otto",
@@ -6974,7 +7196,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 25"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "miscellaneous - miniquest - milk of chocolate, snape of grass": {
     "title": "Milk of Chocolate, Snape of Grass",
@@ -7018,7 +7241,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 5"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "miscellaneous - miniquest - myreque in memoriam": {
     "title": "Myreque in Memoriam",
@@ -7062,7 +7286,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 15"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "miscellaneous - miniquest - nomad's genesis": {
     "title": "Nomad's Genesis",
@@ -7154,7 +7379,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 15"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "miscellaneous - miniquest - one foot in the grave": {
     "title": "One Foot in the Grave",
@@ -7198,7 +7424,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 15"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "miscellaneous - miniquest - pious prayers": {
     "title": "Pious Prayers",
@@ -7242,7 +7469,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 15"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "miscellaneous - miniquest - scabigail": {
     "title": "Scabigail",
@@ -7286,7 +7514,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 10"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "miscellaneous - miniquest - sheep shearer": {
     "title": "Sheep Shearer",
@@ -7330,7 +7559,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 5"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "miscellaneous - miniquest - skeletal wishes": {
     "title": "Skeletal Wishes",
@@ -7374,7 +7604,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 15"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "miscellaneous - miniquest - slime and snails and god wars tales": {
     "title": "Slime and Snails and God Wars Tales",
@@ -7418,7 +7649,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 20"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "miscellaneous - miniquest - soft kitty, purple kitty": {
     "title": "Soft Kitty, Purple Kitty",
@@ -7462,7 +7694,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 10"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "miscellaneous - miniquest - stay safe": {
     "title": "Stay Safe",
@@ -7502,7 +7735,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 5"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "miscellaneous - miniquest - stay secure": {
     "title": "Stay Secure",
@@ -7542,7 +7776,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 5"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "miscellaneous - miniquest - tell tale tarn": {
     "title": "Tell Tale Tarn",
@@ -7586,7 +7821,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 15"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "miscellaneous - miniquest - the general's shadow": {
     "title": "The General's Shadow",
@@ -7630,7 +7866,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 5"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "miscellaneous - miniquest - the hunt for surok": {
     "title": "The Hunt for Surok",
@@ -7674,7 +7911,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 5"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "miscellaneous - miniquest - to ga'al or not to ga'al": {
     "title": "To Ga'al or Not to Ga'al",
@@ -7718,7 +7956,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 10"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "miscellaneous - miniquest - what's mine is also doric's": {
     "title": "What's Mine Is Also Doric's",
@@ -7762,7 +8001,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 10"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "miscellaneous - miniquest - witch's potion": {
     "title": "Witch's Potion",
@@ -7806,7 +8046,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 5"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "miscellaneous - miniquest - you be dead": {
     "title": "You Be Dead",
@@ -7850,7 +8091,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 10"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "skills - divination - business is booning!": {
     "title": "Business Is Booning!",
@@ -7869,7 +8111,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 5"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "skills - divination - collecting memorabilia": {
     "title": "Collecting Memorabilia",
@@ -7888,7 +8131,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 5"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "skills - divination - divine retribution": {
     "title": "Divine Retribution",
@@ -7912,7 +8156,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 10"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "skills - divination - energy generator": {
     "title": "Energy Generator",
@@ -7931,7 +8176,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 5"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "skills - divination - enrichment programme": {
     "title": "Enrichment Programme",
@@ -7950,7 +8196,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 5"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "skills - divination - just give me a sign": {
     "title": "Just Give Me a Sign",
@@ -7969,7 +8216,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 5"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "skills - divination - let's enhance": {
     "title": "Let's Enhance",
@@ -7988,7 +8236,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 5"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "skills - divination - mighty morphing": {
     "title": "Mighty Morphing",
@@ -8007,7 +8256,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 5"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "skills - divination - portentially hazardous": {
     "title": "Portentially Hazardous",
@@ -8026,7 +8276,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 5"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "skills - divination - simply divine": {
     "title": "Simply Divine",
@@ -8045,7 +8296,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 5"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "skills - divination - the archivist": {
     "title": "The Archivist",
@@ -8069,7 +8321,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 10"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "skills - divination - what an experience": {
     "title": "What an Experience",
@@ -8088,7 +8341,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 5"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "skills - fishing - boosted animal": {
     "title": "Boosted Animal",
@@ -8107,7 +8361,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 20"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "skills - fishing - fancy turtle-back": {
     "title": "Fancy turtle-back",
@@ -8126,7 +8381,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 5"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "skills - fishing - frenzied": {
     "title": "Frenzied",
@@ -8145,7 +8401,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 20"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "skills - fishing - make a wish": {
     "title": "Make A Wish",
@@ -8164,7 +8421,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 5"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "skills - fishing - my precious!": {
     "title": "My precious!",
@@ -8183,7 +8441,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 10"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "skills - fishing - ruler of the sea": {
     "title": "Ruler of the Sea",
@@ -8202,7 +8461,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 20"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "skills - fishing - up for sail": {
     "title": "Up for Sail",
@@ -8221,7 +8481,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 5"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "skills - thieving - pilferin' in asgarnia": {
     "title": "Pilferin' in Asgarnia",
@@ -8240,7 +8501,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 10"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "skills - thieving - pilferin' in kandarin": {
     "title": "Pilferin' in Kandarin",
@@ -8259,7 +8521,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 10"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "skills - thieving - pilferin' in kharadian desert": {
     "title": "Pilferin' in Kharidian Desert",
@@ -8278,7 +8541,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 10"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "skills - thieving - pilferin' in misthalin": {
     "title": "Pilferin' in Misthalin",
@@ -8297,7 +8561,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 5"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "skills - thieving - pilferin' the hidden ones": {
     "title": "Pilferin' the hidden ones",
@@ -8316,7 +8581,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 20"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "skills - thieving - the world is a safe place": {
     "title": "The world is a safe place",
@@ -8344,6 +8610,7 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 20"
-    }
+    },
+"timestamp": "2001-01-04T12:00:00Z"
   }
 };
