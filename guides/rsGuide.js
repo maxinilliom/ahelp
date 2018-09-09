@@ -1023,6 +1023,7 @@ exports.data = {
         "name": "Very high worlds (W151+):",
         "value": "Using range weapons with 9 [attack range](https://runescape.wikia.com/wiki/Attack_range) to [snipe](https://runescape.wikia.com/wiki/Snipe) from a distance is highly recommended. Pay careful attention to the surroundings and the terrain of the environment to look for safe-spots. Use of the edges of the map or obstacles often helps. Use abilities for their effects like [Rapid Fire](https://runescape.wikia.com/wiki/Rapid_Fire) and its guaranteed binding for 6 seconds, cooldown 20 seconds; [Devotion](https://runescape.wikia.com/wiki/Devotion) and its guaranteed damage mitigation for 10-20 seconds, cooldown 60 seconds. Read over the descriptions of all the [mutators](https://runescape.wikia.com/wiki/Shattered_Worlds#Mutators) and know them inside out."
       }
+    ]
   },
   "combat - general - shattering worlds pt2": {
       "fields": [
