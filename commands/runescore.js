@@ -41,7 +41,14 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 		let errMsg = "";
 		async function list() {
 			const [cat, sub, ach] = keyList[o].split(" - ");
-			if (category && cat !== category) return;
+			console.log(category && cat !== category);
+			if (category && cat !== category) {
+				i++;
+				o++;
+				if (o < x) list();
+ 	                        if (o == x) message.reply(`**${i}**/\**${keyList.length}** responses listed.\n\n${errMsg}`);
+				return;
+			}
 			const guide = data[keyList[o]];
 			if (guide.author.name) guide.author.name = name;
 			guide.color = color;
@@ -54,9 +61,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 			}
 			i++;
 			o++;
-			if (o < x) {
-				setTimeout(list, 2500);
-			}
+			if (o < x) setTimeout(list, 2500);
 			if (o == x) message.reply(`**${i}**/\**${keyList.length}** responses listed.\n\n${errMsg}`);
 		}
 		list();
