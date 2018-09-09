@@ -36,17 +36,15 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 	if (!args[0]) return message.channel.send(`Please specify a valid achievement name.`);
 
 	if (args[0].toLowerCase() == "all" && level >= 2) {
-		let i = 0, o = 0, x = keyList.length;
+		let i = 0, o = 0, x = keyList.length, errMsg = "";
 		const category = args[1] ? args[1].toLowerCase() : undefined
-		let errMsg = "";
 		async function list() {
 			const [cat, sub, ach] = keyList[o].split(" - ");
-			console.log(category && cat !== category);
 			if (category && cat !== category) {
 				i++;
 				o++;
 				if (o < x) list();
- 	                        if (o == x) message.reply(`**${i}**/\**${keyList.length}** responses listed.\n\n${errMsg}`);
+                if (o == x) message.reply(`**${i}**/\**${keyList.length}** responses listed.\n\n${errMsg}`);
 				return;
 			}
 			const guide = data[keyList[o]];

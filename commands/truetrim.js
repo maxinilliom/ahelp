@@ -46,7 +46,13 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 		const category = args[1] ? args[1].toLowerCase() : undefined
 		async function list() {
 			const [cat, sub, ach] = keyList[o].split(" - ");
-			if (category && cat !== category) return;
+			if (category && cat !== category) {
+				i++;
+				o++;
+				if (o < x) list();
+                if (o == x) message.reply(`**${i}**/\**${keyList.length}** responses listed.\n\n${errMsg}`);
+				return;
+			}
 			const guide = data[keyList[o]];
 			guide.color = color;
 		    if (guide.author) guide.author.name = name;
