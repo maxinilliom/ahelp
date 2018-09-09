@@ -11,7 +11,7 @@ exports.run = async (client, message, args, level) => {
         "icon_url": "https://i.imgur.com/NJmVzyZ.png",
         "text": "All first time reaper kills are free in #reaper-request-list!"
       };
-    if (guideName == "solak") footer.text = "Check #reaper-request-list for information about leeching services and discounts.";
+    if (guideName.includes("solak")) footer.text = "Check #reaper-request-list for information about leeching services and discounts.";
 
 	if (message.channel.id !== '407919969712603145' && level < 2) return;
 
@@ -26,20 +26,20 @@ exports.run = async (client, message, args, level) => {
     let errMsg = "";
     async function list() {
       const guide = data[keyList[o]];
-      if (guide.author) guide.author.name = name;
       guide.color = color;
+      if (guide.author) guide.author.name = name;
       if (guide.footer) guide.footer = footer;
       if (guide.timestamp) guide.timestamp = new Date();
       try {
 				await message.channel.send("", {embed: guide});
 			} catch (err) {
-				errMsg += `${o}. ${keyList[o]} failed to send with error: ${err}\n\n${errMsg}`;
+				errMsg += `${o}. ${keyList[o]} failed to send with error: ${err}`;
 				i--;
 			}
       i++;
       o++;
       if (o < x) setTimeout(list, 2500);
-			if (o == x) message.reply(`**${i}**/\**${keyList.length}** responses listed.`);
+			if (o == x) message.reply(`**${i}**/\**${keyList.length}** responses listed.\n\n${errMsg}`);
     }
     list();
 		return message.delete();
@@ -75,8 +75,8 @@ exports.run = async (client, message, args, level) => {
 		if (RegExp(guideName).test(k) && !/\bpt\d/.test(k) && !rtnArr.includes(k)) rtnArr.push(k);
 		if (RegExp(guideName).test(k) && /\bpt\d/.test(k)) {
 			const guide = data[k];
-			if (/\bpt1/.test(k)) guide.author.name = name;
 			guide.color = color;
+			if (/\bpt1/.test(k)) guide.author.name = name;
 			if (guide.footer) guide.footer = footer;
 			if (guide.timestamp) guide.timestamp = new Date();
 			message.channel.send("", {embed: guide});
