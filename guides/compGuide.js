@@ -4126,7 +4126,7 @@ exports.data = {
             "timestamp": "2001-01-04T12:00:00Z"
   }
 	},
-	"i can see for miles and miles": {
+	"i can see for miles and miles pt1": {
 		"cmds": ["mqc"],
 		"embed": {
 			"title": "I Can See For Miles and Miles",
@@ -4194,8 +4194,15 @@ exports.data = {
 				{
 					"name": "​",
 					"value": "**Keeper:** *None*\n\t• **Location:** On the [Frozen Waste Plateau](https://runescape.wikia.com/wiki/Frozen_Waste_Plateau), west of the [Agility course](https://runescape.wikia.com/wiki/Wilderness_Agility_Course) in level 52 Wilderness"
-				},
-				{
+				}
+            ]
+    	}
+	},
+	"i can see for miles and miles pt2": {
+		"cmds": ["mqc"],
+		"embed": {
+      "fields": [
+        {
 					"name": "Requirements:",
 					"value": "• 70 Smithing\n• 59 Construction\n• 60 Crafting\n• 64 Agility\n• 53 Prayer\n• 81 Summoning\n\n• Completed all four levels of the [Stronghold of Security](https://runescape.wikia.com/wiki/Stronghold_of_Security)\n\n• [Climbing Boots](https://runescape.wikia.com/wiki/Climbing_boots) or [Rock Climbing Boots](https://runescape.wikia.com/wiki/Rock_climbing_boots) (if not using Trollheim teleport)\n• A [Catspeak amulet](https://runescape.wikia.com/wiki/Catspeak_amulet)"
 				},
@@ -4213,7 +4220,7 @@ exports.data = {
 				"text": "Runescore awarded: 30"
 			},
             "timestamp": "2001-01-04T12:00:00Z"
-  }
+  		}
 	},
 	"i dig this transportation": {
 		"cmds": ["mqc"],
@@ -8938,7 +8945,7 @@ exports.data = {
             "timestamp": "2001-01-04T12:00:00Z"
   }
 	},
-	"troublesome crystals": {
+	"troublesome crystals pt1": {
 		"cmds": ["comp", "mqc"],
 		"embed": {
 			"title": "Troublesome Crystals",
@@ -8953,69 +8960,76 @@ exports.data = {
 			"fields": [
 				{
 					"name": "Prifddinas Crystal Locations",
-					"value": "**Memoriam Crytal:** [01](https://runescape.wikia.com/wiki/Memoriam_crystal_01)\n\t• **Location:** West of [Morvran](https://runescape.wikia.com/wiki/Morvran) in [Iorwerth Clan](https://runescape.wikia.com/wiki/Iorwerth_Clan) district, in front of the house you can't enter"
+					"value": "**Memoriam Crystal:** [01](https://runescape.wikia.com/wiki/Memoriam_crystal_01)\n\t• **Location:** West of [Morvran](https://runescape.wikia.com/wiki/Morvran) in [Iorwerth Clan](https://runescape.wikia.com/wiki/Iorwerth_Clan) district, in front of the house you can't enter"
 				},
 				{
 					"name": "​",
-					"value": "**Memoriam Crytal:** [02](https://runescape.wikia.com/wiki/Memoriam_crystal_02)\n\t• **Location:** The house east of the Elder tree patch in [Crwys Clan](https://runescape.wikia.com/wiki/Crwys_Clan) district, on the south side"
+					"value": "**Memoriam Crystal:** [02](https://runescape.wikia.com/wiki/Memoriam_crystal_02)\n\t• **Location:** The house east of the Elder tree patch in [Crwys Clan](https://runescape.wikia.com/wiki/Crwys_Clan) district, on the south side"
 				},
 				{
 					"name": "​",
-					"value": "**Memoriam Crytal:** [03](https://runescape.wikia.com/wiki/Memoriam_crystal_03)\n\t• **Location:** Inside the [Trahaearn Clan](https://runescape.wikia.com/wiki/Trahaearn_Clan) Tower with the [Trahaearn herald](https://runescape.wikia.com/wiki/Trahaearn_herald)"
+					"value": "**Memoriam Crystal:** [03](https://runescape.wikia.com/wiki/Memoriam_crystal_03)\n\t• **Location:** Inside the [Trahaearn Clan](https://runescape.wikia.com/wiki/Trahaearn_Clan) Tower with the [Trahaearn herald](https://runescape.wikia.com/wiki/Trahaearn_herald)"
 				},
 				{
 					"name": "​",
-					"value": "**Memoriam Crytal:** [04](https://runescape.wikia.com/wiki/Memoriam_crystal_04)\n\t• **Location:** Inside [Haf's Battlestaves](https://runescape.wikia.com/wiki/Haf%27s_Battlestaves) shop, in the [Cadarn Clan](https://runescape.wikia.com/wiki/Cadarn_Clan) district"
+					"value": "**Memoriam Crystal:** [04](https://runescape.wikia.com/wiki/Memoriam_crystal_04)\n\t• **Location:** Inside [Haf's Battlestaves](https://runescape.wikia.com/wiki/Haf%27s_Battlestaves) shop, in the [Cadarn Clan](https://runescape.wikia.com/wiki/Cadarn_Clan) district"
 				},
 				{
 					"name": "​",
-					"value": "**Memoriam Crytal:** [05](https://runescape.wikia.com/wiki/Memoriam_crystal_05)\n\t• **Location:** Pickpocketed from [Arianwyn](https://runescape.wikia.com/wiki/Arianwyn) near the [Cadarn herald](https://runescape.wikia.com/wiki/Cadarn_herald)"
+					"value": "**Memoriam Crystal:** [05](https://runescape.wikia.com/wiki/Memoriam_crystal_05)\n\t• **Location:** Pickpocketed from [Arianwyn](https://runescape.wikia.com/wiki/Arianwyn) near the [Cadarn herald](https://runescape.wikia.com/wiki/Cadarn_herald)"
 				},
 				{
 					"name": "​",
-					"value": "**Memoriam Crytal:** [06](https://runescape.wikia.com/wiki/Memoriam_crystal_06)\n\t• **Location:** Speak to [Lord Iorwerth](https://runescape.wikia.com/wiki/Iestin_Edern), near the Iorwerth prayer altar, and ask him about Clan Iorwerth. You will get the crystal when the world gate is mentioned. Requires completion of [Fate of the Gods](https://runescape.wikia.com/wiki/Fate_of_the_Gods)"
+					"value": "**Memoriam Crystal:** [06](https://runescape.wikia.com/wiki/Memoriam_crystal_06)\n\t• **Location:** Speak to [Lord Iorwerth](https://runescape.wikia.com/wiki/Iestin_Edern), near the Iorwerth prayer altar, and ask him about Clan Iorwerth. You will get the crystal when the world gate is mentioned. Requires completion of [Fate of the Gods](https://runescape.wikia.com/wiki/Fate_of_the_Gods)"
 				},
 				{
 					"name": "​",
-					"value": "**Memoriam Crytal:** [07](https://runescape.wikia.com/wiki/Memoriam_crystal_07)\n\t• **Location:** In the building south of the [Seren Stone](https://runescape.wikia.com/wiki/Seren_stone) rocks in the [Trahaearn Clan](https://runescape.wikia.com/wiki/Trahaearn_Clan) district; search the crate on the west side of the building."
+					"value": "**Memoriam Crystal:** [07](https://runescape.wikia.com/wiki/Memoriam_crystal_07)\n\t• **Location:** In the building south of the [Seren Stone](https://runescape.wikia.com/wiki/Seren_stone) rocks in the [Trahaearn Clan](https://runescape.wikia.com/wiki/Trahaearn_Clan) district; search the crate on the west side of the building."
 				},
 				{
 					"name": "​",
-					"value": "**Memoriam Crytal:** [08](https://runescape.wikia.com/wiki/Memoriam_crystal_08)\n\t• **Location:** Plant a [bush seed](https://runescape.wikia.com/wiki/Seeds#Bushes) in the [bush patch](https://runescape.wikia.com/wiki/Farming/Patch_locations#Bush_patches), just east of the Crwys bankchest, then `Check Health` once it has grown."
+					"value": "**Memoriam Crystal:** [08](https://runescape.wikia.com/wiki/Memoriam_crystal_08)\n\t• **Location:** Plant a [bush seed](https://runescape.wikia.com/wiki/Seeds#Bushes) in the [bush patch](https://runescape.wikia.com/wiki/Farming/Patch_locations#Bush_patches), just east of the Crwys bankchest, then `Check Health` once it has grown."
 				},
 				{
 					"name": "​",
-					"value": "**Memoriam Crytal:** [09](https://runescape.wikia.com/wiki/Memoriam_crystal_09)\n\t• **Location:** In the [Hefin Cathedral](https://runescape.wikia.com/wiki/Hefin_Cathedral) south of the [Corrupted Seren Stone](https://runescape.wikia.com/wiki/Corrupted_Seren_Stone)"
+					"value": "**Memoriam Crystal:** [09](https://runescape.wikia.com/wiki/Memoriam_crystal_09)\n\t• **Location:** In the [Hefin Cathedral](https://runescape.wikia.com/wiki/Hefin_Cathedral) south of the [Corrupted Seren Stone](https://runescape.wikia.com/wiki/Corrupted_Seren_Stone)"
 				},
 				{
 					"name": "​",
-					"value": "**Memoriam Crytal:** [10](https://runescape.wikia.com/wiki/Memoriam_crystal_10)\n\t• **Location:** In the [harp](https://runescape.wikia.com/wiki/Harp) building on the south-west side of the [Ithell Clan](https://runescape.wikia.com/wiki/Ithell_Clan) district"
+					"value": "**Memoriam Crystal:** [10](https://runescape.wikia.com/wiki/Memoriam_crystal_10)\n\t• **Location:** In the [harp](https://runescape.wikia.com/wiki/Harp) building on the south-west side of the [Ithell Clan](https://runescape.wikia.com/wiki/Ithell_Clan) district"
 				},
 				{
 					"name": "​",
-					"value": "**Memoriam Crytal:** [11](https://runescape.wikia.com/wiki/Memoriam_crystal_11)\n\t• **Location:** In [Daffyd](https://runescape.wikia.com/wiki/Daffyd)'s house at the north-west edge of the [Amlodd Clan](https://runescape.wikia.com/wiki/Amlodd_Clan) district"
+					"value": "**Memoriam Crystal:** [11](https://runescape.wikia.com/wiki/Memoriam_crystal_11)\n\t• **Location:** In [Daffyd](https://runescape.wikia.com/wiki/Daffyd)'s house at the north-west edge of the [Amlodd Clan](https://runescape.wikia.com/wiki/Amlodd_Clan) district"
 				},
 				{
 					"name": "​",
-					"value": "**Memoriam Crytal:** [12](https://runescape.wikia.com/wiki/Memoriam_crystal_12)\n\t• **Location:** In [Lady Meilyr](https://runescape.wikia.com/wiki/Lady_Meilyr)'s house in the north-east corner of the [Meilyr Clan](https://runescape.wikia.com/wiki/Meilyr_Clan) district"
+					"value": "**Memoriam Crystal:** [12](https://runescape.wikia.com/wiki/Memoriam_crystal_12)\n\t• **Location:** In [Lady Meilyr](https://runescape.wikia.com/wiki/Lady_Meilyr)'s house in the north-east corner of the [Meilyr Clan](https://runescape.wikia.com/wiki/Meilyr_Clan) district"
 				},
 				{
 					"name": "​",
-					"value": "**Memoriam Crytal:** [13](https://runescape.wikia.com/wiki/Memoriam_crystal_13)\n\t• **Location:** Use one of the [emotes](https://runescape.wikia.com/wiki/Hefin_Agility_Course#Emotes) awarded from the [Hefin Agility Course](https://runescape.wikia.com/wiki/Hefin_Agility_Course) near the [serenity posts](https://runescape.wikia.com/wiki/Serenity_posts)"
+					"value": "**Memoriam Crystal:** [13](https://runescape.wikia.com/wiki/Memoriam_crystal_13)\n\t• **Location:** Use one of the [emotes](https://runescape.wikia.com/wiki/Hefin_Agility_Course#Emotes) awarded from the [Hefin Agility Course](https://runescape.wikia.com/wiki/Hefin_Agility_Course) near the [serenity posts](https://runescape.wikia.com/wiki/Serenity_posts)"
 				},
 				{
 					"name": "​",
-					"value": "**Memoriam Crytal:** [14](https://runescape.wikia.com/wiki/Memoriam_crystal_14)\n\t• **Location:** Collect a [bucket](https://runescape.wikia.com/wiki/Bucket) of sand from the [sandpit](https://runescape.wikia.com/wiki/Sandpit) in the southern side of the [Ithell clan](https://runescape.wikia.com/wiki/Ithell_Clan) district while only having 10 or more empty buckets in your inventory. If you have anything else in your inventory you will not receive this Memoriam Crystal"
+					"value": "**Memoriam Crystal:** [14](https://runescape.wikia.com/wiki/Memoriam_crystal_14)\n\t• **Location:** Collect a [bucket](https://runescape.wikia.com/wiki/Bucket) of sand from the [sandpit](https://runescape.wikia.com/wiki/Sandpit) in the southern side of the [Ithell clan](https://runescape.wikia.com/wiki/Ithell_Clan) district while only having 10 or more empty buckets in your inventory. If you have anything else in your inventory you will not receive this Memoriam Crystal"
 				},
 				{
 					"name": "​",
-					"value": "**Memoriam Crytal:** [15](https://runescape.wikia.com/wiki/Memoriam_crystal_15)\n\t• **Location:** Teleport to the [fairy ring](https://runescape.wikia.com/wiki/Fairy_ring) in Prifddinas (**d•j•s**)"
+					"value": "**Memoriam Crystal:** [15](https://runescape.wikia.com/wiki/Memoriam_crystal_15)\n\t• **Location:** Teleport to the [fairy ring](https://runescape.wikia.com/wiki/Fairy_ring) in Prifddinas (**d•j•s**)"
 				},
 				{
 					"name": "​",
-					"value": "**Memoriam Crytal:** [16](https://runescape.wikia.com/wiki/Memoriam_crystal_16)\n\t• **Location:** Harvest [Harmony moss](https://runescape.wikia.com/wiki/Harmony_moss) from a [Harmony pillar](https://runescape.wikia.com/wiki/Harmony_pillar) while under the effect of a [perfect juju farming potion](https://runescape.wikia.com/wiki/Perfect_juju_farming_potion), with a fruit tree fully grown in the Meilyr district"
-				},
-				{
+					"value": "**Memoriam Crystal:** [16](https://runescape.wikia.com/wiki/Memoriam_crystal_16)\n\t• **Location:** Harvest [Harmony moss](https://runescape.wikia.com/wiki/Harmony_moss) from a [Harmony pillar](https://runescape.wikia.com/wiki/Harmony_pillar) while under the effect of a [perfect juju farming potion](https://runescape.wikia.com/wiki/Perfect_juju_farming_potion), with a fruit tree fully grown in the Meilyr district"
+				}
+            ]
+    	}
+	},
+	"troublesome crystals pt2": {
+		"cmds": ["comp", "mqc"],
+		"embed": {
+      		"fields": [
+        		{
 					"name": "Requirements:",
 					"value": "• 77 Agility\n• 75 Farming\n\n• Fate of the Gods Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Fate_of_the_Gods)\n• Plague's End Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Plague%27s_End)\n• Fairy Tale II - Cure a Queen Quest partial completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Fairy_Tale_II_-_Cure_a_Queen)"
 				},
@@ -9029,8 +9043,8 @@ exports.data = {
 				"text": "Runescore awarded: 10"
 			},
             "timestamp": "2001-01-04T12:00:00Z"
-  }
-	},
+  		}
+  	},
 	"ultimate codex": {
 		"cmds": ["mqc"],
 		"embed": {
