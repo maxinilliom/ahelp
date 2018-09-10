@@ -70,9 +70,11 @@ exports.run = async (client, message, args, level) => {
 
 	}
 
+	let prev = undefined;
 	keyList.forEach(k => {
 		if (RegExp(guideName).test(k) && !/\bpt\d/.test(k) && !rtnArr.includes(k)) rtnArr.push(k);
 		if (RegExp(guideName).test(k) && /\bpt\d/.test(k)) {
+			if (prev && prev !== k.replace(/ \bpt\d/, "")) return;
 			const guide = data[k];
 			guide.color = color;
 			if (/\bpt1/.test(k)) guide.author.name = name;
@@ -80,8 +82,11 @@ exports.run = async (client, message, args, level) => {
 			if (guide.timestamp) guide.timestamp = new Date();
 			message.channel.send("", {embed: guide});
 			pt = "true";
+			prev = k.replace(/ \bpt\d/, "");
 		}
 	});
+
+	if (pt == "true") return;
 
 	if (rtnArr.length == 0 && pt == "false") {
 		return message.channel.send(`No results found for **${args.join(" ")}**.`);
