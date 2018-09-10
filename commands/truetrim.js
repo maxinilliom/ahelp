@@ -124,9 +124,11 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 		return;
 	}
 
+	let prev = undefined;
 	keyList.forEach(k => {
 		if (RegExp(achName).test(k) && !/\bpt\d/.test(k) && !rtnArr.includes(k)) rtnArr.push(k);
 		if (RegExp(achName).test(k) && /\bpt\d/.test(k)) {
+			if (prev && prev !== k.replace(/ \bpt\d/, "")) return;
 			const guide = data[k];
 			guide.color = color;
 			if (/\bpt1/.test(k)) guide.author.name = name;
@@ -134,8 +136,11 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 			if (guide.timestamp) guide.timestamp = new Date();
 			message.channel.send("", {embed: guide});
 			pt = "true";
+			prev = k.replace(/ \bpt\d/, "");
 		}
 	});
+
+	if (pt == "true") return;
 
 	if (rtnArr.length == 0 && pt == "false") {
 		return message.channel.send(`No results found for **${args.join(" ")}**.`);
@@ -148,10 +153,15 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 		message.channel.send("", {embed: guide});
 	} else if (rtnArr.length > 1) {
 		let output = "";
+		let second = "";
 		let i = 1;
 		const searchEmbed = data["search"];
 		rtnArr.forEach(n => {
-			output += `${i}: ${data[rtnArr[i-1]].title}\n`;
+			if (output.length <= 2000) {
+				output += `${i}: ${data[rtnArr[i-1]].embed.title}\n`;
+			} else if (second.length <= 2000) {
+				second += `${i}: ${data[rtnArr[i-1]].embed.title}\n`;
+			}
 			i++;
 		});
 		searchEmbed.title = "All True Trimmed guides matching your search";
@@ -160,7 +170,14 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 		searchEmbed.color = color;
 		searchEmbed.footer = footer;
 		searchEmbed.timestamp = new Date();
-		message.channel.send("", {embed: searchEmbed});
+		await message.channel.send("", {embed: searchEmbed});
+
+		if (second.length > 0) {
+			searchEmbed.description = second;
+			searchEmbed.timestamp = new Date();
+			await message.channel.send("", {embed: searchEmbed});
+		}
+
 		const response = await client.awaitReply(message, "Which were you searching for? Please enter the corresponding number.");
 		if (isNaN(response) || response > rtnArr.length || response < 1) return message.channel.send("Invalid number specified, search cancelled.");
 		const choice = data[rtnArr[response-1]];

@@ -92,17 +92,22 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 		return;
 	}
 
+	let prev = undefined;
 	keyList.forEach(k => {
 		if (RegExp(achName).test(k) && !/\bpt\d/.test(k) && !rtnArr.includes(k)) rtnArr.push(k);
 		if (RegExp(achName).test(k) && /\bpt\d/.test(k)) {
+			if (prev && prev !== k.replace(/ \bpt\d/, "")) return;
 			const guide = data[k].embed;
 			guide.color = color;
 			if (/\bpt1/.test(k)) guide.author.name = name;
 			if (guide.timestamp) guide.timestamp = new Date();
 			message.channel.send("", {embed: guide});
 			pt = "true";
+			prev = k.replace(/ \bpt\d/, "");
 		}
 	});
+
+	if (pt == "true") return;
 
 	if (rtnArr.length == 0 && pt == "false") {
 		return message.channel.send(`No results found for **${args.join(" ")}**.`);
@@ -118,7 +123,11 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 		let i = 1;
 		const searchEmbed = data["search"].embed;
 		rtnArr.forEach(n => {
-			output += `${i}: ${data[rtnArr[i-1]].embed.title}\n`;
+			if (output.length <= 2000) {
+				output += `${i}: ${data[rtnArr[i-1]].embed.title}\n`;
+			} else if (second.length <= 2000) {
+				second += `${i}: ${data[rtnArr[i-1]].embed.title}\n`;
+			}
 			i++;
 		});
 		searchEmbed.title = "All Trimmed Completionist Cape achievement guides matching your search";
