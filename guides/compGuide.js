@@ -1904,9 +1904,7 @@ exports.data = {
 			}
 		}
 	},
-	"champions, what champions?": {
-		"cmds": ["trim"],
-		"embed": {
+	"champions, what champions? pt1": {
             "title": "Champions, What Champions?",
             "author": {
                 "name": "Cape Info",
@@ -1940,8 +1938,12 @@ exports.data = {
                 {
                     "name": "​",
                     "value": "[Giant Champion's scroll](https://runescape.wikia.com/wiki/Giant_Champion%27s_scroll)\n\t• **Monster:** [Hill giant](https://runescape.wikia.com/wiki/Hill_giant)\n\t• **Location(s):** Edgeville Dungeon, the area south west of the [Tree Gnome Stronghold](https://runescape.wikia.com/wiki/Tree_Gnome_Stronghold), and inside the resource dungeon in Edgeville Dungeon (requires 20 Dungeoneering)."
-                },
-                {
+                }
+            ]
+    },
+	"champions, what champions? pt2": {
+      "fields": [
+        {
                     "name": "​",
                     "value": "[Ghoul Champion's scroll](https://runescape.wikia.com/wiki/Ghoul_Champion%27s_scroll)\n\t• **Monster:** [Ghoul](https://runescape.wikia.com/wiki/Ghoul)\n\t• **Location(s):** South-east of the [Slayer Tower](https://runescape.wikia.com/wiki/Slayer_Tower) in [Morytania](https://runescape.wikia.com/wiki/Morytania), North of the [Canifis](https://runescape.wikia.com/wiki/Canifis) [Lodestone](https://runescape.wikia.com/wiki/Lodestone_Network)."
                 },
@@ -1988,10 +1990,9 @@ exports.data = {
             ],
             "footer": {
                 "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-                "text": "Runescore awarded: 75"
+                "text": "Runescore awarded: 5-50"
             }
-        }
-	},
+        },
 	"chilling with arrav": {
 		"cmds": ["mqc"],
 		"embed": {
