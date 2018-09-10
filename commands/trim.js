@@ -95,7 +95,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 	keyList.forEach(k => {
 		if (RegExp(achName).test(k) && !/\bpt\d/.test(k) && !rtnArr.includes(k)) rtnArr.push(k);
 		if (RegExp(achName).test(k) && /\bpt\d/.test(k)) {
-			const guide = data[k];
+			const guide = data[k].embed;
 			guide.color = color;
 			if (/\bpt1/.test(k)) guide.author.name = name;
 			if (guide.timestamp) guide.timestamp = new Date();
