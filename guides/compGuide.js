@@ -7235,7 +7235,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Reaper Crew](http://runescape.wikia.com/wiki/Reaper_Crew) is an achievement that requires the player to obtain the title `[Name] the Reaper title` by defeating every [boss](https://runescape.wikia.com/wiki/Boss) at least once. This does not include [hard mode/challenge mode](https://runescape.wikia.com/wiki/Hard_mode) variants.\n\nIf you need help with a certain group boss, you may make a post in the <#436714722847621120> channel, filling out the pinned form. Alternatively, check the <#441624301616234496> channel for invite links to Discord servers that we're partnered with to assist with bossing needs.",
+			"description": "[Reaper Crew](http://runescape.wikia.com/wiki/Reaper_Crew) is an achievement that requires the player to obtain the title [Name] **the Reaper** by defeating every [boss](https://runescape.wikia.com/wiki/Boss) at least once. This does not include [hard mode/challenge mode](https://runescape.wikia.com/wiki/Hard_mode) variants.\n\nIf you need help with a certain group boss, you may make a post in the <#436714722847621120> channel, filling out the pinned form. Alternatively, check the <#441624301616234496> channel for invite links to Discord servers that we're partnered with to assist with bossing needs.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
