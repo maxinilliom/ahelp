@@ -19,6 +19,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 	const achName = args.join(" ").toLowerCase();
 	const keyList = [];
 	const rtnArr = [];
+	let pt = "false";
 	const name = "True Trimmed Info";
 	const color = 10257648;
 	const footer = {
