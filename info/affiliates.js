@@ -968,7 +968,7 @@ exports.data = {
   "soc": {
     "Alright": {
     "title": "Alright",
-    "description":"Achievement Help's officially recognized clan. Whether you join or guest, hope to see you there! The clan hosts dually held events with Achievement Help, as well as additional weekly Monday Skill and Chills, Friday AoD masses, Saturday Penguins, and Bi-daily Raids. Furthermore, the clan hosts additional events such as Karaoke night, Pvming events, Minigame events, and Clue Competitions! All our events are open to both clan members and guests!",
+    "description":"Achievement Help's officially recognized clan. Whether you join or guest, hope to see you there! The clan hosts dually held events with Achievement Help, as well as additional weekly Monday Skill and Chills, Friday AoD masses, Saturday Penguins, and Bi-daily Raids. Furthermore, the clan hosts additional events such as Karaoke night, Pvming events, Minigame events, and Clue Competitions! All our events are open to both clan members and guests.\n\nThis is the clan responsible in part of the creation and hosting of all Achievement Help events, so expect to see some fammiliar faces!",
     "thumbnail": {
       "url": "https://cdn.discordapp.com/icons/485523397179342848/77e1d6cef26416a63c4630488d7bf2fb.webp"
     },
