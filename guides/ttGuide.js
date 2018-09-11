@@ -2688,7 +2688,7 @@ exports.data = {
     },
     "fields": [{
         "name": "Tips:",
-        "value": "The player may choose to self-assign the <@&489201079460954127> role in the <#465998663710146579> channel. This role is notified in the server when someone encounters an Elite rune dragon and chooses not to kill it themselves."
+        "value": "The player may choose to self-assign the <@&426195054827274240> role in the <#465998663710146579> channel. This role is notified in the server when someone encounters an Elite rune dragon and chooses not to kill it themselves."
       },
       {
         "name": "Requirements:",
@@ -3351,7 +3351,7 @@ exports.data = {
       },
       {
         "name": "Tips:",
-        "value": "If the player has an Edimmu slayer task and only wants to kill Elite Edimmu, they can choose to self-assign the <@&489200979028475904> role in the <#465998663710146579> channel. This way, when another player comes across an Elite Edimmu and decides not to kill it themselves, they can notify players with this role that there is an Elite spawn.\n\nA player may also choose to place the edimmus in their [Player-owned Slayer dungeon](https://runescape.wikia.com/wiki/Sunken_Pyramid#Slayer_Dungeon) or use someone else's player-owned slayer dungeon. They may join the **Slayer Dungs** friend's chat or their [Discord server](https://discord.gg/4ksg37t) to see if someone has Edimmus in their dungeon as well."
+        "value": "If the player has an Edimmu slayer task and only wants to kill Elite Edimmu, they can choose to self-assign the <@&426195111148388372> role in the <#465998663710146579> channel. This way, when another player comes across an Elite Edimmu and decides not to kill it themselves, they can notify players with this role that there is an Elite spawn.\n\nA player may also choose to place the edimmus in their [Player-owned Slayer dungeon](https://runescape.wikia.com/wiki/Sunken_Pyramid#Slayer_Dungeon) or use someone else's player-owned slayer dungeon. They may join the **Slayer Dungs** friend's chat or their [Discord server](https://discord.gg/4ksg37t) to see if someone has Edimmus in their dungeon as well."
       },
       {
         "name": "Guide:",
@@ -3381,7 +3381,7 @@ exports.data = {
     },
     {
         "name": "Tips:",
-        "value": "There are no skill level requirements for a player to receive an effigy from a monster drop. The effigies are a rare drop, and are dropped by many low-level and high-level monsters alike. It has been confirmed that the [ring of wealth](https://runescape.wikia.com/wiki/Ring_of_wealth) does not affect the drop rate, but killing a higher level monster will give a greater chance of receiving an effigy. Each effigy a player owns reduces the drop chance by around 20%, until five are owned, after which no more effigies can be obtained as a drop, but you are still able to get them from the [Motherlode Maw](https://runescape.wikia.com/wiki/Motherlode_Maw).\n\nPlayers may sign up for the <@&489201691938258955> role in the <#465998663710146579> channel of this discord to be notified when these items are in the [Travelling Merchant's Shop](https://runescape.wikia.com/wiki/Travelling_Merchant%27s_Shop)."
+        "value": "There are no skill level requirements for a player to receive an effigy from a monster drop. The effigies are a rare drop, and are dropped by many low-level and high-level monsters alike. It has been confirmed that the [ring of wealth](https://runescape.wikia.com/wiki/Ring_of_wealth) does not affect the drop rate, but killing a higher level monster will give a greater chance of receiving an effigy. Each effigy a player owns reduces the drop chance by around 20%, until five are owned, after which no more effigies can be obtained as a drop, but you are still able to get them from the [Motherlode Maw](https://runescape.wikia.com/wiki/Motherlode_Maw).\n\nPlayers may sign up for the <@&443794570791223317> role in the <#465998663710146579> channel of this discord to be notified when these items are in the [Travelling Merchant's Shop](https://runescape.wikia.com/wiki/Travelling_Merchant%27s_Shop)."
       }],
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
@@ -3402,7 +3402,7 @@ exports.data = {
     },
     "fields": [{
       "name": "Tips:",
-      "value": "The player may choose to self-assign the <@&489199950538866690> role in the <#465998663710146579> channel. This role allows the player to get a notification if someone else runs into a wild Krar Jnr and already owns the pet themselves or doesn't own one and wants to sell it.\n\nIf the player decides to hunt for the pet themself, it is highly recommended to bring items they can fletch, such as [broad arrows](https://runescape.wikia.com/wiki/Broad_arrow#Making_broad_arrows), or [disassemble](https://runescape.wikia.com/wiki/Disassemble) to pass the time, as the spawn rate can be rare. It is also highly recommended to make sure there is as few NPCs in the forest as possible, due to an NPC limit within the forest."
+      "value": "The player may choose to self-assign the <@&420028242401951744> role in the <#465998663710146579> channel. This role allows the player to get a notification if someone else runs into a wild Krar Jnr and already owns the pet themselves or doesn't own one and wants to sell it.\n\nIf the player decides to hunt for the pet themself, it is highly recommended to bring items they can fletch, such as [broad arrows](https://runescape.wikia.com/wiki/Broad_arrow#Making_broad_arrows), or [disassemble](https://runescape.wikia.com/wiki/Disassemble) to pass the time, as the spawn rate can be rare. It is also highly recommended to make sure there is as few NPCs in the forest as possible, due to an NPC limit within the forest."
     }],
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
