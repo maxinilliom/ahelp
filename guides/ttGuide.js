@@ -36,7 +36,7 @@ exports.data = {
     },
     "fields": [{
         "name": "Tips:",
-        "value": "Players can save a total of 10,500 reward currency by unlocking Sacrifice, Devotion and Transfigure as drops from either [General Graardor](http://runescape.wikia.com/wiki/General_Graardor) or [Kree'arra](http://runescape.wikia.com/wiki/Kree'arra), their bodygaurds, or the minion located within [Bandos' Stronghold](https://runescape.wikia.com/wiki/God_Wars_Dungeon#Bandos.27_Stronghold) or [Armadyl's Eyrie](https://runescape.wikia.com/wiki/God_Wars_Dungeon#Armadyl.27s_Eyrie).\n\nDeaths during the minigame are safe, and Ironman accounts can participate in all content and have access to all rewards."
+        "value": "Players can save a total of 10,500 reward currency by unlocking Sacrifice, Devotion and Transfigure as drops from either [General Graardor](http://runescape.wikia.com/wiki/General_Graardor) or [Kree'arra](http://runescape.wikia.com/wiki/Kree'arra), their bodygaurds, or the minion located within [Bandos' Stronghold](https://runescape.wikia.com/wiki/God_Wars_Dungeon#Bandos.27_Stronghold) or [Armadyl's Eyrie](https://runescape.wikia.com/wiki/God_Wars_Dungeon#Armadyl.27s_Eyrie).\n\nDeaths during the minigame are safe, and [Ironman](https://runescape.wikia.com/wiki/Ironman_Mode) accounts can participate in all content and have access to all rewards."
       },
       {
         "name": "Guide:",
@@ -80,7 +80,7 @@ exports.data = {
       "name": "True Trimmed Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Demon Flash Mob Rewards](https://runescape.wikia.com/wiki/Demon_Flash_Mob#Titles) are rewards that can be obtained by defeating the [Demon bosses](https://runescape.wikia.com/wiki/Demon_boss) during the [Demon Flash Mob](https://runescape.wikia.com/wiki/Demon_Flash_Mob) [Distractions and Diversions](https://runescape.wikia.com/wiki/Distractions_and_Diversions). The following rewards are considered permanent rewards:\n\n• The [Demonic title scroll (blazing)](https://runescape.wikia.com/wiki/Demonic_title_scroll_(blazing%29)\n• The [Demonic title scroll (castellan)](https://runescape.wikia.com/wiki/Demonic_title_scroll_(castellan%29)\n• The [Demonic title scroll (corrupting)](https://runescape.wikia.com/wiki/Demonic_title_scroll_(corrupting%29)\n• The [Demonic title scroll (deacon)](https://runescape.wikia.com/wiki/Demonic_title_scroll_(deacon%29)\n• The [Demonic title scroll (executioner)](https://runescape.wikia.com/wiki/Demonic_title_scroll_(executioner%29)\n• The [Demonic title scroll (frostborn)](https://runescape.wikia.com/wiki/Demonic_title_scroll_(frostborn%29)\n• The [Demonic title scroll (general)](https://runescape.wikia.com/wiki/Demonic_title_scroll_(general%29)\n• The [Demonic title scroll (glorious)](https://runescape.wikia.com/wiki/Demonic_title_scroll_(glorious%29)\n• The [Demonic title scroll (infernal)](https://runescape.wikia.com/wiki/Demonic_title_scroll_(infernal%29)\n• The [Demonic title scroll (obscured)](https://runescape.wikia.com/wiki/Demonic_title_scroll_(obscured%29)\n• The [Demonic title scroll (pestilent)](https://runescape.wikia.com/wiki/Demonic_title_scroll_(pestilent%29)\n• The [Demonic title scroll (rending)](https://runescape.wikia.com/wiki/Demonic_title_scroll_(rending%29)\n• The [Demonic title scroll (shattering)](https://runescape.wikia.com/wiki/Demonic_title_scroll_(shattering%29)\n• The [Demonic title scroll (terrifying)](https://runescape.wikia.com/wiki/Demonic_title_scroll_(terrifying%29)\n\nUsing these scrolls will unlock the corresponding titles.",
+    "description": "[Demon Flash Mob Rewards](https://runescape.wikia.com/wiki/Demon_Flash_Mob#Titles) are rewards that can be obtained by defeating the [Demon bosses](https://runescape.wikia.com/wiki/Demon_boss) during the [Demon Flash Mob](https://runescape.wikia.com/wiki/Demon_Flash_Mob) [Distractions and Diversions](https://runescape.wikia.com/wiki/Distractions_and_Diversions). The following rewards are considered permanent rewards:\n\n• The [Demonic title scroll (blazing)](https://runescape.wikia.com/wiki/Demonic_title_scroll_(blazing%29)\n• The [Demonic title scroll (castellan)](https://runescape.wikia.com/wiki/Demonic_title_scroll_(castellan%29)\n• The [Demonic title scroll (corrupting)](https://runescape.wikia.com/wiki/Demonic_title_scroll_(corrupting%29)\n• The [Demonic title scroll (deacon)](https://runescape.wikia.com/wiki/Demonic_title_scroll_(deacon%29)\n• The [Demonic title scroll (executioner)](https://runescape.wikia.com/wiki/Demonic_title_scroll_(executioner%29)\n• The [Demonic title scroll (frostborn)](https://runescape.wikia.com/wiki/Demonic_title_scroll_(frostborn%29)\n• The [Demonic title scroll (general)](https://runescape.wikia.com/wiki/Demonic_title_scroll_(general%29)\n• The [Demonic title scroll (glorious)](https://runescape.wikia.com/wiki/Demonic_title_scroll_(glorious%29)\n• The [Demonic title scroll (infernal)](https://runescape.wikia.com/wiki/Demonic_title_scroll_(infernal%29)\n• The [Demonic title scroll (obscured)](https://runescape.wikia.com/wiki/Demonic_title_scroll_(obscured%29)\n• The [Demonic title scroll (pestilent)](https://runescape.wikia.com/wiki/Demonic_title_scroll_(pestilent%29)\n• The [Demonic title scroll (rending)](https://runescape.wikia.com/wiki/Demonic_title_scroll_(rending%29)\n• The [Demonic title scroll (shattering)](https://runescape.wikia.com/wiki/Demonic_title_scroll_(shattering%29)\n• The [Demonic title scroll (terrifying)](https://runescape.wikia.com/wiki/Demonic_title_scroll_(terrifying%29)\n\nUsing these scrolls above will unlock the corresponding titles.",
     "color": 10257648,
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/9/94/Demonic_title_scroll_detail.png/revision/latest?cb=20150327202849"
@@ -110,7 +110,7 @@ exports.data = {
       "name": "True Trimmed Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Familiarisation Rewards](https://runescape.wikia.com/wiki/Familiarisation#Rewards) are rewards that can be obtained by completing the weekly [Familiarisation](https://runescape.wikia.com/wiki/Familiarisation#Rewards) [Distractions and Diversions](https://runescape.wikia.com/wiki/Distractions_and_Diversions) which requires the player to to find the one currently active small Summoning obelisk and mentally project themselves into the spirit plane. The only reward that is considered a permanent reward is unlocking the [Shaman's outfit](https://runescape.wikia.com/wiki/Shaman%27s_outfit), which is a 100% chance reward from choosing the [Box of summoning ingredients](https://runescape.wikia.com/wiki/Box_of_summoning_ingredients) reward.",
+    "description": "[Familiarisation Rewards](https://runescape.wikia.com/wiki/Familiarisation#Rewards) are rewards that can be obtained by completing the weekly [Familiarisation](https://runescape.wikia.com/wiki/Familiarisation#Rewards) [Distractions and Diversions](https://runescape.wikia.com/wiki/Distractions_and_Diversions), which requires the player to to find the one currently active small [Summoning obelisk](https://runescape.wikia.com/wiki/Summoning_obelisk) and mentally project themselves into the spirit plane.\n\nThe only reward that is considered a permanent reward is unlocking the [Shaman's outfit](https://runescape.wikia.com/wiki/Shaman%27s_outfit), which is a 100% chance reward from choosing the [Box of summoning ingredients](https://runescape.wikia.com/wiki/Box_of_summoning_ingredients) reward.",
     "color": 10257648,
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e1/Shaman%27s_poncho_detail.png/revision/latest?cb=20180625134058"
@@ -131,7 +131,7 @@ exports.data = {
       "name": "True Trimmed Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Fish Flingers Rewards](https://runescape.wikia.com/wiki/Fish_Flingers#Rewards) are rewards that can be unlocked by playing the [Fish Flingers](https://runescape.wikia.com/wiki/Fish_Flingers) [Distraction and Diversion](https://runescape.wikia.com/wiki/Distraction_and_Diversion). The only permanent reward from Fish Flingers is the [fishing outfit](https://runescape.wikia.com/wiki/Fishing_outfit).\n\nThe fishing outfit can be bought for a total of 560 [Fish Flinger tokens](https://runescape.wikia.com/wiki/Fish_Flingers#Tokens), or 140 tokens per piece. Once bought more of the same pieces can be obtained for free.",
+    "description": "[Fish Flingers Rewards](https://runescape.wikia.com/wiki/Fish_Flingers#Rewards) are rewards that can be unlocked by playing the [Fish Flingers](https://runescape.wikia.com/wiki/Fish_Flingers) [Distraction and Diversion](https://runescape.wikia.com/wiki/Distraction_and_Diversion). The only permanent reward from Fish Flingers is the [fishing outfit](https://runescape.wikia.com/wiki/Fishing_outfit).\n\nFish Flingers takes place on [Isla Anglerine](https://runescape.wikia.com/wiki/Isla_Anglerine), which can be gotten to by talking to a [Fisherman](https://runescape.wikia.com/wiki/Fisherman_(Fish_Flingers). You can enter a competition by talking to a Fisherman every 20 minutes, the fisherman will offer to teleport you to the Isla Anglerine from 5 minutes before the start of a competition. Games will last 10 minutes, with a time of 10 minutes between each game. They can be found all over Gielinor next to the [yellow quest icon](https://vignette.wikia.nocookie.net/runescape2/images/0/07/D%26D_map_icon.png/revision/latest?cb=20160223204246) next to fishing spots.\n\n Players should utilize **FishFlingers** friend's chat to complete this requirement. Players will want to be in there during reset if they can, otherwise it’s a rather inactive minigame.\n\nYou can stock up to 15 [tickets](https://runescape.wikia.com/wiki/Fish_Flingers#Entry_tickets) total by talking to the fish master at any fishing location. You can get more tickets from fishing, but it’s slow and isn’t worth doing unless it’s your last requirement.\n\nThe fishing outfit can be bought for a total of 560 [Fish Flinger tokens](https://runescape.wikia.com/wiki/Fish_Flingers#Tokens), or 140 tokens per piece. Once bought more of the same pieces can be obtained for free.",
     "color": 10257648,
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/9/93/Fishing_jacket_detail.png/revision/latest?cb=20170121050609&format=original"
@@ -161,14 +161,14 @@ exports.data = {
       "name": "True Trimmed Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Giant Mimic Rewards](https://runescape.wikia.com/wiki/Giant_Mimic#Rewards) are rewards that can be obtained by defeating the [Giant Mimic](https://runescape.wikia.com/wiki/Giant_Mimic) [Distractions and Diversions](https://runescape.wikia.com/wiki/Distractions_and_Diversions). The following rewards are considered permanent rewards:\n\n• The [Mimic](https://runescape.wikia.com/wiki/Mimic) pet\n• The [Shard of suffering weapon token](https://runescape.wikia.com/wiki/Shard_of_suffering_weapon_token) override\n• The [Shard of chaos weapon token](https://runescape.wikia.com/wiki/Shard_of_chaos_weapon_token) override\n• The [Shard of despite weapon token](https://runescape.wikia.com/wiki/Shard_of_despite_weapon_token) override\n• The [Shard of energy weapon token](https://runescape.wikia.com/wiki/Shard_of_energy_weapon_token) override\n• The [Shard of havoc weapon token](https://runescape.wikia.com/wiki/Shard_of_havoc_weapon_token) override\n• The [Shard of malice weapon token](https://runescape.wikia.com/wiki/Shard_of_malice_weapon_token) override\n\nTo be able to fight the Giant Mimic, the player will need a [Mimic kill token](https://runescape.wikia.com/wiki/Mimic_kill_token). The tokens can be obtained through any skilling activity or from any drop while killing creatures. They can also be bought from the [Grand Exchange](https://runescape.wikia.com/wiki/Grand_Exchange).\n\nWhile the pet can be obtained from any [difficulty](https://runescape.wikia.com/wiki/Giant_Mimic#The_fight), the override tokens can only be obtained from either the hard or the elite difficulty.",
+    "description": "[Giant Mimic Rewards](https://runescape.wikia.com/wiki/Giant_Mimic#Rewards) are rewards that can be obtained by defeating the [Giant Mimic](https://runescape.wikia.com/wiki/Giant_Mimic) [Distractions and Diversions](https://runescape.wikia.com/wiki/Distractions_and_Diversions) in [Alice's Treasure Chamber](https://runescape.wikia.com/wiki/Alice%27s_Treasure_Chamber). The following rewards are considered permanent rewards:\n\n• The [Mimic](https://runescape.wikia.com/wiki/Mimic) pet\n• The [Shard of suffering weapon token](https://runescape.wikia.com/wiki/Shard_of_suffering_weapon_token) override\n• The [Shard of chaos weapon token](https://runescape.wikia.com/wiki/Shard_of_chaos_weapon_token) override\n• The [Shard of despite weapon token](https://runescape.wikia.com/wiki/Shard_of_despite_weapon_token) override\n• The [Shard of energy weapon token](https://runescape.wikia.com/wiki/Shard_of_energy_weapon_token) override\n• The [Shard of havoc weapon token](https://runescape.wikia.com/wiki/Shard_of_havoc_weapon_token) override\n• The [Shard of malice weapon token](https://runescape.wikia.com/wiki/Shard_of_malice_weapon_token) override\n\nTo be able to fight the Giant Mimic, the player will need a [Mimic kill token](https://runescape.wikia.com/wiki/Mimic_kill_token). The tokens can be obtained through any skilling activity or from any drop while killing creatures. They can also be bought from the [Grand Exchange](https://runescape.wikia.com/wiki/Grand_Exchange).\n\nWhile the pet can be obtained from any [difficulty](https://runescape.wikia.com/wiki/Giant_Mimic#The_fight), the override tokens can only be obtained from either the hard or the elite difficulty.",
     "color": 10257648,
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/0/0b/Giant_Mimic.png/revision/latest?cb=20171026201028"
     },
     "fields": [{
       "name": "Guide:",
-      "value": "[Giant Mimic Guide - Runescape 3 | Trissle - Youtube](https://www.youtube.com/watch?v=wv5ecF-R300)"
+      "value": "• [Giant Mimic Guide - Runescape 3 | Trissle - Youtube](https://www.youtube.com/watch?v=wv5ecF-R300)"
     }],
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
@@ -188,6 +188,10 @@ exports.data = {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/d/d6/Sculpting_chisel_(Guthix%29_detail.png/revision/latest?cb=20130412142412&format=original"
     },
     "fields": [{
+        "name": "Proper god Statue:",
+        "value": "**Statue:**"
+      },
+      {
         "name": "Requirements:",
         "value": "• Plague's End Quest completion | [Runescape Wiki](https://runescape.wikia.com/wiki/Plague%27s_End)"
       },
@@ -208,14 +212,14 @@ exports.data = {
       "name": "True Trimmed Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Guthixian Cache Rewards](https://runescape.wikia.com/wiki/Guthixian_Cache#Rewards) are rewards that can be obtained by completing the [Guthixian Cache](https://runescape.wikia.com/wiki/Guthixian_Cache) [Distractions and Diversions](https://runescape.wikia.com/wiki/Distractions_and_Diversions) which requires the player to hop into an [energy rift](https://runescape.wikia.com/wiki/Energy_rift), found at any of the wisp colonies (except the [pale wisp](https://runescape.wikia.com/wiki/Pale_wisp) and [cursed wisp](https://runescape.wikia.com/wiki/Cursed_wisp) colonies) it appear for 10 minutes every hour. Players can also enter the caches at [The Archivist](https://runescape.wikia.com/wiki/The_Archivist) in the [Hall of Memories](https://runescape.wikia.com/wiki/Hall_of_Memories). The only reward that is considered a permanent reward is unlocking the [Diviner's outfit](https://runescape.wikia.com/wiki/Diviner%27s_outfit).\n\nOutfit pieces can only be obtained if the player receives experience from the guthixian cache.",
+    "description": "[Guthixian Cache Rewards](https://runescape.wikia.com/wiki/Guthixian_Cache#Rewards) are rewards that can be obtained by completing the [Guthixian Cache](https://runescape.wikia.com/wiki/Guthixian_Cache) [Distractions and Diversions](https://runescape.wikia.com/wiki/Distractions_and_Diversions), which requires the player to hop into an [energy rift](https://runescape.wikia.com/wiki/Energy_rift). Energy rifts are found at any of the [wisp](https://runescape.wikia.com/wiki/Wisp) colonies (except the [pale wisp](https://runescape.wikia.com/wiki/Pale_wisp) and [cursed wisp](https://runescape.wikia.com/wiki/Cursed_wisp) colonies). It appears for 10 minutes every hour. Players can also enter the caches at [The Archivist](https://runescape.wikia.com/wiki/The_Archivist) in the [Hall of Memories](https://runescape.wikia.com/wiki/Hall_of_Memories).\n\nThe only reward that is considered a permanent reward is unlocking the [Diviner's outfit](https://runescape.wikia.com/wiki/Diviner%27s_outfit).\n\nOutfit pieces can only be obtained if the player receives experience from the guthixian cache.",
     "color": 10257648,
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/d/dc/Diviner%27s_outfit_equipped.png/revision/latest?cb=20131101012954"
     },
     "fields": [{
       "name": "Guide:",
-      "value": "[Guthixian Cache Guide - Easy Divination Xp! | Maikeru RS - Youtube](https://www.youtube.com/watch?v=Ktun5Jkr4kE)"
+      "value": "• [Guthixian Cache Guide - Easy Divination Xp! | Maikeru RS - Youtube](https://www.youtube.com/watch?v=Ktun5Jkr4kE)"
     }],
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
@@ -229,7 +233,7 @@ exports.data = {
       "name": "True Trimmed Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Memory of Nomad Rewards](https://runescape.wikia.com/wiki/Memory_of_Nomad#Rewards) are rewards that can be obtained from defeating the [Memory of Nomad](https://runescape.wikia.com/wiki/Memory_of_Nomad) [Distractions and Diversions](https://runescape.wikia.com/wiki/Distractions_and_Diversions). The only permanent reward is the [Ravensworn cape](https://runescape.wikia.com/wiki/Ravensworn_cape) override, which is rewarded upon defeating the Memory of Nomad while having the [the Ravensworn](https://runescape.wikia.com/wiki/The_Ravensworn) title unlocked.",
+    "description": "[Memory of Nomad Rewards](https://runescape.wikia.com/wiki/Memory_of_Nomad#Rewards) are rewards that can be obtained from defeating the [Memory of Nomad](https://runescape.wikia.com/wiki/Memory_of_Nomad) [Distractions and Diversions](https://runescape.wikia.com/wiki/Distractions_and_Diversions).\n\nIf you struggle with this fight, it is advised to bring a [Pack Mammoth](https://runescape.wikia.com/wiki/Pack_mammoth) and [Mammoth feast scrolls](https://runescape.wikia.com/wiki/Mammoth_feast_scroll) for eating, as this uses no [adreniline](https://runescape.wikia.com/wiki/Adrenaline) and consequently allows more damage per second. Also, remember to utilize [Devotion](https://runescape.wikia.com/wiki/Devotion), [Barricade](https://runescape.wikia.com/wiki/Barricade), and [Debilitate](https://runescape.wikia.com/wiki/Debilitate) [defensive](https://runescape.wikia.com/wiki/Abilities#Defence) [abilities](https://runescape.wikia.com/wiki/Abilities). [Deflect curses](https://runescape.wikia.com/wiki/Deflect_Curses) being kept up on last phase is of dire importance.\n\nThe Memory of Nomad is essentially a hard mode version of the fight in [Nomad's Elegy](https://runescape.wikia.com/wiki/Nomad%27s_Elegy). Most of the mechanics are the same as in the normal fight but there are a few additional mechanics, especially in the final phase. There are also no checkpoints, so all four phases must be completed in one go.\n\nThe only permanent reward is the [Ravensworn cape](https://runescape.wikia.com/wiki/Ravensworn_cape) override, which is rewarded upon defeating the Memory of Nomad while having the [the Ravensworn](https://runescape.wikia.com/wiki/The_Ravensworn) title unlocked.",
     "color": 10257648,
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/e/ea/Ravensworn_cape_equipped.png/revision/20180727130553"
@@ -300,7 +304,7 @@ exports.data = {
     },
     "fields": [{
         "name": "Tips:",
-        "value": "Both rewards can only be rewarded when the player uses a [preening ibis card](http://runescape.wikia.com/wiki/Preening_ibis_card) at the end of a sinkhole. There is no real strategy to obtain the Preening Ibis card, as this is completely random obtained from gathering resources, killing creatures or opening chests around the sinkhole.\n\nBe aware that another player can also steal your chest containing the outfit. Therefore the top player has the best chance on unlocking these rewards if they have a Preening Ibis card."
+        "value": "Both rewards can only be rewarded when the player uses a [preening ibis card](http://runescape.wikia.com/wiki/Preening_ibis_card) at the end of a sinkhole. There is no real strategy to obtain the Preening Ibis card, as this is completely random obtained from gathering resources, killing creatures, or opening chests around the sinkhole.\n\nBe aware that another player can also steal your chest containing the outfit. Therefore the top player has the best chance on unlocking these rewards if they have a Preening Ibis card."
       },
       {
         "name": "Guide:",
@@ -319,14 +323,14 @@ exports.data = {
       "name": "True Trimmed Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[The Pit Rewards](https://runescape.wikia.com/wiki/The_Pit#Rewards) are rewards that can be obtained by completing the [The Pit](https://runescape.wikia.com/wiki/The_Pit) [Distractions and Diversions](https://runescape.wikia.com/wiki/Distractions_and_Diversions). The following rewards are considered permanent rewards:\n\n• The [Gorilla mask](https://runescape.wikia.com/wiki/Gorilla_mask)\n• The [Nimble outfit](https://runescape.wikia.com/wiki/Nimble_outfit)\n\nThe gorilla mask is unlocked after the first succesfull run of the Pit, the Nimble outfit on the other hand can be recieved even if the player fails the run.",
+    "description": "[The Pit Rewards](https://runescape.wikia.com/wiki/The_Pit#Rewards) are rewards that can be obtained by completing the [The Pit](https://runescape.wikia.com/wiki/The_Pit) [Distractions and Diversions](https://runescape.wikia.com/wiki/Distractions_and_Diversions). The following rewards are considered permanent rewards:\n\n• The [Gorilla mask](https://runescape.wikia.com/wiki/Gorilla_mask)\n• The [Nimble outfit](https://runescape.wikia.com/wiki/Nimble_outfit)\n\nThe gorilla mask is unlocked after the first succesfull run of the Pit, the Nimble outfit on the other hand can be recieved even if the player fails the run.\n\nBy completing a lap on an agility course, players may attract the attention of a [talent scout](https://runescape.wikia.com/wiki/Talent_scout). It does not matter if obstacles are failed; there is always a chance to be attracted after completing a full lap. If a greenish arrow is flashing above the scout's head, talk to him to be offered the chance to go to The Pit. There will also be a coloured chatbox message when he is interested. If he is not spoken to within a minute or so, he will lose interest, and the opportunity will be missed. The attention of the talent scout can only be obtained once per hour. The chance to attract the talent scout is roughly one in 35 laps",
     "color": 10257648,
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e2/Gorilla_mask_detail.png/revision/latest?cb=20120227211318"
     },
     "fields": [{
       "name": "Guide:",
-      "value": "[Nimble Outfit FAST | Using Agility Skillcape | puretppc - Youtube](https://www.youtube.com/watch?v=vD2LvJJDKDE)"
+      "value": "• [Nimble Outfit FAST | Using Agility Skillcape | puretppc - Youtube](https://www.youtube.com/watch?v=vD2LvJJDKDE)"
     }],
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
@@ -340,14 +344,14 @@ exports.data = {
       "name": "True Trimmed Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Troll Invasion Rewards](https://runescape.wikia.com/wiki/Troll_Invasion#Rewards) are rewards that can be obtained by completing the [Troll Invasion](https://runescape.wikia.com/wiki/Troll_Invasion) [Distractions and Diversions](https://runescape.wikia.com/wiki/Distractions_and_Diversions). The only reward that is considered a permanent reward is unlocking [hard mode](https://runescape.wikia.com/wiki/Troll_Invasion#Gameplay) version. The hard mode or the 7-wave version can be unlocked by playing through the standard 20-wave version at least once.\n\nOnce the hard mode version is unlocked, the player is given a choice of facing the normal or hard version when starting the D&D again.",
+    "description": "[Troll Invasion Rewards](https://runescape.wikia.com/wiki/Troll_Invasion#Rewards) are rewards that can be obtained by completing the [Troll Invasion](https://runescape.wikia.com/wiki/Troll_Invasion) [Distractions and Diversions](https://runescape.wikia.com/wiki/Distractions_and_Diversions).\n\nTo begin, speak to [Captain Jute](https://runescape.wikia.com/wiki/Captain_Jute) outside the newly constructed gatehouse north of the [Warriors' Guild](https://runescape.wikia.com/wiki/Warriors%27_Guild) in [Burthorpe](https://runescape.wikia.com/wiki/Burthorpe).\n\nThe only reward that is considered a permanent reward is unlocking [hard mode](https://runescape.wikia.com/wiki/Troll_Invasion#Gameplay) version. The hard mode or the 7-wave version can be unlocked by playing through the standard 20-wave version at least once.\n\nOnce the hard mode version is unlocked, the player is given a choice of facing the normal or hard version when starting the D&D again.",
     "color": 10257648,
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/a/a0/Cliff.png/revision/latest?cb=20130409211351"
     },
     "fields": [{
       "name": "Guide:",
-      "value": "[Troll Invasion Guide - Free Monthly EXP! | GentleMen RS - Youtube](https://www.youtube.com/watch?v=tmSzmBnlc1I)"
+      "value": "• [Troll Invasion Guide - Free Monthly EXP! | GentleMen RS - Youtube](https://www.youtube.com/watch?v=tmSzmBnlc1I)"
     }],
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
@@ -368,11 +372,11 @@ exports.data = {
     },
     "fields": [{
         "name": "Getting there:",
-        "value": "Wisps of the Grove is located on The Lost Grove, an island west of [Tirannwn](https://runescape.wikia.com/wiki/Tirannwn). You can get there by inspecting the standstone south of the [poison waste](https://runescape.wikia.com/wiki/Poison_Waste). Using the [Fairy Ring code](https://runescape.wikia.com/wiki/Fairy_ring#Fairy_ring_codes) **b•k•p** and running west is the fastest way to get there. Once at The Lost Grove, The player may use 5 [bittercap mushrooms](https://runescape.wikia.com/wiki/Bittercap_mushroom) on the fairy ring on the island and use the code **b•j•s** to get there faster in the future."
+        "value": "Wisps of the Grove is located on The Lost Grove, an island west of [Tirannwn](https://runescape.wikia.com/wiki/Tirannwn). You can get there by inspecting the standstone south of the [poison waste](https://runescape.wikia.com/wiki/Poison_Waste). Using the [Fairy Ring code](https://runescape.wikia.com/wiki/Fairy_ring#Fairy_ring_codes) **b•k•p** and running west is the fastest way to get there. Once at The Lost Grove, the player may use 5 [bittercap mushrooms](https://runescape.wikia.com/wiki/Bittercap_mushroom) on the fairy ring on the island and use the code **b•j•s** to get there faster in the future."
       },
       {
         "name": "Tips:",
-        "value": "To start Wisps of the Grove, the player has to talk to [Teelee](https://runescape.wikia.com/wiki/Teelee) to obtain a [Wisp jar](https://runescape.wikia.com/wiki/Wisp_jar). This jar is used to collect the different coloured wisps you'll be needing. After obtaining the jar, the mushrooms around Teelee will change colour, and this will correspond to the different wisps you will have to collect.\n\nYou will then have to set off around the island to find the different wisps. They spawn anywhere on the island and randomly, so your best chance is to walk around the island looking carefully for the different wisps. These wisps do not show up as a yellow dot on the minimap. Once a wisp has been found, it can be collected by using the 'Tap' option on the Wisp jar when nearby the wisp."
+        "value": "To start Wisps of the Grove, the player has to talk to [Teelee](https://runescape.wikia.com/wiki/Teelee) to obtain a [Wisp jar](https://runescape.wikia.com/wiki/Wisp_jar). This jar is used to collect the different colored wisps you'll be needing. After obtaining the jar, the mushrooms around Teelee will change color, and this will correspond to the different wisps you will have to collect.\n\nYou will then have to set off around the island to find the different wisps. They spawn anywhere on the island and randomly, so your best chance is to walk around the island looking carefully for the different wisps. These wisps do not show up as a yellow dot on the minimap. Once a wisp has been found, it can be collected by using the 'Tap' option on the Wisp jar when nearby the wisp."
       },
       {
         "name": "Guide:",
@@ -391,14 +395,14 @@ exports.data = {
       "name": "True Trimmed Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Mobilising Armies unlocks](https://runescape.wikia.com/wiki/Mobilising_Armies#Game_types) can be unlocked by playing the [Mobilising Armies](https://runescape.wikia.com/wiki/Mobilising_Armies) minigame, which is located west of [Oo'glog](https://runescape.wikia.com/wiki/Oo%27glog). The following unlocks are considered permanent unlocks:\n\n• The [Conflict](https://runescape.wikia.com/wiki/Mobilising_Armies/Conflict) game mode\n• The [Siege](https://runescape.wikia.com/wiki/Mobilising_Armies/Siege) game mode\n• The [Hoard](https://runescape.wikia.com/wiki/Mobilising_Armies/Hoard) game mode\n• The [Rescue](https://runescape.wikia.com/wiki/Mobilising_Armies/Rescue) game mode\n• Extra training completed\n\nTo unlock a new game mode the player is required to have played through a match in the previous game mode.\n\nThe extra training can be completed by selecting the right-click option on [Junior Cadet Mal](https://runescape.wikia.com/wiki/Junior_Cadet_Mal).",
+    "description": "[Mobilising Armies unlocks](https://runescape.wikia.com/wiki/Mobilising_Armies#Game_types) can be unlocked by playing the [Mobilising Armies](https://runescape.wikia.com/wiki/Mobilising_Armies) minigame, which is located west of [Oo'glog](https://runescape.wikia.com/wiki/Oo%27glog). The following unlocks are considered permanent unlocks:\n\n• The [Conflict](https://runescape.wikia.com/wiki/Mobilising_Armies/Conflict) game mode\n• The [Siege](https://runescape.wikia.com/wiki/Mobilising_Armies/Siege) game mode\n• The [Hoard](https://runescape.wikia.com/wiki/Mobilising_Armies/Hoard) game mode\n• The [Rescue](https://runescape.wikia.com/wiki/Mobilising_Armies/Rescue) game mode\n• Extra training completed\n\nTo unlock a new game mode, the player is required to have played through a match in the previous game mode.\n\nThe extra training can be completed by selecting the right-click option on [Junior Cadet Mal](https://runescape.wikia.com/wiki/Junior_Cadet_Mal).",
     "color": 10257648,
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/1/11/Mobilising_Armies_siege_castle.png/revision/latest?cb=20170910140028"
     },
     "fields": [{
         "name": "Requirements:",
-        "value": "To unlock the game modes the player is **not** required to invest their [investment points](https://runescape.wikia.com/wiki/Mobilising_Armies/Investments) when entering a match. Therefore it is only required to have finished the [Mobilising Armies Tutorial](https://runescape.wikia.com/wiki/Mobilising_Armies/Tutorial) to unlock all games modes."
+        "value": "To unlock the game modes the player is **not** required to invest their [investment points](https://runescape.wikia.com/wiki/Mobilising_Armies/Investments) when entering a match. Therefore, it is only required to have finished the [Mobilising Armies Tutorial](https://runescape.wikia.com/wiki/Mobilising_Armies/Tutorial) to unlock all games modes."
       },
       {
         "name": "Tips:",
@@ -417,7 +421,7 @@ exports.data = {
       "name": "True Trimmed Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Barbarian Assault Rewards](http://runescape.wikia.com/wiki/Barbarian_Assault/Rewards) are rewards that can be bought with [Honour points](https://runescape.wikia.com/wiki/Honour_Points) that are rewarded by playing the [Barbarian Assault](http://runescape.wikia.com/wiki/Barbarian_Assault) minigame, which is located at the [Barbarian Outpost](https://runescape.wikia.com/wiki/Barbarian_Outpost). The following rewards are considered permanent rewards:\n\n• Unlock all four [Penance egg](https://runescape.wikia.com/wiki/Penance_egg) color paints.\n• Unlocking the [Penance Master horn](https://runescape.wikia.com/wiki/Penance_master_horn) cosmetic upgrade\n\nTo buy the Penance Master horn the player will need to be rank 5 in either the [Defender](https://runescape.wikia.com/wiki/Barbarian_Assault#Defender), [Healer](https://runescape.wikia.com/wiki/Barbarian_Assault#Healer), [Collector](https://runescape.wikia.com/wiki/Barbarian_Assault#Collector) or [Attacker](https://runescape.wikia.com/wiki/Barbarian_Assault#Attacker) role.\n\nTo buy any of the Penance egg color paints the player will need 50 Honour points in one of the roles. To unlock the paints for the first time the player will need either a [Darkbow](https://runescape.wikia.com/wiki/Darkbow) or an [Abyssal whip](https://runescape.wikia.com/wiki/Abyssal_whip). After painting a weapon the player can use a [Cleaning cloth](https://runescape.wikia.com/wiki/Cleaning_cloth) to remove the paint and use the same weapon to unlock the remaining Penance egg color paints. Once bought the Penance egg color paint is permanently unlocked.\n\nThe color paints can also be bought for 20 [Thaler](https://runescape.wikia.com/wiki/Thaler#Misc) each.",
+    "description": "[Barbarian Assault Rewards](http://runescape.wikia.com/wiki/Barbarian_Assault/Rewards) are rewards that can be bought with [Honour points](https://runescape.wikia.com/wiki/Honour_Points) that are rewarded by playing the [Barbarian Assault](http://runescape.wikia.com/wiki/Barbarian_Assault) minigame, which is located at the [Barbarian Outpost](https://runescape.wikia.com/wiki/Barbarian_Outpost). The following rewards are considered permanent rewards:\n\n• Unlock all four [Penance egg](https://runescape.wikia.com/wiki/Penance_egg) color paints.\n• Unlocking the [Penance Master horn](https://runescape.wikia.com/wiki/Penance_master_horn) cosmetic upgrade\n\nTo buy the Penance Master horn the player will need to be rank 5 in either the [Defender](https://runescape.wikia.com/wiki/Barbarian_Assault#Defender), [Healer](https://runescape.wikia.com/wiki/Barbarian_Assault#Healer), [Collector](https://runescape.wikia.com/wiki/Barbarian_Assault#Collector) or [Attacker](https://runescape.wikia.com/wiki/Barbarian_Assault#Attacker) role.\n\nTo buy any of the Penance egg color paints the player will need 50 Honour points in one of the roles. To unlock the paints for the first time, the player will need either a [Darkbow](https://runescape.wikia.com/wiki/Darkbow) or an [Abyssal whip](https://runescape.wikia.com/wiki/Abyssal_whip). After painting a weapon, the player can use a [Cleaning cloth](https://runescape.wikia.com/wiki/Cleaning_cloth) to remove the paint and use the same weapon to unlock the remaining Penance egg color paints. Once bought, the Penance egg color paint is permanently unlocked.\n\nThe color paints can also be bought for 20 [Thaler](https://runescape.wikia.com/wiki/Thaler#Misc) each.",
     "color": 10257648,
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/c/ce/Penance_master_horn_detail.png/revision/latest?cb=20110522170302&format=original"
@@ -428,15 +432,15 @@ exports.data = {
       },
       {
         "name": "Tips:",
-        "value": "Players may choose to use the friend chat `ba teams` or the <@&382960080125165568> tag in this server to find a team to help unlock these rewards, this tag can also be self-assigned in the <#465998663710146579> channel.\n\nIt is highly recommended to do [hard mode](https://runescape.wikia.com/wiki/Barbarian_Assault:_Hard_Mode) for maximum points per round."
+        "value": "Players may choose to use the friend chat **ba teams** or the <@&382960080125165568> tag in this server to find a team to help unlock these rewards. This tag can also be self-assigned in the <#465998663710146579> channel.\n\nIt is highly recommended to do [hard mode](https://runescape.wikia.com/wiki/Barbarian_Assault:_Hard_Mode) for maximum points per round."
       },
       {
         "name": "Guides:",
         "value": "• [Barbarian Assault HM Wave 1-9 • Defender | puretppc - YouTube](https://www.youtube.com/watch?v=03kTmys4DWI)\n• [Barbarian Assault HM Wave 1-9 • Healer | puretppc - YouTube](https://www.youtube.com/watch?v=8m2nmcGJE_8)\n• [Barbarian Assault HM Wave 1-9 • Collector | puretppc - YouTube](https://www.youtube.com/watch?v=1t_Q_bvd9Hc)\n• [Barbarian Assault HM Wave 1-9 • Attacker | puretppc - YouTube](https://www.youtube.com/watch?v=VJbNQqMxQSk)"
       },
       {
-        "name": "Leech Service:",
-        "value": "Players may also choose to use the leech service from [Leech BA](http://w11.zetaboards.com/LeechBA/pages/leechingrs3/)."
+        "name": "Resources:",
+        "value": "• [BA Teams Discord](https://discord.gg/XUuhc9y)\n• [Leech BA](https://discord.gg/XUuhc9y)"
       }
     ],
     "footer": {
@@ -470,7 +474,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "This method will work for ironman accounts as well as normal accounts. As mentioned before, most people decide who gets the first win depending on the lowest rating instead of rock-paper-scissors as mentioned in the video guide.\n\n• [Ironman Bounty Hunter Guide - RS3 | Naffscape - Youtube](https://www.youtube.com/watch?v=IzBsGNj-z3M)"
+        "value": "This method will work for [Ironman](https://runescape.wikia.com/wiki/Ironman_Mode) accounts as well as normal accounts. As mentioned before, most people decide who gets the first win depending on the lowest rating instead of rock-paper-scissors as mentioned in the video guide.\n\n• [Ironman Bounty Hunter Guide - RS3 | Naffscape - Youtube](https://www.youtube.com/watch?v=IzBsGNj-z3M)"
       }
     ],
     "footer": {
@@ -485,17 +489,17 @@ exports.data = {
       "name": "True Trimmed Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Castle wars Rewards](https://runescape.wikia.com/wiki/Castle_Wars_Ticket_Exchange) are rewards that can be unlocked by playing the [Castle wars](https://runescape.wikia.com/wiki/Castle_Wars) minigame, which is located in the south-west corner of [Kandarin](https://runescape.wikia.com/wiki/Kandarin), west of [Yanille](https://runescape.wikia.com/wiki/Yanille). The following rewards are considered permanent rewards:\n\n• Unlocking the [Castle wars kills cape](https://runescape.wikia.com/wiki/Castle_wars_kills_cape)\n• Unlocking the [Castle wars flag cape](https://runescape.wikia.com/wiki/Castle_wars_flag_cape)\n• Unlocking the [Castle wars professional cape](https://runescape.wikia.com/wiki/Castle_wars_professional_cape)\n\nThe Castle wars kills cape and Castle wars flag cape can both be unlocked in a single game by getting the most player kills and flag captures.\n\nTo unlock the Castle wars professional cape a player will need to have played a total of 5,000 Castle wars games, which will automatically unlock the [Castle wars hobbyist cape](https://runescape.wikia.com/wiki/Castle_wars_hobbyist_cape) at 500 total games, and the [Castle wars enthusiast cape](https://runescape.wikia.com/wiki/Castle_wars_enthusiast_cape) at 1,000 total games.\n\nIt would take at minimum 79.86 days (1,916 hours and 40 minutes) to unlock all rewards, assuming that the player was to play Castle wars for 24 hours a day with the time of each match being 23 minutes (20 minutes in game + 3 minutes in the game lobby).",
+    "description": "[Castle wars Rewards](https://runescape.wikia.com/wiki/Castle_Wars_Ticket_Exchange) are rewards that can be unlocked by playing the [Castle wars](https://runescape.wikia.com/wiki/Castle_Wars) minigame, which is located in the south-west corner of [Kandarin](https://runescape.wikia.com/wiki/Kandarin), west of [Yanille](https://runescape.wikia.com/wiki/Yanille). The following rewards are considered permanent rewards:\n\n• Unlocking the [Castle wars kills cape](https://runescape.wikia.com/wiki/Castle_wars_kills_cape)\n• Unlocking the [Castle wars flag cape](https://runescape.wikia.com/wiki/Castle_wars_flag_cape)\n• Unlocking the [Castle wars professional cape](https://runescape.wikia.com/wiki/Castle_wars_professional_cape)\n\nThe Castle wars kills cape and Castle wars flag cape can both be unlocked in a single game by getting the most player kills and flag captures.\n\nTo unlock the Castle wars professional cape, a player will need to have played a total of 5,000 Castle wars games, which will automatically unlock the [Castle wars hobbyist cape](https://runescape.wikia.com/wiki/Castle_wars_hobbyist_cape) at 500 total games, and the [Castle wars enthusiast cape](https://runescape.wikia.com/wiki/Castle_wars_enthusiast_cape) at 1,000 total games.\n\nIt would take at minimum 79.86 days (1,916 hours and 40 minutes) to unlock all rewards, assuming that the player was to play Castle wars for 24 hours a day with the time of each match being 23 minutes (20 minutes in game + 3 minutes in the game lobby).",
     "color": 10257648,
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e3/Castle_wars_professional_cape_detail.png/revision/latest?cb=20170726192109&format=original"
     },
     "fields": [{
         "name": "Normal Games:",
-        "value": "It is not required to win games to unlock any of these rewards, therefore if the player choses to play on world 24 it is highly recommended to enter the green portal to ensure the player can enter the game, as in some cases a team has more players inside the portal, causing the player not being able to enter the portal."
+        "value": "It is not required to win games to unlock any of these rewards, therefore if the player choses to play on world 24 it is highly recommended to enter the green portal to ensure the player can enter the game. This is the case due to the face that if a team has more players inside the portal the the other, the player attempting to join will not be able to enter the portal. Joining the green portal will you put you on whichever team has the least amount of people automatically."
       },
       {
-        "name": "Friends chats:",
+        "name": "Friends Chat:",
         "value": "The player can also choose to join games hosted by [Castle Wars United](https://discord.gg/hzvwrvX), and join their friends chat **Cwar United**, after applying on their [forum thread](http://services.runescape.com/m=forum/c=9s7nqZXGY8Y/forums.ws?75,76,32,66000897)."
       }
     ],
@@ -511,18 +515,18 @@ exports.data = {
       "name": "True Trimmed Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Deathmatch Rewards](http://runescape.wikia.com/wiki/Bounty_Hunter_%26_Deathmatch_Reward_Shop) are rewards that can be bought with [Deathmatch points](https://runescape.wikia.com/wiki/Deathmatch#Point_system), which are rewarded by playing the [Deathmatch](http://runescape.wikia.com/wiki/Deathmatch) minigame, accessed through a hatch at the eastern border of [Edgeville](https://runescape.wikia.com/wiki/Edgeville), previously known as [The Crucible](http://runescape.wikia.com/wiki/Crucible). The following rewards are considered permanent rewards:\n\n• The ability to make [Ancient Teleport Tablets](https://runescape.wikia.com/wiki/Magic_tablet#Ancient_Magicks)\n• The [Deathmatch title scrolls](https://runescape.wikia.com/wiki/Deathmatch_title_scroll)\n• The [Deathmatch taunt scrolls](https://runescape.wikia.com/wiki/Deathmatch_taunt_scroll)\n• The [Bounty Teleport](https://runescape.wikia.com/wiki/Bounty_Teleport) spell\n• The ability to buy the [Atrocious rogue gloves](https://runescape.wikia.com/wiki/Atrocious_rogue_gloves)\n• The ability to buy the [Supreme Hunter's helm](http://runescape.wikia.com/wiki/Supreme_hunter%27s_helm)\n\nThere is a total of 20 Titles and 10 Taunts that can be unlocked by buying the corresponding scrolls, and each scroll unlocks a single title or taunt.\n\nTo unlock the Atrocious rogue gloves it is required to buy all previous tiers at least once. It is **not** required to buy the Atrocious rogue gloves.\n\nTo recieve the Supreme hunter status there must be at least 20 people in the Deathmatch arena, after the 5 minute mark it will spawn a yellow orb, to recieve the Supreme Hunter status a player must stand next to the orb to fill up a progess bar. It is **not** required to buy the Supreme Hunter's helm.\n\nThe total amount of Deathmatch points required to buy all permanent rewards is: 15,600.",
+    "description": "[Deathmatch Rewards](http://runescape.wikia.com/wiki/Bounty_Hunter_%26_Deathmatch_Reward_Shop) are rewards that can be bought with [Deathmatch points](https://runescape.wikia.com/wiki/Deathmatch#Point_system), which are rewarded by playing the [Deathmatch](http://runescape.wikia.com/wiki/Deathmatch) minigame, accessed through a hatch at the eastern border of [Edgeville](https://runescape.wikia.com/wiki/Edgeville), previously known as [The Crucible](http://runescape.wikia.com/wiki/Crucible). The following rewards are considered permanent rewards:\n\n• The ability to make [Ancient Teleport Tablets](https://runescape.wikia.com/wiki/Magic_tablet#Ancient_Magicks)\n• The [Deathmatch title scrolls](https://runescape.wikia.com/wiki/Deathmatch_title_scroll)\n• The [Deathmatch taunt scrolls](https://runescape.wikia.com/wiki/Deathmatch_taunt_scroll)\n• The [Bounty Teleport](https://runescape.wikia.com/wiki/Bounty_Teleport) spell\n• The ability to buy the [Atrocious rogue gloves](https://runescape.wikia.com/wiki/Atrocious_rogue_gloves)\n• The ability to buy the [Supreme Hunter's helm](http://runescape.wikia.com/wiki/Supreme_hunter%27s_helm)\n\nThere is a total of 20 Titles and 10 Taunts that can be unlocked by buying the corresponding scrolls, and each scroll unlocks a single title or taunt.\n\nTo unlock the Atrocious rogue gloves, it is required to buy all previous tiers at least once. It is **not** required to buy the Atrocious rogue gloves.\n\nTo recieve the Supreme hunter status, there must be at least 20 people in the Deathmatch arena. After the 5 minute mark, the arena will spawn a yellow orb. To recieve the Supreme Hunter status, a player must stand next to the orb to fill up a progess bar. It is **not** required to buy the Supreme Hunter's helm.\n\nThe total amount of Deathmatch points required to buy all permanent rewards is: 15,600.",
     "color": 10257648,
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/3/3c/Supreme_hunter%27s_helm_chathead.png/revision/20160118214724"
     },
     "fields": [{
         "name": "Deathmatch Game:",
-        "value": "Games will end after 10 minutes or when someone reaches 50 kills.\n\nWhen killed the player will spawn at 1 of the 4 banks around the arena. Next to these banks there are 2 portals out of which the player can choose to interact with. 1 which will make the player leave the current game, the other portal has an option to fast travel back into the arena or an option to choose a spawn point from the [Deathmatch arena map](https://vignette.wikia.nocookie.net/runescape2/images/f/f0/Crucible_map.png/revision/latest?cb=20120619203953)."
+        "value": "Games will end after 10 minutes, or when someone reaches 50 kills.\n\nWhen killed, the player will spawn at 1 of the 4 banks around the arena. Next to these banks are 2 portals out of which the player can choose to interact with. One will make the player leave the current game, the other has an option to fast travel back into the arena or an option to choose a spawn point from the [Deathmatch arena map](https://vignette.wikia.nocookie.net/runescape2/images/f/f0/Crucible_map.png/revision/latest?cb=20120619203953)."
       },
       {
         "name": "Guide and Tips:",
-        "value": "The fastest method to obtain points is to start a [Legacy](https://runescape.wikia.com/wiki/Legacy_Mode) lobby with 4-6 or more players, and have 1 person use [multi-target spells](https://runescape.wikia.com/wiki/Ancient_Magicks#Combat_spells) from the [Ancient spellbook](https://runescape.wikia.com/wiki/Ancient_Magicks) such as [Ice barrage](https://runescape.wikia.com/wiki/Ice_Barrage), till they reach 50 kills, upon which the game will end.\n\nIt is recommended to use the normal travel option on the portal next to the banks upon death and choose a specific spawn point, this way everyone will spawn at the same location this makes it faster to farm kills when in a group.\n\nIt is up to the players to decide if they want to rotate which person is getting kills, since only the player(s) with kills will recieve points."
+        "value": "The fastest method to obtain points is to start a [Legacy](https://runescape.wikia.com/wiki/Legacy_Mode) lobby with 4-6 or more players and have 1 person use [multi-target spells](https://runescape.wikia.com/wiki/Ancient_Magicks#Combat_spells) from the [Ancient spellbook](https://runescape.wikia.com/wiki/Ancient_Magicks) such as [Ice barrage](https://runescape.wikia.com/wiki/Ice_Barrage) until they reach 50 kills, upon which, the game will end.\n\nIt is recommended to use the normal travel option on the portal next to the banks upon death and choose a specific spawn point. This way, everyone will spawn at the same location. This method makes it faster to farm kills when in a group.\n\nIt is up to the players to decide if they want to rotate which person is getting kills, since only the player(s) with kills will recieve points."
       }
     ],
     "footer": {
@@ -537,7 +541,7 @@ exports.data = {
       "name": "True Trimmed Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Dominion Tower Rewards](http://runescape.wikia.com/wiki/Dominion_Tower#Rewards) are rewards that can be unlocked by playing the [Dominion Tower](http://runescape.wikia.com/wiki/Dominion_Tower) minigame, which is located in the [Kharidian Desert](https://runescape.wikia.com/wiki/Kharidian_Desert), on the eastern bank of the [River Elid](https://runescape.wikia.com/wiki/River_Elid), just south of the [Shantay Pass](https://runescape.wikia.com/wiki/Shantay_Pass). The following rewards are considered permanent rewards:\n\n• The [The Survivor](http://runescape.wikia.com/wiki/The_Survivor) title\n• The [Extreme dominion medallion](http://runescape.wikia.com/wiki/Extreme_dominion_medallion) upgrade\n• Unlock all bosses in [Freestyle mode](https://runescape.wikia.com/wiki/Dominion_Tower#Freestyle_mode)\n\nThe Survival title and the medallion upgrade are both unlocked by playing [Rumble mode](http://runescape.wikia.com/wiki/Dominion_Tower#Rumble_mode) with a group size of 1-5 players. To unlock The Survivor title the group must consist out of 4 or 5 players for at least 45 minutes.\n\nTo unlock all bosses in Freestyle mode the player must have first defeated the corresponding boss in either [Climber mode](https://runescape.wikia.com/wiki/Dominion_Tower#Climber_mode), [Endurance mode](https://runescape.wikia.com/wiki/Dominion_Tower#Endurance_mode) or [Special mode](https://runescape.wikia.com/wiki/Dominion_Tower#Special_mode) as kills in Rumble mode will not count.",
+    "description": "[Dominion Tower Rewards](http://runescape.wikia.com/wiki/Dominion_Tower#Rewards) are rewards that can be unlocked by playing the [Dominion Tower](http://runescape.wikia.com/wiki/Dominion_Tower) minigame. The Dominion Tower is located in the [Kharidian Desert](https://runescape.wikia.com/wiki/Kharidian_Desert), on the eastern bank of the [River Elid](https://runescape.wikia.com/wiki/River_Elid), just south of the [Shantay Pass](https://runescape.wikia.com/wiki/Shantay_Pass). The following rewards are considered permanent rewards:\n\n• The [The Survivor](http://runescape.wikia.com/wiki/The_Survivor) title\n• The [Extreme dominion medallion](http://runescape.wikia.com/wiki/Extreme_dominion_medallion) upgrade\n• Unlock all bosses in [Freestyle mode](https://runescape.wikia.com/wiki/Dominion_Tower#Freestyle_mode)\n\nThe Survival title and the medallion upgrade are both unlocked by playing [Rumble mode](http://runescape.wikia.com/wiki/Dominion_Tower#Rumble_mode) with a group size of 1-5 players. To unlock The Survivor title, the group must consist of 4 or 5 players for at least 45 minutes.\n\nTo unlock all bosses in Freestyle mode, the player must have first defeated the corresponding boss in either [Climber mode](https://runescape.wikia.com/wiki/Dominion_Tower#Climber_mode), [Endurance mode](https://runescape.wikia.com/wiki/Dominion_Tower#Endurance_mode) or [Special mode](https://runescape.wikia.com/wiki/Dominion_Tower#Special_mode) as kills in Rumble mode will not count.",
     "url": "",
     "color": 10257648,
     "thumbnail": {
@@ -549,7 +553,11 @@ exports.data = {
       },
       {
         "name": "Guide and Tips:",
-        "value": "For Rumble mode it is recommended to go with a group of 5 players since the total amount of bosses is the same as with a group of 4 players.\n\nThe best way to unlock The Survivor title is to kill all range and mage bosses, leaving only the melee bosses alive, which can be trapped behind each other and easily dodged by running around the arena.\n\nBosses such as [Delrith](https://runescape.wikia.com/wiki/Delrith#Dominion_Tower) should always be killed first due to their special attacks.\n\nTo unlock the extreme dominion medallion upgrade you need to kill a total of 1600 bosses during Rumble mode. These kills don't have to be during 1 session. The best way to unlock the upgrade is to get a group of 5 players to maximize the amount of creatures to spawn, and group them up so they can be killed by multi-target attacks.\n\nSince there is no quickchat for total rumble mode kills you can check your [Dominion marker](http://runescape.wikia.com/wiki/Dominion_marker) for the total kills."
+        "value": "For Rumble mode, it is recommended to go with a group of 5 players since the total amount of bosses is the same as with a group of 4 players.\n\nThe best way to unlock The Survivor title is to kill all range and mage bosses, leaving only the melee bosses alive, which can be trapped behind each other and easily dodged by running around the arena.\n\nBosses such as [Delrith](https://runescape.wikia.com/wiki/Delrith#Dominion_Tower) should always be killed first due to their special attacks.\n\nTo unlock the extreme dominion medallion upgrade, you need to kill a total of 1,600 bosses during Rumble mode. These kills don't have to be during 1 session. The best way to unlock the upgrade is to get a group of 5 players to maximize the amount of creatures to spawn, and group them up so they can be killed by multi-target [abilities](https://runescape.wikia.com/wiki/Abilities)."
+      },
+      {
+        "name": "​",
+        "value": "Since there is no quickchat for total rumble mode kills, you can check your [Dominion marker](http://runescape.wikia.com/wiki/Dominion_marker) for the total kills."
       }
     ],
     "footer": {
@@ -564,7 +572,7 @@ exports.data = {
       "name": "True Trimmed Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Flash Powder Factory Rewards](https://runescape.wikia.com/wiki/Flash_Powder_Factory#Buying_rewards) are rewards that can be bought with [Brianpoints](https://runescape.wikia.com/wiki/Flash_Powder_Factory#Brianpoints) that are rewarded by playing the [Flash Powder Factory](https://runescape.wikia.com/wiki/Flash_Powder_Factory) minigame, which is located under the [The Pick and Lute](https://runescape.wikia.com/wiki/The_Pick_and_Lute) bar in [Taverley](https://runescape.wikia.com/wiki/Taverley). The only permanent reward from the Flash Powder Factory is the [Botanist's outfit](https://runescape.wikia.com/wiki/Botanist%27s_outfit) set, which can be bought for a total of 5,000 brainpoints.",
+    "description": "[Flash Powder Factory Rewards](https://runescape.wikia.com/wiki/Flash_Powder_Factory#Buying_rewards) are rewards that can be bought with [Brianpoints](https://runescape.wikia.com/wiki/Flash_Powder_Factory#Brianpoints) that are rewarded by playing the [Flash Powder Factory](https://runescape.wikia.com/wiki/Flash_Powder_Factory) minigame, which is located under the [The Pick and Lute](https://runescape.wikia.com/wiki/The_Pick_and_Lute) bar in [Taverley](https://runescape.wikia.com/wiki/Taverley).\n\nThe only permanent reward from the Flash Powder Factory is the [Botanist's outfit](https://runescape.wikia.com/wiki/Botanist%27s_outfit) set, which can be bought for a total of 5,000 brainpoints.",
     "color": 10257648,
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/6/63/Botanist%27s_outfit_equipped.png/revision/latest?cb=20140406202055"
@@ -590,14 +598,14 @@ exports.data = {
       "name": "True Trimmed Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Gnome Restaurant Rewards](https://runescape.wikia.com/wiki/Gnome_Restaurant#Rewards) are rewards that can be obtained by playing the [Gnome Restaurant](https://runescape.wikia.com/wiki/Gnome_Restaurant#How_to_play) minigame. The only permanent reward is the [Sous chef's outfit](https://runescape.wikia.com/wiki/Sous_chef%27s_outfit).",
+    "description": "[Gnome Restaurant Rewards](https://runescape.wikia.com/wiki/Gnome_Restaurant#Rewards) are rewards that can be obtained by playing the [Gnome Restaurant](https://runescape.wikia.com/wiki/Gnome_Restaurant#How_to_play) minigame. The only permanent reward is the [Sous chef's outfit](https://runescape.wikia.com/wiki/Sous_chef%27s_outfit).\n\nThe minigame is run by [Aluft Gianne Jr](https://runescape.wikia.com/wiki/Aluft_Gianne_Jr) on the 1st floor[UK] of the [Grand Tree](https://runescape.wikia.com/wiki/Grand_Tree), in the [Tree Gnome Stronghold](https://runescape.wikia.com/wiki/Tree_Gnome_Stronghold).",
     "color": 10257648,
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/c/cb/Sous_chef%27s_jacket_detail.png/revision/latest?cb=20180622174115&format=original"
     },
     "fields": [{
         "name": "Getting Started:",
-        "value": "To play the Gnome Restaurant the player needs to complete the [Gnome Restaurant tutorial](https://runescape.wikia.com/wiki/Gnome_Restaurant#How_to_play).\n\nIf the player does not have the skill requirements for certain [deliveries](https://runescape.wikia.com/wiki/Gnome_Restaurant#Possible_destinations), they may choose to cancel them. Cancelling a delivery will prevent the player from doing an other delivery for 5 minutes."
+        "value": "To play the Gnome Restaurant the player needs to complete the [Gnome Restaurant tutorial](https://runescape.wikia.com/wiki/Gnome_Restaurant#How_to_play).\n\nIf the player does not have the skill requirements for certain [deliveries](https://runescape.wikia.com/wiki/Gnome_Restaurant#Possible_destinations), they may choose to cancel them. Cancelling a delivery will prevent the player from doing another delivery for 5 minutes."
       },
       {
         "name": "Requirements:",
@@ -620,7 +628,7 @@ exports.data = {
       "name": "True Trimmed Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Mage Arena Rewards](http://runescape.wikia.com/wiki/Mage_Arena#Rewards) are rewards that can be unlocked from completing the [Mage Arena](http://runescape.wikia.com/wiki/Mage_Arena) minigame, which is located in level 53 [Wilderness](https://runescape.wikia.com/wiki/Wilderness), north of the [Lava Maze](https://runescape.wikia.com/wiki/Lava_Maze). The only permanent reward from the Mage Arena is unlocking the [Divine Storm](http://runescape.wikia.com/wiki/Divine_Storm) spell.\n\nPlayers can start the minigame by talking to [Kolodion](http://runescape.wikia.com/wiki/Kolodion), whom can be found by pulling the lever to the north-west of the Mage Arena (behind 2 webs).\n\nAfter defeating the last form of Kolodion the player gains acces to an underground area where they can buy the [God staves](http://runescape.wikia.com/wiki/God_staves) or obtain their [God capes](http://runescape.wikia.com/wiki/God_capes) by chosing 1 of the 3 gods.",
+    "description": "[Mage Arena Rewards](http://runescape.wikia.com/wiki/Mage_Arena#Rewards) are rewards that can be unlocked from completing the [Mage Arena](http://runescape.wikia.com/wiki/Mage_Arena) minigame, which is located in level 53 [Wilderness](https://runescape.wikia.com/wiki/Wilderness), north of the [Lava Maze](https://runescape.wikia.com/wiki/Lava_Maze). The only permanent reward from the Mage Arena is unlocking the [Divine Storm](http://runescape.wikia.com/wiki/Divine_Storm) spell.\n\nPlayers can start the minigame by talking to [Kolodion](http://runescape.wikia.com/wiki/Kolodion), whom can be found by pulling the lever to the north-west of the Mage Arena (behind 2 webs).\n\nAfter defeating the last form of Kolodion, the player gains access to an underground area where they can buy the [God staves](http://runescape.wikia.com/wiki/God_staves) or obtain their [God capes](http://runescape.wikia.com/wiki/God_capes) by chosing 1 of the 3 [gods](https://runescape.wikia.com/wiki/Gods).",
     "color": 10257648,
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/3/36/2003_mage_arena_staff_barrel_statue.png"
@@ -631,7 +639,7 @@ exports.data = {
       },
       {
         "name": "Tips:",
-        "value": "The Mage Arena itself is not safe from player killers, although the banking area is. When you are fighting Kolodion you are also not safe from PK'ers, however it is a single-combat zone so as long as you are fighting Kolodion you should be fine. Regardless, it would be wise to complete this activity on a world with a low population, to minimize the chance of an encounter with a PK'er.\n\nThe best way to unlock the divine storm spell is to bring a magic wand such as the [Avernic wand](http://runescape.wikia.com/wiki/Avernic_wand), due to unlimited air runes supply and wands have a much faster attack speed. The spell has to be cast atleast 100 times inside the Mage Arena to permenantly unlock it."
+        "value": "The Mage Arena itself is not safe from player killers, although the banking area is. When you are fighting Kolodion, you are also not safe from PK'ers, however, it is a single-combat zone, so as long as you are fighting Kolodion, you should be fine. Regardless, it would be wise to complete this activity on a world with a low population, to minimize the chance of an encounter with a PK'er.\n\nThe best way to unlock the divine storm spell is to bring a magic wand, such as the [Avernic wand](http://runescape.wikia.com/wiki/Avernic_wand), due to unlimited [air runes](http://runescape.wikia.com/wiki/Air_rune) supply and the fact that wands have a much faster attack speed. The spell has to be cast atleast 100 times inside the Mage Arena to permenantly unlock it."
       },
       {
         "name": "Guide:",
@@ -650,7 +658,7 @@ exports.data = {
       "name": "True Trimmed Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[My Cabbages!](https://runescape.wikia.com/wiki/Cabbage_Facepunch_Bonanza#Rewards) requires the player to unlock all the rewards from the [Cabbage Facepunch Bonanza](https://runescape.wikia.com/wiki/Cabbage_Facepunch_Bonanza) minigame, which is located in the [Gamers' Grotto](https://runescape.wikia.com/wiki/Gamers%27_Grotto) just north of [Falador](https://runescape.wikia.com/wiki/Falador). The rewards can be bought with [renown](https://runescape.wikia.com/wiki/Renown) currency, which is rewarded from playing the minigame. The following rewards are considered permanent rewards:\n\n• The [Seedicide](https://runescape.wikia.com/wiki/Seedicide) (this is needed to complete [the slayer toolbelt](https://runescape.wikia.com/wiki/Tool_belt#Slayer))\n• The [Farmer's outfit](https://runescape.wikia.com/wiki/Farmer%27s_outfit)\n• All [passive](https://runescape.wikia.com/wiki/Cabbage_Facepunch_Bonanza#Abilities) and [active abilities](https://runescape.wikia.com/wiki/Cabbage_Facepunch_Bonanza#Abilities)\n\nThere is a total of 6 passive abilities of which 3 are free, and 9 active abilities of which 2 are free.\n\nThe total amount of renown required to buy all permenant Cabbage Facepunch Bonanza rewards is either 8,135 or 10,335, depending on if the Seedicide is bought with 360 [thaler](https://runescape.wikia.com/wiki/Thaler) or 2,200 renown.\n\nThe player is rewarded for 600 bonus renown every day.",
+    "description": "[My Cabbages!](https://runescape.wikia.com/wiki/Cabbage_Facepunch_Bonanza#Rewards) requires the player to unlock all the rewards from the [Cabbage Facepunch Bonanza](https://runescape.wikia.com/wiki/Cabbage_Facepunch_Bonanza) minigame, which is located in the [Gamers' Grotto](https://runescape.wikia.com/wiki/Gamers%27_Grotto) just north of [Falador](https://runescape.wikia.com/wiki/Falador). The rewards can be bought with [renown](https://runescape.wikia.com/wiki/Renown) currency, which is rewarded from playing the minigame. The following rewards are considered permanent rewards:\n\n• The [Seedicide](https://runescape.wikia.com/wiki/Seedicide) (this is needed to complete [the slayer toolbelt](https://runescape.wikia.com/wiki/Tool_belt#Slayer))\n• The [Farmer's outfit](https://runescape.wikia.com/wiki/Farmer%27s_outfit)\n• All [passive](https://runescape.wikia.com/wiki/Cabbage_Facepunch_Bonanza#Abilities) and [active abilities](https://runescape.wikia.com/wiki/Cabbage_Facepunch_Bonanza#Abilities)\n\nThere is a total of 6 passive abilities of which, 3 are free, and 9 active abilities, of which 2 are free.\n\nThe total amount of renown required to buy all permenant Cabbage Facepunch Bonanza rewards is either 8,135 or 10,335, depending on if the Seedicide is bought with 360 [thaler](https://runescape.wikia.com/wiki/Thaler) or 2,200 renown.\n\nThe player is rewarded for 600 bonus renown every day.",
     "color": 10257648,
     "thumbnail": {
       "url": "https://i.imgur.com/8dnYExa.png"
@@ -676,7 +684,7 @@ exports.data = {
       "name": "True Trimmed Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Player-owned port Rewards](https://runescape.wikia.com/wiki/Player-owned_port/Rewards) are rewards that can be unlocked by playing the [Player-owned port](https://runescape.wikia.com/wiki/Player-owned_port) minigame, which can be found by entering one of three portals located south-west of [the Rusty Anchor](https://runescape.wikia.com/wiki/The_Rusty_Anchor) pub in [Port Sarim](https://runescape.wikia.com/wiki/Port_Sarim), north-east of the [Lodestone](https://runescape.wikia.com/wiki/Lodestone_Network) in [Prifddinas](https://runescape.wikia.com/wiki/Prifddinas), or in the southern part of the [Port district](https://runescape.wikia.com/wiki/Port_district) in [Menaphos](https://runescape.wikia.com/wiki/Menaphos). The following rewards are considered permanent rewards:\n",
+    "description": "[Player-owned port Rewards](https://runescape.wikia.com/wiki/Player-owned_port/Rewards) are rewards that can be unlocked by playing the [Player-owned port](https://runescape.wikia.com/wiki/Player-owned_port) minigame.\n\nThe port can be found by entering one of three portals located south-west of [the Rusty Anchor](https://runescape.wikia.com/wiki/The_Rusty_Anchor) pub in [Port Sarim](https://runescape.wikia.com/wiki/Port_Sarim), north-east of the [Lodestone](https://runescape.wikia.com/wiki/Lodestone_Network) in [Prifddinas](https://runescape.wikia.com/wiki/Prifddinas), or in the southern part of the [Port district](https://runescape.wikia.com/wiki/Port_district) in [Menaphos](https://runescape.wikia.com/wiki/Menaphos). The following rewards are considered permanent rewards:\n",
     "color": 10257648,
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/c/ce/Captain%27s_Log_detail.png/revision/latest?cb=20130609235043&format=original"
@@ -756,7 +764,7 @@ exports.data = {
       "name": "True Trimmed Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Shattered Worlds Rewards](https://runescape.wikia.com/wiki/Shattered_Worlds/Rewards) are rewards that can be bought with [shattered anima](https://runescape.wikia.com/wiki/Shattered_anima) that is obtained while playing the [Shattered Worlds](https://runescape.wikia.com/wiki/Shattered_Worlds) minigame, which is located in the south west part of the [Lumbridge Swamp](https://runescape.wikia.com/wiki/Lumbridge_Swamp).\n\nTo buy all permanent rewards the player needs a minimum total of 328,700,000 shattered anima, and a maximum total of 1,683,700,000 shattered anima, this depends on which of the slayer masks the player already owns. The following rewards are considered permanent rewards:\n",
+    "description": "[Shattered Worlds Rewards](https://runescape.wikia.com/wiki/Shattered_Worlds/Rewards) are rewards that can be bought with [shattered anima](https://runescape.wikia.com/wiki/Shattered_anima) that is obtained while playing the [Shattered Worlds](https://runescape.wikia.com/wiki/Shattered_Worlds) minigame, which is located in the south west part of the [Lumbridge Swamp](https://runescape.wikia.com/wiki/Lumbridge_Swamp).\n\nTo buy all permanent rewards the player needs a minimum total of 328,700,000 shattered anima, and a maximum total of 1,683,700,000 shattered anima. This depends on which of the slayer masks the player already owns. The following rewards are considered permanent rewards:\n",
     "color": 10257648,
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/7/79/Abyssal_hound_pet.png/revision/latest?cb=20170504123517"
@@ -779,7 +787,7 @@ exports.data = {
       },
       {
         "name": "Tips:",
-        "value": "It is highly recommended to buy the Bladed Dive ability first, this will really help with navigating through the Shattered Worlds.\n\nThe player can also earn some extra shattered anima by completing the weekly **Bronze**, **Silver** and **Gold** [special challenges](https://runescape.wikia.com/wiki/Shattered_Worlds#Challenge_mode). Which can be started by entering the red portal instead of the blue portal.\n\nThe Abyssal hound pet is the only reward or unlock that is not bought with shattered anima, instead it is a very rare drop from the reward chest (X/150,000 drop rate after every 5 worlds completed, where X is 5 times the number of the last world), which can be opened after completing a run of 5 or more worlds."
+        "value": "It is highly recommended to buy the Bladed Dive ability first, this will really help with navigating through the Shattered Worlds.\n\nThe player can also earn some extra shattered anima by completing the weekly **Bronze**, **Silver** and **Gold** [special challenges](https://runescape.wikia.com/wiki/Shattered_Worlds#Challenge_mode). Which can be started by entering the red portal instead of the blue portal.\n\nThe Abyssal hound pet is the only reward or unlock that is not bought with shattered anima. Instead, it is a very rare drop from the reward chest, which can be opened after completing a run of 5 or more worlds. The drop rate is X/150,000 after every 5 worlds completed, where X is 5 times the number of the last world."
       },
       {
         "name": "Guide:",
@@ -798,14 +806,14 @@ exports.data = {
       "name": "True Trimmed Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Stealing Creation Rewards](https://runescape.wikia.com/wiki/Stealing_Creation/Rewards) are rewards that can be bought with [Reward points](https://runescape.wikia.com/wiki/Stealing_Creation/Rewards#Point_system) that are obtained by playing the [Stealing Creation](https://runescape.wikia.com/wiki/Stealing_Creation) minigame, which is located in the [Mystic's Camp](https://runescape.wikia.com/wiki/Mystic%27s_Camp), in the northern section of the [Gamers' Grotto](https://runescape.wikia.com/wiki/Gamers%27_Grotto), accessible via a cavern entrance north of [Falador](https://runescape.wikia.com/wiki/Falador). The [Games necklace](https://runescape.wikia.com/wiki/Games_necklace) has a teleport option to the grotto. The following rewards are considered permanent rewards:\n\n• The [Fletcher's outfit](https://runescape.wikia.com/wiki/Fletcher%27s_outfit) set\n• The [Artisan's outfit](https://runescape.wikia.com/wiki/Artisan%27s_outfit) set (this includes the [Artisan's bandana add-on](https://runescape.wikia.com/wiki/Artisan%27s_bandana_add-on))\n\nThese skilling sets can be bought for 100 Stealing Creation reward points per piece, for a total of 1100 reward points.",
+    "description": "[Stealing Creation Rewards](https://runescape.wikia.com/wiki/Stealing_Creation/Rewards) are rewards that can be bought with [Reward points](https://runescape.wikia.com/wiki/Stealing_Creation/Rewards#Point_system) that are obtained by playing the [Stealing Creation](https://runescape.wikia.com/wiki/Stealing_Creation) minigame. Stealing creation is located in the [Mystic's Camp](https://runescape.wikia.com/wiki/Mystic%27s_Camp) in the northern section of the [Gamers' Grotto](https://runescape.wikia.com/wiki/Gamers%27_Grotto), accessible via a cavern entrance north of [Falador](https://runescape.wikia.com/wiki/Falador). The [Games necklace](https://runescape.wikia.com/wiki/Games_necklace) has a teleport option to the grotto.\n\nThe following rewards are considered permanent rewards:\n\n• The [Fletcher's outfit](https://runescape.wikia.com/wiki/Fletcher%27s_outfit) set\n• The [Artisan's outfit](https://runescape.wikia.com/wiki/Artisan%27s_outfit) set (this includes the [Artisan's bandana add-on](https://runescape.wikia.com/wiki/Artisan%27s_bandana_add-on))\n\nThese skilling sets can be bought for 100 Stealing Creation reward points per piece, for a total of 1,100 reward points.",
     "color": 10257648,
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/5/55/Artisan%27s_outfit_equipped.png/revision/latest?cb=20151120140418"
     },
     "fields": [{
       "name": "Guide:",
-      "value": "[Stealing Creation Guide | puretppc - Youtube](https://www.youtube.com/watch?v=7cBQFKPnnhQ)"
+      "value": "• [Stealing Creation Guide | puretppc - Youtube](https://www.youtube.com/watch?v=7cBQFKPnnhQ)"
     }],
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
@@ -819,7 +827,7 @@ exports.data = {
       "name": "True Trimmed Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Temple Trekking Rewards](https://runescape.wikia.com/wiki/Temple_Trekking#Rewards) are rewards that can be unlocked by playing the [Temple Trekking](https://runescape.wikia.com/wiki/Temple_Trekking) minigame, which is located by the northern gate in [Burgh de Rott](https://runescape.wikia.com/wiki/Burgh_de_Rott), or west of [Canifis](https://runescape.wikia.com/wiki/Canifis). The following rewards are considered permanent rewards:\n\n• The [Lumberjack clothing](https://runescape.wikia.com/wiki/Lumberjack_clothing) set\n• The [Ouroboros pouch](https://runescape.wikia.com/wiki/Ouroboros_pouch) (to complete [the slayer toolbelt](https://runescape.wikia.com/wiki/Tool_belt#Slayer))\n• Claiming the [Constructor's outfit](https://runescape.wikia.com/wiki/Constructor%27s_outfit)\n• Confirming the quick continue option for paths\n\nThe Ouroboros pouch will be unlocked automatically by leveling [Jayene Kliyn](https://runescape.wikia.com/wiki/Jayene_Kliyn)'s level to 99, so it is only required to actually claim the pouch from the noticeboard in Burgh de Rott.\n\nThe Lumberjack clothing is dropped in pieces by [Undead Lumberjacks](https://runescape.wikia.com/wiki/Undead_Lumberjack) in the scenario with the broken bridge during Temple Trekking. Only 1 piece of Lumberjack clothing can be obtained per event.\n\nThe Constructor's outfit is automatically unlocked by leveling all companions to 99, therefore the player is only required to simply claim the outfit from the noticeboards. This will permanently unlock the outfit.\n\nThe quick continue option can be selected when scouting a path for events, this will take away the option to see which event is ahead, therefore it is higly recommended to confirm this quick option after unlocking all the other rewards.",
+    "description": "[Temple Trekking Rewards](https://runescape.wikia.com/wiki/Temple_Trekking#Rewards) are rewards that can be unlocked by playing the [Temple Trekking](https://runescape.wikia.com/wiki/Temple_Trekking) minigame, which is located by the northern gate in [Burgh de Rott](https://runescape.wikia.com/wiki/Burgh_de_Rott), or west of [Canifis](https://runescape.wikia.com/wiki/Canifis). The following rewards are considered permanent rewards:\n\n• The [Lumberjack clothing](https://runescape.wikia.com/wiki/Lumberjack_clothing) set\n• The [Ouroboros pouch](https://runescape.wikia.com/wiki/Ouroboros_pouch) (to complete [the slayer toolbelt](https://runescape.wikia.com/wiki/Tool_belt#Slayer))\n• Claiming the [Constructor's outfit](https://runescape.wikia.com/wiki/Constructor%27s_outfit)\n• Confirming the quick continue option for paths\n\nThe Ouroboros pouch will be unlocked automatically by leveling [Jayene Kliyn](https://runescape.wikia.com/wiki/Jayene_Kliyn)'s level to 99, so it is only required to actually claim the pouch from the noticeboard in Burgh de Rott.\n\nThe Lumberjack clothing is dropped in pieces by [Undead Lumberjacks](https://runescape.wikia.com/wiki/Undead_Lumberjack) in the scenario with the broken bridge during Temple Trekking. Only 1 piece of Lumberjack clothing can be obtained per event.\n\nThe Constructor's outfit is automatically unlocked by leveling all companions to 99, therefore the player is only required to simply claim the outfit from the noticeboards. This will permanently unlock the outfit.\n\nThe quick continue option can be selected when scouting a path for events, this will take away the option to see which event is ahead, therefore, it is higly recommended to confirm this quick option after unlocking all the other rewards.",
     "color": 10257648,
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e2/Lumberjack_top_detail.png/revision/latest?cb=20110521010000&format=original"
@@ -845,7 +853,7 @@ exports.data = {
       "name": "True Trimmed Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[The Great Orb Project Rewards](https://runescape.wikia.com/wiki/The_Great_Orb_Project#Rewards) are rewards that can be bought with [Runecrafting guild tokens](https://runescape.wikia.com/wiki/Runecrafting_guild_token) that are rewarded by playing the [The Great Orb Project](https://runescape.wikia.com/wiki/The_Great_Orb_Project) minigame, which is located in the [Runecrafting Guild](https://runescape.wikia.com/wiki/Runecrafting_Guild). The only permanent reward from The Great Orb Project is the [Master runecrafter robes](https://runescape.wikia.com/wiki/Master_runecrafter_robes), which can be bought for 15,000 Runecrafting guild tokens per piece from [Wizard Elriss](https://runescape.wikia.com/wiki/Wizard_Elriss#Shop) for a total of 60,000 tokens.",
+    "description": "[The Great Orb Project Rewards](https://runescape.wikia.com/wiki/The_Great_Orb_Project#Rewards) are rewards that can be bought with [Runecrafting guild tokens](https://runescape.wikia.com/wiki/Runecrafting_guild_token) that are rewarded by playing the [The Great Orb Project](https://runescape.wikia.com/wiki/The_Great_Orb_Project) minigame, which is located in the [Runecrafting Guild](https://runescape.wikia.com/wiki/Runecrafting_Guild).\n\nThe only permanent reward from The Great Orb Project is the [Master runecrafter robes](https://runescape.wikia.com/wiki/Master_runecrafter_robes), which can be bought for 15,000 Runecrafting guild tokens per piece from [Wizard Elriss](https://runescape.wikia.com/wiki/Wizard_Elriss#Shop) for a total of 60,000 tokens.",
     "color": 10257648,
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/d/d4/Master_runecrafter_robe_detail.png/revision/latest?cb=20121221172642"
@@ -856,7 +864,7 @@ exports.data = {
       },
       {
         "name": "Tips:",
-        "value": "Players may also choose to buy the robes for 500 [Thaler](https://runescape.wikia.com/wiki/Thaler) per piece from [Stanley Limelight Traders](https://runescape.wikia.com/wiki/Stanley_Limelight_Traders) for a total of 2,000 Thaler or 4,000 [Runespan points](https://runescape.wikia.com/wiki/Runespan#Points) per piece from [Wizard Rinsit's Runecrafting Shop](https://runescape.wikia.com/wiki/Wizard_Rinsit%27s_Runecrafting_Shop) for a total of 16,000 Runespan points. And since the pieces are bought seperately, the player can also choose to buy them with a mix of the 3 currencies."
+        "value": "Players may also choose to buy the robes for 500 [Thaler](https://runescape.wikia.com/wiki/Thaler) per piece from [Stanley Limelight Traders](https://runescape.wikia.com/wiki/Stanley_Limelight_Traders) for a total of 2,000 Thaler or 4,000 [Runespan points](https://runescape.wikia.com/wiki/Runespan#Points) per piece from [Wizard Rinsit's Runecrafting Shop](https://runescape.wikia.com/wiki/Wizard_Rinsit%27s_Runecrafting_Shop) for a total of 16,000 Runespan points. Since the pieces are bought seperately, the player can also choose to buy them with a mix of the 3 currencies.\n\nIf the player chooses to buy them with thaler, they may choose to self-assign the <@&446729279149965315> role in the <#465998663710146579> channel. This role can be used to look for afk thaler teams within this server."
       }
     ],
     "footer": {
@@ -871,7 +879,7 @@ exports.data = {
       "name": "True Trimmed Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[A Day at the Mazcab Zoo](https://runescape.wikia.com/wiki/Arod_the_environmentalist) requires the player to help [Arod the environmentalist](https://runescape.wikia.com/wiki/Arod_the_environmentalist), whom can be found in [Otot](https://runescape.wikia.com/wiki/Otot), with catching special creatures on [Mazcab](https://runescape.wikia.com/wiki/Mazcab). The player has to catch the following creatures:\n\n• A [Choloa](https://runescape.wikia.com/wiki/Choloa)\n• A [Kerrit](https://runescape.wikia.com/wiki/Kerrit)\n• A [Popoca](https://runescape.wikia.com/wiki/Popoca)\n• A [Snuffle](https://runescape.wikia.com/wiki/Snuffle)\n\nThe player will be rewarded 1,000 Hunter experience for each creature they bring to Arod. If all 4 creatures are brought to Arod, the prayer is given a 15,000 experience [Hunter lamp](https://runescape.wikia.com/wiki/Hunter_lamp) and 250 [reputation](https://runescape.wikia.com/wiki/Reputation_(Mazcab%29).",
+    "description": "[A Day at the Mazcab Zoo](https://runescape.wikia.com/wiki/Arod_the_environmentalist) requires the player to help [Arod the environmentalist](https://runescape.wikia.com/wiki/Arod_the_environmentalist), whom can be found in [Otot](https://runescape.wikia.com/wiki/Otot), with catching special creatures on [Mazcab](https://runescape.wikia.com/wiki/Mazcab). The player has to catch the following creatures:\n\n• A [Choloa](https://runescape.wikia.com/wiki/Choloa)\n• A [Kerrit](https://runescape.wikia.com/wiki/Kerrit)\n• A [Popoca](https://runescape.wikia.com/wiki/Popoca)\n• A [Snuffle](https://runescape.wikia.com/wiki/Snuffle)\n\nThe player will be rewarded 1,000 Hunter experience for each creature they bring to Arod. If all 4 creatures are brought to Arod, the player is given a 15,000 experience [Hunter lamp](https://runescape.wikia.com/wiki/Hunter_lamp) and 250 [reputation](https://runescape.wikia.com/wiki/Reputation_(Mazcab%29).",
     "color": 10257648,
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/9/92/Arod_the_environmentalist.png"
@@ -892,14 +900,14 @@ exports.data = {
       "name": "True Trimmed Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Combat Academy Graduation](https://runescape.wikia.com/wiki/Combat_Academy#Rewards) requires the player to complete the [Combat Academy](https://runescape.wikia.com/wiki/Combat_Academy) [Courses](https://runescape.wikia.com/wiki/Combat_Academy#Courses) with the [legend rank](https://runescape.wikia.com/wiki/Combat_Academy#Ranks). The combat academy can be found north of the [Lumbridge](https://runescape.wikia.com/wiki/Lumbridge) lodestone.",
+    "description": "[Combat Academy Graduation](https://runescape.wikia.com/wiki/Combat_Academy#Rewards) requires the player to complete the [Combat Academy](https://runescape.wikia.com/wiki/Combat_Academy) [Courses](https://runescape.wikia.com/wiki/Combat_Academy#Courses) with the [legend rank](https://runescape.wikia.com/wiki/Combat_Academy#Ranks). The combat academy can be found north of the [Lumbridge](https://runescape.wikia.com/wiki/Lumbridge) lodestone.\n\nRank is achieved by completing particular outcomes in the courses. The outcomes can be examined from hovering the icons on the interfaces. There are in three-tiers: Champion (a throne), Hero (a star), and Legend (a dragon). If you achieved higher rank, the lower ranks would also be unlocked.",
     "color": 10257648,
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/4/41/Training_dummy.png/revision/latest?cb=20130802204946"
     },
     "fields": [{
       "name": "Guide:",
-      "value": "[Full guide with rank criteria: Introduction to Combat | Runescape Wiki](https://runescape.wikia.com/wiki/Combat_Academy#Introduction_to_Combat)"
+      "value": "• [Full guide with rank criteria: Introduction to Combat | Runescape Wiki](https://runescape.wikia.com/wiki/Combat_Academy#Introduction_to_Combat)"
     }],
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
@@ -913,7 +921,7 @@ exports.data = {
       "name": "True Trimmed Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Crystal Discount](https://runescape.wikia.com/wiki/Crystal_equipment#Enchantment) requires the player to have unlocked the cheapest possible repair cost for their [Crystal equipment](https://runescape.wikia.com/wiki/Crystal_equipment) from either [Eluned](https://runescape.wikia.com/wiki/Eluned) or [Ilfeen](https://runescape.wikia.com/wiki/Ilfeen).\n\nStarting with a repair cost of 1,000,000 coins this cost will go down with 200,000 coins each time the player has their equipment repaired, till it reaches a minimum repair cost of 200,000 coins.",
+    "description": "[Crystal Discount](https://runescape.wikia.com/wiki/Crystal_equipment#Enchantment) requires the player to have unlocked the cheapest possible repair cost for their [Crystal equipment](https://runescape.wikia.com/wiki/Crystal_equipment) from either [Eluned](https://runescape.wikia.com/wiki/Eluned) or [Ilfeen](https://runescape.wikia.com/wiki/Ilfeen).\n\nStarting with a repair cost of 1,000,000 coins, this cost will go down by 200,000 coins each time the player has their equipment repaired, until it reaches a minimum repair cost of 200,000 coins.",
     "color": 10257648,
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/4/44/Crystal_bow_detail.png/revision/latest?cb=20140922225452"
@@ -937,11 +945,11 @@ exports.data = {
     "description": "[Master Quest Cape](https://runescape.wikia.com/wiki/Master_Quest_Cape_(achievement%29) is an achievement that requires the player to complete all [Master Quest Cape achievements](https://runescape.wikia.com/wiki/Master_Quest_Cape_achievements), and obtain the [Master Quest cape](https://runescape.wikia.com/wiki/Master_quest_cape), which can be bought in the [Varrock Museum](https://runescape.wikia.com/wiki/Varrock_Museum) for 120,000 coins from [Curator Haig Halen](https://runescape.wikia.com/wiki/Curator_Haig_Halen) on the ground floor *[UK]*.",
     "color": 10257648,
     "thumbnail": {
-      "url": "https://i.imgur.com/Shmagnp.png"
+      "url": "https://vignette.wikia.nocookie.net/runescape2/images/a/a4/Master_quest_cape_detail.png/revision/latest?cb=20151207224049"
     },
     "fields": [{
       "name": "Requirements:",
-      "value": "• Visit the <#477182379232985108> channel for a full list"
+      "value": "• Visit the <#483714701176602624> channel for a full list"
     }],
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
@@ -954,7 +962,7 @@ exports.data = {
       "name": "True Trimmed Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[No Rest For The Wicked](https://runescape.wikia.com/wiki/Wicked_hood#Upgrading) requires the player to unlock all effects of the [Wicked hood](https://runescape.wikia.com/wiki/Wicked_hood). This can be done by feeding the following items to the wicked hood:\n\n• The [Elemental talisman](https://runescape.wikia.com/wiki/Elemental_talisman)\n• The [Omni-talisman](https://runescape.wikia.com/wiki/Omni-talisman) or the [Omni-tiara](https://runescape.wikia.com/wiki/Omni-tiara)\n\nFeeding the Omni-talisman or tiara will unlock all [Runecrafting altars](https://runescape.wikia.com/wiki/Runecrafting_altar) teleports, with the additional [ability](https://runescape.wikia.com/wiki/Wicked_hood#Abilities) to extract 100 un-noted [Pure essence](https://runescape.wikia.com/wiki/Pure_essence) every day.\n\nFeeding the Elemental talisman unlocks the ability to extract 100 F2P runes or 5 P2P runes twice per day.\n\nFurthermore the wicked hood's effects can be permanently increased by buying the other 3 pieces of the [Wicked robes](https://runescape.wikia.com/wiki/Wicked_robes) for a total of 25,000 [Runespan](https://runescape.wikia.com/wiki/Runespan) points from [Wizard Finix](https://runescape.wikia.com/wiki/Wizard_Finix) at the top of the [Wizards' Tower](https://runescape.wikia.com/wiki/Wizards%27_Tower).",
+    "description": "[No Rest For The Wicked](https://runescape.wikia.com/wiki/Wicked_hood#Upgrading) requires the player to unlock all effects of the [Wicked hood](https://runescape.wikia.com/wiki/Wicked_hood). This can be done by feeding the following items to the wicked hood:\n\n• The [Elemental talisman](https://runescape.wikia.com/wiki/Elemental_talisman)\n• The [Omni-talisman](https://runescape.wikia.com/wiki/Omni-talisman) or the [Omni-tiara](https://runescape.wikia.com/wiki/Omni-tiara)\n\nFeeding the Omni-talisman or tiara will unlock all [Runecrafting altars](https://runescape.wikia.com/wiki/Runecrafting_altar) teleports, with the additional [ability](https://runescape.wikia.com/wiki/Wicked_hood#Abilities) to extract 100 un-noted [Pure essence](https://runescape.wikia.com/wiki/Pure_essence) every day.\n\nFeeding the Elemental talisman unlocks the ability to extract 100 F2P runes or 5 P2P runes twice per day.\n\nFurthermore, the wicked hood's effects can be permanently increased by buying the other 3 pieces of the [Wicked robes](https://runescape.wikia.com/wiki/Wicked_robes) for a total of 25,000 [Runespan](https://runescape.wikia.com/wiki/Runespan) points from [Wizard Finix](https://runescape.wikia.com/wiki/Wizard_Finix) at the top of the [Wizards' Tower](https://runescape.wikia.com/wiki/Wizards%27_Tower).",
     "color": 10257648,
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/3/37/Wicked_hood_detail.png/revision/latest?cb=20120910104217"
@@ -982,7 +990,7 @@ exports.data = {
     },
     "fields": [{
         "name": "Rewards:",
-        "value": "Reaching 200 million experience in a skill will unlock diamond [virtual level icons](https://runescape.wikia.com/wiki/Virtual_levelling#Virtual_level_icons), which can be displayed next to the corresponding skills. The gold virtual level icons are unlocked upon reaching [True skill mastery](https://runescape.wikia.com/wiki/True_skill_mastery) meaning a [virtual level](https://runescape.wikia.com/wiki/Virtual_levelling) of 120 or 150 for [Invention](https://runescape.wikia.com/wiki/Invention)."
+        "value": "Reaching 200 million experience in a skill will unlock diamond [virtual level icons](https://runescape.wikia.com/wiki/Virtual_levelling#Virtual_level_icons), which can be displayed next to the corresponding skills. The gold virtual level icons are unlocked upon reaching [True skill mastery](https://runescape.wikia.com/wiki/True_skill_mastery), meaning a [virtual level](https://runescape.wikia.com/wiki/Virtual_levelling) of 120 for all skills besides [Invention](https://runescape.wikia.com/wiki/Invention), which is capped at 150."
       },
       {
         "name": "Guides:",
@@ -1008,15 +1016,15 @@ exports.data = {
     },
     "fields": [{
         "name": "Filling Up:",
-        "value": "Filling up the tool belts can be done by right clicking the corresponding items and selecting the **add to tool belt** option. The Dungeoneering tool belt will already be filled and can therefore only be upgraded, the normal tool belt will be filled with some basic tools.\n\nSome special tools require the player to either spend extra points or complete certain quests, to obtain them or add them to the tool belt."
+        "value": "Filling up the tool belts can be done by right clicking the corresponding items and selecting the **add to tool belt** option. The Dungeoneering tool belt will already be filled and can therefore only be upgraded. The normal tool belt will be filled with some basic tools.\n\nSome special tools require the player to either spend extra points or complete certain quests to obtain them or add them to the tool belt."
       },
       {
         "name": "General Tools:",
-        "value": "To completely fill up the [general tools](https://runescape.wikia.com/wiki/Tool_belt#General) the player will need to add the following tools:\n\n• [Tongs](https://runescape.wikia.com/wiki/Tongs)\n• [Enhanced grappling hook](https://runescape.wikia.com/wiki/Enhanced_grappling_hook)\n• [Master thief's lockpick](https://runescape.wikia.com/wiki/Master_thief%27s_lockpick)\n• [Master thief's stethoscope](https://runescape.wikia.com/wiki/Master_thief%27s_stethoscope)"
+        "value": "To completely fill up the [general tools](https://runescape.wikia.com/wiki/Tool_belt#General), the player will need to add the following tools:\n\n• [Tongs](https://runescape.wikia.com/wiki/Tongs)\n• [Enhanced grappling hook](https://runescape.wikia.com/wiki/Enhanced_grappling_hook)\n• [Master thief's lockpick](https://runescape.wikia.com/wiki/Master_thief%27s_lockpick)\n• [Master thief's stethoscope](https://runescape.wikia.com/wiki/Master_thief%27s_stethoscope)"
       },
       {
         "name": "Crafting Tools:",
-        "value": "To completely fill up the [crafting tools](https://runescape.wikia.com/wiki/Tool_belt#Crafting) the player will need to add the following tools:\n\n• [Ammo mould](https://runescape.wikia.com/wiki/Ammo_mould)\n• [Bolt mould](https://runescape.wikia.com/wiki/Bolt_mould)\n• [Holy mould](https://runescape.wikia.com/wiki/Holy_mould)\n• [Unholy mould](https://runescape.wikia.com/wiki/Unholy_mould)\n• [Sickle mould](https://runescape.wikia.com/wiki/Sickle_mould)\n• [Chain link mould](https://runescape.wikia.com/wiki/Chain_link_mould)\n• [Rod clay mould](https://runescape.wikia.com/wiki/Rod_clay_mould)\n• [Ammo mould](https://runescape.wikia.com/wiki/Ammo_mould)"
+        "value": "To completely fill up the [crafting tools](https://runescape.wikia.com/wiki/Tool_belt#Crafting), the player will need to add the following tools:\n\n• [Ammo mould](https://runescape.wikia.com/wiki/Ammo_mould)\n• [Bolt mould](https://runescape.wikia.com/wiki/Bolt_mould)\n• [Holy mould](https://runescape.wikia.com/wiki/Holy_mould)\n• [Unholy mould](https://runescape.wikia.com/wiki/Unholy_mould)\n• [Sickle mould](https://runescape.wikia.com/wiki/Sickle_mould)\n• [Chain link mould](https://runescape.wikia.com/wiki/Chain_link_mould)\n• [Rod clay mould](https://runescape.wikia.com/wiki/Rod_clay_mould)\n• [Ammo mould](https://runescape.wikia.com/wiki/Ammo_mould)"
       },
       {
         "name": "Farming Tools:",
@@ -1024,7 +1032,7 @@ exports.data = {
       },
       {
         "name": "Slayer Tools:",
-        "value": "To completely fill up the [slayer tools](https://runescape.wikia.com/wiki/Tool_belt#Slayer) the player will need to add the following tools:\n\n• [Rock hammer](https://runescape.wikia.com/wiki/Rock_hammer)\n• [Salt shaker](https://runescape.wikia.com/wiki/Salt_shaker)\n• [Ice shaker](https://runescape.wikia.com/wiki/Ice_shaker)\n• [Fungicide shaker](https://runescape.wikia.com/wiki/Fungicide_shaker)\n• [Explosive shaker](https://runescape.wikia.com/wiki/Explosive_shaker)\n• [Slayer bell](https://runescape.wikia.com/wiki/Slayer_bell)\n• [Crystal chime](https://runescape.wikia.com/wiki/Crystal_chime)\n• [Ouroboros pouch](https://runescape.wikia.com/wiki/Ouroboros_pouch)\n• [Bonecrusher](https://runescape.wikia.com/wiki/Bonecrusher)\n• [Seedicide](https://runescape.wikia.com/wiki/Seedicide)\n• [Charming imp](https://runescape.wikia.com/wiki/Charming_imp)\n• [Herbicide](https://runescape.wikia.com/wiki/Herbicide)\n• [Advanced gold accumulator](https://runescape.wikia.com/wiki/Advanced_gold_accumulator)"
+        "value": "To completely fill up the [slayer tools](https://runescape.wikia.com/wiki/Tool_belt#Slayer), the player will need to add the following tools:\n\n• [Rock hammer](https://runescape.wikia.com/wiki/Rock_hammer)\n• [Salt shaker](https://runescape.wikia.com/wiki/Salt_shaker)\n• [Ice shaker](https://runescape.wikia.com/wiki/Ice_shaker)\n• [Fungicide shaker](https://runescape.wikia.com/wiki/Fungicide_shaker)\n• [Explosive shaker](https://runescape.wikia.com/wiki/Explosive_shaker)\n• [Slayer bell](https://runescape.wikia.com/wiki/Slayer_bell)\n• [Crystal chime](https://runescape.wikia.com/wiki/Crystal_chime)\n• [Ouroboros pouch](https://runescape.wikia.com/wiki/Ouroboros_pouch)\n• [Bonecrusher](https://runescape.wikia.com/wiki/Bonecrusher)\n• [Seedicide](https://runescape.wikia.com/wiki/Seedicide)\n• [Charming imp](https://runescape.wikia.com/wiki/Charming_imp)\n• [Herbicide](https://runescape.wikia.com/wiki/Herbicide)\n• [Advanced gold accumulator](https://runescape.wikia.com/wiki/Advanced_gold_accumulator)"
       },
       {
         "name": "Requirements for Filling Up:",
@@ -1050,11 +1058,11 @@ exports.data = {
     "description": "[Trimmed Completionist Cape](https://runescape.wikia.com/wiki/Trimmed_Completionist_Cape_(achievement%29) is an achievement that requires the player to complete all [Trimmed Completionist Cape achievements](https://runescape.wikia.com/wiki/Trimmed_Completionist_Cape_achievements), and obtain the [Trimmed Completionist cape](https://runescape.wikia.com/wiki/Completionist_cape_(t%29), which can be bought in the [Varrock Museum](https://runescape.wikia.com/wiki/Varrock_Museum) for 5,000,000 coins from the [museum guard](https://runescape.wikia.com/wiki/Museum_guard) on the top floor.",
     "color": 10257648,
     "thumbnail": {
-      "url": "https://i.imgur.com/Shmagnp.png"
+      "url": "https://vignette.wikia.nocookie.net/runescape2/images/5/52/Completionist_cape_%28t%29_detail.png/revision/latest?cb=20130110095656"
     },
     "fields": [{
       "name": "Requirements:",
-      "value": "• Visit the <#412093678283128863> channel for a full list"
+      "value": "• Visit the <#483760581183275008> channel for a full list"
     }],
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
@@ -1067,10 +1075,10 @@ exports.data = {
       "name": "True Trimmed Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[True Achievement Master](https://runescape.wikia.com/wiki/Achievements) requires the player to complete all the [achievements](https://runescape.wikia.com/wiki/Achievements) including the hidden achievements, which include 31 [Feats achievements](https://runescape.wikia.com/wiki/Feats_achievements) and the [A Brief History of Telescopes](https://runescape.wikia.com/wiki/A_Brief_History_of_Telescopes) achievement, which is also hidden untill completed but instead is listed under the [Miniquests achievements](https://runescape.wikia.com/wiki/Miniquests_achievements) category.",
+    "description": "[True Achievement Master](https://runescape.wikia.com/wiki/Achievements) requires the player to complete all the [achievements](https://runescape.wikia.com/wiki/Achievements), including the hidden achievements. Hidden achievements include 32 [Feats achievements](https://runescape.wikia.com/wiki/Feats_achievements), 1- [farming](https://runescape.wikia.com/wiki/Player-owned_farm) and the [A Brief History of Telescopes](https://runescape.wikia.com/wiki/A_Brief_History_of_Telescopes) achievement, which is also hidden untill completed but instead is listed under the [Miniquests achievements](https://runescape.wikia.com/wiki/Miniquests_achievements) category.",
     "color": 10257648,
     "thumbnail": {
-      "url": "https://i.imgur.com/Shmagnp.png"
+      "url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png/revision/latest?cb=20170902033715"
     },
     "fields": [{
         "name": "Rewards:",
@@ -1093,7 +1101,7 @@ exports.data = {
       "name": "True Trimmed Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Way Down The Nexus Goes](https://runescape.wikia.com/wiki/The_Nexus#Tactic) requires the player the recieve the maximum amount of 37,224 Prayer experience from helping [Ysondria](https://runescape.wikia.com/wiki/Ysondria) fight off the [Grotesque](https://runescape.wikia.com/wiki/Grotesque) in the [Lumbridge Swamp](https://runescape.wikia.com/wiki/Lumbridge_Swamp).\n\nOnce the player has recieved the maximum amount of Prayer experience they will no longer be able to interact with the Nexus.",
+    "description": "[Way Down The Nexus Goes](https://runescape.wikia.com/wiki/The_Nexus#Tactic) requires the player the recieve the maximum amount of 37,224 Prayer experience from helping [Ysondria](https://runescape.wikia.com/wiki/Ysondria) fight off the [Grotesque](https://runescape.wikia.com/wiki/Grotesque) in the [Lumbridge Swamp](https://runescape.wikia.com/wiki/Lumbridge_Swamp).\n\nOnce the player has recieved the maximum amount of Prayer experience, they will no longer be able to interact with the Nexus.",
     "color": 10257648,
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/2/2f/Grotesque_bones_detail.png/revision/latest?cb=20130513215909"
@@ -1119,7 +1127,7 @@ exports.data = {
       "name": "True Trimmed Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[A Knight's Last Breath](https://runescape.wikia.com/wiki/Knight%27s_notes) requires the player to deliver [A dying Knight](https://runescape.wikia.com/wiki/Knight_(Sir_Gerry%29)'s [letter](https://runescape.wikia.com/wiki/Knight%27s_notes) to [Sir Tiffy Cashien](https://runescape.wikia.com/wiki/Sir_Tiffy_Cashien) in [Falador](https://runescape.wikia.com/wiki/Falador) park.",
+    "description": "[A Knight's Last Breath](https://runescape.wikia.com/wiki/Knight%27s_notes) requires the player to deliver [A dying Knight](https://runescape.wikia.com/wiki/Knight_(Sir_Gerry%29)'s [letter](https://runescape.wikia.com/wiki/Knight%27s_notes) to [Sir Tiffy Cashien](https://runescape.wikia.com/wiki/Sir_Tiffy_Cashien) in [Falador](https://runescape.wikia.com/wiki/Falador) park.\n\nKnight's notes are given by the dying knight outside the [God Wars Dungeon](https://runescape.wikia.com/wiki/God_Wars_Dungeon). [Sir Gerry](https://runescape.wikia.com/wiki/Sir_Gerry) asks you to take it and asks you not to read it. However, the seal can be [broken](https://runescape.wikia.com/wiki/Knight%27s_notes_(opened) to read the notes.",
     "color": 10257648,
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/d/d1/Sir_Tiffy_Cashien.png/revision/latest?cb=20151019164351"
@@ -1182,12 +1190,24 @@ exports.data = {
       "name": "True Trimmed Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Awowogei's Ice Cream Business](https://runescape.wikia.com/wiki/Chimp_ice#Rewards) requires the player to bring a total of 100 [Chimp ice creams](https://runescape.wikia.com/wiki/Chimp_ice) from the [Chimp ice chimp](https://runescape.wikia.com/wiki/Chimp_ice_chimp), whom can be found in the [Monkey colony](https://runescape.wikia.com/wiki/Monkey_colony), to [King Awowogei](https://runescape.wikia.com/wiki/Awowogei) on [Ape Atoll](https://runescape.wikia.com/wiki/Ape_Atoll).",
+    "description": "[Awowogei's Ice Cream Business](https://runescape.wikia.com/wiki/Chimp_ice#Rewards) requires the player to complete a total of 100 [chimp ice](https://runescape.wikia.com/wiki/Chimp_ice) deliveries, buying them from the [Chimp Ice Chimp](https://runescape.wikia.com/wiki/Chimp_ice_chimp) in the [Monkey Colony](https://runescape.wikia.com/wiki/Monkey_colony) in the [Kharidian Desert](https://runescape.wikia.com/wiki/Kharidian_Desert) and delivering them to [Awowogei](https://runescape.wikia.com/wiki/Awowogei) on [Ape Atoll](https://runescape.wikia.com/wiki/Ape_Atoll).\n\nThe use of a [Chimp ice enhancer](https://runescape.wikia.com/wiki/Chimp_ice_enhancer) will double the length of the chimp ice being frozen by an ice spell. Ensure you at least use your Chimp ice enhancer on every 5th run when the melting speed is increased.",
     "color": 10257648,
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/a/ae/Chimp_ice_detail.png/revision/latest?cb=20111119024008"
     },
     "fields": [{
+          "name": "Teleportation:",
+          "value": "The use of any magic-based [transportation](https://runescape.wikia.com/wiki/Transportation) results in the Chimp ice melting instantly. Allowed relevant methods of transportation include:\n• [Magic carpet](https://runescape.wikia.com/wiki/Magic_carpet)\n• [Charter ship](https://runescape.wikia.com/wiki/Charter_ship)\n• [Balloon transport system](https://runescape.wikia.com/wiki/Balloon_transport_system)\n• [Eagle transport system](https://runescape.wikia.com/wiki/Eagle_transport_system)\n• [Shantay arrest](https://runescape.wikia.com/wiki/Shantay)\n• [Daemonheim boat](https://runescape.wikia.com/wiki/Daemonheim) ([Lumbridge Swamp](https://runescape.wikia.com/wiki/Lumbridge_Swamp), [Al Kharid](https://runescape.wikia.com/wiki/Al_Kharid), and [Taverley](https://runescape.wikia.com/wiki/Taverley))\n\n[Gnome gliders](https://runescape.wikia.com/wiki/Gnome_glider) cannot be used, as a cloud of \"volcanic ash\" will be over [Karamja](https://runescape.wikia.com/wiki/Karamja) during the activity."
+        },
+        {
+          "name": "Tips:",
+          "value": "In order to freeze the treat, left-click on the chimp ice then select an [ice spell](https://runescape.wikia.com/wiki/Ice_spells) and use it on the treat. The [Wicked pouch](https://runescape.wikia.com/wiki/Wicked_pouch) cannot be used instead of runes.\n\nFreezing the chimp ice resets the duration according to the type of spell cast; it does not add excess time. [Ice Barrage](https://runescape.wikia.com/wiki/Ice_Barrage) (94) will reset the timer of the chimp ice from melting to approximately 1 minute, [Ice Burst](https://runescape.wikia.com/wiki/Ice_Burst) (70) will reset the ice to about 45 seconds. [Ice Blitz](https://runescape.wikia.com/wiki/Ice_Blitz) (82) will keep it frozen for about 35 seconds, and [Ice Rush](https://runescape.wikia.com/wiki/Ice_Rush) (58) will reset the chimp ice to a default of 25 seconds.\n\nBe aware every 5th Chimp Ice bought from the Chimp Ice Chimp lasts only half the time. Preceded with the message \"I'd eat that one extra quick. I left that one out in the sun.\" upon purchase."
+        },
+        {
+          "name": "​",
+          "value": "You will be warned with a red message in your chatbox of the status of your chimp ice.\n\t• 20 seconds before melting, you will receive the message, \"Your chimp ice is beginning to melt.\"\n\t• 10 seconds before melting, you will receive the message, \"Your chimp ice has nearly melted.\"\n\t• When your chimp ice melts, you will receive the message, \"Your chimp ice has melted.\"\n\nIt is useful to note that the chimp ice will not melt when using a bank, the world map, transportation such as carpets and eagles, and when talking to NPCs. Also a dripping sound will play every few seconds if it's melting."
+        },
+        {
         "name": "Requirements:",
         "value": "• Do No Evil Quest partial completion | [Runescape Wiki](https://runescape.wikia.com/wiki/Do_No_Evil)"
       },
@@ -1229,7 +1249,7 @@ exports.data = {
       "name": "True Trimmed Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Gift From Bunkdo](https://runescape.wikia.com/wiki/Stuffed_monkey#Trivia) requires the player to have recieved the one-time reward from [Bunkdo](https://runescape.wikia.com/wiki/Bunkdo), after being caught 100 times by the [monkey guards](https://runescape.wikia.com/wiki/Monkey_Guard_(ninja%29) on [Ape Atoll](https://runescape.wikia.com/wiki/Ape_Atoll).",
+    "description": "[Gift From Bunkdo](https://runescape.wikia.com/wiki/Stuffed_monkey#Trivia) requires the player to have recieved the one-time reward from [Bunkdo](https://runescape.wikia.com/wiki/Bunkdo), after being caught 100 times by the [monkey guards](https://runescape.wikia.com/wiki/Monkey_Guard_(ninja%29) on [Ape Atoll](https://runescape.wikia.com/wiki/Ape_Atoll).\n\nAfter getting caught 100 times, Lumo will ask him if he should give you a prize and you will receive a [stuffed monkey](https://runescape.wikia.com/wiki/Stuffed_monkey).",
     "color": 10257648,
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/5/54/Stuffed_monkey_detail.png/revision/latest?cb=20121124144624"
@@ -1297,7 +1317,7 @@ exports.data = {
       "name": "True Trimmed Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Jadinko's Emergency Exit](https://runescape.wikia.com/wiki/Jadinko_Lair#Getting_there) requires the player to clear the shortcut inside the [Jadinko Lair](https://runescape.wikia.com/wiki/Jadinko_Lair), just west of the [Jadinko Queen](https://runescape.wikia.com/wiki/Jadinko_Queen). To get here the player first has to talk to [Dotmatrix](https://runescape.wikia.com/wiki/Dotmatrix), just north of [Herblore Habitat](https://runescape.wikia.com/wiki/Herblore_Habitat).",
+    "description": "[Jadinko's Emergency Exit](https://runescape.wikia.com/wiki/Jadinko_Lair#Getting_there) requires the player to clear the shortcut inside the [Jadinko Lair](https://runescape.wikia.com/wiki/Jadinko_Lair), just west of the [Jadinko Queen](https://runescape.wikia.com/wiki/Jadinko_Queen). To get here, the player first has to talk to [Dotmatrix](https://runescape.wikia.com/wiki/Dotmatrix), just north of [Herblore Habitat](https://runescape.wikia.com/wiki/Herblore_Habitat).",
     "color": 10257648,
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/d/dd/Dotmatrix.png/revision/latest?cb=20170911233308"
@@ -1325,7 +1345,7 @@ exports.data = {
     },
     "fields": [{
       "name": "Tips:",
-      "value": "It's highly recommended that the player brings food if they are lower level, as the [Kalphites](https://runescape.wikia.com/wiki/Exiled_Kalphite_Hive#Inhabitants) will attack and sometimes poison the player."
+      "value": "It's highly recommended that the player brings food if they are lower level, as the [Kalphites](https://runescape.wikia.com/wiki/Exiled_Kalphite_Hive#Inhabitants) will attack and sometimes [poison](http://runescape.wikia.com/wiki/Poison) the player."
     }],
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
@@ -1339,7 +1359,7 @@ exports.data = {
       "name": "True Trimmed Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Klenter's Ghost's Past](https://runescape.wikia.com/wiki/Klenter%27s_Pyramid) requires the player to help [Klenter](https://runescape.wikia.com/wiki/Klenter)'s ghost move on. After completing the Icthlarin's Little Helper quest, the player can talk to Klenter, with their [Ghostspeak amulet](https://runescape.wikia.com/wiki/Ghostspeak_amulet), causing Klenter to dissapear.\n\nKlenter's ghost can be found in front of the [cat-door pyramid](https://runescape.wikia.com/wiki/Klenter%27s_Pyramid) in [Sophanem](https://runescape.wikia.com/wiki/Sophanem).",
+    "description": "[Klenter's Ghost's Past](https://runescape.wikia.com/wiki/Klenter%27s_Pyramid) requires the player to help [Klenter](https://runescape.wikia.com/wiki/Klenter)'s ghost move on. After completing the [Icthlarin's Little Helper](http://runescape.wikia.com/wiki/Icthlarin%27s_Little_Helper) quest, the player can talk to Klenter, with their [Ghostspeak amulet](https://runescape.wikia.com/wiki/Ghostspeak_amulet), causing Klenter to dissapear.\n\nKlenter's ghost can be found in front of the [cat-door pyramid](https://runescape.wikia.com/wiki/Klenter%27s_Pyramid) in [Sophanem](https://runescape.wikia.com/wiki/Sophanem).",
     "color": 10257648,
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/1/18/Klenter.png/revision/latest?cb=20170529172112"
@@ -1360,7 +1380,7 @@ exports.data = {
       "name": "True Trimmed Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Longramble's Long Lost Delivery](https://runescape.wikia.com/wiki/Longramble) requires the player to deliver the long standing food order from [Aluft Gianne Jr](https://runescape.wikia.com/wiki/Gianne_Jnr) of some [Tangled toad's legs](https://runescape.wikia.com/wiki/Tangled_toad%27s_legs) to [Longramble](https://runescape.wikia.com/wiki/Longramble), whom can be found east of the [Poison Waste](https://runescape.wikia.com/wiki/Poison_Waste), in return the player will recieve a single [mint cake](https://runescape.wikia.com/wiki/Mint_cake).",
+    "description": "[Longramble's Long Lost Delivery](https://runescape.wikia.com/wiki/Longramble) requires the player to deliver the long standing food order from [Aluft Gianne Jr](https://runescape.wikia.com/wiki/Gianne_Jnr) of some [Tangled toad's legs](https://runescape.wikia.com/wiki/Tangled_toad%27s_legs) to [Longramble](https://runescape.wikia.com/wiki/Longramble), whom can be found east of the [Poison Waste](https://runescape.wikia.com/wiki/Poison_Waste). In return, the player will recieve a single [mint cake](https://runescape.wikia.com/wiki/Mint_cake).",
     "color": 10257648,
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/9/92/Longramble.png/revision/latest?cb=20130410201048"
@@ -1402,7 +1422,7 @@ exports.data = {
       "name": "True Trimmed Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Ozan's Big Escape](https://runescape.wikia.com/wiki/Ozan#One-Time) requires the player to help [Ozan](https://runescape.wikia.com/wiki/Ozan) escape from his arrest by one of the [Varrock guards](https://runescape.wikia.com/wiki/Guard#Varrock), they can be found just north west of the fountain in [Varrock Square](https://runescape.wikia.com/wiki/Varrock_Square). Talking to either the guard or Ozan will result in Ozan escaping.",
+    "description": "[Ozan's Big Escape](https://runescape.wikia.com/wiki/Ozan#One-Time) requires the player to help [Ozan](https://runescape.wikia.com/wiki/Ozan) escape from his arrest by one of the [Varrock guards](https://runescape.wikia.com/wiki/Guard#Varrock). They can be found just north west of the fountain in [Varrock Square](https://runescape.wikia.com/wiki/Varrock_Square). Talking to either the guard or Ozan will result in Ozan escaping.",
     "color": 10257648,
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e3/Ozan.png/revision/latest?cb=20160709160720"
@@ -1445,7 +1465,7 @@ exports.data = {
       "name": "True Trimmed Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Two-Way Shortcut](https://runescape.wikia.com/wiki/Mos_Le%27Harmless#Notable_features) requires the player to repair the bridges between [Mos Le'Harmless](https://runescape.wikia.com/wiki/Mos_Le%27Harmless) and [K'Chunk](https://runescape.wikia.com/wiki/K%27Chunk)'s island. The bridges have to be repaired from both sides, therefore the player needs access to the [Fairy ring](https://runescape.wikia.com/wiki/Fairy_ring) with the code: **d•i•p**.",
+    "description": "[Two-Way Shortcut](https://runescape.wikia.com/wiki/Mos_Le%27Harmless#Notable_features) requires the player to repair the bridges between [Mos Le'Harmless](https://runescape.wikia.com/wiki/Mos_Le%27Harmless) and [K'Chunk](https://runescape.wikia.com/wiki/K%27Chunk)'s island. The bridges have to be repaired from both sides. Therefore, the player needs access to the [Fairy ring](https://runescape.wikia.com/wiki/Fairy_ring) with the code: **d•i•p**.",
     "color": 10257648,
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/3/3d/K%27chunk.png/revision/latest?cb=20130420094801"
@@ -1466,7 +1486,7 @@ exports.data = {
       "name": "True Trimmed Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Velrak's Escape Plans](https://runescape.wikia.com/wiki/Velrak_the_explorer) requires the player to help [Velrak the explorer](https://runescape.wikia.com/wiki/Velrak_the_explorer) escape from the prison in [Black Knights' Base](https://runescape.wikia.com/wiki/Black_Knights%27_Base), which is located in the far south of the [Taverley Dungeon](https://runescape.wikia.com/wiki/Taverley_Dungeon). The player will need a [Jail key](https://runescape.wikia.com/wiki/Jail_key) to open his cell, which can be obtained from killing the [Jailer](https://runescape.wikia.com/wiki/Jailer).",
+    "description": "[Velrak's Escape Plans](https://runescape.wikia.com/wiki/Velrak_the_explorer) requires the player to help [Velrak the explorer](https://runescape.wikia.com/wiki/Velrak_the_explorer) escape from the prison in [Black Knights' Base](https://runescape.wikia.com/wiki/Black_Knights%27_Base), which is located in the far south of the [Taverley Dungeon](https://runescape.wikia.com/wiki/Taverley_Dungeon). The player will need a [Jail key](https://runescape.wikia.com/wiki/Jail_key) to open his cell, which can be obtained from killing the [Jailer](https://runescape.wikia.com/wiki/Jailer).\n\nUse the key on the door. If he is then asked if there are any good places to explore, he will provide the [dusty key](https://runescape.wikia.com/wiki/Dusty_key).",
     "color": 10257648,
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/5/57/Velrak_the_explorer.png/revision/latest?cb=20170909120543"
@@ -1483,7 +1503,7 @@ exports.data = {
       "name": "True Trimmed Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[What Are Those?!](https://runescape.wikia.com/wiki/Swanky_boots) requires the player to exhaust [Dororan](https://runescape.wikia.com/wiki/Dororan)'s supply of free [Swanky boots](https://runescape.wikia.com/wiki/Swanky_boots). After exhausting the free supply, which consists out of 11 pair of boots, it is still possible to obtain more pairs, but the player will be asked to exchange them for a [Ruby ring](https://runescape.wikia.com/wiki/Ruby_ring).",
+    "description": "[What Are Those?!](https://runescape.wikia.com/wiki/Swanky_boots) requires the player to exhaust [Dororan](https://runescape.wikia.com/wiki/Dororan)'s supply of free [Swanky boots](https://runescape.wikia.com/wiki/Swanky_boots).\n\nAfter exhausting the free supply, which consists of 11 pair of boots, it is still possible to obtain more pairs, but the player will be asked to exchange them for a [Ruby ring](https://runescape.wikia.com/wiki/Ruby_ring).\n\nDororan is located at the gate of [Gunnarsgrunn](https://runescape.wikia.com/wiki/Gunnarsgrunn).",
     "color": 10257648,
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/9/9f/Swanky_boots_detail.png/revision/latest?cb=20120811052305"
@@ -1504,7 +1524,7 @@ exports.data = {
       "name": "True Trimmed Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[What Silver Rock?](https://runescape.wikia.com/wiki/Exhausted_silver_rock) requires the player to mine a specific [silver ore rock](https://runescape.wikia.com/wiki/Silver_ore_rocks) in the [Al Kharid mining site](https://runescape.wikia.com/wiki/Al_Kharid_mining_site), which after being mined will no longer replenish the rock.",
+    "description": "[What Silver Rock?](https://runescape.wikia.com/wiki/Exhausted_silver_rock) requires the player to mine a specific [silver ore rock](https://runescape.wikia.com/wiki/Silver_ore_rocks) in the [Al Kharid mining site](https://runescape.wikia.com/wiki/Al_Kharid_mining_site), which, after being mined, will no longer have its vein of ore replenished.",
     "color": 10257648,
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/8/86/Exhausted_silver_rock.png/revision/latest?cb=20160123182123"
@@ -1551,7 +1571,7 @@ exports.data = {
       "name": "True Trimmed Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Mambo's Potion](https://runescape.wikia.com/wiki/Mambo%27s_potion) will be given to the player after talking to [Pauline Polaris](https://runescape.wikia.com/wiki/Pauline_Polaris), whom can be found at the [Livid Farm](https://runescape.wikia.com/wiki/Livid_Farm), on [Lunar Isle](https://runescape.wikia.com/wiki/Lunar_Isle), while wearing the [Witchdoctor camouflage gear](https://runescape.wikia.com/wiki/Witchdoctor_camouflage_gear), which can be obtained from [Papa Mambo](https://runescape.wikia.com/wiki/Papa_Mambo) at [Herblore Habitat](https://runescape.wikia.com/wiki/Herblore_Habitat), when the player has caught certain [Jadinkos](https://runescape.wikia.com/wiki/Jadinko). Drinking the potion will reward the player with 3,000 Farming experience.",
+    "description": "[Mambo's Potion](https://runescape.wikia.com/wiki/Mambo%27s_potion) will be given to the player after talking to [Pauline Polaris](https://runescape.wikia.com/wiki/Pauline_Polaris), whom can be found at the [Livid Farm](https://runescape.wikia.com/wiki/Livid_Farm) on [Lunar Isle](https://runescape.wikia.com/wiki/Lunar_Isle), while wearing the [Witchdoctor camouflage gear](https://runescape.wikia.com/wiki/Witchdoctor_camouflage_gear).\n\nThe Witchdoctor camouflage gear can be obtained from [Papa Mambo](https://runescape.wikia.com/wiki/Papa_Mambo) at [Herblore Habitat](https://runescape.wikia.com/wiki/Herblore_Habitat) when the player has caught certain [Jadinkos](https://runescape.wikia.com/wiki/Jadinko). Drinking the potion will reward the player with 3,000 Farming experience.",
     "color": 10257648,
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/2/2e/Mambo%27s_potion_detail.png/revision/latest?cb=20120922194648&format=original"
@@ -1572,7 +1592,7 @@ exports.data = {
       "name": "True Trimmed Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Surface Dungeoneering](https://runescape.wikia.com/wiki/Resource_dungeon) requires the player to have recieved the total amount of 247,600 one-time [Dungeoneering](https://runescape.wikia.com/wiki/Dungeoneering) experience rewards from entering all the [resource dungeons](https://runescape.wikia.com/wiki/Resource_dungeon). The following 2 dungeons won't reward the player with experience upon entering, but instead reward it after the completion of a quest:\n\n• [Braindeath Island 'Rum'-geon](https://runescape.wikia.com/wiki/Braindeath_Island_%27Rum%27-geon)\n• [Dragontooth Island resource dungeon](https://runescape.wikia.com/wiki/Dragontooth_Island_resource_dungeon)",
+    "description": "[Surface Dungeoneering](https://runescape.wikia.com/wiki/Resource_dungeon) requires the player to have recieved the total amount of 247,600 one-time [Dungeoneering](https://runescape.wikia.com/wiki/Dungeoneering) experience rewards from entering all the [resource dungeons](https://runescape.wikia.com/wiki/Resource_dungeon). The following 2 dungeons won't reward the player with experience upon entering, but instead will reward it after the completion of a quest:\n\n• [Braindeath Island 'Rum'-geon](https://runescape.wikia.com/wiki/Braindeath_Island_%27Rum%27-geon)\n• [Dragontooth Island resource dungeon](https://runescape.wikia.com/wiki/Dragontooth_Island_resource_dungeon)",
     "color": 10257648,
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/3/31/Teleporting_resource_dungeon.png/revision/latest?cb=20100730144530"
@@ -1583,7 +1603,83 @@ exports.data = {
       },
       {
         "name": "Locations:",
-        "value": "[A full list with all Resource dungeon locations | Runescape Wiki](https://runescape.wikia.com/wiki/Resource_dungeon#Dungeons)"
+        "value": "[Edgeville Dungeon (Chaos druid)](https://runescape.wikia.com/wiki/Edgeville_Dungeon_chaos_druids_dungeon)\n\t• [Image](https://vignette.wikia.nocookie.net/runescape2/images/3/31/Edgeville_Dungeon_chaos_druids_dungeon_entrance_location.png/revision/latest?cb=20170324204719)"
+      },
+      {
+        "name": "​",
+        "value": "[Dwarven Mine](https://runescape.wikia.com/wiki/Dwarven_Mine_hidden_mine)\n\t• [Image](https://vignette.wikia.nocookie.net/runescape2/images/8/83/Dwarven_Mine_hidden_mine_entrance_location.png/revision/latest?cb=20170324204156)"
+      },
+      {
+        "name": "​",
+        "value": "[Edgeville Dungeon (Hill giant)](https://runescape.wikia.com/wiki/Edgeville_Dungeon_hill_giant_resource_dungeon)\n\t• [Image](https://vignette.wikia.nocookie.net/runescape2/images/b/b7/Edgeville_Dungeon_hill_giant_resource_dungeon_entrance_location.png/revision/latest/scale-to-width-down/150?cb=20170324205211)"
+      },
+      {
+        "name": "​",
+        "value": "[Karamja Volcano](https://runescape.wikia.com/wiki/Karamja_Volcano_resource_dungeon)\n\t• [Image](https://vignette.wikia.nocookie.net/runescape2/images/8/80/Karamja_Volcano_resource_dungeon_entrance_location.png/revision/latest/scale-to-width-down/150?cb=20170330155242)"
+      },
+      {
+        "name": "​",
+        "value": "[Daemonheim Peninsula](https://runescape.wikia.com/wiki/Daemonheim_Peninsula_resource_dungeon)\n\t• [Image](https://vignette.wikia.nocookie.net/runescape2/images/1/1b/Daemonheim_Peninsula_resource_dungeon_entrance_location.png/revision/latest/scale-to-width-down/150?cb=20140923115420)"
+      },
+      {
+        "name": "​",
+        "value": "[Baxtorian Falls](https://runescape.wikia.com/wiki/Baxtorian_Falls_resource_dungeon)\n\t• [Image](https://vignette.wikia.nocookie.net/runescape2/images/3/3b/Baxtorian_Falls_resource_dungeon_entrance_location.png/revision/latest/scale-to-width-down/150?cb=20170318153355)"
+      },
+      {
+        "name": "​",
+        "value": "[Mining Guild](https://runescape.wikia.com/wiki/Mining_Guild_resource_dungeon)\n\t• [Image](https://vignette.wikia.nocookie.net/runescape2/images/a/ae/Mining_Guild_resource_dungeon_entrance_location.png/revision/latest?cb=20170412181015)"
+      },
+      {
+        "name": "​",
+        "value": "[Braindeath Island](https://runescape.wikia.com/wiki/Braindeath_Island_%27Rum%27-geon)\n\t• [Image](https://vignette.wikia.nocookie.net/runescape2/images/e/e5/Braindeath_Island_%27Rum%27-geon_entrance_location.png/revision/latest/scale-to-width-down/150?cb=20170405163227)"
+      },
+      {
+        "name": "​",
+        "value": "[Taverley Dungeon (Hellhound)](https://runescape.wikia.com/wiki/Taverley_Dungeon_Hellhound_resource_dungeon)\n\t• [Image](https://vignette.wikia.nocookie.net/runescape2/images/8/80/Taverley_hellhound_resource_dungeon_entrance_location.png/revision/latest/scale-to-width-down/150?cb=20170411110936)"
+      },
+      {
+        "name": "​",
+        "value": "[Taverley Dungeon (Blue dragon)](https://runescape.wikia.com/wiki/Taverley_blue_dragon_resource_dungeon)\n\t• [Image](https://vignette.wikia.nocookie.net/runescape2/images/e/e0/Taverley_blue_dragon_resource_dungeon_entrance_location.png/revision/latest/scale-to-width-down/150?cb=20170411110414)"
+      },
+      {
+        "name": "​",
+        "value": "[Varrock Sewers](https://runescape.wikia.com/wiki/Varrock_Sewers_resource_dungeon)\n\t• [Image](https://vignette.wikia.nocookie.net/runescape2/images/d/d0/Varrock_Sewers_resource_dungeon_entrance_location.png/revision/latest?cb=20170418173845)"
+      },
+      {
+        "name": "​",
+        "value": "[Dragontooth Island](https://runescape.wikia.com/wiki/Dragontooth_Island_resource_dungeon)\n\t• [Image](https://vignette.wikia.nocookie.net/runescape2/images/4/4c/Dragontooth_Island_resource_dungeon_entrance_location.png/revision/latest/scale-to-width-down/150?cb=20171028125748)"
+      },
+      {
+        "name": "​",
+        "value": "[Chaos Tunnels](https://runescape.wikia.com/wiki/Chaos_Tunnels_resource_dungeon)\n\t• [Image](https://vignette.wikia.nocookie.net/runescape2/images/c/cb/Chaos_Tunnels_resource_dungeon_entrance_location.png/revision/latest?cb=20170321181722)"
+      },
+      {
+        "name": "​",
+        "value": "[Al Kharid](https://runescape.wikia.com/wiki/Al_Kharid_mining_site_resource_dungeon)\n\t• [Image](https://vignette.wikia.nocookie.net/runescape2/images/1/15/Al_Kharid_mining_site_resource_dungeon_entrance_location.png/revision/latest?cb=20141210070926)"
+      },
+      {
+        "name": "​",
+        "value": "[Brimhaven Dungeon](https://runescape.wikia.com/wiki/Brimhaven_Dungeon_resource_dungeon)\n\t• [Image](https://vignette.wikia.nocookie.net/runescape2/images/7/73/Brimhaven_Dungeon_resource_dungeon_entrance_location.png/revision/latest?cb=20170322184147)"
+      },
+      {
+        "name": "​",
+        "value": "[Polypore Dungeon](https://runescape.wikia.com/wiki/Polypore_Dungeon_resource_dungeon)\n\t• [Image](https://vignette.wikia.nocookie.net/runescape2/images/e/e8/Polypore_Dungeon_resource_dungeon_entrance_location.png/revision/latest?cb=20170401181438)"
+      },
+      {
+        "name": "​",
+        "value": "[Asgarnian Ice Dungeon](https://runescape.wikia.com/wiki/Asgarnian_Ice_Dungeon_resource_dungeon)\n\t• [Image](https://vignette.wikia.nocookie.net/runescape2/images/b/b3/Asgarnian_Ice_Dungeon_resource_dungeon_entrance_location.png/revision/latest?cb=20170329164412)"
+      },
+      {
+        "name": "​",
+        "value": "[Kal'gerion dungeon](https://runescape.wikia.com/wiki/Kal%27gerion_dungeon)\n\t• [Image](https://vignette.wikia.nocookie.net/runescape2/images/1/1b/Kal%27gerion_dungeon_entrance_location.png/revision/latest?cb=20141210064435)"
+      },
+      {
+        "name": "​",
+        "value": "[Gorajo resource dungeon](https://runescape.wikia.com/wiki/Gorajo_resource_dungeon)\n\t• [Image](https://vignette.wikia.nocookie.net/runescape2/images/b/b0/Gorajo_resource_dungeon_entrance_location.png/revision/latest?cb=20141125172150)"
+      },
+      {
+        "name": "​",
+        "value": "[Edimmu resource dungeon](https://runescape.wikia.com/wiki/Edimmu_resource_dungeon)\n\t• [Image](https://vignette.wikia.nocookie.net/runescape2/images/1/1e/Edimmu_resource_dungeon_entrance_location.png/revision/latest?cb=20141125172618)"
       }
     ],
     "footer": {
@@ -1598,7 +1694,7 @@ exports.data = {
       "name": "True Trimmed Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Magic Boons](https://runescape.wikia.com/wiki/Divination#Boons) requires the player to create every single [boon](https://runescape.wikia.com/wiki/Divination#Boons), which are created with [divine energy](https://runescape.wikia.com/wiki/Divine_energy), that is gathered from any type of [wisp](https://runescape.wikia.com/wiki/Wisp).",
+    "description": "[Magic Boons](https://runescape.wikia.com/wiki/Divination#Boons) requires the player to create every single [boon](https://runescape.wikia.com/wiki/Divination#Boons), which are created with [divine energy](https://runescape.wikia.com/wiki/Divine_energy), that is gathered from any type of [wisp](https://runescape.wikia.com/wiki/Wisp).\n\nBoons are permanent, single-use items that give 10% more experience when converting memories of a given tier. Only one of each tier can be used, but once it is used the effect lasts forever. They are made by using a certain amount of energy of either the same tier or one tier below the boon being made.\n\nBe wary that the production interface only states the energy required as being the tier below the boon's namesake. For example, the [Boon of flickering energy](https://runescape.wikia.com/wiki/Boon_of_flickering_energy) will only state that it can be made with [Pale energy](https://runescape.wikia.com/wiki/Pale_energy). However, it will consume energy from the [namesake's tier](https://runescape.wikia.com/wiki/Flickering_energy) if necessary; without warning.",
     "color": 10257648,
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/2/2b/Boon_of_incandescent_energy_detail.png/revision/latest?cb=20161007101023"
@@ -1619,7 +1715,7 @@ exports.data = {
       "name": "True Trimmed Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Menaphos Cactus Patch](https://runescape.wikia.com/wiki/Farming/Patch_locations#Cactus_patches) is a patch that the player can build after mining the [sandstone boulder](https://runescape.wikia.com/wiki/Sandstone_boulder), which can be found in the [Imperial district](https://runescape.wikia.com/wiki/Imperial_district) of [Menaphos](https://runescape.wikia.com/wiki/Menaphos). To be able to mine it the player will have to bring 12 [Acadia logs](https://runescape.wikia.com/wiki/Acadia_logs) to [Zahra](https://runescape.wikia.com/wiki/Zahra_(Menaphos%29), whom is standing next to the boulder.",
+    "description": "[Menaphos Cactus Patch](https://runescape.wikia.com/wiki/Farming/Patch_locations#Cactus_patches) is a patch that the player can build after mining the [sandstone boulder](https://runescape.wikia.com/wiki/Sandstone_boulder), which can be found in the [Imperial district](https://runescape.wikia.com/wiki/Imperial_district) of [Menaphos](https://runescape.wikia.com/wiki/Menaphos). To be able to mine it, the player will have to bring 12 [Acadia logs](https://runescape.wikia.com/wiki/Acadia_logs) to [Zahra](https://runescape.wikia.com/wiki/Zahra_(Menaphos%29), whom is standing next to the boulder.",
     "color": 10257648,
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/d/da/Sandstone_boulder_(big%29.png/revision/latest?cb=20180212174648"
@@ -1640,7 +1736,7 @@ exports.data = {
       "name": "True Trimmed Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Throne Room excavation](https://runescape.wikia.com/wiki/The_Empty_Throne_Room#Helping_the_excavation) requires the player to assist [Celia Diggory](https://runescape.wikia.com/wiki/Celia_Diggory) with 3 different activities:\n\n• Mining the [Crystal formations](https://runescape.wikia.com/wiki/Crystal_formation)\n• Moving the cart by riding a [Manual Auto-cycles](https://runescape.wikia.com/wiki/Manual_Auto-cycle)\n• Transmuting the [Senntisten crystals](https://runescape.wikia.com/wiki/Senntisten_crystal) into different colours\n\nEach of the activities will always have one of their nodes empowered. The empowered node will change around every minute, and using an empowered node will grant ten times the experience, except for depositing crystals.\n\nEach task will be completed after the player gained 800,000 base experience from the corresponding activity Bonus experience will not count towards the 800,000 experience target.",
+    "description": "[Throne Room excavation](https://runescape.wikia.com/wiki/The_Empty_Throne_Room#Helping_the_excavation) requires the player to assist [Celia Diggory](https://runescape.wikia.com/wiki/Celia_Diggory) with 3 different activities:\n\n• Mining the [Crystal formations](https://runescape.wikia.com/wiki/Crystal_formation)\n• Moving the cart by riding a [Manual Auto-cycles](https://runescape.wikia.com/wiki/Manual_Auto-cycle)\n• Transmuting the [Senntisten crystals](https://runescape.wikia.com/wiki/Senntisten_crystal) into different colours\n\nEach of the activities will always have one of their nodes empowered. The empowered node will change around every minute, and using an empowered node will grant ten times the experience, except for depositing crystals.\n\nEach task will be completed after the player gained 800,000 base experience from the corresponding activity. Bonus experience will not count towards the 800,000 experience target.",
     "color": 10257648,
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/5/56/Celia_Diggory.png/revision/latest?cb=20180209180050&format=original"
@@ -1706,7 +1802,7 @@ exports.data = {
     },
     "fields": [{
       "name": "Guide:",
-      "value": "[Strategy guide for Barrows | Wiki](https://runescape.wikia.com/wiki/Barrows/Strategies)"
+      "value": "• [Strategy guide for Barrows | Wiki](https://runescape.wikia.com/wiki/Barrows/Strategies)"
     }],
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
@@ -1809,7 +1905,11 @@ exports.data = {
     },
     "fields": [{
         "name": "Tips:",
-        "value": "It is highly recommended to bring a [Dwarf multicannon](https://runescape.wikia.com/wiki/Dwarf_multicannon) or a [Oldak coil](https://runescape.wikia.com/wiki/Oldak_coil), since they can be placed down and help the player defeat the Corporeal Beast faster. [Summoning familiars](https://runescape.wikia.com/wiki/Summoning_familiars) on the other hand can not be used, since the Corporeal Beast will eat them up."
+        "value": "It is highly recommended to bring a [Dwarf multicannon](https://runescape.wikia.com/wiki/Dwarf_multicannon) or a [Oldak coil](https://runescape.wikia.com/wiki/Oldak_coil), since they can be placed down and help the player defeat the Corporeal Beast faster. [Summoning familiars](https://runescape.wikia.com/wiki/Summoning_familiars) on the other hand can not be used, since the Corporeal Beast will eat them up.\n\nNote that a [spear](https://runescape.wikia.com/wiki/Spear) should be used at all times for this boss, as all other weapons and attack styles will cause 50% less damage due to the boss's defensive effects."
+      },
+      {
+        "name": "Requirements:",
+        "value": "• Completion of the [Summer's End](http://runescape.wikia.com/wiki/Summer%27s_End) quest"
       },
       {
         "name": "Guide:",
@@ -1835,7 +1935,7 @@ exports.data = {
     },
     "fields": [{
       "name": "Guide:",
-      "value": "[Dagannoth Kings Solo Guide | GentleMen RS - Youtube](https://www.youtube.com/watch?v=bNw88i_8iDQ)"
+      "value": "• [Dagannoth Kings Solo Guide | GentleMen RS - Youtube](https://www.youtube.com/watch?v=bNw88i_8iDQ)"
     }],
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
@@ -1856,7 +1956,7 @@ exports.data = {
     },
     "fields": [{
         "name": "Requirement:",
-        "value": "• Completed the [Temple of Aminishi](https://runescape.wikia.com/wiki/Temple_of_Aminishi) elite dungeon once"
+        "value": "• Completed the [Temple of Aminishi](https://runescape.wikia.com/wiki/Temple_of_Aminishi) Elite Dungeon once in either story or normal mode"
       },
       {
         "name": "Guide:",
@@ -2028,7 +2128,7 @@ exports.data = {
     },
     "fields": [{
       "name": "Guide:",
-      "value": "[Kalphite King Solo Guide | JuliusRS - Youtube](https://www.youtube.com/watch?v=_2jIPWuX7pM)"
+      "value": "• [Kalphite King Solo Guide | JuliusRS - Youtube](https://www.youtube.com/watch?v=_2jIPWuX7pM)"
     }],
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
@@ -2049,7 +2149,7 @@ exports.data = {
     },
     "fields": [{
       "name": "Guide:",
-      "value": "[The Kalphite Queen - A Solo Guide! | Lildogdog RS - Youtube](https://www.youtube.com/watch?v=f3LKtH7sTSM)"
+      "value": "• [The Kalphite Queen - A Solo Guide! | Lildogdog RS - Youtube](https://www.youtube.com/watch?v=f3LKtH7sTSM)"
     }],
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
@@ -2070,7 +2170,7 @@ exports.data = {
     },
     "fields": [{
       "name": "Guide:",
-      "value": "[King Black Dragon! AFK & Easy | Maikeru RS - Youtube](https://www.youtube.com/watch?v=M53EBOgQLuw)"
+      "value": "• [King Black Dragon! AFK & Easy | Maikeru RS - Youtube](https://www.youtube.com/watch?v=M53EBOgQLuw)"
     }],
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
@@ -2121,7 +2221,7 @@ exports.data = {
     },
     "fields": [{
         "name": "Requirements:",
-        "value": "• 95 Slayer"
+        "value": "• 95 Slayer\n\n• An Ascension Keystone [Primus](http://runescape.wikia.com/wiki/Ascension_Keystone_Primus), [Secundus](https://runescape.wikia.com/wiki/Ascension_Keystone_Secundus), [Tertius](https://runescape.wikia.com/wiki/Ascension_Keystone_Tertius), [Quartus](https://runescape.wikia.com/wiki/Ascension_Keystone_Quartus), [Quintus](https://runescape.wikia.com/wiki/Ascension_Keystone_Quintus), or [Sextus](https://runescape.wikia.com/wiki/Ascension_Keystone_Sextus) for each respective kill"
       },
       {
         "name": "Guide:",
@@ -2196,7 +2296,7 @@ exports.data = {
       "name": "True Trimmed Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Fallen Angel](https://runescape.wikia.com/wiki/Fallen_Angel) is an achievement that requires the player to complete the [Nex: Angel of Death](https://runescape.wikia.com/wiki/Nex:_Angel_of_Death) [Boss collection log](https://runescape.wikia.com/wiki/Boss_collection_log), by obtaining every unique drop. Completing this achievement will unlock the [of the Praesul](https://runescape.wikia.com/wiki/Of_the_Praesul) title.",
+    "description": "[Fallen Angel](https://runescape.wikia.com/wiki/Fallen_Angel) is an achievement that requires the player to complete the [Nex: Angel of Death](https://runescape.wikia.com/wiki/Nex:_Angel_of_Death) [Boss collection log](https://runescape.wikia.com/wiki/Boss_collection_log), by obtaining every unique drop. Completing this achievement will unlock the [of the Praesul](https://runescape.wikia.com/wiki/Of_the_Praesul) title.\n\nNote that the in game title only requires you to obtain only drop of either the following drops:\n• The [Intricate blood stained chest](https://runescape.wikia.com/wiki/Intricate_blood_stained_chest)\n• The [Intricate ice chest](https://runescape.wikia.com/wiki/Intricate_ice_chest)\n• The [Intricate shadow chest](https://runescape.wikia.com/wiki/Intricate_shadow_chest)\n• The [Intricate smoke-shrouded chest](https://runescape.wikia.com/wiki/Intricate_smoke-shrouded_chest)\n\nAfter the boss log title completion, the rest of the chests may be bought from the [Grand Exchange](https://runescape.wikia.com/wiki/Grand_Exchange) for the cosmetic unlock requirement. It is also recommended to try and obtain all the chests as drops since they have a base drop rate of 1/5,000, which means that a specific chest has a drop rate of 1/20,000.",
     "color": 10257648,
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/2/2b/Nex_(Angel_of_Death%29.png/revision/latest?cb=20170130192323"
@@ -2263,7 +2363,7 @@ exports.data = {
     },
     "fields": [{
       "name": "Guide:",
-      "value": "[Solak Guide - All Phases Covered! | Maikeru RS - Youtube](https://www.youtube.com/watch?v=3z9hYZNOr_k)"
+      "value": "• [Solak Guide - All Phases Covered! | Maikeru RS - Youtube](https://www.youtube.com/watch?v=3z9hYZNOr_k)"
     }],
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
@@ -2284,7 +2384,7 @@ exports.data = {
     },
     "fields": [{
         "name": "Requirements:",
-        "value": "• [Ancient sigil](https://runescape.wikia.com/wiki/Ancient_sigil)\n\n• 80 Attack\n• 80 Magic\n• 80 Ranged\n• 80 Prayer"
+                "value": "• 80 Attack\n• 80 Prayer\n• 80 Magic\n• 80 Ranged\n\n• An [Ancient Sigil](http://runescape.wikia.com/wiki/Ancient_sigil)\n• Players must have defeated [Helwyr](https://runescape.wikia.com/wiki/Helwyr), [Gregorovic](https://runescape.wikia.com/wiki/Gregorovic), the [Twin Furies](https://runescape.wikia.com/wiki/Twin_Furies), and [Vindicta](https://runescape.wikia.com/wiki/Vindicta) at least once to obtain their sigil pieces"
       },
       {
         "name": "Guide:",
@@ -2336,7 +2436,7 @@ exports.data = {
     },
     "fields": [{
         "name": "Requirements:",
-        "value": "• 115 Slayer"
+        "value": "• 115 Slayer\n\n• Many [Key to the Crossings](http://runescape.wikia.com/wiki/Key_to_the_Crossing)"
       },
       {
         "name": "Tips:",
@@ -2452,7 +2552,7 @@ exports.data = {
     },
     "fields": [{
         "name": "Requirements:",
-        "value": "• Enough [Life points](https://runescape.wikia.com/wiki/Life_points) for the entry hit"
+        "value": "• Enough [Life points](https://runescape.wikia.com/wiki/Life_points) for the entry hit\n\n• Players must have completed their [Challenging Chat](https://runescape.wikia.com/wiki/Challenging_Chat) achievement"
       },
       {
         "name": "Guides:",
@@ -2471,7 +2571,7 @@ exports.data = {
       "name": "True Trimmed Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Agent of the Eldest](https://runescape.wikia.com/wiki/Agent_of_the_Eldest) is an outfit that requires the player to replay [Sliske's Endgame](https://runescape.wikia.com/wiki/Sliske%27s_Endgame) without skipping any interactions or the boss fight.",
+    "description": "[Agent of the Eldest](https://runescape.wikia.com/wiki/Agent_of_the_Eldest) is an outfit that requires the player to replay [Sliske's Endgame](https://runescape.wikia.com/wiki/Sliske%27s_Endgame) without skipping any interactions or the boss fight. At the end of the second playthrough, the outfit is awarded to the player.",
     "color": 10257648,
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/1/1f/Agent_of_the_Eldest_helm_chathead.png/revision/latest?cb=20180129141512"
@@ -2504,7 +2604,7 @@ exports.data = {
     },
     "fields": [{
       "name": "Tips:",
-      "value": "It is highly recommended to try and obtain 1 of the chests as a drop from Nex: Angel of Death, since obtaining 1 of the chest is required to unlock the [boss collection log](https://runescape.wikia.com/wiki/Boss_collection_log) title. It is also not recommended to try and obtain all the chests as drops since they have a base drop rate of 1/5,000 which means that a specific chest has a drop rate of 1/20,000."
+      "value": "It is highly recommended to try and obtain 1 of the chests as a drop from Nex: Angel of Death, since obtaining 1 of the chest is required to unlock the [boss collection log](https://runescape.wikia.com/wiki/Boss_collection_log) title. It is also not recommended to try and obtain all the chests as drops since they have a base drop rate of 1/5,000, which means that a specific chest has a drop rate of 1/20,000."
     }],
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
@@ -2525,7 +2625,7 @@ exports.data = {
     },
     "fields": [{
       "name": "Tips:",
-      "value": "It is highly recommended to attend boss masses since is is a relatively fast way of obtaining training points.\n\nThe player may choose to self-assign 1 of the following roles in the <#465998663710146579> channel:\n\n• <@&420015717828657152> (Can include Mod Lee's boss masses)\n• <@&420015659620237312> (Some of our <#441624301616234496> host masses)\n• <@&420015552677937152> (Regular boss mass events)"
+      "value": "It is highly recommended to attend boss masses since is is a relatively fast way of obtaining training points.\n\nThe player may choose to self-assign 1 of the following roles in the <#465998663710146579> channel:\n\n• <@&420015717828657152> (Can include Mod Lee's boss masses)\n• <@&420015659620237312> (Some of our <#477196003989127168> host masses)\n• <@&420015552677937152> (Regular boss mass events)"
     }],
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
@@ -2546,7 +2646,7 @@ exports.data = {
     },
     "fields": [{
       "name": "Tips:",
-      "value": "The player may choose to simply buy the Flaming Sword Enchantment from the [Grand Exchange](https://runescape.wikia.com/wiki/Grand_Exchange), or try and get it as drops from [Master clues](https://runescape.wikia.com/wiki/Clue_scroll_(master%29). Altough obtaining this from a Master clue may take a while."
+      "value": "The player may choose to simply buy the Flaming Sword Enchantment from the [Grand Exchange](https://runescape.wikia.com/wiki/Grand_Exchange). Alternatively, the player can try and get it as drops from [Master clues](https://runescape.wikia.com/wiki/Clue_scroll_(master%29). Obtaining this from a Master clue may take a while."
     }],
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
@@ -2567,7 +2667,7 @@ exports.data = {
     },
     "fields": [{
       "name": "Tips:",
-      "value": "It is highly recommended to place the gnomeball down with the **Rolling** option selected, this allowes it to roll free. While it rolls around anyone can participate in kicking it around, which will also add up to your total kick count. Therefore its best to place the gnomeball in a small closed off area with multiple people."
+      "value": "It is highly recommended to place the gnomeball down with the **Rolling** option selected. This allowes it to roll free. While it rolls around, anyone can participate in kicking it around, which will also add up to your total kick count. Therefore, its best to place the gnomeball in a small closed off area with multiple people."
     }],
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
@@ -2637,18 +2737,18 @@ exports.data = {
       "name": "True Trimmed Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[So That Is Where The Stone of Jas Was!](https://runescape.wikia.com/wiki/Aquarium#Bathysphere) requires the player to unlock the [Stone of Jas plug](https://runescape.wikia.com/wiki/Stone_of_Jas_plug), by [prestiging](https://runescape.wikia.com/wiki/Aquarium#Prestige) their [Aquarium](https://runescape.wikia.com/wiki/Aquarium) in their [Player-owned house](https://runescape.wikia.com/wiki/Player-owned_house) atleast 2 times.\n\nThis means that the player has to collect every [Golden fish egg](https://runescape.wikia.com/wiki/Golden_fish_egg) 2 times to unlock the Jas plug, and 3 times to fill up their aquarium completely again.",
+    "description": "[So That Is Where The Stone of Jas Was!](https://runescape.wikia.com/wiki/Aquarium#Bathysphere) requires the player to unlock the [Stone of Jas plug](https://runescape.wikia.com/wiki/Stone_of_Jas_plug), by [prestiging](https://runescape.wikia.com/wiki/Aquarium#Prestige) their [Aquarium](https://runescape.wikia.com/wiki/Aquarium) in their [Player-owned house](https://runescape.wikia.com/wiki/Player-owned_house) at least 2 times.\n\nThis means that the player has to collect every [Golden fish egg](https://runescape.wikia.com/wiki/Golden_fish_egg) 2 times to unlock the Jas plug, and 3 times to fill up their aquarium completely again.",
     "color": 10257648,
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/8/8b/Stone_of_Jas_plug_built.png/revision/latest?cb=20150421071202"
     },
     "fields": [{
         "name": "Tips:",
-        "value": "The Player may choose not to fish to obtain the golden fish eggs and self-assign the <@&420029633371570176> role in the <#465998663710146579> channel in this server. This role will be used by players that have [Golden prawn crackers](https://runescape.wikia.com/wiki/Golden_prawn_cracker) and wish to pull them with other players.\n\n1 free [Golden mystery egg](https://runescape.wikia.com/wiki/Golden_mystery_egg) can be obtained from a tier 2 [Prawnbroker](https://runescape.wikia.com/wiki/Prawnbroker), more may be obtained from the [Motherlode Maw](https://runescape.wikia.com/wiki/Motherlode_Maw) in [Prifddinas](https://runescape.wikia.com/wiki/Prifddinas)."
+        "value": "The Player may choose not to fish to obtain the golden fish eggs and self-assign the <@&420029633371570176> role in the <#465998663710146579> channel in this server. This role will be used by players that have [Golden prawn crackers](https://runescape.wikia.com/wiki/Golden_prawn_cracker) and wish to pull them with other players.\n\nOne free [Golden mystery egg](https://runescape.wikia.com/wiki/Golden_mystery_egg) can be obtained from a tier 2 [Prawnbroker](https://runescape.wikia.com/wiki/Prawnbroker). Additional golden eggs can be obtained from golden prawn crackers, as a rare reward (0.5%) directly from [prawn balls](https://runescape.wikia.com/wiki/Prawn_balls), as a very rare reward from fishing in [Prifddinas](http://runescape.wikia.com/wiki/Prifddinas), or as a reward from the [Motherlode Maw](https://runescape.wikia.com/wiki/Motherlode_Maw) in [Prifddinas](https://runescape.wikia.com/wiki/Prifddinas)."
       },
       {
         "name": "Requirements:",
-        "value": "• 63 Construction"
+        "value": "• 63 Construction\n• An [Aquarium](https://runescape.wikia.com/wiki/Aquarium) in your [Player-owned house](https://runescape.wikia.com/wiki/Player-owned_house)"
       }
     ],
     "footer": {
@@ -2684,7 +2784,7 @@ exports.data = {
       "name": "True Trimmed Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[You're Such A Basic Raptor](https://runescape.wikia.com/wiki/Raptor_key#Loot) requires the player to unlock the [Raptor's Basic Outfit](https://runescape.wikia.com/wiki/Raptor%27s_Basic_Outfit). The outfit can be obtained from the [The Raptor](https://runescape.wikia.com/wiki/The_Raptor)'s chest with the use of the [Raptor key](https://runescape.wikia.com/wiki/Raptor_key). The key consists out of 4 pieces, each piece is dropped from one of the following slayer creatures:\n\n• The [Living Wyverns](https://runescape.wikia.com/wiki/Wyvern) (for the [Raptor key part 1](https://runescape.wikia.com/wiki/Raptor_key_part_1))\n• The [Ripper Demons](https://runescape.wikia.com/wiki/Ripper_Demon) (for the [Raptor key part 2](https://runescape.wikia.com/wiki/Raptor_key_part_2))\n• The [Camel Warriors](https://runescape.wikia.com/wiki/Camel_Warrior) (for the [Raptor key part 3](https://runescape.wikia.com/wiki/Raptor_key_part_3))\n• The [Acheron mammoths](https://runescape.wikia.com/wiki/Acheron_mammoth) (for the [Raptor key part 4](https://runescape.wikia.com/wiki/Raptor_key_part_4))\n\nEach key piece has a drop rate of 1/256, Once all four key parts are obtained, simply use one of the pieces on another. This will create the key, with a dialogue message stating 'You combine the four key parts into a reward key for the Raptor's chest of slaying'. The chest can be found right next to the [Burthorpe](https://runescape.wikia.com/wiki/Burthorpe) bank.\n\nThe outfit has a 1/3 chance of obtaining, only if not already owned.",
+    "description": "[You're Such A Basic Raptor](https://runescape.wikia.com/wiki/Raptor_key#Loot) requires the player to unlock the [Raptor's Basic Outfit](https://runescape.wikia.com/wiki/Raptor%27s_Basic_Outfit). The outfit can be obtained from the [The Raptor](https://runescape.wikia.com/wiki/The_Raptor)'s chest with the use of the [Raptor key](https://runescape.wikia.com/wiki/Raptor_key). The key consists out of 4 pieces, each piece is dropped from one of the following slayer creatures:\n\n• The [Living Wyverns](https://runescape.wikia.com/wiki/Wyvern) (for the [Raptor key part 1](https://runescape.wikia.com/wiki/Raptor_key_part_1))\n• The [Ripper Demons](https://runescape.wikia.com/wiki/Ripper_Demon) (for the [Raptor key part 2](https://runescape.wikia.com/wiki/Raptor_key_part_2))\n• The [Camel Warriors](https://runescape.wikia.com/wiki/Camel_Warrior) (for the [Raptor key part 3](https://runescape.wikia.com/wiki/Raptor_key_part_3))\n• The [Acheron mammoths](https://runescape.wikia.com/wiki/Acheron_mammoth) (for the [Raptor key part 4](https://runescape.wikia.com/wiki/Raptor_key_part_4))\n\nEach key piece has a drop rate of 1/256. Once all four key parts are obtained, simply use one of the pieces on another. This will create the key, with a dialogue message stating 'You combine the four key parts into a reward key for the Raptor's chest of slaying'. The chest can be found right next to the [Burthorpe](https://runescape.wikia.com/wiki/Burthorpe) bank.\n\nThe outfit has a 1/3 chance of being the prize upon opening, only if not already owned.",
     "color": 10257648,
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/1/14/Raptor%27s_Basic_Helmet_chathead.png/revision/latest?cb=20160105023853"
@@ -2740,10 +2840,10 @@ exports.data = {
       "name": "True Trimmed Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Completionist Hidden Talents](https://runescape.wikia.com/wiki/Completionist_cape_(t%29#Other_abilities) requires the player to unlock all extra features on the [Completionist cape](https://runescape.wikia.com/wiki/Completionist_cape_(t%29). This can be done by combining specific items on the completionist cape. Currently the only item that can be combined with the Completionist cape is the [Spirit cape](https://runescape.wikia.com/wiki/Spirit_cape), which can be bought for 45,000 [Dungeoneering tokens](https://runescape.wikia.com/wiki/Dungeoneering_token) from either [Marmaros](https://runescape.wikia.com/wiki/Marmaros) at [Daemonheim](https://runescape.wikia.com/wiki/Daemonheim) or from [Wythien](https://runescape.wikia.com/wiki/Wythien) in the [Meilyr Clan](https://runescape.wikia.com/wiki/Meilyr_Clan) district of [Prifddinas](https://runescape.wikia.com/wiki/Prifddinas).",
+    "description": "[Completionist Hidden Talents](https://runescape.wikia.com/wiki/Completionist_cape_(t%29#Other_abilities) requires the player to unlock all extra features on the [Completionist cape](https://runescape.wikia.com/wiki/Completionist_cape_(t%29). This can be done by combining specific items on the completionist cape.\n\nCurrently the only item that can be combined with the Completionist cape is the [Spirit cape](https://runescape.wikia.com/wiki/Spirit_cape), which can be bought for 45,000 [Dungeoneering tokens](https://runescape.wikia.com/wiki/Dungeoneering_token) from either [Marmaros](https://runescape.wikia.com/wiki/Marmaros) at [Daemonheim](https://runescape.wikia.com/wiki/Daemonheim) or from [Wythien](https://runescape.wikia.com/wiki/Wythien) in the [Meilyr Clan](https://runescape.wikia.com/wiki/Meilyr_Clan) district of [Prifddinas](https://runescape.wikia.com/wiki/Prifddinas).",
     "color": 10257648,
     "thumbnail": {
-      "url": "https://vignette.wikia.nocookie.net/runescape2/images/5/52/Completionist_cape_(t%29_detail.png/revision/latest?cb=20130110095656"
+      "url": "https://vignette.wikia.nocookie.net/runescape2/images/a/af/Spirit_cape_detail.png/revision/latest?cb=20111129004304"
     },
     "fields": [{
         "name": "Requirements:",
@@ -2751,7 +2851,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "To obtain the Completionist cape make sure to check out the <#412093604979277844> channel for a full list of the requirements."
+        "value": "To obtain the Completionist cape make sure to check out the <#488553073107533825> channel for a full list of the requirements."
       }
     ],
     "footer": {
@@ -2798,7 +2898,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "A full list of all the locations can be found on the [Runescape Wiki](https://runescape.wikia.com/wiki/Fairy_ring#Fairy_ring_codes)."
+        "value": "• [Fair Ring Code Locaitons | Runescape Wiki](https://runescape.wikia.com/wiki/Fairy_ring#Fairy_ring_codes)."
       }
     ],
     "footer": {
@@ -2913,7 +3013,7 @@ exports.data = {
       "name": "True Trimmed Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Miscellaneous journals 16-20](https://runescape.wikia.com/wiki/Miscellaneous_journals) are journals that can be found while training [Dungeoneering](https://runescape.wikia.com/wiki/Dungeoneering) on the [Warped floors](https://runescape.wikia.com/wiki/Dungeoneering_floors#Warped_floors_.28m.29), inside [Daemonheim](https://runescape.wikia.com/wiki/Daemonheim). The Miscellaneous journals 1-15 are a requirement for the [Master quest cape](https://runescape.wikia.com/wiki/Master_quest_cape), Therefore only the following journals are required to complete this requirement:\n\n• The [Portal notes](https://runescape.wikia.com/wiki/Portal_notes) (#16)\n• The [Scrap of parchment](https://runescape.wikia.com/wiki/Scrap_of_parchment) (#17)\n• The [Letter to an acolyte](https://runescape.wikia.com/wiki/Letter_to_an_acolyte) (#18)\n• The [Letter from brundt](https://runescape.wikia.com/wiki/Letter_from_brundt) (#19)\n• The [Strange token](https://runescape.wikia.com/wiki/Strange_token) (#20)\n\nEach journal is dropped from monsters throughout the floor and has a drop rate of 1/10,000 to 1/50,000 per monster killed.",
+    "description": "[Miscellaneous journals 16-20](https://runescape.wikia.com/wiki/Miscellaneous_journals) are journals that can be found while training [Dungeoneering](https://runescape.wikia.com/wiki/Dungeoneering) on the [Warped floors](https://runescape.wikia.com/wiki/Dungeoneering_floors#Warped_floors_.28m.29), inside [Daemonheim](https://runescape.wikia.com/wiki/Daemonheim). The Miscellaneous journals 1-15 are a requirement for the [Master quest cape](https://runescape.wikia.com/wiki/Master_quest_cape). Therefore, only the following journals are required to complete this requirement:\n\n• The [Portal notes](https://runescape.wikia.com/wiki/Portal_notes) (#16)\n• The [Scrap of parchment](https://runescape.wikia.com/wiki/Scrap_of_parchment) (#17)\n• The [Letter to an acolyte](https://runescape.wikia.com/wiki/Letter_to_an_acolyte) (#18)\n• The [Letter from brundt](https://runescape.wikia.com/wiki/Letter_from_brundt) (#19)\n• The [Strange token](https://runescape.wikia.com/wiki/Strange_token) (#20)\n\nEach journal is dropped from monsters throughout the floor and has a drop rate of 1/10,000 to 1/50,000 per monster killed.",
     "color": 10257648,
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/0/0e/Strange_token_detail.png/revision/latest?cb=20180622134026"
@@ -2924,7 +3024,7 @@ exports.data = {
       },
       {
         "name": "Tips:",
-        "value": "Journals can be obtained regardless of [complexity level](https://runescape.wikia.com/wiki/Complexity). As such rushing floors on complexity 1 is suggested when trying to obtain the journals.\n\nIt is also highly recommended to use the [Perfect juju dungeoneering potion](https://runescape.wikia.com/wiki/Perfect_juju_dungeoneering_potion) or if available the [Perfect plus potion](https://runescape.wikia.com/wiki/Perfect_plus_potion), as this potion will last longer. These potions will increase the drop rate of the journals.\n\nIf the player already has 120 Dungeoneering, it is highly recommended to equip the [Dungeoneering master cape](https://runescape.wikia.com/wiki/Dungeoneering_master_cape) before going into a dungeon, this will increase the drop rate of lore related journals even further. The cape will also give the ability to give a chance of choosing the boss after every floor."
+        "value": "Journals can be obtained regardless of [complexity level](https://runescape.wikia.com/wiki/Complexity). As such, rushing floors on complexity 1 is suggested when trying to obtain the journals.\n\nIt is also highly recommended to use the [Perfect juju dungeoneering potion](https://runescape.wikia.com/wiki/Perfect_juju_dungeoneering_potion) or, if available, the [Perfect plus potion](https://runescape.wikia.com/wiki/Perfect_plus_potion), as this potion will last longer. These potions will increase the drop rate of the journals.\n\nIf the player already has 120 Dungeoneering, it is highly recommended to equip the [Dungeoneering master cape](https://runescape.wikia.com/wiki/Dungeoneering_master_cape) before going into a dungeon. This will increase the drop rate of lore related journals even further."
       }
     ],
     "footer": {
@@ -2939,7 +3039,7 @@ exports.data = {
       "name": "True Trimmed Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Go Fetch My Ammo, I Am Fighting!](https://runescape.wikia.com/wiki/Ava%27s_alerter#Attracted_items) requires the player to unlock the [Ava's devices](https://runescape.wikia.com/wiki/Ava's_device) feature on the capes that are worn in the [Castle Wars](https://runescape.wikia.com/wiki/Castle_Wars) and [Soul Wars](https://runescape.wikia.com/wiki/Soul_Wars) minigames:",
+    "description": "[Go Fetch My Ammo, I Am Fighting!](https://runescape.wikia.com/wiki/Ava%27s_alerter#Attracted_items) requires the player to unlock the [Ava's devices](https://runescape.wikia.com/wiki/Ava's_device) feature on the capes that are worn in the [Castle Wars](https://runescape.wikia.com/wiki/Castle_Wars) and [Soul Wars](https://runescape.wikia.com/wiki/Soul_Wars) minigames.",
     "color": 10257648,
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/2/2a/Saradomin_cloak_(Castle_Wars%29_detail.png/revision/latest?cb=20170715140422"
@@ -2950,7 +3050,7 @@ exports.data = {
       },
       {
         "name": "Soul Wars:",
-        "value": "Unlocking the effect on the [Red](https://runescape.wikia.com/wiki/Red_cape) and [Blue](https://runescape.wikia.com/wiki/Blue_cape) capes can be done by talking to Soul Wars custodian, while having any of the [Ava's devices](https://runescape.wikia.com/wiki/Ava's_device) in the inventory, whom this is depends on certain quest progress. The normal custodian of Soul Wars is [Nomad](https://runescape.wikia.com/wiki/Nomad)."
+        "value": "Unlocking the effect on the [Red](https://runescape.wikia.com/wiki/Red_cape) and [Blue](https://runescape.wikia.com/wiki/Blue_cape) capes can be done by talking to Soul Wars custodian, while having any of the [Ava's devices](https://runescape.wikia.com/wiki/Ava's_device) in the inventory. Who the custodian is depends on certain quest progress. The normal custodian of Soul Wars is [Nomad](https://runescape.wikia.com/wiki/Nomad)."
       },
       {
         "name": "Requirements:",
@@ -2997,7 +3097,7 @@ exports.data = {
     },
     "fields": [{
       "name": "Tips:",
-      "value": "If the player has alot of Teci, and decides to sell their Mazcab ability codex drops to the [Grand Exchange](https://runescape.wikia.com/wiki/Grand_Exchange), it would be recommended to buy the individual ability codex, since these are cheaper than the Mazcab ability codex."
+      "value": "If the player has alot of unnused Teci and decides to sell their Mazcab ability codex drops to the [Grand Exchange](https://runescape.wikia.com/wiki/Grand_Exchange), it would be recommended to buy the individual ability codices. This is due to the face that the specific codices are cheaper than the general Mazcab ability codex."
     }],
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
@@ -3048,7 +3148,7 @@ exports.data = {
     },
     "fields": [{
         "name": "Tips:",
-        "value": "It is recommended to the daily bounties which are given to the player by [Feng, the Bounty Master](https://runescape.wikia.com/wiki/Feng,_the_Bounty_Master). It is also highly recommended to go for 5,000 reputation before actually camping 1 of the faction's bosses, since this will greatly increase the drop rate of the unique drops."
+        "value": "It is recommended to the daily bounties which are given to the player by [Feng, the Bounty Master](https://runescape.wikia.com/wiki/Feng,_the_Bounty_Master). Alternatively, players can group the mob factions in the Heart of Gielinor and utilize area-of-effect [abilities](https://runescape.wikia.com/wiki/Abilities) on them to gain a vast amount of [Ingression fragments](https://runescape.wikia.com/wiki/Ingression_fragment) in a small amount of time.\n\nIt is highly recommended to go for 5,000 reputation before actually camping 1 of the faction's bosses, since this will greatly increase the drop rate of the unique drops."
       },
       {
         "name": "Guide:",
@@ -3070,11 +3170,11 @@ exports.data = {
     "description": "[Reputation (Mazcab)](https://runescape.wikia.com/wiki/Reputation_(Mazcab%29) requires the player to reach the maximum of 5,000 reputation earned from activities on [Mazcab](https://runescape.wikia.com/wiki/Mazcab). Reaching 5,000 reputation will unlock the following rewards on the way:\n\n• 10% discount at [Mazcab Emergency Merchants](https://runescape.wikia.com/wiki/Mazcab_Emergency_Merchants)\n• A [Goebie banker](https://runescape.wikia.com/wiki/Goebie_supplier) in the canal area\n• A few fast travel options on a [Goebie guide](https://runescape.wikia.com/wiki/Mazcab_guide)\n• 25% discount at Mazcab Emergency Merchants\n• [the Reputable](https://runescape.wikia.com/wiki/The_Reputable) title\n• A Goebie banker in the waterfall area\n• Ability to move [Player Owned House](https://runescape.wikia.com/wiki/Player-owned_house) to [Otot](https://runescape.wikia.com/wiki/Otot)\n• More fast travel options on a Goebie guide\n• A [Goebie spawnling pet](https://runescape.wikia.com/wiki/Goebie_(pet%29)\n• The [of the Goebies](https://runescape.wikia.com/wiki/Of_the_Goebies) title\n• The choice to reroll the rewards from one [raid fight](https://runescape.wikia.com/wiki/Raids) per reset.",
     "color": 10257648,
     "thumbnail": {
-      "url": "https://vignette.wikia.nocookie.net/runescape2/images/2/24/Goebie_(pet%29_pet.png/revision/latest?cb=20150810180110"
+      "url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e1/Goebie_supplier.png/revision/latest/scale-to-width-down/200?cb=20150713235651"
     },
     "fields": [{
       "name": "Guide:",
-      "value": "A full list of how to earn reputation can be found [on the wiki](https://runescape.wikia.com/wiki/Reputation_(Mazcab%29#Earning_reputation)."
+      "value": "• The best way to complete this is by doing daily [Nemi Forest](https://runescape.wikia.com/wiki/Nemi_Forest) runs, daily tasks for [Trinks](https://runescape.wikia.com/wiki/Trinks), and bi-daily [Raids](http://runescape.wikia.com/wiki/Raids) encounters.\n\n• A full list of how to earn reputation can be found [on the wiki](https://runescape.wikia.com/wiki/Reputation_(Mazcab%29#Earning_reputation)."
     }],
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
@@ -3088,7 +3188,7 @@ exports.data = {
       "name": "True Trimmed Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Scare Tactics](https://runescape.wikia.com/wiki/Scare_Tactics) requires the player to unlock the [Scare Tactics](https://runescape.wikia.com/wiki/Scare_Tactics) abilities from [Unspeakable horror](https://runescape.wikia.com/wiki/Unspeakable_horror), which can be found in the [Mos Le'Harmless Caves](https://runescape.wikia.com/wiki/Mos_Le'Harmless_Caves). To fight the Unspeakable horrors, the player will need a [Witchwood icon](https://runescape.wikia.com/wiki/Witchwood_icon), which can be bought at any [Slayer Master](https://runescape.wikia.com/wiki/Slayer_Master), and a [light source](https://runescape.wikia.com/wiki/Light_source).",
+    "description": "[Scare Tactics](https://runescape.wikia.com/wiki/Scare_Tactics) requires the player to unlock the [Scare Tactics](https://runescape.wikia.com/wiki/Scare_Tactics) abilities from [Unspeakable horror](https://runescape.wikia.com/wiki/Unspeakable_horror), which can be found in the [Mos Le'Harmless Caves](https://runescape.wikia.com/wiki/Mos_Le'Harmless_Caves).\n\nTo fight the Unspeakable horrors, the player will need a [Witchwood icon](https://runescape.wikia.com/wiki/Witchwood_icon), which can be bought at any [Slayer Master](https://runescape.wikia.com/wiki/Slayer_Master), and a [light source](https://runescape.wikia.com/wiki/Light_source).",
     "color": 10257648,
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/5/5c/Scare_Tactics_detail.png/revision/latest?cb=20180312180423"
@@ -3116,7 +3216,7 @@ exports.data = {
     },
     "fields": [{
       "name": "Tips:",
-      "value": "Once these set effects are unlocked the player can [disassemble](https://runescape.wikia.com/wiki/Disassemble) the warpriest pieces and sell the Anima Core of Sliske set if they wish to do so, this will not reset the set effects."
+      "value": "Once these set effects are unlocked, the player can [disassemble](https://runescape.wikia.com/wiki/Disassemble) the warpriest pieces and sell the Anima Core of Sliske set if they wish to do so. This will not reset the set effects."
     }],
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
@@ -3130,7 +3230,7 @@ exports.data = {
       "name": "True Trimmed Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Baby soulgazer](https://runescape.wikia.com/wiki/Baby_Soulgazer) is a mini version of a [Soulgazer](https://runescape.wikia.com/wiki/Soulgazer) in pet form dropped by a [Soulgazer's charm](https://runescape.wikia.com/wiki/Soulgazer%27s_charm). Soulgazers can be found in the [stalker dungeon](https://runescape.wikia.com/wiki/Stalker_dungeon) which is inside of the west door of [Zamorak's Hideout](https://runescape.wikia.com/wiki/Zamorak%27s_hideout). A soulgazer's charm has to be used on the portal inside the stalker dungeon in order to unlock the pet.",
+    "description": "[Baby soulgazer](https://runescape.wikia.com/wiki/Baby_Soulgazer) is a mini version of a [Soulgazer](https://runescape.wikia.com/wiki/Soulgazer) in pet form dropped by a [Soulgazer's charm](https://runescape.wikia.com/wiki/Soulgazer%27s_charm). Soulgazers can be found in the [stalker dungeon](https://runescape.wikia.com/wiki/Stalker_dungeon), which is inside of the west door of [Zamorak's Hideout](https://runescape.wikia.com/wiki/Zamorak%27s_hideout). A soulgazer's charm has to be used on the portal inside the stalker dungeon in order to unlock the pet.\n\nThe only way to get to Zamorak's hideout is by utilizing the teleport on the [communication device](https://runescape.wikia.com/wiki/Communication_device)",
     "color": 10257648,
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/0/0e/Baby_Soulgazer_pet.png/revision/latest?cb=20180309135228"
@@ -3151,7 +3251,7 @@ exports.data = {
       "name": "True Trimmed Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Blightbound lasher](https://runescape.wikia.com/wiki/Blightbound_lasher_(pet%29) is the companion pet version of [blightbound lashers](https://runescape.wikia.com/wiki/Blightbound_lasher) which is unlocked by investigating the [purple mushroom](https://runescape.wikia.com/wiki/Purple_mushroom) which is dropped by [Solak](https://runescape.wikia.com/wiki/Solak) at a rate of 1/500. Just like [Lil' Tuzzy](https://runescape.wikia.com/wiki/Lil%27_Tuzzy), it is not a requirement for the [Insane Final Boss title](https://runescape.wikia.com/wiki/Final_Boss).",
+    "description": "[Blightbound lasher](https://runescape.wikia.com/wiki/Blightbound_lasher_(pet%29) is the companion pet version of [blightbound lashers](https://runescape.wikia.com/wiki/Blightbound_lasher). This pet is unlocked by investigating the [purple mushroom](https://runescape.wikia.com/wiki/Purple_mushroom), which is dropped by [Solak](https://runescape.wikia.com/wiki/Solak) at a rate of 1/500. Just like [Lil' Tuzzy](https://runescape.wikia.com/wiki/Lil%27_Tuzzy), it is not a requirement for the [Insane Final Boss title](https://runescape.wikia.com/wiki/Final_Boss).",
     "color": 10257648,
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/7/74/Blightbound_lasher_pet.png/revision/latest?cb=20180716221529"
@@ -3184,7 +3284,7 @@ exports.data = {
     },
     "fields": [{
       "name": "Guide:",
-      "value": "The mossy rock will always be on 1 of the locations on [this list](https://runescape.wikia.com/wiki/Mossy_rock#Possible_locations). The headless golem on the other hand, can roam over the whole island."
+      "value": "• The mossy rock will always be on 1 of the locations on [this list](https://runescape.wikia.com/wiki/Mossy_rock#Possible_locations). The headless golem on the other hand, can roam over the whole island."
     }],
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
@@ -3198,14 +3298,14 @@ exports.data = {
       "name": "True Trimmed Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Cresbot](https://runescape.wikia.com/wiki/Cresbot) is a mini version of an [Automatons](https://runescape.wikia.com/wiki/Automaton), in pet form dropped as a [Cresbot](https://runescape.wikia.com/wiki/Cresbot_(unpoked%29), which can be poked to unlock the pet. Automatons can be found in [Guthix's Cave](https://runescape.wikia.com/wiki/Guthix%27s_Cave) west of the [Legends' Guild](https://runescape.wikia.com/wiki/Legends%27_Guild).\n\nIt is also possible to receive a Cresbot from the chest from [Rush of Blood](https://runescape.wikia.com/wiki/Rush_of_Blood).",
+    "description": "[Cresbot](https://runescape.wikia.com/wiki/Cresbot) is a mini version of an [Automatons](https://runescape.wikia.com/wiki/Automaton) in pet form. It is dropped as a [Cresbot](https://runescape.wikia.com/wiki/Cresbot_(unpoked%29), which can be poked to unlock the pet.\n\nAutomatons can be found in [Guthix's Cave](https://runescape.wikia.com/wiki/Guthix%27s_Cave), west of the [Legends' Guild](https://runescape.wikia.com/wiki/Legends%27_Guild).\n\nIt is also possible to receive a Cresbot from the chest from [Rush of Blood](https://runescape.wikia.com/wiki/Rush_of_Blood).",
     "color": 10257648,
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/4/45/Cresbot_pet.png/revision/latest?cb=20130402011701"
     },
     "fields": [{
       "name": "Requirements:",
-      "value": "• The World Wakes Quest completion | [Runescape Wiki](https://runescape.wikia.com/wiki/The_World_Wakes)\n• The Firemaker's Curse Quest completion | [Runescape Wiki](https://runescape.wikia.com/wiki/The_Firemaker%27s_Curse)\n• the Ritual of the Mahjarrat Quest completion | [Runescape Wiki](https://runescape.wikia.com/wiki/Ritual_of_the_Mahjarrat)\n• The Chosen Commander Quest completion | [Runescape Wiki](https://runescape.wikia.com/wiki/The_Chosen_Commander)\n• Branches of Darkmeyer Quest completion | [Runescape Wiki](https://runescape.wikia.com/wiki/Branches_of_Darkmeyer)\n• The Void Stares Back Quest completion | [Runescape Wiki](https://runescape.wikia.com/wiki/The_Void_Stares_Back)"
+      "value": "• The World Wakes Quest completion | [Runescape Wiki](https://runescape.wikia.com/wiki/The_World_Wakes)\n• The Firemaker's Curse Quest completion | [Runescape Wiki](https://runescape.wikia.com/wiki/The_Firemaker%27s_Curse)\n• The Ritual of the Mahjarrat Quest completion | [Runescape Wiki](https://runescape.wikia.com/wiki/Ritual_of_the_Mahjarrat)\n• The Chosen Commander Quest completion | [Runescape Wiki](https://runescape.wikia.com/wiki/The_Chosen_Commander)\n• Branches of Darkmeyer Quest completion | [Runescape Wiki](https://runescape.wikia.com/wiki/Branches_of_Darkmeyer)\n• The Void Stares Back Quest completion | [Runescape Wiki](https://runescape.wikia.com/wiki/The_Void_Stares_Back)"
     }],
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
@@ -3219,7 +3319,7 @@ exports.data = {
       "name": "True Trimmed Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Diddykin](https://runescape.wikia.com/wiki/Diddykin) is a pet form of a [dragonkin](https://runescape.wikia.com/wiki/Dragonkin) unlocked by consuming a [Lucky dragonkin coin](https://runescape.wikia.com/wiki/Lucky_dragonkin_coin), which destroys the coin in the process. The coin is a rare reward from the [Motherlode Maw](https://runescape.wikia.com/wiki/Motherlode_Maw), which can be found in the [Meilyr Clan](https://runescape.wikia.com/wiki/Meilyr_Clan) district of [Prifddinas](https://runescape.wikia.com/wiki/Prifddinas).\n\nThe chance of obtaining the lucky dragonkin coin from the Motherlode Maw is 1 in 5000, and 1 in 15000 when turning in [Crystal motherlode shards](https://runescape.wikia.com/wiki/Crystal_motherlode_shard) at [Wythien](https://runescape.wikia.com/wiki/Wythien).\n\nThe lucky dragonkin coin can also be obtained as a very rare drop from creatures in the [Dragonkin Laboratory](https://runescape.wikia.com/wiki/Dragonkin_Laboratory) dungeon.",
+    "description": "[Diddykin](https://runescape.wikia.com/wiki/Diddykin) is a pet form of a [dragonkin](https://runescape.wikia.com/wiki/Dragonkin) unlocked by consuming a [Lucky dragonkin coin](https://runescape.wikia.com/wiki/Lucky_dragonkin_coin), which destroys the coin in the process. The coin is a rare reward from the [Motherlode Maw](https://runescape.wikia.com/wiki/Motherlode_Maw), which can be found in the [Meilyr Clan](https://runescape.wikia.com/wiki/Meilyr_Clan) district of [Prifddinas](https://runescape.wikia.com/wiki/Prifddinas).\n\nThe chance of obtaining the lucky dragonkin coin from the Motherlode Maw is 1 in 5,000, and 1 in 15,000 when turning in [Crystal motherlode shards](https://runescape.wikia.com/wiki/Crystal_motherlode_shard) at [Wythien](https://runescape.wikia.com/wiki/Wythien).\n\nThe lucky dragonkin coin can also be obtained as a very rare drop from creatures in the [Dragonkin Laboratory](https://runescape.wikia.com/wiki/Dragonkin_Laboratory) dungeon or purchased from players on the [Grand Exchange](https://runescape.wikia.com/wiki/Grand_Exchange).",
     "color": 10257648,
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/2/25/Diddykin_pet.png/revision/latest?cb=20180113193127"
@@ -3240,7 +3340,7 @@ exports.data = {
       "name": "True Trimmed Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Eddy](https://runescape.wikia.com/wiki/Eddy) is a pet unlocked from its unlock item [edimmu (item)](https://runescape.wikia.com/wiki/Edimmu_(item%29), a rare drop from the [Elite Edimmu](https://runescape.wikia.com/wiki/Edimmu_(elite%29) that occasionally spawns in the [Edimmu resource dungeon]() at the [Meilyr Clan]() district in [Prifddinas](). Wearing a [Ring of wealth](https://runescape.wikia.com/wiki/Luck_enhancer#Ring_of_wealth) or higher tier [luck enhancer](https://runescape.wikia.com/wiki/Luck_enhancer) will increase the chances of an elite Edimmu spawning.\n\nAssuming the spawn rate for elite Edimmu is 1/50 and the pet drop chance from the elite Edimmu is 1/512, this puts the actual chance of pet drop rate to be 1/25600.",
+    "description": "[Eddy](https://runescape.wikia.com/wiki/Eddy) is a pet unlocked from its unlock item [edimmu (item)](https://runescape.wikia.com/wiki/Edimmu_(item%29). This is a rare drop from the [Elite Edimmu](https://runescape.wikia.com/wiki/Edimmu_(elite%29) that occasionally spawns in the [Edimmu resource dungeon](https://runescape.wikia.com/wiki/Edimmu_resource_dungeon) at the [Meilyr Clan](https://runescape.wikia.com/wiki/Meilyr_Clan) district in [Prifddinas](https://runescape.wikia.com/wiki/Prifddinas). Wearing a [Ring of wealth](https://runescape.wikia.com/wiki/Luck_enhancer#Ring_of_wealth) or higher tier [luck enhancer](https://runescape.wikia.com/wiki/Luck_enhancer) will increase the chances of an elite Edimmu spawning.\n\nAssuming the spawn rate for elite Edimmu is 1/50 and the pet drop chance from the elite Edimmu is 1/512, this puts the actual chance of pet drop rate to be 1/25,600.",
     "color": 10257648,
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/7/7a/Eddy_pet.png/revision/latest?cb=20150212002928"
@@ -3251,7 +3351,7 @@ exports.data = {
       },
       {
         "name": "Tips:",
-        "value": "If the player has an Edimmu slayer task and only wants to kill Elite Edimmu, they can choose to self-assign the <@&466105019553546241> role in the <#465998663710146579> channel. This way when an other player comes across an Elite Edimmu and decides not to kill it themselves they can notify players with this role that there is an Elite spawn.\n\nA player may also choose to place the edimmus in their [Player-owned Slayer dungeon](https://runescape.wikia.com/wiki/Sunken_Pyramid#Slayer_Dungeon) or use someone else's player-owned slayer dungeon. They may join the **Slayer Dungs** friendchat or their [Discord server](https://discord.gg/4ksg37t) to see if someone has Edimmus in their dungeon."
+        "value": "If the player has an Edimmu slayer task and only wants to kill Elite Edimmu, they can choose to self-assign the <@&466105019553546241> role in the <#465998663710146579> channel. This way, when another player comes across an Elite Edimmu and decides not to kill it themselves, they can notify players with this role that there is an Elite spawn.\n\nA player may also choose to place the edimmus in their [Player-owned Slayer dungeon](https://runescape.wikia.com/wiki/Sunken_Pyramid#Slayer_Dungeon) or use someone else's player-owned slayer dungeon. They may join the **Slayer Dungs** friend's chat or their [Discord server](https://discord.gg/4ksg37t) to see if someone has Edimmus in their dungeon as well."
       },
       {
         "name": "Guide:",
@@ -3270,7 +3370,7 @@ exports.data = {
       "name": "True Trimmed Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Effy](https://runescape.wikia.com/wiki/Effy) is a pet obtained by opening [dragonkin lamps](https://runescape.wikia.com/wiki/Dragonkin_lamp), with a drop rate of 1/100. Effy displays how many [Ancient effigies](https://runescape.wikia.com/wiki/Ancient_effigies) a player has opened when it is examined.",
+    "description": "[Effy](https://runescape.wikia.com/wiki/Effy) is a pet obtained by opening [dragonkin lamps](https://runescape.wikia.com/wiki/Dragonkin_lamp), with a drop rate of 1/100. A dragonkin lamp is the final reward from the [ancient effigies](https://runescape.wikia.com/wiki/Ancient_effigies) [Distraction and Diversion](https://runescape.wikia.com/wiki/Distraction_and_Diversion).\n\nEffy displays how many [Ancient effigies](https://runescape.wikia.com/wiki/Ancient_effigies) a player has opened when it is examined.",
     "color": 10257648,
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/5/59/Effy_pet.png/revision/latest?cb=20180409130613"
@@ -3278,7 +3378,11 @@ exports.data = {
     "fields": [{
       "name": "Requirements:",
       "value": "• Rebuilding Edgeville Miniquest completion | [Runescape Wiki](https://runescape.wikia.com/wiki/Rebuilding_Edgeville)"
-    }],
+    },
+    {
+        "name": "Tips:",
+        "value": "There are no skill level requirements for a player to receive an effigy from a monster drop. The effigies are a rare drop, and are dropped by many low-level and high-level monsters alike. It has been confirmed that the [ring of wealth](https://runescape.wikia.com/wiki/Ring_of_wealth) does not affect the drop rate, but killing a higher level monster will give a greater chance of receiving an effigy. Each effigy a player owns reduces the drop chance by around 20%, until five are owned, after which no more effigies can be obtained as a drop, but you are still able to get them from the [Motherlode Maw](https://runescape.wikia.com/wiki/Motherlode_Maw).\n\nPlayers may sign up for the <@&466105486849081344> role in the <#465998663710146579> channel of this discord to be notified when these items are in the [Travelling Merchant's Shop](https://runescape.wikia.com/wiki/Travelling_Merchant%27s_Shop)."
+      }],
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
@@ -3291,14 +3395,14 @@ exports.data = {
       "name": "True Trimmed Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Krar Jnr](https://runescape.wikia.com/wiki/Krar_Jnr) is a pet unlocked on [Mazcab](https://runescape.wikia.com/wiki/Mazcab). He is the pet version of one of [Beastmaster Durzag](https://runescape.wikia.com/wiki/Beastmaster_Durzag)'s beasts, [Krar](https://runescape.wikia.com/wiki/Krar). He will rarely spawn in the [Nemi Forest](https://runescape.wikia.com/wiki/Nemi_Forest), accompanied with the message: **You hear a howling in the distance!**. The message is not filtered and is displayed for all players in the forest when it spawns.\n\nKrar Jnr can spawn every minute with the rate of 1 in 1 week (1/10,080). When the wild Krar Jnr appears it will show as a yellow dot on the minimap. The first player to find and interact with him in the forest will claim him as a pet.\n\nInteracting with Krar Jnr for the first time will complete the [Krar Jnr](https://runescape.wikia.com/wiki/Krar_Jnr_(achievement%29) achievement.",
+    "description": "[Krar Jnr](https://runescape.wikia.com/wiki/Krar_Jnr) is a pet unlocked on [Mazcab](https://runescape.wikia.com/wiki/Mazcab). He is the pet version of one of [Beastmaster Durzag](https://runescape.wikia.com/wiki/Beastmaster_Durzag)'s beasts, [Krar](https://runescape.wikia.com/wiki/Krar). He will rarely spawn in the [Nemi Forest](https://runescape.wikia.com/wiki/Nemi_Forest), accompanied with the message: **You hear a howling in the distance!**. The message is not filtered and is displayed for all players in the forest when it spawns.\n\nKrar Jnr can spawn every minute with the rate of 1 in 1 week (1/10,080). When the wild Krar Jnr appears, it will show as a yellow dot on the minimap. The first player to find and interact with him in the forest will claim him as a pet.\n\nInteracting with Krar Jnr for the first time will complete the [Krar Jnr](https://runescape.wikia.com/wiki/Krar_Jnr_(achievement%29) achievement.",
     "color": 10257648,
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/2/25/Krar_Jnr_pet.png/revision/latest?cb=20150716050542"
     },
     "fields": [{
       "name": "Tips:",
-      "value": "The player may choose to self-assign the <@&466104995255812098> role in the <#465998663710146579> channel. This will the player will get a notification if someone else runs into a wild Krar Jnr, and already owns the pet themselfes.\n\nIf the player decides to hunt for the pet themselfes it is highly recommended to bring items they can fletch, such as [broad arrows](https://runescape.wikia.com/wiki/Broad_arrow#Making_broad_arrows), or disassemble to pass the time, as the spawn rate can be rare. It is also highly recommended to make sure there is as few NPCs in the forest as possible, due to an NPC limit within the forest."
+      "value": "The player may choose to self-assign the <@&466104995255812098> role in the <#465998663710146579> channel. This role allows the player to get a notification if someone else runs into a wild Krar Jnr and already owns the pet themselves or doesn't own one and wants to sell it.\n\nIf the player decides to hunt for the pet themself, it is highly recommended to bring items they can fletch, such as [broad arrows](https://runescape.wikia.com/wiki/Broad_arrow#Making_broad_arrows), or [disassemble](https://runescape.wikia.com/wiki/Disassemble) to pass the time, as the spawn rate can be rare. It is also highly recommended to make sure there is as few NPCs in the forest as possible, due to an NPC limit within the forest."
     }],
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
@@ -3312,7 +3416,7 @@ exports.data = {
       "name": "True Trimmed Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Penny](https://runescape.wikia.com/wiki/Penny) is a miniature [Dark Lord](https://runescape.wikia.com/wiki/Dark_Lord) pet that can be obtained by combining a [dark soul](https://runescape.wikia.com/wiki/Dark_soul), [dark mind](https://runescape.wikia.com/wiki/Dark_mind) and [dark body](https://runescape.wikia.com/wiki/Dark_body), which are rare drops, (1/1000; 1/2000; and 1/3000, respectively), from the [truthful shadows](https://runescape.wikia.com/wiki/Truthful_shadow), [blissful shadows](https://runescape.wikia.com/wiki/Blissful_shadow) and [manifest shadows](https://runescape.wikia.com/wiki/Manifest_shadow) in the [Amlodd clan](https://runescape.wikia.com/wiki/Amlodd_Clan) district of [Prifddinas](https://runescape.wikia.com/wiki/Prifddinas).",
+    "description": "[Penny](https://runescape.wikia.com/wiki/Penny) is a miniature [Dark Lord](https://runescape.wikia.com/wiki/Dark_Lord) pet that can be obtained by combining a [dark soul](https://runescape.wikia.com/wiki/Dark_soul), [dark mind](https://runescape.wikia.com/wiki/Dark_mind) and [dark body](https://runescape.wikia.com/wiki/Dark_body). These three items are rare drops from the [truthful shadows](https://runescape.wikia.com/wiki/Truthful_shadow), [blissful shadows](https://runescape.wikia.com/wiki/Blissful_shadow) and [manifest shadows](https://runescape.wikia.com/wiki/Manifest_shadow) in the [Amlodd clan](https://runescape.wikia.com/wiki/Amlodd_Clan) district of [Prifddinas](https://runescape.wikia.com/wiki/Prifddinas). Their drop rates are 1/1,000, 1/2,000, and 1/3,000, respectively",
     "color": 10257648,
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/1/12/Penny_pet.png/revision/latest?cb=20141214062043"
@@ -3342,14 +3446,14 @@ exports.data = {
       "name": "True Trimmed Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Perdita](https://runescape.wikia.com/wiki/Perdita_(pet%29) is the companion pet version of [Merethiel](https://runescape.wikia.com/wiki/Merethiel)'s [Perdita](https://runescape.wikia.com/wiki/Perdita). It can be unlocked by defeating [Solak](https://runescape.wikia.com/wiki/Solak) 1,000 times. It doesn't matter if the player chooses for 7 man kills or duo kills.\n\nJust like [Lil' Tuzzy](https://runescape.wikia.com/wiki/Lil%27_Tuzzy) and the [Blightbound lasher](https://runescape.wikia.com/wiki/Blightbound_lasher_(pet%29) pet, this pet is not a requirement for the [Insane Final Boss title](https://runescape.wikia.com/wiki/Final_Boss).",
+    "description": "[Perdita](https://runescape.wikia.com/wiki/Perdita_(pet%29) is the companion pet version of [Merethiel](https://runescape.wikia.com/wiki/Merethiel)'s [Perdita](https://runescape.wikia.com/wiki/Perdita). It can be unlocked by defeating [Solak](https://runescape.wikia.com/wiki/Solak) 1,000 times in either duo or 7-man mode, or a combination of the two.\n\nIn similar fashion to [Lil' Tuzzy](https://runescape.wikia.com/wiki/Lil%27_Tuzzy) and the [Blightbound lasher](https://runescape.wikia.com/wiki/Blightbound_lasher_(pet%29) pets, this pet is not a requirement for the [Insane Final Boss title](https://runescape.wikia.com/wiki/Final_Boss).",
     "color": 10257648,
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/b/b2/Perdita_pet.png/revision/latest?cb=20180605141547"
     },
     "fields": [{
       "name": "Guide:",
-      "value": "[Solak Guide - All Phases Covered! | Maikeru RS - Youtube](https://www.youtube.com/watch?v=3z9hYZNOr_k)"
+      "value": "• [Solak Guide - All Phases Covered! | Maikeru RS - Youtube](https://www.youtube.com/watch?v=3z9hYZNOr_k)"
     }],
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
@@ -3363,7 +3467,7 @@ exports.data = {
       "name": "True Trimmed Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[A Safe Place For Rewards](https://runescape.wikia.com/wiki/Dodgy_Derek%27s_Dirty_Deals#Reward_Shop) requires the player to purchase all permanent rewards from [Dodgy Derek's Dirty Deals](https://runescape.wikia.com/wiki/Dodgy_Derek%27s_Dirty_Deals) reward shop. These rewards can be bought with [Pilfer points](https://runescape.wikia.com/wiki/Pilfer_points). The following rewards are considered permanent rewards:\n\n• The [Huge loot bag](https://runescape.wikia.com/wiki/Huge_loot_bag) upgrade\n• The [Master thief's lockpick](https://runescape.wikia.com/wiki/Master_thief%27s_lockpick) (for tool belt completion)\n• The [Master thief's stethoscope](https://runescape.wikia.com/wiki/Master_thief%27s_stethoscope) (for tool belt completion)\n\nThe player starts off with a [Small loot bag](https://runescape.wikia.com/wiki/Small_loot_bag), given to the player after talking to [Safe-cracking trainer](https://runescape.wikia.com/wiki/Safe-cracking_trainer). To unlock the Huge loot bag, the player first has to buy the [Medium loot bag](https://runescape.wikia.com/wiki/Medium_loot_bag) and the [Large loot bag](https://runescape.wikia.com/wiki/Large_loot_bag) upgrades. Because of this the total amount needed for all rewards is 12,500 Pilfer points.",
+    "description": "[A Safe Place For Rewards](https://runescape.wikia.com/wiki/Dodgy_Derek%27s_Dirty_Deals#Reward_Shop) requires the player to purchase all permanent rewards from [Dodgy Derek's Dirty Deals](https://runescape.wikia.com/wiki/Dodgy_Derek%27s_Dirty_Deals) reward shop. These rewards can be bought with [Pilfer points](https://runescape.wikia.com/wiki/Pilfer_points). The following rewards are considered permanent rewards:\n\n• The [Huge loot bag](https://runescape.wikia.com/wiki/Huge_loot_bag) upgrade\n• The [Master thief's lockpick](https://runescape.wikia.com/wiki/Master_thief%27s_lockpick) (for tool belt completion)\n• The [Master thief's stethoscope](https://runescape.wikia.com/wiki/Master_thief%27s_stethoscope) (for tool belt completion)\n\nThe player starts off with a [Small loot bag](https://runescape.wikia.com/wiki/Small_loot_bag), given to the player after talking to [Safe-cracking trainer](https://runescape.wikia.com/wiki/Safe-cracking_trainer). To unlock the Huge loot bag, the player first has to buy the [Medium loot bag](https://runescape.wikia.com/wiki/Medium_loot_bag) and the [Large loot bag](https://runescape.wikia.com/wiki/Large_loot_bag) upgrades. Because of this, the total amount needed for all rewards is 12,500 Pilfer points.",
     "color": 10257648,
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/4/4b/Master_thief%27s_stethoscope_detail.png/revision/latest?cb=20180502183154"
@@ -3397,7 +3501,11 @@ exports.data = {
     "fields": [{
       "name": "Requirements:",
       "value": "• Impressing the Locals Quest completion | [Runescape Wiki](https://runescape.wikia.com/wiki/Impressing_the_Locals)"
-    }],
+    },
+    {
+        "name": "Tips:",
+        "value": "Dungeoneering tokens are a reward from the Dungeoneering skill and are used to purchase rewards from the [Rewards trader](https://runescape.wikia.com/wiki/Marmaros). Tokens are received for completing a dungeon; no tokens are earned if the dungeon is left early. The amount of tokens a player receives is dependent on the amount of experience gained for completing a floor, in a 10:1 ratio of experience to tokens rounded down.\n\nTokens can also additionally be obtained from:\n\n• [Sinkholes](https://runescape.wikia.com/wiki/Sinkholes)\n• [Fremennik Sagas](https://runescape.wikia.com/wiki/Fremennik_Sagas)\n• [Dungeoneering token box](https://runescape.wikia.com/wiki/Dungeoneering_token_box)\n• Drops from [Kal'gerion demon](https://runescape.wikia.com/wiki/Kal%27gerion_demon)\n• [Pickpocketing](https://runescape.wikia.com/wiki/Thieving#Pickpocketing) a [Meilyr worker](https://runescape.wikia.com/wiki/Meilyr_worker)\n• [Elite Dungeons](https://runescape.wikia.com/wiki/Elite_dungeons)"
+      }],
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
@@ -3410,7 +3518,7 @@ exports.data = {
       "name": "True Trimmed Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Dungeoneering Rewards Shop (Deamonheim)](https://runescape.wikia.com/wiki/Elite_Dungeon_Reward_Shop) requires the player to unlock all the permanent [unlocks](https://runescape.wikia.com/wiki/Elite_Dungeon_Reward_Shop#Unlocks) from the elite dungeon reward shop in [Deamonheim](https://runescape.wikia.com/wiki/Deamonheim), which is run by [Bryll Thoksdottir](https://runescape.wikia.com/wiki/Bryll_Thoksdottir), and all the unlocks from the reward shop in Deamonheim, which is run by [Marmaros](https://runescape.wikia.com/wiki/Marmaros). Unlocking all permanent rewards includes the following:",
+    "description": "[Dungeoneering Rewards Shop (Deamonheim)](https://runescape.wikia.com/wiki/Elite_Dungeon_Reward_Shop) requires the player to unlock all the permanent [unlocks](https://runescape.wikia.com/wiki/Elite_Dungeon_Reward_Shop#Unlocks) from the [Elite Dungeon](https://runescape.wikia.com/wiki/Elite_Dungeons) reward shop in [Deamonheim](https://runescape.wikia.com/wiki/Deamonheim), which is run by [Bryll Thoksdottir](https://runescape.wikia.com/wiki/Bryll_Thoksdottir), and all the unlocks from the reward shop in Deamonheim, which is run by [Marmaros](https://runescape.wikia.com/wiki/Marmaros). Unlocking all permanent rewards includes the following:",
     "color": 10257648,
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/b/bc/Rewards_trader.png/revision/latest?cb=20140423011554"
@@ -3421,11 +3529,15 @@ exports.data = {
       },
       {
         "name": "Marmaros's Reward Shop:",
-        "value": "• The [Bonecrusher](https://runescape.wikia.com/wiki/Bonecrusher)\n• The [Herbicide](https://runescape.wikia.com/wiki/Herbicide)\n• The [Charming imp](https://runescape.wikia.com/wiki/Charming_imp)\n• The [Advanced gold accumulator](https://runescape.wikia.com/wiki/Advanced_gold_accumulator)\n• The [Frosty](https://runescape.wikia.com/wiki/Frosty) pet\n• The [Mini-Blink](https://runescape.wikia.com/wiki/Mini-Blink) pet\n• The [Hope Nibbler](https://runescape.wikia.com/wiki/Hope_Nibbler) pet\n\nThese permanent unlocks can be bought for a total of 3,418,000 [Dungeoneering tokens](https://runescape.wikia.com/wiki/Dungeoneering_token). Apart from the 3 pets, the rewards are not directly permanent, these rewards all needed for the completion of the [Slayer's tool belt](https://runescape.wikia.com/wiki/Tool_belt#Slayer), and therefore required to buy."
+        "value": "• The [Bonecrusher](https://runescape.wikia.com/wiki/Bonecrusher)\n• The [Herbicide](https://runescape.wikia.com/wiki/Herbicide)\n• The [Charming imp](https://runescape.wikia.com/wiki/Charming_imp)\n• The [Advanced gold accumulator](https://runescape.wikia.com/wiki/Advanced_gold_accumulator)\n• The [Frosty](https://runescape.wikia.com/wiki/Frosty) pet\n• The [Mini-Blink](https://runescape.wikia.com/wiki/Mini-Blink) pet\n• The [Hope Nibbler](https://runescape.wikia.com/wiki/Hope_Nibbler) pet\n\nThese permanent unlocks can be bought for a total of 3,418,000 [Dungeoneering tokens](https://runescape.wikia.com/wiki/Dungeoneering_token). Apart from the 3 pets, the rewards are not directly permanent. These rewards are all needed for the completion of the [Slayer's tool belt](https://runescape.wikia.com/wiki/Tool_belt#Slayer) and therefore are required to buy."
       },
       {
         "name": "Requirements:",
         "value": "• 21 Prayer\n• 21 Herblore\n• 99 Summoning\n• 101 Dungeoneering\n\n• 5,168,000 dungeoneering tokens\n• Defeated [Blink](https://runescape.wikia.com/wiki/Blink) once\n• Defeated the [Hope devourer](https://runescape.wikia.com/wiki/Hope_devourer) once\n\n• Impressing the Locals Quest completion | [Runescape Wiki](https://runescape.wikia.com/wiki/Impressing_the_Locals)"
+      },
+      {
+        "name": "Tips:",
+        "value": "Dungeoneering tokens are a reward from the Dungeoneering skill and are used to purchase rewards from the [Rewards trader](https://runescape.wikia.com/wiki/Marmaros). Tokens are received for completing a dungeon; no tokens are earned if the dungeon is left early. The amount of tokens a player receives is dependent on the amount of experience gained for completing a floor, in a 10:1 ratio of experience to tokens rounded down.\n\nTokens can also additionally be obtained from:\n\n• [Sinkholes](https://runescape.wikia.com/wiki/Sinkholes)\n• [Fremennik Sagas](https://runescape.wikia.com/wiki/Fremennik_Sagas)\n• [Dungeoneering token box](https://runescape.wikia.com/wiki/Dungeoneering_token_box)\n• Drops from [Kal'gerion demon](https://runescape.wikia.com/wiki/Kal%27gerion_demon)\n• [Pickpocketing](https://runescape.wikia.com/wiki/Thieving#Pickpocketing) a [Meilyr worker](https://runescape.wikia.com/wiki/Meilyr_worker)\n• [Elite Dungeons](https://runescape.wikia.com/wiki/Elite_dungeons)"
       },
       {
         "name": "Guide:",
@@ -3444,14 +3556,18 @@ exports.data = {
       "name": "True Trimmed Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Dungeoneering Rewards Shop (Dragonkin)](https://runescape.wikia.com/wiki/Dragonkin_Laboratory) requires the player to unlock all the permanent unlocks from the reward shop at the [Dragonkin laboratory](https://runescape.wikia.com/wiki/Dragonkin_Laboratory), which is run by [Bryll Thoksdottir](https://runescape.wikia.com/wiki/Bryll_Thoksdottir). The only permanent reward from the Elite dungeon rewards shop is the [Magma golem pet](https://runescape.wikia.com/wiki/Micah).\n\nThe Magma golem pet can only be bought, for 250,000 [Dungeoneering tokens](https://runescape.wikia.com/wiki/Dungeoneering_token) after the [Chill Out, Bro!](https://runescape.wikia.com/wiki/Chill_Out%2C_Bro!) achievement is completed.",
+    "description": "[Dungeoneering Rewards Shop (Dragonkin)](https://runescape.wikia.com/wiki/Dragonkin_Laboratory) requires the player to unlock all the permanent unlocks from the reward shop at the [Dragonkin laboratory](https://runescape.wikia.com/wiki/Dragonkin_Laboratory), which is run by [Bryll Thoksdottir](https://runescape.wikia.com/wiki/Bryll_Thoksdottir). The only permanent reward from the [Elite Dungeon](https://runescape.wikia.com/wiki/Elite_dungeons) rewards shop is the [Magma golem pet](https://runescape.wikia.com/wiki/Micah).\n\nThe Magma golem pet can only be bought, for 250,000 [Dungeoneering tokens](https://runescape.wikia.com/wiki/Dungeoneering_token) after the [Chill Out, Bro!](https://runescape.wikia.com/wiki/Chill_Out%2C_Bro!) achievement is completed.",
     "color": 10257648,
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/9/9e/Bryll_Thoksdottir.png/revision/latest?cb=20120217054316"
     },
     "fields": [{
       "name": "Requirements:",
-      "value": "• Completed the [Temple of Aminishi](https://runescape.wikia.com/wiki/Temple_of_Aminishi) once on story mode or normal mode"
+      "value": "• Completed the [Temple of Aminishi](https://runescape.wikia.com/wiki/Temple_of_Aminishi) once on story mode or normal mode\n• Completed the Chill Out, Bro! Elite Dungeon Achievement"
+    },
+    {
+      "name": "Tips:",
+      "value": "Dungeoneering tokens are a reward from the Dungeoneering skill and are used to purchase rewards from the [Rewards trader](https://runescape.wikia.com/wiki/Marmaros). Tokens are received for completing a dungeon; no tokens are earned if the dungeon is left early. The amount of tokens a player receives is dependent on the amount of experience gained for completing a floor, in a 10:1 ratio of experience to tokens rounded down.\n\nTokens can also additionally be obtained from:\n\n• [Sinkholes](https://runescape.wikia.com/wiki/Sinkholes)\n• [Fremennik Sagas](https://runescape.wikia.com/wiki/Fremennik_Sagas)\n• [Dungeoneering token box](https://runescape.wikia.com/wiki/Dungeoneering_token_box)\n• Drops from [Kal'gerion demon](https://runescape.wikia.com/wiki/Kal%27gerion_demon)\n• [Pickpocketing](https://runescape.wikia.com/wiki/Thieving#Pickpocketing) a [Meilyr worker](https://runescape.wikia.com/wiki/Meilyr_worker)\n• [Elite Dungeons](https://runescape.wikia.com/wiki/Elite_dungeons)"
     }],
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
@@ -3465,7 +3581,7 @@ exports.data = {
       "name": "True Trimmed Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Slayer Rewards Shop](https://runescape.wikia.com/wiki/Slayer_reward_point#Rewards) requires the player to buy the permanent slayer shop unlocks, that are not required for the [Trimmed Completionist Cape](https://runescape.wikia.com/wiki/Completionist_cape_(t%29). The following rewards are considered permanent unlocks:\n\n• Ability to use a new technique to attack [Ice strykewyrms](https://runescape.wikia.com/wiki/Ice_strykewyrm)\n• Learn how to fuse [Ferocious rings](https://runescape.wikia.com/wiki/Ferocious_ring) to [Full slayer helmets](https://runescape.wikia.com/wiki/Full_slayer_helmet)\n• Learn how to attach a [Bonecrusher](https://runescape.wikia.com/wiki/Bonecrusher) to your [tool belt](https://runescape.wikia.com/wiki/Tool_belt)\n• Learn how to attach a [Herbicide](https://runescape.wikia.com/wiki/Herbicide) to your tool belt\n• Learn how to attach [Seedicide](https://runescape.wikia.com/wiki/Seedicide) to your tool belt\n• Learn how to attach the [Charming imp](https://runescape.wikia.com/wiki/Charming_imp) to your tool belt\n• Learn how to attach the [Advanced gold accumulator](https://runescape.wikia.com/wiki/Advanced_gold_accumulator) to your tool belt\n• Cheaper costs to ungrade [Slayer helmet](https://runescape.wikia.com/wiki/Full_slayer_helmet)\n\nThe cheaper upgrade costs for each tier of the slayer helm can be unlocked by upgrading it once, if the upgraded slayer helm is lost, the next time the unlock is bought it will be decreased price.\n\nThe permanent rewards can be bought for a total of 6,100 [Slayer points](https://runescape.wikia.com/wiki/Slayer_reward_point).",
+    "description": "[Slayer Rewards Shop](https://runescape.wikia.com/wiki/Slayer_reward_point#Rewards) requires the player to buy the permanent slayer shop unlocks that are not required for the [Trimmed Completionist Cape](https://runescape.wikia.com/wiki/Completionist_cape_(t%29). The following rewards are considered permanent unlocks:\n\n• Ability to use a new technique to attack [Ice strykewyrms](https://runescape.wikia.com/wiki/Ice_strykewyrm)\n• Learn how to fuse [Ferocious rings](https://runescape.wikia.com/wiki/Ferocious_ring) to [Full slayer helmets](https://runescape.wikia.com/wiki/Full_slayer_helmet)\n• Learn how to attach a [Bonecrusher](https://runescape.wikia.com/wiki/Bonecrusher) to your [tool belt](https://runescape.wikia.com/wiki/Tool_belt)\n• Learn how to attach a [Herbicide](https://runescape.wikia.com/wiki/Herbicide) to your tool belt\n• Learn how to attach [Seedicide](https://runescape.wikia.com/wiki/Seedicide) to your tool belt\n• Learn how to attach the [Charming imp](https://runescape.wikia.com/wiki/Charming_imp) to your tool belt\n• Learn how to attach the [Advanced gold accumulator](https://runescape.wikia.com/wiki/Advanced_gold_accumulator) to your tool belt\n• Cheaper costs to ungrade [Slayer helmet](https://runescape.wikia.com/wiki/Full_slayer_helmet)\n\nThe cheaper upgrade costs for each tier of the slayer helm can be unlocked by upgrading it once. If the upgraded slayer helm is lost, the next time the unlock is bought it will be decreased price.\n\nThe permanent rewards can be bought for a total of 6,100 [Slayer points](https://runescape.wikia.com/wiki/Slayer_reward_point).",
     "color": 10257648,
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/0/00/Full_slayer_helmet_detail.png/revision/latest?cb=20120720022839"
@@ -3491,7 +3607,7 @@ exports.data = {
       "name": "True Trimmed Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Slayer Rewards Shop (Social)](https://runescape.wikia.com/wiki/Co-op_points#Rewards) requires the player to buy the permanent social slayer shop unlocks, that are not required for the [Trimmed Completionist Cape](https://runescape.wikia.com/wiki/Completionist_cape_(t%29). The following rewards are considered permanent unlocks:\n\n• Ability to use food on your co-op slayer partner\n• Learn how to share your co-op partner's protective slayer equipment.\n• Learn how to share your [Portent healing](https://runescape.wikia.com/wiki/Portent_of_restoration) effects with your co-op partner\n• Learn how to share your Slayer teleports: [Ring of Slaying](https://runescape.wikia.com/wiki/Ring_of_slaying), [Ferocious Ring](https://runescape.wikia.com/wiki/Ferocious_ring)\n• Learn how to share half the effect of potions with your co-op partner\n• The [Squidge](https://runescape.wikia.com/wiki/Squidge) pet\n• The [Runtstable](https://runescape.wikia.com/wiki/Runtstable) pet\n• [Freezy's](https://runescape.wikia.com/wiki/Freezy) jungle skin\n• [Freezy's](https://runescape.wikia.com/wiki/Freezy) wilderness skin\n• [Freezy's](https://runescape.wikia.com/wiki/Freezy) desert skin\n\nThe Freezy pet itself has to be bought again if lost, but the skins only have to be purchased once and may be changed by right clicking the pet.\n\nThe permanent rewards, abilities and pets can be bought for a total of 850 [Co-op slayer points](https://runescape.wikia.com/wiki/Co-op_points).",
+    "description": "[Slayer Rewards Shop (Social)](https://runescape.wikia.com/wiki/Co-op_points#Rewards) requires the player to buy the permanent social slayer shop unlocks. The following rewards are considered permanent unlocks:\n\n• Ability to use food on your co-op slayer partner\n• Learn how to share your co-op partner's protective slayer equipment.\n• Learn how to share your [Portent healing](https://runescape.wikia.com/wiki/Portent_of_restoration) effects with your co-op partner\n• Learn how to share your Slayer teleports: [Ring of Slaying](https://runescape.wikia.com/wiki/Ring_of_slaying), [Ferocious Ring](https://runescape.wikia.com/wiki/Ferocious_ring)\n• Learn how to share half the effect of potions with your co-op partner\n• The [Squidge](https://runescape.wikia.com/wiki/Squidge) pet\n• The [Runtstable](https://runescape.wikia.com/wiki/Runtstable) pet\n• [Freezy's](https://runescape.wikia.com/wiki/Freezy) jungle skin\n• [Freezy's](https://runescape.wikia.com/wiki/Freezy) wilderness skin\n• [Freezy's](https://runescape.wikia.com/wiki/Freezy) desert skin\n\nThe Freezy pet itself has to be bought again if lost, but the skins only have to be purchased once and may be changed by right clicking the pet.\n\nThe permanent rewards, abilities and pets can be bought for a total of 850 [Co-op slayer points](https://runescape.wikia.com/wiki/Co-op_points).",
     "color": 10257648,
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/0/00/Full_slayer_helmet_detail.png/revision/latest?cb=20120720022839"
@@ -3512,7 +3628,7 @@ exports.data = {
       "name": "True Trimmed Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Watch Out for The Crystal Urchins!](https://runescape.wikia.com/wiki/Prifddinas_Waterfall_Fishing) requires the player to purchase all permanent rewards from the [Prifddinas Waterfall Fishing Shop](https://runescape.wikia.com/wiki/Prifddinas_Waterfall_Fishing_Shop), which is ran by [Mhistyll](https://runescape.wikia.com/wiki/Mhistyll), and can be found between the [Meilyr Clan](https://runescape.wikia.com/wiki/Meilyr_Clan) and the [Crwys Clan](https://runescape.wikia.com/wiki/Crwys_Clan) districts in the north eastern part of [Prifddinas](https://runescape.wikia.com/wiki/Prifddinas). These rewards can be bought with [Crystal urchin points](https://runescape.wikia.com/wiki/Crystal_urchin_point). The following rewards are considered permanent rewards:\n\n• The [Master Fisherman/Master Fisherwoman](https://runescape.wikia.com/wiki/The_Master_Fisherman/Fisherwoman) title\n• Ability to create [Crystal fishing rods](https://runescape.wikia.com/wiki/Crystal_fishing_rod)",
+    "description": "[Watch Out for The Crystal Urchins!](https://runescape.wikia.com/wiki/Prifddinas_Waterfall_Fishing) requires the player to purchase all permanent rewards from the [Prifddinas Waterfall Fishing Shop](https://runescape.wikia.com/wiki/Prifddinas_Waterfall_Fishing_Shop).\n\nThe shop is ran by [Mhistyll](https://runescape.wikia.com/wiki/Mhistyll) and can be found between the [Meilyr Clan](https://runescape.wikia.com/wiki/Meilyr_Clan) and the [Crwys Clan](https://runescape.wikia.com/wiki/Crwys_Clan) districts in the north eastern part of [Prifddinas](https://runescape.wikia.com/wiki/Prifddinas).\n\nThese rewards can be bought with [Crystal urchin points](https://runescape.wikia.com/wiki/Crystal_urchin_point), which are earned by having kinds of [crystal urchins](https://runescape.wikia.com/wiki/Crystal_urchin) in the inventory. The following rewards are considered permanent rewards:\n\n• The [Master Fisherman/Master Fisherwoman](https://runescape.wikia.com/wiki/The_Master_Fisherman/Fisherwoman) title\n• Ability to create [Crystal fishing rods](https://runescape.wikia.com/wiki/Crystal_fishing_rod)",
     "color": 10257648,
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/f/f9/Crystal_fishing_rod_detail.png/revision/latest?cb=20150921220210"
@@ -3545,7 +3661,7 @@ exports.data = {
     },
     "fields": [{
       "name": "Tips:",
-      "value": "A big amount of the playerbase makes use of the 3rd party application called [Alt1](https://runeapps.org/alt1), which helps speed up the [Treasure Trails](https://runescape.wikia.com/wiki/Treasure_Trails). It currently is not against the rules, but the player should always be cautious when using an application that is not owned by Jagex."
+      "value": "The [Alt1 Toolkit Clue scroll solver](https://runeapps.org/clue) website and/or downloadable application make clues into a quick task by helping with all types of puzzles, locations, and coordinates. It currently is not against the rules, but the player should always be cautious when using an application that is not owned by Jagex."
     }],
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
@@ -3559,18 +3675,18 @@ exports.data = {
       "name": "True Trimmed Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Elite Skilling Wardrobe](https://runescape.wikia.com/wiki/Experience-boosting_set) requires the player to obtain the [Elite skilling outfits](https://runescape.wikia.com/wiki/Experience-boosting_set#Elite_skilling_outfits) that are currently available by training the corresponding skills, and the use of the [Invention](https://runescape.wikia.com/wiki/Invention) skill. The following elite skilling outfits are currently available through in game content:\n\n• The [Elder divination outfit](https://runescape.wikia.com/wiki/Elder_divination_outfit)\n• The [Fury shark outfit](https://runescape.wikia.com/wiki/Fury_shark_outfit)\n• The [Magic golem outfit](https://runescape.wikia.com/wiki/Magic_golem_outfit)\n• The [Master camouflage outfit](https://runescape.wikia.com/wiki/Master_camouflage_outfit)\n• The [Infinity ethereal outfit](https://runescape.wikia.com/wiki/Infinity_ethereal_outfit)\n• The [Warped gorajan trailblazer outfit](https://runescape.wikia.com/wiki/Warped_gorajan_trailblazer_outfit)",
+    "description": "[Elite Skilling Wardrobe](https://runescape.wikia.com/wiki/Experience-boosting_set) requires the player to obtain the [Elite skilling outfits](https://runescape.wikia.com/wiki/Experience-boosting_set#Elite_skilling_outfits) that are currently available by training the corresponding skills and with the use of the [Invention](https://runescape.wikia.com/wiki/Invention) skill. The following elite skilling outfits are currently available through in game content:\n\n• The [Elder divination outfit](https://runescape.wikia.com/wiki/Elder_divination_outfit)\n• The [Fury shark outfit](https://runescape.wikia.com/wiki/Fury_shark_outfit)\n• The [Magic golem outfit](https://runescape.wikia.com/wiki/Magic_golem_outfit)\n• The [Master camouflage outfit](https://runescape.wikia.com/wiki/Master_camouflage_outfit)\n• The [Infinity ethereal outfit](https://runescape.wikia.com/wiki/Infinity_ethereal_outfit)\n• The [Warped gorajan trailblazer outfit](https://runescape.wikia.com/wiki/Warped_gorajan_trailblazer_outfit)\n• The [Master farmer outfit](https://runescape.wikia.com/wiki/Master_farmer_outfit)",
     "color": 10257648,
     "thumbnail": {
-      "url": "https://vignette.wikia.nocookie.net/runescape2/images/b/bc/Warped_gorajan_trailblazer_outfit_equipped.png/revision/latest?cb=20161231134804"
+      "url": "https://vignette.wikia.nocookie.net/runescape2/images/a/aa/Master_farmer_outfit_equipped.png/revision/latest/scale-to-width-down/120?cb=20180910041227"
     },
     "fields": [{
         "name": "Obtaining the Outfits:",
-        "value": "To obtain all Elite skilling outfits, the player needs a total of 54,000 fragements for every full skilling outfit, apart from the Warped gorajan trailblazer outfit which requires 72,000 fragments, up to a total of 342,000 total fragments. These fragments can be obtained by training the corresponding skills:\n\n• [Divination](https://runescape.wikia.com/wiki/Divination)\n• [Fishing](https://runescape.wikia.com/wiki/Fishing)\n• [Mining](https://runescape.wikia.com/wiki/Mining)\n• [Thieving](https://runescape.wikia.com/wiki/Thieving)\n• [Runecrafting](https://runescape.wikia.com/wiki/Runecrafting)\n• [Dungeoneering](https://runescape.wikia.com/wiki/Dungeoneering)\n\nMore outfits will be added overtime and will likely be obtained through the same method as the current Elite skilling outfits."
+        "value": "To obtain all Elite skilling outfits, the player needs a total of 54,000 fragements for every full skilling outfit, apart from the Warped gorajan trailblazer outfit which requires 72,000 fragments. These fragments can be obtained by training the corresponding skills:\n\n• Divination for [divinaiton fragments](https://runescape.wikia.com/wiki/Divination_fragments)\n• Fishing for [shark fragments](https://runescape.wikia.com/wiki/Shark_fragments)\n• Mining for [gemstone golem fragments](https://runescape.wikia.com/wiki/Gemstone_golem_fragment)\n• Thieving for [camoflauge fragments](https://runescape.wikia.com/wiki/Camouflage_fragments)\n• Runecrafting for [rune etheral fragments](https://runescape.wikia.com/wiki/Rune_ethereal_fragment)\n• Dungeoneering for [dungeoneering fragments](https://runescape.wikia.com/wiki/Dungeoneering_fragments)\n• Farming for [master farming fragments](https://runescape.wikia.com/wiki/Master_farmer_fragments)"
       },
       {
         "name": "Requirements:",
-        "value": "• 20 Invetion\n• 80 Divination\n• 80 Fishing\n• 80 Mining\n• 80 Thieving\n• 80 Runecrafting\n• 80 Dungeoneering\n\nTo recieve the fragments the player only needs level 70 in the corresponding skills, the level 80 requirement is to actually make the outfit pieces. To be able to make the [Gorajan trailblazer outfits](https://runescape.wikia.com/wiki/Gorajan_trailblazer_outfits), the player will have to buy the elite dungeoneering outfit blueprint from the [Elite Dungeon Reward Shop](https://runescape.wikia.com/wiki/Elite_Dungeon_Reward_Shop) in [Daemonheim](https://runescape.wikia.com/wiki/Daemonheim)."
+        "value": "• 20 Invetion\n• 80 Divination\n• 80 Fishing\n• 80 Mining\n• 80 Thieving\n• 80 Runecrafting\n• 80 Dungeoneering\n• 80 Farming\n\n• 200,000 [Dungeoneering tokens](https://runescape.wikia.com/wiki/Dungeoneering_token)\n• 1,000 [beans](https://runescape.wikia.com/wiki/Beans)\n\n• To recieve the fragments, the player only needs level 70 in the corresponding skills; the level 80 requirement is to actually make the outfit pieces.\n\n• To be able to make the Gorajan trailblazer outfits, the player will have to buy the Elite dungeoneering outfit blueprint from the [Elite Dungeon Reward Shop](https://runescape.wikia.com/wiki/Elite_Dungeon_Reward_Shop) in [Daemonheim](https://runescape.wikia.com/wiki/Daemonheim).\n• To be able to make the Master farmer outfit, the player will have to buy the Master farmer outfit blueprint from [Granny Potterington](https://runescape.wikia.com/wiki/Granny_Potterington) at the [Farmers' Market](https://runescape.wikia.com/wiki/Farmers%27_Market)."
       }
     ],
     "footer": {
@@ -3585,14 +3701,18 @@ exports.data = {
       "name": "True Trimmed Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Fountain Of Slimy Prayers](https://runescape.wikia.com/wiki/Ectofuntus#How_to_worship_the_Ectofuntus) requires the player to buy the full [First age outfit](https://runescape.wikia.com/wiki/First_age_outfit) from the [Shady ghost](https://runescape.wikia.com/wiki/Shady_ghost), whom can be found next to the [Ectofuntus](https://runescape.wikia.com/wiki/Ectofuntus), north of [Port Phasmatys](https://runescape.wikia.com/wiki/Port_Phasmatys).\n\nEach piece can be bought for 1,000 [Ecto-tokens](https://runescape.wikia.com/wiki/Ecto-token) which can be obtained by [worshipping the Ectofuntus](https://runescape.wikia.com/wiki/Ectofuntus#Training). The full set will cost a total of 6,000 Ecto-tokens, this includes the [First age tiara add-on](https://runescape.wikia.com/wiki/First_age_tiara_add-on), which can be bought for 1,000 Ecto-tokens once the full set is obtained.",
+    "description": "[Fountain Of Slimy Prayers](https://runescape.wikia.com/wiki/Ectofuntus#How_to_worship_the_Ectofuntus) requires the player to buy the full [First age outfit](https://runescape.wikia.com/wiki/First_age_outfit) from the [Shady ghost](https://runescape.wikia.com/wiki/Shady_ghost). The shady ghost can be found next to the [Ectofuntus](https://runescape.wikia.com/wiki/Ectofuntus), north of [Port Phasmatys](https://runescape.wikia.com/wiki/Port_Phasmatys).\n\nEach piece can be bought for 1,000 [Ecto-tokens](https://runescape.wikia.com/wiki/Ecto-token), which can be obtained by [worshipping the Ectofuntus](https://runescape.wikia.com/wiki/Ectofuntus#Training). The full set will cost a total of 6,000 Ecto-tokens. Note the full set includes the [First age tiara add-on](https://runescape.wikia.com/wiki/First_age_tiara_add-on), which can be bought for 1,000 Ecto-tokens after the full set is obtained.",
     "color": 10257648,
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/1/1d/First_age_ring_detail.png/revision/latest?cb=20170121050818"
     },
     "fields": [{
+      "name": "Tips:",
+      "value": "Players can worship as many as 511 times before having to claim their earned ecto-tokens. To redeem the ecto-tokens, players must talk to a [ghost disciple](https://runescape.wikia.com/wiki/Ghost_disciple) with an [amulet of ghostspeak](https://runescape.wikia.com/wiki/Ghostspeak_amulet) equipped, or right-click a ghost disciple and choose the Collect option.\n\nTo worship the Ectofuntus, you must have bones. On the east side of the Ectofuntus there are stairs, which will take you to the bone grinder. Use the bones on the hopper. You can set to manual or automatic, automatic is easier. On the west side of the Ectofuntus there is a trap door. Go down, and follow the path all the way to the bottom. You will need a pot of [bonemeal](https://runescape.wikia.com/wiki/Bonemeal) or [demonic ashes](https://runescape.wikia.com/wiki/Demon_ashes) for every [bucket of slime](https://runescape.wikia.com/wiki/Bucket_of_slime). Now you can worship the Ectofuntus."
+    },
+    {
       "name": "Guide:",
-      "value": "[How to get First Age Prayer Outfit FAST! | puretppc - Youtube](https://www.youtube.com/watch?v=IMdf3h8VTDw)"
+      "value": "• [How to get First Age Prayer Outfit FAST! | puretppc - Youtube](https://www.youtube.com/watch?v=IMdf3h8VTDw)"
     }],
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
@@ -3606,12 +3726,16 @@ exports.data = {
       "name": "True Trimmed Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Mining For Golden Nymphs](https://runescape.wikia.com/wiki/Lava_Flow_Mine#Distractions) requires the player to unlock the [Golden mining suit](https://runescape.wikia.com/wiki/Golden_mining_suit) from the [Lava Flow Mine](https://runescape.wikia.com/wiki/Lava_Flow_Mine). The suit pieces are obtained from the [Liquid Gold Nymphs](https://runescape.wikia.com/wiki/Liquid_Gold_Nymph), which have a spawn rate of 1 in 846 after each successful mining attempt while mining the crust on the lava streams.",
+    "description": "[Mining For Golden Nymphs](https://runescape.wikia.com/wiki/Lava_Flow_Mine#Distractions) requires the player to unlock the [Golden mining suit](https://runescape.wikia.com/wiki/Golden_mining_suit) from the [Lava Flow Mine](https://runescape.wikia.com/wiki/Lava_Flow_Mine). The suit pieces are obtained from the [Liquid Gold Nymphs](https://runescape.wikia.com/wiki/Liquid_Gold_Nymph), which have a spawn rate of 1 in 846 after each successful mining attempt while mining the crust on the lava streams.\n\nWhen she appears, a message in the chatbox reads \"A Liquid Gold Nymph rises out of the lava as you mine.\" She only appears to one player at a time and will not automatically talk to the player, though more than one nymph can appear at any time. When the Nymph appears, she will make a simple humming sound, so it is recommended to have the sound effects on high to hear her since it is a faint noise.\n\nIt is confirmed that the segment in which the player mines does not affect the appearance of the Nymph; it only affects the experience being earned. Mining in a world where no other players are present at the Lava Flow Mine will not increase the chances of encountering her.\n\nAfter she appears, the player has 5 minutes to talk to her to gain the reward before she disappears. Even if the 5 minutes aren't up, she will disappear upon logout and disconnection. Furthermore, if the mining site is left (i.e. if one were to get another pickaxe because their current one is already gilded), she will not be there on return. A player that loses connection while attempting to receive a reward will not receive a reward.",
     "color": 10257648,
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/a/a3/Golden_mining_top_detail.png/revision/latest?cb=20110601183129"
     },
     "fields": [{
+      "name": "​",
+      "value": "The full set consists of:\n• The [Golden mining boots](https://runescape.wikia.com/wiki/Golden_mining_boots)\n• The [Golden mining gloves](https://runescape.wikia.com/wiki/Golden_mining_gloves)\n• The [Golden mining helmet](https://runescape.wikia.com/wiki/Golden_mining_helmet)\n• The [Golden mining trousers](https://runescape.wikia.com/wiki/Golden_mining_trousers)\n• The [Golden mining top](https://runescape.wikia.com/wiki/Golden_mining_top)"
+    },
+    {
       "name": "Requirements:",
       "value": "• King of the Dwarves Quest completion [Runescape Wiki](https://runescape.wikia.com/wiki/King_of_the_Dwarves)"
     }],
@@ -3627,14 +3751,18 @@ exports.data = {
       "name": "True Trimmed Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[The Blueprints of Discovery](https://runescape.wikia.com/wiki/Discovery) requires the player to discover and make all the [Invention](https://runescape.wikia.com/wiki/Invention) [Blueprints](https://runescape.wikia.com/wiki/Discovery#Blueprints). Discovering all blueprints would result in a total experience gain of 9,638,979.7, if no bonus experience was used (12.1% of level 120).",
+    "description": "[The Blueprints of Discovery](https://runescape.wikia.com/wiki/Discovery) requires the player to discover and make all the [Invention](https://runescape.wikia.com/wiki/Invention) [Blueprints](https://runescape.wikia.com/wiki/Discovery#Blueprints). Discovering all blueprints will result in a total experience gain of 9,638,979.7, if no bonus experience was used (12.1% of level 120). With this being said, it is very adventageous to complete these before level 120 or 150 invention.",
     "color": 10257648,
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/f/f8/Doc.png/revision/latest?cb=20160127130947"
     },
     "fields": [{
         "name": "Requirements:",
-        "value": "• 2,500 [reputation](https://runescape.wikia.com/wiki/Reputation_(Heart_of_Gielinor%29) at each of the [Heart of Gielinor](https://runescape.wikia.com/wiki/Heart_of_Gielinor)'s factions\n• The [Enchanted notepaper](https://runescape.wikia.com/wiki/Enchanted_notepaper) blueprint from [Bryll Thoksdottir](https://runescape.wikia.com/wiki/Elite_Dungeon_Reward_Shop)\n• The [Elite Dungeoneering outfit](https://runescape.wikia.com/wiki/Gorajan_trailblazer_outfits) blueprint from Bryll Thoksdottir\n• The [Dwarven tech tree](https://runescape.wikia.com/wiki/Dwarven_technology_tree) completed\n• The [Cave goblin technology tree](https://runescape.wikia.com/wiki/Cave_goblin_tech_tree) completed\n• The [Crystal tool siphon](https://runescape.wikia.com/wiki/Crystal_tool_siphon) blueprint from the [Waiko Reward Shop](https://runescape.wikia.com/wiki/Waiko_Reward_Shop)\n\n• Nomad's Elegy Quest completion | [Runescape Wiki](https://runescape.wikia.com/wiki/Nomad%27s_Elegy)"
+        "value": "• 2,500 [reputation](https://runescape.wikia.com/wiki/Reputation_(Heart_of_Gielinor%29) at each of the [Heart of Gielinor](https://runescape.wikia.com/wiki/Heart_of_Gielinor)'s factions\n\n• The [Enchanted notepaper](https://runescape.wikia.com/wiki/Enchanted_notepaper) blueprint from [Bryll Thoksdottir](https://runescape.wikia.com/wiki/Elite_Dungeon_Reward_Shop)\n• The [Elite Dungeoneering outfit](https://runescape.wikia.com/wiki/Gorajan_trailblazer_outfits) blueprint from Bryll Thoksdottir\n• The [Master farmer outfit](https://runescape.wikia.com/wiki/Master_farmer_outfit) blueprint from [Granny Potterington](https://runescape.wikia.com/wiki/Granny_Potterington) at the [Farmers' Market](https://runescape.wikia.com/wiki/Farmers%27_Market)\n• The [Crystal tool siphon](https://runescape.wikia.com/wiki/Crystal_tool_siphon) blueprint from the [Waiko Reward Shop](https://runescape.wikia.com/wiki/Waiko_Reward_Shop)"
+      },
+      {
+        "name": "​",
+        "value": "• The [Dwarven tech tree](https://runescape.wikia.com/wiki/Dwarven_technology_tree) completed\n• The [Cave goblin technology tree](https://runescape.wikia.com/wiki/Cave_goblin_tech_tree) completed\n\n• Nomad's Elegy Quest completion | [Runescape Wiki](https://runescape.wikia.com/wiki/Nomad%27s_Elegy)"
       },
       {
         "name": "Guide:",
@@ -3653,18 +3781,18 @@ exports.data = {
       "name": "True Trimmed Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Insane Final Boss](https://runescape.wikia.com/wiki/Insane_Final_Boss) is an achievement that requires the player to complete the following achievements:\n\n• The [Final boss](https://runescape.wikia.com/wiki/Final_Boss_(achievement%29) achievement (with 100 normal mode kills of each boss)\n• All [Boss pets](https://runescape.wikia.com/wiki/Boss_Pets_achievements) achievements\n• The [Birdstrike VI](https://runescape.wikia.com/wiki/Birdstrike_VI) achievement\n• The [Crabtivating Solo Kills VI](https://runescape.wikia.com/wiki/Crabtivating_Solo_Kills_VI) achievement\n• The [General Disaster VI](https://runescape.wikia.com/wiki/General_Disaster_VI) achievement\n• The [Gregore-Y VI](https://runescape.wikia.com/wiki/Gregore-Y_VI) achievement\n• The [Hel in a Handbasket VI](https://runescape.wikia.com/wiki/Hel_in_a_Handbasket_VI) achievement\n• The [Here We Rago Again VI](https://runescape.wikia.com/wiki/Here_We_Rago_Again_VI) achievement\n• The [Kill K'ril Vol 2 VI](https://runescape.wikia.com/wiki/Kill_K%27ril_Vol_2_VI) achievement\n• The [Masuta Master Solo Kills VI](https://runescape.wikia.com/wiki/Masuta_Master_Solo_Kills_VI) achievement\n• The [More Fast More Furious VI](https://runescape.wikia.com/wiki/More_Fast_More_Furious_VI) achievement\n• The [Slay-ryu Solo Kills VI](https://runescape.wikia.com/wiki/Slay-ryu_Solo_Kills_VI) achievement\n• The [Vindictive VI](https://runescape.wikia.com/wiki/Vindictive_VI) achievement\n• The [Whack a Mole VI](https://runescape.wikia.com/wiki/Whack_a_Mole_VI) achievement\n• The [Zillier Way to Die VI](https://runescape.wikia.com/wiki/Zillier_Way_to_Die_VI) achievement\n\nCompleting this achievement will reward the player with the [Insane Final Boss](https://runescape.wikia.com/wiki/Final_Boss#Insane_Final_Boss) title.\n\nThe final boss achievement can be completed with 100 hardmode, challenge mode and solo mode kills from their corresponding bosses, but to complete the insane final boss achievement, the player needs both hardmode and normal mode kills.",
+    "description": "[Insane Final Boss](https://runescape.wikia.com/wiki/Insane_Final_Boss) is an achievement that requires the player to complete the following achievements:\n\n• The [Final boss](https://runescape.wikia.com/wiki/Final_Boss_(achievement%29) achievement (with 100 normal mode kills of each boss)\n• All [Boss pets](https://runescape.wikia.com/wiki/Boss_Pets_achievements) achievements\n• The [Birdstrike VI](https://runescape.wikia.com/wiki/Birdstrike_VI) achievement\n• The [Crabtivating Solo Kills VI](https://runescape.wikia.com/wiki/Crabtivating_Solo_Kills_VI) achievement\n• The [General Disaster VI](https://runescape.wikia.com/wiki/General_Disaster_VI) achievement\n• The [Gregore-Y VI](https://runescape.wikia.com/wiki/Gregore-Y_VI) achievement\n• The [Hel in a Handbasket VI](https://runescape.wikia.com/wiki/Hel_in_a_Handbasket_VI) achievement\n• The [Here We Rago Again VI](https://runescape.wikia.com/wiki/Here_We_Rago_Again_VI) achievement\n• The [Kill K'ril Vol 2 VI](https://runescape.wikia.com/wiki/Kill_K%27ril_Vol_2_VI) achievement\n• The [Masuta Master Solo Kills VI](https://runescape.wikia.com/wiki/Masuta_Master_Solo_Kills_VI) achievement\n• The [More Fast More Furious VI](https://runescape.wikia.com/wiki/More_Fast_More_Furious_VI) achievement\n• The [Slay-ryu Solo Kills VI](https://runescape.wikia.com/wiki/Slay-ryu_Solo_Kills_VI) achievement\n• The [Vindictive VI](https://runescape.wikia.com/wiki/Vindictive_VI) achievement\n• The [Whack a Mole VI](https://runescape.wikia.com/wiki/Whack_a_Mole_VI) achievement\n• The [Zillier Way to Die VI](https://runescape.wikia.com/wiki/Zillier_Way_to_Die_VI) achievement\n\nCompleting this achievement will reward the player with the [Insane Final Boss](https://runescape.wikia.com/wiki/Final_Boss#Insane_Final_Boss) title.\n\nThe final boss achievement can be completed with 100 hardmode, challenge mode, and solo mode kills from their corresponding bosses. However, to complete the insane final boss achievement, the player needs both hardmode and normal mode kills.",
     "color": 10257648,
     "thumbnail": {
       "url": "https://i.imgur.com/Shmagnp.png"
     },
     "fields": [{
       "name": "Tips:",
-      "value": "It is highly recommended that the player does their daily [Soul Reaper assignments](https://runescape.wikia.com/wiki/Soul_Reaper#Assignments), this will give a chance on a boss pet from the corresponding assignment, and therefore the player does not have to camp a single boss trying to get the pets 1 by 1."
+      "value": "It is highly recommended that the player does their daily [Soul Reaper assignments](https://runescape.wikia.com/wiki/Soul_Reaper#Assignments). This will give a chance on a boss pet from the corresponding assignment while breaking up the grind so the player does not have to camp a single boss trying to get the pets 1 by 1."
     }],
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-      "text": "Runescore awarded: 75"
+      "text": "Runescore awarded: 0"
     }
   },
   "unlockables - titles - master of all": {
@@ -3694,15 +3822,15 @@ exports.data = {
       "name": "True Trimmed Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[The Warden](https://runescape.wikia.com/wiki/The_Warden) is a title which can be obtained by defeating [Telos, the Warden](https://runescape.wikia.com/wiki/Telos,_the_Warden), which can be found in his chamber accessible through a large tree structure in the middle of [Heart of Gielinor](https://runescape.wikia.com/wiki/Heart_of_Gielinor), with at least 500% enrage, which will also complete the [Telos If You're Angry IV](https://runescape.wikia.com/wiki/Telos_If_You%27re_Angry_IV) achievement, and reward the player with 5 [RuneScore](https://runescape.wikia.com/wiki/RuneScore).",
+    "description": "[The Warden](https://runescape.wikia.com/wiki/The_Warden) is a title which can be obtained by defeating [Telos, the Warden](https://runescape.wikia.com/wiki/Telos,_the_Warden) with at least 500% enrage. Telos can be found in his chamber accessible through a large tree structure in the middle of [Heart of Gielinor](https://runescape.wikia.com/wiki/Heart_of_Gielinor).\n\nWhile [Deathtouched darts](https://runescape.wikia.com/wiki/Deathtouched_dart) can be used to increase the players enraged, it cannot be used to obtain this title.\n\nThis will also complete the [Telos If You're Angry IV](https://runescape.wikia.com/wiki/Telos_If_You%27re_Angry_IV) achievement, and reward the player with 5 [RuneScore](https://runescape.wikia.com/wiki/RuneScore).",
     "color": 10257648,
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/c/c6/Telos%2C_the_Warden.png/revision/latest?cb=20160715010706"
     },
     "fields": [{
-        "name": "Requirements:",
-        "value": "• [Ancient sigil](https://runescape.wikia.com/wiki/Ancient_sigil)\n\n• 80 Attack\n• 80 Magic\n• 80 Ranged\n• 80 Prayer"
-      },
+                    "name": "Requirements:",
+                    "value": "• 80 Attack\n• 80 Prayer\n• 80 Magic\n• 80 Ranged\n\n• An [Ancient Sigil](http://runescape.wikia.com/wiki/Ancient_sigil)\n• Players must have defeated [Helwyr](https://runescape.wikia.com/wiki/Helwyr), [Gregorovic](https://runescape.wikia.com/wiki/Gregorovic), the [Twin Furies](https://runescape.wikia.com/wiki/Twin_Furies), and [Vindicta](https://runescape.wikia.com/wiki/Vindicta) at least once to obtain their sigil pieces"
+                },
       {
         "name": "Guides:",
         "value": "• [Complete Telos Guide for beginners | The Junesong - Youtube](https://www.youtube.com/watch?v=Lv6QRSgBY5w)\n• [Guide to 'the Warden' higher enraged | Mega T22 - Youtube](https://www.youtube.com/watch?v=UQN8RrEkY5Q)\n• [Magic Basics combo the detonate ability | The Junesong - Youtube](https://www.youtube.com/watch?v=afqRRgneJCw&feature=youtu.be&t=14m4s)"
@@ -3720,18 +3848,18 @@ exports.data = {
       "name": "True Trimmed Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[The Warden (Golden)](https://runescape.wikia.com/wiki/The_Warden) is a title which can be obtained by defeating [Telos, the Warden](https://runescape.wikia.com/wiki/Telos,_the_Warden), which can be found in his chamber accessible through a large tree structure in the middle of [Heart of Gielinor](https://runescape.wikia.com/wiki/Heart_of_Gielinor), with at least 4000% enrage, which will also complete the [The True Warden](https://runescape.wikia.com/wiki/The_True_Warden) achievement.\n\nWhile [Deathtouched darts](https://runescape.wikia.com/wiki/Deathtouched_dart) can be used to increase the players enraged, it cannot be used to obtain this title.",
+    "description": "[The Warden (Golden)](https://runescape.wikia.com/wiki/The_Warden) is a title which can be obtained by defeating [Telos, the Warden](https://runescape.wikia.com/wiki/Telos,_the_Warden) with at least 4,000% enrage. Telos can be found in his chamber accessible through a large tree structure in the middle of [Heart of Gielinor](https://runescape.wikia.com/wiki/Heart_of_Gielinor).\n\nThis will also complete the [The True Warden](https://runescape.wikia.com/wiki/The_True_Warden) achievement.\n\nWhile [Deathtouched darts](https://runescape.wikia.com/wiki/Deathtouched_dart) can be used to increase the players enraged, it cannot be used to obtain this title.",
     "color": 10257648,
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/c/c6/Telos%2C_the_Warden.png/revision/latest?cb=20160715010706"
     },
     "fields": [{
-        "name": "Requirements:",
-        "value": "• [Ancient sigil](https://runescape.wikia.com/wiki/Ancient_sigil)\n\n• 80 Attack\n• 80 Magic\n• 80 Ranged\n• 80 Prayer"
-      },
+                    "name": "Requirements:",
+                    "value": "• 80 Attack\n• 80 Prayer\n• 80 Magic\n• 80 Ranged\n\n• An [Ancient Sigil](http://runescape.wikia.com/wiki/Ancient_sigil)\n• Players must have defeated [Helwyr](https://runescape.wikia.com/wiki/Helwyr), [Gregorovic](https://runescape.wikia.com/wiki/Gregorovic), the [Twin Furies](https://runescape.wikia.com/wiki/Twin_Furies), and [Vindicta](https://runescape.wikia.com/wiki/Vindicta) at least once to obtain their sigil pieces"
+                },
       {
         "name": "Guides:",
-        "value": "Some of the guides may be a little outdated when it comes to gear setups, as new gear and prayers have been released since. Therefore if the player has better gear than shown in the guides, it is highly recommended to use their best gear, as this will help during the fight.\n\n• [Complete Telos Guide for beginners | The Junesong - Youtube](https://www.youtube.com/watch?v=Lv6QRSgBY5w)\n• [Guide to 'the Warden' higher enraged | Mega T22 - Youtube](https://www.youtube.com/watch?v=UQN8RrEkY5Q)\n• [Magic Basics combo the detonate ability | The Junesong - Youtube](https://www.youtube.com/watch?v=afqRRgneJCw&feature=youtu.be&t=14m4s)\n• [In depth guide Telos Guide (0-1,000% Enrage) | Zanryu - Youtube](https://www.youtube.com/watch?v=PNGa0FCFZBA)"
+        "value": "Some of the guides may be a little outdated when it comes to gear setups, as new gear and prayers have been released since. Therefore, if the player has better gear than shown in the guides, it is highly recommended to use their best gear, as this will help during the fight.\n\n• [Complete Telos Guide for beginners | The Junesong - Youtube](https://www.youtube.com/watch?v=Lv6QRSgBY5w)\n• [Guide to 'the Warden' higher enraged | Mega T22 - Youtube](https://www.youtube.com/watch?v=UQN8RrEkY5Q)\n• [Magic Basics combo the detonate ability | The Junesong - Youtube](https://www.youtube.com/watch?v=afqRRgneJCw&feature=youtu.be&t=14m4s)\n• [In depth guide Telos Guide (0-1,000% Enrage) | Zanryu - Youtube](https://www.youtube.com/watch?v=PNGa0FCFZBA)"
       }
     ],
     "footer": {
@@ -3746,18 +3874,18 @@ exports.data = {
       "name": "True Trimmed Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[The Warden (Silver)](https://runescape.wikia.com/wiki/The_Warden) is a title which can be obtained by defeating [Telos, the Warden](https://runescape.wikia.com/wiki/Telos,_the_Warden), which can be found in his chamber accessible through a large tree structure in the middle of [Heart of Gielinor](https://runescape.wikia.com/wiki/Heart_of_Gielinor), with at least 2000% enrage, which will also complete the [So You Think You Can Guard?](https://runescape.wikia.com/wiki/So_You_Think_You_Can_Guard%3F) achievement.\n\nWhile [Deathtouched darts](https://runescape.wikia.com/wiki/Deathtouched_dart) can be used to increase the players enraged, it cannot be used to obtain this title.",
+    "description": "[The Warden (Silver)](https://runescape.wikia.com/wiki/The_Warden) is a title which can be obtained by defeating [Telos, the Warden](https://runescape.wikia.com/wiki/Telos,_the_Warden) with at least 2,000% enrage. Telos can be found in his chamber accessible through a large tree structure in the middle of [Heart of Gielinor](https://runescape.wikia.com/wiki/Heart_of_Gielinor).\n\nThis will also complete the [So You Think You Can Guard?](https://runescape.wikia.com/wiki/So_You_Think_You_Can_Guard%3F) achievement.\n\nWhile [Deathtouched darts](https://runescape.wikia.com/wiki/Deathtouched_dart) can be used to increase the players enraged, it cannot be used to obtain this title.",
     "color": 10257648,
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/c/c6/Telos%2C_the_Warden.png/revision/latest?cb=20160715010706"
     },
     "fields": [{
-        "name": "Requirements:",
-        "value": "• [Ancient sigil](https://runescape.wikia.com/wiki/Ancient_sigil)\n\n• 80 Attack\n• 80 Magic\n• 80 Ranged\n• 80 Prayer"
-      },
+                    "name": "Requirements:",
+                    "value": "• 80 Attack\n• 80 Prayer\n• 80 Magic\n• 80 Ranged\n\n• An [Ancient Sigil](http://runescape.wikia.com/wiki/Ancient_sigil)\n• Players must have defeated [Helwyr](https://runescape.wikia.com/wiki/Helwyr), [Gregorovic](https://runescape.wikia.com/wiki/Gregorovic), the [Twin Furies](https://runescape.wikia.com/wiki/Twin_Furies), and [Vindicta](https://runescape.wikia.com/wiki/Vindicta) at least once to obtain their sigil pieces"
+                },
       {
         "name": "Guides:",
-        "value": "Some of the guides may be a little outdated when it comes to gear setups, as new gear and prayers have been released since. Therefore if the player has better gear than shown in the guides, it is highly recommended to use their best gear, as this will help during the fight.\n\n• [Complete Telos Guide for beginners | The Junesong - Youtube](https://www.youtube.com/watch?v=Lv6QRSgBY5w)\n• [Guide to 'the Warden' higher enraged | Mega T22 - Youtube](https://www.youtube.com/watch?v=UQN8RrEkY5Q)\n• [Magic Basics combo the detonate ability | The Junesong - Youtube](https://www.youtube.com/watch?v=afqRRgneJCw&feature=youtu.be&t=14m4s)\n• [In depth guide Telos Guide (0-1,000% Enrage) | Zanryu - Youtube](https://www.youtube.com/watch?v=PNGa0FCFZBA)"
+        "value": "Some of the guides may be a little outdated when it comes to gear setups, as new gear and prayers have been released since. Therefore, if the player has better gear than shown in the guides, it is highly recommended to use their best gear, as this will help during the fight.\n\n• [Complete Telos Guide for beginners | The Junesong - Youtube](https://www.youtube.com/watch?v=Lv6QRSgBY5w)\n• [Guide to 'the Warden' higher enraged | Mega T22 - Youtube](https://www.youtube.com/watch?v=UQN8RrEkY5Q)\n• [Magic Basics combo the detonate ability | The Junesong - Youtube](https://www.youtube.com/watch?v=afqRRgneJCw&feature=youtu.be&t=14m4s)\n• [In depth guide Telos Guide (0-1,000% Enrage) | Zanryu - Youtube](https://www.youtube.com/watch?v=PNGa0FCFZBA)"
       }
     ],
     "footer": {
@@ -3772,14 +3900,14 @@ exports.data = {
       "name": "True Trimmed Info",
       "icon_url": "http://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Trevi Whirlpool](http://runescape.wikia.com/wiki/Whirlpool_(Deep_Sea_Fishing%29) requires the player to unlock the the titles from the whirlpool that spawns as a random event in the middle area of the [Deep Sea Fishing Hub](http://runescape.wikia.com/wiki/Deep_Sea_Fishing_hub), and it will last for 5 minutes. The titles can be unlocked by throwing a certain amount of coins into the whirlpool. The titles that can be obtained and their respective cost are:\n\n• _[Name]_ [the Wishful](https://runescape.wikia.com/wiki/The_Wishful) title:  1 coin\n• _[Name]_ [the Generous](https://runescape.wikia.com/wiki/The_Generous) title: 10,000,000 coins\n• _[Name]_ [the Millionaire](https://runescape.wikia.com/wiki/The_Millionaire) title: 100,000,000 coins\n• _[Name]_ [the Charitable](https://runescape.wikia.com/wiki/The_Charitable) title: 1,000,000,000 coins\n• _[Name]_ [the Billionaire](https://runescape.wikia.com/wiki/The_Billionaire) title: 5,000,000,000 coins\n\nThrowing in any amount of coins will also complete the [Make A Wish](https://runescape.wikia.com/wiki/Make_A_Wish) achievement.",
+    "description": "[Trevi Whirlpool](http://runescape.wikia.com/wiki/Whirlpool_(Deep_Sea_Fishing%29) requires the player to unlock the the titles from the whirlpool that spawns as a random event in the middle area of the [Deep Sea Fishing Hub](http://runescape.wikia.com/wiki/Deep_Sea_Fishing_hub). This will last for 5 minutes.\n\nThe titles can be unlocked by throwing a certain amount of coins into the whirlpool. The titles that can be obtained and their respective cost are:\n\n• _[Name]_ [the Wishful](https://runescape.wikia.com/wiki/The_Wishful) title:  1 coin\n• _[Name]_ [the Generous](https://runescape.wikia.com/wiki/The_Generous) title: 10,000,000 coins\n• _[Name]_ [the Millionaire](https://runescape.wikia.com/wiki/The_Millionaire) title: 100,000,000 coins\n• _[Name]_ [the Charitable](https://runescape.wikia.com/wiki/The_Charitable) title: 1,000,000,000 coins\n• _[Name]_ [the Billionaire](https://runescape.wikia.com/wiki/The_Billionaire) title: 5,000,000,000 coins\n\nThrowing in any amount of coins will also complete the [Make A Wish](https://runescape.wikia.com/wiki/Make_A_Wish) achievement.",
     "color": 10257648,
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/f/f2/Whirlpool_(Deep_Sea_Fishing%29.png/revision/latest?cb=20180306202520"
     },
     "fields": [{
       "name": "Guide and Tips:",
-      "value": "Every time money is thrown into the whirlpool, it shows the progress towards the next title unlock. This progress will stay the same untill more money is thrown in.\n\nMake sure to have enough coins ready to throw into the whirlpool to get the desired title. Players may join the friendchat '**_whirlpooldnd_** ' and wait for the whirlpool event to spawn. Once you've found the whirlpool, deposit the required amount into the whirlpool and the respective title will be unlocked.\n\nFor the Billionaire title, it's advised to have multiple stacks of 2,147,483,647 coins ready. This is the maximum amount of coins a player can have in a single pile. Therefore, it's required to own two max cash stacks and an additional 705,032,706 coins to obtain The Billionaire title from a single whirlpool event.\n\nIt is however not required to throw in the full amount of coins into a single whirlpool spawn, and can be spread over multiple spawns."
+      "value": "Every time money is thrown into the whirlpool, it shows the progress towards the next title unlock. This progress will stay the same untill more money is thrown in.\n\nMake sure to have enough coins ready to throw into the whirlpool to get the desired title. Players may join the friend's chat '**_whirlpooldnd_** ' and wait for the whirlpool event to spawn. Once you've found the whirlpool, deposit the required amount into the whirlpool and the respective title will be unlocked.\n\nFor the Billionaire title, it's advised to have multiple stacks of 2,147,483,647 coins ready. This is the maximum amount of coins a player can have in a single pile. Therefore, it's required to own two max cash stacks and an additional 705,032,706 coins to obtain The Billionaire title from a single whirlpool event.\n\nIt is however not required to throw in the full amount of coins into a single whirlpool spawn, and can be spread over multiple spawns."
     }],
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
