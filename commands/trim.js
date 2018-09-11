@@ -57,7 +57,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 		let third = "";
 		const helpEmbed = data["help"].embed;
 		keyList.forEach(k => {
-			if (!data[k].title) return;
+			if (!data[k].embed.title) return;
 			if (output.length <= 2000) {
 				output += `• ${data[k].embed.title}\n`;
 			} else if (second.length <= 2000) {
@@ -106,7 +106,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 			prev = k.replace(/ \bpt\d/, "");
 		}
 	});
-
+	console.log(pt);
 	if (pt == "true") return;
 
 	if (rtnArr.length == 0 && pt == "false") {
