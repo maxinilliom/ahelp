@@ -8531,7 +8531,7 @@ exports.data = {
             "fields": [
                 {
                     "name": "Requirements:",
-                    "value": "•80 Attack\n• 80 Prayer\n• 80 Magic\n• 80 Ranged\n\n• An [Ancient Sigil](http://runescape.wikia.com/wiki/Ancient_sigil)\n• Players must have defeated [Helwyr](https://runescape.wikia.com/wiki/Helwyr), [Gregorovic](https://runescape.wikia.com/wiki/Gregorovic), the [Twin Furies](https://runescape.wikia.com/wiki/Twin_Furies), and [Vindicta](https://runescape.wikia.com/wiki/Vindicta) at least once to obtain their sigil pieces"
+                    "value": "• 80 Attack\n• 80 Prayer\n• 80 Magic\n• 80 Ranged\n\n• An [Ancient Sigil](http://runescape.wikia.com/wiki/Ancient_sigil)\n• Players must have defeated [Helwyr](https://runescape.wikia.com/wiki/Helwyr), [Gregorovic](https://runescape.wikia.com/wiki/Gregorovic), the [Twin Furies](https://runescape.wikia.com/wiki/Twin_Furies), and [Vindicta](https://runescape.wikia.com/wiki/Vindicta) at least once to obtain their sigil pieces"
                 },
                 {
 					"name": "Guide:",
