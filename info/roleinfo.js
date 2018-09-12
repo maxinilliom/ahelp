@@ -1,12 +1,6 @@
 exports.data = {
-    "General Graardor": ,
-    "Gregorovic": ,
-    "Helwyr": ,
-    "Mega Duck": ,
-    "Nex": ,
-    "Nex AOD": ,
-    "Trouble Brewing": ,
-    "Twin Furies": ,
-    "Vindicta": ,
-    "Vorago": 
+    "roles information": ,
+    "runescape notify roles": ,
+    "dsf merchant notify roles": ,
+    "discord server notify roles": 
 };
