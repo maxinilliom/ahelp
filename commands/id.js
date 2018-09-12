@@ -10,8 +10,8 @@ exports.run = (client, message, args, level) => {
 	if (type == "c" && message.guild.channels.find('name', search)) {
 		message.channel.send(`${search}: ${message.guild.channels.find('name', search).id}`);
 	}
-	else if (type == "u" && message.guild.members.find('username', search)) {
-		message.channel.send(`${search}: ${message.guild.members.find('username', search).user.id}`);
+	else if (type == "u" && message.guild.members.find(m => m.user.username == search)) {
+		message.channel.send(`${search}: ${message.guild.members.find(m => m.user.username == search).user.id}`);
 	}
 	else if (type == "r" && message.guild.roles.find('name', search)) {
 		message.channel.send(`${search}: ${message.guild.roles.find('name', search).id}`);
