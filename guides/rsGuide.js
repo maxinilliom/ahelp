@@ -6549,6 +6549,50 @@ exports.data = {
       "url": "https://i.imgur.com/Shmagnp.png"
     },
     "fields": [{
+        "name": "Making History Locations:",
+        "value": " \n• **Coordinates:** "
+      },
+      {
+        "name": "​",
+        "value": " \n• **Coordinates:** "
+      },
+      {
+        "name": "​",
+        "value": " \n• **Coordinates:** "
+      },
+      {
+        "name": "​",
+        "value": " \n• **Coordinates:** "
+      },
+      {
+        "name": "​",
+        "value": " \n• **Coordinates:** "
+      },
+      {
+        "name": "​",
+        "value": " \n• **Coordinates:** "
+      },
+      {
+        "name": "​",
+        "value": " \n• **Coordinates:** "
+      },
+      {
+        "name": "​",
+        "value": " \n• **Coordinates:** "
+      },
+      {
+        "name": "​",
+        "value": " \n• **Coordinates:** "
+      },
+      {
+        "name": "​",
+        "value": " \n• **Coordinates:** "
+      },
+      {
+        "name": "​",
+        "value": " \n• **Coordinates:** "
+      },
+      {
         "name": "Start Point:",
         "value": "• Speak to [Jorral](https://runescape.wikia.com/wiki/Jorral) in the outpost south of the [Tree Gnome Stronghold](https://runescape.wikia.com/wiki/Tree_Gnome_Stronghold)"
       },
