@@ -1411,7 +1411,7 @@ exports.data = {
                 },
                 {  
                     "name":"Requirements and Recommendations:",
-                    "value":"• __Recommended Attack Style:__ Magic\n• __Minimum Recommended Armour Tier:__ 80\n• __Minimum Recommended Weapon Tier:__ 90\n• __Recommended Prayer:__ [Deflect Magic](https://runescape.wikia.com/wiki/Deflect_Magic) and [Soulsplit](https://runescape.wikia.com/wiki/Soul_Split)"
+                    "value":"• __Recommended Attack Style:__ Magic\n• __Minimum Recommended Armour Tier:__ 80\n• __Minimum Recommended Weapon Tier:__ 90\n• __Recommended Prayer:__ [Deflect Magic](https://runescape.wikia.com/wiki/Deflect_Magic) and [Soul Split](https://runescape.wikia.com/wiki/Soul_Split)"
                 },
                 {
                     "name": "Pre-kill:",
@@ -1423,7 +1423,7 @@ exports.data = {
                 },
                 {
                     "name": "​",
-                    "value": "You should be able to kill your root before the next mechanic. The tank has 2 roots to deal with, but the roots are at 20k life points each because of the mines, meaning they should be able to kill it faster than yours.\n\nThe next mechanic comes at ~52 seconds into the kill. The screen will shake and 2 of the 7 people on the team will get a timer and an arrow. One timer will be for 8 seconds, while the other will be for 13.\n\nIf you got a timer run to the arrow and [anticipate](https://runescape.wikia.com/wiki/Anticipation), moving away when its at 1. If both players with timers received the same direction for the arrow, the 8 second timed player should go first and then the 13 after.\n\n If you did not get a timer, move off the wall and use anticipate.\n\nClean up all the remaining roots, sometimes there is one on very low life points due to the DPS having to abandon their roots with the timer taking precedence."
+                    "value": "You should be able to kill your root before the next mechanic. The tank has 2 roots to deal with, but the roots are at 20k life points each because of the mines, meaning they should be able to kill it faster than yours.\n\nThe next mechanic comes at ~52 seconds into the kill, be in near the center for this. The screen will shake and 2 of the 7 people on the team will get a timer and an arrow. One timer will be for 8 seconds, while the other will be for 13.\n\nIf you got a timer run to the arrow and [anticipate](https://runescape.wikia.com/wiki/Anticipation), moving away when its at 1. If both players with timers received the same direction for the arrow, the 8 second timed player should go first and then the 13 after.\n\n If you did not get a timer, move off the wall towads the center and use anticipate.\n\nClean up all the remaining roots, sometimes there is one on very low life points due to the DPS having to abandon their roots with the timer taking precedence."
                 },
                 {
                     "name": "​",
@@ -1431,15 +1431,19 @@ exports.data = {
                 },
                 {
                     "name": "​",
-                    "value": "The next step is to kill the arms. The timers are very slow in a 7-man. Make sure you use [chain](https://runescape.wikia.com/wiki/Chain), as it hits both arms, and then use some thresholds.\n\nAs they face south, you are able to use [flanking](https://runescape.wikia.com/wiki/Flanking) from the north.\n\nOnce the arms are down, kill the Legs. The Legs can be nearly taken out by a team of [detonates](https://runescape.wikia.com/wiki/Detonate). Everyone should detonate and release when it's at 100%.\nnSunshine + Adrenaline potion as soon as you are back up to 100%, this should allow you to get 1-2 abilities off on the legs before they die.\n\nThe core will spawn in the middle. Much like the arms/legs they face south so you can flank from the north. Do a threshold rotation on the orb, this should get it under 500k life points."
+                    "value": "The next step is to kill the arms. The timers are very slow in a 7-man. Make sure you use [chain](https://runescape.wikia.com/wiki/Chain), as it hits both arms, and then use some thresholds.\n\nAs they face south, you are able to use [flanking](https://runescape.wikia.com/wiki/Flanking) from the north.\n\nOnce the arms are down, kill the Legs. The Legs can be nearly taken out by a team of [detonates](https://runescape.wikia.com/wiki/Detonate). Everyone should detonate and release when it's at 100%.\n\nSunshine + Adrenaline potion as soon as you are back up to 100%, this should allow you to get 1-2 abilities off on the legs before they die.\n\nThe core will spawn in the middle. Much like the arms/legs they face south so you can flank from the north. Do a threshold rotation on the orb, this should get it under 500k life points."
                 }
             ]
         },
     "solak, the grove guardian pt2": {
               "fields": [
-                    {
+                {
                     "name": "​",
-                    "value": "Solak will stand back up and you'll have ~15 seconds of sunshine left, which you can get the second threshold rotation in under.\n\nThe Tank will turn the boss facing south so that all the DPS can use flanking and help get it to 6.0m.\n\nGetting it to 6m skips all the other mechanics in the phase except for Arms/Legs/Core.\n\nAs long as its below 6.6m life points when Solak stands back up, you should have no problem getting to 6.0m before he goes back to the start of the phase.\n\nRe-do Arms/Legs/Core, however, this time you can either Sunshine when the legs spawn, Meta + Sigil when the core spawns, or Onslaught on the Core to kill it.\n\nShould you not reach 6m life points, you have to do all that over again, except for on the second time you aren't mining south but you are mining your own root. This means that you have to help the tank out on the southern roots. Focus on the roots over Solak, as you should be able to get to 6.0m fairly quickly after dealing with the roots.\n\nPhase 1 Ends when the core dies."
+                    "value": "Solak will stand back up and you'll have ~15 seconds of sunshine left, which you can get the second threshold rotation in under.\n\nThe Tank will turn the boss facing south so that all the DPS can use flanking and help get it to 6.0m.\n\nGetting it to 6m skips all the other mechanics in the phase except for Arms/Legs/Core.\n\nAs long as its below 6.6m life points when Solak stands back up, you should have no problem getting to 6.0m before he goes back to the start of the phase.\n\nRe-do Arms/Legs/Core, however, this time you can either Sunshine when the legs spawn, [metamorphosis](https://runescape.wikia.com/wiki/Metamorphosis) and use a [limitless sigil](https://runescape.wikia.com/wiki/Limitless_sigil) when the core spawns if you have one, or [Onslaught](https://runescape.wikia.com/wiki/Onslaught) on the Core to kill it."
+                },
+                {
+                    "name": "​",
+                    "value": "Should you not reach 6m life points, you have to do all that over again, except for on the second time you aren't mining south but you are mining your own root. This means that you have to help the tank out on the southern roots. Focus on the roots over Solak, as you should be able to get to 6.0m fairly quickly after dealing with the roots.\n\nPhase 1 Ends when the core dies."
                 },
                 {
                     "name": "Phase 2:",
@@ -1447,7 +1451,7 @@ exports.data = {
                 },
                 {
                     "name": "​",
-                    "value": "The tank will have taken out the NW pillar and will be working on the NE pillar when you get there. Throw 1-2 abilities on there to help out the tank.\n\nSunshine near the northern middle of the arena. Once the final pillar is dead, Solak will be able to go past 5.6m life points and will release AOE bombs over the entire arena.\n\nThe middle is a quasi-safe spot, as you will rarely get hit. If a bomb gets close to the middle, disperse out on the other side of the torches, debilitate/[reflect](https://runescape.wikia.com/wiki/Reflect)/resonance/eat up if necessary.\n\nWhen the AOE bombs are done, do not click on the golden object that appears near you, that is for the tank to do."
+                    "value": "The tank will have taken out the NW pillar and will be working on the NE pillar when you get there. Throw 1-2 abilities on there to help out the tank.\n\nSunshine on the north wall by the torches. Once the final pillar is dead, Solak will be able to go past 5.6m life points and will release AOE bombs over the entire arena.\n\nThe north wall is a quasi-safe spot, as you will rarely get hit. If a bomb gets close to the north wall, disperse out on the other side of the torches, debilitate/[reflect](https://runescape.wikia.com/wiki/Reflect)/resonance/eat up if necessary.\n\nWhen the AOE bombs are done, do not click on the golden object that appears near you, that is for the tank to do."
                 },
                 {
                     "name": "​",
@@ -1459,7 +1463,11 @@ exports.data = {
                 },
                 {
                     "name": "Phase 4 (Outside Only!):",
-                    "value": "Run north behind Solak so the team is grouped up in a pile. Use [natural instinct](https://runescape.wikia.com/wiki/Natural_Instinct) as the red message pops up, build back up to 100% adrenaline, and use sunshine + Adrenaline potion while you do a sunshine rotation.\n\n**Make sure you [Asphyxiate](https://runescape.wikia.com/wiki/Asphyxiate)** or a stun for your style. If you do not, the team will get hit with 11k damage to each player.\n\nWhen you get a bar over your head, use [reprisal](https://runescape.wikia.com/wiki/Reprisal) and make sure you are 9k+ life points. You will get hit by both blight bombs causing 9k in damage and a massive reprisal hit. Task one person with [shattering](https://runescape.wikia.com/wiki/Shatter).\n\nIf done right, the phase will be over before your second [Wild Magic ](https://runescape.wikia.com/wiki/Wild_Magic)and Asphyxiate."
+                    "value": "Run north behind Solak so the team is grouped up in a pile. Use [natural instinct](https://runescape.wikia.com/wiki/Natural_Instinct) as the red message pops up, build back up to 100% adrenaline, and use sunshine + Adrenaline potion while you do a sunshine rotation.\n\n**Make sure you [Asphyxiate](https://runescape.wikia.com/wiki/Asphyxiate)** or a [stun](https://runescape.wikia.com/wiki/Stun) for your style. If you do not, the team will get hit with 11k damage to each player.\n\nWhen you get a bar over your head, use [reprisal](https://runescape.wikia.com/wiki/Reprisal) and make sure you are 9k+ life points and activate Soul Split. You will get hit by both blight bombs causing 9k in damage and a massive reprisal hit. If you are melee and [berserk](https://runescape.wikia.com/wiki/Berserk) late, when you see bomb, step out or you will be instakilled."
+                },
+                {
+                    "name": "​",
+                    "value": "Task one person with [shattering](https://runescape.wikia.com/wiki/Shatter). Whoever storm shards should **not** do it before 200k life points.\n\nIf done right, the phase will be over before your second [Wild Magic ](https://runescape.wikia.com/wiki/Wild_Magic)and Asphyxiate."
                 }
             ],
                 "footer": {},
