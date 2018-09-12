@@ -1411,7 +1411,7 @@ exports.data = {
                 },
                 {  
                     "name":"Requirements and Recommendations:",
-                    "value":"• __Recommended Attack Style:__ Magic\n• __Minimum Recommended Armour Tier:__ 80\n• __Minimum Recommended Weapon Tier:__ 90\n• __Recommended Prayer:__ [Deflect Magic](https://runescape.wikia.com/wiki/Deflect_Magic) and [Soul Split](https://runescape.wikia.com/wiki/Soul_Split)"
+                    "value":"• __Recommended Attack Style:__ Magic\n• __Minimum Recommended Armour Tier:__ 80\n• __Minimum Recommended Weapon Tier:__ 90\n• __Recommended Prayer:__ [Deflect Missiles](https://runescape.wikia.com/wiki/Deflect_Missiles) and [Soul Split](https://runescape.wikia.com/wiki/Soul_Split)"
                 },
                 {
                     "name": "Pre-kill:",
