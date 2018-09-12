@@ -173,18 +173,17 @@ exports.run = async (client, message, [skill, ...args], level) => { // eslint-di
 
 	if (args[0].toLowerCase() == "all" && level >=2) {
                 let i = 0, o = 0, x = keyList.length;
+                //insert skill header switch here
                 function list() {
                         const guide = data[keyList[o]];
                         guide.author.name = name;
                         guide.color = color;
-      									guide.footer = footer;
+						guide.footer = footer;
                         guide.timestamp = new Date();
                         message.channel.send("", {embed: guide});
                         i++;
                         o++;
-                        if (o < x) {
-                                setTimeout(list, 2500);
-                        }
+                        if (o < x) setTimeout(list, 2500);
                         if (o == x) message.reply(`**${i}**/\**${keyList.length}** responses listed.`);
                 }
                 list();

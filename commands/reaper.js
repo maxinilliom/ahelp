@@ -23,6 +23,12 @@ exports.run = async (client, message, args, level) => {
 
 	if (args[0].toLowerCase() == "all" && level >= 2) {
     let i = 0, o = 0, x = keyList.length, errMsg = "";
+		await message.channel.send({
+		  files: [{
+			attachment: 'media/img/guides/reaperheader.png',
+			name: 'Reaper kill header.png'
+		  }]
+		});
     async function list() {
       const guide = data[keyList[o]];
       guide.color = color;

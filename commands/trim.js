@@ -32,6 +32,12 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 
 	if (args[0].toLowerCase() == "all" && level >= 2) {
 		let i = 0, o = 0, x = keyList.length, errMsg = "";
+		await message.channel.send({
+		  files: [{
+			attachment: 'media/img/guides/trimheader.png',
+			name: 'Trim comp cape header.png'
+		  }]
+		});
 		async function list() {
 			const guide = data[keyList[o]].embed;
 			guide.color = color;

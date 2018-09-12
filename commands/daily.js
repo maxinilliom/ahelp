@@ -21,6 +21,12 @@ exports.run = async (client, message, args, level) => {
 
 	if (args[0].toLowerCase() == "all" && level >= 2) {
     let i = 0, o = 0, x = keyList.length;
+		await message.channel.send({
+		  files: [{
+			attachment: 'media/img/guides/dailyheader.png',
+			name: 'Daily Money header.png'
+		  }]
+		});
     function list() {
       const guide = data[keyList[o]];
       guide.author.name = name;

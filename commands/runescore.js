@@ -39,8 +39,15 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 
 	if (args[0].toLowerCase() == "all" && level >= 2) {
 		let i = 0, o = 0, x = keyList.length, errMsg = "";
+		await message.channel.send({
+		  files: [{
+			attachment: 'media/img/guides/rsheader.png',
+			name: 'RuneScore header.png'
+		  }]
+		});
 		const category = args[1] ? args[1].toLowerCase() : undefined
 		if (!["combat", "exploration", "minigames", "miscellaneous", "skills"].includes(category)) category = undefined;
+		//add category header switch here
 		async function list() {
 			const [cat, sub, ach] = keyList[o].split(" - ");
 			if (category && cat !== category) {

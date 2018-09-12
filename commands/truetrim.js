@@ -44,8 +44,15 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 
 	if (args[0].toLowerCase() == "all" && level >= 2) {
 		let i = 0, o = 0, x = keyList.length, errMsg = "";
+		await message.channel.send({
+		  files: [{
+			attachment: 'media/img/guides/ttheader.png',
+			name: 'True trim header.png'
+		  }]
+		});
 		const category = args[1] ? args[1].toLowerCase() : undefined;
 		if (!["dnds", "minigames", "miscellaneous", "unlockables"].includes(category)) category = undefined;
+		//add category header image switch here
 		async function list() {
 			const [cat, sub, ach] = keyList[o].split(" - ");
 			if (category && cat !== category) {
