@@ -953,7 +953,7 @@ exports.data = {
     }],
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-      "text": "Runescore awarded: 75"
+      "text": "Runescore awarded: 0"
     }
   },
   "miscellaneous - general - no rest for the wicked": {
@@ -1066,7 +1066,7 @@ exports.data = {
     }],
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-      "text": "Runescore awarded: 75"
+      "text": "Runescore awarded: 0"
     }
   },
   "miscellaneous - general - true achievement master": {
