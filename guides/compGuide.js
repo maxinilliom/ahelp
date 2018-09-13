@@ -5645,7 +5645,7 @@ exports.data = {
 			],
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-				"text": "Runescore awarded: 75"
+				"text": "Runescore awarded: 0"
 			},
             "timestamp": "2001-01-04T12:00:00Z"
   }
@@ -5674,7 +5674,7 @@ exports.data = {
 			],
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-				"text": "Runescore awarded: 75"
+				"text": "Runescore awarded: 0"
 			},
             "timestamp": "2001-01-04T12:00:00Z"
   }
@@ -6189,7 +6189,7 @@ exports.data = {
 			],
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-				"text": "Runescore awarded: 50"
+				"text": "Runescore awarded: 0"
 			},
             "timestamp": "2001-01-04T12:00:00Z"
   }
@@ -7254,7 +7254,7 @@ exports.data = {
 			],
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-				"text": "Runescore awarded: 75"
+				"text": "Runescore awarded: 0"
 			},
             "timestamp": "2001-01-04T12:00:00Z"
   }
@@ -8437,7 +8437,7 @@ exports.data = {
 			],
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-				"text": "Runescore awarded: 75"
+				"text": "Runescore awarded: 0"
 			},
             "timestamp": "2001-01-04T12:00:00Z"
   }
@@ -8712,7 +8712,7 @@ exports.data = {
             ],
             "footer": {
                 "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-                "text": "Runescore awarded: 75"
+                "text": "Runescore awarded: 0"
             },
             "timestamp": "2001-01-04T12:00:00Z"
   }
