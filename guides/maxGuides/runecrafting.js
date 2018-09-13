@@ -514,4 +514,5 @@ exports.data = {
         "value": "[Runecrafting gloves](http://runescape.wikia.com/wiki/Runecrafting_gloves)\n• Double the amount of experience gained while crafting runes that match the gloves. They will disintegrate after 1,000 essence is crafted. They come in seven variations: air, water, earth, fire, chaos, death and blood, each costing anywhere from 75 to 200 Fist of Guthix reward tokens, and requiring Runecrafting levels anywhere between 10 and 94."
       }
       ]
-  };
+  }
+};

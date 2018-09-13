@@ -285,4 +285,5 @@ exports.data = {
         "value": "[Crafting Cape](http://runescape.wikia.com/wiki/Crafting_cape)\n • +1 to Crafting for 1 minute\n\n[Crafting Potion](http://runescape.wikia.com/wiki/Crafting_potion)\n • When consumed, Crafting Potions temporarily raise the player's Crafting level by 3.\n\n[Spicy Stew](http://runescape.wikia.com/wiki/Spicy_stew)\n • Boost is applied to a random skill\n • Up to ±6 with 3 spice doses\n • Up to ±3 with 2 spice doses\n • Up to ±2 with 1 spice dose\n\n[God Banner](http://runescape.wikia.com/wiki/God_banner)\n• Skill boost: +2 levels\n• The boost can be used once per day and lasts for 30 minutes\n\n[Voice of Seren - Ithell](http://runescape.wikia.com/wiki/Voice_of_Seren#Known_effects)\n• 20% more base Crafting and Construction XP from training using the [harps](http://runescape.wikia.com/wiki/Harp).\n• 20% more base Crafting XP from crafting [crystal flasks](http://runescape.wikia.com/wiki/Crystal_flask).\n"
       }
       ]
-  };
+  }
+};

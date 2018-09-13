@@ -432,4 +432,5 @@ exports.data = {
         "value": "[Voice of Seren - Hefin](http://runescape.wikia.com/wiki/Voice_of_Seren#Known_effects)\n• 20% more base Agility experience whilst training agility on the Hefin Agility Course. The rate at which velocity is gained on the agility course is doubled\n• While doing laps on the Hefin Agility Course, an additional 25% of base Agility experience is gained in the Prayer skill for each action performed. Experience boosts, such as bonus experience and the [First Age](http://runescape.wikia.com/wiki/First_age_outfit) set do work\n• The [Collector's Insignia](http://runescape.wikia.com/wiki/Collector%27s_insignia) will not lose charge\n• Increased chance of the window and light creature shortcuts appearing on the Hefin Agility Course"
       }
       ]
-  };
+  }
+};

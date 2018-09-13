@@ -380,7 +380,7 @@ exports.data = {
     "fields": [
       {
         "name": "Thieving Cape",
-        "value": "• The [Thieving Cape's](http://runescape.wikia.com/wiki/Thieving_cape) perk reduces the duration you are stunned for when caught thieving from 4.2 seconds to 3 seconds."
+        "value": "• The [Thieving Cape's](http://runescape.wikia.com/wiki/Thieving_cape) perk notes all Thieving loot, and acts like an [Ardougne cloak](http://runescape.wikia.com/wiki/Ardougne_cloak) if the player owns one."
       },
       {
         "name": "Black Ibis Outfit",

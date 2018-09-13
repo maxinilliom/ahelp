@@ -508,4 +508,5 @@ exports.data = {
         "value": "[Fireberry](http://runescape.wikia.com/wiki/Fireberry)\n• +2 Magic levels\n• Reduces Defence by 1\n• Requires access to [The Arc](http://runescape.wikia.com/wiki/The_Arc)\n\n [Sugar Skull](http://runescape.wikia.com/wiki/Sugar_skull)\n• +2 Magic levels\n\n [Toffee Apple](http://runescape.wikia.com/wiki/Toffee_apple)\n• +2 Magic levelst\n\n[Spicy Stew](http://runescape.wikia.com/wiki/Spicy_stew)\n • Boost is applied to a random skill\n • Up to ±6 with 3 spice doses\n • Up to ±3 with 2 spice doses\n • Up to ±2 with 1 spice dose\n\n[God Banner](http://runescape.wikia.com/wiki/God_banner)\n• +5 levels\n• Lasts 30 minutes once per day"
       }
        ]
-  };
+  }
+};

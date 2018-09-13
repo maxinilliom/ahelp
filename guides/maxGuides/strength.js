@@ -520,4 +520,5 @@ exports.data = {
         "value": "[Blurberry Special](http://runescape.wikia.com/wiki/Blurberry_Special)\n• +7 Strength levels\n\n[Drunk Dragon](http://runescape.wikia.com/wiki/Drunk_Dragon)\n• +7 Strength levels\n\n[Wizard Blizzard](http://runescape.wikia.com/wiki/Wizard_Blizzard)\n• +6 Strength levels\n\n[Short Green Guy](http://runescape.wikia.com/wiki/Short_Green_Guy)\n• +4 Strength levels"
       }
        ]
-  };
+  }
+};

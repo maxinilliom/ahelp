@@ -768,4 +768,5 @@ exports.data = {
             "value":"[Fishing accumulators](https://runescape.wikia.com/wiki/Fishing_accumulator)\nFishing accumulators can be created by players with at least level 60 Invention. They can also be bought from the [Grand Exchange](http://runescape.wikia.com/wiki/Grand_Exchange). When held in the player’s inventory, a Fishing accumulator gains charges each time that the player fails to fish. The accumulator can then be studied to gain experience. 2,500 Fishing experience is gained from studying a fully charged Fishing accumulator."
          }
       ]
-   };
+   }
+};

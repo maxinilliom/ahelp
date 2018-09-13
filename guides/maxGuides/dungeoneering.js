@@ -332,4 +332,5 @@ exports.data = {
         "value": "[Perfect Juju Dungeoneering Potion](http://runescape.wikia.com/wiki/Perfect_juju_dungeoneering_potion)\n• A dose of the potion lasts for four hours. While the potion is in effect, you do 5% more damage in Dungeoneering, have an increased chance of obtaining journal pages, and get a hidden +2 levels boost to all skills for opening skill doors. \n\n[Perfect Plus Potion](http://runescape.wikia.com/wiki/Perfect_plus_potion)\n• The same effect as the Perfect Juju Dungeoneering Potion. \n\n • The other way to boost skills inside Daemonheim is by making potions inside the minigame/skill itself. Doing this is just like you would outside where you need to gather a vial of water, a clean herb, and a secondary ingrediant and mix them together. \n More information on the stat boosting potions can be found [here.](https://runescape.wikia.com/wiki/Dungeoneering/Herblore) "
       }
       ]
-  };
+  }
+};

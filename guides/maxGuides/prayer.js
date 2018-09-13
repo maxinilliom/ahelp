@@ -97,33 +97,33 @@ exports.data = {
          }
       ]
    },
-  // "75 - 99 +": {  
-  //     "title":"▬▬ Alternative Method: Levels 75-99 ▬▬",
-  //     "description":"At level 75 Prayer and after getting access to [Prifddinas](https://runescape.wikia.com/wiki/Prifddinas) (requires completion of the quest [The Plague's End](https://runescape.wikia.com/wiki/Plague%27s_End)), you will be able to train Prayer using [Cleansing crystals](https://runescape.wikia.com/wiki/Cleansing_crystal). A Cleansing crystal is an item used to cleanse the [Corrupted Seren Stone](https://runescape.wikia.com/wiki/Corrupted_Seren_Stone) in the [Hefin cathedral](https://runescape.wikia.com/wiki/Hefin_cathedral) in Prifddinas. It can be purchased from [Hefin monks](https://runescape.wikia.com/wiki/Hefin_monk) for 110,000 coins each or obtained via pickpocketing the [Hefin workers](https://runescape.wikia.com/wiki/Hefin_worker). The store refill rate for cleansing crystals is approximately 1 every 10 seconds with a max store quantity of 5 cleansing stones.\n\nIf a cleansing crystal is used completely, without interruption, it will provide 9,800 Prayer experience. This is a cost of 11.22 coins per experience. It takes two minutes for a crystal to be fully drained. Up to 29 stones can be used in an hour, providing approximately 284,200 experience an hour, at a cost of -3,300,000 coins.\n\nAlternatively, when the [Voice of Seren](https://runescape.wikia.com/wiki/Voice_of_Seren) is illuminating the [Hefin Clan](https://runescape.wikia.com/wiki/Hefin_Clan) district, a cleansing crystal will give 20% more experience, for a total of 11,760 experience. This is a cost of 9.35 coins per experience, providing 352,800 experience per hour at the same total cost.",
-  //     "url":"https://runescape.wikia.com/wiki/Pay-to-play_Prayer_training#Cleansing_crystals",
-  //     "color":12269891,
-  //     "footer":{  
-  //        "icon_url":"https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
-  //        "text":"Achievement Help | Helping you reach your goals, whatever they may be!"
-  //     },
-  //     "thumbnail":{  
-  //        "url":"https://vignette.wikia.nocookie.net/runescape2/images/f/f9/Cleansing_crystal_detail.png/revision/latest?cb=20141113214555"
-  //     },
-  //     "author":{  
-  //        "name":"Max Cape Info",
-  //        "icon_url":"https://i.imgur.com/6c6q2iC.png"
-  //     },
-  //     "fields":[  
-  //        {  
-  //           "name":"​",
-  //           "value":"Experience is gained during three phases in the following amounts (Voice of Seren in parentheses):\n• 2,100 (2,520) immediately when starting to cleanse a crystal\n• 19 chunks of 275 (330) every 6 seconds while cleansing, starting 3 seconds after the initial experience\n• 2,475 (2,970) when finishing a crystal, 3 seconds after the final small chunk of experience"
-  //        },
-  //        {  
-  //           "name":"​",
-  //           "value":"If a crystal is fully cleansed while wearing the [Tirannwn quiver 3](https://runescape.wikia.com/wiki/Tirannwn_quiver_3) or [Tirannwn quiver 4](https://runescape.wikia.com/wiki/Tirannwn_quiver_4) and there are more crystals carried in the inventory, the next crystal will automatically be used to continue cleansing. This can lead to training with minimal interaction, if large numbers of crystals are bought in advance.\n\nBe careful when clicking while a cleansing crystal is being used. If a misclick or other action occurs, this will interrupt the process.  The crystal will vanish and the player will not gain the remaining experience. One can chat, rotate the camera, and use most interfaces without interrupting the process."
-  //        }
-  //     ]
-  //  },
+  "75 - 99 +": {  
+      "title":"▬▬ Alternative Method: Levels 75-99 ▬▬",
+      "description":"At level 75 Prayer and after getting access to [Prifddinas](https://runescape.wikia.com/wiki/Prifddinas) (requires completion of the quest [The Plague's End](https://runescape.wikia.com/wiki/Plague%27s_End)), you will be able to train Prayer using [Cleansing crystals](https://runescape.wikia.com/wiki/Cleansing_crystal). A Cleansing crystal is an item used to cleanse the [Corrupted Seren Stone](https://runescape.wikia.com/wiki/Corrupted_Seren_Stone) in the [Hefin cathedral](https://runescape.wikia.com/wiki/Hefin_cathedral) in Prifddinas. It can be purchased from [Hefin monks](https://runescape.wikia.com/wiki/Hefin_monk) for 110,000 coins each or obtained via pickpocketing the [Hefin workers](https://runescape.wikia.com/wiki/Hefin_worker). The store refill rate for cleansing crystals is approximately 1 every 10 seconds with a max store quantity of 5 cleansing stones.\n\nIf a cleansing crystal is used completely, without interruption, it will provide 9,800 Prayer experience. This is a cost of 11.22 coins per experience. It takes two minutes for a crystal to be fully drained. Up to 29 stones can be used in an hour, providing approximately 284,200 experience an hour, at a cost of -3,300,000 coins.\n\nAlternatively, when the [Voice of Seren](https://runescape.wikia.com/wiki/Voice_of_Seren) is illuminating the [Hefin Clan](https://runescape.wikia.com/wiki/Hefin_Clan) district, a cleansing crystal will give 20% more experience, for a total of 11,760 experience. This is a cost of 9.35 coins per experience, providing 352,800 experience per hour at the same total cost.",
+      "url":"https://runescape.wikia.com/wiki/Pay-to-play_Prayer_training#Cleansing_crystals",
+      "color":12269891,
+      "footer":{  
+         "icon_url":"https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+         "text":"Achievement Help | Helping you reach your goals, whatever they may be!"
+      },
+      "thumbnail":{  
+         "url":"https://vignette.wikia.nocookie.net/runescape2/images/f/f9/Cleansing_crystal_detail.png/revision/latest?cb=20141113214555"
+      },
+      "author":{  
+         "name":"Max Cape Info",
+         "icon_url":"https://i.imgur.com/6c6q2iC.png"
+      },
+      "fields":[  
+         {  
+            "name":"​",
+            "value":"Experience is gained during three phases in the following amounts (Voice of Seren in parentheses):\n• 2,100 (2,520) immediately when starting to cleanse a crystal\n• 19 chunks of 275 (330) every 6 seconds while cleansing, starting 3 seconds after the initial experience\n• 2,475 (2,970) when finishing a crystal, 3 seconds after the final small chunk of experience"
+         },
+         {  
+            "name":"​",
+            "value":"If a crystal is fully cleansed while wearing the [Tirannwn quiver 3](https://runescape.wikia.com/wiki/Tirannwn_quiver_3) or [Tirannwn quiver 4](https://runescape.wikia.com/wiki/Tirannwn_quiver_4) and there are more crystals carried in the inventory, the next crystal will automatically be used to continue cleansing. This can lead to training with minimal interaction, if large numbers of crystals are bought in advance.\n\nBe careful when clicking while a cleansing crystal is being used. If a misclick or other action occurs, this will interrupt the process.  The crystal will vanish and the player will not gain the remaining experience. One can chat, rotate the camera, and use most interfaces without interrupting the process."
+         }
+      ]
+   },
   "alternate methods pt1": {  
       "title":"Alternative Methods of Training",
       "description":"Some users may wish to utilize methods outside of the ones displayed in this channel's guide. To aid in this, the following alternative methods are provided.",
@@ -444,4 +444,5 @@ exports.data = {
             "value":"[Prayer urns](https://runescape.wikia.com/wiki/Urns#Prayer)\n\t• Fill up when killing creatures that drop ashes\n\t• Once full the urn can be teleported for experience\n\t• Gives between 120 and 1,875 experience per urn (depends on level of urn used)\n\t• Using an [urn enhancer](http://runescape.wikia.com/wiki/Urn_enhancer) increases the experience gained when teleporting an urn by 25%\n\t• There are 3 types of Prayer urns: [impious](https://runescape.wikia.com/wiki/Impious_urn) which only fills up with [impious ashes](https://runescape.wikia.com/wiki/Impious_ashes), [accursed](https://runescape.wikia.com/wiki/Accursed_urn) which fills up with impious ashes and [accursed ashes](https://runescape.wikia.com/wiki/Accursed_ashes), and [infernal](https://runescape.wikia.com/wiki/Infernal_urn) which fills up with impious, accursed, [infernal](https://runescape.wikia.com/wiki/Infernal_ashes), [tortured](https://runescape.wikia.com/wiki/Tortured_ashes), and [searing ashes](https://runescape.wikia.com/wiki/Searing_ashes)."
          }
       ]
-   };
+   }
+}

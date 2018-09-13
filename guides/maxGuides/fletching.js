@@ -486,4 +486,5 @@ exports.data = {
         "value": "[Fletching Cape](http://runescape.wikia.com/wiki/Fletching_cape)\n• +1 Fletching level for 1 minute\n\n[Spicy Stew](http://runescape.wikia.com/wiki/Spicy_stew)\n • Boost is applied to a random skill\n • Up to ±6 with 3 spice doses\n • Up to ±3 with 2 spice doses\n • Up to ±2 with 1 spice dose\n\n[Fletching Potion](http://runescape.wikia.com/wiki/Fletching_potion)\n• +3 Levels\n\n[Sacred Clay Fletching Knife](http://runescape.wikia.com/wiki/Sacred_clay_fletching_knife)\n• 24,450 bonus experience \n• 20 Stealing Creation points\n\n[Volatile Clay Fletching Knife](http://runescape.wikia.com/wiki/Volatile_clay_fletching_knife)\n• 29,340 bonus experience\n• 20 Stealing Creation points\n\n[Portable Fletcher](http://runescape.wikia.com/wiki/Portable_fletcher)\n• 10% experience boost\n• 10% chance to save logs when Fletching bows or crossbows\n• 10% chance to save arrowheads and headless arrows\n• 10% chance to save unfinished bolts and feathers"
       }
         ]
-  };
+  }
+};

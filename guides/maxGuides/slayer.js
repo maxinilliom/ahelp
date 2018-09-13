@@ -414,4 +414,5 @@ exports.data = {
         "value": "[Dragon Slayer Gloves](http://runescape.wikia.com/wiki/Dragon_slayer_gloves)\n• +15% Slayer experience per kill\n• +10% accuracy boost on [Dragons](http://runescape.wikia.com/wiki/Dragon_(race)\n\n[Slayer's Respite](http://runescape.wikia.com/wiki/Slayer%27s_respite)\n• +2 Slayer levels\n• Decreases Attack and Strength by 2\n• Heals 590 life points\n\n[Slayers Respite (m)](http://runescape.wikia.com/wiki/Slayer's_respite_(m)\n• +4 Slayer levels\n• Decreases Attack and Strength by 2\n• Heals 620 life points\n\n[Sugar Skull](http://runescape.wikia.com/wiki/Sugar_skull)\n• +2 Slayer levels\n\n[Toffee Apple](http://runescape.wikia.com/wiki/Toffee_apple)\n• +2 Slayer levels\n\n[Spicy Stew](http://runescape.wikia.com/wiki/Spicy_stew)\n • Boost is applied to a random skill\n • Up to ±6 with 3 spice doses\n • Up to ±3 with 2 spice doses\n • Up to ±2 with 1 spice dose"
       }
        ]
-  };
+  }
+};

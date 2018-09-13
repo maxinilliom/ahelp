@@ -523,4 +523,5 @@ exports.data = {
         "value": "[Perfect Juju Farming Potion](http://runescape.wikia.com/wiki/Perfect_juju_farming_potion)\n• 5% chance of getting harmony moss from any farming patch \n• 25% chance of getting two harmony moss at once from a harmony pillar"
       }
        ]
-  };
+  }
+};

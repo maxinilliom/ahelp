@@ -458,4 +458,5 @@ exports.data = {
         "value": "[Seren Spells/Prayer](http://runescape.wikia.com/wiki/Hunter_training#Seren_spells_and_prayers)\n• Upon completion of [The Light Within](http://runescape.wikia.com/wiki/The_Light_Within) quest, players will unlock [Seren Spells](http://runescape.wikia.com/wiki/Seren_spells). [Crystallise](http://runescape.wikia.com/wiki/Crystallise) is a Seren-alligned spell that can be cast on a shaking box and will be repeatedly checked upon being checked by the player, granting 50% additional experience each time, though no resources will be gained. This effect lasts for 30 seconds after Crystallise has been cast; it is not possible to cast Crystallise on more than one trap at the same time. With at least level 80 Prayer, players can use the [Light Form](http://runescape.wikia.com/wiki/Light_Form) prayer, which enhances the effects of Seren-aligned spells while it is activated, to further increase additional the Hunter experience gained from checking a crystallised box trap to 87.5%."
       }
         ]
-  };
+  }
+};

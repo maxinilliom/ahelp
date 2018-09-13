@@ -244,4 +244,5 @@ exports.data = {
         "value": "[Elidinis Statuette](http://runescape.wikia.com/wiki/Elidinis_Statuette)\n• Life Points boost of 500\n\n[Abidor Crank](http://runescape.wikia.com/wiki/Abidor_Crank)\n• +20% Life Point boost\n• +15% Defence boost\n\nThe following foods can heal 10% over the maximum, and stack with the bonfire boost:\n• [Rocktail](http://runescape.wikia.com/wiki/Rocktail)\n• [Sailfish](http://runescape.wikia.com/wiki/Sailfish)\n• [Tiger Shark](http://runescape.wikia.com/wiki/Tiger_shark)\n\nThe following foods can heal 15% over the maximum, and stack with the bonfire boost:\n• [Rocktail Soup](http://runescape.wikia.com/wiki/Rocktail_soup)\n• [Sailfish Soup](http://runescape.wikia.com/wiki/Sailfish_soup)"
       }
        ]
-  };
+  }
+};

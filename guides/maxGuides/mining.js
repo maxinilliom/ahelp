@@ -439,4 +439,5 @@ exports.data = {
         "value": "[Voice of Seren - Trahaearn](http://runescape.wikia.com/wiki/Voice_of_Seren#Known_effects)\n• 20% more base Mining XP ores, gems, and Seren Stones in the district. Mining any type of ore has a chance of yielding corrupted ore (this occurs at any mining level, and will count towards the 100 needed to unlock the \"of the Trahaearn\" title.).\n• Ore rocks have a chance of changing into harmonised rocks temporarily, allowing the rocks to be mined without running out of ore. \n\n[Mining accumulator](https://runescape.wikia.com/wiki/Mining_accumulator) \n• The mining accumulator is an [Invention device](https://runescape.wikia.com/wiki/Devices) that gains charges whenever the player fails to mine. It gains 1% completion for a failed mining action. When it reaches 100% completion, it can be studied for 2,500 Mining experience, which destroys the accumulator."
       }
       ]
-  };
+  }
+};

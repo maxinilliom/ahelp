@@ -364,4 +364,5 @@ exports.data = {
         "value": "[Sacred Clay Hammer](http://runescape.wikia.com/wiki/Sacred_clay_hammer)\n• 24,450 bonus experience\n• Costs 20 Stealing Creation points\n\n[Volatile Clay Hammer](http://runescape.wikia.com/wiki/Volatile_clay_hammer)\n• 29,340 bonus experience\n• Costs 20 Stealing Creation points\n\n[Toffee Apple](http://runescape.wikia.com/wiki/Toffee_apple)\n• +2 Construction Levels\n\n[Sugar Skull](http://runescape.wikia.com/wiki/Sugar_skull)\n• +2 Construction levels\n\n[God Banner](http://runescape.wikia.com/wiki/God_banner)\n• +2 levels\n• Lasts 30 minutes once per day\n\n[Spicy Stew](http://runescape.wikia.com/wiki/Spicy_stew)\n • Boost is applied to a random skill\n • Up to ±6 with 3 spice doses\n • Up to ±3 with 2 spice doses\n • Up to ±2 with 1 spice dose"
       }
        ]
-  };
+  }
+};

@@ -279,4 +279,5 @@ exports.data = {
         "value": "[Brawling Gloves (Melee)](http://runescape.wikia.com/wiki/Brawling_gloves_(Melee)\n• When wielded, 50% XP boost is given at the entrance or outside of the Wilderness, with the buff increasing to 300% (4x the experience) at level 47 Wilderness just south of the fence. Since an update, instead of charges the gloves have approximately a 300,000 XP cap on extra XP gained. As this cap recognizes XP buffs, expending them in the Wilderness only uses charges faster for no increased gain. It is recommended to consume them during normal training."
       }      
        ]
-  };
+  }
+};

@@ -474,4 +474,5 @@ exports.data = {
         "value": "[Divination Cape](http://runescape.wikia.com/wiki/Divination_cape)\n • +1 level for 1 minute\n\n[Spicy Stew](http://runescape.wikia.com/wiki/Spicy_stew)\n • Boost is applied to a random skill\n • Up to ±6 with 3 spice doses\n • Up to ±3 with 2 spice doses\n • Up to ±2 with 1 spice dose\n\n[God Banner](http://runescape.wikia.com/wiki/God_banner)\n• Exploration boost: +6 levels\n• The boost can be used once per day and lasts for 30 minutes\n\n[Jitterberry](http://runescape.wikia.com/wiki/Jitterberry)\n• +2 levels\n• Requires access to [The Arc](http://runescape.wikia.com/wiki/The_Arc)\n• Reduces Defence by 1 level\n\n[One-Leaf Clover Necklace](http://runescape.wikia.com/wiki/One-leaf_clover_necklace)\n• Can grant a +5 boost to Divination. However, the chance for the necklace to choose Divination for the boost is highly uncommon due to it being chosen at random from all skills.\n\n[Enrichment Aura](http://runescape.wikia.com/wiki/Enrichment_aura)\n• Increase the chance to obtain an enriched memory by 3-15 %."
       }
       ]
-  };
+  }
+};

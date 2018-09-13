@@ -491,4 +491,5 @@ exports.data = {
         "value": "[Guthix's Gift](http://runescape.wikia.com/wiki/Guthix%27s_gift)\n• 10% bonus to herblore experience when making [Juju Potions](http://runescape.wikia.com/wiki/Juju_potion)\n\n[God Banner](http://runescape.wikia.com/wiki/God_banner)\n• +2 levels\n• Lasts 30 minutes once per day\n\n[Spicy Stew](http://runescape.wikia.com/wiki/Spicy_stew)\n • Boost is applied to a random skill\n • Up to ±6 with 3 spice doses\n • Up to ±3 with 2 spice doses\n • Up to ±2 with 1 spice dose\n\n[Perfect Juju Herblore Potion](http://runescape.wikia.com/wiki/Perfect_juju_herblore_potion)\n• 5% more experience for making [Combination Potions](http://runescape.wikia.com/wiki/Combination_potion)\n• 10% higher chance of finding a [Recipe](http://runescape.wikia.com/wiki/Unreadable_page) in Daemonheim"
       }      
        ]
-  };
+  }
+};

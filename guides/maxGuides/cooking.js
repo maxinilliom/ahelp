@@ -372,4 +372,5 @@ exports.data = {
         "value": "• [Portable Ranges](http://runescape.wikia.com/wiki/Portable_range) are similar to bonfires and provide maximum convenience for banking. They provide 21% additional cooking experience when cooked on, have the same burn rates as a standard range, have a 5% chance of producing an additional food item (which is sent to the bank but does not provide any experience), and can be placed anywhere by the player, even right next to a bank. Each range lasts 5 minutes once placed and can either be purchased from the [Grand Exchange](http://runescape.wikia.com/wiki/Grand_Exchange) or obtained from Treasure Hunter. You can usually find a portable range being hosted somewhere, usually on world 84 at the [Combat Academy](http://runescape.wikia.com/wiki/Combat_Academy) in [Lumbridge](http://runescape.wikia.com/wiki/Lumbridge), north of the castle by the bank chest. This allows you to cook on the range without even moving from the spot in front of the bank chest."
       }
       ]
-  };
+  }
+};
