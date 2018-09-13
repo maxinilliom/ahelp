@@ -315,5 +315,80 @@ exports.data = {
         "value": "[Invention Cape]( https://runescape.wikia.com/wiki/Invention_cape)\n • +1 level for 1 minute "
       }
       ]
+  },
+  "perks": {
+    "title": "Invention Perks",
+    "description": "Perks are effects added to weapons, armour, or tools with Invention. They are created by combining [materials](https://runescape.wikia.com/wiki/Materials) inside a [gizmo shell](https://runescape.wikia.com/wiki/Gizmo). The resulting gizmo is attached to an item that has been [augmented](https://runescape.wikia.com/wiki/Augmentation) with an [augmentor](https://runescape.wikia.com/wiki/Augmentor).\n\nPerks are created within three types of gizmo shells (weapon, armour and tool). Perks can be specific to a gizmo shell type or can be used in two or more gizmo shell types. ",
+    "url": "https://runescape.wikia.com/wiki/Perks",
+    "color": 12269891,
+    "footer": {
+      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
+    },
+    "thumbnail": {
+      "url": "https://vignette.wikia.nocookie.net/runescape2/images/b/be/Gizmo_materials.png/revision/latest/scale-to-width-down/180?cb=20161205174910"
+    },
+    "author": {
+      "name": "Max Cape Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+        "fields": [
+      { 
+        "name": "Best in Slot Combat Perks - Torso",
+        "value": "\t• Perk Slot 1: [Biting 3](https://runescape.wikia.com/wiki/Biting)\n\t• Components: 5x [Noxious](https://runescape.wikia.com/wiki/Noxious_components)\n\n\t• Perk Slot 2: [Crackling 3](https://runescape.wikia.com/wiki/Crackling) / [Mobile](https://runescape.wikia.com/wiki/Mobile)\n\t• Components: 4x [Explosive](https://runescape.wikia.com/wiki/Explosive_components) and 1x [Dextrous](https://runescape.wikia.com/wiki/Dextrous_components)"
+      },
+      { 
+        "name": "Best in Slot Combat Perks - Legs",
+        "value": "\t• Perk Slot 1: [Impatient 3](https://runescape.wikia.com/wiki/Impatient)\n\t• Components: 5x [Zamorak](https://runescape.wikia.com/wiki/Zamorak_components)\n\n\t• Perk Slot 2: [Enhanced Devoted 3](https://runescape.wikia.com/wiki/Enhanced_Devoted)\n\t• Components: 5x [Faceted](https://runescape.wikia.com/wiki/Faceted_components)"
+      },
+      { 
+        "name": "Best in Slot Combat Perks - 2 Hand Weapon",
+        "value": "\t• Perk Slot 1: [Precise 3/4](https://runescape.wikia.com/wiki/Precise) / [Equilibrium 2](https://runescape.wikia.com/wiki/Equilibrium) **or** Precise 5\n\t• Components: 5x [Precise](https://runescape.wikia.com/wiki/Precise_components)\n\n\t• Perk Slot 2: [Aftershock 3](https://runescape.wikia.com/wiki/Aftershock)\n\t• Components: 5x [Ilujankan](https://runescape.wikia.com/wiki/Ilujankan_components)"
+      },      
+      { 
+        "name": "Best in Slot Combat Perks - Main Hand Dual Wield",
+        "value": "\t• Perk: [Aftershock 3](https://runescape.wikia.com/wiki/Aftershock)\n\t• Components: 5x [Ilujankan](https://runescape.wikia.com/wiki/Ilujankan_components)"
+      },
+      { 
+        "name": "Best in Slot Combat Perks - Off Hand Dual Wield",
+        "value": "\t• Perk: [Precise 3/4](https://runescape.wikia.com/wiki/Precise) / [Equilibrium 2](https://runescape.wikia.com/wiki/Equilibrium) **or** Precise 5\n\t• Components: 5x [Precise](https://runescape.wikia.com/wiki/Precise_components)"
+      },
+      { 
+        "name": "Best in Slot Combat Perks - Off Hand Switches",
+        "value": "\t• Perk: [Lunging 3](https://runescape.wikia.com/wiki/Lunging)\n\t• Components: 5x [Avernic](https://runescape.wikia.com/wiki/Avernic_components)\n\n\tor\n\n\t• Perk: [Flanking 3](https://runescape.wikia.com/wiki/Flanking)\n\t• Components: 5x [Clockwork](https://runescape.wikia.com/wiki/Clockwork_components)"
+      },
+      { 
+        "name": "Best in Slot Combat Perks - 2 Hand Weapon Switch",
+        "value": "\t• Perk: [Aftershock 1](https://runescape.wikia.com/wiki/Aftershock) / [Planted Feet](https://runescape.wikia.com/wiki/Planted_Feet)\n\t• Components: 3x [Cywir](https://runescape.wikia.com/wiki/Cywir_components) and 2x [Ilujankan](https://runescape.wikia.com/wiki/Ilujankan_components)"
+      },
+      { 
+        "name": "Best in Slot Combat Perks - Shield",
+        "value": "\t• Perk: [Turtling 3](https://runescape.wikia.com/wiki/Turtling)\n\t• Components: 5x [Evasive](https://runescape.wikia.com/wiki/Evasive_components)"
+      },
+      { 
+        "name": "Best in Slot Skilling Perks - Equipped Item (All Skilling)",
+        "value": "\t• Perk: [Wise 3](https://runescape.wikia.com/wiki/Wise)\n\t• Components: 5x [Seren](https://runescape.wikia.com/wiki/Seren_components)"
+      },
+      { 
+        "name": "Best in Slot Skilling Perks - Fishing",
+        "value": "\t• Perk Slot 1: [Furnace 3](https://runescape.wikia.com/wiki/Furnace_(perk)\n\t• Components: 5x [Dragonfire](https://runescape.wikia.com/wiki/Dragonfire_components)\n\n\t• Perk Slot 2: [Honed 5](https://runescape.wikia.com/wiki/Honed)\n\t• Components: 5x [Sharp](https://runescape.wikia.com/wiki/Sharp_components)"
+      },
+      { 
+        "name": "Best in Slot Skilling Perks - Woodcutting",
+        "value": "\t• Perk Slot 1: [Furnace 3](https://runescape.wikia.com/wiki/Furnace_(perk)\n\t• Components: 5x [Dragonfire](https://runescape.wikia.com/wiki/Dragonfire_components)\n\n\t• Perk Slot 2: [Honed 5](https://runescape.wikia.com/wiki/Honed)\n\t• Components: 5x [Sharp](https://runescape.wikia.com/wiki/Sharp_components)"
+      },
+      { 
+        "name": "Best in Slot Skilling Perks - Mining",
+        "value": "\t• Perk Slot 1: [Furnace 3](https://runescape.wikia.com/wiki/Furnace_(perk)\n\t• Components: 5x [Dragonfire](https://runescape.wikia.com/wiki/Dragonfire_components)\n\n\t• Perk Slot 2: [Honed 5](https://runescape.wikia.com/wiki/Honed)\n\t• Components: 5x [Sharp](https://runescape.wikia.com/wiki/Sharp_components)"
+      },
+      { 
+        "name": "Best in Slot Skilling Perks - Smithing",
+        "value": "\t• Perk Slot 1: [Tinker 3](https://runescape.wikia.com/wiki/Tinker)\n\t• Components: 5x [Fungal](https://runescape.wikia.com/wiki/Fungal_components)\n\n\t• Perk Slot 2: [Rapid 3](https://runescape.wikia.com/wiki/Rapid)\n\t• Components: 5x [Shifting](https://runescape.wikia.com/wiki/Shifting_components)"
+      },
+      { 
+        "name": "Best in Slot Skilling Perks - Firemaking",
+        "value": "\t• Perk Slot 1: [Tinker 3](https://runescape.wikia.com/wiki/Tinker)\n\t• Components: 5x [Fungal](https://runescape.wikia.com/wiki/Fungal_components)\n\n\t• Perk Slot 2: [Pyromaniac 5](https://runescape.wikia.com/wiki/Pyromaniac)\n\t• Components: 5x [Light](https://runescape.wikia.com/wiki/Light_components)"
+      }
+    ]
   }
 };
