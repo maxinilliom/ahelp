@@ -51,27 +51,21 @@ exports.data = {
    ]
   },
   "1 - 19": {
-    "title": "Construction Training Levels 1-19",
-    "description": "At level 1, players can begin training Construction by making [Crude Wooden Chairs](http://runescape.wikia.com/wiki/Crude_wooden_chair). The chairs can be built in the [Parlour](http://runescape.wikia.com/wiki/Parlour) room, using 2 [Planks](http://runescape.wikia.com/wiki/Plank) and 2 [Iron Nails](http://runescape.wikia.com/wiki/Iron_nails) per chair. Several nails will break while training, so a player should bring plenty of spares. 13 crude wooden chairs should be built to reach level 8.",
-    "url": "http://runescape.wikia.com/wiki/Construction_training#Level_1_to_19",
+    "title": "Construction Training Levels 19-33",
+    "description": "At level 19, players can make [Oak Chairs](http://runescape.wikia.com/wiki/Oak_chair). The chairs can be built in the [Parlour](http://runescape.wikia.com/wiki/Parlour) room, using 2 [Oak Planks](http://runescape.wikia.com/wiki/Oak_plank) per chair. 119 oak chairs will be built to reach level 33.",
+    "url": "http://runescape.wikia.com/wiki/Construction_training#Level_19_to_33",
     "color": 12269891,
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "thumbnail": {
-      "url": "https://vignette.wikia.nocookie.net/runescape2/images/7/73/Crude_wooden_chair_built.png/revision/latest?cb=20110611172507"
+      "url": "https://vignette.wikia.nocookie.net/runescape2/images/1/1a/Oak_chair_built.png/revision/latest?cb=20110611224615"
     },
     "author": {
       "name": "Max Cape Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
-    },
-    "fields": [
-    {
-      "name": "Wooden Chairs",
-      "value": "At level 8, a player can switch to [Wooden Chairs](http://runescape.wikia.com/wiki/Wooden_chair). These chairs require 3 planks and 3 nails per chair. 34 wooden chairs should be built to reach level 19."
     }
-    ]
   },
   "19 - 33": {
     "title": "Construction Training Levels 19-33",
@@ -168,11 +162,11 @@ exports.data = {
     },
     {
       "name": "▬▬ Shifting Tombs ▬▬",
-      "value": "is a skilling minigame that is accessed in [Menaphos](http://runescape.wikia.com/wiki/Menaphos) after the completion of [The Jack of Spades](http://runescape.wikia.com/wiki/The_Jack_of_Spades). Shifting Tombs allows players to gain experience in skills of their choosing by pledging allegiance to different gods. The four primary skill choices are Dungeoneering, Agility, Thieving, and Construction; players are able to choose whether they gain experience in all four skills or a particular one of them. In Shifting Tombs, there are 3 main objectives to be completed before the time limit of 5 minutes is reached, namely opening sarcophagi, looting treasure chests and cleansing corruption."
+      "value": "[Shifting Tombs](http://runescape.wikia.com/wiki/Shifting_Tombs) is a skilling minigame that is accessed in [Menaphos](http://runescape.wikia.com/wiki/Menaphos) after the completion of [The Jack of Spades](http://runescape.wikia.com/wiki/The_Jack_of_Spades). Shifting Tombs allows players to gain experience in skills of their choosing by pledging allegiance to different gods. The four primary skill choices are Dungeoneering, Agility, Thieving, and Construction; players are able to choose whether they gain experience in all four skills or a particular one of them. In Shifting Tombs, there are 3 main objectives to be completed before the time limit of 5 minutes is reached, namely opening sarcophagi, looting treasure chests and cleansing corruption."
     },
     { 
       "name": "​", 
-      "value": "Rewards are obtained both throughout the Shifting Tomb itself, as well as after finishing a Shifting Tomb. The type of experience earned is determined by toggling statues and braziers inside the Shifting Tombs lobby. If however, all statues are toggled off, coins are awarded instead after finishing a shifting tomb. When determining experience rewards a base value of experience is used, which is different for the different skills, and different for the different tiers. This value represents the experience earned when a Shifting Tomb is fully completed, if only that one of that type (primary or secondary) is selected. If multiple primary skills or multiple secondary skills are selected then the experience awarded in those skills is split proportionally."
+      "value": "Rewards are obtained both throughout the Shifting Tomb itself, as well as after finishing a Shifting Tomb. The type of experience earned is determined by toggling statues and braziers inside the Shifting Tombs lobby. If, however, all statues are toggled off, coins are awarded instead after finishing a shifting tomb. When determining experience rewards a base value of experience is used, which is different for the different skills, and different for the different tiers. This value represents the experience earned when a Shifting Tomb is fully completed, if only that one of that type (primary or secondary) is selected. If multiple primary skills or multiple secondary skills are selected, then the experience awarded in those skills is split proportionally."
     },
     { 
       "name": "▬▬ Stealing Creation ▬▬", 
@@ -327,7 +321,11 @@ exports.data = {
     },
     "fields": [
       {
-        "name": "Constructor's outfit",
+        "name": "Construction Cape",
+        "value": "• The [Construction Cape's](http://runescape.wikia.com/wiki/Construction_cape) perk has a chance to save planks in the player's own house."
+      },
+      {
+        "name": "Constructor's Outfit",
         "value": "• The [Constructor's Outfit](http://runescape.wikia.com/wiki/Constructor%27s_outfit) can be obtained from the [Temple Trekking](http://runescape.wikia.com/wiki/Temple_Trekking). This outfit requires completion of [In Aid of the Myreque](http://runescape.wikia.com/wiki/In_Aid_of_the_Myreque) to participate in the minigame and [The Darkness of Hallowvale](http://runescape.wikia.com/wiki/Darkness_of_Hallowvale) must also be completed to get over 300 total levels. Each piece grants 1% bonus to Construction experience, wearing the full set grants 6%."
       },
       {
@@ -359,12 +357,11 @@ exports.data = {
     "fields": [
       {
         "name": "Construction Boosts",
-        "value": "[Cup of Tea (POH)](http://runescape.wikia.com/wiki/Cup_of_tea_(Player-owned_house)\n• +1 Construction level if served with [Clay Empty Cup](http://runescape.wikia.com/wiki/Empty_cup_(Player-owned_house)\n• +2 Construction level if served with [White Porcelain Cup](http://runescape.wikia.com/wiki/Porcelain_cup_(white)\n• +3 Construction level if served with [Gold Trimmed Porcelain Cup](http://runescape.wikia.com/wiki/Porcelain_cup_(gold)\n\n[Crystal Saw](http://runescape.wikia.com/wiki/Crystal_saw)\n• +3 invisible Construction levels\n• Only for objects requiring a saw to make\n\n[Crystal Saw (Prifddinas)](http://runescape.wikia.com/wiki/Crystal_saw_(Prifddinas)\n• +5 invisible Construction levels\n• Only for objects requiring a saw to make\n\n"
+        "value": "[Construction Cape](http://runescape.wikia.com/wiki/Construction_cape)\n• +1 Construction level for 1 minute\n\n[Cup of Tea (POH)](http://runescape.wikia.com/wiki/Cup_of_tea_(Player-owned_house)\n• +1 Construction level if served with [Clay Empty Cup](http://runescape.wikia.com/wiki/Empty_cup_(Player-owned_house)\n• +2 Construction level if served with [White Porcelain Cup](http://runescape.wikia.com/wiki/Porcelain_cup_(white)\n• +3 Construction level if served with [Gold Trimmed Porcelain Cup](http://runescape.wikia.com/wiki/Porcelain_cup_(gold)\n\n[Crystal Saw](http://runescape.wikia.com/wiki/Crystal_saw)\n• +3 invisible Construction levels\n• Only for objects requiring a saw to make\n\n[Crystal Saw (Prifddinas)](http://runescape.wikia.com/wiki/Crystal_saw_(Prifddinas)\n• +5 invisible Construction levels\n• Only for objects requiring a saw to make"
       },
       {
         "name": "​",
-        "value": "[Sacred Clay Hammer](http://runescape.wikia.com/wiki/Sacred_clay_hammer)\n• 24,450 bonus experience\n• Costs 20 Stealing Creation points\n\n[Volatile Clay Hammer](http://runescape.wikia.com/wiki/Volatile_clay_hammer)\n• 29,340 bonus experience\n• Costs 20 Stealing Creation points\n\n[Toffee Apple](http://runescape.wikia.com/wiki/Toffee_apple)\n• +2 Construction Levels\n\n[Sugar Skull](http://runescape.wikia.com/wiki/Sugar_skull)\n• +2 Construction levels\n\n[God Banner](http://runescape.wikia.com/wiki/God_banner)\n• +2 levels\n• Lasts 30 minutes once per day\n\n[Spicy Stew](http://runescape.wikia.com/wiki/Spicy_stew)\n • Boost is applied to a random skill\n • Up to ±5 with 3 spice doses\n • Up to ±3 with 2 spice doses\n • Up to ±1 with 1 spice dose"
+        "value": "[Sacred Clay Hammer](http://runescape.wikia.com/wiki/Sacred_clay_hammer)\n• 24,450 bonus experience\n• Costs 20 Stealing Creation points\n\n[Volatile Clay Hammer](http://runescape.wikia.com/wiki/Volatile_clay_hammer)\n• 29,340 bonus experience\n• Costs 20 Stealing Creation points\n\n[Toffee Apple](http://runescape.wikia.com/wiki/Toffee_apple)\n• +2 Construction Levels\n\n[Sugar Skull](http://runescape.wikia.com/wiki/Sugar_skull)\n• +2 Construction levels\n\n[God Banner](http://runescape.wikia.com/wiki/God_banner)\n• +2 levels\n• Lasts 30 minutes once per day\n\n[Spicy Stew](http://runescape.wikia.com/wiki/Spicy_stew)\n • Boost is applied to a random skill\n • Up to ±6 with 3 spice doses\n • Up to ±3 with 2 spice doses\n • Up to ±2 with 1 spice dose"
       }
        ]
-  }
-};
+  };

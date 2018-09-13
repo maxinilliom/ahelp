@@ -213,8 +213,8 @@ exports.data = {
     },
     "fields": [
       {
-        "name": "N/A",
-        "value": "There are currently no permanent boosts for Constitution."
+        "name": "Constitution Cape",
+        "value": "The [Constitution Cape's]() perk doubles base life point regeneration to 0.2% every 6 seconds, which heals during combat and stacks with [Fortitude](http://runescape.wikia.com/wiki/Fortitude)."
       }
       ]
   },
@@ -237,12 +237,11 @@ exports.data = {
     "fields": [
       {
         "name": "Construction Boosts",
-        "value": "[Constitution Cape](http://runescape.wikia.com/wiki/Constitution_cape)\n• +1 Constitution level\n\n[Bonfire](http://runescape.wikia.com/wiki/Bonfire)\n• Up to 5% boost at level 98\n\n[Thermal Spa](http://runescape.wikia.com/wiki/Spa)\n• Boosts the player's maximum life points cap by +3 per Constitution level\n• Maximum of +297 at level 99\n\n[Fortitude](http://runescape.wikia.com/wiki/Fortitude)\n• +10% to Life Points\n• +15% Defence levels\n• +3 Damage Reduction\n• +10% accuracy to [Debilitate](http://runescape.wikia.com/wiki/Debilitate) and [Bash](http://runescape.wikia.com/wiki/Bash)\n• Passive Regeneration"
+        "value": "[Constitution Cape](http://runescape.wikia.com/wiki/Constitution_cape)\n• +1 Constitution level for 1 minute\n\n[Bonfire](http://runescape.wikia.com/wiki/Bonfire)\n• Up to 5% boost at level 98\n\n[Thermal Spa](http://runescape.wikia.com/wiki/Spa)\n• Boosts the player's maximum life points cap by +3 per Constitution level\n• Maximum of +297 at level 99\n\n[Fortitude](http://runescape.wikia.com/wiki/Fortitude)\n• +10% to Life Points\n• +15% Defence levels\n• +3 Damage Reduction\n• +10% accuracy to [Debilitate](http://runescape.wikia.com/wiki/Debilitate) and [Bash](http://runescape.wikia.com/wiki/Bash)\n• Passive Regeneration"
       },
       {
         "name": "​",
         "value": "[Elidinis Statuette](http://runescape.wikia.com/wiki/Elidinis_Statuette)\n• Life Points boost of 500\n\n[Abidor Crank](http://runescape.wikia.com/wiki/Abidor_Crank)\n• +20% Life Point boost\n• +15% Defence boost\n\nThe following foods can heal 10% over the maximum, and stack with the bonfire boost:\n• [Rocktail](http://runescape.wikia.com/wiki/Rocktail)\n• [Sailfish](http://runescape.wikia.com/wiki/Sailfish)\n• [Tiger Shark](http://runescape.wikia.com/wiki/Tiger_shark)\n\nThe following foods can heal 15% over the maximum, and stack with the bonfire boost:\n• [Rocktail Soup](http://runescape.wikia.com/wiki/Rocktail_soup)\n• [Sailfish Soup](http://runescape.wikia.com/wiki/Sailfish_soup)"
       }
        ]
-  }
-};
+  };

@@ -55,7 +55,7 @@ exports.data = {
   },
   "35 - 50": {
     "title": "Slayer Training Levels 35-50",
-    "description": "From levels 35-50 it's recommended to use [Sumona](http://runescape.wikia.com/wiki/Slayer_Master#Sumona), which requires 90 combat. \n\t\n\t Sumona is located in [Pollinivneach](http://runescape.wikia.com/wiki/Pollnivneach). She requires 35 Slayer, 90 combat, and the completion of [Smoking Kills](http://runescape.wikia.com/wiki/Smoking_Kills) quest to use. It's recommended to finish this quest as early as possible to start gaining the maxmimum ammount of [Slayer Points](http://runescape.wikia.com/wiki/Slayer_reward_point).",
+    "description": "From levels 35-50 it's recommended to use [Sumona](http://runescape.wikia.com/wiki/Slayer_Master#Sumona), which requires 90 combat. \n\t\n\t Sumona is located in [Pollinivneach](http://runescape.wikia.com/wiki/Pollnivneach). She requires 35 Slayer, 90 combat, and the completion of [Smoking Kills](http://runescape.wikia.com/wiki/Smoking_Kills) quest to use. It's recommended to finish this quest as early as possible to start gaining the maxmimum amount of [Slayer Points](http://runescape.wikia.com/wiki/Slayer_reward_point).",
     "url": "http://runescape.wikia.com/wiki/Slayer_Master",
     "color": 12269891,
     "footer": {
@@ -78,9 +78,9 @@ exports.data = {
             "name":"​Sumona (Higher levels)",
             "value":"\t**Tasks to do:** Cave crawlers, Black demons, [Bloodvelds](http://runescape.wikia.com/wiki/Bloodveld), Fire giants, Elves, \n\tKalphites, Iron dragons, Dagganoths and Red dragons \n\n\t**Tasks to prefer:** N/A\n\t**Tasks to block:** Banshees, Greater demons and Grotworms\n\t**Tasks to skip:** Everything else \n\t**Slayer/h:** 74k slayer xp \n\t**Cb/h:** 126k"
          },
-         {  
+{  
             "name":"​Prefer/Block",
-            "value":"Prefer and block list can be modified to suit your liking better, such as blocking tasks you dislike, but the list above is for maximum slayer experience an hour."}
+            "value":"Prefer and block list can be modified to suit your liking better, such as blocking tasks you dislike, but the list above is for maximum slayer experience an hour."         }
       ]
   },
   "50 - 75": {
@@ -116,7 +116,6 @@ exports.data = {
   "75 - 85": {
     "title": "Slayer Training Levels 75-85",
     "description": "From levels 75-85, it's recommended to use [Kuradal](http://runescape.wikia.com/wiki/Slayer_Master#Kuradal), which requires 110 combat. \n\t\n\t Kuradal is the second highest level slayer master, requiring 75 slayer and 110 combat to use. She is located in the [Ancient Cavern](http://runescape.wikia.com/wiki/Ancient_Cavern) under [Baxtorian Falls](http://runescape.wikia.com/wiki/Baxtorian_Falls). The first time you access the cave through the whirlpool on the surface, but you can also access it by repairing the [Fairy Ring](http://runescape.wikia.com/wiki/Fairy_Ring) or using a [Ferocious Ring](http://runescape.wikia.com/wiki/Ferocious_ring).",
-    "url": "http://runescape.wikia.com/wiki/Slayer_Master",
     "color": 12269891,
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
@@ -187,7 +186,7 @@ exports.data = {
          },
          {  
             "name":"​Prefer/Block",
-            "value":"Prefer and blcok list can be modified to suit your liking better, such as blocking tasks you dislike, but the list above is for maximum slayer experience an hour."        
+            "value":"Prefer and block list can be modified to suit your liking better, such as blocking tasks you dislike, but the list above is for maximum slayer experience an hour."        
          }
       ]
   },
@@ -241,7 +240,7 @@ exports.data = {
     "fields": [
       {
         "name": "Methods to Obtain",
-        "value": "• Each valid kill during a Slayer assignment\n•Each valid kill during a Soul Reaper assignment\n• Each valid kill during one of Markus' Slayer contracts\n• Each kill during Rush of Blood"
+        "value": "• Each valid kill during a Slayer assignment\n• Each valid kill during a Soul Reaper assignment\n• Each valid kill during one of Markus' Slayer contracts\n• Each kill during Rush of Blood"
       },
       {
         "name": "Best Method",
@@ -280,56 +279,56 @@ exports.data = {
       }
       ]
   },
-  "distractions and diversions": { 
-    "title": "Distractions and Diversions", 
-    "url": "http://runescape.wikia.com/wiki/Distractions_and_Diversions", 
-    "description": "D&Ds are a subclassification of minigames. However, unlike minigames many D&Ds move around the world to various locations, have a limit on how often they can be played, and only occur at particular times of day.\n\nDistractions and Diversions aim to divert the original intentions of the player in order to provide an interesting distraction from their everyday routines. D&Ds come in many different shapes and sizes; covering Combat, Gathering, Artisan, and Support skills. There are a wide variety of different options available to suit the players choice.", 
-    "color": 12269891, 
-    "footer": { 
-    "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg", 
-    "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
-    }, 
-    "thumbnail": { 
-    "url": "https://vignette.wikia.nocookie.net/runescape2/images/6/62/D%26D_icon.png/revision/latest?cb=20140914110639" 
-    }, 
-    "author": { 
-    "name": "Max Cape Info", 
-    "icon_url": "https://i.imgur.com/6c6q2iC.png" 
-    }, 
-    "fields": [ 
-    { 
-    "name": "▬▬ Skeletal Horror ▬▬", 
-    "value": "The [Skeletal Horror](http://runescape.wikia.com/wiki/Skeletal_horror) is a level 91 monster which may be killed once a week after doing the [Rag and Bone Man](http://runescape.wikia.com/wiki/Rag_and_Bone_Man/Wish_list) and [Fur 'n' Seek Wish List](http://runescape.wikia.com/wiki/Fur_%27n%27_Seek/Wish_list) miniquests, where the latter requires 73 Slayer to complete. Killing it rewards the player with Slayer experience ranging from around 9,000 to 15,125 experience depending on the player's level, as well as Prayer experience and a guaranteed [elite clue scroll](http://runescape.wikia.com/wiki/Clue_scroll_(elite) drop."
-    },
-    { 
-    "name": "▬▬ Bork ▬▬", 
-    "value": "Bork is a level 107 ork which may be killed once a day after doing [The Hunt for Surok](http://runescape.wikia.com/wiki/Chaos_Tunnels:_The_Hunt_for_Surok) miniquest. Every kill after the very first one rewards the player with 1,500 Slayer experience, in addition to a [fixed amount](http://runescape.wikia.com/wiki/Bork#100.25_drops) of various uncut gems and Summoning charms. Completing the [Hard Varrock Tasks](http://runescape.wikia.com/wiki/Varrock_achievements#Hard_Tasks), [The Mighty Fall](http://runescape.wikia.com/wiki/The_Mighty_Fall), or both, increases all the mentioned rewards, including the player earning up to a maximum of 8,000 Slayer experience per kill."
-    },
-    { 
-    "name": "▬▬ Wilderness Warbands ▬▬", 
-    "value": "[Wilderness Warbands](http://runescape.wikia.com/wiki/Wilderness_Warbands) is a dangerous D&D that can be played every 7 hours. In the case of Slayer, experience is rewarded for participating in killing the camp leader."
-    },
-    { 
-    "name": "▬▬ Pheonix Lair Challenge ▬▬", 
-    "value": "[Pheonix Lair](http://runescape.wikia.com/wiki/Phoenix_Lair) is a solo minigame in which players must navigate through a series of caverns and optionally fight against the aggressive [reborn](http://runescape.wikia.com/wiki/Reborn) monstrosities that can teleport to attack the player if another reborn is already attacking the player. In each of the first five caverns, players collect twigs from trees. These will later need to be cut into ribbons which are then used to build the phoenix's pyre in the last cavern calling the Phoenix to battle."
-    }, 
-    { 
-    "name": "​", 
-    "value": "The Phoenix has a Combat level of 84, her main attack is Magic-based, and she is weak to arrows. She also has an unblockable dust attack, which lowers Attack, Ranged, and Magic level by approximately 50 percent for a few seconds, nullifying stat-boosting potions. When the Phoenix has been defeated, she crawls onto the pyre. The player can then light the pyre to set it alight, and the Phoenix is consumed by the flames to be reborn. Once she reappears, the player can talk to her to receive the reward and to optionally engage in some dialogue."
-    },
-    { 
-    "name": "▬▬ God Statues ▬▬", 
-    "value": "[God Statues](http://runescape.wikia.com/wiki/God_Statues) is a Construction based monthly Distraction and Diversion. The aim is to aid [Copernicus Glyph](http://runescape.wikia.com/wiki/Copernicus_Glyph) building up to five statues around Gielinor which act as prayer altars. To take part, one of the following must be completed:\n• Completed or manually turned off tutorial mode\n• Completed at least 60 Achievements\n• Completed [Let Them Eat Pie](http://runescape.wikia.com/wiki/Let_Them_Eat_Pie)\nAll locations can be found [here](http://runescape.wikia.com/wiki/God_Statues#Locations)." 
-    }, 
-    { 
-    "name": "​", 
-    "value": "Each statue completed will award Construction experience equal to a large XP lamp, while praying to a statue or killing a fanatic will award Prayer or Slayer experience equal to a medium XP lamp respectively, capped at level 99." 
-    },  
-    { 
-    "name": "▬▬ Rush of Blood ▬▬", 
-    "value": "[Rush of Blood](https://runescape.wikia.com/wiki/Rush_of_Blood) is a weekly Slayer-themed combat D&D that can be played in [Prifddinas](https://runescape.wikia.com/wiki/Prifddinas), requiring at least level 85 Slayer and completion of [Plague's End](https://runescape.wikia.com/wiki/Plague%27s_End) to take part. It is run by [Morvran Iorwerth](https://runescape.wikia.com/wiki/Morvran), slayer master and former warband leader. Rush of Blood takes place in [Morvran's Dungeon](https://runescape.wikia.com/wiki/Morvran%27s_Dungeon), where waves of different slayer-themed monsters, assembled from Morvran's assignment list, must be fought. Players have ten minutes to dispatch as many foes as possible. The activity can be played once a week for rewards, and any number of times for practice. "
-    } 
-    ]
+  "distractions and diversions":  { 
+"title": "Distractions and Diversions", 
+"url": "http://runescape.wikia.com/wiki/Distractions_and_Diversions", 
+"description": "D&Ds are a subclassification of minigames. However, unlike minigames many D&Ds move around the world to various locations, have a limit on how often they can be played, and only occur at particular times of day.\n\nDistractions and Diversions aim to divert the original intentions of the player in order to provide an interesting distraction from their everyday routines. D&Ds come in many different shapes and sizes; covering Combat, Gathering, Artisan, and Support skills. There are a wide variety of different options available to suit the players choice.", 
+"color": 12269891, 
+"footer": { 
+"icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg", 
+"text": "Achievement Help | Helping you reach your goals, whatever they may be!"
+}, 
+"thumbnail": { 
+"url": "https://vignette.wikia.nocookie.net/runescape2/images/6/62/D%26D_icon.png/revision/latest?cb=20140914110639" 
+}, 
+"author": { 
+"name": "Max Cape Info", 
+"icon_url": "https://i.imgur.com/6c6q2iC.png" 
+}, 
+"fields": [ 
+{ 
+"name": "▬▬ Skeletal Horror ▬▬", 
+"value": "The [Skeletal Horror](http://runescape.wikia.com/wiki/Skeletal_horror) is a level 91 monster which may be killed once a week after doing the [Rag and Bone Man](http://runescape.wikia.com/wiki/Rag_and_Bone_Man/Wish_list) and [Fur 'n' Seek Wish List](http://runescape.wikia.com/wiki/Fur_%27n%27_Seek/Wish_list) miniquests, where the latter requires 73 Slayer to complete. Killing it rewards the player with Slayer experience ranging from around 9,000 to 15,125 experience depending on the player's level, as well as Prayer experience and a guaranteed [elite clue scroll](http://runescape.wikia.com/wiki/Clue_scroll_(elite) drop."
+},
+{ 
+"name": "▬▬ Bork ▬▬", 
+"value": "Bork is a level 107 ork which may be killed once a day after doing [The Hunt for Surok](http://runescape.wikia.com/wiki/Chaos_Tunnels:_The_Hunt_for_Surok) miniquest. Every kill after the very first one rewards the player with 1,500 Slayer experience, in addition to a [fixed amount](http://runescape.wikia.com/wiki/Bork#100.25_drops) of various uncut gems and Summoning charms. Completing the [Hard Varrock Tasks](http://runescape.wikia.com/wiki/Varrock_achievements#Hard_Tasks), [The Mighty Fall](http://runescape.wikia.com/wiki/The_Mighty_Fall), or both, increases all the mentioned rewards, including the player earning up to a maximum of 8,000 Slayer experience per kill."
+},
+{ 
+"name": "▬▬ Wilderness Warbands ▬▬", 
+"value": "[Wilderness Warbands](http://runescape.wikia.com/wiki/Wilderness_Warbands) is a dangerous D&D that can be played every 7 hours. In the case of Slayer, experience is rewarded for participating in killing the camp leader."
+},
+{ 
+"name": "▬▬ Pheonix Lair Challenge ▬▬", 
+"value": "[Pheonix Lair](http://runescape.wikia.com/wiki/Phoenix_Lair) is a solo minigame in which players must navigate through a series of caverns and optionally fight against the aggressive [reborn](http://runescape.wikia.com/wiki/Reborn) monstrosities that can teleport to attack the player if another reborn is already attacking the player. In each of the first five caverns, players collect twigs from trees. These will later need to be cut into ribbons which are then used to build the phoenix's pyre in the last cavern calling the Phoenix to battle."
+}, 
+{ 
+"name": "​", 
+"value": "The Phoenix has a Combat level of 84, her main attack is Magic-based, and she is weak to arrows. She also has an unblockable dust attack, which lowers Attack, Ranged, and Magic level by approximately 50 percent for a few seconds, nullifying stat-boosting potions. When the Phoenix has been defeated, she crawls onto the pyre. The player can then light the pyre to set it alight, and the Phoenix is consumed by the flames to be reborn. Once she reappears, the player can talk to her to receive the reward and to optionally engage in some dialogue."
+},
+{ 
+"name": "▬▬ God Statues ▬▬", 
+"value": "[God Statues](http://runescape.wikia.com/wiki/God_Statues) is a Construction based monthly Distraction and Diversion. The aim is to aid [Copernicus Glyph](http://runescape.wikia.com/wiki/Copernicus_Glyph) building up to five statues around Gielinor which act as prayer altars. To take part, one of the following must be completed:\n• Completed or manually turned off tutorial mode\n• Completed at least 60 Achievements\n• Completed [Let Them Eat Pie](http://runescape.wikia.com/wiki/Let_Them_Eat_Pie)\nAll locations can be found [here](http://runescape.wikia.com/wiki/God_Statues#Locations)." 
+}, 
+{ 
+"name": "​", 
+"value": "Each statue completed will award Construction experience equal to a large XP lamp, while praying to a statue or killing a fanatic will award Prayer or Slayer experience equal to a medium XP lamp respectively, capped at level 99." 
+},  
+{ 
+"name": "▬▬ Rush of Blood ▬▬", 
+"value": "[Rush of Blood](https://runescape.wikia.com/wiki/Rush_of_Blood) is a weekly Slayer-themed combat D&D that can be played in [Prifddinas](https://runescape.wikia.com/wiki/Prifddinas), requiring at least level 85 Slayer and completion of [Plague's End](https://runescape.wikia.com/wiki/Plague%27s_End) to take part. It is run by [Morvran Iorwerth](https://runescape.wikia.com/wiki/Morvran), slayer master and former warband leader. Rush of Blood takes place in [Morvran's Dungeon](https://runescape.wikia.com/wiki/Morvran%27s_Dungeon), where waves of different slayer-themed monsters, assembled from Morvran's assignment list, must be fought. Players have ten minutes to dispatch as many foes as possible. The activity can be played once a week for rewards, and any number of times for practice. "
+} 
+] 
 },
   "daily challenge": {
     "title": "Daily Challenge",
@@ -372,6 +371,14 @@ exports.data = {
     },
     "fields": [
       {
+        "name": "Slayer Cape",
+        "value": "• The [Slayer Cape's](http://runescape.wikia.com/wiki/Slayer_cape) perk provides the ability to teleport to available [Slayer Masters](http://runescape.wikia.com/wiki/Slayer_Master)."
+      },
+      {
+        "name": "Slayer Master Cape",
+        "value": "• The [Slayer Master Cape's](http://runescape.wikia.com/wiki/Slayer_master_cape) perk, on top of having the Slayer capes perk, gains a new perk that gives a 20% chance to choose what a new task will be from a Slayer master."
+      },      
+      {
         "name": "Morytania Legs 4",
         "value": "• The [Morytania Legs](http://runescape.wikia.com/wiki/Morytania_legs_4) offer a 10% boost to Slayer experience in the [Slayer Tower](http://runescape.wikia.com/wiki/Slayer_Tower) while on a task. The legs must be worn in order to receive the experience boost."
       },
@@ -404,12 +411,7 @@ exports.data = {
     "fields": [
       {
         "name": "Slayer Boosts",
-        "value": "[Dragon Slayer Gloves](http://runescape.wikia.com/wiki/Dragon_slayer_gloves)\n• +15% Slayer experience per kill\n• +10% accuracy boost on [Dragons](http://runescape.wikia.com/wiki/Dragon_(race)\n\n[Slayer's Respite](http://runescape.wikia.com/wiki/Slayer%27s_respite)\n• +2 Slayer levels\n• Decreases Attack and Strength by 2\n• Heals 590 life points\n\n[Slayers Respite (m)](http://runescape.wikia.com/wiki/Slayer's_respite_(m)\n• +4 Slayer levels\n• Decreases Attack and Strength by 2\n• Heals 620 life points\n\n[Sugar Skull](http://runescape.wikia.com/wiki/Sugar_skull)\n• +2 Slayer levels\n\n[Toffee Apple](http://runescape.wikia.com/wiki/Toffee_apple)\n• +2 Slayer levels\n\n[Spicy Stew](http://runescape.wikia.com/wiki/Spicy_stew)\n • Boost is applied to a random skill\n • Up to ±5 with 3 spice doses\n • Up to ±3 with 2 spice doses\n • Up to ±1 with 1 spice dose"
-      },
-      {
-        "name": "​",
-        "value": "[Super Melee Potion](http://runescape.wikia.com/wiki/Super_melee_potion)"
+        "value": "[Dragon Slayer Gloves](http://runescape.wikia.com/wiki/Dragon_slayer_gloves)\n• +15% Slayer experience per kill\n• +10% accuracy boost on [Dragons](http://runescape.wikia.com/wiki/Dragon_(race)\n\n[Slayer's Respite](http://runescape.wikia.com/wiki/Slayer%27s_respite)\n• +2 Slayer levels\n• Decreases Attack and Strength by 2\n• Heals 590 life points\n\n[Slayers Respite (m)](http://runescape.wikia.com/wiki/Slayer's_respite_(m)\n• +4 Slayer levels\n• Decreases Attack and Strength by 2\n• Heals 620 life points\n\n[Sugar Skull](http://runescape.wikia.com/wiki/Sugar_skull)\n• +2 Slayer levels\n\n[Toffee Apple](http://runescape.wikia.com/wiki/Toffee_apple)\n• +2 Slayer levels\n\n[Spicy Stew](http://runescape.wikia.com/wiki/Spicy_stew)\n • Boost is applied to a random skill\n • Up to ±6 with 3 spice doses\n • Up to ±3 with 2 spice doses\n • Up to ±2 with 1 spice dose"
       }
        ]
-  }
-};
+  };

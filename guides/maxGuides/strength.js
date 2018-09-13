@@ -51,7 +51,7 @@ exports.data = {
      },
      {
        "name":"Alternative Method",
-       "value":"Alternatively, players can begin training Attack on [Goblins](http://runescape.wikia.com/wiki/Goblin). The goblins are level 2, with 100 life points. They can be found in [Lumbridge](http://runescape.wikia.com/wiki/Lumbridge), on the east side of the [River Lum](http://runescape.wikia.com/wiki/River_Lum). Players should use the recommended armor and weapons listed above."
+       "value":"Alternatively, players can begin training Strength on [Goblins](http://runescape.wikia.com/wiki/Goblin). The goblins are level 2, with 100 life points. They can be found in [Lumbridge](http://runescape.wikia.com/wiki/Lumbridge), on the east side of the [River Lum](http://runescape.wikia.com/wiki/River_Lum). Players should use the recommended armor and weapons listed above."
      },
      {
        "name":"Alternative Method",
@@ -265,6 +265,53 @@ exports.data = {
     }
       ]
   },
+  "alternate methods pt2": {
+    "title": "Alternative Methods of Training Continued",
+    "url": "http://runescape.wikia.com/wiki/Pay-to-play_Ranged_training#Other_training_methods",
+    "description": "Some users may wish to utilize methods outside of the ones displayed in this channel's guide. To aid in this, the following alternative methods are provided.",
+        "color": 12269891,
+    "footer": {
+      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
+    },
+    "thumbnail": {
+      "url": "https://vignette.wikia.nocookie.net/runescape2/images/4/43/Soul_wars_xp_rewards.png/revision/latest?cb=20131031233723"
+    },
+    "author": {
+      "name": "Max Cape Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "fields": [
+    { 
+      "name": "▬▬ Stealing Creation ▬▬", 
+      "value": "[Stealing Creation](http://runescape.wikia.com/wiki/Stealing_Creation) is a minigame located in the [Gamers' Grotto](http://runescape.wikia.com/wiki/Gamers%27_Grotto) with a reward shop ran by [Rewards Mystic](http://runescape.wikia.com/wiki/Rewards_mystic) in the north-east corner. The goal of the minigame, played in two opposing teams, is to collect and process as much [clay](http://runescape.wikia.com/wiki/Sacred_clay) as possible, and deposit it at the base. However, the two teams may attack each other, claiming all of one's held clay and items upon death. No items may be taken into the game, either in inventory or worn, nor any pets or familiars. There is a bank deposit box right by the entrance. Items on the tool belt do not work in the game. Games can last up to 20 minutes, but they can end earlier if all resources in the play arena are exhausted."
+    }, 
+    { 
+      "name": "​", 
+      "value": "Points are given based on the actions performed during each game, with a breakdown found [here](http://runescape.wikia.com/wiki/Stealing_Creation/Rewards#Point_system). Players can buy items such as the [Volatile tool](http://runescape.wikia.com/wiki/Volatile_clay_tool), the [Proto-tool](http://runescape.wikia.com/wiki/Proto-tool), and the different types of [Sacred Clay Armour and Weapons](http://runescape.wikia.com/wiki/Sacred_clay_equipment). Volatile tools provide 29,340 bonus experience, but change at random. All other rewards, except for the [shield](http://runescape.wikia.com/wiki/Sacred_clay_equipment#Shields), provide 24,450 bonus experience. The [Artisan's outfit](http://runescape.wikia.com/wiki/Artisan%27s_outfit) and [Fletcher's outfit](http://runescape.wikia.com/wiki/Fletcher%27s_outfit) can be bought at the reward shop as well. For more in-depth information about each reward, refer to the main article using this [link](http://runescape.wikia.com/wiki/Stealing_Creation/Rewards#Reward_equipment)."
+    },
+    {
+      "name": "▬▬ Soul Wars ▬▬",
+      "value": "[Soul Wars](http://runescape.wikia.com/wiki/Soul_Wars)  is a team minigame that lasts twenty minutes per game and can be played on any world. In Soul Wars, two opposing teams compete against each other to gather [Soul Fragments](http://runescape.wikia.com/wiki/Soul_fragment) and offer them to the [Soul Obelisk](http://runescape.wikia.com/wiki/Soul_obelisk_(Soul_Wars) in order to weaken, and ultimately defeat, each other's avatars through combat."
+    },
+    { 
+      "name": "​", 
+      "value": "Players will receive a number of zeal points based on their performance in the game, unless the player joined the waiting area after the game was half over; in which case no zeal points are awarded. Players may trade these in with [Nomad](http://runescape.wikia.com/wiki/Nomad), [Zimberfizz](http://runescape.wikia.com/wiki/Zimberfizz), [Zimberfizz ashes](http://runescape.wikia.com/wiki/Zimberfizz_ashes), or [Zanik](http://runescape.wikia.com/wiki/Zanik) for a variety of rewards such as experience, charms, Slayer pets, and other items. Players can store a maximum of 50,000 Zeal points. This is equivalent to playing and winning 16,667 games."
+    },
+       {
+        "name": "▬▬ Pest Control ▬▬",
+        "value": "[Pest Control](https://runescape.wikia.com/wiki/Pest_Control) is a co-operative members-only combat-based minigame. In it, players must defend an NPC known as the [Void Knight](https://runescape.wikia.com/wiki/Pest_Control) from an onslaught of monsters, while at the same time destroying the portals from which the monsters spawn. It is advisable to have some players stay at the Void Knight and some at each portal. "
+      },
+      {
+        "name": "​",
+        "value": "Winning players are rewarded with commendation points. Depending on your boat, you will gain a different number of commendation points upon winning a game:\n\n\t• Novice Boat: 2 points per game won. \n\t• Intermediate Boat: 3 points per game won. \n\t• Veteran Boat: 4 points per game won."
+      },
+      {
+        "name": "​",
+        "value": "Experience in any combat skill besides Summoning that is equal to or greater than level 25. The formula is the following: L2N, where L equals level; N equals approximately 5.195 for magic and range, approximately 19.23 for summoning and prayer, and 5 for all others. The experience is always rounded down to a whole number. "
+      }
+      ]
+  },
   "pet - kangali": {
     "title": "Strength Pet - Kangali",
     "description": "Kangali is the skilling pet obtainable from Strength. He is unlocked by inspecting the [Kangali Pet](http://runescape.wikia.com/wiki/Kangali).",
@@ -303,7 +350,7 @@ exports.data = {
   "quests": {
     "title": "Quests which Grant Strength Experience",
     "url": "http://runescape.wikia.com/wiki/Quests/Experience_rewards#Strength",
-    "description": "Currently, a total of 543,074.5 experience may be gained specifically to Attack throughout all of the RuneScape Quests. These rewards are automatically given and there is no choice involved.",
+    "description": "Currently, a total of 543,074.5 experience may be gained specifically to Strength throughout all of the RuneScape Quests. These rewards are automatically given and there is no choice involved.",
         "color": 12269891,
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
@@ -324,43 +371,43 @@ exports.data = {
       ]
   },
   "distractions and diversions": { 
-    "title": "Distractions and Diversions", 
-    "url": "http://runescape.wikia.com/wiki/Distractions_and_Diversions", 
-    "description": "D&Ds are a subclassification of minigames. However, unlike minigames many D&Ds move around the world to various locations, have a limit on how often they can be played, and only occur at particular times of day.\n\nDistractions and Diversions aim to divert the original intentions of the player in order to provide an interesting distraction from their everyday routines. D&Ds come in many different shapes and sizes; covering Combat, Gathering, Artisan, and Support skills. There are a wide variety of different options available to suit the players choice.", 
-    "color": 12269891, 
-    "footer": { 
-    "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg", 
-    "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
-    }, 
-    "thumbnail": { 
-    "url": "https://vignette.wikia.nocookie.net/runescape2/images/6/62/D%26D_icon.png/revision/latest?cb=20140914110639" 
-    }, 
-    "author": { 
-    "name": "Max Cape Info", 
-    "icon_url": "https://i.imgur.com/6c6q2iC.png" 
-    }, 
-    "fields": [ 
-    { 
-    "name": "▬▬ Agoroth ▬▬", 
-    "value": "Accessible to both Free-to-play and Members after completion of the quest [A Shadow over Ashdale](https://runescape.wikia.com/wiki/A_Shadow_over_Ashdale), [Agoroth](https://runescape.wikia.com/wiki/Agoroth) can be fought in the Ashdale Caves by accessing the Dead Man's chest once a week for non-members, and twice a week for members. Defeating Agoroth awards players with a black pearl, awarding bonus experience in a skill of their choice. "
-    }, 
-    { 
-    "name": "▬▬ Demon Flash Mobs ▬▬", 
-    "value": "A [Demon Mob](https://runescape.wikia.com/wiki/Demon_Flash_Mob) spawns every hour, consisting of a demon boss and several of its minions. All minions must be killed before the boss can be damaged; taking too long to dispatch the minions will allow the boss to become more powerful. The demon boss is extremely powerful, and not to be underestimated - this D&D is designed for groups, but solo play can be achieved at near max levels. Once the demon boss is defeated, it will drop loot, with a chance to receive [demon slayer armour](https://runescape.wikia.com/wiki/Demon_slayer_equipment). "
-    }, 
-    { 
-    "name": "▬▬ Goblin raids ▬▬", 
-    "value": "Available to both Free-to-play and Members, [Goblin Raids](https://runescape.wikia.com/wiki/Goblin_Raids) occurs every 30 minutes. [Goblin Raiders](https://runescape.wikia.com/wiki/Goblin_Raider) lead by [Hollowtoof](https://runescape.wikia.com/wiki/Hollowtoof) will randomly plunder a farm or copper mine in the kingdoms of Misthalin and Asgarnia. Goblin raiders will drop their pillaged loot when killed. Hollowtoof attacks anyone nearby once his mob has been lost, awarding a piece of [raider equipment](https://runescape.wikia.com/wiki/Raider_equipment) when defeated. After the raid has collapsed, a Black Guard squad led by [Commander Yodri](https://runescape.wikia.com/wiki/Commander_Yodri) arrives, awarding additional skilling supplies when approached by defenders. "
-    }, 
-    { 
-    "name": "▬▬ Memory of Nomad ▬▬", 
-    "value": "[Memory of Nomad](https://runescape.wikia.com/wiki/Memory_of_Nomad) is a combat-themed weekly Distraction and Diversion available after completion of the [Nomad's Elegy quest](https://runescape.wikia.com/wiki/Nomad%27s_Elegy). Players may test their might against the memory of Nomad after the events of the quest at a greater difficultly. During the D&D, Nomad will have new mechanics, a greater amount of life points, his attacks will deal more damage, and does not have checkpoints. If victorious, players can claim their rewards from one of two bounty chests containing an assortment of high-value loot and combat supplies. " 
-    }, 
-    { 
-    "name": "▬▬ Rush of Blood ▬▬", 
-    "value": "[Rush of Blood](https://runescape.wikia.com/wiki/Rush_of_Blood) is a weekly Slayer-themed combat D&D that can be played in [Prifddinas](https://runescape.wikia.com/wiki/Prifddinas), requiring at least level 85 Slayer and completion of [Plague's End](https://runescape.wikia.com/wiki/Plague%27s_End) to take part. It is run by [Morvran Iorwerth](https://runescape.wikia.com/wiki/Morvran), slayer master and former warband leader. Rush of Blood takes place in [Morvran's Dungeon](https://runescape.wikia.com/wiki/Morvran%27s_Dungeon), where waves of different slayer-themed monsters, assembled from Morvran's assignment list, must be fought. Players have ten minutes to dispatch as many foes as possible. The activity can be played once a week for rewards, and any number of times for practice. "
-    } 
-    ]
+"title": "Distractions and Diversions", 
+"url": "http://runescape.wikia.com/wiki/Distractions_and_Diversions", 
+"description": "D&Ds are a subclassification of minigames. However, unlike minigames many D&Ds move around the world to various locations, have a limit on how often they can be played, and only occur at particular times of day.\n\nDistractions and Diversions aim to divert the original intentions of the player in order to provide an interesting distraction from their everyday routines. D&Ds come in many different shapes and sizes; covering Combat, Gathering, Artisan, and Support skills. There are a wide variety of different options available to suit the players choice.", 
+"color": 12269891, 
+"footer": { 
+"icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg", 
+"text": "Achievement Help | Helping you reach your goals, whatever they may be!"
+}, 
+"thumbnail": { 
+"url": "https://vignette.wikia.nocookie.net/runescape2/images/6/62/D%26D_icon.png/revision/latest?cb=20140914110639" 
+}, 
+"author": { 
+"name": "Max Cape Info", 
+"icon_url": "https://i.imgur.com/6c6q2iC.png" 
+}, 
+"fields": [ 
+{ 
+"name": "▬▬ Agoroth ▬▬", 
+"value": "Accessible to both Free-to-play and Members after completion of the quest [A Shadow over Ashdale](https://runescape.wikia.com/wiki/A_Shadow_over_Ashdale), [Agoroth](https://runescape.wikia.com/wiki/Agoroth) can be fought in the Ashdale Caves by accessing the Dead Man's chest once a week for non-members, and twice a week for members. Defeating Agoroth awards players with a black pearl, awarding bonus experience in a skill of their choice. "
+}, 
+{ 
+"name": "▬▬ Demon Flash Mobs ▬▬", 
+"value": "A [Demon Mob](https://runescape.wikia.com/wiki/Demon_Flash_Mob) spawns every hour, consisting of a demon boss and several of its minions. All minions must be killed before the boss can be damaged; taking too long to dispatch the minions will allow the boss to become more powerful. The demon boss is extremely powerful, and not to be underestimated - this D&D is designed for groups, but solo play can be achieved at near max levels. Once the demon boss is defeated, it will drop loot, with a chance to receive [demon slayer armour](https://runescape.wikia.com/wiki/Demon_slayer_equipment). "
+}, 
+{ 
+"name": "▬▬ Goblin raids ▬▬", 
+"value": "Available to both Free-to-play and Members, [Goblin Raids](https://runescape.wikia.com/wiki/Goblin_Raids) occurs every 30 minutes. [Goblin Raiders](https://runescape.wikia.com/wiki/Goblin_Raider) lead by [Hollowtoof](https://runescape.wikia.com/wiki/Hollowtoof) will randomly plunder a farm or copper mine in the kingdoms of Misthalin and Asgarnia. Goblin raiders will drop their pillaged loot when killed. Hollowtoof attacks anyone nearby once his mob has been lost, awarding a piece of [raider equipment](https://runescape.wikia.com/wiki/Raider_equipment) when defeated. After the raid has collapsed, a Black Guard squad led by [Commander Yodri](https://runescape.wikia.com/wiki/Commander_Yodri) arrives, awarding additional skilling supplies when approached by defenders. "
+}, 
+{ 
+"name": "▬▬ Memory of Nomad ▬▬", 
+"value": "[Memory of Nomad](https://runescape.wikia.com/wiki/Memory_of_Nomad) is a combat-themed weekly Distraction and Diversion available after completion of the [Nomad's Elegy quest](https://runescape.wikia.com/wiki/Nomad%27s_Elegy). Players may test their might against the memory of Nomad after the events of the quest at a greater difficultly. During the D&D, Nomad will have new mechanics, a greater amount of life points, his attacks will deal more damage, and does not have checkpoints. If victorious, players can claim their rewards from one of two bounty chests containing an assortment of high-value loot and combat supplies. " 
+}, 
+{ 
+"name": "▬▬ Rush of Blood ▬▬", 
+"value": "[Rush of Blood](https://runescape.wikia.com/wiki/Rush_of_Blood) is a weekly Slayer-themed combat D&D that can be played in [Prifddinas](https://runescape.wikia.com/wiki/Prifddinas), requiring at least level 85 Slayer and completion of [Plague's End](https://runescape.wikia.com/wiki/Plague%27s_End) to take part. It is run by [Morvran Iorwerth](https://runescape.wikia.com/wiki/Morvran), slayer master and former warband leader. Rush of Blood takes place in [Morvran's Dungeon](https://runescape.wikia.com/wiki/Morvran%27s_Dungeon), where waves of different slayer-themed monsters, assembled from Morvran's assignment list, must be fought. Players have ten minutes to dispatch as many foes as possible. The activity can be played once a week for rewards, and any number of times for practice. "
+} 
+] 
 },
   "daily challenge": {
     "title": "Daily Challenge",
@@ -395,7 +442,7 @@ exports.data = {
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "thumbnail": {
-      "url": "https://vignette.wikia.nocookie.net/runescape2/images/8/8b/Strength.png/revision/latest?cb=20120221055803"
+      "url": "https://vignette.wikia.nocookie.net/runescape2/images/e/ea/Strength_cape_%28t%29_detail.png/revision/latest?cb=20150503090759"
     },
     "author": {
       "name": "Max Cape Info",
@@ -403,8 +450,8 @@ exports.data = {
     },
     "fields": [
       {
-        "name": "N/A",
-        "value": "There are currently no permanent boosts for Strength."
+        "name": "Strength Cape",
+        "value": "The [Strength Cape's](http://runescape.wikia.com/wiki/Strength_cape) perk causes [Dismember's](http://runescape.wikia.com/wiki/Dismember) damage over time to last an extra 2 seconds (an extra 3 hits for a total of 8)."
       }
       ]
   },
@@ -427,7 +474,7 @@ exports.data = {
     "fields": [
       {
         "name": "Strength Boosts",
-        "value": "[Strength Potion](http://runescape.wikia.com/wiki/Strength_potion)\n• 8% + 1 to Strength level\n\n[Strength Mix](http://runescape.wikia.com/wiki/Strength_mix)\n• 8% + 1 to Strength level\n• Requires Herblore part of [Barbarian Training](http://runescape.wikia.com/wiki/Barbarian_Training)\n\n[Super Strength Potion](http://runescape.wikia.com/wiki/Super_Strength)\n• 12% + 2 to Strength levels\n\n[Super Strength Mix](http://runescape.wikia.com/wiki/Super_Strength_mix)\n• 12% + 2 to Strength levels\n• Requires Herblore part of Barbarian Training\n\n[Extreme Strength Potion](http://runescape.wikia.com/wiki/Extreme_Strength)\n• 15% + 3 to Attack levels\n• Requires 89 Herblore to make\n\n[Grand Strength Potion](http://runescape.wikia.com/wiki/Grand_strength_potion)\n• 14% + 2 to Strength levels\n\n[Supreme Strength Potion](http://runescape.wikia.com/wiki/Supreme_Strength_potion)\n• 16% + 4 to Strength levels\n• Recipe must be bought\n• Requires 93 Herblore to make"
+        "value": "[Strength Cape](http://runescape.wikia.com/wiki/Strength_cape)\n• +1 Stength level for 1 minute\n\n[Strength Potion](http://runescape.wikia.com/wiki/Strength_potion)\n• 8% + 1 to Strength level\n\n[Strength Mix](http://runescape.wikia.com/wiki/Strength_mix)\n• 8% + 1 to Strength level\n• Requires Herblore part of [Barbarian Training](http://runescape.wikia.com/wiki/Barbarian_Training)\n\n[Super Strength Potion](http://runescape.wikia.com/wiki/Super_Strength)\n• 12% + 2 to Strength levels\n\n[Super Strength Mix](http://runescape.wikia.com/wiki/Super_Strength_mix)\n• 12% + 2 to Strength levels\n• Requires Herblore part of Barbarian Training\n\n[Extreme Strength Potion](http://runescape.wikia.com/wiki/Extreme_Strength)\n• 15% + 3 to Attack level\n• Requires 89 Herblore\n\n[Grand Strength Potion](http://runescape.wikia.com/wiki/Grand_strength_potion)\n• 14% + 2 to Strength level\n\n[Supreme Strength Potion](http://runescape.wikia.com/wiki/Supreme_Strength_potion)\n• 16% + 4 to Strength level\n• Recipe must be bought\n• Requires 93 Herblore"
       },
       {
         "name": "​",
@@ -466,12 +513,11 @@ exports.data = {
     "fields": [
       {
         "name": "​",
-        "value": "[Blisterberry](http://runescape.wikia.com/wiki/Blisterberry)\n• +2 Strength levels\n• Reduces Defence by 1\n• Requires access to [The Arc](http://runescape.wikia.com/wiki/The_Arc)\n\n [Volcanic Strength Scroll](http://runescape.wikia.com/wiki/Volcanic_str._scroll)\n• +9 Strength levels\n\n [Sugar Skull](http://runescape.wikia.com/wiki/Sugar_skull)\n• +2 Attack levels\n\n [Toffee Apple](http://runescape.wikia.com/wiki/Toffee_apple)\n• +2 Attack levelst\n\n[Spicy Stew](http://runescape.wikia.com/wiki/Spicy_stew)\n • Boost is applied to a random skill\n • Up to ±5 with 3 spice doses\n • Up to ±3 with 2 spice doses\n • Up to ±1 with 1 spice dose\n\n[God Banner](http://runescape.wikia.com/wiki/God_banner)\n• +5 levels\n• Lasts 30 minutes once per day"
+        "value": "[Blisterberry](http://runescape.wikia.com/wiki/Blisterberry)\n• +2 Strength levels\n• Reduces Defence by 1\n• Requires access to [The Arc](http://runescape.wikia.com/wiki/The_Arc)\n\n [Volcanic Strength Scroll](http://runescape.wikia.com/wiki/Volcanic_str._scroll)\n• +9 Strength levels\n\n [Sugar Skull](http://runescape.wikia.com/wiki/Sugar_skull)\n• +2 Strength levels\n\n [Toffee Apple](http://runescape.wikia.com/wiki/Toffee_apple)\n• +2 Strength levelst\n\n[Spicy Stew](http://runescape.wikia.com/wiki/Spicy_stew)\n • Boost is applied to a random skill\n • Up to ±6 with 3 spice doses\n • Up to ±3 with 2 spice doses\n • Up to ±2 with 1 spice dose\n\n[God Banner](http://runescape.wikia.com/wiki/God_banner)\n• +5 levels\n• Lasts 30 minutes once per day"
       },
       {
         "name": "​",
         "value": "[Blurberry Special](http://runescape.wikia.com/wiki/Blurberry_Special)\n• +7 Strength levels\n\n[Drunk Dragon](http://runescape.wikia.com/wiki/Drunk_Dragon)\n• +7 Strength levels\n\n[Wizard Blizzard](http://runescape.wikia.com/wiki/Wizard_Blizzard)\n• +6 Strength levels\n\n[Short Green Guy](http://runescape.wikia.com/wiki/Short_Green_Guy)\n• +4 Strength levels"
       }
        ]
-  },
-};
+  };

@@ -25,7 +25,7 @@ exports.data = {
   },
   "1 - 30": {
     "title": "Magic Training Levels 1-30",
-    "description": "From levels 1-30 players can begin training Magic on [Troll Brutes](http://runescape.wikia.com/wiki/Troll_brute). The trolls are level 1, with only 50 lifepoints . They can be found in the western section of the [Abandoned Burthorpe mine](http://runescape.wikia.com/wiki/Abandoned_Burthorpe_mine), north of [Burthorpe](http://runescape.wikia.com/wiki/Burthorpe). A player can get roughly 25,000 Combat experience per hour training here.",
+    "description": "From levels 1-30, players can begin training Magic on [Troll Brutes](http://runescape.wikia.com/wiki/Troll_brute). The trolls are level 1, with only 50 life points. They can be found in the western section of the [Abandoned Burthorpe mine](http://runescape.wikia.com/wiki/Abandoned_Burthorpe_mine), north of [Burthorpe](http://runescape.wikia.com/wiki/Burthorpe). A player can get roughly 25,000 Combat experience per hour training here.",
     "url": "http://runescape.wikia.com/wiki/Pay-to-play_Magic_training#Levels_1-30",
     "color": 12269891,
     "footer": {
@@ -48,12 +48,20 @@ exports.data = {
      {
        "name":"Recommended Weapons",
        "value":"• 1-30 [Staff](http://runescape.wikia.com/wiki/Staff)\n OR\n• 1-30 [Caitlin's Staff](http://runescape.wikia.com/wiki/Caitlin%27s_staff) (Requires [The Blood Pact](http://runescape.wikia.com/wiki/The_Blood_Pact) quest)"
+     },
+     {
+       "name":"Alternative Method",
+       "value":"Alternatively, players can begin training Magic on [Chickens](http://runescape.wikia.com/wiki/Chicken). The chickens are level 1, with only 50 lifepoints. They can be found in [Lumbridge](http://runescape.wikia.com/wiki/Lumbridge), at the [East Farm](http://runescape.wikia.com/wiki/Lumbridge#East_farm) chicken coop. Players should use the recommended armor and weapons listed above."
+     },
+     {
+       "name":"Alternative Method",
+       "value":"Another alternative can be [Cows](http://runescape.wikia.com/wiki/Cow). These are level 4, with only 150 lifepoints. They can be found in [Lumbridge](http://runescape.wikia.com/wiki/Lumbridge), at the [East Farm](http://runescape.wikia.com/wiki/Lumbridge#East_farm) cow pasture. These creatures take longer to kill, meaning less experience gained per hour, but can be worth doing to make some starting coins. Players should use the recommended armor and weapons listed above."
      }
     ]
   },
   "30 - 40": {
     "title": "Magic Training Levels 30-40",
-    "description": "At level 30 players should now kill [Ice Warriors](http://runescape.wikia.com/wiki/Ice_warrior). The warriors are level 54, with 1,950 lifepoints. They can be found in several locations, but [Asgarnian Ice Dungeon](http://runescape.wikia.com/wiki/Asgarnian_Ice_Dungeon) is the most popular. A player can get roughly 35,000-50,000 Combat experience per hour training here.",
+    "description": "At level 30, players should now kill [Ice Warriors](http://runescape.wikia.com/wiki/Ice_warrior). The warriors are level 54, with 1,950 life points. They can be found in several locations, but [Asgarnian Ice Dungeon](http://runescape.wikia.com/wiki/Asgarnian_Ice_Dungeon) is the most popular. A player can get roughly 35,000-50,000 Combat experience per hour training here.",
     "url": "http://runescape.wikia.com/wiki/Pay-to-play_Magic_training#Levels_30-40",
     "color": 12269891,
     "footer": {
@@ -76,12 +84,16 @@ exports.data = {
      {
        "name":"Recommended Weapons",
        "value":"• 30-40 Any [Battlestaff](http://runescape.wikia.com/wiki/Battlestaff)"
+     },
+     {
+       "name":"Alternative Method",
+       "value":"An alternative can be [Skeletons](http://runescape.wikia.com/wiki/Skeleton_(Lumbridge_Catacombs). These are level 15, with 550 life points. They can be found in the [Lumbridge Catacombs](http://runescape.wikia.com/wiki/Lumbridge_Catacombs), after completing [The Blood Pact](http://runescape.wikia.com/wiki/The_Blood_Pact) quest. These creatures offer less experience, meaning less experience gained per hour, but can be an easier way to train Magic. Players should use the recommended armor and weapons listed above."
      }
     ]
   },
   "40 - 60": {
     "title": "Magic Training Levels 40-60",
-    "description": "At level 40 players should now kill [Ghouls](http://runescape.wikia.com/wiki/Ghoul). Ghouls are level 64, with 2,300 lifepoints. To reach ghouls, a player must first have completed the [Priest in Peril](http://runescape.wikia.com/wiki/Priest_in_Peril) quest. They can be found north of [Canifis](http://runescape.wikia.com/wiki/Canifis) in and around the graveyard leading to the mausoleum. A player can get roughly 50,000-70,000 Combat experience per hour training here.",
+    "description": "At level 40, players should now kill [Ghouls](http://runescape.wikia.com/wiki/Ghoul). Ghouls are level 64, with 2,300 lifepoints. To reach ghouls, a player must first have completed the [Priest in Peril](http://runescape.wikia.com/wiki/Priest_in_Peril) quest. They can be found north of [Canifis](http://runescape.wikia.com/wiki/Canifis) in and around the graveyard leading to the mausoleum. A player can get roughly 50,000-70,000 Combat experience per hour training here.",
     "url": "http://runescape.wikia.com/wiki/Pay-to-play_Magic_training#Levels_40-60",
     "color": 12269891,
     "footer": {
@@ -104,12 +116,20 @@ exports.data = {
      {
        "name":"Recommended Weapons",
        "value":"• 40-50 Any [Mystic Staff](http://runescape.wikia.com/wiki/Mystic_staff)\n\n Upgrade:\n• 50-60 [Mystic Wand](http://runescape.wikia.com/wiki/Mystic_wand) and [Mystic Orb](http://runescape.wikia.com/wiki/Mystic_orb)\n Or\n• 50-60 [Ancient Staff](http://runescape.wikia.com/wiki/Ancient_staff) (Requires [Desert Treasure](http://runescape.wikia.com/wiki/Desert_Treasure) quest)"
-     }
+     },
+     {
+       "name":"Alternative Method",
+       "value":"Alternatively, players can kill [Ankous](http://runescape.wikia.com/wiki/Ankou). Ankous are level 60, with 4,300 life points. They can be found in the [Stronghold of Security](http://runescape.wikia.com/wiki/Stronghold_of_Security), on the fourth level. Unlike ghouls, ankous have drops and can generate some coins for a player. Players should use the recommended armor and weapons listed above."
+     },
+     {
+       "name":"Alternative Method",
+       "value":"Another alternative can be [Ogres](http://runescape.wikia.com/wiki/Ogre). They are level 67, with 4,800 life points. They can be found just west of [Yanille](http://runescape.wikia.com/wiki/Yanille). These creatures take longer to kill, meaning less experience gained per hour, but can be worth doing as they can be safe spotted. Players should use the recommended armor and weapons listed above."
+     }       
     ]
   },
   "60 - 70": {
     "title": "Magic Training Levels 60-70",
-    "description": "At level 60 players should now kill [Earth Warriors](http://runescape.wikia.com/wiki/Earth_warrior). Earth warriors are level 78, with 2,800 lifepoints. They can be found in the [Edgeville Dungeon](http://runescape.wikia.com/wiki/Edgeville_Dungeon), in the level 7-10 Wilderness section. You can get to their first room by crossing monkey bars over a pit of spikes, requiring 15 Agility. This method shouldn't be ruled out simply because it's in the wilderness, as it's extremely easy to escape. A player can get roughly 70,000-105,000 Combat experience per hour training here.",
+    "description": "At level 60, players should now kill [Earth Warriors](http://runescape.wikia.com/wiki/Earth_warrior). Earth warriors are level 78, with 2,800 lifepoints. They can be found in the [Edgeville Dungeon](http://runescape.wikia.com/wiki/Edgeville_Dungeon), in the level 7-10 Wilderness section. You can get to their first room by crossing monkey bars over a pit of spikes, requiring 15 Agility. This method shouldn't be ruled out simply because it's in the wilderness, as it's extremely easy to escape. A player can get roughly 70,000-105,000 Combat experience per hour training here.",
     "url": "http://runescape.wikia.com/wiki/Pay-to-play_Magic_training#Levels_60-70",
     "color": 12269891,
     "footer": {
@@ -132,6 +152,10 @@ exports.data = {
      {
        "name":"Recommended Weapons",
        "value":"• 60-70 [Toktz-Mej-Tal](http://runescape.wikia.com/wiki/Toktz-mej-tal)"
+     },
+     {
+       "name":"Alternative Method",
+       "value":"Alternatively, players can kill [Dagon'hai Monks](http://runescape.wikia.com/wiki/Dagon%27hai_Monk). The monks are level 77, with only 2,500 life points. They can be found in the [Chaos Tunnels](http://runescape.wikia.com/wiki/Chaos_Tunnels). A player will still have to travel into the Wilderness to reach them, but once inside a player is safe. Players should use the recommended armor and weapons listed above."
      }
     ]
   },
@@ -162,7 +186,7 @@ exports.data = {
        "value":"• 70-75 [Ahrim's Staff](http://runescape.wikia.com/wiki/Ahrim%27s_staff)\n\n Upgrade: \n•75-99+ [Staff of Light](http://runescape.wikia.com/wiki/Staff_of_light)\n Or\n• 75-99+ [Abyssal Wand](http://runescape.wikia.com/wiki/Abyssal_wand) and [Abyssal Orb](http://runescape.wikia.com/wiki/Abyssal_orb)\n\nExpensive Alternative:\n• 90-99+ [Noxious Staff](http://runescape.wikia.com/wiki/Noxious_staff)"
      },
      {
-       "name":"Alternative 80-99+",
+       "name":"Alternative Method",
        "value":"At level 80, players have the option to instead do [Waterfiends](http://runescape.wikia.com/wiki/Waterfiend). With a combat level of 107, and 8,000 lifepoints, waterfiends are a viable option for those who also want to collect as many charms as possible on the way to 99. Waterfiends can be found in the [Ancient Caverns](http://runescape.wikia.com/wiki/Ancient_Cavern), which requires the first part of [Barbarian Firemaking](http://runescape.wikia.com/wiki/Barbarian_Firemaking) to be done. A player can get roughly 250,000-500,000 Combat experience per hour training here."
      },
      {
@@ -200,7 +224,7 @@ exports.data = {
   },
   "alternate methods pt1": {
     "title": "Alternative Methods of Training",
-    "url": "http://runescape.wikia.com/wiki/Pay-to-play_Fletching_training#Level_52-99_-_Broad_arrows",
+    "url": "http://runescape.wikia.com/wiki/Pay-to-play_Magic_training#Alternative_methods",
     "description": "Some users may wish to utilize methods outside of the ones displayed in this channel's guide. To aid in this, the following alternative methods are provided.",
         "color": 12269891,
     "footer": {
@@ -235,7 +259,7 @@ exports.data = {
   },
   "alternate methods pt2": {
     "title": "Alternative Methods of Training Continued",
-    "url": "http://runescape.wikia.com/wiki/Pay-to-play_Fletching_training#Level_52-99_-_Broad_arrows",
+    "url": "http://runescape.wikia.com/wiki/Pay-to-play_Magic_training#Alternative_methods",
     "description": "Some users may wish to utilize methods outside of the ones displayed in this channel's guide. To aid in this, the following alternative methods are provided.",
         "color": 12269891,
     "footer": {
@@ -327,44 +351,56 @@ exports.data = {
       ]
   },
   "distractions and diversions": { 
-		"title": "Distractions and Diversions", 
-		"url": "http://runescape.wikia.com/wiki/Distractions_and_Diversions", 
-		"description": "D&Ds are a subclassification of minigames. However, unlike minigames many D&Ds move around the world to various locations, have a limit on how often they can be played, and only occur at particular times of day.\n\nDistractions and Diversions aim to divert the original intentions of the player in order to provide an interesting distraction from their everyday routines. D&Ds come in many different shapes and sizes; covering Combat, Gathering, Artisan, and Support skills. There are a wide variety of different options available to suit the players choice.", 
-		"color": 12269891, 
-		"footer": { 
-		"icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg", 
-		"text": "Achievement Help | Helping you reach your goals, whatever they may be!" 
-		}, 
-		"thumbnail": { 
-		"url": "https://vignette.wikia.nocookie.net/runescape2/images/6/62/D%26D_icon.png/revision/latest?cb=20140914110639" 
-		}, 
-		"author": { 
-		"name": "Max Cape Info", 
-		"icon_url": "https://i.imgur.com/6c6q2iC.png" 
-		}, 
-		"fields": [ 
-		{ 
-		"name": "▬▬ Rush of Blood ▬▬", 
-		"value": "[Rush of Blood](http://runescape.wikia.com/wiki/Rush_of_Blood) is a weekly Slayer-themed combat Distraction and Diversion that can be played in [Prifddinas](http://runescape.wikia.com/wiki/Prifddinas), requiring at least level 85 Slayer and completion of [Plague's End](http://runescape.wikia.com/wiki/Plague%27s_End). It is run by [Morvran Iorwerth](http://runescape.wikia.com/wiki/Morvran), slayer master and former warband leader, and takes place in his dungeon underneath the [Iorwerth Clan district](http://runescape.wikia.com/wiki/Iorwerth_Clan). In the D&D, waves of different [monsters](http://runescape.wikia.com/wiki/Rush_of_Blood#Monsters), drawn from Morvran's assignment list, must be fought and one is given ten minutes to do so."
-		}, 
-		{ 
-		"name": "▬▬ Memory of Nomad ▬▬", 
-		"value": "[Memory of Nomad](http://runescape.wikia.com/wiki/Memory_of_Nomad) is a weekly Distraction and Diversion available after completion of [Nomad's Elegy](http://runescape.wikia.com/wiki/Nomad%27s_Elegy). The Memory of Nomad is essentially a Hard mode version of the fight in Nomad's Elegy. Most of the mechanics are the same as in the normal fight and there are a few additional mechanics, especially in the final phase."
-		}, 
-		{ 
-		"name": "​", 
-		"value": "The memory of Nomad can be fought as often as the player likes, but only the first successful kill per week (resetting at 00:00 UTC on Wednesdays) will give [rewards](http://runescape.wikia.com/wiki/Memory_of_Nomad#Rewards). This can be reset with a [Weekly D&D Token](http://runescape.wikia.com/wiki/D%26D_token_(weekly), allowing a second rewarded kill that week. The capes can be obtained off-loot."
-		}, 
-		{ 
-		"name": "▬▬ Balthazar Beauregard's Big Top Bonanza ▬▬", 
-		"value": "Players can do two Firemaking performances at the [Balthazar Beauregard's Big Top Bonanza](http://runescape.wikia.com/wiki/Balthazar_Beauregard%27s_Big_Top_Bonanza) Distraction and Diversion once per week. To enter the circus the player must gain a circus ticket from the ticket vendor, which is randomly located in 1 of 12 possible locations each week. The Firemaking performances can be found in the south-west and south ends of the circus. This event is unlocked after [The Firemaker's Curse](http://runescape.wikia.com/wiki/The_Firemaker%27s_Curse)." 
-		}, 
-		{ 
-		"name": "​", 
-		"value": "During the performance players have 10 attempts to perform up to 10 different tricks. Firemaking experience is received upon the first successful attempt of each trick that the player performs. Repeating a trick does not grant additional experience. Each trick has a recommended Firemaking level to attempt, however the level is not required in order to perform the trick, as it is possible to succeed or fail a trick at any Firemaking level. When a trick is performed that has a higher recommended Firemaking level than the player has, the experience received will be the same as that given for performing a trick with half the recommended Firemaking level, rounded down." 
-		}
-		] 
-	},
+"title": "Distractions and Diversions", 
+"url": "http://runescape.wikia.com/wiki/Distractions_and_Diversions", 
+"description": "D&Ds are a subclassification of minigames. However, unlike minigames many D&Ds move around the world to various locations, have a limit on how often they can be played, and only occur at particular times of day.\n\nDistractions and Diversions aim to divert the original intentions of the player in order to provide an interesting distraction from their everyday routines. D&Ds come in many different shapes and sizes; covering Combat, Gathering, Artisan, and Support skills. There are a wide variety of different options available to suit the players choice.", 
+"color": 12269891, 
+"footer": { 
+"icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg", 
+"text": "Achievement Help | Helping you reach your goals, whatever they may be!" 
+}, 
+"thumbnail": { 
+"url": "https://vignette.wikia.nocookie.net/runescape2/images/6/62/D%26D_icon.png/revision/latest?cb=20140914110639" 
+}, 
+"author": { 
+"name": "Max Cape Info", 
+"icon_url": "https://i.imgur.com/6c6q2iC.png" 
+}, 
+"fields": [ 
+{ 
+"name": "▬▬ Agoroth ▬▬", 
+"value": "Accessible to both Free-to-play and Members after completion of the quest [A Shadow over Ashdale](https://runescape.wikia.com/wiki/A_Shadow_over_Ashdale), [Agoroth](https://runescape.wikia.com/wiki/Agoroth) can be fought in the Ashdale Caves by accessing the Dead Man's chest once a week for non-members, and twice a week for members. Defeating Agoroth awards players with a black pearl, awarding bonus experience in a skill of their choice. "
+}, 
+{ 
+"name": "▬▬ Demon Flash Mobs ▬▬", 
+"value": "A [Demon Mob](https://runescape.wikia.com/wiki/Demon_Flash_Mob) spawns every hour, consisting of a demon boss and several of its minions. All minions must be killed before the boss can be damaged; taking too long to dispatch the minions will allow the boss to become more powerful. The demon boss is extremely powerful, and not to be underestimated - this D&D is designed for groups, but solo play can be achieved at near max levels. Once the demon boss is defeated, it will drop loot, with a chance to receive [demon slayer armour](https://runescape.wikia.com/wiki/Demon_slayer_equipment). "
+}, 
+{ 
+"name": "▬▬ Goblin raids ▬▬", 
+"value": "Available to both Free-to-play and Members, [Goblin Raids](https://runescape.wikia.com/wiki/Goblin_Raids) occurs every 30 minutes. [Goblin Raiders](https://runescape.wikia.com/wiki/Goblin_Raider) lead by [Hollowtoof](https://runescape.wikia.com/wiki/Hollowtoof) will randomly plunder a farm or copper mine in the kingdoms of Misthalin and Asgarnia. Goblin raiders will drop their pillaged loot when killed. Hollowtoof attacks anyone nearby once his mob has been lost, awarding a piece of [raider equipment](https://runescape.wikia.com/wiki/Raider_equipment) when defeated. After the raid has collapsed, a Black Guard squad led by [Commander Yodri](https://runescape.wikia.com/wiki/Commander_Yodri) arrives, awarding additional skilling supplies when approached by defenders. "
+}, 
+{ 
+"name": "▬▬ Memory of Nomad ▬▬", 
+"value": "[Memory of Nomad](http://runescape.wikia.com/wiki/Memory_of_Nomad) is a weekly Distraction and Diversion available after completion of [Nomad's Elegy](http://runescape.wikia.com/wiki/Nomad%27s_Elegy). The Memory of Nomad is essentially a Hard mode version of the fight in Nomad's Elegy. Most of the mechanics are the same as in the normal fight and there are a few additional mechanics, especially in the final phase."
+}, 
+{ 
+"name": "​", 
+"value": "The memory of Nomad can be fought as often as the player likes, but only the first successful kill per week (resetting at 00:00 UTC on Wednesdays) will give [rewards](http://runescape.wikia.com/wiki/Memory_of_Nomad#Rewards). This can be reset with a [Weekly D&D Token](http://runescape.wikia.com/wiki/D%26D_token_(weekly), allowing a second rewarded kill that week. The capes can be obtained off-loot."
+},
+{ 
+"name": "▬▬ Rush of Blood ▬▬", 
+"value": "[Rush of Blood](http://runescape.wikia.com/wiki/Rush_of_Blood) is a weekly Slayer-themed combat Distraction and Diversion that can be played in [Prifddinas](http://runescape.wikia.com/wiki/Prifddinas), requiring at least level 85 Slayer and completion of [Plague's End](http://runescape.wikia.com/wiki/Plague%27s_End). It is run by [Morvran Iorwerth](http://runescape.wikia.com/wiki/Morvran), slayer master and former warband leader, and takes place in his dungeon underneath the [Iorwerth Clan district](http://runescape.wikia.com/wiki/Iorwerth_Clan). In the D&D, waves of different [monsters](http://runescape.wikia.com/wiki/Rush_of_Blood#Monsters), drawn from Morvran's assignment list, must be fought and one is given ten minutes to do so."
+},
+{ 
+"name": "▬▬ Balthazar Beauregard's Big Top Bonanza ▬▬", 
+"value": "The [Magic assistant fairy](http://runescape.wikia.com/wiki/Magic_assistant) will give a quick guide on what players should do for the Magic performance. The performance spots can be found in the north-east and north-west section of the circus." 
+}, 
+{ 
+"name": "​", 
+"value": "Players may begin performing by simply choosing any magical action. There are three spots from which you perform your spells, one with five possible levitation objects, one with 5 cast objects (elemental spell) (both are difficulty 10 to 50), and one with five objects that you can either teleport or alchemise (difficulty 60 to 99). More experience can be gained with the completion of [Back to the Freezer](http://runescape.wikia.com/wiki/Back_to_the_Freezer) quest." 
+}
+] 
+},
   "daily challenge": {
     "title": "Daily Challenge",
     "url": "http://runescape.wikia.com/wiki/Challenge_XP_Lamp",
@@ -398,7 +434,7 @@ exports.data = {
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "thumbnail": {
-      "url": "https://vignette.wikia.nocookie.net/runescape2/images/f/f7/Magic.png/revision/latest?cb=20160101093034"
+      "url": "https://vignette.wikia.nocookie.net/runescape2/images/0/0a/Magic_cape_detail.png/revision/latest?cb=20171104223730"
     },
     "author": {
       "name": "Max Cape Info",
@@ -406,8 +442,8 @@ exports.data = {
     },
     "fields": [
       {
-        "name": "N/A",
-        "value": "There are currently no permanent boosts for Magic."
+        "name": "Magic Cape",
+        "value": "The [Magic Cape's](http://runescape.wikia.com/wiki/Magic_cape) perk provides the ability to change your spellbook at banks, which is the same as an unlimited [book switcher](http://runescape.wikia.com/wiki/Book_switcher)."
       }
       ]
   },
@@ -421,7 +457,7 @@ exports.data = {
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "thumbnail": {
-      "url": "https://vignette.wikia.nocookie.net/runescape2/images/9/9f/Searing_overload_potion_detail.png/revision/latest?cb=20141212213919"
+      "url": "https://vignette.wikia.nocookie.net/runescape2/images/0/00/Magic_potion_detail.png/revision/latest?cb=20130424160355"
     },
     "author": {
       "name": "Max Cape Info",
@@ -430,7 +466,7 @@ exports.data = {
     "fields": [
       {
         "name": "Magic Boosts",
-        "value": "[Magic Potion](http://runescape.wikia.com/wiki/Magic_potion)\n• 8% + 1 to Magic level\n\n[Super Magic Potion](http://runescape.wikia.com/wiki/Super_magic_potion)\n• 12% + 2 to Magic level\n\n[Super Magic Mix](http://runescape.wikia.com/wiki/Super_magic_mix)\n• +4 Magic levels\n• Requires Herblore part of [Barbarian Training](http://runescape.wikia.com/wiki/Barbarian_Training)\n\n[Extreme Magic Potion](http://runescape.wikia.com/wiki/Extreme_magic)\n• 15% + 3 to Magic level\n• Requires 91 Herblore to make\n\n[Grand Magic Potion](http://runescape.wikia.com/wiki/Grand_magic_potion)\n• 14% + 2 to Magic level\n\n[Supreme Magic Potion](http://runescape.wikia.com/wiki/Supreme_magic_potion)\n• 16% + 4 to Magic level\n• Recipe must be bought"
+        "value": "[Magic Cape](http://runescape.wikia.com/wiki/Magic_cape)\n• +1 Magic level for 1 minute\n\n[Magic Potion](http://runescape.wikia.com/wiki/Magic_potion)\n• 8% + 1 to Magic level\n\n[Super Magic Potion](http://runescape.wikia.com/wiki/Super_magic_potion)\n• 12% + 2 to Magic level\n\n[Super Magic Mix](http://runescape.wikia.com/wiki/Super_magic_mix)\n• +4 Magic levels\n• Requires Herblore part of [Barbarian Training](http://runescape.wikia.com/wiki/Barbarian_Training)\n\n[Extreme Magic Potion](http://runescape.wikia.com/wiki/Extreme_magic)\n• 15% + 3 to Magic level\n• Requires 91 Herblore to make\n\n[Grand Magic Potion](http://runescape.wikia.com/wiki/Grand_magic_potion)\n• 14% + 2 to Magic level\n\n[Supreme Magic Potion](http://runescape.wikia.com/wiki/Supreme_magic_potion)\n• 16% + 4 to Magic level\n• Recipe must be bought"
       },
       {
         "name": "​",
@@ -469,8 +505,7 @@ exports.data = {
     "fields": [
       {
         "name": "​",
-        "value": "[Fireberry](http://runescape.wikia.com/wiki/Fireberry)\n• +2 Magic levels\n• Reduces Defence by 1\n• Requires access to [The Arc](http://runescape.wikia.com/wiki/The_Arc)\n\n [Sugar Skull](http://runescape.wikia.com/wiki/Sugar_skull)\n• +2 Magic levels\n\n [Toffee Apple](http://runescape.wikia.com/wiki/Toffee_apple)\n• +2 Magic levelst\n\n[Spicy Stew](http://runescape.wikia.com/wiki/Spicy_stew)\n • Boost is applied to a random skill\n • Up to ±5 with 3 spice doses\n • Up to ±3 with 2 spice doses\n • Up to ±1 with 1 spice dose\n\n[God Banner](http://runescape.wikia.com/wiki/God_banner)\n• +5 levels\n• Lasts 30 minutes once per day"
+        "value": "[Fireberry](http://runescape.wikia.com/wiki/Fireberry)\n• +2 Magic levels\n• Reduces Defence by 1\n• Requires access to [The Arc](http://runescape.wikia.com/wiki/The_Arc)\n\n [Sugar Skull](http://runescape.wikia.com/wiki/Sugar_skull)\n• +2 Magic levels\n\n [Toffee Apple](http://runescape.wikia.com/wiki/Toffee_apple)\n• +2 Magic levelst\n\n[Spicy Stew](http://runescape.wikia.com/wiki/Spicy_stew)\n • Boost is applied to a random skill\n • Up to ±6 with 3 spice doses\n • Up to ±3 with 2 spice doses\n • Up to ±2 with 1 spice dose\n\n[God Banner](http://runescape.wikia.com/wiki/God_banner)\n• +5 levels\n• Lasts 30 minutes once per day"
       }
        ]
-  }
-};
+  };

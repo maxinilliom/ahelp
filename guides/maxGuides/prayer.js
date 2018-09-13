@@ -23,9 +23,9 @@ exports.data = {
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     }
   },
-  "1 - 75 pt1": {  
-      "title":"Prayer Training Levels 1-75",
-      "description":"You will get Prayer experience for every bone you bury and every ash you scatter, ranging from 4 experience to 200 experience dependent on which bone you bury or ash you scatter.\n\nOne of the most used methods is offering bones at a [gilded altar](https://runescape.wikia.com/wiki/Gilded_altar) with 2 lit [marble burners](https://runescape.wikia.com/wiki/Marble_burners) in the [Chapel](https://runescape.wikia.com/wiki/Chapel) of a [player-owned house](https://runescape.wikia.com/wiki/Player-owned_house). Building this requires a Construction level of 75, but you can also visit someone else's house and use their altar.\n\nOffering bones or ashes at a gilded altar with 2 lit marble burners will give you 350% of the original experience:\n• [Impious ashes](https://runescape.wikia.com/wiki/Impious_ashes): 14 experience\n• [Normal bones](https://runescape.wikia.com/wiki/Bones): 15.75 experience\n• [Accursed ashes](https://runescape.wikia.com/wiki/Accursed_ashes): 43.75 experience\n• [Big bones](https://runescape.wikia.com/wiki/Big_bones): 52.5 experience\n• [Babydragon bones](https://runescape.wikia.com/wiki/Babydragon_bones): 105 experience\n• [Wyvern bones](https://runescape.wikia.com/wiki/Wyvern_bones): 175 experience\n• [Infernal ashes](https://runescape.wikia.com/wiki/Infernal_ashes): 218.75 experience\n• [Dragon bones](https://runescape.wikia.com/wiki/Dragon_bones): 252 experience\n• [Dagannoth bones](https://runescape.wikia.com/wiki/Dagannoth_bones): 437.5 experience\n• [Airut bones](https://runescape.wikia.com/wiki/Airut_bones): 463.75 experience\n• [Ourg bones](https://runescape.wikia.com/wiki/Ourg_bones_%28General_Graardor%29): 490 experience\n• [Hardened dragon bones](https://runescape.wikia.com/wiki/Hardened_dragon_bones): 504 experience\n• [Frost dragon bones](https://runescape.wikia.com/wiki/Frost_dragon_bones): 630 experience\n• [Reinforced dragon bones](https://runescape.wikia.com/wiki/Reinforced_dragon_bones): 665 experience\n• [Searing ashes](https://runescape.wikia.com/wiki/Searing_ashes): 700 experience",
+  "1 - 99 pt1": {  
+      "title":"Prayer Training Levels 1-99",
+      "description":"Prayer experience is earned for burying bones and scattering ashes.  The experience you gain depends upon the type of bone you are burying or ash you are scattering. \n\nOne of the most used methods is offering bones at a [Gilded Altar](https://runescape.wikia.com/wiki/Gilded_altar) with 2 lit [Marble Burners](https://runescape.wikia.com/wiki/Marble_burners) in the [Chapel](https://runescape.wikia.com/wiki/Chapel) of a [player-owned house](https://runescape.wikia.com/wiki/Player-owned_house). Building this requires a Construction level of 75, but you can also visit someone else's house and use their altar.\n\nOffering bones or ashes at a gilded altar with 2 lit marble burners will give you 350% of the original experience:\n• [Impious ashes](https://runescape.wikia.com/wiki/Impious_ashes): 14 experience\n• [Normal bones](https://runescape.wikia.com/wiki/Bones): 15.75 experience\n• [Accursed ashes](https://runescape.wikia.com/wiki/Accursed_ashes): 43.75 experience\n• [Big bones](https://runescape.wikia.com/wiki/Big_bones): 52.5 experience\n• [Babydragon bones](https://runescape.wikia.com/wiki/Babydragon_bones): 105 experience\n• [Wyvern bones](https://runescape.wikia.com/wiki/Wyvern_bones): 175 experience\n• [Infernal ashes](https://runescape.wikia.com/wiki/Infernal_ashes): 218.75 experience\n• [Dragon bones](https://runescape.wikia.com/wiki/Dragon_bones): 252 experience\n• [Dagannoth bones](https://runescape.wikia.com/wiki/Dagannoth_bones): 437.5 experience\n• [Airut bones](https://runescape.wikia.com/wiki/Airut_bones): 463.75 experience\n• [Ourg bones](https://runescape.wikia.com/wiki/Ourg_bones_%28General_Graardor%29): 490 experience\n• [Hardened dragon bones](https://runescape.wikia.com/wiki/Hardened_dragon_bones): 504 experience\n• [Frost dragon bones](https://runescape.wikia.com/wiki/Frost_dragon_bones): 630 experience\n• [Reinforced dragon bones](https://runescape.wikia.com/wiki/Reinforced_dragon_bones): 665 experience\n• [Searing ashes](https://runescape.wikia.com/wiki/Searing_ashes): 700 experience",
       "url":"https://runescape.wikia.com/wiki/Pay-to-play_Prayer_training#Commonly_used_methods",
       "color":12269891,
       "footer":{  
@@ -42,7 +42,7 @@ exports.data = {
       "fields":[  
          {  
             "name":"​",
-            "value":"Which type of bones or ashes you should use completely depends on how much you're willing to spend and how fast you want to level your Prayer. [Dragon bones](https://runescape.wikia.com/wiki/Dragon_bones) are most commonly used to train Prayer since they give 252 experience each when used on a gilded altar. It takes 4,804 dragon bones to go from 1-75 Prayer using a gilded altar.\n\nIf you don't have a gilded altar in your own player-owned house, you can usually find some people having \"open houses\" in World 31 in [Yanille](https://runescape.wikia.com/wiki/Yanille), or use a friends chat like \"Altar\" to find an open house."
+            "value":"Which type of bones or ashes you should use completely depends on how much you're willing to spend and how fast you want to level your Prayer. [Dragon bones](https://runescape.wikia.com/wiki/Dragon_bones) are most commonly used to train Prayer since they give 252 experience each when used on a gilded altar. For a full list of prices per experience, click [here](http://runescape.wikia.com/wiki/Calculator:Prayer/Bones).\n\nIf you don't have a gilded altar in your own player-owned house, you can usually find some people having \"open houses\" in World 31 in [Yanille](https://runescape.wikia.com/wiki/Yanille), or use a friends chat like \"Altar\" to find an open house."
          },
          {  
             "name":"​",
@@ -50,12 +50,12 @@ exports.data = {
          },
          {  
             "name":"​",
-            "value":"Instead of teleporting to Shantay Pass with an Amulet of Glory, you can also teleport to other spots that are extremely close to banks (like a [ring of duelling](https://runescape.wikia.com/wiki/Ring_of_duelling) or [TokKul-Zo](https://runescape.wikia.com/wiki/TokKul-Zo)).\nYou can also use [house teleport tablets](https://runescape.wikia.com/wiki/Teleport_to_house) if your house is in Yanille, and have the teleport options of your house set to outside the portal."
+            "value":"Teleporting to Shantay Pass with an Amulet of Glory is one way to reach a close bank. You can also teleport to other spots that are extremely close to banks, like a [ring of duelling](https://runescape.wikia.com/wiki/Ring_of_duelling), or [TokKul-Zo](https://runescape.wikia.com/wiki/TokKul-Zo)).\nYou can also use [house teleport tablets](https://runescape.wikia.com/wiki/Teleport_to_house) if your house is in Yanille, and have the teleport options of your house set to outside the portal."
          }
       ]
    },
-  "1 - 75 pt2": {  
-      "title":"Prayer Training Levels 1-75",
+  "1 - 99 pt2": {  
+      "title":"Prayer Training Levels 1-99",
       "description":"​",
       "url":"https://runescape.wikia.com/wiki/Pay-to-play_Prayer_training#Commonly_used_methods",
       "color":12269891,
@@ -72,16 +72,16 @@ exports.data = {
       },
       "fields":[  
          {  
-            "name":"​▬▬ Alternative Method: Levels 1-75 ▬▬",
-            "value":"An alternative to using altars in player-owned houses, you can also use the [Chaos Altar](https://runescape.wikia.com/wiki/Chaos_Temple_%28Wilderness%29), which also gives 350% of the original experience. It is located in level 12 multi-combat [Wilderness](https://runescape.wikia.com/wiki/Wilderness), so it is a method that does not come without its risks, the threat of PKers requires one to be alert and paying attention to the screen. It is recommended to bring a one click teleport in order to escape if need be.\n\nYou can use [Simon](https://runescape.wikia.com/wiki/Simon) who is just on the other side of the temple walls to bank and restock on bones.\n\nRoughly 1,400 bones can be offered an hour without the need of a Beast of Burden using this method. This makes it about equal to using a pack yak in a player-owned house. The use of any Beast of Burden will make it one of the fastest training method in the game."
+            "name":"​▬▬ Alternative Method: Levels 1-99 ▬▬",
+            "value":"A player can use the [Chaos Altar](https://runescape.wikia.com/wiki/Chaos_Temple_%28Wilderness%29), which gives 350% of the original experience. It is located in level 12 multi-combat [Wilderness](https://runescape.wikia.com/wiki/Wilderness) It is a method that does not come without its risks, the threat of PKers requires one to be alert, pay attention to the screen and be aware. It is recommended to bring a one click teleport in order to escape\n\nYou can use [Simon](https://runescape.wikia.com/wiki/Simon) who is just on the other side of the temple walls to bank and restock on bones.\n\nRoughly 1,400 bones can be offered an hour without the need of a Beast of Burden using this method. This makes it about equal to using a pack yak in a player-owned house. The use of any Beast of Burden will make it one of the fastest training method in the game."
          },
          {  
-            "name":"​▬▬ Alternative Method: Levels 1-75 ▬▬",
-            "value":"Another method is to worship the [Ectofuntus](https://runescape.wikia.com/wiki/Ectofuntus). By doing so, the experience one would gain from burying the bones will be multiplied by four. An example would be for every [dragon bone](https://runescape.wikia.com/wiki/Dragon_bone) used in the 'worship', a player would receive 288 experience instead of 72. Although the process is slower than just burying the bones, the experience earned is far better than just by burying the bones. To make the use of the ectofuntus most efficiently, it is best to use ashes instead of bones because ashes do not need to be ground first.\n\nIn comparison to using bones on a gilded altar, the Ectofuntus will give ~14% more experience per bone/ash, but it can be slower. Bare in mind that not all experience boosts will work at the Ectofuntus, which narrows the gap of experience you can gain."
+            "name":"​▬▬ Alternative Method: Levels 1-99 ▬▬",
+            "value":"[Ectofuntus](https://runescape.wikia.com/wiki/Ectofuntus) can also be used to train Prayer. By doing so, the experience one would gain from burying the bones will be multiplied by four. An example would be for every [dragon bone](https://runescape.wikia.com/wiki/Dragon_bone) used in the 'worship', a player would receive 288 experience instead of 72. Although the process is slower than just burying the bones, the experience earned is far better than just by burying the bones. To make the use of the ectofuntus most efficiently, it is best to use ashes instead of bones because ashes do not need to be ground first.\n\nIn comparison to using bones on a gilded altar, the Ectofuntus will give ~14% more experience per bone/ash, but it can be slower. Bare in mind that not all experience boosts will work at the Ectofuntus, which narrows the gap of experience you can gain."
          },
          {  
             "name":"​",
-            "value":"To 'worship' bones at the Ectofuntus, you will need to grind the bones into bonemeal first, and have [buckets of slime](https://runescape.wikia.com/wiki/Bucket_of_slime). You won't need to grind any bones when using ashes, so it is adviced to use this method with ashes instead of bones.\n\n To create the bonemeal, take some bones and go up the stairs near the Ectofuntus. Use the bone grinder to grind the bones and collect the crushed bones. To activate the \"grinder\", right click \"Fill Hopper\", which will automatically start the process of grinding all bones in your inventory and collecting them, one at a time (if the grinder is set to auto). Without the right click, you will need to do the clicks yourself - filling the hopper, winding the grinder, and collecting the bonemeal (if the grinder is set to manual) giving 1 Prayer experience point."
+            "value":"To 'worship' bones at the Ectofuntus, you will need to grind the bones into bonemeal first, and have [buckets of slime](https://runescape.wikia.com/wiki/Bucket_of_slime). You won't need to grind any bones when using ashes, so it is adviced to use this method with ashes instead of bones.\n\nTo create the bonemeal, take some bones and go up the stairs near the Ectofuntus. Use the bone grinder to grind the bones and collect the crushed bones. To activate the \"grinder\", right click \"Fill Hopper\", which will automatically start the process of grinding all bones in your inventory and collecting them, one at a time (if the grinder is set to auto). Without the right click, you will need to do the clicks yourself - filling the hopper, winding the grinder, and collecting the bonemeal (if the grinder is set to manual) giving 1 Prayer experience point."
          },
          {  
             "name":"​",
@@ -89,16 +89,16 @@ exports.data = {
          },         
          {  
             "name":"​",
-            "value":"If you have completed the quest [Ghost Ahoy](https://runescape.wikia.com/wiki/Ghosts_Ahoy), you will be able to teleport straight to the Ectofuntus with the [Ectophial](https://runescape.wikia.com/wiki/Ectophial), making it a lot faster to collect buckets of slime and train Prayer.\n\nFor a more in depth training guide (gear, setup, teleports, ...), please click [here](https://runescape.wikia.com/wiki/Ectofuntus#Training)."
+            "value":"If you have Uploaded the quest [Ghost Ahoy](https://runescape.wikia.com/wiki/Ghosts_Ahoy), you will be able to teleport straight to the Ectofuntus with the [Ectophial](https://runescape.wikia.com/wiki/Ectophial), making it a lot faster to collect buckets of slime and train Prayer.\n\nFor a more in depth training guide (gear, setup, teleports, ...), please click [here](https://runescape.wikia.com/wiki/Ectofuntus#Training)."
          },
          {  
-            "name":"​▬▬ Alternative Method: Levels 55-75 ▬▬",
+            "name":"​▬▬ Alternative Method: Levels 55-99 ▬▬",
             "value":"After completion of the Easy, Medium and Hard [Wilderness achievements](https://runescape.wikia.com/wiki/Wilderness_achievements), you will be able to un-note bones from your inventory with [Harrison](https://runescape.wikia.com/wiki/Harrison) who is located within steps of the [Chaos Altar](https://runescape.wikia.com/wiki/Chaos_Temple_%28Wilderness%29).\n\nDoing so will reduce time per run and increase the bones per hour to roughly 2,000 while still getting 350% of the original experience.\n\nThis method that does not come without its risks, the threat of PKers requires one to be alert and paying attention to the screen. Especially because you will have your entire stack of bones/ashes in your inventory. It is recommended to bring a one click teleport in order to escape if need be."
          }
       ]
    },
-  "75 - 99 + pt1": {  
-      "title":"Prayer Training Levels 75-99+",
+  "75 - 99 +": {  
+      "title":"▬▬ Alternative Method: Levels 75-99 ▬▬",
       "description":"At level 75 Prayer and after getting access to [Prifddinas](https://runescape.wikia.com/wiki/Prifddinas) (requires completion of the quest [The Plague's End](https://runescape.wikia.com/wiki/Plague%27s_End)), you will be able to train Prayer using [Cleansing crystals](https://runescape.wikia.com/wiki/Cleansing_crystal). A Cleansing crystal is an item used to cleanse the [Corrupted Seren Stone](https://runescape.wikia.com/wiki/Corrupted_Seren_Stone) in the [Hefin cathedral](https://runescape.wikia.com/wiki/Hefin_cathedral) in Prifddinas. It can be purchased from [Hefin monks](https://runescape.wikia.com/wiki/Hefin_monk) for 110,000 coins each or obtained via pickpocketing the [Hefin workers](https://runescape.wikia.com/wiki/Hefin_worker). The store refill rate for cleansing crystals is approximately 1 every 10 seconds with a max store quantity of 5 cleansing stones.\n\nIf a cleansing crystal is used completely, without interruption, it will provide 9,800 Prayer experience. This is a cost of 11.22 coins per experience. It takes two minutes for a crystal to be fully drained. Up to 29 stones can be used in an hour, providing approximately 284,200 experience an hour, at a cost of -3,300,000 coins.\n\nAlternatively, when the [Voice of Seren](https://runescape.wikia.com/wiki/Voice_of_Seren) is illuminating the [Hefin Clan](https://runescape.wikia.com/wiki/Hefin_Clan) district, a cleansing crystal will give 20% more experience, for a total of 11,760 experience. This is a cost of 9.35 coins per experience, providing 352,800 experience per hour at the same total cost.",
       "url":"https://runescape.wikia.com/wiki/Pay-to-play_Prayer_training#Cleansing_crystals",
       "color":12269891,
@@ -120,58 +120,7 @@ exports.data = {
          },
          {  
             "name":"​",
-            "value":"If a crystal is fully cleansed while wearing the [Tirannwn quiver 3](https://runescape.wikia.com/wiki/Tirannwn_quiver_3) or [Tirannwn quiver 4](https://runescape.wikia.com/wiki/Tirannwn_quiver_4) and there are more crystals carried in the inventory, the next crystal will automatically be used to continue cleansing. This can lead to training with minimal interaction, if large numbers of crystals are bought in advance.\n\nThe player should be careful when clicking while a cleansing crystal is being used. If a misclick or other action occurs that may interrupt the process, the crystal will vanish and the player will not gain the remaining experience. One can chat, rotate the camera, and use most interfaces without interrupting the process."
-         },
-         {  
-            "name":"​▬▬ Alternative Method: Levels 75-99+ ▬▬",
-            "value":"An alternative to Cleansing crystals is offering bones at a [gilded altar](https://runescape.wikia.com/wiki/Gilded_altar) with 2 lit [marble burners](https://runescape.wikia.com/wiki/Marble_burners) in the [Chapel](https://runescape.wikia.com/wiki/Chapel) of a [player-owned house](https://runescape.wikia.com/wiki/Player-owned_house). Building this requires a Construction level of 75, but you can also visit someone else's house and use their altar.\n\nOffering bones or ashes at a gilded altar with 2 lit marble burners will give you 350% of the original experience."
-         },
-         {  
-            "name":"​",
-            "value":"Which type of bones or ashes you should use completely depends on how much you're willing to spend and how fast you want to level your Prayer. [Dragon bones](https://runescape.wikia.com/wiki/Dragon_bones) are most commonly used to train Prayer since they give 252 experience each when used on a gilded altar. It takes 46,921 dragon bones to go from 1-75 Prayer using a gilded altar.\n\nIf you don't have a gilded altar in your own player-owned house, you can usually find some people having \"open houses\" in World 31 in [Yanille](https://runescape.wikia.com/wiki/Yanille), or use a friends chat like \"Altar\" to find an open house. It is possible to offer up to 1,400 bones/ashes per hour by using a [Beast of Burden](https://runescape.wikia.com/wiki/Beast_of_Burden)."
-         }
-      ]
-   },
-  "75 - 99 + pt2": {  
-      "title":"Prayer Training Levels 75-99+",
-      "description":"​",
-      "url":"https://runescape.wikia.com/wiki/Pay-to-play_Prayer_training#Cleansing_crystals",
-      "color":12269891,
-      "footer":{  
-         "icon_url":"https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
-         "text":"Achievement Help | Helping you reach your goals, whatever they may be!"
-      },
-      "thumbnail":{  
-         "url":"https://vignette.wikia.nocookie.net/runescape2/images/f/f9/Cleansing_crystal_detail.png/revision/latest?cb=20141113214555"
-      },
-      "author":{  
-         "name":"Max Cape Info",
-         "icon_url":"https://i.imgur.com/6c6q2iC.png"
-      },
-      "fields":[ 
-         {  
-            "name":"​▬▬ Alternative Method: Levels 75-99+ ▬▬",
-            "value":"An alternative to using altars in player-owned houses, you can also use the [Chaos Altar](https://runescape.wikia.com/wiki/Chaos_Temple_%28Wilderness%29), which also gives 350% of the original experience. It is located in level 12 multi-combat [Wilderness](https://runescape.wikia.com/wiki/Wilderness), so it is a method that does not come without its risks, the threat of PKers requires one to be alert and paying attention to the screen. It is recommended to bring a one click teleport in order to escape if need be.\n\nYou can use [Simon](https://runescape.wikia.com/wiki/Simon) who is just on the other side of the temple walls to bank and restock on bones.\n\nRoughly 1,400 bones can be offered an hour without the need of a Beast of Burden using this method. This makes it about equal to using a pack yak in a player-owned house. The use of any Beast of Burden will make it one of the fastest training method in the game."
-         },
-         {  
-            "name":"​▬▬ Alternative Method: Levels 75-99+ ▬▬",
-            "value":"After completion of the Easy, Medium and Hard [Wilderness achievements](https://runescape.wikia.com/wiki/Wilderness_achievements), you will be able to un-note bones from your inventory with [Harrison](https://runescape.wikia.com/wiki/Harrison) who is located within steps of the [Chaos Altar](https://runescape.wikia.com/wiki/Chaos_Temple_%28Wilderness%29).\n\nDoing so will reduce time per run and increase the bones per hour to roughly 2,000 while still getting 350% of the original experience.\n\nThis method that does not come without its risks, the threat of PKers requires one to be alert and paying attention to the screen. Especially because you will have your entire stack of bones/ashes in your inventory. It is recommended to bring a one click teleport in order to escape if need be."
-         },
-         {  
-            "name":"​▬▬ Alternative Method: Levels 75-99+ ▬▬",
-            "value":"Another method is to worship the [Ectofuntus](https://runescape.wikia.com/wiki/Ectofuntus). By doing so, the experience one would gain from burying the bones will be multiplied by four. An example would be for every [dragon bone](https://runescape.wikia.com/wiki/Dragon_bone) used in the 'worship', a player would receive 288 experience instead of 72. Although the process is slower than just burying the bones, the experience earned is far better than just by burying the bones. To make the use of the ectofuntus most efficiently, it is best to use ashes instead of bones because ashes do not need to be ground first.\n\nIn comparison to using bones on a gilded altar, the Ectofuntus will give ~14% more experience per bone/ash, but it can be slower."
-         },
-         {  
-            "name":"​",
-            "value":"To 'worship' bones at the Ectofuntus, you will need to grind the bones into bonemeal first, and have [buckets of slime](https://runescape.wikia.com/wiki/Bucket_of_slime). You won't need to grind any bones when using ashes, so it is adviced to use this method with ashes instead of bones.\n\n To create the bonemeal, take some bones and go up the stairs near the Ectofuntus. Use the bone grinder to grind the bones and collect the crushed bones. To activate the \"grinder\", right click \"Fill Hopper\", which will automatically start the process of grinding all bones in your inventory and collecting them, one at a time (if the grinder is set to auto). Without the right click, you will need to do the clicks yourself - filling the hopper, winding the grinder, and collecting the bonemeal (if the grinder is set to manual) giving 1 Prayer experience point."
-         },
-         {  
-            "name":"​",
-            "value":"To get buckets of slime, you need to enter the trapdoor just west of the Ectofuntus, and travel down the stairs. There is an Agility shortcut here that will shorten the journey considerably but requires level 58 Agility. At the bottom of the stairs is a [pool of slime](https://runescape.wikia.com/wiki/Pool_of_slime) - click it to obtain buckets of slime.\n\nWith the completion of the medium, hard or elite [Morytania achievements](https://runescape.wikia.com/wiki/Morytania_achievements), you will be able to convert 13, 26 or 39 bones respectively into bonemeal and buckets of slime daily by talking to [Robin](https://runescape.wikia.com/wiki/Robin) in [Port Phasmatys](https://runescape.wikia.com/wiki/Port_Phasmatys)."
-         },         
-         {  
-            "name":"​",
-            "value":"If you have completed the quest [Ghost Ahoy](https://runescape.wikia.com/wiki/Ghosts_Ahoy), you will be able to teleport straight to the Ectofuntus with the [Ectophial](https://runescape.wikia.com/wiki/Ectophial), making it a lot faster to collect buckets of slime and train Prayer.\n\nFor a more in depth training guide (gear, setup, teleports, ...), please click [here](https://runescape.wikia.com/wiki/Ectofuntus#Training)."
+            "value":"If a crystal is fully cleansed while wearing the [Tirannwn quiver 3](https://runescape.wikia.com/wiki/Tirannwn_quiver_3) or [Tirannwn quiver 4](https://runescape.wikia.com/wiki/Tirannwn_quiver_4) and there are more crystals carried in the inventory, the next crystal will automatically be used to continue cleansing. This can lead to training with minimal interaction, if large numbers of crystals are bought in advance.\n\nBe careful when clicking while a cleansing crystal is being used. If a misclick or other action occurs, this will interrupt the process.  The crystal will vanish and the player will not gain the remaining experience. One can chat, rotate the camera, and use most interfaces without interrupting the process."
          }
       ]
    },
@@ -194,7 +143,7 @@ exports.data = {
       "fields":[  
          {  
             "name":"▬▬ Killing Vyres with Sunspear ▬▬",
-            "value":"Players who have completed the quest [River of Blood](https://runescape.wikia.com/wiki/River_of_Blood) and the Elite [Morytania achievements](https://runescape.wikia.com/wiki/Morytania_achievements) and have level 92 Prayer for [Soul Split](https://runescape.wikia.com/wiki/Soul_Split) can train Prayer by killing [Vyrelords](https://runescape.wikia.com/wiki/Vyrelord) and [Vyreladies](https://runescape.wikia.com/wiki/Vyrelady) in Darkmeyer with an [augmented Sunspear](https://runescape.wikia.com/wiki/Augmented_Sunspear_%28magic%29) and [Morytania legs 4](https://runescape.wikia.com/wiki/Morytania_legs_4). Morytania legs 4 are not required, but increase Prayer experience gained by 50%. Soul Split is not strictly required, though players who cannot use it will need to pay much more attention, eat food, and bank more frequently."
+            "value":"Players who have Uploaded the quest [River of Blood](https://runescape.wikia.com/wiki/River_of_Blood) and the Elite [Morytania achievements](https://runescape.wikia.com/wiki/Morytania_achievements) and have level 92 Prayer for [Soul Split](https://runescape.wikia.com/wiki/Soul_Split) can train Prayer by killing [Vyrelords](https://runescape.wikia.com/wiki/Vyrelord) and [Vyreladies](https://runescape.wikia.com/wiki/Vyrelady) in Darkmeyer with an [augmented Sunspear](https://runescape.wikia.com/wiki/Augmented_Sunspear_%28magic%29) and [Morytania legs 4](https://runescape.wikia.com/wiki/Morytania_legs_4). Morytania legs 4 are not required, but increase Prayer experience gained by 50%. Soul Split is not strictly required, though players who cannot use it will need to pay much more attention, eat food, and bank more frequently."
          },
          {  
             "name":"​",
@@ -284,7 +233,7 @@ exports.data = {
       "fields":[  
          {  
             "name":"Methods to obtain",
-            "value":"• Cremating Vyre Corpses (50% more experiencer with Morytania Legs 4)\n• Cremating Vyres with the Sunspear (50% more experiencer with Morytania Legs 4)\n• Ectofunctus with bones\n• Ectofunctus with ashes\n• Burying Bones\n• Scattering Ashes\n• Bonecrusher during combat\n• Attuned Ectoplasmator during combat\n• Cleansing Crystals\n• Skeletal Horror\n• Blessing Spirit Shields\n• Nemi Forrest\n• Shifting Tombs with the Scabaras brazier lit"
+            "value":"• Cremating Vyre Corpses (50% more experience with Morytania Legs 4)\n• Cremating Vyres with the Sunspear (50% more experience with Morytania Legs 4)\n• Ectofunctus with bones\n• Ectofunctus with ashes\n• Burying Bones\n• Scattering Ashes\n• Bonecrusher during combat\n• Attuned Ectoplasmator during combat\n• Cleansing Crystals\n• Skeletal Horror\n• Blessing Spirit Shields\n• Nemi Forrest\n• Shifting Tombs with the Scabaras brazier lit"
          },
          {  
             "name":"Best method",
@@ -377,7 +326,7 @@ exports.data = {
       "fields":[  
          {  
             "name":"God Statues",
-            "value":"[God Statues]((https://runescape.wikia.com/wiki/God_Statues)) is a Construction based monthly [Distraction and Diversion](https://runescape.wikia.com/wiki/Distraction_and_Diversion). The aim is to aid [Copernicus Glyph](https://runescape.wikia.com/wiki/Copernicus_Glyph) in building up to five statues around Gielinor which act as prayer altars.\n\nTo take part, one of the following must be completed: \n\t• Completed or manually turned off tutorial mode\n\t• Completed at least 60 [Achievements](https://runescape.wikia.com/wiki/Achievements)\n\t• Completed [Let Them Eat Pie](https://runescape.wikia.com/wiki/Let_Them_Eat_Pie)"
+            "value":"[God Statues]((https://runescape.wikia.com/wiki/God_Statues)) is a Construction based monthly [Distraction and Diversion](https://runescape.wikia.com/wiki/Distraction_and_Diversion). The aim is to aid [Copernicus Glyph](https://runescape.wikia.com/wiki/Copernicus_Glyph) in building up to five statues around Gielinor which act as prayer altars.\n\nTo take part, one of the following must be Uploaded: \n\t• Uploaded or manually turned off tutorial mode\n\t• Uploaded at least 60 [Achievements](https://runescape.wikia.com/wiki/Achievements)\n\t• Uploaded [Let Them Eat Pie](https://runescape.wikia.com/wiki/Let_Them_Eat_Pie)"
          },
          {  
             "name":"​",
@@ -389,7 +338,7 @@ exports.data = {
          },
          {  
             "name":"​",
-            "value":"The proper statue to construct depends on the area and its primary religion. If the proper statue is built, the appropriate god is honoured. However, if an improper statue is built, a [fanatic](https://runescape.wikia.com/wiki/Fanatic) will instead attack. Each statue completed will award Construction experience equal to a [large XP lamp](https://runescape.wikia.com/wiki/Large_XP_lamp), while praying to a statue or killing a fanatic will award Prayer or Slayer experience equal to a [medium XP lamp](https://runescape.wikia.com/wiki/Medium_XP_lamp) respectively, capped at level 99."
+            "value":"The proper statue to construct depends on the area and its primary religion. If the proper statue is built, the appropriate god is honoured. However, if an improper statue is built, a [fanatic](https://runescape.wikia.com/wiki/Fanatic) will instead attack. Each statue Uploaded will award Construction experience equal to a [large XP lamp](https://runescape.wikia.com/wiki/Large_XP_lamp), while praying to a statue or killing a fanatic will award Prayer or Slayer experience equal to a [medium XP lamp](https://runescape.wikia.com/wiki/Medium_XP_lamp) respectively, capped at level 99."
          }
       ]
    },
@@ -429,7 +378,7 @@ exports.data = {
       "fields":[  
          {  
             "name":"Prayer cape",
-            "value":"The [Prayer cape](https://runescape.wikia.com/wiki/Prayer_cape)'s perk provides the effect of having two lit [incense burners](https://runescape.wikia.com/wiki/Incense_burners) without having to light them, when offering bones on an altar in a [player-owned house](https://runescape.wikia.com/wiki/Player-owned_house)."
+            "value":"The [Prayer cape](https://runescape.wikia.com/wiki/Prayer_cape)'s perk provides the effect of having two lit [incense burners](https://runescape.wikia.com/wiki/Incense_burners) without having to light them, when offering bones on an altar in a [player-owned house](https://runescape.wikia.com/wiki/Player-owned_house). The cape also acts as a replacement for [First-Age Cape](http://runescape.wikia.com/wiki/First_age_cape), if owned."
          },
          {  
             "name":"First age equipment",
@@ -459,7 +408,7 @@ exports.data = {
          "text":"Achievement Help | Helping you reach your goals, whatever they may be!"
       },
       "thumbnail":{  
-         "url":"https://vignette.wikia.nocookie.net/runescape2/images/7/72/Decorated_fishing_urn_detail.png/revision/latest/scale-to-width-down/100?cb=20141030200349"
+         "url":"https://vignette.wikia.nocookie.net/runescape2/images/e/e7/Perfect_juju_prayer_potion_detail.png/revision/latest?cb=20141114200815"
       },
       "author":{  
          "name":"Max Cape Info",
@@ -467,12 +416,12 @@ exports.data = {
       },
       "fields":[  
          {  
-            "name":"Fishing boosts",
+            "name":"Prayer boosts",
             "value":"[Prayer cape](https://runescape.wikia.com/wiki/Prayer_cape)\n\t• +1 level for 1 minute"
          },
          {  
             "name":"​",
-            "value":"[Spicy stew](https://runescape.wikia.com/wiki/Spicy_stew)\n\t•  Boost is applied to a random skill\n\t•  Up to ±5 with 3 spice doses\n\t•  Up to ±3 with 2 spice doses\n\t•  Up to ±1 with 1 spice dose"
+            "value":"[Spicy stew](https://runescape.wikia.com/wiki/Spicy_stew)\n\t•  Boost is applied to a random skill\n\t•  Up to ±6 with 3 spice doses\n\t•  Up to ±3 with 2 spice doses\n\t•  Up to ±2 with 1 spice dose"
          },
          {  
             "name":"​",
@@ -495,5 +444,4 @@ exports.data = {
             "value":"[Prayer urns](https://runescape.wikia.com/wiki/Urns#Prayer)\n\t• Fill up when killing creatures that drop ashes\n\t• Once full the urn can be teleported for experience\n\t• Gives between 120 and 1,875 experience per urn (depends on level of urn used)\n\t• Using an [urn enhancer](http://runescape.wikia.com/wiki/Urn_enhancer) increases the experience gained when teleporting an urn by 25%\n\t• There are 3 types of Prayer urns: [impious](https://runescape.wikia.com/wiki/Impious_urn) which only fills up with [impious ashes](https://runescape.wikia.com/wiki/Impious_ashes), [accursed](https://runescape.wikia.com/wiki/Accursed_urn) which fills up with impious ashes and [accursed ashes](https://runescape.wikia.com/wiki/Accursed_ashes), and [infernal](https://runescape.wikia.com/wiki/Infernal_urn) which fills up with impious, accursed, [infernal](https://runescape.wikia.com/wiki/Infernal_ashes), [tortured](https://runescape.wikia.com/wiki/Tortured_ashes), and [searing ashes](https://runescape.wikia.com/wiki/Searing_ashes)."
          }
       ]
-   }
-};
+   };

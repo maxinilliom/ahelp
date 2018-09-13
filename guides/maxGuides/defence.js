@@ -59,7 +59,7 @@ exports.data = {
     "fields": [
       {
         "name": "Defence Abilities",
-        "value": "The full list of Defence abilities can be found [here](http://runescape.wikia.com/wiki/Abilities#Strength)."
+        "value": "The full list of Defence abilities can be found [here](http://runescape.wikia.com/wiki/Abilities#Defence)."
       }
       ]
   },
@@ -97,7 +97,7 @@ exports.data = {
   "pet - wallace": {
     "title": "Defence Pet - Wallace",
     "description": "Wallace is the skilling pet obtainable from Defence. He is unlocked by inspecting the [Wallace Pet](http://runescape.wikia.com/wiki/Wallace).",
-    "url": "https://runescape.wikia.com/wiki/Kangali_pet",
+    "url": "https://runescape.wikia.com/wiki/Wallace_pet",
     "color": 12269891,
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
@@ -224,7 +224,7 @@ exports.data = {
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "thumbnail": {
-      "url": "https://vignette.wikia.nocookie.net/runescape2/images/4/41/Defence.png/revision/latest?cb=20120223123758"
+      "url": "https://vignette.wikia.nocookie.net/runescape2/images/6/6e/Defence_cape_detail.png/revision/latest?cb=20160402190833"
     },
     "author": {
       "name": "Max Cape Info",
@@ -232,8 +232,8 @@ exports.data = {
     },
     "fields": [
       {
-        "name": "N/A",
-        "value": "There are currently no permanent boosts for Defence."
+        "name": "Defence Cape",
+        "value": "The [Defence Cape's](http://runescape.wikia.com/wiki/Defence_cape) perk provides the effects of a [sign of life](http://runescape.wikia.com/wiki/Sign_of_life) or [portent of life](http://runescape.wikia.com/wiki/Portent_of_life) while they are not on cooldown and, unlike them, it is not destroyed upon activation."
       }
       ]
   },
@@ -256,11 +256,11 @@ exports.data = {
     "fields": [
       {
         "name": "Defence Boosts",
-        "value": "[Defence Potion](http://runescape.wikia.com/wiki/Defence_potion)\n• 8% + 1 to Defence level\n\n[Defence Mix](http://runescape.wikia.com/wiki/Defence_mix)\n• 8% + 1 to Defence level\n• Requires Herblore part of [Barbarian Training](http://runescape.wikia.com/wiki/Barbarian_Training)\n\n[Super Defence Potion](http://runescape.wikia.com/wiki/Super_defence)\n• 12% + 2 to Defence levels\n\n[Super Defence Mix](http://runescape.wikia.com/wiki/Super_defence_mix)\n• 12% + 2 to Defence levels\n• Requires Herblore part of Barbarian Training\n\n[Extreme Defence Potion](http://runescape.wikia.com/wiki/Extreme_defence)\n• 15% + 3 to Defence levels\n• Requires 90 Herblore to make\n\n[Grand Defence Potion](http://runescape.wikia.com/wiki/Grand_defence_potion)\n• 14% + 2 to Defence levels\n\n[Supreme Defence Potion](http://runescape.wikia.com/wiki/Supreme_defence_potion)\n• 16% + 4 to Defence levels\n• Recipe must be bought\n• Requires 93 Herblore to make"
+        "value": "[Defence Cape](http://runescape.wikia.com/wiki/Defence_cape)\n• + 1 Defence level for 1 minute\n\n[Defence Potion](http://runescape.wikia.com/wiki/Defence_potion)\n• 8% + 1 to Defence level\n\n[Defence Mix](http://runescape.wikia.com/wiki/Defence_mix)\n• 8% + 1 to Defence level\n• Requires Herblore part of [Barbarian Training](http://runescape.wikia.com/wiki/Barbarian_Training)\n\n[Super Defence Potion](http://runescape.wikia.com/wiki/Super_defence)\n• 12% + 2 to Defence levels\n\n[Super Defence Mix](http://runescape.wikia.com/wiki/Super_defence_mix)\n• 12% + 2 to Defence levels\n• Requires Herblore part of Barbarian Training\n\n[Extreme Defence Potion](http://runescape.wikia.com/wiki/Extreme_defence)\n• 15% + 3 to Defence levels\n• Requires 90 Herblore\n\n[Grand Defence Potion](http://runescape.wikia.com/wiki/Grand_defence_potion)\n• 14% + 2 to Defence levels\n\n[Supreme Defence Potion](http://runescape.wikia.com/wiki/Supreme_defence_potion)\n• 16% + 4 to Defence levels\n• Recipe must be bought\n• Requires 93 Herblore"
       },
       {
         "name": "​",
-        "value": "[Super Melee Potion](http://runescape.wikia.com/wiki/Super_melee_potion)\n• 12% + 2 to Attack, Strength, and Defence levels\n• Recipe must be found and bought\n• Requires 81 Herblore to make\n\n[Super Warmaster's Potion](http://runescape.wikia.com/wiki/Super_warmaster%27s_potion)\n• 12% + 2 to all combat skills\n\n[Extreme Warmaster's Potion](http://runescape.wikia.com/wiki/Extreme_warmaster%27s_potion)\n• 15% + 3 to all combat skills\n• Recipe must be found and bought\n\n[Extreme Brawler's Potion](http://runescape.wikia.com/wiki/Extreme_brawler%27s_potion)\n• 15% + 3 to Attack, Strength and Defence\n• Recipe must be found and bought\n\n[Overload](http://runescape.wikia.com/wiki/Overload)\n• 15% + 3 to all combat skills\n• Reapplies boost every 15 seconds\n\n[Holy Overload](http://runescape.wikia.com/wiki/Holy_overload_potion)\n• 15% + 3 to all combat skills\n• Recipe must be bought\n• Reapplies boost every 15 seconds"
+        "value": "[Super Melee Potion](http://runescape.wikia.com/wiki/Super_melee_potion)\n• 12% + 2 to Attack, Strength, and Defence levels\n• Recipe must be found and bought\n• Requires 81 Herblore\n\n[Super Warmaster's Potion](http://runescape.wikia.com/wiki/Super_warmaster%27s_potion)\n• 12% + 2 to all combat skills\n\n[Extreme Warmaster's Potion](http://runescape.wikia.com/wiki/Extreme_warmaster%27s_potion)\n• 15% + 3 to all combat skills\n• Recipe must be found and bought\n\n[Extreme Brawler's Potion](http://runescape.wikia.com/wiki/Extreme_brawler%27s_potion)\n• 15% + 3 to Attack, Strength and Defence\n• Recipe must be found and bought\n\n[Overload](http://runescape.wikia.com/wiki/Overload)\n• 15% + 3 to all combat skills\n• Reapplies boost every 15 seconds\n\n[Holy Overload](http://runescape.wikia.com/wiki/Holy_overload_potion)\n• 15% + 3 to all combat skills\n• Recipe must be bought\n• Reapplies boost every 15 seconds"
       },
       {
         "name": "​",
@@ -268,16 +268,15 @@ exports.data = {
       },
       {
         "name": "​",
-        "value": "[Searing Overload Potion](http://runescape.wikia.com/wiki/Searing_overload_potion)\n• 15% + 3 to all combat skills\n• Recipe must be bought\n• Reapplies boost every 15 seconds\n• Protects against dragon fire\n\n[Saradomin Brew](http://runescape.wikia.com/wiki/Saradomin_brew)\n• 4% + 1 Defence boost\n• Reduces all other combat stats by 4% + 1\n• Heals 100 life points\n\n[Dom Saradomin Brew](http://runescape.wikia.com/wiki/Dom_saradomin_brew)\n• 4% + 1 Defence boost\n• Reduces all other combat stats by 4% + 1\n• Heals 100 life points\n\n[Testudo Scroll](http://runescape.wikia.com/wiki/War_tortoise#Testudo_scroll)\n• +8 Defence levels\n\n[Titan's Constitution Scroll](http://runescape.wikia.com/wiki/Titan's_constitution_scroll)\n• +12.5% Defence level boost\n• +6% life points boost\n\n[Dominion Marker](http://runescape.wikia.com/wiki/Dominion_marker)\n• Tier 1: +4\n• Tier 2: +6\n• Tier 3: +8\n• Tier 4: +10\n• Reapplies the boost once it decays back to the base level"
+        "value": "[Searing Overload Potion](http://runescape.wikia.com/wiki/Searing_overload_potion)\n• 15% + 3 to all combat skills\n• Recipe must be bought\n• Reapplies boost every 15 seconds\n• Protects against dragon fire\n\n[Saradomin Brew/Dom Saradomin Brew](http://runescape.wikia.com/wiki/Saradomin_brew)\n• 4% + 1 Defence boost\n• Reduces all other combat stats by 4% + 1\n• Heals 100 life points\n\n[Testudo Scroll](http://runescape.wikia.com/wiki/War_tortoise#Testudo_scroll)\n• +8 Defence levels\n\n[Titan's Constitution Scroll](http://runescape.wikia.com/wiki/Titan's_constitution_scroll)\n• +12.5% Defence level boost\n• +6% life points boost\n\n[Dominion Marker](http://runescape.wikia.com/wiki/Dominion_marker)\n• Tier 1: +4\n• Tier 2: +6\n• Tier 3: +8\n• Tier 4: +10\n• Reapplies the boost once it decays back to the base level"
       },
       {
         "name": "​",
-        "value": "[Cabbage (Draynor Manor)](http://runescape.wikia.com/wiki/Cabbage_(Draynor_Manor)\n• +1-2 Defence levels\n\n[Sugar Skull](http://runescape.wikia.com/wiki/Sugar_skull)\n• +2 Defence levels\n\n [Toffee Apple](http://runescape.wikia.com/wiki/Toffee_apple)\n• +2 Defence levelst\n\n[Spicy Stew](http://runescape.wikia.com/wiki/Spicy_stew)\n • Boost is applied to a random skill\n • Up to ±5 with 3 spice doses\n • Up to ±3 with 2 spice doses\n • Up to ±1 with 1 spice dose\n\n[God Banner](http://runescape.wikia.com/wiki/God_banner)\n• +5 levels\n• Lasts 30 minutes once per day\n\n[Sapphire Glacialis](http://runescape.wikia.com/wiki/Sapphire_glacialis)\n• +15% + 4 Defence boost\n• Boosts another players Defence level, not yours"
+        "value": "[Sugar Skull](http://runescape.wikia.com/wiki/Sugar_skull)\n• +2 Defence levels\n\n [Toffee Apple](http://runescape.wikia.com/wiki/Toffee_apple)\n• +2 Defence levelst\n\n[Spicy Stew](http://runescape.wikia.com/wiki/Spicy_stew)\n • Boost is applied to a random skill\n • Up to ±6 with 3 spice doses\n • Up to ±3 with 2 spice doses\n • Up to ±2 with 1 spice dose\n\n[God Banner](http://runescape.wikia.com/wiki/God_banner)\n• +5 levels\n• Lasts 30 minutes once per day\n\n[Sapphire Glacialis](http://runescape.wikia.com/wiki/Sapphire_glacialis)\n• +15% + 4 Defence boost\n• Boosts another players Defence level, not yours"
       },
       {
         "name": "​",
         "value": "[Brawling Gloves (Melee)](http://runescape.wikia.com/wiki/Brawling_gloves_(Melee)\n• When wielded, 50% XP boost is given at the entrance or outside of the Wilderness, with the buff increasing to 300% (4x the experience) at level 47 Wilderness just south of the fence. Since an update, instead of charges the gloves have approximately a 300,000 XP cap on extra XP gained. As this cap recognizes XP buffs, expending them in the Wilderness only uses charges faster for no increased gain. It is recommended to consume them during normal training."
       }      
        ]
-  }
-};
+  };

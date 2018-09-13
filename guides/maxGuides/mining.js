@@ -39,12 +39,11 @@ exports.data = {
       "name": "Max Cape Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     }
-    
   },
   "30 - 50": {
     "title": "Mining Training Levels 30-50",
     "description": "At level 30 Mining, players can begin mining [iron ore](https://runescape.wikia.com/wiki/Iron_ore_rocks) rocks, which can start to give more experience than mining pure essence at the cost of being less afk. When mining iron ore, one should use the best available pickaxe for your level. This can give up to 30,000 experience an hour as you approach level 50. \n\nIron ore can be mined at the [Piscatoris mining site](https://runescape.wikia.com/wiki/Piscatoris_mining_site) or at the [Legends' Guild mining site](https://runescape.wikia.com/wiki/Legends%27_Guild_mining_site). The Legends' Guild mining site contains grizzly bears which are aggressive towards players with a combat level of 64 or lower. Both of these mining sites contain groups of 3 iron ore rocks which are arranged in a triangle formation which allows a player to mine all 3 rocks without moving. \n\nAt level 31 Mining, players should switch to using an [Adamant pickaxe](https://runescape.wikia.com/wiki/Adamant_pickaxe). This will happen automatically if a higher-tier pickaxe has already been added to the tool belt. At level 41 Mining, use a [Rune pickaxe](https://runescape.wikia.com/wiki/Rune_pickaxe).",
-    "url": "https://runescape.wikia.com/wiki/Pay-to-play_Mining_training#Levels_1-40:_rune_and_pure_essence",
+    "url": "http://runescape.wikia.com/wiki/Pay-to-play_Mining_training#Levels_40-45:_Iron",
     "color": 12269891,
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
@@ -60,7 +59,7 @@ exports.data = {
     "fields": [
        {
         "name": "▬▬ Alternative Method: Levels 45-50 ▬▬",
-        "value": "At level 45 Mining players can start mining [granite rocks](https://runescape.wikia.com/wiki/Granite_rocks). Mining granite gives between 31,000 experience an hour, at level 45, and up to 33,000 experience an hour, at level 50. Granite rocks can give three different sizes of granite when they are mined successfully: 500g, 2kg and 5kg, all of which can be added to your action bar to be dropped."
+        "value": "At level 45, Mining players can start mining [granite rocks](https://runescape.wikia.com/wiki/Granite_rocks). Mining granite gives between 31,000 experience an hour, at level 45, and up to 33,000 experience an hour, at level 50. Granite rocks can give three different sizes of granite when they are mined successfully: 500g, 2kg and 5kg, all of which can be added to your action bar to be dropped."
       },
       {
         "name": "​",
@@ -70,7 +69,7 @@ exports.data = {
   },
   "50 - 75": {
     "title": "Mining Training Levels 50-75",
-    "description": "At level 50 Mining players can start to mine [concentrated sandstone rocks](https://runescape.wikia.com/wiki/Concentrated_sandstone_rocks). This gives at least 45,000 experience an hour, at level 50 Mining, and goes up to as high as 62,000 experience an hour around level 61 with a dragon pickaxe. The concentrated sandstone rocks are located within [Menaphos](https://runescape.wikia.com/wiki/Menaphos)' [worker district](https://runescape.wikia.com/wiki/Worker_district) or [VIP skilling area](https://runescape.wikia.com/wiki/VIP_skilling_area) and so partial completion of [The Jack of Spades](https://runescape.wikia.com/wiki/The_Jack_of_Spades) quest is required to access them. An additional benefit of mining here is that [reputation](https://runescape.wikia.com/wiki/Menaphos/Reputation) can be gained. The VIP skilling area is unlocked at tier 7 overall reputation: the concentrated sandstone within this area deplete at half the rate of the sandstone within the worker district. At tier 8 reputation within the worker district, the player's success chance while mining concentrated sandstone is increased.\n\n Similar to mining granite, different sizes of sandstone are obtained from the rocks: 1kg, 2kg, 5kg, and 10kg blocks. Since the sandstone's left click option is drop, it can be added to players action bar to quickly drop it. It is not recommended to use [signs of the porter](https://runescape.wikia.com/wiki/Signs_of_the_porter) to send the sandstone mined directly to the player's bank as they have a very low value. Players should continue mining concentrated sandstone after reaching level 75 if they have not unlocked [Crystallise](https://runescape.wikia.com/wiki/Crystallise) and [Light Form](https://runescape.wikia.com/wiki/Light_Form). Mining concentrated sandstone gives up to 92,000 experience an hour at level 99 Mining.",
+    "description": "At level 50 Mining, players can start to mine [concentrated sandstone rocks](https://runescape.wikia.com/wiki/Concentrated_sandstone_rocks). This gives at least 45,000 experience an hour, at level 50 Mining, and goes up to as high as 62,000 experience an hour around level 61 with a dragon pickaxe. The concentrated sandstone rocks are located within [Menaphos](https://runescape.wikia.com/wiki/Menaphos)' [worker district](https://runescape.wikia.com/wiki/Worker_district) or [VIP skilling area](https://runescape.wikia.com/wiki/VIP_skilling_area) and so partial completion of [The Jack of Spades](https://runescape.wikia.com/wiki/The_Jack_of_Spades) quest is required to access them. An additional benefit of mining here is that [reputation](https://runescape.wikia.com/wiki/Menaphos/Reputation) can be gained. The VIP skilling area is unlocked at tier 7 overall reputation: the concentrated sandstone within this area deplete at half the rate of the sandstone within the worker district. At tier 8 reputation, within the worker district, the player's success chance while mining concentrated sandstone is increased.\n\n Similar to mining granite, different sizes of sandstone are obtained from the rocks: 1kg, 2kg, 5kg, and 10kg blocks. Since the sandstone's left click option is drop, it can be added to players action bar to quickly drop it. It is not recommended to use [signs of the porter](https://runescape.wikia.com/wiki/Signs_of_the_porter) to send the sandstone mined directly to the player's bank as they have a very low value. Players should continue mining concentrated sandstone after reaching level 75 if they have not unlocked [Crystallise](https://runescape.wikia.com/wiki/Crystallise) and [Light Form](https://runescape.wikia.com/wiki/Light_Form). Mining concentrated sandstone gives up to 92,000 experience an hour at level 99 Mining.",
     "url": "https://runescape.wikia.com/wiki/Pay-to-play_Mining_training#Levels_50-75:_concentrated_sandstone",
     "color": 12269891,
     "footer": {
@@ -97,7 +96,7 @@ exports.data = {
   },
   "75 - 89": {
     "title": "Mining Training Levels 75-89",
-    "description": "With at least level 75 Mining players will be able to complete the quests required to unlock the [Crystallise](https://runescape.wikia.com/wiki/Crystallise) spell and [Light Form](https://runescape.wikia.com/wiki/Light_Form) prayer. Players should return to training at granite once they can use the spell and prayer to increase the experience gained from mining it. This gives up to 170,000 experience an hour, with level 99 Mining.",
+    "description": "With at least level 75, Mining players will be able to complete the quests required to unlock the [Crystallise](https://runescape.wikia.com/wiki/Crystallise) spell and [Light Form](https://runescape.wikia.com/wiki/Light_Form) prayer. Players should return to training at granite once they can use the spell and prayer to increase the experience gained from mining it. This gives up to 170,000 experience an hour, with level 99 Mining.",
     "url": "https://runescape.wikia.com/wiki/Pay-to-play_Mining_training#Levels_75-99.2B:_granite_using_crystallise",
     "color": 12269891,
     "footer": {
@@ -114,7 +113,7 @@ exports.data = {
   },
   "89 - 99 +": {
     "title": "Mining Training Levels 89-99+",
-    "description": "If you value afk training, at level 89 Mining players can begin mining [Seren stones](https://runescape.wikia.com/wiki/Seren_stones), if they have gained access to [Prifddinas](https://runescape.wikia.com/wiki/Prifddinas) through completing the [Plague's End](https://runescape.wikia.com/wiki/Plague%27s_End) quest. Seren stones are located in the [Trahaearn district](https://runescape.wikia.com/wiki/Trahaearn) of Prifddinas. Players can gain up to 125,000 experience an hour mining at Seren stones, with level 99 Mining. Players will receive 20% additional base experience mining at Seren stones when the [Voice of Seren](https://runescape.wikia.com/wiki/Voice_of_Seren) is active in the Trahaearn district, meaning that 150,000 Mining experience an hour can be gained during this time. \n\nPlayers mine Seren stones to remove corruption from them, and can mine a Seren stone 70 times before it is cleansed. When this happens the Seren stone will temporarily be withdrawn into the trapdoor beneath it, before respawning covered in more corruption. Players gain [corrupted ore](https://runescape.wikia.com/wiki/Corrupted_ore) from mining Seren stones, approximately 1/3 times that they are successful in gaining Mining experience. With level 99 Mining players can gain around 220 corrupted ore in an hour of mining. Corrupted ore stacks in the player's inventory.",
+    "description": "At level 89 Mining, players can begin mining [Seren stones](https://runescape.wikia.com/wiki/Seren_stones), if they have gained access to [Prifddinas](https://runescape.wikia.com/wiki/Prifddinas) after completing the [Plague's End](https://runescape.wikia.com/wiki/Plague%27s_End) quest. Seren stones are located in the [Trahaearn district](https://runescape.wikia.com/wiki/Trahaearn) of Prifddinas. Players can gain up to 125,000 experience an hour mining at Seren stones, with level 99 Mining. Players will receive 20% additional base experience mining at Seren stones when the [Voice of Seren](https://runescape.wikia.com/wiki/Voice_of_Seren) is active in the Trahaearn district, meaning that 150,000 Mining experience an hour can be gained during this time. \n\nPlayers mine Seren stones to remove corruption from them, and can mine a Seren stone 70 times before it is cleansed. When this happens, the Seren stone will temporarily be withdrawn into the trapdoor beneath it, before respawning covered in more corruption. Players gain [corrupted ore](https://runescape.wikia.com/wiki/Corrupted_ore) from mining Seren stones, approximately 1/3 times that they are successful in gaining Mining experience. With level 99 Mining, players can gain around 220 corrupted ore in an hour of mining. Corrupted ore stacks in the player's inventory.",
     "url": "https://runescape.wikia.com/wiki/Pay-to-play_Mining_training#Seren_stones_.2889-97.29",
     "color": 12269891,
     "footer": {
@@ -131,7 +130,7 @@ exports.data = {
   },
   "97 - 99+": {
     "title": "Mining Training Levels 97-99+",
-    "description": "At level 97 Mining players can begin mining [alaea crablets](https://runescape.wikia.com/wiki/Alaea_crablet). Alaea crablets are a rare Mining resource that can be found randomly on [Uncharted Isles](https://runescape.wikia.com/wiki/Uncharted_Isles). Uncharted Isles can be explored from [The Arc region](https://runescape.wikia.com/wiki/The_Arc), which requires completion of the [Impressing the Locals](https://runescape.wikia.com/wiki/Impressing_the_Locals) quest to access. Completion of the [Flag Fall miniquest](https://runescape.wikia.com/wiki/Flag_Fall), which allows the player to claim an uncharted isle and return to it, is also required to hunt alaea crablets effectively. To find alaea crablets, the player must first gain some [chimes](https://runescape.wikia.com/wiki/Chimes) from skilling in The Arc so that they can purchase the supplies required to voyage to Uncharted Isles. Supplies can be purchased from [Rosie](https://runescape.wikia.com/wiki/Rosie_(supplies)). When the player finds an Uncharted Isle inhabited by colonies of alaea crablets then they can claim the island using a [claim island flag](https://runescape.wikia.com/wiki/Claim_island_flag). Once an uncharted isle is claimed the player may return to it for the price of 3 supplies per voyage: 5 supplies per day can be claimed for free from the box next to Rosie. Up to 3 colonies of alaea crablets may be present on an Uncharted Isle, if the player opts to go on a long voyage.",
+    "description": "At level 97, Mining players can begin mining [alaea crablets](https://runescape.wikia.com/wiki/Alaea_crablet). Alaea crablets are a rare Mining resource that can be found randomly on [Uncharted Isles](https://runescape.wikia.com/wiki/Uncharted_Isles). Uncharted Isles can be explored from [The Arc region](https://runescape.wikia.com/wiki/The_Arc), which requires completion of the [Impressing the Locals](https://runescape.wikia.com/wiki/Impressing_the_Locals) quest to access. Completion of the [Flag Fall miniquest](https://runescape.wikia.com/wiki/Flag_Fall), which allows the player to claim an uncharted isle and return to it, is also required to hunt alaea crablets effectively. To find alaea crablets, the player must first gain some [chimes](https://runescape.wikia.com/wiki/Chimes) from skilling in The Arc so that they can purchase the supplies required to voyage to Uncharted Isles. Supplies can be purchased from [Rosie](https://runescape.wikia.com/wiki/Rosie_(supplies)). When the player finds an Uncharted Isle inhabited by colonies of alaea crablets then they can claim the island using a [claim island flag](https://runescape.wikia.com/wiki/Claim_island_flag). Once an uncharted isle is claimed the player may return to it for the price of 3 supplies per voyage: 5 supplies per day can be claimed for free from the box next to Rosie. Up to 3 colonies of alaea crablets may be present on an Uncharted Isle, if the player opts to go on a long voyage.",
     "url": "https://runescape.wikia.com/wiki/Pay-to-play_Mining_training#Alaea_crablets_.2897-99.2B.29",
     "color": 12269891,
     "footer": {
@@ -266,52 +265,52 @@ exports.data = {
       ]
   },
   "distractions and diversions": { 
-    "title": "Distractions and Diversions", 
-    "url": "http://runescape.wikia.com/wiki/Distractions_and_Diversions", 
-    "description": "D&Ds are a subclassification of minigames. However, unlike minigames many D&Ds move around the world to various locations, have a limit on how often they can be played, and only occur at particular times of day.\n\nDistractions and Diversions aim to divert the original intentions of the player in order to provide an interesting distraction from their everyday routines. D&Ds come in many different shapes and sizes; covering Combat, Gathering, Artisan, and Support skills. There are a wide variety of different options available to suit the players choice.", 
-    "color": 12269891, 
-    "footer": { 
-    "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg", 
-    "text": "Achievement Help | Helping you reach your goals, whatever they may be!" 
-    }, 
-    "thumbnail": { 
-    "url": "https://vignette.wikia.nocookie.net/runescape2/images/6/62/D%26D_icon.png/revision/latest?cb=20140914110639" 
-    }, 
-    "author": { 
-    "name": "Max Cape Info", 
-    "icon_url": "https://i.imgur.com/6c6q2iC.png" 
-    }, 
-    "fields": [ 
-    { 
-    "name": "▬▬ Lava Geyser Hunting ▬▬", 
-    "value": "[Lava geysers](https://runescape.wikia.com/wiki/Lava_geyser) are a Distraction and Diversion found while mining in the [Lava Flow Mine](https://runescape.wikia.com/wiki/Lava_Flow_Mine). At random intervals averaging once every 45 minutes (with peaks of up to over an hour), a lava geyser can appear in a random lava channel segment within the Lava Flow Mine. All players that have completed Birthright of the Dwarves will receive a chat message notifying them that a lava geyser has appeared. When encountered, players have to cool the geyser down by casting water or ice spells at it. After depleting the lava geyser's 30,000 life points, it will solidify. If a lava geyser is not cooled quickly enough, it will eventually disappear. Magic abilities can also be used on the lava geyser whilst using Water or ice spells." 
-    },
-    { 
-    "name": "​", 
-    "value": "When the lava geyser has been solidified, it can be mined by any amount of players. Each successful mine awards 500 experience. A geyser can be mined 30 times when soloing, for a total of 15,000 experience. After being fully mined, there is a chance of it awarding an [Imcando pickaxe](https://runescape.wikia.com/wiki/Imcando_pickaxe) fragment. If a player has an Imcando pickaxe equipped or in their inventory that does not have a full charge, they will gain 100 charges instead. If all fragments are owned but an Imcando pickaxe has not been created, a duplicate of the fragment will be received. \n\nIt is important to hunt for geysers solo in order to maximise xp/hr. This method requires extensive world hopping and is very intensive. However, players can be rewarded with 270,000-350,000 xp/hr depending on efficiency and luck - using alt accounts helps a lot." 
-    }, 
-    { 
-    "name": "▬▬ Shooting Star ▬▬", 
-    "value": "[Shooting Star](https://runescape.wikia.com/wiki/Shooting_Star) is a daily Distraction and Diversion whereby every 2 hours a shooting star will fall from the sky. They generally fall across all worlds within fifteen minutes of each other. If players reach the core of the star before the next star falls on that world, a [Star sprite](https://runescape.wikia.com/wiki/Star_sprite) appears and gives rewards. \n\nThe required Mining level to mine a star is ten times its size. For example, you need a Mining level of 80 to mine a size 8 star. However, the star will reduce in size as it is mined, so the Mining requirement reduces as it is mined. \n\nMembers may make use of a telescope in a study room in a [player-owned house](https://runescape.wikia.com/wiki/Player-owned_house) to reveal the area in which the star will fall. In each area, there are a number of predetermined locations in which the star may actually land. A full list can be found [here](https://runescape.wikia.com/wiki/Shooting_Star#Star_crash_sites)." 
-    }, 
-    { 
-    "name": "​", 
-    "value": "Shooting stars come in sizes from 1 to 9. Players can find out how large the star is by examining it or prospecting it. Additionally, prospecting it will reveal the progress to the next level. \n\nThe first person to attempt to mine the star (even if they do not have the required Mining level) will be rewarded with Mining experience in the amount of 75 times your Mining level. This is called a tag. You do not need a pickaxe to get the tag, though you cannot mine the star further without a pickaxe. \n\nEach layer of the star is mined from 0% to 100%, at which point the outermost layer sloughs off and the star's size is reduced by one. Players will receive stardust as they mine the star, receiving experience every time a piece of stardust is mined. Players can only own a maximum of 200 stardust at a time. If 200 stardust has been reached, experience will still be received for mining in exactly the same manner as with lower amounts stardust." 
-    }, 
-    { 
-    "name": "​", 
-    "value": "Once the final layer (when the star is size one) is fully mined, a star sprite will be released, and players will not be able to mine any more. The star sprite in the remains of its star can be spoken to in order to exchange stardust for a [reward](https://runescape.wikia.com/wiki/Shooting_Star#Rewards). The star sprite will stay for ten minutes before eventually disappearing. If the star is not fully mined and the sprite not released by time the next star falls, the rock vanishes without an opportunity to exchange star dust. However, stardust need not be exchanged at the star at which it was received, meaning that if a player mines some dust but didn't manage to break open the star, they could still exchange it with the star sprite in the next star." 
-    },
-    { 
-    "name": "▬▬ Wilderness Warbands ▬▬", 
-    "value": "[Wilderness Warbands](https://runescape.wikia.com/wiki/Wilderness_Warbands) is a dangerous members Distraction & Diversion that occurs in the [Wilderness](https://runescape.wikia.com/wiki/Wilderness), composed of heavily defended storage camps guarded by the followers of the different Gods. They will set up camp in the Wilderness every 7 hours, one time at each of the [three locations]((https://runescape.wikia.com/wiki/Wilderness_Warbands#Time_for_the_next_warbands). Warbands events are synchronised on each world. \n\nWilderness Warbands give large amounts of experience in Farming, Construction, Herblore, Mining, or Smithing. While no combat is necessary, it is still highly contested between players which may result in the loss of most rewards if you are killed. Players should take combat equipment to fight off/scare off player killers but must be conscious of the fact that this gear can be lost too. You also need 25 free inventory spaces for the Warbands supplies from looting the camps." 
-    }, 
-    { 
-    "name": "​", 
-    "value": "Players will be notified via a server-wide notice when a Wilderness camp appears. Participating in looting will [skull](https://runescape.wikia.com/wiki/Skull_(status) you, and holding the looting supplies in your inventory will prevent you from teleporting. Players can be attacked whilst looting without any combat level restrictions. \n\nYou can loot from up to 3 camps (25 maximum per camp) and obtain up to 75 supplies every day, resetting at midnight UTC. At level 98, a total of 356,550 experience can be obtained per day from 75 supplies. The 3 camps looted must be on different worlds and each world's camp can be at a different location. Even if you are killed and lose supplies, your attempt will still count as one of the three. However you can return to the same camp to try again without penalty." 
-    }
-    ] 
-    },
+"title": "Distractions and Diversions", 
+"url": "http://runescape.wikia.com/wiki/Distractions_and_Diversions", 
+"description": "D&Ds are a subclassification of minigames. However, unlike minigames many D&Ds move around the world to various locations, have a limit on how often they can be played, and only occur at particular times of day.\n\nDistractions and Diversions aim to divert the original intentions of the player in order to provide an interesting distraction from their everyday routines. D&Ds come in many different shapes and sizes; covering Combat, Gathering, Artisan, and Support skills. There are a wide variety of different options available to suit the players choice.", 
+"color": 12269891, 
+"footer": { 
+"icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg", 
+"text": "Achievement Help | Helping you reach your goals, whatever they may be!" 
+}, 
+"thumbnail": { 
+"url": "https://vignette.wikia.nocookie.net/runescape2/images/6/62/D%26D_icon.png/revision/latest?cb=20140914110639" 
+}, 
+"author": { 
+"name": "Max Cape Info", 
+"icon_url": "https://i.imgur.com/6c6q2iC.png" 
+}, 
+"fields": [ 
+{ 
+"name": "▬▬ Lava Geyser Hunting ▬▬", 
+"value": "[Lava geysers](https://runescape.wikia.com/wiki/Lava_geyser) are a Distraction and Diversion found while mining in the [Lava Flow Mine](https://runescape.wikia.com/wiki/Lava_Flow_Mine). At random intervals averaging once every 45 minutes (with peaks of up to over an hour), a lava geyser can appear in a random lava channel segment within the Lava Flow Mine. All players that have completed Birthright of the Dwarves will receive a chat message notifying them that a lava geyser has appeared. When encountered, players have to cool the geyser down by casting water or ice spells at it. After depleting the lava geyser's 30,000 life points, it will solidify. If a lava geyser is not cooled quickly enough, it will eventually disappear. Magic abilities can also be used on the lava geyser whilst using Water or ice spells." 
+},
+{ 
+"name": "​", 
+"value": "When the lava geyser has been solidified, it can be mined by any amount of players. Each successful mine awards 500 experience. A geyser can be mined 30 times when soloing, for a total of 15,000 experience. After being fully mined, there is a chance of it awarding an [Imcando pickaxe](https://runescape.wikia.com/wiki/Imcando_pickaxe) fragment. If a player has an Imcando pickaxe equipped or in their inventory that does not have a full charge, they will gain 100 charges instead. If all fragments are owned but an Imcando pickaxe has not been created, a duplicate of the fragment will be received. \n\nIt is important to hunt for geysers solo in order to maximise xp/hr. This method requires extensive world hopping and is very intensive. However, players can be rewarded with 270,000-350,000 xp/hr depending on efficiency and luck - using alt accounts helps a lot." 
+}, 
+{ 
+"name": "▬▬ Shooting Star ▬▬", 
+"value": "[Shooting Star](https://runescape.wikia.com/wiki/Shooting_Star) is a daily Distraction and Diversion whereby every 2 hours a shooting star will fall from the sky. They generally fall across all worlds within fifteen minutes of each other. If players reach the core of the star before the next star falls on that world, a [Star sprite](https://runescape.wikia.com/wiki/Star_sprite) appears and gives rewards. \n\nThe required Mining level to mine a star is ten times its size. For example, you need a Mining level of 80 to mine a size 8 star. However, the star will reduce in size as it is mined, so the Mining requirement reduces as it is mined. \n\nMembers may make use of a telescope in a study room in a [player-owned house](https://runescape.wikia.com/wiki/Player-owned_house) to reveal the area in which the star will fall. In each area, there are a number of predetermined locations in which the star may actually land. A full list can be found [here](https://runescape.wikia.com/wiki/Shooting_Star#Star_crash_sites)." 
+}, 
+{ 
+"name": "​", 
+"value": "Shooting stars come in sizes from 1 to 9. Players can find out how large the star is by examining it or prospecting it. Additionally, prospecting it will reveal the progress to the next level. \n\nThe first person to attempt to mine the star (even if they do not have the required Mining level) will be rewarded with Mining experience in the amount of 75 times your Mining level. This is called a tag. You do not need a pickaxe to get the tag, though you cannot mine the star further without a pickaxe. \n\nEach layer of the star is mined from 0% to 100%, at which point the outermost layer sloughs off and the star's size is reduced by one. Players will receive stardust as they mine the star, receiving experience every time a piece of stardust is mined. Players can only own a maximum of 200 stardust at a time. If 200 stardust has been reached, experience will still be received for mining in exactly the same manner as with lower amounts stardust." 
+}, 
+{ 
+"name": "​", 
+"value": "Once the final layer (when the star is size one) is fully mined, a star sprite will be released, and players will not be able to mine any more. The star sprite in the remains of its star can be spoken to in order to exchange stardust for a [reward](https://runescape.wikia.com/wiki/Shooting_Star#Rewards). The star sprite will stay for ten minutes before eventually disappearing. If the star is not fully mined and the sprite not released by time the next star falls, the rock vanishes without an opportunity to exchange star dust. However, stardust need not be exchanged at the star at which it was received, meaning that if a player mines some dust but didn't manage to break open the star, they could still exchange it with the star sprite in the next star." 
+},
+{ 
+"name": "▬▬ Wilderness Warbands ▬▬", 
+"value": "[Wilderness Warbands](https://runescape.wikia.com/wiki/Wilderness_Warbands) is a dangerous members Distraction & Diversion that occurs in the [Wilderness](https://runescape.wikia.com/wiki/Wilderness), composed of heavily defended storage camps guarded by the followers of the different Gods. They will set up camp in the Wilderness every 7 hours, one time at each of the [three locations]((https://runescape.wikia.com/wiki/Wilderness_Warbands#Time_for_the_next_warbands). Warbands events are synchronised on each world. \n\nWilderness Warbands give large amounts of experience in Farming, Construction, Herblore, Mining, or Smithing. While no combat is necessary, it is still highly contested between players which may result in the loss of most rewards if you are killed. Players should take combat equipment to fight off/scare off player killers but must be conscious of the fact that this gear can be lost too. You also need 25 free inventory spaces for the Warbands supplies from looting the camps." 
+}, 
+{ 
+"name": "​", 
+"value": "Players will be notified via a server-wide notice when a Wilderness camp appears. Participating in looting will [skull](https://runescape.wikia.com/wiki/Skull_(status) you, and holding the looting supplies in your inventory will prevent you from teleporting. Players can be attacked whilst looting without any combat level restrictions. \n\nYou can loot from up to 3 camps (25 maximum per camp) and obtain up to 75 supplies every day, resetting at midnight UTC. At level 98, a total of 356,550 experience can be obtained per day from 75 supplies. The 3 camps looted must be on different worlds and each world's camp can be at a different location. Even if you are killed and lose supplies, your attempt will still count as one of the three. However you can return to the same camp to try again without penalty." 
+}
+] 
+} ,
   "daily challenge": {
     "title": "Daily Challenge",
     "url": "http://runescape.wikia.com/wiki/Challenge_System/Mining",
@@ -409,7 +408,7 @@ exports.data = {
     "fields": [
       {
         "name": "Mining Boosts",
-        "value": "[Mining Cape](https://runescape.wikia.com/wiki/Mining_cape)\n • Activating gives +1 level for 1 minute\n\n[Spicy Stew](http://runescape.wikia.com/wiki/Spicy_stew)\n • Boost is applied to a random skill\n • Up to ±6 with 3 spice doses\n • Up to ±3 with 2 spice doses\n • Up to ±1 with 1 spice dose\n\n[God Banner](http://runescape.wikia.com/wiki/God_banner)\n• Skill boost: +2 levels\n• The boost can be used once per day and lasts for 30 minutes\n\n[Stoneberry](https://runescape.wikia.com/wiki/Stoneberry)\n• +2 levels\n• Requires access to [The Arc](http://runescape.wikia.com/wiki/The_Arc)\n• Reduces Defence by 1 level\n\n[Mature dwarven stout](https://runescape.wikia.com/wiki/Dwarven_stout_(m)\n• +2 levels\n• Also heals 220 life points.\n•Reduces Attack, Strength and Defence by 2 or more.\n\n[Dwarven stout](https://runescape.wikia.com/wiki/Dwarven_stout)\n• +1 level\n• Also heals 190 life points. \n• Available to free to play players."
+        "value": "[Mining Cape](https://runescape.wikia.com/wiki/Mining_cape)\n • Activating gives +1 level for 1 minute\n\n[Spicy Stew](http://runescape.wikia.com/wiki/Spicy_stew)\n • Boost is applied to a random skill\n • Up to ±6 with 3 spice doses\n • Up to ±3 with 2 spice doses\n • Up to ±2 with 1 spice dose\n\n[God Banner](http://runescape.wikia.com/wiki/God_banner)\n• Skill boost: +2 levels\n• The boost can be used once per day and lasts for 30 minutes\n\n[Stoneberry](https://runescape.wikia.com/wiki/Stoneberry)\n• +2 levels\n• Requires access to [The Arc](http://runescape.wikia.com/wiki/The_Arc)\n• Reduces Defence by 1 level\n\n[Mature dwarven stout](https://runescape.wikia.com/wiki/Dwarven_stout_(m)\n• +2 levels\n• Also heals 220 life points.\n•Reduces Attack, Strength and Defence by 2 or more.\n\n[Dwarven stout](https://runescape.wikia.com/wiki/Dwarven_stout)\n• +1 level\n• Also heals 190 life points. \n• Available to free to play players."
       },
       {
         "name": "​",
@@ -440,5 +439,4 @@ exports.data = {
         "value": "[Voice of Seren - Trahaearn](http://runescape.wikia.com/wiki/Voice_of_Seren#Known_effects)\n• 20% more base Mining XP ores, gems, and Seren Stones in the district. Mining any type of ore has a chance of yielding corrupted ore (this occurs at any mining level, and will count towards the 100 needed to unlock the \"of the Trahaearn\" title.).\n• Ore rocks have a chance of changing into harmonised rocks temporarily, allowing the rocks to be mined without running out of ore. \n\n[Mining accumulator](https://runescape.wikia.com/wiki/Mining_accumulator) \n• The mining accumulator is an [Invention device](https://runescape.wikia.com/wiki/Devices) that gains charges whenever the player fails to mine. It gains 1% completion for a failed mining action. When it reaches 100% completion, it can be studied for 2,500 Mining experience, which destroys the accumulator."
       }
       ]
-  }
-};
+  };

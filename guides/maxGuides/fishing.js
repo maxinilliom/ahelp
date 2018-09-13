@@ -635,7 +635,7 @@ exports.data = {
          },
          {  
             "name":"​",
-            "value":"[Spicy stew](https://runescape.wikia.com/wiki/Spicy_stew)\n\t•  Boost is applied to a random skill\n\t•  Up to ±5 with 3 spice doses\n\t•  Up to ±3 with 2 spice doses\n\t•  Up to ±1 with 1 spice dose"
+            "value":"[Spicy stew](https://runescape.wikia.com/wiki/Spicy_stew)\n\t•  Boost is applied to a random skill\n\t•  Up to ±6 with 3 spice doses\n\t•  Up to ±3 with 2 spice doses\n\t•  Up to ±2 with 1 spice dose"
          },
          {  
             "name":"​",
@@ -768,5 +768,4 @@ exports.data = {
             "value":"[Fishing accumulators](https://runescape.wikia.com/wiki/Fishing_accumulator)\nFishing accumulators can be created by players with at least level 60 Invention. They can also be bought from the [Grand Exchange](http://runescape.wikia.com/wiki/Grand_Exchange). When held in the player’s inventory, a Fishing accumulator gains charges each time that the player fails to fish. The accumulator can then be studied to gain experience. 2,500 Fishing experience is gained from studying a fully charged Fishing accumulator."
          }
       ]
-   }
-};
+   };

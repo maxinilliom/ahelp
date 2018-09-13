@@ -290,7 +290,7 @@ exports.data = {
     "fields": [
     {
       "name": "▬▬ Vyres ▬▬",
-      "value": "While not the best method in terms of time, killing [Vyrelords](http://runescape.wikia.com/wiki/Vyrelord) is a method which can be utilized to gain Prayer, Firemaking, Farming, Combat experience at the same time. A useful guide can be found [here](https://www.youtube.com/watch?v=Qihc0peYSTw)."
+      "value": "While not the best method in terms of time, killing [Vyrelords](http://runescape.wikia.com/wiki/Vyrelord) is a method which can be utilized to gain Prayer, Firemaking, Farming, Combat experience at the same time. For a detailed guide, watch [Updated Vyrewatch Camping Guide | puretppc - YouTube](https://www.youtube.com/watch?v=Qihc0peYSTw)."
     },
     {
       "name": "▬▬ Turoths ▬▬",
@@ -434,7 +434,7 @@ exports.data = {
     "fields": [
       {
         "name": "​",
-        "value": "At level 80, 3906.5 experience is awarded per day for either:\n\n• Investigating [Nemi Forest](http://runescape.wikia.com/wiki/Nemi_Forest) Flora\n• Planting 1 of various types of herbs\n\nDaily challenges may be extended for 50 [Vis Wax](http://runescape.wikia.com/wiki/Vis_wax) for double the reward.\n\nA full chart of the experience per level for the daily challenge may be found [here](http://runescape.wikia.com/wiki/Challenge_System/Farming)."
+        "value": "At level 80, 3,906.5 experience is awarded per day for either:\n\n• Investigating [Nemi Forest](http://runescape.wikia.com/wiki/Nemi_Forest) Flora\n• Planting 1 of various types of herbs\n\nDaily challenges may be extended for 50 [Vis Wax](http://runescape.wikia.com/wiki/Vis_wax) for double the reward.\n\nA full chart of the experience per level for the daily challenge may be found [here](http://runescape.wikia.com/wiki/Challenge_System/Farming)."
       }
       ]
   },
@@ -457,15 +457,31 @@ exports.data = {
     "fields": [
       {
         "name": "Farmer's Outfit",
-        "value": "• The [Farmer's Outfit](http://runescape.wikia.com/wiki/Farmer%27s_outfit) is experience-boosting set for the Farming skill. It can be acquired from [Treasure Hunter](http://runescape.wikia.com/wiki/Treasure_Hunter) or as a reward from [Cabbage Facepunch Bonanza](http://runescape.wikia.com/wiki/Cabbage_Facepunch_Bonanza) minigame. Each piece grants 1% bonus to Farming experience, wearing the full set grants 6%. The [Modified Farmer's Hat](http://runescape.wikia.com/wiki/Modified_farmer%27s_hat) is made by using a Farmer's Hat on a hat add-on. In addition to granting a 1% Farming experience bonus, players can also receive two [Bird's Nests](http://runescape.wikia.com/wiki/Bird%27s_nest#Rewards_from_Giant_Mole) a day or four if they have four or more pieces of the farmer's outfit. Players can also teleport to the Morytania allotment patch three times a day, or to Taverley if they do not have access to Morytania. When the hat is worn, there is a 2% chance of saving seeds when sowing."
+        "value": "• The [Farmer's Outfit](http://runescape.wikia.com/wiki/Farmer%27s_outfit) is experience-boosting set for the Farming skill. It can be won from [Treasure Hunter](http://runescape.wikia.com/wiki/Treasure_Hunter) or as a reward from [Cabbage Facepunch Bonanza](http://runescape.wikia.com/wiki/Cabbage_Facepunch_Bonanza) minigame. Each piece grants 1% bonus to Farming experience, wearing the full set grants 6%. The [Modified Farmer's Hat](http://runescape.wikia.com/wiki/Modified_farmer%27s_hat) is made by using a Farmer's Hat on a hat add-on. In addition to granting a 1% Farming experience bonus, players can also receive two [Bird's Nests](http://runescape.wikia.com/wiki/Bird%27s_nest#Rewards_from_Giant_Mole) a day or four if they have four or more pieces of the farmer's outfit. Players can also teleport to the Morytania allotment patch three times a day, or to Taverley if they do not have access to Morytania. When the hat is worn, there is a 2% chance of saving seeds when sowing."
+      },
+      {
+        "name": "Elite Animal Farmer Outfit",
+        "value": "• Uses the farmer's outfit's bonus experience if owned\n• Animals age 5% faster when you're at Manor Farm\n• 5% more beans from Farmers' Market sales\n• Better chance of positive traits from breeding and checking\n• Remote access to Manor Farm teleports (if owned in bank)"
+      },
+      {
+        "name": "Elite Crop Farmer Outfit",
+        "value": "• Uses the farmer's outfit's bonus experience if owned\n• 5% chance to harvest more hops, herbs and allotment crops\n• Herbs auto-cleaned on harvest\n• Planted hop, herb, flower and allotment patches are auto-watered\n• Remote access to Herblore Habitat teleport items (if owned in bank)"
+      },
+      {
+        "name": "Elite Tree Farmer Outfit",
+        "value": "• Uses the farmer's outfit's bonus experience if owned\n• Protection payment discount (-1 to a minimum of 1)\n• Can cast [Rapid Growth](http://runescape.wikia.com/wiki/Rapid_Growth) up to twice per patch, per day\n• 5% chance to gain bonus produce when harvesting fruit trees and bushes\n• Remote access to seed pod teleports (if owned in bank)"
+      },
+      {
+        "name": "Master Farmer Outfit",
+        "value": "• Combination of all 3 Elite Farmer Outfits\n• Uses the farmer's outfit's bonus experience if owned\n• Animals age 7% faster when the player is at the Manor Farm\n• Better chance of positive traits from breeding and checking\n• 10% more beans from Farmers' Market sales\n• 10% chance to harvest more hops, herbs and allotment crops\n• Herbs auto-cleaned on harvest\n• Planted hop, herb, flower and allotment seeds are auto-watered\n• Protection payment discount (-2 to a minimum of 1)\n• Can cast Rapid Growth up to twice per patch, per day\n• 10% chance to gain bonus produce when harvesting fruit trees and bushes\n• Remote access to\n\t- Morytania allotment teleport, if Modified farmer's hat is owned\n\t- Grand seed pod teleports, if owned in bank\n\t- Herblore Habitat, if juju teleport spiritbag or witchdoctor mask are owned\n\t- Manor Farm, if ardougne cloak 2 or 4 are owned"
       },
       {
         "name": "Farming Cape",
-        "value": "• The [Farming Cape's](http://runescape.wikia.com/wiki/Farming_cape) perk provides a chance to instantly harvest all remaining resources from a crop (stacks with [Juju Farming Potion](http://runescape.wikia.com/wiki/Juju_farming_potion) and [Greenfinger Auras](http://runescape.wikia.com/wiki/Greenfingers_aura)), and notes the harvested crops automatically."
+        "value": "• The Farming Cape's perk provides a chance to instantly harvest all remaining resources from a crop (stacks with [Juju Farming Potion](http://runescape.wikia.com/wiki/Juju_farming_potion) and [Greenfinger Auras](http://runescape.wikia.com/wiki/Greenfingers_aura)), and notes the harvested crops automatically."
       },
       {
         "name": "Scroll of Life",
-        "value": "• The [Scroll of Life](http://runescape.wikia.com/wiki/Scroll_of_life) is a members only Dungeoneering reward, and can be purchased for 10,000 [Dungeoneering reward tokens](http://runescape.wikia.com/wiki/Dungeoneering_token). It requires a Farming level of 25 and a Dungeoneering level of 25. Once used, the scroll will disappear, giving the player the following permanent effect: when harvesting non-tree non-flower patches (including dead ones), the player will have a 10% chance of receiving seeds back. There is also a 5% chance of getting a seed back from a dead tree or stump."
+        "value": "• The [Scroll of Life](http://runescape.wikia.com/wiki/Scroll_of_life) is a Dungeoneering reward, that can be purchased for 10,000 [Dungeoneering reward tokens](http://runescape.wikia.com/wiki/Dungeoneering_token). It requires a Farming level of 25 and a Dungeoneering level of 25. Once used, the scroll will disappear, giving the player the following permanent effect: when harvesting non-tree non-flower patches (including dead ones), the player will have a 10% chance of receiving seeds back. There is also a 5% chance of getting a seed back from a dead tree or stump."
       },
       {
         "name": "Falador Shield 2, 3 , and 4",
@@ -500,12 +516,11 @@ exports.data = {
       },
       {
         "name": "​",
-        "value": "[Mature Cider](http://runescape.wikia.com/wiki/Mature_cider)\n• +2 Farming levels\n• Reduces melee stats\n\n[Garden Pie](http://runescape.wikia.com/wiki/Garden_pie)\n• +3 Farming Levels\n\n[Pork Pie](http://runescape.wikia.com/wiki/Pork_pie)\n• +5 Farming Levels\n\n[Pigswill](http://runescape.wikia.com/wiki/Pigswill)\n• +3 Farming levels\n• Decreases melee stats by 3\n\n[Mature Pigswill](http://runescape.wikia.com/wiki/Mature_pigswill)\n• +4 Farming levels\n• Decreases melee stats by 3\n\n[God Banner](http://runescape.wikia.com/wiki/God_banner)\n• +2 levels\n• Lasts 30 minutes once per day\n\n[Spicy Stew](http://runescape.wikia.com/wiki/Spicy_stew)\n • Boost is applied to a random skill\n • Up to ±5 with 3 spice doses\n • Up to ±3 with 2 spice doses\n • Up to ±1 with 1 spice dose\n\n[Juju Farming Potion](http://runescape.wikia.com/wiki/Juju_farming_potion)\n• One in three chance of picking twice the amount of herbs from a patch"
+        "value": "[Mature Cider](http://runescape.wikia.com/wiki/Mature_cider)\n• +2 Farming levels\n• Reduces melee stats\n\n[Garden Pie](http://runescape.wikia.com/wiki/Garden_pie)\n• +3 Farming Levels\n\n[Pork Pie](http://runescape.wikia.com/wiki/Pork_pie)\n• +5 Farming Levels\n\n[Pigswill](http://runescape.wikia.com/wiki/Pigswill)\n• +3 Farming levels\n• Decreases melee stats by 3\n\n[Mature Pigswill](http://runescape.wikia.com/wiki/Mature_pigswill)\n• +4 Farming levels\n• Decreases melee stats by 3\n\n[God Banner](http://runescape.wikia.com/wiki/God_banner)\n• +2 levels\n• Lasts 30 minutes once per day\n\n[Spicy Stew](http://runescape.wikia.com/wiki/Spicy_stew)\n • Boost is applied to a random skill\n • Up to ±6 with 3 spice doses\n • Up to ±3 with 2 spice doses\n • Up to ±2 with 1 spice dose\n\n[Juju Farming Potion](http://runescape.wikia.com/wiki/Juju_farming_potion)\n• One in three chance of picking twice the amount of herbs from a patch"
       },
       {
         "name": "​",
         "value": "[Perfect Juju Farming Potion](http://runescape.wikia.com/wiki/Perfect_juju_farming_potion)\n• 5% chance of getting harmony moss from any farming patch \n• 25% chance of getting two harmony moss at once from a harmony pillar"
       }
        ]
-  }
-};
+  };

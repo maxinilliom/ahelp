@@ -270,7 +270,6 @@ exports.data = {
         "value": "[Ascension Bolts](http://runescape.wikia.com/wiki/Ascension_bolts) may be fletched from [Ascension Shards](http://runescape.wikia.com/wiki/Ascension_shard) in a 1:1 ratio, requiring level 90 Fletching. They give 200 experience per 10 bolts made. Each action makes 15 sets of bolts and about 20,000 bolts may be made per hour for a total of 400,000 experience. An estimated 384,405 Shards will be needed in order to obtain 99 from 90."
       }
       ]
-
   },
   "95 - 99 +": {
     "title": "Fletching Training Levels 95-99+",
@@ -456,6 +455,10 @@ exports.data = {
     },
     "fields": [
       {
+        "name": "Fletching Cape",
+        "value": "• The [Fletching Cape's](http://runescape.wikia.com/wiki/Fletching_cape) perk provides a chance to make extra bolts, arrows, and darts."
+      },
+      {
         "name": "Fletcher's Outfit",
         "value": "• The [Fletcher's Outfit](http://runescape.wikia.com/wiki/Fletcher%27s_outfit) is an experience-boosting set that can be obtained from [Treasure Hunter](http://runescape.wikia.com/wiki/Treasure_Hunter) and as a reward from [Stealing Creation](http://runescape.wikia.com/wiki/Stealing_Creation) costing 100 reward points per piece. When one item is worn, it gives experience bonus of 1%. When all of the pieces of the set are worn, a 1% set bonus is added; thus, the full 5-piece set provides a total of 6% bonus."
       }
@@ -480,8 +483,7 @@ exports.data = {
     "fields": [
       {
         "name": "Fletching Boosts",
-        "value": "[Fletching Cape](http://runescape.wikia.com/wiki/Fletching_cape)\n • 5% chance to automatically string a bow\n\n[Spicy Stew](http://runescape.wikia.com/wiki/Spicy_stew)\n • Boost is applied to a random skill\n • Up to ±5 with 3 spice doses\n • Up to ±3 with 2 spice doses\n • Up to ±1 with 1 spice dose\n\n[Fletching Potion](http://runescape.wikia.com/wiki/Fletching_potion)\n• +3 Levels\n\n[Sacred Clay Fletching Knife](http://runescape.wikia.com/wiki/Sacred_clay_fletching_knife)\n• 24,450 bonus experience \n• 20 Stealing Creation points\n\n[Volatile Clay Fletching Knife](http://runescape.wikia.com/wiki/Volatile_clay_fletching_knife)\n• 29,340 bonus experience\n• 20 Stealing Creation points\n\n[Portable Fletcher](http://runescape.wikia.com/wiki/Portable_fletcher)\n• 10% experience boost\n• 10% chance to save logs when Fletching bows or crossbows\n• 10% chance to save arrowheads and headless arrows\n• 10% chance to save unfinished bolts and feathers"
+        "value": "[Fletching Cape](http://runescape.wikia.com/wiki/Fletching_cape)\n• +1 Fletching level for 1 minute\n\n[Spicy Stew](http://runescape.wikia.com/wiki/Spicy_stew)\n • Boost is applied to a random skill\n • Up to ±6 with 3 spice doses\n • Up to ±3 with 2 spice doses\n • Up to ±2 with 1 spice dose\n\n[Fletching Potion](http://runescape.wikia.com/wiki/Fletching_potion)\n• +3 Levels\n\n[Sacred Clay Fletching Knife](http://runescape.wikia.com/wiki/Sacred_clay_fletching_knife)\n• 24,450 bonus experience \n• 20 Stealing Creation points\n\n[Volatile Clay Fletching Knife](http://runescape.wikia.com/wiki/Volatile_clay_fletching_knife)\n• 29,340 bonus experience\n• 20 Stealing Creation points\n\n[Portable Fletcher](http://runescape.wikia.com/wiki/Portable_fletcher)\n• 10% experience boost\n• 10% chance to save logs when Fletching bows or crossbows\n• 10% chance to save arrowheads and headless arrows\n• 10% chance to save unfinished bolts and feathers"
       }
         ]
-  }
-};
+  };

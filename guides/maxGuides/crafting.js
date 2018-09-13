@@ -59,8 +59,8 @@ exports.data = {
   },
   "63 - 99 +": {
     "title": "Crafting Training Levels 63-99+",
-    "description": "D'hide bodies/shields",
-    "url": "http://runescape.wikia.com/wiki/Pay-to-play_Crafting_training#Dragonhide_armour_-_fast_and_expensive",
+    "description": "At level 63, players can start using [Dragon Leather](http://runescape.wikia.com/wiki/Dragon_leather) to continue training Crafting. With the dragon leather of choice, players should be making either dragonhide bodies or dragonhide shields. Making [Dragonhide Armour](http://runescape.wikia.com/wiki/Dragonhide_armour) offers very high experience rates, but at a much higher cost. A table containing experience rates and cost per experience gained can be found [here](http://runescape.wikia.com/wiki/Pay-to-play_Crafting_training#Cost_analysis_-_dragonhide_armour).",
+    "url": "http://runescape.wikia.com/wiki/Pay-to-play_Crafting_training#Level_63.2B",
     "color": 13118778,
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
@@ -72,11 +72,17 @@ exports.data = {
     "author": {
       "name": "Max Cape Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "fields": [ 
+    {
+       "name":"Alternative Method",
+       "value":"Alternatively, players can continue making [battlestaves](http://runescape.wikia.com/wiki/Battlestaves) to reach level 99. This is a cheaper alternative compared to dragonhide armor, but experience rates are a bit lower."
     }
+    ]
   },
   "alternate methods": {
     "title": "Alternative Methods of Training",
-    "description": "Harps, Citadel, Dungeoneering, Mention Dice AF Gem Cutting",
+    "description": "Some users may wish to utilize methods outside of the ones displayed in this channel's guide. To aid in this, the following alternative methods are provided.",
     "url": "http://runescape.wikia.com/wiki/Pay-to-play_Crafting_training#Other_ways_to_train",
     "color": 12269891,
     "footer": {
@@ -89,7 +95,33 @@ exports.data = {
     "author": {
       "name": "Max Cape Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
-    }
+    },
+     "fields": [
+      {
+        "name": "▬▬ Protean Hide ▬▬",
+        "value": "[Protean Hide](http://runescape.wikia.com/wiki/Protean_hide) can be won from [Treasure Hunter](http://runescape.wikia.com/wiki/Treasure_Hunter). The hides are used to earn Crafting experience without creating any items. The experience given by each protean hide scales according to the player's Crafting level (unaffected by level boosts), and each hide takes 3 seconds to process. A table that provides the amount of experience gained from one protean hide based on Crafting level, and the associated experience per hour (based on crafting 1,200 hides per hour) can be found [here](http://runescape.wikia.com/wiki/Protean_hide)."
+      },
+      {
+        "name": "▬▬ Clan Citadel ▬▬",
+        "value": "Training on the [loom](http://runescape.wikia.com/wiki/Loom_(Clan_Citadels) in a [Clan Citadel](http://runescape.wikia.com/wiki/Clan_Citadel) (tier 5 or higher) is both fast and free. The experience scales to the players level, with higher levels achieving around 120,000 experience per hour, for a total of about 200,000 experience each week (assuming the player has achieved a fealty of 3). Players who have completed over 50% of their cap can also claim some bonus experience from the [Quartermaster](http://runescape.wikia.com/wiki/Quartermaster_(Clan_Citadels), which can go towards any of the skills available in the citadel; a player with level 99 Crafting can claim 55,226 bonus experience for doing this."
+      },
+      {
+        "name": "▬▬ Cutting Gems ▬▬",
+        "value": "Cutting gems is the fast and expensive way of training Crafting. Although it's fast, obtaining the required amount of gems may take a while. A table showing experience rates for the different types of gems can be found [here](http://runescape.wikia.com/wiki/Pay-to-play_Crafting_training#Fast_and_expensive_-_cutting_gems)."
+      },
+      {
+        "name": "▬▬ Harps ▬▬",
+        "value": "Playing the [harps](http://runescape.wikia.com/wiki/Harp) located within the [Ithell](http://runescape.wikia.com/wiki/Ithell_Clan) district offers moderate (about 50,000 experience per hour, as well as a little construction experience) rates with little attention required. A player must have completed [Plague's End](http://runescape.wikia.com/wiki/Plague%27s_End) and have at least 75 Crafting in order to use the harps. Playing the harps will yield small amounts of [harmonic dust](http://runescape.wikia.com/wiki/Harmonic_dust), which is used to craft [crystal tools](http://runescape.wikia.com/wiki/Crystal_equipment#Crystal_tools) and [equipment](http://runescape.wikia.com/wiki/Crystal_equipment). Harps will gradually fall out of tune in increments of 10%, granting only half the harmonic dust at 50%, and becoming totally unplayable at 100%; the harp can be tuned again at any time, granting 50 construction experience for every 10% tuned."
+      },
+      { 
+        "name": "▬▬ Stealing Creation ▬▬", 
+        "value": "[Stealing Creation](http://runescape.wikia.com/wiki/Stealing_Creation) is a minigame located in the [Gamers' Grotto](http://runescape.wikia.com/wiki/Gamers%27_Grotto) with a reward shop ran by [Rewards Mystic](http://runescape.wikia.com/wiki/Rewards_mystic) in the north-east corner. The goal of the minigame, played in two opposing teams, is to collect and process as much [clay](http://runescape.wikia.com/wiki/Sacred_clay) as possible, and deposit it at the base. However, the two teams may attack each other, claiming all of one's held clay and items upon death. No items may be taken into the game, either in inventory or worn, nor any pets or familiars. There is a bank deposit box right by the entrance. Items on the tool belt do not work in the game. Games can last up to 20 minutes, but they can end earlier if all resources in the play arena are exhausted."
+      }, 
+      { 
+        "name": "​", 
+        "value": "Points are given based on the actions performed during each game, with a breakdown found [here](http://runescape.wikia.com/wiki/Stealing_Creation/Rewards#Point_system). Players can buy items such as the [Volatile tool](http://runescape.wikia.com/wiki/Volatile_clay_tool), the [Proto-tool](http://runescape.wikia.com/wiki/Proto-tool), and the different types of [Sacred Clay Armour and Weapons](http://runescape.wikia.com/wiki/Sacred_clay_equipment). Volatile tools provide 29,340 bonus experience but change at random. All other rewards, except for the [shield](http://runescape.wikia.com/wiki/Sacred_clay_equipment#Shields), provide 24,450 bonus experience. The [Artisan's outfit](http://runescape.wikia.com/wiki/Artisan%27s_outfit) and [Fletcher's outfit](http://runescape.wikia.com/wiki/Fletcher%27s_outfit) can be bought at the reward shop as well. For more in-depth information about each reward, refer to the main article using this [link](http://runescape.wikia.com/wiki/Stealing_Creation/Rewards#Reward_equipment)."
+      }
+      ]
   },
   "pet - gemi": {
     "title": "Crafting Pet - Gemi",
@@ -129,7 +161,7 @@ exports.data = {
   "quests": {
     "title": "Quests which Grant Crafting Experience",
     "url": "http://runescape.wikia.com/wiki/Quests/Experience_rewards#Crafting",
-    "description": "Currently, a total of 554,899 experience may be gained specifically to crafting throughout all of the RuneScape Quests. These rewards are automatically given and there is no choice involved. It is possible to gain a further 60,000 experience by creating [Illuminated God Books](http://runescape.wikia.com/wiki/Illuminated_god_book) post [One Piercing Note](http://runescape.wikia.com/wiki/One_Piercing_Note).",
+    "description": "Currently, a total of 554,899 experience may be gained specifically to Crafting throughout all of the RuneScape Quests. These rewards are automatically given and there is no choice involved. It is possible to gain a further 60,000 experience by creating [Illuminated God Books](http://runescape.wikia.com/wiki/Illuminated_god_book) post [One Piercing Note](http://runescape.wikia.com/wiki/One_Piercing_Note).",
         "color": 12269891,
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
@@ -150,33 +182,33 @@ exports.data = {
       ]
   },
   "distractions and diversions": { 
-    "title": "Distractions and Diversions", 
-    "url": "http://runescape.wikia.com/wiki/Distractions_and_Diversions", 
-    "description": "D&Ds are a subclassification of minigames. However, unlike minigames many D&Ds move around the world to various locations, have a limit on how often they can be played, and only occur at particular times of day.\n\nDistractions and Diversions aim to divert the original intentions of the player in order to provide an interesting distraction from their everyday routines. D&Ds come in many different shapes and sizes; covering Combat, Gathering, Artisan, and Support skills. There are a wide variety of different options available to suit the players choice.", 
-    "color": 12269891, 
-    "footer": { 
-    "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg", 
-    "text": "Achievement Help | Helping you reach your goals, whatever they may be!" 
-    }, 
-    "thumbnail": { 
-    "url": "https://vignette.wikia.nocookie.net/runescape2/images/6/62/D%26D_icon.png/revision/latest?cb=20140914110639" 
-    }, 
-    "author": { 
-    "name": "Max Cape Info", 
-    "icon_url": "https://i.imgur.com/6c6q2iC.png" 
-    }, 
-    "fields": [ 
+      "title": "Distractions and Diversions", 
+      "url": "http://runescape.wikia.com/wiki/Distractions_and_Diversions", 
+      "description": "D&Ds are a subclassification of minigames. However, unlike minigames many D&Ds move around the world to various locations, have a limit on how often they can be played, and only occur at particular times of day.\n\nDistractions and Diversions aim to divert the original intentions of the player in order to provide an interesting distraction from their everyday routines. D&Ds come in many different shapes and sizes; covering Combat, Gathering, Artisan, and Support skills. There are a wide variety of different options available to suit the players choice.", 
+          "color": 12269891, 
+      "footer": { 
+       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg", 
+       "text": "Achievement Help | Helping you reach your goals, whatever they may be!" 
+       }, 
+      "thumbnail": { 
+     "url": "https://vignette.wikia.nocookie.net/runescape2/images/6/62/D%26D_icon.png/revision/latest?cb=20140914110639" 
+       }, 
+      "author": { 
+      "name": "Max Cape Info", 
+      "icon_url": "https://i.imgur.com/6c6q2iC.png" 
+      }, 
+      "fields": [ 
 
-    { 
-    "name": "▬▬ Mazcab Supply Runs ▬▬", 
+      { 
+     "name": "▬▬ Mazcab Supply Runs ▬▬", 
     "value": "[Supply Runs](http://runescape.wikia.com/wiki/Supply_run) are a safe activity that take place on [Mazcab](http://runescape.wikia.com/wiki/Mazcab) every 12 hours (at midnight and noon game time). The activity begins with goebie supplies spawning at the supply rock near to Querci in Kanatah and is available until 25 minutes past the hour. Players may take up to 10 goebie supplies per day from the supply rock. Upon taking goebie supplies players become flagged for safe PvP and can be attacked by other players, with death resulting in the loss of all goebie supplies that the players are carrying. After obtaining goebie supplies players must travel north-west through the Nemi Forest to Otot, where the supplies may be exchanged for experience with Quercy. " 
-    }, 
-    { 
-    "name": "​", 
-    "value": "The player will be given a choice between two skills in which to gain experience: Agility or Crafting, Farming or Herblore and Hunter or Woodcutting. Different skills are offered on different worlds, so players may change worlds to find a world where the skill in which they wish to gain experience is offered. Between 495, with level 1, and 48,515, with level 99, experience can be gained from exchanging 10 goebie supplies. Assuming the activity is completed in 5 minutes, experience is awarded at a rate equivalent to between 5,940, with level 1, and 582,180, with level 99, experience an hour. [Source](http://runescape.wikia.com/wiki/Agility_training#Supply_runs)." 
-    }
-    ]
-  },
+       }, 
+     { 
+     "name": "​", 
+     "value": "The player will be given a choice between two skills in which to gain experience: Agility or Crafting, Farming or Herblore and Hunter or Woodcutting. Different skills are offered on different worlds, so players may change worlds to find a world where the skill in which they wish to gain experience is offered. Between 495, with level 1, and 48,515, with level 99, experience can be gained from exchanging 10 goebie supplies. Assuming the activity is completed in 5 minutes, experience is awarded at a rate equivalent to between 5,940, with level 1, and 582,180, with level 99, experience an hour. [Source](http://runescape.wikia.com/wiki/Agility_training#Supply_runs)." 
+     }
+     ] 
+},
   "daily challenge": {
     "title": "Daily Challenge",
     "url": "http://runescape.wikia.com/wiki/Challenge_System/Crafting",
@@ -219,7 +251,7 @@ exports.data = {
     "fields": [
       {
         "name": "Crafting Cape",
-        "value": "• The [Crafting Cape's](http://runescape.wikia.com/wiki/Crafting_cape) perk removes the need for thread when crafting [Leathers](http://runescape.wikia.com/wiki/Leather_(disambiguation)."
+        "value": "• The [Crafting Cape's](http://runescape.wikia.com/wiki/Crafting_cape) provides a chance to cut all gems in your inventory at once and provides unlimited thread."
       },
       {
         "name": "Artisan's Outfit",
@@ -250,8 +282,7 @@ exports.data = {
     "fields": [
       {
         "name": "Crafting Boosts",
-        "value": "[Crafting Potion](http://runescape.wikia.com/wiki/Crafting_potion)\n •When consumed, Crafting Potions temporarily raise the player's Crafting level by 3.\n\n[Spicy Stew](http://runescape.wikia.com/wiki/Spicy_stew)\n • Boost is applied to a random skill\n • Up to ±5 with 3 spice doses\n • Up to ±3 with 2 spice doses\n • Up to ±1 with 1 spice dose\n\n[God Banner](http://runescape.wikia.com/wiki/God_banner)\n• Skill boost: +2 levels\n• The boost can be used once per day and lasts for 30 minutes\n\n[Voice of Seren - Ithell](http://runescape.wikia.com/wiki/Voice_of_Seren#Known_effects)\n• 20% more base Crafting and Construction XP from training using the [harps](http://runescape.wikia.com/wiki/Harp).\n• 20% more base Crafting XP from crafting [crystal flasks](http://runescape.wikia.com/wiki/Crystal_flask).\n"
+        "value": "[Crafting Cape](http://runescape.wikia.com/wiki/Crafting_cape)\n • +1 to Crafting for 1 minute\n\n[Crafting Potion](http://runescape.wikia.com/wiki/Crafting_potion)\n • When consumed, Crafting Potions temporarily raise the player's Crafting level by 3.\n\n[Spicy Stew](http://runescape.wikia.com/wiki/Spicy_stew)\n • Boost is applied to a random skill\n • Up to ±6 with 3 spice doses\n • Up to ±3 with 2 spice doses\n • Up to ±2 with 1 spice dose\n\n[God Banner](http://runescape.wikia.com/wiki/God_banner)\n• Skill boost: +2 levels\n• The boost can be used once per day and lasts for 30 minutes\n\n[Voice of Seren - Ithell](http://runescape.wikia.com/wiki/Voice_of_Seren#Known_effects)\n• 20% more base Crafting and Construction XP from training using the [harps](http://runescape.wikia.com/wiki/Harp).\n• 20% more base Crafting XP from crafting [crystal flasks](http://runescape.wikia.com/wiki/Crystal_flask).\n"
       }
       ]
-  }
-};
+  };

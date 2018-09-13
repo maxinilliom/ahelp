@@ -113,6 +113,10 @@ exports.data = {
     "url": "http://runescape.wikia.com/wiki/Hunter_training#Levels_77-96:_grenwalls_using_Crystallise",
     "description": "Players who have at least level 77 Hunter can hunt [Grenwalls](http://runescape.wikia.com/wiki/Grenwall) using box traps, after completing the [Regicide](http://runescape.wikia.com/wiki/Regicide) quest to gain access to [Isafdar](http://runescape.wikia.com/wiki/Isafdar). For maximum efficiency this method requires access to [Crystallise](http://runescape.wikia.com/wiki/Crystallise) and [Light Form](http://runescape.wikia.com/wiki/Light_Form) as well as completion of the medium set of [Tirannwn tasks](http://runescape.wikia.com/wiki/Tirannwn_achievements), which allows players to trap grenwalls without bait. It is useful to bring a [Bonecrusher](http://runescape.wikia.com/wiki/Bonecrusher) and [Herbicide](http://runescape.wikia.com/wiki/Herbicide) to convert some of the items received from hunting grenwalls into Prayer and Herblore experience. The use of [Demon Horn](http://runescape.wikia.com/wiki/Demon_horn_necklace), [Twisted Bird Skull](http://runescape.wikia.com/wiki/Twisted_bird_skull_necklace), or [Split Dragontooth Necklace](http://runescape.wikia.com/wiki/Split_dragontooth_necklace) in addition to a bonecrusher can restore the player's prayer points, removing the need to bring prayer potions for the use of Light Form although Prayer Renewals may still be needed especially at lower levels. Grenwalls can be found in three locations; at the [Gorajo Resource Dungeon](http://runescape.wikia.com/wiki/Gorajo_resource_dungeon) in [Meilyr Clan](http://runescape.wikia.com/wiki/Meilyr_Clan) requiring level 95 Dungeoneering, just south of the [Elf Camp](http://runescape.wikia.com/wiki/Elf_Camp) and at the the Grenwall Portal. Normally, laying a box trap takes 6 game ticks (3.6 seconds). If, however, you drink a potion and set the trap in the same tick, the trap will be set in just one tick. This method while less afk will grant much higher experience rates of more than 800,000 Hunter experience an hour at level 99.",
         "color": 12269891,
+    "footer": {
+      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
+    },
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/0/0a/Grenwall.png/revision/latest?cb=20160702123331"
     },
@@ -138,6 +142,10 @@ exports.data = {
     },
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/3/35/Amphibious_jadinko.png/revision/latest?cb=20130626213931"
+    },
+    "author": {
+      "name": "Max Cape Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
     "fields": [
             {
@@ -219,15 +227,15 @@ exports.data = {
         "name": "▬▬ Divine Location ▬▬",
         "value": "A [Divine Location](http://runescape.wikia.com/wiki/Divine_location) is a gathering hub that can be placed almost anywhere using the Divination skill. Players may only collect a certain number of resources from divine locations per day, both through their own gathering and contributions from a created location, based on their total level and will be notified when they are close to their daily limit, reaching a maximum cap of 250 resources once level 2,500+. The maximum cap may be temporarily increased by using vis wax. A list of locations that aid in Hunter and their requirements can be found [here](http://runescape.wikia.com/wiki/Divine_location#Divine_hunter_spots)."
       },
-      { 
-      "name": "▬▬ Stealing Creation ▬▬", 
-      "value": "[Stealing Creation](http://runescape.wikia.com/wiki/Stealing_Creation) is a minigame located in the [Gamers' Grotto](http://runescape.wikia.com/wiki/Gamers%27_Grotto) with a reward shop ran by [Rewards Mystic](http://runescape.wikia.com/wiki/Rewards_mystic) in the north-east corner. The goal of the minigame, played in two opposing teams, is to collect and process as much [clay](http://runescape.wikia.com/wiki/Sacred_clay) as possible, and deposit it at the base. However, the two teams may attack each other, claiming all of one's held clay and items upon death. No items may be taken into the game, either in inventory or worn, nor any pets or familiars. There is a bank deposit box right by the entrance. Items on the tool belt do not work in the game. Games can last up to 20 minutes, but they can end earlier if all resources in the play arena are exhausted."
-      }, 
-      { 
-      "name": "​", 
-      "value": "Points are given based on the actions performed during each game, with a breakdown found [here](http://runescape.wikia.com/wiki/Stealing_Creation/Rewards#Point_system). Players can buy items such as the [Volatile tool](http://runescape.wikia.com/wiki/Volatile_clay_tool), the [Proto-tool](http://runescape.wikia.com/wiki/Proto-tool), and the different types of [Sacred Clay Armour and Weapons](http://runescape.wikia.com/wiki/Sacred_clay_equipment). Volatile tools provide 29,340 bonus experience but change at random. All other rewards, except for the [shield](http://runescape.wikia.com/wiki/Sacred_clay_equipment#Shields), provide 24,450 bonus experience. The [Artisan's outfit](http://runescape.wikia.com/wiki/Artisan%27s_outfit) and [Fletcher's outfit](http://runescape.wikia.com/wiki/Fletcher%27s_outfit) can be bought at the reward shop as well. For more in-depth information about each reward, refer to the main article using this [link](http://runescape.wikia.com/wiki/Stealing_Creation/Rewards#Reward_equipment)."
-      }, 
-      {
+{ 
+"name": "▬▬ Stealing Creation ▬▬", 
+"value": "[Stealing Creation](http://runescape.wikia.com/wiki/Stealing_Creation) is a minigame located in the [Gamers' Grotto](http://runescape.wikia.com/wiki/Gamers%27_Grotto) with a reward shop ran by [Rewards Mystic](http://runescape.wikia.com/wiki/Rewards_mystic) in the north-east corner. The goal of the minigame, played in two opposing teams, is to collect and process as much [clay](http://runescape.wikia.com/wiki/Sacred_clay) as possible, and deposit it at the base. However, the two teams may attack each other, claiming all of one's held clay and items upon death. No items may be taken into the game, either in inventory or worn, nor any pets or familiars. There is a bank deposit box right by the entrance. Items on the tool belt do not work in the game. Games can last up to 20 minutes, but they can end earlier if all resources in the play arena are exhausted."
+}, 
+{ 
+"name": "​", 
+"value": "Points are given based on the actions performed during each game, with a breakdown found [here](http://runescape.wikia.com/wiki/Stealing_Creation/Rewards#Point_system). Players can buy items such as the [Volatile tool](http://runescape.wikia.com/wiki/Volatile_clay_tool), the [Proto-tool](http://runescape.wikia.com/wiki/Proto-tool), and the different types of [Sacred Clay Armour and Weapons](http://runescape.wikia.com/wiki/Sacred_clay_equipment). Volatile tools provide 29,340 bonus experience but change at random. All other rewards, except for the [shield](http://runescape.wikia.com/wiki/Sacred_clay_equipment#Shields), provide 24,450 bonus experience. The [Artisan's outfit](http://runescape.wikia.com/wiki/Artisan%27s_outfit) and [Fletcher's outfit](http://runescape.wikia.com/wiki/Fletcher%27s_outfit) can be bought at the reward shop as well. For more in-depth information about each reward, refer to the main article using this [link](http://runescape.wikia.com/wiki/Stealing_Creation/Rewards#Reward_equipment)."
+}, 
+       {
         "name": "▬▬ Waiko Reward Shop ▬▬",
         "value": "The [Waiko Reward Shop](http://runescape.wikia.com/wiki/Waiko_Reward_Shop#Consumables) is a shop located on the [Waiko](http://runescape.wikia.com/wiki/Waiko) island in [The Arc](http://runescape.wikia.com/wiki/The_Arc) region and is run by [Boni](http://runescape.wikia.com/wiki/Boni_(rewards). Players must complete the [Impressing the Locals](http://runescape.wikia.com/wiki/Impressing_the_Locals) quest in order to access The Arc. The Waiko Reward Shop only accepts a combination of [Chimes](http://runescape.wikia.com/wiki/Chimes) and [Taijitu](http://runescape.wikia.com/wiki/Taijitu) as currency. Players can buy Hunter skill specific lamps from the shop for chimes."
       },
@@ -391,6 +399,10 @@ exports.data = {
     },
     "fields": [
       {
+        "name": "Hunter Cape",
+        "value": "• The [Hunter Cape's](http://runescape.wikia.com/wiki/Hunter_cape) perk increases the effective range of traps by two squares."
+      },
+      {
         "name": "Enhanced Yaktwee Stick",
         "value": "• The [Enhanced Yaktwee Stick](http://runescape.wikia.com/wiki/Enhanced_yaktwee_stick) is an upgraded version of the [yaktwee stick](http://runescape.wikia.com/wiki/Yaktwee_stick), and is obtained by catching a total of 1,000 [charm sprites](http://runescape.wikia.com/wiki/Charm_sprite) with the yaktwee stick equipped and talking to [Yaktwee Swinmari Cianta](http://runescape.wikia.com/wiki/Yaktwee_Swinmari_Cianta). When wielded, it increases the chance to get the rarer charm sprites by about 5% as well as giving 5% extra experience in any Hunter activity, as long as the activity allows the stick to be wielded. The boost also works for the [Big Chinchompa](http://runescape.wikia.com/wiki/Big_Chinchompa) Distraction and Diversion."
       },
@@ -431,7 +443,7 @@ exports.data = {
     "fields": [
       {
         "name": "Hunter Boosts",
-        "value": "[Hunter Cape](http://runescape.wikia.com/wiki/Hunter_cape)\n • Effects of Juju Hunting Potion at Herblore Habitat\n\n[Spicy Stew](http://runescape.wikia.com/wiki/Spicy_stew)\n • Boost is applied to a random skill\n • Up to ±5 with 3 spice doses\n • Up to ±3 with 2 spice doses\n • Up to ±1 with 1 spice dose\n\n[Mournberry](http://runescape.wikia.com/wiki/Mournberry)\n• +2 Levels\n• Reduces Defence by 1\n• Requires access to [The Arc](http://runescape.wikia.com/wiki/The_Arc)\n\n[Hunter Potion](http://runescape.wikia.com/wiki/Hunter_potion)\n• +3 levels\n• Does not stack with Mud Bath boost\n\n[Arctic Bear](http://runescape.wikia.com/wiki/Arctic_bear)\n• +7 invisible levels\n• Requires 71 Summoning \n\n[Wolpertinger](http://runescape.wikia.com/wiki/Wolpertinger)\n• +5 invisible levels\n• Requires 92 Summoning"
+        "value": "[Hunter Cape](http://runescape.wikia.com/wiki/Hunter_cape)\n • +1 Hunter level for 1 minute\n\n[Spicy Stew](http://runescape.wikia.com/wiki/Spicy_stew)\n • Boost is applied to a random skill\n • Up to ±6 with 3 spice doses\n • Up to ±3 with 2 spice doses\n • Up to ±2 with 1 spice dose\n\n[Mournberry](http://runescape.wikia.com/wiki/Mournberry)\n• +2 Levels\n• Reduces Defence by 1\n• Requires access to [The Arc](http://runescape.wikia.com/wiki/The_Arc)\n\n[Hunter Potion](http://runescape.wikia.com/wiki/Hunter_potion)\n• +3 levels\n• Does not stack with Mud Bath boost\n\n[Arctic Bear](http://runescape.wikia.com/wiki/Arctic_bear)\n• +7 invisible levels\n• Requires 71 Summoning \n\n[Wolpertinger](http://runescape.wikia.com/wiki/Wolpertinger)\n• +5 invisible levels\n• Requires 92 Summoning"
       },
       {
         "name": "​",
@@ -446,5 +458,4 @@ exports.data = {
         "value": "[Seren Spells/Prayer](http://runescape.wikia.com/wiki/Hunter_training#Seren_spells_and_prayers)\n• Upon completion of [The Light Within](http://runescape.wikia.com/wiki/The_Light_Within) quest, players will unlock [Seren Spells](http://runescape.wikia.com/wiki/Seren_spells). [Crystallise](http://runescape.wikia.com/wiki/Crystallise) is a Seren-alligned spell that can be cast on a shaking box and will be repeatedly checked upon being checked by the player, granting 50% additional experience each time, though no resources will be gained. This effect lasts for 30 seconds after Crystallise has been cast; it is not possible to cast Crystallise on more than one trap at the same time. With at least level 80 Prayer, players can use the [Light Form](http://runescape.wikia.com/wiki/Light_Form) prayer, which enhances the effects of Seren-aligned spells while it is activated, to further increase additional the Hunter experience gained from checking a crystallised box trap to 87.5%."
       }
         ]
-  }
-};
+  };

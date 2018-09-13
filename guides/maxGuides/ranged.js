@@ -25,8 +25,8 @@ exports.data = {
   },
   "1 - 30": {
     "title": "Ranged Training Levels 1-30",
-    "description": "From levels 1-30 players can begin training Ranged on [Troll Shamans](http://runescape.wikia.com/wiki/Troll_shaman). The trolls are level 1, with only 50 lifepoints . They can be found in the eastern section of the [Abandoned Burthorpe mine](http://runescape.wikia.com/wiki/Abandoned_Burthorpe_mine), north of [Burthorpe](http://runescape.wikia.com/wiki/Burthorpe). A player can get roughly 25,000 Combat experience per hour training here.",
-    "url": "http://runescape.wikia.com/wiki/Troll_shaman",
+    "description": "From levels 1-30 players can begin training Ranged on [Troll Shamans](http://runescape.wikia.com/wiki/Troll_shaman). The trolls are level 1, with only 50 life points. They can be found in the eastern section of the [Abandoned Burthorpe mine](http://runescape.wikia.com/wiki/Abandoned_Burthorpe_mine), north of [Burthorpe](http://runescape.wikia.com/wiki/Burthorpe). A player can get roughly 25,000 Combat experience per hour training here.",
+    "url": "http://runescape.wikia.com/wiki/Pay-to-play_Ranged_training#Levels_1_-_20",
     "color": 12269891,
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
@@ -43,17 +43,25 @@ exports.data = {
       
      {
        "name":"Recommended Armor",
-       "value":"• 1-20 [Leather Armor](http://runescape.wikia.com/wiki/Soft_leather_armour)\n\n Upgrade:\n• 20-30 [Studded Leather Armor](http://runescape.wikia.com/wiki/Studded_leather_armour)"
+       "value":"• 1-20 [Leather Armor](http://runescape.wikia.com/wiki/Soft_leather_armour)\n\nUpgrade:\n• 20-30 [Studded Leather Armor](http://runescape.wikia.com/wiki/Studded_leather_armour)"
      },
      {
        "name":"Recommended Weapons",
        "value":"• 1-30 [Chargebow](http://runescape.wikia.com/wiki/Chargebow)"
+     },
+     {
+       "name":"Alternative Method",
+       "value":"Alternatively, players can begin training Ranged on [Chickens](http://runescape.wikia.com/wiki/Chicken). The chickens are level 1, with only 50 life points. They can be found in [Lumbridge](http://runescape.wikia.com/wiki/Lumbridge), at the [East Farm](http://runescape.wikia.com/wiki/Lumbridge#East_farm) chicken coop. Players should use the recommended armor and weapons listed above."
+     },
+     {
+       "name":"Alternative Method",
+       "value":"Another alternative can be [Cows](http://runescape.wikia.com/wiki/Cow). These are level 4, with only 150 life points. They can be found in [Lumbridge](http://runescape.wikia.com/wiki/Lumbridge), at the [East Farm](http://runescape.wikia.com/wiki/Lumbridge#East_farm) cow pasture. These creatures take longer to kill, meaning less experience gained per hour, but can be worth doing to make some starting coins. Players should use the recommended armor and weapons listed above."
      }
     ]
   },
   "30 - 50": {
     "title": "Ranged Training Levels 30-50",
-    "description": "At level 30 players should now kill [Baby Blue Dragons](http://runescape.wikia.com/wiki/Baby_blue_dragon). These dragons are level 44, with 1,600 lifepoints. They can be found in [Taverly Dungeon](http://runescape.wikia.com/wiki/Taverley_Dungeon). A player can get roughly 30,000-40,000 Combat experience per hour training here.",
+    "description": "At level 30 players should now kill [Baby Blue Dragons](http://runescape.wikia.com/wiki/Baby_blue_dragon). These dragons are level 44, with 1,600 life points. They can be found in [Taverly Dungeon](http://runescape.wikia.com/wiki/Taverley_Dungeon). A player can get roughly 30,000-40,000 Combat experience per hour training here.",
     "url": "http://runescape.wikia.com/wiki/Pay-to-play_Ranged_training#Level_40_-_50",
     "color": 12269891,
     "footer": {
@@ -76,12 +84,20 @@ exports.data = {
      {
        "name":"Recommended Weapons",
        "value":"• 30-40 [Mithril Crossbow](http://runescape.wikia.com/wiki/Mithril_crossbow) and [Off-hand Mithril Crossbow](http://runescape.wikia.com/wiki/Off-hand_mithril_crossbow)\n\n Upgrade:\n• 40-50 [Adamant Crossbows](http://runescape.wikia.com/wiki/Adamant_crossbow) and [Off-hand Adamant Crossbow](http://runescape.wikia.com/wiki/Off-hand_adamant_crossbow)"
+     },
+     {
+       "name":"Alternative Method",
+       "value":"Alternatively, players can kill [Chaos Druids](http://runescape.wikia.com/wiki/Chaos_druid). The druids are level 32, with 1,150 life points. They can be found in [Taverly Dungeon](http://runescape.wikia.com/wiki/Taverley_Dungeon) or the [Edgeville Dungeon](http://runescape.wikia.com/wiki/Edgeville_Dungeon), though the Edgeville druids are a part of the [Wilderness](http://runescape.wikia.com/wiki/Wilderness). Druids are a good way to make some coins through the herbs they drop. Players should use the recommended armor and weapons listed above."
+     },
+     {
+       "name":"Alternative Method",
+       "value":"A player can also kill [Giant Bats](http://runescape.wikia.com/wiki/Giant_bat). The bats are level 44, with 1,600 life points. They can be found in [Taverly Dungeon](http://runescape.wikia.com/wiki/Taverley_Dungeon). These are a good alternative for those looking for aggressive creatures.  Players should use the recommended armor and weapons listed above."
      }
     ]
   },
   "50 - 70": {
     "title": "Ranged Training Levels 50-70",
-    "description": "At level 50, players should now kill [Blue Dragons](http://runescape.wikia.com/wiki/Baby_blue_dragon). These dragons are level 74, with 5,000 lifepoints. They can be found in several locations, but [Taverly Dungeon](http://runescape.wikia.com/wiki/Taverley_Dungeon) is the most popular. A player can get roughly 50,000-70,000 Combat experience per hour training here.",
+    "description": "At level 50, players should now kill [Blue Dragons](http://runescape.wikia.com/wiki/Baby_blue_dragon). These dragons are level 74, with 5,000 life points. They can be found in several locations, but [Taverly Dungeon](http://runescape.wikia.com/wiki/Taverley_Dungeon) is the most popular. A player can get roughly 50,000-70,000 Combat experience per hour training here.",
     "url": "http://runescape.wikia.com/wiki/Pay-to-play_Ranged_training#Levels_50_-_70",
     "color": 12269891,
     "footer": {
@@ -97,22 +113,26 @@ exports.data = {
     },
      "fields": [
      {
-       "name":"Alternative: Levels 50-70",
-       "value":"At level 50, players have the option to instead do [Lesser Demons](http://runescape.wikia.com/wiki/Lesser_demon). With a combat level of 70, and 5,000 lifepoints, lesser demons are a viable option for those don't wish to continue with dragons. They can be found in several locations, but [Taverly Dungeon](http://runescape.wikia.com/wiki/Taverley_Dungeon) is the most popular. A player can get roughly 50,000-70,000 Combat experience per hour training here."
-     },
-     {
-       "name":"Recommded Armor",
+       "name":"Recommended Armor",
        "value":"• 50-55 [Blue Dragonhide](http://runescape.wikia.com/wiki/Blue_dragonhide_armour)\n\n Upgrade:\n• 55-60 [Red Dragonhide](http://runescape.wikia.com/wiki/Red_dragonhide_armour)\n\n Upgrade:\n• 60-65 [Black Dragonhide](http://runescape.wikia.com/wiki/Black_dragonhide_armour)\n\n Upgrade:\n• 65-70 [Royal Dragonhide](http://runescape.wikia.com/wiki/Royal_dragonhide_armour)"
      },
      {
        "name":"Recommended Weapons",
        "value":"• 50-60 [Rune Crossbow](http://runescape.wikia.com/wiki/Rune_crossbow) and [Off-hand Rune Crossbow](http://runescape.wikia.com/wiki/Off-hand_rune_crossbow)\n\n Upgrade:\n• 60-70 [Dragon Crossbow](http://runescape.wikia.com/wiki/Dragon_crossbow) and [Off-hand Dragon Crossbow](http://runescape.wikia.com/wiki/Off-hand_dragon_crossbow)"
+     },
+     {
+       "name":"Alternative Method",
+       "value":"At level 50, players have the option to instead do [Lesser Demons](http://runescape.wikia.com/wiki/Lesser_demon). The demons are level 70, with 5,000 life points. They can be found in several locations, but [Taverly Dungeon](http://runescape.wikia.com/wiki/Taverley_Dungeon) is the most popular. Lesser Demons are a viable option for those don't wish to continue with dragons. Players should use the recommended armor and weapons listed above."
+     },
+     {
+       "name":"Alternative Method",
+       "value":"Another alternative can be [Black Demons](http://runescape.wikia.com/wiki/Black_demon). The demons are level 98, with 9,000 life points. They can be found in [Taverly Dungeon](http://runescape.wikia.com/wiki/Taverley_Dungeon). These demons hit hard, but can be a good way to make some coins as they drop items that are good for alching. Players should use the recommended armor and weapons listed above."
      }
     ]
   },
   "70 - 99 +": {
     "title": "Ranged Training Levels 70-99+",
-    "description": "At level 70, players should now head over to the [Abyssal Creatures](http://runescape.wikia.com/wiki/Abyss/Combat_training). Abyssal creatures levels range from 72 to 79, with 2,600 to 2,850 lifepoints. To enter the Abyss, the player needs to complete the [Abyss Miniquest](http://runescape.wikia.com/wiki/Abyss_(miniquest). Once completed, use the 'Teleport' option on the [Mage of Zamorak](http://runescape.wikia.com/wiki/Mage_of_Zamorak) north of [Edgeville](http://runescape.wikia.com/wiki/Edgeville) in level 4 to 6 Wilderness to enter. A player can get roughly 500,000-700,000 Combat experience per hour training here.",
+    "description": "At level 70, players should now head over to the [Abyssal Creatures](http://runescape.wikia.com/wiki/Abyss/Combat_training). Abyssal creatures levels range from 72 to 79, with 2,600 to 2,850 life points. To enter the Abyss, the player needs to complete the [Abyss Miniquest](http://runescape.wikia.com/wiki/Abyss_(miniquest). Once completed, use the 'Teleport' option on the [Mage of Zamorak](http://runescape.wikia.com/wiki/Mage_of_Zamorak) north of [Edgeville](http://runescape.wikia.com/wiki/Edgeville) in level 4 to 6 Wilderness to enter. A player can get roughly 500,000-700,000 Combat experience per hour training here.",
     "url": "http://runescape.wikia.com/wiki/Pay-to-play_Ranged_training#Abyssal_training",
     "color": 12269891,
     "footer": {
@@ -137,8 +157,8 @@ exports.data = {
        "value":"• 70-99 [Red Chinchompas](http://runescape.wikia.com/wiki/Red_chinchompa) and [Off-hand Armadyl Crossbow](http://runescape.wikia.com/wiki/Off-hand_Armadyl_crossbow)"
      },
      {
-       "name":"Alternative 80-99+",
-       "value":"At level 80, players have the option to instead do [Waterfiends](http://runescape.wikia.com/wiki/Waterfiend). With a combat level of 107, and 8,000 lifepoints, waterfiends are a viable option for those who also want to collect as many charms as possible on the way to 99. Waterfiends can be found in the [Ancient Caverns](http://runescape.wikia.com/wiki/Ancient_Cavern), which requires the first part of [Barbarian Firemaking](http://runescape.wikia.com/wiki/Barbarian_Firemaking) to be done. A player can get roughly 250,000-500,000 Combat experience per hour training here."
+       "name":"Alternative Method",
+       "value":"At level 80, players have the option to instead do [Waterfiends](http://runescape.wikia.com/wiki/Waterfiend). With a combat level of 107, and 8,000 life points, waterfiends are a viable option for those who also want to collect as many charms as possible on the way to 99. Waterfiends can be found in the [Ancient Caverns](http://runescape.wikia.com/wiki/Ancient_Cavern), which requires the first part of [Barbarian Firemaking](http://runescape.wikia.com/wiki/Barbarian_Firemaking) to be done. A player can get roughly 250,000-500,000 Combat experience per hour training here."
      },
       {
        "name":"Recommended Armor",
@@ -175,7 +195,7 @@ exports.data = {
   },
   "alternate methods": {
     "title": "Alternative Methods of Training",
-    "url": "http://runescape.wikia.com/wiki/Pay-to-play_Fletching_training#Level_52-99_-_Broad_arrows",
+    "url": "http://runescape.wikia.com/wiki/Pay-to-play_Ranged_training#Other_training_methods",
     "description": "Some users may wish to utilize methods outside of the ones displayed in this channel's guide. To aid in this, the following alternative methods are provided.",
         "color": 12269891,
     "footer": {
@@ -223,7 +243,7 @@ exports.data = {
   "pet - sparky": {
     "title": "Ranged Pet - Sparky",
     "description": "The Sparky pet is an item that can be found while training Ranged. It can be used to unlock the [Sparky pet](http://runescape.wikia.com/wiki/Sparky).",
-    "url": "http://runescape.wikia.com/wiki/Newton_pet",
+    "url": "http://runescape.wikia.com/wiki/Sparky_pet",
     "color": 12269891,
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
@@ -256,7 +276,7 @@ exports.data = {
       ]
   },
   "quests": {
-    "title": "Quests which Grant Magic Experience",
+    "title": "Quests which Grant Ranged Experience",
     "url": "http://runescape.wikia.com/wiki/Quests/Experience_rewards#Ranged",
     "description": "Currently, a total of 131,572.5 experience may be gained specifically to Ranged throughout all of the RuneScape Quests. These rewards are automatically given and there is no choice involved.",
         "color": 12269891,
@@ -279,44 +299,56 @@ exports.data = {
       ]
   },
   "distractions and diversions":  { 
-    "title": "Distractions and Diversions", 
-    "url": "http://runescape.wikia.com/wiki/Distractions_and_Diversions", 
-    "description": "D&Ds are a subclassification of minigames. However, unlike minigames many D&Ds move around the world to various locations, have a limit on how often they can be played, and only occur at particular times of day.\n\nDistractions and Diversions aim to divert the original intentions of the player in order to provide an interesting distraction from their everyday routines. D&Ds come in many different shapes and sizes; covering Combat, Gathering, Artisan, and Support skills. There are a wide variety of different options available to suit the players choice.", 
-    "color": 12269891, 
-    "footer": { 
-    "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg", 
-    "text": "Achievement Help | Helping you reach your goals, whatever they may be!" 
-    }, 
-    "thumbnail": { 
-    "url": "https://vignette.wikia.nocookie.net/runescape2/images/6/62/D%26D_icon.png/revision/latest?cb=20140914110639" 
-    }, 
-    "author": { 
-    "name": "Max Cape Info", 
-    "icon_url": "https://i.imgur.com/6c6q2iC.png" 
-    }, 
-    "fields": [ 
-    { 
-    "name": "▬▬ Rush of Blood ▬▬", 
-    "value": "[Rush of Blood](http://runescape.wikia.com/wiki/Rush_of_Blood) is a weekly Slayer-themed combat Distraction and Diversion that can be played in [Prifddinas](http://runescape.wikia.com/wiki/Prifddinas), requiring at least level 85 Slayer and completion of [Plague's End](http://runescape.wikia.com/wiki/Plague%27s_End). It is run by [Morvran Iorwerth](http://runescape.wikia.com/wiki/Morvran), slayer master and former warband leader, and takes place in his dungeon underneath the [Iorwerth Clan district](http://runescape.wikia.com/wiki/Iorwerth_Clan). In the D&D, waves of different [monsters](http://runescape.wikia.com/wiki/Rush_of_Blood#Monsters), drawn from Morvran's assignment list, must be fought and one is given ten minutes to do so."
-    }, 
-    { 
-    "name": "▬▬ Memory of Nomad ▬▬", 
-    "value": "[Memory of Nomad](http://runescape.wikia.com/wiki/Memory_of_Nomad) is a weekly Distraction and Diversion available after completion of [Nomad's Elegy](http://runescape.wikia.com/wiki/Nomad%27s_Elegy). The Memory of Nomad is essentially a Hard mode version of the fight in Nomad's Elegy. Most of the mechanics are the same as in the normal fight and there are a few additional mechanics, especially in the final phase."
-    }, 
-    { 
-    "name": "​", 
-    "value": "The memory of Nomad can be fought as often as the player likes, but only the first successful kill per week (resetting at 00:00 UTC on Wednesdays) will give [rewards](http://runescape.wikia.com/wiki/Memory_of_Nomad#Rewards). This can be reset with a [Weekly D&D Token](http://runescape.wikia.com/wiki/D%26D_token_(weekly), allowing a second rewarded kill that week. The capes can be obtained off-loot."
-    }, 
-    { 
-    "name": "▬▬ Balthazar Beauregard's Big Top Bonanza ▬▬", 
-    "value": "Players can do two Firemaking performances at the [Balthazar Beauregard's Big Top Bonanza](http://runescape.wikia.com/wiki/Balthazar_Beauregard%27s_Big_Top_Bonanza) Distraction and Diversion once per week. To enter the circus the player must gain a circus ticket from the ticket vendor, which is randomly located in 1 of 12 possible locations each week. The Firemaking performances can be found in the south-west and south ends of the circus. This event is unlocked after [The Firemaker's Curse](http://runescape.wikia.com/wiki/The_Firemaker%27s_Curse)." 
-    }, 
-    { 
-    "name": "​", 
-    "value": "During the performance players have 10 attempts to perform up to 10 different tricks. Firemaking experience is received upon the first successful attempt of each trick that the player performs. Repeating a trick does not grant additional experience. Each trick has a recommended Firemaking level to attempt, however the level is not required in order to perform the trick, as it is possible to succeed or fail a trick at any Firemaking level. When a trick is performed that has a higher recommended Firemaking level than the player has, the experience received will be the same as that given for performing a trick with half the recommended Firemaking level, rounded down." 
-    }
-    ]
-  },
+"title": "Distractions and Diversions", 
+"url": "http://runescape.wikia.com/wiki/Distractions_and_Diversions", 
+"description": "D&Ds are a subclassification of minigames. However, unlike minigames many D&Ds move around the world to various locations, have a limit on how often they can be played, and only occur at particular times of day.\n\nDistractions and Diversions aim to divert the original intentions of the player in order to provide an interesting distraction from their everyday routines. D&Ds come in many different shapes and sizes; covering Combat, Gathering, Artisan, and Support skills. There are a wide variety of different options available to suit the players choice.", 
+"color": 12269891, 
+"footer": { 
+"icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg", 
+"text": "Achievement Help | Helping you reach your goals, whatever they may be!" 
+}, 
+"thumbnail": { 
+"url": "https://vignette.wikia.nocookie.net/runescape2/images/6/62/D%26D_icon.png/revision/latest?cb=20140914110639" 
+}, 
+"author": { 
+"name": "Max Cape Info", 
+"icon_url": "https://i.imgur.com/6c6q2iC.png" 
+}, 
+"fields": [ 
+{ 
+"name": "▬▬ Agoroth ▬▬", 
+"value": "Accessible to both Free-to-play and Members after completion of the quest [A Shadow over Ashdale](https://runescape.wikia.com/wiki/A_Shadow_over_Ashdale), [Agoroth](https://runescape.wikia.com/wiki/Agoroth) can be fought in the Ashdale Caves by accessing the Dead Man's chest once a week for non-members, and twice a week for members. Defeating Agoroth awards players with a black pearl, awarding bonus experience in a skill of their choice. "
+}, 
+{ 
+"name": "▬▬ Demon Flash Mobs ▬▬", 
+"value": "A [Demon Mob](https://runescape.wikia.com/wiki/Demon_Flash_Mob) spawns every hour, consisting of a demon boss and several of its minions. All minions must be killed before the boss can be damaged; taking too long to dispatch the minions will allow the boss to become more powerful. The demon boss is extremely powerful, and not to be underestimated - this D&D is designed for groups, but solo play can be achieved at near max levels. Once the demon boss is defeated, it will drop loot, with a chance to receive [demon slayer armour](https://runescape.wikia.com/wiki/Demon_slayer_equipment). "
+}, 
+{ 
+"name": "▬▬ Goblin raids ▬▬", 
+"value": "Available to both Free-to-play and Members, [Goblin Raids](https://runescape.wikia.com/wiki/Goblin_Raids) occurs every 30 minutes. [Goblin Raiders](https://runescape.wikia.com/wiki/Goblin_Raider) lead by [Hollowtoof](https://runescape.wikia.com/wiki/Hollowtoof) will randomly plunder a farm or copper mine in the kingdoms of Misthalin and Asgarnia. Goblin raiders will drop their pillaged loot when killed. Hollowtoof attacks anyone nearby once his mob has been lost, awarding a piece of [raider equipment](https://runescape.wikia.com/wiki/Raider_equipment) when defeated. After the raid has collapsed, a Black Guard squad led by [Commander Yodri](https://runescape.wikia.com/wiki/Commander_Yodri) arrives, awarding additional skilling supplies when approached by defenders. "
+}, 
+{ 
+"name": "▬▬ Memory of Nomad ▬▬", 
+"value": "[Memory of Nomad](http://runescape.wikia.com/wiki/Memory_of_Nomad) is a weekly D&D available after completion of [Nomad's Elegy](http://runescape.wikia.com/wiki/Nomad%27s_Elegy). The Memory of Nomad is essentially a Hard mode version of the fight in Nomad's Elegy. Most of the mechanics are the same as in the normal fight and there are a few additional mechanics, especially in the final phase."
+}, 
+{ 
+"name": "​", 
+"value": "The memory of Nomad can be fought as often as the player likes, but only the first successful kill per week (resetting at 00:00 UTC on Wednesdays) will give [rewards](http://runescape.wikia.com/wiki/Memory_of_Nomad#Rewards). This can be reset with a [Weekly D&D Token](http://runescape.wikia.com/wiki/D%26D_token_(weekly), allowing a second rewarded kill that week. The capes can be obtained off-loot."
+},
+{ 
+"name": "▬▬ Rush of Blood ▬▬", 
+"value": "[Rush of Blood](http://runescape.wikia.com/wiki/Rush_of_Blood) is a weekly Slayer-themed combat D&D that can be played in [Prifddinas](http://runescape.wikia.com/wiki/Prifddinas), requiring at least level 85 Slayer and completion of [Plague's End](http://runescape.wikia.com/wiki/Plague%27s_End). It is run by [Morvran](http://runescape.wikia.com/wiki/Morvran), slayer master and former warband leader, and takes place in his dungeon underneath the [Iorwerth Clan district](http://runescape.wikia.com/wiki/Iorwerth_Clan). In the D&D, waves of different [monsters](http://runescape.wikia.com/wiki/Rush_of_Blood#Monsters), drawn from Morvran's assignment list, must be fought and one is given ten minutes to do so."
+},
+{ 
+"name": "▬▬ Balthazar Beauregard's Big Top Bonanza ▬▬", 
+"value": "Players can do Ranged performances at the [Balthazar Beauregard's Big Top Bonanza](http://runescape.wikia.com/wiki/Balthazar_Beauregard%27s_Big_Top_Bonanza) D&D once per week. To enter the circus the player must gain a circus ticket from the ticket vendor, which is randomly located in 1 of 12 possible locations each week. The Ranged performances can be found west upon entering the circus." 
+}, 
+{ 
+"name": "​", 
+"value": "Using equipment such as knives, throwing axes, and a bow and arrows, players can fire at the targets. Upon choosing the first shooting spot, the player must choose which ranged equipment to use. This equipment will be used for all shooting spots during the performance. There are 2 targets: a fixed booth and a rotating target. The player takes 10 shots in total, 5 at each target. The booth may be shot at with any of the three ammunition types at any time, while the rotating target becomes limited to the first ammunition type that is used on it. For each target, players stand on one of the 10 spots, depending on the level of difficulty, with the highest level being the furthest from the target." 
+}
+] 
+},
   "daily challenge": {
     "title": "Daily Challenge",
     "url": "http://runescape.wikia.com/wiki/Challenge_XP_Lamp",
@@ -350,7 +382,7 @@ exports.data = {
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "thumbnail": {
-      "url": "https://vignette.wikia.nocookie.net/runescape2/images/c/c8/Ranged.png/revision/latest?cb=20160101093057"
+      "url": "https://vignette.wikia.nocookie.net/runescape2/images/1/17/Ranged_cape_detail.png/revision/latest?cb=20121221024353"
     },
     "author": {
       "name": "Max Cape Info",
@@ -358,8 +390,8 @@ exports.data = {
     },
     "fields": [
       {
-        "name": "N/A",
-        "value": "There are currently no permanent boosts for Ranged."
+        "name": "Ranged Cape",
+        "value": "The [Ranged Cape's](http://runescape.wikia.com/wiki/Ranged_cape) perk provides the ability of an [Ava's Attractor](http://runescape.wikia.com/wiki/Ava%27s_attractor) to automatically pick up fired ammunition in combat and place it back into the quiver. This effect only works when the cape is equipped. The cape will not provide any of the other uses of an Ava's device"
       }
       ]
   },
@@ -382,7 +414,7 @@ exports.data = {
     "fields": [
       {
         "name": "Ranged Boosts",
-        "value": "[Ranging Potion](http://runescape.wikia.com/wiki/Ranging_potion)\n• 8% + 1 to Ranged level\n\n[Ranging Mix](http://runescape.wikia.com/wiki/Ranging_mix)\n• 8% + 1 to Ranged level\n• Requires Herblore part of [Barbarian Training](http://runescape.wikia.com/wiki/Barbarian_Training)\n\n[Super Ranging Potion](http://runescape.wikia.com/wiki/Super_ranging_potion)\n• 12% + 2 to Ranged levels\n\n[Super Ranging Mix](http://runescape.wikia.com/wiki/Super_ranging_mix)\n• 12% + 2 to Ranged levels\n• Requires Herblore part of Barbarian Training\n\n[Extreme Ranging Potion](http://runescape.wikia.com/wiki/Extreme_ranging)\n• 15% + 3 to Ranged levels\n• Requires 92 Herblore to make\n\n[Grand Ranging Potion](http://runescape.wikia.com/wiki/Grand_ranging_potion)\n• 14% + 2 to Ranged levels\n\n[Supreme Ranging Potion](http://runescape.wikia.com/wiki/Supreme_ranging_potion)\n• 16% + 4 to Ranged levels\n• Recipe must be bought\n• Requires 93 Herblore to make"
+        "value": "[Ranged Cape](http://runescape.wikia.com/wiki/Ranged_cape)\n• +1 Ranged level for 1 minute\n\n[Ranging Potion](http://runescape.wikia.com/wiki/Ranging_potion)\n• 8% + 1 to Ranged level\n\n[Ranging Mix](http://runescape.wikia.com/wiki/Ranging_mix)\n• 8% + 1 to Ranged level\n• Requires Herblore part of [Barbarian Training](http://runescape.wikia.com/wiki/Barbarian_Training)\n\n[Super Ranging Potion](http://runescape.wikia.com/wiki/Super_ranging_potion)\n• 12% + 2 to Ranged levels\n\n[Super Ranging Mix](http://runescape.wikia.com/wiki/Super_ranging_mix)\n• 12% + 2 to Ranged levels\n• Requires Herblore part of Barbarian Training\n\n[Extreme Ranging Potion](http://runescape.wikia.com/wiki/Extreme_ranging)\n• 15% + 3 to Ranged levels\n• Requires 92 Herblore to make\n\n[Grand Ranging Potion](http://runescape.wikia.com/wiki/Grand_ranging_potion)\n• 14% + 2 to Ranged levels\n\n[Supreme Ranging Potion](http://runescape.wikia.com/wiki/Supreme_ranging_potion)\n• 16% + 4 to Ranged levels\n• Recipe must be bought\n• Requires 93 Herblore to make"
       },
       {
         "name": "​",
@@ -421,8 +453,7 @@ exports.data = {
     "fields": [
       {
         "name": "​",
-        "value": "[Exuberry](http://runescape.wikia.com/wiki/Exuberry)\n• +2 Ranged levels\n• Reduces Defence by 1\n• Requires access to [The Arc](http://runescape.wikia.com/wiki/The_Arc)\n\n [Sugar Skull](http://runescape.wikia.com/wiki/Sugar_skull)\n• +2 Ranged levels\n\n [Toffee Apple](http://runescape.wikia.com/wiki/Toffee_apple)\n• +2 Ranged levelst\n\n[Spicy Stew](http://runescape.wikia.com/wiki/Spicy_stew)\n • Boost is applied to a random skill\n • Up to ±5 with 3 spice doses\n • Up to ±3 with 2 spice doses\n • Up to ±1 with 1 spice dose\n\n[God Banner](http://runescape.wikia.com/wiki/God_banner)\n• +5 levels\n• Lasts 30 minutes once per day"
+        "value": "[Exuberry](http://runescape.wikia.com/wiki/Exuberry)\n• +2 Ranged levels\n• Reduces Defence by 1\n• Requires access to [The Arc](http://runescape.wikia.com/wiki/The_Arc)\n\n [Sugar Skull](http://runescape.wikia.com/wiki/Sugar_skull)\n• +2 Ranged levels\n\n [Toffee Apple](http://runescape.wikia.com/wiki/Toffee_apple)\n• +2 Ranged levelst\n\n[Spicy Stew](http://runescape.wikia.com/wiki/Spicy_stew)\n • Boost is applied to a random skill\n • Up to ±6 with 3 spice doses\n • Up to ±3 with 2 spice doses\n • Up to ±2 with 1 spice dose\n\n[God Banner](http://runescape.wikia.com/wiki/God_banner)\n• +5 levels\n• Lasts 30 minutes once per day"
       }
        ]
-  }
-};
+  };

@@ -198,7 +198,6 @@ exports.data = {
         "value": "If the player does not want to spend nearly as much for 99, the next best and cheaper option would be burning [corrupted magic logs](http://runescape.wikia.com/wiki/Corrupted_magic_logs)."
       }
       ]
-
   },
   "alternate methods": {
     "title": "Alternative Methods of Training",
@@ -218,6 +217,10 @@ exports.data = {
     },
     "fields": [
       {
+        "name": "▬▬ Line Firemaking ▬▬",
+        "value": "With the [Pitch Can](http://runescape.wikia.com/wiki/Pitch_can), there's a reduced time for lighting a log from 6 ticks to 1 tick while line firemaking, giving a significant experience per hour improvement. However, lighting lines of fire takes a great deal of attention, costs marginally more, and doesn't give the chance to get fire spirits."
+      },
+      {
         "name": "▬▬ Curly Roots ▬▬",
         "value": "At level 83 Firemaking, [curly roots](http://runescape.wikia.com/wiki/Curly_root), which yield 378.5 experience each, can be burned in special firepits found in the [Jadinko Lair](http://runescape.wikia.com/wiki/Jadinko_Lair). They must first be chopped from curly (not straight) jade roots hanging from the ceiling near the slayer monsters there, requiring 83 Woodcutting. Four roots are received for each vine chopped, the vines chop quickly even at only 85 Woodcutting. At the minimum required levels with a [ring of fire](http://runescape.wikia.com/wiki/Ring_of_fire), players can expect to receive approximately 250,000 Firemaking experience per hour as well as approximately 23,500 Woodcutting experience."
       },
@@ -232,10 +235,6 @@ exports.data = {
       {
         "name": "▬▬ Barbarian Assault ▬▬",
         "value": "Players can gain Firemaking bonus experience as a reward from playing the [Barbarian Assault]( http://runescape.wikia.com/wiki/Barbarian_Assault) minigame. At level 99 Firemaking it is possible to gain 3,500,000 bonus experience per hour playing hard mode Barbarian Assault waves 6-9, at a cost of 6 Barbarian assault ticket - hard wave 10 per hour. Players may, as an alternative, gain 2,400,000 bonus experience per hour playing hard mode waves 1-9 without having to pay for the tickets.\n\nIn order to play hard mode Barbarian Assault the normal mode of the minigame must be completed at least once. It is highly recommended for players to reach maximum role levels before starting playing for bonus experience."
-      },
-      {
-        "name": "▬▬ Pitch Can ▬▬",
-        "value": "The [pitch can](http://runescape.wikia.com/wiki/Pitch_can) is used to enhance line-style [Firemaking](http://runescape.wikia.com/wiki/Firemaking). It is a potential reward from participating in [Char's training cave](http://runescape.wikia.com/wiki/Char%27s_training_cave). When lighting fires while carrying it, the fires light instantly, allowing for much faster Firemaking training. It also reduces the time between each log being added to a [bonfire](http://runescape.wikia.com/wiki/Bonfire) by 1 [tick](http://runescape.wikia.com/wiki/Game_tick).\n\nThe can is obtained with 2000 charges, and each log burned consumes a charge. It can be refilled by participating in Char's training cave. Each shape completed grants 100 charges to the pitch can. It is tradeable when completely full or empty.\n\nUsing [magic logs](http://runescape.wikia.com/wiki/Magic_logs) or higher, players may gain over 1,000,000 XP/h lighting fires in lines."
       }
       ]
   },
@@ -381,6 +380,10 @@ exports.data = {
     },
     "fields": [
       {
+        "name": "Firemaking Cape",
+        "value": "• The [Firemaking Cape's](http://runescape.wikia.com/wiki/Firemaking_cape) perk acts as a light source and gives better rewards from [fire spirits](http://runescape.wikia.com/wiki/Fire_spirit)."
+      },     
+      {
         "name": "Ring of Fire",
         "value": "• The [Ring of Fire](http://runescape.wikia.com/wiki/Ring_of_fire) is a reward from the [All Fired Up minigame](http://runescape.wikia.com/wiki/All_Fired_Up_(minigame) requiring a level of 62 Firemaking to equip, which is also the minimum level needed to obtain the ring. 6 lit beacons are required to obtain the ring.  The ring's effect adds an additional 2% Firemaking experience for burning logs. It also works when burning [curly roots](http://runescape.wikia.com/wiki/Curly_root)."
       },
@@ -417,17 +420,16 @@ exports.data = {
     "fields": [
       {
         "name": "Firemaking Boosts",
-        "value": "[Smoulderberry](http://runescape.wikia.com/wiki/Smoulderberry)\n• +2 Firemaking\n• Reduces Defence by 1\n• Requires access to [The Arc](http://runescape.wikia.com/wiki/The_Arc)\n\n[Portable Brazier](http://runescape.wikia.com/wiki/Portable_brazier)\n• 10% base experience boost\n• 10% that a log will be saved while still granting full experience\n\n[Pyrelord](http://runescape.wikia.com/wiki/Pyrelord)\n• +3 invisible levels\n• +10 experience per log on new fires (not bonfires)\n• Boost applies to normal fire lighting, [Curly Roots](http://runescape.wikia.com/wiki/Curly_root), [Gnomish Firelighters](http://runescape.wikia.com/wiki/Gnomish_firelighters)\n• Requires 46 Summoning\n\n[Pheonix Familiar](http://runescape.wikia.com/wiki/Phoenix_(familiar)\n• +6 invisible levels\n• Requires 72 Summoning\n• [In Pyre Need](http://runescape.wikia.com/wiki/In_Pyre_Need) quest completion\n\n[Lava Titan](http://runescape.wikia.com/wiki/Lava_titan)\n• +10 invisible levels\n• Requires 83 Summoning"
+        "value": "[Firemaking Cape](http://runescape.wikia.com/wiki/Firemaking_cape)\n• +1 Firemaking level for 1 minute[Reborn Pheonix](http://runescape.wikia.com/wiki/Reborn_phoenix)\n•\n\n[Smoulderberry](http://runescape.wikia.com/wiki/Smoulderberry)\n• +2 Firemaking\n• Reduces Defence by 1\n• Requires access to [The Arc](http://runescape.wikia.com/wiki/The_Arc)\n\n[Portable Brazier](http://runescape.wikia.com/wiki/Portable_brazier)\n• 10% base experience boost\n• 10% that a log will be saved while still granting full experience\n\n[Pyrelord](http://runescape.wikia.com/wiki/Pyrelord)\n• +3 invisible levels\n• +10 experience per log on new fires\n• Boost applies to normal fire lighting, [Curly Roots](http://runescape.wikia.com/wiki/Curly_root), [Gnomish Firelighters](http://runescape.wikia.com/wiki/Gnomish_firelighters)\n• Requires 46 Summoning\n\n[Pheonix Familiar](http://runescape.wikia.com/wiki/Phoenix_(familiar)\n• +6 invisible levels\n• Requires 72 Summoning\n• [In Pyre Need](http://runescape.wikia.com/wiki/In_Pyre_Need) quest completion"
       },
       {
         "name": "​",
-        "value": "[Reborn Pheonix](http://runescape.wikia.com/wiki/Reborn_phoenix)\n• 7% chance to burn 2 logs at once on bonfires (Including [Braziers](http://runescape.wikia.com/wiki/Portable_brazier)) \n• +12 invisible levels\n• Requires 83 Summoning\n\n[God Banner](http://runescape.wikia.com/wiki/God_banner)\n• +2 levels\n• Lasts 30 minutes once per day\n\n[Spicy Stew](http://runescape.wikia.com/wiki/Spicy_stew)\n • Boost is applied to a random skill\n • Up to ±5 with 3 spice doses\n • Up to ±3 with 2 spice doses\n • Up to ±1 with 1 spice dose\n\n[The Book of Char](http://runescape.wikia.com/wiki/The_Book_of_Char)\n• Immediately ignites any log the player walks/runs over\n• Double base experience \n• Does not stack with [Ring of Fire](http://runescape.wikia.com/wiki/Ring_of_fire), [Flame Gloves](http://runescape.wikia.com/wiki/Flame_gloves), or [BXP](http://runescape.wikia.com/wiki/Bonus_experience)\n• Lasts 2-3 minutes or until unequiped\n• Resets daily"
+        "value": "[Lava Titan](http://runescape.wikia.com/wiki/Lava_titan)\n• +10 invisible levels\n• Requires 83 Summoning\n\n[Reborn Pheonix](http://runescape.wikia.com/wiki/Reborn_phoenix)\n• 7% chance to burn 2 logs at once on bonfires (Including [Braziers](http://runescape.wikia.com/wiki/Portable_brazier)) \n• +12 invisible levels\n• Requires 83 Summoning\n\n[God Banner](http://runescape.wikia.com/wiki/God_banner)\n• +2 levels\n• Lasts 30 minutes once per day\n\n[Spicy Stew](http://runescape.wikia.com/wiki/Spicy_stew)\n • Boost is applied to a random skill\n • Up to ±6 with 3 spice doses\n • Up to ±3 with 2 spice doses\n • Up to ±2 with 1 spice dose\n\n[Dwarven Army Axe](http://runescape.wikia.com/wiki/Dwarven_army_axe)\n• 3 more experience per action"
       },
       {
         "name": "​",
-        "value":"[Brawling Gloves (FM)](http://runescape.wikia.com/wiki/Brawling_gloves_(FM)\n• A 50% XP boost is given anywhere outside of the Wilderness. However, the buff increases to 300% at level 47 Wilderness, just south of the fence. The gloves last about 1202 uses, and are regarded as one of the best brawlers.\n\n[Dwarven Army Axe](http://runescape.wikia.com/wiki/Dwarven_army_axe)\n• 3 more experience per action\n\n[Collector's Insignia](http://runescape.wikia.com/wiki/Collector%27s_insignia)\n• Increases Firemaking experience from [Pyre Ships](http://runescape.wikia.com/wiki/Barbarian_Firemaking#Pyre_ships)\n• 5% if uncharged\n• 10% if charged"
+        "value":"[The Book of Char](http://runescape.wikia.com/wiki/The_Book_of_Char)\n• Immediately ignites any log the player walks/runs over\n• Double base experience \n• Does not stack with [Ring of Fire](http://runescape.wikia.com/wiki/Ring_of_fire), [Flame Gloves](http://runescape.wikia.com/wiki/Flame_gloves), or [BXP](http://runescape.wikia.com/wiki/Bonus_experience)\n• Lasts 2-3 minutes or until unequiped\n• Resets daily\n\n[Brawling Gloves (FM)](http://runescape.wikia.com/wiki/Brawling_gloves_(FM)\n• A 50% XP boost is given anywhere outside of the Wilderness. However, the buff increases to 300% at level 47 Wilderness, just south of the fence. The gloves last about 1202 uses, and are regarded as one of the best brawlers.\n\n[Collector's Insignia](http://runescape.wikia.com/wiki/Collector%27s_insignia)\n• Increases Firemaking experience from [Pyre Ships](http://runescape.wikia.com/wiki/Barbarian_Firemaking#Pyre_ships)\n• 5% if uncharged\n• 10% if charged"
        }
               
        ]
-  }
-};
+  };

@@ -826,7 +826,7 @@ exports.data = {
          "text":"Achievement Help | Helping you reach your goals, whatever they may be!"
       },
       "thumbnail":{  
-         "url":"https://vignette.wikia.nocookie.net/runescape2/images/7/72/Decorated_fishing_urn_detail.png/revision/latest/scale-to-width-down/100?cb=20141030200349"
+         "url":"https://vignette.wikia.nocookie.net/runescape2/images/3/36/Summoning_cape_detail.png/revision/latest?cb=20121221024300"
       },
       "author":{  
          "name":"Max Cape Info",
@@ -834,7 +834,7 @@ exports.data = {
       },
       "fields":[  
          {  
-            "name":"Fishing boosts",
+            "name":"Summoning boosts",
             "value":"[Summoning cape](https://runescape.wikia.com/wiki/Summoning_cape)\n\t• +1 level for 1 minute"
          },
          {  

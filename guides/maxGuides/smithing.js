@@ -480,7 +480,7 @@ exports.data = {
     "fields": [
       {
         "name": "Smithing Boosts",
-        "value": "[Smithing Cape](http://runescape.wikia.com/wiki/Smithing_cape)\n • +1 level for 1 minute\n\n[Spicy Stew](http://runescape.wikia.com/wiki/Spicy_stew)\n • Boost is applied to a random skill\n • Up to ±5 with 3 spice doses\n • Up to ±3 with 2 spice doses\n • Up to ±1 with 1 spice dose\n\n[God Banner](http://runescape.wikia.com/wiki/God_banner)\n• Skill boost: +2 levels\n• The boost can be used once per day and lasts for 30 minutes.\n\n[Dwarven Stout](http://runescape.wikia.com/wiki/Dwarven_stout)\n• +1 levels\n• Reduces melee skills by 5 levels\n\n[Mature Dwarven Stout](http://runescape.wikia.com/wiki/Dwarven_stout_(m)\n• +2 levels\n• Reduces melee skills by 7 levels"
+        "value": "[Smithing Cape](http://runescape.wikia.com/wiki/Smithing_cape)\n • +1 level for 1 minute\n\n[Spicy Stew](http://runescape.wikia.com/wiki/Spicy_stew)\n • Boost is applied to a random skill\n • Up to ±6 with 3 spice doses\n • Up to ±3 with 2 spice doses\n • Up to ±2 with 1 spice dose\n\n[God Banner](http://runescape.wikia.com/wiki/God_banner)\n• Skill boost: +2 levels\n• The boost can be used once per day and lasts for 30 minutes.\n\n[Dwarven Stout](http://runescape.wikia.com/wiki/Dwarven_stout)\n• +1 levels\n• Reduces melee skills by 5 levels\n\n[Mature Dwarven Stout](http://runescape.wikia.com/wiki/Dwarven_stout_(m)\n• +2 levels\n• Reduces melee skills by 7 levels"
       },
       {
         "name": "​",

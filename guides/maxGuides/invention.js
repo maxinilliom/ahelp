@@ -103,7 +103,7 @@ exports.data = {
       ]
   },
   "27 - 120 + skilling": {
-    "title": "Invention Training Levels 27-120+ through Skilling",
+    "title": "Invention Training Levels 27-120+ Skilling",
     "description": "An alternative to combat is to train tools to gain Invention experience. Tools offer a less intensive method to train Invention at an overall lower Invention experience rate (mostly because only one item is trained at a time). An exception to this is using an augmented crystal fishing rod at the Fishing Frenzy activity at the [Deep Sea Fishing Hub](https://runescape.wikia.com/wiki/Deep_Sea_Fishing_hub). At level 99 fishing, at least 26,300 item experience per hour can be obtained via this method. Once the initial time investment in discovering how to make them is done, the cost of creating new crystal fishing rods is negligible, rendering them a less costly item to disassemble than the much more expensive top tier combat weapons and gear or other crystal tools like the hatchet and pickaxe. Tools also drain charge at a much lower rate, reducing cost.\n\nAugmenting tools requires research at level 22. Tools benefit from having higher levels to access higher experience rate methods, as the equipment experience rate is directly tied to the base skilling experience rate for that tool.",
     "url": "https://runescape.wikia.com/wiki/Invention_training#Skilling",
     "color": 12269891,
