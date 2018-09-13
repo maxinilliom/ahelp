@@ -361,36 +361,36 @@ exports.data = {
       ]
   },
   "distractions and diversions": { 
-"title": "Distractions and Diversions", 
-"url": "http://runescape.wikia.com/wiki/Distractions_and_Diversions", 
-"description": "D&Ds are a subclassification of minigames. However, unlike minigames many D&Ds move around the world to various locations, have a limit on how often they can be played, and only occur at particular times of day.\n\nDistractions and Diversions aim to divert the original intentions of the player in order to provide an interesting distraction from their everyday routines. D&Ds come in many different shapes and sizes; covering Combat, Gathering, Artisan, and Support skills. There are a wide variety of different options available to suit the players choice.", 
-"color": 12269891, 
-"footer": { 
-"icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg", 
-"text": "Achievement Help | Divination" 
-}, 
-"thumbnail": { 
-"url": "https://vignette.wikia.nocookie.net/runescape2/images/6/62/D%26D_icon.png/revision/latest?cb=20140914110639" 
-}, 
-"author": { 
-"name": "Max Cape Info", 
-"icon_url": "https://i.imgur.com/6c6q2iC.png" 
-}, 
-"fields": [ 
-{ 
-"name": "▬▬ Guthixian Cache ▬▬", 
-"value": "Players gain Divination experience as a reward for participating in the [Guthixian Cache](http://runescape.wikia.com/wiki/Divination_training#Guthixian_Cache) Distraction and Diversion.Taking place every hour and can be accessed using one of the energy rifts found at any wisp colony, except the energy rift located at the pale wisp colony.\nPlayer automaton\n\nWhile participating in Guthixian Cache, players may earn points by taking a memory from any of memory deposits found at the walls surrounding the area and depositing it into the unstable rift located at the centre of the room. Players should ensure that they avoid any active automatons while carrying a memory, as automatons will destroy any memories carried by players who come into contact with them. A player may also gain points if they transform themself into Cres by using the transform option on any of the Statues of Cres located in the four corners of the room and temporarily subdue automatons. The player will be transformed into Cres for 60 seconds. " 
-}, 
-{ 
-"name": "▬▬ Mazcab Supply Runs ▬▬", 
-"value": "[Supply Runs](http://runescape.wikia.com/wiki/Supply_run) are a safe activity that take place on [Mazcab](http://runescape.wikia.com/wiki/Mazcab) every 12 hours (at midnight and noon game time). The activity begins with goebie supplies spawning at the supply rock near to Querci in Kanatah and is available until 25 minutes past the hour. Players may take up to 10 goebie supplies per day from the supply rock. Upon taking goebie supplies players become flagged for safe PvP and can be attacked by other players, with death resulting in the loss of all goebie supplies that the players are carrying. After obtaining goebie supplies players must travel north-west through the Nemi Forest to Otot, where the supplies may be exchanged for experience with Quercy. " 
-}, 
-{ 
-"name": "​", 
-"value": "The player will be given a choice between two skills in which to gain experience: Divination or Crafting, Farming or Herblore, and Hunter or Woodcutting. Different skills are offered on different worlds, so players may change worlds to find a world where the skill in which they wish to gain experience is offered. Between 495, with level 1, and 48,515, with level 99, experience can be gained from exchanging 10 goebie supplies. Assuming the activity is completed in 5 minutes, experience is awarded at a rate equivalent to between 5,940, with level 1, and 582,180, with level 99, experience an hour. [Source](http://runescape.wikia.com/wiki/Divination_training#Supply_runs)." 
-} 
-] 
-},
+    "title": "Distractions and Diversions", 
+    "url": "http://runescape.wikia.com/wiki/Distractions_and_Diversions", 
+    "description": "D&Ds are a subclassification of minigames. However, unlike minigames many D&Ds move around the world to various locations, have a limit on how often they can be played, and only occur at particular times of day.\n\nDistractions and Diversions aim to divert the original intentions of the player in order to provide an interesting distraction from their everyday routines. D&Ds come in many different shapes and sizes; covering Combat, Gathering, Artisan, and Support skills. There are a wide variety of different options available to suit the players choice.", 
+    "color": 12269891, 
+    "footer": { 
+    "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg", 
+    "text": "Achievement Help | Divination" 
+    }, 
+    "thumbnail": { 
+    "url": "https://vignette.wikia.nocookie.net/runescape2/images/6/62/D%26D_icon.png/revision/latest?cb=20140914110639" 
+    }, 
+    "author": { 
+    "name": "Max Cape Info", 
+    "icon_url": "https://i.imgur.com/6c6q2iC.png" 
+    }, 
+    "fields": [ 
+    { 
+    "name": "▬▬ Guthixian Cache ▬▬", 
+    "value": "Players gain Divination experience as a reward for participating in the [Guthixian Cache](http://runescape.wikia.com/wiki/Divination_training#Guthixian_Cache) Distraction and Diversion.Taking place every hour and can be accessed using one of the energy rifts found at any wisp colony, except the energy rift located at the pale wisp colony.\nPlayer automaton\n\nWhile participating in Guthixian Cache, players may earn points by taking a memory from any of memory deposits found at the walls surrounding the area and depositing it into the unstable rift located at the centre of the room. Players should ensure that they avoid any active automatons while carrying a memory, as automatons will destroy any memories carried by players who come into contact with them. A player may also gain points if they transform themself into Cres by using the transform option on any of the Statues of Cres located in the four corners of the room and temporarily subdue automatons. The player will be transformed into Cres for 60 seconds. " 
+    }, 
+    { 
+    "name": "▬▬ Mazcab Supply Runs ▬▬", 
+    "value": "[Supply Runs](http://runescape.wikia.com/wiki/Supply_run) are a safe activity that take place on [Mazcab](http://runescape.wikia.com/wiki/Mazcab) every 12 hours (at midnight and noon game time). The activity begins with goebie supplies spawning at the supply rock near to Querci in Kanatah and is available until 25 minutes past the hour. Players may take up to 10 goebie supplies per day from the supply rock. Upon taking goebie supplies players become flagged for safe PvP and can be attacked by other players, with death resulting in the loss of all goebie supplies that the players are carrying. After obtaining goebie supplies players must travel north-west through the Nemi Forest to Otot, where the supplies may be exchanged for experience with Quercy. " 
+    }, 
+    { 
+    "name": "​", 
+    "value": "The player will be given a choice between two skills in which to gain experience: Divination or Crafting, Farming or Herblore, and Hunter or Woodcutting. Different skills are offered on different worlds, so players may change worlds to find a world where the skill in which they wish to gain experience is offered. Between 495, with level 1, and 48,515, with level 99, experience can be gained from exchanging 10 goebie supplies. Assuming the activity is completed in 5 minutes, experience is awarded at a rate equivalent to between 5,940, with level 1, and 582,180, with level 99, experience an hour. [Source](http://runescape.wikia.com/wiki/Divination_training#Supply_runs)." 
+    } 
+    ] 
+  },
 	"daily challenge": {
     "title": "Daily Challenge",
     "url": "http://runescape.wikia.com/wiki/Challenge_System/Divination",
@@ -474,5 +474,6 @@ exports.data = {
         "value": "[Divination Cape](http://runescape.wikia.com/wiki/Divination_cape)\n • +1 level for 1 minute\n\n[Spicy Stew](http://runescape.wikia.com/wiki/Spicy_stew)\n • Boost is applied to a random skill\n • Up to ±6 with 3 spice doses\n • Up to ±3 with 2 spice doses\n • Up to ±2 with 1 spice dose\n\n[God Banner](http://runescape.wikia.com/wiki/God_banner)\n• Exploration boost: +6 levels\n• The boost can be used once per day and lasts for 30 minutes\n\n[Jitterberry](http://runescape.wikia.com/wiki/Jitterberry)\n• +2 levels\n• Requires access to [The Arc](http://runescape.wikia.com/wiki/The_Arc)\n• Reduces Defence by 1 level\n\n[One-Leaf Clover Necklace](http://runescape.wikia.com/wiki/One-leaf_clover_necklace)\n• Can grant a +5 boost to Divination. However, the chance for the necklace to choose Divination for the boost is highly uncommon due to it being chosen at random from all skills.\n\n[Enrichment Aura](http://runescape.wikia.com/wiki/Enrichment_aura)\n• Increase the chance to obtain an enriched memory by 3-15 %."
       }
       ]
+    }
   }
 };
