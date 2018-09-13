@@ -3775,47 +3775,6 @@ exports.data = {
     },
     "timestamp": "2001-01-04T12:00:00Z"
   },
-  "unlockables - titles - insane final boss": {
-    "title": "Insane Final Boss",
-    "author": {
-      "name": "True Trimmed Info",
-      "icon_url": "https://i.imgur.com/6c6q2iC.png"
-    },
-    "description": "[Insane Final Boss](https://runescape.wikia.com/wiki/Insane_Final_Boss) is an achievement that requires the player to complete the following achievements:\n\n• The [Final boss](https://runescape.wikia.com/wiki/Final_Boss_(achievement%29) achievement (with 100 normal mode kills of each boss)\n• All [Boss pets](https://runescape.wikia.com/wiki/Boss_Pets_achievements) achievements\n• The [Birdstrike VI](https://runescape.wikia.com/wiki/Birdstrike_VI) achievement\n• The [Crabtivating Solo Kills VI](https://runescape.wikia.com/wiki/Crabtivating_Solo_Kills_VI) achievement\n• The [General Disaster VI](https://runescape.wikia.com/wiki/General_Disaster_VI) achievement\n• The [Gregore-Y VI](https://runescape.wikia.com/wiki/Gregore-Y_VI) achievement\n• The [Hel in a Handbasket VI](https://runescape.wikia.com/wiki/Hel_in_a_Handbasket_VI) achievement\n• The [Here We Rago Again VI](https://runescape.wikia.com/wiki/Here_We_Rago_Again_VI) achievement\n• The [Kill K'ril Vol 2 VI](https://runescape.wikia.com/wiki/Kill_K%27ril_Vol_2_VI) achievement\n• The [Masuta Master Solo Kills VI](https://runescape.wikia.com/wiki/Masuta_Master_Solo_Kills_VI) achievement\n• The [More Fast More Furious VI](https://runescape.wikia.com/wiki/More_Fast_More_Furious_VI) achievement\n• The [Slay-ryu Solo Kills VI](https://runescape.wikia.com/wiki/Slay-ryu_Solo_Kills_VI) achievement\n• The [Vindictive VI](https://runescape.wikia.com/wiki/Vindictive_VI) achievement\n• The [Whack a Mole VI](https://runescape.wikia.com/wiki/Whack_a_Mole_VI) achievement\n• The [Zillier Way to Die VI](https://runescape.wikia.com/wiki/Zillier_Way_to_Die_VI) achievement\n\nCompleting this achievement will reward the player with the [Insane Final Boss](https://runescape.wikia.com/wiki/Final_Boss#Insane_Final_Boss) title.\n\nThe final boss achievement can be completed with 100 hardmode, challenge mode, and solo mode kills from their corresponding bosses. However, to complete the insane final boss achievement, the player needs both hardmode and normal mode kills.",
-    "color": 10257648,
-    "thumbnail": {
-      "url": "https://i.imgur.com/Shmagnp.png"
-    },
-    "fields": [{
-      "name": "Tips:",
-      "value": "It is highly recommended that the player does their daily [Soul Reaper assignments](https://runescape.wikia.com/wiki/Soul_Reaper#Assignments). This will give a chance on a boss pet from the corresponding assignment while breaking up the grind so the player does not have to camp a single boss trying to get the pets 1 by 1."
-    }],
-    "footer": {
-      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-      "text": "Runescore awarded: 0"
-    }
-  },
-  "unlockables - titles - master of all": {
-    "title": "Master of All",
-    "author": {
-      "name": "True Trimmed Info",
-      "icon_url": "https://i.imgur.com/6c6q2iC.png"
-    },
-    "description": "[Master of All](https://runescape.wikia.com/wiki/Master_of_All_(achievement%29) is an achievement that requires the player to obtain all 27 [skilling pets](https://runescape.wikia.com/wiki/Skilling_pets). Completing the achievement will unlock the [Master of All](https://runescape.wikia.com/wiki/Master_of_All) title. There is 4 other titles that the player will unlock before the Master of All title, which include:\n\n• The [Jack of Trades](https://runescape.wikia.com/wiki/Jack_of_Trades) title (after 5 non-combat skill pets)\n• The [Jack of All Trades](https://runescape.wikia.com/wiki/Jack_of_All_Trades) title (after 18 non-combat skill pets)\n• The [Jack of Blades](https://runescape.wikia.com/wiki/Jack_of_Blades) title (after 3 combat skill pets)\n• The [Jack of All Blades](https://runescape.wikia.com/wiki/Jack_of_All_Blades) title (after 9 combat skill pets)",
-    "color": 10257648,
-    "thumbnail": {
-      "url": "https://i.imgur.com/Shmagnp.png"
-    },
-    "fields": [{
-      "name": "Guides:",
-      "value": "The best method to obtain each skill pet can be found in the corresponding skill channels:\n\n• <#452248684059688960>\n• <#431118201200312331>\n• <#430122250016915478>\n• <#431118731276451862>\n• <#431118782304354320>\n• <#431117699196649473>\n• <#431117738216259584>\n• <#431118254270840852>\n• <#431117799965065216>\n• <#431117865471574036>\n• <#431117916679831583>\n• <#431117950238457866>\n• <#431117975307943947>\n• <#431118104710348800>\n• <#431118153892888576>\n• <#431118590213881857>\n• <#431118174834917386>\n• <#431118294934618112>\n• <#431118328661016596>\n• <#431118351574499330>\n• <#431118404699553812>\n• <#431118435792060417>\n• <#431118462472028160>\n• <#431118228668809216>\n• <#431118494583750666>\n• <#431118537088696320>\n• <#431118560551501844>\n\nUsing the corresponding command **.max [skill name] pet** in the <#382701090430386180> channel, will also show the pet information."
-    }],
-    "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
-      "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
-    },
-    "timestamp": "2001-01-04T12:00:00Z"
-  },
   "unlockables - titles - the warden": {
     "title": "The Warden",
     "author": {
