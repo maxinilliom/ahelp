@@ -91,7 +91,7 @@ exports.data = {
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     }
   },
-  "suggestions": {
+  "information": {
 "title": "Dungeoneering Information",
     "description": "Upon first entering Daemonheim, you will only have access to minimal dungeon set ups, namely [Complexity](http://runescape.wikia.com/wiki/Complexity) 1 and floor 1. For low Dungeoneering levels, it is recommended to solo. \n\n • Talk to the [Dungeoneering Tutor](http://runescape.wikia.com/wiki/Dungeoneering_tutor) by Daemonheim's entrance, he will give you a [Ring of Kinship](http://runescape.wikia.com/wiki/Ring_of_kinship). \n\n • Form a party by right clicking your ring of kinship and selecting ``Open Party Interface`` and click ``Form Party``. \n\n • To start a dungeon after forming a party, click on the entrances that can be found on the left or right sides as soon as you enter the castle. \n\n • You will start on floor 1, complexity 1. You will be provided with some equipment. You may only bind one item at level 1 Dungeoneering. It is recommended to bind the highest level 2-handed weapon available.",
     "url": "https://runescape.wikia.com/wiki/Pay-to-play_Dungeoneering_training#Optimising_floors",

@@ -230,7 +230,7 @@ exports.data = {
       }
       ]
   },
-  "alternate methods": {
+  "alternate methods pt1": {
     "title": "Alternative Methods of Training",
     "url": "http://runescape.wikia.com/wiki/Pay-to-play_Ranged_training#Other_training_methods",
     "description": "Some users may wish to utilize methods outside of the ones displayed in this channel's guide. To aid in this, the following alternative methods are provided.",
