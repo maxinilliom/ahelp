@@ -1006,6 +1006,64 @@ exports.data = {
     },
 "timestamp": "2001-01-04T12:00:00Z"
   },
+  "combat - general - final boss": {
+    "title": "Final Boss",
+    "author": {
+      "name": "RuneScore Achievement Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[Final Boss](https://runescape.wikia.com/wiki/Final_Boss_(achievement) is an achievement that requires the player to defeat all bosses 100 times and have a total of 5,000 boss kills. Hardmode is not required, but hardmode kills do count as regular kills. If hardmode kills are used to unlock the Final Boss title, but the player lacks 100 kills in normal mode for any boss, the achievement remains locked, although the title itself can still be worn. Completing this achievement awards the **Final Boss [Name]** title.\n\nIt is highly recommended that the player does their daily [Soul Reaper assignments](https://runescape.wikia.com/wiki/Soul_Reaper#Assignments). This will break up the grind so the player does not have to camp a single boss all the way through.",
+    "color": 10257648,
+    "thumbnail": {
+      "url": "https://i.imgur.com/Shmagnp.png"
+    },
+    "fields": [{
+      "name": "Requirements:",
+      "value": "• [Along Came a Spider VI](https://runescape.wikia.com/wiki/Along_Came_a_Spider_VI)\n• [Barrowed Power VI](https://runescape.wikia.com/wiki/Barrowed_Power_VI)\n• [Besting The Celestial VI](https://runescape.wikia.com/wiki/Besting_The_Celestial_VI)\n• [Bird is the Word VI](https://runescape.wikia.com/wiki/Bird_is_the_Word_VI)\n• [Brass Nex VI](https://runescape.wikia.com/wiki/Brass_Nex_VI)\n• [Bug Swatter VI](https://runescape.wikia.com/wiki/Bug_Swatter_VI)\n• [Bug Zapper VI](https://runescape.wikia.com/wiki/Bug_Zapper_VI)\n• [Come and Have Vorago VI](https://runescape.wikia.com/wiki/Come_and_Have_Vorago_VI)\n• [Corporeal Punishment VI](https://runescape.wikia.com/wiki/Corporeal_Punishment_VI)\n• [Crabtivating VI](https://runescape.wikia.com/wiki/Crabtivating_VI)"
+    },
+    {
+      "name": "​",
+      "value": "• [Crossing Over VI](https://runescape.wikia.com/wiki/Crossing_Over_VI)\n• [Dagannoth for Everyone VI](https://runescape.wikia.com/wiki/Dagannoth_for_Everyone_VI)\n• [Descension VI](https://runescape.wikia.com/wiki/Descension_VI)\n• [eLeMeNtAl kIlL cHaOs VI](https://runescape.wikia.com/wiki/ELeMeNtAl_kIlL_cHaOs_VI)\n• [Fast and Furious](https://runescape.wikia.com/wiki/Fast_and_Furious_VI)\n• [VI General Mayhem VI](https://runescape.wikia.com/wiki/General_Mayhem_VI)\n• [Gregorgeous VI](https://runescape.wikia.com/wiki/Gregorgeous_VI)\n• [Hardly a Challenge VI](https://runescape.wikia.com/wiki/Hardly_a_Challenge_VI)\n• [Kill K'ril VI](https://runescape.wikia.com/wiki/Kill_K%27ril_VI)\n• [Living on a Prayer Switch VI](https://runescape.wikia.com/wiki/Living_on_a_Prayer_Switch_VI)"
+    },
+    {
+      "name": "​",
+      "value": "• [Loot Pinata VI](https://runescape.wikia.com/wiki/Loot_Pinata_VI)\n• [Master of Beatings VI](https://runescape.wikia.com/wiki/Master_of_Beatings_VI)\n• [Masuta Master VI](https://runescape.wikia.com/wiki/Masuta_Master_VI)\n• [Mole Removal VI](https://runescape.wikia.com/wiki/Mole_Removal_VI)\n• [Nex Pls VI](https://runescape.wikia.com/wiki/Nex_Pls_VI)\n• [Slay-ryu VI](https://runescape.wikia.com/wiki/Slay-ryu_VI)\n• [Something Barrowed VI ](https://runescape.wikia.com/wiki/Something_Barrowed_VI)\n• [Superiority Complex VI](https://runescape.wikia.com/wiki/Superiority_Complex_VI)\n• [Telos Where it Hurts VI](https://runescape.wikia.com/wiki/Telos_Where_it_Hurts_VI)\n• [This Helwyr in VI](https://runescape.wikia.com/wiki/This_Helwyr_in_VI)"
+    },
+    {
+      "name": "​",
+      "value": "• [Three Heads are Deader than One VI](https://runescape.wikia.com/wiki/Three_Heads_are_Deader_than_One_VI)\n• [Vindictive and Vexatious VI](https://runescape.wikia.com/wiki/Vindictive_and_Vexatious_VI)\n• [Whack Stone Dragon VI](https://runescape.wikia.com/wiki/Whack_Stone_Dragon_VI)\n• [Who's the Boss? VI](https://runescape.wikia.com/wiki/Who%27s_the_Boss%3F_VI)\n• [Wood Kill Again VI](https://runescape.wikia.com/wiki/Wood_Kill_Again_VI)\n• [Yak and Ruin VI](https://runescape.wikia.com/wiki/Yak_and_Ruin_VI)\n• [Zilly Way To Die VI](https://runescape.wikia.com/wiki/Zilly_Way_To_Die_VI)"
+    },
+    {
+          "name": "Guides:",
+          "value": "• [PvM Pocketbook by Ancient Dawn | Google Drive](https://drive.google.com/file/d/0B1BQkGxSlc2tQmt5Yl9LeUV4d1E/view)\n\n• <#476790691436167168>"
+    }],
+    "footer": {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+      "text": "Runescore awarded: 0"
+    },
+    "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "combat - general - insane final boss": {
+    "title": "Insane Final Boss",
+    "author": {
+      "name": "RuneScore Achievement Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[Insane Final Boss](https://runescape.wikia.com/wiki/Insane_Final_Boss) is an achievement that requires the player to complete the following achievements:\n\n• The [Final boss](https://runescape.wikia.com/wiki/Final_Boss_(achievement%29) achievement (with 100 normal mode kills of each boss)\n• All [Boss pets](https://runescape.wikia.com/wiki/Boss_Pets_achievements) achievements\n• The [Birdstrike VI](https://runescape.wikia.com/wiki/Birdstrike_VI) achievement\n• The [Crabtivating Solo Kills VI](https://runescape.wikia.com/wiki/Crabtivating_Solo_Kills_VI) achievement\n• The [General Disaster VI](https://runescape.wikia.com/wiki/General_Disaster_VI) achievement\n• The [Gregore-Y VI](https://runescape.wikia.com/wiki/Gregore-Y_VI) achievement\n• The [Hel in a Handbasket VI](https://runescape.wikia.com/wiki/Hel_in_a_Handbasket_VI) achievement\n• The [Here We Rago Again VI](https://runescape.wikia.com/wiki/Here_We_Rago_Again_VI) achievement\n• The [Kill K'ril Vol 2 VI](https://runescape.wikia.com/wiki/Kill_K%27ril_Vol_2_VI) achievement\n• The [Masuta Master Solo Kills VI](https://runescape.wikia.com/wiki/Masuta_Master_Solo_Kills_VI) achievement\n• The [More Fast More Furious VI](https://runescape.wikia.com/wiki/More_Fast_More_Furious_VI) achievement\n• The [Slay-ryu Solo Kills VI](https://runescape.wikia.com/wiki/Slay-ryu_Solo_Kills_VI) achievement\n• The [Vindictive VI](https://runescape.wikia.com/wiki/Vindictive_VI) achievement\n• The [Whack a Mole VI](https://runescape.wikia.com/wiki/Whack_a_Mole_VI) achievement\n• The [Zillier Way to Die VI](https://runescape.wikia.com/wiki/Zillier_Way_to_Die_VI) achievement\n\nCompleting this achievement will reward the player with the [Insane Final Boss](https://runescape.wikia.com/wiki/Final_Boss#Insane_Final_Boss) title.\n\nThe final boss achievement can be completed with 100 hardmode, challenge mode, and solo mode kills from their corresponding bosses. However, to complete the insane final boss achievement, the player needs both hardmode and normal mode kills.",
+    "color": 10257648,
+    "thumbnail": {
+      "url": "https://i.imgur.com/Shmagnp.png"
+    },
+    "fields": [{
+      "name": "​",
+      "value": "Completing this achievement awards the **Insane Final Boss [Name]** title.\n\nIt is highly recommended that the player does their daily [Soul Reaper assignments](https://runescape.wikia.com/wiki/Soul_Reaper#Assignments). This will give a chance on a boss pet from the corresponding assignment while breaking up the grind so the player does not have to camp a single boss trying to get the pets 1 by 1."
+    }],
+    "footer": {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+      "text": "Runescore awarded: 0"
+    },
+  "timestamp": "2001-01-04T12:00:00Z"
+  },
   "combat - general - order of slayers": {
     "title": "Order of Slayers",
     "author": {
@@ -5805,7 +5863,23 @@ exports.data = {
       },
       {
         "name": "Guide (Route):",
-        "value": "[Great Gielinor Run Route | Runescape Wiki](https://runescape.wikia.com/wiki/Great_Gielinor_Run#Route)\n\n[The Great Gielinor Run Guide | Extragorey - YouTube](https://www.youtube.com/watch?v=5MhlZxAgM3k)"
+        "value": "The [Great Gielinor Run Route | Runescape Wiki](https://runescape.wikia.com/wiki/Great_Gielinor_Run#Route) is:\n• Speak with Linford at the Tyras Camp to accept the challenge.\n• Leave the Tyras Camp by exiting north through the dense forest.\n• Run south-east and pass through the dense forest to the south.\n• Step over the tripwire to the south.\n• Pass through the dense forest to the south-east.\n• Run around the Tirannwn lodestone to the north-east.\n• Run north-east to the first leaf trap. Jump leaves.\n• Run north and pass through dense forest to the west. Do not take the tripwire to the east.\n• Run north to the second leaf trap. Jump leaves.\n• Run east through trees towards cave entrance [Underground Pass](https://runescape.wikia.com/wiki/Underground_Pass_(dungeon). Do not enter.\n• Pass north through dense forest just before cave entrance.\n• Run north-west to log balance and cross over the river."
+      },
+      {
+        "name": "​",
+        "value": "• Step over tripwire to the north.\n• Run east through trees to the entrance of the [Arandar pass](https://runescape.wikia.com/wiki/Arandar).\n• Follow the path over the Arandar pass. Shortcuts can be used as well.\n• Go through the big gates and run east.\n• Cross the first bridge north of [East Ardougne](https://runescape.wikia.com/wiki/East_Ardougne).\n• Go north-east to southern corner of the [Ranging Guild](https://runescape.wikia.com/wiki/Ranging_Guild).\n• Go east to [Catherby](https://runescape.wikia.com/wiki/Catherby).\n• Enter the cave east of the farming patches, and run below [White Wolf Mountain](https://runescape.wikia.com/wiki/White_Wolf_Mountain) to the exit in [Taverley](https://runescape.wikia.com/wiki/Taverley). This requires completion of [Fishing Contest](https://runescape.wikia.com/wiki/Fishing_Contest). Alternatively, one can use the grappling hook shortcut from Catherby to Taverley, east of the fruit tree farming patch and then run east to exit Taverley."
+      },
+      {
+        "name": "​",
+        "value": "• Go south-east to the eastern exit of Taverley.\n• Go all the way east to [Varrock](https://runescape.wikia.com/wiki/Varrock), through [Barbarian Village](https://runescape.wikia.com/wiki/Barbarian_Village).\n• Go through Varrock to the eastern gate.\n• Exit through the eastern gate and go north-east to [Paterdomus](https://runescape.wikia.com/wiki/Paterdomus).\n• Use the Saradomin statue shortcut to cross the [river Salve](https://runescape.wikia.com/wiki/River_Salve).\n• Go south, and open the gate to enter [Mort Myre Swamp](https://runescape.wikia.com/wiki/Mort_Myre_Swamp). If the shortcut from Temple Trekking is enabled then a warning will be shown to disable the shortcut before going further, as using this shortcut will disqualify the player for this challenge.\n• Go all the way south through the Swamp.\n• Go to Burgh de Rott.\n• Go south-east to the boat shack.\n• Use the boat to travel to [Meiyerditch](https://runescape.wikia.com/wiki/Meiyerditch)."
+      },
+      {
+        "name": "​",
+        "value": "• Jump onto the rocks.\n• Climb up the rocks.\n• Go a little bit north-west and climb down the floor.\n• Climb over the wall rubble.\n• Go north to house with the Taskmaster icon on the minimap that contains [Old Man Ral](https://runescape.wikia.com/wiki/Old_Man_Ral).\n• Enter shortcut door in house most north-western from Old Man Ral. The shortcut has a Myreque symbol on the door.\n• Climb up the shelf.\n• Crawl under the wall to the east side.\n• Jump to the floorboards to the east.\n• Down the ladder.\n• Open the door to the east.\n• Exit north and enter shortcut door immediately to east, open door just south and go up ladder.\n• Climb up shelf on the south side of the room on the outside.\n• Climb down shelf to the north-east of the room.\n• Jump to the floorboards to the north."
+      },
+      {
+        "name": "​",
+        "value": "• Jump to floorboards north (again).\n• Jump to floorboards east - north-east part of the room.\n• Climb down the ladder.\n• Open the door and go north and slightly west to a house with a fireplace in it.\n• Go up the ladder.\n• Go to the west side of the room and jump the wall to the next building.\n• Go down the ladder.\n• Open the door, take one step outside, close the door and go all the way north until a huge wall appears.\n• Squeeze through the grate shortcut.\n• Go through Darkmeyer to the entrance of [Castle Drakan](https://runescape.wikia.com/wiki/Castle_Drakan). Do not enter Vanstrom's Mansion to the south, as you will be disqualified.\n• Once near the entrance the achievement will be complete.\n\n• [The Great Gielinor Run Guide | Extragorey - YouTube](https://www.youtube.com/watch?v=5MhlZxAgM3k)"
       }
     ],
     "footer": {
@@ -8584,6 +8658,111 @@ exports.data = {
     },
 "timestamp": "2001-01-04T12:00:00Z"
   },
+  "skills - general - jack of all blades": {
+    "title": "Jack of All Blades",
+    "author": {
+      "name": "RuneScore Achievement Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[Jack of All Blades](https://runescape.wikia.com/wiki/Jack_of_All_Blades_(achievement) is an achievement rewarded after obtaining all 9 combat [skilling pets](https://runescape.wikia.com/wiki/Skilling_pets) and thus unlocking the title, **[Name], Jack of All Blades**.",
+    "color": 10257648,
+    "thumbnail": {
+      "url": "https://i.imgur.com/Shmagnp.png"
+    },
+    "fields": [{
+      "name": "Guides:",
+      "value": "The best method to obtain each skill pet can be found in the corresponding skill channels:\n\n• <#431118201200312331>\n• <#431118731276451862>\n• <#431118254270840852>\n• <#431118174834917386>\n• <#431118328661016596>\n• <#431118351574499330>\n• <#431118435792060417>\n• <#431118228668809216>\n• <#431118494583750666>\n\nUsing the corresponding command **.max [skill name] pet** in the <#382701090430386180> channel, will also show the pet information."
+    }],
+    "footer": {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+      "text": "Runescore awarded: 0"
+    },
+    "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "skills - general - jack of all trades": {
+    "title": "Jack of All Trades",
+    "author": {
+      "name": "RuneScore Achievement Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[Jack of All Trades](https://runescape.wikia.com/wiki/Jack_of_All_Trades_(achievement) is an achievement rewarded after obtaining all 18 non-combat [skilling pets](https://runescape.wikia.com/wiki/Skilling_pets) and thus unlocking the title, **[Name], Jack of All Trades**.",
+    "color": 10257648,
+    "thumbnail": {
+      "url": "https://i.imgur.com/Shmagnp.png"
+    },
+    "fields": [{
+      "name": "Guides:",
+      "value": "The best method to obtain each skill pet can be found in the corresponding skill channels:\n\n• <#452248684059688960>\n• <#430122250016915478>\n• <#431118782304354320>\n• <#431117699196649473>\n• <#431117738216259584>\n• <#431117799965065216>\n• <#431117865471574036>\n• <#431117916679831583>\n• <#431117950238457866>\n• <#431117975307943947>\n• <#431118104710348800>\n• <#431118153892888576>\n• <#431118590213881857>\n• <#431118294934618112>\n• <#431118404699553812>\n• <#431118462472028160>\n• <#431118537088696320>\n• <#431118560551501844>\n\nUsing the corresponding command **.max [skill name] pet** in the <#382701090430386180> channel, will also show the pet information."
+    }],
+    "footer": {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+      "text": "Runescore awarded: 0"
+    },
+    "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "skills - general - jack of blades": {
+    "title": "Jack of Blades",
+    "author": {
+      "name": "RuneScore Achievement Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[Jack of Blades](https://runescape.wikia.com/wiki/Jack_of_Blades_(achievement) is an achievement rewarded after obtaining 3 combat [skilling pets](https://runescape.wikia.com/wiki/Skilling_pets) and thus unlocking the title, **[Name], Jack of Blades**.",
+    "color": 10257648,
+    "thumbnail": {
+      "url": "https://i.imgur.com/Shmagnp.png"
+    },
+    "fields": [{
+      "name": "Guides:",
+      "value": "The best method to obtain each skill pet can be found in the corresponding skill channels:\n\n• <#431118201200312331>\n• <#431118731276451862>\n• <#431118254270840852>\n• <#431118174834917386>\n• <#431118328661016596>\n• <#431118351574499330>\n• <#431118435792060417>\n• <#431118228668809216>\n• <#431118494583750666>\n\nUsing the corresponding command **.max [skill name] pet** in the <#382701090430386180> channel, will also show the pet information."
+    }],
+    "footer": {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+      "text": "Runescore awarded: 0"
+    },
+    "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "skills - general - jack of trades": {
+    "title": "Jack of Trades",
+    "author": {
+      "name": "RuneScore Achievement Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[Jack of Trades](https://runescape.wikia.com/wiki/Jack_of_Trades_(achievement) is an achievement rewarded after obtaining 5 non-combat [skilling pets](https://runescape.wikia.com/wiki/Skilling_pets) and thus unlocking the title, **[Name], Jack of Trades**.",
+    "color": 10257648,
+    "thumbnail": {
+      "url": "https://i.imgur.com/Shmagnp.png"
+    },
+    "fields": [{
+      "name": "Guides:",
+      "value": "The best method to obtain each skill pet can be found in the corresponding skill channels:\n\n• <#452248684059688960>\n• <#430122250016915478>\n• <#431118782304354320>\n• <#431117699196649473>\n• <#431117738216259584>\n• <#431117799965065216>\n• <#431117865471574036>\n• <#431117916679831583>\n• <#431117950238457866>\n• <#431117975307943947>\n• <#431118104710348800>\n• <#431118153892888576>\n• <#431118590213881857>\n• <#431118294934618112>\n• <#431118404699553812>\n• <#431118462472028160>\n• <#431118537088696320>\n• <#431118560551501844>\n\nUsing the corresponding command **.max [skill name] pet** in the <#382701090430386180> channel, will also show the pet information."
+    }],
+    "footer": {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+      "text": "Runescore awarded: 0"
+    },
+    "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "skills - general - master of all": {
+    "title": "Master of All",
+    "author": {
+      "name": "RuneScore Achievement Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[Master of All](https://runescape.wikia.com/wiki/Master_of_All_(achievement%29) is an achievement that requires the player to obtain all 27 [skilling pets](https://runescape.wikia.com/wiki/Skilling_pets). There is 4 other titles that the player will unlock before the Master of All title, which include:\n\n• The [Jack of Trades](https://runescape.wikia.com/wiki/Jack_of_Trades) title (after 5 non-combat skill pets)\n• The [Jack of All Trades](https://runescape.wikia.com/wiki/Jack_of_All_Trades) title (after 18 non-combat skill pets)\n• The [Jack of Blades](https://runescape.wikia.com/wiki/Jack_of_Blades) title (after 3 combat skill pets)\n• The [Jack of All Blades](https://runescape.wikia.com/wiki/Jack_of_All_Blades) title (after 9 combat skill pets)\n\nCompleting this achievement awards the **[Name], Master of All** title.",
+    "color": 10257648,
+    "thumbnail": {
+      "url": "https://i.imgur.com/Shmagnp.png"
+    },
+    "fields": [{
+      "name": "Guides:",
+      "value": "The best method to obtain each skill pet can be found in the corresponding skill channels:\n\n• <#452248684059688960>\n• <#431118201200312331>\n• <#430122250016915478>\n• <#431118731276451862>\n• <#431118782304354320>\n• <#431117699196649473>\n• <#431117738216259584>\n• <#431118254270840852>\n• <#431117799965065216>\n• <#431117865471574036>\n• <#431117916679831583>\n• <#431117950238457866>\n• <#431117975307943947>\n• <#431118104710348800>\n• <#431118153892888576>\n• <#431118590213881857>\n• <#431118174834917386>\n• <#431118294934618112>\n• <#431118328661016596>\n• <#431118351574499330>\n• <#431118404699553812>\n• <#431118435792060417>\n• <#431118462472028160>\n• <#431118228668809216>\n• <#431118494583750666>\n• <#431118537088696320>\n• <#431118560551501844>\n\nUsing the corresponding command **.max [skill name] pet** in the <#382701090430386180> channel, will also show the pet information."
+    }],
+    "footer": {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+      "text": "Runescore awarded: 0"
+    },
+    "timestamp": "2001-01-04T12:00:00Z"
+  },
   "skills - fishing - up for sail": {
     "title": "Up for Sail",
     "author": {
@@ -8729,7 +8908,7 @@ exports.data = {
     ],
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-      "text": "Runescore awarded: 20"
+      "text": "Runescore awarded: 0"
     },
 "timestamp": "2001-01-04T12:00:00Z"
   }
