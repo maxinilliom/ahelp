@@ -26,8 +26,6 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 
 	if (message.channel.id !== '407919969712603145' && level < 2) return;
 
-	if (cats.includes(achName)) return message.channel.send("Please search by **name**, not category.");
-
 	Object.getOwnPropertyNames(data).forEach(k => {
 		if (k !== "help" && k !== "search") {
 			keyList.push(k);
@@ -187,9 +185,9 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 		const searchEmbed = data["search"];
 		rtnArr.forEach(n => {
 			if (output.length <= 2000) {
-				output += `${i}: ${data[rtnArr[i-1]].embed.title}\n`;
+				output += `${i}: ${data[rtnArr[i-1]].title}\n`;
 			} else if (second.length <= 2000) {
-				second += `${i}: ${data[rtnArr[i-1]].embed.title}\n`;
+				second += `${i}: ${data[rtnArr[i-1]].title}\n`;
 			}
 			i++;
 		});
