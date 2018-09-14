@@ -7,8 +7,8 @@ exports.data = {
   },
   "roleheader": {
     "files": [{
-      "attachment": "media/img/info/roleinfo/Role info header.png",
-      "name": ""
+      "attachment": "media/img/info/roleinfo/roleheader.png",
+      "name": "Role info header.png"
     }]
   },
   "break2": {
@@ -19,8 +19,8 @@ exports.data = {
   },
   "roleinfo": {
     "files": [{
-      "attachment": "media/img/info/roleinfo/Role information.png",
-      "name": ""
+      "attachment": "media/img/info/roleinfo/roleinfo.png",
+      "name": "Role information.png"
     }]
   },
     "staff assigned roles": {
