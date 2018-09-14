@@ -8,10 +8,11 @@ exports.run = (client, message, args, level) => {
 	const embeds = Object.getOwnPropertyNames(data);
 	let i = 0, o = 0, x = embeds.length, errMsg = "";
 	async function list() {
-		const embed = data[embeds[o]];
-		guide.color = undefined; //update - maybe switch?
+		const curr = data[embeds[o]];
+		const embed = curr.description ? {embed: curr} : curr;
+//		guide.color = undefined; //update - maybe switch?
 		try {
-			await message.channel.send("", {embed: embed});
+			await message.channel.send("", embed);
 		} catch (err) {
 			errMsg += `${o}. ${keyList[o]} failed to send with error: ${err}\n`;
 			i--;
