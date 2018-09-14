@@ -9,18 +9,18 @@ exports.run = (client, message, args, level) => {
 	let i = 0, o = 0, x = embeds.length, errMsg = "";
 	async function list() {
 		const curr = data[embeds[o]];
-		const embed = curr.description ? {embed: curr} : curr;
+		const embed = curr.fields ? {embed: curr} : curr;
 //		guide.color = undefined; //update - maybe switch?
 		try {
 			await message.channel.send("", embed);
 		} catch (err) {
-			errMsg += `${o}. ${keyList[o]} failed to send with error: ${err}\n`;
+			errMsg += `${o}. ${embeds[o]} failed to send with error: ${err}\n`;
 			i--;
 		}
 		i++;
 		o++;
 		if (o < x) setTimeout(list, 2500);
-		if (o == x) message.reply(`**${i}**/\**${keyList.length}** responses listed.\n\n${errMsg}`);
+		if (o == x) message.reply(`**${i}**/\**${embeds.length}** responses listed.\n\n${errMsg}`);
 	}
 	list();
 	return message.delete();
