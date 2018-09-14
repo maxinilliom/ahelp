@@ -303,7 +303,7 @@ exports.data = {
          }
       ]
    },
-  "alternate methods pt1": {
+  "alternative methods pt1": {
       "title":"Alternative Methods of Training",
       "description":"Some users may wish to utilize methods outside of the ones displayed in this channel's guide. To aid in this, the following alternative methods are provided.",
       "url":"https://runescape.wikia.com/wiki/Pay-to-play_Fishing_training#Alternative_methods_of_gaining_experience",
@@ -342,7 +342,7 @@ exports.data = {
          }
       ]
    },
-   "alternate methods pt2": {
+   "alternative methods pt2": {
       "title":"Alternative Methods of Training",
       "description":"​",
       "url":"https://runescape.wikia.com/wiki/Pay-to-play_Fishing_training#Alternative_methods_of_gaining_experience",

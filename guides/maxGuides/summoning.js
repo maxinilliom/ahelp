@@ -636,7 +636,7 @@ exports.data = {
          }
       ]
    },
-  "alternate methods": {  
+  "alternative methods": {  
       "title":"Alternative Methods of Training",
       "description":"Some users may wish to utilize methods outside of the ones displayed in this channel's guide. To aid in this, the following alternative methods are provided.",
       "url":"https://runescape.wikia.com/wiki/Summoning_training#Alternative_methods_of_gaining_experience",

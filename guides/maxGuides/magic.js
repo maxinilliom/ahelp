@@ -222,7 +222,7 @@ exports.data = {
       }
       ]
   },
-  "alternate methods pt1": {
+  "alternative methods pt1": {
     "title": "Alternative Methods of Training",
     "url": "http://runescape.wikia.com/wiki/Pay-to-play_Magic_training#Alternative_methods",
     "description": "Some users may wish to utilize methods outside of the ones displayed in this channel's guide. To aid in this, the following alternative methods are provided.",
@@ -257,7 +257,7 @@ exports.data = {
     }
       ]
   },
-  "alternate methods pt2": {
+  "alternative methods pt2": {
     "title": "Alternative Methods of Training Continued",
     "url": "http://runescape.wikia.com/wiki/Pay-to-play_Magic_training#Alternative_methods",
     "description": "Some users may wish to utilize methods outside of the ones displayed in this channel's guide. To aid in this, the following alternative methods are provided.",

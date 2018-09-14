@@ -236,7 +236,7 @@ exports.data = {
       }
       ]
   },
-  "alternate methods": {
+  "alternative methods": {
     "title": "Alternative Methods of Training",
     "url": "http://runescape.wikia.com/wiki/Pay-to-play_Smithing_training#Free_alternatives",
     "description": "Some users may wish to utilize methods outside of the ones displayed in this channel's guide. To aid in this, the following alternative methods are provided.",

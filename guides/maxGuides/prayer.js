@@ -24,7 +24,7 @@ exports.data = {
     }
   },
   "1 - 99 pt1": {  
-      "title":"Prayer Training Levels 1-99",
+      "title":"Prayer Training Levels 1-99+",
       "description":"Prayer experience is earned for burying bones and scattering ashes.  The experience you gain depends upon the type of bone you are burying or ash you are scattering. \n\nOne of the most used methods is offering bones at a [Gilded Altar](https://runescape.wikia.com/wiki/Gilded_altar) with 2 lit [Marble Burners](https://runescape.wikia.com/wiki/Marble_burners) in the [Chapel](https://runescape.wikia.com/wiki/Chapel) of a [player-owned house](https://runescape.wikia.com/wiki/Player-owned_house). Building this requires a Construction level of 75, but you can also visit someone else's house and use their altar.\n\nOffering bones or ashes at a gilded altar with 2 lit marble burners will give you 350% of the original experience:\n• [Impious ashes](https://runescape.wikia.com/wiki/Impious_ashes): 14 experience\n• [Normal bones](https://runescape.wikia.com/wiki/Bones): 15.75 experience\n• [Accursed ashes](https://runescape.wikia.com/wiki/Accursed_ashes): 43.75 experience\n• [Big bones](https://runescape.wikia.com/wiki/Big_bones): 52.5 experience\n• [Babydragon bones](https://runescape.wikia.com/wiki/Babydragon_bones): 105 experience\n• [Wyvern bones](https://runescape.wikia.com/wiki/Wyvern_bones): 175 experience\n• [Infernal ashes](https://runescape.wikia.com/wiki/Infernal_ashes): 218.75 experience\n• [Dragon bones](https://runescape.wikia.com/wiki/Dragon_bones): 252 experience\n• [Dagannoth bones](https://runescape.wikia.com/wiki/Dagannoth_bones): 437.5 experience\n• [Airut bones](https://runescape.wikia.com/wiki/Airut_bones): 463.75 experience\n• [Ourg bones](https://runescape.wikia.com/wiki/Ourg_bones_%28General_Graardor%29): 490 experience\n• [Hardened dragon bones](https://runescape.wikia.com/wiki/Hardened_dragon_bones): 504 experience\n• [Frost dragon bones](https://runescape.wikia.com/wiki/Frost_dragon_bones): 630 experience\n• [Reinforced dragon bones](https://runescape.wikia.com/wiki/Reinforced_dragon_bones): 665 experience\n• [Searing ashes](https://runescape.wikia.com/wiki/Searing_ashes): 700 experience",
       "url":"https://runescape.wikia.com/wiki/Pay-to-play_Prayer_training#Commonly_used_methods",
       "color":12269891,
@@ -55,7 +55,7 @@ exports.data = {
       ]
    },
   "1 - 99 pt2": {  
-      "title":"Prayer Training Levels 1-99",
+      "title":"Prayer Training Levels 1-99+",
       "description":"​",
       "url":"https://runescape.wikia.com/wiki/Pay-to-play_Prayer_training#Commonly_used_methods",
       "color":12269891,
@@ -72,11 +72,11 @@ exports.data = {
       },
       "fields":[  
          {  
-            "name":"​▬▬ Alternative Method: Levels 1-99 ▬▬",
+            "name":"​▬▬ Alternative Method: Levels 1-99+ ▬▬",
             "value":"A player can use the [Chaos Altar](https://runescape.wikia.com/wiki/Chaos_Temple_%28Wilderness%29), which gives 350% of the original experience. It is located in level 12 multi-combat [Wilderness](https://runescape.wikia.com/wiki/Wilderness) It is a method that does not come without its risks, the threat of PKers requires one to be alert, pay attention to the screen and be aware. It is recommended to bring a one click teleport in order to escape\n\nYou can use [Simon](https://runescape.wikia.com/wiki/Simon) who is just on the other side of the temple walls to bank and restock on bones.\n\nRoughly 1,400 bones can be offered an hour without the need of a Beast of Burden using this method. This makes it about equal to using a pack yak in a player-owned house. The use of any Beast of Burden will make it one of the fastest training method in the game."
          },
          {  
-            "name":"​▬▬ Alternative Method: Levels 1-99 ▬▬",
+            "name":"​▬▬ Alternative Method: Levels 1-99+ ▬▬",
             "value":"[Ectofuntus](https://runescape.wikia.com/wiki/Ectofuntus) can also be used to train Prayer. By doing so, the experience one would gain from burying the bones will be multiplied by four. An example would be for every [dragon bone](https://runescape.wikia.com/wiki/Dragon_bone) used in the 'worship', a player would receive 288 experience instead of 72. Although the process is slower than just burying the bones, the experience earned is far better than just by burying the bones. To make the use of the ectofuntus most efficiently, it is best to use ashes instead of bones because ashes do not need to be ground first.\n\nIn comparison to using bones on a gilded altar, the Ectofuntus will give ~14% more experience per bone/ash, but it can be slower. Bare in mind that not all experience boosts will work at the Ectofuntus, which narrows the gap of experience you can gain."
          },
          {  
@@ -92,13 +92,13 @@ exports.data = {
             "value":"If you have Uploaded the quest [Ghost Ahoy](https://runescape.wikia.com/wiki/Ghosts_Ahoy), you will be able to teleport straight to the Ectofuntus with the [Ectophial](https://runescape.wikia.com/wiki/Ectophial), making it a lot faster to collect buckets of slime and train Prayer.\n\nFor a more in depth training guide (gear, setup, teleports, ...), please click [here](https://runescape.wikia.com/wiki/Ectofuntus#Training)."
          },
          {  
-            "name":"​▬▬ Alternative Method: Levels 55-99 ▬▬",
+            "name":"​▬▬ Alternative Method: Levels 55-99+ ▬▬",
             "value":"After completion of the Easy, Medium and Hard [Wilderness achievements](https://runescape.wikia.com/wiki/Wilderness_achievements), you will be able to un-note bones from your inventory with [Harrison](https://runescape.wikia.com/wiki/Harrison) who is located within steps of the [Chaos Altar](https://runescape.wikia.com/wiki/Chaos_Temple_%28Wilderness%29).\n\nDoing so will reduce time per run and increase the bones per hour to roughly 2,000 while still getting 350% of the original experience.\n\nThis method that does not come without its risks, the threat of PKers requires one to be alert and paying attention to the screen. Especially because you will have your entire stack of bones/ashes in your inventory. It is recommended to bring a one click teleport in order to escape if need be."
          }
       ]
    },
   "75 - 99 +": {  
-      "title":"▬▬ Alternative Method: Levels 75-99 ▬▬",
+      "title":"▬▬ Alternative Method: Levels 75-99+ ▬▬",
       "description":"At level 75 Prayer and after getting access to [Prifddinas](https://runescape.wikia.com/wiki/Prifddinas) (requires completion of the quest [The Plague's End](https://runescape.wikia.com/wiki/Plague%27s_End)), you will be able to train Prayer using [Cleansing crystals](https://runescape.wikia.com/wiki/Cleansing_crystal). A Cleansing crystal is an item used to cleanse the [Corrupted Seren Stone](https://runescape.wikia.com/wiki/Corrupted_Seren_Stone) in the [Hefin cathedral](https://runescape.wikia.com/wiki/Hefin_cathedral) in Prifddinas. It can be purchased from [Hefin monks](https://runescape.wikia.com/wiki/Hefin_monk) for 110,000 coins each or obtained via pickpocketing the [Hefin workers](https://runescape.wikia.com/wiki/Hefin_worker). The store refill rate for cleansing crystals is approximately 1 every 10 seconds with a max store quantity of 5 cleansing stones.\n\nIf a cleansing crystal is used completely, without interruption, it will provide 9,800 Prayer experience. This is a cost of 11.22 coins per experience. It takes two minutes for a crystal to be fully drained. Up to 29 stones can be used in an hour, providing approximately 284,200 experience an hour, at a cost of -3,300,000 coins.\n\nAlternatively, when the [Voice of Seren](https://runescape.wikia.com/wiki/Voice_of_Seren) is illuminating the [Hefin Clan](https://runescape.wikia.com/wiki/Hefin_Clan) district, a cleansing crystal will give 20% more experience, for a total of 11,760 experience. This is a cost of 9.35 coins per experience, providing 352,800 experience per hour at the same total cost.",
       "url":"https://runescape.wikia.com/wiki/Pay-to-play_Prayer_training#Cleansing_crystals",
       "color":12269891,
@@ -124,7 +124,7 @@ exports.data = {
          }
       ]
    },
-  "alternate methods pt1": {  
+  "alternative methods pt1": {  
       "title":"Alternative Methods of Training",
       "description":"Some users may wish to utilize methods outside of the ones displayed in this channel's guide. To aid in this, the following alternative methods are provided.",
       "url":"https://runescape.wikia.com/wiki/Pay-to-play_Prayer_training#Alternative_methods",
@@ -167,7 +167,7 @@ exports.data = {
          }
       ]
    },
-  "alternate methods pt2": {  
+  "alternative methods pt2": {  
       "title":"Alternative Methods of Training",
       "description":"​",
       "url":"https://runescape.wikia.com/wiki/Pay-to-play_Prayer_training#Alternative_methods",

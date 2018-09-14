@@ -135,7 +135,7 @@ exports.data = {
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     }
   },
-  "alternate methods": {
+  "alternative methods": {
     "title": "Alternative Methods of Training",
     "url": "http://runescape.wikia.com/wiki/Construction_training#Level_52_to_99_.28easier_method.29",
     "description": "Some users may wish to utilize methods outside of the ones displayed in this channel's guide. To aid in this, the following alternative methods are provided.",

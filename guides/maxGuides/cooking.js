@@ -150,7 +150,7 @@ exports.data = {
   },
   "alternative methods": {
     "title": "Alternative Methods of Training",
-    "url": "http://runescape.wikia.com/wiki/Pay-to-play_Cooking_training#Alternate_methods",
+    "url": "http://runescape.wikia.com/wiki/Pay-to-play_Cooking_training#alternative_methods",
     "description": "Some users may wish to utilize methods outside of the ones displayed in this channel's guide. To aid in this, the following alternative methods are provided.",
         "color": 12269891,
     "footer": {
