@@ -7,7 +7,7 @@ exports.data = {
   },
   "roleheader": {
     "files": [{
-      "attachment": "media/img/info/roleinfo/roleheader.png",
+      "attachment": "media/img/info/roleinfo/Role info header.png",
       "name": ""
     }]
   },
@@ -15,6 +15,12 @@ exports.data = {
     "files": [{
       "attachment": "media/img/info/roleinfo/break.png",
       "name": "break.png"
+    }]
+  },
+  "roleinfo": {
+    "files": [{
+      "attachment": "media/img/info/roleinfo/Role information.png",
+      "name": ""
     }]
   },
     "staff assigned roles": {
@@ -57,6 +63,24 @@ exports.data = {
         "value": "**<@&382710614222569482>**\n• This is for members who have shown strong activity in the Achievement Help Discord Community and its conversations.\n\n**<@&399992283488845845>**\n• This is for members who have been verified to have 50+ followers on either YouTube or Twitch."
       }      
       ]
+  },
+  "break3": {
+    "files": [{
+      "attachment": "media/img/info/roleinfo/break.png",
+      "name": "break.png"
+    }]
+  },
+  "rsnotify": {
+    "files": [{
+      "attachment": "media/img/info/roleinfo/rsnotify.png",
+      "name": "Runescape notify roles.png"
+    }]
+  },
+  "break4": {
+    "files": [{
+      "attachment": "media/img/info/roleinfo/break.png",
+      "name": "break.png"
+    }]
   },
     "runescape notify roles pt1": {
     "title": "RuneScape Notify Roles (Self-Assigned)",
@@ -114,6 +138,24 @@ exports.data = {
       "text": "Achievement Help | Making information more easily available!"
       }
     },
+  "break5": {
+    "files": [{
+      "attachment": "media/img/info/roleinfo/break.png",
+      "name": "break.png"
+    }]
+  },
+  "dsfnotify": {
+    "files": [{
+      "attachment": "media/img/info/roleinfo/dsfnotify.png",
+      "name": "Deep sea fishing notify roles.png"
+    }]
+  },
+  "break6": {
+    "files": [{
+      "attachment": "media/img/info/roleinfo/break.png",
+      "name": "break.png"
+    }]
+  },
     "dsf merchant notify roles":  {
     "title": "Deep Sea Fishing Merchant Roles (Self-Assigned)",
     "description":"The following roles were added for the Deep Sea Fishing Merchant because of their correlation to current or future Achievements.\n\nThe following roles can also be added in one of the following ways;\n• To join a DSF Merchant role, simply react to the proper message in <#465998663710146579> with the corresponding emoji.\n• You may also send ?rank [role] in <#382701090430386180>.\n\t- **Example:** `?rank AFK Thaler`\n\t- Leaving a role is the same command as joining that role.\n\nIf you would like to have other notifications besides these, you can use <@439803413623078927> in the <#382701090430386180> channel. Simply type `?addnotif Item Name Here`, and the bot will PM you whenever that item is in the store.",
@@ -143,6 +185,24 @@ exports.data = {
       }
       ]
   },
+  "break7": {
+    "files": [{
+      "attachment": "media/img/info/roleinfo/break.png",
+      "name": "break.png"
+    }]
+  },
+  "discnotify": {
+    "files": [{
+      "attachment": "media/img/info/roleinfo/discnotify.png",
+      "name": "Discord notify roles.png"
+    }]
+  },
+  "break8": {
+    "files": [{
+      "attachment": "media/img/info/roleinfo/break.png",
+      "name": "break.png"
+    }]
+  },
     "discord server notify roles": {
     "title": "Achievement Help Discord Roles (Self-Assigned)",
     "description":"These roles are only to be called by Contributors, Moderators, or Council. Make sure not to abuse notifying these roles. If you keep mentioning these roles for no reason, a mute may be applied.\n\nThe following roles can also be added in one of the following ways;\n• To join a DSF Merchant role, simply react to the proper message in <#465998663710146579> with the corresponding emoji.\n• You may also send ?rank [role] in <#382701090430386180>.\n\t- **Example:** `?rank AFK Thaler`\n\t- Leaving a role is the same command as joining that role.",
@@ -167,5 +227,11 @@ exports.data = {
         "value": ":six: **<@&420015843804708864>**\n• **When to join:** If you would like to be notified whenever something is posted in <#395575375083601920>\n\n:seven: **<@&431292159053004800>**\n• **When to join:** If you would like to be notified when the official RuneScape stream or a verified streamer from the Achievement Help Discord goes live.\n\n:eight: **<@&431292311553572864>**\n• **When to join:** If you would like to be notified of when game news is posted to the official RuneScape website.\n\n:nine: **<@&431292243140280320>**\n• **When to join:** If you would like to be notified of the spotlight change as it occurs."
       }
       ]
+  },
+  "break9": {
+    "files": [{
+      "attachment": "media/img/info/roleinfo/break.png",
+      "name": "break.png"
+    }]
   }
 };
