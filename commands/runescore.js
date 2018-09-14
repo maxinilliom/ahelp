@@ -22,8 +22,11 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 	let pt = "false";
 	const name = "RuneScore Info";
 	const color = 2011148;
+	const cats = ["combat", "exploration", "minigames", "miscellaneous", "skills"];
 
 	if (message.channel.id !== '407919969712603145' && level < 2) return;
+
+	if (cats.includes(achName)) return message.channel.send("Please search by **name**, not category.");
 
 	Object.getOwnPropertyNames(data).forEach(k => {
 		if (k !== "help" && k !== "search") {
@@ -46,7 +49,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 		  }]
 		});
 		const category = args[1] ? args[1].toLowerCase() : undefined
-		if (!["combat", "exploration", "minigames", "miscellaneous", "skills"].includes(category)) category = undefined;
+		if (!cats.includes(category)) category = undefined;
 		//add category header switch here
 		async function list() {
 			const [cat, sub, ach] = keyList[o].split(" - ");

@@ -26,8 +26,11 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
       "icon_url": "https://i.imgur.com/8Q1uWSu.png",
       "text": "For the True Achievers, True Completionists, and True Trimmers!"
     };
+	const cats = ["dnds", "minigames", "miscellaneous", "unlockables"];
 
 	if (message.channel.id !== '407919969712603145' && level < 2) return;
+
+	if (cats.includes(achName)) return message.channel.send("Please search by **name**, not category.");
 
 	Object.getOwnPropertyNames(data).forEach(k => {
 		if (k !== "help" && k !== "search") {
@@ -51,7 +54,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 		  }]
 		});
 		const category = args[1] ? args[1].toLowerCase() : undefined;
-		if (!["dnds", "minigames", "miscellaneous", "unlockables"].includes(category)) category = undefined;
+		if (!cats.includes(category)) category = undefined;
 		//add category header image switch here
 		async function list() {
 			const [cat, sub, ach] = keyList[o].split(" - ");
