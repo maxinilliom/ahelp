@@ -1,4 +1,22 @@
 exports.data = {
+  "break1": {
+    "files": [{
+      "attachment": "media/img/info/roleinfo/break.png",
+      "name": "break.png"
+    }]
+  },
+  "roleheader": {
+    "files": [{
+      "attachment": "media/img/info/roleinfo/roleheader.png",
+      "name": ""
+    }]
+  },
+  "break2": {
+    "files": [{
+      "attachment": "media/img/info/roleinfo/break.png",
+      "name": "break.png"
+    }]
+  },
     "staff assigned roles": {
     "title": "Staff Assigned Roles",
     "description":"Achievement Help is a friendly community for those looking to complete and help each other with all kinds of achievements. The following roles **may not** be self assigned, as they represent achievements earned in game or inside the discord.",
@@ -7,7 +25,7 @@ exports.data = {
     },
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
-      "text": "Achievement Help | Connecting our Helpful Communities!"
+      "text": "Achievement Help | Making information more easily available!"
     },
     "author": {
       "name": "Role Info",
@@ -40,15 +58,11 @@ exports.data = {
       }      
       ]
   },
-    "runescape notify roles": {
+    "runescape notify roles pt1": {
     "title": "RuneScape Notify Roles (Self-Assigned)",
     "description":"The notify roles are meant to be used in order to help one another with various achievements.\n• To join a notify role, simply react to the proper message in <#465998663710146579> with the corresponding emoji.\n• You may also send ?rank [role] in <#382701090430386180>.\n\t- **Example:** `?rank AFK Thaler`\n\t- Leaving a role is the same command as joining that role.",
     "thumbnail": {
       "url": "https://media.discordapp.net/attachments/413750063756607488/466104364398936065/Roles.png"
-    },
-    "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
-      "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
       "name": "Role Info",
@@ -78,8 +92,11 @@ exports.data = {
       {
         "name": "​",
         "value": ":regional_indicator_p: **<@&451411977894494212>**\n• **When to tag:** If you are looking for people to help with a group minigame related achievement or song unlock.\n\n• **This is not for Thaler purposes**\n\n• **When to join:** If you are in need of a group minigame related achievement or song unlock and would like to be notified when groups are forming.\n\n• If you are willing to help those who are in need of a minigame related achievement or song unlock.\n\n:regional_indicator_q: **<@&451412074334126091>**\n• **When to tag:** If you are looking for people to help with a stat boost for quests, skilling, or effigies.\n\n• **When to join:**If you would like to be notified when someone is looking for people to help with a stat boost for quests, skilling, or effigies."
-      },
-      {
+      }
+      ]
+    },
+    "runescape notify roles pt2": {
+      "fields": [{
         "name": "​",
         "value": ":regional_indicator_r: **<@&425025597635428376>**\n• **When to tag:** If you are looking to complete the achievement Open Bar, and would like to have the 28 ales temporarily traded to you.\n\n• Not returning these ales will result in a ban from the server.\n\n• **When to join:** If you are in possession of the 28 different ales, and would like to help others who are looking to complete the achievement.\n\n:regional_indicator_s: **<@&426195054827274240>**\n• **When to tag:** If you have an Elite Rune Dragon spawn.\n\n• Please list the price of the sell and distinguish if it is a normal elite or Barry.\n\n• **When to join:** If you would like to be notified when someone has an Elite Rune Dragon spawn.\n\n:regional_indicator_t: **<@&426195111148388372>**\n• **When to tag:** If you have an Elite Edimmu spawn.\n\n• **When to join:** If you would like to be notified when someone has an Elite Edimmu spawn."
       },
@@ -91,8 +108,12 @@ exports.data = {
         "name": "​",
         "value": ":regional_indicator_x: **<@&488765489280188437>**\n• **When to tag:** If you are looking to organize a group of to obtain the Survive Title at the Dominion Tower.\n\n• **When to join:** If you would like to be notified of groups being created to obtain the Survive Title at the Dominion Tower.\n\n:regional_indicator_y:**<@&488492228512317451>**\n• **When to tag:** If you are looking to complete a PoF achievement and would like to see if anyone has the items to assist you with.\n\n• Not returning these items will result in a ban from the server.\n\n• **When to join:** If you are in possession of PoF achievement items, like 12 bunnies or 4 seasonal rams, and would like to help others who are looking to complete the achievement."
       }
-      ]
-  },
+      ],
+      "footer": {
+      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "text": "Achievement Help | Making information more easily available!"
+      }
+    },
     "dsf merchant notify roles":  {
     "title": "Deep Sea Fishing Merchant Roles (Self-Assigned)",
     "description":"The following roles were added for the Deep Sea Fishing Merchant because of their correlation to current or future Achievements.\n\nThe following roles can also be added in one of the following ways;\n• To join a DSF Merchant role, simply react to the proper message in <#465998663710146579> with the corresponding emoji.\n• You may also send ?rank [role] in <#382701090430386180>.\n\t- **Example:** `?rank AFK Thaler`\n\t- Leaving a role is the same command as joining that role.\n\nIf you would like to have other notifications besides these, you can use <@439803413623078927> in the <#382701090430386180> channel. Simply type `?addnotif Item Name Here`, and the bot will PM you whenever that item is in the store.",
@@ -101,7 +122,7 @@ exports.data = {
     },
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
-      "text": "Achievement Help | Connecting our Helpful Communities!"
+      "text": "Achievement Help | Making information more easily available!"
     },
     "author": {
       "name": "Role Info",
@@ -130,7 +151,7 @@ exports.data = {
     },
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
-      "text": "Achievement Help | Connecting our Helpful Communities!"
+      "text": "Achievement Help | Making information more easily available!"
     },
     "author": {
       "name": "Role Info",
