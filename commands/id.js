@@ -17,7 +17,7 @@ exports.run = (client, message, args, level) => {
 		message.channel.send(`${search}: ${message.guild.roles.find('name', search).id}`);
 	}
 	else {
-		message.channel.send("Something went wrong I guess. ¯\_(ツ)_/¯");
+		message.channel.send("Something went wrong I guess. ¯\\_(ツ)_/¯");
 	}
 
 };
