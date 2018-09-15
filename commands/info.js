@@ -10,6 +10,8 @@ exports.run = (client, message, args, level) => {
 	async function list() {
 		const curr = data[embeds[o]];
 		const embed = curr.description || curr.fields ? {embed: curr} : curr;
+		const channelName = message.channel.name.toProperCase();
+		if (embed.footer) embed.footer.text = `Achievement Help | ${channelName}`;
 //		guide.color = undefined; //update - maybe switch?
 		try {
 			await message.channel.send("", embed);
