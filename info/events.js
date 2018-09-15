@@ -57,6 +57,39 @@ exports.data = {
       }
       ]
   },
+    "deathmatch": {  
+      "title":"Preparation:",
+      "description":"All are welcome! We will be teaching how to do the event on Discord if any learners are apprehensive about coming.\n\nYou may prepare for the event by viewing the written guide [here](http://runescape.wikia.com/wiki/Deathmatch).",
+      "footer":{  
+         "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
+         "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
+      },
+      "thumbnail":{  
+         "url":"https://vignette.wikia.nocookie.net/runescape2/images/b/b8/Deathmatch_points.png/revision/latest?cb=20170128230705"
+      },
+      "author":{  
+         "name":"Deathmatch Community Event",
+         "icon_url":"https://i.imgur.com/6c6q2iC.png"
+      },
+      "fields":[  
+         {  
+            "name":"​Where:",
+            "value":"Deathmatch lobby, World 68 in <@113770763261181961>'s friends chat. Voice chat will take place in this Discord's <#425508386713632771> voice channel."
+         },
+         {  
+            "name":"​Why:",
+            "value":"To assist everyone who needs to unlock the music, or for those who just want to have fun."
+         },
+         {  
+            "name":"​Who:",
+            "value":"<@294617234033213450>, <@113770763261181961>, <@212672527405678592>, and their Achievement Help Team and their [Alright](https://discord.gg/KwysmXr) clan."
+         },
+         {  
+            "name":"​What is Needed:",
+           "value":"This is a safe minigame.  Any gear is permitted. [Tier](https://runescape.wikia.com/wiki/Equipment_tier) 70+ armor and weapon is recommended, though not required. The better the tier, the better chance you have of surviving."
+         }
+      ]
+   },
     "general graardor": {  
       "title":"Preparation:",
       "description":"All are welcome! We will be teaching how to do the boss on Discord if any learners are apprehensive about coming.\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wikia.com/wiki/General_Graardor/Strategies) or a video guide [here](https://www.youtube.com/watch?v=CDur0jqFF_8).",
@@ -271,11 +304,44 @@ exports.data = {
          },
          {  
             "name":"​What is Needed:",
-            "value":"Any gear is permitted. [Tier](https://runescape.wikia.com/wiki/Equipment_tier) 70+ armor and weapon is recommended and appreciated, though not required. The better the tier, the better chance you have of surviving and the faster the kills.  Range or mage are highly encouraged.  A [Frozen key](http://runescape.wikia.com/wiki/Frozen_key) and either 40 Zarosian kills or a set of [Ancient ceremonial robes](runescape.wikia.com/wiki/Ancient_ceremonial_robes)."
+            "value":"Any gear is permitted. [Tier](https://runescape.wikia.com/wiki/Equipment_tier) 80+ armor and weapon is recommended and appreciated, though not required. The better the tier, the better chance you have of surviving and the faster the kills.  Range or mage are highly encouraged.  A [Frozen key](http://runescape.wikia.com/wiki/Frozen_key) and either 40 Zarosian kills or a set of [Ancient ceremonial robes](runescape.wikia.com/wiki/Ancient_ceremonial_robes)."
          },
          {  
             "name":"​How Drops Work:",
             "value":"Drops are dispersed via [coinshare](https://runescape.wikia.com/wiki/CoinShare) to whoever is in the friend's chat. All drops are kept by their recipients and high-value drops that have [item shards](https://runescape.wikia.com/wiki/Item_shards) will be split by the game to everyone who has coinshare enabled and is in the friend's chat. "
+         }
+      ]
+   },
+    "soul wars": {  
+      "title":"Preparation:",
+      "description":"All are welcome! We will be teaching how to do the event on Discord if any learners are apprehensive about coming.\n\nYou may prepare for the event by viewing the written guide [here](http://runescape.wikia.com/wiki/Soul_Wars).",
+      "footer":{  
+         "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
+         "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
+      },
+      "thumbnail":{  
+         "url":"https://vignette.wikia.nocookie.net/runescape2/images/b/b4/Avatar_of_Creation.png/revision/latest?cb=20100807183550"
+      },
+      "author":{  
+         "name":"Soul Wars Community Event",
+         "icon_url":"https://i.imgur.com/6c6q2iC.png"
+      },
+      "fields":[  
+         {  
+            "name":"​Where:",
+            "value":"The Soul Wars lobby, World 68 in <@113770763261181961>'s friends chat. Voice chat will take place in this Discord's <#425508386713632771> voice channel."
+         },
+         {  
+            "name":"​Why:",
+            "value":"To assist everyone who needs to unlock the music, complete the [Magister Smagister](http://runescape.wikia.com/wiki/Magister_Smagister) achievement (obtain 100 soul fragments within Soul Wars and offer them all at once to the Soul Obelisk), and for those who just want to have fun."
+         },
+         {  
+            "name":"​Who:",
+            "value":"<@294617234033213450>, <@113770763261181961>, <@212672527405678592>, and their Achievement Help Team and their [Alright](https://discord.gg/KwysmXr) clan."
+         },
+         {  
+            "name":"​What is Needed:",
+           "value":"This is a safe minigame.  Any gear is permitted, though you will not be able to wear a cape into the arena. [Tier](https://runescape.wikia.com/wiki/Equipment_tier) 70+ armor and weapon is recommended, though not required. The better the tier, the better chance you have of surviving."
          }
       ]
    },
@@ -348,7 +414,7 @@ exports.data = {
             "value":"Drops are dispersed via [lootshare](http://runescape.wikia.com/wiki/LootShare) to whoever is in the friend's chat. All drops are kept by their recipients."
          }
       ]
-   ,
+   },
     "vindicta": {  
       "title":"Preparation:",
       "description":"All are welcome! We will be teaching how to do the boss on Discord if any learners are apprehensive about coming.\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wikia.com/wiki/Vindicta/Strategies) or a video guide [here](https://www.youtube.com/watch?v=sI3Br9-cD6c).",
@@ -427,5 +493,4 @@ exports.data = {
          }
       ]
    }
-}
 };
