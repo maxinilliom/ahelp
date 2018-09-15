@@ -1,5 +1,4 @@
 exports.data = {
-  "aff": {
     "A Cuddle Of Red Pandas": {
     "title": "A Cuddle of Red Pandas",
     "description":"A Cuddle of Pandas is a discord is a social-based server where players can chill and chat while playing Runescape. ",
@@ -594,6 +593,31 @@ exports.data = {
       }
       ]
   },
+    "RS Academia": {
+    "title": "RS Academia",
+    "description":"RS Academia is  a non-toxic, learner friendly, social and pvm clan with no level or exp requirements. Our clan is an intelligent, mature, and friendly community that is focused on helping people develop inside of RuneScape. They are looking for dedicated players with a desire to learn and grow, have a decent sense of humor, and enjoy bossing, skilling, and hanging out all while achieving their goals. They also do bosses such as Raids, Rots, Rago, and more. Guests are more than welcome to join and chat to get a feel for the clan and its members.",
+    "thumbnail": {
+      "url": "http://services.runescape.com/m=avatar-rs/avatar.png?id=25049656"
+    },
+    "footer": {
+      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "text": "Achievement Help | Connecting our Helpful Communities!"
+    },
+    "author": {
+      "name": "Social Affiliate Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+          "fields": [
+      {
+        "name": "Invite Link:",
+        "value": "https://discord.gg/mYuuXPg"
+      },
+      {
+        "name": "Contact:",
+        "value": "<@324875053651066881>"
+      }
+      ]
+  },
     "RS Pocketbook": {
     "title": "RS Pocketbook",
     "description":"Built from the RS Pocketbook PDF, this server acts as a support channel both for PvM information and at times for helping to form groups to PvM with, as well as a medium through which the RS pocketbook is updated.",
@@ -967,62 +991,5 @@ exports.data = {
         "value": "<@138289815182508033>"
       }
       ]
-  }
-  },
-  "soc": {
-    "Alright": {
-    "title": "Alright",
-    "description":"Achievement Help's officially recognized clan. Whether you join or guest, hope to see you there! The clan hosts dually held events with Achievement Help, as well as additional weekly Monday Skill and Chills, Friday AoD masses, Saturday Penguins, and Bi-daily Raids. Furthermore, the clan hosts additional events such as Karaoke night, Pvming events, Minigame events, and Clue Competitions! All our events are open to both clan members and guests.\n\nThis is the clan responsible in part of the creation and hosting of all Achievement Help events, so expect to see some fammiliar faces!",
-    "thumbnail": {
-      "url": "https://cdn.discordapp.com/icons/485523397179342848/77e1d6cef26416a63c4630488d7bf2fb.webp"
-    },
-    "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
-      "text": "Achievement Help | Connecting our Helpful Communities!"
-    },
-    "author": {
-      "name": "Social Affiliate Info",
-      "icon_url": "https://i.imgur.com/6c6q2iC.png"
-    },
-          "fields": [
-      {
-        "name": "Friend's Chat:",
-        "value": "Saint Cannon"
-      },
-      {
-        "name": "Invite Link:",
-        "value": "https://discord.gg/KwysmXr"
-      },
-      {
-        "name": "Contact:",
-        "value": "<@113770763261181961>, <@154378413375881216>, or <@212672527405678592>"
-      }
-      ]
-  },
-    "RS Academia": {
-    "title": "RS Academia",
-    "description":"RS Academia is  a non-toxic, learner friendly, social and pvm clan with no level or exp requirements. Our clan is an intelligent, mature, and friendly community that is focused on helping people develop inside of RuneScape. They are looking for dedicated players with a desire to learn and grow, have a decent sense of humor, and enjoy bossing, skilling, and hanging out all while achieving their goals. They also do bosses such as Raids, Rots, Rago, and more. Guests are more than welcome to join and chat to get a feel for the clan and its members.",
-    "thumbnail": {
-      "url": "http://services.runescape.com/m=avatar-rs/avatar.png?id=25049656"
-    },
-    "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
-      "text": "Achievement Help | Connecting our Helpful Communities!"
-    },
-    "author": {
-      "name": "Social Affiliate Info",
-      "icon_url": "https://i.imgur.com/6c6q2iC.png"
-    },
-          "fields": [
-      {
-        "name": "Invite Link:",
-        "value": "https://discord.gg/mYuuXPg"
-      },
-      {
-        "name": "Contact:",
-        "value": "<@324875053651066881>"
-      }
-      ]
-  }
   }
 };
