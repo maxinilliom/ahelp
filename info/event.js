@@ -23,6 +23,12 @@ exports.data = {
       "name": "Official Runescape events header.png"
     }]
   },
+  "break3": {
+    "files": [{
+      "attachment": "media/img/info/event/break.png",
+      "name": "break.png"
+    }]
+  },
     "runescape official events": {
     "title": "RuneScape Official Events",
     "description":"This is a list of all upcoming Runescape Official events ran by either Jagex or Player Moderators.",
@@ -56,7 +62,7 @@ exports.data = {
       }
       ]
   },
-  "break3": {
+  "break4": {
     "files": [{
       "attachment": "media/img/info/event/break.png",
       "name": "break.png"
@@ -66,6 +72,12 @@ exports.data = {
     "files": [{
       "attachment": "media/img/info/event/ahevents.png",
       "name": "Achievement Help events header.png"
+    }]
+  },
+  "break5": {
+    "files": [{
+      "attachment": "media/img/info/event/break.png",
+      "name": "break.png"
     }]
   },
     "achievement help events": {
@@ -93,7 +105,7 @@ exports.data = {
       }
       ]
   },
-  "break4": {
+  "break6": {
     "files": [{
       "attachment": "media/img/info/event/break.png",
       "name": "break.png"
