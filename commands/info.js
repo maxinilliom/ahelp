@@ -9,7 +9,7 @@ exports.run = (client, message, args, level) => {
 	let i = 0, o = 0, x = embeds.length, errMsg = "";
 	async function list() {
 		const curr = data[embeds[o]];
-		const embed = curr.fields ? {embed: curr} : curr;
+		const embed = curr.description || curr.fields ? {embed: curr} : curr;
 //		guide.color = undefined; //update - maybe switch?
 		try {
 			await message.channel.send("", embed);

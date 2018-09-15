@@ -7,7 +7,7 @@ exports.data = {
   },
   "fcheader": {
     "files": [{
-      "attachment": "media/img/info/fc/fcheader.png",
+      "attachment": "media/img/info/fc/fcheader.jpg",
       "name": "Friends Chats header.png"
     }]
   },
