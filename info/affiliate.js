@@ -16,7 +16,7 @@ exports.data = {
           "fields": [
       {
         "name": "Invite Link:",
-        "value": "https://discord.gg/2Utwx3B  \n\n"
+        "value": "https://discord.gg/2Utwx3B"
       },
       {
         "name": "PvM Pandas",
