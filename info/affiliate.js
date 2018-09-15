@@ -65,7 +65,7 @@ exports.data = {
   },
     "AoD: 7-10 Man": {
     "title": "AoD: 7-10 Man",
-    "description":"Angel of Death: Small team 7 & 10 man discord server. Accepts Learners.",
+    "description":"AoD: 7-10 Man: For those interested in a non-toxic and friendly environment for ‘Small’ team AoD, with team sizes varying from 7 to 10.  We accept all experience levels from Learners to Experts (and Teachers :heart:).  Offering both *FFAS* and *FFAK* teams, running throughout the day.",
     "thumbnail": {
       "url": "https://cdn.discordapp.com/icons/315710189762248705/72f7d35d73426c2490bd41342d312d04.webp"
     },
