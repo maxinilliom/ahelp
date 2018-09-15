@@ -3,8 +3,8 @@ const { promisify } = require("util");
 const readdir = promisify(require("fs").readdir);
 
 exports.run = (client, message, args, level) => {
-
-	const { data } = require(`../info/${args[0]}.js`);
+	const type = args[0].toLowerCase();
+	const { data } = require(`../info/${type}.js`);
 	const embeds = Object.getOwnPropertyNames(data);
 	let i = 0, o = 0, x = embeds.length, errMsg = "";
 	async function list() {
@@ -13,18 +13,18 @@ exports.run = (client, message, args, level) => {
 		const channelName = message.channel.name.toProperCase().replace("-", " ");
 		if (curr.footer) curr.footer.text = `Achievement Help | ${channelName}`;
 		if (curr.description || curr.footer) {
-			switch (args[0]) {
+			switch (type) {
 				case "affiliate": 
 					curr.color = 14601387;
 					break;
 				case "event":
-					curr.color = ;
+					curr.color = 16738740;
 					break;
 				case "fc":
-					curr.color = ;
+					curr.color = 16738740;
 					break;
 				case "role":
-					curr.color = ;
+					curr.color = 16738740;
 					break;
 				default:
 					curr.color = 16738740;
