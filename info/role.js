@@ -1,34 +1,31 @@
 exports.data = {
   "break1": {
     "files": [{
-      "attachment": "media/img/info/roleinfo/break.png",
+      "attachment": "media/img/info/role/break.png",
       "name": "break.png"
     }]
   },
   "roleheader": {
     "files": [{
-      "attachment": "media/img/info/roleinfo/roleheader.png",
+      "attachment": "media/img/info/role/roleheader.png",
       "name": "Role info header.png"
     }]
   },
   "break2": {
     "files": [{
-      "attachment": "media/img/info/roleinfo/break.png",
+      "attachment": "media/img/info/role/break.png",
       "name": "break.png"
     }]
   },
   "roleinfo": {
     "files": [{
-      "attachment": "media/img/info/roleinfo/roleinfo.png",
+      "attachment": "media/img/info/role/roleinfo.png",
       "name": "Role information.png"
     }]
   },
     "staff assigned roles": {
     "title": "Staff Assigned Roles",
     "description":"Achievement Help is a friendly community for those looking to complete and help each other with all kinds of achievements. The following roles **may not** be self assigned, as they represent achievements earned in game or inside the discord.",
-    "thumbnail": {
-      "url": "https://media.discordapp.net/attachments/413750063756607488/466104364398936065/Roles.png"
-    },
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
       "text": "Achievement Help | Making information more easily available!"
@@ -66,28 +63,25 @@ exports.data = {
   },
   "break3": {
     "files": [{
-      "attachment": "media/img/info/roleinfo/break.png",
+      "attachment": "media/img/info/role/break.png",
       "name": "break.png"
     }]
   },
   "rsnotify": {
     "files": [{
-      "attachment": "media/img/info/roleinfo/rsnotify.png",
+      "attachment": "media/img/info/role/rsnotify.png",
       "name": "Runescape notify roles.png"
     }]
   },
   "break4": {
     "files": [{
-      "attachment": "media/img/info/roleinfo/break.png",
+      "attachment": "media/img/info/role/break.png",
       "name": "break.png"
     }]
   },
     "runescape notify roles pt1": {
     "title": "RuneScape Notify Roles (Self-Assigned)",
     "description":"The notify roles are meant to be used in order to help one another with various achievements.\n• To join a notify role, simply react to the proper message in <#465998663710146579> with the corresponding emoji.\n• You may also send ?rank [role] in <#382701090430386180>.\n\t- **Example:** `?rank AFK Thaler`\n\t- Leaving a role is the same command as joining that role.",
-    "thumbnail": {
-      "url": "https://media.discordapp.net/attachments/413750063756607488/466104364398936065/Roles.png"
-    },
     "author": {
       "name": "Role Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
@@ -140,28 +134,25 @@ exports.data = {
     },
   "break5": {
     "files": [{
-      "attachment": "media/img/info/roleinfo/break.png",
+      "attachment": "media/img/info/role/break.png",
       "name": "break.png"
     }]
   },
   "dsfnotify": {
     "files": [{
-      "attachment": "media/img/info/roleinfo/dsfnotify.png",
+      "attachment": "media/img/info/role/dsfnotify.png",
       "name": "Deep sea fishing notify roles.png"
     }]
   },
   "break6": {
     "files": [{
-      "attachment": "media/img/info/roleinfo/break.png",
+      "attachment": "media/img/info/role/break.png",
       "name": "break.png"
     }]
   },
     "dsf merchant notify roles":  {
     "title": "Deep Sea Fishing Merchant Roles (Self-Assigned)",
     "description":"The following roles were added for the Deep Sea Fishing Merchant because of their correlation to current or future Achievements.\n\nThe following roles can also be added in one of the following ways;\n• To join a DSF Merchant role, simply react to the proper message in <#465998663710146579> with the corresponding emoji.\n• You may also send ?rank [role] in <#382701090430386180>.\n\t- **Example:** `?rank AFK Thaler`\n\t- Leaving a role is the same command as joining that role.\n\nIf you would like to have other notifications besides these, you can use <@439803413623078927> in the <#382701090430386180> channel. Simply type `?addnotif Item Name Here`, and the bot will PM you whenever that item is in the store.",
-    "thumbnail": {
-      "url": "https://media.discordapp.net/attachments/413750063756607488/466104364398936065/Roles.png"
-    },
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
       "text": "Achievement Help | Making information more easily available!"
@@ -187,28 +178,25 @@ exports.data = {
   },
   "break7": {
     "files": [{
-      "attachment": "media/img/info/roleinfo/break.png",
+      "attachment": "media/img/info/role/break.png",
       "name": "break.png"
     }]
   },
   "discnotify": {
     "files": [{
-      "attachment": "media/img/info/roleinfo/discnotify.png",
+      "attachment": "media/img/info/role/discnotify.png",
       "name": "Discord notify roles.png"
     }]
   },
   "break8": {
     "files": [{
-      "attachment": "media/img/info/roleinfo/break.png",
+      "attachment": "media/img/info/role/break.png",
       "name": "break.png"
     }]
   },
     "discord server notify roles": {
     "title": "Achievement Help Discord Roles (Self-Assigned)",
     "description":"These roles are only to be called by Contributors, Moderators, or Council. Make sure not to abuse notifying these roles. If you keep mentioning these roles for no reason, a mute may be applied.\n\nThe following roles can also be added in one of the following ways;\n• To join a DSF Merchant role, simply react to the proper message in <#465998663710146579> with the corresponding emoji.\n• You may also send ?rank [role] in <#382701090430386180>.\n\t- **Example:** `?rank AFK Thaler`\n\t- Leaving a role is the same command as joining that role.",
-    "thumbnail": {
-      "url": "https://media.discordapp.net/attachments/413750063756607488/466104364398936065/Roles.png"
-    },
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
       "text": "Achievement Help | Making information more easily available!"
@@ -230,7 +218,7 @@ exports.data = {
   },
   "break9": {
     "files": [{
-      "attachment": "media/img/info/roleinfo/break.png",
+      "attachment": "media/img/info/role/break.png",
       "name": "break.png"
     }]
   }
