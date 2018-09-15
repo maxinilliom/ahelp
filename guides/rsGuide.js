@@ -6612,7 +6612,7 @@ exports.data = {
     },
 "timestamp": "2001-01-04T12:00:00Z"
   },
-  "miscellaneous - miniquest - banking history": {
+  "miscellaneous - miniquest - banking history pt1": {
     "title": "Banking History",
     "author": {
       "name": "RuneScore Achievement Info",
@@ -6661,8 +6661,12 @@ exports.data = {
       {
         "name": "​",
         "value": "West/southwest of the tent in the middle of the [Varrock](https://runescape.wikia.com/wiki/Varrock) [Grand Exchange](https://runescape.wikia.com/wiki/Grand_Exchange)\n\t• **Coordinates:** 10° 18' N 22° 26' E\n\t• [Image](https://vignette.wikia.nocookie.net/runescape2/images/f/f4/Enchanted_Key_MH1_-_Grand_Exchange.png/revision/latest/scale-to-width-down/200?cb=20180313113656)\n\n"
-      },
-      {
+      }
+      ]
+    },
+  "miscellaneous - miniquest - banking history pt2": {
+      "fields": [
+        {
         "name": "Meeting History Locations:",
         "value": "South of the [gnome ball field](https://runescape.wikia.com/wiki/Gnome_ball) in the Gnome Stronghold, 4 steps west of [crystal tree](https://runescape.wikia.com/wiki/Crystal_tree)\n\t• **Coordinates:** 9° 45' N 1° 3' W\n\t• [Image](https://vignette.wikia.nocookie.net/runescape2/images/4/4d/Enchantedkey_meeting_1.png/revision/latest/scale-to-width-down/200?cb=20131225053924)"
       },
@@ -7724,7 +7728,7 @@ exports.data = {
     },
 "timestamp": "2001-01-04T12:00:00Z"
   },
-  "miscellaneous - miniquest - skeletal wishes": {
+  "miscellaneous - miniquest - skeletal wishes pt1": {
     "title": "Skeletal Wishes",
     "author": {
       "name": "RuneScore Achievement Info",
@@ -7761,8 +7765,12 @@ exports.data = {
       {
         "name": "Enemies to Defeat (Rag and Bone Man):",
         "value": "• [Fire giant](https://runescape.wikia.com/wiki/Fire_giant)\n• [Ice giant](https://runescape.wikia.com/wiki/Ice_giant)\n• [Terrorbird](https://runescape.wikia.com/wiki/Terrorbird)\n• [Ghoul](https://runescape.wikia.com/wiki/Ghoul)\n• [Troll](https://runescape.wikia.com/wiki/Troll)\n• [Seagull](https://runescape.wikia.com/wiki/Seagull)\n• [Experiment](https://runescape.wikia.com/wiki/Experiment)\n• [Rabbit](https://runescape.wikia.com/wiki/Rabbit)\n• [Basilisk](https://runescape.wikia.com/wiki/Basilisk)\n• [Lizard](https://runescape.wikia.com/wiki/Lizard) (only level 77 drops special bone)\n• [Cave goblin](https://runescape.wikia.com/wiki/Cave_goblin)\n• [Vulture](https://runescape.wikia.com/wiki/Vulture)\n• [Jackal](https://runescape.wikia.com/wiki/Jackal)\n• [Undead cow](https://runescape.wikia.com/wiki/Undead_cow)"
-      },
-      {
+      }
+      ]
+    },
+  "miscellaneous - miniquest - skeletal wishes pt2": {
+      "fields": [
+             {
         "name": "​",
         "value": "• [Wolf](https://runescape.wikia.com/wiki/Wolf)\n• [Bat](https://runescape.wikia.com/wiki/Bat) ([Giant Bats](https://runescape.wikia.com/wiki/Giant_bat) do not drop them)\n• [Rat](https://runescape.wikia.com/wiki/Rat)\n• [Babby blue dragon](https://runescape.wikia.com/wiki/Baby_blue_dragon)\n• [Ogre](https://runescape.wikia.com/wiki/Ogre)\n• [Jogre](https://runescape.wikia.com/wiki/Jogre)\n• [Zogre](https://runescape.wikia.com/wiki/Zogre)\n• [Mogre](https://runescape.wikia.com/wiki/Mogre)\n• [Dagannoth](https://runescape.wikia.com/wiki/Dagannoth)\n• [Snake](https://runescape.wikia.com/wiki/Snake)\n• [Zombie](https://runescape.wikia.com/wiki/Zombie)\n• [Werewold](https://runescape.wikia.com/wiki/Werewolf)\n• [Moss giant](https://runescape.wikia.com/wiki/Moss_giant)\n\nEach of the above monsters will need to be killed until they drop their [respective bone](https://i.imgur.com/u2jBXBd.png)."
       },

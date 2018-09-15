@@ -1496,55 +1496,143 @@ exports.data = {
             "timestamp": "2001-01-04T12:00:00Z"
   }
 	},
-	"banking history": {
-		"cmds": ["mqc", "trim"],
-		"embed": {
-			"title": "Banking History",
-			"author": {
-				"name": "Cape Info",
-				"icon_url": "https://i.imgur.com/6c6q2iC.png"
-			},
-			"description": "[Banking History](http://runescape.wikia.com/wiki/Banking_History) is an achievement that requires the player to complete the [Enchanted key](http://runescape.wikia.com/wiki/Enchanted_key_(miniquest%29) miniquest.\n\nEnchanted key is a two-part miniquest that uses the [Item of the same name](http://runescape.wikia.com/wiki/Enchanted_key) to find hidden treasures after [Making History](https://runescape.wikia.com/wiki/Making_History) and [Meeting History](https://runescape.wikia.com/wiki/Meeting_History). There are 11 treasure sites in each part of the miniquest. The main rewards of the miniquest are the [Guthix mjolnir](https://runescape.wikia.com/wiki/Guthix_mjolnir), [Saradomin mjolnir](https://runescape.wikia.com/wiki/Saradomin_mjolnir), and [Zamorak mjolnir](https://runescape.wikia.com/wiki/Zamorak_mjolnir), which can only be obtained during the miniquest.\n\nThe treasures from Making History must be looted before being able to loot the ones from Meeting History.",
-			"thumbnail": {
-				"url": "https://i.imgur.com/Shmagnp.png"
-			},
-			"fields": [
-							{
-                    "name": "Start Point:",
-                    "value": "• Speak to [Jorral](https://runescape.wikia.com/wiki/Jorral) in the outpost south of the [Tree Gnome Stronghold](https://runescape.wikia.com/wiki/Tree_Gnome_Stronghold)"
-      			},
-        		{
-                    "name": "Official Difficulty:",
-                    "value": "• None"
-        		},
-        		{
-                    "name": "Official Length:",
-                    "value": "• Short"
-       			},
-        		{
-                    "name": "Items Required:",
-                    "value": "• [Enchanted key](https://runescape.wikia.com/wiki/Enchanted_key_(Making_History) - used to located the buried chests\n• [Spade](https://runescape.wikia.com/wiki/Spade) - used to dig the buried chests"
-        		},
-        		{
-                    "name": "Enemies to Defeat:",
-                    "value": "• None"
-        		},
-            {
-					"name": "Requirements:",
-					"value": "• Meeting History Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Meeting_History)\n• Making History Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Making_History)"
-				},
-				{
-					"name": "Guide:",
-					"value": "• [Enchanted Key Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Enchanted_key_(miniquest%29)"
-				}
-			],
-			"footer": {
-				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-				"text": "Runescore awarded: 25"
-			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
-	},
+	"banking history pt1": {
+    "title": "Banking History",
+    "author": {
+      "name": "RuneScore Achievement Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[Banking History](http://runescape.wikia.com/wiki/Banking_History) is an achievement that requires the player to complete the [Enchanted key](http://runescape.wikia.com/wiki/Enchanted_key_(miniquest%29) miniquest\n\nEnchanted key is a two-part miniquest that uses the [item of the same]() name to find hidden treasures after [Making History](https://runescape.wikia.com/wiki/Making_History) and [Meeting History](https://runescape.wikia.com/wiki/Meeting_History). There are 11 treasure sites in each part of the miniquest. The main rewards of the miniquest are the [Guthix mjolnir](https://runescape.wikia.com/wiki/Guthix_mjolnir), [Saradomin mjolnir](https://runescape.wikia.com/wiki/Saradomin_mjolnir), and [Zamorak mjolnir](https://runescape.wikia.com/wiki/Zamorak_mjolnir), which can only be obtained during the miniquest.\n\nThe treasures from Making History must be looted before being able to loot the ones from Meeting History.",
+    "thumbnail": {
+      "url": "https://i.imgur.com/Shmagnp.png"
+    },
+    "fields": [{
+        "name": "Making History Locations:",
+        "value": "Just north/northwest of the Agility shortcut to the [Sinclair Mansion](https://runescape.wikia.com/wiki/Sinclair_Mansion), north east from [Seer's Village](https://runescape.wikia.com/wiki/Seers%27_Village)\n\t• **Coordinates:** 13° 56' N 8° 43' E\n\t• [Image](https://vignette.wikia.nocookie.net/runescape2/images/4/46/Enchanted_Key_MH1_-_Rellekka.png/revision/latest/scale-to-width-down/200?cb=20120617215704)"
+      },
+      {
+        "name": "​",
+        "value": "West of the bush located northeast of the [Bush patch](https://runescape.wikia.com/wiki/Bush), north of the [Clock Tower Monastery](https://runescape.wikia.com/wiki/Ardougne_Monastery), near the broken cart south of [East Ardougne](https://runescape.wikia.com/wiki/East_Ardougne)\n\t• **Coordinates:** 2° 28' N 5° 24' E\n\t• [Image](https://vignette.wikia.nocookie.net/runescape2/images/0/07/Enchanted_Key_MH1_-_Ardougne_Monastery.png/revision/latest/scale-to-width-down/200?cb=20120718162419)"
+      },
+      {
+        "name": "​",
+        "value": "South of the southernmost gnome bench, northwest of the [Outpost](https://runescape.wikia.com/wiki/Outpost) above north [West Ardougne](https://runescape.wikia.com/wiki/West_Ardougne)\n\t• **Coordinates:** 6° 54' N 0° 45' W\n\t• [Image](https://vignette.wikia.nocookie.net/runescape2/images/5/5f/Enchanted_Key_MH1_-_West_Ardougne.png/revision/latest/scale-to-width-down/200?cb=20180313113223)"
+      },
+      {
+        "name": "​",
+        "value": "In the [Gnome Stronghold](https://runescape.wikia.com/wiki/Gnome_Stronghold), north of the bank and just northeast of some mushrooms. Not to be confused with the West Ardougne location, which is just outside the stronghold\n\t• **Coordinates:** 8° 54' N 0° 15' E\n\t• [Image](https://vignette.wikia.nocookie.net/runescape2/images/7/7c/Enchanted_Key_MH1_-_Gnome_Stronghold.png/revision/latest/scale-to-width-down/200?cb=20140719102002)"
+      },
+      {
+        "name": "​",
+        "value": "Directly west of the [body altar](https://runescape.wikia.com/wiki/Body_altar), near the dirt road in between the body altar and the [dwarven mine](https://runescape.wikia.com/wiki/Dwarven_mine) above northeast [Falador](https://runescape.wikia.com/wiki/Falador)\n\t• **Coordinates:** 8° 33' N 18° 30' E\n\t• [Image](https://vignette.wikia.nocookie.net/runescape2/images/3/34/Enchanted_Key_MH1_-_Body_Altar.png/revision/latest/scale-to-width-down/200?cb=20170405191237)"
+      },
+      {
+        "name": "​",
+        "value": "In the [Clan Camp](https://runescape.wikia.com/wiki/Clan_Camp), just west of the large private meeting tent, south of [Wayne's Chains](https://runescape.wikia.com/wiki/Wayne%27s_Chains)\n\t• **Coordinates:** 4° 20' N 16° 31' E\n\t• [Image](https://vignette.wikia.nocookie.net/runescape2/images/6/68/Enchanted_Key_MH1_-_Wayne%27s_Chains.png/revision/latest/scale-to-width-down/200?cb=20150801025622)"
+      },
+      {
+        "name": "​",
+        "value": "North of [Shattered Worlds](https://runescape.wikia.com/wiki/Shattered_Worlds) in the southwest of [Lumbridge Swamp](https://runescape.wikia.com/wiki/Lumbridge_Swamp)\n\t• **Coordinates:** 0° 5' S 17° 58' E\n\t• [Image](https://vignette.wikia.nocookie.net/runescape2/images/9/94/Enchanted_Key_MH1_-_Lumbridge_Swamp.png/revision/latest/scale-to-width-down/200?cb=20170530210639)"
+      },
+      {
+        "name": "​",
+        "value": "Between the ponds and the [small obelisk](https://runescape.wikia.com/wiki/Small_obelisk), west of the [Duel Arena](https://runescape.wikia.com/wiki/Duel_Arena) in [Al Kharid](https://runescape.wikia.com/wiki/Al_Kharid)\n\t• **Coordinates:** 2° 35' N 26° 56' E\n\t• [Image](https://vignette.wikia.nocookie.net/runescape2/images/9/90/Enchanted_Key_MH1_-_Al_Kharid.png/revision/latest/scale-to-width-down/200?cb=20150801030156)"
+      },
+      {
+        "name": "​",
+        "value": "West of the [Exam Centre](https://runescape.wikia.com/wiki/Exam_Centre), south of the [Digsite](https://runescape.wikia.com/wiki/Digsite), on the road heading north from the T-junction\n\t• **Coordinates:** 5° 33' N 26° 54' E\n\t• [Image](https://vignette.wikia.nocookie.net/runescape2/images/f/fe/Enchanted_Key_MH1_-_Exam_Centre.png/revision/latest?cb=20150801024800)"
+      },
+      {
+        "name": "​",
+        "value": "West/southwest of the tent in the middle of the [Varrock](https://runescape.wikia.com/wiki/Varrock) [Grand Exchange](https://runescape.wikia.com/wiki/Grand_Exchange)\n\t• **Coordinates:** 10° 18' N 22° 26' E\n\t• [Image](https://vignette.wikia.nocookie.net/runescape2/images/f/f4/Enchanted_Key_MH1_-_Grand_Exchange.png/revision/latest/scale-to-width-down/200?cb=20180313113656)\n\n"
+      }
+      ]
+    },
+	"banking history pt2": {
+      "fields": [
+        {
+        "name": "Meeting History Locations:",
+        "value": "South of the [gnome ball field](https://runescape.wikia.com/wiki/Gnome_ball) in the Gnome Stronghold, 4 steps west of [crystal tree](https://runescape.wikia.com/wiki/Crystal_tree)\n\t• **Coordinates:** 9° 45' N 1° 3' W\n\t• [Image](https://vignette.wikia.nocookie.net/runescape2/images/4/4d/Enchantedkey_meeting_1.png/revision/latest/scale-to-width-down/200?cb=20131225053924)"
+      },
+      {
+        "name": "​",
+        "value": "Al Kharid's [Shantay Pass](https://runescape.wikia.com/wiki/Shantay_Pass), 3 steps west of the [musician](https://runescape.wikia.com/wiki/Musician)\n\t• **Coordinates:** 1° 5' S 26° 58' E\n\t• [Image](https://vignette.wikia.nocookie.net/runescape2/images/1/1e/Enchantedkey_meeting_2.png/revision/latest/scale-to-width-down/200?cb=20131225054833)"
+      },
+      {
+        "name": "​",
+        "value": "\n\t• **Coordinates:** 0° 9' N 8° 43' E\n\t• [Image](https://vignette.wikia.nocookie.net/runescape2/images/5/59/Enchantedkey_meeting_3.png/revision/latest/scale-to-width-down/200?cb=20131225055408)"
+      },
+      {
+        "name": "​",
+        "value": "West of [Brimhaven](https://runescape.wikia.com/wiki/Brimhaven) on the western shoreline\n\t• **Coordinates:** 0° 9' N 8° 43' E\n\t• [Image](https://vignette.wikia.nocookie.net/runescape2/images/5/59/Enchantedkey_meeting_3.png/revision/latest/scale-to-width-down/200?cb=20131225055408)"
+      },
+      {
+        "name": "​",
+        "value": "South of [Chaos tunnels](https://runescape.wikia.com/wiki/Chaos_Tunnels) entrance in level 4 [Wilderness](https://runescape.wikia.com/wiki/Wilderness), north of Grand Exchange\n\t• **Coordinates:** 12° 5' N 22° 41' E\n\t• [Image](https://vignette.wikia.nocookie.net/runescape2/images/6/69/Enchantedkey_meeting_4.png/revision/latest/scale-to-width-down/200?cb=20131225060111)"
+      },
+      {
+        "name": "​",
+        "value": "Mine east of [Tai Bwo Wannai](https://runescape.wikia.com/wiki/Tai_Bwo_Wannai). This is the one near the Small obelisk, not the [Shilo](https://runescape.wikia.com/wiki/Shilo_Village_(city)) gem mine\n\t• **Coordinates:** 3° 56' S 12° 45' E\n\t• [Image](https://vignette.wikia.nocookie.net/runescape2/images/a/a4/Enchanted_key_dig_spot_Karamja.png/revision/latest/scale-to-width-down/200?cb=20131225060616)"
+      },
+      {
+        "name": "​",
+        "value": "West of the [Hunting expert](https://runescape.wikia.com/wiki/Hunting_expert) in [Feldip Hills](https://runescape.wikia.com/wiki/Feldip_Hills)\n\t• **Coordinates:** 7° 26' S 2° 26' E\n\t• [Image](https://vignette.wikia.nocookie.net/runescape2/images/4/4f/Enchantedkey_meeting_6.png/revision/latest/scale-to-width-down/200?cb=20131225061246)"
+      },
+      {
+        "name": "​",
+        "value": "In the desert east of [Sophanem](https://runescape.wikia.com/wiki/Sophanem), south of the [Agility Pyramid](https://runescape.wikia.com/wiki/Agility_Pyramid)\n\t• **Coordinates:** 11° 26' S 28° 35' E\n\t• [Image](https://vignette.wikia.nocookie.net/runescape2/images/5/54/Enchantedkey_meeting_7.png/revision/latest/scale-to-width-down/200?cb=20131225061715)"
+      },
+      {
+        "name": "​",
+        "value": "North of the [Bandit Camp](https://runescape.wikia.com/wiki/Bandit_Camp_(Wilderness) in Level 27 Wilderness, just east of the [Wilderness obelisk](https://runescape.wikia.com/wiki/Wilderness_obelisk)\n\t• **Coordinates:** 17° 50' N 18° 56' E\n\t• [Image](https://vignette.wikia.nocookie.net/runescape2/images/0/0e/Enchantedkey_meeting_8.png/revision/latest/scale-to-width-down/200?cb=20131225062343)"
+      },
+      {
+        "name": "​",
+        "value": "Level 20 Wilderness southeast of [Clan Wars](https://runescape.wikia.com/wiki/Clan_Wars), past the [black salamander hunter area](https://runescape.wikia.com/wiki/Black_salamander_hunter_area), just east of the [green dragons](https://runescape.wikia.com/wiki/Green_dragon)\n\t• **Coordinates:** 16° 3' N 28° 45' E\n\t• [Image](https://vignette.wikia.nocookie.net/runescape2/images/9/92/Enchantedkey_meeting_9.png/revision/latest/scale-to-width-down/200?cb=20131225063404)"
+      },
+      {
+        "name": "​",
+        "value": "Just north of the [thrower trolls](https://runescape.wikia.com/wiki/Thrower_Troll) on [Death Plateau](https://runescape.wikia.com/wiki/Death_Plateau_(location)) on the ridge that you access through [Sabbot](https://runescape.wikia.com/wiki/Sabbot)'s cave. Continue toward the entrance to the Death Plateau\n\t• **Coordinates:** 13° 56' N 13° 30' E\n\t• [Image](https://vignette.wikia.nocookie.net/runescape2/images/a/aa/Trollheim_enchanted_key_digspot.png/revision/latest/scale-to-width-down/200?cb=20131225064129)"
+      },
+      {
+        "name": "​",
+        "value": "Level 53 Wilderness, middle of the [Scorpion Pit](https://runescape.wikia.com/wiki/Scorpion_Pit), east of the [magic axe hut](https://runescape.wikia.com/wiki/Magic_axe_hut)\n\t• **Coordinates:** 24° 30' N 25° 0' E\n\t• [Image](https://vignette.wikia.nocookie.net/runescape2/images/4/4f/Enchantedkey_meeting_11.png/revision/latest/scale-to-width-down/200?cb=20131225064754)\n\n"
+      },
+      {
+        "name": "Start Point:",
+        "value": "• Speak to [Jorral](https://runescape.wikia.com/wiki/Jorral) in the outpost south of the [Tree Gnome Stronghold](https://runescape.wikia.com/wiki/Tree_Gnome_Stronghold)"
+      },
+      {
+        "name": "Official Difficulty:",
+        "value": "• None"
+      },
+      {
+        "name": "Official Length:",
+        "value": "• Short"
+      },
+      {
+        "name": "Items Required:",
+        "value": "• [Enchanted key](https://runescape.wikia.com/wiki/Enchanted_key_(Making_History) - used to located the buried chests\n• [Spade](https://runescape.wikia.com/wiki/Spade) - used to dig the buried chests"
+      },
+      {
+        "name": "Enemies to Defeat:",
+        "value": "• None"
+      },
+      {
+        "name": "Requirements:",
+        "value": "• Meeting History Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Meeting_History)\n• Making History Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Making_History)"
+      },
+      {
+        "name": "Guide:",
+        "value": "• [Enchanted Key Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Enchanted_key_(miniquest%29)"
+      }
+    ],
+    "footer": {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+      "text": "Runescore awarded: 25"
+    },
+"timestamp": "2001-01-04T12:00:00Z"
+  },
 	"barbarian scavenger": {
 		"cmds": ["trim"],
 		"embed": {
@@ -7837,55 +7925,87 @@ exports.data = {
             "timestamp": "2001-01-04T12:00:00Z"
   }
 	},
-	"skeletal wishes": {
-		"cmds": ["mqc"],
-		"embed": {
-            "title": "Skeletal Wishes",
-            "author": {
-                "name": "Cape Info",
-                "icon_url": "https://i.imgur.com/6c6q2iC.png"
-            },
-            "description": "[Skeletal Wishes](http://runescape.wikia.com/wiki/Skeletal_Wishes) is an achievement that requires the player to complete the [Rag and Bone Man wish list](https://runescape.wikia.com/wiki/Rag_and_Bone_Man/Wish_list) and the [Fur 'n' Seek wish list](https://runescape.wikia.com/wiki/Fur_'n'_Seek/Wish_list), and then having the[ Odd Old Man](https://runescape.wikia.com/wiki/Odd_Old_Man) rebuild the [Skeletal horror](https://runescape.wikia.com/wiki/Skeletal_horror).\n\nAfter completing the wish list from the Fur 'n' Seek quest, it is revealed that the old man had found the remains of a powerful, undead, mind-controlling skeletal horror and carried them in the sack on his back for over 10 years, and the bones collected by the player during the quests and wish lists were needed to construct the beast. It is also revealed that he used the furs from Fur 'n' Seek to make himself a new outfit. The player then defeats the Skeletal Horror, freeing the Odd Old Man from its control. Afterwards, the old man sets about rebuilding the monster for research purposes and invites the player to return once a week to ensure the beast is kept under control.",
-            "thumbnail": {
-                "url": "https://i.imgur.com/Shmagnp.png"
-            },
-            "fields": [
-                			{
-                    "name": "Start Point:",
-                    "value": "• Speak to the Odd Old man located in [Silvarea](https://runescape.wikia.com/wiki/Silvarea), northeast of [Varrock](https://runescape.wikia.com/wiki/Varrock)"
-      			},
-        		{
-                    "name": "Official Difficulty:",
-                    "value": "• None"
-        		},
-        		{
-                    "name": "Official Length:",
-                    "value": "• Short"
-       			},
-        		{
-                    "name": "Items Required:",
-                    "value": "• None"
-        		},
-        		{
-                    "name": "Enemies to Defeat:",
-                    "value": "• None"
-        		},
-            {
-                    "name": "Requirements:",
-                    "value": "• Fur 'n' Seek Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Fur_%27n%27_Seek)\n• Recipe for Disaster: Freeing King Awowogei Subquest partial completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Recipe_for_Disaster:_Freeing_King_Awowogei)\n• The Fremennik Trials Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Fremennik_Trials)\n• Horror from the Deep Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Horror_from_the_Deep)\n\n• Started the pyre ship section of Barbarian Firemaking | [Runescape Wiki](http://runescape.wikia.com/wiki/Barbarian_Firemaking)"
-                },
-                {
-                  "name": "Guides:",
-                  "value": "• [Rag and Bone man Wish list guide | Runescape Wiki](http://runescape.wikia.com/wiki/Rag_and_Bone_Man/Wish_list)\n• [Fur 'n' Seek Wish list guide | Runescape Wiki](http://runescape.wikia.com/wiki/Fur_'n'_Seek/Wish_list)"
-                }
-            ],
-            "footer": {
-                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-                "text": "Runescore awarded: 15"
-            },
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
-	},
+  "skeletal wishes pt1": {
+    "title": "Skeletal Wishes",
+    "author": {
+      "name": "RuneScore Achievement Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[Skeletal Wishes](http://runescape.wikia.com/wiki/Skeletal_Wishes) is an achievement that requires the player to complete the [Rag and Bone Man wish list](https://runescape.wikia.com/wiki/Rag_and_Bone_Man/Wish_list) and the [Fur 'n' Seek wish list](https://runescape.wikia.com/wiki/Fur_'n'_Seek/Wish_list), and then having the[ Odd Old Man](https://runescape.wikia.com/wiki/Odd_Old_Man) rebuild the [skeletal horror](https://runescape.wikia.com/wiki/Skeletal_horror).\n\nAfter completing the wish list from the Fur 'n' Seek quest, it is revealed that the old man had found the remains of a powerful, undead, mind-controlling skeletal horror and carried them in the sack on his back for over 10 years, and the bones collected by the player during the quests and wish lists were needed to construct the beast. It is also revealed that he used the furs from Fur 'n' Seek to make himself a new outfit. The player then defeats the Skeletal Horror, freeing the Odd Old Man from its control. Afterwards, the old man sets about rebuilding the monster for research purposes and invites the player to return once a week to ensure the beast is kept under control.\n\n• None of the bone drops are 100%, but they are fairly common.\n•No more than 40 kills should be required for any special bone.\n•The monsters you need to kill are mentioned on the wish list.",
+    "thumbnail": {
+      "url": "https://i.imgur.com/Shmagnp.png"
+    },
+    "fields": [{
+        "name": "Skeleal Horror Guide:",
+        "value": "For every 12,500 damage dealt to the Skeletal Horror an appendage will be thrown to a corner of the battlefield. First the [right arm](https://runescape.wikia.com/wiki/Arm_(right) will fall off, then the [left arm](https://runescape.wikia.com/wiki/Arm_(left), and finally the [tail](https://runescape.wikia.com/wiki/Tail).\n\nWhen an appendage is lost the skeletal horror will become weakened; lowering the combat level, the max hit, accuracy, and defensive capabilities of the skeletal horror. The appendages must be picked up into the player's [inventory](https://runescape.wikia.com/wiki/Inventory) and buried. If left on the ground or in your inventory, the appendage will reattach to the Skeletal horror, healing back the damage dealt, and restoring its combat stats."
+      },
+      {
+        "name": "​",
+        "value": "It is possible, albeit difficult to kill the skeletal horror without burying any of the appendages.\n\nThe skeletal horror can be dangerous if unprepared, or for lower level players. It will not attack you with the attack style that you are praying against (e.g., if praying against Magic, it will use Melee, and vice versa), so high healing food such as [monkfish](https://runescape.wikia.com/wiki/Monkfish) or [sharks](https://runescape.wikia.com/wiki/Shark) are recommended. It is not recommended to use armor below level 70 to fight the skeletal horror as it can hit exceptionally high if you do. A high levelled player should be able to defeat the skeletal horror without any issue."
+      },
+      {
+        "name": "Start Point:",
+        "value": "• Speak to the Odd Old man located in [Silvarea](https://runescape.wikia.com/wiki/Silvarea), northeast of [Varrock](https://runescape.wikia.com/wiki/Varrock)"
+      },
+      {
+        "name": "Official Difficulty:",
+        "value": "• None"
+      },
+      {
+        "name": "Official Length:",
+        "value": "• Very Long"
+      },
+      {
+        "name": "Items Required (Rag and Bone Man):",
+        "value": "• Several [Empty pots](https://runescape.wikia.com/wiki/Empty_pot)\n• 27 [Logs](https://runescape.wikia.com/wiki/Logs) (any kind)\n• [Dusty key](https://runescape.wikia.com/wiki/Dusty_key)\n• A [Light source](https://runescape.wikia.com/wiki/Light_sources)\n• [Brutal arrows](https://runescape.wikia.com/wiki/Brutal_arrows)\n• [Comp ogre bow](https://runescape.wikia.com/wiki/Comp_ogre_bow)\n• [Fishing explosive](https://runescape.wikia.com/wiki/Fishing_explosive)\n• [Mirror shield](https://runescape.wikia.com/wiki/Mirror_shield)\n• [Spiny helmet](https://runescape.wikia.com/wiki/Spiny_helmet)\n• [Ice cooler](https://runescape.wikia.com/wiki/Ice_cooler)"
+      },
+      {
+        "name": "Enemies to Defeat (Rag and Bone Man):",
+        "value": "• [Fire giant](https://runescape.wikia.com/wiki/Fire_giant)\n• [Ice giant](https://runescape.wikia.com/wiki/Ice_giant)\n• [Terrorbird](https://runescape.wikia.com/wiki/Terrorbird)\n• [Ghoul](https://runescape.wikia.com/wiki/Ghoul)\n• [Troll](https://runescape.wikia.com/wiki/Troll)\n• [Seagull](https://runescape.wikia.com/wiki/Seagull)\n• [Experiment](https://runescape.wikia.com/wiki/Experiment)\n• [Rabbit](https://runescape.wikia.com/wiki/Rabbit)\n• [Basilisk](https://runescape.wikia.com/wiki/Basilisk)\n• [Lizard](https://runescape.wikia.com/wiki/Lizard) (only level 77 drops special bone)\n• [Cave goblin](https://runescape.wikia.com/wiki/Cave_goblin)\n• [Vulture](https://runescape.wikia.com/wiki/Vulture)\n• [Jackal](https://runescape.wikia.com/wiki/Jackal)\n• [Undead cow](https://runescape.wikia.com/wiki/Undead_cow)"
+      }
+      ]
+    },
+  "skeletal wishes pt2": {
+      "fields": [
+             {
+        "name": "​",
+        "value": "• [Wolf](https://runescape.wikia.com/wiki/Wolf)\n• [Bat](https://runescape.wikia.com/wiki/Bat) ([Giant Bats](https://runescape.wikia.com/wiki/Giant_bat) do not drop them)\n• [Rat](https://runescape.wikia.com/wiki/Rat)\n• [Babby blue dragon](https://runescape.wikia.com/wiki/Baby_blue_dragon)\n• [Ogre](https://runescape.wikia.com/wiki/Ogre)\n• [Jogre](https://runescape.wikia.com/wiki/Jogre)\n• [Zogre](https://runescape.wikia.com/wiki/Zogre)\n• [Mogre](https://runescape.wikia.com/wiki/Mogre)\n• [Dagannoth](https://runescape.wikia.com/wiki/Dagannoth)\n• [Snake](https://runescape.wikia.com/wiki/Snake)\n• [Zombie](https://runescape.wikia.com/wiki/Zombie)\n• [Werewold](https://runescape.wikia.com/wiki/Werewolf)\n• [Moss giant](https://runescape.wikia.com/wiki/Moss_giant)\n\nEach of the above monsters will need to be killed until they drop their [respective bone](https://i.imgur.com/u2jBXBd.png)."
+      },
+      {
+        "name": "Items Required (Fur 'n' Seek):",
+        "value": "• [Witchwood icon](https://runescape.wikia.com/wiki/Witchwood_icon)\n• A light soure\n• 20 [Pots of vinegar](https://runescape.wikia.com/wiki/Pot_of_vinegar)\n• 20 Logs (any type)\n•[Teasing stick](https://runescape.wikia.com/wiki/Teasing_stick) and logs for hunting Sabre-toothed kyatt\n• [Golden Fleece](https://runescape.wikia.com/wiki/Golden_fleece) (Buy from [Lalli](https://runescape.wikia.com/wiki/Lalli) for 1,000 coins. He's near the [Golden Apple Tree](https://runescape.wikia.com/wiki/Golden_Apple_Tree), south-east of [Rellekka](https://runescape.wikia.com/wiki/Rellekka).)"
+      },
+      {
+        "name": "​",
+        "value": "• [Elemental shield](https://runescape.wikia.com/wiki/Elemental_shield)/[Mind Shield](https://runescape.wikia.com/wiki/Mind_shield)/[Body shield](https://runescape.wikia.com/wiki/Body_shield)/[Cosmic shield](https://runescape.wikia.com/wiki/Cosmic_shield)/[Chaos shield](https://runescape.wikia.com/wiki/Chaos_shield)\n• [Anti-dragon shield](https://runescape.wikia.com/wiki/Anti-dragon_shield) or a [Super antifire potion](https://runescape.wikia.com/wiki/Super_antifire)\n• [Leaf-bladed spear](https://runescape.wikia.com/wiki/Leaf-bladed_spear)/[Leaf-bladed sword](https://runescape.wikia.com/wiki/Leaf-bladed_sword) or [Slayer darts](https://runescape.wikia.com/wiki/Slayer_Dart) or [Broad arrows](https://runescape.wikia.com/wiki/Broad_arrows)/[Broad-tipped bolts](https://runescape.wikia.com/wiki/Broad-tipped_bolts)"
+      },
+      {
+        "name": "Enemies to Defeat (Fur 'n' Seek):",
+        "value": "• Adult [Turoth](https://runescape.wikia.com/wiki/Turoth)\n• [Crawling Hand](https://runescape.wikia.com/wiki/Crawling_Hand)\n• [Ugthanki](https://runescape.wikia.com/wiki/Ugthanki) or [Camel](https://runescape.wikia.com/wiki/Camel)\n• [Tortoise](https://runescape.wikia.com/wiki/Tortoise) or [Warped tortoise](https://runescape.wikia.com/wiki/Warped_tortoise)\n• [Sabre-toothed kyatt](https://runescape.wikia.com/wiki/Sabre-toothed_kyatt) or [Sabre-toothed kebbit](https://runescape.wikia.com/wiki/Sabre-toothed_kebbit) or [Wallasalki](https://runescape.wikia.com/wiki/Wallasalki)\n• [Green dragon](https://runescape.wikia.com/wiki/Green_dragon) or [Brutal green dragon](https://runescape.wikia.com/wiki/Brutal_green_dragon)\n• [Blue dragon](https://runescape.wikia.com/wiki/Blue_dragon)\n• [Red dragon](https://runescape.wikia.com/wiki/Red_dragon)"
+      },
+      {
+        "name": "​",
+        "value": "• [Black dragon](https://runescape.wikia.com/wiki/Black_dragon) or [King black dragon](https://runescape.wikia.com/wiki/King_black_dragon)\n• [Skeletal Wyvern](https://runescape.wikia.com/wiki/Skeletal_Wyvern)\n• [Bronze dragon](https://runescape.wikia.com/wiki/Bronze_dragon)\n• [Iron dragon](https://runescape.wikia.com/wiki/Iron_dragon)\n• [Steel dragon](https://runescape.wikia.com/wiki/Steel_dragon)\n• [Mithril dragon](https://runescape.wikia.com/wiki/Mithril_dragon)\n• [General Graardor](https://runescape.wikia.com/wiki/General_Graardor) or [Bork](https://runescape.wikia.com/wiki/Bork)\n• [Monkey Guard](https://runescape.wikia.com/wiki/Monkey_Guard) or [Cave horror](https://runescape.wikia.com/wiki/Cave_horror) or [Jungle horror](https://runescape.wikia.com/wiki/Jungle_horror) or [Yeti](https://runescape.wikia.com/wiki/Yeti)"
+      },
+      {
+        "name": "​",
+        "value": "• [Big Snake](https://runescape.wikia.com/wiki/Big_Snake) or [Sea snake young](https://runescape.wikia.com/wiki/Sea_snake_young) or [Giant Sea Snake](https://runescape.wikia.com/wiki/Giant_Sea_Snake)\n• Any [Giant](https://runescape.wikia.com/wiki/Giant)\n• [Nail beast](https://runescape.wikia.com/wiki/Nail_beast) or [Gorak](https://runescape.wikia.com/wiki/Gorak) or [Giant Mole](https://runescape.wikia.com/wiki/Giant_Mole) or [Wild kebbit](https://runescape.wikia.com/wiki/Wild_kebbit)\n• [Aquanite](https://runescape.wikia.com/wiki/Aquanite)\n• [Skeletal horror](https://runescape.wikia.com/wiki/Skeletal_horror) (after collecting all the bones)\n\nAside from the Skeleal Horror, each of the above monsters will need to be killed until they drop their [respective bone](https://vignette.wikia.nocookie.net/runescape2/images/5/5c/FNSWL.png/revision/latest?cb=20090815192449)."
+      },
+      {
+        "name": "Requirements:",
+        "value": "• Fur 'n' Seek Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Fur_%27n%27_Seek)\n• Recipe for Disaster: Freeing King Awowogei Subquest partial completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Recipe_for_Disaster:_Freeing_King_Awowogei)\n• The Fremennik Trials Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Fremennik_Trials)\n• Horror from the Deep Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Horror_from_the_Deep)\n\n• Started the pyre ship section of Barbarian Firemaking | [Runescape Wiki](http://runescape.wikia.com/wiki/Barbarian_Firemaking)"
+      },
+      {
+        "name": "Guides:",
+        "value": "• [Rag and Bone man Wish list guide | Runescape Wiki](http://runescape.wikia.com/wiki/Rag_and_Bone_Man/Wish_list)\n• [Fur 'n' Seek Wish list guide | Runescape Wiki](https://runescape.wikia.com/wiki/Fur_%27n%27_Seek/Wish_list)"
+      }
+    ],
+    "footer": {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+      "text": "Runescore awarded: 15"
+    },
+"timestamp": "2001-01-04T12:00:00Z"
+  },
 	"slayer master": {
 		"cmds": ["comp"],
 		"embed": {
