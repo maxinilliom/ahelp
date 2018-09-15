@@ -1,6 +1,50 @@
 exports.data = {
+  "break1": {
+    "files": [{
+      "attachment": "media/img/info/fc/break.png",
+      "name": "break.png"
+    }]
+  },
+  "fcheader": {
+    "files": [{
+      "attachment": "media/img/info/fc/fcheader.png",
+      "name": "Friends Chats header.png"
+    }]
+  },
+  "break2": {
+    "files": [{
+      "attachment": "media/img/info/fc/break.png",
+      "name": "break.png"
+    }]
+  },
+  "fcinfo": {
+    "files": [{
+      "attachment": "media/img/info/fc/fcinfo.png",
+      "name": "Friends Chat information.png"
+    }]
+  },
+  "break3": {
+    "files": [{
+      "attachment": "media/img/info/fc/break.png",
+      "name": "break.png"
+    }]
+  },
+
+  "fctext": "<:bulletpoint:418304110429732883> Please forward any friend's chat suggestions to us and we'll add them to the following lists.\n<:bulletpoint:418304110429732883> You can join Achievement Help’s Official friend chat Saint Cannon in game!",
+  
+  "break4": {
+    "files": [{
+      "attachment": "media/img/info/fc/break.png",
+      "name": "break.png"
+    }]
+  },
+  "minigames": {
+    "files": [{
+      "attachment": "media/img/info/fc/minigames.png",
+      "name": "Minigames.png"
+    }]
+  },
     "minigames": {
-  "embed": {
     "title": "Minigames",
     "description":"**Cwars United** - Castle Wars Games (Afk). Apply [Here](http://services.runescape.com/m=forum/c=ob7A0kMf9cA/forums.ws?75,76,32,66000897).\n\n**Minigames** - Mazcab Supply Runs and All Around Minigame Needs\n\n**Clue Chasers** - Enthusiastic Clue Scroll community\n\n**Ba Teams** - Barbarian Assault Games\n\n**Conquest Chat** - Conquest Games\n\n**Hybrid Top** - Fight Pit Games and finding partners to get a 'Hybrid Top' (Battle-mage/Trickster/Vanguard)\n\n**FishFlingers** - Fish Flingers\n\n**GOP Addict** - Great Orb Project Games\n\n**Heist4Fun** - Heist Games\n\n**World60pengs** or **W60 Find Pen** - Penguin Hunting\n\n**Fast SC** - Stealing Creation (Non-Combat)",
     "thumbnail": {
@@ -14,6 +58,18 @@ exports.data = {
       "name": "Friend Chats",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     }
+  },
+  "break5": {
+    "files": [{
+      "attachment": "media/img/info/fc/break.png",
+      "name": "break.png"
+    }]
+  },
+  "skillingdds": {
+    "files": [{
+      "attachment": "media/img/info/fc/skillingdds.png",
+      "name": "Skilling / D&Ds.png"
+    }]
   },
     "skilling/d&ds": {
     "title": "Skilling + D&D's",
@@ -30,6 +86,18 @@ exports.data = {
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     }
   },
+  "break6": {
+    "files": [{
+      "attachment": "media/img/info/fc/break.png",
+      "name": "break.png"
+    }]
+  },
+  "pvmteaching": {
+    "files": [{
+      "attachment": "media/img/info/fc/pvmteaching.png",
+      "name": "PvM / Teaching.png"
+    }]
+  },
     "pvm/teaching": {
     "title": "PvM/Teaching",
     "description":"**EliteDungFC** - finding teams for Elite Dungeons\n\n**Slayer Dungs** - Finding specific Player Owned Slayer Dungeon Mobs\n\n**AoDTeams** - Teams for Angel of Death\n\n**NexAod** - Angel of Death Masses\n\n**Raiding FC**, **Raid FC**, or **Aus Raiding** - Full Raids and learning\n\n**Boss School**, **PvMing FC**, **PvM Fanatics**, or **Teaching RS** - Teaching and finding any boss teams\n\n**lskk247** - Lootshare Kalphite King kills\n\n**Casual KK** - smaller experienced Kalphite King teams\n\n**Duck Hunters** - Megaduck Pet chances\n\n**Teachingrots** or **Pro Rots** -  Learning and making teams for Rise of the Six\n\n**Rago PvM** or **Wandoodle** -  Vorago Masses and Learning\n\nLSPVM247 - Boss LootSharing\n\n**Solak247** or **Solak FC** - Solak 2 or 7 man teams",
@@ -45,6 +113,18 @@ exports.data = {
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     }
   },
+  "break7": {
+    "files": [{
+      "attachment": "media/img/info/fc/break.png",
+      "name": "break.png"
+    }]
+  },
+  "pricecheck": {
+    "files": [{
+      "attachment": "media/img/info/fc/pricecheck.png",
+      "name": "break.png"
+    }]
+  },
     "price checking": {
     "title": "Price Checking/Trading",
     "description":"**90weaps pc** - Price checking T90+ Weapons\n\n**R Quark** - Price checking Rares\n\n**TH Rares PC** - Treasure Hunter/SOF price checking\n\n**Using the Forums for prices** - Incase there are issues with the friend chats use [this](http://services.runescape.com/m=forum/forums.ws?17,18,thd,372,65986200) official RuneScape Forums resource.",
@@ -59,6 +139,11 @@ exports.data = {
       "name": "Friend Chats",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     }
+  },
+  "break8": {
+    "files": [{
+      "attachment": "media/img/info/fc/break.png",
+      "name": "break.png"
+    }]
   }
-}
 };
