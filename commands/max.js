@@ -161,6 +161,7 @@ exports.run = async (client, message, [skill, ...args], level) => { // eslint-di
                 let output = "";
                 const helpEmbed = data["help"];
                 keyList.forEach(k => {
+                		if (data[k].title) return;
                         output += `• ${data[k].title}\n`;
                 });
                 helpEmbed.title = `Comprehensive list of all valid ${skill.toProperCase()} guide commands`;
@@ -172,20 +173,25 @@ exports.run = async (client, message, [skill, ...args], level) => { // eslint-di
         }
 
 	if (args[0].toLowerCase() == "all" && level >=2) {
-                let i = 0, o = 0, x = keyList.length;
+                let i = 0, o = 0, x = keyList.length, errMsg = "";
                 //insert skill header switch here
                 function list() {
-                        const guide = data[keyList[o]];
-                        guide.author.name = name;
-                        guide.color = color;
-						guide.footer = footer;
-                        guide.timestamp = new Date();
-                        message.channel.send("", {embed: guide});
-                        i++;
-                        o++;
-                        if (o < x) setTimeout(list, 2500);
-                        if (o == x) message.reply(`**${i}**/\**${keyList.length}** responses listed.`);
-                }
+                  const guide = data[keyList[o]];
+                  guide.color = color;
+			      if (guide.author) guide.author.name = name;
+			      if (guide.footer) guide.footer = footer;
+			      if (guide.timestamp) guide.timestamp = new Date();
+                  try {
+				  	await message.channel.send("", {embed: guide});
+				  } catch (err) {
+				  	errMsg += `${o}. ${keyList[o]} failed to send with error: ${err}`;
+				  	i--;
+				  }
+			      i++;
+			      o++;
+			      if (o < x) setTimeout(list, 2500);
+				  if (o == x) message.reply(`**${i}**/\**${keyList.length}** responses listed.\n\n${errMsg}`);
+			    }
                 list();
 		message.delete();
 		return;
@@ -193,77 +199,89 @@ exports.run = async (client, message, [skill, ...args], level) => { // eslint-di
 
 	if (Number(args[0])) {
 		//number search
+		let prev = undefined;
 		keyList.forEach(k => {
 			const split = k.split(" ");
 			const first = Number(split[0]);
 			let last = Number(split[2]);
-			if (split[3] == "+") last += 121;
+			if (split[3] == "+") last == 121;
 			if (args[0] >= first && args[0] < last && !/\bpt\d/.test(k) && !rtnArr.includes(k)) rtnArr.push(k);
 			if (args[0] >= first && args[0] < last && /\bpt\d/.test(k)) {
+			if (prev && prev !== k.replace(/ \bpt\d/, "")) return;
 				const guide = data[k];
-				if (/\bpt1/.test(k)) guide.author.name = name;
 				guide.color = color;
+				if (/\bpt1/.test(k)) guide.author.name = name;
 				if (guide.footer) guide.footer = footer;
 				if (guide.timestamp) guide.timestamp = new Date();
 				message.channel.send("", {embed: guide});
 				pt = "true";
+				prev = k.replace(/ \bpt\d/, "");
 			}
 		});
 	} else if (!Number(args[0])) {
 		//string search
+		let prev = undefined;
 		keyList.forEach(k => {
 			if (RegExp(args[0].toLowerCase()).test(k) && !/\bpt\d/.test(k) && !rtnArr.includes(k)) rtnArr.push(k);
 			if (RegExp(args[0].toLowerCase()).test(k) && /\bpt\d/.test(k)) {
+			if (prev && prev !== k.replace(/ \bpt\d/, "")) return;
 				const guide = data[k];
+				guide.color = color;
+				if (/\bpt1/.test(k)) guide.author.name = name;
+				if (guide.footer) guide.footer = footer;
+				if (guide.timestamp) guide.timestamp = new Date();
 				message.channel.send("", {embed: guide});
 				pt = "true";
+				prev = k.replace(/ \bpt\d/, "");
 			}
 		});
 	}
+
+	if (pt == "true") return;
 
         if (rtnArr.length == 0 && pt == "false") {
                 return message.channel.send(`No results found for **${args.join(" ")}**.`);
         } else if (rtnArr.length == 1) {
                 const guide = data[rtnArr[0]];
-								guide.author.name = name;
-								guide.color = color;
-								guide.footer = footer;
-								guide.timestamp = new Date();
+				guide.author.name = name;
+				guide.color = color;
+				guide.footer = footer;
+				guide.timestamp = new Date();
                 message.channel.send("", {embed: guide});
         } else if (rtnArr.length > 1) {
                 let output = "";
                 let second = "";
                 let i = 1;
                 const searchEmbed = data["search"];
-		rtnArr.forEach(n => {
-			if (output.length <= 2000) {
-				output += `${i}: ${data[rtnArr[i-1]].embed.title}\n`;
-			} else if (second.length <= 2000) {
-				second += `${i}: ${data[rtnArr[i-1]].embed.title}\n`;
-			}
-			i++;
-		});
+				rtnArr.forEach(n => {
+					if (output.length <= 2000) {
+						output += `${i}: ${data[rtnArr[i-1]].embed.title}\n`;
+					} else if (second.length <= 2000) {
+						second += `${i}: ${data[rtnArr[i-1]].embed.title}\n`;
+					}
+					i++;
+				});
                 searchEmbed.title = `All ${skill.toProperCase()} guide commands matching your search`;
-								searchEmbed.author.name = name;
-								searchEmbed.description = output;
-								searchEmbed.color = color;
-								searchEmbed.footer = footer;
-								searchEmbed.timestamp = new Date();
-		await message.channel.send("", {embed: searchEmbed});
+				searchEmbed.author.name = name;
+				searchEmbed.description = output;
+				searchEmbed.color = color;
+				searchEmbed.footer = footer;
+				searchEmbed.timestamp = new Date();
+				await message.channel.send("", {embed: searchEmbed});
 
-		if (second.length > 0) {
-			searchEmbed.description = second;
-			searchEmbed.timestamp = new Date();
-			await message.channel.send("", {embed: searchEmbed});
-		}
+				if (second.length > 0) {
+					searchEmbed.description = second;
+					searchEmbed.timestamp = new Date();
+					await message.channel.send("", {embed: searchEmbed});
+				}
 
                 const response = await client.awaitReply(message, "Which guide were you searching for? Please enter the corresponding number.");
                 if (isNaN(response) || response > rtnArr.length || response < 1) return message.channel.send("Invalid number specified, search cancelled.");
                 const choice = data[rtnArr[response-1]];
-								choice.author.name = name;
-								choice.color = color;
-								choice.footer = footer;
-								choice.timestamp = new Date();
+				choice.author.name = name;
+				choice.color = color;
+				choice.footer = footer;
+				choice.timestamp = new Date();
                 return message.channel.send("", {embed: choice});
         } else if (pt == "true") {
 		return;
