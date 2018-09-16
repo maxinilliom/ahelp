@@ -266,7 +266,7 @@ exports.data = {
       "fields":[  
          {  
             "name":"God Statues",
-            "value":"[God Statues]((https://runescape.wikia.com/wiki/God_Statues)) is a Construction based monthly [Distraction and Diversion](https://runescape.wikia.com/wiki/Distraction_and_Diversion). The aim is to aid [Copernicus Glyph](https://runescape.wikia.com/wiki/Copernicus_Glyph) in building up to five statues around Gielinor which act as prayer altars.\n\nTo take part, one of the following must be Uploaded: \n\t• Uploaded or manually turned off tutorial mode\n\t• Uploaded at least 60 [Achievements](https://runescape.wikia.com/wiki/Achievements)\n\t• Uploaded [Let Them Eat Pie](https://runescape.wikia.com/wiki/Let_Them_Eat_Pie)"
+            "value":"[God Statues](https://runescape.wikia.com/wiki/God_Statues) is a Construction based monthly [Distraction and Diversion](https://runescape.wikia.com/wiki/Distraction_and_Diversion). The aim is to aid [Copernicus Glyph](https://runescape.wikia.com/wiki/Copernicus_Glyph) in building up to five statues around Gielinor which act as prayer altars.\n\nTo take part, one of the following must be Uploaded: \n\t• Uploaded or manually turned off tutorial mode\n\t• Uploaded at least 60 [Achievements](https://runescape.wikia.com/wiki/Achievements)\n\t• Uploaded [Let Them Eat Pie](https://runescape.wikia.com/wiki/Let_Them_Eat_Pie)"
          },
          {  
             "name":"​",
@@ -289,7 +289,7 @@ exports.data = {
   },
   "daily challenge": {  
       "title":"Daily Challenge",
-      "description":"Completing a daily challenge in Prayer will give Prayer experience, depending on the player's Prayer level.\n\nAt level 99, the following daily challenges can be given:\n\n• Bury 5 [airut bones](https://runescape.wikia.com/wiki/Airut_bones) (will give 12,672 experience when turned in)\n• Scatter 5 [searing ashes](v) (will give 12,672 experience when turned in)\n\nDaily challenges may be extended for 50 [vis wax](https://runescape.wikia.com/wiki/Vis_wax) for double the reward.\n\nA full chart of the experience per level for the daily challenge may be found [here](https://runescape.wikia.com/wiki/Challenge_System/Prayer).",
+      "description":"Completing a daily challenge in Prayer will give Prayer experience, depending on the player's Prayer level.\n\nAt level 99, the following daily challenges can be given:\n\n• Bury 5 [Airut bones](https://runescape.wikia.com/wiki/Airut_bones) (will give 12,672 experience when turned in)\n• Scatter 5 [Searing ashes](http://runescape.wikia.com/wiki/Searing_ashes) (will give 12,672 experience when turned in)\n\nDaily challenges may be extended for 50 [vis wax](https://runescape.wikia.com/wiki/Vis_wax) for double the reward.\n\nA full chart of the experience per level for the daily challenge may be found [here](https://runescape.wikia.com/wiki/Challenge_System/Prayer).",
       "url":"https://runescape.wikia.com/wiki/Challenge_System/Prayer",
       "color":12269891,
       "footer":{  
@@ -370,7 +370,7 @@ exports.data = {
          },
          {  
             "name":"​",
-            "value":"[Perfect juju prayer potion](https://runescape.wikia.com/wiki/Perfect_juju_prayer_potion)\n\t• Gives 5% more experience for using [cleansing crystals](https://runescape.wikia.com/wiki/Cleansing_crystal)\n\t• Gives 5% more experience for sacrificing bones and ashes on a [gilded altar](https://runescape.wikia.com/wiki/Gilded_altar) or the [Chaos altar](https://runescape.wikia.com/wiki/Chaos_Temple_(Wilderness)#Chaos_Altar)\n\t• One dose lasts for 1 hour"
+            "value":"[Perfect juju prayer potion](https://runescape.wikia.com/wiki/Perfect_juju_prayer_potion)\n\t• Gives 5% more experience for using [cleansing crystals](https://runescape.wikia.com/wiki/Cleansing_crystal)\n\t• Gives 5% more experience for sacrificing bones and ashes on a [gilded altar](https://runescape.wikia.com/wiki/Gilded_altar) or the [Chaos altar](https://runescape.wikia.com/wiki/Chaos_Temple_(Wilderness%29#Chaos_Altar)\n\t• One dose lasts for 1 hour"
          },
          {  
             "name":"​",
