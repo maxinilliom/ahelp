@@ -10,7 +10,7 @@ exports.run = (client, message, args, level) => {
 	async function list() {
 		const curr = data[embeds[o]];
 		const embed = curr.description || curr.fields ? {embed: curr} : curr;
-		const channelName = message.channel.name.toProperCase().replace("-", " ");
+		const channelName = message.channel.name.toProperCase().replace(/-/g, " ");
 		if (curr.footer) curr.footer.text = `Achievement Help | ${channelName}`;
 		if (curr.description || curr.footer) {
 			switch (type) {
