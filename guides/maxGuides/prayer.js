@@ -23,15 +23,11 @@ exports.data = {
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     }
   },
-  "1 - 99 pt1": {  
+  "1 - 99 + pt1": {  
       "title":"Prayer Training Levels 1-99+",
       "description":"Prayer experience is earned for burying bones and scattering ashes.  The experience you gain depends upon the type of bone you are burying or ash you are scattering. \n\nOne of the most used methods is offering bones at a [Gilded Altar](https://runescape.wikia.com/wiki/Gilded_altar) with 2 lit [Marble Burners](https://runescape.wikia.com/wiki/Marble_burners) in the [Chapel](https://runescape.wikia.com/wiki/Chapel) of a [player-owned house](https://runescape.wikia.com/wiki/Player-owned_house). Building this requires a Construction level of 75, but you can also visit someone else's house and use their altar.\n\nOffering bones or ashes at a gilded altar with 2 lit marble burners will give you 350% of the original experience:\n• [Impious ashes](https://runescape.wikia.com/wiki/Impious_ashes): 14 experience\n• [Normal bones](https://runescape.wikia.com/wiki/Bones): 15.75 experience\n• [Accursed ashes](https://runescape.wikia.com/wiki/Accursed_ashes): 43.75 experience\n• [Big bones](https://runescape.wikia.com/wiki/Big_bones): 52.5 experience\n• [Babydragon bones](https://runescape.wikia.com/wiki/Babydragon_bones): 105 experience\n• [Wyvern bones](https://runescape.wikia.com/wiki/Wyvern_bones): 175 experience\n• [Infernal ashes](https://runescape.wikia.com/wiki/Infernal_ashes): 218.75 experience\n• [Dragon bones](https://runescape.wikia.com/wiki/Dragon_bones): 252 experience\n• [Dagannoth bones](https://runescape.wikia.com/wiki/Dagannoth_bones): 437.5 experience\n• [Airut bones](https://runescape.wikia.com/wiki/Airut_bones): 463.75 experience\n• [Ourg bones](https://runescape.wikia.com/wiki/Ourg_bones_%28General_Graardor%29): 490 experience\n• [Hardened dragon bones](https://runescape.wikia.com/wiki/Hardened_dragon_bones): 504 experience\n• [Frost dragon bones](https://runescape.wikia.com/wiki/Frost_dragon_bones): 630 experience\n• [Reinforced dragon bones](https://runescape.wikia.com/wiki/Reinforced_dragon_bones): 665 experience\n• [Searing ashes](https://runescape.wikia.com/wiki/Searing_ashes): 700 experience",
       "url":"https://runescape.wikia.com/wiki/Pay-to-play_Prayer_training#Commonly_used_methods",
       "color":12269891,
-      "footer":{  
-         "icon_url":"https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
-         "text":"Achievement Help | Helping you reach your goals, whatever they may be!"
-      },
       "thumbnail":{  
          "url":"https://vignette.wikia.nocookie.net/runescape2/images/5/59/Dragon_bones_detail.png/revision/latest/scale-to-width-down/100?cb=20121114030849"
       },
@@ -54,22 +50,7 @@ exports.data = {
          }
       ]
    },
-  "1 - 99 pt2": {  
-      "title":"Prayer Training Levels 1-99+",
-      "description":"​",
-      "url":"https://runescape.wikia.com/wiki/Pay-to-play_Prayer_training#Commonly_used_methods",
-      "color":12269891,
-      "footer":{  
-         "icon_url":"https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
-         "text":"Achievement Help | Helping you reach your goals, whatever they may be!"
-      },
-      "thumbnail":{  
-         "url":"https://vignette.wikia.nocookie.net/runescape2/images/5/59/Dragon_bones_detail.png/revision/latest/scale-to-width-down/100?cb=20121114030849"
-      },
-      "author":{  
-         "name":"Max Cape Info",
-         "icon_url":"https://i.imgur.com/6c6q2iC.png"
-      },
+  "1 - 99 + pt2": {  
       "fields":[  
          {  
             "name":"​▬▬ Alternative Method: Levels 1-99+ ▬▬",
@@ -97,22 +78,8 @@ exports.data = {
          }
       ]
    },
-  "75 - 99 +": {  
-      "title":"▬▬ Alternative Method: Levels 75-99+ ▬▬",
-      "description":"At level 75 Prayer and after getting access to [Prifddinas](https://runescape.wikia.com/wiki/Prifddinas) (requires completion of the quest [The Plague's End](https://runescape.wikia.com/wiki/Plague%27s_End)), you will be able to train Prayer using [Cleansing crystals](https://runescape.wikia.com/wiki/Cleansing_crystal). A Cleansing crystal is an item used to cleanse the [Corrupted Seren Stone](https://runescape.wikia.com/wiki/Corrupted_Seren_Stone) in the [Hefin cathedral](https://runescape.wikia.com/wiki/Hefin_cathedral) in Prifddinas. It can be purchased from [Hefin monks](https://runescape.wikia.com/wiki/Hefin_monk) for 110,000 coins each or obtained via pickpocketing the [Hefin workers](https://runescape.wikia.com/wiki/Hefin_worker). The store refill rate for cleansing crystals is approximately 1 every 10 seconds with a max store quantity of 5 cleansing stones.\n\nIf a cleansing crystal is used completely, without interruption, it will provide 9,800 Prayer experience. This is a cost of 11.22 coins per experience. It takes two minutes for a crystal to be fully drained. Up to 29 stones can be used in an hour, providing approximately 284,200 experience an hour, at a cost of -3,300,000 coins.\n\nAlternatively, when the [Voice of Seren](https://runescape.wikia.com/wiki/Voice_of_Seren) is illuminating the [Hefin Clan](https://runescape.wikia.com/wiki/Hefin_Clan) district, a cleansing crystal will give 20% more experience, for a total of 11,760 experience. This is a cost of 9.35 coins per experience, providing 352,800 experience per hour at the same total cost.",
-      "url":"https://runescape.wikia.com/wiki/Pay-to-play_Prayer_training#Cleansing_crystals",
-      "color":12269891,
-      "footer":{  
-         "icon_url":"https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
-         "text":"Achievement Help | Helping you reach your goals, whatever they may be!"
-      },
-      "thumbnail":{  
-         "url":"https://vignette.wikia.nocookie.net/runescape2/images/f/f9/Cleansing_crystal_detail.png/revision/latest?cb=20141113214555"
-      },
-      "author":{  
-         "name":"Max Cape Info",
-         "icon_url":"https://i.imgur.com/6c6q2iC.png"
-      },
+  "1 - 99 +": {  
+      "description":"\n\n**▬▬ Alternative Method: Levels 1-99 ▬▬**\n\nAt level 75 Prayer and after getting access to [Prifddinas](https://runescape.wikia.com/wiki/Prifddinas) (requires completion of the quest [The Plague's End](https://runescape.wikia.com/wiki/Plague%27s_End)), you will be able to train Prayer using [Cleansing crystals](https://runescape.wikia.com/wiki/Cleansing_crystal). A Cleansing crystal is an item used to cleanse the [Corrupted Seren Stone](https://runescape.wikia.com/wiki/Corrupted_Seren_Stone) in the [Hefin cathedral](https://runescape.wikia.com/wiki/Hefin_cathedral) in Prifddinas. It can be purchased from [Hefin monks](https://runescape.wikia.com/wiki/Hefin_monk) for 110,000 coins each or obtained via pickpocketing the [Hefin workers](https://runescape.wikia.com/wiki/Hefin_worker). The store refill rate for cleansing crystals is approximately 1 every 10 seconds with a max store quantity of 5 cleansing stones.\n\nIf a cleansing crystal is used completely, without interruption, it will provide 9,800 Prayer experience. This is a cost of 11.22 coins per experience. It takes two minutes for a crystal to be fully drained. Up to 29 stones can be used in an hour, providing approximately 284,200 experience an hour, at a cost of -3,300,000 coins.\n\nAlternatively, when the [Voice of Seren](https://runescape.wikia.com/wiki/Voice_of_Seren) is illuminating the [Hefin Clan](https://runescape.wikia.com/wiki/Hefin_Clan) district, a cleansing crystal will give 20% more experience, for a total of 11,760 experience. This is a cost of 9.35 coins per experience, providing 352,800 experience per hour at the same total cost.",
       "fields":[  
          {  
             "name":"​",
@@ -122,17 +89,18 @@ exports.data = {
             "name":"​",
             "value":"If a crystal is fully cleansed while wearing the [Tirannwn quiver 3](https://runescape.wikia.com/wiki/Tirannwn_quiver_3) or [Tirannwn quiver 4](https://runescape.wikia.com/wiki/Tirannwn_quiver_4) and there are more crystals carried in the inventory, the next crystal will automatically be used to continue cleansing. This can lead to training with minimal interaction, if large numbers of crystals are bought in advance.\n\nBe careful when clicking while a cleansing crystal is being used. If a misclick or other action occurs, this will interrupt the process.  The crystal will vanish and the player will not gain the remaining experience. One can chat, rotate the camera, and use most interfaces without interrupting the process."
          }
-      ]
-   },
+    ],
+    "footer": { 
+    "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg", 
+    "text": "Achievement Help | Helping you reach your goals, whatever they may be!" 
+    },
+    "timestamp": "2001-01-04T12:00:00Z"
+  },
   "alternative methods pt1": {  
       "title":"Alternative Methods of Training",
       "description":"Some users may wish to utilize methods outside of the ones displayed in this channel's guide. To aid in this, the following alternative methods are provided.",
       "url":"https://runescape.wikia.com/wiki/Pay-to-play_Prayer_training#Alternative_methods",
       "color":12269891,
-      "footer":{  
-         "icon_url":"https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
-         "text":"Achievement Help | Helping you reach your goals, whatever they may be!"
-      },
       "thumbnail":{  
          "url":"https://vignette.wikia.nocookie.net/runescape2/images/0/0d/Sunspear_%28melee%29_detail.png/revision/latest/scale-to-width-down/206?cb=20160429212547"
       },
@@ -168,21 +136,7 @@ exports.data = {
       ]
    },
   "alternative methods pt2": {  
-      "title":"Alternative Methods of Training",
-      "description":"​",
-      "url":"https://runescape.wikia.com/wiki/Pay-to-play_Prayer_training#Alternative_methods",
-      "color":12269891,
-      "footer":{  
-         "icon_url":"https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
-         "text":"Achievement Help | Helping you reach your goals, whatever they may be!"
-      },
-      "thumbnail":{  
-         "url":"https://vignette.wikia.nocookie.net/runescape2/images/0/0d/Sunspear_%28melee%29_detail.png/revision/latest/scale-to-width-down/206?cb=20160429212547"
-      },
-      "author":{  
-         "name":"Max Cape Info",
-         "icon_url":"https://i.imgur.com/6c6q2iC.png"
-      },
+      
       "fields":[  
          {  
             "name":"▬▬ The Nexus ▬▬",
@@ -212,8 +166,13 @@ exports.data = {
             "name":"​",
             "value":"Note that a player may choose to buy any size XP lamp in a random, Arc related skill for a lower amount of chimes at a 1/11 chance of gaining Prayer experience. Random XP Lamps are generally not worth it if you are trying to gain experience in a specific skill."
          }
-      ]
-   },
+    ],
+    "footer": { 
+    "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg", 
+    "text": "Achievement Help | Helping you reach your goals, whatever they may be!" 
+    },
+    "timestamp": "2001-01-04T12:00:00Z"
+  },
   "pet - ghostly": {  
       "title":"Prayer Pet - Ghostly",
       "description":"[Ghostly pet](https://runescape.wikia.com/wiki/Ghostly_pet) is an item that can be found while training Prayer. It can be used to unlock [Ghostly](https://runescape.wikia.com/wiki/Ghostly).",
@@ -277,10 +236,6 @@ exports.data = {
       "description":"D&Ds are a subclassification of minigames. However, unlike minigames many D&Ds move around the world to various locations, have a limit on how often they can be played, and only occur at particular times of day.\n\nDistractions and Diversions aim to divert the original intentions of the player in order to provide an interesting distraction from their everyday routines. D&Ds come in many different shapes and sizes; covering Combat, Gathering, Artisan, and Support skills. There are a wide variety of different options available to suit the players choice.",
       "url":"https://runescape.wikia.com/wiki/Distractions_and_Diversions",
       "color":12269891,
-      "footer":{  
-         "icon_url":"https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
-         "text":"Achievement Help | Helping you reach your goals, whatever they may be!"
-      },
       "thumbnail":{  
          "url":"https://vignette.wikia.nocookie.net/runescape2/images/6/62/D%26D_icon.png/revision/latest/scale-to-width-down/100?cb=20140914110639"
       },
@@ -308,21 +263,6 @@ exports.data = {
       ]
    },
   "distractions and diversions pt2": {  
-      "title":"Distractions and Diversions",
-      "description":"​",
-      "url":"https://runescape.wikia.com/wiki/Distractions_and_Diversions",
-      "color":12269891,
-      "footer":{  
-         "icon_url":"https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
-         "text":"Achievement Help | Helping you reach your goals, whatever they may be!"
-      },
-      "thumbnail":{  
-         "url":"https://vignette.wikia.nocookie.net/runescape2/images/6/62/D%26D_icon.png/revision/latest/scale-to-width-down/100?cb=20140914110639"
-      },
-      "author":{  
-         "name":"Max Cape Info",
-         "icon_url":"https://i.imgur.com/6c6q2iC.png"
-      },
       "fields":[  
          {  
             "name":"God Statues",
@@ -340,8 +280,13 @@ exports.data = {
             "name":"​",
             "value":"The proper statue to construct depends on the area and its primary religion. If the proper statue is built, the appropriate god is honoured. However, if an improper statue is built, a [fanatic](https://runescape.wikia.com/wiki/Fanatic) will instead attack. Each statue Uploaded will award Construction experience equal to a [large XP lamp](https://runescape.wikia.com/wiki/Large_XP_lamp), while praying to a statue or killing a fanatic will award Prayer or Slayer experience equal to a [medium XP lamp](https://runescape.wikia.com/wiki/Medium_XP_lamp) respectively, capped at level 99."
          }
-      ]
-   },
+    ],
+    "footer": { 
+    "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg", 
+    "text": "Achievement Help | Helping you reach your goals, whatever they may be!" 
+    },
+    "timestamp": "2001-01-04T12:00:00Z"
+  },
   "daily challenge": {  
       "title":"Daily Challenge",
       "description":"Completing a daily challenge in Prayer will give Prayer experience, depending on the player's Prayer level.\n\nAt level 99, the following daily challenges can be given:\n\n• Bury 5 [airut bones](https://runescape.wikia.com/wiki/Airut_bones) (will give 12,672 experience when turned in)\n• Scatter 5 [searing ashes](v) (will give 12,672 experience when turned in)\n\nDaily challenges may be extended for 50 [vis wax](https://runescape.wikia.com/wiki/Vis_wax) for double the reward.\n\nA full chart of the experience per level for the daily challenge may be found [here](https://runescape.wikia.com/wiki/Challenge_System/Prayer).",
