@@ -175,7 +175,7 @@ exports.run = async (client, message, [skill, ...args], level) => { // eslint-di
 	if (args[0].toLowerCase() == "all" && level >=2) {
                 let i = 0, o = 0, x = keyList.length, errMsg = "";
                 //insert skill header switch here
-                function list() {
+                async function list() {
                   const guide = data[keyList[o]];
                   guide.color = color;
 			      if (guide.author) guide.author.name = name;
