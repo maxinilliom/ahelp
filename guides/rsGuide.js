@@ -8550,6 +8550,1299 @@ exports.data = {
     },
 "timestamp": "2001-01-04T12:00:00Z"
   },
+  "skills - farming - animal whisperer": {
+            "title": "Animal Whisperer",
+            "author": {
+                "name": "RuneScore Achievement Info",
+                "icon_url": "https://i.imgur.com/6c6q2iC.png"
+            },
+            "description": "[Animal Whisperer](https://runescape.wikia.com/wiki/Animal_Whisperer) is an achievement that requires the player to cure 100 animals of their [ailments](https://runescape.wikia.com/wiki/Player-owned_farm#Disease) at their [Player-owned farm](https://runescape.wikia.com/wiki/Player-owned_farm).\n\nThe player-owned farm allows players to manage their own [livestock](https://runescape.wikia.com/wiki/Player-owned_farm#Animals) at [Manor Farm](https://runescape.wikia.com/wiki/Manor_Farm), north of [East Ardougne](https://runescape.wikia.com/wiki/East_Ardougne).\n\nWhile interacting with the farm, there is a chance of animals becoming diseased. There are 6 different diseases with different symptoms. Players will have to correctly identify the animal's disease and cure it to gain Farming experience. To do this players must examine different parts of the animal, such as the mouth, eyes, legs, and stomach, to gain information about symptoms. From this, the player can identify the correct disease and create a potion cure. Animals cannot die from a disease, their stats are lowered instead. Using the incorrect treatment would result in lowering the animals' stats further.\n\nDifferent livestock can be obtained via hunter, combat, or summoning, [Granny Potterington](https://runescape.wikia.com/wiki/Granny_Potterington)'s [Farmers' Market](https://runescape.wikia.com/wiki/Farmers%27_Market), and from the [Grand Exchange](https://runescape.wikia.com/wiki/Grand_Exchange).\n\nPlayers will require at least a small [pen](https://runescape.wikia.com/wiki/Player-owned_farm#Pens) in order to store animals in for them to become diseased.",
+            "thumbnail": {
+                "url": "https://i.imgur.com/Shmagnp.png"
+            },
+            "fields": [
+                {
+                    "name": "​",
+                     "value": "A small pen is obtained during the Player-owned farm [tutorial](https://runescape.wikia.com/wiki/Player-owned_farm#Tutorial), which is required to access the farm's features. Player's may buy additional pens from Granny Potterington's Farmers' Market for various amounts of [beans](https://runescape.wikia.com/wiki/Beans).\n\nBeans are currency used in the player-owned farm. 500 are initially obtained during the tutorial at Manor Farm. They can be stored in the currency pouch, however they can not be withdrawn once added."
+                },
+                {
+                    "name": "​",
+                    "value": "The best way to complete the achievement is by storing 6 rabbits of any breed that have the sickly [trait](https://runescape.wikia.com/wiki/Player-owned_farm#Traits) in both small pens. After adding the rabbits, the player should simply not feed them and wait until their happiness and health goes down. This greatly increases the rate of becoming diseased."
+                },
+                {
+                    "name": "Requirements:",
+                     "value": "• 17 Farming\n• 20 Construction\n\n• Completion of the [Player-Owned Farm Tutorial](https://runescape.wikia.com/wiki/Player-owned_farm#Tutorial)"
+                }, 
+                {
+                    "name": "Guide:",
+                    "value": "• [Disease Cure Solutions | Runescape Wiki](https://runescape.wikia.com/wiki/Player-owned_farm#Disease)"
+                }               
+            ],
+            "footer": {
+                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+                "text": "Runescore awarded: 10"
+            }
+        },
+  "skills - farming - barooooo!": {
+    "title": "Barooooo!",
+    "author": {
+      "name": "RuneScore Achievement Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[Barooooo!](https://runescape.wikia.com/wiki/Barooooo!) is an achievement that requires the player to adopt a baby [Fremennik yak](https://runescape.wikia.com/wiki/Fremennik_yak). Adopting a baby yak can be done by killing [Yaks](https://runescape.wikia.com/wiki/Yak) on [Neitiznot](https://runescape.wikia.com/wiki/Neitiznot).\n\nThe drop shows as a baby yak, not as a drop, and has a drop rate of 1/3,000.\n\nUpon obtaining a Fremennik yak, the player receives the following message: \"A baby yak starts baroo-ing.\" After clicking on the baby yak, it goes to the inventory and the player gets the following message: \"You pick up the recently orphaned baby yak.\"",
+    "thumbnail": {
+      "url": "https://i.imgur.com/Shmagnp.png"
+    },
+    "fields": [
+      {
+        "name": "Requirements:",
+        "value": "• 17 Farming\n• 20 Construction\n\n• Completion of the [Player-Owned Farm Tutorial](https://runescape.wikia.com/wiki/Player-owned_farm#Tutorial)"
+      }
+    ],
+    "footer": {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+      "text": "Runescore awarded: 10"
+    }
+  },
+  "skills - farming - bean counter": {
+      "title": "Bean Counter I-IV",
+      "author": {
+        "name": "RuneScore Achievement Info",
+        "icon_url": "https://i.imgur.com/6c6q2iC.png"
+      },
+      "description": "[Bean Counter](https://runescape.wikia.com/wiki/Bean_Counter_IV) is an achievement that requires the player to earn 1,000-1,000,000 [beans](https://runescape.wikia.com/wiki/Beans) from trading animals to certain animal traders on the [Player-owned farm](https://runescape.wikia.com/wiki/Player-owned_farm).\n\nFor bean farming, it is recommended to make sure only the highest tier animal is in the small, medium, and large [pens](https://runescape.wikia.com/wiki/Player-owned_farm#Pens) the day before the corresponding [animal traders](https://runescape.wikia.com/wiki/Player-owned_farm#Buyers) should arive. This will prevent the player from getting a lower trader, which would result in less beans. The players should keep in mind that animals in the breeding paddock will not count towards spawning the animal trader for that type of animal.\n\nSelling animals while they are [adolescent](https://runescape.wikia.com/wiki/Player-owned_farm#Growth_stages) will result in the most beans.",
+      "thumbnail": {
+        "url": "https://i.imgur.com/Shmagnp.png"
+      },
+      "fields": [
+        {            
+          "name": "Myfi (rabbit buyer)",
+          "value": "[Myfi (rabbit buyer)](https://runescape.wikia.com/wiki/Myfi_(rabbit_buyer%29) is a [Hefin Clan](https://runescape.wikia.com/wiki/Hefin_Clan) elf who occasionally appears at the [Manor Farm](https://runescape.wikia.com/wiki/Manor_Farm). A limited number of [rabbits](https://runescape.wikia.com/wiki/Rabbit_(Player-owned_farm%29) may be sold to her each day in exchange for beans. She will pay the following number of beans per growth stage:"
+        },
+        {
+          "inline": true,                
+          "name": "Growth Stages:",
+          "value": "• Baby\n• Adolescent\n• Adult\n• Elder"
+        },
+        {
+          "inline": true,                
+          "name": "Beans Awarded:",
+          "value": "• 5 beans (20%)\n• 25 beans (100%)\n• 21 beans (85%)\n• 18 beans (70%)"
+        },
+        {            
+          "name": "Henrietta (chicken chaser)",
+          "value": "[Henrietta (chicken chaser)](https://runescape.wikia.com/wiki/Henrietta_(chicken_chaser%29) is a [Human](https://runescape.wikia.com/wiki/Human) who occasionally appears at the Manor Farm. A limited number of [chickens](https://runescape.wikia.com/wiki/Chicken_egg_(unchecked%29) may be sold to her each day in exchange for beans. She will pay the following number of beans per growth stage:"
+        },
+        {
+          "inline": true,                
+          "name": "Growth Stages:",
+          "value": "• Egg\n• Baby\n• Adolescent\n• Adult\n• Elder"
+        },
+        {
+          "inline": true,                
+          "name": "Beans Awarded:",
+          "value": "• 4 beans (10%)\n• 8 beans (20%)\n• 40 beans (100%)\n• 34 beans (85%)\n• 28 beans (70%)"
+        },
+        {            
+          "name": "Mieliki Tapio (chinchompa collector)",
+          "value": "[Mieliki Tapio (chinchompa collector)](https://runescape.wikia.com/wiki/Mieliki_Tapio) is a [Gnome](https://runescape.wikia.com/wiki/Gnome) who occasionally appears at the Manor Farm. A limited number of [chinchompas](https://runescape.wikia.com/wiki/Golden_chinchompa_(Player-owned_farm%29) may be sold to her each day in exchange for beans. She will pay the following number of beans per growth stage:"
+        },
+        {
+          "inline": true,                
+          "name": "Growth Stages:",
+          "value": "• Baby\n• Adolescent\n• Adult\n• Elder"
+        },
+        {
+          "inline": true,                
+          "name": "Beans Awarded:",
+          "value": "• 50 beans (20%)\n• 250 beans (100%)\n• 213 beans (85%)\n• 175 beans (70%)"
+        },
+        {            
+          "name": "Ralph (sheep hugger)",
+          "value": "[Ralph (sheep hugger)](https://runescape.wikia.com/wiki/Ralph_(sheep_hugger%29) is a [Werewolf](https://runescape.wikia.com/wiki/Werewolf_(race%29) who occasionally appears at the Manor Farm. A limited number of [chickens](https://runescape.wikia.com/wiki/Rooster_(Player-owned_farm%29) may be sold to him each day in exchange for beans. He will pay the following number of beans per growth stage:"
+        },
+        {
+          "inline": true,                
+          "name": "Growth Stages:",
+          "value": "• Baby\n• Adolescent\n• Adult\n• Elder"
+        },
+        {
+          "inline": true,                
+          "name": "Beans Awarded:",
+          "value": "• 16 beans (20%)\n• 80 beans (100%)\n• 68 beans (85%)\n• 56 beans (70%)"
+        },
+        {            
+          "name": "Rumbleguts (spider shopper)",
+          "value": "[Rumbleguts (spider shopper)](https://runescape.wikia.com/wiki/Rumbleguts_(spider_shopper%29) is a [Goblin](https://runescape.wikia.com/wiki/Goblin_(race%29) who occasionally appears at the Manor Farm. A limited number of [spiders](https://runescape.wikia.com/wiki/Giant_spider_(Player-owned_farm%29) may be sold to him each day in exchange for beans. He will pay the following number of beans per growth stage:"
+        },
+        {
+          "inline": true,                
+          "name": "Growth Stages:",
+          "value": "• Egg\n• Baby\n• Adolescent\n• Adult\n• Elder"
+        },
+        {
+          "inline": true,                
+          "name": "Beans Awarded:",
+          "value": "• 25 beans (10%)• 50 beans (20%)\n• 250 beans (100%)\n• 213 beans (85%)\n• 175 beans (70%)"
+        }
+      ]
+    },
+    {
+      "fields": [
+        {            
+          "name": "Zoe (zygomite trader)",
+          "value": "[Zoe (zygomite trader)](https://runescape.wikia.com/wiki/Zoe_(zygomite_trader%29) is a [Fairy](https://runescape.wikia.com/wiki/Fairy) who occasionally appears at the Manor Farm. A limited number of [zygomite](https://runescape.wikia.com/wiki/Gloomshroom_zygomite) may be sold to her each day in exchange for beans. She will pay the following number of beans per growth stage:"
+        },
+        {
+          "inline": true,                
+          "name": "Growth Stages:",
+          "value": "• Baby\n• Adolescent\n• Adult\n• Elder"
+        },
+        {
+          "inline": true,                
+          "name": "Beans Awarded:",
+          "value": "• 170 beans (20%)\n• 850 beans (100%)\n• 722 beans (85%)\n• 595 beans (70%)"
+        },
+        {            
+          "name": "Milkshake (cow fancier)",
+          "value": "[Milkshake (cow fancier)](https://runescape.wikia.com/wiki/Milkshake_(cow_fancier%29) is a [Troll](https://runescape.wikia.com/wiki/Troll) who occasionally appears at the Manor Farm. A limited number of [cows](https://runescape.wikia.com/wiki/Kandarin_cow) may be sold to him each day in exchange for beans. He will pay the following number of beans per growth stage:"
+        },
+        {
+          "inline": true,                
+          "name": "Growth Stages:",
+          "value": "• Baby\n• Adolescent\n• Adult\n• Elder"
+        },
+        {
+          "inline": true,                
+          "name": "Beans Awarded:",
+          "value": "• 34 beans (20%)\n• 170 beans (100%)\n• 145 beans (85%)\n• 119 beans (70%)"
+        },
+        {            
+          "name": "Prezleek (the yak trader)",
+          "value": "[Prezleek (the yak trader)](https://runescape.wikia.com/wiki/Prezleek) is a Human who occasionally appears at the Manor Farm. A limited number of [yaks](https://runescape.wikia.com/wiki/Fremennik_yak) may be sold to him each day in exchange for beans. He will pay the following number of beans per growth stage:"
+        },
+        {
+          "inline": true,                
+          "name": "Growth Stages:",
+          "value": "• Baby\n• Adolescent\n• Adult\n• Elder"
+        },
+        {
+          "inline": true,                
+          "name": "Beans Awarded:",
+          "value": "• 165 beans (20%)\n• 825 beans (100%)\n• 701 beans (85%)\n• 578 beans (70%)"
+        },
+        {            
+          "name": "The Raptor (the dragon expert)",
+          "value": "[The Raptor (the dragon expert)](https://runescape.wikia.com/wiki/The_Raptor) is a mysterious warrior who occasionally appears at the Manor Farm. A limited number of [dragons](https://runescape.wikia.com/wiki/Black_dragon_egg_(Player-owned_farm%29) may be sold to him each day in exchange for beans. He will pay the following number of beans per growth stage:"
+        },
+        {
+          "inline": true,                
+          "name": "Growth Stages:",
+          "value": "• Egg\n• Baby\n• Adolescent\n• Adult\n• Elder"
+        },
+        {
+          "inline": true,                
+          "name": "Beans Awarded:",
+          "value": "• 200 beans (10%)\n• 400 beans (20%)\n• 2,000 beans (100%)\n• 1,700 beans (85%)\n• 1,400 beans (70%)"
+        },
+        {
+          "name": "Requirements:",
+          "value": "• 17 Farming\n• 20 Construction\n\n• Completion of the [Player-Owned Farm Tutorial](https://runescape.wikia.com/wiki/Player-owned_farm#Tutorial)"
+        }
+      ],
+      "footer": {
+        "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+        "text": "Runescore awarded: 5-50"
+      }
+    },
+  "skills - farming - bean there, done that": {
+    "title": "Bean There, Done That",
+    "author": {
+      "name": "RuneScore Achievement Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[Bean There, Done That](https://runescape.wikia.com/wiki/Bean_There,_Done_That) is an achievement that requires the player to purchase the following [farm upgrades](https://runescape.wikia.com/wiki/Farmers%27_Market#Farm_upgrades) from [Granny Potterington](https://runescape.wikia.com/wiki/Granny_Potterington)'s [Farmer's Market reward shop](https://runescape.wikia.com/wiki/Farmers%27_Market) for a total of 38,500 [beans](https://runescape.wikia.com/wiki/Beans).\n\nFor bean farming, it is recommended to make sure only the highest tier animal is in the small, medium, and large [pens](https://runescape.wikia.com/wiki/Player-owned_farm#Pens) the day before the corresponding [animal traders](https://runescape.wikia.com/wiki/Player-owned_farm#Buyers) should arive. This will prevent the player from getting a lower trader, which would result in less beans. The players should keep in mind that animals in the breeding paddock will not count towards spawning the animal trader for that type of animal.\n\nSelling animals while they are [adolescent](https://runescape.wikia.com/wiki/Player-owned_farm#Growth_stages) will result in the most beans.",
+    "color": 10257648,
+    "thumbnail": {
+      "url": "https://i.imgur.com/Shmagnp.png"
+    },
+    "fields": [
+      {
+        "inline": true,
+        "name": "Upgrades:",
+        "value": "• Small pen deed II\n• Medium pen deed I\n• Medium pen deed II\n• Large pen deed I\n• Large pen deed II\n• The Bank Chest\n• All 6 [Farm totems](https://runescape.wikia.com/wiki/Farm_totem)\n• Noted produce\n• [Sesonaliser wheel](https://runescape.wikia.com/wiki/Seasonaliser)\n• Multiple trait boost (small)\n• Multiple trait boost (medium)\n• Multiple trait boost (large)"
+      },
+      {
+        "inline": true,
+        "name": "Bean Price:",
+        "value": "• 100 Beans\n• 150 Beans\n• 500 Beans\n• 250 Beans\n• 1,000 Beans\n• 300 Beans\n• 1,200 Beans\n• 3,000 Beans\n• 5,000 Beans\n• 6,000 Beans\n• 9,000 Beans\n• 12,000 Beans\n"
+      },
+      {
+        "name": "Requirements:",
+        "value": "• 71 Farming\n• 20 Construction\n\n• Completion of the [Player-Owned Farm Tutorial](https://runescape.wikia.com/wiki/Player-owned_farm#Tutorial)"
+      }
+    ],
+    "footer": {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+      "text": "Runescore awarded: 20"
+    }
+  },
+  "skills - farming - blow out the cobwebs": {
+    "title": "Blow Out the Cobwebs",
+    "author": {
+      "name": "RuneScore Achievement Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[Blow Out the Cobwebs](https://runescape.wikia.com/wiki/Blow_Out_the_Cobwebs) is an achievement that requires the player to drink 1 dose of a [Super invention](https://runescape.wikia.com/wiki/Super_invention) potion.\n\nTo make the super invention potion, the player will need to add [Chinchompa residue](https://runescape.wikia.com/wiki/Chinchompa_residue) to a [Snapdragon potion (unf)](https://runescape.wikia.com/wiki/Snapdragon_potion_(unf%29), which will combine into a [Invention potion](https://runescape.wikia.com/wiki/Invention_potion). The player must then add [Spider fangs](https://runescape.wikia.com/wiki/Spider_fangs) to the potion mixture.\n\nAll the ingredients or the potion itself can be bought from the [Grand Exchange](https://runescape.wikia.com/wiki/Grand_Exchange).",
+    "thumbnail": {
+      "url": "https://i.imgur.com/Shmagnp.png"
+    },
+    "fields": [
+      {            
+        "name": "Requirements:",
+        "value": "• None"
+      }
+    ],
+    "footer": {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+      "text": "Runescore awarded: 5"
+    }
+  },
+  "skills - farming - e-i-e-i-o": {
+    "title": "E-I-E-I-O",
+    "author": {
+      "name": "RuneScore Achievement Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[E-I-E-I-O](https://runescape.wikia.com/wiki/E-I-E-I-O) is an achievement that requires the player to complete the [breeding log](https://runescape.wikia.com/wiki/Manor_Farm_breeding_log).\n\nIt is not required to build the medium and large [pens](https://runescape.wikia.com/wiki/Player-owned_farm#Pens) to breed the animals for those respective pen sizes, as the player can use the breeding pen instead.",
+    "thumbnail": {
+      "url": "https://i.imgur.com/Shmagnp.png"
+    },
+    "fields": [
+      {
+        "name": "Requirements:",
+        "value": "• 92 Farming\n• 20 Construction\n\n• [You Had a Chicken](https://runescape.wikia.com/wiki/You_Had_a_Chicken)\n• [You Had a Rabbit](https://runescape.wikia.com/wiki/You_Had_a_Rabbit)\n• [You Had a Sheep](https://runescape.wikia.com/wiki/You_Had_a_Sheep)\n• [You Had a Chinchompa](https://runescape.wikia.com/wiki/You_Had_a_Chinchompa)\n• [You Had a Spider](https://runescape.wikia.com/wiki/You_Had_a_Spider)\n• [You Had a Zygomite](https://runescape.wikia.com/wiki/You_Had_a_Zygomite)\n• [You Had a Cow](https://runescape.wikia.com/wiki/You_Had_a_Cow)\n• [You Had a Yak](https://runescape.wikia.com/wiki/You_Had_a_Yak)\n• [You Had a Dragon](https://runescape.wikia.com/wiki/You_Had_a_Dragon)\n\n• Completion of the [Player-Owned Farm Tutorial](https://runescape.wikia.com/wiki/Player-owned_farm#Tutorial)"
+      },
+      {
+        "name": "Guide:",
+        "value": "• Guides for each animal type can be found in the corresponding breeding log achievement guides, which can be seen by using the **.rs [achievement name]** command."
+      }
+    ],
+    "footer": {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+      "text": "Runescore awarded: 0"
+    }
+  },
+  "skills - farming - ever so clever": {
+    "title": "Ever So Clever",
+    "author": {
+      "name": "RuneScore Achievement Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[Ever So Clever](https://runescape.wikia.com/wiki/Ever_So_Clever) is an achievement that requires the player to hand in a [magical zygomite](https://runescape.wikia.com/wiki/Magical_zygomite) called [Trevor](https://runescape.wikia.com/wiki/Trevor) with the Loyal [trait](https://runescape.wikia.com/wiki/Player-owned_farm#Traits) to [Granny Potterington](https://runescape.wikia.com/wiki/Granny_Potterington) at the [Player-owned farm](https://runescape.wikia.com/wiki/Player-owned_farm).\n\nThe player is not required to breed the magical zygomite themselves and could decide to try and trade it with another player. If players wish to take this route, **PoF Trade FC** is an established friend chat for animal trading.\n\nIf the player trades it with an other player, it is recommended to trade the magical zygomite while it has the loyal trait, as [re-rolling names](https://runescape.wikia.com/wiki/Animal_name_re-roller) costs much less [beans](https://runescape.wikia.com/wiki/Beans) than [re-rolling traits](https://runescape.wikia.com/wiki/Animal_trait_re-roller).\n\nCompleting this acheivement unlocks the ability to buy the magical zygomite pet, Trevor, from the [Farmers' Market](https://runescape.wikia.com/wiki/Farmers%27_Market) for 10,000 beans.",
+    "thumbnail": {
+      "url": "https://i.imgur.com/Shmagnp.png"
+    },
+    "fields": [
+      {
+        "name": "Requirements:",
+        "value": "• 17 Farming\n• 20 Construction\n\n• Completion of the [Player-Owned Farm Tutorial](https://runescape.wikia.com/wiki/Player-owned_farm#Tutorial)"
+      }
+    ],
+    "footer": {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+      "text": "Runescore awarded: 20"
+    }
+  },
+  "skills - farming - four seasons": {
+    "title": "Four Seasons",
+    "author": {
+      "name": "RuneScore Achievement Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[Four Seasons](https://runescape.wikia.com/wiki/Four_Seasons) is an achievement that requires the player to unlock all four seasonal variants musical tracks on the [Player-Owned Farm](https://runescape.wikia.com/wiki/Player-owned_farm). Each track is unlocked during its respective season. Players can change the season by using the seasonaliser, which requires them to buy the [seasonaliser wheel](https://runescape.wikia.com/wiki/Seasonaliser) from the [Farmers' Market](https://runescape.wikia.com/wiki/Farmers%27_Market) for 5,000 [beans](https://runescape.wikia.com/wiki/Beans).\n\nIt is possible to complete this achievement by simply visiting the farm every time the season changes, however, this would roughly take the player around 7 months to complete the achievement. Therefore, it is recommended to buy the seasonaliser and change the seasons by interacting with the machine.",
+    "thumbnail": {
+      "url": "https://i.imgur.com/Shmagnp.png"
+    },
+    "fields": [
+      {
+        "name": "Requirements:",
+        "value": "• 17 Farming\n• 20 Construction\n\n• Completion of the [Player-Owned Farm Tutorial](https://runescape.wikia.com/wiki/Player-owned_farm#Tutorial)"
+      },
+      {
+        "name": "Guide:",
+        "value": "• Players may utilize the **.rs bean counter** command for the most efficient bean making methods."
+      }
+    ],
+    "footer": {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+      "text": "Runescore awarded: 10"
+    }
+  },
+  "skills - farming - granny knows best": {
+    "title": "Granny Knows Best",
+    "author": {
+      "name": "RuneScore Achievement Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[Granny Knows Best](https://runescape.wikia.com/wiki/Granny_Knows_Best) is an achievement that requires the player to complete the [player-owned farm](https://runescape.wikia.com/wiki/Player-owned_farm) [tutorial](https://runescape.wikia.com/wiki/Player-owned_farm#Tutorial). The tutorial can be start by talking to [Granny Potterington](https://runescape.wikia.com/wiki/Granny_Potterington) at the farm located north of [East Ardougne](https://runescape.wikia.com/wiki/East_Ardougne).\n\nAfter completing the tutorial, the player is rewarded an additional 100 - 1,600 [beans](https://runescape.wikia.com/wiki/Beans), depending on their current farming experience.",
+    "thumbnail": {
+      "url": "https://i.imgur.com/Shmagnp.png"
+    },
+    "fields": [
+      {
+        "name": "Requirements:",
+        "value": "• 17 Farming\n• 20 Construction"
+      },
+      {
+        "name": "Guide:",
+        "value": "• [Player-Owned Farm Tutorial Guide | Runescape Wiki](https://runescape.wikia.com/wiki/Player-owned_farm#Tutorial)"
+      }
+    ],
+    "footer": {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+      "text": "Runescore awarded: 5"
+    }
+  },
+  "skills - farming - honorary dragonkin": {
+    "title": "Honorary Dragonkin",
+    "author": {
+      "name": "RuneScore Achievement Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[Honorary Dragonkin](https://runescape.wikia.com/wiki/Honourary_Dragonkin) is an achievement that requires the player to successfully breed a [royal dragon](https://runescape.wikia.com/wiki/Royal_dragon), which is the shiny breed from dragons at the [Player-owned farm](https://runescape.wikia.com/wiki/Player-owned_farm).\n\nIt is recommended to place a breeding pair with one of the following [traits](https://runescape.wikia.com/wiki/Player-owned_farm#Traits) for more chance on a shiny offspring: **Radiant**, **Glinstening**, or **sparkling** in combination with traits as **Good Breeding**, **Studly**, or **Virile** for better breeding chance.\n\nHaving an elder rabbit in both small [pens](https://runescape.wikia.com/wiki/Player-owned_farm#Pens) on the [Manor Farm](https://runescape.wikia.com/wiki/Manor_Farm) also gives a 10% extra breeding chance for all animals.\n\nThere are specific requirements which must be met to complete this breed, however, they are currently unknown. It is very possible that the Shock, Poisonous, and Frost Breath traits have something to do with it.",
+    "color": 10257648,
+    "thumbnail": {
+      "url": "https://i.imgur.com/Shmagnp.png"
+    },
+    "fields": [
+      {
+        "name": "Requirements:",
+        "value": "• 92 Farming\n• 20 Construction\n\n• Completion of the [Player-Owned Farm Tutorial](https://runescape.wikia.com/wiki/Player-owned_farm#Tutorial)"
+      }
+    ],
+    "footer": {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+      "text": "Runescore awarded: 20"
+    }
+  },
+  "skills - farming - i hardly manure": {
+    "title": "I Hardly Manure",
+    "author": {
+      "name": "RuneScore Achievement Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[I Hardly Manure](https://runescape.wikia.com/wiki/I_Hardly_Manure) is an achievement that requires the player to clean up after cows in the player-owned farm 20 times. This can be done by digging up the [manure](https://runescape.wikia.com/wiki/Manure) or [green manure](https://runescape.wikia.com/wiki/Green_manure) found within the cows large [pen](https://runescape.wikia.com/wiki/Player-owned_farm#Pens).\n\nIt is recommended to  bring [buckets](https://runescape.wikia.com/wiki/Bucket) while digging up the manure, as it's used to make [compost](https://runescape.wikia.com/wiki/Compost) and [supercompost](https://runescape.wikia.com/wiki/Supercompost).\n\nThis achievement can't be completed if all the cows in the pen have the **Constipated** [trait](https://runescape.wikia.com/wiki/Player-owned_farm#Traits), as this will prevent them from leaving manure behind.\n\nCows and bulls can initially be obtained by purchasing a cow or bull from [Granny Potterington](https://runescape.wikia.com/wiki/Granny_Potterington)'s [Farmer's Market](https://runescape.wikia.com/wiki/Farmers%27_Market) or bought from other players.",
+    "color": 10257648,
+    "thumbnail": {
+      "url": "https://i.imgur.com/Shmagnp.png"
+    },
+    "fields": [
+      {
+        "name": "Requirements:",
+        "value": "• 49 Farming\n• 20 Construction\n\n• Completion of the [Player-Owned Farm Tutorial](https://runescape.wikia.com/wiki/Player-owned_farm#Tutorial)"
+      }
+    ],
+    "footer": {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+      "text": "Runescore awarded: 5"
+    }
+  },
+  "skills - farming - in a pickle": {
+    "title": "In a Pickle",
+    "author": {
+      "name": "RuneScore Achievement Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[In a Pickle](https://runescape.wikia.com/wiki/In_a_Pickle) is an achievement that requires the player to talk to [Pickle the cat](https://runescape.wikia.com/wiki/Pickle_the_cat) at the [Manor Farm](https://runescape.wikia.com/wiki/Manor_Farm) once his [mice](https://runescape.wikia.com/wiki/Mouse_(Player-owned_farm%29) kill count has hit double figures.\n\nPlayers must use a [catspeak amulet](https://runescape.wikia.com/wiki/Catspeak_amulet) or [cramulet](https://runescape.wikia.com/wiki/Cramulet) to speak with him.\n\nHis kill count passed the double figures on the day the farm was released, so the player won't have to wait to complete this achievement.",
+    "color": 10257648,
+    "thumbnail": {
+      "url": "https://i.imgur.com/Shmagnp.png"
+    },
+    "fields": [
+      {
+        "name": "Requirements:",
+        "value": "• Icthlarin's Little Helper Quest completion | [Runescape Wiki](https://runescape.wikia.com/wiki/Icthlarin%27s_Little_Helper)"
+      }
+    ],
+    "footer": {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+      "text": "Runescore awarded: 5"
+    }
+  },
+  "skills - farming - life, uh, found a way": {
+    "title": "Life, Uh, Found a Way",
+    "author": {
+      "name": "RuneScore Achievement Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[Life, Uh, Found a Way](https://runescape.wikia.com/wiki/Life,_Uh,_Found_a_Way) is an achievement that requires the player to hand in a [lizard chicken](https://runescape.wikia.com/wiki/Lizard_chicken) called Malcolm with the Chaotic [trait](https://runescape.wikia.com/wiki/Player-owned_farm#Traits) to [Granny Potterington](https://runescape.wikia.com/wiki/Granny_Potterington) at the [Player-owned farm](https://runescape.wikia.com/wiki/Player-owned_farm).\n\nThe player is not required to breed the lizard chicken themselves and could decide to try and trade it with another player. If players wish to take this route, **PoF Trade FC** is an established friend chat for animal trading.\n\nIf the player trades it with an other player, it is recommended to trade the lizard chicken while it has the chaotic trait, as re-rolling names costs alot less [beans](https://runescape.wikia.com/wiki/Beans) than re-rolling traits.\n\nDo keep in mind that to complete this achievement, the player will need a **male** lizard chicken, which can't be obtained through breeding. It can only be obtained through trading or using an [animal name re-roller](https://runescape.wikia.com/wiki/Animal_name_re-roller), which will change it's gender when it rolls the malcolm name.\n\nIf the player has a lizard chicken without the chaotic trait, they could use the [animal trait re-roller](https://runescape.wikia.com/wiki/Animal_trait_re-roller) to try and get the trait, although this will cost 300 beans per re-roll.\n\nHanding in the lizard chicken will remove it from the player's inventory. After completing the achievement, [Malcolm](https://runescape.wikia.com/wiki/Malcolm_(Player-owned_farm) will start to wander around [Manor Farm](https://runescape.wikia.com/wiki/Manor_Farm).",
+    "thumbnail": {
+      "url": "https://i.imgur.com/Shmagnp.png"
+    },
+    "fields": [
+      {
+        "name": "Requirements:",
+        "value": "• 17 Farming\n• 20 Construction\n\n• Completion of the [Player-Owned Farm Tutorial](https://runescape.wikia.com/wiki/Player-owned_farm#Tutorial)"
+      }
+    ],
+    "footer": {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+      "text": "Runescore awarded: 20"
+    }
+  },
+  "skills - farming - perk out!": {
+    "title": "Perk Out!",
+    "author": {
+      "name": "RuneScore Achievement Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[Perk Out!](https://runescape.wikia.com/wiki/Perk_Out!) is an achievement that requires the player to have 9 tier I [animal perks](https://runescape.wikia.com/wiki/Player-owned_farm#Perks) active at the same time. In order to achieve this a player needs the following setup:\n\n• All 6 [farm totems](https://runescape.wikia.com/wiki/Farm_totem) installed on all [pens](https://runescape.wikia.com/wiki/Player-owned_farm#Pens)\n• An elder rabbit _or_ chinchompa in a small pen\n• An elder hen **and** rooster in the other small pen\n• An elder spider _or_ zygomite in a medium pen\n• An elder ewe **and** ram in the other medium pen\n• An elder yak _or_ dragon in a large pen\n• An elder cow **and** bull in the other large pen\n\nThe player doesn't have to breed or catch these animals themselves, however. If you choose not to gather the animals yourself, you may tag the <@&488492228512317451> role in this server to ask if someone owns the required animals.",
+    "thumbnail": {
+      "url": "https://i.imgur.com/Shmagnp.png"
+    },
+    "fields": [
+      {
+        "name": "Requirements:",
+        "value": "• 71 Farming\n• 60 Construction\n\n• Small pen deed II upgrade\n• Medium pen deed II upgrade\n• Large pen deed II upgrade\n\n• Completion of the [Player-Owned Farm Tutorial](https://runescape.wikia.com/wiki/Player-owned_farm#Tutorial)"
+      }
+    ],
+    "footer": {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+      "text": "Runescore awarded: 20"
+    }
+  },
+  "skills - farming - perk up!": {
+    "title": "Perk Up!",
+    "author": {
+      "name": "RuneScore Achievement Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[Perk Up!](https://runescape.wikia.com/wiki/Perk_Up!) is an achievement that requires the player to have 6 tier II [animal perks](https://runescape.wikia.com/wiki/Player-owned_farm#Perks) active at the same time at the [Player-Owned Farm](https://runescape.wikia.com/wiki/Player-owned_farm). In order to achieve this a player needs the following setup:\n\n• All 6 [farm totems](https://runescape.wikia.com/wiki/Farm_totem) installed on all [pens](https://runescape.wikia.com/wiki/Player-owned_farm#Pens)\n• Two of either an elder rabbit, hen, rooster, or chinchompa in both small pens\n• Two of either an elder ewe, ram, spider, or zygomite in both medium pens.\n• Two of either an elder cow, bull, yak, or dragon in both large pens.\n\nNote that you must have the same breeds of animals across the pens for each corresponding size, so the easiest way to complete this achievement is with chickens, sheep, and cows.\n\nThe player doesn't have to breed or catch these animals themselves, however. If you choose not to gather the animals yourself, you may tag the <@&488492228512317451> role in this server to ask if someone owns the required animals.",
+    "thumbnail": {
+      "url": "https://i.imgur.com/Shmagnp.png"
+    },
+    "fields": [
+      {
+        "name": "Requirements:",
+        "value": "• 71 Farming\n• 60 Construction\n\n• Small pen deed II upgrade\n• Medium pen deed II upgrade\n• Large pen deed II upgrade\n\n• Completion of the [Player-Owned Farm Tutorial](https://runescape.wikia.com/wiki/Player-owned_farm#Tutorial)"
+      }
+    ],
+    "footer": {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+      "text": "Runescore awarded: 20"
+    }
+  },
+  "skills - farming - rabbit, rabbit, rabbit": {
+    "title": "Rabbit, Rabbit, Rabbit",
+    "author": {
+      "name": "RuneScore Achievement Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[Rabbit, Rabbit, Rabbit](https://runescape.wikia.com/wiki/Rabbit,_Rabbit,_Rabbit) is an achievement that requires the player to fill both small [pens](https://runescape.wikia.com/wiki/Player-owned_farm#Pens) at the [Player-Owned Farm](https://runescape.wikia.com/wiki/Player-owned_farm) with 6 rabbits each for a combined total of 12 rabbits required.\n\nRabbits can initially be obtained by killing [Rabbits](https://runescape.wikia.com/wiki/Rabbit) across [Gielinor](https://runescape.wikia.com/wiki/Gielinor) or purchased from another player.\n\nThe player doesn't have to breed or catch these animals themselves, however. If you choose not to gather the animals yourself, you may tag the <@&488492228512317451> role in this server to ask if someone owns the required animals.",
+    "thumbnail": {
+      "url": "https://i.imgur.com/Shmagnp.png"
+    },
+    "fields": [
+      {
+        "name": "Requirements:",
+        "value": "• 17 Farming\n• 20 Construction\n\n• Small pen deed II upgrade\n\n• Completion of the [Player-Owned Farm Tutorial](https://runescape.wikia.com/wiki/Player-owned_farm#Tutorial)"
+      }
+    ],
+    "footer": {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+      "text": "Runescore awarded: 10"
+    }
+  },
+  "skills - farming - ram-bow": {
+    "title": "Ram-bow",
+    "author": {
+      "name": "RuneScore Achievement Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[Ram-bow](https://runescape.wikia.com/wiki/Ram-bow) is an achievement that requires the player to have the [Fallfaced ram](https://runescape.wikia.com/wiki/Fallfaced_ram), [Winterwold ram](https://runescape.wikia.com/wiki/Winterwold_ram), [Summerdown ram](https://runescape.wikia.com/wiki/Summerdown_ram), and the [Springsheared ram](https://runescape.wikia.com/wiki/Springsheared_ram) in a [pen](https://runescape.wikia.com/wiki/Player-owned_farm#Pens) at the [Player-Owned Farm](https://runescape.wikia.com/wiki/Player-owned_farm) at the same time.\n\nSummerdown sheep, springsheared sheep, winterwold sheep, and fallfaced sheep can only be bred during their respective seasons. Players can force the seasons to change by using the [seasonaliser](https://runescape.wikia.com/wiki/Seasonaliser), which can be purchased from [Granny Potterington](https://runescape.wikia.com/wiki/Granny_Potterington)'s [Farmers Market](https://runescape.wikia.com/wiki/Farmers%27_Market).\n\nSheep can initially be obtained by purchasing an ewe or ram from Granny Potterington's Farmer's Market.\n\nThe player doesn't have to breed these animals themselves, however. If you choose not to gather the animals yourself, you may tag the <@&488492228512317451> role in this server to ask if someone owns the required animals.",
+    "thumbnail": {
+      "url": "https://i.imgur.com/Shmagnp.png"
+    },
+    "fields": [
+      {
+        "name": "Requirements:",
+        "value": "• 17 Farming\n• 20 Construction\n\n• Completion of the [Player-Owned Farm Tutorial](https://runescape.wikia.com/wiki/Player-owned_farm#Tutorial)"
+      },
+      {
+        "name": "Guide:",
+        "value": "• Players may utilize the **.rs you had a sheep** command in this server to read on how to more successfully breed sheep."
+      }
+    ],
+    "footer": {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+      "text": "Runescore awarded: 20"
+    }
+  },
+  "skills - farming - tickety boom!": {
+    "title": "Tickety Boom!",
+    "author": {
+      "name": "RuneScore Achievement Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[Tickety Boom!](https://runescape.wikia.com/wiki/Tickety_Boom!) is an achievement that requires the player to make a chinchompa explode on the [Player-owned farm](https://runescape.wikia.com/wiki/Player-owned_farm).\n\nTo be able to have a chinchompa explode, it needs to have either the **Unstable** or **Nuclear** [trait](https://runescape.wikia.com/wiki/Player-owned_farm#Traits). It is recommended to [gather produce](https://runescape.wikia.com/wiki/Player-owned_farm#Gathered_produce) each time the chinchompa grows another stage, which gives the player a higher chance on having the chinchompa explode.\n\nIf the player chooses to buy their chinchompa from another player, it is advised to try and get a baby chinchompa as this gives more chances on making it explode.\n\nThis achievement can be done with any chinchompa, however, it is recomended to use the most common breeds, as you will lose your chinchompa upon it exploding. The breeds of chinchompas are:\n• [Grey chinchompa](https://runescape.wikia.com/wiki/Grey_chinchompa)\n• [Carnivorous chinchompa](https://runescape.wikia.com/wiki/Carnivorous_chinchompa_(Player-owned_farm)\n• [Cobalt chinchompa](https://runescape.wikia.com/wiki/Cobalt_chinchompa)\n• [Viridian chinchompa](https://runescape.wikia.com/wiki/Viridian_chinchompa)\n• [Azure chinchompa](https://runescape.wikia.com/wiki/Azure_chinchompa)\n• [Crimson chinchompa](https://runescape.wikia.com/wiki/Crimson_chinchompa)\n• [Crystal chinchompa](https://runescape.wikia.com/wiki/Crystal_chinchompa)\n• [Golden chinchompa](https://runescape.wikia.com/wiki/Golden_chinchompa_(Player-owned_farm)\n\nChinchompas can initially be obtained by hunting [Chinchompas](https://runescape.wikia.com/wiki/Chinchompa), [Red chinchompas](https://runescape.wikia.com/wiki/Red_chinchompa), or [Skillchompas](https://runescape.wikia.com/wiki/Skillchompa), or bought from other players. The **PoF Trade FC** friend's chat can be used to trade for specific trait animals.",
+    "thumbnail": {
+      "url": "https://i.imgur.com/Shmagnp.png"
+    },
+    "fields": [
+      {
+        "name": "Requirements:",
+        "value": "• 17 Farming\n• 20 Construction\n\n• Completion of the [Player-Owned Farm Tutorial](https://runescape.wikia.com/wiki/Player-owned_farm#Tutorial)"
+      }
+    ],
+    "footer": {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+      "text": "Runescore awarded: 10"
+    }
+  },
+  "skills - farming - you had a chicken": {
+    "title": "You Had a Chicken",
+    "author": {
+      "name": "RuneScore Achievement Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[You Had a Chicken](https://runescape.wikia.com/wiki/You_Had_a_Chicken) is an achievement that is unlocked by completing all chicken breeds at the [Player-owned farm](https://runescape.wikia.com/wiki/Player-owned_farm).\n\nThe breeds of chickens are:\n• [Common white chicken](https://runescape.wikia.com/wiki/Common_white_hen)\n• [Bandosian bantam chicken](https://runescape.wikia.com/wiki/Bandosian_bantam_hen)\n• [Varrockian red chicken](https://runescape.wikia.com/wiki/Varrockian_red_hen)\n• [Oomlie bird](https://runescape.wikia.com/wiki/Oomlie_hen)\n• [Lizard chicken](https://runescape.wikia.com/wiki/Lizard_chicken)\n\nAnimals can only breed in the adult and elder stages, and the breeding paddock has four slots, so only one male and one female should be placed in the paddock to leave room for two babies. Additionally, players can buy the small, medium, and large pen upgrades from [Granny Potterington](https://runescape.wikia.com/wiki/Granny_Potterington)'s [Farmers Market](https://runescape.wikia.com/wiki/Farmers%27_Market) to allow animal breeding inside them, however, with a lower chance and without failure mitigation. When breeding happens in one of the pens, the player will receive a message based on which directional pen it occurred in.",
+    "thumbnail": {
+      "url": "https://i.imgur.com/Shmagnp.png"
+    },
+    "fields": [
+      {
+        "name": "​",
+        "value": "The breeding chance of a pair of animals will be affected by their stats. If their health and happiness are low, their breeding chance is reduced. Make sure they have food and wait. There are treat items, such as [special honeycombs](https://runescape.wikia.com/wiki/Special_honeycomb) and some kinds of milk ([strawberry](https://runescape.wikia.com/wiki/Strawberry_milk) and [vanilla milk](https://runescape.wikia.com/wiki/Vanilla_milk)), that speed up the process a bit. Diseased animals will not breed. If an animal has the **infertile** [trait](https://runescape.wikia.com/wiki/Player-owned_farm#Traits), it will never breed. Players are able to use the breeding process to create specific baby animals with particular traits."
+      },
+      {
+        "name": "​",
+        "value": "Animals of the same species and same gender may result in offspring as if bred, with the text \"Your animals have decided to raise a child together and have adopted a baby\". This has a much lower overall chance of offspring than a male and female. The bad luck mitigation does not apply to same gender animals.\n\nAnimals can have up to three traits. There is a chance for players to receive rare shiny animals from breeding. Sparkling gives a +1 chance and can exist in any [perk](https://runescape.wikia.com/wiki/Player-owned_farm#Perks) slot, Glistening gives a +2 chance and can exist only in perk slots 2 and 3, and Radiant gives a +3 chance and only exists in slot 3. Shiny animals do not help breed more shiny animals, only if they have the shiny traits that help.\n\nYou can boost the overall breeding chance by using the [farming totems](https://runescape.wikia.com/wiki/Farm_totem) on small [pens](https://runescape.wikia.com/wiki/Player-owned_farm#Pens) with elder rabbits in them. "
+      },
+      {
+        "name": "​",
+        "value": "The [master farmer outfit](https://runescape.wikia.com/wiki/Master_farmer_outfit) gives a better chance of positive traits from breeding. The blueprints for the master farmer outfit must first be purchased from Granny Potterington at the Farmers' Market for 1,000 [beans](https://runescape.wikia.com/wiki/Beans).\n\nPlayers can buy a specific breed from the [Grand Exchange](https://runescape.wikia.com/wiki/Grand_Exchange) in order to breed them for a higher chance of completing that specific breed in the for your log. To keep track of all the breeds you have already collected, you can go to Granny's faithful companion, [Sam the sheepdog](https://runescape.wikia.com/wiki/Sam_the_sheepdog), or take the [breeding log book](https://runescape.wikia.com/wiki/Manor_Farm_breeding_log) from the Farm Manor's table and check the status at any time."
+      },
+      {
+        "name": "​",
+        "value": "To maximize breeding efficiency:\n• Get the mating pair 100% happiness with [Delicious honeycomb](https://runescape.wikia.com/wiki/Delicious_honeycomb).\n• Get the mating pair 100% health with [Medicinal honeycomb](https://runescape.wikia.com/wiki/Medicinal_honeycomb).\n• Put a mating pair that has Studly or Viral trait.\n• The rabbit breeding perk is multiplicative, so utilize both pens for this.\n• Have enough food all the time.\n\nHaving a third adult/elder animal in the breeding pen does not increase the breeding chance. It is better to have just two for having an extra space for a second baby.\n\nInterbreeding of the variants of the same species is possible. For example, a Common rabbit and a Piscatorian rabbit could give a Common rabbit or a Piscatorian rabbit. Breeding variants of different species is also possible. For example, two Rellekkan rabbits could give a Piscatorian rabbit as a baby.\n\nThere is bad luck mitigation, which means that if your breed chance fails five times you get a guaranteed success."
+      },
+      {
+        "name": "​",
+        "value": "Hens and roosters can initially be obtained by purchasing an egg from Granny Potterington's Farmer's Market or bought from other players. The **PoF Trade FC** friend's chat can be used to trade animals 1:1 for a specific gender."
+      },
+      {
+        "name": "Requirements:",
+        "value": "• 28 Farming\n• 20 Construction\n\n• Completion of the [Player-Owned Farm Tutorial](https://runescape.wikia.com/wiki/Player-owned_farm#Tutorial)"
+      }
+    ],
+    "footer": {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+      "text": "Runescore awarded: 0"
+    }
+  },
+  "skills - farming - you had a chinchompa": {
+    "title": "You Had a Chinchompa",
+    "author": {
+      "name": "RuneScore Achievement Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[You Had a Chinchompa](https://runescape.wikia.com/wiki/You_Had_a_Chinchompa) is an achievement that is unlocked by completing all chinchompa breeds at the [Player-owned farm](https://runescape.wikia.com/wiki/Player-owned_farm).\n\nThe breeds of chinchompas are:\n• [Grey chinchompa](https://runescape.wikia.com/wiki/Grey_chinchompa)\n• [Carnivorous chinchompa](https://runescape.wikia.com/wiki/Carnivorous_chinchompa_(Player-owned_farm)\n• [Cobalt chinchompa](https://runescape.wikia.com/wiki/Cobalt_chinchompa)\n• [Viridian chinchompa](https://runescape.wikia.com/wiki/Viridian_chinchompa)\n• [Azure chinchompa](https://runescape.wikia.com/wiki/Azure_chinchompa)\n• [Crimson chinchompa](https://runescape.wikia.com/wiki/Crimson_chinchompa)\n• [Crystal chinchompa](https://runescape.wikia.com/wiki/Crystal_chinchompa)\n• [Golden chinchompa](https://runescape.wikia.com/wiki/Golden_chinchompa_(Player-owned_farm)\n\nAnimals can only breed in the adult and elder stages, and the breeding paddock has four slots, so only one male and one female should be placed in the paddock to leave room for two babies. Additionally, players can buy the small, medium, and large pen upgrades from [Granny Potterington](https://runescape.wikia.com/wiki/Granny_Potterington)'s [Farmers Market](https://runescape.wikia.com/wiki/Farmers%27_Market) to allow animal breeding inside them, however, with a lower chance and without failure mitigation. When breeding happens in one of the pens, the player will receive a message based on which directional pen it occurred in.",
+    "thumbnail": {
+      "url": "https://i.imgur.com/Shmagnp.png"
+    },
+    "fields": [
+      {
+        "name": "​",
+        "value": "The breeding chance of a pair of animals will be affected by their stats. If their health and happiness are low, their breeding chance is reduced. Make sure they have food and wait. There are treat items, such as [special honeycombs](https://runescape.wikia.com/wiki/Special_honeycomb) and some kinds of milk ([strawberry](https://runescape.wikia.com/wiki/Strawberry_milk) and [vanilla milk](https://runescape.wikia.com/wiki/Vanilla_milk)), that speed up the process a bit. Diseased animals will not breed. If an animal has the **infertile** [trait](https://runescape.wikia.com/wiki/Player-owned_farm#Traits), it will never breed. Players are able to use the breeding process to create specific baby animals with particular traits."
+      },
+      {
+        "name": "​",
+        "value": "Animals of the same species and same gender may result in offspring as if bred, with the text \"Your animals have decided to raise a child together and have adopted a baby\". This has a much lower overall chance of offspring than a male and female. The bad luck mitigation does not apply to same gender animals.\n\nAnimals can have up to three traits. There is a chance for players to receive rare shiny animals from breeding. Sparkling gives a +1 chance and can exist in any [perk](https://runescape.wikia.com/wiki/Player-owned_farm#Perks) slot, Glistening gives a +2 chance and can exist only in perk slots 2 and 3, and Radiant gives a +3 chance and only exists in slot 3. Shiny animals do not help breed more shiny animals, only if they have the shiny traits that help.\n\nYou can boost the overall breeding chance by using the [farming totems](https://runescape.wikia.com/wiki/Farm_totem) on small [pens](https://runescape.wikia.com/wiki/Player-owned_farm#Pens) with elder rabbits in them."
+      },
+      {
+        "name": "​",
+        "value": "The [master farmer outfit](https://runescape.wikia.com/wiki/Master_farmer_outfit) gives a better chance of positive traits from breeding. The blueprints for the master farmer outfit must first be purchased from Granny Potterington at the Farmers' Market for 1,000 [beans](https://runescape.wikia.com/wiki/Beans).\n\nPlayers can buy a specific breed from the [Grand Exchange](https://runescape.wikia.com/wiki/Grand_Exchange) in order to breed them for a higher chance of completing that specific breed in the for your log. To keep track of all the breeds you have already collected, you can go to Granny's faithful companion, [Sam the sheepdog](https://runescape.wikia.com/wiki/Sam_the_sheepdog), or take the [breeding log book](https://runescape.wikia.com/wiki/Manor_Farm_breeding_log) from the Farm Manor's table and check the status at any time."
+      },
+      {
+        "name": "​",
+        "value": "To maximize breeding efficiency:\n• Get the mating pair 100% happiness with [Delicious honeycomb](https://runescape.wikia.com/wiki/Delicious_honeycomb).\n• Get the mating pair 100% health with [Medicinal honeycomb](https://runescape.wikia.com/wiki/Medicinal_honeycomb).\n• Put a mating pair that has Studly or Viral trait.\n• The rabbit breeding perk is multiplicative, so utilize both pens for this.\n• Have enough food all the time.\n\nHaving a third adult/elder animal in the breeding pen does not increase the breeding chance. It is better to have just two for having an extra space for a second baby.\n\nInterbreeding of the variants of the same species is possible. For example, a Common rabbit and a Piscatorian rabbit could give a Common rabbit or a Piscatorian rabbit. Breeding variants of different species is also possible. For example, two Rellekkan rabbits could give a Piscatorian rabbit as a baby.\n\nThere is bad luck mitigation, which means that if your breed chance fails five times you get a guaranteed success."
+      },
+      {
+        "name": "​",
+        "value": "Chinchompas can initially be obtained by hunting [Chinchompas](https://runescape.wikia.com/wiki/Chinchompa), [Red chinchompas](https://runescape.wikia.com/wiki/Red_chinchompa), or [Skillchompas](https://runescape.wikia.com/wiki/Skillchompa), or bought from other players. The **PoF Trade FC** friend's chat can be used to trade animals 1:1 for a specific gender."
+      },
+      {
+        "name": "Requirements:",
+        "value": "• 54 Farming\n• 20 Construction\n\n• Completion of the [Player-Owned Farm Tutorial](https://runescape.wikia.com/wiki/Player-owned_farm#Tutorial)"
+      }
+    ],
+    "footer": {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+      "text": "Runescore awarded: 0"
+    }
+  },
+  "skills - farming - you had a cow": {
+    "title": "You Had a Cow",
+    "author": {
+      "name": "RuneScore Achievement Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[You Had a Cow](https://runescape.wikia.com/wiki/You_Had_a_Cow) is an achievement that is unlocked by completing all cow breeds at the [Player-owned farm](https://runescape.wikia.com/wiki/Player-owned_farm).\n\nThe breeds of cows are:\n• [Kandarin cow](https://runescape.wikia.com/wiki/Kandarin_cow)\n• [Chocolate cow](https://runescape.wikia.com/wiki/Chocolate_cow)\n• [Strawberry cow](https://runescape.wikia.com/wiki/Strawberry_cow)\n• [Vanilla cow](https://runescape.wikia.com/wiki/Vanilla_cow)\n• [Harlequin cow](https://runescape.wikia.com/wiki/Harlequin_cow)\n\n**Note:**\nBreeding kandarin cows with the *touch of vanilla*, *strawberry scent*, or *chocolatey goodness* traits have a chance to result in a vanilla cow, strawberry cow or chocolate cow, respectively.\n\nAnimals can only breed in the adult and elder stages, and the breeding paddock has four slots, so only one male and one female should be placed in the paddock to leave room for two babies. Additionally, players can buy the small, medium, and large pen upgrades from [Granny Potterington](https://runescape.wikia.com/wiki/Granny_Potterington)'s [Farmers Market](https://runescape.wikia.com/wiki/Farmers%27_Market) to allow animal breeding inside them, however, with a lower chance and without failure mitigation. When breeding happens in one of the pens, the player will receive a message based on which directional pen it occurred in.",
+    "thumbnail": {
+      "url": "https://i.imgur.com/Shmagnp.png"
+    },
+    "fields": [
+      {
+        "name": "​",
+        "value": "The breeding chance of a pair of animals will be affected by their stats. If their health and happiness are low, their breeding chance is reduced. Make sure they have food and wait. There are treat items, such as [special honeycombs](https://runescape.wikia.com/wiki/Special_honeycomb) and some kinds of milk ([strawberry](https://runescape.wikia.com/wiki/Strawberry_milk) and [vanilla milk](https://runescape.wikia.com/wiki/Vanilla_milk)), that speed up the process a bit. Diseased animals will not breed. If an animal has the **infertile** [trait](https://runescape.wikia.com/wiki/Player-owned_farm#Traits), it will never breed. Players are able to use the breeding process to create specific baby animals with particular traits."
+      },
+      {
+        "name": "​",
+        "value": "Animals of the same species and same gender may result in offspring as if bred, with the text \"Your animals have decided to raise a child together and have adopted a baby\". This has a much lower overall chance of offspring than a male and female. The bad luck mitigation does not apply to same gender animals.\n\nAnimals can have up to three traits. There is a chance for players to receive rare shiny animals from breeding. Sparkling gives a +1 chance and can exist in any [perk](https://runescape.wikia.com/wiki/Player-owned_farm#Perks) slot, Glistening gives a +2 chance and can exist only in perk slots 2 and 3, and Radiant gives a +3 chance and only exists in slot 3. Shiny animals do not help breed more shiny animals, only if they have the shiny traits that help.\n\nYou can boost the overall breeding chance by using the [farming totems](https://runescape.wikia.com/wiki/Farm_totem) on small [pens](https://runescape.wikia.com/wiki/Player-owned_farm#Pens) with elder rabbits in them. "
+      },
+      {
+        "name": "​",
+        "value": "The [master farmer outfit](https://runescape.wikia.com/wiki/Master_farmer_outfit) gives a better chance of positive traits from breeding. The blueprints for the master farmer outfit must first be purchased from Granny Potterington at the Farmers' Market for 1,000 [beans](https://runescape.wikia.com/wiki/Beans).\n\nPlayers can buy a specific breed from the [Grand Exchange](https://runescape.wikia.com/wiki/Grand_Exchange) in order to breed them for a higher chance of completing that specific breed in the for your log. To keep track of all the breeds you have already collected, you can go to Granny's faithful companion, [Sam the sheepdog](https://runescape.wikia.com/wiki/Sam_the_sheepdog), or take the [breeding log book](https://runescape.wikia.com/wiki/Manor_Farm_breeding_log) from the Farm Manor's table and check the status at any time."
+      },
+      {
+        "name": "​",
+        "value": "To maximize breeding efficiency:\n• Get the mating pair 100% happiness with [Delicious honeycomb](https://runescape.wikia.com/wiki/Delicious_honeycomb).\n• Get the mating pair 100% health with [Medicinal honeycomb](https://runescape.wikia.com/wiki/Medicinal_honeycomb).\n• Put a mating pair that has Studly or Viral trait.\n• The rabbit breeding perk is multiplicative, so utilize both pens for this.\n• Have enough food all the time.\n\nHaving a third adult/elder animal in the breeding pen does not increase the breeding chance. It is better to have just two for having an extra space for a second baby.\n\nInterbreeding of the variants of the same species is possible. For example, a Common rabbit and a Piscatorian rabbit could give a Common rabbit or a Piscatorian rabbit. Breeding variants of different species is also possible. For example, two Rellekkan rabbits could give a Piscatorian rabbit as a baby.\n\nThere is bad luck mitigation, which means that if your breed chance fails five times you get a guaranteed success."
+      },
+      {
+        "name": "​",
+        "value": "Cows and bulls can initially be obtained by purchasing a cow or bull from Granny Potterington's Farmer's Market or bought from other players. The **PoF Trade FC** friend's chat can be used to trade animals 1:1 for a specific gender."
+      },
+      {
+        "name": "Requirements:",
+        "value": "• 49 Farming\n• 20 Construction\n\n• Completion of the [Player-Owned Farm Tutorial](https://runescape.wikia.com/wiki/Player-owned_farm#Tutorial)"
+      }
+    ],
+    "footer": {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+      "text": "Runescore awarded: 0"
+    }
+  },
+  "skills - farming - you had a dragon": {
+    "title": "You Had a Dragon",
+    "author": {
+      "name": "RuneScore Achievement Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[You Had a Dragon](https://runescape.wikia.com/wiki/You_Had_a_Dragon) is an achievement that is unlocked by completing all dragon breeds at the [Player-owned farm](https://runescape.wikia.com/wiki/Player-owned_farm).\n\nThe breeds of dragons are:\n• [Green dragon](https://runescape.wikia.com/wiki/Green_dragon_(Player-owned_farm)\n• [Blue dragon](https://runescape.wikia.com/wiki/Blue_dragon_(Player-owned_farm)\n• [Red dragon](https://runescape.wikia.com/wiki/Red_dragon_(Player-owned_farm)\n• [Black dragon](https://runescape.wikia.com/wiki/Black_dragon_(Player-owned_farm)\n• [Royal dragon](https://runescape.wikia.com/wiki/Royal_dragon)\n\nAnimals can only breed in the adult and elder stages, and the breeding paddock has four slots, so only one male and one female should be placed in the paddock to leave room for two babies. Additionally, players can buy the small, medium, and large pen upgrades from [Granny Potterington](https://runescape.wikia.com/wiki/Granny_Potterington)'s [Farmers Market](https://runescape.wikia.com/wiki/Farmers%27_Market) to allow animal breeding inside them, however, with a lower chance and without failure mitigation. When breeding happens in one of the pens, the player will receive a message based on which directional pen it occurred in.",
+    "thumbnail": {
+      "url": "https://i.imgur.com/Shmagnp.png"
+    },
+    "fields": [
+      {
+        "name": "​",
+        "value": "The breeding chance of a pair of animals will be affected by their stats. If their health and happiness are low, their breeding chance is reduced. Make sure they have food and wait. There are treat items, such as [special honeycombs](https://runescape.wikia.com/wiki/Special_honeycomb) and some kinds of milk ([strawberry](https://runescape.wikia.com/wiki/Strawberry_milk) and [vanilla milk](https://runescape.wikia.com/wiki/Vanilla_milk)), that speed up the process a bit. Diseased animals will not breed. If an animal has the **infertile** [trait](https://runescape.wikia.com/wiki/Player-owned_farm#Traits), it will never breed. Players are able to use the breeding process to create specific baby animals with particular traits."
+      },
+      {
+        "name": "​",
+        "value": "Animals of the same species and same gender may result in offspring as if bred, with the text \"Your animals have decided to raise a child together and have adopted a baby\". This has a much lower overall chance of offspring than a male and female. The bad luck mitigation does not apply to same gender animals.\n\nAnimals can have up to three traits. There is a chance for players to receive rare shiny animals from breeding. Sparkling gives a +1 chance and can exist in any [perk](https://runescape.wikia.com/wiki/Player-owned_farm#Perks) slot, Glistening gives a +2 chance and can exist only in perk slots 2 and 3, and Radiant gives a +3 chance and only exists in slot 3. Shiny animals do not help breed more shiny animals, only if they have the shiny traits that help.\n\nYou can boost the overall breeding chance by using the [farming totems](https://runescape.wikia.com/wiki/Farm_totem) on small [pens](https://runescape.wikia.com/wiki/Player-owned_farm#Pens) with elder rabbits in them. "
+      },
+      {
+        "name": "​",
+        "value": "The [master farmer outfit](https://runescape.wikia.com/wiki/Master_farmer_outfit) gives a better chance of positive traits from breeding. The blueprints for the master farmer outfit must first be purchased from Granny Potterington at the Farmers' Market for 1,000 [beans](https://runescape.wikia.com/wiki/Beans).\n\nPlayers can buy a specific breed from the [Grand Exchange](https://runescape.wikia.com/wiki/Grand_Exchange) in order to breed them for a higher chance of completing that specific breed in the for your log. To keep track of all the breeds you have already collected, you can go to Granny's faithful companion, [Sam the sheepdog](https://runescape.wikia.com/wiki/Sam_the_sheepdog), or take the [breeding log book](https://runescape.wikia.com/wiki/Manor_Farm_breeding_log) from the Farm Manor's table and check the status at any time."
+      },
+      {
+        "name": "​",
+        "value": "To maximize breeding efficiency:\n• Get the mating pair 100% happiness with [Delicious honeycomb](https://runescape.wikia.com/wiki/Delicious_honeycomb).\n• Get the mating pair 100% health with [Medicinal honeycomb](https://runescape.wikia.com/wiki/Medicinal_honeycomb).\n• Put a mating pair that has Studly or Viral trait.\n• The rabbit breeding perk is multiplicative, so utilize both pens for this.\n• Have enough food all the time.\n\nHaving a third adult/elder animal in the breeding pen does not increase the breeding chance. It is better to have just two for having an extra space for a second baby.\n\nInterbreeding of the variants of the same species is possible. For example, a Common rabbit and a Piscatorian rabbit could give a Common rabbit or a Piscatorian rabbit. Breeding variants of different species is also possible. For example, two Rellekkan rabbits could give a Piscatorian rabbit as a baby.\n\nThere is bad luck mitigation, which means that if your breed chance fails five times you get a guaranteed success."
+      },
+      {
+        "name": "​",
+        "value": "Dragons can initially be obtained by killing [Green dragons](https://runescape.wikia.com/wiki/Green_dragon), [Blue dragons](https://runescape.wikia.com/wiki/Blue_dragon), [Red dragons](https://runescape.wikia.com/wiki/Red_dragon), and [Black dragons](https://runescape.wikia.com/wiki/Black_dragon) across [Gielinor](https://runescape.wikia.com/wiki/Gielinor), as well as the [Queen Black Dragon](http://runescape.wikia.com/wiki/Queen_Black_Dragon) or [King Black Dragon](http://runescape.wikia.com/wiki/King_Black_Dragon), or bought from other players. The **PoF Trade FC** friend's chat can be used to trade animals 1:1 for a specific gender."
+      },
+      {
+        "name": "Requirements:",
+        "value": "• 92 Farming\n• 20 Construction\n\n• Completion of the [Player-Owned Farm Tutorial](https://runescape.wikia.com/wiki/Player-owned_farm#Tutorial)"
+      }
+    ],
+    "footer": {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+      "text": "Runescore awarded: 0"
+    }
+  },
+  "skills - farming - you had a rabbit": {
+    "title": "You Had a Rabbit",
+    "author": {
+      "name": "RuneScore Achievement Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[You Had a Rabbit](https://runescape.wikia.com/wiki/You_Had_a_Rabbit) is an achievement that is unlocked by completing all rabbit breeds at the [Player-owned farm](https://runescape.wikia.com/wiki/Player-owned_farm).\n\nThe breeds of rabbits are:\n• [Common brown rabbit](https://runescape.wikia.com/wiki/Common_brown_rabbit)\n• [Rellekkan cream rabbit](https://runescape.wikia.com/wiki/Rellekkan_cream_rabbit)\n• [Piscatorian cottontail rabbit](https://runescape.wikia.com/wiki/Piscatorian_cottontail_rabbit)\n• [Jackalope](https://runescape.wikia.com/wiki/Jackalope)\n\nAnimals can only breed in the adult and elder stages, and the breeding paddock has four slots, so only one male and one female should be placed in the paddock to leave room for two babies. Additionally, players can buy the small, medium, and large pen upgrades from [Granny Potterington](https://runescape.wikia.com/wiki/Granny_Potterington)'s [Farmers Market](https://runescape.wikia.com/wiki/Farmers%27_Market) to allow animal breeding inside them, however, with a lower chance and without failure mitigation. When breeding happens in one of the pens, the player will receive a message based on which directional pen it occurred in.",
+    "thumbnail": {
+      "url": "https://i.imgur.com/Shmagnp.png"
+    },
+    "fields": [
+      {
+        "name": "​",
+        "value": "The breeding chance of a pair of animals will be affected by their stats. If their health and happiness are low, their breeding chance is reduced. Make sure they have food and wait. There are treat items, such as [special honeycombs](https://runescape.wikia.com/wiki/Special_honeycomb) and some kinds of milk ([strawberry](https://runescape.wikia.com/wiki/Strawberry_milk) and [vanilla milk](https://runescape.wikia.com/wiki/Vanilla_milk)), that speed up the process a bit. Diseased animals will not breed. If an animal has the **infertile** [trait](https://runescape.wikia.com/wiki/Player-owned_farm#Traits), it will never breed. Players are able to use the breeding process to create specific baby animals with particular traits."
+      },
+      {
+        "name": "​",
+        "value": "Animals of the same species and same gender may result in offspring as if bred, with the text \"Your animals have decided to raise a child together and have adopted a baby\". This has a much lower overall chance of offspring than a male and female. The bad luck mitigation does not apply to same gender animals.\n\nAnimals can have up to three traits. There is a chance for players to receive rare shiny animals from breeding. Sparkling gives a +1 chance and can exist in any [perk](https://runescape.wikia.com/wiki/Player-owned_farm#Perks) slot, Glistening gives a +2 chance and can exist only in perk slots 2 and 3, and Radiant gives a +3 chance and only exists in slot 3. Shiny animals do not help breed more shiny animals, only if they have the shiny traits that help.\n\nYou can boost the overall breeding chance by using the [farming totems](https://runescape.wikia.com/wiki/Farm_totem) on small [pens](https://runescape.wikia.com/wiki/Player-owned_farm#Pens) with elder rabbits in them. "
+      },
+      {
+        "name": "​",
+        "value": "The [master farmer outfit](https://runescape.wikia.com/wiki/Master_farmer_outfit) gives a better chance of positive traits from breeding. The blueprints for the master farmer outfit must first be purchased from Granny Potterington at the Farmers' Market for 1,000 [beans](https://runescape.wikia.com/wiki/Beans).\n\nPlayers can buy a specific breed from the [Grand Exchange](https://runescape.wikia.com/wiki/Grand_Exchange) in order to breed them for a higher chance of completing that specific breed in the for your log. To keep track of all the breeds you have already collected, you can go to Granny's faithful companion, [Sam the sheepdog](https://runescape.wikia.com/wiki/Sam_the_sheepdog), or take the [breeding log book](https://runescape.wikia.com/wiki/Manor_Farm_breeding_log) from the Farm Manor's table and check the status at any time."
+      },
+      {
+        "name": "​",
+        "value": "To maximize breeding efficiency:\n• Get the mating pair 100% happiness with [Delicious honeycomb](https://runescape.wikia.com/wiki/Delicious_honeycomb).\n• Get the mating pair 100% health with [Medicinal honeycomb](https://runescape.wikia.com/wiki/Medicinal_honeycomb).\n• Put a mating pair that has Studly or Viral trait.\n• The rabbit breeding perk is multiplicative, so utilize both pens for this.\n• Have enough food all the time.\n\nHaving a third adult/elder animal in the breeding pen does not increase the breeding chance. It is better to have just two for having an extra space for a second baby.\n\nInterbreeding of the variants of the same species is possible. For example, a Common rabbit and a Piscatorian rabbit could give a Common rabbit or a Piscatorian rabbit. Breeding variants of different species is also possible. For example, two Rellekkan rabbits could give a Piscatorian rabbit as a baby.\n\nThere is bad luck mitigation, which means that if your breed chance fails five times you get a guaranteed success."
+      },
+      {
+        "name": "​",
+        "value": "Rabbits can initially be obtained by killing [Rabbits](https://runescape.wikia.com/wiki/Rabbit) across [Gielinor](https://runescape.wikia.com/wiki/Gielinor) or bought from other players. The **PoF Trade FC** friend's chat can be used to trade animals 1:1 for a specific gender."
+      },
+      {
+        "name": "Requirements:",
+        "value": "• 17 Farming\n• 20 Construction\n\n• Completion of the [Player-Owned Farm Tutorial](https://runescape.wikia.com/wiki/Player-owned_farm#Tutorial)"
+      }
+    ],
+    "footer": {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+      "text": "Runescore awarded: 0"
+    }
+  },
+  "skills - farming - you had a sheep": {
+    "title": "You Had a Sheep",
+    "author": {
+      "name": "RuneScore Achievement Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[You Had a Sheep](https://runescape.wikia.com/wiki/You_Had_a_Sheep) is an achievement that is unlocked by completing all sheep breeds at the [Player-owned farm](https://runescape.wikia.com/wiki/Player-owned_farm).\n\nThe breeds of sheep are:\n• [White ram](https://runescape.wikia.com/wiki/White_ram) or [White ewe](https://runescape.wikia.com/wiki/White_ewe)\n• [Black ram](https://runescape.wikia.com/wiki/Black_ram) or [Black ewe](https://runescape.wikia.com/wiki/Black_ewe)\n• [Summerdown ram](https://runescape.wikia.com/wiki/Summerdown_ram) or [Summerdown ewe](https://runescape.wikia.com/wiki/Summerdown_ewe)\n• [Springsheared ram](https://runescape.wikia.com/wiki/Springsheared_ram) or [Springsheared ewe](https://runescape.wikia.com/wiki/Springsheared_ewe)\n• [Winterwold ram](https://runescape.wikia.com/wiki/Winterwold_ram) or [Winterwold ewe](https://runescape.wikia.com/wiki/Winterwold_ewe)\n• [Fallfaced ram](https://runescape.wikia.com/wiki/Fallfaced_ram) or [Fallfaced ewe](https://runescape.wikia.com/wiki/Fallfaced_ewe)\n• [Golden ram](https://runescape.wikia.com/wiki/Golden_ram) or [Golden ewe](https://runescape.wikia.com/wiki/Golden_ewe)\n\n**Note:**\nSummerdown sheep, springsheared sheep, winterwold sheep, and fallfaced sheep can only be bred during their respective seasons. Also, Black ewes and rams can only be bred from 21:00 to 09:00 game time. Players can force the seasons to change by using the [seasonaliser](https://runescape.wikia.com/wiki/Seasonaliser), which can be purchased from [Granny Potterington](https://runescape.wikia.com/wiki/Granny_Potterington)'s [Farmers Market](https://runescape.wikia.com/wiki/Farmers%27_Market).",
+    "thumbnail": {
+      "url": "https://i.imgur.com/Shmagnp.png"
+    },
+    "fields": [
+      {
+        "name": "​",
+        "value": "Animals can only breed in the adult and elder stages, and the breeding paddock has four slots, so only one male and one female should be placed in the paddock to leave room for two babies. Additionally, players can buy the small, medium, and large pen upgrades from the Farmer's Market to allow animal breeding inside them, however, with a lower chance and without failure mitigation. When breeding happens in one of the pens, the player will receive a message based on which directional pen it occurred in."
+      },
+      {
+        "name": "​",
+        "value": "The breeding chance of a pair of animals will be affected by their stats. If their health and happiness are low, their breeding chance is reduced. Make sure they have food and wait. There are treat items, such as [special honeycombs](https://runescape.wikia.com/wiki/Special_honeycomb) and some kinds of milk ([strawberry](https://runescape.wikia.com/wiki/Strawberry_milk) and [vanilla milk](https://runescape.wikia.com/wiki/Vanilla_milk)), that speed up the process a bit. Diseased animals will not breed. If an animal has the **infertile** [trait](https://runescape.wikia.com/wiki/Player-owned_farm#Traits), it will never breed. Players are able to use the breeding process to create specific baby animals with particular traits."
+      },
+      {
+        "name": "​",
+        "value": "Animals of the same species and same gender may result in offspring as if bred, with the text \"Your animals have decided to raise a child together and have adopted a baby\". This has a much lower overall chance of offspring than a male and female. The bad luck mitigation does not apply to same gender animals.\n\nAnimals can have up to three traits. There is a chance for players to receive rare shiny animals from breeding. Sparkling gives a +1 chance and can exist in any [perk](https://runescape.wikia.com/wiki/Player-owned_farm#Perks) slot, Glistening gives a +2 chance and can exist only in perk slots 2 and 3, and Radiant gives a +3 chance and only exists in slot 3. Shiny animals do not help breed more shiny animals, only if they have the shiny traits that help.\n\nYou can boost the overall breeding chance by using the [farming totems](https://runescape.wikia.com/wiki/Farm_totem) on small [pens](https://runescape.wikia.com/wiki/Player-owned_farm#Pens) with elder rabbits in them. "
+      },
+      {
+        "name": "​",
+        "value": "The [master farmer outfit](https://runescape.wikia.com/wiki/Master_farmer_outfit) gives a better chance of positive traits from breeding. The blueprints for the master farmer outfit must first be purchased from Granny Potterington at the Farmers' Market for 1,000 [beans](https://runescape.wikia.com/wiki/Beans).\n\nPlayers can buy a specific breed from the [Grand Exchange](https://runescape.wikia.com/wiki/Grand_Exchange) in order to breed them for a higher chance of completing that specific breed in the for your log. To keep track of all the breeds you have already collected, you can go to Granny's faithful companion, [Sam the sheepdog](https://runescape.wikia.com/wiki/Sam_the_sheepdog), or take the [breeding log book](https://runescape.wikia.com/wiki/Manor_Farm_breeding_log) from the Farm Manor's table and check the status at any time."
+      },
+      {
+        "name": "​",
+        "value": "To maximize breeding efficiency:\n• Get the mating pair 100% happiness with [Delicious honeycomb](https://runescape.wikia.com/wiki/Delicious_honeycomb).\n• Get the mating pair 100% health with [Medicinal honeycomb](https://runescape.wikia.com/wiki/Medicinal_honeycomb).\n• Put a mating pair that has Studly or Viral trait.\n• The rabbit breeding perk is multiplicative, so utilize both pens for this.\n• Have enough food all the time.\n\nHaving a third adult/elder animal in the breeding pen does not increase the breeding chance. It is better to have just two for having an extra space for a second baby.\n\nInterbreeding of the variants of the same species is possible. For example, a Common rabbit and a Piscatorian rabbit could give a Common rabbit or a Piscatorian rabbit. Breeding variants of different species is also possible. For example, two Rellekkan rabbits could give a Piscatorian rabbit as a baby.\n\nThere is bad luck mitigation, which means that if your breed chance fails five times you get a guaranteed success."
+      },
+      {
+        "name": "​",
+        "value": "Sheep can initially be obtained by purchasing an ewe or ram from Granny Potterington's Farmer's Market or bought from other players. The **PoF Trade FC** friend's chat can be used to trade animals 1:1 for a specific gender."
+      },
+      {
+        "name": "Requirements:",
+        "value": "• 35 Farming\n• 20 Construction\n\n• Completion of the [Player-Owned Farm Tutorial](https://runescape.wikia.com/wiki/Player-owned_farm#Tutorial)"
+      }
+    ],
+    "footer": {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+      "text": "Runescore awarded: 0"
+    }
+  },
+  "skills - farming - you had a spider": {
+    "title": "You Had a Spider",
+    "author": {
+      "name": "RuneScore Achievement Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[You Had a Spider](https://runescape.wikia.com/wiki/You_Had_a_Spider) is an achievement that is unlocked by completing all spider breeds at the [Player-owned farm](https://runescape.wikia.com/wiki/Player-owned_farm).\n\nThe breeds of spiders are:\n• [Spirit spider](https://runescape.wikia.com/wiki/Spirit_spider_(Player-owned_farm)\n• [Night spider](https://runescape.wikia.com/wiki/Night_spider_(Player-owned_farm)\n• [Corpse spider](https://runescape.wikia.com/wiki/Corpse_spider_(Player-owned_farm)\n• [Fever spider](https://runescape.wikia.com/wiki/Fever_spider_(Player-owned_farm)\n• [Giant spider](https://runescape.wikia.com/wiki/Giant_spider_(Player-owned_farm)\n• [Ice spider](https://runescape.wikia.com/wiki/Ice_spider_(Player-owned_farm)\n• [Araxyte spider](https://runescape.wikia.com/wiki/Araxyte_spider)\n\n**Note:**\nNight spiders can only be bred from 21:00 to 09:00 game time.\n\nAnimals can only breed in the adult and elder stages, and the breeding paddock has four slots, so only one male and one female should be placed in the paddock to leave room for two babies. Additionally, players can buy the small, medium, and large pen upgrades from [Granny Potterington](https://runescape.wikia.com/wiki/Granny_Potterington)'s [Farmers Market](https://runescape.wikia.com/wiki/Farmers%27_Market) to allow animal breeding inside them, however, with a lower chance and without failure mitigation. When breeding happens in one of the pens, the player will receive a message based on which directional pen it occurred in.",
+    "thumbnail": {
+      "url": "https://i.imgur.com/Shmagnp.png"
+    },
+    "fields": [
+      {
+        "name": "​",
+        "value": "The breeding chance of a pair of animals will be affected by their stats. If their health and happiness are low, their breeding chance is reduced. Make sure they have food and wait. There are treat items, such as [special honeycombs](https://runescape.wikia.com/wiki/Special_honeycomb) and some kinds of milk ([strawberry](https://runescape.wikia.com/wiki/Strawberry_milk) and [vanilla milk](https://runescape.wikia.com/wiki/Vanilla_milk)), that speed up the process a bit. Diseased animals will not breed. If an animal has the **infertile** [trait](https://runescape.wikia.com/wiki/Player-owned_farm#Traits), it will never breed. Players are able to use the breeding process to create specific baby animals with particular traits."
+      },
+      {
+        "name": "​",
+        "value": "Animals of the same species and same gender may result in offspring as if bred, with the text \"Your animals have decided to raise a child together and have adopted a baby\". This has a much lower overall chance of offspring than a male and female. The bad luck mitigation does not apply to same gender animals.\n\nAnimals can have up to three traits. There is a chance for players to receive rare shiny animals from breeding. Sparkling gives a +1 chance and can exist in any [perk](https://runescape.wikia.com/wiki/Player-owned_farm#Perks) slot, Glistening gives a +2 chance and can exist only in perk slots 2 and 3, and Radiant gives a +3 chance and only exists in slot 3. Shiny animals do not help breed more shiny animals, only if they have the shiny traits that help.\n\nYou can boost the overall breeding chance by using the [farming totems](https://runescape.wikia.com/wiki/Farm_totem) on small [pens](https://runescape.wikia.com/wiki/Player-owned_farm#Pens) with elder rabbits in them. "
+      },
+      {
+        "name": "​",
+        "value": "The [master farmer outfit](https://runescape.wikia.com/wiki/Master_farmer_outfit) gives a better chance of positive traits from breeding. The blueprints for the master farmer outfit must first be purchased from Granny Potterington at the Farmers' Market for 1,000 [beans](https://runescape.wikia.com/wiki/Beans).\n\nPlayers can buy a specific breed from the [Grand Exchange](https://runescape.wikia.com/wiki/Grand_Exchange) in order to breed them for a higher chance of completing that specific breed in the for your log. To keep track of all the breeds you have already collected, you can go to Granny's faithful companion, [Sam the sheepdog](https://runescape.wikia.com/wiki/Sam_the_sheepdog), or take the [breeding log book](https://runescape.wikia.com/wiki/Manor_Farm_breeding_log) from the Farm Manor's table and check the status at any time."
+      },
+      {
+        "name": "​",
+        "value": "To maximize breeding efficiency:\n• Get the mating pair 100% happiness with [Delicious honeycomb](https://runescape.wikia.com/wiki/Delicious_honeycomb).\n• Get the mating pair 100% health with [Medicinal honeycomb](https://runescape.wikia.com/wiki/Medicinal_honeycomb).\n• Put a mating pair that has Studly or Viral trait.\n• The rabbit breeding perk is multiplicative, so utilize both pens for this.\n• Have enough food all the time.\n\nHaving a third adult/elder animal in the breeding pen does not increase the breeding chance. It is better to have just two for having an extra space for a second baby.\n\nInterbreeding of the variants of the same species is possible. For example, a Common rabbit and a Piscatorian rabbit could give a Common rabbit or a Piscatorian rabbit. Breeding variants of different species is also possible. For example, two Rellekkan rabbits could give a Piscatorian rabbit as a baby.\n\nThere is bad luck mitigation, which means that if your breed chance fails five times you get a guaranteed success."
+      },
+      {
+        "name": "​",
+        "value": "Spiders can initially be obtained by killing [Spiders](https://runescape.wikia.com/wiki/Spider) across [Gielinor](https://runescape.wikia.com/wiki/Gielinor), up to and including the [Araxxor](https://runescape.wikia.com/wiki/Araxxor) boss, or bought from other players. The **PoF Trade FC** friend's chat can be used to trade animals 1:1 for a specific gender."
+      },
+      {
+        "name": "Requirements:",
+        "value": "• 64 Farming\n• 20 Construction\n\n• Completion of the [Player-Owned Farm Tutorial](https://runescape.wikia.com/wiki/Player-owned_farm#Tutorial)"
+      }
+    ],
+    "footer": {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+      "text": "Runescore awarded: 0"
+    }
+  },
+  "skills - farming - you had a yak": {
+    "title": "You Had a Yak",
+    "author": {
+      "name": "RuneScore Achievement Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[You Had a Yak](https://runescape.wikia.com/wiki/You_Had_a_Yak) is an achievement that is unlocked by completing all yak breeds at the [Player-owned farm](https://runescape.wikia.com/wiki/Player-owned_farm).\n\nThe breeds of yaks are:\n• [Fremennik yak](https://runescape.wikia.com/wiki/Fremennik_yak)\n• [Spirit yak](https://runescape.wikia.com/wiki/Spirit_yak)\n• [Sacred yak](https://runescape.wikia.com/wiki/Sacred_yak)\n\nAnimals can only breed in the adult and elder stages, and the breeding paddock has four slots, so only one male and one female should be placed in the paddock to leave room for two babies. Additionally, players can buy the small, medium, and large pen upgrades from [Granny Potterington](https://runescape.wikia.com/wiki/Granny_Potterington)'s [Farmers Market](https://runescape.wikia.com/wiki/Farmers%27_Market) to allow animal breeding inside them, however, with a lower chance and without failure mitigation. When breeding happens in one of the pens, the player will receive a message based on which directional pen it occurred in.",
+    "thumbnail": {
+      "url": "https://i.imgur.com/Shmagnp.png"
+    },
+    "fields": [
+      {
+        "name": "​",
+        "value": "The breeding chance of a pair of animals will be affected by their stats. If their health and happiness are low, their breeding chance is reduced. Make sure they have food and wait. There are treat items, such as [special honeycombs](https://runescape.wikia.com/wiki/Special_honeycomb) and some kinds of milk ([strawberry](https://runescape.wikia.com/wiki/Strawberry_milk) and [vanilla milk](https://runescape.wikia.com/wiki/Vanilla_milk)), that speed up the process a bit. Diseased animals will not breed. If an animal has the **infertile** [trait](https://runescape.wikia.com/wiki/Player-owned_farm#Traits), it will never breed. Players are able to use the breeding process to create specific baby animals with particular traits."
+      },
+      {
+        "name": "​",
+        "value": "Animals of the same species and same gender may result in offspring as if bred, with the text \"Your animals have decided to raise a child together and have adopted a baby\". This has a much lower overall chance of offspring than a male and female. The bad luck mitigation does not apply to same gender animals.\n\nAnimals can have up to three traits. There is a chance for players to receive rare shiny animals from breeding. Sparkling gives a +1 chance and can exist in any [perk](https://runescape.wikia.com/wiki/Player-owned_farm#Perks) slot, Glistening gives a +2 chance and can exist only in perk slots 2 and 3, and Radiant gives a +3 chance and only exists in slot 3. Shiny animals do not help breed more shiny animals, only if they have the shiny traits that help.\n\nYou can boost the overall breeding chance by using the [farming totems](https://runescape.wikia.com/wiki/Farm_totem) on small [pens](https://runescape.wikia.com/wiki/Player-owned_farm#Pens) with elder rabbits in them. "
+      },
+      {
+        "name": "​",
+        "value": "The [master farmer outfit](https://runescape.wikia.com/wiki/Master_farmer_outfit) gives a better chance of positive traits from breeding. The blueprints for the master farmer outfit must first be purchased from Granny Potterington at the Farmers' Market for 1,000 [beans](https://runescape.wikia.com/wiki/Beans).\n\nPlayers can buy a specific breed from the [Grand Exchange](https://runescape.wikia.com/wiki/Grand_Exchange) in order to breed them for a higher chance of completing that specific breed in the for your log. To keep track of all the breeds you have already collected, you can go to Granny's faithful companion, [Sam the sheepdog](https://runescape.wikia.com/wiki/Sam_the_sheepdog), or take the [breeding log book](https://runescape.wikia.com/wiki/Manor_Farm_breeding_log) from the Farm Manor's table and check the status at any time."
+      },
+      {
+        "name": "​",
+        "value": "To maximize breeding efficiency:\n• Get the mating pair 100% happiness with [Delicious honeycomb](https://runescape.wikia.com/wiki/Delicious_honeycomb).\n• Get the mating pair 100% health with [Medicinal honeycomb](https://runescape.wikia.com/wiki/Medicinal_honeycomb).\n• Put a mating pair that has Studly or Viral trait.\n• The rabbit breeding perk is multiplicative, so utilize both pens for this.\n• Have enough food all the time.\n\nHaving a third adult/elder animal in the breeding pen does not increase the breeding chance. It is better to have just two for having an extra space for a second baby.\n\nInterbreeding of the variants of the same species is possible. For example, a Common rabbit and a Piscatorian rabbit could give a Common rabbit or a Piscatorian rabbit. Breeding variants of different species is also possible. For example, two Rellekkan rabbits could give a Piscatorian rabbit as a baby.\n\nThere is bad luck mitigation, which means that if your breed chance fails five times you get a guaranteed success."
+      },
+      {
+        "name": "​",
+        "value": "Yaks can initially be obtained by killing [Yaks](https://runescape.wikia.com/wiki/Yak) across [Gielinor](https://runescape.wikia.com/wiki/Gielinor), while infusing [Pack yak pouches](https://runescape.wikia.com/wiki/Pack_yak_pouch) at level 96 summoning or above (must have a free inventory space), or bought from other players. The **PoF Trade FC** friend's chat can be used to trade animals 1:1 for a specific gender."
+      },
+      {
+        "name": "Requirements:",
+        "value": "• 71 Farming\n• 20 Construction\n\n• Completion of the [Player-Owned Farm Tutorial](https://runescape.wikia.com/wiki/Player-owned_farm#Tutorial)"
+      }
+    ],
+    "footer": {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+      "text": "Runescore awarded: 0"
+    }
+  },
+  "skills - farming - you had a zygomite": {
+    "title": "You Had a Zygomite",
+    "author": {
+      "name": "RuneScore Achievement Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[You Had a Zygomite](https://runescape.wikia.com/wiki/You_Had_a_Zygomite) is an achievement that is unlocked by completing all zygomite breeds at the [Player-owned farm](https://runescape.wikia.com/wiki/Player-owned_farm).\n\nThe breeds of zygomites are:\n• [Gloomshroom zygomite](https://runescape.wikia.com/wiki/Gloomshroom_zygomite)\n• [Zanarian zygomite](https://runescape.wikia.com/wiki/Zanarian_zygomite)\n• [Daemoncap zygomite](https://runescape.wikia.com/wiki/Daemoncap_zygomite)\n• [Arcspore zygomite](https://runescape.wikia.com/wiki/Arcspore_zygomite)\n• [Magical zygomite](https://runescape.wikia.com/wiki/Magical_zygomite)\n\nAnimals can only breed in the adult and elder stages, and the breeding paddock has four slots, so only one male and one female should be placed in the paddock to leave room for two babies. Additionally, players can buy the small, medium, and large pen upgrades from [Granny Potterington](https://runescape.wikia.com/wiki/Granny_Potterington)'s [Farmers Market](https://runescape.wikia.com/wiki/Farmers%27_Market) to allow animal breeding inside them, however, with a lower chance and without failure mitigation. When breeding happens in one of the pens, the player will receive a message based on which directional pen it occurred in.",
+    "thumbnail": {
+      "url": "https://i.imgur.com/Shmagnp.png"
+    },
+    "fields": [
+      {
+        "name": "​",
+        "value": "The breeding chance of a pair of animals will be affected by their stats. If their health and happiness are low, their breeding chance is reduced. Make sure they have food and wait. There are treat items, such as [special honeycombs](https://runescape.wikia.com/wiki/Special_honeycomb) and some kinds of milk ([strawberry](https://runescape.wikia.com/wiki/Strawberry_milk) and [vanilla milk](https://runescape.wikia.com/wiki/Vanilla_milk)), that speed up the process a bit. Diseased animals will not breed. If an animal has the **infertile** [trait](https://runescape.wikia.com/wiki/Player-owned_farm#Traits), it will never breed. Players are able to use the breeding process to create specific baby animals with particular traits."
+      },
+      {
+        "name": "​",
+        "value": "Animals of the same species and same gender may result in offspring as if bred, with the text \"Your animals have decided to raise a child together and have adopted a baby\". This has a much lower overall chance of offspring than a male and female. The bad luck mitigation does not apply to same gender animals.\n\nAnimals can have up to three traits. There is a chance for players to receive rare shiny animals from breeding. Sparkling gives a +1 chance and can exist in any [perk](https://runescape.wikia.com/wiki/Player-owned_farm#Perks) slot, Glistening gives a +2 chance and can exist only in perk slots 2 and 3, and Radiant gives a +3 chance and only exists in slot 3. Shiny animals do not help breed more shiny animals, only if they have the shiny traits that help.\n\nYou can boost the overall breeding chance by using the [farming totems](https://runescape.wikia.com/wiki/Farm_totem) on small [pens](https://runescape.wikia.com/wiki/Player-owned_farm#Pens) with elder rabbits in them. "
+      },
+      {
+        "name": "​",
+        "value": "The [master farmer outfit](https://runescape.wikia.com/wiki/Master_farmer_outfit) gives a better chance of positive traits from breeding. The blueprints for the master farmer outfit must first be purchased from Granny Potterington at the Farmers' Market for 1,000 [beans](https://runescape.wikia.com/wiki/Beans).\n\nPlayers can buy a specific breed from the [Grand Exchange](https://runescape.wikia.com/wiki/Grand_Exchange) in order to breed them for a higher chance of completing that specific breed in the for your log. To keep track of all the breeds you have already collected, you can go to Granny's faithful companion, [Sam the sheepdog](https://runescape.wikia.com/wiki/Sam_the_sheepdog), or take the [breeding log book](https://runescape.wikia.com/wiki/Manor_Farm_breeding_log) from the Farm Manor's table and check the status at any time."
+      },
+      {
+        "name": "​",
+        "value": "To maximize breeding efficiency:\n• Get the mating pair 100% happiness with [Delicious honeycomb](https://runescape.wikia.com/wiki/Delicious_honeycomb).\n• Get the mating pair 100% health with [Medicinal honeycomb](https://runescape.wikia.com/wiki/Medicinal_honeycomb).\n• Put a mating pair that has Studly or Viral trait.\n• The rabbit breeding perk is multiplicative, so utilize both pens for this.\n• Have enough food all the time.\n\nHaving a third adult/elder animal in the breeding pen does not increase the breeding chance. It is better to have just two for having an extra space for a second baby.\n\nInterbreeding of the variants of the same species is possible. For example, a Common rabbit and a Piscatorian rabbit could give a Common rabbit or a Piscatorian rabbit. Breeding variants of different species is also possible. For example, two Rellekkan rabbits could give a Piscatorian rabbit as a baby.\n\nThere is bad luck mitigation, which means that if your breed chance fails five times you get a guaranteed success."
+      },
+      {
+        "name": "​",
+        "value": "Zygomites can initially be obtained by harvesting [Bittercap mushrooms](https://runescape.wikia.com/wiki/Bittercap_mushroom) or [Morchella mushrooms](https://runescape.wikia.com/wiki/Morchella_mushroom) across [Gielinor](https://runescape.wikia.com/wiki/Gielinor), harvesting [Mushroom clusters](https://runescape.wikia.com/wiki/Mushroom_cluster) on [The Arc](https://runescape.wikia.com/wiki/The_Arc), or bought from other players. Note that mushroom clusters on [Uncharted Isles](https://runescape.wikia.com/wiki/Uncharted_Isles) have a 1/400 chance of providing a zygomite, while the named island's clusters only provide 1/4,000. The **PoF Trade FC** friend's chat can be used to trade animals 1:1 for a specific gender."
+      },
+      {
+        "name": "Requirements:",
+        "value": "• 81 Farming\n• 20 Construction\n\n• Completion of the [Player-Owned Farm Tutorial](https://runescape.wikia.com/wiki/Player-owned_farm#Tutorial)"
+      }
+    ],
+    "footer": {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+      "text": "Runescore awarded: 0"
+    }
+  },
+  "skills - farming - chickensworn": {
+    "title": "Chickensworn",
+    "author": {
+      "name": "RuneScore Achievement Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[Chickensworn](https://runescape.wikia.com/wiki/Chickensworn) is an achievement that requires the player to successfully breed a chicken with the **Ravensworn** [trait](https://runescape.wikia.com/wiki/Player-owned_farm#Traits) at the [Player-owned farm](https://runescape.wikia.com/wiki/Player-owned_farm).\n\nThis achievement is hidden until unlocked. Players must have unlocked the [the Ravensworn](https://runescape.wikia.com/wiki/The_Ravensworn) title by spotting 13 [ravens](https://runescape.wikia.com/wiki/Raven_(Prifddinas) in [Prifddinas](https://runescape.wikia.com/wiki/Prifddinas) before this achievement is possible.\n\nAnimals can only breed in the adult and elder stages, and the breeding paddock has four slots, so only one male and one female should be placed in the paddock to leave room for two babies. Additionally, players can buy the small, medium, and large pen upgrades from [Granny Potterington](https://runescape.wikia.com/wiki/Granny_Potterington)'s [Farmers Market](https://runescape.wikia.com/wiki/Farmers%27_Market) to allow animal breeding inside them, however, with a lower chance and without failure mitigation. When breeding happens in one of the pens, the player will receive a message based on which directional pen it occurred in.",
+    "thumbnail": {
+      "url": "https://i.imgur.com/Shmagnp.png"
+    },
+    "fields": [
+      {
+        "name": "​",
+        "value": "The breeding chance of a pair of animals will be affected by their stats. If their health and happiness are low, their breeding chance is reduced. Make sure they have food and wait. There are treat items, such as [special honeycombs](https://runescape.wikia.com/wiki/Special_honeycomb) and some kinds of milk ([strawberry](https://runescape.wikia.com/wiki/Strawberry_milk) and [vanilla milk](https://runescape.wikia.com/wiki/Vanilla_milk)), that speed up the process a bit. Diseased animals will not breed. If an animal has the **infertile** trait, it will never breed. Players are able to use the breeding process to create specific baby animals with particular traits."
+      },
+      {
+        "name": "​",
+        "value": "Animals of the same species and same gender may result in offspring as if bred, with the text \"Your animals have decided to raise a child together and have adopted a baby\". This has a much lower overall chance of offspring than a male and female. The bad luck mitigation does not apply to same gender animals.\n\nYou can boost the overall breeding chance by using the [farming totems](https://runescape.wikia.com/wiki/Farm_totem) on small [pens](https://runescape.wikia.com/wiki/Player-owned_farm#Pens) with elder rabbits in them.\n\nThe [master farmer outfit](https://runescape.wikia.com/wiki/Master_farmer_outfit) gives a better chance of positive traits from breeding. The blueprints for the master farmer outfit must first be purchased from Granny Potterington at the Farmers' Market for 1,000 [beans](https://runescape.wikia.com/wiki/Beans)."
+      },
+      {
+        "name": "​",
+        "value": "To maximize breeding efficiency:\n• Get the mating pair 100% happiness with [Delicious honeycomb](https://runescape.wikia.com/wiki/Delicious_honeycomb).\n• Get the mating pair 100% health with [Medicinal honeycomb](https://runescape.wikia.com/wiki/Medicinal_honeycomb).\n• Put a mating pair that has Studly or Viral trait.\n• The rabbit breeding perk is multiplicative, so utilize both pens for this.\n• Have enough food all the time.\n\nHaving a third adult/elder animal in the breeding pen does not increase the breeding chance. It is better to have just two for having an extra space for a second baby.\n\nThere is bad luck mitigation, which means that if your breed chance fails five times you get a guaranteed success."
+      },
+      {
+        "name": "​",
+        "value": "Hens and roosters can initially be obtained by purchasing an egg from Granny Potterington's Farmer's Market or bought from other players. The **PoF Trade FC** friend's chat can be used to trade animals 1:1 for a specific gender."
+      },
+      {
+        "name": "Requirements:",
+        "value": "• 28 Farming\n• 20 Construction\n\n• Completion of the [Player-Owned Farm Tutorial](https://runescape.wikia.com/wiki/Player-owned_farm#Tutorial)"
+      }
+    ],
+    "footer": {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+      "text": "Runescore awarded: 0"
+    }
+  },
+  "skills - farming - chinchompasworn": {
+    "title": "Chinchompasworn",
+    "author": {
+      "name": "RuneScore Achievement Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[Chinchompasworn](https://runescape.wikia.com/wiki/Chinchompasworn) is an achievement that requires the player to successfully breed a chinchompa with the **Ravensworn** [trait](https://runescape.wikia.com/wiki/Player-owned_farm#Traits) at the [Player-owned farm](https://runescape.wikia.com/wiki/Player-owned_farm).\n\nThis achievement is hidden until unlocked. Players must have unlocked the [the Ravensworn](https://runescape.wikia.com/wiki/The_Ravensworn) title by spotting 13 [ravens](https://runescape.wikia.com/wiki/Raven_(Prifddinas) in [Prifddinas](https://runescape.wikia.com/wiki/Prifddinas) before this achievement is possible.\n\nAnimals can only breed in the adult and elder stages, and the breeding paddock has four slots, so only one male and one female should be placed in the paddock to leave room for two babies. Additionally, players can buy the small, medium, and large pen upgrades from [Granny Potterington](https://runescape.wikia.com/wiki/Granny_Potterington)'s [Farmers Market](https://runescape.wikia.com/wiki/Farmers%27_Market) to allow animal breeding inside them, however, with a lower chance and without failure mitigation. When breeding happens in one of the pens, the player will receive a message based on which directional pen it occurred in.",
+    "thumbnail": {
+      "url": "https://i.imgur.com/Shmagnp.png"
+    },
+    "fields": [
+      {
+        "name": "​",
+        "value": "The breeding chance of a pair of animals will be affected by their stats. If their health and happiness are low, their breeding chance is reduced. Make sure they have food and wait. There are treat items, such as [special honeycombs](https://runescape.wikia.com/wiki/Special_honeycomb) and some kinds of milk ([strawberry](https://runescape.wikia.com/wiki/Strawberry_milk) and [vanilla milk](https://runescape.wikia.com/wiki/Vanilla_milk)), that speed up the process a bit. Diseased animals will not breed. If an animal has the **infertile** trait, it will never breed. Players are able to use the breeding process to create specific baby animals with particular traits."
+      },
+      {
+        "name": "​",
+        "value": "Animals of the same species and same gender may result in offspring as if bred, with the text \"Your animals have decided to raise a child together and have adopted a baby\". This has a much lower overall chance of offspring than a male and female. The bad luck mitigation does not apply to same gender animals.\n\nYou can boost the overall breeding chance by using the [farming totems](https://runescape.wikia.com/wiki/Farm_totem) on small [pens](https://runescape.wikia.com/wiki/Player-owned_farm#Pens) with elder rabbits in them.\n\nThe [master farmer outfit](https://runescape.wikia.com/wiki/Master_farmer_outfit) gives a better chance of positive traits from breeding. The blueprints for the master farmer outfit must first be purchased from Granny Potterington at the Farmers' Market for 1,000 [beans](https://runescape.wikia.com/wiki/Beans)."
+      },
+      {
+        "name": "​",
+        "value": "To maximize breeding efficiency:\n• Get the mating pair 100% happiness with [Delicious honeycomb](https://runescape.wikia.com/wiki/Delicious_honeycomb).\n• Get the mating pair 100% health with [Medicinal honeycomb](https://runescape.wikia.com/wiki/Medicinal_honeycomb).\n• Put a mating pair that has Studly or Viral trait.\n• The rabbit breeding perk is multiplicative, so utilize both pens for this.\n• Have enough food all the time.\n\nHaving a third adult/elder animal in the breeding pen does not increase the breeding chance. It is better to have just two for having an extra space for a second baby.\n\nThere is bad luck mitigation, which means that if your breed chance fails five times you get a guaranteed success."
+      },
+      {
+        "name": "​",
+        "value": "Chinchompas can initially be obtained by hunting [Chinchompas](https://runescape.wikia.com/wiki/Chinchompa), [Red chinchompas](https://runescape.wikia.com/wiki/Red_chinchompa), or [Skillchompas](https://runescape.wikia.com/wiki/Skillchompa), or bought from other players. The **PoF Trade FC** friend's chat can be used to trade animals 1:1 for a specific gender."
+      },
+      {
+        "name": "Requirements:",
+        "value": "• 54 Farming\n• 20 Construction\n\n• Completion of the [Player-Owned Farm Tutorial](https://runescape.wikia.com/wiki/Player-owned_farm#Tutorial)"
+      }
+    ],
+    "footer": {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+      "text": "Runescore awarded: 0"
+    }
+  },
+  "skills - farming - cowsworn": {
+    "title": "Cowsworn",
+    "author": {
+      "name": "RuneScore Achievement Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[Cowsworn](https://runescape.wikia.com/wiki/Cowsworn) is an achievement that requires the player to successfully breed a cow with the **Ravensworn** [trait](https://runescape.wikia.com/wiki/Player-owned_farm#Traits) at the [Player-owned farm](https://runescape.wikia.com/wiki/Player-owned_farm).\n\nThis achievement is hidden until unlocked. Players must have unlocked the [the Ravensworn](https://runescape.wikia.com/wiki/The_Ravensworn) title by spotting 13 [ravens](https://runescape.wikia.com/wiki/Raven_(Prifddinas) in [Prifddinas](https://runescape.wikia.com/wiki/Prifddinas) before this achievement is possible.\n\nAnimals can only breed in the adult and elder stages, and the breeding paddock has four slots, so only one male and one female should be placed in the paddock to leave room for two babies. Additionally, players can buy the small, medium, and large pen upgrades from [Granny Potterington](https://runescape.wikia.com/wiki/Granny_Potterington)'s [Farmers Market](https://runescape.wikia.com/wiki/Farmers%27_Market) to allow animal breeding inside them, however, with a lower chance and without failure mitigation. When breeding happens in one of the pens, the player will receive a message based on which directional pen it occurred in.",
+    "thumbnail": {
+      "url": "https://i.imgur.com/Shmagnp.png"
+    },
+    "fields": [
+      {
+        "name": "​",
+        "value": "The breeding chance of a pair of animals will be affected by their stats. If their health and happiness are low, their breeding chance is reduced. Make sure they have food and wait. There are treat items, such as [special honeycombs](https://runescape.wikia.com/wiki/Special_honeycomb) and some kinds of milk ([strawberry](https://runescape.wikia.com/wiki/Strawberry_milk) and [vanilla milk](https://runescape.wikia.com/wiki/Vanilla_milk)), that speed up the process a bit. Diseased animals will not breed. If an animal has the **infertile** trait, it will never breed. Players are able to use the breeding process to create specific baby animals with particular traits."
+      },
+      {
+        "name": "​",
+        "value": "Animals of the same species and same gender may result in offspring as if bred, with the text \"Your animals have decided to raise a child together and have adopted a baby\". This has a much lower overall chance of offspring than a male and female. The bad luck mitigation does not apply to same gender animals.\n\nYou can boost the overall breeding chance by using the [farming totems](https://runescape.wikia.com/wiki/Farm_totem) on small [pens](https://runescape.wikia.com/wiki/Player-owned_farm#Pens) with elder rabbits in them.\n\nThe [master farmer outfit](https://runescape.wikia.com/wiki/Master_farmer_outfit) gives a better chance of positive traits from breeding. The blueprints for the master farmer outfit must first be purchased from Granny Potterington at the Farmers' Market for 1,000 [beans](https://runescape.wikia.com/wiki/Beans)."
+      },
+      {
+        "name": "​",
+        "value": "To maximize breeding efficiency:\n• Get the mating pair 100% happiness with [Delicious honeycomb](https://runescape.wikia.com/wiki/Delicious_honeycomb).\n• Get the mating pair 100% health with [Medicinal honeycomb](https://runescape.wikia.com/wiki/Medicinal_honeycomb).\n• Put a mating pair that has Studly or Viral trait.\n• The rabbit breeding perk is multiplicative, so utilize both pens for this.\n• Have enough food all the time.\n\nHaving a third adult/elder animal in the breeding pen does not increase the breeding chance. It is better to have just two for having an extra space for a second baby.\n\nThere is bad luck mitigation, which means that if your breed chance fails five times you get a guaranteed success."
+      },
+      {
+        "name": "​",
+        "value": "Cows and bulls can initially be obtained by purchasing a cow or bull from Granny Potterington's Farmer's Market or bought from other players. The **PoF Trade FC** friend's chat can be used to trade animals 1:1 for a specific gender."
+      },
+      {
+        "name": "Requirements:",
+        "value": "• 49 Farming\n• 20 Construction\n\n• Completion of the [Player-Owned Farm Tutorial](https://runescape.wikia.com/wiki/Player-owned_farm#Tutorial)"
+      }
+    ],
+    "footer": {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+      "text": "Runescore awarded: 0"
+    }
+  },
+  "skills - farming - dragonsworn": {
+    "title": "Dragonsworn",
+    "author": {
+      "name": "RuneScore Achievement Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[Dragonsworn](https://runescape.wikia.com/wiki/Dragonsworn) is an achievement that requires the player to successfully breed a dragon with the **Ravensworn** [trait](https://runescape.wikia.com/wiki/Player-owned_farm#Traits) at the [Player-owned farm](https://runescape.wikia.com/wiki/Player-owned_farm).\n\nThis achievement is hidden until unlocked. Players must have unlocked the [the Ravensworn](https://runescape.wikia.com/wiki/The_Ravensworn) title by spotting 13 [ravens](https://runescape.wikia.com/wiki/Raven_(Prifddinas) in [Prifddinas](https://runescape.wikia.com/wiki/Prifddinas) before this achievement is possible.\n\nAnimals can only breed in the adult and elder stages, and the breeding paddock has four slots, so only one male and one female should be placed in the paddock to leave room for two babies. Additionally, players can buy the small, medium, and large pen upgrades from [Granny Potterington](https://runescape.wikia.com/wiki/Granny_Potterington)'s [Farmers Market](https://runescape.wikia.com/wiki/Farmers%27_Market) to allow animal breeding inside them, however, with a lower chance and without failure mitigation. When breeding happens in one of the pens, the player will receive a message based on which directional pen it occurred in.",
+    "thumbnail": {
+      "url": "https://i.imgur.com/Shmagnp.png"
+    },
+    "fields": [
+      {
+        "name": "​",
+        "value": "The breeding chance of a pair of animals will be affected by their stats. If their health and happiness are low, their breeding chance is reduced. Make sure they have food and wait. There are treat items, such as [special honeycombs](https://runescape.wikia.com/wiki/Special_honeycomb) and some kinds of milk ([strawberry](https://runescape.wikia.com/wiki/Strawberry_milk) and [vanilla milk](https://runescape.wikia.com/wiki/Vanilla_milk)), that speed up the process a bit. Diseased animals will not breed. If an animal has the **infertile** trait, it will never breed. Players are able to use the breeding process to create specific baby animals with particular traits."
+      },
+      {
+        "name": "​",
+        "value": "Animals of the same species and same gender may result in offspring as if bred, with the text \"Your animals have decided to raise a child together and have adopted a baby\". This has a much lower overall chance of offspring than a male and female. The bad luck mitigation does not apply to same gender animals.\n\nYou can boost the overall breeding chance by using the [farming totems](https://runescape.wikia.com/wiki/Farm_totem) on small [pens](https://runescape.wikia.com/wiki/Player-owned_farm#Pens) with elder rabbits in them.\n\nThe [master farmer outfit](https://runescape.wikia.com/wiki/Master_farmer_outfit) gives a better chance of positive traits from breeding. The blueprints for the master farmer outfit must first be purchased from Granny Potterington at the Farmers' Market for 1,000 [beans](https://runescape.wikia.com/wiki/Beans)."
+      },
+      {
+        "name": "​",
+        "value": "To maximize breeding efficiency:\n• Get the mating pair 100% happiness with [Delicious honeycomb](https://runescape.wikia.com/wiki/Delicious_honeycomb).\n• Get the mating pair 100% health with [Medicinal honeycomb](https://runescape.wikia.com/wiki/Medicinal_honeycomb).\n• Put a mating pair that has Studly or Viral trait.\n• The rabbit breeding perk is multiplicative, so utilize both pens for this.\n• Have enough food all the time.\n\nHaving a third adult/elder animal in the breeding pen does not increase the breeding chance. It is better to have just two for having an extra space for a second baby.\n\nThere is bad luck mitigation, which means that if your breed chance fails five times you get a guaranteed success."
+      },
+      {
+        "name": "​",
+        "value": "Dragons can initially be obtained by killing [Green dragons](https://runescape.wikia.com/wiki/Green_dragon), [Blue dragons](https://runescape.wikia.com/wiki/Blue_dragon), [Red dragons](https://runescape.wikia.com/wiki/Red_dragon), and [Black dragons](https://runescape.wikia.com/wiki/Black_dragon) across [Gielinor](https://runescape.wikia.com/wiki/Gielinor), as well as the [Queen Black Dragon](http://runescape.wikia.com/wiki/Queen_Black_Dragon) or [King Black Dragon](http://runescape.wikia.com/wiki/King_Black_Dragon), or bought from other players. The **PoF Trade FC** friend's chat can be used to trade animals 1:1 for a specific gender."
+      },
+      {
+        "name": "Requirements:",
+        "value": "• 92 Farming\n• 20 Construction\n\n• Completion of the [Player-Owned Farm Tutorial](https://runescape.wikia.com/wiki/Player-owned_farm#Tutorial)"
+      }
+    ],
+    "footer": {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+      "text": "Runescore awarded: 0"
+    }
+  },
+  "skills - farming - rabbitsworn": {
+    "title": "Rabbitsworn",
+    "author": {
+      "name": "RuneScore Achievement Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[Rabbitsworn](https://runescape.wikia.com/wiki/Rabbitsworn) is an achievement that requires the player to successfully breed a rabbit with the **Ravensworn** [trait](https://runescape.wikia.com/wiki/Player-owned_farm#Traits) at the [Player-owned farm](https://runescape.wikia.com/wiki/Player-owned_farm).\n\nThis achievement is hidden until unlocked. Players must have unlocked the [the Ravensworn](https://runescape.wikia.com/wiki/The_Ravensworn) title by spotting 13 [ravens](https://runescape.wikia.com/wiki/Raven_(Prifddinas) in [Prifddinas](https://runescape.wikia.com/wiki/Prifddinas) before this achievement is possible.\n\nAnimals can only breed in the adult and elder stages, and the breeding paddock has four slots, so only one male and one female should be placed in the paddock to leave room for two babies. Additionally, players can buy the small, medium, and large pen upgrades from [Granny Potterington](https://runescape.wikia.com/wiki/Granny_Potterington)'s [Farmers Market](https://runescape.wikia.com/wiki/Farmers%27_Market) to allow animal breeding inside them, however, with a lower chance and without failure mitigation. When breeding happens in one of the pens, the player will receive a message based on which directional pen it occurred in.",
+    "thumbnail": {
+      "url": "https://i.imgur.com/Shmagnp.png"
+    },
+    "fields": [
+      {
+        "name": "​",
+        "value": "The breeding chance of a pair of animals will be affected by their stats. If their health and happiness are low, their breeding chance is reduced. Make sure they have food and wait. There are treat items, such as [special honeycombs](https://runescape.wikia.com/wiki/Special_honeycomb) and some kinds of milk ([strawberry](https://runescape.wikia.com/wiki/Strawberry_milk) and [vanilla milk](https://runescape.wikia.com/wiki/Vanilla_milk)), that speed up the process a bit. Diseased animals will not breed. If an animal has the **infertile** trait, it will never breed. Players are able to use the breeding process to create specific baby animals with particular traits."
+      },
+      {
+        "name": "​",
+        "value": "Animals of the same species and same gender may result in offspring as if bred, with the text \"Your animals have decided to raise a child together and have adopted a baby\". This has a much lower overall chance of offspring than a male and female. The bad luck mitigation does not apply to same gender animals.\n\nYou can boost the overall breeding chance by using the [farming totems](https://runescape.wikia.com/wiki/Farm_totem) on small [pens](https://runescape.wikia.com/wiki/Player-owned_farm#Pens) with elder rabbits in them.\n\nThe [master farmer outfit](https://runescape.wikia.com/wiki/Master_farmer_outfit) gives a better chance of positive traits from breeding. The blueprints for the master farmer outfit must first be purchased from Granny Potterington at the Farmers' Market for 1,000 [beans](https://runescape.wikia.com/wiki/Beans)."
+      },
+      {
+        "name": "​",
+        "value": "To maximize breeding efficiency:\n• Get the mating pair 100% happiness with [Delicious honeycomb](https://runescape.wikia.com/wiki/Delicious_honeycomb).\n• Get the mating pair 100% health with [Medicinal honeycomb](https://runescape.wikia.com/wiki/Medicinal_honeycomb).\n• Put a mating pair that has Studly or Viral trait.\n• The rabbit breeding perk is multiplicative, so utilize both pens for this.\n• Have enough food all the time.\n\nHaving a third adult/elder animal in the breeding pen does not increase the breeding chance. It is better to have just two for having an extra space for a second baby.\n\nThere is bad luck mitigation, which means that if your breed chance fails five times you get a guaranteed success."
+      },
+      {
+        "name": "​",
+        "value": "Rabbits can initially be obtained by killing [Rabits](https://runescape.wikia.com/wiki/Rabbit) across [Gielinor](https://runescape.wikia.com/wiki/Gielinor) or bought from other players. The **PoF Trade FC** friend's chat can be used to trade animals 1:1 for a specific gender."
+      },
+      {
+        "name": "Requirements:",
+        "value": "• 17 Farming\n• 20 Construction\n\n• Completion of the [Player-Owned Farm Tutorial](https://runescape.wikia.com/wiki/Player-owned_farm#Tutorial)"
+      }
+    ],
+    "footer": {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+      "text": "Runescore awarded: 0"
+    }
+},
+  "skills - farming - sheepsworn": {
+    "title": "Sheepsworn",
+    "author": {
+      "name": "RuneScore Achievement Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[Sheepsworn](https://runescape.wikia.com/wiki/Sheepsworn) is an achievement that requires the player to successfully breed a sheep with the **Ravensworn** [trait](https://runescape.wikia.com/wiki/Player-owned_farm#Traits) at the [Player-owned farm](https://runescape.wikia.com/wiki/Player-owned_farm).\n\nThis achievement is hidden until unlocked. Players must have unlocked the [the Ravensworn](https://runescape.wikia.com/wiki/The_Ravensworn) title by spotting 13 [ravens](https://runescape.wikia.com/wiki/Raven_(Prifddinas) in [Prifddinas](https://runescape.wikia.com/wiki/Prifddinas) before this achievement is possible.\n\nAnimals can only breed in the adult and elder stages, and the breeding paddock has four slots, so only one male and one female should be placed in the paddock to leave room for two babies. Additionally, players can buy the small, medium, and large pen upgrades from [Granny Potterington](https://runescape.wikia.com/wiki/Granny_Potterington)'s [Farmers Market](https://runescape.wikia.com/wiki/Farmers%27_Market) to allow animal breeding inside them, however, with a lower chance and without failure mitigation. When breeding happens in one of the pens, the player will receive a message based on which directional pen it occurred in.",
+    "thumbnail": {
+      "url": "https://i.imgur.com/Shmagnp.png"
+    },
+    "fields": [
+      {
+        "name": "​",
+        "value": "The breeding chance of a pair of animals will be affected by their stats. If their health and happiness are low, their breeding chance is reduced. Make sure they have food and wait. There are treat items, such as [special honeycombs](https://runescape.wikia.com/wiki/Special_honeycomb) and some kinds of milk ([strawberry](https://runescape.wikia.com/wiki/Strawberry_milk) and [vanilla milk](https://runescape.wikia.com/wiki/Vanilla_milk)), that speed up the process a bit. Diseased animals will not breed. If an animal has the **infertile** trait, it will never breed. Players are able to use the breeding process to create specific baby animals with particular traits."
+      },
+      {
+        "name": "​",
+        "value": "Animals of the same species and same gender may result in offspring as if bred, with the text \"Your animals have decided to raise a child together and have adopted a baby\". This has a much lower overall chance of offspring than a male and female. The bad luck mitigation does not apply to same gender animals.\n\nYou can boost the overall breeding chance by using the [farming totems](https://runescape.wikia.com/wiki/Farm_totem) on small [pens](https://runescape.wikia.com/wiki/Player-owned_farm#Pens) with elder rabbits in them.\n\nThe [master farmer outfit](https://runescape.wikia.com/wiki/Master_farmer_outfit) gives a better chance of positive traits from breeding. The blueprints for the master farmer outfit must first be purchased from Granny Potterington at the Farmers' Market for 1,000 [beans](https://runescape.wikia.com/wiki/Beans)."
+      },
+      {
+        "name": "​",
+        "value": "To maximize breeding efficiency:\n• Get the mating pair 100% happiness with [Delicious honeycomb](https://runescape.wikia.com/wiki/Delicious_honeycomb).\n• Get the mating pair 100% health with [Medicinal honeycomb](https://runescape.wikia.com/wiki/Medicinal_honeycomb).\n• Put a mating pair that has Studly or Viral trait.\n• The rabbit breeding perk is multiplicative, so utilize both pens for this.\n• Have enough food all the time.\n\nHaving a third adult/elder animal in the breeding pen does not increase the breeding chance. It is better to have just two for having an extra space for a second baby.\n\nThere is bad luck mitigation, which means that if your breed chance fails five times you get a guaranteed success."
+      },
+      {
+        "name": "​",
+        "value": "Sheep can initially be obtained by purchasing an ewe or ram from Granny Potterington's Farmer's Market or bought from other players. The **PoF Trade FC** friend's chat can be used to trade animals 1:1 for a specific gender."
+      },
+      {
+        "name": "Requirements:",
+        "value": "• 35 Farming\n• 20 Construction\n\n• Completion of the [Player-Owned Farm Tutorial](https://runescape.wikia.com/wiki/Player-owned_farm#Tutorial)"
+      }
+    ],
+    "footer": {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+      "text": "Runescore awarded: 0"
+    }
+  },
+  "skills - farming - spidersworn": {
+    "title": "Spidersworn",
+    "author": {
+      "name": "RuneScore Achievement Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[Spidersworn](https://runescape.wikia.com/wiki/Spidersworn) is an achievement that requires the player to successfully breed a spider with the **Ravensworn** [trait](https://runescape.wikia.com/wiki/Player-owned_farm#Traits) at the [Player-owned farm](https://runescape.wikia.com/wiki/Player-owned_farm).\n\nThis achievement is hidden until unlocked. Players must have unlocked the [the Ravensworn](https://runescape.wikia.com/wiki/The_Ravensworn) title by spotting 13 [ravens](https://runescape.wikia.com/wiki/Raven_(Prifddinas) in [Prifddinas](https://runescape.wikia.com/wiki/Prifddinas) before this achievement is possible.\n\nAnimals can only breed in the adult and elder stages, and the breeding paddock has four slots, so only one male and one female should be placed in the paddock to leave room for two babies. Additionally, players can buy the small, medium, and large pen upgrades from [Granny Potterington](https://runescape.wikia.com/wiki/Granny_Potterington)'s [Farmers Market](https://runescape.wikia.com/wiki/Farmers%27_Market) to allow animal breeding inside them, however, with a lower chance and without failure mitigation. When breeding happens in one of the pens, the player will receive a message based on which directional pen it occurred in.",
+    "thumbnail": {
+      "url": "https://i.imgur.com/Shmagnp.png"
+    },
+    "fields": [
+      {
+        "name": "​",
+        "value": "The breeding chance of a pair of animals will be affected by their stats. If their health and happiness are low, their breeding chance is reduced. Make sure they have food and wait. There are treat items, such as [special honeycombs](https://runescape.wikia.com/wiki/Special_honeycomb) and some kinds of milk ([strawberry](https://runescape.wikia.com/wiki/Strawberry_milk) and [vanilla milk](https://runescape.wikia.com/wiki/Vanilla_milk)), that speed up the process a bit. Diseased animals will not breed. If an animal has the **infertile** trait, it will never breed. Players are able to use the breeding process to create specific baby animals with particular traits."
+      },
+      {
+        "name": "​",
+        "value": "Animals of the same species and same gender may result in offspring as if bred, with the text \"Your animals have decided to raise a child together and have adopted a baby\". This has a much lower overall chance of offspring than a male and female. The bad luck mitigation does not apply to same gender animals.\n\nYou can boost the overall breeding chance by using the [farming totems](https://runescape.wikia.com/wiki/Farm_totem) on small [pens](https://runescape.wikia.com/wiki/Player-owned_farm#Pens) with elder rabbits in them.\n\nThe [master farmer outfit](https://runescape.wikia.com/wiki/Master_farmer_outfit) gives a better chance of positive traits from breeding. The blueprints for the master farmer outfit must first be purchased from Granny Potterington at the Farmers' Market for 1,000 [beans](https://runescape.wikia.com/wiki/Beans)."
+      },
+      {
+        "name": "​",
+        "value": "To maximize breeding efficiency:\n• Get the mating pair 100% happiness with [Delicious honeycomb](https://runescape.wikia.com/wiki/Delicious_honeycomb).\n• Get the mating pair 100% health with [Medicinal honeycomb](https://runescape.wikia.com/wiki/Medicinal_honeycomb).\n• Put a mating pair that has Studly or Viral trait.\n• The rabbit breeding perk is multiplicative, so utilize both pens for this.\n• Have enough food all the time.\n\nHaving a third adult/elder animal in the breeding pen does not increase the breeding chance. It is better to have just two for having an extra space for a second baby.\n\nThere is bad luck mitigation, which means that if your breed chance fails five times you get a guaranteed success."
+      },
+      {
+        "name": "​",
+        "value": "Spiders can initially be obtained by killing [Spiders](https://runescape.wikia.com/wiki/Spider) across [Gielinor](https://runescape.wikia.com/wiki/Gielinor), up to and including the [Araxxor](https://runescape.wikia.com/wiki/Araxxor) boss, or bought from other players. The **PoF Trade FC** friend's chat can be used to trade animals 1:1 for a specific gender."
+      },
+      {
+        "name": "Requirements:",
+        "value": "• 64 Farming\n• 20 Construction\n\n• Completion of the [Player-Owned Farm Tutorial](https://runescape.wikia.com/wiki/Player-owned_farm#Tutorial)"
+      }
+    ],
+    "footer": {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+      "text": "Runescore awarded: 0"
+    }
+  },
+  "skills - farming - yaksworn": {
+    "title": "Yaksworn",
+    "author": {
+      "name": "RuneScore Achievement Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[Yaksworn](https://runescape.wikia.com/wiki/Yaksworn) is an achievement that requires the player to successfully breed a yak with the **Ravensworn** [trait](https://runescape.wikia.com/wiki/Player-owned_farm#Traits) at the [Player-owned farm](https://runescape.wikia.com/wiki/Player-owned_farm).\n\nThis achievement is hidden until unlocked. Players must have unlocked the [the Ravensworn](https://runescape.wikia.com/wiki/The_Ravensworn) title by spotting 13 [ravens](https://runescape.wikia.com/wiki/Raven_(Prifddinas) in [Prifddinas](https://runescape.wikia.com/wiki/Prifddinas) before this achievement is possible.\n\nAnimals can only breed in the adult and elder stages, and the breeding paddock has four slots, so only one male and one female should be placed in the paddock to leave room for two babies. Additionally, players can buy the small, medium, and large pen upgrades from [Granny Potterington](https://runescape.wikia.com/wiki/Granny_Potterington)'s [Farmers Market](https://runescape.wikia.com/wiki/Farmers%27_Market) to allow animal breeding inside them, however, with a lower chance and without failure mitigation. When breeding happens in one of the pens, the player will receive a message based on which directional pen it occurred in.",
+    "thumbnail": {
+      "url": "https://i.imgur.com/Shmagnp.png"
+    },
+    "fields": [
+      {
+        "name": "​",
+        "value": "The breeding chance of a pair of animals will be affected by their stats. If their health and happiness are low, their breeding chance is reduced. Make sure they have food and wait. There are treat items, such as [special honeycombs](https://runescape.wikia.com/wiki/Special_honeycomb) and some kinds of milk ([strawberry](https://runescape.wikia.com/wiki/Strawberry_milk) and [vanilla milk](https://runescape.wikia.com/wiki/Vanilla_milk)), that speed up the process a bit. Diseased animals will not breed. If an animal has the **infertile** trait, it will never breed. Players are able to use the breeding process to create specific baby animals with particular traits."
+      },
+      {
+        "name": "​",
+        "value": "Animals of the same species and same gender may result in offspring as if bred, with the text \"Your animals have decided to raise a child together and have adopted a baby\". This has a much lower overall chance of offspring than a male and female. The bad luck mitigation does not apply to same gender animals.\n\nYou can boost the overall breeding chance by using the [farming totems](https://runescape.wikia.com/wiki/Farm_totem) on small [pens](https://runescape.wikia.com/wiki/Player-owned_farm#Pens) with elder rabbits in them.\n\nThe [master farmer outfit](https://runescape.wikia.com/wiki/Master_farmer_outfit) gives a better chance of positive traits from breeding. The blueprints for the master farmer outfit must first be purchased from Granny Potterington at the Farmers' Market for 1,000 [beans](https://runescape.wikia.com/wiki/Beans)."
+      },
+      {
+        "name": "​",
+        "value": "To maximize breeding efficiency:\n• Get the mating pair 100% happiness with [Delicious honeycomb](https://runescape.wikia.com/wiki/Delicious_honeycomb).\n• Get the mating pair 100% health with [Medicinal honeycomb](https://runescape.wikia.com/wiki/Medicinal_honeycomb).\n• Put a mating pair that has Studly or Viral trait.\n• The rabbit breeding perk is multiplicative, so utilize both pens for this.\n• Have enough food all the time.\n\nHaving a third adult/elder animal in the breeding pen does not increase the breeding chance. It is better to have just two for having an extra space for a second baby.\n\nThere is bad luck mitigation, which means that if your breed chance fails five times you get a guaranteed success."
+      },
+      {
+        "name": "​",
+        "value": "Yaks can initially be obtained by killing [Yaks](https://runescape.wikia.com/wiki/Yak) across [Gielinor](https://runescape.wikia.com/wiki/Gielinor), while infusing [Pack yak pouches](https://runescape.wikia.com/wiki/Pack_yak_pouch) at level 96 summoning or above (must have a free inventory space), or bought from other players. The **PoF Trade FC** friend's chat can be used to trade animals 1:1 for a specific gender."
+      },
+      {
+        "name": "Requirements:",
+        "value": "• 71 Farming\n• 20 Construction\n\n• Completion of the [Player-Owned Farm Tutorial](https://runescape.wikia.com/wiki/Player-owned_farm#Tutorial)"
+      }
+    ],
+    "footer": {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+      "text": "Runescore awarded: 0"
+    }
+  },
+  "skills - farming - zygomitesworn": {
+    "title": "Zygomitesworn",
+    "author": {
+      "name": "RuneScore Achievement Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[Zygomitesworn](https://runescape.wikia.com/wiki/Zygomitesworn) is an achievement that requires the player to successfully breed a zygomite with the **Ravensworn** [trait](https://runescape.wikia.com/wiki/Player-owned_farm#Traits) at the [Player-owned farm](https://runescape.wikia.com/wiki/Player-owned_farm).\n\nThis achievement is hidden until unlocked. Players must have unlocked the [the Ravensworn](https://runescape.wikia.com/wiki/The_Ravensworn) title by spotting 13 [ravens](https://runescape.wikia.com/wiki/Raven_(Prifddinas) in [Prifddinas](https://runescape.wikia.com/wiki/Prifddinas) before this achievement is possible.\n\nAnimals can only breed in the adult and elder stages, and the breeding paddock has four slots, so only one male and one female should be placed in the paddock to leave room for two babies. Additionally, players can buy the small, medium, and large pen upgrades from [Granny Potterington](https://runescape.wikia.com/wiki/Granny_Potterington)'s [Farmers Market](https://runescape.wikia.com/wiki/Farmers%27_Market) to allow animal breeding inside them, however, with a lower chance and without failure mitigation. When breeding happens in one of the pens, the player will receive a message based on which directional pen it occurred in.",
+    "thumbnail": {
+      "url": "https://i.imgur.com/Shmagnp.png"
+    },
+    "fields": [
+      {
+        "name": "​",
+        "value": "The breeding chance of a pair of animals will be affected by their stats. If their health and happiness are low, their breeding chance is reduced. Make sure they have food and wait. There are treat items, such as [special honeycombs](https://runescape.wikia.com/wiki/Special_honeycomb) and some kinds of milk ([strawberry](https://runescape.wikia.com/wiki/Strawberry_milk) and [vanilla milk](https://runescape.wikia.com/wiki/Vanilla_milk)), that speed up the process a bit. Diseased animals will not breed. If an animal has the **infertile** trait, it will never breed. Players are able to use the breeding process to create specific baby animals with particular traits."
+      },
+      {
+        "name": "​",
+        "value": "Animals of the same species and same gender may result in offspring as if bred, with the text \"Your animals have decided to raise a child together and have adopted a baby\". This has a much lower overall chance of offspring than a male and female. The bad luck mitigation does not apply to same gender animals.\n\nYou can boost the overall breeding chance by using the [farming totems](https://runescape.wikia.com/wiki/Farm_totem) on small [pens](https://runescape.wikia.com/wiki/Player-owned_farm#Pens) with elder rabbits in them.\n\nThe [master farmer outfit](https://runescape.wikia.com/wiki/Master_farmer_outfit) gives a better chance of positive traits from breeding. The blueprints for the master farmer outfit must first be purchased from Granny Potterington at the Farmers' Market for 1,000 [beans](https://runescape.wikia.com/wiki/Beans)."
+      },
+      {
+        "name": "​",
+        "value": "To maximize breeding efficiency:\n• Get the mating pair 100% happiness with [Delicious honeycomb](https://runescape.wikia.com/wiki/Delicious_honeycomb).\n• Get the mating pair 100% health with [Medicinal honeycomb](https://runescape.wikia.com/wiki/Medicinal_honeycomb).\n• Put a mating pair that has Studly or Viral trait.\n• The rabbit breeding perk is multiplicative, so utilize both pens for this.\n• Have enough food all the time.\n\nHaving a third adult/elder animal in the breeding pen does not increase the breeding chance. It is better to have just two for having an extra space for a second baby.\n\nThere is bad luck mitigation, which means that if your breed chance fails five times you get a guaranteed success."
+      },
+      {
+        "name": "​",
+        "value": "Zygomites can initially be obtained by harvesting [Bittercap mushrooms](https://runescape.wikia.com/wiki/Bittercap_mushroom) or [Morchella mushrooms](https://runescape.wikia.com/wiki/Morchella_mushroom) across [Gielinor](https://runescape.wikia.com/wiki/Gielinor), harvesting [Mushroom clusters](https://runescape.wikia.com/wiki/Mushroom_cluster) on [The Arc](https://runescape.wikia.com/wiki/The_Arc), or bought from other players. Note that mushroom clusters on [Uncharted Isles](https://runescape.wikia.com/wiki/Uncharted_Isles) have a 1/400 chance of providing a zygomite, while the named island's clusters only provide 1/4,000. The **PoF Trade FC** friend's chat can be used to trade animals 1:1 for a specific gender."
+      },
+      {
+        "name": "Requirements:",
+        "value": "• 81 Farming\n• 20 Construction\n\n• Completion of the [Player-Owned Farm Tutorial](https://runescape.wikia.com/wiki/Player-owned_farm#Tutorial)"
+      }
+    ],
+    "footer": {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+      "text": "Runescore awarded: 0"
+    }
+  },
+  "skills - farming - bad egg": {
+    "title": "Bad Egg",
+    "author": {
+      "name": "RuneScore Achievement Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[Bad Egg](https://runescape.wikia.com/wiki/Chickensworn) is an achievement that requires the player to successfully breed a chicken with the **evil** [trait](https://runescape.wikia.com/wiki/Player-owned_farm#Traits) at the [Player-owned farm](https://runescape.wikia.com/wiki/Player-owned_farm).\n\nThis achievement is hidden until unlocked.\n\nThis will be completed automatically upon birth, even while in egg form inside your breeding pen with the necessary trait.\n\nAnimals can only breed in the adult and elder stages, and the breeding paddock has four slots, so only one male and one female should be placed in the paddock to leave room for two babies. Additionally, players can buy the small, medium, and large pen upgrades from [Granny Potterington](https://runescape.wikia.com/wiki/Granny_Potterington)'s [Farmers Market](https://runescape.wikia.com/wiki/Farmers%27_Market) to allow animal breeding inside them, however, with a lower chance and without failure mitigation. When breeding happens in one of the pens, the player will receive a message based on which directional pen it occurred in.",
+    "thumbnail": {
+      "url": "https://i.imgur.com/Shmagnp.png"
+    },
+    "fields": [
+      {
+        "name": "​",
+        "value": "The breeding chance of a pair of animals will be affected by their stats. If their health and happiness are low, their breeding chance is reduced. Make sure they have food and wait. There are treat items, such as [special honeycombs](https://runescape.wikia.com/wiki/Special_honeycomb) and some kinds of milk ([strawberry](https://runescape.wikia.com/wiki/Strawberry_milk) and [vanilla milk](https://runescape.wikia.com/wiki/Vanilla_milk)), that speed up the process a bit. Diseased animals will not breed. If an animal has the **infertile** trait, it will never breed. Players are able to use the breeding process to create specific baby animals with particular traits."
+      },
+      {
+        "name": "​",
+        "value": "Animals of the same species and same gender may result in offspring as if bred, with the text \"Your animals have decided to raise a child together and have adopted a baby\". This has a much lower overall chance of offspring than a male and female. The bad luck mitigation does not apply to same gender animals.\n\nYou can boost the overall breeding chance by using the [farming totems](https://runescape.wikia.com/wiki/Farm_totem) on small [pens](https://runescape.wikia.com/wiki/Player-owned_farm#Pens) with elder rabbits in them.\n\nThe [master farmer outfit](https://runescape.wikia.com/wiki/Master_farmer_outfit) gives a better chance of positive traits from breeding. The blueprints for the master farmer outfit must first be purchased from Granny Potterington at the Farmers' Market for 1,000 [beans](https://runescape.wikia.com/wiki/Beans)."
+      },
+      {
+        "name": "​",
+        "value": "To maximize breeding efficiency:\n• Get the mating pair 100% happiness with [Delicious honeycomb](https://runescape.wikia.com/wiki/Delicious_honeycomb).\n• Get the mating pair 100% health with [Medicinal honeycomb](https://runescape.wikia.com/wiki/Medicinal_honeycomb).\n• Put a mating pair that has Studly or Viral trait.\n• The rabbit breeding perk is multiplicative, so utilize both pens for this.\n• Have enough food all the time.\n\nHaving a third adult/elder animal in the breeding pen does not increase the breeding chance. It is better to have just two for having an extra space for a second baby.\n\nThere is bad luck mitigation, which means that if your breed chance fails five times you get a guaranteed success."
+      },
+      {
+        "name": "​",
+        "value": "Hens and roosters can initially be obtained by purchasing an egg from Granny Potterington's Farmer's Market or bought from other players. The **PoF Trade FC** friend's chat can be used to trade animals 1:1 for a specific gender."
+      },
+      {
+        "name": "Requirements:",
+        "value": "• 28 Farming\n• 20 Construction\n\n• Completion of the [Player-Owned Farm Tutorial](https://runescape.wikia.com/wiki/Player-owned_farm#Tutorial)"
+      }
+    ],
+    "footer": {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+      "text": "Runescore awarded: 0"
+    }
+  },
   "skills - fishing - boosted animal": {
     "title": "Boosted Animal",
     "author": {
