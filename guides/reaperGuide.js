@@ -1460,8 +1460,12 @@ exports.data = {
                 {
                     "name": "Phase 3 (Outside Only!):",
                     "value": "As soon as the team is close to the green circle, click to cleanse so that everyone's stacks get reset to 0.\n\nWhen Solak stands up, use anticipate and prepare to use a [stun](https://runescape.wikia.com/wiki/Stun) in 2 abilities. ~50% of the team has to stun Solak or an increasing bleed will damage the team. It has a voice-over cue.\n\nThe tank will start charging the second sigil and you'll want to take a couple steps towards the tank so you do not get dragged as Solak moves.\n\nOnslaught after your first sunshine; this will usually happen during the second shake.\n\nAfter the second shake, 3 members of the team will get targeted with blight bombs. These bombs create roots between the 3 people when they go off, meaning they need to get away from the DPS pile. For these bombs, you want to make sure you anticipate before using resonance as its always followed up by getting stunned.\n\nRepeat this until Solak is at 800k life points and Erethdor is dead.\n\nMake sure Solak has 10 shards."
-                },
-                {
+                }
+      ]
+    },
+    "solak, the grove guardian pt3": {
+      "fields": [
+      {
                     "name": "Phase 4 (Outside Only!):",
                     "value": "Run north behind Solak so the team is grouped up in a pile. Use [natural instinct](https://runescape.wikia.com/wiki/Natural_Instinct) as the red message pops up, build back up to 100% adrenaline, and use sunshine + Adrenaline potion while you do a sunshine rotation.\n\n**Make sure you [Asphyxiate](https://runescape.wikia.com/wiki/Asphyxiate)** or a [stun](https://runescape.wikia.com/wiki/Stun) for your style. If you do not, the team will get hit with 11k damage to each player.\n\nWhen you get a bar over your head, use [reprisal](https://runescape.wikia.com/wiki/Reprisal) and make sure you are 9k+ life points and activate Soul Split. You will get hit by both blight bombs causing 9k in damage and a massive reprisal hit. If you are melee and [berserk](https://runescape.wikia.com/wiki/Berserk) late, when you see bomb, step out or you will be instakilled."
                 },

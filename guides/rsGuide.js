@@ -5834,7 +5834,7 @@ exports.data = {
     },
 "timestamp": "2001-01-04T12:00:00Z"
   },
-  "miscellaneous - general - great gielinor run": {
+  "miscellaneous - general - great gielinor run pt1": {
     "title": "Great Gielinor Run",
     "author": {
       "name": "RuneScore Achievement Info",
@@ -5868,7 +5868,11 @@ exports.data = {
       {
         "name": "​",
         "value": "• Step over tripwire to the north.\n• Run east through trees to the entrance of the [Arandar pass](https://runescape.wikia.com/wiki/Arandar).\n• Follow the path over the Arandar pass. Shortcuts can be used as well.\n• Go through the big gates and run east.\n• Cross the first bridge north of [East Ardougne](https://runescape.wikia.com/wiki/East_Ardougne).\n• Go north-east to southern corner of the [Ranging Guild](https://runescape.wikia.com/wiki/Ranging_Guild).\n• Go east to [Catherby](https://runescape.wikia.com/wiki/Catherby).\n• Enter the cave east of the farming patches, and run below [White Wolf Mountain](https://runescape.wikia.com/wiki/White_Wolf_Mountain) to the exit in [Taverley](https://runescape.wikia.com/wiki/Taverley). This requires completion of [Fishing Contest](https://runescape.wikia.com/wiki/Fishing_Contest). Alternatively, one can use the grappling hook shortcut from Catherby to Taverley, east of the fruit tree farming patch and then run east to exit Taverley."
-      },
+      }
+      ]
+    },
+  "miscellaneous - general - great gielinor run pt2": {
+      "fields": [
       {
         "name": "​",
         "value": "• Go south-east to the eastern exit of Taverley.\n• Go all the way east to [Varrock](https://runescape.wikia.com/wiki/Varrock), through [Barbarian Village](https://runescape.wikia.com/wiki/Barbarian_Village).\n• Go through Varrock to the eastern gate.\n• Exit through the eastern gate and go north-east to [Paterdomus](https://runescape.wikia.com/wiki/Paterdomus).\n• Use the Saradomin statue shortcut to cross the [river Salve](https://runescape.wikia.com/wiki/River_Salve).\n• Go south, and open the gate to enter [Mort Myre Swamp](https://runescape.wikia.com/wiki/Mort_Myre_Swamp). If the shortcut from Temple Trekking is enabled then a warning will be shown to disable the shortcut before going further, as using this shortcut will disqualify the player for this challenge.\n• Go all the way south through the Swamp.\n• Go to Burgh de Rott.\n• Go south-east to the boat shack.\n• Use the boat to travel to [Meiyerditch](https://runescape.wikia.com/wiki/Meiyerditch)."

@@ -316,15 +316,11 @@ exports.data = {
       }
       ]
   },
-  "perks": {
+  "perks pt1": {
     "title": "Invention Perks",
     "description": "Perks are effects added to weapons, armour, or tools with Invention. They are created by combining [materials](https://runescape.wikia.com/wiki/Materials) inside a [gizmo shell](https://runescape.wikia.com/wiki/Gizmo). The resulting gizmo is attached to an item that has been [augmented](https://runescape.wikia.com/wiki/Augmentation) with an [augmentor](https://runescape.wikia.com/wiki/Augmentor).\n\nPerks are created within three types of gizmo shells (weapon, armour and tool). Perks can be specific to a gizmo shell type or can be used in two or more gizmo shell types. ",
     "url": "https://runescape.wikia.com/wiki/Perks",
     "color": 12269891,
-    "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
-      "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
-    },
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/b/be/Gizmo_materials.png/revision/latest/scale-to-width-down/180?cb=20161205174910"
     },
@@ -384,11 +380,20 @@ exports.data = {
       { 
         "name": "Best in Slot Skilling Perks - Smithing",
         "value": "\t• Perk Slot 1: [Tinker 3](https://runescape.wikia.com/wiki/Tinker)\n\t• Components: 5x [Fungal](https://runescape.wikia.com/wiki/Fungal_components)\n\n\t• Perk Slot 2: [Rapid 3](https://runescape.wikia.com/wiki/Rapid)\n\t• Components: 5x [Shifting](https://runescape.wikia.com/wiki/Shifting_components)"
-      },
+      }
+      ]
+    },
+  "perks pt2": {
+      "fields": [
       { 
         "name": "Best in Slot Skilling Perks - Firemaking",
         "value": "\t• Perk Slot 1: [Tinker 3](https://runescape.wikia.com/wiki/Tinker)\n\t• Components: 5x [Fungal](https://runescape.wikia.com/wiki/Fungal_components)\n\n\t• Perk Slot 2: [Pyromaniac 5](https://runescape.wikia.com/wiki/Pyromaniac)\n\t• Components: 5x [Light](https://runescape.wikia.com/wiki/Light_components)"
       }
-    ]
+    ],
+    "footer": {
+      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
+    },
+    "timestamp": "2001-01-04T12:00:00Z"
   }
 };
