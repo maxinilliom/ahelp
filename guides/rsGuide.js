@@ -9305,7 +9305,7 @@ exports.data = {
       "text": "Runescore awarded: 0"
     }
   },
-  "skills - farming - you had a sheep": {
+  "skills - farming - you had a sheep pt1": {
     "title": "You Had a Sheep",
     "author": {
       "name": "RuneScore Achievement Info",
@@ -9335,10 +9335,14 @@ exports.data = {
       {
         "name": "​",
         "value": "To maximize breeding efficiency:\n• Get the mating pair 100% happiness with [Delicious honeycomb](https://runescape.wikia.com/wiki/Delicious_honeycomb).\n• Get the mating pair 100% health with [Medicinal honeycomb](https://runescape.wikia.com/wiki/Medicinal_honeycomb).\n• Put a mating pair that has Studly or Viral trait.\n• The rabbit breeding perk is multiplicative, so utilize both pens for this.\n• Have enough food all the time.\n\nHaving a third adult/elder animal in the breeding pen does not increase the breeding chance. It is better to have just two for having an extra space for a second baby.\n\nInterbreeding of the variants of the same species is possible. For example, a Common rabbit and a Piscatorian rabbit could give a Common rabbit or a Piscatorian rabbit. Breeding variants of different species is also possible. For example, two Rellekkan rabbits could give a Piscatorian rabbit as a baby.\n\nThere is bad luck mitigation, which means that if your breed chance fails five times you get a guaranteed success."
-      },
+      }
+      ]
+    },
+  "skills - farming - you had a sheep pt2": {
+      "fields": [
       {
         "name": "​",
-        "value": "Sheep can initially be obtained by purchasing an ewe or ram from Granny Potterington's Farmer's Market or bought from other players. The **PoF Trade FC** friend's chat can be used to trade animals 1:1 for a specific gender."
+        "value": "Sheep can initially be obtained by purchasing a ewe or ram from Granny Potterington's Farmer's Market or bought from other players. The **PoF Trade FC** friend's chat can be used to trade animals 1:1 for a specific gender."
       },
       {
         "name": "Requirements:",
@@ -9348,7 +9352,8 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
       "text": "Runescore awarded: 0"
-    }
+    },
+    "timestamp": "2001-01-04T12:00:00Z"
   },
   "skills - farming - you had a spider": {
     "title": "You Had a Spider",
