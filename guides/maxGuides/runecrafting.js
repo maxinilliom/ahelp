@@ -242,7 +242,7 @@ exports.data = {
       },
       {
         "name": "▬▬ Waiko Reward Shop ▬▬",
-        "value": "The [Waiko Reward Shop](http://runescape.wikia.com/wiki/Waiko_Reward_Shop#Consumables) is a shop located on the [Waiko](http://runescape.wikia.com/wiki/Waiko) island in [The Arc](http://runescape.wikia.com/wiki/The_Arc) region and is run by [Boni](http://runescape.wikia.com/wiki/Boni_(rewards). Players must complete the [Impressing the Locals](http://runescape.wikia.com/wiki/Impressing_the_Locals) quest in order to access The Arc. The Waiko Reward Shop only accepts a combination of [Chimes](http://runescape.wikia.com/wiki/Chimes) and [Taijitu](http://runescape.wikia.com/wiki/Taijitu) as currency. Players can buy Agility skill specific lamps from the shop for chimes. The available lamp sizes and cost are:\n\n\t• [Small XP Lamp]() for 1,700 chimes\n\t• [Medium XP Lamp]() for 2,500 chimes\n\t• [Large XP Lamp]() for 3,300 chimes, and a\n\t• [Huge XP Lamp]() for 6,400 chimes"
+        "value": "The [Waiko Reward Shop](http://runescape.wikia.com/wiki/Waiko_Reward_Shop#Consumables) is a shop located on the [Waiko](http://runescape.wikia.com/wiki/Waiko) island in [The Arc](http://runescape.wikia.com/wiki/The_Arc) region and is run by [Boni](http://runescape.wikia.com/wiki/Boni_(rewards). Players must complete the [Impressing the Locals](http://runescape.wikia.com/wiki/Impressing_the_Locals) quest in order to access The Arc. The Waiko Reward Shop only accepts a combination of [Chimes](http://runescape.wikia.com/wiki/Chimes) and [Taijitu](http://runescape.wikia.com/wiki/Taijitu) as currency. Players can buy Runecrafting skill specific lamps from the shop for chimes. The available lamp sizes and cost are:\n\n\t• [Small XP Lamp](https://runescape.wikia.com/wiki/Small_XP_lamp_(The_Arc) for 1,700 chimes\n\t• [Medium XP Lamp](https://runescape.wikia.com/wiki/Medium_XP_lamp_(The_Arc) for 2,500 chimes\n\t• [Large XP Lamp](https://runescape.wikia.com/wiki/Large_XP_lamp_(The_Arc) for 3,300 chimes, and a\n\t• [Huge XP Lamp](https://runescape.wikia.com/wiki/Huge_XP_lamp_(The_Arc) for 6,400 chimes."
       },
       {
         "name": "​",
@@ -456,7 +456,7 @@ exports.data = {
       },
       {
         "name": "Wicked Robes",
-        "value": "• The [Wicked Robes](http://runescape.wikia.com/wiki/Wicked_robes) set consists of the hood, cape, legs and robe top. The [Wicked Hood(http://runescape.wikia.com/wiki/Wicked_hood) can be obtained for free from [Tam McGrubor](http://runescape.wikia.com/wiki/Tam_McGrubor) in [Burthorpe](http://oldschoolrunescape.wikia.com/wiki/Burthorpe) and gives the following benefits:\n\t• Unlimited teleports to the Wizards' Tower\n\t• 100 rune essence can be withdrawed per day\n\t• Can withdraw either 100 air, water, earth, fire, mind or body runes, or 5 chaos, death, cosmic, law, nature, astral, blood or soul runes, once per day*\n\t• Can act as a tiara of any runecrafting altar*\n\t• Grants two teleports to any Runecrafting altar per day*\n\n*as long as the corresponding talisman/tiara is fed to the hood\nFeeding an elemental talisman to the hood gives one additional rune widthdrawal per day.\nFeeding an omni-talisman to the hood changes the widthdrawed essence type from rune to pure permanently."
+        "value": "• The [Wicked Robes](http://runescape.wikia.com/wiki/Wicked_robes) set consists of the hood, cape, legs and robe top. The [Wicked Hood](http://runescape.wikia.com/wiki/Wicked_hood) can be obtained for free from [Tam McGrubor](http://runescape.wikia.com/wiki/Tam_McGrubor) in [Burthorpe](http://oldschoolrunescape.wikia.com/wiki/Burthorpe) and gives the following benefits:\n\t• Unlimited teleports to the Wizards' Tower\n\t• 100 rune essence can be withdrawed per day\n\t• Can withdraw either 100 air, water, earth, fire, mind or body runes, or 5 chaos, death, cosmic, law, nature, astral, blood or soul runes, once per day*\n\t• Can act as a tiara of any runecrafting altar*\n\t• Grants two teleports to any Runecrafting altar per day*\n\n*as long as the corresponding talisman/tiara is fed to the hood\nFeeding an elemental talisman to the hood gives one additional rune widthdrawal per day.\nFeeding an omni-talisman to the hood changes the widthdrawed essence type from rune to pure permanently."
       },
             {
         "name": "​",
@@ -479,7 +479,7 @@ exports.data = {
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "thumbnail": {
-      "url": "https://vignette.wikia.nocookie.net/runescape2/images/6/6a/Summer_pie_detail.png/revision/latest?cb=20111129085248"
+      "url": "https://vignette.wikia.nocookie.net/runescape2/images/9/98/Abyssal_titan.png/revision/latest?cb=20130414201602"
     },
     "author": {
       "name": "Max Cape Info",
