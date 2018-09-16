@@ -8683,7 +8683,7 @@ exports.data = {
         {
           "inline": true,                
           "name": "Beans Awarded:",
-          "value": "• 25 beans (10%)• 50 beans (20%)\n• 250 beans (100%)\n• 213 beans (85%)\n• 175 beans (70%)"
+          "value": "• 25 beans (10%)\n• 50 beans (20%)\n• 250 beans (100%)\n• 213 beans (85%)\n• 175 beans (70%)"
         }
       ]
     },
