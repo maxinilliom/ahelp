@@ -1,4 +1,34 @@
 exports.data = {
+  "break1": {
+    "files": [{
+      "attachment": "media/img/info/affiliate/break.png",
+      "name": "break.png"
+    }]
+  },
+  "affheader": {
+    "files": [{
+      "attachment": "media/img/info/affiliate/affheader.jpg",
+      "name": "Affiliate header.jpg"
+    }]
+  },
+  "break2": {
+    "files": [{
+      "attachment": "media/img/info/affiliate/break.png",
+      "name": "break.png"
+    }]
+  },
+  "afftitle": {
+    "files": [{
+      "attachment": "media/img/info/affiliate/afftitle.jpg",
+      "name": "Affiliate header.jpg"
+    }]
+  },
+  "break3": {
+    "files": [{
+      "attachment": "media/img/info/affiliate/break.png",
+      "name": "break.png"
+    }]
+  },
     "A Cuddle Of Red Pandas": {
     "title": "A Cuddle of Red Pandas",
     "description":"A Cuddle of Pandas is a discord is a social-based server where players can chill and chat while playing Runescape. ",
@@ -991,5 +1021,11 @@ exports.data = {
         "value": "<@138289815182508033>"
       }
       ]
-  }
+  },
+  "break4": {
+    "files": [{
+      "attachment": "media/img/info/affiliate/break.png",
+      "name": "break.png"
+    }]
+  },
 };

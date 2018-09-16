@@ -23,6 +23,12 @@ exports.data = {
       "name": "Role information.png"
     }]
   },
+  "break3": {
+    "files": [{
+      "attachment": "media/img/info/role/break.png",
+      "name": "break.png"
+    }]
+  },
     "staff assigned roles": {
     "title": "Staff Assigned Roles",
     "description":"Achievement Help is a friendly community for those looking to complete and help each other with all kinds of achievements. The following roles **may not** be self assigned, as they represent achievements earned in game or inside the discord.",
@@ -61,7 +67,7 @@ exports.data = {
       }      
       ]
   },
-  "break3": {
+  "break4": {
     "files": [{
       "attachment": "media/img/info/role/break.png",
       "name": "break.png"
@@ -73,7 +79,7 @@ exports.data = {
       "name": "Runescape notify roles.png"
     }]
   },
-  "break4": {
+  "break5": {
     "files": [{
       "attachment": "media/img/info/role/break.png",
       "name": "break.png"
@@ -132,7 +138,7 @@ exports.data = {
       "text": "Achievement Help | Making information more easily available!"
       }
     },
-  "break5": {
+  "break6": {
     "files": [{
       "attachment": "media/img/info/role/break.png",
       "name": "break.png"
@@ -144,7 +150,7 @@ exports.data = {
       "name": "Deep sea fishing notify roles.png"
     }]
   },
-  "break6": {
+  "break7": {
     "files": [{
       "attachment": "media/img/info/role/break.png",
       "name": "break.png"
@@ -176,7 +182,7 @@ exports.data = {
       }
       ]
   },
-  "break7": {
+  "break8": {
     "files": [{
       "attachment": "media/img/info/role/break.png",
       "name": "break.png"
@@ -188,7 +194,7 @@ exports.data = {
       "name": "Discord notify roles.png"
     }]
   },
-  "break8": {
+  "break9": {
     "files": [{
       "attachment": "media/img/info/role/break.png",
       "name": "break.png"
@@ -216,7 +222,7 @@ exports.data = {
       }
       ]
   },
-  "break9": {
+  "break10": {
     "files": [{
       "attachment": "media/img/info/role/break.png",
       "name": "break.png"
