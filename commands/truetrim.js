@@ -28,7 +28,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
     };
 	const cats = ["dnds", "minigames", "miscellaneous", "unlockables"];
 
-	if (message.channel.id !== '407919969712603145' && level < 2) return;
+//	if (message.channel.id !== '407919969712603145' && level < 2) return;
 
 	Object.getOwnPropertyNames(data).forEach(k => {
 		if (k !== "help" && k !== "search") {

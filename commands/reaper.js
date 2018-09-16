@@ -13,7 +13,7 @@ exports.run = async (client, message, args, level) => {
       };
     if (guideName.includes("solak")) footer.text = "Check #reaper-request-list for information about leeching services and discounts.";
 
-	if (message.channel.id !== '407919969712603145' && level < 2) return;
+//	if (message.channel.id !== '407919969712603145' && level < 2) return;
 
 	Object.getOwnPropertyNames(data).forEach(k => {
 		if (k !== "help" && k !== "search") keyList.push(k);
@@ -144,9 +144,9 @@ exports.run = async (client, message, args, level) => {
 
 exports.conf = {
   enabled: true,
-  guildOnly: false,
+  guildOnly: true,
   aliases: ["boss"],
-  permLevel: "Administrator",
+  permLevel: "User",
   guilds: []
 };
 

@@ -23,7 +23,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 	const name = "Master Quest Cape Info";
 	const color = 8113151;
 
-	if (message.channel.id !== '407919969712603145' && level < 2) return;
+//	if (message.channel.id !== '407919969712603145' && level < 2) return;
 
 	Object.getOwnPropertyNames(data).forEach(k => {
 		if (data[k].cmds.includes("mqc")) keyList.push(k);

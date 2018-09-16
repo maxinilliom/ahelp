@@ -11,7 +11,7 @@ exports.run = async (client, message, args, level) => {
         "text": "Money, money, money, Lovely money!"
       };
 
-	if (message.channel.id !== '407919969712603145' && level < 2) return;
+//	if (message.channel.id !== '407919969712603145' && level < 2) return;
 
 	Object.getOwnPropertyNames(data).forEach(k => {
 		if (k !== "help" && k !== "search") keyList.push(k);
@@ -117,7 +117,7 @@ exports.conf = {
   enabled: true,
   guildOnly: false,
   aliases: [],
-  permLevel: "Administrator",
+  permLevel: "User",
   guilds: []
 };
 

@@ -23,7 +23,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 	const name = "Trimmed Completionist Cape Info";
 	const color = 16430082;
 
-	if (message.channel.id !== '407919969712603145' && level < 2) return;
+//	if (message.channel.id !== '407919969712603145' && level < 2) return;
 
 	Object.getOwnPropertyNames(data).forEach(k => {
 		if (data[k].cmds.includes("trim")) keyList.push(k);
