@@ -126,7 +126,7 @@ exports.run = async (client, message, [skill, ...args], level) => { // eslint-di
 			break;
 		case 'Summoning': footer["icon_url"] = "https://i.imgur.com/my5cDbl.png";
 			break;
-		case 'Thieving': footer["icon_url"] = "https://i.imgur.com/my5cDbl.png";
+		case 'Thieving': footer["icon_url"] = "https://i.imgur.com/aI7zn8u.png";
 			break;
 		case 'Woodcutting': footer["icon_url"] = "https://i.imgur.com/FrBPOyS.png";
 			break;

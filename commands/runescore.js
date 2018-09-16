@@ -41,9 +41,18 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 	if (args[0].toLowerCase() == "all" && level >= 2) {
 		let i = 0, o = 0, x = keyList.length, errMsg = "";
 		await message.channel.send({
-		  files: [{
+		  files: [
+		  {
+			attachment: 'media/img/guides/break.png',
+			name: 'break.png'
+		  },
+		  {
 			attachment: 'media/img/guides/rsheader.png',
 			name: 'RuneScore header.png'
+		  },
+		  {
+			attachment: 'media/img/guides/break.png',
+			name: 'break.png'
 		  }]
 		});
 		let category = args[1] ? args[1].toLowerCase() : undefined

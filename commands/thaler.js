@@ -3,9 +3,18 @@ const { data } = require("../guides/thalerGuide.js");
 exports.run = async (client, message, args, level) => {
 
   await message.channel.send({
-    files: [{
+    files: [
+    {
+    attachment: 'media/img/guides/break.png',
+    name: 'break.png'
+    },
+    {
     attachment: 'media/img/guides/thalerheader.png',
     name: 'AFK Thaler header.png'
+    },
+    {
+    attachment: 'media/img/guides/break.png',
+    name: 'break.png'
     }]
   });
 	await message.channel.send('', {embed: data[0]});
