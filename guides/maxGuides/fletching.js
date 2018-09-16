@@ -459,6 +459,10 @@ exports.data = {
         "value": "• The [Fletching Cape's](http://runescape.wikia.com/wiki/Fletching_cape) perk provides a chance to make extra bolts, arrows, and darts."
       },
       {
+        "name": "Player Owned Farm Perks",
+        "value": "• [Perks](https://runescape.wikia.com/wiki/Player-owned_farm#Perks) are perks that can be activated by placing a [farming totem](https://runescape.wikia.com/wiki/Farm_totem) on your [pens](https://runescape.wikia.com/wiki/Player-owned_farm#Pens) at the [Player Owned Farm](https://runescape.wikia.com/wiki/Player-owned_farm) north of [East Ardougne](https://runescape.wikia.com/wiki/East_Ardougne). Having an elder female chicken (hen) inside of one of your pens with a farming totem allows the player to gain a 3% chance to halve [feathers](https://runescape.wikia.com/wiki/Feather) used (minimum 1) when fletching arrows, darts, or bolts. Having an elder female chicken (hen) inside of two of your pens with farming totems on each allows the player to gain a 5% chance to halve feathers used (minimum 1) when fletching arrows, darts, or bolts."
+      },
+      {
         "name": "Fletcher's Outfit",
         "value": "• The [Fletcher's Outfit](http://runescape.wikia.com/wiki/Fletcher%27s_outfit) is an experience-boosting set that can be obtained from [Treasure Hunter](http://runescape.wikia.com/wiki/Treasure_Hunter) and as a reward from [Stealing Creation](http://runescape.wikia.com/wiki/Stealing_Creation) costing 100 reward points per piece. When one item is worn, it gives experience bonus of 1%. When all of the pieces of the set are worn, a 1% set bonus is added; thus, the full 5-piece set provides a total of 6% bonus."
       }
