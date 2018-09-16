@@ -439,6 +439,10 @@ exports.data = {
         "value": "• [Boons](http://runescape.wikia.com/wiki/Divination#Boons) are permanent, single-use items that give 10% more experience when converting memories of a given tier. Only one of each tier can be used, but once it is used the effect lasts forever. They are made by using a certain amount of energy of either the same tier or one tier below the boon being made."
       },
       {
+        "name": "Player Owned Farm Perks",
+        "value": "• [Perks](https://runescape.wikia.com/wiki/Player-owned_farm#Perks) are perks that can be activated by placing a [farming totem](https://runescape.wikia.com/wiki/Farm_totem) on your [pens](https://runescape.wikia.com/wiki/Player-owned_farm#Pens) at the [Player Owned Farm](https://runescape.wikia.com/wiki/Player-owned_farm) north of [East Ardougne](https://runescape.wikia.com/wiki/East_Ardougne). Having an elder male sheep (ram) inside of one of your pens with a farming totem allows the player to gain [memory strands](http://runescape.wikia.com/wiki/Memory_strand) from farming activities at 50% of the rate from Divination. Having an elder male sheep (ram) inside of two of your pens with farming totems on each allows the player to gain memory strands from farming activities at 75% of the rate from Divination."
+      },
+      {
         "name": "Diviner's Outfit",
         "value": "• Wearing components of the [Diviner's outfit](http://runescape.wikia.com/wiki/Diviner%27s_outfit) gives a percentage increase in the amount of Divination experience gained. There are five pieces in the set: the headwear, chestpiece, legwear, gloves and boots. Components of the Diviner's outfit can be won from Treasure Hunter or obtained randomly from completing [Guthixian Cache](http://runescape.wikia.com/wiki/Guthixian_Cache). Each piece provides 1% additional Divination experience when worn. If all pieces of the set are worn, an additional set bonus effect of 1% is given, for a total of 6%."
       },
