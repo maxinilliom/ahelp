@@ -47,23 +47,11 @@ exports.data = {
       "name": "break.png"
     }]
   },
-  "minigames": {
+  "minigamesheader": {
     "files": [{
       "attachment": "media/img/info/fc/minigames.png",
       "name": "Minigames.png"
     }]
-  },
-    "minigames": {
-    "title": "Minigames",
-    "description":"**Cwars United** - Castle Wars Games (Afk). Apply [Here](http://services.runescape.com/m=forum/c=ob7A0kMf9cA/forums.ws?75,76,32,66000897).\n\n**Minigames** - Mazcab Supply Runs and All Around Minigame Needs\n\n**Clue Chasers** - Enthusiastic Clue Scroll community\n\n**Ba Teams** - Barbarian Assault Games\n\n**Conquest Chat** - Conquest Games\n\n**Hybrid Top** - Fight Pit Games and finding partners to get a 'Hybrid Top' (Battle-mage/Trickster/Vanguard)\n\n**FishFlingers** - Fish Flingers\n\n**GOP Addict** - Great Orb Project Games\n\n**Heist4Fun** - Heist Games\n\n**World60pengs** or **W60 Find Pen** - Penguin Hunting\n\n**Fast SC** - Stealing Creation (Non-Combat)",
-    "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
-      "text": "Achievement Help | Friend Chats"
-    },
-    "author": {
-      "name": "Friend Chats",
-      "icon_url": "https://i.imgur.com/6c6q2iC.png"
-    }
   },
   "break5": {
     "files": [{
@@ -71,15 +59,9 @@ exports.data = {
       "name": "break.png"
     }]
   },
-  "skillingdds": {
-    "files": [{
-      "attachment": "media/img/info/fc/skillingdds.png",
-      "name": "Skilling / D&Ds.png"
-    }]
-  },
-    "skilling/d&ds": {
-    "title": "Skilling + D&D's",
-    "description":"**PoF Trade FC** - Player Owned Farm trading hub\n\n**CoreHunting** - Hall of Memories divination core calls\n\n**WC Idols** - Overgrown Idol location calls\n\n**Boxes** - Portable Deposit Box locations (On DXP)\n\n**Harmed Ore** - Harmonized Ore locations\n\n**NemiForest** - 9/9 Nemi Forests locations\n\n**Portables** - Portable skilling locations\n\n**Tree Hunt** - Crystal Tree locations\n\n**Star Find** - Shooting Stars locations\n\n**Fast Effigy** - Ancient Effigies help\n\n**whirlpooldnd** or **whirlpoolv2** - Deep Sea Fishing random event calls\n\n**DemonMobs FC** - Demon Flash Mobs locations\n\n**Evil Tree FC**, **Chase Trees**, or **Tree Hunters** - Evil Tree locations\n\n**Soulobby** -  Soul Obelisk Locations (Menaphos)\n\n** Free Leech** - Free leeching of Dungeoneering floors\n\n**Altar** - Finding Gilded Altar Hosts\n\n**DgRevolution** - Finding Dungeoneering partners\n\n**vis wax fc** - Vis Wax Combinations\n\n**pk** - No PK Warbands, Wildywyrms, Bossing. Apply [here](http://services.runescape.com/m=forum/forums.ws?45,46,850,65995412).\n\n**Masterbands** -  Loot and PK during Wilderness Warbands. Apply [here](http://services.runescape.com/m=forum/forums.ws?75,76,820,65957764).",
+    "minigames": {
+    "title": "Minigames",
+    "description":"**Cwars United** - Castle Wars Games (Afk). Apply [Here](http://services.runescape.com/m=forum/c=ob7A0kMf9cA/forums.ws?75,76,32,66000897).\n\n**Minigames** - Mazcab Supply Runs and All Around Minigame Needs\n\n**Clue Chasers** - Enthusiastic Clue Scroll community\n\n**Ba Teams** - Barbarian Assault Games\n\n**Conquest Chat** - Conquest Games\n\n**Hybrid Top** - Fight Pit Games and finding partners to get a 'Hybrid Top' (Battle-mage/Trickster/Vanguard)\n\n**FishFlingers** - Fish Flingers\n\n**GOP Addict** - Great Orb Project Games\n\n**Heist4Fun** - Heist Games\n\n**World60pengs** or **W60 Find Pen** - Penguin Hunting\n\n**Fast SC** - Stealing Creation (Non-Combat)",
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
       "text": "Achievement Help | Friend Chats"
@@ -95,10 +77,46 @@ exports.data = {
       "name": "break.png"
     }]
   },
+  "skillingdds": {
+    "files": [{
+      "attachment": "media/img/info/fc/skillingdds.png",
+      "name": "Skilling / D&Ds.png"
+    }]
+  },
+  "break7": {
+    "files": [{
+      "attachment": "media/img/info/fc/break.png",
+      "name": "break.png"
+    }]
+  },
+    "skilling/d&ds": {
+    "title": "Skilling + D&D's",
+    "description":"**PoF Trade FC** - Player Owned Farm trading hub\n\n**CoreHunting** - Hall of Memories divination core calls\n\n**WC Idols** - Overgrown Idol location calls\n\n**Boxes** - Portable Deposit Box locations (On DXP)\n\n**Harmed Ore** - Harmonized Ore locations\n\n**NemiForest** - 9/9 Nemi Forests locations\n\n**Portables** - Portable skilling locations\n\n**Tree Hunt** - Crystal Tree locations\n\n**Star Find** - Shooting Stars locations\n\n**Fast Effigy** - Ancient Effigies help\n\n**whirlpooldnd** or **whirlpoolv2** - Deep Sea Fishing random event calls\n\n**DemonMobs FC** - Demon Flash Mobs locations\n\n**Evil Tree FC**, **Chase Trees**, or **Tree Hunters** - Evil Tree locations\n\n**Soulobby** -  Soul Obelisk Locations (Menaphos)\n\n** Free Leech** - Free leeching of Dungeoneering floors\n\n**Altar** - Finding Gilded Altar Hosts\n\n**DgRevolution** - Finding Dungeoneering partners\n\n**vis wax fc** - Vis Wax Combinations\n\n**pk** - No PK Warbands, Wildywyrms, Bossing. Apply [here](http://services.runescape.com/m=forum/forums.ws?45,46,850,65995412).\n\n**Masterbands** -  Loot and PK during Wilderness Warbands. Apply [here](http://services.runescape.com/m=forum/forums.ws?75,76,820,65957764).",
+    "footer": {
+      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "text": "Achievement Help | Friend Chats"
+    },
+    "author": {
+      "name": "Friend Chats",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    }
+  },
+  "break8": {
+    "files": [{
+      "attachment": "media/img/info/fc/break.png",
+      "name": "break.png"
+    }]
+  },
   "pvmteaching": {
     "files": [{
       "attachment": "media/img/info/fc/pvmteaching.png",
       "name": "PvM / Teaching.png"
+    }]
+  },
+  "break9": {
+    "files": [{
+      "attachment": "media/img/info/fc/break.png",
+      "name": "break.png"
     }]
   },
     "pvm/teaching": {
@@ -113,7 +131,7 @@ exports.data = {
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     }
   },
-  "break7": {
+  "break710": {
     "files": [{
       "attachment": "media/img/info/fc/break.png",
       "name": "break.png"
@@ -122,6 +140,12 @@ exports.data = {
   "pricecheck": {
     "files": [{
       "attachment": "media/img/info/fc/pricecheck.png",
+      "name": "break.png"
+    }]
+  },
+  "break11": {
+    "files": [{
+      "attachment": "media/img/info/fc/break.png",
       "name": "break.png"
     }]
   },
@@ -137,7 +161,7 @@ exports.data = {
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     }
   },
-  "break8": {
+  "break12": {
     "files": [{
       "attachment": "media/img/info/fc/break.png",
       "name": "break.png"
