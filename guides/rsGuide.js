@@ -238,7 +238,7 @@ exports.data = {
       "name": "RuneScore Achievement Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Died by the Blade!](https://runescape.wikia.com/wiki/Died_by_the_Blade!) is an achievement that requires the player to be killed by a [Hanto sellsword](https://runescape.wikia.com/wiki/Hanto_sellsword) in the [Temple of Aminishi](https://runescape.wikia.com/wiki/Temple_of_Aminishi).\n\nWhen fighting Hanto sellswords, they may occasionally yell `Die by the blade!`, and will spin their blades around, dealing heavy, rapid melee damage to nearby players.Hanto Sellswords are located in the third and fourth room of the Amininshi temple.\n\nThe achievement will only be completed if the player is sent to [Death's office](https://runescape.wikia.com/wiki/Death%27s_office). The achievement will not complete upon revival using a [sign of life](https://runescape.wikia.com/wiki/Sign_of_life). It is important to note then that you will incur a death penalty on recovering any items from [Death](https://runescape.wikia.com/wiki/Death) **or** will lose your items and a life if you are a hardcore ironman/woman.",
+    "description": "[Died by the Blade!](https://runescape.wikia.com/wiki/Died_by_the_Blade!) is an achievement that requires the player to be killed by a [Hanto sellsword](https://runescape.wikia.com/wiki/Hanto_sellsword) in the [Temple of Aminishi](https://runescape.wikia.com/wiki/Temple_of_Aminishi).\n\nWhen fighting Hanto sellswords, they may occasionally yell `Die by the blade!`, and will spin their blades around, dealing heavy, rapid melee damage to nearby players.Hanto Sellswords are located in the third and fourth room of the Amininshi temple.\n\nThe achievement will only be completed if the player is sent to [Death's office](https://runescape.wikia.com/wiki/Death%27s_office). The achievement will not complete upon revival using a [sign of life](https://runescape.wikia.com/wiki/Sign_of_life). It is important to note then that you will incur a death penalty on recovering any items from [Death](https://runescape.wikia.com/wiki/Death) **OR** will lose your items and a life if you are a hardcore ironman/woman.",
     "thumbnail": {
       "url": "https://i.imgur.com/Shmagnp.png"
     },
@@ -526,7 +526,7 @@ exports.data = {
     },
     "fields": [{
       "name": "Requirements:",
-      "value": "• 3 Strength **or** 10 Magic **or** 10 Ranged\n\n• Completed the [Temple of Aminishi](https://runescape.wikia.com/wiki/Temple_of_Aminishi) Elite Dungeon once in either normal or story mode."
+      "value": "• 3 Strength **OR** 10 Magic **OR** 10 Ranged\n\n• Completed the [Temple of Aminishi](https://runescape.wikia.com/wiki/Temple_of_Aminishi) Elite Dungeon once in either normal or story mode."
     }],
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
@@ -1486,7 +1486,7 @@ exports.data = {
       },
       {
         "name": "Strategies:",
-        "value": "Instead of having one person taking the poison on the last pool before [Mirage](https://runescape.wikia.com/wiki/Yakamaru/Strategies#Mirage_phase), the entire team moves to the 1x1 area and takes the poison. To accomplish this, the players should be standing on top of one another on a single tile so the poison can be clearly seen. The North **or** base tank role should be the only person to be consumed by Yakamaru and the rest of the team must constantly stay high life points as they take 500-1000 poison damage every other game tick until the kill is completed."
+        "value": "Instead of having one person taking the poison on the last pool before [Mirage](https://runescape.wikia.com/wiki/Yakamaru/Strategies#Mirage_phase), the entire team moves to the 1x1 area and takes the poison. To accomplish this, the players should be standing on top of one another on a single tile so the poison can be clearly seen. The North **OR** base tank role should be the only person to be consumed by Yakamaru and the rest of the team must constantly stay high life points as they take 500-1000 poison damage every other game tick until the kill is completed."
       },
       {
         "name": "Tips:",
@@ -2284,7 +2284,7 @@ exports.data = {
     },
     "fields": [{
         "name": "Requirements:",
-        "value": "• 60 Strength **or** 60 Agility\n• 70 Consitution\n\n• Troll Stronghold Quest partial completion | [Runescape Wiki](https://runescape.wikia.com/wiki/Troll_Stronghold)"
+        "value": "• 60 Strength **OR** 60 Agility\n• 70 Consitution\n\n• Troll Stronghold Quest partial completion | [Runescape Wiki](https://runescape.wikia.com/wiki/Troll_Stronghold)"
       },
       {
         "name": "Guides:",
@@ -5322,7 +5322,7 @@ exports.data = {
       },
       {
         "name": "Requirements:",
-        "value": "• 70 Smithing **or** 59 Construction\n• 42 Construction\n• 56 Smithing\n• 60 Crafting\n• 64 Agility\n• 31 Prayer\n• 60 Strength\n• 92 Firemaking\n\n• All Fired Up Quest completion | [Runescape Wiki](https://runescape.wikia.com/wiki/All_Fired_Up)\n• Land of the Goblins Quest completion | [Runescape Wiki](https://runescape.wikia.com/wiki/Land_of_the_Goblins)"
+        "value": "• 70 Smithing **OR** 59 Construction\n• 42 Construction\n• 56 Smithing\n• 60 Crafting\n• 64 Agility\n• 31 Prayer\n• 60 Strength\n• 92 Firemaking\n\n• All Fired Up Quest completion | [Runescape Wiki](https://runescape.wikia.com/wiki/All_Fired_Up)\n• Land of the Goblins Quest completion | [Runescape Wiki](https://runescape.wikia.com/wiki/Land_of_the_Goblins)"
       },
       {
         "name": "Guide:",
@@ -7845,7 +7845,7 @@ exports.data = {
       },
       {
         "name": "Requirements:",
-        "value": "• 70 Constitution\n• 70 Strength **or** 70 Agility\n\n• Troll Stronghold Quest partial completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Troll_Stronghold)"
+        "value": "• 70 Constitution\n• 70 Strength **OR** 70 Agility\n\n• Troll Stronghold Quest partial completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Troll_Stronghold)"
       },
       {
         "name": "Guide:",
