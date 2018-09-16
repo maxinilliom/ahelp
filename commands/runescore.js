@@ -46,7 +46,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 			name: 'RuneScore header.png'
 		  }]
 		});
-		const category = args[1] ? args[1].toLowerCase() : undefined
+		let category = args[1] ? args[1].toLowerCase() : undefined
 		if (!cats.includes(category)) category = undefined;
 		//add category header switch here
 		async function list() {

@@ -51,7 +51,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 			name: 'True trim header.png'
 		  }]
 		});
-		const category = args[1] ? args[1].toLowerCase() : undefined;
+		let category = args[1] ? args[1].toLowerCase() : undefined;
 		if (!cats.includes(category)) category = undefined;
 		//add category header image switch here
 		async function list() {
