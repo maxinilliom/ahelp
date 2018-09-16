@@ -42,7 +42,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
     async function list() {
       const guide = data[keyList[o]].embed;
       guide.color = color;
-	  if (guide.author.name) guide.author.name = name;
+	  if (guide.author) guide.author.name = name;
 	  if (guide.timestamp) guide.timestamp = new Date();
 	  try {
 		  await message.channel.send("", {embed: guide});
