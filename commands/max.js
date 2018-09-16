@@ -55,7 +55,7 @@ exports.run = async (client, message, [skill, ...args], level) => { // eslint-di
 		"summ": "summoning",
 		"summon": "summoning",
 		"thief": "thieving",
-		"thiev": "thievingi",
+		"thiev": "thieving",
 		"thieve": "thieving",
 		"wc": "woodcutting",
 		"woodcut": "woodcutting"
@@ -161,7 +161,7 @@ exports.run = async (client, message, [skill, ...args], level) => { // eslint-di
                 let output = "";
                 const helpEmbed = data["help"];
                 keyList.forEach(k => {
-                		if (data[k].title) return;
+                		if (!data[k].title) return;
                         output += `• ${data[k].title}\n`;
                 });
                 helpEmbed.title = `Comprehensive list of all valid ${skill.toProperCase()} guide commands`;
