@@ -360,7 +360,11 @@ exports.data = {
       { 
         "name": "Best in Slot Combat Perks - Shield",
         "value": "\t• Perk: [Turtling 3](https://runescape.wikia.com/wiki/Turtling)\n\t• Components: 5x [Evasive](https://runescape.wikia.com/wiki/Evasive_components)"
-      },
+      }
+      ]
+    },
+  "perks pt2": {
+      "fields": [
       { 
         "name": "Best in Slot Skilling Perks - Equipped Item (All Skilling)",
         "value": "\t• Perk: [Wise 3](https://runescape.wikia.com/wiki/Wise)\n\t• Components: 5x [Seren](https://runescape.wikia.com/wiki/Seren_components)"
@@ -380,11 +384,7 @@ exports.data = {
       { 
         "name": "Best in Slot Skilling Perks - Smithing",
         "value": "\t• Perk Slot 1: [Tinker 3](https://runescape.wikia.com/wiki/Tinker)\n\t• Components: 5x [Fungal](https://runescape.wikia.com/wiki/Fungal_components)\n\n\t• Perk Slot 2: [Rapid 3](https://runescape.wikia.com/wiki/Rapid)\n\t• Components: 5x [Shifting](https://runescape.wikia.com/wiki/Shifting_components)"
-      }
-      ]
-    },
-  "perks pt2": {
-      "fields": [
+      },
       { 
         "name": "Best in Slot Skilling Perks - Firemaking",
         "value": "\t• Perk Slot 1: [Tinker 3](https://runescape.wikia.com/wiki/Tinker)\n\t• Components: 5x [Fungal](https://runescape.wikia.com/wiki/Fungal_components)\n\n\t• Perk Slot 2: [Pyromaniac 5](https://runescape.wikia.com/wiki/Pyromaniac)\n\t• Components: 5x [Light](https://runescape.wikia.com/wiki/Light_components)"
