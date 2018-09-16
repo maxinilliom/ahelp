@@ -8604,7 +8604,7 @@ exports.data = {
       "text": "Runescore awarded: 10"
     }
   },
-  "skills - farming - bean counter": {
+  "skills - farming - bean counter pt1": {
       "title": "Bean Counter I-IV",
       "author": {
         "name": "RuneScore Achievement Info",
@@ -8687,7 +8687,7 @@ exports.data = {
         }
       ]
     },
-    {
+    "skills - farming - bean counter pt2": {
       "fields": [
         {            
           "name": "Zoe (zygomite trader)",
