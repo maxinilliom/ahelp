@@ -84,7 +84,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 			}
 			i++;
 			o++;
-			if (o < x) setTimeout(list, 2500);
+			if (o < x) setTimeout(list, 1000);
 			if (o == x) message.reply(`**${i}**/\**${keyList.length}** responses listed.\n\n${errMsg}`);
 		}
 		list();
