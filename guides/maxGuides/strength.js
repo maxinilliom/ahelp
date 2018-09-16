@@ -235,10 +235,6 @@ exports.data = {
     "url": "http://runescape.wikia.com/wiki/Pay-to-play_Ranged_training#Other_training_methods",
     "description": "Some users may wish to utilize methods outside of the ones displayed in this channel's guide. To aid in this, the following alternative methods are provided.",
         "color": 12269891,
-    "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
-      "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
-    },
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/c/ce/Melee_training_dummy_detail.png/revision/latest?cb=20140812213350"
     },
@@ -266,21 +262,6 @@ exports.data = {
       ]
   },
   "alternative methods pt2": {
-    "title": "Alternative Methods of Training Continued",
-    "url": "http://runescape.wikia.com/wiki/Pay-to-play_Ranged_training#Other_training_methods",
-    "description": "Some users may wish to utilize methods outside of the ones displayed in this channel's guide. To aid in this, the following alternative methods are provided.",
-        "color": 12269891,
-    "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
-      "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
-    },
-    "thumbnail": {
-      "url": "https://vignette.wikia.nocookie.net/runescape2/images/4/43/Soul_wars_xp_rewards.png/revision/latest?cb=20131031233723"
-    },
-    "author": {
-      "name": "Max Cape Info",
-      "icon_url": "https://i.imgur.com/6c6q2iC.png"
-    },
     "fields": [
     { 
       "name": "▬▬ Stealing Creation ▬▬", 
@@ -310,7 +291,12 @@ exports.data = {
         "name": "​",
         "value": "Experience in any combat skill besides Summoning that is equal to or greater than level 25. The formula is the following: L2N, where L equals level; N equals approximately 5.195 for magic and range, approximately 19.23 for summoning and prayer, and 5 for all others. The experience is always rounded down to a whole number. "
       }
-      ]
+    ],
+    "footer": { 
+    "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg", 
+    "text": "Achievement Help | Helping you reach your goals, whatever they may be!" 
+    },
+    "timestamp": "2001-01-04T12:00:00Z"
   },
   "pet - kangali": {
     "title": "Strength Pet - Kangali",
@@ -495,21 +481,7 @@ exports.data = {
        ]
   },
   "temporary boosts pt2": {
-    "title": "Temporary Boosts Continued",
-    "url": "http://runescape.wikia.com/wiki/Temporary_skill_boost",
     "description": "\n[Beer](http://runescape.wikia.com/wiki/Beer)\n• +2 Strength levels\n• Decreases Attack by 6% to 7%\n\n[Black Warlock](http://runescape.wikia.com/wiki/Black_warlock)\n• +15% + 4 Strength boost\n• Boosts another players Strength level, not yours\n\n[Zamorak Brew](http://runescape.wikia.com/wiki/Zamorak_brew)\n• 8% + 1 Attack and Strength boost\n• Reduces Defence by 8% + 1\n\n[Zamorak Brew Mix](http://runescape.wikia.com/wiki/Zamorak_mix)\n• 8% + 1 Attack and Strength boost\n• Reduces Defence by 8% + 1\n\n[Combat Potion](http://runescape.wikia.com/wiki/Combat_potion)\n• +8% + 1 Attack and Strength boost\n\n[Combat Mix](http://runescape.wikia.com/wiki/Combat_mix)\n• +8% + 1 Attack and Strength boost\n\n[Dominion Marker](http://runescape.wikia.com/wiki/Dominion_marker)\n• Tier 1: +4\n• Tier 2: +6\n• Tier 3: +8\n• Tier 4: +10\n• Reapplies the boost once it decays back to the base level",
-        "color": 12269891,
-    "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
-      "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
-    },
-    "thumbnail": {
-      "url": "https://vignette.wikia.nocookie.net/runescape2/images/5/5a/Beer_detail.png/revision/latest?cb=20130109110555"
-    },
-    "author": {
-      "name": "Max Cape Info",
-      "icon_url": "https://i.imgur.com/6c6q2iC.png"
-    },
     "fields": [
       {
         "name": "​",

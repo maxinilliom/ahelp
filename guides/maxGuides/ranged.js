@@ -400,10 +400,6 @@ exports.data = {
     "url": "http://runescape.wikia.com/wiki/Temporary_skill_boost",
     "description": "A temporary skill boost is anything caused by an item, Summoning familiar, or action that temporarily raises a player's level in one or more skills. It allows the player to do things above their current level.",
         "color": 12269891,
-    "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
-      "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
-    },
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/b/ba/Extreme_sharpshooter%27s_potion_detail.png/revision/latest?cb=20141212211459"
     },
@@ -435,26 +431,17 @@ exports.data = {
        ]
   },
   "temporary boosts pt2": {
-    "title": "Temporary Boosts Continued",
-    "url": "http://runescape.wikia.com/wiki/Temporary_skill_boost",
     "description": "\n[Geyser Titan](http://runescape.wikia.com/wiki/Geyser_titan)\n• Interact to receive a 3% + 1 Ranged level boost\n\n[Ranger's Aid](http://runescape.wikia.com/wiki/Ranger%27s_aid)\n• +2 Ranged levels\n• Reduces Defence by 5\n\n[Ranger's Aid (m)](http://runescape.wikia.com/wiki/Ranger%27s_aid_(m)\n• +3 Ranged levels\n• Reduces Defence by 6\n\n[Wild Pie](http://runescape.wikia.com/wiki/Wild_pie)\n• +4 Ranged levels\n• +4 Slayer levels\n\n[Wilder Pie](http://runescape.wikia.com/wiki/Wilder_pie)\n• +5 Ranged levels\n• +6 Slayer levels\n\n[Dominion Marker](http://runescape.wikia.com/wiki/Dominion_marker)\n• Tier 1: +4\n• Tier 2: +6\n• Tier 3: +8\n• Tier 4: +10\n• Reapplies the boost once it decays back to the base level",
-        "color": 12269891,
-    "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
-      "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
-    },
-    "thumbnail": {
-      "url": "https://vignette.wikia.nocookie.net/runescape2/images/c/c9/Ranger%27s_aid_%28m%29_detail.png/revision/latest?cb=20111127131021"
-    },
-    "author": {
-      "name": "Max Cape Info",
-      "icon_url": "https://i.imgur.com/6c6q2iC.png"
-    },
     "fields": [
       {
         "name": "​",
         "value": "[Exuberry](http://runescape.wikia.com/wiki/Exuberry)\n• +2 Ranged levels\n• Reduces Defence by 1\n• Requires access to [The Arc](http://runescape.wikia.com/wiki/The_Arc)\n\n [Sugar Skull](http://runescape.wikia.com/wiki/Sugar_skull)\n• +2 Ranged levels\n\n [Toffee Apple](http://runescape.wikia.com/wiki/Toffee_apple)\n• +2 Ranged levelst\n\n[Spicy Stew](http://runescape.wikia.com/wiki/Spicy_stew)\n • Boost is applied to a random skill\n • Up to ±6 with 3 spice doses\n • Up to ±3 with 2 spice doses\n • Up to ±2 with 1 spice dose\n\n[God Banner](http://runescape.wikia.com/wiki/God_banner)\n• +5 levels\n• Lasts 30 minutes once per day"
       }
-       ]
+    ],
+    "footer": { 
+    "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg", 
+    "text": "Achievement Help | Helping you reach your goals, whatever they may be!" 
+    },
+    "timestamp": "2001-01-04T12:00:00Z"
   }
 };

@@ -3,10 +3,6 @@ exports.data = [{
     "description": "These are boosts which may be applied across all skills, except for areas where certain items or followers are disabled, such as within a Dungeoneeing floor.",
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Answer_to_Life.png/220px-Answer_to_Life.png",
     "color": 12269891,
-    "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
-      "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
-    },
     "thumbnail": {
       "url": "https://vignette1.wikia.nocookie.net/ikov-2/images/2/25/Unnamed_%281%29.png/revision/latest?cb=20170111043504"
     },
@@ -46,21 +42,6 @@ exports.data = [{
       ]
 },
 {
-    "title": "Universal Boosts continued",
-    "description": "These are boosts which may be applied across all skills, except for areas where certain items or followers are disabled, such as within a Dungeoneeing floor.",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Answer_to_Life.png/220px-Answer_to_Life.png",
-    "color": 12269891,
-    "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
-      "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
-    },
-    "thumbnail": {
-      "url": "https://vignette1.wikia.nocookie.net/ikov-2/images/2/25/Unnamed_%281%29.png/revision/latest?cb=20170111043504"
-    },
-    "author": {
-      "name": "Max Cape Info",
-      "icon_url": "https://i.imgur.com/6c6q2iC.png"
-    },
     "fields": [
       {
         "name": "Wise Perk",
@@ -90,6 +71,11 @@ exports.data = [{
         "name": "Penguin Hide and Seek",
         "value": "• [Penguin Hide and Seek](http://runescape.wikia.com/wiki/Penguin_Hide_and_Seek) is a weekly [Distraction and Diversion](http://runescape.wikia.com/wiki/Distractions_and_Diversions). The main objective of the D&D is to hunt down undercover [Penguin Spies](http://runescape.wikia.com/wiki/Penguin_(Hide_and_Seek)) and report back to [Chuck](http://runescape.wikia.com/wiki/Chuck) or [Larry](http://runescape.wikia.com/wiki/Larry) at the [Ardougne Zoo](http://runescape.wikia.com/wiki/Ardougne_Zoo). The amount of experience gained is dependent on the player's current level in the chosen skill, determined by the following formula where *L* is the level of the skill on which you use the reward, and *P* is the amount of points redeemed: [25 × L × P](http://runescape.wikia.com/wiki/Penguin_Hide_and_Seek#Rewards). This is increased to *40* × L × P after the completion of [Back to the Freezer](http://runescape.wikia.com/wiki/Back_to_the_Freezer)."
       }
-      ]
+      ],
+    "footer": { 
+    "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg", 
+    "text": "Achievement Help | Helping you reach your goals, whatever they may be!" 
+    },
+    "timestamp": "2001-01-04T12:00:00Z"
   }
 ]

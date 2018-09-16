@@ -418,10 +418,6 @@ exports.data = {
     "url": "http://runescape.wikia.com/wiki/Bonus_experience_items",
     "description": "A permanent skill boost is anything caused by an item that permanently raises a player's level in one or more skills. It allows the player to do things above their current level.",
         "color": 12269891,
-    "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
-      "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
-    },
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/e/ed/Infinity_ethereal_outfit_equipped.png/revision/latest?cb=20150106163532"
     },
@@ -453,21 +449,6 @@ exports.data = {
       ]
   },
   "permanent boosts pt2": {
-    "title": "Permanent Boosts",
-    "url": "http://runescape.wikia.com/wiki/Bonus_experience_items",
-    "description": "A permanent skill boost is anything caused by an item that permanently raises a player's level in one or more skills. It allows the player to do things above their current level.",
-        "color": 12269891,
-    "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
-      "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
-    },
-    "thumbnail": {
-      "url": "https://vignette.wikia.nocookie.net/runescape2/images/4/4c/Master_runecrafter_robes_equipped.png/revision/latest/?cb=20121221050650"
-    },
-    "author": {
-      "name": "Max Cape Info",
-      "icon_url": "https://i.imgur.com/6c6q2iC.png"
-    },
     "fields": [
       {
         "name": "Master Runecrafter Robes",
@@ -481,8 +462,12 @@ exports.data = {
         "name": "​",
         "value": "The other pieces of the robes can be purchased from Wizard Finix's shop and enhance the effects of the Wicked hood when purchased:\n\t• +1 rune withdrawal per day\n\t• 25 essence widthdrawed per day\n\t• +1 altar teleport per day when the full set is purchased."
        }
-    
-    ]
+    ],
+    "footer": { 
+    "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg", 
+    "text": "Achievement Help | Helping you reach your goals, whatever they may be!" 
+    },
+    "timestamp": "2001-01-04T12:00:00Z"
   },
   "temporary boosts": {
     "title": "Temporary Boosts",

@@ -272,11 +272,7 @@ exports.data = {
     "title": "Distractions and Diversions", 
     "url": "http://runescape.wikia.com/wiki/Distractions_and_Diversions", 
     "description": "D&Ds are a subclassification of minigames. However, unlike minigames many D&Ds move around the world to various locations, have a limit on how often they can be played, and only occur at particular times of day.\n\nDistractions and Diversions aim to divert the original intentions of the player in order to provide an interesting distraction from their everyday routines. D&Ds come in many different shapes and sizes; covering Combat, Gathering, Artisan, and Support skills. There are a wide variety of different options available to suit the players choice.", 
-    "color": 12269891, 
-    "footer": { 
-    "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg", 
-    "text": "Achievement Help | Helping you reach your goals, whatever they may be!" 
-    }, 
+    "color": 12269891,
     "thumbnail": { 
     "url": "https://vignette.wikia.nocookie.net/runescape2/images/6/62/D%26D_icon.png/revision/latest?cb=20140914110639" 
     }, 
@@ -304,21 +300,6 @@ exports.data = {
     ] 
   },
   "distractions and diversions pt2": { 
-    "title": "Distractions and Diversions", 
-    "url": "http://runescape.wikia.com/wiki/Distractions_and_Diversions", 
-    "description": "D&Ds are a subclassification of minigames. However, unlike minigames many D&Ds move around the world to various locations, have a limit on how often they can be played, and only occur at particular times of day.\n\nDistractions and Diversions aim to divert the original intentions of the player in order to provide an interesting distraction from their everyday routines. D&Ds come in many different shapes and sizes; covering Combat, Gathering, Artisan, and Support skills. There are a wide variety of different options available to suit the players choice.", 
-    "color": 12269891, 
-    "footer": { 
-    "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg", 
-    "text": "Achievement Help | Helping you reach your goals, whatever they may be!" 
-    }, 
-    "thumbnail": { 
-    "url": "https://vignette.wikia.nocookie.net/runescape2/images/6/62/D%26D_icon.png/revision/latest?cb=20140914110639" 
-    }, 
-    "author": { 
-    "name": "Max Cape Info", 
-    "icon_url": "https://i.imgur.com/6c6q2iC.png" 
-    }, 
     "fields": [ 
     { 
     "name": "▬▬ Sorceress's Garden ▬▬", 
@@ -335,8 +316,13 @@ exports.data = {
     { 
     "name": "​", 
     "value": "As a robber, the objective of the minigame is to steal loot from around the town and safely deposit it in receptacles around the map. Robbers can disguise themselves as NPCs in order to avoid attracting the attention of players on the guard's team. The game will end when all robbers are caught, when 20 minutes has ended, or when the robbers have deposited two loot per person. Playing as a robber earns [robber reward points](http://runescape.wikia.com/wiki/Heist#Robber_rewards) which can be turned in for bonus experience. The rate of experience per point varies by level and a full table can be found [here](http://runescape.wikia.com/wiki/Heist#Thieving_Experience)."
-    } 
-    ]
+    }
+    ],
+    "footer": { 
+    "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg", 
+    "text": "Achievement Help | Helping you reach your goals, whatever they may be!" 
+    },
+    "timestamp": "2001-01-04T12:00:00Z"
   },
   "daily challenge": {
     "title": "Daily Challenge",
@@ -366,10 +352,6 @@ exports.data = {
     "url": "http://runescape.wikia.com/wiki/Bonus_experience_items",
     "description": "A permanent skill boost is anything caused by an item that permanently raises a player's level in one or more skills. It allows the player to do things above their current level.",
         "color": 12269891,
-    "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
-      "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
-    },
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/d/dd/Master_camouflage_outfit_equipped.png/revision/latest/scale-to-width-down/145?cb=20160507011703"
     },
@@ -405,21 +387,6 @@ exports.data = {
       ]
   },
   "permanent boosts pt2": {
-    "title": "Permanent Boosts",
-    "url": "http://runescape.wikia.com/wiki/Bonus_experience_items",
-    "description": "A permanent skill boost is anything caused by an item that permanently raises a player's level in one or more skills. It allows the player to do things above their current level.",
-        "color": 12269891,
-    "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
-      "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
-    },
-    "thumbnail": {
-      "url": "https://vignette.wikia.nocookie.net/runescape2/images/d/dd/Master_camouflage_outfit_equipped.png/revision/latest/scale-to-width-down/145?cb=20160507011703"
-    },
-    "author": {
-      "name": "Max Cape Info",
-      "icon_url": "https://i.imgur.com/6c6q2iC.png"
-    },
     "fields": [
       {
         "name": " Master Camouflage Outfit",
@@ -441,7 +408,12 @@ exports.data = {
         "name": "Desert Hard Tasks",
         "value": "• Completing the [hard Desert achievements](http://runescape.wikia.com/wiki/Desert_achievements#Hard_tasks) reduces the chance of mummies and scarabs spawning whilst playing Pyramid Plunder."
         }
-      ]
+    ],
+    "footer": { 
+    "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg", 
+    "text": "Achievement Help | Helping you reach your goals, whatever they may be!" 
+    },
+    "timestamp": "2001-01-04T12:00:00Z"
   },
   "temporary boosts": {
     "title": "Temporary Boosts",

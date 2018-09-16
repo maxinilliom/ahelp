@@ -227,10 +227,6 @@ exports.data = {
     "url": "http://runescape.wikia.com/wiki/Pay-to-play_Magic_training#Alternative_methods",
     "description": "Some users may wish to utilize methods outside of the ones displayed in this channel's guide. To aid in this, the following alternative methods are provided.",
         "color": 12269891,
-    "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
-      "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
-    },
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/c/c8/Magic_training_dummy_detail.png/revision/latest?cb=20140812213350"
     },
@@ -258,21 +254,6 @@ exports.data = {
       ]
   },
   "alternative methods pt2": {
-    "title": "Alternative Methods of Training Continued",
-    "url": "http://runescape.wikia.com/wiki/Pay-to-play_Magic_training#Alternative_methods",
-    "description": "Some users may wish to utilize methods outside of the ones displayed in this channel's guide. To aid in this, the following alternative methods are provided.",
-        "color": 12269891,
-    "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
-      "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
-    },
-    "thumbnail": {
-      "url": "https://vignette.wikia.nocookie.net/runescape2/images/4/43/Soul_wars_xp_rewards.png/revision/latest?cb=20131031233723"
-    },
-    "author": {
-      "name": "Max Cape Info",
-      "icon_url": "https://i.imgur.com/6c6q2iC.png"
-    },
     "fields": [
     { 
       "name": "▬▬ Stealing Creation ▬▬", 
@@ -290,7 +271,12 @@ exports.data = {
       "name": "​", 
       "value": "Players will receive a number of zeal points based on their performance in the game, unless the player joined the waiting area after the game was half over; in which case no zeal points are awarded. Players may trade these in with [Nomad](http://runescape.wikia.com/wiki/Nomad), [Zimberfizz](http://runescape.wikia.com/wiki/Zimberfizz), [Zimberfizz ashes](http://runescape.wikia.com/wiki/Zimberfizz_ashes), or [Zanik](http://runescape.wikia.com/wiki/Zanik) for a variety of rewards such as experience, charms, Slayer pets, and other items. Players can store a maximum of 50,000 Zeal points. This is equivalent to playing and winning 16,667 games."
     }
-      ]
+    ],
+    "footer": { 
+    "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg", 
+    "text": "Achievement Help | Helping you reach your goals, whatever they may be!" 
+    },
+    "timestamp": "2001-01-04T12:00:00Z"
   },
   "pet - newton": {
     "title": "Magic Pet - Newton",
@@ -452,10 +438,6 @@ exports.data = {
     "url": "http://runescape.wikia.com/wiki/Temporary_skill_boost",
     "description": "A temporary skill boost is anything caused by an item, Summoning familiar, or action that temporarily raises a player's level in one or more skills. It allows the player to do things above their current level.",
         "color": 12269891,
-    "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
-      "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
-    },
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/0/00/Magic_potion_detail.png/revision/latest?cb=20130424160355"
     },
@@ -487,26 +469,17 @@ exports.data = {
        ]
   },
   "temporary boosts pt2": {
-    "title": "Temporary Boosts Continued",
-    "url": "http://runescape.wikia.com/wiki/Temporary_skill_boost",
     "description": "\n[Wizard's Mind Bomb](http://runescape.wikia.com/wiki/Wizard%27s_mind_bomb)\n• +2 Magic levels (if under level 50)\n• +3 Magic levels (if 50 or over)\n• Lowers Attack by 4\n• Lowers Strength and Defence by 3\n\n[Mature Wizard's Mind Bomb](http://runescape.wikia.com/wiki/Mature_wmb)\n• +3 Magic levels (if 50 or over)\n• +4 Magic levels (if over 50)\n• Lowers Attack, Strength and Defence by 5\n\n[Magic Essence](http://runescape.wikia.com/wiki/Magic_essence)\n• +3 to +8 boost to Magic depending on your magic level\n\n[Vecna Skull](http://runescape.wikia.com/wiki/Vecna_skull)\n• 2 + 10% Magic levels\n• Can only be activated once every 7 minutes\n\n[Wolpertinger Scroll](http://runescape.wikia.com/wiki/Wolpertinger#Magic_focus_scroll)\n• +7 Magic levels\n• Requires 92 Summoning\n\n[Dominion Marker](http://runescape.wikia.com/wiki/Dominion_marker)\n• Tier 1: +4\n• Tier 2: +6\n• Tier 3: +8\n• Tier 4: +10\n• Reapplies the boost once it decays back to the base level",
-        "color": 12269891,
-    "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
-      "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
-    },
-    "thumbnail": {
-      "url": "https://vignette.wikia.nocookie.net/runescape2/images/3/32/Mature_wmb_detail.png/revision/latest?cb=20120908100131"
-    },
-    "author": {
-      "name": "Max Cape Info",
-      "icon_url": "https://i.imgur.com/6c6q2iC.png"
-    },
     "fields": [
       {
         "name": "​",
         "value": "[Fireberry](http://runescape.wikia.com/wiki/Fireberry)\n• +2 Magic levels\n• Reduces Defence by 1\n• Requires access to [The Arc](http://runescape.wikia.com/wiki/The_Arc)\n\n [Sugar Skull](http://runescape.wikia.com/wiki/Sugar_skull)\n• +2 Magic levels\n\n [Toffee Apple](http://runescape.wikia.com/wiki/Toffee_apple)\n• +2 Magic levelst\n\n[Spicy Stew](http://runescape.wikia.com/wiki/Spicy_stew)\n • Boost is applied to a random skill\n • Up to ±6 with 3 spice doses\n • Up to ±3 with 2 spice doses\n • Up to ±2 with 1 spice dose\n\n[God Banner](http://runescape.wikia.com/wiki/God_banner)\n• +5 levels\n• Lasts 30 minutes once per day"
       }
-       ]
+    ],
+    "footer": { 
+    "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg", 
+    "text": "Achievement Help | Helping you reach your goals, whatever they may be!" 
+    },
+    "timestamp": "2001-01-04T12:00:00Z"
   }
 };

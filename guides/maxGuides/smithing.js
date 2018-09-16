@@ -388,10 +388,6 @@ exports.data = {
     "url": "http://runescape.wikia.com/wiki/Bonus_experience_items",
     "description": "A permanent skill boost is anything caused by an item that permanently raises a player's level in one or more skills. It allows the player to do things above their current level.",
         "color": 12269891,
-    "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
-      "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
-    },
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/8/8e/Blacksmith%27s_outfit_equipped.png/revision/latest/scale-to-width-down/120?cb=20140406202055"
     },
@@ -427,21 +423,6 @@ exports.data = {
       ]
   },
   "permanent boosts pt2": {
-    "title": "Permanent Boosts",
-    "url": "http://runescape.wikia.com/wiki/Bonus_experience_items",
-    "description": "A permanent skill boost is anything caused by an item that permanently raises a player's level in one or more skills. It allows the player to do things above their current level.",
-        "color": 12269891,
-    "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
-      "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
-    },
-    "thumbnail": {
-      "url": "https://vignette.wikia.nocookie.net/runescape2/images/8/8e/Blacksmith%27s_outfit_equipped.png/revision/latest/scale-to-width-down/120?cb=20140406202055"
-    },
-    "author": {
-      "name": "Max Cape Info",
-      "icon_url": "https://i.imgur.com/6c6q2iC.png"
-    },
     "fields": [
           {
         "name": "Scroll of Efficiency",
@@ -459,7 +440,12 @@ exports.data = {
         "name": "Invention Perks",
         "value": "• With level 22 Invention, players can choose to smith using an [agumented crystal hammer](http://runescape.wikia.com/wiki/Augmented_crystal_hammer) or a [hammer-tron](http://runescape.wikia.com/wiki/Hammer-tron). [Tool gizmos](http://runescape.wikia.com/wiki/Tool_gizmo) with [perks](http://runescape.wikia.com/wiki/Perks) may be added to these items to give benefits to smithing. The most useful perks for smithing are:\n   • [Rapid](http://runescape.wikia.com/wiki/Rapid) - a 5% chance per rank to carry out work at a faster pace.\n   • [Tinker](http://runescape.wikia.com/wiki/Tinker) - a 5% chance per rank to carry out higher quality work, awarding an extra 25% experience.\n   • [Breakdown](http://runescape.wikia.com/wiki/Breakdown) - a 20% chance per rank of automatically disassembling items produced."
         }
-      ]
+    ],
+    "footer": { 
+    "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg", 
+    "text": "Achievement Help | Helping you reach your goals, whatever they may be!" 
+    },
+    "timestamp": "2001-01-04T12:00:00Z"
   },
   "temporary boosts": {
     "title": "Temporary Boosts",
