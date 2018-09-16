@@ -3579,6 +3579,40 @@ exports.data = {
     },
     "timestamp": "2001-01-04T12:00:00Z"
   },
+  "unlockables - shops - fee fi fo fum": {
+    "title": "Fee Fi Fo Fum",
+    "author": {
+      "name": "True Trimmed Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[Fee Fi Fo Fum](https://runescape.wikia.com/wiki/Farmers%27_Market#Stock) requires the player to buy all rewards from the [Farmers' Market](https://runescape.wikia.com/wiki/Farmers%27_Market), which is ran by [Granny Potterington](https://runescape.wikia.com/wiki/Granny_Potterington) and can be found in the [Player-owned farm](https://runescape.wikia.com/wiki/Player-owned_farm). The permanent rewards consists out of the following rewards:",
+    "color": 10257648,
+    "thumbnail": {
+      "url": "https://vignette.wikia.nocookie.net/runescape2/images/2/2c/Granny_Potterington.png/revision/latest?cb=20180904182854"
+    },
+    "fields": [
+      {
+        "name": "Farm Upgrades:",
+        "value": "• The **'Animals can now breed in small pens'** upgrade\n• The **'Animals can now breed in medium pens'** upgrade\n• The **'Animals can now breed in large pens'** upgrade"
+      },
+      {
+        "name": "Misc Rewards:",
+        "value": "• The [Master farmer outfit](https://runescape.wikia.com/wiki/Master_farmer_outfit) blueprint\n• [Trevor](https://runescape.wikia.com/wiki/Trevor) the magical zygomite\n• The [Herbicide](https://runescape.wikia.com/wiki/Herbicide) hoarder upgrade\n• The [Seedicide](https://runescape.wikia.com/wiki/Seedicide) stealer upgrade\n• The Farm deeds (+titles)"
+      },
+      {
+        "name": "Requirements:",
+        "value": "• 80 Farming\n• 60 Construction\n\n• 322,000 - 342,000 [beans](https://runescape.wikia.com/wiki/Beans)\n• Herbicide (required for the upgrade)\n• Seedicide (required for the upgrade)\n• Master farming outfit\n• All [pens](https://runescape.wikia.com/wiki/Player-owned_farm#Pens) built\n\n• The [Bean There, Done That](https://runescape.wikia.com/wiki/Bean_There%2C_Done_That) achievement\n• The [Ever So Clever](https://runescape.wikia.com/wiki/Ever_So_Clever) achievement\n\n• Completion of the [Player-Owned Farm Tutorial](https://runescape.wikia.com/wiki/Player-owned_farm#Tutorial)"
+      },
+      {
+        "name": "Guide:",
+        "value": "The best way to obtain beans is to sell the highest adolescent animals per pen tier, which is **chinchompas** for small pens, **zygonites** for medium pens, and **dragons** for large pens. These animals can be sold to specific [animal traders](https://runescape.wikia.com/wiki/Player-owned_farm#Buyers), who only appear on certain days.\n\nMore detailed information can be found using the **.rs bean counter i-iv** command.\n\n20,000 beans can be saved if the player chooses to buy both **Herbicide** from the [Dungeoneering Rewards Shop](https://runescape.wikia.com/wiki/Dungeoneering/Rewards) and **Seedicide** from the [Cabbage Facepunch Bonanza](https://runescape.wikia.com/wiki/Cabbage_Facepunch_Bonanza) minigame."
+      }
+    ],
+    "footer": {
+      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
+    }
+  },
   "unlockables - shops - slayer rewards shop": {
     "title": "Slayer Rewards Shop",
     "author": {
