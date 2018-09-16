@@ -144,7 +144,11 @@ exports.data = {
     "fields": [
       {
         "name": "The Empty Throne Room",
-        "value": "With at least 65 Divination players who have completed [The Dig Site](http://runescape.wikia.com/wiki/The_Dig_Site) quest can gain Divination experience from [The Empty Throne Room](http://runescape.wikia.com/wiki/The_Empty_Throne_Room). Players can gain a total of 800,000 Divination experience from the Empty Throne Room: this is enough to level from 65-75 Divination. It is advised that the player uses the method to train from level 65-75 as it gives the greatest improvement in experience rates over alternative training methods available when used at these levels and is free. Training at the throne room gives around 66,000 Divination experience an hour (at level 99 Divination).\n\nTo gain Divination experience the player must take [Senntisten crystals](http://runescape.wikia.com/wiki/Senntisten_crystal) from the crystal storage bin, located near the room's entrance; transmute them into red, yellow, green and blue crystals; and place them into the nearby bins of the corresponding colour. One of the coloured bins is empowered, with this changing approximately every minute. Transmuting Senntisten crystals to the empowered colour gives 10 times the regular experience so players should prioritise transmuting to this colour. Experience from depositing into the empowered bin does not grant extra experience."
+        "value": "With at least 65 Divination players who have completed [The Dig Site](http://runescape.wikia.com/wiki/The_Dig_Site) quest can gain Divination experience from [The Empty Throne Room](http://runescape.wikia.com/wiki/The_Empty_Throne_Room). Players can gain a total of 800,000 Divination experience from the Empty Throne Room: this is enough to level from 65-75 Divination. It is advised that the player uses the method to train from level 65-75 as it gives the greatest improvement in experience rates over alternative training methods available when used at these levels and is free. Training at the throne room gives around 66,000 Divination experience an hour (at level 99 Divination).\n\nTo gain Divination experience the player must take [Senntisten crystals](http://runescape.wikia.com/wiki/Senntisten_crystal) from the crystal storage bin, located near the room's entrance; transmute them into red, yellow, green and blue crystals; and place them into the nearby bins of the corresponding colour. "
+      },
+      {
+        "name": "​",
+        "value": "One of the coloured bins is empowered, with this changing approximately every minute. Transmuting Senntisten crystals to the empowered colour gives 10 times the regular experience so players should prioritise transmuting to this colour. Experience from depositing into the empowered bin does not grant extra experience."
       }
       ]
   },
@@ -212,7 +216,7 @@ exports.data = {
       "name": "Max Cape Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     }
-  ,
+  },
   "90 - 95": {
     "title": "Divination Training Levels 90-95",
     "url": "http://runescape.wikia.com/wiki/Divination_training#Luminous_wisps_.28levels_90.E2.80.9395.29",
@@ -479,5 +483,4 @@ exports.data = {
       }
       ]
     }
-  }
-};
+  };

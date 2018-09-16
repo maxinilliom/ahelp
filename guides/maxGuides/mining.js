@@ -155,7 +155,7 @@ exports.data = {
       }
         ]
   },
-  "alternative methods": {
+  "alternative methods pt1": {
     "title": "Alternative Methods of Training",
     "url": "https://runescape.wikia.com/wiki/Pay-to-play_Mining_training#Alternative_methods_of_gaining_experience",
     "description": "Some users may wish to utilize methods outside of the ones displayed in this channel's guide. To aid in this, the following alternative methods are provided.",
@@ -191,8 +191,12 @@ exports.data = {
       {
         "name": "▬▬ Cabbage Facepunch Bonanza ▬▬",
         "value": "[Cabbage Facepunch Bonanza](https://runescape.wikia.com/wiki/Cabbage_Facepunch_Bonanza) is an instanced minigame which can be played to gain renown points that can be exchanged for bonus experience in Mining. There are no requirements to play the minigame and players cannot bring any items into it. After learning how the game works and how to maximise points gained players can expect an average of 170 renown points per game depending on luck and other players. If a player is able to gain 170 renown per game, with each game lasting approximately 12 and a half minutes, 816 renown can be gained an hour. Each renown can be exchanged for between 2.2 with level 1 Mining, and 121.9 with level 99, Mining bonus experience; so players can gain between 1,795 and 99,470 bonus experience in Mining an hour. Each day players gain double renown for the first 600 renown that they obtain; therefore 1632 renown can be obtained in an hour, equivalent to between 3,590 and 198,941 bonus experience in Mining."
-      },
-      {
+      }
+      ]
+   },
+  "alternative methods pt2": {  
+      "fields":[  
+         {
         "name": "▬▬ Stealing Creation ▬▬",
         "value": "Players can use reward points from the [Stealing Creation](https://runescape.wikia.com/wiki/Stealing_Creation) minigame to purchase [proto-tools](https://runescape.wikia.com/wiki/Proto-tool) and [volatile clay tools](https://runescape.wikia.com/wiki/Volatile_clay_tools). These items can be transformed into a selection of skill related tools, including [sacred clay pickaxes](https://runescape.wikia.com/wiki/Sacred_clay_pickaxe) and [volatile clay pickaxes](https://runescape.wikia.com/wiki/Volatile_clay_pickaxe). These pickaxes can be right-clicked to grant Mining bonus experience (it is not necessary for the pickaxes to be wielded to gain bonus experience). Players are advised to play Stealing Creation within a group of players co-operating in non-combat games to deplete all sources of clay available more quickly. Once all the clay available in a game has been depleted the game will end early, allowing players to gain reward points in shorter amounts of time."
       },
@@ -204,7 +208,12 @@ exports.data = {
         "name": "▬▬ Barbarian Assault ▬▬",
         "value": "Players can gain Mining bonus experience as a reward from playing the Barbarian Assault minigame. At level 99 Mining it is possible to gain 1,900,000 bonus experience per hour playing hard mode Barbarian Assault waves 6-9, at a cost of 6 Barbarian assault ticket - hard wave 10 per hour. Players may as an alternative gain 1,300,000 bonus experience per hour playing hard mode waves 1-9 without having to pay for the tickets. \n\nIn order to play hard mode Barbarian Assault the normal mode of the minigame must be completed at least once. It is highly recommended for players to reach maximum role levels before starting playing for bonus experience."
       }
-      ]
+    ],
+    "footer": { 
+    "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg", 
+    "text": "Achievement Help | Helping you reach your goals, whatever they may be!" 
+    },
+    "timestamp": "2001-01-04T12:00:00Z"
   },
   "pet - rocky": {
     "title": "Mining Pet - Rocky",
@@ -264,15 +273,11 @@ exports.data = {
       }
       ]
   },
-  "distractions and diversions": { 
+  "distractions and diversions pt1": { 
 "title": "Distractions and Diversions", 
 "url": "http://runescape.wikia.com/wiki/Distractions_and_Diversions", 
 "description": "D&Ds are a subclassification of minigames. However, unlike minigames many D&Ds move around the world to various locations, have a limit on how often they can be played, and only occur at particular times of day.\n\nDistractions and Diversions aim to divert the original intentions of the player in order to provide an interesting distraction from their everyday routines. D&Ds come in many different shapes and sizes; covering Combat, Gathering, Artisan, and Support skills. There are a wide variety of different options available to suit the players choice.", 
 "color": 12269891, 
-"footer": { 
-"icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg", 
-"text": "Achievement Help | Helping you reach your goals, whatever they may be!" 
-}, 
 "thumbnail": { 
 "url": "https://vignette.wikia.nocookie.net/runescape2/images/6/62/D%26D_icon.png/revision/latest?cb=20140914110639" 
 }, 
@@ -300,8 +305,12 @@ exports.data = {
 { 
 "name": "​", 
 "value": "Once the final layer (when the star is size one) is fully mined, a star sprite will be released, and players will not be able to mine any more. The star sprite in the remains of its star can be spoken to in order to exchange stardust for a [reward](https://runescape.wikia.com/wiki/Shooting_Star#Rewards). The star sprite will stay for ten minutes before eventually disappearing. If the star is not fully mined and the sprite not released by time the next star falls, the rock vanishes without an opportunity to exchange star dust. However, stardust need not be exchanged at the star at which it was received, meaning that if a player mines some dust but didn't manage to break open the star, they could still exchange it with the star sprite in the next star." 
-},
-{ 
+}
+      ]
+   },
+  "distractions and diversions pt2": {  
+      "fields":[  
+      { 
 "name": "▬▬ Wilderness Warbands ▬▬", 
 "value": "[Wilderness Warbands](https://runescape.wikia.com/wiki/Wilderness_Warbands) is a dangerous members Distraction & Diversion that occurs in the [Wilderness](https://runescape.wikia.com/wiki/Wilderness), composed of heavily defended storage camps guarded by the followers of the different Gods. They will set up camp in the Wilderness every 7 hours, one time at each of the [three locations]((https://runescape.wikia.com/wiki/Wilderness_Warbands#Time_for_the_next_warbands). Warbands events are synchronised on each world. \n\nWilderness Warbands give large amounts of experience in Farming, Construction, Herblore, Mining, or Smithing. While no combat is necessary, it is still highly contested between players which may result in the loss of most rewards if you are killed. Players should take combat equipment to fight off/scare off player killers but must be conscious of the fact that this gear can be lost too. You also need 25 free inventory spaces for the Warbands supplies from looting the camps." 
 }, 
@@ -309,8 +318,13 @@ exports.data = {
 "name": "​", 
 "value": "Players will be notified via a server-wide notice when a Wilderness camp appears. Participating in looting will [skull](https://runescape.wikia.com/wiki/Skull_(status) you, and holding the looting supplies in your inventory will prevent you from teleporting. Players can be attacked whilst looting without any combat level restrictions. \n\nYou can loot from up to 3 camps (25 maximum per camp) and obtain up to 75 supplies every day, resetting at midnight UTC. At level 98, a total of 356,550 experience can be obtained per day from 75 supplies. The 3 camps looted must be on different worlds and each world's camp can be at a different location. Even if you are killed and lose supplies, your attempt will still count as one of the three. However you can return to the same camp to try again without penalty." 
 }
-] 
-} ,
+    ],
+    "footer": { 
+    "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg", 
+    "text": "Achievement Help | Helping you reach your goals, whatever they may be!" 
+    },
+    "timestamp": "2001-01-04T12:00:00Z"
+  },
   "daily challenge": {
     "title": "Daily Challenge",
     "url": "http://runescape.wikia.com/wiki/Challenge_System/Mining",
@@ -389,15 +403,11 @@ exports.data = {
       }
       ]
   },
-  "temporary boosts": {
+  "temporary boosts pt1": {
     "title": "Temporary Boosts",
     "url": "http://runescape.wikia.com/wiki/Temporary_skill_boost",
     "description": "A temporary skill boost is anything caused by an item, Summoning familiar, or action that temporarily raises a player's level in one or more skills. It allows the player to do things above their current level.",
         "color": 12269891,
-    "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
-      "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
-    },
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/2/23/Lava_titan.png/revision/latest/scale-to-width-down/360?cb=20120415091905"
     },
@@ -429,7 +439,11 @@ exports.data = {
       {
         "name": "​",
         "value": "[Mining urns](https://runescape.wikia.com/wiki/Mining_urn)\n• Mining urns will significantly increase experience rates per hour, and experience per ore by up to 20%. If using Mining urns together with [Bank Presets](https://runescape.wikia.com/wiki/Bank_preset), it may be a good idea to use an inventory preset with a new mining urn (r) along with an activated mining urn. This method sacrifices one inventory space for the convenience of not having to bank again for new urns, and guaranteeing the start of another urn right after one is being teleported away."
-      },
+      }
+      ]
+   },
+  "temporary boosts pt2": {  
+      "fields":[  
       {
         "name": "​",
         "value": "There are several types of urns, each which require a greater level in the Crafting skill to make. The levels of urns are:\n\n• [Cracked mining urn](https://runescape.wikia.com/wiki/Cracked_mining_urn) - Level 1 Crafting. \n• [Fragile mining urn](https://runescape.wikia.com/wiki/Fragile_mining_urn) - Level 17 Crafting. \n• [Mining urn](https://runescape.wikia.com/wiki/Mining_urn) - Level 32 Crafting. \n• [Strong mining urn](https://runescape.wikia.com/wiki/Strong_mining_urn) - Level 48 Crafting. \n• [Decorated mining urn](https://runescape.wikia.com/wiki/Decorated_mining_urn) - Level 59 Crafting."
@@ -438,6 +452,11 @@ exports.data = {
         "name": "​",
         "value": "[Voice of Seren - Trahaearn](http://runescape.wikia.com/wiki/Voice_of_Seren#Known_effects)\n• 20% more base Mining XP ores, gems, and Seren Stones in the district. Mining any type of ore has a chance of yielding corrupted ore (this occurs at any mining level, and will count towards the 100 needed to unlock the \"of the Trahaearn\" title.).\n• Ore rocks have a chance of changing into harmonised rocks temporarily, allowing the rocks to be mined without running out of ore. \n\n[Mining accumulator](https://runescape.wikia.com/wiki/Mining_accumulator) \n• The mining accumulator is an [Invention device](https://runescape.wikia.com/wiki/Devices) that gains charges whenever the player fails to mine. It gains 1% completion for a failed mining action. When it reaches 100% completion, it can be studied for 2,500 Mining experience, which destroys the accumulator."
       }
-      ]
+    ],
+    "footer": { 
+    "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg", 
+    "text": "Achievement Help | Helping you reach your goals, whatever they may be!" 
+    },
+    "timestamp": "2001-01-04T12:00:00Z"
   }
 };
