@@ -12,8 +12,8 @@ exports.data = {
 				"icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
 				"text": "Achievement Help"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"search": {
 		"cmds": [],
@@ -28,8 +28,8 @@ exports.data = {
 				"icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
 				"text": "Achievement Help"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"about 'kin time": {
 		"cmds": ["mqc"],
@@ -43,28 +43,27 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
+			"fields": [{
+					"name": "Start Point:",
+					"value": "• Speak to Mandrith in Edgeville"
+				},
 				{
-                    "name": "Start Point:",
-                    "value": "• Speak to Mandrith in Edgeville"
-      			},
-        		{
-                    "name": "Official Difficulty:",
-                    "value": "• None"
-        		},
-        		{
-                    "name": "Official Length:",
-                    "value": "• Short"
-       			},
-        		{
-                    "name": "Items Required:",
-                    "value": "• 5 [Bittercap mushroom](https://runescape.wikia.com/wiki/Bittercap_mushroom)\n• 20 [Plank](https://runescape.wikia.com/wiki/Plank)\n• 10 [Oak plank](https://runescape.wikia.com/wiki/Oak_plank)\n• 10 [Mahogany plank](https://runescape.wikia.com/wiki/Mahogany_plank)\n• [Molten glass](https://runescape.wikia.com/wiki/Molten_glass)\n• [Marble block](https://runescape.wikia.com/wiki/Marble_block)\n• 100 [Water rune](https://runescape.wikia.com/wiki/Water_rune)\n• [Magic watering can](https://runescape.wikia.com/wiki/Magic_watering_can) (tool belt works)"
-        		},
-        		{
-                    "name": "Enemies to Defeat:",
-                    "value": "• None"
-        		},
-        		{
+					"name": "Official Difficulty:",
+					"value": "• None"
+				},
+				{
+					"name": "Official Length:",
+					"value": "• Short"
+				},
+				{
+					"name": "Items Required:",
+					"value": "• 5 [Bittercap mushroom](https://runescape.wikia.com/wiki/Bittercap_mushroom)\n• 20 [Plank](https://runescape.wikia.com/wiki/Plank)\n• 10 [Oak plank](https://runescape.wikia.com/wiki/Oak_plank)\n• 10 [Mahogany plank](https://runescape.wikia.com/wiki/Mahogany_plank)\n• [Molten glass](https://runescape.wikia.com/wiki/Molten_glass)\n• [Marble block](https://runescape.wikia.com/wiki/Marble_block)\n• 100 [Water rune](https://runescape.wikia.com/wiki/Water_rune)\n• [Magic watering can](https://runescape.wikia.com/wiki/Magic_watering_can) (tool belt works)"
+				},
+				{
+					"name": "Enemies to Defeat:",
+					"value": "• None"
+				},
+				{
 					"name": "Requirements:",
 					"value": "• Rebuilding Edgeville Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Rebuilding_Edgeville)\n• Ritual of the Mahjarrat Quest completion | [Runescape Wiki](https://runescape.wikia.com/wiki/Ritual_of_the_Mahjarrat)"
 				},
@@ -77,8 +76,8 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 5"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"abyssal reach": {
 		"cmds": ["comp", "mqc"],
@@ -92,28 +91,27 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
+			"fields": [{
+					"name": "Start Point:",
+					"value": "• Speak to the Mage of Zamorak at the end of the [River Lum](https://runescape.wikia.com/wiki/River_Lum) in the [Wilderness](https://runescape.wikia.com/wiki/Wilderness) (Roams levels 4-7)"
+				},
 				{
-                    "name": "Start Point:",
-                    "value": "• Speak to the Mage of Zamorak at the end of the [River Lum](https://runescape.wikia.com/wiki/River_Lum) in the [Wilderness](https://runescape.wikia.com/wiki/Wilderness) (Roams levels 4-7)"
-      			},
-        		{
-                    "name": "Official Difficulty:",
-                    "value": "• None"
-        		},
-        		{
-                    "name": "Official Length:",
-                    "value": "• Short"
-       			},
-        		{
-                    "name": "Items Required:",
-                    "value": "• None"
-        		},
-        		{
-                    "name": "Enemies to Defeat:",
-                    "value": "• None"
-        		},
-            	{
+					"name": "Official Difficulty:",
+					"value": "• None"
+				},
+				{
+					"name": "Official Length:",
+					"value": "• Short"
+				},
+				{
+					"name": "Items Required:",
+					"value": "• None"
+				},
+				{
+					"name": "Enemies to Defeat:",
+					"value": "• None"
+				},
+				{
 					"name": "Requirements:",
 					"value": "• Rune Mysteries Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Rune_Mysteries)"
 				},
@@ -126,8 +124,8 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 10"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"advanced sweeping": {
 		"cmds": ["mqc", "trim"],
@@ -141,8 +139,7 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
+			"fields": [{
 					"name": "Requirements:",
 					"value": "• Swept Away Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Swept_Away)\n• Diamond in the Rough Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Diamond_in_the_Rough)\n• Lunar Diplomacy Quest partial completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Lunar_Diplomacy)\n• Underground Pass Quest partial completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Underground_Pass)"
 				},
@@ -155,8 +152,8 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 15"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"aereck's old bones": {
 		"cmds": ["mqc"],
@@ -170,27 +167,26 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
+			"fields": [{
+					"name": "Start Point:",
+					"value": "• Speak to Father Aereck in the Lumbridge church, east of [Lumbridge Castle](https://runescape.wikia.com/wiki/Lumbridge_Castle)"
+				},
 				{
-                    "name": "Start Point:",
-                    "value": "• Speak to Father Aereck in the Lumbridge church, east of [Lumbridge Castle](https://runescape.wikia.com/wiki/Lumbridge_Castle)"
-      			},
-        		{
-                    "name": "Official Difficulty:",
-                    "value": "• Novice"
-        		},
-        		{
-                    "name": "Official Length:",
-                    "value": "• Short"
-       			},
-        		{
-                    "name": "Items Required:",
-                    "value": "• None"
-        		},
-        		{
-                    "name": "Enemies to Defeat:",
-                    "value": "• None"
-        		},
+					"name": "Official Difficulty:",
+					"value": "• Novice"
+				},
+				{
+					"name": "Official Length:",
+					"value": "• Short"
+				},
+				{
+					"name": "Items Required:",
+					"value": "• None"
+				},
+				{
+					"name": "Enemies to Defeat:",
+					"value": "• None"
+				},
 				{
 					"name": "Requirements:",
 					"value": "• The Restless Ghost Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Restless_Ghost)"
@@ -204,33 +200,31 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 5"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"agile from head to toe": {
 		"cmds": ["trim"],
 		"embed": {
-            "title": "Agile from Head to Toe",
-            "author": {
-                "name": "Trimmed Completionist Cape Info",
-                "icon_url": "https://i.imgur.com/6c6q2iC.png"
-            },
-            "description": "[Agile from Head to Toe](https://runescape.wikia.com/wiki/Agile_from_Head_to_Toe) is an achievement that requires the player to get the [Agile Top](https://runescape.wikia.com/wiki/Agile_top) and [Legs](https://runescape.wikia.com/wiki/Agile_legs). They each require 250 completed laps of the [Advanced Barbarian Outpost](https://runescape.wikia.com/wiki/Barbarian_Outpost) and [Advanced Gnome Stronghold agility course](https://runescape.wikia.com/wiki/Gnome_Stronghold_Agility_Course) respectively.\n\nThe Barbarian Outpost is located north-east of [Baxtorian Falls](https://runescape.wikia.com/wiki/Baxtorian_Falls) and north of the [Tree Gnome Stronghold](https://runescape.wikia.com/wiki/Tree_Gnome_Stronghold). Players can easily get there by utilizing the [games necklace](https://runescape.wikia.com/wiki/Games_necklace) teleport. Once the laps have been successfully completed, players can speak to [Gunnjorn](https://runescape.wikia.com/wiki/Gunnjorn), located near the course, to claim the agile top. \n\nThe Gnome Stronghold agility course is located south-east of the [Grand Tree](https://runescape.wikia.com/wiki/Grand_Tree) in the [Tree Gnome Stronghold](https://runescape.wikia.com/wiki/Tree_Gnome_Stronghold), which is north-west of [East Ardougne](https://runescape.wikia.com/wiki/East_Ardougne). Players can easily get there by utilizing the [Spirit Tree](https://runescape.wikia.com/wiki/Spirit_tree) teleportation. Once the laps have been successfully completed, players can speak to the [Gnome trainer](https://runescape.wikia.com/wiki/Gnome_trainer), located near the course, to claim the agile legs.",
-            "thumbnail": {
-                "url": "https://i.imgur.com/Shmagnp.png"
-            },
-            "fields": [
-                {
-                    "name": "Requirements:",
-                    "value": "• 90 Agility"
-                }
-            ],
-            "footer": {
-                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-                "text": "Runescore awarded: 20"
-            },
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"title": "Agile from Head to Toe",
+			"author": {
+				"name": "Trimmed Completionist Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Agile from Head to Toe](https://runescape.wikia.com/wiki/Agile_from_Head_to_Toe) is an achievement that requires the player to get the [Agile Top](https://runescape.wikia.com/wiki/Agile_top) and [Legs](https://runescape.wikia.com/wiki/Agile_legs). They each require 250 completed laps of the [Advanced Barbarian Outpost](https://runescape.wikia.com/wiki/Barbarian_Outpost) and [Advanced Gnome Stronghold agility course](https://runescape.wikia.com/wiki/Gnome_Stronghold_Agility_Course) respectively.\n\nThe Barbarian Outpost is located north-east of [Baxtorian Falls](https://runescape.wikia.com/wiki/Baxtorian_Falls) and north of the [Tree Gnome Stronghold](https://runescape.wikia.com/wiki/Tree_Gnome_Stronghold). Players can easily get there by utilizing the [games necklace](https://runescape.wikia.com/wiki/Games_necklace) teleport. Once the laps have been successfully completed, players can speak to [Gunnjorn](https://runescape.wikia.com/wiki/Gunnjorn), located near the course, to claim the agile top. \n\nThe Gnome Stronghold agility course is located south-east of the [Grand Tree](https://runescape.wikia.com/wiki/Grand_Tree) in the [Tree Gnome Stronghold](https://runescape.wikia.com/wiki/Tree_Gnome_Stronghold), which is north-west of [East Ardougne](https://runescape.wikia.com/wiki/East_Ardougne). Players can easily get there by utilizing the [Spirit Tree](https://runescape.wikia.com/wiki/Spirit_tree) teleportation. Once the laps have been successfully completed, players can speak to the [Gnome trainer](https://runescape.wikia.com/wiki/Gnome_trainer), located near the course, to claim the agile legs.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [{
+				"name": "Requirements:",
+				"value": "• 90 Agility"
+			}],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 20"
+			},
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"ali the trader": {
 		"cmds": ["mqc"],
@@ -244,28 +238,27 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-							{
-                    "name": "Start Point:",
-                    "value": "• Speak to Ali Morrisane, north of [Faruq](https://runescape.wikia.com/wiki/Faruq) in [Al Kharid](https://runescape.wikia.com/wiki/Al_Kharid)"
-      			},
-        		{
-                    "name": "Official Difficulty:",
-                    "value": "• None"
-        		},
-        		{
-                    "name": "Official Length:",
-                    "value": "• Short"
-       			},
-        		{
-                    "name": "Items Required:",
-                    "value": "• [Coins](https://runescape.wikia.com/wiki/Coins) to pay the [Street Urchin](https://runescape.wikia.com/wiki/Street_urchin) to conspire against the [Blackjack seller](https://runescape.wikia.com/wiki/Blackjack_seller) (required for [Defensive blackjacks](https://runescape.wikia.com/wiki/Rogue_Trader#Defensive_Blackjacks)) and for [Magic carpet](https://runescape.wikia.com/wiki/Magic_carpet) rides (optional)\n\n• 3 [Dyes](https://runescape.wikia.com/wiki/Dye) of any color (for [Desert outfits](https://runescape.wikia.com/wiki/Desert_outfit))\n\n **OR**\n\n• 3 Animal pelts of the same kind. This may include [Cowhide](https://runescape.wikia.com/wiki/Cowhide), [Wool](https://runescape.wikia.com/wiki/Wool), [Snakeskin](https://runescape.wikia.com/wiki/Snakeskin), any type of [Fur](https://runescape.wikia.com/wiki/Fur), etc. (for [Menaphite clothing](https://runescape.wikia.com/wiki/Menaphite_clothing), can be obtained in [Pollnivneach](https://runescape.wikia.com/wiki/Pollnivneach))"
-        		},
-        		{
-                    "name": "Enemies to Defeat:",
-                    "value": "• None"
-        		},
-            {
+			"fields": [{
+					"name": "Start Point:",
+					"value": "• Speak to Ali Morrisane, north of [Faruq](https://runescape.wikia.com/wiki/Faruq) in [Al Kharid](https://runescape.wikia.com/wiki/Al_Kharid)"
+				},
+				{
+					"name": "Official Difficulty:",
+					"value": "• None"
+				},
+				{
+					"name": "Official Length:",
+					"value": "• Short"
+				},
+				{
+					"name": "Items Required:",
+					"value": "• [Coins](https://runescape.wikia.com/wiki/Coins) to pay the [Street Urchin](https://runescape.wikia.com/wiki/Street_urchin) to conspire against the [Blackjack seller](https://runescape.wikia.com/wiki/Blackjack_seller) (required for [Defensive blackjacks](https://runescape.wikia.com/wiki/Rogue_Trader#Defensive_Blackjacks)) and for [Magic carpet](https://runescape.wikia.com/wiki/Magic_carpet) rides (optional)\n\n• 3 [Dyes](https://runescape.wikia.com/wiki/Dye) of any color (for [Desert outfits](https://runescape.wikia.com/wiki/Desert_outfit))\n\n **OR**\n\n• 3 Animal pelts of the same kind. This may include [Cowhide](https://runescape.wikia.com/wiki/Cowhide), [Wool](https://runescape.wikia.com/wiki/Wool), [Snakeskin](https://runescape.wikia.com/wiki/Snakeskin), any type of [Fur](https://runescape.wikia.com/wiki/Fur), etc. (for [Menaphite clothing](https://runescape.wikia.com/wiki/Menaphite_clothing), can be obtained in [Pollnivneach](https://runescape.wikia.com/wiki/Pollnivneach))"
+				},
+				{
+					"name": "Enemies to Defeat:",
+					"value": "• None"
+				},
+				{
 					"name": "Requirements:",
 					"value": "• Rune Mysteries Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Rune_Mysteries)\n• The Feud Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Feud)\n• Ichtlarin's Little Helper Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Icthlarin%27s_Little_Helper)"
 				},
@@ -278,8 +271,8 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 15"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"all rise": {
 		"cmds": ["mqc", "trim"],
@@ -293,8 +286,7 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
+			"fields": [{
 					"name": "Court Cases:",
 					"value": "• [Mugger v. Roger Murray](http://runescape.wikia.com/wiki/Mugger_v._Roger_Murray)\n• [River troll v. The People](http://runescape.wikia.com/wiki/River_troll_v._The_People)\n• [Drunken Dwarf v. The People](http://runescape.wikia.com/wiki/Drunken_Dwarf_v._The_People)\n• [Evil Twin v. Good Twin](http://runescape.wikia.com/wiki/Evil_Twin_v._Good_Twin)\n• [Rick Turpentine v. The (Rich) People](http://runescape.wikia.com/wiki/Rick_Turpentine_v._The_(Rich%29_People)\n• [The Mime v. The People](http://runescape.wikia.com/wiki/The_Mime_v._The_People)\n• [The Frog Prince v. The People](http://runescape.wikia.com/wiki/The_Frog_Prince_v._The_People)\n• [The Gravedigger v. The People](http://runescape.wikia.com/wiki/The_Gravedigger_v._The_People)"
 				},
@@ -311,8 +303,8 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 50"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"almost as perky as a prawn": {
 		"cmds": ["comp"],
@@ -326,8 +318,7 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
+			"fields": [{
 					"name": "Requirements:",
 					"value": "• 63 Construction"
 				},
@@ -340,8 +331,8 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 20"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"angs off my ring": {
 		"cmds": ["mqc"],
@@ -355,8 +346,7 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
+			"fields": [{
 					"name": "Requirements:",
 					"value": "• The Light Within Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Light_Within)"
 				},
@@ -369,8 +359,8 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 15"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"annihilator": {
 		"cmds": ["comp", "mqc"],
@@ -384,8 +374,7 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
+			"fields": [{
 					"name": "Requirements:",
 					"value": "• Fate of the Gods Quest partial completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Fate_of_the_Gods)"
 				},
@@ -398,8 +387,8 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 20"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"any odd chicken": {
 		"cmds": ["mqc"],
@@ -413,28 +402,27 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
+			"fields": [{
+					"name": "Start Point:",
+					"value": "• Speak to [Veronica](https://runescape.wikia.com/wiki/Veronica), south of Draynor Manor gates"
+				},
 				{
-                    "name": "Start Point:",
-                    "value": "• Speak to [Veronica](https://runescape.wikia.com/wiki/Veronica), south of Draynor Manor gates"
-      			},
-        		{
-                    "name": "Official Difficulty:",
-                    "value": "• Novice"
-        		},
-        		{
-                    "name": "Official Length:",
-                    "value": "• Medium"
-       			},
-        		{
-                    "name": "Items Required:",
-                    "value": "• None"
-        		},
-        		{
-                    "name": "Enemies to Defeat:",
-                    "value": "• None"
-        		},
-        		{
+					"name": "Official Difficulty:",
+					"value": "• Novice"
+				},
+				{
+					"name": "Official Length:",
+					"value": "• Medium"
+				},
+				{
+					"name": "Items Required:",
+					"value": "• None"
+				},
+				{
+					"name": "Enemies to Defeat:",
+					"value": "• None"
+				},
+				{
 					"name": "Guide:",
 					"value": "• [Ernest the Chicken Quest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Abyss_(miniquest%29)"
 				}
@@ -443,8 +431,8 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 5"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"ape a'hollow": {
 		"cmds": ["mqc"],
@@ -458,47 +446,44 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
-					"name": "Requirements:",
-					"value": "• 48 Agility\n\n• Fairy Tale III - Battle at Ork's Rift Quest partial completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Rune_Mysteries)\n• Monkey Madness Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Monkey_Madness)"
-				}
-			],
+			"fields": [{
+				"name": "Requirements:",
+				"value": "• 48 Agility\n\n• Fairy Tale III - Battle at Ork's Rift Quest partial completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Rune_Mysteries)\n• Monkey Madness Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Monkey_Madness)"
+			}],
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 15"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"arc - all your energies": {
 		"cmds": ["trim"],
 		"embed": {
-            "title": "Arc - All Your Energies",
-            "author": {
-                "name": "Cape Info",
-                "icon_url": "https://i.imgur.com/6c6q2iC.png"
-            },
-            "description": "[Arc - All Your Energies](http://runescape.wikia.com/wiki/Arc_-_All_Your_Energies) is an achievement that requires the player to unlock the [Energy-gathering scrimshaw](https://runescape.wikia.com/wiki/Energy-gathering_scrimshaw) from the [Waiko Reward Shop](https://runescape.wikia.com/wiki/Waiko_Reward_Shop) for 5,000 [Chimes](https://runescape.wikia.com/wiki/Chimes) and 5 [Taijitu](https://runescape.wikia.com/wiki/Taijitu).",
-            "thumbnail": {
-                "url": "https://i.imgur.com/Shmagnp.png"
-            },
-            "fields": [
-                {
-                    "name": "Requirements:",
-                    "value": "• Impressing the Locals Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Impressing_the_Locals)"
-                },
-                {
-                    "name": "Guides:",
-                    "value": "• The best way to gather large amounts of taijitu is to repeatedly go on long voyages and look for treasure chests and taijitu on the ground.\n\n• [Farming Chimes on the Arc | Maikeru RS - YouTube](https://www.youtube.com/watch?v=zRs1QtGzv5o)"
-                }
-            ],
-            "footer": {
-                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-                "text": "Runescore awarded: 10"
-            },
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"title": "Arc - All Your Energies",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Arc - All Your Energies](http://runescape.wikia.com/wiki/Arc_-_All_Your_Energies) is an achievement that requires the player to unlock the [Energy-gathering scrimshaw](https://runescape.wikia.com/wiki/Energy-gathering_scrimshaw) from the [Waiko Reward Shop](https://runescape.wikia.com/wiki/Waiko_Reward_Shop) for 5,000 [Chimes](https://runescape.wikia.com/wiki/Chimes) and 5 [Taijitu](https://runescape.wikia.com/wiki/Taijitu).",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [{
+					"name": "Requirements:",
+					"value": "• Impressing the Locals Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Impressing_the_Locals)"
+				},
+				{
+					"name": "Guides:",
+					"value": "• The best way to gather large amounts of taijitu is to repeatedly go on long voyages and look for treasure chests and taijitu on the ground.\n\n• [Farming Chimes on the Arc | Maikeru RS - YouTube](https://www.youtube.com/watch?v=zRs1QtGzv5o)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 10"
+			},
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"arc - ancient eastern tortle portles": {
 		"cmds": ["comp"],
@@ -512,163 +497,156 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/gGdB7UR.png"
 			},
-			"fields": [
-				{
+			"fields": [{
+				"name": "Requirements:",
+				"value": "• 90 Divination\n\n• Impressing the Locals Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Impressing_the_Locals)"
+			}],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 10"
+			},
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
+	},
+	"arc - bone to pick with you": {
+		"cmds": ["trim"],
+		"embed": {
+			"title": "Arc - Bone To Pick With You",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Arc - Bone To Pick With You](http://runescape.wikia.com/wiki/Arc_-_Bone_To_Pick_With_You) is an achievement that requires the player to unlock the upgrade for the [Bonecrusher](https://runescape.wikia.com/wiki/Bonecrusher) from the [Waiko Reward Shop](https://runescape.wikia.com/wiki/Waiko_Reward_Shop) for 25,000 [Chimes](https://runescape.wikia.com/wiki/Chimes) and 25 [Taijitu](https://runescape.wikia.com/wiki/Taijitu).",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [{
 					"name": "Requirements:",
-					"value": "• 90 Divination\n\n• Impressing the Locals Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Impressing_the_Locals)"
+					"value": "• 25 Dungeoneering \n\n• Impressing the Locals Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Impressing_the_Locals)\n\n• Own a bonecrusher from the [Dungeoneering Reward Shop](https://runescape.wikia.com/wiki/Marmaros)"
+				},
+				{
+					"name": "Guides:",
+					"value": "• The best way to gather large amounts of taijitu is to repeatedly go on long voyages and look for treasure chests and taijitu on the ground.\n\n• [Farming Chimes on the Arc | Maikeru RS - YouTube](https://www.youtube.com/watch?v=zRs1QtGzv5o)"
 				}
 			],
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 10"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
-	},
-	"arc - bone to pick with you": {
-		"cmds": ["trim"],
-		"embed": {
-            "title": "Arc - Bone To Pick With You",
-            "author": {
-                "name": "Cape Info",
-                "icon_url": "https://i.imgur.com/6c6q2iC.png"
-            },
-            "description": "[Arc - Bone To Pick With You](http://runescape.wikia.com/wiki/Arc_-_Bone_To_Pick_With_You) is an achievement that requires the player to unlock the upgrade for the [Bonecrusher](https://runescape.wikia.com/wiki/Bonecrusher) from the [Waiko Reward Shop](https://runescape.wikia.com/wiki/Waiko_Reward_Shop) for 25,000 [Chimes](https://runescape.wikia.com/wiki/Chimes) and 25 [Taijitu](https://runescape.wikia.com/wiki/Taijitu).",
-            "thumbnail": {
-                "url": "https://i.imgur.com/Shmagnp.png"
-            },
-            "fields": [
-                {
-                    "name": "Requirements:",
-                    "value": "• 25 Dungeoneering \n\n• Impressing the Locals Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Impressing_the_Locals)\n\n• Own a bonecrusher from the [Dungeoneering Reward Shop](https://runescape.wikia.com/wiki/Marmaros)"
-                },
-                {
-                    "name": "Guides:",
-                    "value": "• The best way to gather large amounts of taijitu is to repeatedly go on long voyages and look for treasure chests and taijitu on the ground.\n\n• [Farming Chimes on the Arc | Maikeru RS - YouTube](https://www.youtube.com/watch?v=zRs1QtGzv5o)"
-                }
-            ],
-            "footer": {
-                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-                "text": "Runescore awarded: 10"
-            },
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"arc - don't crush my memories": {
 		"cmds": ["trim"],
 		"embed": {
-            "title": "Arc - Don't Crush my Memories",
-            "author": {
-                "name": "Cape Info",
-                "icon_url": "https://i.imgur.com/6c6q2iC.png"
-            },
-            "description": "[Arc - Don't Crush my Memories](https://runescape.wikia.com/wiki/Arc_-_Don%27t_Crush_my_Memories) is an achievement that requires the player to unlock the [Memory-crushing scrimshaw](https://runescape.wikia.com/wiki/Memory-crushing_scrimshaw) from the [Waiko Reward Shop](https://runescape.wikia.com/wiki/Waiko_Reward_Shop) for 5,000 [Chimes](https://runescape.wikia.com/wiki/Chimes) and 5 [Taijitu](https://runescape.wikia.com/wiki/Taijitu).",
-            "thumbnail": {
-                "url": "https://i.imgur.com/Shmagnp.png"
-            },
-            "fields": [
-                {
-                    "name": "Requirements:",
-                    "value": "• Impressing the Locals Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Impressing_the_Locals)"
-                },
-                {
-                    "name": "Guides:",
-                    "value": "• The best way to gather large amounts of taijitu is to repeatedly go on long voyages and look for treasure chests and taijitu on the ground.\n\n• [Farming Chimes on the Arc | Maikeru RS - YouTube](https://www.youtube.com/watch?v=zRs1QtGzv5o)"
-                }
-            ],
-            "footer": {
-                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-                "text": "Runescore awarded: 10"
-            },
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"title": "Arc - Don't Crush my Memories",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Arc - Don't Crush my Memories](https://runescape.wikia.com/wiki/Arc_-_Don%27t_Crush_my_Memories) is an achievement that requires the player to unlock the [Memory-crushing scrimshaw](https://runescape.wikia.com/wiki/Memory-crushing_scrimshaw) from the [Waiko Reward Shop](https://runescape.wikia.com/wiki/Waiko_Reward_Shop) for 5,000 [Chimes](https://runescape.wikia.com/wiki/Chimes) and 5 [Taijitu](https://runescape.wikia.com/wiki/Taijitu).",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [{
+					"name": "Requirements:",
+					"value": "• Impressing the Locals Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Impressing_the_Locals)"
+				},
+				{
+					"name": "Guides:",
+					"value": "• The best way to gather large amounts of taijitu is to repeatedly go on long voyages and look for treasure chests and taijitu on the ground.\n\n• [Farming Chimes on the Arc | Maikeru RS - YouTube](https://www.youtube.com/watch?v=zRs1QtGzv5o)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 10"
+			},
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"arc - mitts and waders - death lotus": {
 		"cmds": ["trim"],
 		"embed": {
-            "title": "Arc - Mitts and Waders - Death Lotus",
-            "author": {
-                "name": "Cape Info",
-                "icon_url": "https://i.imgur.com/6c6q2iC.png"
-            },
-            "description": "[Arc - Mitts and Waders - Death Lotus](https://runescape.wikia.com/wiki/Arc_-_Mitts_and_Waders_-_Death_Lotus) is an achievement that requires the player to buy the [Superior Death Lotus Tekoh](https://runescape.wikia.com/wiki/Superior_Death_Lotus_tekoh) and [Superior Death Lotus Tabi](https://runescape.wikia.com/wiki/Superior_Death_Lotus_tabi) scrolls from the [Waiko Reward Shop](https://runescape.wikia.com/wiki/Waiko_Reward_Shop), both costing 2,500 [Chimes](https://runescape.wikia.com/wiki/Chimes) and 3 [Taijitu](https://runescape.wikia.com/wiki/Taijitu).",
-            "thumbnail": {
-                "url": "https://i.imgur.com/Shmagnp.png"
-            },
-            "fields": [
-                {
-                    "name": "Requirements:",
-                    "value": "• Impressing the Locals Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Impressing_the_Locals)\n\n• Unlock the scrolls for the [Death Lotus](https://runescape.wikia.com/wiki/Death_Lotus_equipment) hood, chestplate, and chaps in the [Player-owned port](https://runescape.wikia.com/wiki/Player-owned_port)."
-                },
-                {
-                    "name": "Guides:",
-                    "value": "• The best way to gather large amounts of taijitu is to repeatedly go on long voyages and look for treasure chests and taijitu on the ground.\n\n• [Farming Chimes on the Arc | Maikeru RS - YouTube](https://www.youtube.com/watch?v=zRs1QtGzv5o)"
-                }
-            ],
-            "footer": {
-                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-                "text": "Runescore awarded: 15"
-            },
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"title": "Arc - Mitts and Waders - Death Lotus",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Arc - Mitts and Waders - Death Lotus](https://runescape.wikia.com/wiki/Arc_-_Mitts_and_Waders_-_Death_Lotus) is an achievement that requires the player to buy the [Superior Death Lotus Tekoh](https://runescape.wikia.com/wiki/Superior_Death_Lotus_tekoh) and [Superior Death Lotus Tabi](https://runescape.wikia.com/wiki/Superior_Death_Lotus_tabi) scrolls from the [Waiko Reward Shop](https://runescape.wikia.com/wiki/Waiko_Reward_Shop), both costing 2,500 [Chimes](https://runescape.wikia.com/wiki/Chimes) and 3 [Taijitu](https://runescape.wikia.com/wiki/Taijitu).",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [{
+					"name": "Requirements:",
+					"value": "• Impressing the Locals Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Impressing_the_Locals)\n\n• Unlock the scrolls for the [Death Lotus](https://runescape.wikia.com/wiki/Death_Lotus_equipment) hood, chestplate, and chaps in the [Player-owned port](https://runescape.wikia.com/wiki/Player-owned_port)."
+				},
+				{
+					"name": "Guides:",
+					"value": "• The best way to gather large amounts of taijitu is to repeatedly go on long voyages and look for treasure chests and taijitu on the ground.\n\n• [Farming Chimes on the Arc | Maikeru RS - YouTube](https://www.youtube.com/watch?v=zRs1QtGzv5o)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 15"
+			},
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"arc - mitts and waders - seasinger": {
 		"cmds": ["trim"],
 		"embed": {
-            "title": "Arc - Mitts and Waders - Seasinger",
-            "author": {
-                "name": "Cape Info",
-                "icon_url": "https://i.imgur.com/6c6q2iC.png"
-            },
-            "description": "[Arc - Mitts and Waders - Seasinger](http://runescape.wikia.com/wiki/Arc_-_Mitts_and_Waders_-_Seasinger) is an achievement that requires the player to buy the [Superior Seasinger Asari](https://runescape.wikia.com/wiki/Superior_seasinger_asari) and [Superior Seasinger Aonori](https://runescape.wikia.com/wiki/Superior_seasinger_aonori) scrolls from the [Waiko Reward Shop](https://runescape.wikia.com/wiki/Waiko_Reward_Shop), both costing 2,500 [Chimes](https://runescape.wikia.com/wiki/Chimes) and 3 [Taijitu](https://runescape.wikia.com/wiki/Taijitu)..",
-            "thumbnail": {
-                "url": "https://i.imgur.com/Shmagnp.png"
-            },
-            "fields": [
-                {
-                    "name": "Requirements:",
-                    "value": "• Impressing the Locals Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Impressing_the_Locals)\n\n• Unlock the scrolls for the [Seasinger](https://runescape.wikia.com/wiki/Seasinger's_equipment) hood, robe top, and robe bottom in the [Player-owned port](https://runescape.wikia.com/wiki/Player-owned_port)."
-                },
-                {
-                    "name": "Guides:",
-                    "value": "• The best way to gather large amounts of taijitu is to repeatedly go on long voyages and look for treasure chests and taijitu on the ground.\n\n• [Farming Chimes on the Arc | Maikeru RS - YouTube](https://www.youtube.com/watch?v=zRs1QtGzv5o)"
-                }
-            ],
-            "footer": {
-                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-                "text": "Runescore awarded: 15"
-            },
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"title": "Arc - Mitts and Waders - Seasinger",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Arc - Mitts and Waders - Seasinger](http://runescape.wikia.com/wiki/Arc_-_Mitts_and_Waders_-_Seasinger) is an achievement that requires the player to buy the [Superior Seasinger Asari](https://runescape.wikia.com/wiki/Superior_seasinger_asari) and [Superior Seasinger Aonori](https://runescape.wikia.com/wiki/Superior_seasinger_aonori) scrolls from the [Waiko Reward Shop](https://runescape.wikia.com/wiki/Waiko_Reward_Shop), both costing 2,500 [Chimes](https://runescape.wikia.com/wiki/Chimes) and 3 [Taijitu](https://runescape.wikia.com/wiki/Taijitu)..",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [{
+					"name": "Requirements:",
+					"value": "• Impressing the Locals Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Impressing_the_Locals)\n\n• Unlock the scrolls for the [Seasinger](https://runescape.wikia.com/wiki/Seasinger's_equipment) hood, robe top, and robe bottom in the [Player-owned port](https://runescape.wikia.com/wiki/Player-owned_port)."
+				},
+				{
+					"name": "Guides:",
+					"value": "• The best way to gather large amounts of taijitu is to repeatedly go on long voyages and look for treasure chests and taijitu on the ground.\n\n• [Farming Chimes on the Arc | Maikeru RS - YouTube](https://www.youtube.com/watch?v=zRs1QtGzv5o)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 15"
+			},
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"arc - mitts and waders - tetsu": {
 		"cmds": ["trim"],
 		"embed": {
-            "title": "Arc - Mitts and Waders - Tetsu",
-            "author": {
-                "name": "Cape Info",
-                "icon_url": "https://i.imgur.com/6c6q2iC.png"
-            },
-            "description": "[Arc - Mitts and Waders - Tetsu](http://runescape.wikia.com/wiki/Arc_-_Mitts_and_Waders_-_Tetsu) is an achievement that requires the player to buy the [Superior Tetsu Kogake](https://runescape.wikia.com/wiki/Superior_tetsu_kogake) and [Superior Tetsu Kote](https://runescape.wikia.com/wiki/Superior_tetsu_kote) scrolls from the [Waiko Reward Shop](https://runescape.wikia.com/wiki/Waiko_Reward_Shop), both costing 2,500 [Chimes](https://runescape.wikia.com/wiki/Chimes) and 3 [Taijitu](https://runescape.wikia.com/wiki/Taijitu).",
-            "thumbnail": {
-                "url": "https://i.imgur.com/Shmagnp.png"
-            },
-            "fields": [
-                {
-                    "name": "Requirements:",
-                    "value": "• Impressing the Locals Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Impressing_the_Locals)\n\n• Unlock the scrolls for the [Tetsu](https://runescape.wikia.com/wiki/Tetsu_equipment) helm, body, and platelegs in the [Player-owned port](https://runescape.wikia.com/wiki/Player-owned_port)."
-                },
-                {
-                    "name": "Guide:",
-                    "value": "• The best way to gather large amounts of taijitu is to repeatedly go on long voyages and look for treasure chests and taijitu on the ground.\n\n• [Farming Chimes on the Arc | Maikeru RS - YouTube](https://www.youtube.com/watch?v=zRs1QtGzv5o)"
-                }
-            ],
-            "footer": {
-                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-                "text": "Runescore awarded: 15"
-            },
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"title": "Arc - Mitts and Waders - Tetsu",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Arc - Mitts and Waders - Tetsu](http://runescape.wikia.com/wiki/Arc_-_Mitts_and_Waders_-_Tetsu) is an achievement that requires the player to buy the [Superior Tetsu Kogake](https://runescape.wikia.com/wiki/Superior_tetsu_kogake) and [Superior Tetsu Kote](https://runescape.wikia.com/wiki/Superior_tetsu_kote) scrolls from the [Waiko Reward Shop](https://runescape.wikia.com/wiki/Waiko_Reward_Shop), both costing 2,500 [Chimes](https://runescape.wikia.com/wiki/Chimes) and 3 [Taijitu](https://runescape.wikia.com/wiki/Taijitu).",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [{
+					"name": "Requirements:",
+					"value": "• Impressing the Locals Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Impressing_the_Locals)\n\n• Unlock the scrolls for the [Tetsu](https://runescape.wikia.com/wiki/Tetsu_equipment) helm, body, and platelegs in the [Player-owned port](https://runescape.wikia.com/wiki/Player-owned_port)."
+				},
+				{
+					"name": "Guide:",
+					"value": "• The best way to gather large amounts of taijitu is to repeatedly go on long voyages and look for treasure chests and taijitu on the ground.\n\n• [Farming Chimes on the Arc | Maikeru RS - YouTube](https://www.youtube.com/watch?v=zRs1QtGzv5o)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 15"
+			},
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"arc - unlocking waiko": {
 		"cmds": ["comp"],
@@ -682,22 +660,21 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/gGdB7UR.png"
 			},
-			"fields": [
-				{
+			"fields": [{
 					"name": "Requirements:",
 					"value": "• Impressing the Locals Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Impressing_the_Locals)"
 				},
-        {
-            "name": "Guides:",
-            "value": "• The best way to gather large amounts of taijitu is to repeatedly go on long voyages and look for treasure chests and taijitu on the ground.\n\n• [Farming Chimes on the Arc | Maikeru RS - YouTube](https://www.youtube.com/watch?v=zRs1QtGzv5o)"
-        }
+				{
+					"name": "Guides:",
+					"value": "• The best way to gather large amounts of taijitu is to repeatedly go on long voyages and look for treasure chests and taijitu on the ground.\n\n• [Farming Chimes on the Arc | Maikeru RS - YouTube](https://www.youtube.com/watch?v=zRs1QtGzv5o)"
+				}
 			],
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 30"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"arc - upgrading waiko": {
 		"cmds": ["comp"],
@@ -711,22 +688,21 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/gGdB7UR.png"
 			},
-			"fields": [
-				{
+			"fields": [{
 					"name": "Requirements:",
 					"value": "• Impressing the Locals Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Impressing_the_Locals)"
 				},
-        {
-            "name": "Guides:",
-            "value": "• The best way to gather large amounts of taijitu is to repeatedly go on long voyages and look for treasure chests and taijitu on the ground.\n\n• [Farming Chimes on the Arc | Maikeru RS - YouTube](https://www.youtube.com/watch?v=zRs1QtGzv5o)"
-        }
+				{
+					"name": "Guides:",
+					"value": "• The best way to gather large amounts of taijitu is to repeatedly go on long voyages and look for treasure chests and taijitu on the ground.\n\n• [Farming Chimes on the Arc | Maikeru RS - YouTube](https://www.youtube.com/watch?v=zRs1QtGzv5o)"
+				}
 			],
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 30"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"arc i - flag fall": {
 		"cmds": ["comp", "mqc"],
@@ -740,28 +716,27 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/gGdB7UR.png"
 			},
-			"fields": [
-							{
-                    "name": "Start Point:",
-                    "value": "• Speak to [Boni](https://runescape.wikia.com/wiki/Boni_(rewards) at the [Waiko](https://runescape.wikia.com/wiki/Waiko) market."
-      			},
-        		{
-                    "name": "Official Difficulty:",
-                    "value": "• None"
-        		},
-        		{
-                    "name": "Official Length:",
-                    "value": "• Short"
-       			},
-        		{
-                    "name": "Items Required:",
-                    "value": "• 0-1,000+ [Chimes](https://runescape.wikia.com/wiki/Chimes) (for supplies)\n• 5 [Driftwood](https://runescape.wikia.com/wiki/Driftwood) (obtained during the miniquest)"
-        		},
-        		{
-                    "name": "Enemies to Defeat:",
-                    "value": "• None"
-        		},
-            {
+			"fields": [{
+					"name": "Start Point:",
+					"value": "• Speak to [Boni](https://runescape.wikia.com/wiki/Boni_(rewards) at the [Waiko](https://runescape.wikia.com/wiki/Waiko) market."
+				},
+				{
+					"name": "Official Difficulty:",
+					"value": "• None"
+				},
+				{
+					"name": "Official Length:",
+					"value": "• Short"
+				},
+				{
+					"name": "Items Required:",
+					"value": "• 0-1,000+ [Chimes](https://runescape.wikia.com/wiki/Chimes) (for supplies)\n• 5 [Driftwood](https://runescape.wikia.com/wiki/Driftwood) (obtained during the miniquest)"
+				},
+				{
+					"name": "Enemies to Defeat:",
+					"value": "• None"
+				},
+				{
 					"name": "Requirements:",
 					"value": "• Impressing the Locals Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Impressing_the_Locals)"
 				},
@@ -774,8 +749,8 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 10"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"arc ii - head of the family": {
 		"cmds": ["comp", "mqc"],
@@ -789,28 +764,27 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/gGdB7UR.png"
 			},
-			"fields": [
-							{
-                    "name": "Start Point:",
-                    "value": "• Speak to the [Waiko moai](https://runescape.wikia.com/wiki/Waiko_moai) on the hill north-east of Waiko"
-      			},
-        		{
-                    "name": "Official Difficulty:",
-                    "value": "• None"
-        		},
-        		{
-                    "name": "Official Length:",
-                    "value": "• Medium"
-       			},
-        		{
-                    "name": "Items Required:",
-                    "value": "• 450 [Chimes](https://runescape.wikia.com/wiki/Chimes)\n• 5 [Bamboo](https://runescape.wikia.com/wiki/Bamboo)\n• 15 [Fish oil](https://runescape.wikia.com/wiki/Fish_oil)"
-        		},
-        		{
-                    "name": "Enemies to Defeat:",
-                    "value": "• [Cap'n Ekahi](https://runescape.wikia.com/wiki/Cap%27n_Ekahi)\n• 2x [Cyclops labourer](https://runescape.wikia.com/wiki/Cyclops_labourer)"
-        		},
-            {
+			"fields": [{
+					"name": "Start Point:",
+					"value": "• Speak to the [Waiko moai](https://runescape.wikia.com/wiki/Waiko_moai) on the hill north-east of Waiko"
+				},
+				{
+					"name": "Official Difficulty:",
+					"value": "• None"
+				},
+				{
+					"name": "Official Length:",
+					"value": "• Medium"
+				},
+				{
+					"name": "Items Required:",
+					"value": "• 450 [Chimes](https://runescape.wikia.com/wiki/Chimes)\n• 5 [Bamboo](https://runescape.wikia.com/wiki/Bamboo)\n• 15 [Fish oil](https://runescape.wikia.com/wiki/Fish_oil)"
+				},
+				{
+					"name": "Enemies to Defeat:",
+					"value": "• [Cap'n Ekahi](https://runescape.wikia.com/wiki/Cap%27n_Ekahi)\n• 2x [Cyclops labourer](https://runescape.wikia.com/wiki/Cyclops_labourer)"
+				},
+				{
 					"name": "Requirements:",
 					"value": "• 90 Woodcutting\n• 90 Fishing\n• 91 Cooking\n\n• Flag Fall miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Flag_Fall)"
 				},
@@ -823,12 +797,12 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 10"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"arc iii - spiritual enlightenment": {
 		"cmds": ["comp", "mqc"],
-		"embed":{
+		"embed": {
 			"title": "Arc III - Spiritual Enlightenment",
 			"author": {
 				"name": "Cape Info",
@@ -838,28 +812,27 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/gGdB7UR.png"
 			},
-			"fields": [
-							{
-                    "name": "Start Point:",
-                    "value": "• Speak to [Ling (contracts)](https://runescape.wikia.com/wiki/The_Assassin) on [Aminishi](https://runescape.wikia.com/wiki/Aminishi)"
-      			},
-        		{
-                    "name": "Official Difficulty:",
-                    "value": "• None"
-        		},
-        		{
-                    "name": "Official Length:",
-                    "value": "• Medium"
-       			},
-        		{
-                    "name": "Items Required:",
-                    "value": "• None"
-        		},
-        		{
-                    "name": "Enemies to Defeat:",
-                    "value": "• Multiple [Sotapanna](https://runescape.wikia.com/wiki/Sotapanna), [Sakadagami](https://runescape.wikia.com/wiki/Sakadagami), and/or [Anagami](https://runescape.wikia.com/wiki/Anagami)"
-        		},
-            {
+			"fields": [{
+					"name": "Start Point:",
+					"value": "• Speak to [Ling (contracts)](https://runescape.wikia.com/wiki/The_Assassin) on [Aminishi](https://runescape.wikia.com/wiki/Aminishi)"
+				},
+				{
+					"name": "Official Difficulty:",
+					"value": "• None"
+				},
+				{
+					"name": "Official Length:",
+					"value": "• Medium"
+				},
+				{
+					"name": "Items Required:",
+					"value": "• None"
+				},
+				{
+					"name": "Enemies to Defeat:",
+					"value": "• Multiple [Sotapanna](https://runescape.wikia.com/wiki/Sotapanna), [Sakadagami](https://runescape.wikia.com/wiki/Sakadagami), and/or [Anagami](https://runescape.wikia.com/wiki/Anagami)"
+				},
+				{
 					"name": "Requirements:",
 					"value": "• 90 Slayer\n\n• Head of the Family Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Head_of_the_Family)"
 				},
@@ -872,8 +845,8 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 10"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"arc iv - jed hunter": {
 		"cmds": ["comp", "mqc"],
@@ -887,28 +860,27 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/gGdB7UR.png"
 			},
-			"fields": [
-							{
-                    "name": "Start Point:",
-                    "value": "• Speak to Lookout Ekahi who is on the northern dock on Waiko near [Sarim's Revenge](https://runescape.wikia.com/wiki/Sarim%27s_Revenge)"
-      			},
-        		{
-                    "name": "Official Difficulty:",
-                    "value": "• None"
-        		},
-        		{
-                    "name": "Official Length:",
-                    "value": "• Short"
-       			},
-        		{
-                    "name": "Items Required:",
-                    "value": "• 10 [Driftwood](https://runescape.wikia.com/wiki/Driftwood)\n• 5 [Sea shells](https://runescape.wikia.com/wiki/Sea_shell)\n• 2 [Tortle shell bowls](https://runescape.wikia.com/wiki/Tortle_shell_bowl)\n• 1 [Taijitu](https://runescape.wikia.com/wiki/Taijitu)\n• 200+ [Chimes](https://runescape.wikia.com/wiki/Chimes) (for supplies)"
-        		},
-        		{
-                    "name": "Enemies to Defeat:",
-                    "value": "• 3 [Gu ronin](https://runescape.wikia.com/wiki/Gu_ronin) (level 119)"
-        		},
-            {
+			"fields": [{
+					"name": "Start Point:",
+					"value": "• Speak to Lookout Ekahi who is on the northern dock on Waiko near [Sarim's Revenge](https://runescape.wikia.com/wiki/Sarim%27s_Revenge)"
+				},
+				{
+					"name": "Official Difficulty:",
+					"value": "• None"
+				},
+				{
+					"name": "Official Length:",
+					"value": "• Short"
+				},
+				{
+					"name": "Items Required:",
+					"value": "• 10 [Driftwood](https://runescape.wikia.com/wiki/Driftwood)\n• 5 [Sea shells](https://runescape.wikia.com/wiki/Sea_shell)\n• 2 [Tortle shell bowls](https://runescape.wikia.com/wiki/Tortle_shell_bowl)\n• 1 [Taijitu](https://runescape.wikia.com/wiki/Taijitu)\n• 200+ [Chimes](https://runescape.wikia.com/wiki/Chimes) (for supplies)"
+				},
+				{
+					"name": "Enemies to Defeat:",
+					"value": "• 3 [Gu ronin](https://runescape.wikia.com/wiki/Gu_ronin) (level 119)"
+				},
+				{
 					"name": "Requirements:",
 					"value": "• 90 Hunter\n• 91 Crafting\n\n• Spiritual Enlightenment Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Spiritual_Enlightenment)"
 				},
@@ -921,8 +893,8 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 10"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"arc ix - damage control": {
 		"cmds": ["comp", "mqc"],
@@ -936,28 +908,27 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/gGdB7UR.png"
 			},
-			"fields": [
-							{
-                    "name": "Start Point:",
-                    "value": "• Speak to [Bosun Higgs](https://runescape.wikia.com/wiki/Bosun_Higgs)"
-      			},
-        		{
-                    "name": "Official Difficulty:",
-                    "value": "• None"
-        		},
-        		{
-                    "name": "Official Length:",
-                    "value": "• Short"
-       			},
-        		{
-                    "name": "Items Required:",
-                    "value": "• 2,500 [Chimes](https://runescape.wikia.com/wiki/Chimes)"
-        		},
-        		{
-                    "name": "Enemies to Defeat:",
-                    "value": "• None"
-        		},
-            {
+			"fields": [{
+					"name": "Start Point:",
+					"value": "• Speak to [Bosun Higgs](https://runescape.wikia.com/wiki/Bosun_Higgs)"
+				},
+				{
+					"name": "Official Difficulty:",
+					"value": "• None"
+				},
+				{
+					"name": "Official Length:",
+					"value": "• Short"
+				},
+				{
+					"name": "Items Required:",
+					"value": "• 2,500 [Chimes](https://runescape.wikia.com/wiki/Chimes)"
+				},
+				{
+					"name": "Enemies to Defeat:",
+					"value": "• None"
+				},
+				{
 					"name": "Requirements:",
 					"value": "• Ghosts from the Past Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Ghosts_from_the_Past)"
 				},
@@ -970,8 +941,8 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 10"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"arc v - eye for an eye": {
 		"cmds": ["comp", "mqc"],
@@ -985,28 +956,27 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/gGdB7UR.png"
 			},
-			"fields": [
-							{
-                    "name": "Start Point:",
-                    "value": "• Speak to [Ichi](https://runescape.wikia.com/wiki/Ichi) on Cyclosis"
-      			},
-        		{
-                    "name": "Official Difficulty:",
-                    "value": "• None"
-        		},
-        		{
-                    "name": "Official Length:",
-                    "value": "• Short"
-       			},
-        		{
-                    "name": "Items Required:",
-                    "value": "• 30 [Alaea](https://runescape.wikia.com/wiki/Alaea_sea_salt) or [Regular](https://runescape.wikia.com/wiki/Sea_salt) sea salt"
-        		},
-        		{
-                    "name": "Enemies to Defeat:",
-                    "value": "• 27 Zyclopes (Level 93)\n• [Undead Jed](https://runescape.wikia.com/wiki/Undead_Jed)"
-        		},
-            {
+			"fields": [{
+					"name": "Start Point:",
+					"value": "• Speak to [Ichi](https://runescape.wikia.com/wiki/Ichi) on Cyclosis"
+				},
+				{
+					"name": "Official Difficulty:",
+					"value": "• None"
+				},
+				{
+					"name": "Official Length:",
+					"value": "• Short"
+				},
+				{
+					"name": "Items Required:",
+					"value": "• 30 [Alaea](https://runescape.wikia.com/wiki/Alaea_sea_salt) or [Regular](https://runescape.wikia.com/wiki/Sea_salt) sea salt"
+				},
+				{
+					"name": "Enemies to Defeat:",
+					"value": "• 27 Zyclopes (Level 93)\n• [Undead Jed](https://runescape.wikia.com/wiki/Undead_Jed)"
+				},
+				{
 					"name": "Requirements:",
 					"value": "• 90 Mining\n\n• Jed Hunter Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Jed_Hunter)"
 				},
@@ -1019,8 +989,8 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 10"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"arc vi - harbinger of doom": {
 		"cmds": ["comp", "mqc"],
@@ -1034,29 +1004,28 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/gGdB7UR.png"
 			},
-			"fields": [
-							{
-                    "name": "Start Point:",
-                    "value": "• Speak to [Seasinger Jemi](https://runescape.wikia.com/wiki/Navigator_Jemi) on Tuai Leit"
-      			},
-        		{
-                    "name": "Official Difficulty:",
-                    "value": "• None"
-        		},
-        		{
-                    "name": "Official Length:",
-                    "value": "• Short"
-       			},
-        		{
-                    "name": "Items Required:",
-                    "value": "• None"
-        		},
-        		{
-                    "name": "Enemies to Defeat:",
-                    "value": "• None"
-        		},
+			"fields": [{
+					"name": "Start Point:",
+					"value": "• Speak to [Seasinger Jemi](https://runescape.wikia.com/wiki/Navigator_Jemi) on Tuai Leit"
+				},
+				{
+					"name": "Official Difficulty:",
+					"value": "• None"
+				},
+				{
+					"name": "Official Length:",
+					"value": "• Short"
+				},
+				{
+					"name": "Items Required:",
+					"value": "• None"
+				},
+				{
+					"name": "Enemies to Defeat:",
+					"value": "• None"
+				},
 
-            {
+				{
 					"name": "Requirements:",
 					"value": "• Jed Hunter Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Jed_Hunter)"
 				},
@@ -1069,8 +1038,8 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 10"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"arc vii - tuai leit's own": {
 		"cmds": ["comp", "mqc"],
@@ -1084,28 +1053,27 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/gGdB7UR.png"
 			},
-			"fields": [
-							{
-                    "name": "Start Point:",
-                    "value": "• Speak to [Seasinger Jemi](https://runescape.wikia.com/wiki/Navigator_Jemi) on Tuai Leit"
-      			},
-        		{
-                    "name": "Official Difficulty:",
-                    "value": "• None"
-        		},
-        		{
-                    "name": "Official Length:",
-                    "value": "• Short"
-       			},
-        		{
-                    "name": "Items Required:",
-                    "value": "• [30 rumberries](https://runescape.wikia.com/wiki/Rumberry)\n• 30 [Positive energies](https://runescape.wikia.com/wiki/Positive_energy)\n• At least 1 [Spirit dragon charm](https://runescape.wikia.com/wiki/Spirit_dragon_charm)"
-        		},
-        		{
-                    "name": "Enemies to Defeat:",
-                    "value": "• None"
-        		},
-            {
+			"fields": [{
+					"name": "Start Point:",
+					"value": "• Speak to [Seasinger Jemi](https://runescape.wikia.com/wiki/Navigator_Jemi) on Tuai Leit"
+				},
+				{
+					"name": "Official Difficulty:",
+					"value": "• None"
+				},
+				{
+					"name": "Official Length:",
+					"value": "• Short"
+				},
+				{
+					"name": "Items Required:",
+					"value": "• [30 rumberries](https://runescape.wikia.com/wiki/Rumberry)\n• 30 [Positive energies](https://runescape.wikia.com/wiki/Positive_energy)\n• At least 1 [Spirit dragon charm](https://runescape.wikia.com/wiki/Spirit_dragon_charm)"
+				},
+				{
+					"name": "Enemies to Defeat:",
+					"value": "• None"
+				},
+				{
 					"name": "Requirements:",
 					"value": "• 86 Farming\n• 90 Divination\n\n• Harbinger Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Harbinger)"
 				},
@@ -1118,8 +1086,8 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 10"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"arc viii - ghosts from the past": {
 		"cmds": ["comp", "mqc"],
@@ -1133,28 +1101,27 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/gGdB7UR.png"
 			},
-			"fields": [
-							{
-                    "name": "Start Point:",
-                    "value": "• Speak to Quartermaster Gully on any of The Arc’s docks"
-      			},
-        		{
-                    "name": "Official Difficulty:",
-                    "value": "• None"
-        		},
-        		{
-                    "name": "Official Length:",
-                    "value": "• Short"
-       			},
-        		{
-                    "name": "Items Required:",
-                    "value": "• None"
-        		},
-        		{
-                    "name": "Enemies to Defeat:",
-                    "value": "• None"
-        		},
-            {
+			"fields": [{
+					"name": "Start Point:",
+					"value": "• Speak to Quartermaster Gully on any of The Arc’s docks"
+				},
+				{
+					"name": "Official Difficulty:",
+					"value": "• None"
+				},
+				{
+					"name": "Official Length:",
+					"value": "• Short"
+				},
+				{
+					"name": "Items Required:",
+					"value": "• None"
+				},
+				{
+					"name": "Enemies to Defeat:",
+					"value": "• None"
+				},
+				{
 					"name": "Requirements:",
 					"value": "• Tuai Liet's Own Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Tuai_Leit%27s_Own)"
 				},
@@ -1167,8 +1134,8 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 10"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"arc x - final destinationt": {
 		"cmds": ["comp", "mqc"],
@@ -1182,28 +1149,27 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/gGdB7UR.png"
 			},
-			"fields": [
-						{
-                    "name": "Start Point:",
-                    "value": "• Speak to [Lookout Ekahi](https://runescape.wikia.com/wiki/Cap'n_Ekahi), who can be found on south-east [Aminishi](https://runescape.wikia.com/wiki/Aminishi)"
-      			},
-        		{
-                    "name": "Official Difficulty:",
-                    "value": "• None"
-        		},
-        		{
-                    "name": "Official Length:",
-                    "value": "• Short"
-       			},
-        		{
-                    "name": "Items Required:",
-                    "value": "• None"
-        		},
-        		{
-                    "name": "Enemies to Defeat:",
-                    "value": "• 3x [Zyclops cannoneer](https://runescape.wikia.com/wiki/Zyclops_cannoneer)\n• 6x [Zombie](https://runescape.wikia.com/wiki/Zombie_(Uncharted_Isles)\n• 2x [Skeleton](https://runescape.wikia.com/wiki/Skeleton_(Uncharted_Isles)\n• 2x [Zyclops](https://runescape.wikia.com/wiki/Zyclops)\n• [Captain Cora](https://runescape.wikia.com/wiki/Captain_Cora)"
-        		},
-            {
+			"fields": [{
+					"name": "Start Point:",
+					"value": "• Speak to [Lookout Ekahi](https://runescape.wikia.com/wiki/Cap'n_Ekahi), who can be found on south-east [Aminishi](https://runescape.wikia.com/wiki/Aminishi)"
+				},
+				{
+					"name": "Official Difficulty:",
+					"value": "• None"
+				},
+				{
+					"name": "Official Length:",
+					"value": "• Short"
+				},
+				{
+					"name": "Items Required:",
+					"value": "• None"
+				},
+				{
+					"name": "Enemies to Defeat:",
+					"value": "• 3x [Zyclops cannoneer](https://runescape.wikia.com/wiki/Zyclops_cannoneer)\n• 6x [Zombie](https://runescape.wikia.com/wiki/Zombie_(Uncharted_Isles)\n• 2x [Skeleton](https://runescape.wikia.com/wiki/Skeleton_(Uncharted_Isles)\n• 2x [Zyclops](https://runescape.wikia.com/wiki/Zyclops)\n• [Captain Cora](https://runescape.wikia.com/wiki/Captain_Cora)"
+				},
+				{
 					"name": "Requirements:",
 					"value": "• Damage Control Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Damage_Control)"
 				},
@@ -1216,8 +1182,8 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 10"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"are you needing access?": {
 		"cmds": ["mqc"],
@@ -1231,8 +1197,7 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
+			"fields": [{
 					"name": "Requirements:",
 					"value": "• 80 Agility\n\n• Do No Evil Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Do_No_Evil)"
 				},
@@ -1245,8 +1210,8 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 10"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"arise from the ash": {
 		"cmds": ["mqc"],
@@ -1260,8 +1225,7 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
+			"fields": [{
 					"name": "The Fight:",
 					"value": "The Phoenix herself has a combat level of 84 and high Defence. She attacks purely with Magic and can hit up to 350. It is advisable that lower-leveled players use the [Protect from Magic](https://runescape.wikia.com/wiki/Protect_from_Magic) prayer and range her with the best [bow](https://runescape.wikia.com/wiki/Bow) and [arrows](https://runescape.wikia.com/wiki/Arrows) they can afford to use. Those who have a high Prayer level and access to [Ancient Curses](https://runescape.wikia.com/wiki/Ancient_Curses) should use [Deflect Magic](https://runescape.wikia.com/wiki/Deflect_Magic) instead. Players may also bring [familiars](https://runescape.wikia.com/wiki/Summoning_familiars) to aid them."
 				},
@@ -1282,8 +1246,8 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 10"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"around the world in six ways": {
 		"cmds": ["mqc", "trim"],
@@ -1297,32 +1261,31 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
+			"fields": [{
 					"name": "Baloon Locations",
 					"value": "**Destination:** [Entrana](https://runescape.wikia.com/wiki/Entrana)\n\t• **Inititial Trip Cost:** Build balloon (during Quest)\n\t• **NPC:** [Auguste](https://runescape.wikia.com/wiki/Auguste)"
 				},
-        		{
+				{
 					"name": "​",
 					"value": "**Destination:** [Taverley](https://runescape.wikia.com/wiki/Taverley)\n\t• **Inititial Trip Cost:** 10 normal [Logs](http://runescape.wikia.com/wiki/Logs) (during Quest)\n\t• **NPC:** [Assistant Stan](https://runescape.wikia.com/wiki/Assistant_Stan)"
 				},
-        		{
+				{
 					"name": "​",
 					"value": "**Destination:** [Crafting Guild](https://runescape.wikia.com/wiki/Crafting_Guild)\n\t• **Inititial Trip Cost:** 10 [Oak logs](https://runescape.wikia.com/wiki/Oak_logs)\n\t• **NPC:** [Assistant Brock](https://runescape.wikia.com/wiki/Assistant_Brock)"
 				},
-        		{
+				{
 					"name": "​",
 					"value": "**Destination:** [Varrock](https://runescape.wikia.com/wiki/Varrock) - south of [Lumber Yard](https://runescape.wikia.com/wiki/Lumber_Yard) \n\t• **Inititial Trip Cost:** 10 [Willow logs](https://runescape.wikia.com/wiki/Willow_logs)\n\t• **NPC:** [Assistant Serf](https://runescape.wikia.com/wiki/Assistant_Serf)"
 				},
-        		{
+				{
 					"name": "​",
 					"value": "**Destination:** [Castle Wars](https://runescape.wikia.com/wiki/Castle_Wars)\n\t• **Inititial Trip Cost:** 10 [Yew logs](https://runescape.wikia.com/wiki/Yew_logs)\n\t• **NPC:** [Assistant Marrow](https://runescape.wikia.com/wiki/Assistant_Marrow)\n"
 				},
-        		{
+				{
 					"name": "​",
 					"value": "**Destination:** [Grand Tree](https://runescape.wikia.com/wiki/Grand_Tree)\n\t• **Inititial Trip Cost:** 10 [Magic logs](https://runescape.wikia.com/wiki/Magic_logs)\n\t• **NPC:** [Assistant Le Smith](https://runescape.wikia.com/wiki/Assistant_Le_Smith)"
 				},
-        		{
+				{
 					"name": "Balooning:",
 					"value": "• Each control always moves one \"space\" forward (horizontally to the right), and either up, down, or without change in altitude.\n• Drop sandbag: moves up two spaces (UP 2).\n• Burn log: moves up one space (UP 1).\n• Relax: moves forward (right), with no change in altitude (RIGHT).\n• Pull normal rope: moves down one space (DOWN 1).\n• Pull red rope: moves down two spaces (DOWN 2).\n• Bail: bails out the player from the balloon flight. (\"Crashes\" east of [Falador](http://runescape.wikia.com/wiki/Falador) and west of [Draynor Manor](runescape.wikia.com/wiki/Draynor_Manor).)\n"
 				},
@@ -1339,8 +1302,8 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 15"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"as clear as a crystal seed": {
 		"cmds": ["mqc"],
@@ -1354,18 +1317,16 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
-					"name": "Requirements:",
-					"value": "• Within the Light Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Within_the_Light)"
-				}
-			],
+			"fields": [{
+				"name": "Requirements:",
+				"value": "• Within the Light Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Within_the_Light)"
+			}],
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 15"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"as taxed as a yak": {
 		"cmds": ["mqc"],
@@ -1379,18 +1340,16 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
-					"name": "Requirements:",
-					"value": "• The Fremennik Isles Quest partial completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Fremennik_Isles)"
-				}
-			],
+			"fields": [{
+				"name": "Requirements:",
+				"value": "• The Fremennik Isles Quest partial completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Fremennik_Isles)"
+			}],
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 10"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"azacorax's rewards": {
 		"cmds": ["mqc"],
@@ -1404,18 +1363,16 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
-					"name": "Requirements:",
-					"value": "• 50 Magic\n• 50 Prayer\n\n• Rune Memories Quest completion | [Runescape Wiki](https://runescape.wikia.com/wiki/Rune_Memories)"
-				}
-			],
+			"fields": [{
+				"name": "Requirements:",
+				"value": "• 50 Magic\n• 50 Prayer\n\n• Rune Memories Quest completion | [Runescape Wiki](https://runescape.wikia.com/wiki/Rune_Memories)"
+			}],
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 10"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"azdaran birthright": {
 		"cmds": ["mqc"],
@@ -1429,18 +1386,16 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
-					"name": "Requirements:",
-					"value": "• 95 Mining\n\n• Birthright of the Dwarves Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Birthright_of_the_Dwarves)"
-				}
-			],
+			"fields": [{
+				"name": "Requirements:",
+				"value": "• 95 Mining\n\n• Birthright of the Dwarves Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Birthright_of_the_Dwarves)"
+			}],
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 15"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"bandos's memories": {
 		"cmds": ["comp", "mqc"],
@@ -1454,8 +1409,7 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
+			"fields": [{
 					"name": "Requirements:",
 					"value": "• The Mighty Fall Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Mighty_Fall)"
 				},
@@ -1468,8 +1422,8 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 15"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"bane tuner": {
 		"cmds": ["comp", "mqc"],
@@ -1483,184 +1437,186 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
+			"fields": [{
+				"name": "Requirements:",
+				"value": "• Ritual of the Mahjarrat Quest partial completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Mighty_Fall)"
+			}],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 25"
+			},
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
+	},
+	"banking history pt1": {
+		"cmds": ["mqc", "trim"],
+		"embed": {
+			"title": "Banking History",
+			"author": {
+				"name": "RuneScore Achievement Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Banking History](http://runescape.wikia.com/wiki/Banking_History) is an achievement that requires the player to complete the [Enchanted key](http://runescape.wikia.com/wiki/Enchanted_key_(miniquest%29) miniquest\n\nEnchanted key is a two-part miniquest that uses the [item of the same]() name to find hidden treasures after [Making History](https://runescape.wikia.com/wiki/Making_History) and [Meeting History](https://runescape.wikia.com/wiki/Meeting_History). There are 11 treasure sites in each part of the miniquest. The main rewards of the miniquest are the [Guthix mjolnir](https://runescape.wikia.com/wiki/Guthix_mjolnir), [Saradomin mjolnir](https://runescape.wikia.com/wiki/Saradomin_mjolnir), and [Zamorak mjolnir](https://runescape.wikia.com/wiki/Zamorak_mjolnir), which can only be obtained during the miniquest.\n\nThe treasures from Making History must be looted before being able to loot the ones from Meeting History.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [{
+					"name": "Making History Locations:",
+					"value": "Just north/northwest of the Agility shortcut to the [Sinclair Mansion](https://runescape.wikia.com/wiki/Sinclair_Mansion), north east from [Seer's Village](https://runescape.wikia.com/wiki/Seers%27_Village)\n\t• **Coordinates:** 13° 56' N 8° 43' E\n\t• [Image](https://vignette.wikia.nocookie.net/runescape2/images/4/46/Enchanted_Key_MH1_-_Rellekka.png/revision/latest/scale-to-width-down/200?cb=20120617215704)"
+				},
+				{
+					"name": "​",
+					"value": "West of the bush located northeast of the [Bush patch](https://runescape.wikia.com/wiki/Bush), north of the [Clock Tower Monastery](https://runescape.wikia.com/wiki/Ardougne_Monastery), near the broken cart south of [East Ardougne](https://runescape.wikia.com/wiki/East_Ardougne)\n\t• **Coordinates:** 2° 28' N 5° 24' E\n\t• [Image](https://vignette.wikia.nocookie.net/runescape2/images/0/07/Enchanted_Key_MH1_-_Ardougne_Monastery.png/revision/latest/scale-to-width-down/200?cb=20120718162419)"
+				},
+				{
+					"name": "​",
+					"value": "South of the southernmost gnome bench, northwest of the [Outpost](https://runescape.wikia.com/wiki/Outpost) above north [West Ardougne](https://runescape.wikia.com/wiki/West_Ardougne)\n\t• **Coordinates:** 6° 54' N 0° 45' W\n\t• [Image](https://vignette.wikia.nocookie.net/runescape2/images/5/5f/Enchanted_Key_MH1_-_West_Ardougne.png/revision/latest/scale-to-width-down/200?cb=20180313113223)"
+				},
+				{
+					"name": "​",
+					"value": "In the [Gnome Stronghold](https://runescape.wikia.com/wiki/Gnome_Stronghold), north of the bank and just northeast of some mushrooms. Not to be confused with the West Ardougne location, which is just outside the stronghold\n\t• **Coordinates:** 8° 54' N 0° 15' E\n\t• [Image](https://vignette.wikia.nocookie.net/runescape2/images/7/7c/Enchanted_Key_MH1_-_Gnome_Stronghold.png/revision/latest/scale-to-width-down/200?cb=20140719102002)"
+				},
+				{
+					"name": "​",
+					"value": "Directly west of the [body altar](https://runescape.wikia.com/wiki/Body_altar), near the dirt road in between the body altar and the [dwarven mine](https://runescape.wikia.com/wiki/Dwarven_mine) above northeast [Falador](https://runescape.wikia.com/wiki/Falador)\n\t• **Coordinates:** 8° 33' N 18° 30' E\n\t• [Image](https://vignette.wikia.nocookie.net/runescape2/images/3/34/Enchanted_Key_MH1_-_Body_Altar.png/revision/latest/scale-to-width-down/200?cb=20170405191237)"
+				},
+				{
+					"name": "​",
+					"value": "In the [Clan Camp](https://runescape.wikia.com/wiki/Clan_Camp), just west of the large private meeting tent, south of [Wayne's Chains](https://runescape.wikia.com/wiki/Wayne%27s_Chains)\n\t• **Coordinates:** 4° 20' N 16° 31' E\n\t• [Image](https://vignette.wikia.nocookie.net/runescape2/images/6/68/Enchanted_Key_MH1_-_Wayne%27s_Chains.png/revision/latest/scale-to-width-down/200?cb=20150801025622)"
+				},
+				{
+					"name": "​",
+					"value": "North of [Shattered Worlds](https://runescape.wikia.com/wiki/Shattered_Worlds) in the southwest of [Lumbridge Swamp](https://runescape.wikia.com/wiki/Lumbridge_Swamp)\n\t• **Coordinates:** 0° 5' S 17° 58' E\n\t• [Image](https://vignette.wikia.nocookie.net/runescape2/images/9/94/Enchanted_Key_MH1_-_Lumbridge_Swamp.png/revision/latest/scale-to-width-down/200?cb=20170530210639)"
+				},
+				{
+					"name": "​",
+					"value": "Between the ponds and the [small obelisk](https://runescape.wikia.com/wiki/Small_obelisk), west of the [Duel Arena](https://runescape.wikia.com/wiki/Duel_Arena) in [Al Kharid](https://runescape.wikia.com/wiki/Al_Kharid)\n\t• **Coordinates:** 2° 35' N 26° 56' E\n\t• [Image](https://vignette.wikia.nocookie.net/runescape2/images/9/90/Enchanted_Key_MH1_-_Al_Kharid.png/revision/latest/scale-to-width-down/200?cb=20150801030156)"
+				},
+				{
+					"name": "​",
+					"value": "West of the [Exam Centre](https://runescape.wikia.com/wiki/Exam_Centre), south of the [Digsite](https://runescape.wikia.com/wiki/Digsite), on the road heading north from the T-junction\n\t• **Coordinates:** 5° 33' N 26° 54' E\n\t• [Image](https://vignette.wikia.nocookie.net/runescape2/images/f/fe/Enchanted_Key_MH1_-_Exam_Centre.png/revision/latest?cb=20150801024800)"
+				},
+				{
+					"name": "​",
+					"value": "West/southwest of the tent in the middle of the [Varrock](https://runescape.wikia.com/wiki/Varrock) [Grand Exchange](https://runescape.wikia.com/wiki/Grand_Exchange)\n\t• **Coordinates:** 10° 18' N 22° 26' E\n\t• [Image](https://vignette.wikia.nocookie.net/runescape2/images/f/f4/Enchanted_Key_MH1_-_Grand_Exchange.png/revision/latest/scale-to-width-down/200?cb=20180313113656)\n\n"
+				}
+			]
+		}
+	},
+	"banking history pt2": {
+		"cmds": ["mqc", "trim"],
+		"embed": {
+			"fields": [{
+					"name": "Meeting History Locations:",
+					"value": "South of the [gnome ball field](https://runescape.wikia.com/wiki/Gnome_ball) in the Gnome Stronghold, 4 steps west of [crystal tree](https://runescape.wikia.com/wiki/Crystal_tree)\n\t• **Coordinates:** 9° 45' N 1° 3' W\n\t• [Image](https://vignette.wikia.nocookie.net/runescape2/images/4/4d/Enchantedkey_meeting_1.png/revision/latest/scale-to-width-down/200?cb=20131225053924)"
+				},
+				{
+					"name": "​",
+					"value": "Al Kharid's [Shantay Pass](https://runescape.wikia.com/wiki/Shantay_Pass), 3 steps west of the [musician](https://runescape.wikia.com/wiki/Musician)\n\t• **Coordinates:** 1° 5' S 26° 58' E\n\t• [Image](https://vignette.wikia.nocookie.net/runescape2/images/1/1e/Enchantedkey_meeting_2.png/revision/latest/scale-to-width-down/200?cb=20131225054833)"
+				},
+				{
+					"name": "​",
+					"value": "\n\t• **Coordinates:** 0° 9' N 8° 43' E\n\t• [Image](https://vignette.wikia.nocookie.net/runescape2/images/5/59/Enchantedkey_meeting_3.png/revision/latest/scale-to-width-down/200?cb=20131225055408)"
+				},
+				{
+					"name": "​",
+					"value": "West of [Brimhaven](https://runescape.wikia.com/wiki/Brimhaven) on the western shoreline\n\t• **Coordinates:** 0° 9' N 8° 43' E\n\t• [Image](https://vignette.wikia.nocookie.net/runescape2/images/5/59/Enchantedkey_meeting_3.png/revision/latest/scale-to-width-down/200?cb=20131225055408)"
+				},
+				{
+					"name": "​",
+					"value": "South of [Chaos tunnels](https://runescape.wikia.com/wiki/Chaos_Tunnels) entrance in level 4 [Wilderness](https://runescape.wikia.com/wiki/Wilderness), north of Grand Exchange\n\t• **Coordinates:** 12° 5' N 22° 41' E\n\t• [Image](https://vignette.wikia.nocookie.net/runescape2/images/6/69/Enchantedkey_meeting_4.png/revision/latest/scale-to-width-down/200?cb=20131225060111)"
+				},
+				{
+					"name": "​",
+					"value": "Mine east of [Tai Bwo Wannai](https://runescape.wikia.com/wiki/Tai_Bwo_Wannai). This is the one near the Small obelisk, not the [Shilo](https://runescape.wikia.com/wiki/Shilo_Village_(city)) gem mine\n\t• **Coordinates:** 3° 56' S 12° 45' E\n\t• [Image](https://vignette.wikia.nocookie.net/runescape2/images/a/a4/Enchanted_key_dig_spot_Karamja.png/revision/latest/scale-to-width-down/200?cb=20131225060616)"
+				},
+				{
+					"name": "​",
+					"value": "West of the [Hunting expert](https://runescape.wikia.com/wiki/Hunting_expert) in [Feldip Hills](https://runescape.wikia.com/wiki/Feldip_Hills)\n\t• **Coordinates:** 7° 26' S 2° 26' E\n\t• [Image](https://vignette.wikia.nocookie.net/runescape2/images/4/4f/Enchantedkey_meeting_6.png/revision/latest/scale-to-width-down/200?cb=20131225061246)"
+				},
+				{
+					"name": "​",
+					"value": "In the desert east of [Sophanem](https://runescape.wikia.com/wiki/Sophanem), south of the [Agility Pyramid](https://runescape.wikia.com/wiki/Agility_Pyramid)\n\t• **Coordinates:** 11° 26' S 28° 35' E\n\t• [Image](https://vignette.wikia.nocookie.net/runescape2/images/5/54/Enchantedkey_meeting_7.png/revision/latest/scale-to-width-down/200?cb=20131225061715)"
+				},
+				{
+					"name": "​",
+					"value": "North of the [Bandit Camp](https://runescape.wikia.com/wiki/Bandit_Camp_(Wilderness) in Level 27 Wilderness, just east of the [Wilderness obelisk](https://runescape.wikia.com/wiki/Wilderness_obelisk)\n\t• **Coordinates:** 17° 50' N 18° 56' E\n\t• [Image](https://vignette.wikia.nocookie.net/runescape2/images/0/0e/Enchantedkey_meeting_8.png/revision/latest/scale-to-width-down/200?cb=20131225062343)"
+				},
+				{
+					"name": "​",
+					"value": "Level 20 Wilderness southeast of [Clan Wars](https://runescape.wikia.com/wiki/Clan_Wars), past the [black salamander hunter area](https://runescape.wikia.com/wiki/Black_salamander_hunter_area), just east of the [green dragons](https://runescape.wikia.com/wiki/Green_dragon)\n\t• **Coordinates:** 16° 3' N 28° 45' E\n\t• [Image](https://vignette.wikia.nocookie.net/runescape2/images/9/92/Enchantedkey_meeting_9.png/revision/latest/scale-to-width-down/200?cb=20131225063404)"
+				},
+				{
+					"name": "​",
+					"value": "Just north of the [thrower trolls](https://runescape.wikia.com/wiki/Thrower_Troll) on [Death Plateau](https://runescape.wikia.com/wiki/Death_Plateau_(location)) on the ridge that you access through [Sabbot](https://runescape.wikia.com/wiki/Sabbot)'s cave. Continue toward the entrance to the Death Plateau\n\t• **Coordinates:** 13° 56' N 13° 30' E\n\t• [Image](https://vignette.wikia.nocookie.net/runescape2/images/a/aa/Trollheim_enchanted_key_digspot.png/revision/latest/scale-to-width-down/200?cb=20131225064129)"
+				},
+				{
+					"name": "​",
+					"value": "Level 53 Wilderness, middle of the [Scorpion Pit](https://runescape.wikia.com/wiki/Scorpion_Pit), east of the [magic axe hut](https://runescape.wikia.com/wiki/Magic_axe_hut)\n\t• **Coordinates:** 24° 30' N 25° 0' E\n\t• [Image](https://vignette.wikia.nocookie.net/runescape2/images/4/4f/Enchantedkey_meeting_11.png/revision/latest/scale-to-width-down/200?cb=20131225064754)\n\n"
+				},
+				{
+					"name": "Start Point:",
+					"value": "• Speak to [Jorral](https://runescape.wikia.com/wiki/Jorral) in the outpost south of the [Tree Gnome Stronghold](https://runescape.wikia.com/wiki/Tree_Gnome_Stronghold)"
+				},
+				{
+					"name": "Official Difficulty:",
+					"value": "• None"
+				},
+				{
+					"name": "Official Length:",
+					"value": "• Short"
+				},
+				{
+					"name": "Items Required:",
+					"value": "• [Enchanted key](https://runescape.wikia.com/wiki/Enchanted_key_(Making_History) - used to located the buried chests\n• [Spade](https://runescape.wikia.com/wiki/Spade) - used to dig the buried chests"
+				},
+				{
+					"name": "Enemies to Defeat:",
+					"value": "• None"
+				},
 				{
 					"name": "Requirements:",
-					"value": "• Ritual of the Mahjarrat Quest partial completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Mighty_Fall)"
+					"value": "• Meeting History Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Meeting_History)\n• Making History Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Making_History)"
+				},
+				{
+					"name": "Guide:",
+					"value": "• [Enchanted Key Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Enchanted_key_(miniquest%29)"
 				}
 			],
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 25"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
-	"banking history pt1": {
-    "title": "Banking History",
-    "author": {
-      "name": "RuneScore Achievement Info",
-      "icon_url": "https://i.imgur.com/6c6q2iC.png"
-    },
-    "description": "[Banking History](http://runescape.wikia.com/wiki/Banking_History) is an achievement that requires the player to complete the [Enchanted key](http://runescape.wikia.com/wiki/Enchanted_key_(miniquest%29) miniquest\n\nEnchanted key is a two-part miniquest that uses the [item of the same]() name to find hidden treasures after [Making History](https://runescape.wikia.com/wiki/Making_History) and [Meeting History](https://runescape.wikia.com/wiki/Meeting_History). There are 11 treasure sites in each part of the miniquest. The main rewards of the miniquest are the [Guthix mjolnir](https://runescape.wikia.com/wiki/Guthix_mjolnir), [Saradomin mjolnir](https://runescape.wikia.com/wiki/Saradomin_mjolnir), and [Zamorak mjolnir](https://runescape.wikia.com/wiki/Zamorak_mjolnir), which can only be obtained during the miniquest.\n\nThe treasures from Making History must be looted before being able to loot the ones from Meeting History.",
-    "thumbnail": {
-      "url": "https://i.imgur.com/Shmagnp.png"
-    },
-    "fields": [{
-        "name": "Making History Locations:",
-        "value": "Just north/northwest of the Agility shortcut to the [Sinclair Mansion](https://runescape.wikia.com/wiki/Sinclair_Mansion), north east from [Seer's Village](https://runescape.wikia.com/wiki/Seers%27_Village)\n\t• **Coordinates:** 13° 56' N 8° 43' E\n\t• [Image](https://vignette.wikia.nocookie.net/runescape2/images/4/46/Enchanted_Key_MH1_-_Rellekka.png/revision/latest/scale-to-width-down/200?cb=20120617215704)"
-      },
-      {
-        "name": "​",
-        "value": "West of the bush located northeast of the [Bush patch](https://runescape.wikia.com/wiki/Bush), north of the [Clock Tower Monastery](https://runescape.wikia.com/wiki/Ardougne_Monastery), near the broken cart south of [East Ardougne](https://runescape.wikia.com/wiki/East_Ardougne)\n\t• **Coordinates:** 2° 28' N 5° 24' E\n\t• [Image](https://vignette.wikia.nocookie.net/runescape2/images/0/07/Enchanted_Key_MH1_-_Ardougne_Monastery.png/revision/latest/scale-to-width-down/200?cb=20120718162419)"
-      },
-      {
-        "name": "​",
-        "value": "South of the southernmost gnome bench, northwest of the [Outpost](https://runescape.wikia.com/wiki/Outpost) above north [West Ardougne](https://runescape.wikia.com/wiki/West_Ardougne)\n\t• **Coordinates:** 6° 54' N 0° 45' W\n\t• [Image](https://vignette.wikia.nocookie.net/runescape2/images/5/5f/Enchanted_Key_MH1_-_West_Ardougne.png/revision/latest/scale-to-width-down/200?cb=20180313113223)"
-      },
-      {
-        "name": "​",
-        "value": "In the [Gnome Stronghold](https://runescape.wikia.com/wiki/Gnome_Stronghold), north of the bank and just northeast of some mushrooms. Not to be confused with the West Ardougne location, which is just outside the stronghold\n\t• **Coordinates:** 8° 54' N 0° 15' E\n\t• [Image](https://vignette.wikia.nocookie.net/runescape2/images/7/7c/Enchanted_Key_MH1_-_Gnome_Stronghold.png/revision/latest/scale-to-width-down/200?cb=20140719102002)"
-      },
-      {
-        "name": "​",
-        "value": "Directly west of the [body altar](https://runescape.wikia.com/wiki/Body_altar), near the dirt road in between the body altar and the [dwarven mine](https://runescape.wikia.com/wiki/Dwarven_mine) above northeast [Falador](https://runescape.wikia.com/wiki/Falador)\n\t• **Coordinates:** 8° 33' N 18° 30' E\n\t• [Image](https://vignette.wikia.nocookie.net/runescape2/images/3/34/Enchanted_Key_MH1_-_Body_Altar.png/revision/latest/scale-to-width-down/200?cb=20170405191237)"
-      },
-      {
-        "name": "​",
-        "value": "In the [Clan Camp](https://runescape.wikia.com/wiki/Clan_Camp), just west of the large private meeting tent, south of [Wayne's Chains](https://runescape.wikia.com/wiki/Wayne%27s_Chains)\n\t• **Coordinates:** 4° 20' N 16° 31' E\n\t• [Image](https://vignette.wikia.nocookie.net/runescape2/images/6/68/Enchanted_Key_MH1_-_Wayne%27s_Chains.png/revision/latest/scale-to-width-down/200?cb=20150801025622)"
-      },
-      {
-        "name": "​",
-        "value": "North of [Shattered Worlds](https://runescape.wikia.com/wiki/Shattered_Worlds) in the southwest of [Lumbridge Swamp](https://runescape.wikia.com/wiki/Lumbridge_Swamp)\n\t• **Coordinates:** 0° 5' S 17° 58' E\n\t• [Image](https://vignette.wikia.nocookie.net/runescape2/images/9/94/Enchanted_Key_MH1_-_Lumbridge_Swamp.png/revision/latest/scale-to-width-down/200?cb=20170530210639)"
-      },
-      {
-        "name": "​",
-        "value": "Between the ponds and the [small obelisk](https://runescape.wikia.com/wiki/Small_obelisk), west of the [Duel Arena](https://runescape.wikia.com/wiki/Duel_Arena) in [Al Kharid](https://runescape.wikia.com/wiki/Al_Kharid)\n\t• **Coordinates:** 2° 35' N 26° 56' E\n\t• [Image](https://vignette.wikia.nocookie.net/runescape2/images/9/90/Enchanted_Key_MH1_-_Al_Kharid.png/revision/latest/scale-to-width-down/200?cb=20150801030156)"
-      },
-      {
-        "name": "​",
-        "value": "West of the [Exam Centre](https://runescape.wikia.com/wiki/Exam_Centre), south of the [Digsite](https://runescape.wikia.com/wiki/Digsite), on the road heading north from the T-junction\n\t• **Coordinates:** 5° 33' N 26° 54' E\n\t• [Image](https://vignette.wikia.nocookie.net/runescape2/images/f/fe/Enchanted_Key_MH1_-_Exam_Centre.png/revision/latest?cb=20150801024800)"
-      },
-      {
-        "name": "​",
-        "value": "West/southwest of the tent in the middle of the [Varrock](https://runescape.wikia.com/wiki/Varrock) [Grand Exchange](https://runescape.wikia.com/wiki/Grand_Exchange)\n\t• **Coordinates:** 10° 18' N 22° 26' E\n\t• [Image](https://vignette.wikia.nocookie.net/runescape2/images/f/f4/Enchanted_Key_MH1_-_Grand_Exchange.png/revision/latest/scale-to-width-down/200?cb=20180313113656)\n\n"
-      }
-      ]
-    },
-	"banking history pt2": {
-      "fields": [
-        {
-        "name": "Meeting History Locations:",
-        "value": "South of the [gnome ball field](https://runescape.wikia.com/wiki/Gnome_ball) in the Gnome Stronghold, 4 steps west of [crystal tree](https://runescape.wikia.com/wiki/Crystal_tree)\n\t• **Coordinates:** 9° 45' N 1° 3' W\n\t• [Image](https://vignette.wikia.nocookie.net/runescape2/images/4/4d/Enchantedkey_meeting_1.png/revision/latest/scale-to-width-down/200?cb=20131225053924)"
-      },
-      {
-        "name": "​",
-        "value": "Al Kharid's [Shantay Pass](https://runescape.wikia.com/wiki/Shantay_Pass), 3 steps west of the [musician](https://runescape.wikia.com/wiki/Musician)\n\t• **Coordinates:** 1° 5' S 26° 58' E\n\t• [Image](https://vignette.wikia.nocookie.net/runescape2/images/1/1e/Enchantedkey_meeting_2.png/revision/latest/scale-to-width-down/200?cb=20131225054833)"
-      },
-      {
-        "name": "​",
-        "value": "\n\t• **Coordinates:** 0° 9' N 8° 43' E\n\t• [Image](https://vignette.wikia.nocookie.net/runescape2/images/5/59/Enchantedkey_meeting_3.png/revision/latest/scale-to-width-down/200?cb=20131225055408)"
-      },
-      {
-        "name": "​",
-        "value": "West of [Brimhaven](https://runescape.wikia.com/wiki/Brimhaven) on the western shoreline\n\t• **Coordinates:** 0° 9' N 8° 43' E\n\t• [Image](https://vignette.wikia.nocookie.net/runescape2/images/5/59/Enchantedkey_meeting_3.png/revision/latest/scale-to-width-down/200?cb=20131225055408)"
-      },
-      {
-        "name": "​",
-        "value": "South of [Chaos tunnels](https://runescape.wikia.com/wiki/Chaos_Tunnels) entrance in level 4 [Wilderness](https://runescape.wikia.com/wiki/Wilderness), north of Grand Exchange\n\t• **Coordinates:** 12° 5' N 22° 41' E\n\t• [Image](https://vignette.wikia.nocookie.net/runescape2/images/6/69/Enchantedkey_meeting_4.png/revision/latest/scale-to-width-down/200?cb=20131225060111)"
-      },
-      {
-        "name": "​",
-        "value": "Mine east of [Tai Bwo Wannai](https://runescape.wikia.com/wiki/Tai_Bwo_Wannai). This is the one near the Small obelisk, not the [Shilo](https://runescape.wikia.com/wiki/Shilo_Village_(city)) gem mine\n\t• **Coordinates:** 3° 56' S 12° 45' E\n\t• [Image](https://vignette.wikia.nocookie.net/runescape2/images/a/a4/Enchanted_key_dig_spot_Karamja.png/revision/latest/scale-to-width-down/200?cb=20131225060616)"
-      },
-      {
-        "name": "​",
-        "value": "West of the [Hunting expert](https://runescape.wikia.com/wiki/Hunting_expert) in [Feldip Hills](https://runescape.wikia.com/wiki/Feldip_Hills)\n\t• **Coordinates:** 7° 26' S 2° 26' E\n\t• [Image](https://vignette.wikia.nocookie.net/runescape2/images/4/4f/Enchantedkey_meeting_6.png/revision/latest/scale-to-width-down/200?cb=20131225061246)"
-      },
-      {
-        "name": "​",
-        "value": "In the desert east of [Sophanem](https://runescape.wikia.com/wiki/Sophanem), south of the [Agility Pyramid](https://runescape.wikia.com/wiki/Agility_Pyramid)\n\t• **Coordinates:** 11° 26' S 28° 35' E\n\t• [Image](https://vignette.wikia.nocookie.net/runescape2/images/5/54/Enchantedkey_meeting_7.png/revision/latest/scale-to-width-down/200?cb=20131225061715)"
-      },
-      {
-        "name": "​",
-        "value": "North of the [Bandit Camp](https://runescape.wikia.com/wiki/Bandit_Camp_(Wilderness) in Level 27 Wilderness, just east of the [Wilderness obelisk](https://runescape.wikia.com/wiki/Wilderness_obelisk)\n\t• **Coordinates:** 17° 50' N 18° 56' E\n\t• [Image](https://vignette.wikia.nocookie.net/runescape2/images/0/0e/Enchantedkey_meeting_8.png/revision/latest/scale-to-width-down/200?cb=20131225062343)"
-      },
-      {
-        "name": "​",
-        "value": "Level 20 Wilderness southeast of [Clan Wars](https://runescape.wikia.com/wiki/Clan_Wars), past the [black salamander hunter area](https://runescape.wikia.com/wiki/Black_salamander_hunter_area), just east of the [green dragons](https://runescape.wikia.com/wiki/Green_dragon)\n\t• **Coordinates:** 16° 3' N 28° 45' E\n\t• [Image](https://vignette.wikia.nocookie.net/runescape2/images/9/92/Enchantedkey_meeting_9.png/revision/latest/scale-to-width-down/200?cb=20131225063404)"
-      },
-      {
-        "name": "​",
-        "value": "Just north of the [thrower trolls](https://runescape.wikia.com/wiki/Thrower_Troll) on [Death Plateau](https://runescape.wikia.com/wiki/Death_Plateau_(location)) on the ridge that you access through [Sabbot](https://runescape.wikia.com/wiki/Sabbot)'s cave. Continue toward the entrance to the Death Plateau\n\t• **Coordinates:** 13° 56' N 13° 30' E\n\t• [Image](https://vignette.wikia.nocookie.net/runescape2/images/a/aa/Trollheim_enchanted_key_digspot.png/revision/latest/scale-to-width-down/200?cb=20131225064129)"
-      },
-      {
-        "name": "​",
-        "value": "Level 53 Wilderness, middle of the [Scorpion Pit](https://runescape.wikia.com/wiki/Scorpion_Pit), east of the [magic axe hut](https://runescape.wikia.com/wiki/Magic_axe_hut)\n\t• **Coordinates:** 24° 30' N 25° 0' E\n\t• [Image](https://vignette.wikia.nocookie.net/runescape2/images/4/4f/Enchantedkey_meeting_11.png/revision/latest/scale-to-width-down/200?cb=20131225064754)\n\n"
-      },
-      {
-        "name": "Start Point:",
-        "value": "• Speak to [Jorral](https://runescape.wikia.com/wiki/Jorral) in the outpost south of the [Tree Gnome Stronghold](https://runescape.wikia.com/wiki/Tree_Gnome_Stronghold)"
-      },
-      {
-        "name": "Official Difficulty:",
-        "value": "• None"
-      },
-      {
-        "name": "Official Length:",
-        "value": "• Short"
-      },
-      {
-        "name": "Items Required:",
-        "value": "• [Enchanted key](https://runescape.wikia.com/wiki/Enchanted_key_(Making_History) - used to located the buried chests\n• [Spade](https://runescape.wikia.com/wiki/Spade) - used to dig the buried chests"
-      },
-      {
-        "name": "Enemies to Defeat:",
-        "value": "• None"
-      },
-      {
-        "name": "Requirements:",
-        "value": "• Meeting History Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Meeting_History)\n• Making History Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Making_History)"
-      },
-      {
-        "name": "Guide:",
-        "value": "• [Enchanted Key Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Enchanted_key_(miniquest%29)"
-      }
-    ],
-    "footer": {
-      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-      "text": "Runescore awarded: 25"
-    },
-"timestamp": "2001-01-04T12:00:00Z"
-  },
 	"barbarian scavenger": {
 		"cmds": ["trim"],
 		"embed": {
-            "title": "Barbarian Scavenger",
-            "author": {
-                "name": "Cape Info",
-                "icon_url": "https://i.imgur.com/6c6q2iC.png"
-            },
-            "description": "[Barbarian Scavenger](https://runescape.wikia.com/wiki/Barbarian_Scavenger) is an achievement that requires the player to find all 26 [ancient pages](https://runescape.wikia.com/wiki/Ancient_page) from [rummaging skeletons](https://runescape.wikia.com/wiki/Ancient_Cavern#Rummaging_skeletons) and fighting [monsters](https://runescape.wikia.com/wiki/Ancient_Cavern#Monsters) within the [Ancient Cavern](https://runescape.wikia.com/wiki/Ancient_Cavern).\n\nYou must add the page to [My Notes](https://runescape.wikia.com/wiki/My_notes) before the next can be found. Duplicate pages may still be obtained before completion of My notes if rummaging skeletons. Because they are uncommon drops, My notes will take several hours to complete.\n\nMy notes is a book given during [Barbarian Training](https://runescape.wikia.com/wiki/Barbarian_Training) by [Otto Godblessed](https://runescape.wikia.com/wiki/Otto_Godblessed). He may be found in his house to the south-west of the Ancient Cavern entrance. To reach [Otto's Grotto](https://runescape.wikia.com/wiki/Otto%27s_Grotto), you can teleport to [Barbarian Outpost](https://runescape.wikia.com/wiki/Barbarian_Outpost) using a [Games necklace](https://runescape.wikia.com/wiki/Games_necklace). After teleporting, go south until you reach his house.\n\nThe fastest way to complete this requirement is by killing the [Angry barbarian spirit](https://runescape.wikia.com/wiki/Angry_barbarian_spirit), [Berserk barbarian spirit](https://runescape.wikia.com/wiki/Berserk_barbarian_spirit), and [Enraged barbarian spirit](https://runescape.wikia.com/wiki/Enraged_barbarian_spirit), rummaging the skeletons, and then hopping between worlds and repeating until complete.",
-            "thumbnail": {
-                "url": "https://i.imgur.com/Shmagnp.png"
-            },
-            "fields": [
-                {
-                    "name": "Requirements:",
-                    "value": "• Access to the [Ancient Cavern](http://runescape.wikia.com/wiki/Ancient_Cavern)"
-                },
-                {
+			"title": "Barbarian Scavenger",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Barbarian Scavenger](https://runescape.wikia.com/wiki/Barbarian_Scavenger) is an achievement that requires the player to find all 26 [ancient pages](https://runescape.wikia.com/wiki/Ancient_page) from [rummaging skeletons](https://runescape.wikia.com/wiki/Ancient_Cavern#Rummaging_skeletons) and fighting [monsters](https://runescape.wikia.com/wiki/Ancient_Cavern#Monsters) within the [Ancient Cavern](https://runescape.wikia.com/wiki/Ancient_Cavern).\n\nYou must add the page to [My Notes](https://runescape.wikia.com/wiki/My_notes) before the next can be found. Duplicate pages may still be obtained before completion of My notes if rummaging skeletons. Because they are uncommon drops, My notes will take several hours to complete.\n\nMy notes is a book given during [Barbarian Training](https://runescape.wikia.com/wiki/Barbarian_Training) by [Otto Godblessed](https://runescape.wikia.com/wiki/Otto_Godblessed). He may be found in his house to the south-west of the Ancient Cavern entrance. To reach [Otto's Grotto](https://runescape.wikia.com/wiki/Otto%27s_Grotto), you can teleport to [Barbarian Outpost](https://runescape.wikia.com/wiki/Barbarian_Outpost) using a [Games necklace](https://runescape.wikia.com/wiki/Games_necklace). After teleporting, go south until you reach his house.\n\nThe fastest way to complete this requirement is by killing the [Angry barbarian spirit](https://runescape.wikia.com/wiki/Angry_barbarian_spirit), [Berserk barbarian spirit](https://runescape.wikia.com/wiki/Berserk_barbarian_spirit), and [Enraged barbarian spirit](https://runescape.wikia.com/wiki/Enraged_barbarian_spirit), rummaging the skeletons, and then hopping between worlds and repeating until complete.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [{
+					"name": "Requirements:",
+					"value": "• Access to the [Ancient Cavern](http://runescape.wikia.com/wiki/Ancient_Cavern)"
+				},
+				{
 					"name": "Guide:",
 					"value": "• [Ancient Pages - Trim Comp Mini-Guides | Charis - YouTube](https://www.youtube.com/watch?v=A3hzA8ToS4E)"
-                }
-            ],
-            "footer": {
-                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-                "text": "Runescore awarded: 30"
-            },
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 30"
+			},
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"behemoth notes": {
 		"cmds": ["mqc"],
@@ -1674,8 +1630,7 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
+			"fields": [{
 					"name": "Notes:",
 					"value": "Part 1\nPart 2\nPart 3\nPart 4\nPart 5",
 					"inline": true
@@ -1694,8 +1649,8 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 25"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"big chinchompa": {
 		"cmds": ["comp"],
@@ -1709,8 +1664,7 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
+			"fields": [{
 					"name": "Requirements:",
 					"value": "None"
 				},
@@ -1723,8 +1677,8 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 5"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"bipedal mask": {
 		"cmds": ["comp"],
@@ -1738,8 +1692,7 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
+			"fields": [{
 					"name": "​",
 					"value": "They have a special attack that is signalled when they roar and hit their chest. The airut's damage will be doubled, in addition to a faster attack speed (2x for ranged, 4x for melee) while it is in a \"frenzy\" state. If the airut is successfully hit with [Flurry](https://runescape.wikia.com/wiki/Flurry) or [Rapid Fire](https://runescape.wikia.com/wiki/Rapid_Fire), when they signal this attack or are in the process of using it, they will be disoriented. While disoriented, the airut is [stunned](https://runescape.wikia.com/wiki/Stun) and takes double damage from all attacks; this also stacks with damage boosting abilities like [Berserk](https://runescape.wikia.com/wiki/Berserk).\n\nThey also have a passive ability that increases their defence the lower their health is."
 				},
@@ -1756,8 +1709,8 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 10"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"blinded by ramarno's teaching": {
 		"cmds": ["mqc"],
@@ -1771,18 +1724,16 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
-					"name": "Requirements:",
-					"value": "• Defender of Varrock Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Defender_of_Varrock)"
-				}
-			],
+			"fields": [{
+				"name": "Requirements:",
+				"value": "• Defender of Varrock Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Defender_of_Varrock)"
+			}],
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 10"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"bloodstained treasure": {
 		"cmds": ["mqc"],
@@ -1796,18 +1747,16 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
-					"name": "Requirements:",
-					"value": "• Legacy of Seergaze Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Legacy_of_Seergaze)"
-				}
-			],
+			"fields": [{
+				"name": "Requirements:",
+				"value": "• Legacy of Seergaze Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Legacy_of_Seergaze)"
+			}],
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 15"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"bridge over fremmy waters": {
 		"cmds": ["comp", "mqc"],
@@ -1821,8 +1770,7 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
+			"fields": [{
 					"name": "​",
 					"value": "The memories can be unlocked in any order, but the fragment required to start the lowest level saga is a bear pelt - it appears randomly on one of the frozen floors, but many players find it in the same room where Skaldrun was frozen, at the same time. The bear pelt is white and shiny, and catches players' eyes upon entering the right room. None of the memory fragments appear as a red dot on the minimap. Touch the bear pelt and it disappears. After touching the bear pelt, the player receives a message in the chatbox stating to start the memory the player must talk to Skaldrun.\n\nUnlike unfreezing Skaldrun, it is possible to find all fragments on complexity level 1 dungeons."
 				},
@@ -1843,8 +1791,8 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 15"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"brothers gower": {
 		"cmds": ["mqc"],
@@ -1858,18 +1806,16 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
-					"name": "Requirements:",
-					"value": "• Gower Quest Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Gower_Quest)"
-				}
-			],
+			"fields": [{
+				"name": "Requirements:",
+				"value": "• Gower Quest Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Gower_Quest)"
+			}],
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 15"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"brutal stuffies": {
 		"cmds": ["mqc"],
@@ -1883,18 +1829,16 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
-					"name": "Requirements:",
-					"value": "• Zogre Flesh Eaters Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Zogre_Flesh_Eaters)"
-				}
-			],
+			"fields": [{
+				"name": "Requirements:",
+				"value": "• Zogre Flesh Eaters Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Zogre_Flesh_Eaters)"
+			}],
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 15"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"buy and sell some xp": {
 		"cmds": ["mqc"],
@@ -1908,18 +1852,16 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
-					"name": "Requirements:",
-					"value": "• 62 Thieving\n\n• Buyers and Cellars Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Buyers_and_Cellars)"
-				}
-			],
+			"fields": [{
+				"name": "Requirements:",
+				"value": "• 62 Thieving\n\n• Buyers and Cellars Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Buyers_and_Cellars)"
+			}],
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 10"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"buying up ancient artifacts": {
 		"cmds": ["mqc"],
@@ -1933,18 +1875,16 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
-					"name": "Requirements:",
-					"value": "• Desert Treasure Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Desert_Treasure)"
-				}
-			],
+			"fields": [{
+				"name": "Requirements:",
+				"value": "• Desert Treasure Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Desert_Treasure)"
+			}],
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 10"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"caving into the gains": {
 		"cmds": ["mqc"],
@@ -1958,18 +1898,16 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
-					"name": "Requirements:",
-					"value": "• 30 Crafting\n• 55 Agility\n• 80 Woodcutting\n\n• Myths of the White Lands Quest partial completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Myths_of_the_White_Lands)"
-				}
-			],
+			"fields": [{
+				"name": "Requirements:",
+				"value": "• 30 Crafting\n• 55 Agility\n• 80 Woodcutting\n\n• Myths of the White Lands Quest partial completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Myths_of_the_White_Lands)"
+			}],
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 5"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"cecilia, i'm begging you, please...": {
 		"cmds": ["mqc"],
@@ -1983,18 +1921,16 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
-					"name": "Requirements:",
-					"value": "• One Piercing Note Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/One_Piercing_Note)"
-				}
-			],
+			"fields": [{
+				"name": "Requirements:",
+				"value": "• One Piercing Note Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/One_Piercing_Note)"
+			}],
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 5"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"challenge maria": {
 		"cmds": ["mqc"],
@@ -2008,8 +1944,7 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
+			"fields": [{
 					"name": "Requirements:",
 					"value": "• At least level 90 in each non-elite skill\n\n• Broken Home Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Broken_Home)"
 				},
@@ -2022,8 +1957,8 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 35"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"challenging chat": {
 		"cmds": ["mqc"],
@@ -2037,115 +1972,111 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
-					"name": "Requirements:",
-					"value": "None"
-				}
-			],
+			"fields": [{
+				"name": "Requirements:",
+				"value": "None"
+			}],
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 5"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"champions, what champions? pt1": {
 		"cmds": ["trim"],
 		"embed": {
-            "title": "Champions, What Champions?",
-            "author": {
-                "name": "Cape Info",
-                "icon_url": "https://i.imgur.com/6c6q2iC.png"
-            },
-            "description": "[Champions, What Champions?](https://runescape.wikia.com/wiki/Champions,_What_Champions%3F) is an achievement that requires the player to defeat all 15 [Champions](https://runescape.wikia.com/wiki/Champions%27_Challenge) after finding their respective [Scroll](https://runescape.wikia.com/wiki/Champion%27s_scroll).\n\nPlayers may wish to view the the spreadsheet supplied by [Slayer Dungs](https://discord.gg/4ksg37t) friend's chat for [Player Owned Dungeons locations](https://docs.google.com/spreadsheets/d/1NibABxK2xciVmIeuZ2gGEBZPe9NIoi7skprEiEuGBc0/edit#gid=516613908), as these can be the most optimal locations for the slayer related champions ever since the release of [Player-owned dungeons](https://runescape.wikia.com/wiki/Sunken_Pyramid#Slayer_Dungeon).\n\nPlayers should utilize the [Scavenging 2/3](https://runescape.wikia.com/wiki/Scavenging) perk on an [Augmented](https://runescape.wikia.com/wiki/Augmentation) reforged [Sunspear](https://runescape.wikia.com/wiki/Sunspear) in order to gain many invention [materials](https://runescape.wikia.com/wiki/Materials) to help make a profit during this daunting achievement. The sunspear requires [The Lord of Vampyrium](https://runescape.wikia.com/wiki/The_Lord_of_Vampyrium) quest and the reforged sunspear requires the [River of Blood](https://runescape.wikia.com/wiki/River_of_Blood) quest.\n\nThe [Dwarf multicannon](https://runescape.wikia.com/wiki/Dwarf_multicannon), [Oldak coil](https://runescape.wikia.com/wiki/Oldak_coil), or [Kinetic cyclone](https://runescape.wikia.com/wiki/Kinetic_cyclone) and/or [Aggression potions](https://runescape.wikia.com/wiki/Aggression_potion) are very useful in maintaining the mobs agression.",
-            "thumbnail": {
-                "url": "https://i.imgur.com/Shmagnp.png"
-            },
-            "fields": [
-                {
-                    "name": "List of Champion Scrolls:",
-                    "value": "[Imp Champion's scroll](https://runescape.wikia.com/wiki/Imp_Champion%27s_scroll)\n\t• **Monster:** [Imp](https://runescape.wikia.com/wiki/Imp)\n\t• **Location(s):** In the area near [Tower of Life](https://runescape.wikia.com/wiki/Tower_of_Life_(building), the [Zamorak](https://runescape.wikia.com/wiki/Zamorak) Fortress in the [God Wars Dungeon](https://runescape.wikia.com/wiki/God_Wars_Dungeon), around the volcano on [Musa Point](https://runescape.wikia.com/wiki/Musa_Point), and inside the [resource dungeon](https://runescape.wikia.com/wiki/Resource_dungeon) in [Karamja Volcano](https://runescape.wikia.com/wiki/Karamja_Volcano) (requires 25 Dungeoneering and are together with aggressive Lesser Demons.)"
-                },
-                {
-                    "name": "​",
-                    "value": "[Goblin Champion's scroll](https://runescape.wikia.com/wiki/Goblin_Champion%27s_scroll)\n\t• **Monster:** [Goblin](https://runescape.wikia.com/wiki/Goblin)\n\t• **Location(s):** In and near the 'Goblin House' in [Lumbridge](https://runescape.wikia.com/wiki/Lumbridge), the [Goblin Village](https://runescape.wikia.com/wiki/Goblin_Village) north of [Falador](https://runescape.wikia.com/wiki/Falador), the [goblin cave](https://runescape.wikia.com/wiki/Goblin_Cave) east of entrance to [Fishing Guild](https://runescape.wikia.com/wiki/Fishing_Guild), God Wars Dungeon, and the [Stronghold of Security](https://runescape.wikia.com/wiki/Stronghold_of_Security)."
-                },
-                {
-                    "name": "​",
-                    "value": "[Skeleton Champion's scroll](https://runescape.wikia.com/wiki/Skeleton_Champion%27s_scroll)\n\t• **Monster:** [Skeleton](https://runescape.wikia.com/wiki/Skeleton)\n\t• **Location(s):** Many dungeons such as [Taverley Dungeon](https://runescape.wikia.com/wiki/Taverley_Dungeon), [Edgeville Dungeon](https://runescape.wikia.com/wiki/Edgeville_Dungeon), and Karamja Volcano. [Lumbridge Catacombs](https://runescape.wikia.com/wiki/Lumbridge_Catacombs) contain many low level skeletons that higher level players can kill in a single hit, for upwards of 3000 kills per hour."
-                },
-                {
-                    "name": "​",
-                    "value": "[Zombie Champion's scroll](https://runescape.wikia.com/wiki/Zombie_Champion%27s_scroll)\n\t• **Monster:** [Zombie](https://runescape.wikia.com/wiki/Zombie)\n\t• **Location(s):** Many dungeons such as [Varrock Sewers](https://runescape.wikia.com/wiki/Varrock_Sewers), and some graveyards such as [West Ardougne](https://runescape.wikia.com/wiki/West_Ardougne) graveyard. [Armoured Zombies](https://runescape.wikia.com/wiki/Armoured_zombie) in the [Chaos Temple Dungeon](https://runescape.wikia.com/wiki/Chaos_Temple_Dungeon) also drop Champion's Scrolls. [Dried zombies](https://runescape.wikia.com/wiki/Dried_zombie) in the [Kharidian Desert](https://runescape.wikia.com/wiki/Kharidian_Desert) are a good alternative for players who prefer to use a cannon. They die and respawn quickly. There are also 8 in a locked cage in the basement of the [Wizard's Guild](https://runescape.wikia.com/wiki/Wizards%27_Guild) in [Yanille](https://runescape.wikia.com/wiki/Yanille). Drops will need to be tele-grabbed."
-                },
-                {
-                    "name": "​",
-                    "value": "[Hobgoblin Champion's scroll](https://runescape.wikia.com/wiki/Hobgoblin_Champion%27s_scroll)\n\t• **Monster:** [Hobgoblin](https://runescape.wikia.com/wiki/Hobgoblin)\n\t• **Location(s):** In the cave beneath [Tree Gnome Village](https://runescape.wikia.com/wiki/Tree_Gnome_Village_(location) maze, at the level 35 [Wilderness](https://runescape.wikia.com/wiki/Wilderness) mine, God Wars Dungeon, and at the peninsula west of the [Crafting Guild](https://runescape.wikia.com/wiki/Crafting_Guild)."
-                },
-                {
-                    "name": "​",
-                    "value": "[Giant Champion's scroll](https://runescape.wikia.com/wiki/Giant_Champion%27s_scroll)\n\t• **Monster:** [Hill giant](https://runescape.wikia.com/wiki/Hill_giant)\n\t• **Location(s):** Edgeville Dungeon, the area south west of the [Tree Gnome Stronghold](https://runescape.wikia.com/wiki/Tree_Gnome_Stronghold), and inside the resource dungeon in Edgeville Dungeon (requires 20 Dungeoneering)."
-                }
-            ]
-        }
-    },
+			"title": "Champions, What Champions?",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Champions, What Champions?](https://runescape.wikia.com/wiki/Champions,_What_Champions%3F) is an achievement that requires the player to defeat all 15 [Champions](https://runescape.wikia.com/wiki/Champions%27_Challenge) after finding their respective [Scroll](https://runescape.wikia.com/wiki/Champion%27s_scroll).\n\nPlayers may wish to view the the spreadsheet supplied by [Slayer Dungs](https://discord.gg/4ksg37t) friend's chat for [Player Owned Dungeons locations](https://docs.google.com/spreadsheets/d/1NibABxK2xciVmIeuZ2gGEBZPe9NIoi7skprEiEuGBc0/edit#gid=516613908), as these can be the most optimal locations for the slayer related champions ever since the release of [Player-owned dungeons](https://runescape.wikia.com/wiki/Sunken_Pyramid#Slayer_Dungeon).\n\nPlayers should utilize the [Scavenging 2/3](https://runescape.wikia.com/wiki/Scavenging) perk on an [Augmented](https://runescape.wikia.com/wiki/Augmentation) reforged [Sunspear](https://runescape.wikia.com/wiki/Sunspear) in order to gain many invention [materials](https://runescape.wikia.com/wiki/Materials) to help make a profit during this daunting achievement. The sunspear requires [The Lord of Vampyrium](https://runescape.wikia.com/wiki/The_Lord_of_Vampyrium) quest and the reforged sunspear requires the [River of Blood](https://runescape.wikia.com/wiki/River_of_Blood) quest.\n\nThe [Dwarf multicannon](https://runescape.wikia.com/wiki/Dwarf_multicannon), [Oldak coil](https://runescape.wikia.com/wiki/Oldak_coil), or [Kinetic cyclone](https://runescape.wikia.com/wiki/Kinetic_cyclone) and/or [Aggression potions](https://runescape.wikia.com/wiki/Aggression_potion) are very useful in maintaining the mobs agression.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [{
+					"name": "List of Champion Scrolls:",
+					"value": "[Imp Champion's scroll](https://runescape.wikia.com/wiki/Imp_Champion%27s_scroll)\n\t• **Monster:** [Imp](https://runescape.wikia.com/wiki/Imp)\n\t• **Location(s):** In the area near [Tower of Life](https://runescape.wikia.com/wiki/Tower_of_Life_(building), the [Zamorak](https://runescape.wikia.com/wiki/Zamorak) Fortress in the [God Wars Dungeon](https://runescape.wikia.com/wiki/God_Wars_Dungeon), around the volcano on [Musa Point](https://runescape.wikia.com/wiki/Musa_Point), and inside the [resource dungeon](https://runescape.wikia.com/wiki/Resource_dungeon) in [Karamja Volcano](https://runescape.wikia.com/wiki/Karamja_Volcano) (requires 25 Dungeoneering and are together with aggressive Lesser Demons.)"
+				},
+				{
+					"name": "​",
+					"value": "[Goblin Champion's scroll](https://runescape.wikia.com/wiki/Goblin_Champion%27s_scroll)\n\t• **Monster:** [Goblin](https://runescape.wikia.com/wiki/Goblin)\n\t• **Location(s):** In and near the 'Goblin House' in [Lumbridge](https://runescape.wikia.com/wiki/Lumbridge), the [Goblin Village](https://runescape.wikia.com/wiki/Goblin_Village) north of [Falador](https://runescape.wikia.com/wiki/Falador), the [goblin cave](https://runescape.wikia.com/wiki/Goblin_Cave) east of entrance to [Fishing Guild](https://runescape.wikia.com/wiki/Fishing_Guild), God Wars Dungeon, and the [Stronghold of Security](https://runescape.wikia.com/wiki/Stronghold_of_Security)."
+				},
+				{
+					"name": "​",
+					"value": "[Skeleton Champion's scroll](https://runescape.wikia.com/wiki/Skeleton_Champion%27s_scroll)\n\t• **Monster:** [Skeleton](https://runescape.wikia.com/wiki/Skeleton)\n\t• **Location(s):** Many dungeons such as [Taverley Dungeon](https://runescape.wikia.com/wiki/Taverley_Dungeon), [Edgeville Dungeon](https://runescape.wikia.com/wiki/Edgeville_Dungeon), and Karamja Volcano. [Lumbridge Catacombs](https://runescape.wikia.com/wiki/Lumbridge_Catacombs) contain many low level skeletons that higher level players can kill in a single hit, for upwards of 3000 kills per hour."
+				},
+				{
+					"name": "​",
+					"value": "[Zombie Champion's scroll](https://runescape.wikia.com/wiki/Zombie_Champion%27s_scroll)\n\t• **Monster:** [Zombie](https://runescape.wikia.com/wiki/Zombie)\n\t• **Location(s):** Many dungeons such as [Varrock Sewers](https://runescape.wikia.com/wiki/Varrock_Sewers), and some graveyards such as [West Ardougne](https://runescape.wikia.com/wiki/West_Ardougne) graveyard. [Armoured Zombies](https://runescape.wikia.com/wiki/Armoured_zombie) in the [Chaos Temple Dungeon](https://runescape.wikia.com/wiki/Chaos_Temple_Dungeon) also drop Champion's Scrolls. [Dried zombies](https://runescape.wikia.com/wiki/Dried_zombie) in the [Kharidian Desert](https://runescape.wikia.com/wiki/Kharidian_Desert) are a good alternative for players who prefer to use a cannon. They die and respawn quickly. There are also 8 in a locked cage in the basement of the [Wizard's Guild](https://runescape.wikia.com/wiki/Wizards%27_Guild) in [Yanille](https://runescape.wikia.com/wiki/Yanille). Drops will need to be tele-grabbed."
+				},
+				{
+					"name": "​",
+					"value": "[Hobgoblin Champion's scroll](https://runescape.wikia.com/wiki/Hobgoblin_Champion%27s_scroll)\n\t• **Monster:** [Hobgoblin](https://runescape.wikia.com/wiki/Hobgoblin)\n\t• **Location(s):** In the cave beneath [Tree Gnome Village](https://runescape.wikia.com/wiki/Tree_Gnome_Village_(location) maze, at the level 35 [Wilderness](https://runescape.wikia.com/wiki/Wilderness) mine, God Wars Dungeon, and at the peninsula west of the [Crafting Guild](https://runescape.wikia.com/wiki/Crafting_Guild)."
+				},
+				{
+					"name": "​",
+					"value": "[Giant Champion's scroll](https://runescape.wikia.com/wiki/Giant_Champion%27s_scroll)\n\t• **Monster:** [Hill giant](https://runescape.wikia.com/wiki/Hill_giant)\n\t• **Location(s):** Edgeville Dungeon, the area south west of the [Tree Gnome Stronghold](https://runescape.wikia.com/wiki/Tree_Gnome_Stronghold), and inside the resource dungeon in Edgeville Dungeon (requires 20 Dungeoneering)."
+				}
+			]
+		}
+	},
 	"champions, what champions? pt2": {
 		"cmds": ["trim"],
 		"embed": {
-      		"fields": [
-        		{
-                    "name": "​",
-                    "value": "[Ghoul Champion's scroll](https://runescape.wikia.com/wiki/Ghoul_Champion%27s_scroll)\n\t• **Monster:** [Ghoul](https://runescape.wikia.com/wiki/Ghoul)\n\t• **Location(s):** South-east of the [Slayer Tower](https://runescape.wikia.com/wiki/Slayer_Tower) in [Morytania](https://runescape.wikia.com/wiki/Morytania), North of the [Canifis](https://runescape.wikia.com/wiki/Canifis) [Lodestone](https://runescape.wikia.com/wiki/Lodestone_Network)."
-                },
-                {
-                    "name": "​",
-                    "value": "[Earth Warrior Champion's scroll](https://runescape.wikia.com/wiki/Earth_Warrior_Champion%27s_scroll)\n\t• **Monster:** [Earth Warrior](https://runescape.wikia.com/wiki/Earth_warrior)\n\t• **Location(s):** In the Wilderness part of the Edgeville Dungeon or in the north-western [Chaos Tunnels](https://runescape.wikia.com/wiki/Chaos_Tunnels)."
-                },
-                {
-                    "name": "​",
-                    "value": "[Jogre Champion's scroll](https://runescape.wikia.com/wiki/Jogre_Champion%27s_scroll)\n\t• **Monster:** [Jogre](https://runescape.wikia.com/wiki/Jogre)\n\t• **Location(s):** Eastern [Karamja](https://runescape.wikia.com/wiki/Karamja) and the Bandos Fortress of the God Wars Dungeon."
-                },
-                {
-                    "name": "​",
-                    "value": "[Lesser Demon Champion's scroll](https://runescape.wikia.com/wiki/Lesser_Demon_Champion%27s_scroll)\n\t• **Monster:** [Lesser Demon](https://runescape.wikia.com/wiki/Lesser_demon)\n\t• **Location(s):** [Crandor and Karamja Dungeon](https://runescape.wikia.com/wiki/Crandor_and_Karamja_Dungeon), inside the resource dungeon in Karamja Volcano (requires 25 Dungeoneering)."
-                },
-                {
-                    "name": "​",
-                    "value": "[Aberrant Spectre Champion's scroll](https://runescape.wikia.com/wiki/Aberrant_Spectre_Champion%27s_scroll)\n\t• **Monster:** [Aberrant Spectre](https://runescape.wikia.com/wiki/Aberrant_spectre)\n\t• **Location(s):** On the first floor of the Slayer Tower in the east rooms, or on the bottom floor of the [Pollnivneach Slayer Dungeon](https://runescape.wikia.com/wiki/Pollnivneach_Slayer_Dungeon)."
-                },
-                {
-                    "name": "​",
-                    "value": "[Banshee Champion's scroll](https://runescape.wikia.com/wiki/Banshee_Champion%27s_scroll)\n\t• **Monster:** [Banshee](https://runescape.wikia.com/wiki/Banshee)\n\t• **Location(s):** On the ground floor of the Slayer Tower, in the east rooms. [Mighty Banshees](https://runescape.wikia.com/wiki/Mighty_banshee) found in the Pollnivneach Slayer Dungeon can also drop the champion's scroll."
-                },
-                {
-                    "name": "​",
-                    "value": "[Mummy Champion's scroll](https://runescape.wikia.com/wiki/Mummy_Champion%27s_scroll)\n\t• **Monster:** [Mummy](https://runescape.wikia.com/wiki/Mummy)\n\t• **Location(s):** [Jaldraocht Pyramid](https://runescape.wikia.com/wiki/Jaldraocht_Pyramid) - the ones that spawn continuously from the walls, have low life points, and can only be killed with fire magic. Also by the [Agility pyramid](https://runescape.wikia.com/wiki/Agility_Pyramid), across the shortcut from the Archaelogists's camp in [Ullek](https://runescape.wikia.com/wiki/Ullek).\n\n"
-                },
-                {
-                    "name": "​Champions of Champions",
-                    "value": "[Human](https://runescape.wikia.com/wiki/Human)\n\t• **Name:** [Leon d'Cour](https://runescape.wikia.com/wiki/Leon_d%27Cour)\n\t• **Location(s):** There is no human champion's scroll. After defeating 10 lower champions in formal duels, the player receives a challenge from Leon d'Cour."
-                },
-                {
-                    "name": "​",
-                    "value": "[Gnome](https://runescape.wikia.com/wiki/Gnome)\n\t• **Name:** [Glophren](https://runescape.wikia.com/wiki/Glophren)\n\t• **Location(s):** There is no gnome champion's scroll. After defeating both the 13 lower champions in formal duels and Leon d'Cour, the player receives a challenge from Glophren."
-                },
-                {
-                    "name": "Requirements:",
-                    "value": "• 60 Slayer\n\n• 33 Quest Points for access to the [Champions' Guild](https://runescape.wikia.com/wiki/Champions%27_Guild)"
-                },
-                {
+			"fields": [{
+					"name": "​",
+					"value": "[Ghoul Champion's scroll](https://runescape.wikia.com/wiki/Ghoul_Champion%27s_scroll)\n\t• **Monster:** [Ghoul](https://runescape.wikia.com/wiki/Ghoul)\n\t• **Location(s):** South-east of the [Slayer Tower](https://runescape.wikia.com/wiki/Slayer_Tower) in [Morytania](https://runescape.wikia.com/wiki/Morytania), North of the [Canifis](https://runescape.wikia.com/wiki/Canifis) [Lodestone](https://runescape.wikia.com/wiki/Lodestone_Network)."
+				},
+				{
+					"name": "​",
+					"value": "[Earth Warrior Champion's scroll](https://runescape.wikia.com/wiki/Earth_Warrior_Champion%27s_scroll)\n\t• **Monster:** [Earth Warrior](https://runescape.wikia.com/wiki/Earth_warrior)\n\t• **Location(s):** In the Wilderness part of the Edgeville Dungeon or in the north-western [Chaos Tunnels](https://runescape.wikia.com/wiki/Chaos_Tunnels)."
+				},
+				{
+					"name": "​",
+					"value": "[Jogre Champion's scroll](https://runescape.wikia.com/wiki/Jogre_Champion%27s_scroll)\n\t• **Monster:** [Jogre](https://runescape.wikia.com/wiki/Jogre)\n\t• **Location(s):** Eastern [Karamja](https://runescape.wikia.com/wiki/Karamja) and the Bandos Fortress of the God Wars Dungeon."
+				},
+				{
+					"name": "​",
+					"value": "[Lesser Demon Champion's scroll](https://runescape.wikia.com/wiki/Lesser_Demon_Champion%27s_scroll)\n\t• **Monster:** [Lesser Demon](https://runescape.wikia.com/wiki/Lesser_demon)\n\t• **Location(s):** [Crandor and Karamja Dungeon](https://runescape.wikia.com/wiki/Crandor_and_Karamja_Dungeon), inside the resource dungeon in Karamja Volcano (requires 25 Dungeoneering)."
+				},
+				{
+					"name": "​",
+					"value": "[Aberrant Spectre Champion's scroll](https://runescape.wikia.com/wiki/Aberrant_Spectre_Champion%27s_scroll)\n\t• **Monster:** [Aberrant Spectre](https://runescape.wikia.com/wiki/Aberrant_spectre)\n\t• **Location(s):** On the first floor of the Slayer Tower in the east rooms, or on the bottom floor of the [Pollnivneach Slayer Dungeon](https://runescape.wikia.com/wiki/Pollnivneach_Slayer_Dungeon)."
+				},
+				{
+					"name": "​",
+					"value": "[Banshee Champion's scroll](https://runescape.wikia.com/wiki/Banshee_Champion%27s_scroll)\n\t• **Monster:** [Banshee](https://runescape.wikia.com/wiki/Banshee)\n\t• **Location(s):** On the ground floor of the Slayer Tower, in the east rooms. [Mighty Banshees](https://runescape.wikia.com/wiki/Mighty_banshee) found in the Pollnivneach Slayer Dungeon can also drop the champion's scroll."
+				},
+				{
+					"name": "​",
+					"value": "[Mummy Champion's scroll](https://runescape.wikia.com/wiki/Mummy_Champion%27s_scroll)\n\t• **Monster:** [Mummy](https://runescape.wikia.com/wiki/Mummy)\n\t• **Location(s):** [Jaldraocht Pyramid](https://runescape.wikia.com/wiki/Jaldraocht_Pyramid) - the ones that spawn continuously from the walls, have low life points, and can only be killed with fire magic. Also by the [Agility pyramid](https://runescape.wikia.com/wiki/Agility_Pyramid), across the shortcut from the Archaelogists's camp in [Ullek](https://runescape.wikia.com/wiki/Ullek).\n\n"
+				},
+				{
+					"name": "​Champions of Champions",
+					"value": "[Human](https://runescape.wikia.com/wiki/Human)\n\t• **Name:** [Leon d'Cour](https://runescape.wikia.com/wiki/Leon_d%27Cour)\n\t• **Location(s):** There is no human champion's scroll. After defeating 10 lower champions in formal duels, the player receives a challenge from Leon d'Cour."
+				},
+				{
+					"name": "​",
+					"value": "[Gnome](https://runescape.wikia.com/wiki/Gnome)\n\t• **Name:** [Glophren](https://runescape.wikia.com/wiki/Glophren)\n\t• **Location(s):** There is no gnome champion's scroll. After defeating both the 13 lower champions in formal duels and Leon d'Cour, the player receives a challenge from Glophren."
+				},
+				{
+					"name": "Requirements:",
+					"value": "• 60 Slayer\n\n• 33 Quest Points for access to the [Champions' Guild](https://runescape.wikia.com/wiki/Champions%27_Guild)"
+				},
+				{
 					"name": "Guide:",
 					"value": "• [Trimmed Completionist Guides - Champion Scrolls! | Teh Proez - YouTube](https://www.youtube.com/watch?v=m_0486aC1gA)\n\t• Some of these methods are semi outdated due to the release of the Player-owned dungeons for slayer."
-                }
-            ],
-            "footer": {
-                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-                "text": "Runescore awarded: 5-50"
-            },
-            "timestamp": "2001-01-04T12:00:00Z"
-        }
-    },
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 5-50"
+			},
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
+	},
 	"chilling with arrav": {
 		"cmds": ["mqc"],
 		"embed": {
@@ -2158,18 +2089,16 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
-					"name": "Requirements:",
-					"value": "• Ritual of the Mahjarrat Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Ritual_of_the_Mahjarrat)"
-				}
-			],
+			"fields": [{
+				"name": "Requirements:",
+				"value": "• Ritual of the Mahjarrat Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Ritual_of_the_Mahjarrat)"
+			}],
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 20"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"chippy transport": {
 		"cmds": ["mqc"],
@@ -2183,18 +2112,16 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
-					"name": "Requirements:",
-					"value": "• Love Story Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Love_Story)"
-				}
-			],
+			"fields": [{
+				"name": "Requirements:",
+				"value": "• Love Story Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Love_Story)"
+			}],
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 10"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"chivalry is dead": {
 		"cmds": ["mqc"],
@@ -2208,18 +2135,16 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
-					"name": "Requirements:",
-					"value": "• 80 Strength\n• 65 Prayer\n\n• The Death of Chivalry Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Death_of_Chivalry)"
-				}
-			],
+			"fields": [{
+				"name": "Requirements:",
+				"value": "• 80 Strength\n• 65 Prayer\n\n• The Death of Chivalry Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Death_of_Chivalry)"
+			}],
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 10"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"chivalry is fed": {
 		"cmds": ["mqc"],
@@ -2233,18 +2158,16 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
-					"name": "Requirements:",
-					"value": "• The Death of Chivalry Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Death_of_Chivalry)"
-				}
-			],
+			"fields": [{
+				"name": "Requirements:",
+				"value": "• The Death of Chivalry Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Death_of_Chivalry)"
+			}],
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 10"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"chivalry is threads": {
 		"cmds": ["mqc"],
@@ -2258,47 +2181,44 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
-					"name": "Requirements:",
-					"value": "• The Death of Chivalry Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Death_of_Chivalry)"
-				}
-			],
+			"fields": [{
+				"name": "Requirements:",
+				"value": "• The Death of Chivalry Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Death_of_Chivalry)"
+			}],
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 10"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"chompy massacre": {
 		"cmds": ["trim"],
 		"embed": {
-            "title": "Chompy Massacre",
-            "author": {
-                "name": "Cape Info",
-                "icon_url": "https://i.imgur.com/6c6q2iC.png"
-            },
-            "description": "[Chompy Massacre](http://runescape.wikia.com/wiki/Chompy_Massacre) requires the player to kill 4,000 [Chompy birds](https://runescape.wikia.com/wiki/Chompy_bird). They can only be attacked with the [Ogre composite bow](https://runescape.wikia.com/wiki/Comp_ogre_bow) or [Ogre bow](https://runescape.wikia.com/wiki/Ogre_bow), and [Bloated toads](https://runescape.wikia.com/wiki/Bloated_toad) must be used as bait to catch them. Use a [Ogre bellows](https://runescape.wikia.com/wiki/Ogre_bellows), which has been loaded with swamp gas, on a [Swamp toad](https://runescape.wikia.com/wiki/Swamp_toad_(creature) to get a bloated toad which is placed in the inventory.\n\nPlayer's with 70 Invention have the option to utilize an [Oldak coil](https://runescape.wikia.com/wiki/Oldak_coil) to help speed up their kills per hour. This method still requires an orge composite bow or bow be equipped.\n\nWhen a chompy bird is killed, a message says: \"You scratch a notch on your bow for the chompy bird kill.\"",
-            "thumbnail": {
-                "url": "https://i.imgur.com/Shmagnp.png"
-            },
-            "fields": [
-                {
-                    "name": "Requirements:",
-                    "value": "• 70 Invention (Optional)\n\n• Big Chompy Bird Hunting Quest completion | [Runescape Wiki](https://runescape.wikia.com/wiki/Big_Chompy_Bird_Hunting)"
-                },
-                {
+			"title": "Chompy Massacre",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Chompy Massacre](http://runescape.wikia.com/wiki/Chompy_Massacre) requires the player to kill 4,000 [Chompy birds](https://runescape.wikia.com/wiki/Chompy_bird). They can only be attacked with the [Ogre composite bow](https://runescape.wikia.com/wiki/Comp_ogre_bow) or [Ogre bow](https://runescape.wikia.com/wiki/Ogre_bow), and [Bloated toads](https://runescape.wikia.com/wiki/Bloated_toad) must be used as bait to catch them. Use a [Ogre bellows](https://runescape.wikia.com/wiki/Ogre_bellows), which has been loaded with swamp gas, on a [Swamp toad](https://runescape.wikia.com/wiki/Swamp_toad_(creature) to get a bloated toad which is placed in the inventory.\n\nPlayer's with 70 Invention have the option to utilize an [Oldak coil](https://runescape.wikia.com/wiki/Oldak_coil) to help speed up their kills per hour. This method still requires an orge composite bow or bow be equipped.\n\nWhen a chompy bird is killed, a message says: \"You scratch a notch on your bow for the chompy bird kill.\"",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [{
+					"name": "Requirements:",
+					"value": "• 70 Invention (Optional)\n\n• Big Chompy Bird Hunting Quest completion | [Runescape Wiki](https://runescape.wikia.com/wiki/Big_Chompy_Bird_Hunting)"
+				},
+				{
 					"name": "Guide:",
 					"value": "• [2017 Chompy Bird Hunting Guide 250 kills/hr w/ Oldak Coil | RS3 | Redkobe - YouTube](https://www.youtube.com/watch?v=LkYHucFFtkk)"
-                }
-            ],
-            "footer": {
-                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-                "text": "Runescore awarded: 50"
-            },
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 50"
+			},
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"circus of fire": {
 		"cmds": ["mqc"],
@@ -2312,18 +2232,16 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
-					"name": "Requirements:",
-					"value": "• The Firemaker's Curse Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Firemaker%27s_Curse)"
-				}
-			],
+			"fields": [{
+				"name": "Requirements:",
+				"value": "• The Firemaker's Curse Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Firemaker%27s_Curse)"
+			}],
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 5"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"claiming azzanadra's heart": {
 		"cmds": ["mqc"],
@@ -2337,80 +2255,75 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
-					"name": "Requirements:",
-					"value": "• Heart of Stone Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Heart_of_Stone)\n• The Temple at Senntisten Quest | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Temple_at_Senntisten)\n• Fate of the Gods Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Fate_of_the_Gods)"
-				}
-			],
+			"fields": [{
+				"name": "Requirements:",
+				"value": "• Heart of Stone Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Heart_of_Stone)\n• The Temple at Senntisten Quest | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Temple_at_Senntisten)\n• Fate of the Gods Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Fate_of_the_Gods)"
+			}],
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 10"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"claiming the knight's experience": {
 		"cmds": ["mqc"],
 		"embed": {
-            "title": "Claiming the Knight's Experience",
-            "author": {
-                "name": "Cape Info",
-                "icon_url": "https://i.imgur.com/6c6q2iC.png"
-            },
-            "description": "[Claiming the Knight's Experience](http://runescape.wikia.com/wiki/Claiming_the_Knight%27s_Experience) is an achievement that requires the player to claim the [Smithing XP lamp](http://runescape.wikia.com/wiki/Smithing_XP_lamp_(The_Knight%27s_Sword) from [Squire Asrol](http://runescape.wikia.com/wiki/Squire_Asrol) after completing the quest, [The Knight's Sword](http://runescape.wikia.com/wiki/The_Knight%27s_Sword). \n\nSquire Asrol is the squire of [Sir Vyvin](http://runescape.wikia.com/wiki/Sir_Vyvin). He can be found in the courtyard of the [White Knights' castle](http://runescape.wikia.com/wiki/White_Knights'_Castle) in [Falador](https://runescape.wikia.com/wiki/Falador).",
-            "thumbnail": {
-                "url": "https://i.imgur.com/Shmagnp.png"
-            },
-            "fields": [
-                {
-                    "name": "Requirements:",
-                    "value": "•  The Knight's Sword Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Knight%27s_Sword)"
-                }
-            ],
-            "footer": {
-                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-                "text": "Runescore awarded: 10"
-            },
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"title": "Claiming the Knight's Experience",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Claiming the Knight's Experience](http://runescape.wikia.com/wiki/Claiming_the_Knight%27s_Experience) is an achievement that requires the player to claim the [Smithing XP lamp](http://runescape.wikia.com/wiki/Smithing_XP_lamp_(The_Knight%27s_Sword) from [Squire Asrol](http://runescape.wikia.com/wiki/Squire_Asrol) after completing the quest, [The Knight's Sword](http://runescape.wikia.com/wiki/The_Knight%27s_Sword). \n\nSquire Asrol is the squire of [Sir Vyvin](http://runescape.wikia.com/wiki/Sir_Vyvin). He can be found in the courtyard of the [White Knights' castle](http://runescape.wikia.com/wiki/White_Knights'_Castle) in [Falador](https://runescape.wikia.com/wiki/Falador).",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [{
+				"name": "Requirements:",
+				"value": "•  The Knight's Sword Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Knight%27s_Sword)"
+			}],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 10"
+			},
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"class crown": {
 		"cmds": ["trim"],
 		"embed": {
-            "title": "Class Crown",
-            "author": {
-                "name": "Cape Info",
-                "icon_url": "https://i.imgur.com/6c6q2iC.png"
-            },
-            "description": "[Class Crown](https://runescape.wikia.com/wiki/Class_Crown) is an achievement that requires the player to gain tier 10 [Reputation](https://runescape.wikia.com/wiki/Menaphos/Reputation) in the [Imperial district](https://runescape.wikia.com/wiki/Imperial_district) of [Menaphos](https://runescape.wikia.com/wiki/Menaphos).\n\nPlayers must first choose to which faction they want to align themselves before reputation can be earned. Right-click on a faction icon within the faction windows to choose a faction. If no faction is selected, reputation is not gained and the following message is seen instead: \"You have not currently selected a faction, so earned no reputation!\"\n\nYou can use `soulobby` friend's chat to find [Soul Obelisks](https://runescape.wikia.com/wiki/Soul_obelisk_(Menaphos) and [Corrupted Scarabs](https://runescape.wikia.com/wiki/Corrupted_scarab) easily. You can gain 20,000 reputatation per day from Soul Obelisks and a varied amount from Corrupted Scarabs daily. You will be able to finish this requirment within two weeks utilizing this method as a daily.\n\nReputation is a mechanic that is used within [Menaphos](https://runescape.wikia.com/wiki/Menaphos). All skilling activities within the walls of Menaphos earn reputation. In addition, skilling using any of the methods released along with Menaphos rewards a higher amount of reputation. ",
-            "thumbnail": {
-                "url": "https://i.imgur.com/Shmagnp.png"
-            },
-            "fields": [
-                {
-                    "name": "Increased Reputation Methods:",
-                    "value": "Those activities which award reputation at an increased rate are chopping [Acadia trees](https://runescape.wikia.com/wiki/Acadia_tree), mining [Concentrated sandstone](https://runescape.wikia.com/wiki/Concentrated_sandstone_rocks), fishing for [Desert sole](https://runescape.wikia.com/wiki/Raw_desert_sole), [Catfish](https://runescape.wikia.com/wiki/Raw_catfish), and [Beltfish](https://runescape.wikia.com/wiki/Raw_beltfish), thieving in the Menaphos market, catching [Plover birds](https://runescape.wikia.com/wiki/Plover_bird) in [Sophanem](https://runescape.wikia.com/wiki/Sophanem), and fighting corrupted and devourer creatures in the [Sophanem Slayer Dungeon](https://runescape.wikia.com/wiki/Sophanem_Slayer_Dungeon). Furthermore, the highest rates of reputation are earned by playing the [Shifting Tombs](https://runescape.wikia.com/wiki/Shifting_Tombs) minigame."
-                },
-                {
-                    "name": "Repeatable Events for Reputation:",
-                    "value": "• Interacting with [Soul obelisks](https://runescape.wikia.com/wiki/Soul_obelisk_(Menaphos) in Menaphos can reward players up to 20,000 base reputation per day in a very short duration\n• Interacting with [Corrupted Scarabs](https://runescape.wikia.com/wiki/Corrupted_Scarab_(Menaphos) in Menaphos can reward players reputation\n• Completing a [City Quest](https://runescape.wikia.com/wiki/City_Quest) grants 2,000 base reputation, as well as a random-sized [Menaphite gift offering](https://runescape.wikia.com/wiki/Menaphite_gift_offering)"
-                },
-                {
-                    "name": "Permanent Reputation Increase:",
-                    "value": "After completion of Menaphos related quests, all reputation gain is increased.\n\t• [The Jack of Spades](https://runescape.wikia.com/wiki/The_Jack_of_Spades) - 1.25\n\t• [Crocadile Tears](https://runescape.wikia.com/wiki/Crocodile_Tears) - x.15\n\t• [Our Man in the North](https://runescape.wikia.com/wiki/Our_Man_in_the_North) - x.175\n\t• ['Phite Club](https://runescape.wikia.com/wiki/%27Phite_Club) - x2.0"
-                },
-                {
-                    "name": "Requirements:",
-                    "value": "• The Jack of Spades Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Jack_of_Spades)"
-                }
-            ],
-            "footer": {
-                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-                "text": "Runescore awarded: 40"
-            },
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"title": "Class Crown",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Class Crown](https://runescape.wikia.com/wiki/Class_Crown) is an achievement that requires the player to gain tier 10 [Reputation](https://runescape.wikia.com/wiki/Menaphos/Reputation) in the [Imperial district](https://runescape.wikia.com/wiki/Imperial_district) of [Menaphos](https://runescape.wikia.com/wiki/Menaphos).\n\nPlayers must first choose to which faction they want to align themselves before reputation can be earned. Right-click on a faction icon within the faction windows to choose a faction. If no faction is selected, reputation is not gained and the following message is seen instead: \"You have not currently selected a faction, so earned no reputation!\"\n\nYou can use `soulobby` friend's chat to find [Soul Obelisks](https://runescape.wikia.com/wiki/Soul_obelisk_(Menaphos) and [Corrupted Scarabs](https://runescape.wikia.com/wiki/Corrupted_scarab) easily. You can gain 20,000 reputatation per day from Soul Obelisks and a varied amount from Corrupted Scarabs daily. You will be able to finish this requirment within two weeks utilizing this method as a daily.\n\nReputation is a mechanic that is used within [Menaphos](https://runescape.wikia.com/wiki/Menaphos). All skilling activities within the walls of Menaphos earn reputation. In addition, skilling using any of the methods released along with Menaphos rewards a higher amount of reputation. ",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [{
+					"name": "Increased Reputation Methods:",
+					"value": "Those activities which award reputation at an increased rate are chopping [Acadia trees](https://runescape.wikia.com/wiki/Acadia_tree), mining [Concentrated sandstone](https://runescape.wikia.com/wiki/Concentrated_sandstone_rocks), fishing for [Desert sole](https://runescape.wikia.com/wiki/Raw_desert_sole), [Catfish](https://runescape.wikia.com/wiki/Raw_catfish), and [Beltfish](https://runescape.wikia.com/wiki/Raw_beltfish), thieving in the Menaphos market, catching [Plover birds](https://runescape.wikia.com/wiki/Plover_bird) in [Sophanem](https://runescape.wikia.com/wiki/Sophanem), and fighting corrupted and devourer creatures in the [Sophanem Slayer Dungeon](https://runescape.wikia.com/wiki/Sophanem_Slayer_Dungeon). Furthermore, the highest rates of reputation are earned by playing the [Shifting Tombs](https://runescape.wikia.com/wiki/Shifting_Tombs) minigame."
+				},
+				{
+					"name": "Repeatable Events for Reputation:",
+					"value": "• Interacting with [Soul obelisks](https://runescape.wikia.com/wiki/Soul_obelisk_(Menaphos) in Menaphos can reward players up to 20,000 base reputation per day in a very short duration\n• Interacting with [Corrupted Scarabs](https://runescape.wikia.com/wiki/Corrupted_Scarab_(Menaphos) in Menaphos can reward players reputation\n• Completing a [City Quest](https://runescape.wikia.com/wiki/City_Quest) grants 2,000 base reputation, as well as a random-sized [Menaphite gift offering](https://runescape.wikia.com/wiki/Menaphite_gift_offering)"
+				},
+				{
+					"name": "Permanent Reputation Increase:",
+					"value": "After completion of Menaphos related quests, all reputation gain is increased.\n\t• [The Jack of Spades](https://runescape.wikia.com/wiki/The_Jack_of_Spades) - 1.25\n\t• [Crocadile Tears](https://runescape.wikia.com/wiki/Crocodile_Tears) - x.15\n\t• [Our Man in the North](https://runescape.wikia.com/wiki/Our_Man_in_the_North) - x.175\n\t• ['Phite Club](https://runescape.wikia.com/wiki/%27Phite_Club) - x2.0"
+				},
+				{
+					"name": "Requirements:",
+					"value": "• The Jack of Spades Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Jack_of_Spades)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 40"
+			},
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"claus is rising": {
 		"cmds": ["comp", "mqc"],
@@ -2420,12 +2333,11 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-				"description": "[Claus Is Rising](http://runescape.wikia.com/wiki/Claus_Is_Rising) is an achievement that requires the player to hand in a [Cave Wolf Matriarch skull](http://runescape.wikia.com/wiki/Cave_Wolf_Matriarch_skull) to [Claus the chef](http://runescape.wikia.com/wiki/Claus_the_chef) after completion of [Carnillean Rising](http://runescape.wikia.com/wiki/Carnillean_Rising).\n\nPlayers can choose between these selected rewards:\n\n• 2,000 [Pure Essence](http://runescape.wikia.com/wiki/Pure_essence)\n• [3,500 Flax](http://runescape.wikia.com/wiki/Flax)\n• [200 Dragon scale dust](http://runescape.wikia.com/wiki/Dragon_scale_dust)\n• [100 Unicorn horn dust](http://runescape.wikia.com/wiki/Unicorn_horn_dust)\n\nThe Cave Wolf Matriarch skull is obtained by killing the [Cave Wolf Matriarch](http://runescape.wikia.com/wiki/Cave_Wolf_Matriarch) after the Carnillean Rising quest.\n\n The Cave Wolf Matriarch is a monster encountered during Carnillean Rising, in which [Philipe Carnillean](http://runescape.wikia.com/wiki/Philipe_Carnillean) defeats it while the player distracts the wolf. After the completion of the quest, Claus the chef in the basement will assign you to kill the, now much stronger, wolf once more for her skull. You are then given limited access outside the cave again in which the [Juvenile wolves](http://runescape.wikia.com/wiki/Juvenile_wolf) were in, and kill the Cave Wolf Matriarch and both of her cubs.",
+			"description": "[Claus Is Rising](http://runescape.wikia.com/wiki/Claus_Is_Rising) is an achievement that requires the player to hand in a [Cave Wolf Matriarch skull](http://runescape.wikia.com/wiki/Cave_Wolf_Matriarch_skull) to [Claus the chef](http://runescape.wikia.com/wiki/Claus_the_chef) after completion of [Carnillean Rising](http://runescape.wikia.com/wiki/Carnillean_Rising).\n\nPlayers can choose between these selected rewards:\n\n• 2,000 [Pure Essence](http://runescape.wikia.com/wiki/Pure_essence)\n• [3,500 Flax](http://runescape.wikia.com/wiki/Flax)\n• [200 Dragon scale dust](http://runescape.wikia.com/wiki/Dragon_scale_dust)\n• [100 Unicorn horn dust](http://runescape.wikia.com/wiki/Unicorn_horn_dust)\n\nThe Cave Wolf Matriarch skull is obtained by killing the [Cave Wolf Matriarch](http://runescape.wikia.com/wiki/Cave_Wolf_Matriarch) after the Carnillean Rising quest.\n\n The Cave Wolf Matriarch is a monster encountered during Carnillean Rising, in which [Philipe Carnillean](http://runescape.wikia.com/wiki/Philipe_Carnillean) defeats it while the player distracts the wolf. After the completion of the quest, Claus the chef in the basement will assign you to kill the, now much stronger, wolf once more for her skull. You are then given limited access outside the cave again in which the [Juvenile wolves](http://runescape.wikia.com/wiki/Juvenile_wolf) were in, and kill the Cave Wolf Matriarch and both of her cubs.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
+			"fields": [{
 					"name": "Requirements:",
 					"value": "• Carnillean Rising Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Carnillean_Rising)"
 				},
@@ -2438,8 +2350,8 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 10"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"clue's in the monkey drool": {
 		"cmds": ["mqc"],
@@ -2453,18 +2365,16 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
-					"name": "Requirements:",
-					"value": "• Monkey Madness Quest partial completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Monkey_Madness)"
-				}
-			],
+			"fields": [{
+				"name": "Requirements:",
+				"value": "• Monkey Madness Quest partial completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Monkey_Madness)"
+			}],
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 10"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"complete history of droalak": {
 		"cmds": ["mqc"],
@@ -2478,113 +2388,107 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
+			"fields": [{
+				"name": "Requirements:",
+				"value": "• Making History Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Making_History)"
+			}],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 10"
+			},
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
+	},
+	"complete trekky": {
+		"cmds": ["mqc", "trim"],
+		"embed": {
+			"title": "Complete Trekky",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Complete Trekky](https://runescape.wikia.com/wiki/Complete_Trekky) is an achievement that requires the player to level all adventurers in [Temple Trekking](https://runescape.wikia.com/wiki/Temple_Trekking) to level 99.\n\nThere are a total of six people that can be escorted - three people for the journey to the [Paterdomus Temple](https://runescape.wikia.com/wiki/Paterdomus) and three for [Burgh De Rott](https://runescape.wikia.com/wiki/Burgh_de_Rott). They are:\n• [Dean Vellio](https://runescape.wikia.com/wiki/Dean_Vellio)\n• [Jayene Kliyn](https://runescape.wikia.com/wiki/Jayene_Kliyn)\n• [Smiddi Ryak](https://runescape.wikia.com/wiki/Smiddi_Ryak)\n• [Pazuzu](https://runescape.wikia.com/wiki/Pazuzu)\n• [Zachory Bragg](https://runescape.wikia.com/wiki/Zachory_Bragg)\n• [Rolayne Twickit](https://runescape.wikia.com/wiki/Rolayne_Twickit)\n\nYou can choose who to escort by using the noticeboard at the start point at Paterdomus or in Burgh De Rott. Each of the three people on each journey has a different [Difficulty](https://runescape.wikia.com/wiki/Temple_Trekking#Difficulty) - easy, medium and hard.\n\nBy being escorted, the follower will gain experience and levels. As they do so, they will gain new abilities and become more adept in combat. Their examine information and appearance will also change after receiving some new abilities. It will also allow the player to unlock certain rewards. Some rewards require all of the followers to have reached a certain level.\n\nIt is possible to let your companion do much, if not all, of the fighting leading to fast level ups. This is easier for the mages and ranger, but can still be done with the warrior provided you have food to sustain him. This tactic works well with the Easy and Medium NPCs at the easy and medium route difficulties for the giant snail, ghast, nail beast, swamp snake, and shade [events](https://runescape.wikia.com/wiki/Temple_Trekking/Events). The Hard NPC’s can simply be rushed through the hard path for the fastest levels.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [{
+					"name": "​",
+					"value": "Players should use [potatoes](https://runescape.wikia.com/wiki/Potatoes) (sack of potatoes) with 10 [raw potatoes](https://runescape.wikia.com/wiki/Raw_potato) within each for their follower's food, as each type of food will heal the same amount and this allows the most food to be carried at once."
+				},
 				{
 					"name": "Requirements:",
-					"value": "• Making History Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Making_History)"
+					"value": "• The [Darkness of Hallowvale](https://runescape.wikia.com/wiki/Darkness_of_Hallowvale) quest for Burgh de Rott Ramble route\n• The [In Aid of the Myreque](https://runescape.wikia.com/wiki/In_Aid_of_the_Myreque) quest for Temple Trekking route"
+				},
+				{
+					"name": "Guide:",
+					"value": "• [Temple Trekking powerleveling companions guide | FBA - YouTube](https://www.youtube.com/watch?v=uLH1vnxrXBs)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 40"
+			},
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
+	},
+	"completionist cape": {
+		"cmds": ["trim"],
+		"embed": {
+			"title": "Completionist Cape",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Completionist Cape](https://runescape.wikia.com/wiki/Completionist_Cape_(achievement%29) is an achievement that requires the player to complete all [Completionist Cape achievements](http://runescape.wikia.com/wiki/Completionist_Cape_achievements). Please visit the <#476762700270141440> channel for more information on how to do this.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [{
+				"name": "Requirements:",
+				"value": "• Visit the <#476762700270141440> channel for a full list"
+			}],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 75"
+			},
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
+	},
+	"conquest adore": {
+		"cmds": ["trim"],
+		"embed": {
+			"title": "Conquest Adore",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Conquest Adore](https://runescape.wikia.com/wiki/Conquest_Adore) is an achievement that requires the player to achieve the [Rank](https://runescape.wikia.com/wiki/Conquest#Rewards) of 1,250 in [Conquest](https://runescape.wikia.com/wiki/Conquest).\n\nConquest is a [minigame](https://runescape.wikia.com/wiki/Minigames) released as an addition to the [Void Knights quest series](https://runescape.wikia.com/wiki/Void_Knight_quest_series). This minigame is located at the [Void Knights' Outpost](https://runescape.wikia.com/wiki/Void_Knights%27_Outpost). To get there, either speak to the [Squire](https://runescape.wikia.com/wiki/Squire_(Void_Knights) on the pier at [Port Sarim](https://runescape.wikia.com/wiki/Port_Sarim) to travel to the island by ship free of charge, use the teleport option of a [Void knight seal](https://runescape.wikia.com/wiki/Void_knight_seal). It is a safe minigame, in which players cannot die. It awards [Void Knight commendation points](https://runescape.wikia.com/wiki/Void_Knight_commendation_points) in higher quantities than [Pest Control](https://runescape.wikia.com/wiki/Pest_Control), but games may take longer and there is no time limit per game.\n\nIt is easiest to do this with a friend willing to boost you/trade boosts, or during the Conquest Spotlight. You may also tag the <@&451411977894494212> role in this server to attempt to find a willing party member.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [{
+					"name": "Commendation Points:",
+					"value": "Each time you play Conquest, both players are awarded Commendations. The amount each player earns from playing a game of Conquest works as follows:\n\nWhen both players begin playing, the game starts counting the number of rounds between players. If the game ends too early, either by early truce, resignation, or army elimination, then neither player gains nor loses rating, and neither gain any commendations.\n\nDepending on the number of turns between players, both winner and loser are given the same number of commendations (before applying a level multiplier), which is a number between 1-10. In general, the more turns there are in a game, the more commendations are awarded, although commendations are not equal to the number of turns. This is the Commendation Ratio. Both players are given the same Commendation Ratio, as both played the same game of that length of time. "
+				},
+				{
+					"name": "​",
+					"value": "This number is then multiplied:\n\t• by 2, (as the Beginner Pest Control Boat) if the Player is between Combat Levels 35-74. All players within this range of combat levels gain 2,4,6,8,10... to 20 commendations in any game. 20 is the maximum.\n\t•by 3, (as the Intermediate Pest Control Boat) if the player is between Combat Levels 75-99. All players within this range of combat levels gain 3,6,9,12,15.... to 30 commendations in any game. 30 is the maximum.\n\t•by 4, (as the Veteran Pest Control Boat) if the player is Combat Level 100 or above. All players within this range of combat levels gain 4,8,12,16,20.... to 40 commendations in any game. 40 is the maximum."
+				},
+				{
+					"name": "Requirements:",
+					"value": "• 55 Combat"
+				},
+				{
+					"name": "Guide:",
+					"value": "• [Conquest (Boosting) guide | AOROX - YouTube](https://www.youtube.com/watch?v=JJ_OiMjXaE8)"
 				}
 			],
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 10"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
-	},
-	"complete trekky": {
-		"cmds": ["mqc", "trim"],
-		"embed": {
-            "title": "Complete Trekky",
-            "author": {
-                "name": "Cape Info",
-                "icon_url": "https://i.imgur.com/6c6q2iC.png"
-            },
-            "description": "[Complete Trekky](https://runescape.wikia.com/wiki/Complete_Trekky) is an achievement that requires the player to level all adventurers in [Temple Trekking](https://runescape.wikia.com/wiki/Temple_Trekking) to level 99.\n\nThere are a total of six people that can be escorted - three people for the journey to the [Paterdomus Temple](https://runescape.wikia.com/wiki/Paterdomus) and three for [Burgh De Rott](https://runescape.wikia.com/wiki/Burgh_de_Rott). They are:\n• [Dean Vellio](https://runescape.wikia.com/wiki/Dean_Vellio)\n• [Jayene Kliyn](https://runescape.wikia.com/wiki/Jayene_Kliyn)\n• [Smiddi Ryak](https://runescape.wikia.com/wiki/Smiddi_Ryak)\n• [Pazuzu](https://runescape.wikia.com/wiki/Pazuzu)\n• [Zachory Bragg](https://runescape.wikia.com/wiki/Zachory_Bragg)\n• [Rolayne Twickit](https://runescape.wikia.com/wiki/Rolayne_Twickit)\n\nYou can choose who to escort by using the noticeboard at the start point at Paterdomus or in Burgh De Rott. Each of the three people on each journey has a different [Difficulty](https://runescape.wikia.com/wiki/Temple_Trekking#Difficulty) - easy, medium and hard.\n\nBy being escorted, the follower will gain experience and levels. As they do so, they will gain new abilities and become more adept in combat. Their examine information and appearance will also change after receiving some new abilities. It will also allow the player to unlock certain rewards. Some rewards require all of the followers to have reached a certain level.\n\nIt is possible to let your companion do much, if not all, of the fighting leading to fast level ups. This is easier for the mages and ranger, but can still be done with the warrior provided you have food to sustain him. This tactic works well with the Easy and Medium NPCs at the easy and medium route difficulties for the giant snail, ghast, nail beast, swamp snake, and shade [events](https://runescape.wikia.com/wiki/Temple_Trekking/Events). The Hard NPC’s can simply be rushed through the hard path for the fastest levels.",
-            "thumbnail": {
-                "url": "https://i.imgur.com/Shmagnp.png"
-            },
-            "fields": [
-                {
-                  "name": "​",
-                  "value": "Players should use [potatoes](https://runescape.wikia.com/wiki/Potatoes) (sack of potatoes) with 10 [raw potatoes](https://runescape.wikia.com/wiki/Raw_potato) within each for their follower's food, as each type of food will heal the same amount and this allows the most food to be carried at once."
-                },
-                {
-                  "name": "Requirements:",
-                  "value": "• The [Darkness of Hallowvale](https://runescape.wikia.com/wiki/Darkness_of_Hallowvale) quest for Burgh de Rott Ramble route\n• The [In Aid of the Myreque](https://runescape.wikia.com/wiki/In_Aid_of_the_Myreque) quest for Temple Trekking route"
-                },
-                {
-					"name": "Guide:",
-					"value": "• [Temple Trekking powerleveling companions guide | FBA - YouTube](https://www.youtube.com/watch?v=uLH1vnxrXBs)"
-                }
-            ],
-            "footer": {
-                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-                "text": "Runescore awarded: 40"
-            },
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
-	},
-	"completionist cape": {
-		"cmds": ["trim"],
-		"embed": {
-            "title": "Completionist Cape",
-            "author": {
-                "name": "Cape Info",
-                "icon_url": "https://i.imgur.com/6c6q2iC.png"
-            },
-            "description": "[Completionist Cape](https://runescape.wikia.com/wiki/Completionist_Cape_(achievement%29) is an achievement that requires the player to complete all [Completionist Cape achievements](http://runescape.wikia.com/wiki/Completionist_Cape_achievements). Please visit the <#476762700270141440> channel for more information on how to do this.",
-            "thumbnail": {
-                "url": "https://i.imgur.com/Shmagnp.png"
-            },
-            "fields": [
-                {
-                    "name": "Requirements:",
-                    "value": "• Visit the <#476762700270141440> channel for a full list"
-                }
-            ],
-            "footer": {
-                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-                "text": "Runescore awarded: 75"
-            },
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
-	},
-	"conquest adore": {
-		"cmds": ["trim"],
-		"embed": {
-            "title": "Conquest Adore",
-            "author": {
-                "name": "Cape Info",
-                "icon_url": "https://i.imgur.com/6c6q2iC.png"
-            },
-            "description": "[Conquest Adore](https://runescape.wikia.com/wiki/Conquest_Adore) is an achievement that requires the player to achieve the [Rank](https://runescape.wikia.com/wiki/Conquest#Rewards) of 1,250 in [Conquest](https://runescape.wikia.com/wiki/Conquest).\n\nConquest is a [minigame](https://runescape.wikia.com/wiki/Minigames) released as an addition to the [Void Knights quest series](https://runescape.wikia.com/wiki/Void_Knight_quest_series). This minigame is located at the [Void Knights' Outpost](https://runescape.wikia.com/wiki/Void_Knights%27_Outpost). To get there, either speak to the [Squire](https://runescape.wikia.com/wiki/Squire_(Void_Knights) on the pier at [Port Sarim](https://runescape.wikia.com/wiki/Port_Sarim) to travel to the island by ship free of charge, use the teleport option of a [Void knight seal](https://runescape.wikia.com/wiki/Void_knight_seal). It is a safe minigame, in which players cannot die. It awards [Void Knight commendation points](https://runescape.wikia.com/wiki/Void_Knight_commendation_points) in higher quantities than [Pest Control](https://runescape.wikia.com/wiki/Pest_Control), but games may take longer and there is no time limit per game.\n\nIt is easiest to do this with a friend willing to boost you/trade boosts, or during the Conquest Spotlight. You may also tag the <@&451411977894494212> role in this server to attempt to find a willing party member.",
-            "thumbnail": {
-                "url": "https://i.imgur.com/Shmagnp.png"
-            },
-            "fields": [
-                {
-                    "name": "Commendation Points:",
-                    "value": "Each time you play Conquest, both players are awarded Commendations. The amount each player earns from playing a game of Conquest works as follows:\n\nWhen both players begin playing, the game starts counting the number of rounds between players. If the game ends too early, either by early truce, resignation, or army elimination, then neither player gains nor loses rating, and neither gain any commendations.\n\nDepending on the number of turns between players, both winner and loser are given the same number of commendations (before applying a level multiplier), which is a number between 1-10. In general, the more turns there are in a game, the more commendations are awarded, although commendations are not equal to the number of turns. This is the Commendation Ratio. Both players are given the same Commendation Ratio, as both played the same game of that length of time. "
-                },
-                {
-                    "name": "​",
-                    "value": "This number is then multiplied:\n\t• by 2, (as the Beginner Pest Control Boat) if the Player is between Combat Levels 35-74. All players within this range of combat levels gain 2,4,6,8,10... to 20 commendations in any game. 20 is the maximum.\n\t•by 3, (as the Intermediate Pest Control Boat) if the player is between Combat Levels 75-99. All players within this range of combat levels gain 3,6,9,12,15.... to 30 commendations in any game. 30 is the maximum.\n\t•by 4, (as the Veteran Pest Control Boat) if the player is Combat Level 100 or above. All players within this range of combat levels gain 4,8,12,16,20.... to 40 commendations in any game. 40 is the maximum."
-                },
-                {
-                    "name": "Requirements:",
-                    "value": "• 55 Combat"
-                },
-                {
-					"name": "Guide:",
-					"value": "• [Conquest (Boosting) guide | AOROX - YouTube](https://www.youtube.com/watch?v=JJ_OiMjXaE8)"
-                }
-            ],
-            "footer": {
-                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-                "text": "Runescore awarded: 10"
-            },
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"cook's delights": {
 		"cmds": ["mqc"],
@@ -2598,28 +2502,27 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
+			"fields": [{
+					"name": "Start Point:",
+					"value": "• Speak to the cook in the kitchen of Lumbridge Castle"
+				},
 				{
-                    "name": "Start Point:",
-                    "value": "• Speak to the cook in the kitchen of Lumbridge Castle"
-      			},
-        		{
-                    "name": "Official Difficulty:",
-                    "value": "• Novice"
-        		},
-        		{
-                    "name": "Official Length:",
-                    "value": "• Short"
-       			},
-        		{
-                    "name": "Items Required:",
-                    "value": "• [Empty pot](https://runescape.wikia.com/wiki/Empty_pot) (can be obtained during quest)\n• [Bucket](https://runescape.wikia.com/wiki/Bucket) (can be obtained during quest)"
-        		},
-        		{
-                    "name": "Enemies to Defeat:",
-                    "value": "• None"
-        		},
-        		{
+					"name": "Official Difficulty:",
+					"value": "• Novice"
+				},
+				{
+					"name": "Official Length:",
+					"value": "• Short"
+				},
+				{
+					"name": "Items Required:",
+					"value": "• [Empty pot](https://runescape.wikia.com/wiki/Empty_pot) (can be obtained during quest)\n• [Bucket](https://runescape.wikia.com/wiki/Bucket) (can be obtained during quest)"
+				},
+				{
+					"name": "Enemies to Defeat:",
+					"value": "• None"
+				},
+				{
 					"name": "Requirements:",
 					"value": "• Cook's Assistant Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Cook%27s_Assistant)"
 				},
@@ -2632,8 +2535,8 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 5"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"count all light fingers": {
 		"cmds": ["mqc", "trim"],
@@ -2647,8 +2550,7 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
+			"fields": [{
 					"name": "Requirements:",
 					"value": "• 62 Thieving\n• 40 Agility\n• 46 Herblore\n\n• Buyers and Cellars Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Buyers_and_Cellars)\n• The Feud Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Feud)"
 				},
@@ -2661,8 +2563,8 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 20"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"cower behind the chosen commander": {
 		"cmds": ["mqc"],
@@ -2676,18 +2578,16 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
-					"name": "Requirements:",
-					"value": "• The Chosen Commander Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Chosen_Commander)"
-				}
-			],
+			"fields": [{
+				"name": "Requirements:",
+				"value": "• The Chosen Commander Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Chosen_Commander)"
+			}],
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 10"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"cran door's secret": {
 		"cmds": ["mqc"],
@@ -2701,18 +2601,16 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
-					"name": "Requirements:",
-					"value": "• Dragon Slayer Quest partial completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Dragon_Slayer)"
-				}
-			],
+			"fields": [{
+				"name": "Requirements:",
+				"value": "• Dragon Slayer Quest partial completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Dragon_Slayer)"
+			}],
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 10"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"daemonology of celerity": {
 		"cmds": ["mqc"],
@@ -2726,8 +2624,7 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
+			"fields": [{
 					"name": "​",
 					"value": "A new mob spawns every hour; if the demon general is not slain within one hour of spawning, he will despawn, regardless of the damage dealt on him.\n\nPlayers may utilize the `DemonMobs FC` friend's chat in order to attempt to find a group for this D&D."
 				},
@@ -2740,8 +2637,8 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 10"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"daero take this experience?": {
 		"cmds": ["mqc"],
@@ -2755,42 +2652,38 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
-					"name": "Requirements:",
-					"value": "• Monkey Madness Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Monkey_Madness)"
-				}
-			],
+			"fields": [{
+				"name": "Requirements:",
+				"value": "• Monkey Madness Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Monkey_Madness)"
+			}],
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 10"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"data recovery": {
 		"cmds": ["comp"],
 		"embed": {
-      "title": "Data Recovery",
-      "author": {
-        "name": "Cape Info",
-        "icon_url": "https://i.imgur.com/6c6q2iC.png"
-      },
-      "description": "[Data Recovery](https://runescape.wikia.com/wiki/Data_Recovery) is an achievement that requires the player to help [The Archivist](https://runescape.wikia.com/wiki/The_Archivist) recover all core memory data in the [Hall of Memories](http://runescape.wikia.com/wiki/Hall_of_Memories).\n\nHall of Memories is a Divination training dungeon located below the [Memorial to Guthix](http://runescape.wikia.com/wiki/Memorial_to_Guthix), revolving around the late god [Guthix](https://runescape.wikia.com/wiki/Guthix) and his memories. Level 70 Divination is required to enter.\n\nPlayers can easily access the dungeon by teleporting to the Memorial to Guthix with [Memory strands](http://runescape.wikia.com/wiki/Memory_strand), [Sixth-Age circuit](http://runescape.wikia.com/wiki/Sixth-Age_circuit) or with charged [Engrams](http://runescape.wikia.com/wiki/Engram). The dungeon is located inside the pool in the middle of the Memorial to Guthix building.\n\nUpon first entry, The Archivist will hand the player two [Memory jars](https://runescape.wikia.com/wiki/Memory_jar) (one empty, one full) and a [Memory-storage bot](https://runescape.wikia.com/wiki/Memory-storage_bot_%28Aagi%29), and will give a short dialogue explaining what to do inside the dungeon.\n\nThe player will have to gather a specific type of memory for each memory-storage bot. The player can inspect the memory-storage bot to check which type of memories is needed.\n\nGathering from other types will not progress towards the memory-storage bot and will only fill up the memory jars.\n\nThe gathering speed of the memories can be increased by clicking exactly when the experience drops appears. For players that don't receive experience drops, they can turn on their game sounds and keep track of when they should click again that way.",
-      "thumbnail": {
-        "url": "https://i.imgur.com/Shmagnp.png"
-      },
-      "fields": [
-        {
-          "name": "Requirements:",
-          "value": "• 95 Divination"
-        }
-      ],
-      "footer": {
-        "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-        "text": "Runescore awarded: 20"
-      }
-    }
+			"title": "Data Recovery",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Data Recovery](https://runescape.wikia.com/wiki/Data_Recovery) is an achievement that requires the player to help [The Archivist](https://runescape.wikia.com/wiki/The_Archivist) recover all core memory data in the [Hall of Memories](http://runescape.wikia.com/wiki/Hall_of_Memories).\n\nHall of Memories is a Divination training dungeon located below the [Memorial to Guthix](http://runescape.wikia.com/wiki/Memorial_to_Guthix), revolving around the late god [Guthix](https://runescape.wikia.com/wiki/Guthix) and his memories. Level 70 Divination is required to enter.\n\nPlayers can easily access the dungeon by teleporting to the Memorial to Guthix with [Memory strands](http://runescape.wikia.com/wiki/Memory_strand), [Sixth-Age circuit](http://runescape.wikia.com/wiki/Sixth-Age_circuit) or with charged [Engrams](http://runescape.wikia.com/wiki/Engram). The dungeon is located inside the pool in the middle of the Memorial to Guthix building.\n\nUpon first entry, The Archivist will hand the player two [Memory jars](https://runescape.wikia.com/wiki/Memory_jar) (one empty, one full) and a [Memory-storage bot](https://runescape.wikia.com/wiki/Memory-storage_bot_%28Aagi%29), and will give a short dialogue explaining what to do inside the dungeon.\n\nThe player will have to gather a specific type of memory for each memory-storage bot. The player can inspect the memory-storage bot to check which type of memories is needed.\n\nGathering from other types will not progress towards the memory-storage bot and will only fill up the memory jars.\n\nThe gathering speed of the memories can be increased by clicking exactly when the experience drops appears. For players that don't receive experience drops, they can turn on their game sounds and keep track of when they should click again that way.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [{
+				"name": "Requirements:",
+				"value": "• 95 Divination"
+			}],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 20"
+			}
+		}
 	},
 	"deadlier catch": {
 		"cmds": ["comp", "mqc"],
@@ -2804,8 +2697,7 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
+			"fields": [{
 					"name": "Requirements:",
 					"value": "• Deadliest Catch Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Deadliest_Catch)"
 				},
@@ -2818,47 +2710,46 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 10"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"death effect": {
 		"cmds": ["trim"],
 		"embed": {
-            "title": "Death Effect",
-            "author": {
-                "name": "Cape Info",
-                "icon_url": "https://i.imgur.com/6c6q2iC.png"
-            },
-            "description": "[Death Effect](https://runescape.wikia.com/wiki/Death_Effect) is an achievement that requires the player to unlock all of the [Permanent effects](https://runescape.wikia.com/wiki/Death%27s_Store#Unlocks) from [Death's Store](https://runescape.wikia.com/wiki/Death%27s_Store). This achievement requires a total of 1,650 - 2,050 [reaper points](https://runescape.wikia.com/wiki/Reaper_points) and 0 - 4,000 [slayer points](https://runescape.wikia.com/wiki/Slayer_points).\n\nReaper points are points rewarded to the player after completing a [Soul Reaper](https://runescape.wikia.com/wiki/Soul_Reaper) task. The amount of points rewarded depends on the difficulty of the boss and if it was completed in hard mode (if available). The amount of points is increased by 25% if you have group bosses turned on, and a further 25% if you have extended tasks on. Both of these may be toggled through [Death](https://runescape.wikia.com/wiki/Death)'s interface. To receive the hard mode points reward, the player's Soul Reaper task must be all hard mode kills.\n\nUpon the completion of a specific number of tasks, additional Reaper points are awarded (non cumulative):\n• 10 extra points for every 10th task\n• 50 extra points for every 50th task\n\nPlayers may tag the <@&484082439963279361> role of this discord to try to find a partner for their tasks.\n\nPlayers also have a chance to receive a [Gift for the Reaper](https://runescape.wikia.com/wiki/Gift_for_the_Reaper) from the [Motherlode Maw](https://runescape.wikia.com/wiki/Motherlode_Maw) and the [Travelling Merchant's Shop](https://runescape.wikia.com/wiki/Travelling_Merchant%27s_Shop). You may sign up for the <@&443761366201925653> notification role to be notified when the [Travelling Merchant](https://runescape.wikia.com/wiki/Travelling_merchant) has one in stock.\n\nThis achievement requires the player to purchase the following items:",
-            "thumbnail": {
-                "url": "https://i.imgur.com/Shmagnp.png"
-            },
-            "fields": [
-                {
-                    "name": "Effect",
-                    "value": "[Book of death](https://runescape.wikia.com/wiki/Book_of_Death)\nReaper's choice\n[Rainbow loot beam](https://runescape.wikia.com/wiki/Rainbow_loot_beam)\n[Grave loot beam](https://runescape.wikia.com/wiki/Grave_loot_beam)\nBonfire booster\nInstance cost\nAdditional tasks\nReaper scroll\nDeaths support",
-                    "inline": true
-                },
-                {
-                    "name": "Reaper point cost",
-                    "value": "500\n250\n75\n75\n250\n250\n150\n250\n250",
-                    "inline": true
-                },
-                {
-                    "name": "Requirements:",
-                    "value": "• A total of 1,650 - 2,050 Reaper points\n• A total of 0-400 Slayer points\n• 50 Combat **or** 68 Fishing"
-                },
-                {
+			"title": "Death Effect",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Death Effect](https://runescape.wikia.com/wiki/Death_Effect) is an achievement that requires the player to unlock all of the [Permanent effects](https://runescape.wikia.com/wiki/Death%27s_Store#Unlocks) from [Death's Store](https://runescape.wikia.com/wiki/Death%27s_Store). This achievement requires a total of 1,650 - 2,050 [reaper points](https://runescape.wikia.com/wiki/Reaper_points) and 0 - 4,000 [slayer points](https://runescape.wikia.com/wiki/Slayer_points).\n\nReaper points are points rewarded to the player after completing a [Soul Reaper](https://runescape.wikia.com/wiki/Soul_Reaper) task. The amount of points rewarded depends on the difficulty of the boss and if it was completed in hard mode (if available). The amount of points is increased by 25% if you have group bosses turned on, and a further 25% if you have extended tasks on. Both of these may be toggled through [Death](https://runescape.wikia.com/wiki/Death)'s interface. To receive the hard mode points reward, the player's Soul Reaper task must be all hard mode kills.\n\nUpon the completion of a specific number of tasks, additional Reaper points are awarded (non cumulative):\n• 10 extra points for every 10th task\n• 50 extra points for every 50th task\n\nPlayers may tag the <@&484082439963279361> role of this discord to try to find a partner for their tasks.\n\nPlayers also have a chance to receive a [Gift for the Reaper](https://runescape.wikia.com/wiki/Gift_for_the_Reaper) from the [Motherlode Maw](https://runescape.wikia.com/wiki/Motherlode_Maw) and the [Travelling Merchant's Shop](https://runescape.wikia.com/wiki/Travelling_Merchant%27s_Shop). You may sign up for the <@&443761366201925653> notification role to be notified when the [Travelling Merchant](https://runescape.wikia.com/wiki/Travelling_merchant) has one in stock.\n\nThis achievement requires the player to purchase the following items:",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [{
+					"name": "Effect",
+					"value": "[Book of death](https://runescape.wikia.com/wiki/Book_of_Death)\nReaper's choice\n[Rainbow loot beam](https://runescape.wikia.com/wiki/Rainbow_loot_beam)\n[Grave loot beam](https://runescape.wikia.com/wiki/Grave_loot_beam)\nBonfire booster\nInstance cost\nAdditional tasks\nReaper scroll\nDeaths support",
+					"inline": true
+				},
+				{
+					"name": "Reaper point cost",
+					"value": "500\n250\n75\n75\n250\n250\n150\n250\n250",
+					"inline": true
+				},
+				{
+					"name": "Requirements:",
+					"value": "• A total of 1,650 - 2,050 Reaper points\n• A total of 0-400 Slayer points\n• 50 Combat **or** 68 Fishing"
+				},
+				{
 					"name": "Guide:",
 					"value": "• [RS Pocketbook | Ancient Dawn](https://drive.google.com/file/d/0B1BQkGxSlc2tQmt5Yl9LeUV4d1E/view)\n\n• <#476790691436167168>"
-                }
-            ],
-            "footer": {
-                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-                "text": "Runescore awarded: 75"
-            },
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 75"
+			},
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"death to the mahjarrat": {
 		"cmds": ["mqc"],
@@ -2872,18 +2763,16 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
-					"name": "Requirements:",
-					"value": "• Children of Mah Quest partial completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Children_of_Mah)"
-				}
-			],
+			"fields": [{
+				"name": "Requirements:",
+				"value": "• Children of Mah Quest partial completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Children_of_Mah)"
+			}],
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 20"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"deep and bloody experience": {
 		"cmds": ["mqc"],
@@ -2897,66 +2786,63 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
+			"fields": [{
+				"name": "Requirements:",
+				"value": "• Blood Runs Deep Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Blood_Runs_Deep)"
+			}],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 15"
+			},
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
+	},
+	"desert-ed ghosts": {
+		"cmds": ["comp"],
+		"embed": {
+			"title": "Desert-ed Ghosts",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Desert-ed Ghosts](http://runescape.wikia.com/wiki/Desert-ed_Ghosts) is an achievement that requires the player to finish the [Curse of Zaros](http://runescape.wikia.com/wiki/The_Curse_of_Zaros) miniquest.\n\nThe Curse of Zaros is a miniquest following the events of [Desert Treasure](https://runescape.wikia.com/wiki/Desert_Treasure), allowing the player to obtain a set of [Ghostly robes](https://runescape.wikia.com/wiki/Ghostly_robes). Ghostly robes is a set of magic armour that makes the wearer translucent.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [{
+					"name": "Start Point:",
+					"value": "• Speak to to the Mysterious ghost ([Valdez](https://runescape.wikia.com/wiki/Mysterious_ghost_(Valdez)) near [Glarial's tombstone](https://runescape.wikia.com/wiki/Glarial%27s_tombstone), which serves as the entrance to [Glarial's Tomb](https://runescape.wikia.com/wiki/Glarial%27s_Tomb)"
+				},
+				{
+					"name": "Official Difficulty:",
+					"value": "• None"
+				},
+				{
+					"name": "Official Length:",
+					"value": "• Medium-Long"
+				},
+				{
+					"name": "Items Required:",
+					"value": "• [Ring of visibility](https://runescape.wikia.com/wiki/Ring_of_visibility)\n• [Ghostspeak amulet](https://runescape.wikia.com/wiki/Ghostspeak_amulet) or [Cramulet](https://runescape.wikia.com/wiki/Cramulet) (Note: After you have completed the [Hard Morytania tasks](https://runescape.wikia.com/wiki/Morytania_achievements#Hard_achievements), you can speak with the ghosts without the amulets.)"
+				},
+				{
+					"name": "Enemies to Defeat:",
+					"value": "• None"
+				},
 				{
 					"name": "Requirements:",
-					"value": "• Blood Runs Deep Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Blood_Runs_Deep)"
+					"value": "• 31 Prayer (If [Dhalak](https://runescape.wikia.com/wiki/Mysterious_ghost_(Dhalak) is at the [Edgeville Monastery](https://runescape.wikia.com/wiki/Monastery_of_Saradomin))\n• 15 Agility (If [Viggora](https://runescape.wikia.com/wiki/Viggora) is in [Edgeville Dungeon](https://runescape.wikia.com/wiki/Edgeville_Dungeon))\n\n• Desert Treasure Quest partial completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Desert_Treasure)\n• The Restless Ghost Quest partial completion | [Runescape Wiki](https://runescape.wikia.com/wiki/The_Restless_Ghost)"
+				},
+				{
+					"name": "Guide:",
+					"value": "[The Curse of Zaros Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/The_Curse_of_Zaros)"
 				}
 			],
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 15"
-			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
-	},
-	"desert-ed ghosts": {
-		"cmds": ["comp"],
-		"embed": {
-                        "title": "Desert-ed Ghosts",
-                        "author": {
-                                "name": "Cape Info",
-                                "icon_url": "https://i.imgur.com/6c6q2iC.png"
-                        },
-                        "description": "[Desert-ed Ghosts](http://runescape.wikia.com/wiki/Desert-ed_Ghosts) is an achievement that requires the player to finish the [Curse of Zaros](http://runescape.wikia.com/wiki/The_Curse_of_Zaros) miniquest.\n\nThe Curse of Zaros is a miniquest following the events of [Desert Treasure](https://runescape.wikia.com/wiki/Desert_Treasure), allowing the player to obtain a set of [Ghostly robes](https://runescape.wikia.com/wiki/Ghostly_robes). Ghostly robes is a set of magic armour that makes the wearer translucent.",
-                        "thumbnail": {
-                                "url": "https://i.imgur.com/Shmagnp.png"
-                        },
-                        "fields": [
-                                                        {
-                    "name": "Start Point:",
-                    "value": "• Speak to to the Mysterious ghost ([Valdez](https://runescape.wikia.com/wiki/Mysterious_ghost_(Valdez)) near [Glarial's tombstone](https://runescape.wikia.com/wiki/Glarial%27s_tombstone), which serves as the entrance to [Glarial's Tomb](https://runescape.wikia.com/wiki/Glarial%27s_Tomb)"
-                              },
-                        {
-                    "name": "Official Difficulty:",
-                    "value": "• None"
-                        },
-                        {
-                    "name": "Official Length:",
-                    "value": "• Medium-Long"
-                               },
-                        {
-                    "name": "Items Required:",
-                    "value": "• [Ring of visibility](https://runescape.wikia.com/wiki/Ring_of_visibility)\n• [Ghostspeak amulet](https://runescape.wikia.com/wiki/Ghostspeak_amulet) or [Cramulet](https://runescape.wikia.com/wiki/Cramulet) (Note: After you have completed the [Hard Morytania tasks](https://runescape.wikia.com/wiki/Morytania_achievements#Hard_achievements), you can speak with the ghosts without the amulets.)"
-                        },
-                        {
-                    "name": "Enemies to Defeat:",
-                    "value": "• None"
-                        },
-            {
-                                        "name": "Requirements:",
-                                        "value": "• 31 Prayer (If [Dhalak](https://runescape.wikia.com/wiki/Mysterious_ghost_(Dhalak) is at the [Edgeville Monastery](https://runescape.wikia.com/wiki/Monastery_of_Saradomin))\n• 15 Agility (If [Viggora](https://runescape.wikia.com/wiki/Viggora) is in [Edgeville Dungeon](https://runescape.wikia.com/wiki/Edgeville_Dungeon))\n\n• Desert Treasure Quest partial completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Desert_Treasure)\n• The Restless Ghost Quest partial completion | [Runescape Wiki](https://runescape.wikia.com/wiki/The_Restless_Ghost)"
-                                },
-                                {
-                                        "name": "Guide:",
-                                        "value": "[The Curse of Zaros Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/The_Curse_of_Zaros)"
-                                }
-                        ],
-                        "footer": {
-                                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-                                "text": "Runescore awarded: 15"
-                        }
-                }
+			}
+		}
 	},
 	"diaries of the clans": {
 		"cmds": ["comp", "mqc"],
@@ -2970,8 +2856,7 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
+			"fields": [{
 					"name": "Clan",
 					"value": "Cadarn\nCrwys\nIorwerth\nTrahaearn\nAmlodd\nHefin\nIthell\nMeilyr",
 					"inline": true
@@ -2990,8 +2875,8 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 10"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"diary of oreb": {
 		"cmds": ["mqc"],
@@ -3005,18 +2890,16 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
-					"name": "Requirements:",
-					"value": "• 88 Slayer\n\n• Jack of Spades Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Jack_of_Spades)"
-				}
-			],
+			"fields": [{
+				"name": "Requirements:",
+				"value": "• 88 Slayer\n\n• Jack of Spades Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Jack_of_Spades)"
+			}],
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 25"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"diary of the gods": {
 		"cmds": ["mqc"],
@@ -3030,8 +2913,7 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
+			"fields": [{
 					"name": "Requirements:",
 					"value": "• 70 Constitution \n• 70 Strength \n• 70 Agility \n• 70 Ranged\n\n• Troll Stronghold Quest partial completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Troll_Stronghold)"
 				},
@@ -3044,8 +2926,8 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 25"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"dishonourable gains": {
 		"cmds": ["mqc"],
@@ -3059,18 +2941,16 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
-					"name": "Requirements:",
-					"value": "• At least level 90 in every non-elite skill\n\n• Dishonour among Thieves Quest partial completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Dishonour_among_Thieves)"
-				}
-			],
+			"fields": [{
+				"name": "Requirements:",
+				"value": "• At least level 90 in every non-elite skill\n\n• Dishonour among Thieves Quest partial completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Dishonour_among_Thieves)"
+			}],
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 15"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"dishonourable loot": {
 		"cmds": ["mqc"],
@@ -3084,18 +2964,16 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
-					"name": "Requirements:",
-					"value": "• At least level 90 in every non-elite skill\n\n• Dishonour among Thieves Quest partial completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Dishonour_among_Thieves)"
-				}
-			],
+			"fields": [{
+				"name": "Requirements:",
+				"value": "• At least level 90 in every non-elite skill\n\n• Dishonour among Thieves Quest partial completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Dishonour_among_Thieves)"
+			}],
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 15"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"distorted div": {
 		"cmds": ["mqc"],
@@ -3109,8 +2987,7 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
+			"fields": [{
 					"name": "Requirements:",
 					"value": "• Distorted engrammeter\n\n• Mahjarrat Memories Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Mahjarrat_Memories)"
 				},
@@ -3123,8 +3000,8 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 10"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"do a minion, take notes": {
 		"cmds": ["mqc"],
@@ -3138,18 +3015,16 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
-					"name": "Requirements:",
-					"value": "• Completion of at least 20 of the listed quests | [Runescape Wiki](http://runescape.wikia.com/wiki/Dominion_Tower#Requirements)"
-				}
-			],
+			"fields": [{
+				"name": "Requirements:",
+				"value": "• Completion of at least 20 of the listed quests | [Runescape Wiki](http://runescape.wikia.com/wiki/Dominion_Tower#Requirements)"
+			}],
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 25"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"do no elite": {
 		"cmds": ["mqc"],
@@ -3163,8 +3038,7 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
+			"fields": [{
 					"name": "Possible Locations:",
 					"value": "\n[Isafdar](https://runescape.wikia.com/wiki/Isafdar):\nStart in [Lletya](http://runescape.wikia.com/wiki/Lletya). Run west out of Lletya, cross the [tripwire](https://runescape.wikia.com/wiki/Tripwire), and go through the [dense forest](https://runescape.wikia.com/wiki/Dense_forest) to the northwest. Next, go northeast and hop over the [leaves](https://runescape.wikia.com/wiki/Leaf_trap). In the next clearing, your alerter should start bwuking. Alternatively, using the [Tirannwn](https://runescape.wikia.com/wiki/Tirannwn) [lodestone](https://runescape.wikia.com/wiki/Lodestone_Network) and going north-east is another fast route to this location.\n\nThe coordinates for this location are \"1 degrees, 31 minutes north, 5 degrees, 5 minutes west\"."
 				},
@@ -3193,8 +3067,8 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 10"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"don't fear the ripper": {
 		"cmds": ["mqc"],
@@ -3208,8 +3082,7 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
+			"fields": [{
 					"name": "​",
 					"value": "Once the Ripper Demon's [adrenaline](https://runescape.wikia.com/wiki/Adrenaline) bar is filled, it may jump into the ceiling and the player will lose track of the demon.  A shadow will then appear **west** of the player's position (or directly under them if there is no space for the demon). If the player is directly under or next to the shadow, they will take a hit of 32,000 damage, which instantly kills the player.\n\nAt all times, players should keep their health at 50% or higher. If their current health falls below 35% of their maximum amount, nearby demons will turn aggressive on the player and will most likely hit them with Slaughter. It is highly advised to teleport out if multiple demons attack you at once.\n\nWhen the demon reaches 0 life points, it will perform a last-ditch struggle attack. The demon will spin uncontrollably on the spot, dealing 950 damage per tick to nearby players before dying. This damage can be reduced/blocked, though it is best to stay away until the demon drops onto the floor."
 				},
@@ -3230,8 +3103,8 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 25"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"dragonkin logs": {
 		"cmds": ["mqc"],
@@ -3245,8 +3118,7 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
+			"fields": [{
 					"name": "Strategy:",
 					"value": "Adamant dragons can use all three attack styles, as well as dragonfire. [Super antifires](https://runescape.wikia.com/wiki/Super_antifire) are highly recommended, with some form of dragonfire protection being needed. While in melee range it will not use its Ranged attack and while outside of melee range it will be unable to use melee. They will use Magic attacks in melee range. For this reason, it is suggested that:\n\n• If wearing Magic type armour, they should stay inside melee attack range (due to Magic armour being weak to Ranged type attacks)\n\n• If wearing Ranged type armour with [dragonbane ammunition](https://runescape.wikia.com/wiki/Bane_ammunition), they should stay outside melee attack range."
 				},
@@ -3259,8 +3131,8 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 20"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"dusting murial": {
 		"cmds": ["mqc"],
@@ -3274,8 +3146,7 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
+			"fields": [{
 					"name": "​",
 					"value": "With the use of an [Antifire potion](http://runescape.wikia.com/wiki/Antifire), no damage will be taken. This can be safely done at a [Steel dragon (POH)](http://runescape.wikia.com/wiki/Steel_dragon_(POH) in a [Player-owned house](http://runescape.wikia.com/wiki/Player-owned_house)'s [Treasure Room](http://runescape.wikia.com/wiki/Treasure_Room) or a [Pit Iron dragon](http://runescape.wikia.com/wiki/Pit_iron_dragon) in a player-owned house's [Dungeon Pit](http://runescape.wikia.com/wiki/Dungeon_Pit).\n\nThe Dragonkin Primer is a translator for Dragonkin language found in the library beneath [Unferth](http://runescape.wikia.com/wiki/Unferth)'s house by searching the eastern bookcase next to the locked chest. Unferth is the hypochondriac human pet of [Bob the Cat](http://runescape.wikia.com/wiki/Bob_the_Cat) who resides in north west [Burthope](http://runescape.wikia.com/wiki/Burthorpe)."
 				},
@@ -3288,8 +3159,8 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 25"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"eastern adventurer": {
 		"cmds": ["mqc", "trim"],
@@ -3303,8 +3174,7 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
+			"fields": [{
 					"name": "The recommended steps to fulfill this achievement are:",
 					"value": "1. Send out as many [adventurers](https://runescape.wikia.com/wiki/Player-owned_port/Special_voyages) as possible that you do NOT need on voyages. Do NOT check their voyages, leave them there until you get your required trio voyage. This works even better if you send out duo adventurers you do NOT need on voyages."
 				},
@@ -3341,45 +3211,44 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 0"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"eastern explorer": {
 		"cmds": ["trim"],
 		"embed": {
-            "title": "Eastern Explorer",
-            "author": {
-                "name": "Cape Info",
-                "icon_url": "https://i.imgur.com/6c6q2iC.png"
-            },
-            "description": "[Eastern Explorer](https://runescape.wikia.com/wiki/Eastern_Explorer) is an achievement that requires the player to explore within your [Player-owned port](https://runescape.wikia.com/wiki/Player-owned_port) until you reach the [Shield region](https://runescape.wikia.com/wiki/The_Shield). Always send voyages based in the highest region you are in, all other regions' former distance gains are cut in half.\n\nPlayers can start the Player-owned port [minigame](https://runescape.wikia.com/wiki/Minigames) by entering one of three portals located either south-west of the [Rusty Anchor](https://runescape.wikia.com/wiki/The_Rusty_Anchor) pub in [Port Sarim](https://runescape.wikia.com/wiki/Port_Sarim), north-east of the [Lodestone](https://runescape.wikia.com/wiki/Lodestone_Network) in [Prifddinas](https://runescape.wikia.com/wiki/Prifddinas), or in the southern part of the [Port district](https://runescape.wikia.com/wiki/Port_district) in [Menaphos](https://runescape.wikia.com/wiki/Menaphos).\n\nPlayers can manage almost all of their port from anywhere with the [Captain's log](https://runescape.wikia.com/wiki/Captain%27s_Log). The captain's log is a book that contains personalised information about the player-owned port minigame. It is obtained after completing the player-owned port [tutorial](https://runescape.wikia.com/wiki/Player-owned_port#Tutorial). When lost, this item can be reclaimed from [The Navigator](https://runescape.wikia.com/wiki/The_Navigator) by talking to him or right-clicking \"Reclaim log.\" There are four primary functions of this item: sending out [standard voyages](https://runescape.wikia.com/wiki/Player-owned_port#Standard_voyages), reading player statistics, viewing the map, and teleporting the player to the port.",
-            "thumbnail": {
-                "url": "https://i.imgur.com/Shmagnp.png"
-            },
-            "fields": [
-                {
-                    "name": "Tips:",
-                    "value": "For the 1st 6 regions ([Arc Region](https://runescape.wikia.com/wiki/The_Arc) through [Pincers Region](https://runescape.wikia.com/wiki/The_Pincers)), only the 2 highest resource voyages will give the maximum distance for your time spent sailing.\n\nIn [Scythe](https://runescape.wikia.com/wiki/The_Scythe), send for 300/500 Cherrywood voyages.\n\nIn [Bowl](https://runescape.wikia.com/wiki/The_Bowl), send for 360/600 Jade voyages.\n\nIn [Pincers](https://runescape.wikia.com/wiki/The_Pincers), send for 450/700 Stainless Steel voyages.\n\nFor the final 2 regions ([Loop](https://runescape.wikia.com/wiki/The_Loop) and [Shield](https://runescape.wikia.com/wiki/The_Shield) Regions), the 3 highest resource voyages will give the maximum distance.\n\t• Loop: 125/175/275 Terracotta (along with 400 [Barmaid](https://runescape.wikia.com/wiki/The_Barmaid#Gossip)).\n\t• Shield: 240/360/560 Azure (along with 720 [Barmaid](https://runescape.wikia.com/wiki/The_Barmaid#Gossip))."
-                },
-                {
-                    "name": "​",
-                    "value": "Always have all 4 ships sailing and not idle in your port. Make sure to raise your [speed](https://runescape.wikia.com/wiki/Player-owned_port#Time_required) to the max on every voyage. You know you have maxed out your speed when further increases in speed do not lower your voyage time. [Scroll and trade good](https://runescape.wikia.com/wiki/Player-owned_port/Special_voyages) voyages have higher speed caps. **Even if you fail a voyage, you still get full (100%) distance gain!**"
-                },
-                {
-                    "name": "Requirements:",
-                    "value": "• [Player Owned Ports Tutorial completion | Runescape Wiki](https://runescape.wikia.com/wiki/Player-owned_port#Tutorial) \n\n• **Level 90 in at least one of the following skills:**\n• Agility\n• Construction\n• Cooking\n• Divination\n• Dungeoneering\n• Fishing\n• Herblore\n• Hunter\n• Prayer\n• Runecrafting\n• Slayer\n• Thieving"
-                },
-                {
+			"title": "Eastern Explorer",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Eastern Explorer](https://runescape.wikia.com/wiki/Eastern_Explorer) is an achievement that requires the player to explore within your [Player-owned port](https://runescape.wikia.com/wiki/Player-owned_port) until you reach the [Shield region](https://runescape.wikia.com/wiki/The_Shield). Always send voyages based in the highest region you are in, all other regions' former distance gains are cut in half.\n\nPlayers can start the Player-owned port [minigame](https://runescape.wikia.com/wiki/Minigames) by entering one of three portals located either south-west of the [Rusty Anchor](https://runescape.wikia.com/wiki/The_Rusty_Anchor) pub in [Port Sarim](https://runescape.wikia.com/wiki/Port_Sarim), north-east of the [Lodestone](https://runescape.wikia.com/wiki/Lodestone_Network) in [Prifddinas](https://runescape.wikia.com/wiki/Prifddinas), or in the southern part of the [Port district](https://runescape.wikia.com/wiki/Port_district) in [Menaphos](https://runescape.wikia.com/wiki/Menaphos).\n\nPlayers can manage almost all of their port from anywhere with the [Captain's log](https://runescape.wikia.com/wiki/Captain%27s_Log). The captain's log is a book that contains personalised information about the player-owned port minigame. It is obtained after completing the player-owned port [tutorial](https://runescape.wikia.com/wiki/Player-owned_port#Tutorial). When lost, this item can be reclaimed from [The Navigator](https://runescape.wikia.com/wiki/The_Navigator) by talking to him or right-clicking \"Reclaim log.\" There are four primary functions of this item: sending out [standard voyages](https://runescape.wikia.com/wiki/Player-owned_port#Standard_voyages), reading player statistics, viewing the map, and teleporting the player to the port.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [{
+					"name": "Tips:",
+					"value": "For the 1st 6 regions ([Arc Region](https://runescape.wikia.com/wiki/The_Arc) through [Pincers Region](https://runescape.wikia.com/wiki/The_Pincers)), only the 2 highest resource voyages will give the maximum distance for your time spent sailing.\n\nIn [Scythe](https://runescape.wikia.com/wiki/The_Scythe), send for 300/500 Cherrywood voyages.\n\nIn [Bowl](https://runescape.wikia.com/wiki/The_Bowl), send for 360/600 Jade voyages.\n\nIn [Pincers](https://runescape.wikia.com/wiki/The_Pincers), send for 450/700 Stainless Steel voyages.\n\nFor the final 2 regions ([Loop](https://runescape.wikia.com/wiki/The_Loop) and [Shield](https://runescape.wikia.com/wiki/The_Shield) Regions), the 3 highest resource voyages will give the maximum distance.\n\t• Loop: 125/175/275 Terracotta (along with 400 [Barmaid](https://runescape.wikia.com/wiki/The_Barmaid#Gossip)).\n\t• Shield: 240/360/560 Azure (along with 720 [Barmaid](https://runescape.wikia.com/wiki/The_Barmaid#Gossip))."
+				},
+				{
+					"name": "​",
+					"value": "Always have all 4 ships sailing and not idle in your port. Make sure to raise your [speed](https://runescape.wikia.com/wiki/Player-owned_port#Time_required) to the max on every voyage. You know you have maxed out your speed when further increases in speed do not lower your voyage time. [Scroll and trade good](https://runescape.wikia.com/wiki/Player-owned_port/Special_voyages) voyages have higher speed caps. **Even if you fail a voyage, you still get full (100%) distance gain!**"
+				},
+				{
+					"name": "Requirements:",
+					"value": "• [Player Owned Ports Tutorial completion | Runescape Wiki](https://runescape.wikia.com/wiki/Player-owned_port#Tutorial) \n\n• **Level 90 in at least one of the following skills:**\n• Agility\n• Construction\n• Cooking\n• Divination\n• Dungeoneering\n• Fishing\n• Herblore\n• Hunter\n• Prayer\n• Runecrafting\n• Slayer\n• Thieving"
+				},
+				{
 					"name": "Guide:",
 					"value": "• [Kags' POP Enclycopedia | Runescape Forums](http://services.runescape.com/m=forum/forums.ws?75,76,519,65829739)"
-                }
-            ],
-            "footer": {
-                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-                "text": "Runescore awarded: 40"
-            },
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 40"
+			},
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"eeeeagle!": {
 		"cmds": ["mqc", "trim"],
@@ -3393,8 +3262,7 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
+			"fields": [{
 					"name": "Eagle:",
 					"value": "[Giant Eagle](http://runescape.wikia.com/wiki/Giant_eagle)\n[Polar Eagle](http://runescape.wikia.com/wiki/Polar_eagle)\n[Jungle Eagle](http://runescape.wikia.com/wiki/Jungle_eagle)\n[Desert Eagle](http://runescape.wikia.com/wiki/Desert_eagle)\n[Karamjan Jungle Eagle](http://runescape.wikia.com/wiki/Karamjan_Jungle_Eagle)",
 					"inline": true
@@ -3441,8 +3309,8 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 15"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"elven titles": {
 		"cmds": ["comp"],
@@ -3456,18 +3324,16 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
-					"name": "Requirements:",
-					"value": "• 89 Mining\n• 90 Slayer\n• 90 Farming\n• 77 Agility\n• 89 Crafting\n• 88 Summoning\n\n• Plague's End Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Plague%27s_End)\n• As a First Resort Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/As_a_First_Resort)"
-				}
-			],
+			"fields": [{
+				"name": "Requirements:",
+				"value": "• 89 Mining\n• 90 Slayer\n• 90 Farming\n• 77 Agility\n• 89 Crafting\n• 88 Summoning\n\n• Plague's End Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Plague%27s_End)\n• As a First Resort Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/As_a_First_Resort)"
+			}],
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 25"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"enough of the crazy walking": {
 		"cmds": ["mqc"],
@@ -3481,26 +3347,25 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
+			"fields": [{
 					"name": "Requirements:",
 					"value": "• None"
 				},
 				{
-                    "name": "Guides:",
-                    "value": "• [Barbarian Assault Guide 2017 • Hard Mode Waves 1-9 • Defender | puretppc - YouTube](https://www.youtube.com/watch?v=03kTmys4DWI)\n• [Barbarian Assault Guide 2017 • Hard Mode Waves 1-9 • Collector | puretppc - YouTube](https://www.youtube.com/watch?v=1t_Q_bvd9Hc)\n• [Barbarian Assault Guide 2017 • Hard Mode Waves 1-9 • Healer | puretppc - YouTube](https://www.youtube.com/watch?v=8m2nmcGJE_8)\n• [Barbarian Assault Guide 2017 • Hard Mode Waves 1-9 • Attackers | puretppc - YouTube](https://www.youtube.com/watch?v=VJbNQqMxQSk)"
-                },
-                {
-                    "name": "Resources:",
-                    "value": "• [BA Teams Discord](https://discord.gg/XUuhc9y)\n• [Leech BA](https://discord.gg/XUuhc9y)"
-                }
+					"name": "Guides:",
+					"value": "• [Barbarian Assault Guide 2017 • Hard Mode Waves 1-9 • Defender | puretppc - YouTube](https://www.youtube.com/watch?v=03kTmys4DWI)\n• [Barbarian Assault Guide 2017 • Hard Mode Waves 1-9 • Collector | puretppc - YouTube](https://www.youtube.com/watch?v=1t_Q_bvd9Hc)\n• [Barbarian Assault Guide 2017 • Hard Mode Waves 1-9 • Healer | puretppc - YouTube](https://www.youtube.com/watch?v=8m2nmcGJE_8)\n• [Barbarian Assault Guide 2017 • Hard Mode Waves 1-9 • Attackers | puretppc - YouTube](https://www.youtube.com/watch?v=VJbNQqMxQSk)"
+				},
+				{
+					"name": "Resources:",
+					"value": "• [BA Teams Discord](https://discord.gg/XUuhc9y)\n• [Leech BA](https://discord.gg/XUuhc9y)"
+				}
 			],
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 20"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"epi logueque experience": {
 		"cmds": ["mqc"],
@@ -3514,18 +3379,16 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
-					"name": "Requirements:",
-					"value": "• While Guthix Sleeps Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/While_Guthix_Sleeps)"
-				}
-			],
+			"fields": [{
+				"name": "Requirements:",
+				"value": "• While Guthix Sleeps Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/While_Guthix_Sleeps)"
+			}],
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 15"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"experience the fate of the gods": {
 		"cmds": ["mqc"],
@@ -3539,18 +3402,16 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
-					"name": "Requirements:",
-					"value": "• A level 80 Combat related skill (excluding Prayer/Summoning)\n\n• The Temple at Senntisten Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Temple_at_Senntisten)\n• The World Wakes Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_World_Wakes)\n• Ritual of the Mahjarrat Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Ritual_of_the_Mahjarrat)\n• Fate of the Gods Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Fate_of_the_Gods)"
-				}
-			],
+			"fields": [{
+				"name": "Requirements:",
+				"value": "• A level 80 Combat related skill (excluding Prayer/Summoning)\n\n• The Temple at Senntisten Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Temple_at_Senntisten)\n• The World Wakes Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_World_Wakes)\n• Ritual of the Mahjarrat Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Ritual_of_the_Mahjarrat)\n• Fate of the Gods Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Fate_of_the_Gods)"
+			}],
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 20"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"explore for nestor": {
 		"cmds": ["mqc"],
@@ -3564,18 +3425,16 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
-					"name": "Requirements:",
-					"value": "• The Giant Dwarf Quest partial completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Giant_Dwarf)"
-				}
-			],
+			"fields": [{
+				"name": "Requirements:",
+				"value": "• The Giant Dwarf Quest partial completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Giant_Dwarf)"
+			}],
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 10"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"family spirit tree": {
 		"cmds": ["comp", "mqc"],
@@ -3589,21 +3448,19 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
-					"name": "Obtaining a Spirit Seed:",
-					"value": "• Players can buy a [spirit seed](https://runescape.wikia.com/wiki/Spirit_seed) from [Mrs. Winkin](https://runescape.wikia.com/wiki/Mrs._Winkin) for 55,000 [Vinesweeper points](https://runescape.wikia.com/wiki/Vinesweeper).\n\n• Players who have completed [Royal Trouble](https://runescape.wikia.com/wiki/Royal_Trouble) may occasionally receive a spirit seed from [managing their kingdom](https://runescape.wikia.com/wiki/Managing_Miscellania) (workers allocated to farming).\n\n• Dropped by [ganodermic beasts](https://runescape.wikia.com/wiki/Ganodermic_beast)\n\n• They may be obtained from [Bird's nests](https://runescape.wikia.com/wiki/Bird%27s_nest), including nests from [Miscellania](https://runescape.wikia.com/wiki/Miscellania) and Etceteria (workers allocated to woodcutting maple or mahogany trees).\n\n• The [Motherlode Maw](https://runescape.wikia.com/wiki/Motherlode_Maw) has an uncommon chance of awarding a player this seed."
-				},{
-					"name": "Requirements:",
-					"value": "• 89 Farming\n\n• Plague's End Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Plague%27s_End)\n• The Prisoner of Glouphrie Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Prisoner_of_Glouphrie)"
-				}
-			],
+			"fields": [{
+				"name": "Obtaining a Spirit Seed:",
+				"value": "• Players can buy a [spirit seed](https://runescape.wikia.com/wiki/Spirit_seed) from [Mrs. Winkin](https://runescape.wikia.com/wiki/Mrs._Winkin) for 55,000 [Vinesweeper points](https://runescape.wikia.com/wiki/Vinesweeper).\n\n• Players who have completed [Royal Trouble](https://runescape.wikia.com/wiki/Royal_Trouble) may occasionally receive a spirit seed from [managing their kingdom](https://runescape.wikia.com/wiki/Managing_Miscellania) (workers allocated to farming).\n\n• Dropped by [ganodermic beasts](https://runescape.wikia.com/wiki/Ganodermic_beast)\n\n• They may be obtained from [Bird's nests](https://runescape.wikia.com/wiki/Bird%27s_nest), including nests from [Miscellania](https://runescape.wikia.com/wiki/Miscellania) and Etceteria (workers allocated to woodcutting maple or mahogany trees).\n\n• The [Motherlode Maw](https://runescape.wikia.com/wiki/Motherlode_Maw) has an uncommon chance of awarding a player this seed."
+			}, {
+				"name": "Requirements:",
+				"value": "• 89 Farming\n\n• Plague's End Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Plague%27s_End)\n• The Prisoner of Glouphrie Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Prisoner_of_Glouphrie)"
+			}],
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 10"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"famous": {
 		"cmds": ["comp"],
@@ -3617,8 +3474,7 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
+			"fields": [{
 					"name": "Recommended Order:",
 					"value": "• Araxxi\n• Giant Mole (hard mode)\n• Dagannoth Prime\n• Dagannoth Rex\n• Dagannoth Supreme\n• Queen Black Dragon\n• Commander Zilyana\n• Kree'arra\n• K'ril Tsutsaroth\n• General Graardor\n• Kalphite Queen\n• King Black Dragon\n\nYou may view the <#476790691436167168> channel to view how to complete these bosses.\n\nOnce the last boss is killed, the crystals will be sent straight to Morvran and the player will be rewarded with 50,000 Slayer experience and 45 Slayer reward points (along with usual points from the player's current completed tasks)."
 				},
@@ -3635,62 +3491,59 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 50"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"ferocious upgrade": {
 		"cmds": ["trim"],
 		"embed": {
-            "title": "Ferocious Upgrade",
-            "author": {
-                "name": "Cape Info",
-                "icon_url": "https://i.imgur.com/6c6q2iC.png"
-            },
-            "description": "[Ferocious Upgrade](https://runescape.wikia.com/wiki/Ferocious_Upgrade) is an achievement that requires the player to unlock the [Ferocious ring](https://runescape.wikia.com/wiki/Ferocious_ring) upgrade to the [Slayer helmet](https://runescape.wikia.com/wiki/Full_slayer_helmet) from [Morvran](https://runescape.wikia.com/wiki/Morvran#Slayer_points). He can be found in the [Iorwerth Clan](https://runescape.wikia.com/wiki/Iorwerth_Clan) district of [Prifddinas](https://runescape.wikia.com/wiki/Prifddinas).\n\nThis will cost 100 [Slayer points](https://runescape.wikia.com/wiki/Slayer_reward_point). Slayer points are a currency obtained by completing [Slayer assignments](https://runescape.wikia.com/wiki/Slayer_assignment) or a [special challenge](https://runescape.wikia.com/wiki/Slayer/Challenges) from any [Slayer Master](https://runescape.wikia.com/wiki/Slayer_Master), bar [Turael](https://runescape.wikia.com/wiki/Turael) and [Spria](https://runescape.wikia.com/wiki/Spria), or by trading in completed [Tuska masks](https://runescape.wikia.com/wiki/Tuska_mask). The number rewarded depends on the Slayer Master, with the tougher masters awarding more points. Completion of [Smoking Kills](https://runescape.wikia.com/wiki/Smoking_Kills) will double the value of the points received from tasks.",
-            "thumbnail": {
-                "url": "https://i.imgur.com/Shmagnp.png"
-            },
-            "fields": [
-                {
-                    "name": "Requirements:",
-                    "value": "• 100 Slayer points\n\n• 90 Slayer"
-                }
-            ],
-            "footer": {
-                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-                "text": "Runescore awarded: 20"
-            },
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"title": "Ferocious Upgrade",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Ferocious Upgrade](https://runescape.wikia.com/wiki/Ferocious_Upgrade) is an achievement that requires the player to unlock the [Ferocious ring](https://runescape.wikia.com/wiki/Ferocious_ring) upgrade to the [Slayer helmet](https://runescape.wikia.com/wiki/Full_slayer_helmet) from [Morvran](https://runescape.wikia.com/wiki/Morvran#Slayer_points). He can be found in the [Iorwerth Clan](https://runescape.wikia.com/wiki/Iorwerth_Clan) district of [Prifddinas](https://runescape.wikia.com/wiki/Prifddinas).\n\nThis will cost 100 [Slayer points](https://runescape.wikia.com/wiki/Slayer_reward_point). Slayer points are a currency obtained by completing [Slayer assignments](https://runescape.wikia.com/wiki/Slayer_assignment) or a [special challenge](https://runescape.wikia.com/wiki/Slayer/Challenges) from any [Slayer Master](https://runescape.wikia.com/wiki/Slayer_Master), bar [Turael](https://runescape.wikia.com/wiki/Turael) and [Spria](https://runescape.wikia.com/wiki/Spria), or by trading in completed [Tuska masks](https://runescape.wikia.com/wiki/Tuska_mask). The number rewarded depends on the Slayer Master, with the tougher masters awarding more points. Completion of [Smoking Kills](https://runescape.wikia.com/wiki/Smoking_Kills) will double the value of the points received from tasks.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [{
+				"name": "Requirements:",
+				"value": "• 100 Slayer points\n\n• 90 Slayer"
+			}],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 20"
+			},
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"finish him": {
 		"cmds": ["trim"],
 		"embed": {
-            "title": "Finish Him!",
-            "author": {
-                "name": "Cape Info",
-                "icon_url": "https://i.imgur.com/6c6q2iC.png"
-            },
-            "description": "[Finish Him!](https://runescape.wikia.com/wiki/Finish_Him!) is an achievement that requires the player to obtain the [Maul of omens](https://runescape.wikia.com/wiki/Maul_of_omens) during the fight with [Vorago](https://runescape.wikia.com/wiki/Vorago) by collecting all 3 parts during phases 1, 2 and 4 respectively and using it to finish off Vorago.\n\nAll 3 pieces of the maul should be available at Phase 5 of the fight, and they should be combined to create the maul. If the maul is not created, the pieces \"come to life\" and anyone holding any piece of it take 100 typeless damage every 2 ticks until it is assembled. If the team manages to push Vorago all the way east, the player holding the Maul of Omens will be able to click on it to finish the fight if they stand in melee distance of Vorago.\n\nYou may tag the <@&415885607626211338> in this server for help with this requirment, their time permitting, or post your request in the <#436714722847621120> channel.",
-            "thumbnail": {
-                "url": "https://i.imgur.com/Shmagnp.png"
-            },
-            "fields": [
-                {
-                    "name": "Requirements:",
-                    "value": "• You must have listened to [Vorago's Challenging Chat](https://runescape.wikia.com/wiki/Challenging_Chat)"
-                },
-                {
+			"title": "Finish Him!",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Finish Him!](https://runescape.wikia.com/wiki/Finish_Him!) is an achievement that requires the player to obtain the [Maul of omens](https://runescape.wikia.com/wiki/Maul_of_omens) during the fight with [Vorago](https://runescape.wikia.com/wiki/Vorago) by collecting all 3 parts during phases 1, 2 and 4 respectively and using it to finish off Vorago.\n\nAll 3 pieces of the maul should be available at Phase 5 of the fight, and they should be combined to create the maul. If the maul is not created, the pieces \"come to life\" and anyone holding any piece of it take 100 typeless damage every 2 ticks until it is assembled. If the team manages to push Vorago all the way east, the player holding the Maul of Omens will be able to click on it to finish the fight if they stand in melee distance of Vorago.\n\nYou may tag the <@&415885607626211338> in this server for help with this requirment, their time permitting, or post your request in the <#436714722847621120> channel.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [{
+					"name": "Requirements:",
+					"value": "• You must have listened to [Vorago's Challenging Chat](https://runescape.wikia.com/wiki/Challenging_Chat)"
+				},
+				{
 					"name": "Guide:",
 					"value": "• [Vorago DPS Beginners Guide 2017 | Cursed Combatants | Wumpery RS](https://www.youtube.com/watch?v=VWsNhghbzpk)"
-                }
-            ],
-            "footer": {
-                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-                "text": "Runescore awarded: 50"
-            },
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 50"
+			},
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"fires are mostly harmless": {
 		"cmds": ["mqc"],
@@ -3704,18 +3557,16 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
-					"name": "Requirements:",
-					"value": "• 85 Herblore\n• 85 Firemaking\n\n• Fairy Tale III - Battle at Orks Rift Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Fairy_Tale_III_-_Battle_at_Ork's_Rift)"
-				}
-			],
+			"fields": [{
+				"name": "Requirements:",
+				"value": "• 85 Herblore\n• 85 Firemaking\n\n• Fairy Tale III - Battle at Orks Rift Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Fairy_Tale_III_-_Battle_at_Ork's_Rift)"
+			}],
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 15"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"for the love of mabel": {
 		"cmds": ["mqc"],
@@ -3729,18 +3580,16 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
-					"name": "Requirements:",
-					"value": "• Love Story Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Love_Story)"
-				}
-			],
+			"fields": [{
+				"name": "Requirements:",
+				"value": "• Love Story Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Love_Story)"
+			}],
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 15"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"forcae's mettle": {
 		"cmds": ["mqc"],
@@ -3754,8 +3603,7 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
+			"fields": [{
 					"name": "Strategy:",
 					"value": "Adamant dragons can use all three attack styles, as well as dragonfire. [Super antifires](https://runescape.wikia.com/wiki/Super_antifire) are highly recommended, with some form of dragonfire protection being needed. While in melee range it will not use its Ranged attack and while outside of melee range it will be unable to use melee. They will use Magic attacks in melee range. For this reason, it is suggested that:\n\n• If wearing Magic type armour, they should stay inside melee attack range (due to Magic armour being weak to Ranged type attacks)\n\n• If wearing Ranged type armour with [dragonbane ammunition](https://runescape.wikia.com/wiki/Bane_ammunition), they should stay outside melee attack range."
 				},
@@ -3768,8 +3616,8 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 15"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"fred's shearings": {
 		"cmds": ["mqc"],
@@ -3783,27 +3631,26 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
+			"fields": [{
+					"name": "Start Point:",
+					"value": "• Speak to Fred the Farmer, found in his house in [Lumbridge](https://runescape.wikia.com/wiki/Lumbridge), found north of the [Combat Academy](https://runescape.wikia.com/wiki/Combat_Academy)"
+				},
 				{
-                    "name": "Start Point:",
-                    "value": "• Speak to Fred the Farmer, found in his house in [Lumbridge](https://runescape.wikia.com/wiki/Lumbridge), found north of the [Combat Academy](https://runescape.wikia.com/wiki/Combat_Academy)"
-      			},
-        		{
-                    "name": "Official Difficulty:",
-                    "value": "• None"
-        		},
-        		{
-                    "name": "Official Length:",
-                    "value": "• Short"
-       			},
-        		{
-                    "name": "Items Required:",
-                    "value": "• 20 Balls of black wool (unnoted, can be obtained during the miniquest)"
-        		},
-        		{
-                    "name": "Enemies to Defeat:",
-                    "value": "• None, but watch out for [Rams](https://runescape.wikia.com/wiki/Ram)"
-        		},
+					"name": "Official Difficulty:",
+					"value": "• None"
+				},
+				{
+					"name": "Official Length:",
+					"value": "• Short"
+				},
+				{
+					"name": "Items Required:",
+					"value": "• 20 Balls of black wool (unnoted, can be obtained during the miniquest)"
+				},
+				{
+					"name": "Enemies to Defeat:",
+					"value": "• None, but watch out for [Rams](https://runescape.wikia.com/wiki/Ram)"
+				},
 				{
 					"name": "Requirements:",
 					"value": "None"
@@ -3817,8 +3664,8 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 5"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"gift from sliske": {
 		"cmds": ["mqc"],
@@ -3832,18 +3679,16 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
-					"name": "Requirements:",
-					"value": "• The General's Shadow Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_General%27s_Shadow)\n• The World Wakes Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_World_Wakes)\n• Ritual of the Mahjarrat Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Ritual_of_the_Mahjarrat)\n• Fate of the Gods Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Fate_of_the_Gods)"
-				}
-			],
+			"fields": [{
+				"name": "Requirements:",
+				"value": "• The General's Shadow Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_General%27s_Shadow)\n• The World Wakes Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_World_Wakes)\n• Ritual of the Mahjarrat Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Ritual_of_the_Mahjarrat)\n• Fate of the Gods Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Fate_of_the_Gods)"
+			}],
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 15"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"goebie relics": {
 		"cmds": ["mqc"],
@@ -3857,18 +3702,16 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
-					"name": "Requirements:",
-					"value": "None"
-				}
-			],
+			"fields": [{
+				"name": "Requirements:",
+				"value": "None"
+			}],
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 5"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"got a vyre reputation": {
 		"cmds": ["mqc"],
@@ -3882,18 +3725,16 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
-					"name": "Requirements:",
-					"value": "• The Branches of Darkmeyer Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Branches_of_Darkmeyer)"
-				}
-			],
+			"fields": [{
+				"name": "Requirements:",
+				"value": "• The Branches of Darkmeyer Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Branches_of_Darkmeyer)"
+			}],
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 10"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"grondabans' legacy": {
 		"cmds": ["mqc"],
@@ -3907,18 +3748,16 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
-					"name": "Requirements:",
-					"value": "• Dishonour among Thieves Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Dishonour_among_Thieves)"
-				}
-			],
+			"fields": [{
+				"name": "Requirements:",
+				"value": "• Dishonour among Thieves Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Dishonour_among_Thieves)"
+			}],
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 5"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"gunning for jewellery": {
 		"cmds": ["mqc"],
@@ -3932,18 +3771,16 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
-					"name": "Requirements:",
-					"value": "• 90 Crafting\n\n• Gunnar's Ground Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Gunnar%27s_Ground)"
-				}
-			],
+			"fields": [{
+				"name": "Requirements:",
+				"value": "• 90 Crafting\n\n• Gunnar's Ground Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Gunnar%27s_Ground)"
+			}],
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 10"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"guthix and the chamber of secrets": {
 		"cmds": ["mqc"],
@@ -3957,8 +3794,7 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
+			"fields": [{
 					"name": "Requirements:",
 					"value": "• 70 Divination"
 				},
@@ -3971,45 +3807,44 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 10"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"hard as daemons": {
 		"cmds": ["trim"],
 		"embed": {
-            "title": "Hard as Daemons",
-            "author": {
-                "name": "Cape Info",
-                "icon_url": "https://i.imgur.com/6c6q2iC.png"
-            },
-            "description": "[Hard as Daemons](https://runescape.wikia.com/wiki/Hard_as_Daemons) is an achievement that requires the player to claim the [of Daemonheim title]( https://runescape.wikia.com/wiki/Of_Daemonheim). This requires the player to complete every dungeoneering floor on [Hard mode]( https://runescape.wikia.com/wiki/Dungeoneering/Hard_mode). Hard Mode floors can be obtained as a reward after completing the [Elite set]( https://runescape.wikia.com/wiki/Daemonheim_achievements#Elite_Tasks) of [Daemonheim tasks]( https://runescape.wikia.com/wiki/Daemonheim_achievements). It is only available for [Complexity]( https://runescape.wikia.com/wiki/Complexity) 6 dungeons and makes the dungeon as difficult as it can randomly be.\n\nPlayers who have not completed the Elite tasks may take part in Hard mode floors with other players who have. Players who have completed the Elite tasks must form the party and lead the dungeon. They then invite the players without the tasks complete into the floors.\n\nTo start Hard mode, select a floor and set the difficulty to Complexity 6 via the [Ring of kinship]( https://runescape.wikia.com/wiki/Ring_of_kinship) or the ladder. Attempting to start a floor results in the Floor Settings interface, the top section of which is a radio button for Hard mode. Select `Yes` to `Activate Hard Mode?` Players are unable to select the floor size they wish. If the party is 1-2 people, the floor size is Medium; if 3-5, the floor size is Large. It is recommended to activate [Guide mode]( https://runescape.wikia.com/wiki/Dungeoneering#Guide_mode) during hard mode floors to speed up the requirement.\n\nPlayers may tag the <@&382960017499881474> role in this server to try to find a willing party.",
-            "thumbnail": {
-                "url": "https://i.imgur.com/Shmagnp.png"
-            },
-            "fields": [
-                {
-                    "name": "Additional Differences with Hard mode:",
-                    "value": "• All monsters and bosses spawn at their maximum levels. Due to the high combat level, certain boss monsters are difficult and may take a few minutes to kill, as opposed to a normal floor. This can be extremely tedious if doing a solo-floor. Bosses begin to have special abilities.\n\n• The chance of encountering slayer monsters is drastically increased. Multiple slayer monsters may be encountered in a single room.\n\n• All doors behave like guardian doors, regardless of what kind of door it is. The \"guardian eye\" above the door does not appear. This means, you cannot exit any room without teleporting out of it. If you attempt open or leave a room, you receive the following message: The door won't unlock until all the guardians in the room have been slain. You can teleport out of the faux-guardian doors and dead-ends, but you cannot teleport out of boss rooms."
-                },
-                {
-                    "name": "​",
-                    "value": "• It is not possible to teleport at all once inside a boss room. That is, even placing a [gatestone](https://runescape.wikia.com/wiki/Gatestone) at one place in the room and teleporting from another place in the room is prohibited. • All skill doors and challenge rooms require skills of level 90 or higher, even if doing so makes the dungeon impossible to complete. The \"90\" doors are crucial doors; this means that this door is on a critical path or leads to a critical path. Any doors higher than 90, specifically pot doors, do not need to be completed.\n\n• Doors that require boosted stats over 99 ([portents](https://runescape.wikia.com/wiki/Dungeoneering/Divination#Portents) or [potions](https://runescape.wikia.com/wiki/Dungeoneering/Herblore#Potions)) are more common.\n\n• Food is scarcer.\n\n• [Daemonheim aura](https://runescape.wikia.com/wiki/Daemonheim_aura) does not bring you back to life or let you choose the boss."
-                },
-                {
-                    "name": "Requirements:",
-                    "value": "• Elite Daemonheim tasks completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Daemonheim_achievements)\n\n• 119 Dungeoneering\n• 90+ in all skills or close enough to boost all skill doors is recommended"
-                },
-                {
+			"title": "Hard as Daemons",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Hard as Daemons](https://runescape.wikia.com/wiki/Hard_as_Daemons) is an achievement that requires the player to claim the [of Daemonheim title]( https://runescape.wikia.com/wiki/Of_Daemonheim). This requires the player to complete every dungeoneering floor on [Hard mode]( https://runescape.wikia.com/wiki/Dungeoneering/Hard_mode). Hard Mode floors can be obtained as a reward after completing the [Elite set]( https://runescape.wikia.com/wiki/Daemonheim_achievements#Elite_Tasks) of [Daemonheim tasks]( https://runescape.wikia.com/wiki/Daemonheim_achievements). It is only available for [Complexity]( https://runescape.wikia.com/wiki/Complexity) 6 dungeons and makes the dungeon as difficult as it can randomly be.\n\nPlayers who have not completed the Elite tasks may take part in Hard mode floors with other players who have. Players who have completed the Elite tasks must form the party and lead the dungeon. They then invite the players without the tasks complete into the floors.\n\nTo start Hard mode, select a floor and set the difficulty to Complexity 6 via the [Ring of kinship]( https://runescape.wikia.com/wiki/Ring_of_kinship) or the ladder. Attempting to start a floor results in the Floor Settings interface, the top section of which is a radio button for Hard mode. Select `Yes` to `Activate Hard Mode?` Players are unable to select the floor size they wish. If the party is 1-2 people, the floor size is Medium; if 3-5, the floor size is Large. It is recommended to activate [Guide mode]( https://runescape.wikia.com/wiki/Dungeoneering#Guide_mode) during hard mode floors to speed up the requirement.\n\nPlayers may tag the <@&382960017499881474> role in this server to try to find a willing party.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [{
+					"name": "Additional Differences with Hard mode:",
+					"value": "• All monsters and bosses spawn at their maximum levels. Due to the high combat level, certain boss monsters are difficult and may take a few minutes to kill, as opposed to a normal floor. This can be extremely tedious if doing a solo-floor. Bosses begin to have special abilities.\n\n• The chance of encountering slayer monsters is drastically increased. Multiple slayer monsters may be encountered in a single room.\n\n• All doors behave like guardian doors, regardless of what kind of door it is. The \"guardian eye\" above the door does not appear. This means, you cannot exit any room without teleporting out of it. If you attempt open or leave a room, you receive the following message: The door won't unlock until all the guardians in the room have been slain. You can teleport out of the faux-guardian doors and dead-ends, but you cannot teleport out of boss rooms."
+				},
+				{
+					"name": "​",
+					"value": "• It is not possible to teleport at all once inside a boss room. That is, even placing a [gatestone](https://runescape.wikia.com/wiki/Gatestone) at one place in the room and teleporting from another place in the room is prohibited. • All skill doors and challenge rooms require skills of level 90 or higher, even if doing so makes the dungeon impossible to complete. The \"90\" doors are crucial doors; this means that this door is on a critical path or leads to a critical path. Any doors higher than 90, specifically pot doors, do not need to be completed.\n\n• Doors that require boosted stats over 99 ([portents](https://runescape.wikia.com/wiki/Dungeoneering/Divination#Portents) or [potions](https://runescape.wikia.com/wiki/Dungeoneering/Herblore#Potions)) are more common.\n\n• Food is scarcer.\n\n• [Daemonheim aura](https://runescape.wikia.com/wiki/Daemonheim_aura) does not bring you back to life or let you choose the boss."
+				},
+				{
+					"name": "Requirements:",
+					"value": "• Elite Daemonheim tasks completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Daemonheim_achievements)\n\n• 119 Dungeoneering\n• 90+ in all skills or close enough to boost all skill doors is recommended"
+				},
+				{
 					"name": "Guide:",
 					"value": "• [Trimmed Completionist Guides - Hardmode Dungeoneering | Teh Proez - YouTube](https://www.youtube.com/watch?v=HpGPdyNQEzA)"
-                }
-            ],
-            "footer": {
-                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-                "text": "Runescore awarded: 25"
-            },
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 25"
+			},
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"haul comes to templeton": {
 		"cmds": ["mqc"],
@@ -4023,18 +3858,16 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
-					"name": "Requirements:",
-					"value": "• Dealing with Scabaras Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Dealing_with_Scabaras)"
-				}
-			],
+			"fields": [{
+				"name": "Requirements:",
+				"value": "• Dealing with Scabaras Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Dealing_with_Scabaras)"
+			}],
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 10"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"heal, quickly": {
 		"cmds": ["comp"],
@@ -4048,18 +3881,16 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
-					"name": "Requirements:",
-					"value": "• 65 Dungeoneering\n• 65 Prayer"
-				}
-			],
+			"fields": [{
+				"name": "Requirements:",
+				"value": "• 65 Dungeoneering\n• 65 Prayer"
+			}],
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 15"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"herbi's flax": {
 		"cmds": ["mqc"],
@@ -4073,18 +3904,16 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
-					"name": "Requirements:",
-					"value": "• Shades of Mort'ton Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Shades_of_Mort%27ton)"
-				}
-			],
+			"fields": [{
+				"name": "Requirements:",
+				"value": "• Shades of Mort'ton Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Shades_of_Mort%27ton)"
+			}],
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 10"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"here was a scabaras mask": {
 		"cmds": ["mqc"],
@@ -4098,18 +3927,16 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
-					"name": "Requirements:",
-					"value": "• 80 Mining\n\n• Diamond in the Rough Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Diamond_in_the_Rough)"
-				}
-			],
+			"fields": [{
+				"name": "Requirements:",
+				"value": "• 80 Mining\n\n• Diamond in the Rough Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Diamond_in_the_Rough)"
+			}],
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 5"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"history of bilrach": {
 		"cmds": ["mqc"],
@@ -4123,8 +3950,7 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
+			"fields": [{
 					"name": "Chronicle locations:",
 					"value": "\n• [Mysterious chronicle (part 1)](https://runescape.wikia.com/wiki/Mysterious_chronicle_(part_1): floor 1-2\n• [Mysterious chronicle (part 2)](https://runescape.wikia.com/wiki/Mysterious_chronicle_(part_2): floor 3-4\n• [Mysterious chronicle (part 3)](https://runescape.wikia.com/wiki/Mysterious_chronicle_(part_3): floor 5-6\n• [Mysterious chronicle (part 4)](https://runescape.wikia.com/wiki/Mysterious_chronicle_(part_4): floor 7-8\n• [Mysterious chronicle (part 5)](https://runescape.wikia.com/wiki/Mysterious_chronicle_(part_5): floor 9-10"
 				},
@@ -4157,37 +3983,36 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 40"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"how many games?": {
 		"cmds": ["trim"],
 		"embed": {
-            "title": "How Many Games?",
-            "author": {
-                "name": "Cape Info",
-                "icon_url": "https://i.imgur.com/6c6q2iC.png"
-            },
-            "description": "[How Many Games?](https://runescape.wikia.com/wiki/How_Many_Games%3F) an achievement that requires the player to purchase a full set of [Profound decorative equipment]( https://runescape.wikia.com/wiki/Profound_decorative_equipment) and show it to [Lanthus]( https://runescape.wikia.com/wiki/Lanthus). Profound equipment can be purchased using [Gold Castle Wars tickets]( https://runescape.wikia.com/wiki/Castle_wars_ticket_(gold), [Thaler]( https://runescape.wikia.com/wiki/Thaler), or a mixture of both.\n\nThis is one of the most time-consuming achievements in the game, taking up to 795 hours to complete by playing only [Spotlighted minigames]( https://calendar.google.com/calendar/embed?src=42brp3b48aumm199hord137gh0@group.calendar.google.com) or playing 20 minute Castle Wars games with a 100% win rate (accounting for the 3 minute wait time between games). Even using the fastest methods, playing on spotlight and/or Minigames Weekend, and using [Castle wars token enhancers](https://runescape.wikia.com/wiki/Castle_wars_token_enhancer), it will take at least 300 hours to complete. It is generally considered to be the longest and most onerous requirement for the trimmed completionist cape. However, using only Thaler, this achievement can be completed without playing a single game of Castle Wars.\n\n**It is highly advised to do this with a Castle Wars or Thaler community.**\n\n• You may find a Castle Wars community at [this discord](https://discord.gg/hzvwrvX) or at friend-chat `Cwar United`. You can fill out the application for the friends chat [here](http://services.runescape.com/m=forum/c=9s7nqZXGY8Y/forums.ws?75,76,32,66000897).",
-            "thumbnail": {
-                "url": "https://i.imgur.com/Shmagnp.png"
-            },
-            "fields": [
-                {
-                    "name": "​",
-                    "value": "• You may find an AFK Thaler community in this server. Users can tag the <@&446729279149965315> role if Barbarian Assault, Conquest, Fist of Guthix, Great Orb Project, Heist, Mobilising Armies, Pest Control, Soul Wars, Stealing Creation, or Trouble Brewing minigames are on spotlight in order to find teams. You may join this role by reacting to the 🇻 emoji on the third to last message in the <#465998663710146579> channel."
-                },
-                {
-                    "name": "Requirements:",
-                    "value": "• A stong will to live"
-                }
-            ],
-            "footer": {
-                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-                "text": "Runescore awarded: 70"
-            },
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"title": "How Many Games?",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[How Many Games?](https://runescape.wikia.com/wiki/How_Many_Games%3F) an achievement that requires the player to purchase a full set of [Profound decorative equipment]( https://runescape.wikia.com/wiki/Profound_decorative_equipment) and show it to [Lanthus]( https://runescape.wikia.com/wiki/Lanthus). Profound equipment can be purchased using [Gold Castle Wars tickets]( https://runescape.wikia.com/wiki/Castle_wars_ticket_(gold), [Thaler]( https://runescape.wikia.com/wiki/Thaler), or a mixture of both.\n\nThis is one of the most time-consuming achievements in the game, taking up to 795 hours to complete by playing only [Spotlighted minigames]( https://calendar.google.com/calendar/embed?src=42brp3b48aumm199hord137gh0@group.calendar.google.com) or playing 20 minute Castle Wars games with a 100% win rate (accounting for the 3 minute wait time between games). Even using the fastest methods, playing on spotlight and/or Minigames Weekend, and using [Castle wars token enhancers](https://runescape.wikia.com/wiki/Castle_wars_token_enhancer), it will take at least 300 hours to complete. It is generally considered to be the longest and most onerous requirement for the trimmed completionist cape. However, using only Thaler, this achievement can be completed without playing a single game of Castle Wars.\n\n**It is highly advised to do this with a Castle Wars or Thaler community.**\n\n• You may find a Castle Wars community at [this discord](https://discord.gg/hzvwrvX) or at friend-chat `Cwar United`. You can fill out the application for the friends chat [here](http://services.runescape.com/m=forum/c=9s7nqZXGY8Y/forums.ws?75,76,32,66000897).",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [{
+					"name": "​",
+					"value": "• You may find an AFK Thaler community in this server. Users can tag the <@&446729279149965315> role if Barbarian Assault, Conquest, Fist of Guthix, Great Orb Project, Heist, Mobilising Armies, Pest Control, Soul Wars, Stealing Creation, or Trouble Brewing minigames are on spotlight in order to find teams. You may join this role by reacting to the 🇻 emoji on the third to last message in the <#465998663710146579> channel."
+				},
+				{
+					"name": "Requirements:",
+					"value": "• A stong will to live"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 70"
+			},
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"i'm forever washing shadows": {
 		"cmds": ["comp", "mqc"],
@@ -4201,18 +4026,16 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
-					"name": "Requirements:",
-					"value": "• 91 Divination\n\n• Plague's End Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Plague%27s_End)"
-				}
-			],
+			"fields": [{
+				"name": "Requirements:",
+				"value": "• 91 Divination\n\n• Plague's End Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Plague%27s_End)"
+			}],
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 10"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"i can see for miles and miles pt1": {
 		"cmds": ["mqc"],
@@ -4226,8 +4049,7 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
+			"fields": [{
 					"name": "Beacon Keeper Locations:",
 					"value": "**Keeper:** [Blaze Sharpeye](https://runescape.wikia.com/wiki/Blaze_Sharpeye)\n\t• **Location:** North-east of [Varrock](https://runescape.wikia.com/wiki/Varrock) and south of the [Temple of Paterdomus](https://runescape.wikia.com/wiki/Paterdomus), on [Silvarea](https://runescape.wikia.com/wiki/Silvarea)"
 				},
@@ -4283,14 +4105,13 @@ exports.data = {
 					"name": "​",
 					"value": "**Keeper:** *None*\n\t• **Location:** On the [Frozen Waste Plateau](https://runescape.wikia.com/wiki/Frozen_Waste_Plateau), west of the [Agility course](https://runescape.wikia.com/wiki/Wilderness_Agility_Course) in level 52 Wilderness"
 				}
-            ]
-    	}
+			]
+		}
 	},
 	"i can see for miles and miles pt2": {
 		"cmds": ["mqc"],
 		"embed": {
-      "fields": [
-        {
+			"fields": [{
 					"name": "Requirements:",
 					"value": "• 70 Smithing\n• 59 Construction\n• 60 Crafting\n• 64 Agility\n• 53 Prayer\n• 81 Summoning\n\n• Completed all four levels of the [Stronghold of Security](https://runescape.wikia.com/wiki/Stronghold_of_Security)\n\n• [Climbing Boots](https://runescape.wikia.com/wiki/Climbing_boots) or [Rock Climbing Boots](https://runescape.wikia.com/wiki/Rock_climbing_boots) (if not using Trollheim teleport)\n• A [Catspeak amulet](https://runescape.wikia.com/wiki/Catspeak_amulet)"
 				},
@@ -4307,8 +4128,8 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 30"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  		}
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"i dig this transportation": {
 		"cmds": ["mqc"],
@@ -4322,18 +4143,16 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
-					"name": "Requirements:",
-					"value": "• The Dig Site Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Dig_Site)"
-				}
-			],
+			"fields": [{
+				"name": "Requirements:",
+				"value": "• The Dig Site Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Dig_Site)"
+			}],
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 10"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"i presume these rewards are mine, death?": {
 		"cmds": ["mqc"],
@@ -4347,18 +4166,16 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
-					"name": "Requirements:",
-					"value": "• 80 Combat\n• 75 Thieving\n• 75 Constitution\n\n• Missing, Presumed Death Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Missing,_Presumed_Death)"
-				}
-			],
+			"fields": [{
+				"name": "Requirements:",
+				"value": "• 80 Combat\n• 75 Thieving\n• 75 Constitution\n\n• Missing, Presumed Death Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Missing,_Presumed_Death)"
+			}],
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 20"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"i know, i was there...": {
 		"cmds": ["mqc"],
@@ -4372,18 +4189,16 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
-					"name": "Requirements:",
-					"value": "• Ritual of the Mahjarrat Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Ritual_of_the_Mahjarrat)"
-				}
-			],
+			"fields": [{
+				"name": "Requirements:",
+				"value": "• Ritual of the Mahjarrat Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Ritual_of_the_Mahjarrat)"
+			}],
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 5"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"ice ice chimpy": {
 		"cmds": ["mqc", "trim"],
@@ -4397,8 +4212,7 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
+			"fields": [{
 					"name": "Teleportation:",
 					"value": "The use of any magic-based [transportation](https://runescape.wikia.com/wiki/Transportation) results in the Chimp ice melting instantly. Allowed relevant methods of transportation include:\n• [Magic carpet](https://runescape.wikia.com/wiki/Magic_carpet)\n• [Charter ship](https://runescape.wikia.com/wiki/Charter_ship)\n• [Balloon transport system](https://runescape.wikia.com/wiki/Balloon_transport_system)\n• [Eagle transport system](https://runescape.wikia.com/wiki/Eagle_transport_system)\n• [Shantay arrest](https://runescape.wikia.com/wiki/Shantay)\n• [Daemonheim boat](https://runescape.wikia.com/wiki/Daemonheim) ([Lumbridge Swamp](https://runescape.wikia.com/wiki/Lumbridge_Swamp), [Al Kharid](https://runescape.wikia.com/wiki/Al_Kharid), and [Taverley](https://runescape.wikia.com/wiki/Taverley))\n\n[Gnome gliders](https://runescape.wikia.com/wiki/Gnome_glider) cannot be used, as a cloud of \"volcanic ash\" will be over [Karamja](https://runescape.wikia.com/wiki/Karamja) during the activity."
 				},
@@ -4423,8 +4237,8 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 25"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"icthlarin's little chest": {
 		"cmds": ["mqc"],
@@ -4438,8 +4252,7 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
+			"fields": [{
 					"name": "Requirements:",
 					"value": "• Icthlarin's Little Helper Quest partial completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Icthlarin%27s_Little_Helper)"
 				},
@@ -4452,8 +4265,8 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 10"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"imping around": {
 		"cmds": ["comp"],
@@ -4467,8 +4280,7 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
+			"fields": [{
 					"name": "Location Methods:",
 					"value": "• Obtain tier 4 [Menaphos](https://runescape.wikia.com/wiki/Menaphos) [reputation](https://runescape.wikia.com/wiki/Menaphos/Reputation), since this will provide a chance to spawn an impling on every gather tick within the city.\n\n• World hop within the [Gorajo resource dungeon](https://runescape.wikia.com/wiki/Gorajo_resource_dungeon)\n\n• Puro-Puro which can be accessed either at the [Zanaris](https://runescape.wikia.com/wiki/Zanaris) wheat field or the various wheat fields around RuneScape, which have temporary [crop circle](https://runescape.wikia.com/wiki/Crop_circle) portals.\n\n• [Impetuous Impulses](https://runescape.wikia.com/wiki/Impetuous_Impulses) minigame\n\n• Using a [tree-shaking scrimshaw](https://runescape.wikia.com/wiki/Tree-shaking_scrimshaw) in the [Crwys clan](https://runescape.wikia.com/wiki/Crwys_Clan) during the [Voice of Seren](https://runescape.wikia.com/wiki/Voice_of_Seren) may disturb a crystal impling, which can then be caught by the player using the scrimshaw."
 				},
@@ -4489,8 +4301,8 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 25"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"impressing char": {
 		"cmds": ["mqc", "trim"],
@@ -4504,8 +4316,7 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
+			"fields": [{
 					"name": "Starting:",
 					"value": "To start the training you must speak to [Char](https://runescape.wikia.com/wiki/Char), who is just in the entrance of the cave. The training consists of making the logless fires using a [Pitch can](https://runescape.wikia.com/wiki/Pitch_can), which can be found close to Char, into as many accepted symbols in the gridded area as possible within the 5 minute time limit. The symbols are visible in the Book of Char. There is one symbol, the Zaros symbol, that Char did not note down as it is 'very close to her heart.' When you first make the Zaros symbol however, it will appear in the Book of Char along with the others.\n\nChar will let you \"Start\" training even if you forget to bring the Book of Char. However, without both the book and a pitch can, you will be unable to light any fires."
 				},
@@ -4522,8 +4333,8 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 10"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"invention gives me the blues": {
 		"cmds": ["comp"],
@@ -4537,8 +4348,7 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
+			"fields": [{
 					"name": "Dwarven Technology Tree:",
 					"value": "The dwarven tech tree is a tree of technology from the skill Invention. At level 40, you may choose to follow this path by talking to [Drorkar](https://runescape.wikia.com/wiki/Drorkar) in [Keldagrim](https://runescape.wikia.com/wiki/Keldagrim). Note that you must complete [The Giant Dwarf](https://runescape.wikia.com/wiki/The_Giant_Dwarf) quest in order for Drorkar to appear in the [Keldagrim Palace](https://runescape.wikia.com/wiki/Keldagrim_Palace) workshop on the west side of the river.\n\nDwarven technology tree items can be unlocked using Dwarven currency which is earned by completing [Invention tasks](https://runescape.wikia.com/wiki/Technology_tree#Tasks). A total of 295 Dwarven currency is required to complete this portion of the achievement. These tasks can be found at the noticeboard in the [Invention guild](https://runescape.wikia.com/wiki/Invention_Guild), near Oldak in Dorgesh-Kaan, and in Keldagrim near Drorkar. Up to 5 tasks can be saved and each 12 hours a new task is added."
 				},
@@ -4553,7 +4363,7 @@ exports.data = {
 				{
 					"name": "Cave Goblin Technology Tree Unlocks:",
 					"value": "• [Pestiferous components](https://runescape.wikia.com/wiki/Pestiferous_components)\n• [Mechanised chinchompa](https://runescape.wikia.com/wiki/Mechanised_chinchompa)\n• [Woodcutting accumulator](https://runescape.wikia.com/wiki/Woodcutting_accumulator)\n• [B.A.N.K. Stander](https://runescape.wikia.com/wiki/B.A.N.K._Stander)\n• [Monkey mind-control helmet](https://runescape.wikia.com/wiki/Monkey_mind-control_helmet)\n• [Dungeoneering party simulator](https://runescape.wikia.com/wiki/Dungeoneering_party_simulator)\n• [Electrified trap](https://runescape.wikia.com/wiki/Electrified_trap)\n• [Oldak coil](https://runescape.wikia.com/wiki/Oldak_coil)"
-				},				
+				},
 				{
 					"name": "Requirements:",
 					"value": "• 70 Invention\n\n• Giant Dwarf Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Giant_Dwarf)\n• Death to the Dorgeshuun Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Death_to_the_Dorgeshuun)"
@@ -4563,8 +4373,8 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 30"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"ivan is flailing": {
 		"cmds": ["mqc", "trim"],
@@ -4578,8 +4388,7 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
+			"fields": [{
 					"name": "Requirements:",
 					"value": "• 40 Firemaking\n\n• Legacy of Seergaze Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Legacy_of_Seergaze)"
 				},
@@ -4592,41 +4401,40 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 10"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"jack of the circus": {
 		"cmds": ["trim"],
 		"embed": {
-            "title": "Jack of the Circus",
-            "author": {
-                "name": "Cape Info",
-                "icon_url": "https://i.imgur.com/6c6q2iC.png"
-            },
-            "description": "[Jack of the Circus](https://runescape.wikia.com/wiki/Jack_of_the_Circus) is an achievement that requires the player to claim all of the circus equipment from [Balthazar Beauregard's Big Top Bonanza](https://runescape.wikia.com/wiki/Balthazar_Beauregard%27s_Big_Top_Bonanza).\n\nThe circus is run by [Balthazar Beauregard](https://runescape.wikia.com/wiki/Ringmaster) and allows players to participate in the circus by performing various activities, once a week. To enter the circus, players have to get a [Circus ticket](https://runescape.wikia.com/wiki/Circus_ticket) from a [Ticket vendor](https://runescape.wikia.com/wiki/Ticket_vendor). The location of the Ticket Vendor changes all the time. The exact location of one of those vendors can be found on your map by indicating a [yellow Quest symbol](https://vignette.wikia.nocookie.net/runescape2/images/0/07/D%26D_map_icon.png/revision/latest?cb=20160223204246). To exit, they just have to tear the ticket, teleport, or log out.\n\nThese [costumes](https://runescape.wikia.com/wiki/Balthazar_Beauregard%27s_Big_Top_Bonanza#Circus_costumes) can be gained through getting points in [performances](https://runescape.wikia.com/wiki/Balthazar_Beauregard%27s_Big_Top_Bonanza#Performances). Repeating any trick will not result in more experience so you need to work through different tricks. This is different from the way Circus score is earned, where players can repeatedly perform the same high-level trick to increase their score, as long as they take measures, such as doing an emote between each trick, to ensure they do not become boring. Therefore players wishing to maximise their experience gain do so at the expense of their Circus score.\n\nTo get the lower level costumes, you will need to get their score range needed as going above will roll you a no reward if you have all rewards of the higher tier. With this being the case, it would be beneficial to attempt for the Ringmaster outfit first so failed attempts are still rewarding.",
-            "thumbnail": {
-                "url": "https://i.imgur.com/Shmagnp.png"
-            },
-            "fields": [
-                {
-                    "name": "Costumes:",
-                    "value": "Players will need to have purchased the full following costumes:\n\n• [Audience](https://runescape.wikia.com/wiki/Audience_costume) with a score of 1-500\n• [Acrobat](https://runescape.wikia.com/wiki/Acrobat_costume) with a score of 501-1,000\n• [Firemakers](https://runescape.wikia.com/wiki/Firemaker%27s_costume) with a score of 501-1000 (after [The Firemaker's Curse](http://runescape.wikia.com/wiki/The_Firemaker%27s_Curse))\n• [Clown](https://runescape.wikia.com/wiki/Clown_costume) with a score of 1,001-1,200\n• [Ringmaster](https://runescape.wikia.com/wiki/Ringmaster_costume) with a score of 1,201+"
-                },
-                {
-                    "name": "Requirements:",
-                    "value": "• The Firemaker's Curse Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Firemaker%27s_Curse)"
-                },
-                {
+			"title": "Jack of the Circus",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Jack of the Circus](https://runescape.wikia.com/wiki/Jack_of_the_Circus) is an achievement that requires the player to claim all of the circus equipment from [Balthazar Beauregard's Big Top Bonanza](https://runescape.wikia.com/wiki/Balthazar_Beauregard%27s_Big_Top_Bonanza).\n\nThe circus is run by [Balthazar Beauregard](https://runescape.wikia.com/wiki/Ringmaster) and allows players to participate in the circus by performing various activities, once a week. To enter the circus, players have to get a [Circus ticket](https://runescape.wikia.com/wiki/Circus_ticket) from a [Ticket vendor](https://runescape.wikia.com/wiki/Ticket_vendor). The location of the Ticket Vendor changes all the time. The exact location of one of those vendors can be found on your map by indicating a [yellow Quest symbol](https://vignette.wikia.nocookie.net/runescape2/images/0/07/D%26D_map_icon.png/revision/latest?cb=20160223204246). To exit, they just have to tear the ticket, teleport, or log out.\n\nThese [costumes](https://runescape.wikia.com/wiki/Balthazar_Beauregard%27s_Big_Top_Bonanza#Circus_costumes) can be gained through getting points in [performances](https://runescape.wikia.com/wiki/Balthazar_Beauregard%27s_Big_Top_Bonanza#Performances). Repeating any trick will not result in more experience so you need to work through different tricks. This is different from the way Circus score is earned, where players can repeatedly perform the same high-level trick to increase their score, as long as they take measures, such as doing an emote between each trick, to ensure they do not become boring. Therefore players wishing to maximise their experience gain do so at the expense of their Circus score.\n\nTo get the lower level costumes, you will need to get their score range needed as going above will roll you a no reward if you have all rewards of the higher tier. With this being the case, it would be beneficial to attempt for the Ringmaster outfit first so failed attempts are still rewarding.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [{
+					"name": "Costumes:",
+					"value": "Players will need to have purchased the full following costumes:\n\n• [Audience](https://runescape.wikia.com/wiki/Audience_costume) with a score of 1-500\n• [Acrobat](https://runescape.wikia.com/wiki/Acrobat_costume) with a score of 501-1,000\n• [Firemakers](https://runescape.wikia.com/wiki/Firemaker%27s_costume) with a score of 501-1000 (after [The Firemaker's Curse](http://runescape.wikia.com/wiki/The_Firemaker%27s_Curse))\n• [Clown](https://runescape.wikia.com/wiki/Clown_costume) with a score of 1,001-1,200\n• [Ringmaster](https://runescape.wikia.com/wiki/Ringmaster_costume) with a score of 1,201+"
+				},
+				{
+					"name": "Requirements:",
+					"value": "• The Firemaker's Curse Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Firemaker%27s_Curse)"
+				},
+				{
 					"name": "Guide:",
 					"value": "• [Ringmaster Outfit Guide - Circus - RuneScape Trimmed Completionist Requirement | AlexshineProductions - YouTube](https://www.youtube.com/watch?v=-rizDICRH54)"
-                }
-            ],
-            "footer": {
-                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-                "text": "Runescore awarded: 25"
-            },
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 25"
+			},
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"kaiki's tusks": {
 		"cmds": ["mqc"],
@@ -4640,8 +4448,7 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
+			"fields": [{
 					"name": "Airut Information:",
 					"value": "Airtus can be found at:\n\n• just west of the [Phoenix Lair](https://runescape.wikia.com/wiki/Phoenix_Lair) in the [Piscatoris Hunter area](https://runescape.wikia.com/wiki/Piscatoris_Hunter_area) ([Fairy ring](https://runescape.wikia.com/wiki/Fairy_ring) **a•k•q**, [Phoenix Lair Teleport](https://runescape.wikia.com/wiki/Phoenix_Lair_Teleport), or [Mask of the Airut](https://runescape.wikia.com/wiki/Mask_of_the_Airut)/[Helm of the Airut](https://runescape.wikia.com/wiki/Helm_of_the_Airut))\n\n• in [Kuradal's Dungeon](https://runescape.wikia.com/wiki/Kuradal%27s_Dungeon)\n\n• on [Mazcab](https://runescape.wikia.com/wiki/Mazcab) at the eastern part of the [Graveyard](https://runescape.wikia.com/wiki/Graveyard_(Mazcab); a [bank chest](https://runescape.wikia.com/wiki/Bank_chest) is located north-east at the entrance to [Pit of Trials](https://runescape.wikia.com/wiki/Pit_of_Trials)"
 				},
@@ -4658,49 +4465,48 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 10"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"kal'gerion commander": {
 		"cmds": ["trim"],
 		"embed": {
-            "title": "Kal'gerion Commander",
-            "author": {
-                "name": "Cape Info",
-                "icon_url": "https://i.imgur.com/6c6q2iC.png"
-            },
-            "description": "[Kal'gerion Commander](https://runescape.wikia.com/wiki/Kal%27gerion_Commander) is an achievement that requires the player to find all of the [Kal'gerion battle commendations](https://runescape.wikia.com/wiki/Kal%27gerion_battle_commendation) which are dropped by [Kal'gerion demons](https://runescape.wikia.com/wiki/Kal%27gerion_demon).\n\n These titles are unlocked in the order listed below, which is the same order as the level of the bosses in Dungeoneering. Unlocking the title also depends on previously killing the respective Dungeoneering form of the boss.\n\nThere are 5 titles to collect:\n• [the Bloodchiller](https://runescape.wikia.com/wiki/The_Bloodchiller)\n• [the Riftsplitter](https://runescape.wikia.com/wiki/The_Riftsplitter)\n• [the Pummeller](https://runescape.wikia.com/wiki/The_Pummeller)\n• [the Thunderous](https://runescape.wikia.com/wiki/The_Thunderous)\n• [the Warmonger](https://runescape.wikia.com/wiki/The_Warmonger)\n\nThe commendation may be banked and saved until the required boss has been defeated, but only one scroll can be owned at a time. You may receive the commendation as a drop even if you are below the level required to unlock the title. The drop can be received whilst using a [Scrimshaw of Sacrifice](https://runescape.wikia.com/wiki/Scrimshaw_of_sacrifice). You can also receive the drop as a reward from the chest in [Rush of Blood](https://runescape.wikia.com/wiki/Rush_of_Blood), provided the demon was fought in a wave, or as a rare reward from the [Motherlode Maw](https://runescape.wikia.com/wiki/Motherlode_Maw).",
-            "thumbnail": {
-                "url": "https://i.imgur.com/Shmagnp.png"
-            },
-            "fields": [
-                {
-                    "name": "Strategy:",
-                    "value": "Kal'gerion demons have high defence and life points. While they list no explicit weakness, magic is the most consistently hitting style and provides the best defence against their melee attacks. However, an upgraded [Darklight](https://runescape.wikia.com/wiki/Darklight) from the [Dimension of Disaster](https://runescape.wikia.com/wiki/Dimension_of_Disaster) quest will also work well, in addition to dealing more damage to the demons.\n\nKal'gerion demons only deal melee-type damage, but their attacks are long-ranged, so they cannot be safespotted.\n\nThe demons can potentially kill offensive familiars - having [Incite](https://runescape.wikia.com/wiki/Incite) active and using [Provoke](https://runescape.wikia.com/wiki/Provoke) can help prevent this.\n\nBe wary of using multi-target attacks, as more than one demon attacking could prove problematic."
-                },
-                {
-                    "name": "Special Attacks:",
-                    "value": "The demons have two possible special attacks. Each demon will only special attack once in the entire fight.\n\n• **Drag** - The demon drags its target, dealing high damage and healing itself. Players will be dealt up to 1,000 damage while the demon will heal for 5,062 life points (15% of their maximum). This attack will also [bind](https://runescape.wikia.com/wiki/Bind) the player without leaving a status icon indicating such. [Freedom](https://runescape.wikia.com/wiki/Freedom) and [Anticipation](https://runescape.wikia.com/wiki/Anticipation) will not block the drag or bind, but Freedom will still clear the bind if activated afterwards. [Barricade](https://runescape.wikia.com/wiki/Barricade) will block the damage, but will not stop the heal, drag, or bind.\n\n• **True power** - The demon jumps in the air and smashes the ground, dealing approximately 800–1,200 damage."
-                },
-                {
-                    "name": "​",
-                    "value": "Currently, it is advised players kill Kal'gerion demons in a [Player owned slayer dungeon](https://runescape.wikia.com/wiki/Sunken_Pyramid#Slayer_Dungeon) as they will be unable to utilize their special attack in this area. Players may visit the [Slayer Dungs](https://discord.gg/4ksg37t) friend's chat to find an availble POD."
-                },
-                {
-                    "name": "Requirements:",
-                    "value": "• 113 Dungeoneering\n• Killing [To'Kash the Bloodchiller](https://runescape.wikia.com/wiki/To%27Kash_the_Bloodchiller) at least once\n• Killing [Har'Lakk the Riftsplitter](https://runescape.wikia.com/wiki/Har%27Lakk_the_Riftsplitter) at least once\n• Killing [Bal'lak the Pummeller](https://runescape.wikia.com/wiki/Bal%27lak_the_Pummeller) at least once\n• Killing [Yk'Lagor the Thunderous](https://runescape.wikia.com/wiki/Yk%27Lagor_the_Thunderous) at least once\n• Killing [Kal'Ger the Warmonger](https://runescape.wikia.com/wiki/Kal%27Ger_the_Warmonger) at least once"
-                },
-                {
+			"title": "Kal'gerion Commander",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Kal'gerion Commander](https://runescape.wikia.com/wiki/Kal%27gerion_Commander) is an achievement that requires the player to find all of the [Kal'gerion battle commendations](https://runescape.wikia.com/wiki/Kal%27gerion_battle_commendation) which are dropped by [Kal'gerion demons](https://runescape.wikia.com/wiki/Kal%27gerion_demon).\n\n These titles are unlocked in the order listed below, which is the same order as the level of the bosses in Dungeoneering. Unlocking the title also depends on previously killing the respective Dungeoneering form of the boss.\n\nThere are 5 titles to collect:\n• [the Bloodchiller](https://runescape.wikia.com/wiki/The_Bloodchiller)\n• [the Riftsplitter](https://runescape.wikia.com/wiki/The_Riftsplitter)\n• [the Pummeller](https://runescape.wikia.com/wiki/The_Pummeller)\n• [the Thunderous](https://runescape.wikia.com/wiki/The_Thunderous)\n• [the Warmonger](https://runescape.wikia.com/wiki/The_Warmonger)\n\nThe commendation may be banked and saved until the required boss has been defeated, but only one scroll can be owned at a time. You may receive the commendation as a drop even if you are below the level required to unlock the title. The drop can be received whilst using a [Scrimshaw of Sacrifice](https://runescape.wikia.com/wiki/Scrimshaw_of_sacrifice). You can also receive the drop as a reward from the chest in [Rush of Blood](https://runescape.wikia.com/wiki/Rush_of_Blood), provided the demon was fought in a wave, or as a rare reward from the [Motherlode Maw](https://runescape.wikia.com/wiki/Motherlode_Maw).",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [{
+					"name": "Strategy:",
+					"value": "Kal'gerion demons have high defence and life points. While they list no explicit weakness, magic is the most consistently hitting style and provides the best defence against their melee attacks. However, an upgraded [Darklight](https://runescape.wikia.com/wiki/Darklight) from the [Dimension of Disaster](https://runescape.wikia.com/wiki/Dimension_of_Disaster) quest will also work well, in addition to dealing more damage to the demons.\n\nKal'gerion demons only deal melee-type damage, but their attacks are long-ranged, so they cannot be safespotted.\n\nThe demons can potentially kill offensive familiars - having [Incite](https://runescape.wikia.com/wiki/Incite) active and using [Provoke](https://runescape.wikia.com/wiki/Provoke) can help prevent this.\n\nBe wary of using multi-target attacks, as more than one demon attacking could prove problematic."
+				},
+				{
+					"name": "Special Attacks:",
+					"value": "The demons have two possible special attacks. Each demon will only special attack once in the entire fight.\n\n• **Drag** - The demon drags its target, dealing high damage and healing itself. Players will be dealt up to 1,000 damage while the demon will heal for 5,062 life points (15% of their maximum). This attack will also [bind](https://runescape.wikia.com/wiki/Bind) the player without leaving a status icon indicating such. [Freedom](https://runescape.wikia.com/wiki/Freedom) and [Anticipation](https://runescape.wikia.com/wiki/Anticipation) will not block the drag or bind, but Freedom will still clear the bind if activated afterwards. [Barricade](https://runescape.wikia.com/wiki/Barricade) will block the damage, but will not stop the heal, drag, or bind.\n\n• **True power** - The demon jumps in the air and smashes the ground, dealing approximately 800–1,200 damage."
+				},
+				{
+					"name": "​",
+					"value": "Currently, it is advised players kill Kal'gerion demons in a [Player owned slayer dungeon](https://runescape.wikia.com/wiki/Sunken_Pyramid#Slayer_Dungeon) as they will be unable to utilize their special attack in this area. Players may visit the [Slayer Dungs](https://discord.gg/4ksg37t) friend's chat to find an availble POD."
+				},
+				{
+					"name": "Requirements:",
+					"value": "• 113 Dungeoneering\n• Killing [To'Kash the Bloodchiller](https://runescape.wikia.com/wiki/To%27Kash_the_Bloodchiller) at least once\n• Killing [Har'Lakk the Riftsplitter](https://runescape.wikia.com/wiki/Har%27Lakk_the_Riftsplitter) at least once\n• Killing [Bal'lak the Pummeller](https://runescape.wikia.com/wiki/Bal%27lak_the_Pummeller) at least once\n• Killing [Yk'Lagor the Thunderous](https://runescape.wikia.com/wiki/Yk%27Lagor_the_Thunderous) at least once\n• Killing [Kal'Ger the Warmonger](https://runescape.wikia.com/wiki/Kal%27Ger_the_Warmonger) at least once"
+				},
+				{
 					"name": "Guide:",
 					"value": "• [Kal'gerion Demon Slayer Guide 2017: Great Slayer exp + Profit! | puretppc - YouTube](https://www.youtube.com/watch?v=Xptgvb9aydM) "
-                }
-            ],
-            "footer": {
-                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-                "text": "Runescore awarded: 35"
-            },
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 35"
+			},
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"kal'gerion notes": {
 		"cmds": ["mqc"],
@@ -4714,8 +4520,7 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
+			"fields": [{
 					"name": "Locations:",
 					"value": "[Kal'gerion notes (part 1)](https://runescape.wikia.com/wiki/Kal%27gerion_notes_(part_1)\n\t• **Obtained from:** [To'Kash the Bloodchiller](https://runescape.wikia.com/wiki/To%27Kash_the_Bloodchiller)\n\t• **On [floors](https://runescape.wikia.com/wiki/Dungeoneering#Floors):** 9-11"
 				},
@@ -4744,8 +4549,8 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 35"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"keeping up with the carnilleans": {
 		"cmds": ["mqc"],
@@ -4759,8 +4564,7 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
+			"fields": [{
 					"name": "Order of Locations:",
 					"value": "**Location:** Inside the [Ardougne](https://runescape.wikia.com/wiki/Ardougne) [Combat Training Camp](https://runescape.wikia.com/wiki/Combat_Training_Camp), near the entrance.\n\t• **Quest Points Required:** 50"
 				},
@@ -4805,8 +4609,8 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 35"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"kharshai's memories": {
 		"cmds": ["comp"],
@@ -4817,44 +4621,43 @@ exports.data = {
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
 			"description": "[Kharshai's Memories](http://runescape.wikia.com/wiki/Kharshai%27s_Memories) is an achievement that requires the player to obtain all 15 memories for [Kharshai](https://runescape.wikia.com/wiki/Kharshai) during the [Mahjarrat Memories miniquest](https://runescape.wikia.com/wiki/Mahjarrat_Memories) and finish the miniquest.\n\nMahjarrat Memories is a miniquest wherein players help the [Mahjarrat](https://runescape.wikia.com/wiki/Mahjarrat) [Kharshai](https://runescape.wikia.com/wiki/Kharshai) recover the memories of some of his kin - both dead and alive - so he can learn what they've been up to. There are 15 memories in total, and they reveal information on the [Zarosian](https://runescape.wikia.com/wiki/Zaros) empire, [Demons](https://runescape.wikia.com/wiki/Demon) and the Mahjarrat themselves.\n\nEach Mahjarrat mentioned in [Zemouregal's notes](https://runescape.wikia.com/wiki/Zemouregal%27s_notes) has their own memory, with the exception of [Zamorak](https://runescape.wikia.com/wiki/Zamorak), because he has become a [God](https://runescape.wikia.com/wiki/Gods), and [Khazard](https://runescape.wikia.com/wiki/General_Khazard) and [Moia](https://runescape.wikia.com/wiki/Moia), because they did not exist in the [Second Age](https://runescape.wikia.com/wiki/Second_Age).\n\nIf a player is also yet to complete the [You're Not My Real Mah](https://runescape.wikia.com/wiki/You%27re_Not_My_Real_Mah) achievement and plans on doing so in the future, it may be beneficial to gather the required memories in the [Elder Halls](https://runescape.wikia.com/wiki/Elder_Halls) so they can also begin obtaining [Elder chronicles](https://runescape.wikia.com/wiki/Elder_chronicle_(item). This effectively completes both requirements at the same time.",
-                        "thumbnail": {
-                                "url": "https://i.imgur.com/Shmagnp.png"
-                        },
-                        "fields": [
-                                                        {
-                    "name": "Start Point:",
-                    "value": "• Speak to Kharshai under [Thorvald the Warrior](https://runescape.wikia.com/wiki/Thorvald_the_Warrior)'s house in [Rellekka](https://runescape.wikia.com/wiki/Rellekka)"
-                              },
-                        {
-                    "name": "Official Difficulty:",
-                    "value": "• None"
-                        },
-                        {
-                    "name": "Official Length:",
-                    "value": "• Very, Very Long"
-                               },
-                        {
-                    "name": "Items Required:",
-                    "value": "• 7500 [Vibrant memories](https://runescape.wikia.com/wiki/Vibrant_memory) (or memories of a higher tier); enriched memories count for double (collected during miniquest)\n• [Invitation box](https://runescape.wikia.com/wiki/Invitation_box) (for Sliske's memory)\n• [Insulated boots](https://runescape.wikia.com/wiki/Insulated_boots) (for Zemouregal's memory)\n• [Macaw pouch](https://runescape.wikia.com/wiki/Macaw_pouch) or [Ravenous locust pouch](https://runescape.wikia.com/wiki/Ravenous_locust_pouch) (for Zemouregal's memory)"
-                        },
-                        {
-                    "name": "Enemies to Defeat:",
-                    "value": "• None"
-                        },
-            {
-                                        "name": "Requirements:",
-                                        "value": "• 60 Divination\n\n• Missing, Presumed Death Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Missing,_Presumed_Death)\n• Koschei's Troubles Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Koschei%27s_Troubles)"
-                                },
-                                {
-                                        "name": "Guide:",
-                                        "value": "[Mahjarrat Memories Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Mahjarrat_Memories)"
-                                }
-                        ],
-                        "footer": {
-                                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-                                "text": "Runescore awarded: 15"
-                        }
-                }
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [{
+					"name": "Start Point:",
+					"value": "• Speak to Kharshai under [Thorvald the Warrior](https://runescape.wikia.com/wiki/Thorvald_the_Warrior)'s house in [Rellekka](https://runescape.wikia.com/wiki/Rellekka)"
+				},
+				{
+					"name": "Official Difficulty:",
+					"value": "• None"
+				},
+				{
+					"name": "Official Length:",
+					"value": "• Very, Very Long"
+				},
+				{
+					"name": "Items Required:",
+					"value": "• 7500 [Vibrant memories](https://runescape.wikia.com/wiki/Vibrant_memory) (or memories of a higher tier); enriched memories count for double (collected during miniquest)\n• [Invitation box](https://runescape.wikia.com/wiki/Invitation_box) (for Sliske's memory)\n• [Insulated boots](https://runescape.wikia.com/wiki/Insulated_boots) (for Zemouregal's memory)\n• [Macaw pouch](https://runescape.wikia.com/wiki/Macaw_pouch) or [Ravenous locust pouch](https://runescape.wikia.com/wiki/Ravenous_locust_pouch) (for Zemouregal's memory)"
+				},
+				{
+					"name": "Enemies to Defeat:",
+					"value": "• None"
+				},
+				{
+					"name": "Requirements:",
+					"value": "• 60 Divination\n\n• Missing, Presumed Death Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Missing,_Presumed_Death)\n• Koschei's Troubles Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Koschei%27s_Troubles)"
+				},
+				{
+					"name": "Guide:",
+					"value": "[Mahjarrat Memories Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Mahjarrat_Memories)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 15"
+			}
+		}
 	},
 	"kiln fighter": {
 		"cmds": ["comp"],
@@ -4868,8 +4671,7 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
+			"fields": [{
 					"name": "​",
 					"value": "Unlike the Fight Cave, players are allowed to bring a [familiar](https://runescape.wikia.com/wiki/Summoning_familiars) into the arena. Like the Fight Cave, players are able to save their progress at the end of each wave."
 				},
@@ -4886,8 +4688,8 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 20"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"koschei's cache": {
 		"cmds": ["mqc"],
@@ -4901,28 +4703,27 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-							{
-                    "name": "Start Point:",
-                    "value": "• Speak to [Thorvald the Warrior](https://runescape.wikia.com/wiki/Thorvald_the_Warrior) in [Skulgrimen's Battle Gear](https://runescape.wikia.com/wiki/Skulgrimen%27s_Battle_Gear) in Rellekka"
-      			},
-        		{
-                    "name": "Official Difficulty:",
-                    "value": "• None"
-        		},
-        		{
-                    "name": "Official Length:",
-                    "value": "• Short"
-       			},
-        		{
-                    "name": "Items Required:",
-                    "value": "• [Balmung](https://runescape.wikia.com/wiki/Balmung)"
-        		},
-        		{
-                    "name": "Enemies to Defeat:",
-                    "value": "• None"
-        		},
-            {
+			"fields": [{
+					"name": "Start Point:",
+					"value": "• Speak to [Thorvald the Warrior](https://runescape.wikia.com/wiki/Thorvald_the_Warrior) in [Skulgrimen's Battle Gear](https://runescape.wikia.com/wiki/Skulgrimen%27s_Battle_Gear) in Rellekka"
+				},
+				{
+					"name": "Official Difficulty:",
+					"value": "• None"
+				},
+				{
+					"name": "Official Length:",
+					"value": "• Short"
+				},
+				{
+					"name": "Items Required:",
+					"value": "• [Balmung](https://runescape.wikia.com/wiki/Balmung)"
+				},
+				{
+					"name": "Enemies to Defeat:",
+					"value": "• None"
+				},
+				{
 					"name": "Requirements:",
 					"value": "• 90 Strength\n• 90 Prayer\n\n• Blood Runs Deep Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Blood_Runs_Deep)\n• Ritual of the Mahjarrat Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Ritual_of_the_Mahjarrat)"
 				},
@@ -4935,8 +4736,8 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 15"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"kudos to you": {
 		"cmds": ["comp", "mqc"],
@@ -4950,28 +4751,27 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
+			"fields": [{
 					"name": "​",
 					"value": "• Cleaning [Finds](https://runescape.wikia.com/wiki/Kudos#Cleaning_finds). You must be wearing [Leather gloves](https://runescape.wikia.com/wiki/Leather_gloves) and [Leather boots](https://runescape.wikia.com/wiki/Leather_boots), and have a [Trowel](https://runescape.wikia.com/wiki/Trowel), a [Rock pick](https://runescape.wikia.com/wiki/Rock_pick), and a [Specimen brush](https://runescape.wikia.com/wiki/Specimen_brush). All can be obtained from the tool rack on the south wall in the museum **(50 kudos)**"
 				},
-        {
+				{
 					"name": "​",
 					"value": "• Answering a [National History quiz](http://runescape.wikia.com/wiki/Natural_history_quiz) about museum exhibits, by speaking to [Orlando Smith](https://runescape.wikia.com/wiki/Orlando_Smith), who is a natural historian found on the basement floor of the Varrock Museum. If you have completed [The World Wakes](https://runescape.wikia.com/wiki/The_World_Wakes) quest, it will then be [Mark Brodie](https://runescape.wikia.com/wiki/Mark_Brodie) instead, who is found at the same location. The player must then read all the plaques on the basement exhibits **(28 kudos)**"
 				},
-        {
+				{
 					"name": "​",
 					"value": "• By relating details of [Certain completed quests](https://runescape.wikia.com/wiki/Kudos#Completing_Quests) to [Historian Minas](https://runescape.wikia.com/wiki/Historian_Minas), who is a Varrock Museum employee and can be found on the 1st floor[UK], near the staircase **(currently 95 kudos)**"
 				},
-        {
+				{
 					"name": "​",
 					"value": "• Completing the [Dahmaroc statue](http://runescape.wikia.com/wiki/Dahmaroc_statue) for the first time **(10 kudos)**"
 				},
-        {
+				{
 					"name": "​",
 					"value": "• Completing [Dragonkin](https://runescape.wikia.com/wiki/Dragonkin) related [Quests and tasks](https://runescape.wikia.com/wiki/Kudos#Mr._Mordaut) and talking to [Mr. Mordaut](https://runescape.wikia.com/wiki/Mr._Mordaut), who is located behind the door at the back of the stairs to the Varrock Museum basement **(15 kudos)**"
 				},
-        {
+				{
 					"name": "Requirements:",
 					"value": "• The Curse of Zaros Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Curse_of_Zaros)\n• Defender of Varrock Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Defender_of_Varrock)\n• Demon Slayer Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Demon_Slayer)\n• Glorious Memories Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Glorious_Memories)\n• The Grand Tree Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Grand_Tree)\n• Hazeel Cult Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Hazeel_Cult)\n• In Aid of the Myreque Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/In_Aid_of_the_Myreque)\n• Making History Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Making_History)\n• Meeting History Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Meeting_History)"
 				},
@@ -4983,7 +4783,7 @@ exports.data = {
 					"name": "​",
 					"value": "• Kill the [King Black Dragon](https://runescape.wikia.com/wiki/King_Black_Dragon) \n• Defeat the [Queen Black Dragon](https://runescape.wikia.com/wiki/Queen_Black_Dragon)"
 				},
-        {
+				{
 					"name": "Guide:",
 					"value": "• [Kudos | Runescape Wiki](http://runescape.wikia.com/wiki/Kudos)"
 				}
@@ -4992,8 +4792,8 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 25"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"last of the summer swine": {
 		"cmds": ["mqc"],
@@ -5007,18 +4807,16 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
-					"name": "Requirements:",
-					"value": "• 84 Construction\n• 84 Crafting\n• 84 Summoning\n\n• Bringing Home the Bacon Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Bringing_Home_the_Bacon)"
-				}
-			],
+			"fields": [{
+				"name": "Requirements:",
+				"value": "• 84 Construction\n• 84 Crafting\n• 84 Summoning\n\n• Bringing Home the Bacon Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Bringing_Home_the_Bacon)"
+			}],
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 10"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"learning from mr. mordaut": {
 		"cmds": ["mqc"],
@@ -5032,18 +4830,16 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
-					"name": "Requirements:",
-					"value": "• One of a Kind Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/One_of_a_Kind)"
-				}
-			],
+			"fields": [{
+				"name": "Requirements:",
+				"value": "• One of a Kind Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/One_of_a_Kind)"
+			}],
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 10"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"let us give ugthanks": {
 		"cmds": ["mqc"],
@@ -5057,8 +4853,7 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
+			"fields": [{
 					"name": "Mechanics:",
 					"value": "The mirages use magic attacks and spells from the ancient spellbook. Smoke spells reduce accuracy, shadow reduces damage, blood heals for 5% of the damage dealt and ice binds for 10 seconds. Each mirage has 11,250 life points, and has a max hit of about 1,000. The blood mirage heals its fellow mirages for up to 900 life points each for each attack it performs, regardless if it hits the player or not. The healing only applies to the mirages that it was summoned with, so it will not heal mirages of another camel. The shadow mirage has an adrenaline bar over its head, which fills as it attacks. When completely filled, it will launch a curse at the player that drains a massive amount of your prayer points. It can also perform [Weaken](https://runescape.wikia.com/wiki/Weaken) on the player. The smoke mirage does not have any unique mechanics, apart from the ability to cast [Confuse](https://runescape.wikia.com/wiki/Confuse) on the player."
 				},
@@ -5083,8 +4878,8 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 25"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"library of nex": {
 		"cmds": ["mqc"],
@@ -5098,18 +4893,16 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
-					"name": "Requirements:",
-					"value": "• 70 Constitution\n• 70 Ranged\n• 70 Agility\n• 70 Strength\n\n• A Frozen key\n• 40 Zarosian kills or a set of Ancient ceremonial robes"
-				}
-			],
+			"fields": [{
+				"name": "Requirements:",
+				"value": "• 70 Constitution\n• 70 Ranged\n• 70 Agility\n• 70 Strength\n\n• A Frozen key\n• 40 Zarosian kills or a set of Ancient ceremonial robes"
+			}],
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 25"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"load of bakulla": {
 		"cmds": ["mqc"],
@@ -5123,55 +4916,52 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
-					"name": "Requirements:",
-					"value": "• The Fremennik Trials Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Fremennik_Trials)"
-				}
-			],
+			"fields": [{
+				"name": "Requirements:",
+				"value": "• The Fremennik Trials Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Fremennik_Trials)"
+			}],
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 5"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"lock, stock and barrel": {
 		"cmds": ["trim"],
 		"embed": {
-            "title": "Lock, Stock and Barrel",
-            "author": {
-                "name": "Cape Info",
-                "icon_url": "https://i.imgur.com/6c6q2iC.png"
-            },
-            "description": "[Lock, Stock and Barrel](http://runescape.wikia.com/wiki/Lock,_Stock_and_Barrel) is an achievement that requires the player to gain tier 10 [Reputation](https://runescape.wikia.com/wiki/Menaphos/Reputation) in the [Merchant district](https://runescape.wikia.com/wiki/Merchant_district) of [Menaphos](https://runescape.wikia.com/wiki/Menaphos).\n\nPlayers must first choose to which faction they want to align themselves before reputation can be earned. Right-click on a faction icon within the faction windows to choose a faction. If no faction is selected, reputation is not gained and the following message is seen instead: \"You have not currently selected a faction, so earned no reputation!\"\n\nYou can use `soulobby` friend's chat to find [Soul Obelisks](https://runescape.wikia.com/wiki/Soul_obelisk_(Menaphos%29) and [Corrupted Scarabs](https://runescape.wikia.com/wiki/Corrupted_scarab) easily. You can gain 20,000 reputatation per day from Soul Obelisks and a varied amount from Corrupted Scarabs daily. You will be able to finish this requirement within two weeks utilizing this method as a daily.\n\nReputation is a mechanic that is used within [Menaphos](https://runescape.wikia.com/wiki/Menaphos). All skilling activities within the walls of Menaphos earn reputation. In addition, skilling using any of the methods released along with Menaphos rewards a higher amount of reputation. ",
-            "thumbnail": {
-                "url": "https://i.imgur.com/Shmagnp.png"
-            },
-            "fields": [
-                {
-                    "name": "Increased Reputation Methods:",
-                    "value": "Those activities which award reputation at an increased rate are chopping [Acadia trees](https://runescape.wikia.com/wiki/Acadia_tree), mining [Concentrated sandstone](https://runescape.wikia.com/wiki/Concentrated_sandstone_rocks), fishing for [Desert sole](https://runescape.wikia.com/wiki/Raw_desert_sole), [Catfish](https://runescape.wikia.com/wiki/Raw_catfish), and [Beltfish](https://runescape.wikia.com/wiki/Raw_beltfish), thieving in the Menaphos market, catching [Plover birds](https://runescape.wikia.com/wiki/Plover_bird) in [Sophanem](https://runescape.wikia.com/wiki/Sophanem), and fighting [Corrupted creatures](http://runescape.wikia.com/wiki/Corrupted_creature) and [Soul devourers](http://runescape.wikia.com/wiki/Soul_devourer) in the [Sophanem Slayer Dungeon](https://runescape.wikia.com/wiki/Sophanem_Slayer_Dungeon). Furthermore, the highest rates of reputation are earned by playing the [Shifting Tombs](https://runescape.wikia.com/wiki/Shifting_Tombs) minigame."
-                },
-                {
-                    "name": "Repeatable Events for Reputation:",
-                    "value": "• Interacting with [Soul obelisks](https://runescape.wikia.com/wiki/Soul_obelisk_(Menaphos%29) in Menaphos can reward players up to 20,000 base reputation per day in a very short duration\n• Interacting with [Corrupted Scarabs](https://runescape.wikia.com/wiki/Corrupted_Scarab_(Menaphos) in Menaphos can reward players reputation\n• Completing a [City Quest](https://runescape.wikia.com/wiki/City_Quest) grants 2,000 base reputation, as well as a random-sized [Menaphite gift offering](https://runescape.wikia.com/wiki/Menaphite_gift_offering)"
-                },
-                {
-                    "name": "Permanent Reputation Increase:",
-                    "value": "After completion of Menaphos related quests, all reputation gain is increased.\n\t• [The Jack of Spades](https://runescape.wikia.com/wiki/The_Jack_of_Spades) - 1.25x\n\t• [Crocodile Tears](https://runescape.wikia.com/wiki/Crocodile_Tears) - 1.5x\n\t• [Our Man in the North](https://runescape.wikia.com/wiki/Our_Man_in_the_North) - 1.75x\n\t• ['Phite Club](https://runescape.wikia.com/wiki/%27Phite_Club) - 2.0x"
-                },
-                {
-                    "name": "Requirements:",
-                    "value": "• The Jack of Spades Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Jack_of_Spades)"
-                }
-            ],
-            "footer": {
-                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-                "text": "Runescore awarded: 40"
-            },
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"title": "Lock, Stock and Barrel",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Lock, Stock and Barrel](http://runescape.wikia.com/wiki/Lock,_Stock_and_Barrel) is an achievement that requires the player to gain tier 10 [Reputation](https://runescape.wikia.com/wiki/Menaphos/Reputation) in the [Merchant district](https://runescape.wikia.com/wiki/Merchant_district) of [Menaphos](https://runescape.wikia.com/wiki/Menaphos).\n\nPlayers must first choose to which faction they want to align themselves before reputation can be earned. Right-click on a faction icon within the faction windows to choose a faction. If no faction is selected, reputation is not gained and the following message is seen instead: \"You have not currently selected a faction, so earned no reputation!\"\n\nYou can use `soulobby` friend's chat to find [Soul Obelisks](https://runescape.wikia.com/wiki/Soul_obelisk_(Menaphos%29) and [Corrupted Scarabs](https://runescape.wikia.com/wiki/Corrupted_scarab) easily. You can gain 20,000 reputatation per day from Soul Obelisks and a varied amount from Corrupted Scarabs daily. You will be able to finish this requirement within two weeks utilizing this method as a daily.\n\nReputation is a mechanic that is used within [Menaphos](https://runescape.wikia.com/wiki/Menaphos). All skilling activities within the walls of Menaphos earn reputation. In addition, skilling using any of the methods released along with Menaphos rewards a higher amount of reputation. ",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [{
+					"name": "Increased Reputation Methods:",
+					"value": "Those activities which award reputation at an increased rate are chopping [Acadia trees](https://runescape.wikia.com/wiki/Acadia_tree), mining [Concentrated sandstone](https://runescape.wikia.com/wiki/Concentrated_sandstone_rocks), fishing for [Desert sole](https://runescape.wikia.com/wiki/Raw_desert_sole), [Catfish](https://runescape.wikia.com/wiki/Raw_catfish), and [Beltfish](https://runescape.wikia.com/wiki/Raw_beltfish), thieving in the Menaphos market, catching [Plover birds](https://runescape.wikia.com/wiki/Plover_bird) in [Sophanem](https://runescape.wikia.com/wiki/Sophanem), and fighting [Corrupted creatures](http://runescape.wikia.com/wiki/Corrupted_creature) and [Soul devourers](http://runescape.wikia.com/wiki/Soul_devourer) in the [Sophanem Slayer Dungeon](https://runescape.wikia.com/wiki/Sophanem_Slayer_Dungeon). Furthermore, the highest rates of reputation are earned by playing the [Shifting Tombs](https://runescape.wikia.com/wiki/Shifting_Tombs) minigame."
+				},
+				{
+					"name": "Repeatable Events for Reputation:",
+					"value": "• Interacting with [Soul obelisks](https://runescape.wikia.com/wiki/Soul_obelisk_(Menaphos%29) in Menaphos can reward players up to 20,000 base reputation per day in a very short duration\n• Interacting with [Corrupted Scarabs](https://runescape.wikia.com/wiki/Corrupted_Scarab_(Menaphos) in Menaphos can reward players reputation\n• Completing a [City Quest](https://runescape.wikia.com/wiki/City_Quest) grants 2,000 base reputation, as well as a random-sized [Menaphite gift offering](https://runescape.wikia.com/wiki/Menaphite_gift_offering)"
+				},
+				{
+					"name": "Permanent Reputation Increase:",
+					"value": "After completion of Menaphos related quests, all reputation gain is increased.\n\t• [The Jack of Spades](https://runescape.wikia.com/wiki/The_Jack_of_Spades) - 1.25x\n\t• [Crocodile Tears](https://runescape.wikia.com/wiki/Crocodile_Tears) - 1.5x\n\t• [Our Man in the North](https://runescape.wikia.com/wiki/Our_Man_in_the_North) - 1.75x\n\t• ['Phite Club](https://runescape.wikia.com/wiki/%27Phite_Club) - 2.0x"
+				},
+				{
+					"name": "Requirements:",
+					"value": "• The Jack of Spades Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Jack_of_Spades)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 40"
+			},
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"long live the queen": {
 		"cmds": ["comp"],
@@ -5185,8 +4975,7 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
+			"fields": [{
 					"name": "Requirements:",
 					"value": "• 60 Summoning"
 				},
@@ -5199,8 +4988,8 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 10"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"looting the demon throne": {
 		"cmds": ["mqc"],
@@ -5214,18 +5003,16 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
-					"name": "Requirements:",
-					"value": "• The Golem Quest partial completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Golem)"
-				}
-			],
+			"fields": [{
+				"name": "Requirements:",
+				"value": "• The Golem Quest partial completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Golem)"
+			}],
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 10"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"lost toys": {
 		"cmds": ["comp"],
@@ -5239,80 +5026,79 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
+			"fields": [{
+					"name": "Toy Locations:",
+					"value": "\n• **Toy:** [Mr Bitey](https://runescape.wikia.com/wiki/Mr_Bitey)\n\t• **Location:** On the 2nd floor[UK] of [Paterdomus](https://runescape.wikia.com/wiki/Paterdomus), in a bed behind the bars"
+				},
 				{
-                    "name": "Toy Locations:",
-                    "value": "\n• **Toy:** [Mr Bitey](https://runescape.wikia.com/wiki/Mr_Bitey)\n\t• **Location:** On the 2nd floor[UK] of [Paterdomus](https://runescape.wikia.com/wiki/Paterdomus), in a bed behind the bars"
-      			},
-      			{
-                    "name": "​",
-                    "value": "• **Toy:** [Count Snugula](https://runescape.wikia.com/wiki/Count_Snugula)\n\t• **Location:** Under the [Paterdomus](https://runescape.wikia.com/wiki/Paterdomus), climb down the trapdoor near [Drezel](https://runescape.wikia.com/wiki/Drezel) or [Ivan storm](https://runescape.wikia.com/wiki/Ivan_Strom). The plushie is on the top shelf of a book shelf"
-      			},
-      			{
-                    "name": "​",
-                    "value": "• **Toy:** [Drakemon](https://runescape.wikia.com/wiki/Drakemon)\n\t• **Location:** In [The Hollows](https://runescape.wikia.com/wiki/The_Hollows), in a group of mushrooms just south of the entrance to the caves, east of the large tree near [Curpile Fyod](https://runescape.wikia.com/wiki/Curpile_Fyod). Nearest teleport is [Canifis](https://runescape.wikia.com/wiki/Canifis) [lodestone](https://runescape.wikia.com/wiki/Lodestone_Network)"
-      			},
-      			{
-                    "name": "​",
-                    "value": "• **Toy:** [Scare Bear](https://runescape.wikia.com/wiki/Scare_Bear)\n\t• **Location:** At the very end of the top of the wall around [Darkmeyer](https://runescape.wikia.com/wiki/Darkmeyer), north of Drakan's castle, just east of the north sketch location for [Darkness of Hallowvale](https://runescape.wikia.com/wiki/Darkness_of_Hallowvale). Take the boat from Burgh de Rott to Meiyerditch and travel north along the wall to reach the wall around Darkmeyer. Go north until you reach a ladder, climb down it and search the wall on the east and the open the barricade in the northern wall. Climb up the next ladder, then climb up the next ladder again, and climb down the next ladder. Climb the ladder just south of castle Drakan, then follow the wall around until you find the plushie"
-      			},
-      			{
-                    "name": "​",
-                    "value": "• **Toy:** [Blushie](https://runescape.wikia.com/wiki/Blushie)\n\t• **Location:** On a chair in the [Myreque Hideout](https://runescape.wikia.com/wiki/Myreque_Hideout) in Burgh de Rott"
-      			},
-      			{
-                    "name": "​",
-                    "value": "• **Toy:** [Booboo](https://runescape.wikia.com/wiki/Booboo)\n\t• **Location:** In a swamp tree just west of the mausoleum in the [Icyene graveyard](https://runescape.wikia.com/wiki/Icyene_graveyard). Teleport to [Burgh de Rott](https://runescape.wikia.com/wiki/Burgh_de_Rott) and board the boat on the south shore"
-      			},
-      			{
-                    "name": "​",
-                    "value": "• **Toy:** [Vamplushie](https://runescape.wikia.com/wiki/Vamplushie)\n\t• **Location:** In a broken minecart in the south-west corner of the [Meiyerditch mine](https://runescape.wikia.com/wiki/Meiyerditch_mine)"
-      			},
-      			{
-                    "name": "​",
-                    "value": "• **Toy:** [Fangs](https://runescape.wikia.com/wiki/Fangs)\n\t• **Location:** South-west of the [Fairy ring](https://runescape.wikia.com/wiki/Fairy_ring) (code **a•l•q**) in the [Haunted Woods](https://runescape.wikia.com/wiki/Haunted_Woods), being held by a skeleton"
-      			},
-      			{
-                    "name": "​",
-                    "value": "• **Toy:** [Vlad the Embracer](https://runescape.wikia.com/wiki/Vlad_the_Embracer)\n\t• **Location:** Sitting on the edge of the blood pool in [Drakan](https://runescape.wikia.com/wiki/Drakan)'s tomb under Burgh de Rott"
-      			},
-      			{
-                    "name": "​",
-                    "value": "• **Toy:** [Mr Puddles](https://runescape.wikia.com/wiki/Mr_Puddles)\n\t• **Location:** Inside the [Araxyte Hive](https://runescape.wikia.com/wiki/Araxyte_Hive) near the entrance to the fight with [Araxxor](https://runescape.wikia.com/wiki/Araxxor)"
-      			},
-      			{
-                    "name": "​",
-                    "value": "• **Toy:** [Heartless](https://runescape.wikia.com/wiki/Heartless)\n\t• **Location:** In a broken range in the normal bloodveld chamber in the [Meiyerditch Laboratories](https://runescape.wikia.com/wiki/Meiyerditch_Laboratories)"
-      			},
-      			{
-                    "name": "​",
-                    "value": "• **Toy:** [My Little Vanstrom](https://runescape.wikia.com/wiki/My_Little_Vanstrom)\n\t• **Location:** In a coffin, just west of the [Blood Altar](https://runescape.wikia.com/wiki/Blood_Altar)"
-      			},
-      			{
-                    "name": "​",
-                    "value": "• **Toy:** [Draccles](https://runescape.wikia.com/wiki/Draccles)\n\t• **Location:** On a rock near [Ivandis Seergaze](https://runescape.wikia.com/wiki/Ivandis_Seergaze)'s tomb in the Meiyerditch Laboratories. Fairy ring (code **d•l•s**), then through three cave entrances: south, north, then north-east."
-      			},
-      			{
-                    "name": "Start Point:",
-                    "value": "• Speak to [Lex](https://runescape.wikia.com/wiki/Lex) who is located in the [Hair of the Dog](https://runescape.wikia.com/wiki/Hair_of_the_Dog) inn in [Canifis](https://runescape.wikia.com/wiki/Canifis)"
-      			},
-        		{
-                    "name": "Official Difficulty:",
-                    "value": "• None"
-        		},
-        		{
-                    "name": "Official Length:",
-                    "value": "• Short"
-       			},
-        		{
-                    "name": "Items Required:",
-                    "value": "• None, but several [Teleport items](https://runescape.wikia.com/wiki/The_Lost_Toys#Recommended_teleport_items) are recommended"
-        		},
-        		{
-                    "name": "Enemies to Defeat:",
-                    "value": "• None"
-        		},
-            	{
+					"name": "​",
+					"value": "• **Toy:** [Count Snugula](https://runescape.wikia.com/wiki/Count_Snugula)\n\t• **Location:** Under the [Paterdomus](https://runescape.wikia.com/wiki/Paterdomus), climb down the trapdoor near [Drezel](https://runescape.wikia.com/wiki/Drezel) or [Ivan storm](https://runescape.wikia.com/wiki/Ivan_Strom). The plushie is on the top shelf of a book shelf"
+				},
+				{
+					"name": "​",
+					"value": "• **Toy:** [Drakemon](https://runescape.wikia.com/wiki/Drakemon)\n\t• **Location:** In [The Hollows](https://runescape.wikia.com/wiki/The_Hollows), in a group of mushrooms just south of the entrance to the caves, east of the large tree near [Curpile Fyod](https://runescape.wikia.com/wiki/Curpile_Fyod). Nearest teleport is [Canifis](https://runescape.wikia.com/wiki/Canifis) [lodestone](https://runescape.wikia.com/wiki/Lodestone_Network)"
+				},
+				{
+					"name": "​",
+					"value": "• **Toy:** [Scare Bear](https://runescape.wikia.com/wiki/Scare_Bear)\n\t• **Location:** At the very end of the top of the wall around [Darkmeyer](https://runescape.wikia.com/wiki/Darkmeyer), north of Drakan's castle, just east of the north sketch location for [Darkness of Hallowvale](https://runescape.wikia.com/wiki/Darkness_of_Hallowvale). Take the boat from Burgh de Rott to Meiyerditch and travel north along the wall to reach the wall around Darkmeyer. Go north until you reach a ladder, climb down it and search the wall on the east and the open the barricade in the northern wall. Climb up the next ladder, then climb up the next ladder again, and climb down the next ladder. Climb the ladder just south of castle Drakan, then follow the wall around until you find the plushie"
+				},
+				{
+					"name": "​",
+					"value": "• **Toy:** [Blushie](https://runescape.wikia.com/wiki/Blushie)\n\t• **Location:** On a chair in the [Myreque Hideout](https://runescape.wikia.com/wiki/Myreque_Hideout) in Burgh de Rott"
+				},
+				{
+					"name": "​",
+					"value": "• **Toy:** [Booboo](https://runescape.wikia.com/wiki/Booboo)\n\t• **Location:** In a swamp tree just west of the mausoleum in the [Icyene graveyard](https://runescape.wikia.com/wiki/Icyene_graveyard). Teleport to [Burgh de Rott](https://runescape.wikia.com/wiki/Burgh_de_Rott) and board the boat on the south shore"
+				},
+				{
+					"name": "​",
+					"value": "• **Toy:** [Vamplushie](https://runescape.wikia.com/wiki/Vamplushie)\n\t• **Location:** In a broken minecart in the south-west corner of the [Meiyerditch mine](https://runescape.wikia.com/wiki/Meiyerditch_mine)"
+				},
+				{
+					"name": "​",
+					"value": "• **Toy:** [Fangs](https://runescape.wikia.com/wiki/Fangs)\n\t• **Location:** South-west of the [Fairy ring](https://runescape.wikia.com/wiki/Fairy_ring) (code **a•l•q**) in the [Haunted Woods](https://runescape.wikia.com/wiki/Haunted_Woods), being held by a skeleton"
+				},
+				{
+					"name": "​",
+					"value": "• **Toy:** [Vlad the Embracer](https://runescape.wikia.com/wiki/Vlad_the_Embracer)\n\t• **Location:** Sitting on the edge of the blood pool in [Drakan](https://runescape.wikia.com/wiki/Drakan)'s tomb under Burgh de Rott"
+				},
+				{
+					"name": "​",
+					"value": "• **Toy:** [Mr Puddles](https://runescape.wikia.com/wiki/Mr_Puddles)\n\t• **Location:** Inside the [Araxyte Hive](https://runescape.wikia.com/wiki/Araxyte_Hive) near the entrance to the fight with [Araxxor](https://runescape.wikia.com/wiki/Araxxor)"
+				},
+				{
+					"name": "​",
+					"value": "• **Toy:** [Heartless](https://runescape.wikia.com/wiki/Heartless)\n\t• **Location:** In a broken range in the normal bloodveld chamber in the [Meiyerditch Laboratories](https://runescape.wikia.com/wiki/Meiyerditch_Laboratories)"
+				},
+				{
+					"name": "​",
+					"value": "• **Toy:** [My Little Vanstrom](https://runescape.wikia.com/wiki/My_Little_Vanstrom)\n\t• **Location:** In a coffin, just west of the [Blood Altar](https://runescape.wikia.com/wiki/Blood_Altar)"
+				},
+				{
+					"name": "​",
+					"value": "• **Toy:** [Draccles](https://runescape.wikia.com/wiki/Draccles)\n\t• **Location:** On a rock near [Ivandis Seergaze](https://runescape.wikia.com/wiki/Ivandis_Seergaze)'s tomb in the Meiyerditch Laboratories. Fairy ring (code **d•l•s**), then through three cave entrances: south, north, then north-east."
+				},
+				{
+					"name": "Start Point:",
+					"value": "• Speak to [Lex](https://runescape.wikia.com/wiki/Lex) who is located in the [Hair of the Dog](https://runescape.wikia.com/wiki/Hair_of_the_Dog) inn in [Canifis](https://runescape.wikia.com/wiki/Canifis)"
+				},
+				{
+					"name": "Official Difficulty:",
+					"value": "• None"
+				},
+				{
+					"name": "Official Length:",
+					"value": "• Short"
+				},
+				{
+					"name": "Items Required:",
+					"value": "• None, but several [Teleport items](https://runescape.wikia.com/wiki/The_Lost_Toys#Recommended_teleport_items) are recommended"
+				},
+				{
+					"name": "Enemies to Defeat:",
+					"value": "• None"
+				},
+				{
 					"name": "Requirements:",
 					"value": "• The Lord of the Vampyrium Quest partial completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Lord_of_Vampyrium)"
 				},
@@ -5320,13 +5106,13 @@ exports.data = {
 					"name": "Guide:",
 					"value": "• [The Lost Toys Miniquest Guide | Runescape Wiki](http://runescape.wikia.com/wiki/The_Lost_Toys)"
 				}
-						],
-					"footer": {
-					"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-					"text": "Runescore awarded: 10"
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 10"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"lovingly crafted": {
 		"cmds": ["mqc"],
@@ -5340,59 +5126,56 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
-					"name": "Requirements:",
-					"value": "• 58 Slayer\n\n• Cabin Fever Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Cabin_Fever)\n• Fur 'n' Seek Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Fur_%27n%27_Seek/Wish_list)"
-				}
-			],
+			"fields": [{
+				"name": "Requirements:",
+				"value": "• 58 Slayer\n\n• Cabin Fever Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Cabin_Fever)\n• Fur 'n' Seek Miniquest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Fur_%27n%27_Seek/Wish_list)"
+			}],
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 10"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"lunar master": {
 		"cmds": ["comp"],
 		"embed": {
-            "title": "Lunar Master",
-            "author": {
-                "name": "Cape Info",
-                "icon_url": "https://i.imgur.com/6c6q2iC.png"
-            },
-            "description": "[Lunar Master](http://runescape.wikia.com/wiki/Lunar_Master) is an achievement that tracks the player's progress into unlocking the nine [Livid Farm](https://runescape.wikia.com/wiki/Livid_Farm) spells.\n\nLivid Farm is an activity in which the player helps [Pauline Polaris](https://runescape.wikia.com/wiki/Pauline_Polaris) run and maintain her farm. The farm is located on the northern part of [Lunar Isle](https://runescape.wikia.com/wiki/Lunar_Isle). The farm is tended to by casting [Lunar spells](https://runescape.wikia.com/wiki/Lunar_spells). Working on the farm earns [Produce points](https://runescape.wikia.com/wiki/Produce_points) which can be used to unlock new Lunar spells\n\nThe spells to unlock are:\n• [South Falador Teleport](https://runescape.wikia.com/wiki/South_Falador_Teleport)\n• [Repair Rune Pouch](https://runescape.wikia.com/wiki/Repair_Rune_Pouch)\n• [North Ardougne Teleport](https://runescape.wikia.com/wiki/North_Ardougne_Teleport)\n• [Remote Farming](https://runescape.wikia.com/wiki/Remote_Farm)\n• [Spiritualise Food](https://runescape.wikia.com/wiki/Spiritualise_Food)\n• [Make Leather](https://runescape.wikia.com/wiki/Make_Leather)\n• [Disruption Shield](https://runescape.wikia.com/wiki/Disruption_Shield)\n• [Vengeance Group](https://runescape.wikia.com/wiki/Vengeance_Group)\n• [Trollheim Teleport](https://runescape.wikia.com/wiki/Trollheim_Teleport_(Lunar)\n• [Tele-group Trollheim](https://runescape.wikia.com/wiki/Tele-group_Trollheim)\n• [Borrowed Power](https://runescape.wikia.com/wiki/Borrowed_Power)\n\nA [Livid farm point enhancer](https://runescape.wikia.com/wiki/Livid_farm_point_enhancer) will allow the player to gain produce points at 1.5 times the rate. You may sign up for the <@&443762434818179073> notification role in the <#465998663710146579> channel to be notified whenever the [Travelling Merchant](https://runescape.wikia.com/wiki/Travelling_Merchant%27s_Shop) has a [Livid plant](https://runescape.wikia.com/wiki/Livid_plant_(Deep_Sea_Fishing%29) in stock.",
-            "thumbnail": {
-                "url": "https://i.imgur.com/Shmagnp.png"
-            },
-            "fields": [
-                {
-                    "name": "Earning Produce Points:",
-                    "value": "• Fertilize empty plots using [Fertile Soil](https://runescape.wikia.com/wiki/Fertile_Soil) - 20 produce points. Click on an empty plot.\n\n• Cure diseased plants using [Cure Plant](https://runescape.wikia.com/wiki/Cure_Plant) - 20 produce points. See Identifying the [Diseased Livid](https://runescape.wikia.com/wiki/Livid_Farm#Identifying_the_diseased_livid)\n\n• Fix fence beams by using fence posts made from [Lunar lumber](https://runescape.wikia.com/wiki/Lunar_lumber) with [Plank Make](https://runescape.wikia.com/wiki/Plank_Make) - 20 produce points. Click on lumber bin to take lumber, click on lumber in inventory to convert, click on damaged section of fence to fix. Take two lumbers from the bin at once to save time.\n\n• Deposit a bundle of 5 livid that is wrapped using [String Jewellery](https://runescape.wikia.com/wiki/String_Jewellery) - 120 produce points. Click on livid bin to take 10 livids, click twice in inventory to make two bunches, click on cart to deposit for twice the number of points."
-                },
-                  {
-                    "name": "Guide:",
-                    "value": "If there are no livids showing in the bin, it's time to encourage Pauline by saying some kind words (this does not use any runes) - 100 produce points. Right-click on Pauline and select the correct option, which could be one of the following:\n\t• Come on, you're doing so well\n\t• Keep going! We can do this\n\t• Look at all the produce being made\n\t• Lokar will really appreciate this\n\t• Extraordinary\n\t• You're doing a fantastic job\n\nA helpful way to do this would be to look at the first word or the length of the option. For example, if the first word is `Come,` then select the first option. If it's `Keep` or `Lokar,` then choose the second one. If it's `You're,` then pick the third. Otherwise, if the dialogue is short, then select the fourth option, or if it is long, then the third option is correct\n\nIf you do not have the required Magic level the produce points earned will be halved. The maximum produce points that can be harvested is 430,000; going above this will give you a message to spend some points."
-                },
-                  {
-                    "name": "Produce Points Cost:",
-                    "value": "Counting nature and astral runes, and using a mud staff, the cost of produce points per rune is:\n\t• Cure plant: 20 points per rune\n\t• Bundle Livids: 60 points per rune\n\t• Fertile soil: 4 points per rune\n\t• Fence repairs: 6.6 points per rune"
-                },
-                {
-                    "name": "Requirements:",
-                    "value": "• 70 Magic\n• 81 Magic to complete all the activities\n• 93 Magic to complete all the distractions\n• 60 Agility\n• 60 Crafting\n• 60 Farming\n• 50 Construction\n\n• Lunar Diplomacy Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Lunar_Diplomacy)\n\n• Have the Lunar Spellbook activated"
-                },
-                {
+			"title": "Lunar Master",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Lunar Master](http://runescape.wikia.com/wiki/Lunar_Master) is an achievement that tracks the player's progress into unlocking the nine [Livid Farm](https://runescape.wikia.com/wiki/Livid_Farm) spells.\n\nLivid Farm is an activity in which the player helps [Pauline Polaris](https://runescape.wikia.com/wiki/Pauline_Polaris) run and maintain her farm. The farm is located on the northern part of [Lunar Isle](https://runescape.wikia.com/wiki/Lunar_Isle). The farm is tended to by casting [Lunar spells](https://runescape.wikia.com/wiki/Lunar_spells). Working on the farm earns [Produce points](https://runescape.wikia.com/wiki/Produce_points) which can be used to unlock new Lunar spells\n\nThe spells to unlock are:\n• [South Falador Teleport](https://runescape.wikia.com/wiki/South_Falador_Teleport)\n• [Repair Rune Pouch](https://runescape.wikia.com/wiki/Repair_Rune_Pouch)\n• [North Ardougne Teleport](https://runescape.wikia.com/wiki/North_Ardougne_Teleport)\n• [Remote Farming](https://runescape.wikia.com/wiki/Remote_Farm)\n• [Spiritualise Food](https://runescape.wikia.com/wiki/Spiritualise_Food)\n• [Make Leather](https://runescape.wikia.com/wiki/Make_Leather)\n• [Disruption Shield](https://runescape.wikia.com/wiki/Disruption_Shield)\n• [Vengeance Group](https://runescape.wikia.com/wiki/Vengeance_Group)\n• [Trollheim Teleport](https://runescape.wikia.com/wiki/Trollheim_Teleport_(Lunar)\n• [Tele-group Trollheim](https://runescape.wikia.com/wiki/Tele-group_Trollheim)\n• [Borrowed Power](https://runescape.wikia.com/wiki/Borrowed_Power)\n\nA [Livid farm point enhancer](https://runescape.wikia.com/wiki/Livid_farm_point_enhancer) will allow the player to gain produce points at 1.5 times the rate. You may sign up for the <@&443762434818179073> notification role in the <#465998663710146579> channel to be notified whenever the [Travelling Merchant](https://runescape.wikia.com/wiki/Travelling_Merchant%27s_Shop) has a [Livid plant](https://runescape.wikia.com/wiki/Livid_plant_(Deep_Sea_Fishing%29) in stock.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [{
+					"name": "Earning Produce Points:",
+					"value": "• Fertilize empty plots using [Fertile Soil](https://runescape.wikia.com/wiki/Fertile_Soil) - 20 produce points. Click on an empty plot.\n\n• Cure diseased plants using [Cure Plant](https://runescape.wikia.com/wiki/Cure_Plant) - 20 produce points. See Identifying the [Diseased Livid](https://runescape.wikia.com/wiki/Livid_Farm#Identifying_the_diseased_livid)\n\n• Fix fence beams by using fence posts made from [Lunar lumber](https://runescape.wikia.com/wiki/Lunar_lumber) with [Plank Make](https://runescape.wikia.com/wiki/Plank_Make) - 20 produce points. Click on lumber bin to take lumber, click on lumber in inventory to convert, click on damaged section of fence to fix. Take two lumbers from the bin at once to save time.\n\n• Deposit a bundle of 5 livid that is wrapped using [String Jewellery](https://runescape.wikia.com/wiki/String_Jewellery) - 120 produce points. Click on livid bin to take 10 livids, click twice in inventory to make two bunches, click on cart to deposit for twice the number of points."
+				},
+				{
+					"name": "Guide:",
+					"value": "If there are no livids showing in the bin, it's time to encourage Pauline by saying some kind words (this does not use any runes) - 100 produce points. Right-click on Pauline and select the correct option, which could be one of the following:\n\t• Come on, you're doing so well\n\t• Keep going! We can do this\n\t• Look at all the produce being made\n\t• Lokar will really appreciate this\n\t• Extraordinary\n\t• You're doing a fantastic job\n\nA helpful way to do this would be to look at the first word or the length of the option. For example, if the first word is `Come,` then select the first option. If it's `Keep` or `Lokar,` then choose the second one. If it's `You're,` then pick the third. Otherwise, if the dialogue is short, then select the fourth option, or if it is long, then the third option is correct\n\nIf you do not have the required Magic level the produce points earned will be halved. The maximum produce points that can be harvested is 430,000; going above this will give you a message to spend some points."
+				},
+				{
+					"name": "Produce Points Cost:",
+					"value": "Counting nature and astral runes, and using a mud staff, the cost of produce points per rune is:\n\t• Cure plant: 20 points per rune\n\t• Bundle Livids: 60 points per rune\n\t• Fertile soil: 4 points per rune\n\t• Fence repairs: 6.6 points per rune"
+				},
+				{
+					"name": "Requirements:",
+					"value": "• 70 Magic\n• 81 Magic to complete all the activities\n• 93 Magic to complete all the distractions\n• 60 Agility\n• 60 Crafting\n• 60 Farming\n• 50 Construction\n\n• Lunar Diplomacy Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Lunar_Diplomacy)\n\n• Have the Lunar Spellbook activated"
+				},
+				{
 					"name": "Guide:",
 					"value": "• [Livid Farm Basics Guide | Dexxon - YouTube](https://www.youtube.com/watch?v=b7qql8K2Y2s)"
-                }
-            ],
-            "footer": {
-                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-                "text": "Runescore awarded: 25"
-            },
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 25"
+			},
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"lurgon's run": {
 		"cmds": ["mqc"],
@@ -5406,8 +5189,7 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
+			"fields": [{
 					"name": "Councillor Locations:",
 					"value": "**Councillor:** [Ur-lun](https://runescape.wikia.com/wiki/Ur-lun)\n\t• **Location:** In the south-east of the city, along with Ur-pel"
 				},
@@ -5444,8 +5226,8 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 10"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"make them bleed": {
 		"cmds": ["comp", "mqc"],
@@ -5459,8 +5241,7 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
+			"fields": [{
 					"name": "Requirements:",
 					"value": "• 85 Slayer\n\n• Plague's End Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Plague%27s_End)\n• Legacy of Seergaze Quest completion | [Runescape Wiki](https://runescape.wikia.com/wiki/Legacy_of_Seergaze)"
 				},
@@ -5473,8 +5254,8 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 20"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"many shades of a cure": {
 		"cmds": ["mqc"],
@@ -5488,47 +5269,44 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
-					"name": "Requirements:",
-					"value": "• Shades of Mort'ton Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Shades_of_Mort%27ton)"
-				}
-			],
+			"fields": [{
+				"name": "Requirements:",
+				"value": "• Shades of Mort'ton Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Shades_of_Mort%27ton)"
+			}],
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 10"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"maria, you gotta see her": {
 		"cmds": ["trim"],
 		"embed": {
-            "title": "Maria, You Gotta See Her",
-            "author": {
-                "name": "Cape Info",
-                "icon_url": "https://i.imgur.com/6c6q2iC.png"
-            },
-            "description": "[Maria, You Gotta See Her](https://runescape.wikia.com/wiki/Maria,_You_Gotta_See_Her) is an achievement that requires the player to complete all three [Challenges](https://runescape.wikia.com/wiki/Broken_Home#Challenges) in the haunted house after [Broken Home](https://runescape.wikia.com/wiki/Broken_Home). These must be done in order, although it is possible to do all at once.\n\n The required challenges are:\n• Complete a replay without dying (try to always peek foggy doors and move very quickly in purple rooms)\n• Complete a replay without dying using one or less healing item (save your one piece for when your health drops to 500 or when it drops to 200 in purple room)\n• Complete a replay in under 37 minutes and complete both other challenges\n\nIt is best to do this achievement either on a dual monitor computer or split screen while following along with the guide. ",
-            "thumbnail": {
-                "url": "https://i.imgur.com/Shmagnp.png"
-            },
-            "fields": [
-                {
-                    "name": "Requirements:",
-                    "value": "• Broken Home Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Broken_Home)"
-                },
-                {
+			"title": "Maria, You Gotta See Her",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Maria, You Gotta See Her](https://runescape.wikia.com/wiki/Maria,_You_Gotta_See_Her) is an achievement that requires the player to complete all three [Challenges](https://runescape.wikia.com/wiki/Broken_Home#Challenges) in the haunted house after [Broken Home](https://runescape.wikia.com/wiki/Broken_Home). These must be done in order, although it is possible to do all at once.\n\n The required challenges are:\n• Complete a replay without dying (try to always peek foggy doors and move very quickly in purple rooms)\n• Complete a replay without dying using one or less healing item (save your one piece for when your health drops to 500 or when it drops to 200 in purple room)\n• Complete a replay in under 37 minutes and complete both other challenges\n\nIt is best to do this achievement either on a dual monitor computer or split screen while following along with the guide. ",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [{
+					"name": "Requirements:",
+					"value": "• Broken Home Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Broken_Home)"
+				},
+				{
 					"name": "Guide:",
 					"value": "• [Broken Home + All Challenges Under 30 Minutes + Chest Locations | Chrisces - YouTube](https://www.youtube.com/watch?v=lMtEEHKH9Gg)"
-                }
-            ],
-            "footer": {
-                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-                "text": "Runescore awarded: 25"
-            },
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 25"
+			},
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"marmaros and thok letters": {
 		"cmds": ["mqc"],
@@ -5542,8 +5320,7 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
+			"fields": [{
 					"name": "M. and thok letter",
 					"value": "[M. and thok letter Part 1](https://runescape.wikia.com/wiki/M._and_thok_letter_(part_1)\n[M. and thok letter Part 2](https://runescape.wikia.com/wiki/M._and_thok_letter_(part_2)\n[M. and thok letter Part 3](https://runescape.wikia.com/wiki/M._and_thok_letter_(part_3)\n[M. and thok letter Part 4](https://runescape.wikia.com/wiki/M._and_thok_letter_(part_4)\n[M. and thok letter Part 5](https://runescape.wikia.com/wiki/M._and_thok_letter_(part_5)\n[M. and thok letter Part 6](https://runescape.wikia.com/wiki/M._and_thok_letter_(part_6)\n[M. and thok letter Part 7](https://runescape.wikia.com/wiki/M._and_thok_letter_(part_7)\n[M. and thok letter Part 8](https://runescape.wikia.com/wiki/M._and_thok_letter_(part_8)\n[M. and thok letter Part 9](https://runescape.wikia.com/wiki/M._and_thok_letter_(part_9)\n[M. and thok letter Part 10](https://runescape.wikia.com/wiki/M._and_thok_letter_(part_10)",
 					"inline": true
@@ -5562,41 +5339,40 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 20"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"master angler": {
 		"cmds": ["trim"],
 		"embed": {
-            "title": "Master Angler",
-            "author": {
-                "name": "Cape Info",
-                "icon_url": "https://i.imgur.com/6c6q2iC.png"
-            },
-            "description": "[Master Angler](http://runescape.wikia.com/wiki/Master_Angler) is an achievement that requires the player to obtain the [Champion's tackle box](https://runescape.wikia.com/wiki/Champion%27s_tackle_box) from [Fish Flingers](https://runescape.wikia.com/wiki/Fish_Flingers). This requires a total of 1,860 [Tokens](https://runescape.wikia.com/wiki/Fish_Flingers#Tokens) and 500 [Medals](https://runescape.wikia.com/wiki/Fish_Flingers#Medals).\n\nFish Flingers takes place on [Isla Anglerine](https://runescape.wikia.com/wiki/Isla_Anglerine), which can be gotten to by talking to a [Fisherman](https://runescape.wikia.com/wiki/Fisherman_(Fish_Flingers). You can enter a competition by talking to a Fisherman every 20 minutes, the fisherman will offer to teleport you to the Isla Anglerine from 5 minutes before the start of a competition. Games will last 10 minutes, with a time of 10 minutes between each game. They can be found all over Gielinor next to the [yellow quest icon](https://vignette.wikia.nocookie.net/runescape2/images/0/07/D%26D_map_icon.png/revision/latest?cb=20160223204246) next to fishing spots.\n\n Players should utilize `FishFlingers` friend's chat to complete this requirement. Players will want to be in there during reset if they can, otherwise it’s a rather inactive minigame.\n\nYou can stock up to 15 [tickets](https://runescape.wikia.com/wiki/Fish_Flingers#Entry_tickets) total by talking to the fish master at any fishing location. You can get more tickets from fishing, but it’s slow and isn’t worth doing unless it’s your last requirement.\n\nA [Fish Flingers medal enhancer](https://runescape.wikia.com/wiki/Fish_flingers_medal_enhancer) can speed it up a bit, but it only doubles medals, not tokens. However, this allows you to [Quick cast](https://runescape.wikia.com/wiki/Fish_Flingers#Quick_casting) games once you receive all medals and it is a much less stressful playthrough.",
-            "thumbnail": {
-                "url": "https://i.imgur.com/Shmagnp.png"
-            },
-            "fields": [
-                {
-                    "name": "Medals and Tokens:",
-                    "value": "Medals are given for the following achievements:\n• Junior Angler: Find the perfect tackle for three species.\n• Master Angler: Find the perfect tackle for all six species.\n• Whopper: Catch 3 big fish.\n• Team Player: Assist in catching at least 6 big fish.\n\nIt is highly recommended to use the [Alt1 application](https://runeapps.org/alt1) to quickly find the perfect tackle combination. Once you reach 500 medals, you’ll want to ignore going for medals and find the heaviest fish spot, which is called in the aforementioned friend's chat, and just quick cast that location. Meaning as soon as you get the message that you caught a fish, you cast again. This gives most tokens per games."
-                },
-                {
-                    "name": "Requirements:",
-                    "value": "• An entry ticket is required to enter a game of Fish Flingers"
-                },
-                {
+			"title": "Master Angler",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Master Angler](http://runescape.wikia.com/wiki/Master_Angler) is an achievement that requires the player to obtain the [Champion's tackle box](https://runescape.wikia.com/wiki/Champion%27s_tackle_box) from [Fish Flingers](https://runescape.wikia.com/wiki/Fish_Flingers). This requires a total of 1,860 [Tokens](https://runescape.wikia.com/wiki/Fish_Flingers#Tokens) and 500 [Medals](https://runescape.wikia.com/wiki/Fish_Flingers#Medals).\n\nFish Flingers takes place on [Isla Anglerine](https://runescape.wikia.com/wiki/Isla_Anglerine), which can be gotten to by talking to a [Fisherman](https://runescape.wikia.com/wiki/Fisherman_(Fish_Flingers). You can enter a competition by talking to a Fisherman every 20 minutes, the fisherman will offer to teleport you to the Isla Anglerine from 5 minutes before the start of a competition. Games will last 10 minutes, with a time of 10 minutes between each game. They can be found all over Gielinor next to the [yellow quest icon](https://vignette.wikia.nocookie.net/runescape2/images/0/07/D%26D_map_icon.png/revision/latest?cb=20160223204246) next to fishing spots.\n\n Players should utilize `FishFlingers` friend's chat to complete this requirement. Players will want to be in there during reset if they can, otherwise it’s a rather inactive minigame.\n\nYou can stock up to 15 [tickets](https://runescape.wikia.com/wiki/Fish_Flingers#Entry_tickets) total by talking to the fish master at any fishing location. You can get more tickets from fishing, but it’s slow and isn’t worth doing unless it’s your last requirement.\n\nA [Fish Flingers medal enhancer](https://runescape.wikia.com/wiki/Fish_flingers_medal_enhancer) can speed it up a bit, but it only doubles medals, not tokens. However, this allows you to [Quick cast](https://runescape.wikia.com/wiki/Fish_Flingers#Quick_casting) games once you receive all medals and it is a much less stressful playthrough.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [{
+					"name": "Medals and Tokens:",
+					"value": "Medals are given for the following achievements:\n• Junior Angler: Find the perfect tackle for three species.\n• Master Angler: Find the perfect tackle for all six species.\n• Whopper: Catch 3 big fish.\n• Team Player: Assist in catching at least 6 big fish.\n\nIt is highly recommended to use the [Alt1 application](https://runeapps.org/alt1) to quickly find the perfect tackle combination. Once you reach 500 medals, you’ll want to ignore going for medals and find the heaviest fish spot, which is called in the aforementioned friend's chat, and just quick cast that location. Meaning as soon as you get the message that you caught a fish, you cast again. This gives most tokens per games."
+				},
+				{
+					"name": "Requirements:",
+					"value": "• An entry ticket is required to enter a game of Fish Flingers"
+				},
+				{
 					"name": "Guide:",
 					"value": "• [Trimmed Completionist Guides - Fish Flingers! | Teh Proez - YouTube](https://www.youtube.com/watch?v=a7Ce0ZnlvYo)"
-                }
-            ],
-            "footer": {
-                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-                "text": "Runescore awarded: 30"
-            },
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 30"
+			},
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"master bogreman": {
 		"cmds": ["mqc"],
@@ -5610,8 +5386,7 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
+			"fields": [{
 					"name": "Requirements:",
 					"value": "• Ogre composite bow **or** Ogre bow\n• Ogre bellows\n• Bloated toads\n\n• Big Chompy Bird Hunting Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Big_Chompy_Bird_Hunting)"
 				},
@@ -5624,90 +5399,88 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 10"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"master otto": {
 		"cmds": ["trim"],
 		"embed": {
-            "title": "Master Otto",
-            "author": {
-                "name": "Cape Info",
-                "icon_url": "https://i.imgur.com/6c6q2iC.png"
-            },
-            "description": "[Master Otto](https://runescape.wikia.com/wiki/Master_Otto) is an achievement that requires the player to complete all of the [Barbarian Training](https://runescape.wikia.com/wiki/Barbarian_Training) with [Otto Godblessed](https://runescape.wikia.com/wiki/Otto_Godblessed). Barbarian Training is a set of expansions to Firemaking, Herblore, Fishing and Smithing. This activity also provides access to the [Ancient Cavern](https://runescape.wikia.com/wiki/Ancient_Cavern).",
-            "thumbnail": {
-                "url": "https://i.imgur.com/Shmagnp.png"
-            },
-            "fields": [
-                			{
-                    "name": "Start Point:",
-                    "value": "• Speak to Otto, located south-west of the Ancient Cavern entrance"
-      			},
-        		{
-                    "name": "Official Difficulty:",
-                    "value": "• None"
-        		},
-        		{
-                    "name": "Official Length:",
-                    "value": "• Medium"
-       			},
-        		{
-                    "name": "Items Required:",
-                    "value": "• 2 normal [Logs](https://runescape.wikia.com/wiki/Logs)\n• 2 [Bronze bars](https://runescape.wikia.com/wiki/Bronze_bar)\n• Some [Fishing bait](https://runescape.wikia.com/wiki/Fishing_bait)\n• A normal [Attack potion](https://runescape.wikia.com/wiki/Attack_potion) (2 doses) (You can buy all the ingredients for free from [Poletax's Herblore shop](https://runescape.wikia.com/wiki/Poletax%27s_Herblore_Shop) north-east of [Taverley](https://runescape.wikia.com/wiki/Taverley) lodestone)\n• [Roe](https://runescape.wikia.com/wiki/Roe) (obtained during Barbarian Fishing)\n• A [Shortbow](https://runescape.wikia.com/wiki/Shortbow)"
-        		},
-        		{
-                    "name": "Enemies to Defeat:",
-                    "value": "• None"
-        		},
-            {
-                    "name": "Requirements:",
-                    "value": "• 35 Firemaking\n• 11 Crafting\n• 55 Fishing\n• 15 Agility\n• 35 Strength\n• 5 Smithing\n• 4 Herblore\n\n• Tai Bwo Wannai Trio Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Tai_Bwo_Wannai_Trio)"
-                },
-                {
+			"title": "Master Otto",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Master Otto](https://runescape.wikia.com/wiki/Master_Otto) is an achievement that requires the player to complete all of the [Barbarian Training](https://runescape.wikia.com/wiki/Barbarian_Training) with [Otto Godblessed](https://runescape.wikia.com/wiki/Otto_Godblessed). Barbarian Training is a set of expansions to Firemaking, Herblore, Fishing and Smithing. This activity also provides access to the [Ancient Cavern](https://runescape.wikia.com/wiki/Ancient_Cavern).",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [{
+					"name": "Start Point:",
+					"value": "• Speak to Otto, located south-west of the Ancient Cavern entrance"
+				},
+				{
+					"name": "Official Difficulty:",
+					"value": "• None"
+				},
+				{
+					"name": "Official Length:",
+					"value": "• Medium"
+				},
+				{
+					"name": "Items Required:",
+					"value": "• 2 normal [Logs](https://runescape.wikia.com/wiki/Logs)\n• 2 [Bronze bars](https://runescape.wikia.com/wiki/Bronze_bar)\n• Some [Fishing bait](https://runescape.wikia.com/wiki/Fishing_bait)\n• A normal [Attack potion](https://runescape.wikia.com/wiki/Attack_potion) (2 doses) (You can buy all the ingredients for free from [Poletax's Herblore shop](https://runescape.wikia.com/wiki/Poletax%27s_Herblore_Shop) north-east of [Taverley](https://runescape.wikia.com/wiki/Taverley) lodestone)\n• [Roe](https://runescape.wikia.com/wiki/Roe) (obtained during Barbarian Fishing)\n• A [Shortbow](https://runescape.wikia.com/wiki/Shortbow)"
+				},
+				{
+					"name": "Enemies to Defeat:",
+					"value": "• None"
+				},
+				{
+					"name": "Requirements:",
+					"value": "• 35 Firemaking\n• 11 Crafting\n• 55 Fishing\n• 15 Agility\n• 35 Strength\n• 5 Smithing\n• 4 Herblore\n\n• Tai Bwo Wannai Trio Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Tai_Bwo_Wannai_Trio)"
+				},
+				{
 					"name": "Guide:",
 					"value": "• [Barbarian Training guide | Runescape Wiki](http://runescape.wikia.com/wiki/Barbarian_Training)"
-                }
-            ],
-            "footer": {
-                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-                "text": "Runescore awarded: 25"
-            },
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 25"
+			},
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"master of assault": {
 		"cmds": ["trim"],
 		"embed": {
-            "title": "Master of Assault",
-            "author": {
-                "name": "Cape Info",
-                "icon_url": "https://i.imgur.com/6c6q2iC.png"
-            },
-            "description": "[Master of Assault](https://runescape.wikia.com/wiki/Master_of_Assault) is an achievement that requires the player to play [Barbarian Assault](https://runescape.wikia.com/wiki/Barbarian_Assault) until they have achieved the maximum rank (5) in all of the roles: [Attacker](https://runescape.wikia.com/wiki/Barbarian_Assault#Attacker), [Collector](https://runescape.wikia.com/wiki/Barbarian_Assault#Collector), [Defender](https://runescape.wikia.com/wiki/Barbarian_Assault#Defender), and [Healer](https://runescape.wikia.com/wiki/Barbarian_Assault#Healer).\n\nPlayers may wish to utilize the friend's chat `ba teams` or the <#466104776204222465> tag in this server to help complete this requirement.\n\nThis should be completed in [Hard mode](https://runescape.wikia.com/wiki/Barbarian_Assault:_Hard_Mode) for maximum points per round. Barbarian Assault hard mode is unlocked permanently upon playing through all 10 waves of normal mode, killing the [Penance Queen](https://runescape.wikia.com/wiki/Penance_Queen) one time. After doing so, simply right-clicking a [recruitment scroll](https://runescape.wikia.com/wiki/Scroll_(Barbarian_Assault) in the staging area for Wave 1 will let a player select to activate hard mode. Hard mode can only be activated from the first room, but can be deactivated, at the cost of any progress, in any wave's staging area.",
-            "thumbnail": {
-                "url": "https://i.imgur.com/Shmagnp.png"
-            },
-            "fields": [
-                {
-                    "name": "Requirements:",
-                    "value": "• A high Defence and Constitution level is recommended"
-                },
-                {
-                    "name": "Guides:",
-                    "value": "• [Barbarian Assault Guide 2017 • Hard Mode Waves 1-9 • Defender | puretppc - YouTube](https://www.youtube.com/watch?v=03kTmys4DWI)\n• [Barbarian Assault Guide 2017 • Hard Mode Waves 1-9 • Collector | puretppc - YouTube](https://www.youtube.com/watch?v=1t_Q_bvd9Hc)\n• [Barbarian Assault Guide 2017 • Hard Mode Waves 1-9 • Healer | puretppc - YouTube](https://www.youtube.com/watch?v=8m2nmcGJE_8)\n• [Barbarian Assault Guide 2017 • Hard Mode Waves 1-9 • Attackers | puretppc - YouTube](https://www.youtube.com/watch?v=VJbNQqMxQSk)"
-                },
-                {
-                    "name": "Resources:",
-                    "value": "• [BA Teams Discord](https://discord.gg/XUuhc9y)\n• [Leech BA](https://discord.gg/XUuhc9y)"
-                }
-            ],
-            "footer": {
-                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-                "text": "Runescore awarded: 40"
-            },
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"title": "Master of Assault",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Master of Assault](https://runescape.wikia.com/wiki/Master_of_Assault) is an achievement that requires the player to play [Barbarian Assault](https://runescape.wikia.com/wiki/Barbarian_Assault) until they have achieved the maximum rank (5) in all of the roles: [Attacker](https://runescape.wikia.com/wiki/Barbarian_Assault#Attacker), [Collector](https://runescape.wikia.com/wiki/Barbarian_Assault#Collector), [Defender](https://runescape.wikia.com/wiki/Barbarian_Assault#Defender), and [Healer](https://runescape.wikia.com/wiki/Barbarian_Assault#Healer).\n\nPlayers may wish to utilize the friend's chat `ba teams` or the <#466104776204222465> tag in this server to help complete this requirement.\n\nThis should be completed in [Hard mode](https://runescape.wikia.com/wiki/Barbarian_Assault:_Hard_Mode) for maximum points per round. Barbarian Assault hard mode is unlocked permanently upon playing through all 10 waves of normal mode, killing the [Penance Queen](https://runescape.wikia.com/wiki/Penance_Queen) one time. After doing so, simply right-clicking a [recruitment scroll](https://runescape.wikia.com/wiki/Scroll_(Barbarian_Assault) in the staging area for Wave 1 will let a player select to activate hard mode. Hard mode can only be activated from the first room, but can be deactivated, at the cost of any progress, in any wave's staging area.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [{
+					"name": "Requirements:",
+					"value": "• A high Defence and Constitution level is recommended"
+				},
+				{
+					"name": "Guides:",
+					"value": "• [Barbarian Assault Guide 2017 • Hard Mode Waves 1-9 • Defender | puretppc - YouTube](https://www.youtube.com/watch?v=03kTmys4DWI)\n• [Barbarian Assault Guide 2017 • Hard Mode Waves 1-9 • Collector | puretppc - YouTube](https://www.youtube.com/watch?v=1t_Q_bvd9Hc)\n• [Barbarian Assault Guide 2017 • Hard Mode Waves 1-9 • Healer | puretppc - YouTube](https://www.youtube.com/watch?v=8m2nmcGJE_8)\n• [Barbarian Assault Guide 2017 • Hard Mode Waves 1-9 • Attackers | puretppc - YouTube](https://www.youtube.com/watch?v=VJbNQqMxQSk)"
+				},
+				{
+					"name": "Resources:",
+					"value": "• [BA Teams Discord](https://discord.gg/XUuhc9y)\n• [Leech BA](https://discord.gg/XUuhc9y)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 40"
+			},
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"master quester": {
 		"cmds": ["comp", "mqc"],
@@ -5721,8 +5494,7 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
+			"fields": [{
 					"name": "Requirements:",
 					"value": "• Attack 79\n• Constitution 80\n• Mining 80+\n• Strength 85+\n• Agility 80\n• Smithing 82+\n• Defence 80\n• Herblore 80\n• Fishing 72\n• Ranged 78\n• Thieving 74\n• Cooking 70+\n• Prayer 80\n• Crafting 80\n• Firemaking 76\n• Magic 81\n• Fletching 75\n• Woodcutting 80\n• Runecrafting 61+\n• Slayer 80\n• Farming 65+\n• Construction 79\n• Hunter 76\n• Summoning 75\n• Dungeoneering 75\n• Divination 80\n• Invention 1\n• Combat 112~"
 				},
@@ -5735,8 +5507,8 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 0"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"master skiller": {
 		"cmds": ["comp"],
@@ -5750,8 +5522,7 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
+			"fields": [{
 					"name": "Requirements:",
 					"value": "Currently the achievement requires level 99 in all skills, except Dungeoneering, Invention, and Slayer, which require level 120."
 				},
@@ -5764,33 +5535,31 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 0"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"mazcab telport": {
 		"cmds": ["trim"],
 		"embed": {
-            "title": "Mazcab Teleport",
-            "author": {
-                "name": "Cape Info",
-                "icon_url": "https://i.imgur.com/6c6q2iC.png"
-            },
-            "description": "[Mazcab Teleport](https://runescape.wikia.com/wiki/Mazcab_Teleport_(achievement) is an achievement that requires the player to unlock the [Mazcab Teleport spell](https://runescape.wikia.com/wiki/Mazcab_Teleport) by reading a [Mazcab teleport codex](https://runescape.wikia.com/wiki/Mazcab_teleport_codex). It can be bought from the [Armoursmith](https://runescape.wikia.com/wiki/Armoursmith) for 2,000 [Teci](https://runescape.wikia.com/wiki/Teci).\n\nTeci is the currency of the [Liberation of Mazcab](https://runescape.wikia.com/wiki/Liberation_of_Mazcab) Raid. It is obtained by defeating [Beastmaster Durzag](https://runescape.wikia.com/wiki/Beastmaster_Durzag) and [Yakamaru](https://runescape.wikia.com/wiki/Yakamaru).\n\nYou may post in the #436714722847621120 channel if you are in need of a Raids Team for this requirement.",
-            "thumbnail": {
-                "url": "https://i.imgur.com/Shmagnp.png"
-            },
-            "fields": [
-                {
-                    "name": "Requirements:",
-                    "value": "• 2000 Teci"
-                }
-            ],
-            "footer": {
-                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-                "text": "Runescore awarded: 15"
-            },
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"title": "Mazcab Teleport",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Mazcab Teleport](https://runescape.wikia.com/wiki/Mazcab_Teleport_(achievement) is an achievement that requires the player to unlock the [Mazcab Teleport spell](https://runescape.wikia.com/wiki/Mazcab_Teleport) by reading a [Mazcab teleport codex](https://runescape.wikia.com/wiki/Mazcab_teleport_codex). It can be bought from the [Armoursmith](https://runescape.wikia.com/wiki/Armoursmith) for 2,000 [Teci](https://runescape.wikia.com/wiki/Teci).\n\nTeci is the currency of the [Liberation of Mazcab](https://runescape.wikia.com/wiki/Liberation_of_Mazcab) Raid. It is obtained by defeating [Beastmaster Durzag](https://runescape.wikia.com/wiki/Beastmaster_Durzag) and [Yakamaru](https://runescape.wikia.com/wiki/Yakamaru).\n\nYou may post in the #436714722847621120 channel if you are in need of a Raids Team for this requirement.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [{
+				"name": "Requirements:",
+				"value": "• 2000 Teci"
+			}],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 15"
+			},
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"measure of old": {
 		"cmds": ["mqc"],
@@ -5804,18 +5573,16 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
-					"name": "Requirements:",
-					"value": "• Fate of the Gods Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Fate_of_the_Gods)"
-				}
-			],
+			"fields": [{
+				"name": "Requirements:",
+				"value": "• Fate of the Gods Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Fate_of_the_Gods)"
+			}],
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 10"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"meeting your idols": {
 		"cmds": ["mqc"],
@@ -5829,18 +5596,16 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
-					"name": "Requirements:",
-					"value": "• 81 Woodcutting"
-				}
-			],
+			"fields": [{
+				"name": "Requirements:",
+				"value": "• 81 Woodcutting"
+			}],
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 5"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"memoirs of a mahjarrat": {
 		"cmds": ["mqc"],
@@ -5854,28 +5619,27 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-							{
-                    "name": "Start Point:",
-                    "value": "• Speak to Kharshai under [Thorvald the Warrior](https://runescape.wikia.com/wiki/Thorvald_the_Warrior)'s house in [Rellekka](https://runescape.wikia.com/wiki/Rellekka)"
-      			},
-        		{
-                    "name": "Official Difficulty:",
-                    "value": "• None"
-        		},
-        		{
-                    "name": "Official Length:",
-                    "value": "• Very, Very Long"
-       			},
-        		{
-                    "name": "Items Required:",
-                    "value": "• 7500 [Vibrant memories](https://runescape.wikia.com/wiki/Vibrant_memory) (or memories of a higher tier); enriched memories count for double (collected during miniquest)\n• [Invitation box](https://runescape.wikia.com/wiki/Invitation_box) (for Sliske's memory)\n• [Insulated boots](https://runescape.wikia.com/wiki/Insulated_boots) (for Zemouregal's memory)\n• [Macaw pouch](https://runescape.wikia.com/wiki/Macaw_pouch) or [Ravenous locust pouch](https://runescape.wikia.com/wiki/Ravenous_locust_pouch) (for Zemouregal's memory)"
-        		},
-        		{
-                    "name": "Enemies to Defeat:",
-                    "value": "• None"
-        		},
-            {
+			"fields": [{
+					"name": "Start Point:",
+					"value": "• Speak to Kharshai under [Thorvald the Warrior](https://runescape.wikia.com/wiki/Thorvald_the_Warrior)'s house in [Rellekka](https://runescape.wikia.com/wiki/Rellekka)"
+				},
+				{
+					"name": "Official Difficulty:",
+					"value": "• None"
+				},
+				{
+					"name": "Official Length:",
+					"value": "• Very, Very Long"
+				},
+				{
+					"name": "Items Required:",
+					"value": "• 7500 [Vibrant memories](https://runescape.wikia.com/wiki/Vibrant_memory) (or memories of a higher tier); enriched memories count for double (collected during miniquest)\n• [Invitation box](https://runescape.wikia.com/wiki/Invitation_box) (for Sliske's memory)\n• [Insulated boots](https://runescape.wikia.com/wiki/Insulated_boots) (for Zemouregal's memory)\n• [Macaw pouch](https://runescape.wikia.com/wiki/Macaw_pouch) or [Ravenous locust pouch](https://runescape.wikia.com/wiki/Ravenous_locust_pouch) (for Zemouregal's memory)"
+				},
+				{
+					"name": "Enemies to Defeat:",
+					"value": "• None"
+				},
+				{
 					"name": "Requirements:",
 					"value": "• 60 Divination\n\n• Missing, Presumed Death Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Missing,_Presumed_Death)\n• Koschei's Troubles Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Koschei%27s_Troubles)"
 				},
@@ -5888,23 +5652,22 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 15"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"memorialised more than once": {
 		"cmds": ["trim"],
 		"embed": {
-            "title": "Memorialised More Than Once",
-            "author": {
-                "name": "Cape Info",
-                "icon_url": "https://i.imgur.com/6c6q2iC.png"
-            },
-            "description": "[Memorialised More Than Once](https://runescape.wikia.com/wiki/Memorialised_More_Than_Once) is an achievement that requires the player to complete the [Memorial to Guthix](https://runescape.wikia.com/wiki/Memorial_to_Guthix) [Distractions and Diversion](https://runescape.wikia.com/wiki/Distractions_and_Diversions) 3 times in order to unlock the ability to have four [Passive ability benefits](https://runescape.wikia.com/wiki/Memorial_to_Guthix#Benefits) active at once. \n\nThe memorial site is located in the [Piscatoris Hunter area](https://runescape.wikia.com/wiki/Piscatoris_Hunter_area), just north of the [Ferrets](https://runescape.wikia.com/wiki/Ferret) and [Nickolaus](https://runescape.wikia.com/wiki/Nickolaus)'s camp and just south of the [Phoenix Lair](https://runescape.wikia.com/wiki/Phoenix_Lair) and the [Airut](https://runescape.wikia.com/wiki/Airut). Players can teleport directly to the shrine through the use of [Memory strands](https://runescape.wikia.com/wiki/Memory_strand), [Sixth-Age circuit](https://runescape.wikia.com/wiki/Sixth-Age_circuit) and [Charged engrams](https://runescape.wikia.com/wiki/Engram).\n\nWhile training Divination outside of Dungeoneering, memory strands can be collected and stored in the currency pouch. The strands are stored automatically after adding the strands to the currency pouch for the first time. These strands can be combined with engrams which can be found all around Gielinor to create echoes. Echoes can be placed in the temple to unlock beneficial buffs, gain Divination experience, and reveal lore about Guthix's life on Gielinor.",
-            "thumbnail": {
-                "url": "https://i.imgur.com/Shmagnp.png"
-            },
-            "fields": [
-				{
+			"title": "Memorialised More Than Once",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Memorialised More Than Once](https://runescape.wikia.com/wiki/Memorialised_More_Than_Once) is an achievement that requires the player to complete the [Memorial to Guthix](https://runescape.wikia.com/wiki/Memorial_to_Guthix) [Distractions and Diversion](https://runescape.wikia.com/wiki/Distractions_and_Diversions) 3 times in order to unlock the ability to have four [Passive ability benefits](https://runescape.wikia.com/wiki/Memorial_to_Guthix#Benefits) active at once. \n\nThe memorial site is located in the [Piscatoris Hunter area](https://runescape.wikia.com/wiki/Piscatoris_Hunter_area), just north of the [Ferrets](https://runescape.wikia.com/wiki/Ferret) and [Nickolaus](https://runescape.wikia.com/wiki/Nickolaus)'s camp and just south of the [Phoenix Lair](https://runescape.wikia.com/wiki/Phoenix_Lair) and the [Airut](https://runescape.wikia.com/wiki/Airut). Players can teleport directly to the shrine through the use of [Memory strands](https://runescape.wikia.com/wiki/Memory_strand), [Sixth-Age circuit](https://runescape.wikia.com/wiki/Sixth-Age_circuit) and [Charged engrams](https://runescape.wikia.com/wiki/Engram).\n\nWhile training Divination outside of Dungeoneering, memory strands can be collected and stored in the currency pouch. The strands are stored automatically after adding the strands to the currency pouch for the first time. These strands can be combined with engrams which can be found all around Gielinor to create echoes. Echoes can be placed in the temple to unlock beneficial buffs, gain Divination experience, and reveal lore about Guthix's life on Gielinor.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [{
 					"name": "Engrams and Locations:",
 					"value": "• **Engram:** [Naragi](https://runescape.wikia.com/wiki/Naragi_engram)\n\t• **Location:** Given by Orla Fairweather during the tutorial. After each prestige it can be found in [Naragun](https://runescape.wikia.com/wiki/Naragun), north and then west from the [fairy ring](https://runescape.wikia.com/wiki/Fairy_ring) (**a•i•s**), on the floor of Guthix's house. Requires partial completion of [The World Wakes](https://runescape.wikia.com/wiki/The_World_Wakes) quest, up to the point where players visit Naragun with [Guthix](https://runescape.wikia.com/wiki/Guthix)"
 				},
@@ -5952,21 +5715,21 @@ exports.data = {
 					"name": "​",
 					"value": "• **Engram:** [Stone of Jas](https://runescape.wikia.com/wiki/Stone_of_Jas_engram)\n\t• **Location:** Found on a shelf on the northern wall of the [Fist of Guthix](https://runescape.wikia.com/wiki/Fist_of_Guthix) cave"
 				},
-                {
-                    "name": "Requirements:",
-                    "value": "•The World Wakes Quest (partial) completion | [Runescape Wiki](https://runescape.wikia.com/wiki/The_World_Wakes)\n•Fairy Tale II - Cure a Queen (started) | [Runescape Wiki](http://runescape.wikia.com/wiki/Fairy_Tale_II_-_Cure_a_Queen)"
-                },
-                {
+				{
+					"name": "Requirements:",
+					"value": "•The World Wakes Quest (partial) completion | [Runescape Wiki](https://runescape.wikia.com/wiki/The_World_Wakes)\n•Fairy Tale II - Cure a Queen (started) | [Runescape Wiki](http://runescape.wikia.com/wiki/Fairy_Tale_II_-_Cure_a_Queen)"
+				},
+				{
 					"name": "Guide:",
 					"value": "• [Memorial to Guthix guide | Runescape Wiki](https://runescape.wikia.com/wiki/Memorial_to_Guthix#Locations_and_buffs)"
-                }
-            ],
-            "footer": {
-                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-                "text": "Runescore awarded: 50"
-            },
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 50"
+			},
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"memories of guthix": {
 		"cmds": ["comp", "mqc"],
@@ -5980,8 +5743,7 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
+			"fields": [{
 					"name": "Engrams and Locations:",
 					"value": "• **Engram:** [Naragi](https://runescape.wikia.com/wiki/Naragi_engram)\n\t• **Location:** Given by Orla Fairweather during the tutorial. After each prestige it can be found in [Naragun](https://runescape.wikia.com/wiki/Naragun), north and then west from the [fairy ring](https://runescape.wikia.com/wiki/Fairy_ring) (**a•i•s**), on the floor of Guthix's house. Requires partial completion of [The World Wakes](https://runescape.wikia.com/wiki/The_World_Wakes) quest, up to the point where players visit Naragun with [Guthix](https://runescape.wikia.com/wiki/Guthix)"
 				},
@@ -6042,8 +5804,8 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 20"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"met het yet?": {
 		"cmds": ["mqc"],
@@ -6057,67 +5819,64 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
+			"fields": [{
+				"name": "Requirements:",
+				"value": "• Our Man in the North Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Our_Man_in_the_North)"
+			}],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 5"
+			},
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
+	},
+	"milk of chocolate, snape of grass": {
+		"cmds": ["trim"],
+		"embed": {
+			"title": "Milk of Chocolate, Snape of Grass",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Milk of Chocolate, Snape of Grass](https://runescape.wikia.com/wiki/Milk_of_Chocolate,_Snape_of_Grass) is an achievement that requires the player to sober up [Skippy](https://runescape.wikia.com/wiki/Skippy) by using a [Bucket of water](https://runescape.wikia.com/wiki/Bucket_of_water), [Nettle tea](https://runescape.wikia.com/wiki/Nettle_tea) and a [Hangover cure](https://runescape.wikia.com/wiki/Hangover_cure). This is made by mixing [Chocolate dust](https://runescape.wikia.com/wiki/Chocolate_dust) with a [Bucket of milk](https://runescape.wikia.com/wiki/Bucket_of_milk) to get [Chocolatey milk](https://runescape.wikia.com/wiki/Chocolatey_milk), then mixing it with [Snape grass](https://runescape.wikia.com/wiki/Snape_grass) on him.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [{
+					"name": "Start Point:",
+					"value": "• Speak to Skippy behind Hetty's house in [Rimmington](https://runescape.wikia.com/wiki/Rimmington)"
+				},
+				{
+					"name": "Official Difficulty:",
+					"value": "• None"
+				},
+				{
+					"name": "Official Length:",
+					"value": "• Short"
+				},
+				{
+					"name": "Items Required:",
+					"value": "• Hangover Cure"
+				},
+				{
+					"name": "Enemies to Defeat:",
+					"value": "• None"
+				},
 				{
 					"name": "Requirements:",
-					"value": "• Our Man in the North Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Our_Man_in_the_North)"
+					"value": "• 20 Cooking"
+				},
+				{
+					"name": "Guide:",
+					"value": "• [Morge Miniquest guide | Runescape Wiki](https://runescape.wikia.com/wiki/Mogre_(miniquest)"
 				}
 			],
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 5"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
-	},
-	"milk of chocolate, snape of grass": {
-		"cmds": ["trim"],
-		"embed": {
-            "title": "Milk of Chocolate, Snape of Grass",
-            "author": {
-                "name": "Cape Info",
-                "icon_url": "https://i.imgur.com/6c6q2iC.png"
-            },
-            "description": "[Milk of Chocolate, Snape of Grass](https://runescape.wikia.com/wiki/Milk_of_Chocolate,_Snape_of_Grass) is an achievement that requires the player to sober up [Skippy](https://runescape.wikia.com/wiki/Skippy) by using a [Bucket of water](https://runescape.wikia.com/wiki/Bucket_of_water), [Nettle tea](https://runescape.wikia.com/wiki/Nettle_tea) and a [Hangover cure](https://runescape.wikia.com/wiki/Hangover_cure). This is made by mixing [Chocolate dust](https://runescape.wikia.com/wiki/Chocolate_dust) with a [Bucket of milk](https://runescape.wikia.com/wiki/Bucket_of_milk) to get [Chocolatey milk](https://runescape.wikia.com/wiki/Chocolatey_milk), then mixing it with [Snape grass](https://runescape.wikia.com/wiki/Snape_grass) on him.",
-            "thumbnail": {
-                "url": "https://i.imgur.com/Shmagnp.png"
-            },
-            "fields": [
-                			{
-                    "name": "Start Point:",
-                    "value": "• Speak to Skippy behind Hetty's house in [Rimmington](https://runescape.wikia.com/wiki/Rimmington)"
-      			},
-        		{
-                    "name": "Official Difficulty:",
-                    "value": "• None"
-        		},
-        		{
-                    "name": "Official Length:",
-                    "value": "• Short"
-       			},
-        		{
-                    "name": "Items Required:",
-                    "value": "• Hangover Cure"
-        		},
-        		{
-                    "name": "Enemies to Defeat:",
-                    "value": "• None"
-        		},
-            {
-                    "name": "Requirements:",
-                    "value": "• 20 Cooking"
-                },
-                {
-					"name": "Guide:",
-					"value": "• [Morge Miniquest guide | Runescape Wiki](https://runescape.wikia.com/wiki/Mogre_(miniquest)"
-                }
-            ],
-            "footer": {
-                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-                "text": "Runescore awarded: 5"
-            },
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"milky teeth": {
 		"cmds": ["mqc"],
@@ -6131,18 +5890,16 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
-					"name": "Requirements:",
-					"value": "• 51 Hunter\n\n• Fairy Tale III - Orks Rift Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Fairy_Tale_III_-_Battle_at_Ork's_Rift)\n• The Dig Site Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Dig_Site)\n• Monkey Madness Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Monkey_Madness)\n• Lunar Diplomacy Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Lunar_Diplomacy)"
-				}
-			],
+			"fields": [{
+				"name": "Requirements:",
+				"value": "• 51 Hunter\n\n• Fairy Tale III - Orks Rift Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Fairy_Tale_III_-_Battle_at_Ork's_Rift)\n• The Dig Site Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Dig_Site)\n• Monkey Madness Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Monkey_Madness)\n• Lunar Diplomacy Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Lunar_Diplomacy)"
+			}],
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 10"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"miscellaneous notes": {
 		"cmds": ["mqc"],
@@ -6156,8 +5913,7 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
+			"fields": [{
 					"name": "​",
 					"value": "The [Portal notes](https://runescape.wikia.com/wiki/Portal_notes), [Scrap of parchment](https://runescape.wikia.com/wiki/Scrap_of_parchment), [Letter to an acolyte](https://runescape.wikia.com/wiki/Letter_to_an_acolyte), [Letter from brundt](https://runescape.wikia.com/wiki/Letter_from_brundt), and [Strange token](https://runescape.wikia.com/wiki/Strange_token), which are dropped by monsters on [Warped floors](https://runescape.wikia.com/wiki/Dungeoneering_floors#Warped_floors_.28m.29) are not requred for this achievement or cape.\n\nWearing the [Dungeoneering master cape](https://runescape.wikia.com/wiki/Dungeoneering_master_cape) will increase the chance of receiving lore drops while Dungeoneering."
 				},
@@ -6171,7 +5927,7 @@ exports.data = {
 					"value": "[Astea frostweb](http://runescape.wikia.com/wiki/Astea_frostweb)\n[Icy Bones](http://runescape.wikia.com/wiki/Icy_Bones)\n[Luminescent icefiend](http://runescape.wikia.com/wiki/Luminescent_icefiend)\n[Skeletal Horde](http://runescape.wikia.com/wiki/Skeletal_Horde)\n[Hobgoblin Geomancer](http://runescape.wikia.com/wiki/Hobgoblin_Geomancer)\n[Unholy cursebearer](http://runescape.wikia.com/wiki/Unholy_cursebearer)\n[Rammernaut](http://runescape.wikia.com/wiki/Rammernaut)\n[Lexicus Runewright](http://runescape.wikia.com/wiki/Lexicus_Runewright)\n[Sagittare](http://runescape.wikia.com/wiki/Sagittare)\n[Skeletal Trio](http://runescape.wikia.com/wiki/Skeletal_Trio)\n[Gravecreeper](http://runescape.wikia.com/wiki/Gravecreeper)\n[Necrolord](http://runescape.wikia.com/wiki/Necrolord)\n[Blink](http://runescape.wikia.com/wiki/Blink)\n[Warped Gulega](http://runescape.wikia.com/wiki/Warped_Gulega)\n[Dreadnaut](http://runescape.wikia.com/wiki/Dreadnaut)",
 					"inline": true
 				},
-        {
+				{
 					"name": "Requirements:",
 					"value": "• 95 Dungeoneering"
 				}
@@ -6180,8 +5936,8 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 15"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"mixing in ancient circles": {
 		"cmds": ["mqc"],
@@ -6195,59 +5951,56 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-        {
-					"name": "Requirements:",
-					"value": "• 35 Firemaking\n\n• Barbarian Firemaking Training partial completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Barbarian_Firemaking)"
-				}
-			],
+			"fields": [{
+				"name": "Requirements:",
+				"value": "• 35 Firemaking\n\n• Barbarian Firemaking Training partial completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Barbarian_Firemaking)"
+			}],
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 10"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"mobilise this": {
 		"cmds": ["trim"],
 		"embed": {
-            "title": "Mobilise This",
-            "author": {
-                "name": "Cape Info",
-                "icon_url": "https://i.imgur.com/6c6q2iC.png"
-            },
-            "description": "[Mobilise This](https://runescape.wikia.com/wiki/Mobilise_This) is an achievement that requires the player to achieve [Rank](https://runescape.wikia.com/wiki/Mobilising_Armies#Ranking_points) 401 in [Mobilising Armies](https://runescape.wikia.com/wiki/Mobilising_Armies) to unlock maximum access to the rewards. It is recommended to complete this requirment during its respective spotlight.\n\nThe [Mobilising Armies Command centre](https://runescape.wikia.com/wiki/Mobilising_Armies_Command_centre) is located just west of [Oo'glog](https://runescape.wikia.com/wiki/Oo%27glog). The easiest way to get there is by using the [Mobilising Armies teleport](https://runescape.wikia.com/wiki/Mobilising_Armies_Teleport), which will teleport the caster to the entrance. An alternative means of travel is a [Ring of duelling](https://runescape.wikia.com/wiki/Ring_of_duelling), which teleports directly to the Mobilising Armies entrance as well.\n\nTo start this game, players need to talk to [Junior Cadet Mal](https://runescape.wikia.com/wiki/Junior_Cadet_Mal) who is located near the entrance of the game. Players will then be taken through a tutorial where they will have to attack and defeat the enemy. Upon completing the tutorial, players can begin Mobilising Armies.\n\nThe easiest and only sensible way to complete this requirement is through boosting (guide below).",
-            "thumbnail": {
-                "url": "https://i.imgur.com/Shmagnp.png"
-            },
-            "fields": [
-                {
-                    "name": "​",
-                    "value": "A [Mobilising Armies point enhancer](https://runescape.wikia.com/wiki/Mobilising_armies_point_enhancer) can be used to complete this requirement faster. Only two enhancers are needed for a full completion. As this item cannot be taken into a game of Mobilising Armies, the enhancer functions while in the player's bank. It drains charges when they lose a game but still are eligible to receive rank points. This means the game must be at least 3 minutes per round and the other players don't forfeit. Instead of the usual 1 rank point gained from this situation, they receive double the amount, which is 2 rank points. Players can also receive double the rank points when winning a game, but only under specific win conditions. The enhancer starts with 100 charges, and one is used up whenever the rank gain is doubled. It disappears when all the charges have been used."
-                },
-                {
-                    "name": "​",
-                    "value": "The enhancer drains charges when players would normally gain rank points but have hit the 1 hour limit of 12 rank points. Therefore, it is advised to stop as soon as the 1 hour limit is reached and 24 points have been obtained, which is the maximum amount of points per hour. Also, the extra rank points gained with the enhancer do not count towards the limit."
-                },
-                {
-                    "name": "​",
-                    "value": "Mobilising Armies uses a currency called [Investment Credits](https://runescape.wikia.com/wiki/Mobilising_Armies#Investments). Players can exchange many items for credits. The maximum number of credits a player may have at one time is 500,000. For lists of items comparing market prices to credits see: [Mobilising Armies/Investments/0-K](https://runescape.wikia.com/wiki/Calculator:Mobilising_Armies/Investments/0%E2%80%93K) and [Mobilising Armies/Investments/L-Z](https://runescape.wikia.com/wiki/Calculator:Mobilising_Armies/Investments/L%E2%80%93Z)."
-                },
-                {
-                    "name": "Requirements:",
-                    "value": "• Investment credits"
-                },
-                {
+			"title": "Mobilise This",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Mobilise This](https://runescape.wikia.com/wiki/Mobilise_This) is an achievement that requires the player to achieve [Rank](https://runescape.wikia.com/wiki/Mobilising_Armies#Ranking_points) 401 in [Mobilising Armies](https://runescape.wikia.com/wiki/Mobilising_Armies) to unlock maximum access to the rewards. It is recommended to complete this requirment during its respective spotlight.\n\nThe [Mobilising Armies Command centre](https://runescape.wikia.com/wiki/Mobilising_Armies_Command_centre) is located just west of [Oo'glog](https://runescape.wikia.com/wiki/Oo%27glog). The easiest way to get there is by using the [Mobilising Armies teleport](https://runescape.wikia.com/wiki/Mobilising_Armies_Teleport), which will teleport the caster to the entrance. An alternative means of travel is a [Ring of duelling](https://runescape.wikia.com/wiki/Ring_of_duelling), which teleports directly to the Mobilising Armies entrance as well.\n\nTo start this game, players need to talk to [Junior Cadet Mal](https://runescape.wikia.com/wiki/Junior_Cadet_Mal) who is located near the entrance of the game. Players will then be taken through a tutorial where they will have to attack and defeat the enemy. Upon completing the tutorial, players can begin Mobilising Armies.\n\nThe easiest and only sensible way to complete this requirement is through boosting (guide below).",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [{
+					"name": "​",
+					"value": "A [Mobilising Armies point enhancer](https://runescape.wikia.com/wiki/Mobilising_armies_point_enhancer) can be used to complete this requirement faster. Only two enhancers are needed for a full completion. As this item cannot be taken into a game of Mobilising Armies, the enhancer functions while in the player's bank. It drains charges when they lose a game but still are eligible to receive rank points. This means the game must be at least 3 minutes per round and the other players don't forfeit. Instead of the usual 1 rank point gained from this situation, they receive double the amount, which is 2 rank points. Players can also receive double the rank points when winning a game, but only under specific win conditions. The enhancer starts with 100 charges, and one is used up whenever the rank gain is doubled. It disappears when all the charges have been used."
+				},
+				{
+					"name": "​",
+					"value": "The enhancer drains charges when players would normally gain rank points but have hit the 1 hour limit of 12 rank points. Therefore, it is advised to stop as soon as the 1 hour limit is reached and 24 points have been obtained, which is the maximum amount of points per hour. Also, the extra rank points gained with the enhancer do not count towards the limit."
+				},
+				{
+					"name": "​",
+					"value": "Mobilising Armies uses a currency called [Investment Credits](https://runescape.wikia.com/wiki/Mobilising_Armies#Investments). Players can exchange many items for credits. The maximum number of credits a player may have at one time is 500,000. For lists of items comparing market prices to credits see: [Mobilising Armies/Investments/0-K](https://runescape.wikia.com/wiki/Calculator:Mobilising_Armies/Investments/0%E2%80%93K) and [Mobilising Armies/Investments/L-Z](https://runescape.wikia.com/wiki/Calculator:Mobilising_Armies/Investments/L%E2%80%93Z)."
+				},
+				{
+					"name": "Requirements:",
+					"value": "• Investment credits"
+				},
+				{
 					"name": "Guide:",
 					"value": "• [Trimmed Completionist Guides - Mobilising Armies! | Teh Proez - YouTube](https://www.youtube.com/watch?v=_bbYbB01_68)"
-                }
-            ],
-            "footer": {
-                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-                "text": "Runescore awarded: 15"
-            },
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 15"
+			},
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"music maestro": {
 		"cmds": ["comp"],
@@ -6261,8 +6014,7 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
+			"fields": [{
 					"name": "Requirements:",
 					"value": "• **80 Agility** for The Light Within Quest\n• **80 Attack** for Heart of Gielinor (Vindicta, Telos)\n• **80 Constitution** for River of Blood Quest\n• **79 Construction** for The Lord of Vampyrium Quest\n• **70 Cooking** for Recipe for Disaster: Freeing King Awowogei Quest (required for completing Ritual of the Mahjarrat Quest)\n• **80 Crafting** for The Light Within Quest\n• **76 Defence** for A Clockwork Syringe Quest\n• **80 Divination** for The Light Within Quest\n• **113 Dungeoneering** for Daemonheim (Kal'Ger the Warmonger)\n• **65 Farming** for While Guthix Sleeps Quest\n• **76 Firemaking** for River of Blood Quest\n• **70 Fishing** for Deadliest Catch Quest\n• **75 Fletching** for River of Blood Quest\n• **80 Herblore** for The Light Within Quest and River of Blood Quest\n• **76 Hunter** for The Lord of Vampyrium Quest\n• **1 Invention** for Invention Guild\n• **81 Magic** for One of a Kind Quest\n• **80 Mining** for Birthright of the Dwarves Quest"
 				},
@@ -6279,8 +6031,8 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 0"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"my adze is bigger than yours": {
 		"cmds": ["mqc"],
@@ -6294,18 +6046,16 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-        {
-					"name": "Requirements:",
-					"value": "• 92 Firemaking\n• 64 Agility\n• 59 Construction\n• 70 Smithing\n• 60 Crafting\n• 31 Prayer\n\n• All Fired Up Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/All_Fired_Up)\n• Land of the Goblins Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Land_of_the_Goblins)\n• Troll Stronghold Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Troll_Stronghold)\n\n• Inferno adze"
-				}
-			],
+			"fields": [{
+				"name": "Requirements:",
+				"value": "• 92 Firemaking\n• 64 Agility\n• 59 Construction\n• 70 Smithing\n• 60 Crafting\n• 31 Prayer\n\n• All Fired Up Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/All_Fired_Up)\n• Land of the Goblins Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Land_of_the_Goblins)\n• Troll Stronghold Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Troll_Stronghold)\n\n• Inferno adze"
+			}],
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 25"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"myreque in memoriam": {
 		"cmds": ["comp", "mqc"],
@@ -6319,28 +6069,27 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-							{
-                    "name": "Start Point:",
-                    "value": "• Speak to [Veliaf Hurtz](https://runescape.wikia.com/wiki/Veliaf_Hurtz), north-west of the [Canifis](https://runescape.wikia.com/wiki/Canifis) lodestone"
-      			},
-        		{
-                    "name": "Official Difficulty:",
-                    "value": "• None"
-        		},
-        		{
-                    "name": "Official Length:",
-                    "value": "• Long"
-       			},
-        		{
-                    "name": "Items Required:",
-                    "value": "• 10x [Blisterwood sickles](https://runescape.wikia.com/wiki/Blisterwood_sickle)\n• 20x [Granite (5kg)](https://runescape.wikia.com/wiki/Granite_(5kg)\n• [Blamish blue shell (pointed)](https://runescape.wikia.com/wiki/Blamish_blue_shell_(pointed)\n• [Nail beast nails](https://runescape.wikia.com/wiki/Nail_beast_nails)\n• [Snakeskin body](https://runescape.wikia.com/wiki/Snakeskin_body)\n• [Ivandis flail](https://runescape.wikia.com/wiki/Ivandis_flail)\n• [Rune boots](https://runescape.wikia.com/wiki/Rune_boots)\n• [Mort myre pear](https://runescape.wikia.com/wiki/Mort_myre_pear)\n• [Moonlight mead](https://runescape.wikia.com/wiki/Moonlight_mead)\n• [Blisterwood stake-thrower crossbow](https://runescape.wikia.com/wiki/Blisterwood_stake-thrower_crossbow)\n• [Histories of the Hallowland](https://runescape.wikia.com/wiki/Histories_of_the_Hallowland)\n• [Holy water](https://runescape.wikia.com/wiki/Holy_water)"
-        		},
-        		{
-                    "name": "Enemies to Defeat:",
-                    "value": "• None"
-        		},
-            {
+			"fields": [{
+					"name": "Start Point:",
+					"value": "• Speak to [Veliaf Hurtz](https://runescape.wikia.com/wiki/Veliaf_Hurtz), north-west of the [Canifis](https://runescape.wikia.com/wiki/Canifis) lodestone"
+				},
+				{
+					"name": "Official Difficulty:",
+					"value": "• None"
+				},
+				{
+					"name": "Official Length:",
+					"value": "• Long"
+				},
+				{
+					"name": "Items Required:",
+					"value": "• 10x [Blisterwood sickles](https://runescape.wikia.com/wiki/Blisterwood_sickle)\n• 20x [Granite (5kg)](https://runescape.wikia.com/wiki/Granite_(5kg)\n• [Blamish blue shell (pointed)](https://runescape.wikia.com/wiki/Blamish_blue_shell_(pointed)\n• [Nail beast nails](https://runescape.wikia.com/wiki/Nail_beast_nails)\n• [Snakeskin body](https://runescape.wikia.com/wiki/Snakeskin_body)\n• [Ivandis flail](https://runescape.wikia.com/wiki/Ivandis_flail)\n• [Rune boots](https://runescape.wikia.com/wiki/Rune_boots)\n• [Mort myre pear](https://runescape.wikia.com/wiki/Mort_myre_pear)\n• [Moonlight mead](https://runescape.wikia.com/wiki/Moonlight_mead)\n• [Blisterwood stake-thrower crossbow](https://runescape.wikia.com/wiki/Blisterwood_stake-thrower_crossbow)\n• [Histories of the Hallowland](https://runescape.wikia.com/wiki/Histories_of_the_Hallowland)\n• [Holy water](https://runescape.wikia.com/wiki/Holy_water)"
+				},
+				{
+					"name": "Enemies to Defeat:",
+					"value": "• None"
+				},
+				{
 					"name": "Requirements:",
 					"value": "• Lord of Vampyrium Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Lord_of_Vampyrium)"
 				},
@@ -6353,359 +6102,348 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 15"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"mysteries of the tokhaar": {
 		"cmds": ["mqc"],
 		"embed": {
-            "title": "Mysteries of the TokHaar",
-            "author": {
-                "name": "Cape Info",
-                "icon_url": "https://i.imgur.com/6c6q2iC.png"
-            },
-            "description": "[Mysteries of the TokHaar](http://runescape.wikia.com/wiki/Mysteries_of_the_TokHaar) is an achievement that requires the player to have fully interacted with and claimed the experience from the [Mysterious statues](http://runescape.wikia.com/wiki/Mysterious_statue) and the [Submerged statue](http://runescape.wikia.com/wiki/Submerged_statue) after completion of the [One of a Kind](https://runescape.wikia.com/wiki/One_of_a_Kind) quest.\n\nIf the statue west of the [Brimhaven](http://runescape.wikia.com/wiki/Brimhaven) [player-owned house](https://runescape.wikia.com/wiki/Player-owned_house) portal cannot be spoken to, then acquire another [Animate Rock scroll](http://runescape.wikia.com/wiki/Animate_Rock_scroll) from the One of a Kind quest by going back to [Robert the Strong's Library](https://runescape.wikia.com/wiki/Robert_the_Strong%27s_library) underneath [Unferth](http://runescape.wikia.com/wiki/Animate_Rock_scroll)'s house in [Burthorpe](https://runescape.wikia.com/wiki/Burthorpe). Click on the weapons rack near the stairs to obtain [Iron oxide](http://runescape.wikia.com/wiki/Iron_oxide), and use an [emerald](https://runescape.wikia.com/wiki/Emerald) on it to create another scroll.",
-            "thumbnail": {
-                "url": "https://i.imgur.com/Shmagnp.png"
-            },
-            "fields": [
-                {
-                  "name": "Statue:",
-                  "value": "Mysterious statue\nMysterious statue\nMysterious statue\nMysterious statue\nSubmerged statue",
-                  "inline": true
-                },
-                {
-                  "name": "Location:",
-                  "value": "East of [Seers' Village](http://runescape.wikia.com/wiki/Seers%27_Village) bank\nSouth of the [Fishing Guild](http://runescape.wikia.com/wiki/Fishing_Guild)\nNorth of the [Tower of Life](http://runescape.wikia.com/wiki/Tower_of_Life_(building%29)\nWest of the [Brimhaven](http://runescape.wikia.com/wiki/Brimhaven) [POH portal](http://runescape.wikia.com/wiki/POH_portal)\nNorth-west corner of [Entrana](http://runescape.wikia.com/wiki/Entrana)",
-                  "inline": true
-                },
-                {
-                    "name": "Requirements:",
-                    "value": "• One of a Kind Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/One_of_a_Kind)"
-                }
-            ],
-            "footer": {
-                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-                "text": "Runescore awarded: 15"
-            },
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"title": "Mysteries of the TokHaar",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Mysteries of the TokHaar](http://runescape.wikia.com/wiki/Mysteries_of_the_TokHaar) is an achievement that requires the player to have fully interacted with and claimed the experience from the [Mysterious statues](http://runescape.wikia.com/wiki/Mysterious_statue) and the [Submerged statue](http://runescape.wikia.com/wiki/Submerged_statue) after completion of the [One of a Kind](https://runescape.wikia.com/wiki/One_of_a_Kind) quest.\n\nIf the statue west of the [Brimhaven](http://runescape.wikia.com/wiki/Brimhaven) [player-owned house](https://runescape.wikia.com/wiki/Player-owned_house) portal cannot be spoken to, then acquire another [Animate Rock scroll](http://runescape.wikia.com/wiki/Animate_Rock_scroll) from the One of a Kind quest by going back to [Robert the Strong's Library](https://runescape.wikia.com/wiki/Robert_the_Strong%27s_library) underneath [Unferth](http://runescape.wikia.com/wiki/Animate_Rock_scroll)'s house in [Burthorpe](https://runescape.wikia.com/wiki/Burthorpe). Click on the weapons rack near the stairs to obtain [Iron oxide](http://runescape.wikia.com/wiki/Iron_oxide), and use an [emerald](https://runescape.wikia.com/wiki/Emerald) on it to create another scroll.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [{
+					"name": "Statue:",
+					"value": "Mysterious statue\nMysterious statue\nMysterious statue\nMysterious statue\nSubmerged statue",
+					"inline": true
+				},
+				{
+					"name": "Location:",
+					"value": "East of [Seers' Village](http://runescape.wikia.com/wiki/Seers%27_Village) bank\nSouth of the [Fishing Guild](http://runescape.wikia.com/wiki/Fishing_Guild)\nNorth of the [Tower of Life](http://runescape.wikia.com/wiki/Tower_of_Life_(building%29)\nWest of the [Brimhaven](http://runescape.wikia.com/wiki/Brimhaven) [POH portal](http://runescape.wikia.com/wiki/POH_portal)\nNorth-west corner of [Entrana](http://runescape.wikia.com/wiki/Entrana)",
+					"inline": true
+				},
+				{
+					"name": "Requirements:",
+					"value": "• One of a Kind Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/One_of_a_Kind)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 15"
+			},
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"nano to kipple, come in kipple": {
 		"cmds": ["mqc"],
 		"embed": {
-            "title": "Nano To Kipple, Come In Kipple",
-            "author": {
-                "name": "Cape Info",
-                "icon_url": "https://i.imgur.com/6c6q2iC.png"
-            },
-              "description": "[Nano To Kipple, Come In Kipple](http://runescape.wikia.com/wiki/Nano_To_Kipple,_Come_In_Kipple) is an achievement that requires the player to talk to [Ariane](http://runescape.wikia.com/wiki/Ariane) at the [Wizards' Tower](http://runescape.wikia.com/wiki/Wizards%27_Tower) to claim the [Kipple Nano](http://runescape.wikia.com/wiki/Kipple_Nano) pet after completion of [Heart of Stone](https://runescape.wikia.com/wiki/Heart_of_Stone).\n\nThe immense tower is located on a small island south of [Draynor Village](http://runescape.wikia.com/wiki/Draynor_Village), connected to the mainland by an exquisite bridge. A [Fairy ring](http://runescape.wikia.com/wiki/Fairy_ring) with the code **d•i•s** is located directly south of the tower. It can also be accessed by entering the eastern portal on the second floor of the [Wizards' Guild](http://runescape.wikia.com/wiki/Wizards%27_Guild).",
-            "thumbnail": {
-                "url": "https://i.imgur.com/Shmagnp.png"
-            },
-            "fields": [
-                {
-                    "name": "Requirements:",
-                    "value": "• Heart of Stone Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Heart_of_Stone)"
-                }
-            ],
-            "footer": {
-                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-                "text": "Runescore awarded: 5"
-            },
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"title": "Nano To Kipple, Come In Kipple",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Nano To Kipple, Come In Kipple](http://runescape.wikia.com/wiki/Nano_To_Kipple,_Come_In_Kipple) is an achievement that requires the player to talk to [Ariane](http://runescape.wikia.com/wiki/Ariane) at the [Wizards' Tower](http://runescape.wikia.com/wiki/Wizards%27_Tower) to claim the [Kipple Nano](http://runescape.wikia.com/wiki/Kipple_Nano) pet after completion of [Heart of Stone](https://runescape.wikia.com/wiki/Heart_of_Stone).\n\nThe immense tower is located on a small island south of [Draynor Village](http://runescape.wikia.com/wiki/Draynor_Village), connected to the mainland by an exquisite bridge. A [Fairy ring](http://runescape.wikia.com/wiki/Fairy_ring) with the code **d•i•s** is located directly south of the tower. It can also be accessed by entering the eastern portal on the second floor of the [Wizards' Guild](http://runescape.wikia.com/wiki/Wizards%27_Guild).",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [{
+				"name": "Requirements:",
+				"value": "• Heart of Stone Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Heart_of_Stone)"
+			}],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 5"
+			},
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"naturally muspah": {
 		"cmds": ["mqc"],
 		"embed": {
-            "title": "Naturally Muspah",
-            "author": {
-                "name": "Cape Info",
-                "icon_url": "https://i.imgur.com/6c6q2iC.png"
-            },
-              "description": "[Naturally Muspah](http://runescape.wikia.com/wiki/Naturally_Muspah) is an achievement that requires the player to answer the questions of the [Natural historian](http://runescape.wikia.com/wiki/Natural_historian_(Rellekka_Hunter_area%29) in the [Rellekka Hunter area](http://runescape.wikia.com/wiki/Rellekka_Hunter_area) after completing [The Tale of the Muspah](https://runescape.wikia.com/wiki/The_Tale_of_the_Muspah). He is located on the iceberg where [Polar Kebbit](https://runescape.wikia.com/wiki/Polar_Kebbit) are located, normally on the eastern pathway.\n\nThe Rellekka Hunter area is located northeast of [Rellekka](http://runescape.wikia.com/wiki/Rellekka), near the entrance to the dwarven city of [Keldagrim](http://runescape.wikia.com/wiki/Keldagrim).\n\nThe answers are:\n\n1. It's yellow.\n2. It has 4 arms.\n 3. It has no legs, like a snail.\n 4. It has spikes, which run down its spine.\n 5. It has a spiky tail with vicious spines.\n 6. It has pincers, like a crab.",
-            "thumbnail": {
-                "url": "https://i.imgur.com/Shmagnp.png"
-            },
-            "fields": [
-                {
-                    "name": "Requirements:",
-                    "value": "• The Tale of the Muspah Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Tale_of_the_Muspah)"
-                }
-            ],
-            "footer": {
-                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-                "text": "Runescore awarded: 10"
-            },
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"title": "Naturally Muspah",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Naturally Muspah](http://runescape.wikia.com/wiki/Naturally_Muspah) is an achievement that requires the player to answer the questions of the [Natural historian](http://runescape.wikia.com/wiki/Natural_historian_(Rellekka_Hunter_area%29) in the [Rellekka Hunter area](http://runescape.wikia.com/wiki/Rellekka_Hunter_area) after completing [The Tale of the Muspah](https://runescape.wikia.com/wiki/The_Tale_of_the_Muspah). He is located on the iceberg where [Polar Kebbit](https://runescape.wikia.com/wiki/Polar_Kebbit) are located, normally on the eastern pathway.\n\nThe Rellekka Hunter area is located northeast of [Rellekka](http://runescape.wikia.com/wiki/Rellekka), near the entrance to the dwarven city of [Keldagrim](http://runescape.wikia.com/wiki/Keldagrim).\n\nThe answers are:\n\n1. It's yellow.\n2. It has 4 arms.\n 3. It has no legs, like a snail.\n 4. It has spikes, which run down its spine.\n 5. It has a spiky tail with vicious spines.\n 6. It has pincers, like a crab.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [{
+				"name": "Requirements:",
+				"value": "• The Tale of the Muspah Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Tale_of_the_Muspah)"
+			}],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 10"
+			},
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"nomad's genesis": {
 		"cmds": ["mqc", "trim"],
 		"embed": {
-            "title": "Nomad's Genesis",
-            "author": {
-                "name": "Cape Info",
-                "icon_url": "https://i.imgur.com/6c6q2iC.png"
-            },
-              "description": "[Nomad's Genesis](http://runescape.wikia.com/wiki/Nomad%27s_Genesis) is an achievement that requires the player to complete the [Tales of Nomad](https://runescape.wikia.com/wiki/Tales_of_Nomad) miniquest. Tales of Nomad is a miniquest chronicling [Nomad](https://runescape.wikia.com/wiki/Nomad)'s life. It takes place after [Nomad's Elegy](https://runescape.wikia.com/wiki/Nomad%27s_Elegy) and tells his story via static scenes from his life found at various locations indicated by cryptic hints. Most of the narrative is revealed through examine texts.",
-            "thumbnail": {
-                "url": "https://i.imgur.com/Shmagnp.png"
-            },
-            "fields": [
-                {
-                    "name": "Memory Locations:",
-                    "value": "Memory #1\n\t• **Location:** By the graves near the yew trees in [Edgeville](https://runescape.wikia.com/wiki/Edgeville), south of the bank."
-      			},
-      			{
-                    "name": "​",
-                    "value": "Memory #2\n\t• **Location:** West of [Aubury's rune shop](https://runescape.wikia.com/wiki/Aubury%27s_Rune_Shop) in [Varrock](https://runescape.wikia.com/wiki/Varrock), east of the [Blue Moon Inn](https://runescape.wikia.com/wiki/Blue_Moon_Inn)."
-      			},
-      			{
-                    "name": "​",
-                    "value": "Memory #3\n\t• **Location:** At the [Ourania altar](https://runescape.wikia.com/wiki/Ourania_Runecrafting_Altar), near the altar itself at the end of the tunnel."
-      			},
-      			{
-                    "name": "​",
-                    "value": "Memory #4\n\t• **Location:** [Nomad's temple](https://runescape.wikia.com/wiki/Nomad%27s_temple) - enter the tent in the [Soul Wars](https://runescape.wikia.com/wiki/Soul_Wars) lobby area. After [Nomad's Elegy](https://runescape.wikia.com/wiki/Nomad%27s_Elegy) talk to [Zanik](https://runescape.wikia.com/wiki/Zanik) / [Zimberfizz ashes](https://runescape.wikia.com/wiki/Zimberfizz_ashes) about the [soul obelisk](https://runescape.wikia.com/wiki/Soul_obelisk_(Soul_Wars) to re-enter."
-      			},
-      			{
-                    "name": "​",
-                    "value": "Memory #5\n\t• **Location:** In [Dragith Nurn](https://runescape.wikia.com/wiki/Dragith_Nurn)'s chamber at the end of the [Lumbridge Catacombs](https://runescape.wikia.com/wiki/Lumbridge_Catacombs)."
-      			},
-      			{
-                    "name": "​",
-                    "value": "Memory #6\n\t• **Location:** Near the small guard house just outside of the east gate in to Varrock."
-      			},
-      			{
-                    "name": "​",
-                    "value": "Memory #7\n\t• **Location:** Between the two graveyards in the Soul Wars lobby."
-      			},
-      			{
-                    "name": "​",
-                    "value": "Memory #8\n\t• **Location:** Nomad's temple - enter the tent in the Soul Wars lobby area. After Nomad's Elegy talk to Zanik/Zimberfizz ashes about the soul obelisk to re-enter."
-      			},
-      			{
-                    "name": "​",
-                    "value": "Memory #9\n\t• **Location:** [Falador castle](https://runescape.wikia.com/wiki/White_Knights%27_Castle) courtyard, in the south-west area."
-      			},
-      			{
-                    "name": "​",
-                    "value": "Memory #10\n\t• **Location:** Just west of the entrance to the [Black Knight's Fortress](https://runescape.wikia.com/wiki/Black_Knights'_Fortress)."
-      			},
-      			{
-                    "name": "​",
-                    "value": "Memory #11\n\t• **Location:** Near the [incandescent wisps](https://runescape.wikia.com/wiki/Incandescent_wisp) south of the [poison wastes](https://runescape.wikia.com/wiki/Poison_Waste) - on the northern shore, slightly west of the crater."
-      			},
-      			{
-                    "name": "​",
-                    "value": "Memory #12\n\t• **Location:** Return to the underworld where the miniquest started."
-      			},
-      			{
-                    "name": "Start Point:",
-                    "value": "• Sift through Nomad's memory in the [Grim Underworld](https://runescape.wikia.com/wiki/Grim_Underworld) on the western side of the lower level, before the bridge. Players can return to the Underworld by passing through the door in [Death's office](https://runescape.wikia.com/wiki/Death%27s_office)"
-      			},
-        		{
-                    "name": "Official Difficulty:",
-                    "value": "• None"
-        		},
-        		{
-                    "name": "Official Length:",
-                    "value": "• Short"
-       			},
-        		{
-                    "name": "Items Required:",
-                    "value": "• None"
-        		},
-        		{
-                    "name": "Enemies to Defeat:",
-                    "value": "• None"
-        		},
-                {
-                    "name": "Requirements:",
-                    "value": "• Nomad's Elegy Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Tale_of_the_Muspah)"
-                },
-                {
+			"title": "Nomad's Genesis",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Nomad's Genesis](http://runescape.wikia.com/wiki/Nomad%27s_Genesis) is an achievement that requires the player to complete the [Tales of Nomad](https://runescape.wikia.com/wiki/Tales_of_Nomad) miniquest. Tales of Nomad is a miniquest chronicling [Nomad](https://runescape.wikia.com/wiki/Nomad)'s life. It takes place after [Nomad's Elegy](https://runescape.wikia.com/wiki/Nomad%27s_Elegy) and tells his story via static scenes from his life found at various locations indicated by cryptic hints. Most of the narrative is revealed through examine texts.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [{
+					"name": "Memory Locations:",
+					"value": "Memory #1\n\t• **Location:** By the graves near the yew trees in [Edgeville](https://runescape.wikia.com/wiki/Edgeville), south of the bank."
+				},
+				{
+					"name": "​",
+					"value": "Memory #2\n\t• **Location:** West of [Aubury's rune shop](https://runescape.wikia.com/wiki/Aubury%27s_Rune_Shop) in [Varrock](https://runescape.wikia.com/wiki/Varrock), east of the [Blue Moon Inn](https://runescape.wikia.com/wiki/Blue_Moon_Inn)."
+				},
+				{
+					"name": "​",
+					"value": "Memory #3\n\t• **Location:** At the [Ourania altar](https://runescape.wikia.com/wiki/Ourania_Runecrafting_Altar), near the altar itself at the end of the tunnel."
+				},
+				{
+					"name": "​",
+					"value": "Memory #4\n\t• **Location:** [Nomad's temple](https://runescape.wikia.com/wiki/Nomad%27s_temple) - enter the tent in the [Soul Wars](https://runescape.wikia.com/wiki/Soul_Wars) lobby area. After [Nomad's Elegy](https://runescape.wikia.com/wiki/Nomad%27s_Elegy) talk to [Zanik](https://runescape.wikia.com/wiki/Zanik) / [Zimberfizz ashes](https://runescape.wikia.com/wiki/Zimberfizz_ashes) about the [soul obelisk](https://runescape.wikia.com/wiki/Soul_obelisk_(Soul_Wars) to re-enter."
+				},
+				{
+					"name": "​",
+					"value": "Memory #5\n\t• **Location:** In [Dragith Nurn](https://runescape.wikia.com/wiki/Dragith_Nurn)'s chamber at the end of the [Lumbridge Catacombs](https://runescape.wikia.com/wiki/Lumbridge_Catacombs)."
+				},
+				{
+					"name": "​",
+					"value": "Memory #6\n\t• **Location:** Near the small guard house just outside of the east gate in to Varrock."
+				},
+				{
+					"name": "​",
+					"value": "Memory #7\n\t• **Location:** Between the two graveyards in the Soul Wars lobby."
+				},
+				{
+					"name": "​",
+					"value": "Memory #8\n\t• **Location:** Nomad's temple - enter the tent in the Soul Wars lobby area. After Nomad's Elegy talk to Zanik/Zimberfizz ashes about the soul obelisk to re-enter."
+				},
+				{
+					"name": "​",
+					"value": "Memory #9\n\t• **Location:** [Falador castle](https://runescape.wikia.com/wiki/White_Knights%27_Castle) courtyard, in the south-west area."
+				},
+				{
+					"name": "​",
+					"value": "Memory #10\n\t• **Location:** Just west of the entrance to the [Black Knight's Fortress](https://runescape.wikia.com/wiki/Black_Knights'_Fortress)."
+				},
+				{
+					"name": "​",
+					"value": "Memory #11\n\t• **Location:** Near the [incandescent wisps](https://runescape.wikia.com/wiki/Incandescent_wisp) south of the [poison wastes](https://runescape.wikia.com/wiki/Poison_Waste) - on the northern shore, slightly west of the crater."
+				},
+				{
+					"name": "​",
+					"value": "Memory #12\n\t• **Location:** Return to the underworld where the miniquest started."
+				},
+				{
+					"name": "Start Point:",
+					"value": "• Sift through Nomad's memory in the [Grim Underworld](https://runescape.wikia.com/wiki/Grim_Underworld) on the western side of the lower level, before the bridge. Players can return to the Underworld by passing through the door in [Death's office](https://runescape.wikia.com/wiki/Death%27s_office)"
+				},
+				{
+					"name": "Official Difficulty:",
+					"value": "• None"
+				},
+				{
+					"name": "Official Length:",
+					"value": "• Short"
+				},
+				{
+					"name": "Items Required:",
+					"value": "• None"
+				},
+				{
+					"name": "Enemies to Defeat:",
+					"value": "• None"
+				},
+				{
+					"name": "Requirements:",
+					"value": "• Nomad's Elegy Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Tale_of_the_Muspah)"
+				},
+				{
 					"name": "Guide:",
 					"value": "• [Tales of Nomad Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Tales_of_Nomad)"
-                }
-            ],
-            "footer": {
-                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-                "text": "Runescore awarded: 15"
-            },
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 15"
+			},
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"nomad's mirage": {
 		"cmds": ["trim"],
 		"embed": {
-            "title": "Nomad's Mirage",
-            "author": {
-                "name": "Cape Info",
-                "icon_url": "https://i.imgur.com/6c6q2iC.png"
-            },
-            "description": "[Nomad's Mirage](http://runescape.wikia.com/wiki/Nomad%27s_Mirage) is an achievement that requires the player to defeat the [Memory of Nomad](https://runescape.wikia.com/wiki/Memory_of_Nomad) and loot the chest thereafter.\n\nIf you struggle with this fight, it is advised to bring a [Pack Mammoth](https://runescape.wikia.com/wiki/Pack_mammoth) and [Mammoth feast scrolls](https://runescape.wikia.com/wiki/Mammoth_feast_scroll) for eating, as this uses no [adreniline](https://runescape.wikia.com/wiki/Adrenaline) and consequently allows more damage per second. Also, remember to utilize [Devotion](https://runescape.wikia.com/wiki/Devotion), [Barricade](https://runescape.wikia.com/wiki/Barricade), and [Debilitate](https://runescape.wikia.com/wiki/Debilitate) [defensive](https://runescape.wikia.com/wiki/Abilities#Defence) [abilities](https://runescape.wikia.com/wiki/Abilities). [Deflect curses](https://runescape.wikia.com/wiki/Deflect_Curses) being kept up on last phase is of dire importance.\n\nThe Memory of Nomad is essentially a hard mode version of the fight in [Nomad's Elegy](https://runescape.wikia.com/wiki/Nomad%27s_Elegy). Most of the mechanics are the same as in the normal fight but there are a few additional mechanics, especially in the final phase. There are also no checkpoints, so all four phases must be completed in one go.",
-            "thumbnail": {
-                "url": "https://i.imgur.com/Shmagnp.png"
-            },
-            "fields": [
-                {
-                    "name": "Requirements:",
-                    "value": "• Nomad's Elegy Quest completion | [Runescape Wiki](https://runescape.wikia.com/wiki/Nomad%27s_Elegy)"
-                },
-                {
+			"title": "Nomad's Mirage",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Nomad's Mirage](http://runescape.wikia.com/wiki/Nomad%27s_Mirage) is an achievement that requires the player to defeat the [Memory of Nomad](https://runescape.wikia.com/wiki/Memory_of_Nomad) and loot the chest thereafter.\n\nIf you struggle with this fight, it is advised to bring a [Pack Mammoth](https://runescape.wikia.com/wiki/Pack_mammoth) and [Mammoth feast scrolls](https://runescape.wikia.com/wiki/Mammoth_feast_scroll) for eating, as this uses no [adreniline](https://runescape.wikia.com/wiki/Adrenaline) and consequently allows more damage per second. Also, remember to utilize [Devotion](https://runescape.wikia.com/wiki/Devotion), [Barricade](https://runescape.wikia.com/wiki/Barricade), and [Debilitate](https://runescape.wikia.com/wiki/Debilitate) [defensive](https://runescape.wikia.com/wiki/Abilities#Defence) [abilities](https://runescape.wikia.com/wiki/Abilities). [Deflect curses](https://runescape.wikia.com/wiki/Deflect_Curses) being kept up on last phase is of dire importance.\n\nThe Memory of Nomad is essentially a hard mode version of the fight in [Nomad's Elegy](https://runescape.wikia.com/wiki/Nomad%27s_Elegy). Most of the mechanics are the same as in the normal fight but there are a few additional mechanics, especially in the final phase. There are also no checkpoints, so all four phases must be completed in one go.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [{
+					"name": "Requirements:",
+					"value": "• Nomad's Elegy Quest completion | [Runescape Wiki](https://runescape.wikia.com/wiki/Nomad%27s_Elegy)"
+				},
+				{
 					"name": "Guide:",
 					"value": "• [Hard Mode Nomad Guide | The Junesong - YouTube](https://www.youtube.com/watch?v=QUEZ4su06Pw)"
-                }
-            ],
-            "footer": {
-                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-                "text": "Runescore awarded: 20"
-            },
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 20"
+			},
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"ocellus virius notus": {
 		"cmds": ["mqc"],
 		"embed": {
-            "title": "Ocellus Virius Notus",
-            "author": {
-                "name": "Cape Info",
-                "icon_url": "https://i.imgur.com/6c6q2iC.png"
-            },
-              "description": "[Ocellus Virius Notus](http://runescape.wikia.com/wiki/Ocellus_Virius_Notus) is an achievement that requires the player to collect twenty-two [Order journal pages](http://runescape.wikia.com/wiki/Order_journal_page) from inside the [Monastery of Ascension](http://runescape.wikia.com/wiki/Monastery_of_Ascension).\n\nThe pages are automatically added to the [History of the Order](http://runescape.wikia.com/wiki/History_of_the_Order) book when one is found. The first page will come with the book. Three can be found from the library in the dungeon, and another from the lectern next to it. The remaining 18 pages can be found by any of the monsters within the monastery and all pages can be dropped by the same monster.\n\nThe Monastery of Ascension, or the Ascension dungeon, is a high-level Slayer dungeon in the [Feldip Hills](https://runescape.wikia.com/wiki/Feldip_Hills) that contains a number of magic-based monsters, all of which are weak to Ranged.\n\nThe easiest way to obtain the pages is by killing [Rorarius](https://runescape.wikia.com/wiki/Rorarius).",
-            "thumbnail": {
-                "url": "https://i.imgur.com/Shmagnp.png"
-            },
-            "fields": [
-                {
-                    "name": "Mechanics:",
-                    "value": "Rorarii are always found in groups, and attacking one of them will cause any nearby Rorarii to become aggressive to the attacker. When an undamaged Rorarius is attacked, it will send off an \"alert\" in a 5x5 radius that will cause nearby Rorarii to attack the player. Sometimes, Rorarii may send out a second \"alert\", causing them to go into melee distance of the player and attack them from there, where they'll attack the player with extremely inaccurate melee.\n\nFor this reason, if the player is struggling to kill Rorarii, simply damage the current ones attacking you before killing them off. If this will cause more Rorarii to attack, indirectly damage them with [Corruption Shot](https://runescape.wikia.com/wiki/Corruption_Shot), as the \"alert\" only goes off when an undamaged Rorarii is tagged."
-                },
-                {
-                    "name": "Requirements:",
-                    "value": "• 81 Slayer"
-                },
-                {
+			"title": "Ocellus Virius Notus",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Ocellus Virius Notus](http://runescape.wikia.com/wiki/Ocellus_Virius_Notus) is an achievement that requires the player to collect twenty-two [Order journal pages](http://runescape.wikia.com/wiki/Order_journal_page) from inside the [Monastery of Ascension](http://runescape.wikia.com/wiki/Monastery_of_Ascension).\n\nThe pages are automatically added to the [History of the Order](http://runescape.wikia.com/wiki/History_of_the_Order) book when one is found. The first page will come with the book. Three can be found from the library in the dungeon, and another from the lectern next to it. The remaining 18 pages can be found by any of the monsters within the monastery and all pages can be dropped by the same monster.\n\nThe Monastery of Ascension, or the Ascension dungeon, is a high-level Slayer dungeon in the [Feldip Hills](https://runescape.wikia.com/wiki/Feldip_Hills) that contains a number of magic-based monsters, all of which are weak to Ranged.\n\nThe easiest way to obtain the pages is by killing [Rorarius](https://runescape.wikia.com/wiki/Rorarius).",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [{
+					"name": "Mechanics:",
+					"value": "Rorarii are always found in groups, and attacking one of them will cause any nearby Rorarii to become aggressive to the attacker. When an undamaged Rorarius is attacked, it will send off an \"alert\" in a 5x5 radius that will cause nearby Rorarii to attack the player. Sometimes, Rorarii may send out a second \"alert\", causing them to go into melee distance of the player and attack them from there, where they'll attack the player with extremely inaccurate melee.\n\nFor this reason, if the player is struggling to kill Rorarii, simply damage the current ones attacking you before killing them off. If this will cause more Rorarii to attack, indirectly damage them with [Corruption Shot](https://runescape.wikia.com/wiki/Corruption_Shot), as the \"alert\" only goes off when an undamaged Rorarii is tagged."
+				},
+				{
+					"name": "Requirements:",
+					"value": "• 81 Slayer"
+				},
+				{
 					"name": "Guide:",
 					"value": "• [Rorarius Money Making guide | munclesonkey - YouTube](https://www.youtube.com/watch?v=FC6aL771hs4)"
-                }
-            ],
-            "footer": {
-                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-                "text": "Runescore awarded: 20"
-            },
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 20"
+			},
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"on a mission from... the gods": {
 		"cmds": ["mqc"],
 		"embed": {
-            "title": "On a Mission From... The Gods",
-            "author": {
-                "name": "Cape Info",
-                "icon_url": "https://i.imgur.com/6c6q2iC.png"
-            },
-              "description": "[On a Mission From... The Gods](http://runescape.wikia.com/wiki/On_a_Mission_From..._The_Gods) is a meta-achievement that requires the player to complete all of the [Tasks](http://runescape.wikia.com/wiki/God_Emissaries/Tasks) given by the [God Emissaries](http://runescape.wikia.com/wiki/God_Emissaries).\n\nGod Emissaries are a group of followers, each devoted to a different [god](https://runescape.wikia.com/wiki/Gods), who attempt to convert citizens of [Gielinor](https://runescape.wikia.com/wiki/Gielinor) to their religion as well. There are nine Emissaries, each of which will give a full account of what their god represents, what these gods have been accomplishing since the [Edicts of Guthix](http://runescape.wikia.com/wiki/Edicts_of_Guthix) were abolished, and why players should follow that particular god.",
-            "thumbnail": {
-                "url": "https://i.imgur.com/Shmagnp.png"
-            },
-            "fields": [
-                {
-                    "name": "Requirements:",
-                    "value": "• 55 Attack **or** 55 Ranged **or** 55 Strength\n• 13 Cooking **or** 14 Smithing\n• 30 Fishing **or** 30 Mining **or** 30 Woodcutting\n• 40 Firemaking **or** 40 Crafting\n• 45 Thieving **or** 50 Hunter\n• 30 Woodcutting \n• 30 Fishing \n• 30 Mining \n• 60 Woodcutting **or** 60 Fishing **or** 60 Mining\n• A combined total of 200 levels in Summoning, Magic, Prayer, and Runecrafting"
-                },
-                {
+			"title": "On a Mission From... The Gods",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[On a Mission From... The Gods](http://runescape.wikia.com/wiki/On_a_Mission_From..._The_Gods) is a meta-achievement that requires the player to complete all of the [Tasks](http://runescape.wikia.com/wiki/God_Emissaries/Tasks) given by the [God Emissaries](http://runescape.wikia.com/wiki/God_Emissaries).\n\nGod Emissaries are a group of followers, each devoted to a different [god](https://runescape.wikia.com/wiki/Gods), who attempt to convert citizens of [Gielinor](https://runescape.wikia.com/wiki/Gielinor) to their religion as well. There are nine Emissaries, each of which will give a full account of what their god represents, what these gods have been accomplishing since the [Edicts of Guthix](http://runescape.wikia.com/wiki/Edicts_of_Guthix) were abolished, and why players should follow that particular god.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [{
+					"name": "Requirements:",
+					"value": "• 55 Attack **or** 55 Ranged **or** 55 Strength\n• 13 Cooking **or** 14 Smithing\n• 30 Fishing **or** 30 Mining **or** 30 Woodcutting\n• 40 Firemaking **or** 40 Crafting\n• 45 Thieving **or** 50 Hunter\n• 30 Woodcutting \n• 30 Fishing \n• 30 Mining \n• 60 Woodcutting **or** 60 Fishing **or** 60 Mining\n• A combined total of 200 levels in Summoning, Magic, Prayer, and Runecrafting"
+				},
+				{
 					"name": "Guide:",
 					"value": "• [God Emissaries Tasks guide | Runescape Wiki](https://runescape.wikia.com/wiki/God_Emissaries/Tasks)"
-                }
-            ],
-            "footer": {
-                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-                "text": "Runescore awarded: 10"
-            },
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 10"
+			},
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"on a rune high": {
 		"cmds": ["trim"],
 		"embed": {
-            "title": "On a Rune High",
-            "author": {
-                "name": "Cape Info",
-                "icon_url": "https://i.imgur.com/6c6q2iC.png"
-            },
-            "description": "[On a Rune High](https://runescape.wikia.com/wiki/On_a_Rune_High) is an achievement that requires the player to unlock the highest rune shop from [Ali Morrisane](https://runescape.wikia.com/wiki/Ali_Morrisane) by completing the [Rogue Trader miniquest](https://runescape.wikia.com/wiki/Rogue_Trader). There are 3 parts to the Rogue Trader miniquest. Each part allows the player to buy something different from Ali Morrisane.\n\nCompleting this achievement requires the player to open a large casket of runes. Simply unlocking the ability to open them, or opening a small casket, is insufficient.",
-            "thumbnail": {
-                "url": "https://i.imgur.com/Shmagnp.png"
-            },
-            "fields": [
-                {
-                    "name": "Start Point:",
-                    "value": "• Speak to [Ali Morrisane](https://runescape.wikia.com/wiki/Ali_Morrisane), north of [Faruq](https://runescape.wikia.com/wiki/Faruq) in [Al Kharid](https://runescape.wikia.com/wiki/Al_Kharid)"
-      			},
-        		{
-                    "name": "Official Difficulty:",
-                    "value": "• None"
-        		},
-        		{
-                    "name": "Official Length:",
-                    "value": "• Short"
-       			},
-        		{
-                    "name": "Items Required:",
-                    "value": "• [Coins](https://runescape.wikia.com/wiki/Coins) to pay the [Street Urchin](https://runescape.wikia.com/wiki/Street_urchin) to conspire against the [Blackjack seller](https://runescape.wikia.com/wiki/Blackjack_seller) (required for [Defensive blackjacks](https://runescape.wikia.com/wiki/Rogue_Trader#Defensive_Blackjacks)) and for [Magic carpet](https://runescape.wikia.com/wiki/Magic_carpet) rides (optional)\n\n• 3 [Dyes](https://runescape.wikia.com/wiki/Dye) of any color (for [Desert outfits](https://runescape.wikia.com/wiki/Desert_outfit))\n\n **OR**\n\n• 3 Animal pelts of the same kind. This may include [Cowhide](https://runescape.wikia.com/wiki/Cowhide), [Wool](https://runescape.wikia.com/wiki/Wool), [Snakeskin](https://runescape.wikia.com/wiki/Snakeskin), any type of [Fur](https://runescape.wikia.com/wiki/Fur), etc. (for [Menaphite clothing](https://runescape.wikia.com/wiki/Menaphite_clothing), can be obtained in [Pollnivneach](https://runescape.wikia.com/wiki/Pollnivneach))"
-        		},
-        		{
-                    "name": "Enemies to Defeat:",
-                    "value": "• None"
-        		},
-            	{
+			"title": "On a Rune High",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[On a Rune High](https://runescape.wikia.com/wiki/On_a_Rune_High) is an achievement that requires the player to unlock the highest rune shop from [Ali Morrisane](https://runescape.wikia.com/wiki/Ali_Morrisane) by completing the [Rogue Trader miniquest](https://runescape.wikia.com/wiki/Rogue_Trader). There are 3 parts to the Rogue Trader miniquest. Each part allows the player to buy something different from Ali Morrisane.\n\nCompleting this achievement requires the player to open a large casket of runes. Simply unlocking the ability to open them, or opening a small casket, is insufficient.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [{
+					"name": "Start Point:",
+					"value": "• Speak to [Ali Morrisane](https://runescape.wikia.com/wiki/Ali_Morrisane), north of [Faruq](https://runescape.wikia.com/wiki/Faruq) in [Al Kharid](https://runescape.wikia.com/wiki/Al_Kharid)"
+				},
+				{
+					"name": "Official Difficulty:",
+					"value": "• None"
+				},
+				{
+					"name": "Official Length:",
+					"value": "• Short"
+				},
+				{
+					"name": "Items Required:",
+					"value": "• [Coins](https://runescape.wikia.com/wiki/Coins) to pay the [Street Urchin](https://runescape.wikia.com/wiki/Street_urchin) to conspire against the [Blackjack seller](https://runescape.wikia.com/wiki/Blackjack_seller) (required for [Defensive blackjacks](https://runescape.wikia.com/wiki/Rogue_Trader#Defensive_Blackjacks)) and for [Magic carpet](https://runescape.wikia.com/wiki/Magic_carpet) rides (optional)\n\n• 3 [Dyes](https://runescape.wikia.com/wiki/Dye) of any color (for [Desert outfits](https://runescape.wikia.com/wiki/Desert_outfit))\n\n **OR**\n\n• 3 Animal pelts of the same kind. This may include [Cowhide](https://runescape.wikia.com/wiki/Cowhide), [Wool](https://runescape.wikia.com/wiki/Wool), [Snakeskin](https://runescape.wikia.com/wiki/Snakeskin), any type of [Fur](https://runescape.wikia.com/wiki/Fur), etc. (for [Menaphite clothing](https://runescape.wikia.com/wiki/Menaphite_clothing), can be obtained in [Pollnivneach](https://runescape.wikia.com/wiki/Pollnivneach))"
+				},
+				{
+					"name": "Enemies to Defeat:",
+					"value": "• None"
+				},
+				{
 					"name": "Requirements:",
 					"value": "• Rune Mysteries Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Rune_Mysteries)\n• The Feud Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Feud)\n• Ichtlarin's Little Helper Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Icthlarin%27s_Little_Helper)"
 				},
-                {
+				{
 					"name": "Guide:",
 					"value": "• [Rouge Trader Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Rogue_Trader)"
-                }
-            ],
-            "footer": {
-                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-                "text": "Runescore awarded: 10"
-            },
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 10"
+			},
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"one final ride": {
 		"cmds": ["mqc"],
 		"embed": {
-            "title": "One Final Ride",
-            "author": {
-                "name": "Cape Info",
-                "icon_url": "https://i.imgur.com/6c6q2iC.png"
-            },
-              "description": "[One Final Ride](http://runescape.wikia.com/wiki/One_Final_Ride) is an achievement that requires the player to obtain and read the [Last riders](http://runescape.wikia.com/wiki/Last_riders) book as a very rare drop from the [King Black Dragon](http://runescape.wikia.com/wiki/King_Black_Dragon).\n\nIt has a drop rate of 1/1,000, but after 1,000 kill count, each kill will decrease the denominator by 1, so it is a guaranteed drop on a solo kill with a kill count of at least 2,000.\n\nThere are two ways that players can reach the [King Black Dragon's Lair](https://runescape.wikia.com/wiki/King_Black_Dragon%27s_Lair). Note that the lair itself is not considered part of the [Wilderness](https://runescape.wikia.com/wiki/Wilderness), and therefore there is no risk of being killed by other players.\n\n\t• There is a ladder in level 43 of the Wilderness guarded by four [lesser demons](https://runescape.wikia.com/wiki/Lesser_demon), leading to a small area with [poison spiders](https://runescape.wikia.com/wiki/Poison_spider) and a lever which can be pulled to access the King Black Dragon's lair. Entering the lair with this method will grant players a 10% damage boost against the King Black Dragon. [Wilderness Obelisks](https://runescape.wikia.com/wiki/Wilderness_obelisk) may be useful in reaching it. Players should be wary of player killers if planning to use this route.\n\n\t• Players can use either the [artefact](https://runescape.wikia.com/wiki/Artefact) in the Wilderness wall north-west of the [Edgeville](https://runescape.wikia.com/wiki/Edgeville) [lodestone](https://runescape.wikia.com/wiki/Lodestone_Network), or the artefact in the [Lava Maze Dungeon](https://runescape.wikia.com/wiki/Lava_Maze_Dungeon). Activating either one will teleport the player to the lair; however, using an artefact to enter will not grant players the damage boost the way using the lever does.\n\nPlayers may view the <#476790691436167168> channel of this discord for a beginners guide to the boss.",
-            "thumbnail": {
-                "url": "https://i.imgur.com/Shmagnp.png"
-            },
-            "fields": [
-                {
-                    "name": "Requirements:",
-                    "value": "• None"
-                },
-                {
+			"title": "One Final Ride",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[One Final Ride](http://runescape.wikia.com/wiki/One_Final_Ride) is an achievement that requires the player to obtain and read the [Last riders](http://runescape.wikia.com/wiki/Last_riders) book as a very rare drop from the [King Black Dragon](http://runescape.wikia.com/wiki/King_Black_Dragon).\n\nIt has a drop rate of 1/1,000, but after 1,000 kill count, each kill will decrease the denominator by 1, so it is a guaranteed drop on a solo kill with a kill count of at least 2,000.\n\nThere are two ways that players can reach the [King Black Dragon's Lair](https://runescape.wikia.com/wiki/King_Black_Dragon%27s_Lair). Note that the lair itself is not considered part of the [Wilderness](https://runescape.wikia.com/wiki/Wilderness), and therefore there is no risk of being killed by other players.\n\n\t• There is a ladder in level 43 of the Wilderness guarded by four [lesser demons](https://runescape.wikia.com/wiki/Lesser_demon), leading to a small area with [poison spiders](https://runescape.wikia.com/wiki/Poison_spider) and a lever which can be pulled to access the King Black Dragon's lair. Entering the lair with this method will grant players a 10% damage boost against the King Black Dragon. [Wilderness Obelisks](https://runescape.wikia.com/wiki/Wilderness_obelisk) may be useful in reaching it. Players should be wary of player killers if planning to use this route.\n\n\t• Players can use either the [artefact](https://runescape.wikia.com/wiki/Artefact) in the Wilderness wall north-west of the [Edgeville](https://runescape.wikia.com/wiki/Edgeville) [lodestone](https://runescape.wikia.com/wiki/Lodestone_Network), or the artefact in the [Lava Maze Dungeon](https://runescape.wikia.com/wiki/Lava_Maze_Dungeon). Activating either one will teleport the player to the lair; however, using an artefact to enter will not grant players the damage boost the way using the lever does.\n\nPlayers may view the <#476790691436167168> channel of this discord for a beginners guide to the boss.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [{
+					"name": "Requirements:",
+					"value": "• None"
+				},
+				{
 					"name": "Guide:",
 					"value": "• [Low Level King Black Dragon guide | Lildogdog RS - YouTube](https://www.youtube.com/watch?v=tak1OoQG7nY)"
-                }
-            ],
-            "footer": {
-                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-                "text": "Runescore awarded: 20"
-            },
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 20"
+			},
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"one foot in the grave": {
 		"cmds": ["comp", "mqc"],
@@ -6719,28 +6457,27 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-							{
-                    "name": "Start Point:",
-                    "value": "• Speak to [Zavistic Rarve](https://runescape.wikia.com/wiki/Zavistic_Rarve) at the [Wizards' Guild](https://runescape.wikia.com/wiki/Wizards%27_Guild) with [Clarence's hand](https://runescape.wikia.com/wiki/Hand_(Back_to_my_Roots) in your inventory"
-      			},
-        		{
-                    "name": "Official Difficulty:",
-                    "value": "• None"
-        		},
-        		{
-                    "name": "Official Length:",
-                    "value": "• Short to Medium"
-       			},
-        		{
-                    "name": "Items Required:",
-                    "value": "• None"
-        		},
-        		{
-                    "name": "Enemies to Defeat:",
-                    "value": "• [Monsters](https://runescape.wikia.com/wiki/Jade_vine_maze#Monsters) in the [Jade vine maze](https://runescape.wikia.com/wiki/Jade_vine_maze)"
-        		},
-            {
+			"fields": [{
+					"name": "Start Point:",
+					"value": "• Speak to [Zavistic Rarve](https://runescape.wikia.com/wiki/Zavistic_Rarve) at the [Wizards' Guild](https://runescape.wikia.com/wiki/Wizards%27_Guild) with [Clarence's hand](https://runescape.wikia.com/wiki/Hand_(Back_to_my_Roots) in your inventory"
+				},
+				{
+					"name": "Official Difficulty:",
+					"value": "• None"
+				},
+				{
+					"name": "Official Length:",
+					"value": "• Short to Medium"
+				},
+				{
+					"name": "Items Required:",
+					"value": "• None"
+				},
+				{
+					"name": "Enemies to Defeat:",
+					"value": "• [Monsters](https://runescape.wikia.com/wiki/Jade_vine_maze#Monsters) in the [Jade vine maze](https://runescape.wikia.com/wiki/Jade_vine_maze)"
+				},
+				{
 					"name": "Requirements:",
 					"value": "• Back to my Roots Quest partial completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Back_to_my_Roots)"
 				},
@@ -6753,37 +6490,36 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 15"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"one man's junk... is mine": {
 		"cmds": ["mqc"],
 		"embed": {
-            "title": "One Man's Junk...Is Mine",
-            "author": {
-                "name": "Cape Info",
-                "icon_url": "https://i.imgur.com/6c6q2iC.png"
-            },
-              "description": "[One Man's Junk...Is Mine](http://runescape.wikia.com/wiki/One_Man%27s_Junk...Is_Mine) is an achievement that requires the player to fully loot [Movario's base](http://runescape.wikia.com/wiki/Movario%27s_base#The_storage_room). The room containing all the loot can be accessed by entering a tunnel in Movario's study. Movario's base contains 100 of each of the following; [coal](https://runescape.wikia.com/wiki/Coal), [death runes](https://runescape.wikia.com/wiki/Death_rune), [fire runes](https://runescape.wikia.com/wiki/Fire_rune), and [magic logs](https://runescape.wikia.com/wiki/Magic_logs). A player can [dissassemble](https://runescape.wikia.com/wiki/Disassemble) the magic logs and coal to complete the achievement in one trip, or use a [beast of burden](https://runescape.wikia.com/wiki/Beast_of_Burden) and a [Coal Bag](https://runescape.wikia.com/wiki/Coal_bag).\n\nThe entrance to the base is in a ruined building on the Khazard [Battlefield](http://runescape.wikia.com/wiki/Battlefield). The building can be entered by climbing the broken wall. The quickest way to get to the base is to use a [Spirit tree](http://runescape.wikia.com/wiki/Spirit_tree) to go to the battlefield. Other practical options are to use an [Ardougne teleport](http://runescape.wikia.com/wiki/Ardougne_teleport), an [Ourania Teleport](http://runescape.wikia.com/wiki/Ourania_Teleport) from the [Lunar spells](http://runescape.wikia.com/wiki/Lunar_spells), or [Fairy ring](http://runescape.wikia.com/wiki/Fairy_ring) code **d•j•p** to the [Tower of Life](http://runescape.wikia.com/wiki/Tower_of_Life_(building%29).",
-            "thumbnail": {
-                "url": "https://i.imgur.com/Shmagnp.png"
-            },
-            "fields": [
-                {
-                    "name": "Requirements:",
-                    "value": "• While Guthix Sleeps Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/While_Guthix_Sleeps)"
-                },
-                {
-                    "name": "Guide:",
-                    "value": "• [Movario's Base guide | Runescape Wiki](http://runescape.wikia.com/wiki/Movario%27s_base)\n• [Map of Movario's Base | Runescape Wiki](https://vignette.wikia.nocookie.net/runescape2/images/b/b5/Movario%27s_base_map.png/revision/latest?cb=20170617181712)"
-                }
-            ],
-            "footer": {
-                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-                "text": "Runescore awarded: 20"
-            },
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"title": "One Man's Junk...Is Mine",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[One Man's Junk...Is Mine](http://runescape.wikia.com/wiki/One_Man%27s_Junk...Is_Mine) is an achievement that requires the player to fully loot [Movario's base](http://runescape.wikia.com/wiki/Movario%27s_base#The_storage_room). The room containing all the loot can be accessed by entering a tunnel in Movario's study. Movario's base contains 100 of each of the following; [coal](https://runescape.wikia.com/wiki/Coal), [death runes](https://runescape.wikia.com/wiki/Death_rune), [fire runes](https://runescape.wikia.com/wiki/Fire_rune), and [magic logs](https://runescape.wikia.com/wiki/Magic_logs). A player can [dissassemble](https://runescape.wikia.com/wiki/Disassemble) the magic logs and coal to complete the achievement in one trip, or use a [beast of burden](https://runescape.wikia.com/wiki/Beast_of_Burden) and a [Coal Bag](https://runescape.wikia.com/wiki/Coal_bag).\n\nThe entrance to the base is in a ruined building on the Khazard [Battlefield](http://runescape.wikia.com/wiki/Battlefield). The building can be entered by climbing the broken wall. The quickest way to get to the base is to use a [Spirit tree](http://runescape.wikia.com/wiki/Spirit_tree) to go to the battlefield. Other practical options are to use an [Ardougne teleport](http://runescape.wikia.com/wiki/Ardougne_teleport), an [Ourania Teleport](http://runescape.wikia.com/wiki/Ourania_Teleport) from the [Lunar spells](http://runescape.wikia.com/wiki/Lunar_spells), or [Fairy ring](http://runescape.wikia.com/wiki/Fairy_ring) code **d•j•p** to the [Tower of Life](http://runescape.wikia.com/wiki/Tower_of_Life_(building%29).",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [{
+					"name": "Requirements:",
+					"value": "• While Guthix Sleeps Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/While_Guthix_Sleeps)"
+				},
+				{
+					"name": "Guide:",
+					"value": "• [Movario's Base guide | Runescape Wiki](http://runescape.wikia.com/wiki/Movario%27s_base)\n• [Map of Movario's Base | Runescape Wiki](https://vignette.wikia.nocookie.net/runescape2/images/b/b5/Movario%27s_base_map.png/revision/latest?cb=20170617181712)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 20"
+			},
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"ornate crockery": {
 		"cmds": ["mqc"],
@@ -6797,22 +6533,21 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
+			"fields": [{
 					"name": "Requirements:",
 					"value": "• 80 Crafting\n• 80 Mining\n\n• Tears of Guthix Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Tears_of_Guthix)"
 				},
 				{
-                    "name": "Guide:",
-                    "value": "• [Tears of Guthix Cavern Map | Runescape Wiki](https://runescape.wikia.com/wiki/Ornate_Crockery?file=Tears_of_Guthix_cavern_map.png)"
-                }
+					"name": "Guide:",
+					"value": "• [Tears of Guthix Cavern Map | Runescape Wiki](https://runescape.wikia.com/wiki/Ornate_Crockery?file=Tears_of_Guthix_cavern_map.png)"
+				}
 			],
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 10"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"otto the ancient": {
 		"cmds": ["mqc"],
@@ -6826,8 +6561,7 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
+			"fields": [{
 					"name": "Requirements:",
 					"value": "• Access to the Ancient Cavern | [Runescape Wiki](http://runescape.wikia.com/wiki/Ancient_Cavern)"
 				},
@@ -6840,8 +6574,8 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 30"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"out into the ourania": {
 		"cmds": ["comp", "mqc"],
@@ -6855,18 +6589,16 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
-					"name": "Requirements:",
-					"value": "• Lunar Diplomacy Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Deadliest_Catch)"
-				}
-			],
+			"fields": [{
+				"name": "Requirements:",
+				"value": "• Lunar Diplomacy Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Deadliest_Catch)"
+			}],
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 15"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"oyster mash": {
 		"cmds": ["mqc"],
@@ -6880,18 +6612,16 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
-					"name": "Requirements:",
-					"value": "• Beneath Cursed Tides Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Beneath_Cursed_Tides)"
-				}
-			],
+			"fields": [{
+				"name": "Requirements:",
+				"value": "• Beneath Cursed Tides Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Beneath_Cursed_Tides)"
+			}],
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 5"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"paint it red": {
 		"cmds": ["mqc"],
@@ -6905,18 +6635,16 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
-					"name": "Requirements:",
-					"value": "• River of Blood Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/River_of_Blood)"
-				}
-			],
+			"fields": [{
+				"name": "Requirements:",
+				"value": "• River of Blood Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/River_of_Blood)"
+			}],
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 20"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"peachy bones": {
 		"cmds": ["comp"],
@@ -6930,8 +6658,7 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
+			"fields": [{
 					"name": "Requirements:",
 					"value": "• 33 Magic"
 				},
@@ -6944,65 +6671,64 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 10"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"penance to the king": {
 		"cmds": ["trim"],
 		"embed": {
-            "title": "Penance to the King",
-            "author": {
-                "name": "Cape Info",
-                "icon_url": "https://i.imgur.com/6c6q2iC.png"
-            },
-            "description": "[Penance to the King](http://runescape.wikia.com/wiki/Penance_to_the_King) is an achievement that requires the player to kill the [Penance King](https://runescape.wikia.com/wiki/Penance_King) after doing all 10 hard-mode waves in [Barbarian Assault](https://runescape.wikia.com/wiki/Barbarian_Assault).\n\nThe Penance King, true name Cacus, is the boss of [hard mode](https://runescape.wikia.com/wiki/Barbarian_Assault:_Hard_Mode) Barbarian Assault. He cannot be defeated by normal methods and can only be damaged by [flamethrowers](https://runescape.wikia.com/wiki/Penance_King#Gathering_for_flamethrowers) created during the fight. Upon killing the king, players are awarded 210 points in their role and 15 points in the other roles.\n\nPlayers may wish to utilize the friend's chat  `BA teams` or the <@&430138114455896074> role call in this discord to help complete this requirement.",
-            "thumbnail": {
-                "url": "https://i.imgur.com/Shmagnp.png"
-            },
-            "fields": [
-                {
-                    "name": "Attacks:",
-                    "value": "The Penance King does not attack with a specific combat style, although he is only able to attack players in melee range. Each of his attacks deals typeless damage equal to 25% of his target's maximum life points, increasing to 33% and 50% every time an incantation is completed.\n\nHe also summons [King spawns](https://runescape.wikia.com/wiki/King_spawn) with 250 lifepoints that follow players and explode upon touching them, dealing typeless damage to all players in a 5x5 area of effect equal to 25% of their maximum life points. If a king spawn is killed, they immediately explode, dealing the same damage, and if they are left alive, they eventually explode on their own.\n\n[Resonance](https://runescape.wikia.com/wiki/Resonance) can block all damage but not heal from the Penance King's attacks and the spawns' explosions, and other Defence abilities are able to reduce the damage as well."
-                },
-                {
-                    "name": "Gathering for Flamethrowers:",
-                    "value": "The flamethrowers are created by gathering various items which the king vomits when he eats a poisoned meat when he says he's hungry. Poisonous food is found on the west. An anvil, for the [collector](https://runescape.wikia.com/wiki/Barbarian_Assault#Collector) / [attackers](https://runescape.wikia.com/wiki/Barbarian_Assault#Attacker), for metal scraps and vents, for [defender](https://runescape.wikia.com/wiki/Barbarian_Assault#Defender), to dry hides are located to the east while the [rusty buckets](https://runescape.wikia.com/wiki/Rusty_bucket), for [healers](https://runescape.wikia.com/wiki/Barbarian_Assault#Healer), need to be used on pools of acid (king's vomit). When 5 of each item per role are collected they can be deposited in the west. The flamethrowers will then be available for the team."
-                },
-                {
-                    "name": "​",
-                    "value": "A Healer is generally the one who feeds the king. A commonly used tactic has a Healer at the healing spring clicking on it rapidly to replenish their life points, all the while feeding the king when he indicates his hunger. The other four teammates stay at the east side of the arena and move west when the Healer tells them that the king has been fed enough. The teammates must then pick up their appropriate item, then refine the items, and finally deposit the refined items at the chute. When a message says that the flamethrowers are available, go to the chute and take the flamethrower."
-                },
-                {
-                    "name": "The Incantation:",
-                    "value": "[Scrolls](https://runescape.wikia.com/wiki/Scroll_(Penance_King) are dropped by the Penance King when a player attacks the him with any normal weapon. Note that the a dropped scroll is only visible to the player who attacked him and caused it to drop. It is advised to use magic or ranged to attack him as melee is extremely dangerous. It may take several attempts to receive the scroll, as one may miss. A scroll is dropped when the player sees a message saying that the King is resistant to their attack."
-                },
-                {
-                    "name": "​",
-                    "value": "When a scroll is picked up (1 per player) 5 words; Labefacto, Flamma, Ignis, Debilito, and Exuro; in a certain order appear on the screen. Inspecting your scroll tells you what word is on your scroll. When all items are gathered every player should say their word when the previous has been said. The order in which they have to be read is from left to right. Reading the word is done by clicking on the word you have in the on-screen interface. Once the incantation is complete, everyone must attack the king while wielding their flamethrowers. Ignore the message that says you are prohibited from attacking due to an item equipped."
-                },
-                {
-                    "name": "​",
-                    "value": "This brings the King down to two-thirds of his life points after which he will once again become immune to damage, which is indicated by cracks appearing on the ground beneath him, which deal damage for 33% of maximum life points. To avoid this, the players must use the [Escape](https://runescape.wikia.com/wiki/Escape) ability after attacking him with the flamethrowers. He will once again summon King spawns (hitting only 25%) to his aid, and the king will hit harder. The scrolls must be re-obtained and the incantation must be done again, although the flamethrowers are kept. Getting the scrolls and using the flamethrower will need to be repeated at least 3 times (or 4 times, if some players did not attack to the fullest) in order to kill the Penance King."
-                },
-                {
-                    "name": "Requirements:",
-                    "value": "• You must have completed waves 1-10 on Hard Mode Barbarian Assault"
-                },
-                {
+			"title": "Penance to the King",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Penance to the King](http://runescape.wikia.com/wiki/Penance_to_the_King) is an achievement that requires the player to kill the [Penance King](https://runescape.wikia.com/wiki/Penance_King) after doing all 10 hard-mode waves in [Barbarian Assault](https://runescape.wikia.com/wiki/Barbarian_Assault).\n\nThe Penance King, true name Cacus, is the boss of [hard mode](https://runescape.wikia.com/wiki/Barbarian_Assault:_Hard_Mode) Barbarian Assault. He cannot be defeated by normal methods and can only be damaged by [flamethrowers](https://runescape.wikia.com/wiki/Penance_King#Gathering_for_flamethrowers) created during the fight. Upon killing the king, players are awarded 210 points in their role and 15 points in the other roles.\n\nPlayers may wish to utilize the friend's chat  `BA teams` or the <@&430138114455896074> role call in this discord to help complete this requirement.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [{
+					"name": "Attacks:",
+					"value": "The Penance King does not attack with a specific combat style, although he is only able to attack players in melee range. Each of his attacks deals typeless damage equal to 25% of his target's maximum life points, increasing to 33% and 50% every time an incantation is completed.\n\nHe also summons [King spawns](https://runescape.wikia.com/wiki/King_spawn) with 250 lifepoints that follow players and explode upon touching them, dealing typeless damage to all players in a 5x5 area of effect equal to 25% of their maximum life points. If a king spawn is killed, they immediately explode, dealing the same damage, and if they are left alive, they eventually explode on their own.\n\n[Resonance](https://runescape.wikia.com/wiki/Resonance) can block all damage but not heal from the Penance King's attacks and the spawns' explosions, and other Defence abilities are able to reduce the damage as well."
+				},
+				{
+					"name": "Gathering for Flamethrowers:",
+					"value": "The flamethrowers are created by gathering various items which the king vomits when he eats a poisoned meat when he says he's hungry. Poisonous food is found on the west. An anvil, for the [collector](https://runescape.wikia.com/wiki/Barbarian_Assault#Collector) / [attackers](https://runescape.wikia.com/wiki/Barbarian_Assault#Attacker), for metal scraps and vents, for [defender](https://runescape.wikia.com/wiki/Barbarian_Assault#Defender), to dry hides are located to the east while the [rusty buckets](https://runescape.wikia.com/wiki/Rusty_bucket), for [healers](https://runescape.wikia.com/wiki/Barbarian_Assault#Healer), need to be used on pools of acid (king's vomit). When 5 of each item per role are collected they can be deposited in the west. The flamethrowers will then be available for the team."
+				},
+				{
+					"name": "​",
+					"value": "A Healer is generally the one who feeds the king. A commonly used tactic has a Healer at the healing spring clicking on it rapidly to replenish their life points, all the while feeding the king when he indicates his hunger. The other four teammates stay at the east side of the arena and move west when the Healer tells them that the king has been fed enough. The teammates must then pick up their appropriate item, then refine the items, and finally deposit the refined items at the chute. When a message says that the flamethrowers are available, go to the chute and take the flamethrower."
+				},
+				{
+					"name": "The Incantation:",
+					"value": "[Scrolls](https://runescape.wikia.com/wiki/Scroll_(Penance_King) are dropped by the Penance King when a player attacks the him with any normal weapon. Note that the a dropped scroll is only visible to the player who attacked him and caused it to drop. It is advised to use magic or ranged to attack him as melee is extremely dangerous. It may take several attempts to receive the scroll, as one may miss. A scroll is dropped when the player sees a message saying that the King is resistant to their attack."
+				},
+				{
+					"name": "​",
+					"value": "When a scroll is picked up (1 per player) 5 words; Labefacto, Flamma, Ignis, Debilito, and Exuro; in a certain order appear on the screen. Inspecting your scroll tells you what word is on your scroll. When all items are gathered every player should say their word when the previous has been said. The order in which they have to be read is from left to right. Reading the word is done by clicking on the word you have in the on-screen interface. Once the incantation is complete, everyone must attack the king while wielding their flamethrowers. Ignore the message that says you are prohibited from attacking due to an item equipped."
+				},
+				{
+					"name": "​",
+					"value": "This brings the King down to two-thirds of his life points after which he will once again become immune to damage, which is indicated by cracks appearing on the ground beneath him, which deal damage for 33% of maximum life points. To avoid this, the players must use the [Escape](https://runescape.wikia.com/wiki/Escape) ability after attacking him with the flamethrowers. He will once again summon King spawns (hitting only 25%) to his aid, and the king will hit harder. The scrolls must be re-obtained and the incantation must be done again, although the flamethrowers are kept. Getting the scrolls and using the flamethrower will need to be repeated at least 3 times (or 4 times, if some players did not attack to the fullest) in order to kill the Penance King."
+				},
+				{
+					"name": "Requirements:",
+					"value": "• You must have completed waves 1-10 on Hard Mode Barbarian Assault"
+				},
+				{
 					"name": "Guide:",
 					"value": "• [A quick Penance King kill guide | A Friend - YouTube](https://www.youtube.com/watch?v=TTLz5Kn-0v4)"
-                },
-                {
-                    "name": "Resources:",
-                    "value": "• [BA Teams Discord](https://discord.gg/XUuhc9y)\n• [Leech BA](https://discord.gg/XUuhc9y)"
-                }
-            ],
-            "footer": {
-                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-                "text": "Runescore awarded: 20"
-            },
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+				},
+				{
+					"name": "Resources:",
+					"value": "• [BA Teams Discord](https://discord.gg/XUuhc9y)\n• [Leech BA](https://discord.gg/XUuhc9y)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 20"
+			},
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"penny for your life": {
 		"cmds": ["mqc"],
@@ -7016,8 +6742,7 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
+			"fields": [{
 					"name": "​",
 					"value": "• [Zombie outfit](https://runescape.wikia.com/wiki/Zombie_outfit_(New_Varrock)\n• [New Varrock cultist robes](https://runescape.wikia.com/wiki/New_Varrock_cultist_robes)\n• [Tiny Zemouregal (pet)](https://runescape.wikia.com/wiki/Tiny_Zemouregal_(pet)\n• [Arrav outfit](https://runescape.wikia.com/wiki/Arrav_outfit) ovveride\n\n\n• [Necrofelinomicon](https://runescape.wikia.com/wiki/Necrofelinomicon_(override) override\n• [Arrav's sword](https://runescape.wikia.com/wiki/Arrav%27s_sword) override\n• [Curse of Arrav](https://runescape.wikia.com/wiki/Dimension_of_Disaster:_Curse_of_Arrav)boss fight shortcut\n• [Demon Slayer](https://runescape.wikia.com/wiki/Dimension_of_Disaster:_Demon_Slayer) boss fight shortcut\n\nIt is recommended to buy the Curse of Arrav boss fight shortcut first, and the Demon Slayer boss fight shortcut second, in order to make the subsequent playthroughs much quicker."
 				},
@@ -7034,33 +6759,31 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 15"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"perky like a prawn": {
 		"cmds": ["trim"],
 		"embed": {
-            "title": "Perky like a Prawn",
-            "author": {
-                "name": "Cape Info",
-                "icon_url": "https://i.imgur.com/6c6q2iC.png"
-            },
-            "description": "[Perky like a Prawn](https://runescape.wikia.com/wiki/Perky_like_a_Prawn) is an achievement that requires the player to unlock all [Prawn perks](https://runescape.wikia.com/wiki/Prawnbroker#Prawn_Perks) from the [Prawnbroker](https://runescape.wikia.com/wiki/Prawnbroker).\n\nThis can be done by collecting [Golden fish eggs](https://runescape.wikia.com/wiki/Golden_fish_egg) and gaining 1, 20, 100, and 200 [Prawn balls](https://runescape.wikia.com/wiki/Prawn_balls) and [Prawn crackers](https://runescape.wikia.com/wiki/Prawn_cracker).\n\nFifty bonus prawn balls are available to players who have obtained level 99 Fishing by speaking to the Prawnbroker. You may also ask other players if they have extra golden crackers they could pull with you in order for you to quickly complete this requirement.\n\nYou may tag the <@&420029633371570176> role in this discord to inquire about availability as well.",
-            "thumbnail": {
-                "url": "https://i.imgur.com/Shmagnp.png"
-            },
-            "fields": [
-                {
-                    "name": "Requirements:",
-                    "value": "• 63 Construction\n• An [Aquarium](https://runescape.wikia.com/wiki/Aquarium) in your [Player-owned house](https://runescape.wikia.com/wiki/Player-owned_house)"
-                }
-            ],
-            "footer": {
-                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-                "text": "Runescore awarded: 25"
-            },
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"title": "Perky like a Prawn",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Perky like a Prawn](https://runescape.wikia.com/wiki/Perky_like_a_Prawn) is an achievement that requires the player to unlock all [Prawn perks](https://runescape.wikia.com/wiki/Prawnbroker#Prawn_Perks) from the [Prawnbroker](https://runescape.wikia.com/wiki/Prawnbroker).\n\nThis can be done by collecting [Golden fish eggs](https://runescape.wikia.com/wiki/Golden_fish_egg) and gaining 1, 20, 100, and 200 [Prawn balls](https://runescape.wikia.com/wiki/Prawn_balls) and [Prawn crackers](https://runescape.wikia.com/wiki/Prawn_cracker).\n\nFifty bonus prawn balls are available to players who have obtained level 99 Fishing by speaking to the Prawnbroker. You may also ask other players if they have extra golden crackers they could pull with you in order for you to quickly complete this requirement.\n\nYou may tag the <@&420029633371570176> role in this discord to inquire about availability as well.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [{
+				"name": "Requirements:",
+				"value": "• 63 Construction\n• An [Aquarium](https://runescape.wikia.com/wiki/Aquarium) in your [Player-owned house](https://runescape.wikia.com/wiki/Player-owned_house)"
+			}],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 25"
+			},
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"pious prayers": {
 		"cmds": ["comp"],
@@ -7074,28 +6797,27 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-							{
-                    "name": "Start Point:",
-                    "value": "• Speak to a [Squire](https://runescape.wikia.com/wiki/Squire) standing outside the door of the Camelot Castle training room, who will explain how the training grounds work"
-      			},
-        		{
-                    "name": "Official Difficulty:",
-                    "value": "• None"
-        		},
-        		{
-                    "name": "Official Length:",
-                    "value": "• Short"
-       			},
-        		{
-                    "name": "Items Required:",
-                    "value": "• Combat Equipment"
-        		},
-        		{
-                    "name": "Enemies to Defeat:",
-                    "value": "• [Sir Bedivere](https://runescape.wikia.com/wiki/Sir_Bedivere) (Level 79)\n• [Sir Pelleas](https://runescape.wikia.com/wiki/Sir_Pelleas) (Level 79)\n• [Sir Tristram](https://runescape.wikia.com/wiki/Sir_Tristram) (Level 79)\n• [Sir Palomedes](https://runescape.wikia.com/wiki/Sir_Palomedes) (Level 84)\n• [Sir Lucan](https://runescape.wikia.com/wiki/Sir_Lucan) (Level 84)\n• [Sir Gawain](https://runescape.wikia.com/wiki/Sir_Gawain) (Level 84)\n• [Sir Kay](https://runescape.wikia.com/wiki/Sir_Kay) (Level 84)\n• [Sir Lancelot](https://runescape.wikia.com/wiki/Sir_Lancelot) (Level 84)"
-        		},
-            {
+			"fields": [{
+					"name": "Start Point:",
+					"value": "• Speak to a [Squire](https://runescape.wikia.com/wiki/Squire) standing outside the door of the Camelot Castle training room, who will explain how the training grounds work"
+				},
+				{
+					"name": "Official Difficulty:",
+					"value": "• None"
+				},
+				{
+					"name": "Official Length:",
+					"value": "• Short"
+				},
+				{
+					"name": "Items Required:",
+					"value": "• Combat Equipment"
+				},
+				{
+					"name": "Enemies to Defeat:",
+					"value": "• [Sir Bedivere](https://runescape.wikia.com/wiki/Sir_Bedivere) (Level 79)\n• [Sir Pelleas](https://runescape.wikia.com/wiki/Sir_Pelleas) (Level 79)\n• [Sir Tristram](https://runescape.wikia.com/wiki/Sir_Tristram) (Level 79)\n• [Sir Palomedes](https://runescape.wikia.com/wiki/Sir_Palomedes) (Level 84)\n• [Sir Lucan](https://runescape.wikia.com/wiki/Sir_Lucan) (Level 84)\n• [Sir Gawain](https://runescape.wikia.com/wiki/Sir_Gawain) (Level 84)\n• [Sir Kay](https://runescape.wikia.com/wiki/Sir_Kay) (Level 84)\n• [Sir Lancelot](https://runescape.wikia.com/wiki/Sir_Lancelot) (Level 84)"
+				},
+				{
 					"name": "Requirements:",
 					"value": "• 70 Prayer\n• 70 Defense \n\n• King's Ransom Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/King%27s_Ransom)"
 				},
@@ -7108,8 +6830,8 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 15"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"port life": {
 		"cmds": ["comp"],
@@ -7123,18 +6845,16 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
-					"name": "Requirements:",
-					"value": "One of the following:\n• 90 Agility\n• 90 Construction\n• 90 Cooking\n• 90 Divination\n• 90 Dungeoneering\n• 90 Fishing\n• 90 Herblore\n• 90 Hunter\n• 90 Prayer\n• 90 Runecrafting\n• 90 Slayer\n• 90 Thieving"
-				}
-			],
+			"fields": [{
+				"name": "Requirements:",
+				"value": "One of the following:\n• 90 Agility\n• 90 Construction\n• 90 Cooking\n• 90 Divination\n• 90 Dungeoneering\n• 90 Fishing\n• 90 Herblore\n• 90 Hunter\n• 90 Prayer\n• 90 Runecrafting\n• 90 Slayer\n• 90 Thieving"
+			}],
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 5"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"post fume": {
 		"cmds": ["mqc", "trim"],
@@ -7148,8 +6868,7 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
+			"fields": [{
 					"name": "Monstrous Cave Crawler:",
 					"value": "This boss attacks rapidly with ranged. The poison from its ranged attack severely reduces the duration of any [antipoison](https://runescape.wikia.com/wiki/Antipoison) effect. The recommended style to fight the Monstrous cave crawler is melee, although it is also possible to use ranged or magic. The creature's attacks continue to poison players quickly even through prayer. It is futile to drink antipoison as quickly as the creature inflicts poison. Players should instead concentrate on killing the creature, using food occasionally if necessary to heal from the poison. Take some antipoison for after the fight is over, though."
 				},
@@ -7174,8 +6893,8 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 20"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"potion for a lady": {
 		"cmds": ["comp", "mqc"],
@@ -7189,8 +6908,7 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
+			"fields": [{
 					"name": "​",
 					"value": "The [Elite Dungeon Reward Shop](https://runescape.wikia.com/wiki/Elite_Dungeon_Reward_Shop) is a shop run by [Bryll Thoksdottir](https://runescape.wikia.com/wiki/Bryll_Thoksdottir) that sells unlocks and consumables. It's located south of Daemonheim near the [Dungeoneering reward shop](https://runescape.wikia.com/wiki/Dungeoneering/Rewards). The player can purchase team and solo Gorajo cards here in the hopes of receiving a Consistent Yak card, though the chance is low."
 				},
@@ -7207,8 +6925,8 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 15"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"potion mixer master": {
 		"cmds": ["comp"],
@@ -7222,8 +6940,7 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
+			"fields": [{
 					"name": "​",
 					"value": "The [Elite Dungeon Reward Shop](https://runescape.wikia.com/wiki/Elite_Dungeon_Reward_Shop) is a shop run by [Bryll Thoksdottir](https://runescape.wikia.com/wiki/Bryll_Thoksdottir) that sells unlocks and consumables. It's located south of Daemonheim near the [Dungeoneering reward shop](https://runescape.wikia.com/wiki/Dungeoneering/Rewards). The player can purchase team and solo Gorajo cards here in the hopes of receiving a Consistent Yak card, though the chance is low.\n\nA player who hasn't talked to Lady Meilyr can generate a page, but they cannot pick it up and it will be invisible to other players. Attempting to do so will get the message: \"You need to get a journal from Lady Meilyr in Prifddinas before you can start collecting these."
 				},
@@ -7236,8 +6953,8 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 60"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"power of three spirits": {
 		"cmds": ["mqc"],
@@ -7251,18 +6968,16 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
-					"name": "Requirements:",
-					"value": "• 89 Farming\n\n• The Prisoner of Glouphrie Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Prisoner_of_Glouphrie)\n• Plague's End Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Plague%27s_End)"
-				}
-			],
+			"fields": [{
+				"name": "Requirements:",
+				"value": "• 89 Farming\n\n• The Prisoner of Glouphrie Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Prisoner_of_Glouphrie)\n• Plague's End Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Plague%27s_End)"
+			}],
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 10"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"quiet but deadly lore": {
 		"cmds": ["mqc", "trim"],
@@ -7276,8 +6991,7 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
+			"fields": [{
 					"name": "Requirements:",
 					"value": "• 60 Summoning"
 				},
@@ -7290,37 +7004,36 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 30"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"rank: master finix": {
 		"cmds": ["trim"],
 		"embed": {
-            "title": "Rank: Master Finix",
-            "author": {
-                "name": "Cape Info",
-                "icon_url": "https://i.imgur.com/6c6q2iC.png"
-            },
-            "description": "[Rank: Master Finix](https://runescape.wikia.com/wiki/Rank:_Master_Finix) is an achievement that requires the player to obtain the rank 1 [Esteem](https://runescape.wikia.com/wiki/Runespan#Esteem.28m.29) from [Wizard Finix](https://runescape.wikia.com/wiki/Wizard_Finix) in [Runespan](https://runescape.wikia.com/wiki/Runespan). This will cost a total of 211,860 [Runespan points](https://runescape.wikia.com/wiki/Runespan#Points). Players are also have a chance to receive an [Unstable air runes](https://runescape.wikia.com/wiki/Unstable_air_rune) from the [Motherlode Maw](https://runescape.wikia.com/wiki/Motherlode_Maw) and the [Travelling Merchant's Shop](https://runescape.wikia.com/wiki/Travelling_Merchant%27s_Shop). You may sign up for the <@&443761702903873536> notification role to be notified when the [Travelling Merchant](https://runescape.wikia.com/wiki/Travelling_merchant) has one in stock.  You may be interested in viewing this [Runespan Points Calculator](https://www.reddit.com/r/runescape/comments/7mi0fz/runespan_points_per_minute_at_99_rc_test_my/?st=JBPOLNJZ&sh=28343b1c) for aiding you in this requirement.",
-            "thumbnail": {
-                "url": "https://i.imgur.com/Shmagnp.png"
-            },
-            "fields": [
-                {
-                    "name": "Requirements:",
-                    "value": "• 211,860 Runespan points\n• [Infinity Etheral Outfit](https://runescape.wikia.com/wiki/Infinity_ethereal_outfit) and [Master Runecrafter Robes](https://runescape.wikia.com/wiki/Master_runecrafter_robes) are recommended"
-                },
-                {
+			"title": "Rank: Master Finix",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Rank: Master Finix](https://runescape.wikia.com/wiki/Rank:_Master_Finix) is an achievement that requires the player to obtain the rank 1 [Esteem](https://runescape.wikia.com/wiki/Runespan#Esteem.28m.29) from [Wizard Finix](https://runescape.wikia.com/wiki/Wizard_Finix) in [Runespan](https://runescape.wikia.com/wiki/Runespan). This will cost a total of 211,860 [Runespan points](https://runescape.wikia.com/wiki/Runespan#Points). Players are also have a chance to receive an [Unstable air runes](https://runescape.wikia.com/wiki/Unstable_air_rune) from the [Motherlode Maw](https://runescape.wikia.com/wiki/Motherlode_Maw) and the [Travelling Merchant's Shop](https://runescape.wikia.com/wiki/Travelling_Merchant%27s_Shop). You may sign up for the <@&443761702903873536> notification role to be notified when the [Travelling Merchant](https://runescape.wikia.com/wiki/Travelling_merchant) has one in stock.  You may be interested in viewing this [Runespan Points Calculator](https://www.reddit.com/r/runescape/comments/7mi0fz/runespan_points_per_minute_at_99_rc_test_my/?st=JBPOLNJZ&sh=28343b1c) for aiding you in this requirement.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [{
+					"name": "Requirements:",
+					"value": "• 211,860 Runespan points\n• [Infinity Etheral Outfit](https://runescape.wikia.com/wiki/Infinity_ethereal_outfit) and [Master Runecrafter Robes](https://runescape.wikia.com/wiki/Master_runecrafter_robes) are recommended"
+				},
+				{
 					"name": "Guide:",
 					"value": "• [Efficiency Experts Ultimate Guide to Runespan | Efficiency Experts - YouTube](https://www.youtube.com/watch?v=xWFruSMMK9s)"
-                }
-            ],
-            "footer": {
-                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-                "text": "Runescore awarded: 30"
-            },
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 30"
+			},
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"reaper crew": {
 		"cmds": ["comp"],
@@ -7334,18 +7047,16 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
-					"name": "Guides:",
-					"value": "• [PvM Pocketbook by Ancient Dawn | Google Drive](https://drive.google.com/file/d/0B1BQkGxSlc2tQmt5Yl9LeUV4d1E/view)\n\n• <#476790691436167168>"
-				}
-			],
+			"fields": [{
+				"name": "Guides:",
+				"value": "• [PvM Pocketbook by Ancient Dawn | Google Drive](https://drive.google.com/file/d/0B1BQkGxSlc2tQmt5Yl9LeUV4d1E/view)\n\n• <#476790691436167168>"
+			}],
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 0"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"relight my fire": {
 		"cmds": ["mqc"],
@@ -7359,8 +7070,7 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
+			"fields": [{
 					"name": "Requirements:",
 					"value": "• 75 Magic\n\n• While Guthix Sleeps Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/While_Guthix_Sleeps)"
 				},
@@ -7373,8 +7083,8 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 20"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"reliquary of cithara": {
 		"cmds": ["mqc"],
@@ -7388,8 +7098,7 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
+			"fields": [{
 					"name": "​",
 					"value": "\t• A [ring of visibility](https://runescape.wikia.com/wiki/Ring_of_visibility) (unless the player has been granted the gift of looking into the [shadow realm](https://runescape.wikia.com/wiki/Shadow_Realm) by [Sliske](https://runescape.wikia.com/wiki/Sliske))\n\t• A [ghostspeak amulet](https://runescape.wikia.com/wiki/Ghostspeak_amulet) or [cramulet](https://runescape.wikia.com/wiki/Cramulet) (unless the [reward](https://runescape.wikia.com/wiki/Morytania_legs_3) from the [Morytania Hard Tasks](https://runescape.wikia.com/wiki/Morytania_achievements#Hard_tasks) have been claimed)\n\t• Six pieces of [acceptable Saradomin equipment](https://runescape.wikia.com/wiki/Holy_Cithara#Obtaining_the_Holy_Cithara) that the player owns. No items aligned with another [god](https://runescape.wikia.com/wiki/Gods) may be either equipped or in the player's inventory. Neither the ring of visibility nor ghostspeak amulet count as one of these items."
 				},
@@ -7406,8 +7115,8 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 10"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"respect the balance": {
 		"cmds": ["mqc"],
@@ -7421,18 +7130,16 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
-					"name": "Requirements:",
-					"value": "• 74 Firemaking\n• 90 Prayer\n\n• The World Wakes Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_World_Wakes)"
-				}
-			],
+			"fields": [{
+				"name": "Requirements:",
+				"value": "• 74 Firemaking\n• 90 Prayer\n\n• The World Wakes Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_World_Wakes)"
+			}],
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 15"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"rhian the gold - the original": {
 		"cmds": ["comp"],
@@ -7443,38 +7150,37 @@ exports.data = {
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
 			"description": "[Rhian in Gold - The Original](http://runescape.wikia.com/wiki/Rhian_in_Gold_-_The_Original) is an achievement that requires the player to collect all of the [golden rocks](https://runescape.wikia.com/wiki/Golden_rock) and building the [Statue of Rhiannon](https://runescape.wikia.com/wiki/Statue_of_Rhiannon) once.\n\nThe plinth for the statue is located in the [Tower of Voices](https://runescape.wikia.com/wiki/Tower_of_Voices) in [Prifddinas](https://runescape.wikia.com/wiki/Prifddinas), where it is attended by [Auron Ithell](https://runescape.wikia.com/wiki/Auron_Ithell). You can build as many statues per week as you desire, unlike the [Dahmaroc statue](https://runescape.wikia.com/wiki/Dahmaroc_statue).\n\nPlayers should note:\n• Rocks are obtained randomly based on the number of experience drops, not on the size of the experience drop. \n• Rock chances reduce for the given skill when gaining the first rock, so you should switch skills in-between.\n• It is beneficial to obtain rocks while capping if that is something your clan requires.\n• The rocks must be added in pairs, and can be stored in the [Statue collection bag]( https://runescape.wikia.com/wiki/Statue_collection_bag). \n• While [Golden rocks]( https://runescape.wikia.com/wiki/Golden_rock) are not restricted to only being found in Prifddinas, it is more likely to find one while skilling in a district of the city that has the [Voice of Seren]( https://runescape.wikia.com/wiki/Voice_of_Seren) active.",
-            "thumbnail": {
-                "url": "https://i.imgur.com/Shmagnp.png"
-            },
-            "fields": [
-                {
-                    "name": "Requirements:",
-                    "value": "• The ability to obtain golden rocks must be toggled on"
-                },
-                {
-                    "name": "Methods:",
-                    "value": "\n**Dungeoneering**\n• Completing [Small]( https://runescape.wikia.com/wiki/Dungeoneering#Dungeon_size), [Complexity 4]( https://runescape.wikia.com/wiki/Dungeoneering#Complexity) Dungeoneering [Floors]( https://runescape.wikia.com/wiki/Dungeoneering#Floors)\n• Participating in an [Elite Dungeon]( https://runescape.wikia.com/wiki/Elite_dungeons)\n\n**Summoning**\n• [Spirit Terrorbird pouches]( https://runescape.wikia.com/wiki/Spirit_terrorbird_pouch) during the [Amlodd]( https://runescape.wikia.com/wiki/Amlodd_Clan) Voice of Seren\n\n**Slayer**\n• Gather slayer with your preferred [Mask]( https://runescape.wikia.com/wiki/Slayer_mask) or [Slayer contract]( https://runescape.wikia.com/wiki/Slayer_contract) and then go to the [Trolls]( https://runescape.wikia.com/wiki/Troll) in the [Abandoned Burthorpe mine]( https://runescape.wikia.com/wiki/Abandoned_Burthorpe_mine)"
-                },
-                {
-                    "name": "​",
-                    "value": "**Divination**\n• [Siphon Incandescent Memories]( https://runescape.wikia.com/wiki/Incandescent_memory) into [Energy]( https://runescape.wikia.com/wiki/Incandescent_energy), experience, or [Divine charges]( https://runescape.wikia.com/wiki/Divine_charge)"
-                },
-                {
-                    "name": "​",
-                    "value": "**Agility**\n• [Cycling](https://runescape.wikia.com/wiki/The_Empty_Throne_Room#Agility) in [The Empty Throne Room](https://runescape.wikia.com/wiki/The_Empty_Throne_Room)\n\n**Construction**\n• [Stone Fireplaces](https://runescape.wikia.com/wiki/Stone_fireplace) (buy [Limestone bricks](https://runescape.wikia.com/wiki/Limestone) outside of [Prifddinas](https://runescape.wikia.com/wiki/Prifddinas) house portal during the [Ithell](https://runescape.wikia.com/wiki/Ithell_Clan) [Voice of Seren](https://runescape.wikia.com/wiki/Voice_of_Seren))\n• [Oak Lecterns](https://runescape.wikia.com/wiki/Oak_lectern) (Requires only 1 [Oak Plank](https://runescape.wikia.com/wiki/Oak_plank))"
-                },
-                {
-                    "name": "​",
-                    "value": "**Crafting**\n• [Crystal Flasks](https://runescape.wikia.com/wiki/Crystal_flask) or [Potion Flasks](https://runescape.wikia.com/wiki/Potion_flask) made with Daily [Crystal Glass](https://runescape.wikia.com/wiki/Crystal_glass) or [Robust Glass](https://runescape.wikia.com/wiki/Robust_glass) in any district where the Voice of Seren is active\n• [Empty light orb](https://runescape.wikia.com/wiki/Empty_light_orb) from [Molten Glass](https://runescape.wikia.com/wiki/Molten_glass)\n• Playing the [Harps](https://runescape.wikia.com/wiki/Harp) in Prifddinas\n\n**Farming**\n• [Rumberry Bushes](https://runescape.wikia.com/wiki/Rumberry_bush) on [Tuai Leit](https://runescape.wikia.com/wiki/Tuai_Leit)\n• [Grapvine](https://www.youtube.com/watch?v=EKBj8-gF28M) Runs with [Herb Run](https://www.youtube.com/watch?v=TzNhjl2RZ1c)"
-                },
-                {
-                    "name": "​",
-                    "value": "**Herblore**\n• Cleaning [Tarromin](https://runescape.wikia.com/wiki/Grimy_tarromin) in any district where the Voice of Seren is active\n\n**Mining**\n• [Seren Stones](https://runescape.wikia.com/wiki/Seren_stone)\n• [Pure Essence](https://runescape.wikia.com/wiki/Pure_essence)\n• [Red Sandstone](https://runescape.wikia.com/wiki/Red_sandstone) or [Crystal-flecked sandstone](https://runescape.wikia.com/wiki/Crystal-flecked_sandstone) Daily\n\n**Smithing**\n• [Corrupted Ore](https://runescape.wikia.com/wiki/Corrupted_ore)\n• [Gold Bars](https://runescape.wikia.com/wiki/Gold_bar) at a [Portable forge](https://runescape.wikia.com/wiki/Portable_forge)\n\n**Woodcutting**\n• [Crystallise](https://runescape.wikia.com/wiki/Crystallise) [Acadia](https://runescape.wikia.com/wiki/Acadia_tree) in [Menaphos](https://runescape.wikia.com/wiki/Menaphos)\n• [Ivy](https://runescape.wikia.com/wiki/Ivy)"
-                },
-                {
-                    "name": "​",
-                    "value": "**Thieving**\n• [Elven clan workers](https://runescape.wikia.com/wiki/Elven_clan_worker)\n• [Dwarf Traders](https://runescape.wikia.com/wiki/Trader)"
-                },
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [{
+					"name": "Requirements:",
+					"value": "• The ability to obtain golden rocks must be toggled on"
+				},
+				{
+					"name": "Methods:",
+					"value": "\n**Dungeoneering**\n• Completing [Small]( https://runescape.wikia.com/wiki/Dungeoneering#Dungeon_size), [Complexity 4]( https://runescape.wikia.com/wiki/Dungeoneering#Complexity) Dungeoneering [Floors]( https://runescape.wikia.com/wiki/Dungeoneering#Floors)\n• Participating in an [Elite Dungeon]( https://runescape.wikia.com/wiki/Elite_dungeons)\n\n**Summoning**\n• [Spirit Terrorbird pouches]( https://runescape.wikia.com/wiki/Spirit_terrorbird_pouch) during the [Amlodd]( https://runescape.wikia.com/wiki/Amlodd_Clan) Voice of Seren\n\n**Slayer**\n• Gather slayer with your preferred [Mask]( https://runescape.wikia.com/wiki/Slayer_mask) or [Slayer contract]( https://runescape.wikia.com/wiki/Slayer_contract) and then go to the [Trolls]( https://runescape.wikia.com/wiki/Troll) in the [Abandoned Burthorpe mine]( https://runescape.wikia.com/wiki/Abandoned_Burthorpe_mine)"
+				},
+				{
+					"name": "​",
+					"value": "**Divination**\n• [Siphon Incandescent Memories]( https://runescape.wikia.com/wiki/Incandescent_memory) into [Energy]( https://runescape.wikia.com/wiki/Incandescent_energy), experience, or [Divine charges]( https://runescape.wikia.com/wiki/Divine_charge)"
+				},
+				{
+					"name": "​",
+					"value": "**Agility**\n• [Cycling](https://runescape.wikia.com/wiki/The_Empty_Throne_Room#Agility) in [The Empty Throne Room](https://runescape.wikia.com/wiki/The_Empty_Throne_Room)\n\n**Construction**\n• [Stone Fireplaces](https://runescape.wikia.com/wiki/Stone_fireplace) (buy [Limestone bricks](https://runescape.wikia.com/wiki/Limestone) outside of [Prifddinas](https://runescape.wikia.com/wiki/Prifddinas) house portal during the [Ithell](https://runescape.wikia.com/wiki/Ithell_Clan) [Voice of Seren](https://runescape.wikia.com/wiki/Voice_of_Seren))\n• [Oak Lecterns](https://runescape.wikia.com/wiki/Oak_lectern) (Requires only 1 [Oak Plank](https://runescape.wikia.com/wiki/Oak_plank))"
+				},
+				{
+					"name": "​",
+					"value": "**Crafting**\n• [Crystal Flasks](https://runescape.wikia.com/wiki/Crystal_flask) or [Potion Flasks](https://runescape.wikia.com/wiki/Potion_flask) made with Daily [Crystal Glass](https://runescape.wikia.com/wiki/Crystal_glass) or [Robust Glass](https://runescape.wikia.com/wiki/Robust_glass) in any district where the Voice of Seren is active\n• [Empty light orb](https://runescape.wikia.com/wiki/Empty_light_orb) from [Molten Glass](https://runescape.wikia.com/wiki/Molten_glass)\n• Playing the [Harps](https://runescape.wikia.com/wiki/Harp) in Prifddinas\n\n**Farming**\n• [Rumberry Bushes](https://runescape.wikia.com/wiki/Rumberry_bush) on [Tuai Leit](https://runescape.wikia.com/wiki/Tuai_Leit)\n• [Grapvine](https://www.youtube.com/watch?v=EKBj8-gF28M) Runs with [Herb Run](https://www.youtube.com/watch?v=TzNhjl2RZ1c)"
+				},
+				{
+					"name": "​",
+					"value": "**Herblore**\n• Cleaning [Tarromin](https://runescape.wikia.com/wiki/Grimy_tarromin) in any district where the Voice of Seren is active\n\n**Mining**\n• [Seren Stones](https://runescape.wikia.com/wiki/Seren_stone)\n• [Pure Essence](https://runescape.wikia.com/wiki/Pure_essence)\n• [Red Sandstone](https://runescape.wikia.com/wiki/Red_sandstone) or [Crystal-flecked sandstone](https://runescape.wikia.com/wiki/Crystal-flecked_sandstone) Daily\n\n**Smithing**\n• [Corrupted Ore](https://runescape.wikia.com/wiki/Corrupted_ore)\n• [Gold Bars](https://runescape.wikia.com/wiki/Gold_bar) at a [Portable forge](https://runescape.wikia.com/wiki/Portable_forge)\n\n**Woodcutting**\n• [Crystallise](https://runescape.wikia.com/wiki/Crystallise) [Acadia](https://runescape.wikia.com/wiki/Acadia_tree) in [Menaphos](https://runescape.wikia.com/wiki/Menaphos)\n• [Ivy](https://runescape.wikia.com/wiki/Ivy)"
+				},
+				{
+					"name": "​",
+					"value": "**Thieving**\n• [Elven clan workers](https://runescape.wikia.com/wiki/Elven_clan_worker)\n• [Dwarf Traders](https://runescape.wikia.com/wiki/Trader)"
+				},
 				{
 					"name": "Requirements:",
 					"value": "• Plague's End Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Plague%27s_End)"
@@ -7483,13 +7189,13 @@ exports.data = {
 					"name": "Guide:",
 					"value": "• [Golden Rock Guide | Runescape Wiki](http://runescape.wikia.com/wiki/Golden_rock)"
 				}
-					],
-					"footer": {
-					"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-					"text": "Runescore awarded: 50"
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 50"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"roake kal": {
 		"cmds": ["mqc"],
@@ -7503,18 +7209,16 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
-					"name": "Requirements:",
-					"value": "• 85 Agility\n• 85 Construction\n• 85 Firemaking\n• 85 Thieving \n\n• Pieces of Hate Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Pieces_of_Hate)"
-				}
-			],
+			"fields": [{
+				"name": "Requirements:",
+				"value": "• 85 Agility\n• 85 Construction\n• 85 Firemaking\n• 85 Thieving \n\n• Pieces of Hate Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Pieces_of_Hate)"
+			}],
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 10"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"rogue down": {
 		"cmds": ["mqc"],
@@ -7528,18 +7232,16 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
-					"name": "Requirements:",
-					"value": "• Summer's End Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Summer%27s_End)"
-				}
-			],
+			"fields": [{
+				"name": "Requirements:",
+				"value": "• Summer's End Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Summer%27s_End)"
+			}],
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 15"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"rusty reward": {
 		"cmds": ["mqc"],
@@ -7553,18 +7255,16 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
-					"name": "Requirements:",
-					"value": "• Rocking Out Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Rocking_Out)"
-				}
-			],
+			"fields": [{
+				"name": "Requirements:",
+				"value": "• Rocking Out Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Rocking_Out)"
+			}],
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 15"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"scabigail": {
 		"cmds": ["mqc", "trim"],
@@ -7578,28 +7278,27 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-							{
-                    "name": "Start Point:",
-                    "value": "• Speak to Lead archaeologist Abigail in the Ullek [Buttes](https://runescape.wikia.com/wiki/File:Lead_archaeologist_Abigail_location.png)"
-      			},
-        		{
-                    "name": "Official Difficulty:",
-                    "value": "• None"
-        		},
-        		{
-                    "name": "Official Length:",
-                    "value": "• Medium"
-       			},
-        		{
-                    "name": "Items Required:",
-                    "value": "• Scabaras research (It can be found in the [Bookcase](https://runescape.wikia.com/wiki/Bookcase) of a [Player-owned house](https://runescape.wikia.com/wiki/Player-owned_house) listed under `My Notes` with a subtitle: `Dealing With Scabaras`. There is another book in the bookcase with the title `My Notes` pertaining to 'Discoveries from the ancient cavern beneath the lake.')"
-        		},
-        		{
-                    "name": "Enemies to Defeat:",
-                    "value": "• Many Skeletons, Dried zombies, Scabarites, or Mummies"
-        		},
-            {
+			"fields": [{
+					"name": "Start Point:",
+					"value": "• Speak to Lead archaeologist Abigail in the Ullek [Buttes](https://runescape.wikia.com/wiki/File:Lead_archaeologist_Abigail_location.png)"
+				},
+				{
+					"name": "Official Difficulty:",
+					"value": "• None"
+				},
+				{
+					"name": "Official Length:",
+					"value": "• Medium"
+				},
+				{
+					"name": "Items Required:",
+					"value": "• Scabaras research (It can be found in the [Bookcase](https://runescape.wikia.com/wiki/Bookcase) of a [Player-owned house](https://runescape.wikia.com/wiki/Player-owned_house) listed under `My Notes` with a subtitle: `Dealing With Scabaras`. There is another book in the bookcase with the title `My Notes` pertaining to 'Discoveries from the ancient cavern beneath the lake.')"
+				},
+				{
+					"name": "Enemies to Defeat:",
+					"value": "• Many Skeletons, Dried zombies, Scabarites, or Mummies"
+				},
+				{
 					"name": "Requirements:",
 					"value": "• Dealing with Scabaras Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Dealing_with_Scabaras)"
 				},
@@ -7612,8 +7311,8 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 10"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"scribbling in the depths": {
 		"cmds": ["mqc", "trim"],
@@ -7627,18 +7326,16 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
-					"name": "Requirements:",
-					"value": "• 80 Constitution\n\n• Song from the Depths Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Song_from_the_Depths)"
-				}
-			],
+			"fields": [{
+				"name": "Requirements:",
+				"value": "• 80 Constitution\n\n• Song from the Depths Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Song_from_the_Depths)"
+			}],
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 10"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"scribblings of a dragonkin": {
 		"cmds": ["mqc"],
@@ -7652,8 +7349,7 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
+			"fields": [{
 					"name": "Requirements:",
 					"value": "• 115 Dungeoneering\n\n• Plague's End Quest completion | [Runescape Wiki](https://runescape.wikia.com/wiki/Plague%27s_End)"
 				},
@@ -7666,99 +7362,95 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 25"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"scrolling with power": {
 		"cmds": ["trim"],
 		"embed": {
-            "title": "Scrolling with Power",
-            "author": {
-                "name": "Cape Info",
-                "icon_url": "https://i.imgur.com/6c6q2iC.png"
-            },
-            "description": "[Scrolling with Power](https://runescape.wikia.com/wiki/Scrolling_with_Power) is an achievement that requires the player to unlock all Dungeoneering [Scroll traits](https://runescape.wikia.com/wiki/Dungeoneering/Rewards). This will cost a total of 190,000 [Dungeoneering tokens](https://runescape.wikia.com/wiki/Dungeoneering_token).\n\nThis includes:\n• [Scroll of life](https://runescape.wikia.com/wiki/Scroll_of_life)\n• [Scroll of cleansing](https://runescape.wikia.com/wiki/Scroll_of_cleansing)\n• [Scroll of proficiency](https://runescape.wikia.com/wiki/Scroll_of_proficiency)\n• [Scroll of quick teleportation](https://runescape.wikia.com/wiki/Scroll_of_quick_teleportation)\n• [Scroll of efficiency](https://runescape.wikia.com/wiki/Scroll_of_efficiency)\n• [Scroll of Daemonheim](https://runescape.wikia.com/wiki/Scroll_of_Daemonheim)\n• [Scroll of dexterity](https://runescape.wikia.com/wiki/Scroll_of_dexterity)\n• [Wild card](https://runescape.wikia.com/wiki/Wild_card)\n\nTokens are received for completing a dungeon; no tokens are earned if the dungeon is left early. The amount of tokens a player receives is dependent on the amount of experience gained for completing a floor, in a 10:1 ratio of experience to tokens rounded down. An example being if a player received 459 experience, they would get 45 Dungeoneering tokens. Bonus experience does not affect token gain. Tokens can also be obtained in ways other than completing dungeons.\n\nBy participating in [Sinkholes](https://runescape.wikia.com/wiki/Sinkholes), a player will earn tokens relative to their level and their prize. They can also be obtained by playing [Fremennik sagas](https://runescape.wikia.com/wiki/Fremennik_saga) or by killing creatures within an [Elite Dungeon](https://runescape.wikia.com/wiki/Elite_Dungeons).",
-            "thumbnail": {
-                "url": "https://i.imgur.com/Shmagnp.png"
-            },
-            "fields": [
-                {
-                    "name": "Requirements:",
-                    "value": "• 190,000 Dungeoneering tokens"
-                },
-                {
-                    "name": "Guide:",
-                    "value": "<#431117799965065216>"
-                }
-            ],
-            "footer": {
-                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-                "text": "Runescore awarded: 20"
-            },
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"title": "Scrolling with Power",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Scrolling with Power](https://runescape.wikia.com/wiki/Scrolling_with_Power) is an achievement that requires the player to unlock all Dungeoneering [Scroll traits](https://runescape.wikia.com/wiki/Dungeoneering/Rewards). This will cost a total of 190,000 [Dungeoneering tokens](https://runescape.wikia.com/wiki/Dungeoneering_token).\n\nThis includes:\n• [Scroll of life](https://runescape.wikia.com/wiki/Scroll_of_life)\n• [Scroll of cleansing](https://runescape.wikia.com/wiki/Scroll_of_cleansing)\n• [Scroll of proficiency](https://runescape.wikia.com/wiki/Scroll_of_proficiency)\n• [Scroll of quick teleportation](https://runescape.wikia.com/wiki/Scroll_of_quick_teleportation)\n• [Scroll of efficiency](https://runescape.wikia.com/wiki/Scroll_of_efficiency)\n• [Scroll of Daemonheim](https://runescape.wikia.com/wiki/Scroll_of_Daemonheim)\n• [Scroll of dexterity](https://runescape.wikia.com/wiki/Scroll_of_dexterity)\n• [Wild card](https://runescape.wikia.com/wiki/Wild_card)\n\nTokens are received for completing a dungeon; no tokens are earned if the dungeon is left early. The amount of tokens a player receives is dependent on the amount of experience gained for completing a floor, in a 10:1 ratio of experience to tokens rounded down. An example being if a player received 459 experience, they would get 45 Dungeoneering tokens. Bonus experience does not affect token gain. Tokens can also be obtained in ways other than completing dungeons.\n\nBy participating in [Sinkholes](https://runescape.wikia.com/wiki/Sinkholes), a player will earn tokens relative to their level and their prize. They can also be obtained by playing [Fremennik sagas](https://runescape.wikia.com/wiki/Fremennik_saga) or by killing creatures within an [Elite Dungeon](https://runescape.wikia.com/wiki/Elite_Dungeons).",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [{
+					"name": "Requirements:",
+					"value": "• 190,000 Dungeoneering tokens"
+				},
+				{
+					"name": "Guide:",
+					"value": "<#431117799965065216>"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 20"
+			},
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"seagullible": {
 		"cmds": ["trim"],
 		"embed": {
-            "title": "Seagullible",
-            "author": {
-                "name": "Cape Info",
-                "icon_url": "https://i.imgur.com/6c6q2iC.png"
-            },
-            "description": "[Seagullible](https://runescape.wikia.com/wiki/Seagullible) is an achievement that requires the player to gain tier 10 [Reputation](https://runescape.wikia.com/wiki/Menaphos/Reputation) in the [Ports district](https://runescape.wikia.com/wiki/Port_district) of [Menaphos](https://runescape.wikia.com/wiki/Menaphos).\n\nPlayers must first choose to which faction they want to align themselves before reputation can be earned. Right-click on a faction icon within the faction windows to choose a faction. If no faction is selected, reputation is not gained and the following message is seen instead: \"You have not currently selected a faction, so earned no reputation!\"\n\nYou can use `soulobby` friend's chat to find [Soul Obelisks](https://runescape.wikia.com/wiki/Soul_obelisk_(Menaphos) and [Corrupted Scarabs](https://runescape.wikia.com/wiki/Corrupted_scarab) easily. You can gain 20,000 reputatation per day from Soul Obelisks and a varied amount from Corrupted Scarabs daily. You will be able to finish this requirement within two weeks utilizing this method as a daily.\n\nReputation is a mechanic that is used within [Menaphos](https://runescape.wikia.com/wiki/Menaphos). All skilling activities within the walls of Menaphos earn reputation. In addition, skilling using any of the methods released along with Menaphos rewards a higher amount of reputation.",
-            "thumbnail": {
-                "url": "https://i.imgur.com/Shmagnp.png"
-            },
-            "fields": [
-                {
-                    "name": "Increased Reputation Methods:",
-                    "value": "Those activities which award reputation at an increased rate are chopping [Acadia trees](https://runescape.wikia.com/wiki/Acadia_tree), mining [Concentrated sandstone](https://runescape.wikia.com/wiki/Concentrated_sandstone_rocks), fishing for [Desert sole](https://runescape.wikia.com/wiki/Raw_desert_sole), [Catfish](https://runescape.wikia.com/wiki/Raw_catfish), and [Beltfish](https://runescape.wikia.com/wiki/Raw_beltfish), thieving in the Menaphos market, catching [Plover birds](https://runescape.wikia.com/wiki/Plover_bird) in [Sophanem](https://runescape.wikia.com/wiki/Sophanem), and fighting [Corrupted creatures](http://runescape.wikia.com/wiki/Corrupted_creature) and [Soul devourers](http://runescape.wikia.com/wiki/Soul_devourer) in the [Sophanem Slayer Dungeon](https://runescape.wikia.com/wiki/Sophanem_Slayer_Dungeon). Furthermore, the highest rates of reputation are earned by playing the [Shifting Tombs](https://runescape.wikia.com/wiki/Shifting_Tombs) minigame."
-                },
-                {
-                    "name": "Repeatable Events for Reputation:",
-                    "value": "• Interacting with [Soul obelisks](https://runescape.wikia.com/wiki/Soul_obelisk_(Menaphos%29) in Menaphos can reward players up to 20,000 base reputation per day in a very short duration\n• Interacting with [Corrupted Scarabs](https://runescape.wikia.com/wiki/Corrupted_Scarab_(Menaphos) in Menaphos can reward players reputation\n• Completing a [City Quest](https://runescape.wikia.com/wiki/City_Quest) grants 2,000 base reputation, as well as a random-sized [Menaphite gift offering](https://runescape.wikia.com/wiki/Menaphite_gift_offering)"
-                },
-                {
-                    "name": "Permanent Reputation Increase:",
-                    "value": "After completion of Menaphos related quests, all reputation gain is increased.\n\t• [The Jack of Spades](https://runescape.wikia.com/wiki/The_Jack_of_Spades) - 1.25x\n\t• [Crocodile Tears](https://runescape.wikia.com/wiki/Crocodile_Tears) - 1.5x\n\t• [Our Man in the North](https://runescape.wikia.com/wiki/Our_Man_in_the_North) - 1.75x\n\t• ['Phite Club](https://runescape.wikia.com/wiki/%27Phite_Club) - 2.0x"
-                },
-                {
-                    "name": "Requirements:",
-                    "value": "• The Jack of Spades Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Jack_of_Spades)"
-                }
-            ],
-            "footer": {
-                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-                "text": "Runescore awarded: 40"
-            },
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"title": "Seagullible",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Seagullible](https://runescape.wikia.com/wiki/Seagullible) is an achievement that requires the player to gain tier 10 [Reputation](https://runescape.wikia.com/wiki/Menaphos/Reputation) in the [Ports district](https://runescape.wikia.com/wiki/Port_district) of [Menaphos](https://runescape.wikia.com/wiki/Menaphos).\n\nPlayers must first choose to which faction they want to align themselves before reputation can be earned. Right-click on a faction icon within the faction windows to choose a faction. If no faction is selected, reputation is not gained and the following message is seen instead: \"You have not currently selected a faction, so earned no reputation!\"\n\nYou can use `soulobby` friend's chat to find [Soul Obelisks](https://runescape.wikia.com/wiki/Soul_obelisk_(Menaphos) and [Corrupted Scarabs](https://runescape.wikia.com/wiki/Corrupted_scarab) easily. You can gain 20,000 reputatation per day from Soul Obelisks and a varied amount from Corrupted Scarabs daily. You will be able to finish this requirement within two weeks utilizing this method as a daily.\n\nReputation is a mechanic that is used within [Menaphos](https://runescape.wikia.com/wiki/Menaphos). All skilling activities within the walls of Menaphos earn reputation. In addition, skilling using any of the methods released along with Menaphos rewards a higher amount of reputation.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [{
+					"name": "Increased Reputation Methods:",
+					"value": "Those activities which award reputation at an increased rate are chopping [Acadia trees](https://runescape.wikia.com/wiki/Acadia_tree), mining [Concentrated sandstone](https://runescape.wikia.com/wiki/Concentrated_sandstone_rocks), fishing for [Desert sole](https://runescape.wikia.com/wiki/Raw_desert_sole), [Catfish](https://runescape.wikia.com/wiki/Raw_catfish), and [Beltfish](https://runescape.wikia.com/wiki/Raw_beltfish), thieving in the Menaphos market, catching [Plover birds](https://runescape.wikia.com/wiki/Plover_bird) in [Sophanem](https://runescape.wikia.com/wiki/Sophanem), and fighting [Corrupted creatures](http://runescape.wikia.com/wiki/Corrupted_creature) and [Soul devourers](http://runescape.wikia.com/wiki/Soul_devourer) in the [Sophanem Slayer Dungeon](https://runescape.wikia.com/wiki/Sophanem_Slayer_Dungeon). Furthermore, the highest rates of reputation are earned by playing the [Shifting Tombs](https://runescape.wikia.com/wiki/Shifting_Tombs) minigame."
+				},
+				{
+					"name": "Repeatable Events for Reputation:",
+					"value": "• Interacting with [Soul obelisks](https://runescape.wikia.com/wiki/Soul_obelisk_(Menaphos%29) in Menaphos can reward players up to 20,000 base reputation per day in a very short duration\n• Interacting with [Corrupted Scarabs](https://runescape.wikia.com/wiki/Corrupted_Scarab_(Menaphos) in Menaphos can reward players reputation\n• Completing a [City Quest](https://runescape.wikia.com/wiki/City_Quest) grants 2,000 base reputation, as well as a random-sized [Menaphite gift offering](https://runescape.wikia.com/wiki/Menaphite_gift_offering)"
+				},
+				{
+					"name": "Permanent Reputation Increase:",
+					"value": "After completion of Menaphos related quests, all reputation gain is increased.\n\t• [The Jack of Spades](https://runescape.wikia.com/wiki/The_Jack_of_Spades) - 1.25x\n\t• [Crocodile Tears](https://runescape.wikia.com/wiki/Crocodile_Tears) - 1.5x\n\t• [Our Man in the North](https://runescape.wikia.com/wiki/Our_Man_in_the_North) - 1.75x\n\t• ['Phite Club](https://runescape.wikia.com/wiki/%27Phite_Club) - 2.0x"
+				},
+				{
+					"name": "Requirements:",
+					"value": "• The Jack of Spades Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Jack_of_Spades)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 40"
+			},
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"sentient letters": {
 		"cmds": ["mqc"],
 		"embed": {
-            "title": "Sentient Letters",
-            "author": {
-                "name": "Cape Info",
-                "icon_url": "https://i.imgur.com/6c6q2iC.png"
-            },
-            "description": "[Sentient Letters](http://runescape.wikia.com/wiki/Sentient_Letters) is an achievement that requires the player to collect the four lore drops from activities within [The Empty Throne Room](https://runescape.wikia.com/wiki/The_Empty_Throne_Room).\n\nThe four lore drops include:\n• [Letter signed 'Pontifex Madromurt'](https://runescape.wikia.com/wiki/Letter_signed_%27Pontifex_Madromurt%27)\n• [Letter signed 'Pontifex Nabor'](https://runescape.wikia.com/wiki/Letter_signed_%27Pontifex_Nabor%27)\n• [Letter signed 'Pontifex Bilrach'](https://runescape.wikia.com/wiki/Letter_signed_%27Pontifex_Bilrach%27)\n• The [damaged digsite letter](https://runescape.wikia.com/wiki/Damaged_digsite_letter)\n\nTraining at any of the skill nodes has a chance to add a [Senntisten scroll](https://runescape.wikia.com/wiki/Senntisten_scroll) to the player's inventory. They should be returned to [Celia Diggory](https://runescape.wikia.com/wiki/Celia_Diggory), which unlocks the ability to claim a transcribed copy from her. Celia Diggory is an archaeologist involved in digging up The Empty Throne Room, where she is located.\n\nThe Empty Throne Room (also known as the Senntisten digsite) is the excavated remains of the throne room of [Zaros](https://runescape.wikia.com/wiki/Zaros) in the ancient city of [Senntisten](https://runescape.wikia.com/wiki/Senntisten). It is located to the east of the [Digsite](https://runescape.wikia.com/wiki/Digsite).\n\nThe quickest way to obtain these lore drops is by using one of the 6 [Manual auto-cycles](https://runescape.wikia.com/wiki/The_Empty_Throne_Room#Agility).",
-            "thumbnail": {
-                "url": "https://i.imgur.com/Shmagnp.png"
-            },
-            "fields": [
-                {
-                    "name": "Requirements:",
-                    "value": "• 65 Mining **or** 65 Agility **or** 65 Divination"
-                }
-            ],
-            "footer": {
-                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-                "text": "Runescore awarded: 10"
-            },
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"title": "Sentient Letters",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Sentient Letters](http://runescape.wikia.com/wiki/Sentient_Letters) is an achievement that requires the player to collect the four lore drops from activities within [The Empty Throne Room](https://runescape.wikia.com/wiki/The_Empty_Throne_Room).\n\nThe four lore drops include:\n• [Letter signed 'Pontifex Madromurt'](https://runescape.wikia.com/wiki/Letter_signed_%27Pontifex_Madromurt%27)\n• [Letter signed 'Pontifex Nabor'](https://runescape.wikia.com/wiki/Letter_signed_%27Pontifex_Nabor%27)\n• [Letter signed 'Pontifex Bilrach'](https://runescape.wikia.com/wiki/Letter_signed_%27Pontifex_Bilrach%27)\n• The [damaged digsite letter](https://runescape.wikia.com/wiki/Damaged_digsite_letter)\n\nTraining at any of the skill nodes has a chance to add a [Senntisten scroll](https://runescape.wikia.com/wiki/Senntisten_scroll) to the player's inventory. They should be returned to [Celia Diggory](https://runescape.wikia.com/wiki/Celia_Diggory), which unlocks the ability to claim a transcribed copy from her. Celia Diggory is an archaeologist involved in digging up The Empty Throne Room, where she is located.\n\nThe Empty Throne Room (also known as the Senntisten digsite) is the excavated remains of the throne room of [Zaros](https://runescape.wikia.com/wiki/Zaros) in the ancient city of [Senntisten](https://runescape.wikia.com/wiki/Senntisten). It is located to the east of the [Digsite](https://runescape.wikia.com/wiki/Digsite).\n\nThe quickest way to obtain these lore drops is by using one of the 6 [Manual auto-cycles](https://runescape.wikia.com/wiki/The_Empty_Throne_Room#Agility).",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [{
+				"name": "Requirements:",
+				"value": "• 65 Mining **or** 65 Agility **or** 65 Divination"
+			}],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 10"
+			},
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"seren memories": {
 		"cmds": ["comp", "mqc"],
@@ -7772,8 +7464,7 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
+			"fields": [{
 					"name": "Quick Path to the Seren's Memorial crystals:",
 					"value": "• Start in the Sanctum, exit south into The Approach;\n\n• North, traverse the rock formation bridging a lavafall;\n\n• West, south, climb rock formation with black spikes;\n\n• West, walk across rock formation with purple healing crystals and climb down the Cliffside;\n\n• East, cross rock bridge into the area with crystal pillars;\n\n• You will be in an area with four pillars and four inactive crystals. One of the pillars will be active, and can be tagged. Tagging 80 active pillars will unlock all four crystals."
 				},
@@ -7790,111 +7481,107 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 20"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"shadow hanging over me": {
 		"cmds": ["mqc"],
 		"embed": {
-            "title": "Shadow Hanging Over Me",
-            "author": {
-                "name": "Cape Info",
-                "icon_url": "https://i.imgur.com/6c6q2iC.png"
-            },
-            "description": "[Shadow Hanging Over Me](http://runescape.wikia.com/wiki/Shadow_Hanging_Over_Me) is an achievement that requires the player to claim all treasure from the chests during, or from [Gudrik](https://runescape.wikia.com/wiki/Gudrik) after, the [A Shadow over Ashdale](https://runescape.wikia.com/wiki/A_Shadow_over_Ashdale) quest.\n\nGudrik Halbaddon is a retired [dwarf](https://runescape.wikia.com/wiki/Dwarf_(race) adventurer who can be found south-west of [Taverley](https://runescape.wikia.com/wiki/Taverley)'s bank.",
-            "thumbnail": {
-                "url": "https://i.imgur.com/Shmagnp.png"
-            },
-            "fields": [
-                {
-                    "name": "Requirements:",
-                    "value": "•  A Shadow over Ashdale Quest partial completion | [Runescape Wiki](http://runescape.wikia.com/wiki/A_Shadow_over_Ashdale)"
-                }
-            ],
-            "footer": {
-                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-                "text": "Runescore awarded: 5"
-            },
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"title": "Shadow Hanging Over Me",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Shadow Hanging Over Me](http://runescape.wikia.com/wiki/Shadow_Hanging_Over_Me) is an achievement that requires the player to claim all treasure from the chests during, or from [Gudrik](https://runescape.wikia.com/wiki/Gudrik) after, the [A Shadow over Ashdale](https://runescape.wikia.com/wiki/A_Shadow_over_Ashdale) quest.\n\nGudrik Halbaddon is a retired [dwarf](https://runescape.wikia.com/wiki/Dwarf_(race) adventurer who can be found south-west of [Taverley](https://runescape.wikia.com/wiki/Taverley)'s bank.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [{
+				"name": "Requirements:",
+				"value": "•  A Shadow over Ashdale Quest partial completion | [Runescape Wiki](http://runescape.wikia.com/wiki/A_Shadow_over_Ashdale)"
+			}],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 5"
+			},
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"shadows below": {
 		"cmds": ["trim"],
 		"embed": {
-            "title": "Shadows Below",
-            "author": {
-                "name": "Cape Info",
-                "icon_url": "https://i.imgur.com/6c6q2iC.png"
-            },
-            "description": "[Shadows Below](https://runescape.wikia.com/wiki/Shadows_Below) is is an achievement that requires the player to defeat the [Barrows: Rise of the Six](https://runescape.wikia.com/wiki/Barrows:_Rise_of_the_Six).\n\nPlayers may request free assistance for this kill utilizing the <#436714722847621120> channel.",
-            "thumbnail": {
-                "url": "https://i.imgur.com/Shmagnp.png"
-            },
-            "fields": [
-                {
-                    "name": "Requirements:",
-                    "value": "• A [Barrows totem](https://runescape.wikia.com/wiki/Barrows_totem)"
-                },
-                {
+			"title": "Shadows Below",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Shadows Below](https://runescape.wikia.com/wiki/Shadows_Below) is is an achievement that requires the player to defeat the [Barrows: Rise of the Six](https://runescape.wikia.com/wiki/Barrows:_Rise_of_the_Six).\n\nPlayers may request free assistance for this kill utilizing the <#436714722847621120> channel.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [{
+					"name": "Requirements:",
+					"value": "• A [Barrows totem](https://runescape.wikia.com/wiki/Barrows_totem)"
+				},
+				{
 					"name": "Guide:",
 					"value": "• [Rise of the Six Guide | The Junesong - YouTube](https://www.youtube.com/watch?v=lN5vy1gEh4o)\n• <#476790691436167168>"
-                }
-            ],
-            "footer": {
-                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-                "text": "Runescore awarded: 50"
-            },
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 50"
+			},
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"sheep shearer": {
 		"cmds": ["mqc", "trim"],
 		"embed": {
-            "title": "Sheep Shearer",
-            "author": {
-                "name": "Cape Info",
-                "icon_url": "https://i.imgur.com/6c6q2iC.png"
-            },
-            "description": "[Sheep Shearer](http://runescape.wikia.com/wiki/Sheep_Shearer_(achievement%29) is an achievement that requires the player to complete the [Sheep Shearer](https://runescape.wikia.com/wiki/Sheep_Shearer) miniquest. It was one of the six quests available when RuneScape was released, and features [Fred the Farmer](https://runescape.wikia.com/wiki/Fred_the_Farmer) tasking the player with shearing his [Black sheep](https://runescape.wikia.com/wiki/Sheep_(black) in order to collect 20 [Balls of black wool](https://runescape.wikia.com/wiki/Ball_of_black_wool).",
-            "thumbnail": {
-                "url": "https://i.imgur.com/Shmagnp.png"
-            },
-            "fields": [
-                			{
-                    "name": "Start Point:",
-                    "value": "• Speak to Fred the Farmer, located in his house in [Lumbridge](https://runescape.wikia.com/wiki/Lumbridge), found North of the [Combat Academy](https://runescape.wikia.com/wiki/Combat_Academy)"
-      			},
-        		{
-                    "name": "Official Difficulty:",
-                    "value": "• None"
-        		},
-        		{
-                    "name": "Official Length:",
-                    "value": "• Short"
-       			},
-        		{
-                    "name": "Items Required:",
-                    "value": "• 20 Balls of black wool (unnoted, can be obtained during the miniquest)"
-        		},
-        		{
-                    "name": "Enemies to Defeat:",
-                    "value": "• None, but watch out for [Rams](https://runescape.wikia.com/wiki/Ram)"
-        		},
-            {
-                    "name": "Requirements:",
-                    "value": "None"
-                },
-                {
-                  "name": "Guide:",
-                  "value": "[Sheep Shearer Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Sheep_Shearer)"
-                }
-            ],
-            "footer": {
-                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-                "text": "Runescore awarded: 5"
-            },
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"title": "Sheep Shearer",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Sheep Shearer](http://runescape.wikia.com/wiki/Sheep_Shearer_(achievement%29) is an achievement that requires the player to complete the [Sheep Shearer](https://runescape.wikia.com/wiki/Sheep_Shearer) miniquest. It was one of the six quests available when RuneScape was released, and features [Fred the Farmer](https://runescape.wikia.com/wiki/Fred_the_Farmer) tasking the player with shearing his [Black sheep](https://runescape.wikia.com/wiki/Sheep_(black) in order to collect 20 [Balls of black wool](https://runescape.wikia.com/wiki/Ball_of_black_wool).",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [{
+					"name": "Start Point:",
+					"value": "• Speak to Fred the Farmer, located in his house in [Lumbridge](https://runescape.wikia.com/wiki/Lumbridge), found North of the [Combat Academy](https://runescape.wikia.com/wiki/Combat_Academy)"
+				},
+				{
+					"name": "Official Difficulty:",
+					"value": "• None"
+				},
+				{
+					"name": "Official Length:",
+					"value": "• Short"
+				},
+				{
+					"name": "Items Required:",
+					"value": "• 20 Balls of black wool (unnoted, can be obtained during the miniquest)"
+				},
+				{
+					"name": "Enemies to Defeat:",
+					"value": "• None, but watch out for [Rams](https://runescape.wikia.com/wiki/Ram)"
+				},
+				{
+					"name": "Requirements:",
+					"value": "None"
+				},
+				{
+					"name": "Guide:",
+					"value": "[Sheep Shearer Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Sheep_Shearer)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 5"
+			},
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"sing for the lady": {
 		"cmds": ["comp", "mqc"],
@@ -7908,8 +7595,7 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
+			"fields": [{
 					"name": "Obtaining:",
 					"value": "• The crystal staff, orb, and wand can be made from a [crystal weapon seed](https://runescape.wikia.com/wiki/Crystal_weapon_seed) in two ways:\n\n\t• Paying either [Eluned](https://runescape.wikia.com/wiki/Eluned) / [Islwyn](https://runescape.wikia.com/wiki/Islwyn) in the [Ithell Clan](https://runescape.wikia.com/wiki/Ithell_Clan) district or [Rhodri Dail](https://runescape.wikia.com/wiki/Rhodri_Dail) in the [Max Guild](https://runescape.wikia.com/wiki/Max_Guild) a scaling number of coins\n\t• Using 750 [harmonic dust](https://runescape.wikia.com/wiki/Harmonic_dust), requiring [The Eyes of Glouphrie](https://runescape.wikia.com/wiki/The_Eyes_of_Glouphrie) quest, to make one at the [crystal singing bowl](https://runescape.wikia.com/wiki/Singing_bowl) in the Ithell Clan district of [Prifddinas](https://runescape.wikia.com/wiki/Prifddinas)\n\n• A crystal ward can be made from a [crystal armour seed](https://runescape.wikia.com/wiki/Crystal_armour_seed) in the same ways."
 				},
@@ -7922,90 +7608,95 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 10"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
-  "skeletal wishes pt1": {
-    "title": "Skeletal Wishes",
-    "author": {
-      "name": "RuneScore Achievement Info",
-      "icon_url": "https://i.imgur.com/6c6q2iC.png"
-    },
-    "description": "[Skeletal Wishes](http://runescape.wikia.com/wiki/Skeletal_Wishes) is an achievement that requires the player to complete the [Rag and Bone Man wish list](https://runescape.wikia.com/wiki/Rag_and_Bone_Man/Wish_list) and the [Fur 'n' Seek wish list](https://runescape.wikia.com/wiki/Fur_'n'_Seek/Wish_list), and then having the[ Odd Old Man](https://runescape.wikia.com/wiki/Odd_Old_Man) rebuild the [skeletal horror](https://runescape.wikia.com/wiki/Skeletal_horror).\n\nAfter completing the wish list from the Fur 'n' Seek quest, it is revealed that the old man had found the remains of a powerful, undead, mind-controlling skeletal horror and carried them in the sack on his back for over 10 years, and the bones collected by the player during the quests and wish lists were needed to construct the beast. It is also revealed that he used the furs from Fur 'n' Seek to make himself a new outfit. The player then defeats the Skeletal Horror, freeing the Odd Old Man from its control. Afterwards, the old man sets about rebuilding the monster for research purposes and invites the player to return once a week to ensure the beast is kept under control.\n\n• None of the bone drops are 100%, but they are fairly common.\n•No more than 40 kills should be required for any special bone.\n•The monsters you need to kill are mentioned on the wish list.",
-    "thumbnail": {
-      "url": "https://i.imgur.com/Shmagnp.png"
-    },
-    "fields": [{
-        "name": "Skeleal Horror Guide:",
-        "value": "For every 12,500 damage dealt to the Skeletal Horror an appendage will be thrown to a corner of the battlefield. First the [right arm](https://runescape.wikia.com/wiki/Arm_(right) will fall off, then the [left arm](https://runescape.wikia.com/wiki/Arm_(left), and finally the [tail](https://runescape.wikia.com/wiki/Tail).\n\nWhen an appendage is lost the skeletal horror will become weakened; lowering the combat level, the max hit, accuracy, and defensive capabilities of the skeletal horror. The appendages must be picked up into the player's [inventory](https://runescape.wikia.com/wiki/Inventory) and buried. If left on the ground or in your inventory, the appendage will reattach to the Skeletal horror, healing back the damage dealt, and restoring its combat stats."
-      },
-      {
-        "name": "​",
-        "value": "It is possible, albeit difficult to kill the skeletal horror without burying any of the appendages.\n\nThe skeletal horror can be dangerous if unprepared, or for lower level players. It will not attack you with the attack style that you are praying against (e.g., if praying against Magic, it will use Melee, and vice versa), so high healing food such as [monkfish](https://runescape.wikia.com/wiki/Monkfish) or [sharks](https://runescape.wikia.com/wiki/Shark) are recommended. It is not recommended to use armor below level 70 to fight the skeletal horror as it can hit exceptionally high if you do. A high levelled player should be able to defeat the skeletal horror without any issue."
-      },
-      {
-        "name": "Start Point:",
-        "value": "• Speak to the Odd Old man located in [Silvarea](https://runescape.wikia.com/wiki/Silvarea), northeast of [Varrock](https://runescape.wikia.com/wiki/Varrock)"
-      },
-      {
-        "name": "Official Difficulty:",
-        "value": "• None"
-      },
-      {
-        "name": "Official Length:",
-        "value": "• Very Long"
-      },
-      {
-        "name": "Items Required (Rag and Bone Man):",
-        "value": "• Several [Empty pots](https://runescape.wikia.com/wiki/Empty_pot)\n• 27 [Logs](https://runescape.wikia.com/wiki/Logs) (any kind)\n• [Dusty key](https://runescape.wikia.com/wiki/Dusty_key)\n• A [Light source](https://runescape.wikia.com/wiki/Light_sources)\n• [Brutal arrows](https://runescape.wikia.com/wiki/Brutal_arrows)\n• [Comp ogre bow](https://runescape.wikia.com/wiki/Comp_ogre_bow)\n• [Fishing explosive](https://runescape.wikia.com/wiki/Fishing_explosive)\n• [Mirror shield](https://runescape.wikia.com/wiki/Mirror_shield)\n• [Spiny helmet](https://runescape.wikia.com/wiki/Spiny_helmet)\n• [Ice cooler](https://runescape.wikia.com/wiki/Ice_cooler)"
-      },
-      {
-        "name": "Enemies to Defeat (Rag and Bone Man):",
-        "value": "• [Fire giant](https://runescape.wikia.com/wiki/Fire_giant)\n• [Ice giant](https://runescape.wikia.com/wiki/Ice_giant)\n• [Terrorbird](https://runescape.wikia.com/wiki/Terrorbird)\n• [Ghoul](https://runescape.wikia.com/wiki/Ghoul)\n• [Troll](https://runescape.wikia.com/wiki/Troll)\n• [Seagull](https://runescape.wikia.com/wiki/Seagull)\n• [Experiment](https://runescape.wikia.com/wiki/Experiment)\n• [Rabbit](https://runescape.wikia.com/wiki/Rabbit)\n• [Basilisk](https://runescape.wikia.com/wiki/Basilisk)\n• [Lizard](https://runescape.wikia.com/wiki/Lizard) (only level 77 drops special bone)\n• [Cave goblin](https://runescape.wikia.com/wiki/Cave_goblin)\n• [Vulture](https://runescape.wikia.com/wiki/Vulture)\n• [Jackal](https://runescape.wikia.com/wiki/Jackal)\n• [Undead cow](https://runescape.wikia.com/wiki/Undead_cow)"
-      }
-      ]
-    },
-  "skeletal wishes pt2": {
-      "fields": [
-             {
-        "name": "​",
-        "value": "• [Wolf](https://runescape.wikia.com/wiki/Wolf)\n• [Bat](https://runescape.wikia.com/wiki/Bat) ([Giant Bats](https://runescape.wikia.com/wiki/Giant_bat) do not drop them)\n• [Rat](https://runescape.wikia.com/wiki/Rat)\n• [Babby blue dragon](https://runescape.wikia.com/wiki/Baby_blue_dragon)\n• [Ogre](https://runescape.wikia.com/wiki/Ogre)\n• [Jogre](https://runescape.wikia.com/wiki/Jogre)\n• [Zogre](https://runescape.wikia.com/wiki/Zogre)\n• [Mogre](https://runescape.wikia.com/wiki/Mogre)\n• [Dagannoth](https://runescape.wikia.com/wiki/Dagannoth)\n• [Snake](https://runescape.wikia.com/wiki/Snake)\n• [Zombie](https://runescape.wikia.com/wiki/Zombie)\n• [Werewold](https://runescape.wikia.com/wiki/Werewolf)\n• [Moss giant](https://runescape.wikia.com/wiki/Moss_giant)\n\nEach of the above monsters will need to be killed until they drop their [respective bone](https://i.imgur.com/u2jBXBd.png)."
-      },
-      {
-        "name": "Items Required (Fur 'n' Seek):",
-        "value": "• [Witchwood icon](https://runescape.wikia.com/wiki/Witchwood_icon)\n• A light soure\n• 20 [Pots of vinegar](https://runescape.wikia.com/wiki/Pot_of_vinegar)\n• 20 Logs (any type)\n•[Teasing stick](https://runescape.wikia.com/wiki/Teasing_stick) and logs for hunting Sabre-toothed kyatt\n• [Golden Fleece](https://runescape.wikia.com/wiki/Golden_fleece) (Buy from [Lalli](https://runescape.wikia.com/wiki/Lalli) for 1,000 coins. He's near the [Golden Apple Tree](https://runescape.wikia.com/wiki/Golden_Apple_Tree), south-east of [Rellekka](https://runescape.wikia.com/wiki/Rellekka).)"
-      },
-      {
-        "name": "​",
-        "value": "• [Elemental shield](https://runescape.wikia.com/wiki/Elemental_shield)/[Mind Shield](https://runescape.wikia.com/wiki/Mind_shield)/[Body shield](https://runescape.wikia.com/wiki/Body_shield)/[Cosmic shield](https://runescape.wikia.com/wiki/Cosmic_shield)/[Chaos shield](https://runescape.wikia.com/wiki/Chaos_shield)\n• [Anti-dragon shield](https://runescape.wikia.com/wiki/Anti-dragon_shield) or a [Super antifire potion](https://runescape.wikia.com/wiki/Super_antifire)\n• [Leaf-bladed spear](https://runescape.wikia.com/wiki/Leaf-bladed_spear)/[Leaf-bladed sword](https://runescape.wikia.com/wiki/Leaf-bladed_sword) or [Slayer darts](https://runescape.wikia.com/wiki/Slayer_Dart) or [Broad arrows](https://runescape.wikia.com/wiki/Broad_arrows)/[Broad-tipped bolts](https://runescape.wikia.com/wiki/Broad-tipped_bolts)"
-      },
-      {
-        "name": "Enemies to Defeat (Fur 'n' Seek):",
-        "value": "• Adult [Turoth](https://runescape.wikia.com/wiki/Turoth)\n• [Crawling Hand](https://runescape.wikia.com/wiki/Crawling_Hand)\n• [Ugthanki](https://runescape.wikia.com/wiki/Ugthanki) or [Camel](https://runescape.wikia.com/wiki/Camel)\n• [Tortoise](https://runescape.wikia.com/wiki/Tortoise) or [Warped tortoise](https://runescape.wikia.com/wiki/Warped_tortoise)\n• [Sabre-toothed kyatt](https://runescape.wikia.com/wiki/Sabre-toothed_kyatt) or [Sabre-toothed kebbit](https://runescape.wikia.com/wiki/Sabre-toothed_kebbit) or [Wallasalki](https://runescape.wikia.com/wiki/Wallasalki)\n• [Green dragon](https://runescape.wikia.com/wiki/Green_dragon) or [Brutal green dragon](https://runescape.wikia.com/wiki/Brutal_green_dragon)\n• [Blue dragon](https://runescape.wikia.com/wiki/Blue_dragon)\n• [Red dragon](https://runescape.wikia.com/wiki/Red_dragon)"
-      },
-      {
-        "name": "​",
-        "value": "• [Black dragon](https://runescape.wikia.com/wiki/Black_dragon) or [King black dragon](https://runescape.wikia.com/wiki/King_black_dragon)\n• [Skeletal Wyvern](https://runescape.wikia.com/wiki/Skeletal_Wyvern)\n• [Bronze dragon](https://runescape.wikia.com/wiki/Bronze_dragon)\n• [Iron dragon](https://runescape.wikia.com/wiki/Iron_dragon)\n• [Steel dragon](https://runescape.wikia.com/wiki/Steel_dragon)\n• [Mithril dragon](https://runescape.wikia.com/wiki/Mithril_dragon)\n• [General Graardor](https://runescape.wikia.com/wiki/General_Graardor) or [Bork](https://runescape.wikia.com/wiki/Bork)\n• [Monkey Guard](https://runescape.wikia.com/wiki/Monkey_Guard) or [Cave horror](https://runescape.wikia.com/wiki/Cave_horror) or [Jungle horror](https://runescape.wikia.com/wiki/Jungle_horror) or [Yeti](https://runescape.wikia.com/wiki/Yeti)"
-      },
-      {
-        "name": "​",
-        "value": "• [Big Snake](https://runescape.wikia.com/wiki/Big_Snake) or [Sea snake young](https://runescape.wikia.com/wiki/Sea_snake_young) or [Giant Sea Snake](https://runescape.wikia.com/wiki/Giant_Sea_Snake)\n• Any [Giant](https://runescape.wikia.com/wiki/Giant)\n• [Nail beast](https://runescape.wikia.com/wiki/Nail_beast) or [Gorak](https://runescape.wikia.com/wiki/Gorak) or [Giant Mole](https://runescape.wikia.com/wiki/Giant_Mole) or [Wild kebbit](https://runescape.wikia.com/wiki/Wild_kebbit)\n• [Aquanite](https://runescape.wikia.com/wiki/Aquanite)\n• [Skeletal horror](https://runescape.wikia.com/wiki/Skeletal_horror) (after collecting all the bones)\n\nAside from the Skeleal Horror, each of the above monsters will need to be killed until they drop their [respective bone](https://vignette.wikia.nocookie.net/runescape2/images/5/5c/FNSWL.png/revision/latest?cb=20090815192449)."
-      },
-      {
-        "name": "Requirements:",
-        "value": "• Fur 'n' Seek Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Fur_%27n%27_Seek)\n• Recipe for Disaster: Freeing King Awowogei Subquest partial completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Recipe_for_Disaster:_Freeing_King_Awowogei)\n• The Fremennik Trials Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Fremennik_Trials)\n• Horror from the Deep Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Horror_from_the_Deep)\n\n• Started the pyre ship section of Barbarian Firemaking | [Runescape Wiki](http://runescape.wikia.com/wiki/Barbarian_Firemaking)"
-      },
-      {
-        "name": "Guides:",
-        "value": "• [Rag and Bone man Wish list guide | Runescape Wiki](http://runescape.wikia.com/wiki/Rag_and_Bone_Man/Wish_list)\n• [Fur 'n' Seek Wish list guide | Runescape Wiki](https://runescape.wikia.com/wiki/Fur_%27n%27_Seek/Wish_list)"
-      }
-    ],
-    "footer": {
-      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-      "text": "Runescore awarded: 15"
-    },
-"timestamp": "2001-01-04T12:00:00Z"
-  },
+	"skeletal wishes pt1": {
+		"cmds": ["mqc"],
+		"embed": {
+			"title": "Skeletal Wishes",
+			"author": {
+				"name": "RuneScore Achievement Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Skeletal Wishes](http://runescape.wikia.com/wiki/Skeletal_Wishes) is an achievement that requires the player to complete the [Rag and Bone Man wish list](https://runescape.wikia.com/wiki/Rag_and_Bone_Man/Wish_list) and the [Fur 'n' Seek wish list](https://runescape.wikia.com/wiki/Fur_'n'_Seek/Wish_list), and then having the[ Odd Old Man](https://runescape.wikia.com/wiki/Odd_Old_Man) rebuild the [skeletal horror](https://runescape.wikia.com/wiki/Skeletal_horror).\n\nAfter completing the wish list from the Fur 'n' Seek quest, it is revealed that the old man had found the remains of a powerful, undead, mind-controlling skeletal horror and carried them in the sack on his back for over 10 years, and the bones collected by the player during the quests and wish lists were needed to construct the beast. It is also revealed that he used the furs from Fur 'n' Seek to make himself a new outfit. The player then defeats the Skeletal Horror, freeing the Odd Old Man from its control. Afterwards, the old man sets about rebuilding the monster for research purposes and invites the player to return once a week to ensure the beast is kept under control.\n\n• None of the bone drops are 100%, but they are fairly common.\n•No more than 40 kills should be required for any special bone.\n•The monsters you need to kill are mentioned on the wish list.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [{
+					"name": "Skeleal Horror Guide:",
+					"value": "For every 12,500 damage dealt to the Skeletal Horror an appendage will be thrown to a corner of the battlefield. First the [right arm](https://runescape.wikia.com/wiki/Arm_(right) will fall off, then the [left arm](https://runescape.wikia.com/wiki/Arm_(left), and finally the [tail](https://runescape.wikia.com/wiki/Tail).\n\nWhen an appendage is lost the skeletal horror will become weakened; lowering the combat level, the max hit, accuracy, and defensive capabilities of the skeletal horror. The appendages must be picked up into the player's [inventory](https://runescape.wikia.com/wiki/Inventory) and buried. If left on the ground or in your inventory, the appendage will reattach to the Skeletal horror, healing back the damage dealt, and restoring its combat stats."
+				},
+				{
+					"name": "​",
+					"value": "It is possible, albeit difficult to kill the skeletal horror without burying any of the appendages.\n\nThe skeletal horror can be dangerous if unprepared, or for lower level players. It will not attack you with the attack style that you are praying against (e.g., if praying against Magic, it will use Melee, and vice versa), so high healing food such as [monkfish](https://runescape.wikia.com/wiki/Monkfish) or [sharks](https://runescape.wikia.com/wiki/Shark) are recommended. It is not recommended to use armor below level 70 to fight the skeletal horror as it can hit exceptionally high if you do. A high levelled player should be able to defeat the skeletal horror without any issue."
+				},
+				{
+					"name": "Start Point:",
+					"value": "• Speak to the Odd Old man located in [Silvarea](https://runescape.wikia.com/wiki/Silvarea), northeast of [Varrock](https://runescape.wikia.com/wiki/Varrock)"
+				},
+				{
+					"name": "Official Difficulty:",
+					"value": "• None"
+				},
+				{
+					"name": "Official Length:",
+					"value": "• Very Long"
+				},
+				{
+					"name": "Items Required (Rag and Bone Man):",
+					"value": "• Several [Empty pots](https://runescape.wikia.com/wiki/Empty_pot)\n• 27 [Logs](https://runescape.wikia.com/wiki/Logs) (any kind)\n• [Dusty key](https://runescape.wikia.com/wiki/Dusty_key)\n• A [Light source](https://runescape.wikia.com/wiki/Light_sources)\n• [Brutal arrows](https://runescape.wikia.com/wiki/Brutal_arrows)\n• [Comp ogre bow](https://runescape.wikia.com/wiki/Comp_ogre_bow)\n• [Fishing explosive](https://runescape.wikia.com/wiki/Fishing_explosive)\n• [Mirror shield](https://runescape.wikia.com/wiki/Mirror_shield)\n• [Spiny helmet](https://runescape.wikia.com/wiki/Spiny_helmet)\n• [Ice cooler](https://runescape.wikia.com/wiki/Ice_cooler)"
+				},
+				{
+					"name": "Enemies to Defeat (Rag and Bone Man):",
+					"value": "• [Fire giant](https://runescape.wikia.com/wiki/Fire_giant)\n• [Ice giant](https://runescape.wikia.com/wiki/Ice_giant)\n• [Terrorbird](https://runescape.wikia.com/wiki/Terrorbird)\n• [Ghoul](https://runescape.wikia.com/wiki/Ghoul)\n• [Troll](https://runescape.wikia.com/wiki/Troll)\n• [Seagull](https://runescape.wikia.com/wiki/Seagull)\n• [Experiment](https://runescape.wikia.com/wiki/Experiment)\n• [Rabbit](https://runescape.wikia.com/wiki/Rabbit)\n• [Basilisk](https://runescape.wikia.com/wiki/Basilisk)\n• [Lizard](https://runescape.wikia.com/wiki/Lizard) (only level 77 drops special bone)\n• [Cave goblin](https://runescape.wikia.com/wiki/Cave_goblin)\n• [Vulture](https://runescape.wikia.com/wiki/Vulture)\n• [Jackal](https://runescape.wikia.com/wiki/Jackal)\n• [Undead cow](https://runescape.wikia.com/wiki/Undead_cow)"
+				}
+			]
+		}
+	},
+	"skeletal wishes pt2": {
+		"cmds": ["mqc"],
+		"embed": {
+			"fields": [{
+					"name": "​",
+					"value": "• [Wolf](https://runescape.wikia.com/wiki/Wolf)\n• [Bat](https://runescape.wikia.com/wiki/Bat) ([Giant Bats](https://runescape.wikia.com/wiki/Giant_bat) do not drop them)\n• [Rat](https://runescape.wikia.com/wiki/Rat)\n• [Babby blue dragon](https://runescape.wikia.com/wiki/Baby_blue_dragon)\n• [Ogre](https://runescape.wikia.com/wiki/Ogre)\n• [Jogre](https://runescape.wikia.com/wiki/Jogre)\n• [Zogre](https://runescape.wikia.com/wiki/Zogre)\n• [Mogre](https://runescape.wikia.com/wiki/Mogre)\n• [Dagannoth](https://runescape.wikia.com/wiki/Dagannoth)\n• [Snake](https://runescape.wikia.com/wiki/Snake)\n• [Zombie](https://runescape.wikia.com/wiki/Zombie)\n• [Werewold](https://runescape.wikia.com/wiki/Werewolf)\n• [Moss giant](https://runescape.wikia.com/wiki/Moss_giant)\n\nEach of the above monsters will need to be killed until they drop their [respective bone](https://i.imgur.com/u2jBXBd.png)."
+				},
+				{
+					"name": "Items Required (Fur 'n' Seek):",
+					"value": "• [Witchwood icon](https://runescape.wikia.com/wiki/Witchwood_icon)\n• A light soure\n• 20 [Pots of vinegar](https://runescape.wikia.com/wiki/Pot_of_vinegar)\n• 20 Logs (any type)\n•[Teasing stick](https://runescape.wikia.com/wiki/Teasing_stick) and logs for hunting Sabre-toothed kyatt\n• [Golden Fleece](https://runescape.wikia.com/wiki/Golden_fleece) (Buy from [Lalli](https://runescape.wikia.com/wiki/Lalli) for 1,000 coins. He's near the [Golden Apple Tree](https://runescape.wikia.com/wiki/Golden_Apple_Tree), south-east of [Rellekka](https://runescape.wikia.com/wiki/Rellekka).)"
+				},
+				{
+					"name": "​",
+					"value": "• [Elemental shield](https://runescape.wikia.com/wiki/Elemental_shield)/[Mind Shield](https://runescape.wikia.com/wiki/Mind_shield)/[Body shield](https://runescape.wikia.com/wiki/Body_shield)/[Cosmic shield](https://runescape.wikia.com/wiki/Cosmic_shield)/[Chaos shield](https://runescape.wikia.com/wiki/Chaos_shield)\n• [Anti-dragon shield](https://runescape.wikia.com/wiki/Anti-dragon_shield) or a [Super antifire potion](https://runescape.wikia.com/wiki/Super_antifire)\n• [Leaf-bladed spear](https://runescape.wikia.com/wiki/Leaf-bladed_spear)/[Leaf-bladed sword](https://runescape.wikia.com/wiki/Leaf-bladed_sword) or [Slayer darts](https://runescape.wikia.com/wiki/Slayer_Dart) or [Broad arrows](https://runescape.wikia.com/wiki/Broad_arrows)/[Broad-tipped bolts](https://runescape.wikia.com/wiki/Broad-tipped_bolts)"
+				},
+				{
+					"name": "Enemies to Defeat (Fur 'n' Seek):",
+					"value": "• Adult [Turoth](https://runescape.wikia.com/wiki/Turoth)\n• [Crawling Hand](https://runescape.wikia.com/wiki/Crawling_Hand)\n• [Ugthanki](https://runescape.wikia.com/wiki/Ugthanki) or [Camel](https://runescape.wikia.com/wiki/Camel)\n• [Tortoise](https://runescape.wikia.com/wiki/Tortoise) or [Warped tortoise](https://runescape.wikia.com/wiki/Warped_tortoise)\n• [Sabre-toothed kyatt](https://runescape.wikia.com/wiki/Sabre-toothed_kyatt) or [Sabre-toothed kebbit](https://runescape.wikia.com/wiki/Sabre-toothed_kebbit) or [Wallasalki](https://runescape.wikia.com/wiki/Wallasalki)\n• [Green dragon](https://runescape.wikia.com/wiki/Green_dragon) or [Brutal green dragon](https://runescape.wikia.com/wiki/Brutal_green_dragon)\n• [Blue dragon](https://runescape.wikia.com/wiki/Blue_dragon)\n• [Red dragon](https://runescape.wikia.com/wiki/Red_dragon)"
+				},
+				{
+					"name": "​",
+					"value": "• [Black dragon](https://runescape.wikia.com/wiki/Black_dragon) or [King black dragon](https://runescape.wikia.com/wiki/King_black_dragon)\n• [Skeletal Wyvern](https://runescape.wikia.com/wiki/Skeletal_Wyvern)\n• [Bronze dragon](https://runescape.wikia.com/wiki/Bronze_dragon)\n• [Iron dragon](https://runescape.wikia.com/wiki/Iron_dragon)\n• [Steel dragon](https://runescape.wikia.com/wiki/Steel_dragon)\n• [Mithril dragon](https://runescape.wikia.com/wiki/Mithril_dragon)\n• [General Graardor](https://runescape.wikia.com/wiki/General_Graardor) or [Bork](https://runescape.wikia.com/wiki/Bork)\n• [Monkey Guard](https://runescape.wikia.com/wiki/Monkey_Guard) or [Cave horror](https://runescape.wikia.com/wiki/Cave_horror) or [Jungle horror](https://runescape.wikia.com/wiki/Jungle_horror) or [Yeti](https://runescape.wikia.com/wiki/Yeti)"
+				},
+				{
+					"name": "​",
+					"value": "• [Big Snake](https://runescape.wikia.com/wiki/Big_Snake) or [Sea snake young](https://runescape.wikia.com/wiki/Sea_snake_young) or [Giant Sea Snake](https://runescape.wikia.com/wiki/Giant_Sea_Snake)\n• Any [Giant](https://runescape.wikia.com/wiki/Giant)\n• [Nail beast](https://runescape.wikia.com/wiki/Nail_beast) or [Gorak](https://runescape.wikia.com/wiki/Gorak) or [Giant Mole](https://runescape.wikia.com/wiki/Giant_Mole) or [Wild kebbit](https://runescape.wikia.com/wiki/Wild_kebbit)\n• [Aquanite](https://runescape.wikia.com/wiki/Aquanite)\n• [Skeletal horror](https://runescape.wikia.com/wiki/Skeletal_horror) (after collecting all the bones)\n\nAside from the Skeleal Horror, each of the above monsters will need to be killed until they drop their [respective bone](https://vignette.wikia.nocookie.net/runescape2/images/5/5c/FNSWL.png/revision/latest?cb=20090815192449)."
+				},
+				{
+					"name": "Requirements:",
+					"value": "• Fur 'n' Seek Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Fur_%27n%27_Seek)\n• Recipe for Disaster: Freeing King Awowogei Subquest partial completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Recipe_for_Disaster:_Freeing_King_Awowogei)\n• The Fremennik Trials Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Fremennik_Trials)\n• Horror from the Deep Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Horror_from_the_Deep)\n\n• Started the pyre ship section of Barbarian Firemaking | [Runescape Wiki](http://runescape.wikia.com/wiki/Barbarian_Firemaking)"
+				},
+				{
+					"name": "Guides:",
+					"value": "• [Rag and Bone man Wish list guide | Runescape Wiki](http://runescape.wikia.com/wiki/Rag_and_Bone_Man/Wish_list)\n• [Fur 'n' Seek Wish list guide | Runescape Wiki](https://runescape.wikia.com/wiki/Fur_%27n%27_Seek/Wish_list)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 15"
+			},
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
+	},
 	"slayer master": {
 		"cmds": ["comp"],
 		"embed": {
@@ -8018,8 +7709,7 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
+			"fields": [{
 					"name": "Requirements:",
 					"value": "• 90 Dungeoneering \n• 99 Slayer\n\n• Plague's End Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Plague%27s_End)\n• The Branches of Darkmeyer Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Branches_of_Darkmeyer)\n• Ritual of the Mahjarrat Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Ritual_of_the_Mahjarrat)\n• The Firemaker's Curse Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Firemaker%27s_Curse)\n• The Void Stares Back Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Void_Stares_Back)\n• The Chosen Commander Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Chosen_Commander)\n• One of a Kind Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/One_of_a_Kind)\n• The World Wakes Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_World_Wakes)\n• Fate of the Gods Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Fate_of_the_Gods)"
 				},
@@ -8036,224 +7726,217 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 45"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"slime and snails and god wars tales": {
 		"cmds": ["mqc", "trim"],
 		"embed": {
-            "title": "Slime and Snails and God Wars Tales",
-            "author": {
-                "name": "Cape Info",
-                "icon_url": "https://i.imgur.com/6c6q2iC.png"
-            },
-            "description": "[Slime and Snails and God Wars Tales](http://runescape.wikia.com/wiki/Slime_and_Snails_and_God_Wars_Tales) is an achievement that requires the player to complete [Tales of the God Wars](https://runescape.wikia.com/wiki/Tales_of_the_God_Wars).\n\nTales of the God Wars is a miniquest that serves as an introduction to the [Heart of Gielinor](https://runescape.wikia.com/wiki/Heart_of_Gielinor). It features the backstory of its denizens, exploring the rivalries between the generals as well as taking a first look around the dungeon and the significance of its location. Completion of the Tales of the God Wars is not required for participating in the Heart of Gielinor. However, it does give rewards useful for accessing the dungeon.",
-            "thumbnail": {
-                "url": "https://i.imgur.com/Shmagnp.png"
-            },
-            "fields": [
-                			{
-                    "name": "Start Point:",
-                    "value": "• Speak to [The Curator](https://runescape.wikia.com/wiki/The_Curator) at the Heart of Gielinor, north of the [Agility Pyramid](https://runescape.wikia.com/wiki/Agility_Pyramid) in the [Kharidian Desert](https://runescape.wikia.com/wiki/Kharidian_Desert)"
-      			},
-        		{
-                    "name": "Official Difficulty:",
-                    "value": "• None"
-        		},
-        		{
-                    "name": "Official Length:",
-                    "value": "• Medium"
-       			},
-        		{
-                    "name": "Items Required:",
-                    "value": "• None"
-        		},
-        		{
-                    "name": "Enemies to Defeat:",
-                    "value": "• Up to seven [Barrows Brothers](https://runescape.wikia.com/wiki/Barrows_brothers) (level 150) (optional)\n• 40 [God Wars Dungeon](https://runescape.wikia.com/wiki/God_Wars_Dungeon) monsters aligned to [Zamorak](https://runescape.wikia.com/wiki/Zamorak)\n• [K'ril Tsutsaroth](https://runescape.wikia.com/wiki/K%27ril_Tsutsaroth) (level 650)\n• 20 [Young grotworms](https://runescape.wikia.com/wiki/Young_grotworm) (level 28)\n• 20 [Grotworms](https://runescape.wikia.com/wiki/Grotworm) (level 63)\n• 20 [Mature grotworms](https://runescape.wikia.com/wiki/Mature_grotworm) (level 98)"
-        		},
-            {
-                    "name": "Requirements:",
-                    "value": "• 70 Constitution\n• 70 Strength **or** 70 Agility\n\n• Troll Stronghold Quest partial completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Troll_Stronghold)"
-                },
-                {
-                  "name": "Guide:",
-                  "value": "• [Tales of the God Wars Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Tales_of_the_God_Wars)"
-                }
-            ],
-            "footer": {
-                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-                "text": "Runescore awarded: 20"
-            },
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"title": "Slime and Snails and God Wars Tales",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Slime and Snails and God Wars Tales](http://runescape.wikia.com/wiki/Slime_and_Snails_and_God_Wars_Tales) is an achievement that requires the player to complete [Tales of the God Wars](https://runescape.wikia.com/wiki/Tales_of_the_God_Wars).\n\nTales of the God Wars is a miniquest that serves as an introduction to the [Heart of Gielinor](https://runescape.wikia.com/wiki/Heart_of_Gielinor). It features the backstory of its denizens, exploring the rivalries between the generals as well as taking a first look around the dungeon and the significance of its location. Completion of the Tales of the God Wars is not required for participating in the Heart of Gielinor. However, it does give rewards useful for accessing the dungeon.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [{
+					"name": "Start Point:",
+					"value": "• Speak to [The Curator](https://runescape.wikia.com/wiki/The_Curator) at the Heart of Gielinor, north of the [Agility Pyramid](https://runescape.wikia.com/wiki/Agility_Pyramid) in the [Kharidian Desert](https://runescape.wikia.com/wiki/Kharidian_Desert)"
+				},
+				{
+					"name": "Official Difficulty:",
+					"value": "• None"
+				},
+				{
+					"name": "Official Length:",
+					"value": "• Medium"
+				},
+				{
+					"name": "Items Required:",
+					"value": "• None"
+				},
+				{
+					"name": "Enemies to Defeat:",
+					"value": "• Up to seven [Barrows Brothers](https://runescape.wikia.com/wiki/Barrows_brothers) (level 150) (optional)\n• 40 [God Wars Dungeon](https://runescape.wikia.com/wiki/God_Wars_Dungeon) monsters aligned to [Zamorak](https://runescape.wikia.com/wiki/Zamorak)\n• [K'ril Tsutsaroth](https://runescape.wikia.com/wiki/K%27ril_Tsutsaroth) (level 650)\n• 20 [Young grotworms](https://runescape.wikia.com/wiki/Young_grotworm) (level 28)\n• 20 [Grotworms](https://runescape.wikia.com/wiki/Grotworm) (level 63)\n• 20 [Mature grotworms](https://runescape.wikia.com/wiki/Mature_grotworm) (level 98)"
+				},
+				{
+					"name": "Requirements:",
+					"value": "• 70 Constitution\n• 70 Strength **or** 70 Agility\n\n• Troll Stronghold Quest partial completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Troll_Stronghold)"
+				},
+				{
+					"name": "Guide:",
+					"value": "• [Tales of the God Wars Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Tales_of_the_God_Wars)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 20"
+			},
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"soft kitty, purple kitty": {
 		"cmds": ["mqc"],
 		"embed": {
-            "title": "Soft Kitty, Purple Kitty",
-            "author": {
-                "name": "Cape Info",
-                "icon_url": "https://i.imgur.com/6c6q2iC.png"
-            },
-            "description": "[Soft Kitty, Purple Kitty](http://runescape.wikia.com/wiki/Soft_Kitty,_Purple_Kitty) is an achievement that requires the player to complete the [Purple Cat](https://runescape.wikia.com/wiki/Purple_cat_(miniquest) miniquest. The Purple Cat miniquest is unlocked after the completion of the [Swept Away](https://runescape.wikia.com/wiki/Swept_Away) quest, and was released during the [2008 Hallowe'en event](https://runescape.wikia.com/wiki/2008_Hallowe%27en_event).",
-            "thumbnail": {
-                "url": "https://i.imgur.com/Shmagnp.png"
-            },
-            "fields": [
-                			{
-                    "name": "Start Point:",
-                    "value": "• Speak to [Wendy](https://runescape.wikia.com/wiki/Wendy), west of the [Draynor Village](https://runescape.wikia.com/wiki/Draynor_Village) [Lodestone](https://runescape.wikia.com/wiki/Lodestone_Network)"
-      			},
-        		{
-                    "name": "Official Difficulty:",
-                    "value": "• None"
-        		},
-        		{
-                    "name": "Official Length:",
-                    "value": "• Short"
-       			},
-        		{
-                    "name": "Items Required:",
-                    "value": "• [Cat](https://runescape.wikia.com/wiki/Cat) (if you want to dye your cat)"
-        		},
-        		{
-                    "name": "Enemies to Defeat:",
-                    "value": "• None"
-        		},
-            {
-                    "name": "Requirements:",
-                    "value": "• Swept Away Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Gertrude%27s_Cat)"
-                },
-                {
-                  "name": "Guide:",
-                  "value": "• [Purple Cat Miniquest guide | Runescape Wiki](https://runescape.wikia.com/wiki/Swept_Away)"
-                }
-            ],
-            "footer": {
-                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-                "text": "Runescore awarded: 10"
-            },
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"title": "Soft Kitty, Purple Kitty",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Soft Kitty, Purple Kitty](http://runescape.wikia.com/wiki/Soft_Kitty,_Purple_Kitty) is an achievement that requires the player to complete the [Purple Cat](https://runescape.wikia.com/wiki/Purple_cat_(miniquest) miniquest. The Purple Cat miniquest is unlocked after the completion of the [Swept Away](https://runescape.wikia.com/wiki/Swept_Away) quest, and was released during the [2008 Hallowe'en event](https://runescape.wikia.com/wiki/2008_Hallowe%27en_event).",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [{
+					"name": "Start Point:",
+					"value": "• Speak to [Wendy](https://runescape.wikia.com/wiki/Wendy), west of the [Draynor Village](https://runescape.wikia.com/wiki/Draynor_Village) [Lodestone](https://runescape.wikia.com/wiki/Lodestone_Network)"
+				},
+				{
+					"name": "Official Difficulty:",
+					"value": "• None"
+				},
+				{
+					"name": "Official Length:",
+					"value": "• Short"
+				},
+				{
+					"name": "Items Required:",
+					"value": "• [Cat](https://runescape.wikia.com/wiki/Cat) (if you want to dye your cat)"
+				},
+				{
+					"name": "Enemies to Defeat:",
+					"value": "• None"
+				},
+				{
+					"name": "Requirements:",
+					"value": "• Swept Away Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Gertrude%27s_Cat)"
+				},
+				{
+					"name": "Guide:",
+					"value": "• [Purple Cat Miniquest guide | Runescape Wiki](https://runescape.wikia.com/wiki/Swept_Away)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 10"
+			},
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"some old dusty journals": {
 		"cmds": ["mqc"],
 		"embed": {
-            "title": "Some Old Dusty Journals",
-            "author": {
-                "name": "Cape Info",
-                "icon_url": "https://i.imgur.com/6c6q2iC.png"
-            },
-            "description": "[Some Old Dusty Journals](http://runescape.wikia.com/wiki/Some_Old_Dusty_Journals) is an achievement that requires the player to find and read the [Ancient](https://runescape.wikia.com/wiki/Ancient_Tarddian_Journal), [Dusty](https://runescape.wikia.com/wiki/Dusty_Tarddian_Journal) and [Weathered Tarddian Journal](https://runescape.wikia.com/wiki/Weathered_Tarddian_Journal) found on [Tarddiad](https://runescape.wikia.com/wiki/Tarddiad) after [The Light Within](https://runescape.wikia.com/wiki/The_Light_Within).\n\nThe Ancient Tarddian Journal is located on the northwest side. There is a large boulder inside a house that can be searched for the book. It fills in a backstory of the elven's history on Tarddiad.\n\nThe Dusty Tarddian Journal is located east of the [World Gate](https://runescape.wikia.com/wiki/World_Gate), on the west side of the stairs near the southernmost ruins. There is a crystal formation that can be searched for the book. It fills in a backstory of the elven's history in the quest.\n\nThe Weathered Tarddian Journal is located in the far north, west of the river in a bush. It fills in a backstory of the elven's history in the quest. The lore relates directly to the aftermath of the Elven Exodus though the world gate, and those left behind. ",
-            "thumbnail": {
-                "url": "https://i.imgur.com/Shmagnp.png"
-            },
-            "fields": [
-                {
-                    "name": "Requirements:",
-                    "value": "• The Light Within Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Light_Within)"
-                },
-                {
-                  "name": "Guide:",
-                  "value": "• [Tarddiad Map guide | Runescape Wiki](http://runescape.wikia.com/wiki/Map:Tarddiad)"
-                }
-            ],
-            "footer": {
-                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-                "text": "Runescore awarded: 20"
-            },
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"title": "Some Old Dusty Journals",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Some Old Dusty Journals](http://runescape.wikia.com/wiki/Some_Old_Dusty_Journals) is an achievement that requires the player to find and read the [Ancient](https://runescape.wikia.com/wiki/Ancient_Tarddian_Journal), [Dusty](https://runescape.wikia.com/wiki/Dusty_Tarddian_Journal) and [Weathered Tarddian Journal](https://runescape.wikia.com/wiki/Weathered_Tarddian_Journal) found on [Tarddiad](https://runescape.wikia.com/wiki/Tarddiad) after [The Light Within](https://runescape.wikia.com/wiki/The_Light_Within).\n\nThe Ancient Tarddian Journal is located on the northwest side. There is a large boulder inside a house that can be searched for the book. It fills in a backstory of the elven's history on Tarddiad.\n\nThe Dusty Tarddian Journal is located east of the [World Gate](https://runescape.wikia.com/wiki/World_Gate), on the west side of the stairs near the southernmost ruins. There is a crystal formation that can be searched for the book. It fills in a backstory of the elven's history in the quest.\n\nThe Weathered Tarddian Journal is located in the far north, west of the river in a bush. It fills in a backstory of the elven's history in the quest. The lore relates directly to the aftermath of the Elven Exodus though the world gate, and those left behind. ",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [{
+					"name": "Requirements:",
+					"value": "• The Light Within Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Light_Within)"
+				},
+				{
+					"name": "Guide:",
+					"value": "• [Tarddiad Map guide | Runescape Wiki](http://runescape.wikia.com/wiki/Map:Tarddiad)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 20"
+			},
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"special slayer delivery": {
 		"cmds": ["trim"],
 		"embed": {
-            "title": "Special Slayer Delivery",
-            "author": {
-                "name": "Cape Info",
-                "icon_url": "https://i.imgur.com/6c6q2iC.png"
-            },
-            "description": "[Special Slayer Delivery](http://runescape.wikia.com/wiki/Special_Slayer_Delivery) is an achievement that requires the player to unlock the three crafting abilities from the Slayer [reward](https://runescape.wikia.com/wiki/Slayer_points#Rewards) shop.\n\nThis will cost 1,900 [Slayer points](https://runescape.wikia.com/wiki/Slayer#Slayer_reward_points). Slayer points are a currency obtained by completing [Slayer assignments](https://runescape.wikia.com/wiki/Slayer_assignment) or a [special challenge](https://runescape.wikia.com/wiki/Slayer/Challenges) from any [Slayer Master](https://runescape.wikia.com/wiki/Slayer_Master), bar [Turael](https://runescape.wikia.com/wiki/Turael) and [Spria](https://runescape.wikia.com/wiki/Spria), or by trading in completed [Tuska masks](https://runescape.wikia.com/wiki/Tuska_mask). The number rewarded depends on the Slayer Master, with the tougher masters awarding more points. Completion of [Smoking Kills](https://runescape.wikia.com/wiki/Smoking_Kills) will double the value of the points received from tasks.\n\nThis includes:\n• Ability to fletch [Broad arrows](https://runescape.wikia.com/wiki/Broad_arrow) and [Broad-tipped bolts](https://runescape.wikia.com/wiki/Broad-tipped_bolts)\n• [Ability to craft ring of slaying](https://runescape.wikia.com/wiki/Ring_of_slaying)\n• [Ability to craft Slayer helmets](https://runescape.wikia.com/wiki/Slayer_helmet)\n• Ability to deliver killing blows quicker\n• Learn how to fuse rings to full slayer helmets",
-            "thumbnail": {
-                "url": "https://i.imgur.com/Shmagnp.png"
-            },
-            "fields": [
-                {
-                    "name": "Requirements:",
-                    "value": "• 1,900 Slayer points"
-                },
-                {
+			"title": "Special Slayer Delivery",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Special Slayer Delivery](http://runescape.wikia.com/wiki/Special_Slayer_Delivery) is an achievement that requires the player to unlock the three crafting abilities from the Slayer [reward](https://runescape.wikia.com/wiki/Slayer_points#Rewards) shop.\n\nThis will cost 1,900 [Slayer points](https://runescape.wikia.com/wiki/Slayer#Slayer_reward_points). Slayer points are a currency obtained by completing [Slayer assignments](https://runescape.wikia.com/wiki/Slayer_assignment) or a [special challenge](https://runescape.wikia.com/wiki/Slayer/Challenges) from any [Slayer Master](https://runescape.wikia.com/wiki/Slayer_Master), bar [Turael](https://runescape.wikia.com/wiki/Turael) and [Spria](https://runescape.wikia.com/wiki/Spria), or by trading in completed [Tuska masks](https://runescape.wikia.com/wiki/Tuska_mask). The number rewarded depends on the Slayer Master, with the tougher masters awarding more points. Completion of [Smoking Kills](https://runescape.wikia.com/wiki/Smoking_Kills) will double the value of the points received from tasks.\n\nThis includes:\n• Ability to fletch [Broad arrows](https://runescape.wikia.com/wiki/Broad_arrow) and [Broad-tipped bolts](https://runescape.wikia.com/wiki/Broad-tipped_bolts)\n• [Ability to craft ring of slaying](https://runescape.wikia.com/wiki/Ring_of_slaying)\n• [Ability to craft Slayer helmets](https://runescape.wikia.com/wiki/Slayer_helmet)\n• Ability to deliver killing blows quicker\n• Learn how to fuse rings to full slayer helmets",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [{
+					"name": "Requirements:",
+					"value": "• 1,900 Slayer points"
+				},
+				{
 					"name": "Guide:",
 					"value": "• [How to farm Slayer Points FAST & Easy | puretppc - YouTube](https://www.youtube.com/watch?v=PR7v91xbGBQ)"
-                }
-            ],
-            "footer": {
-                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-                "text": "Runescore awarded: 30"
-            },
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 30"
+			},
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"squeal for coins": {
 		"cmds": ["mqc"],
 		"embed": {
-            "title": "Squeal for Coins",
-            "author": {
-                "name": "Cape Info",
-                "icon_url": "https://i.imgur.com/6c6q2iC.png"
-            },
-            "description": "[Squeal for Coins](http://runescape.wikia.com/wiki/Squeal_for_Coins) is an achievement that requires the player to open [Yelps's very own cash bag](https://runescape.wikia.com/wiki/Yelps%27s_very_own_cash_bag). [Yelps](https://runescape.wikia.com/wiki/Yelps)'s very own cash bag is claimed from his [chest](https://runescape.wikia.com/wiki/Yelps%27s_chest) after killing him on [Yu'biusk](https://runescape.wikia.com/wiki/Yu%27biusk), or automatically put into the player's bank after sparing him during [The Mighty Fall](https://runescape.wikia.com/wiki/The_Mighty_Fall).\n\nYu'biusk is a world within the multiverse that is separate from [Gielinor](https://runescape.wikia.com/wiki/Gielinor). Players can return to Yu'biusk after the quest is completed by using the fairy ring code **b•l•q**.",
-            "thumbnail": {
-                "url": "https://i.imgur.com/Shmagnp.png"
-            },
-            "fields": [
-                {
-                    "name": "Requirements:",
-                    "value": "• The Mighty Fall Quest partial completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Mighty_Fall)"
-                }
-            ],
-            "footer": {
-                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-                "text": "Runescore awarded: 15"
-            },
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"title": "Squeal for Coins",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Squeal for Coins](http://runescape.wikia.com/wiki/Squeal_for_Coins) is an achievement that requires the player to open [Yelps's very own cash bag](https://runescape.wikia.com/wiki/Yelps%27s_very_own_cash_bag). [Yelps](https://runescape.wikia.com/wiki/Yelps)'s very own cash bag is claimed from his [chest](https://runescape.wikia.com/wiki/Yelps%27s_chest) after killing him on [Yu'biusk](https://runescape.wikia.com/wiki/Yu%27biusk), or automatically put into the player's bank after sparing him during [The Mighty Fall](https://runescape.wikia.com/wiki/The_Mighty_Fall).\n\nYu'biusk is a world within the multiverse that is separate from [Gielinor](https://runescape.wikia.com/wiki/Gielinor). Players can return to Yu'biusk after the quest is completed by using the fairy ring code **b•l•q**.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [{
+				"name": "Requirements:",
+				"value": "• The Mighty Fall Quest partial completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Mighty_Fall)"
+			}],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 15"
+			},
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"stalker notes": {
 		"cmds": ["mqc"],
 		"embed": {
-            "title": "Stalker Notes",
-            "author": {
-                "name": "Cape Info",
-                "icon_url": "https://i.imgur.com/6c6q2iC.png"
-            },
-            "description": "[Stalker Notes](http://runescape.wikia.com/wiki/Stalker_Notes_(achievement%29) is a meta-achievement that requires the player to collect all five [Stalker notes](https://runescape.wikia.com/wiki/Stalker_notes) within [Daemonheim](https://runescape.wikia.com/wiki/Daemonheim).\n\nPlayers may find parts of the notes once they defeat certain [bosses](https://runescape.wikia.com/wiki/Dungeoneering/Bosses) in the dungeons\n\nWearing the [Dungeoneering master cape](https://runescape.wikia.com/wiki/Dungeoneering_master_cape) will increase the chance of receiving lore drops while Dungeoneering.",
-            "thumbnail": {
-                "url": "https://i.imgur.com/Shmagnp.png"
-            },
-            "fields": [
-                {
-                  "name": "Stalker Notes:",
-                  "value": "[Stalker Notes Part 1](https://runescape.wikia.com/wiki/Stalker_notes_(part_1)\n[Stalker Notes Part 2](https://runescape.wikia.com/wiki/Stalker_notes_(part_2)\n[Stalker Notes Part 3](https://runescape.wikia.com/wiki/Stalker_notes_(part_3)\n[Stalker Notes Part 4](https://runescape.wikia.com/wiki/Stalker_notes_(part_4)\n[Stalker Notes Part 5](https://runescape.wikia.com/wiki/Stalker_notes_(part_5)",
-                  "inline": true
-                },
-                {
-                  "name": "Dropped by:",
-                  "value": "[Plane-freezer Lakhrahnaz](https://runescape.wikia.com/wiki/Plane-freezer_Lakhrahnaz)\n[Night-gazer Khighorahk](https://runescape.wikia.com/wiki/Night-gazer_Khighorahk)\n[Shadow-forger Ihlakhizan](https://runescape.wikia.com/wiki/Shadow-Forger_Ihlakhizan)\n[Flesh-spoiler Haasghenahk](https://runescape.wikia.com/wiki/Flesh-spoiler_Haasghenahk)\n[World-gorger Shukarhazh](https://runescape.wikia.com/wiki/World-gorger_Shukarhazh)",
-                  "inline": true
-                },
-                {
-                    "name": "Requirements:",
-                    "value": "• 107 Dungeoneering"
-                }
-            ],
-            "footer": {
-                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-                "text": "Runescore awarded: 30"
-            },
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"title": "Stalker Notes",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Stalker Notes](http://runescape.wikia.com/wiki/Stalker_Notes_(achievement%29) is a meta-achievement that requires the player to collect all five [Stalker notes](https://runescape.wikia.com/wiki/Stalker_notes) within [Daemonheim](https://runescape.wikia.com/wiki/Daemonheim).\n\nPlayers may find parts of the notes once they defeat certain [bosses](https://runescape.wikia.com/wiki/Dungeoneering/Bosses) in the dungeons\n\nWearing the [Dungeoneering master cape](https://runescape.wikia.com/wiki/Dungeoneering_master_cape) will increase the chance of receiving lore drops while Dungeoneering.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [{
+					"name": "Stalker Notes:",
+					"value": "[Stalker Notes Part 1](https://runescape.wikia.com/wiki/Stalker_notes_(part_1)\n[Stalker Notes Part 2](https://runescape.wikia.com/wiki/Stalker_notes_(part_2)\n[Stalker Notes Part 3](https://runescape.wikia.com/wiki/Stalker_notes_(part_3)\n[Stalker Notes Part 4](https://runescape.wikia.com/wiki/Stalker_notes_(part_4)\n[Stalker Notes Part 5](https://runescape.wikia.com/wiki/Stalker_notes_(part_5)",
+					"inline": true
+				},
+				{
+					"name": "Dropped by:",
+					"value": "[Plane-freezer Lakhrahnaz](https://runescape.wikia.com/wiki/Plane-freezer_Lakhrahnaz)\n[Night-gazer Khighorahk](https://runescape.wikia.com/wiki/Night-gazer_Khighorahk)\n[Shadow-forger Ihlakhizan](https://runescape.wikia.com/wiki/Shadow-Forger_Ihlakhizan)\n[Flesh-spoiler Haasghenahk](https://runescape.wikia.com/wiki/Flesh-spoiler_Haasghenahk)\n[World-gorger Shukarhazh](https://runescape.wikia.com/wiki/World-gorger_Shukarhazh)",
+					"inline": true
+				},
+				{
+					"name": "Requirements:",
+					"value": "• 107 Dungeoneering"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 30"
+			},
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"stay safe": {
 		"cmds": ["comp", "mqc"],
@@ -8267,28 +7950,27 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-						"fields": [
-						{
-                    "name": "Start Point:",
-                    "value": "• The [Entrance](https://vignette.wikia.nocookie.net/runescape2/images/d/d8/Stronghold_of_Player_Safety_entrance_location.png/revision/latest/scale-to-width-down/150?cb=20141210023410) of the Stronghold of Player Safety"
-      			},
-        		{
-                    "name": "Official Difficulty:",
-                    "value": "• None"
-        		},
-        		{
-                    "name": "Official Length:",
-                    "value": "• Short"
-       			},
-        		{
-                    "name": "Items Required:",
-                    "value": "• None"
-        		},
-        		{
-                    "name": "Enemies to Defeat:",
-                    "value": "• None"
-        		},
-            {
+			"fields": [{
+					"name": "Start Point:",
+					"value": "• The [Entrance](https://vignette.wikia.nocookie.net/runescape2/images/d/d8/Stronghold_of_Player_Safety_entrance_location.png/revision/latest/scale-to-width-down/150?cb=20141210023410) of the Stronghold of Player Safety"
+				},
+				{
+					"name": "Official Difficulty:",
+					"value": "• None"
+				},
+				{
+					"name": "Official Length:",
+					"value": "• Short"
+				},
+				{
+					"name": "Items Required:",
+					"value": "• None"
+				},
+				{
+					"name": "Enemies to Defeat:",
+					"value": "• None"
+				},
+				{
 					"name": "Guide:",
 					"value": "• [Stronghold of Player Safety Map and Chest location | Runescape Wiki](https://runescape.wikia.com/wiki/Map:Stronghold_of_Player_Safety)"
 				}
@@ -8297,8 +7979,8 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 5"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"stay secure": {
 		"cmds": ["comp", "mqc"],
@@ -8312,28 +7994,27 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-						"fields": [
-						{
-                    "name": "Start Point:",
-                    "value": "• The [Entrance](https://vignette.wikia.nocookie.net/runescape2/images/7/7d/Stronghold_of_Security_entrance_location.png/revision/latest?cb=20141210070054) of the Stronghold of Security"
-      			},
-        		{
-                    "name": "Official Difficulty:",
-                    "value": "• None"
-        		},
-        		{
-                    "name": "Official Length:",
-                    "value": "• Short"
-       			},
-        		{
-                    "name": "Items Required:",
-                    "value": "• None"
-        		},
-        		{
-                    "name": "Enemies to Defeat:",
-                    "value": "• None"
-        		},
-            {
+			"fields": [{
+					"name": "Start Point:",
+					"value": "• The [Entrance](https://vignette.wikia.nocookie.net/runescape2/images/7/7d/Stronghold_of_Security_entrance_location.png/revision/latest?cb=20141210070054) of the Stronghold of Security"
+				},
+				{
+					"name": "Official Difficulty:",
+					"value": "• None"
+				},
+				{
+					"name": "Official Length:",
+					"value": "• Short"
+				},
+				{
+					"name": "Items Required:",
+					"value": "• None"
+				},
+				{
+					"name": "Enemies to Defeat:",
+					"value": "• None"
+				},
+				{
 					"name": "Guide:",
 					"value": "• [Stronghold of Security Map and Chest locations | Runescape Wiki](https://runescape.wikia.com/wiki/File:Stronghold_of_Security_map.png)"
 				}
@@ -8342,193 +8023,186 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 5"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"stealing sedridor's stones": {
 		"cmds": ["mqc"],
 		"embed": {
-            "title": "Stealing Sedridor's Stones",
-            "author": {
-                "name": "Cape Info",
-                "icon_url": "https://i.imgur.com/6c6q2iC.png"
-            },
-            "description": "[Stealing Sedridor's Stones](http://runescape.wikia.com/wiki/Stealing_Sedridor%27s_Stones) is an achievement that requires the player to obtain all [pure essence](https://runescape.wikia.com/wiki/Pure_essence) given from [Archmage Sedridor](https://runescape.wikia.com/wiki/Archmage_Sedridor)'s [chest](https://runescape.wikia.com/wiki/Rune_chest) after completing [Rune Memories](https://runescape.wikia.com/wiki/Rune_Memories).\n\nSedridor is the current archmage of the second [Wizards' Tower](https://runescape.wikia.com/wiki/Wizards%27_Tower), which trains wizards in the magical arts. He can be found in his office on the 2nd floor of the tower. Sedridor will be saddened by the betrayal of [Wizard Ellaron](https://runescape.wikia.com/wiki/Wizard_Ellaron) and offer players to take from his personal rune chest after the quest.\n\nThis yields pure essence equal to **2.5 * level * (level+1)**, updated each time a level is gained, for a total of 24,750 essence granted once level 99 is reached.\n\nThe immense tower is located on a small island south of [Draynor Village](https://runescape.wikia.com/wiki/Draynor_Village), connected to the mainland by an exquisite bridge. A [fairy ring](https://runescape.wikia.com/wiki/Fairy_ring) with the code **d•i•s** is located directly south of the tower. ",
-            "thumbnail": {
-                "url": "https://i.imgur.com/Shmagnp.png"
-            },
-            "fields": [
-                {
-                    "name": "Requirements:",
-                    "value": "• 99 Runecrafting\n\n• Rune Memories Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Rune_Memories)"
-                }
-            ],
-            "footer": {
-                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-                "text": "Runescore awarded: 20"
-            },
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"title": "Stealing Sedridor's Stones",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Stealing Sedridor's Stones](http://runescape.wikia.com/wiki/Stealing_Sedridor%27s_Stones) is an achievement that requires the player to obtain all [pure essence](https://runescape.wikia.com/wiki/Pure_essence) given from [Archmage Sedridor](https://runescape.wikia.com/wiki/Archmage_Sedridor)'s [chest](https://runescape.wikia.com/wiki/Rune_chest) after completing [Rune Memories](https://runescape.wikia.com/wiki/Rune_Memories).\n\nSedridor is the current archmage of the second [Wizards' Tower](https://runescape.wikia.com/wiki/Wizards%27_Tower), which trains wizards in the magical arts. He can be found in his office on the 2nd floor of the tower. Sedridor will be saddened by the betrayal of [Wizard Ellaron](https://runescape.wikia.com/wiki/Wizard_Ellaron) and offer players to take from his personal rune chest after the quest.\n\nThis yields pure essence equal to **2.5 * level * (level+1)**, updated each time a level is gained, for a total of 24,750 essence granted once level 99 is reached.\n\nThe immense tower is located on a small island south of [Draynor Village](https://runescape.wikia.com/wiki/Draynor_Village), connected to the mainland by an exquisite bridge. A [fairy ring](https://runescape.wikia.com/wiki/Fairy_ring) with the code **d•i•s** is located directly south of the tower. ",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [{
+				"name": "Requirements:",
+				"value": "• 99 Runecrafting\n\n• Rune Memories Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Rune_Memories)"
+			}],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 20"
+			},
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"stone's throw away": {
 		"cmds": ["trim"],
 		"embed": {
-            "title": "Stone's Throw Away",
-            "author": {
-                "name": "Cape Info",
-                "icon_url": "https://i.imgur.com/6c6q2iC.png"
-            },
-            "description": "[Stone's Throw Away](https://runescape.wikia.com/wiki/Stone%27s_Throw_Away) is an achievement that requires the player to collect all 30 [Replica statue pieces](https://runescape.wikia.com/wiki/Replica_statue_piece) to use on the [Dahmaroc statue](https://runescape.wikia.com/wiki/Dahmaroc_statue) in your house's [Study](https://runescape.wikia.com/wiki/Study). The Dahmaroc statue is built on the [Statue plinth](https://runescape.wikia.com/wiki/Statue_plinth) located in the [Varrock Museum](https://runescape.wikia.com/wiki/Varrock_Museum) and is built while participating in the [Shattered Heart](https://runescape.wikia.com/wiki/Shattered_Heart) [Distraction and Diversion](https://runescape.wikia.com/wiki/Distractions_and_Diversions). You can build 1 statue per week. This achievement can only be completed while in [Building mode](https://runescape.wikia.com/wiki/Building_mode), completing it outside building mode will not complete the achievement, but once switched to building mode it will automatically be completed if the statue is complete.\n\nPlayers should note:\n• Rocks are obtained randomly based on the number of experience drops, not on the size of the experience drop. \n• Rock chances reduce for the given skill when gaining the first rock, so you should switch skills in-between. \n• It is beneficial to obtain rocks while capping if that is something your clan requires.\n• It is beneficial to do the Dahmaroc statue and [Statue of Rhiannon](https://runescape.wikia.com/wiki/Statue_of_Rhiannon) simultaneously. Although the Statue of Rhiannon has no time lock, many skills are shared with the Dahmaroc statue, making them being done together a viable option.\n• The rocks must be added in pairs, and can be stored in the [Statue collection bag]( https://runescape.wikia.com/wiki/Statue_collection_bag).",
-            "thumbnail": {
-                "url": "https://i.imgur.com/Shmagnp.png"
-            },
-            "fields": [
-                {
-                    "name": "Requirements:",
-                    "value": "• The ability to obtain [Strange rocks](https://runescape.wikia.com/wiki/Strange_rock) must be toggled on"
-                },
-                {
-                    "name": "Guide:",
-                    "value": "\n**Cooking**\n• Cooking any [Fish](https://runescape.wikia.com/wiki/Fish) or cutting [Arc mushroms](https://runescape.wikia.com/wiki/Sliced_mushrooms_(The_Arc)\n\n**Firemaking**\n• [Maple Logs](https://runescape.wikia.com/wiki/Maple_logs)\n• [Curly Roots](https://runescape.wikia.com/wiki/Curly_root)\n\n**Fishing**\n• [Crayfish](https://runescape.wikia.com/wiki/Raw_crayfish)\n• [Barbarian Fishing](https://runescape.wikia.com/wiki/Barbarian_Fishing)\n\n**Fletching**\n• [Bakriminel Bolts](https://runescape.wikia.com/wiki/Bakriminel_bolts)\n• [Maple Shieldbow(u)](https://runescape.wikia.com/wiki/Maple_shieldbow_(u)\n\n**Hunter**\n• [Crystal Skillchompas](https://runescape.wikia.com/wiki/Crystal_skillchompa_(Hunter)\n\n**Runecrafting**\n• [Wicked Hood](https://runescape.wikia.com/wiki/Wicked_hood#Profits) Daily \n• [Runespan](https://runescape.wikia.com/wiki/Runespan)\n• [Soul Runecrafting](https://runescape.wikia.com/wiki/Soul_Altar)"
-                },
-                {
-                    "name": "​",
-                    "value": "**Agility**\n• [Cycling](https://runescape.wikia.com/wiki/The_Empty_Throne_Room#Agility) in [The Empty Throne Room](https://runescape.wikia.com/wiki/The_Empty_Throne_Room)\n\n**Construction**\n• [Stone Fireplaces](https://runescape.wikia.com/wiki/Stone_fireplace) (buy [Limestone bricks](https://runescape.wikia.com/wiki/Limestone) outside of [Prifddinas](https://runescape.wikia.com/wiki/Prifddinas) house portal during the [Ithell](https://runescape.wikia.com/wiki/Ithell_Clan) [Voice of Seren](https://runescape.wikia.com/wiki/Voice_of_Seren))\n• [Oak Lecterns](https://runescape.wikia.com/wiki/Oak_lectern) (Requires only 1 [Oak Plank](https://runescape.wikia.com/wiki/Oak_plank))"
-                },
-                {
-                    "name": "​",
-                    "value": "**Crafting**\n• [Crystal Flasks](https://runescape.wikia.com/wiki/Crystal_flask) or [Potion Flasks](https://runescape.wikia.com/wiki/Potion_flask) made with Daily [Crystal Glass](https://runescape.wikia.com/wiki/Crystal_glass) or [Robust Glass](https://runescape.wikia.com/wiki/Robust_glass) in any district where the Voice of Seren is active\n• [Empty light orb](https://runescape.wikia.com/wiki/Empty_light_orb) from [Molten Glass](https://runescape.wikia.com/wiki/Molten_glass)\n• Playing the [Harps](https://runescape.wikia.com/wiki/Harp) in Prifddinas\n\n**Farming**\n• [Rumberry Bushes](https://runescape.wikia.com/wiki/Rumberry_bush) on [Tuai Leit](https://runescape.wikia.com/wiki/Tuai_Leit)\n• [Grapvine](https://www.youtube.com/watch?v=EKBj8-gF28M) Runs with [Herb Run](https://www.youtube.com/watch?v=TzNhjl2RZ1c)"
-                },
-                {
-                    "name": "​",
-                    "value": "**Herblore**\n• Cleaning [Tarromin](https://runescape.wikia.com/wiki/Grimy_tarromin) in any district where the Voice of Seren is active\n\n**Mining**\n• [Seren Stones](https://runescape.wikia.com/wiki/Seren_stone)\n• [Pure Essence](https://runescape.wikia.com/wiki/Pure_essence)\n• [Red Sandstone](https://runescape.wikia.com/wiki/Red_sandstone) or [Crystal-flecked sandstone](https://runescape.wikia.com/wiki/Crystal-flecked_sandstone) Daily\n\n**Smithing**\n• [Corrupted Ore](https://runescape.wikia.com/wiki/Corrupted_ore)\n• [Gold Bars](https://runescape.wikia.com/wiki/Gold_bar) at a [Portable forge](https://runescape.wikia.com/wiki/Portable_forge)\n\n**Woodcutting**\n• [Crystallise](https://runescape.wikia.com/wiki/Crystallise) [Acadia](https://runescape.wikia.com/wiki/Acadia_tree) in [Menaphos](https://runescape.wikia.com/wiki/Menaphos)\n• [Ivy](https://runescape.wikia.com/wiki/Ivy)"
-                },
-                {
-                    "name": "​",
-                    "value": "**Thieving**\n• [Elven clan workers](https://runescape.wikia.com/wiki/Elven_clan_worker)\n• [Dwarf Traders](https://runescape.wikia.com/wiki/Trader)"
-                }
-            ],
-            "footer": {
-                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-                "text": "Runescore awarded: 50"
-            },
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"title": "Stone's Throw Away",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Stone's Throw Away](https://runescape.wikia.com/wiki/Stone%27s_Throw_Away) is an achievement that requires the player to collect all 30 [Replica statue pieces](https://runescape.wikia.com/wiki/Replica_statue_piece) to use on the [Dahmaroc statue](https://runescape.wikia.com/wiki/Dahmaroc_statue) in your house's [Study](https://runescape.wikia.com/wiki/Study). The Dahmaroc statue is built on the [Statue plinth](https://runescape.wikia.com/wiki/Statue_plinth) located in the [Varrock Museum](https://runescape.wikia.com/wiki/Varrock_Museum) and is built while participating in the [Shattered Heart](https://runescape.wikia.com/wiki/Shattered_Heart) [Distraction and Diversion](https://runescape.wikia.com/wiki/Distractions_and_Diversions). You can build 1 statue per week. This achievement can only be completed while in [Building mode](https://runescape.wikia.com/wiki/Building_mode), completing it outside building mode will not complete the achievement, but once switched to building mode it will automatically be completed if the statue is complete.\n\nPlayers should note:\n• Rocks are obtained randomly based on the number of experience drops, not on the size of the experience drop. \n• Rock chances reduce for the given skill when gaining the first rock, so you should switch skills in-between. \n• It is beneficial to obtain rocks while capping if that is something your clan requires.\n• It is beneficial to do the Dahmaroc statue and [Statue of Rhiannon](https://runescape.wikia.com/wiki/Statue_of_Rhiannon) simultaneously. Although the Statue of Rhiannon has no time lock, many skills are shared with the Dahmaroc statue, making them being done together a viable option.\n• The rocks must be added in pairs, and can be stored in the [Statue collection bag]( https://runescape.wikia.com/wiki/Statue_collection_bag).",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [{
+					"name": "Requirements:",
+					"value": "• The ability to obtain [Strange rocks](https://runescape.wikia.com/wiki/Strange_rock) must be toggled on"
+				},
+				{
+					"name": "Guide:",
+					"value": "\n**Cooking**\n• Cooking any [Fish](https://runescape.wikia.com/wiki/Fish) or cutting [Arc mushroms](https://runescape.wikia.com/wiki/Sliced_mushrooms_(The_Arc)\n\n**Firemaking**\n• [Maple Logs](https://runescape.wikia.com/wiki/Maple_logs)\n• [Curly Roots](https://runescape.wikia.com/wiki/Curly_root)\n\n**Fishing**\n• [Crayfish](https://runescape.wikia.com/wiki/Raw_crayfish)\n• [Barbarian Fishing](https://runescape.wikia.com/wiki/Barbarian_Fishing)\n\n**Fletching**\n• [Bakriminel Bolts](https://runescape.wikia.com/wiki/Bakriminel_bolts)\n• [Maple Shieldbow(u)](https://runescape.wikia.com/wiki/Maple_shieldbow_(u)\n\n**Hunter**\n• [Crystal Skillchompas](https://runescape.wikia.com/wiki/Crystal_skillchompa_(Hunter)\n\n**Runecrafting**\n• [Wicked Hood](https://runescape.wikia.com/wiki/Wicked_hood#Profits) Daily \n• [Runespan](https://runescape.wikia.com/wiki/Runespan)\n• [Soul Runecrafting](https://runescape.wikia.com/wiki/Soul_Altar)"
+				},
+				{
+					"name": "​",
+					"value": "**Agility**\n• [Cycling](https://runescape.wikia.com/wiki/The_Empty_Throne_Room#Agility) in [The Empty Throne Room](https://runescape.wikia.com/wiki/The_Empty_Throne_Room)\n\n**Construction**\n• [Stone Fireplaces](https://runescape.wikia.com/wiki/Stone_fireplace) (buy [Limestone bricks](https://runescape.wikia.com/wiki/Limestone) outside of [Prifddinas](https://runescape.wikia.com/wiki/Prifddinas) house portal during the [Ithell](https://runescape.wikia.com/wiki/Ithell_Clan) [Voice of Seren](https://runescape.wikia.com/wiki/Voice_of_Seren))\n• [Oak Lecterns](https://runescape.wikia.com/wiki/Oak_lectern) (Requires only 1 [Oak Plank](https://runescape.wikia.com/wiki/Oak_plank))"
+				},
+				{
+					"name": "​",
+					"value": "**Crafting**\n• [Crystal Flasks](https://runescape.wikia.com/wiki/Crystal_flask) or [Potion Flasks](https://runescape.wikia.com/wiki/Potion_flask) made with Daily [Crystal Glass](https://runescape.wikia.com/wiki/Crystal_glass) or [Robust Glass](https://runescape.wikia.com/wiki/Robust_glass) in any district where the Voice of Seren is active\n• [Empty light orb](https://runescape.wikia.com/wiki/Empty_light_orb) from [Molten Glass](https://runescape.wikia.com/wiki/Molten_glass)\n• Playing the [Harps](https://runescape.wikia.com/wiki/Harp) in Prifddinas\n\n**Farming**\n• [Rumberry Bushes](https://runescape.wikia.com/wiki/Rumberry_bush) on [Tuai Leit](https://runescape.wikia.com/wiki/Tuai_Leit)\n• [Grapvine](https://www.youtube.com/watch?v=EKBj8-gF28M) Runs with [Herb Run](https://www.youtube.com/watch?v=TzNhjl2RZ1c)"
+				},
+				{
+					"name": "​",
+					"value": "**Herblore**\n• Cleaning [Tarromin](https://runescape.wikia.com/wiki/Grimy_tarromin) in any district where the Voice of Seren is active\n\n**Mining**\n• [Seren Stones](https://runescape.wikia.com/wiki/Seren_stone)\n• [Pure Essence](https://runescape.wikia.com/wiki/Pure_essence)\n• [Red Sandstone](https://runescape.wikia.com/wiki/Red_sandstone) or [Crystal-flecked sandstone](https://runescape.wikia.com/wiki/Crystal-flecked_sandstone) Daily\n\n**Smithing**\n• [Corrupted Ore](https://runescape.wikia.com/wiki/Corrupted_ore)\n• [Gold Bars](https://runescape.wikia.com/wiki/Gold_bar) at a [Portable forge](https://runescape.wikia.com/wiki/Portable_forge)\n\n**Woodcutting**\n• [Crystallise](https://runescape.wikia.com/wiki/Crystallise) [Acadia](https://runescape.wikia.com/wiki/Acadia_tree) in [Menaphos](https://runescape.wikia.com/wiki/Menaphos)\n• [Ivy](https://runescape.wikia.com/wiki/Ivy)"
+				},
+				{
+					"name": "​",
+					"value": "**Thieving**\n• [Elven clan workers](https://runescape.wikia.com/wiki/Elven_clan_worker)\n• [Dwarf Traders](https://runescape.wikia.com/wiki/Trader)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 50"
+			},
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"summary spirits": {
 		"cmds": ["mqc"],
 		"embed": {
-            "title": "Summary Spirits",
-            "author": {
-                "name": "Cape Info",
-                "icon_url": "https://i.imgur.com/6c6q2iC.png"
-            },
-            "description": "[Summary Spirits](http://runescape.wikia.com/wiki/Summary_Spirits) is an achievement that requires the player to enter all 8 of the [Wilderness spirit portals](https://runescape.wikia.com/wiki/Spirit_Realm) after completing [Summer's End](https://runescape.wikia.com/wiki/Summer%27s_End). Two portals are available during the quest [Spirit of Summer](https://runescape.wikia.com/wiki/Spirit_of_Summer), and the reward item from the quest, [Jennica's ring](https://runescape.wikia.com/wiki/Jennica%27s_ring), activates additional portals after the completion of Summer's End.\n\nThe first portal is used at the beginning of the Spirit of Summer quest. It is in the entrance of a house in the [Ruins (east)](https://runescape.wikia.com/wiki/Ruins_(east). Experience is only given after Summer's End. There are also five [weak portals](https://runescape.wikia.com/wiki/Spirit_Realm#Weak_portals) that can be activated using the upgraded version of Jennica's ring.",
-            "thumbnail": {
-                "url": "https://i.imgur.com/Shmagnp.png"
-            },
-            "fields": [
-                {
-                    "name": "Spiritual Portals:",
-                    "value": "• Visible; at the flower farming patch where the diseased [Limpwurt plant](https://runescape.wikia.com/wiki/Limpwurt_root) was grown in the quest at the [Ruins (west)](https://runescape.wikia.com/wiki/Ruins_(west) in level 22 [Wilderness](https://runescape.wikia.com/wiki/Wilderness).\n• Coordinates: [16° 44' N, 17° 15' E](https://vignette.wikia.nocookie.net/runescape2/images/1/1a/Spirit_Realm_portal_%28Ruins_west%29_location.png/revision/latest?cb=20141210065020)"
-                },
-                {
-                    "name": "​",
-                    "value": "• Visible; outside the [magic axe hut](https://runescape.wikia.com/wiki/Magic_axe_hut) in level 55 Wilderness, just northeast of the [Ardougne teleport lever](https://runescape.wikia.com/wiki/Ardougne_teleport_lever).\n• Coordinates: [24° 50' N, 23° 27' E](https://vignette.wikia.nocookie.net/runescape2/images/c/cb/Spirit_Realm_portal_%28magic_axe_hut%29_location.png/revision/latest?cb=20170614183653)"
-                },
-                {
-                    "name": "​",
-                    "value": "• Visible; at the [Forgotten Cemetery](https://runescape.wikia.com/wiki/The_Forgotten_Cemetery) just north of the flower patch portal, in level 30 Wilderness.\n• Coordinates: [18° 37' N, 16° 54' E](https://vignette.wikia.nocookie.net/runescape2/images/6/69/Spirit_Realm_portal_%28Forgotten_Cemetery%29_location.png/revision/latest?cb=20170614184205)\n\n"
-                },
-                {
-                    "name": "Weak Portals:",
-                    "value": "• Weak but visible; at [Summer's farm](https://runescape.wikia.com/wiki/Ruins_(east) in level 28 Wilderness.\n• Coordinates: [17° 58' N, 24° 45' E](https://vignette.wikia.nocookie.net/runescape2/images/3/3b/Spirit_Realm_portal_%28Wilderness_Ruins%29_location.png/revision/latest?cb=20170911121611)"
-                },
-                {
-                    "name": "​",
-                    "value": "• Very weak and invisible; in the very centre of the [Dark Warriors' Fortress](https://runescape.wikia.com/wiki/Dark_Warriors%27_Fortress) in level 14 Wilderness.\n• Coordinates: [14° 43' N, 18° 22' E](https://vignette.wikia.nocookie.net/runescape2/images/3/32/Spirit_Realm_portal_%28Dark_Warriors%27_Fortress%29_location.png/revision/latest?cb=20170614185748)"
-                },
-                {
-                    "name": "​",
-                    "value": "• Weak but visible; at the [Chaos Temple](https://runescape.wikia.com/wiki/Chaos_Temple_(Wilderness) in level 12 Wilderness.\n• Coordinates: [14° 0' N, 25° 5' E](https://vignette.wikia.nocookie.net/runescape2/images/e/e2/Spirit_Realm_portal_%28Chaos_Temple%29_location.png/revision/latest?cb=20170614185548)"
-                },
-                {
-                    "name": "​",
-                    "value": "• Very weak and invisible; in the north of [Rogues' Castle](https://runescape.wikia.com/wiki/Rogues%27_Castle) in level 53 Wilderness.\n• Coordinates: [24° 18' N, 26° 33' E](https://vignette.wikia.nocookie.net/runescape2/images/0/08/Spirit_Realm_portal_%28Rogues%27_Castle%29_location.png/revision/latest?cb=20170614190004)"
-                },
-                {
-                    "name": "​",
-                    "value": "• Weak but visible; in the [castle ruins](https://runescape.wikia.com/wiki/Deep_Wilderness_Castle_Ruins) far east of the [Demonic Ruins](https://runescape.wikia.com/wiki/Demonic_Ruins), in Level 47 Wilderness.\n• Coordinates: [22° 56' N, 29° 9' E](https://vignette.wikia.nocookie.net/runescape2/images/0/09/Spirit_Realm_portal_%28east_of_Demonic_Ruins%29_location.png/revision/latest?cb=20180815113729)"
-                },
-                {
-                    "name": "Requirements:",
-                    "value": "• Summer's End Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Rune_Memories)\n• Jennica's Ring"
-                },
-                {
-                  "name": "Guide:",
-                  "value": "[Spirit Realm guide | Runescape Wiki](http://runescape.wikia.com/wiki/Spirit_Realm)"
-                }
-            ],
-            "footer": {
-                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-                "text": "Runescore awarded: 20"
-            },
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"title": "Summary Spirits",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Summary Spirits](http://runescape.wikia.com/wiki/Summary_Spirits) is an achievement that requires the player to enter all 8 of the [Wilderness spirit portals](https://runescape.wikia.com/wiki/Spirit_Realm) after completing [Summer's End](https://runescape.wikia.com/wiki/Summer%27s_End). Two portals are available during the quest [Spirit of Summer](https://runescape.wikia.com/wiki/Spirit_of_Summer), and the reward item from the quest, [Jennica's ring](https://runescape.wikia.com/wiki/Jennica%27s_ring), activates additional portals after the completion of Summer's End.\n\nThe first portal is used at the beginning of the Spirit of Summer quest. It is in the entrance of a house in the [Ruins (east)](https://runescape.wikia.com/wiki/Ruins_(east). Experience is only given after Summer's End. There are also five [weak portals](https://runescape.wikia.com/wiki/Spirit_Realm#Weak_portals) that can be activated using the upgraded version of Jennica's ring.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [{
+					"name": "Spiritual Portals:",
+					"value": "• Visible; at the flower farming patch where the diseased [Limpwurt plant](https://runescape.wikia.com/wiki/Limpwurt_root) was grown in the quest at the [Ruins (west)](https://runescape.wikia.com/wiki/Ruins_(west) in level 22 [Wilderness](https://runescape.wikia.com/wiki/Wilderness).\n• Coordinates: [16° 44' N, 17° 15' E](https://vignette.wikia.nocookie.net/runescape2/images/1/1a/Spirit_Realm_portal_%28Ruins_west%29_location.png/revision/latest?cb=20141210065020)"
+				},
+				{
+					"name": "​",
+					"value": "• Visible; outside the [magic axe hut](https://runescape.wikia.com/wiki/Magic_axe_hut) in level 55 Wilderness, just northeast of the [Ardougne teleport lever](https://runescape.wikia.com/wiki/Ardougne_teleport_lever).\n• Coordinates: [24° 50' N, 23° 27' E](https://vignette.wikia.nocookie.net/runescape2/images/c/cb/Spirit_Realm_portal_%28magic_axe_hut%29_location.png/revision/latest?cb=20170614183653)"
+				},
+				{
+					"name": "​",
+					"value": "• Visible; at the [Forgotten Cemetery](https://runescape.wikia.com/wiki/The_Forgotten_Cemetery) just north of the flower patch portal, in level 30 Wilderness.\n• Coordinates: [18° 37' N, 16° 54' E](https://vignette.wikia.nocookie.net/runescape2/images/6/69/Spirit_Realm_portal_%28Forgotten_Cemetery%29_location.png/revision/latest?cb=20170614184205)\n\n"
+				},
+				{
+					"name": "Weak Portals:",
+					"value": "• Weak but visible; at [Summer's farm](https://runescape.wikia.com/wiki/Ruins_(east) in level 28 Wilderness.\n• Coordinates: [17° 58' N, 24° 45' E](https://vignette.wikia.nocookie.net/runescape2/images/3/3b/Spirit_Realm_portal_%28Wilderness_Ruins%29_location.png/revision/latest?cb=20170911121611)"
+				},
+				{
+					"name": "​",
+					"value": "• Very weak and invisible; in the very centre of the [Dark Warriors' Fortress](https://runescape.wikia.com/wiki/Dark_Warriors%27_Fortress) in level 14 Wilderness.\n• Coordinates: [14° 43' N, 18° 22' E](https://vignette.wikia.nocookie.net/runescape2/images/3/32/Spirit_Realm_portal_%28Dark_Warriors%27_Fortress%29_location.png/revision/latest?cb=20170614185748)"
+				},
+				{
+					"name": "​",
+					"value": "• Weak but visible; at the [Chaos Temple](https://runescape.wikia.com/wiki/Chaos_Temple_(Wilderness) in level 12 Wilderness.\n• Coordinates: [14° 0' N, 25° 5' E](https://vignette.wikia.nocookie.net/runescape2/images/e/e2/Spirit_Realm_portal_%28Chaos_Temple%29_location.png/revision/latest?cb=20170614185548)"
+				},
+				{
+					"name": "​",
+					"value": "• Very weak and invisible; in the north of [Rogues' Castle](https://runescape.wikia.com/wiki/Rogues%27_Castle) in level 53 Wilderness.\n• Coordinates: [24° 18' N, 26° 33' E](https://vignette.wikia.nocookie.net/runescape2/images/0/08/Spirit_Realm_portal_%28Rogues%27_Castle%29_location.png/revision/latest?cb=20170614190004)"
+				},
+				{
+					"name": "​",
+					"value": "• Weak but visible; in the [castle ruins](https://runescape.wikia.com/wiki/Deep_Wilderness_Castle_Ruins) far east of the [Demonic Ruins](https://runescape.wikia.com/wiki/Demonic_Ruins), in Level 47 Wilderness.\n• Coordinates: [22° 56' N, 29° 9' E](https://vignette.wikia.nocookie.net/runescape2/images/0/09/Spirit_Realm_portal_%28east_of_Demonic_Ruins%29_location.png/revision/latest?cb=20180815113729)"
+				},
+				{
+					"name": "Requirements:",
+					"value": "• Summer's End Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Rune_Memories)\n• Jennica's Ring"
+				},
+				{
+					"name": "Guide:",
+					"value": "[Spirit Realm guide | Runescape Wiki](http://runescape.wikia.com/wiki/Spirit_Realm)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 20"
+			},
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"supply and demand": {
 		"cmds": ["mqc"],
 		"embed": {
-            "title": "Supply and Demand",
-            "author": {
-                "name": "Cape Info",
-                "icon_url": "https://i.imgur.com/6c6q2iC.png"
-            },
-            "description": "[Supply and Demand](http://runescape.wikia.com/wiki/Supply_and_Demand) is an achievement that requires the player to complete five supply runs after completion of [Death Plateau](https://runescape.wikia.com/wiki/Death_Plateau).\n\nThis achievement requires the player to take a [crate of supplies](https://runescape.wikia.com/wiki/Supplies) from [Commander Denulth](https://runescape.wikia.com/wiki/Commander_Denulth) to the [Ambush Commander](https://runescape.wikia.com/wiki/Ambush_Commander).\n\nCommander Denulth can be found in the courtyard just east of the [Burthorpe](https://runescape.wikia.com/wiki/Burthorpe) bank.\n\nThe Ambush Commander is an [Imperial Guard](https://runescape.wikia.com/wiki/Burthorpe_Imperial_Guard) archer that is stationed on top of [Death Plateau](https://runescape.wikia.com/wiki/Death_Plateau_(location), right outside of the cave the player discovers during the quest.\n\nAfter finishing the fifth run, this activity is no longer available.\n\n A quick method to complete the trips is to instead run past the [thrower trolls](https://runescape.wikia.com/wiki/Thrower_Troll), up onto Death Plateau, then climb the rocks on the eastern side (requires [climbing boots](https://runescape.wikia.com/wiki/Climbing_boots) or an agility level of 41) and [home teleport](https://runescape.wikia.com/wiki/Home_Teleport) back to Burthorpe.",
-            "thumbnail": {
-                "url": "https://i.imgur.com/Shmagnp.png"
-            },
-            "fields": [
-                {
-                    "name": "Requirements:",
-                    "value": "• 18 Combat\n\n• Death Plateau Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Death_Plateau)"
-                }
-            ],
-            "footer": {
-                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-                "text": "Runescore awarded: 10"
-            },
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"title": "Supply and Demand",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Supply and Demand](http://runescape.wikia.com/wiki/Supply_and_Demand) is an achievement that requires the player to complete five supply runs after completion of [Death Plateau](https://runescape.wikia.com/wiki/Death_Plateau).\n\nThis achievement requires the player to take a [crate of supplies](https://runescape.wikia.com/wiki/Supplies) from [Commander Denulth](https://runescape.wikia.com/wiki/Commander_Denulth) to the [Ambush Commander](https://runescape.wikia.com/wiki/Ambush_Commander).\n\nCommander Denulth can be found in the courtyard just east of the [Burthorpe](https://runescape.wikia.com/wiki/Burthorpe) bank.\n\nThe Ambush Commander is an [Imperial Guard](https://runescape.wikia.com/wiki/Burthorpe_Imperial_Guard) archer that is stationed on top of [Death Plateau](https://runescape.wikia.com/wiki/Death_Plateau_(location), right outside of the cave the player discovers during the quest.\n\nAfter finishing the fifth run, this activity is no longer available.\n\n A quick method to complete the trips is to instead run past the [thrower trolls](https://runescape.wikia.com/wiki/Thrower_Troll), up onto Death Plateau, then climb the rocks on the eastern side (requires [climbing boots](https://runescape.wikia.com/wiki/Climbing_boots) or an agility level of 41) and [home teleport](https://runescape.wikia.com/wiki/Home_Teleport) back to Burthorpe.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [{
+				"name": "Requirements:",
+				"value": "• 18 Combat\n\n• Death Plateau Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Death_Plateau)"
+			}],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 10"
+			},
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"tactless analysis": {
 		"cmds": ["mqc"],
 		"embed": {
-   			"title": "Tactless Analysis",
-    		"author": {
-     			"name": "RuneScore Achievement Info",
-      			"icon_url": "https://i.imgur.com/6c6q2iC.png"
-    		},
-    		"description": "[Tactless Analysis](https://runescape.wikia.com/wiki/Tactless_Analysis) is an achievement that requires the player to obtain all 22 [Dragonkin research notes](https://runescape.wikia.com/wiki/Dragonkin_research_notes) to complete [Dragonkin research](https://runescape.wikia.com/wiki/Dragonkin_research) in the [Dragonkin Laboratory](https://runescape.wikia.com/wiki/Dragonkin_Laboratory) in either normal or story mode.\n\nThe notes can be found on the following places:\n\n• 1 note can be found right by the entrance in a side room.\n• 3 notes can be found around the [red dragons](https://runescape.wikia.com/wiki/Red_dragon_(Dragonkin_Laboratory%29) by the entrance.\n• 1 note can be found past the [lava spiders](https://runescape.wikia.com/wiki/Lava_spider) next to the [Spyndra](https://runescape.wikia.com/wiki/Spyndra) miniboss.\n• 10 notes can be found in the building around the [Astellarn](https://runescape.wikia.com/wiki/Astellarn) boss room.\n• 1 note can be found north of the [black dragons](https://runescape.wikia.com/wiki/Black_dragon_(Dragonkin_Laboratory%29), this note can only be obtained with the [Telekinetic Grab](https://runescape.wikia.com/wiki/Telekinetic_Grab) spell.\n• 1 note can be found inside the [Verak Lith](https://runescape.wikia.com/wiki/Verak_Lith) boss room.\n• 5 notes can be found on route to the [Black Stone Dragon](https://runescape.wikia.com/wiki/Black_Stone_Dragon) boss room.\n\nAll notes are shown as red dots on the minimap.",
-    		"thumbnail": {
-      			"url": "https://i.imgur.com/Shmagnp.png"
-    		},
-    		"fields": [
-      			{
-        			"name": "Requirements:",
-        			"value": "• 33 Magic\n\n• Completed the [Temple of Aminishi](https://runescape.wikia.com/wiki/Temple_of_Aminishi) Elite Dungeon once in either story or normal mode"
-      			},
-      			{
-       				"name": "Guide:",
-        			"value": "[Map of all note locations | Runescape Wiki](https://vignette.wikia.nocookie.net/runescape2/images/a/ab/Dragonkin_Laboratory_map.png/revision/latest?cb=20180817141803)"
-      			}
-    		],
-    		"footer": {
-      			"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-      			"text": "Runescore awarded: 20"
-    		}
-  		}
-	},			
+			"title": "Tactless Analysis",
+			"author": {
+				"name": "RuneScore Achievement Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Tactless Analysis](https://runescape.wikia.com/wiki/Tactless_Analysis) is an achievement that requires the player to obtain all 22 [Dragonkin research notes](https://runescape.wikia.com/wiki/Dragonkin_research_notes) to complete [Dragonkin research](https://runescape.wikia.com/wiki/Dragonkin_research) in the [Dragonkin Laboratory](https://runescape.wikia.com/wiki/Dragonkin_Laboratory) in either normal or story mode.\n\nThe notes can be found on the following places:\n\n• 1 note can be found right by the entrance in a side room.\n• 3 notes can be found around the [red dragons](https://runescape.wikia.com/wiki/Red_dragon_(Dragonkin_Laboratory%29) by the entrance.\n• 1 note can be found past the [lava spiders](https://runescape.wikia.com/wiki/Lava_spider) next to the [Spyndra](https://runescape.wikia.com/wiki/Spyndra) miniboss.\n• 10 notes can be found in the building around the [Astellarn](https://runescape.wikia.com/wiki/Astellarn) boss room.\n• 1 note can be found north of the [black dragons](https://runescape.wikia.com/wiki/Black_dragon_(Dragonkin_Laboratory%29), this note can only be obtained with the [Telekinetic Grab](https://runescape.wikia.com/wiki/Telekinetic_Grab) spell.\n• 1 note can be found inside the [Verak Lith](https://runescape.wikia.com/wiki/Verak_Lith) boss room.\n• 5 notes can be found on route to the [Black Stone Dragon](https://runescape.wikia.com/wiki/Black_Stone_Dragon) boss room.\n\nAll notes are shown as red dots on the minimap.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [{
+					"name": "Requirements:",
+					"value": "• 33 Magic\n\n• Completed the [Temple of Aminishi](https://runescape.wikia.com/wiki/Temple_of_Aminishi) Elite Dungeon once in either story or normal mode"
+				},
+				{
+					"name": "Guide:",
+					"value": "[Map of all note locations | Runescape Wiki](https://vignette.wikia.nocookie.net/runescape2/images/a/ab/Dragonkin_Laboratory_map.png/revision/latest?cb=20180817141803)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 20"
+			}
+		}
+	},
 	"task master": {
 		"cmds": ["comp"],
 		"embed": {
@@ -8541,8 +8215,7 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
+			"fields": [{
 					"name": "Requirements:",
 					"value": "• 90 Agility\n• 90 Attack\n• 90 Constitution\n• 90 Construction\n• 95 Cooking\n• 98 Crafting\n• 90 Defence\n• 90 Divination\n• 95 Dungeoneering\n• 91 Farming\n• 92 Firemaking\n• 96 Fishing\n• 93 Fletching\n• 94 Herblore\n• 90 Hunter\n• 1 Invention\n• 90 Magic\n• 90 Mining\n• 95 Prayer\n• 90 Ranged\n• 91 Runecrafting\n• 95 Slayer\n• 95 Smithing\n• 90 Strength\n• 95 Summoning\n• 95 Thieving\n• 90 Woodcutting\n• 270 Quest points\n• 500 Music Tracks Unlocked\n• Combat level 127"
 				},
@@ -8559,33 +8232,31 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 0"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"tasty bobbles": {
 		"cmds": ["mqc"],
 		"embed": {
-            "title": "Tasty Bobbles",
-            "author": {
-                "name": "Cape Info",
-                "icon_url": "https://i.imgur.com/6c6q2iC.png"
-            },
-            "description": "[Tasty Bobbles](http://runescape.wikia.com/wiki/Tasty_Bobbles) is an achievement that requires the player to speak with [Tim](https://runescape.wikia.com/wiki/Tim) and [Crunchy](https://runescape.wikia.com/wiki/Crunchy) after completing [Gower Quest](https://runescape.wikia.com/wiki/Gower_Quest) to obtain [bobblehead](https://runescape.wikia.com/wiki/Bobblehead) pets of themselves.\n\nTim and Crunchy are located in [Behind the Scenes](https://runescape.wikia.com/wiki/Behind_the_Scenes_(location).\n\nBehind the Scenes is a location visited during the Gower Quest which resembles a bar. It can be accessed during the quest by using a [disk of returning](https://runescape.wikia.com/wiki/Disk_of_returning_(Gower_Quest) in the [dwarven mines](https://runescape.wikia.com/wiki/Dwarven_Mine) north of [Falador](https://runescape.wikia.com/wiki/Falador), beneath [Ice Mountain](https://runescape.wikia.com/wiki/Ice_Mountain), to go to [The Black Hole](https://runescape.wikia.com/wiki/The_Black_Hole_(Gower_Quest).\n\nAfter the quest, the disk of returning can be used from any bank area.",
-            "thumbnail": {
-                "url": "https://i.imgur.com/Shmagnp.png"
-            },
-            "fields": [
-                {
-                    "name": "Requirements:",
-                    "value": "• Gower Quest Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Gower_Quest)"
-                }
-            ],
-            "footer": {
-                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-                "text": "Runescore awarded: 15"
-            },
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"title": "Tasty Bobbles",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Tasty Bobbles](http://runescape.wikia.com/wiki/Tasty_Bobbles) is an achievement that requires the player to speak with [Tim](https://runescape.wikia.com/wiki/Tim) and [Crunchy](https://runescape.wikia.com/wiki/Crunchy) after completing [Gower Quest](https://runescape.wikia.com/wiki/Gower_Quest) to obtain [bobblehead](https://runescape.wikia.com/wiki/Bobblehead) pets of themselves.\n\nTim and Crunchy are located in [Behind the Scenes](https://runescape.wikia.com/wiki/Behind_the_Scenes_(location).\n\nBehind the Scenes is a location visited during the Gower Quest which resembles a bar. It can be accessed during the quest by using a [disk of returning](https://runescape.wikia.com/wiki/Disk_of_returning_(Gower_Quest) in the [dwarven mines](https://runescape.wikia.com/wiki/Dwarven_Mine) north of [Falador](https://runescape.wikia.com/wiki/Falador), beneath [Ice Mountain](https://runescape.wikia.com/wiki/Ice_Mountain), to go to [The Black Hole](https://runescape.wikia.com/wiki/The_Black_Hole_(Gower_Quest).\n\nAfter the quest, the disk of returning can be used from any bank area.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [{
+				"name": "Requirements:",
+				"value": "• Gower Quest Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Gower_Quest)"
+			}],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 15"
+			},
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"tell tale tarn": {
 		"cmds": ["comp", "mqc"],
@@ -8599,28 +8270,27 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-							{
-                    "name": "Start Point:",
-                    "value": "• Speak to the [Zealot](https://runescape.wikia.com/wiki/Zealot) at the mines in [Morytania](https://runescape.wikia.com/wiki/Morytania)"
-      			},
-        		{
-                    "name": "Official Difficulty:",
-                    "value": "• None"
-        		},
-        		{
-                    "name": "Official Length:",
-                    "value": "• Short"
-       			},
-        		{
-                    "name": "Items Required:",
-                    "value": "• [Salve amulet](https://runescape.wikia.com/wiki/Salve_amulet)"
-        		},
-        		{
-                    "name": "Enemies to Defeat:",
-                    "value": "• [Tarn Razorlor](https://runescape.wikia.com/wiki/Tarn) (level 79)"
-        		},
-            {
+			"fields": [{
+					"name": "Start Point:",
+					"value": "• Speak to the [Zealot](https://runescape.wikia.com/wiki/Zealot) at the mines in [Morytania](https://runescape.wikia.com/wiki/Morytania)"
+				},
+				{
+					"name": "Official Difficulty:",
+					"value": "• None"
+				},
+				{
+					"name": "Official Length:",
+					"value": "• Short"
+				},
+				{
+					"name": "Items Required:",
+					"value": "• [Salve amulet](https://runescape.wikia.com/wiki/Salve_amulet)"
+				},
+				{
+					"name": "Enemies to Defeat:",
+					"value": "• [Tarn Razorlor](https://runescape.wikia.com/wiki/Tarn) (level 79)"
+				},
+				{
 					"name": "Requirements:",
 					"value": "• 40 Slayer\n\n• Haunted Mine Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Haunted_Mine)"
 				},
@@ -8633,62 +8303,59 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 15"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"telos if you're angry ii": {
 		"cmds": ["trim"],
 		"embed": {
-            "title": "Telos If You're Angry II",
-            "author": {
-                "name": "Cape Info",
-                "icon_url": "https://i.imgur.com/6c6q2iC.png"
-            },
-            "description": "[Telos If You're Angry II](http://runescape.wikia.com/wiki/Telos_If_You%27re_Angry_II) is is an achievement that requires the player to defeat [Telos, the Warden](https://runescape.wikia.com/wiki/Telos,_the_Warden) at 100% enrage.",
-            "thumbnail": {
-                "url": "https://i.imgur.com/Shmagnp.png"
-            },
-            "fields": [
-                {
-                    "name": "Requirements:",
-                    "value": "• 80 Attack\n• 80 Prayer\n• 80 Magic\n• 80 Ranged\n\n• An [Ancient Sigil](http://runescape.wikia.com/wiki/Ancient_sigil)\n• Players must have defeated [Helwyr](https://runescape.wikia.com/wiki/Helwyr), [Gregorovic](https://runescape.wikia.com/wiki/Gregorovic), the [Twin Furies](https://runescape.wikia.com/wiki/Twin_Furies), and [Vindicta](https://runescape.wikia.com/wiki/Vindicta) at least once to obtain their sigil pieces"
-                },
-                {
+			"title": "Telos If You're Angry II",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Telos If You're Angry II](http://runescape.wikia.com/wiki/Telos_If_You%27re_Angry_II) is is an achievement that requires the player to defeat [Telos, the Warden](https://runescape.wikia.com/wiki/Telos,_the_Warden) at 100% enrage.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [{
+					"name": "Requirements:",
+					"value": "• 80 Attack\n• 80 Prayer\n• 80 Magic\n• 80 Ranged\n\n• An [Ancient Sigil](http://runescape.wikia.com/wiki/Ancient_sigil)\n• Players must have defeated [Helwyr](https://runescape.wikia.com/wiki/Helwyr), [Gregorovic](https://runescape.wikia.com/wiki/Gregorovic), the [Twin Furies](https://runescape.wikia.com/wiki/Twin_Furies), and [Vindicta](https://runescape.wikia.com/wiki/Vindicta) at least once to obtain their sigil pieces"
+				},
+				{
 					"name": "Guide:",
 					"value": "• [Complete Telos Guide | The Junesong - YouTube](https://www.youtube.com/watch?v=Lv6QRSgBY5w)\n•<#476790691436167168>"
-                }
-            ],
-            "footer": {
-                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-                "text": "Runescore awarded: 5"
-            },
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 5"
+			},
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"that'll teach bill": {
 		"cmds": ["mqc"],
 		"embed": {
-            "title": "That'll Teach Bill",
-            "author": {
-                "name": "Cape Info",
-                "icon_url": "https://i.imgur.com/6c6q2iC.png"
-            },
-            "description": "[That'll Teach Bill](http://runescape.wikia.com/wiki/That%27ll_Teach_Bill) is an achievement that requires the player to speak to [Bill Teach](https://runescape.wikia.com/wiki/Bill_Teach) after completion of [Cabin Fever](https://runescape.wikia.com/wiki/Cabin_Fever) in order to claim 10,000 [coins](https://runescape.wikia.com/wiki/Coins) from him.\n\nBill Teach is a pirate captain from the southern island of [Mos Le'Harmless](https://runescape.wikia.com/wiki/Mos_Le%27Harmless).\n\nHe can be found in multiple places, being:\n\n• [Port Phasmatys](https://runescape.wikia.com/wiki/Port_Phasmatys) on the ship at the east end of the pier or in [The Green Ghost Inn](https://runescape.wikia.com/wiki/The_Green_Ghost)\n• In Mos Le'Harmless on the ship at the east pier, in [The Other Inn](https://runescape.wikia.com/wiki/The_Other_Inn)\n• In the basement of [Harpoon Joe's House of 'Rum'](https://runescape.wikia.com/wiki/Harpoon_Joe%27s_House_of_%27Rum%27)\n• Mos Le'Harmless pier on his boat.\n\nFor maps of his location see [here](https://runescape.wikia.com/wiki/Bill_Teach#Locations).",
-            "thumbnail": {
-                "url": "https://i.imgur.com/Shmagnp.png"
-            },
-            "fields": [
-                {
-                    "name": "Requirements:",
-                    "value": "• Cabin Fever Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Cabin_Fever)"
-                }
-            ],
-            "footer": {
-                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-                "text": "Runescore awarded: 15"
-            },
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"title": "That'll Teach Bill",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[That'll Teach Bill](http://runescape.wikia.com/wiki/That%27ll_Teach_Bill) is an achievement that requires the player to speak to [Bill Teach](https://runescape.wikia.com/wiki/Bill_Teach) after completion of [Cabin Fever](https://runescape.wikia.com/wiki/Cabin_Fever) in order to claim 10,000 [coins](https://runescape.wikia.com/wiki/Coins) from him.\n\nBill Teach is a pirate captain from the southern island of [Mos Le'Harmless](https://runescape.wikia.com/wiki/Mos_Le%27Harmless).\n\nHe can be found in multiple places, being:\n\n• [Port Phasmatys](https://runescape.wikia.com/wiki/Port_Phasmatys) on the ship at the east end of the pier or in [The Green Ghost Inn](https://runescape.wikia.com/wiki/The_Green_Ghost)\n• In Mos Le'Harmless on the ship at the east pier, in [The Other Inn](https://runescape.wikia.com/wiki/The_Other_Inn)\n• In the basement of [Harpoon Joe's House of 'Rum'](https://runescape.wikia.com/wiki/Harpoon_Joe%27s_House_of_%27Rum%27)\n• Mos Le'Harmless pier on his boat.\n\nFor maps of his location see [here](https://runescape.wikia.com/wiki/Bill_Teach#Locations).",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [{
+				"name": "Requirements:",
+				"value": "• Cabin Fever Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Cabin_Fever)"
+			}],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 15"
+			},
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"the book of elei": {
 		"cmds": ["mqc"],
@@ -8698,57 +8365,56 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-    		"description": "[The Book of Elei](https://runescape.wikia.com/wiki/The_Book_of_Elei) is an achievement that requires the player to obtain all 22 [acolyte's diary pages](https://runescape.wikia.com/wiki/Acolyte%27s_diary_page) to complete [Elei's Diary](https://runescape.wikia.com/wiki/Elei%27s_Diary) in the [Temple of Aminishi](https://runescape.wikia.com/wiki/Temple_of_Aminishi) in either normal or story mode.\n\n• 7 pages are found in the first room of the Temple.\n• 4 pages are found in the second room of the Temple of which 1 is located on an upper corridor which can only be obtained by using the [Telekinetic Grab](https://runescape.wikia.com/wiki/Telekinetic_Grab) spell in the [standard spellbook](https://runescape.wikia.com/wiki/Standard_spells).\n• 8 pages are found in the third room of the Temple of which 1 is located below a staircase which can only be obtained by using the Telekinetic Grab spell in the normal spellbook.\n• 3 pages are found in the fourth room of the Temple.\n\nOne page in the third room is currently bugged so it does not appear in the NXT client all the time, but it does always appear in Java. The room is in the square-shaped room that sometimes holds the [Horrific Crassian](https://runescape.wikia.com/wiki/Horrific_crassian) miniboss. The room has a passageway leading to it from all four walls, and artwork depicting a green and a blue dragon. It *can* be obtained using NXT by enabling area loot and dropping something else to pick up nearby the spawn location. Alternatively, players can also go to the fourth room and back to the third room to make the page appear on the minimap and floor.",
-    		"thumbnail": {
-      		"url": "https://i.imgur.com/Shmagnp.png"
-    		},
-    		"fields": [{
-        		"name": "Requirements:",
-        		"value": "• 33 Magic\n• Impressing the Locals Quest completion | [Runescape Wiki](https://runescape.wikia.com/wiki/Impressing_the_Locals)"
-      		},
-      		{
-        		"name": "Guide:",
-        		"value": "[A map showing all notes locations | Runescape Wiki](https://vignette.wikia.nocookie.net/runescape2/images/d/d6/Temple_of_Aminishi_map.png/revision/latest?cb=20180701160746)"
-      		}
-    		],
-    			"footer": {
-      			"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-      			"text": "Runescore awarded: 20"
-    		}
-  		}
+			"description": "[The Book of Elei](https://runescape.wikia.com/wiki/The_Book_of_Elei) is an achievement that requires the player to obtain all 22 [acolyte's diary pages](https://runescape.wikia.com/wiki/Acolyte%27s_diary_page) to complete [Elei's Diary](https://runescape.wikia.com/wiki/Elei%27s_Diary) in the [Temple of Aminishi](https://runescape.wikia.com/wiki/Temple_of_Aminishi) in either normal or story mode.\n\n• 7 pages are found in the first room of the Temple.\n• 4 pages are found in the second room of the Temple of which 1 is located on an upper corridor which can only be obtained by using the [Telekinetic Grab](https://runescape.wikia.com/wiki/Telekinetic_Grab) spell in the [standard spellbook](https://runescape.wikia.com/wiki/Standard_spells).\n• 8 pages are found in the third room of the Temple of which 1 is located below a staircase which can only be obtained by using the Telekinetic Grab spell in the normal spellbook.\n• 3 pages are found in the fourth room of the Temple.\n\nOne page in the third room is currently bugged so it does not appear in the NXT client all the time, but it does always appear in Java. The room is in the square-shaped room that sometimes holds the [Horrific Crassian](https://runescape.wikia.com/wiki/Horrific_crassian) miniboss. The room has a passageway leading to it from all four walls, and artwork depicting a green and a blue dragon. It *can* be obtained using NXT by enabling area loot and dropping something else to pick up nearby the spawn location. Alternatively, players can also go to the fourth room and back to the third room to make the page appear on the minimap and floor.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [{
+					"name": "Requirements:",
+					"value": "• 33 Magic\n• Impressing the Locals Quest completion | [Runescape Wiki](https://runescape.wikia.com/wiki/Impressing_the_Locals)"
+				},
+				{
+					"name": "Guide:",
+					"value": "[A map showing all notes locations | Runescape Wiki](https://vignette.wikia.nocookie.net/runescape2/images/d/d6/Temple_of_Aminishi_map.png/revision/latest?cb=20180701160746)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 20"
+			}
+		}
 	},
 	"the history of slayer": {
 		"cmds": ["mqc"],
 		"embed": {
-            "title": "The History of Slayer",
-            "author": {
-                "name": "Cape Info",
-                "icon_url": "https://i.imgur.com/6c6q2iC.png"
-            },
-            "description": "[The History of Slayer](http://runescape.wikia.com/wiki/The_History_of_Slayer) is an achievement that requires the player to read all of the murals in the [Sunken Pyramid](https://runescape.wikia.com/wiki/Sunken_Pyramid). These can be uncovered by collecting 110 unique souls and depositing them into the chest at the center of the pyramid.\n\nThe [Slayer Codex](https://runescape.wikia.com/wiki/Slayer_Codex) is the book used to record the souls of Slayer monsters that the player has captured in an [Ushabti](https://runescape.wikia.com/wiki/Ushabti). It is obtained from [Faiza](https://runescape.wikia.com/wiki/Faiza) in the Sunken Pyramid after achieving level 99 Slayer. The Codex is updated when a new creature's soul is captured in an ushabti and placed in the [Chest of Souls](https://runescape.wikia.com/wiki/Chest_of_Souls), or when it is added to the player's personal [Slayer Dungeon](https://runescape.wikia.com/wiki/Sunken_Pyramid#Slayer_Dungeon).\n\nUshabti are containers used to trap the souls of Slayer monsters used to fill the Slayer Codex. A small number (25-50) are initially handed out by Faiza depending on Slayer level. Additional ushabti can be purchased from Slayer Masters for 20 [slayer points](https://runescape.wikia.com/wiki/Slayer_points) each, and are a possible reward from the [Rush of Blood](https://runescape.wikia.com/wiki/Rush_of_Blood) Distraction and Diversion (D&D) and the [Motherlode Maw](https://runescape.wikia.com/wiki/Motherlode_Maw).\n\nThe formula for the initial number of ushabti received appears to be 25 + 1 for each additional Slayer level over 99, or 50 at level 120 Slayer. If the free ushabti are claimed prior to having a max Slayer level, upon leveling, the player can still acquire more from Faiza.\n\n Souls can be removed from ushabti's if you accidently caught an undesired or duplicate soul.\n\nIt should be noted that you may not capture a soul from a creature in your own, or another player's, personal slayer dungeon.",
-            "thumbnail": {
-                "url": "https://i.imgur.com/Shmagnp.png"
-            },
-            "fields": [
-                {
-                    "name": "​",
-                    "value": "The likelihood of capturing a soul has a few factors. Every kill has a chance of trapping a soul, which is affected by base Slayer level compared to the creature's required Slayer level to kill. Being on a Slayer assignment for the monster also doubles the chance of trapping the soul. Using level-boosting items such as [wilder pies](https://runescape.wikia.com/wiki/Wilder_pie) does not affect the likelihood of capturing a soul. If the player has level 120 Slayer, the chance to catch a soul is the same as if the player were on task. This doesn't stack with the doubling effect when on assignment."
-                },
-                {
-                    "name": "Tips:",
-                    "value": "• An ushabti can be upgraded into a [cursed ushabti](https://runescape.wikia.com/wiki/Cursed_ushabti) by combining it with [cursed amascut sand](https://runescape.wikia.com/wiki/Cursed_amascut_sand). The cursed ushabti has a 50% increased catch chance over the normal ushabti. Due to the rarity and price of sand, it's best reserved for particularly high Slayer level or difficult monsters.\n\n• Cursed amascut sand can be purchased from players or obtained as a rare drop from a [Ripper Demon](https://runescape.wikia.com/wiki/Ripper_Demon), [Wyvern](https://runescape.wikia.com/wiki/Wyvern), [Camel Warrior](https://runescape.wikia.com/wiki/Camel_Warrior), or [Acheron mammoth](https://runescape.wikia.com/wiki/Acheron_mammoth).\n\n• Wearing a [corrupted slayer helmet](https://runescape.wikia.com/wiki/Corrupted_slayer_helmet) increases the chances of capturing a soul by 5% when killing an assigned monster.\n\n• The [Shattered Worlds](https://runescape.wikia.com/wiki/Shattered_Worlds) D&D is very useful for obtaining souls."
-                },
-                {
-                    "name": "Requirements:",
-                    "value": "• 99 Slayer\n\n• The Jack of Spades Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Jack_of_Spades)"
-                }
-            ],
-            "footer": {
-                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-                "text": "Runescore awarded: 25"
-            },
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"title": "The History of Slayer",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[The History of Slayer](http://runescape.wikia.com/wiki/The_History_of_Slayer) is an achievement that requires the player to read all of the murals in the [Sunken Pyramid](https://runescape.wikia.com/wiki/Sunken_Pyramid). These can be uncovered by collecting 110 unique souls and depositing them into the chest at the center of the pyramid.\n\nThe [Slayer Codex](https://runescape.wikia.com/wiki/Slayer_Codex) is the book used to record the souls of Slayer monsters that the player has captured in an [Ushabti](https://runescape.wikia.com/wiki/Ushabti). It is obtained from [Faiza](https://runescape.wikia.com/wiki/Faiza) in the Sunken Pyramid after achieving level 99 Slayer. The Codex is updated when a new creature's soul is captured in an ushabti and placed in the [Chest of Souls](https://runescape.wikia.com/wiki/Chest_of_Souls), or when it is added to the player's personal [Slayer Dungeon](https://runescape.wikia.com/wiki/Sunken_Pyramid#Slayer_Dungeon).\n\nUshabti are containers used to trap the souls of Slayer monsters used to fill the Slayer Codex. A small number (25-50) are initially handed out by Faiza depending on Slayer level. Additional ushabti can be purchased from Slayer Masters for 20 [slayer points](https://runescape.wikia.com/wiki/Slayer_points) each, and are a possible reward from the [Rush of Blood](https://runescape.wikia.com/wiki/Rush_of_Blood) Distraction and Diversion (D&D) and the [Motherlode Maw](https://runescape.wikia.com/wiki/Motherlode_Maw).\n\nThe formula for the initial number of ushabti received appears to be 25 + 1 for each additional Slayer level over 99, or 50 at level 120 Slayer. If the free ushabti are claimed prior to having a max Slayer level, upon leveling, the player can still acquire more from Faiza.\n\n Souls can be removed from ushabti's if you accidently caught an undesired or duplicate soul.\n\nIt should be noted that you may not capture a soul from a creature in your own, or another player's, personal slayer dungeon.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [{
+					"name": "​",
+					"value": "The likelihood of capturing a soul has a few factors. Every kill has a chance of trapping a soul, which is affected by base Slayer level compared to the creature's required Slayer level to kill. Being on a Slayer assignment for the monster also doubles the chance of trapping the soul. Using level-boosting items such as [wilder pies](https://runescape.wikia.com/wiki/Wilder_pie) does not affect the likelihood of capturing a soul. If the player has level 120 Slayer, the chance to catch a soul is the same as if the player were on task. This doesn't stack with the doubling effect when on assignment."
+				},
+				{
+					"name": "Tips:",
+					"value": "• An ushabti can be upgraded into a [cursed ushabti](https://runescape.wikia.com/wiki/Cursed_ushabti) by combining it with [cursed amascut sand](https://runescape.wikia.com/wiki/Cursed_amascut_sand). The cursed ushabti has a 50% increased catch chance over the normal ushabti. Due to the rarity and price of sand, it's best reserved for particularly high Slayer level or difficult monsters.\n\n• Cursed amascut sand can be purchased from players or obtained as a rare drop from a [Ripper Demon](https://runescape.wikia.com/wiki/Ripper_Demon), [Wyvern](https://runescape.wikia.com/wiki/Wyvern), [Camel Warrior](https://runescape.wikia.com/wiki/Camel_Warrior), or [Acheron mammoth](https://runescape.wikia.com/wiki/Acheron_mammoth).\n\n• Wearing a [corrupted slayer helmet](https://runescape.wikia.com/wiki/Corrupted_slayer_helmet) increases the chances of capturing a soul by 5% when killing an assigned monster.\n\n• The [Shattered Worlds](https://runescape.wikia.com/wiki/Shattered_Worlds) D&D is very useful for obtaining souls."
+				},
+				{
+					"name": "Requirements:",
+					"value": "• 99 Slayer\n\n• The Jack of Spades Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Jack_of_Spades)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 25"
+			},
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"the many hands that write": {
 		"cmds": ["mqc"],
@@ -8762,226 +8428,217 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
-					"name": "Requirements:",
-					"value": "• Impressing the Locals Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Impressing_the_Locals)"
-				}
-			],
+			"fields": [{
+				"name": "Requirements:",
+				"value": "• Impressing the Locals Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Impressing_the_Locals)"
+			}],
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 20"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"three's a kiln": {
 		"cmds": ["mqc"],
 		"embed": {
-            "title": "Three's A Kiln",
-            "author": {
-                "name": "Cape Info",
-                "icon_url": "https://i.imgur.com/6c6q2iC.png"
-            },
-            "description": "[Three's A Kiln](http://runescape.wikia.com/wiki/Three%27s_A_Kiln) is an achievement that requires the player to complete the [Fight Kiln](https://runescape.wikia.com/wiki/Fight_Kiln) at least three times, getting each of the [TokHaar-Kal](https://runescape.wikia.com/wiki/TokHaar-Kal) capes, and handing them in to [TzHaar-Mej-Jeh](https://runescape.wikia.com/wiki/TzHaar-Mej-Jeh) to claim the [enhanced fire cape](https://runescape.wikia.com/wiki/Enhanced_fire_cape). The capes are permanently lost when doing this.\n\nAfter completing [The Elder Kiln](http://runescape.wikia.com/wiki/The_Elder_Kiln), TzHaar-Mej-Jeh can be found in the main plaza of [TzHaar City](https://runescape.wikia.com/wiki/TzHaar_City).\n\nThe Fight Kiln is a combat minigame wherein waves of [TokHaar](https://runescape.wikia.com/wiki/TokHaar) are fought for the sole sake of combat and the TokHaar's amusement. It's a tougher and improved sequel to the [TzHaar Fight Cave](https://runescape.wikia.com/wiki/TzHaar_Fight_Cave) [minigame](https://runescape.wikia.com/wiki/Minigames), and can be reasonably difficult to complete for the average player. Entering the Fight Kiln requires having done The Elder Kiln, as well as a one-time payment of a [fire cape](https://runescape.wikia.com/wiki/Fire_cape). After this, the kiln may be played as many times as desired for the rewards.",
-            "thumbnail": {
-                "url": "https://i.imgur.com/Shmagnp.png"
-            },
-            "fields": [
-                {
-                    "name": "Requirements:",
-                    "value": "• The Elder Kiln Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Elder_Kiln)\n\n• Tzhaar Fight Cave completion for a fire cape"
-                },
-                {
-                  "name": "Guide:",
-                  "value": "• [Fight Kiln guide | Moto - YouTube](https://youtu.be/g1KWJUv5nG4)\n\n• <#476790691436167168>"
-                }
-            ],
-            "footer": {
-                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-                "text": "Runescore awarded: 15"
-            },
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"title": "Three's A Kiln",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Three's A Kiln](http://runescape.wikia.com/wiki/Three%27s_A_Kiln) is an achievement that requires the player to complete the [Fight Kiln](https://runescape.wikia.com/wiki/Fight_Kiln) at least three times, getting each of the [TokHaar-Kal](https://runescape.wikia.com/wiki/TokHaar-Kal) capes, and handing them in to [TzHaar-Mej-Jeh](https://runescape.wikia.com/wiki/TzHaar-Mej-Jeh) to claim the [enhanced fire cape](https://runescape.wikia.com/wiki/Enhanced_fire_cape). The capes are permanently lost when doing this.\n\nAfter completing [The Elder Kiln](http://runescape.wikia.com/wiki/The_Elder_Kiln), TzHaar-Mej-Jeh can be found in the main plaza of [TzHaar City](https://runescape.wikia.com/wiki/TzHaar_City).\n\nThe Fight Kiln is a combat minigame wherein waves of [TokHaar](https://runescape.wikia.com/wiki/TokHaar) are fought for the sole sake of combat and the TokHaar's amusement. It's a tougher and improved sequel to the [TzHaar Fight Cave](https://runescape.wikia.com/wiki/TzHaar_Fight_Cave) [minigame](https://runescape.wikia.com/wiki/Minigames), and can be reasonably difficult to complete for the average player. Entering the Fight Kiln requires having done The Elder Kiln, as well as a one-time payment of a [fire cape](https://runescape.wikia.com/wiki/Fire_cape). After this, the kiln may be played as many times as desired for the rewards.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [{
+					"name": "Requirements:",
+					"value": "• The Elder Kiln Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Elder_Kiln)\n\n• Tzhaar Fight Cave completion for a fire cape"
+				},
+				{
+					"name": "Guide:",
+					"value": "• [Fight Kiln guide | Moto - YouTube](https://youtu.be/g1KWJUv5nG4)\n\n• <#476790691436167168>"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 15"
+			},
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"to be a master": {
 		"cmds": ["trim"],
 		"embed": {
-            "title": "To Be a Master",
-            "author": {
-                "name": "Cape Info",
-                "icon_url": "https://i.imgur.com/6c6q2iC.png"
-            },
-            "description": "[To Be a Master](http://runescape.wikia.com/wiki/To_Be_a_Master) is an achievement that requires the player to complete the [Slayer Codex](https://runescape.wikia.com/wiki/Slayer_Codex). The Slayer Codex is the book used to record the souls of [Slayer monsters](https://runescape.wikia.com/wiki/Slayer_monsters) that the player has captured. It is obtained from [Faiza](https://runescape.wikia.com/wiki/Faiza), who is bound to the [Sunken Pyramid](https://runescape.wikia.com/wiki/Sunken_Pyramid), after achieving level 99 Slayer. The Codex is updated when a new creature's soul is captured in an [Ushabti](https://runescape.wikia.com/wiki/Ushabti) and placed in the [Chest of Souls](https://runescape.wikia.com/wiki/Chest_of_Souls), or when it is added to the [Player's personal Slayer Dungeon](https://runescape.wikia.com/wiki/Sunken_Pyramid#Slayer_Dungeon).\n\nUshabti are containers used to trap the souls of Slayer monsters used to fill the Slayer Codex. A small number (25-50) are initially handed out by Faiza depending on Slayer level. Additional ushabti can be purchased from Slayer Masters for 20 [slayer points](https://runescape.wikia.com/wiki/Slayer_points) each, and are a possible reward from the [Rush of Blood](https://runescape.wikia.com/wiki/Rush_of_Blood) Distraction and Diversion (D&D) and the [Motherlode Maw](https://runescape.wikia.com/wiki/Motherlode_Maw).\n\nThe formula for the initial number of ushabti received appears to be 25 + 1 for each additional Slayer level over 99, or 50 at level 120 Slayer. If the free ushabti are claimed prior to having a max Slayer level, upon leveling, the player can still acquire more from Faiza.\n\n Souls can be removed from ushabti's if you accidently caught an undesired or duplicate soul.\n\nIt should be noted that you may not capture a soul from a creature in your own, or another player's, personal slayer dungeon.",
-            "thumbnail": {
-                "url": "https://i.imgur.com/Shmagnp.png"
-            },
-            "fields": [
-                {
-                    "name": "​",
-                    "value": "The likelihood of capturing a soul has a few factors. Every kill has a chance of trapping a soul, which is affected by base Slayer level compared to the creature's required Slayer level to kill. Being on a Slayer assignment for the monster also doubles the chance of trapping the soul. Using level-boosting items such as [wilder pies](https://runescape.wikia.com/wiki/Wilder_pie) does not affect the likelihood of capturing a soul. If the player has level 120 Slayer, the chance to catch a soul is the same as if the player were on task. This doesn't stack with the doubling effect when on assignment."
-                },
-                {
-                    "name": "Tips:",
-                    "value": "• An ushabti can be upgraded into a [cursed ushabti](https://runescape.wikia.com/wiki/Cursed_ushabti) by combining it with [cursed amascut sand](https://runescape.wikia.com/wiki/Cursed_amascut_sand). The cursed ushabti has a 50% increased catch chance over the normal ushabti. Due to the rarity and price of sand, it's best reserved for particularly high Slayer level or difficult monsters.\n\n• Cursed amascut sand can be purchased from players or obtained as a rare drop from a [Ripper Demon](https://runescape.wikia.com/wiki/Ripper_Demon), [Wyvern](https://runescape.wikia.com/wiki/Wyvern), [Camel Warrior](https://runescape.wikia.com/wiki/Camel_Warrior), or [Acheron mammoth](https://runescape.wikia.com/wiki/Acheron_mammoth).\n\n• Wearing a [corrupted slayer helmet](https://runescape.wikia.com/wiki/Corrupted_slayer_helmet) increases the chances of capturing a soul by 5% when killing an assigned monster.\n\n• The [Shattered Worlds](https://runescape.wikia.com/wiki/Shattered_Worlds) D&D is very useful for obtaining souls."
-                },
-                {
-                    "name": "Requirements:",
-                    "value": "• 117 Slayer\n• The Jack of Spades Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Jack_of_Spades)"
-                }
-            ],
-            "footer": {
-                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-                "text": "Runescore awarded: 0"
-            },
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"title": "To Be a Master",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[To Be a Master](http://runescape.wikia.com/wiki/To_Be_a_Master) is an achievement that requires the player to complete the [Slayer Codex](https://runescape.wikia.com/wiki/Slayer_Codex). The Slayer Codex is the book used to record the souls of [Slayer monsters](https://runescape.wikia.com/wiki/Slayer_monsters) that the player has captured. It is obtained from [Faiza](https://runescape.wikia.com/wiki/Faiza), who is bound to the [Sunken Pyramid](https://runescape.wikia.com/wiki/Sunken_Pyramid), after achieving level 99 Slayer. The Codex is updated when a new creature's soul is captured in an [Ushabti](https://runescape.wikia.com/wiki/Ushabti) and placed in the [Chest of Souls](https://runescape.wikia.com/wiki/Chest_of_Souls), or when it is added to the [Player's personal Slayer Dungeon](https://runescape.wikia.com/wiki/Sunken_Pyramid#Slayer_Dungeon).\n\nUshabti are containers used to trap the souls of Slayer monsters used to fill the Slayer Codex. A small number (25-50) are initially handed out by Faiza depending on Slayer level. Additional ushabti can be purchased from Slayer Masters for 20 [slayer points](https://runescape.wikia.com/wiki/Slayer_points) each, and are a possible reward from the [Rush of Blood](https://runescape.wikia.com/wiki/Rush_of_Blood) Distraction and Diversion (D&D) and the [Motherlode Maw](https://runescape.wikia.com/wiki/Motherlode_Maw).\n\nThe formula for the initial number of ushabti received appears to be 25 + 1 for each additional Slayer level over 99, or 50 at level 120 Slayer. If the free ushabti are claimed prior to having a max Slayer level, upon leveling, the player can still acquire more from Faiza.\n\n Souls can be removed from ushabti's if you accidently caught an undesired or duplicate soul.\n\nIt should be noted that you may not capture a soul from a creature in your own, or another player's, personal slayer dungeon.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [{
+					"name": "​",
+					"value": "The likelihood of capturing a soul has a few factors. Every kill has a chance of trapping a soul, which is affected by base Slayer level compared to the creature's required Slayer level to kill. Being on a Slayer assignment for the monster also doubles the chance of trapping the soul. Using level-boosting items such as [wilder pies](https://runescape.wikia.com/wiki/Wilder_pie) does not affect the likelihood of capturing a soul. If the player has level 120 Slayer, the chance to catch a soul is the same as if the player were on task. This doesn't stack with the doubling effect when on assignment."
+				},
+				{
+					"name": "Tips:",
+					"value": "• An ushabti can be upgraded into a [cursed ushabti](https://runescape.wikia.com/wiki/Cursed_ushabti) by combining it with [cursed amascut sand](https://runescape.wikia.com/wiki/Cursed_amascut_sand). The cursed ushabti has a 50% increased catch chance over the normal ushabti. Due to the rarity and price of sand, it's best reserved for particularly high Slayer level or difficult monsters.\n\n• Cursed amascut sand can be purchased from players or obtained as a rare drop from a [Ripper Demon](https://runescape.wikia.com/wiki/Ripper_Demon), [Wyvern](https://runescape.wikia.com/wiki/Wyvern), [Camel Warrior](https://runescape.wikia.com/wiki/Camel_Warrior), or [Acheron mammoth](https://runescape.wikia.com/wiki/Acheron_mammoth).\n\n• Wearing a [corrupted slayer helmet](https://runescape.wikia.com/wiki/Corrupted_slayer_helmet) increases the chances of capturing a soul by 5% when killing an assigned monster.\n\n• The [Shattered Worlds](https://runescape.wikia.com/wiki/Shattered_Worlds) D&D is very useful for obtaining souls."
+				},
+				{
+					"name": "Requirements:",
+					"value": "• 117 Slayer\n• The Jack of Spades Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Jack_of_Spades)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 0"
+			},
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"to ga'al or not to ga'al": {
 		"cmds": ["mqc"],
 		"embed": {
-            "title": "To Ga'al or Not to Ga'al",
-            "author": {
-                "name": "Cape Info",
-                "icon_url": "https://i.imgur.com/6c6q2iC.png"
-            },
-            "description": "[To Ga'al or Not to Ga'al](http://runescape.wikia.com/wiki/To_Ga%27al_or_Not_to_Ga%27al) is an achievement that requires the player to find [TzHaar-Ga'al-Kot](http://runescape.wikia.com/wiki/TzHaar-Ga%27al-Kot). \n\nTzHaar-Ga'al-Kot is a [Ga'al](https://runescape.wikia.com/wiki/Ga%27al) explorer who decided to travel the world after the Ga'al were integrated into [TzHaar](https://runescape.wikia.com/wiki/TzHaar) society after a plot by the [TokHaar](https://runescape.wikia.com/wiki/TokHaar) to drive the TzHaar to extinction was thwarted. He can be encountered by adventurers after completing [The Brink of Extinction](https://runescape.wikia.com/wiki/The_Brink_of_Extinction) by performing some special actions, which help him unhide.\n\nAfter encountering him, you can bring him back to the bookcase in the [Fight Cauldron](https://runescape.wikia.com/wiki/Fight_Cauldron), and he will translate it, revealing some lore on the [Elder Gods](https://runescape.wikia.com/wiki/Elder_Gods), including [Jas](https://runescape.wikia.com/wiki/Jas) and [Ful](https://runescape.wikia.com/wiki/Ful).",
-            "thumbnail": {
-                "url": "https://i.imgur.com/Shmagnp.png"
-            },
-            "fields": [
-                			{
-                    "name": "Start Point:",
-                    "value": "• Donate to the [TokKul coffer](https://runescape.wikia.com/wiki/Tokkul) near the Fight Cauldron"
-      			},
-        		{
-                    "name": "Official Difficulty:",
-                    "value": "• None"
-        		},
-        		{
-                    "name": "Official Length:",
-                    "value": "• Short"
-       			},
-        		{
-                    "name": "Items Required:",
-                    "value": "• [Uncharged TokKul-Zo](https://runescape.wikia.com/wiki/TokKul-Zo)\n• At least one piece of [Obsidian equipment](https://runescape.wikia.com/wiki/Obsidian_equipment#Armour), [Obsidian gloves](https://runescape.wikia.com/wiki/Obsidian_gloves) or [Obsidian boots](https://runescape.wikia.com/wiki/Obsidian_boots) being cheapest to make\n• 15,000 [Tokkul](https://runescape.wikia.com/wiki/Tokkul)\n• X number of [Obsidian shards](https://runescape.wikia.com/wiki/Obsidian_shard) equal to the current [Runedate](https://runescape.wikia.com/wiki/Runedate)\n• [Ring of stone](https://runescape.wikia.com/wiki/Ring_of_stone)\n• [Ring of visibility](https://runescape.wikia.com/wiki/Ring_of_visibility)"
-        		},
-        		{
-                    "name": "Enemies to Defeat:",
-                    "value": "• Must be able to defeat foes of at least level 112 in the Fight Cauldron"
-        		},
-                {
-                    "name": "Requirements:",
-                    "value": "• Desert Treasure Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Desert_Treasure)\n• The Brink of Extinction Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Brink_of_Extinction)"
-                },
-                {
-                  "name": "Guide:",
-                  "value": "[Fight Kiln guide | Runescape Wiki](http://runescape.wikia.com/wiki/TzHaar-Ga%27al-Kot)"
-                }
-            ],
-            "footer": {
-                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-                "text": "Runescore awarded: 10"
-            },
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"title": "To Ga'al or Not to Ga'al",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[To Ga'al or Not to Ga'al](http://runescape.wikia.com/wiki/To_Ga%27al_or_Not_to_Ga%27al) is an achievement that requires the player to find [TzHaar-Ga'al-Kot](http://runescape.wikia.com/wiki/TzHaar-Ga%27al-Kot). \n\nTzHaar-Ga'al-Kot is a [Ga'al](https://runescape.wikia.com/wiki/Ga%27al) explorer who decided to travel the world after the Ga'al were integrated into [TzHaar](https://runescape.wikia.com/wiki/TzHaar) society after a plot by the [TokHaar](https://runescape.wikia.com/wiki/TokHaar) to drive the TzHaar to extinction was thwarted. He can be encountered by adventurers after completing [The Brink of Extinction](https://runescape.wikia.com/wiki/The_Brink_of_Extinction) by performing some special actions, which help him unhide.\n\nAfter encountering him, you can bring him back to the bookcase in the [Fight Cauldron](https://runescape.wikia.com/wiki/Fight_Cauldron), and he will translate it, revealing some lore on the [Elder Gods](https://runescape.wikia.com/wiki/Elder_Gods), including [Jas](https://runescape.wikia.com/wiki/Jas) and [Ful](https://runescape.wikia.com/wiki/Ful).",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [{
+					"name": "Start Point:",
+					"value": "• Donate to the [TokKul coffer](https://runescape.wikia.com/wiki/Tokkul) near the Fight Cauldron"
+				},
+				{
+					"name": "Official Difficulty:",
+					"value": "• None"
+				},
+				{
+					"name": "Official Length:",
+					"value": "• Short"
+				},
+				{
+					"name": "Items Required:",
+					"value": "• [Uncharged TokKul-Zo](https://runescape.wikia.com/wiki/TokKul-Zo)\n• At least one piece of [Obsidian equipment](https://runescape.wikia.com/wiki/Obsidian_equipment#Armour), [Obsidian gloves](https://runescape.wikia.com/wiki/Obsidian_gloves) or [Obsidian boots](https://runescape.wikia.com/wiki/Obsidian_boots) being cheapest to make\n• 15,000 [Tokkul](https://runescape.wikia.com/wiki/Tokkul)\n• X number of [Obsidian shards](https://runescape.wikia.com/wiki/Obsidian_shard) equal to the current [Runedate](https://runescape.wikia.com/wiki/Runedate)\n• [Ring of stone](https://runescape.wikia.com/wiki/Ring_of_stone)\n• [Ring of visibility](https://runescape.wikia.com/wiki/Ring_of_visibility)"
+				},
+				{
+					"name": "Enemies to Defeat:",
+					"value": "• Must be able to defeat foes of at least level 112 in the Fight Cauldron"
+				},
+				{
+					"name": "Requirements:",
+					"value": "• Desert Treasure Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Desert_Treasure)\n• The Brink of Extinction Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Brink_of_Extinction)"
+				},
+				{
+					"name": "Guide:",
+					"value": "[Fight Kiln guide | Runescape Wiki](http://runescape.wikia.com/wiki/TzHaar-Ga%27al-Kot)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 10"
+			},
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"to the bone": {
 		"cmds": ["trim"],
 		"embed": {
-            "title": "To The Bone",
-            "author": {
-                "name": "Cape Info",
-                "icon_url": "https://i.imgur.com/6c6q2iC.png"
-            },
-            "description": "[To The Bone](https://runescape.wikia.com/wiki/To_The_Bone) is an achievement that requires the player to gain tier 10 [Reputation](https://runescape.wikia.com/wiki/Menaphos/Reputation) in the [Worker district](https://runescape.wikia.com/wiki/Worker_district) of [Menaphos](https://runescape.wikia.com/wiki/Menaphos).\n\nPlayers must first choose to which faction they want to align themselves before reputation can be earned. Right-click on a faction icon within the faction windows to choose a faction. If no faction is selected, reputation is not gained and the following message is seen instead: \"You have not currently selected a faction, so earned no reputation!\"\n\nYou can use `soulobby` friend's chat to find [Soul Obelisks](https://runescape.wikia.com/wiki/Soul_obelisk_(Menaphos) and [Corrupted Scarabs](https://runescape.wikia.com/wiki/Corrupted_scarab) easily. You can gain 20,000 reputatation per day from Soul Obelisks and a varied amount from Corrupted Scarabs daily. You will be able to finish this requirement within two weeks utilizing this method as a daily.\n\nReputation is a mechanic that is used within [Menaphos](https://runescape.wikia.com/wiki/Menaphos). All skilling activities within the walls of Menaphos earn reputation. In addition, skilling using any of the methods released along with Menaphos rewards a higher amount of reputation. ",
-            "thumbnail": {
-                "url": "https://i.imgur.com/Shmagnp.png"
-            },
-            "fields": [
-                {
-                    "name": "Increased Reputation Methods:",
-                    "value": "Those activities which award reputation at an increased rate are chopping [Acadia trees](https://runescape.wikia.com/wiki/Acadia_tree), mining [Concentrated sandstone](https://runescape.wikia.com/wiki/Concentrated_sandstone_rocks), fishing for [Desert sole](https://runescape.wikia.com/wiki/Raw_desert_sole), [Catfish](https://runescape.wikia.com/wiki/Raw_catfish), and [Beltfish](https://runescape.wikia.com/wiki/Raw_beltfish), thieving in the Menaphos market, catching [Plover birds](https://runescape.wikia.com/wiki/Plover_bird) in [Sophanem](https://runescape.wikia.com/wiki/Sophanem), and fighting [Corrupted creatures](http://runescape.wikia.com/wiki/Corrupted_creature) and [Soul devourers](http://runescape.wikia.com/wiki/Soul_devourer) in the [Sophanem Slayer Dungeon](https://runescape.wikia.com/wiki/Sophanem_Slayer_Dungeon). Furthermore, the highest rates of reputation are earned by playing the [Shifting Tombs](https://runescape.wikia.com/wiki/Shifting_Tombs) minigame."
-                },
-                {
-                    "name": "Repeatable Events for Reputation:",
-                    "value": "• Interacting with [Soul obelisks](https://runescape.wikia.com/wiki/Soul_obelisk_(Menaphos%29) in Menaphos can reward players up to 20,000 base reputation per day in a very short duration\n• Interacting with [Corrupted Scarabs](https://runescape.wikia.com/wiki/Corrupted_Scarab_(Menaphos) in Menaphos can reward players reputation\n• Completing a [City Quest](https://runescape.wikia.com/wiki/City_Quest) grants 2,000 base reputation, as well as a random-sized [Menaphite gift offering](https://runescape.wikia.com/wiki/Menaphite_gift_offering)"
-                },
-                {
-                    "name": "Permanent Reputation Increase:",
-                    "value": "After completion of Menaphos related quests, all reputation gain is increased.\n\t• [The Jack of Spades](https://runescape.wikia.com/wiki/The_Jack_of_Spades) - 1.25x\n\t• [Crocodile Tears](https://runescape.wikia.com/wiki/Crocodile_Tears) - 1.5x\n\t• [Our Man in the North](https://runescape.wikia.com/wiki/Our_Man_in_the_North) - 1.75x\n\t• ['Phite Club](https://runescape.wikia.com/wiki/%27Phite_Club) - 2.0x"
-                },
-                {
-                    "name": "Requirements:",
-                    "value": "• The Jack of Spades Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Jack_of_Spades)"
-                }
-            ],
-            "footer": {
-                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-                "text": "Runescore awarded: 40"
-            },
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"title": "To The Bone",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[To The Bone](https://runescape.wikia.com/wiki/To_The_Bone) is an achievement that requires the player to gain tier 10 [Reputation](https://runescape.wikia.com/wiki/Menaphos/Reputation) in the [Worker district](https://runescape.wikia.com/wiki/Worker_district) of [Menaphos](https://runescape.wikia.com/wiki/Menaphos).\n\nPlayers must first choose to which faction they want to align themselves before reputation can be earned. Right-click on a faction icon within the faction windows to choose a faction. If no faction is selected, reputation is not gained and the following message is seen instead: \"You have not currently selected a faction, so earned no reputation!\"\n\nYou can use `soulobby` friend's chat to find [Soul Obelisks](https://runescape.wikia.com/wiki/Soul_obelisk_(Menaphos) and [Corrupted Scarabs](https://runescape.wikia.com/wiki/Corrupted_scarab) easily. You can gain 20,000 reputatation per day from Soul Obelisks and a varied amount from Corrupted Scarabs daily. You will be able to finish this requirement within two weeks utilizing this method as a daily.\n\nReputation is a mechanic that is used within [Menaphos](https://runescape.wikia.com/wiki/Menaphos). All skilling activities within the walls of Menaphos earn reputation. In addition, skilling using any of the methods released along with Menaphos rewards a higher amount of reputation. ",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [{
+					"name": "Increased Reputation Methods:",
+					"value": "Those activities which award reputation at an increased rate are chopping [Acadia trees](https://runescape.wikia.com/wiki/Acadia_tree), mining [Concentrated sandstone](https://runescape.wikia.com/wiki/Concentrated_sandstone_rocks), fishing for [Desert sole](https://runescape.wikia.com/wiki/Raw_desert_sole), [Catfish](https://runescape.wikia.com/wiki/Raw_catfish), and [Beltfish](https://runescape.wikia.com/wiki/Raw_beltfish), thieving in the Menaphos market, catching [Plover birds](https://runescape.wikia.com/wiki/Plover_bird) in [Sophanem](https://runescape.wikia.com/wiki/Sophanem), and fighting [Corrupted creatures](http://runescape.wikia.com/wiki/Corrupted_creature) and [Soul devourers](http://runescape.wikia.com/wiki/Soul_devourer) in the [Sophanem Slayer Dungeon](https://runescape.wikia.com/wiki/Sophanem_Slayer_Dungeon). Furthermore, the highest rates of reputation are earned by playing the [Shifting Tombs](https://runescape.wikia.com/wiki/Shifting_Tombs) minigame."
+				},
+				{
+					"name": "Repeatable Events for Reputation:",
+					"value": "• Interacting with [Soul obelisks](https://runescape.wikia.com/wiki/Soul_obelisk_(Menaphos%29) in Menaphos can reward players up to 20,000 base reputation per day in a very short duration\n• Interacting with [Corrupted Scarabs](https://runescape.wikia.com/wiki/Corrupted_Scarab_(Menaphos) in Menaphos can reward players reputation\n• Completing a [City Quest](https://runescape.wikia.com/wiki/City_Quest) grants 2,000 base reputation, as well as a random-sized [Menaphite gift offering](https://runescape.wikia.com/wiki/Menaphite_gift_offering)"
+				},
+				{
+					"name": "Permanent Reputation Increase:",
+					"value": "After completion of Menaphos related quests, all reputation gain is increased.\n\t• [The Jack of Spades](https://runescape.wikia.com/wiki/The_Jack_of_Spades) - 1.25x\n\t• [Crocodile Tears](https://runescape.wikia.com/wiki/Crocodile_Tears) - 1.5x\n\t• [Our Man in the North](https://runescape.wikia.com/wiki/Our_Man_in_the_North) - 1.75x\n\t• ['Phite Club](https://runescape.wikia.com/wiki/%27Phite_Club) - 2.0x"
+				},
+				{
+					"name": "Requirements:",
+					"value": "• The Jack of Spades Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Jack_of_Spades)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 40"
+			},
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"trials of the heart": {
 		"cmds": ["mqc"],
 		"embed": {
-            "title": "Trials of the Heart",
-            "author": {
-                "name": "Cape Info",
-                "icon_url": "https://i.imgur.com/6c6q2iC.png"
-            },
-            "description": "[Trials of the Heart](http://runescape.wikia.com/wiki/Trials_of_the_Heart) is an achievement that requires the player to claim the [Helm of Trials](https://runescape.wikia.com/wiki/Helmet_of_trials) from [Xenia](https://runescape.wikia.com/wiki/Xenia), or [Ilona](https://runescape.wikia.com/wiki/Ilona) if after the [Heart of Stone](https://runescape.wikia.com/wiki/Heart_of_Stone) quest, by talking to her with at least 300 [quest points](https://runescape.wikia.com/wiki/Quest_points).\n\nXenia can be found in the [Lumbridge cemetery](https://runescape.wikia.com/wiki/Lumbridge_cemetery).\n\nIlona can be found in the [Lumbridge Catacombs](https://runescape.wikia.com/wiki/Lumbridge_Catacombs).",
-            "thumbnail": {
-                "url": "https://i.imgur.com/Shmagnp.png"
-            },
-            "fields": [
-                {
-                    "name": "Requirements:",
-                    "value": "• 300 Quest points"
-                }
-            ],
-            "footer": {
-                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-                "text": "Runescore awarded: 20"
-            },
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"title": "Trials of the Heart",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Trials of the Heart](http://runescape.wikia.com/wiki/Trials_of_the_Heart) is an achievement that requires the player to claim the [Helm of Trials](https://runescape.wikia.com/wiki/Helmet_of_trials) from [Xenia](https://runescape.wikia.com/wiki/Xenia), or [Ilona](https://runescape.wikia.com/wiki/Ilona) if after the [Heart of Stone](https://runescape.wikia.com/wiki/Heart_of_Stone) quest, by talking to her with at least 300 [quest points](https://runescape.wikia.com/wiki/Quest_points).\n\nXenia can be found in the [Lumbridge cemetery](https://runescape.wikia.com/wiki/Lumbridge_cemetery).\n\nIlona can be found in the [Lumbridge Catacombs](https://runescape.wikia.com/wiki/Lumbridge_Catacombs).",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [{
+				"name": "Requirements:",
+				"value": "• 300 Quest points"
+			}],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 20"
+			},
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"trickster's trinkets": {
 		"cmds": ["mqc"],
 		"embed": {
-            "title": "Trickster's Trinkets",
-            "author": {
-                "name": "Cape Info",
-                "icon_url": "https://i.imgur.com/6c6q2iC.png"
-            },
-            "description": "[Trickster's Trinkets](http://runescape.wikia.com/wiki/Trickster%27s_Trinkets) is an achievement which can be completed by finding all [necklace trinkets](https://runescape.wikia.com/wiki/Necklace_trinket) and combining them with the [old necklace](https://runescape.wikia.com/wiki/Old_necklace) to create the [necklace of Charos](https://runescape.wikia.com/wiki/Necklace_of_Charos) after the [You Are It](https://runescape.wikia.com/wiki/You_Are_It) quest.\n\nThe Old necklace is an item obtained during the You Are It quest, found inside the [locked casket](https://runescape.wikia.com/wiki/Locked_casket) by using the [casket key](https://runescape.wikia.com/wiki/Casket_key) on the latter. When lost, it can be reobtained by digging with a [spade](https://runescape.wikia.com/wiki/Spade) in [Lumbridge cemetery](https://runescape.wikia.com/wiki/Lumbridge_cemetery) at 00 degrees 58 minutes north, 25 degrees 01 minutes east.\n\nNecklace trinkets can be found by searching across [Gielinor](https://runescape.wikia.com/wiki/Gielinor), and [Charos's Journal](https://runescape.wikia.com/wiki/Charos%27s_Journal) provides some hints of where to next look.\n\nCharos's Journal is an item obtained during the You Are It quest by investigating the coffin in [Charos' tomb](https://runescape.wikia.com/wiki/Charos%27_tomb). Finding each trinket unlocks an additional passage of Charos's Journal.",
-            "thumbnail": {
-                "url": "https://i.imgur.com/Shmagnp.png"
-            },
-            "fields": [
-                {
-                  "name": "Trinket:",
-                  "value": "• [Necklace Trinket 1](https://runescape.wikia.com/wiki/Necklace_trinket_(1)\n• [Necklace Trinket 2](https://runescape.wikia.com/wiki/Necklace_trinket_(2)\n• [Necklace Trinket 3](https://runescape.wikia.com/wiki/Necklace_trinket_(3)\n• [Necklace Trinket 4](https://runescape.wikia.com/wiki/Necklace_trinket_(4)\n• [Necklace Trinket 5](https://runescape.wikia.com/wiki/Necklace_trinket_(5)",
-                  "inline": true
-                },
-                {
-                  "name": "Location:",
-                  "value": "• The doors to [Castle Drakan](https://runescape.wikia.com/wiki/Castle_Drakan) ([Image](https://runescape.wikia.com/wiki/File:Necklace_trinket_%281%29_location.png))\n• [Fenkenstrain's Castle garden](https://runescape.wikia.com/wiki/Fenkenstrain%27s_Castle) ([Image](https://runescape.wikia.com/wiki/File:Necklace_trinket_%282%29_location.png))\n• Beacon south of [Paterdomus](https://runescape.wikia.com/wiki/Paterdomus) ([Image](https://runescape.wikia.com/wiki/File:Necklace_trinket_%283%29_location.png))\n• North of [Aggie](https://runescape.wikia.com/wiki/Aggie)'s house in [Draynor Village](https://runescape.wikia.com/wiki/Draynor_Village) ([Image](https://runescape.wikia.com/wiki/File:Necklace_trinket_%284%29_location.png))\n• [Catherby](https://runescape.wikia.com/wiki/Catherby) beach [grapple](https://runescape.wikia.com/wiki/Mithril_grapple) [tree](https://runescape.wikia.com/wiki/Strong_tree) ([Image](https://runescape.wikia.com/wiki/File:Necklace_trinket_%285%29_location.png))",
-                  "inline": true
-                },
-                {
-                    "name": "Requirements:",
-                    "value": "• You Are It Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/You_Are_It)\n\n• The The Branches of Darkmeyer Quest partial completion | [Runescape Wiki](https://runescape.wikia.com/wiki/The_Branches_of_Darkmeyer)"
-                }
-            ],
-            "footer": {
-                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-                "text": "Runescore awarded: 5"
-            },
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"title": "Trickster's Trinkets",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Trickster's Trinkets](http://runescape.wikia.com/wiki/Trickster%27s_Trinkets) is an achievement which can be completed by finding all [necklace trinkets](https://runescape.wikia.com/wiki/Necklace_trinket) and combining them with the [old necklace](https://runescape.wikia.com/wiki/Old_necklace) to create the [necklace of Charos](https://runescape.wikia.com/wiki/Necklace_of_Charos) after the [You Are It](https://runescape.wikia.com/wiki/You_Are_It) quest.\n\nThe Old necklace is an item obtained during the You Are It quest, found inside the [locked casket](https://runescape.wikia.com/wiki/Locked_casket) by using the [casket key](https://runescape.wikia.com/wiki/Casket_key) on the latter. When lost, it can be reobtained by digging with a [spade](https://runescape.wikia.com/wiki/Spade) in [Lumbridge cemetery](https://runescape.wikia.com/wiki/Lumbridge_cemetery) at 00 degrees 58 minutes north, 25 degrees 01 minutes east.\n\nNecklace trinkets can be found by searching across [Gielinor](https://runescape.wikia.com/wiki/Gielinor), and [Charos's Journal](https://runescape.wikia.com/wiki/Charos%27s_Journal) provides some hints of where to next look.\n\nCharos's Journal is an item obtained during the You Are It quest by investigating the coffin in [Charos' tomb](https://runescape.wikia.com/wiki/Charos%27_tomb). Finding each trinket unlocks an additional passage of Charos's Journal.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [{
+					"name": "Trinket:",
+					"value": "• [Necklace Trinket 1](https://runescape.wikia.com/wiki/Necklace_trinket_(1)\n• [Necklace Trinket 2](https://runescape.wikia.com/wiki/Necklace_trinket_(2)\n• [Necklace Trinket 3](https://runescape.wikia.com/wiki/Necklace_trinket_(3)\n• [Necklace Trinket 4](https://runescape.wikia.com/wiki/Necklace_trinket_(4)\n• [Necklace Trinket 5](https://runescape.wikia.com/wiki/Necklace_trinket_(5)",
+					"inline": true
+				},
+				{
+					"name": "Location:",
+					"value": "• The doors to [Castle Drakan](https://runescape.wikia.com/wiki/Castle_Drakan) ([Image](https://runescape.wikia.com/wiki/File:Necklace_trinket_%281%29_location.png))\n• [Fenkenstrain's Castle garden](https://runescape.wikia.com/wiki/Fenkenstrain%27s_Castle) ([Image](https://runescape.wikia.com/wiki/File:Necklace_trinket_%282%29_location.png))\n• Beacon south of [Paterdomus](https://runescape.wikia.com/wiki/Paterdomus) ([Image](https://runescape.wikia.com/wiki/File:Necklace_trinket_%283%29_location.png))\n• North of [Aggie](https://runescape.wikia.com/wiki/Aggie)'s house in [Draynor Village](https://runescape.wikia.com/wiki/Draynor_Village) ([Image](https://runescape.wikia.com/wiki/File:Necklace_trinket_%284%29_location.png))\n• [Catherby](https://runescape.wikia.com/wiki/Catherby) beach [grapple](https://runescape.wikia.com/wiki/Mithril_grapple) [tree](https://runescape.wikia.com/wiki/Strong_tree) ([Image](https://runescape.wikia.com/wiki/File:Necklace_trinket_%285%29_location.png))",
+					"inline": true
+				},
+				{
+					"name": "Requirements:",
+					"value": "• You Are It Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/You_Are_It)\n\n• The The Branches of Darkmeyer Quest partial completion | [Runescape Wiki](https://runescape.wikia.com/wiki/The_Branches_of_Darkmeyer)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 5"
+			},
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"trip to the east": {
 		"cmds": ["comp"],
@@ -8995,8 +8652,7 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
+			"fields": [{
 					"name": "​",
 					"value": "It is advised to not aim for Guardians of the World as the story line, as the final trio story voyage for Guardians of the World also requires that you have 6,000,000 [distance](https://runescape.wikia.com/wiki/Player-owned_port#Distance_travelled) and unlocked the island [Exile's Point](https://runescape.wikia.com/wiki/Exile%27s_Point).\n\nNote: You must have **THREE** trios of **ONE** story line completed, giving your adventurer a total of **9/9** completed, not a single trio for 7/7 completed as is commonly believed."
 				},
@@ -9037,33 +8693,31 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 15"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"triple trouble": {
 		"cmds": ["mqc"],
 		"embed": {
-            "title": "Triple Trouble",
-            "author": {
-                "name": "Cape Info",
-                "icon_url": "https://i.imgur.com/6c6q2iC.png"
-            },
-            "description": "[Triple Trouble](http://runescape.wikia.com/wiki/Triple_Trouble) is an achievement that requires the player to claim the rewards from the three brothers after completing [Tai Bwo Wannai Trio](https://runescape.wikia.com/wiki/Tai_Bwo_Wannai_Trio). The reward is claimed by talking to each brother.\n\n**Locations:**\n• [Tamayu](https://runescape.wikia.com/wiki/Tamayu) can be found in the village of [Tai Bwo Wannai](https://runescape.wikia.com/wiki/Tai_Bwo_Wannai) where he runs a [spear stall](https://runescape.wikia.com/wiki/Tamayu%27s_Spear_Stall)\n\n• [Tinsay](https://runescape.wikia.com/wiki/Tinsay) can be found in the middle hut in Tai Bwo Wannai\n\n• [Tiadeche](https://runescape.wikia.com/wiki/Tiadeche) can be found in the village of Tai Bwo Wannai in the most southwestern house.",
-            "thumbnail": {
-                "url": "https://i.imgur.com/Shmagnp.png"
-            },
-            "fields": [
-                {
-                    "name": "Requirements:",
-                    "value": "• Tai Bwo Wannai Trio Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Tai_Bwo_Wannai_Trio)"
-                }
-            ],
-            "footer": {
-                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-                "text": "Runescore awarded: 10"
-            },
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"title": "Triple Trouble",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Triple Trouble](http://runescape.wikia.com/wiki/Triple_Trouble) is an achievement that requires the player to claim the rewards from the three brothers after completing [Tai Bwo Wannai Trio](https://runescape.wikia.com/wiki/Tai_Bwo_Wannai_Trio). The reward is claimed by talking to each brother.\n\n**Locations:**\n• [Tamayu](https://runescape.wikia.com/wiki/Tamayu) can be found in the village of [Tai Bwo Wannai](https://runescape.wikia.com/wiki/Tai_Bwo_Wannai) where he runs a [spear stall](https://runescape.wikia.com/wiki/Tamayu%27s_Spear_Stall)\n\n• [Tinsay](https://runescape.wikia.com/wiki/Tinsay) can be found in the middle hut in Tai Bwo Wannai\n\n• [Tiadeche](https://runescape.wikia.com/wiki/Tiadeche) can be found in the village of Tai Bwo Wannai in the most southwestern house.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [{
+				"name": "Requirements:",
+				"value": "• Tai Bwo Wannai Trio Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Tai_Bwo_Wannai_Trio)"
+			}],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 10"
+			},
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"troublesome crystals pt1": {
 		"cmds": ["comp", "mqc"],
@@ -9077,8 +8731,7 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
+			"fields": [{
 					"name": "Prifddinas Crystal Locations",
 					"value": "**Memoriam Crystal:** [01](https://runescape.wikia.com/wiki/Memoriam_crystal_01)\n\t• **Location:** West of [Morvran](https://runescape.wikia.com/wiki/Morvran) in [Iorwerth Clan](https://runescape.wikia.com/wiki/Iorwerth_Clan) district, in front of the house you can't enter"
 				},
@@ -9142,14 +8795,13 @@ exports.data = {
 					"name": "​",
 					"value": "**Memoriam Crystal:** [16](https://runescape.wikia.com/wiki/Memoriam_crystal_16)\n\t• **Location:** Harvest [Harmony moss](https://runescape.wikia.com/wiki/Harmony_moss) from a [Harmony pillar](https://runescape.wikia.com/wiki/Harmony_pillar) while under the effect of a [perfect juju farming potion](https://runescape.wikia.com/wiki/Perfect_juju_farming_potion), with a fruit tree fully grown in the Meilyr district"
 				}
-            ]
-    	}
+			]
+		}
 	},
 	"troublesome crystals pt2": {
 		"cmds": ["comp", "mqc"],
 		"embed": {
-      		"fields": [
-        		{
+			"fields": [{
 					"name": "Requirements:",
 					"value": "• 77 Agility\n• 75 Farming\n\n• Fate of the Gods Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Fate_of_the_Gods)\n• Plague's End Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Plague%27s_End)\n• Fairy Tale II - Cure a Queen Quest partial completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Fairy_Tale_II_-_Cure_a_Queen)"
 				},
@@ -9162,33 +8814,31 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 10"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  		}
-  	},
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
+	},
 	"ultimate codex": {
 		"cmds": ["mqc"],
 		"embed": {
-            "title": "Ultimate Codex",
-            "author": {
-                "name": "Cape Info",
-                "icon_url": "https://i.imgur.com/6c6q2iC.png"
-            },
-            "description": "[Ultimate Codex](http://runescape.wikia.com/wiki/Ultimate_Codex) is an achievement that requires the player to claim the [Codex Ultimatus](https://runescape.wikia.com/wiki/Codex_Ultimatus) from the [archaeological expert](https://runescape.wikia.com/wiki/Archaeological_expert) and reading it.\n\nTerrance Balando is an archaeological expert at the [Exam Centre](https://runescape.wikia.com/wiki/Exam_Centre).\n\nThe Exam Centre is a location in [Misthalin](https://runescape.wikia.com/wiki/Misthalin) east of [Varrock](https://runescape.wikia.com/wiki/Varrock) and south of the [digsite](https://runescape.wikia.com/wiki/Digsite).\n\nReading the book unlocks three threshold [abilities](https://runescape.wikia.com/wiki/Abilities) – one per combat style: [Blood Tendrils](https://runescape.wikia.com/wiki/Blood_Tendrils) (75 Attack), [Shadow Tendrils](https://runescape.wikia.com/wiki/Shadow_Tendrils) (75 Ranged), and [Smoke Tendrils](https://runescape.wikia.com/wiki/Smoke_Tendrils) (75 Magic) – and one ultimate ability – [Ice Asylum](https://runescape.wikia.com/wiki/Ice_Asylum) (91 Constitution).",
-            "thumbnail": {
-                "url": "https://i.imgur.com/Shmagnp.png"
-            },
-            "fields": [
-                {
-                    "name": "Requirements:",
-                    "value": "• 75 Attack **or** 75 Ranged **or** 75 Magic **or** 91 Constitution\n\n• The Dig Site Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Dig_Site)"
-                }
-            ],
-            "footer": {
-                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-                "text": "Runescore awarded: 10"
-            },
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"title": "Ultimate Codex",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Ultimate Codex](http://runescape.wikia.com/wiki/Ultimate_Codex) is an achievement that requires the player to claim the [Codex Ultimatus](https://runescape.wikia.com/wiki/Codex_Ultimatus) from the [archaeological expert](https://runescape.wikia.com/wiki/Archaeological_expert) and reading it.\n\nTerrance Balando is an archaeological expert at the [Exam Centre](https://runescape.wikia.com/wiki/Exam_Centre).\n\nThe Exam Centre is a location in [Misthalin](https://runescape.wikia.com/wiki/Misthalin) east of [Varrock](https://runescape.wikia.com/wiki/Varrock) and south of the [digsite](https://runescape.wikia.com/wiki/Digsite).\n\nReading the book unlocks three threshold [abilities](https://runescape.wikia.com/wiki/Abilities) – one per combat style: [Blood Tendrils](https://runescape.wikia.com/wiki/Blood_Tendrils) (75 Attack), [Shadow Tendrils](https://runescape.wikia.com/wiki/Shadow_Tendrils) (75 Ranged), and [Smoke Tendrils](https://runescape.wikia.com/wiki/Smoke_Tendrils) (75 Magic) – and one ultimate ability – [Ice Asylum](https://runescape.wikia.com/wiki/Ice_Asylum) (91 Constitution).",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [{
+				"name": "Requirements:",
+				"value": "• 75 Attack **or** 75 Ranged **or** 75 Magic **or** 91 Constitution\n\n• The Dig Site Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Dig_Site)"
+			}],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 10"
+			},
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"uncorrupted ore": {
 		"cmds": ["comp", "mqc"],
@@ -9202,8 +8852,7 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
+			"fields": [{
 					"name": "Requirements:",
 					"value": "• 89 Minng*\n• 89 Smihing\n\n• Plague's End Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Plague%27s_End)"
 				},
@@ -9216,87 +8865,82 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 10"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"under croc and key": {
 		"cmds": ["mqc"],
 		"embed": {
-            "title": "Under Croc and Key",
-            "author": {
-                "name": "Cape Info",
-                "icon_url": "https://i.imgur.com/6c6q2iC.png"
-            },
-            "description": "[Under Croc and Key](http://runescape.wikia.com/wiki/Under_Croc_and_Key) is an achievement that requires the player to access the [secret tomb](https://runescape.wikia.com/wiki/Crondis_tomb) found in the [Crondis's pyramid](https://runescape.wikia.com/wiki/Crondis%27s_pyramid) after [Crocodile Tears](https://runescape.wikia.com/wiki/Crocodile_Tears).\n\nThe entrance can be accessed from within Crondis' pyramid by swimming through the underwater tunnel east of the entrance.\n\nCrondis's pyramid is located on the southern end of the [river Elid](https://runescape.wikia.com/wiki/River_Elid), south-east of [Menaphos](https://runescape.wikia.com/wiki/Menaphos) and south-west of [Sophanem](https://runescape.wikia.com/wiki/Sophanem).",
-            "thumbnail": {
-                "url": "https://i.imgur.com/Shmagnp.png"
-            },
-            "fields": [
-                {
-                    "name": "Requirements:",
-                    "value": "• Crocodile Tears Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Crocodile_Tears)"
-                }
-            ],
-            "footer": {
-                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-                "text": "Runescore awarded: 5"
-            },
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"title": "Under Croc and Key",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Under Croc and Key](http://runescape.wikia.com/wiki/Under_Croc_and_Key) is an achievement that requires the player to access the [secret tomb](https://runescape.wikia.com/wiki/Crondis_tomb) found in the [Crondis's pyramid](https://runescape.wikia.com/wiki/Crondis%27s_pyramid) after [Crocodile Tears](https://runescape.wikia.com/wiki/Crocodile_Tears).\n\nThe entrance can be accessed from within Crondis' pyramid by swimming through the underwater tunnel east of the entrance.\n\nCrondis's pyramid is located on the southern end of the [river Elid](https://runescape.wikia.com/wiki/River_Elid), south-east of [Menaphos](https://runescape.wikia.com/wiki/Menaphos) and south-west of [Sophanem](https://runescape.wikia.com/wiki/Sophanem).",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [{
+				"name": "Requirements:",
+				"value": "• Crocodile Tears Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Crocodile_Tears)"
+			}],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 5"
+			},
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"unholy crafting": {
 		"cmds": ["mqc"],
 		"embed": {
-            "title": "Unholy Crafting",
-            "author": {
-                "name": "Cape Info",
-                "icon_url": "https://i.imgur.com/6c6q2iC.png"
-            },
-            "description": "[Unholy Crafting](http://runescape.wikia.com/wiki/Unholy_Crafting) is an achievement that requires the player to speak with the [Spirit of Scorpius](https://runescape.wikia.com/wiki/Spirit_of_Scorpius) after completing the [Observatory Quest](https://runescape.wikia.com/wiki/Observatory_Quest) to unlock the ability to craft the [symbols](https://runescape.wikia.com/wiki/Unholy_symbol).\n\nThe Spirit of Scorpius is a [Zamorakian](https://runescape.wikia.com/wiki/Zamorak#Followers_of_Zamorak) ghost. He is found south-west of [Ardougne](https://runescape.wikia.com/wiki/Ardougne) in the [Scorpius Shrine](https://runescape.wikia.com/wiki/Shrine_of_Scorpius), due west of the [Observatory](https://runescape.wikia.com/wiki/Observatory).",
-            "thumbnail": {
-                "url": "https://i.imgur.com/Shmagnp.png"
-            },
-            "fields": [
-                {
-                    "name": "Requirements:",
-                    "value": "• Observatory Quest Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Observatory_Quest)"
-                }
-            ],
-            "footer": {
-                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-                "text": "Runescore awarded: 5"
-            },
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"title": "Unholy Crafting",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Unholy Crafting](http://runescape.wikia.com/wiki/Unholy_Crafting) is an achievement that requires the player to speak with the [Spirit of Scorpius](https://runescape.wikia.com/wiki/Spirit_of_Scorpius) after completing the [Observatory Quest](https://runescape.wikia.com/wiki/Observatory_Quest) to unlock the ability to craft the [symbols](https://runescape.wikia.com/wiki/Unholy_symbol).\n\nThe Spirit of Scorpius is a [Zamorakian](https://runescape.wikia.com/wiki/Zamorak#Followers_of_Zamorak) ghost. He is found south-west of [Ardougne](https://runescape.wikia.com/wiki/Ardougne) in the [Scorpius Shrine](https://runescape.wikia.com/wiki/Shrine_of_Scorpius), due west of the [Observatory](https://runescape.wikia.com/wiki/Observatory).",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [{
+				"name": "Requirements:",
+				"value": "• Observatory Quest Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Observatory_Quest)"
+			}],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 5"
+			},
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"uzer master": {
 		"cmds": ["mqc"],
 		"embed": {
-            "title": "Uzer Master",
-            "author": {
-                "name": "Cape Info",
-                "icon_url": "https://i.imgur.com/6c6q2iC.png"
-            },
-            "description": "[Uzer Master](http://runescape.wikia.com/wiki/Uzer_Master) is an achievement that requires the player to clear the shortcut found in the [Uzer Mastaba](https://runescape.wikia.com/wiki/Uzer_Mastaba), going from the ground floor to the floor with the [small scarabs](https://runescape.wikia.com/wiki/Small_scarab) after [Missing My Mummy](https://runescape.wikia.com/wiki/Missing_My_Mummy).\n\nUzer Mastaba is the name given to a flat-topped pyramid just south of [Uzer](https://runescape.wikia.com/wiki/Uzer).",
-            "thumbnail": {
-                "url": "https://i.imgur.com/Shmagnp.png"
-            },
-            "fields": [
-                {
-                    "name": "Requirements:",
-                    "value": "• Missing My Mummy Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Missing_My_Mummy)"
-                },
-                {
-                  "name": "Guide:",
-                  "value": "[Uzer Mastaba Guide | Runescape Wiki](http://runescape.wikia.com/wiki/Map:Uzer_Mastaba)"
-                }
-            ],
-            "footer": {
-                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-                "text": "Runescore awarded: 10"
-            },
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"title": "Uzer Master",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Uzer Master](http://runescape.wikia.com/wiki/Uzer_Master) is an achievement that requires the player to clear the shortcut found in the [Uzer Mastaba](https://runescape.wikia.com/wiki/Uzer_Mastaba), going from the ground floor to the floor with the [small scarabs](https://runescape.wikia.com/wiki/Small_scarab) after [Missing My Mummy](https://runescape.wikia.com/wiki/Missing_My_Mummy).\n\nUzer Mastaba is the name given to a flat-topped pyramid just south of [Uzer](https://runescape.wikia.com/wiki/Uzer).",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [{
+					"name": "Requirements:",
+					"value": "• Missing My Mummy Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Missing_My_Mummy)"
+				},
+				{
+					"name": "Guide:",
+					"value": "[Uzer Mastaba Guide | Runescape Wiki](http://runescape.wikia.com/wiki/Map:Uzer_Mastaba)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 10"
+			},
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"walking the reef": {
 		"cmds": ["comp"],
@@ -9310,8 +8954,7 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
+			"fields": [{
 					"name": "​",
 					"value": "Eastern scrolls are blueprints obtained from the [Wushanko Isles](https://runescape.wikia.com/wiki/Wushanko_Isles) in the Player-owned port minigame. Scrolls have four parts each and must be completed before the item may be created. Scrolls can only be obtained from [adventurer voyages](https://runescape.wikia.com/wiki/Player-owned_port/Special_voyages), which have the highest difficulty. You can select which scrolls to look for and see how many you have in the [Port Management](https://runescape.wikia.com/wiki/Player-owned_port/Interfaces#Port_Management) screen which you can access from the Captains Log or by clicking the button at the top of the screen when in the ports area."
 				},
@@ -9328,8 +8971,8 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 15"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"what's mine is also doric's": {
 		"cmds": ["comp", "mqc"],
@@ -9343,28 +8986,27 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-						{
-                    "name": "Start Point:",
-                    "value": "• Speak to [Doric](https://runescape.wikia.com/wiki/Doric) and [Boric](https://runescape.wikia.com/wiki/Boric) who live in their hut east of [Taverley](https://runescape.wikia.com/wiki/Taverley)"
-      			},
-        		{
-                    "name": "Official Difficulty:",
-                    "value": "• None"
-        		},
-        		{
-                    "name": "Official Length:",
-                    "value": "• Medium"
-       			},
-        		{
-                    "name": "Items Required:",
-                    "value": "• 36 [bronze bars](https://runescape.wikia.com/wiki/Bronze_bar)\n• [25 iron bars](https://runescape.wikia.com/wiki/Iron_bar)\n• [50 steel bars](https://runescape.wikia.com/wiki/Steel_bar) (or 10 steel bars and 8 [Steel platebodies](https://runescape.wikia.com/wiki/Steel_platebody))\n• [60 mithril bars](https://runescape.wikia.com/wiki/Mithril_bar)\n• [50 adamant bars](https://runescape.wikia.com/wiki/Adamant_bar)\n• [20 iron ore](https://runescape.wikia.com/wiki/Iron_ore)\n• [30 coal](https://runescape.wikia.com/wiki/Coal)"
-        		},
-        		{
-                    "name": "Enemies to Defeat:",
-                    "value": "• None"
-        		},
-            {
+			"fields": [{
+					"name": "Start Point:",
+					"value": "• Speak to [Doric](https://runescape.wikia.com/wiki/Doric) and [Boric](https://runescape.wikia.com/wiki/Boric) who live in their hut east of [Taverley](https://runescape.wikia.com/wiki/Taverley)"
+				},
+				{
+					"name": "Official Difficulty:",
+					"value": "• None"
+				},
+				{
+					"name": "Official Length:",
+					"value": "• Medium"
+				},
+				{
+					"name": "Items Required:",
+					"value": "• 36 [bronze bars](https://runescape.wikia.com/wiki/Bronze_bar)\n• [25 iron bars](https://runescape.wikia.com/wiki/Iron_bar)\n• [50 steel bars](https://runescape.wikia.com/wiki/Steel_bar) (or 10 steel bars and 8 [Steel platebodies](https://runescape.wikia.com/wiki/Steel_platebody))\n• [60 mithril bars](https://runescape.wikia.com/wiki/Mithril_bar)\n• [50 adamant bars](https://runescape.wikia.com/wiki/Adamant_bar)\n• [20 iron ore](https://runescape.wikia.com/wiki/Iron_ore)\n• [30 coal](https://runescape.wikia.com/wiki/Coal)"
+				},
+				{
+					"name": "Enemies to Defeat:",
+					"value": "• None"
+				},
+				{
 					"name": "Requirements:",
 					"value": "• 60 Mining\n• 75 Smithing\n\n• What's Mine is Yours Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Haunted_Mine)\n• Death Plateau Quest completion | [Runescape Wiki](https://runescape.wikia.com/wiki/Death_Plateau)"
 				},
@@ -9377,221 +9019,216 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 10"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"white knight rises": {
 		"cmds": ["mqc", "trim"],
 		"embed": {
-            "title": "White Knight Rises",
-            "author": {
-                "name": "Cape Info",
-                "icon_url": "https://i.imgur.com/6c6q2iC.png"
-            },
-            "description": "[White Knight Rises](http://runescape.wikia.com/wiki/White_Knight_Rises) is an achievement that requires the player to obtain the [White Knight rank](https://runescape.wikia.com/wiki/White_equipment#Ranks_and_equipment) of Master by killing 1,300 [Black Knights](https://runescape.wikia.com/wiki/Black_Knight) or 130 [Elite Black Knights](https://runescape.wikia.com/wiki/Elite_Black_Knight).\n\nThe best location to complete this task would be in [Taverley Dungeon](https://runescape.wikia.com/wiki/Taverley_Dungeon) at the very south of the dungeon. Setting up a [Dwarf multicannon](https://runescape.wikia.com/wiki/Dwarf_multicannon) while using area of effect [abilities](https://runescape.wikia.com/wiki/Abilities) makes completing this task very quick.\n\nAlternatively, players may kill Elite Black Knights as they count as 12 normal black knight kills, and they are relatively fast to kill, but require more attention.",
-            "thumbnail": {
-                "url": "https://i.imgur.com/Shmagnp.png"
-            },
-            "fields": [
-                {
-                    "name": "Requirements:",
-                    "value": "• Wanted! Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Wanted!)"
-                },
-                {
-                  "name": "Guide:",
-                  "value": "[MQC White Knight Master Rank guide | Norepi - YouTube](https://www.youtube.com/watch?v=oy3BRXOzuUo)"
-                }
-            ],
-            "footer": {
-                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-                "text": "Runescore awarded: 20"
-            },
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"title": "White Knight Rises",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[White Knight Rises](http://runescape.wikia.com/wiki/White_Knight_Rises) is an achievement that requires the player to obtain the [White Knight rank](https://runescape.wikia.com/wiki/White_equipment#Ranks_and_equipment) of Master by killing 1,300 [Black Knights](https://runescape.wikia.com/wiki/Black_Knight) or 130 [Elite Black Knights](https://runescape.wikia.com/wiki/Elite_Black_Knight).\n\nThe best location to complete this task would be in [Taverley Dungeon](https://runescape.wikia.com/wiki/Taverley_Dungeon) at the very south of the dungeon. Setting up a [Dwarf multicannon](https://runescape.wikia.com/wiki/Dwarf_multicannon) while using area of effect [abilities](https://runescape.wikia.com/wiki/Abilities) makes completing this task very quick.\n\nAlternatively, players may kill Elite Black Knights as they count as 12 normal black knight kills, and they are relatively fast to kill, but require more attention.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [{
+					"name": "Requirements:",
+					"value": "• Wanted! Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Wanted!)"
+				},
+				{
+					"name": "Guide:",
+					"value": "[MQC White Knight Master Rank guide | Norepi - YouTube](https://www.youtube.com/watch?v=oy3BRXOzuUo)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 20"
+			},
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"who will be her lover?": {
 		"cmds": ["trim"],
 		"embed": {
-            "title": "Who Will Be Her Lover?",
-            "author": {
-                "name": "Cape Info",
-                "icon_url": "https://i.imgur.com/6c6q2iC.png"
-            },
-            "description": "[Who Will Be Her Lover?](https://runescape.wikia.com/wiki/Who_Will_Be_Her_Lover%3F) is an achievement that requires the player to complete the [Statue of Rhiannon]( https://runescape.wikia.com/wiki/Statue_of_Rhiannon) statue 32 times to rebuild it fully in the [Max Guild]( https://runescape.wikia.com/wiki/Max_Guild) garden and is built while participating in the [Shattered Heart](https://runescape.wikia.com/wiki/Shattered_Heart) [Distraction and Diversion](https://runescape.wikia.com/wiki/Distractions_and_Diversions). The Max Guild is in [Prifddinas]( https://runescape.wikia.com/wiki/Prifddinas), in the south-eastern part of the [Cadarn Clan]( https://runescape.wikia.com/wiki/Cadarn_Clan) district. The plinth for the statue is located in the Tower of Voices in Prifddinas, where it is attended by Auron Ithell. You can build as many statues per week as you desire, unlike the [Dahmaroc statue](https://runescape.wikia.com/wiki/Dahmaroc_statue).\n\nPlayers should note:\n• Rocks are obtained randomly based on the number of experience drops, not on the size of the experience drop. \n• Rock chances reduce for the given skill when gaining the first rock, so you should switch skills in-between.\n• It is beneficial to obtain rocks while capping if that is something your clan requires.\n• It is beneficial to do the Dahmaroc statue and Statue of Rhiannon simultaneously. Although the Statue of Rhiannon has no time lock, many skills are shared with the Dahmaroc statue, making them being done together a viable option.\n• The rocks must be added in pairs, and can be stored in the [Statue collection bag]( https://runescape.wikia.com/wiki/Statue_collection_bag). \n• While [Golden rocks]( https://runescape.wikia.com/wiki/Golden_rock) are not restricted to only being found in Prifddinas, it is more likely to find one while skilling in a district of the city that has the [Voice of Seren]( https://runescape.wikia.com/wiki/Voice_of_Seren) active.",
-            "thumbnail": {
-                "url": "https://i.imgur.com/Shmagnp.png"
-            },
-            "fields": [
-                {
-                    "name": "Requirements:",
-                    "value": "• The ability to obtain golden rocks must be toggled on"
-                },
-                {
-                    "name": "Guide:",
-                    "value": "\n**Dungeoneering**\n• Completing [Small]( https://runescape.wikia.com/wiki/Dungeoneering#Dungeon_size), [Complexity 4]( https://runescape.wikia.com/wiki/Dungeoneering#Complexity) Dungeoneering [Floors]( https://runescape.wikia.com/wiki/Dungeoneering#Floors)\n• Participating in an [Elite Dungeon]( https://runescape.wikia.com/wiki/Elite_dungeons)\n\n**Summoning**\n• [Spirit Terrorbird pouches]( https://runescape.wikia.com/wiki/Spirit_terrorbird_pouch) during the [Amlodd]( https://runescape.wikia.com/wiki/Amlodd_Clan) Voice of Seren\n\n**Slayer**\n• Gather slayer with your preferred [Mask]( https://runescape.wikia.com/wiki/Slayer_mask) or [Slayer contract]( https://runescape.wikia.com/wiki/Slayer_contract) and then go to the [Trolls]( https://runescape.wikia.com/wiki/Troll) in the [Abandoned Burthorpe mine]( https://runescape.wikia.com/wiki/Abandoned_Burthorpe_mine)"
-                },
-                {
-                    "name": "​",
-                    "value": "**Divination**\n• [Siphon Incandescent Memories]( https://runescape.wikia.com/wiki/Incandescent_memory) into [Energy]( https://runescape.wikia.com/wiki/Incandescent_energy), experience, or [Divine charges]( https://runescape.wikia.com/wiki/Divine_charge)"
-                },
-                {
-                    "name": "​",
-                    "value": "**Agility**\n• [Cycling](https://runescape.wikia.com/wiki/The_Empty_Throne_Room#Agility) in [The Empty Throne Room](https://runescape.wikia.com/wiki/The_Empty_Throne_Room)\n\n**Construction**\n• [Stone Fireplaces](https://runescape.wikia.com/wiki/Stone_fireplace) (buy [Limestone bricks](https://runescape.wikia.com/wiki/Limestone) outside of [Prifddinas](https://runescape.wikia.com/wiki/Prifddinas) house portal during the [Ithell](https://runescape.wikia.com/wiki/Ithell_Clan) [Voice of Seren](https://runescape.wikia.com/wiki/Voice_of_Seren))\n• [Oak Lecterns](https://runescape.wikia.com/wiki/Oak_lectern) (Requires only 1 [Oak Plank](https://runescape.wikia.com/wiki/Oak_plank))"
-                },
-                {
-                    "name": "​",
-                    "value": "**Crafting**\n• [Crystal Flasks](https://runescape.wikia.com/wiki/Crystal_flask) or [Potion Flasks](https://runescape.wikia.com/wiki/Potion_flask) made with Daily [Crystal Glass](https://runescape.wikia.com/wiki/Crystal_glass) or [Robust Glass](https://runescape.wikia.com/wiki/Robust_glass) in any district where the Voice of Seren is active\n• [Empty light orb](https://runescape.wikia.com/wiki/Empty_light_orb) from [Molten Glass](https://runescape.wikia.com/wiki/Molten_glass)\n• Playing the [Harps](https://runescape.wikia.com/wiki/Harp) in Prifddinas\n\n**Farming**\n• [Rumberry Bushes](https://runescape.wikia.com/wiki/Rumberry_bush) on [Tuai Leit](https://runescape.wikia.com/wiki/Tuai_Leit)\n• [Grapvine](https://www.youtube.com/watch?v=EKBj8-gF28M) Runs with [Herb Run](https://www.youtube.com/watch?v=TzNhjl2RZ1c)"
-                },
-                {
-                    "name": "​",
-                    "value": "**Herblore**\n• Cleaning [Tarromin](https://runescape.wikia.com/wiki/Grimy_tarromin) in any district where the Voice of Seren is active\n\n**Mining**\n• [Seren Stones](https://runescape.wikia.com/wiki/Seren_stone)\n• [Pure Essence](https://runescape.wikia.com/wiki/Pure_essence)\n• [Red Sandstone](https://runescape.wikia.com/wiki/Red_sandstone) or [Crystal-flecked sandstone](https://runescape.wikia.com/wiki/Crystal-flecked_sandstone) Daily\n\n**Smithing**\n• [Corrupted Ore](https://runescape.wikia.com/wiki/Corrupted_ore)\n• [Gold Bars](https://runescape.wikia.com/wiki/Gold_bar) at a [Portable forge](https://runescape.wikia.com/wiki/Portable_forge)\n\n**Woodcutting**\n• [Crystallise](https://runescape.wikia.com/wiki/Crystallise) [Acadia](https://runescape.wikia.com/wiki/Acadia_tree) in [Menaphos](https://runescape.wikia.com/wiki/Menaphos)\n• [Ivy](https://runescape.wikia.com/wiki/Ivy)"
-                },
-                {
-                    "name": "​",
-                    "value": "**Thieving**\n• [Elven clan workers](https://runescape.wikia.com/wiki/Elven_clan_worker)\n• [Dwarf Traders](https://runescape.wikia.com/wiki/Trader)"
-                }
-            ],
-            "footer": {
-                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-                "text": "Runescore awarded: 75"
-            },
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"title": "Who Will Be Her Lover?",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Who Will Be Her Lover?](https://runescape.wikia.com/wiki/Who_Will_Be_Her_Lover%3F) is an achievement that requires the player to complete the [Statue of Rhiannon]( https://runescape.wikia.com/wiki/Statue_of_Rhiannon) statue 32 times to rebuild it fully in the [Max Guild]( https://runescape.wikia.com/wiki/Max_Guild) garden and is built while participating in the [Shattered Heart](https://runescape.wikia.com/wiki/Shattered_Heart) [Distraction and Diversion](https://runescape.wikia.com/wiki/Distractions_and_Diversions). The Max Guild is in [Prifddinas]( https://runescape.wikia.com/wiki/Prifddinas), in the south-eastern part of the [Cadarn Clan]( https://runescape.wikia.com/wiki/Cadarn_Clan) district. The plinth for the statue is located in the Tower of Voices in Prifddinas, where it is attended by Auron Ithell. You can build as many statues per week as you desire, unlike the [Dahmaroc statue](https://runescape.wikia.com/wiki/Dahmaroc_statue).\n\nPlayers should note:\n• Rocks are obtained randomly based on the number of experience drops, not on the size of the experience drop. \n• Rock chances reduce for the given skill when gaining the first rock, so you should switch skills in-between.\n• It is beneficial to obtain rocks while capping if that is something your clan requires.\n• It is beneficial to do the Dahmaroc statue and Statue of Rhiannon simultaneously. Although the Statue of Rhiannon has no time lock, many skills are shared with the Dahmaroc statue, making them being done together a viable option.\n• The rocks must be added in pairs, and can be stored in the [Statue collection bag]( https://runescape.wikia.com/wiki/Statue_collection_bag). \n• While [Golden rocks]( https://runescape.wikia.com/wiki/Golden_rock) are not restricted to only being found in Prifddinas, it is more likely to find one while skilling in a district of the city that has the [Voice of Seren]( https://runescape.wikia.com/wiki/Voice_of_Seren) active.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [{
+					"name": "Requirements:",
+					"value": "• The ability to obtain golden rocks must be toggled on"
+				},
+				{
+					"name": "Guide:",
+					"value": "\n**Dungeoneering**\n• Completing [Small]( https://runescape.wikia.com/wiki/Dungeoneering#Dungeon_size), [Complexity 4]( https://runescape.wikia.com/wiki/Dungeoneering#Complexity) Dungeoneering [Floors]( https://runescape.wikia.com/wiki/Dungeoneering#Floors)\n• Participating in an [Elite Dungeon]( https://runescape.wikia.com/wiki/Elite_dungeons)\n\n**Summoning**\n• [Spirit Terrorbird pouches]( https://runescape.wikia.com/wiki/Spirit_terrorbird_pouch) during the [Amlodd]( https://runescape.wikia.com/wiki/Amlodd_Clan) Voice of Seren\n\n**Slayer**\n• Gather slayer with your preferred [Mask]( https://runescape.wikia.com/wiki/Slayer_mask) or [Slayer contract]( https://runescape.wikia.com/wiki/Slayer_contract) and then go to the [Trolls]( https://runescape.wikia.com/wiki/Troll) in the [Abandoned Burthorpe mine]( https://runescape.wikia.com/wiki/Abandoned_Burthorpe_mine)"
+				},
+				{
+					"name": "​",
+					"value": "**Divination**\n• [Siphon Incandescent Memories]( https://runescape.wikia.com/wiki/Incandescent_memory) into [Energy]( https://runescape.wikia.com/wiki/Incandescent_energy), experience, or [Divine charges]( https://runescape.wikia.com/wiki/Divine_charge)"
+				},
+				{
+					"name": "​",
+					"value": "**Agility**\n• [Cycling](https://runescape.wikia.com/wiki/The_Empty_Throne_Room#Agility) in [The Empty Throne Room](https://runescape.wikia.com/wiki/The_Empty_Throne_Room)\n\n**Construction**\n• [Stone Fireplaces](https://runescape.wikia.com/wiki/Stone_fireplace) (buy [Limestone bricks](https://runescape.wikia.com/wiki/Limestone) outside of [Prifddinas](https://runescape.wikia.com/wiki/Prifddinas) house portal during the [Ithell](https://runescape.wikia.com/wiki/Ithell_Clan) [Voice of Seren](https://runescape.wikia.com/wiki/Voice_of_Seren))\n• [Oak Lecterns](https://runescape.wikia.com/wiki/Oak_lectern) (Requires only 1 [Oak Plank](https://runescape.wikia.com/wiki/Oak_plank))"
+				},
+				{
+					"name": "​",
+					"value": "**Crafting**\n• [Crystal Flasks](https://runescape.wikia.com/wiki/Crystal_flask) or [Potion Flasks](https://runescape.wikia.com/wiki/Potion_flask) made with Daily [Crystal Glass](https://runescape.wikia.com/wiki/Crystal_glass) or [Robust Glass](https://runescape.wikia.com/wiki/Robust_glass) in any district where the Voice of Seren is active\n• [Empty light orb](https://runescape.wikia.com/wiki/Empty_light_orb) from [Molten Glass](https://runescape.wikia.com/wiki/Molten_glass)\n• Playing the [Harps](https://runescape.wikia.com/wiki/Harp) in Prifddinas\n\n**Farming**\n• [Rumberry Bushes](https://runescape.wikia.com/wiki/Rumberry_bush) on [Tuai Leit](https://runescape.wikia.com/wiki/Tuai_Leit)\n• [Grapvine](https://www.youtube.com/watch?v=EKBj8-gF28M) Runs with [Herb Run](https://www.youtube.com/watch?v=TzNhjl2RZ1c)"
+				},
+				{
+					"name": "​",
+					"value": "**Herblore**\n• Cleaning [Tarromin](https://runescape.wikia.com/wiki/Grimy_tarromin) in any district where the Voice of Seren is active\n\n**Mining**\n• [Seren Stones](https://runescape.wikia.com/wiki/Seren_stone)\n• [Pure Essence](https://runescape.wikia.com/wiki/Pure_essence)\n• [Red Sandstone](https://runescape.wikia.com/wiki/Red_sandstone) or [Crystal-flecked sandstone](https://runescape.wikia.com/wiki/Crystal-flecked_sandstone) Daily\n\n**Smithing**\n• [Corrupted Ore](https://runescape.wikia.com/wiki/Corrupted_ore)\n• [Gold Bars](https://runescape.wikia.com/wiki/Gold_bar) at a [Portable forge](https://runescape.wikia.com/wiki/Portable_forge)\n\n**Woodcutting**\n• [Crystallise](https://runescape.wikia.com/wiki/Crystallise) [Acadia](https://runescape.wikia.com/wiki/Acadia_tree) in [Menaphos](https://runescape.wikia.com/wiki/Menaphos)\n• [Ivy](https://runescape.wikia.com/wiki/Ivy)"
+				},
+				{
+					"name": "​",
+					"value": "**Thieving**\n• [Elven clan workers](https://runescape.wikia.com/wiki/Elven_clan_worker)\n• [Dwarf Traders](https://runescape.wikia.com/wiki/Trader)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 75"
+			},
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"witch's potion": {
 		"cmds": ["mqc", "trim"],
 		"embed": {
-            "title": "Witch's Potion",
-            "author": {
-                "name": "Cape Info",
-                "icon_url": "https://i.imgur.com/6c6q2iC.png"
-            },
-            "description": "[Witch's Potion](http://runescape.wikia.com/wiki/Witch%27s_Potion_(achievement%29) is an achievement that requires the player to complete the [Witch's Potion](http://runescape.wikia.com/wiki/Witch%27s_Potion) miniquest. In the quest, the player assists [Hetty](https://runescape.wikia.com/wiki/Hetty) the [Witch](https://runescape.wikia.com/wiki/Helda) by gathering ingredients for a magical potion.",
-            "thumbnail": {
-                "url": "https://i.imgur.com/Shmagnp.png"
-            },
-            "fields": [
-                				{
-                    "name": "Start Point:",
-                    "value": "• Speak to [Hetty](https://runescape.wikia.com/wiki/Hetty) in her house in [Rimmington](https://runescape.wikia.com/wiki/Rimmington), south of [Falador](https://runescape.wikia.com/wiki/Falador) and west of [Port Sarim](https://runescape.wikia.com/wiki/Port_Sarim)"
-      			},
-        		{
-                    "name": "Official Difficulty:",
-                    "value": "• None"
-        		},
-        		{
-                    "name": "Official Length:",
-                    "value": "• Short"
-       			},
-        		{
-                    "name": "Items Required:",
-                    "value": "• [Burnt meat](https://runescape.wikia.com/wiki/Burnt_meat)\n• [Eye of newt](https://runescape.wikia.com/wiki/Eye_of_newt)\n• [Onion](https://runescape.wikia.com/wiki/Onion)"
-        		},
-        		{
-                    "name": "Enemies to Defeat:",
-                    "value": "• [Rat](https://runescape.wikia.com/wiki/Rat) (Level 1)"
-        		},
-             	{
-                    "name": "Requirements:",
-                    "value": "None"
-                },
-                {
-                  "name": "Guide:",
-                  "value": "[Witch's Potion guide | Runescape Wiki](http://runescape.wikia.com/wiki/Witch%27s_Potion)"
-                }
-            ],
-            "footer": {
-                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-                "text": "Runescore awarded: 5"
-            },
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"title": "Witch's Potion",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Witch's Potion](http://runescape.wikia.com/wiki/Witch%27s_Potion_(achievement%29) is an achievement that requires the player to complete the [Witch's Potion](http://runescape.wikia.com/wiki/Witch%27s_Potion) miniquest. In the quest, the player assists [Hetty](https://runescape.wikia.com/wiki/Hetty) the [Witch](https://runescape.wikia.com/wiki/Helda) by gathering ingredients for a magical potion.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [{
+					"name": "Start Point:",
+					"value": "• Speak to [Hetty](https://runescape.wikia.com/wiki/Hetty) in her house in [Rimmington](https://runescape.wikia.com/wiki/Rimmington), south of [Falador](https://runescape.wikia.com/wiki/Falador) and west of [Port Sarim](https://runescape.wikia.com/wiki/Port_Sarim)"
+				},
+				{
+					"name": "Official Difficulty:",
+					"value": "• None"
+				},
+				{
+					"name": "Official Length:",
+					"value": "• Short"
+				},
+				{
+					"name": "Items Required:",
+					"value": "• [Burnt meat](https://runescape.wikia.com/wiki/Burnt_meat)\n• [Eye of newt](https://runescape.wikia.com/wiki/Eye_of_newt)\n• [Onion](https://runescape.wikia.com/wiki/Onion)"
+				},
+				{
+					"name": "Enemies to Defeat:",
+					"value": "• [Rat](https://runescape.wikia.com/wiki/Rat) (Level 1)"
+				},
+				{
+					"name": "Requirements:",
+					"value": "None"
+				},
+				{
+					"name": "Guide:",
+					"value": "[Witch's Potion guide | Runescape Wiki](http://runescape.wikia.com/wiki/Witch%27s_Potion)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 5"
+			},
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"work for idol hands": {
 		"cmds": ["mqc"],
 		"embed": {
-            "title": "Work for Idol Hands",
-            "author": {
-                "name": "Cape Info",
-                "icon_url": "https://i.imgur.com/6c6q2iC.png"
-            },
-            "description": "[Work for Idol Hands](http://runescape.wikia.com/wiki/Work_for_Idol_Hands) is an achievement that requires the player to hand in all the demon statuettes from the [Lumbridge Catacombs](https://runescape.wikia.com/wiki/Lumbridge_Catacombs). The entrance to the catacombs are located in [Lumbridge cemetery](https://runescape.wikia.com/wiki/Lumbridge_cemetery). They are sold to [Xenia](https://runescape.wikia.com/wiki/Xenia) after completing [The Blood Pact](https://runescape.wikia.com/wiki/The_Blood_Pact), or [Ilona](https://runescape.wikia.com/wiki/Ilona) if [Heart of Stone](https://runescape.wikia.com/wiki/Heart_of_Stone) is completed.\n\nXenia can be found in the Lumbridge cemetery.\n\nIlona can be found in the Lumbridge Catacombs.",
-            "thumbnail": {
-                "url": "https://i.imgur.com/Shmagnp.png"
-            },
-            "fields": [
-                {
-                    "name": "Statues and Locations:",
-                    "value": "• [Jade demon statuette](https://runescape.wikia.com/wiki/Jade_demon_statuette)\n• **Location:** Found on its plinth that is located near the [Warped flies](https://runescape.wikia.com/wiki/Warped_fly)"
-                },
-                {
-                    "name": "​",
-                    "value": "• [Topaz demon statuette](https://runescape.wikia.com/wiki/Topaz_demon_statuette)\n• **Location:** Found on a plinth near the [Skeletons](https://runescape.wikia.com/wiki/Skeleton_(Lumbridge_Catacombs)"
-                },
-                {
-                    "name": "​",
-                    "value": "• [Sapphire demon statuette](https://runescape.wikia.com/wiki/Sapphire_demon_statuette)\n• **Location:** Found on a plinth near the [Corpse archer](https://runescape.wikia.com/wiki/Corpse_archer)"
-                },
-                {
-                    "name": "​",
-                    "value": "• [Emerald demon statuette](https://runescape.wikia.com/wiki/Emerald_demon_statuette)\n• **Location:** Found on a plinth near the [Skoblins](https://runescape.wikia.com/wiki/Skoblin)"
-                },
-                {
-                    "name": "​",
-                    "value": "• [Ruby demon statuette](https://runescape.wikia.com/wiki/Ruby_demon_statuette)\n• **Location:** Found on a plinth near the [Corpse mages](https://runescape.wikia.com/wiki/Corpse_mage)"
-                },
-                {
-                    "name": "​",
-                    "value": "• [Diamond demon statuette](https://runescape.wikia.com/wiki/Diamond_demon_statuette)\n• **Location:** Found in the final room of the Lumbridge Catacombs"
-                },
-                {
-                    "name": "Requirements:",
-                    "value": "• The Blood Pact Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Blood_Pact)"
-                },
-                {
-                  "name": "Guide:",
-                  "value": "[Lumbridge Catacombs Guide | Runescape Wiki](http://runescape.wikia.com/wiki/Map:Lumbridge_Catacombs)"
-                }
-            ],
-            "footer": {
-                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-                "text": "Runescore awarded: 10"
-            },
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"title": "Work for Idol Hands",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Work for Idol Hands](http://runescape.wikia.com/wiki/Work_for_Idol_Hands) is an achievement that requires the player to hand in all the demon statuettes from the [Lumbridge Catacombs](https://runescape.wikia.com/wiki/Lumbridge_Catacombs). The entrance to the catacombs are located in [Lumbridge cemetery](https://runescape.wikia.com/wiki/Lumbridge_cemetery). They are sold to [Xenia](https://runescape.wikia.com/wiki/Xenia) after completing [The Blood Pact](https://runescape.wikia.com/wiki/The_Blood_Pact), or [Ilona](https://runescape.wikia.com/wiki/Ilona) if [Heart of Stone](https://runescape.wikia.com/wiki/Heart_of_Stone) is completed.\n\nXenia can be found in the Lumbridge cemetery.\n\nIlona can be found in the Lumbridge Catacombs.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [{
+					"name": "Statues and Locations:",
+					"value": "• [Jade demon statuette](https://runescape.wikia.com/wiki/Jade_demon_statuette)\n• **Location:** Found on its plinth that is located near the [Warped flies](https://runescape.wikia.com/wiki/Warped_fly)"
+				},
+				{
+					"name": "​",
+					"value": "• [Topaz demon statuette](https://runescape.wikia.com/wiki/Topaz_demon_statuette)\n• **Location:** Found on a plinth near the [Skeletons](https://runescape.wikia.com/wiki/Skeleton_(Lumbridge_Catacombs)"
+				},
+				{
+					"name": "​",
+					"value": "• [Sapphire demon statuette](https://runescape.wikia.com/wiki/Sapphire_demon_statuette)\n• **Location:** Found on a plinth near the [Corpse archer](https://runescape.wikia.com/wiki/Corpse_archer)"
+				},
+				{
+					"name": "​",
+					"value": "• [Emerald demon statuette](https://runescape.wikia.com/wiki/Emerald_demon_statuette)\n• **Location:** Found on a plinth near the [Skoblins](https://runescape.wikia.com/wiki/Skoblin)"
+				},
+				{
+					"name": "​",
+					"value": "• [Ruby demon statuette](https://runescape.wikia.com/wiki/Ruby_demon_statuette)\n• **Location:** Found on a plinth near the [Corpse mages](https://runescape.wikia.com/wiki/Corpse_mage)"
+				},
+				{
+					"name": "​",
+					"value": "• [Diamond demon statuette](https://runescape.wikia.com/wiki/Diamond_demon_statuette)\n• **Location:** Found in the final room of the Lumbridge Catacombs"
+				},
+				{
+					"name": "Requirements:",
+					"value": "• The Blood Pact Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Blood_Pact)"
+				},
+				{
+					"name": "Guide:",
+					"value": "[Lumbridge Catacombs Guide | Runescape Wiki](http://runescape.wikia.com/wiki/Map:Lumbridge_Catacombs)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 10"
+			},
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"work on your artisan": {
 		"cmds": ["trim"],
 		"embed": {
-            "title": "Work On Your Artisan",
-            "author": {
-                "name": "Cape Info",
-                "icon_url": "https://i.imgur.com/6c6q2iC.png"
-            },
-            "description": "[Work On Your Artisan](http://runescape.wikia.com/wiki/Work_On_Your_Artisan) is an achievement that requires the player to unlock all of the permanent [Rewards](https://runescape.wikia.com/wiki/Artisans_Workshop#Rewards) from the [Artisans Workshop](https://runescape.wikia.com/wiki/Artisans_Workshop).\n\nArtisans' Workshop is a Smithing workshop founded by [Aksel](https://runescape.wikia.com/wiki/Aksel), located in the south-east corner of [Falador](https://runescape.wikia.com/wiki/Falador).\n\nThese needed reward purchases include:\n• Quick Repairs\n• Repair Expert\n• Quick Learners\n• Budding Student\n• Master Student\n• Golden Cannon\n• Royale Cannon\n• Ceremonial Sword I\n• Ceremonial Sword II\n• Ceremonial Sword III\n• Ceremonial Sword IV\n• Ceremonial Sword V\n• Restocking Cannon\n• Ceremonial Sword Orders\n\nThe total cost of all unlocks is 590% [Respect](https://runescape.wikia.com/wiki/Respect_(Artisans_Workshop). You may only have 100% respect at a time, so you will need to spend time before accruing more. You do **NOT** need to purchase the Sword Polishing Kit or Bonus Package unlocks. \n\nIt is recommended players complete this solely by doing [Rune ceremonial swords](https://runescape.wikia.com/wiki/Rune_ceremonial_sword) for an extended [Daily smithing challenges](https://runescape.wikia.com/wiki/Challenge_System/Smithing) as this breaks up the grind and makes use of a costless method. ",
-            "thumbnail": {
-                "url": "https://i.imgur.com/Shmagnp.png"
-            },
-            "fields": [
-                {
-                    "name": "Requirements:",
-                    "value": "• 590% respect"
-                },
-                {
-                    "name": "Guide/Method 1:",
-                    "value": "• [Ceremonial Swords Guide 2017 | puretppc - YouTube](https://www.youtube.com/watch?v=2m1e7wftBE0)"
-                },
-                {
-                    "name": "Guide/Method 2:",
-                    "value": "• [Road to Trimmed Completionist #6 - Artisan's Workshop | Runescape's SCRUB NATION - YouTube](https://www.youtube.com/watch?v=Qr6B32P3-SM)"
-                }
-            ],
-            "footer": {
-                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-                "text": "Runescore awarded: 20"
-            },
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"title": "Work On Your Artisan",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Work On Your Artisan](http://runescape.wikia.com/wiki/Work_On_Your_Artisan) is an achievement that requires the player to unlock all of the permanent [Rewards](https://runescape.wikia.com/wiki/Artisans_Workshop#Rewards) from the [Artisans Workshop](https://runescape.wikia.com/wiki/Artisans_Workshop).\n\nArtisans' Workshop is a Smithing workshop founded by [Aksel](https://runescape.wikia.com/wiki/Aksel), located in the south-east corner of [Falador](https://runescape.wikia.com/wiki/Falador).\n\nThese needed reward purchases include:\n• Quick Repairs\n• Repair Expert\n• Quick Learners\n• Budding Student\n• Master Student\n• Golden Cannon\n• Royale Cannon\n• Ceremonial Sword I\n• Ceremonial Sword II\n• Ceremonial Sword III\n• Ceremonial Sword IV\n• Ceremonial Sword V\n• Restocking Cannon\n• Ceremonial Sword Orders\n\nThe total cost of all unlocks is 590% [Respect](https://runescape.wikia.com/wiki/Respect_(Artisans_Workshop). You may only have 100% respect at a time, so you will need to spend time before accruing more. You do **NOT** need to purchase the Sword Polishing Kit or Bonus Package unlocks. \n\nIt is recommended players complete this solely by doing [Rune ceremonial swords](https://runescape.wikia.com/wiki/Rune_ceremonial_sword) for an extended [Daily smithing challenges](https://runescape.wikia.com/wiki/Challenge_System/Smithing) as this breaks up the grind and makes use of a costless method. ",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [{
+					"name": "Requirements:",
+					"value": "• 590% respect"
+				},
+				{
+					"name": "Guide/Method 1:",
+					"value": "• [Ceremonial Swords Guide 2017 | puretppc - YouTube](https://www.youtube.com/watch?v=2m1e7wftBE0)"
+				},
+				{
+					"name": "Guide/Method 2:",
+					"value": "• [Road to Trimmed Completionist #6 - Artisan's Workshop | Runescape's SCRUB NATION - YouTube](https://www.youtube.com/watch?v=Qr6B32P3-SM)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 20"
+			},
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"yaktwee's a charm": {
 		"cmds": ["comp"],
@@ -9605,8 +9242,7 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
+			"fields": [{
 					"name": "Requirements:",
 					"value": "• 72 Hunter\n\n• Yaktwee Stick and Sprite lure"
 				},
@@ -9619,33 +9255,31 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 10"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"you're not my real mah": {
 		"cmds": ["mqc", "trim"],
 		"embed": {
-            "title": "You're Not My Real Mah",
-            "author": {
-                "name": "Cape Info",
-                "icon_url": "https://i.imgur.com/6c6q2iC.png"
-            },
-            "description": "[You're Not My Real Mah](http://runescape.wikia.com/wiki/You%27re_Not_My_Real_Mah) is an achievement that requires the player to hand in a total of one hundred [elder chronicles](https://runescape.wikia.com/wiki/Elder_chronicle_(item), 10 chronicles for each memory, at [Orla Fairweather](https://runescape.wikia.com/wiki/Orla_Fairweather) or [Guthix's shrine](https://runescape.wikia.com/wiki/Guthix%27s_Cave).\n\nElder chronicles are memory fragments gathered by harvesting from [elder wisps](https://runescape.wikia.com/wiki/Elder_wisp) within [Freneskae](https://runescape.wikia.com/wiki/Freneskae). They are akin to [chronicle fragments](https://runescape.wikia.com/wiki/Chronicle_fragment) in that they may spawn randomly from an elder spring and grant Hunter experience based on the player's level when collected.\n\nYou can speed this requirement up by asking a friend to train divination at elder wisps within Freneskae and allow you to capture their spawned elder chronicles.\n\nIf a player is also yet to complete the [Mahjarrat Memories](https://runescape.wikia.com/wiki/Mahjarrat_Memories) miniquest / [Memoirs of a Mahjarrat](https://runescape.wikia.com/wiki/Memoirs_of_a_Mahjarrat) achievement and plans on doing so in the future, it may be **extremely** beneficial to gather the required memories with an [engrammeter](https://runescape.wikia.com/wiki/Engrammeter) in your inventory. This effectively completes both requirements at the same time.",
-            "thumbnail": {
-                "url": "https://i.imgur.com/Shmagnp.png"
-            },
-            "fields": [
-                {
-                    "name": "Requirements:",
-                    "value": "• Fate of the Gods Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Fate_of_the_Gods)"
-                }
-            ],
-            "footer": {
-                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-                "text": "Runescore awarded: 25"
-            },
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"title": "You're Not My Real Mah",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[You're Not My Real Mah](http://runescape.wikia.com/wiki/You%27re_Not_My_Real_Mah) is an achievement that requires the player to hand in a total of one hundred [elder chronicles](https://runescape.wikia.com/wiki/Elder_chronicle_(item), 10 chronicles for each memory, at [Orla Fairweather](https://runescape.wikia.com/wiki/Orla_Fairweather) or [Guthix's shrine](https://runescape.wikia.com/wiki/Guthix%27s_Cave).\n\nElder chronicles are memory fragments gathered by harvesting from [elder wisps](https://runescape.wikia.com/wiki/Elder_wisp) within [Freneskae](https://runescape.wikia.com/wiki/Freneskae). They are akin to [chronicle fragments](https://runescape.wikia.com/wiki/Chronicle_fragment) in that they may spawn randomly from an elder spring and grant Hunter experience based on the player's level when collected.\n\nYou can speed this requirement up by asking a friend to train divination at elder wisps within Freneskae and allow you to capture their spawned elder chronicles.\n\nIf a player is also yet to complete the [Mahjarrat Memories](https://runescape.wikia.com/wiki/Mahjarrat_Memories) miniquest / [Memoirs of a Mahjarrat](https://runescape.wikia.com/wiki/Memoirs_of_a_Mahjarrat) achievement and plans on doing so in the future, it may be **extremely** beneficial to gather the required memories with an [engrammeter](https://runescape.wikia.com/wiki/Engrammeter) in your inventory. This effectively completes both requirements at the same time.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [{
+				"name": "Requirements:",
+				"value": "• Fate of the Gods Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Fate_of_the_Gods)"
+			}],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 25"
+			},
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"you be dead": {
 		"cmds": ["comp", "mqc"],
@@ -9659,28 +9293,27 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
+			"fields": [{
+					"name": "Start Point:",
+					"value": "• Speak to [Hopespear](https://runescape.wikia.com/wiki/Ghost_(Hopespear) in the Crypt in the [Goblin Temple](https://runescape.wikia.com/wiki/Goblin_Temple) located in the north part of the [Goblin cave](https://runescape.wikia.com/wiki/Goblin_Cave)"
+				},
 				{
-                    "name": "Start Point:",
-                    "value": "• Speak to [Hopespear](https://runescape.wikia.com/wiki/Ghost_(Hopespear) in the Crypt in the [Goblin Temple](https://runescape.wikia.com/wiki/Goblin_Temple) located in the north part of the [Goblin cave](https://runescape.wikia.com/wiki/Goblin_Cave)"
-      			},
-        		{
-                    "name": "Official Difficulty:",
-                    "value": "• None"
-        		},
-        		{
-                    "name": "Official Length:",
-                    "value": "• Short"
-       			},
-        		{
-                    "name": "Items Required:",
-                    "value": "• [Goblin transmogrification potion](https://runescape.wikia.com/wiki/Goblin_potion)\n• [Dramen staff](https://runescape.wikia.com/wiki/Dramen_staff) or [Lunar staff](https://runescape.wikia.com/wiki/Lunar_staff) (Unless [Fairy Tale III - Orks Rift](https://runescape.wikia.com/wiki/Fairy_Tale_III_-_Battle_at_Ork's_Rift) has been completed)\n• [Ring of visibility](https://runescape.wikia.com/wiki/Ring_of_visibility) (Still needed even if the [Gift from Sliske](https://runescape.wikia.com/wiki/Gift_from_Sliske) achievement has been completed)\n• [Ghostspeak amulet](https://runescape.wikia.com/wiki/Ghostspeak_amulet) or [Cramulet](https://runescape.wikia.com/wiki/Cramulet) or [Hard Morytania achievements](https://runescape.wikia.com/wiki/Morytania_achievements#Hard_achievements) (Note: If you have the Cramulet, it will have to be dismantled so you just wear the ghostspeak amulet, otherwise the goblins won't drop their bones. Players can also take off the amulet after speaking to the ghost and before fighting.)"
-        		},
-        		{
-                    "name": "Enemies to Defeat:",
-                    "value": "• [Snothead](https://runescape.wikia.com/wiki/Snothead) (level 19)\n• [Snailfeet](https://runescape.wikia.com/wiki/Snailfeet) (level 25)\n• [Mosschin](https://runescape.wikia.com/wiki/Mosschin) (level 30)\n• [Redeyes](https://runescape.wikia.com/wiki/Redeyes) (level 36)\n• [Strongbones](https://runescape.wikia.com/wiki/Strongbones) (level 36)"
-        		},
-        		{
+					"name": "Official Difficulty:",
+					"value": "• None"
+				},
+				{
+					"name": "Official Length:",
+					"value": "• Short"
+				},
+				{
+					"name": "Items Required:",
+					"value": "• [Goblin transmogrification potion](https://runescape.wikia.com/wiki/Goblin_potion)\n• [Dramen staff](https://runescape.wikia.com/wiki/Dramen_staff) or [Lunar staff](https://runescape.wikia.com/wiki/Lunar_staff) (Unless [Fairy Tale III - Orks Rift](https://runescape.wikia.com/wiki/Fairy_Tale_III_-_Battle_at_Ork's_Rift) has been completed)\n• [Ring of visibility](https://runescape.wikia.com/wiki/Ring_of_visibility) (Still needed even if the [Gift from Sliske](https://runescape.wikia.com/wiki/Gift_from_Sliske) achievement has been completed)\n• [Ghostspeak amulet](https://runescape.wikia.com/wiki/Ghostspeak_amulet) or [Cramulet](https://runescape.wikia.com/wiki/Cramulet) or [Hard Morytania achievements](https://runescape.wikia.com/wiki/Morytania_achievements#Hard_achievements) (Note: If you have the Cramulet, it will have to be dismantled so you just wear the ghostspeak amulet, otherwise the goblins won't drop their bones. Players can also take off the amulet after speaking to the ghost and before fighting.)"
+				},
+				{
+					"name": "Enemies to Defeat:",
+					"value": "• [Snothead](https://runescape.wikia.com/wiki/Snothead) (level 19)\n• [Snailfeet](https://runescape.wikia.com/wiki/Snailfeet) (level 25)\n• [Mosschin](https://runescape.wikia.com/wiki/Mosschin) (level 30)\n• [Redeyes](https://runescape.wikia.com/wiki/Redeyes) (level 36)\n• [Strongbones](https://runescape.wikia.com/wiki/Strongbones) (level 36)"
+				},
+				{
 					"name": "Requirements:",
 					"value": "• 40 Prayer\n\n• Fairy Tale II - Cure a Queen Quest partial completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Fairy_Tale_II_-_Cure_a_Queen)\n• Desert Treasure Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Desert_Treasure)\n• Land of the Goblins Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Land_of_the_Goblins)\n\n• Ability to defeat five foes up to level 36 without any armour or weapons; you may not use Magic attacks or Summon familiars, either."
 				},
@@ -9693,33 +9326,31 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 10"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"you mistag this brooch": {
 		"cmds": ["mqc"],
 		"embed": {
-            "title": "You Mistag This Brooch",
-            "author": {
-                "name": "Cape Info",
-                "icon_url": "https://i.imgur.com/6c6q2iC.png"
-            },
-            "description": "[You Mistag This Brooch](http://runescape.wikia.com/wiki/You_Mistag_This_Brooch) is an achievement that requires the player to find [Mistag](https://runescape.wikia.com/wiki/Mistag)'s [brooch](https://runescape.wikia.com/wiki/Brooch_(The_Lost_Tribe) behind the secret entrance in [Lumbridge](https://runescape.wikia.com/wiki/Lumbridge) cellar and return it to him at the entrace to [Dorgesh-Kaan mine](https://runescape.wikia.com/wiki/Dorgesh-Kaan_mine).\n\nPlayers can find it at the first fork of the [Lumbridge Castle](https://runescape.wikia.com/wiki/Lumbridge_Castle) cellar caves, heading towards the Dorgeshuun Mines. It does not have a respawn time, it immediately appears on the ground right after one is taken.",
-            "thumbnail": {
-                "url": "https://i.imgur.com/Shmagnp.png"
-            },
-            "fields": [
-                {
-                    "name": "Requirements:",
-                    "value": "• The Lost Tribe Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Lost_Tribe)"
-                }
-            ],
-            "footer": {
-                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-                "text": "Runescore awarded: 10"
-            },
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"title": "You Mistag This Brooch",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[You Mistag This Brooch](http://runescape.wikia.com/wiki/You_Mistag_This_Brooch) is an achievement that requires the player to find [Mistag](https://runescape.wikia.com/wiki/Mistag)'s [brooch](https://runescape.wikia.com/wiki/Brooch_(The_Lost_Tribe) behind the secret entrance in [Lumbridge](https://runescape.wikia.com/wiki/Lumbridge) cellar and return it to him at the entrace to [Dorgesh-Kaan mine](https://runescape.wikia.com/wiki/Dorgesh-Kaan_mine).\n\nPlayers can find it at the first fork of the [Lumbridge Castle](https://runescape.wikia.com/wiki/Lumbridge_Castle) cellar caves, heading towards the Dorgeshuun Mines. It does not have a respawn time, it immediately appears on the ground right after one is taken.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [{
+				"name": "Requirements:",
+				"value": "• The Lost Tribe Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/The_Lost_Tribe)"
+			}],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+				"text": "Runescore awarded: 10"
+			},
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"zarosian memories": {
 		"cmds": ["comp", "mqc"],
@@ -9733,8 +9364,7 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
+			"fields": [{
 					"name": "Freneskae Crystal Locations:",
 					"value": "**Memoriam Crystal:** [01](https://runescape.wikia.com/wiki/Memoriam_crystal_z01)\n\t• **Location:** From the entrance of Freneskae, jump from ledge twice, take the left (north) branch and cross a rock formation. It will be found on the right before reaching the first healing point."
 				},
@@ -9795,7 +9425,7 @@ exports.data = {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
 				"text": "Runescore awarded: 20"
 			},
-            "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	}
 };
