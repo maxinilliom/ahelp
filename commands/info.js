@@ -4,6 +4,7 @@ const readdir = promisify(require("fs").readdir);
 
 exports.run = (client, message, args, level) => {
 	const type = args[0].toLowerCase();
+	if (!["affiliate","event","fc","role"].includes(type)) return message.channel.send('Incorrect argument provided.');
 	const { data } = require(`../info/${type}.js`);
 	const embeds = Object.getOwnPropertyNames(data);
 	let i = 0, o = 0, x = embeds.length, errMsg = "";
@@ -18,13 +19,13 @@ exports.run = (client, message, args, level) => {
 					curr.color = 14601387;
 					break;
 				case "event":
-					curr.color = 16738740;
+					curr.color = 2136831;
 					break;
 				case "fc":
-					curr.color = 16738740;
+					curr.color = 8924979;
 					break;
 				case "role":
-					curr.color = 16738740;
+					curr.color = 5011162;
 					break;
 				default:
 					curr.color = 16738740;
