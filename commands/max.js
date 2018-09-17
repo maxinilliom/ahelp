@@ -184,7 +184,7 @@ exports.run = async (client, message, [skill, ...args], level) => { // eslint-di
                   try {
 				  	await message.channel.send("", {embed: guide});
 				  } catch (err) {
-				  	errMsg += `${o}. ${keyList[o]} failed to send with error: ${err}`;
+				  	errMsg += `${o}. ${keyList[o]} failed to send with error: ${err}\n`;
 				  	i--;
 				  }
 			      i++;
@@ -207,7 +207,8 @@ exports.run = async (client, message, [skill, ...args], level) => { // eslint-di
 			if (split[3] == "+") last == 121;
 			if (args[0] >= first && args[0] < last && !/\bpt\d/.test(k) && !rtnArr.includes(k)) rtnArr.push(k);
 			if (args[0] >= first && args[0] < last && /\bpt\d/.test(k)) {
-			if (prev && prev !== k.replace(/ \bpt\d/, "")) return;
+				if (rtnArr.length > 0) return;
+				if (prev && prev !== k.replace(/ \bpt\d/, "")) return;
 				const guide = data[k];
 				guide.color = color;
 				if (/\bpt1/.test(k)) guide.author.name = name;
@@ -224,7 +225,8 @@ exports.run = async (client, message, [skill, ...args], level) => { // eslint-di
 		keyList.forEach(k => {
 			if (RegExp(args[0].toLowerCase()).test(k) && !/\bpt\d/.test(k) && !rtnArr.includes(k)) rtnArr.push(k);
 			if (RegExp(args[0].toLowerCase()).test(k) && /\bpt\d/.test(k)) {
-			if (prev && prev !== k.replace(/ \bpt\d/, "")) return;
+				if (rtnArr.length > 0) return;
+				if (prev && prev !== k.replace(/ \bpt\d/, "")) return;
 				const guide = data[k];
 				guide.color = color;
 				if (/\bpt1/.test(k)) guide.author.name = name;

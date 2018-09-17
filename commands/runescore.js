@@ -166,6 +166,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 	keyList.forEach(k => {
 		if (RegExp(achName).test(k) && !/\bpt\d/.test(k) && !rtnArr.includes(k)) rtnArr.push(k);
 		if (RegExp(achName).test(k) && /\bpt\d/.test(k)) {
+			if (rtnArr.length > 0) return;
 			if (prev && prev !== k.replace(/ \bpt\d/, "")) return;
 			const guide = data[k];
 			guide.color = color;
