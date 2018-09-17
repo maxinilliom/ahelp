@@ -62,6 +62,35 @@ exports.data = {
       }
        ]
   },
+    "Alright": {
+    "title": "Alright",
+    "description":"Achievement Help's officially recognized clan. Whether you join or guest, hope to see you there! The clan hosts dually held events with Achievement Help, as well as additional weekly Monday Skill and Chills, Friday AoD masses, Saturday Penguins, and Bi-daily Raids. Furthermore, the clan hosts additional events such as Karaoke night, Pvming events, Minigame events, and Clue Competitions! All our events are open to both clan members and guests.\n\nThis is the clan responsible in part of the creation and hosting of all Achievement Help events, so expect to see some familiar faces!",
+    "thumbnail": {
+      "url": "https://cdn.discordapp.com/icons/485523397179342848/77e1d6cef26416a63c4630488d7bf2fb.webp"
+    },
+    "footer": {
+      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "text": "Achievement Help | Connecting our Helpful Communities!"
+    },
+    "author": {
+      "name": "Social Affiliate Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+          "fields": [
+      {
+        "name": "Friend's Chat:",
+        "value": "Saint Cannon"
+      },
+      {
+        "name": "Invite Link:",
+        "value": "https://discord.gg/KwysmXr"
+      },
+      {
+        "name": "Contact:",
+        "value": "<@113770763261181961>, <@154378413375881216>, or <@212672527405678592>"
+      }
+       ]
+  },
     "Altar Community": {
     "title": "Altar Community",
     "description":"One of the oldest standing communities that is here for players who seek a little bit of everything. Whether you are looking to get some advice in training skills, battling it out with some friends with PvM or simply chilling out with some like-minded individuals within the community.\n\nThe Altar Community was founded by Altar, Magiq and Warrior with the goal/premise of finding the best way of training the Prayer skill. We teach our community members the best efficient house setups for hosting a gilded altar so that other players on RuneScape can benefit from some spectacular Prayer XP gains!\n\nOur service chats:\nAltar - Friends Chat for Gilded Altar hosting/Guest Clan Chat on RS3\n07 Altar - Clan Chat for Gilded Altar hosting on OSRS",
@@ -109,7 +138,7 @@ exports.data = {
           "fields": [
       {
         "name": "Invite Link:",
-        "value": "https://discord.gg/PmRenaH"
+        "value": "https://discord.gg/UW5tZsU"
       },
       {
         "name": "Contact:",
