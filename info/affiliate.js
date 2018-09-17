@@ -19,7 +19,7 @@ exports.data = {
   },
   "afftitle": {
     "files": [{
-      "attachment": "media/img/info/affiliate/afftitle.jpg",
+      "attachment": "media/img/info/affiliate/afftitle.png",
       "name": "Affiliate header.jpg"
     }]
   },
