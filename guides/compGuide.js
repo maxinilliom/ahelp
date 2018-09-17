@@ -3106,6 +3106,28 @@ exports.data = {
 			"timestamp": "2001-01-04T12:00:00Z"
 		}
 	},
+	"dragon ink": {
+		"cmds": ["mqc"],
+		"embed": {
+	    "title": "Dragon Ink",
+	    "author": {
+	      "name": "RuneScore Achievement Info",
+	      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+	    },
+	    "description": "[Dragon Ink](https://runescape.wikia.com/wiki/Dragon_Ink) is an achievement that requires the player to obtain the lore books [Diary of an Overzealous Gnome](https://runescape.wikia.com/wiki/Diary_of_an_Overzealous_Gnome) and [Redacted Dragonkin Research](https://runescape.wikia.com/wiki/Redacted_Dragonkin_Research) from bosses in the [Dragonkin Laboratory](https://runescape.wikia.com/wiki/Dragonkin_Laboratory).\n\nThe Diary of an Overzealous Gnome is a lore book obtained by defeating [Astellarn](https://runescape.wikia.com/wiki/Astellarn) and the Redacted Dragonkin Research is a lore book obtained by defeating [Verak Lith](https://runescape.wikia.com/wiki/Verak_Lith). Both can be obtained in either normal or story mode, however the drop rate is higher in story mode.\n\nThe lorebooks drop at a 1/10 drop rate. Every normal mode or solo kill of the boss increases that chance by 1%. Wearing the [Dungeoneering master cape](https://runescape.wikia.com/wiki/Dungeoneering_master_cape) will increase the chance of receiving lore drops within all Elite Dungeons.",
+	    "thumbnail": {
+	      "url": "https://i.imgur.com/Shmagnp.png"
+	    },
+	    "fields": [{
+	      "name": "Requirements:",
+	      "value": "• Completed the [Temple of Aminishi](https://runescape.wikia.com/wiki/Temple_of_Aminishi) Elite Dungeon once in either normal or story mode."
+	    }],
+	    "footer": {
+	      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+	      "text": "Runescore awarded: 20"
+	    }
+		}
+	},
 	"dragonkin logs": {
 		"cmds": ["mqc"],
 		"embed": {
