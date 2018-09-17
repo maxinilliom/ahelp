@@ -190,7 +190,7 @@ exports.data = {
          }
       ]
   },
-  "alternative methods": {
+  "alternate methods": {
     "title": "Alternative Methods of Training",
     "url": "http://runescape.wikia.com/wiki/Slayer_training#Alternative_methods_of_gaining_experience",
     "description": "Some users may wish to utilize methods outside of the ones displayed in this channel's guide. To aid in this, the following alternative methods are provided.",
@@ -257,7 +257,7 @@ exports.data = {
       ]
   },
   "quests": {
-    "title": "Quests which Grant Attack Experience",
+    "title": "Quests which Grant Slayer Experience",
     "url": "http://runescape.wikia.com/wiki/Quests/Experience_rewards#Slayer",
     "description": "Currently, a total of 437,000 experience may be gained specifically to Slayer throughout all of the RuneScape Quests. These rewards are automatically given and there is no choice involved.",
         "color": 12269891,
@@ -333,7 +333,7 @@ exports.data = {
   "daily challenge": {
     "title": "Daily Challenge",
     "url": "http://runescape.wikia.com/wiki/Challenge_System/Slayer",
-    "description": "Completing a daily challenge in Construction will give experience, depending on the player's Construction level.",
+    "description": "Completing a daily challenge in Slayer will give experience, depending on the player's Slayer level.",
         "color": 12269891,
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
@@ -414,5 +414,4 @@ exports.data = {
         "value": "[Dragon Slayer Gloves](http://runescape.wikia.com/wiki/Dragon_slayer_gloves)\n• +15% Slayer experience per kill\n• +10% accuracy boost on [Dragons](http://runescape.wikia.com/wiki/Dragon_(race)\n\n[Slayer's Respite](http://runescape.wikia.com/wiki/Slayer%27s_respite)\n• +2 Slayer levels\n• Decreases Attack and Strength by 2\n• Heals 590 life points\n\n[Slayers Respite (m)](http://runescape.wikia.com/wiki/Slayer's_respite_(m)\n• +4 Slayer levels\n• Decreases Attack and Strength by 2\n• Heals 620 life points\n\n[Sugar Skull](http://runescape.wikia.com/wiki/Sugar_skull)\n• +2 Slayer levels\n\n[Toffee Apple](http://runescape.wikia.com/wiki/Toffee_apple)\n• +2 Slayer levels\n\n[Spicy Stew](http://runescape.wikia.com/wiki/Spicy_stew)\n • Boost is applied to a random skill\n • Up to ±6 with 3 spice doses\n • Up to ±3 with 2 spice doses\n • Up to ±2 with 1 spice dose"
       }
        ]
-  }
-};
+  };
