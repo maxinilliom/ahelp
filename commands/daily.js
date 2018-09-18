@@ -11,7 +11,7 @@ exports.run = async (client, message, args, level) => {
         "text": "Money, money, money, Lovely money!"
       };
 
-//	if (message.channel.id !== '407919969712603145' && level < 2) return;
+	if (message.channel.id !== '382701090430386180' && level < 2) return;
 
 	Object.getOwnPropertyNames(data).forEach(k => {
 		if (k !== "help" && k !== "search") keyList.push(k);
@@ -23,10 +23,23 @@ exports.run = async (client, message, args, level) => {
     let i = 0, o = 0, x = keyList.length;
 		await message.channel.send({
 		  files: [{
+			attachment: 'media/img/guides/break.png',
+			name: 'break.png'
+		  }]
+		});
+		await message.channel.send({
+		  files: [{
 			attachment: 'media/img/guides/dailyheader.png',
 			name: 'Daily Money header.png'
 		  }]
 		});
+		  await message.channel.send({
+		  files: [{
+			attachment: 'media/img/guides/break.png',
+			name: 'break.png'
+		  }]
+		});
+		  
     function list() {
       const guide = data[keyList[o]];
       guide.author.name = name;

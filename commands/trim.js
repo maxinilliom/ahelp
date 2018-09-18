@@ -23,7 +23,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 	const name = "Trimmed Completionist Cape Info";
 	const color = 16430082;
 
-//	if (message.channel.id !== '407919969712603145' && level < 2) return;
+	if (message.channel.id !== '382701090430386180' && level < 2) return;
 
 	Object.getOwnPropertyNames(data).forEach(k => {
 		if (data[k].cmds.includes("trim")) keyList.push(k);
@@ -31,22 +31,26 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 	if (!args[0]) return message.channel.send(`Please specify a valid achievement name.`);
 
 	if (args[0].toLowerCase() == "all" && level >= 2) {
-		let i = 0, o = 0, x = keyList.length, errMsg = "";
-		await message.channel.send({
-		  files: [
-		  {
-			attachment: 'media/img/guides/break.png',
-			name: 'break.png'
-		  },
-		  {
-			attachment: 'media/img/guides/trimheader.png',
-			name: 'Trim comp cape header.png'
-		  },
-		  {
-			attachment: 'media/img/guides/break.png',
-			name: 'break.png'
-		  }]
-		});
+	let i = 0, o = 0, x = keyList.length, errMsg = "";
+    await message.channel.send({
+      files: [{
+      attachment: 'media/img/guides/break.png',
+      name: 'break.png'
+      }]
+    });
+	await message.channel.send({
+	  files: [{
+		attachment: 'media/img/guides/trimheader.png',
+		name: 'Trim comp cape header.png'
+	  }]
+	});
+    await message.channel.send({
+      files: [{
+      attachment: 'media/img/guides/break.png',
+      name: 'break.png'
+      }]
+    });
+      
 		async function list() {
 			const guide = data[keyList[o]].embed;
 			guide.color = color;

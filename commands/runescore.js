@@ -24,7 +24,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 	const color = 2011148;
 	const cats = ["combat", "exploration", "minigames", "miscellaneous", "skills"];
 
-//	if (message.channel.id !== '407919969712603145' && level < 2) return;
+	if (message.channel.id !== '382701090430386180' && level < 2) return;
 
 	Object.getOwnPropertyNames(data).forEach(k => {
 		if (k !== "help" && k !== "search") {
@@ -41,20 +41,24 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 	if (args[0].toLowerCase() == "all" && level >= 2) {
 		let i = 0, o = 0, x = keyList.length, errMsg = "";
 		await message.channel.send({
-		  files: [
-		  {
-			attachment: 'media/img/guides/break.png',
-			name: 'break.png'
-		  },
-		  {
-			attachment: 'media/img/guides/rsheader.png',
-			name: 'RuneScore header.png'
-		  },
-		  {
+		  files: [{
 			attachment: 'media/img/guides/break.png',
 			name: 'break.png'
 		  }]
 		});
+		await message.channel.send({
+		  files: [{
+			attachment: 'media/img/guides/rsheader.png',
+			name: 'RuneScore header.png'
+		  }]
+		});
+		  await message.channel.send({
+		  files: [{
+			attachment: 'media/img/guides/break.png',
+			name: 'break.png'
+		  }]
+		});
+		  
 		let category = args[1] ? args[1].toLowerCase() : undefined
 		if (!cats.includes(category)) category = undefined;
 		//add category header switch here
