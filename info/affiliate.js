@@ -399,11 +399,11 @@ exports.data = {
       }
       ]
   },
-    "Fast Sc ": {
-    "title": "Fast Sc ",
+    "Fast Sc": {
+    "title": "Fast Sc",
     "description":"Fast Sc is a non-combat stealing creation group that runs games out of its FC, \"Fast Sc\" in world 99. No application required. Please check out our forum thread for more info (QFC: 75-76-491-65912854) and join our discord server.",
-    "image": {
-    "url": "https://cdn.discordapp.com/attachments/409858098015109129/474471737581633546/Fast_SC.png"
+    "thumbnail": {
+      "url": "https://cdn.discordapp.com/icons/264280499034390529/26b8649dde6bf723a4d662dc642d9f99.webp"
     },
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
