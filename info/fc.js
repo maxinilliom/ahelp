@@ -61,7 +61,7 @@ exports.data = {
   },
     "minigames": {
     "title": "Minigames",
-    "description":"**Cwars United** - Castle Wars Games (Afk). Apply [Here](http://services.runescape.com/m=forum/c=ob7A0kMf9cA/forums.ws?75,76,32,66000897).\n\n**Minigames** - Mazcab Supply Runs and All Around Minigame Needs\n\n**Clue Chasers** - Enthusiastic Clue Scroll community\n\n**Ba Teams** - Barbarian Assault Games\n\n**Conquest Chat** - Conquest Games\n\n**Hybrid Top** - Fight Pit Games and finding partners to get a 'Hybrid Top' (Battle-mage/Trickster/Vanguard)\n\n**FishFlingers** - Fish Flingers\n\n**GOP Addict** - Great Orb Project Games\n\n**Heist4Fun** - Heist Games\n\n**World60pengs** or **W60 Find Pen** - Penguin Hunting\n\n**Fast SC** - Stealing Creation (Non-Combat)",
+    "description":"**CWar United** - Castle Wars Games (Afk). Apply [Here](http://services.runescape.com/m=forum/c=ob7A0kMf9cA/forums.ws?75,76,32,66000897).\n\n**Minigames** - Mazcab Supply Runs and All Around Minigame Needs\n\n**Clue Chasers** - Enthusiastic Clue Scroll community\n\n**Ba Teams** - Barbarian Assault Games\n\n**Conquest Chat** - Conquest Games\n\n**Hybrid Top** - Fight Pit Games and finding partners to get a 'Hybrid Top' (Battle-mage/Trickster/Vanguard)\n\n**FishFlingers** - Fish Flingers\n\n**GOP Addict** - Great Orb Project Games\n\n**Heist4Fun** - Heist Games\n\n**World60pengs** or **W60 Find Pen** - Penguin Hunting\n\n**Fast SC** - Stealing Creation (Non-Combat)",
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
       "text": "Achievement Help | Friend Chats"
