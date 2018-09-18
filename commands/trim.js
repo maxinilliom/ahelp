@@ -123,7 +123,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 			prev = k.replace(/ \bpt\d/, "");
 		}
 	});
-	console.log(pt);
+	
 	if (pt == "true") return;
 
 	if (rtnArr.length == 0 && pt == "false") {
