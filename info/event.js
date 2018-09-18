@@ -75,6 +75,8 @@ exports.data = {
     }]
   },
   "break5": {
+      "name": "Events",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
     "files": [{
       "attachment": "media/img/info/event/break.png",
       "name": "break.png"
@@ -91,8 +93,6 @@ exports.data = {
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
-      "name": "Events",
-      "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
           "fields": [
       {
@@ -101,7 +101,7 @@ exports.data = {
       },
       {
         "name": "Runescore Highscores",
-        "value": "RuneScape's latest RuneScore HiScore page can be found [here](https://secure.runescape.com/m=hiscore/ranking?category_type=1&table=26#_ga=2.24271930.1251401287.1536530382-96191503.1482721402)"
+        "value": "RuneScape's latest RuneScore HiScore page can be found [here](https://secure.runescape.com/m=hiscore/ranking?category_type=1&table=26#_ga=2.24271930.1251401287.1536530382-96191503.1482721402)."
       }
       ]
   },
