@@ -1,7 +1,7 @@
 exports.run = (client, message, args, level) => {
 
 	const {data} = require('../info/eventembeds.js');
-	const content = message.content.substring(8);
+	const content = message.content.substring(7);
 	const [type, time, date] = content.split("  ");
 	if (!type) return message.channel.send("Please specify a valid event name.");
 	if (!time) return message.channel.send("Please specify a valid time.");
