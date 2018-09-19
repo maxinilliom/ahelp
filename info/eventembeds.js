@@ -143,7 +143,7 @@ exports.data = {
          }
       ]
    },
-    "mega Duck": {  
+    "mega duck": {  
       "title":"Preparation:",
       "description":"All are welcome! We will be teaching how to do the event on Discord if any learners are apprehensive about coming.\n\nYou may prepare for the event by viewing the written guide [here](http://runescape.wikia.com/wiki/Mega_Duck).",
       "footer":{  
@@ -217,7 +217,7 @@ exports.data = {
          }
       ]
    },
-    "nex AOD": {  
+    "nex aod": {  
       "title":"Preparation:",
       "description":"All are welcome! We will be teaching how to do the boss on Discord if any learners are apprehensive about coming.\n\nYou may prepare for the event by viewing the written guide [here](http://runescape.wikia.com/wiki/Nex:_Angel_of_Death/Strategies) or a video guide [here](https://www.youtube.com/watch?v=Yrh93pIPNzk).",
       "footer":{  
@@ -287,7 +287,7 @@ exports.data = {
          }
       ]
    },
-    "trouble Brewing": {  
+    "trouble brewing": {  
       "title":"Preparation:",
       "description":"All are welcome! We will be teaching how to do the event on Discord if any learners are apprehensive about coming.\n\nYou may prepare for the event by viewing the written guide [here](http://runescape.wikia.com/wiki/Trouble_Brewing).",
       "footer":{  
@@ -320,7 +320,7 @@ exports.data = {
          }
       ]
    },
-    "twin Furies": {  
+    "twin furies": {  
       "title":"Preparation:",
       "description":"All are welcome! We will be teaching how to do the boss on Discord if any learners are apprehensive about coming.\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wikia.com/wiki/Twin_Furies/Strategies) or a video guide [here](https://www.youtube.com/watch?v=CJv790KpJro).",
       "footer":{  

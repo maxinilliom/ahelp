@@ -1,30 +1,34 @@
 exports.run = (client, message, args, level) => {
 
-	const clue = require('../clues.js');
-	const clues = Object.keys(clue);
-	const chan = client.channels.get('455076075030970368');
-	let i = 0;
-	clues.forEach(c => {
-		message.channel.send(`${i}. ${clue[c][0]}`)
-		.then((message) => {
-			setTimeout(message.edit(`${i}. ${clue[c][0]}\n${clue[c][1]}`), 30 * 1000)
-		})
-		i++;
-	});
+	const [type, time, date] = message.content.split("  ");
+	const search = type.toLowerCase();
+	const data = require('info/eventembeds.js');
+	if (!Object.getOwnPropertyNames(data).includes(search)) return message.channel.send(`No guide embed exists for **${type}**. Please try again.`);
+	const embed = data[search];
+	embed.color = 2136831;
+	embed.timestamp = new Date();
+	const when = {
+		"name": "When:",
+		"value": `${time} game time on ${date}.`
+	};
+	embed.fields.unshift(when);
+	message.channel.send({embed: embed});
+	message.delete();
+
 
 };
 
 exports.conf = {
-  enabled: false,
-  guildOnly: false,
+  enabled: true,
+  guildOnly: true,
   aliases: [],
-  permLevel: "Bot Owner",
+  permLevel: "Moderator",
   guilds: []
 };
 
 exports.help = {
   name: "event",
-  category: "Events",
-  description: "x",
-  usage: "event"
+  category: "Information",
+  description: "Post an embed for an upcoming event.",
+  usage: "event <type> <time> <date>"
 };
