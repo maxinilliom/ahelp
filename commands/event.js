@@ -14,7 +14,6 @@ exports.run = (client, message, args, level) => {
 	if (!list.includes(search)) return message.channel.send(`No guide embed exists for **${type}**. Please try again.`);
 	const embed = data[search];
 	embed.color = 2136831;
-	embed.timestamp = new Date();
 	const when = {
 		"name": "When:",
 		"value": `${time} game time on ${date}.`
