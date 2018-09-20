@@ -174,7 +174,7 @@ exports.data = {
       },
       {
         "name": "​",
-        "value": ":arrow_lower_left: **<@&443772051258605578>**\n• 1 enhancer to go towards an array of all cape requirements.\n\n:arrow_up_small: **<@&443762475381555211&>**\n• 50 (Small), 100 (Normal), or 150 (Large) Mazcab Reputation to go towards the 5,000 required reputation.\n\n:arrow_down_small: **<@&443762987782897674>**\n• 500 God Wars Dungeon 2 Reputation to go towards the 20,000 required reputation.\n\n:track_next: **<@&443794309242945536>**\n• 50 - 100 Silverhawk Down for Max Cape purposes.\n\n:track_previous: **<@&443761808478830593>**\n• 1 - 3 cards for Max Cape purposes (50% extra Dungeonering experience per floor)\n\n:fast_forward: **<@&443794570791223317>**\n• Experience rewards for Max Cape purposes.\n\n:rewind: **<@&443794600705130496>**\n• For an array of all cape requirements."
+        "value": ":arrow_lower_left: **<@&443772051258605578>**\n• 1 enhancer to go towards an array of all cape requirements.\n\n:arrow_up_small: **<@&443762475381555211>**\n• 50 (Small), 100 (Normal), or 150 (Large) Mazcab Reputation to go towards the 5,000 required reputation.\n\n:arrow_down_small: **<@&443762987782897674>**\n• 500 God Wars Dungeon 2 Reputation to go towards the 20,000 required reputation.\n\n:track_next: **<@&443794309242945536>**\n• 50 - 100 Silverhawk Down for Max Cape purposes.\n\n:track_previous: **<@&443761808478830593>**\n• 1 - 3 cards for Max Cape purposes (50% extra Dungeonering experience per floor)\n\n:fast_forward: **<@&443794570791223317>**\n• Experience rewards for Max Cape purposes.\n\n:rewind: **<@&443794600705130496>**\n• For an array of all cape requirements."
       },
       {
         "name": "​",
