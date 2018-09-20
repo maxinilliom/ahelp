@@ -2835,7 +2835,7 @@ exports.data = {
       },
       {
         "name": "​",
-        "value": "• **Insect:** [Fly dragon in amber](https://runescape.wikia.com/wiki/Fly_dragon_in_amber)\n\t• **Location:** Found whilst stealing from the [lamp stall](https://runescape.wikia.com/wiki/Lamp_stall) or [silk stall](https://runescape.wikia.com/wiki/Silk_stall_(Menaphos)) in the Merchant district"
+        "value": "• **Insect:** [Fly dragon in amber](https://runescape.wikia.com/wiki/Fly_dragon_in_amber)\n\t• **Location:** Found whilst stealing from the [lamp stall](https://runescape.wikia.com/wiki/Lamp_stall) or [silk stall](https://runescape.wikia.com/wiki/Silk_stall_(Menaphos) in the Merchant district"
       },
       {
         "name": "​",
