@@ -1128,7 +1128,7 @@ exports.data = {
       "fields": [
         {
         "name": "Alternative Method:",
-        "value": "Bring 5 [Achto](https://runescape.wikia.com/wiki/Achto) armour pieces and a tier 90 [defender](https://runescape.wikia.com/wiki/Defender), as well as equipment that increases hitchance, e.g. [Reckless](https://runescape.wikia.com/wiki/Reckless_aura), [Ancestor spirits](https://runescape.wikia.com/wiki/Reckless_aura), or accuracy [auras](https://runescape.wikia.com/wiki/Aura). Take advantage of the Achto cooldown resets to heal with Rejuvenate when needed. The majority of the player's damage per second in these worlds will be from [reflect](https://runescape.wikia.com/wiki/Reflect) and [weapon poison](https://runescape.wikia.com/wiki/Weapon_poison%2B%2B) damage, as the monsters' defenses scale up incredibly high."
+        "value": "Bring 5 [Achto](https://runescape.wikia.com/wiki/Achto) armour pieces and a tier 90 [defender](https://runescape.wikia.com/wiki/Defender), as well as equipment that increases hitchance, e.g. [Reckless](https://runescape.wikia.com/wiki/Reckless_aura), [Ancestor spirits](https://runescape.wikia.com/wiki/Reckless_aura), or accuracy [auras](https://runescape.wikia.com/wiki/Aura). Take advantage of the Achto cooldown resets to heal with Rejuvenate when needed. The majority of the player's damage per second in these worlds will be from [reflect](https://runescape.wikia.com/wiki/Reflect) and [weapon poison](https://runescape.wikia.com/wiki/Weapon_poison%2B%2B) damage, as the monsters' defences scale up incredibly high."
       },
       {
         "name": "Mutator Preference:",
@@ -2760,7 +2760,7 @@ exports.data = {
       },
       {
         "name": "Requirements:",
-        "value": "• 85+ Magic (recommended)\n• 85+ Defense (recommended)\n• 67+ Summoning (recommended)\n• 43+ Prayer (recommended)\n\n• Our Man in the North Quest completion | [Runescape Wiki](https://runescape.wikia.com/wiki/Our_Man_in_the_North)\n\n• Rank 9 overall Menaphos reputation"
+        "value": "• 85+ Magic (recommended)\n• 85+ Defence (recommended)\n• 67+ Summoning (recommended)\n• 43+ Prayer (recommended)\n\n• Our Man in the North Quest completion | [Runescape Wiki](https://runescape.wikia.com/wiki/Our_Man_in_the_North)\n\n• Rank 9 overall Menaphos reputation"
       },
       {
         "name": "Guide:",
@@ -2805,7 +2805,7 @@ exports.data = {
       "name": "RuneScore Achievement Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[All Abuzz](https://runescape.wikia.com/wiki/All_Abuzz) is an achievement that requires the player to find all of the [insects](https://runescape.wikia.com/wiki/Insects_of_the_Desert) within [Menaphos](https://runescape.wikia.com/wiki/Menaphos). This can be started by talking to [Assistant Librarian Subotai](https://runescape.wikia.com/wiki/Assistant_Librarian_Subotai) near the [Merchant district](https://runescape.wikia.com/wiki/Merchant_district) deposit box, or bank chest if rank 6 [reputation](https://runescape.wikia.com/wiki/Merchant_district#Reputation) with the Merchant district.\n\nUsing [dwarven ramhammers](https://runescape.wikia.com/wiki/Dwarven_ramhammer) on double experience mode, the effeft of the [inferno adze](https://runescape.wikia.com/wiki/Inferno_adze), or the consume option on the [shark outfit](https://runescape.wikia.com/wiki/Shark_outfit) still allows insects to be obtained.",
+    "description": "[All Abuzz](https://runescape.wikia.com/wiki/All_Abuzz) is an achievement that requires the player to find all of the [insects](https://runescape.wikia.com/wiki/Insects_of_the_Desert) within [Menaphos](https://runescape.wikia.com/wiki/Menaphos). This can be started by talking to [Assistant Librarian Subotai](https://runescape.wikia.com/wiki/Assistant_Librarian_Subotai) near the [Merchant district](https://runescape.wikia.com/wiki/Merchant_district) deposit box, or bank chest if rank 6 [reputation](https://runescape.wikia.com/wiki/Merchant_district#Reputation) with the Merchant district.\n\nUsing [dwarven ramhammers](https://runescape.wikia.com/wiki/Dwarven_ramhammer) on double experience mode, the effect of the [inferno adze](https://runescape.wikia.com/wiki/Inferno_adze), or the consume option on the [shark outfit](https://runescape.wikia.com/wiki/Shark_outfit) still allows insects to be obtained.",
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/c/cd/Menaphos_achievement_icon.png/revision/latest?cb=20180211004808"
     },
@@ -7629,7 +7629,7 @@ exports.data = {
       },
       {
         "name": "Requirements:",
-        "value": "• 70 Prayer\n• 70 Defense \n\n• King's Ransom Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/King%27s_Ransom)"
+        "value": "• 70 Prayer\n• 70 Defence \n\n• King's Ransom Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/King%27s_Ransom)"
       },
       {
         "name": "Guide:",
