@@ -75,8 +75,6 @@ exports.data = {
     }]
   },
   "break5": {
-      "name": "Events",
-      "icon_url": "https://i.imgur.com/6c6q2iC.png"
     "files": [{
       "attachment": "media/img/info/event/break.png",
       "name": "break.png"
