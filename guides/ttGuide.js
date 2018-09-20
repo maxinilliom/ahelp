@@ -572,7 +572,7 @@ exports.data = {
       "name": "True Trimmed Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Flash Powder Factory Rewards](https://runescape.wikia.com/wiki/Flash_Powder_Factory#Buying_rewards) are rewards that can be bought with [Brianpoints](https://runescape.wikia.com/wiki/Flash_Powder_Factory#Brianpoints) that are rewarded by playing the [Flash Powder Factory](https://runescape.wikia.com/wiki/Flash_Powder_Factory) minigame, which is located under the [The Pick and Lute](https://runescape.wikia.com/wiki/The_Pick_and_Lute) bar in [Taverley](https://runescape.wikia.com/wiki/Taverley).\n\nThe only permanent reward from the Flash Powder Factory is the [Botanist's outfit](https://runescape.wikia.com/wiki/Botanist%27s_outfit) set, which can be bought for a total of 5,000 brainpoints.",
+    "description": "[Flash Powder Factory Rewards](https://runescape.wikia.com/wiki/Flash_Powder_Factory#Buying_rewards) are rewards that can be bought with [Brianpoints](https://runescape.wikia.com/wiki/Flash_Powder_Factory#Brianpoints) that are rewarded by playing the [Flash Powder Factory](https://runescape.wikia.com/wiki/Flash_Powder_Factory) minigame, which is located under the [The Pick and Lute](https://runescape.wikia.com/wiki/The_Pick_and_Lute) bar in [Taverley](https://runescape.wikia.com/wiki/Taverley).\n\nThe only permanent reward from the Flash Powder Factory is the [Botanist's outfit](https://runescape.wikia.com/wiki/Botanist%27s_outfit) set, which can be bought for a total of 5,000 Brian points.",
     "color": 10257648,
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/6/63/Botanist%27s_outfit_equipped.png/revision/latest?cb=20140406202055"
