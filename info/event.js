@@ -31,7 +31,7 @@ exports.data = {
   },
     "runescape official events": {
     "title": "RuneScape Official Events",
-    "description":"This is a list of all upcoming Runescape Official events ran by either Jagex or Player Moderators.",
+    "description":"This is a resourceful list of all upcoming Runescape Official events ran by either Jagex Moderators, Player Moderators, or RuneScape Players.",
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/3/3d/RuneScape_3_Logo.png/revision/latest?cb=20140317195258"
     },
@@ -59,6 +59,10 @@ exports.data = {
       {
         "name": "Forum Announced Events:",
         "value": "[Click here to view](http://services.runescape.com/m=forum/forums.ws?42,43)"
+      },
+      {
+        "name": "Player Led Events:",
+        "value": "[Click here to join](http://www.discord.gg/su3QTCv)"
       }
       ]
   },
