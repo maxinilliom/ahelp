@@ -36,7 +36,7 @@ exports.data = {
     },
     "fields": [{
         "name": "Tips:",
-        "value": "Players can save a total of 10,500 reward currency by unlocking Sacrifice, Devotion and Transfigure as drops from either [General Graardor](http://runescape.wikia.com/wiki/General_Graardor) or [Kree'arra](http://runescape.wikia.com/wiki/Kree'arra), their bodygaurds, or the minion located within [Bandos' Stronghold](https://runescape.wikia.com/wiki/God_Wars_Dungeon#Bandos.27_Stronghold) or [Armadyl's Eyrie](https://runescape.wikia.com/wiki/God_Wars_Dungeon#Armadyl.27s_Eyrie).\n\nDeaths during the minigame are safe, and [Ironman](https://runescape.wikia.com/wiki/Ironman_Mode) accounts can participate in all content and have access to all rewards."
+        "value": "Players can save a total of 10,500 reward currency by unlocking Sacrifice, Devotion and Transfigure as drops from either [General Graardor](http://runescape.wikia.com/wiki/General_Graardor) or [Kree'arra](http://runescape.wikia.com/wiki/Kree'arra), their bodyguards, or the minion located within [Bandos' Stronghold](https://runescape.wikia.com/wiki/God_Wars_Dungeon#Bandos.27_Stronghold) or [Armadyl's Eyrie](https://runescape.wikia.com/wiki/God_Wars_Dungeon#Armadyl.27s_Eyrie).\n\nDeaths during the minigame are safe, and [Ironman](https://runescape.wikia.com/wiki/Ironman_Mode) accounts can participate in all content and have access to all rewards."
       },
       {
         "name": "Guide:",
