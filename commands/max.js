@@ -191,7 +191,13 @@ exports.run = async (client, message, [skill, ...args], level) => { // eslint-di
 			      i++;
 			      o++;
 			      if (o < x) setTimeout(list, 2500);
-				  if (o == x) message.reply(`**${i}**/\**${keyList.length}** responses listed.\n\n${errMsg}`);
+				  if (o == x) {
+                	const help = require("../guides/maxGuides/help.js"), query = help.data.query;
+				  	query.color = color;
+				  	query.timestamp = new Date();
+				  	await message.channel.send("", {embed: query})
+				  	message.reply(`**${i}**/\**${keyList.length}** responses listed.\n\n${errMsg}`);
+				  }
 			    }
                 list();
 		message.delete();
