@@ -14,13 +14,13 @@ exports.run = async (client, message, args, level) => {
 	if (message.channel.id !== '382701090430386180' && level < 2) return;
 
 	Object.getOwnPropertyNames(data).forEach(k => {
-		if (k !== "help" && k !== "search") keyList.push(k);
+		if (k !== "help" && k !== "search" && k !== "query") keyList.push(k);
 	});
 	if (!args[0]) return message.channel.send(`Please specify a valid guide name.`);
 
 
 	if (args[0].toLowerCase() == "all" && level >= 2) {
-    let i = 0, o = 0, x = keyList.length;
+    let i = 0, o = 0, x = keyList.length, errMsg = "";
 		await message.channel.send({
 		  files: [{
 			attachment: 'media/img/guides/break.png',
@@ -49,6 +49,7 @@ exports.run = async (client, message, args, level) => {
       try {
 				message.channel.send("", {embed: guide});
 			} catch (err) {
+				errMsg += `${o}. ${keyList[o]} failed to send with error: ${err}\n`;
 				i--;
 			}
       i++;

@@ -27,7 +27,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 	if (message.channel.id !== '382701090430386180' && level < 2) return;
 
 	Object.getOwnPropertyNames(data).forEach(k => {
-		if (k !== "help" && k !== "search") {
+		if (k !== "help" && k !== "search" && k !== "query") {
 			keyList.push(k);
 			if (!data[k].title) return;
 			const [cat, sub, ach] = k.split(" - ");

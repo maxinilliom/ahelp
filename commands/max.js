@@ -141,7 +141,7 @@ exports.run = async (client, message, [skill, ...args], level) => { // eslint-di
 	}
 
 	Object.getOwnPropertyNames(data).forEach(k => {
-		if (k !== "help" && k !== "search") keyList.push(k);
+		if (k !== "help" && k !== "search" && k !== "query") keyList.push(k);
 	});
 
 	if (skill.toLowerCase() == "help") {
