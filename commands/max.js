@@ -195,7 +195,7 @@ exports.run = async (client, message, [skill, ...args], level) => { // eslint-di
                 	const help = require("../guides/maxGuides/help.js"), query = help.data.query;
 				  	query.color = color;
 				  	query.timestamp = new Date();
-				  	await message.channel.send("", {embed: query})
+				  	await message.channel.send("", {embed: query});
 				  	message.reply(`**${i}**/\**${keyList.length}** responses listed.\n\n${errMsg}`);
 				  }
 			    }
