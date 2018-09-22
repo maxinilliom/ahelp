@@ -40,7 +40,7 @@ exports.run = async (client, message, args, level) => {
 		  }]
 		});
 		  
-    function list() {
+    async function list() {
       const guide = data[keyList[o]];
       guide.author.name = name;
       guide.color = color;
