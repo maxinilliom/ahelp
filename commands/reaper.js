@@ -51,13 +51,19 @@ exports.run = async (client, message, args, level) => {
       try {
 				await message.channel.send("", {embed: guide});
 			} catch (err) {
-				errMsg += `${o}. ${keyList[o]} failed to send with error: ${err}`;
+				errMsg += `${o}. ${keyList[o]} failed to send with error: ${err}\n`;
 				i--;
 			}
       i++;
       o++;
       if (o < x) setTimeout(list, 2500);
-	  if (o == x) message.reply(`**${i}**/\**${keyList.length}** responses listed.\n\n${errMsg}`);
+	  	if (o == x) {
+      	const query = data.query;
+		  	query.color = color;
+		  	query.timestamp = new Date();
+		  	await message.channel.send("", {embed: query});
+		  	message.reply(`**${i}**/\**${keyList.length}** responses listed.\n\n${errMsg}`);
+		  }
     }
     list();
 		return message.delete();
