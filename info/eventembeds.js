@@ -24,7 +24,7 @@ exports.data = {
          },
          {  
             "name":"​Who:",
-            "value":"<@294617234033213450>, <@113770763261181961>, <@212672527405678592>, their Achievement Help Team , and their [Alright](https://discord.gg/KwysmXr) clan."
+            "value":"<@294617234033213450>, <@113770763261181961>, <@212672527405678592>, their Achievement Help Team, and their [Alright](https://discord.gg/KwysmXr) clan."
          },
          {  
             "name":"​What is Needed:",
@@ -57,7 +57,7 @@ exports.data = {
          },
          {  
             "name":"​Who:",
-            "value":"<@294617234033213450>, <@113770763261181961>, <@212672527405678592>, their Achievement Help Team, , and their [Alright](https://discord.gg/KwysmXr) clan."
+            "value":"<@294617234033213450>, <@113770763261181961>, <@212672527405678592>, their Achievement Help Team, and their [Alright](https://discord.gg/KwysmXr) clan."
          },
          {  
             "name":"​What is Needed:",
@@ -94,7 +94,7 @@ exports.data = {
          },
          {  
             "name":"​Who:",
-            "value":"<@294617234033213450>, <@113770763261181961>, <@212672527405678592>, their Achievement Help Team, , and their [Alright](https://discord.gg/KwysmXr) clan."
+            "value":"<@294617234033213450>, <@113770763261181961>, <@212672527405678592>, their Achievement Help Team, and their [Alright](https://discord.gg/KwysmXr) clan."
          },
          {  
             "name":"​What is Needed:",
@@ -131,7 +131,7 @@ exports.data = {
          },
          {  
             "name":"​Who:",
-            "value":"<@294617234033213450>, <@113770763261181961>, <@212672527405678592>, their Achievement Help Team, , and their [Alright](https://discord.gg/KwysmXr) clan."
+            "value":"<@294617234033213450>, <@113770763261181961>, <@212672527405678592>, their Achievement Help Team, and their [Alright](https://discord.gg/KwysmXr) clan."
          },
          {  
             "name":"​What is Needed:",
@@ -168,7 +168,7 @@ exports.data = {
          },
          {  
             "name":"​Who:",
-            "value":"<@294617234033213450>, <@113770763261181961>, <@212672527405678592>, their Achievement Help Team, , and their [Alright](https://discord.gg/KwysmXr) clan."
+            "value":"<@294617234033213450>, <@113770763261181961>, <@212672527405678592>, their Achievement Help Team, and their [Alright](https://discord.gg/KwysmXr) clan."
          },
          {  
             "name":"​What is Needed:",
@@ -205,7 +205,7 @@ exports.data = {
          },
          {  
             "name":"​Who:",
-            "value":"<@294617234033213450>, <@113770763261181961>, <@212672527405678592>, their Achievement Help Team, , and their [Alright](https://discord.gg/KwysmXr) clan."
+            "value":"<@294617234033213450>, <@113770763261181961>, <@212672527405678592>, their Achievement Help Team, and their [Alright](https://discord.gg/KwysmXr) clan."
          },
          {  
             "name":"​What is Needed:",
@@ -242,7 +242,7 @@ exports.data = {
          },
          {  
             "name":"​Who:",
-            "value":"<@294617234033213450>, <@113770763261181961>, <@212672527405678592>, their Achievement Help Team, , and their [Alright](https://discord.gg/KwysmXr) clan."
+            "value":"<@294617234033213450>, <@113770763261181961>, <@212672527405678592>, their Achievement Help Team, and their [Alright](https://discord.gg/KwysmXr) clan."
          },
          {  
             "name":"​What is Needed:",
@@ -279,7 +279,7 @@ exports.data = {
          },
          {  
             "name":"​Who:",
-            "value":"<@294617234033213450>, <@113770763261181961>, <@212672527405678592>, their Achievement Help Team , and their [Alright](https://discord.gg/KwysmXr) clan."
+            "value":"<@294617234033213450>, <@113770763261181961>, <@212672527405678592>, their Achievement Help Team, and their [Alright](https://discord.gg/KwysmXr) clan."
          },
          {  
             "name":"​What is Needed:",
@@ -312,7 +312,7 @@ exports.data = {
          },
          {  
             "name":"​Who:",
-            "value":"<@294617234033213450>, <@113770763261181961>, <@212672527405678592>, their Achievement Help Team, , and their [Alright](https://discord.gg/KwysmXr) clan."
+            "value":"<@294617234033213450>, <@113770763261181961>, <@212672527405678592>, their Achievement Help Team, and their [Alright](https://discord.gg/KwysmXr) clan."
          },
          {  
             "name":"​What is Needed:",
@@ -345,7 +345,7 @@ exports.data = {
          },
          {  
             "name":"​Who:",
-            "value":"<@294617234033213450>, <@113770763261181961>, <@212672527405678592>, their Achievement Help Team, , and their [Alright](https://discord.gg/KwysmXr) clan."
+            "value":"<@294617234033213450>, <@113770763261181961>, <@212672527405678592>, their Achievement Help Team, and their [Alright](https://discord.gg/KwysmXr) clan."
          },
          {  
             "name":"​What is Needed:",
@@ -382,7 +382,7 @@ exports.data = {
          },
          {  
             "name":"​Who:",
-            "value":"<@294617234033213450>, <@113770763261181961>, <@212672527405678592>, their Achievement Help Team, , and their [Alright](https://discord.gg/KwysmXr) clan."
+            "value":"<@294617234033213450>, <@113770763261181961>, <@212672527405678592>, their Achievement Help Team, and their [Alright](https://discord.gg/KwysmXr) clan."
          },
          {  
             "name":"​What is Needed:",
@@ -423,7 +423,7 @@ exports.data = {
          },
          {  
             "name":"​Who:",
-            "value":"<@294617234033213450>, <@113770763261181961>, <@212672527405678592>, their Achievement Help Team, , and their [Alright](https://discord.gg/KwysmXr) clan."
+            "value":"<@294617234033213450>, <@113770763261181961>, <@212672527405678592>, their Achievement Help Team, and their [Alright](https://discord.gg/KwysmXr) clan."
          },
          {  
             "name":"​What is Needed:",
