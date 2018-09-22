@@ -66,7 +66,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 			o++;
 			if (o < x) setTimeout(list, 1000);
 			if (o == x) {
-            	const query = data.tquery;
+            	const query = data.tquery.embed;
 			  	query.color = color;
 			  	query.timestamp = new Date();
 			  	await message.channel.send("", {embed: query});
