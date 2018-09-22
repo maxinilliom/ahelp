@@ -16,7 +16,7 @@ exports.data = {
       "fields":[  
          {  
             "name":"​Where:",
-            "value":"Deathmatch lobby, World 68 in <@113770763261181961>'s friends chat. Voice chat will take place in this Discord's <#425508386713632771> voice channel."
+            "value":"Deathmatch lobby, World 68 in <@113770763261181961>'s friends chat."
          },
          {  
             "name":"​Why:",
@@ -49,7 +49,7 @@ exports.data = {
       "fields":[  
          {  
             "name":"​Where:",
-            "value":"In the northwest section of the [God Wars Dungeon](http://runescape.wikia.com/wiki/God_Wars_Dungeon), World 68 in <@113770763261181961>'s friends chat. Voice chat will take place in the [Achievement Help Discord's](https://discord.gg/uUUMPbd) #AH Event voice channel."
+            "value":"In the northwest section of the [God Wars Dungeon](http://runescape.wikia.com/wiki/God_Wars_Dungeon), World 68 in <@113770763261181961>'s friends chat."
          },
          {  
             "name":"​Why:",
@@ -86,7 +86,7 @@ exports.data = {
       "fields":[  
          {  
             "name":"​Where:",
-            "value":"The northeast section of the [Heart of Gielinor](http://runescape.wikia.com/wiki/Heart_of_Gielinor), World 68 in <@113770763261181961>'s friends chat. Voice chat will take place in the [Achievement Help Discord's](https://discord.gg/uUUMPbd) #AH Event voice channel."
+            "value":"The northeast section of the [Heart of Gielinor](http://runescape.wikia.com/wiki/Heart_of_Gielinor), World 68 in <@113770763261181961>'s friends chat."
          },
          {  
             "name":"​Why:",
@@ -123,7 +123,7 @@ exports.data = {
       "fields":[  
          {  
             "name":"​Where:",
-            "value":"The southeast section of the [Heart of Gielinor](http://runescape.wikia.com/wiki/Heart_of_Gielinor), World 68 in <@113770763261181961>'s friends chat. Voice chat will take place in the [Achievement Help Discord's](https://discord.gg/uUUMPbd) #AH Event voice channel."
+            "value":"The southeast section of the [Heart of Gielinor](http://runescape.wikia.com/wiki/Heart_of_Gielinor), World 68 in <@113770763261181961>'s friends chat."
          },
          {  
             "name":"​Why:",
@@ -160,7 +160,7 @@ exports.data = {
       "fields":[  
          {  
             "name":"​Where:",
-            "value":"[Falador Park](http://runescape.wikia.com/wiki/Falador_Park), south of the [Falador](https://runescape.wikia.com/wiki/Falador) [Lodestone](https://runescape.wikia.com/wiki/Lodestone_Network), World 68 in <@113770763261181961>'s friends chat. Voice chat will take place in the [Achievement Help Discord's](https://discord.gg/uUUMPbd) #AH Event voice channel."
+            "value":"[Falador Park](http://runescape.wikia.com/wiki/Falador_Park), south of the [Falador](https://runescape.wikia.com/wiki/Falador) [Lodestone](https://runescape.wikia.com/wiki/Lodestone_Network), World 68 in <@113770763261181961>'s friends chat."
          },
          {  
             "name":"​Why:",
@@ -197,7 +197,7 @@ exports.data = {
       "fields":[  
          {  
             "name":"​Where:",
-            "value":"Nex Bank, within the [Ancient Prison](http://runescape.wikia.com/wiki/God_Wars_Dungeon#Ancient_Prison) in the [God Wars Dungeon](http://runescape.wikia.com/wiki/God_Wars_Dungeon), World 68 in <@113770763261181961>'s friends chat. Voice chat will take place in the [Achievement Help Discord's](https://discord.gg/uUUMPbd) #AH Event voice channel."
+            "value":"Nex Bank, within the [Ancient Prison](http://runescape.wikia.com/wiki/God_Wars_Dungeon#Ancient_Prison) in the [God Wars Dungeon](http://runescape.wikia.com/wiki/God_Wars_Dungeon), World 68 in <@113770763261181961>'s friends chat."
          },
          {  
             "name":"​Why:",
@@ -234,7 +234,7 @@ exports.data = {
       "fields":[  
          {  
             "name":"​Where:",
-            "value":"Nex Bank, within the [Ancient Prison](http://runescape.wikia.com/wiki/God_Wars_Dungeon#Ancient_Prison) in the [God Wars Dungeon](http://runescape.wikia.com/wiki/God_Wars_Dungeon), World 68 in <@113770763261181961>'s friends chat. Voice chat will take place in the [Achievement Help Discord's](https://discord.gg/uUUMPbd) #AH Event voice channel."
+            "value":"Nex Bank, within the [Ancient Prison](http://runescape.wikia.com/wiki/God_Wars_Dungeon#Ancient_Prison) in the [God Wars Dungeon](http://runescape.wikia.com/wiki/God_Wars_Dungeon), World 68 in <@113770763261181961>'s friends chat."
          },
          {  
             "name":"​Why:",
@@ -271,7 +271,7 @@ exports.data = {
       "fields":[  
          {  
             "name":"​Where:",
-            "value":"The Soul Wars lobby, World 68 in <@113770763261181961>'s friends chat. Voice chat will take place in this Discord's <#425508386713632771> voice channel."
+            "value":"The Soul Wars lobby, World 68 in <@113770763261181961>'s friends chat."
          },
          {  
             "name":"​Why:",
@@ -304,7 +304,7 @@ exports.data = {
       "fields":[  
          {  
             "name":"​Where:",
-            "value":"The eastern side of [Mos Le'Harmless](http://runescape.wikia.com/wiki/Mos_Le%27Harmless), World 68 in <@113770763261181961>'s friends chat. Voice chat will take place in the [Achievement Help Discord's](https://discord.gg/uUUMPbd) #AH Event voice channel."
+            "value":"The eastern side of [Mos Le'Harmless](http://runescape.wikia.com/wiki/Mos_Le%27Harmless), World 68 in <@113770763261181961>'s friends chat."
          },
          {  
             "name":"​Why:",
@@ -337,7 +337,7 @@ exports.data = {
       "fields":[  
          {  
             "name":"​Where:",
-            "value":"The northwest section of the [Heart of Gielinor](http://runescape.wikia.com/wiki/Heart_of_Gielinor), World 68 in <@113770763261181961>'s friends chat. Voice chat will take place in the [Achievement Help Discord's](https://discord.gg/uUUMPbd) #AH Event voice channel."
+            "value":"The northwest section of the [Heart of Gielinor](http://runescape.wikia.com/wiki/Heart_of_Gielinor), World 68 in <@113770763261181961>'s friends chat."
          },
          {  
             "name":"​Why:",
@@ -374,7 +374,7 @@ exports.data = {
       "fields":[  
          {  
             "name":"​Where:",
-            "value":"The southwest section of the [Heart of Gielinor](http://runescape.wikia.com/wiki/Heart_of_Gielinor), World 68 in <@113770763261181961>'s friends chat. Voice chat will take place in the [Achievement Help Discord's](https://discord.gg/uUUMPbd) #AH Event voice channel."
+            "value":"The southwest section of the [Heart of Gielinor](http://runescape.wikia.com/wiki/Heart_of_Gielinor), World 68 in <@113770763261181961>'s friends chat."
          },
          {  
             "name":"​Why:",
@@ -411,7 +411,7 @@ exports.data = {
       "fields":[  
          {  
             "name":"​Where:",
-            "value":"[Vorago](https://runescape.wikia.com/wiki/Vorago)'s [Borehole](https://runescape.wikia.com/wiki/Borehole), North of the [Falador](https://runescape.wikia.com/wiki/Falador) [Lodestone](https://runescape.wikia.com/wiki/Lodestone_Network), World 68 in <@113770763261181961>'s friends chat. Voice chat will take place in the [Achievement Help Discord's](https://discord.gg/uUUMPbd) #AH Event voice channel."
+            "value":"[Vorago](https://runescape.wikia.com/wiki/Vorago)'s [Borehole](https://runescape.wikia.com/wiki/Borehole), North of the [Falador](https://runescape.wikia.com/wiki/Falador) [Lodestone](https://runescape.wikia.com/wiki/Lodestone_Network), World 68 in <@113770763261181961>'s friends chat."
          },
          {  
             "name":"​Why:",
