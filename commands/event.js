@@ -23,6 +23,10 @@ exports.run = async (client, message, args, level) => {
 		"value": `${time} game time on ${date}.`
 	};
 	embed.fields.unshift(when);
+	//replace rogue world with 68
+	//replace rogue fc with ty mention
+	//replace voice chat
+	embed.fields[1].value = `${embed.fields[1].value.split(/(\.)/)[0]}.`;
 	if (world) embed.fields[1].value = embed.fields[1].value.replace("World 68", `World ${world}`);
 	if (fc) embed.fields[1].value = embed.fields[1].value.replace("<@113770763261181961>", `${fc}`);
 	if (voice) {
@@ -39,7 +43,6 @@ exports.run = async (client, message, args, level) => {
   	inv = await vc.createInvite({maxAge: 7200}, `${embed.author.name}.`);
 		embed.fields[1].value += `Voice chat will take place in ${direction} voice channel.`;
 	}
-	//message.channel.send(`${type.toProperCase()} at ${time} on ${date} in ${guild.name} on world ${world} in ${fc} FC using ${vc.name} for voice.`);
 	await message.channel.send({embed: embed});
 	if (inv) message.channel.send(`Join voice here: ${inv}`);
 	message.delete();
