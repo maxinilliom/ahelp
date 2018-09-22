@@ -428,35 +428,6 @@ exports.data = {
       }
       ]
   },
-    "Keyers FC": {
-    "title": "Keyers FC",
-    "description":"Keyers FC is a friends chat in game that sells:\n- Dungeoneering floors\n- Dungeoneering items\n- Hardmode floors\n- Gorajo cards for 2.5x XP, double tokens and potion recipes\n\nIf you're interested in gaining Dungeoneering xp without any effort, or selling floors yourself, this is the place for you. We also offer free mentoring to help ranks improve at DG. Visit https://www.keyers.uk/",
-    "thumbnail": {
-      "url": "https://cdn.discordapp.com/icons/337566356302200833/e4ae6e0fabfb1ea310458f1b0d62405a.webp"
-    },
-    "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
-      "text": "Achievement Help | Connecting our Helpful Communities!"
-    },
-    "author": {
-      "name": "Affiliate Info",
-      "icon_url": "https://i.imgur.com/6c6q2iC.png"
-    },
-          "fields": [
-      {
-        "name": "Friend's Chat:",
-        "value": "Keyers FC"
-      },
-      {
-        "name": "Invite Link:",
-        "value": "https://discord.gg/Pmx7g9U"
-      },
-      {
-        "name": "Contact:",
-        "value": "<@238044630954803200>"
-      }
-      ]
-  },
     "LSKK247": {
     "title": "LSKK247",
     "description":"A Friends chat and Discord server that helps people learn Kalphite King and offers a non-toxic and friendly environment that currently has over 9,000 cumulative Drygore drops in the last 4 years.\n\nFC: LSKK247\n\n**Invite Link:** https://discord.gg/rwadSsJ",
