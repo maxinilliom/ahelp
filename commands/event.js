@@ -37,7 +37,7 @@ exports.run = async (client, message, args, level) => {
   		direction = `this server's ${vc.name}`;
   	}
   	inv = await vc.createInvite({maxAge: 7200}, `${embed.author.name}.`);
-		embed.fields[1].value += "Voice chat will take place in ${direction} voice channel."
+		embed.fields[1].value += `Voice chat will take place in ${direction} voice channel.`;
 	}
 	//message.channel.send(`${type.toProperCase()} at ${time} on ${date} in ${guild.name} on world ${world} in ${fc} FC using ${vc.name} for voice.`);
 	await message.channel.send({embed: embed});
