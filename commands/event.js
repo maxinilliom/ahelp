@@ -23,10 +23,6 @@ exports.run = async (client, message, args, level) => {
 		"value": `${time} game time on ${date}.`
 	};
 	embed.fields.unshift(when);
-	//replace rogue world with 68
-	//replace rogue fc with ty mention
-	//replace voice chat
-	embed.fields[1].value = `${embed.fields[1].value.split(/(\.)/)[0]}.`;
 	if (world) embed.fields[1].value = embed.fields[1].value.replace("World 68", `World ${world}`);
 	if (fc) embed.fields[1].value = embed.fields[1].value.replace("<@113770763261181961>", `${fc}`);
 	if (voice) {
@@ -45,6 +41,9 @@ exports.run = async (client, message, args, level) => {
 	}
 	await message.channel.send({embed: embed});
 	if (inv) message.channel.send(`Join voice here: ${inv}`);
+	embed.fields[1].value = embed.fields[1].value.replace(`${fc}`, "<@113770763261181961>");
+	embed.fields[1].value = embed.fields[1].value.replace(`World ${world}`, "World 68");
+	embed.fields[1].value = `${embed.fields[1].value.split(/(\.)/)[0]}.`;
 	message.delete();
 
 };
