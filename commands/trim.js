@@ -65,7 +65,13 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 			i++;
 			o++;
 			if (o < x) setTimeout(list, 1000);
-			if (o == x) message.reply(`**${i}**/\**${keyList.length}** responses listed.\n\n${errMsg}`);
+			if (o == x) {
+            	const query = data.tquery;
+			  	query.color = color;
+			  	query.timestamp = new Date();
+			  	await message.channel.send("", {embed: query});
+			  	message.reply(`**${i}**/\**${keyList.length}** responses listed.\n\n${errMsg}`);
+			}
 		}
 		list();
 		return message.delete();
