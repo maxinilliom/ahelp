@@ -31,19 +31,20 @@ exports.run = async (client, message, args, level) => {
   	if (guild.id == "485523397179342848" && vc.id !== "486308546661842944"
 			|| guild.id == "382696689812766720" && vc.id !== "425508386713632771") {
   		//AH event posted in Alright or Alright event posted in AH
-  		direction = `${vc.guild.name}'s ${vc.name}`
+  		direction = ` Voice chat will take place in ${vc.guild.name}'s ${vc.name} voice channel.`
   	}
   	else {
-  		direction = `this server's ${vc.name}`;
+  		direction = ` Voice chat will take place in this server's ${vc.name} voice channel.`;
   	}
   	inv = await vc.createInvite({maxAge: 7200}, `${embed.author.name}.`);
-		embed.fields[1].value += `Voice chat will take place in ${direction} voice channel.`;
+		embed.fields[1].value += direction;
 	}
 	await message.channel.send({embed: embed});
 	if (inv) message.channel.send(`Join voice here: ${inv}`);
 	embed.fields[1].value = embed.fields[1].value.replace(`${fc}`, "<@113770763261181961>");
 	embed.fields[1].value = embed.fields[1].value.replace(`World ${world}`, "World 68");
-	embed.fields[1].value = `${embed.fields[1].value.split(/(\.)/)[0]}.`;
+	embed.fields[1].value = embed.fields[1].value.replace(direction, "");
+//	embed.fields[1].value = `${embed.fields[1].value.split(/(\.)/)[0]}.`;
 	message.delete();
 
 };
