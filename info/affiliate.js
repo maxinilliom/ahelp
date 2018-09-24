@@ -561,7 +561,7 @@ exports.data = {
       },
       {
         "name": "Invite Link:",
-        "value": "https://discordapp.com/invite/DsTB37F"
+        "value": "https://discord.gg/Kpmddj3"
       },
       {
         "name": "Contact:",
@@ -623,31 +623,6 @@ exports.data = {
       }
       ]
   },
-    "RS Academia": {
-    "title": "RS Academia",
-    "description":"RS Academia is  a non-toxic, learner friendly, social and pvm clan with no level or exp requirements. Our clan is an intelligent, mature, and friendly community that is focused on helping people develop inside of RuneScape. They are looking for dedicated players with a desire to learn and grow, have a decent sense of humor, and enjoy bossing, skilling, and hanging out all while achieving their goals. They also do bosses such as Raids, Rots, Rago, and more. Guests are more than welcome to join and chat to get a feel for the clan and its members.",
-    "thumbnail": {
-      "url": "http://services.runescape.com/m=avatar-rs/avatar.png?id=25049656"
-    },
-    "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
-      "text": "Achievement Help | Connecting our Helpful Communities!"
-    },
-    "author": {
-      "name": "Social Affiliate Info",
-      "icon_url": "https://i.imgur.com/6c6q2iC.png"
-    },
-          "fields": [
-      {
-        "name": "Invite Link:",
-        "value": "https://discord.gg/mYuuXPg"
-      },
-      {
-        "name": "Contact:",
-        "value": "<@324875053651066881>"
-      }
-      ]
-  },
     "RS Pocketbook": {
     "title": "RS Pocketbook",
     "description":"Built from the RS Pocketbook PDF, this server acts as a support channel both for PvM information and at times for helping to form groups to PvM with, as well as a medium through which the RS pocketbook is updated.",
@@ -695,6 +670,39 @@ exports.data = {
       {
         "name": "Contact:",
         "value": "<@377306652300279808>"
+      }
+      ]
+  },
+    "RuneScape Events": {
+    "title": "RuneScape Events by Pink Skirts",
+    "description":"Pink Skirts is a community that hosts Runescape 3 events, led by Player Moderators, and Event Helpers! Their mission with the discord is to bring the community together. Any branch of the Runescape community that you are a part of, this is the place where you can host your events, and even try to schedule it on the in-game clock with the official hosts!\n\n• **Pink Skirt Event Hosts:** All player moderators who lead the Pink Skirts initiative. They organize and run all sorts of world events, and are more than willing to help you out in any way they can.\n• **Event Helpers:** These are players, not necessarily player moderators, who co-host events in our community.",
+    "thumbnail": {
+      "url": "https://cdn.discordapp.com/icons/429016488515600394/536976693011c24bb380f900241f531c.png"
+    },
+    "footer": {
+      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "text": "Achievement Help | Connecting our Helpful Communities!"
+    },
+    "author": {
+      "name": "Affiliate Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+          "fields": [
+      {
+        "name": "Friend's Chat:",
+        "value": "Mod Events"
+      },
+      {
+        "name": "Invite Link:",
+        "value": "https://discord.gg/vRNuauq"
+      },
+      {
+        "name": "OSRS Invite Link (Gather OSRS):",
+        "value": "https://discord.gg/HnTSbFb"
+      },
+      {
+        "name": "Contact:",
+        "value": "<@190618343277985792> and <@294617234033213450>"
       }
       ]
   },
