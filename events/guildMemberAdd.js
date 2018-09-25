@@ -3,6 +3,7 @@ const { inspect } = require("util");
 module.exports = async (client, member) => {
 
 	const guild = member.guild;
+	if (guild.id !== "382696689812766720") return;
 	const settings = client.settings.get(guild.id);
 	const welcomeChannel = client.channels.get("382700760317558786");
 	const replyChannel = client.channels.get('435588740346413057');
