@@ -1006,7 +1006,7 @@ exports.data = {
       ]
   },
     "Wooden Shield": {
-    "title": "Boss Guides/Marathons",
+    "title": "Wooden Shield",
     "description":"For those interested in a pvm driven discord that helps people learn end game bosses as dps or by learning roles in frequent marathons and detailed guides for each role in many bosses including;\n• Beastmaster Durzag\n• Yakamaru\n• Vorago\n• Nex: Angel of Death and more!",
     "thumbnail": {
       "url": "https://cdn.discordapp.com/icons/274685267703496704/73dc820b952a5888cb394e3c045ad6a2.webp"
