@@ -54,15 +54,11 @@ exports.data = {
       },
       {
         "name": "Player Moderator Led Events:",
-        "value": "[Click here to view](http://services.runescape.com/m=forum/forums.ws?42,43,596,65583459)"
+        "value": "[Click here to view](http://services.runescape.com/m=forum/forums.ws?42,43,596,65583459) | [Discord](http://discord.gg/vRNuauq) | [OSRS Discord](https://discord.gg/HnTSbFb)"
       },
       {
         "name": "Forum Announced Events:",
         "value": "[Click here to view](http://services.runescape.com/m=forum/forums.ws?42,43)"
-      },
-      {
-        "name": "Player Led Events:",
-        "value": "[Click here to join](http://www.discord.gg/su3QTCv)"
       }
       ]
   },
