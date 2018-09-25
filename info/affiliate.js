@@ -138,7 +138,7 @@ exports.data = {
           "fields": [
       {
         "name": "Invite Link:",
-        "value": "https://discord.gg/UW5tZsU"
+        "value": "https://discord.gg/2rd8Vqe"
       },
       {
         "name": "Contact:",
@@ -201,31 +201,6 @@ exports.data = {
       {
         "name": "Contact:",
         "value": "<@462372522403561482>"
-      }
-      ]
-  },
-    "Boss Guides/Marathons": {
-    "title": "Boss Guides/Marathons",
-    "description":"For those interested in a pvm driven discord that helps people learn end game bosses as dps or by learning roles in frequent marathons and detailed guides for each role in many bosses including;\n• Beastmaster Durzag\n• Yakamaru\n• Vorago\n• Nex: Angel of Death and more!",
-    "thumbnail": {
-      "url": "https://cdn.discordapp.com/icons/274685267703496704/5ac60cb845e2154a2f4307c0cb32b40f.webp"
-    },
-    "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
-      "text": "Achievement Help | Connecting our Helpful Communities!"
-    },
-    "author": {
-      "name": "Affiliate Info",
-      "icon_url": "https://i.imgur.com/6c6q2iC.png"
-    },
-          "fields": [
-      {
-        "name": "Invite Link:",
-        "value": "https://discord.gg/a7Gaqze"
-      },
-      {
-        "name": "Contact:",
-        "value": "<@207493968169009152>"
       }
       ]
   },
@@ -1027,6 +1002,31 @@ exports.data = {
       {
         "name": "Contact:",
         "value": "<@138289815182508033>"
+      }
+      ]
+  },
+    "Wooden Shield": {
+    "title": "Boss Guides/Marathons",
+    "description":"For those interested in a pvm driven discord that helps people learn end game bosses as dps or by learning roles in frequent marathons and detailed guides for each role in many bosses including;\n• Beastmaster Durzag\n• Yakamaru\n• Vorago\n• Nex: Angel of Death and more!",
+    "thumbnail": {
+      "url": "https://cdn.discordapp.com/icons/274685267703496704/73dc820b952a5888cb394e3c045ad6a2.webp"
+    },
+    "footer": {
+      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "text": "Achievement Help | Connecting our Helpful Communities!"
+    },
+    "author": {
+      "name": "Affiliate Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+          "fields": [
+      {
+        "name": "Invite Link:",
+        "value": "https://discord.gg/a7Gaqze"
+      },
+      {
+        "name": "Contact:",
+        "value": "<@207493968169009152>"
       }
       ]
   },
