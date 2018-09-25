@@ -32,6 +32,39 @@ exports.data = {
          }
       ]
    },
+    "capping": {  
+      "title":"Preparation:",
+      "description":"Guests are welcome, but only clan members will be able to use the [Skill plots](http://runescape.wikia.com/wiki/Clan_Citadel#Skill_plots).",
+      "footer":{  
+         "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
+         "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
+      },
+      "thumbnail":{  
+         "url":"https://vignette.wikia.nocookie.net/runescape2/images/c/c4/Citadel_night.png/revision/latest?cb=20111119034156"
+      },
+      "author":{  
+         "name":"Clan Capping Event",
+         "icon_url":"https://i.imgur.com/6c6q2iC.png"
+      },
+      "fields":[  
+         {  
+            "name":"​Where:",
+            "value":"The Alright clan's [citadel](http://runescape.wikia.com/wiki/Clan_Citadel)."
+         },
+         {  
+            "name":"​Why:",
+            "value":"To maintain and upgrade our Citadel. Also, to keep our [Skilling bonus](http://runescape.wikia.com/wiki/Clan_avatar#Skilling_bonus). Mostly for the Skilling bonus."
+         },
+         {  
+            "name":"​Who:",
+            "value":"<@294617234033213450>, <@113770763261181961>, <@212672527405678592>, and their [Alright](https://discord.gg/KwysmXr) clan."
+         },
+         {  
+            "name":"​What is Needed:",
+            "value":"Nothing!"
+         }
+      ]
+   },
     "general graardor": {  
       "title":"Preparation:",
       "description":"All are welcome! We will be teaching how to do the boss on Discord if any learners are apprehensive about coming.\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wikia.com/wiki/General_Graardor/Strategies) or a video guide [here](https://www.youtube.com/watch?v=CDur0jqFF_8).",
@@ -251,6 +284,72 @@ exports.data = {
          {  
             "name":"​How Drops Work:",
             "value":"Drops are dispersed via [coinshare](https://runescape.wikia.com/wiki/CoinShare) to whoever is in the friend's chat. All drops are kept by their recipients and high-value drops that have [item shards](https://runescape.wikia.com/wiki/Item_shards) will be split by the game to everyone who has coinshare enabled and is in the friend's chat. "
+         }
+      ]
+   },
+    "penguins": {  
+      "title":"Preparation:",
+      "description":"All are welcome!\n\nYou may prepare for the event by viewing the written guide [here](http://runescape.wikia.com/wiki/Penguin_Hide_and_Seek).",
+      "footer":{  
+         "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
+         "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
+      },
+      "thumbnail":{  
+         "url":"https://vignette.wikia.nocookie.net/runescape2/images/b/ba/Penguin_crate.png/revision/latest?cb=20170721074540"
+      },
+      "author":{  
+         "name":"Penguin Hide and Seek Clan Event",
+         "icon_url":"https://i.imgur.com/6c6q2iC.png"
+      },
+      "fields":[  
+         {  
+            "name":"​Where:",
+            "value":"World 60 in either <@306846425365610496>'s or <@236939835045052416>'s friends chat (to be announced)."
+         },
+         {  
+            "name":"​Why:",
+            "value":"Penguin Points may be redeemed for XP or GP rewards by speaking with [Chuck](http://runescape.wikia.com/wiki/Chuck) or [Larry](http://runescape.wikia.com/wiki/Larry) at the [Ardougne Zoo](http://runescape.wikia.com/wiki/Ardougne_Zoo)."
+         },
+         {  
+            "name":"​Who:",
+            "value":"<@306846425365610496>, <@236939835045052416>, and their [Alright](https://discord.gg/KwysmXr) clan."
+         },
+         {  
+            "name":"​What is Needed:",
+            "value":"Speak with Larry, who will give you a [Spy notebook](http://runescape.wikia.com/wiki/Spy_notebook), which allows you to find the disguised penguins (you do not need to keep the book nor bring it with you).\n\nUnlocking the [Lodestone Network](http://runescape.wikia.com/wiki/Lodestone_Network) for teleportation is extremely helpful.  Some weeks, additional telportation methods such as a [Ring of Dueling](http://runescape.wikia.com/wiki/Ring_of_duelling), the [Ape Atoll](http://runescape.wikia.com/wiki/Ape_Atoll) teleportation spell, or an [Ectophial](http://runescape.wikia.com/wiki/Ectophial) are used.\n\nFull details for this week's hunt will be posted here!"
+         }
+      ]
+   },
+    "skill and chill": {  
+      "title":"Preparation:",
+      "description":"All are welcome!",
+      "footer":{  
+         "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
+         "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
+      },
+      "thumbnail":{  
+         "url":"https://vignette.wikia.nocookie.net/runescape2/images/5/5a/Beer_detail.png/revision/latest?cb=20180911203419"
+      },
+      "author":{  
+         "name":"Skill 'n' Chill Clan Event",
+         "icon_url":"https://i.imgur.com/6c6q2iC.png"
+      },
+      "fields":[  
+         {  
+            "name":"​Where:",
+            "value":"World 68 near the [Burthrope](http://runescape.wikia.com/wiki/Burthorpe) lodestone and bank."
+         },
+         {  
+            "name":"​Why:",
+            "value":"Socialization, XP gains, and fun."
+         },
+         {  
+            "name":"​Who:",
+            "value":"<@294617234033213450>, <@113770763261181961>, <@212672527405678592>, and their [Alright](https://discord.gg/KwysmXr) clan."
+         },
+         {  
+            "name":"​What is Needed:",
+            "value":"Portables will be provided, just bring your own supplies; or come sit with us for awhile!"
          }
       ]
    },
