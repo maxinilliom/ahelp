@@ -51,21 +51,27 @@ exports.data = {
    ]
   },
   "1 - 19": {
-    "title": "Construction Training Levels 19-33",
-    "description": "At level 19, players can make [Oak Chairs](http://runescape.wikia.com/wiki/Oak_chair). The chairs can be built in the [Parlour](http://runescape.wikia.com/wiki/Parlour) room, using 2 [Oak Planks](http://runescape.wikia.com/wiki/Oak_plank) per chair. 119 oak chairs will be built to reach level 33.",
-    "url": "http://runescape.wikia.com/wiki/Construction_training#Level_19_to_33",
+    "title": "Construction Training Levels 1-19",
+    "description": "At level 1, players can begin training Construction by making [Crude Wooden Chairs](http://runescape.wikia.com/wiki/Crude_wooden_chair). The chairs can be built in the [Parlour](http://runescape.wikia.com/wiki/Parlour) room, using 2 [Planks](http://runescape.wikia.com/wiki/Plank) and 2 [Iron Nails](http://runescape.wikia.com/wiki/Iron_nails) per chair. Several nails will break while training, so a player should bring plenty of spares. 13 crude wooden chairs should be built to reach level 8.",
+    "url": "http://runescape.wikia.com/wiki/Construction_training#Level_1_to_19",
     "color": 12269891,
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "thumbnail": {
-      "url": "https://vignette.wikia.nocookie.net/runescape2/images/1/1a/Oak_chair_built.png/revision/latest?cb=20110611224615"
+      "url": "https://vignette.wikia.nocookie.net/runescape2/images/7/73/Crude_wooden_chair_built.png/revision/latest?cb=20110611172507"
     },
     "author": {
       "name": "Max Cape Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "fields": [
+    {
+      "name": "Wooden Chairs",
+      "value": "At level 8, a player can switch to [Wooden Chairs](http://runescape.wikia.com/wiki/Wooden_chair). These chairs require 3 planks and 3 nails per chair. 34 wooden chairs should be built to reach level 19."
     }
+    ]
   },
   "19 - 33": {
     "title": "Construction Training Levels 19-33",
