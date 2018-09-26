@@ -438,7 +438,7 @@ exports.data = {
       },
       {
         "name": "​",
-        "value": "[Mud Bath](http://runescape.wikia.com/wiki/Spa)\n• The Mud Bath boosts player's Hunter level by 10% (rounded down), making them more likely to catch hunter creatures. This boost will not stack with the boost from drinking a Hunter potion. The bath also temporarily removes the players' scent whilst hunting, effectively equivalent to smoking all traps with lit torch for a period of time. The boost drops by one point every minute.\n\n[Brawling Gloves (Hunter)](http://runescape.wikia.com/wiki/Brawling_gloves_(Hunter)\n• A 50% XP boost is given anywhere outside of the Wilderness. However, the buff increases to 300% at level 47 Wilderness, just south of the fence. The gloves only last about 336 uses catching creatures."
+        "value": "[God Banner](http://runescape.wikia.com/wiki/God_banner)\n• Skill boost: +2 levels\n• The boost can be used once per day and lasts for 30 minutes\n\n[Mud Bath](http://runescape.wikia.com/wiki/Spa)\n• The Mud Bath boosts player's Hunter level by 10% (rounded down), making them more likely to catch hunter creatures. This boost will not stack with the boost from drinking a Hunter potion. The bath also temporarily removes the players' scent whilst hunting, effectively equivalent to smoking all traps with lit torch for a period of time. The boost drops by one point every minute.\n\n[Brawling Gloves (Hunter)](http://runescape.wikia.com/wiki/Brawling_gloves_(Hunter)\n• A 50% XP boost is given anywhere outside of the Wilderness. However, the buff increases to 300% at level 47 Wilderness, just south of the fence. The gloves only last about 336 uses catching creatures."
       },
       {
         "name": "​",
