@@ -55,7 +55,7 @@ exports.data = {
   "bakriminel bolts": {
     "title": "Bakriminel Bolts",
     "description": "[Bakriminel Bolts](runescape.wikia.com/wiki/Bakriminel_bolts) require 93 Fletching to make and can be made from [Bloodwood Logs](http://runescape.wikia.com/wiki/Bloodwood_logs).\n\n[Bloodwood trees](https://runescape.wikia.com/wiki/Bloodwood_tree) typically yield a very small number of logs, usually 1-2 per yield. However, those in the [Wilderness](http://runescape.wikia.com/wiki/Wilderness) are significantly stronger and are likely to give more logs compared to their non-Wilderness counterparts.\n\nA list of tree locations can be found [here](http://runescape.wikia.com/wiki/Bloodwood_tree#Locations). Note that 3 of the trees that are not locked behind quests are in the wilderness, so **do not** take anything you're not willing to lose.",
-    "url": "http://runescape.wikia.com/wiki/Crystal_flask",
+    "url": "http://runescape.wikia.com/wiki/Bakriminel_bolts",
     "color": 12269891,
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
@@ -166,7 +166,7 @@ exports.data = {
   },
   "rune shop run": {
     "title": "Rune Shop Run",
-    "description": "Runes can be purchased from [Magic Shops](http://runescape.wikia.com/wiki/Magic_shops) daily. Players should only be purchasing the following runes per day:\n\n• [Body Rune](http://runescape.wikia.com/wiki/Body_rune)\n• [Air Rune](http://runescape.wikia.com/wiki/Air_rune)\n• [Water Rune](http://runescape.wikia.com/wiki/Water_rune)\n• [Earth Rune](http://runescape.wikia.com/wiki/Earth_rune)\n• [Fire Rune](http://runescape.wikia.com/wiki/Fire_rune)\n• [Nature Rune](https://runescape.wikia.com/wiki/Nature_rune)",
+    "description": "Runes can be purchased from [Magic Shops](http://runescape.wikia.com/wiki/Magic_shops) daily. Players should only be purchasing runes that can yield profit. For a chart that's up to date on profit, click [here](http://runescape.wikia.com/wiki/Calculator:Other/Runes_from_shops).",
     "url": "http://runescape.wikia.com/wiki/Money_making_guide/Buying_runes",
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
