@@ -46,7 +46,7 @@ exports.data = {
        },
        {
         "name":"Getting Saplings",
-        "value":"A [Sapling](http://runescape.wikia.com/wiki/Sapling) is a tree seedling that has grown sufficiently to be planted in a [Tree Patch](http://runescape.wikia.com/wiki/Farming/Patch_locations). In order to plant a tree in a farming patch, a sapling must be preparedusing the following steps:\n\n1. Use a tree seed on a [Plant Pot](http://runescape.wikia.com/wiki/Plant_pot) filled with soil\n2. Use a [Watering Can](http://runescape.wikia.com/wiki/Watering_can) on the unwatered seedling\n3. Wait for the seedling to grow into a sapling"
+        "value":"A [Sapling](http://runescape.wikia.com/wiki/Sapling) is a tree seedling that has grown sufficiently to be planted in a [Tree Patch](http://runescape.wikia.com/wiki/Farming/Patch_locations). In order to plant a tree in a farming patch, a sapling must be prepared using the following steps:\n\n1. Use a tree seed on a [Plant Pot](http://runescape.wikia.com/wiki/Plant_pot) filled with soil\n2. Use a [Watering Can](http://runescape.wikia.com/wiki/Watering_can) on the unwatered seedling\n3. Wait for the seedling to grow into a sapling"
        },
        {
         "name":"Paying To Protect",
@@ -302,7 +302,7 @@ exports.data = {
     },
     { 
       "name": "▬▬ Foraging Mushroom Clusters 94-99+ ▬▬", 
-      "value": "[Mushroom Clusters](http://runescape.wikia.com/wiki/Mushroom_cluster) are a Farming resource that can be found randomly on [Uncharted Isles](http://runescape.wikia.com/wiki/Uncharted_Isles). These can beharvested at level 94 Farming and yield around 100 mushrooms before depleting. At level 99 harvesting mushrooms grants an experience rate equivalent to 50,000 experience an hour."
+      "value": "[Mushroom Clusters](http://runescape.wikia.com/wiki/Mushroom_cluster) are a Farming resource that can be found randomly on [Uncharted Isles](http://runescape.wikia.com/wiki/Uncharted_Isles). These can be harvested at level 94 Farming and yield around 100 mushrooms before depleting. At level 99 harvesting mushrooms grants an experience rate equivalent to 50,000 experience an hour."
     },
     { 
       "name": "▬▬ Cabbage Facepunch Bonanza ▬▬", 
@@ -399,7 +399,7 @@ exports.data = {
 },
 { 
 "name": "▬▬ Wilderness Warbands ▬▬", 
-"value": "[Wilderness Warbands](https://runescape.wikia.com/wiki/Wilderness_Warbands) is a dangerous members D&D that occurs in the [Wilderness](https://runescape.wikia.com/wiki/Wilderness), composed of heavily defended storage camps guarded by the followers of the different Gods. They will set up camp in the Wilderness every 7 hours, one time at each of the [three locations]((https://runescape.wikia.com/wiki/Wilderness_Warbands#Time_for_the_next_warbands). Warbands events are synchronised on each world. \n\nWilderness Warbands give large amounts of experience in Farming, Construction, Herblore, Mining, or Smithing. While no combat is necessary, it is still highly contested between players which may result in the loss of most rewards if you are killed. Players should take combat equipment to fight off/scare off player killers but must be conscious of the fact that this gear can be lost too. You also need 25 free inventory spaces for the Warbands supplies from looting the camps." 
+"value": "[Wilderness Warbands](https://runescape.wikia.com/wiki/Wilderness_Warbands) is a dangerous members D&D that occurs in the [Wilderness](https://runescape.wikia.com/wiki/Wilderness), composed of heavily defended storage camps guarded by the followers of the different Gods. They will set up camp in the Wilderness every 7 hours, one time at each of the [three locations](https://runescape.wikia.com/wiki/Wilderness_Warbands#Time_for_the_next_warbands). Warbands events are synchronised on each world. \n\nWilderness Warbands give large amounts of experience in Farming, Construction, Herblore, Mining, or Smithing. While no combat is necessary, it is still highly contested between players which may result in the loss of most rewards if you are killed. Players should take combat equipment to fight off/scare off player killers but must be conscious of the fact that this gear can be lost too. You also need 25 free inventory spaces for the Warbands supplies from looting the camps." 
 }, 
 { 
 "name": "​", 
@@ -489,7 +489,7 @@ exports.data = {
       },
       {
         "name": "Magic Secateurs",
-        "value": "• [Magic Secateurs](http://runescape.wikia.com/wiki/Magic_secateurs) are a Farming tool obtained during the [Fairy Tale Part I](http://runescape.wikia.com/wiki/Fairy_Tale_I_-_Growing_Pains) quest. Either wielding or having the magic secateurs in the player's inventory while harvesting allotments, herbs, and hops decreases the chance of the plant losing a life when harvesting. They also provide a 10% yield when Farming from allotments, herb and hops patches."
+        "value": "• [Magic Secateurs](http://runescape.wikia.com/wiki/Magic_secateurs) are a Farming tool obtained during the [Fairy Tale Part I](http://runescape.wikia.com/wiki/Fairy_Tale_I_-_Growing_Pains) quest. Either wielding, having the magic secateurs in the player's inventory, or in the tool belt while harvesting allotments, herbs, and hops decreases the chance of the plant losing a life when harvesting. They also provide a 10% yield when Farming from allotments, herb and hops patches."
       }
       ]
   },
