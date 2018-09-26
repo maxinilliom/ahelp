@@ -1163,7 +1163,7 @@ exports.data = {
 				},
 				{
 					"name": "Items Required:",
-					"value": "• [30 rumberries](https://runescape.wikia.com/wiki/Rumberry)\n• 30 [Positive energies](https://runescape.wikia.com/wiki/Positive_energy)\n• At least 1 [Spirit dragon charm](https://runescape.wikia.com/wiki/Spirit_dragon_charm)"
+					"value": "• 30 [rumberries](https://runescape.wikia.com/wiki/Rumberry)\n• 30 [Positive energies](https://runescape.wikia.com/wiki/Positive_energy)\n• At least 1 [Spirit dragon charm](https://runescape.wikia.com/wiki/Spirit_dragon_charm)"
 				},
 				{
 					"name": "Enemies to Defeat:",
@@ -1552,7 +1552,7 @@ exports.data = {
 				"name": "RuneScore Achievement Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Banking History](http://runescape.wikia.com/wiki/Banking_History) is an achievement that requires the player to complete the [Enchanted key](http://runescape.wikia.com/wiki/Enchanted_key_(miniquest%29) miniquest\n\nEnchanted key is a two-part miniquest that uses the [item of the same]() name to find hidden treasures after [Making History](https://runescape.wikia.com/wiki/Making_History) and [Meeting History](https://runescape.wikia.com/wiki/Meeting_History). There are 11 treasure sites in each part of the miniquest. The main rewards of the miniquest are the [Guthix mjolnir](https://runescape.wikia.com/wiki/Guthix_mjolnir), [Saradomin mjolnir](https://runescape.wikia.com/wiki/Saradomin_mjolnir), and [Zamorak mjolnir](https://runescape.wikia.com/wiki/Zamorak_mjolnir), which can only be obtained during the miniquest.\n\nThe treasures from Making History must be looted before being able to loot the ones from Meeting History.",
+			"description": "[Banking History](http://runescape.wikia.com/wiki/Banking_History) is an achievement that requires the player to complete the [Enchanted key](http://runescape.wikia.com/wiki/Enchanted_key_(miniquest%29) miniquest\n\nEnchanted key is a two-part miniquest that uses the [item of the same](http://runescape.wikia.com/wiki/Enchanted_key) name to find hidden treasures after [Making History](https://runescape.wikia.com/wiki/Making_History) and [Meeting History](https://runescape.wikia.com/wiki/Meeting_History). There are 11 treasure sites in each part of the miniquest. The main rewards of the miniquest are the [Guthix mjolnir](https://runescape.wikia.com/wiki/Guthix_mjolnir), [Saradomin mjolnir](https://runescape.wikia.com/wiki/Saradomin_mjolnir), and [Zamorak mjolnir](https://runescape.wikia.com/wiki/Zamorak_mjolnir), which can only be obtained during the miniquest.\n\nThe treasures from Making History must be looted before being able to loot the ones from Meeting History.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -1791,6 +1791,10 @@ exports.data = {
 			"fields": [{
 					"name": "​",
 					"value": "They have a special attack that is signalled when they roar and hit their chest. The airut's damage will be doubled, in addition to a faster attack speed (2x for ranged, 4x for melee) while it is in a \"frenzy\" state. If the airut is successfully hit with [Flurry](https://runescape.wikia.com/wiki/Flurry) or [Rapid Fire](https://runescape.wikia.com/wiki/Rapid_Fire), when they signal this attack or are in the process of using it, they will be disoriented. While disoriented, the airut is [stunned](https://runescape.wikia.com/wiki/Stun) and takes double damage from all attacks; this also stacks with damage boosting abilities like [Berserk](https://runescape.wikia.com/wiki/Berserk).\n\nThey also have a passive ability that increases their defence the lower their health is."
+				},
+				{
+					"name": "​",
+					"value": "Note that duplicate pieces of the mask may be traded 1:1 with other players in order to complete your set. The [TH Trading](https://discord.gg/hJGJbSs) Discord has a channel to facilitate this process for players."
 				},
 				{
 					"name": "Requirements:",
@@ -2429,7 +2433,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Claus Is Rising](http://runescape.wikia.com/wiki/Claus_Is_Rising) is an achievement that requires the player to hand in a [Cave Wolf Matriarch skull](http://runescape.wikia.com/wiki/Cave_Wolf_Matriarch_skull) to [Claus the chef](http://runescape.wikia.com/wiki/Claus_the_chef) after completion of [Carnillean Rising](http://runescape.wikia.com/wiki/Carnillean_Rising).\n\nPlayers can choose between these selected rewards:\n\n• 2,000 [Pure Essence](http://runescape.wikia.com/wiki/Pure_essence)\n• [3,500 Flax](http://runescape.wikia.com/wiki/Flax)\n• [200 Dragon scale dust](http://runescape.wikia.com/wiki/Dragon_scale_dust)\n• [100 Unicorn horn dust](http://runescape.wikia.com/wiki/Unicorn_horn_dust)\n\nThe Cave Wolf Matriarch skull is obtained by killing the [Cave Wolf Matriarch](http://runescape.wikia.com/wiki/Cave_Wolf_Matriarch) after the Carnillean Rising quest.\n\n The Cave Wolf Matriarch is a monster encountered during Carnillean Rising, in which [Philipe Carnillean](http://runescape.wikia.com/wiki/Philipe_Carnillean) defeats it while the player distracts the wolf. After the completion of the quest, Claus the chef in the basement will assign you to kill the, now much stronger, wolf once more for her skull. You are then given limited access outside the cave again in which the [Juvenile wolves](http://runescape.wikia.com/wiki/Juvenile_wolf) were in, and kill the Cave Wolf Matriarch and both of her cubs.",
+			"description": "[Claus Is Rising](http://runescape.wikia.com/wiki/Claus_Is_Rising) is an achievement that requires the player to hand in a [Cave Wolf Matriarch skull](http://runescape.wikia.com/wiki/Cave_Wolf_Matriarch_skull) to [Claus the chef](http://runescape.wikia.com/wiki/Claus_the_chef) after completion of [Carnillean Rising](http://runescape.wikia.com/wiki/Carnillean_Rising).\n\nPlayers can choose between these selected rewards:\n\n• 2,000 [Pure Essence](http://runescape.wikia.com/wiki/Pure_essence)\n• 3,500 [Flax](http://runescape.wikia.com/wiki/Flax)\n• 200 [Dragon scale dust](http://runescape.wikia.com/wiki/Dragon_scale_dust)\n• 100 [Unicorn horn dust](http://runescape.wikia.com/wiki/Unicorn_horn_dust)\n\nThe Cave Wolf Matriarch skull is obtained by killing the [Cave Wolf Matriarch](http://runescape.wikia.com/wiki/Cave_Wolf_Matriarch) after the Carnillean Rising quest.\n\n The Cave Wolf Matriarch is a monster encountered during Carnillean Rising, in which [Philipe Carnillean](http://runescape.wikia.com/wiki/Philipe_Carnillean) defeats it while the player distracts the wolf. After the completion of the quest, Claus the chef in the basement will assign you to kill the, now much stronger, wolf once more for her skull. You are then given limited access outside the cave again in which the [Juvenile wolves](http://runescape.wikia.com/wiki/Juvenile_wolf) were in, and kill the Cave Wolf Matriarch and both of her cubs.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -2535,17 +2539,17 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Completionist Cape](https://runescape.wikia.com/wiki/Completionist_Cape_(achievement%29) is an achievement that requires the player to complete all [Completionist Cape achievements](http://runescape.wikia.com/wiki/Completionist_Cape_achievements). Please visit the <#476762700270141440> channel for more information on how to do this.",
+			"description": "[Completionist Cape](https://runescape.wikia.com/wiki/Completionist_Cape_(achievement%29) is an achievement that requires the player to complete all [Completionist Cape achievements](http://runescape.wikia.com/wiki/Completionist_Cape_achievements). Please visit the <#488553073107533825> channel for more information on how to do this.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
 			"fields": [{
 				"name": "Requirements:",
-				"value": "• Visit the <#476762700270141440> channel for a full list"
+				"value": "• Visit the <#488553073107533825> channel for a full list"
 			}],
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-				"text": "Runescore awarded: 75"
+				"text": "Runescore awarded: 0"
 			},
 			"timestamp": "2001-01-04T12:00:00Z"
 		}
@@ -2558,7 +2562,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Conquest Adore](https://runescape.wikia.com/wiki/Conquest_Adore) is an achievement that requires the player to achieve the [Rank](https://runescape.wikia.com/wiki/Conquest#Rewards) of 1,250 in [Conquest](https://runescape.wikia.com/wiki/Conquest).\n\nConquest is a [minigame](https://runescape.wikia.com/wiki/Minigames) released as an addition to the [Void Knights quest series](https://runescape.wikia.com/wiki/Void_Knight_quest_series). This minigame is located at the [Void Knights' Outpost](https://runescape.wikia.com/wiki/Void_Knights%27_Outpost). To get there, either speak to the [Squire](https://runescape.wikia.com/wiki/Squire_(Void_Knights) on the pier at [Port Sarim](https://runescape.wikia.com/wiki/Port_Sarim) to travel to the island by ship free of charge, use the teleport option of a [Void knight seal](https://runescape.wikia.com/wiki/Void_knight_seal). It is a safe minigame, in which players cannot die. It awards [Void Knight commendation points](https://runescape.wikia.com/wiki/Void_Knight_commendation_points) in higher quantities than [Pest Control](https://runescape.wikia.com/wiki/Pest_Control), but games may take longer and there is no time limit per game.\n\nIt is easiest to do this with a friend willing to boost you/trade boosts, or during the Conquest Spotlight. You may also tag the <@&451411977894494212> role in this server to attempt to find a willing party member.",
+			"description": "[Conquest Adore](https://runescape.wikia.com/wiki/Conquest_Adore) is an achievement that requires the player to achieve the [Rank](https://runescape.wikia.com/wiki/Conquest#Rewards) of 1,250 in [Conquest](https://runescape.wikia.com/wiki/Conquest).\n\nConquest is a [minigame](https://runescape.wikia.com/wiki/Minigames) released as an addition to the [Void Knights quest series](https://runescape.wikia.com/wiki/Void_Knight_quest_series). This minigame is located at the [Void Knights' Outpost](https://runescape.wikia.com/wiki/Void_Knights%27_Outpost). To get there, either speak to the [Squire](https://runescape.wikia.com/wiki/Squire_(Void_Knights) on the pier at [Port Sarim](https://runescape.wikia.com/wiki/Port_Sarim) to travel to the island by ship free of charge, use the teleport option of a [Void knight seal](https://runescape.wikia.com/wiki/Void_knight_seal). It is a safe minigame, in which players cannot die. It awards [Void Knight commendation points](https://runescape.wikia.com/wiki/Void_Knight_commendation_points) in higher quantities than [Pest Control](https://runescape.wikia.com/wiki/Pest_Control), but games may take longer and there is no time limit per game.\n\nIt is easiest to do this with a friend willing to boost you/trade boosts, or during the Conquest Spotlight. You may also tag the <@&451411977894494212> role in this server to attempt to find a willing party member.\n\n**Note:** If a player has completed this requirement, it will **not** be lost when losing rank by helping another player get their score up.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -2817,19 +2821,23 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Death Effect](https://runescape.wikia.com/wiki/Death_Effect) is an achievement that requires the player to unlock all of the [Permanent effects](https://runescape.wikia.com/wiki/Death%27s_Store#Unlocks) from [Death's Store](https://runescape.wikia.com/wiki/Death%27s_Store). This achievement requires a total of 1,650 - 2,050 [reaper points](https://runescape.wikia.com/wiki/Reaper_points) and 0 - 4,000 [slayer points](https://runescape.wikia.com/wiki/Slayer_points).\n\nReaper points are points rewarded to the player after completing a [Soul Reaper](https://runescape.wikia.com/wiki/Soul_Reaper) task. The amount of points rewarded depends on the difficulty of the boss and if it was completed in hard mode (if available). The amount of points is increased by 25% if you have group bosses turned on, and a further 25% if you have extended tasks on. Both of these may be toggled through [Death](https://runescape.wikia.com/wiki/Death)'s interface. To receive the hard mode points reward, the player's Soul Reaper task must be all hard mode kills.\n\nUpon the completion of a specific number of tasks, additional Reaper points are awarded (non cumulative):\n• 10 extra points for every 10th task\n• 50 extra points for every 50th task\n\nPlayers may tag the <@&484082439963279361> role of this discord to try to find a partner for their tasks.\n\nPlayers also have a chance to receive a [Gift for the Reaper](https://runescape.wikia.com/wiki/Gift_for_the_Reaper) from the [Motherlode Maw](https://runescape.wikia.com/wiki/Motherlode_Maw) and the [Travelling Merchant's Shop](https://runescape.wikia.com/wiki/Travelling_Merchant%27s_Shop). You may sign up for the <@&443761366201925653> notification role to be notified when the [Travelling Merchant](https://runescape.wikia.com/wiki/Travelling_merchant) has one in stock.\n\nThis achievement requires the player to purchase the following items:",
+			"description": "[Death Effect](https://runescape.wikia.com/wiki/Death_Effect) is an achievement that requires the player to unlock all of the [Permanent effects](https://runescape.wikia.com/wiki/Death%27s_Store#Unlocks) from [Death's Store](https://runescape.wikia.com/wiki/Death%27s_Store). This achievement requires a total of 1,650 - 2,050 [reaper points](https://runescape.wikia.com/wiki/Reaper_points) and 0 - 4,000 [slayer points](https://runescape.wikia.com/wiki/Slayer_points).\n\nReaper points are points rewarded to the player after completing a [Soul Reaper](https://runescape.wikia.com/wiki/Soul_Reaper) task. The amount of points rewarded depends on the difficulty of the boss and if it was completed in hard mode (if available). The amount of points is increased by 25% if you have group bosses turned on, and a further 25% if you have extended tasks on. Both of these may be toggled through [Death](https://runescape.wikia.com/wiki/Death)'s interface. To receive the hard mode points reward, the player's Soul Reaper task must be all hard mode kills.\n\nUpon the completion of a specific number of tasks, additional Reaper points are awarded (non cumulative):\n• 10 extra points for every 10th task\n• 50 extra points for every 50th task\n\nPlayers may tag the <@&420015949287260161> role of this discord to try to find a partner for their tasks.\n\nPlayers also have a chance to receive a [Gift for the Reaper](https://runescape.wikia.com/wiki/Gift_for_the_Reaper) from the [Motherlode Maw](https://runescape.wikia.com/wiki/Motherlode_Maw) and the [Travelling Merchant's Shop](https://runescape.wikia.com/wiki/Travelling_Merchant%27s_Shop). You may sign up for the <@&443761366201925653> notification role to be notified when the [Travelling Merchant](https://runescape.wikia.com/wiki/Travelling_merchant) has one in stock.\n\nThis achievement requires the player to purchase the following items:",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
 			"fields": [{
-					"name": "Effect",
+					"name": "Effect:",
 					"value": "[Book of death](https://runescape.wikia.com/wiki/Book_of_Death)\nReaper's choice\n[Rainbow loot beam](https://runescape.wikia.com/wiki/Rainbow_loot_beam)\n[Grave loot beam](https://runescape.wikia.com/wiki/Grave_loot_beam)\nBonfire booster\nInstance cost\nAdditional tasks\nReaper scroll\nDeaths support",
 					"inline": true
 				},
 				{
-					"name": "Reaper point cost",
+					"name": "Reaper Point Cost:",
 					"value": "500\n250\n75\n75\n250\n250\n150\n250\n250",
 					"inline": true
+				},
+				{
+					"name": "​",
+					"value": "It should be noted that Reaper's choice is the first reward that should be purchased, as it supplies a random chance of being able to choose your assignment when receiving a new one.\n\nThe Rainbow loot beam, Grave loot beam, and Bonfire booster rewards may be purchased with Slayer points, however, players should ensure they have all reward unlocks and [ushtabis](http://runescape.wikia.com/wiki/Ushabti) they will need before choosing this route."
 				},
 				{
 					"name": "Requirements:",
@@ -2948,17 +2956,17 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Diaries of the Clans](http://runescape.wikia.com/wiki/Diaries_of_the_Clans) is a meta-achievement that requires the player to completely fill the [Voice of the Elders](http://runescape.wikia.com/wiki/Voice_of_the_Elders) by running laps on the [Hefin Agility Course](http://runescape.wikia.com/wiki/Hefin_Agility_Course). One [page](https://runescape.wikia.com/wiki/The_Voice_of_the_Elders) is received every 20 laps, and a total of eight are needed to complete the book.\n\nFound in the inner ring of [Prifddinas](https://runescape.wikia.com/wiki/Prifddinas) in the [Hefin Clan district](https://runescape.wikia.com/wiki/Prifddinas), the course traverses the entirety of the Hefin district going up to the top of the [Hefin Cathedral](https://runescape.wikia.com/wiki/Prifddinas) and then back down again.\n\nIn contrast to most other Agility courses, actions performed on the Hefin Agility Course can never fail, regardless of Agility level. Experience gained for traversing every obstacle and the full lap bonus are scaled and increase every 5 Agility levels. It is not possible to leave the course by any means other than finishing it (or dying), as teleportation is not allowed.",
+			"description": "[Diaries of the Clans](http://runescape.wikia.com/wiki/Diaries_of_the_Clans) is a meta-achievement that requires the player to completely fill the [Voice of the Elders](http://runescape.wikia.com/wiki/Voice_of_the_Elders) by running laps on the [Hefin Agility Course](http://runescape.wikia.com/wiki/Hefin_Agility_Course). One [page](https://runescape.wikia.com/wiki/The_Voice_of_the_Elders) is received every 20 laps, and a total of eight are needed to complete the book.\n\nFound in the inner ring of [Prifddinas](https://runescape.wikia.com/wiki/Prifddinas) in the [Hefin Clan district](https://runescape.wikia.com/wiki/Prifddinas), the course traverses the entirety of the Hefin district going up to the top of the [Hefin Cathedral](https://runescape.wikia.com/wiki/Prifddinas) and then back down again.\n\nIn contrast to most other Agility courses, actions performed on the Hefin Agility Course can never fail, regardless of Agility level. Experience gained for traversing every obstacle and the full lap bonus are scaled and increase every 5 Agility levels. It is not possible to leave the course by any means other than finishing it or dying, as teleportation is not allowed.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
 			"fields": [{
-					"name": "Clan",
+					"name": "Chapter:",
 					"value": "Cadarn\nCrwys\nIorwerth\nTrahaearn\nAmlodd\nHefin\nIthell\nMeilyr",
 					"inline": true
 				},
 				{
-					"name": "Laps",
+					"name": "Laps:",
 					"value": "20\n40\n60\n80\n100\n120\n140\n160",
 					"inline": true
 				},
@@ -3404,7 +3412,7 @@ exports.data = {
 				},
 				{
 					"name": "Feldip Tip:",
-					"value": "The eyrie is located north-west from the hunting expert's shack. To enter, ONE of the following is required:\n\t• [Garden cane](https://runescape.wikia.com/wiki/Garden_cane)\n\t• [Thatch spar](https://runescape.wikia.com/wiki/Thatch_spar)\n\t• [Teasing stick](https://runescape.wikia.com/wiki/Teasing_stick).\n\nUse one of said item on the young vine near the entrance, once stuck down it will take around an hour for the vine to grow strong enough to support a player's weight. Once the vine reaches maturity, a \"those vines should be worth checking on now\" message will appear in the player's chatbox."
+					"value": "The eyrie is located north-west from the hunting expert's shack. To enter, ONE of the following is required:\n\t• [Garden cane](https://runescape.wikia.com/wiki/Garden_cane)\n\t• [Thatch spar](https://runescape.wikia.com/wiki/Thatch_spar)\n\t• [Teasing stick](https://runescape.wikia.com/wiki/Teasing_stick)\n\nUse one of said item on the young vine near the entrance, once stuck down it will take around an hour for the vine to grow strong enough to support a player's weight. Once the vine reaches maturity, a \"those vines should be worth checking on now\" message will appear in the player's chatbox."
 				},
 				{
 					"name": "Uzer Tip:",
@@ -3444,7 +3452,7 @@ exports.data = {
 			},
 			"fields": [{
 				"name": "Requirements:",
-				"value": "• 89 Mining\n• 90 Slayer\n• 90 Farming\n• 77 Agility\n• 89 Crafting\n• 88 Summoning\n\n• Plague's End Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Plague%27s_End)\n• As a First Resort Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/As_a_First_Resort)"
+				"value": "• 89 Mining\n• 90 Slayer\n• 90 Farming\n• 77 Agility\n• 89 Crafting\n• 88 Summoning\n• 71 Divination\n\n• Plague's End Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Plague%27s_End)\n• As a First Resort Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/As_a_First_Resort)"
 			}],
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
@@ -3793,7 +3801,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Gift from Sliske](http://runescape.wikia.com/wiki/Gift_from_Sliske) is an achievement that requires the player to:\n\n• Find [Sliske](https://runescape.wikia.com/wiki/Sliske) at the [Empyrean Citadel](https://runescape.wikia.com/wiki/Empyrean_Citadel) to get the permanent effect of the [ring of visibility](https://runescape.wikia.com/wiki/Ring_of_visibility)\n\n• Bring the [Sixth-Age circuit](https://runescape.wikia.com/wiki/Sixth-Age_circuit) to the [Guthixian High Druid](https://runescape.wikia.com/wiki/Guthixian_High_Druid), who leads the mourning at the shrine in [Guthix's Cave](https://runescape.wikia.com/wiki/Guthix%27s_Cave), to add the teleport to the [World Gate](https://runescape.wikia.com/wiki/World_Gate) to the ring after completion of [Fate of the Gods]()\n\nGuthix's Cave is a large cave located a short distance west of the [Legends' Guild](https://runescape.wikia.com/wiki/Legends%27_Guild) and east of the [Ardougne](https://runescape.wikia.com/wiki/Ardougne) [Lodestone](https://runescape.wikia.com/wiki/Lodestone_Network).\n\nRegardless of whether you finished [Sliske's Endgame](https://runescape.wikia.com/wiki/Fate_of_the_Gods) or not, Sliske can be found by entering the throne room in the Empyrean Citadel, walking to the middle of it and then walking away. Sliske will then appear on the stage and after a short dialogue, you will get the ability to always see into the [Shadow Realm](https://runescape.wikia.com/wiki/Shadow_Realm).",
+			"description": "[Gift from Sliske](http://runescape.wikia.com/wiki/Gift_from_Sliske) is an achievement that requires the player to:\n\n• Find [Sliske](https://runescape.wikia.com/wiki/Sliske) at the [Empyrean Citadel](https://runescape.wikia.com/wiki/Empyrean_Citadel) to get the permanent effect of the [ring of visibility](https://runescape.wikia.com/wiki/Ring_of_visibility)\n\n• Bring the [Sixth-Age circuit](https://runescape.wikia.com/wiki/Sixth-Age_circuit) to the [Guthixian High Druid](https://runescape.wikia.com/wiki/Guthixian_High_Druid), who leads the mourning at the shrine in [Guthix's Cave](https://runescape.wikia.com/wiki/Guthix%27s_Cave), to add the teleport to the [World Gate](https://runescape.wikia.com/wiki/World_Gate) to the ring after completion of [Fate of the Gods](http://runescape.wikia.com/wiki/Fate_of_the_Gods)\n\nGuthix's Cave is a large cave located a short distance west of the [Legends' Guild](https://runescape.wikia.com/wiki/Legends%27_Guild) and east of the [Ardougne](https://runescape.wikia.com/wiki/Ardougne) [Lodestone](https://runescape.wikia.com/wiki/Lodestone_Network).\n\nRegardless of whether you finished [Sliske's Endgame](https://runescape.wikia.com/wiki/Fate_of_the_Gods) or not, Sliske can be found by entering the throne room in the Empyrean Citadel, walking to the middle of it and then walking away. Sliske will then appear on the stage and after a short dialogue, you will get the ability to always see into the [Shadow Realm](https://runescape.wikia.com/wiki/Shadow_Realm).",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -4280,7 +4288,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[I Presume These Rewards Are Mine, Death?](http://runescape.wikia.com/wiki/I_Presume_These_Rewards_Are_Mine,_Death?) is an achievement that requires the player to claim all post-quest rewards from the [Missing, Presumed Death](http://runescape.wikia.com/wiki/Missing,_Presumed_Death) quest by speaking to the [Statue of Death](https://runescape.wikia.com/wiki/Statue_of_Death), which can be found again at the [Empyrean Citadel](https://runescape.wikia.com/wiki/Empyrean_Citadel).\n\nThe only way to get to the citadel is to use the [Invitation box]() which is obtained during Missing, Presumed Death. If you lose your Invitation box you can reclaim it from [Brother Samwell](https://runescape.wikia.com/wiki/Brother_Samwell) or from the box in place of him after [Kindred Spirits](https://runescape.wikia.com/wiki/Kindred_Spirits). Brother Samwell is located in [Silvarea](https://runescape.wikia.com/wiki/Silvarea), west of [Paterdomus](https://runescape.wikia.com/wiki/Paterdomus).",
+			"description": "[I Presume These Rewards Are Mine, Death?](http://runescape.wikia.com/wiki/I_Presume_These_Rewards_Are_Mine,_Death?) is an achievement that requires the player to claim all post-quest rewards from the [Missing, Presumed Death](http://runescape.wikia.com/wiki/Missing,_Presumed_Death) quest by speaking to the [Statue of Death](https://runescape.wikia.com/wiki/Statue_of_Death), which can be found again at the [Empyrean Citadel](https://runescape.wikia.com/wiki/Empyrean_Citadel).\n\nThe only way to get to the citadel is to use the [Invitation box](http://runescape.wikia.com/wiki/Invitation_box) which is obtained during Missing, Presumed Death. If you lose your Invitation box you can reclaim it from [Brother Samwell](https://runescape.wikia.com/wiki/Brother_Samwell) or from the box in place of him after [Kindred Spirits](https://runescape.wikia.com/wiki/Kindred_Spirits). Brother Samwell is located in [Silvarea](https://runescape.wikia.com/wiki/Silvarea), west of [Paterdomus](https://runescape.wikia.com/wiki/Paterdomus).",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -4348,7 +4356,7 @@ exports.data = {
 				},
 				{
 					"name": "Guide:",
-					"value": "• [Ice Ice Chimpy delivery quick guide | Landon PvM - YouTube](https://www.youtube.com/watch?v=aVCMu26Jccg)"
+					"value": "• [Ice Ice Chimpy delivery quick guide | Landon PvM - YouTube](https://www.youtube.com/watch?v=aVCMu26Jccg)\n• [Step by Step written guide | Runescape Wiki](https://runescape.wikia.com/wiki/Chimp_ice#Tactics)"
 				}
 			],
 			"footer": {
@@ -4400,7 +4408,11 @@ exports.data = {
 			},
 			"fields": [{
 					"name": "Location Methods:",
-					"value": "• Obtain tier 4 [Menaphos](https://runescape.wikia.com/wiki/Menaphos) [reputation](https://runescape.wikia.com/wiki/Menaphos/Reputation), since this will provide a chance to spawn an impling on every gather tick within the city.\n\n• World hop within the [Gorajo resource dungeon](https://runescape.wikia.com/wiki/Gorajo_resource_dungeon)\n\n• Puro-Puro which can be accessed either at the [Zanaris](https://runescape.wikia.com/wiki/Zanaris) wheat field or the various wheat fields around RuneScape, which have temporary [crop circle](https://runescape.wikia.com/wiki/Crop_circle) portals.\n\n• [Impetuous Impulses](https://runescape.wikia.com/wiki/Impetuous_Impulses) minigame\n\n• Using a [tree-shaking scrimshaw](https://runescape.wikia.com/wiki/Tree-shaking_scrimshaw) in the [Crwys clan](https://runescape.wikia.com/wiki/Crwys_Clan) during the [Voice of Seren](https://runescape.wikia.com/wiki/Voice_of_Seren) may disturb a crystal impling, which can then be caught by the player using the scrimshaw."
+					"value": "• Obtain tier 4 [Menaphos](https://runescape.wikia.com/wiki/Menaphos) [reputation](https://runescape.wikia.com/wiki/Menaphos/Reputation), since this will provide a chance to spawn an impling on every gather tick within the city. Players can toggle which implings they want to have a chance for appearing by either the right-click option or through dialogue with the [Impling collector](https://runescape.wikia.com/wiki/Impling_collector). The impling collector can be found in the center of Menaphos on the east side of the statue of the [Pharaoh](https://runescape.wikia.com/wiki/Pharaoh), close by the [Lodestone](https://runescape.wikia.com/wiki/Lodestone_Network). "
+				},
+				{
+					"name": "​",
+					"value": "• World hop within the [Gorajo resource dungeon](https://runescape.wikia.com/wiki/Gorajo_resource_dungeon)\n\n• Puro-Puro which can be accessed either at the [Zanaris](https://runescape.wikia.com/wiki/Zanaris) wheat field or the various wheat fields around RuneScape, which have temporary [crop circle](https://runescape.wikia.com/wiki/Crop_circle) portals.\n\n• [Impetuous Impulses](https://runescape.wikia.com/wiki/Impetuous_Impulses) minigame\n\n• Using a [tree-shaking scrimshaw](https://runescape.wikia.com/wiki/Tree-shaking_scrimshaw) in the [Crwys clan](https://runescape.wikia.com/wiki/Crwys_Clan) during the [Voice of Seren](https://runescape.wikia.com/wiki/Voice_of_Seren) may disturb a crystal impling, which can then be caught by the player using the scrimshaw."
 				},
 				{
 					"name": "Required Implings:",
@@ -5007,7 +5019,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Library of Nex](http://runescape.wikia.com/wiki/Library_of_Nex) is a meta-achievement that requires the player to obtain [The Promised Gift](http://runescape.wikia.com/wiki/The_Promised_Gift) and [The Praesul](http://runescape.wikia.com/wiki/The_Praesul) by completing one [Nex: Angel of Death](https://runescape.wikia.com/wiki/Nex:_Angel_of_Death) encounter.\n\nThe entrance to her arena is a hidden door found on the south wall of the original Nex's lobby area in [God Wars Dungeon](https://runescape.wikia.com/wiki/God_Wars_Dungeon)'s [Ancient Prison](https://runescape.wikia.com/wiki/Ancient_Prison), which requires a [Frozen key](https://runescape.wikia.com/wiki/Frozen_key) and either 40 Zarosian kills or a set of [Ancient ceremonial robes](https://runescape.wikia.com/wiki/Ancient_ceremonial_robes).\n\nA team size of 7 players is recommended for this fight. Up to 50 players may battle Nex. Her attacks will affect more targets the more players there are. An instance only lasts for one kill, but are provided free of charge.\n\nPlayers may request assitance with this kill in the <#436714722847621120> channel of this discord, and view a guide on how to complete it in the <#476790691436167168> channel.\n\nFeel free to also check our boss teaching <#477196003989127168> for help with this feat.",
+			"description": "[Library of Nex](http://runescape.wikia.com/wiki/Library_of_Nex) is a meta-achievement that requires the player to obtain [The Promised Gift](http://runescape.wikia.com/wiki/The_Promised_Gift) and [The Praesul](http://runescape.wikia.com/wiki/The_Praesul) by completing one [Nex: Angel of Death](https://runescape.wikia.com/wiki/Nex:_Angel_of_Death) encounter.\n\nThe entrance to her arena is a hidden door found on the south wall of the original Nex's lobby area in [God Wars Dungeon](https://runescape.wikia.com/wiki/God_Wars_Dungeon)'s [Ancient Prison](https://runescape.wikia.com/wiki/Ancient_Prison), which requires a [Frozen key](https://runescape.wikia.com/wiki/Frozen_key) and either 40 Zarosian kills or a set of [Ancient ceremonial robes](https://runescape.wikia.com/wiki/Ancient_ceremonial_robes).\n\nA team size of 7 players is recommended for this fight. Up to 50 players may battle Nex. Her attacks will affect more targets the more players there are. An instance only lasts for one kill, but are provided free of charge.\n\nPlayers may request assitance with this kill in the <#436714722847621120> channel of this discord, and view a guide on how to complete it in the <#476790691436167168> channel.\n\nFeel free to also check our boss teaching <#458052251299348490> for help with this feat.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -5445,7 +5457,7 @@ exports.data = {
 				},
 				{
 					"name": "Found on floors",
-					"value": "[Frozen floors](https://runescape.wikia.com/wiki/Dungeoneering_floors#Frozen_floors) 1-5\nFrozen floors 6-11\n[Abandoned 1](https://runescape.wikia.com/wiki/Dungeoneering_floors#Abandoned_floors) floors 12-14\nAbandoned 1 floors 15-17\n[Furnished floors](https://runescape.wikia.com/wiki/Dungeoneering_floors#Furnished_floors) 18-22\nFurnished floors 23-29\n[Occult](https://runescape.wikia.com/wiki/Dungeoneering_floors#Occult_floors_.28m.29) floors 36-40\nOccult foors 42-47\nWarped floors 48-53\n[Warped](https://runescape.wikia.com/wiki/Dungeoneering_floors#Warped_floors_.28m.29) floors 54-60",
+					"value": "[Frozen floors](https://runescape.wikia.com/wiki/Dungeoneering_floors#Frozen_floors) 1-5\nFrozen floors 6-11\n[Abandoned 1](https://runescape.wikia.com/wiki/Dungeoneering_floors#Abandoned_floors) floors 12-14\nAbandoned 1 floors 15-17\n[Furnished floors](https://runescape.wikia.com/wiki/Dungeoneering_floors#Furnished_floors) 18-22\nFurnished floors 23-29\n[Occult](https://runescape.wikia.com/wiki/Dungeoneering_floors#Occult_floors_.28m.29) floors 36-40\nOccult foors 42-47\n[Warped](https://runescape.wikia.com/wiki/Dungeoneering_floors#Warped_floors_.28m.29) floors 48-53\nWarped floors 54-60",
 					"inline": true
 				},
 				{
@@ -5576,7 +5588,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Master of Assault](https://runescape.wikia.com/wiki/Master_of_Assault) is an achievement that requires the player to play [Barbarian Assault](https://runescape.wikia.com/wiki/Barbarian_Assault) until they have achieved the maximum rank (5) in all of the roles: [Attacker](https://runescape.wikia.com/wiki/Barbarian_Assault#Attacker), [Collector](https://runescape.wikia.com/wiki/Barbarian_Assault#Collector), [Defender](https://runescape.wikia.com/wiki/Barbarian_Assault#Defender), and [Healer](https://runescape.wikia.com/wiki/Barbarian_Assault#Healer).\n\nPlayers may wish to utilize the friend's chat `ba teams` or the <#466104776204222465> tag in this server to help complete this requirement.\n\nThis should be completed in [Hard mode](https://runescape.wikia.com/wiki/Barbarian_Assault:_Hard_Mode) for maximum points per round. Barbarian Assault hard mode is unlocked permanently upon playing through all 10 waves of normal mode, killing the [Penance Queen](https://runescape.wikia.com/wiki/Penance_Queen) one time. After doing so, simply right-clicking a [recruitment scroll](https://runescape.wikia.com/wiki/Scroll_(Barbarian_Assault) in the staging area for Wave 1 will let a player select to activate hard mode. Hard mode can only be activated from the first room, but can be deactivated, at the cost of any progress, in any wave's staging area.",
+			"description": "[Master of Assault](https://runescape.wikia.com/wiki/Master_of_Assault) is an achievement that requires the player to play [Barbarian Assault](https://runescape.wikia.com/wiki/Barbarian_Assault) until they have achieved the maximum rank (5) in all of the roles: [Attacker](https://runescape.wikia.com/wiki/Barbarian_Assault#Attacker), [Collector](https://runescape.wikia.com/wiki/Barbarian_Assault#Collector), [Defender](https://runescape.wikia.com/wiki/Barbarian_Assault#Defender), and [Healer](https://runescape.wikia.com/wiki/Barbarian_Assault#Healer).\n\nPlayers may wish to utilize the friend's chat **ba teams** or the <@&382960080125165568> role in this server to help complete this requirement.\n\nThis should be completed in [Hard mode](https://runescape.wikia.com/wiki/Barbarian_Assault:_Hard_Mode) for maximum points per round. Barbarian Assault hard mode is unlocked permanently upon playing through all 10 waves of normal mode, killing the [Penance Queen](https://runescape.wikia.com/wiki/Penance_Queen) one time. After doing so, simply right-clicking a [recruitment scroll](https://runescape.wikia.com/wiki/Scroll_(Barbarian_Assault) in the staging area for Wave 1 will let a player select to activate hard mode. Hard mode can only be activated from the first room, but can be deactivated, at the cost of any progress, in any wave's staging area.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -5590,7 +5602,7 @@ exports.data = {
 				},
 				{
 					"name": "Resources:",
-					"value": "• [BA Teams Discord](https://discord.gg/XUuhc9y)\n• [Leech BA](https://discord.gg/XUuhc9y)"
+					"value": "• [BA Teams Discord](https://discord.gg/XUuhc9y)\n• [Leech BA Discord](https://discord.gg/j4DgZBj) | [Leech BA Cost Calculator](http://leechba.ml/calculator)"
 				}
 			],
 			"footer": {
@@ -5664,7 +5676,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Mazcab Teleport](https://runescape.wikia.com/wiki/Mazcab_Teleport_(achievement) is an achievement that requires the player to unlock the [Mazcab Teleport spell](https://runescape.wikia.com/wiki/Mazcab_Teleport) by reading a [Mazcab teleport codex](https://runescape.wikia.com/wiki/Mazcab_teleport_codex). It can be bought from the [Armoursmith](https://runescape.wikia.com/wiki/Armoursmith) for 2,000 [Teci](https://runescape.wikia.com/wiki/Teci).\n\nTeci is the currency of the [Liberation of Mazcab](https://runescape.wikia.com/wiki/Liberation_of_Mazcab) Raid. It is obtained by defeating [Beastmaster Durzag](https://runescape.wikia.com/wiki/Beastmaster_Durzag) and [Yakamaru](https://runescape.wikia.com/wiki/Yakamaru).\n\nYou may post in the #436714722847621120 channel if you are in need of a Raids Team for this requirement.",
+			"description": "[Mazcab Teleport](https://runescape.wikia.com/wiki/Mazcab_Teleport_(achievement) is an achievement that requires the player to unlock the [Mazcab Teleport spell](https://runescape.wikia.com/wiki/Mazcab_Teleport) by reading a [Mazcab teleport codex](https://runescape.wikia.com/wiki/Mazcab_teleport_codex). It can be bought from the [Armoursmith](https://runescape.wikia.com/wiki/Armoursmith) for 2,000 [Teci](https://runescape.wikia.com/wiki/Teci).\n\nTeci is the currency of the [Liberation of Mazcab](https://runescape.wikia.com/wiki/Liberation_of_Mazcab) Raid. It is obtained by defeating [Beastmaster Durzag](https://runescape.wikia.com/wiki/Beastmaster_Durzag) and [Yakamaru](https://runescape.wikia.com/wiki/Yakamaru).\n\nYou may post in the <#436714722847621120> channel, or view our Raids <#458052251299348490> if you are in need of a Raids Team for this requirement.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -6128,7 +6140,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Music Maestro](http://runescape.wikia.com/wiki/Music_Maestro) is an achievement that tracks the amount of [music tracks](https://runescape.wikia.com/wiki/Music) the player has unlocked. The current total is 1229. You can click on the song in game to view what needs done in order to unlock it.\n\nMusic in RuneScape is mostly in-game background music (music tracks) designed to enhance a player's gaming experience and fit with the environment the avatar is in. Music in RuneScape draws inspiration from progressive rock, with elements of classical and world music. Players need to unlock most tracks during gameplay by going to a particular [place](https://runescape.wikia.com/wiki/Locations), completing a [quest](https://runescape.wikia.com/wiki/Quests), or performing some action.",
+			"description": "[Music Maestro](http://runescape.wikia.com/wiki/Music_Maestro) is an achievement that tracks the amount of [music tracks](https://runescape.wikia.com/wiki/Music) the player has unlocked. The current total is located [here](http://runescape.wikia.com/wiki/Music_Maestro). You can click on the song in game to view what needs done in order to unlock it.\n\nMusic in RuneScape is mostly in-game background music tracks that are designed to enhance a player's gaming experience and fit with the environment the avatar is in. Music in RuneScape draws inspiration from progressive rock, with elements of classical and world music. Players need to unlock most tracks during gameplay by going to a particular [place](https://runescape.wikia.com/wiki/Locations), completing a [quest](https://runescape.wikia.com/wiki/Quests), or performing some action.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -6138,7 +6150,7 @@ exports.data = {
 				},
 				{
 					"name": "​",
-					"value": "• **80 Prayer** for Heart of Gielinor (Gregorovic, Telos) and The Light Within Quest\n• **80 Ranged** for Heart of Gielinor (Twin Furies, Telos)\n• **66 Runecrafting** for Runespan (Upper level)\n• **115 Slayer** for Sophanem Slayer Dungeon (The Magister)\n• **82 Smithing** for Birthright of the Dwarves Quest\n• **85 Strength** for Birthright of the Dwarves Quest\n• **75 Summoning** for Plague's End Quest\n• **75 Thieving** for Flash Powder Factory Quest\n• **80 Woodcutting** for The Light Within Quest\n• **275 Quest points** for Ritual of the Mahjarrat Quest\n• **Quest point cape or 99 cape in any skill** for Max Guild Garden access\n• **Combat level 110** for Kuradal's Dungeon access\n• **350 Tasks** for the music track unlock"
+					"value": "• **80 Prayer** for Heart of Gielinor (Gregorovic, Telos) and The Light Within Quest\n• **80 Ranged** for Heart of Gielinor (Twin Furies, Telos)\n• **66 Runecrafting** for Runespan (Upper level)\n• **115 Slayer** for Sophanem Slayer Dungeon (The Magister)\n• **82 Smithing** for Birthright of the Dwarves Quest\n• **85 Strength** for Birthright of the Dwarves Quest\n• **75 Summoning** for Plague's End Quest\n• **75 Thieving** for the Flash Powder Factory Minigame\n• **80 Woodcutting** for The Light Within Quest\n• **275 Quest points** for Ritual of the Mahjarrat Quest\n• **Quest point cape or 99 cape in any skill** for Max Guild Garden access\n• **Combat level 110** for Kuradal's Dungeon access\n• **350 Tasks** for the music track unlock"
 				},
 				{
 					"name": "Guide:",
@@ -6838,7 +6850,7 @@ exports.data = {
 				},
 				{
 					"name": "Resources:",
-					"value": "• [BA Teams Discord](https://discord.gg/XUuhc9y)\n• [Leech BA](https://discord.gg/XUuhc9y)"
+					"value": "• [BA Teams Discord](https://discord.gg/XUuhc9y)\n• [Leech BA Discord](https://discord.gg/j4DgZBj) | [Leech BA Cost Calculator](http://leechba.ml/calculator)"
 				}
 			],
 			"footer": {
@@ -6862,7 +6874,7 @@ exports.data = {
 			},
 			"fields": [{
 					"name": "​",
-					"value": "• [Zombie outfit](https://runescape.wikia.com/wiki/Zombie_outfit_(New_Varrock)\n• [New Varrock cultist robes](https://runescape.wikia.com/wiki/New_Varrock_cultist_robes)\n• [Tiny Zemouregal (pet)](https://runescape.wikia.com/wiki/Tiny_Zemouregal_(pet)\n• [Arrav outfit](https://runescape.wikia.com/wiki/Arrav_outfit) ovveride\n\n\n• [Necrofelinomicon](https://runescape.wikia.com/wiki/Necrofelinomicon_(override) override\n• [Arrav's sword](https://runescape.wikia.com/wiki/Arrav%27s_sword) override\n• [Curse of Arrav](https://runescape.wikia.com/wiki/Dimension_of_Disaster:_Curse_of_Arrav)boss fight shortcut\n• [Demon Slayer](https://runescape.wikia.com/wiki/Dimension_of_Disaster:_Demon_Slayer) boss fight shortcut\n\nIt is recommended to buy the Curse of Arrav boss fight shortcut first, and the Demon Slayer boss fight shortcut second, in order to make the subsequent playthroughs much quicker."
+					"value": "• [Zombie outfit](https://runescape.wikia.com/wiki/Zombie_outfit_(New_Varrock)\n• [New Varrock cultist robes](https://runescape.wikia.com/wiki/New_Varrock_cultist_robes)\n• [Tiny Zemouregal (pet)](https://runescape.wikia.com/wiki/Tiny_Zemouregal_(pet)\n• [Arrav outfit](https://runescape.wikia.com/wiki/Arrav_outfit) overide\n\n\n• [Necrofelinomicon](https://runescape.wikia.com/wiki/Necrofelinomicon_(override) override\n• [Arrav's sword](https://runescape.wikia.com/wiki/Arrav%27s_sword) override\n• [Curse of Arrav](https://runescape.wikia.com/wiki/Dimension_of_Disaster:_Curse_of_Arrav) boss fight shortcut\n• [Demon Slayer](https://runescape.wikia.com/wiki/Dimension_of_Disaster:_Demon_Slayer) boss fight shortcut\n\nIt is recommended to buy the Curse of Arrav boss fight shortcut first, and the Demon Slayer boss fight shortcut second, in order to make the subsequent playthroughs much quicker."
 				},
 				{
 					"name": "Requirements:",
@@ -6999,7 +7011,7 @@ exports.data = {
 					"value": "The Mightiest turoth is immune to all damage not dealt via a [Leaf-bladed spear](https://runescape.wikia.com/wiki/Leaf-bladed_spear), a [Leaf-bladed sword](https://runescape.wikia.com/wiki/Leaf-bladed_sword), [Broad arrows](https://runescape.wikia.com/wiki/Broad_arrow), [Broad-tipped bolts](https://runescape.wikia.com/wiki/Broad-tipped_bolts), or the [Slayer Dart spell](https://runescape.wikia.com/wiki/Slayer_Dart). The recommended strategy for fighting the Mightiest turoth is to use Slayer Dart. It summons some [Swarming turoths](https://runescape.wikia.com/wiki/Swarming_turoth) (level 68) to aid it."
 				},
 				{
-					"name": "Kurask Iverlord:",
+					"name": "Kurask Overlord:",
 					"value": "The Kurask overlord is immune to all damage not dealt via a [Leaf-bladed spear](https://runescape.wikia.com/wiki/Leaf-bladed_spear), a [Leaf-bladed sword](https://runescape.wikia.com/wiki/Leaf-bladed_sword), [Broad arrows](https://runescape.wikia.com/wiki/Broad_arrow), [Broad-tipped bolts](https://runescape.wikia.com/wiki/Broad-tipped_bolts), or the [Slayer Dart spell](https://runescape.wikia.com/wiki/Slayer_Dart). The recommended strategy for fighting the Mightiest turoth is to use Slayer Dart. [Kurask minions](https://runescape.wikia.com/wiki/Kurask_minion) are summoned by the kurask overlord when fighting him."
 				},
 				{
@@ -7032,7 +7044,7 @@ exports.data = {
 				},
 				{
 					"name": "​",
-					"value": "A player who hasn't talked to Lady Meilyr can generate a page, but they cannot pick it up and it will be invisible to other players. Attempting to do so will get the message: \"You need to get a journal from Lady Meilyr in Prifddinas before you can start collecting these.\"\n\nPlayers can obtain a one-time Melee XP lamp by giving a Super melee potion to her. Simply giving it to her does not work though. Players must talk to her, select \"1. What can I do here?\", then \"3. Ask about combination potion recipes\". She will then ask \"Ah, I see you have a super melee potion there. Can I have it?\". Upon giving her the potion at this point, she will hand you the lamp and exclaim: \"There you go, but don't lose it. That's the only one!\"\n\nWearing the [Dungeoneering master cape](https://runescape.wikia.com/wiki/Dungeoneering_master_cape) will increase the chance of receiving lore drops within Dungeoneering.."
+					"value": "A player who hasn't talked to Lady Meilyr can generate a page, but they cannot pick it up and it will be invisible to other players. Attempting to do so will get the message: \"You need to get a journal from Lady Meilyr in Prifddinas before you can start collecting these.\"\n\nPlayers can obtain a one-time Melee XP lamp by giving a Super melee potion to her. Simply giving it to her does not work though. Players must talk to her, select \"1. What can I do here?\", then \"3. Ask about combination potion recipes\". She will then ask \"Ah, I see you have a super melee potion there. Can I have it?\". Upon giving her the potion at this point, she will hand you the lamp and exclaim: \"There you go, but don't lose it. That's the only one!\"\n\nWearing the [Dungeoneering master cape](https://runescape.wikia.com/wiki/Dungeoneering_master_cape) will increase the chance of receiving lore drops within Dungeoneering."
 				},
 				{
 					"name": "Requirements:",
@@ -7060,7 +7072,7 @@ exports.data = {
 			},
 			"fields": [{
 					"name": "​",
-					"value": "The [Elite Dungeon Reward Shop](https://runescape.wikia.com/wiki/Elite_Dungeon_Reward_Shop) is a shop run by [Bryll Thoksdottir](https://runescape.wikia.com/wiki/Bryll_Thoksdottir) that sells unlocks and consumables. It's located south of Daemonheim near the [Dungeoneering reward shop](https://runescape.wikia.com/wiki/Dungeoneering/Rewards). The player can purchase team and solo Gorajo cards here in the hopes of receiving a Consistent Yak card, though the chance is low.\n\nA player who hasn't talked to Lady Meilyr can generate a page, but they cannot pick it up and it will be invisible to other players. Attempting to do so will get the message: \"You need to get a journal from Lady Meilyr in Prifddinas before you can start collecting these."
+					"value": "The [Elite Dungeon Reward Shop](https://runescape.wikia.com/wiki/Elite_Dungeon_Reward_Shop) is a shop run by [Bryll Thoksdottir](https://runescape.wikia.com/wiki/Bryll_Thoksdottir) that sells unlocks and consumables. It's located south of Daemonheim near the [Dungeoneering reward shop](https://runescape.wikia.com/wiki/Dungeoneering/Rewards). The player can purchase team and solo Gorajo cards here in the hopes of receiving a Consistent Yak card, though the chance is low.\n\nA player who hasn't talked to Lady Meilyr can generate a page, but they cannot pick it up and it will be invisible to other players. Attempting to do so will get the message: \"You need to get a journal from Lady Meilyr in Prifddinas before you can start collecting these.\""
 				},
 				{
 					"name": "Requirements:",
@@ -7289,7 +7301,7 @@ exports.data = {
 				},
 				{
 					"name": "​",
-					"value": "**Crafting**\n• [Crystal Flasks](https://runescape.wikia.com/wiki/Crystal_flask) or [Potion Flasks](https://runescape.wikia.com/wiki/Potion_flask) made with Daily [Crystal Glass](https://runescape.wikia.com/wiki/Crystal_glass) or [Robust Glass](https://runescape.wikia.com/wiki/Robust_glass) in any district where the Voice of Seren is active\n• [Empty light orb](https://runescape.wikia.com/wiki/Empty_light_orb) from [Molten Glass](https://runescape.wikia.com/wiki/Molten_glass)\n• Playing the [Harps](https://runescape.wikia.com/wiki/Harp) in Prifddinas\n\n**Farming**\n• [Rumberry Bushes](https://runescape.wikia.com/wiki/Rumberry_bush) on [Tuai Leit](https://runescape.wikia.com/wiki/Tuai_Leit)\n• [Grapvine](https://www.youtube.com/watch?v=EKBj8-gF28M) Runs with [Herb Run](https://www.youtube.com/watch?v=TzNhjl2RZ1c)"
+					"value": "**Crafting**\n• [Crystal Flasks](https://runescape.wikia.com/wiki/Crystal_flask) or [Potion Flasks](https://runescape.wikia.com/wiki/Potion_flask) made with Daily [Crystal Glass](https://runescape.wikia.com/wiki/Crystal_glass) or [Robust Glass](https://runescape.wikia.com/wiki/Robust_glass) in any district where the Voice of Seren is active\n• [Empty light orb](https://runescape.wikia.com/wiki/Empty_light_orb) from [Molten Glass](https://runescape.wikia.com/wiki/Molten_glass)\n• Playing the [Harps](https://runescape.wikia.com/wiki/Harp) in Prifddinas\n\n**Farming**\n• [Rumberry Bushes](https://runescape.wikia.com/wiki/Rumberry_bush) on [Tuai Leit](https://runescape.wikia.com/wiki/Tuai_Leit)\n• [Grapvine](https://www.youtube.com/watch?v=EKBj8-gF28M) runs with [Herb Run](https://www.youtube.com/watch?v=TzNhjl2RZ1c)\n• [Manure mound](http://runescape.wikia.com/wiki/Manure_mound)"
 				},
 				{
 					"name": "​",
@@ -7463,7 +7475,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Scribblings of a Dragonkin](http://runescape.wikia.com/wiki/Scribblings_of_a_Dragonkin) is an achievement that requires the player to collect [Vicendithas' Scribblings]() inside of the [Edimmu resource dungeon](https://runescape.wikia.com/wiki/Edimmu_resource_dungeon).\n\nVicendithas' Scribblings is a book found by searching the [Dragonkin](https://runescape.wikia.com/wiki/Dragonkin) mural.\n\nThe Edimmu resource dungeon is a [resource dungeon](https://runescape.wikia.com/wiki/Resource_dungeon) in the [Meilyr Clan](https://runescape.wikia.com/wiki/Meilyr_Clan) district of [Prifddinas](https://runescape.wikia.com/wiki/Prifddinas).",
+			"description": "[Scribblings of a Dragonkin](http://runescape.wikia.com/wiki/Scribblings_of_a_Dragonkin) is an achievement that requires the player to collect [Vicendithas' Scribblings](http://runescape.wikia.com/wiki/Vicendithas%27_Scribblings) inside of the [Edimmu resource dungeon](https://runescape.wikia.com/wiki/Edimmu_resource_dungeon).\n\nVicendithas' Scribblings is a book found by searching the [Dragonkin](https://runescape.wikia.com/wiki/Dragonkin) altar.\n\nThe Edimmu resource dungeon is a [resource dungeon](https://runescape.wikia.com/wiki/Resource_dungeon) in the [Meilyr Clan](https://runescape.wikia.com/wiki/Meilyr_Clan) district of [Prifddinas](https://runescape.wikia.com/wiki/Prifddinas).",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -7737,12 +7749,12 @@ exports.data = {
 				"name": "RuneScore Achievement Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Skeletal Wishes](http://runescape.wikia.com/wiki/Skeletal_Wishes) is an achievement that requires the player to complete the [Rag and Bone Man wish list](https://runescape.wikia.com/wiki/Rag_and_Bone_Man/Wish_list) and the [Fur 'n' Seek wish list](https://runescape.wikia.com/wiki/Fur_'n'_Seek/Wish_list), and then having the[ Odd Old Man](https://runescape.wikia.com/wiki/Odd_Old_Man) rebuild the [skeletal horror](https://runescape.wikia.com/wiki/Skeletal_horror).\n\nAfter completing the wish list from the Fur 'n' Seek quest, it is revealed that the old man had found the remains of a powerful, undead, mind-controlling skeletal horror and carried them in the sack on his back for over 10 years, and the bones collected by the player during the quests and wish lists were needed to construct the beast. It is also revealed that he used the furs from Fur 'n' Seek to make himself a new outfit. The player then defeats the Skeletal Horror, freeing the Odd Old Man from its control. Afterwards, the old man sets about rebuilding the monster for research purposes and invites the player to return once a week to ensure the beast is kept under control.\n\n• None of the bone drops are 100%, but they are fairly common.\n•No more than 40 kills should be required for any special bone.\n•The monsters you need to kill are mentioned on the wish list.",
+			"description": "[Skeletal Wishes](http://runescape.wikia.com/wiki/Skeletal_Wishes) is an achievement that requires the player to complete the [Rag and Bone Man wish list](https://runescape.wikia.com/wiki/Rag_and_Bone_Man/Wish_list) and the [Fur 'n' Seek wish list](https://runescape.wikia.com/wiki/Fur_'n'_Seek/Wish_list), and then having the[ Odd Old Man](https://runescape.wikia.com/wiki/Odd_Old_Man) rebuild the [skeletal horror](https://runescape.wikia.com/wiki/Skeletal_horror).\n\nAfter completing the wish list from the Fur 'n' Seek quest, it is revealed that the old man had found the remains of a powerful, undead, mind-controlling skeletal horror and carried them in the sack on his back for over 10 years, and the bones collected by the player during the quests and wish lists were needed to construct the beast. It is also revealed that he used the furs from Fur 'n' Seek to make himself a new outfit. The player then defeats the Skeletal Horror, freeing the Odd Old Man from its control. Afterwards, the old man sets about rebuilding the monster for research purposes and invites the player to return once a week to ensure the beast is kept under control.\n\n• None of the bone drops are 100%, but they are fairly common.\n• No more than 40 kills should be required for any special bone.\n• The monsters you need to kill are mentioned on the wish list.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
 			"fields": [{
-					"name": "Skeleal Horror Guide:",
+					"name": "Skeletal Horror Guide:",
 					"value": "For every 12,500 damage dealt to the Skeletal Horror an appendage will be thrown to a corner of the battlefield. First the [right arm](https://runescape.wikia.com/wiki/Arm_(right) will fall off, then the [left arm](https://runescape.wikia.com/wiki/Arm_(left), and finally the [tail](https://runescape.wikia.com/wiki/Tail).\n\nWhen an appendage is lost the skeletal horror will become weakened; lowering the combat level, the max hit, accuracy, and defensive capabilities of the skeletal horror. The appendages must be picked up into the player's [inventory](https://runescape.wikia.com/wiki/Inventory) and buried. If left on the ground or in your inventory, the appendage will reattach to the Skeletal horror, healing back the damage dealt, and restoring its combat stats."
 				},
 				{
@@ -7781,7 +7793,7 @@ exports.data = {
 				},
 				{
 					"name": "Items Required (Fur 'n' Seek):",
-					"value": "• [Witchwood icon](https://runescape.wikia.com/wiki/Witchwood_icon)\n• A light soure\n• 20 [Pots of vinegar](https://runescape.wikia.com/wiki/Pot_of_vinegar)\n• 20 Logs (any type)\n•[Teasing stick](https://runescape.wikia.com/wiki/Teasing_stick) and logs for hunting Sabre-toothed kyatt\n• [Golden Fleece](https://runescape.wikia.com/wiki/Golden_fleece) (Buy from [Lalli](https://runescape.wikia.com/wiki/Lalli) for 1,000 coins. He's near the [Golden Apple Tree](https://runescape.wikia.com/wiki/Golden_Apple_Tree), south-east of [Rellekka](https://runescape.wikia.com/wiki/Rellekka).)"
+					"value": "• [Witchwood icon](https://runescape.wikia.com/wiki/Witchwood_icon)\n• A light soure\n• 20 [Pots of vinegar](https://runescape.wikia.com/wiki/Pot_of_vinegar)\n• 20 Logs (any type)\n• [Teasing stick](https://runescape.wikia.com/wiki/Teasing_stick) and logs for hunting Sabre-toothed kyatt\n• [Golden Fleece](https://runescape.wikia.com/wiki/Golden_fleece) (Buy from [Lalli](https://runescape.wikia.com/wiki/Lalli) for 1,000 coins. He's near the [Golden Apple Tree](https://runescape.wikia.com/wiki/Golden_Apple_Tree), south-east of [Rellekka](https://runescape.wikia.com/wiki/Rellekka).)"
 				},
 				{
 					"name": "​",
@@ -7797,7 +7809,7 @@ exports.data = {
 				},
 				{
 					"name": "​",
-					"value": "• [Big Snake](https://runescape.wikia.com/wiki/Big_Snake) or [Sea snake young](https://runescape.wikia.com/wiki/Sea_snake_young) or [Giant Sea Snake](https://runescape.wikia.com/wiki/Giant_Sea_Snake)\n• Any [Giant](https://runescape.wikia.com/wiki/Giant)\n• [Nail beast](https://runescape.wikia.com/wiki/Nail_beast) or [Gorak](https://runescape.wikia.com/wiki/Gorak) or [Giant Mole](https://runescape.wikia.com/wiki/Giant_Mole) or [Wild kebbit](https://runescape.wikia.com/wiki/Wild_kebbit)\n• [Aquanite](https://runescape.wikia.com/wiki/Aquanite)\n• [Skeletal horror](https://runescape.wikia.com/wiki/Skeletal_horror) (after collecting all the bones)\n\nAside from the Skeleal Horror, each of the above monsters will need to be killed until they drop their [respective bone](https://vignette.wikia.nocookie.net/runescape2/images/5/5c/FNSWL.png/revision/latest?cb=20090815192449)."
+					"value": "• [Big Snake](https://runescape.wikia.com/wiki/Big_Snake) or [Sea snake young](https://runescape.wikia.com/wiki/Sea_snake_young) or [Giant Sea Snake](https://runescape.wikia.com/wiki/Giant_Sea_Snake)\n• Any [Giant](https://runescape.wikia.com/wiki/Giant)\n• [Nail beast](https://runescape.wikia.com/wiki/Nail_beast) or [Gorak](https://runescape.wikia.com/wiki/Gorak) or [Giant Mole](https://runescape.wikia.com/wiki/Giant_Mole) or [Wild kebbit](https://runescape.wikia.com/wiki/Wild_kebbit)\n• [Aquanite](https://runescape.wikia.com/wiki/Aquanite)\n• [Skeletal horror](https://runescape.wikia.com/wiki/Skeletal_horror) (after collecting all the bones)\n\nAside from the Skeletal Horror, each of the above monsters will need to be killed until they drop their [respective bone](https://vignette.wikia.nocookie.net/runescape2/images/5/5c/FNSWL.png/revision/latest?cb=20090815192449)."
 				},
 				{
 					"name": "Requirements:",
@@ -8175,7 +8187,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Stone's Throw Away](https://runescape.wikia.com/wiki/Stone%27s_Throw_Away) is an achievement that requires the player to collect all 30 [Replica statue pieces](https://runescape.wikia.com/wiki/Replica_statue_piece) to use on the [Dahmaroc statue](https://runescape.wikia.com/wiki/Dahmaroc_statue) in your house's [Study](https://runescape.wikia.com/wiki/Study). The Dahmaroc statue is built on the [Statue plinth](https://runescape.wikia.com/wiki/Statue_plinth) located in the [Varrock Museum](https://runescape.wikia.com/wiki/Varrock_Museum) and is built while participating in the [Shattered Heart](https://runescape.wikia.com/wiki/Shattered_Heart) [Distraction and Diversion](https://runescape.wikia.com/wiki/Distractions_and_Diversions). You can build 1 statue per week. This achievement can only be completed while in [Building mode](https://runescape.wikia.com/wiki/Building_mode), completing it outside building mode will not complete the achievement, but once switched to building mode it will automatically be completed if the statue is complete.\n\nPlayers should note:\n• Rocks are obtained randomly based on the number of experience drops, not on the size of the experience drop. \n• Rock chances reduce for the given skill when gaining the first rock, so you should switch skills in-between. \n• It is beneficial to obtain rocks while capping if that is something your clan requires.\n• It is beneficial to do the Dahmaroc statue and [Statue of Rhiannon](https://runescape.wikia.com/wiki/Statue_of_Rhiannon) simultaneously. Although the Statue of Rhiannon has no time lock, many skills are shared with the Dahmaroc statue, making them being done together a viable option.\n• The rocks must be added in pairs, and can be stored in the [Statue collection bag]( https://runescape.wikia.com/wiki/Statue_collection_bag).",
+			"description": "[Stone's Throw Away](https://runescape.wikia.com/wiki/Stone%27s_Throw_Away) is an achievement that requires the player to collect all 30 [Replica statue pieces](https://runescape.wikia.com/wiki/Replica_statue_piece) to use on the [Dahmaroc statue](https://runescape.wikia.com/wiki/Dahmaroc_statue) in your house's [Study](https://runescape.wikia.com/wiki/Study). The Dahmaroc statue is built on the [Statue plinth](https://runescape.wikia.com/wiki/Statue_plinth) located in the [Varrock Museum](https://runescape.wikia.com/wiki/Varrock_Museum) and is built while participating in the [Shattered Heart](https://runescape.wikia.com/wiki/Shattered_Heart) [Distraction and Diversion](https://runescape.wikia.com/wiki/Distractions_and_Diversions). You can build 1 statue per week, where a week is based on when you added your last rock, not on the weekly reset. This achievement can only be completed while in [Building mode](https://runescape.wikia.com/wiki/Building_mode), completing it outside building mode will not complete the achievement, but once switched to building mode it will automatically be completed if the statue is complete.\n\nPlayers should note:\n• Rocks are obtained randomly based on the number of experience drops, not on the size of the experience drop. \n• Rock chances reduce for the given skill when gaining the first rock, so you should switch skills in-between. \n• It is beneficial to obtain rocks while capping if that is something your clan requires.\n• It is beneficial to do the Dahmaroc statue and [Statue of Rhiannon](https://runescape.wikia.com/wiki/Statue_of_Rhiannon) simultaneously. Although the Statue of Rhiannon has no time lock, many skills are shared with the Dahmaroc statue, making them being done together a viable option.\n• The rocks must be added in pairs, and can be stored in the [Statue collection bag]( https://runescape.wikia.com/wiki/Statue_collection_bag).",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -8193,7 +8205,7 @@ exports.data = {
 				},
 				{
 					"name": "​",
-					"value": "**Crafting**\n• [Crystal Flasks](https://runescape.wikia.com/wiki/Crystal_flask) or [Potion Flasks](https://runescape.wikia.com/wiki/Potion_flask) made with Daily [Crystal Glass](https://runescape.wikia.com/wiki/Crystal_glass) or [Robust Glass](https://runescape.wikia.com/wiki/Robust_glass) in any district where the Voice of Seren is active\n• [Empty light orb](https://runescape.wikia.com/wiki/Empty_light_orb) from [Molten Glass](https://runescape.wikia.com/wiki/Molten_glass)\n• Playing the [Harps](https://runescape.wikia.com/wiki/Harp) in Prifddinas\n\n**Farming**\n• [Rumberry Bushes](https://runescape.wikia.com/wiki/Rumberry_bush) on [Tuai Leit](https://runescape.wikia.com/wiki/Tuai_Leit)\n• [Grapvine](https://www.youtube.com/watch?v=EKBj8-gF28M) Runs with [Herb Run](https://www.youtube.com/watch?v=TzNhjl2RZ1c)"
+					"value": "**Crafting**\n• [Crystal Flasks](https://runescape.wikia.com/wiki/Crystal_flask) or [Potion Flasks](https://runescape.wikia.com/wiki/Potion_flask) made with Daily [Crystal Glass](https://runescape.wikia.com/wiki/Crystal_glass) or [Robust Glass](https://runescape.wikia.com/wiki/Robust_glass) in any district where the Voice of Seren is active\n• [Empty light orb](https://runescape.wikia.com/wiki/Empty_light_orb) from [Molten Glass](https://runescape.wikia.com/wiki/Molten_glass)\n• Playing the [Harps](https://runescape.wikia.com/wiki/Harp) in Prifddinas\n\n**Farming**\n• [Rumberry Bushes](https://runescape.wikia.com/wiki/Rumberry_bush) on [Tuai Leit](https://runescape.wikia.com/wiki/Tuai_Leit)\n• [Grapvine](https://www.youtube.com/watch?v=EKBj8-gF28M) runs with [Herb Run](https://www.youtube.com/watch?v=TzNhjl2RZ1c)\n• [Manure mound](http://runescape.wikia.com/wiki/Manure_mound)"
 				},
 				{
 					"name": "​",
@@ -8643,7 +8655,7 @@ exports.data = {
 				},
 				{
 					"name": "Items Required:",
-					"value": "• [Uncharged TokKul-Zo](https://runescape.wikia.com/wiki/TokKul-Zo)\n• At least one piece of [Obsidian equipment](https://runescape.wikia.com/wiki/Obsidian_equipment#Armour), [Obsidian gloves](https://runescape.wikia.com/wiki/Obsidian_gloves) or [Obsidian boots](https://runescape.wikia.com/wiki/Obsidian_boots) being cheapest to make\n• 15,000 [Tokkul](https://runescape.wikia.com/wiki/Tokkul)\n• X number of [Obsidian shards](https://runescape.wikia.com/wiki/Obsidian_shard) equal to the current [Runedate](https://runescape.wikia.com/wiki/Runedate)\n• [Ring of stone](https://runescape.wikia.com/wiki/Ring_of_stone)\n• [Ring of visibility](https://runescape.wikia.com/wiki/Ring_of_visibility)"
+					"value": "• [Uncharged TokKul-Zo](https://runescape.wikia.com/wiki/TokKul-Zo)\n• At least one piece of [Obsidian equipment](https://runescape.wikia.com/wiki/Obsidian_equipment#Armour), [Obsidian gloves](https://runescape.wikia.com/wiki/Obsidian_gloves) or [Obsidian boots](https://runescape.wikia.com/wiki/Obsidian_boots) being cheapest to make\n• 15,000 [Tokkul](https://runescape.wikia.com/wiki/Tokkul)\n• X number of [Obsidian shards](https://runescape.wikia.com/wiki/Obsidian_shard) equal to the current [Runedate](https://runescape.wikia.com/wiki/Runedate) divided by 10\n• [Ring of stone](https://runescape.wikia.com/wiki/Ring_of_stone)\n• [Ring of visibility](https://runescape.wikia.com/wiki/Ring_of_visibility)"
 				},
 				{
 					"name": "Enemies to Defeat:",
@@ -8800,7 +8812,7 @@ exports.data = {
 				},
 				{
 					"name": "Requirements:",
-					"value": "• Level 90 in Slayer, Fishing and Runecrafting\n\t\tOR\n• Level 90 in Herblore, Thieving, and Prayer\n\t\tOR\n• Level 90 in Cooking, Huntering, and Construction\n\t\tOR\n• Level 90 in Divination, Dungeoneering, and Agility"
+					"value": "• Level 90 in Slayer, Fishing and Runecrafting\n\t\tOR\n• Level 90 in Herblore, Thieving, and Prayer\n\t\tOR\n• Level 90 in Cooking, Hunter, and Construction\n\t\tOR\n• Level 90 in Divination, Dungeoneering, and Agility"
 				},
 				{
 					"name": "Guide:",
@@ -8972,7 +8984,7 @@ exports.data = {
 			},
 			"fields": [{
 					"name": "Requirements:",
-					"value": "• 89 Minng*\n• 89 Smihing\n\n• Plague's End Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Plague%27s_End)"
+					"value": "• 89 Mining*\n• 89 Smithing\n\n• Plague's End Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Plague%27s_End)"
 				},
 				{
 					"name": "Guide:",
@@ -9118,7 +9130,7 @@ exports.data = {
 				},
 				{
 					"name": "Items Required:",
-					"value": "• 36 [bronze bars](https://runescape.wikia.com/wiki/Bronze_bar)\n• [25 iron bars](https://runescape.wikia.com/wiki/Iron_bar)\n• [50 steel bars](https://runescape.wikia.com/wiki/Steel_bar) (or 10 steel bars and 8 [Steel platebodies](https://runescape.wikia.com/wiki/Steel_platebody))\n• [60 mithril bars](https://runescape.wikia.com/wiki/Mithril_bar)\n• [50 adamant bars](https://runescape.wikia.com/wiki/Adamant_bar)\n• [20 iron ore](https://runescape.wikia.com/wiki/Iron_ore)\n• [30 coal](https://runescape.wikia.com/wiki/Coal)"
+					"value": "• 36 [bronze bars](https://runescape.wikia.com/wiki/Bronze_bar)\n• 25 [iron bars](https://runescape.wikia.com/wiki/Iron_bar)\n• 50 [steel bars](https://runescape.wikia.com/wiki/Steel_bar) (or 10 steel bars and 8 [Steel platebodies](https://runescape.wikia.com/wiki/Steel_platebody))\n• 60 [mithril bars](https://runescape.wikia.com/wiki/Mithril_bar)\n• 50 [adamant bars](https://runescape.wikia.com/wiki/Adamant_bar)\n• 20 [iron ore](https://runescape.wikia.com/wiki/Iron_ore)\n• 30 [coal](https://runescape.wikia.com/wiki/Coal)"
 				},
 				{
 					"name": "Enemies to Defeat:",
@@ -9198,7 +9210,7 @@ exports.data = {
 				},
 				{
 					"name": "​",
-					"value": "**Crafting**\n• [Crystal Flasks](https://runescape.wikia.com/wiki/Crystal_flask) or [Potion Flasks](https://runescape.wikia.com/wiki/Potion_flask) made with Daily [Crystal Glass](https://runescape.wikia.com/wiki/Crystal_glass) or [Robust Glass](https://runescape.wikia.com/wiki/Robust_glass) in any district where the Voice of Seren is active\n• [Empty light orb](https://runescape.wikia.com/wiki/Empty_light_orb) from [Molten Glass](https://runescape.wikia.com/wiki/Molten_glass)\n• Playing the [Harps](https://runescape.wikia.com/wiki/Harp) in Prifddinas\n\n**Farming**\n• [Rumberry Bushes](https://runescape.wikia.com/wiki/Rumberry_bush) on [Tuai Leit](https://runescape.wikia.com/wiki/Tuai_Leit)\n• [Grapvine](https://www.youtube.com/watch?v=EKBj8-gF28M) Runs with [Herb Run](https://www.youtube.com/watch?v=TzNhjl2RZ1c)"
+					"value": "**Crafting**\n• [Crystal Flasks](https://runescape.wikia.com/wiki/Crystal_flask) or [Potion Flasks](https://runescape.wikia.com/wiki/Potion_flask) made with Daily [Crystal Glass](https://runescape.wikia.com/wiki/Crystal_glass) or [Robust Glass](https://runescape.wikia.com/wiki/Robust_glass) in any district where the Voice of Seren is active\n• [Empty light orb](https://runescape.wikia.com/wiki/Empty_light_orb) from [Molten Glass](https://runescape.wikia.com/wiki/Molten_glass)\n• Playing the [Harps](https://runescape.wikia.com/wiki/Harp) in Prifddinas\n\n**Farming**\n• [Rumberry Bushes](https://runescape.wikia.com/wiki/Rumberry_bush) on [Tuai Leit](https://runescape.wikia.com/wiki/Tuai_Leit)\n• [Grapvine](https://www.youtube.com/watch?v=EKBj8-gF28M) runs with [Herb Run](https://www.youtube.com/watch?v=TzNhjl2RZ1c)\n• [Manure mound](http://runescape.wikia.com/wiki/Manure_mound)"
 				},
 				{
 					"name": "​",
