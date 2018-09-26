@@ -375,11 +375,11 @@ exports.data = {
                 },
                 {
                     "name": "Attack 4:",
-                    "value": "She may occasionally scream **GET. OUT. OF. ME.** or **The shadow overwhelms!**, facing a random direction and launching a fast-paced shadow projectile, which then explodes into smaller projectiles in a large area of effect, which deals up to 4,000 magic damage per tick to anyone standing the blast radius. This attack generally goes into an area that can be ignored, however, players should utilize the [surge](https://runescape.wikia.com/wiki/Surge) [ability](https://runescape.wikia.com/wiki/Abilities) to quickly escape should they be caught in it."
+                    "value": "She may occasionally scream \"**GET. OUT. OF. ME.**\" or \"**The shadow overwhelms!**\", facing a random direction and launching a fast-paced shadow projectile, which then explodes into smaller projectiles in a large area of effect, which deals up to 4,000 magic damage per tick to anyone standing the blast radius. This attack generally goes into an area that can be ignored, however, players should utilize the [surge](https://runescape.wikia.com/wiki/Surge) [ability](https://runescape.wikia.com/wiki/Abilities) to quickly escape should they be caught in it."
                 },
                 {
                     "name": "Attack 5:",
-                    "value": "When the BSD reaches 260,000 life points, she goes into a state of invulnerability and starts flying across the room to random spots in the arena. If a player is within range, she will send draconic energy towards all players in the room (players very far from her may have a delayed appearance), which homes in on players and can deal up to 4,000 damage per tick if caught. This can generally be avoided by standing in the smallest section of the room, as most of her landing zones are in the larger section where no players will be in range. However, the smoke lines of draconic energy can also spawn at random places, including underneath you, so ensure surge is on the ready.\n\nThis stage is over when she screams SHOW ME THE LIGHT!. Immediately after this, she will perform the spiral attack, so players should watch out for stray bursts if there were any launched during the flying phase. From here, her attack pattern is the same as the previous phases."
+                    "value": "When the BSD reaches 260,000 life points, she goes into a state of invulnerability and starts flying across the room to random spots in the arena. If a player is within range, she will send draconic energy towards all players in the room (players very far from her may have a delayed appearance), which homes in on players and can deal up to 4,000 damage per tick if caught. This can generally be avoided by standing in the smallest section of the room, as most of her landing zones are in the larger section where no players will be in range. However, the smoke lines of draconic energy can also spawn at random places, including underneath you, so ensure surge is on the ready.\n\nThis stage is over when she screams \"**SHOW ME THE LIGHT!**\". Immediately after this, she will perform the spiral attack, so players should watch out for stray bursts if there were any launched during the flying phase. From here, her attack pattern is the same as the previous phases."
                 }
             ],
             "footer": {
@@ -752,7 +752,7 @@ exports.data = {
             },
             "fields": [
                 {
-                    "name": "his guide’s sole purpose is to have you complete your first killcount for Helwyr.",
+                    "name": "This guide’s sole purpose is to have you complete your first killcount for Helwyr.",
                     "value": "• The full written strategy guide can be found [here](https://runescape.wikia.com/wiki/Helwyr/Strategies)\n• A full video guide: [Helwyr Guide | Malkeru RS - YouTube](https://www.youtube.com/watch?v=5jt0odJqXns)"
                 },
                 {
@@ -896,7 +896,7 @@ exports.data = {
                     },
                     {
                        "name": "Recommendations and Requirements:",
-                       "value": "• __Recommended Attack Style:__ Melee **and** Ranged **or** Mage\n• __Minimum Recommended Armor Tier:__ 50\n• __Minimum Recommended Weapon Tier:__ 60\n• __Recommended Prayer:__ [Protection Prayers](https://runescape.wikia.com/wiki/Protection_prayers) or [Deflect Curses](https://runescape.wikia.com/wiki/Deflect_Curses) will need to be alternated across all styles for this fight."
+                       "value": "• __Recommended Attack Style:__ Melee **and** (Ranged **or** Mage)\n• __Minimum Recommended Armor Tier:__ 50\n• __Minimum Recommended Weapon Tier:__ 60\n• __Recommended Prayer:__ [Protection Prayers](https://runescape.wikia.com/wiki/Protection_prayers) or [Deflect Curses](https://runescape.wikia.com/wiki/Deflect_Curses) will need to be alternated across all styles for this fight."
                     },
                     {
                         "name": "Stage 1: Grounded Stage",
@@ -950,7 +950,7 @@ exports.data = {
                     },
                     {
                        "name": "Recommendations and Requirements:",
-                       "value": "• __Recommended Attack Style:__Ranged\n• __Minimum Recommended Armor Tier:__ 50\n• __Minimum Recommended Weapon Tier:__ 60\n• __Recommended Prayer:__ [Protect from Melee](https://runescape.wikia.com/wiki/Protect_from_Melee) or [Soulsplit](https://runescape.wikia.com/wiki/Soul_Split)\n• __Recommended Items:__ A [Dragonfire protection item](https://runescape.wikia.com/wiki/Dragonfire#Protection) and an [Antipoison](https://runescape.wikia.com/wiki/Antipoison) potion."
+                       "value": "• __Recommended Attack Style:__ Ranged\n• __Minimum Recommended Armor Tier:__ 50\n• __Minimum Recommended Weapon Tier:__ 60\n• __Recommended Prayer:__ [Protect from Melee](https://runescape.wikia.com/wiki/Protect_from_Melee) or [Soulsplit](https://runescape.wikia.com/wiki/Soul_Split)\n• __Recommended Items:__ A [Dragonfire protection item](https://runescape.wikia.com/wiki/Dragonfire#Protection) and an [Antipoison](https://runescape.wikia.com/wiki/Antipoison) potion."
                     },
                     {
                         "name": "Attack 1: Melee",
@@ -1062,7 +1062,7 @@ exports.data = {
                 },
                 {
                     "name": "Tertius' Special Attack:",
-                    "value": "Legio Tertius' unique ability is summoning Monastery of Ascension units when his health lowers.\n\n• 3 [Rorarii](runescape.wikia.com/wiki/Rorarius) when he reaches 75% life points\n• 1 [Gladius](runescape.wikia.com/wiki/Gladius) when he reaches 50% life points\n• 1 [Capsarius](http://runescape.wikia.com/wiki/Capsarius) when he reaches 25% life points.\n\nWith fast reactions, it is possible to kill Tertius before the Capsarius is able to heal him, though one should not expect for this to happen most of the time. Once Tertius is killed, his reinforcements will die with him if they are not killed yet."
+                    "value": "Legio Tertius' unique ability is summoning Monastery of Ascension units when his health lowers.\n\n• 3 [Rorarii](http://runescape.wikia.com/wiki/Rorarius) when he reaches 75% life points\n• 1 [Gladius](http://runescape.wikia.com/wiki/Gladius) when he reaches 50% life points\n• 1 [Capsarius](http://runescape.wikia.com/wiki/Capsarius) when he reaches 25% life points.\n\nWith fast reactions, it is possible to kill Tertius before the Capsarius is able to heal him, though one should not expect for this to happen most of the time. Once Tertius is killed, his reinforcements will die with him if they are not killed yet."
                 },
                 {
                     "name": "Quartus' Special Attack:",
@@ -1117,7 +1117,7 @@ exports.data = {
                 },
                 {
                     "name": "Attack 4:",
-                    "value": "Masuta will float into the are and spawn purple cloud-like feathers. Ensure you do not stand in them or you will take up to 8,000 magic damage. Once Masuta finishes this attack, he will slam to the ground, dealing an additional 8,500 magic damage. To avoid this aspect, simply do not stand underneath him.\n\nAt roughlyh 50% life points remaining, he will float, and remain floating, while reducing damage taken to almost nothing. You should protect/deflect from magic in this phase. He will then spawn [thrashing waters](https://runescape.wikia.com/wiki/Thrashing_water) that should be killed. Players can deal with mechanic by standing on the most southern edge of the arena and only attacking the thrasing waters on the lower platform. If you do this, you should remain in place for the rest of the fight. After a 17 thrashing waters have spawned, he will go back to the ground and become damageable again."
+                    "value": "Masuta will float into the are and spawn purple cloud-like feathers. Ensure you do not stand in them or you will take up to 8,000 magic damage. Once Masuta finishes this attack, he will slam to the ground, dealing an additional 8,500 magic damage. To avoid this aspect, simply do not stand underneath him.\n\nAt roughly 50% life points remaining, he will float, and remain floating, while reducing damage taken to almost nothing. You should protect/deflect from magic in this phase. He will then spawn [thrashing waters](https://runescape.wikia.com/wiki/Thrashing_water) that should be killed. Players can deal with mechanic by standing on the most southern edge of the arena and only attacking the thrasing waters on the lower platform. If you do this, you should remain in place for the rest of the fight. After a 17 thrashing waters have spawned, he will go back to the ground and become damageable again."
                 },
                 {
                     "name": "​",
@@ -1155,7 +1155,7 @@ exports.data = {
                 },
                 {  
                     "name":"​Requirements and Recommendations:",
-                    "value":"• 70 Ranged, Strength, Agility **and** Constitution\n• 40 Zarosian killcount **or** [Ancient Ceremonial Robes](https://runescape.wikia.com/wiki/Ancient_ceremonial_robes)\n• A [Frozen key](https://runescape.wikia.com/wiki/Frozen_key)\n• Access to God Wars Dungeon\n• __Recommended Attack Style:__ Ranged\n• __Minimum Recommended Armour Tier:__ 70\n• __Minimum Recommended Weapon Tier:__ 85\n• __Recommended Prayer:__ [Deflect Magic](https://runescape.wikia.com/wiki/Deflect_Magic) **and** [Deflect Missles](https://runescape.wikia.com/wiki/Deflect_Missiles)"
+                    "value":"• 70 Ranged, Strength, Agility **and** Constitution\n• 40 Zarosian killcount **or** [Ancient Ceremonial Robes](https://runescape.wikia.com/wiki/Ancient_ceremonial_robes)\n• A charged [Frozen key](https://runescape.wikia.com/wiki/Frozen_key)\n• Access to God Wars Dungeon\n• __Recommended Attack Style:__ Ranged\n• __Minimum Recommended Armour Tier:__ 70\n• __Minimum Recommended Weapon Tier:__ 85\n• __Recommended Prayer:__ [Deflect Magic](https://runescape.wikia.com/wiki/Deflect_Magic) **and** [Deflect Missles](https://runescape.wikia.com/wiki/Deflect_Missiles)"
                 },
                 {
                     "name": "Phase 1: Smoke",
@@ -1163,7 +1163,7 @@ exports.data = {
                 },
                 {
                     "name": "Phase 2: Shadow",
-                    "value": "*Protect from ranged on this phase*\n\nThe screen will significantly darken during this phase. The closer players are to Nex, the darker the room will be. Players within melee range of Nex for at least five seconds will receive a message saying \"The shadows start to engulf you!\" and be dealt rapid damage up to 400-700 per tick until they leave melee distance. This phase will depend largely on your teacher.\n\nMainly, it is important to avoid the shadow traps that will spawn under your character occasionally. Simply sidestep them as the appear and you’ll take no damage. After 2 ticks, any player still standing on them will be hit for up to 3000-4500 typeless damage. Once Nex hits 160,000 lifepoints, focus your attack on [Umbra](https://runescape.wikia.com/wiki/Umbra) in the northeast corner."
+                    "value": "*Protect from ranged on this phase*\n\nThe screen will significantly darken during this phase. The closer players are to Nex, the darker the room will be. Players within melee range of Nex for at least five seconds will receive a message saying \"The shadows start to engulf you!\" and be dealt rapid damage up to 400-700 per tick until they leave melee distance. This phase will depend largely on your teacher.\n\nMainly, it is important to avoid the shadow traps that will spawn under your character occasionally. Simply sidestep them as the appear and you’ll take no damage. After 2 ticks, any player still standing on them will be hit for up to 3,000-4,500 typeless damage. Once Nex hits 160,000 lifepoints, focus your attack on [Umbra](https://runescape.wikia.com/wiki/Umbra) in the northeast corner."
                 },
                 {
                     "name": "Phase 3: Blood",
@@ -1202,7 +1202,7 @@ exports.data = {
                     },
                     {  
                     "name":"​Requirements and Recommendations:",
-                    "value":"• 70 Ranged, Strength, Agility **and** Constitution\n• 40 Zarosian killcount **or** [Ancient Ceremonial Robes](https://runescape.wikia.com/wiki/Ancient_ceremonial_robes)\n• A [Frozen key](https://runescape.wikia.com/wiki/Frozen_key)\n• Access to God Wars Dungeon\n• __Recommended Attack Style:__ Ranged\n• __Minimum Recommended Armour Tier:__ 70\n• __Minimum Recommended Weapon Tier:__ 85\n• __Recommended Prayer:__ [Deflect Magic](http://runescape.wikia.com/wiki/Deflect_Magic)"
+                    "value":"• 70 Ranged, Strength, Agility **and** Constitution\n• 40 Zarosian killcount **or** [Ancient Ceremonial Robes](https://runescape.wikia.com/wiki/Ancient_ceremonial_robes)\n• A charged [Frozen key](https://runescape.wikia.com/wiki/Frozen_key)\n• Access to God Wars Dungeon\n• __Recommended Attack Style:__ Ranged\n• __Minimum Recommended Armour Tier:__ 70\n• __Minimum Recommended Weapon Tier:__ 85\n• __Recommended Prayer:__ [Deflect Magic](http://runescape.wikia.com/wiki/Deflect_Magic)"
                     },
                     {
                         "name": "Phase 1:",
@@ -1711,7 +1711,7 @@ exports.data = {
          },
          {  
             "name":"​Attack 1: Wall Charge",
-            "value":"Avaryss will jump onto the walls and fly in a straight line, covering a 3x3 area in front of her. She will yell out a random quote (\"Ha ha ha!\", \"Keep them busy, sister!\" or \"Think you can dodge me?\") before charging. Players who get caught in the charge are knocked into the wall and are dealt with up to 2,000 melee damage.\n\nAvaryss always follows the set pattern of north to south, west to east, south to north, and then east to west. It is strongly adviced to dodge her charge attacks by moving around Nymora, taking a couple of steps every time Avaryss charges at you."
+            "value":"Avaryss will jump onto the walls and fly in a straight line, covering a 3x3 area in front of her. She will yell out a random quote (\"Ha ha ha!\", \"Keep them busy, sister!\", or \"Think you can dodge me?\") before charging. Players who get caught in the charge are knocked into the wall and are dealt with up to 2,000 melee damage.\n\nAvaryss always follows the set pattern of north to south, west to east, south to north, and then east to west. It is strongly adviced to dodge her charge attacks by moving around Nymora, taking a couple of steps every time Avaryss charges at you."
          },
          {  
             "name":"Attack 2: Ceiling Collapse",
@@ -2000,7 +2000,7 @@ exports.data = {
                     },
                     {
                         "name": "Recommendations and Requirements:",
-                        "value": "• Players must have defeated [Beastmaster Durzag](http://runescape.wikia.com/wiki/Beastmaster_Durzag) during this lockout period without resetting\n• Players must have completed the Liberation of Mazcab puzzle during this lockout period without resetting\n• __Recommended Attack Style:__ Range or Melee\n• __Minimum Recommended Armor Tier:__ 70\n• __Minimum Recommended Weapon Tier:__ 80\n• __Recommended Prayer:__ [Deflect Magic](https://runescape.wikia.com/wiki/Deflect_Magic) or [Soul Split](https://runescape.wikia.com/wiki/Soul_Split)"
+                        "value": "• Players must have defeated [Beastmaster Durzag](http://runescape.wikia.com/wiki/Beastmaster_Durzag) during this lockout period without resetting\n• Players must have completed the Liberation of Mazcab puzzle during this lockout period without resetting\n• __Recommended Attack Style:__ Range or Mage\n• __Minimum Recommended Armor Tier:__ 70\n• __Minimum Recommended Weapon Tier:__ 80\n• __Recommended Prayer:__ [Deflect Magic](https://runescape.wikia.com/wiki/Deflect_Magic) or [Soul Split](https://runescape.wikia.com/wiki/Soul_Split)"
                     },
                     {
                         "name": "WARNING: DON'T USE STUNS!",
