@@ -84,7 +84,7 @@ exports.data = {
       "name": "True Trimmed Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Champions' Challenge Rewards](https://runescape.wikia.com/wiki/Champions%27_Challenge#Rewards) are rewards that can be obtained by talking to [Larxus]() after defeating all 15 champions from the [Champions' Challenge](https://runescape.wikia.com/wiki/Champions%27_Challenge) [Distractions and Diversions](https://runescape.wikia.com/wiki/Distractions_and_Diversions), which can be done by bringing the 13 corresponding [Champion's scrolls](https://runescape.wikia.com/wiki/Champion%27s_scroll) to the [Champions' Guild's basement](https://runescape.wikia.com/wiki/Champions%27_Guild#Basement), and defeating the champions.\n\n[Leon d'Cour](https://runescape.wikia.com/wiki/Leon_d'Cour) will challenge the player after they defeated 10 champions and [Glophren](https://runescape.wikia.com/wiki/Glophren) will challenge the player after they defeated all 13 champions. After defeating Glophren, the player can claim the rewards from [Larxus](https://runescape.wikia.com/wiki/Larxus).",
+    "description": "[Champions' Challenge Rewards](https://runescape.wikia.com/wiki/Champions%27_Challenge#Rewards) are rewards that can be obtained by talking to [Larxus](http://runescape.wikia.com/wiki/Larxus) after defeating all 15 champions from the [Champions' Challenge](https://runescape.wikia.com/wiki/Champions%27_Challenge) [Distractions and Diversions](https://runescape.wikia.com/wiki/Distractions_and_Diversions), which can be done by bringing the 13 corresponding [Champion's scrolls](https://runescape.wikia.com/wiki/Champion%27s_scroll) to the [Champions' Guild's basement](https://runescape.wikia.com/wiki/Champions%27_Guild#Basement), and defeating the champions.\n\n[Leon d'Cour](https://runescape.wikia.com/wiki/Leon_d'Cour) will challenge the player after they defeated 10 champions and [Glophren](https://runescape.wikia.com/wiki/Glophren) will challenge the player after they defeated all 13 champions. After defeating Glophren, the player can claim the rewards from [Larxus](https://runescape.wikia.com/wiki/Larxus).",
     "color": 10257648,
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/2/28/Banner_carrier.png/revision/latest?cb=20160406195155"
@@ -469,7 +469,7 @@ exports.data = {
       },
       {
         "name": "Resources:",
-        "value": "• [BA Teams Discord](https://discord.gg/XUuhc9y)\n• [Leech BA](https://discord.gg/XUuhc9y)"
+        "value": "• [BA Teams Discord](https://discord.gg/XUuhc9y)\n• [Leech BA Discord](https://discord.gg/j4DgZBj) | [Leech BA Cost Calculator](http://leechba.ml/calculator)"
       }
     ],
     "footer": {
@@ -1242,7 +1242,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "• [Route video showcase | FluffyJaan - Youtube](https://runescape.wikia.com/wiki/Do_No_Evil)\n• [Step by Step written guide | Runescape Wiki](https://runescape.wikia.com/wiki/Chimp_ice#Tactics)"
+        "value": "• [Ice Ice Chimpy delivery quick guide | Landon PvM - YouTube](https://www.youtube.com/watch?v=aVCMu26Jccg)\n• [Step by Step written guide | Runescape Wiki](https://runescape.wikia.com/wiki/Chimp_ice#Tactics)"
       }
     ],
     "footer": {
