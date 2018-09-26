@@ -68,9 +68,10 @@ exports.data = [{
         "value": "• [Penguin Hide and Seek](http://runescape.wikia.com/wiki/Penguin_Hide_and_Seek) is a weekly [Distraction and Diversion](http://runescape.wikia.com/wiki/Distractions_and_Diversions). The main objective of the D&D is to hunt down undercover [Penguin Spies](http://runescape.wikia.com/wiki/Penguin_(Hide_and_Seek)) and report back to [Chuck](http://runescape.wikia.com/wiki/Chuck) or [Larry](http://runescape.wikia.com/wiki/Larry) at the [Ardougne Zoo](http://runescape.wikia.com/wiki/Ardougne_Zoo). The amount of experience gained is dependent on the player's current level in the chosen skill, determined by the following formula where *L* is the level of the skill on which you use the reward, and *P* is the amount of points redeemed: [25 × L × P](http://runescape.wikia.com/wiki/Penguin_Hide_and_Seek#Rewards). This is increased to *40* × L × P after the completion of [Back to the Freezer](http://runescape.wikia.com/wiki/Back_to_the_Freezer)."
       }
       ],
+    "color": 12269891,
     "footer": { 
-    "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg", 
-    "text": "Achievement Help | Helping you reach your goals, whatever they may be!" 
+    "icon_url": "https://i.imgur.com/KDhyn44.png", 
+      "text": "Let's unfurl those banners!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
   }
