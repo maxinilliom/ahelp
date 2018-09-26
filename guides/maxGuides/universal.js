@@ -13,23 +13,19 @@ exports.data = [{
     "fields": [
       {
         "name": "Clan Avatar",
-        "value": "• The [Clan Avatar](http://runescape.wikia.com/wiki/Clan_avatar) provides 3% more xp for skilling on the same world as the avatar and 6% more xp for skilling in range of the avatar. The range of the buff is a 22 by 22 square area centred on the avatar."
+        "value": "• The [Clan Avatar](http://runescape.wikia.com/wiki/Clan_avatar) provides 3% more xp for skilling, increasing up to 6% depending on the player's [fealty](http://runescape.wikia.com/wiki/Fealty) level."
       },
       {
         "name": "Clan Cloak",
         "value": "• The [Clan Cloak](http://runescape.wikia.com/wiki/Clan_cloak) is a cloak players can equip to show their clan allegiance. Once the player has achieved [Fealty Rank](http://runescape.wikia.com/wiki/Clan_Citadel#Fealty) 3, they may claim their weekly experience reward by right-clicking on their clan cloak, and clicking Fealty-Reward. The experience `X` gained at level `L` is [X = L^2 - 2L + 100](http://runescape.wikia.com/wiki/Clan_cloak#Experience_reward_formula)."
       },
       {
-        "name": "Pulse Core",
-        "value": "• [Pulse Cores](http://runescape.wikia.com/wiki/Pulse_core) are items obtained from [Treasure Hunter](http://runescape.wikia.com/wiki/Treasure_Hunter), [Vic the Trader](http://runescape.wikia.com/wiki/Vic_the_trader), and the [Deep Sea Fishing](http://runescape.wikia.com/wiki/Deep_Sea_Fishing) [Traveling Merchant](http://runescape.wikia.com/wiki/Travelling_merchant). Each pulse core has 4,168–17,204 (depending on total level) bonus experience that is granted in whatever skill is being trained whilst it's equipped. Once the bonus experience charge has run out, the core will explode, granting a 2% experience bonus to all players in the vicinity for 10 minutes. Bonus experience does not stack with pulse cores and will remain unused as long as a pulse core is wielded."
+        "name": "Advanced Pulse Core",
+        "value": "• [Advanced Pulse Cores](http://runescape.wikia.com/wiki/Advanced_pulse_core) are items obtained from [Treasure Hunter](http://runescape.wikia.com/wiki/Treasure_Hunter), [Vic the Trader](http://runescape.wikia.com/wiki/Vic_the_trader), and the [Deep Sea Fishing](http://runescape.wikia.com/wiki/Deep_Sea_Fishing) [Traveling Merchant](http://runescape.wikia.com/wiki/Travelling_merchant). Each pulse core has 4,168–17,204 (depending on total level) bonus experience that is granted in whatever skill is being trained whilst it's equipped. Once the bonus experience charge has run out, the core will explode, granting a 2% experience bonus to all players in the vicinity for 10 minutes. Bonus experience does not stack with pulse cores and will remain unused as long as a pulse core is wielded."
       },
       {
         "name": "Wisdom Aura",
         "value": "• The [Wisdom Aura](http://runescape.wikia.com/wiki/Wisdom_aura) can be purchased from [Xuan](http://runescape.wikia.com/wiki/Xuan) for 40,000 [Membership Loyalty Points](http://runescape.wikia.com/wiki/Membership_Loyalty_Points). This aura increases all experience earned by 2.5%. It will only grant up to 100,000 bonus experience within the activation time, which is 30 minutes."
-      },
-      {
-        "name": "Illumination Aura",
-        "value": "• The [Illumination Aura](http://runescape.wikia.com/wiki/Illumination_aura) is usable from 1 June to 8 September annually, boosting all base experience gained by an additional 10% while active; 100% on every fifth activation of the aura. The aura can be activated for up to an hour each day, resetting at 00:00 UTC. It stacks with bonus experience, pulse cores, clan avatars, and the wise perk."
       },
       {
         "name": "Jack of Trades Aura",
