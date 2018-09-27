@@ -143,7 +143,7 @@ exports.data = {
                 },
                 {
                     "name": "Attack 1:",
-                    "value": "Astellarn will use a magic area of effect attack at the direction she is facing, dealing up to 3,500 damage with 100% accuracy. This attack occurs constantly, so it is best to just ignore it with your prayers."
+                    "value": "Astellarn will use a magic area of effect attack at the direction she is facing, dealing up to 3,500 damage with 100% accuracy. This attack occurs constantly, so it is best to just ignore it with your prayers. The square next to the pillar directly opposite the entrance to Astellarn is out of range of her magic attacks, so an alternative option is to build [adrenaline](https://runescape.wikia.com/wiki/Adrenaline) there while waiting for the [neutron star](http://runescape.wikia.com/wiki/Neutron_star) without taking 1,000 damage hits through prayer from her auto attacks."
                 },
                 {
                     "name": "Attack 2:",
@@ -367,7 +367,11 @@ exports.data = {
                 },
                 {
                     "name": "Attack 2:",
-                    "value": "Upon reaching 520,000 life points, she will teleport to the middle of the arena and four [black hands](https://runescape.wikia.com/wiki/Black_hand) will appear; each one has 80,000 life points and uses a very slow magic attack that can hit up to 5,500 damage, or 2,300 with your prayer enabled.\n\nPeriodically she will discharge energy to the hands that can reach players, which will then cause shadow hands to appear at the player's direction in a manner similar to [Seiryu](http://runescape.wikia.com/wiki/Seiryu_the_Azure_Serpent)'s; however, these hands deal up to 2,500 damage per tick, have a 1x1 area of effect, and have far less reach. Players should stand kitty-corner to the black hands, as opposed to in between two of them, as standing in between two will cause two lines of shadow hands and two magic attacks to be used against you.\n\n[Dominion mines](https://runescape.wikia.com/wiki/Dominion_mine) are recommended to speed up the kill, as they have **extremely high defence** for their level."
+                    "value": "Upon reaching 520,000 life points, she will teleport to the middle of the arena and four [black hands](https://runescape.wikia.com/wiki/Black_hand) will appear; each one has 80,000 life points and uses a very slow magic attack that can hit up to 5,500 damage, or 2,300 with your prayer enabled.\n\nPeriodically she will discharge energy to the hands that can reach players, which will then cause shadow hands to appear at the player's direction in a manner similar to [Seiryu](http://runescape.wikia.com/wiki/Seiryu_the_Azure_Serpent)'s; however, these hands deal up to 2,500 damage per tick, have a 1x1 area of effect, and have far less reach. Players should stand kitty-corner to the black hands, as opposed to in between two of them, as standing in between two will cause two lines of shadow hands and two magic attacks to be used against you."
+                },
+                {
+                    "name": "​",
+                    "value": "• [Dominion mines](https://runescape.wikia.com/wiki/Dominion_mine) are recommended to speed up the kill, as they have **extremely high defence** for their level.\n\n• The [defensive](https://runescape.wikia.com/wiki/Abilities#Defence) [ability](https://runescape.wikia.com/wiki/Abilities), [reflect](https://runescape.wikia.com/wiki/Reflect), can be used during the black hand's magic attack to deal 2,000-3,000 damage to them.\n\n• Utilizing [deaths's switness](https://runescape.wikia.com/wiki/Death%27s_Swiftness) or [sunshine](https://runescape.wikia.com/wiki/Sunshine) next to the black hands without [planted feet](https://runescape.wikia.com/wiki/Planted_Feet) will hit them with consistent small chunks of damage, which can help given their high defence."
                 },
                 {
                     "name": "Attack 3:",

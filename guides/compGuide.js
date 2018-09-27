@@ -838,7 +838,7 @@ exports.data = {
 				},
 				{
 					"name": "Guides:",
-					"value": "• [Arc I - Flag Fall Miniquest Guide | Runescape Wiki](http://runescape.wikia.com/wiki/Flag_Fall)\n• The best way to gather large amounts of taijitu is to repeatedly go on long voyages and look for treasure chests and taijitu on the ground.\n\n• [Farming Chimes on the Arc | Maikeru RS - YouTube](https://www.youtube.com/watch?v=zRs1QtGzv5o)"
+					"value": "• [Arc I - Flag Fall Miniquest Guide | Runescape Wiki](http://runescape.wikia.com/wiki/Flag_Fall)\n\n• The best way to gather large amounts of taijitu is to repeatedly go on long voyages and look for treasure chests and taijitu on the ground.\n\n• [Farming Chimes on the Arc | Maikeru RS - YouTube](https://www.youtube.com/watch?v=zRs1QtGzv5o)"
 				}
 			],
 			"footer": {
@@ -886,7 +886,7 @@ exports.data = {
 				},
 				{
 					"name": "Guides:",
-					"value": "[Arc II - Head of the Family Miniquest Guide | Runescape Wiki](http://runescape.wikia.com/wiki/Head_of_the_Family)\n• The best way to gather large amounts of taijitu is to repeatedly go on long voyages and look for treasure chests and taijitu on the ground.\n\n• [Farming Chimes on the Arc | Maikeru RS - YouTube](https://www.youtube.com/watch?v=zRs1QtGzv5o)"
+					"value": "[Arc II - Head of the Family Miniquest Guide | Runescape Wiki](http://runescape.wikia.com/wiki/Head_of_the_Family)\n\n• The best way to gather large amounts of taijitu is to repeatedly go on long voyages and look for treasure chests and taijitu on the ground.\n\n• [Farming Chimes on the Arc | Maikeru RS - YouTube](https://www.youtube.com/watch?v=zRs1QtGzv5o)"
 				}
 			],
 			"footer": {
@@ -982,7 +982,7 @@ exports.data = {
 				},
 				{
 					"name": "Guides:",
-					"value": "[Arc IV - Jed Hunter Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Jed_Hunter)\n• The best way to gather large amounts of taijitu is to repeatedly go on long voyages and look for treasure chests and taijitu on the ground.\n\n• [Farming Chimes on the Arc | Maikeru RS - YouTube](https://www.youtube.com/watch?v=zRs1QtGzv5o)"
+					"value": "[Arc IV - Jed Hunter Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Jed_Hunter)\n\n• The best way to gather large amounts of taijitu is to repeatedly go on long voyages and look for treasure chests and taijitu on the ground.\n\n• [Farming Chimes on the Arc | Maikeru RS - YouTube](https://www.youtube.com/watch?v=zRs1QtGzv5o)"
 				}
 			],
 			"footer": {
@@ -1030,7 +1030,7 @@ exports.data = {
 				},
 				{
 					"name": "Guides:",
-					"value": "[Arc IX - Damage Control Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Damage_Control)\n• The best way to gather large amounts of taijitu is to repeatedly go on long voyages and look for treasure chests and taijitu on the ground.\n\n• [Farming Chimes on the Arc | Maikeru RS - YouTube](https://www.youtube.com/watch?v=zRs1QtGzv5o)"
+					"value": "[Arc IX - Damage Control Miniquest guide | Runescape Wiki](http://runescape.wikia.com/wiki/Damage_Control)\n\n• The best way to gather large amounts of taijitu is to repeatedly go on long voyages and look for treasure chests and taijitu on the ground.\n\n• [Farming Chimes on the Arc | Maikeru RS - YouTube](https://www.youtube.com/watch?v=zRs1QtGzv5o)"
 				}
 			],
 			"footer": {
@@ -2466,6 +2466,10 @@ exports.data = {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
 			"fields": [{
+                 "name": "​",
+                 "value": "The [Lorehound](https://runescape.wikia.com/wiki/Lorehound_(pet) pet can be used to increase the chance of this lore drop by 25%. Note that the lorehound must be summoned in order for the effect to be active, and cannot simply be used as a [familiar](https://runescape.wikia.com/wiki/Summoning_familiars) override.\n\nThe lorehound is a pet obtainable from [May's Quest Caravan](https://runescape.wikia.com/wiki/May%27s_Quest_Caravan). It is unlocked by allocating at least 25 [quest points](https://runescape.wikia.com/wiki/Quest_point) to the pet track, however, the Lore helper unlock requires a minimum of 150 cumulative quest points."
+            },
+            {
 				"name": "Requirements:",
 				"value": "• Monkey Madness Quest partial completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Monkey_Madness)"
 			}],
@@ -3195,6 +3199,10 @@ exports.data = {
 					"value": "\n• [Miner's journal #1](https://runescape.wikia.com/wiki/Miner%27s_journal_1)\n• [Miner's journal #2](https://runescape.wikia.com/wiki/Miner%27s_journal_2)\n• [Miner's journal #3](https://runescape.wikia.com/wiki/Miner%27s_journal_3)\n• [Miner's journal #4](https://runescape.wikia.com/wiki/Miner%27s_journal_4)\n• [Miner's journal #5](https://runescape.wikia.com/wiki/Miner%27s_journal_5)\n• [The diary of Jebediah Omnis](https://runescape.wikia.com/wiki/The_diary_of_Jebediah_Omnis)"
 				},
 				{
+                    "name": "​",
+                    "value": "The [Lorehound](https://runescape.wikia.com/wiki/Lorehound_(pet) pet can be used to increase the chance of this lore drop by 25%. Note that the lorehound must be summoned in order for the effect to be active, and cannot simply be used as a [familiar](https://runescape.wikia.com/wiki/Summoning_familiars) override.\n\nThe lorehound is a pet obtainable from [May's Quest Caravan](https://runescape.wikia.com/wiki/May%27s_Quest_Caravan). It is unlocked by allocating at least 25 [quest points](https://runescape.wikia.com/wiki/Quest_point) to the pet track, however, the Lore helper unlock requires a minimum of 150 cumulative quest points."
+                },
+				{
 					"name": "Requirements:",
 					"value": "• 96 Slayer"
 				},
@@ -3248,6 +3256,10 @@ exports.data = {
 					"name": "Strategy:",
 					"value": "Adamant dragons can use all three attack styles, as well as dragonfire. [Super antifires](https://runescape.wikia.com/wiki/Super_antifire) are highly recommended, with some form of dragonfire protection being needed. While in melee range it will not use its Ranged attack and while outside of melee range it will be unable to use melee. They will use Magic attacks in melee range. For this reason, it is suggested that:\n\n• If wearing Magic type armour, they should stay inside melee attack range (due to Magic armour being weak to Ranged type attacks)\n\n• If wearing Ranged type armour with [dragonbane ammunition](https://runescape.wikia.com/wiki/Bane_ammunition), they should stay outside melee attack range."
 				},
+				{
+                    "name": "​",
+                    "value": "The [Lorehound](https://runescape.wikia.com/wiki/Lorehound_(pet) pet can be used to increase the chance of this lore drop by 25%. Note that the lorehound must be summoned in order for the effect to be active, and cannot simply be used as a [familiar](https://runescape.wikia.com/wiki/Summoning_familiars) override.\n\nThe lorehound is a pet obtainable from [May's Quest Caravan](https://runescape.wikia.com/wiki/May%27s_Quest_Caravan). It is unlocked by allocating at least 25 [quest points](https://runescape.wikia.com/wiki/Quest_point) to the pet track, however, the Lore helper unlock requires a minimum of 150 cumulative quest points."
+                },
 				{
 					"name": "Requirements:",
 					"value": "• Hero's Welcome Quest completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Hero%27s_Welcome)"
@@ -6560,6 +6572,10 @@ exports.data = {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
 			"fields": [{
+                    "name": "​",
+                    "value": "The [Lorehound](https://runescape.wikia.com/wiki/Lorehound_(pet) pet can be used to increase the chance of this lore drop by 25%. Note that the lorehound must be summoned in order for the effect to be active, and cannot simply be used as a [familiar](https://runescape.wikia.com/wiki/Summoning_familiars) override.\n\nThe lorehound is a pet obtainable from [May's Quest Caravan](https://runescape.wikia.com/wiki/May%27s_Quest_Caravan). It is unlocked by allocating at least 25 [quest points](https://runescape.wikia.com/wiki/Quest_point) to the pet track, however, the Lore helper unlock requires a minimum of 150 cumulative quest points."
+                },
+                {
 					"name": "Requirements:",
 					"value": "• None"
 				},
@@ -7572,6 +7588,10 @@ exports.data = {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
 			"fields": [{
+                "name": "​",
+                "value": "The [Lorehound](https://runescape.wikia.com/wiki/Lorehound_(pet) pet can be used to increase the chance of this lore drop by 25%. Note that the lorehound must be summoned in order for the effect to be active, and cannot simply be used as a [familiar](https://runescape.wikia.com/wiki/Summoning_familiars) override.\n\nThe lorehound is a pet obtainable from [May's Quest Caravan](https://runescape.wikia.com/wiki/May%27s_Quest_Caravan). It is unlocked by allocating at least 25 [quest points](https://runescape.wikia.com/wiki/Quest_point) to the pet track, however, the Lore helper unlock requires a minimum of 150 cumulative quest points."
+            },
+            {
 				"name": "Requirements:",
 				"value": "• 65 Mining **or** 65 Agility **or** 65 Divination"
 			}],
@@ -7893,7 +7913,7 @@ exports.data = {
 				},
 				{
 					"name": "Requirements:",
-					"value": "• 70 Constitution\n• 70 Strength **or** 70 Agility\n\n• Troll Stronghold Quest partial completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Troll_Stronghold)"
+					"value": "• 70 Constitution\n• 60 Strength **or** 60 Agility\n\n• Troll Stronghold Quest partial completion | [Runescape Wiki](http://runescape.wikia.com/wiki/Troll_Stronghold)"
 				},
 				{
 					"name": "Guide:",
