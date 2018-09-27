@@ -58,7 +58,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 			name: 'break.png'
 		  }]
 		});
-		  
+
 		let category = args[1] ? args[1].toLowerCase() : undefined
 		if (!cats.includes(category)) category = undefined;
 		//add category header switch here
@@ -175,7 +175,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 	let prev = undefined;
 	keyList.forEach(k => {
 		if (RegExp(achName).test(k) && !/\bpt\d/.test(k) && !rtnArr.includes(k)) rtnArr.push(k);
-		if (RegExp(achName).test(k) && /\bpt\d/.test(k) && !rtnArr.includes(k)) rtnArr.push(k.replace(/ \bpt\d/, ""));
+		if (RegExp(achName).test(k) && /\bpt\d/.test(k) && !rtnArr.includes(k)) rtnArr.push(k);
 		if (RegExp(achName).test(k) && /\bpt\d/.test(k)) {
 			if (rtnArr.length > 0) return;
 			if (prev && prev !== k.replace(/ \bpt\d/, "")) return;
@@ -205,11 +205,11 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 		let i = 1;
 		const searchEmbed = data["search"];
 		rtnArr.forEach(n => {
-			if (!data[rtnArr[i-1]].title) return;
-			if (output.length <= 2000) {
-				output += `${i}: ${data[rtnArr[i-1]].title}\n`;
+			if (!data[n].title) return;
+			else if (output.length <= 2000) {
+				output += `${i}: ${data[n].title}\n`;
 			} else if (second.length <= 2000) {
-				second += `${i}: ${data[rtnArr[i-1]].title}\n`;
+				second += `${i}: ${data[n].title}\n`;
 			}
 			i++;
 		});
@@ -228,6 +228,19 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 
 		const response = await client.awaitReply(message, "Which achievement were you searching for? Please enter the corresponding number.");
 		if (isNaN(response) || response > rtnArr.length || response < 1) return message.channel.send("Invalid number specified, search cancelled.");
+		rtnArr.forEach(n => {
+			const title = rtnArr[response-1];
+			const replace = new RegExp(title.replace(/ \bpt\d/, ""));
+			if (replace.test(n) && /\bpt\d/.test(n)) {
+				const choice = data[n];
+				choice.color = color;
+				if (choice.author) choice.author.name = name;
+				if (choice.timestamp) choice.timestamp = new Date();
+				message.channel.send("", {embed: choice});
+				pt = "true";
+			}
+		});
+		if (pt == "true") return;
 		const choice = data[rtnArr[response-1]];
 		choice.author.name = name;
 		choice.color = color;
