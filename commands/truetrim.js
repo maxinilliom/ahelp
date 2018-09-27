@@ -155,6 +155,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 	let prev = undefined;
 	keyList.forEach(k => {
 		if (RegExp(achName).test(k) && !/\bpt\d/.test(k) && !rtnArr.includes(k)) rtnArr.push(k);
+		if (RegExp(achName).test(k) && /\bpt\d/.test(k) && !rtnArr.includes(k)) rtnArr.push(k);
 		if (RegExp(achName).test(k) && /\bpt\d/.test(k)) {
 			if (rtnArr.length > 0) return;
 			if (prev && prev !== k.replace(/ \bpt\d/, "")) return;
@@ -186,6 +187,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 		let i = 1;
 		const searchEmbed = data["search"];
 		rtnArr.forEach(n => {
+			if (!data[n].title) return;
 			if (output.length <= 2000) {
 				output += `${i}: ${data[rtnArr[i-1]].title}\n`;
 			} else if (second.length <= 2000) {
@@ -209,6 +211,19 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 
 		const response = await client.awaitReply(message, "Which were you searching for? Please enter the corresponding number.");
 		if (isNaN(response) || response > rtnArr.length || response < 1) return message.channel.send("Invalid number specified, search cancelled.");
+		rtnArr.forEach(n => {
+			const title = rtnArr[response-1];
+			const replace = new RegExp(title.replace(/ \bpt\d/, ""));
+			if (replace.test(n) && /\bpt\d/.test(n)) {
+				const choice = data[n];
+				choice.color = color;
+				if (choice.author) choice.author.name = name;
+				if (choice.timestamp) choice.timestamp = new Date();
+				message.channel.send("", {embed: choice});
+				pt = "true";
+			}
+		});
+		if (pt == "true") return;
 		const choice = data[rtnArr[response-1]];
 		choice.author.name = name;
 		choice.color = color;
