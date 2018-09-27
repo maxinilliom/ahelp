@@ -48,21 +48,78 @@ exports.data = {
       },
       "fields":[  
          {  
-            "name":"​Where:",
+            "name":"Where:",
             "value":"The Alright clan's [citadel](http://runescape.wikia.com/wiki/Clan_Citadel)."
          },
          {  
-            "name":"​Why:",
+            "name":"Why:",
             "value":"To maintain and upgrade our Citadel. Also, to keep our [Skilling bonus](http://runescape.wikia.com/wiki/Clan_avatar#Skilling_bonus). Mostly for the Skilling bonus."
          },
          {  
-            "name":"​Who:",
+            "name":"Who:",
             "value":"<@294617234033213450>, <@113770763261181961>, <@212672527405678592>, and their [Alright](https://discord.gg/KwysmXr) clan."
          },
          {  
-            "name":"​What is Needed:",
+            "name":"What is Needed:",
             "value":"Nothing!"
          }
+      ]
+   },
+    "clue scrolls": {  
+      "title":"What Are Clue Scrolls?:",
+      "description":"A Clue scroll sends the player on [Treasure Trails](https://runescape.wikia.com/wiki/Treasure_Trails), a series of clues leading towards a buried treasure. Clue scrolls can be randomly dropped by various [monsters](https://runescape.wikia.com/wiki/Bestiary), found while pickpocketing [H.A.M. Members](https://runescape.wikia.com/wiki/H.A.M._Member) and [Elven clan workers](https://runescape.wikia.com/wiki/Elven_clan_worker), looted from a [Treasure chest decoration](https://runescape.wikia.com/wiki/Treasure_chest_decoration), [Managing Miscellania](https://runescape.wikia.com/wiki/Managing_Miscellania) [rewards](https://runescape.wikia.com/wiki/Managing_Miscellania#Rewards) coffer, or purchased with [Thaler](https://runescape.wikia.com/wiki/Thaler) or [Treasure Trail points](https://runescape.wikia.com/wiki/Treasure_Trails_Reward_Shop#Treasure_Trail_Points). Players will only be able to open one [sealed clue scroll](https://runescape.wikia.com/wiki/Sealed_clue_scroll) if they do not already have one of the same type active in their inventory or bank.\n\nSealed clue scrolls can also be obtained from Fishing, Mining, Woodcutting, or Divination. The tier of clue scroll players receive is weighted based on their level of the activity, with elites appearing at level 60 training methods and higher. There is always a 1% chance for a sealed elite clue to upgrade to a [sealed master clue](https://runescape.wikia.com/wiki/Sealed_clue_scroll_(master). This can however be boosted to a 2% chance if the invention perk [Prosper](https://runescape.wikia.com/wiki/Prosper) is in use.",
+      "footer":{  
+         "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
+         "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
+      },
+      "thumbnail":{  
+         "url":"https://vignette.wikia.nocookie.net/runescape2/images/d/df/Clue_scroll_detail.png/revision/latest?cb=20180113013546"
+      },
+      "author":{  
+         "name":"Clan Clue Competition",
+         "icon_url":"https://i.imgur.com/6c6q2iC.png"
+      },
+      "fields":[
+      {
+        "name": "Rules:",
+        "value": "• Everyone who wants to enter into the competition **must** post a screenshot into the <#494331950060929045> that shows their RSN and the quickchatted amount of **every** tier of clue, along with the in game clock and your computer clock.\n- [How to Screenshot | Windows](https://support.microsoft.com/en-us/help/13776/windows-use-snipping-tool-to-capture-screenshots)\n- [How to Screenshot | Mac](https://support.apple.com/en-us/HT201361)\n\n• Every time you complete a clue, you must post a screenshot into the <#494329749016150036> channel. This screenshot must contain your RSN, a typed (not sent) message of \"This Clan is Alright!\", the in game clock, your computer clock, and the reward. These measures are to help prevent users from using stacked caskets both in this competition and future ones.\n\n• Good people are giving up their hard earned GP for the prize money, so please respect the integrity of the competition and keep it fun for everyone. Caskets too close in time will be raised into question."
+      },
+      {
+        "name": "​",
+        "value": "• Saved up sealed clue scrolls are fine to use because of the effort in completing them and inability to reasonbly track them."
+      },
+      {
+        "name": "How Points are Decided:",
+        "value": "• Easy clues are 1 point\n• Medium clues are 2 points\n• Hard clues are 3 points\n• Elite clues are 5 points\n• Masters clues are 8 points\n• The voted item [Gnomish Firelighters](https://runescape.wikia.com/wiki/Gnomish_firelighters) are 5 points."
+      },
+      {
+        "name": "What You Can Win:",
+        "value": "The prize pool is Xm.\n• The player with the most overall points will win Xm.\n• The player with the most overall clues will win Xm\n• The players with the most voted item will win Xm\n• The player with highest value reward will win Xm\n• The player with the lowest value reward will win Xm"
+      },
+      {
+        "name": "Easy Clues:",
+        "value": "• To solve [easy clue scrolls](https://runescape.wikia.com/wiki/Clue_scroll_(easy), players may encounter:\n\t• [Simple clues](https://runescape.wikia.com/wiki/Treasure_Trails/Guide/Simple_clues)\n\t• [Emote clues](https://runescape.wikia.com/wiki/Treasure_Trails/Guide/Emotes)\n\t• [Maps](https://runescape.wikia.com/wiki/Treasure_Trails/Guide/Maps)\n\t• [Cryptics](https://runescape.wikia.com/wiki/Treasure_Trails/Guide/Cryptics)"
+      },
+      {
+        "name": "Medium Clues:",
+        "value": "• To solve [medium clue scrolls](https://runescape.wikia.com/wiki/Clue_scroll_(medium), players may encounter:\n\t• [Anagrams](https://runescape.wikia.com/wiki/Treasure_Trails/Guide/Anagrams)\n\t• [Challenge scrolls](https://runescape.wikia.com/wiki/Treasure_Trails/Guide/Challenge_scrolls)\n\t• Cryptics\n\t• Emote clues\n\t• [Coordinates](https://runescape.wikia.com/wiki/Treasure_Trails/Guide/Coordinates)\n\t• Maps\n\t• Simple clues"
+      },
+      {
+        "name": "Hard Clues:",
+        "value": "• To solve [hard clue scrolls](https://runescape.wikia.com/wiki/Clue_scroll_(hard), players may encounter:\n\t• Anagrams\n\t• Challenge scrolls\n\t• [Puzzle boxes](https://runescape.wikia.com/wiki/Treasure_Trails/Guide/Puzzle_boxes)\n\t• Coordinates\n\t• Cryptics\n\t• Emote clues\n\t• Maps"
+      },
+      {
+        "name": "Elite Clues:",
+        "value": "• To solve [elite clue scrolls](https://runescape.wikia.com/wiki/Clue_scroll_(elite), players may encounter:\n\t• [Compass](https://runescape.wikia.com/wiki/Treasure_Trails/Guide/Compass)\n\t• [Scans](https://runescape.wikia.com/wiki/Treasure_Trails/Guide/Scans)\n\t• Puzzle boxes\n\t• [Celtic knots](https://runescape.wikia.com/wiki/Treasure_Trails/Guide/Celtic_knots)"
+      },
+      {
+        "name": "Master Clues:",
+        "value": "• To solve [master clue scrolls](https://runescape.wikia.com/wiki/Clue_scroll_(master), players may encounter:\n\t• Scans\n\t• Emotes\n\t• Anagrams\n\t• Puzzle boxes\n\t• [Tower puzzles](https://runescape.wikia.com/wiki/Treasure_Trails/Guide/Towers)\n\t• [Lockboxes](https://runescape.wikia.com/wiki/Treasure_Trails/Guide/Lockboxes)\n\t• [Skill riddle challenges](https://runescape.wikia.com/wiki/Treasure_Trails/Guide/Skill_riddle_challenges)"
+      },
+      {
+        "name": "Guide:",
+        "value": "• The [Alt1 Toolkit Clue scroll solver](https://runeapps.org/clue) website and/or downloadable application make clues into a quick task by helping with all types of puzzles, locations, and coordinates. You can read Jagex's stance on the Alt1 Toolkit [here](https://www.reddit.com/r/runescape/comments/3ootg2/alt1_toolkit_guide/cw0ijyk/)."
+      }
       ]
    },
     "general graardor": {  
