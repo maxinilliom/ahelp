@@ -353,11 +353,7 @@ exports.data = {
       },
       {
         "name": "​",
-        "value": "[Cooking urns](http://runescape.wikia.com/wiki/Cooking_urn)\n• Cooking urns will significantly increase experience rates per hour, and experience per fish by up to 20%. If using Cooking urns together with [Bank Presets](http://runescape.wikia.com/wiki/Bank_preset), it may be a good idea to use an inventory preset with a new cooking urn (r) along with an activated cooking urn. This method sacrifices one inventory space for the convenience of not having to bank again for new urns, and guaranteeing the start of another urn right after one is being teleported away."
-      },
-      {
-        "name": "​",
-        "value": "There are several types of urns, each which require a greater level in the Crafting skill to make. The levels of urns are:\n\t• [Cracked Cooking Urn](http://runescape.wikia.com/wiki/Cracked_cooking_urn)\n\t\t• Level 2 Crafting\n\t• [Fragile Cooking Urn](http://runescape.wikia.com/wiki/Fragile_cooking_urn)\n\t\t• Level 12 Crafting\n\t• [Cooking Urn](http://runescape.wikia.com/wiki/Cracked_cooking_urn)\n\t\t• Level 34 Crafting\n\t• [Strong Cooking Urn](http://runescape.wikia.com/wiki/Strong_cooking_urn)\n\t\t• Level51 Crafting \n\t• [Decoration Cooking Urn](http://runescape.wikia.com/wiki/Decorated_cooking_urn)\n\t\t• Level 81 Crafting"
+        "value": "[Cooking urns](http://runescape.wikia.com/wiki/Cooking_urn)\n• +400-1,547.5 experience per urn (depends on the level of urn used)\n• +500-1,934.375 if used with [Urn Enhancer](http://runescape.wikia.com/wiki/Urn_enhancer)"
       },
       {
         "name": "​",
