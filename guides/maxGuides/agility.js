@@ -195,7 +195,11 @@ exports.data = {
     "fields": [
       {
         "name": "▬▬ Silverhawk Boots ▬▬",
-        "value": "[Silverhawk Boots](http://runescape.wikia.com/wiki/Silverhawk_boots) are an item that can be won from Treasure Hunter or purchased for 750 Thaler. While the boots are equipped and charged, players will periodically receive Agility experience equal to 10% of the experience that is gained from using a small XP lamp. Experience will be gained:\n\t• Once per minute spent running\n\t• While skilling (maximum of once every 45 seconds)\n\t• When using an ultimate ability (a maximum of once every 45 seconds)\n\nEach time that experience is gained from the boots a charge is used up. Silverhawk boots may hold up to 500 charges at once. [Silverhawk Feathers](http://runescape.wikia.com/wiki/Silverhawk_feathers) give 1 charge per feather used with the boots. Silverhawk feathers can be won from Treasure Hunter and are tradeable. One [Silverhawk Down](<http://runescape.wikia.com/wiki/Silverhawk_down>) can also be used give the boots 1 charge. Silverhawk down is an untradeable item that can be purchased for 35 thaler per 10 down."
+        "value": "[Silverhawk Boots](http://runescape.wikia.com/wiki/Silverhawk_boots) are an item that can be claimed for free in the [oddments store](http://runescape.wikia.com/wiki/Oddments_Store) or for 750 Thaler. While the boots are equipped and charged, players will periodically receive Agility experience equal to 10% of the experience that is gained from using a small XP lamp. Experience will be gained:\n\t• Once per minute spent running\n\t• While skilling (maximum of once every 45 seconds)\n\t• When using an ultimate ability (maximum of once every 45 seconds)"
+      },
+      {
+        "name": "​",
+        "value": "Each time that experience is gained from the boots a charge is used up. Silverhawk boots may hold up to 500 charges at once. [Silverhawk Feathers](http://runescape.wikia.com/wiki/Silverhawk_feathers) give 1 charge per feather used with the boots. Silverhawk feathers can be purchased in the [Grand Exchange](http://runescape.wikia.com/wiki/Grand_Exchange). One [Silverhawk Down](<http://runescape.wikia.com/wiki/Silverhawk_down>) can also be used give the boots 1 charge. Silverhawk down is an untradeable item that can be purchased for 35 thaler per 10 down, or for 175 [oddments](http://runescape.wikia.com/wiki/Oddments) per 25."
       },
       {
         "name": "​",
