@@ -243,7 +243,6 @@ exports.data = {
 "name": "​",
 "value": "[Gorajo Cards](https://runescape.wikia.com/wiki/Sinkholes#Cards) are randomly found within the dungeons under totems, while gathering resources or from locked chests. Cards have no use before the treasure room. You can only carry up to five cards, which will include duplicates. Cards can be destroyed but not dropped, and all duplicates of a card can be chosen for destruction at once. Players can have multiple cards on hand but only one can be activated at the end. Each player will have one turn to choose which card they will deploy, starting with 5th place and finishing with 1st place. The chosen card summons the corresponding creature to give out their special effects. The best strategy for using cards can be found [here.](https://runescape.wikia.com/wiki/Sinkholes#Cards_2) "
 }
-
 ]
 },
   "daily challenge": {
@@ -321,11 +320,19 @@ exports.data = {
     "fields": [
       {
         "name": "Daemonheim Aura",
-        "value": "This aura is unlocked by completing the Daemonheim task sets. There are four tiers of this aura that are rewarded chronologically for completing the easy, medium, hard, and elite task sets. The aura lasts for one hour upon being activated and has a four hour cooldown timer before it can be used again. It can be retrieved from [Thok](https://runescape.wikia.com/wiki/Thok_of_Daemonheim) for free if lost. You can activate and wear the aura outside Daemonheim. Whenever the player enters a floor in Daemonheim, the aura will automatically be equipped. The tier 4 aura's effects can be seen [here.](https://runescape.wikia.com/wiki/Daemonheim_aura_4) "
+        "value": "This aura is unlocked by completing the [Daemonheim Tasks](http://runescape.wikia.com/wiki/Daemonheim_achievements). There are four tiers of this aura that are rewarded chronologically for completing the easy, medium, hard, and elite task sets. The aura lasts for one hour upon being activated and has a four hour cooldown timer before it can be used again. It can be retrieved from [Thok](https://runescape.wikia.com/wiki/Thok_of_Daemonheim) for free if lost. You can activate and wear the aura outside Daemonheim. Whenever the player enters a floor in Daemonheim, the aura will automatically be equipped. The tier 4 aura's effects can be seen [here.](https://runescape.wikia.com/wiki/Daemonheim_aura_4) "
       },
       {
         "name": "Dungeoneering Party Simulator",
         "value": "The [Dungeoneering party simulator](https://runescape.wikia.com/wiki/Dungeoneering_party_simulator) is an Invention device that is a part of the cave goblin tech tree. It requires 55 Goblin Currency and level 70 Invention to unlock. It is a consumable device that increases the Dungeoneering experience gained for completing Dungeoneering floors in parties of four or fewer players. Upon completion of a Dungeoneering floor with a party of 4 or fewer people, the device is consumed from the first player in the party who has one and the party size modifier for the floor is increased by 1. For example, upon completing a floor alone (Difficulty Modifier 1:1) the modifier would be increased to the difficulty for two people (Difficulty Modifier 2:2). This affects all players in the party, not just the one using the item. It doesn't need to be equipped for it to be used.  "
+      },
+      {
+        "name": "Gorajo Cards",
+        "value": "[Gorajo Cards](http://runescape.wikia.com/wiki/Gorajo_card) are obtained from the [Gorajo hoardstalker](http://runescape.wikia.com/wiki/Gorajo_hoardstalker) in the [Gorajo resource dungeon](http://runescape.wikia.com/wiki/Gorajo_resource_dungeon) of Prifddinas. He is also located near [Thok](http://runescape.wikia.com/wiki/Thok) on the Daemonheim peninsula after unlocking access to the resource dungeon. One card per day can be obtained, and only 1 team card and 1 solo card can be owned at a time from Gorajo."
+      },
+       {
+        "name": "​",
+        "value": "[Bryll Thoksdottir](http://runescape.wikia.com/wiki/Bryll_Thoksdottir) sells both solo and team cards for 5,000 and 15,000 Dungeoneering tokens respectively in her shop. The card received is random. You can have multiple cards when they are obtained this way, however the Gorajo hoardstalker will not give you another card unless you have none of the type of card he is offering.\n\nFor a list of all cards effects, click [here](http://runescape.wikia.com/wiki/Gorajo_card)."
       },
       {
         "name": "Potion boosts​",
