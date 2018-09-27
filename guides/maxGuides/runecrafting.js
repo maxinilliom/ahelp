@@ -199,7 +199,11 @@ exports.data = {
       },
       {
         "name": "​",
-        "value": "Fill your backpack, pouches (and familiar/[Ethereal Outfit](http://runescape.wikia.com/wiki/Ethereal_outfit) if owned) with pure essence. Travel to the Soul altar by any means (you may, but do not have to use the Abyss for this step), put the essence in the charger and then convert all essence to charges; repeat this process until the altar is fully charged. Then, use the Abyss to access the soul altar (with your Demonic skull equipped and [urns](http://runescape.wikia.com/wiki/Decorated_runecrafting_urn) in the inventory, if used), and craft the runes.\nAssuming five full repeats of this process per hour, players should expect around 265,000 (385,000 with Demonic skull) experience per hour."
+        "value": "Fill your backpack, pouches (and familiar/[Ethereal Outfit](http://runescape.wikia.com/wiki/Ethereal_outfit) if owned) with pure essence. Travel to the Soul altar by any means* (you may, but do not have to use the Abyss for this step), put the essence in the charger and then convert all essence to charges; repeat this process until the altar is fully charged. Then, use the Abyss to access the soul altar (with your Demonic skull equipped and [urns](http://runescape.wikia.com/wiki/Decorated_runecrafting_urn) in the inventory, if used), and craft the runes.\nAssuming five full repeats of this process per hour, players should expect around 265,000 (385,000 with Demonic skull) experience per hour."
+      },
+      {
+        "name": "​",
+        "value": "* Possible means of routes to the altar include using the [fairy ring](http://runescape.wikia.com/wiki/Fairy_ring) with code **c k q**, which will take you near the fountain entrance. When used in conjunction with [TokKul-Zo](http://runescape.wikia.com/wiki/TokKul-Zo), players can also bank in TzHaar City, making for faster runs."
       },
       {
         "name": "▬▬ Alternative Method (profit) ▬▬",
@@ -282,7 +286,7 @@ exports.data = {
       },
       {
         "name": "Navigation",
-        "value": "Runespan is split into three levels:\n\n• the lower level, accessible through the portal in Wizards' Tower,\n• the middle level, accessible either through the portal in Wizards' Tower or by climbing the vine ladder on the lower level at level 33+ Runecrafting,\n• the upper level, accessible by climbing the bone ladder on the middle level at level 66+ Runecrafting.\n\nEach level consists of a different set of floating islands, and connecting [platforms](http://runescape.wikia.com/wiki/Runespan#Platforms) used to travel between them. Travelling from a bigger to smaller island, or between similarly-sized islands costs runes. The travel costs can be quickly checked by examining the platforms.\n\nFor detailed maps of the Runespan, click [here](http://runescape.wikia.com/wiki/Runespan#Area)."
+        "value": "Runespan is split into three levels:\n\n• The lower level, accessible through the portal in Wizards' Tower,\n• The middle level, accessible either through the portal in Wizards' Tower or by climbing the vine ladder on the lower level at level 33+ Runecrafting,\n• The upper level, accessible either by purchasing the portal in the Wizards' Tower or by climbing the bone ladder on the middle level at level 66+ Runecrafting.\n\nEach level consists of a different set of floating islands, and connecting [platforms](http://runescape.wikia.com/wiki/Runespan#Platforms) used to travel between them. Travelling from a bigger to smaller island, or between similarly-sized islands costs runes. The travel costs can be quickly checked by examining the platforms.\n\nFor detailed maps of the Runespan, click [here](http://runescape.wikia.com/wiki/Runespan#Area)."
       },
       {
         "name": "Training strategy",
