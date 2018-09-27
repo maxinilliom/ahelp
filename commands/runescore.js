@@ -174,6 +174,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 
 	let prev = undefined;
 	keyList.forEach(k => {
+		if (RegExp(achName).test(k) && !/\bpt\d/.test(k) && !rtnArr.includes(k)) rtnArr.push(k);
 		if (RegExp(achName).test(k) && /\bpt\d/.test(k) && !rtnArr.includes(k)) rtnArr.push(k.replace(/ \bpt\d/, ""));
 		if (RegExp(achName).test(k) && /\bpt\d/.test(k)) {
 			if (rtnArr.length > 0) return;
