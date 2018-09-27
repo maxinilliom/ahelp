@@ -158,7 +158,7 @@ exports.data = {
   },
     "dsf merchant notify roles":  {
     "title": "Deep Sea Fishing Merchant Roles (Self-Assigned)",
-    "description":"The following roles were added for the Deep Sea Fishing Merchant because of their correlation to current or future Achievements.\n\nThe following roles can also be added in one of the following ways;\n• To join a DSF Merchant role, simply react to the proper message in <#465998663710146579> with the corresponding emoji.\n• You may also send ?rank [role] in <#382701090430386180>.\n\t- **Example:** `?rank AFK Thaler`\n\t- Leaving a role is the same command as joining that role.\n\nIf you would like to have other notifications besides these, you can use <@439803413623078927> in the <#382701090430386180> channel. Simply type `?addnotif Item Name Here`, and the bot will PM you whenever that item is in the store.",
+    "description":"The following roles were added for the Deep Sea Fishing Merchant because of their correlation to current or future Achievements.\n\nThe following roles can also be added in one of the following ways;\n• To join a DSF Merchant role, simply react to the proper message in <#465998663710146579> with the corresponding emoji.\n• You may also send ?rank [role] in <#382701090430386180>.\n\t- **Example:** **?rank AFK Thaler**\n\t- Leaving a role is the same command as joining that role.\n\nIf you would like to have other notifications besides these, you can use <@439803413623078927> in the <#382701090430386180> channel. Simply type **?addnotif Item Name Here**, and the bot will PM you whenever that item is in the store.",
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
       "text": "Achievement Help | Making information more easily available!"
@@ -202,7 +202,7 @@ exports.data = {
   },
     "discord server notify roles": {
     "title": "Achievement Help Discord Roles (Self-Assigned)",
-    "description":"These roles are only to be called by Contributors, Moderators, or Council. Make sure not to abuse notifying these roles. If you keep mentioning these roles for no reason, a mute may be applied.\n\nThe following roles can also be added in one of the following ways;\n• To join a DSF Merchant role, simply react to the proper message in <#465998663710146579> with the corresponding emoji.\n• You may also send ?rank [role] in <#382701090430386180>.\n\t- **Example:** `?rank AFK Thaler`\n\t- Leaving a role is the same command as joining that role.",
+    "description":"These roles are only to be called by Contributors, Moderators, or Council. Make sure not to abuse notifying these roles. If you keep mentioning these roles for no reason, a mute may be applied.\n\nThe following roles can also be added in one of the following ways;\n• To join a DSF Merchant role, simply react to the proper message in <#465998663710146579> with the corresponding emoji.\n• You may also send ?rank [role] in <#382701090430386180>.\n\t- **Example:** **?rank AFK Thaler**\n\t- Leaving a role is the same command as joining that role.",
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
       "text": "Achievement Help | Making information more easily available!"

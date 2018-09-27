@@ -54,7 +54,7 @@ exports.data = {
   },
   "bakriminel bolts": {
     "title": "Bakriminel Bolts",
-    "description": "[Bakriminel Bolts](runescape.wikia.com/wiki/Bakriminel_bolts) require 93 Fletching to make and can be made from [Bloodwood Logs](http://runescape.wikia.com/wiki/Bloodwood_logs).\n\n[Bloodwood trees](https://runescape.wikia.com/wiki/Bloodwood_tree) typically yield a very small number of logs, usually 1-2 per yield. However, those in the [Wilderness](http://runescape.wikia.com/wiki/Wilderness) are significantly stronger and are likely to give more logs compared to their non-Wilderness counterparts.\n\nA list of tree locations can be found [here](http://runescape.wikia.com/wiki/Bloodwood_tree#Locations). Note that 3 of the trees that are not locked behind quests are in the wilderness, so **do not** take anything you're not willing to lose.",
+    "description": "[Bakriminel Bolts](runescape.wikia.com/wiki/Bakriminel_bolts) require 93 Fletching to make and can be made from [Bloodwood Logs](http://runescape.wikia.com/wiki/Bloodwood_logs), which are cut from [Bloodwood trees](https://runescape.wikia.com/wiki/Bloodwood_tree).\n\nBloodwood trees that are not located in the [Wilderness](http://runescape.wikia.com/wiki/Wilderness) typically yield a very small number of logs, usually 1-2 per yield. However, those in the Wilderness are significantly stronger and are likely to give more logs compared to their non-Wilderness counterparts. Note that 3 of the trees that are not locked behind quests are in the wilderness, so **do not** take anything you're not willing to lose.",
     "url": "http://runescape.wikia.com/wiki/Bakriminel_bolts",
     "color": 12269891,
     "footer": {
@@ -65,19 +65,27 @@ exports.data = {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/f/f8/Bakriminel_bolts_detail.png/revision/latest?cb=20120510191137"
     },
     "author": {
-      "name": "Max Cape Info",
+      "name": "Daily Money Making Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
      "fields": [
       {
+        "name": "Regular/Wilderness Tree Locations:",
+        "value": "• South of the [Pirates' Hideout](https://runescape.wikia.com/wiki/Pirates%27_Hideout). ([Image](https://vignette.wikia.nocookie.net/runescape2/images/e/e7/Bloodwood_tree_%28Pirates%27_Hideout%29_location.png/revision/latest?cb=20141210040828))\n• North-east of the [Demonic Ruins](https://runescape.wikia.com/wiki/Demonic_Ruins). ([Image](https://vignette.wikia.nocookie.net/runescape2/images/5/5e/Bloodwood_tree_%28Demonic_Ruins%29_location.png/revision/latest?cb=20141210040853))\n• Next to the [Chaos Temple](https://runescape.wikia.com/wiki/Chaos_Temple_(Wilderness). ([Image](https://vignette.wikia.nocookie.net/runescape2/images/8/89/Bloodwood_tree_%28Chaos_Temple%29_location.png/revision/latest?cb=20141210040927))"
+      },
+      {
+        "name": "Quest-related Locations:",
+        "value": "• [Soul Wars](https://runescape.wikia.com/wiki/Soul_Wars). ([Image](https://imgur.com/Sxubwmw))\n- Requires [Nomad's Requiem](https://runescape.wikia.com/wiki/Nomad%27s_Requiem).\n\n• The [Ritual Plateau](https://runescape.wikia.com/wiki/Ritual_Plateau). ([Image](https://imgur.com/cvu2vz8))\n- Requires [Ritual of the Mahjarrat](https://runescape.wikia.com/wiki/Ritual_of_the_Mahjarrat).\n\n• Near the [Darkmeyer](https://runescape.wikia.com/wiki/Darkmeyer) [Arboretum](https://runescape.wikia.com/wiki/Arboretum_(location). ([Image](https://imgur.com/QUVOwcl))\n- Requires [The Branches of Darkmeyer](https://runescape.wikia.com/wiki/The_Branches_of_Darkmeyer).\n\n• In the [Gorajo resource dungeon](https://runescape.wikia.com/wiki/Gorajo_resource_dungeon) in [Prifddinas](https://runescape.wikia.com/wiki/Prifddinas). ([Image](https://imgur.com/p7oeNeL))\n- Requires Level 95 Dungeoneering and completion of [Plague's End](https://runescape.wikia.com/wiki/Plague%27s_End)."
+      },
+      {
         "name": "Useful Information:",
-        "value": "The logs and bolt shafts themselves cannot be taken too far from the tree, or they will turn into dust. "
+        "value": "The Bakriminel logs and [Bakriminel bolt shafts](https://runescape.wikia.com/wiki/Bakriminel_bolt_shafts) themselves cannot be taken too far from the tree, or they will turn into dust."
       }
     ]
   },
   "broad arrowheads": {
     "title": "Broad Arrowheads",
-    "description": "[Broad Arrowheads](http://runescape.wikia.com/wiki/Broad_arrowheads) can be purchased only after the completion of [Smoking Kills](http://runescape.wikia.com/wiki/Smoking_Kills) from [Slayer Shops](http://runescape.wikia.com/wiki/Slayer_Equipment).\n\nA total of 9,000 arrowheads can be purchased daily. 3,000 from [Turael](http://runescape.wikia.com/wiki/Turael) **or** [Spria](http://runescape.wikia.com/wiki/Spria). Note that they share the same stock), 3,000 from any other [Slayer Master](http://runescape.wikia.com/wiki/Slayer_Master). An additional 3,000 can also be purchased from [Noterazzo](http://runescape.wikia.com/wiki/Noterazzo), found in the [Wilderness Bandit Camp](http://runescape.wikia.com/wiki/Bandit_Camp_(Wilderness).",
+    "description": "[Broad Arrowheads](http://runescape.wikia.com/wiki/Broad_arrowheads) can be purchased only after the completion of the [Smoking Kills](http://runescape.wikia.com/wiki/Smoking_Kills) quest from [Slayer Shops](http://runescape.wikia.com/wiki/Slayer_Equipment).\n\nA total of 9,000 arrowheads can be purchased daily. 3,000 come from [Turael](http://runescape.wikia.com/wiki/Turael) **or** [Spria](http://runescape.wikia.com/wiki/Spria), who they share the same stock. The next 3,000 can come from any other [Slayer Master](http://runescape.wikia.com/wiki/Slayer_Master). The remaining 3,000 can be purchased from [Noterazzo](http://runescape.wikia.com/wiki/Noterazzo), found in the [Wilderness Bandit Camp](http://runescape.wikia.com/wiki/Bandit_Camp_(Wilderness).",
     "url": "http://runescape.wikia.com/wiki/Money_making_guide/Buying_broad_arrowheads",
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
@@ -93,13 +101,13 @@ exports.data = {
      "fields": [
       {
         "name": "Useful Information:",
-        "value": "Broad arrowheads are one of the most popular ways to train Fletching, so this daily run will always generate income. **Do not** take anything into the wilderness that you aren't prepared to lose."
+        "value": "Broad arrowheads are one of the most popular ways to train Fletching, so this daily run will always generate income. **Do not** take anything into the [wilderness](https://runescape.wikia.com/wiki/Wilderness) that you aren't prepared to lose."
       }
     ]
   },
   "coeden":{
     "title": "Coeden Logs",
-    "description": "[Coeden](http://runescape.wikia.com/wiki/Coeden) is an [Ent](http://runescape.wikia.com/wiki/Ent) found in the [Crwys Clan](http://runescape.wikia.com/wiki/Crwys_Clan) district of [Prifddinas](http://runescape.wikia.com/wiki/Prifddinas), sitting on a rock inside a greenhouse that also contains some [choking ivy](http://runescape.wikia.com/wiki/Choking_ivy) for woodcutting. After completing the [Tirannwn Tasks](http://runescape.wikia.com/wiki/Tirannwn_Tasks), players can persuade Coeden each day to give a combination of 28 [elder](http://runescape.wikia.com/wiki/Elder_logs), [magic](http://runescape.wikia.com/wiki/Magic_logs) and [yew logs](http://runescape.wikia.com/wiki/Yew_logs).",
+    "description": "[Coeden](http://runescape.wikia.com/wiki/Coeden) is an [Ent](http://runescape.wikia.com/wiki/Ent) found in the [Crwys Clan](http://runescape.wikia.com/wiki/Crwys_Clan) district of [Prifddinas](http://runescape.wikia.com/wiki/Prifddinas), sitting on a rock inside a greenhouse that also contains some [choking ivy](http://runescape.wikia.com/wiki/Choking_ivy) for woodcutting. After completing the [Tirannwn Tasks](http://runescape.wikia.com/wiki/Tirannwn_Tasks), players can persuade Coeden each day to give a random combination of 28 [elder](http://runescape.wikia.com/wiki/Elder_logs), [magic](http://runescape.wikia.com/wiki/Magic_logs) and [yew logs](http://runescape.wikia.com/wiki/Yew_logs).",
     "url": "http://runescape.wikia.com/wiki/Coeden#Persuading",
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
@@ -114,14 +122,14 @@ exports.data = {
     },
      "fields": [
       {
-        "name": "Useful Information",
+        "name": "Useful Information:",
         "value": "Players must have an empty inventory to receive the logs. The chosen dialogue option for persuading Coeden doesn't affect the outcome of the logs. For a list of possible log combinations, click [here](http://runescape.wikia.com/wiki/Coeden#Daily_logs)."
       }
     ]
   },
   "crystal flasks": {
     "title": "Crystal Flasks",
-    "description": "[Crystal Flasks](http://runescape.wikia.com/wiki/Crystal_flask) require the completion of [Plague's End](http://runescape.wikia.com/wiki/Plague%27s_End). They can be made from [Crystal-flecked Sandstone](http://runescape.wikia.com/wiki/Crystal-flecked_sandstone).\n\n50 sandstone can be mined daily in the [Ithell District](http://runescape.wikia.com/wiki/Ithell_Clan), and an additional 25 in the [Edimmu Resource Dungeon](http://runescape.wikia.com/wiki/Edimmu_resource_dungeon), requiring 115 Dungeoneering. To operate the machine, a player must have completed the [As a First Resort](http://runescape.wikia.com/wiki/As_a_First_Resort) quest.",
+    "description": "[Crystal Flasks](http://runescape.wikia.com/wiki/Crystal_flask) require the completion of the [Plague's End](http://runescape.wikia.com/wiki/Plague%27s_End) quest. They can be made from [Crystal-flecked Sandstone](http://runescape.wikia.com/wiki/Crystal-flecked_sandstone).\n\n50 sandstone can be mined daily in the [Ithell District](http://runescape.wikia.com/wiki/Ithell_Clan) of [Prifddinas](http://runescape.wikia.com/wiki/Prifddinas), and an additional 25 in the [Edimmu Resource Dungeon](http://runescape.wikia.com/wiki/Edimmu_resource_dungeon) in the [Meilyr Clan](https://runescape.wikia.com/wiki/Meilyr_Clan) distruct of Prifddinas, requiring 115 Dungeoneering to enter.\n\nTo operate the [robust glass machine](https://runescape.wikia.com/wiki/Robust_glass_machine) and convert the Crystal-flecked Sandstone into [crystal glass](https://runescape.wikia.com/wiki/Crystal_glass), the player must have completed the [As a First Resort](http://runescape.wikia.com/wiki/As_a_First_Resort) quest.",
     "url": "http://runescape.wikia.com/wiki/Crystal_flask",
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
@@ -137,13 +145,13 @@ exports.data = {
      "fields": [
       {
         "name": "Useful Information:",
-        "value": "The crystal flasks are popular due to the fact that they hold 2 more doses of a potion. They are also used for making combination potions."
+        "value": "The crystal flasks are popular due to the fact that they hold 2 more doses of a potion perk flask and are required for making [combination potions](http://runescape.wikia.com/wiki/Combination_potions)."
       }
     ]
   },
   "feathers": {
     "title": "Feathers",
-    "description": "[Feathers](http://runescape.wikia.com/wiki/Feather) are a great way to make some money, especially if you are new or have very few [coins](https://runescape.wikia.com/wiki/Coins) to begin with.\n\n1,000 feathers can be bought daily, along with the recent addition of [feather packs](http://runescape.wikia.com/wiki/Feather_pack), which can increase the number purchased per day.\n\nA full list of locations and the preferred route can be found [here](http://runescape.wikia.com/wiki/Money_making_guide/Buying_feathers).",
+    "description": "[Feathers](http://runescape.wikia.com/wiki/Feather) are a great way to make some money, especially if you are new or have very few [coins](https://runescape.wikia.com/wiki/Coins) to begin with.\n\n1,000 feathers can be bought daily, along with [feather packs](http://runescape.wikia.com/wiki/Feather_pack), which can increase the number purchased per day.\n\nA full list of locations and the preferred route can be found [here](http://runescape.wikia.com/wiki/Money_making_guide/Buying_feathers).",
     "url": "http://runescape.wikia.com/wiki/Money_making_guide/Buying_feathers",
     "color": 12269891,
     "footer": {
@@ -154,7 +162,7 @@ exports.data = {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/3/3d/Feather_detail.png/revision/latest?cb=20111121001036"
     },
     "author": {
-      "name": "Max Cape Info",
+      "name": "Daily Money Making Guide Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
      "fields": [
@@ -166,7 +174,7 @@ exports.data = {
   },
   "feathers of ma'at": {
     "title": "Feathers of Ma'at",
-    "description": "Every day, 1000 [feathers of Ma'at](http://runescape.wikia.com/wiki/Feather_of_Ma%27at) can be bought for 1500 coins each from the [Menaphite guard](http://runescape.wikia.com/wiki/Menaphite_guard_(Sophanem_Slayer_Dungeon) outside the [Sophanem Slayer Dungeon](http://runescape.wikia.com/wiki/Sophanem_Slayer_Dungeon). The player will have needed to complete [Icthlarin's Little Helper](http://runescape.wikia.com/wiki/Icthlarin%27s_Little_Helper) in order to use this method.",
+    "description": "Every day, 1,000 [feathers of Ma'at](http://runescape.wikia.com/wiki/Feather_of_Ma%27at) can be bought for 1,500 [coins](https://runescape.wikia.com/wiki/Coins) each from the [Menaphite guard](http://runescape.wikia.com/wiki/Menaphite_guard_(Sophanem_Slayer_Dungeon) outside the [Sophanem Slayer Dungeon](http://runescape.wikia.com/wiki/Sophanem_Slayer_Dungeon) in south-west [Sophanem](https://runescape.wikia.com/wiki/Sophanem). The player will have needed to complete the [Icthlarin's Little Helper](http://runescape.wikia.com/wiki/Icthlarin%27s_Little_Helper) and [The Jack of Spades](http://runescape.wikia.com/wiki/The_Jack_of_Spades) quests in order to use this method.",
     "url": "http://runescape.wikia.com/wiki/Money_making_guide/Buying_feathers_of_Ma%27at",
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
@@ -176,19 +184,19 @@ exports.data = {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/4/4d/Feather_of_Ma%27at_detail.png/revision/latest?cb=20170605225654"
     },
     "author": {
-      "name": "Max Cape Info",
+      "name": "Daily Money Making Guide Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
      "fields": [
       {
-        "name": "Useful Information",
-        "value": "The fastest way to reach the guard is by using a [Sophanem Slayer Dungeon teleport](http://runescape.wikia.com/wiki/Sophanem_Slayer_Dungeon_teleport) which teleports the player outside the dungeon and immediately next to the guard. If the player wishes not to use a teleportation tablet, the guard can be reached by teleporting to the [lodestone](http://runescape.wikia.com/wiki/Lodestone_Network) in [Menaphos](http://runescape.wikia.com/wiki/Menaphos) and crossing the bridge to [Sophanem](http://runescape.wikia.com/wiki/Sophanem). This requires completion if [Jack of Spades](http://runescape.wikia.com/wiki/Jack_of_Spades) and [Contact!](http://runescape.wikia.com/wiki/Contact!)"
+        "name": "Useful Information:",
+        "value": "The fastest way to reach the guard is by using a [Sophanem Slayer Dungeon teleport](http://runescape.wikia.com/wiki/Sophanem_Slayer_Dungeon_teleport) which teleports the player outside the dungeon and immediately next to the guard. If the player wishes not to use a teleportation tablet, the guard can be reached by teleporting to the [lodestone](http://runescape.wikia.com/wiki/Lodestone_Network) in [Menaphos](http://runescape.wikia.com/wiki/Menaphos) and crossing the bridge to Sophanem."
       }
     ]
   },
   "potion flasks": {
     "title": "Potion Flasks",
-    "description": "[Potion Flasks](http://runescape.wikia.com/wiki/Potion_flask) can be made from [Red Sandstone](http://runescape.wikia.com/wiki/Red_sandstone).\n\n50 sandstone can be mined daily north of [Oo'glog](http://runescape.wikia.com/wiki/Oo%27glog), and an additional 25 east of [Sophanem](https://runescape.wikia.com/wiki/Sophanem) after the completion of the [Elite Desert Tasks](http://runescape.wikia.com/wiki/Desert_achievements).",
+    "description": "[Potion Flasks](http://runescape.wikia.com/wiki/Potion_flask) can be made from [Red Sandstone](http://runescape.wikia.com/wiki/Red_sandstone).\n\n50 sandstone can be mined daily north of [Oo'glog](http://runescape.wikia.com/wiki/Oo%27glog), and an additional 25 east of [Sophanem](https://runescape.wikia.com/wiki/Sophanem) after the completion of the [Elite Desert Tasks](http://runescape.wikia.com/wiki/Desert_achievements).\n\nTo operate the [robust glass machine](https://runescape.wikia.com/wiki/Robust_glass_machine) and convert the Red Sandstone into [robust glass](https://runescape.wikia.com/wiki/Robust_glass), the player must have completed the [As a First Resort](http://runescape.wikia.com/wiki/As_a_First_Resort) quest.",
     "url": "http://runescape.wikia.com/wiki/Money_making_guide/Making_potion_flasks",
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
@@ -204,13 +212,13 @@ exports.data = {
      "fields": [
       {
         "name": "Useful Information:",
-        "value": "The potion flasks are popular due to the fact that they hold 2 more doses of a potion."
+        "value": "The potion flasks are popular due to the fact that they hold 2 more doses of a potion per flask."
       }
     ]
   },
   "rune shop run": {
     "title": "Rune Shop Run",
-    "description": "Runes can be purchased from [Magic Shops](http://runescape.wikia.com/wiki/Magic_shops) daily. Players should only be purchasing runes that can yield profit. For a chart that's up to date on profit, click [here](http://runescape.wikia.com/wiki/Calculator:Other/Runes_from_shops).",
+    "description": "Runes can be purchased from [Magic Shops](http://runescape.wikia.com/wiki/Magic_shops) throughout [Gielinor](https://runescape.wikia.com/wiki/Gielinor) daily. Players should only be purchasing runes that can yield profit. For a chart that's up to date on profit, click [here](http://runescape.wikia.com/wiki/Calculator:Other/Runes_from_shops).",
     "url": "http://runescape.wikia.com/wiki/Money_making_guide/Buying_runes",
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
@@ -226,13 +234,13 @@ exports.data = {
      "fields": [
       {
         "name": "Useful Information:",
-        "value": "The recommended route and profit per instance can be found [here](http://runescape.wikia.com/wiki/Money_making_guide/Buying_runes). Keep in mind although some areas have requirements, it may still be worth visiting the shops you're able to daily as the coins add up."
+        "value": "The recommended route and profit per instance can be found [here](http://runescape.wikia.com/wiki/Money_making_guide/Buying_runes). Bear in mind that while some areas have requirements, it may still be worth visiting the shops you're able to daily as the coins add up over time for early level players."
       }
     ]
   },
   "vis wax": {
     "title": "Rune Goldberg Machine - Vis Wax",
-    "description": "The [Rune Goldberg Machine](http://runescape.wikia.com/wiki/Rune_Goldberg_Machine) is a [Distraction and Diversion](http://runescape.wikia.com/wiki/Distractions_and_Diversions) that involves turning [Runes](http://runescape.wikia.com/wiki/Runes) into [Vis Wax](http://runescape.wikia.com/wiki/Vis_wax).\n\nThe machine is located in the [Runecrafting Guild](http://runescape.wikia.com/wiki/Runecrafting_Guild). It's required to have at least level 50 Runecrafting in order to enter the guild. \n\nEach of the three slots has a **best** rune, which changes daily. The first slot is the same for every player. The second slot is one of three possible runes (varies from player to player). The third slot is randomly assigned and unique to each player. Using the [Runecrafting Cape](http://runescape.wikia.com/wiki/Runecrafting_cape) is the best way to know your own unique third slot.",
+    "description": "The [Rune Goldberg Machine](http://runescape.wikia.com/wiki/Rune_Goldberg_Machine) is a [Distraction and Diversion](http://runescape.wikia.com/wiki/Distractions_and_Diversions) that involves turning [Runes](http://runescape.wikia.com/wiki/Runes) into [Vis Wax](http://runescape.wikia.com/wiki/Vis_wax).\n\nThe machine is located in the [Runecrafting Guild](http://runescape.wikia.com/wiki/Runecrafting_Guild), which is located south of [Draynor Village](https://runescape.wikia.com/wiki/Draynor_Village). It's required to have at least level 50 Runecrafting in order to enter the guild. \n\nEach of the three slots has a **best** rune, which changes daily. The first slot is the same for every player. The second slot is one of three possible runes (varies from player to player). The third slot is randomly assigned and unique to each player. Using the [Runecrafting Cape](http://runescape.wikia.com/wiki/Runecrafting_cape) is the best way to know your own unique third slot.",
     "url": "http://runescape.wikia.com/wiki/Rune_Goldberg_Machine",
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
@@ -264,13 +272,13 @@ exports.data = {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/9/9e/Weird_Old_Man_chathead.png/revision/latest?cb=20130324000245"
     },
     "author": {
-      "name": "Max Cape Info",
+      "name": "Daily Money Making Guide Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
      "fields": [
       {
-        "name": "Useful Information",
-        "value": "The Old Man is found just outside the [Kalphite Hive](http://runescape.wikia.com/wiki/Kalphite_Hive), and the fastest way to reach him is using the [fairy ring](http://runescape.wikia.com/wiki/Fairy_ring) code **b•i•q**. This teleport would require the completion of [Fairy Tale II - Cure a Queen](http://runescape.wikia.com/wiki/Fairy_Tale_II_-_Cure_a_Queen)."
+        "name": "Useful Information:",
+        "value": "The Old Man is found just outside the [Kalphite Hive](http://runescape.wikia.com/wiki/Kalphite_Hive) in the [Kharidian Desert](https://runescape.wikia.com/wiki/Kharidian_Desert). The fastest way to reach him is using the [fairy ring](http://runescape.wikia.com/wiki/Fairy_ring) code **b•i•q**. This teleport would require the completion of the [Fairy Tale II - Cure a Queen](http://runescape.wikia.com/wiki/Fairy_Tale_II_-_Cure_a_Queen) quest."
       }
     ]
   },
@@ -286,13 +294,13 @@ exports.data = {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/1/11/Wizard_Cromperty_chathead.png/revision/latest?cb=20120106142213"
     },
     "author": {
-      "name": "Max Cape Info",
+      "name": "Daily Money Making Guide Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
      "fields": [
       {
-        "name": "Useful Information",
-        "value": "Wizard Cromperty is located in the building east of the [Servants' Guild](http://runescape.wikia.com/wiki/Servants%27_Guild). Right-click him to claim the essence. You don't need to be wearing your [ardougne cloak](http://runescape.wikia.com/wiki/Ardougne_cloak) to claim the essence. If you've only completed the medium tasks, you can still claim 100 essence per day."
+        "name": "Useful Information:",
+        "value": "Wizard Cromperty is located in the building east of the [Servants' Guild](http://runescape.wikia.com/wiki/Servants%27_Guild), which is one of the buildings located in the north of [East Ardougne](https://runescape.wikia.com/wiki/East_Ardougne). Right-click him to claim the essence. You don't need to be wearing your [ardougne cloak](http://runescape.wikia.com/wiki/Ardougne_cloak) to claim the essence. If you've only completed the medium tasks, you can still claim 100 essence per day."
       }
     ]
   },
