@@ -170,19 +170,19 @@ exports.data = {
       "fields":[  
          {  
             "name":"​Morvran (Lower levels)",
-            "value": "\t**Tasks to do:** [Elves](http://runescape.wikia.com/wiki/Elf_warrior), [Abyssal demons](http://runescape.wikia.com/wiki/Abyssal_demon), [Glacors](http://runescape.wikia.com/wiki/Glacor), [Nightmare muspahs](http://runescape.wikia.com/wiki/Nightmare_muspah), \n\t[Waterfiends](http://runescape.wikia.com/wiki/Waterfiend), [Celestial dragons](http://runescape.wikia.com/wiki/Celestial_dragon) and [Tormented demons](http://runescape.wikia.com/wiki/Tormented_demon)"
+            "value": "\t**Tasks to do:** [Elves](http://runescape.wikia.com/wiki/Elf_warrior), [Abyssal demons](http://runescape.wikia.com/wiki/Abyssal_demon), [Glacors](http://runescape.wikia.com/wiki/Glacor), [Nightmares](http://runescape.wikia.com/wiki/Nightmare), \n\t[Waterfiends](http://runescape.wikia.com/wiki/Waterfiend), [Celestial dragons](http://runescape.wikia.com/wiki/Celestial_dragon), [Tormented demons](http://runescape.wikia.com/wiki/Tormented_demon), and [Shadow \n\tcreatures](http://runescape.wikia.com/wiki/Shadow_creature) (if done inside a player owned dungeon)"
          },
          {  
             "name":"​",
-            "value":"\t**Tasks to prefer:** Elves, Abyssal demons, Glacors, Nightmare muspahs \n\tand Waterfiends\n\t**Tasks to block:** [Greater demons](http://runescape.wikia.com/wiki/Greater_demon), [Grotworms](http://runescape.wikia.com/wiki/Grotworm), [Black demons](http://runescape.wikia.com/wiki/Black_demon), \n\t[Ascension members](http://runescape.wikia.com/wiki/Monastery_of_Ascension), [Dagannoths](http://runescape.wikia.com/wiki/Dagannoth) and [Shadow creatures](http://runescape.wikia.com/wiki/Shadow_creature)\n\t**Tasks to skip:** Everything else \n\t**Slayer/h:** 450k slayer xp \n\t**Cb/h:** 745k"        
+            "value":"\t**Tasks to prefer:** Elves, Abyssal demons, Glacors, Nightmare muspahs \n\t**Tasks to block:** [Greater demons](http://runescape.wikia.com/wiki/Greater_demon), [Grotworms](http://runescape.wikia.com/wiki/Grotworm), [Black demons](http://runescape.wikia.com/wiki/Black_demon), \n\t[Ascension members](http://runescape.wikia.com/wiki/Monastery_of_Ascension), and [Dagannoths](http://runescape.wikia.com/wiki/Dagannoth)\n\t**Tasks to skip:** Everything else \n\t**Slayer/h:** 450k slayer xp \n\t**Cb/h:** 745k"        
          },
          {  
             "name":"​Morvran (Higher levels)",
-            "value":"\t**Tasks to do:** Elves, Airut, Abyssal demons, Acheron mammoths, \n\tDark beasts, Living wyverns, Ripper demons, Nightmare muspahs, \n\tKalgerion demons and Waterfiends"
+            "value":"\t**Tasks to do:** Elves, Airut, Abyssal demons, Acheron mammoths, \n\tDark beasts, Living wyverns, Ripper demons, Nightmares, \n\t[Kal'gerion demons](http://runescape.wikia.com/wiki/Kal%27gerion_demon), [Gemstone Dragons](http://runescape.wikia.com/wiki/Gemstone_dragons), and [Corrupted Creatures](http://runescape.wikia.com/wiki/Corrupted_creature)"
          },
          {  
             "name":"​",
-            "value":"\t**Tasks to prefer:** Elves, [Airut](http://runescape.wikia.com/wiki/Airut), Abyssal demons, [Acheron mammoths](http://runescape.wikia.com/wiki/Acheron_mammoth), \n\t[Dark beasts](http://runescape.wikia.com/wiki/Dark_beast), [Living wyverns](http://runescape.wikia.com/wiki/Wyvern) and [Ripper demons](http://runescape.wikia.com/wiki/Ripper_Demon) \n\t**Tasks to block:** Greater demons, Grotworms, Black demons, \n\tAscention members, Dagannoths and Shadow creatures\n\t**Tasks to skip:** Everything else \n\t**Slayer/h:** 600k slayer xp \n\t**Cb/h:** 850k"        
+            "value":"\t**Tasks to prefer:** Elves, [Airut](http://runescape.wikia.com/wiki/Airut), Abyssal demons, [Acheron mammoths](http://runescape.wikia.com/wiki/Acheron_mammoth), \n\t[Dark beasts](http://runescape.wikia.com/wiki/Dark_beast), [Living wyverns](http://runescape.wikia.com/wiki/Wyvern) and [Ripper demons](http://runescape.wikia.com/wiki/Ripper_Demon) \n\t**Tasks to block:** Greater demons, Grotworms, Black demons, \n\tAscention members, Dagannoths\n\t**Tasks to skip:** Everything else \n\t**Slayer/h:** 600k slayer xp \n\t**Cb/h:** 850k"        
          },
          {  
             "name":"​Prefer/Block",
