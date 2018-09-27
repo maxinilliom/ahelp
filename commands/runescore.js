@@ -204,6 +204,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 		let i = 1;
 		const searchEmbed = data["search"];
 		rtnArr.forEach(n => {
+			if (data[rtnArr[i-1]].title) return;
 			if (output.length <= 2000) {
 				output += `${i}: ${data[rtnArr[i-1]].title}\n`;
 			} else if (second.length <= 2000) {
