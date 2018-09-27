@@ -835,23 +835,31 @@ exports.data = {
       "fields":[  
          {  
             "name":"Summoning boosts",
-            "value":"[Summoning cape](https://runescape.wikia.com/wiki/Summoning_cape)\n\t• +1 level for 1 minute"
+            "value":"[Summoning cape](https://runescape.wikia.com/wiki/Summoning_cape)\n• +1 level for 1 minute"
          },
          {  
             "name":"​",
-            "value":"[Pigswill](https://runescape.wikia.com/wiki/Pigswill)\n\t•  Boosts Summoning and Farming levels by 3\n\t•  Only boosts Summoning points, not the actual level\n\t•  Reduces Attack and Strength by 3 levels\n\t•  Heals 880 life points"
+            "value":"[Pigswill](https://runescape.wikia.com/wiki/Pigswill)\n• Boosts Summoning and Farming levels by 3\n• Only boosts Summoning points, not the actual level\n• Reduces Attack and Strength by 3 levels\n• Heals 880 life points"
          },
          {  
             "name":"​",
-            "value":"[Mature pigswill](https://runescape.wikia.com/wiki/Mature_pigswill)\n\t•  Boosts Summoning and Farming levels by 3 and 4 respectively\n\t•  Only boosts Summoning points, not the actual level\n\t•  Reduces Attack and Strength by 3 levels\n\t•  Heals 880 life points"
+            "value":"[Mature pigswill](https://runescape.wikia.com/wiki/Mature_pigswill)\n• Boosts Summoning and Farming levels by 3 and 4 respectively\n• Only boosts Summoning points, not the actual level\n• Reduces Attack and Strength by 3 levels\n• Heals 880 life points"
          },
          {  
             "name":"​",
-            "value":"[Pork pie](https://runescape.wikia.com/wiki/Pork_pie)\n\t• Boosts Summoning levels by 5\n\t•  Only boosts Summoning points, not the actual level\n\t•  Heals 1350 life points"
+            "value":"[Pork pie](https://runescape.wikia.com/wiki/Pork_pie)\n• Boosts Summoning levels by 5\n• Only boosts Summoning points, not the actual level\n• Heals 1350 life points"
          },
          {  
             "name":"​",
-            "value":"[Musaberry](https://runescape.wikia.com/wiki/Musaberry)\n\t• Skill boost: +2 levels\n\t• Reduced Defence by 1 level"
+            "value":"[Musaberry](https://runescape.wikia.com/wiki/Musaberry)\n• Skill boost: +2 levels\n• Reduced Defence by 1 level"
+         },
+         {  
+            "name":"​",
+            "value":"[Amlodd Voice of Seren](http://runescape.wikia.com/wiki/Voice_of_Seren#Known_effects)\n• 20% more base Summoning XP from making pouches and scrolls, as well as creating 12 scrolls per pouch instead of the regular 10.\n• 20% more base Divination XP from converting shadow cores, as well as a chance of chronicles spawning after killing a truthful, blissful or manifest shadow."
+         },
+         {  
+            "name":"​",
+            "value":"[Spirit Gems](http://runescape.wikia.com/wiki/Spirit_gems)\n• Gives a chance of saving a charm when worn while creating pouches\n• Each version has a different percent chance of saving a charm, and the amound of charges it has:\n\t• [Spirit Sapphire](http://runescape.wikia.com/wiki/Spirit_sapphire) - 10% chance, 10 charges\n\t• [Spirit Emerald](http://runescape.wikia.com/wiki/Spirit_emerald) - 20% chance, 20 charges\n\t• [Spirit Ruby](http://runescape.wikia.com/wiki/Spirit_ruby) - 30% chance, 30 charges\n\t• [Spirit Diamond](http://runescape.wikia.com/wiki/Spirit_diamond) - 40% chance, 40 charges\n\t• [Spirit Dragonstone](http://runescape.wikia.com/wiki/Spirit_dragonstone) - 50% chance, 50 charges\n\t• [Spirit Onyx](http://runescape.wikia.com/wiki/Spirit_onyx) - 60% chance, 60 charges"
          }
       ]
    }
