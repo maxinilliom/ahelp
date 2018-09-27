@@ -370,31 +370,31 @@ exports.data = {
       "fields":[  
          {  
             "name":"Prayer boosts",
-            "value":"[Prayer cape](https://runescape.wikia.com/wiki/Prayer_cape)\n\t• +1 level for 1 minute"
+            "value":"[Prayer cape](https://runescape.wikia.com/wiki/Prayer_cape)\n• +1 level for 1 minute"
          },
          {  
             "name":"​",
-            "value":"[Spicy stew](https://runescape.wikia.com/wiki/Spicy_stew)\n\t•  Boost is applied to a random skill\n\t•  Up to ±6 with 3 spice doses\n\t•  Up to ±3 with 2 spice doses\n\t•  Up to ±2 with 1 spice dose"
+            "value":"[Spicy stew](https://runescape.wikia.com/wiki/Spicy_stew)\n•  Boost is applied to a random skill\n•  Up to ±6 with 3 spice doses\n•  Up to ±3 with 2 spice doses\n•  Up to ±2 with 1 spice dose"
          },
          {  
             "name":"​",
-            "value":"[Perfect juju prayer potion](https://runescape.wikia.com/wiki/Perfect_juju_prayer_potion)\n\t• Gives 5% more experience for using [cleansing crystals](https://runescape.wikia.com/wiki/Cleansing_crystal)\n\t• Gives 5% more experience for sacrificing bones and ashes on a [gilded altar](https://runescape.wikia.com/wiki/Gilded_altar) or the [Chaos altar](https://runescape.wikia.com/wiki/Chaos_Temple_(Wilderness%29#Chaos_Altar)\n\t• One dose lasts for 1 hour"
+            "value":"[Perfect juju prayer potion](https://runescape.wikia.com/wiki/Perfect_juju_prayer_potion)\n• Gives 5% more experience for using [cleansing crystals](https://runescape.wikia.com/wiki/Cleansing_crystal)\n• Gives 5% more experience for sacrificing bones and ashes on a [gilded altar](https://runescape.wikia.com/wiki/Gilded_altar) or the [Chaos altar](http://runescape.wikia.com/wiki/Chaos_Temple_(Wilderness)\n• One dose lasts for 1 hour"
          },
          {  
             "name":"​",
-            "value":"[Perfect plus potion](https://runescape.wikia.com/wiki/Perfect_plus_potion)\n\t• Gives the same effects of all the [perfect juju potions](https://runescape.wikia.com/wiki/Perfect_juju_potion)\n\t• One dose lasts for 4 hours"
+            "value":"[Perfect plus potion](https://runescape.wikia.com/wiki/Perfect_plus_potion)\n• Gives the same effects of all the [perfect juju potions](https://runescape.wikia.com/wiki/Perfect_juju_potion)\n• One dose lasts for 4 hours"
          },
          {  
             "name":"​",
-            "value":"[Corruption aura](https://runescape.wikia.com/wiki/Corruption_aura), [salvation aura](https://runescape.wikia.com/wiki/Salvation_aura) and [harmony aura](https://runescape.wikia.com/wiki/Harmony_aura)\n\t• Corruption aura, salvation aura and harmony aura all increase the amount of experience you gain from using bones on the [gilded altar](https://runescape.wikia.com/wiki/Gilded_altar) or the [Chaos altar](https://runescape.wikia.com/wiki/Chaos_Temple_(Wilderness)#Chaos_Altar)(between 1% and 2.5%, depending on which aura is used) while they are activated. It does NOT WORK with ashes being used on the altar.\n\t• Effects last for one hour after they are activated\n\t• Has a 3 hour cooldown after usage\n\t• Can be bought using [membership loyalty points](https://runescape.wikia.com/wiki/Membership_loyalty_points)"
+            "value":"[Corruption aura](https://runescape.wikia.com/wiki/Corruption_aura), [salvation aura](https://runescape.wikia.com/wiki/Salvation_aura) and [harmony aura](https://runescape.wikia.com/wiki/Harmony_aura)\n• Corruption aura, salvation aura and harmony aura all increase the amount of experience you gain from using bones on the [gilded altar](https://runescape.wikia.com/wiki/Gilded_altar) or the [Chaos altar](https://runescape.wikia.com/wiki/Chaos_Temple_(Wilderness) (between 1% and 2.5%, depending on which aura is used) while they are activated. It does NOT WORK with ashes being used on the altar.\n• Effects last for one hour after they are activated\n• Has a 3 hour cooldown after usage\n• Can be bought using [membership loyalty points](https://runescape.wikia.com/wiki/Membership_loyalty_points)"
          },
          {  
             "name":"​",
-            "value":"[Brawling gloves (prayer)](https://runescape.wikia.com/wiki/Brawling_gloves_%28Prayer%29)\n\t• A 50% XP boost is given anywhere outside of the Wilderness. However, the buff increases up to 300% at level 47 Wilderness, just south of the fence. The gloves last for about 1274 uses."
+            "value":"[Brawling gloves (prayer)](https://runescape.wikia.com/wiki/Brawling_gloves_%28Prayer%29)\n• A 50% XP boost is given anywhere outside of the Wilderness. However, the buff increases up to 300% at level 47 Wilderness, just south of the fence. The gloves last for about 1274 uses."
          },
          {  
             "name":"​",
-            "value":"[Prayer urns](https://runescape.wikia.com/wiki/Urns#Prayer)\n\t• Fill up when killing creatures that drop ashes\n\t• Once full the urn can be teleported for experience\n\t• Gives between 120 and 1,875 experience per urn (depends on level of urn used)\n\t• Using an [urn enhancer](http://runescape.wikia.com/wiki/Urn_enhancer) increases the experience gained when teleporting an urn by 25%\n\t• There are 3 types of Prayer urns: [impious](https://runescape.wikia.com/wiki/Impious_urn) which only fills up with [impious ashes](https://runescape.wikia.com/wiki/Impious_ashes), [accursed](https://runescape.wikia.com/wiki/Accursed_urn) which fills up with impious ashes and [accursed ashes](https://runescape.wikia.com/wiki/Accursed_ashes), and [infernal](https://runescape.wikia.com/wiki/Infernal_urn) which fills up with impious, accursed, [infernal](https://runescape.wikia.com/wiki/Infernal_ashes), [tortured](https://runescape.wikia.com/wiki/Tortured_ashes), and [searing ashes](https://runescape.wikia.com/wiki/Searing_ashes)."
+            "value":"[Prayer urns](https://runescape.wikia.com/wiki/Urns#Prayer)\n• Gives between 120 to 1,875 experience per urn (depends on level of urn used)\n• Gives between 150 to 2,343.75 when using an [urn enhancer](http://runescape.wikia.com/wiki/Urn_enhancer)"
          }
       ]
    }
