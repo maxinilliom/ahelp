@@ -265,10 +265,11 @@ exports.run = async (client, message, [skill, ...args], level) => { // eslint-di
                 let i = 1;
                 const searchEmbed = data["search"];
 				rtnArr.forEach(n => {
-					if (output.length <= 2000) {
-						output += `${i}: ${data[rtnArr[i-1]].embed.title}\n`;
+					if (!data[n].title) return;
+					else if (output.length <= 2000) {
+						output += `${i}: ${data[n].title}\n`;
 					} else if (second.length <= 2000) {
-						second += `${i}: ${data[rtnArr[i-1]].embed.title}\n`;
+						second += `${i}: ${data[n].title}\n`;
 					}
 					i++;
 				});
@@ -289,6 +290,11 @@ exports.run = async (client, message, [skill, ...args], level) => { // eslint-di
         const response = await client.awaitReply(message, "Which guide were you searching for? Please enter the corresponding number.");
         if (isNaN(response) || response > rtnArr.length || response < 1) return message.channel.send("Invalid number specified, search cancelled.");
         rtnArr.forEach(n => {
+		if (!data[n].title) {
+			rtnArr.filter(e => e !== n);
+		}
+	});
+	rtnArr.forEach(n => {
 				const title = rtnArr[response-1];
 				const replace = new RegExp(title.replace(/ \bpt\d/, ""));
 				if (replace.test(n) && /\bpt\d/.test(n)) {
