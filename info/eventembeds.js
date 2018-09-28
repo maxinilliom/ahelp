@@ -135,23 +135,23 @@ exports.data = {
       },
       {
         "name": "Easy Clues:",
-        "value": "• To solve [easy clue scrolls](https://runescape.wikia.com/wiki/Clue_scroll_(easy), players may encounter:\n\t• [Simple clues](https://runescape.wikia.com/wiki/Treasure_Trails/Guide/Simple_clues)\n\t• [Emote clues](https://runescape.wikia.com/wiki/Treasure_Trails/Guide/Emotes)\n\t• [Maps](https://runescape.wikia.com/wiki/Treasure_Trails/Guide/Maps)\n\t• [Cryptics](https://runescape.wikia.com/wiki/Treasure_Trails/Guide/Cryptics)"
+        "value": "To solve [easy clue scrolls](https://runescape.wikia.com/wiki/Clue_scroll_(easy), players may encounter:\n\t• [Simple clues](https://runescape.wikia.com/wiki/Treasure_Trails/Guide/Simple_clues)\n\t• [Emote clues](https://runescape.wikia.com/wiki/Treasure_Trails/Guide/Emotes)\n\t• [Maps](https://runescape.wikia.com/wiki/Treasure_Trails/Guide/Maps)\n\t• [Cryptics](https://runescape.wikia.com/wiki/Treasure_Trails/Guide/Cryptics)"
       },
       {
         "name": "Medium Clues:",
-        "value": "• To solve [medium clue scrolls](https://runescape.wikia.com/wiki/Clue_scroll_(medium), players may encounter:\n\t• [Anagrams](https://runescape.wikia.com/wiki/Treasure_Trails/Guide/Anagrams)\n\t• [Challenge scrolls](https://runescape.wikia.com/wiki/Treasure_Trails/Guide/Challenge_scrolls)\n\t• Cryptics\n\t• Emote clues\n\t• [Coordinates](https://runescape.wikia.com/wiki/Treasure_Trails/Guide/Coordinates)\n\t• Maps\n\t• Simple clues"
+        "value": "To solve [medium clue scrolls](https://runescape.wikia.com/wiki/Clue_scroll_(medium), players may encounter:\n\t• [Anagrams](https://runescape.wikia.com/wiki/Treasure_Trails/Guide/Anagrams)\n\t• [Challenge scrolls](https://runescape.wikia.com/wiki/Treasure_Trails/Guide/Challenge_scrolls)\n\t• Cryptics\n\t• Emote clues\n\t• [Coordinates](https://runescape.wikia.com/wiki/Treasure_Trails/Guide/Coordinates)\n\t• Maps\n\t• Simple clues"
       },
       {
         "name": "Hard Clues:",
-        "value": "• To solve [hard clue scrolls](https://runescape.wikia.com/wiki/Clue_scroll_(hard), players may encounter:\n\t• Anagrams\n\t• Challenge scrolls\n\t• [Puzzle boxes](https://runescape.wikia.com/wiki/Treasure_Trails/Guide/Puzzle_boxes)\n\t• Coordinates\n\t• Cryptics\n\t• Emote clues\n\t• Maps"
+        "value": "To solve [hard clue scrolls](https://runescape.wikia.com/wiki/Clue_scroll_(hard), players may encounter:\n\t• Anagrams\n\t• Challenge scrolls\n\t• [Puzzle boxes](https://runescape.wikia.com/wiki/Treasure_Trails/Guide/Puzzle_boxes)\n\t• Coordinates\n\t• Cryptics\n\t• Emote clues\n\t• Maps"
       },
       {
         "name": "Elite Clues:",
-        "value": "• To solve [elite clue scrolls](https://runescape.wikia.com/wiki/Clue_scroll_(elite), players may encounter:\n\t• [Compass](https://runescape.wikia.com/wiki/Treasure_Trails/Guide/Compass)\n\t• [Scans](https://runescape.wikia.com/wiki/Treasure_Trails/Guide/Scans)\n\t• Puzzle boxes\n\t• [Celtic knots](https://runescape.wikia.com/wiki/Treasure_Trails/Guide/Celtic_knots)"
+        "value": "To solve [elite clue scrolls](https://runescape.wikia.com/wiki/Clue_scroll_(elite), players may encounter:\n\t• [Compass](https://runescape.wikia.com/wiki/Treasure_Trails/Guide/Compass)\n\t• [Scans](https://runescape.wikia.com/wiki/Treasure_Trails/Guide/Scans)\n\t• Puzzle boxes\n\t• [Celtic knots](https://runescape.wikia.com/wiki/Treasure_Trails/Guide/Celtic_knots)"
       },
       {
         "name": "Master Clues:",
-        "value": "• To solve [master clue scrolls](https://runescape.wikia.com/wiki/Clue_scroll_(master), players may encounter:\n\t• Scans\n\t• Emotes\n\t• Anagrams\n\t• Puzzle boxes\n\t• [Tower puzzles](https://runescape.wikia.com/wiki/Treasure_Trails/Guide/Towers)\n\t• [Lockboxes](https://runescape.wikia.com/wiki/Treasure_Trails/Guide/Lockboxes)\n\t• [Skill riddle challenges](https://runescape.wikia.com/wiki/Treasure_Trails/Guide/Skill_riddle_challenges)"
+        "value": "To solve [master clue scrolls](https://runescape.wikia.com/wiki/Clue_scroll_(master), players may encounter:\n\t• Scans\n\t• Emotes\n\t• Anagrams\n\t• Puzzle boxes\n\t• [Tower puzzles](https://runescape.wikia.com/wiki/Treasure_Trails/Guide/Towers)\n\t• [Lockboxes](https://runescape.wikia.com/wiki/Treasure_Trails/Guide/Lockboxes)\n\t• [Skill riddle challenges](https://runescape.wikia.com/wiki/Treasure_Trails/Guide/Skill_riddle_challenges)"
       },
       {
         "name": "Guide:",
