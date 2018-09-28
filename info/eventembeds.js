@@ -131,7 +131,7 @@ exports.data = {
       },
       {
         "name": "What You Can Win:",
-        "value": "The prize pool is Xm.\n• The player with the most overall points will win Xm.\n• The player with the most overall clues will win Xm\n• The players with the most voted item will win Xm\n• The player with highest value reward will win Xm\n• The player with the lowest value reward will win Xm"
+        "value": "The prize pool is 215m!\n• The player with the most overall points will win 75m\n• The player with the most overall clues will win 50m\n• The players with the most voted item will win 50m\n• The player with highest value reward will win 20m\n• The player with the lowest value reward will win 20m\n\nThanks to our donators: Chris D, Saint Cannon, Arvee, M D, Tell, Ako, Zuku, The Five-O, Maux, and Mosaic Heart!"
       },
       {
         "name": "Easy Clues:",
