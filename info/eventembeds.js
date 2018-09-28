@@ -127,7 +127,7 @@ exports.data = {
       },
       {
         "name": "How Points are Decided:",
-        "value": "• Easy clues are 1 point\n• Medium clues are 2 points\n• Hard clues are 3 points\n• Elite clues are 5 points\n• Masters clues are 8 points\n• The voted item [Gnomish Firelighters](https://runescape.wikia.com/wiki/Gnomish_firelighters) are 5 points."
+        "value": "• Easy clues are 1 point\n• Medium clues are 2 points\n• Hard clues are 3 points\n• Elite clues are 5 points\n• Masters clues are 8 points\n• The voted item, [Gnomish Firelighters](https://runescape.wikia.com/wiki/Gnomish_firelighters), are 5 points"
       },
       {
         "name": "What You Can Win:",
