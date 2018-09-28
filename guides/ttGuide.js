@@ -3736,7 +3736,7 @@ exports.data = {
     },
     "fields": [{
       "name": "Tips:",
-      "value": "The [Alt1 Toolkit Clue scroll solver](https://runeapps.org/clue) website and/or downloadable application make clues into a quick task by helping with all types of puzzles, locations, and coordinates. It currently is not against the rules, but the player should always be cautious when using an application that is not owned by Jagex."
+      "value": "The [Alt1 Toolkit Clue scroll solver](https://runeapps.org/clue) Web site and/or downloadable application makes clues into a quick task by helping with all types of puzzles, locations, and coordinates. You can read Jagex's stance on the Alt1 Toolkit [here](https://www.reddit.com/r/runescape/comments/3ootg2/alt1_toolkit_guide/cw0ijyk/)."
     }],
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",

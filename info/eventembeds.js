@@ -118,7 +118,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "• The [Alt1 Toolkit Clue scroll solver](https://runeapps.org/clue) website and/or downloadable application make clues into a quick task by helping with all types of puzzles, locations, and coordinates. You can read Jagex's stance on the Alt1 Toolkit [here](https://www.reddit.com/r/runescape/comments/3ootg2/alt1_toolkit_guide/cw0ijyk/)."
+        "value": "• The [Alt1 Toolkit Clue scroll solver](https://runeapps.org/clue) Web site and/or downloadable application make clues into a quick task by helping with all types of puzzles, locations, and coordinates. You can read Jagex's stance on the Alt1 Toolkit [here](https://www.reddit.com/r/runescape/comments/3ootg2/alt1_toolkit_guide/cw0ijyk/)."
       }
       ]
    },
