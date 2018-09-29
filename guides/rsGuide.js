@@ -9497,7 +9497,7 @@ exports.data = {
       "name": "RuneScore Achievement Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[You Had a Zygomite](https://runescape.wikia.com/wiki/You_Had_a_Zygomite) is an achievement that is unlocked by completing all zygomite breeds at the [Player-owned farm](https://runescape.wikia.com/wiki/Player-owned_farm).\n\nThe breeds of zygomites are:\n• [Gloomshroom zygomite](https://runescape.wikia.com/wiki/Gloomshroom_zygomite)\n• [Zanarian zygomite](https://runescape.wikia.com/wiki/Zanarian_zygomite)\n• [Daemoncap zygomite](https://runescape.wikia.com/wiki/Daemoncap_zygomite)\n• [Arcspore zygomite](https://runescape.wikia.com/wiki/Arcspore_zygomite)\n• [Magical zygomite](https://runescape.wikia.com/wiki/Magical_zygomite)\n\nAnimals can only breed in the adult and elder stages. The basic breeding pen has four slots, so only one male and one female should be placed in the pen to leave room for two babies. Additionally, players can buy the small, medium, and large [pen](https://runescape.wikia.com/wiki/Player-owned_farm#Pens) upgrades from [Granny Potterington](https://runescape.wikia.com/wiki/Granny_Potterington)'s [Farmers Market](https://runescape.wikia.com/wiki/Farmers%27_Market) to allow animal breeding inside them, however, with a lower chance and without failure mitigation. When breeding happens in one of the pens, the player will receive a message based on which directional pen it occurred in.",
+    "description": "[You Had a Zygomite](https://runescape.wikia.com/wiki/You_Had_a_Zygomite) is an achievement that is unlocked by completing all zygomite breeds at the [Player-owned farm](https://runescape.wikia.com/wiki/Player-owned_farm).\n\nThe breeds of zygomites are:\n• [Gloomshroom zygomite](https://runescape.wikia.com/wiki/Gloomshroom_zygomite)\n• [Zanarian zygomite](https://runescape.wikia.com/wiki/Zanarian_zygomite)\n• [Daemoncap zygomite](https://runescape.wikia.com/wiki/Daemoncap_zygomite)\n• [Arcspore zygomite](https://runescape.wikia.com/wiki/Arcspore_zygomite)\n• [Magical zygomite](https://runescape.wikia.com/wiki/Magical_zygomite)\n\n**Note:** Daemoncaps have a special breed circumstance in that you cannot breed one from **two** Gloomshrooms. Instead, you can either mix a Gloomshroom with any other breed or use two of any other breed to have a chance in breeding one.\n\nAnimals can only breed in the adult and elder stages. The basic breeding pen has four slots, so only one male and one female should be placed in the pen to leave room for two babies. Additionally, players can buy the small, medium, and large [pen](https://runescape.wikia.com/wiki/Player-owned_farm#Pens) upgrades from [Granny Potterington](https://runescape.wikia.com/wiki/Granny_Potterington)'s [Farmers Market](https://runescape.wikia.com/wiki/Farmers%27_Market) to allow animal breeding inside them, however, with a lower chance and without failure mitigation. When breeding happens in one of the pens, the player will receive a message based on which directional pen it occurred in.",
     "thumbnail": {
       "url": "https://i.imgur.com/Shmagnp.png"
     },
@@ -10159,7 +10159,7 @@ exports.data = {
     },
     "fields": [{
       "name": "Requirements:",
-      "value": "• 76 Thieving\n\n• [Armor](https://runescape.wikia.com/wiki/Black_Knights%27_Fortress#Equipment_that_allows_access_to_the_fort) to access the Black Knight's Fortress or a [skull of remembrance](https://runescape.wikia.com/wiki/Skull_of_Remembrance) "
+      "value": "• 76 Thieving\n\n• [Armor](https://runescape.wikia.com/wiki/Black_Knights%27_Fortress#Equipment_that_allows_access_to_the_fort) to access the Black Knight's Fortress or a [skull of remembrance](https://runescape.wikia.com/wiki/Skull_of_Remembrance)\n\n• While not required to open safes, speaking with the [Safe-cracking trainer](https://runescape.wikia.com/wiki/Safe-cracking_trainer) in the [Thieves' Guild](https://runescape.wikia.com/wiki/Thieves%27_Guild) will allow players to **effectively** open them.\n\n• A [loot bag](https://runescape.wikia.com/wiki/Small_loot_bag) is needed to receive the loot from a safe after cracking it, and it is highly recommended to have a [stethoscope](https://runescape.wikia.com/wiki/Stethoscope) as this increases the success rate of cracking safes. Both of these items are obtained from the safe-cracking trainer during the safe-cracking tutorial."
     }],
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
@@ -10179,7 +10179,7 @@ exports.data = {
     },
     "fields": [{
       "name": "Requirements:",
-      "value": "• 83 Thieving"
+      "value": "• 83 Thieving\n\n• While not required to open safes, speaking with the [Safe-cracking trainer](https://runescape.wikia.com/wiki/Safe-cracking_trainer) in the [Thieves' Guild](https://runescape.wikia.com/wiki/Thieves%27_Guild) will allow players to **effectively** open them.\n\n• A [loot bag](https://runescape.wikia.com/wiki/Small_loot_bag) is needed to receive the loot from a safe after cracking it, and it is highly recommended to have a [stethoscope](https://runescape.wikia.com/wiki/Stethoscope) as this increases the success rate of cracking safes. Both of these items are obtained from the safe-cracking trainer during the safe-cracking tutorial."
     }],
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
@@ -10199,7 +10199,7 @@ exports.data = {
     },
     "fields": [{
       "name": "Requirements:",
-      "value": "• 69 Thieving\n\n• Tier 5 Imperial Disctrict [reputation](https://runescape.wikia.com/wiki/Menaphos/Reputation)"
+      "value": "• 69 Thieving\n\n• Tier 5 Imperial Disctrict [reputation](https://runescape.wikia.com/wiki/Menaphos/Reputation)\n\n• While not required to open safes, speaking with the [Safe-cracking trainer](https://runescape.wikia.com/wiki/Safe-cracking_trainer) in the [Thieves' Guild](https://runescape.wikia.com/wiki/Thieves%27_Guild) will allow players to **effectively** open them.\n\n• A [loot bag](https://runescape.wikia.com/wiki/Small_loot_bag) is needed to receive the loot from a safe after cracking it, and it is highly recommended to have a [stethoscope](https://runescape.wikia.com/wiki/Stethoscope) as this increases the success rate of cracking safes. Both of these items are obtained from the safe-cracking trainer during the safe-cracking tutorial."
     }],
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
@@ -10219,7 +10219,7 @@ exports.data = {
     },
     "fields": [{
       "name": "Requirements:",
-      "value": "• 65 Thieving\n\n• A [lockpick](https://runescape.wikia.com/wiki/Lockpick) or [hairclip](https://runescape.wikia.com/wiki/Hair_clip) for the Varrock treasury room"
+      "value": "• 65 Thieving\n\n• A [lockpick](https://runescape.wikia.com/wiki/Lockpick) or [hairclip](https://runescape.wikia.com/wiki/Hair_clip) for the Varrock treasury room\n\n• While not required to open safes, speaking with the [Safe-cracking trainer](https://runescape.wikia.com/wiki/Safe-cracking_trainer) in the [Thieves' Guild](https://runescape.wikia.com/wiki/Thieves%27_Guild) will allow players to **effectively** open them.\n\n• A [loot bag](https://runescape.wikia.com/wiki/Small_loot_bag) is needed to receive the loot from a safe after cracking it, and it is highly recommended to have a [stethoscope](https://runescape.wikia.com/wiki/Stethoscope) as this increases the success rate of cracking safes. Both of these items are obtained from the safe-cracking trainer during the safe-cracking tutorial."
     }],
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
@@ -10240,6 +10240,10 @@ exports.data = {
     "fields": [{
       "name": "Requirements:",
       "value": "• 96 Thieving\n\n• Lost City Quest completion | [Runescape Wiki](https://runescape.wikia.com/wiki/Lost_City)\n• The Curse of Arrav Quest completion | [Runescape Wiki](https://runescape.wikia.com/wiki/The_Curse_of_Arrav)\n• Ritual of the Mahjarrat Quest completion | [Runescape Wiki](https://runescape.wikia.com/wiki/Ritual_of_the_Mahjarrat) (Recommended) for complete access on the fort, otherwise you must travel through [Lamistard's Tunnels](https://runescape.wikia.com/wiki/Lamistard%27s_Tunnels)\n• Dishonour among Thieves Quest completion | [Runescape Wiki](https://runescape.wikia.com/wiki/Dishonour_among_Thieves) (Recommended) for complete access on the fort, otherwise you must travel through Lamistard's Tunnels"
+    },
+    {
+      "name": "​",
+      "value": "• While not required to open safes, speaking with the [Safe-cracking trainer](https://runescape.wikia.com/wiki/Safe-cracking_trainer) in the [Thieves' Guild](https://runescape.wikia.com/wiki/Thieves%27_Guild) will allow players to **effectively** open them.\n\n• A [loot bag](https://runescape.wikia.com/wiki/Small_loot_bag) is needed to receive the loot from a safe after cracking it, and it is highly recommended to have a [stethoscope](https://runescape.wikia.com/wiki/Stethoscope) as this increases the success rate of cracking safes. Both of these items are obtained from the safe-cracking trainer during the safe-cracking tutorial."
     }],
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
@@ -10266,8 +10270,12 @@ exports.data = {
         "value": "• Ritual of the Mahjarrat Quest completion | [Runescape Wiki](https://runescape.wikia.com/wiki/Ritual_of_the_Mahjarrat) (Recommended) for complete access on the fort, otherwise you must travel through [Lamistard's Tunnels](https://runescape.wikia.com/wiki/Lamistard%27s_Tunnels)\n• Dishonour among Thieves Quest completion | [Runescape Wiki](https://runescape.wikia.com/wiki/Dishonour_among_Thieves) (Recommended) for complete access on the fort, otherwise you must travel through Lamistard's Tunnels"
       },
       {
+        "name": "​",
+        "value": "• While not required to open safes, speaking with the [Safe-cracking trainer](https://runescape.wikia.com/wiki/Safe-cracking_trainer) in the [Thieves' Guild](https://runescape.wikia.com/wiki/Thieves%27_Guild) will allow players to **effectively** open them.\n\n• A [loot bag](https://runescape.wikia.com/wiki/Small_loot_bag) is needed to receive the loot from a safe after cracking it, and it is highly recommended to have a [stethoscope](https://runescape.wikia.com/wiki/Stethoscope) as this increases the success rate of cracking safes. Both of these items are obtained from the safe-cracking trainer during the safe-cracking tutorial."
+      },
+      {
         "name": "Guide:",
-        "value": "You may utilize the **.rs skills thieving** commands in this server for a list of all locations\n\n[Runescape Safe Cracking Locations Guide | Tectail - YouTube](https://www.youtube.com/watch?v=g3xhOxrt7M8)"
+        "value": "• You may utilize the **.rs skills thieving** commands in this server for a list of all locations\n\n• [Runescape Safe Cracking Locations Guide | Tectail - YouTube](https://www.youtube.com/watch?v=g3xhOxrt7M8)"
       }
     ],
     "footer": {
