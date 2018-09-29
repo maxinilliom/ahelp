@@ -101,7 +101,7 @@ exports.data = {
         "value": "•**Guide:** [Abyss Combat and Invention Guide | Maikeru RS - YouTube](https://www.youtube.com/watch?v=lXrmARBZulU)\n\t• Full written guide is found in the `Invention Training Levels 4-27` section of this guide."
      },
       {
-        "name": "▬▬ Skilling Discord server ▬▬",
+        "name": "▬▬ Going above and beyond ▬▬",
         "value": "For more information on training past level 120, please visit our affiliate Discord server, [Skilling](https://discord.gg/EFrxgks)."
       }
       ]
@@ -144,7 +144,7 @@ exports.data = {
         "value": "• <#431117916679831583> Guide\n\t• **Tools:**\n\t\t• [Crystal Tinderbox](https://runescape.wikia.com/wiki/Crystal_tinderbox)\n\t• **Methods:**\n\t\t• [Bonfire](https://runescape.wikia.com/wiki/Bonfire)\n\t\t• [Portable Brazier](https://runescape.wikia.com/wiki/Portable_brazier)\n\t• **Tool Perks:**\n\t\t• [Tinker 3](https://runescape.wikia.com/wiki/Tinker)\n\t\t• [Pyromaniac 5](https://runescape.wikia.com/wiki/Pyromaniac)\n\t• **Equipped Item Perks:**\n\t\t• [Wise 3](https://runescape.wikia.com/wiki/Wise)"
      },
       {
-        "name": "▬▬ Skilling Discord server ▬▬",
+        "name": "▬▬ Going above and beyond ▬▬",
         "value": "For more information on training past level 120, please visit our affiliate Discord server, [Skilling](https://discord.gg/EFrxgks)."
       }
       ]

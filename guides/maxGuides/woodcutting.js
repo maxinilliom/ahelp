@@ -140,7 +140,7 @@ exports.data = {
         "value": "[Golden bamboo trees](http://runescape.wikia.com/wiki/Golden_Bamboo_(tree) are a rare Woodcutting resource that can be found randomly on [Uncharted Isles](http://runescape.wikia.com/wiki/Uncharted_Isles). Uncharted Isles can be explored from the The Arc region, which requires completion of the [Impressing the Locals](http://runescape.wikia.com/wiki/Impressing_the_Locals) quest to access. Completion of the [Flag Fall](http://runescape.wikia.com/wiki/Flag_Fall) miniquest, which allows the player to claim an uncharted isle and return to it, is also required to woodcut golden bamboo effectively. [Golden bamboo](http://runescape.wikia.com/wiki/Golden_bamboo) can be cut with level 96 Woodcutting. Each day, the player may cut approximately 100 golden bamboo per tree before it is depleted. The daily cap resets at 00:00 UTC. Depleting one tree takes around 30 minutes."
       },
       {
-        "name": "▬▬ Skilling Discord server ▬▬",
+        "name": "▬▬ Going above and beyond ▬▬",
         "value": "For more information on training past level 99, please visit our affiliate Discord server, [Skilling](https://discord.gg/EFrxgks)."
       }
        ]

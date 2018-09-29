@@ -206,7 +206,7 @@ exports.data = {
        "value":"• 85-99+ [Godsword](http://runescape.wikia.com/wiki/Godsword) (Requires 70 Attack)\nOR\n• 85-99+ [Dragon Rider Lance](http://runescape.wikia.com/wiki/Dragon_Rider_lance) (Requires 85 Attack)\n\nExpensive Alternative:\n• 90-99+ [Noxious Scythe](http://runescape.wikia.com/wiki/Noxious_scythe) (Requires 90 Attack)"
      },
       {
-        "name": "▬▬ Skilling Discord server ▬▬",
+        "name": "▬▬ Going above and beyond ▬▬",
         "value": "For more information on training past level 99, please visit our affiliate Discord server, [Skilling](https://discord.gg/EFrxgks)."
       }
       ]

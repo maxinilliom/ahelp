@@ -79,7 +79,7 @@ exports.data = {
        "value":"Alternatively, players can continue making [battlestaves](http://runescape.wikia.com/wiki/Battlestaves) to reach level 99. This is a cheaper alternative compared to dragonhide armor, but experience rates are a bit lower."
     },
       {
-        "name": "▬▬ Skilling Discord server ▬▬",
+        "name": "▬▬ Going above and beyond ▬▬",
         "value": "For more information on training past level 99, please visit our affiliate Discord server, [Skilling](https://discord.gg/EFrxgks)."
       }
     ]

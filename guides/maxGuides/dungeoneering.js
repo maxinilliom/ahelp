@@ -92,7 +92,7 @@ exports.data = {
     },
     "fields": [
       {
-        "name": "▬▬ Skilling Discord server ▬▬",
+        "name": "▬▬ Going above and beyond ▬▬",
         "value": "For more information on training past level 120, please visit our affiliate Discord server, [Skilling](https://discord.gg/EFrxgks)."
       }
        ]

@@ -198,7 +198,7 @@ exports.data = {
         "value": "If the player does not want to spend nearly as much for 99, the next best and cheaper option would be burning [corrupted magic logs](http://runescape.wikia.com/wiki/Corrupted_magic_logs)."
       },
       {
-        "name": "▬▬ Skilling Discord server ▬▬",
+        "name": "▬▬ Going above and beyond ▬▬",
         "value": "For more information on training past level 99, please visit our affiliate Discord server, [Skilling](https://discord.gg/EFrxgks)."
       }
       ]

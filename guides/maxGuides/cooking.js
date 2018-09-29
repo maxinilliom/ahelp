@@ -147,7 +147,7 @@ exports.data = {
         "value": "[Raw sailfish](http://runescape.wikia.com/wiki/Raw_sailfish) can be cooked to gain 270 Cooking experience on a range and 297 over a bonfire. Raw sailfish never stop being burnt, unless a player is wearing the [cooking gauntlets](http://runescape.wikia.com/wiki/Cooking_gauntlets), in which case they stopped being burnt at level 99."
       },
       {
-        "name": "▬▬ Skilling Discord server ▬▬",
+        "name": "▬▬ Going above and beyond ▬▬",
         "value": "For more information on training past level 99, please visit our affiliate Discord server, [Skilling](https://discord.gg/EFrxgks)."
       }
       ]

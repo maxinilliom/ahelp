@@ -98,7 +98,7 @@ exports.data = {
             "value":"If a crystal is fully cleansed while wearing the [Tirannwn quiver 3](https://runescape.wikia.com/wiki/Tirannwn_quiver_3) or [Tirannwn quiver 4](https://runescape.wikia.com/wiki/Tirannwn_quiver_4) and there are more crystals carried in the inventory, the next crystal will automatically be used to continue cleansing. This can lead to training with minimal interaction, if large numbers of crystals are bought in advance.\n\nBe careful when clicking while a cleansing crystal is being used. If a misclick or other action occurs, this will interrupt the process.  The crystal will vanish and the player will not gain the remaining experience. One can chat, rotate the camera, and use most interfaces without interrupting the process."
          },
         {
-          "name": "▬▬ Skilling Discord server ▬▬",
+          "name": "▬▬ Going above and beyond ▬▬",
           "value": "For more information on training past level 99, please visit our affiliate Discord server, [Skilling](https://discord.gg/EFrxgks)."
         }
     ],

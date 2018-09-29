@@ -175,7 +175,7 @@ exports.data = {
         "value": "Players should only continue to train at the Wilderness Agility Course if they are using a [Demonic Skull](http://runescape.wikia.com/wiki/Demonic_skull). The demonic skull gives an additional 4% Agility experience for each Agility level the player has over level 50 Agility. Players gain at least double experience for doing the course from level 75 Agility onward, up to triple experience at level 99. At level 99 Agility players can gain around 137,000 experience an hour using a demonic skull at the Wilderness Agility Course."
       },
       {
-        "name": "▬▬ Skilling Discord server ▬▬",
+        "name": "▬▬ Going above and beyond ▬▬",
         "value": "For more information on training past level 99, please visit our affiliate Discord server, [Skilling](https://discord.gg/EFrxgks)."
       }
     ]

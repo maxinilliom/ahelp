@@ -189,7 +189,7 @@ exports.data = {
             "value":"Prefer and block list can be modified to suit your liking better, such as blocking tasks you dislike, but the list above is for maximum slayer experience an hour."        
          },
       {
-        "name": "▬▬ Skilling Discord server ▬▬",
+        "name": "▬▬ Going above and beyond ▬▬",
         "value": "For more information on training past level 120, please visit our affiliate Discord server, [Skilling](https://discord.gg/EFrxgks)."
       }
       ]

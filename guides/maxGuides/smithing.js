@@ -235,7 +235,7 @@ exports.data = {
         "value": "With 89 mining, players can mine [corrupted ore](http://runescape.wikia.com/wiki/Corrupted_ore) from the [Seren stones](http://runescape.wikia.com/wiki/Seren_stone) in the [Trahaern district](http://runescape.wikia.com/wiki/Trahaearn_Clan) of [Prifddinas](http://runescape.wikia.com/wiki/Prifddinas). The [Plague's End](http://runescape.wikia.com/wiki/Plague%27s_End) quest is required to access the city. Smelting this ore gives a rate of around 220,000 experience per hour. This increases by 20% if the [Voice of Seren](http://runescape.wikia.com/wiki/Voice_of_Seren) is active and the player smelts the ore in Trahaern. If the superheat ore spell is used this rate can increase to 375,000 experience an hour, but will cost 1 nature rune per ore. The experience gained through superheating is not increased by the Voice of Seren."
       },
       {
-        "name": "▬▬ Skilling Discord server ▬▬",
+        "name": "▬▬ Going above and beyond ▬▬",
         "value": "For more information on training past level 99, please visit our affiliate Discord server, [Skilling](https://discord.gg/EFrxgks)."
       }
       ]

@@ -198,7 +198,7 @@ exports.data = {
        "value":"• 80-99+ [Chaotic Staff](http://runescape.wikia.com/wiki/Chaotic_staff) (Requires 80 Dungeoneering)\n Or\n• 80-99+ [Virtus Wand](http://runescape.wikia.com/wiki/Virtus_wand) and [Virtus Book](http://runescape.wikia.com/wiki/Virtus_book)\n\n Expensive Alternative:\n• 90-99+ [Noxious Staff](http://runescape.wikia.com/wiki/Noxious_staff)"
      },
       {
-        "name": "▬▬ Skilling Discord server ▬▬",
+        "name": "▬▬ Going above and beyond ▬▬",
         "value": "For more information on training past level 99, please visit our affiliate Discord server, [Skilling](https://discord.gg/EFrxgks)."
       }
     ]

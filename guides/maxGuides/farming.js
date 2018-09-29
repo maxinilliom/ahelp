@@ -253,7 +253,7 @@ exports.data = {
        "value":"At level 94, players Gain the ability to plant a [Crystal Tree](http://runescape.wikia.com/wiki/Crystal_tree). A [Crystal Acorn](http://runescape.wikia.com/wiki/Crystal_acorn) can be used on the farming patch located south-east of the Prifddinas lodestone. The tree may then be harvested for a [Crystal Tree Blossom](http://runescape.wikia.com/wiki/Crystal_tree_blossom) once per day yielding an additional 15,000 Farming experience."
      },
       {
-        "name": "▬▬ Skilling Discord server ▬▬",
+        "name": "▬▬ Going above and beyond ▬▬",
         "value": "For more information on training past level 99, please visit our affiliate Discord server, [Skilling](https://discord.gg/EFrxgks)."
       }
     ]
