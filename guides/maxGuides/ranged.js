@@ -167,7 +167,11 @@ exports.data = {
      {
        "name":"Recommended Weapons",
        "value":"• 80-99+ [Royal Crossbow](http://runescape.wikia.com/wiki/Royal_crossbow)\n\nExpensive Alternative:\n• 80-99+ [Noxious Longbow](http://runescape.wikia.com/wiki/Noxious_longbow)"
-     }
+     },
+      {
+        "name": "▬▬ Skilling Discord server ▬▬",
+        "value": "For more information on training past level 99, please visit our affiliate Discord server, [Skilling](https://discord.gg/EFrxgks)."
+      }
     ]
   },
   "abilities": {

@@ -272,6 +272,10 @@ exports.data = {
       {
         "name": " Weaving Incandescent Energy",
         "value": "At level 95 Divination players can weave [Cursed Energy](http://runescape.wikia.com/wiki/Cursed_energy) into [Incandescent Energy](http://runescape.wikia.com/wiki/Incandescent_energy) for approximately 210,000 experience per hour. Around 140,000 cursed energy is used per hour, to create 210,000 incandescent energy. Cursed energy cannot be traded through the Grand Exchange and must be bought from other players. Although this method is usually not profitable, the high experience rates and low intensity can make up for this."
+      },
+      {
+        "name": "▬▬ Skilling Discord server ▬▬",
+        "value": "For more information on training past level 99, please visit our affiliate Discord server, [Skilling](https://discord.gg/EFrxgks)."
       }
       ]
   },

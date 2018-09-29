@@ -264,6 +264,10 @@ exports.data = {
       {
         "name": "Items needed for Overloads",
         "value": "• [Clean Torstol](http://runescape.wikia.com/wiki/Clean_torstol)\n• [Extreme Attack](http://runescape.wikia.com/wiki/Extreme_attack)\n• [Extreme Strength](http://runescape.wikia.com/wiki/Extreme_strength)\n• [Extreme Defence](http://runescape.wikia.com/wiki/Extreme_defence)\n• [Extreme Magic](http://runescape.wikia.com/wiki/Extreme_magic)\n• [Extreme Ranging](http://runescape.wikia.com/wiki/Extreme_ranging)\n\nApproximately 3,350 Overloads will be made before reaching 99."
+      },
+      {
+        "name": "▬▬ Skilling Discord server ▬▬",
+        "value": "For more information on training past level 99, please visit our affiliate Discord server, [Skilling](https://discord.gg/EFrxgks)."
       }
       ]
   },

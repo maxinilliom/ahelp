@@ -74,7 +74,7 @@ exports.data = {
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     }
   },
-  "94 - 120": {
+  "94 - 120 +": {
     "title": "Dungeoneering Levels 94-120+",
     "url": "https://runescape.wikia.com/wiki/Pay-to-play_Dungeoneering_training#Optimising_floors",
     "description": "From level 95 to 120+, you will want to rush all floors including [Abandoned 2](https://runescape.wikia.com/wiki/Dungeoneering_floors#Abandoned_2_floors) (floors 1-35). Complete [Occult](https://runescape.wikia.com/wiki/Dungeoneering_floors#Occult_floors_.28m.29) and [Warped]( https://runescape.wikia.com/wiki/Dungeoneering_floors#Warped_floors_.28m.29) floors in large complexity 6 with a team. (floors 36-60). Prestige your progress each time you complete all floors available to you, repeating until you have achieved your level or experience goal. \n\nNote: The official world to train Dungeoneering is world 77. As Dungeoneering can be trained in every world, players who want to train solo or already have partners to train with should choose a world in which they have the best connection. \n\nFor Achievement Help members interested in finding partners or groups for Dungeoneering training, you can self-assign the role `Dungeoneering Team` in the channel <#465998663710146579>.",
@@ -89,7 +89,13 @@ exports.data = {
     "author": {
       "name": "Max Cape Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
-    }
+    },
+    "fields": [
+      {
+        "name": "▬▬ Skilling Discord server ▬▬",
+        "value": "For more information on training past level 120, please visit our affiliate Discord server, [Skilling](https://discord.gg/EFrxgks)."
+      }
+       ]
   },
   "information": {
 "title": "Dungeoneering Information",

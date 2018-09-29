@@ -38,7 +38,13 @@ exports.data = {
     "author": {
       "name": "Max Cape Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
-    }
+    },
+    "fields": [
+      {
+        "name": "▬▬ Skilling Discord server ▬▬",
+        "value": "For more information on training past level 99, please visit our affiliate Discord server, [Skilling](https://discord.gg/EFrxgks)."
+      }
+       ]
   },
   "abilities": {
     "title": "Abilities",

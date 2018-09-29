@@ -208,6 +208,10 @@ exports.data = {
       {
         "name": "▬▬ Alternative Method (profit) ▬▬",
         "value": "Players also have the option to continue to craft [Blood runes](http://runescape.wikia.com/wiki/Blood_rune) through the Abyss, instead of Soul runes. While being a slower method, at a rate of (assuming 55 trips between the altar and Edgeville bank per hour) around 74,500 experience per hour if the small through giant runecrafting pouches are used, it yields a decent amount of profit."
+      },
+      {
+        "name": "▬▬ Skilling Discord server ▬▬",
+        "value": "For more information on training past level 99, please visit our affiliate Discord server, [Skilling](https://discord.gg/EFrxgks)."
       }
     ]
   },

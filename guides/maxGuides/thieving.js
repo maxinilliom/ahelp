@@ -168,6 +168,10 @@ exports.data = {
       { 
         "name": "▬▬ Alternative Method: Level 91-99+ ▬▬",
         "value": "Beginning at level 91, players can pickpocket from [elven clan workers](http://runescape.wikia.com/wiki/Elven_clan_worker) in [Prifddinas](http://runescape.wikia.com/wiki/Prifddinas). Completion of the [Plague's End](http://runescape.wikia.com/wiki/Plague's_End) quest is required in order to access Prifddinas. As it typically takes around 4 minutes to reach 3/3 strikes for a particular [clan](http://runescape.wikia.com/wiki/Elven_Clans), it is recommended to begin training here when you can steal from four clans at any given time. With boosts, it is possible to start pickpocketing elves effectively at level 90 Thieving.\n\nTo gain the most Thieving experience per hour, you should prioritise the 2 districts that are currently affected by the [Voice of Seren](http://runescape.wikia.com/wiki/Voice_of_Seren). In between these clans, you should then steal from the other clans in order of descending level requirement. It is possible to gain around 373,000 experience an hour by pickpocketing from elven clan workers."
+      },
+      {
+        "name": "▬▬ Skilling Discord server ▬▬",
+        "value": "For more information on training past level 99, please visit our affiliate Discord server, [Skilling](https://discord.gg/EFrxgks)."
       }
       ]
   },

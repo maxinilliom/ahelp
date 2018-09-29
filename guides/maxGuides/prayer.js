@@ -78,7 +78,7 @@ exports.data = {
          }
       ]
    },
-  "1 - 99 +": {  
+  "1 - 99 + pt3": {  
       "description":"\n\n**▬▬ Alternative Method: Levels 1-99 ▬▬**\n\nA less popular, but more tick-efficient method known as the scatter/bury can be used while training other skills. The reason it's a less known, or used method, is because it requires a lot of concentration and precise clicks. [Auto-sanctifiers](http://runescape.wikia.com/wiki/Auto-sanctifier) increase experience gained per action by 3.5 times the normal experience, but only lasts 50 charges.\n\nFor a more detailed guide on the method, check out [[Runescape 3] Scatter Bury Method Analysis | Fast Prayer Exp! | Efficient Prayer Training| by puretppc](https://www.youtube.com/watch?v=Raeurc9YIQ4)",
       "fields":[ 
          {  
@@ -96,7 +96,11 @@ exports.data = {
          {  
             "name":"​",
             "value":"If a crystal is fully cleansed while wearing the [Tirannwn quiver 3](https://runescape.wikia.com/wiki/Tirannwn_quiver_3) or [Tirannwn quiver 4](https://runescape.wikia.com/wiki/Tirannwn_quiver_4) and there are more crystals carried in the inventory, the next crystal will automatically be used to continue cleansing. This can lead to training with minimal interaction, if large numbers of crystals are bought in advance.\n\nBe careful when clicking while a cleansing crystal is being used. If a misclick or other action occurs, this will interrupt the process.  The crystal will vanish and the player will not gain the remaining experience. One can chat, rotate the camera, and use most interfaces without interrupting the process."
-         }
+         },
+        {
+          "name": "▬▬ Skilling Discord server ▬▬",
+          "value": "For more information on training past level 99, please visit our affiliate Discord server, [Skilling](https://discord.gg/EFrxgks)."
+        }
     ],
     "footer": { 
     "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg", 

@@ -152,6 +152,10 @@ exports.data = {
       {
         "name": "​",
         "value": "The experience from mining alaea crablets can further be bolstered by completing contracts given by [Sojobo](https://runescape.wikia.com/wiki/The_Tengu) on Waiko or via a [contract contact](https://runescape.wikia.com/wiki/Contract_contact) on an uncharted isle. Players may complete up to 3 contracts daily, and may purchase upgrades from [Boni](https://runescape.wikia.com/wiki/Boni) for a maximum of 7 daily contracts. Doing contracts, however, requires chimes to be able to reroll contracts until satisfactory alaea crablet ones are assigned."
+      },
+      {
+        "name": "▬▬ Skilling Discord server ▬▬",
+        "value": "For more information on training past level 99, please visit our affiliate Discord server, [Skilling](https://discord.gg/EFrxgks)."
       }
         ]
   },

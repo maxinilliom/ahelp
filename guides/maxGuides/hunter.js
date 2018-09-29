@@ -186,6 +186,10 @@ exports.data = {
       {
         "name": "▬▬ Alternative Method: Levels 97-99+ ▬▬",
         "value": "At level 97 Hunter, players may wish to catch [Crystal Skillchompas](http://runescape.wikia.com/wiki/Crystal_skillchompa_(Hunter) as an alternative to hunting ornate tortles. They are a good alternative for players who want money and/or do not want to deal with the hassle of finding new uncharted isles each time an Ornate tortle spot is depleted. There is a chance of catching multiple in a single trap, up to a maximum of four, with higher levels of Agility giving a better chance. At level 99 Agility, there is a guaranteed chance of receiving multiple skillchompas from a single trap. Players can gain around 520,000 experience an hour hunting crystal skillchompas with level 99 Hunter, and at least 700,000 experience an hour if they have 99 Agility as well. These skillchompas can be caught in [Tirannwn](http://runescape.wikia.com/wiki/Tirannwn), north of [Tyras Camp](http://runescape.wikia.com/wiki/Tyras_Camp). Using the 1-tick method previously mentioned using potions is highly recommended."
+      },
+      {
+        "name": "▬▬ Skilling Discord server ▬▬",
+        "value": "For more information on training past level 99, please visit our affiliate Discord server, [Skilling](https://discord.gg/EFrxgks)."
       }
        ]
   },

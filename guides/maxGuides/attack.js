@@ -204,7 +204,11 @@ exports.data = {
      {
        "name":"Recommended Weapons",
        "value":"• 85-99+ [Godsword](http://runescape.wikia.com/wiki/Godsword)\nOR\n• 85-99+ [Dragon Rider Lance](http://runescape.wikia.com/wiki/Dragon_Rider_lance)\n\nExpensive Alternative:\n• 90-99+ [Noxious Scythe](http://runescape.wikia.com/wiki/Noxious_scythe)"
-     }
+     },
+      {
+        "name": "▬▬ Skilling Discord server ▬▬",
+        "value": "For more information on training past level 99, please visit our affiliate Discord server, [Skilling](https://discord.gg/EFrxgks)."
+      }
       ]
   },
   "abilities": {

@@ -295,6 +295,10 @@ exports.data = {
       {
         "name": "Alternative Method: Levels 95-99+",
         "value": "[Elder Shieldbows](http://runescape.wikia.com/wiki/Elder_shieldbow) can be an alternative, although it's a much slower method in comparison to arrows or darts. Requiring [Elder Logs](http://runescape.wikia.com/wiki/Elder_logs), they give 116 experience for fletching or stringing them. Making only unfinished bows, a player will need 36,749 logs to finish off 99."
+      },
+      {
+        "name": "▬▬ Skilling Discord server ▬▬",
+        "value": "For more information on training past level 99, please visit our affiliate Discord server, [Skilling](https://discord.gg/EFrxgks)."
       }
       ]
   },

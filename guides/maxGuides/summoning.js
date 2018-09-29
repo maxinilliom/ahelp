@@ -633,6 +633,10 @@ exports.data = {
          {  
             "name":"​",
             "value":"Once crafted you may sell the pouches in order to recoup some of the money spent, or you may turn them into [Bogrog](http://runescape.wikia.com/wiki/Bogrog) or [Lord Amlodd](http://runescape.wikia.com/wiki/Lord_Amlodd) to get 148 spirit shard back for each pouch (this requires level 97 Summoning)."
+         },
+         {
+           "name": "▬▬ Skilling Discord server ▬▬",
+           "value": "For more information on training past level 99, please visit our affiliate Discord server, [Skilling](https://discord.gg/EFrxgks)."
          }
       ]
    },

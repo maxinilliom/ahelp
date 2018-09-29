@@ -253,7 +253,11 @@ exports.data = {
          {  
             "name":"​",
             "value":"You can't sell the raw wobbegongs on the [Grand Exchange](https://runescape.wikia.com/wiki/Grand_Exchange), but they can instead be sold for [chimes](https://runescape.wikia.com/wiki/Chimes) to be used within [The Arc](https://runescape.wikia.com/wiki/The_Arc).\n\nYou can get even more experience from fishing raw wobbegong if you combine it with completing [contracts](https://runescape.wikia.com/wiki/Contract) given by [Sojobo (contracts)](https://runescape.wikia.com/wiki/The_Tengu) on [Waiko](https://runescape.wikia.com/wiki/Waiko), [Hubbub (contracts)](https://runescape.wikia.com/wiki/The_Whaler#Whale.27s_Maw) on [Whale's Maw](https://runescape.wikia.com/wiki/Whale%27s_Maw) or via a [Contract contact](https://runescape.wikia.com/wiki/Contract_contact) on an Uncharted Isle."
-         }
+         },
+      {
+        "name": "▬▬ Skilling Discord server ▬▬",
+        "value": "For more information on training past level 99, please visit our affiliate Discord server, [Skilling](https://discord.gg/EFrxgks)."
+      }
     ],
     "footer": { 
     "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg", 
