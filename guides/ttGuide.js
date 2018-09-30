@@ -3893,7 +3893,7 @@ exports.data = {
                 },
       {
         "name": "Guides:",
-        "value": "Some of the guides may be a little outdated when it comes to gear setups, as new gear and prayers have been released since. Therefore, if the player has better gear than shown in the guides, it is highly recommended to use their best gear, as this will help during the fight.\n\n• [Complete Telos Guide for beginners | The Junesong - Youtube](https://www.youtube.com/watch?v=Lv6QRSgBY5w)\n• [Guide to 'the Warden' higher enraged | Mega T22 - Youtube](https://www.youtube.com/watch?v=UQN8RrEkY5Q)\n• [Magic Basics combo the detonate ability | The Junesong - Youtube](https://www.youtube.com/watch?v=afqRRgneJCw&feature=youtu.be&t=14m4s)\n• [In depth guide Telos Guide (0-1,000% Enrage) | Zanryu - Youtube](https://www.youtube.com/watch?v=PNGa0FCFZBA)"
+        "value": "• [Strategies for Telos, the Warden | Runescape Wiki](https://runescape.wikia.com/wiki/Telos,_the_Warden/Strategies)\n\n• A full guide for beginners: [Complete Telos Guide | The Junesong - Youtube](https://www.youtube.com/watch?v=Lv6QRSgBY5w).\n• A full guide for higher enraged: [Ultimate 1000%+ Enrage Telos Guide | Bibzuda7 - Youtube](https://www.youtube.com/watch?v=5c5afUciv9w&feature=youtu.be).\n• A guide to combo the [detonate](https://runescape.wikia.com/wiki/Detonate) ability attacks: [Magic DPS Basics | The Junesong - Youtube](https://www.youtube.com/watch?v=afqRRgneJCw&feature=youtu.be&t=14m4s).\n• An in depth guide: [Telos Guide (0-1,000% Enrage) | Zanryu - Youtube](https://www.youtube.com/watch?v=PNGa0FCFZBA)."
       }
     ],
     "footer": {
@@ -3919,7 +3919,7 @@ exports.data = {
                 },
       {
         "name": "Guides:",
-        "value": "Some of the guides may be a little outdated when it comes to gear setups, as new gear and prayers have been released since. Therefore, if the player has better gear than shown in the guides, it is highly recommended to use their best gear, as this will help during the fight.\n\n• [Complete Telos Guide for beginners | The Junesong - Youtube](https://www.youtube.com/watch?v=Lv6QRSgBY5w)\n• [Guide to 'the Warden' higher enraged | Mega T22 - Youtube](https://www.youtube.com/watch?v=UQN8RrEkY5Q)\n• [Magic Basics combo the detonate ability | The Junesong - Youtube](https://www.youtube.com/watch?v=afqRRgneJCw&feature=youtu.be&t=14m4s)\n• [In depth guide Telos Guide (0-1,000% Enrage) | Zanryu - Youtube](https://www.youtube.com/watch?v=PNGa0FCFZBA)"
+        "value": "• [Strategies for Telos, the Warden | Runescape Wiki](https://runescape.wikia.com/wiki/Telos,_the_Warden/Strategies)\n\n• A full guide for beginners: [Complete Telos Guide | The Junesong - Youtube](https://www.youtube.com/watch?v=Lv6QRSgBY5w).\n• A full guide for higher enraged: [Ultimate 1000%+ Enrage Telos Guide | Bibzuda7 - Youtube](https://www.youtube.com/watch?v=5c5afUciv9w&feature=youtu.be).\n• A guide to combo the [detonate](https://runescape.wikia.com/wiki/Detonate) ability attacks: [Magic DPS Basics | The Junesong - Youtube](https://www.youtube.com/watch?v=afqRRgneJCw&feature=youtu.be&t=14m4s).\n• An in depth guide: [Telos Guide (0-1,000% Enrage) | Zanryu - Youtube](https://www.youtube.com/watch?v=PNGa0FCFZBA)."
       }
     ],
     "footer": {
