@@ -9491,7 +9491,7 @@ exports.data = {
       "text": "Runescore awarded: 0"
     }
   },
-  "skills - farming - you had a zygomite": {
+  "skills - farming - you had a zygomite pt1": {
     "title": "You Had a Zygomite",
     "author": {
       "name": "RuneScore Achievement Info",
@@ -9517,7 +9517,11 @@ exports.data = {
       {
         "name": "​",
         "value": "To maximize breeding efficiency:\n• Get the mating pair 100% happiness with [Delicious honeycomb](https://runescape.wikia.com/wiki/Delicious_honeycomb).\n• Get the mating pair 100% health with [Medicinal honeycomb](https://runescape.wikia.com/wiki/Medicinal_honeycomb).\n• Put a mating pair that has Studly or Virile trait.\n• The rabbit breeding perk is multiplicative, so utilize both pens for this.\n• Have enough food all the time.\n\nHaving a third adult/elder animal in the breeding pen does not increase the breeding chance. It is better to have just two for having an extra space for a second baby.\n\nInterbreeding of the variants of the same species is possible. For example, a Common and a Piscatorian rabbit could give a Common or a Piscatorian rabbit. Breeding variants of different species is also possible. For example, two Rellekkan rabbits could give a Piscatorian rabbit.\n\nThere is bad luck mitigation, in the breeding pen only, which ensures a guaranteed success if your breed chance fails five times in a row."
-      },
+      }
+    ]
+  },
+  "skills - farming - you had a zygomite pt2": {
+      "fields": [
       {
         "name": "​",
         "value": "Zygomites can initially be obtained by harvesting [Bittercap mushrooms](https://runescape.wikia.com/wiki/Bittercap_mushroom) or [Morchella mushrooms](https://runescape.wikia.com/wiki/Morchella_mushroom) across [Gielinor](https://runescape.wikia.com/wiki/Gielinor), harvesting [Mushroom clusters](https://runescape.wikia.com/wiki/Mushroom_cluster) on [The Arc](https://runescape.wikia.com/wiki/The_Arc), or bought from other players. Note that mushroom clusters on [Uncharted Isles](https://runescape.wikia.com/wiki/Uncharted_Isles) have a 1/400 chance of providing a zygomite, while the named island's clusters only provide 1/4,000. The **PoF Trade FC** friend's chat can be used to trade animals 1:1 for a specific gender."
