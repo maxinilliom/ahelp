@@ -123,7 +123,7 @@ exports.data = {
       },
       {
         "name": "​",
-        "value": "• Saved up sealed clue scrolls are fine to use because of the effort in completing them and inability to reasonbly track them."
+        "value": "• Saved up sealed clue scrolls are fine to use because of the effort in completing them and inability to reasonbly track them.\n\n• You can not win in more than one category. If you do, the lower prize will be rerolled in fairness."
       },
       {
         "name": "How Points are Decided:",
@@ -131,7 +131,7 @@ exports.data = {
       },
       {
         "name": "What You Can Win:",
-        "value": "The prize pool is 215m!\n• The player with the most overall points will win 75m\n• The player with the most overall clues will win 50m\n• The players with the most voted item will win 50m\n• The player with highest value reward will win 20m\n• The player with the lowest value reward will win 20m\n\nThanks to our donators: Chris D, Saint Cannon, Arvee, M D, Tell, Ako, Zuku, The Five-O, Maux, and Mosaic Heart!"
+        "value": "The prize pool is 265m!\n• The player with the most overall points will win 95m\n• The player with the most overall clues will win 65m\n• The players with the most voted item will win 65m\n• The player with highest value reward will win 20m\n• The player with the lowest value reward will win 20m"
       },
       {
         "name": "Easy Clues:",
