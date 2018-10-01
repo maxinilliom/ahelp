@@ -119,15 +119,19 @@ exports.data = {
       "fields":[
       {
         "name": "Rules:",
-        "value": "• Everyone who wants to enter into the competition **must** post a screenshot into the <#494331950060929045> that shows their RSN and the quickchatted amount of **every** tier of clue, along with the in game clock and your computer clock.\n- [How to Screenshot | Windows](https://support.microsoft.com/en-us/help/13776/windows-use-snipping-tool-to-capture-screenshots)\n- [How to Screenshot | Mac](https://support.apple.com/en-us/HT201361)\n\n• Every time you complete a clue, you must post a screenshot into the <#494329749016150036> channel. This screenshot must contain your RSN, a typed (not sent) message of \"This Clan is Alright!\", the in game clock, your computer clock, and the reward. These measures are to help prevent users from using stacked caskets both in this competition and future ones.\n\n• Good people are giving up their hard earned GP for the prize money, so please respect the integrity of the competition and keep it fun for everyone. Caskets too close in time will be raised into question."
+        "value": "• Everyone who wants to enter into the competition **MUST** post a screenshot into the <#494331950060929045> chanenl that shows their RSN and the quickchatted amount of **EVERY** tier of clue; along with the in game clock, chat timestamp, **or** computer clock.\n- [How to Screenshot | Windows](https://support.microsoft.com/en-us/help/13776/windows-use-snipping-tool-to-capture-screenshots)\n- [How to Screenshot | Mac](https://support.apple.com/en-us/HT201361)\n\n• Everyone who has entered the competition **MUST** post a screenshot into the <#496121796295262208> channel each day as close as they can to reset.\n- This must show their RSN and the quickchatted amount of **EVERY** tier of clue; along with the in game clock, chat timestamp, **or** computer clock."
       },
       {
         "name": "​",
-        "value": "• Saved up sealed clue scrolls are fine to use because of the effort in completing them and inability to reasonbly track them.\n\n• You can not win in more than one category. If you do, the lower prize will be rerolled in fairness."
+        "value": "• You **MUST** post **EVERY** screenshot of your [Gnomish Firelighters](https://runescape.wikia.com/wiki/Gnomish_firelighters) reward into the <#496121629387128832> channel.\n- This must contain your RSN; a typed (not sent) message of *\"This Clan is Alright!\"*; the in game clock, chat timestamp, **or** computer clock; the reward screen; and the chat message showing which clue number it is for you.\n\n• You **MUST** post **EVERY** screenshot of your highest and lowest rewards, that you believe have a chance in winning overall, into the <#496121651885506570> or <#496121671372111872> channels, respectively. Check the pinned messages for the current winners.\n- This must contain your RSN; a typed (not sent) message of *\"This Clan is Alright!\"*; the in game clock, chat timestamp, **or** computer clock; the reward screen; and the chat message showing which clue number it is for you.\n- If you are close to the current winners, still post them in case the current lead is disqualified."
+      },
+      {
+        "name": "​",
+        "value": "• Good people are giving up their hard earned GP for the prize money, so please respect the integrity of the competition and keep it fun for everyone.\n\n• Saved up sealed clue scrolls are fine to use because of the effort in completing them and inability to reasonbly track them.\n\n• You can not win in more than one category. If you do, the lower prize will be rerolled in fairness.\n\n• [Giant Oyster](https://runescape.wikia.com/wiki/Giant_Oyster) rewards do not count.\n\n• You can post any screenshot you want into the <#494329749016150036> channel to keep up the fun."
       },
       {
         "name": "How Points are Decided:",
-        "value": "• Easy clues are 1 point\n• Medium clues are 2 points\n• Hard clues are 3 points\n• Elite clues are 5 points\n• Masters clues are 8 points\n• The voted item, [Gnomish Firelighters](https://runescape.wikia.com/wiki/Gnomish_firelighters), are 5 points"
+        "value": "• Easy clues are 1 point\n• Medium clues are 2 points\n• Hard clues are 3 points\n• Elite clues are 5 points\n• Masters clues are 8 points\n• The voted item, Gnomish Firelighters, are 5 points"
       },
       {
         "name": "What You Can Win:",
@@ -135,7 +139,7 @@ exports.data = {
       },
       {
         "name": "Easy Clues:",
-        "value": "To solve [easy clue scrolls](https://runescape.wikia.com/wiki/Clue_scroll_(easy), players may encounter:\n\t• [Simple clues](https://runescape.wikia.com/wiki/Treasure_Trails/Guide/Simple_clues)\n\t• [Emote clues](https://runescape.wikia.com/wiki/Treasure_Trails/Guide/Emotes)\n\t• [Maps](https://runescape.wikia.com/wiki/Treasure_Trails/Guide/Maps)\n\t• [Cryptics](https://runescape.wikia.com/wiki/Treasure_Trails/Guide/Cryptics)"
+        "value": "To solve [easy clue scrolls](https://runescape.wikia.com/wiki/Clue_scroll_(easy), players may encounter:\n\t• [Simple clues](https://runescape.wikia.com/wiki/Treasure_Trails/Guide/Simple_clues)\n\t• [Emote clues](https://runescape.wikia.com/wiki/Treasure_Trails/Guide/Emotes)\n\t• [Maps](https://runescape.wikia.com/wiki/Treasure_Trails/Guide/Maps)\n\t• [Cryptics](https://runescape.wikia.com/wiki/Treasure_Trails/Guide/Cryptics)\n\n You may view an ideal easy clue preset [here](https://gyazo.com/36b8f7ec0e04abc9168cba30c14e102a).\n- The [Large rune pouch](https://runescape.wikia.com/wiki/Large_rune_pouch) has air, law, and nature runes and the [Mystical staff](https://runescape.wikia.com/wiki/Mystical_staff) is for unlimited earth, water, and fire runes."
       },
       {
         "name": "Medium Clues:",
@@ -143,15 +147,15 @@ exports.data = {
       },
       {
         "name": "Hard Clues:",
-        "value": "To solve [hard clue scrolls](https://runescape.wikia.com/wiki/Clue_scroll_(hard), players may encounter:\n\t• Anagrams\n\t• Challenge scrolls\n\t• [Puzzle boxes](https://runescape.wikia.com/wiki/Treasure_Trails/Guide/Puzzle_boxes)\n\t• Coordinates\n\t• Cryptics\n\t• Emote clues\n\t• Maps"
+        "value": "To solve [hard clue scrolls](https://runescape.wikia.com/wiki/Clue_scroll_(hard), players may encounter:\n\t• Anagrams\n\t• Challenge scrolls\n\t• [Puzzle boxes](https://runescape.wikia.com/wiki/Treasure_Trails/Guide/Puzzle_boxes)\n\t• Coordinates\n\t• Cryptics\n\t• Emote clues\n\t• Maps\n\n You may view an ideal hard clue preset [here](https://cdn.discordapp.com/attachments/426541438369792012/492141057769865227/unknown.png)."
       },
       {
         "name": "Elite Clues:",
-        "value": "To solve [elite clue scrolls](https://runescape.wikia.com/wiki/Clue_scroll_(elite), players may encounter:\n\t• [Compass](https://runescape.wikia.com/wiki/Treasure_Trails/Guide/Compass)\n\t• [Scans](https://runescape.wikia.com/wiki/Treasure_Trails/Guide/Scans)\n\t• Puzzle boxes\n\t• [Celtic knots](https://runescape.wikia.com/wiki/Treasure_Trails/Guide/Celtic_knots)"
+        "value": "To solve [elite clue scrolls](https://runescape.wikia.com/wiki/Clue_scroll_(elite), players may encounter:\n\t• [Compass](https://runescape.wikia.com/wiki/Treasure_Trails/Guide/Compass)\n\t• [Scans](https://runescape.wikia.com/wiki/Treasure_Trails/Guide/Scans)\n\t• Puzzle boxes\n\t• [Celtic knots](https://runescape.wikia.com/wiki/Treasure_Trails/Guide/Celtic_knots)\n\n You may view an ideal elite clue preset [here](https://cdn.discordapp.com/attachments/426541438369792012/492140832875610113/unknown.png)."
       },
       {
         "name": "Master Clues:",
-        "value": "To solve [master clue scrolls](https://runescape.wikia.com/wiki/Clue_scroll_(master), players may encounter:\n\t• Scans\n\t• Emotes\n\t• Anagrams\n\t• Puzzle boxes\n\t• [Tower puzzles](https://runescape.wikia.com/wiki/Treasure_Trails/Guide/Towers)\n\t• [Lockboxes](https://runescape.wikia.com/wiki/Treasure_Trails/Guide/Lockboxes)\n\t• [Skill riddle challenges](https://runescape.wikia.com/wiki/Treasure_Trails/Guide/Skill_riddle_challenges)"
+        "value": "To solve [master clue scrolls](https://runescape.wikia.com/wiki/Clue_scroll_(master), players may encounter:\n\t• Scans\n\t• Emotes\n\t• Anagrams\n\t• Puzzle boxes\n\t• [Tower puzzles](https://runescape.wikia.com/wiki/Treasure_Trails/Guide/Towers)\n\t• [Lockboxes](https://runescape.wikia.com/wiki/Treasure_Trails/Guide/Lockboxes)\n\t• [Skill riddle challenges](https://runescape.wikia.com/wiki/Treasure_Trails/Guide/Skill_riddle_challenges)\n\n You may view an ideal master clue preset [here](https://cdn.discordapp.com/attachments/426541438369792012/492140745789276160/unknown.png)."
       },
       {
         "name": "Guide:",
