@@ -211,7 +211,7 @@ exports.run = async (client, message, [skill, ...args], level) => { // eslint-di
 			const split = k.split(" ");
 			const first = Number(split[0]);
 			let last = Number(split[2]);
-			if (split[3] == "+") last == 121;
+			if (split[3] == "+") last = 121;
 			if (args[0] >= first && args[0] < last && !/\bpt\d/.test(k) && !rtnArr.includes(k)) rtnArr.push(k);
 			if (args[0] >= first && args[0] < last && /\bpt\d/.test(k) && !rtnArr.includes(k)) rtnArr.push(k);
 			if (args[0] >= first && args[0] < last && /\bpt\d/.test(k)) {
