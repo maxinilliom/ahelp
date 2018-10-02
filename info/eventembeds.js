@@ -525,6 +525,39 @@ exports.data = {
          }
       ]
    },
+    "stealing creation": {  
+      "title":"Preparation:",
+      "description":"All are welcome! We will be teaching how to do the event on Discord if any learners are apprehensive about coming.\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wikia.com/wiki/Stealing_Creation).",
+      "footer":{  
+         "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
+         "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
+      },
+      "thumbnail":{  
+         "url":"https://vignette.wikia.nocookie.net/runescape2/images/6/63/Sacred_clay_%28class_5%29_detail.png/revision/latest/scale-to-width-down/100?cb=20170715144235"
+      },
+      "author":{  
+         "name":"Stealing Creation Community Event",
+         "icon_url":"https://i.imgur.com/6c6q2iC.png"
+      },
+      "fields":[  
+         {  
+            "name":"Where:",
+            "value":"The [Stealing Creation](https://runescape.wikia.com/wiki/Stealing_Creation) lobby, World 68 in <@113770763261181961>'s friends chat.\n\nStealing Creation is located in the [Mystic's Camp](https://runescape.wikia.com/wiki/Mystic%27s_Camp), in the northern section of the [Gamers' Grotto](https://runescape.wikia.com/wiki/Gamers%27_Grotto), accessible via a cavern entrance situated north of [Falador](https://runescape.wikia.com/wiki/Falador) and south-west of [Edgeville](https://runescape.wikia.com/wiki/Edgeville). The [Games necklace](https://runescape.wikia.com/wiki/Games_necklace) has a teleport option to the grotto."
+         },
+         {  
+            "name":"Why:",
+            "value":"To assist everyone who needs to unlock the [music](https://runescape.wikia.com/wiki/Music), complete the [Claymation](https://runescape.wikia.com/wiki/Claymation) achievement (fully exhaust all gathering plots in a Stealing Creation match), and for those who just want to have fun."
+         },
+         {  
+            "name":"Who:",
+            "value":"<@294617234033213450>, <@113770763261181961>, <@212672527405678592>, their [Achievement Help](https://www.discord.gg/uUUMPbd) Discord team, and their [Alright](https://discord.gg/KwysmXr) clan."
+         },
+         {  
+            "name":"What is Needed:",
+           "value":"This is a safe [minigame](https://runescape.wikia.com/wiki/Minigames). You cannot wear or bring any items into the arena. There is a bank deposit box right by the entrance for your convenience. Items on the [tool belt](https://runescape.wikia.com/wiki/Tool_belt) do not work in the game."
+         }
+      ]
+   },
     "trouble brewing": {  
       "title":"Preparation:",
       "description":"All are welcome! We will be teaching how to do the event on Discord if any learners are apprehensive about coming.\n\nYou may prepare for the event by viewing the written guide [here](http://runescape.wikia.com/wiki/Trouble_Brewing).",
