@@ -1123,7 +1123,7 @@ exports.data = {
       },
       {
         "name": "Guides:",
-        "value": "Guides for most RuneScore achievements can be found in the corresponding channels:\n\n• <#470994555873787926> (for the [Skill achievements](https://runescape.wikia.com/wiki/Skills_achievements))\n• <#470994626388426753> (for the [Exploration achievements](https://runescape.wikia.com/wiki/Exploration_achievements))\n• <#470994644591968256> (for the [Combat achievements](https://runescape.wikia.com/wiki/Combat_achievements))\n• <#470994664518975497> (for the [Minigames achievements](https://runescape.wikia.com/wiki/Minigames_achievements))\n• <#470994707540082689> (for the [Miscellaneous achievements](https://runescape.wikia.com/wiki/Miscellaneous_achievements))\n\nThe RuneScore guides can also be seen by using the **.rs** command: _.rs [category name] [subcategeory name] - [achievement name]_."
+        "value": "Guides for most RuneScore achievements can be found in the corresponding channels:\n\n• <#470994555873787926> (for the [Skill achievements](https://runescape.wikia.com/wiki/Skills_achievements))\n• <#470994626388426753> (for the [Exploration achievements](https://runescape.wikia.com/wiki/Exploration_achievements))\n• <#470994644591968256> (for the [Combat achievements](https://runescape.wikia.com/wiki/Combat_achievements))\n• <#470994664518975497> (for the [Minigames achievements](https://runescape.wikia.com/wiki/Minigames_achievements))\n• <#470994707540082689> (for the [Miscellaneous achievements](https://runescape.wikia.com/wiki/Miscellaneous_achievements))\n\nThe RuneScore guides can also be seen by using the **.rs** command: **.rs achievement name** or **.rs help**."
       }
     ],
     "footer": {
@@ -3642,7 +3642,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "The best way to obtain beans is to sell the highest adolescent animals per pen tier, which is **chinchompas** for small pens, **zygonites** for medium pens, and **dragons** for large pens. These animals can be sold to specific [animal traders](https://runescape.wikia.com/wiki/Player-owned_farm#Buyers), who only appear on certain days.\n\nMore detailed information can be found using the **.rs bean counter i-iv** command.\n\n20,000 beans can be saved if the player chooses to buy both **Herbicide** from the [Dungeoneering Rewards Shop](https://runescape.wikia.com/wiki/Dungeoneering/Rewards) and **Seedicide** from the [Cabbage Facepunch Bonanza](https://runescape.wikia.com/wiki/Cabbage_Facepunch_Bonanza) minigame."
+        "value": "The best way to obtain beans is to sell the highest adolescent animals per pen tier, which is **chinchompas** for small pens, **zygonites** for medium pens, and **dragons** for large pens. These animals can be sold to specific [animal traders](https://runescape.wikia.com/wiki/Player-owned_farm#Buyers), who only appear on certain days.\n\nMore detailed information can be found using the **.rs bean counter** command.\n\n20,000 beans can be saved if the player chooses to buy both **Herbicide** from the [Dungeoneering Rewards Shop](https://runescape.wikia.com/wiki/Dungeoneering/Rewards) and **Seedicide** from the [Cabbage Facepunch Bonanza](https://runescape.wikia.com/wiki/Cabbage_Facepunch_Bonanza) minigame."
       }
     ],
     "footer": {

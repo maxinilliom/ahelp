@@ -6795,31 +6795,34 @@ exports.data = {
 	"peachy bones": {
 		"cmds": ["comp"],
 		"embed": {
-			"title": "Peachy Bones",
-			"author": {
-				"name": "Cape Info",
-				"icon_url": "https://i.imgur.com/6c6q2iC.png"
-			},
-			"description": "[Peachy Bones](http://runescape.wikia.com/wiki/Peachy_Bones) is an achievement that requires the player to unlock the [Bones To Peaches](https://runescape.wikia.com/wiki/Bones_To_Peaches) spell from the [Mage Training Arena](https://runescape.wikia.com/wiki/Mage_Training_Arena).\n\nBones to Peaches is a spell that turns all [bones](https://runescape.wikia.com/wiki/Bones) up to and including [big bones](https://runescape.wikia.com/wiki/Big_bones) in a player's inventory into [peaches](https://runescape.wikia.com/wiki/Peach), which can be used to heal the player for 500 life points.\n\nThe Mage Training Arena is an area and its eponymous [minigame](https://runescape.wikia.com/wiki/Minigames) that focuses on the magic skill. It is north of the Duel Arena and south of the Exam Centre. Using various spells, players earn [pizazz](https://runescape.wikia.com/wiki/Pizazz_points) points in different activities, which they can use to buy items in a shop on the top floor of the arena. An entrance guardian welcomes visitors to the training arena. You must provide your own runes for the spells. To participate in all the activities, one should bring [nature runes](https://runescape.wikia.com/wiki/Nature_rune), [cosmic runes](https://runescape.wikia.com/wiki/Cosmic_rune), [law runes](https://runescape.wikia.com/wiki/Law_rune), and either all types of [elemental runes](https://runescape.wikia.com/wiki/Elemental_rune), or staff to replace them.\n\nThe teleports to the four rooms are located in the north area of the arena:\n\n• [Telekinetic Theatre](https://runescape.wikia.com/wiki/Mage_Training_Arena#Telekinetic_Theatre) - south\n• [Alchemists' Playground](https://runescape.wikia.com/wiki/Mage_Training_Arena#Alchemists.27_Playground) - north\n• [Enchanting Chamber](https://runescape.wikia.com/wiki/Mage_Training_Arena#Enchanting_Chamber) - west\n• [Creature Graveyard](https://runescape.wikia.com/wiki/Mage_Training_Arena#Creature_Graveyard) - east",
-			"thumbnail": {
-				"url": "https://i.imgur.com/Shmagnp.png"
-			},
-			"fields": [{
-					"name": "Requirements:",
-					"value": "• 33 Magic"
-				},
-				{
-					"name": "Guide:",
-					"value": "• [Bones to Peaches Quick Guide | Nonnera RS - YouTube](https://www.youtube.com/watch?v=Yfs2KMlDBcQ)"
-				}
-			],
-			"footer": {
-				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
-				"text": "Runescore awarded: 10"
-			},
-			"timestamp": "2001-01-04T12:00:00Z"
-		}
-	},
+         "title": "Peachy Bones",
+         "author": {
+            "name": "Cape Info",
+            "icon_url": "https://i.imgur.com/6c6q2iC.png"
+         },
+         "description": "[Peachy Bones](http://runescape.wikia.com/wiki/Peachy_Bones) is an achievement that requires the player to unlock the [Bones To Peaches](https://runescape.wikia.com/wiki/Bones_To_Peaches) spell from the [Mage Training Arena](https://runescape.wikia.com/wiki/Mage_Training_Arena).\n\nBones to Peaches is a spell that turns all [bones](https://runescape.wikia.com/wiki/Bones) up to and including [big bones](https://runescape.wikia.com/wiki/Big_bones) in a player's inventory into [peaches](https://runescape.wikia.com/wiki/Peach), which can be used to heal the player for 500 life points.\n\nThe Mage Training Arena is an area and its eponymous [minigame](https://runescape.wikia.com/wiki/Minigames) that focuses on the magic skill. It is north of the Duel Arena and south of the Exam Centre. Using various spells, players earn [pizazz](https://runescape.wikia.com/wiki/Pizazz_points) points in different activities, which they can use to buy items in a shop on the top floor of the arena. An entrance guardian welcomes visitors to the training arena. You must provide your own runes for the spells. To participate in all the activities, one should bring [nature runes](https://runescape.wikia.com/wiki/Nature_rune), [cosmic runes](https://runescape.wikia.com/wiki/Cosmic_rune), [law runes](https://runescape.wikia.com/wiki/Law_rune), and either all types of [elemental runes](https://runescape.wikia.com/wiki/Elemental_rune), or staff to replace them.\n\nThe teleports to the four rooms are located in the north area of the arena:\n\n• [Telekinetic Theatre](https://runescape.wikia.com/wiki/Mage_Training_Arena#Telekinetic_Theatre) - south\n• [Alchemists' Playground](https://runescape.wikia.com/wiki/Mage_Training_Arena#Alchemists.27_Playground) - north\n• [Enchanting Chamber](https://runescape.wikia.com/wiki/Mage_Training_Arena#Enchanting_Chamber) - west\n• [Creature Graveyard](https://runescape.wikia.com/wiki/Mage_Training_Arena#Creature_Graveyard) - east",
+         "thumbnail": {
+            "url": "https://i.imgur.com/Shmagnp.png"
+         },
+         "fields": [{
+               "name": "Price Reduction:",
+               "value": "Players should complete the Easy-Hard [Desert Set Tasks](https://runescape.wikia.com/wiki/Desert_achievements) prior to completing this achievement in order to take advantage of the provided discount at the Mage Training Arena.\n\n• [Desert Set Tasks - Easy](https://runescape.wikia.com/wiki/Desert_Set_Tasks_-_Easy) completion: Mage Training Arena prices are lowered by 2%\n• [Desert Set Tasks - Medium](https://runescape.wikia.com/wiki/Desert_Set_Tasks_-_Medium) completion: Mage Training Arena prices are lowered by 5%\n• [Desert Set Tasks - Hard](https://runescape.wikia.com/wiki/Desert_Set_Tasks_-_Hard) completion: Mage Training Arena prices are lowered by 10%"
+            },{
+               "name": "Requirements:",
+               "value": "• 33 Magic"
+            },
+            {
+               "name": "Guide:",
+               "value": "• [Bones to Peaches Quick Guide | Nonnera RS - YouTube](https://www.youtube.com/watch?v=Yfs2KMlDBcQ)"
+            }
+         ],
+         "footer": {
+            "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e9/Runescore.png",
+            "text": "Runescore awarded: 10"
+         },
+         "timestamp": "2001-01-04T12:00:00Z"
+      }
+},
 	"penance to the king": {
 		"cmds": ["trim"],
 		"embed": {
@@ -7295,13 +7298,14 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Rhian in Gold - The Original](http://runescape.wikia.com/wiki/Rhian_in_Gold_-_The_Original) is an achievement that requires the player to collect all of the [golden rocks](https://runescape.wikia.com/wiki/Golden_rock) and building the [Statue of Rhiannon](https://runescape.wikia.com/wiki/Statue_of_Rhiannon) once.\n\nThe plinth for the statue is located in the [Tower of Voices](https://runescape.wikia.com/wiki/Tower_of_Voices) in [Prifddinas](https://runescape.wikia.com/wiki/Prifddinas), where it is attended by [Auron Ithell](https://runescape.wikia.com/wiki/Auron_Ithell). You can build as many statues per week as you desire, unlike the [Dahmaroc statue](https://runescape.wikia.com/wiki/Dahmaroc_statue).\n\nPlayers should note:\n• Rocks are obtained randomly based on the number of experience drops, not on the size of the experience drop. \n• Rock chances reduce for the given skill when gaining the first rock, so you should switch skills in-between.\n• It is beneficial to obtain rocks while capping if that is something your clan requires.\n• The rocks must be added in pairs, and can be stored in the [Statue collection bag]( https://runescape.wikia.com/wiki/Statue_collection_bag). \n• While [Golden rocks]( https://runescape.wikia.com/wiki/Golden_rock) are not restricted to only being found in Prifddinas, it is more likely to find one while skilling in a district of the city that has the [Voice of Seren]( https://runescape.wikia.com/wiki/Voice_of_Seren) active.",
+			"description": "[Rhian in Gold - The Original](http://runescape.wikia.com/wiki/Rhian_in_Gold_-_The_Original) is an achievement that requires the player to collect all of the [golden rocks](https://runescape.wikia.com/wiki/Golden_rock) and building the [Statue of Rhiannon](https://runescape.wikia.com/wiki/Statue_of_Rhiannon) once.\n\nThe plinth for the statue is located in the [Tower of Voices](https://runescape.wikia.com/wiki/Tower_of_Voices) in [Prifddinas](https://runescape.wikia.com/wiki/Prifddinas), where it is attended by [Auron Ithell](https://runescape.wikia.com/wiki/Auron_Ithell). You can build as many statues per week as you desire, unlike the [Dahmaroc statue](https://runescape.wikia.com/wiki/Dahmaroc_statue).\n\nPlayers should note:\n• Rocks are obtained randomly based on the number of experience drops, not on the size of the experience drop. \n• Rock chances reduce for the given skill when gaining the first rock, so you should switch skills in-between.\n• It is beneficial to obtain rocks while capping if that is something your clan requires.\n• The rocks must be added in pairs, and can be stored in the [Statue collection bag]( https://runescape.wikia.com/wiki/Statue_collection_bag). \n• While [Golden rocks]( https://runescape.wikia.com/wiki/Golden_rock) are not restricted to only being found in Prifddinas, it is more likely to find one while skilling in a district of the city that has the [Voice of Seren]( https://runescape.wikia.com/wiki/Voice_of_Seren) active.\n• Players receive an increased change of getting rocks when skilling with the relevant [Cape of Accomplishment](https://runescape.wikia.com/wiki/Cape_of_Accomplishment) equipped.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [{
+			"fields": [
+				{
 					"name": "Requirements:",
-					"value": "• The ability to obtain golden rocks must be toggled on"
+					"value": "• The ability to obtain [golden rocks](https://runescape.wikia.com/wiki/Golden_rock) must be toggled on by talking to [Auron Ithell](https://runescape.wikia.com/wiki/Auron_Ithell) who is standing by a golden plinth in the [Tower of Voices](https://runescape.wikia.com/wiki/Tower_of_Voices) in [Prifddinas](https://runescape.wikia.com/wiki/Prifddinas)."
 				},
 				{
 					"name": "Methods:",
@@ -8207,13 +8211,17 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Stone's Throw Away](https://runescape.wikia.com/wiki/Stone%27s_Throw_Away) is an achievement that requires the player to collect all 30 [Replica statue pieces](https://runescape.wikia.com/wiki/Replica_statue_piece) to use on the [Dahmaroc statue](https://runescape.wikia.com/wiki/Dahmaroc_statue) in your house's [Study](https://runescape.wikia.com/wiki/Study). The Dahmaroc statue is built on the [Statue plinth](https://runescape.wikia.com/wiki/Statue_plinth) located in the [Varrock Museum](https://runescape.wikia.com/wiki/Varrock_Museum) and is built while participating in the [Shattered Heart](https://runescape.wikia.com/wiki/Shattered_Heart) [Distraction and Diversion](https://runescape.wikia.com/wiki/Distractions_and_Diversions). You can build 1 statue per week, where a week is based on when you added your last rock, not on the weekly reset. This achievement can only be completed while in [Building mode](https://runescape.wikia.com/wiki/Building_mode), completing it outside building mode will not complete the achievement, but once switched to building mode it will automatically be completed if the statue is complete.\n\nPlayers should note:\n• Rocks are obtained randomly based on the number of experience drops, not on the size of the experience drop. \n• Rock chances reduce for the given skill when gaining the first rock, so you should switch skills in-between. \n• It is beneficial to obtain rocks while capping if that is something your clan requires.\n• It is beneficial to do the Dahmaroc statue and [Statue of Rhiannon](https://runescape.wikia.com/wiki/Statue_of_Rhiannon) simultaneously. Although the Statue of Rhiannon has no time lock, many skills are shared with the Dahmaroc statue, making them being done together a viable option.\n• The rocks must be added in pairs, and can be stored in the [Statue collection bag]( https://runescape.wikia.com/wiki/Statue_collection_bag).",
+			"description": "[Stone's Throw Away](https://runescape.wikia.com/wiki/Stone%27s_Throw_Away) is an achievement that requires the player to collect all 30 [Replica statue pieces](https://runescape.wikia.com/wiki/Replica_statue_piece) to use on the [Dahmaroc statue](https://runescape.wikia.com/wiki/Dahmaroc_statue) in your house's [Study](https://runescape.wikia.com/wiki/Study). The Dahmaroc statue is built on the [Statue plinth](https://runescape.wikia.com/wiki/Statue_plinth) located in the [Varrock Museum](https://runescape.wikia.com/wiki/Varrock_Museum) and is built while participating in the [Shattered Heart](https://runescape.wikia.com/wiki/Shattered_Heart) [Distraction and Diversion](https://runescape.wikia.com/wiki/Distractions_and_Diversions). You can build 1 statue per week, where a week is based on when you added your last rock, not on the weekly reset. This achievement can only be completed while in [Building mode](https://runescape.wikia.com/wiki/Building_mode), completing it outside building mode will not complete the achievement, but once switched to building mode it will automatically be completed if the statue is complete.\n\nPlayers should note:\n\n• Rocks are obtained randomly based on the number of experience drops, not on the size of the experience drop.\n\n• Rock chances reduce for the given skill when gaining the first rock, so you should switch skills in-between.\n\n• It is beneficial to obtain rocks while capping if that is something your clan requires.\n\n• It is beneficial to do the Dahmaroc statue and [Statue of Rhiannon](https://runescape.wikia.com/wiki/Statue_of_Rhiannon) simultaneously. Although the Statue of Rhiannon has no time lock, many skills are shared with the Dahmaroc statue, making them being done together a viable option.\n\n• The rocks must be added in pairs, and can be stored in the [Statue collection bag]( https://runescape.wikia.com/wiki/Statue_collection_bag).",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
 			"fields": [{
+					"name": "​",
+					"value": "• Players receive an increased change of getting strange rocks when skilling with the relevant [Cape of Accomplishment](https://runescape.wikia.com/wiki/Cape_of_Accomplishment) equipped."
+				},
+				{
 					"name": "Requirements:",
-					"value": "• The ability to obtain [Strange rocks](https://runescape.wikia.com/wiki/Strange_rock) must be toggled on"
+					"value": "• The ability to obtain [Strange rocks](https://runescape.wikia.com/wiki/Strange_rock) must be toggled on by speaking to [Barnabus Hurma](https://runescape.wikia.com/wiki/Barnabus_Hurma) inside the [Varrock Museum](https://runescape.wikia.com/wiki/Varrock_Museum) in [Varrock](https://runescape.wikia.com/wiki/Varrock)."
 				},
 				{
 					"name": "Guide:",
@@ -9208,13 +9216,17 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Who Will Be Her Lover?](https://runescape.wikia.com/wiki/Who_Will_Be_Her_Lover%3F) is an achievement that requires the player to complete the [Statue of Rhiannon]( https://runescape.wikia.com/wiki/Statue_of_Rhiannon) statue 32 times to rebuild it fully in the [Max Guild]( https://runescape.wikia.com/wiki/Max_Guild) garden and is built while participating in the [Shattered Heart](https://runescape.wikia.com/wiki/Shattered_Heart) [Distraction and Diversion](https://runescape.wikia.com/wiki/Distractions_and_Diversions). The Max Guild is in [Prifddinas]( https://runescape.wikia.com/wiki/Prifddinas), in the south-eastern part of the [Cadarn Clan]( https://runescape.wikia.com/wiki/Cadarn_Clan) district. The plinth for the statue is located in the Tower of Voices in Prifddinas, where it is attended by Auron Ithell. You can build as many statues per week as you desire, unlike the [Dahmaroc statue](https://runescape.wikia.com/wiki/Dahmaroc_statue).\n\nPlayers should note:\n• Rocks are obtained randomly based on the number of experience drops, not on the size of the experience drop. \n• Rock chances reduce for the given skill when gaining the first rock, so you should switch skills in-between.\n• It is beneficial to obtain rocks while capping if that is something your clan requires.\n• It is beneficial to do the Dahmaroc statue and Statue of Rhiannon simultaneously. Although the Statue of Rhiannon has no time lock, many skills are shared with the Dahmaroc statue, making them being done together a viable option.\n• The rocks must be added in pairs, and can be stored in the [Statue collection bag]( https://runescape.wikia.com/wiki/Statue_collection_bag). \n• While [Golden rocks]( https://runescape.wikia.com/wiki/Golden_rock) are not restricted to only being found in Prifddinas, it is more likely to find one while skilling in a district of the city that has the [Voice of Seren]( https://runescape.wikia.com/wiki/Voice_of_Seren) active.",
+			"description": "[Who Will Be Her Lover?](https://runescape.wikia.com/wiki/Who_Will_Be_Her_Lover%3F) is an achievement that requires the player to complete the [Statue of Rhiannon]( https://runescape.wikia.com/wiki/Statue_of_Rhiannon) statue 32 times to rebuild it fully in the [Max Guild]( https://runescape.wikia.com/wiki/Max_Guild) garden and is built while participating in the [Shattered Heart](https://runescape.wikia.com/wiki/Shattered_Heart) [Distraction and Diversion](https://runescape.wikia.com/wiki/Distractions_and_Diversions). The Max Guild is in [Prifddinas]( https://runescape.wikia.com/wiki/Prifddinas), in the south-eastern part of the [Cadarn Clan]( https://runescape.wikia.com/wiki/Cadarn_Clan) district. The plinth for the statue is located in the Tower of Voices in Prifddinas, where it is attended by Auron Ithell. You can build as many statues per week as you desire, unlike the [Dahmaroc statue](https://runescape.wikia.com/wiki/Dahmaroc_statue).\n\nPlayers should note:\n\n• Rocks are obtained randomly based on the number of experience drops, not on the size of the experience drop.\n\n• Rock chances reduce for the given skill when gaining the first rock, so you should switch skills in-between.\n\n• It is beneficial to obtain rocks while capping if that is something your clan requires.\n\n• It is beneficial to do the Dahmaroc statue and Statue of Rhiannon simultaneously. Although the Statue of Rhiannon has no time lock, many skills are shared with the Dahmaroc statue, making them being done together a viable option.\n• The rocks must be added in pairs, and can be stored in the [Statue collection bag]( https://runescape.wikia.com/wiki/Statue_collection_bag).\n\n• While [Golden rocks]( https://runescape.wikia.com/wiki/Golden_rock) are not restricted to only being found in Prifddinas, it is more likely to find one while skilling in a district of the city that has the [Voice of Seren]( https://runescape.wikia.com/wiki/Voice_of_Seren) active.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
 			"fields": [{
+					"name": "​",
+					"value": "• Players receive an increased change of getting rocks when skilling with the relevant [Cape of Accomplishment](https://runescape.wikia.com/wiki/Cape_of_Accomplishment) equipped."
+				},
+				{
 					"name": "Requirements:",
-					"value": "• The ability to obtain golden rocks must be toggled on"
+					"value": "• The ability to obtain [golden rocks](https://runescape.wikia.com/wiki/Golden_rock) must be toggled on by talking to [Auron Ithell](https://runescape.wikia.com/wiki/Auron_Ithell) who is standing by a golden plinth in the [Tower of Voices](https://runescape.wikia.com/wiki/Tower_of_Voices) in [Prifddinas](https://runescape.wikia.com/wiki/Prifddinas)."
 				},
 				{
 					"name": "Guide:",
