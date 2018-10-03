@@ -40,11 +40,15 @@ exports.run = async (client, message, args, level) => {
 		embed.fields[1].value += direction;
 	}
 	await message.channel.send({embed: embed});
+	if (data[`${search} pt2`]) {
+		const second = data[`${search} pt2`];
+		second.color = 2136831;
+		await message.channel.send({embed: second});
+	}
 	if (inv) message.channel.send(`Join voice here: ${inv}`);
 	embed.fields[1].value = embed.fields[1].value.replace(`${fc}`, "<@113770763261181961>");
 	embed.fields[1].value = embed.fields[1].value.replace(`World ${world}`, "World 68");
 	embed.fields[1].value = embed.fields[1].value.replace(direction, "");
-//	embed.fields[1].value = `${embed.fields[1].value.split(/(\.)/)[0]}.`;
 	message.delete();
 
 };

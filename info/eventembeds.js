@@ -102,13 +102,9 @@ exports.data = {
          }
       ]
    },
-    "clue scrolls": {  
+    "clue scrolls pt1": {  
       "title":"What Are Clue Scrolls?:",
-      "description":"A Clue scroll sends the player on [Treasure Trails](https://runescape.wikia.com/wiki/Treasure_Trails), a series of clues leading towards a buried treasure. Clue scrolls can be randomly dropped by various [monsters](https://runescape.wikia.com/wiki/Bestiary), found while pickpocketing [H.A.M. Members](https://runescape.wikia.com/wiki/H.A.M._Member) and [Elven clan workers](https://runescape.wikia.com/wiki/Elven_clan_worker), looted from a [Treasure chest decoration](https://runescape.wikia.com/wiki/Treasure_chest_decoration), [Managing Miscellania](https://runescape.wikia.com/wiki/Managing_Miscellania) [rewards](https://runescape.wikia.com/wiki/Managing_Miscellania#Rewards) coffer, or purchased with [Thaler](https://runescape.wikia.com/wiki/Thaler) or [Treasure Trail points](https://runescape.wikia.com/wiki/Treasure_Trails_Reward_Shop#Treasure_Trail_Points). Players will only be able to open one [sealed clue scroll](https://runescape.wikia.com/wiki/Sealed_clue_scroll) if they do not already have one of the same type active in their inventory or bank.\n\nSealed clue scrolls can also be obtained from Fishing, Mining, Woodcutting, or Divination. The tier of clue scroll players receive is weighted based on their level of the activity, with elites appearing at level 60 training methods and higher. There is always a 1% chance for a sealed elite clue to upgrade to a [sealed master clue](https://runescape.wikia.com/wiki/Sealed_clue_scroll_(master). This can however be boosted to a 2% chance if the invention perk [Prosper](https://runescape.wikia.com/wiki/Prosper) is in use.",
-      "footer":{  
-         "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
-         "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
-      },
+      "description": "A Clue scroll sends the player on [Treasure Trails](https://runescape.wikia.com/wiki/Treasure_Trails), a series of clues leading towards a buried treasure. Clue scrolls can be randomly dropped by various [monsters](https://runescape.wikia.com/wiki/Bestiary), found while pickpocketing [H.A.M. Members](https://runescape.wikia.com/wiki/H.A.M._Member) and [Elven clan workers](https://runescape.wikia.com/wiki/Elven_clan_worker), looted from a [Treasure chest decoration](https://runescape.wikia.com/wiki/Treasure_chest_decoration), [Managing Miscellania](https://runescape.wikia.com/wiki/Managing_Miscellania) [rewards](https://runescape.wikia.com/wiki/Managing_Miscellania#Rewards) coffer, or purchased with [Thaler](https://runescape.wikia.com/wiki/Thaler) or [Treasure Trail points](https://runescape.wikia.com/wiki/Treasure_Trails_Reward_Shop#Treasure_Trail_Points). Players will only be able to open one [sealed clue scroll](https://runescape.wikia.com/wiki/Sealed_clue_scroll) if they do not already have one of the same type active in their inventory or bank.\n\nSealed clue scrolls can also be obtained from Fishing, Mining, Woodcutting, or Divination. The tier of clue scroll players receive is weighted based on their level of the activity, with elites appearing at level 60 training methods and higher. There is always a 1% chance for a sealed elite clue to upgrade to a [sealed master clue](https://runescape.wikia.com/wiki/Sealed_clue_scroll_(master). This can, however, be boosted to a 2% chance if the invention perk [Prosper](https://runescape.wikia.com/wiki/Prosper) is in use.",
       "thumbnail":{  
          "url":"https://vignette.wikia.nocookie.net/runescape2/images/d/df/Clue_scroll_detail.png/revision/latest?cb=20180113013546"
       },
@@ -119,15 +115,15 @@ exports.data = {
       "fields":[
       {
         "name": "Rules:",
-        "value": "• Both clan members and guests are welcome to participate.\n\n• Everyone who wants to enter into the competition **MUST** post a screenshot into the <#494331950060929045> chanenl that shows their RSN and the quickchatted amount of **EVERY** tier of clue; along with the in game clock, chat timestamp, **or** computer clock.\n- [How to Screenshot | Windows](https://support.microsoft.com/en-us/help/13776/windows-use-snipping-tool-to-capture-screenshots)\n- [How to Screenshot | Mac](https://support.apple.com/en-us/HT201361)\n\n• Everyone who has entered the competition **MUST** post a screenshot into the <#496121796295262208> channel each day as close as they can to reset.\n- This must show their RSN and the quickchatted amount of **EVERY** tier of clue; along with the in game clock, chat timestamp, **or** computer clock."
+        "value": "• Both clan members and guests are welcome to participate.\n\n• Everyone who wants to enter into the competition **MUST** post a screenshot into the <#494331950060929045> channel that shows their RSN and the quick-chatted amount of **EVERY** tier of clue; along with the in-game clock, chat timestamp, **or** computer clock.\n- [How to Screenshot | Windows](https://support.microsoft.com/en-us/help/13776/windows-use-snipping-tool-to-capture-screenshots)\n- [How to Screenshot | Mac](https://support.apple.com/en-us/HT201361)\n\n• Everyone who has entered the competition **MUST** post a screenshot into the <#496121796295262208> channel each day as close as they can to reset.\n- This must show their RSN and the quick-chatted amount of **EVERY** tier of clue; along with the in-game clock, chat timestamp, **or** computer clock."
       },
       {
         "name": "​",
-        "value": "• You **MUST** post **EVERY** screenshot of your [Gnomish Firelighters](https://runescape.wikia.com/wiki/Gnomish_firelighters) reward into the <#496121629387128832> channel.\n- This must contain your RSN; the in game clock, chat timestamp, **or** computer clock; the reward screen; and the chat message showing which clue number it is for you.\n- You cannot use the reward and the rerolled reward for points from this on the same clue.\n\n• You **MUST** post **EVERY** screenshot of your highest and lowest rewards, that you believe have a chance in winning overall, into the <#496121651885506570> or <#496121671372111872> channels, respectively. Check the pinned messages for the current winners.\n- This must contain your RSN; the in game clock, chat timestamp, **or** computer clock; the reward screen; and the chat message showing which clue number it is for you.\n- If you are close to the current winners, still post them in case the current lead is disqualified or wins a higher tier prize."
+        "value": "• You **MUST** post **EVERY** screenshot of your [Gnomish Firelighters](https://runescape.wikia.com/wiki/Gnomish_firelighters) reward into the <#496121629387128832> channel.\n- This must contain your RSN; the in-game clock, chat timestamp, **or** computer clock; the reward screen; and the chat message showing which clue number it is for you.\n- You cannot use the reward and the rerolled reward for points from this on the same clue.\n\n• You **MUST** post **EVERY** screenshot of your highest and lowest rewards, that you believe have a chance in winning overall, into the <#496121651885506570> or <#496121671372111872> channels, respectively. Check the pinned messages for the current winners.\n- This must contain your RSN; the in-game clock, chat timestamp, **or** computer clock; the reward screen; and the chat message showing which clue number it is for you.\n- If you are close to the current winners, still post them in case the current lead is disqualified or wins a higher tier prize."
       },
       {
         "name": "​",
-        "value": "• Good people are giving up their hard earned GP for the prize money, so please respect the integrity of the competition and keep it fun for everyone.\n\n• Saved up sealed clue scrolls are fine to use because of the effort in completing them and inability to reasonbly track them.\n\n• You can not win in more than one category. If you do, the lower prize will be rerolled in fairness.\n\n• [Giant Oyster](https://runescape.wikia.com/wiki/Giant_Oyster) rewards do not count.\n\n• You can post any screenshot you want into the <#494329749016150036> channel to keep up the fun."
+        "value": "• Good people are giving up their hard-earned GP for the prize money, so please respect the integrity of the competition and keep it fun for everyone.\n\n• Saved up sealed clue scrolls are fine to use because of the effort in completing them and inability to reasonably track them.\n\n• You can not win in more than one category. If you do, the lower prize will be rerolled in fairness.\n\n• [Giant Oyster](https://runescape.wikia.com/wiki/Giant_Oyster) rewards do not count.\n\n• You can post any screenshot you want into the <#494329749016150036> channel to keep up the fun."
       },
       {
         "name": "How Points are Decided:",
@@ -136,7 +132,11 @@ exports.data = {
       {
         "name": "What You Can Win:",
         "value": "The prize pool is 265m!\n• The player with the most overall points will win 95m\n• The player with the most overall clues will win 65m\n• The players with the most voted item will win 65m\n• The player with highest value reward will win 20m\n• The player with the lowest value reward will win 20m"
-      },
+      }
+      ]
+    },
+    "clue scrolls pt2": {
+      "fields": [
       {
         "name": "Easy Clues:",
         "value": "To solve [easy clue scrolls](https://runescape.wikia.com/wiki/Clue_scroll_(easy), players may encounter:\n\t• [Simple clues](https://runescape.wikia.com/wiki/Treasure_Trails/Guide/Simple_clues)\n\t• [Emote clues](https://runescape.wikia.com/wiki/Treasure_Trails/Guide/Emotes)\n\t• [Maps](https://runescape.wikia.com/wiki/Treasure_Trails/Guide/Maps)\n\t• [Cryptics](https://runescape.wikia.com/wiki/Treasure_Trails/Guide/Cryptics)\n\n You may view an ideal easy clue preset [here](https://gyazo.com/36b8f7ec0e04abc9168cba30c14e102a).\n- The [Large rune pouch](https://runescape.wikia.com/wiki/Large_rune_pouch) has air, law, and nature runes and the [Mystical staff](https://runescape.wikia.com/wiki/Mystical_staff) is for unlimited earth, water, and fire runes."
@@ -159,10 +159,14 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "• The [Alt1 Toolkit Clue scroll solver](https://runeapps.org/clue) Web site and/or downloadable application make clues into a quick task by helping with all types of puzzles, locations, and coordinates. You can read Jagex's stance on the Alt1 Toolkit [here](https://www.reddit.com/r/runescape/comments/3ootg2/alt1_toolkit_guide/cw0ijyk/)."
+        "value": "• The [Alt1 Toolkit Clue scroll solver](https://runeapps.org/clue) Website and/or downloadable application make clues into a quick task by helping with all types of puzzles, locations, and coordinates. You can read Jagex's stance on the Alt1 Toolkit [here](https://www.reddit.com/r/runescape/comments/3ootg2/alt1_toolkit_guide/cw0ijyk/)."
       }
-      ]
-   },
+      ],
+      "footer":{  
+         "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
+         "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
+      }
+    }, 
     "general graardor": {  
       "title":"Preparation:",
       "description":"All are welcome! We will be teaching how to do the boss on Discord if any learners are apprehensive about coming.\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wikia.com/wiki/General_Graardor/Strategies) or a video guide [here](https://www.youtube.com/watch?v=CDur0jqFF_8).",
