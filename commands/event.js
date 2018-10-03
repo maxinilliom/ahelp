@@ -2,8 +2,12 @@ exports.run = async (client, message, args, level) => {
 
 	const {data} = require('../info/eventembeds.js');
 	const list = Object.getOwnPropertyNames(data);
+	const helpArr = [];
+	list.forEach(e => {
+		if (!/\bpt\d/.test(e)) helpArr.push(e);
+	});
 	if (args[0] == "help") {
-		return message.channel.send(list);
+		return message.channel.send(helpArr);
 	}
 	let inv, direction;
 	const guild = message.guild;
