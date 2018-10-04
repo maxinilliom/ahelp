@@ -29,31 +29,13 @@ exports.data = {
       "name": "break.png"
     }]
   },
-  "fctext": {
-    "title": "Looking For More!",
-    "description":"<:bulletpoint:418304110429732883> Please forward any friend's chat suggestions to us and we'll add them to the following lists.\n<:bulletpoint:418304110429732883> You can join Achievement Help’s Official friend chat Saint Cannon in game!",
-    "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
-      "text": "Achievement Help | Friend Chats"
-    },
-    "author": {
-      "name": "Friend Chats",
-      "icon_url": "https://i.imgur.com/6c6q2iC.png"
-    }
-  },
-  "break4": {
-    "files": [{
-      "attachment": "media/img/info/fc/break.png",
-      "name": "break.png"
-    }]
-  },
   "minigamesheader": {
     "files": [{
       "attachment": "media/img/info/fc/minigames.png",
       "name": "Minigames.png"
     }]
   },
-  "break5": {
+  "break4": {
     "files": [{
       "attachment": "media/img/info/fc/break.png",
       "name": "break.png"
@@ -71,7 +53,7 @@ exports.data = {
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     }
   },
-  "break6": {
+  "break5": {
     "files": [{
       "attachment": "media/img/info/fc/break.png",
       "name": "break.png"
@@ -83,7 +65,7 @@ exports.data = {
       "name": "Skilling / D&Ds.png"
     }]
   },
-  "break7": {
+  "break6": {
     "files": [{
       "attachment": "media/img/info/fc/break.png",
       "name": "break.png"
@@ -101,7 +83,7 @@ exports.data = {
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     }
   },
-  "break8": {
+  "break7": {
     "files": [{
       "attachment": "media/img/info/fc/break.png",
       "name": "break.png"
@@ -113,7 +95,7 @@ exports.data = {
       "name": "PvM / Teaching.png"
     }]
   },
-  "break9": {
+  "break8": {
     "files": [{
       "attachment": "media/img/info/fc/break.png",
       "name": "break.png"
@@ -131,7 +113,7 @@ exports.data = {
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     }
   },
-  "break710": {
+  "break9": {
     "files": [{
       "attachment": "media/img/info/fc/break.png",
       "name": "break.png"
@@ -143,7 +125,7 @@ exports.data = {
       "name": "break.png"
     }]
   },
-  "break11": {
+  "break10": {
     "files": [{
       "attachment": "media/img/info/fc/break.png",
       "name": "break.png"
@@ -152,6 +134,24 @@ exports.data = {
     "price checking": {
     "title": "Price Checking/Trading",
     "description":"**90weaps pc** - Price checking T90+ Weapons\n\n**R Quark** - Price checking Rares\n\n**TH Rares PC** - Treasure Hunter/SOF price checking\n\n**Using the Forums for prices** - Incase there are issues with the friend chats use [this](http://services.runescape.com/m=forum/forums.ws?17,18,thd,372,65986200) official RuneScape Forums resource.",
+    "footer": {
+      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "text": "Achievement Help | Friend Chats"
+    },
+    "author": {
+      "name": "Friend Chats",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    }
+  },
+  "break11": {
+    "files": [{
+      "attachment": "media/img/info/fc/break.png",
+      "name": "break.png"
+    }]
+  },
+    "fctext": {
+    "title": "Looking For More!",
+    "description":"<:bulletpoint:418304110429732883> Please forward any friend's chat suggestions to us and we'll add them to the following lists.\n<:bulletpoint:418304110429732883> You can join Achievement Help’s Official friend chat **Saint Cannon** in game!",
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
       "text": "Achievement Help | Friend Chats"
