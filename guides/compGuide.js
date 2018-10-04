@@ -6423,7 +6423,7 @@ exports.data = {
 			"timestamp": "2001-01-04T12:00:00Z"
 		}
 	},
-	"nomad's mirage": {
+	"nomad's mirage pt1": {
 		"cmds": ["trim"],
 		"embed": {
 			"title": "Nomad's Mirage",
@@ -6462,8 +6462,15 @@ exports.data = {
 				{
 					"name": "Phase 4: Slaughter",
 					"value": "During the fourth phase, Nomad stops using all of his other attacks, although Gielinor continues to use the bombs and beam, traps himself and the player between two soul walls in the middle of the bridge, and uses exclusively rapid melee attacks which can deal over 3,000 damage each. If the player has Deflect Melee active, Nomad will occasionally say \"You're alone here [player]\", disabling it and preventing it from being re-activated for a few seconds. During this phase, it is crucial to re-activate Deflect Melee as soon as possible, and while it is deactivated, reduce damage using Resonance, Debilitate, Reflect, and even [Barricade](https://runescape.wikia.com/wiki/Barricade), as without prayer, it is possible that Nomad can deal damage faster than the player can heal."
-				},
-				{
+				}
+      ]
+    }
+	},
+	"nomad's mirage pt2": {
+		"cmds": ["trim"],
+		"embed": {
+      "fields": [
+        {
 					"name": "​",
 					"value": "Due to this phase's damage, it is a good idea to adopt the 'foodbrew' technique. It is possible to eat a piece of food (e.g. a [rocktail](https://runescape.wikia.com/wiki/Rocktail) or [shark](https://runescape.wikia.com/wiki/Shark)) and drink a [Saradomin brew](https://runescape.wikia.com/wiki/Saradomin_brew) in the same tick (by clicking the food first) to heal their combined amounts in one tick. This results in faster health restoration than eating food or drinking brews individually."
 				},
@@ -7322,7 +7329,7 @@ exports.data = {
 			"timestamp": "2001-01-04T12:00:00Z"
 		}
 	},
-	"rhian the gold - the original": {
+	"rhian the gold - the original pt1": {
 		"cmds": ["comp"],
 		"embed": {
 			"title": "Rhian in Gold - The Original",
@@ -7330,7 +7337,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Rhian in Gold - The Original](http://runescape.wikia.com/wiki/Rhian_in_Gold_-_The_Original) is an achievement that requires the player to collect all of the [golden rocks](https://runescape.wikia.com/wiki/Golden_rock) and building the [Statue of Rhiannon](https://runescape.wikia.com/wiki/Statue_of_Rhiannon) once.\n\nThe plinth for the statue is located in the [Tower of Voices](https://runescape.wikia.com/wiki/Tower_of_Voices) in [Prifddinas](https://runescape.wikia.com/wiki/Prifddinas), where it is attended by [Auron Ithell](https://runescape.wikia.com/wiki/Auron_Ithell). You can build as many statues per week as you desire, unlike the [Dahmaroc statue](https://runescape.wikia.com/wiki/Dahmaroc_statue).\n\nPlayers should note:\n• Rocks are obtained randomly based on the number of experience drops, not on the size of the experience drop. \n• Rock chances reduce for the given skill when gaining the first rock, so you should switch skills in-between.\n• It is beneficial to obtain rocks while capping if that is something your clan requires.\n• The rocks must be added in pairs, and can be stored in the [Statue collection bag]( https://runescape.wikia.com/wiki/Statue_collection_bag). \n• While [Golden rocks]( https://runescape.wikia.com/wiki/Golden_rock) are not restricted to only being found in Prifddinas, it is more likely to find one while skilling in a district of the city that has the [Voice of Seren]( https://runescape.wikia.com/wiki/Voice_of_Seren) active.\n• Players receive an increased change of getting rocks when skilling with the relevant [Cape of Accomplishment](https://runescape.wikia.com/wiki/Cape_of_Accomplishment) equipped.",
+			"description": "[Rhian in Gold - The Original](http://runescape.wikia.com/wiki/Rhian_in_Gold_-_The_Original) is an achievement that requires the player to collect all of the [golden rocks](https://runescape.wikia.com/wiki/Golden_rock) and building the [Statue of Rhiannon](https://runescape.wikia.com/wiki/Statue_of_Rhiannon) once.\n\nThe plinth for the statue is located in the [Tower of Voices](https://runescape.wikia.com/wiki/Tower_of_Voices) in [Prifddinas](https://runescape.wikia.com/wiki/Prifddinas), where it is attended by [Auron Ithell](https://runescape.wikia.com/wiki/Auron_Ithell). You can build as many statues per week as you desire, unlike the [Dahmaroc statue](https://runescape.wikia.com/wiki/Dahmaroc_statue).\n\nPlayers should note:\n• Rocks are obtained randomly based on the number of experience drops, not on the size of the experience drop. \n• Rock chances reduce for the given skill when gaining the first rock, so you should switch skills in-between.\n• It is beneficial to obtain rocks while capping if that is something your clan requires.\n• The rocks must be added in pairs and can be stored in the [Statue collection bag]( https://runescape.wikia.com/wiki/Statue_collection_bag). \n• While [Golden rocks]( https://runescape.wikia.com/wiki/Golden_rock) are not restricted to only being found in Prifddinas, it is more likely to find one while skilling in a district of the city that has the [Voice of Seren]( https://runescape.wikia.com/wiki/Voice_of_Seren) active.\n• Players receive an increased chance of getting rocks when skilling with the relevant [Cape of Accomplishment](https://runescape.wikia.com/wiki/Cape_of_Accomplishment) equipped.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -7354,8 +7361,15 @@ exports.data = {
 				{
 					"name": "​",
 					"value": "**Crafting**\n• [Crystal Flasks](https://runescape.wikia.com/wiki/Crystal_flask) or [Potion Flasks](https://runescape.wikia.com/wiki/Potion_flask) made with Daily [Crystal Glass](https://runescape.wikia.com/wiki/Crystal_glass) or [Robust Glass](https://runescape.wikia.com/wiki/Robust_glass) in any district where the Voice of Seren is active\n• [Empty light orb](https://runescape.wikia.com/wiki/Empty_light_orb) from [Molten Glass](https://runescape.wikia.com/wiki/Molten_glass)\n• Playing the [Harps](https://runescape.wikia.com/wiki/Harp) in Prifddinas\n\n**Farming**\n• [Rumberry Bushes](https://runescape.wikia.com/wiki/Rumberry_bush) on [Tuai Leit](https://runescape.wikia.com/wiki/Tuai_Leit)\n• [Grapvine](https://www.youtube.com/watch?v=EKBj8-gF28M) runs with [Herb Run](https://www.youtube.com/watch?v=TzNhjl2RZ1c)\n• [Manure mound](http://runescape.wikia.com/wiki/Manure_mound)"
-				},
-				{
+				}
+      ]
+    }
+	},
+	"rhian the gold - the original pt2": {
+		"cmds": ["comp"],
+		"embed": {
+      "fields": [
+        {
 					"name": "​",
 					"value": "**Herblore**\n• Cleaning [Tarromin](https://runescape.wikia.com/wiki/Grimy_tarromin) in any district where the Voice of Seren is active\n\n**Mining**\n• [Seren Stones](https://runescape.wikia.com/wiki/Seren_stone)\n• [Pure Essence](https://runescape.wikia.com/wiki/Pure_essence)\n• [Red Sandstone](https://runescape.wikia.com/wiki/Red_sandstone) or [Crystal-flecked sandstone](https://runescape.wikia.com/wiki/Crystal-flecked_sandstone) Daily\n\n**Smithing**\n• [Corrupted Ore](https://runescape.wikia.com/wiki/Corrupted_ore)\n• [Gold Bars](https://runescape.wikia.com/wiki/Gold_bar) at a [Portable forge](https://runescape.wikia.com/wiki/Portable_forge)\n\n**Woodcutting**\n• [Crystallise](https://runescape.wikia.com/wiki/Crystallise) [Acadia](https://runescape.wikia.com/wiki/Acadia_tree) in [Menaphos](https://runescape.wikia.com/wiki/Menaphos)\n• [Ivy](https://runescape.wikia.com/wiki/Ivy)"
 				},
@@ -8235,7 +8249,7 @@ exports.data = {
 			"timestamp": "2001-01-04T12:00:00Z"
 		}
 	},
-	"stone's throw away": {
+	"stone's throw away pt1": {
 		"cmds": ["trim"],
 		"embed": {
 			"title": "Stone's Throw Away",
@@ -8247,9 +8261,10 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [{
+			"fields": [
+        {
 					"name": "​",
-					"value": "• Players receive an increased change of getting strange rocks when skilling with the relevant [Cape of Accomplishment](https://runescape.wikia.com/wiki/Cape_of_Accomplishment) equipped."
+					"value": "• Players receive an increased chance of getting strange rocks when skilling with the relevant [Cape of Accomplishment](https://runescape.wikia.com/wiki/Cape_of_Accomplishment) equipped."
 				},
 				{
 					"name": "Requirements:",
@@ -8266,8 +8281,15 @@ exports.data = {
 				{
 					"name": "​",
 					"value": "**Crafting**\n• [Crystal Flasks](https://runescape.wikia.com/wiki/Crystal_flask) or [Potion Flasks](https://runescape.wikia.com/wiki/Potion_flask) made with Daily [Crystal Glass](https://runescape.wikia.com/wiki/Crystal_glass) or [Robust Glass](https://runescape.wikia.com/wiki/Robust_glass) in any district where the Voice of Seren is active\n• [Empty light orb](https://runescape.wikia.com/wiki/Empty_light_orb) from [Molten Glass](https://runescape.wikia.com/wiki/Molten_glass)\n• Playing the [Harps](https://runescape.wikia.com/wiki/Harp) in Prifddinas\n\n**Farming**\n• [Rumberry Bushes](https://runescape.wikia.com/wiki/Rumberry_bush) on [Tuai Leit](https://runescape.wikia.com/wiki/Tuai_Leit)\n• [Grapvine](https://www.youtube.com/watch?v=EKBj8-gF28M) runs with [Herb Run](https://www.youtube.com/watch?v=TzNhjl2RZ1c)\n• [Manure mound](http://runescape.wikia.com/wiki/Manure_mound)"
-				},
-				{
+				}
+      ]
+    }
+	},
+	"stone's throw away pt2": {
+		"cmds": ["trim"],
+		"embed": {
+      "fields": [
+        {
 					"name": "​",
 					"value": "**Herblore**\n• Cleaning [Tarromin](https://runescape.wikia.com/wiki/Grimy_tarromin) in any district where the Voice of Seren is active\n\n**Mining**\n• [Seren Stones](https://runescape.wikia.com/wiki/Seren_stone)\n• [Pure Essence](https://runescape.wikia.com/wiki/Pure_essence)\n• [Red Sandstone](https://runescape.wikia.com/wiki/Red_sandstone) or [Crystal-flecked sandstone](https://runescape.wikia.com/wiki/Crystal-flecked_sandstone) Daily\n\n**Smithing**\n• [Corrupted Ore](https://runescape.wikia.com/wiki/Corrupted_ore)\n• [Gold Bars](https://runescape.wikia.com/wiki/Gold_bar) at a [Portable forge](https://runescape.wikia.com/wiki/Portable_forge)\n\n**Woodcutting**\n• [Crystallise](https://runescape.wikia.com/wiki/Crystallise) [Acadia](https://runescape.wikia.com/wiki/Acadia_tree) in [Menaphos](https://runescape.wikia.com/wiki/Menaphos)\n• [Ivy](https://runescape.wikia.com/wiki/Ivy)"
 				},
@@ -9240,7 +9262,7 @@ exports.data = {
 			"timestamp": "2001-01-04T12:00:00Z"
 		}
 	},
-	"who will be her lover?": {
+	"who will be her lover? pt1": {
 		"cmds": ["trim"],
 		"embed": {
 			"title": "Who Will Be Her Lover?",
@@ -9252,9 +9274,10 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [{
+			"fields": [
+        {
 					"name": "​",
-					"value": "• Players receive an increased change of getting rocks when skilling with the relevant [Cape of Accomplishment](https://runescape.wikia.com/wiki/Cape_of_Accomplishment) equipped."
+					"value": "• Players receive an increased chance of getting rocks when skilling with the relevant [Cape of Accomplishment](https://runescape.wikia.com/wiki/Cape_of_Accomplishment) equipped."
 				},
 				{
 					"name": "Requirements:",
@@ -9275,8 +9298,15 @@ exports.data = {
 				{
 					"name": "​",
 					"value": "**Crafting**\n• [Crystal Flasks](https://runescape.wikia.com/wiki/Crystal_flask) or [Potion Flasks](https://runescape.wikia.com/wiki/Potion_flask) made with Daily [Crystal Glass](https://runescape.wikia.com/wiki/Crystal_glass) or [Robust Glass](https://runescape.wikia.com/wiki/Robust_glass) in any district where the Voice of Seren is active\n• [Empty light orb](https://runescape.wikia.com/wiki/Empty_light_orb) from [Molten Glass](https://runescape.wikia.com/wiki/Molten_glass)\n• Playing the [Harps](https://runescape.wikia.com/wiki/Harp) in Prifddinas\n\n**Farming**\n• [Rumberry Bushes](https://runescape.wikia.com/wiki/Rumberry_bush) on [Tuai Leit](https://runescape.wikia.com/wiki/Tuai_Leit)\n• [Grapvine](https://www.youtube.com/watch?v=EKBj8-gF28M) runs with [Herb Run](https://www.youtube.com/watch?v=TzNhjl2RZ1c)\n• [Manure mound](http://runescape.wikia.com/wiki/Manure_mound)"
-				},
-				{
+				}
+      ]
+    }
+	},
+	"who will be her lover? pt2": {
+		"cmds": ["trim"],
+		"embed": {
+      "fields": [
+        {
 					"name": "​",
 					"value": "**Herblore**\n• Cleaning [Tarromin](https://runescape.wikia.com/wiki/Grimy_tarromin) in any district where the Voice of Seren is active\n\n**Mining**\n• [Seren Stones](https://runescape.wikia.com/wiki/Seren_stone)\n• [Pure Essence](https://runescape.wikia.com/wiki/Pure_essence)\n• [Red Sandstone](https://runescape.wikia.com/wiki/Red_sandstone) or [Crystal-flecked sandstone](https://runescape.wikia.com/wiki/Crystal-flecked_sandstone) Daily\n\n**Smithing**\n• [Corrupted Ore](https://runescape.wikia.com/wiki/Corrupted_ore)\n• [Gold Bars](https://runescape.wikia.com/wiki/Gold_bar) at a [Portable forge](https://runescape.wikia.com/wiki/Portable_forge)\n\n**Woodcutting**\n• [Crystallise](https://runescape.wikia.com/wiki/Crystallise) [Acadia](https://runescape.wikia.com/wiki/Acadia_tree) in [Menaphos](https://runescape.wikia.com/wiki/Menaphos)\n• [Ivy](https://runescape.wikia.com/wiki/Ivy)"
 				},
