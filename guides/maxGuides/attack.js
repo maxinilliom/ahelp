@@ -214,7 +214,7 @@ exports.data = {
   "abilities": {
     "title": "Abilities",
     "url": "http://runescape.wikia.com/wiki/Abilities#Attack",
-    "description": "[Abilities](https://runescape.wikia.com/wiki/Ability_Book) are a set of combat commands for Attack, Strength, Defence, Constitution, Ranged, and Magic. Abilities form the basis of combat following the [Evolution of Combat](https://runescape.wikia.com/wiki/Evolution_of_Combat), though they cannot be used when in [Legacy Mode](https://runescape.wikia.com/wiki/Legacy_Mode) combat. Each skill has a menu of abilities, found in the [Powers](http://runescape.wikia.com/wiki/Interface#Powers) menu, which can be dragged outside as part of an interface setup.",
+    "description": "[Abilities](https://runescape.wikia.com/wiki/Ability_Book) are a set of combat commands for Attack, Strength, Defence, Constitution, Ranged, and Magic.\n\nAbilities form the basis of combat following the [Evolution of Combat](https://runescape.wikia.com/wiki/Evolution_of_Combat), though they cannot be used when in [Legacy Mode](https://runescape.wikia.com/wiki/Legacy_Mode) combat. Each skill has a menu of abilities, found in the [Powers](http://runescape.wikia.com/wiki/Interface#Powers) menu, which can be dragged outside as part of an interface setup.",
         "color": 12269891,
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
@@ -281,7 +281,7 @@ exports.data = {
     },
     { 
       "name": "​", 
-      "value": "Players will receive a number of zeal points based on their performance in the game, unless the player joined the waiting area after the game was past the half-way mark; in which case no zeal points are awarded. Players may trade these in with [Nomad](http://runescape.wikia.com/wiki/Nomad), [Zimberfizz](http://runescape.wikia.com/wiki/Zimberfizz), [Zimberfizz ashes](http://runescape.wikia.com/wiki/Zimberfizz_ashes), or [Zanik](http://runescape.wikia.com/wiki/Zanik) for a variety of [rewards](https://runescape.wikia.com/wiki/Soul_Wars/Rewards) such as experience, [charms](https://runescape.wikia.com/wiki/Charms), Slayer pets, and other items. Players can store a maximum of 50,000 Zeal points. This is equivalent to playing and winning 16,667 games."
+      "value": "Players will receive a number of [zeal](https://runescape.wikia.com/wiki/Zeal) based on their performance in the game, unless the player joined the waiting area after the game was past the half-way mark; in which case no zeal points are awarded. Players may trade these in with [Nomad](http://runescape.wikia.com/wiki/Nomad), [Zimberfizz](http://runescape.wikia.com/wiki/Zimberfizz), [Zimberfizz ashes](http://runescape.wikia.com/wiki/Zimberfizz_ashes), or [Zanik](http://runescape.wikia.com/wiki/Zanik) for a variety of [rewards](https://runescape.wikia.com/wiki/Soul_Wars/Rewards) such as experience, [charms](https://runescape.wikia.com/wiki/Charms), Slayer pets, and other items. Players can store a maximum of 50,000 Zeal points. This is equivalent to playing and winning 16,667 games."
     },
        {
         "name": "▬▬ Pest Control ▬▬",
