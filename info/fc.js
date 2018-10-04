@@ -5,7 +5,7 @@ exports.data = {
       "name": "break.png"
     }]
   },
-  "fcheader": {
+  "mischeader": {
     "files": [{
       "attachment": "media/img/info/fc/fcheader.jpg",
       "name": "Friends Chats header.png"
@@ -17,25 +17,13 @@ exports.data = {
       "name": "break.png"
     }]
   },
-  "fcinfo": {
-    "files": [{
-      "attachment": "media/img/info/fc/fcinfo.png",
-      "name": "Friends Chat information.png"
-    }]
-  },
-  "break3": {
-    "files": [{
-      "attachment": "media/img/info/fc/break.png",
-      "name": "break.png"
-    }]
-  },
   "minigamesheader": {
     "files": [{
       "attachment": "media/img/info/fc/minigames.png",
       "name": "Minigames.png"
     }]
   },
-  "break4": {
+  "break3": {
     "files": [{
       "attachment": "media/img/info/fc/break.png",
       "name": "break.png"
@@ -53,7 +41,7 @@ exports.data = {
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     }
   },
-  "break5": {
+  "break4": {
     "files": [{
       "attachment": "media/img/info/fc/break.png",
       "name": "break.png"
@@ -65,7 +53,7 @@ exports.data = {
       "name": "Skilling / D&Ds.png"
     }]
   },
-  "break6": {
+  "break5": {
     "files": [{
       "attachment": "media/img/info/fc/break.png",
       "name": "break.png"
@@ -83,7 +71,7 @@ exports.data = {
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     }
   },
-  "break7": {
+  "break6": {
     "files": [{
       "attachment": "media/img/info/fc/break.png",
       "name": "break.png"
@@ -95,7 +83,7 @@ exports.data = {
       "name": "PvM / Teaching.png"
     }]
   },
-  "break8": {
+  "break7": {
     "files": [{
       "attachment": "media/img/info/fc/break.png",
       "name": "break.png"
@@ -113,7 +101,7 @@ exports.data = {
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     }
   },
-  "break9": {
+  "break8": {
     "files": [{
       "attachment": "media/img/info/fc/break.png",
       "name": "break.png"
@@ -125,7 +113,7 @@ exports.data = {
       "name": "break.png"
     }]
   },
-  "break10": {
+  "break9": {
     "files": [{
       "attachment": "media/img/info/fc/break.png",
       "name": "break.png"
@@ -142,6 +130,18 @@ exports.data = {
       "name": "Friend Chats",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     }
+  },
+  "break10": {
+    "files": [{
+      "attachment": "media/img/info/fc/break.png",
+      "name": "break.png"
+    }]
+  },
+  "fcinfo": {
+    "files": [{
+      "attachment": "media/img/info/fc/fcinfo.png",
+      "name": "Friends Chat information.png"
+    }]
   },
   "break11": {
     "files": [{
