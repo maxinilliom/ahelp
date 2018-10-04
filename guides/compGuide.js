@@ -6431,11 +6431,43 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Nomad's Mirage](http://runescape.wikia.com/wiki/Nomad%27s_Mirage) is an achievement that requires the player to defeat the [Memory of Nomad](https://runescape.wikia.com/wiki/Memory_of_Nomad) and loot the chest thereafter.\n\nIf you struggle with this fight, it is advised to bring a [Pack Mammoth](https://runescape.wikia.com/wiki/Pack_mammoth) and [Mammoth feast scrolls](https://runescape.wikia.com/wiki/Mammoth_feast_scroll) for eating, as this uses no [adreniline](https://runescape.wikia.com/wiki/Adrenaline) and consequently allows more damage per second. Also, remember to utilize [Devotion](https://runescape.wikia.com/wiki/Devotion), [Barricade](https://runescape.wikia.com/wiki/Barricade), and [Debilitate](https://runescape.wikia.com/wiki/Debilitate) [defensive](https://runescape.wikia.com/wiki/Abilities#Defence) [abilities](https://runescape.wikia.com/wiki/Abilities). [Deflect curses](https://runescape.wikia.com/wiki/Deflect_Curses) being kept up on last phase is of dire importance.\n\nThe Memory of Nomad is essentially a hard mode version of the fight in [Nomad's Elegy](https://runescape.wikia.com/wiki/Nomad%27s_Elegy). Most of the mechanics are the same as in the normal fight but there are a few additional mechanics, especially in the final phase. There are also no checkpoints, so all four phases must be completed in one go.",
+			"description": "[Nomad's Mirage](http://runescape.wikia.com/wiki/Nomad%27s_Mirage) is an achievement that requires the player to defeat the [Memory of Nomad](https://runescape.wikia.com/wiki/Memory_of_Nomad) and loot the chest thereafter.\n\nIf you struggle with this fight, it is advised to bring a [Pack Mammoth](https://runescape.wikia.com/wiki/Pack_mammoth) and [Mammoth feast scrolls](https://runescape.wikia.com/wiki/Mammoth_feast_scroll) for eating, as this uses no [adreniline](https://runescape.wikia.com/wiki/Adrenaline) and consequently allows more damage per second.\n\nThe Memory of Nomad is essentially a hard mode version of the fight in [Nomad's Elegy](https://runescape.wikia.com/wiki/Nomad%27s_Elegy). Most of the mechanics are the same as in the normal fight but there are a few additional mechanics, especially in the final phase. There are also no checkpoints, so all four phases must be completed in one go.\n\nA [deathtouch dart](https://runescape.wikia.com/wiki/Deathtouch_dart) only kills one phase and is recommended only if players struggle on the last phase.\n\nThe arena cannot be teleported from, but during the first three phases the fight can be exited by using the stairs at the entrance near the south side of the arena. Phase four is inescapable - you either win or die.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
 			"fields": [{
+					"name": "Gielinor's Attacks:",
+					"value": "• Four purple beams will fly into the sky, showing shadows where they will land - on and around the player - dealing 850 magic damage rapidly if stood in or adjacent to. This can be reduced by using [Deflect Magic](https://runescape.wikia.com/wiki/Deflect_Magic) and can be blocked with [Devotion](https://runescape.wikia.com/wiki/Devotion), or simply moved away from.\n\n• Five red bombs are shot out commonly after [Gielinor attacks](https://runescape.wikia.com/wiki/Gielinor_(god), but can be at any time. Shadows will mark the areas where they will land. They deal 2,000 magic damage each if the player is on or adjacent to the landing spot; despite dealing magic damage, they cannot be reduced by Deflect Magic or [defensive abilities](https://runescape.wikia.com/wiki/Abilities#Defence), so they should be avoided by moving away."
+				},
+				{
+					"name": "​",
+					"value": "When the end of each phase is reached, you cannot move or eat, but can still be hit by these bombs - if they kill you, you will automatically die upon the start of the next phase and have to restart again."
+				},
+				{
+					"name": "Phase 1: Teleport",
+					"value": "In phase one, Nomad will periodically teleport the player to the center of the bridge and call Gielinor to attack. This is a melee attack which can do over 3,000 damage, but can be reduced by [Deflect Melee](https://runescape.wikia.com/wiki/Deflect_Melee). Use [Barge](https://runescape.wikia.com/wiki/Barge), [Surge](https://runescape.wikia.com/wiki/Surge), or simply run back towards Nomad to avoid taking damage. Gielinor often follow-ups with red bombs."
+				},
+				{
+					"name": "Phase 2: Wrath",
+					"value": "In phase two, in addition to the above, Nomad will occasionally teleport to either end of the bridge and ask \"Can you withstand my wrath!\" while charging an attack which does 7,500 typeless damage if it hits the player. This attack can be blocked by moving behind a pillar at either end of the bridge or by using [Disruption Shield](https://runescape.wikia.com/wiki/Disruption_Shield) or [Resonance](https://runescape.wikia.com/wiki/Resonance). As a last resort, [Reflect](https://runescape.wikia.com/wiki/Reflect) and [Debilitate](https://runescape.wikia.com/wiki/Debilitate) will halve the damage it deals to 3,750."
+				},
+				{
+					"name": "Phase 3: Clone",
+					"value": "In phase three, in addition to the above, at 100,000 life points, Nomad will create a clone of himself. Nomad discards some of his abilities but makes up for this by dealing more damage. Gielinor can still attack with magic and bombs, so the player needs to watch for them. If the clone is killed, Nomad will use his discarded abilities again until the end of this phase. If the player defeats the real Nomad, the next phase starts automatically. Usually, the real Nomad is the one that appears on the bridge; the one at the end of the bridge is usually the clone. It is possible to chip Nomad below 100,000 health if he is performing his Soul Blast attack, which will cause both him and his clone to start off with whatever health he has left when he copies himself."
+				},
+				{
+					"name": "​",
+					"value": "The Nomads can be lured on top of each other by hiding behind a pillar at the end of the bridge. This makes them much easier to hit with multi-target attacks such as [Corruption Blast](https://runescape.wikia.com/wiki/Corruption_Blast), [Hurricane](https://runescape.wikia.com/wiki/Hurricane), and so on. Additionally, as the other mechanics are halted, and the end of the bridge has more room to dodge Gielinor's attacks, this is an ideal time to use [Sunshine](https://runescape.wikia.com/wiki/Sunshine) or [Death's Swiftness](https://runescape.wikia.com/wiki/Death%27s_Swiftness) if using magic or ranged."
+				},
+				{
+					"name": "Phase 4: Slaughter",
+					"value": "During the fourth phase, Nomad stops using all of his other attacks, although Gielinor continues to use the bombs and beam, traps himself and the player between two soul walls in the middle of the bridge, and uses exclusively rapid melee attacks which can deal over 3,000 damage each. If the player has Deflect Melee active, Nomad will occasionally say \"You're alone here [player]\", disabling it and preventing it from being re-activated for a few seconds. During this phase, it is crucial to re-activate Deflect Melee as soon as possible, and while it is deactivated, reduce damage using Resonance, Debilitate, Reflect, and even [Barricade](https://runescape.wikia.com/wiki/Barricade), as without prayer, it is possible that Nomad can deal damage faster than the player can heal."
+				},
+				{
+					"name": "​",
+					"value": "Due to this phase's damage, it is a good idea to adopt the 'foodbrew' technique. It is possible to eat a piece of food (e.g. a [rocktail](https://runescape.wikia.com/wiki/Rocktail) or [shark](https://runescape.wikia.com/wiki/Shark)) and drink a [Saradomin brew](https://runescape.wikia.com/wiki/Saradomin_brew) in the same tick (by clicking the food first) to heal their combined amounts in one tick. This results in faster health restoration than eating food or drinking brews individually."
+				},
+				{
 					"name": "Requirements:",
 					"value": "• Nomad's Elegy Quest completion | [Runescape Wiki](https://runescape.wikia.com/wiki/Nomad%27s_Elegy)"
 				},

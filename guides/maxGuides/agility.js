@@ -259,19 +259,19 @@ exports.data = {
     },
     "fields": [
       {
-        "name": "Methods to Obtain",
+        "name": "Methods to Obtain:",
         "value": "• Burthorpe Agility Course\n• Gnome Stronghold Agility Course\n• Advanced Gnome Stronghold Agility Course\n• Agility Pyramid\n• Penguin Agility Course\n• Barbarian Outpost\n• Advanced Barbarian Outpost\n• Ape Atoll Agility Course\n• Wilderness Agility Course\n• Werewolf Agility Course\n• Agility Course\n• Hefin Agility Course\n• Dorgesh-Kaan Agility Course\n• Collecting an Agility arena ticket from the Brimhaven Agility Arena\n• Serenity posts\n• Manual Auto-cycles in The Empty Throne Room\n• Taking Agility Shortcuts"
       },
       {
-        "name": "Best Method",
+        "name": "Best Method:",
         "value": "• [Manual Auto-cycles](https://runescape.wikia.com/wiki/The_Empty_Throne_Room#Agility) in [The Empty Throne Room](https://runescape.wikia.com/wiki/The_Empty_Throne_Room) utilizing the incorrect action for the max amount of experience drops\n\n• [Serenity Posts](https://runescape.wikia.com/wiki/Serenity_posts) utilizing the incorrect action for the most possible experience drops per day"
       },
       {
-        "name": "Methods which do not Work",
+        "name": "Methods which do not Work:",
         "value": "• Using [silverhawk boots](https://runescape.wikia.com/wiki/Silverhawk_boots) to passively train Agility does not give a chance of earning this item\n• [Agility Skill Training Dummies](https://runescape.wikia.com/wiki/Agility_skill_training_dummy)"
       },
       {
-        "name": "Formula",
+        "name": "Formula:",
         "value": "Gaining this pet is based on the amount of experience drops received, not the size of the experience drops. Therefore, it is best to choose a method among the fastest experience drops.\n\nIn a purely mathematical format your chance (f) of receiving a pet on any particular action is:\nf = T *S / 50,000,000\n\nWhere:\n*T* is the estimated completion time (in game ticks) of each course lap, since the pet can only be obtained at the end of a lap\n*S* is the virtual skill level. At 200 million experience, a flat bonus of 50 is applied to this value."
       }
       ]
@@ -294,7 +294,7 @@ exports.data = {
     },
     "fields": [
       {
-        "name": "Complete List by RS Wiki",
+        "name": "Complete List by RS Wiki:",
         "value": "The full list may be found [here](http://runescape.wikia.com/wiki/Quests/Experience_rewards#Agility)."
       }
       ]
@@ -426,7 +426,7 @@ exports.data = {
     },
     "fields": [
       {
-        "name": "Agility Boosts",
+        "name": "Agility Boosts:",
         "value": "[Agility Cape](http://runescape.wikia.com/wiki/Agility_cape)\n • +1 to Agility for 1 minute\n\n[Spicy Stew](http://runescape.wikia.com/wiki/Spicy_stew)\n • Boost is applied to a random skill\n • Up to ±6 with 3 spice doses\n • Up to ±3 with 2 spice doses\n • Up to ±2 with 1 spice dose\n\n[God Banner](http://runescape.wikia.com/wiki/God_banner)\n• Exploration boost: +5 levels\n• The boost can be used once per day and lasts for 30 minutes\n\n[Jitterberry](http://runescape.wikia.com/wiki/Jitterberry)\n• +2 levels\n• Requires access to [The Arc](http://runescape.wikia.com/wiki/The_Arc)\n• Reduces Defence by 1 level\n\n[Tireless Run Scroll](http://runescape.wikia.com/wiki/Spirit_terrorbird#Tireless_run_scroll)\n• +2 levels\n• Special move of the [Spirit terrorbird](http://runescape.wikia.com/wiki/Spirit_terrorbird)\n\n[Agility Potion](http://runescape.wikia.com/wiki/Agility_potion)\n• +3 levels\n• [Mix](http://runescape.wikia.com/wiki/Agility_mix) version heals 600 life points per dose"
       },
       {
