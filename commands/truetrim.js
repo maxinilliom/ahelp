@@ -159,7 +159,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 			|| RegExp(achName).test(k) && /\bpt1/.test(k) && !rtnArr.includes(k)) rtnArr.push(k);
 		if (RegExp(achName).test(k)&& !fullArr.includes(k)) fullArr.push(k);
 		if (RegExp(achName).test(k) && /\bpt\d/.test(k)) {
-			if (rtnArr.length > 0) return;
+			if (rtnArr.length > 1) return;
 			if (prev && prev !== k.replace(/ \bpt\d/, "")) return;
 			const guide = data[k];
 			guide.color = color;
