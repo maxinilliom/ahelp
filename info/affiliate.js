@@ -111,8 +111,12 @@ exports.data = {
         "value": "Altar"
       },
       {
+        "name": "Website:",
+        "value": "https://www.altar.rs/"
+      },
+      {
         "name": "Invite Link:",
-        "value": "https://discord.gg/bC4eyXt"
+        "value": "https://discord.gg/DQvsUp7"
       },
       {
         "name": "Contact:",
@@ -590,11 +594,11 @@ exports.data = {
           "fields": [
       {
         "name": "Invite Link:",
-        "value": "https://discord.gg/fuXYm5v"
+        "value": "https://discord.gg/nXwx25B"
       },
       {
         "name": "Contact:",
-        "value": "<@287703227737047051>"
+        "value": "<@151076881280663552> and <@326803450123780097>"
       }
       ]
   },
