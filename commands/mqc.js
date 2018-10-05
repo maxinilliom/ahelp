@@ -182,7 +182,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 			const replace = new RegExp(title.replace(/ \bpt\d/, ""));
 			fullArr.forEach(n => {
 				if (replace.test(n)) {
-					const choice = data[n];
+					const choice = data[n].embed;
 					choice.color = color;
 					if (choice.author) choice.author.name = name;
 					if (choice.timestamp) choice.timestamp = new Date();
