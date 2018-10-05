@@ -4,6 +4,7 @@ exports.run = async (client, message, args, level) => {
 	const guideName = args.join(" ").toLowerCase();
 	const keyList = [];
 	const rtnArr = [];
+	const fullArr = [];
 	let pt = "false";
 	const name = "Reaper Info";
 	const color = 13480569;
@@ -97,9 +98,11 @@ exports.run = async (client, message, args, level) => {
 
 	let prev = undefined;
 	keyList.forEach(k => {
-		if (RegExp(guideName).test(k) && !/\bpt\d/.test(k) && !rtnArr.includes(k)) rtnArr.push(k);
+		if (RegExp(guideName).test(k) && !/\bpt\d/.test(k) && !rtnArr.includes(k)
+			|| RegExp(guideName).test(k) && /\bpt1/.test(k) && !rtnArr.includes(k)) rtnArr.push(k);
+		if (RegExp(guideName).test(k)&& !fullArr.includes(k)) fullArr.push(k);
 		if (RegExp(guideName).test(k) && /\bpt\d/.test(k)) {
-			if (rtnArr.length > 0) return;
+			if (rtnArr.length > 1) return;
 			if (prev && prev !== k.replace(/ \bpt\d/, "")) return;
 			const guide = data[k];
 			guide.color = color;
@@ -140,12 +143,29 @@ exports.run = async (client, message, args, level) => {
 		message.channel.send("", {embed: searchEmbed});
 		const response = await client.awaitReply(message, "Which boss were you searching for? Please enter the corresponding number.");
 		if (isNaN(response) || response > rtnArr.length || response < 1) return message.channel.send("Invalid number specified, search cancelled.");
-		const choice = data[rtnArr[response-1]];
-		choice.author.name = name;
-		choice.color = color;
-		choice.footer = footer;
-		choice.timestamp = new Date();
-		return message.channel.send("", {embed: choice});
+		
+		if (/\bpt\d/.test(rtnArr[response-1])) {
+			const title = rtnArr[response-1];
+			const replace = new RegExp(title.replace(/ \bpt\d/, ""));
+			fullArr.forEach(n => {
+				if (replace.test(n)) {
+					const choice = data[n];
+					choice.color = color;
+					if (choice.author) choice.author.name = name;
+					if (choice.timestamp) choice.timestamp = new Date();
+					message.channel.send("", {embed: choice});
+					pt = "true";
+				}
+			});
+		}
+		else {
+			if (pt == "true") return;
+			const choice = data[rtnArr[response-1]];
+			choice.author.name = name;
+			choice.color = color;
+			choice.timestamp = new Date();
+			return message.channel.send("", {embed: choice});
+		}
 	} else if (pt == "true") {
 		return;
 	} else {

@@ -19,6 +19,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 	const achName = args.join(" ").toLowerCase();
 	const keyList = [];
 	const rtnArr = [];
+	const fullArr = [];
 	let pt = "false";
 	const name = "True Trimmed Info";
 	const color = 10257648;
@@ -154,8 +155,9 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 
 	let prev = undefined;
 	keyList.forEach(k => {
-		if (RegExp(achName).test(k) && !/\bpt\d/.test(k) && !rtnArr.includes(k)) rtnArr.push(k);
-		if (RegExp(achName).test(k) && /\bpt\d/.test(k) && !rtnArr.includes(k)) rtnArr.push(k);
+		if (RegExp(achName).test(k) && !/\bpt\d/.test(k) && !rtnArr.includes(k)
+			|| RegExp(achName).test(k) && /\bpt1/.test(k) && !rtnArr.includes(k)) rtnArr.push(k);
+		if (RegExp(achName).test(k)&& !fullArr.includes(k)) fullArr.push(k);
 		if (RegExp(achName).test(k) && /\bpt\d/.test(k)) {
 			if (rtnArr.length > 0) return;
 			if (prev && prev !== k.replace(/ \bpt\d/, "")) return;
@@ -211,25 +213,29 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 
 		const response = await client.awaitReply(message, "Which were you searching for? Please enter the corresponding number.");
 		if (isNaN(response) || response > rtnArr.length || response < 1) return message.channel.send("Invalid number specified, search cancelled.");
-		rtnArr.forEach(n => {
+		
+		if (/\bpt\d/.test(rtnArr[response-1])) {
 			const title = rtnArr[response-1];
 			const replace = new RegExp(title.replace(/ \bpt\d/, ""));
-			if (replace.test(n) && /\bpt\d/.test(n)) {
-				const choice = data[n];
-				choice.color = color;
-				if (choice.author) choice.author.name = name;
-				if (choice.timestamp) choice.timestamp = new Date();
-				message.channel.send("", {embed: choice});
-				pt = "true";
-			}
-		});
-		if (pt == "true") return;
-		const choice = data[rtnArr[response-1]];
-		choice.author.name = name;
-		choice.color = color;
-		choice.footer = footer;
-		choice.timestamp = new Date();
-		return message.channel.send("", {embed: choice});
+			fullArr.forEach(n => {
+				if (replace.test(n)) {
+					const choice = data[n];
+					choice.color = color;
+					if (choice.author) choice.author.name = name;
+					if (choice.timestamp) choice.timestamp = new Date();
+					message.channel.send("", {embed: choice});
+					pt = "true";
+				}
+			});
+		}
+		else {
+			if (pt == "true") return;
+			const choice = data[rtnArr[response-1]];
+			choice.author.name = name;
+			choice.color = color;
+			choice.timestamp = new Date();
+			return message.channel.send("", {embed: choice});
+		}
 	} else if (pt == "true") {
 		return;
 	} else {
