@@ -267,7 +267,7 @@ exports.run = async (client, message, [skill, ...args], level) => { // eslint-di
 				args[0] >= first && args[0] < last && /\bpt1/.test(k) && !rtnArr.includes(k)) rtnArr.push(k);
 			if (args[0] >= first && args[0] < last && !fullArr.includes(k)) fullArr.push(k);
 			if (args[0] >= first && args[0] < last && /\bpt\d/.test(k)) {
-				if (rtnArr.length > 0) return;
+				if (rtnArr.length > 1) return;
 				if (prev && prev !== k.replace(/ \bpt\d/, "")) return;
 				const guide = data[k];
 				guide.color = color;
@@ -289,7 +289,7 @@ exports.run = async (client, message, [skill, ...args], level) => { // eslint-di
 				RegExp(args[0].toLowerCase()).test(k) && /\bpt1/.test(k) && !rtnArr.includes(k)) rtnArr.push(k);
 			if (RegExp(args[0].toLowerCase()).test(k) && !fullArr.includes(k)) fullArr.push(k);
 			if (RegExp(args[0].toLowerCase()).test(k) && /\bpt\d/.test(k)) {
-				if (rtnArr.length > 0) return;
+				if (rtnArr.length > 1) return;
 				if (prev && prev !== k.replace(/ \bpt\d/, "")) return;
 				const guide = data[k];
 				guide.color = color;
