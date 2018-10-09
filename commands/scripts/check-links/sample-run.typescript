@@ -1,0 +1,24 @@
+Script started on Wed, Sep 19, 2018  9:29:41 PM
+]0;~/Desktop/AHelp Bot
+
+[32m*scrubbed* [33m~/Desktop/AHelp Bot[0m
+
+$ node check-links.js events.js events-broken.js
+{ filename: 'C:\\Users\\*scrubbed*\\Desktop\\AHelp Bot\\events-broken.js',
+  path: [ 'data', 'runescape official events', 'footer', 'icon_url' ],
+  url: 'https://cdn.discordaasdfpp.com/attachments/297388220231057419/400471386101121024/image.jpg',
+  error: 
+   { name: 'RequestError',
+     message: 'getaddrinfo ENOTFOUND cdn.discordaasdfpp.com cdn.discordaasdfpp.com:443' } }
+{ filename: 'C:\\Users\\*scrubbed*\\Desktop\\AHelp Bot\\events-broken.js',
+  path: [ 'data', 'achievement help events', 'footer', 'icon_url' ],
+  url: 'https://cdn.discordapp.com/attachments/297aasf388220231057419/400471386101121024/imaasdfge.jpg',
+  error: { name: 'HTTPError', message: 'Response code 403 (Forbidden)' } }
+]0;~/Desktop/AHelp Bot
+
+[32m*scrubbed* [33m~/Desktop/AHelp Bot[0m
+
+$ exit
+exit
+
+Script done on Wed, Sep 19, 2018  9:32:33 PM
