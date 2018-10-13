@@ -127,7 +127,7 @@ exports.data = {
   },
     "AoD: 7-10 Man": {
     "title": "AoD: 7-10 Man",
-    "description":"AoD: 7-10 Man: For those interested in a non-toxic and friendly environment for ‘Small’ team AoD, with team sizes varying from 7 to 10.  We accept all experience levels from Learners to Experts (and Teachers :heart:).  Offering both *FFAS* and *FFAK* teams, running throughout the day.",
+    "description":"AoD: 7-10 Man: For those interested in a non-toxic and friendly environment for ‘Small’ team AoD, with team sizes varying from 7 to 10.  We accept all experience levels from Learners to Experts and Teachers.  Offering both *FFAS* and *FFAK* teams, running throughout the day.",
     "thumbnail": {
       "url": "https://cdn.discordapp.com/icons/315710189762248705/72f7d35d73426c2490bd41342d312d04.webp"
     },
@@ -409,7 +409,7 @@ exports.data = {
   },
   "Leech BA RS3": {
     "title": "Leech BA RS3",
-    "description":"Leech BA provides any kind of service related to Barbarian Assault; typically focusing on comp req, trim req and BXP (as well as niche things like hats for cosmetics, insignias, etc). Most of our ranks have been around BA pretty much since the release of the BA rework so we've had a direct hand in coming up with BA meta strats pretty much from 2014 through to present day - we're also responsible for nearly all the BA records since then. We're competitive when it comes to BXP and prices; we average ~1.4m agility bxp/hr; ~1.9m mining and ~3.5m firemaking and we make sure that our BXP prices reflect the current price of silverhawk feathers so that we're a slightly cheaper alternative\n\nThere's no learning required at all for customers as we talk people through the entire way through; it's not a problem if you've never played BA before.",
+    "description":"Leech BA provides any kind of service related to Barbarian Assault; typically focusing on the Completionist/Trimmed Completionist requirements and BXP, as well as niche things like hats for cosmetics, insignias, etc. Most of our ranks have been around BA pretty much since the release of the BA rework so we've had a direct hand in coming up with BA meta strats pretty much from 2014 through to present day. We're also responsible for nearly all the BA records since then. We're competitive when it comes to BXP and prices; we average ~1.4m agility bxp/hr; ~1.9m mining and ~3.5m firemaking and we make sure that our BXP prices reflect the current price of silverhawk feathers so that we're a slightly cheaper alternative.\n\nThere's no learning required at all for customers as we talk people through the entire way through; it's not a problem if you've never played BA before.",
     "thumbnail": {
       "url": "https://cdn.discordapp.com/icons/296560431416213504/d6d8a90aa0d6de917731f467bb43efad.webp"
     },
@@ -425,6 +425,10 @@ exports.data = {
       {
         "name": "Invite Link:",
         "value": "https://discord.gg/kA88AbP"
+      },
+      {
+        "name": "Price Calculator:",
+        "value": "http://leechba.ml/calculator"
       },
       {
         "name": "Contact:",
@@ -652,9 +656,9 @@ exports.data = {
       }
       ]
   },
-  "Rockman Discord":{
+  "Rockman Discord": {
     "title": "Rockman Discord | Vorago & Hard Mode Vorago Teams",
-    "description":"Hello, we are a friendly community Vorago discord. Here you can find teams, get help and learn Vorago. Intended for all levels of experience at the boss. Both learners and experienced PvMers alike are welcome to join and find teams. This discord is a convenient place to find both normal & hard mode teams.",
+    "description":"Rockman Discord is a friendly community Vorago discord. Here you can find teams, get help, and learn Vorago. Our discord is intended for all levels of experience at the boss. Both learners and experienced PvMers alike are welcome to join and find teams. This discord is a convenient place to find both normal & hard mode teams.",
     "thumbnail": {
       "url": "https://cdn.discordapp.com/icons/493893847772954644/e406d4bf5e7f232a1cc47aa25f7b4a28.webp"
     },
