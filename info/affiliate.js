@@ -407,6 +407,31 @@ exports.data = {
       }
       ]
   },
+  "Leech BA RS3": {
+    "title": "Leech BA RS3",
+    "description":"Leech BA provides any kind of service related to Barbarian Assault; typically focusing on comp req, trim req and BXP (as well as niche things like hats for cosmetics, insignias, etc). Most of our ranks have been around BA pretty much since the release of the BA rework so we've had a direct hand in coming up with BA meta strats pretty much from 2014 through to present day - we're also responsible for nearly all the BA records since then. We're competitive when it comes to BXP and prices; we average ~1.4m agility bxp/hr; ~1.9m mining and ~3.5m firemaking and we make sure that our BXP prices reflect the current price of silverhawk feathers so that we're a slightly cheaper alternative\n\nThere's no learning required at all for customers as we talk people through the entire way through; it's not a problem if you've never played BA before.",
+    "thumbnail": {
+      "url": "https://cdn.discordapp.com/icons/296560431416213504/d6d8a90aa0d6de917731f467bb43efad.webp"
+    },
+    "footer": {
+      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "text": "Achievement Help | Connecting our Helpful Communities!"
+    },
+    "author": {
+      "name": "Affiliate Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+          "fields": [
+      {
+        "name": "Invite Link:",
+        "value": "https://discord.gg/kA88AbP"
+      },
+      {
+        "name": "Contact:",
+        "value": "<@462372522403561482>"
+      }
+      ]
+  },
     "LSKK247": {
     "title": "LSKK247",
     "description":"A Friends chat and Discord server that helps people learn Kalphite King and offers a non-toxic and friendly environment that currently has over 9,000 cumulative Drygore drops in the last 4 years.\n\nFC: LSKK247\n\n**Invite Link:** https://discord.gg/rwadSsJ",
