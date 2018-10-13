@@ -1,7 +1,7 @@
 exports.data = {
     "deathmatch": {  
       "title":"Preparation:",
-      "description":"All are welcome! We will be teaching how to do the event on Discord if any learners are apprehensive about coming.\n\nYou may prepare for the event by viewing the written guide [here](http://runescape.wikia.com/wiki/Deathmatch).",
+      "description":"All are welcome! We will be teaching how to do the event on Discord if any learners are apprehensive about coming.\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Deathmatch).",
       "footer":{  
          "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
          "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
@@ -16,11 +16,11 @@ exports.data = {
       "fields":[  
          {  
             "name":"​Where:",
-            "value":"[Deathmatch](http://runescape.wikia.com/wiki/Deathmatch) lobby, World 68 in <@113770763261181961>'s friends chat. The [minigame](https://runescape.wikia.com/wiki/Minigames)'s lobby is an instance shard world, which can be accessed through a hatch at the north-eastern border of [Edgeville](https://runescape.wikia.com/wiki/Edgeville)."
+            "value":"[Deathmatch](https://runescape.wiki/w/Deathmatch) lobby, World 68 in <@113770763261181961>'s friends chat. The [minigame](https://runescape.wiki/w/Minigames)'s lobby is an instance shard world, which can be accessed through a hatch at the north-eastern border of [Edgeville](https://runescape.wiki/w/Edgeville)."
          },
          {  
             "name":"​Why:",
-            "value":"To assist everyone who needs to unlock the [music](https://runescape.wikia.com/wiki/Music) track, who want to unlock Deathmatch [rewards](https://runescape.wikia.com/wiki/Deathmatch#Rewards) such as the [small rune pouch](https://runescape.wikia.com/wiki/Small_rune_pouch) or [Revenant drop enhancer](https://runescape.wikia.com/wiki/Revenant_drop_enhancer), or for those who just want to have fun."
+            "value":"To assist everyone who needs to unlock the [music](https://runescape.wiki/w/Music) track, who want to unlock Deathmatch [rewards](https://runescape.wiki/w/Deathmatch#Rewards) such as the [small rune pouch](https://runescape.wiki/w/Small_rune_pouch) or [Revenant drop enhancer](https://runescape.wiki/w/Revenant_drop_enhancer), or for those who just want to have fun."
          },
          {  
             "name":"​Who:",
@@ -28,13 +28,13 @@ exports.data = {
          },
          {  
             "name":"​What is Needed:",
-           "value":"This is a safe minigame.  Any gear is permitted. [Tier](https://runescape.wikia.com/wiki/Equipment_tier) 70+ armor and weapon are recommended, though not required. The better the tier, the better chance you have of surviving."
+           "value":"This is a safe minigame.  Any gear is permitted. [Tier](https://runescape.wiki/w/Equipment_tier) 70+ armor and weapon are recommended, though not required. The better the tier, the better chance you have of surviving."
          }
       ]
    },
     "capping": {  
       "title":"Preparation:",
-      "description":"Guests are welcome, but only clan members will be able to use the [Skill plots](http://runescape.wikia.com/wiki/Clan_Citadel#Skill_plots).",
+      "description":"Guests are welcome, but only clan members will be able to use the [Skill plots](https://runescape.wiki/w/Clan_Citadel#Skill_plots).",
       "footer":{  
          "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
          "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
@@ -49,11 +49,11 @@ exports.data = {
       "fields":[  
          {  
             "name":"Where:",
-            "value":"The Alright clan's [citadel](http://runescape.wikia.com/wiki/Clan_Citadel)."
+            "value":"The Alright clan's [citadel](https://runescape.wiki/w/Clan_Citadel)."
          },
          {  
             "name":"Why:",
-            "value":"To maintain and upgrade our Citadel. Also, to keep our [Skilling bonus](http://runescape.wikia.com/wiki/Clan_avatar#Skilling_bonus). Mostly for the Skilling bonus."
+            "value":"To maintain and upgrade our Citadel. Also, to keep our [Skilling bonus](https://runescape.wiki/w/Clan_avatar#Skilling_bonus). Mostly for the Skilling bonus."
          },
          {  
             "name":"Who:",
@@ -104,7 +104,7 @@ exports.data = {
    },
     "clue scrolls": {  
       "title":"What Are Clue Scrolls?:",
-      "description": "A Clue scroll sends the player on [Treasure Trails](https://runescape.wikia.com/wiki/Treasure_Trails), a series of clues leading towards a buried treasure. Clue scrolls can be randomly dropped by various [monsters](https://runescape.wikia.com/wiki/Bestiary), found while pickpocketing [H.A.M. Members](https://runescape.wikia.com/wiki/H.A.M._Member) and [Elven clan workers](https://runescape.wikia.com/wiki/Elven_clan_worker), looted from a [Treasure chest decoration](https://runescape.wikia.com/wiki/Treasure_chest_decoration), [Managing Miscellania](https://runescape.wikia.com/wiki/Managing_Miscellania) [rewards](https://runescape.wikia.com/wiki/Managing_Miscellania#Rewards) coffer, or purchased with [Thaler](https://runescape.wikia.com/wiki/Thaler) or [Treasure Trail points](https://runescape.wikia.com/wiki/Treasure_Trails_Reward_Shop#Treasure_Trail_Points). Players will only be able to open one [sealed clue scroll](https://runescape.wikia.com/wiki/Sealed_clue_scroll) if they do not already have one of the same type active in their inventory or bank.\n\nSealed clue scrolls can also be obtained from Fishing, Mining, Woodcutting, or Divination. The tier of clue scroll players receive is weighted based on their level of the activity, with elites appearing at level 60 training methods and higher. There is always a 1% chance for a sealed elite clue to upgrade to a [sealed master clue](https://runescape.wikia.com/wiki/Sealed_clue_scroll_(master). This can, however, be boosted to a 2% chance if the invention perk [Prosper](https://runescape.wikia.com/wiki/Prosper) is in use.",
+      "description": "A Clue scroll sends the player on [Treasure Trails](https://runescape.wiki/w/Treasure_Trails), a series of clues leading towards a buried treasure. Clue scrolls can be randomly dropped by various [monsters](https://runescape.wiki/w/Bestiary), found while pickpocketing [H.A.M. Members](https://runescape.wiki/w/H.A.M._Member) and [Elven clan workers](https://runescape.wiki/w/Elven_clan_worker), looted from a [Treasure chest decoration](https://runescape.wiki/w/Treasure_chest_decoration), [Managing Miscellania](https://runescape.wiki/w/Managing_Miscellania) [rewards](https://runescape.wiki/w/Managing_Miscellania#Rewards) coffer, or purchased with [Thaler](https://runescape.wiki/w/Thaler) or [Treasure Trail points](https://runescape.wiki/w/Treasure_Trails_Reward_Shop#Treasure_Trail_Points). Players will only be able to open one [sealed clue scroll](https://runescape.wiki/w/Sealed_clue_scroll) if they do not already have one of the same type active in their inventory or bank.\n\nSealed clue scrolls can also be obtained from Fishing, Mining, Woodcutting, or Divination. The tier of clue scroll players receive is weighted based on their level of the activity, with elites appearing at level 60 training methods and higher. There is always a 1% chance for a sealed elite clue to upgrade to a [sealed master clue](https://runescape.wiki/w/Sealed_clue_scroll_(master). This can, however, be boosted to a 2% chance if the invention perk [Prosper](https://runescape.wiki/w/Prosper) is in use.",
       "thumbnail":{  
          "url":"https://vignette.wikia.nocookie.net/runescape2/images/d/df/Clue_scroll_detail.png/revision/latest?cb=20180113013546"
       },
@@ -119,11 +119,11 @@ exports.data = {
       },
       {
         "name": "​",
-        "value": "• You **MUST** post **EVERY** screenshot of your [Gnomish Firelighters](https://runescape.wikia.com/wiki/Gnomish_firelighters) reward into the <#496121629387128832> channel.\n- This must contain your RSN; the in-game clock, chat timestamp, **or** computer clock; the reward screen; and the chat message showing which clue number it is for you.\n- You cannot use the reward and the rerolled reward for points from this on the same clue.\n\n• You **MUST** post **EVERY** screenshot of your highest and lowest rewards, that you believe have a chance in winning overall, into the <#496121651885506570> or <#496121671372111872> channels, respectively. Check the pinned messages for the current winners.\n- This must contain your RSN; the in-game clock, chat timestamp, **or** computer clock; the reward screen; and the chat message showing which clue number it is for you.\n- If you are close to the current winners, still post them in case the current lead is disqualified or wins a higher tier prize."
+        "value": "• You **MUST** post **EVERY** screenshot of your [Gnomish Firelighters](https://runescape.wiki/w/Gnomish_firelighters) reward into the <#496121629387128832> channel.\n- This must contain your RSN; the in-game clock, chat timestamp, **or** computer clock; the reward screen; and the chat message showing which clue number it is for you.\n- You cannot use the reward and the rerolled reward for points from this on the same clue.\n\n• You **MUST** post **EVERY** screenshot of your highest and lowest rewards, that you believe have a chance in winning overall, into the <#496121651885506570> or <#496121671372111872> channels, respectively. Check the pinned messages for the current winners.\n- This must contain your RSN; the in-game clock, chat timestamp, **or** computer clock; the reward screen; and the chat message showing which clue number it is for you.\n- If you are close to the current winners, still post them in case the current lead is disqualified or wins a higher tier prize."
       },
       {
         "name": "​",
-        "value": "• Good people are giving up their hard-earned GP for the prize money, so please respect the integrity of the competition and keep it fun for everyone.\n\n• Saved up sealed clue scrolls are fine to use because of the effort in completing them and inability to reasonably track them.\n\n• You can not win in more than one category. If you do, the lower prize will be rerolled in fairness.\n\n• [Giant Oyster](https://runescape.wikia.com/wiki/Giant_Oyster) rewards do not count.\n\n• You can post any screenshot you want into the <#494329749016150036> channel to keep up the fun."
+        "value": "• Good people are giving up their hard-earned GP for the prize money, so please respect the integrity of the competition and keep it fun for everyone.\n\n• Saved up sealed clue scrolls are fine to use because of the effort in completing them and inability to reasonably track them.\n\n• You can not win in more than one category. If you do, the lower prize will be rerolled in fairness.\n\n• [Giant Oyster](https://runescape.wiki/w/Giant_Oyster) rewards do not count.\n\n• You can post any screenshot you want into the <#494329749016150036> channel to keep up the fun."
       },
       {
         "name": "How Points are Decided:",
@@ -139,23 +139,23 @@ exports.data = {
       "fields": [
       {
         "name": "Easy Clues:",
-        "value": "To solve [easy clue scrolls](https://runescape.wikia.com/wiki/Clue_scroll_(easy), players may encounter:\n\t• [Simple clues](https://runescape.wikia.com/wiki/Treasure_Trails/Guide/Simple_clues)\n\t• [Emote clues](https://runescape.wikia.com/wiki/Treasure_Trails/Guide/Emotes)\n\t• [Maps](https://runescape.wikia.com/wiki/Treasure_Trails/Guide/Maps)\n\t• [Cryptics](https://runescape.wikia.com/wiki/Treasure_Trails/Guide/Cryptics)\n\n You may view an ideal easy clue preset [here](https://gyazo.com/36b8f7ec0e04abc9168cba30c14e102a).\n- The [Large rune pouch](https://runescape.wikia.com/wiki/Large_rune_pouch) has air, law, and nature runes and the [Mystical staff](https://runescape.wikia.com/wiki/Mystical_staff) is for unlimited earth, water, and fire runes."
+        "value": "To solve [easy clue scrolls](https://runescape.wiki/w/Clue_scroll_(easy), players may encounter:\n\t• [Simple clues](https://runescape.wiki/w/Treasure_Trails/Guide/Simple_clues)\n\t• [Emote clues](https://runescape.wiki/w/Treasure_Trails/Guide/Emotes)\n\t• [Maps](https://runescape.wiki/w/Treasure_Trails/Guide/Maps)\n\t• [Cryptics](https://runescape.wiki/w/Treasure_Trails/Guide/Cryptics)\n\n You may view an ideal easy clue preset [here](https://gyazo.com/36b8f7ec0e04abc9168cba30c14e102a).\n- The [Large rune pouch](https://runescape.wiki/w/Large_rune_pouch) has air, law, and nature runes and the [Mystical staff](https://runescape.wiki/w/Mystical_staff) is for unlimited earth, water, and fire runes."
       },
       {
         "name": "Medium Clues:",
-        "value": "To solve [medium clue scrolls](https://runescape.wikia.com/wiki/Clue_scroll_(medium), players may encounter:\n\t• [Anagrams](https://runescape.wikia.com/wiki/Treasure_Trails/Guide/Anagrams)\n\t• [Challenge scrolls](https://runescape.wikia.com/wiki/Treasure_Trails/Guide/Challenge_scrolls)\n\t• Cryptics\n\t• Emote clues\n\t• [Coordinates](https://runescape.wikia.com/wiki/Treasure_Trails/Guide/Coordinates)\n\t• Maps\n\t• Simple clues"
+        "value": "To solve [medium clue scrolls](https://runescape.wiki/w/Clue_scroll_(medium), players may encounter:\n\t• [Anagrams](https://runescape.wiki/w/Treasure_Trails/Guide/Anagrams)\n\t• [Challenge scrolls](https://runescape.wiki/w/Treasure_Trails/Guide/Challenge_scrolls)\n\t• Cryptics\n\t• Emote clues\n\t• [Coordinates](https://runescape.wiki/w/Treasure_Trails/Guide/Coordinates)\n\t• Maps\n\t• Simple clues"
       },
       {
         "name": "Hard Clues:",
-        "value": "To solve [hard clue scrolls](https://runescape.wikia.com/wiki/Clue_scroll_(hard), players may encounter:\n\t• Anagrams\n\t• Challenge scrolls\n\t• [Puzzle boxes](https://runescape.wikia.com/wiki/Treasure_Trails/Guide/Puzzle_boxes)\n\t• Coordinates\n\t• Cryptics\n\t• Emote clues\n\t• Maps\n\n You may view an ideal hard clue preset [here](https://cdn.discordapp.com/attachments/426541438369792012/492141057769865227/unknown.png)."
+        "value": "To solve [hard clue scrolls](https://runescape.wiki/w/Clue_scroll_(hard), players may encounter:\n\t• Anagrams\n\t• Challenge scrolls\n\t• [Puzzle boxes](https://runescape.wiki/w/Treasure_Trails/Guide/Puzzle_boxes)\n\t• Coordinates\n\t• Cryptics\n\t• Emote clues\n\t• Maps\n\n You may view an ideal hard clue preset [here](https://cdn.discordapp.com/attachments/426541438369792012/492141057769865227/unknown.png)."
       },
       {
         "name": "Elite Clues:",
-        "value": "To solve [elite clue scrolls](https://runescape.wikia.com/wiki/Clue_scroll_(elite), players may encounter:\n\t• [Compass](https://runescape.wikia.com/wiki/Treasure_Trails/Guide/Compass)\n\t• [Scans](https://runescape.wikia.com/wiki/Treasure_Trails/Guide/Scans)\n\t• Puzzle boxes\n\t• [Celtic knots](https://runescape.wikia.com/wiki/Treasure_Trails/Guide/Celtic_knots)\n\n You may view an ideal elite clue preset [here](https://cdn.discordapp.com/attachments/426541438369792012/492140832875610113/unknown.png)."
+        "value": "To solve [elite clue scrolls](https://runescape.wiki/w/Clue_scroll_(elite), players may encounter:\n\t• [Compass](https://runescape.wiki/w/Treasure_Trails/Guide/Compass)\n\t• [Scans](https://runescape.wiki/w/Treasure_Trails/Guide/Scans)\n\t• Puzzle boxes\n\t• [Celtic knots](https://runescape.wiki/w/Treasure_Trails/Guide/Celtic_knots)\n\n You may view an ideal elite clue preset [here](https://cdn.discordapp.com/attachments/426541438369792012/492140832875610113/unknown.png)."
       },
       {
         "name": "Master Clues:",
-        "value": "To solve [master clue scrolls](https://runescape.wikia.com/wiki/Clue_scroll_(master), players may encounter:\n\t• Scans\n\t• Emotes\n\t• Anagrams\n\t• Puzzle boxes\n\t• [Tower puzzles](https://runescape.wikia.com/wiki/Treasure_Trails/Guide/Towers)\n\t• [Lockboxes](https://runescape.wikia.com/wiki/Treasure_Trails/Guide/Lockboxes)\n\t• [Skill riddle challenges](https://runescape.wikia.com/wiki/Treasure_Trails/Guide/Skill_riddle_challenges)\n\n You may view an ideal master clue preset [here](https://cdn.discordapp.com/attachments/426541438369792012/492140745789276160/unknown.png)."
+        "value": "To solve [master clue scrolls](https://runescape.wiki/w/Clue_scroll_(master), players may encounter:\n\t• Scans\n\t• Emotes\n\t• Anagrams\n\t• Puzzle boxes\n\t• [Tower puzzles](https://runescape.wiki/w/Treasure_Trails/Guide/Towers)\n\t• [Lockboxes](https://runescape.wiki/w/Treasure_Trails/Guide/Lockboxes)\n\t• [Skill riddle challenges](https://runescape.wiki/w/Treasure_Trails/Guide/Skill_riddle_challenges)\n\n You may view an ideal master clue preset [here](https://cdn.discordapp.com/attachments/426541438369792012/492140745789276160/unknown.png)."
       },
       {
         "name": "Guide:",
@@ -169,7 +169,7 @@ exports.data = {
     }, 
     "general graardor": {  
       "title":"Preparation:",
-      "description":"All are welcome! We will be teaching how to do the boss on Discord if any learners are apprehensive about coming.\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wikia.com/wiki/General_Graardor/Strategies) or a video guide [here](https://www.youtube.com/watch?v=CDur0jqFF_8).",
+      "description":"All are welcome! We will be teaching how to do the boss on Discord if any learners are apprehensive about coming.\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/General_Graardor/Strategies) or a video guide [here](https://www.youtube.com/watch?v=CDur0jqFF_8).",
       "footer":{  
          "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
          "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
@@ -184,11 +184,11 @@ exports.data = {
       "fields":[  
          {  
             "name":"​Where:",
-            "value":"In the northwest section of the [God Wars Dungeon](http://runescape.wikia.com/wiki/God_Wars_Dungeon), World 68 in <@113770763261181961>'s friends chat."
+            "value":"In the northwest section of the [God Wars Dungeon](https://runescape.wiki/w/God_Wars_Dungeon), World 68 in <@113770763261181961>'s friends chat."
          },
          {  
             "name":"​Why:",
-            "value":"To assist everyone who needs [General Graardor](https://runescape.wikia.com/wiki/General_Graardor) for:\n\n• Their [the Reaper](https://runescape.wikia.com/wiki/The_Reaper) title for the [Completionist Cape](https://runescape.wikia.com/wiki/Completionist_cape) [Reaper Crew requirement](https://runescape.wikia.com/wiki/Reaper_Crew)\n• Their [Final Boss](https://runescape.wikia.com/wiki/Final_Boss) title\n• Their [Insane Final Boss](https://runescape.wikia.com/wiki/Insane_Final_Boss) title\n• Completing their [Five-Star General](https://runescape.wikia.com/wiki/Five-Star_General) achievement\n(Obtained a collection of unique drops from General Graardor.)\n• Completing their [General Mayhem](https://runescape.wikia.com/wiki/General_Mayhem) achievement\n(Defeat General Graardor 5, 10, 25, 50, 75, and 100 times, depending on the tier.)"
+            "value":"To assist everyone who needs [General Graardor](https://runescape.wiki/w/General_Graardor) for:\n\n• Their [the Reaper](https://runescape.wiki/w/The_Reaper) title for the [Completionist Cape](https://runescape.wiki/w/Completionist_cape) [Reaper Crew requirement](https://runescape.wiki/w/Reaper_Crew)\n• Their [Final Boss](https://runescape.wiki/w/Final_Boss) title\n• Their [Insane Final Boss](https://runescape.wiki/w/Insane_Final_Boss) title\n• Completing their [Five-Star General](https://runescape.wiki/w/Five-Star_General) achievement\n(Obtained a collection of unique drops from General Graardor.)\n• Completing their [General Mayhem](https://runescape.wiki/w/General_Mayhem) achievement\n(Defeat General Graardor 5, 10, 25, 50, 75, and 100 times, depending on the tier.)"
          },
          {  
             "name":"​Who:",
@@ -196,17 +196,17 @@ exports.data = {
          },
          {  
             "name":"​What is Needed:",
-            "value":"Any gear is permitted. [Tier](https://runescape.wikia.com/wiki/Equipment_tier) 70+ armor and weapon are recommended and appreciated, though not required. The better the tier, the better chance you have of surviving and the faster the kills."
+            "value":"Any gear is permitted. [Tier](https://runescape.wiki/w/Equipment_tier) 70+ armor and weapon are recommended and appreciated, though not required. The better the tier, the better chance you have of surviving and the faster the kills."
          },
          {  
             "name":"​How Drops Work:",
-            "value":"Drops are dispersed via [lootshare](http://runescape.wikia.com/wiki/LootShare) to whoever is in the friend's chat. All drops are kept by their recipients."
+            "value":"Drops are dispersed via [lootshare](https://runescape.wiki/w/LootShare) to whoever is in the friend's chat. All drops are kept by their recipients."
          }
       ]
    },
     "gregorovic": {  
       "title":"Preparation:",
-      "description":"All are welcome! We will be teaching how to do the boss on Discord if any learners are apprehensive about coming.\n\nYou may prepare for the event by viewing the written guide [here](http://runescape.wikia.com/wiki/Gregorovic/Strategies) or a video guide [here](https://www.youtube.com/watch?v=-XN3pn12H3s).",
+      "description":"All are welcome! We will be teaching how to do the boss on Discord if any learners are apprehensive about coming.\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Gregorovic/Strategies) or a video guide [here](https://www.youtube.com/watch?v=-XN3pn12H3s).",
       "footer":{  
          "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
          "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
@@ -221,11 +221,11 @@ exports.data = {
       "fields":[  
          {  
             "name":"​Where:",
-            "value":"The northeast section of the [Heart of Gielinor](http://runescape.wikia.com/wiki/Heart_of_Gielinor), World 68 in <@113770763261181961>'s friends chat."
+            "value":"The northeast section of the [Heart of Gielinor](https://runescape.wiki/w/Heart_of_Gielinor), World 68 in <@113770763261181961>'s friends chat."
          },
          {  
             "name":"​Why:",
-            "value":"To assist everyone who needs [Gregorovic](http://runescape.wikia.com/wiki/Gregorovic) for:\n\n• Their [the Reaper](https://runescape.wikia.com/wiki/The_Reaper) title for the [Completionist Cape](https://runescape.wikia.com/wiki/Completionist_cape) [Reaper Crew requirement](https://runescape.wikia.com/wiki/Reaper_Crew)\n• Their [Final Boss](https://runescape.wikia.com/wiki/Final_Boss) title\n• Their [Insane Final Boss](https://runescape.wikia.com/wiki/Insane_Final_Boss) title\n• Completing their [Game Over](https://runescape.wikia.com/wiki/Game_Over) achievement\n(Obtained a collection of unique drops from Gregorovic.)\n• Completing their [Gregorgeous](https://runescape.wikia.com/wiki/Gregorgeous) achievement\n(Defeat Gregorovic 5, 10, 25, 50, 75, and 100 times, depending on the tier.)"
+            "value":"To assist everyone who needs [Gregorovic](https://runescape.wiki/w/Gregorovic) for:\n\n• Their [the Reaper](https://runescape.wiki/w/The_Reaper) title for the [Completionist Cape](https://runescape.wiki/w/Completionist_cape) [Reaper Crew requirement](https://runescape.wiki/w/Reaper_Crew)\n• Their [Final Boss](https://runescape.wiki/w/Final_Boss) title\n• Their [Insane Final Boss](https://runescape.wiki/w/Insane_Final_Boss) title\n• Completing their [Game Over](https://runescape.wiki/w/Game_Over) achievement\n(Obtained a collection of unique drops from Gregorovic.)\n• Completing their [Gregorgeous](https://runescape.wiki/w/Gregorgeous) achievement\n(Defeat Gregorovic 5, 10, 25, 50, 75, and 100 times, depending on the tier.)"
          },
          {  
             "name":"​Who:",
@@ -233,17 +233,17 @@ exports.data = {
          },
          {  
             "name":"​What is Needed:",
-            "value":"• Any gear is permitted. [Tier](https://runescape.wikia.com/wiki/Equipment_tier) 70+ armor and weapon are recommended and appreciated, though not required. The better the tier, the better chance you have of surviving and the faster the kills.\n• A [prayer](http://runescape.wikia.com/wiki/Prayer) level of 80 or higher is required to fight Gregorovic.\n• The [Venomblood](http://runescape.wikia.com/wiki/Venomblood) perk or [Antipoison potions](http://runescape.wikia.com/wiki/Antipoison) are recommended."
+            "value":"• Any gear is permitted. [Tier](https://runescape.wiki/w/Equipment_tier) 70+ armor and weapon are recommended and appreciated, though not required. The better the tier, the better chance you have of surviving and the faster the kills.\n• A [prayer](https://runescape.wiki/w/Prayer) level of 80 or higher is required to fight Gregorovic.\n• The [Venomblood](https://runescape.wiki/w/Venomblood) perk or [Antipoison potions](https://runescape.wiki/w/Antipoison) are recommended."
          },
          {  
             "name":"​How Drops Work:",
-            "value":"Drops are dispersed via [lootshare](http://runescape.wikia.com/wiki/LootShare) to whoever is in the friend's chat. All drops are kept by their recipients."
+            "value":"Drops are dispersed via [lootshare](https://runescape.wiki/w/LootShare) to whoever is in the friend's chat. All drops are kept by their recipients."
          }
       ]
    },
     "helwyr": {  
       "title":"Preparation:",
-      "description":"All are welcome! We will be teaching how to do the boss on Discord if any learners are apprehensive about coming.\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wikia.com/wiki/Helwyr/Strategies) or a video guide [here](https://www.youtube.com/watch?v=5jt0odJqXns).",
+      "description":"All are welcome! We will be teaching how to do the boss on Discord if any learners are apprehensive about coming.\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Helwyr/Strategies) or a video guide [here](https://www.youtube.com/watch?v=5jt0odJqXns).",
       "footer":{  
          "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
          "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
@@ -258,11 +258,11 @@ exports.data = {
       "fields":[  
          {  
             "name":"​Where:",
-            "value":"The southeast section of the [Heart of Gielinor](http://runescape.wikia.com/wiki/Heart_of_Gielinor), World 68 in <@113770763261181961>'s friends chat."
+            "value":"The southeast section of the [Heart of Gielinor](https://runescape.wiki/w/Heart_of_Gielinor), World 68 in <@113770763261181961>'s friends chat."
          },
          {  
             "name":"​Why:",
-            "value":"To assist everyone who needs [Helwyr](https://runescape.wikia.com/wiki/Helwyr) for:\n\n• Their [the Reaper](https://runescape.wikia.com/wiki/The_Reaper) title for the [Completionist Cape](https://runescape.wikia.com/wiki/Completionist_cape) [Reaper Crew requirement](https://runescape.wikia.com/wiki/Reaper_Crew)\n• Their [Final Boss](https://runescape.wikia.com/wiki/Final_Boss) title\n• Their [Insane Final Boss](https://runescape.wikia.com/wiki/Insane_Final_Boss) title\n• Completing their [Once the hunter, now the hunted](https://runescape.wikia.com/wiki/Once_the_hunter,_now_the_hunted) achievement\n(Obtained a collection of unique drops from the Helwyr.)\n• Completing their [This Helwyr in](https://runescape.wikia.com/wiki/This_Helwyr_in) achievement\n(Defeat Helwyr 5, 10, 25, 50, 75, and 100 times, depending on the tier.)"
+            "value":"To assist everyone who needs [Helwyr](https://runescape.wiki/w/Helwyr) for:\n\n• Their [the Reaper](https://runescape.wiki/w/The_Reaper) title for the [Completionist Cape](https://runescape.wiki/w/Completionist_cape) [Reaper Crew requirement](https://runescape.wiki/w/Reaper_Crew)\n• Their [Final Boss](https://runescape.wiki/w/Final_Boss) title\n• Their [Insane Final Boss](https://runescape.wiki/w/Insane_Final_Boss) title\n• Completing their [Once the hunter, now the hunted](https://runescape.wiki/w/Once_the_hunter,_now_the_hunted) achievement\n(Obtained a collection of unique drops from the Helwyr.)\n• Completing their [This Helwyr in](https://runescape.wiki/w/This_Helwyr_in) achievement\n(Defeat Helwyr 5, 10, 25, 50, 75, and 100 times, depending on the tier.)"
          },
          {  
             "name":"​Who:",
@@ -270,11 +270,11 @@ exports.data = {
          },
          {  
             "name":"​What is Needed:",
-            "value":"• Any gear is permitted. [Tier](https://runescape.wikia.com/wiki/Equipment_tier) 70+ armor and weapon are recommended and appreciated, though not required. The better the tier, the better chance you have of surviving and the faster the kills.\n• Level 80 [Magic](http://runescape.wikia.com/wiki/Magic) is required to fight him."
+            "value":"• Any gear is permitted. [Tier](https://runescape.wiki/w/Equipment_tier) 70+ armor and weapon are recommended and appreciated, though not required. The better the tier, the better chance you have of surviving and the faster the kills.\n• Level 80 [Magic](https://runescape.wiki/w/Magic) is required to fight him."
          },
          {  
             "name":"​How Drops Work:",
-            "value":"Drops are dispersed via [lootshare](http://runescape.wikia.com/wiki/LootShare) to whoever is in the friend's chat. All drops are kept by their recipients."
+            "value":"Drops are dispersed via [lootshare](https://runescape.wiki/w/LootShare) to whoever is in the friend's chat. All drops are kept by their recipients."
          }
       ]
    },
@@ -295,7 +295,7 @@ exports.data = {
       "fields":[  
          {  
             "name":"Where:",
-            "value":"World 68, across all of [Gielinor](https://runescape.wikia.com/wiki/Gielinor)."
+            "value":"World 68, across all of [Gielinor](https://runescape.wiki/w/Gielinor)."
          },
          {  
             "name":"Why:",
@@ -307,13 +307,13 @@ exports.data = {
          },
          {  
             "name":"What is Needed:",
-            "value":"Nothing! All hiding spots will be in places that are not locked by [quest](https://runescape.wikia.com/wiki/Quests) or [skill](https://runescape.wikia.com/wiki/Skills) requirements."
+            "value":"Nothing! All hiding spots will be in places that are not locked by [quest](https://runescape.wiki/w/Quests) or [skill](https://runescape.wiki/w/Skills) requirements."
          }
       ]
    },
     "mega duck": {  
       "title":"Preparation:",
-      "description":"All are welcome! We will be teaching how to do the event on Discord if any learners are apprehensive about coming.\n\nYou may prepare for the event by viewing the written guide [here](http://runescape.wikia.com/wiki/Mega_Duck).",
+      "description":"All are welcome! We will be teaching how to do the event on Discord if any learners are apprehensive about coming.\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Mega_Duck).",
       "footer":{  
          "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
          "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
@@ -328,11 +328,11 @@ exports.data = {
       "fields":[  
          {  
             "name":"​Where:",
-            "value":"[Falador Park](http://runescape.wikia.com/wiki/Falador_Park), south of the [Falador](https://runescape.wikia.com/wiki/Falador) [Lodestone](https://runescape.wikia.com/wiki/Lodestone_Network), World 68 in <@113770763261181961>'s friends chat."
+            "value":"[Falador Park](https://runescape.wiki/w/Falador_Park), south of the [Falador](https://runescape.wiki/w/Falador) [Lodestone](https://runescape.wiki/w/Lodestone_Network), World 68 in <@113770763261181961>'s friends chat."
          },
          {  
             "name":"​Why:",
-            "value":"To assist everyone who needs the [Mega Ducklings](http://runescape.wikia.com/wiki/Mega_ducklings) for the [Insane Final Boss](https://runescape.wikia.com/wiki/Insane_Final_Boss) title, or for those who just want to have fun."
+            "value":"To assist everyone who needs the [Mega Ducklings](https://runescape.wiki/w/Mega_ducklings) for the [Insane Final Boss](https://runescape.wiki/w/Insane_Final_Boss) title, or for those who just want to have fun."
          },
          {  
             "name":"​Who:",
@@ -340,17 +340,17 @@ exports.data = {
          },
          {  
             "name":"​What is Needed:",
-            "value":"• [Breadcrumbs](http://runescape.wikia.com/wiki/Breadcrumbs) for feeding the [drake](https://runescape.wikia.com/wiki/Drake)\n• A teleport to [Mobilising Armies](http://runescape.wikia.com/wiki/Mobilising_Armies)"
+            "value":"• [Breadcrumbs](https://runescape.wiki/w/Breadcrumbs) for feeding the [drake](https://runescape.wiki/w/Drake)\n• A teleport to [Mobilising Armies](https://runescape.wiki/w/Mobilising_Armies)"
          },
          {  
             "name":"Pet Chance:",
-            "value":"Luring Mega Duck to [Mrs. Duck](http://runescape.wikia.com/wiki/Mrs_Duck) in Mobilising Armies gives a 1 in 20 chance to receive the [Mega Ducklings](http://runescape.wikia.com/wiki/Mega_ducklings) pet."
+            "value":"Luring Mega Duck to [Mrs. Duck](https://runescape.wiki/w/Mrs_Duck) in Mobilising Armies gives a 1 in 20 chance to receive the [Mega Ducklings](https://runescape.wiki/w/Mega_ducklings) pet."
          }
       ]
    },
     "nex": {  
       "title":"Preparation:",
-      "description":"All are welcome! We will be teaching how to do the boss on Discord if any learners are apprehensive about coming.\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wikia.com/wiki/Nex/Strategies) or a video guide [here](https://www.youtube.com/watch?v=U7q-M0ecODA).",
+      "description":"All are welcome! We will be teaching how to do the boss on Discord if any learners are apprehensive about coming.\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Nex/Strategies) or a video guide [here](https://www.youtube.com/watch?v=U7q-M0ecODA).",
       "footer":{  
          "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
          "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
@@ -365,15 +365,15 @@ exports.data = {
       "fields":[  
          {  
             "name":"​Where:",
-            "value":"Nex Bank, within the [Ancient Prison](http://runescape.wikia.com/wiki/God_Wars_Dungeon#Ancient_Prison) in the [God Wars Dungeon](http://runescape.wikia.com/wiki/God_Wars_Dungeon), World 68 in <@113770763261181961>'s friends chat."
+            "value":"Nex Bank, within the [Ancient Prison](https://runescape.wiki/w/God_Wars_Dungeon#Ancient_Prison) in the [God Wars Dungeon](https://runescape.wiki/w/God_Wars_Dungeon), World 68 in <@113770763261181961>'s friends chat."
          },
          {  
             "name":"​Why:",
-            "value":"To assist everyone who needs [Nex](https://runescape.wikia.com/wiki/Nex) for:\n\n• Their [the Reaper](https://runescape.wikia.com/wiki/The_Reaper) title for the [Completionist Cape](https://runescape.wikia.com/wiki/Completionist_cape) [Reaper Crew requirement](https://runescape.wikia.com/wiki/Reaper_Crew)\n• Their [Final Boss](https://runescape.wikia.com/wiki/Final_Boss) title\n• Their [Insane Final Boss](https://runescape.wikia.com/wiki/Insane_Final_Boss) title"
+            "value":"To assist everyone who needs [Nex](https://runescape.wiki/w/Nex) for:\n\n• Their [the Reaper](https://runescape.wiki/w/The_Reaper) title for the [Completionist Cape](https://runescape.wiki/w/Completionist_cape) [Reaper Crew requirement](https://runescape.wiki/w/Reaper_Crew)\n• Their [Final Boss](https://runescape.wiki/w/Final_Boss) title\n• Their [Insane Final Boss](https://runescape.wiki/w/Insane_Final_Boss) title"
          },
          {  
             "name":"​​",
-            "value":"• Completing their [Matricide](https://runescape.wikia.com/wiki/Matricide) achievement\n(Defeat Nex while accompanied by each of the nihil followers.)\n• Completing their [Next To No Power](https://runescape.wikia.com/wiki/Next_To_No_Power) achievement\n(Defeat Nex without the use of prayers by anyone in the group.)\n• Completing their [Prison Break (feat)](https://runescape.wikia.com/wiki/Prison_Break_(feat) achievement\n(Obtained a collection of unique drops from Nex.)\n• Completing their [Brass Nex](https://runescape.wikia.com/wiki/Brass_Nex) achievement\n(Defeat Nex 5, 10, 25, 50, 75, and 100 times, depending on the tier.)"
+            "value":"• Completing their [Matricide](https://runescape.wiki/w/Matricide) achievement\n(Defeat Nex while accompanied by each of the nihil followers.)\n• Completing their [Next To No Power](https://runescape.wiki/w/Next_To_No_Power) achievement\n(Defeat Nex without the use of prayers by anyone in the group.)\n• Completing their [Prison Break (feat)](https://runescape.wiki/w/Prison_Break_(feat) achievement\n(Obtained a collection of unique drops from Nex.)\n• Completing their [Brass Nex](https://runescape.wiki/w/Brass_Nex) achievement\n(Defeat Nex 5, 10, 25, 50, 75, and 100 times, depending on the tier.)"
          },
          {  
             "name":"​Who:",
@@ -381,17 +381,17 @@ exports.data = {
          },
          {  
             "name":"​What is Needed:",
-            "value":"• Any gear is permitted. [Tier](https://runescape.wikia.com/wiki/Equipment_tier) 70+ armor and weapon are recommended and appreciated, though not required. The better the tier, the better chance you have of surviving and the faster the kills.  Range or mage are highly encouraged.\n• A charge [Frozen key](http://runescape.wikia.com/wiki/Frozen_key)\n• Either 40 Zarosian kills or a set of [Ancient ceremonial robes](runescape.wikia.com/wiki/Ancient_ceremonial_robes)."
+            "value":"• Any gear is permitted. [Tier](https://runescape.wiki/w/Equipment_tier) 70+ armor and weapon are recommended and appreciated, though not required. The better the tier, the better chance you have of surviving and the faster the kills.  Range or mage are highly encouraged.\n• A charge [Frozen key](https://runescape.wiki/w/Frozen_key)\n• Either 40 Zarosian kills or a set of [Ancient ceremonial robes](runescape.wikia.com/wiki/Ancient_ceremonial_robes)."
          },
          {  
             "name":"​How Drops Work:",
-            "value":"Drops are dispersed via [lootshare](http://runescape.wikia.com/wiki/LootShare) to whoever is in the friend's chat. All drops are kept by their recipients."
+            "value":"Drops are dispersed via [lootshare](https://runescape.wiki/w/LootShare) to whoever is in the friend's chat. All drops are kept by their recipients."
          }
       ]
    },
     "nex aod": {  
       "title":"Preparation:",
-      "description":"All are welcome! We will be teaching how to do the boss on Discord if any learners are apprehensive about coming.\n\nYou may prepare for the event by viewing the written guide [here](http://runescape.wikia.com/wiki/Nex:_Angel_of_Death/Strategies) or a video guide [here](https://www.youtube.com/watch?v=Yrh93pIPNzk).",
+      "description":"All are welcome! We will be teaching how to do the boss on Discord if any learners are apprehensive about coming.\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Nex:_Angel_of_Death/Strategies) or a video guide [here](https://www.youtube.com/watch?v=Yrh93pIPNzk).",
       "footer":{  
          "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
          "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
@@ -406,15 +406,15 @@ exports.data = {
       "fields":[  
          {  
             "name":"​Where:",
-            "value":"Nex Bank, within the [Ancient Prison](http://runescape.wikia.com/wiki/God_Wars_Dungeon#Ancient_Prison) in the [God Wars Dungeon](http://runescape.wikia.com/wiki/God_Wars_Dungeon), World 68 in <@113770763261181961>'s friends chat."
+            "value":"Nex Bank, within the [Ancient Prison](https://runescape.wiki/w/God_Wars_Dungeon#Ancient_Prison) in the [God Wars Dungeon](https://runescape.wiki/w/God_Wars_Dungeon), World 68 in <@113770763261181961>'s friends chat."
          },
          {  
             "name":"​Why:",
-            "value":"To assist everyone who needs [Nex: Angel of Death](http://runescape.wikia.com/wiki/Nex:_Angel_of_Death) for:\n\n• Their [the Reaper](https://runescape.wikia.com/wiki/The_Reaper) title for the [Completionist Cape](https://runescape.wikia.com/wiki/Completionist_cape) [Reaper Crew requirement](https://runescape.wikia.com/wiki/Reaper_Crew)\n• Their [Final Boss](https://runescape.wikia.com/wiki/Final_Boss) title\n• Their [Insane Final Boss](https://runescape.wikia.com/wiki/Insane_Final_Boss) title"
+            "value":"To assist everyone who needs [Nex: Angel of Death](https://runescape.wiki/w/Nex:_Angel_of_Death) for:\n\n• Their [the Reaper](https://runescape.wiki/w/The_Reaper) title for the [Completionist Cape](https://runescape.wiki/w/Completionist_cape) [Reaper Crew requirement](https://runescape.wiki/w/Reaper_Crew)\n• Their [Final Boss](https://runescape.wiki/w/Final_Boss) title\n• Their [Insane Final Boss](https://runescape.wiki/w/Insane_Final_Boss) title"
          },
          {  
             "name":"​​",
-            "value":"• Completing their [Library of Nex](https://runescape.wikia.com/wiki/Library_of_Nex) achievement\n(Find and read '[The Promised Gift](https://runescape.wikia.com/wiki/The_Promised_Gift)' and '[The Praesul](https://runescape.wikia.com/wiki/The_Praesul)' books from the Nex: Angel of Death encounter.)\n• Completing their [Hungry Hungry Reavers](https://runescape.wikia.com/wiki/Hungry_Hungry_Reavers) achievement\n(Defeat Nex: Angel of Death without any of the group damaging any of the [blood reavers](https://runescape.wikia.com/wiki/Blood_reaver).)\n• Completing their [Fallen Angel](https://runescape.wikia.com/wiki/Fallen_Angel) achievement\n(Obtained a collection of unique drops from Nex: Angel of Death.)\n• Completing their [Nex Pls](https://runescape.wikia.com/wiki/Nex_Pls) achievement\n(Defeat Nex, the Angel of Death 5, 10, 25, 50, 75, and 100 times, depending on the tier.)"
+            "value":"• Completing their [Library of Nex](https://runescape.wiki/w/Library_of_Nex) achievement\n(Find and read '[The Promised Gift](https://runescape.wiki/w/The_Promised_Gift)' and '[The Praesul](https://runescape.wiki/w/The_Praesul)' books from the Nex: Angel of Death encounter.)\n• Completing their [Hungry Hungry Reavers](https://runescape.wiki/w/Hungry_Hungry_Reavers) achievement\n(Defeat Nex: Angel of Death without any of the group damaging any of the [blood reavers](https://runescape.wiki/w/Blood_reaver).)\n• Completing their [Fallen Angel](https://runescape.wiki/w/Fallen_Angel) achievement\n(Obtained a collection of unique drops from Nex: Angel of Death.)\n• Completing their [Nex Pls](https://runescape.wiki/w/Nex_Pls) achievement\n(Defeat Nex, the Angel of Death 5, 10, 25, 50, 75, and 100 times, depending on the tier.)"
          },
          {  
             "name":"​Who:",
@@ -422,17 +422,17 @@ exports.data = {
          },
          {  
             "name":"​What is Needed:",
-            "value":"• Any gear is permitted. [Tier](https://runescape.wikia.com/wiki/Equipment_tier) 80+ armor and weapon are recommended and appreciated, though not required. The better the tier, the better chance you have of surviving and the faster the kills.  Range or mage are highly encouraged.\n• A charge [Frozen key](http://runescape.wikia.com/wiki/Frozen_key)\n• Either 40 Zarosian kills or a set of [Ancient ceremonial robes](runescape.wikia.com/wiki/Ancient_ceremonial_robes)."
+            "value":"• Any gear is permitted. [Tier](https://runescape.wiki/w/Equipment_tier) 80+ armor and weapon are recommended and appreciated, though not required. The better the tier, the better chance you have of surviving and the faster the kills.  Range or mage are highly encouraged.\n• A charge [Frozen key](https://runescape.wiki/w/Frozen_key)\n• Either 40 Zarosian kills or a set of [Ancient ceremonial robes](runescape.wikia.com/wiki/Ancient_ceremonial_robes)."
          },
          {  
             "name":"​How Drops Work:",
-            "value":"Drops are dispersed via [coinshare](https://runescape.wikia.com/wiki/CoinShare) to whoever is in the friend's chat. All drops are kept by their recipients and high-value drops that have [item shards](https://runescape.wikia.com/wiki/Item_shards) will be split by the game to everyone who has coinshare enabled and is in the friend's chat. "
+            "value":"Drops are dispersed via [coinshare](https://runescape.wiki/w/CoinShare) to whoever is in the friend's chat. All drops are kept by their recipients and high-value drops that have [item shards](https://runescape.wiki/w/Item_shards) will be split by the game to everyone who has coinshare enabled and is in the friend's chat. "
          }
       ]
    },
     "penguins": {  
       "title":"Preparation:",
-      "description":"All are welcome!\n\nYou may prepare for the event by viewing the written guide [here](http://runescape.wikia.com/wiki/Penguin_Hide_and_Seek).",
+      "description":"All are welcome!\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Penguin_Hide_and_Seek).",
       "footer":{  
          "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
          "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
@@ -451,7 +451,7 @@ exports.data = {
          },
          {  
             "name":"​Why:",
-            "value":"For fun and rewards! [Penguin Points](https://runescape.wikia.com/wiki/Calculator:Other/Penguin_points) may be redeemed for XP or GP rewards by speaking with [Chuck](http://runescape.wikia.com/wiki/Chuck) or [Larry](http://runescape.wikia.com/wiki/Larry) at the [Ardougne Zoo](http://runescape.wikia.com/wiki/Ardougne_Zoo)."
+            "value":"For fun and rewards! [Penguin Points](https://runescape.wiki/w/Calculator:Other/Penguin_points) may be redeemed for XP or GP rewards by speaking with [Chuck](https://runescape.wiki/w/Chuck) or [Larry](https://runescape.wiki/w/Larry) at the [Ardougne Zoo](https://runescape.wiki/w/Ardougne_Zoo)."
          },
          {  
             "name":"​Who:",
@@ -459,7 +459,7 @@ exports.data = {
          },
          {  
             "name":"​What is Needed:",
-            "value":"• Speak with Larry, who will give you a [Spy notebook](http://runescape.wikia.com/wiki/Spy_notebook), which allows you to find the [disguised](https://runescape.wikia.com/wiki/Penguin_Hide_and_Seek#Disguises) penguins (you do not need to keep the book nor bring it with you).\n\n• Unlocking the [Lodestone Network](http://runescape.wikia.com/wiki/Lodestone_Network) for teleportation is extremely helpful. Some weeks, additional telportation methods such as a [Ring of Dueling](http://runescape.wikia.com/wiki/Ring_of_duelling), the [Ape Atoll](http://runescape.wikia.com/wiki/Ape_Atoll) teleportation spell, or an [Ectophial](http://runescape.wikia.com/wiki/Ectophial) are used.\n\n• Full details for the week's hunt will be posted in the friend chat prior to the event!"
+            "value":"• Speak with Larry, who will give you a [Spy notebook](https://runescape.wiki/w/Spy_notebook), which allows you to find the [disguised](https://runescape.wiki/w/Penguin_Hide_and_Seek#Disguises) penguins (you do not need to keep the book nor bring it with you).\n\n• Unlocking the [Lodestone Network](https://runescape.wiki/w/Lodestone_Network) for teleportation is extremely helpful. Some weeks, additional telportation methods such as a [Ring of Dueling](https://runescape.wiki/w/Ring_of_duelling), the [Ape Atoll](https://runescape.wiki/w/Ape_Atoll) teleportation spell, or an [Ectophial](https://runescape.wiki/w/Ectophial) are used.\n\n• Full details for the week's hunt will be posted in the friend chat prior to the event!"
          }
       ]
    },
@@ -480,7 +480,7 @@ exports.data = {
       "fields":[  
          {  
             "name":"Where:",
-            "value":"World 68 near the [Burthrope](http://runescape.wikia.com/wiki/Burthorpe) lodestone and bank."
+            "value":"World 68 near the [Burthrope](https://runescape.wiki/w/Burthorpe) lodestone and bank."
          },
          {  
             "name":"Why:",
@@ -492,13 +492,13 @@ exports.data = {
          },
          {  
             "name":"What is Needed:",
-            "value":"[Portable skilling stations](https://runescape.wikia.com/wiki/Portable_skilling_stations) of every variant, save the [useless sawmill](https://runescape.wikia.com/wiki/Portable_sawmill), will be provided. Just bring your own supplies; or come sit with us for awhile! The availble skills incllude: Firemaking, Crafting, Fletching, Smithing, Cooking, and Herblore!"
+            "value":"[Portable skilling stations](https://runescape.wiki/w/Portable_skilling_stations) of every variant, save the [useless sawmill](https://runescape.wiki/w/Portable_sawmill), will be provided. Just bring your own supplies; or come sit with us for awhile! The availble skills incllude: Firemaking, Crafting, Fletching, Smithing, Cooking, and Herblore!"
          }
       ]
    },
     "soul wars": {  
       "title":"Preparation:",
-      "description":"All are welcome! We will be teaching how to do the event on Discord if any learners are apprehensive about coming.\n\nYou may prepare for the event by viewing the written guide [here](http://runescape.wikia.com/wiki/Soul_Wars).",
+      "description":"All are welcome! We will be teaching how to do the event on Discord if any learners are apprehensive about coming.\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Soul_Wars).",
       "footer":{  
          "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
          "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
@@ -513,11 +513,11 @@ exports.data = {
       "fields":[  
          {  
             "name":"​Where:",
-            "value":"The [Soul Wars](https://runescape.wikia.com/wiki/Soul_Wars) lobby, World 68 in <@113770763261181961>'s friends chat. To get to Soul Wars, one must enter the [Soul Wars portal](https://runescape.wikia.com/wiki/Soul_Wars_portal) in [Edgeville](https://runescape.wikia.com/wiki/Edgeville)."
+            "value":"The [Soul Wars](https://runescape.wiki/w/Soul_Wars) lobby, World 68 in <@113770763261181961>'s friends chat. To get to Soul Wars, one must enter the [Soul Wars portal](https://runescape.wiki/w/Soul_Wars_portal) in [Edgeville](https://runescape.wiki/w/Edgeville)."
          },
          {  
             "name":"​Why:",
-            "value":"To assist everyone who needs to unlock the [music](https://runescape.wikia.com/wiki/Music), complete the [Magister Smagister](http://runescape.wikia.com/wiki/Magister_Smagister) achievement (obtain 100 [soul fragments](https://runescape.wikia.com/wiki/Soul_fragments) within [Soul Wars](https://runescape.wikia.com/wiki/Soul_Wars) and offer them all at once to the [Soul Obelisk](https://runescape.wikia.com/wiki/Soul_obelisk_(Soul_Wars)), and for those who just want to have fun."
+            "value":"To assist everyone who needs to unlock the [music](https://runescape.wiki/w/Music), complete the [Magister Smagister](https://runescape.wiki/w/Magister_Smagister) achievement (obtain 100 [soul fragments](https://runescape.wiki/w/Soul_fragments) within [Soul Wars](https://runescape.wiki/w/Soul_Wars) and offer them all at once to the [Soul Obelisk](https://runescape.wiki/w/Soul_obelisk_(Soul_Wars)), and for those who just want to have fun."
          },
          {  
             "name":"​Who:",
@@ -525,13 +525,13 @@ exports.data = {
          },
          {  
             "name":"​What is Needed:",
-           "value":"This is a safe [minigame](https://runescape.wikia.com/wiki/Minigames). Any gear is permitted, though you will not be able to wear a cape into the arena. [Tier](https://runescape.wikia.com/wiki/Equipment_tier) 70+ armor and weapon are recommended, though not required. The better the tier, the better chance you have of surviving."
+           "value":"This is a safe [minigame](https://runescape.wiki/w/Minigames). Any gear is permitted, though you will not be able to wear a cape into the arena. [Tier](https://runescape.wiki/w/Equipment_tier) 70+ armor and weapon are recommended, though not required. The better the tier, the better chance you have of surviving."
          }
       ]
    },
     "stealing creation": {  
       "title":"Preparation:",
-      "description":"All are welcome! We will be teaching how to do the event on Discord if any learners are apprehensive about coming.\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wikia.com/wiki/Stealing_Creation).",
+      "description":"All are welcome! We will be teaching how to do the event on Discord if any learners are apprehensive about coming.\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Stealing_Creation).",
       "footer":{  
          "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
          "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
@@ -546,11 +546,11 @@ exports.data = {
       "fields":[  
          {  
             "name":"Where:",
-            "value":"The [Stealing Creation](https://runescape.wikia.com/wiki/Stealing_Creation) lobby, World 68 in <@113770763261181961>'s friends chat.\n\nStealing Creation is located in the [Mystic's Camp](https://runescape.wikia.com/wiki/Mystic%27s_Camp), in the northern section of the [Gamers' Grotto](https://runescape.wikia.com/wiki/Gamers%27_Grotto), accessible via a cavern entrance situated north of [Falador](https://runescape.wikia.com/wiki/Falador) and south-west of [Edgeville](https://runescape.wikia.com/wiki/Edgeville). The [Games necklace](https://runescape.wikia.com/wiki/Games_necklace) has a teleport option to the grotto."
+            "value":"The [Stealing Creation](https://runescape.wiki/w/Stealing_Creation) lobby, World 68 in <@113770763261181961>'s friends chat.\n\nStealing Creation is located in the [Mystic's Camp](https://runescape.wiki/w/Mystic%27s_Camp), in the northern section of the [Gamers' Grotto](https://runescape.wiki/w/Gamers%27_Grotto), accessible via a cavern entrance situated north of [Falador](https://runescape.wiki/w/Falador) and south-west of [Edgeville](https://runescape.wiki/w/Edgeville). The [Games necklace](https://runescape.wiki/w/Games_necklace) has a teleport option to the grotto."
          },
          {  
             "name":"Why:",
-            "value":"To assist everyone who needs to unlock the [music](https://runescape.wikia.com/wiki/Music), complete the [Claymation](https://runescape.wikia.com/wiki/Claymation) achievement (fully exhaust all gathering plots in a Stealing Creation match), and for those who just want to have fun."
+            "value":"To assist everyone who needs to unlock the [music](https://runescape.wiki/w/Music), complete the [Claymation](https://runescape.wiki/w/Claymation) achievement (fully exhaust all gathering plots in a Stealing Creation match), and for those who just want to have fun."
          },
          {  
             "name":"Who:",
@@ -558,13 +558,13 @@ exports.data = {
          },
          {  
             "name":"What is Needed:",
-           "value":"This is a safe [minigame](https://runescape.wikia.com/wiki/Minigames). You cannot wear or bring any items into the arena. There is a bank deposit box right by the entrance for your convenience. Items on the [tool belt](https://runescape.wikia.com/wiki/Tool_belt) do not work in the game."
+           "value":"This is a safe [minigame](https://runescape.wiki/w/Minigames). You cannot wear or bring any items into the arena. There is a bank deposit box right by the entrance for your convenience. Items on the [tool belt](https://runescape.wiki/w/Tool_belt) do not work in the game."
          }
       ]
    },
     "trouble brewing": {  
       "title":"Preparation:",
-      "description":"All are welcome! We will be teaching how to do the event on Discord if any learners are apprehensive about coming.\n\nYou may prepare for the event by viewing the written guide [here](http://runescape.wikia.com/wiki/Trouble_Brewing).",
+      "description":"All are welcome! We will be teaching how to do the event on Discord if any learners are apprehensive about coming.\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Trouble_Brewing).",
       "footer":{  
          "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
          "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
@@ -579,11 +579,11 @@ exports.data = {
       "fields":[  
          {  
             "name":"​Where:",
-            "value":"The eastern side of [Mos Le'Harmless](http://runescape.wikia.com/wiki/Mos_Le%27Harmless), World 68 in <@113770763261181961>'s friends chat."
+            "value":"The eastern side of [Mos Le'Harmless](https://runescape.wiki/w/Mos_Le%27Harmless), World 68 in <@113770763261181961>'s friends chat."
          },
          {  
             "name":"​Why:",
-            "value":"To assist everyone who needs to unlock the [music](https://runescape.wikia.com/wiki/Music), or for those who just want to have fun."
+            "value":"To assist everyone who needs to unlock the [music](https://runescape.wiki/w/Music), or for those who just want to have fun."
          },
          {  
             "name":"​Who:",
@@ -591,13 +591,13 @@ exports.data = {
          },
          {  
             "name":"​What is Needed:",
-            "value":"• You must have completed the [Cabin Fever](http://runescape.wikia.com/wiki/Cabin_Fever) quest and have at least 40 [Cooking](http://runescape.wikia.com/wiki/Cooking) in order to participate in the [minigame](https://runescape.wikia.com/wiki/Minigames).\n• [Boots of Lightness](http://runescape.wikia.com/wiki/Boots_of_lightness), a [Monkeyspeak Amulet](http://runescape.wikia.com/wiki/Monkeyspeak_amulet), and a good [hatchet](http://runescape.wikia.com/wiki/Hatchet) are also recommended."
+            "value":"• You must have completed the [Cabin Fever](https://runescape.wiki/w/Cabin_Fever) quest and have at least 40 [Cooking](https://runescape.wiki/w/Cooking) in order to participate in the [minigame](https://runescape.wiki/w/Minigames).\n• [Boots of Lightness](https://runescape.wiki/w/Boots_of_lightness), a [Monkeyspeak Amulet](https://runescape.wiki/w/Monkeyspeak_amulet), and a good [hatchet](https://runescape.wiki/w/Hatchet) are also recommended."
          }
       ]
    },
     "twin furies": {  
       "title":"Preparation:",
-      "description":"All are welcome! We will be teaching how to do the boss on Discord if any learners are apprehensive about coming.\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wikia.com/wiki/Twin_Furies/Strategies) or a video guide [here](https://www.youtube.com/watch?v=CJv790KpJro).",
+      "description":"All are welcome! We will be teaching how to do the boss on Discord if any learners are apprehensive about coming.\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Twin_Furies/Strategies) or a video guide [here](https://www.youtube.com/watch?v=CJv790KpJro).",
       "footer":{  
          "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
          "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
@@ -612,11 +612,11 @@ exports.data = {
       "fields":[  
          {  
             "name":"Where:",
-            "value":"The northwest section of the [Heart of Gielinor](http://runescape.wikia.com/wiki/Heart_of_Gielinor), World 68 in <@113770763261181961>'s friends chat."
+            "value":"The northwest section of the [Heart of Gielinor](https://runescape.wiki/w/Heart_of_Gielinor), World 68 in <@113770763261181961>'s friends chat."
          },
          {  
             "name":"Why:",
-            "value":"To assist everyone who needs [Twin Furies](https://runescape.wikia.com/wiki/Twin_Furies) for:\n\n• Their [the Reaper](https://runescape.wikia.com/wiki/The_Reaper) title for the [Completionist Cape](https://runescape.wikia.com/wiki/Completionist_cape) [Reaper Crew requirement](https://runescape.wikia.com/wiki/Reaper_Crew)\n• Their [Final Boss](https://runescape.wikia.com/wiki/Final_Boss) title\n• Their [Insane Final Boss](https://runescape.wikia.com/wiki/Insane_Final_Boss) title\n• Completing their [Heart to Heart](https://runescape.wikia.com/wiki/Heart_to_Heart) achievement\n(Obtained a collection of unique drops from the Twin Furies.)\n• Completing their [Fast and Furious](https://runescape.wikia.com/wiki/Fast_and_Furious) achievement\n(Defeat [Avaryss](https://runescape.wikia.com/wiki/Avaryss,_the_Unceasing) and [Nymora](https://runescape.wikia.com/wiki/Nymora,_the_Vengeful) 5, 10, 25, 50, 75, and 100 times, depending on the tier.)"
+            "value":"To assist everyone who needs [Twin Furies](https://runescape.wiki/w/Twin_Furies) for:\n\n• Their [the Reaper](https://runescape.wiki/w/The_Reaper) title for the [Completionist Cape](https://runescape.wiki/w/Completionist_cape) [Reaper Crew requirement](https://runescape.wiki/w/Reaper_Crew)\n• Their [Final Boss](https://runescape.wiki/w/Final_Boss) title\n• Their [Insane Final Boss](https://runescape.wiki/w/Insane_Final_Boss) title\n• Completing their [Heart to Heart](https://runescape.wiki/w/Heart_to_Heart) achievement\n(Obtained a collection of unique drops from the Twin Furies.)\n• Completing their [Fast and Furious](https://runescape.wiki/w/Fast_and_Furious) achievement\n(Defeat [Avaryss](https://runescape.wiki/w/Avaryss,_the_Unceasing) and [Nymora](https://runescape.wiki/w/Nymora,_the_Vengeful) 5, 10, 25, 50, 75, and 100 times, depending on the tier.)"
          },
          {  
             "name":"Who:",
@@ -624,11 +624,11 @@ exports.data = {
          },
          {  
             "name":"What is Needed:",
-            "value":"• Any gear is permitted. [Tier](https://runescape.wikia.com/wiki/Equipment_tier) 70+ armor and weapon are recommended and appreciated, though not required. The better the tier, the better chance you have of surviving and the faster the kills.\n• A [range](http://runescape.wikia.com/wiki/Ranged) level of 80 or higher is required to fight the Twin Furies."
+            "value":"• Any gear is permitted. [Tier](https://runescape.wiki/w/Equipment_tier) 70+ armor and weapon are recommended and appreciated, though not required. The better the tier, the better chance you have of surviving and the faster the kills.\n• A [range](https://runescape.wiki/w/Ranged) level of 80 or higher is required to fight the Twin Furies."
          },
          {  
             "name":"How Drops Work:",
-            "value":"Drops are dispersed via [lootshare](http://runescape.wikia.com/wiki/LootShare) to whoever is in the friend's chat. All drops are kept by their recipients."
+            "value":"Drops are dispersed via [lootshare](https://runescape.wiki/w/LootShare) to whoever is in the friend's chat. All drops are kept by their recipients."
          }
       ]
    },
@@ -671,7 +671,7 @@ exports.data = {
    },
     "vindicta": {  
       "title":"Preparation:",
-      "description":"All are welcome! We will be teaching how to do the boss on Discord if any learners are apprehensive about coming.\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wikia.com/wiki/Vindicta/Strategies) or a video guide [here](https://www.youtube.com/watch?v=sI3Br9-cD6c).",
+      "description":"All are welcome! We will be teaching how to do the boss on Discord if any learners are apprehensive about coming.\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Vindicta/Strategies) or a video guide [here](https://www.youtube.com/watch?v=sI3Br9-cD6c).",
       "footer":{  
          "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
          "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
@@ -686,11 +686,11 @@ exports.data = {
       "fields":[  
          {  
             "name":"Where:",
-            "value":"The southwest section of the [Heart of Gielinor](http://runescape.wikia.com/wiki/Heart_of_Gielinor), World 68 in <@113770763261181961>'s friends chat."
+            "value":"The southwest section of the [Heart of Gielinor](https://runescape.wiki/w/Heart_of_Gielinor), World 68 in <@113770763261181961>'s friends chat."
          },
          {  
             "name":"Why:",
-            "value":"To assist everyone who needs [Vindicta](https://runescape.wikia.com/wiki/Vindicta) for:\n\n• Their [the Reaper](https://runescape.wikia.com/wiki/The_Reaper) title for the [Completionist Cape](https://runescape.wikia.com/wiki/Completionist_cape) [Reaper Crew requirement](https://runescape.wikia.com/wiki/Reaper_Crew)\n• Their [Final Boss](https://runescape.wikia.com/wiki/Final_Boss) title\n• Their [Insane Final Boss](https://runescape.wikia.com/wiki/Insane_Final_Boss) title\n• Completing their [Revenge Is Sweet](https://runescape.wikia.com/wiki/Revenge_Is_Sweet) achievement\n(Obtained a collection of unique drops from Vindicta/[Gorvek](https://runescape.wikia.com/wiki/Gorvek).)\n• Completing their [Vindictive and Vexatious](https://runescape.wikia.com/wiki/Vindictive_and_Vexatious) achievement\n(Defeat Vindicta and Gorvek 5, 10, 25, 50, 75, and 100 times, depending on the tier.)"
+            "value":"To assist everyone who needs [Vindicta](https://runescape.wiki/w/Vindicta) for:\n\n• Their [the Reaper](https://runescape.wiki/w/The_Reaper) title for the [Completionist Cape](https://runescape.wiki/w/Completionist_cape) [Reaper Crew requirement](https://runescape.wiki/w/Reaper_Crew)\n• Their [Final Boss](https://runescape.wiki/w/Final_Boss) title\n• Their [Insane Final Boss](https://runescape.wiki/w/Insane_Final_Boss) title\n• Completing their [Revenge Is Sweet](https://runescape.wiki/w/Revenge_Is_Sweet) achievement\n(Obtained a collection of unique drops from Vindicta/[Gorvek](https://runescape.wiki/w/Gorvek).)\n• Completing their [Vindictive and Vexatious](https://runescape.wiki/w/Vindictive_and_Vexatious) achievement\n(Defeat Vindicta and Gorvek 5, 10, 25, 50, 75, and 100 times, depending on the tier.)"
          },
          {  
             "name":"Who:",
@@ -698,17 +698,17 @@ exports.data = {
          },
          {  
             "name":"What is Needed:",
-            "value":"• Any gear is permitted. [Tier](https://runescape.wikia.com/wiki/Equipment_tier) 70+ armor and weapon are recommended and appreciated, though not required. The better the tier, the better chance you have of surviving and the faster the kills.\n• Level 80 [Attack](http://runescape.wikia.com/wiki/Attack) is required to fight her."
+            "value":"• Any gear is permitted. [Tier](https://runescape.wiki/w/Equipment_tier) 70+ armor and weapon are recommended and appreciated, though not required. The better the tier, the better chance you have of surviving and the faster the kills.\n• Level 80 [Attack](https://runescape.wiki/w/Attack) is required to fight her."
          },
          {  
             "name":"How Drops Work:",
-            "value":"Drops are dispersed via [lootshare](http://runescape.wikia.com/wiki/LootShare) to whoever is in the friend's chat. All drops are kept by their recipients."
+            "value":"Drops are dispersed via [lootshare](https://runescape.wiki/w/LootShare) to whoever is in the friend's chat. All drops are kept by their recipients."
          }
       ]
    },
     "vorago": {  
       "title":"Preparation:",
-      "description":"All are welcome! We will be teaching how to do the boss on the discord if any learners are apprehensive about coming.\n\nYou may prepare for the event by viewing the written guide [here](http://runescape.wikia.com/wiki/Vorago/Strategies) or a video guide [here](https://www.youtube.com/watch?v=VWsNhghbzpk&t=1s).",
+      "description":"All are welcome! We will be teaching how to do the boss on the discord if any learners are apprehensive about coming.\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Vorago/Strategies) or a video guide [here](https://www.youtube.com/watch?v=VWsNhghbzpk&t=1s).",
       "footer":{  
          "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
          "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
@@ -723,15 +723,15 @@ exports.data = {
       "fields":[  
          {  
             "name":"​Where:",
-            "value":"[Vorago](https://runescape.wikia.com/wiki/Vorago)'s [Borehole](https://runescape.wikia.com/wiki/Borehole), North of the [Falador](https://runescape.wikia.com/wiki/Falador) [Lodestone](https://runescape.wikia.com/wiki/Lodestone_Network), World 68 in <@113770763261181961>'s friends chat."
+            "value":"[Vorago](https://runescape.wiki/w/Vorago)'s [Borehole](https://runescape.wiki/w/Borehole), North of the [Falador](https://runescape.wiki/w/Falador) [Lodestone](https://runescape.wiki/w/Lodestone_Network), World 68 in <@113770763261181961>'s friends chat."
          },
          {  
             "name":"​Why:",
-            "value":"To assist everyone who needs Vorago for:\n\n• Their [the Reaper](https://runescape.wikia.com/wiki/The_Reaper) title for the [Completionist Cape](https://runescape.wikia.com/wiki/Completionist_cape) [Reaper Crew requirement](https://runescape.wikia.com/wiki/Reaper_Crew)\n• Their [Final Boss](https://runescape.wikia.com/wiki/Final_Boss) title\n• Their [Insane Final Boss](https://runescape.wikia.com/wiki/Insane_Final_Boss) title\n• Killcount to work towards the [Vitalis Pet](https://runescape.wikia.com/wiki/Vitalis_(pet) via the [Ancient summoning stone](https://runescape.wikia.com/wiki/Ancient_summoning_stone)\n• A chance of loot from Vorago's [drop table](https://runescape.wikia.com/wiki/Vorago#Drops)"
+            "value":"To assist everyone who needs Vorago for:\n\n• Their [the Reaper](https://runescape.wiki/w/The_Reaper) title for the [Completionist Cape](https://runescape.wiki/w/Completionist_cape) [Reaper Crew requirement](https://runescape.wiki/w/Reaper_Crew)\n• Their [Final Boss](https://runescape.wiki/w/Final_Boss) title\n• Their [Insane Final Boss](https://runescape.wiki/w/Insane_Final_Boss) title\n• Killcount to work towards the [Vitalis Pet](https://runescape.wiki/w/Vitalis_(pet) via the [Ancient summoning stone](https://runescape.wiki/w/Ancient_summoning_stone)\n• A chance of loot from Vorago's [drop table](https://runescape.wiki/w/Vorago#Drops)"
          },
          {  
             "name":"​​",
-            "value":"• Completing their [Who's Your Daddy?](https://runescape.wikia.com/wiki/Who%27s_Your_Daddy%3F) achievement\n(Defeat Vorago whilst holding your [pet rock](https://runescape.wikia.com/wiki/Pet_rock) for the whole kill.)\n• Completing their [Classic Rock](https://runescape.wikia.com/wiki/Classic_Rock) achievement\n(Defeat Vorago without using any [defensive abilities](https://runescape.wikia.com/wiki/Abilities#Defence).)\n• Completing their [Hard as a Rock](https://runescape.wikia.com/wiki/Hard_as_a_rock) achievement\n(Obtained a collection of unique drops from the Vorago.)\n• Completing their [Finish Him!](https://runescape.wikia.com/wiki/Finish_Him!) achievement\n(Personally defeat Vorago with the [Maul of Omens](https://runescape.wikia.com/wiki/Maul_of_omens).)\n• Completing their [Come and Have Vorago](https://runescape.wikia.com/wiki/Come_and_Have_Vorago_VI) achievement\n(Defeat Vorago 5, 10, 25, 50, 75, and 100 times, depending on the tier.)"
+            "value":"• Completing their [Who's Your Daddy?](https://runescape.wiki/w/Who%27s_Your_Daddy%3F) achievement\n(Defeat Vorago whilst holding your [pet rock](https://runescape.wiki/w/Pet_rock) for the whole kill.)\n• Completing their [Classic Rock](https://runescape.wiki/w/Classic_Rock) achievement\n(Defeat Vorago without using any [defensive abilities](https://runescape.wiki/w/Abilities#Defence).)\n• Completing their [Hard as a Rock](https://runescape.wiki/w/Hard_as_a_rock) achievement\n(Obtained a collection of unique drops from the Vorago.)\n• Completing their [Finish Him!](https://runescape.wiki/w/Finish_Him!) achievement\n(Personally defeat Vorago with the [Maul of Omens](https://runescape.wiki/w/Maul_of_omens).)\n• Completing their [Come and Have Vorago](https://runescape.wiki/w/Come_and_Have_Vorago_VI) achievement\n(Defeat Vorago 5, 10, 25, 50, 75, and 100 times, depending on the tier.)"
          },
          {  
             "name":"​Who:",
@@ -739,11 +739,11 @@ exports.data = {
          },
          {  
             "name":"​What is Needed:",
-            "value":"Any gear is permitted. [Tier](https://runescape.wikia.com/wiki/Equipment_tier) 70+ armor and weapon are recommended and appreciated, though not required. The better the tier, the better chance you have of surviving and the faster the kills. The use of magic or range is highly recommended.\n\n• Players must have completed their [Challenging Chat](https://runescape.wikia.com/wiki/Challenging_Chat) achievement\n(Hear Vorago's introduction dialogue.)\n• Don't forget your pet rock if you need the Who's your daddy achievement!"
+            "value":"Any gear is permitted. [Tier](https://runescape.wiki/w/Equipment_tier) 70+ armor and weapon are recommended and appreciated, though not required. The better the tier, the better chance you have of surviving and the faster the kills. The use of magic or range is highly recommended.\n\n• Players must have completed their [Challenging Chat](https://runescape.wiki/w/Challenging_Chat) achievement\n(Hear Vorago's introduction dialogue.)\n• Don't forget your pet rock if you need the Who's your daddy achievement!"
          },
          {  
             "name":"​How Drops Work:",
-            "value":"Drops are dispersed at random via [coinshare](https://runescape.wikia.com/wiki/CoinShare) to whoever is in the friend's chat. All drops are kept by their recipients and high-value drops that have [item shards](https://runescape.wikia.com/wiki/Item_shards) will be split by the game to everyone who has coinshare enabled and is in the friend's chat. "
+            "value":"Drops are dispersed at random via [coinshare](https://runescape.wiki/w/CoinShare) to whoever is in the friend's chat. All drops are kept by their recipients and high-value drops that have [item shards](https://runescape.wiki/w/Item_shards) will be split by the game to everyone who has coinshare enabled and is in the friend's chat. "
          }
       ]
    }

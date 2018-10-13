@@ -25,8 +25,8 @@ exports.data = {
   },
   "1 - 58": {
     "title": "Dungeoneering Level 1-58",
-    "description": "To start training, you will want to do small or medium [Frozen](https://runescape.wikia.com/wiki/Dungeoneering_floors#Frozen_floors) floors (floors 1-11), followed by small or medium [Abandoned](https://runescape.wikia.com/wiki/Dungeoneering_floors#Abandoned_floors) floors (floors 12-17). These can be done solo or in a group. Prestige your progress every time you complete every floor available to you at your currnet level. When you reach level 35, you can begin doing [Furnished](https://runescape.wikia.com/wiki/Dungeoneering_floors#Furnished_floors) floors (floors 18-29). It is highly recommended to complete Furnished doing large floors with a team. \n\nNote: The official world to train dungeoneering is world 77. As Dungeoneering can be trained in every world, players who want to train solo or already have partners to train with should choose a world in which they have the best connection. \n\nFor Achievement Help members interested in finding partners or groups for Dungeoneering training, you can self-assign the role `Dungeoneering Team` in the channel <#465998663710146579>.",
-            "url": "https://runescape.wikia.com/wiki/Pay-to-play_Dungeoneering_training#Optimising_floors",
+    "description": "To start training, you will want to do small or medium [Frozen](https://runescape.wiki/w/Dungeoneering_floors#Frozen_floors) floors (floors 1-11), followed by small or medium [Abandoned](https://runescape.wiki/w/Dungeoneering_floors#Abandoned_floors) floors (floors 12-17). These can be done solo or in a group. Prestige your progress every time you complete every floor available to you at your currnet level. When you reach level 35, you can begin doing [Furnished](https://runescape.wiki/w/Dungeoneering_floors#Furnished_floors) floors (floors 18-29). It is highly recommended to complete Furnished doing large floors with a team. \n\nNote: The official world to train dungeoneering is world 77. As Dungeoneering can be trained in every world, players who want to train solo or already have partners to train with should choose a world in which they have the best connection. \n\nFor Achievement Help members interested in finding partners or groups for Dungeoneering training, you can self-assign the role `Dungeoneering Team` in the channel <#465998663710146579>.",
+            "url": "https://runescape.wiki/w/Pay-to-play_Dungeoneering_training#Optimising_floors",
         "color": 12269891,
             "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
@@ -42,8 +42,8 @@ exports.data = {
   },
   "58 - 70": {
     "title": "Dungeoneering Level 58-70",
-    "description": "At this stage you will want to be rushing all of your [Frozen](https://runescape.wikia.com/wiki/Dungeoneering_floors#Frozen_floors) and [Abandoned](https://runescape.wikia.com/wiki/Dungeoneering_floors#Abandoned_floors) floors on complexity level 1. For the [Furnished](https://runescape.wikia.com/wiki/Dungeoneering_floors#Furnished_floors) floors to optimise your experience you will want to do floors 18-24 small and then 25-29 large in a team. You will want to do your available [Abandoned 2](https://runescape.wikia.com/wiki/Dungeoneering_floors#Abandoned_2_floors) floors in a team as well set to large. Prestige once you've completed all floors you have available. Repeat this process until you have reached level 70 in Dungeoneering. \n\nNote: The official world to train dungeoneering is world 77. As Dungeoneering can be trained in every world, players who want to train solo or already have partners to train with should choose a world in which they have the best connection. \n\nFor Achievement Help members interested in finding partners or groups for Dungeoneering training, you can self-assign the role `Dungeoneering Team` in the channel <#465998663710146579>.",
-            "url": "https://runescape.wikia.com/wiki/Pay-to-play_Dungeoneering_training#Optimising_floors",
+    "description": "At this stage you will want to be rushing all of your [Frozen](https://runescape.wiki/w/Dungeoneering_floors#Frozen_floors) and [Abandoned](https://runescape.wiki/w/Dungeoneering_floors#Abandoned_floors) floors on complexity level 1. For the [Furnished](https://runescape.wiki/w/Dungeoneering_floors#Furnished_floors) floors to optimise your experience you will want to do floors 18-24 small and then 25-29 large in a team. You will want to do your available [Abandoned 2](https://runescape.wiki/w/Dungeoneering_floors#Abandoned_2_floors) floors in a team as well set to large. Prestige once you've completed all floors you have available. Repeat this process until you have reached level 70 in Dungeoneering. \n\nNote: The official world to train dungeoneering is world 77. As Dungeoneering can be trained in every world, players who want to train solo or already have partners to train with should choose a world in which they have the best connection. \n\nFor Achievement Help members interested in finding partners or groups for Dungeoneering training, you can self-assign the role `Dungeoneering Team` in the channel <#465998663710146579>.",
+            "url": "https://runescape.wiki/w/Pay-to-play_Dungeoneering_training#Optimising_floors",
         "color": 12269891,
             "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
@@ -59,8 +59,8 @@ exports.data = {
   },
   "70 - 94": {
     "title": "Dungeoneering Levels 70-94",
-    "description": "At level 70 Dungeoneering, you'll want to rush through all of the lower floors (1-29) on complexity 1. All [Abandoned 2]( https://runescape.wikia.com/wiki/Dungeoneering_floors#Abandoned_2_floors) and [Occult](https://runescape.wikia.com/wiki/Dungeoneering_floors#Occult_floors_.28m.29) floors should be done doing large floors with a group. Prestige after making sure you have completed all floors unlocked at your current Dungeoneering level.\n\nNote: The official world to train dungeoneering is world 77. As Dungeoneering can be trained in every world, players who want to train solo or already have partners to train with should choose a world in which they have the best connection. \n\nFor Achievement Help members interested in finding partners or groups for Dungeoneering training, you can self-assign the role `Dungeoneering Team` in the channel <#465998663710146579>.",
-    "url": "https://runescape.wikia.com/wiki/Pay-to-play_Dungeoneering_training#Optimising_floors",
+    "description": "At level 70 Dungeoneering, you'll want to rush through all of the lower floors (1-29) on complexity 1. All [Abandoned 2]( https://runescape.wiki/w/Dungeoneering_floors#Abandoned_2_floors) and [Occult](https://runescape.wiki/w/Dungeoneering_floors#Occult_floors_.28m.29) floors should be done doing large floors with a group. Prestige after making sure you have completed all floors unlocked at your current Dungeoneering level.\n\nNote: The official world to train dungeoneering is world 77. As Dungeoneering can be trained in every world, players who want to train solo or already have partners to train with should choose a world in which they have the best connection. \n\nFor Achievement Help members interested in finding partners or groups for Dungeoneering training, you can self-assign the role `Dungeoneering Team` in the channel <#465998663710146579>.",
+    "url": "https://runescape.wiki/w/Pay-to-play_Dungeoneering_training#Optimising_floors",
     "color": 12269891,
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
@@ -76,8 +76,8 @@ exports.data = {
   },
   "94 - 120 +": {
     "title": "Dungeoneering Levels 94-120+",
-    "url": "https://runescape.wikia.com/wiki/Pay-to-play_Dungeoneering_training#Optimising_floors",
-    "description": "From level 95 to 120+, you will want to rush all floors including [Abandoned 2](https://runescape.wikia.com/wiki/Dungeoneering_floors#Abandoned_2_floors) (floors 1-35). Complete [Occult](https://runescape.wikia.com/wiki/Dungeoneering_floors#Occult_floors_.28m.29) and [Warped]( https://runescape.wikia.com/wiki/Dungeoneering_floors#Warped_floors_.28m.29) floors in large complexity 6 with a team. (floors 36-60). Prestige your progress each time you complete all floors available to you, repeating until you have achieved your level or experience goal. \n\nNote: The official world to train Dungeoneering is world 77. As Dungeoneering can be trained in every world, players who want to train solo or already have partners to train with should choose a world in which they have the best connection. \n\nFor Achievement Help members interested in finding partners or groups for Dungeoneering training, you can self-assign the role `Dungeoneering Team` in the channel <#465998663710146579>.",
+    "url": "https://runescape.wiki/w/Pay-to-play_Dungeoneering_training#Optimising_floors",
+    "description": "From level 95 to 120+, you will want to rush all floors including [Abandoned 2](https://runescape.wiki/w/Dungeoneering_floors#Abandoned_2_floors) (floors 1-35). Complete [Occult](https://runescape.wiki/w/Dungeoneering_floors#Occult_floors_.28m.29) and [Warped]( https://runescape.wiki/w/Dungeoneering_floors#Warped_floors_.28m.29) floors in large complexity 6 with a team. (floors 36-60). Prestige your progress each time you complete all floors available to you, repeating until you have achieved your level or experience goal. \n\nNote: The official world to train Dungeoneering is world 77. As Dungeoneering can be trained in every world, players who want to train solo or already have partners to train with should choose a world in which they have the best connection. \n\nFor Achievement Help members interested in finding partners or groups for Dungeoneering training, you can self-assign the role `Dungeoneering Team` in the channel <#465998663710146579>.",
     "color": 12269891,
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
@@ -99,8 +99,8 @@ exports.data = {
   },
   "information": {
 "title": "Dungeoneering Information",
-    "description": "Upon first entering Daemonheim, you will only have access to minimal dungeon set ups, namely [Complexity](http://runescape.wikia.com/wiki/Complexity) 1 and floor 1. For low Dungeoneering levels, it is recommended to solo. \n\n• Talk to the [Dungeoneering Tutor](http://runescape.wikia.com/wiki/Dungeoneering_tutor) by Daemonheim's entrance, he will give you a [Ring of Kinship](http://runescape.wikia.com/wiki/Ring_of_kinship). \n\n• Form a party by right clicking your ring of kinship and selecting ``Open Party Interface`` and click ``Form Party``. \n\n• To start a dungeon after forming a party, click on the entrances that can be found on the left or right sides as soon as you enter the castle. \n\n• You will start on floor 1, complexity 1. You will be provided with some equipment. You may only bind one item at level 1 Dungeoneering. It is recommended to bind the highest level 2-handed weapon available.",
-    "url": "https://runescape.wikia.com/wiki/Pay-to-play_Dungeoneering_training#Optimising_floors",
+    "description": "Upon first entering Daemonheim, you will only have access to minimal dungeon set ups, namely [Complexity](https://runescape.wiki/w/Complexity) 1 and floor 1. For low Dungeoneering levels, it is recommended to solo. \n\n• Talk to the [Dungeoneering Tutor](https://runescape.wiki/w/Dungeoneering_tutor) by Daemonheim's entrance, he will give you a [Ring of Kinship](https://runescape.wiki/w/Ring_of_kinship). \n\n• Form a party by right clicking your ring of kinship and selecting ``Open Party Interface`` and click ``Form Party``. \n\n• To start a dungeon after forming a party, click on the entrances that can be found on the left or right sides as soon as you enter the castle. \n\n• You will start on floor 1, complexity 1. You will be provided with some equipment. You may only bind one item at level 1 Dungeoneering. It is recommended to bind the highest level 2-handed weapon available.",
+    "url": "https://runescape.wiki/w/Pay-to-play_Dungeoneering_training#Optimising_floors",
     "color": 12269891,
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
@@ -120,7 +120,7 @@ exports.data = {
       },
       {
         "name": "Prestiging",
-        "value": " • Knowing when to reset [Prestige](https://runescape.wikia.com/wiki/Prestige) is key to getting greater amounts of Dungeoneering experience for completing higher-level floors. For example, you will get less experience from floor 1 than from floor 10; but once you have successfully raided floors 1-10 and you do not have the Dungeoneering level to access the next floor, you should reset your progress."
+        "value": " • Knowing when to reset [Prestige](https://runescape.wiki/w/Prestige) is key to getting greater amounts of Dungeoneering experience for completing higher-level floors. For example, you will get less experience from floor 1 than from floor 10; but once you have successfully raided floors 1-10 and you do not have the Dungeoneering level to access the next floor, you should reset your progress."
       },
       {
         "name": "General Tips",
@@ -147,11 +147,11 @@ exports.data = {
     "fields": [
       {
         "name": "Resource Dungeons",
-        "value": "It is also possible to get large amounts of experience (a total of 86,600 experience for members or 12,000 experience for non-members) for uncovering the [Resource dungeons](https://runescape.wikia.com/wiki/Resource_dungeon) spread throughout RuneScape. It is recommended to use the dungeon as soon as it's unlocked. For lower levels (1-20), it is guaranteed that you will level up 1-5 levels per visit to a dungeon. "
+        "value": "It is also possible to get large amounts of experience (a total of 86,600 experience for members or 12,000 experience for non-members) for uncovering the [Resource dungeons](https://runescape.wiki/w/Resource_dungeon) spread throughout RuneScape. It is recommended to use the dungeon as soon as it's unlocked. For lower levels (1-20), it is guaranteed that you will level up 1-5 levels per visit to a dungeon. "
       },
       {
         "name": "Elite Dungeons",
-        "value": "[Elite Dungeons](https://runescape.wikia.com/wiki/Elite_dungeons) are a set of dungeons that function similar to Raids. Currently, there are two available elite dungeons; [Temple of Aminishi](http://runescape.wikia.com/wiki/Temple_of_Aminishi) and [Dragonkin Laboratory](http://runescape.wikia.com/wiki/Dragonkin_Laboratory) with a third yet to be released. Rewards from these dungeons include Dungeoneering experience and tokens as well as a chance to receive loot that include weapons and armour upgrades that range from tier 82 to 92."
+        "value": "[Elite Dungeons](https://runescape.wiki/w/Elite_dungeons) are a set of dungeons that function similar to Raids. Currently, there are two available elite dungeons; [Temple of Aminishi](https://runescape.wiki/w/Temple_of_Aminishi) and [Dragonkin Laboratory](https://runescape.wiki/w/Dragonkin_Laboratory) with a third yet to be released. Rewards from these dungeons include Dungeoneering experience and tokens as well as a chance to receive loot that include weapons and armour upgrades that range from tier 82 to 92."
       },
       {
         "name": "​",
@@ -162,8 +162,8 @@ exports.data = {
   },
   "pet - gordie": {
     "title": "Dungeoneering Pet - Gordie",
-    "description": "Gordie is the skilling pet obtainable from Dungeoneering. He is unlocked by inspecting the [Gordie Pet](http://runescape.wikia.com/wiki/Gordie_pet).",
-    "url": "http://runescape.wikia.com/wiki/Gordie",
+    "description": "Gordie is the skilling pet obtainable from Dungeoneering. He is unlocked by inspecting the [Gordie Pet](https://runescape.wiki/w/Gordie_pet).",
+    "url": "https://runescape.wiki/w/Gordie",
     "color": 12269891,
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
@@ -197,7 +197,7 @@ exports.data = {
   },
   "quests": {
     "title": "Quests which Grant Dungeoneering Experience",
-    "url": "http://runescape.wikia.com/wiki/Quests/Experience_rewards#Dungeoneering",
+    "url": "https://runescape.wiki/w/Quests/Experience_rewards#Dungeoneering",
     "description": "Currently, a total of 106,000 experience may be gained specifically to Dungeoneering throughout all of the RuneScape Quests. These rewards are automatically given and there is no choice involved.",
         "color": 12269891,
     "footer": {
@@ -214,13 +214,13 @@ exports.data = {
     "fields": [
       {
         "name": "Complete List by RS Wiki",
-        "value": "The full list may be found [here](http://runescape.wikia.com/wiki/Quests/Experience_rewards#Dungeoneering)."
+        "value": "The full list may be found [here](https://runescape.wiki/w/Quests/Experience_rewards#Dungeoneering)."
       }
       ]
 },
   "distractions and diversions": {
 "title": "Distractions and Diversions",
-"url": "http://runescape.wikia.com/wiki/Distractions_and_Diversions",
+"url": "https://runescape.wiki/w/Distractions_and_Diversions",
 "description": "D&Ds are a subclassification of minigames. However, unlike minigames many D&Ds move around the world to various locations, have a limit on how often they can be played, and only occur at particular times of day.\n\nDistractions and Diversions aim to divert the original intentions of the player in order to provide an interesting distraction from their everyday routines. D&Ds come in many different shapes and sizes; covering Combat, Gathering, Artisan, and Support skills. There are a wide variety of different options available to suit the players choice.",
 "color": 12269891,
 "footer": {
@@ -237,24 +237,24 @@ exports.data = {
 "fields": [
 {
 "name": "▬▬ Shifting Tombs▬▬",
-"value": "[Shifting Tombs](https://runescape.wikia.com/wiki/Shifting_Tombs) is a skilling minigame that can be played solo or in a group of up to five players. Players may choose to gain experience in Dungeoneering by toggling the western statue of 'Het'. The minigame lasts for 5 minutes each run through and gives a max of 7,110 experience at level 90+. This translates to about 150k dungeoneering experience per hour." 
+"value": "[Shifting Tombs](https://runescape.wiki/w/Shifting_Tombs) is a skilling minigame that can be played solo or in a group of up to five players. Players may choose to gain experience in Dungeoneering by toggling the western statue of 'Het'. The minigame lasts for 5 minutes each run through and gives a max of 7,110 experience at level 90+. This translates to about 150k dungeoneering experience per hour." 
 },
 
 {
 "name": "▬▬ Sinkholes▬▬",
-"value": "[Sinkholes](https://runescape.wikia.com/wiki/Sinkholes) is a Distraction and Diversion that takes place once every 30 minutes passed every hour inside unique resource dungeons. \nThe activity can be started by talking to Talsar located in the Daemonheim camp. He will give the players information about himself and the location and time of the next sinkhole due to emerge with each one due every hour, however you can only play twice per day, resetting at 0:00 UTC. He offers the players the option to teleport to the expected sinkhole location five minutes before it spawns. \n\nA list of locations for the sinkholes can be found [here.](https://runescape.wikia.com/wiki/Sinkholes#Locations) \n\nIn the dungeon, there are three kinds of resources: raw materials, Combat Totems, and Exploration Totems. The objective is to collect as much resources as possible to receive the highest score which improves your experience reward from the [Treasure room](https://runescape.wikia.com/wiki/Sinkholes#Treasure_room) "
+"value": "[Sinkholes](https://runescape.wiki/w/Sinkholes) is a Distraction and Diversion that takes place once every 30 minutes passed every hour inside unique resource dungeons. \nThe activity can be started by talking to Talsar located in the Daemonheim camp. He will give the players information about himself and the location and time of the next sinkhole due to emerge with each one due every hour, however you can only play twice per day, resetting at 0:00 UTC. He offers the players the option to teleport to the expected sinkhole location five minutes before it spawns. \n\nA list of locations for the sinkholes can be found [here.](https://runescape.wiki/w/Sinkholes#Locations) \n\nIn the dungeon, there are three kinds of resources: raw materials, Combat Totems, and Exploration Totems. The objective is to collect as much resources as possible to receive the highest score which improves your experience reward from the [Treasure room](https://runescape.wiki/w/Sinkholes#Treasure_room) "
 },
 
 {
 "name": "​",
-"value": "[Gorajo Cards](https://runescape.wikia.com/wiki/Sinkholes#Cards) are randomly found within the dungeons under totems, while gathering resources or from locked chests. Cards have no use before the treasure room. You can only carry up to five cards, which will include duplicates. Cards can be destroyed but not dropped, and all duplicates of a card can be chosen for destruction at once. Players can have multiple cards on hand but only one can be activated at the end. Each player will have one turn to choose which card they will deploy, starting with 5th place and finishing with 1st place. The chosen card summons the corresponding creature to give out their special effects. The best strategy for using cards can be found [here.](https://runescape.wikia.com/wiki/Sinkholes#Cards_2) "
+"value": "[Gorajo Cards](https://runescape.wiki/w/Sinkholes#Cards) are randomly found within the dungeons under totems, while gathering resources or from locked chests. Cards have no use before the treasure room. You can only carry up to five cards, which will include duplicates. Cards can be destroyed but not dropped, and all duplicates of a card can be chosen for destruction at once. Players can have multiple cards on hand but only one can be activated at the end. Each player will have one turn to choose which card they will deploy, starting with 5th place and finishing with 1st place. The chosen card summons the corresponding creature to give out their special effects. The best strategy for using cards can be found [here.](https://runescape.wiki/w/Sinkholes#Cards_2) "
 }
 ]
 },
   "daily challenge": {
     "title": "Daily Challenge",
-    "description": "Completing a daily challenge in Dungeoneering will give experience, depending on the player's Dungeoneering level.\n\nThe experience reward for level 119 as a member, is 178,931 per day for completing the following challenge. \n\n• Complete a floor in Daemonheim at maximum complexity \n\nDaily challenges may be extended for 50 [Vis Wax]( https://runescape.wikia.com/wiki/Vis_wax) for double the reward \n\nA full chart of the experience per level can be found [here.](https://runescape.wikia.com/wiki/Challenge_System/Dungeoneering) ",
-    "url": "https://runescape.wikia.com/wiki/Challenge_System/Dungeoneering",
+    "description": "Completing a daily challenge in Dungeoneering will give experience, depending on the player's Dungeoneering level.\n\nThe experience reward for level 119 as a member, is 178,931 per day for completing the following challenge. \n\n• Complete a floor in Daemonheim at maximum complexity \n\nDaily challenges may be extended for 50 [Vis Wax]( https://runescape.wiki/w/Vis_wax) for double the reward \n\nA full chart of the experience per level can be found [here.](https://runescape.wiki/w/Challenge_System/Dungeoneering) ",
+    "url": "https://runescape.wiki/w/Challenge_System/Dungeoneering",
     "color": 12269891,
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
@@ -270,7 +270,7 @@ exports.data = {
   },
   "permanent boosts": {
     "title": "Permanent Boosts",
-    "url": "http://runescape.wikia.com/wiki/Bonus_experience_items",
+    "url": "https://runescape.wiki/w/Bonus_experience_items",
     "description": "A permanent skill boost is anything caused by an item that permanently raises a player's level in one or more skills. It allows the player to do things above their current level.",
         "color": 12269891,
     "footer": {
@@ -287,15 +287,15 @@ exports.data = {
     "fields": [
       {
         "name": "Dungeoneering Cape",
-        "value": "• The [Dungeoneering Cape's](http://runescape.wikia.com/wiki/Dungeoneering_cape) perk provides unlimited teleports to any available [Resource Dungeon](https://runescape.wikia.com/wiki/Resource_dungeon). A complete list can be found [here](http://runescape.wikia.com/wiki/Dungeoneering_cape#Perk)."
+        "value": "• The [Dungeoneering Cape's](https://runescape.wiki/w/Dungeoneering_cape) perk provides unlimited teleports to any available [Resource Dungeon](https://runescape.wiki/w/Resource_dungeon). A complete list can be found [here](https://runescape.wiki/w/Dungeoneering_cape#Perk)."
       },
       {
         "name": "Dungeoneering Master Cape",
-        "value": "• The [Dungeoneering Master Cape's](http://runescape.wikia.com/wiki/Dungeoneering_master_cape) perk also provides unlimited teleports to any available [Resource Dungeon](https://runescape.wikia.com/wiki/Resource_dungeon). The Dungeoneering master cape gains a new perk that gives a chance to choose the boss faced on a floor, increases the chance of lore drops inside Daemonheim and [elite dungeons](http://runescape.wikia.com/wiki/Elite_dungeons), and allows the cape to be worn inside Daemonheim."
+        "value": "• The [Dungeoneering Master Cape's](https://runescape.wiki/w/Dungeoneering_master_cape) perk also provides unlimited teleports to any available [Resource Dungeon](https://runescape.wiki/w/Resource_dungeon). The Dungeoneering master cape gains a new perk that gives a chance to choose the boss faced on a floor, increases the chance of lore drops inside Daemonheim and [elite dungeons](https://runescape.wiki/w/Elite_dungeons), and allows the cape to be worn inside Daemonheim."
       },      
       {
         "name": "Elite Dungeoneering Outfits",
-        "value": "• Elite Dungeoneering Outfits - [Frozen](http://runescape.wikia.com/wiki/Frozen_gorajan_trailblazer_outfit), [Abandoned](http://runescape.wikia.com/wiki/Abandoned_gorajan_trailblazer_outfit), [Furnished](http://runescape.wikia.com/wiki/Furnished_gorajan_trailblazer_outfit), and [Occult](http://runescape.wikia.com/wiki/Occult_gorajan_trailblazer_outfit)\n• +5% experience boost to all skills within Dungeoneering\n• +5% base experience for the floor (also increases tokens earned)\n• 10% chance of not using up a Dungeoneering lock melter\n• 3 additional daily Sinkhole teleports\n• 5% reduced depletion rate on skilling nodes\n• \"Ice walking boots\" passive effect that stops the player from slipping on ice within frozen floors"
+        "value": "• Elite Dungeoneering Outfits - [Frozen](https://runescape.wiki/w/Frozen_gorajan_trailblazer_outfit), [Abandoned](https://runescape.wiki/w/Abandoned_gorajan_trailblazer_outfit), [Furnished](https://runescape.wiki/w/Furnished_gorajan_trailblazer_outfit), and [Occult](https://runescape.wiki/w/Occult_gorajan_trailblazer_outfit)\n• +5% experience boost to all skills within Dungeoneering\n• +5% base experience for the floor (also increases tokens earned)\n• 10% chance of not using up a Dungeoneering lock melter\n• 3 additional daily Sinkhole teleports\n• 5% reduced depletion rate on skilling nodes\n• \"Ice walking boots\" passive effect that stops the player from slipping on ice within frozen floors"
       },
       {
         "name": "Warped Elite Dungeoneering Outfit",
@@ -303,13 +303,13 @@ exports.data = {
       },
       {
         "name": "Ring of Kinship ",
-        "value": "Members can customise their ring by purchasing class upgrades with Dungeoneering Tokens. There are 12 possible classes, and only one may be active at a time. However two classes can be activated if you have done at least the Easy Tasks of the Daemonheim set. In order to take advantage of the upgrades, players must wear the rings.\n\nIf a player dies outside of Daemonheim with the ring, the player can regain it from the Dungeoneering tutor for free. The ring will not lose its upgrade, and the tokens spent on upgrading the ring are not wasted. An upgraded ring of kinship does not have any boost in a F2P world. \n\nA full list of the ring effects and their percentage boost per tier can be found [here.](https://runescape.wikia.com/wiki/Ring_of_kinship)"
+        "value": "Members can customise their ring by purchasing class upgrades with Dungeoneering Tokens. There are 12 possible classes, and only one may be active at a time. However two classes can be activated if you have done at least the Easy Tasks of the Daemonheim set. In order to take advantage of the upgrades, players must wear the rings.\n\nIf a player dies outside of Daemonheim with the ring, the player can regain it from the Dungeoneering tutor for free. The ring will not lose its upgrade, and the tokens spent on upgrading the ring are not wasted. An upgraded ring of kinship does not have any boost in a F2P world. \n\nA full list of the ring effects and their percentage boost per tier can be found [here.](https://runescape.wiki/w/Ring_of_kinship)"
       }
       ]
   },
   "temporary boosts": {
     "title": "Temporary Boosts",
-    "url": "http://runescape.wikia.com/wiki/Temporary_skill_boost",
+    "url": "https://runescape.wiki/w/Temporary_skill_boost",
     "description": "A temporary skill boost is anything caused by an item, Summoning familiar, or action that temporarily raises a player's level in one or more skills. It allows the player to do things above their current level.",
         "color": 12269891,
     "footer": {
@@ -326,23 +326,23 @@ exports.data = {
     "fields": [
       {
         "name": "Daemonheim Aura",
-        "value": "This aura is unlocked by completing the [Daemonheim Tasks](http://runescape.wikia.com/wiki/Daemonheim_achievements). There are four tiers of this aura that are rewarded chronologically for completing the easy, medium, hard, and elite task sets. The aura lasts for one hour upon being activated and has a four hour cooldown timer before it can be used again. It can be retrieved from [Thok](https://runescape.wikia.com/wiki/Thok_of_Daemonheim) for free if lost. You can activate and wear the aura outside Daemonheim. Whenever the player enters a floor in Daemonheim, the aura will automatically be equipped. The tier 4 aura's effects can be seen [here.](https://runescape.wikia.com/wiki/Daemonheim_aura_4) "
+        "value": "This aura is unlocked by completing the [Daemonheim Tasks](https://runescape.wiki/w/Daemonheim_achievements). There are four tiers of this aura that are rewarded chronologically for completing the easy, medium, hard, and elite task sets. The aura lasts for one hour upon being activated and has a four hour cooldown timer before it can be used again. It can be retrieved from [Thok](https://runescape.wiki/w/Thok_of_Daemonheim) for free if lost. You can activate and wear the aura outside Daemonheim. Whenever the player enters a floor in Daemonheim, the aura will automatically be equipped. The tier 4 aura's effects can be seen [here.](https://runescape.wiki/w/Daemonheim_aura_4) "
       },
       {
         "name": "Dungeoneering Party Simulator",
-        "value": "The [Dungeoneering party simulator](https://runescape.wikia.com/wiki/Dungeoneering_party_simulator) is an Invention device that is a part of the cave goblin tech tree. It requires 55 Goblin Currency and level 70 Invention to unlock. It is a consumable device that increases the Dungeoneering experience gained for completing Dungeoneering floors in parties of four or fewer players. Upon completion of a Dungeoneering floor with a party of 4 or fewer people, the device is consumed from the first player in the party who has one and the party size modifier for the floor is increased by 1. For example, upon completing a floor alone (Difficulty Modifier 1:1) the modifier would be increased to the difficulty for two people (Difficulty Modifier 2:2). This affects all players in the party, not just the one using the item. It doesn't need to be equipped for it to be used.  "
+        "value": "The [Dungeoneering party simulator](https://runescape.wiki/w/Dungeoneering_party_simulator) is an Invention device that is a part of the cave goblin tech tree. It requires 55 Goblin Currency and level 70 Invention to unlock. It is a consumable device that increases the Dungeoneering experience gained for completing Dungeoneering floors in parties of four or fewer players. Upon completion of a Dungeoneering floor with a party of 4 or fewer people, the device is consumed from the first player in the party who has one and the party size modifier for the floor is increased by 1. For example, upon completing a floor alone (Difficulty Modifier 1:1) the modifier would be increased to the difficulty for two people (Difficulty Modifier 2:2). This affects all players in the party, not just the one using the item. It doesn't need to be equipped for it to be used.  "
       },
       {
         "name": "Gorajo Cards",
-        "value": "[Gorajo Cards](http://runescape.wikia.com/wiki/Gorajo_card) are obtained from the [Gorajo hoardstalker](http://runescape.wikia.com/wiki/Gorajo_hoardstalker) in the [Gorajo resource dungeon](http://runescape.wikia.com/wiki/Gorajo_resource_dungeon) of Prifddinas. He is also located near [Thok](http://runescape.wikia.com/wiki/Thok) on the Daemonheim peninsula after unlocking access to the resource dungeon. One card per day can be obtained, and only 1 team card and 1 solo card can be owned at a time from Gorajo."
+        "value": "[Gorajo Cards](https://runescape.wiki/w/Gorajo_card) are obtained from the [Gorajo hoardstalker](https://runescape.wiki/w/Gorajo_hoardstalker) in the [Gorajo resource dungeon](https://runescape.wiki/w/Gorajo_resource_dungeon) of Prifddinas. He is also located near [Thok](https://runescape.wiki/w/Thok) on the Daemonheim peninsula after unlocking access to the resource dungeon. One card per day can be obtained, and only 1 team card and 1 solo card can be owned at a time from Gorajo."
       },
        {
         "name": "​",
-        "value": "[Bryll Thoksdottir](http://runescape.wikia.com/wiki/Bryll_Thoksdottir) sells both solo and team cards for 5,000 and 15,000 Dungeoneering tokens respectively in her shop. The card received is random. You can have multiple cards when they are obtained this way, however the Gorajo hoardstalker will not give you another card unless you have none of the type of card he is offering.\n\nFor a list of all cards effects, click [here](http://runescape.wikia.com/wiki/Gorajo_card)."
+        "value": "[Bryll Thoksdottir](https://runescape.wiki/w/Bryll_Thoksdottir) sells both solo and team cards for 5,000 and 15,000 Dungeoneering tokens respectively in her shop. The card received is random. You can have multiple cards when they are obtained this way, however the Gorajo hoardstalker will not give you another card unless you have none of the type of card he is offering.\n\nFor a list of all cards effects, click [here](https://runescape.wiki/w/Gorajo_card)."
       },
       {
         "name": "Potion boosts​",
-        "value": "[Perfect Juju Dungeoneering Potion](http://runescape.wikia.com/wiki/Perfect_juju_dungeoneering_potion)\n• A dose of the potion lasts for four hours. While the potion is in effect, you do 5% more damage in Dungeoneering, have an increased chance of obtaining journal pages, and get a hidden +2 levels boost to all skills for opening skill doors. \n\n[Perfect Plus Potion](http://runescape.wikia.com/wiki/Perfect_plus_potion)\n• The same effect as the Perfect Juju Dungeoneering Potion. \n\n• The other way to boost skills inside Daemonheim is by making potions inside the minigame/skill itself. Doing this is just like you would outside where you need to gather a vial of water, a clean herb, and a secondary ingrediant and mix them together. \nMore information on the stat boosting potions can be found [here.](https://runescape.wikia.com/wiki/Dungeoneering/Herblore) "
+        "value": "[Perfect Juju Dungeoneering Potion](https://runescape.wiki/w/Perfect_juju_dungeoneering_potion)\n• A dose of the potion lasts for four hours. While the potion is in effect, you do 5% more damage in Dungeoneering, have an increased chance of obtaining journal pages, and get a hidden +2 levels boost to all skills for opening skill doors. \n\n[Perfect Plus Potion](https://runescape.wiki/w/Perfect_plus_potion)\n• The same effect as the Perfect Juju Dungeoneering Potion. \n\n• The other way to boost skills inside Daemonheim is by making potions inside the minigame/skill itself. Doing this is just like you would outside where you need to gather a vial of water, a clean herb, and a secondary ingrediant and mix them together. \nMore information on the stat boosting potions can be found [here.](https://runescape.wiki/w/Dungeoneering/Herblore) "
       }
       ]
   }

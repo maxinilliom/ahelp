@@ -25,8 +25,8 @@ exports.data = {
   },
   "1 - 99 +": {
     "title": "Constitution Training Levels 1-99+",
-    "description": "Constitution is trained using any [combat style](http://runescape.wikia.com/wiki/Combat_triangle). When fighting any [creature](https://runescape.wikia.com/wiki/Bestiary), a player receives Constitution experience upon the kill. The amount of experience earned is found using the known combat experience for the offensive skills, leaving the forumla to be: experience × .333. With this, Constitution experience is earned at one third the rate of Attack, Ranged, Strength, Defence, or Magic if training via combat, making this one of the slowest skills to train.",
-    "url": "http://runescape.wikia.com/wiki/Pay-to-play_Constitution_training",
+    "description": "Constitution is trained using any [combat style](https://runescape.wiki/w/Combat_triangle). When fighting any [creature](https://runescape.wiki/w/Bestiary), a player receives Constitution experience upon the kill. The amount of experience earned is found using the known combat experience for the offensive skills, leaving the forumla to be: experience × .333. With this, Constitution experience is earned at one third the rate of Attack, Ranged, Strength, Defence, or Magic if training via combat, making this one of the slowest skills to train.",
+    "url": "https://runescape.wiki/w/Pay-to-play_Constitution_training",
     "color": 12269891,
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
@@ -48,8 +48,8 @@ exports.data = {
   },
   "abilities": {
     "title": "Abilities",
-    "url": "https://runescape.wikia.com/wiki/Abilities#Constitution",
-    "description": "[Abilities](https://runescape.wikia.com/wiki/Abilities) are a set of combat commands for Attack, Strength, Defence, Constitution, Ranged, and Magic.\n\nAbilities form the basis of combat following the [Evolution of Combat](https://runescape.wikia.com/wiki/Evolution_of_Combat), though they cannot be used when in [Legacy Mode](https://runescape.wikia.com/wiki/Legacy_Mode) combat. Each skill has a menu of abilities, found in the [Powers](http://runescape.wikia.com/wiki/Interface#Powers) menu, which can be dragged outside as part of an interface setup.",
+    "url": "https://runescape.wiki/w/Abilities#Constitution",
+    "description": "[Abilities](https://runescape.wiki/w/Abilities) are a set of combat commands for Attack, Strength, Defence, Constitution, Ranged, and Magic.\n\nAbilities form the basis of combat following the [Evolution of Combat](https://runescape.wiki/w/Evolution_of_Combat), though they cannot be used when in [Legacy Mode](https://runescape.wiki/w/Legacy_Mode) combat. Each skill has a menu of abilities, found in the [Powers](https://runescape.wiki/w/Interface#Powers) menu, which can be dragged outside as part of an interface setup.",
         "color": 12269891,
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
@@ -65,13 +65,13 @@ exports.data = {
     "fields": [
       {
         "name": "Constitution Abilities:",
-        "value": "The full list of Constitution abilities can be found [here](http://runescape.wikia.com/wiki/Abilities#Constitution)."
+        "value": "The full list of Constitution abilities can be found [here](https://runescape.wiki/w/Abilities#Constitution)."
       }
       ]
   },
   "alternative methods": {
     "title": "Alternative Methods of Training",
-    "url": "http://runescape.wikia.com/wiki/Pay-to-play_Constitution_training",
+    "url": "https://runescape.wiki/w/Pay-to-play_Constitution_training",
     "description": "Some users may wish to utilize methods outside of the ones displayed in this channel's guide. To aid in this, the following alternative methods are provided.",
         "color": 12269891,
     "footer": {
@@ -89,18 +89,18 @@ exports.data = {
 
     {
       "name": "▬▬ Soul Wars ▬▬",
-      "value": "[Soul Wars](http://runescape.wikia.com/wiki/Soul_Wars) is a team [minigame](https://runescape.wikia.com/wiki/Minigames) that lasts twenty minutes per game and can be played on any world. In Soul Wars, two opposing teams compete against each other to gather [Soul Fragments](http://runescape.wikia.com/wiki/Soul_fragment) and offer them to the [Soul Obelisk](http://runescape.wikia.com/wiki/Soul_obelisk_(Soul_Wars) in order to weaken, and ultimately defeat, each other's avatars through combat."
+      "value": "[Soul Wars](https://runescape.wiki/w/Soul_Wars) is a team [minigame](https://runescape.wiki/w/Minigames) that lasts twenty minutes per game and can be played on any world. In Soul Wars, two opposing teams compete against each other to gather [Soul Fragments](https://runescape.wiki/w/Soul_fragment) and offer them to the [Soul Obelisk](https://runescape.wiki/w/Soul_obelisk_(Soul_Wars) in order to weaken, and ultimately defeat, each other's avatars through combat."
     },
     { 
       "name": "​", 
-      "value": "Players will receive a number of [zeal](https://runescape.wikia.com/wiki/Zeal) based on their performance in the game, unless the player joined the waiting area after the game was past the half-way mark; in which case no zeal points are awarded. Players may trade these in with [Nomad](http://runescape.wikia.com/wiki/Nomad), [Zimberfizz](http://runescape.wikia.com/wiki/Zimberfizz), [Zimberfizz ashes](http://runescape.wikia.com/wiki/Zimberfizz_ashes), or [Zanik](http://runescape.wikia.com/wiki/Zanik) for a variety of [rewards](https://runescape.wikia.com/wiki/Soul_Wars/Rewards) such as experience, [charms](https://runescape.wikia.com/wiki/Charms), Slayer pets, and other items. Players can store a maximum of 50,000 Zeal points. This is equivalent to playing and winning 16,667 games."
+      "value": "Players will receive a number of [zeal](https://runescape.wiki/w/Zeal) based on their performance in the game, unless the player joined the waiting area after the game was past the half-way mark; in which case no zeal points are awarded. Players may trade these in with [Nomad](https://runescape.wiki/w/Nomad), [Zimberfizz](https://runescape.wiki/w/Zimberfizz), [Zimberfizz ashes](https://runescape.wiki/w/Zimberfizz_ashes), or [Zanik](https://runescape.wiki/w/Zanik) for a variety of [rewards](https://runescape.wiki/w/Soul_Wars/Rewards) such as experience, [charms](https://runescape.wiki/w/Charms), Slayer pets, and other items. Players can store a maximum of 50,000 Zeal points. This is equivalent to playing and winning 16,667 games."
     }
       ]
   },
   "pet - morty": {
     "title": "Constitution Pet - Morty",
-    "description": "Morty is the skilling pet obtainable from Constitution. It can be used to unlock the [Morty pet](http://runescape.wikia.com/wiki/Morty).",
-    "url": "http://runescape.wikia.com/wiki/Morty_pet",
+    "description": "Morty is the skilling pet obtainable from Constitution. It can be used to unlock the [Morty pet](https://runescape.wiki/w/Morty).",
+    "url": "https://runescape.wiki/w/Morty_pet",
     "color": 12269891,
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
@@ -116,15 +116,15 @@ exports.data = {
     "fields": [
       {
         "name": "Methods to Obtain:",
-        "value": "• Killing Any [Creature](https://runescape.wikia.com/wiki/Bestiary)"
+        "value": "• Killing Any [Creature](https://runescape.wiki/w/Bestiary)"
       },
       {
         "name": "Best Method:",
-        "value": "• High Level [Bosses](https://runescape.wikia.com/wiki/Bestiary/Bosses)"
+        "value": "• High Level [Bosses](https://runescape.wiki/w/Bestiary/Bosses)"
       },
       {
         "name": "Methods which do not Work:",
-        "value": "• Combat Training [Dummies](https://runescape.wikia.com/wiki/Dummy_(disambiguation)"
+        "value": "• Combat Training [Dummies](https://runescape.wiki/w/Dummy_(disambiguation)"
       },
       {
         "name": "Formula:",
@@ -134,8 +134,8 @@ exports.data = {
   },
   "quests": {
     "title": "Quests which Grant Constitution Experience",
-    "url": "http://runescape.wikia.com/wiki/Quests/Experience_rewards#Constitution",
-    "description": "Currently, a total of 293,312 - 308,312, depending on the choice made in [Monkey Madness](http://runescape.wikia.com/wiki/Monkey_Madness), experience may be gained specifically to Constitution throughout all of the RuneScape Quests. These rewards are automatically given and there is no choice involved.",
+    "url": "https://runescape.wiki/w/Quests/Experience_rewards#Constitution",
+    "description": "Currently, a total of 293,312 - 308,312, depending on the choice made in [Monkey Madness](https://runescape.wiki/w/Monkey_Madness), experience may be gained specifically to Constitution throughout all of the RuneScape Quests. These rewards are automatically given and there is no choice involved.",
         "color": 12269891,
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
@@ -151,13 +151,13 @@ exports.data = {
     "fields": [
       {
         "name": "Complete List by RS Wiki:",
-        "value": "The full list may be found [here](http://runescape.wikia.com/wiki/Quests/Experience_rewards#Constitution)."
+        "value": "The full list may be found [here](https://runescape.wiki/w/Quests/Experience_rewards#Constitution)."
       }
       ]
   },
   "distractions and diversions": { 
 "title": "Distractions and Diversions", 
-"url": "http://runescape.wikia.com/wiki/Distractions_and_Diversions", 
+"url": "https://runescape.wiki/w/Distractions_and_Diversions", 
 "description": "D&Ds are a subclassification of minigames. However, unlike minigames many D&Ds move around the world to various locations, have a limit on how often they can be played, and only occur at particular times of day.\n\nDistractions and Diversions aim to divert the original intentions of the player in order to provide an interesting distraction from their everyday routines. D&Ds come in many different shapes and sizes; covering Combat, Gathering, Artisan, and Support skills. There are a wide variety of different options available to suit the players choice.", 
 "color": 12269891, 
 "footer": { 
@@ -180,8 +180,8 @@ exports.data = {
 },
   "daily challenge": {
     "title": "Daily Challenge",
-    "url": "http://runescape.wikia.com/wiki/Challenge_XP_Lamp",
-    "description": "Completing a daily challenge for Combat will give experience, depending on the player's level. A lamp will be given upon completion, and a player can choose between the six combat skills in which to receive experience.\n\nPlayers can be assigned challenges below their combat level. The challenge will consist of killing creatures of a certain combat level or the [Barrows Brothers](https://runescape.wikia.com/wiki/Barrows), [Giant Mole](https://runescape.wikia.com/wiki/Giant_mole), or [God Wars Dungeon](https://runescape.wikia.com/wiki/God_Wars_Dungeon) generals or mobs. Look for more appropriate monsters from the [Bestiary](https://runescape.wikia.com/wiki/Bestiary). Dungeoneering can also be used for rampage challenges.",
+    "url": "https://runescape.wiki/w/Challenge_XP_Lamp",
+    "description": "Completing a daily challenge for Combat will give experience, depending on the player's level. A lamp will be given upon completion, and a player can choose between the six combat skills in which to receive experience.\n\nPlayers can be assigned challenges below their combat level. The challenge will consist of killing creatures of a certain combat level or the [Barrows Brothers](https://runescape.wiki/w/Barrows), [Giant Mole](https://runescape.wiki/w/Giant_mole), or [God Wars Dungeon](https://runescape.wiki/w/God_Wars_Dungeon) generals or mobs. Look for more appropriate monsters from the [Bestiary](https://runescape.wiki/w/Bestiary). Dungeoneering can also be used for rampage challenges.",
         "color": 12269891,
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
@@ -197,13 +197,13 @@ exports.data = {
     "fields": [
       {
         "name": "​",
-        "value": "At level 99, 24,640 experience is awarded via a [Challenge Exp Lamp](http://runescape.wikia.com/wiki/Challenge_XP_Lamp)."
+        "value": "At level 99, 24,640 experience is awarded via a [Challenge Exp Lamp](https://runescape.wiki/w/Challenge_XP_Lamp)."
       }
       ]
   },
   "permanent boosts": {
     "title": "Permanent Boosts",
-    "url": "http://runescape.wikia.com/wiki/Bonus_experience_items",
+    "url": "https://runescape.wiki/w/Bonus_experience_items",
     "description": "A permanent skill boost is anything caused by an item that permanently raises a player's level or ability in one or more skills. It allows the player to do things above their current level or ability.",
         "color": 12269891,
     "footer": {
@@ -220,56 +220,56 @@ exports.data = {
     "fields": [
       {
         "name": "Constitution Cape",
-        "value": "The [Constitution Cape's](http://runescape.wikia.com/wiki/Constitution_cape) perk doubles base life point regeneration to 0.2% every 6 seconds, which heals during combat and stacks with [Fortitude](http://runescape.wikia.com/wiki/Fortitude)."
+        "value": "The [Constitution Cape's](https://runescape.wiki/w/Constitution_cape) perk doubles base life point regeneration to 0.2% every 6 seconds, which heals during combat and stacks with [Fortitude](https://runescape.wiki/w/Fortitude)."
       },
       {
         "inline": true,
         "name": "Raids Armor",
-        "value": "[Primeval](https://runescape.wikia.com/wiki/Primeval_equipment)\n• Helm: +320\n• Body: +640\n• Legs: +480\n\n[Tempest](https://runescape.wikia.com/wiki/Tempest_equipment)\n• Helm: +320\n• Body: +640\n• Legs: +480\n\n[Teralith](https://runescape.wikia.com/wiki/Teralith_equipment)\n• Helm: +320\n• Body: +640\n• Legs: +480"
+        "value": "[Primeval](https://runescape.wiki/w/Primeval_equipment)\n• Helm: +320\n• Body: +640\n• Legs: +480\n\n[Tempest](https://runescape.wiki/w/Tempest_equipment)\n• Helm: +320\n• Body: +640\n• Legs: +480\n\n[Teralith](https://runescape.wiki/w/Teralith_equipment)\n• Helm: +320\n• Body: +640\n• Legs: +480"
       },
       {
         "inline": true,
         "name": "Achto Raids Armor",
-        "value": "[Achto Primeval](https://runescape.wikia.com/wiki/Primeval_equipment#Achto_version)\n• Helm: +420\n• Body: +840\n• Legs: +630\n\n[Achto Tempest](https://runescape.wikia.com/wiki/Tempest_equipment#Achto_version)\n• Helm: +420\n• Body: +840\n• Legs: +630\n\n[Achto Teralith](https://runescape.wikia.com/wiki/Teralith_equipment#Achto_version) \n• Helm: +420\n• Body: +840\n• Legs: +630"
+        "value": "[Achto Primeval](https://runescape.wiki/w/Primeval_equipment#Achto_version)\n• Helm: +420\n• Body: +840\n• Legs: +630\n\n[Achto Tempest](https://runescape.wiki/w/Tempest_equipment#Achto_version)\n• Helm: +420\n• Body: +840\n• Legs: +630\n\n[Achto Teralith](https://runescape.wiki/w/Teralith_equipment#Achto_version) \n• Helm: +420\n• Body: +840\n• Legs: +630"
       },
       {
         "inline": true,
         "name": "Ports Armor",
-        "value": "[Tetsu](https://runescape.wikia.com/wiki/Tetsu_equipment)\n• Helm: +280\n• Body: +560\n• Legs: +420\n\n[Death Lotus](https://runescape.wikia.com/wiki/Death_Lotus_equipment)\n• Helm: +280\n• Body: +560\n• Legs: +420\n\n[Seasinger](https://runescape.wikia.com/wiki/Seasinger%27s_equipment)\n• Helm: +280\n• Body: +560\n• Legs: +420"
+        "value": "[Tetsu](https://runescape.wiki/w/Tetsu_equipment)\n• Helm: +280\n• Body: +560\n• Legs: +420\n\n[Death Lotus](https://runescape.wiki/w/Death_Lotus_equipment)\n• Helm: +280\n• Body: +560\n• Legs: +420\n\n[Seasinger](https://runescape.wiki/w/Seasinger%27s_equipment)\n• Helm: +280\n• Body: +560\n• Legs: +420"
       },
       {
         "inline": true,
         "name": "Superior Ports Armor",
-        "value": "[Superior Tetsu](https://runescape.wikia.com/wiki/Tetsu_equipment#Superior_armour)\n• Helm: +320\n• Body: +640\n• Legs: +480\n\n[Superior Death Lotus](https://runescape.wikia.com/wiki/Death_Lotus_equipment#Superior_armour)\n• Helm: +320\n• Body: +640\n• Legs: +480\n\n[Superior Seasinger](https://runescape.wikia.com/wiki/Seasinger%27s_equipment#Superior_armour)\n• Helm: +320\n• Body: +640\n• Legs: +480"
+        "value": "[Superior Tetsu](https://runescape.wiki/w/Tetsu_equipment#Superior_armour)\n• Helm: +320\n• Body: +640\n• Legs: +480\n\n[Superior Death Lotus](https://runescape.wiki/w/Death_Lotus_equipment#Superior_armour)\n• Helm: +320\n• Body: +640\n• Legs: +480\n\n[Superior Seasinger](https://runescape.wiki/w/Seasinger%27s_equipment#Superior_armour)\n• Helm: +320\n• Body: +640\n• Legs: +480"
       },
       {
         "name": "Nex Armor",
-        "value": "[Torva](https://runescape.wikia.com/wiki/Torva_equipment)\n• Helm: +110\n• Body: +220\n• Legs: +165\n\n[Pernix](https://runescape.wikia.com/wiki/Pernix_equipment)\n• Helm: +110\n• Body: +220\n• Legs: +165\n\n[Virtus](https://runescape.wikia.com/wiki/Virtus_equipment)\n• Helm: +110\n• Body: +220\n• Legs: +165"
+        "value": "[Torva](https://runescape.wiki/w/Torva_equipment)\n• Helm: +110\n• Body: +220\n• Legs: +165\n\n[Pernix](https://runescape.wiki/w/Pernix_equipment)\n• Helm: +110\n• Body: +220\n• Legs: +165\n\n[Virtus](https://runescape.wiki/w/Virtus_equipment)\n• Helm: +110\n• Body: +220\n• Legs: +165"
       },
       {
         "inline": true,
         "name": "Capes",
-        "value": "[Completionist cape](https://runescape.wikia.com/wiki/Completionist_cape)\n• +300\n[Reefwalker's cape](https://runescape.wikia.com/wiki/Reefwalker%27s_cape)\n• +200"
+        "value": "[Completionist cape](https://runescape.wiki/w/Completionist_cape)\n• +300\n[Reefwalker's cape](https://runescape.wiki/w/Reefwalker%27s_cape)\n• +200"
       },
       {
         "inline": true,
         "name": "Superior Capes",
-        "value": "[Completionist cape (t)](https://runescape.wikia.com/wiki/Completionist_cape_(t)\n• +300\n[Superior reefwalker's cape](https://runescape.wikia.com/wiki/Superior_reefwalker%27s_cape)\n• +300"
+        "value": "[Completionist cape (t)](https://runescape.wiki/w/Completionist_cape_(t)\n• +300\n[Superior reefwalker's cape](https://runescape.wiki/w/Superior_reefwalker%27s_cape)\n• +300"
       },
       {
         "name": "Barrows: Rise of The Six Shields",
-        "value": "[Malevolent kiteshield](https://runescape.wikia.com/wiki/Malevolent_kiteshield)\n• +735\n[Merciless kiteshield](https://runescape.wikia.com/wiki/Merciless_kiteshield)\n• +735\n[Vengeful kiteshield](https://runescape.wikia.com/wiki/Vengeful_kiteshield)\n• +735"
+        "value": "[Malevolent kiteshield](https://runescape.wiki/w/Malevolent_kiteshield)\n• +735\n[Merciless kiteshield](https://runescape.wiki/w/Merciless_kiteshield)\n• +735\n[Vengeful kiteshield](https://runescape.wiki/w/Vengeful_kiteshield)\n• +735"
       },
       {
         "name": "Deathmatch Gloves",
-        "value": "[Atrocious rogue gloves](https://runescape.wikia.com/wiki/Atrocious_rogue_gloves)\n• +250\n[Loathsome rogue gloves](https://runescape.wikia.com/wiki/Loathsome_rogue_gloves)\n• +200\n[Malicious rogue gloves](https://runescape.wikia.com/wiki/Malicious_rogue_gloves)\n• +150\n[Nasty rogue gloves](https://runescape.wikia.com/wiki/Nasty_rogue_gloves)\n• +100\n[Corrupt rogue gloves](https://runescape.wikia.com/wiki/Corrupt_rogue_gloves)\n• +50"
+        "value": "[Atrocious rogue gloves](https://runescape.wiki/w/Atrocious_rogue_gloves)\n• +250\n[Loathsome rogue gloves](https://runescape.wiki/w/Loathsome_rogue_gloves)\n• +200\n[Malicious rogue gloves](https://runescape.wiki/w/Malicious_rogue_gloves)\n• +150\n[Nasty rogue gloves](https://runescape.wiki/w/Nasty_rogue_gloves)\n• +100\n[Corrupt rogue gloves](https://runescape.wiki/w/Corrupt_rogue_gloves)\n• +50"
       }
       ]
   },
   "temporary boosts": {
     "title": "Temporary Boosts",
-    "url": "http://runescape.wikia.com/wiki/Temporary_skill_boost",
-    "description": "A temporary skill boost is anything caused by an item, [Summoning familiar](https://runescape.wikia.com/wiki/Summoning_familiars), or action that temporarily raises a player's level or ability in one or more skills. It allows the player to do things above their current level or ability.",
+    "url": "https://runescape.wiki/w/Temporary_skill_boost",
+    "description": "A temporary skill boost is anything caused by an item, [Summoning familiar](https://runescape.wiki/w/Summoning_familiars), or action that temporarily raises a player's level or ability in one or more skills. It allows the player to do things above their current level or ability.",
         "color": 12269891,
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
@@ -285,11 +285,11 @@ exports.data = {
     "fields": [
       {
         "name": "Constitution Boosts",
-        "value": "[Constitution Cape](http://runescape.wikia.com/wiki/Constitution_cape)\n• +1 Constitution level for 1 minute\n\n[Bonfire](http://runescape.wikia.com/wiki/Bonfire)\n• Up to 5% boost at level 98\n\n[Thermal Spa](http://runescape.wikia.com/wiki/Spa)\n• Boosts the player's maximum life points cap by +3 per Constitution level\n• Maximum of +297 at level 99\n\n[Fortitude](http://runescape.wikia.com/wiki/Fortitude)\n• +10% to Life Points\n• +15% Defence levels\n• +3 Damage Reduction\n• +10% accuracy to [Debilitate](http://runescape.wikia.com/wiki/Debilitate) and [Bash](http://runescape.wikia.com/wiki/Bash)\n• Passive Regeneration\n\n[Elidinis Statuette](http://runescape.wikia.com/wiki/Elidinis_Statuette)\n• Life Points boost of 500"
+        "value": "[Constitution Cape](https://runescape.wiki/w/Constitution_cape)\n• +1 Constitution level for 1 minute\n\n[Bonfire](https://runescape.wiki/w/Bonfire)\n• Up to 5% boost at level 98\n\n[Thermal Spa](https://runescape.wiki/w/Spa)\n• Boosts the player's maximum life points cap by +3 per Constitution level\n• Maximum of +297 at level 99\n\n[Fortitude](https://runescape.wiki/w/Fortitude)\n• +10% to Life Points\n• +15% Defence levels\n• +3 Damage Reduction\n• +10% accuracy to [Debilitate](https://runescape.wiki/w/Debilitate) and [Bash](https://runescape.wiki/w/Bash)\n• Passive Regeneration\n\n[Elidinis Statuette](https://runescape.wiki/w/Elidinis_Statuette)\n• Life Points boost of 500"
       },
       {
         "name": "​",
-        "value": "[Abidor Crank](http://runescape.wikia.com/wiki/Abidor_Crank)\n• +20% Life Point boost\n• +15% Defence boost\n\n[Saradomin Brew](https://runescape.wikia.com/wiki/Saradomin_brew)\n• Heals 1,000 over your maximum lifepoints\n• Increases Defence by 4% + 1 levels\n• Drains Strength, Attack, Magic, and Ranged levels by the same amount.\n\nThe following foods can heal 10% over the maximum, and stack with the bonfire boost:\n• [Rocktail](http://runescape.wikia.com/wiki/Rocktail)\n• [Sailfish](http://runescape.wikia.com/wiki/Sailfish)\n• [Tiger Shark](http://runescape.wikia.com/wiki/Tiger_shark)\n\nThe following foods can heal 15% over the maximum, and stack with the bonfire boost:\n• [Rocktail Soup](http://runescape.wikia.com/wiki/Rocktail_soup)\n• [Sailfish Soup](http://runescape.wikia.com/wiki/Sailfish_soup)"
+        "value": "[Abidor Crank](https://runescape.wiki/w/Abidor_Crank)\n• +20% Life Point boost\n• +15% Defence boost\n\n[Saradomin Brew](https://runescape.wiki/w/Saradomin_brew)\n• Heals 1,000 over your maximum lifepoints\n• Increases Defence by 4% + 1 levels\n• Drains Strength, Attack, Magic, and Ranged levels by the same amount.\n\nThe following foods can heal 10% over the maximum, and stack with the bonfire boost:\n• [Rocktail](https://runescape.wiki/w/Rocktail)\n• [Sailfish](https://runescape.wiki/w/Sailfish)\n• [Tiger Shark](https://runescape.wiki/w/Tiger_shark)\n\nThe following foods can heal 15% over the maximum, and stack with the bonfire boost:\n• [Rocktail Soup](https://runescape.wiki/w/Rocktail_soup)\n• [Sailfish Soup](https://runescape.wiki/w/Sailfish_soup)"
       }
        ]
   }

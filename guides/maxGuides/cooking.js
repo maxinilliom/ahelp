@@ -25,8 +25,8 @@ exports.data = {
   },
   "1 - 15": {
     "title": "Cooking Training Levels 1-15",
-    "description": "Cook anything readily available. Efficiency is not important due to the first 10 levels being able to be quickly gained. Some options include [Chicken](http://runescape.wikia.com/wiki/Raw_chicken), [Meat](http://runescape.wikia.com/wiki/Raw_meat), [Bread](http://runescape.wikia.com/wiki/Bread_dough), [Shrimp](http://runescape.wikia.com/wiki/Raw_shrimps), [Anchovies](http://runescape.wikia.com/wiki/Raw_anchovies), or [Herring](http://runescape.wikia.com/wiki/Raw_herring).",
-    "url": "http://runescape.wikia.com/wiki/Pay-to-play_Cooking_training#Level_advancement_-_Fish",
+    "description": "Cook anything readily available. Efficiency is not important due to the first 10 levels being able to be quickly gained. Some options include [Chicken](https://runescape.wiki/w/Raw_chicken), [Meat](https://runescape.wiki/w/Raw_meat), [Bread](https://runescape.wiki/w/Bread_dough), [Shrimp](https://runescape.wiki/w/Raw_shrimps), [Anchovies](https://runescape.wiki/w/Raw_anchovies), or [Herring](https://runescape.wiki/w/Raw_herring).",
+    "url": "https://runescape.wiki/w/Pay-to-play_Cooking_training#Level_advancement_-_Fish",
     "color": 12269891,
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
@@ -42,8 +42,8 @@ exports.data = {
   },
   "15 - 28": {
     "title": "Cooking Training Levels 15-28",
-    "description": "Cook [Trout](http://runescape.wikia.com/wiki/Trout), [Cod](http://runescape.wikia.com/wiki/Cod), [Pike](http://runescape.wikia.com/wiki/Pike), and [Salmon](http://runescape.wikia.com/wiki/Salmon).",
-    "url": "http://runescape.wikia.com/wiki/Pay-to-play_Cooking_training#Level_advancement_-_Fish",
+    "description": "Cook [Trout](https://runescape.wiki/w/Trout), [Cod](https://runescape.wiki/w/Cod), [Pike](https://runescape.wiki/w/Pike), and [Salmon](https://runescape.wiki/w/Salmon).",
+    "url": "https://runescape.wiki/w/Pay-to-play_Cooking_training#Level_advancement_-_Fish",
     "color": 12269891,
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
@@ -59,8 +59,8 @@ exports.data = {
   },
   "28 - 60": {
     "title": "Cooking Training Levels 28-60",
-    "description": "[Sweetcorn](http://runescape.wikia.com/wiki/Sweetcorn) can be cooked to gain 104 experience on a range and 114 over a bonfire. If below level 53 cooking, there is a chance of getting burnt sweetcorn instead. Burnt sweetcorn rewards no experience. This is the case with all burnt food.",
-    "url": "http://runescape.wikia.com/wiki/Pay-to-play_Cooking_training#Level_advancement_-_Fish",
+    "description": "[Sweetcorn](https://runescape.wiki/w/Sweetcorn) can be cooked to gain 104 experience on a range and 114 over a bonfire. If below level 53 cooking, there is a chance of getting burnt sweetcorn instead. Burnt sweetcorn rewards no experience. This is the case with all burnt food.",
+    "url": "https://runescape.wiki/w/Pay-to-play_Cooking_training#Level_advancement_-_Fish",
     "color": 12269891,
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
@@ -76,8 +76,8 @@ exports.data = {
   },
   "60 - 84": {
     "title": "Cooking Training Levels 60-84",
-    "description": "[Raw lobsters](http://runescape.wikia.com/wiki/Raw_lobster) can be cooked to gain 120 experience on a range and 132 over a bonfire. Raw lobsters stop being burnt at level 74 cooking, or at level 64 cooking with [Cooking gauntlets](http://runescape.wikia.com/wiki/Cooking_gauntlets), though the chance to burn a lobster turns rare at level 60 Cooking.",
-    "url": "http://runescape.wikia.com/wiki/Pay-to-play_Cooking_training#Level_advancement_-_Fish",
+    "description": "[Raw lobsters](https://runescape.wiki/w/Raw_lobster) can be cooked to gain 120 experience on a range and 132 over a bonfire. Raw lobsters stop being burnt at level 74 cooking, or at level 64 cooking with [Cooking gauntlets](https://runescape.wiki/w/Cooking_gauntlets), though the chance to burn a lobster turns rare at level 60 Cooking.",
+    "url": "https://runescape.wiki/w/Pay-to-play_Cooking_training#Level_advancement_-_Fish",
     "color": 12269891,
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
@@ -93,8 +93,8 @@ exports.data = {
   },
   "84 - 92": {
     "title": "Cooking Training Levels 84-92",
-    "description": " [Raw swordfish](http://runescape.wikia.com/wiki/Raw_swordfish) can be cooked to gain 140 Cooking experience on a range and 154 over a bonfire. Raw swordfish stop being burnt at level 86 cooking, or at level 80 cooking with [Cooking gauntlets](http://runescape.wikia.com/wiki/Cooking_gauntlets).",
-    "url": "http://runescape.wikia.com/wiki/Pay-to-play_Cooking_training#Level_advancement_-_Fish",
+    "description": " [Raw swordfish](https://runescape.wiki/w/Raw_swordfish) can be cooked to gain 140 Cooking experience on a range and 154 over a bonfire. Raw swordfish stop being burnt at level 86 cooking, or at level 80 cooking with [Cooking gauntlets](https://runescape.wiki/w/Cooking_gauntlets).",
+    "url": "https://runescape.wiki/w/Pay-to-play_Cooking_training#Level_advancement_-_Fish",
     "color": 12269891,
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
@@ -110,8 +110,8 @@ exports.data = {
   },
   "92 - 94": {
     "title": "Cooking Training Levels 92-94",
-    "description": "[Raw shark](http://runescape.wikia.com/wiki/Raw_shark) can be cooked to gain 210 Cooking experience on a range and 241 over a bonfire. Raw shark never stop being burnt, unless a player is wearing the [Cooking gauntlets](http://runescape.wikia.com/wiki/Cooking_gauntlets). With the gauntlets they stop burning at level 94.",
-    "url": "http://runescape.wikia.com/wiki/Pay-to-play_Cooking_training#Level_advancement_-_Fish",
+    "description": "[Raw shark](https://runescape.wiki/w/Raw_shark) can be cooked to gain 210 Cooking experience on a range and 241 over a bonfire. Raw shark never stop being burnt, unless a player is wearing the [Cooking gauntlets](https://runescape.wiki/w/Cooking_gauntlets). With the gauntlets they stop burning at level 94.",
+    "url": "https://runescape.wiki/w/Pay-to-play_Cooking_training#Level_advancement_-_Fish",
     "color": 12269891,
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
@@ -127,8 +127,8 @@ exports.data = {
   },
   "94 - 99 +": {
     "title": "Cooking Training Levels 94-99+",
-    "description": "[Raw rocktails](http://runescape.wikia.com/wiki/Raw_rocktail) can be cooked to gain 225 Cooking experience on a range and 247.5 over a bonfire. Raw rocktails never stop being burnt, unless a player is wearing the [cooking gauntlets](http://runescape.wikia.com/wiki/Cooking_gauntlets). With the gauntlets they stop burning at level 94.",
-    "url": "http://runescape.wikia.com/wiki/Pay-to-play_Cooking_training#Level_advancement_-_Fish",
+    "description": "[Raw rocktails](https://runescape.wiki/w/Raw_rocktail) can be cooked to gain 225 Cooking experience on a range and 247.5 over a bonfire. Raw rocktails never stop being burnt, unless a player is wearing the [cooking gauntlets](https://runescape.wiki/w/Cooking_gauntlets). With the gauntlets they stop burning at level 94.",
+    "url": "https://runescape.wiki/w/Pay-to-play_Cooking_training#Level_advancement_-_Fish",
     "color": 12269891,
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
@@ -144,7 +144,7 @@ exports.data = {
     "fields": [
       {
         "name": "▬▬ Level 99+ ▬▬",
-        "value": "[Raw sailfish](http://runescape.wikia.com/wiki/Raw_sailfish) can be cooked to gain 270 Cooking experience on a range and 297 over a bonfire. Raw sailfish never stop being burnt, unless a player is wearing the [cooking gauntlets](http://runescape.wikia.com/wiki/Cooking_gauntlets), in which case they stopped being burnt at level 99."
+        "value": "[Raw sailfish](https://runescape.wiki/w/Raw_sailfish) can be cooked to gain 270 Cooking experience on a range and 297 over a bonfire. Raw sailfish never stop being burnt, unless a player is wearing the [cooking gauntlets](https://runescape.wiki/w/Cooking_gauntlets), in which case they stopped being burnt at level 99."
       },
       {
         "name": "▬▬ Going above and beyond ▬▬",
@@ -154,7 +154,7 @@ exports.data = {
   },
   "alternative methods": {
     "title": "Alternative Methods of Training",
-    "url": "http://runescape.wikia.com/wiki/Pay-to-play_Cooking_training#alternative_methods",
+    "url": "https://runescape.wiki/w/Pay-to-play_Cooking_training#alternative_methods",
     "description": "Some users may wish to utilize methods outside of the ones displayed in this channel's guide. To aid in this, the following alternative methods are provided.",
         "color": 12269891,
     "footer": {
@@ -171,23 +171,23 @@ exports.data = {
     "fields": [
       {
         "name": "▬▬ Clan Citadel - Barbecue ▬▬",
-        "value": "If you are in a clan with a Cooking plot ([Barbecue](http://runescape.wikia.com/wiki/Barbecue)), a substantial amount of Cooking experience can be gained weekly depending on your Cooking level and [Fealty](http://runescape.wikia.com/wiki/Clan_Citadel#Fealty). Clans may unlock this at [Tier](http://runescape.wikia.com/wiki/Clan_Citadel#Citadel_tiers_and_skill_plots) 6 and is used to gather [Rations](http://runescape.wikia.com/wiki/Rations) to upkeep and eventually upgrade or build structures on the citadel. This is regarded as a cheap way to train Cooking while gathering citadel resources for your clan. Players also have the benefit of having no change of burnt food or using money to buy raw food to cook. Stewing Pots, Large Chopping Boards, and Grills all give the same amount of experience. Each complete round of cooking takes approximately 18 seconds."
+        "value": "If you are in a clan with a Cooking plot ([Barbecue](https://runescape.wiki/w/Barbecue)), a substantial amount of Cooking experience can be gained weekly depending on your Cooking level and [Fealty](https://runescape.wiki/w/Clan_Citadel#Fealty). Clans may unlock this at [Tier](https://runescape.wiki/w/Clan_Citadel#Citadel_tiers_and_skill_plots) 6 and is used to gather [Rations](https://runescape.wiki/w/Rations) to upkeep and eventually upgrade or build structures on the citadel. This is regarded as a cheap way to train Cooking while gathering citadel resources for your clan. Players also have the benefit of having no change of burnt food or using money to buy raw food to cook. Stewing Pots, Large Chopping Boards, and Grills all give the same amount of experience. Each complete round of cooking takes approximately 18 seconds."
       },
       {
         "name": "▬▬ Gunnarsgrunn Cooking ▬▬",
-        "value": "This method neither makes nor loses money. It can be quite helpful for players without a lot of money. Since many players power-fish [Salmon](http://runescape.wikia.com/wiki/Salmon) and [Trout](http://runescape.wikia.com/wiki/Trout) at [Gunnarsgrunn](http://runescape.wikia.com/wiki/Barbarian_Village), you can easily light a fire with the trees nearby and cook all the fish that they drop. After that, drop the cooked fish and pick up the new fish the players have dropped. Since the fish are cooked, alternating between dropping and eating is both more effective and uses less clicks than simply dropping. It can be more efficient if you can get one of the other players to directly trade you the fish. This method is helpful to both players, the fisher gets more experience per hour and the cooker gets a free way of gaining cooking levels."
+        "value": "This method neither makes nor loses money. It can be quite helpful for players without a lot of money. Since many players power-fish [Salmon](https://runescape.wiki/w/Salmon) and [Trout](https://runescape.wiki/w/Trout) at [Gunnarsgrunn](https://runescape.wiki/w/Barbarian_Village), you can easily light a fire with the trees nearby and cook all the fish that they drop. After that, drop the cooked fish and pick up the new fish the players have dropped. Since the fish are cooked, alternating between dropping and eating is both more effective and uses less clicks than simply dropping. It can be more efficient if you can get one of the other players to directly trade you the fish. This method is helpful to both players, the fisher gets more experience per hour and the cooker gets a free way of gaining cooking levels."
       },
       {
         "name": "▬▬ Wine ▬▬",
-        "value": "While this method cost a lot of money, it is very fast experience. You can expect around 700K+ experience per hour. 14 [Grapes](http://runescape.wikia.com/wiki/Grapes) are used with 14 [Jugs of Water](http://runescape.wikia.com/wiki/Jug_of_water) to make 14 [Unfermented Wines](http://runescape.wikia.com/wiki/Unfermented_wine) which, after 12 seconds, become [Jugs of Wine](http://runescape.wikia.com/wiki/Jug_of_wine) granting 200 experience each This adds up to 2,800 experience per inventory if no [Jugs of Bad Wine](http://runescape.wikia.com/wiki/Jug_of_bad_wine) are made. Wine is made very fast, and ferments in your bank. As wine only requires level 35 cooking to make, it becomes very difficult to fail."
+        "value": "While this method cost a lot of money, it is very fast experience. You can expect around 700K+ experience per hour. 14 [Grapes](https://runescape.wiki/w/Grapes) are used with 14 [Jugs of Water](https://runescape.wiki/w/Jug_of_water) to make 14 [Unfermented Wines](https://runescape.wiki/w/Unfermented_wine) which, after 12 seconds, become [Jugs of Wine](https://runescape.wiki/w/Jug_of_wine) granting 200 experience each This adds up to 2,800 experience per inventory if no [Jugs of Bad Wine](https://runescape.wiki/w/Jug_of_bad_wine) are made. Wine is made very fast, and ferments in your bank. As wine only requires level 35 cooking to make, it becomes very difficult to fail."
       },
       {
         "name": "▬▬ Waiko Reward Shop ▬▬",
-        "value": "The [Waiko Reward Shop](http://runescape.wikia.com/wiki/Waiko_Reward_Shop#Consumables) is a shop located on the [Waiko](http://runescape.wikia.com/wiki/Waiko) island in [The Arc](http://runescape.wikia.com/wiki/The_Arc) region and is run by [Boni](http://runescape.wikia.com/wiki/Boni_(rewards). Players must complete the [Impressing the Locals](http://runescape.wikia.com/wiki/Impressing_the_Locals) quest in order to access The Arc. The Waiko Reward Shop only accepts a combination of [Chimes](http://runescape.wikia.com/wiki/Chimes) and [Taijitu](http://runescape.wikia.com/wiki/Taijitu) as currency. Players can buy Cooking skill specific lamps from the shop for chimes."
+        "value": "The [Waiko Reward Shop](https://runescape.wiki/w/Waiko_Reward_Shop#Consumables) is a shop located on the [Waiko](https://runescape.wiki/w/Waiko) island in [The Arc](https://runescape.wiki/w/The_Arc) region and is run by [Boni](https://runescape.wiki/w/Boni_(rewards). Players must complete the [Impressing the Locals](https://runescape.wiki/w/Impressing_the_Locals) quest in order to access The Arc. The Waiko Reward Shop only accepts a combination of [Chimes](https://runescape.wiki/w/Chimes) and [Taijitu](https://runescape.wiki/w/Taijitu) as currency. Players can buy Cooking skill specific lamps from the shop for chimes."
       },
       {
         "name": "​",
-        "value": " The available lamp sizes and cost are:\n\n\t• [Small XP Lamp](https://runescape.wikia.com/wiki/Small_XP_lamp_(The_Arc) for 1,700 chimes\n\t• [Medium XP Lamp](https://runescape.wikia.com/wiki/Medium_XP_lamp_(The_Arc) for 2,500 chimes\n\t• [Large XP Lamp](https://runescape.wikia.com/wiki/Large_XP_lamp_(The_Arc) for 3,300 chimes, and a\n\t• [Huge XP Lamp](https://runescape.wikia.com/wiki/Huge_XP_lamp_(The_Arc) for 6,400 chimes."
+        "value": " The available lamp sizes and cost are:\n\n\t• [Small XP Lamp](https://runescape.wiki/w/Small_XP_lamp_(The_Arc) for 1,700 chimes\n\t• [Medium XP Lamp](https://runescape.wiki/w/Medium_XP_lamp_(The_Arc) for 2,500 chimes\n\t• [Large XP Lamp](https://runescape.wiki/w/Large_XP_lamp_(The_Arc) for 3,300 chimes, and a\n\t• [Huge XP Lamp](https://runescape.wiki/w/Huge_XP_lamp_(The_Arc) for 6,400 chimes."
       },
       {
         "name": "​",
@@ -197,8 +197,8 @@ exports.data = {
   },
   "pet - ramsay": {
     "title": "Cooking Pet - Ramsay",
-    "description": "Ramsay is the skilling pet obtainable from Cooking. He is unlocked by inspecting the [Ramsay Pet](http://runescape.wikia.com/wiki/Ramsay_pet).",
-    "url": "http://runescape.wikia.com/wiki/Ramsay",
+    "description": "Ramsay is the skilling pet obtainable from Cooking. He is unlocked by inspecting the [Ramsay Pet](https://runescape.wiki/w/Ramsay_pet).",
+    "url": "https://runescape.wiki/w/Ramsay",
     "color": 12269891,
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
@@ -218,7 +218,7 @@ exports.data = {
       },
       {
         "name": "Best Method",
-        "value": "• [Rocktail Soups](http://runescape.wikia.com/wiki/Rocktail_soup)\n• [Sailfish](http://runescape.wikia.com/wiki/Sailfish) (with [Cooking gauntlets](http://runescape.wikia.com/wiki/Cooking_gauntlets))"
+        "value": "• [Rocktail Soups](https://runescape.wiki/w/Rocktail_soup)\n• [Sailfish](https://runescape.wiki/w/Sailfish) (with [Cooking gauntlets](https://runescape.wiki/w/Cooking_gauntlets))"
       },
       {
         "name": "Methods which do not Work",
@@ -232,7 +232,7 @@ exports.data = {
   },
 	"quests": {
     "title": "Quests which Grant Cooking Experience",
-    "url": "http://runescape.wikia.com/wiki/Quests/Experience_rewards#Cooking",
+    "url": "https://runescape.wiki/w/Quests/Experience_rewards#Cooking",
     "description": "Currently, a total of 69,670 experience may be gained specifically to cooking throughout all of the RuneScape Quests. These rewards are automatically given and there is no choice involved.",
         "color": 12269891,
     "footer": {
@@ -249,13 +249,13 @@ exports.data = {
     "fields": [
       {
         "name": "Complete List by RS Wiki",
-        "value": "The full list may be found [here](http://runescape.wikia.com/wiki/Quests/Experience_rewards#Cooking)."
+        "value": "The full list may be found [here](https://runescape.wiki/w/Quests/Experience_rewards#Cooking)."
       }
       ]
   },
   "distractions and diversions": {
     "title": "Distractions and Diversions",
-    "url": "http://runescape.wikia.com/wiki/Distractions_and_Diversions",
+    "url": "https://runescape.wiki/w/Distractions_and_Diversions",
     "description": "D&Ds are a subclassification of minigames. However, unlike minigames many D&Ds move around the world to various locations, have a limit on how often they can be played, and only occur at particular times of day.\n\nDistractions and Diversions aim to divert the original intentions of the player in order to provide an interesting distraction from their everyday routines. D&Ds come in many different shapes and sizes; covering Combat, Gathering, Artisan, and Support skills. There are a wide variety of different options available to suit the players choice.",
         "color": 12269891,
     "footer": {
@@ -272,13 +272,13 @@ exports.data = {
     "fields": [
       {
         "name": "▬▬ Managing Miscellania ▬▬",
-        "value": "After finishing the [Throne of Miscellania](http://runescape.wikia.com/wiki/Throne_of_Miscellania) quest, you can [set up your kingdom](http://runescape.wikia.com/wiki/Managing_Miscellania) to gather raw fish. If allocated and well funded, subjects will gather [raw swordfish](http://runescape.wikia.com/wiki/Raw_swordfish) and [raw tuna](http://runescape.wikia.com/wiki/Raw_tuna), and a good amount of raw fish available to be cooked can be collected – either every day, or after a few days. This is a free way to help towards levelling your Cooking skill."
+        "value": "After finishing the [Throne of Miscellania](https://runescape.wiki/w/Throne_of_Miscellania) quest, you can [set up your kingdom](https://runescape.wiki/w/Managing_Miscellania) to gather raw fish. If allocated and well funded, subjects will gather [raw swordfish](https://runescape.wiki/w/Raw_swordfish) and [raw tuna](https://runescape.wiki/w/Raw_tuna), and a good amount of raw fish available to be cooked can be collected – either every day, or after a few days. This is a free way to help towards levelling your Cooking skill."
       }
       ]
   },
   "daily challenge": {
     "title": "Daily Challenge",
-    "url": "http://runescape.wikia.com/wiki/Challenge_System/Agility",
+    "url": "https://runescape.wiki/w/Challenge_System/Agility",
     "description": "Completing a daily challenge in Cooking will give Cooking experience, depending on the player's Cooking level.",
         "color": 12269891,
     "footer": {
@@ -295,13 +295,13 @@ exports.data = {
     "fields": [
       {
         "name": "​",
-        "value": "At level 98, 65,707 experience is awarded per day for cooking:\n\n• 39 [Meat Pizzas](http://runescape.wikia.com/wiki/Meat_pizza), or\n\n 87,610 experience is awarded per day for cooking either\n• 249 [Rocktails](http://runescape.wikia.com/wiki/Rocktail) or\n• 331 [Summer Pies](http://runescape.wikia.com/wiki/Summer_pie)\n\nDaily challenges may be extended for 50 [Vis Wax](http://runescape.wikia.com/wiki/Vis_wax) for double the reward.\n\nA full chart of the experience per level for the daily challenge may be found [here](http://runescape.wikia.com/wiki/Challenge_System/Cooking)."
+        "value": "At level 98, 65,707 experience is awarded per day for cooking:\n\n• 39 [Meat Pizzas](https://runescape.wiki/w/Meat_pizza), or\n\n 87,610 experience is awarded per day for cooking either\n• 249 [Rocktails](https://runescape.wiki/w/Rocktail) or\n• 331 [Summer Pies](https://runescape.wiki/w/Summer_pie)\n\nDaily challenges may be extended for 50 [Vis Wax](https://runescape.wiki/w/Vis_wax) for double the reward.\n\nA full chart of the experience per level for the daily challenge may be found [here](https://runescape.wiki/w/Challenge_System/Cooking)."
       }
       ]
   },
   "permanent boosts": {
     "title": "Permanent Boosts",
-    "url": "http://runescape.wikia.com/wiki/Bonus_experience_items",
+    "url": "https://runescape.wiki/w/Bonus_experience_items",
     "description": "A permanent skill boost is anything caused by an item that permanently raises a player's level in one or more skills. It allows the player to do things above their current level.",
         "color": 12269891,
     "footer": {
@@ -318,25 +318,25 @@ exports.data = {
     "fields": [
       {
         "name": "Cooking Cape",
-        "value": "• The [Cooking Cape's](http://runescape.wikia.com/wiki/Cooking_cape) perk prevents all food from burning while cooking, making it superior to the Cooking Gauntlets."
+        "value": "• The [Cooking Cape's](https://runescape.wiki/w/Cooking_cape) perk prevents all food from burning while cooking, making it superior to the Cooking Gauntlets."
       },
       {
         "name": "Cooking Gauntlets",
-        "value": "• Cooking gauntlets are a pair of members-only gloves, available after completing the [Family Crest](http://runescape.wikia.com/wiki/Family_Crest) quest. While wearing the gauntlets, the player will have a reduced risk of burning select types of fish."
+        "value": "• Cooking gauntlets are a pair of members-only gloves, available after completing the [Family Crest](https://runescape.wiki/w/Family_Crest) quest. While wearing the gauntlets, the player will have a reduced risk of burning select types of fish."
       }, 
       {
         "name": "Sous Chef's Outfit",
-        "value": "• The [Sous Chef's outfit](http://runescape.wikia.com/wiki/Sous_chef%27s_outfit) is acquired via Treasure Hunter, or as a possible reward when completing hard deliveries in the [Gnome Restaurant]() minigame. When one item is worn, they give a Cooking experience bonus of 1%. When all five pieces of this set are worn, they will grant the wearer a 6% boost in Cooking experience. If the player owns both the Cooking gauntlets and the Sous chef's mitts, they may wear the cooking gauntlets to gain the effect of both gloves (including the added 1% set bonus if the rest of the Sous chef's outfit is worn); the reverse does not work."
+        "value": "• The [Sous Chef's outfit](https://runescape.wiki/w/Sous_chef%27s_outfit) is acquired via Treasure Hunter, or as a possible reward when completing hard deliveries in the [Gnome Restaurant]() minigame. When one item is worn, they give a Cooking experience bonus of 1%. When all five pieces of this set are worn, they will grant the wearer a 6% boost in Cooking experience. If the player owns both the Cooking gauntlets and the Sous chef's mitts, they may wear the cooking gauntlets to gain the effect of both gloves (including the added 1% set bonus if the rest of the Sous chef's outfit is worn); the reverse does not work."
       },
       {
         "name": "Dwarven Army Axe",
-        "value": "• Upon completion of the [Troll Warzone](http://runescape.wikia.com/wiki/Troll_Warzone) area task, the [Dwarven Army Axe](http://runescape.wikia.com/wiki/Dwarven_army_axe) provides an extra +3 cooking experience when it is equipped whilst cooking food, except for [cheese](http://runescape.wikia.com/wiki/Cheese)."
+        "value": "• Upon completion of the [Troll Warzone](https://runescape.wiki/w/Troll_Warzone) area task, the [Dwarven Army Axe](https://runescape.wiki/w/Dwarven_army_axe) provides an extra +3 cooking experience when it is equipped whilst cooking food, except for [cheese](https://runescape.wiki/w/Cheese)."
       }
       ]
   },
   "temporary boosts": {
     "title": "Temporary Boosts",
-    "url": "http://runescape.wikia.com/wiki/Temporary_skill_boost",
+    "url": "https://runescape.wiki/w/Temporary_skill_boost",
     "description": "A temporary skill boost is anything caused by an item, Summoning familiar, or action that temporarily raises a player's level in one or more skills. It allows the player to do things above their current level.",
         "color": 12269891,
     "footer": {
@@ -353,23 +353,23 @@ exports.data = {
     "fields": [
       {
         "name": "Cooking Boosts",
-        "value": "[Cooking Cape](http://runescape.wikia.com/wiki/Cooking_cape)\n • +1 to Cooking for 1 minute\n\n[Spicy Stew](http://runescape.wikia.com/wiki/Spicy_stew)\n • Boost is applied to a random skill\n • Up to ±6 with 3 spice doses\n • Up to ±3 with 2 spice doses\n • Up to ±2 with 1 spice dose\n\n[God Banner](http://runescape.wikia.com/wiki/God_banner)\n• +2 levels\n• The boost can be used once per day and lasts for 30 minutes.\n\n[Chef's Deligt](http://runescape.wikia.com/wiki/Chef%27s_delight)\n• +1 level and 5% of your agility level (5.95 at level 99)\n• Also heals 540 life points\n• Reduces Attack and Strength by 2 or more levels\n\n[Mature Chef's Delight](http://runescape.wikia.com/wiki/Chef's_delight_(m)\n• +1 level and 5% of your agility level (5.95 at level 99)\n• Also heals 570 life points\n• Reduces Attack and Strength by 2 or more levels\n\n[Squiffberry](http://runescape.wikia.com/wiki/Squiffberry)\n• +2 Cooking levels\n• Requires access to [The Arc](http://runescape.wikia.com/wiki/The_Arc)\n• Reduces Defence by 1 level"
+        "value": "[Cooking Cape](https://runescape.wiki/w/Cooking_cape)\n • +1 to Cooking for 1 minute\n\n[Spicy Stew](https://runescape.wiki/w/Spicy_stew)\n • Boost is applied to a random skill\n • Up to ±6 with 3 spice doses\n • Up to ±3 with 2 spice doses\n • Up to ±2 with 1 spice dose\n\n[God Banner](https://runescape.wiki/w/God_banner)\n• +2 levels\n• The boost can be used once per day and lasts for 30 minutes.\n\n[Chef's Deligt](https://runescape.wiki/w/Chef%27s_delight)\n• +1 level and 5% of your agility level (5.95 at level 99)\n• Also heals 540 life points\n• Reduces Attack and Strength by 2 or more levels\n\n[Mature Chef's Delight](https://runescape.wiki/w/Chef's_delight_(m)\n• +1 level and 5% of your agility level (5.95 at level 99)\n• Also heals 570 life points\n• Reduces Attack and Strength by 2 or more levels\n\n[Squiffberry](https://runescape.wiki/w/Squiffberry)\n• +2 Cooking levels\n• Requires access to [The Arc](https://runescape.wiki/w/The_Arc)\n• Reduces Defence by 1 level"
       },
       {
         "name": "​",
-        "value": "[Cooking urns](http://runescape.wikia.com/wiki/Cooking_urn)\n• +400-1,547.5 experience per urn (depends on the level of urn used)\n• +500-1,934.375 if used with [Urn Enhancer](http://runescape.wikia.com/wiki/Urn_enhancer)"
+        "value": "[Cooking urns](https://runescape.wiki/w/Cooking_urn)\n• +400-1,547.5 experience per urn (depends on the level of urn used)\n• +500-1,934.375 if used with [Urn Enhancer](https://runescape.wiki/w/Urn_enhancer)"
       },
       {
         "name": "​",
-        "value": "[Brawling Gloves (Cooking)](http://runescape.wikia.com/wiki/Brawling_gloves_(Cooking)\n• A 50% XP boost is given anywhere outside of the Wilderness. However, the buff increases to 300% at level 47 Wilderness, just south of the fence. The gloves disintegrate after 1,031 successful cooking actions performed."
+        "value": "[Brawling Gloves (Cooking)](https://runescape.wiki/w/Brawling_gloves_(Cooking)\n• A 50% XP boost is given anywhere outside of the Wilderness. However, the buff increases to 300% at level 47 Wilderness, just south of the fence. The gloves disintegrate after 1,031 successful cooking actions performed."
       },
       {
         "name": "​",
-        "value": "• [Bonfires](http://runescape.wikia.com/wiki/Bonfire) are a great way of training cooking for both members and non-members. Cooking on a Bonfire will earn a player 10% more experience. Additionally, they can be freely placed, allowed the player to cook closer to a bank."
+        "value": "• [Bonfires](https://runescape.wiki/w/Bonfire) are a great way of training cooking for both members and non-members. Cooking on a Bonfire will earn a player 10% more experience. Additionally, they can be freely placed, allowed the player to cook closer to a bank."
       },
       {
         "name": "​",
-        "value": "• [Portable Ranges](http://runescape.wikia.com/wiki/Portable_range) are similar to bonfires and provide maximum convenience for banking. They provide 21% additional cooking experience when cooked on, have the same burn rates as a standard range, have a 5% chance of producing an additional food item (which is sent to the bank but does not provide any experience), and can be placed anywhere by the player, even right next to a bank. Each range lasts 5 minutes once placed and can either be purchased from the [Grand Exchange](http://runescape.wikia.com/wiki/Grand_Exchange) or obtained from Treasure Hunter. You can usually find a portable range being hosted somewhere, usually on world 84 at the [Combat Academy](http://runescape.wikia.com/wiki/Combat_Academy) in [Lumbridge](http://runescape.wikia.com/wiki/Lumbridge), north of the castle by the bank chest. This allows you to cook on the range without even moving from the spot in front of the bank chest."
+        "value": "• [Portable Ranges](https://runescape.wiki/w/Portable_range) are similar to bonfires and provide maximum convenience for banking. They provide 21% additional cooking experience when cooked on, have the same burn rates as a standard range, have a 5% chance of producing an additional food item (which is sent to the bank but does not provide any experience), and can be placed anywhere by the player, even right next to a bank. Each range lasts 5 minutes once placed and can either be purchased from the [Grand Exchange](https://runescape.wiki/w/Grand_Exchange) or obtained from Treasure Hunter. You can usually find a portable range being hosted somewhere, usually on world 84 at the [Combat Academy](https://runescape.wiki/w/Combat_Academy) in [Lumbridge](https://runescape.wiki/w/Lumbridge), north of the castle by the bank chest. This allows you to cook on the range without even moving from the spot in front of the bank chest."
       }
       ]
   }
