@@ -577,9 +577,34 @@ exports.data = {
       }
       ]
   },
+  "Raiders of Mazcab": {
+    "title": "Raiders of Mazcab",
+    "description":"Raider of Mazcab is a  Raids server that specializes in learner raids, along with hosting daily reset raids! With a strong leadership and ranks that have set requirements, teams will be formed and completed with assurance that each raid will be completed on the first time.",
+    "thumbnail": {
+      "url": "https://cdn.discordapp.com/icons/492308569908314112/efe0e116415a6767da0c3b4d5795bafe.webp"
+    },
+    "footer": {
+      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "text": "Achievement Help | Connecting our Helpful Communities!"
+    },
+    "author": {
+      "name": "Affiliate Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+          "fields": [
+      {
+        "name": "Invite Link:",
+        "value": "https://discord.gg/aBMDFWC"
+      },
+      {
+        "name": "Contact:",
+        "value": "<@207493968169009152>"
+      }
+      ]
+  },
     "Raids School": {
     "title": "Raids School",
-    "description":"Raids School - A teaching school for all of those who want to learn Raids. They teach 0 killcount and all roles.",
+    "description":"Raids School is a teaching school for all of those who want to learn Raids. They teach 0 killcount and all roles.",
     "thumbnail": {
       "url": "https://cdn.discordapp.com/icons/422634161312890881/35ac0548361770fdd9675d7132a3e35f.webp"
     },
@@ -599,6 +624,31 @@ exports.data = {
       {
         "name": "Contact:",
         "value": "<@151076881280663552> and <@326803450123780097>"
+      }
+      ]
+  },
+  "Rockman Discord":{
+    "title": "Rockman Discord | Vorago & Hard Mode Vorago Teams",
+    "description":"Hello, we are a friendly community Vorago discord. Here you can find teams, get help and learn Vorago. Intended for all levels of experience at the boss. Both learners and experienced PvMers alike are welcome to join and find teams. This discord is a convenient place to find both normal & hard mode teams.",
+    "thumbnail": {
+      "url": "https://cdn.discordapp.com/icons/493893847772954644/e406d4bf5e7f232a1cc47aa25f7b4a28.webp"
+    },
+    "footer": {
+      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "text": "Achievement Help | Connecting our Helpful Communities!"
+    },
+    "author": {
+      "name": "Affiliate Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+          "fields": [
+      {
+        "name": "Invite Link:",
+        "value": "https://discord.gg/Xr6mpyT"
+      },
+      {
+        "name": "Contact:",
+        "value": "<@196680261965053952> and <@217819569354571776>"
       }
       ]
   },
