@@ -306,8 +306,6 @@ exports.run = async (client, message, [skill, ...args], level) => { // eslint-di
 	}
 
 	if (pt == "true") return;
-	message.channel.send(rtnArr);
-	message.channel.send(fullArr);
 
 	if (rtnArr.length == 0 && pt == "false") {
 		return message.channel.send(`No results found for **${args.join(" ")}**.`);
