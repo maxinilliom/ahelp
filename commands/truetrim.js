@@ -73,7 +73,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 			if (category && cat !== category) {
 				o++;
 				if (o < x) list();
-                if (o == x) message.reply(`**${i}**/\**${keyList.length}** responses listed.\n\n${errMsg}`);
+        //if (o == x) message.reply(`**${i}**/\**${keyList.length}** responses listed.\n\n${errMsg}`);
 				return;
 			}
 			const guide = data[keyList[o]];
