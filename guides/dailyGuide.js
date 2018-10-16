@@ -54,7 +54,7 @@ exports.data = {
   },
   "bakriminel bolts": {
     "title": "Bakriminel Bolts",
-    "description": "[Bakriminel Bolts](runescape.wikia.com/wiki/Bakriminel_bolts) require 93 Fletching to make and can be made from [Bloodwood Logs](https://runescape.wiki/w/Bloodwood_logs), which are cut from [Bloodwood trees](https://runescape.wiki/w/Bloodwood_tree).\n\nBloodwood trees that are not located in the [Wilderness](https://runescape.wiki/w/Wilderness) typically yield a very small number of logs, usually 1-2 per yield. However, those in the Wilderness are significantly stronger and are likely to give more logs compared to their non-Wilderness counterparts. Note that 3 of the trees that are not locked behind quests are in the wilderness, so **do not** take anything you're not willing to lose.",
+    "description": "[Bakriminel Bolts](https://runescape.wiki/w/Bakriminel_bolts) require 93 Fletching to make and can be made from [Bloodwood Logs](https://runescape.wiki/w/Bloodwood_logs), which are cut from [Bloodwood trees](https://runescape.wiki/w/Bloodwood_tree).\n\nBloodwood trees that are not located in the [Wilderness](https://runescape.wiki/w/Wilderness) typically yield a very small number of logs, usually 1-2 per yield. However, those in the Wilderness are significantly stronger and are likely to give more logs compared to their non-Wilderness counterparts. Note that 3 of the trees that are not locked behind quests are in the wilderness, so **do not** take anything you're not willing to lose.",
     "url": "https://runescape.wiki/w/Bakriminel_bolts",
     "color": 12269891,
     "footer": {

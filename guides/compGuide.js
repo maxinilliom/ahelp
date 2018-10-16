@@ -1383,7 +1383,7 @@ exports.data = {
 				},
 				{
 					"name": "Balooning:",
-					"value": "• Each control always moves one \"space\" forward (horizontally to the right), and either up, down, or without change in altitude.\n• Drop sandbag: moves up two spaces (UP 2).\n• Burn log: moves up one space (UP 1).\n• Relax: moves forward (right), with no change in altitude (RIGHT).\n• Pull normal rope: moves down one space (DOWN 1).\n• Pull red rope: moves down two spaces (DOWN 2).\n• Bail: bails out the player from the balloon flight. (\"Crashes\" east of [Falador](https://runescape.wiki/w/Falador) and west of [Draynor Manor](runescape.wikia.com/wiki/Draynor_Manor).)\n"
+					"value": "• Each control always moves one \"space\" forward (horizontally to the right), and either up, down, or without change in altitude.\n• Drop sandbag: moves up two spaces (UP 2).\n• Burn log: moves up one space (UP 1).\n• Relax: moves forward (right), with no change in altitude (RIGHT).\n• Pull normal rope: moves down one space (DOWN 1).\n• Pull red rope: moves down two spaces (DOWN 2).\n• Bail: bails out the player from the balloon flight. (\"Crashes\" east of [Falador](https://runescape.wiki/w/Falador) and west of [Draynor Manor](https://runescape.wiki/w/Draynor_Manor).)\n"
 				},
 				{
 					"name": "Requirements:",

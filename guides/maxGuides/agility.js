@@ -176,12 +176,12 @@ exports.data = {
         "name": "​",
         "value": "[Shortcuts](https://runescape.wiki/w/Hefin_Agility_Course#Shortcuts) have a chance of spawning when a lap of the Hefin course is completed. These can be used to complete the next lap of the course more quickly. Players are notified by a message in their chatbox when a shortcut has spawned. The window shortcut appears at the end of the cliff obstacle and places the player before the zip line obstacle when used, bypassing the cathedral and roof obstacles. The light creature shortcut appears before the zip line obstacle and completes the course when used, bypassing the zip line obstacle. It is possible for both shortcuts to be present at the same time. Players should use shortcuts whenever possible, as they allow laps to be completed more quickly."
       },
-     {
+      {
         "name": "▬▬ Alternative Method: Levels 65-99+ ▬▬",
         "value": "Players should only continue to train at the [Wilderness Agility Course](https://runescape.wiki/w/Wilderness_Agility_Course) if they are using a [Demonic Skull](https://runescape.wiki/w/Demonic_skull). The demonic skull gives an additional 4% Agility experience for each Agility level the player has over level 50 Agility. Players gain at least double experience for doing the course from level 75 Agility onward, up to triple experience at level 99. At level 99 Agility players can gain around 137,000 experience an hour using a demonic skull at the Wilderness Agility Course."
       },
       {
-        "name": "▬▬ Going above and beyond ▬▬",
+        "name": "▬▬ Going Above and Beyond ▬▬",
         "value": "For more information on training past level 99, please visit our affiliate Discord server, [Skilling](https://discord.gg/EFrxgks)."
       }
     ]
@@ -226,6 +226,18 @@ exports.data = {
       {
         "name": "▬▬ Barbarian Assault ▬▬",
         "value": "Players can gain Agility bonus experience as a reward from playing the [Barbarian Assault]( https://runescape.wiki/w/Barbarian_Assault) minigame. At level 99 Agility, it is possible to gain 1,300,000 bonus experience per hour playing [hard mode](https://runescape.wiki/w/Barbarian_Assault:_Hard_Mode) Barbarian Assault waves 6-9, at a cost of 6 [Barbarian assault ticket - hard wave 10](https://runescape.wiki/w/Barbarian_assault_ticket_-_hard_wave_10) per hour. Players may, as an alternative, gain 920,000 bonus experience per hour playing hard mode waves 1-9 without having to pay for the tickets.\n\nIn order to play hard mode Barbarian Assault, the normal mode of the minigame must be completed at least once. It is highly recommended for players to reach maximum role levels before starting to play for bonus experience."
+      },
+      {
+        "name": "▬▬ Shifting Tombs ▬▬",
+        "value": "[Shifting Tombs](https://runescape.wiki/w/Shifting_Tombs) is a skilling [minigame](https://runescape.wiki/w/Minigame) that is accessed in [Menaphos](https://runescape.wiki/w/Menaphos) after the completion of the [The Jack of Spades](https://runescape.wiki/w/The_Jack_of_Spades) quest. Shifting Tombs allows players to gain experience in skills of their choosing by pledging allegiance to different gods. The four primary skill choices are Dungeoneering, Agility, Thieving, and Construction; players are able to choose whether they gain experience in all four skills or a particular one of them. In Shifting Tombs, there are 3 main objectives to be completed before the time limit of 5 minutes is reached, namely [opening sarcophagi](https://runescape.wiki/w/Shifting_Tombs#Opening_sarcophagi), [looting treasure chests](https://runescape.wiki/w/Shifting_Tombs#Looting_treasure_chests), and [cleansing corruption](https://runescape.wiki/w/Shifting_Tombs#Cleansing_corruption)."
+      },
+      { 
+        "name": "​", 
+        "value": "Rewards are obtained both throughout the Shifting Tomb itself, as well as after finishing a Shifting Tomb. The type of experience earned is determined by toggling statues and braziers inside the Shifting Tombs lobby. If, however, all statues are toggled off, [coins](https://runescape.wiki/w/Coins) are awarded instead after finishing a shifting tomb. A base value of experience is used when determining experience rewards, which is different for the different skills, and different for the different tiers. If multiple primary skills or multiple secondary skills are selected, then the experience awarded in those skills is split proportionally.\n\n**You must safely exit the tombs in order to fully reap the rewards from your time there.**"
+      },
+      {
+        "name": "▬▬ Agility Skill Training Dummies ▬▬",
+        "value": "The [Agility skill training dummy](https://runescape.wiki/w/Agility_skill_training_dummy) is a dummy won off of [Treasure Hunter](https://runescape.wiki/w/Treasure_Hunter). The dummy can be attacked and destroyed up to 5 times, after which, the dummy will disappear and a new one will need to be placed. Each time the dummy is destroyed, the player will receive a certain amount of Agility experience. Utilizing the dummy a fifth time will provide an extra amount of experience upon its destruction. "
       },
       {
         "name": "▬▬ Waiko Reward Shop ▬▬",
@@ -302,7 +314,7 @@ exports.data = {
   "distractions and diversions": { 
 "title": "Distractions and Diversions", 
 "url": "https://runescape.wiki/w/Distractions_and_Diversions", 
-"description": "D&Ds are a subclassification of minigames. However, unlike minigames many D&Ds move around the world to various locations, have a limit on how often they can be played, and only occur at particular times of day.\n\nDistractions and Diversions aim to divert the original intentions of the player in order to provide an interesting distraction from their everyday routines. D&Ds come in many different shapes and sizes; covering Combat, Gathering, Artisan, and Support skills. There are a wide variety of different options available to suit the players choice.", 
+"description": "D&Ds are a subclassification of [minigames](https://runescape.wiki/w/Minigames). However, unlike minigames many D&Ds move around the world to various locations, have a limit on how often they can be played, and only occur at particular times of day.\n\nDistractions and Diversions aim to divert the original intentions of the player in order to provide an interesting distraction from their everyday routines. D&Ds come in many different shapes and sizes; covering Combat, Gathering, Artisan, and Support skills. There are a wide variety of different options available to suit the players choice.", 
 "color": 12269891, 
 "footer": { 
 "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg", 
@@ -427,7 +439,7 @@ exports.data = {
     "fields": [
       {
         "name": "Agility Boosts:",
-        "value": "[Agility Cape](https://runescape.wiki/w/Agility_cape)\n • +1 to Agility for 1 minute\n\n[Spicy Stew](https://runescape.wiki/w/Spicy_stew)\n • Boost is applied to a random skill\n • Up to ±6 with 3 spice doses\n • Up to ±3 with 2 spice doses\n • Up to ±2 with 1 spice dose\n\n[God Banner](https://runescape.wiki/w/God_banner)\n• Exploration boost: +5 levels\n• The boost can be used once per day and lasts for 30 minutes\n\n[Jitterberry](https://runescape.wiki/w/Jitterberry)\n• +2 levels\n• Requires access to [The Arc](https://runescape.wiki/w/The_Arc)\n• Reduces Defence by 1 level\n\n[Tireless Run Scroll](https://runescape.wiki/w/Spirit_terrorbird#Tireless_run_scroll)\n• +2 levels\n• Special move of the [Spirit terrorbird](https://runescape.wiki/w/Spirit_terrorbird)\n\n[Agility Potion](https://runescape.wiki/w/Agility_potion)\n• +3 levels\n• [Mix](https://runescape.wiki/w/Agility_mix) version heals 600 life points per dose"
+        "value": "[Agility Cape](https://runescape.wiki/w/Agility_cape)\n• +1 to Agility for 1 minute\n\n[Spicy Stew](https://runescape.wiki/w/Spicy_stew)\n• Boost is applied to a random skill\n• Each color [spice](https://runescape.wiki/w/Spicy_stew#Spices) affects different skills\n• Up to ±6 with 3 spice doses\n• Up to ±3 with 2 spice doses\n• Up to ±2 with 1 spice dose\n\n[God Banner](https://runescape.wiki/w/God_banner)\n• Exploration boost: +5 levels\n• The boost can be used once per day and lasts for 30 minutes\n\n[Jitterberry](https://runescape.wiki/w/Jitterberry)\n• +2 levels\n• Requires access to [The Arc](https://runescape.wiki/w/The_Arc)\n• Reduces Defence by 1 level\n\n[Tireless Run Scroll](https://runescape.wiki/w/Spirit_terrorbird#Tireless_run_scroll)\n• +2 levels\n• Special move of the [Spirit terrorbird](https://runescape.wiki/w/Spirit_terrorbird)\n\n[Agility Potion](https://runescape.wiki/w/Agility_potion)\n• +3 levels\n• [Mix](https://runescape.wiki/w/Agility_mix) version heals 600 life points per dose"
       },
       {
         "name": "​",
@@ -439,7 +451,7 @@ exports.data = {
       },
       {
         "name": "​",
-        "value": "[Brawling Gloves (Agility)](https://runescape.wiki/w/Brawling_gloves_(Agility)\n• A 50% XP boost is given anywhere outside of the [Wilderness](https://runescape.wiki/w/Wilderness). However, the buff increases to 300% at level 47 Wilderness, just south of the fence. The gloves only last about 400 uses on any agility obstacle; this varies on what obstacle players decide to equip them. The gloves should only be worn during the last obstacle to prolong the use of a pair."
+        "value": "[Brawling Gloves (Agility)](https://runescape.wiki/w/Brawling_gloves_(Agility)\n• A 50% XP boost is given anywhere outside of the [Wilderness](https://runescape.wiki/w/Wilderness). However, the buff increases to 4x base experience at level 47 Wilderness, just south of the fence. The gloves only last about 400 uses on any agility obstacle; this varies on what obstacle players decide to equip them. The gloves should only be worn during the last obstacle to prolong the use of a pair."
       },
       {
         "name": "​",

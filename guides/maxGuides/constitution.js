@@ -41,7 +41,7 @@ exports.data = {
     },
     "fields": [
       {
-        "name": "▬▬ Going above and beyond ▬▬",
+        "name": "▬▬ Going Above and Beyond ▬▬",
         "value": "For more information on training past level 99, please visit our affiliate Discord server, [Skilling](https://discord.gg/EFrxgks)."
       }
        ]
@@ -85,15 +85,21 @@ exports.data = {
       "name": "Max Cape Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "fields": [
-
-    {
+    "fields": [{
       "name": "▬▬ Soul Wars ▬▬",
       "value": "[Soul Wars](https://runescape.wiki/w/Soul_Wars) is a team [minigame](https://runescape.wiki/w/Minigames) that lasts twenty minutes per game and can be played on any world. In Soul Wars, two opposing teams compete against each other to gather [Soul Fragments](https://runescape.wiki/w/Soul_fragment) and offer them to the [Soul Obelisk](https://runescape.wiki/w/Soul_obelisk_(Soul_Wars) in order to weaken, and ultimately defeat, each other's avatars through combat."
     },
     { 
       "name": "​", 
       "value": "Players will receive a number of [zeal](https://runescape.wiki/w/Zeal) based on their performance in the game, unless the player joined the waiting area after the game was past the half-way mark; in which case no zeal points are awarded. Players may trade these in with [Nomad](https://runescape.wiki/w/Nomad), [Zimberfizz](https://runescape.wiki/w/Zimberfizz), [Zimberfizz ashes](https://runescape.wiki/w/Zimberfizz_ashes), or [Zanik](https://runescape.wiki/w/Zanik) for a variety of [rewards](https://runescape.wiki/w/Soul_Wars/Rewards) such as experience, [charms](https://runescape.wiki/w/Charms), Slayer pets, and other items. Players can store a maximum of 50,000 Zeal points. This is equivalent to playing and winning 16,667 games."
+    },
+    {
+      "name": "▬▬ Combat Training Dummies ▬▬",
+      "value": "The [Melee Training Dummy](https://runescape.wiki/w/Melee_training_dummy) is a dummy won off of [Treasure Hunter](https://runescape.wiki/w/Treasure_Hunter). The dummy can be attacked and destroyed up to 5 times, after which, the dummy will disappear and a new one will need to be placed. Each time the dummy is destroyed, the player will receive a certain amount of Constitution experience, as well as experience in a Melee skill of choice. Utilizing the dummy a fifth time will provide an extra amount of experience upon its destruction."
+    },
+    {
+      "name": "▬▬ Slayer ▬▬",
+      "value": "Slayer is a support skill involving the use of combat. Players are assigned specific monsters to kill, which grant both combat and Slayer experience per kill. These assignments are given out by one of the eight [Slayer Masters](https://runescape.wiki/w/Slayer_Master). It is highly recommended to train all combat skills through Slayer, especially if a player is working towards the [Max Cape](https://runescape.wiki/w/Max_cape). You can view this discord's <#431118435792060417> guide on the best ways to train it."
     }
       ]
   },
@@ -128,7 +134,7 @@ exports.data = {
       },
       {
         "name": "Formula:",
-        "value": "Gaining this pet is based on the amount of experience awarded at once; the more experience granted per item made, the greater the chance of gaining this pet. The chance is not affected by experience boosters.\n\nThe formula for combat pets is currently unknown."
+        "value": "Gaining this pet is based on the amount of experience awarded at once; the more experience granted per creature killed, the greater the chance of gaining this pet. The chance is not affected by experience boosters.\n\nThe formula for combat pets is currently unknown."
       }
       ]
   },
@@ -158,7 +164,7 @@ exports.data = {
   "distractions and diversions": { 
 "title": "Distractions and Diversions", 
 "url": "https://runescape.wiki/w/Distractions_and_Diversions", 
-"description": "D&Ds are a subclassification of minigames. However, unlike minigames many D&Ds move around the world to various locations, have a limit on how often they can be played, and only occur at particular times of day.\n\nDistractions and Diversions aim to divert the original intentions of the player in order to provide an interesting distraction from their everyday routines. D&Ds come in many different shapes and sizes; covering Combat, Gathering, Artisan, and Support skills. There are a wide variety of different options available to suit the players choice.", 
+"description": "D&Ds are a subclassification of [minigames](https://runescape.wiki/w/Minigames). However, unlike minigames many D&Ds move around the world to various locations, have a limit on how often they can be played, and only occur at particular times of day.\n\nDistractions and Diversions aim to divert the original intentions of the player in order to provide an interesting distraction from their everyday routines. D&Ds come in many different shapes and sizes; covering Combat, Gathering, Artisan, and Support skills. There are a wide variety of different options available to suit the players choice.", 
 "color": 12269891, 
 "footer": { 
 "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg", 
@@ -181,7 +187,7 @@ exports.data = {
   "daily challenge": {
     "title": "Daily Challenge",
     "url": "https://runescape.wiki/w/Challenge_XP_Lamp",
-    "description": "Completing a daily challenge for Combat will give experience, depending on the player's level. A lamp will be given upon completion, and a player can choose between the six combat skills in which to receive experience.\n\nPlayers can be assigned challenges below their combat level. The challenge will consist of killing creatures of a certain combat level or the [Barrows Brothers](https://runescape.wiki/w/Barrows), [Giant Mole](https://runescape.wiki/w/Giant_mole), or [God Wars Dungeon](https://runescape.wiki/w/God_Wars_Dungeon) generals or mobs. Look for more appropriate monsters from the [Bestiary](https://runescape.wiki/w/Bestiary). Dungeoneering can also be used for rampage challenges.",
+    "description": "Completing a daily challenge for Combat will give experience, depending on the player's level. A lamp will be given upon completion and a player can choose between the six combat skills in which to receive experience.\n\nPlayers can be assigned challenges below their combat level. The challenge will consist of killing creatures of a certain combat level or the [Barrows Brothers](https://runescape.wiki/w/Barrows), [Giant Mole](https://runescape.wiki/w/Giant_mole), or [God Wars Dungeon](https://runescape.wiki/w/God_Wars_Dungeon) generals or mobs. Look for more appropriate monsters from the [Bestiary](https://runescape.wiki/w/Bestiary). Dungeoneering can also be used for rampage challenges.",
         "color": 12269891,
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",

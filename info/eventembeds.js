@@ -381,7 +381,7 @@ exports.data = {
          },
          {  
             "name":"​What is Needed:",
-            "value":"• Any gear is permitted. [Tier](https://runescape.wiki/w/Equipment_tier) 70+ armor and weapon are recommended and appreciated, though not required. The better the tier, the better chance you have of surviving and the faster the kills.  Range or mage are highly encouraged.\n• A charge [Frozen key](https://runescape.wiki/w/Frozen_key)\n• Either 40 Zarosian kills or a set of [Ancient ceremonial robes](runescape.wikia.com/wiki/Ancient_ceremonial_robes)."
+            "value":"• Any gear is permitted. [Tier](https://runescape.wiki/w/Equipment_tier) 70+ armor and weapon are recommended and appreciated, though not required. The better the tier, the better chance you have of surviving and the faster the kills.  Range or mage are highly encouraged.\n• A charged [Frozen key](https://runescape.wiki/w/Frozen_key)\n• Either 40 Zarosian kills or a set of [Ancient ceremonial robes](https://runescape.wiki/w/Ancient_ceremonial_robes)."
          },
          {  
             "name":"​How Drops Work:",
@@ -422,7 +422,7 @@ exports.data = {
          },
          {  
             "name":"​What is Needed:",
-            "value":"• Any gear is permitted. [Tier](https://runescape.wiki/w/Equipment_tier) 80+ armor and weapon are recommended and appreciated, though not required. The better the tier, the better chance you have of surviving and the faster the kills.  Range or mage are highly encouraged.\n• A charge [Frozen key](https://runescape.wiki/w/Frozen_key)\n• Either 40 Zarosian kills or a set of [Ancient ceremonial robes](runescape.wikia.com/wiki/Ancient_ceremonial_robes)."
+            "value":"• Any gear is permitted. [Tier](https://runescape.wiki/w/Equipment_tier) 80+ armor and weapon are recommended and appreciated, though not required. The better the tier, the better chance you have of surviving and the faster the kills.  Range or mage are highly encouraged.\n• A charged [Frozen key](https://runescape.wiki/w/Frozen_key)\n• Either 40 Zarosian kills or a set of [Ancient ceremonial robes](https://runescape.wiki/w/Ancient_ceremonial_robes)."
          },
          {  
             "name":"​How Drops Work:",

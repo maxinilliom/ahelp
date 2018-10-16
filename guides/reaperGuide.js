@@ -58,7 +58,7 @@ exports.data = {
                     "name": "Boss Reaper Kill Info",
                     "icon_url": "https://i.imgur.com/6c6q2iC.png"
                 },
-                "description": "[Araxxor](https://runescape.wiki/w/Araxxor) is an enormous [araxyte](https://runescape.wiki/w/Araxyte) spider who lives in the [Araxyte lair](runescape.wikia.com/wiki/Araxyte_lair), a cave beneath the [Haunted Woods](https://runescape.wiki/w/Haunted_Woods), just south of [Port Phasmatys](https://runescape.wiki/w/Port_Phasmatys).",
+                "description": "[Araxxor](https://runescape.wiki/w/Araxxor) is an enormous [araxyte](https://runescape.wiki/w/Araxyte) spider who lives in the [Araxyte lair](https://runescape.wiki/w/Araxyte_lair), a cave beneath the [Haunted Woods](https://runescape.wiki/w/Haunted_Woods), just south of [Port Phasmatys](https://runescape.wiki/w/Port_Phasmatys).",
                 "thumbnail": {
                     "url": "https://vignette.wikia.nocookie.net/runescape2/images/f/f2/Araxxor.png/revision/latest?cb=20140729225744"
                 },
@@ -151,7 +151,7 @@ exports.data = {
                 },
                 {
                     "name": "Attack 3:",
-                    "value": "Occasionally she will select a player as a [wyrmhole](runescape.wikia.com/wiki/Wyrmhole) anchor, with a small bar appearing above the selected players head. Once it fills, the wyrmhole appears, which deals increasing damage to anyone standing on it.\n\nA [neutron star](https://runescape.wiki/w/Neutron_star) will then appear sometime later, which must be lured into the wyrmhole to stabilize it. Stand on the edge of or on the converted wyrmhole, as she gains a massive defensive boost if attacked outside of the wyrmhole. Standing in or around it will bypass this boost, allowing players to deal significantly extra damage against her.\n\nShould a neutron touch a player, it will explode and deal 5,000 damage to everyone in the room. It is recommended to place the wyrmholes between two sections so that the celestial rain does not cover it completely. An example of this may be found [here](https://cdn.discordapp.com/attachments/409858098015109129/486725923669016586/unknown.png)."
+                    "value": "Occasionally she will select a player as a [wyrmhole](https://runescape.wiki/w/Wyrmhole) anchor, with a small bar appearing above the selected players head. Once it fills, the wyrmhole appears, which deals increasing damage to anyone standing on it.\n\nA [neutron star](https://runescape.wiki/w/Neutron_star) will then appear sometime later, which must be lured into the wyrmhole to stabilize it. Stand on the edge of or on the converted wyrmhole, as she gains a massive defensive boost if attacked outside of the wyrmhole. Standing in or around it will bypass this boost, allowing players to deal significantly extra damage against her.\n\nShould a neutron touch a player, it will explode and deal 5,000 damage to everyone in the room. It is recommended to place the wyrmholes between two sections so that the celestial rain does not cover it completely. An example of this may be found [here](https://cdn.discordapp.com/attachments/409858098015109129/486725923669016586/unknown.png)."
                 },
                 {
                     "name": "Attack 4:",
@@ -666,7 +666,7 @@ exports.data = {
                     "name": "Boss Reaper Kill Info",
                     "icon_url": "https://i.imgur.com/6c6q2iC.png"
                 },
-                "description": "[Gregorovic](https://runescape.wiki/w/Gregorovic), also known as The Faceless One, is the general of [Sliske](runescape.wikia.com/wiki/Sliske)'s army in the [Heart of Gielinor](https://runescape.wiki/w/Heart_of_Gielinor).",
+                "description": "[Gregorovic](https://runescape.wiki/w/Gregorovic), also known as The Faceless One, is the general of [Sliske](https://runescape.wiki/w/Sliske)'s army in the [Heart of Gielinor](https://runescape.wiki/w/Heart_of_Gielinor).",
                 "thumbnail": {
                     "url": "https://vignette.wikia.nocookie.net/runescape2/images/7/71/Gregorovic.png/revision/latest?cb=20160402211348"
                 },
@@ -853,7 +853,7 @@ exports.data = {
                 },
                 {
                     "name": "Ranged Attacks:",
-                    "value": "This phase is signified by the Kalphite King's wings being colored green. In this state, the King is weak to stab attacks and does not perform his charge and impale attacks.\n\n• **Standard attack**: The king will fire an attack that looks like the [Kalphite Queen](runescape.wikia.com/wiki/Kalphite_Queen)'s ranged attack. This attack can cause a damage over time effect similar to the [Fragmentation Shot](https://runescape.wiki/w/Fragmentation_Shot). Sometimes they will appear with [stun](https://runescape.wiki/w/Stun) darts, although at other times (like the start of this phase) the King will use this attack right after the darts."
+                    "value": "This phase is signified by the Kalphite King's wings being colored green. In this state, the King is weak to stab attacks and does not perform his charge and impale attacks.\n\n• **Standard attack**: The king will fire an attack that looks like the [Kalphite Queen](https://runescape.wiki/w/Kalphite_Queen)'s ranged attack. This attack can cause a damage over time effect similar to the [Fragmentation Shot](https://runescape.wiki/w/Fragmentation_Shot). Sometimes they will appear with [stun](https://runescape.wiki/w/Stun) darts, although at other times (like the start of this phase) the King will use this attack right after the darts."
                 },
                 {
                     "name": "​",
@@ -1194,7 +1194,7 @@ exports.data = {
                     "name": "Boss Reaper Kill Info",
                     "icon_url": "https://i.imgur.com/6c6q2iC.png"
                 },
-                "description": "[Nex: Angel of Death](https://runescape.wiki/w/Nex:_Angel_of_Death) is a successor to the original [Nex](https://runescape.wiki/w/Nex) boss fight. The entrance to her arena is a hidden door found on the south wall of the original Nex's lobby area, which requires a [Frozen key](https://runescape.wiki/w/Frozen_key) and either 40 Zarosian kills or a set of [Ancient ceremonial robes](runescape.wikia.com/wiki/Ancient_ceremonial_robes)",
+                "description": "[Nex: Angel of Death](https://runescape.wiki/w/Nex:_Angel_of_Death) is a successor to the original [Nex](https://runescape.wiki/w/Nex) boss fight. The entrance to her arena is a hidden door found on the south wall of the original Nex's lobby area, which requires a [Frozen key](https://runescape.wiki/w/Frozen_key) and either 40 Zarosian kills or a set of [Ancient ceremonial robes](https://runescape.wiki/w/Ancient_ceremonial_robes)",
                 "thumbnail": {
                     "url": "https://vignette.wikia.nocookie.net/runescape2/images/2/2b/Nex_%28Angel_of_Death%29.png/revision/latest?cb=20170130192323"
                 },
@@ -1259,7 +1259,7 @@ exports.data = {
     "queen black dragon pt1": {  
       "title":"Queen Black Dragon",
       "url":"https://runescape.wiki/w/Queen_Black_Dragon",
-      "description":"The [Queen Black Dragon](https://runescape.wiki/w/Queen_Black_Dragon) is a very powerful dragon slumbering at the bottom of the [Grotworm Lair](https://runescape.wiki/w/Grotworm_Lair). Completing the [Song from the Depths](https://runescape.wiki/w/Song_from_the_Depths#Rewards) reduces incoming damage from the Quenn Black Dragon.",
+      "description":"The [Queen Black Dragon](https://runescape.wiki/w/Queen_Black_Dragon) is a very powerful dragon slumbering at the bottom of the [Grotworm Lair](https://runescape.wiki/w/Grotworm_Lair). Completing the [Song from the Depths](https://runescape.wiki/w/Song_from_the_Depths#Rewards) reduces incoming damage from the Queen Black Dragon.",
       "url":"https://runescape.wiki/w/Queen_Black_Dragon",
       "thumbnail":{  
          "url":"https://vignette.wikia.nocookie.net/runescape2/images/e/ef/Queen_Black_Dragon.png/revision/latest?cb=20130512015221"
