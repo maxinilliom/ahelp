@@ -242,11 +242,11 @@ exports.data = {
       },            
       {
         "name": "​",
-        "value": "**Clue Presets**\n\n\t- [Master Clues](https://cdn.discordapp.com/attachments/426541438369792012/492140745789276160/unknown.png)\n\n\t- [Elite Clues](https://cdn.discordapp.com/attachments/426541438369792012/492140832875610113/unknown.png)\n\n\t- [Hard Clues](https://cdn.discordapp.com/attachments/426541438369792012/492141057769865227/unknown.png) (empty space at the bottom is for the hard casket)\nBy: <@177599043118039040>"
+        "value": "**Clue Presets**\n\t- [Master Clues](https://cdn.discordapp.com/attachments/426541438369792012/492140745789276160/unknown.png)\n\t- [Elite Clues](https://cdn.discordapp.com/attachments/426541438369792012/492140832875610113/unknown.png)\n\t- [Hard Clues](https://cdn.discordapp.com/attachments/426541438369792012/492141057769865227/unknown.png) (empty space at the bottom is for the hard casket)\nBy: <@177599043118039040>"
       },
       {
         "name": "​",
-        "value": "**Item Street Prices**\n\n\t- [Discontinued Items](http://services.runescape.com/m=forum/forums.ws?17,18,589,66050038)\n\n\tBy Lyra\n\n\t- [High Level Weapons](http://services.runescape.com/m=forum/forums.ws?17,18,673,66031411)\n\n\tBy Mr Moneyhold\n\n\t- [Codex Items](http://services.runescape.com/m=forum/forums.ws?17,18,106,66034614)\n\n\tBy DeathHunterX\n\n\t- [Treasure Trail Items](http://services.runescape.com/m=forum/forums.ws?17,18,706,66007326)\n\n\tBy Dr Sid PhD\n\n\t- [HSR and Miscellaneous items](http://services.runescape.com/m=forum/forums.ws?17,18,322,65901606)\n\n\t By J T V"
+        "value": "**Item Street Prices**\n\t- [Discontinued Items](http://services.runescape.com/m=forum/forums.ws?17,18,589,66050038)\n\tBy Lyra\n\t- [High Level Weapons](http://services.runescape.com/m=forum/forums.ws?17,18,673,66031411)\n\tBy Mr Moneyhold\n\t- [Codex Items](http://services.runescape.com/m=forum/forums.ws?17,18,106,66034614)\n\tBy DeathHunterX\n\t- [Treasure Trail Items](http://services.runescape.com/m=forum/forums.ws?17,18,706,66007326)\n\tBy Dr Sid PhD\n\t- [HSR and Miscellaneous items](http://services.runescape.com/m=forum/forums.ws?17,18,322,65901606)\n\t By J T V"
       }
       ]
   },
