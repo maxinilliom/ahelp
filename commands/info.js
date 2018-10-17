@@ -4,7 +4,7 @@ const readdir = promisify(require("fs").readdir);
 
 exports.run = (client, message, args, level) => {
 	const type = args[0].toLowerCase();
-	if (!["affiliate","event","fc","role"].includes(type)) return message.channel.send('Incorrect argument provided.');
+	if (!["affiliate","event","fc","misc","role"].includes(type)) return message.channel.send('Incorrect argument provided.');
 	const { data } = require(`../info/${type}.js`);
 	const embeds = Object.getOwnPropertyNames(data);
 	let i = 0, o = 0, x = embeds.length, errMsg = "";
