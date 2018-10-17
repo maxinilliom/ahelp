@@ -24,6 +24,9 @@ exports.run = (client, message, args, level) => {
 				case "fc":
 					curr.color = 8924979;
 					break;
+				case "misc":
+					curr.color = 2336356;
+					break;
 				case "role":
 					curr.color = 5011162;
 					break;
