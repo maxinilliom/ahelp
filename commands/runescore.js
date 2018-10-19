@@ -61,14 +61,19 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 		});
 
 		let category = args[1] ? args[1].toLowerCase() : undefined
+		let fin;
 		if (!cats.includes(category)) category = undefined;
 		//add category header switch here
 		async function list() {
 			const [cat, sub, ach] = keyList[o].split(" - ");
+			if (fin) return;
 			if (category && cat !== category) {
 				o++;
+        if (o == x) {
+        	message.reply(`**${i}**/\**${keyList.length}** responses listed.\n\n${errMsg}`);
+        	fin = "true";
+        }
 				if (o < x) list();
-        //if (o == x) message.reply(`**${i}**/\**${keyList.length}** responses listed.\n\n${errMsg}`);
 				return;
 			}
 			const guide = data[keyList[o]];
