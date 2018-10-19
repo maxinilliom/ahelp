@@ -66,20 +66,29 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 	    });
       
 		let category = args[1] ? args[1].toLowerCase() : undefined;
+		let fin;
 		if (!cats.includes(category)) category = undefined;
 		//add category header image switch here
 		async function list() {
 			const [cat, sub, ach] = keyList[o].split(" - ");
+			if (fin) return;
 			if (category && cat !== category) {
 				o++;
+        if (o == x) {
+	      	const query = data.query;
+			  	query.color = color;
+			  	query.timestamp = new Date();
+			  	await message.channel.send("", {embed: query});
+			  	message.reply(`**${i}**/\**${keyList.length}** responses listed.\n\n${errMsg}`);
+        	fin = "true";
+        }
 				if (o < x) list();
-        //if (o == x) message.reply(`**${i}**/\**${keyList.length}** responses listed.\n\n${errMsg}`);
 				return;
 			}
 			const guide = data[keyList[o]];
 			guide.color = color;
 		    if (guide.author) guide.author.name = name;
-      		if (guide.footer) guide.footer = footer;
+    		if (guide.footer) guide.footer = footer;
 		    if (guide.timestamp) guide.timestamp = new Date();
 			try {
 				await message.channel.send("", {embed: guide});
