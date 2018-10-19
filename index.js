@@ -11,7 +11,7 @@ require("./modules/functions.js")(client);
 client.commands = new Enmap();
 client.aliases = new Enmap();
 client.settings = new Enmap({provider: new EnmapLevel({name: "settings"})});
-client.guideList = new Enmap({provider: new EnmapLevel({name: "settings"})});
+client.guideList = new Enmap({provider: new EnmapLevel({name: "guideList"})});
 client.maxGuides = [];
 client.newUsers = new Discord.Collection();
 client.welcomeTimer = {};
