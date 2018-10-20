@@ -86,7 +86,7 @@ module.exports = (client) => {
 	  text = await text;
 	if (typeof evaled !== "string")
 	  text = require("util").inspect(text, {depth: 0});
-//	if (text.toLowerCase().includes("error")) text = text.split("\n", 1)[0]; 
+	if (text.toLowerCase().includes("error")) text = text.split("\n", 1)[0]; 
 	text = text
 		.replace(/`/g, "`" + String.fromCharCode(8203))
 		.replace(/@/g, "@" + String.fromCharCode(8203))
