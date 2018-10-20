@@ -2,6 +2,7 @@ const { inspect } = require("util");
 const { promisify } = require("util");
 const readdir = promisify(require("fs").readdir);
 const { data } = require("../guides/compGuide.js");
+const gl = client.guideList;
 //const data = "";
 
 	/* const { something } = require("something");
@@ -23,6 +24,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 	let pt = "false";
 	const name = "Completionist Cape Info";
 	const color = 16316664;
+	const msgArr = [];
 
 	if (message.channel.id !== '382701090430386180' && level < 2) return;
 
@@ -33,24 +35,25 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 
 	if (args[0].toLowerCase() == "all" && level >= 2) {
 		let i = 0, o = 0, x = keyList.length, errMsg = "";
+		if (!gl.has('comp')) gl.set('comp', msgArr)
 		await message.channel.send({
 		  files: [{
 			attachment: 'media/img/guides/break.png',
 			name: 'break.png'
 		  }]
-		});
+		}).then(m => msgArr.push(m.id));
 		await message.channel.send({
 		  files: [{
 			attachment: 'media/img/guides/compheader.png',
 			name: 'Comp cape header.png'
 		  }]
-		});
+		}).then(m => msgArr.push(m.id));
 		  await message.channel.send({
 		  files: [{
 			attachment: 'media/img/guides/break.png',
 			name: 'break.png'
 		  }]
-		});
+		}).then(m => msgArr.push(m.id));
 		  
 		async function list() {
 			const guide = data[keyList[o]].embed;
@@ -58,7 +61,8 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 			if (guide.author) guide.author.name = name;
 			if (guide.timestamp) guide.timestamp = new Date();
 			try {
-				await message.channel.send("", {embed: guide});
+				await message.channel.send("", {embed: guide})
+					.then(m => msgArr.push(m.id));
 			} catch (err) {
 				errMsg += `${o}. ${keyList[o]} failed to send with error: ${err}\n`;
 				i--;
@@ -67,11 +71,13 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 			o++;
 			if (o < x) setTimeout(list, 1000);
 			if (o == x) {
-            	const query = data.cquery.embed;
+          const query = data.cquery.embed;
 			  	query.color = color;
 			  	query.timestamp = new Date();
-			  	await message.channel.send("", {embed: query});
+			  	await message.channel.send("", {embed: query})
+			  		.then(m => msgArr.push(m.id));
 			  	message.reply(`**${i}**/\**${keyList.length}** responses listed.\n\n${errMsg}`);
+			  	message.channel.send('All message IDs saved.')
 			}
 		}
 		list();
