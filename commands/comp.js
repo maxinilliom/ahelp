@@ -2,7 +2,6 @@ const { inspect } = require("util");
 const { promisify } = require("util");
 const readdir = promisify(require("fs").readdir);
 const { data } = require("../guides/compGuide.js");
-const gl = client.guideList;
 //const data = "";
 
 	/* const { something } = require("something");
@@ -24,6 +23,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 	let pt = "false";
 	const name = "Completionist Cape Info";
 	const color = 16316664;
+	const gl = client.guideList;
 	const msgArr = [];
 
 	if (message.channel.id !== '382701090430386180' && level < 2) return;
