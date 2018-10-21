@@ -76,6 +76,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 			  	query.timestamp = new Date();
 			  	await message.channel.send("", {embed: query})
 			  		.then(m => msgArr.push(m.id));
+			  	gl.set('comp', msgArr);
 			  	message.reply(`**${i}**/\**${keyList.length}** responses listed.\n\n${errMsg}`);
 			  	message.channel.send('All message IDs saved.')
 			}
