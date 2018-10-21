@@ -84,6 +84,27 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 		return message.delete();
 	}
 
+	if (args[0].toLowerCase() == "clear" && level >= 2) {
+		const cl = gl.get('comp');
+		let i = 0, o = 0, x = cl.length, errMsg = "";
+		async function clear() {
+			const id = cl[o];
+			await message.channel.fetchMessage(id)
+				.then(msg => msg.delete())
+				.catch(err => {
+					errMsg += `${o} failed with error: ${err}\n`;
+					i--;
+				});
+				i++;
+				o++;
+
+			if (o < x) await client.wait(1500);
+			if (o == x) await message.channel.send(`**${i}**/\**${x}** messages removed.\n\n${errMsg}`);
+		}
+		clear();
+		return message.delete();
+	}
+
 	if (args[0].toLowerCase() == "help") {
 		let output = "";
 		let second = "";
