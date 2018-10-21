@@ -89,12 +89,15 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 		let i = 0, o = 0, x = cl.length, errMsg = "";
 		async function clear() {
 			const id = cl[o];
-			await message.channel.fetchMessage(id)
-				.then(msg => msg.delete())
-				.catch(err => {
+			try {
+				await message.channel.fetchMessage(id)
+					.then(msg => msg.delete());
+				console.log(`${o} deleted.`);
+				} catch (err) {
+					console.log(err);
 					errMsg += `${o} failed with error: ${err}\n`;
 					i--;
-				});
+				};
 				i++;
 				o++;
 
