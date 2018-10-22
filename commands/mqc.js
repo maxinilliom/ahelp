@@ -23,6 +23,8 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 	let pt = "false";
 	const name = "Master Quest Cape Info";
 	const color = 8113151;
+	const gl = client.guideList;
+	const msgArr = [];
 
 	if (message.channel.id !== '382701090430386180' && level < 2) return;
 
@@ -34,48 +36,87 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 
 	if (args[0].toLowerCase() == "all" && level >= 2) {
     let i = 0, o = 0, x = keyList.length, errMsg = "";
+		if (!gl.has('comp')) gl.set('comp', msgArr);
 		await message.channel.send({
 		  files: [{
 			attachment: 'media/img/guides/break.png',
 			name: 'break.png'
 		  }]
-		});
+		}).then(m => msgArr.push(m.id));
 		await message.channel.send({
 		  files: [{
 			attachment: 'media/img/guides/mqcheader.png',
 			name: 'Master quest cape header.png'
 		  }]
-		});
+		}).then(m => msgArr.push(m.id));
 		  await message.channel.send({
 		  files: [{
 			attachment: 'media/img/guides/break.png',
 			name: 'break.png'
 		  }]
-		});
+		}).then(m => msgArr.push(m.id));
 		  
     async function list() {
-      const guide = data[keyList[o]].embed;
-      guide.color = color;
-	  if (guide.author) guide.author.name = name;
-	  if (guide.timestamp) guide.timestamp = new Date();
-	  try {
-		  await message.channel.send("", {embed: guide});
-	  } catch (err) {
-		  errMsg += `${o}. ${keyList[o]} failed to send with error: ${err}\n`;
-		  i--;
-	  }
+	    const guide = data[keyList[o]].embed;
+	    guide.color = color;
+		  if (guide.author) guide.author.name = name;
+		  if (guide.timestamp) guide.timestamp = new Date();
+		  try {
+			  await message.channel.send("", {embed: guide})
+			  	.then(m => msgArr.push(m.id));
+		  } catch (err) {
+			  errMsg += `${o}. ${keyList[o]} failed to send with error: ${err}\n`;
+			  i--;
+		  }
       i++;
       o++;
       if (o < x) setTimeout(list, 1000);
-	  if (o == x) {
-        	const query = data.mquery.embed;
+	  	if (o == x) {
+	    	const query = data.mquery.embed;
 		  	query.color = color;
 		  	query.timestamp = new Date();
-		  	await message.channel.send("", {embed: query});
-		  	message.reply(`**${i}**/\**${keyList.length}** responses listed.\n\n${errMsg}`);
-		}
+		  	await message.channel.send("", {embed: query})
+		  		.then(m => msgArr.push(m.id));
+		  	gl.set('', msgArr);
+		  	await message.reply(`**${i}**/\**${keyList.length}** responses listed.\n\n${errMsg}`)
+	  			.then(m => m.delete(10000));
+		  	await message.channel.send('All message IDs saved.')
+		  		.then(m => m.delete(5000));
+			}
     }
     list();
+		return message.delete();
+	}
+
+	if (args[0].toLowerCase() == "clear" && level >= 2) {
+		if (!gl.has('mqc')) return message.channel.send('No messages are currently stored for **mqc**.');
+		const cl = gl.get('mqc');
+		let i = 0, o = 0, x = cl.length, errMsg = "";
+		async function clear() {
+			const id = cl[o];
+			try {
+				await message.channel.fetchMessage(id)
+					.then(msg => msg.delete());
+				} catch (err) {
+					errMsg += `${o} failed with error: ${err}\n`;
+					i--;
+				};
+				i++;
+				o++;
+
+			if (o < x) {
+				await client.wait(1500);
+				clear();
+			}
+			if (o == x) {
+				await message.channel.send(`**${i}**/\**${x}** messages removed.\n\n${errMsg}`)
+					.then(m => m.delete(10000));
+				gl.delete('mqc');
+				await message.channel.send('All **mqc** guides deleted from memory.')
+					.then(m => m.delete(5000));
+			}
+		}
+		clear();
 		return message.delete();
 	}
 

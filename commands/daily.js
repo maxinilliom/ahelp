@@ -10,6 +10,8 @@ exports.run = async (client, message, args, level) => {
         "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/3/30/Coins_10000.png/revision/latest",
         "text": "Money, money, money, Lovely money!"
       };
+	const gl = client.guideList;
+	const msgArr = [];
 
 	if (message.channel.id !== '382701090430386180' && level < 2) return;
 
@@ -21,24 +23,25 @@ exports.run = async (client, message, args, level) => {
 
 	if (args[0].toLowerCase() == "all" && level >= 2) {
     let i = 0, o = 0, x = keyList.length, errMsg = "";
+		if (!gl.has('daily')) gl.set('daily', msgArr);
 		await message.channel.send({
 		  files: [{
 			attachment: 'media/img/guides/break.png',
 			name: 'break.png'
 		  }]
-		});
+		}).then(m => msgArr.push(m.id));
 		await message.channel.send({
 		  files: [{
 			attachment: 'media/img/guides/dailyheader.png',
 			name: 'Daily Money header.png'
 		  }]
-		});
+		}).then(m => msgArr.push(m.id));
 		  await message.channel.send({
 		  files: [{
 			attachment: 'media/img/guides/break.png',
 			name: 'break.png'
 		  }]
-		});
+		}).then(m => msgArr.push(m.id));
 		  
     async function list() {
       const guide = data[keyList[o]];
@@ -47,23 +50,61 @@ exports.run = async (client, message, args, level) => {
       guide.footer = footer;
       guide.timestamp = new Date();
       try {
-				message.channel.send("", {embed: guide});
+				await message.channel.send("", {embed: guide})
+					.then(m => msgArr.push(m.id));
 			} catch (err) {
 				errMsg += `${o}. ${keyList[o]} failed to send with error: ${err}\n`;
 				i--;
 			}
       i++;
       o++;
-      if (o < x) setTimeout(list, 2500);
+      if (o < x) setTimeout(list, 2000);
 			if (o == x) {
       	const query = data.query;
 		  	query.color = color;
 		  	query.timestamp = new Date();
-		  	await message.channel.send("", {embed: query});
-		  	message.reply(`**${i}**/\**${keyList.length}** responses listed.\n\n${errMsg}`);
+		  	await message.channel.send("", {embed: query})
+					.then(m => msgArr.push(m.id));
+				gl.set('daily', msgArr);
+		  	await message.reply(`**${i}**/\**${keyList.length}** responses listed.\n\n${errMsg}`)
+		  		.then(m => m.delete(10000));
+		  	await message.channel.send('All message IDs saved.')
+		  		.then(m => m.delete(5000));
 		  }
     }
     list();
+		return message.delete();
+	}
+
+	if (args[0].toLowerCase() == "clear" && level >= 2) {
+		if (!gl.has('daily')) return message.channel.send('No messages are currently stored for **daily**.');
+		const cl = gl.get('daily');
+		let i = 0, o = 0, x = cl.length, errMsg = "";
+		async function clear() {
+			const id = cl[o];
+			try {
+				await message.channel.fetchMessage(id)
+					.then(msg => msg.delete());
+				} catch (err) {
+					errMsg += `${o} failed with error: ${err}\n`;
+					i--;
+				};
+				i++;
+				o++;
+
+			if (o < x) {
+				await client.wait(1500);
+				clear();
+			}
+			if (o == x) {
+				await message.channel.send(`**${i}**/\**${x}** messages removed.\n\n${errMsg}`)
+					.then(m => m.delete(10000));
+				gl.delete('daily');
+				await message.channel.send('All **daily** guides deleted from memory.')
+					.then(m => m.delete(5000));
+			}
+		}
+		clear();
 		return message.delete();
 	}
 

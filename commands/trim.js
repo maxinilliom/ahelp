@@ -23,6 +23,8 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 	let pt = "false";
 	const name = "Trimmed Completionist Cape Info";
 	const color = 16430082;
+	const gl = client.guideList;
+	const msgArr = [];
 
 	if (message.channel.id !== '382701090430386180' && level < 2) return;
 
@@ -32,25 +34,26 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 	if (!args[0]) return message.channel.send(`Please specify a valid achievement name.`);
 
 	if (args[0].toLowerCase() == "all" && level >= 2) {
-	let i = 0, o = 0, x = keyList.length, errMsg = "";
+		let i = 0, o = 0, x = keyList.length, errMsg = "";
+		if (!gl.has('trim')) gl.set('trim', msgArr);
     await message.channel.send({
       files: [{
       attachment: 'media/img/guides/break.png',
       name: 'break.png'
       }]
-    });
-	await message.channel.send({
-	  files: [{
-		attachment: 'media/img/guides/trimheader.png',
-		name: 'Trim comp cape header.png'
-	  }]
-	});
+    }).then(m => msgArr.push(m.id));
+		await message.channel.send({
+		  files: [{
+			attachment: 'media/img/guides/trimheader.png',
+			name: 'Trim comp cape header.png'
+		  }]
+		}).then(m => msgArr.push(m.id));
     await message.channel.send({
       files: [{
       attachment: 'media/img/guides/break.png',
       name: 'break.png'
       }]
-    });
+    }).then(m => msgArr.push(m.id));
       
 		async function list() {
 			const guide = data[keyList[o]].embed;
@@ -58,23 +61,61 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 			if (guide.author) guide.author.name = name;
 			if (guide.timestamp) guide.timestamp = new Date();
 			try {
-				await message.channel.send("", {embed: guide});
+				await message.channel.send("", {embed: guide})
+					.then(m => msgArr.push(m.id));
 			} catch (err) {
 				errMsg += `${o}. ${keyList[o]} failed to send with error: ${err}\n`;
 				i--;
 			}
 			i++;
 			o++;
-			if (o < x) setTimeout(list, 1000);
+			if (o < x) setTimeout(list, 2000);
 			if (o == x) {
-            	const query = data.tquery.embed;
-			  	query.color = color;
-			  	query.timestamp = new Date();
-			  	await message.channel.send("", {embed: query});
-			  	message.reply(`**${i}**/\**${keyList.length}** responses listed.\n\n${errMsg}`);
+      	const query = data.tquery.embed;
+		  	query.color = color;
+		  	query.timestamp = new Date();
+		  	await message.channel.send("", {embed: query})
+		  		.then(m => msgArr.push(m.id));
+		  	gl.set('comp', msgArr);
+		  	await message.reply(`**${i}**/\**${keyList.length}** responses listed.\n\n${errMsg}`)
+	  			.then(m => m.delete(10000));
+		  	await message.channel.send('All message IDs saved.')
+		  		.then(m => m.delete(5000));
 			}
 		}
 		list();
+		return message.delete();
+	}
+
+	if (args[0].toLowerCase() == "clear" && level >= 2) {
+		if (!gl.has('trim')) return message.channel.send('No messages are currently stored for **trim**.');
+		const cl = gl.get('trim');
+		let i = 0, o = 0, x = cl.length, errMsg = "";
+		async function clear() {
+			const id = cl[o];
+			try {
+				await message.channel.fetchMessage(id)
+					.then(msg => msg.delete());
+				} catch (err) {
+					errMsg += `${o} failed with error: ${err}\n`;
+					i--;
+				};
+				i++;
+				o++;
+
+			if (o < x) {
+				await client.wait(1500);
+				clear();
+			}
+			if (o == x) {
+				await message.channel.send(`**${i}**/\**${x}** messages removed.\n\n${errMsg}`)
+					.then(m => m.delete(10000));
+				gl.delete('trim');
+				await message.channel.send('All **trim** guides deleted from memory.')
+					.then(m => m.delete(5000));
+			}
+		}
+		clear();
 		return message.delete();
 	}
 

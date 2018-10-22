@@ -12,7 +12,9 @@ exports.run = async (client, message, args, level) => {
         "icon_url": "https://i.imgur.com/NJmVzyZ.png",
         "text": "All first time reaper kills are free in #reaper-request-list!"
       };
-    if (guideName.includes("solak")) footer.text = "Check #reaper-request-list for information about leeching services and discounts.";
+	const gl = client.guideList;
+	const msgArr = [];
+  if (guideName.includes("solak")) footer.text = "Check #reaper-request-list for information about leeching services and discounts.";
 
 	if (message.channel.id !== '382701090430386180' && level < 2) return;
 
@@ -24,24 +26,25 @@ exports.run = async (client, message, args, level) => {
 
 	if (args[0].toLowerCase() == "all" && level >= 2) {
     let i = 0, o = 0, x = keyList.length, errMsg = "";
+		if (!gl.has('reaper')) gl.set('reaper', msgArr);
 		await message.channel.send({
 		  files: [{
 			attachment: 'media/img/guides/break.png',
 			name: 'break.png'
 		  }]
-		});
+		}).then(m => msgArr.push(m.id));
 		await message.channel.send({
 		  files: [{
 			attachment: 'media/img/guides/reaperheader.png',
 			name: 'Reaper kill header.png'
 		  }]
-		});
+		}).then(m => msgArr.push(m.id));
 		  await message.channel.send({
 		  files: [{
 			attachment: 'media/img/guides/break.png',
 			name: 'break.png'
 		  }]
-		});
+		}).then(m => msgArr.push(m.id));
 		  
     async function list() {
       const guide = data[keyList[o]];
@@ -50,23 +53,61 @@ exports.run = async (client, message, args, level) => {
       if (guide.footer) guide.footer = footer;
       if (guide.timestamp) guide.timestamp = new Date();
       try {
-				await message.channel.send("", {embed: guide});
+				await message.channel.send("", {embed: guide})
+					.then(m => msgArr.push(m.id));
 			} catch (err) {
 				errMsg += `${o}. ${keyList[o]} failed to send with error: ${err}\n`;
 				i--;
 			}
       i++;
       o++;
-      if (o < x) setTimeout(list, 2500);
+      if (o < x) setTimeout(list, 2000);
 	  	if (o == x) {
       	const query = data.query;
 		  	query.color = color;
 		  	query.timestamp = new Date();
-		  	await message.channel.send("", {embed: query});
-		  	message.reply(`**${i}**/\**${keyList.length}** responses listed.\n\n${errMsg}`);
+		  	await message.channel.send("", {embed: query})
+		  		.then(m => msgArr.push(m.id));
+		  	gl.set('reaper', msgArr);
+		  	await message.reply(`**${i}**/\**${keyList.length}** responses listed.\n\n${errMsg}`)
+	  			.then(m => m.delete(10000));
+		  	await message.channel.send('All message IDs saved.')
+		  		.then(m => m.delete(5000));
 		  }
     }
     list();
+		return message.delete();
+	}
+
+	if (args[0].toLowerCase() == "clear" && level >= 2) {
+		if (!gl.has('reaper')) return message.channel.send('No messages are currently stored for **reaper**.');
+		const cl = gl.get('reaper');
+		let i = 0, o = 0, x = cl.length, errMsg = "";
+		async function clear() {
+			const id = cl[o];
+			try {
+				await message.channel.fetchMessage(id)
+					.then(msg => msg.delete());
+				} catch (err) {
+					errMsg += `${o} failed with error: ${err}\n`;
+					i--;
+				};
+				i++;
+				o++;
+
+			if (o < x) {
+				await client.wait(1500);
+				clear();
+			}
+			if (o == x) {
+				await message.channel.send(`**${i}**/\**${x}** messages removed.\n\n${errMsg}`)
+					.then(m => m.delete(10000));
+				gl.delete('reaper');
+				await message.channel.send('All **reaper** guides deleted from memory.')
+					.then(m => m.delete(5000));
+			}
+		}
+		clear();
 		return message.delete();
 	}
 
@@ -80,7 +121,7 @@ exports.run = async (client, message, args, level) => {
 			}
 		});
 
-		helpEmbed.title = "Comprehensive list of all valid 1KC Reaper guides";
+		helpEmbed.title = "reaperrehensive list of all valid 1KC Reaper guides";
 		helpEmbed.author.name = name;
 		helpEmbed.description = output;
 		helpEmbed.color = color;

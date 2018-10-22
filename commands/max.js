@@ -22,6 +22,7 @@ exports.run = async (client, message, [skill, ...args], level) => { // eslint-di
 	if (args[0] == "-" || args[0] == "+") return;
 	if (!skill) return message.channel.send(`Please specify a skill name.`);
 	if (message.channel.id !== '382701090430386180' && level < 2) return;
+	const nick = skill.toLowerCase();
 
 	const aliases = {
 		"agi": "agility",
@@ -82,6 +83,8 @@ exports.run = async (client, message, [skill, ...args], level) => { // eslint-di
 	const footer = {
 		"text": "Let's unfurl those banners!"
 	};
+	const gl = client.guideList;
+	const msgArr = [];
 
 	switch (skill.toProperCase()) {
 		case 'Agility':
@@ -221,6 +224,7 @@ exports.run = async (client, message, [skill, ...args], level) => { // eslint-di
 			o = 0,
 			x = keyList.length,
 			errMsg = "";
+		if (!gl.has('max')) gl.set('max', {});
 		//insert skill header switch here
 		async function list() {
 			const guide = data[keyList[o]];
@@ -229,30 +233,68 @@ exports.run = async (client, message, [skill, ...args], level) => { // eslint-di
 			if (guide.footer) guide.footer = footer;
 			if (guide.timestamp) guide.timestamp = new Date();
 			try {
-				await message.channel.send("", {
-					embed: guide
-				});
+				await message.channel.send("", {embed: guide})
+	  			.then(m => msgArr.push(m.id));
+
 			} catch (err) {
 				errMsg += `${o}. ${keyList[o]} failed to send with error: ${err}\n`;
 				i--;
 			}
 			i++;
 			o++;
-			if (o < x) setTimeout(list, 2500);
+			if (o < x) setTimeout(list, 2000);
 			if (o == x) {
 				const help = require("../guides/maxGuides/help.js"),
-					query = help.data.query;
+				query = help.data.query;
 				query.color = color;
 				query.timestamp = new Date();
-				await message.channel.send("", {
-					embed: query
-				});
-				message.reply(`**${i}**/\**${keyList.length}** responses listed.\n\n${errMsg}`);
+				await message.channel.send("", {embed: query})
+		  		.then(m => msgArr.push(m.id));
+	  		const cl = gl.get('max');
+	  		cl[nick] = msgArr;
+		  	gl.set('max', cl);
+		  	await message.reply(`**${i}**/\**${keyList.length}** responses listed.\n\n${errMsg}`)
+	  			.then(m => m.delete(10000));
+		  	await message.channel.send('All message IDs saved.')
+		  		.then(m => m.delete(5000));
 			}
 		}
 		list();
-		message.delete();
-		return;
+		return message.delete();
+	}
+
+	if (args[0].toLowerCase() == "clear" && level >= 2) {
+		if (!gl.has('max')) return message.channel.send(`No messages are currently stored for **${skill.toLowerCase()}**.`);
+		const cl = gl.get('max');
+		const nl = cl[nick];
+		let i = 0, o = 0, x = nl.length, errMsg = "";
+		async function clear() {
+			const id = nl[o];
+			try {
+				await message.channel.fetchMessage(id)
+					.then(msg => msg.delete());
+				} catch (err) {
+					errMsg += `${o} failed with error: ${err}\n`;
+					i--;
+				};
+				i++;
+				o++;
+
+			if (o < x) {
+				await client.wait(1500);
+				clear();
+			}
+			if (o == x) {
+				await message.channel.send(`**${i}**/\**${x}** messages removed.\n\n${errMsg}`)
+					.then(m => m.delete(10000));
+				delete cl[nick];
+				gl.set('max', cl);
+				await message.channel.send('All **max** guides deleted from memory.')
+					.then(m => m.delete(5000));
+			}
+		}
+		clear();
+		return message.delete();
 	}
 
 	if (Number(args[0])) {
