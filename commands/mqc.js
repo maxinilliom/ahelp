@@ -36,7 +36,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 
 	if (args[0].toLowerCase() == "all" && level >= 2) {
     let i = 0, o = 0, x = keyList.length, errMsg = "";
-		if (!gl.has('comp')) gl.set('comp', msgArr);
+		if (!gl.has('mqc')) gl.set('mqc', msgArr);
 		await message.channel.send({
 		  files: [{
 			attachment: 'media/img/guides/break.png',
@@ -77,7 +77,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 		  	query.timestamp = new Date();
 		  	await message.channel.send("", {embed: query})
 		  		.then(m => msgArr.push(m.id));
-		  	gl.set('', msgArr);
+		  	gl.set('mqc', msgArr);
 		  	await message.reply(`**${i}**/\**${keyList.length}** responses listed.\n\n${errMsg}`)
 	  			.then(m => m.delete(10000));
 		  	await message.channel.send('All message IDs saved.')
