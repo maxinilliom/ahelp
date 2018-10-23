@@ -35,7 +35,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 
 	if (args[0].toLowerCase() == "all" && level >= 2) {
 		let i = 0, o = 0, x = keyList.length, errMsg = "";
-		if (!gl.has('comp')) gl.set('comp', msgArr)
+		if (!gl.has('comp')) gl.set('comp', msgArr);
 		await message.channel.send({
 		  files: [{
 			attachment: 'media/img/guides/break.png',
@@ -69,7 +69,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 			}
 			i++;
 			o++;
-			if (o < x) setTimeout(list, 1000);
+			if (o < x) setTimeout(list, 2000);
 			if (o == x) {
           const query = data.cquery.embed;
 			  	query.color = color;
@@ -77,8 +77,10 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 			  	await message.channel.send("", {embed: query})
 			  		.then(m => msgArr.push(m.id));
 			  	gl.set('comp', msgArr);
-			  	message.reply(`**${i}**/\**${keyList.length}** responses listed.\n\n${errMsg}`);
-			  	message.channel.send('All message IDs saved.')
+			  	await message.reply(`**${i}**/\**${keyList.length}** responses listed.\n\n${errMsg}`)
+		  			.then(m => m.delete(10000));
+			  	await message.channel.send('All message IDs saved.')
+			  		.then(m => m.delete(5000));
 			}
 		}
 		list();
@@ -86,6 +88,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 	}
 
 	if (args[0].toLowerCase() == "clear" && level >= 2) {
+		if (!gl.has('comp')) return message.channel.send('No messages are currently stored for **comp**.');
 		const cl = gl.get('comp');
 		let i = 0, o = 0, x = cl.length, errMsg = "";
 		async function clear() {
@@ -93,17 +96,24 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 			try {
 				await message.channel.fetchMessage(id)
 					.then(msg => msg.delete());
-				console.log(`${o} deleted.`);
 				} catch (err) {
-					console.log(err);
 					errMsg += `${o} failed with error: ${err}\n`;
 					i--;
 				};
 				i++;
 				o++;
 
-			if (o < x) await client.wait(1500);
-			if (o == x) await message.channel.send(`**${i}**/\**${x}** messages removed.\n\n${errMsg}`);
+			if (o < x) {
+				await client.wait(1500);
+				clear();
+			}
+			if (o == x) {
+				await message.channel.send(`**${i}**/\**${x}** messages removed.\n\n${errMsg}`)
+					.then(m => m.delete(10000));
+				gl.delete('comp');
+				await message.channel.send('All **comp** guides deleted from memory.')
+					.then(m => m.delete(5000));
+			}
 		}
 		clear();
 		return message.delete();
