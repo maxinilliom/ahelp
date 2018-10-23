@@ -288,7 +288,7 @@ exports.run = async (client, message, [skill, ...args], level) => { // eslint-di
 					.then(m => m.delete(10000));
 				delete cl[nick];
 				gl.set('max', cl);
-				await message.channel.send('All **max** guides deleted from memory.')
+				await message.channel.send(`All **${nick}** guides deleted from memory.`)
 					.then(m => m.delete(5000));
 			}
 		}
