@@ -67,7 +67,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
       
 		let category = args[1] ? args[1].toLowerCase() : undefined;
 		let fin;
-		if (!cats.includes(category)) category = undefined;
+		if (category && !cats.includes(category)) return message.channel.send(`**${category}** is not a valid category.`);
 		//add category header image switch here
 		async function list() {
 			const [cat, sub, ach] = keyList[o].split(" - ");
