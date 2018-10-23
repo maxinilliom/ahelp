@@ -234,7 +234,6 @@ exports.run = async (client, message, [skill, ...args], level) => { // eslint-di
 			try {
 				await message.channel.send("", {embed: guide})
 	  			.then(m => msgArr.push(m.id));
-
 			} catch (err) {
 				errMsg += `${o}. ${keyList[o]} failed to send with error: ${err}\n`;
 				i--;
