@@ -22,7 +22,6 @@ exports.run = async (client, message, [skill, ...args], level) => { // eslint-di
 	if (args[0] == "-" || args[0] == "+") return;
 	if (!skill) return message.channel.send(`Please specify a skill name.`);
 	if (message.channel.id !== '382701090430386180' && level < 2) return;
-	const nick = skill.toLowerCase();
 
 	const aliases = {
 		"agi": "agility",
@@ -68,7 +67,7 @@ exports.run = async (client, message, [skill, ...args], level) => { // eslint-di
 	}
 
 	if (Object.getOwnPropertyNames(aliases).includes(skill.toLowerCase())) skill = aliases[skill.toLowerCase()];
-
+	const nick = skill.toLowerCase();
 	if (skill && !client.maxGuides.includes(skill.toLowerCase())) return message.channel.send(`**${skill.toProperCase()}** is not a valid skill name.`);
 	if (!args[0] && skill !== "help" && skill !== "all" && skill !== "universal") return message.channel.send(`Please specify options to search the **${skill.toProperCase()}** guides with.`);
 	const {
