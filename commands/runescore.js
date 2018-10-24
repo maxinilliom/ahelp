@@ -24,6 +24,10 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 	const name = "RuneScore Info";
 	const color = 2011148;
 	const cats = ["combat", "exploration", "minigames", "miscellaneous", "skills"];
+	const category = args[1] ? args[1].toLowerCase() : undefined;
+	const nick = category ? category : "main";
+	const gl = client.guideList;
+	const msgArr = [];
 
 	if (message.channel.id !== '382701090430386180' && level < 2) return;
 
@@ -41,28 +45,28 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 
 	if (args[0].toLowerCase() == "all" && level >= 2) {
 		let i = 0, o = 0, x = keyList.length, errMsg = "";
+		if (!gl.has('rs')) gl.set('rs', {});
 		await message.channel.send({
 		  files: [{
 			attachment: 'media/img/guides/break.png',
 			name: 'break.png'
 		  }]
-		});
+		}).then(m => msgArr.push(m.id));
 		await message.channel.send({
 		  files: [{
 			attachment: 'media/img/guides/rsheader.png',
 			name: 'RuneScore header.png'
 		  }]
-		});
+		}).then(m => msgArr.push(m.id));
 		  await message.channel.send({
 		  files: [{
 			attachment: 'media/img/guides/break.png',
 			name: 'break.png'
 		  }]
-		});
+		}).then(m => msgArr.push(m.id));
 
-		let category = args[1] ? args[1].toLowerCase() : undefined;
 		let fin;
-		if (!cats.includes(category)) category = undefined;
+		if (category && !cats.includes(category)) return message.channel.send(`**${category}** is not a valid category.`);
 		//add category header switch here
 		async function list() {
 			const [cat, sub, ach] = keyList[o].split(" - ");
@@ -73,35 +77,77 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 	      	const query = data.query;
 			  	query.color = color;
 			  	query.timestamp = new Date();
-			  	await message.channel.send("", {embed: query});
+			  	await message.channel.send("", {embed: query})
+			  		.then(m => msgArr.push(m.id));
 			  	message.reply(`**${i}**/\**${keyList.length}** responses listed.\n\n${errMsg}`);
         	fin = "true";
         }
-				if (o < x) list();
-				return;
+				if (o < x) return list();
 			}
 			const guide = data[keyList[o]];
 			guide.color = color;
 			if (guide.author) guide.author.name = name;
 			if (guide.timestamp) guide.timestamp = new Date();
 			try {
-				await message.channel.send("", {embed: guide});
+				await message.channel.send("", {embed: guide})
+					.then(m => msgArr.push(m.id));
 			} catch (err) {
 				errMsg += `${o}. ${keyList[o]} failed to send with error: ${err}\n`;
 				i--;
 			}
 			i++;
 			o++;
-			if (o < x) setTimeout(list, 1000);
+			if (o < x) setTimeout(list, 2000);
 			if (o == x) {
       	const query = data.query;
 		  	query.color = color;
 		  	query.timestamp = new Date();
-		  	await message.channel.send("", {embed: query});
-		  	message.reply(`**${i}**/\**${keyList.length}** responses listed.\n\n${errMsg}`);
+		  	await message.channel.send("", {embed: query})
+					.then(m => msgArr.push(m.id));
+		  	const cl = gl.get('rs');
+		  	cl[nick] = msgArr;
+		  	gl.set('rs', cl);
+		  	await message.reply(`**${i}**/\**${keyList.length}** responses listed.\n\n${errMsg}`)
+	  			.then(m => m.delete(10000));
+		  	await message.channel.send('All message IDs saved.')
+		  		.then(m => m.delete(5000));
 		  }
 		}
 		list();
+		return message.delete();
+	}
+
+	if (args[0].toLowerCase() == "clear" && level >= 2) {
+		if (!gl.has('rs')) return message.channel.send(`No messages are currently stored for **runescore**.`);
+		const cl = gl.get('rs');
+		const nl = cl[nick];
+		let i = 0, o = 0, x = nl.length, errMsg = "";
+		async function clear() {
+			const id = nl[o];
+			try {
+				await message.channel.fetchMessage(id)
+					.then(msg => msg.delete());
+				} catch (err) {
+					errMsg += `${o} failed with error: ${err}\n`;
+					i--;
+				};
+				i++;
+				o++;
+
+			if (o < x) {
+				await client.wait(1500);
+				clear();
+			}
+			if (o == x) {
+				await message.channel.send(`**${i}**/\**${x}** messages removed.\n\n${errMsg}`)
+					.then(m => m.delete(10000));
+				delete cl[nick];
+				gl.set('rs', cl);
+				await message.channel.send(`All **${nick}** guides deleted from memory.`)
+					.then(m => m.delete(5000));
+			}
+		}
+		clear();
 		return message.delete();
 	}
 
