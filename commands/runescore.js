@@ -44,7 +44,9 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 	if (!args[0]) return message.channel.send(`Please specify a valid achievement name.`);
 
 	if (args[0].toLowerCase() == "all" && level >= 2) {
-		let i = 0, o = 0, x = keyList.length, errMsg = "";
+		let i = 0, o = 0, errMsg = "";
+		const x = category ? keyList.filter(k => k.includes(category)).length : keyList.length;
+		console.log(`x: ${x}`);
 		if (!gl.has('rs')) gl.set('rs', {});
 		await message.channel.send({
 		  files: [{
