@@ -73,16 +73,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 			if (fin) return;
 			if (category && cat !== category) {
 				o++;
-        if (o == x) {
-	      	const query = data.query;
-			  	query.color = color;
-			  	query.timestamp = new Date();
-			  	await message.channel.send("", {embed: query})
-			  		.then(m => msgArr.push(m.id));
-			  	message.reply(`**${i}**/\**${keyList.length}** responses listed.\n\n${errMsg}`);
-        	fin = "true";
-        }
-				if (o < x) return list();
+				return list();
 			}
 			const guide = data[keyList[o]];
 			guide.color = color;
