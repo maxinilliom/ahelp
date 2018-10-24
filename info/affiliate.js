@@ -29,21 +29,6 @@ exports.data = {
       "name": "break.png"
     }]
   },
-  "combat header": {
-    "title": "Combat Discords",
-    "description":"The following discords all relate to combat. This can include team finding for bosses, combat equipment, guides, invention perks for gear, and combat achievements.",
-    "thumbnail": {
-      "url": ""
-    },
-    "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
-      "text": "Achievement Help | Connecting our Helpful Communities!"
-    },
-    "author": {
-      "name": "Affiliate Info",
-      "icon_url": "https://i.imgur.com/6c6q2iC.png"
-    }
-  },
   "AoD: 7-10 Man": {
     "title": "AoD: 7-10 Man",
     "description":"AoD: 7-10 Man: For those interested in a non-toxic and friendly environment for ‘Small’ team AoD, with team sizes varying from 7 to 10.  We accept all experience levels from Learners to Experts and Teachers.  Offering both *FFAS* and *FFAK* teams, running throughout the day.",
@@ -55,7 +40,7 @@ exports.data = {
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
-      "name": "Affiliate Info",
+      "name": "Combat Affiliate Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
           "fields": [
@@ -80,7 +65,7 @@ exports.data = {
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
-      "name": "Affiliate Info",
+      "name": "Combat Affiliate Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
           "fields": [
@@ -109,7 +94,7 @@ exports.data = {
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
-      "name": "Affiliate Info",
+      "name": "Combat Affiliate Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
           "fields": [
@@ -138,7 +123,7 @@ exports.data = {
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
-      "name": "Affiliate Info",
+      "name": "Combat Affiliate Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
           "fields": [
@@ -167,7 +152,7 @@ exports.data = {
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
-      "name": "Affiliate Info",
+      "name": "Combat Affiliate Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
           "fields": [
@@ -192,7 +177,7 @@ exports.data = {
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
-      "name": "Affiliate Info",
+      "name": "Combat Affiliate Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
           "fields": [
@@ -221,7 +206,7 @@ exports.data = {
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
-      "name": "Affiliate Info",
+      "name": "Combat Affiliate Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
           "fields": [
@@ -246,7 +231,7 @@ exports.data = {
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
-      "name": "Affiliate Info",
+      "name": "Combat Affiliate Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
           "fields": [
@@ -271,7 +256,7 @@ exports.data = {
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
-      "name": "Affiliate Info",
+      "name": "Combat Affiliate Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
           "fields": [
@@ -296,7 +281,7 @@ exports.data = {
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
-      "name": "Affiliate Info",
+      "name": "Combat Affiliate Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
           "fields": [
@@ -325,7 +310,7 @@ exports.data = {
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
-      "name": "Affiliate Info",
+      "name": "Combat Affiliate Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
           "fields": [
@@ -354,7 +339,7 @@ exports.data = {
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
-      "name": "Affiliate Info",
+      "name": "Combat Affiliate Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
           "fields": [
@@ -383,7 +368,7 @@ exports.data = {
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
-      "name": "Affiliate Info",
+      "name": "Combat Affiliate Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
           "fields": [
@@ -408,7 +393,7 @@ exports.data = {
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
-      "name": "Affiliate Info",
+      "name": "Combat Affiliate Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
           "fields": [
@@ -437,7 +422,7 @@ exports.data = {
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
-      "name": "Affiliate Info",
+      "name": "Combat Affiliate Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
           "fields": [
@@ -451,20 +436,11 @@ exports.data = {
       }
       ]
   },
-  "minigames header": {
-    "title": "Minigame/DxD's Discords",
-    "description":"The following discords all relate to Minigames or DxD's. This can include team finding for minigames, minigame services, or information of either.",
-    "thumbnail": {
-      "url": ""
-    },
-    "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
-      "text": "Achievement Help | Connecting our Helpful Communities!"
-    },
-    "author": {
-      "name": "Affiliate Info",
-      "icon_url": "https://i.imgur.com/6c6q2iC.png"
-    }
+    "break4": {
+    "files": [{
+      "attachment": "media/img/info/affiliate/break.png",
+      "name": "break.png"
+    }]
   },
   "BA Teams": {
     "title": "BA Teams",
@@ -477,7 +453,7 @@ exports.data = {
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
-      "name": "Affiliate Info",
+      "name": "Minigame/D&D Affiliate Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
           "fields": [
@@ -506,7 +482,7 @@ exports.data = {
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
-      "name": "Affiliate Info",
+      "name": "Minigame/D&D Affiliate Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
           "fields": [
@@ -535,7 +511,7 @@ exports.data = {
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
-      "name": "Affiliate Info",
+      "name": "Minigame/D&D Affiliate Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
           "fields": [
@@ -564,7 +540,7 @@ exports.data = {
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
-      "name": "Affiliate Info",
+      "name": "Minigame/D&D Affiliate Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
           "fields": [
@@ -593,7 +569,7 @@ exports.data = {
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
-      "name": "Affiliate Info",
+      "name": "Minigame/D&D Affiliate Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
           "fields": [
@@ -622,7 +598,7 @@ exports.data = {
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
-      "name": "Affiliate Info",
+      "name": "Minigame/D&D Affiliate Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
           "fields": [
@@ -651,7 +627,7 @@ exports.data = {
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
-      "name": "Affiliate Info",
+      "name": "Minigame/D&D Affiliate Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
           "fields": [
@@ -669,20 +645,11 @@ exports.data = {
       }
       ]
   },
-  "skilling header": {
-    "title": "Skilling Discords",
-    "description":"The following discords all relate to Skilling. This can include information on skills, or be specific to a way of training a skill.",
-    "thumbnail": {
-      "url": ""
-    },
-    "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
-      "text": "Achievement Help | Connecting our Helpful Communities!"
-    },
-    "author": {
-      "name": "Affiliate Info",
-      "icon_url": "https://i.imgur.com/6c6q2iC.png"
-    }
+    "break5": {
+    "files": [{
+      "attachment": "media/img/info/affiliate/break.png",
+      "name": "break.png"
+    }]
   },
   "Altar Community": {
     "title": "Altar Community",
@@ -695,7 +662,7 @@ exports.data = {
       "url": "https://cdn.discordapp.com/icons/126472497779441664/85bc2a1fcb0c3cb47f443b4a14c8b49a.webp"
     },
     "author": {
-      "name": "Affiliate Info",
+      "name": "Skilling Affiliate Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
       "fields": [
@@ -729,7 +696,7 @@ exports.data = {
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
-      "name": "Affiliate Info",
+      "name": "Skilling Affiliate Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
           "fields": [
@@ -758,7 +725,7 @@ exports.data = {
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
-      "name": "Affiliate Info",
+      "name": "Skilling Affiliate Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
           "fields": [
@@ -787,7 +754,7 @@ exports.data = {
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
-      "name": "Affiliate Info",
+      "name": "Skilling Affiliate Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
           "fields": [
@@ -816,7 +783,7 @@ exports.data = {
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
-      "name": "Affiliate Info",
+      "name": "Skilling Affiliate Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
           "fields": [
@@ -841,7 +808,7 @@ exports.data = {
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
-      "name": "Affiliate Info",
+      "name": "Skilling Affiliate Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
           "fields": [
@@ -855,20 +822,11 @@ exports.data = {
       }
       ]
   },
-  "social header": {
-    "title": "Social Discords",
-    "description":"The following discords are all Social. This includes communities built by people for specific reasons whether it be to chill out, or bring together ideas on a subject.",
-    "thumbnail": {
-      "url": ""
-    },
-    "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
-      "text": "Achievement Help | Connecting our Helpful Communities!"
-    },
-    "author": {
-      "name": "Affiliate Info",
-      "icon_url": "https://i.imgur.com/6c6q2iC.png"
-    }
+    "break6": {
+    "files": [{
+      "attachment": "media/img/info/affiliate/break.png",
+      "name": "break.png"
+    }]
   },
   "Alright": {
     "title": "Alright",
@@ -881,7 +839,7 @@ exports.data = {
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
-      "name": "Affiliate Info",
+      "name": "Social Affiliate Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
           "fields": [
@@ -910,7 +868,7 @@ exports.data = {
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
-      "name": "Affiliate Info",
+      "name": "Social Affiliate Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
           "fields": [
@@ -935,7 +893,7 @@ exports.data = {
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
-      "name": "Affiliate Info",
+      "name": "Social Affiliate Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
           "fields": [
@@ -960,7 +918,7 @@ exports.data = {
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
-      "name": "Affiliate Info",
+      "name": "Social Affiliate Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
           "fields": [
@@ -993,7 +951,7 @@ exports.data = {
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
-      "name": "Affiliate Info",
+      "name": "Social Affiliate Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
           "fields": [
@@ -1018,7 +976,7 @@ exports.data = {
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
-      "name": "Affiliate Info",
+      "name": "Social Affiliate Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
           "fields": [
@@ -1043,7 +1001,7 @@ exports.data = {
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
-      "name": "Affiliate Info",
+      "name": "Social Affiliate Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
           "fields": [
@@ -1068,7 +1026,7 @@ exports.data = {
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
-      "name": "Affiliate Info",
+      "name": "Social Affiliate Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
           "fields": [
