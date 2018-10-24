@@ -47,7 +47,6 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 	if (args[0].toLowerCase() == "all" && level >= 2) {
 		let i = 0, o = 0, errMsg = "";
 		const x = category ? catList.length : keyList.length;
-		console.log(`x: ${x}`);
 		if (!gl.has('rs')) gl.set('rs', {});
 		await message.channel.send({
 		  files: [{
@@ -162,7 +161,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 					.then(m => m.delete(10000));
 				delete cl[nick];
 				gl.set('rs', cl);
-				await message.channel.send(`All **${nick}** guides deleted from memory.`)
+				await message.reply(`All **${nick}** guides deleted from memory.`)
 					.then(m => m.delete(5000));
 			}
 		}
