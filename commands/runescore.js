@@ -65,12 +65,10 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 		  }]
 		}).then(m => msgArr.push(m.id));
 
-		let fin;
 		if (category && !cats.includes(category)) return message.channel.send(`**${category}** is not a valid category.`);
 		//add category header switch here
 		async function list() {
 			const [cat, sub, ach] = keyList[o].split(" - ");
-			if (fin) return;
 			if (category && cat !== category) {
 				o++;
 				return list();
