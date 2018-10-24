@@ -48,9 +48,11 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 		}
 	});
 	if (!args[0]) return message.channel.send(`Please specify a valid guide name.`);
+	const catList = keyList.filter(k => k.includes(category));
 
 	if (args[0].toLowerCase() == "all" && level >= 2) {
-		let i = 0, o = 0, x = keyList.length, errMsg = "";
+		let i = 0, o = 0, errMsg = "";
+		const x = category ? catList.length : keyList.length;
 		if (!gl.has('tt')) gl.set('tt', {});
 	    await message.channel.send({
 	      files: [{
@@ -74,39 +76,67 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 		if (category && !cats.includes(category)) return message.channel.send(`**${category}** is not a valid category.`);
 		//add category header image switch here
 		async function list() {
-			const [cat, sub, ach] = keyList[o].split(" - ");
-			if (category && cat !== category) {
-				o++;
-				return list();
-			}
-			const guide = data[keyList[o]];
-			guide.color = color;
+			const [cat, sub, ach] = category ? catList[o].split(" - ") : keyList[o].split(" - ");
+			if (category) {
+				const guide = data[catList[o]];
+				guide.color = color;
 		    if (guide.author) guide.author.name = name;
-    		if (guide.footer) guide.footer = footer;
+	  		if (guide.footer) guide.footer = footer;
 		    if (guide.timestamp) guide.timestamp = new Date();
-			try {
-				await message.channel.send("", {embed: guide})
-					.then(m => msgArr.push(m.id));
-			} catch (err) {
-				errMsg += `${o}. ${keyList[o]} failed to send with error: ${err}\n`;
-				i--;
-			}
-			i++;
-			o++;
-			if (o < x) setTimeout(list, 2000);
-			if (o == x) {
-      	const query = data.query;
-		  	query.color = color;
-		  	query.timestamp = new Date();
-		  	await message.channel.send("", {embed: query})
-					.then(m => msgArr.push(m.id));
-		  	const cl = gl.get('tt');
-		  	cl[nick] = msgArr;
-		  	gl.set('tt', cl);
-		  	await message.reply(`**${i}**/\**${keyList.length}** responses listed.\n\n${errMsg}`)
-	  			.then(m => m.delete(10000));
-		  	await message.channel.send('All message IDs saved.')
-		  		.then(m => m.delete(5000));
+				try {
+					await message.channel.send("", {embed: guide})
+						.then(m => msgArr.push(m.id));
+				} catch (err) {
+					errMsg += `${o}. ${catList[o]} failed to send with error: ${err}\n`;
+					i--;
+				}
+				i++;
+				o++;
+				if (o < x) setTimeout(list, 2000);
+				if (o == x) {
+	      	const query = data.query;
+			  	query.color = color;
+			  	query.timestamp = new Date();
+			  	await message.channel.send("", {embed: query})
+						.then(m => msgArr.push(m.id));
+			  	const cl = gl.get('tt');
+			  	cl[nick] = msgArr;
+			  	gl.set('tt', cl);
+			  	await message.reply(`**${i}**/\**${catList.length}** responses listed.\n\n${errMsg}`)
+		  			.then(m => m.delete(10000));
+			  	await message.channel.send('All message IDs saved.')
+			  		.then(m => m.delete(5000));
+		  	}
+		  } else {
+				const guide = data[keyList[o]];
+				guide.color = color;
+			    if (guide.author) guide.author.name = name;
+	    		if (guide.footer) guide.footer = footer;
+			    if (guide.timestamp) guide.timestamp = new Date();
+				try {
+					await message.channel.send("", {embed: guide})
+						.then(m => msgArr.push(m.id));
+				} catch (err) {
+					errMsg += `${o}. ${keyList[o]} failed to send with error: ${err}\n`;
+					i--;
+				}
+				i++;
+				o++;
+				if (o < x) setTimeout(list, 2000);
+				if (o == x) {
+	      	const query = data.query;
+			  	query.color = color;
+			  	query.timestamp = new Date();
+			  	await message.channel.send("", {embed: query})
+						.then(m => msgArr.push(m.id));
+			  	const cl = gl.get('tt');
+			  	cl[nick] = msgArr;
+			  	gl.set('tt', cl);
+			  	await message.reply(`**${i}**/\**${keyList.length}** responses listed.\n\n${errMsg}`)
+		  			.then(m => m.delete(10000));
+			  	await message.channel.send('All message IDs saved.')
+			  		.then(m => m.delete(5000));
+		  	}
 		  }
 		}
 		list();
