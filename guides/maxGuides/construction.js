@@ -25,7 +25,7 @@ exports.data = {
   },
   "introduction": {
     "title": "Construction Introduction",
-    "description": "Construction is a members-only artisan skill that allows players to build and customise their very own [player-owned house](https://runescape.wiki/w/Player-owned_house) (POH). Players design their house by arranging various square rooms and then filling them with furniture specific to the type of room, giving experience in the process. It should be noted that while training construction, players will need to repeatedly build something and then immediately remove it in order to build it again for additional expiernce, unless a [flatpack](https://runescape.wiki/w/Flatpack) is being used. With this, players should wait until their final levels or experience goals have been met to build their house up to their desired end product status.\n\nAs players achieve higher levels, more types of rooms and better room features become available.\n\n The following list of topics will explain how Construction works in a little more detail.",
+    "description": "Construction is a members-only artisan skill that allows players to build and customize their very own [player-owned house](https://runescape.wiki/w/Player-owned_house) (POH). Players design their house by arranging various square rooms and then filling them with furniture specific to the type of room, giving experience in the process. It should be noted that while training construction, players will need to repeatedly build something and then immediately remove it in order to build it again for additional experience, unless a [flatpack](https://runescape.wiki/w/Flatpack) is being used. With this, players should wait until their final levels or experience goals have been met to build their house up to their desired end product status.\n\nAs players achieve higher levels, more types of rooms and better room features become available.\n\n The following list of topics will explain how Construction works in a little more detail.",
     "url": "https://runescape.wiki/w/Construction",
     "color": 12269891,
     "footer": {
@@ -50,13 +50,13 @@ exports.data = {
        },
        {
         "name":"Servants",
-        "value":"An alternative to travelling between your house and a bank is to use [Servants](https://runescape.wiki/w/Servant) to bring things from the bank to your house. With the minimum of level 20 Construction, a player can be hire a servant at the [Servants' Guild](https://runescape.wiki/w/Servants%27_Guild). This is faster than travelling yourself because you can build while the servant is making the trip. Better servants make the round trip faster.\n\nServants have a right click option that allows the fetch-from-bank menu to be brought up quickly. Furthermore, the last request is saved, so the player can repeatedly ask for the same set of items to be brought without typing the specific quantity each time."
+        "value":"An alternative to traveling between your house and a bank is to use [Servants](https://runescape.wiki/w/Servant) to bring things from the bank to your house. With the minimum of level 20 Construction, a player can be hire a servant at the [Servants' Guild](https://runescape.wiki/w/Servants%27_Guild). This is faster than traveling yourself because you can build while the servant is making the trip. Better servants make the round trip faster.\n\nServants have a right click option that allows the fetch-from-bank menu to be brought up quickly. Furthermore, the last request is saved, so the player can repeatedly ask for the same set of items to be brought without typing the specific quantity each time."
        }
    ]
   },
   "1 - 19": {
     "title": "Construction Training Levels 1-19",
-    "description": "At level 1, players can begin training Construction by making [Crude Wooden Chairs](https://runescape.wiki/w/Crude_wooden_chair). The chairs can be built in the [Parlour](https://runescape.wiki/w/Parlour) room, using 2 [Planks](https://runescape.wiki/w/Plank) and 2 [Iron Nails](https://runescape.wiki/w/Iron_nails) per chair. Several nails will break while training, so the player should bring plenty of spares. 13 crude wooden chairs should be built to reach level 8.",
+    "description": "At level 1, players can begin training Construction by making [Crude Wooden Chairs](https://runescape.wiki/w/Crude_wooden_chair). The chairs can be built in the [Parlour](https://runescape.wiki/w/Parlour) room, using 2 [Planks](https://runescape.wiki/w/Plank) and 2 [Iron Nails](https://runescape.wiki/w/Iron_nails) per chair. Several nails will break while training, so the player should bring plenty of spares. 13 crude wooden chairs should be built to reach level 8 without the aid of any boosts.",
     "url": "https://runescape.wiki/w/Construction_training#Level_1_to_19",
     "color": 12269891,
     "footer": {
@@ -73,7 +73,7 @@ exports.data = {
     "fields": [
     {
       "name": "Wooden Chairs:",
-      "value": "At level 8, the player can switch to [Wooden Chairs](https://runescape.wiki/w/Wooden_chair). These chairs require 3 planks and 3 nails per chair. 34 wooden chairs should be built to reach level 19."
+      "value": "At level 8, the player can switch to [Wooden Chairs](https://runescape.wiki/w/Wooden_chair). These chairs require 3 planks and 3 nails per chair. 34 wooden chairs should be built to reach level 19 without the aid of any boosts."
     },
     {
       "name": "Servants:",
@@ -83,7 +83,7 @@ exports.data = {
   },
   "19 - 33": {
     "title": "Construction Training Levels 19-33",
-    "description": "At level 19, players can make [Oak Chairs](https://runescape.wiki/w/Oak_chair). The chairs can be built in the [Parlour](https://runescape.wiki/w/Parlour) room, using 2 [Oak Planks](https://runescape.wiki/w/Oak_plank) per chair. 119 oak chairs will be built to reach level 33.",
+    "description": "At level 19, players can make [Oak Chairs](https://runescape.wiki/w/Oak_chair). The chairs can be built in the [Parlour](https://runescape.wiki/w/Parlour) room, using 2 [Oak Planks](https://runescape.wiki/w/Oak_plank) per chair. 119 oak chairs will be built to reach level 33 without the aid of any boosts.",
     "url": "https://runescape.wiki/w/Construction_training#Level_19_to_33",
     "color": 12269891,
     "footer": {
@@ -106,7 +106,7 @@ exports.data = {
   },
   "33 - 52": {
     "title": "Construction Training Levels 33-52",
-    "description": "At level 33, players can make [Oak Larders](https://runescape.wiki/w/Oak_larder). The larders can be built in the [Kitchen](https://runescape.wiki/w/Kitchen), using 8 [Oak Planks](https://runescape.wiki/w/Oak_plank) per larder. 220 oak larders will be built to reach level 52.",
+    "description": "At level 33, players can make [Oak Larders](https://runescape.wiki/w/Oak_larder). The larders can be built in the [Kitchen](https://runescape.wiki/w/Kitchen), using 8 [Oak Planks](https://runescape.wiki/w/Oak_plank) per larder. 220 oak larders will be built to reach level 52 without the aid of any boosts.",
     "url": "https://runescape.wiki/w/Construction_training#Level_33_to_52_or_63",
     "color": 12269891,
     "footer": {
@@ -133,7 +133,7 @@ exports.data = {
   },
   "52 - 73": {
     "title": "Construction Training Levels 52-73",
-    "description": "At level 52, players can make [Mahogany Tables](https://runescape.wiki/w/Mahogany_table). The tables can be built in the [Dining Room](https://runescape.wiki/w/Dining_Room), using 6 [Mahogany Planks](https://runescape.wiki/w/Mahogany_plank) per table. 1,035 mahogany tables will be built to reach level 73.",
+    "description": "At level 52, players can make [Mahogany Tables](https://runescape.wiki/w/Mahogany_table). The tables can be built in the [Dining Room](https://runescape.wiki/w/Dining_Room), using 6 [Mahogany Planks](https://runescape.wiki/w/Mahogany_plank) per table. 1,035 mahogany tables will be built to reach level 73 without the aid of any boosts.",
     "url": "https://runescape.wiki/w/Construction_training#Level_52_to_73_.28expensive_method.29",
     "color": 12269891,
     "footer": {
@@ -150,11 +150,11 @@ exports.data = {
     "fields": [
     {
       "name": "▬▬ Alternative Method 1: Levels 52-99+ ▬▬",
-      "value": "At level 52, players can alternatively make [Mahogany Table Flat Packs](https://runescape.wiki/w/Mahogany_table_(flatpack). The flat packs can be built in the [Workshop](https://runescape.wiki/w/Workshop) room, using 6 [Mahogany Planks](https://runescape.wiki/w/Mahogany_plank) per flat pack. 15,370 mahogany table flat packs will be built to reach level 99. This method is slower experience, but much less click intensive."
+      "value": "At level 52, players can alternatively make [Mahogany Table Flat Packs](https://runescape.wiki/w/Mahogany_table_(flatpack). The flat packs can be built in the [Workshop](https://runescape.wiki/w/Workshop) room, using 6 [Mahogany Planks](https://runescape.wiki/w/Mahogany_plank) per flat pack. 15,370 mahogany table flat packs will be built to reach level 99 without the aid of any boosts. This method is slower experience, but much less click intensive."
     },
     {
       "name": "▬▬ Alternative Method 2: Levels 63-99+ ▬▬",
-      "value": "At level 63, players can choose a cheaper route making [Driftwood Prawnbroker](https://runescape.wiki/w/Driftwood_prawnbroker). The prawnbrokers can be built in the [Aquarium](https://runescape.wiki/w/Aquarium) room, using 8 [Teak Planks](https://runescape.wiki/w/Teak_plank) each. 17,592 prawnbrokers will be built to reach level 99."
+      "value": "At level 63, players can choose a cheaper route making [Driftwood Prawnbroker](https://runescape.wiki/w/Driftwood_prawnbroker). The prawnbrokers can be built in the [Aquarium](https://runescape.wiki/w/Aquarium) room, using 8 [Teak Planks](https://runescape.wiki/w/Teak_plank) each. 17,592 prawnbrokers will be built to reach level 99 without the aid of any boosts."
     },
     {
       "name": "Servants:",
@@ -235,7 +235,7 @@ exports.data = {
   },
   "pet - baby yaga's house": {
     "title": "Construction Pet - Baby Yaga's House",
-    "description": "The [Baby Yaga's House pet](https://runescape.wiki/w/Baby_Yaga%27s_House_pet) is an item that can be found while training Construction. It can be used to unlock the [Baby Yaga's House](https://runescape.wiki/w/Baby_Yaga%27s_House).",
+    "description": "The Baby Yaga's House pet is an item that can be found while training Construction. It can be used to unlock the [Baby Yaga's House](https://runescape.wiki/w/Baby_Yaga%27s_House).",
     "url": "https://runescape.wiki/w/Baby_Yaga%27s_House_pet",
     "color": 12269891,
     "footer": {
@@ -252,7 +252,7 @@ exports.data = {
     "fields": [
       {
         "name": "Methods to Obtain:",
-        "value": "• Building furniture hotspots\n• Building flatpacks\n• Fixing harmonium harps\n• Building hidey-holes"
+        "value": "• Building furniture hotspots\n• Building flatpacks\n• Fixing harmonium harps\n• Building hidey-holes\n• Shifting Tombs"
       },
       {
         "name": "Best Method:",
@@ -294,7 +294,7 @@ exports.data = {
   "distractions and diversions": { 
 "title": "Distractions and Diversions", 
 "url": "https://runescape.wiki/w/Distractions_and_Diversions", 
-"description": "D&Ds are a subclassification of [minigames](https://runescape.wiki/w/Minigames). However, unlike minigames many D&Ds move around the world to various locations, have a limit on how often they can be played, and only occur at particular times of day.\n\nDistractions and Diversions aim to divert the original intentions of the player in order to provide an interesting distraction from their everyday routines. D&Ds come in many different shapes and sizes; covering Combat, Gathering, Artisan, and Support skills. There are a wide variety of different options available to suit the players choice.", 
+"description": "D&Ds are a subclassification of [minigames](https://runescape.wiki/w/Minigames). However, unlike minigames, many D&Ds move around the world to various locations, have a limit on how often they can be played, and only occur at particular times of day.\n\nDistractions and Diversions aim to divert the original intentions of the player in order to provide an interesting distraction from their everyday routines. D&Ds come in many different shapes and sizes; covering Combat, Gathering, Artisan, and Support skills. There are a wide variety of different options available to suit the players choice.", 
 "color": 12269891, 
 "footer": { 
 "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg", 
@@ -326,7 +326,7 @@ exports.data = {
 },
 { 
 "name": "▬▬ Wilderness Warbands ▬▬", 
-"value": "[Wilderness Warbands](https://runescape.wiki/w/Wilderness_Warbands) is a dangerous members Distraction & Diversion that occurs in the [Wilderness](https://runescape.wiki/w/Wilderness), composed of heavily defended storage camps guarded by the followers of the different gods. They will set up camp in the Wilderness every 7 hours, one time at each of the [three locations]((https://runescape.wiki/w/Wilderness_Warbands#Time_for_the_next_warbands). Warbands events are synchronised on each world.\n\nWilderness Warbands gives experience in Farming, Construction, Herblore, Mining, or Smithing. While no combat is necessary, it is still highly contested between players, which may result in the loss of most rewards if you are killed. Players should take combat equipment to fight off/scare off player killers but must be conscious of the fact that this gear can be lost too. You also need 25 free inventory spaces for the Warbands supplies from [looting](https://runescape.wiki/w/Wilderness_Warbands#Looting) the camps." 
+"value": "[Wilderness Warbands](https://runescape.wiki/w/Wilderness_Warbands) is a dangerous members Distraction & Diversion that occurs in the [Wilderness](https://runescape.wiki/w/Wilderness), composed of heavily defended storage camps guarded by the followers of the different gods. They will set up camp in the Wilderness every 7 hours, one time at each of the [three locations]((https://runescape.wiki/w/Wilderness_Warbands#Time_for_the_next_warbands). Warbands events are synchronized on each world.\n\nWilderness Warbands gives experience in Farming, Construction, Herblore, Mining, or Smithing. While no combat is necessary, it is still highly contested between players, which may result in the loss of most rewards if you are killed. Players should take combat equipment to fight off/scare off player killers but must be conscious of the fact that this gear can be lost too. You also need 25 free inventory spaces for the Warbands supplies from [looting](https://runescape.wiki/w/Wilderness_Warbands#Looting) the camps." 
 }, 
 { 
 "name": "​", 
@@ -337,7 +337,7 @@ exports.data = {
   "daily challenge": {
     "title": "Daily Challenge",
     "url": "https://runescape.wiki/w/Challenge_System/Construction",
-    "description": "Completing a daily challenge in Construction will give Construction experience, depending on the player's Construction level.",
+    "description": "Completing a daily challenge in Construction will give Construction experience. The amount of experience depends on the player's Construction level.",
         "color": 12269891,
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
@@ -360,7 +360,7 @@ exports.data = {
   "permanent boosts": {
     "title": "Permanent Boosts",
     "url": "https://runescape.wiki/w/Bonus_experience_items",
-    "description": "A permanent skill boost is anything caused by an item that permanently raises a player's level in one or more skills. It allows the player to do things above their current level.",
+    "description": "A permanent skill boost is anything caused by an item that permanently raises a player's level or ability in one or more skills. It allows the player to do things above their current level or ability.",
         "color": 12269891,
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
@@ -395,7 +395,7 @@ exports.data = {
   "temporary boosts": {
     "title": "Temporary Boosts",
     "url": "https://runescape.wiki/w/Temporary_skill_boost",
-    "description": "A temporary skill boost is anything caused by an item, Summoning familiar, or action that temporarily raises a player's level in one or more skills. It allows the player to do things above their current level.",
+    "description": "A temporary skill boost is anything caused by an item, [Summoning familiar](https://runescape.wiki/w/Summoning_familiars), or action that temporarily raises a player's level or ability in one or more skills. It allows the player to do things above their current level or ability.",
         "color": 12269891,
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
@@ -415,7 +415,7 @@ exports.data = {
       },
       {
         "name": "​",
-        "value": "[Sacred Clay Hammer](https://runescape.wiki/w/Sacred_clay_hammer)\n• 24,450 bonus experience\n• Costs 20 [Stealing Creation](https://runescape.wiki/w/Stealing_Creation) points\n\n[Volatile Clay Hammer](https://runescape.wiki/w/Volatile_clay_hammer)\n• 29,340 bonus experience\n• Costs 20 Stealing Creation points\n• +2 Construction levels\n\n[God Banner](https://runescape.wiki/w/God_banner)\n• +2 levels\n• Lasts 30 minutes once per day\n\n[Spicy Stew](https://runescape.wiki/w/Spicy_stew)\n • Boost is applied to a random skill\n• Each color [spice](https://runescape.wiki/w/Spicy_stew#Spices) affects different skills\n • Up to ±6 with 3 spice doses\n • Up to ±3 with 2 spice doses\n • Up to ±2 with 1 spice dose"
+        "value": "[Sacred Clay Hammer](https://runescape.wiki/w/Sacred_clay_hammer)\n• 24,450 bonus experience\n• Costs 20 [Stealing Creation](https://runescape.wiki/w/Stealing_Creation) points\n\n[Volatile Clay Hammer](https://runescape.wiki/w/Volatile_clay_hammer)\n• 29,340 bonus experience\n• Costs 20 Stealing Creation points\n• +2 Construction levels\n\n[God Banner](https://runescape.wiki/w/God_banner)\n• +2 levels\n• Lasts 30 minutes once per day\n\n[Spicy Stew](https://runescape.wiki/w/Spicy_stew)\n• Boost is applied to a random skill\n• Each color [spice](https://runescape.wiki/w/Spicy_stew#Spices) affects different skills\n• Up to ±6 with 3 spice doses\n• Up to ±3 with 2 spice doses\n• Up to ±2 with 1 spice dose"
       }
        ]
   }
