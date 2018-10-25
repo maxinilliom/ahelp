@@ -105,7 +105,7 @@ exports.data = {
                     },
                     {
                         "name": "Phase 4:",
-                        "value": "Araxxi attacks with both range and mage, so it is important to flick [prayers](https://runescape.wiki/w/Deflect_Curses) during this phase. Clear the poison through your preffered method, such as an [antipoison potion](https://runescape.wiki/w/Antipoison) while in this phase.\nA green orb of poison is the magic attack - so pray mage.\nA white ball of silk is the ranged attack - so pray ranged."
+                        "value": "Araxxi attacks with both range and mage, so it is important to flick [prayers](https://runescape.wiki/w/Deflect_Curses) during this phase. Clear the poison through your preferred method, such as an [antipoison potion](https://runescape.wiki/w/Antipoison) while in this phase.\nA green orb of poison is the magic attack - so pray mage.\nA white ball of silk is the ranged attack - so pray ranged."
                     },
                     {
                         "name": "​",
@@ -218,7 +218,7 @@ exports.data = {
                     },
                     {
                         "name": "Strategy:",
-                        "value": "• Each brother resides in a Crypt in their respective tombs and are summoned by clicking the tomb.\n\n• One of the brothers, except Linza, is randomly chosen to lead to the catacombs below barrows. The player will get a chatbox popup when interacting with this chest instead of the brother spawning. Players must wait to kill this brother last.\n\n• If only going for killcount, it’s recommended to ignore Akrisae and Linza as they are significantly more challenging than the others and players only need to kill 6 total brothers for the killcount to count."
+                        "value": "• Each brother resides in a Crypt in their respective tombs and are summoned by clicking the tomb.\n\n• One of the brothers, except Linza, is randomly chosen to lead to the catacombs below barrows. The player will get a chat-box pop-up when interacting with this chest instead of the brother spawning. Players must wait to kill this brother last.\n\n• If only going for killcount, it’s recommended to ignore Akrisae and Linza as they are significantly more challenging than the others and players only need to kill 6 total brothers for the killcount to count."
                     },
                     {
                         "name": "The Tunnels:",
@@ -245,7 +245,7 @@ exports.data = {
                     "name": "Boss Reaper Kill Info",
                     "icon_url": "https://i.imgur.com/6c6q2iC.png"
                 },
-                "description": "[Barrows: Rise of the Six](https://runescape.wiki/w/Barrows:_Rise_of_the_Six) is the sequel to the standard [Barrows](https://runescape.wiki/w/Barrows) [minigame](https://runescape.wiki/w/Minigames). It features a team of one to four players fighting against all six of the [Barrows Brothers](https://runescape.wiki/w/Barrows_brothers): [Ahrim](https://runescape.wiki/w/Barrows:_Rise_of_the_Six/Strategies#Ahrim_the_Blighted), [Dharok](https://runescape.wiki/w/Barrows:_Rise_of_the_Six/Strategies#Dharok_the_Wretched), [Guthan](https://runescape.wiki/w/Barrows:_Rise_of_the_Six/Strategies#Guthan_the_Infested), [Torag](https://runescape.wiki/w/Barrows:_Rise_of_the_Six/Strategies#Torag_the_Corrupted), [Verac](https://runescape.wiki/w/Barrows:_Rise_of_the_Six/Strategies#Verac_the_Defiled), and [Karil](https://runescape.wiki/w/Barrows:_Rise_of_the_Six/Strategies#Karil_the_Tainted). All six brothers, however, have been greatly enhanced by [Sliske](https://runescape.wiki/w/Sliske)'s experiments in the [Shadow Realm](https://runescape.wiki/w/Shadow_Realm), each increasing from level 150 and 12,000 life points to level 650 and 50,000 life points. Players distribute themselves across the two sides or on one side of the arena, and defeat all 6 brothers at once in order to loot the reward chest.\n\nThe entrance to the minigame can be found west of the entrance to the Barrows, within a well that is surrounded by four outbuildings. It is marked on the minimap by a well icon (blue waterdrop). The quickest way to get there is using [Drakan's medallion](https://runescape.wiki/w/Drakan%27s_medallion), which is unlocked during [the Branches of Darkmeyer](https://runescape.wiki/w/The_Branches_of_Darkmeyer). Teams of 4 can use the [Grouping System](https://runescape.wiki/w/Grouping_System), though one player must have a [Barrows totem](https://runescape.wiki/w/Barrows_totem) with them.",
+                "description": "[Barrows: Rise of the Six](https://runescape.wiki/w/Barrows:_Rise_of_the_Six) is the sequel to the standard [Barrows](https://runescape.wiki/w/Barrows) [minigame](https://runescape.wiki/w/Minigames). It features a team of one to four players fighting against all six of the [Barrows Brothers](https://runescape.wiki/w/Barrows_brothers): [Ahrim](https://runescape.wiki/w/Barrows:_Rise_of_the_Six/Strategies#Ahrim_the_Blighted), [Dharok](https://runescape.wiki/w/Barrows:_Rise_of_the_Six/Strategies#Dharok_the_Wretched), [Guthan](https://runescape.wiki/w/Barrows:_Rise_of_the_Six/Strategies#Guthan_the_Infested), [Torag](https://runescape.wiki/w/Barrows:_Rise_of_the_Six/Strategies#Torag_the_Corrupted), [Verac](https://runescape.wiki/w/Barrows:_Rise_of_the_Six/Strategies#Verac_the_Defiled), and [Karil](https://runescape.wiki/w/Barrows:_Rise_of_the_Six/Strategies#Karil_the_Tainted). All six brothers, however, have been greatly enhanced by [Sliske](https://runescape.wiki/w/Sliske)'s experiments in the [Shadow Realm](https://runescape.wiki/w/Shadow_Realm), each increasing from level 150 and 12,000 life points to level 650 and 50,000 life points. Players distribute themselves across the two sides or on one side of the arena, and defeat all 6 brothers at once in order to loot the reward chest.\n\nThe entrance to the minigame can be found west of the entrance to the Barrows, within a well that is surrounded by four outbuildings. It is marked on the mini-map by a well icon (blue water-drop). The quickest way to get there is using [Drakan's medallion](https://runescape.wiki/w/Drakan%27s_medallion), which is unlocked during [the Branches of Darkmeyer](https://runescape.wiki/w/The_Branches_of_Darkmeyer). Teams of 4 can use the [Grouping System](https://runescape.wiki/w/Grouping_System), though one player must have a [Barrows totem](https://runescape.wiki/w/Barrows_totem) with them.",
                 "thumbnail": {
                     "url": "https://vignette.wikia.nocookie.net/runescape2/images/2/23/Ahrim_the_Blighted_%28Shadow%29.png/revision/latest?cb=20131207232422"
                 },
@@ -321,11 +321,11 @@ exports.data = {
                     },
                     {
                         "name": "The Pre-Fight Scene",
-                        "value": "Players want to use the Deflect Missiles throughout this part of the fight.\n\nTo begin the fight, talk to the trapped goebie in the middle of the arena. Once you free him, he will run off to find his friends and they will all come out in panic. A bar above will tell the team to kill 39 [Tuska](https://runescape.wiki/w/Tuska)-related units - which are enhanced Airuts and [Chargers](https://runescape.wiki/w/Charger). The charges do not count towards the counter, however. Each of these monsters will appear from the gongs that the goebies came out of at the North, East, South, and West points of the pit.\n\nHalfway through the bar (~21 units remaining), [Cormes](https://runescape.wiki/w/Cormes) will appear from the western gong. The pet tank 1 role will ensure this pet is standing so it is facing the northwest or southwest corner."
+                        "value": "Players want to use the Deflect Missiles throughout this part of the fight.\n\nTo begin the fight, talk to the trapped goebie in the middle of the arena. Once you free him, he will run off to find his friends and they will all come out in panic. A bar above will tell the team to kill 39 [Tuska](https://runescape.wiki/w/Tuska)-related units - which are enhanced Airuts and [Chargers](https://runescape.wiki/w/Charger). The charges do not count towards the counter, however. Each of these monsters will appear from the gongs that the Goebies came out of at the North, East, South, and West points of the pit.\n\nHalfway through the bar (~21 units remaining), [Cormes](https://runescape.wiki/w/Cormes) will appear from the western gong. The pet tank 1 role will ensure this pet is standing so it is facing the northwest or southwest corner."
                     },
                     {
                         "name": "​",
-                        "value": "Once all 39 Airut units are killed, Durzag will appear in the northeast corner with one of his pets appearing by the northern gong. If you are attacked by multiple chargers or hit with an Airut [special](https://runescape.wiki/w/Airut/Strategies#Abilities) at anypoint during this phase, ensure to switch prayers to Deflect Melee."
+                        "value": "Once all 39 Airut units are killed, Durzag will appear in the northeast corner with one of his pets appearing by the northern gong. If you are attacked by multiple chargers or hit with an Airut [special](https://runescape.wiki/w/Airut/Strategies#Abilities) at any point during this phase, ensure to switch prayers to Deflect Melee."
                     },
                     {
                         "name": "The Fight with Durzag",
@@ -333,7 +333,7 @@ exports.data = {
                     },
                     {
                         "name": "Enrage Phase",
-                        "value": "At 750,000 life points, Durzag becomes invulnerable to standard damage, so Tuz and Krar must be killed to remove his invulnerability. Killing each of them will cause Durzag's damage to increase by 75%.\n\nBeastmaster Durzag will start throwing [bombs](https://runescape.wiki/w/Bomb_(Pit_of_Trials), with the amount being equivalent to the remaining players within the battle. Each bomb deals 2000 typeless damage and puts all your [defensive](https://runescape.wiki/w/Abilities#Defence) [abilities](https://runescape.wiki/w/Abilities) on cooldown. Players can click on the bomb to defuse it in order to avoid getting hit.\n\nNote that the Chargers that spawn in this phase can be ignored, however, if you feel you are being overwhelmed by them, simply use Deflect Melee and be mindful of the range attacks."
+                        "value": "At 750,000 life points, Durzag becomes invulnerable to standard damage, so Tuz and Krar must be killed to remove his invulnerability. Killing each of them will cause Durzag's damage to increase by 75%.\n\nBeastmaster Durzag will start throwing [bombs](https://runescape.wiki/w/Bomb_(Pit_of_Trials), with the amount being equivalent to the remaining players within the battle. Each bomb deals 2000 typeless damage and puts all your [defensive](https://runescape.wiki/w/Abilities#Defence) [abilities](https://runescape.wiki/w/Abilities) on cool-down. Players can click on the bomb to defuse it in order to avoid getting hit.\n\nNote that the Chargers that spawn in this phase can be ignored, however, if you feel you are being overwhelmed by them, simply use Deflect Melee and be mindful of the range attacks."
                     }
                 ],
                 "footer": {
@@ -363,7 +363,7 @@ exports.data = {
                 },
                 {
                     "name": "Attack 1:",
-                    "value": "Occasionally she may send out spikes to everyone in the arena, which is accompanied with the player's screen shaking. This attack is a mix of both the [onyx](https://runescape.wiki/w/Onyx_dragon) and [hydrix dragons](https://runescape.wiki/w/Hydrix_dragon)' specials; damage dealt from this attack heals her, while it also drains any [adrenaline](https://runescape.wiki/w/Adrenaline) the player had and reduces adrenaline gain by 50% for a short duration.\n\nIf the attack hits you, you will be hit for 6,000 typless damage. To avoid this attack, simply moved out of the 3x3 square you and your teammates were in when your screen began to shake."
+                    "value": "Occasionally she may send out spikes to everyone in the arena, which is accompanied with the player's screen shaking. This attack is a mix of both the [onyx](https://runescape.wiki/w/Onyx_dragon) and [hydrix dragons](https://runescape.wiki/w/Hydrix_dragon)' specials; damage dealt from this attack heals her, while it also drains any [adrenaline](https://runescape.wiki/w/Adrenaline) the player had and reduces adrenaline gain by 50% for a short duration.\n\nIf the attack hits you, you will be hit for 6,000 typeless damage. To avoid this attack, simply moved out of the 3x3 square you and your teammates were in when your screen began to shake."
                 },
                 {
                     "name": "Attack 2:",
@@ -371,7 +371,7 @@ exports.data = {
                 },
                 {
                     "name": "​",
-                    "value": "• [Dominion mines](https://runescape.wiki/w/Dominion_mine) are recommended to speed up the kill, as they have **extremely high defence** for their level.\n\n• The [defensive](https://runescape.wiki/w/Abilities#Defence) [ability](https://runescape.wiki/w/Abilities), [reflect](https://runescape.wiki/w/Reflect), can be used during the black hand's magic attack to deal 2,000-3,000 damage to them.\n\n• Utilizing [deaths's switness](https://runescape.wiki/w/Death%27s_Swiftness) or [sunshine](https://runescape.wiki/w/Sunshine) next to the black hands without [planted feet](https://runescape.wiki/w/Planted_Feet) will hit them with consistent small chunks of damage, which can help given their high defence."
+                    "value": "• [Dominion mines](https://runescape.wiki/w/Dominion_mine) are recommended to speed up the kill, as they have **extremely high defence** for their level.\n\n• The [defensive](https://runescape.wiki/w/Abilities#Defence) [ability](https://runescape.wiki/w/Abilities), [reflect](https://runescape.wiki/w/Reflect), can be used during the black hand's magic attack to deal 2,000-3,000 damage to them.\n\n• Utilizing [death's swiftness](https://runescape.wiki/w/Death%27s_Swiftness) or [sunshine](https://runescape.wiki/w/Sunshine) next to the black hands without [planted feet](https://runescape.wiki/w/Planted_Feet) will hit them with consistent small chunks of damage, which can help given their high defence."
                 },
                 {
                     "name": "Attack 3:",
@@ -421,7 +421,7 @@ exports.data = {
                     },
                     {
                         "name": "Attack 3: Madness",
-                        "value": "• The player's mainhand weapon, along with up to three other equipped items, will be removed and placed in the player's inventory. If the player's inventory is full, then the items will remain equipped. Bringing an inventory full of inexpensive food that leaves an item in the inventory slot, such as a [Summer Pie](https://runescape.wiki/w/Summer_pie), is helpful to avoid this."
+                        "value": "• The player's main-hand weapon, along with up to three other equipped items, will be removed and placed in the player's inventory. If the player's inventory is full, then the items will remain equipped. Bringing an inventory full of inexpensive food that leaves an item in the inventory slot, such as a [Summer Pie](https://runescape.wiki/w/Summer_pie), is helpful to avoid this."
                     },
                     {
                         "name": "General Tips:",
@@ -459,7 +459,7 @@ exports.data = {
          },
          {  
             "name":"​Requirements and Recommendations:",
-            "value":"• 70 Agility\n• 40 Saradomonist Killcount\n• Access to God Wars Dungeon\n• __Recommended Attack Style:__ Magic\n• __Minimum Recommended Armour Tier:__ 70\n• __Minimum Recommended Weapon Tier:__ 70\n• __Recommended Prayer:__ [Protect from Magic](https://runescape.wiki/w/Protect_from_Magic) or [Soul Split](https://runescape.wiki/w/Soul_Split)"
+            "value":"• 70 Agility\n• 40 Saradominist Killcount\n• Access to God Wars Dungeon\n• __Recommended Attack Style:__ Magic\n• __Minimum Recommended Armour Tier:__ 70\n• __Minimum Recommended Weapon Tier:__ 70\n• __Recommended Prayer:__ [Protect from Magic](https://runescape.wiki/w/Protect_from_Magic) or [Soul Split](https://runescape.wiki/w/Soul_Split)"
          },
          {  
             "name":"​Melee Attack",
@@ -589,7 +589,7 @@ exports.data = {
          },
          {  
             "name":"Ranged Attack:",
-            "value":"Graardor only uses this when he is attacking a player outside of melee range. He smashes his hand into the ground creating shockwaves. It is not as accurate as his melee attack, but can hit everyone in the room. You can simply avoid this attack by staying within melee distance of the General."
+            "value":"Graardor only uses this when he is attacking a player outside of melee range. He smashes his hand into the ground creating shock-waves. It is not as accurate as his melee attack, but can hit everyone in the room. You can simply avoid this attack by staying within melee distance of the General."
          },
          {  
             "name":"Minions:",
@@ -627,7 +627,7 @@ exports.data = {
                     },
                     {
                         "name": "Burrow",
-                        "value": "The Giant Mole will burrow into the ground and move into one of the other caverns. Simply follow the mole or check for yellow dots on your minimap. "
+                        "value": "The Giant Mole will burrow into the ground and move into one of the other caverns. Simply follow the mole or check for yellow dots on your mini-map."
                     },
                     {
                         "name": "Northwest Cavern",
@@ -681,11 +681,11 @@ exports.data = {
                     },
                     {
                         "name": "Special Attack 1:",
-                        "value": "Gregorovic raises his arms and throws a Trick Knife at the player dealing high ranged damage. With a well-timed [Resonance](https://runescape.wiki/w/Resonance), this can give a ~2,200 heal to the player. This attack will bounce between players in the arena, to include outside the barrierand his own minions, 3 times before disappearing."
+                        "value": "Gregorovic raises his arms and throws a Trick Knife at the player dealing high ranged damage. With a well-timed [Resonance](https://runescape.wiki/w/Resonance), this can give a ~2,200 heal to the player. This attack will bounce between players in the arena, to include outside the barrier and his own minions, 3 times before disappearing."
                     },
                     {
                         "name": "Special Attack 2:",
-                        "value": "There are masks located on the northern, eastern, and western sides of his arena being:\n\t• Mask of Delirium (North).\n\t• Mask of Mania (Southwest).\n\t• Mask of Rage (Southeast).\n\nThree attacks after his Trick Knife, he will spawn one of three spirits depending which mask he is closest to, which will give Gregorovic a buff if it gets to him before the player draws its aggression. The effects are:\n\n\t• [Spirit of Delirium](https://runescape.wiki/w/Spirit_of_delirium): Increases poison damage.\n\t• [Spirit of Rage](https://runescape.wiki/w/Spirit_of_rage): Increases damage Gregorovic deals.\n\t• [Spirit of Mania](https://runescape.wiki/w/Spirit_of_mania): Increases Gregorovics attack speed.\n\nPlayers should stay north in the arena, as then he can only spawn the Spirit of delirium, which won’t affect you if you have the [Venomblood](https://runescape.wiki/w/Venomblood) perk."
+                        "value": "There are masks located on the northern, eastern, and western sides of his arena being:\n\t• Mask of Delirium (North).\n\t• Mask of Mania (Southwest).\n\t• Mask of Rage (Southeast).\n\nThree attacks after his Trick Knife, he will spawn one of three spirits depending which mask he is closest to, which will give Gregorovic a buff if it gets to him before the player draws its aggression. The effects are:\n\n\t• [Spirit of Delirium](https://runescape.wiki/w/Spirit_of_delirium): Increases poison damage.\n\t• [Spirit of Rage](https://runescape.wiki/w/Spirit_of_rage): Increases damage Gregorovic deals.\n\t• [Spirit of Mania](https://runescape.wiki/w/Spirit_of_mania): Increases Gregorovic's attack speed.\n\nPlayers should stay north in the arena, as then he can only spawn the Spirit of delirium, which won’t affect you if you have the [Venomblood](https://runescape.wiki/w/Venomblood) perk."
                     },
                     {
                         "name": "Special Attack 3:",
@@ -811,7 +811,7 @@ exports.data = {
                 },
                 {
                     "name": "Magic Attack:",
-                    "value": "K'ril jumps into the air and sends a shockwave with one of his scimitars. Players can prayer flick to [Protect from Magic](https://runescape.wiki/w/Protect_from_Magic), but it is best to just stay in melee distance so this attack does not occur."
+                    "value": "K'ril jumps into the air and sends a shock-wave with one of his scimitars. Players can prayer flick to [Protect from Magic](https://runescape.wiki/w/Protect_from_Magic), but it is best to just stay in melee distance so this attack does not occur."
                 },
                 {
                     "name": "Prayer Draining Attack: Yaarrgh!",
@@ -849,7 +849,7 @@ exports.data = {
                 },
                 {
                     "name": "Melee Attacks:",
-                    "value": "This phase is signified by the Kalphite King's wings being yellow. In this state, the King is weak to fire spells and does not perform his dig attack.\n\nThe Kalphite King has four different types of standard attacks:\n\t• **[Slaughter](https://runescape.wiki/w/Slaughter)**: Standard Slaughter bleed.\n\n\t• **[Dismember](https://runescape.wiki/w/Dismember)**: Standard Dismember bleed.\n\n\t• **Shove**: The king pushes players in front of him away, dealing melee damage.\n\n\t• **Quake**: The King will stomp the ground, emitting a visible shockwave that will hit all players within a 3 square radius, lowering their defense if it successfully hits."
+                    "value": "This phase is signified by the Kalphite King's wings being yellow. In this state, the King is weak to fire spells and does not perform his dig attack.\n\nThe Kalphite King has four different types of standard attacks:\n\t• **[Slaughter](https://runescape.wiki/w/Slaughter)**: Standard Slaughter bleed.\n\n\t• **[Dismember](https://runescape.wiki/w/Dismember)**: Standard Dismember bleed.\n\n\t• **Shove**: The king pushes players in front of him away, dealing melee damage.\n\n\t• **Quake**: The King will stomp the ground, emitting a visible shock-wave that will hit all players within a 3 square radius, lowering their defense if it successfully hits."
                 },
                 {
                     "name": "Ranged Attacks:",
@@ -861,7 +861,7 @@ exports.data = {
                 },
                 {
                     "name": "Magic Attacks:",
-                    "value": "This phase is signified by the Kalphite King's wings being coloured blue. In this state, it is weak to arrows and does not perform Beetlejuice.\n\n• **Blue Energy Orb**: This attack is similar to the [Impact](https://runescape.wiki/w/Impact) ability in that it interrupts the player's attacks for 1.2 seconds and snares for slightly longer.\n\n• **Yellow-Green Orb**: The king will launch some yellow-green coloured orbs at the players' squares that slowly levitate and explode. He may either summon one or two orbs for each player. One orb attacks can be either a standard magic attack, or [combust](https://runescape.wiki/w/Combust) players. Two orb attacks are standard magic attacks which can deal high damage, and being within the radius of one of the two orbs will result in both orbs damaging players near them."
+                    "value": "This phase is signified by the Kalphite King's wings being colored blue. In this state, it is weak to arrows and does not perform Beetlejuice.\n\n• **Blue Energy Orb**: This attack is similar to the [Impact](https://runescape.wiki/w/Impact) ability in that it interrupts the player's attacks for 1.2 seconds and snares for slightly longer.\n\n• **Yellow-Green Orb**: The king will launch some yellow-green colored orbs at the players' squares that slowly levitate and explode. He may either summon one or two orbs for each player. One orb attacks can be either a standard magic attack, or [combust](https://runescape.wiki/w/Combust) players. Two orb attacks are standard magic attacks which can deal high damage, and being within the radius of one of the two orbs will result in both orbs damaging players near them."
                 },
                 {
                     "name": "Other Attacks and Abilities:",
@@ -908,7 +908,7 @@ exports.data = {
                     },
                     {
                         "name": "Stage 2: Flying Stage",
-                        "value": "During her second stage, the Kalphite Queen will become airborn and will be immune to melee attacks, requiring the player to bring either a mage or range weapon. During this stage, she may continue to use her Bite, Lightning, and Spines special attacks."
+                        "value": "During her second stage, the Kalphite Queen will become airborne and will be immune to melee attacks, requiring the player to bring either a mage or range weapon. During this stage, she may continue to use her Bite, Lightning, and Spines special attacks."
                     },
                     {
                         "name": "Attack 1: Bite",
@@ -1053,7 +1053,7 @@ exports.data = {
                     "value": "The Legiones use fairly inaccurate magic attacks, and are able to summon lightning strikes on the floor that can be avoided. Legios always use two lightning attacks, then a basic magic attack, with the exception of Secundus and Sextus. Legiones can only be damaged with ranged attacks."
                 },
                 {
-                    "name": "Lighting Stikes:",
+                    "name": "Lighting Strikes:",
                     "value": "These lightning strikes are not to be underestimated; they can deal incredibly high damage based on the player's position, and always hit with 100% accuracy regardless of the player's armour rating.\n\n• If on the edge of the lightning strike, the player will only be hit for one hit of roughly 1,400+ base damage.\n• Standing one step away from the center will deal roughly 1,800-2,000 base damage.\n• Standing exactly in the center will deal 2,200-2,400 base damage.\n\nApart from the increased damage, the rate of damage also increases the closer the player is to the center; when standing exactly on top of the lightning strike, damage incurred is twice as fast compared to the edges."
                 },
                 {
@@ -1113,7 +1113,7 @@ exports.data = {
                 },
                 {
                     "name": "Attack 2: Spin",
-                    "value": "Masuta will choose a target and spin in circles, dealing rapid damage and following the targetted player's pathing. Whoever is targeted by this should utilize [devotion](https://runescape.wiki/w/Devotion), run to the top of the stairs, and [surge](https://runescape.wiki/w/Surge) back down when Masuta is half way up the stairs. Whoever is not targeted should continue to DPS and stay out of the path between the targetted player and Masuta."
+                    "value": "Masuta will choose a target and spin in circles, dealing rapid damage and following the targeted player's pathing. Whoever is targeted by this should utilize [devotion](https://runescape.wiki/w/Devotion), run to the top of the stairs, and [surge](https://runescape.wiki/w/Surge) back down when Masuta is half way up the stairs. Whoever is not targeted should continue to DPS and stay out of the path between the targeted player and Masuta."
                 },
                 {
                     "name": "Attack 3: \"I will pulverise you\"",
@@ -1121,7 +1121,7 @@ exports.data = {
                 },
                 {
                     "name": "Attack 4:",
-                    "value": "Masuta will float into the are and spawn purple cloud-like feathers. Ensure you do not stand in them or you will take up to 8,000 magic damage. Once Masuta finishes this attack, he will slam to the ground, dealing an additional 8,500 magic damage. To avoid this aspect, simply do not stand underneath him.\n\nAt roughly 50% life points remaining, he will float, and remain floating, while reducing damage taken to almost nothing. You should protect/deflect from magic in this phase. He will then spawn [thrashing waters](https://runescape.wiki/w/Thrashing_water) that should be killed. Players can deal with mechanic by standing on the most southern edge of the arena and only attacking the thrasing waters on the lower platform. If you do this, you should remain in place for the rest of the fight. After a 17 thrashing waters have spawned, he will go back to the ground and become damageable again."
+                    "value": "Masuta will float into the are and spawn purple cloud-like feathers. Ensure you do not stand in them or you will take up to 8,000 magic damage. Once Masuta finishes this attack, he will slam to the ground, dealing an additional 8,500 magic damage. To avoid this aspect, simply do not stand underneath him.\n\nAt roughly 50% life points remaining, he will float, and remain floating, while reducing damage taken to almost nothing. You should protect/deflect from magic in this phase. He will then spawn [thrashing waters](https://runescape.wiki/w/Thrashing_water) that should be killed. Players can deal with mechanic by standing on the most southern edge of the arena and only attacking the thrashing waters on the lower platform. If you do this, you should remain in place for the rest of the fight. After a 17 thrashing waters have spawned, he will go back to the ground and become damageable again."
                 },
                 {
                     "name": "​",
@@ -1163,7 +1163,7 @@ exports.data = {
                 },
                 {
                     "name": "Phase 1: Smoke",
-                    "value": "*Protect from magic on this phase*\n\nMake sure to use [Anticipation](https://runescape.wiki/w/Anticipation) when it's available on this phase to avoid getting pulled in by Nex. After several autoattacks, Nex will say \"There is...\" which is your cue to avoid the middle cross of the arena. You can take [antipoison](https://runescape.wiki/w/Antipoison) for this phase, but it’s not a very powerful poison. Once Nex hits 160,000 lifepoints, focus your attack on [Fumus](https://runescape.wiki/w/Fumus) in the northwest corner."
+                    "value": "*Protect from magic on this phase*\n\nMake sure to use [Anticipation](https://runescape.wiki/w/Anticipation) when it's available on this phase to avoid getting pulled in by Nex. After several auto-attacks, Nex will say \"There is...\" which is your cue to avoid the middle cross of the arena. You can take [antipoison](https://runescape.wiki/w/Antipoison) for this phase, but it’s not a very powerful poison. Once Nex hits 160,000 lifepoints, focus your attack on [Fumus](https://runescape.wiki/w/Fumus) in the northwest corner."
                 },
                 {
                     "name": "Phase 2: Shadow",
@@ -1171,7 +1171,7 @@ exports.data = {
                 },
                 {
                     "name": "Phase 3: Blood",
-                    "value": "*Protect from magic on this phase*\n\nThis phase is usually seen as the hardest, but with one or more teachers it shouldn’t pose any problems. After Umbra is dead, Nex is tagged into Blood Phase and will say \"a siphon will solve this!\" which is your cue to __**stop**__ attacking Nex until her siphon animation is completed and she resumes attacking as before. If you can, utilize [onslaught](https://runescape.wiki/w/Onslaught) as soon you begin attacking after her siphon to finish the phase quickly.\n\nIf your character gets turned red as Nec shouts \"I demand a blood sacrifice!\", [surge](https://runescape.wiki/w/Surge) away from her.\n\nEnsure you do not use bleeds like [fragmentation](https://runescape.wiki/w/Fragmentation_Shot) and [corruption shot](https://runescape.wiki/w/Corruption_Shot) because they will heal instead of damage her. Once Nex hits 80,000 lifepoints, focus your attack on [Cruor](https://runescape.wiki/w/Cruor) in the southeast corner."
+                    "value": "*Protect from magic on this phase*\n\nThis phase is usually seen as the hardest, but with one or more teachers it shouldn’t pose any problems. After Umbra is dead, Nex is tagged into Blood Phase and will say \"a siphon will solve this!\" which is your cue to __**stop**__ attacking Nex until her siphon animation is completed and she resumes attacking as before. If you can, utilize [onslaught](https://runescape.wiki/w/Onslaught) as soon you begin attacking after her siphon to finish the phase quickly.\n\nIf your character gets turned red as Nex shouts \"I demand a blood sacrifice!\", [surge](https://runescape.wiki/w/Surge) away from her.\n\nEnsure you do not use bleeds like [fragmentation](https://runescape.wiki/w/Fragmentation_Shot) and [corruption shot](https://runescape.wiki/w/Corruption_Shot) because they will heal instead of damage her. Once Nex hits 80,000 lifepoints, focus your attack on [Cruor](https://runescape.wiki/w/Cruor) in the southeast corner."
                 },
                 {
                     "name": "Phase 4: Ice",
@@ -1210,11 +1210,11 @@ exports.data = {
                     },
                     {
                         "name": "Phase 1:",
-                        "value": "Nex: Angel of Death has two special attacks for this phase:\n\n• **Ice Quadrants:** Nex will look into a corner and then devide the arena into four quadrants. Players must try to avoid the quadrant Nex is facing as you will take 3x 3,500 typeless damge hits within this quadrant. Players can use [Resonance](https://runescape.wiki/w/Resonance) to reduce a single hit to 0. Players can also use [Barricade](https://runescape.wiki/w/Barricade) to block all the incoming damage.\n\n• **Blood Balls:** Typically in a mass you will not see this special. If, however you come across this special attack: Players need to move a square everytime a fire ball falls from the sky. There will be a total of three balls. Players should avoid standing on fire balls that fall onto other players, as they can be hurt by this aswell.  "
+                        "value": "Nex: Angel of Death has two special attacks for this phase:\n\n• **Ice Quadrants:** Nex will look into a corner and then divide the arena into four quadrants. Players must try to avoid the quadrant Nex is facing as you will take 3x 3,500 typeless damage hits within this quadrant. Players can use [Resonance](https://runescape.wiki/w/Resonance) to reduce a single hit to 0. Players can also use [Barricade](https://runescape.wiki/w/Barricade) to block all the incoming damage.\n\n• **Blood Balls:** Typically in a mass you will not see this special. If, however you come across this special attack: Players need to move a square every time a fire ball falls from the sky. There will be a total of three balls. Players should avoid standing on fire balls that fall onto other players, as they can be hurt by this as well.  "
                     },
                     {
                         "name": "​",
-                        "value": "Nex will rotate between these two specials until she has 2,100,000 life points remaining. At this point she will become briefly untargetable. Four Amalgamation crystals will spawn in the four corners of the center platform. Players must position themself away from the platform as they will take 4,000 damage if they are too close to it. It is important to DPS the crystal down before the timer runs out. [Umbra](https://runescape.wiki/w/Umbra), [Glacies](https://runescape.wiki/w/Glacies), [Cruor](https://runescape.wiki/w/Cruor) and [Fumus](https://runescape.wiki/w/Fumus) will spawn from the four crystals. Players can ignore them and continue to fight Nex until she has 1,800,000 life points remaining."
+                        "value": "Nex will rotate between these two specials until she has 2,100,000 life points remaining. At this point she will become briefly untargetable. Four Amalgamation crystals will spawn in the four corners of the center platform. Players must position themselves away from the platform as they will take 4,000 damage if they are too close to it. It is important to DPS the crystal down before the timer runs out. [Umbra](https://runescape.wiki/w/Umbra), [Glacies](https://runescape.wiki/w/Glacies), [Cruor](https://runescape.wiki/w/Cruor) and [Fumus](https://runescape.wiki/w/Fumus) will spawn from the four crystals. Players can ignore them and continue to fight Nex until she has 1,800,000 life points remaining."
                     },
                     {
                         "name": "Phase 2:",
@@ -1238,11 +1238,11 @@ exports.data = {
               "fields": [
                 {
                         "name": "Phase 3:",
-                        "value": "The first thing players should do at the start of this phase is constantly move around until the shadow spots underneath you disappear. After which, head to the southeast corner of the arena and start killing the pillar. Players will need to kill the pillars in the same order they killed the minions. After killing the southeast pillar kill the next pillars moving counterclockwise.\n\n**Souteast corner:** Shadows will appear underneath you. If the player stand too long on the same spot, they will get hit by a massive amount of damage. Note: Players can be hit by the shadows from other players.\n\n**Northwest corner:** This pillar will make your screen become glossy. Players can use Freedom to remove the icing effect.\n\n**Northwest corner:** This pillar will heal Nex."
+                        "value": "The first thing players should do at the start of this phase is constantly move around until the shadow spots underneath you disappear. After which, head to the southeast corner of the arena and start killing the pillar. Players will need to kill the pillars in the same order they killed the minions. After killing the southeast pillar kill the next pillars moving counterclockwise.\n\n**Southeast corner:** Shadows will appear underneath you. If the player stand too long on the same spot, they will get hit by a massive amount of damage. Note: Players can be hit by the shadows from other players.\n\n**Northwest corner:** This pillar will make your screen become glossy. Players can use Freedom to remove the icing effect.\n\n**Northwest corner:** This pillar will heal Nex."
                     },
                     {
                         "name": "​",
-                        "value": "**Southwest corner:** This pillar will [poison](https://runescape.wiki/w/Poison) all players and drain overload effects and prayer points. Players can drink an antipoison as the poison will hit for 1000 damge.\n\nThe effects of each pillar will disappear if they get destroyed."
+                        "value": "**Southwest corner:** This pillar will [poison](https://runescape.wiki/w/Poison) all players and drain overload effects and prayer points. Players can drink an antipoison as the poison will hit for 1,000 damage.\n\nThe effects of each pillar will disappear if they get destroyed."
                     },
                     {
                         "name": "​",
@@ -1291,11 +1291,11 @@ exports.data = {
          },
          {  
             "name":"Standard Dragon Breath",
-            "value":"The Queen Black Dragon has a dragon breath that even [super](https://runescape.wiki/w/Super_antifire) [antifires](https://runescape.wiki/w/Antifire) with a [dragonfire](https://runescape.wiki/w/Dragonfire) [shield](https://runescape.wiki/w/Dragonfire_shield)/[anti-dragon shield](https://runescape.wiki/w/Anti-dragon_shield) cannot fully block. This attack is reduced to the low 400s with full antifire protection, and 800's with standard protection. There is a ten second cooldown on this attack, preventing the player from being inflicted with continuous typeless damage. This attack will hit over 1,500 without any dragonfire protection."
+            "value":"The Queen Black Dragon has a dragon breath that even [super](https://runescape.wiki/w/Super_antifire) [antifires](https://runescape.wiki/w/Antifire) with a [dragonfire](https://runescape.wiki/w/Dragonfire) [shield](https://runescape.wiki/w/Dragonfire_shield)/[anti-dragon shield](https://runescape.wiki/w/Anti-dragon_shield) cannot fully block. This attack is reduced to the low 400s with full antifire protection, and 800's with standard protection. There is a ten second cool-down on this attack, preventing the player from being inflicted with continuous typeless damage. This attack will hit over 1,500 without any dragonfire protection."
          },
          {  
             "name":"Fire Wave",
-            "value":"An orange message appears in the chatbox prior to this attack, saying ***The Queen Black Dragon takes a huge breath***. A few seconds later, a fire wall will appear at the northern edge of the fighting area, moving south at moderate speed.\n\nThe fighting area consists of a platform 19 squares from west to east. As the wall descends, there is always one gap out of three possibilities available for the player to pass through.\n\n• Possibility 1 has the gap on the 5th square.\n• Possibility 2 has the gap on the 9th square (one square to the left of the center artefact).\n• Possibility 3 has the gap on the 15th square (the 5th from the right).\n\n750 damage is dealt for every game tick of contact with the wall when the player drinks a super antifire, and 1,875 damage is dealt with a regular antifire. Without any, the flame walls hit 2,500 per game tick of contact. If you do not move from the flame walls and let it hit you, you will be hit two times per flame wall."
+            "value":"An orange message appears in the chat-box prior to this attack, saying ***The Queen Black Dragon takes a huge breath***. A few seconds later, a fire wall will appear at the northern edge of the fighting area, moving south at moderate speed.\n\nThe fighting area consists of a platform 19 squares from west to east. As the wall descends, there is always one gap out of three possibilities available for the player to pass through.\n\n• Possibility 1 has the gap on the 5th square.\n• Possibility 2 has the gap on the 9th square (one square to the left of the center artefact).\n• Possibility 3 has the gap on the 15th square (the 5th from the right).\n\n750 damage is dealt for every game tick of contact with the wall when the player drinks a super antifire, and 1,875 damage is dealt with a regular antifire. Without any, the flame walls hit 2,500 per game tick of contact. If you do not move from the flame walls and let it hit you, you will be hit two times per flame wall."
          },
          {  
             "name":"Grotworms",
@@ -1311,14 +1311,14 @@ exports.data = {
         "fields": [
         {  
             "name":"Tortured Souls",
-            "value":"One of the most notable aspects of the entire fight is the summoning of [tortured souls](https://runescape.wiki/w/Tortured_soul_(Queen_Black_Dragon). Seconds before the attack is used, a purple message will appear in the chatbox saying ***The Queen Black Dragon summons one/several of her captured souls.***\n\nThis attack is not used at all during the first stage. Of the others:\n• Stage two: **One** soul will spawn one square west of the player.\n• Stage three: **Two** souls will spawn, one on each side of the player.\n• Stage four: **Four** souls will spawn, each soul on a different square one diagonal away from the player (e.g. one tile northeast of the player)."
+            "value":"One of the most notable aspects of the entire fight is the summoning of [tortured souls](https://runescape.wiki/w/Tortured_soul_(Queen_Black_Dragon). Seconds before the attack is used, a purple message will appear in the chat-box saying ***The Queen Black Dragon summons one/several of her captured souls.***\n\nThis attack is not used at all during the first stage. Of the others:\n• Stage two: **One** soul will spawn one square west of the player.\n• Stage three: **Two** souls will spawn, one on each side of the player.\n• Stage four: **Four** souls will spawn, each soul on a different square one diagonal away from the player (e.g. one tile northeast of the player)."
          },
          {  
             "name":"​",
             "value":"If any of the spaces mentioned is occupied by water/magical platform, the soul will spawn somewhere else. After a tick, it releases a **chaotic cloud** which chases after the player unless it hits a soul, a worm, or the player, dealing 900-1,500 on whatever it comes in contact with. The cloud lasts for a **very long time** if the player tries to avoid it. If the soul that summoned that cloud is killed, it will immediately dissipate.\n\nPlayers should note that the souls do not target the player immediately and may instead wander around before they do so. Eating is not necessarily required when one or two souls are summoned, but it is recommended to eat up just in case during phase four, since you will most likely be hit by 2 clouds."
          },
          {  
-            "name":"Avoiding Chaotis Clouds",
+            "name":"Avoiding Chaotic Clouds",
             "value":"The timing is very important. You have to make your move just before the souls start their cloud attack. This happens around 1 second after they spawn, and just after their spawn animation stops.\n\n• **One soul:** Run to the square directly behind the soul. The cloud will spawn on the other side and hit it.\n• **Two souls:** Same as with one soul, run to the square behind either one of the souls. Both clouds will hit it. \n• **Four Souls:** This time, you should run diagonally across one of the souls. If done correctly all 4 clouds will hit and kill it."
          },
          {  
@@ -1327,7 +1327,7 @@ exports.data = {
          },
          {  
             "name":"Time Stop",
-            "value":"A single soul teleports to the edge of the arena, shouting **Kill me mortal...quickly! HURRY! BEFORE THE SPELL IS COMPLETE!**. If not killed, the soul will proceed to shout:\n\n• **Time is short!**\n• **She is pouring her energy into me...hurry!**\n• **The spell is nearly complete!**\n\nThe spell takes effect seconds after the final dialogue, ten seconds after the initial warning. A haze appears over the screen, freezing the whole arena except for the Queen Black Dragon and the soul which used the ability. During this time, players cannot move, eat, or teleport until it ends. The Queen Black Dragon will use all attacks at her disposal during that time, and when the ability ends the player will take all the damage in one tick, meaning that it is easy to die from this attack if not prepared. To tell when this attack is coming, you should focus on the screen and the minimap; if a soul disappears while attacking you it is very likely that it has begun the time stop."
+            "value":"A single soul teleports to the edge of the arena, shouting **Kill me mortal...quickly! HURRY! BEFORE THE SPELL IS COMPLETE!**. If not killed, the soul will proceed to shout:\n\n• **Time is short!**\n• **She is pouring her energy into me...hurry!**\n• **The spell is nearly complete!**\n\nThe spell takes effect seconds after the final dialog, ten seconds after the initial warning. A haze appears over the screen, freezing the whole arena except for the Queen Black Dragon and the soul which used the ability. During this time, players cannot move, eat, or teleport until it ends. The Queen Black Dragon will use all attacks at her disposal during that time, and when the ability ends the player will take all the damage in one tick, meaning that it is easy to die from this attack if not prepared. To tell when this attack is coming, you should focus on the screen and the mini-map; if a soul disappears while attacking you it is very likely that it has begun the time stop."
          },
          {  
             "name":"​",
@@ -1335,15 +1335,15 @@ exports.data = {
          },
          {
             "name":"Crystal Form",
-            "value":"On phases 3 or 4 the QBD can enter a **crystal form**. She will gain increased defence against magical attacks, which will also deal 25% less damage on her, while melee and ranged attacks deal 25% more damage. This state wears off in one minute, regardless if the phase is completed or not.\n\nThe player is notified of this move in the chatbox with the message, \"The Queen Black Dragon takes on the consistency of crystal; she is more resistant to magic, but weaker to physical damage.\""
+            "value":"On phases 3 or 4 the QBD can enter a **crystal form**. She will gain increased defence against magical attacks, which will also deal 25% less damage on her, while melee and ranged attacks deal 25% more damage. This state wears off in one minute, regardless if the phase is completed or not.\n\nThe player is notified of this move in the chat-box with the message, \"The Queen Black Dragon takes on the consistency of crystal; she is more resistant to magic, but weaker to physical damage.\""
          },
          {
            "name":"Hardened Carapace",
-           "value":"This is the inverse of the previous move, also occurring on phases 3 and 4. She will gain increased defence against melee and ranged attacks, which will also deal 25% less damage, while magic attacks have increased accuracy and deal 25% more damage. This state wears off in one minute, regardless if the phase is completed or not.\n\nThe player is notified of this move in the chatbox with the message, \"The Queen Black Dragon hardens her carapace; she is more resistant to physical damage, but more vulnerable to magic.\""
+           "value":"This is the inverse of the previous move, also occurring on phases 3 and 4. She will gain increased defence against melee and ranged attacks, which will also deal 25% less damage, while magic attacks have increased accuracy and deal 25% more damage. This state wears off in one minute, regardless if the phase is completed or not.\n\nThe player is notified of this move in the chat-box with the message, \"The Queen Black Dragon hardens her carapace; she is more resistant to physical damage, but more vulnerable to magic.\""
          },
          {
            "name":"Extreme Dragon Breath",
-           "value":"This is the QBD's most extreme dragonfire attack, only used in the final stage. The text **The Queen Black Dragon gathers her strength to breathe extremely hot flames** appears in dark orange on the player's chatbox seconds prior to the move. Once the attack begins, the damage will depend on how far you are from the Queen Black Dragon's head. Being in or very close to the middle will result in three hits of 1,950, which totals up to 5,850 life points. Staying on the side will results in three hits of 750, which totals up to 2,250 life points."
+           "value":"This is the QBD's most extreme dragonfire attack, only used in the final stage. The text **The Queen Black Dragon gathers her strength to breathe extremely hot flames** appears in dark orange on the player's chat-box seconds prior to the move. Once the attack begins, the damage will depend on how far you are from the Queen Black Dragon's head. Being in or very close to the middle will result in three hits of 1,950, which totals up to 5,850 life points. Staying on the side will results in three hits of 750, which totals up to 2,250 life points."
          }
         ]
     },
@@ -1379,7 +1379,7 @@ exports.data = {
                 "name": "Boss Reaper Kill Info",
                 "icon_url": "https://i.imgur.com/6c6q2iC.png"
             },
-            "description": "[Seiryu](https://runescape.wiki/w/Seiryu_the_Azure_Serpent) also referred to as the Azure Serpent, Guardian Beast of the Eastern Lands, and the Spirit of Purest Water is a legendary serpent worshipped by the [Acolytes of Seiryu](https://runescape.wiki/w/Acolytes_of_Seiryu).\n\nIt is one of the four guardians of the [Wushanko Isles](https://runescape.wiki/w/Wushanko_Isles) and is considered the purest one by the monks, being a spirit of water. It is located at the [Temple of Aminishi](https://runescape.wiki/w/Temple_of_Aminishi) Elite Dungeon.",
+            "description": "[Seiryu](https://runescape.wiki/w/Seiryu_the_Azure_Serpent) also referred to as the Azure Serpent, Guardian Beast of the Eastern Lands, and the Spirit of Purest Water is a legendary serpent worshiped by the [Acolytes of Seiryu](https://runescape.wiki/w/Acolytes_of_Seiryu).\n\nIt is one of the four guardians of the [Wushanko Isles](https://runescape.wiki/w/Wushanko_Isles) and is considered the purest one by the monks, being a spirit of water. It is located at the [Temple of Aminishi](https://runescape.wiki/w/Temple_of_Aminishi) Elite Dungeon.",
             "thumbnail": {
                 "url": "https://vignette.wikia.nocookie.net/runescape2/images/e/ea/Seiryu_the_Azure_Serpent.png/revision/latest?cb=20180626170421"
             },
@@ -1402,7 +1402,7 @@ exports.data = {
                 },
                 {
                     "name": "Attack 3:",
-                    "value": "The skybox of the arena will turn grey and a yellow area will appear in the arena as a black cloud moves from Seiryu to the arrow. When the cloud meets the arrow, shadow hands will spawn from the arrow towards your character. These must be dodged by moving out of their path either by clicking or utilizing [surge](https://runescape.wiki/w/Surge). If everyone moves to the arrow, no hands will spawn.\n\nHowever, it is possible for the arrow to spawn where other area of effect damage may damage the player, or for the player to be 1 tile off and receive massive damage, so it is best to just ignore the arrow and avoid the shadow hands. Simply pay attention to where it lands and move from its direction when the hands come towards you and your teammates while you continue to DPS."
+                    "value": "The sky-box of the arena will turn gray and a yellow area will appear in the arena as a black cloud moves from Seiryu to the arrow. When the cloud meets the arrow, shadow hands will spawn from the arrow towards your character. These must be dodged by moving out of their path either by clicking or utilizing [surge](https://runescape.wiki/w/Surge). If everyone moves to the arrow, no hands will spawn.\n\nHowever, it is possible for the arrow to spawn where other area of effect damage may damage the player, or for the player to be 1 tile off and receive massive damage, so it is best to just ignore the arrow and avoid the shadow hands. Simply pay attention to where it lands and move from its direction when the hands come towards you and your teammates while you continue to DPS."
                 },
                 {
                     "name": "Attack 4:",
@@ -1410,7 +1410,7 @@ exports.data = {
                 },
                 {
                     "name": "Attack 5:",
-                    "value": "Occasionaly, shadow hands will spawn from the northern edge of the arena. They spawn in a triangle formation, so be sure you give a wide distance between you and it by standing on the complete opposite side of the arena. Avoid standing near the northern wall when unnecessary as this could lead to a quick death from this attack spawning underneath you."
+                    "value": "Occasionally, shadow hands will spawn from the northern edge of the arena. They spawn in a triangle formation, so be sure you give a wide distance between you and it by standing on the complete opposite side of the arena. Avoid standing near the northern wall when unnecessary as this could lead to a quick death from this attack spawning underneath you."
                 },
                 {
                     "name": "​",
@@ -1456,7 +1456,7 @@ exports.data = {
                 },
                 {
                     "name": "​",
-                    "value": "You should be able to kill your root before the next mechanic. The tank has 2 roots to deal with, but the roots are at 20k life points each because of the mines, meaning they should be able to kill it faster than yours.\n\nThe next mechanic comes at ~52 seconds into the kill, be in near the center for this. The screen will shake and 2 of the 7 people on the team will get a timer and an arrow. One timer will be for 8 seconds, while the other will be for 13.\n\nIf you got a timer run to the arrow and [anticipate](https://runescape.wiki/w/Anticipation), moving away when its at 1. If both players with timers received the same direction for the arrow, the 8 second timed player should go first and then the 13 after.\n\n If you did not get a timer, move off the wall towads the center and use anticipate.\n\nClean up all the remaining roots, sometimes there is one on very low life points due to the DPS having to abandon their roots with the timer taking precedence."
+                    "value": "You should be able to kill your root before the next mechanic. The tank has 2 roots to deal with, but the roots are at 20k life points each because of the mines, meaning they should be able to kill it faster than yours.\n\nThe next mechanic comes at ~52 seconds into the kill, be in near the center for this. The screen will shake and 2 of the 7 people on the team will get a timer and an arrow. One timer will be for 8 seconds, while the other will be for 13.\n\nIf you got a timer run to the arrow and [anticipate](https://runescape.wiki/w/Anticipation), moving away when its at 1. If both players with timers received the same direction for the arrow, the 8 second timed player should go first and then the 13 after.\n\n If you did not get a timer, move off the wall towards the center and use anticipate.\n\nClean up all the remaining roots, sometimes there is one on very low life points due to the DPS having to abandon their roots with the timer taking precedence."
                 },
                 {
                     "name": "​",
@@ -1531,7 +1531,7 @@ exports.data = {
                     },
                     {
                         "name": "Mechanics",
-                        "value": "• **Tendrils (Phase 1 and 2 Only):** Telos says *\"Your anima will return to the source\"*, heals himself, and drains your [adrenaline](https://runescape.wiki/w/Adrenaline). You need to deal 3,000 damage to free yourself. Simply [Dragon breath](https://runescape.wiki/w/Dragon_Breath) and [Sonic Wave](https://runescape.wiki/w/Sonic_Wave) or use thresholds to free yourself.\n\n**• Uppercut (All Phases):** Telos says *\"Gielenor give me strength\"*, kneels, and charges you for damage. Use [surge](https://runescape.wiki/w/Surge), [escape](https://runescape.wiki/w/Escape) or [bladed dive](https://runescape.wiki/w/Bladed_dive) immediately after the overhead text disappears."
+                        "value": "• **Tendrils (Phase 1 and 2 Only):** Telos says *\"Your anima will return to the source\"*, heals himself, and drains your [adrenaline](https://runescape.wiki/w/Adrenaline). You need to deal 3,000 damage to free yourself. Simply [Dragon breath](https://runescape.wiki/w/Dragon_Breath) and [Sonic Wave](https://runescape.wiki/w/Sonic_Wave) or use thresholds to free yourself.\n\n**• Uppercut (All Phases):** Telos says *\"Gielinor give me strength\"*, kneels, and charges you for damage. Use [surge](https://runescape.wiki/w/Surge), [escape](https://runescape.wiki/w/Escape) or [bladed dive](https://runescape.wiki/w/Bladed_dive) immediately after the overhead text disappears."
                     },
                     {
                         "name": "​",
@@ -1543,11 +1543,11 @@ exports.data = {
                     },
                     {
                         "name": "Phase 2 (Pray Switch Melee and Mage):",
-                        "value": "The attack rotation actually varies depending on the last special of phase 1.\n\n• If your last special was Tendrils, the first special will be Magic Barrage.\n• If your last special was Uppercut, the first special will be Hold Still.\n• If your last special was Hold still, the first special will be Tendrils.\n\nOtherwise the phase follows a fixed repeating rotation, just adjust your starting point based on the last special of Phase 1.\n\nThe roration is: Mage barrage -> 3 attacks -> Hold Still -> 3 attacks -> Uppercut -> 3 attacks -> Tendril -> 3 attacks.\n\nFor this phase, you actually want to stall out the phase so that you **finish on a mage barrage special**. This makes phase 3 much easier."
+                        "value": "The attack rotation actually varies depending on the last special of phase 1.\n\n• If your last special was Tendrils, the first special will be Magic Barrage.\n• If your last special was Uppercut, the first special will be Hold Still.\n• If your last special was Hold still, the first special will be Tendrils.\n\nOtherwise the phase follows a fixed repeating rotation, just adjust your starting point based on the last special of Phase 1.\n\nThe rotation is: Mage barrage -> 3 attacks -> Hold Still -> 3 attacks -> Uppercut -> 3 attacks -> Tendril -> 3 attacks.\n\nFor this phase, you actually want to stall out the phase so that you **finish on a mage barrage special**. This makes phase 3 much easier."
                     },
                     {
                         "name": "Phase 3 (Pray Mage)",
-                        "value": "If you ended phase 2 on a magic barrage special, the rotation will be as follows.\n\nTelos always starts with 7 attacks, and then a repeating rotation of Red Virus -> 3 attacks -> Uppercut -> 3 attacks -> Hold Still -> 3 attacks.\n\nThis phase can be done very easily by following a few simple steps!\n\t1. Run to the south west corner.\n\t2. Then run into the red beam.\n\t3. Use [Onslaught](https://runescape.wiki/w/Onslaught).\n\t4. Surge to dodge uppercut.\n\t5. Kill the [anima golems](https://runescape.wiki/w/Anima-golem) present, and keep Telos out of the red beam.\n\t6. Resonance the hold still, and continue DPSing to finish the phase.\n\nIf the red bar fills to the right, Telos will start using powerful shockwaves. Don’t panic, use [reflect](https://runescape.wiki/w/Reflect) or [barricade](https://runescape.wiki/w/Barricade) and eat if you need to."
+                        "value": "If you ended phase 2 on a magic barrage special, the rotation will be as follows.\n\nTelos always starts with 7 attacks, and then a repeating rotation of Red Virus -> 3 attacks -> Uppercut -> 3 attacks -> Hold Still -> 3 attacks.\n\nThis phase can be done very easily by following a few simple steps!\n\t1. Run to the south west corner.\n\t2. Then run into the red beam.\n\t3. Use [Onslaught](https://runescape.wiki/w/Onslaught).\n\t4. Surge to dodge uppercut.\n\t5. Kill the [anima golems](https://runescape.wiki/w/Anima-golem) present, and keep Telos out of the red beam.\n\t6. Resonance the hold still, and continue DPSing to finish the phase.\n\nIf the red bar fills to the right, Telos will start using powerful shock-waves. Don’t panic, use [reflect](https://runescape.wiki/w/Reflect) or [barricade](https://runescape.wiki/w/Barricade) and eat if you need to."
                     }
             ]
         },
@@ -1575,7 +1575,7 @@ exports.data = {
                     "name": "Boss Reaper Kill Info",
                     "icon_url": "https://i.imgur.com/6c6q2iC.png"
                 },
-                "description": "Oreb, the Magister of House Charron, is a [necromancer](https://runescape.wiki/w/Necromancer) from the [human](https://runescape.wiki/w/Human) homeworld of [Teragard](https://runescape.wiki/w/Teragard), and a solo slayer boss. He may be found in the First Gate of the [Grim Underworld](https://runescape.wiki/w/Grim_Underworld), accessible from the [Sophanem Slayer Dungeon](https://runescape.wiki/w/Sophanem_Slayer_Dungeon).",
+                "description": "Oreb, the Magister of House Charron, is a [necromancer](https://runescape.wiki/w/Necromancer) from the [human](https://runescape.wiki/w/Human) home-world of [Teragard](https://runescape.wiki/w/Teragard), and a solo slayer boss. He may be found in the First Gate of the [Grim Underworld](https://runescape.wiki/w/Grim_Underworld), accessible from the [Sophanem Slayer Dungeon](https://runescape.wiki/w/Sophanem_Slayer_Dungeon).",
                 "thumbnail": {
                     "url": "https://vignette.wikia.nocookie.net/runescape2/images/1/11/The_Magister.png/revision/latest?cb=20170825212904"
                 },
@@ -1618,7 +1618,7 @@ exports.data = {
                     },
                     {
                         "name": "Your Soul - It Contains Such Power! I Must Have It!:",
-                        "value": "Upon reaching 150,000 life points, the soul obelisk turns active and sends out a health debuff (3 stacks each time). Each stack reduces the player's maximum health by 100, and also lowers the player's Constitution level. Drinking a dose of [super restore potion](https://runescape.wiki/w/Super_restore) removes seven of these stacks at a time."
+                        "value": "Upon reaching 150,000 life points, the soul obelisk turns active and sends out a health de-buff (3 stacks each time). Each stack reduces the player's maximum health by 100, and also lowers the player's Constitution level. Drinking a dose of [super restore potion](https://runescape.wiki/w/Super_restore) removes seven of these stacks at a time."
                     },
                     {
                         "name": "Let Us See How You Fare Against Corruption:",
@@ -1672,7 +1672,7 @@ exports.data = {
                 },
                 {
                     "name": "Attack 3: Water Jet",
-                    "value": "The boss will shoot water through its mouth spining around in an anti-clockwise rotation starting directly in front of itself. Therefore, you should stand on the left/east side (right from the bosses' view), and move to the right/west (left from the bosses' view) side after it passes through in order to avoid it completely.\n\nAnother way to dodge this attack is to stand behind the torches, however this prevents DPS from occurring and is therefore not recommended.\n\nYou can also resonance the hit, however, no healing will occur."
+                    "value": "The boss will shoot water through its mouth spinning around in an anti-clockwise rotation starting directly in front of itself. Therefore, you should stand on the left/east side (right from the bosses' view), and move to the right/west (left from the bosses' view) side after it passes through in order to avoid it completely.\n\nAnother way to dodge this attack is to stand behind the torches, however this prevents DPS from occurring and is therefore not recommended.\n\nYou can also resonance the hit, however, no healing will occur."
                 },
                 {
                     "name": "Attack 4: Purple Smoke",
@@ -1711,18 +1711,18 @@ exports.data = {
          },
          {  
             "name":"​Attack Pattern",
-            "value":"The Twin Furies use the following attack pattern:\n\t• Two auto-attacks (only upon spawning)\n\t• Wall charge (attack 1)\n\t• Several auto-attacks\n\t• Ceiling collapse (attack 2)\n\t• Several auto-attacks\n\t• Channelled bomb (attack 3)\n\t• Several auto-attacks\n\t• Repeat"
+            "value":"The Twin Furies use the following attack pattern:\n\t• Two auto-attacks (only upon spawning)\n\t• Wall charge (attack 1)\n\t• Several auto-attacks\n\t• Ceiling collapse (attack 2)\n\t• Several auto-attacks\n\t• Channeled bomb (attack 3)\n\t• Several auto-attacks\n\t• Repeat"
          },
          {  
             "name":"​Attack 1: Wall Charge",
-            "value":"Avaryss will jump onto the walls and fly in a straight line, covering a 3x3 area in front of her. She will yell out a random quote (\"Ha ha ha!\", \"Keep them busy, sister!\", or \"Think you can dodge me?\") before charging. Players who get caught in the charge are knocked into the wall and are dealt with up to 2,000 melee damage.\n\nAvaryss always follows the set pattern of north to south, west to east, south to north, and then east to west. It is strongly adviced to dodge her charge attacks by moving around Nymora, taking a couple of steps every time Avaryss charges at you."
+            "value":"Avaryss will jump onto the walls and fly in a straight line, covering a 3x3 area in front of her. She will yell out a random quote (\"Ha ha ha!\", \"Keep them busy, sister!\", or \"Think you can dodge me?\") before charging. Players who get caught in the charge are knocked into the wall and are dealt with up to 2,000 melee damage.\n\nAvaryss always follows the set pattern of north to south, west to east, south to north, and then east to west. It is strongly advised to dodge her charge attacks by moving around Nymora, taking a couple of steps every time Avaryss charges at you."
          },
          {  
             "name":"Attack 2: Ceiling Collapse",
             "value":"Nymora will stand in a 4x4 tile placement, saying \"We will purge them all!\" in the process. After a few seconds, she will fly up, becoming unattackable while attacking the ceiling. Stalactites will fall down and deal ranged damage of up to 1,000 every three ticks. This can be avoided by simply staying under Nymora, as the stalactites will not fall down on her location. Focus on damaging Avaryss at this time."
          },
          {  
-            "name":"Attack 3: Channelled Bomb",
+            "name":"Attack 3: Channeled Bomb",
             "value":"Avaryss and Nymora will fly to the center of the room, saying \"Burn, burn, BURN!\" and \"Come to me, my sister!\". A ring of fire will also appear in the outer area, dealing up to 2,500 damage every few ticks the player(s) are in it. They will channel their powers to create a portal of energy which sends out fire bolts at the player for up to 350 damage per tick.\n\nDuring this process, they will not attack the player and will suffer a 2x damage multiplier on them. A blue bar will also appear over their heads and will change to orange over time.\n\nOnce the bar is completely orange, the portal explodes and deals up to 4,500 typeless damage to players in its radius. Just a few seconds before the explosion, the outer ring of fire will dissipate. [Resonance](https://runescape.wiki/w/Resonance) or [Barricade](https://runescape.wiki/w/Barricade) will lower the damage from the explosion to 0, but be sure to time this right as the fire bolts can take away your resonance before the explosion occurs."
          }
       ],
@@ -1808,7 +1808,7 @@ exports.data = {
                 },
                 {
                     "name": "Attack 2: Yakamaru's 'Poison' Mechanic",
-                    "value": "Verak Lith will occasionally launch poison, ice, or shock energy for each player in the room and the energy will land in the areas marked with 4 green arrows, as seen in the [detonate](https://runescape.wiki/w/Detonate) ability. If the energy is not grabbed, it will explode and deal 4,000 damage to all players in the room. This can be blocked for 0 healing with resonance, but this should not be done unless all teammates are aware it is occuring as they will still take the damage unless they resonance as well.\n\nIf grabbed, players must then deposit it into the nearby eggs to disperse the energy. The energy taken cannot be used on its respective eggs, e.g.:\n\n\t• Poison ---> ice or shock eggs.\n\t• Ice ---> poison or shock egg.\n\t• Shock ---> ice or poison eggs.\n\nIf this is not achieved in time, then the energy explodes for up to 9,000 damage, which can also be blocked with resonance or halved with [debilitate](https://runescape.wiki/w/Debilitate)."
+                    "value": "Verak Lith will occasionally launch poison, ice, or shock energy for each player in the room and the energy will land in the areas marked with 4 green arrows, as seen in the [detonate](https://runescape.wiki/w/Detonate) ability. If the energy is not grabbed, it will explode and deal 4,000 damage to all players in the room. This can be blocked for 0 healing with resonance, but this should not be done unless all teammates are aware it is occurring as they will still take the damage unless they resonance as well.\n\nIf grabbed, players must then deposit it into the nearby eggs to disperse the energy. The energy taken cannot be used on its respective eggs, e.g.:\n\n\t• Poison ---> ice or shock eggs.\n\t• Ice ---> poison or shock egg.\n\t• Shock ---> ice or poison eggs.\n\nIf this is not achieved in time, then the energy explodes for up to 9,000 damage, which can also be blocked with resonance or halved with [debilitate](https://runescape.wiki/w/Debilitate)."
                 },
                 {
                     "name": "Attack 3: Fire Vortices",
@@ -1846,7 +1846,7 @@ exports.data = {
                 },
                 {
                     "name": "Phase 1: Vindicta",
-                    "value": "Vindicta's attack pattern is as follows:\n\n*Start of the Phase:*\n\t• Does 2 auto-attacks\n\t• [Hurricane](https://runescape.wiki/w/Hurricane) (hits within 2 spaces)\n\n*Rest of the Phase*:\n\t• 1 auto-attack\n\t• 1 auto-attack where both weapons are slammed onto the target accompanied by a Ranged attack \n\t• 1 auto-attack\n\t• Fire wall\n\t• 3 auto-attacks\n\t• Hurricane\n\t• Repeat\n\nNote that if the target runs from her and she is unable to attack them, she will use her ranged attack which is normally used in teams and will skip some of her normal attacks. The ranged attack in a normal situation hits everyone more than 2 spaces away from her, so it may be completey negated by all players standing within 2 tiles from her."
+                    "value": "Vindicta's attack pattern is as follows:\n\n*Start of the Phase:*\n\t• Does 2 auto-attacks\n\t• [Hurricane](https://runescape.wiki/w/Hurricane) (hits within 2 spaces)\n\n*Rest of the Phase*:\n\t• 1 auto-attack\n\t• 1 auto-attack where both weapons are slammed onto the target accompanied by a Ranged attack \n\t• 1 auto-attack\n\t• Fire wall\n\t• 3 auto-attacks\n\t• Hurricane\n\t• Repeat\n\nNote that if the target runs from her and she is unable to attack them, she will use her ranged attack which is normally used in teams and will skip some of her normal attacks. The ranged attack in a normal situation hits everyone more than 2 spaces away from her, so it may be completely negated by all players standing within 2 tiles from her."
                 },
                 {
                     "name": "Gorvek's Fire Wall:",
@@ -1885,7 +1885,7 @@ exports.data = {
                     },
                     {
                         "name": "General Mechanics:",
-                        "value": "Vorago has five phases in total. The first two and the fourth phase are mechanic based. the third and fifth phase are DPS based.\n\nVorago will jump three times to a random spot in the arena at the end of each of the first four phases. The location he will land is marked with shadows. Players should avoid these spots as they will take high damage if Vorago lands on them.\n\nVorago will use melee swipes and send out bombs. The player must locate tehmselves 3-5 squares away from Vorago in oder to avoid getting hit with melee.\n\n**Blue bombs:** Vorago will send out bombs to the furthest person. If you getting these bombs, you must to move closer to Vorago.\n\n**Red Bombs:** There is a chance Vorago will send out a red bomb to a random player, signaled by a message on their screen. The base damage of a red bomb is 2,000 damge and will increase by 1,000 damage for each player close to you. Those hit by the red bomb will ge their [defensive abilities](https://runescape.wiki/w/Abilities#Defence) put on cooldown."
+                        "value": "Vorago has five phases in total. The first two and the fourth phase are mechanic based. the third and fifth phase are DPS based.\n\nVorago will jump three times to a random spot in the arena at the end of each of the first four phases. The location he will land is marked with shadows. Players should avoid these spots as they will take high damage if Vorago lands on them.\n\nVorago will use melee swipes and send out bombs. The player must locate themselves 3-5 squares away from Vorago in oder to avoid getting hit with melee.\n\n**Blue bombs:** Vorago will send out bombs to the furthest person. If you getting these bombs, you must to move closer to Vorago.\n\n**Red Bombs:** There is a chance Vorago will send out a red bomb to a random player, signaled by a message on their screen. The base damage of a red bomb is 2,000 damage and will increase by 1,000 damage for each player close to you. Those hit by the red bomb will ge their [defensive abilities](https://runescape.wiki/w/Abilities#Defence) put on cool-down."
                     },
                     {
                         "name": "Starting the Fight/Phase 1:",
@@ -1920,11 +1920,11 @@ exports.data = {
                     },
                     {
                         "name": "​",
-                        "value": "• **Green Bomb:** Vorago's attack this week is launching a green bomb. This attack is extremely dangerous for uncoordinated teams; however, it is easily countered with cooperation.\n\nVorago launches a green bomb to one of the 9 squares in the room. When it lands, it creates a green mist in that area that deals 300–600 damage every 3 seconds, increasing in damage the longer it is stood in up to around 1,000 damage; draining 10% adrenaline and 20% run energy. The bomb then homes in on a random player. Vorago performs his reflect attack 5 autoattacks after the green bomb. If the player targeted by the green bomb stands away from other players, they take 10,000 typeless damage and Vorago skips his attacks to the next part of the rotation.\n\nGreen bombs on phases 3 bounce 5 times before disappearing, dealing damage on the first 4 bounces."
+                        "value": "• **Green Bomb:** Vorago's attack this week is launching a green bomb. This attack is extremely dangerous for uncoordinated teams; however, it is easily countered with cooperation.\n\nVorago launches a green bomb to one of the 9 squares in the room. When it lands, it creates a green mist in that area that deals 300–600 damage every 3 seconds, increasing in damage the longer it is stood in up to around 1,000 damage; draining 10% adrenaline and 20% run energy. The bomb then homes in on a random player. Vorago performs his reflect attack 5 auto-attacks after the green bomb. If the player targeted by the green bomb stands away from other players, they take 10,000 typeless damage and Vorago skips his attacks to the next part of the rotation.\n\nGreen bombs on phases 3 bounce 5 times before disappearing, dealing damage on the first 4 bounces."
                     },
                     {
                         "name": "​",
-                        "value": "• **Team Split:** Team Split consists of Vorago charging himself for an explosion for 7.8 seconds, turning half of the players red and the other half blue. During this charge, Vorago is immune to all attacks. When he begins his charge, players' defence abilities will be removed and put on cooldown. Two box outlines will appear in the room —one red, one blue— and players will need to be inside the outline that matches their color when Vorago explodes. Anyone not inside the correct box will receive 8,000 typeless damage."
+                        "value": "• **Team Split:** Team Split consists of Vorago charging himself for an explosion for 7.8 seconds, turning half of the players red and the other half blue. During this charge, Vorago is immune to all attacks. When he begins his charge, players' defence abilities will be removed and put on cool-down. Two box outlines will appear in the room —one red, one blue— and players will need to be inside the outline that matches their color when Vorago explodes. Anyone not inside the correct box will receive 8,000 typeless damage."
                     },
                     {
                         "name": "​",
@@ -1976,7 +1976,7 @@ exports.data = {
                     },
                     {
                         "name": "​",
-                        "value": "• **Vitalis:** During Vitalis week, Vorago's special is launching a vitalis orb down the center of the path. Every player, including the bomb tank, should take 2 steps back to ensure they are within the explosion radius to block vitalis spawns. The bomb tank should Barricade and [Intercept](https://runescape.wiki/w/Intercept) as many players as possible to negate the vitalis explosion damage. In phase 5, the orb can spawn 2–4 vitalii. If any vitalii spawn, they should be killed because their melee damage contributes to Vorago's pushback and because they can change the player's target from themselves to Vorago, which can have negative consequences on reflects."
+                        "value": "• **Vitalis:** During Vitalis week, Vorago's special is launching a vitalis orb down the center of the path. Every player, including the bomb tank, should take 2 steps back to ensure they are within the explosion radius to block vitalis spawns. The bomb tank should Barricade and [Intercept](https://runescape.wiki/w/Intercept) as many players as possible to negate the vitalis explosion damage. In phase 5, the orb can spawn 2–4 vitalii. If any vitalii spawn, they should be killed because their melee damage contributes to Vorago's push-back and because they can change the player's target from themselves to Vorago, which can have negative consequences on reflects."
                     },
                     {
                         "name": "​",
@@ -2035,8 +2035,8 @@ exports.data = {
                         "value": "During this phase, Yakamaru has the ability to create sharknados. This can be easily seen, as the whirlpool around Yakamaru will grow larger and have sharks circling around it. After several attacks, Yakamaru will release the sharks in a circle, which will drop onto the floor and then explode, dealing 2,100-2,400 typeless damage per shark.\n\nIf you [Surge](https://runescape.wiki/w/Surge) or [Escape](https://runescape.wiki/w/Escape) before the sharks appear on the ground, they will appear on the tile where the player Surged or Escaped to. The sharks are solid objects, so players should avoid Surging or Escaping too early or teammates will be hurt by their damage. If you happen to bring one to the beach with you, simply click underneath you to kick it away."
                     },
                     {
-                        "name": "North-western Ppool (Sand):",
-                        "value": "In this phase, 5 auto-attacks after the summoned jellyfish, Yakamaru dampens the ground around him, causing all but two players within 20 squares to be stuck in the sand, clearing defensive abilities, and putting them on cooldown.\n\nA message will appear for two people not affected by the ability saying \"*Yakamaru drags your team into quicksand! Free them before they drown!*\". There is no warning message for players affected by the quicksand. Each player starts out at a random level of sunk and will need to be freed. At the lowest level, if they are not saved by that point, the player will be instantly killed. [Signs](https://runescape.wiki/w/Sign_of_life)/[Portents of life](https://runescape.wiki/w/Portent_of_life)/[death](https://runescape.wiki/w/Sign_of_death) will still activate. Players can determine how deeply quicksanded they and other players are by seeing how deep they are stuck in the sand."
+                        "name": "North-western Pool (Sand):",
+                        "value": "In this phase, 5 auto-attacks after the summoned jellyfish, Yakamaru dampens the ground around him, causing all but two players within 20 squares to be stuck in the sand, clearing defensive abilities, and putting them on cool-down.\n\nA message will appear for two people not affected by the ability saying \"*Yakamaru drags your team into quicksand! Free them before they drown!*\". There is no warning message for players affected by the quicksand. Each player starts out at a random level of sunk and will need to be freed. At the lowest level, if they are not saved by that point, the player will be instantly killed. [Signs](https://runescape.wiki/w/Sign_of_life)/[Portents of life](https://runescape.wiki/w/Portent_of_life)/[death](https://runescape.wiki/w/Sign_of_death) will still activate. Players can determine how deeply quicksanded they and other players are by seeing how deep they are stuck in the sand."
                     },
                     {
                         "name": "North-eastern pool (No Stun):",
