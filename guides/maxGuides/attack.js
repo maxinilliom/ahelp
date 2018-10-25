@@ -129,7 +129,7 @@ exports.data = {
   },
   "70 - 80": {
     "title": "Attack Training Levels 70-80",
-    "description": "Once level 70, players can train on [Hellhounds](https://runescape.wiki/w/Hellhound). Hellhounds are level 92 and have 3,300 life points. They can be found in [Taverly Dungeon](https://runescape.wiki/w/Taverley_Dungeon). The entrance to the dungeon is found south of [Taverley](https://runescape.wiki/w/Taverley) and west of [Falador](https://runescape.wiki/w/Falador). They are aggressive creatures, and will require a player to bring food at lower levels.",
+    "description": "Once level 70, players can train on [Hellhounds](https://runescape.wiki/w/Hellhound). Hellhounds are level 92 and have 3,300 life points. They can be found in [Taverley Dungeon](https://runescape.wiki/w/Taverley_Dungeon). The entrance to the dungeon is found south of [Taverley](https://runescape.wiki/w/Taverley) and west of [Falador](https://runescape.wiki/w/Falador). They are aggressive creatures, and will require a player to bring food at lower levels.",
     "url": "https://runescape.wiki/w/Pay-to-play_melee_training#Level_70-80",
     "color": 12269891,
     "footer": {
@@ -261,7 +261,7 @@ exports.data = {
     },
     {
       "name": "▬▬ Airuts ▬▬",
-      "value": "[Airuts](https://runescape.wiki/w/Airut) can be another level 90 Attack alternative. They require 92 Slayer to kill, and can be found just west of the [Pheonix Lair](https://runescape.wiki/w/Phoenix_Lair). Aside from the experience per hour gained here, airuts are also great for their drops."
+      "value": "[Airuts](https://runescape.wiki/w/Airut) can be another level 90 Attack alternative. They require 92 Slayer to kill, and can be found just west of the [Phoenix Lair](https://runescape.wiki/w/Phoenix_Lair). Aside from the experience per hour gained here, airuts are also great for their drops."
     }
       ]
   },
@@ -289,7 +289,7 @@ exports.data = {
       },
       {
         "name": "​",
-        "value": "Winning players are rewarded with [Void Knigh commendation points](https://runescape.wiki/w/Void_Knight_commendation_points). Depending on your boat, you will gain a different number of commendation points upon winning a game:\n\n\t• Novice Boat: 2 points per game won. \n\t• Intermediate Boat: 3 points per game won. \n\t• Veteran Boat: 4 points per game won."
+        "value": "Winning players are rewarded with [Void Knight commendation points](https://runescape.wiki/w/Void_Knight_commendation_points). Depending on your boat, you will gain a different number of commendation points upon winning a game:\n\n\t• Novice Boat: 2 points per game won. \n\t• Intermediate Boat: 3 points per game won. \n\t• Veteran Boat: 4 points per game won."
       },
       {
         "name": "​",
@@ -363,7 +363,7 @@ exports.data = {
   "distractions and diversions": { 
 "title": "Distractions and Diversions", 
 "url": "https://runescape.wiki/w/Distractions_and_Diversions", 
-"description": "D&Ds are a subclassification of [minigames](https://runescape.wiki/w/Minigames). However, unlike minigames many D&Ds move around the world to various locations, have a limit on how often they can be played, and only occur at particular times of day.\n\nDistractions and Diversions aim to divert the original intentions of the player in order to provide an interesting distraction from their everyday routines. D&Ds come in many different shapes and sizes; covering Combat, Gathering, Artisan, and Support skills. There are a wide variety of different options available to suit the players choice.", 
+"description": "D&Ds are a subclassification of [minigames](https://runescape.wiki/w/Minigames). However, unlike minigames, many D&Ds move around the world to various locations, have a limit on how often they can be played, and only occur at particular times of day.\n\nDistractions and Diversions aim to divert the original intentions of the player in order to provide an interesting distraction from their everyday routines. D&Ds come in many different shapes and sizes; covering Combat, Gathering, Artisan, and Support skills. There are a wide variety of different options available to suit the players choice.", 
 "color": 12269891, 
 "footer": { 
 "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg", 
@@ -383,11 +383,11 @@ exports.data = {
 }, 
 { 
 "name": "▬▬ Demon Flash Mobs ▬▬", 
-"value": "A [Demon Mob](https://runescape.wiki/w/Demon_Flash_Mob) spawns every hour, consisting of a demon boss and several of its minions. All minions must be killed before the boss can be damaged; taking too long to dispatch the minions will allow the boss to become more powerful. The demon boss is extremely powerful, and not to be underestimated. This D&D is designed for groups, but solo play can be achieved at near max levels. Once the demon boss is defeated, it will drop loot and have a chance to receive [demon slayer armour](https://runescape.wiki/w/Demon_slayer_equipment) and other various [drops](https://runescape.wiki/w/Demon_Flash_Mob#Drops). "
+"value": "A [Demon Mob](https://runescape.wiki/w/Demon_Flash_Mob) spawns every hour, consisting of a demon boss and several of its minions. All minions must be killed before the boss can be damaged; taking too long to dispatch the minions will allow the boss to become more powerful. The demon boss is extremely powerful, and not to be underestimated. This D&D is designed for groups, but solo play can be achieved at near max levels. Once the demon boss is defeated, it will drop loot and have a chance to receive [demon slayer equipment](https://runescape.wiki/w/Demon_slayer_equipment) and other various [drops](https://runescape.wiki/w/Demon_Flash_Mob#Drops). "
 }, 
 { 
 "name": "▬▬ Goblin raids ▬▬", 
-"value": "Available to both Free-to-play and Members, [Goblin Raids](https://runescape.wiki/w/Goblin_Raids) occur every 30 minutes. [Goblin Raiders](https://runescape.wiki/w/Goblin_Raider) lead by [Hollowtoof](https://runescape.wiki/w/Hollowtoof), will randomly plunder a farm or copper mine in the kingdoms of Misthalin and Asgarnia. Goblin raiders will drop their pillaged loot when killed. Hollowtoof attacks anyone nearby once his mob has been lost, awarding a piece of [raider equipment](https://runescape.wiki/w/Raider_equipment) when defeated. After the raid has collapsed, a Black Guard squad led by [Commander Yodri](https://runescape.wiki/w/Commander_Yodri) arrives, awarding additional skilling supplies when approached by defenders. "
+"value": "Available to both Free-to-play and Members, [Goblin Raids](https://runescape.wiki/w/Goblin_Raids) occur every 30 minutes. [Goblin Raiders](https://runescape.wiki/w/Goblin_Raider), lead by [Hollowtoof](https://runescape.wiki/w/Hollowtoof), will randomly plunder a farm or copper mine in the kingdoms of Misthalin and Asgarnia. Goblin raiders will drop their pillaged loot when killed. Hollowtoof attacks anyone nearby once his mob has been lost, awarding a piece of [raider equipment](https://runescape.wiki/w/Raider_equipment) when defeated. After the raid has collapsed, a Black Guard squad led by [Commander Yodri](https://runescape.wiki/w/Commander_Yodri) arrives, awarding additional skilling supplies when approached by defenders. "
 }, 
 { 
 "name": "▬▬ Memory of Nomad ▬▬", 
@@ -395,14 +395,14 @@ exports.data = {
 }, 
 { 
 "name": "▬▬ Rush of Blood ▬▬", 
-"value": "[Rush of Blood](https://runescape.wiki/w/Rush_of_Blood) is a weekly Slayer-themed combat D&D that can be played in [Prifddinas](https://runescape.wiki/w/Prifddinas), requiring at least level 85 Slayer and completion of [Plague's End](https://runescape.wiki/w/Plague%27s_End) to take part. It is run by [Morvran Iorwerth](https://runescape.wiki/w/Morvran), slayer master and former warband leader. Rush of Blood takes place in [Morvran's Dungeon](https://runescape.wiki/w/Morvran%27s_Dungeon), where waves of different slayer-themed monsters, assembled from Morvran's assignment list, must be fought. Players have ten minutes to dispatch as many foes as possible. The activity can be played once a week for rewards, and any number of times for practice. "
+"value": "[Rush of Blood](https://runescape.wiki/w/Rush_of_Blood) is a weekly Slayer-themed combat D&D that can be played in [Prifddinas](https://runescape.wiki/w/Prifddinas). This D&D requires at least level 85 Slayer and completion of [Plague's End](https://runescape.wiki/w/Plague%27s_End) in order to participate. It is run by [Morvran Iorwerth](https://runescape.wiki/w/Morvran), slayer master and former warband leader. Rush of Blood takes place in [Morvran's Dungeon](https://runescape.wiki/w/Morvran%27s_Dungeon). Waves of various slayer-themed monsters, assembled from Morvran's assignment list, must be fought. Players have ten minutes to dispatch as many foes as possible. This activity can be played once a week for rewards. It also may be attempted any number of times a week as practice."
 } 
 ] 
 },
   "daily challenge": {
     "title": "Daily Challenge",
-    "url": "https://runescape.wiki/w/Challenge_XP_Lamp",
-    "description": "Completing a daily challenge for Combat will give experience, depending on the player's level. A lamp will be given upon completion and a player can choose between the six combat skills in which to receive experience.\n\nPlayers can be assigned challenges below their combat level. The challenge will consist of killing creatures of a certain combat level or the [Barrows Brothers](https://runescape.wiki/w/Barrows), [Giant Mole](https://runescape.wiki/w/Giant_mole), or [God Wars Dungeon](https://runescape.wiki/w/God_Wars_Dungeon) generals or mobs. Look for more appropriate monsters from the [Bestiary](https://runescape.wiki/w/Bestiary). Dungeoneering can also be used for rampage challenges.",
+    "url": "https://runescape.wiki/w/Challenge_System/Challenges#Combat_Challenges",
+    "description": "Completing a daily challenge for Combat will give experience depending on the player's levels. A lamp will be given upon completion and a player can choose between the six combat skills in which to receive experience.\n\nPlayers can be assigned challenges below their combat level. The challenge will consist of killing creatures of a certain combat level or the [Barrows Brothers](https://runescape.wiki/w/Barrows), [Giant Mole](https://runescape.wiki/w/Giant_mole), or [God Wars Dungeon](https://runescape.wiki/w/God_Wars_Dungeon) generals or mobs. Look for more appropriate monsters from the [Bestiary](https://runescape.wiki/w/Bestiary). Dungeoneering can also be used for rampage challenges.",
         "color": 12269891,
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
@@ -464,7 +464,7 @@ exports.data = {
       },
       {
         "name": "​",
-        "value": "[Super Melee Potion](https://runescape.wiki/w/Super_melee_potion)\n• 12% + 2 to Attack, Strength, and Defence levels\n• Recipe must be found and bought\n• Requires 81 Herblore to make\n\n[Super Warmaster's Potion](https://runescape.wiki/w/Super_warmaster%27s_potion)\n• 12% + 2 to all combat skills\n\n[Extreme Warmaster's Potion](https://runescape.wiki/w/Extreme_warmaster%27s_potion)\n• 15% + 3 to all combat skills\n• Recipe must be found and bought\n\n[Extreme Brawler's Potion](https://runescape.wiki/w/Extreme_brawler%27s_potion)\n• 15% + 3 to Attack, Strength, and Defence\n• Recipe must be found and bought\n\n[Overload](https://runescape.wiki/w/Overload)\n• 15% + 3 to all combat skills\n• Reapplies boost every 15 seconds\n\n[Holy Overload](https://runescape.wiki/w/Holy_overload_potion)\n• 15% + 3 to all combat skills\n• Also acts as a [prayer renewel](https://runescape.wiki/w/Prayer_renewal)\n• Recipe must be bought\n• Reapplies boost every 15 seconds"
+        "value": "[Super Melee Potion](https://runescape.wiki/w/Super_melee_potion)\n• 12% + 2 to Attack, Strength, and Defence levels\n• Recipe must be found and bought\n• Requires 81 Herblore to make\n\n[Super Warmaster's Potion](https://runescape.wiki/w/Super_warmaster%27s_potion)\n• 12% + 2 to all combat skills\n\n[Extreme Warmaster's Potion](https://runescape.wiki/w/Extreme_warmaster%27s_potion)\n• 15% + 3 to all combat skills\n• Recipe must be found and bought\n\n[Extreme Brawler's Potion](https://runescape.wiki/w/Extreme_brawler%27s_potion)\n• 15% + 3 to Attack, Strength, and Defence\n• Recipe must be found and bought\n\n[Overload](https://runescape.wiki/w/Overload)\n• 15% + 3 to all combat skills\n• Reapplies boost every 15 seconds\n\n[Holy Overload](https://runescape.wiki/w/Holy_overload_potion)\n• 15% + 3 to all combat skills\n• Also acts as a [prayer renewal](https://runescape.wiki/w/Prayer_renewal)\n• Recipe must be bought\n• Reapplies boost every 15 seconds"
       },
       {
         "name": "​",
@@ -476,7 +476,7 @@ exports.data = {
       },
       {
         "name": "​",
-        "value": "[Brawling Gloves (Melee)](https://runescape.wiki/w/Brawling_gloves_(Melee)\n• When wielded, 50% XP boost is given at the entrance or outside of the [Wilderness](https://runescape.wiki/w/Wilderness) and have the buff increasing to 300% (4x the experience) at level 47 Wilderness just south of the fence. Since an update, instead of charges, the gloves have approximately a 300,000 experience cap on extra experience gained. As this cap recognizes experience buffs, expending them in the Wilderness only uses charges faster for no increased gain. It is recommended to consume them during normal training."
+        "value": "[Brawling Gloves (Melee)](https://runescape.wiki/w/Brawling_gloves_(Melee)\n• A 50% XP boost is given anywhere outside of the [Wilderness](https://runescape.wiki/w/Wilderness). The buff increases to 4x base experience at level 47 Wilderness, just south of the fence. Since an update, instead of charges, the gloves have approximately a 300,000 experience cap on extra experience gained. As this cap recognizes experience buffs, expending them in the Wilderness only uses charges faster for no increased gain. It is recommended to consume them during normal training."
       }
        ]
   },
@@ -485,7 +485,7 @@ exports.data = {
     "fields": [
       {
         "name": "​",
-        "value": "[Rumberry](https://runescape.wiki/w/Rumberry)\n• +2 Attack levels\n• Reduces Defence by 1\n• Requires access to [The Arc](https://runescape.wiki/w/The_Arc)\n\n[Spicy Stew](https://runescape.wiki/w/Spicy_stew)\n • Boost is applied to a random skill\n• Each color [spice](https://runescape.wiki/w/Spicy_stew#Spices) affects different skills\n • Up to ±6 with 3 spice doses\n • Up to ±3 with 2 spice doses\n • Up to ±2 with 1 spice dose\n\n[God Banner](https://runescape.wiki/w/God_banner)\n• +5 levels\n• Lasts 30 minutes once per day"
+        "value": "[Rumberry](https://runescape.wiki/w/Rumberry)\n• +2 Attack levels\n• Reduces Defence by 1\n• Requires access to [The Arc](https://runescape.wiki/w/The_Arc)\n\n[Spicy Stew](https://runescape.wiki/w/Spicy_stew)\n• Boost is applied to a random skill\n• Each color [spice](https://runescape.wiki/w/Spicy_stew#Spices) affects different skills\n• Up to ±6 with 3 spice doses\n• Up to ±3 with 2 spice doses\n• Up to ±2 with 1 spice dose\n\n[God Banner](https://runescape.wiki/w/God_banner)\n• +5 levels\n• Lasts 30 minutes once per day"
       },
       {
         "name": "​",

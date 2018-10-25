@@ -25,7 +25,7 @@ exports.data = {
   },
   "1 - 99 +": {
     "title": "Constitution Training Levels 1-99+",
-    "description": "Constitution is trained using any [combat style](https://runescape.wiki/w/Combat_triangle). When fighting any [creature](https://runescape.wiki/w/Bestiary), a player receives Constitution experience upon the kill. The amount of experience earned is found using the known combat experience for the offensive skills, leaving the forumla to be: experience × .333. With this, Constitution experience is earned at one third the rate of Attack, Ranged, Strength, Defence, or Magic if training via combat, making this one of the slowest skills to train.",
+    "description": "Constitution is trained using any [combat style](https://runescape.wiki/w/Combat_triangle). When fighting any [creature](https://runescape.wiki/w/Bestiary), a player receives Constitution experience upon the kill. The amount of experience earned is found using the known combat experience for the offensive skills, leaving the formula to be: experience × .333. With this, Constitution experience is earned at one third the rate of Attack, Ranged, Strength, Defence, or Magic if training via combat, making this one of the slowest skills to train.",
     "url": "https://runescape.wiki/w/Pay-to-play_Constitution_training",
     "color": 12269891,
     "footer": {
@@ -164,7 +164,7 @@ exports.data = {
   "distractions and diversions": { 
 "title": "Distractions and Diversions", 
 "url": "https://runescape.wiki/w/Distractions_and_Diversions", 
-"description": "D&Ds are a subclassification of [minigames](https://runescape.wiki/w/Minigames). However, unlike minigames many D&Ds move around the world to various locations, have a limit on how often they can be played, and only occur at particular times of day.\n\nDistractions and Diversions aim to divert the original intentions of the player in order to provide an interesting distraction from their everyday routines. D&Ds come in many different shapes and sizes; covering Combat, Gathering, Artisan, and Support skills. There are a wide variety of different options available to suit the players choice.", 
+"description": "D&Ds are a subclassification of [minigames](https://runescape.wiki/w/Minigames). However, unlike minigames, many D&Ds move around the world to various locations, have a limit on how often they can be played, and only occur at particular times of day.\n\nDistractions and Diversions aim to divert the original intentions of the player in order to provide an interesting distraction from their everyday routines. D&Ds come in many different shapes and sizes; covering Combat, Gathering, Artisan, and Support skills. There are a wide variety of different options available to suit the players choice.", 
 "color": 12269891, 
 "footer": { 
 "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg", 
@@ -186,8 +186,8 @@ exports.data = {
 },
   "daily challenge": {
     "title": "Daily Challenge",
-    "url": "https://runescape.wiki/w/Challenge_XP_Lamp",
-    "description": "Completing a daily challenge for Combat will give experience, depending on the player's level. A lamp will be given upon completion and a player can choose between the six combat skills in which to receive experience.\n\nPlayers can be assigned challenges below their combat level. The challenge will consist of killing creatures of a certain combat level or the [Barrows Brothers](https://runescape.wiki/w/Barrows), [Giant Mole](https://runescape.wiki/w/Giant_mole), or [God Wars Dungeon](https://runescape.wiki/w/God_Wars_Dungeon) generals or mobs. Look for more appropriate monsters from the [Bestiary](https://runescape.wiki/w/Bestiary). Dungeoneering can also be used for rampage challenges.",
+    "url": "https://runescape.wiki/w/Challenge_System/Challenges#Combat_Challenges",
+    "description": "Completing a daily challenge for Combat will give experience depending on the player's levels. A lamp will be given upon completion and a player can choose between the six combat skills in which to receive experience.\n\nPlayers can be assigned challenges below their combat level. The challenge will consist of killing creatures of a certain combat level or the [Barrows Brothers](https://runescape.wiki/w/Barrows), [Giant Mole](https://runescape.wiki/w/Giant_mole), or [God Wars Dungeon](https://runescape.wiki/w/God_Wars_Dungeon) generals or mobs. Look for more appropriate monsters from the [Bestiary](https://runescape.wiki/w/Bestiary). Dungeoneering can also be used for rampage challenges.",
         "color": 12269891,
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",

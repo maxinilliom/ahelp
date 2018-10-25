@@ -59,7 +59,7 @@ exports.data = {
   },
   "30 - 52": {
     "title": "Agility Training Levels 30-52",
-    "description": "With at least level 30 Agility, players can begin training by releasing and catching [clockwork suits](https://runescape.wiki/w/Clockwork_suit). Partial completion of the [Cold War quest](https://runescape.wiki/w/Cold_War), up until the point where the player learns how to make a clockwork suit, is required for this method of training. It is recommended that the player makes at least 4 clockwork suits for this training method. For ease of picking up the suits, players are strongly advised to use this training method while standing in a confined area.\n\nUse the wind option on at least one clockwork suit and add both a wound and unwound clockwork suit to the action bar. Use the associated keybinds to wind and release clockwork suits while at the same time clicking on the released clockwork suits in order to pick them up. Agility experience is gained each time that the player attempts to pick up a clockwork suit, regardless of whether they are successful or unsuccessful in picking up the suit.",
+    "description": "With at least level 30 Agility, players can begin training by releasing and catching [clockwork suits](https://runescape.wiki/w/Clockwork_suit). Partial completion of the [Cold War quest](https://runescape.wiki/w/Cold_War), up until the point where the player learns how to make a clockwork suit, is required for this method of training. It is recommended that the player makes at least 4 clockwork suits for this training method. For ease of picking up the suits, players are strongly advised to use this training method while standing in a confined area.\n\nUse the wind option on at least one clockwork suit and add both a wound and unwound clockwork suit to the action bar. Use the associated key-binds to wind and release clockwork suits while at the same time clicking on the released clockwork suits in order to pick them up. Agility experience is gained each time that the player attempts to pick up a clockwork suit, regardless of whether they are successful or unsuccessful in picking up the suit.",
     "url": "https://runescape.wiki/w/Agility_training#Levels_30-52:_clockwork_suits",
     "color": 13118778,
     "footer": {
@@ -166,7 +166,7 @@ exports.data = {
    "fields": [
     {
         "name": "​",
-        "value": "While traversing obstacles, the player is shown a short cutscene of them completing the obstacles. It is possible to right-click the next obstacle while viewing these cutscenes for all the course's obstacles except the roof obstacle; this can be used to begin obstacles more quickly and decrease the time taken to complete the lap. Players may also complete faster laps by right-clicking the square from which the course's first obstacle is attempted, 2 squares south of the western side of the walkway obstacle, and using the walk here option, before using the obstacle; this causes the player's character to run, rather than walk, towards the obstacle."
+        "value": "While traversing obstacles, the player is shown a short cut-scene of them completing the obstacles. It is possible to right-click the next obstacle while viewing these cut-scenes for all the course's obstacles except the roof obstacle; this can be used to begin obstacles more quickly and decrease the time taken to complete the lap. Players may also complete faster laps by right-clicking the square from which the course's first obstacle is attempted, 2 squares south of the western side of the walkway obstacle, and using the walk here option, before using the obstacle; this causes the player's character to run, rather than walk, towards the obstacle."
       },
       {
         "name": "​",
@@ -174,7 +174,7 @@ exports.data = {
       },
       {
         "name": "​",
-        "value": "[Shortcuts](https://runescape.wiki/w/Hefin_Agility_Course#Shortcuts) have a chance of spawning when a lap of the Hefin course is completed. These can be used to complete the next lap of the course more quickly. Players are notified by a message in their chatbox when a shortcut has spawned. The window shortcut appears at the end of the cliff obstacle and places the player before the zip line obstacle when used, bypassing the cathedral and roof obstacles. The light creature shortcut appears before the zip line obstacle and completes the course when used, bypassing the zip line obstacle. It is possible for both shortcuts to be present at the same time. Players should use shortcuts whenever possible, as they allow laps to be completed more quickly."
+        "value": "[Shortcuts](https://runescape.wiki/w/Hefin_Agility_Course#Shortcuts) have a chance of spawning when a lap of the Hefin course is completed. These can be used to complete the next lap of the course more quickly. Players are notified by a message in their chat-box when a shortcut has spawned. The window shortcut appears at the end of the cliff obstacle and places the player before the zip line obstacle when used, bypassing the cathedral and roof obstacles. The light creature shortcut appears before the zip line obstacle and completes the course when used, bypassing the zip line obstacle. It is possible for both shortcuts to be present at the same time. Players should use shortcuts whenever possible, as they allow laps to be completed more quickly."
       },
       {
         "name": "▬▬ Alternative Method: Levels 65-99+ ▬▬",
@@ -272,7 +272,7 @@ exports.data = {
     "fields": [
       {
         "name": "Methods to Obtain:",
-        "value": "• Burthorpe Agility Course\n• Gnome Stronghold Agility Course\n• Advanced Gnome Stronghold Agility Course\n• Agility Pyramid\n• Penguin Agility Course\n• Barbarian Outpost\n• Advanced Barbarian Outpost\n• Ape Atoll Agility Course\n• Wilderness Agility Course\n• Werewolf Agility Course\n• Agility Course\n• Hefin Agility Course\n• Dorgesh-Kaan Agility Course\n• Collecting an Agility arena ticket from the Brimhaven Agility Arena\n• Serenity posts\n• Manual Auto-cycles in The Empty Throne Room\n• Taking Agility Shortcuts"
+        "value": "• Burthorpe Agility Course\n• Gnome Stronghold Agility Course\n• Advanced Gnome Stronghold Agility Course\n• Agility Pyramid\n• Penguin Agility Course\n• Barbarian Outpost\n• Advanced Barbarian Outpost\n• Ape Atoll Agility Course\n• Wilderness Agility Course\n• Werewolf Agility Course\n• Agility Course\n• Hefin Agility Course\n• Dorgesh-Kaan Agility Course\n• Collecting an Agility arena ticket from the Brimhaven Agility Arena\n• Serenity posts\n• Manual Auto-cycles in The Empty Throne Room\n• Taking Agility Shortcuts\n• Shifting Tombs"
       },
       {
         "name": "Best Method:",
@@ -314,7 +314,7 @@ exports.data = {
   "distractions and diversions": { 
 "title": "Distractions and Diversions", 
 "url": "https://runescape.wiki/w/Distractions_and_Diversions", 
-"description": "D&Ds are a subclassification of [minigames](https://runescape.wiki/w/Minigames). However, unlike minigames many D&Ds move around the world to various locations, have a limit on how often they can be played, and only occur at particular times of day.\n\nDistractions and Diversions aim to divert the original intentions of the player in order to provide an interesting distraction from their everyday routines. D&Ds come in many different shapes and sizes; covering Combat, Gathering, Artisan, and Support skills. There are a wide variety of different options available to suit the players choice.", 
+"description": "D&Ds are a subclassification of [minigames](https://runescape.wiki/w/Minigames). However, unlike minigames, many D&Ds move around the world to various locations, have a limit on how often they can be played, and only occur at particular times of day.\n\nDistractions and Diversions aim to divert the original intentions of the player in order to provide an interesting distraction from their everyday routines. D&Ds come in many different shapes and sizes; covering Combat, Gathering, Artisan, and Support skills. There are a wide variety of different options available to suit the players choice.", 
 "color": 12269891, 
 "footer": { 
 "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg", 
@@ -330,7 +330,7 @@ exports.data = {
 "fields": [ 
 { 
 "name": "▬▬ The Pit ▬▬", 
-"value": "[The Pit](https://runescape.wiki/w/The_Pit) is a Distraction and Diversion that players may be invited to participate in approximately once every hour that they spend completing laps of an Agility course where a [Talent Scout](https://runescape.wiki/w/Talent_scout) is present. The player will be notified by a message in their chatbox if the talent scout is inviting them to play The Pit upon successful completion of a lap of an Agility course. Approximately 1 minute is given to talk to the talent scout to start The Pit." 
+"value": "[The Pit](https://runescape.wiki/w/The_Pit) is a Distraction and Diversion that players may be invited to participate in approximately once every hour that they spend completing laps of an Agility course where a [Talent Scout](https://runescape.wiki/w/Talent_scout) is present. The player will be notified by a message in their chat-box if the talent scout is inviting them to play The Pit upon successful completion of a lap of an Agility course. Approximately 1 minute is given to talk to the talent scout to start The Pit." 
 }, 
 { 
 "name": "​", 
@@ -361,7 +361,7 @@ exports.data = {
   "daily challenge": {
     "title": "Daily Challenge",
     "url": "https://runescape.wiki/w/Challenge_System/Agility",
-    "description": "Completing a daily challenge in Agility will give Agility experience, depending on the player's Agility level.",
+    "description": "Completing a daily challenge in Agility will give Agility experience. The amount of experience depends on the player's Agility level.",
         "color": 12269891,
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
@@ -451,7 +451,7 @@ exports.data = {
       },
       {
         "name": "​",
-        "value": "[Brawling Gloves (Agility)](https://runescape.wiki/w/Brawling_gloves_(Agility)\n• A 50% XP boost is given anywhere outside of the [Wilderness](https://runescape.wiki/w/Wilderness). However, the buff increases to 4x base experience at level 47 Wilderness, just south of the fence. The gloves only last about 400 uses on any agility obstacle; this varies on what obstacle players decide to equip them. The gloves should only be worn during the last obstacle to prolong the use of a pair."
+        "value": "[Brawling Gloves (Agility)](https://runescape.wiki/w/Brawling_gloves_(Agility)\n• A 50% XP boost is given anywhere outside of the [Wilderness](https://runescape.wiki/w/Wilderness). The buff increases to 4x base experience at level 47 Wilderness, just south of the fence. The gloves only last about 400 uses on any agility obstacle; this varies on what obstacle players decide to equip them. The gloves should only be worn during the last obstacle to prolong the use of a pair."
       },
       {
         "name": "​",
