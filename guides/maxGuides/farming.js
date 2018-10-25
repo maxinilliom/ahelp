@@ -25,7 +25,7 @@ exports.data = {
   },
   "introduction": {
     "title": "Farming Introduction",
-    "description": "Farming is a members' gathering skill, through which players grow crops by planting seeds at [Farming Patches](https://runescape.wiki/w/Farming/Patch_locations). Different types of seeds can be planted at corresponding types of Farming patches, which are found throughout RuneScape.\n\n The following list of topics will become important knowledge during a players time training Farming, no matter the level. This can vary from the very basics, to understanding how logging in can affect your plant growth.",
+    "description": "Farming is a members' gathering skill, through which players grow crops by planting seeds at [Farming Patches](https://runescape.wiki/w/Farming/Patch_locations). Different types of [seeds](https://runescape.wiki/w/Seeds) can be planted at corresponding types of Farming patches, which are found throughout [Gielinor](https://runescape.wiki/w/Gielinor).\n\n The following list of topics will become important knowledge during a player's time spent whilst training Farming, no matter the level. This can vary from the very basics, to understanding how logging in can affect your plant growth.",
     "url": "https://runescape.wiki/w/Farming",
     "color": 12269891,
     "footer": {
@@ -41,8 +41,12 @@ exports.data = {
     },
      "fields": [
        {
-        "name":"Supercompost",
-        "value":"[Supercompost](https://runescape.wiki/w/Supercompost) is a more potent version of [Compost](https://runescape.wiki/w/Compost). For many farming plots, supercompost reduces the chance of a player's crops becoming diseased while growing (better than regular compost does), as well as increasing the minimum amount of produce from the crops. It is recommended to use supercompost on every crop grown on their way to 99."
+        "name":"Growth Cycles",
+        "value":"[Growth Cycles](https://runescape.wiki/w/Farming#Growth_cycles) vary depending on the type of crop.  Regardless of the seed, growth stage windows last five minutes. The frequency of growth stage windows occurring is determined by the type of seed. For example, [spirit trees](https://runescape.wiki/w/Spirit_tree)' growth stages take 320 minutes, which includes a 5 minute growth window, followed by 315 minutes of inactivity, repeated multiple times. In comparison, [hops](https://runescape.wiki/w/Farming#Hops)' growth stages last 10 minutes, including 5 minutes of inactivity and a 5 minute growth stage window.\n\nThe cycles of growth stages all start at midnight game-time and repeat indefinitely until the next midnight when they begin again. The 320-minute cycle for spirit trees repeats on the second midnight."
+       },
+       {
+        "name":"Compost",
+        "value":"[Supercompost](https://runescape.wiki/w/Supercompost) is a more potent version of [Compost](https://runescape.wiki/w/Compost). For many farming plots, supercompost reduces the chance of a player's crops becoming diseased while growing, as well as increasing the minimum amount of produce from the crops. It is recommended to use supercompost on every crop grown on their way to 99."
        },
        {
         "name":"Getting Saplings",
@@ -59,10 +63,6 @@ exports.data = {
        {
         "name":"Harvesting",
         "value":"[Harvests](https://runescape.wiki/w/Farming#Harvesting) are determined either by chance or by the type of patch. Fruit trees, bushes, and flowers have set harvests. Herb and allotment patches have harvest sizes determined by chance, based on a life points system. Each herb and allotment patch starts with three lives, increased by 1 with compost and by 2 with supercompost. Every harvesting action will decrease the number of lives by 1 unless it is saved, with the patch becoming empty when it runs out of lives. This chance is dependent on Farming level. "
-       },
-       {
-        "name":"Growth Cycles",
-        "value":"[Growth Cycles](https://runescape.wiki/w/Farming#Growth_cycles) vary depending on the type of crop.  Regardless of the seed, growth stage windows last five minutes. The frequency of growth stage windows occurring is determined by the type of seed e.g. spirit trees' growth stages take 320 minutes, which includes a 5 minute growth window followed by 315 minutes of inactivity, repeated multiple times. In comparison, hops' growth stages last 10 minutes, including 5 minutes of inactivity and a 5 minute growth stage window."
        }
    ]
   },
