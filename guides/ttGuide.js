@@ -56,7 +56,7 @@ exports.data = {
     "title": "Anima Isles",
     "author": {
       "name": "True Trimmed Info",
-      "icon_url": "http://i.imgur.com/6c6q2iC.png"
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
     "description": "[Anima Isles Rewards](https://runescape.wiki/w/Anima_Islands#Rewards) are rewards that can be bought with currency rewarded by playing the [Anima Isles](https://runescape.wiki/w/Anima_Islands) [Distractions and Diversions](https://runescape.wiki/w/Distractions_and_Diversions), which was released during the [Tuska comes](https://runescape.wiki/w/Tuska_Comes) world event, and later on made permanent. It is located west of the [Desert Bandit Camp](https://runescape.wiki/w/Bandit_Camp_(Kharidian_Desert%29).\n\n The following rewards are considered permanent rewards:\n\n• The [Tuska storm teleport](https://runescape.wiki/w/Tuska_storm_teleport)\n• The [Tuska's Fury (Tier 3)](https://runescape.wiki/w/Tuska's_Fury_(Tier_3%29) emote\n• The [Calibration device](https://runescape.wiki/w/Calibration_device) override\n• The [Saradomin Tuska spear](https://runescape.wiki/w/Saradomin_Tuska_spear) override\n• The [Godless Tuska spear](https://runescape.wiki/w/Godless_Tuska_spear) override\n• The [Zamorak Tuska spear](https://runescape.wiki/w/Zamorak_Tuska_spear) override\n• The [Armadyl Tuska spear](https://runescape.wiki/w/Armadyl_Tuska_spear) override\n• The [Tuska's Wrath](https://runescape.wiki/w/Tuska%27s_Wrath) ability\n• The [Sacrifice](https://runescape.wiki/w/Sacrifice) ability\n• The [Devotion](https://runescape.wiki/w/Devotion) ability\n• The [Transfigure](https://runescape.wiki/w/Transfigure) ability\n• The [Warpriest of Tuska](https://runescape.wiki/w/Warpriest_of_Tuska_armour) set (to upgrade the [Sliske's Parody](https://runescape.wiki/w/Anima_Core_of_Sliske) set)\n\nThe total amount of currency needed to buy all rewards is either 25,700 or 36,200; depending on how Sacrifice, Devotion, and Transfigure are obtained.\n\nA maximum total of 1,000 currency is reward per playthrough, therefore a minimum of either 26 or 37 playthroughs is required to buy all of the permanent rewards.",
     "color": 10257648,
@@ -128,7 +128,7 @@ exports.data = {
       },
       {
         "name": "Note:",
-        "value": "Since [Ironman](https://runescape.wiki/w/Ironman_Mode) accounts can't participate in the Demon Flash Mob D&D, and can also not buy the titles from the Grand Exchange, it is simply not required for ironman accounts to complete this requirement."
+        "value": "Since [Ironman](https://runescape.wiki/w/Ironman_Mode) accounts can't participate in the Demon Flash Mob D&D, and can also not buy the titles from the Grand Exchange, it is simply not required for Ironman accounts to complete this requirement."
       }
     ],
     "footer": {
@@ -171,7 +171,7 @@ exports.data = {
     },
     "fields": [{
         "name": "Requirements:",
-        "value": "• Atleast 1 entry ticket"
+        "value": "• At least 1 entry ticket"
       },
       {
         "name": "Tips:",
@@ -245,7 +245,7 @@ exports.data = {
       "name": "True Trimmed Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Guthixian Cache Rewards](https://runescape.wiki/w/Guthixian_Cache#Rewards) are rewards that can be obtained by completing the [Guthixian Cache](https://runescape.wiki/w/Guthixian_Cache) [Distractions and Diversions](https://runescape.wiki/w/Distractions_and_Diversions), which requires the player to hop into an [energy rift](https://runescape.wiki/w/Energy_rift). Energy rifts are found at any of the [wisp](https://runescape.wiki/w/Wisp) colonies (except the [pale wisp](https://runescape.wiki/w/Pale_wisp) and [cursed wisp](https://runescape.wiki/w/Cursed_wisp) colonies). It appears for 10 minutes every hour. Players can also enter the caches at [The Archivist](https://runescape.wiki/w/The_Archivist) in the [Hall of Memories](https://runescape.wiki/w/Hall_of_Memories).\n\nThe only reward that is considered a permanent reward is unlocking the [Diviner's outfit](https://runescape.wiki/w/Diviner%27s_outfit).\n\nOutfit pieces can only be obtained if the player receives experience from the guthixian cache.",
+    "description": "[Guthixian Cache Rewards](https://runescape.wiki/w/Guthixian_Cache#Rewards) are rewards that can be obtained by completing the [Guthixian Cache](https://runescape.wiki/w/Guthixian_Cache) [Distractions and Diversions](https://runescape.wiki/w/Distractions_and_Diversions), which requires the player to hop into an [energy rift](https://runescape.wiki/w/Energy_rift). Energy rifts are found at any of the [wisp](https://runescape.wiki/w/Wisp) colonies (except the [pale wisp](https://runescape.wiki/w/Pale_wisp) and [cursed wisp](https://runescape.wiki/w/Cursed_wisp) colonies). It appears for 10 minutes every hour. Players can also enter the caches at [The Archivist](https://runescape.wiki/w/The_Archivist) in the [Hall of Memories](https://runescape.wiki/w/Hall_of_Memories).\n\nThe only reward that is considered a permanent reward is unlocking the [Diviner's outfit](https://runescape.wiki/w/Diviner%27s_outfit).\n\nOutfit pieces can only be obtained if the player receives experience from the Guthixian cache.",
     "color": 10257648,
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/d/dc/Diviner%27s_outfit_equipped.png/revision/latest?cb=20131101012954"
@@ -398,14 +398,14 @@ exports.data = {
       "name": "True Trimmed Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Wisps of the Grove rewards](https://runescape.wiki/w/Wisps_of_the_Grove#Rewards) are rewards that can be obtained by completing the [Wisps of the Grove](https://runescape.wiki/w/Wisps_of_the_Grove) [Distraction and Diversion](https://runescape.wiki/w/Distractions_and_Diversions) in [the Lost Grove](https://runescape.wiki/w/The_Lost_Grove). The only permanent reward is the [Vinny](https://runescape.wiki/w/Vinny) pet, wich has a drop rate of 1/100.",
+    "description": "[Wisps of the Grove rewards](https://runescape.wiki/w/Wisps_of_the_Grove#Rewards) are rewards that can be obtained by completing the [Wisps of the Grove](https://runescape.wiki/w/Wisps_of_the_Grove) [Distraction and Diversion](https://runescape.wiki/w/Distractions_and_Diversions) in [the Lost Grove](https://runescape.wiki/w/The_Lost_Grove). The only permanent reward is the [Vinny](https://runescape.wiki/w/Vinny) pet, which has a drop rate of 1/100.",
     "color": 10257648,
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/e/eb/Vinny_pet.png/revision/latest?cb=20180723084812&format=original"
     },
     "fields": [{
         "name": "Getting there:",
-        "value": "Wisps of the Grove is located on The Lost Grove, an island west of [Tirannwn](https://runescape.wiki/w/Tirannwn). You can get there by inspecting the standstone south of the [poison waste](https://runescape.wiki/w/Poison_Waste). Using the [Fairy Ring code](https://runescape.wiki/w/Fairy_ring#Fairy_ring_codes) **b•k•p** and running west is the fastest way to get there. Once at The Lost Grove, the player may use 5 [bittercap mushrooms](https://runescape.wiki/w/Bittercap_mushroom) on the fairy ring on the island and use the code **b•j•s** to get there faster in the future."
+        "value": "Wisps of the Grove is located on The Lost Grove, an island west of [Tirannwn](https://runescape.wiki/w/Tirannwn). You can get there by inspecting the sandstone south of the [poison waste](https://runescape.wiki/w/Poison_Waste). Using the [Fairy Ring code](https://runescape.wiki/w/Fairy_ring#Fairy_ring_codes) **b•k•p** and running west is the fastest way to get there. Once at The Lost Grove, the player may use 5 [bittercap mushrooms](https://runescape.wiki/w/Bittercap_mushroom) on the fairy ring on the island and use the code **b•j•s** to get there faster in the future."
       },
       {
         "name": "Tips:",
@@ -473,7 +473,7 @@ exports.data = {
       },
       {
         "name": "Resources:",
-        "value": "• [BA Teams Discord](https://discord.gg/XUuhc9y)\n• [Leech BA Discord](https://discord.gg/j4DgZBj) | [Leech BA Cost Calculator](http://leechba.ml/calculator)"
+        "value": "• [BA Teams Discord](https://discord.gg/XUuhc9y)\n• [Leech BA Discord](https://discord.gg/j4DgZBj) | [Leech BA Cost Calculator](https://leechba.ml/calculator)"
       }
     ],
     "footer": {
@@ -533,7 +533,7 @@ exports.data = {
       },
       {
         "name": "Friends Chat:",
-        "value": "The player can also choose to join games hosted by [Castle Wars United](https://discord.gg/hzvwrvX), and join their friends chat **Cwar United**, after applying on their [forum thread](http://services.runescape.com/m=forum/c=9s7nqZXGY8Y/forums.ws?75,76,32,66000897)."
+        "value": "The player can also choose to join games hosted by [Castle Wars United](https://discord.gg/hzvwrvX), and join their friends chat **Cwar United**, after applying on their [forum thread](https://services.runescape.com/m=forum/c=9s7nqZXGY8Y/forums.ws?75,76,32,66000897)."
       }
     ],
     "footer": {
@@ -661,7 +661,7 @@ exports.data = {
       "name": "True Trimmed Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Mage Arena Rewards](https://runescape.wiki/w/Mage_Arena#Rewards) are rewards that can be unlocked from completing the [Mage Arena](https://runescape.wiki/w/Mage_Arena) minigame, which is located in level 53 [Wilderness](https://runescape.wiki/w/Wilderness), north of the [Lava Maze](https://runescape.wiki/w/Lava_Maze). The only permanent reward from the Mage Arena is unlocking the [Divine Storm](https://runescape.wiki/w/Divine_Storm) spell.\n\nPlayers can start the minigame by talking to [Kolodion](https://runescape.wiki/w/Kolodion), whom can be found by pulling the lever to the north-west of the Mage Arena (behind 2 webs).\n\nAfter defeating the last form of Kolodion, the player gains access to an underground area where they can buy the [God staves](https://runescape.wiki/w/God_staves) or obtain their [God capes](https://runescape.wiki/w/God_capes) by chosing 1 of the 3 [gods](https://runescape.wiki/w/Gods).",
+    "description": "[Mage Arena Rewards](https://runescape.wiki/w/Mage_Arena#Rewards) are rewards that can be unlocked from completing the [Mage Arena](https://runescape.wiki/w/Mage_Arena) minigame, which is located in level 53 [Wilderness](https://runescape.wiki/w/Wilderness), north of the [Lava Maze](https://runescape.wiki/w/Lava_Maze). The only permanent reward from the Mage Arena is unlocking the [Divine Storm](https://runescape.wiki/w/Divine_Storm) spell.\n\nPlayers can start the minigame by talking to [Kolodion](https://runescape.wiki/w/Kolodion), whom can be found by pulling the lever to the north-west of the Mage Arena (behind 2 webs).\n\nAfter defeating the last form of Kolodion, the player gains access to an underground area where they can buy the [God staves](https://runescape.wiki/w/God_staves) or obtain their [God capes](https://runescape.wiki/w/God_capes) by choosing 1 of the 3 [gods](https://runescape.wiki/w/Gods).",
     "color": 10257648,
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/3/36/2003_mage_arena_staff_barrel_statue.png"
@@ -756,7 +756,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "• [POP Encyclopedia V5 | Kags - Runescape official forums](http://services.runescape.com/m=forum/forums.ws?75,76,519,65829739)"
+        "value": "• [POP Encyclopedia V5 | Kags - Runescape official forums](https://services.runescape.com/m=forum/forums.ws?75,76,519,65829739)"
       }
     ],
     "footer": {
@@ -1438,7 +1438,7 @@ exports.data = {
       "name": "True Trimmed Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Longramble's Long Lost Delivery](https://runescape.wiki/w/Longramble) requires the player to deliver the long standing food order from [Aluft Gianne Jr](https://runescape.wiki/w/Gianne_Jnr) of some [Tangled toad's legs](https://runescape.wiki/w/Tangled_toad%27s_legs) to [Longramble](https://runescape.wiki/w/Longramble), whom can be found east of the [Poison Waste](https://runescape.wiki/w/Poison_Waste). In return, the player will recieve a single [mint cake](https://runescape.wiki/w/Mint_cake).",
+    "description": "[Longramble's Long Lost Delivery](https://runescape.wiki/w/Longramble) requires the player to deliver the long standing food order from [Aluft Gianne Jr](https://runescape.wiki/w/Gianne_Jnr) of some [Tangled toad's legs](https://runescape.wiki/w/Tangled_toad%27s_legs) to [Longramble](https://runescape.wiki/w/Longramble), whom can be found east of the [Poison Waste](https://runescape.wiki/w/Poison_Waste). In return, the player will receive a single [mint cake](https://runescape.wiki/w/Mint_cake).",
     "color": 10257648,
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/9/92/Longramble.png/revision/latest?cb=20130410201048"
@@ -2240,7 +2240,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "• [Hard Mode Solo Kree'Arra Guide | Munclesonkey - Youtube](https://www.youtube.com/watch?v=Igzndw-QVNg)"
+        "value": "• [Hard Mode Solo Kree'arra Guide | Munclesonkey - Youtube](https://www.youtube.com/watch?v=Igzndw-QVNg)"
       }
     ],
     "footer": {
@@ -3761,7 +3761,7 @@ exports.data = {
       },
       {
         "name": "Requirements:",
-        "value": "• 20 Invetion\n• 80 Divination\n• 80 Fishing\n• 80 Mining\n• 80 Thieving\n• 80 Runecrafting\n• 80 Dungeoneering\n• 80 Farming\n\n• 200,000 [Dungeoneering tokens](https://runescape.wiki/w/Dungeoneering_token)\n• 1,000 [beans](https://runescape.wiki/w/Beans)\n\n• To receive the fragments, the player only needs level 70 in the corresponding skills; the level 80 requirement is to actually make the outfit pieces.\n\n• To be able to make the Gorajan trailblazer outfits, the player will have to buy the Elite dungeoneering outfit blueprint from the [Elite Dungeon Reward Shop](https://runescape.wiki/w/Elite_Dungeon_Reward_Shop) in [Daemonheim](https://runescape.wiki/w/Daemonheim).\n• To be able to make the Master farmer outfit, the player will have to buy the Master farmer outfit blueprint from [Granny Potterington](https://runescape.wiki/w/Granny_Potterington) at the [Farmers' Market](https://runescape.wiki/w/Farmers%27_Market)."
+        "value": "• 20 Invention\n• 80 Divination\n• 80 Fishing\n• 80 Mining\n• 80 Thieving\n• 80 Runecrafting\n• 80 Dungeoneering\n• 80 Farming\n\n• 200,000 [Dungeoneering tokens](https://runescape.wiki/w/Dungeoneering_token)\n• 1,000 [beans](https://runescape.wiki/w/Beans)\n\n• To receive the fragments, the player only needs level 70 in the corresponding skills; the level 80 requirement is to actually make the outfit pieces.\n\n• To be able to make the Gorajan trailblazer outfits, the player will have to buy the Elite dungeoneering outfit blueprint from the [Elite Dungeon Reward Shop](https://runescape.wiki/w/Elite_Dungeon_Reward_Shop) in [Daemonheim](https://runescape.wiki/w/Daemonheim).\n• To be able to make the Master farmer outfit, the player will have to buy the Master farmer outfit blueprint from [Granny Potterington](https://runescape.wiki/w/Granny_Potterington) at the [Farmers' Market](https://runescape.wiki/w/Farmers%27_Market)."
       }
     ],
     "footer": {
@@ -3932,16 +3932,16 @@ exports.data = {
     "title": "Trevi Whirlpool",
     "author": {
       "name": "True Trimmed Info",
-      "icon_url": "http://i.imgur.com/6c6q2iC.png"
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Trevi Whirlpool](https://runescape.wiki/w/Whirlpool_(Deep_Sea_Fishing%29) requires the player to unlock the the titles from the whirlpool that spawns as a random event in the middle area of the [Deep Sea Fishing Hub](https://runescape.wiki/w/Deep_Sea_Fishing_hub). This will last for 5 minutes.\n\nThe titles can be unlocked by throwing a certain amount of coins into the whirlpool. The titles that can be obtained and their respective cost are:\n\n• _[Name]_ [the Wishful](https://runescape.wiki/w/The_Wishful) title:  1 coin\n• _[Name]_ [the Generous](https://runescape.wiki/w/The_Generous) title: 10,000,000 coins\n• _[Name]_ [the Millionaire](https://runescape.wiki/w/The_Millionaire) title: 100,000,000 coins\n• _[Name]_ [the Charitable](https://runescape.wiki/w/The_Charitable) title: 1,000,000,000 coins\n• _[Name]_ [the Billionaire](https://runescape.wiki/w/The_Billionaire) title: 5,000,000,000 coins\n\nThrowing in any amount of coins will also complete the [Make A Wish](https://runescape.wiki/w/Make_A_Wish) achievement.",
+    "description": "[Trevi Whirlpool](https://runescape.wiki/w/Whirlpool_(Deep_Sea_Fishing%29) requires the player to unlock the titles from the whirlpool that spawns as a random event in the middle area of the [Deep Sea Fishing Hub](https://runescape.wiki/w/Deep_Sea_Fishing_hub). This will last for 5 minutes.\n\nThe titles can be unlocked by throwing a certain amount of coins into the whirlpool. The titles that can be obtained and their respective cost are:\n\n• _[Name]_ [the Wishful](https://runescape.wiki/w/The_Wishful) title:  1 coin\n• _[Name]_ [the Generous](https://runescape.wiki/w/The_Generous) title: 10,000,000 coins\n• _[Name]_ [the Millionaire](https://runescape.wiki/w/The_Millionaire) title: 100,000,000 coins\n• _[Name]_ [the Charitable](https://runescape.wiki/w/The_Charitable) title: 1,000,000,000 coins\n• _[Name]_ [the Billionaire](https://runescape.wiki/w/The_Billionaire) title: 5,000,000,000 coins\n\nThrowing in any amount of coins will also complete the [Make A Wish](https://runescape.wiki/w/Make_A_Wish) achievement.",
     "color": 10257648,
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/f/f2/Whirlpool_(Deep_Sea_Fishing%29.png/revision/latest?cb=20180306202520"
     },
     "fields": [{
       "name": "Guide and Tips:",
-      "value": "Every time money is thrown into the whirlpool, it shows the progress towards the next title unlock. This progress will stay the same untill more money is thrown in.\n\nMake sure to have enough coins ready to throw into the whirlpool to get the desired title. Players may join the friend's chat '**_whirlpooldnd_** ' and wait for the whirlpool event to spawn. Once you've found the whirlpool, deposit the required amount into the whirlpool and the respective title will be unlocked.\n\nFor the Billionaire title, it's advised to have multiple stacks of 2,147,483,647 coins ready. This is the maximum amount of coins a player can have in a single pile. Therefore, it's required to own two max cash stacks and an additional 705,032,706 coins to obtain The Billionaire title from a single whirlpool event.\n\nIt is however not required to throw in the full amount of coins into a single whirlpool spawn, and can be spread over multiple spawns."
+      "value": "Every time money is thrown into the whirlpool, it shows the progress towards the next title unlock. This progress will stay the same until more money is thrown in.\n\nMake sure to have enough coins ready to throw into the whirlpool to get the desired title. Players may join the friend's chat '**_whirlpooldnd_** ' and wait for the whirlpool event to spawn. Once you've found the whirlpool, deposit the required amount into the whirlpool and the respective title will be unlocked.\n\nFor the Billionaire title, it's advised to have multiple stacks of 2,147,483,647 coins ready. This is the maximum amount of coins a player can have in a single pile. Therefore, it's required to own two max cash stacks and an additional 705,032,706 coins to obtain The Billionaire title from a single whirlpool event.\n\nIt is however not required to throw in the full amount of coins into a single whirlpool spawn, and can be spread over multiple spawns."
     }],
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
