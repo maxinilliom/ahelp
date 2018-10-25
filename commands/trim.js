@@ -112,7 +112,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 				clear();
 			}
 			if (o == x) {
-				await message.channel.send(`**${i}**/\**${x}** messages removed.\n\n${errMsg}`)
+				await message.reply(`**${i}**/\**${x}** messages removed.\n\n${errMsg}`)
 					.then(m => m.delete(10000));
 				gl.delete('trim');
 				await message.channel.send('All **trim** guides deleted from memory.')

@@ -288,7 +288,7 @@ exports.run = async (client, message, [skill, ...args], level) => { // eslint-di
 				clear();
 			}
 			if (o == x) {
-				await message.channel.send(`**${i}**/\**${x}** messages removed.\n\n${errMsg}`)
+				await message.reply(`**${i}**/\**${x}** messages removed.\n\n${errMsg}`)
 					.then(m => m.delete(10000));
 				delete cl[nick];
 				gl.set('max', cl);

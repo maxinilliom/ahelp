@@ -104,7 +104,7 @@ exports.run = async (client, message, args, level) => {
 				clear();
 			}
 			if (o == x) {
-				await message.channel.send(`**${i}**/\**${x}** messages removed.\n\n${errMsg}`)
+				await message.reply(`**${i}**/\**${x}** messages removed.\n\n${errMsg}`)
 					.then(m => m.delete(10000));
 				gl.delete('reaper');
 				await message.channel.send('All **reaper** guides deleted from memory.')
