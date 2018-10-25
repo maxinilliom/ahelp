@@ -1159,7 +1159,7 @@ exports.data = {
       "name": "True Trimmed Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Way Down The Nexus Goes](https://runescape.wiki/w/The_Nexus#Tactic) requires the player the receive the maximum amount of 37,224 Prayer experience from helping [Ysondria](https://runescape.wiki/w/Ysondria) fight off the [Grotesque](https://runescape.wiki/w/Grotesque) in the [Lumbridge Swamp](https://runescape.wiki/w/Lumbridge_Swamp).\n\nOnce the player has received the maximum amount of Prayer experience, they will no longer be able to interact with the Nexus.",
+    "description": "[Way Down The Nexus Goes](https://runescape.wiki/w/The_Nexus#Tactic) requires the player to receive the maximum amount of 37,224 Prayer experience from helping [Ysondria](https://runescape.wiki/w/Ysondria) fight off the [Grotesque](https://runescape.wiki/w/Grotesque) in the [Lumbridge Swamp](https://runescape.wiki/w/Lumbridge_Swamp).\n\nOnce the player has received the maximum amount of Prayer experience, they will no longer be able to interact with the Nexus.",
     "color": 10257648,
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/2/2f/Grotesque_bones_detail.png/revision/latest?cb=20130513215909"
