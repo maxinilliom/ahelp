@@ -54,6 +54,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 		let i = 0, o = 0, errMsg = "";
 		const x = category ? catList.length : keyList.length;
 		if (!gl.has('tt')) gl.set('tt', {});
+		msgArr.push(message.channel.id);
 	    await message.channel.send({
 	      files: [{
 	      attachment: 'media/img/guides/break.png',
@@ -144,9 +145,12 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 	}
 
 	if (args[0].toLowerCase() == "clear" && level >= 2) {
-		if (!gl.has('tt')) return message.channel.send(`No messages are currently stored for **truetrim**.`);
-		const cl = gl.get('tt');
-		const nl = cl[nick];
+		const cl = gl.get('t');
+		if (!cl[nick]) return message.channel.send(`No messages are currently stored for **${nick}**.`);
+		let nl = cl[nick];
+		const channel = nl[0];
+		if (message.channel.id !== channel) return message.channel.send(`Please use this command in the <#${message.guild.channels.get(channel).id}> channel that the embeds were originally sent in.`);
+		nl = nl.slice(1);
 		let i = 0, o = 0, x = nl.length, errMsg = "";
 		async function clear() {
 			const id = nl[o];

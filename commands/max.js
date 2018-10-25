@@ -224,6 +224,7 @@ exports.run = async (client, message, [skill, ...args], level) => { // eslint-di
 			x = keyList.length,
 			errMsg = "";
 		if (!gl.has('max')) gl.set('max', {});
+		msgArr.push(message.channel.id);
 		//insert skill header switch here
 		async function list() {
 			const guide = data[keyList[o]];
@@ -264,7 +265,11 @@ exports.run = async (client, message, [skill, ...args], level) => { // eslint-di
 	if (args[0].toLowerCase() == "clear" && level >= 2) {
 		if (!gl.has('max')) return message.channel.send(`No messages are currently stored for **${skill.toLowerCase()}**.`);
 		const cl = gl.get('max');
-		const nl = cl[nick];
+		if (!cl[nick]) return message.channel.send(`No messages are currently stored for **${nick}**.`);
+		let nl = cl[nick];
+		const channel = nl[0];
+		if (message.channel.id !== channel) return message.channel.send(`Please use this command in the <#${message.guild.channels.get(channel).id}> channel that the embeds were originally sent in.`);
+		nl = nl.slice(1);
 		let i = 0, o = 0, x = nl.length, errMsg = "";
 		async function clear() {
 			const id = nl[o];

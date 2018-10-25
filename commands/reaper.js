@@ -27,6 +27,7 @@ exports.run = async (client, message, args, level) => {
 	if (args[0].toLowerCase() == "all" && level >= 2) {
     let i = 0, o = 0, x = keyList.length, errMsg = "";
 		if (!gl.has('reaper')) gl.set('reaper', msgArr);
+		msgArr.push(message.channel.id);
 		await message.channel.send({
 		  files: [{
 			attachment: 'media/img/guides/break.png',
@@ -82,6 +83,9 @@ exports.run = async (client, message, args, level) => {
 	if (args[0].toLowerCase() == "clear" && level >= 2) {
 		if (!gl.has('reaper')) return message.channel.send('No messages are currently stored for **reaper**.');
 		const cl = gl.get('reaper');
+		const channel = cl[0];
+		if (message.channel.id !== channel) return message.channel.send(`Please use this command in the <#${message.guild.channels.get(channel).id}> channel that the embeds were originally sent in.`);
+		cl = cl.slice(1);
 		let i = 0, o = 0, x = cl.length, errMsg = "";
 		async function clear() {
 			const id = cl[o];
