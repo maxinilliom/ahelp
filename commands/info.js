@@ -3,63 +3,66 @@ const { promisify } = require("util");
 const readdir = promisify(require("fs").readdir);
 
 exports.run = (client, message, args, level) => {
-	const type = args[0].toLowerCase();
-	if (!["affiliate","event","fc","misc","role"].includes(type)) return message.channel.send('Incorrect argument provided.');
-	const { data } = require(`../info/${type}.js`);
-	const embeds = Object.getOwnPropertyNames(data);
-	const gl = client.guideList;
-	const msgArr = [];
-	let i = 0, o = 0, x = embeds.length, errMsg = "";
-	if (!gl.has(type)) gl.set(type, msgArr);
-	msgArr.push(message.channel.id);
-	async function list() {
-		const curr = data[embeds[o]];
-		const embed = curr.description || curr.fields ? {embed: curr} : curr;
-		const channelName = message.channel.name.toProperCase().replace(/-/g, " ");
-		if (curr.footer) curr.footer.text = `Achievement Help | ${channelName}`;
-		if (curr.description || curr.footer) {
-			switch (type) {
-				case "affiliate": 
-					curr.color = 14601387;
-					break;
-				case "event":
-					curr.color = 2136831;
-					break;
-				case "fc":
-					curr.color = 8924979;
-					break;
-				case "misc":
-					curr.color = 2336356;
-					break;
-				case "role":
-					curr.color = 5011162;
-					break;
-				default:
-					curr.color = 16738740;
+
+	if (!args[1]) {
+		const type = args[0].toLowerCase();
+		if (!["affiliate","event","fc","misc","role"].includes(type)) return message.channel.send('Incorrect argument provided.');
+		const { data } = require(`../info/${type}.js`);
+		const embeds = Object.getOwnPropertyNames(data);
+		const gl = client.guideList;
+		const msgArr = [];
+		let i = 0, o = 0, x = embeds.length, errMsg = "";
+		if (!gl.has(type)) gl.set(type, msgArr);
+		msgArr.push(message.channel.id);
+		async function list() {
+			const curr = data[embeds[o]];
+			const embed = curr.description || curr.fields ? {embed: curr} : curr;
+			const channelName = message.channel.name.toProperCase().replace(/-/g, " ");
+			if (curr.footer) curr.footer.text = `Achievement Help | ${channelName}`;
+			if (curr.description || curr.footer) {
+				switch (type) {
+					case "affiliate": 
+						curr.color = 14601387;
+						break;
+					case "event":
+						curr.color = 2136831;
+						break;
+					case "fc":
+						curr.color = 8924979;
+						break;
+					case "misc":
+						curr.color = 2336356;
+						break;
+					case "role":
+						curr.color = 5011162;
+						break;
+					default:
+						curr.color = 16738740;
+				}
+			}
+			try {
+				await message.channel.send("", embed)
+					.then(m => msgArr.push(m.id));
+			} catch (err) {
+				errMsg += `${o}. ${embeds[o]} failed to send with error: ${err}\n`;
+				i--;
+			}
+			i++;
+			o++;
+			if (o < x) setTimeout(list, 2000);
+			if (o == x) {
+		  	gl.set(type, msgArr);
+		  	await message.reply(`**${i}**/\**${keyList.length}** responses listed.\n\n${errMsg}`)
+					.then(m => m.delete(10000));
+		  	await message.channel.send('All message IDs saved.')
+		  		.then(m => m.delete(5000));
 			}
 		}
-		try {
-			await message.channel.send("", embed)
-				.then(m => msgArr.push(m.id));
-		} catch (err) {
-			errMsg += `${o}. ${embeds[o]} failed to send with error: ${err}\n`;
-			i--;
-		}
-		i++;
-		o++;
-		if (o < x) setTimeout(list, 2000);
-		if (o == x) {
-	  	gl.set(type, msgArr);
-	  	await message.reply(`**${i}**/\**${keyList.length}** responses listed.\n\n${errMsg}`)
-				.then(m => m.delete(10000));
-	  	await message.channel.send('All message IDs saved.')
-	  		.then(m => m.delete(5000));
-		}
+		list();
+		return message.delete();
 	}
-	list();
-	return message.delete();
 
-	if (args[1].toLowerCase() == "clear" && level >= 2) {
+	if (args[1].toLowerCase() == "clear") {
 		if (!gl.has(type)) return message.channel.send(`No messages are currently stored for **${type}**.`);
 		let cl = gl.get(type);
 		const channel = cl[0];
@@ -92,7 +95,7 @@ exports.run = (client, message, args, level) => {
 		}
 		clear();
 		return message.delete();
-
+	}
 };
 
 exports.conf = {
