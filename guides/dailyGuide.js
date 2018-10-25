@@ -123,13 +123,13 @@ exports.data = {
      "fields": [
       {
         "name": "Useful Information:",
-        "value": "Players must have an empty inventory to receive the logs. The chosen dialogue option for persuading Coeden doesn't affect the outcome of the logs. For a list of possible log combinations, click [here](https://runescape.wiki/w/Coeden#Daily_logs)."
+        "value": "Players must have an empty inventory to receive the logs. The chosen dialog option for persuading Coeden doesn't affect the outcome of the logs. For a list of possible log combinations, click [here](https://runescape.wiki/w/Coeden#Daily_logs)."
       }
     ]
   },
   "crystal flasks": {
     "title": "Crystal Flasks",
-    "description": "[Crystal Flasks](https://runescape.wiki/w/Crystal_flask) require the completion of the [Plague's End](https://runescape.wiki/w/Plague%27s_End) quest. They can be made from [Crystal-flecked Sandstone](https://runescape.wiki/w/Crystal-flecked_sandstone).\n\n50 sandstone can be mined daily in the [Ithell District](https://runescape.wiki/w/Ithell_Clan) of [Prifddinas](https://runescape.wiki/w/Prifddinas), and an additional 25 in the [Edimmu Resource Dungeon](https://runescape.wiki/w/Edimmu_resource_dungeon) in the [Meilyr Clan](https://runescape.wiki/w/Meilyr_Clan) distruct of Prifddinas, requiring 115 Dungeoneering to enter.\n\nTo operate the [robust glass machine](https://runescape.wiki/w/Robust_glass_machine) and convert the Crystal-flecked Sandstone into [crystal glass](https://runescape.wiki/w/Crystal_glass), the player must have completed the [As a First Resort](https://runescape.wiki/w/As_a_First_Resort) quest.",
+    "description": "[Crystal Flasks](https://runescape.wiki/w/Crystal_flask) require the completion of the [Plague's End](https://runescape.wiki/w/Plague%27s_End) quest. They can be made from [Crystal-flecked Sandstone](https://runescape.wiki/w/Crystal-flecked_sandstone).\n\n50 sandstone can be mined daily in the [Ithell District](https://runescape.wiki/w/Ithell_Clan) of [Prifddinas](https://runescape.wiki/w/Prifddinas), and an additional 25 in the [Edimmu Resource Dungeon](https://runescape.wiki/w/Edimmu_resource_dungeon) in the [Meilyr Clan](https://runescape.wiki/w/Meilyr_Clan) district of Prifddinas, requiring 115 Dungeoneering to enter.\n\nTo operate the [robust glass machine](https://runescape.wiki/w/Robust_glass_machine) and convert the Crystal-flecked Sandstone into [crystal glass](https://runescape.wiki/w/Crystal_glass), the player must have completed the [As a First Resort](https://runescape.wiki/w/As_a_First_Resort) quest.",
     "url": "https://runescape.wiki/w/Crystal_flask",
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
@@ -300,7 +300,7 @@ exports.data = {
      "fields": [
       {
         "name": "Useful Information:",
-        "value": "Wizard Cromperty is located in the building east of the [Servants' Guild](https://runescape.wiki/w/Servants%27_Guild), which is one of the buildings located in the north of [East Ardougne](https://runescape.wiki/w/East_Ardougne). Right-click him to claim the essence. You don't need to be wearing your [ardougne cloak](https://runescape.wiki/w/Ardougne_cloak) to claim the essence. If you've only completed the medium tasks, you can still claim 100 essence per day."
+        "value": "Wizard Cromperty is located in the building east of the [Servants' Guild](https://runescape.wiki/w/Servants%27_Guild), which is one of the buildings located in the north of [East Ardougne](https://runescape.wiki/w/East_Ardougne). Right-click him to claim the essence. You don't need to be wearing your [Ardougne cloak](https://runescape.wiki/w/Ardougne_cloak) to claim the essence. If you've only completed the medium tasks, you can still claim 100 essence per day."
       }
     ]
   },
