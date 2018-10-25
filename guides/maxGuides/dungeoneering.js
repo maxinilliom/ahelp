@@ -285,15 +285,11 @@ exports.data = {
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     }
   },
-  "permanent boosts": {
+  "permanent boosts pt1": {
     "title": "Permanent Boosts",
     "url": "https://runescape.wiki/w/Bonus_experience_items",
     "description": "A permanent skill boost is anything caused by an item that permanently raises a player's level or ability in one or more skills. It allows the player to do things above their current level or ability.",
-        "color": 12269891,
-    "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
-      "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
-    },
+    "color": 12269891,
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/b/bc/Warped_gorajan_trailblazer_outfit_equipped.png/revision/latest?cb=20161231134804"
     },
@@ -329,7 +325,11 @@ exports.data = {
       {
         "name": "​",
         "value": "Players can customize their ring by purchasing class upgrades with Dungeoneering Tokens. There are 12 possible classes, and only one may be active at a time. However two classes can be activated if you have done at least the [Easy Tasks](https://runescape.wiki/w/Daemonheim_achievements#Easy_achievements) of the [Daemonheim achievement set](https://runescape.wiki/w/Daemonheim_achievements). In order to take advantage of the upgrades, players must wear the rings.\n\nA full list of the ring effects and their percentage boost per tier can be found [here](https://runescape.wiki/w/Ring_of_kinship)."
-      },
+      }
+    ]
+  },
+  "permanent boosts pt2": {
+    "fields": [
       {
         "name": "Daemonheim aura 1",
         "value": "The [Daemonheim Aura 1](https://runescape.wiki/w/Daemonheim_aura_1) provides the follow effects when worn:\n• One consequence-free death per day in a dungeon (does not work in [hard mode](https://runescape.wiki/w/Dungeoneering/Hard_mode) floors)\n\nThe Aura also provides the following effects at all times:\n• Ability to set a secondary role for the ring of kinship, giving its effect with 25% effectiveness\n• Ability to choose which [boss](https://runescape.wiki/w/Dungeoneering#Bosses) is faced in a dungeon, once per day (must be a boss that can be accessed on that floor)\n• [Heim crab](https://runescape.wiki/w/Crab_claw_(override) cosmetic main and off-hand melee weapon override"
@@ -346,7 +346,12 @@ exports.data = {
         "name": "Daemonheim aura 4",
         "value": "The [Daemonheim Aura 4](https://runescape.wiki/w/Daemonheim_aura_4) provides the follow effects when worn:\n• Access to the [second gatestone](https://runescape.wiki/w/Gatestone_2), via the [Create Gatestone 2](https://runescape.wiki/w/Create_Gatestone_2) and [Gatestone Teleport 2](https://runescape.wiki/w/Gatestone_Teleport_2) spells\n\nThe Aura also provides the following effects at all times:\n• Secondary role effectiveness is increased to 100%\n• Access to hard mode dungeons\n• 10% discount from the Smuggler\n• Access to an extended portion of the [Brimhaven Dungeon resource dungeon](https://runescape.wiki/w/Brimhaven_Dungeon_resource_dungeon)"
       }
-      ]
+    ],
+    "footer": {
+      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
+    },
+    "timestamp": "2001-01-04T12:00:00Z"
   },
   "temporary boosts": {
     "title": "Temporary Boosts",

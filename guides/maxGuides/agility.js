@@ -190,11 +190,7 @@ exports.data = {
     "title": "Alternative Methods of Training",
     "url": "https://runescape.wiki/w/Agility_training#Alternative_methods_of_gaining_experience",
     "description": "Some users may wish to utilize methods outside of the ones displayed in this channel's guide. To aid in this, the following alternative methods are provided.",
-        "color": 12269891,
-    "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
-      "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
-    },
+    "color": 12269891,
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/8/80/Silverhawk_boots_detail.png/revision/latest/scale-to-width-down/120?cb=20141007165752"
     },
@@ -226,8 +222,11 @@ exports.data = {
       {
         "name": "▬▬ Barbarian Assault ▬▬",
         "value": "Players can gain Agility bonus experience as a reward from playing the [Barbarian Assault]( https://runescape.wiki/w/Barbarian_Assault) minigame. At level 99 Agility, it is possible to gain 1,300,000 bonus experience per hour playing [hard mode](https://runescape.wiki/w/Barbarian_Assault:_Hard_Mode) Barbarian Assault waves 6-9, at a cost of 6 [Barbarian assault ticket - hard wave 10](https://runescape.wiki/w/Barbarian_assault_ticket_-_hard_wave_10) per hour. Players may, as an alternative, gain 920,000 bonus experience per hour playing hard mode waves 1-9 without having to pay for the tickets.\n\nIn order to play hard mode Barbarian Assault, the normal mode of the minigame must be completed at least once. It is highly recommended for players to reach maximum role levels before starting to play for bonus experience."
-      },
-      {
+      }
+    ]
+  },
+  "alternative methods pt2": {
+    "fields": [{
         "name": "▬▬ Shifting Tombs ▬▬",
         "value": "[Shifting Tombs](https://runescape.wiki/w/Shifting_Tombs) is a skilling [minigame](https://runescape.wiki/w/Minigame) that is accessed in [Menaphos](https://runescape.wiki/w/Menaphos) after the completion of the [The Jack of Spades](https://runescape.wiki/w/The_Jack_of_Spades) quest. Shifting Tombs allows players to gain experience in skills of their choosing by pledging allegiance to different gods. The four primary skill choices are Dungeoneering, Agility, Thieving, and Construction; players are able to choose whether they gain experience in all four skills or a particular one of them. In Shifting Tombs, there are 3 main objectives to be completed before the time limit of 5 minutes is reached, namely [opening sarcophagi](https://runescape.wiki/w/Shifting_Tombs#Opening_sarcophagi), [looting treasure chests](https://runescape.wiki/w/Shifting_Tombs#Looting_treasure_chests), and [cleansing corruption](https://runescape.wiki/w/Shifting_Tombs#Cleansing_corruption)."
       },
@@ -251,7 +250,12 @@ exports.data = {
         "name": "​",
         "value": "Note that a player may choose to buy any size XP lamp in a random, Arc related skill for a lower amount of chimes at a 1/11 chance of gaining Agility experience. Random XP Lamps are generally not worth it if you are trying to gain experience in a specific skill."
       }
-      ]
+      ],
+    "footer": {
+      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
+    },
+    "timestamp": "2001-01-04T12:00:00Z"
   },
   "pet - dojo mojo": {
     "title": "Agility Pet - Dojo Mojo",
