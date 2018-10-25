@@ -357,7 +357,7 @@ exports.data = {
       },
       {
         "name": "​",
-        "value": "[Squiffberry](https://runescape.wiki/w/Squiffberry)\n• +2 Cooking levels\n• Requires access to [The Arc](https://runescape.wiki/w/The_Arc)\n• Reduces Defence by 1 level\n\n[Cooking urns](https://runescape.wiki/w/Cooking_urn)\n• +400-1,547.5 experience per urn (depends on the level of urn used)\n• +500-1,934.375 if used with [Urn Enhancer](https://runescape.wiki/w/Urn_enhancer)"
+        "value": "[Squiffberry](https://runescape.wiki/w/Squiffberry)\n• +2 Cooking levels\n• Requires access to [The Arc](https://runescape.wiki/w/The_Arc)\n• Reduces Defence by 1 level\n\n[Cooking urns](https://runescape.wiki/w/Cooking_urn)\n• +400-1,547.5 experience per urn (depends on the level of urn used)\n• +500-1,934.375 experience per urn if used with an [Urn Enhancer](https://runescape.wiki/w/Urn_enhancer) (requires the [Nomad's Elegy](https://runescape.wikia.com/wiki/Nomad%27s_Elegy) quest)"
       },
       {
         "name": "​",

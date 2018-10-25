@@ -50,7 +50,7 @@ exports.data = {
        },
        {
         "name":"Paying To Protect",
-        "value":"Paying to protect crops is an option for players although its not recommended, especially at higher levels. This is based on the fact that with supercompost, trees die 12.5% of the time. Payments will still be added to each section of the guide for the players convenience. A list of calculations between paying protection versus using supercompost for trees can be found [here](https://runescape.wiki/w/Calculator:Farming/Compost_to_payment)."
+        "value":"Paying to protect crops is an option for players, although its not recommended, especially at higher levels. This is based on the fact that with supercompost, trees die 12.5% of the time. Payments will still be added to each section of the guide for the players convenience. A list of calculations between paying protection versus using supercompost for trees can be found [here](https://runescape.wiki/w/Calculator:Farming/Compost_to_payment)."
        },
        {
         "name":"Disease & Death",
@@ -62,7 +62,7 @@ exports.data = {
        },
        {
         "name":"Growth Cycles",
-        "value":"[Growth Cycles](https://runescape.wiki/w/Farming#Growth_cycles) vary depending on the type of crop.  Regardless of the seed, growth stage windows last five minutes. The frequency of growth stage windows occurring is determined by the type of seed e.g. spirit trees' growth stages take 320 minutes, which includes a 5 minute growth window followed by 315 minutes of inactivity, repeated multiple times. In comparison hops' growth stages last 10 minutes, including 5 minutes of inactivity and a 5 minute growth stage window."
+        "value":"[Growth Cycles](https://runescape.wiki/w/Farming#Growth_cycles) vary depending on the type of crop.  Regardless of the seed, growth stage windows last five minutes. The frequency of growth stage windows occurring is determined by the type of seed e.g. spirit trees' growth stages take 320 minutes, which includes a 5 minute growth window followed by 315 minutes of inactivity, repeated multiple times. In comparison, hops' growth stages last 10 minutes, including 5 minutes of inactivity and a 5 minute growth stage window."
        }
    ]
   },
@@ -90,7 +90,7 @@ exports.data = {
      },
      {
        "name":"How To Farm An Allotment Patch",
-       "value":"• Rake patch to remove [Weeds](https://runescape.wiki/w/Weeds), if weeds are present\n• Treat empty patch with [Supercompost](https://runescape.wiki/w/Supercompost)\n• Use seeds on the patch"
+       "value":"• Rake patch to remove [Weeds](https://runescape.wiki/w/Weeds), if weeds are present\n• Treat empty patch with [Supercompost](https://runescape.wiki/w/Supercompost) (optional but recommended)\n• Use seeds on the patch"
      }
     ]
   },
@@ -117,7 +117,7 @@ exports.data = {
        "value":"Players can now plant [Oak Trees](https://runescape.wiki/w/Oak) to reach level 30. For this specific type of tree, [Acorns](https://runescape.wiki/w/Acorn) are used in order to create the sapling. Oaks take 160 minutes (4x40 minutes) to grow. If a player chooses to protect them, they must pay the farmer 1 [Basket of Tomatoes (5)](https://runescape.wiki/w/Tomatoes) per tree."
      },
      {
-       "name":"Apple Trees Levels 30-33",
+       "name":"Apple Trees Levels 27-30",
        "value":"At level 27, players can now begin to plant their first fruit trees. [Apple Trees](https://runescape.wiki/w/Apple_tree) should be planted to help reach level 30 using [Apple Tree Seeds](https://runescape.wiki/w/Apple_tree_seed). Apple Trees take 960 minutes (6x160 minutes) to grow. If a player chooses to protect them, they must pay the farmer 9 [Sweetcorn](https://runescape.wiki/w/Sweetcorn) per tree."
      }
     ]
@@ -250,10 +250,10 @@ exports.data = {
      },
      {
        "name":"Crystal Trees Levels 94-99+",
-       "value":"At level 94, players Gain the ability to plant a [Crystal Tree](https://runescape.wiki/w/Crystal_tree). A [Crystal Acorn](https://runescape.wiki/w/Crystal_acorn) can be used on the farming patch located south-east of the Prifddinas lodestone. The tree may then be harvested for a [Crystal Tree Blossom](https://runescape.wiki/w/Crystal_tree_blossom) once per day yielding an additional 15,000 Farming experience."
+       "value":"At level 94, players Gain the ability to plant a [Crystal Tree](https://runescape.wiki/w/Crystal_tree). A [Crystal Acorn](https://runescape.wiki/w/Crystal_acorn) can be used on the farming patch located south-east of the [Prifddinas](https://runescape.wiki/w/Prifddinas) lodestone. The tree may then be harvested for a [Crystal Tree Blossom](https://runescape.wiki/w/Crystal_tree_blossom) once per day yielding an additional 15,000 Farming experience. Players may receive an additional Crystal Tree Blossom, but no additional experience, per day by equipping the [Tirannwn quiver 4](https://runescape.wiki/w/Tirannwn_quiver_4) during harvest. The Tirannwn quiver 4 is obtained by completing the Elite Tirannwn achievements and is given to players by [Elen Anterth](https://runescape.wiki/w/Elen_Anterth) in the [Max Guild](https://runescape.wiki/w/Max_Guild) Garden in Prifddinas."
      },
       {
-        "name": "▬▬ Going above and beyond ▬▬",
+        "name": "▬▬ Going Above and Beyond ▬▬",
         "value": "For more information on training past level 99, please visit our affiliate Discord server, [Skilling](https://discord.gg/EFrxgks)."
       }
     ]
@@ -379,7 +379,7 @@ exports.data = {
   "distractions and diversions": { 
 "title": "Distractions and Diversions", 
 "url": "https://runescape.wiki/w/Distractions_and_Diversions", 
-"description": "D&Ds are a subclassification of minigames. However, unlike minigames many D&Ds move around the world to various locations, have a limit on how often they can be played, and only occur at particular times of day.\n\nDistractions and Diversions aim to divert the original intentions of the player in order to provide an interesting distraction from their everyday routines. D&Ds come in many different shapes and sizes; covering Combat, Gathering, Artisan, and Support skills. There are a wide variety of different options available to suit the players choice.", 
+"description": "D&Ds are a subclassification of [minigames](https://runescape.wiki/w/Minigames). However, unlike minigames, many D&Ds move around the world to various locations, have a limit on how often they can be played, and only occur at particular times of day.\n\nDistractions and Diversions aim to divert the original intentions of the player in order to provide an interesting distraction from their everyday routines. D&Ds come in many different shapes and sizes; covering Combat, Gathering, Artisan, and Support skills. There are a wide variety of different options available to suit the players choice.", 
 "color": 12269891, 
 "footer": { 
 "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg", 
@@ -422,7 +422,7 @@ exports.data = {
   "daily challenge": {
     "title": "Daily Challenge",
     "url": "https://runescape.wiki/w/Challenge_System/Farming",
-    "description": "Completing a daily challenge in Farming will give experience, depending on the player's Farming level.",
+    "description": "Completing a daily challenge in Farming will give experience. The amount of experience depends on the player's Farming level.",
         "color": 12269891,
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
@@ -445,7 +445,7 @@ exports.data = {
   "permanent boosts": {
     "title": "Permanent Boosts",
     "url": "https://runescape.wiki/w/Bonus_experience_items",
-    "description": "A permanent skill boost is anything caused by an item that permanently raises a player's level in one or more skills. It allows the player to do things above their current level.",
+    "description": "A permanent skill boost is anything caused by an item that permanently raises a player's level or ability in one or more skills. It allows the player to do things above their current level or ability.",
         "color": 12269891,
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
@@ -461,7 +461,7 @@ exports.data = {
     "fields": [
       {
         "name": "Farmer's Outfit",
-        "value": "• The [Farmer's Outfit](https://runescape.wiki/w/Farmer%27s_outfit) is experience-boosting set for the Farming skill. It can be won from [Treasure Hunter](https://runescape.wiki/w/Treasure_Hunter) or as a reward from [Cabbage Facepunch Bonanza](https://runescape.wiki/w/Cabbage_Facepunch_Bonanza) minigame. Each piece grants 1% bonus to Farming experience, wearing the full set grants 6%. The [Modified Farmer's Hat](https://runescape.wiki/w/Modified_farmer%27s_hat) is made by using a Farmer's Hat on a hat add-on. In addition to granting a 1% Farming experience bonus, players can also receive two [Bird's Nests](https://runescape.wiki/w/Bird%27s_nest#Rewards_from_Giant_Mole) a day or four if they have four or more pieces of the farmer's outfit. Players can also teleport to the Morytania allotment patch three times a day, or to Taverley if they do not have access to Morytania. When the hat is worn, there is a 2% chance of saving seeds when sowing."
+        "value": "• The [Farmer's Outfit](https://runescape.wiki/w/Farmer%27s_outfit) is an experience-boosting set for the Farming skill. It can be won from [Treasure Hunter](https://runescape.wiki/w/Treasure_Hunter) or as a reward from [Cabbage Facepunch Bonanza](https://runescape.wiki/w/Cabbage_Facepunch_Bonanza) minigame. Each piece grants 1% bonus to Farming experience, wearing the full set grants 6%. The [Modified Farmer's Hat](https://runescape.wiki/w/Modified_farmer%27s_hat) is made by using a Farmer's Hat on a hat add-on. In addition to granting a 1% Farming experience bonus, players can also receive two [Bird's Nests](https://runescape.wiki/w/Bird%27s_nest#Rewards_from_Giant_Mole) a day or four if they have four or more pieces of the farmer's outfit. Players can also teleport to the Morytania allotment patch three times a day, or to Taverley if they do not have access to Morytania. When the hat is worn, there is a 2% chance of saving seeds when sowing."
       },
       {
         "name": "Elite Animal Farmer Outfit",
@@ -488,19 +488,19 @@ exports.data = {
         "value": "• The [Scroll of Life](https://runescape.wiki/w/Scroll_of_life) is a Dungeoneering reward, that can be purchased for 10,000 [Dungeoneering reward tokens](https://runescape.wiki/w/Dungeoneering_token). It requires a Farming level of 25 and a Dungeoneering level of 25. Once used, the scroll will disappear, giving the player the following permanent effect: when harvesting non-tree non-flower patches (including dead ones), the player will have a 10% chance of receiving seeds back. There is also a 5% chance of getting a seed back from a dead tree or stump."
       },
       {
-        "name": "Falador Shield 2, 3 , and 4",
+        "name": "Falador Shield 2, 3, and 4",
         "value": "• The [Falador Shield 2](https://runescape.wiki/w/Falador_shield_2) is a shield earned by completing the [Medium Falador Achievements](https://runescape.wiki/w/Falador_achievements#Medium_tasks). The shield increases farming experience from the herb, flower and allotment patches at the Falador farm by 10%"
       },
       {
         "name": "Magic Secateurs",
-        "value": "• [Magic Secateurs](https://runescape.wiki/w/Magic_secateurs) are a Farming tool obtained during the [Fairy Tale Part I](https://runescape.wiki/w/Fairy_Tale_I_-_Growing_Pains) quest. Either wielding, having the magic secateurs in the player's inventory, or in the tool belt while harvesting allotments, herbs, and hops decreases the chance of the plant losing a life when harvesting. They also provide a 10% yield when Farming from allotments, herb and hops patches."
+        "value": "• [Magic Secateurs](https://runescape.wiki/w/Magic_secateurs) are a Farming tool obtained during the [Fairy Tale Part I](https://runescape.wiki/w/Fairy_Tale_I_-_Growing_Pains) quest. Either wielding, having the magic secateurs in the player's inventory, or in the tool belt while harvesting allotments, herbs, and hops decreases the chance of the plant losing a life when harvesting. They also provide a 10% yield when Farming from allotments, herb, and hops patches."
       }
       ]
   },
   "temporary boosts": {
     "title": "Temporary Boosts",
     "url": "https://runescape.wiki/w/Temporary_skill_boost",
-    "description": "A temporary skill boost is anything caused by an item, Summoning familiar, or action that temporarily raises a player's level in one or more skills. It allows the player to do things above their current level.",
+    "description": "A temporary skill boost is anything caused by an item, [Summoning familiar](https://runescape.wiki/w/Summoning_familiars), or action that temporarily raises a player's level or ability in one or more skills. It allows the player to do things above their current level or ability.",
         "color": 12269891,
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
@@ -516,11 +516,11 @@ exports.data = {
     "fields": [
       {
         "name": "Farming Boosts",
-        "value": "[Dreadfowl](https://runescape.wiki/w/Dreadfowl)\n• Requires level 4 Summoning\n• +1 Farming level\n• Does not stack with other boosts\n\n[Compost Mound](https://runescape.wiki/w/Compost_mound)\n• Requires level 28 Summoning\n• 1 + 2% Farming level boost\n• [Forager](https://runescape.wiki/w/Forager)\n• Buckets can be used on it to obtain compost (up to 190 times)\n\n[Stranger Plant](https://runescape.wiki/w/Stranger_plant)\n• Requires level 64 Summoning\n• 1 + 4% Farming level boost\n• [Forager](https://runescape.wiki/w/Forager)\n\n[Cider](https://runescape.wiki/w/Cider)\n• +1 Farming level\n\n[Witchdoctor Camoflage](https://runescape.wiki/w/Witchdoctor_camouflage_gear)\n• 5% Farming experience boost after catching 3 [God Jadinkos](https://runescape.wiki/w/Jadinko)\n\n[Cocoaberry](https://runescape.wiki/w/Cocoaberry)\n• +2 Farming levels\n• Reduces Defence by 1\n• Requires access to [The Arc](https://runescape.wiki/w/The_Arc)"
+        "value": "[Dreadfowl](https://runescape.wiki/w/Dreadfowl)\n• Requires level 4 Summoning\n• +1 Farming level\n• Does not stack with other boosts\n\n[Compost Mound](https://runescape.wiki/w/Compost_mound)\n• Requires level 28 Summoning\n• 1 + 2% Farming level boost\n• [Forager](https://runescape.wiki/w/Forager)\n• Buckets can be used on it to obtain compost (up to 190 times)\n\n[Stranger Plant](https://runescape.wiki/w/Stranger_plant)\n• Requires level 64 Summoning\n• 1 + 4% Farming level boost\n• [Forager](https://runescape.wiki/w/Forager)\n\n[Cider](https://runescape.wiki/w/Cider)\n• +1 Farming level\n\n[Witchdoctor Camouflage](https://runescape.wiki/w/Witchdoctor_camouflage_gear)\n• 5% Farming experience boost after catching 3 [God Jadinkos](https://runescape.wiki/w/Jadinko)\n\n[Cocoaberry](https://runescape.wiki/w/Cocoaberry)\n• +2 Farming levels\n• Reduces Defence by 1\n• Requires access to [The Arc](https://runescape.wiki/w/The_Arc)"
       },
       {
         "name": "​",
-        "value": "[Mature Cider](https://runescape.wiki/w/Mature_cider)\n• +2 Farming levels\n• Reduces melee stats\n\n[Garden Pie](https://runescape.wiki/w/Garden_pie)\n• +3 Farming Levels\n\n[Pork Pie](https://runescape.wiki/w/Pork_pie)\n• +5 Farming Levels\n\n[Pigswill](https://runescape.wiki/w/Pigswill)\n• +3 Farming levels\n• Decreases melee stats by 3\n\n[Mature Pigswill](https://runescape.wiki/w/Mature_pigswill)\n• +4 Farming levels\n• Decreases melee stats by 3\n\n[God Banner](https://runescape.wiki/w/God_banner)\n• +2 levels\n• Lasts 30 minutes once per day\n\n[Spicy Stew](https://runescape.wiki/w/Spicy_stew)\n • Boost is applied to a random skill\n • Up to ±6 with 3 spice doses\n • Up to ±3 with 2 spice doses\n • Up to ±2 with 1 spice dose\n\n[Juju Farming Potion](https://runescape.wiki/w/Juju_farming_potion)\n• One in three chance of picking twice the amount of herbs from a patch"
+        "value": "[Mature Cider](https://runescape.wiki/w/Mature_cider)\n• +2 Farming levels\n• Reduces melee stats\n\n[Garden Pie](https://runescape.wiki/w/Garden_pie)\n• +3 Farming Levels\n\n[Pork Pie](https://runescape.wiki/w/Pork_pie)\n• +5 Farming Levels\n\n[Pigswill](https://runescape.wiki/w/Pigswill)\n• +3 Farming levels\n• Decreases melee stats by 3\n\n[Mature Pigswill](https://runescape.wiki/w/Mature_pigswill)\n• +4 Farming levels\n• Decreases melee stats by 3\n\n[God Banner](https://runescape.wiki/w/God_banner)\n• +2 levels\n• Lasts 30 minutes once per day\n\n[Spicy Stew](https://runescape.wiki/w/Spicy_stew)\n • Boost is applied to a random skill\n• Each color [spice](https://runescape.wiki/w/Spicy_stew#Spices) affects different skills\n • Up to ±6 with 3 spice doses\n • Up to ±3 with 2 spice doses\n • Up to ±2 with 1 spice dose\n\n[Juju Farming Potion](https://runescape.wiki/w/Juju_farming_potion)\n• One in three chance of picking twice the amount of herbs from a patch"
       },
       {
         "name": "​",

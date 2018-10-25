@@ -504,8 +504,12 @@ exports.data = {
     "fields": [
       {
         "name": "Divination Boosts",
-        "value": "[Divination Cape](https://runescape.wiki/w/Divination_cape)\n• +1 level for 1 minute\n\n[Spicy Stew](https://runescape.wiki/w/Spicy_stew)\n• Boost is applied to a random skill\n• Each color [spice](https://runescape.wiki/w/Spicy_stew#Spices) affects different skills\n• Up to ±6 with 3 spice doses\n• Up to ±3 with 2 spice doses\n• Up to ±2 with 1 spice dose\n\n[God Banner](https://runescape.wiki/w/God_banner)\n• Skill boost: +2 levels\n• The boost can be used once per day and lasts for 30 minutes\n\n[Jitterberry](https://runescape.wiki/w/Jitterberry)\n• +2 levels\n• Requires access to [The Arc](https://runescape.wiki/w/The_Arc)\n• Reduces Defence by 1 level\n\n[Enrichment Aura](https://runescape.wiki/w/Enrichment_aura)\n• Increase the chance to obtain an enriched memory by 3-15%."
-      }
+        "value": "[Divination Cape](https://runescape.wiki/w/Divination_cape)\n• +1 level for 1 minute\n\n[Spicy Stew](https://runescape.wiki/w/Spicy_stew)\n• Boost is applied to a random skill\n• Each color [spice](https://runescape.wiki/w/Spicy_stew#Spices) affects different skills\n• Up to ±6 with 3 spice doses\n• Up to ±3 with 2 spice doses\n• Up to ±2 with 1 spice dose\n\n[God Banner](https://runescape.wiki/w/God_banner)\n• Skill boost: +2 levels\n• The boost can be used once per day and lasts for 30 minutes\n\n[Meloberry](https://runescape.wiki/w/Meloberry)\n• +2 Divination levels\n• Requires access to [The Arc](https://runescape.wiki/w/The_Arc)\n• Reduces Defence by 1 level\n\n[Enrichment Aura](https://runescape.wiki/w/Enrichment_aura)\n• Increase the chance to obtain an enriched memory by 3-15%."
+      },
+      {
+        "name": "​",
+        "value": "[Divination urns](https://runescape.wiki/w/Divination_urn)\n• +210-1,900 experience per urn (depends on the level of urn used)\n• +262.5-2,375 experience per urn if used with an [Urn Enhancer](https://runescape.wiki/w/Urn_enhancer) (requires 24 Invention and the [Nomad's Elegy](https://runescape.wikia.com/wiki/Nomad%27s_Elegy) quest)"
+      },
       ]
     }
   };
