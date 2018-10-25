@@ -52,7 +52,7 @@ exports.run = (client, message, args, level) => {
 			if (o < x) setTimeout(list, 2000);
 			if (o == x) {
 		  	gl.set(type, msgArr);
-		  	await message.reply(`**${i}**/\**${keyList.length}** responses listed.\n\n${errMsg}`)
+		  	await message.reply(`**${i}**/\**${embeds.length}** responses listed.\n\n${errMsg}`)
 					.then(m => m.delete(10000));
 		  	await message.channel.send('All message IDs saved.')
 		  		.then(m => m.delete(5000));
