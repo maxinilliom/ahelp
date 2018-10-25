@@ -1358,7 +1358,7 @@ exports.data = {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
 			"fields": [{
-					"name": "Baloon Locations",
+					"name": "Balloon Locations",
 					"value": "**Destination:** [Entrana](https://runescape.wiki/w/Entrana)\n\t• **Initial Trip Cost:** Build balloon (during Quest)\n\t• **NPC:** [Auguste](https://runescape.wiki/w/Auguste)"
 				},
 				{
