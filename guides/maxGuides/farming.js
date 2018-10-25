@@ -41,34 +41,38 @@ exports.data = {
     },
      "fields": [
        {
-        "name":"Growth Cycles",
-        "value":"[Growth Cycles](https://runescape.wiki/w/Farming#Growth_cycles) vary depending on the type of crop.  Regardless of the seed, growth stage windows last five minutes. The frequency of growth stage windows occurring is determined by the type of seed. For example, [spirit trees](https://runescape.wiki/w/Spirit_tree)' growth stages take 320 minutes, which includes a 5 minute growth window, followed by 315 minutes of inactivity, repeated multiple times. In comparison, [hops](https://runescape.wiki/w/Farming#Hops)' growth stages last 10 minutes, including 5 minutes of inactivity and a 5 minute growth stage window.\n\nThe cycles of growth stages all start at midnight game-time and repeat indefinitely until the next midnight when they begin again. The 320-minute cycle for spirit trees repeats on the second midnight."
+        "name":"Growth Cycles:",
+        "value":"[Growth Cycles](https://runescape.wiki/w/Farming#Growth_cycles) vary depending on the type of crop. Regardless of the seed, growth stage windows last five minutes. The frequency of growth stage windows occurring is determined by the type of seed. For example, [spirit trees](https://runescape.wiki/w/Spirit_tree)' growth stages take 320 minutes, which includes a 5 minute growth window, followed by 315 minutes of inactivity, repeated multiple times. In comparison, [hops](https://runescape.wiki/w/Farming#Hops)' growth stages last 10 minutes, including 5 minutes of inactivity and a 5 minute growth stage window.\n\nThe cycles of growth stages all start at midnight game-time and repeat indefinitely until the next midnight when they begin again. The 320-minute cycle for spirit trees repeats on the second midnight."
        },
        {
-        "name":"Compost",
-        "value":"[Supercompost](https://runescape.wiki/w/Supercompost) is a more potent version of [Compost](https://runescape.wiki/w/Compost). For many farming plots, supercompost reduces the chance of a player's crops becoming diseased while growing, as well as increasing the minimum amount of produce from the crops. It is recommended to use supercompost on every crop grown on their way to 99."
+        "name":"Compost:",
+        "value":"[Supercompost](https://runescape.wiki/w/Supercompost) is a more potent version of [Compost](https://runescape.wiki/w/Compost), while [Ultracompost](https://runescape.wiki/w/Ultracompost) is the most potent of all three. For many farming plots, compost reduces the chance of a player's crops becoming diseased while growing, as well as increasing the minimum amount of produce from the crops. It is recommended to use at least supercompost on every crop grown on their way to 99. Plots that have been treated with Ultracompost have a 7% chance of dying, half that of supercompost, which has a 14% chance."
        },
        {
-        "name":"Getting Saplings",
-        "value":"A [Sapling](https://runescape.wiki/w/Sapling) is a tree seedling that has grown sufficiently to be planted in a [Tree Patch](https://runescape.wiki/w/Farming/Patch_locations). In order to plant a tree in a farming patch, a sapling must be prepared using the following steps:\n\n1. Use a tree seed on a [Plant Pot](https://runescape.wiki/w/Plant_pot) filled with soil\n2. Use a [Watering Can](https://runescape.wiki/w/Watering_can) on the unwatered seedling\n3. Wait for the seedling to grow into a sapling"
+        "name":"Disease & Death:",
+        "value":"Occasionally, crops can become [diseased or die](https://runescape.wiki/w/Farming#Disease_and_death). A diseased plant cannot advance a growth stage until it is cured; it will either remain diseased or die. The chance of a diseased plant dying at the following growth tick that falls in a growth stage window is roughly 50%.\n\nDiseased [herb](https://runescape.wiki/w/Farming#Herb), [flower](https://runescape.wiki/w/Farming#Flower), [allotment](https://runescape.wiki/w/Farming#Allotment), [hops](https://runescape.wiki/w/Farming#Hops), [belladonna](https://runescape.wiki/w/Belladonna_seed), [cactus](https://runescape.wiki/w/Farming#Cactus), [mushroom](https://runescape.wiki/w/Farming#Mushroom), and [jade vine](https://runescape.wiki/w/Jade_vine_seed) patches can be treated with [Plant Cure](https://runescape.wiki/w/Plant_cure) potion or [Cure Plant](https://runescape.wiki/w/Cure_Plant) spell to restore the crop to health."
        },
        {
-        "name":"Paying To Protect",
-        "value":"Paying to protect crops is an option for players, although its not recommended, especially at higher levels. This is based on the fact that with supercompost, trees die 12.5% of the time. Payments will still be added to each section of the guide for the players convenience. A list of calculations between paying protection versus using supercompost for trees can be found [here](https://runescape.wiki/w/Calculator:Farming/Compost_to_payment)."
+        "name":"​",
+        "value":"Diseased [fruit trees](https://runescape.wiki/w/Farming#Fruit_tree), [trees](https://runescape.wiki/w/Farming#Trees), and [bushes](https://runescape.wiki/w/Farming#Bush) can be restored by pruning them with [Secateurs](https://runescape.wiki/w/Secateurs) or [Magic secateurs](https://runescape.wiki/w/Magic_secateurs)."
        },
        {
-        "name":"Disease & Death",
-        "value":"[Disease & Death](https://runescape.wiki/w/Farming#Disease_and_death) can happen when they reach a growth tick that falls within a growth stage window, instead of the crop advancing a growth stage. A diseased plant cannot advance a growth stage until it is cured; it will either remain diseased or die. The chance of a diseased plant dying at the following growth tick that falls in a growth stage window is roughly 50%. Diseased herb, flower, allotment, hops, belladonna, cactus, mushroom, and jade vine patches can be treated with [Plant Cure](https://runescape.wiki/w/Plant_cure) to restore the crop to health. Diseased trees and bushes can be restored by pruning them with [Secateurs](https://runescape.wiki/w/Secateurs)."
+        "name":"Paying To Protect:",
+        "value":"Paying to protect crops is an option for players, although it's not recommended, especially at higher levels. This is based on the fact that with supercompost, trees die 14% of the time. However, payments will still be added to each section of the guide for the players convenience. A list of calculations between paying protection versus using supercompost for trees can be found [here](https://runescape.wiki/w/Calculator:Farming/Compost_to_payment)."
        },
        {
-        "name":"Harvesting",
-        "value":"[Harvests](https://runescape.wiki/w/Farming#Harvesting) are determined either by chance or by the type of patch. Fruit trees, bushes, and flowers have set harvests. Herb and allotment patches have harvest sizes determined by chance, based on a life points system. Each herb and allotment patch starts with three lives, increased by 1 with compost and by 2 with supercompost. Every harvesting action will decrease the number of lives by 1 unless it is saved, with the patch becoming empty when it runs out of lives. This chance is dependent on Farming level. "
+        "name":"Harvesting:",
+        "value":"[Harvests](https://runescape.wiki/w/Farming#Harvesting) are determined either by chance or by the type of patch. Fruit trees, bushes, and flowers have set harvests. Herb and allotment patches have harvest sizes determined by chance, based on a life points system. Each herb and allotment patch starts with three lives, increased by 1 with compost, 2 with supercompost, and 3 with ultracompost. Every harvesting action will decrease the number of lives by 1 unless it is saved, with the patch becoming empty when it runs out of lives. This chance is dependent on Farming level. "
+       },
+       {
+        "name":"Getting Saplings:",
+        "value":"A [Sapling](https://runescape.wiki/w/Sapling) is a tree seedling that has grown sufficiently enough to be planted in a [Tree Patch](https://runescape.wiki/w/Farming/Patch_locations). In order to plant a tree in a farming patch, a sapling must be prepared using the following steps:\n• Use a tree seed on a [Plant Pot](https://runescape.wiki/w/Plant_pot)\n• Use a [Watering Can](https://runescape.wiki/w/Watering_can) on the un-watered [seedling](https://runescape.wiki/w/Seedling)\n•  Wait for the seedling to grow into a sapling. Seedlings that grow into saplings whilst in storage in the bank will move to tab 1, unless that specific type of sapling is already present elsewhere."
        }
    ]
   },
   "1 - 15": {
     "title": "Farming Training Levels 1-15",
-    "description": "At level 1 Farming players should begin their training by planting at [Allotments](https://runescape.wiki/w/Farming/Patch_locations#Allotment.2FFlower.2FHerb_patches). There are 4 main allotments that contain 2 allotment patches, as well as a flower patch and herb patch. A list of what seeds to plant at what level can be found [here](https://runescape.wiki/w/Farming_training#Allotments_.281-15.29).",
+    "description": "At level 1 Farming, players should begin their training by planting at [Allotments](https://runescape.wiki/w/Farming/Patch_locations#Allotment.2FFlower.2FHerb_patches). There are 4 main allotments that contain 2 allotment patches, as well as a [flower patch](https://runescape.wiki/w/Farming#Flower) and an [herb patch](https://runescape.wiki/w/Farming#Herb).\n\nAt level 1, grow [Potatoes](https://runescape.wiki/w/Potato_seed).\n• The payment to protect these is 2 buckets of [compost](https://runescape.wiki/w/Compost) or players may plant them alongside a [marigold](https://runescape.wiki/w/Marigold_seed) flower.\n\nAt level 5, grow [Onions](https://runescape.wiki/w/Onion_seed).\n• The payment to protect these is a [sack](https://runescape.wiki/w/Empty_sack) of [Potatoes](https://runescape.wiki/w/Potatoes) or players may plant them alongside a marigold flower.\n\nAt level 7, grow [Cabbages](https://runescape.wiki/w/Cabbage_seed).\n• The payment to protect these is a sack of [Onions](https://runescape.wiki/w/Onions) or players may plant them alongside a [rosemary_seed](https://runescape.wiki/w/Rosemary_seed) flower.\n\nAt level 12, grow [Tomatoes](https://runescape.wiki/w/Tomato_seed).\n• The payment to protect these is 2 sacks of [cabbages](https://runescape.wiki/w/Cabbages) or players may plant them alongside a marigold flower.",
     "url": "https://runescape.wiki/w/Farming_training#Allotments_.281-15.29",
     "color": 12269891,
     "footer": {
@@ -85,12 +89,12 @@ exports.data = {
      "fields": [
       
      {
-       "name":"Items Needed",
-       "value":"The require items to start planting in the allotment patches are:\n• 3 seeds per allotment patch\n• [Rake](https://runescape.wiki/w/Rake) (can be stored in tool belt)\n• [Spade](https://runescape.wiki/w/Spade) (can be stored in tool belt)\n• [Seed Dibber](https://runescape.wiki/w/Seed_dibber) (can be stored in tool belt)"
+       "name":"Items Needed:",
+       "value":"The required items to start planting in the allotment patches are:\n• 3 seeds per allotment patch\n• [Rake](https://runescape.wiki/w/Rake) (can be stored in tool belt)\n• [Spade](https://runescape.wiki/w/Spade) (can be stored in tool belt)\n• [Seed Dibber](https://runescape.wiki/w/Seed_dibber) (can be stored in tool belt)"
      },
      {
-       "name":"How To Farm An Allotment Patch",
-       "value":"• Rake patch to remove [Weeds](https://runescape.wiki/w/Weeds), if weeds are present\n• Treat empty patch with [Supercompost](https://runescape.wiki/w/Supercompost) (optional but recommended)\n• Use seeds on the patch"
+       "name":"How To Farm An Allotment Patch:",
+       "value":"• Rake patch to remove [Weeds](https://runescape.wiki/w/Weeds), if weeds are present\n• Treat empty patch with [Supercompost](https://runescape.wiki/w/Supercompost) (optional but highly recommended)\n• Use seeds on the patch\n• Pay farmer to watch crops (optional, not necessary if protecting flower is planted at flower patch)."
      }
     ]
   },
