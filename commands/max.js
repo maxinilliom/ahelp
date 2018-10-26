@@ -228,8 +228,20 @@ exports.run = async (client, message, [skill, ...args], level) => { // eslint-di
 
 		await message.channel.send({
 		  files: [{
+			attachment: 'media/img/guides/break.png',
+			name: 'break.png'
+		  }]
+		}).then(m => msgArr.push(m.id));
+		await message.channel.send({
+		  files: [{
 			attachment: `media/img/guides/max/${nick}.png`,
 			name: `${nick}.png`
+		  }]
+		}).then(m => msgArr.push(m.id));
+		await message.channel.send({
+		  files: [{
+			attachment: 'media/img/guides/break.png',
+			name: 'break.png'
 		  }]
 		}).then(m => msgArr.push(m.id));
 
