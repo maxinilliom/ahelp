@@ -72,7 +72,7 @@ exports.data = {
   },
   "1 - 15": {
     "title": "Farming Training Levels 1-15",
-    "description": "At level 1 Farming, players should begin their training by planting at [Allotments](https://runescape.wiki/w/Farming/Patch_locations#Allotment.2FFlower.2FHerb_patches). There are 4 main allotments that contain 2 allotment patches, as well as a [flower patch](https://runescape.wiki/w/Farming#Flower) and an [herb patch](https://runescape.wiki/w/Farming#Herb).\n\nAt level 1, grow [Potatoes](https://runescape.wiki/w/Potato_seed).\n• The payment to protect these is 2 buckets of [compost](https://runescape.wiki/w/Compost) or players may plant them alongside a [marigold](https://runescape.wiki/w/Marigold_seed) flower.\n\nAt level 5, grow [Onions](https://runescape.wiki/w/Onion_seed).\n• The payment to protect these is a [sack](https://runescape.wiki/w/Empty_sack) of [Potatoes](https://runescape.wiki/w/Potatoes) or players may plant them alongside a marigold flower.\n\nAt level 7, grow [Cabbages](https://runescape.wiki/w/Cabbage_seed).\n• The payment to protect these is a sack of [Onions](https://runescape.wiki/w/Onions) or players may plant them alongside a [rosemary_seed](https://runescape.wiki/w/Rosemary_seed) flower.\n\nAt level 12, grow [Tomatoes](https://runescape.wiki/w/Tomato_seed).\n• The payment to protect these is 2 sacks of [cabbages](https://runescape.wiki/w/Cabbages) or players may plant them alongside a marigold flower.",
+    "description": "At level 1 Farming, players should begin their training by planting at [allotments](https://runescape.wiki/w/Farming/Patch_locations#Allotment.2FFlower.2FHerb_patches). There are 4 main allotments that contain 2 allotment patches, as well as a [flower patch](https://runescape.wiki/w/Farming#Flower) and an [herb patch](https://runescape.wiki/w/Farming#Herb).\n\nAt level 1, grow [Potatoes](https://runescape.wiki/w/Potato_seed).\n• The payment to protect these is 2 buckets of [compost](https://runescape.wiki/w/Compost), or players may plant them alongside a [marigold](https://runescape.wiki/w/Marigold_seed) flower.\n\nAt level 5, grow [Onions](https://runescape.wiki/w/Onion_seed).\n• The payment to protect these is a [sack](https://runescape.wiki/w/Empty_sack) of [Potatoes](https://runescape.wiki/w/Potatoes), or players may plant them alongside a marigold flower.\n\nAt level 7, grow [Cabbages](https://runescape.wiki/w/Cabbage_seed).\n• The payment to protect these is a sack of [Onions](https://runescape.wiki/w/Onions), or players may plant them alongside a [rosemary](https://runescape.wiki/w/Rosemary_seed) flower.\n\nAt level 12, grow [Tomatoes](https://runescape.wiki/w/Tomato_seed).\n• The payment to protect these is 2 sacks of [cabbages](https://runescape.wiki/w/Cabbages), or players may plant them alongside a marigold flower.",
     "url": "https://runescape.wiki/w/Farming_training#Allotments_.281-15.29",
     "color": 12269891,
     "footer": {
@@ -94,13 +94,13 @@ exports.data = {
      },
      {
        "name":"How To Farm An Allotment Patch:",
-       "value":"• Rake patch to remove [Weeds](https://runescape.wiki/w/Weeds), if weeds are present\n• Treat empty patch with [Supercompost](https://runescape.wiki/w/Supercompost) (optional but highly recommended)\n• Use seeds on the patch\n• Pay farmer to watch crops (optional, not necessary if protecting flower is planted at flower patch)."
+       "value":"• Rake patch to remove [Weeds](https://runescape.wiki/w/Weeds), if weeds are present\n• Treat empty patch with [Supercompost](https://runescape.wiki/w/Supercompost) (optional but highly recommended)\n• Use seeds on the patch\n• Pay farmer to watch crops (optional, not necessary if protecting flower is planted at flower patch)"
      }
     ]
   },
   "15 - 30": {
     "title": "Farming Training Levels 15-30",
-    "description": "After reaching level 15, players have the option to abandon allotments altogether and focus only on planting [Trees](https://runescape.wiki/w/Trees#Farming_trees). This guide will rely on only planting trees to reach 99.",
+    "description": "After reaching level 15, players have the option to abandon [allotments](https://runescape.wiki/w/Farming/Patch_locations#Allotment.2FFlower.2FHerb_patches) altogether and focus only on planting [trees](https://runescape.wiki/w/Trees#Farming_trees). This guide will rely on only planting trees to reach 99.",
     "url": "https://runescape.wiki/w/Farming/Patch_locations#Tree_patches",
     "color": 12269891,
     "footer": {
@@ -117,18 +117,34 @@ exports.data = {
      "fields": [
       
      {
-       "name":"Oak Trees Levels 15-30",
-       "value":"Players can now plant [Oak Trees](https://runescape.wiki/w/Oak) to reach level 30. For this specific type of tree, [Acorns](https://runescape.wiki/w/Acorn) are used in order to create the sapling. Oaks take 160 minutes (4x40 minutes) to grow. If a player chooses to protect them, they must pay the farmer 1 [Basket of Tomatoes (5)](https://runescape.wiki/w/Tomatoes) per tree."
+       "name":"Oak Trees Levels 15-30:",
+       "value":"Players can now plant [Oak Trees](https://runescape.wiki/w/Oak) to reach level 30. For this specific type of tree, [Acorns](https://runescape.wiki/w/Acorn) are used in order to create the sapling. Oak Trees take 160 minutes (4x40 minutes) to grow. If a player chooses to protect them, they must pay the farmer 1 [Basket of Tomatoes (5)](https://runescape.wiki/w/Tomatoes) per tree."
      },
      {
-       "name":"Apple Trees Levels 27-30",
-       "value":"At level 27, players can now begin to plant their first fruit trees. [Apple Trees](https://runescape.wiki/w/Apple_tree) should be planted to help reach level 30 using [Apple Tree Seeds](https://runescape.wiki/w/Apple_tree_seed). Apple Trees take 960 minutes (6x160 minutes) to grow. If a player chooses to protect them, they must pay the farmer 9 [Sweetcorn](https://runescape.wiki/w/Sweetcorn) per tree."
+       "name":"Apple Trees Levels 27-30:",
+       "value":"At level 27, players can now begin to plant their first [fruit trees](https://runescape.wiki/w/Farming#Fruit_tree). [Apple Trees](https://runescape.wiki/w/Apple_tree) should be planted to help reach level 30 using [Apple Tree Seeds](https://runescape.wiki/w/Apple_tree_seed). Apple Trees take 960 minutes (6x160 minutes) to grow. If a player chooses to protect them, they must pay the farmer 9 [Sweetcorn](https://runescape.wiki/w/Sweetcorn) per tree."
+     },
+     {
+       "name":"Player Owned Farms:",
+       "value":"At level 17, and with level 20 Construction, players can begin farming animals at the [Manor Farm](https://runescape.wikia.com/wiki/Manor_Farm), which is located north of [East Ardougne](https://runescape.wiki/w/East_Ardougne). Before they can farm here, players must complete the [tutorial](https://runescape.wiki/w/Player-owned_farm#Tutorial) by talking to [Granny Potterington](https://runescape.wikia.com/wiki/Granny_Potterington)."
+     },
+     {
+       "name":"​",
+       "value":"Animals can have certain [traits](https://runescape.wikia.com/wiki/Player-owned_farm#Traits) that increase the experience gained from animals. The **Giver** trait increases experience gained from animals by 3% and the **Freak of Nature** trait increases experience gained when [curing diseased animals](https://runescape.wikia.com/wiki/Player-owned_farm#Disease)."
+     },
+     {
+       "name":"Rabbits:",
+       "value":"Players can begin by farming [rabbits](https://runescape.wikia.com/wiki/Rabbit) in their small [pens](https://runescape.wiki/w/Player-owned_farm#Pens). Raising a rabbit from baby to adolescent gives 100 farming experience and takes 16 minutes; adolescent to adult gives 175 experience and takes 28 minutes, and from adult to elder gives 225 experience and takes 36 minutes.\n\nRabbits have a breeding rate of 5 minutes with a 25% success rate. For more information on breeding, use the command **.rs you had a rabbit** in the <#382701090430386180> channel."
+     },
+     {
+       "name":"Chickens:",
+       "value":"At level 28, players can farm [chickens](https://runescape.wikia.com/wiki/Chicken) in their small pens. Raising a chicken from egg to baby gives 250 farming experience and takes 20 minutes; baby to adolescent gives 375 farming experience and takes 30 minutes; adolescent to adult gives 750 experience and takes 60 minutes, and from adult to elder gives 1,125 experience and takes 90 minutes.\n\nChickens have a breeding rate of 1 hour with a 60% success rate. For more information on breeding, use the command **.rs you had a chicken** in the <#382701090430386180> channel."
      }
     ]
   },
   "30 - 45": {
     "title": "Farming Training Levels 30-45",
-    "description": "Players can now plant [Willow Trees](https://runescape.wiki/w/Willow) to reach level 45. For this specific type of tree, an the [Willow Seed](https://runescape.wiki/w/Willow_seed) is used in order to create the sapling. Willows take 240 minutes (6x40 minutes) to grow. If a player chooses to protect them, they must pay the farmer 1 [Basket of Apples (5)](https://runescape.wiki/w/Apples) per tree.",
+    "description": "Players can now plant [Willow Trees](https://runescape.wiki/w/Willow) in their [tree patches](https://runescape.wiki/w/Farming#Trees) to reach level 45. For this specific type of tree, a [Willow Seed](https://runescape.wiki/w/Willow_seed) is used in order to create the sapling. Willows take 240 minutes (6x40 minutes) to grow. If a player chooses to protect them, they must pay the farmer 1 [Basket of Apples (5)](https://runescape.wiki/w/Apples) per tree.",
     "url": "https://runescape.wiki/w/Farming/Patch_locations#Tree_patches",
     "color": 12269891,
     "footer": {
@@ -144,26 +160,38 @@ exports.data = {
     },
      "fields": [
      {
-       "name":"Apple Trees Levels 30-33",
+       "name":"Apple Trees Levels 30-33:",
        "value":"At level 30, players should continue to grow [Apple Trees](https://runescape.wiki/w/Apple_tree) until level 33 using [Apple Tree Seeds](https://runescape.wiki/w/Apple_tree_seed). Apple Trees take 960 minutes (6x160 minutes) to grow. If a player chooses to protect them, they must pay the farmer 9 [Sweetcorn](https://runescape.wiki/w/Sweetcorn) per tree."
      },
      {
-       "name":"Banana Trees Levels 33-39",
-       "value":"At level 33, players can switch their fruit tree to [Banana Trees](https://runescape.wiki/w/Banana_tree). These should be planted until level 39 using [Banana Tree Seeds](https://runescape.wiki/w/Banana_tree_seed). Banana Trees take 960 minutes (6x160 minutes) to grow. If a player chooses to protect them, they must pay the farmer 4 [Baskets of Apples (5)](https://runescape.wiki/w/Apples) per tree."
+       "name":"Banana Trees Levels 33-39:",
+       "value":"At level 33, players can switch their [fruit tree](https://runescape.wiki/w/Farming#Fruit_tree) to [Banana Trees](https://runescape.wiki/w/Banana_tree). These should be planted until level 39 using [Banana Tree Seeds](https://runescape.wiki/w/Banana_tree_seed). Banana Trees take 960 minutes (6x160 minutes) to grow. If a player chooses to protect them, they must pay the farmer 4 [Baskets of Apples (5)](https://runescape.wiki/w/Apples) per tree."
      },
      {
-       "name":"Orange Trees Levels 39-42",
+       "name":"Orange Trees Levels 39-42:",
        "value":"At level 39, players can switch their fruit tree to [Orange Trees](https://runescape.wiki/w/Orange_tree). These should be planted until level 42 using [Orange Tree Seeds](https://runescape.wiki/w/Orange_tree_seed). Orange Trees take 960 minutes (6x160 minutes) to grow. If a player chooses to protect them, they must pay the farmer 3 [Baskets of Strawberries](https://runescape.wiki/w/Strawberries) per tree."
      },
      {
-       "name":"Curry Trees Levels 42-45",
+       "name":"Curry Trees Levels 42-45:",
        "value":"At level 42, players can switch their fruit tree to [Curry Trees](https://runescape.wiki/w/Curry_tree). These should be planted until level 45 using [Curry Tree Seeds](https://runescape.wiki/w/Curry_tree_seed). Curry Trees take 960 minutes (6x160 minutes) to grow. If a player chooses to protect them, they must pay the farmer 5 [Baskets of Bananas](https://runescape.wiki/w/Bananas) per tree."
+     },
+     {
+       "name":"Player Owned Farms:",
+       "value":"At these levels, players should continue farming [chickens](https://runescape.wikia.com/wiki/Chicken) in their small [pens](https://runescape.wiki/w/Player-owned_farm#Pens) at the [Manor Farm](https://runescape.wikia.com/wiki/Manor_Farm), which is located north of [East Ardougne](https://runescape.wiki/w/East_Ardougne). If the player hasn't begun their farm, they must complete the [tutorial](https://runescape.wiki/w/Player-owned_farm#Tutorial) by talking to [Granny Potterington](https://runescape.wikia.com/wiki/Granny_Potterington)."
+     },
+     {
+       "name":"​",
+       "value":"Animals can have certain [traits](https://runescape.wikia.com/wiki/Player-owned_farm#Traits) that increase the experience gained from animals. The **Giver** trait increases experience gained from animals by 3% and the **Freak of Nature** trait increases experience gained when [curing diseased animals](https://runescape.wikia.com/wiki/Player-owned_farm#Disease)."
+     },
+     {
+       "name":"Sheep:",
+       "value":"At level 35, players can farm [sheep](https://runescape.wikia.com/wiki/Sheep) in a medium pen. Raising a sheep from baby to adolescent gives 250 farming experience and takes 30 minutes; adolescent to adult gives 437.5 experience and takes 52.5 minutes, and from adult to elder gives 562.5 experience and takes 67.5 minutes.\n\nSheep have a breeding rate of 2 hours with a 20% success rate. For more information on breeding, use the command **.rs you had a sheep** in the <#382701090430386180> channel."
      }
     ]
   },
   "45 - 60": {
     "title": "Farming Training Levels 45-60",
-    "description": "Players can now plant [Maple Trees](https://runescape.wiki/w/Maple_tree) to reach level 60. For this specific type of tree, an the [Maple Seed](https://runescape.wiki/w/Maple_seed) is used in order to create the sapling.  Maple Trees take 320 minutes (8x40 minutes) to grow. If a player chooses to protect them, they must pay the farmer 1 [Basket of Oranges](https://runescape.wiki/w/Oranges) per tree.",
+    "description": "Players can now plant [Maple Trees](https://runescape.wiki/w/Maple_tree) in their [tree patches](https://runescape.wiki/w/Farming#Trees) to reach level 60. For this specific type of tree, a [Maple Seed](https://runescape.wiki/w/Maple_seed) is used in order to create the sapling. Maple Trees take 320 minutes (8x40 minutes) to grow. If a player chooses to protect them, they must pay the farmer 1 [Basket of Oranges](https://runescape.wiki/w/Oranges) per tree.",
     "url": "https://runescape.wiki/w/Farming/Patch_locations#Tree_patches",
     "color": 12269891,
     "footer": {
@@ -179,22 +207,38 @@ exports.data = {
     },
      "fields": [
      {
-       "name":"Curry Trees Levels 45-51",
+       "name":"Curry Trees Levels 45-51:",
        "value":"At level 45, players should continue to grow [Curry Trees](https://runescape.wiki/w/Curry_tree) until level 51 using [Curry Tree Seeds](https://runescape.wiki/w/Curry_tree_seed). Curry Trees take 960 minutes (6x160 minutes) to grow. If a player chooses to protect them, they must pay the farmer 5 [Baskets of Bananas](https://runescape.wiki/w/Bananas) per tree."
      },
      {
-       "name":"Pineapple Plant Levels 51-57",
-       "value":"At level 51, players can switch their fruit tree to [Pineapple Plants](https://runescape.wiki/w/Pineapple_plant). These should be planted until level 57 using [Pineapple Seeds](https://runescape.wiki/w/Pineapple_seed). Pineapple Plants take 960 minutes (6x160 minutes) to grow. If a player chooses to protect them, they must pay the farmer 10 [Watermelons](https://runescape.wiki/w/Watermelon) per tree."
+       "name":"Pineapple Plant Levels 51-57:",
+       "value":"At level 51, players can switch their [fruit tree](https://runescape.wiki/w/Farming#Fruit_tree) to [Pineapple Plants](https://runescape.wiki/w/Pineapple_plant). These should be planted until level 57 using [Pineapple Seeds](https://runescape.wiki/w/Pineapple_seed). Pineapple Plants take 960 minutes (6x160 minutes) to grow. If a player chooses to protect them, they must pay the farmer 10 [Watermelons](https://runescape.wiki/w/Watermelon) per tree."
      },
      {
-       "name":"Papaya Trees Levels 57-60",
+       "name":"Papaya Trees Levels 57-60:",
        "value":"At level 57, players can switch their fruit tree to [Papaya Trees](https://runescape.wiki/w/Papaya_tree). These should be planted until level 60 using [Papaya Tree Seeds](https://runescape.wiki/w/Papaya_tree_seed). Papaya Trees take 960 minutes (6x160 minutes) to grow. If a player chooses to protect them, they must pay the farmer 10 [Pineapples](https://runescape.wiki/w/Pineapple) per tree."
+     },
+     {
+       "name":"Player Owned Farms:",
+       "value":"At these levels, players should continue farming [chickens](https://runescape.wikia.com/wiki/Chicken) in their small [pens](https://runescape.wiki/w/Player-owned_farm#Pens) until level 54 and [sheep](https://runescape.wikia.com/wiki/Sheep) in their medium pens at the [Manor Farm](https://runescape.wikia.com/wiki/Manor_Farm), which is located north of [East Ardougne](https://runescape.wiki/w/East_Ardougne). If the player hasn't begun their farm, they must complete the [tutorial](https://runescape.wiki/w/Player-owned_farm#Tutorial) by talking to [Granny Potterington](https://runescape.wikia.com/wiki/Granny_Potterington)."
+     },
+     {
+       "name":"​",
+       "value":"Animals can have certain [traits](https://runescape.wikia.com/wiki/Player-owned_farm#Traits) that increase the experience gained from animals. The **Giver** trait increases experience gained from animals by 3% and the **Freak of Nature** trait increases experience gained when [curing diseased animals](https://runescape.wikia.com/wiki/Player-owned_farm#Disease)."
+     },
+     {
+       "name":"Cows:",
+       "value":"At level 49, players can farm [cows](https://runescape.wikia.com/wiki/Cow) in a large pen. Raising a cow from baby to adolescent gives 1,000 farming experience and takes 80 minutes; adolescent to adult gives 1,750 experience and takes 140 minutes, and from adult to elder gives 2,250 experience and takes 180 minutes.\n\nCows have a breeding rate of 5 hours with a 70% success rate. For more information on breeding, use the command **.rs you had a cow** in the <#382701090430386180> channel."
+     },
+     {
+       "name":"Chinchompas:",
+       "value":"At level 54, players can farm [chinchompas](https://runescape.wikia.com/wiki/Chinchompa) in a small pen. Raising a chinchompa from baby to adolescent gives 6,000 farming experience and takes 8 hours; adolescent to adult gives 10,500 experience and takes 14 hours, and from adult to elder gives 13,500 experience and takes 18 hours.\n\nChinchompas have a breeding rate of 2 hours with a 30% success rate. For more information on breeding, use the command **.rs you had a chinchompa** in the <#382701090430386180> channel."
      }
     ]
   },
   "60 - 75": {
     "title": "Farming Training Levels 60-75",
-    "description": "Players can now plant [Yew Trees](https://runescape.wiki/w/Yew) to reach level 75. For this specific type of tree, [Yew Seeds](https://runescape.wiki/w/Yew_seed) is used in order to create the sapling.  Yew Trees take 400 minutes (10x40 minutes) to grow. If a player chooses to protect them, they must pay the farmer 10 [Cactus Spines](https://runescape.wiki/w/Cactus_spine) per tree.",
+    "description": "Players can now plant [Yew Trees](https://runescape.wiki/w/Yew) in their [tree patches](https://runescape.wiki/w/Farming#Trees) to reach level 75. For this specific type of tree, a [Yew Seed](https://runescape.wiki/w/Yew_seed) is used in order to create the sapling. Yew Trees take 400 minutes (10x40 minutes) to grow. If a player chooses to protect them, they must pay the farmer 10 [Cactus Spines](https://runescape.wiki/w/Cactus_spine) per tree.",
     "url": "https://runescape.wiki/w/Farming/Patch_locations#Tree_patches",
     "color": 12269891,
     "footer": {
@@ -210,22 +254,38 @@ exports.data = {
     },
      "fields": [
      {
-       "name":"Papaya Trees Levels 60-68",
-       "value":"At level 60, players should continue to grow [Papaya Trees](https://runescape.wiki/w/Papaya_tree) until level 68 using [Papaya Tree Seeds](https://runescape.wiki/w/Papaya_tree_seed).  Papaya Trees take 960 minutes (6x160 minutes) to grow. If a player chooses to protect them, they must pay the farmer 10 [Pineapples](https://runescape.wiki/w/Pineapple) per tree."
+       "name":"Papaya Trees Levels 60-68:",
+       "value":"At level 60, players should continue to grow [Papaya Trees](https://runescape.wiki/w/Papaya_tree) in their [tree patches](https://runescape.wiki/w/Farming#Trees) until level 68 using [Papaya Tree Seeds](https://runescape.wiki/w/Papaya_tree_seed).  Papaya Trees take 960 minutes (6x160 minutes) to grow. If a player chooses to protect them, they must pay the farmer 10 [Pineapples](https://runescape.wiki/w/Pineapple) per tree."
      },
      {
-       "name":"Palm Trees Levels 68-75",
-       "value":"At level 68, players can switch their fruit tree to [Palm Plants](https://runescape.wiki/w/Palm_tree). These should be planted until level 75 using [Palm Tree Seeds](https://runescape.wiki/w/Palm_tree_seed).  Palm Trees take 960 minutes (6x160 minutes) to grow. If a player chooses to protect them, they must pay the farmer 15 [Papayas](https://runescape.wiki/w/Papaya_fruit) per tree."
+       "name":"Palm Trees Levels 68-75:",
+       "value":"At level 68, players can switch their [fruit tree](https://runescape.wiki/w/Farming#Fruit_tree) to [Palm Plants](https://runescape.wiki/w/Palm_tree). These should be planted until level 75 using [Palm Tree Seeds](https://runescape.wiki/w/Palm_tree_seed).  Palm Trees take 960 minutes (6x160 minutes) to grow. If a player chooses to protect them, they must pay the farmer 15 [Papayas](https://runescape.wiki/w/Papaya_fruit) per tree."
      },
      {
-       "name":"Calquat Trees Levels 72-75",
+       "name":"Calquat Trees Levels 72-75:",
        "value":"At level 72, players can now grow [Calquat Trees](https://runescape.wiki/w/Calquat_tree) until level 75 using [Calquat Tree Seeds](https://runescape.wiki/w/Calquat_tree_seed). There is only 1 patch for calquats and is located in [Tai Bwo Wannai](https://runescape.wiki/w/Tai_Bwo_Wannai). Calquat Trees take 1,280 minutes (8x160 minutes) to grow. If a player chooses to protect them, they must pay the farmer 8 [Poison Ivy Berries](https://runescape.wiki/w/Poison_ivy_berries) per tree."
+     },
+     {
+       "name":"Player Owned Farms:",
+       "value":"At these levels, players should continue farming [chinchompas](https://runescape.wikia.com/wiki/Chinchompa) in their small [pens](https://runescape.wiki/w/Player-owned_farm#Pens) indefinitely, [sheep](https://runescape.wikia.com/wiki/Sheep) in their medium pens until level 64, and [cows](https://runescape.wikia.com/wiki/Cow) in their large pens until level 71 at the [Manor Farm](https://runescape.wikia.com/wiki/Manor_Farm), which is located north of [East Ardougne](https://runescape.wiki/w/East_Ardougne). If the player hasn't begun their farm, they must complete the [tutorial](https://runescape.wiki/w/Player-owned_farm#Tutorial) by talking to [Granny Potterington](https://runescape.wikia.com/wiki/Granny_Potterington)."
+     },
+     {
+       "name":"​",
+       "value":"Animals can have certain [traits](https://runescape.wikia.com/wiki/Player-owned_farm#Traits) that increase the experience gained from animals. The **Giver** trait increases experience gained from animals by 3% and the **Freak of Nature** trait increases experience gained when [curing diseased animals](https://runescape.wikia.com/wiki/Player-owned_farm#Disease)."
+     },
+     {
+       "name":"Spiders:",
+       "value":"At level 64, players can farm [spiders](https://runescape.wikia.com/wiki/Spider) in a medium pen. Raising a spider from egg to baby gives 2,000 farming experience and takes 2 hours; baby to adolescent gives 3,000 farming experience and takes 3 hours; adolescent to adult gives 6,000 experience and takes 6 hours, and from adult to elder gives 9,000 experience and takes 9 hours.\n\nSpiders have a breeding rate of 6 hours with a 40% success rate. For more information on breeding, use the command **.rs you had a spider** in the <#382701090430386180> channel."
+     },
+     {
+       "name":"Yaks:",
+       "value":"At level 71, players can farm [yaks](https://runescape.wikia.com/wiki/Yak) in a large pen. Raising a yak from baby to adolescent gives 13,000 farming experience and takes 16 hours; adolescent to adult gives 22,750 experience and takes 28 hours, and from adult to elder gives 29,250 experience and takes 36 hours.\n\nYaks have a breeding rate of 5 hours with a 70% success rate. For more information on breeding, use the command **.rs you had a yak** in the <#382701090430386180> channel."
      }
     ]
   },
   "75 - 99 +": {
     "title": "Farming Training Levels 75-99+",
-    "description": "Players can now plant [Magic Trees](https://runescape.wiki/w/Magic_tree) for the remaining levels. For this specific type of tree, [Magic Seeds](https://runescape.wiki/w/Magic_seed) is used in order to create the sapling.  Magic Trees take 480 minutes (12x40 minutes) to grow. If a player chooses to protect them, they must pay the farmer 25 [Coconuts](https://runescape.wiki/w/Coconut) per tree.",
+    "description": "Players can now plant [Magic Trees](https://runescape.wiki/w/Magic_tree) in their [tree patches](https://runescape.wiki/w/Farming#Trees) for the remaining levels. For this specific type of tree, [Magic Seeds](https://runescape.wiki/w/Magic_seed) is used in order to create the sapling.  Magic Trees take 480 minutes (12x40 minutes) to grow. If a player chooses to protect them, they must pay the farmer 25 [Coconuts](https://runescape.wiki/w/Coconut) per tree.",
     "url": "https://runescape.wiki/w/Farming/Patch_locations#Tree_patches",
     "color": 12269891,
     "footer": {
@@ -250,11 +310,27 @@ exports.data = {
      },
      {
        "name":"Elder Trees Levels 90-99+",
-       "value":"At level 90, players gain the ability to plant [Elder Trees](https://runescape.wiki/w/Elder_tree) using [Elder Seeds](https://runescape.wiki/w/Elder_seed). A player-grown elder tree can only be done in the [Crwys Clan](https://runescape.wiki/w/Crwys_Clan) district of [Prifddinas](https://runescape.wiki/w/Prifddinas). Elder Trees take 70 hours to grow. If a player chooses to protect them, they must pay the farmer 25 [Morchella Mushrooms](https://runescape.wiki/w/Morchella_mushroom) per tree."
+       "value":"At level 90, players gain the ability to plant [Elder Trees](https://runescape.wiki/w/Elder_tree) using [Elder Seeds](https://runescape.wiki/w/Elder_seed) in their tree patches. A player-grown elder tree can only be done in the [Crwys Clan](https://runescape.wiki/w/Crwys_Clan) district of [Prifddinas](https://runescape.wiki/w/Prifddinas). Elder Trees take 70 hours to grow. If a player chooses to protect them, they must pay the farmer 25 [Morchella Mushrooms](https://runescape.wiki/w/Morchella_mushroom) per tree."
      },
      {
        "name":"Crystal Trees Levels 94-99+",
-       "value":"At level 94, players Gain the ability to plant a [Crystal Tree](https://runescape.wiki/w/Crystal_tree). A [Crystal Acorn](https://runescape.wiki/w/Crystal_acorn) can be used on the farming patch located south-east of the [Prifddinas](https://runescape.wiki/w/Prifddinas) lodestone. The tree may then be harvested for a [Crystal Tree Blossom](https://runescape.wiki/w/Crystal_tree_blossom) once per day yielding an additional 15,000 Farming experience. Players may receive an additional Crystal Tree Blossom, but no additional experience, per day by equipping the [Tirannwn quiver 4](https://runescape.wiki/w/Tirannwn_quiver_4) during harvest. The Tirannwn quiver 4 is obtained by completing the Elite Tirannwn achievements and is given to players by [Elen Anterth](https://runescape.wiki/w/Elen_Anterth) in the [Max Guild](https://runescape.wiki/w/Max_Guild) Garden in Prifddinas."
+       "value":"At level 94, players Gain the ability to plant a [Crystal Tree](https://runescape.wiki/w/Crystal_tree). A [Crystal Acorn](https://runescape.wiki/w/Crystal_acorn) can be used on the farming patch located south-east of the [Prifddinas](https://runescape.wiki/w/Prifddinas) lodestone. The tree may then be harvested for a [Crystal Tree Blossom](https://runescape.wiki/w/Crystal_tree_blossom) once per day yielding an additional 15,000 Farming experience.\n\nPlayers may receive an additional Crystal Tree Blossom, but no additional experience, per day by equipping the [Tirannwn quiver 4](https://runescape.wiki/w/Tirannwn_quiver_4) during harvest. The Tirannwn quiver 4 is obtained by completing the Elite Tirannwn achievements and is given to players by [Elen Anterth](https://runescape.wiki/w/Elen_Anterth) in the [Max Guild](https://runescape.wiki/w/Max_Guild) Garden in Prifddinas."
+     },
+     {
+       "name":"Player Owned Farms:",
+       "value":"At these levels, players should continue farming [chinchompas](https://runescape.wikia.com/wiki/Chinchompa) in their small [pens](https://runescape.wiki/w/Player-owned_farm#Pens) indefinitely, [spiders](https://runescape.wikia.com/wiki/Spider) in their medium pens until level 81, and [yaks](https://runescape.wikia.com/wiki/Yak) in their large pens until level 92 at the [Manor Farm](https://runescape.wikia.com/wiki/Manor_Farm), which is located north of [East Ardougne](https://runescape.wiki/w/East_Ardougne). If the player hasn't begun their farm, they must complete the [tutorial](https://runescape.wiki/w/Player-owned_farm#Tutorial) by talking to [Granny Potterington](https://runescape.wikia.com/wiki/Granny_Potterington)."
+     },
+     {
+       "name":"​",
+       "value":"Animals can have certain [traits](https://runescape.wikia.com/wiki/Player-owned_farm#Traits) that increase the experience gained from animals. The **Giver** trait increases experience gained from animals by 3% and the **Freak of Nature** trait increases experience gained when [curing diseased animals](https://runescape.wikia.com/wiki/Player-owned_farm#Disease)."
+     },
+     {
+       "name":"Zygomites:",
+       "value":"At level 81, players can farm [zygomites](https://runescape.wikia.com/wiki/Gloomshroom_zygomite) in a medium pen. Raising a zygomite from baby to adolescent gives 16,000 farming experience and takes 16 hours; adolescent to adult gives 28,000 experience and takes 28 hours, and from adult to elder gives 36,000 experience and takes 36 hours.\n\nZygomites have a breeding rate of 8 hours with a 50% success rate. For more information on breeding, use the command **.rs you had a zygomite** in the <#382701090430386180> channel."
+     },
+     {
+       "name":"Dragons:",
+       "value":"At level 92, players can farm [dragons](https://runescape.wikia.com/wiki/Chromatic_dragons) in a large pen. Raising a dragon from egg to baby gives 20,000 farming experience and takes 16 hours; baby to adolescent gives 30,000 farming experience and takes 24 hours; adolescent to adult gives 60,000 experience and takes 48 hours, and from adult to elder gives 90,000 experience and takes 72 hours.\n\nDragons have a breeding rate of 18 hours with an 80% success rate. For more information on breeding, use the command **.rs you had a dragon** in the <#382701090430386180> channel."
      },
       {
         "name": "▬▬ Going Above and Beyond ▬▬",
@@ -298,27 +374,39 @@ exports.data = {
     "fields": [
     {
       "name": "▬▬ Vyres ▬▬",
-      "value": "While not the best method in terms of time, killing [Vyrelords](https://runescape.wiki/w/Vyrelord) is a method which can be utilized to gain Prayer, Firemaking, Farming, Combat experience at the same time. For a detailed guide, watch [Updated Vyrewatch Camping Guide | puretppc - YouTube](https://www.youtube.com/watch?v=Qihc0peYSTw)."
+      "value": "While not the best method in terms of time, killing [Vyrelords](https://runescape.wiki/w/Vyrelord) is a method which can be utilized to gain Prayer, Firemaking, Farming, Combat experience at the same time. For a detailed guide, view [puretppc's Vyrewatch Camping guide - YouTube](https://www.youtube.com/watch?v=Qihc0peYSTw)."
     },
     {
       "name": "▬▬ Turoths ▬▬",
-      "value": "Killing Turoths is a viable method and gives the player ~220k farming experience per hour. A guide can be found [here](https://runescape.wiki/w/Turoth/Strategies)."
+      "value": "Using Magic will grant the highest possible Farming experience rates from [Turoths](https://runescape.wiki/w/Turoth), which can exceed 200,000 experience per hour. This is due to Magic having many Multi-target and AoE [abilities](https://runescape.wiki/w/Abilities). Ranged offers the second best Farming experience rates from Turoths, exceeding 175,000 experience per hour with [optimized setups](https://runescape.wiki/w/Turoth/Strategies#Equipment). Note that [seedicide](https://runescape.wiki/w/Seedicide) is required for this method. A guide can be found [here](https://runescape.wiki/w/Turoth/Strategies)."
     },
     {
       "name": "▬▬ Foraging Rumberry Bushes Levels 86-99+ ▬▬",
-      "value": "There are several [Rumberry Bushes](https://runescape.wiki/w/Rumberry_bush) on the southwestern part of [Tuai Leit](https://runescape.wiki/w/Tuai_Leit) in [The Arc](https://runescape.wiki/w/The_Arc). Rumberry bushes can be harvested at level 86 Farming and give around 30,000 experience an hour."
+      "value": "There are several [Rumberry Bushes](https://runescape.wiki/w/Rumberry_bush) on the southwestern part of [Tuai Leit](https://runescape.wiki/w/Tuai_Leit) in [The Arc](https://runescape.wiki/w/The_Arc). Rumberry bushes can be harvested at level 86 Farming and give approximately 30,000 experience an hour."
     },
     { 
       "name": "▬▬ Foraging Mushroom Clusters 94-99+ ▬▬", 
-      "value": "[Mushroom Clusters](https://runescape.wiki/w/Mushroom_cluster) are a Farming resource that can be found randomly on [Uncharted Isles](https://runescape.wiki/w/Uncharted_Isles). These can be harvested at level 94 Farming and yield around 100 mushrooms before depleting. At level 99 harvesting mushrooms grants an experience rate equivalent to 50,000 experience an hour."
+      "value": "[Mushroom Clusters](https://runescape.wiki/w/Mushroom_cluster) are a Farming resource that can be found randomly on [Uncharted Isles](https://runescape.wiki/w/Uncharted_Isles) (0-1, 2+ rare), [The Islands That Once Were Turtles](https://runescape.wiki/w/The_Islands_That_Once_Were_Turtles) (5), and [Goshima](https://runescape.wiki/w/Goshima) (4). These can be harvested at level 94 Farming and yield 100 mushrooms before depleting. Once depleted, the cluster cannot be foraged for the rest of the day, resetting at 00:00 UTC. At level 99 harvesting mushrooms grants an experience rate equivalent to 50,000 experience an hour.\n\nRandomly while foraging, players may be pricked by a thorn, disrupting their foraging, and damaging the player equal to 5% of their maximum life points. If pricked, the following message will display: **Ouch! You were pricked by a thorn.**"
+    },
+    { 
+      "name": "​",
+      "value": "After completing the [player-owned farm](https://runescape.wiki/w/Player-owned_farm) [tutorial](https://runescape.wiki/w/Player-owned_farm#Tutorial), the player has a rare chance of obtaining a [gloomshroom zygomite](https://runescape.wiki/w/Gloomshroom_zygomite) drop. Mushroom clusters on Uncharted Isles have a chance of 1/400 of giving gloomshroom zygomites, while named islands only provide a 1/4,000 chance."
     },
     { 
       "name": "▬▬ Cabbage Facepunch Bonanza ▬▬", 
-      "value": "[Cabbage Facepunch Bonanza](https://runescape.wiki/w/Cabbage_Facepunch_Bonanza) is a free-to-play minigame. In each round, players have 1 minute and 10 seconds to reach the other side of the maze in the Cabbage Facepunch Bonanza arena. They must avoid the hazards and gain as many points as they can while doing so. If all the players have reached the other side, the round's timer will be reduced to 11 seconds to save time. Any players not behind the current safe zone will be turned into gorilla guards."
+      "value": "[Cabbage Facepunch Bonanza](https://runescape.wiki/w/Cabbage_Facepunch_Bonanza) is a free-to-play [minigame](https://runescape.wiki/w/Minigames). In each round, players have 1 minute and 10 seconds to reach the other side of the maze in the Cabbage Facepunch Bonanza arena. They must avoid the [hazards](https://runescape.wiki/w/Cabbage_Facepunch_Bonanza#Hazards) and gain as many points as they can while doing so. If all the players have reached the other side, the round's timer will be reduced to 11 seconds to save time. Any players not behind the current safe zone will be turned into gorilla guards."
     },
     { 
       "name": "​", 
-      "value": "By competing in the minigame, players score [Renown](https://runescape.wiki/w/Renown) based on the score points at the end of the game. The first 600 renown earned each day is doubled. Free players only earn renown at 66% of the normal rate. Renown can be exchanged for rewards at the [Quartermaster](https://runescape.wiki/w/Quartermaster_(Cabbage_Facepunch_Bonanza). These include abilities which help during the minigame, bonus experience, helpful items for slayer and farming, and some cosmetic rewards only available during the event. Players can have a maximum of 4,000 renown at a time."
+      "value": "By competing in the minigame, players score [Renown](https://runescape.wiki/w/Renown) based on the score points at the end of the game. The first 600 renown earned each day is doubled. Renown can be exchanged for rewards at the [Quartermaster](https://runescape.wiki/w/Quartermaster_(Cabbage_Facepunch_Bonanza). These include abilities which help during the minigame, bonus experience for skills that include Farming, helpful items for slayer and farming, and some cosmetic rewards only available during the original World event. Players can have a maximum of 4,000 renown at a time."
+    },
+    { 
+      "name": "▬▬ Player Owned Farms ▬▬", 
+      "value": "Players can turn the [manure mound](https://runescape.wikia.com/wiki/Manure_mound) at [Manor Farm](https://runescape.wikia.com/wiki/Manor_Farm) for continuous farming experience. Players will receive 2.5 experience every 2.4 seconds.\n\nBeginning at level 35, players can clean up [manure](https://runescape.wikia.com/wiki/Manure) for 22 experience. The number of times it can be cleaned before disappearing varies. It can be collected in buckets and used to make [compost](https://runescape.wikia.com/wiki/Compost).\n\nPlayers can also clean up [green manure](https://runescape.wikia.com/wiki/Green_manure) for 120 experience. The number of times it can be cleaned before disappearing varies. It can be collected in buckets and used to make [supercompost](https://runescape.wikia.com/wiki/Supercompost)."
+    },
+    { 
+      "name": "​", 
+      "value": "Beginning at level 92, players can clean up [dragon manure](https://runescape.wikia.com/wiki/Dragon_manure) for 500 experience. The number of times it can be cleaned before disappearing varies. It can be collected in buckets and used to make [ultracompost](https://runescape.wikia.com/wiki/Ultracompost)."
     }
       ]
   },
@@ -340,19 +428,19 @@ exports.data = {
     },
     "fields": [
       {
-        "name": "Methods to Obtain",
-        "value": "• Planting Seeds\n• Harvesting Resources\n• Checking the Health of a Patch\n• Foraging Berry Bushes or Mushrooms Clusters in the Arc\n• Planting or Harvesting Crystal Trees\n• Destroying Seeds Using Seedicide\n• Nemi Forrest"
+        "name": "Methods to Obtain:",
+        "value": "• Planting Seeds\n• Harvesting Resources\n• Checking the Health of a Patch\n• Foraging Berry Bushes or Mushrooms Clusters in the Arc\n• Planting or Harvesting Crystal Trees\n• Destroying Seeds Using Seedicide\n• Nemi Forrest\n• Gathering Produce from Animals"
       },
       {
-        "name": "Best Method",
-        "value": "• Elder Trees\n• Crystal Trees"
+        "name": "Best Method:",
+        "value": "• Harvesting [Elder Trees](https://runescape.wiki/w/Elder_tree)\n• Harvesting [Crystal Trees](https://runescape.wiki/w/Crystal_tree)\n• Harvesting [Dragons](https://runescape.wikia.com/wiki/Chromatic_dragons) at the [Player-owned Farm](https://runescape.wiki/w/Player-owned_farm)"
       },
       {
-        "name": "Methods which do not Work",
-        "value": "• Livid Farm"
+        "name": "Methods which do not Work:",
+        "value": "• [Livid Farm](https://runescape.wiki/w/Livid_farm)"
       },
       {
-        "name": "Formula",
+        "name": "Formula:",
         "value": "Gaining this pet is based on the amount of experience awarded at once; the more experience granted per item made, the greater the chance of gaining this pet. The chance is not affected by experience boosters.\n\nIn a purely mathematical format your chance (f) of receiving the pet on any particular action is: f = B * S / 600,000,000\n\nWhere:\nB is the base experience per action.\nS is the virtual skill level. At 200 million experience, a flat bonus of 200 is applied to this value."
       }
       ]
@@ -399,27 +487,31 @@ exports.data = {
 "fields": [ 
   { 
 "name": "▬▬ Giant Oyster ▬▬", 
-"value": "The [Giant Oyster](https://runescape.wiki/w/Giant_Oyster) is a mostly members-only monthly D&D that is accessible upon completion of [Beneath Cursed Tides](https://runescape.wiki/w/Beneath_Cursed_Tides). Players can collect and catch items to feed to the Giant Oyster, receiving Fishing and Farming experience from doing so. Once fed, the Giant Oyster will close its mouth, preventing further feedings. The following month after being fed, the Giant Oyster can be checked, opening to reveal treasure inside for the player to collect." 
+"value": "The [Giant Oyster](https://runescape.wiki/w/Giant_Oyster) is a mostly members-only monthly D&D that is accessible upon completion of [Beneath Cursed Tides](https://runescape.wiki/w/Beneath_Cursed_Tides). Players can collect and catch items to feed to the Giant Oyster, receiving Fishing and Farming experience from doing so.\n\n[Delicious seaweed](https://runescape.wiki/w/Delicious_seaweed) can be harvested from the [tasty looking seaweed](https://runescape.wiki/w/Tasty_looking_seaweed) patch north of the Oyster, near the large [Jellyfish](https://runescape.wiki/w/Large_Jellyfish). When attempting to harvest from the seaweed patch, the player will gain Farming experience 30 times before finally harvesting delicious seaweed." 
+},
+{ 
+"name": "​", 
+"value": "The amount of Farming experience gained depends on the player's Farming level. The Farming level can be boosted, and the player will receive the rate based of the boosted level (i.e. a boost from 94 to 99 will give 2,322 experience each harvest). As the boost wears away, the experience rate will as well.\n\nOnce fed, the Giant Oyster will close its mouth, preventing further feedings. The following month after being fed, the Giant Oyster can be checked, opening to reveal treasure inside for the player to collect." 
 },
 { 
 "name": "▬▬ Goblin Raids ▬▬", 
-"value": "[Goblin Raids](https://runescape.wiki/w/Goblin_Raids#Rewards) are a free to play feature in Gielinor. Every 30 minutes a notice goes out detailing the latest location of a goblin raid. It is up to the player to repulse the raiders. The goblins drop [skilling materials](https://runescape.wiki/w/Goblin_Raids#Rewards) useful to lower levelled players." 
+"value": "[Goblin Raids](https://runescape.wiki/w/Goblin_Raids#Rewards) are a free to play feature in [Gielinor](https://runescape.wiki/w/Gielinor). Every 30 minutes, a notice goes out detailing the latest location of a goblin raid. It is up to the player to repulse the raiders. The goblins drop [skilling materials](https://runescape.wiki/w/Goblin_Raids#Rewards) useful to lower leveled players." 
 },
 { 
 "name": "▬▬ Wilderness Warbands ▬▬", 
-"value": "[Wilderness Warbands](https://runescape.wiki/w/Wilderness_Warbands) is a dangerous members D&D that occurs in the [Wilderness](https://runescape.wiki/w/Wilderness), composed of heavily defended storage camps guarded by the followers of the different Gods. They will set up camp in the Wilderness every 7 hours, one time at each of the [three locations](https://runescape.wiki/w/Wilderness_Warbands#Time_for_the_next_warbands). Warbands events are synchronised on each world. \n\nWilderness Warbands give large amounts of experience in Farming, Construction, Herblore, Mining, or Smithing. While no combat is necessary, it is still highly contested between players which may result in the loss of most rewards if you are killed. Players should take combat equipment to fight off/scare off player killers but must be conscious of the fact that this gear can be lost too. You also need 25 free inventory spaces for the Warbands supplies from looting the camps." 
+"value": "[Wilderness Warbands](https://runescape.wiki/w/Wilderness_Warbands) is a dangerous members Distraction & Diversion that occurs in the [Wilderness](https://runescape.wiki/w/Wilderness), composed of heavily defended storage camps guarded by the followers of the different gods. They will set up camp in the Wilderness every 7 hours, one time at each of the [three locations]((https://runescape.wiki/w/Wilderness_Warbands#Time_for_the_next_warbands). Warbands events are synchronized on each world.\n\nWilderness Warbands gives experience in Farming, Construction, Herblore, Mining, or Smithing. While no combat is necessary, it is still highly contested between players, which may result in the loss of most rewards if you are killed. Players should take combat equipment to fight off/scare off player killers but must be conscious of the fact that this gear can be lost too. You also need 25 free inventory spaces for the Warbands supplies from [looting](https://runescape.wiki/w/Wilderness_Warbands#Looting) the camps." 
 }, 
 { 
 "name": "​", 
-"value": "Players will be notified via a server-wide notice when a Wilderness camp appears. Participating in looting will [skull](https://runescape.wiki/w/Skull_(status) you, and holding the looting supplies in your inventory will prevent you from teleporting. Players can be attacked whilst looting without any combat level restrictions. \n\nYou can loot from up to 3 camps (25 maximum per camp) and obtain up to 75 supplies every day, resetting at midnight UTC. At level 98, a total of 356,550 experience can be obtained per day from 75 supplies. The 3 camps looted must be on different worlds and each world's camp can be at a different location. Even if you are killed and lose supplies, your attempt will still count as one of the three. However you can return to the same camp to try again without penalty." 
+"value": "Players will be notified via a server-wide notice when a Wilderness camp appears. Participating in looting will [skull](https://runescape.wiki/w/Skull_(status) you and holding the looting supplies in your inventory will prevent you from [teleporting](https://runescape.wiki/w/Teleportation). Players can be attacked whilst looting without any combat level restrictions.\n\nYou can loot from up to 3 camps for 25 maximum supplies per camp and obtain up to 75 supplies every day, resetting at reset game time. At level 98, a total of 356,550 experience can be obtained per day from 75 supplies. The 3 camps looted must be on different worlds and each world's camp can be at a different location. Even if you are killed and lose supplies, your attempt will still count as one of the three. However, you can return to the same camp to try again without penalty." 
 },
 { 
 "name": "▬▬ Mazcab Supply Runs ▬▬", 
-"value": "[Supply Runs](https://runescape.wiki/w/Supply_run) are a safe activity that take place on [Mazcab](https://runescape.wiki/w/Mazcab) every 12 hours (at midnight and noon game time). The activity begins with goebie supplies spawning at the supply rock near to Querci in Kanatah and is available until 25 minutes past the hour. Players may take up to 10 goebie supplies per day from the supply rock. Upon taking goebie supplies players become flagged for safe PvP and can be attacked by other players, with death resulting in the loss of all goebie supplies that the players are carrying. After obtaining goebie supplies players must travel north-west through the Nemi Forest to Otot, where the supplies may be exchanged for experience with Quercy. " 
+"value": "[Supply Runs](https://runescape.wiki/w/Supply_run) are a safe activity that take place on [Mazcab](https://runescape.wiki/w/Mazcab) every 12 hours at 00:00 and 12:00 game time. The activity begins with [goebie supplies](https://runescape.wiki/w/Goebie_supplies) spawning at the supply rock in [Kanatah](https://runescape.wiki/w/Kanatah) and is available until 25 minutes past the hour. Players may take up to 10 goebie supplies per day from the supply rock. Upon taking goebie supplies, players become flagged for safe PvP and can be attacked by other players, with death resulting in the loss of all goebie supplies that the player is carrying. After obtaining goebie supplies, players must travel north-west through the [Nemi Forest](https://runescape.wiki/w/Nemi_Forest) to [Otot](https://runescape.wiki/w/Otot), where the supplies may be exchanged for experience with [Quercy](https://runescape.wiki/w/Quercy). " 
 }, 
 { 
 "name": "​", 
-"value": "The player will be given a choice between two skills in which to gain experience: Agility or Crafting, Farming or Herblore and Hunter or Woodcutting. Different skills are offered on different worlds, so players may change worlds to find a world where the skill in which they wish to gain experience is offered. Between 495, with level 1, and 48,515, with level 99, experience can be gained from exchanging 10 goebie supplies. Assuming the activity is completed in 5 minutes, experience is awarded at a rate equivalent to between 5,940, with level 1, and 582,180, with level 99, experience an hour. [Source](https://runescape.wiki/w/Agility_training#Supply_runs)." 
+"value": "The player will be given a choice between two skills in which to gain experience: Agility or Crafting, Farming or Herblore, and Hunter or Woodcutting. Different skills are offered on different worlds, so players may change worlds to find a world where the skill in which they wish to gain experience is offered. Between 495, with level 1, and 48,515, with level 99, experience can be gained from exchanging 10 goebie supplies. Assuming the activity is completed in 5 minutes, experience is awarded at a rate equivalent to between 5,940, with level 1, and 582,180, with level 99, experience an hour." 
 }
 ] 
 },
@@ -442,7 +534,7 @@ exports.data = {
     "fields": [
       {
         "name": "​",
-        "value": "At level 80, 3,906.5 experience is awarded per day for either:\n\n• Investigating [Nemi Forest](https://runescape.wiki/w/Nemi_Forest) Flora\n• Planting 1 of various types of herbs\n\nDaily challenges may be extended for 50 [Vis Wax](https://runescape.wiki/w/Vis_wax) for double the reward.\n\nA full chart of the experience per level for the daily challenge may be found [here](https://runescape.wiki/w/Challenge_System/Farming)."
+        "value": "At level 90, 3,906.5 experience is awarded per day for either:\n\n• Investigating [Nemi Forest](https://runescape.wiki/w/Nemi_Forest) [Mysterious Flower](https://runescape.wiki/w/Mysterious_flowers)\n• Planting 1 [torstol seed](https://runescape.wiki/w/Torstol_seed) in an [herb patch](https://runescape.wiki/w/Farming/Patch_locations#Allotment/Flower/Herb_patches)\n\nDaily challenges may be extended for 50 [Vis Wax](https://runescape.wiki/w/Vis_wax) for double the reward.\n\nA full chart of the experience per level for the daily challenge may be found [here](https://runescape.wiki/w/Challenge_System/Farming)."
       }
       ]
   },
@@ -465,35 +557,43 @@ exports.data = {
     "fields": [
       {
         "name": "Farmer's Outfit",
-        "value": "• The [Farmer's Outfit](https://runescape.wiki/w/Farmer%27s_outfit) is an experience-boosting set for the Farming skill. It can be won from [Treasure Hunter](https://runescape.wiki/w/Treasure_Hunter) or as a reward from [Cabbage Facepunch Bonanza](https://runescape.wiki/w/Cabbage_Facepunch_Bonanza) minigame. Each piece grants 1% bonus to Farming experience, wearing the full set grants 6%. The [Modified Farmer's Hat](https://runescape.wiki/w/Modified_farmer%27s_hat) is made by using a Farmer's Hat on a hat add-on. In addition to granting a 1% Farming experience bonus, players can also receive two [Bird's Nests](https://runescape.wiki/w/Bird%27s_nest#Rewards_from_Giant_Mole) a day or four if they have four or more pieces of the farmer's outfit. Players can also teleport to the Morytania allotment patch three times a day, or to Taverley if they do not have access to Morytania. When the hat is worn, there is a 2% chance of saving seeds when sowing."
+        "value": "• The [Farmer's Outfit](https://runescape.wiki/w/Farmer%27s_outfit) is an experience-boosting set for the Farming skill. It can be won from [Treasure Hunter](https://runescape.wiki/w/Treasure_Hunter) or as a reward from [Cabbage Facepunch Bonanza](https://runescape.wiki/w/Cabbage_Facepunch_Bonanza) minigame. Each piece grants 1% bonus to Farming experience, wearing the full set grants 6%."
       },
       {
-        "name": "Elite Animal Farmer Outfit",
-        "value": "• Uses the farmer's outfit's bonus experience if owned\n• Animals age 5% faster when you're at Manor Farm\n• 5% more beans from Farmers' Market sales\n• Better chance of positive traits from breeding and checking\n• Remote access to Manor Farm teleports (if owned in bank)"
+        "name": "​",
+        "value": "• The [Modified Farmer's Hat](https://runescape.wiki/w/Modified_farmer%27s_hat) is made by using a Farmer's Hat on a hat add-on. In addition to granting a 1% Farming experience bonus, players can also receive two [Bird's Nests](https://runescape.wiki/w/Bird%27s_nest#Rewards_from_Giant_Mole) a day or four if they have four or more pieces of the farmer's outfit. Players can also teleport to the [Morytania](https://runescape.wiki/w/Morytania) [allotment](https://runescape.wiki/w/Farming#Allotment) patch three times a day, or to [Taverley](https://runescape.wiki/w/Taverley) if they do not have access to Morytania. When the hat is worn, there is a 2% chance of saving seeds when sowing."
       },
       {
-        "name": "Elite Crop Farmer Outfit",
-        "value": "• Uses the farmer's outfit's bonus experience if owned\n• 5% chance to harvest more hops, herbs and allotment crops\n• Herbs auto-cleaned on harvest\n• Planted hop, herb, flower and allotment patches are auto-watered\n• Remote access to Herblore Habitat teleport items (if owned in bank)"
+        "name": "Animal Farmer Outfit",
+        "value": "The [Animal Farmer Outfit](https://runescape.wiki/w/Animal_farmer_outfit) has the following effects:\n• Uses the farmer's outfit's bonus experience if owned in bank or stored in Diango\n• Animals age 5% faster when you're at [Manor Farm](https://runescape.wiki/w/Manor_Farm)\n• 5% more [beans](https://runescape.wiki/w/Beans) from [Farmers' Market](https://runescape.wiki/w/Farmers%27_Market) sales\n• Better chance of positive [traits](https://runescape.wiki/w/Player-owned_farm#Traits) from [breeding](https://runescape.wiki/w/Player-owned_farm#Breeding) and checking\n• Remote access to Manor Farm teleports, if owned in bank"
       },
       {
-        "name": "Elite Tree Farmer Outfit",
-        "value": "• Uses the farmer's outfit's bonus experience if owned\n• Protection payment discount (-1 to a minimum of 1)\n• Can cast [Rapid Growth](https://runescape.wiki/w/Rapid_Growth) up to twice per patch, per day\n• 5% chance to gain bonus produce when harvesting fruit trees and bushes\n• Remote access to seed pod teleports (if owned in bank)"
+        "name": "Crop Farmer Outfit",
+        "value": "The [Crop Farmer Outfit](https://runescape.wiki/w/Crop_farmer_outfit) has the following effects:\n• Uses the farmer's outfit's bonus experience if owned in bank or stored in [Diango](https://runescape.wiki/w/Diango)\n• 5% chance to harvest more [hops](https://runescape.wiki/w/Farming#Hops), [herbs](https://runescape.wiki/w/Farming#Herb), and [allotment](https://runescape.wiki/w/Farming#Allotment) crops\n• Herbs auto-cleaned on harvest\n• Planted hop, herb, [flower](https://runescape.wiki/w/Farming#Flower), and allotment patches are auto-watered\n• Remote access to [Herblore Habitat](https://runescape.wiki/w/Herblore_Habitat) teleport items (if [juju teleport spiritbag](https://runescape.wiki/w/Juju_teleport_spiritbag) or [witchdoctor mask](https://runescape.wiki/w/Witchdoctor_mask) are owned in bank)"
+      },
+      {
+        "name": "Tree Farmer Outfit",
+        "value": "The [Tree Farmer Outfit](https://runescape.wiki/w/Tree_farmer_outfit) has the following effects:\n• Uses the farmer's outfit's bonus experience if owned in bank or stored in Diango\n• Protection payment discount (-1 to a minimum of 1)\n• Can cast [Rapid Growth](https://runescape.wiki/w/Rapid_Growth) up to twice per patch, per day\n• 5% chance to gain bonus produce when harvesting [fruit trees](https://runescape.wiki/w/Farming#Fruit_tree) and [bushes](https://runescape.wiki/w/Farming#Bush)\n• Remote access to [seed pod](https://runescape.wiki/w/Seed_pod) teleports, if owned in bank"
       },
       {
         "name": "Master Farmer Outfit",
-        "value": "• Combination of all 3 Elite Farmer Outfits\n• Uses the farmer's outfit's bonus experience if owned\n• Animals age 7% faster when the player is at the Manor Farm\n• Better chance of positive traits from breeding and checking\n• 10% more beans from Farmers' Market sales\n• 10% chance to harvest more hops, herbs and allotment crops\n• Herbs auto-cleaned on harvest\n• Planted hop, herb, flower and allotment seeds are auto-watered\n• Protection payment discount (-2 to a minimum of 1)\n• Can cast Rapid Growth up to twice per patch, per day\n• 10% chance to gain bonus produce when harvesting fruit trees and bushes\n• Remote access to\n\t- Morytania allotment teleport, if Modified farmer's hat is owned\n\t- Grand seed pod teleports, if owned in bank\n\t- Herblore Habitat, if juju teleport spiritbag or witchdoctor mask are owned\n\t- Manor Farm, if ardougne cloak 2 or 4 are owned"
+        "value": "The [Master Farmer Outfit](https://runescape.wiki/w/Master_farmer_outfit) has the following effects:\n• Uses the farmer's outfit's bonus experience if owned in bank or stored in Diango\n• Animals age 7% faster when the player is at the Manor Farm\n• Better chance of positive traits from breeding and checking\n• 10% more beans from Farmers' Market sales\n• 10% chance to harvest more hops, herbs and allotment crops\n• Herbs auto-cleaned on harvest\n• Planted hop, herb, flower and allotment seeds are auto-watered\n• Protection payment discount (-2 to a minimum of 1)\n• Can cast Rapid Growth up to twice per patch, per day\n• 10% chance to gain bonus produce when harvesting fruit trees and bushes"
+      },
+      {
+        "name": "​",
+        "value": "• Remote access to\n\t- Morytania allotment teleport, if Modified farmer's hat is owned in bank or stored in Diango\n\t- [Grand seed pod teleports](https://runescape.wiki/w/Grand_seed_pod), if owned in bank\n\t- Herblore Habitat, if juju teleport spiritbag or witchdoctor mask are owned in bank\n\t- Manor Farm, if [Ardougne cloak 2](https://runescape.wiki/w/Ardougne_cloak_2) through [4](https://runescape.wiki/w/Ardougne_cloak_4) are owned in bank"
       },
       {
         "name": "Farming Cape",
-        "value": "• The Farming Cape's perk provides a chance to instantly harvest all remaining resources from a crop (stacks with [Juju Farming Potion](https://runescape.wiki/w/Juju_farming_potion) and [Greenfinger Auras](https://runescape.wiki/w/Greenfingers_aura)), and notes the harvested crops automatically."
+        "value": "• The [Farming Cape](https://runescape.wiki/w/Farming_cape)'s perk provides a chance to instantly harvest all remaining resources from a crop (stacks with [Juju Farming Potion](https://runescape.wiki/w/Juju_farming_potion) and [Greenfinger Auras](https://runescape.wiki/w/Greenfingers_aura)), and notes the harvested crops automatically."
       },
       {
         "name": "Scroll of Life",
-        "value": "• The [Scroll of Life](https://runescape.wiki/w/Scroll_of_life) is a Dungeoneering reward, that can be purchased for 10,000 [Dungeoneering reward tokens](https://runescape.wiki/w/Dungeoneering_token). It requires a Farming level of 25 and a Dungeoneering level of 25. Once used, the scroll will disappear, giving the player the following permanent effect: when harvesting non-tree non-flower patches (including dead ones), the player will have a 10% chance of receiving seeds back. There is also a 5% chance of getting a seed back from a dead tree or stump."
+        "value": "• The [Scroll of Life](https://runescape.wiki/w/Scroll_of_life) is a Dungeoneering reward that can be purchased for 10,000 [Dungeoneering reward tokens](https://runescape.wiki/w/Dungeoneering_token). It requires a Farming level of 25 and a Dungeoneering level of 25. Once used, the scroll will disappear, giving the player the following permanent effect: when harvesting non-[tree](https://runescape.wiki/w/Farming#Trees) non-flower patches, including dead ones, the player will have a 10% chance of receiving seeds back. There is also a 5% chance of getting a seed back from a dead tree or stump."
       },
       {
         "name": "Falador Shield 2, 3, and 4",
-        "value": "• The [Falador Shield 2](https://runescape.wiki/w/Falador_shield_2) is a shield earned by completing the [Medium Falador Achievements](https://runescape.wiki/w/Falador_achievements#Medium_tasks). The shield increases farming experience from the herb, flower and allotment patches at the Falador farm by 10%"
+        "value": "• The [Falador Shield 2](https://runescape.wiki/w/Falador_shield_2) is a shield earned by completing the [Medium Falador Achievements](https://runescape.wiki/w/Falador_achievements#Medium_tasks). The shield increases farming experience from the herb, flower and allotment patches at the [Falador farm](https://runescape.wiki/w/Falador_farm) by 10%"
       },
       {
         "name": "Magic Secateurs",
@@ -511,7 +611,7 @@ exports.data = {
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "thumbnail": {
-      "url": "https://vignette.wikia.nocookie.net/runescape2/images/2/21/Mature_pigswill_detail.png/revision/latest?cb=20130710233840"
+      "url": "https://runescape.wiki/images/3/38/Decorated_farming_urn_detail.png?ec0ff"
     },
     "author": {
       "name": "Max Cape Info",
@@ -528,7 +628,7 @@ exports.data = {
       },
       {
         "name": "​",
-        "value": "[Perfect Juju Farming Potion](https://runescape.wiki/w/Perfect_juju_farming_potion)\n• 5% chance of getting harmony moss from any farming patch \n• 25% chance of getting two harmony moss at once from a harmony pillar"
+        "value": "[Perfect Juju Farming Potion](https://runescape.wiki/w/Perfect_juju_farming_potion)\n• 5% chance of getting harmony moss from any farming patch \n• 25% chance of getting two harmony moss at once from a harmony pillar\n\n[Farming urns](https://runescape.wiki/w/Farming_urn)\n• +220-1,400 experience per urn (depends on the level of urn used)\n• +275-1,750 experience per urn if used with an [Urn Enhancer](https://runescape.wiki/w/Urn_enhancer) (requires 24 Invention and the [Nomad's Elegy](https://runescape.wikia.com/wiki/Nomad%27s_Elegy) quest)"
       }
        ]
   }
