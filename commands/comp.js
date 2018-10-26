@@ -17,6 +17,7 @@ const { data } = require("../guides/compGuide.js");
 
 exports.run = async (client, message, args, level) => { // eslint-disable-line no-unused-vars
 	const achName = args.join(" ").toLowerCase();
+	if (achName.length < 3) return message.channel.send('Search terms should be a minimum of **3** characters. Please try again.');
 	const keyList = [];
 	const rtnArr = [];
 	const fullArr = [];

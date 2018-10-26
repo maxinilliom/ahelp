@@ -2,6 +2,7 @@ const { data } = require("../guides/dailyGuide.js");
 
 exports.run = async (client, message, args, level) => {
 	const guideName = args.join(" ").toLowerCase();
+	if (guideName.length < 3) return message.channel.send('Search terms should be a minimum of **3** characters. Please try again.');
 	const keyList = [];
 	const rtnArr = [];
 	const name = "Daily Money Making Info";
