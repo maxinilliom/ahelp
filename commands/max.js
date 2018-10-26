@@ -85,86 +85,86 @@ exports.run = async (client, message, [skill, ...args], level) => { // eslint-di
 	const gl = client.guideList;
 	const msgArr = [];
 
-	switch (skill.toProperCase()) {
-		case 'Agility':
+	switch (nick) {
+		case 'agility':
 			footer["icon_url"] = "https://i.imgur.com/srP1pM6.png";
 			break;
-		case 'Attack':
+		case 'attack':
 			footer["icon_url"] = "https://i.imgur.com/gwpYsWu.png";
 			break;
-		case 'Constitution':
+		case 'constitution':
 			footer["icon_url"] = "https://i.imgur.com/1mEzhB1.png";
 			break;
-		case 'Construction':
+		case 'construction':
 			footer["icon_url"] = "https://i.imgur.com/yh5fD3j.png";
 			break;
-		case 'Cooking':
+		case 'cooking':
 			footer["icon_url"] = "https://i.imgur.com/KHb9eOf.png";
 			break;
-		case 'Crafting':
+		case 'crafting':
 			footer["icon_url"] = "https://i.imgur.com/HwJUxAa.png";
 			break;
-		case 'Defence':
+		case 'defence':
 			footer["icon_url"] = "https://i.imgur.com/zYxUeSD.png";
 			break;
-		case 'Divination':
+		case 'divination':
 			footer["icon_url"] = "https://i.imgur.com/ElfPGQC.png";
 			break;
-		case 'Dungeoneering':
+		case 'dungeoneering':
 			footer["icon_url"] = "https://i.imgur.com/BNANPYA.png";
 			break;
-		case 'Farming':
+		case 'farming':
 			footer["icon_url"] = "https://i.imgur.com/0rtK7uL.png";
 			break;
-		case 'Firemaking':
+		case 'firemaking':
 			footer["icon_url"] = "https://i.imgur.com/HhLQMc0.png";
 			break;
-		case 'Fishing':
+		case 'fishing':
 			footer["icon_url"] = "https://i.imgur.com/H9dO8mR.png";
 			break;
-		case 'Fletching':
+		case 'fletching':
 			footer["icon_url"] = "https://i.imgur.com/6TXnmAF.png";
 			break;
-		case 'Herblore':
+		case 'herblore':
 			footer["icon_url"] = "https://i.imgur.com/RGJHDBT.png";
 			break;
-		case 'Hunter':
+		case 'hunter':
 			footer["icon_url"] = "https://i.imgur.com/rbucU6y.png";
 			break;
-		case 'Invention':
+		case 'invention':
 			footer["icon_url"] = "https://i.imgur.com/Wq4Y0T4.png";
 			break;
-		case 'Magic':
+		case 'magic':
 			footer["icon_url"] = "https://i.imgur.com/iOUr5uV.png";
 			break;
-		case 'Mining':
+		case 'mining':
 			footer["icon_url"] = "https://i.imgur.com/6VXKcwk.png";
 			break;
-		case 'Prayer':
+		case 'prayer':
 			footer["icon_url"] = "https://i.imgur.com/HBi7Czz.png";
 			break;
-		case 'Ranged':
+		case 'ranged':
 			footer["icon_url"] = "https://i.imgur.com/3eIUB5K.png";
 			break;
-		case 'Runecrafting':
+		case 'runecrafting':
 			footer["icon_url"] = "https://i.imgur.com/kaiaImZ.png";
 			break;
-		case 'Slayer':
+		case 'slayer':
 			footer["icon_url"] = "https://i.imgur.com/TCeBHKL.png";
 			break;
-		case 'Smithing':
+		case 'smithing':
 			footer["icon_url"] = "https://i.imgur.com/mUJOyXX.png";
 			break;
-		case 'Strength':
+		case 'strength':
 			footer["icon_url"] = "https://i.imgur.com/6R7nOpZ.png";
 			break;
-		case 'Summoning':
+		case 'summoning':
 			footer["icon_url"] = "https://i.imgur.com/my5cDbl.png";
 			break;
-		case 'Thieving':
+		case 'thieving':
 			footer["icon_url"] = "https://i.imgur.com/aI7zn8u.png";
 			break;
-		case 'Woodcutting':
+		case 'woodcutting':
 			footer["icon_url"] = "https://i.imgur.com/FrBPOyS.png";
 			break;
 		default:
@@ -225,7 +225,14 @@ exports.run = async (client, message, [skill, ...args], level) => { // eslint-di
 			errMsg = "";
 		if (!gl.has('max')) gl.set('max', {});
 		msgArr.push(message.channel.id);
-		//insert skill header switch here
+
+		await message.channel.send({
+		  files: [{
+			attachment: `media/img/guides/max/${nick}.png`,
+			name: `${nick}.png`
+		  }]
+		}).then(m => msgArr.push(m.id));
+
 		async function list() {
 			const guide = data[keyList[o]];
 			guide.color = color;
