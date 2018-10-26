@@ -508,7 +508,7 @@ exports.data = {
       },
       {
         "name": "​",
-        "value": "[Divination urns](https://runescape.wiki/w/Divination_urn)\n• +210-1,900 experience per urn (depends on the level of urn used)\n• +262.5-2,375 experience per urn if used with an [Urn Enhancer](https://runescape.wiki/w/Urn_enhancer) (requires 24 Invention and the [Nomad's Elegy](https://runescape.wikia.com/wiki/Nomad%27s_Elegy) quest)\n•[Divination Potion](https://runescape.wikia.com/wiki/Divination_potion)\n• +3 levels\n\n[Super Divination Potion](https://runescape.wikia.com/wiki/Super_divination)\n• +5 levels\n\n[Extreme Divination Potion](https://runescape.wikia.com/wiki/Extreme_divination)\n• Boosts divination by 3 + 15% of the player's level, up to a maximum of +17 levels at level 94 divination."
+        "value": "[Divination urns](https://runescape.wiki/w/Divination_urn)\n• +210-1,900 experience per urn (depends on the level of urn used)\n• +262.5-2,375 experience per urn if used with an [Urn Enhancer](https://runescape.wiki/w/Urn_enhancer) (requires 24 Invention and the [Nomad's Elegy](https://runescape.wikia.com/wiki/Nomad%27s_Elegy) quest)\n\n•[Divination Potion](https://runescape.wikia.com/wiki/Divination_potion)\n• +3 levels\n\n[Super Divination Potion](https://runescape.wikia.com/wiki/Super_divination)\n• +5 levels\n\n[Extreme Divination Potion](https://runescape.wikia.com/wiki/Extreme_divination)\n• Boosts divination by 3 + 15% of the player's level, up to a maximum of +17 levels at level 94 divination."
       },
       ]
     }
