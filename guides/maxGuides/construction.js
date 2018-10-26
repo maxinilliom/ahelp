@@ -49,7 +49,7 @@ exports.data = {
         "value":"Estate agents can move a player's house from its default location in Taverley to any of the other house portal locations identified by the House portal map icon on the map. These locations are [Rimmington](https://runescape.wiki/w/Rimmington), [Pollnivneach](https://runescape.wiki/w/Pollnivneach), [Rellekka](https://runescape.wiki/w/Rellekka), [Brimhaven](https://runescape.wiki/w/Brimhaven), [Yanille](https://runescape.wiki/w/Yanille), [Otot](https://runescape.wiki/w/Otot), [Menaphos](https://runescape.wiki/w/Menaphos) and Prifddinas. Each location requires a certain Construction level, and the estate agent charges a fee for each move. The details can be found in [here](https://runescape.wiki/w/Construction#House_portal_locations)."
        },
        {
-        "name":"Servants",
+        "name":"Servants:",
         "value":"An alternative to traveling between your house and a bank is to use [Servants](https://runescape.wiki/w/Servant) to bring things from the bank to your house. With the minimum of level 20 Construction, a player can be hire a servant at the [Servants' Guild](https://runescape.wiki/w/Servants%27_Guild). This is faster than traveling yourself because you can build while the servant is making the trip. Better servants make the round trip faster.\n\nServants have a right click option that allows the fetch-from-bank menu to be brought up quickly. Furthermore, the last request is saved, so the player can repeatedly ask for the same set of items to be brought without typing the specific quantity each time."
        }
    ]
