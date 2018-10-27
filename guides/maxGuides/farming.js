@@ -538,15 +538,11 @@ exports.data = {
       }
       ]
   },
-  "permanent boosts": {
+  "permanent boosts pt1": {
     "title": "Permanent Boosts",
     "url": "https://runescape.wiki/w/Bonus_experience_items",
     "description": "A permanent skill boost is anything caused by an item that permanently raises a player's level or ability in one or more skills. It allows the player to do things above their current level or ability.",
         "color": 12269891,
-    "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
-      "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
-    },
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/6/6e/Farmer%27s_outfit_equipped.png/revision/latest?cb=20140509012125"
     },
@@ -586,7 +582,11 @@ exports.data = {
       {
         "name": "Farming Cape",
         "value": "• The [Farming Cape](https://runescape.wiki/w/Farming_cape)'s perk provides a chance to instantly harvest all remaining resources from a crop (stacks with [Juju Farming Potion](https://runescape.wiki/w/Juju_farming_potion) and [Greenfinger Auras](https://runescape.wiki/w/Greenfingers_aura)), and notes the harvested crops automatically."
-      },
+      }
+    ]
+  },
+  "permanent boosts pt2": {
+    "fields": [
       {
         "name": "Scroll of Life",
         "value": "• The [Scroll of Life](https://runescape.wiki/w/Scroll_of_life) is a Dungeoneering reward that can be purchased for 10,000 [Dungeoneering reward tokens](https://runescape.wiki/w/Dungeoneering_token). It requires a Farming level of 25 and a Dungeoneering level of 25. Once used, the scroll will disappear, giving the player the following permanent effect: when harvesting non-[tree](https://runescape.wiki/w/Farming#Trees) non-flower patches, including dead ones, the player will have a 10% chance of receiving seeds back. There is also a 5% chance of getting a seed back from a dead tree or stump."
@@ -599,7 +599,12 @@ exports.data = {
         "name": "Magic Secateurs",
         "value": "• [Magic Secateurs](https://runescape.wiki/w/Magic_secateurs) are a Farming tool obtained during the [Fairy Tale Part I](https://runescape.wiki/w/Fairy_Tale_I_-_Growing_Pains) quest. Either wielding, having the magic secateurs in the player's inventory, or in the tool belt while harvesting allotments, herbs, and hops decreases the chance of the plant losing a life when harvesting. They also provide a 10% yield when Farming from allotments, herb, and hops patches."
       }
-      ]
+    ],
+    "footer": {
+      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
+    },
+    "timestamp": "2001-01-04T12:00:00Z"
   },
   "temporary boosts": {
     "title": "Temporary Boosts",
