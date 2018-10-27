@@ -42,7 +42,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 		}
 	});
 	if (!args[0]) return message.channel.send(`Please specify a valid achievement name.`);
-	const catList = keyList.filter(k => k.includes(category));
+	const catList = keyList.filter(k => k.split(" - ")[0].includes(category));
 
 	if (args[0].toLowerCase() == "all" && level >= 2) {
 		let i = 0, o = 0, errMsg = "";
