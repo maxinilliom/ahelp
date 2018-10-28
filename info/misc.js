@@ -1,7 +1,19 @@
 exports.data = {
-  "break1": {
+  "break0": {
     "files": [{
       "attachment": "media/img/info/fc/break.png",
+      "name": "break.png"
+    }]
+  },
+    "achievementsheader": {
+    "files": [{
+      "attachment": "media/img/info/misc/achievementsheader.png",
+      "name": "Achievements header.png"
+    }]
+  },
+    "break1": {
+    "files": [{
+      "attachment": "media/img/info/affiliate/break.png",
       "name": "break.png"
     }]
   },
@@ -53,6 +65,18 @@ exports.data = {
   "break2": {
     "files": [{
       "attachment": "media/img/info/fc/break.png",
+      "name": "break.png"
+    }]
+  },
+    "combatheader": {
+    "files": [{
+      "attachment": "media/img/info/misc/combatheader.png",
+      "name": "Combat header.png"
+    }]
+  },
+    "break3": {
+    "files": [{
+      "attachment": "media/img/info/affiliate/break.png",
       "name": "break.png"
     }]
   },
@@ -117,9 +141,21 @@ exports.data = {
       }           
       ]
   },
-  "break3": {
+  "break4": {
     "files": [{
       "attachment": "media/img/info/fc/break.png",
+      "name": "break.png"
+    }]
+  },
+    "skillingdndsheader": {
+    "files": [{
+      "attachment": "media/img/info/misc/skillingdndsheader.png",
+      "name": "Skilling DnDs header.png"
+    }]
+  },
+    "break5": {
+    "files": [{
+      "attachment": "media/img/info/affiliate/break.png",
       "name": "break.png"
     }]
   },
@@ -160,9 +196,21 @@ exports.data = {
       }            
       ]
   },
-  "break4": {
+  "break6": {
     "files": [{
       "attachment": "media/img/info/fc/break.png",
+      "name": "break.png"
+    }]
+  },
+    "ironmanheader": {
+    "files": [{
+      "attachment": "media/img/info/misc/ironmanheader.png",
+      "name": "Ironman header.png"
+    }]
+  },
+    "break7": {
+    "files": [{
+      "attachment": "media/img/info/affiliate/break.png",
       "name": "break.png"
     }]
   },
@@ -199,9 +247,21 @@ exports.data = {
       }        
       ]
   },
-  "break5": {
+  "break8": {
     "files": [{
       "attachment": "media/img/info/fc/break.png",
+      "name": "break.png"
+    }]
+  },
+    "otherheader": {
+    "files": [{
+      "attachment": "media/img/info/misc/otherheader.png",
+      "name": "Achievements header.png"
+    }]
+  },
+    "break9": {
+    "files": [{
+      "attachment": "media/img/info/affiliate/break.png",
       "name": "break.png"
     }]
   },
@@ -250,9 +310,21 @@ exports.data = {
       }
       ]
   },
-  "break6": {
+  "break10": {
     "files": [{
       "attachment": "media/img/info/fc/break.png",
+      "name": "break.png"
+    }]
+  },
+    "skillingheader": {
+    "files": [{
+      "attachment": "media/img/info/misc/achievementsheader.png",
+      "name": "Achievements header.png"
+    }]
+  },
+    "break11": {
+    "files": [{
+      "attachment": "media/img/info/affiliate/break.png",
       "name": "break.png"
     }]
   },
@@ -297,7 +369,7 @@ exports.data = {
       } 
       ]
   },
-    "break7": {
+    "break12": {
     "files": [{
       "attachment": "media/img/info/fc/break.png",
       "name": "break.png"
