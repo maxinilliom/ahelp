@@ -1,5 +1,5 @@
 exports.data = {
-  "break1": {
+  "break": {
     "files": [{
       "attachment": "media/img/info/affiliate/break.png",
       "name": "break.png"
@@ -11,7 +11,7 @@ exports.data = {
       "name": "Affiliate header.jpg"
     }]
   },
-  "break2": {
+  "break": {
     "files": [{
       "attachment": "media/img/info/affiliate/break.png",
       "name": "break.png"
@@ -20,10 +20,22 @@ exports.data = {
   "afftitle": {
     "files": [{
       "attachment": "media/img/info/affiliate/afftitle.png",
-      "name": "Affiliate header.jpg"
+      "name": "Affiliate title.jpg"
     }]
   },
-  "break3": {
+  "break": {
+    "files": [{
+      "attachment": "media/img/info/affiliate/break.png",
+      "name": "break.png"
+    }]
+  },
+  "combatheader": {
+    "files": [{
+      "attachment": "media/img/info/affiliate/combatheader.png",
+      "name": "Combat header.png"
+    }]
+  },
+  "break": {
     "files": [{
       "attachment": "media/img/info/affiliate/break.png",
       "name": "break.png"
@@ -436,7 +448,19 @@ exports.data = {
       }
       ]
   },
-    "break4": {
+    "break": {
+    "files": [{
+      "attachment": "media/img/info/affiliate/break.png",
+      "name": "break.png"
+    }]
+  },
+    "minigamesdndsheader": {
+    "files": [{
+      "attachment": "media/img/info/affiliate/minigamesdndsheader.png",
+      "name": "Minigames DnDs header.png"
+    }]
+  },
+    "break": {
     "files": [{
       "attachment": "media/img/info/affiliate/break.png",
       "name": "break.png"
@@ -587,7 +611,7 @@ exports.data = {
       }
       ]
   },
-  "Minigames ": {
+  "Minigames": {
     "title": "Minigames",
     "description":"Minigames is a friendly community server for anyone wanting to have a good time with others! You don't actually have to play any minigames to join.\n\n Some of what we do offer includes:\n• Community chat for everyone\n• Group movie sessions\n• \"Minigames\" FC services - minigame spotlights and Goebiebands\n• Other RS3 and OSRS events - PvM, Minigames, Skilling\n• Other games - Overwatch, WOW, Karaoke, and more!",
     "thumbnail": {
@@ -645,7 +669,19 @@ exports.data = {
       }
       ]
   },
-    "break5": {
+    "break": {
+    "files": [{
+      "attachment": "media/img/info/affiliate/break.png",
+      "name": "break.png"
+    }]
+  },
+    "skillingheader": {
+    "files": [{
+      "attachment": "media/img/info/affiliate/skillingheader.png",
+      "name": "Minigames DnDs header.png"
+    }]
+  },
+    "break": {
     "files": [{
       "attachment": "media/img/info/affiliate/break.png",
       "name": "break.png"
@@ -822,7 +858,19 @@ exports.data = {
       }
       ]
   },
-    "break6": {
+    "break": {
+    "files": [{
+      "attachment": "media/img/info/affiliate/break.png",
+      "name": "break.png"
+    }]
+  },
+    "socialheader": {
+    "files": [{
+      "attachment": "media/img/info/affiliate/socialheader.png",
+      "name": "Minigames DnDs header.png"
+    }]
+  },
+    "break": {
     "files": [{
       "attachment": "media/img/info/affiliate/break.png",
       "name": "break.png"
@@ -1043,5 +1091,5 @@ exports.data = {
         "value": "<@161996996809457664>"
       }
       ]
-  },
+  }
 };
