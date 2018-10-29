@@ -147,9 +147,9 @@ exports.data = {
       "name": "break.png"
     }]
   },
-    "skillingdndsheader": {
+    "dailiesdndsheader": {
     "files": [{
-      "attachment": "media/img/info/misc/skillingdndsheader.png",
+      "attachment": "media/img/info/misc/dailiesdndsheader.png",
       "name": "Skilling DnDs header.png"
     }]
   },
