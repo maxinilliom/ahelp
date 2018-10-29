@@ -318,8 +318,8 @@ exports.data = {
   },
     "skillingheader": {
     "files": [{
-      "attachment": "media/img/info/misc/achievementsheader.png",
-      "name": "Achievements header.png"
+      "attachment": "media/img/info/misc/skillingheader.png",
+      "name": "Skilling header.png"
     }]
   },
     "break11": {
