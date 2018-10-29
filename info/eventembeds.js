@@ -463,6 +463,39 @@ exports.data = {
          }
       ]
    },
+    "pest control": {  
+      "title":"Preparation:",
+      "description":"All are welcome!\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Pest_Control).",
+      "footer":{  
+         "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
+         "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
+      },
+      "thumbnail":{  
+         "url":"https://runescape.wiki/images/thumb/e/e0/Brawler_%28Level_53%29.png/468px-Brawler_%28Level_53%29.png?a4a71"
+      },
+      "author":{  
+         "name":"Pest Control Community Event",
+         "icon_url":"https://i.imgur.com/6c6q2iC.png"
+      },
+      "fields":[  
+         {  
+            "name":"​Where:",
+            "value":"[The Void Knights' Outpost](https://runescape.wiki/w/Void_Knights%27_Outpost), World 68 in <@113770763261181961>'s friends chat."
+         },
+         {  
+            "name":"​Why:",
+            "value":"To assist everyone who needs to complete the [A-Voiding Conflict](https://runescape.wiki/w/A-Voiding_Conflict) achievement (Win a Pest Control game after repairing all barricades to full), and for those who just want to have fun.."
+         },
+         {  
+            "name":"​Who:",
+            "value":"<@294617234033213450>, <@113770763261181961>, <@212672527405678592>, and their [Alright](https://discord.gg/KwysmXr) clan."
+         },
+         {  
+            "name":"​What is Needed:",
+           "value":"This is a safe [minigame](https://runescape.wiki/w/Minigames). Any gear is permitted. [Tier](https://runescape.wiki/w/Equipment_tier) 70+ armor and weapon are recommended, though not required. The better the tier, the better chance you have of surviving."
+         }
+      ]
+   },
     "skill and chill": {  
       "title":"Preparation:",
       "description":"All are welcome!",
