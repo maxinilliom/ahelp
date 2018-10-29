@@ -484,7 +484,7 @@ exports.data = {
          },
          {  
             "name":"​Why:",
-            "value":"To assist everyone who needs to complete the [A-Voiding Conflict](https://runescape.wiki/w/A-Voiding_Conflict) achievement (Win a Pest Control game after repairing all barricades to full), and for those who just want to have fun.."
+            "value":"To assist everyone who needs to complete the [A-Voiding Conflict](https://runescape.wiki/w/A-Voiding_Conflict) achievement (Win a Pest Control game after repairing all barricades to full), and for those who just want to have fun!"
          },
          {  
             "name":"​Who:",

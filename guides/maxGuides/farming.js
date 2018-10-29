@@ -374,7 +374,7 @@ exports.data = {
     "fields": [
     {
       "name": "▬▬ Vyres ▬▬",
-      "value": "While not the best method in terms of time, killing [Vyrelords](https://runescape.wiki/w/Vyrelord) is a method which can be utilized to gain Prayer, Firemaking, Farming, Combat experience at the same time. For a detailed guide, view [puretppc's Vyrewatch Camping guide - YouTube](https://www.youtube.com/watch?v=Qihc0peYSTw)."
+      "value": "While not the best method in terms of time, killing [Vyrelords](https://runescape.wiki/w/Vyrelord) is a method which can be utilized to gain Prayer, Firemaking, Farming, Combat experience at the same time. Note that [seedicide](https://runescape.wiki/w/Seedicide) is required for this method. A guide can be found [here](https://www.youtube.com/watch?v=Qihc0peYSTw) by puretppc."
     },
     {
       "name": "▬▬ Turoths ▬▬",
