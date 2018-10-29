@@ -1,5 +1,5 @@
 exports.data = {
-  "break": {
+  "break0": {
     "files": [{
       "attachment": "media/img/info/affiliate/break.png",
       "name": "break.png"
@@ -11,7 +11,7 @@ exports.data = {
       "name": "Affiliate header.jpg"
     }]
   },
-  "break": {
+  "break1": {
     "files": [{
       "attachment": "media/img/info/affiliate/break.png",
       "name": "break.png"
@@ -23,7 +23,7 @@ exports.data = {
       "name": "Affiliate title.jpg"
     }]
   },
-  "break": {
+  "break2": {
     "files": [{
       "attachment": "media/img/info/affiliate/break.png",
       "name": "break.png"
@@ -35,7 +35,7 @@ exports.data = {
       "name": "Combat header.png"
     }]
   },
-  "break": {
+  "break3": {
     "files": [{
       "attachment": "media/img/info/affiliate/break.png",
       "name": "break.png"
@@ -448,7 +448,7 @@ exports.data = {
       }
       ]
   },
-    "break": {
+    "break4": {
     "files": [{
       "attachment": "media/img/info/affiliate/break.png",
       "name": "break.png"
@@ -460,7 +460,7 @@ exports.data = {
       "name": "Minigames DnDs header.png"
     }]
   },
-    "break": {
+    "break5": {
     "files": [{
       "attachment": "media/img/info/affiliate/break.png",
       "name": "break.png"
@@ -669,7 +669,7 @@ exports.data = {
       }
       ]
   },
-    "break": {
+    "break6": {
     "files": [{
       "attachment": "media/img/info/affiliate/break.png",
       "name": "break.png"
@@ -681,7 +681,7 @@ exports.data = {
       "name": "Minigames DnDs header.png"
     }]
   },
-    "break": {
+    "break7": {
     "files": [{
       "attachment": "media/img/info/affiliate/break.png",
       "name": "break.png"
@@ -858,7 +858,7 @@ exports.data = {
       }
       ]
   },
-    "break": {
+    "break8": {
     "files": [{
       "attachment": "media/img/info/affiliate/break.png",
       "name": "break.png"
@@ -870,11 +870,44 @@ exports.data = {
       "name": "Minigames DnDs header.png"
     }]
   },
-    "break": {
+    "break9": {
     "files": [{
       "attachment": "media/img/info/affiliate/break.png",
       "name": "break.png"
     }]
+  },
+  "A Cuddle of Red Pandas": {
+    "title": "A Cuddle of Red Pandas",
+    "description":"A Cuddle of Pandas is a discord is a social-based server where players can chill and chat while playing Runescape.",
+    "thumbnail": {
+      "url": "https://cdn.discordapp.com/icons/468427878913015818/c24175441a61a521e13d20dd50cf0005.webp"
+    },
+    "footer": {
+      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "text": "Achievement Help | Connecting our Helpful Communities!"
+    },
+    "author": {
+      "name": "Social Affiliate Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "fields": [
+      {
+        "name": "Invite Link:",
+        "value": "https://discord.gg/2Utwx3B"
+      },
+      {
+        "name": "Panda PvM",
+        "value": "Are you interested in PvM? Join us at PvM Pandas! We host everything from Low-level PvM to Raids and Elite Dungeons!"
+      },
+      {
+        "name": "Invite Link:",
+        "value": "https://discord.gg/UUbYJVG"
+      },
+      {
+        "name": "Contact:",
+        "value": "<@138738628070342657>"
+      }
+      ]
   },
   "Alright": {
     "title": "Alright",
