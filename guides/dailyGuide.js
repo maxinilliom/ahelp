@@ -71,7 +71,7 @@ exports.data = {
      "fields": [
       {
         "name": "Useful Information (by Kags):",
-        "value": "• Build 4 [Jade Statues](https://runescape.wiki/w/Jade_Statue) (+10% chance of trade good voyages)\n\n• Build 2 Biologist [icons](https://runescape.wiki/w/Player-owned_port/Upgrades#Icon_hotspots) and 1 Missionary icon\n\n• Constantly switch between 3 Biologist or 3 Missionary icons as needed. For example, if Biologist is out on a voyage and will continue to be out past daily reset/[adventurer re-roll](https://runescape.wiki/w/Player-owned_port/Random_events#Rewards), then build 3 Missionary icons instead. Vice-versa for the opposite situation.\n\n• Use a [Terracotta Merchant](https://runescape.wiki/w/Terracotta_Merchant) (TCM) on every ship (x1.33 rewards, rounds down, stacks with Bonus Ports Winter Weekend's x1.3 rewards and Fortune of the Sea x1.1 rewards)."
+        "value": "• Build 4 [Jade Statues](https://runescape.wiki/w/Jade_Statue) (+10% chance of trade good voyages)\n\n• Build 2 Biologist [icons](https://runescape.wiki/w/Player-owned_port/Upgrades#Icon_hotspots) and 1 Missionary icon\n\n• Constantly switch between 3 Biologist or 3 Missionary icons as needed. For example, if Biologist is out on a voyage and will continue to be out past daily reset/[adventurer re-roll](https://runescape.wiki/w/Player-owned_port/Random_events#Rewards), then build 3 Missionary icons instead. Vice-versa for the opposite situation.\n\n• Use a [Terracotta Merchant](https://runescape.wiki/w/Terracotta_Merchant) on every ship (x1.33 rewards, rounds down, stacks with Bonus Ports Winter Weekend's x1.3 rewards and Fortune of the Sea x1.1 rewards)."
       },
       {
         "name": "​",
