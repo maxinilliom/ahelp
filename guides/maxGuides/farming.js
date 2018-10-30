@@ -487,7 +487,7 @@ exports.data = {
 "fields": [ 
   { 
 "name": "▬▬ Giant Oyster ▬▬", 
-"value": "The [Giant Oyster](https://runescape.wiki/w/Giant_Oyster) is a mostly members-only monthly D&D that is accessible upon completion of [Beneath Cursed Tides](https://runescape.wiki/w/Beneath_Cursed_Tides). Players can collect and catch items to feed to the Giant Oyster, receiving Fishing and Farming experience from doing so.\n\n[Delicious seaweed](https://runescape.wiki/w/Delicious_seaweed) can be harvested from the [tasty looking seaweed](https://runescape.wiki/w/Tasty_looking_seaweed) patch north of the Oyster, near the large [Jellyfish](https://runescape.wiki/w/Large_Jellyfish). When attempting to harvest from the seaweed patch, the player will gain Farming experience 30 times before finally harvesting delicious seaweed." 
+"value": "The [Giant Oyster](https://runescape.wiki/w/Giant_Oyster) is a monthly D&D that is accessible upon completion of [Beneath Cursed Tides](https://runescape.wiki/w/Beneath_Cursed_Tides). Players can collect and catch items to feed to the Giant Oyster, receiving Fishing and Farming experience from doing so.\n\n[Delicious seaweed](https://runescape.wiki/w/Delicious_seaweed) can be harvested from the [tasty looking seaweed](https://runescape.wiki/w/Tasty_looking_seaweed) patch north of the Oyster, near the large [Jellyfish](https://runescape.wiki/w/Large_Jellyfish). When attempting to harvest from the seaweed patch, the player will gain Farming experience 30 times before finally harvesting delicious seaweed." 
 },
 { 
 "name": "​", 
