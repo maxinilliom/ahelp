@@ -52,6 +52,41 @@ exports.data = {
         "text": "AHelp | Designed by Son and AHelpers"
     }
   },
+    "ancient bones": {
+    "title": "Ancient Bones",
+    "description": "Ancient bones are used in the creation of [scrimshaws](https://runescape.wiki/w/Scrimshaw) at a [scrimshaw Crafter](https://runescape.wiki/w/Scrimshaw_Crafter). It is a reward from completing the [Biologist](https://runescape.wiki/w/Biologist) and [Missionary](https://runescape.wiki/w/The_Missionary) storylines, as well as a reward from their [specific voyages](https://runescape.wiki/w/Player-owned_port/Special_voyages) and some [standard voyages](https://runescape.wiki/w/Player-owned_port/Standard_voyages) within the [Player-owned Ports](https://runescape.wiki/w/Player-owned_port) [minigame](https://runescape.wiki/w/Minigame).\n\nPlayers may either create [superior scrimshaws](https://runescape.wiki/w/Ancient_bones#Superior_scrimshaws), which are untradeable, or normal [scrimshaws](https://runescape.wiki/w/Ancient_bones#Scrimshaws), which are tradeable. Players should always check the current market value of scrimshaws before making the inferior versions to sell. **Note: the untradeable versions are the DEFAULT versions you will see when opening the crafting interface on the scrimshaw crafter.**\n\nPlayers have a chance to receive 1 special voyage for Ancient Bones per day and 1 standard voyage per region at a time may be actively occurring.\n• The player will be rewarded 1 ancient bone per voyage in [The Hook](https://runescape.wiki/w/The_Hook) region.\n• The player will be rewarded 2 ancient bones per voyage in [The Scythe](https://runescape.wiki/w/The_Scythe) region.\n• The player will be rewarded 3 ancient bones per voyage in [The Bowl](https://runescape.wiki/w/The_Bowl) region.\n• The player will be rewarded 5 ancient bones per voyage in [The Pincers](https://runescape.wiki/w/The_Pincers) region.\n• The player will be rewarded 6 ancient bones per voyage in [The Loop](https://runescape.wiki/w/The_Loop) region.\n• The player will be rewarded 1 ancient bones per voyage in [The Shield](https://runescape.wiki/w/The_Shield) region.",
+    "url": "https://runescape.wiki/w/Ancient_bones",
+    "color": 12269891,
+    "footer": {
+      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
+    },
+    "thumbnail": {
+      "url": "https://runescape.wiki/images/5/56/Ancient_bones.png?bed3f"
+    },
+    "author": {
+      "name": "Daily Money Making Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+     "fields": [
+      {
+        "name": "Useful Information (by Kags):",
+        "value": "• Build 4 [Jade Statues](https://runescape.wiki/w/Jade_Statue) (+10% chance of trade good voyages)\n• Build 2 Biologist [icons](https://runescape.wiki/w/Player-owned_port/Upgrades#Icon_hotspots) and 1 Missionary icon\n• Constantly switch between 3 Biologist or 3 Missionary icons as needed. For example, if Biologist is out on a voyage and will continue to be out past daily reset/[adventurer re-roll](https://runescape.wiki/w/Player-owned_port/Random_events#Rewards), then build 3 Missionary icons instead. Vice-versa for the opposite situation.\n• Use a [Terracotta Merchant](https://runescape.wiki/w/Terracotta_Merchant) (TCM) on every ship (x1.33 rewards, rounds down, stacks with Bonus Ports Winter Weekend's x1.3 rewards and Fortune of the Sea x1.1 rewards)."
+      },
+      {
+        "name": "​",
+        "value": "• Focus on the Shield region - After you send out the Shield region's 8 Ancient Bones voyage, switch focus to Loop region when rolling standard voyages. If you get/send Loop region's 6 Ancient Bones voyage, switch focus to Pincers region when rolling standard voyages. Switch back to Shield region when the Shield voyage comes back.\n• Max out crew/captain/captain [traits](https://runescape.wiki/w/Player-owned_port/Captains_and_crew#Traits) (+4%) so you increase the chance of success.\n• If you don't have the absolute best crew ready when you get the voyage, then wait for other ships/crew to arrive in port.\n• If close to daily reset or using adventurer re-roll, do NOT check any returned unwanted adventurers until AFTER the reset/re-roll.\n• Do your daily [Ports random event](https://runescape.wiki/w/Player-owned_port/Random_events) for a chance at an adventurer re-roll. You may get a max of 1 random event per Runescape \"day\"."
+      },
+      {
+        "name": "​",
+        "value": "• Check the [Motherlode Maw](https://runescape.wiki/w/Motherlode_Maw) daily for chance at [Player-Owned-Ports enhancers](https://runescape.wiki/w/Player-owned_ports_enhancer).\n• Exchange 10 [Crystal motherlode shards](https://runescape.wiki/w/Crystal_motherlode_shard) daily with [Wythien](https://runescape.wiki/w/Wythien) for chance at Player-Owned-Ports enhancers.\n• Never let your ships be idle - send for [Azure](https://runescape.wiki/w/Azure). Stockpile at least 12,885 Azure to trade for 15 Ancient Bones from [the Trader](https://runescape.wiki/w/The_Trader) when available (859 Azure per bone). After Azure, stockpile at least 20,625 [Stainless Steel](https://runescape.wiki/w/Stainless_steel) (1,375 Steel per bone). After Stainless Steel, stockpile at least 16,500 [Terracotta](https://runescape.wiki/w/Terracotta) (1,100 Terracotta per bone)."
+      },
+      {
+        "name": "Player Owned Ports Guide:",
+        "value": "• Players may view the [POP Encyclopedia V5](http://services.runescape.com/m=forum/forums.ws?75,76,519,65829739) by <@471389821659512849> for full information and sourcing material."
+      }
+    ]
+  },
   "bakriminel bolts": {
     "title": "Bakriminel Bolts",
     "description": "[Bakriminel Bolts](https://runescape.wiki/w/Bakriminel_bolts) require 93 Fletching to make and can be made from [Bloodwood Logs](https://runescape.wiki/w/Bloodwood_logs), which are cut from [Bloodwood trees](https://runescape.wiki/w/Bloodwood_tree).\n\nBloodwood trees that are not located in the [Wilderness](https://runescape.wiki/w/Wilderness) typically yield a very small number of logs, usually 1-2 per yield. However, those in the Wilderness are significantly stronger and are likely to give more logs compared to their non-Wilderness counterparts. Note that 3 of the trees that are not locked behind quests are in the wilderness, so **do not** take anything you're not willing to lose.",
