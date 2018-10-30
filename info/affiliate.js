@@ -59,18 +59,6 @@ exports.data = {
       {
         "name": "Invite Link:",
         "value": "https://discord.gg/2Utwx3B"
-      },
-      {
-        "name": "Panda PvM",
-        "value": "Are you interested in PvM? Join us at PvM Pandas! We host everything from Low-level PvM to Raids and Elite Dungeons!"
-      },
-      {
-        "name": "Invite Link:",
-        "value": "https://discord.gg/UUbYJVG"
-      },
-      {
-        "name": "Contact:",
-        "value": "<@138738628070342657>"
       }
       ]
   },
