@@ -410,7 +410,15 @@ exports.data = {
       {
         "name": "​",
         "value": "Using [logs](https://runescape.wiki/w/Log_(disambiguation) with a bonfire instead of starting a new fire grants additional experience depending on the log. There is also an additional boost based on the amount of people using the bonfire. The additional boost percentages applied are:\n• 2 Players: +1%\n• 3 Players: +2%\n• 4 Players: +3%\n• 5+ Players: +4%\n\n1 log is burned every 3.6 seconds, for logs [maple](https://runescape.wiki/w/Maple_logs) and higher."
-      },  
+      },
+      {
+        "name": "Crystal Tinderbox",
+        "value": "• The [crystal tinderbox]https://runescape.wiki/w/Crystal_tinderbox) gives quintuple the chance of spawning a [fire spirit](https://runescape.wiki/w/Fire_spirit) while at a bonfire with it equipped in main hand slot. When it spawns a fire spirit, it loses 3.57% charge, or 1.78% if in [Prifddinas](https://runescape.wiki/w/Prifddinas), thus lasting 28 uses or 56 uses respectively."
+      },
+      {  
+        "name":"Invention Perks",
+        "value":"• With level 22 Invention, players can choose to firemaking using an [augmented crystal tinderbox](https://runescape.wiki/w/Augmented_crystal_tinderbox).\n\n[Tool gizmos](https://runescape.wiki/w/Tool_gizmo) with [perks](https://runescape.wiki/w/Perks) may be added to these items to give benefits to Firemaking. The most useful perks for Firemaking are:\n\t• [Tinker](https://runescape.wiki/w/Tinker) - a 5% chance per rank per action to increase the experience gained from that action by 25%. It does not work with [Superheat Form](https://runescape.wiki/w/Superheat_Form).\n\t• [Pyromaniac](https://runescape.wiki/w/Pyromaniac) - a 0.1% chance per rank to burn all of the logs of the same type in your inventory at once when adding logs to a bonfire\n\t• [Wise](https://runescape.wiki/w/Wise) - when equipped, +1% per rank additional experience, up to 50,000 XP per day"
+      }
       {
         "name": "Ring of Fire",
         "value": "• The [Ring of Fire](https://runescape.wiki/w/Ring_of_fire) is a reward from the [All Fired Up](https://runescape.wiki/w/All_Fired_Up_(minigame) [minigame](https://runescape.wiki/w/Minigame). The ring requires a Firemaking level of 79 to equip, which is also the minimum level needed to obtain the ring. In order to obtain the ring, the player must have 6 [beacons](https://runescape.wiki/w/Beacons) burning simultaneously.\n\nThe ring's effect adds an additional 2% Firemaking experience for burning logs. It also works when burning [curly roots](https://runescape.wiki/w/Curly_root)."

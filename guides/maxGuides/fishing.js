@@ -441,7 +441,7 @@ exports.data = {
   },
   "daily challenge": {  
       "title":"Daily Challenge",
-      "description":"Completing a daily challenge in Fishing will give Fishing experience, depending on the player's Fishing level.\n\nAt level 99, the following daily challenges can be given:\n\n• Catch 44 [Rocktail](https://runescape.wiki/w/Raw_rocktail) (will give 21,946 experience when turned in)\n• Catch 56 [Shark](https://runescape.wiki/w/Raw_shark) ([Barbarian Fishing](https://runescape.wiki/w/Barbarian_Fishing)) (will give 21,936 experience when turned in)\n\nDaily challenges may be extended for 50 [vis wax](https://runescape.wiki/w/Vis_wax) for double the reward.\n\nA full chart of the experience per level for the daily challenge may be found [here](https://runescape.wiki/w/Challenge_System/Fishing).",
+      "description":"Completing a daily challenge in Fishing will give Fishing experience. The amount of experience depends on the player's Fishing level.\n\nAt level 99, the following daily challenges can be given:\n\n• Catch 44 [Rocktail](https://runescape.wiki/w/Raw_rocktail) - Gives 21,946 experience when turned in\n• Catch 56 [Shark](https://runescape.wiki/w/Raw_shark) using [Barbarian Fishing](https://runescape.wiki/w/Barbarian_Fishing) methods - Gives 21,936 experience when turned in\n\nDaily challenges may be extended for 50 [vis wax](https://runescape.wiki/w/Vis_wax) for double the reward.\n\nA full chart of the experience per level for the daily challenge may be found [here](https://runescape.wiki/w/Challenge_System/Fishing).",
       "url":"https://runescape.wiki/w/Challenge_System/Fishing",
       "color":12269891,
       "footer":{  
@@ -458,7 +458,7 @@ exports.data = {
    },
   "permanent boosts pt1": {  
       "title":"Permanent boosts",
-      "description":"A permanent skill boost is anything caused by an item that permanently raises a player's level in one or more skills. It allows the player to do things above their current level.",
+      "description":"A permanent skill boost is anything caused by an item that permanently raises a player's level or ability in one or more skills. It allows the player to do things above their current level or ability.",
       "url":"https://runescape.wiki/w/Bonus_experience_items",
       "color":12269891,
       "thumbnail":{  
@@ -470,56 +470,48 @@ exports.data = {
       },
       "fields":[  
          {  
-            "name":"Fishing cape",
-            "value":"The [Fishing cape](https://runescape.wiki/w/Fishing_cape)'s perk provides a chance to gain an additional catch. No experience is given for the additional catch."
+            "name":"Fishing Cape",
+            "value":"• The [Fishing cape](https://runescape.wiki/w/Fishing_cape)'s perk provides a chance to gain an additional catch. No experience is given for the additional catch."
          },
          {  
-            "name":"Fishing outfit",
-            "value":"Wearing components of the [fishing outfit](https://runescape.wiki/w/Fishing_outfit) gives a percentage increase in the amount of base experience gained while fishing. You will get a 1% experience boost per component you are wearing. There are four pieces in the set: the hat, jacket, waders, and boots. Each item can be purchased for 140 reward tokens from the [Fish Flingers](https://runescape.wiki/w/Fish_Flingers) minigame, therefore purchasing all of the set's pieces costs 560 tokens. If all pieces of the set are worn, an additional set bonus effect is given, giving a total of 5% experience boost."
+            "name":"Fishing Outfit",
+            "value":"• Wearing components of the [fishing outfit](https://runescape.wiki/w/Fishing_outfit) gives a percentage increase in the amount of base experience gained while fishing. Players will receive a 1% experience boost per component they are wearing. There are four pieces in the set: the hat, jacket, waders, and boots. Each item can be purchased for 140 reward tokens from the [Fish Flingers](https://runescape.wiki/w/Fish_Flingers) minigame, therefore purchasing all of the set's pieces costs 560 tokens.\n\nIf all pieces of the set are worn, an additional set bonus effect is given, giving a total of 5% experience boost."
          },
          {  
-            "name":"Shark outfit",
-            "value":"The shark outfit is one of the [elite skilling outfits](https://runescape.wiki/w/Experience-boosting_set#Elite_skilling_outfits), and has 3 versions: [shark outfit](https://runescape.wiki/w/Shark_outfit), [burnt shark outfit](https://runescape.wiki/w/Burnt_shark_outfit) and [tiger shark outfit](https://runescape.wiki/w/Tiger_shark_outfit).\n\nWearing any of these complete outfits will give you the following bonuses:\n\t• Ability to toggle between receiving fish while fishing, or having fish be destroyed as they are caught (via a right-click option on the head slot item).\n\t• Chance of catching a fish is increased by 5%.\n\t• Living rock creatures in the Living Rock Caverns will not be aggressive towards players.\n\t• If a player owns a complete fishing outfit, then they will receive its 5% increased base experience effect while wearing a shark outfit."
+            "name":"Shark/Burnt Shark/Tiger Shark Outfits",
+            "value":"• When the full [Shark](https://runescape.wiki/w/Shark_outfit) / [Burnt Shark](https://runescape.wiki/w/Burnt_shark_outfit) / [Tiger Shark](https://runescape.wiki/w/Tiger_shark_outfit) Outfit is worn, it has the following effects:\n\t• Ability to toggle between receiving fish while fishing, or having fish be destroyed as they are caught (via a right-click option on the head slot item).\n\t• Chance of catching a fish is increased by 5%.\n\t• [Living rock creatures](https://runescape.wiki/w/Living_rock_creature) in the [Living Rock Caverns](https://runescape.wiki/w/Living_Rock_Caverns) will not be aggressive towards players.\n\t• If a player owns a complete Fishing Outfit, then they will receive its 5% increased base experience effect while wearing a shark outfit."
          },
          {  
-            "name":"Fury shark outfit",
-            "value":"When a player owns all pieces of the shark outfit, burnt shark outfit and tiger shark outfit they may combine these outfits' components to form the [fury shark outfit](https://runescape.wiki/w/Fury_shark_outfit). This outfit gives superior benefits to those given by the other shark outfits.\n\nPlayers gain the following bonuses from a fury shark outfit:\n\t• Ability to toggle between receiving fish while fishing, or having fish be destroyed as they are caught (via a right-click option on the head slot item).\n\t• Chance of catching a fish is increased by 7% (as opposed to 5% with the other shark outfits).\n\t• Living rock creatures in the Living Rock Caverns will not be aggressive towards players.\n\t• If a player owns a complete fishing outfit, then they will receive its 5% increased base experience effect while wearing a shark outfit.\n\t• 10% chance of catching two fish at once while fishing, giving double experience.\n\t• 60-70% chance of not using up bait when a fish is caught."
+            "name":"Fury Shark Outfit",
+            "value":"• When the full [Fury Shark outfit](https://runescape.wiki/w/Fury_shark_outfit) is worn, it has the following effects:\n\t• Ability to toggle between receiving fish while fishing, or having fish be destroyed as they are caught (via a right-click option on the head slot item).\n\t• Chance of catching a fish is increased by 7% (as opposed to 5% with the other shark outfits).\n\t• Living rock creatures in the Living Rock Caverns will not be aggressive towards players.\n\t• If a player owns a complete Fishing Outfit, then they will receive its 5% increased base experience effect while wearing a shark outfit.\n\t• 10% chance of catching two fish at once while fishing, giving double experience.\n\t• 60-70% chance of not using up [fishing bait](https://runescape.wiki/w/Fishing_bait) when a fish is caught."
          },
          {  
-            "name":"Crystal fishing rod",
-            "value":"The [crystal fishing rod](https://runescape.wiki/w/Crystal_fishing_rod) gives a 5% increase in the chance of catching a fish at fishing spots that require the use of a fishing rod. Players can unlock the ability to create degradable crystal fishing rods by exchanging 3,000 [crystal urchin points](https://runescape.wiki/w/Crystal_urchin_point) at the [Prifddinas Waterfall Fishing Shop](https://runescape.wiki/w/Prifddinas_Waterfall_Fishing_Shop). This gives the crystal rod the indirect requirements of 93 Fishing, 90 Agility, 90 Ranged, and 90 Strength to create."
+            "name":"Crystal Fishing Rod",
+            "value":"• The [crystal fishing rod](https://runescape.wiki/w/Crystal_fishing_rod) gives a 5% increase in the chance of catching a fish at fishing spots that require the use of a fishing rod.\n\nWhen first made, a crystal fishing rod has 1,000 charges. While fishing outside of [Prifddinas](https://runescape.wiki/w/Prifddinas), 2 charges are consumed each time that the player catches a fish, meaning that the rod can be used to catch 500 fish. 1 charge is used each time that the player catches a fish within Prifddinas, meaning that it can be used to catch 1,000 fish in this area."
          },
          {  
-            "name":"​",
-            "value":"After obtaining this ability, players with level 80 Smithing can create a crystal fishing rod by combining a [crystal tool seed](https://runescape.wiki/w/Crystal_tool_seed) with 150 [harmonic dust](https://runescape.wiki/w/Harmonic_dust) through [crystal singing](https://runescape.wiki/w/Crystal_singing). Alternatively, players can pay [Ilfeen](https://runescape.wiki/w/Ilfeen), [Eluned](https://runescape.wiki/w/Eluned), [Islwyn](https://runescape.wiki/w/Islwyn) or [Rhodri Dail](https://runescape.wiki/w/Rhodri_Dail) 102,000-510,000 coins to create a crystal fishing rod for them without needing harmonic dust."
-         },
-         {  
-            "name":"​",
-            "value":"When first made, a crystal fishing rod has 1,000 charges. While fishing outside of Prifddinas, 2 charges are consumed each time that the player catches a fish, meaning that the rod can be used to catch 500 fish. 1 charge is used each time that the player catches a fish within Prifddinas, meaning that it can be used to catch 1,000 fish in this area. Upon being degraded, the crystal tool seed can be re-enchanted by Ilfeen, Eluned, Islwyn or Rhodri Dail for 102,000-510,000 coins, depending on the number of times that the tool seed has previously been enchanted."
+            "name":"Invention Perks",
+            "value":"• With level 22 Invention, players can choose to fish using an [augmented crystal fishing rod](https://runescape.wiki/w/Augmented_crystal_fishing_rod) or a [fishing rod-o-matic](https://runescape.wiki/w/Fishing_rod-o-matic).\n\n[Tool gizmos](https://runescape.wiki/w/Tool_gizmo) with [perks](https://runescape.wiki/w/Perks) may be added to these items to give benefits to Fishing. The most useful perks for Fishing are:\n\t• [Furnace](https://runescape.wiki/w/Furnace_%28perk%29) - a 5% chance per rank of consuming a gathered resource for an extra 100% XP\n\t• [Honed](https://runescape.wiki/w/Honed) - a 2% per rank higher chance of successfully gathering items\n\t• [Wise](https://runescape.wiki/w/Wise) - when equipped, +1% per rank additional experience, up to 50,000 XP per day"
          }
       ]
    },
   "permanent boosts pt2": {  
       "fields":[  
          {  
-            "name":"Shark's tooth necklace",
-            "value":"The [shark's tooth necklace](https://runescape.wiki/w/Shark%27s_tooth_necklace) can be obtained after playing the [Fishing Trawler](https://runescape.wiki/w/Fishing_Trawler) minigame. It can be made by using 5 [Shark teeth](https://runescape.wiki/w/Shark%27s_tooth) obtained from the minigame, with some [thread](https://runescape.wiki/w/Thread). A Crafting level of 91 is required to make it, and doing so will give 170 experience."
-         },
-         {  
-            "name":"​",
-            "value":"Wearing the necklace will give the following effects:\n\t• The heal over time effect given when a baron shark is eaten is extended for an additional 5 seconds, giving it the potential to heal 2750 life points instead of the normal 2500.\n\t• A 5% additional Fishing experience boost is received when fishing [sharks](https://runescape.wiki/w/Raw_shark), [baron sharks](https://runescape.wiki/w/Raw_baron_shark), and [wobbegongs](https://runescape.wiki/w/Raw_wobbegong). Note that the necklace boosts base experience, so the experience bonus affects augmented item experience as well."
+            "name":"Shark's Tooth Necklace",
+            "value":"• The [shark's tooth necklace](https://runescape.wiki/w/Shark%27s_tooth_necklace) can be obtained after playing the [Fishing Trawler](https://runescape.wiki/w/Fishing_Trawler) [minigame](https://runescape.wiki/w/Minigames). Wearing the necklace will give the following effects:\n\t• The heal over time effect given when a baron shark is eaten is extended for an additional 5 seconds, giving it the potential to heal 2750 life points instead of the normal 2500.\n\t• A 5% additional Fishing experience boost is received when fishing [sharks](https://runescape.wiki/w/Raw_shark), [baron sharks](https://runescape.wiki/w/Raw_baron_shark), and [wobbegongs](https://runescape.wiki/w/Raw_wobbegong). Note that the necklace boosts base experience, so the experience bonus affects augmented item experience as well."
          },
          {  
             "name":"Aquarium",
-            "value":"With at least level 63 in the Construction skill, players can build an [aquarium](https://runescape.wiki/w/Aquarium) in their [player-owned house](https://runescape.wiki/w/Player-owned_house) for 200,000. Players have a chance of finding [golden fish eggs](https://runescape.wiki/w/Golden_fish_egg) while fishing certain types of aquarium-related fish and can obtain [prawn balls](https://runescape.wiki/w/Prawn_balls) while fishing after an aquarium is built. For each golden fish egg received, players unlock a [prawn perk](https://runescape.wiki/w/Prawnbroker). Prawn perks include the ability to do fly fishing without feathers, also applying to fly fishing while Dungeoneering, and barbarian fishing without bait. When opening prawn balls, players may find decorations which can be placed in their aquarium to gain an increased chance of finding golden fish eggs from a specific fishing spot, as well as a 2% increase in experience received while fishing at the location."
+            "value":"• With at least level 63 in the Construction skill, players can build an [aquarium](https://runescape.wiki/w/Aquarium) in their [player-owned house](https://runescape.wiki/w/Player-owned_house). Players have a chance of finding [golden fish eggs](https://runescape.wiki/w/Golden_fish_egg) while fishing certain types of aquarium-related fish and can obtain [prawn balls](https://runescape.wiki/w/Prawn_balls) while fishing after an aquarium is built.\n\nFor each golden fish egg received, players unlock a [prawn perk](https://runescape.wiki/w/Prawnbroker). Prawn perks include the ability to do [fly fishing](https://runescape.wiki/w/Fishing#Fly_fishing_rods_and_feathers_-_Lure_fishing) without [feathers](https://runescape.wiki/w/Feather), also applying to fly fishing while Dungeoneering, and [Barbarian fishing](https://runescape.wiki/w/Barbarian_Fishing) without [Fishing bait](https://runescape.wiki/w/Fishing_bait)."
          },
          {  
             "name":"​",
-            "value":"The following decorations can be placed:\n\t• [Tribal mask](https://runescape.wiki/w/Tribal_mask_decoration): [Shilo Village](https://runescape.wiki/w/Shilo_Village_%28location%29)\n\t• [Fremennik longboat](https://runescape.wiki/w/Fremennik_longboat_decoration): [Barbarian Fishing](https://runescape.wiki/w/Barbarian_Fishing) at [Otto's Grotto](https://runescape.wiki/w/Otto%27s_Grotto)\n\t• [Vorago](https://runescape.wiki/w/Vorago_decoration): [Living Rock Caverns](https://runescape.wiki/w/Living_Rock_Caverns)\n\t• [Fishing guild](https://runescape.wiki/w/Fishing_guild_decoration): [Fishing Guild](https://runescape.wiki/w/Fishing_Guild)\n\t• [Sea troll egg](https://runescape.wiki/w/Sea_troll_egg_decoration): [Piscatoris Fishing Colony](https://runescape.wiki/w/Piscatoris_Fishing_Colony)\n\t• [White wolf mountain](https://runescape.wiki/w/White_wolf_mountain_decoration): [Catherby](https://runescape.wiki/w/Catherby)"
+            "value":"• When opening prawn balls, players may find [decorations](https://runescape.wiki/w/Aquarium#Decorations), which can be placed in their aquarium to gain an increased chance of finding golden fish eggs from a specific fishing spot, as well as a 2% increase in experience received while fishing at the location."
          },
          {  
-            "name":"Invention perks",
-            "value":"With level 22 Invention, players can choose to fish using an [augmented crystal fishing rod](https://runescape.wiki/w/Augmented_crystal_fishing_rod) or a [fishing rod-o-matic](https://runescape.wiki/w/Fishing_rod-o-matic).\n\nTool gizmos with perks may be added to these items to give benefits to Fishing. The most useful perks for Fishing are:\n\t• [Furnace](https://runescape.wiki/w/Furnace_%28perk%29) - a 5% chance per rank of consuming a gathered resource for an extra 100% XP\n\t• [Honed](https://runescape.wiki/w/Honed) - a 2% per rank higher chance of successfully gathering items\n\t• [Wise](https://runescape.wiki/w/Wise) - when equipped, +1% per rank additional experience, up to 50,000 XP per day"
+            "name":"​",
+            "value":"The following decorations can be placed:\n\t• [Tribal mask](https://runescape.wiki/w/Tribal_mask_decoration) for a boost at [Shilo Village](https://runescape.wiki/w/Shilo_Village_%28location%29)\n\t• [Fremennik longboat](https://runescape.wiki/w/Fremennik_longboat_decoration) for a boost at [Barbarian Fishing](https://runescape.wiki/w/Barbarian_Fishing) at [Otto's Grotto](https://runescape.wiki/w/Otto%27s_Grotto)\n\t• [Vorago](https://runescape.wiki/w/Vorago_decoration) for a boost at [Living Rock Caverns](https://runescape.wiki/w/Living_Rock_Caverns)\n\t• [Fishing guild](https://runescape.wiki/w/Fishing_guild_decoration) for a boost at [Fishing Guild](https://runescape.wiki/w/Fishing_Guild)\n\t• [Sea troll egg](https://runescape.wiki/w/Sea_troll_egg_decoration) for a boost at [Piscatoris Fishing Colony](https://runescape.wiki/w/Piscatoris_Fishing_Colony)\n\t• [White wolf mountain](https://runescape.wiki/w/White_wolf_mountain_decoration) for a boost at [Catherby](https://runescape.wiki/w/Catherby)"
          }
     ],
     "footer": { 
@@ -530,7 +522,7 @@ exports.data = {
   },
   "temporary boosts pt1": {  
       "title":"Temporary boosts",
-      "description":"A temporary skill boost is anything caused by an item, Summoning familiar, or action that temporarily raises a player's level in one or more skills. If the boost is visible, it allows the player to do things above their current level. If the boost is invisible, you won't be able to do things above their current level. However, it is possible to combine a visible and invisible boost, in which case the visible boost will work first, followed by the invisible boost.",
+      "description":"A temporary skill boost is anything caused by an item, [Summoning familiar](https://runescape.wiki/w/Summoning_familiars), or action that temporarily raises a player's level or ability in one or more skills. It allows the player to do things above their current level or ability.",
       "url":"https://runescape.wiki/w/Temporary_skill_boost",
       "color":12269891,
       "thumbnail":{  
@@ -547,7 +539,7 @@ exports.data = {
          },
          {  
             "name":"​",
-            "value":"[Spicy stew](https://runescape.wiki/w/Spicy_stew)\n\t•  Boost is applied to a random skill\n\t•  Up to ±6 with 3 spice doses\n\t•  Up to ±3 with 2 spice doses\n\t•  Up to ±2 with 1 spice dose"
+            "value":"[Spicy stew](https://runescape.wiki/w/Spicy_stew)\n\t• Boost is applied to a random skill\n\t• Each color [spice](https://runescape.wiki/w/Spicy_stew#Spices) affects different skills\n\t• Up to ±6 with 3 spice doses\n\t• Up to ±3 with 2 spice doses\n\t•  Up to ±2 with 1 spice dose"
          },
          {  
             "name":"​",
@@ -607,11 +599,11 @@ exports.data = {
          },
          {  
             "name":"​",
-            "value":"[Call of the sea](https://runescape.wiki/w/Pay-to-play_Fishing_training#Call_of_the_sea_auras) auras\n\t• Call of the sea auras increase a player's chance of catching a fish by a percentage (between 3% and 15%, depending on which aura is used) while they are activated.\n\t• Effects last for one hour after they are activated\n\t• Has a 3 hour cooldown after usage\n\t• Can be bought using [membership loyalty points](https://runescape.wiki/w/Membership_loyalty_points)"
+            "value":"[Call of the sea](https://runescape.wiki/w/Pay-to-play_Fishing_training#Call_of_the_sea_auras) auras\n\t• Call of the sea auras increase a player's chance of catching a fish by a percentage (between 3% and 15%, depending on which aura is used) while they are activated.\n\t• Effects last for one hour after they are activated\n\t• Has a 3 hour cool-down after usage\n\t• Can be bought using [membership loyalty points](https://runescape.wiki/w/Membership_loyalty_points)"
          },
          {  
             "name":"​",
-            "value":"[Brawling gloves (fishing)](https://runescape.wiki/w/Brawling_gloves_%28Fishing%29)\n\t• A 50% XP boost is given anywhere outside of the Wilderness. However, the buff increases up to 300% at level 47 Wilderness, just south of the fence. The gloves last for about 400 fish caught."
+            "value":"[Brawling gloves (fishing)](https://runescape.wiki/w/Brawling_gloves_%28Fishing%29)\n\t• A 50% XP boost is given anywhere outside of the [Wilderness](https://runescape.wiki/w/Wilderness). The buff increases to 4x base experience at level 47 Wilderness, just south of the fence. The gloves last for 400 fish caught."
          },
          {  
             "name":"​",
@@ -623,7 +615,7 @@ exports.data = {
          },
          {  
             "name":"​",
-            "value":"There are 5 different gloves available:\n\t• [Swordfish gloves](https://runescape.wiki/w/Swordfish_gloves): 100 extra experience per [raw swordfish](https://runescape.wiki/w/Raw_swordfish) caught\n\t• [Shark gloves](https://runescape.wiki/w/Shark_gloves): 100 extra experience per [raw shark](https://runescape.wiki/w/Raw_shark) caught\n\t• [Monkfish gloves](https://runescape.wiki/w/Monkfish_gloves): 100 extra experience per [raw monkfish](https://runescape.wiki/w/Raw_monkfish) caught\n\t• [Cavefish gloves](https://runescape.wiki/w/Cavefish_gloves): 150 extra experience per [raw cavefish](https://runescape.wiki/w/Raw_cavefish) caught\n\t• [Rocktail gloves](https://runescape.wiki/w/Rocktail_gloves): 150 extra experience per [raw rocktail](https://runescape.wiki/w/Raw_rocktail) caught"
+            "value":"There are 5 different gloves available:\n\t• [Swordfish gloves](https://runescape.wiki/w/Swordfish_gloves) for a boost at 100 extra experience per [raw swordfish](https://runescape.wiki/w/Raw_swordfish) caught\n\t• [Shark gloves](https://runescape.wiki/w/Shark_gloves) for a boost at 100 extra experience per [raw shark](https://runescape.wiki/w/Raw_shark) caught\n\t• [Monkfish gloves](https://runescape.wiki/w/Monkfish_gloves) for a boost at 100 extra experience per [raw monkfish](https://runescape.wiki/w/Raw_monkfish) caught\n\t• [Cavefish gloves](https://runescape.wiki/w/Cavefish_gloves) for a boost at 150 extra experience per [raw cavefish](https://runescape.wiki/w/Raw_cavefish) caught\n\t• [Rocktail gloves](https://runescape.wiki/w/Rocktail_gloves) for a boost at 150 extra experience per [raw rocktail](https://runescape.wiki/w/Raw_rocktail) caught"
          }
         ]
   },
@@ -635,7 +627,7 @@ exports.data = {
          },
          {  
             "name":"​",
-            "value":"There are 5 different skillchompas available:\n\t• [Cobalt skillchompa](https://runescape.wiki/w/Cobalt_skillchompa): requires 31 Fishing and increases your chances by 1%\n\t• [Viridian skillchompa](https://runescape.wiki/w/Viridian_skillchompa): requires 41 Fishing and increases your chances by 2%\n\t• [Azure skillchompa](https://runescape.wiki/w/Azure_skillchompa): requires 51 Fishing and increases your chances by 3%\n\t• [Crimson skillchompa](https://runescape.wiki/w/Crimson_skillchompa): requires 61 Fishing and increases your chances by 4%\n\t• [Crystal skillchompa](https://runescape.wiki/w/Crystal_skillchompa): requires 71 Fishing and increases your chances by 5%"
+            "value":"There are 5 different skillchompas available:\n\t• [Cobalt skillchompa](https://runescape.wiki/w/Cobalt_skillchompa) for a boost at requires 31 Fishing and increases your chances by 1%\n\t• [Viridian skillchompa](https://runescape.wiki/w/Viridian_skillchompa) for a boost at requires 41 Fishing and increases your chances by 2%\n\t• [Azure skillchompa](https://runescape.wiki/w/Azure_skillchompa) for a boost at requires 51 Fishing and increases your chances by 3%\n\t• [Crimson skillchompa](https://runescape.wiki/w/Crimson_skillchompa) for a boost at requires 61 Fishing and increases your chances by 4%\n\t• [Crystal skillchompa](https://runescape.wiki/w/Crystal_skillchompa) for a boost at requires 71 Fishing and increases your chances by 5%"
          },
          {  
             "name":"​",
@@ -643,7 +635,7 @@ exports.data = {
          },
          {  
             "name":"​",
-            "value":"[Whopper-baiting scrimshaw](https://runescape.wiki/w/Whopper-baiting_scrimshaw)\nWhopper-baiting scrimshaws can be activated to give players a chance of attracting a big fish while fishing. This awards additional Fishing experience, although the big fish are never successfully caught by the player. Whopper-baiting scrimshaws can be activated and deactivated when the player chooses, providing that a 10 second cooldown has passed. The [inferior whopper-baiting scrimshaw](https://runescape.wiki/w/Whopper-baiting_scrimshaw) gives a 15% chance of attracting a big fish to gain more experience and requires level 70 Fishing to use. The inferior scrimshaw is tradeable and lasts for 3 hours. The [superior whopper-baiting scrimshaw](https://runescape.wiki/w/Superior_whopper-baiting_scrimshaw) gives a 20% chance of attracting a big fish to gain more experience and requires level 80 Fishing to use. The superior scrimshaw lasts for 4 hours but it is untradeable."
+            "value":"[Whopper-baiting scrimshaw](https://runescape.wiki/w/Whopper-baiting_scrimshaw)\nWhopper-baiting scrimshaws can be activated to give players a chance of attracting a big fish while fishing. This awards additional Fishing experience, although the big fish are never successfully caught by the player. Whopper-baiting scrimshaws can be activated and deactivated when the player chooses, providing that a 10 second cool-down has passed. The [inferior whopper-baiting scrimshaw](https://runescape.wiki/w/Whopper-baiting_scrimshaw) gives a 15% chance of attracting a big fish to gain more experience and requires level 70 Fishing to use. The inferior scrimshaw is tradeable and lasts for 3 hours. The [superior whopper-baiting scrimshaw](https://runescape.wiki/w/Superior_whopper-baiting_scrimshaw) gives a 20% chance of attracting a big fish to gain more experience and requires level 80 Fishing to use. The superior scrimshaw lasts for 4 hours but it is untradeable."
          },
          {  
             "name":"​",
