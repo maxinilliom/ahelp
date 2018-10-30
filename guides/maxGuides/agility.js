@@ -359,7 +359,15 @@ exports.data = {
 { 
 "name": "​", 
 "value": "The player will be given a choice between two skills in which to gain experience: Agility or Crafting, Farming or Herblore, and Hunter or Woodcutting. Different skills are offered on different worlds, so players may change worlds to find a world where the skill in which they wish to gain experience is offered. Between 495, with level 1, and 48,515, with level 99, experience can be gained from exchanging 10 goebie supplies. Assuming the activity is completed in 5 minutes, experience is awarded at a rate equivalent to between 5,940, with level 1, and 582,180, with level 99, experience an hour." 
-} 
+},
+{  
+  "name":"▬▬ Temple Trekking (Agility tome) ▬▬",
+  "value":"An [agility tome](https://runescape.wiki/w/agility_tome) is a experience reward from the minigame, [Temple Trekking](https://runescape.wiki/w/Temple_Trekking). You can get one by taking one of the followers to [Paterdomus](https://runescape.wiki/w/Paterdomus) or to [Burgh de Rott](https://runescape.wiki/w/Burgh_de_Rott). At the end, you will get a [Reward token](https://runescape.wiki/w/Reward_token), which you can exchange by clicking on the first option, *Claim-reward*. You aren't able to chose which skill the tome will give experience in, and it will be randomly selected among Agility, Firemaking, Fishing, Mining, Slayer, Thieving, and Woodcutting."
+},
+{  
+  "name":"​",
+  "value":"The color of the tome depends upon the level of the reward token. A higher level reward token will give more Agility experience. The possible tomes are:\n\t• [Agility tome (blue)](https://runescape.wiki/w/Agility_tome_(blue) - level 1 tome which will give you between 1,100 and 1,650 Agility experience\n\t• [Agility tome (yellow)](https://runescape.wiki/w/Agility_tome_(yellow) - level 2 tome which will give you between 2,035 and 3,025 Agility experience\n\t• [Agility tome (red)](https://runescape.wiki/w/Agility_tome_(red) - level 3 tome which will give you between 4,015 and 5,005 Agility experience"
+}
 ] 
 },
   "daily challenge": {

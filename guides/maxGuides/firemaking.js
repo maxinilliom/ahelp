@@ -348,6 +348,14 @@ exports.data = {
 { 
 "name": "​", 
 "value": "To gain the most experience from the Firemaking performance, players should begin by performing the highest recommended level trick for their current Firemaking level, and work down to the trick with a recommended level half of their current Firemaking level. After this, players should perform any tricks with a recommended Firemaking level which is greater than their current Firemaking level and then finally perform any tricks with a recommended level of less than half of their current Firemaking level. The Distraction and Diversion's interface will display the recommended Firemaking level for the performance's tricks, as well as show which tricks the player has performed successfully. With completion of the [Back to the Freezer](https://runescape.wiki/w/Back_to_the_Freezer) quest, players may gain up to 1.5 times as much experience from each trick, at level 99." 
+},
+{  
+  "name":"▬▬ Temple Trekking (Firemaking tome) ▬▬",
+  "value":"A [firemaking tome](https://runescape.wiki/w/Firemaking_tome) is a experience reward from the minigame, [Temple Trekking](https://runescape.wiki/w/Temple_Trekking). You can get one by taking one of the followers to [Paterdomus](https://runescape.wiki/w/Paterdomus) or to [Burgh de Rott](https://runescape.wiki/w/Burgh_de_Rott). At the end, you will get a [Reward token](https://runescape.wiki/w/Reward_token), which you can exchange by clicking on the first option, *Claim-reward*. You aren't able to chose which skill the tome will give experience in, and it will be randomly selected among Agility, Firemaking, Fishing, Mining, Slayer, Thieving, and Woodcutting."
+},
+{  
+  "name":"​",
+  "value":"The color of the tome depends upon the level of the reward token. A higher level reward token will give more Firemaking experience. The possible tomes are:\n\t• [Firemaking tome (blue)](https://runescape.wiki/w/Firemaking_tome_(blue) - level 1 tome which will give you between 1,100 and 1,650 Firemaking experience\n\t• [Firemaking tome (yellow)](https://runescape.wiki/w/Firemaking_tome_(yellow) - level 2 tome which will give you between 2,035 and 3,025 Firemaking experience\n\t• [Firemaking tome (red)](https://runescape.wiki/w/Firemaking_tome_(red) - level 3 tome which will give you between 4,015 and 5,005 Firemaking experience"
 }
 ] 
 },
