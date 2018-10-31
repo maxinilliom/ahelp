@@ -304,7 +304,7 @@ exports.data = {
       }
       ]
   },
-  "distractions and diversions": { 
+  "distractions and diversions pt1": { 
 "title": "Distractions and Diversions", 
 "url": "https://runescape.wiki/w/Distractions_and_Diversions", 
 "description": "D&Ds are a subclassification of [minigames](https://runescape.wiki/w/Minigames). However, unlike minigames, many D&Ds move around the world to various locations, have a limit on how often they can be played, and only occur at particular times of day.\n\nDistractions and Diversions aim to divert the original intentions of the player in order to provide an interesting distraction from their everyday routines. D&Ds come in many different shapes and sizes; covering Combat, Gathering, Artisan, and Support skills. There are a wide variety of different options available to suit the players choice.", 
@@ -348,8 +348,12 @@ exports.data = {
 { 
 "name": "​", 
 "value": "To gain the most experience from the Firemaking performance, players should begin by performing the highest recommended level trick for their current Firemaking level, and work down to the trick with a recommended level half of their current Firemaking level. After this, players should perform any tricks with a recommended Firemaking level which is greater than their current Firemaking level and then finally perform any tricks with a recommended level of less than half of their current Firemaking level. The Distraction and Diversion's interface will display the recommended Firemaking level for the performance's tricks, as well as show which tricks the player has performed successfully. With completion of the [Back to the Freezer](https://runescape.wiki/w/Back_to_the_Freezer) quest, players may gain up to 1.5 times as much experience from each trick, at level 99." 
-},
-{  
+}
+      ]
+    },
+  "distractions and diversions pt2": {
+      "fields": [
+        {  
   "name":"▬▬ Temple Trekking (Firemaking tome) ▬▬",
   "value":"A [firemaking tome](https://runescape.wiki/w/Firemaking_tome) is a experience reward from the minigame, [Temple Trekking](https://runescape.wiki/w/Temple_Trekking). You can get one by taking one of the followers to [Paterdomus](https://runescape.wiki/w/Paterdomus) or to [Burgh de Rott](https://runescape.wiki/w/Burgh_de_Rott). At the end, you will get a [Reward token](https://runescape.wiki/w/Reward_token), which you can exchange by clicking on the first option, *Claim-reward*. You aren't able to chose which skill the tome will give experience in, and it will be randomly selected among Agility, Firemaking, Fishing, Mining, Slayer, Thieving, and Woodcutting."
 },
@@ -357,8 +361,13 @@ exports.data = {
   "name":"​",
   "value":"The color of the tome depends upon the level of the reward token. A higher level reward token will give more Firemaking experience. The possible tomes are:\n\t• [Firemaking tome (blue)](https://runescape.wiki/w/Firemaking_tome_(blue) - level 1 tome which will give you between 1,100 and 1,650 Firemaking experience\n\t• [Firemaking tome (yellow)](https://runescape.wiki/w/Firemaking_tome_(yellow) - level 2 tome which will give you between 2,035 and 3,025 Firemaking experience\n\t• [Firemaking tome (red)](https://runescape.wiki/w/Firemaking_tome_(red) - level 3 tome which will give you between 4,015 and 5,005 Firemaking experience"
 }
-] 
-},
+      ],
+    "footer": {
+      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
+    },
+    "timestamp": "2001-01-04T12:00:00Z"
+    },
   "daily challenge": {
     "title": "Daily Challenge",
     "url": "https://runescape.wiki/w/Challenge_System/Firemaking",
@@ -418,7 +427,7 @@ exports.data = {
       {  
         "name":"Invention Perks",
         "value":"• With level 22 Invention, players can choose to firemaking using an [augmented crystal tinderbox](https://runescape.wiki/w/Augmented_crystal_tinderbox).\n\n[Tool gizmos](https://runescape.wiki/w/Tool_gizmo) with [perks](https://runescape.wiki/w/Perks) may be added to these items to give benefits to Firemaking. The most useful perks for Firemaking are:\n\t• [Tinker](https://runescape.wiki/w/Tinker) - a 5% chance per rank per action to increase the experience gained from that action by 25%. It does not work with [Superheat Form](https://runescape.wiki/w/Superheat_Form).\n\t• [Pyromaniac](https://runescape.wiki/w/Pyromaniac) - a 0.1% chance per rank to burn all of the logs of the same type in your inventory at once when adding logs to a bonfire\n\t• [Wise](https://runescape.wiki/w/Wise) - when equipped, +1% per rank additional experience, up to 50,000 XP per day"
-      }
+      },
       {
         "name": "Ring of Fire",
         "value": "• The [Ring of Fire](https://runescape.wiki/w/Ring_of_fire) is a reward from the [All Fired Up](https://runescape.wiki/w/All_Fired_Up_(minigame) [minigame](https://runescape.wiki/w/Minigame). The ring requires a Firemaking level of 79 to equip, which is also the minimum level needed to obtain the ring. In order to obtain the ring, the player must have 6 [beacons](https://runescape.wiki/w/Beacons) burning simultaneously.\n\nThe ring's effect adds an additional 2% Firemaking experience for burning logs. It also works when burning [curly roots](https://runescape.wiki/w/Curly_root)."

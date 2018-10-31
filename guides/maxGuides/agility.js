@@ -315,51 +315,55 @@ exports.data = {
       }
       ]
   },
-  "distractions and diversions": { 
-"title": "Distractions and Diversions", 
-"url": "https://runescape.wiki/w/Distractions_and_Diversions", 
-"description": "D&Ds are a subclassification of [minigames](https://runescape.wiki/w/Minigames). However, unlike minigames, many D&Ds move around the world to various locations, have a limit on how often they can be played, and only occur at particular times of day.\n\nDistractions and Diversions aim to divert the original intentions of the player in order to provide an interesting distraction from their everyday routines. D&Ds come in many different shapes and sizes; covering Combat, Gathering, Artisan, and Support skills. There are a wide variety of different options available to suit the players choice.", 
-"color": 12269891, 
-"footer": { 
-"icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg", 
-"text": "Achievement Help | Helping you reach your goals, whatever they may be!" 
-}, 
-"thumbnail": { 
-"url": "https://vignette.wikia.nocookie.net/runescape2/images/6/62/D%26D_icon.png/revision/latest?cb=20140914110639" 
-}, 
-"author": { 
-"name": "Max Cape Info", 
-"icon_url": "https://i.imgur.com/6c6q2iC.png" 
-}, 
-"fields": [ 
-{ 
-"name": "▬▬ The Pit ▬▬", 
-"value": "[The Pit](https://runescape.wiki/w/The_Pit) is a Distraction and Diversion that players may be invited to participate in approximately once every hour that they spend completing laps of an Agility course where a [Talent Scout](https://runescape.wiki/w/Talent_scout) is present. The player will be notified by a message in their chat-box if the talent scout is inviting them to play The Pit upon successful completion of a lap of an Agility course. Approximately 1 minute is given to talk to the talent scout to start The Pit." 
-}, 
-{ 
-"name": "​", 
-"value": "If the player accepts the talent scout's offer, then they will be transported to The Pit. The Distraction and Diversion will involve completing 1 of 6 possible simple activities, most of which are luck-based. Successfully completing a game of The Pit will reward the player with between 648 and 10,125 Agility experience, depending on which activity completed and on which Agility course they were taken from. The player will then have the option to gamble the experience reward that they have won. Gambling experience has a 1/3 chance of doubling the experience reward, a 1/3 chance of halving the experience reward, and a 1/3 chance of the experience reward being unchanged. If the player does not manage to complete The Pit, then they will receive between 216 and 3,376 Agility experience and will not have the opportunity to gamble for a larger experience reward." 
-}, 
-{ 
-"name": "▬▬ Balthazar Beauregard's Big Top Bonanza ▬▬", 
-"value": "Players can do an Agility performance at the [Balthazar Beauregard's Big Top Bonanza](https://runescape.wiki/w/Balthazar_Beauregard%27s_Big_Top_Bonanza) Distraction and Diversion once per week. To enter the circus, the player must gain a [circus ticket](https://runescape.wiki/w/Circus_ticket) from the [ticket vendor](https://runescape.wiki/w/Ticket_vendor), which is randomly located in 1 of 12 possible locations each week. The Agility performance can be started by entering the changing booth in the Agility performance area, transporting the player to the high wire." 
-}, 
-{ 
-"name": "​", 
-"value": "During the performance, players have 10 attempts to perform up to 10 different tricks. Agility experience is received upon the first successful attempt of each trick that the player performs. Repeating a trick does not grant additional experience. Each trick has a recommended Agility level to attempt, however the level is not required in order to perform the trick, as it is possible to succeed or fail a trick at any Agility level. When a trick is performed that has a higher recommended Agility level than the player has, the experience received will be the same as that given for performing a trick with half the recommended Agility level, rounded down." 
-}, 
-{ 
-"name": "​", 
-"value": "To gain the most experience from the Agility performance, players should begin by performing the highest recommended level trick for their current Agility level, and work down to the trick with a recommended level half of their current Agility level. After this, players should perform any tricks with a recommended Agility level which is greater than their current Agility level and then finally perform any tricks with a recommended level of less than half of their current Agility level. The Distraction and Diversion's interface will display the recommended Agility level for the performance's tricks, as well as show which tricks the player has performed successfully. With completion of the [Back to the Freezer](https://runescape.wiki/w/Back_to_the_Freezer) quest, players may gain up to 1.5 times as much experience from each trick, at level 99." 
-}, 
-{ 
-"name": "▬▬ Mazcab Supply Runs ▬▬", 
-"value": "[Supply Runs](https://runescape.wiki/w/Supply_run) are a safe activity that take place on [Mazcab](https://runescape.wiki/w/Mazcab) every 12 hours at 00:00 and 12:00 game time. The activity begins with [goebie supplies](https://runescape.wiki/w/Goebie_supplies) spawning at the supply rock in [Kanatah](https://runescape.wiki/w/Kanatah) and is available until 25 minutes past the hour. Players may take up to 10 goebie supplies per day from the supply rock. Upon taking goebie supplies, players become flagged for safe PvP and can be attacked by other players, with death resulting in the loss of all goebie supplies that the player is carrying. After obtaining goebie supplies, players must travel north-west through the [Nemi Forest](https://runescape.wiki/w/Nemi_Forest) to [Otot](https://runescape.wiki/w/Otot), where the supplies may be exchanged for experience with [Quercy](https://runescape.wiki/w/Quercy). " 
-}, 
-{ 
-"name": "​", 
-"value": "The player will be given a choice between two skills in which to gain experience: Agility or Crafting, Farming or Herblore, and Hunter or Woodcutting. Different skills are offered on different worlds, so players may change worlds to find a world where the skill in which they wish to gain experience is offered. Between 495, with level 1, and 48,515, with level 99, experience can be gained from exchanging 10 goebie supplies. Assuming the activity is completed in 5 minutes, experience is awarded at a rate equivalent to between 5,940, with level 1, and 582,180, with level 99, experience an hour." 
-},
+  "distractions and diversions pt1": { 
+    "title": "Distractions and Diversions", 
+    "url": "https://runescape.wiki/w/Distractions_and_Diversions", 
+    "description": "D&Ds are a subclassification of [minigames](https://runescape.wiki/w/Minigames). However, unlike minigames, many D&Ds move around the world to various locations, have a limit on how often they can be played, and only occur at particular times of day.\n\nDistractions and Diversions aim to divert the original intentions of the player in order to provide an interesting distraction from their everyday routines. D&Ds come in many different shapes and sizes; covering Combat, Gathering, Artisan, and Support skills. There are a wide variety of different options available to suit the players choice.", 
+    "color": 12269891, 
+    "footer": { 
+    "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg", 
+    "text": "Achievement Help | Helping you reach your goals, whatever they may be!" 
+    }, 
+    "thumbnail": { 
+    "url": "https://vignette.wikia.nocookie.net/runescape2/images/6/62/D%26D_icon.png/revision/latest?cb=20140914110639" 
+    }, 
+    "author": { 
+    "name": "Max Cape Info", 
+    "icon_url": "https://i.imgur.com/6c6q2iC.png" 
+    }, 
+    "fields": [ 
+    { 
+    "name": "▬▬ The Pit ▬▬", 
+    "value": "[The Pit](https://runescape.wiki/w/The_Pit) is a Distraction and Diversion that players may be invited to participate in approximately once every hour that they spend completing laps of an Agility course where a [Talent Scout](https://runescape.wiki/w/Talent_scout) is present. The player will be notified by a message in their chat-box if the talent scout is inviting them to play The Pit upon successful completion of a lap of an Agility course. Approximately 1 minute is given to talk to the talent scout to start The Pit." 
+    }, 
+    { 
+    "name": "​", 
+    "value": "If the player accepts the talent scout's offer, then they will be transported to The Pit. The Distraction and Diversion will involve completing 1 of 6 possible simple activities, most of which are luck-based. Successfully completing a game of The Pit will reward the player with between 648 and 10,125 Agility experience, depending on which activity completed and on which Agility course they were taken from. The player will then have the option to gamble the experience reward that they have won. Gambling experience has a 1/3 chance of doubling the experience reward, a 1/3 chance of halving the experience reward, and a 1/3 chance of the experience reward being unchanged. If the player does not manage to complete The Pit, then they will receive between 216 and 3,376 Agility experience and will not have the opportunity to gamble for a larger experience reward." 
+    }, 
+    { 
+    "name": "▬▬ Balthazar Beauregard's Big Top Bonanza ▬▬", 
+    "value": "Players can do an Agility performance at the [Balthazar Beauregard's Big Top Bonanza](https://runescape.wiki/w/Balthazar_Beauregard%27s_Big_Top_Bonanza) Distraction and Diversion once per week. To enter the circus, the player must gain a [circus ticket](https://runescape.wiki/w/Circus_ticket) from the [ticket vendor](https://runescape.wiki/w/Ticket_vendor), which is randomly located in 1 of 12 possible locations each week. The Agility performance can be started by entering the changing booth in the Agility performance area, transporting the player to the high wire." 
+    }, 
+    { 
+    "name": "​", 
+    "value": "During the performance, players have 10 attempts to perform up to 10 different tricks. Agility experience is received upon the first successful attempt of each trick that the player performs. Repeating a trick does not grant additional experience. Each trick has a recommended Agility level to attempt, however the level is not required in order to perform the trick, as it is possible to succeed or fail a trick at any Agility level. When a trick is performed that has a higher recommended Agility level than the player has, the experience received will be the same as that given for performing a trick with half the recommended Agility level, rounded down." 
+    }, 
+    { 
+    "name": "​", 
+    "value": "To gain the most experience from the Agility performance, players should begin by performing the highest recommended level trick for their current Agility level, and work down to the trick with a recommended level half of their current Agility level. After this, players should perform any tricks with a recommended Agility level which is greater than their current Agility level and then finally perform any tricks with a recommended level of less than half of their current Agility level. The Distraction and Diversion's interface will display the recommended Agility level for the performance's tricks, as well as show which tricks the player has performed successfully. With completion of the [Back to the Freezer](https://runescape.wiki/w/Back_to_the_Freezer) quest, players may gain up to 1.5 times as much experience from each trick, at level 99." 
+    }, 
+    { 
+    "name": "▬▬ Mazcab Supply Runs ▬▬", 
+    "value": "[Supply Runs](https://runescape.wiki/w/Supply_run) are a safe activity that take place on [Mazcab](https://runescape.wiki/w/Mazcab) every 12 hours at 00:00 and 12:00 game time. The activity begins with [goebie supplies](https://runescape.wiki/w/Goebie_supplies) spawning at the supply rock in [Kanatah](https://runescape.wiki/w/Kanatah) and is available until 25 minutes past the hour. Players may take up to 10 goebie supplies per day from the supply rock. Upon taking goebie supplies, players become flagged for safe PvP and can be attacked by other players, with death resulting in the loss of all goebie supplies that the player is carrying. After obtaining goebie supplies, players must travel north-west through the [Nemi Forest](https://runescape.wiki/w/Nemi_Forest) to [Otot](https://runescape.wiki/w/Otot), where the supplies may be exchanged for experience with [Quercy](https://runescape.wiki/w/Quercy). " 
+    }, 
+    { 
+    "name": "​", 
+    "value": "The player will be given a choice between two skills in which to gain experience: Agility or Crafting, Farming or Herblore, and Hunter or Woodcutting. Different skills are offered on different worlds, so players may change worlds to find a world where the skill in which they wish to gain experience is offered. Between 495, with level 1, and 48,515, with level 99, experience can be gained from exchanging 10 goebie supplies. Assuming the activity is completed in 5 minutes, experience is awarded at a rate equivalent to between 5,940, with level 1, and 582,180, with level 99, experience an hour." 
+    }
+  ]
+  },
+  "distractions and diversions pt2": {
+      "fields": [
 {  
   "name":"▬▬ Temple Trekking (Agility tome) ▬▬",
   "value":"An [agility tome](https://runescape.wiki/w/agility_tome) is a experience reward from the minigame, [Temple Trekking](https://runescape.wiki/w/Temple_Trekking). You can get one by taking one of the followers to [Paterdomus](https://runescape.wiki/w/Paterdomus) or to [Burgh de Rott](https://runescape.wiki/w/Burgh_de_Rott). At the end, you will get a [Reward token](https://runescape.wiki/w/Reward_token), which you can exchange by clicking on the first option, *Claim-reward*. You aren't able to chose which skill the tome will give experience in, and it will be randomly selected among Agility, Firemaking, Fishing, Mining, Slayer, Thieving, and Woodcutting."
@@ -368,8 +372,13 @@ exports.data = {
   "name":"​",
   "value":"The color of the tome depends upon the level of the reward token. A higher level reward token will give more Agility experience. The possible tomes are:\n\t• [Agility tome (blue)](https://runescape.wiki/w/Agility_tome_(blue) - level 1 tome which will give you between 1,100 and 1,650 Agility experience\n\t• [Agility tome (yellow)](https://runescape.wiki/w/Agility_tome_(yellow) - level 2 tome which will give you between 2,035 and 3,025 Agility experience\n\t• [Agility tome (red)](https://runescape.wiki/w/Agility_tome_(red) - level 3 tome which will give you between 4,015 and 5,005 Agility experience"
 }
-] 
-},
+],
+    "footer": {
+      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
+    },
+    "timestamp": "2001-01-04T12:00:00Z"
+  },
   "daily challenge": {
     "title": "Daily Challenge",
     "url": "https://runescape.wiki/w/Challenge_System/Agility",
