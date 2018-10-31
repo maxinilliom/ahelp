@@ -80,7 +80,7 @@ exports.run = async (client, message, args, level) => {
 
 	if (args[0].toLowerCase() == "clear" && level >= 2) {
 		if (!gl.has('daily')) return message.channel.send('No messages are currently stored for **daily**.');
-		const cl = gl.get('daily');
+		let cl = gl.get('daily');
 		const channel = cl[0];
 		if (message.channel.id !== channel) return message.channel.send(`Please use this command in the <#${message.guild.channels.get(channel).id}> channel that the embeds were originally sent in.`);
 		cl = cl.slice(1);
