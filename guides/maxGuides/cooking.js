@@ -357,15 +357,15 @@ exports.data = {
       },
       {
         "name": "​",
-        "value": "[Squiffberry](https://runescape.wiki/w/Squiffberry)\n• +2 Cooking levels\n• Requires access to [The Arc](https://runescape.wiki/w/The_Arc)\n• Reduces Defence by 1 level\n\n[Cooking urns](https://runescape.wiki/w/Cooking_urn)\n• +400-1,547.5 experience per urn (depends on the level of urn used)\n• +500-1,934.375 experience per urn if used with an [Urn Enhancer](https://runescape.wiki/w/Urn_enhancer) (requires 24 Invention and the [Nomad's Elegy](https://runescape.wikia.com/wiki/Nomad%27s_Elegy) quest)"
+        "value": "[Squiffberry](https://runescape.wiki/w/Squiffberry)\n• +2 Cooking levels\n• Requires access to [The Arc](https://runescape.wiki/w/The_Arc)\n• Reduces Defence by 1 level\n\n[Brawling Gloves (Cooking)](https://runescape.wiki/w/Brawling_gloves_(Cooking)\n• A 50% XP boost is given anywhere outside of the [Wilderness](https://runescape.wiki/w/Wilderness). The buff increases to 4x base experience at level 47 Wilderness, just south of the fence. The gloves disintegrate after 1,031 successful cooking actions performed."
+      },
+      {  
+        "name":"​",
+        "value":"[Cooking urns](https://runescape.wiki/w/Cooking_urn)\n• Fill up as you cook\n• Once full, the urn can be teleported for experience\n• Gives between 210 and 1,900 experience per urn (depends on level of urn used)\n• Using an [urn enhancer](https://runescape.wiki/w/Urn_enhancer) increases the experience gained when teleporting an urn by 25%\n• There are 5 types of Cooking urn: [cracked](https://runescape.wiki/w/Cracked_cooking_urn) which only fills when cooking food that require up to and including level 10 Cooking, [fragile](https://runescape.wiki/w/Fragile_cooking_urn) which is up to and including level 25 Cooking, [normal](https://runescape.wiki/w/cooking_urn) which is up to and including level 40 Cooking, [strong](https://runescape.wiki/w/Strong_cooking_urn) which is up to and including level 55 Cooking, and [decorated](https://runescape.wiki/w/Decorated_cooking_urn) which is up to and including level 99 Cooking"
       },
       {
         "name": "​",
-        "value": "[Brawling Gloves (Cooking)](https://runescape.wiki/w/Brawling_gloves_(Cooking)\n• A 50% XP boost is given anywhere outside of the [Wilderness](https://runescape.wiki/w/Wilderness). The buff increases to 4x base experience at level 47 Wilderness, just south of the fence. The gloves disintegrate after 1,031 successful cooking actions performed."
-      },
-      {
-        "name": "​",
-        "value": "[Bonfires](https://runescape.wiki/w/Bonfire)\n• Cooking on a Bonfire will earn a player 10% more experience. Additionally, they can be freely placed, allowing the player to cook closer to a bank."
+        "value": "[Bonfires](https://runescape.wiki/w/Bonfire)\n• Cooking on a Bonfire will earn a player 10% more experience. Additionally, they can be freely placed, allowing the player to cook closer to a bank.\n\n[Flameproof Auras](https://runescape.wiki/w/Flameproof_aura)\n• Reduces the chance of burning food between 3% and 15%, depending on which aura is used, while they are activated\n• Effects last for one hour after they are activated\n• Has a 3 hour cool-down after usage"
       },
       {
         "name": "​",

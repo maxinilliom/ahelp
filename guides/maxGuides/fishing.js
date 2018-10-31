@@ -603,7 +603,7 @@ exports.data = {
          },
          {  
             "name":"​",
-            "value":"[Call of the Sea Auras](https://runescape.wiki/w/Pay-to-play_Fishing_training#Call_of_the_sea_auras)\n• Call of the sea auras increase a player's chance of catching a fish by a percentage (between 3% and 15%, depending on which aura is used) while they are activated\n• Effects last for one hour after they are activated\n• Has a 3 hour cool-down after usage"
+            "value":"[Call of the Sea Auras](https://runescape.wiki/w/Call_of_the_sea_aura)\n• Increase a player's chance of catching a fish by a percentage between 3% and 15%, depending on which aura is used, while they are activated\n• Effects last for one hour after they are activated\n• Has a 3 hour cool-down after usage"
          },
          {  
             "name":"​",

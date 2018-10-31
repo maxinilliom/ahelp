@@ -220,7 +220,7 @@ exports.data = {
   "90 - 95": {
     "title": "Divination Training Levels 90-95",
     "url": "https://runescape.wiki/w/Divination_training#Luminous_wisps_.28levels_90.E2.80.9395.29",
-    "description": "From level 85, players can train at the [Luminous Wisp Colony](https://runescape.wiki/w/Luminous_wisp), which is located in the [Kharidian Desert](http://runescape.wikia.com/wiki/Kharidian_Desert), south of [Sophanem](https://runescape.wiki/w/Sophanem).\n\nWhen buying additional [luminous energy](https://runescape.wiki/w/Luminous_energy), players can gain around 83,000 experience an hour from training at sparkling wisps, or 71,000 experience an hour if not buying additional energy.",
+    "description": "From level 85, players can train at the [Luminous Wisp Colony](https://runescape.wiki/w/Luminous_wisp), which is located in the [Kharidian Desert](https://runescape.wikia.com/wiki/Kharidian_Desert), south of [Sophanem](https://runescape.wiki/w/Sophanem).\n\nWhen buying additional [luminous energy](https://runescape.wiki/w/Luminous_energy), players can gain around 83,000 experience an hour from training at sparkling wisps, or 71,000 experience an hour if not buying additional energy.",
         "color": 12269891,
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
@@ -298,7 +298,7 @@ exports.data = {
       },
       {
         "name": "​",
-        "value": "At level 99 divination, players using [decorated divination urns](http://runescape.wikia.com/wiki/Decorated_divination_urn), the [elder divination outfit](http://runescape.wikia.com/wiki/Elder_divination_outfit), and the [clan avatar](http://runescape.wikia.com/wiki/Clan_avatar) 6% boost can expect 250,000 experience an hour. This can be further increased to over 300,000 experience an hour when re-clicking the memories as soon as the experience drop occurs (called 2-ticking), allowing the player to collect memories and fill jars at a faster rate."
+        "value": "At level 99 divination, players using [decorated divination urns](https://runescape.wikia.com/wiki/Decorated_divination_urn), the [elder divination outfit](https://runescape.wikia.com/wiki/Elder_divination_outfit), and the [clan avatar](https://runescape.wikia.com/wiki/Clan_avatar) 6% boost can expect 250,000 experience an hour. This can be further increased to over 300,000 experience an hour when re-clicking the memories as soon as the experience drop occurs (called 2-ticking), allowing the player to collect memories and fill jars at a faster rate."
       },
       {
         "name": "​",
@@ -341,7 +341,7 @@ exports.data = {
       },
       {
         "name": "Methods which do not Work:",
-        "value": "• Making items with [divine energy](http://runescape.wikia.com/wiki/Divine_energy)"
+        "value": "• Making items with [divine energy](https://runescape.wikia.com/wiki/Divine_energy)"
       },
       {
         "name": "Formula:",
@@ -391,7 +391,7 @@ exports.data = {
     "fields": [ 
     { 
     "name": "▬▬ Guthixian Cache ▬▬", 
-    "value": "Players gain Divination experience as a reward for participating in the [Guthixian Cache](https://runescape.wiki/w/Guthixian_Cache) D&D. The activity takes place every hour and can be accessed using one of the [energy rifts](http://runescape.wikia.com/wiki/Energy_rift) found at any [wisp](https://runescape.wiki/w/Wisp) colony, except the energy rift located at the [pale wisp](https://runescape.wiki/w/Pale_wisp) and [cursed wisp](https://runescape.wiki/w/Cursed_wisp) colonies." 
+    "value": "Players gain Divination experience as a reward for participating in the [Guthixian Cache](https://runescape.wiki/w/Guthixian_Cache) D&D. The activity takes place every hour and can be accessed using one of the [energy rifts](https://runescape.wikia.com/wiki/Energy_rift) found at any [wisp](https://runescape.wiki/w/Wisp) colony, except the energy rift located at the [pale wisp](https://runescape.wiki/w/Pale_wisp) and [cursed wisp](https://runescape.wiki/w/Cursed_wisp) colonies." 
     }, 
     { 
     "name": "​", 
@@ -473,7 +473,7 @@ exports.data = {
       },
       {
         "name": "Elder Divination Outfit",
-        "value": "When the full [Elder Divination Outfit](https://runescape.wiki/w/Elder_divination_outfit) is worn, it has the following effects:\n\n• 3 daily teleports to any [wisp](http://runescape.wikia.com/wiki/Wisp) colony that the player has the required Divination level to use and quests completed.\n• 7% chance to harvest 2 [memories](https://runescape.wiki/w/Memories) at once, giving twice as much experience and divine energy.\n• 7% chance to get 2 [chronicle fragments](https://runescape.wiki/w/Chronicle_fragments)/[elder chronicles](https://runescape.wiki/w/Elder_chronicle_(item)/[knowledge fragments](https://runescape.wiki/w/Knowledge_fragment) at once when harvesting a chronicle fragment/elder chronicle/knowledge fragment.\n• 5% chance of getting five times the energy while harvesting wisps."
+        "value": "When the full [Elder Divination Outfit](https://runescape.wiki/w/Elder_divination_outfit) is worn, it has the following effects:\n\n• 3 daily teleports to any [wisp](https://runescape.wikia.com/wiki/Wisp) colony that the player has the required Divination level to use and quests completed.\n• 7% chance to harvest 2 [memories](https://runescape.wiki/w/Memories) at once, giving twice as much experience and divine energy.\n• 7% chance to get 2 [chronicle fragments](https://runescape.wiki/w/Chronicle_fragments)/[elder chronicles](https://runescape.wiki/w/Elder_chronicle_(item)/[knowledge fragments](https://runescape.wiki/w/Knowledge_fragment) at once when harvesting a chronicle fragment/elder chronicle/knowledge fragment.\n• 5% chance of getting five times the energy while harvesting wisps."
       },
       {
         "name": "​", 
@@ -504,11 +504,15 @@ exports.data = {
     "fields": [
       {
         "name": "Divination Boosts",
-        "value": "[Divination Cape](https://runescape.wiki/w/Divination_cape)\n• +1 level for 1 minute\n\n[Spicy Stew](https://runescape.wiki/w/Spicy_stew)\n• Boost is applied to a random skill\n• Each color [spice](https://runescape.wiki/w/Spicy_stew#Spices) affects different skills\n• Up to ±6 with 3 spice doses\n• Up to ±3 with 2 spice doses\n• Up to ±2 with 1 spice dose\n\n[God Banner](https://runescape.wiki/w/God_banner)\n• Skill boost: +2 levels\n• The boost can be used once per day and lasts for 30 minutes\n\n[Meloberry](https://runescape.wiki/w/Meloberry)\n• +2 Divination levels\n• Requires access to [The Arc](https://runescape.wiki/w/The_Arc)\n• Reduces Defence by 1 level\n\n[Enrichment Aura](https://runescape.wiki/w/Enrichment_aura)\n• Increase the chance to obtain an enriched memory by 3-15%"
+        "value": "[Divination Cape](https://runescape.wiki/w/Divination_cape)\n• +1 level for 1 minute\n\n[Spicy Stew](https://runescape.wiki/w/Spicy_stew)\n• Boost is applied to a random skill\n• Each color [spice](https://runescape.wiki/w/Spicy_stew#Spices) affects different skills\n• Up to ±6 with 3 spice doses\n• Up to ±3 with 2 spice doses\n• Up to ±2 with 1 spice dose\n\n[God Banner](https://runescape.wiki/w/God_banner)\n• Skill boost: +2 levels\n• The boost can be used once per day and lasts for 30 minutes\n\n[Meloberry](https://runescape.wiki/w/Meloberry)\n• +2 Divination levels\n• Requires access to [The Arc](https://runescape.wiki/w/The_Arc)\n• Reduces Defence by 1 level\n\n[Enrichment Auras](https://runescape.wiki/w/Enrichment_aura)\n• Increase the chance to obtain an enriched memory by 3-15%, depending on which aura is used, while they are activated\n• Effects last for one hour after they are activated\n• Has a 3 hour cool-down after usage"
+      },
+      {  
+        "name":"​",
+        "value":"[Divination urns](https://runescape.wiki/w/Divination_urn)\n• Fill up as you harvest and convert memories\n• Once full, the urn can be teleported for experience\n• Gives between 210 and 1,900 experience per urn (depends on level of urn used)\n• Using an [urn enhancer](https://runescape.wiki/w/Urn_enhancer) increases the experience gained when teleporting an urn by 25%\n• There are 5 types of Divination urn: [cracked](https://runescape.wiki/w/Cracked_divination_urn) which only fills when harvest and convert memories that require up to and including level 10 Divination, [fragile](https://runescape.wiki/w/Fragile_divination_urn) which is up to and including level 30 Divination, [normal](https://runescape.wiki/w/divination_urn) which is up to and including level 50 Divination, [strong](https://runescape.wiki/w/Strong_divination_urn) which is up to and including level 70 Divination, and [decorated](https://runescape.wiki/w/Decorated_divination_urn) which is up to and including level 99 Divination"
       },
       {
         "name": "​",
-        "value": "[Divination urns](https://runescape.wiki/w/Divination_urn)\n• +210-1,900 experience per urn (depends on the level of urn used)\n• +262.5-2,375 experience per urn if used with an [Urn Enhancer](https://runescape.wiki/w/Urn_enhancer) (requires 24 Invention and the [Nomad's Elegy](https://runescape.wikia.com/wiki/Nomad%27s_Elegy) quest)\n\n[Divination Potion](https://runescape.wikia.com/wiki/Divination_potion)\n• +3 levels\n\n[Super Divination Potion](https://runescape.wikia.com/wiki/Super_divination)\n• +5 levels\n\n[Extreme Divination Potion](https://runescape.wikia.com/wiki/Extreme_divination)\n• Boosts divination by 3 + 15% of the player's level, up to a maximum of +17 levels at level 94 divination"
+        "value": "[Divination Potion](https://runescape.wikia.com/wiki/Divination_potion)\n• +3 levels\n\n[Super Divination Potion](https://runescape.wikia.com/wiki/Super_divination)\n• +5 levels\n\n[Extreme Divination Potion](https://runescape.wikia.com/wiki/Extreme_divination)\n• Boosts divination by 3 + 15% of the player's level, up to a maximum of +17 levels at level 94 divination"
       },
       ]
     }

@@ -637,8 +637,12 @@ exports.data = {
       },
       {
         "name": "​",
-        "value": "[Perfect Juju Farming Potion](https://runescape.wiki/w/Perfect_juju_farming_potion)\n• 5% chance of getting harmony moss from any farming patch \n• 25% chance of getting two harmony moss at once from a harmony pillar\n\n[Farming urns](https://runescape.wiki/w/Farming_urn)\n• +220-1,400 experience per urn (depends on the level of urn used)\n• +275-1,750 experience per urn if used with an [Urn Enhancer](https://runescape.wiki/w/Urn_enhancer) (requires 24 Invention and the [Nomad's Elegy](https://runescape.wikia.com/wiki/Nomad%27s_Elegy) quest)"
-      }
+        "value": "[Perfect Juju Farming Potion](https://runescape.wiki/w/Perfect_juju_farming_potion)\n• 5% chance of getting harmony moss from any farming patch \n• 25% chance of getting two harmony moss at once from a harmony pillar\n\n[Greenfingers Auras](https://runescape.wiki/w/Call_of_the_sea_aura)\n• Prevents crops from becoming diseased and provides a percentage between 3% and 15% chance of increased crop yield, depending on which aura is used, while they are activated\n• Effects last for one hour after they are activated\n• Has a 3 hour cool-down after usage"
+      },
+      {  
+        "name":"​",
+        "value":"[Farming urns](https://runescape.wiki/w/Farming_urn)\n• Fill up as you check health of and gather crops\n• Once full, the urn can be teleported for experience\n• Gives between 220 and 1,400 experience per urn (depends on level of urn used)\n• Using an [urn enhancer](https://runescape.wiki/w/Urn_enhancer) increases the experience gained when teleporting an urn by 25%\n• There are 5 types of Farming urn: [cracked](https://runescape.wiki/w/Cracked_farming_urn) which only fills when farming and checking crops that require up to and including level 10 Farming, [fragile](https://runescape.wiki/w/Fragile_farming_urn) which is up to and including level 30 Farming, [normal](https://runescape.wiki/w/farming_urn) which is up to and including level 50 Farming, [strong](https://runescape.wiki/w/Strong_farming_urn) which is up to and including level 70 Farming, and [decorated](https://runescape.wiki/w/Decorated_farming_urn) which is up to and including level 99 Farming"
+      },
        ]
   }
 };
