@@ -690,7 +690,7 @@ exports.data = {
       "name": "RuneScore Achievement Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Psychedelic Relics](https://runescape.wiki/w/Psychedelic_Relics) is an achievement that requires the player to disassemble a combination of 5 [rare laboratory relics](https://runescape.wiki/w/Laboratory_relic_(rare%29) or [rare relics of Aminishi](https://runescape.wiki/w/Relic_of_aminishi_(rare%29).\n\nThere is a bug when disassembling noted relics, as they will not count towards the achievement. Therefore, it is currently required not to note them.\n\nIt is highly recommended that the player fills up their loot chest with 32 items without having the rare relics in the chest. This way, the player has a chance of obtaining 2 rare relics when recieving a rare relic drop.",
+    "description": "[Psychedelic Relics](https://runescape.wiki/w/Psychedelic_Relics) is an achievement that requires the player to disassemble a combination of 5 [rare laboratory relics](https://runescape.wiki/w/Laboratory_relic_(rare%29) or [rare relics of Aminishi](https://runescape.wiki/w/Relic_of_aminishi_(rare%29).\n\nThere is a bug when disassembling noted relics, as they will not count towards the achievement. Therefore, it is currently required not to note them.\n\nIt is highly recommended that the player fills up their loot chest with 32 items without having the rare relics in the chest. This way, the player has a chance of obtaining 2 rare relics when receiving a rare relic drop.",
     "thumbnail": {
       "url": "https://i.imgur.com/Shmagnp.png"
     },
