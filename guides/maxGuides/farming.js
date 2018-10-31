@@ -582,11 +582,15 @@ exports.data = {
       {
         "name": "Farming Cape",
         "value": "• The [Farming Cape](https://runescape.wiki/w/Farming_cape)'s perk provides a chance to instantly harvest all remaining resources from a crop (stacks with [Juju Farming Potion](https://runescape.wiki/w/Juju_farming_potion) and [Greenfinger Auras](https://runescape.wiki/w/Greenfingers_aura)), and notes the harvested crops automatically."
-      }
+      },
     ]
   },
   "permanent boosts pt2": {
     "fields": [
+      {
+        "name": "Ring of Whispers",
+        "value": "• The [Ring of Whispers](https://runescape.wiki/w/Ring_of_Whispers) is a reward from the [Sliske's Endgame](https://runescape.wiki/w/Sliske%27s_Endgame) quest. When equipped, it provides a +3 invisible bonus to gathering skills. The invisible boost stacks with [familiar](https://runescape.wiki/w/Summoning_familiars) invisible boosts. Wearing the ring along with the [Necklace of Shadows](https://runescape.wiki/w/Necklace_of_Shadows) and the [Combined Catalyst fragment](https://runescape.wiki/w/Combined_Catalyst_fragment) allows players to occasionally find [Manifested knowledge](https://runescape.wiki/w/Manifested_knowledge) when training which will offer experience in the skill they were training when it appeared."
+      },
       {
         "name": "Scroll of Life",
         "value": "• The [Scroll of Life](https://runescape.wiki/w/Scroll_of_life) is a Dungeoneering reward that can be purchased for 10,000 [Dungeoneering reward tokens](https://runescape.wiki/w/Dungeoneering_token). It requires a Farming level of 25 and a Dungeoneering level of 25. Once used, the scroll will disappear, giving the player the following permanent effect: when harvesting non-[tree](https://runescape.wiki/w/Farming#Trees) non-flower patches, including dead ones, the player will have a 10% chance of receiving seeds back. There is also a 5% chance of getting a seed back from a dead tree or stump."
