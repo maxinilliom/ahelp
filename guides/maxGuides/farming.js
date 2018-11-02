@@ -463,7 +463,7 @@ exports.data = {
     },
     "fields": [
       {
-        "name": "Complete List by RS Wiki",
+        "name": "Complete List by RS Wiki:",
         "value": "The full list may be found [here](https://runescape.wiki/w/Quests/Experience_rewards#Farming)."
       }
       ]
