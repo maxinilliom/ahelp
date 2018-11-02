@@ -1,37 +1,4 @@
 exports.data = {
-    "deathmatch": {  
-      "title":"Preparation:",
-      "description":"All are welcome! We will be teaching how to do the event on Discord if any learners are apprehensive about coming.\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Deathmatch).",
-      "footer":{  
-         "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
-         "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
-      },
-      "thumbnail":{  
-         "url":"https://vignette.wikia.nocookie.net/runescape2/images/b/b8/Deathmatch_points.png/revision/latest?cb=20170128230705"
-      },
-      "author":{  
-         "name":"Deathmatch Community Event",
-         "icon_url":"https://i.imgur.com/6c6q2iC.png"
-      },
-      "fields":[  
-         {  
-            "name":"​Where:",
-            "value":"[Deathmatch](https://runescape.wiki/w/Deathmatch) lobby, World 68 in <@113770763261181961>'s friends chat. The [minigame](https://runescape.wiki/w/Minigames)'s lobby is an instance shard world, which can be accessed through a hatch at the north-eastern border of [Edgeville](https://runescape.wiki/w/Edgeville)."
-         },
-         {  
-            "name":"​Why:",
-            "value":"To assist everyone who needs to unlock the [music](https://runescape.wiki/w/Music) track, who want to unlock Deathmatch [rewards](https://runescape.wiki/w/Deathmatch#Rewards) such as the [small rune pouch](https://runescape.wiki/w/Small_rune_pouch) or [Revenant drop enhancer](https://runescape.wiki/w/Revenant_drop_enhancer), or for those who just want to have fun."
-         },
-         {  
-            "name":"​Who:",
-            "value":"<@294617234033213450>, <@113770763261181961>, <@212672527405678592>, their [Achievement Help](https://www.discord.gg/uUUMPbd) Discord team, and their [Alright](https://discord.gg/KwysmXr) clan."
-         },
-         {  
-            "name":"​What is Needed:",
-           "value":"This is a safe minigame.  Any gear is permitted. [Tier](https://runescape.wiki/w/Equipment_tier) 70+ armor and weapon are recommended, though not required. The better the tier, the better chance you have of surviving."
-         }
-      ]
-   },
     "capping": {  
       "title":"Preparation:",
       "description":"Guests are welcome, but only clan members will be able to use the [Skill plots](https://runescape.wiki/w/Clan_Citadel#Skill_plots).",
@@ -102,6 +69,39 @@ exports.data = {
          }
       ]
    },
+    "castle wars": {  
+      "title":"Preparation:",
+      "description":"All are welcome! We will be teaching how to do the event on Discord if any learners are apprehensive about coming.\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Castle_Wars).",
+      "footer":{  
+         "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
+         "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
+      },
+      "thumbnail":{  
+         "url":"https://runescape.wiki/images/4/49/Castle_Wars_icon.jpg?b4023"
+      },
+      "author":{  
+         "name":"Castle Wars Community Event",
+         "icon_url":"https://i.imgur.com/6c6q2iC.png"
+      },
+      "fields":[  
+         {  
+            "name":"​Where:",
+            "value":"[Castle Wars](https://runescape.wiki/w/Castle_Wars) lobby, World 68 in <@113770763261181961>'s friends chat."
+         },
+         {  
+            "name":"​Why:",
+            "value":"To assist everyone who needs to unlock the [music](https://runescape.wiki/w/Music) track, complete the [How Many Games](https://runescape.wiki/w/How_Many_Games%3F) achievement (Show a full set of profound armour to Lanthus), the [No Time to Lose](https://runescape.wiki/w/No_Time_to_Lose) achievement (Use a ring of duelling to teleport to Castle Wars by choosing the Castle Wars option on the ring), the [What Year Is It](https://runescape.wiki/w/What_Year_Is_It%3F) achievement (Cast Ice Barrage 99 times in Castle Wars), or for those who just want to have fun."
+         },
+         {  
+            "name":"​Who:",
+            "value":"<@294617234033213450>, <@113770763261181961>, <@212672527405678592>, their [Achievement Help](https://www.discord.gg/uUUMPbd) Discord team, and their [Alright](https://discord.gg/KwysmXr) clan."
+         },
+         {  
+            "name":"​What is Needed:",
+           "value":"This is a safe minigame.  Any gear is permitted. [Tier](https://runescape.wiki/w/Equipment_tier) 70+ armor and weapon are recommended, though not required. The better the tier, the better chance you have of surviving."
+         }
+      ]
+   },
     "clue scrolls": {  
       "title":"What Are Clue Scrolls?:",
       "description": "A Clue scroll sends the player on [Treasure Trails](https://runescape.wiki/w/Treasure_Trails), a series of clues leading towards a buried treasure. Clue scrolls can be randomly dropped by various [monsters](https://runescape.wiki/w/Bestiary), found while pickpocketing [H.A.M. Members](https://runescape.wiki/w/H.A.M._Member) and [Elven clan workers](https://runescape.wiki/w/Elven_clan_worker), looted from a [Treasure chest decoration](https://runescape.wiki/w/Treasure_chest_decoration), [Managing Miscellania](https://runescape.wiki/w/Managing_Miscellania) [rewards](https://runescape.wiki/w/Managing_Miscellania#Rewards) coffer, or purchased with [Thaler](https://runescape.wiki/w/Thaler) or [Treasure Trail points](https://runescape.wiki/w/Treasure_Trails_Reward_Shop#Treasure_Trail_Points). Players will only be able to open one [sealed clue scroll](https://runescape.wiki/w/Sealed_clue_scroll) if they do not already have one of the same type active in their inventory or bank.\n\nSealed clue scrolls can also be obtained from Fishing, Mining, Woodcutting, or Divination. The tier of clue scroll players receive is weighted based on their level of the activity, with elites appearing at level 60 training methods and higher. There is always a 1% chance for a sealed elite clue to upgrade to a [sealed master clue](https://runescape.wiki/w/Sealed_clue_scroll_(master). This can, however, be boosted to a 2% chance if the invention perk [Prosper](https://runescape.wiki/w/Prosper) is in use.",
@@ -167,6 +167,76 @@ exports.data = {
          "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
       }
     }, 
+    "corporeal beast": {  
+      "title":"Preparation:",
+      "description":"All are welcome! We will be teaching how to do the boss on Discord if any learners are apprehensive about coming.\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Corporeal_Beast/Strategies) or a video guide [here](https://www.youtube.com/watch?v=lfwu9Owd5kg).",
+      "footer":{  
+         "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
+         "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
+      },
+      "thumbnail":{  
+         "url":"https://runescape.wiki/images/5/5c/Corporeal_Beast.png?36acd"
+      },
+      "author":{  
+         "name":"Corporeal Beast Community Event",
+         "icon_url":"https://i.imgur.com/6c6q2iC.png"
+      },
+      "fields":[  
+         {  
+            "name":"​Where:",
+            "value":"The [Corporeal Lair](https://runescape.wiki/w/Corporeal_Beast#Habitat), World 68 in <@113770763261181961>'s friends chat."
+         },
+         {  
+            "name":"​Why:",
+            "value":"To assist everyone who needs [Corporeal Beast](https://runescape.wiki/w/Corporeal_Beast) for:\n\n• Their [the Reaper](https://runescape.wiki/w/The_Reaper) title for the [Completionist Cape](https://runescape.wiki/w/Completionist_cape) [Reaper Crew requirement](https://runescape.wiki/w/Reaper_Crew)\n• Their [Final Boss](https://runescape.wiki/w/Final_Boss) title\n• Their [Insane Final Boss](https://runescape.wiki/w/Insane_Final_Boss) title\n• Completing the [Glutton for Punishment](https://runescape.wiki/w/Glutton_For_Punishment) achievement (Get the Corporeal Beast to devour a variety of delicious familiars.)\n• Completing the [Out of Body experience](https://runescape.wiki/w/Out_of_Body_experience) achievement (Obtain a collection of unique drops from Corporeal Beast.)\n• Completing their [Corporeal Punishment](https://runescape.wiki/w/Corporeal_Punishment) achievement\n(Defeat Corporeal Beast 5, 10, 25, 50, 75, and 100 times, depending on the tier.)"
+         },
+         {  
+            "name":"​Who:",
+            "value":"<@294617234033213450>, <@113770763261181961>, <@212672527405678592>, their [Achievement Help](https://www.discord.gg/uUUMPbd) Discord team, and their [Alright](https://discord.gg/KwysmXr) clan."
+         },
+         {  
+            "name":"​What is Needed:",
+            "value":"Any gear is permitted. [Tier](https://runescape.wiki/w/Equipment_tier) 70+ armor and weapon are recommended and appreciated, though not required. The better the tier, the better chance you have of surviving and the faster the kills."
+         },
+         {  
+            "name":"​How Drops Work:",
+            "value":"Drops are dispersed via [lootshare](https://runescape.wiki/w/LootShare) to whoever is in the friend's chat. All drops are kept by their recipients."
+         }
+      ]
+   },
+    "deathmatch": {  
+      "title":"Preparation:",
+      "description":"All are welcome! We will be teaching how to do the event on Discord if any learners are apprehensive about coming.\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Deathmatch).",
+      "footer":{  
+         "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
+         "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
+      },
+      "thumbnail":{  
+         "url":"https://vignette.wikia.nocookie.net/runescape2/images/b/b8/Deathmatch_points.png/revision/latest?cb=20170128230705"
+      },
+      "author":{  
+         "name":"Deathmatch Community Event",
+         "icon_url":"https://i.imgur.com/6c6q2iC.png"
+      },
+      "fields":[  
+         {  
+            "name":"​Where:",
+            "value":"[Deathmatch](https://runescape.wiki/w/Deathmatch) lobby, World 68 in <@113770763261181961>'s friends chat. The [minigame](https://runescape.wiki/w/Minigames)'s lobby is an instance shard world, which can be accessed through a hatch at the north-eastern border of [Edgeville](https://runescape.wiki/w/Edgeville)."
+         },
+         {  
+            "name":"​Why:",
+            "value":"To assist everyone who needs to unlock the [music](https://runescape.wiki/w/Music) track, who want to unlock Deathmatch [rewards](https://runescape.wiki/w/Deathmatch#Rewards) such as the [small rune pouch](https://runescape.wiki/w/Small_rune_pouch) or [Revenant drop enhancer](https://runescape.wiki/w/Revenant_drop_enhancer), or for those who just want to have fun."
+         },
+         {  
+            "name":"​Who:",
+            "value":"<@294617234033213450>, <@113770763261181961>, <@212672527405678592>, their [Achievement Help](https://www.discord.gg/uUUMPbd) Discord team, and their [Alright](https://discord.gg/KwysmXr) clan."
+         },
+         {  
+            "name":"​What is Needed:",
+           "value":"This is a safe minigame.  Any gear is permitted. [Tier](https://runescape.wiki/w/Equipment_tier) 70+ armor and weapon are recommended, though not required. The better the tier, the better chance you have of surviving."
+         }
+      ]
+   },
     "general graardor": {  
       "title":"Preparation:",
       "description":"All are welcome! We will be teaching how to do the boss on Discord if any learners are apprehensive about coming.\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/General_Graardor/Strategies) or a video guide [here](https://www.youtube.com/watch?v=CDur0jqFF_8).",
@@ -308,6 +378,43 @@ exports.data = {
          {  
             "name":"What is Needed:",
             "value":"Nothing! All hiding spots will be in places that are not locked by [quest](https://runescape.wiki/w/Quests) or [skill](https://runescape.wiki/w/Skills) requirements."
+         }
+      ]
+   },
+      "kalphite king": {  
+      "title":"Preparation:",
+      "description":"All are welcome! We will be teaching how to do the boss on Discord if any learners are apprehensive about coming.\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Kalphite_King/Strategies) or a video guide [here](https://www.youtube.com/watch?v=vgAEnOtkUG4).",
+      "footer":{  
+         "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
+         "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
+      },
+      "thumbnail":{  
+         "url":"https://runescape.wiki/images/9/92/Kalphite_King_%28Magic%29.png?51e9f"
+      },
+      "author":{  
+         "name":"Kalphite King Community Event",
+         "icon_url":"https://i.imgur.com/6c6q2iC.png"
+      },
+      "fields":[  
+         {  
+            "name":"​Where:",
+            "value":"The [Exiled Kalphite Hive](https://runescape.wiki/w/Exiled_Kalphite_Hive), World 68 in <@113770763261181961>'s friends chat."
+         },
+         {  
+            "name":"​Why:",
+            "value":"To assist everyone who needs [Kalphite King](https://runescape.wiki/w/Kalphite_King) for:\n\n• Their [the Reaper](https://runescape.wiki/w/The_Reaper) title for the [Completionist Cape](https://runescape.wiki/w/Completionist_cape) [Reaper Crew requirement](https://runescape.wiki/w/Reaper_Crew)\n• Their [Final Boss](https://runescape.wiki/w/Final_Boss) title\n• Their [Insane Final Boss](https://runescape.wiki/w/Insane_Final_Boss) title\n• Completing the [Best Offence](https://runescape.wiki/w/Best_Offence) achievement (Defeat the Kalphite King after triggering his Immortality and then defeat him again.)\n• Completing the [Exiled](https://runescape.wiki/w/Exiled_%28achievement%29) achievement (Obtain a collection of unique drops from Kalphite King.)\n• Completing their [Bug Zapper](https://runescape.wiki/w/Bug_Zapper) achievement\n(Defeat General Graardor 5, 10, 25, 50, 75, and 100 times, depending on the tier.)"
+         },
+         {  
+            "name":"​Who:",
+            "value":"<@294617234033213450>, <@113770763261181961>, <@212672527405678592>, their [Achievement Help](https://www.discord.gg/uUUMPbd) Discord team, and their [Alright](https://discord.gg/KwysmXr) clan."
+         },
+         {  
+            "name":"​What is Needed:",
+            "value":"Any gear is permitted. [Tier](https://runescape.wiki/w/Equipment_tier) 70+ armor and weapon are recommended and appreciated, though not required. The better the tier, the better chance you have of surviving and the faster the kills."
+         },
+         {  
+            "name":"​How Drops Work:",
+            "value":"Drops are dispersed via [lootshare](https://runescape.wiki/w/LootShare) to whoever is in the friend's chat. All drops are kept by their recipients."
          }
       ]
    },
