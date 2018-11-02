@@ -273,9 +273,31 @@ exports.data = {
       }
     ]
   },
+  "soul reaper task": {
+    "title": "Soul Reaper Task",
+    "description": "A Soul Reaper, also known as Boss Slayer or Reaper Task, involves the player helping [Death](https://runescape.wiki/w/Death) harvest the souls of various [boss monsters](https://runescape.wiki/w/Boss_monsters), as, in Death's words, there is an imbalance in the harmony of life and death — specifically, there is too much life. It requires level 50 combat to start. Death tasks players with \"reaping\" various boss monsters in special assignments, which reward Slayer experience and [reaper points](https://runescape.wiki/w/Reaper_points) that can be spent on a number of things, including [hydrix gems](https://runescape.wiki/w/Hydrix).\n\nTo start the activity, a player must visit [Death's office](https://runescape.wiki/w/Death%27s_office) via a portal next to the [Draynor Village](https://runescape.wiki/w/Draynor_Village) [lodestone](https://runescape.wiki/w/Lodestone), and then speak to Death. He gives players a [grim gem](https://runescape.wiki/w/Grim_gem) and assigns them their first task. A task may be rerolled up to 5 times per day, but doing so diminishes the point rewards by 25% for each re-roll, excluding the first re-roll.\n\nA task can be canceled for free if the player does not complete the task by 00:00 UTC, if they go to Death. If this is done via the grim gem, it will act as if you are speaking to Death from the last time you interacted with him in terms of your reward percentage, regardless of how much time has lapsed in between.\n\nOne task can be obtained for free daily. The only way to get more than one task a day is by purchasing the \"Additional Tasks\" from the [rewards shop](https://runescape.wiki/w/Soul_Reaper#Rewards), which costs 250 [Slayer Points](https://runescape.wiki/w/Slayer_points) to get a new task. When buying a new task, players will get the option re-roll up to 5 times, just like at daily reset.",
+    "url": "https://runescape.wiki/w/Soul_Reaper",
+    "footer": {
+      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
+    },
+    "thumbnail": {
+      "url": "https://runescape.wiki/images/thumb/b/ba/Harold_Death_Esquire.png/209px-Harold_Death_Esquire.png?89574"
+    },
+    "author": {
+      "name": "Daily Money Making Guide Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+     "fields": [
+      {
+        "name": "Useful Information:",
+        "value": "• By unlocking the Reaper's Choice perk from the rewards shop for 250 reaper points, there is a 10% chance that Death will allow you to pick a boss of your choice rather than assigning you a random boss.\n\n• Players can go to Settings > Gameplay > Skills > Slayer to enable Group Assignments and Larger Tasks. Selecting either option increases the number of reaper points rewarded for all tasks by 25%, even for solo boss assignments when group assignments are enabled. Selecting both options increases the number of reaper points rewarded by 50%. Players can toggle these options only when they are not on an assignment.\n\n• Players can view the combat section of our <#458052251299348490> channel to find help with group bosses.\n\n• Reaper Tasks are a great way to get into bossing. It also breaks up the grind by providing variety and extra rewards.\n\n• Players should first ensure they have all the permanent rewards they desire, such as Reaper's Choice, and then spend their Reaper points on Hydrix gems."
+      }
+    ]
+  },
   "vis wax": {
     "title": "Rune Goldberg Machine - Vis Wax",
-    "description": "The [Rune Goldberg Machine](https://runescape.wiki/w/Rune_Goldberg_Machine) is a [Distraction and Diversion](https://runescape.wiki/w/Distractions_and_Diversions) that involves turning [Runes](https://runescape.wiki/w/Runes) into [Vis Wax](https://runescape.wiki/w/Vis_wax).\n\nThe machine is located in the [Runecrafting Guild](https://runescape.wiki/w/Runecrafting_Guild), which is located south of [Draynor Village](https://runescape.wiki/w/Draynor_Village). It's required to have at least level 50 Runecrafting in order to enter the guild. \n\nEach of the three slots has a **best** rune, which changes daily. The first slot is the same for every player. The second slot is one of three possible runes (varies from player to player). The third slot is randomly assigned and unique to each player. Using the [Runecrafting Cape](https://runescape.wiki/w/Runecrafting_cape) is the best way to know your own unique third slot.",
+    "description": "The [Rune Goldberg Machine](https://runescape.wiki/w/Rune_Goldberg_Machine) is a [Distraction and Diversion](https://runescape.wiki/w/Distractions_and_Diversions) that involves turning [Runes](https://runescape.wiki/w/Runes) into [Vis Wax](https://runescape.wiki/w/Vis_wax).\n\nThe machine is located in the [Runecrafting Guild](https://runescape.wiki/w/Runecrafting_Guild), which is located south of [Draynor Village](https://runescape.wiki/w/Draynor_Village). It's required to have at least level 50 Runecrafting in order to enter the guild.\n\nEach of the three slots has a **best** rune, which changes daily. The first slot is the same for every player. The second slot is one of three possible runes (varies from player to player). The third slot is randomly assigned and unique to each player. Using the [Runecrafting Cape](https://runescape.wiki/w/Runecrafting_cape) is the best way to know your own unique third slot.",
     "url": "https://runescape.wiki/w/Rune_Goldberg_Machine",
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
