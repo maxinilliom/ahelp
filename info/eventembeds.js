@@ -86,11 +86,11 @@ exports.data = {
       "fields":[  
          {  
             "name":"​Where:",
-            "value":"[Castle Wars](https://runescape.wiki/w/Castle_Wars) lobby, World 68 in <@113770763261181961>'s friends chat."
+            "value":"[Castle Wars](https://runescape.wiki/w/Castle_Wars) lobby, in the south-west corner of [Kandarin](https://runescape.wiki/w/Kandarin), World 68 in <@113770763261181961>'s friends chat."
          },
          {  
             "name":"​Why:",
-            "value":"To assist everyone who needs to unlock the [music](https://runescape.wiki/w/Music) track, complete the [How Many Games](https://runescape.wiki/w/How_Many_Games%3F) achievement (Show a full set of profound armour to Lanthus), the [No Time to Lose](https://runescape.wiki/w/No_Time_to_Lose) achievement (Use a ring of duelling to teleport to Castle Wars by choosing the Castle Wars option on the ring), the [What Year Is It](https://runescape.wiki/w/What_Year_Is_It%3F) achievement (Cast Ice Barrage 99 times in Castle Wars), or for those who just want to have fun."
+            "value":"For those who want to have fun and to assist everyone who needs Castle Wars to:\n\n• Unlock the [music](https://runescape.wiki/w/Music) track\n• Complete the [How Many Games](https://runescape.wiki/w/How_Many_Games%3F) achievement\n(Show a full set of profound armour to Lanthus)\n• Complete the [No Time to Lose](https://runescape.wiki/w/No_Time_to_Lose) achievement\n(Use a [ring of duelling](https://runescape.wiki/w/Ring_of_duelling) to teleport to Castle Wars by choosing the Castle Wars option on the ring)\n• Complete the [What Year Is It](https://runescape.wiki/w/What_Year_Is_It%3F) achievement (Cast [Ice Barrage](https://runescape.wiki/w/Ice_Barrage) 99 times in Castle Wars)"
          },
          {  
             "name":"​Who:",
@@ -184,11 +184,11 @@ exports.data = {
       "fields":[  
          {  
             "name":"​Where:",
-            "value":"The [Corporeal Lair](https://runescape.wiki/w/Corporeal_Beast#Habitat), World 68 in <@113770763261181961>'s friends chat."
+            "value":"The [Corporeal Lair](https://runescape.wiki/w/Corporeal_Beast#Habitat), World 68 in <@113770763261181961>'s friends chat. Players who have completed the [Summer's End](https://runescape.wiki/w/Summer%27s_End) quest may use a [games necklace](https://runescape.wiki/w/Games_necklace) to teleport directly into the first of the caverns, a quick run from the third cavern that serves as the Beast's lair. "
          },
          {  
             "name":"​Why:",
-            "value":"To assist everyone who needs [Corporeal Beast](https://runescape.wiki/w/Corporeal_Beast) for:\n\n• Their [the Reaper](https://runescape.wiki/w/The_Reaper) title for the [Completionist Cape](https://runescape.wiki/w/Completionist_cape) [Reaper Crew requirement](https://runescape.wiki/w/Reaper_Crew)\n• Their [Final Boss](https://runescape.wiki/w/Final_Boss) title\n• Their [Insane Final Boss](https://runescape.wiki/w/Insane_Final_Boss) title\n• Completing the [Glutton for Punishment](https://runescape.wiki/w/Glutton_For_Punishment) achievement (Get the Corporeal Beast to devour a variety of delicious familiars.)\n• Completing the [Out of Body experience](https://runescape.wiki/w/Out_of_Body_experience) achievement (Obtain a collection of unique drops from Corporeal Beast.)\n• Completing their [Corporeal Punishment](https://runescape.wiki/w/Corporeal_Punishment) achievement\n(Defeat Corporeal Beast 5, 10, 25, 50, 75, and 100 times, depending on the tier.)"
+            "value":"To assist everyone who needs [Corporeal Beast](https://runescape.wiki/w/Corporeal_Beast) for:\n\n• Their [the Reaper](https://runescape.wiki/w/The_Reaper) title for the [Completionist Cape](https://runescape.wiki/w/Completionist_cape) [Reaper Crew requirement](https://runescape.wiki/w/Reaper_Crew)\n• Their [Final Boss](https://runescape.wiki/w/Final_Boss) title\n• Their [Insane Final Boss](https://runescape.wiki/w/Insane_Final_Boss) title\n• Completing the [Glutton for Punishment](https://runescape.wiki/w/Glutton_For_Punishment) achievement\n(Get the Corporeal Beast to devour a variety of delicious familiars.)\n• Completing the [Out of Body experience](https://runescape.wiki/w/Out_of_Body_experience) achievement\n(Obtain a collection of unique drops from Corporeal Beast.)\n• Completing their [Corporeal Punishment](https://runescape.wiki/w/Corporeal_Punishment) achievement\n(Defeat Corporeal Beast 5, 10, 25, 50, 75, and 100 times, depending on the tier.)"
          },
          {  
             "name":"​Who:",
@@ -311,6 +311,51 @@ exports.data = {
          }
       ]
    },
+   "group achievements": {  
+      "title":"Preparation:",
+      "description":"All are welcome! We will be listening to players before and during the event to find out which group achievements are most desired by the majority, so be sure to let us know!\n\nYou may prepare for the event by viewing the written guides for all possible achievements in the [Achievement Help](https://www.discord.gg/uUUMPbd) Discord.",
+      "footer":{  
+         "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
+         "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
+      },
+      "thumbnail":{  
+         "url":"https://runescape.wiki/images/7/77/RuneScore.png?9f9cd"
+      },
+      "author":{  
+         "name":"Group Achievements Community Event",
+         "icon_url":"https://i.imgur.com/6c6q2iC.png"
+      },
+      "fields":[  
+         {  
+            "name":"​Where:",
+            "value":"World 68 in <@113770763261181961>'s friends chat."
+         },
+         {  
+            "name":"​Why:",
+            "value":"To assist everyone who needs help with group achievements."
+         },
+         {  
+            "name":"​Who:",
+            "value":"<@294617234033213450>, <@113770763261181961>, <@212672527405678592>, their [Achievement Help](https://www.discord.gg/uUUMPbd) Discord team, and their [Alright](https://discord.gg/KwysmXr) clan."
+         },
+         {  
+            "name":"​Possible Combat Achievements:",
+            "value":"• [Best Offence](https://runescape.wiki/w/Best_Offence)\n(Defeat the Kalphite King after triggering his Immortality and then defeat him again.)\n\n• [Classic Rock](https://runescape.wiki/w/Classic_Rock)\n(Defeat Vorago without using any defensive abilities.)\n\n• [Hungry Hungry Reavers](https://runescape.wiki/w/Hungry_Hungry_Reavers)\n(Defeat Nex: Angel of Death without any of the group damaging any of the blood reavers.)\n\n• [Matricide](https://runescape.wiki/w/Matricide)\n(Defeat Nex while accompanied by each of the nihil followers.)\n\n• [Never Eat Silk Worms](https://runescape.wiki/w/Never_Eat_Silk_Worms)\n( Get charged by the Kalphite King to each side of the arena and then defeat him.)\n\n• [Next To No Power](https://runescape.wiki/w/Next_To_No_Power)\n(Defeat Nex without the use of prayers by anyone in the group.)\n\n• [Who's Your Daddy?](https://runescape.wiki/w/Who%27s_Your_Daddy%3F)\n(Defeat Vorago whilst holding your pet rock for the whole kill.)"
+         },
+         {  
+            "name":"​​",
+            "value":"• [Oops! Wrong Cult!](https://runescape.wiki/w/Oops!_Wrong_Cult!)\n(Enter the Temple of Aminishi wearing H.A.M. clothing.)\n\n• [Good Enough for a Goblin](https://runescape.wiki/w/Good_Enough_for_a_Goblin)\n(Defeat Corporeal Beast using only a bronze spear.)"
+         },
+         {  
+            "name":"​Possible Minigame Achievements:",
+            "value":"• [A-Voiding Conflict](https://runescape.wiki/w/A-Voiding_Conflict)\n(Win a Pest Control game after repairing all barricades to full.)\n\n• [Altar Explorer](https://runescape.wiki/w/Altar_Explorer)\n(Play a round of Great Orb Project on each different altar map.)\n\n• [Claymation](https://runescape.wiki/w/Claymation)\n(Fully exhaust all gathering plots in a Stealing Creation match.)\n\n• [Magister Smagister](https://runescape.wiki/w/Magister_Smagister)\n(Obtain 100 soul fragments within Soul Wars and offer them all at once to the Soul Obelisk.)\n\n• [Going Down With The Ship](https://runescape.wiki/w/Going_Down_With_The_Ship)\n(Let the ship take on 8 leaks before patching them up fully and successfully completing Fishing Trawler.)\n\n• [What Year Is It?](https://runescape.wiki/w/What_Year_Is_It%3F)\n(Ice Barrage 99 times in Castle Wars.)"
+         },
+         {  
+            "name":"​Possible Miscellaneous Achievements:",
+            "value":"• Unlock the [Trouble Brewing (music track)](https://runescape.wiki/w/Trouble_Brewing_(music_track)\n\n• [Open Bar](https://runescape.wiki/w/Open_Bar)\n(Talk to the Drunken Dwarf while carrying 28 different ales.)\n\n• [Ram-bow](https://runescape.wiki/w/Ram-bow)\n(Have the four different seasonal rams in a pen at the same time.)\n\n• [Great Gielinor Run](https://runescape.wiki/w/Great_Gielinor_Run)\n(Without teleporting or using third party travel methods, run from Camp Tyras to Castle Drakan.)\n\n• [Going For A Punt](https://runescape.wiki/w/Going_For_A_Punt)\n(Ride a waka canoe from Lumbridge to the Wilderness whilst wearing a straw boater.)\n\n• [You're the Dirty Rascal](https://runescape.wiki/w/You%27re_the_Dirty_Rascal)\n(Be on the winning side in a game of Castle Wars.)\n\n• [Artillery Strike](https://runescape.wiki/w/Artillery_Strike)\n(Use a catapult in a Castle Wars game after gaining the knowledge from the Catapult Construction quest.)"
+         }
+      ]
+   },
     "helwyr": {  
       "title":"Preparation:",
       "description":"All are welcome! We will be teaching how to do the boss on Discord if any learners are apprehensive about coming.\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Helwyr/Strategies) or a video guide [here](https://www.youtube.com/watch?v=5jt0odJqXns).",
@@ -398,11 +443,11 @@ exports.data = {
       "fields":[  
          {  
             "name":"​Where:",
-            "value":"The [Exiled Kalphite Hive](https://runescape.wiki/w/Exiled_Kalphite_Hive), World 68 in <@113770763261181961>'s friends chat."
+            "value":"The [Exiled Kalphite Hive](https://runescape.wiki/w/Exiled_Kalphite_Hive) in the [Kharidian Desert](https://runescape.wiki/w/Kharidian_Desert), World 68 in <@113770763261181961>'s friends chat."
          },
          {  
             "name":"​Why:",
-            "value":"To assist everyone who needs [Kalphite King](https://runescape.wiki/w/Kalphite_King) for:\n\n• Their [the Reaper](https://runescape.wiki/w/The_Reaper) title for the [Completionist Cape](https://runescape.wiki/w/Completionist_cape) [Reaper Crew requirement](https://runescape.wiki/w/Reaper_Crew)\n• Their [Final Boss](https://runescape.wiki/w/Final_Boss) title\n• Their [Insane Final Boss](https://runescape.wiki/w/Insane_Final_Boss) title\n• Completing the [Best Offence](https://runescape.wiki/w/Best_Offence) achievement (Defeat the Kalphite King after triggering his Immortality and then defeat him again.)\n• Completing the [Exiled](https://runescape.wiki/w/Exiled_%28achievement%29) achievement (Obtain a collection of unique drops from Kalphite King.)\n• Completing their [Bug Zapper](https://runescape.wiki/w/Bug_Zapper) achievement\n(Defeat General Graardor 5, 10, 25, 50, 75, and 100 times, depending on the tier.)"
+            "value":"To assist everyone who needs [Kalphite King](https://runescape.wiki/w/Kalphite_King) for:\n\n• Their [the Reaper](https://runescape.wiki/w/The_Reaper) title for the [Completionist Cape](https://runescape.wiki/w/Completionist_cape) [Reaper Crew requirement](https://runescape.wiki/w/Reaper_Crew)\n• Their [Final Boss](https://runescape.wiki/w/Final_Boss) title\n• Their [Insane Final Boss](https://runescape.wiki/w/Insane_Final_Boss) title\n• Completing the [Best Offence](https://runescape.wiki/w/Best_Offence) achievement\n(Defeat the Kalphite King after triggering his Immortality and then defeat him again.)\n• Completing the [Exiled](https://runescape.wiki/w/Exiled_%28achievement%29) achievement\n(Obtain a collection of unique drops from Kalphite King.)\n• Completing their [Bug Zapper](https://runescape.wiki/w/Bug_Zapper) achievement\n(Defeat General Graardor 5, 10, 25, 50, 75, and 100 times, depending on the tier.)\n• A chance at obtaining the [Kalphite defender](https://runescape.wiki/w/Kalphite_defender)"
          },
          {  
             "name":"​Who:",
@@ -480,7 +525,7 @@ exports.data = {
          },
          {  
             "name":"​​",
-            "value":"• Completing their [Matricide](https://runescape.wiki/w/Matricide) achievement\n(Defeat Nex while accompanied by each of the nihil followers.)\n• Completing their [Next To No Power](https://runescape.wiki/w/Next_To_No_Power) achievement\n(Defeat Nex without the use of prayers by anyone in the group.)\n• Completing their [Prison Break (feat)](https://runescape.wiki/w/Prison_Break_(feat) achievement\n(Obtained a collection of unique drops from Nex.)\n• Completing their [Brass Nex](https://runescape.wiki/w/Brass_Nex) achievement\n(Defeat Nex 5, 10, 25, 50, 75, and 100 times, depending on the tier.)"
+            "value":"• Completing their [Matricide](https://runescape.wiki/w/Matricide) achievement\n(Defeat Nex while accompanied by each of the nihil followers.)\n• Completing their [Next To No Power](https://runescape.wiki/w/Next_To_No_Power) achievement\n(Defeat Nex without the use of prayers by anyone in the group.)\n• Completing their [Prison Break (feat)](https://runescape.wiki/w/Prison_Break_(feat) achievement\n(Obtained a collection of unique drops from Nex.)\n• Completing their [Brass Nex](https://runescape.wiki/w/Brass_Nex) achievement\n(Defeat Nex 5, 10, 25, 50, 75, and 100 times, depending on the tier.)\n• A chance at obtaining the [Ancient defender](https://runescape.wiki/w/Ancient_defender)"
          },
          {  
             "name":"​Who:",
