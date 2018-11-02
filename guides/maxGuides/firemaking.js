@@ -234,7 +234,7 @@ exports.data = {
       },
       {
         "name": "▬▬ Protean Logs ▬▬",
-        "value": "[Protean Logs](https://runescape.wiki/w/Protean_logs) are items that can be used to gain experience in Firemaking and/or Fletching. These items can only be obtained from Treasure Hunter. Right clicking them and choosing the light option will grant Firemaking experience. As with all Protean items, these logs have the added benefit of being able to be stacked within your inventory, eliminating the need to bank. Protean logs provide 354 experience per log when burning on a [bonfire](https://runescape.wiki/w/Bonfire). After burning 60 protean logs on a bonfire, a message will pop up stating that \"Your arms grew tired of throwing protean logs onto the fire but you're ready to go again now.\""
+        "value": "[Protean Logs](https://runescape.wiki/w/Protean_logs) are items that can be used to gain experience in Firemaking and/or Fletching. These items can only be obtained from Treasure Hunter. Right clicking them and choosing the light option will grant Firemaking experience. As with all Protean items, these logs have the added benefit of being able to be stacked within your inventory, eliminating the need to bank. At level 99, Protean logs provide 354 experience per log when burning on a [bonfire](https://runescape.wiki/w/Bonfire), or 389.4 when burning on a [portable brazier](https://runescape.wiki/w/Portable_brazier). After burning 60 protean logs on a bonfire, a message will pop up stating that \"Your arms grew tired of throwing protean logs onto the fire but you're ready to go again now.\""
       },
       {
         "name": "▬▬ Cremation ▬▬",
