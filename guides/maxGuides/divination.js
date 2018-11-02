@@ -514,6 +514,10 @@ exports.data = {
         "name": "​",
         "value": "[Divination Potion](https://runescape.wikia.com/wiki/Divination_potion)\n• +3 levels\n\n[Super Divination Potion](https://runescape.wikia.com/wiki/Super_divination)\n• +5 levels\n\n[Extreme Divination Potion](https://runescape.wikia.com/wiki/Extreme_divination)\n• Boosts divination by 3 + 15% of the player's level, up to a maximum of +17 levels at level 94 divination"
       },
+      {  
+        "name":"​",
+        "value":"[Memory-crushing scrimshaw](https://runescape.wiki/w/Memory-crushing_scrimshaw)\n• Can be activated and deactivated when the player chooses, providing that a 10 second cool-down has passed\n• Gives a 15% chance to instantly convert memories as you obtain them, gaining Divination experience.\n• Tradeable and lasts for 3 hours\n\n[Superior memory-crushing scrimshaw](https://runescape.wiki/w/Superior_memory-crushing_scrimshaw)\n• Can be activated and deactivated when the player chooses, providing that a 10 second cool-down has passed\n• Gives a 20% chance to instantly convert memories as you obtain them, gaining Divination experience.\n• Lasts for 4 hours but it is untradeable"
+      }
       ]
     }
   };
