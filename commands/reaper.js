@@ -17,7 +17,8 @@ exports.run = async (client, message, args, level) => {
 	const msgArr = [];
   if (guideName.includes("solak")) footer.text = "Check #reaper-request-list for information about leeching services and discounts.";
 
-	if (message.channel.id !== '382701090430386180' && level < 2) return;
+	if (message.guild.id !== "382696689812766720" && level < 3 ||
+		message.guild.id == "382696689812766720" && message.channel.id !== '382701090430386180' && level < 2) return;
 
 	Object.getOwnPropertyNames(data).forEach(k => {
 		if (k !== "help" && k !== "search" && k !== "query") keyList.push(k);
