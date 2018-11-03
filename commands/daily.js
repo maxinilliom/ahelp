@@ -25,7 +25,7 @@ exports.run = async (client, message, args, level) => {
 
 	if (args[0].toLowerCase() == "all" && level >= 2) {
     let i = 0, o = 0, x = keyList.length, errMsg = "", fin = "";
-		if (!gl.has('daily')) gl.set('daily', msgArr);
+		if (!gl.has('daily')) gl.set('daily', []);
 		msgArr.push(message.channel.id);
 		await message.channel.send({
 		  files: [{

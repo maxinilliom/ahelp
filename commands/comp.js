@@ -37,7 +37,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 
 	if (args[0].toLowerCase() == "all" && level >= 2) {
 		let i = 0, o = 0, x = keyList.length, errMsg = "", fin = "";
-		if (!gl.has('comp')) gl.set('comp', msgArr);
+		if (!gl.has('comp')) gl.set('comp', []);
 		msgArr.push(message.channel.id);
 		await message.channel.send({
 		  files: [{

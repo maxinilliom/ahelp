@@ -28,7 +28,7 @@ exports.run = async (client, message, args, level) => {
 
 	if (args[0].toLowerCase() == "all" && level >= 2) {
     let i = 0, o = 0, x = keyList.length, errMsg = "", fin = "";
-		if (!gl.has('reaper')) gl.set('reaper', msgArr);
+		if (!gl.has('reaper')) gl.set('reaper', []);
 		msgArr.push(message.channel.id);
 		await message.channel.send({
 		  files: [{

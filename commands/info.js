@@ -12,7 +12,7 @@ exports.run = (client, message, args, level) => {
 
 	if (!args[1]) {
 		let i = 0, o = 0, x = embeds.length, errMsg = "";
-		if (!gl.has(type)) gl.set(type, msgArr);
+		if (!gl.has(type)) gl.set(type, []);
 		msgArr.push(message.channel.id);
 		async function list() {
 			const curr = data[embeds[o]];
@@ -93,7 +93,7 @@ exports.run = (client, message, args, level) => {
 			if (o == x) {
 				await message.reply(`**${i}**/\**${x}** messages removed.\n\n${errMsg}`)
 					.then(m => m.delete(10000));
-				gl.delete('comp');
+				gl.delete(type);
 				await message.channel.send(`All **${type}** guides deleted from memory.`)
 					.then(m => m.delete(5000));
 			}
