@@ -36,7 +36,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 	if (!args[0]) return message.channel.send(`Please specify a valid achievement name.`);
 
 	if (args[0].toLowerCase() == "all" && level >= 2) {
-		let i = 0, o = 0, x = keyList.length, errMsg = "";
+		let i = 0, o = 0, x = keyList.length, errMsg = "", fin = "";
 		if (!gl.has('comp')) gl.set('comp', msgArr);
 		msgArr.push(message.channel.id);
 		await message.channel.send({
@@ -79,10 +79,15 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 			  	query.timestamp = new Date();
 			  	await message.channel.send("", {embed: query})
 			  		.then(m => msgArr.push(m.id));
-			  	gl.set('comp', msgArr);
+		  		if (gl.get('comp').length > 0) {
+		  			fin = "Message IDs already exist for **comp** guides. Message IDs not saved to prevent overwriting.";
+		  		} else {
+		  			gl.set('comp', msgArr);
+		  			fin = "All message IDs saved to **comp**.";
+		  		}
 			  	await message.reply(`**${i}**/\**${keyList.length}** responses listed.\n\n${errMsg}`)
 		  			.then(m => m.delete(10000));
-			  	await message.channel.send('All message IDs saved.')
+			  	await message.channel.send(fin)
 			  		.then(m => m.delete(5000));
 			}
 		}

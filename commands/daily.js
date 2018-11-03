@@ -24,7 +24,7 @@ exports.run = async (client, message, args, level) => {
 
 
 	if (args[0].toLowerCase() == "all" && level >= 2) {
-    let i = 0, o = 0, x = keyList.length, errMsg = "";
+    let i = 0, o = 0, x = keyList.length, errMsg = "", fin = "";
 		if (!gl.has('daily')) gl.set('daily', msgArr);
 		msgArr.push(message.channel.id);
 		await message.channel.send({
@@ -68,10 +68,15 @@ exports.run = async (client, message, args, level) => {
 		  	query.timestamp = new Date();
 		  	await message.channel.send("", {embed: query})
 					.then(m => msgArr.push(m.id));
-				gl.set('daily', msgArr);
+		  		if (gl.get('daily').length > 0) {
+		  			fin = "Message IDs already exist for **daily** guides. Message IDs not saved to prevent overwriting.";
+		  		} else {
+		  			gl.set('daily', msgArr);
+		  			fin = "All message IDs saved to **daily**.";
+		  		}
 		  	await message.reply(`**${i}**/\**${keyList.length}** responses listed.\n\n${errMsg}`)
 		  		.then(m => m.delete(10000));
-		  	await message.channel.send('All message IDs saved.')
+		  	await message.channel.send(fin)
 		  		.then(m => m.delete(5000));
 		  }
     }

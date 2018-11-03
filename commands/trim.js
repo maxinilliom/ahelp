@@ -1,7 +1,7 @@
 const { inspect } = require("util");
 const { promisify } = require("util");
 const readdir = promisify(require("fs").readdir);
-const { data } = require("../guides/compGuide.js");
+const { data } = require("../guides/trimGuide.js");
 //const data = "";
 
 	/* const { something } = require("something");
@@ -22,7 +22,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 	const rtnArr = [];
 	const fullArr = [];
 	let pt = "false";
-	const name = "Trimmed Completionist Cape Info";
+	const name = "Trimmed trimletionist Cape Info";
 	const color = 16430082;
 	const gl = client.guideList;
 	const msgArr = [];
@@ -36,7 +36,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 	if (!args[0]) return message.channel.send(`Please specify a valid achievement name.`);
 
 	if (args[0].toLowerCase() == "all" && level >= 2) {
-		let i = 0, o = 0, x = keyList.length, errMsg = "";
+		let i = 0, o = 0, x = keyList.length, errMsg = "", fin = "";
 		if (!gl.has('trim')) gl.set('trim', msgArr);
 		msgArr.push(message.channel.id);
     await message.channel.send({
@@ -48,7 +48,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 		await message.channel.send({
 		  files: [{
 			attachment: 'media/img/guides/trimheader.png',
-			name: 'Trim comp cape header.png'
+			name: 'Trim trim cape header.png'
 		  }]
 		}).then(m => msgArr.push(m.id));
     await message.channel.send({
@@ -79,10 +79,15 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 		  	query.timestamp = new Date();
 		  	await message.channel.send("", {embed: query})
 		  		.then(m => msgArr.push(m.id));
-		  	gl.set('trim', msgArr);
+	  		if (gl.get('trim').length > 0) {
+	  			fin = "Message IDs already exist for **trim** guides. Message IDs not saved to prevent overwriting.";
+	  		} else {
+	  			gl.set('trim', msgArr);
+	  			fin = "All message IDs saved to **trim**.";
+	  		}
 		  	await message.reply(`**${i}**/\**${keyList.length}** responses listed.\n\n${errMsg}`)
 	  			.then(m => m.delete(10000));
-		  	await message.channel.send('All message IDs saved.')
+		  	await message.channel.send(fin)
 		  		.then(m => m.delete(5000));
 			}
 		}
@@ -141,7 +146,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 			}
 		});
 
-		helpEmbed.title = "Comprehensive list of all valid Trimmed Completionist Cape achievement guides";
+		helpEmbed.title = "trimrehensive list of all valid Trimmed trimletionist Cape achievement guides";
 		helpEmbed.author.name = name;
 		helpEmbed.description = output;
 		helpEmbed.color = color;
@@ -207,7 +212,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 			}
 			i++;
 		});
-		searchEmbed.title = "All Trimmed Completionist Cape achievement guides matching your search";
+		searchEmbed.title = "All Trimmed trimletionist Cape achievement guides matching your search";
 		searchEmbed.author.name = name;
 		searchEmbed.description = output;
 		searchEmbed.color = color;
@@ -263,6 +268,6 @@ exports.conf = {
 exports.help = {
 	name: "trim",
 	category: "Guides",
-	description: "An encyclopedia of Trimmed Completionist Cape achievement guides.",
+	description: "An encyclopedia of Trimmed trimletionist Cape achievement guides.",
 	usage: "trim <help/achievement name>"
 };

@@ -225,7 +225,8 @@ exports.run = async (client, message, [skill, ...args], level) => { // eslint-di
 		let i = 0,
 			o = 0,
 			x = keyList.length,
-			errMsg = "";
+			errMsg = "",
+			fin = "";
 		if (!gl.has('max')) gl.set('max', {});
 		msgArr.push(message.channel.id);
 
@@ -272,11 +273,16 @@ exports.run = async (client, message, [skill, ...args], level) => { // eslint-di
 				await message.channel.send("", {embed: query})
 		  		.then(m => msgArr.push(m.id));
 	  		const cl = gl.get('max');
-	  		cl[nick] = msgArr;
-		  	gl.set('max', cl);
+	  		if (cl[nick].length > 0) {
+	  			fin = `Message IDs already exist for **${nick}** guides. Message IDs not saved to prevent overwriting.`;
+	  		} else {
+		  		cl[nick] = msgArr;
+			  	gl.set('max', cl);
+	  			fin = `All message IDs saved to **${nick}**.`;
+	  		}
 		  	await message.reply(`**${i}**/\**${keyList.length}** responses listed.\n\n${errMsg}`)
 	  			.then(m => m.delete(10000));
-		  	await message.channel.send('All message IDs saved.')
+		  	await message.channel.send(fin)
 		  		.then(m => m.delete(5000));
 			}
 		}

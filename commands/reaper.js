@@ -27,7 +27,7 @@ exports.run = async (client, message, args, level) => {
 
 
 	if (args[0].toLowerCase() == "all" && level >= 2) {
-    let i = 0, o = 0, x = keyList.length, errMsg = "";
+    let i = 0, o = 0, x = keyList.length, errMsg = "", fin = "";
 		if (!gl.has('reaper')) gl.set('reaper', msgArr);
 		msgArr.push(message.channel.id);
 		await message.channel.send({
@@ -71,10 +71,15 @@ exports.run = async (client, message, args, level) => {
 		  	query.timestamp = new Date();
 		  	await message.channel.send("", {embed: query})
 		  		.then(m => msgArr.push(m.id));
-		  	gl.set('reaper', msgArr);
+		  		if (gl.get('reaper').length > 0) {
+		  			fin = "Message IDs already exist for **reaper** guides. Message IDs not saved to prevent overwriting.";
+		  		} else {
+		  			gl.set('reaper', msgArr);
+		  			fin = "All message IDs saved to **reaper**.";
+		  		}
 		  	await message.reply(`**${i}**/\**${keyList.length}** responses listed.\n\n${errMsg}`)
 	  			.then(m => m.delete(10000));
-		  	await message.channel.send('All message IDs saved.')
+		  	await message.channel.send(fin)
 		  		.then(m => m.delete(5000));
 		  }
     }

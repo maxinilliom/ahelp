@@ -46,7 +46,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 	const catList = keyList.filter(k => k.split(" - ")[0].includes(category));
 
 	if (args[0].toLowerCase() == "all" && level >= 2) {
-		let i = 0, o = 0, errMsg = "";
+		let i = 0, o = 0, errMsg = "", fin = "";
 		const x = category ? catList.length : keyList.length;
 		if (!gl.has('rs')) gl.set('rs', {});
 		msgArr.push(message.channel.id);
@@ -95,13 +95,18 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 			  	await message.channel.send("", {embed: query})
 						.then(m => msgArr.push(m.id));
 			  	const cl = gl.get('rs');
-			  	cl[nick] = msgArr;
-			  	gl.set('rs', cl);
-			  	await message.reply(`**${i}**/\**${catList.length}** responses listed.\n\n${errMsg}`)
+		  		if (cl[nick].length > 0) {
+		  			fin = `Message IDs already exist for **${nick}** guides. Message IDs not saved to prevent overwriting.`;
+		  		} else {
+				  	cl[nick] = msgArr;
+				  	gl.set('rs', cl);
+		  			fin = `All message IDs saved to **${nick}**.`;
+		  		}
+			  	await message.reply(`**${i}**/\**${keyList.length}** responses listed.\n\n${errMsg}`)
 		  			.then(m => m.delete(10000));
-			  	await message.channel.send('All message IDs saved.')
+			  	await message.channel.send(fin)
 			  		.then(m => m.delete(5000));
-			  }
+			  	}
 			} else {
 				const guide = data[keyList[o]];
 				guide.color = color;
@@ -124,11 +129,16 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 			  	await message.channel.send("", {embed: query})
 						.then(m => msgArr.push(m.id));
 			  	const cl = gl.get('rs');
-			  	cl[nick] = msgArr;
-			  	gl.set('rs', cl);
+		  		if (cl[nick].length > 0) {
+		  			fin = `Message IDs already exist for **${nick}** guides. Message IDs not saved to prevent overwriting.`;
+		  		} else {
+				  	cl[nick] = msgArr;
+				  	gl.set('rs', cl);
+		  			fin = `All message IDs saved to **${nick}**.`;
+		  		}
 			  	await message.reply(`**${i}**/\**${keyList.length}** responses listed.\n\n${errMsg}`)
 		  			.then(m => m.delete(10000));
-			  	await message.channel.send('All message IDs saved.')
+			  	await message.channel.send(fin)
 			  		.then(m => m.delete(5000));
 			  	}
 			  }
