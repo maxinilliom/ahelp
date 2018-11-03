@@ -51,10 +51,15 @@ exports.run = (client, message, args, level) => {
 			o++;
 			if (o < x) setTimeout(list, 2000);
 			if (o == x) {
-		  	gl.set(type, msgArr);
+	  		if (gl.get(type).length > 0) {
+	  			fin = `Message IDs already exist for **${type}** guides. Message IDs not saved to prevent overwriting.`;
+	  		} else {
+	  			gl.set(type, msgArr);
+	  			fin = `All message IDs saved to **${type}**.`;
+	  		}
 		  	await message.reply(`**${i}**/\**${embeds.length}** responses listed.\n\n${errMsg}`)
 					.then(m => m.delete(10000));
-		  	await message.channel.send('All message IDs saved.')
+		  	await message.channel.send(fin)
 		  		.then(m => m.delete(5000));
 			}
 		}
