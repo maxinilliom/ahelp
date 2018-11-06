@@ -41,27 +41,6 @@ exports.data = {
       "name": "break.png"
     }]
   },
-  "A Cuddle of Red Pandas": {
-    "title": "A Cuddle of Red Pandas",
-    "description":"A Cuddle of Pandas is a discord is a social-based server where players can chill and chat while playing Runescape.",
-    "thumbnail": {
-      "url": "https://cdn.discordapp.com/icons/468427878913015818/c24175441a61a521e13d20dd50cf0005.webp"
-    },
-    "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
-      "text": "Achievement Help | Connecting our Helpful Communities!"
-    },
-    "author": {
-      "name": "Social Affiliate Info",
-      "icon_url": "https://i.imgur.com/6c6q2iC.png"
-    },
-    "fields": [
-      {
-        "name": "Invite Link:",
-        "value": "https://discord.gg/2Utwx3B"
-      }
-      ]
-  },
   "Alright": {
     "title": "Alright",
     "description":"Achievement Help's officially recognized clan. Whether you join or guest, hope to see you there! The clan hosts dually held events with Achievement Help, as well as additional weekly Monday Skill and Chills, Friday AoD masses, Saturday Penguins, and Bi-daily Raids. Furthermore, the clan hosts additional events such as Karaoke night, Pvming events, Minigame events, and Clue Competitions! All our events are open to both clan members and guests.\n\nThis is the clan responsible in part of the creation and hosting of all Achievement Help events, so expect to see some familiar faces!",
@@ -894,6 +873,31 @@ exports.data = {
       {
         "name": "Contact:",
         "value": "<@207493968169009152>"
+      }
+      ]
+  },
+  "Raids School": {
+    "title": "Raids School",
+    "description":"»»————- RAIDS SCHOOL ————-««\n\nWhat we offer:\n» Both daytime and reset raids, which happen without fail\n» A notify system in which users can easily select their level of experience & preferred raid time\n» Occasional raid feats & off-peak raids!\n» An environment catered to learners, with a strong admin team\n» Dedicated teachers, with patience to help those with 0kc\n» A non-elitist atmosphere\n\n...And above all, EASILY ACCESSIBLE RAIDS, our only requirement is that you're able to listen on Discord!",
+    "thumbnail": {
+      "url": "https://cdn.discordapp.com/icons/422634161312890881/35ac0548361770fdd9675d7132a3e35f.webp"
+    },
+    "footer": {
+      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "text": "Achievement Help | Connecting our Helpful Communities!"
+    },
+    "author": {
+      "name": "Combat Affiliate Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "fields": [
+      {
+        "name": "Invite Link:",
+        "value": "https://discord.gg/nXwx25B"
+      },
+      {
+        "name": "Contact:",
+        "value": "<@326803450123780097> and <@151076881280663552>"
       }
       ]
   },
