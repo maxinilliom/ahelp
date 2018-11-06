@@ -17,14 +17,14 @@ exports.run = async (client, message, args, level) => {
 
   embed.embed.timestamp = new Date();
   message.channel.send(embed);
-  message.delete();
+//  message.delete();
 
 };
 
 exports.conf = {
   enabled: true,
   guildOnly: false,
-  aliases: ["ach", "achieve", "achievement", "bonanza"],
+  aliases: ["ach", "achieve", "achievement", "bonanza", "cheevos"],
   permLevel: "User",
   guilds: []
 };
