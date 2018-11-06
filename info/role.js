@@ -99,7 +99,7 @@ exports.data = {
       },
       {
         "name": "​",
-        "value": ":regional_indicator_d: **<@&382960080125165568>**\n• **When to tag:** If you are looking for a team for the Barbarian Assault Comp for Trim Requirements.\n\n• **When to join:** If you would like to be notified when someone is looking for a team for the Barbarian Assault Comp for Trim Requirements.\n\n:regional_indicator_e: **<@&382960099204792320>**\n• **When to tag:** If you need a team for Mobilizing Armies, preferably only during spotlight.\n\n• **When to join:** If you would like to be notified when someone needs a team for Mobilizing Armies.\n\n:regional_indicator_f: **<@&382957843927662602>**\n• **When to tag:** If you are a Raid affiliates or team that needs a +1.\n\n• **When to join:** If you would like to be notified of a Raid affiliates or team that needs a +1, though more consistent teams can be found with our Raid <#458052251299348490>."
+        "value": ":regional_indicator_d: **<@&382960080125165568>**\n• **When to tag:** If you are looking for a team for the Barbarian Assault Comp for Trim Requirements.\n\n• **When to join:** If you would like to be notified when someone is looking for a team for the Barbarian Assault Comp for Trim Requirements.\n\n:regional_indicator_e: **<@&509476947710181377>**\n• **When to tag:** If you need a team for Heist to earn Heist reward points.\n\n• **When to join:**  If you would like to be notified when someone needs a team for Heist to earn Heist reward points.\n\n:regional_indicator_f: **<@&382957843927662602>**\n• **When to tag:** If you are a Raid affiliates or team that needs a +1.\n\n• **When to join:** If you would like to be notified of a Raid affiliates or team that needs a +1, though more consistent teams can be found with our Raid <#458052251299348490>."
       },
       {
         "name": "​",
@@ -115,7 +115,7 @@ exports.data = {
       },
       {
         "name": "​",
-        "value": ":regional_indicator_p: **<@&451411977894494212>**\n• **When to tag:** If you are looking for people to help with a group minigame related achievement or song unlock.\n\n• **This is not for Thaler purposes**\n\n• **When to join:** If you are in need of a group minigame related achievement or song unlock and would like to be notified when groups are forming.\n\n• If you are willing to help those who are in need of a minigame related achievement or song unlock.\n\n:regional_indicator_q: **<@&451412074334126091>**\n• **When to tag:** If you are looking for people to help with a stat boost for quests, skilling, or effigies.\n\n• **When to join:**If you would like to be notified when someone is looking for people to help with a stat boost for quests, skilling, or effigies."
+        "value": ":regional_indicator_p: **<@&451411977894494212>**\n• **When to tag:** If you are looking for people to help with a group minigame related achievement or song unlock.\n\n• **This is not for Thaler purposes**\n\n• **Check all other roles to ensure there isn't a more specific role for you to tag**\n\n• **When to join:** If you are in need of a group minigame related achievement or song unlock and would like to be notified when groups are forming.\n\n• If you are willing to help those who are in need of a minigame related achievement or song unlock.\n\n:regional_indicator_q: **<@&451412074334126091>**\n• **When to tag:** If you are looking for people to help with a stat boost for quests, skilling, or effigies.\n\n• **When to join:**If you would like to be notified when someone is looking for people to help with a stat boost for quests, skilling, or effigies."
       }
       ]
     },
@@ -131,6 +131,14 @@ exports.data = {
       {
         "name": "​",
         "value": ":regional_indicator_x: **<@&488765489280188437>**\n• **When to tag:** If you are looking to organize a group of to obtain the Survive Title at the Dominion Tower.\n\n• **When to join:** If you would like to be notified of groups being created to obtain the Survive Title at the Dominion Tower.\n\n:regional_indicator_y:**<@&488492228512317451>**\n• **When to tag:** If you are looking to complete a PoF achievement and would like to see if anyone has the items to assist you with.\n\n• Not returning these items will result in a ban from the server.\n\n• **When to join:** If you are in possession of PoF achievement items, like 12 bunnies or 4 seasonal rams, and would like to help others who are looking to complete the achievement."
+      },
+       {
+        "name": "​",
+        "value": ":regional_indicator_z: **<@&509477144498274324>**\n• **When to tag:** If you are looking to complete the achievement Dragonstone, Dragonstone, Dragonstone, and would like to have the 28 ales temporarily traded to you.\n\n• Not returning these items will result in a ban from the server.\n\n• **When to join:** If you are in possession of the Dragonstone Armour, and would like to help others who are looking to complete the achievement."
+      },
+        {
+        "name": "​",
+        "value": ":abc: **<@&509477311566053392>**\n• **When to tag:** If you have an Elite (Super) Cow spawn.\n\n• **When to join:** If you would like to be notified when someone has an Elite (Super) Cow spawn.\n\n:abcd: **<@&509477651107545108>**\n• **When to tag:** If you have spotted the Runespan Runesphere.\n\n• **When to join:** If you would like to be notified when someone has spotted the Runespan Runesphere.\n\n:abcd: **<@&509477651107545108>**\n• **When to tag:** If you are looking for a team for the Shifting Tombs Runescore Requirements or if you'd like a team for experience runs.\n\n• **When to join:** If you would like to be notified when someone needs a team for the Shifting Tombs Runescore Requirements or a team for experience runs."
       }
       ],
       "footer": {
