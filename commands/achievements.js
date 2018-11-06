@@ -12,7 +12,7 @@ exports.run = async (client, message, args, level) => {
     }
   };
 
-  embed.timestamp = new Date();
+  embed.embed.timestamp = new Date();
   message.channel.send(embed);
   message.delete();
 
