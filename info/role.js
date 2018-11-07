@@ -134,7 +134,7 @@ exports.data = {
       },
        {
         "name": "​",
-        "value": ":regional_indicator_z: **<@&509477144498274324>**\n• **When to tag:** If you are looking to complete the achievement Dragonstone, Dragonstone, Dragonstone, and would like to have the 28 ales temporarily traded to you.\n\n• Not returning these items will result in a ban from the server.\n\n• **When to join:** If you are in possession of the Dragonstone Armour, and would like to help others who are looking to complete the achievement."
+        "value": ":regional_indicator_z: **<@&509477144498274324>**\n• **When to tag:** If you are looking to complete the achievement Dragonstone, Dragonstone, Dragonstone, and would like to have the armour set temporarily traded to you.\n\n• Not returning these items will result in a ban from the server.\n\n• **When to join:** If you are in possession of the Dragonstone Armour, and would like to help others who are looking to complete the achievement."
       },
         {
         "name": "​",
