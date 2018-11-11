@@ -139,6 +139,10 @@ exports.data = {
         {
         "name": "​",
         "value": ":abcd: **<@&509477261712556058>**\n• **When to tag:** If you have spotted the Runespan Runesphere.\n\n• **When to join:** If you would like to be notified when someone has spotted the Runespan Runesphere.\n\n:abcd: **<@&509477651107545108>**\n• **When to tag:** If you are looking for a team for the Shifting Tombs Runescore Requirements or if you'd like a team for experience runs.\n\n• **When to join:** If you would like to be notified when someone needs a team for the Shifting Tombs Runescore Requirements or a team for experience runs.\n\n:asterisk: **<@&510540442023231488>**\n• **When to tag:** If you are looking for a team to attempt to catch the Tiger Shark in the Fishing Trawler Minigame.\n\n• **When to join:** If you would like to be notified when someone is looking for a team to attempt to catch the Tiger Shark in the Fishing Trawler Minigame."
+      },
+      {
+        "name": "​",
+        "value": ":hash: **<@&511322089224142854>**\n• **When to tag:** If you are looking to borrow the Barrows Weapons needed for the Brothers in Arms achievement.\n\n• Not returning these items will result in a ban from the server.\n\n• **When to join:** If you would like to be notified when someone is looking to borrow the Barrows Weapons needed for the Brothers in Arms achievement."
       }
       ],
       "footer": {
