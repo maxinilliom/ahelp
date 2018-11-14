@@ -4,7 +4,7 @@ exports.data = {
       "attachment": "media/img/guides/max/agility.png"
     }]
   },
-  "break": {
+  {
     "files": [{
       "attachment": "media/img/info/role/break.png"
     }]
@@ -38,7 +38,7 @@ exports.data = {
       }
       ]
   },
-  "break": {
+  {
     "files": [{
       "attachment": "media/img/info/role/break.png"
     }]
@@ -48,7 +48,7 @@ exports.data = {
       "attachment": "media/img/guides/max/attack.png"
     }]
   },
-  "break": {
+  {
     "files": [{
       "attachment": "media/img/info/role/break.png"
     }]
@@ -82,7 +82,7 @@ exports.data = {
       }
       ]
   },
-  "break": {
+  {
     "files": [{
       "attachment": "media/img/info/role/break.png"
     }]
@@ -92,7 +92,7 @@ exports.data = {
       "attachment": "media/img/guides/max/constitution.png"
     }]
   },
-  "break": {
+  {
     "files": [{
       "attachment": "media/img/info/role/break.png"
     }]
@@ -126,7 +126,7 @@ exports.data = {
       }
       ]
   },
-  "break": {
+  {
     "files": [{
       "attachment": "media/img/info/role/break.png"
     }]
@@ -136,7 +136,7 @@ exports.data = {
       "attachment": "media/img/guides/max/construction.png"
     }]
   },
-  "break": {
+  {
     "files": [{
       "attachment": "media/img/info/role/break.png"
     }]
@@ -170,7 +170,7 @@ exports.data = {
       }
       ]
   },
-  "break": {
+  {
     "files": [{
       "attachment": "media/img/info/role/break.png"
     }]
@@ -180,7 +180,7 @@ exports.data = {
       "attachment": "media/img/guides/max/cooking.png"
     }]
   },
-  "break": {
+  {
     "files": [{
       "attachment": "media/img/info/role/break.png"
     }]
@@ -214,7 +214,7 @@ exports.data = {
       }
       ]
   },
-  "break": {
+  {
     "files": [{
       "attachment": "media/img/info/role/break.png"
     }]
@@ -224,7 +224,7 @@ exports.data = {
       "attachment": "media/img/guides/max/crafting.png"
     }]
   },
-  "break": {
+  {
     "files": [{
       "attachment": "media/img/info/role/break.png"
     }]
@@ -258,7 +258,7 @@ exports.data = {
       }
       ]
   },
-  "break": {
+  {
     "files": [{
       "attachment": "media/img/info/role/break.png"
     }]
@@ -268,7 +268,7 @@ exports.data = {
       "attachment": "media/img/guides/max/defence.png"
     }]
   },
-  "break": {
+  {
     "files": [{
       "attachment": "media/img/info/role/break.png"
     }]
@@ -314,7 +314,7 @@ exports.data = {
       }
       ]
   },
-  "break": {
+  {
     "files": [{
       "attachment": "media/img/info/role/break.png"
     }]
@@ -324,7 +324,7 @@ exports.data = {
       "attachment": "media/img/guides/max/divination.png"
     }]
   },
-  "break": {
+  {
     "files": [{
       "attachment": "media/img/info/role/break.png"
     }]
@@ -358,7 +358,7 @@ exports.data = {
       }
       ]
   },
-  "break": {
+  {
     "files": [{
       "attachment": "media/img/info/role/break.png"
     }]
@@ -368,7 +368,7 @@ exports.data = {
       "attachment": "media/img/guides/max/dungeoneering.png"
     }]
   },
-  "break": {
+  {
     "files": [{
       "attachment": "media/img/info/role/break.png"
     }]
@@ -402,7 +402,7 @@ exports.data = {
       }
       ]
   },
-  "break": {
+  {
     "files": [{
       "attachment": "media/img/info/role/break.png"
     }]
@@ -412,7 +412,7 @@ exports.data = {
       "attachment": "media/img/guides/max/farming.png"
     }]
   },
-  "break": {
+  {
     "files": [{
       "attachment": "media/img/info/role/break.png"
     }]
@@ -446,7 +446,7 @@ exports.data = {
       }
       ]
   },
-  "break": {
+  {
     "files": [{
       "attachment": "media/img/info/role/break.png"
     }]
@@ -456,7 +456,7 @@ exports.data = {
       "attachment": "media/img/guides/max/firemaking.png"
     }]
   },
-  "break": {
+  {
     "files": [{
       "attachment": "media/img/info/role/break.png"
     }]
@@ -490,7 +490,7 @@ exports.data = {
       }
       ]
   },
-  "break": {
+  {
     "files": [{
       "attachment": "media/img/info/role/break.png"
     }]
@@ -500,7 +500,7 @@ exports.data = {
       "attachment": "media/img/guides/max/fishing.png"
     }]
   },
-  "break": {
+  {
     "files": [{
       "attachment": "media/img/info/role/break.png"
     }]
@@ -534,7 +534,7 @@ exports.data = {
       }
       ]
   },
-  "break": {
+  {
     "files": [{
       "attachment": "media/img/info/role/break.png"
     }]
@@ -544,7 +544,7 @@ exports.data = {
       "attachment": "media/img/guides/max/fletching.png"
     }]
   },
-  "break": {
+  {
     "files": [{
       "attachment": "media/img/info/role/break.png"
     }]
@@ -578,7 +578,7 @@ exports.data = {
       }
       ]
   },
-  "break": {
+  {
     "files": [{
       "attachment": "media/img/info/role/break.png"
     }]
@@ -588,7 +588,7 @@ exports.data = {
       "attachment": "media/img/guides/max/herblore.png"
     }]
   },
-  "break": {
+  {
     "files": [{
       "attachment": "media/img/info/role/break.png"
     }]
@@ -622,7 +622,7 @@ exports.data = {
       }
       ]
   },
-  "break": {
+  {
     "files": [{
       "attachment": "media/img/info/role/break.png"
     }]
@@ -632,7 +632,7 @@ exports.data = {
       "attachment": "media/img/guides/max/hunter.png"
     }]
   },
-  "break": {
+  {
     "files": [{
       "attachment": "media/img/info/role/break.png"
     }]
@@ -666,7 +666,7 @@ exports.data = {
       }
       ]
   },
-  "break": {
+  {
     "files": [{
       "attachment": "media/img/info/role/break.png"
     }]
@@ -676,7 +676,7 @@ exports.data = {
       "attachment": "media/img/guides/max/invention.png"
     }]
   },
-  "break": {
+  {
     "files": [{
       "attachment": "media/img/info/role/break.png"
     }]
@@ -710,7 +710,7 @@ exports.data = {
       }
       ]
   },
-  "break": {
+  {
     "files": [{
       "attachment": "media/img/info/role/break.png"
     }]
@@ -720,7 +720,7 @@ exports.data = {
       "attachment": "media/img/guides/max/magic.png"
     }]
   },
-  "break": {
+  {
     "files": [{
       "attachment": "media/img/info/role/break.png"
     }]
@@ -754,7 +754,7 @@ exports.data = {
       }
       ]
   },
-  "break": {
+  {
     "files": [{
       "attachment": "media/img/info/role/break.png"
     }]
@@ -764,7 +764,7 @@ exports.data = {
       "attachment": "media/img/guides/max/minng.png"
     }]
   },
-  "break": {
+  {
     "files": [{
       "attachment": "media/img/info/role/break.png"
     }]
@@ -798,7 +798,7 @@ exports.data = {
       }
       ]
   },
-  "break": {
+  {
     "files": [{
       "attachment": "media/img/info/role/break.png"
     }]
@@ -808,7 +808,7 @@ exports.data = {
       "attachment": "media/img/guides/max/prayer.png"
     }]
   },
-  "break": {
+  {
     "files": [{
       "attachment": "media/img/info/role/break.png"
     }]
@@ -842,7 +842,7 @@ exports.data = {
       }
       ]
   },
-  "break": {
+  {
     "files": [{
       "attachment": "media/img/info/role/break.png"
     }]
@@ -852,7 +852,7 @@ exports.data = {
       "attachment": "media/img/guides/max/ranged.png"
     }]
   },
-  "break": {
+  {
     "files": [{
       "attachment": "media/img/info/role/break.png"
     }]
@@ -886,7 +886,7 @@ exports.data = {
       }
       ]
   },
-  "break": {
+  {
     "files": [{
       "attachment": "media/img/info/role/break.png"
     }]
@@ -896,7 +896,7 @@ exports.data = {
       "attachment": "media/img/guides/max/runecrafting.png"
     }]
   },
-  "break": {
+  {
     "files": [{
       "attachment": "media/img/info/role/break.png"
     }]
@@ -930,7 +930,7 @@ exports.data = {
       }
       ]
   },
-  "break": {
+  {
     "files": [{
       "attachment": "media/img/info/role/break.png"
     }]
@@ -940,7 +940,7 @@ exports.data = {
       "attachment": "media/img/guides/max/slayer.png"
     }]
   },
-  "break": {
+  {
     "files": [{
       "attachment": "media/img/info/role/break.png"
     }]
@@ -974,7 +974,7 @@ exports.data = {
       }
       ]
   },
-  "break": {
+  {
     "files": [{
       "attachment": "media/img/info/role/break.png"
     }]
@@ -984,7 +984,7 @@ exports.data = {
       "attachment": "media/img/guides/max/smithing.png"
     }]
   },
-  "break": {
+  {
     "files": [{
       "attachment": "media/img/info/role/break.png"
     }]
@@ -1018,7 +1018,7 @@ exports.data = {
       }
       ]
   },
-  "break": {
+  {
     "files": [{
       "attachment": "media/img/info/role/break.png"
     }]
@@ -1028,7 +1028,7 @@ exports.data = {
       "attachment": "media/img/guides/max/strength.png"
     }]
   },
-  "break": {
+  {
     "files": [{
       "attachment": "media/img/info/role/break.png"
     }]
@@ -1062,7 +1062,7 @@ exports.data = {
       }
       ]
   },
-  "break": {
+  {
     "files": [{
       "attachment": "media/img/info/role/break.png"
     }]
@@ -1072,7 +1072,7 @@ exports.data = {
       "attachment": "media/img/guides/max/summoning.png"
     }]
   },
-  "break": {
+  {
     "files": [{
       "attachment": "media/img/info/role/break.png"
     }]
@@ -1106,7 +1106,7 @@ exports.data = {
       }
       ]
   },
-  "break": {
+  {
     "files": [{
       "attachment": "media/img/info/role/break.png"
     }]
@@ -1116,7 +1116,7 @@ exports.data = {
       "attachment": "media/img/guides/max/thieving.png"
     }]
   },
-  "break": {
+  {
     "files": [{
       "attachment": "media/img/info/role/break.png"
     }]
@@ -1150,7 +1150,7 @@ exports.data = {
       }
       ]
   },
-  "break": {
+  {
     "files": [{
       "attachment": "media/img/info/role/break.png"
     }]
@@ -1160,7 +1160,7 @@ exports.data = {
       "attachment": "media/img/guides/max/woodcutting.png"
     }]
   },
-  "break": {
+  {
     "files": [{
       "attachment": "media/img/info/role/break.png"
     }]
