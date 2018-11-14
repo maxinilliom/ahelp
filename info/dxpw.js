@@ -761,7 +761,7 @@ exports.data = {
   },
   "miningheader": {
     "files": [{
-      "attachment": "media/img/guides/max/minng.png"
+      "attachment": "media/img/guides/max/mining.png"
     }]
   },
   "break34": {
@@ -1102,7 +1102,7 @@ exports.data = {
       },
       {
         "name": "Tips:",
-        "value": "It is recommended to do the buying and selling method in [Taverly](https://runescape.wiki/w/Taverley) to increase the experience gained per hour. If you're low on charms, [Amlodd VoS](https://runescape.wiki/w/Voice_of_Seren#Known_effects) is the better alternative. The **Boxes** friend's chat can be used to find [Portable Deposit Boxes](https://runescape.wiki/w/Portable_deposit_box) for the Taverly method."
+        "value": "It is recommended to do the buying and selling method in [Taverley](https://runescape.wiki/w/Taverley) to increase the experience gained per hour. If you're low on charms, [Amlodd VoS](https://runescape.wiki/w/Voice_of_Seren#Known_effects) is the better alternative. The **Boxes** friend's chat can be used to find [Portable Deposit Boxes](https://runescape.wiki/w/Portable_deposit_box) for the Taverley method."
       }
       ]
   },
