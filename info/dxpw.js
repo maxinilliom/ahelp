@@ -98,10 +98,10 @@ exports.data = {
     }]
   },
     "constitution": {
-    "title": "Construction Method:",
-    "description":"[Flotsam Prawnbrokers](https://runescape.wiki/w/Flotsam_prawnbroker)",
+    "title": "Constitution Method:",
+    "description":"Any of the [Combat Triangle](https://runescape.wiki/w/Combat_triangle)",
     "thumbnail": {
-      "url": "https://i.imgur.com/yh5fD3j.png"
+      "url": "https://i.imgur.com/1mEzhB1.png"
     },
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
@@ -114,15 +114,15 @@ exports.data = {
           "fields": [
       {
         "name": "Worn Items:",
-        "value": "• [Construction Cape](https://runescape.wiki/w/Construction_cape)\n• [Constructor's Outfit](https://runescape.wiki/w/Constructor%27s_outfit)\n• [Sculpting Chisel](https://runescape.wiki/w/Sculpting_chisel)"
+        "value": "• Dependent on combat method used"
       },
       {
         "name": "Inventory:",
-        "value": "• [Mahogany Planks](https://runescape.wiki/w/Mahogany_plank)\n• Coins to pay the [Servants](https://runescape.wiki/w/Servant), unless you own [Monkey Butler](https://runescape.wiki/w/Mind-controlled_monkey_butler)"
+        "value": "• N/A"
       },
       {
         "name": "Tips:",
-        "value": "Having a weight holding down your 1 key can help with some of the intensity. The [Scroll of Proficiency](https://runescape.wiki/w/Scroll_of_proficiency) gives you the chance to save a plank when building furniture that requires 3 or more planks."
+        "value": "Constitution gets trained by using any of the 3 styles. Experience is gained 1/3rd the rate of Attack, Strength, Defence, Ranged, and/or Magic."
       }
       ]
   },
