@@ -610,7 +610,7 @@ exports.data = {
           "fields": [
       {
         "name": "Worn Items:",
-        "value": "• [Botanist's Outfit](https://runescape.wiki/w/Botanist%27s_outfit)\n• [Ring of Whispers](https://runescape.wiki/w/Ring_of_Whispers)\n• [Combined Catalyst Fragment](https://runescape.wiki/w/Combined_Catalyst_fragment)\n• [Necklace of Shadows](https://runescape.wiki/w/Necklace_of_Shadows)"
+        "value": "• [Botanist's Outfit](https://runescape.wiki/w/Botanist%27s_outfit)\n• [Botanist's Amulet](https://runescape.wiki/w/Botanist%27s_amulet)"
       },
       {
         "name": "Inventory:",
