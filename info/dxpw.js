@@ -398,7 +398,7 @@ exports.data = {
       },
       {
         "name": "Tips:",
-        "value": "Teams can be found on World 77. Purchasing the [Scroll of Quick Teleportation](https://runescape.wiki/w/Scroll_of_quick_teleportation) can be beneficial when running floors."
+        "value": "Teams can be found on World 77. Purchasing the [Scroll of Quick Teleportation](https://runescape.wiki/w/Scroll_of_quick_teleportation) can be beneficial when running floors. If for some reason you can not find a 5th team mate, or prefer to do solo runs, use [Party Simulators](https://runescape.wiki/w/Dungeoneering_party_simulator) to increase the experience gained."
       }
       ]
   },
