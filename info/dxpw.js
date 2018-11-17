@@ -1,10 +1,15 @@
 exports.data = {
+  "break0": {
+    "files": [{
+      "attachment": "media/img/info/role/break.png"
+    }]
+  },
   "agilityheader": {
     "files": [{
       "attachment": "media/img/guides/max/agility.png"
     }]
   },
-  "break0": {
+  "break00": {
     "files": [{
       "attachment": "media/img/info/role/break.png"
     }]

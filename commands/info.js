@@ -18,7 +18,15 @@ exports.run = (client, message, args, level) => {
 			const curr = data[embeds[o]];
 			const embed = curr.description || curr.fields ? {embed: curr} : curr;
 			const channelName = message.channel.name.toProperCase().replace(/-/g, " ");
-			if (curr.footer) curr.footer.text = `Achievement Help | ${channelName}`;
+			if (curr.footer && type !== "dxpw") {
+				curr.footer.text = `Achievement Help | ${channelName}`;
+			} else if (curr.footer) {
+				curr.footer = {
+					"icon_url": "https://cdn.discordapp.com/icons/336818736810164235/bf9860830b1da5343526e97e0fc7e9fc.png",
+					"text": "For more info on XP rates and efficiency visit Skilling! (https://discord.me/skilling)"
+				}
+			}
+
 			if (curr.description || curr.footer) {
 				switch (type) {
 					case "affiliate": 
