@@ -300,7 +300,7 @@ exports.data = {
       },
       {
         "name": "Invite Link:",
-        "value": "https://discord.gg/DQvsUp7"
+        "value": "https://discord.gg/ygnJXZ7"
       },
       {
         "name": "Contact:",
