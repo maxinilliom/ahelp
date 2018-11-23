@@ -7183,10 +7183,6 @@ exports.data = {
 				{
 					"name": "Requirements:",
 					"value": "• The Needle Skips Quest completion | [Runescape Wiki](https://runescape.wiki/w/The_Needle_Skips)"
-				},
-				{
-					"name": "Guide:",
-					"value": "• [Rebuilding Edgeville Miniquest guide | Runescape Wiki](https://runescape.wiki/w/Rebuilding_Edgeville)"
 				}
 			],
 			"footer": {
