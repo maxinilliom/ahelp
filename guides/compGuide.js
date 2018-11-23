@@ -7167,6 +7167,35 @@ exports.data = {
 			"timestamp": "2001-01-04T12:00:00Z"
 		}
 	},
+	"pulling on the threads": {
+		"cmds": ["mqc"],
+		"embed": {
+			"title": "Pulling on the Threads",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Pulling on the Threads](https://runescape.wiki/w/Pulling_on_the_Threads) is an achievement that requires the player to discover all of the memories in each of the chapters in [The Needle Skips](https://runescape.wiki/w/The_Needle_Skips) and then claim the reward from [Megan](https://runescape.wiki/w/Megan_(The_Needle_Skips%29). Finding each word for each memory is not necessary. You must leave the instanced quest area before speaking with Megan to complete the achievement. ",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Requirements:",
+					"value": "• The Needle Skips Quest completion | [Runescape Wiki](https://runescape.wiki/w/The_Needle_Skips)"
+				},
+				{
+					"name": "Guide:",
+					"value": "• [Rebuilding Edgeville Miniquest guide | Runescape Wiki](https://runescape.wiki/w/Rebuilding_Edgeville)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+				"text": "Runescore awarded: 10"
+			},
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
+	},
 	"quiet but deadly lore": {
 		"cmds": ["mqc", "trim"],
 		"embed": {
