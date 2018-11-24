@@ -851,6 +851,39 @@ exports.data = {
       }
       ]
   },
+  "Rago PvM": {
+    "title": "Rago PvM",
+    "description":"Rago PvM for those interested in Vorago (both mass and small teams). Anyone can form teams here, join events and masses to get your achievements done. Helping people improve is our main goal.",
+    "thumbnail": {
+      "url": "https://cdn.discordapp.com/icons/508332998437896204/b98d05ec172f1899a16e4eb264d1a7e2.webp"
+    },
+    "footer": {
+      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "text": "Achievement Help | Connecting our Helpful Communities!"
+    },
+    "author": {
+      "name": "Combat Affiliate Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+          "fields": [
+      {
+        "name": "What We Offer:",
+        "value": "• Daily Hard Mode trips as well as free mauls for each rotation\n• Reaper Title req. (kill Vorago once)\n• Learning sessions for mechanics and roles\n• Instruction for those that require it, or wish to progress from large to smaller teams\n• Daily masses and weekly community events"
+      },
+      {
+        "name": "Friends Chat:",
+        "value": "Rago PvM"
+      },            
+      {
+        "name": "Invite Link:",
+        "value": "https://discord.gg/fy6AFuz"
+      },
+      {
+        "name": "Contact:",
+        "value": "<@300296497277173761>"
+      }
+      ]
+  },
   "Raiders of Mazcab": {
     "title": "Raiders of Mazcab",
     "description":"Raider of Mazcab is a  Raids server that specializes in learner raids, along with hosting daily reset raids! With a strong leadership and ranks that have set requirements, teams will be formed and completed with assurance that each raid will be completed on the first time.",
@@ -1060,35 +1093,6 @@ exports.data = {
       {
         "name": "Contact:",
         "value": "<@385226602549608448>"
-      }
-      ]
-  },
-  "Wandoodle & Rago PvM": {
-    "title": "Rago PvM",
-    "description":"Rago PvM is for those interested in Vorago both mass and small teams. We offer some instruction for those that require it, or wish to progress from larger teams to smaller teams.\n\nThe discord/clan has moved from the realms of being just a pvm clan to more a community social clan. As a clan, they can offer support and help/guidance with many achievements and requirements.",
-    "thumbnail": {
-      "url": "https://cdn.discordapp.com/icons/279456757682667520/d811be44bccca7444a59adadf3adbae2.webp"
-    },
-    "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
-      "text": "Achievement Help | Connecting our Helpful Communities!"
-    },
-    "author": {
-      "name": "Combat Affiliate Info",
-      "icon_url": "https://i.imgur.com/6c6q2iC.png"
-    },
-          "fields": [
-      {
-        "name": "Friend's Chat:",
-        "value": "Wandoodle"
-      },
-      {
-        "name": "Invite Link:",
-        "value": "https://discord.gg/4ZtcWHr"
-      },
-      {
-        "name": "Contact:",
-        "value": "<@138289815182508033>"
       }
       ]
   },
