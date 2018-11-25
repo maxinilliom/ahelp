@@ -7175,11 +7175,23 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Pulling on the Threads](https://runescape.wiki/w/Pulling_on_the_Threads) is an achievement that requires the player to discover all of the memories in each of the chapters in [The Needle Skips](https://runescape.wiki/w/The_Needle_Skips) and then claim the reward from [Megan](https://runescape.wiki/w/Megan_(The_Needle_Skips%29). Finding each word for each memory is not necessary. You must leave the instanced quest area before speaking with Megan to complete the achievement. ",
+			"description": "[Pulling on the Threads](https://runescape.wiki/w/Pulling_on_the_Threads) is an achievement that requires the player to discover all of the memories in each of the chapters in [The Needle Skips](https://runescape.wiki/w/The_Needle_Skips) and then claim the reward from [Megan](https://runescape.wiki/w/Megan_(The_Needle_Skips%29). Finding each word for each memory is not necessary. You must leave the instanced quest area before speaking with Megan to complete the achievement.\n\nThere are multiple words that can be used to unlock each memory, below is a list of one possibility per memory in order to complete the achievement. A full list can be found in The Needle Skips quest guide.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
 			"fields": [
+				{
+					"name": "Chapter 1:",
+					"value": "30th, angry, attack, bed, blue, cart, cook, cry, friends, fuel, gods, month, potions, prayers, sing, sloop, spear, study, voice, wand, year"
+				},
+				{
+					"name": "Chapter 2:",
+					"value": "30th, baba, bed, birthday, book, dad, dome, doubt, gail, grave, key, liar, look, metum, mum, poison, scar, shade, thing, thok"
+				},
+				{
+					"name": "Chapter 3:",
+					"value": "bed, book, buckthorn, dead, evil, fainted, family, fate, fix, gail, knife, loop, metum, needle, no, note, people, thing, wenla"
+				},
 				{
 					"name": "Requirements:",
 					"value": "• The Needle Skips Quest completion | [Runescape Wiki](https://runescape.wiki/w/The_Needle_Skips)"
