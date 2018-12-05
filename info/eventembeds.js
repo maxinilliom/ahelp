@@ -1,4 +1,4 @@
-exports.data = {
+﻿exports.data = {
     "capping": {  
       "title":"Preparation:",
       "description":"Guests are welcome, but only clan members will be able to use the [Skill plots](https://runescape.wiki/w/Clan_Citadel#Skill_plots).",
@@ -94,7 +94,7 @@ exports.data = {
          },
          {  
             "name":"​Who:",
-            "value":"<@294617234033213450>, <@113770763261181961>, <@212672527405678592>, their [Achievement Help](https://www.discord.gg/uUUMPbd) Discord team, and their [Alright](https://discord.gg/KwysmXr) clan."
+            "value":"<@294617234033213450>, <@113770763261181961>, their [Achievement Help](https://www.discord.gg/uUUMPbd) Discord team, and their [Alright](https://discord.gg/KwysmXr) clan."
          },
          {  
             "name":"​What is Needed:",
@@ -192,7 +192,7 @@ exports.data = {
          },
          {  
             "name":"​Who:",
-            "value":"<@294617234033213450>, <@113770763261181961>, <@212672527405678592>, their [Achievement Help](https://www.discord.gg/uUUMPbd) Discord team, and their [Alright](https://discord.gg/KwysmXr) clan."
+            "value":"<@294617234033213450>, <@113770763261181961>, their [Achievement Help](https://www.discord.gg/uUUMPbd) Discord team, and their [Alright](https://discord.gg/KwysmXr) clan."
          },
          {  
             "name":"​What is Needed:",
@@ -229,7 +229,7 @@ exports.data = {
          },
          {  
             "name":"​Who:",
-            "value":"<@294617234033213450>, <@113770763261181961>, <@212672527405678592>, their [Achievement Help](https://www.discord.gg/uUUMPbd) Discord team, and their [Alright](https://discord.gg/KwysmXr) clan."
+            "value":"<@294617234033213450>, <@113770763261181961>, their [Achievement Help](https://www.discord.gg/uUUMPbd) Discord team, and their [Alright](https://discord.gg/KwysmXr) clan."
          },
          {  
             "name":"​What is Needed:",
@@ -262,7 +262,7 @@ exports.data = {
          },
          {  
             "name":"​Who:",
-            "value":"<@294617234033213450>, <@113770763261181961>, <@212672527405678592>, their [Achievement Help](https://www.discord.gg/uUUMPbd) Discord team, and their [Alright](https://discord.gg/KwysmXr) clan."
+            "value":"<@294617234033213450>, <@113770763261181961>, their [Achievement Help](https://www.discord.gg/uUUMPbd) Discord team, and their [Alright](https://discord.gg/KwysmXr) clan."
          },
          {  
             "name":"​What is Needed:",
@@ -299,7 +299,7 @@ exports.data = {
          },
          {  
             "name":"​Who:",
-            "value":"<@294617234033213450>, <@113770763261181961>, <@212672527405678592>, their [Achievement Help](https://www.discord.gg/uUUMPbd) Discord team, and their [Alright](https://discord.gg/KwysmXr) clan."
+            "value":"<@294617234033213450>, <@113770763261181961>, their [Achievement Help](https://www.discord.gg/uUUMPbd) Discord team, and their [Alright](https://discord.gg/KwysmXr) clan."
          },
          {  
             "name":"​What is Needed:",
@@ -336,7 +336,7 @@ exports.data = {
          },
          {  
             "name":"​Who:",
-            "value":"<@294617234033213450>, <@113770763261181961>, <@212672527405678592>, their [Achievement Help](https://www.discord.gg/uUUMPbd) Discord team, and their [Alright](https://discord.gg/KwysmXr) clan."
+            "value":"<@294617234033213450>, <@113770763261181961>, their [Achievement Help](https://www.discord.gg/uUUMPbd) Discord team, and their [Alright](https://discord.gg/KwysmXr) clan."
          },
          {  
             "name":"​Possible Combat Achievements:",
@@ -381,7 +381,7 @@ exports.data = {
          },
          {  
             "name":"​Who:",
-            "value":"<@294617234033213450>, <@113770763261181961>, <@212672527405678592>, their [Achievement Help](https://www.discord.gg/uUUMPbd) Discord team, and their [Alright](https://discord.gg/KwysmXr) clan."
+            "value":"<@294617234033213450>, <@113770763261181961>, their [Achievement Help](https://www.discord.gg/uUUMPbd) Discord team, and their [Alright](https://discord.gg/KwysmXr) clan."
          },
          {  
             "name":"​What is Needed:",
@@ -451,7 +451,7 @@ exports.data = {
          },
          {  
             "name":"​Who:",
-            "value":"<@294617234033213450>, <@113770763261181961>, <@212672527405678592>, their [Achievement Help](https://www.discord.gg/uUUMPbd) Discord team, and their [Alright](https://discord.gg/KwysmXr) clan."
+            "value":"<@294617234033213450>, <@113770763261181961>, their [Achievement Help](https://www.discord.gg/uUUMPbd) Discord team, and their [Alright](https://discord.gg/KwysmXr) clan."
          },
          {  
             "name":"​What is Needed:",
@@ -488,7 +488,7 @@ exports.data = {
          },
          {  
             "name":"​Who:",
-            "value":"<@294617234033213450>, <@113770763261181961>, <@212672527405678592>, their [Achievement Help](https://www.discord.gg/uUUMPbd) Discord team, and their [Alright](https://discord.gg/KwysmXr) clan."
+            "value":"<@294617234033213450>, <@113770763261181961>, their [Achievement Help](https://www.discord.gg/uUUMPbd) Discord team, and their [Alright](https://discord.gg/KwysmXr) clan."
          },
          {  
             "name":"​What is Needed:",
@@ -529,7 +529,7 @@ exports.data = {
          },
          {  
             "name":"​Who:",
-            "value":"<@294617234033213450>, <@113770763261181961>, <@212672527405678592>, their [Achievement Help](https://www.discord.gg/uUUMPbd) Discord team, and their [Alright](https://discord.gg/KwysmXr) clan."
+            "value":"<@294617234033213450>, <@113770763261181961>, their [Achievement Help](https://www.discord.gg/uUUMPbd) Discord team, and their [Alright](https://discord.gg/KwysmXr) clan."
          },
          {  
             "name":"​What is Needed:",
@@ -570,7 +570,7 @@ exports.data = {
          },
          {  
             "name":"​Who:",
-            "value":"<@294617234033213450>, <@113770763261181961>, <@212672527405678592>, their [Achievement Help](https://www.discord.gg/uUUMPbd) Discord team, and their [Alright](https://discord.gg/KwysmXr) clan."
+            "value":"<@294617234033213450>, <@113770763261181961>, their [Achievement Help](https://www.discord.gg/uUUMPbd) Discord team, and their [Alright](https://discord.gg/KwysmXr) clan."
          },
          {  
             "name":"​What is Needed:",
@@ -640,7 +640,7 @@ exports.data = {
          },
          {  
             "name":"​Who:",
-            "value":"<@294617234033213450>, <@113770763261181961>, <@212672527405678592>, and their [Alright](https://discord.gg/KwysmXr) clan."
+            "value":"<@294617234033213450>, <@113770763261181961>, and their [Alright](https://discord.gg/KwysmXr) clan."
          },
          {  
             "name":"​What is Needed:",
@@ -673,7 +673,7 @@ exports.data = {
          },
          {  
             "name":"Who:",
-            "value":"<@294617234033213450>, <@113770763261181961>, <@212672527405678592>, and their [Alright](https://discord.gg/KwysmXr) clan."
+            "value":"<@294617234033213450>, <@113770763261181961>, and their [Alright](https://discord.gg/KwysmXr) clan."
          },
          {  
             "name":"What is Needed:",
@@ -706,7 +706,7 @@ exports.data = {
          },
          {  
             "name":"​Who:",
-            "value":"<@294617234033213450>, <@113770763261181961>, <@212672527405678592>, their [Achievement Help](https://www.discord.gg/uUUMPbd) Discord team, and their [Alright](https://discord.gg/KwysmXr) clan."
+            "value":"<@294617234033213450>, <@113770763261181961>, their [Achievement Help](https://www.discord.gg/uUUMPbd) Discord team, and their [Alright](https://discord.gg/KwysmXr) clan."
          },
          {  
             "name":"​What is Needed:",
@@ -739,7 +739,7 @@ exports.data = {
          },
          {  
             "name":"Who:",
-            "value":"<@294617234033213450>, <@113770763261181961>, <@212672527405678592>, their [Achievement Help](https://www.discord.gg/uUUMPbd) Discord team, and their [Alright](https://discord.gg/KwysmXr) clan."
+            "value":"<@294617234033213450>, <@113770763261181961>, their [Achievement Help](https://www.discord.gg/uUUMPbd) Discord team, and their [Alright](https://discord.gg/KwysmXr) clan."
          },
          {  
             "name":"What is Needed:",
@@ -772,7 +772,7 @@ exports.data = {
          },
          {  
             "name":"​Who:",
-            "value":"<@294617234033213450>, <@113770763261181961>, <@212672527405678592>, their [Achievement Help](https://www.discord.gg/uUUMPbd) Discord team, and their [Alright](https://discord.gg/KwysmXr) clan."
+            "value":"<@294617234033213450>, <@113770763261181961>, their [Achievement Help](https://www.discord.gg/uUUMPbd) Discord team, and their [Alright](https://discord.gg/KwysmXr) clan."
          },
          {  
             "name":"​What is Needed:",
@@ -805,7 +805,7 @@ exports.data = {
          },
          {  
             "name":"Who:",
-            "value":"<@294617234033213450>, <@113770763261181961>, <@212672527405678592>, their [Achievement Help](https://www.discord.gg/uUUMPbd) Discord team, and their [Alright](https://discord.gg/KwysmXr) clan."
+            "value":"<@294617234033213450>, <@113770763261181961>, their [Achievement Help](https://www.discord.gg/uUUMPbd) Discord team, and their [Alright](https://discord.gg/KwysmXr) clan."
          },
          {  
             "name":"What is Needed:",
@@ -879,7 +879,7 @@ exports.data = {
          },
          {  
             "name":"Who:",
-            "value":"<@294617234033213450>, <@113770763261181961>, <@212672527405678592>, their [Achievement Help](https://www.discord.gg/uUUMPbd) Discord team, and their [Alright](https://discord.gg/KwysmXr) clan."
+            "value":"<@294617234033213450>, <@113770763261181961>, their [Achievement Help](https://www.discord.gg/uUUMPbd) Discord team, and their [Alright](https://discord.gg/KwysmXr) clan."
          },
          {  
             "name":"What is Needed:",
@@ -920,7 +920,7 @@ exports.data = {
          },
          {  
             "name":"​Who:",
-            "value":"<@294617234033213450>, <@113770763261181961>, <@212672527405678592>, their [Achievement Help](https://www.discord.gg/uUUMPbd) Discord team, and their [Alright](https://discord.gg/KwysmXr) clan."
+            "value":"<@294617234033213450>, <@113770763261181961>, their [Achievement Help](https://www.discord.gg/uUUMPbd) Discord team, and their [Alright](https://discord.gg/KwysmXr) clan."
          },
          {  
             "name":"​What is Needed:",
