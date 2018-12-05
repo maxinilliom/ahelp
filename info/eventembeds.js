@@ -237,6 +237,76 @@
          }
       ]
    },
+    "fashionscape": {  
+      "title":"Preparation:",
+      "description":"Pull out your best outfits!",
+      "footer":{  
+         "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
+         "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
+      },
+      "thumbnail":{  
+         "url":"https://runescape.wiki/images/archive/1/15/20111119192500%21Dance_emote_icon.png?fcc22"
+      },
+      "author":{  
+         "name":"Fashionscape",
+         "icon_url":"https://i.imgur.com/6c6q2iC.png"
+      },
+      "fields":[  
+         {  
+            "name":"Where:",
+            "value":"The [Alright](https://discord.gg/KwysmXr) Clan's Discord Server.  A fashionscape channel will be created for the event."
+         },
+         {  
+            "name":"Why:",
+            "value":"Socialization and fun!"
+         },
+         {  
+            "name":"Rules:",
+            "value":"You may enter each category once, and may change your entries up until the contest ends.  One picture may not be submitted for multiple categories.  All entries must be labeled with the category you are submitting them under.  The categories are as follows: \n\n1) Christmas/Festive \n2) Terrible Fashionscape \n3) Sneaky/Ninja \n4) IRL/Pop Culture Lookalike \n5) Sore Thumb - Take a screenshot of your character in a random spot in RS and your character's fashionscape has to be jarring in comparison to everything around you.\n\nThe Leaders will judge.  The winner of each category will get a bond!"
+         },
+         {  
+            "name":"Who:",
+            "value":"The [Alright](https://discord.gg/KwysmXr) clan!"
+         },
+         {  
+            "name":"What is Needed:",
+            "value":"Your best fashionscape!"
+         }
+      ]
+   },
+    "fishing trawler": {  
+      "title":"Preparation:",
+      "description":"All are welcome! We will be teaching how to do the event on Discord if any learners are apprehensive about coming.\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Fishing_Trawler).",
+      "footer":{  
+         "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
+         "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
+      },
+      "thumbnail":{  
+         "url":"https://runescape.wiki/images/1/14/Mg_fishingtrawler.jpg?ea413"
+      },
+      "author":{  
+         "name":"Fishing Trawler Community Event",
+         "icon_url":"https://i.imgur.com/6c6q2iC.png"
+      },
+      "fields":[  
+         {  
+            "name":"Where:",
+            "value":"[Port Khazard](https://runescape.wiki/w/Port_Khazard), World 68 in <@113770763261181961>'s friends chat."
+         },
+         {  
+            "name":"Why:",
+            "value":"To assist everyone who needs [Fishing Trawler](https://runescape.wiki/w/Fishing_Trawler) for:\n\n• Unlocking the [music](https://runescape.wiki/w/Music)\n• Completing the [Going Down With The Ship](https://runescape.wiki/w/Going_Down_With_The_Ship) achievement (let the ship take on 8 leaks before patching them up fully and successfully completing Fishing Trawler)\n• Completing the [Catching Some Rays](https://runescape.wiki/w/Catching_Some_Rays) achievement (catch a [raw manta ray](https://runescape.wiki/w/Raw_manta_ray) in the Fishing Trawler)\n• Making progress toward the [Fishy Dishes](https://runescape.wiki/w/Fishy_Dishes) achievement ([Tiger Sharks](https://runescape.wiki/w/Tiger_shark) may only be ontained through the Fishing Trawler)"
+         },
+         {  
+            "name":"Who:",
+            "value":"<@294617234033213450>, <@113770763261181961>, their [Achievement Help](https://www.discord.gg/uUUMPbd) Discord team, and their [Alright](https://discord.gg/KwysmXr) clan."
+         },
+         {  
+            "name":"What is Needed:",
+           "value":"This is a safe [minigame](https://runescape.wiki/w/Minigames).\n\n[Swamp Paste](https://runescape.wiki/w/Swamp_paste) may be used to fill leaks, [bailing buckets](https://runescape.wiki/w/Bailing_bucket) to bail water, and [rope](https://runescape.wiki/w/Rope) to fix the nets.  These items may be purchased from the [general stores](https://runescape.wiki/w/Khazard_General_Store) in Port Khazard.\n\nThe type of fish received depends on the player's [Fishing](https://runescape.wiki/w/Fishing) level.  Specifically, manta rays require a Fishing level of 81, and tiger sharks require a Fishing level of 95."
+         }
+      ]
+   },
     "general graardor": {  
       "title":"Preparation:",
       "description":"All are welcome! We will be teaching how to do the boss on Discord if any learners are apprehensive about coming.\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/General_Graardor/Strategies) or a video guide [here](https://www.youtube.com/watch?v=CDur0jqFF_8).",
@@ -648,6 +718,39 @@
          }
       ]
    },
+    "secret santa": {  
+      "title":"Preparation:",
+      "description":"Clan Members and Honored Guests may signup in the [Alright](https://discord.gg/KwysmXr) Clan's Discord by December 3rd if they wish to participate.",
+      "footer":{  
+         "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
+         "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
+      },
+      "thumbnail":{  
+         "url":"https://runescape.wiki/images/8/86/Santa_head.png?7ab41"
+      },
+      "author":{  
+         "name":"Secret Santa",
+         "icon_url":"https://i.imgur.com/6c6q2iC.png"
+      },
+      "fields":[  
+         {  
+            "name":"Why:",
+            "value":"Socialization and fun!"
+         },
+         {  
+            "name":"How:",
+            "value":"After registering for the event, you will be given the name of your recipient on December 4th.  After buying or making your gift, please trade it to any of the Leaders.  Please keep gifts under 25m.  Gifts will be distributed the week of December 21st through the end of the year."
+         },
+         {  
+            "name":"Who:",
+            "value":"The [Alright](https://discord.gg/KwysmXr) clan!"
+         },
+         {  
+            "name":"What is Needed:",
+            "value":"A gift for your recipient!"
+         }
+      ]
+    },
     "skill and chill": {  
       "title":"Preparation:",
       "description":"All are welcome!",
@@ -744,6 +847,43 @@
          {  
             "name":"What is Needed:",
            "value":"This is a safe [minigame](https://runescape.wiki/w/Minigames). You cannot wear or bring any items into the arena. There is a bank deposit box right by the entrance for your convenience. Items on the [tool belt](https://runescape.wiki/w/Tool_belt) do not work in the game."
+         }
+      ]
+   },
+    "trivia": {  
+      "title":"Preparation:",
+      "description":"Just bring yourself!",
+      "footer":{  
+         "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
+         "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
+      },
+      "thumbnail":{  
+         "url":"https://runescape.wiki/images/archive/3/36/20080318003052%21Think_emote_icon.png?6ea4d"
+      },
+      "author":{  
+         "name":"Trivia",
+         "icon_url":"https://i.imgur.com/6c6q2iC.png"
+      },
+      "fields":[  
+         {  
+            "name":"Where:",
+            "value":"The Alright Clan's Clan Chat."
+         },
+         {  
+            "name":"Why:",
+            "value":"Socialization and fun!"
+         },
+         {  
+            "name":"How:",
+            "value":"We will have 5 categories with 15-20 questions each. The categories will be a secret until the event starts. The first person to correctly answer a question will get a point. The person with the most points per category wins a bond."
+         },
+         {  
+            "name":"Who:",
+            "value":"The [Alright](https://discord.gg/KwysmXr) clan!"
+         },
+         {  
+            "name":"What is Needed:",
+            "value":"Nothing at all!"
          }
       ]
    },
