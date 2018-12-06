@@ -426,6 +426,39 @@
          }
       ]
    },
+    "heist": {  
+      "title":"Preparation:",
+      "description":"All are welcome! We will be teaching how to do the event on Discord if any learners are apprehensive about coming.\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Heist).",
+      "footer":{  
+         "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
+         "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
+      },
+      "thumbnail":{  
+         "url":"https://runescape.wiki/images/b/be/Heist_game_lobby.png?42d20"
+      },
+      "author":{  
+         "name":"Heist Community Event",
+         "icon_url":"https://i.imgur.com/6c6q2iC.png"
+      },
+      "fields":[  
+         {  
+            "name":"​Where:",
+            "value":"[Heist](https://runescape.wiki/w/Heist) may be accessed by climbing the ladder just north-west of [Falador](https://runescape.wiki/w/Falador), by the [Taverly](https://runescape.wiki/w/Taverley) wall, World 68 in <@113770763261181961>'s friends chat."
+         },
+         {  
+            "name":"​Why:",
+            "value":"To assist everyone who needs to unlock the [music](https://runescape.wiki/w/Music), complete the [Cops and Robbers](https://runescape.wiki/w/Cops_and_Robbers) achievement (unlock all perks in Heist), or for those who just want to have fun."
+         },
+         {  
+            "name":"​Who:",
+            "value":"<@294617234033213450>, <@113770763261181961>, their [Achievement Help](https://www.discord.gg/uUUMPbd) Discord team, and their [Alright](https://discord.gg/KwysmXr) clan."
+         },
+         {  
+            "name":"​What is Needed:",
+            "value":"This is a safe [minigame](https://runescape.wiki/w/Minigames). You cannot wear or bring any items into the arena. There is a bank chest in the waiting area for your convenience."
+         }
+      ]
+   },
     "helwyr": {  
       "title":"Preparation:",
       "description":"All are welcome! We will be teaching how to do the boss on Discord if any learners are apprehensive about coming.\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Helwyr/Strategies) or a video guide [here](https://www.youtube.com/watch?v=5jt0odJqXns).",
