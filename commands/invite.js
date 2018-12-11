@@ -1,6 +1,7 @@
 exports.run = async (client, message, args, level) => {
 
-  if (message.guild.invite) return message.channel.send(message.guild.invite);
+  if (message.guild.id == "382696689812766720") return message.channel.send("https://discord.gg/uUUMPbd");
+  if (message.guild.id == "485523397179342848") return message.channel.send("https://discord.gg/KwysmXr");
 
 };
 
