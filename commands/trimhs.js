@@ -36,7 +36,7 @@ exports.conf = {
 };
 
 exports.help = {
-  name: "trimha",
+  name: "trimhs",
   category: "Information",
   description: "Link to the Google Sheets document containing a list of all Trimmed Completionist players in order.",
   usage: "trimhs"
