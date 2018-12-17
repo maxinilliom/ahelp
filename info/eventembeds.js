@@ -204,6 +204,43 @@
          }
       ]
    },
+    "corporeal beast aodmom": {  
+      "title":"Preparation:",
+      "description":"All are welcome!\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Corporeal_Beast/Strategies) or a video guide [here](https://www.youtube.com/watch?v=lfwu9Owd5kg).",
+      "footer":{  
+         "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
+         "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
+      },
+      "thumbnail":{  
+         "url":"https://runescape.wiki/images/5/5c/Corporeal_Beast.png?36acd"
+      },
+      "author":{  
+         "name":"Corporeal Beast Community Event",
+         "icon_url":"https://i.imgur.com/6c6q2iC.png"
+      },
+      "fields":[  
+         {  
+            "name":"​Where:",
+            "value":"The [Corporeal Lair](https://runescape.wiki/w/Corporeal_Beast#Habitat), World 68 in <@239506926289944603>'s friends chat. Players who have completed the [Summer's End](https://runescape.wiki/w/Summer%27s_End) quest may use a [games necklace](https://runescape.wiki/w/Games_necklace) to teleport directly into the first of the caverns, a quick run from the third cavern that serves as the Beast's lair. "
+         },
+         {  
+            "name":"​Why:",
+            "value":"To assist everyone who needs [Corporeal Beast](https://runescape.wiki/w/Corporeal_Beast) for:\n\n• Their [the Reaper](https://runescape.wiki/w/The_Reaper) title for the [Completionist Cape](https://runescape.wiki/w/Completionist_cape) [Reaper Crew requirement](https://runescape.wiki/w/Reaper_Crew)\n• Their [Final Boss](https://runescape.wiki/w/Final_Boss) title\n• Their [Insane Final Boss](https://runescape.wiki/w/Insane_Final_Boss) title\n• Completing the [Glutton for Punishment](https://runescape.wiki/w/Glutton_For_Punishment) achievement\n(Get the Corporeal Beast to devour a variety of delicious familiars.)\n• Completing the [Out of Body experience](https://runescape.wiki/w/Out_of_Body_experience) achievement\n(Obtain a collection of unique drops from Corporeal Beast.)\n• Completing their [Corporeal Punishment](https://runescape.wiki/w/Corporeal_Punishment) achievement\n(Defeat Corporeal Beast 5, 10, 25, 50, 75, and 100 times, depending on the tier.)"
+         },
+         {  
+            "name":"​Who:",
+            "value":"<@239506926289944603>, <@276479407730851851>, their [Achievement Help](https://www.discord.gg/uUUMPbd) Discord team, and their [Alright](https://discord.gg/KwysmXr) clan."
+         },
+         {  
+            "name":"​What is Needed:",
+            "value":"Any gear is permitted. [Tier](https://runescape.wiki/w/Equipment_tier) 70+ armor and weapon are recommended and appreciated, though not required. The better the tier, the better chance you have of surviving and the faster the kills."
+         },
+         {  
+            "name":"​How Drops Work:",
+            "value":"Drops are dispersed via [lootshare](https://runescape.wiki/w/LootShare) to whoever is in the friend's chat. All drops are kept by their recipients."
+         }
+      ]
+   },
     "deathmatch": {  
       "title":"Preparation:",
       "description":"All are welcome! We will be teaching how to do the event on Discord if any learners are apprehensive about coming.\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Deathmatch).",
@@ -644,6 +681,47 @@
          }
       ]
    },
+    "nex aodmom": {  
+      "title":"Preparation:",
+      "description":"All are welcome!\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Nex/Strategies) or a video guide [here](https://www.youtube.com/watch?v=U7q-M0ecODA).",
+      "footer":{  
+         "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
+         "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
+      },
+      "thumbnail":{  
+         "url":"https://vignette.wikia.nocookie.net/runescape2/images/f/fe/Nex.png/revision/latest?cb=20170203034912"
+      },
+      "author":{  
+         "name":"Nex Mass Community Event",
+         "icon_url":"https://i.imgur.com/6c6q2iC.png"
+      },
+      "fields":[  
+         {  
+            "name":"​Where:",
+            "value":"Nex Bank, within the [Ancient Prison](https://runescape.wiki/w/God_Wars_Dungeon#Ancient_Prison) in the [God Wars Dungeon](https://runescape.wiki/w/God_Wars_Dungeon), World 68 in <@239506926289944603>'s friends chat."
+         },
+         {  
+            "name":"​Why:",
+            "value":"To assist everyone who needs [Nex](https://runescape.wiki/w/Nex) for:\n\n• Their [the Reaper](https://runescape.wiki/w/The_Reaper) title for the [Completionist Cape](https://runescape.wiki/w/Completionist_cape) [Reaper Crew requirement](https://runescape.wiki/w/Reaper_Crew)\n• Their [Final Boss](https://runescape.wiki/w/Final_Boss) title\n• Their [Insane Final Boss](https://runescape.wiki/w/Insane_Final_Boss) title"
+         },
+         {  
+            "name":"​​",
+            "value":"• Completing their [Matricide](https://runescape.wiki/w/Matricide) achievement\n(Defeat Nex while accompanied by each of the nihil followers.)\n• Completing their [Next To No Power](https://runescape.wiki/w/Next_To_No_Power) achievement\n(Defeat Nex without the use of prayers by anyone in the group.)\n• Completing their [Prison Break (feat)](https://runescape.wiki/w/Prison_Break_(feat) achievement\n(Obtained a collection of unique drops from Nex.)\n• Completing their [Brass Nex](https://runescape.wiki/w/Brass_Nex) achievement\n(Defeat Nex 5, 10, 25, 50, 75, and 100 times, depending on the tier.)\n• A chance at obtaining the [Ancient defender](https://runescape.wiki/w/Ancient_defender)"
+         },
+         {  
+            "name":"​Who:",
+            "value":"<@239506926289944603>, <@276479407730851851>, their [Achievement Help](https://www.discord.gg/uUUMPbd) Discord team, and their [Alright](https://discord.gg/KwysmXr) clan."
+         },
+         {  
+            "name":"​What is Needed:",
+            "value":"• Any gear is permitted. [Tier](https://runescape.wiki/w/Equipment_tier) 70+ armor and weapon are recommended and appreciated, though not required. The better the tier, the better chance you have of surviving and the faster the kills.  Range or mage are highly encouraged.\n• A charged [Frozen key](https://runescape.wiki/w/Frozen_key)\n• Either 40 Zarosian kills or a set of [Ancient ceremonial robes](https://runescape.wiki/w/Ancient_ceremonial_robes)."
+         },
+         {  
+            "name":"​How Drops Work:",
+            "value":"Drops are dispersed via [lootshare](https://runescape.wiki/w/LootShare) to whoever is in the friend's chat. All drops are kept by their recipients."
+         }
+      ]
+   },
     "nex aod": {  
       "title":"Preparation:",
       "description":"All are welcome! We will be teaching how to do the boss on Discord if any learners are apprehensive about coming.\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Nex:_Angel_of_Death/Strategies) or a video guide [here](https://www.youtube.com/watch?v=Yrh93pIPNzk).",
@@ -674,6 +752,47 @@
          {  
             "name":"​Who:",
             "value":"<@294617234033213450>, <@113770763261181961>, their [Achievement Help](https://www.discord.gg/uUUMPbd) Discord team, and their [Alright](https://discord.gg/KwysmXr) clan."
+         },
+         {  
+            "name":"​What is Needed:",
+            "value":"• Any gear is permitted. [Tier](https://runescape.wiki/w/Equipment_tier) 80+ armor and weapon are recommended and appreciated, though not required. The better the tier, the better chance you have of surviving and the faster the kills.  Range or mage are highly encouraged.\n• A charged [Frozen key](https://runescape.wiki/w/Frozen_key)\n• Either 40 Zarosian kills or a set of [Ancient ceremonial robes](https://runescape.wiki/w/Ancient_ceremonial_robes)."
+         },
+         {  
+            "name":"​How Drops Work:",
+            "value":"Drops are dispersed via [coinshare](https://runescape.wiki/w/CoinShare) to whoever is in the friend's chat. All drops are kept by their recipients and high-value drops that have [item shards](https://runescape.wiki/w/Item_shards) will be split by the game to everyone who has coinshare enabled and is in the friend's chat. "
+         }
+      ]
+   },
+    "nex aod aodmom": {  
+      "title":"Preparation:",
+      "description":"All are welcome!\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Nex:_Angel_of_Death/Strategies) or a video guide [here](https://www.youtube.com/watch?v=Yrh93pIPNzk).",
+      "footer":{  
+         "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
+         "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
+      },
+      "thumbnail":{  
+         "url":"https://vignette.wikia.nocookie.net/runescape2/images/2/2b/Nex_%28Angel_of_Death%29.png/revision/latest?cb=20170130192323"
+      },
+      "author":{  
+         "name":"Nex AOD Mass Community Event",
+         "icon_url":"https://i.imgur.com/6c6q2iC.png"
+      },
+      "fields":[  
+         {  
+            "name":"​Where:",
+            "value":"Nex Bank, within the [Ancient Prison](https://runescape.wiki/w/God_Wars_Dungeon#Ancient_Prison) in the [God Wars Dungeon](https://runescape.wiki/w/God_Wars_Dungeon), World 68 in <@239506926289944603>'s friends chat."
+         },
+         {  
+            "name":"​Why:",
+            "value":"To assist everyone who needs [Nex: Angel of Death](https://runescape.wiki/w/Nex:_Angel_of_Death) for:\n\n• Their [the Reaper](https://runescape.wiki/w/The_Reaper) title for the [Completionist Cape](https://runescape.wiki/w/Completionist_cape) [Reaper Crew requirement](https://runescape.wiki/w/Reaper_Crew)\n• Their [Final Boss](https://runescape.wiki/w/Final_Boss) title\n• Their [Insane Final Boss](https://runescape.wiki/w/Insane_Final_Boss) title"
+         },
+         {  
+            "name":"​​",
+            "value":"• Completing their [Library of Nex](https://runescape.wiki/w/Library_of_Nex) achievement\n(Find and read '[The Promised Gift](https://runescape.wiki/w/The_Promised_Gift)' and '[The Praesul](https://runescape.wiki/w/The_Praesul)' books from the Nex: Angel of Death encounter.)\n• Completing their [Hungry Hungry Reavers](https://runescape.wiki/w/Hungry_Hungry_Reavers) achievement\n(Defeat Nex: Angel of Death without any of the group damaging any of the [blood reavers](https://runescape.wiki/w/Blood_reaver).)\n• Completing their [Fallen Angel](https://runescape.wiki/w/Fallen_Angel) achievement\n(Obtained a collection of unique drops from Nex: Angel of Death.)\n• Completing their [Nex Pls](https://runescape.wiki/w/Nex_Pls) achievement\n(Defeat Nex, the Angel of Death 5, 10, 25, 50, 75, and 100 times, depending on the tier.)"
+         },
+         {  
+            "name":"​Who:",
+            "value":"<@239506926289944603>, <@276479407730851851>, their [Achievement Help](https://www.discord.gg/uUUMPbd) Discord team, and their [Alright](https://discord.gg/KwysmXr) clan."
          },
          {  
             "name":"​What is Needed:",
