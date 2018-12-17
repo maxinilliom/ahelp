@@ -739,6 +739,56 @@ exports.data = {
       }
     ]
   },
+  "Boss School": {
+    "title": "Boss School",
+    "description":"A RuneScape PvM teaching community; our objective is to help people enjoy their RuneScape experience more by aiding them in the bossing aspects of the game. We act as a PvMing hub and offer all sorts of facilities for both new and experienced PvMers, as well as a friendly environment for everyone to chat and make friends.",
+    "thumbnail": {
+      "url": "https://cdn.discordapp.com/icons/183966276706631680/22bae4c56d5ea32d3d7d4b068542d3cf.webp"
+    },
+    "footer": {
+      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "text": "Achievement Help | Connecting our Helpful Communities!"
+    },
+    "author": {
+      "name": "Combat Affiliate Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+          "fields": [
+      {
+        "name": "Invite Link:",
+        "value": "https://discord.gg/88ru2vd"
+      },
+      {
+        "name": "Contact:",
+        "value": "<@269233963460067340>"
+      }
+      ]
+  },
+  "EasyLeech": {
+    "title": "EasyLeech",
+    "description":"EasyLeech caters for the leeching needs of all RS3 players. In their server you can get all the information you need to help you leech comfortably including prices, gear setups, and how to stay alive! Solak leeches for members of Achievement Help are discounted from 120m to 108m and Reaper achievement kills are discounted by 10%. For a full list of prices, see the <#520396084351205394> channel after you join!",
+    "thumbnail": {
+      "url": "https://cdn.discordapp.com/icons/520396084351205390/94eaf30ed9c2fd7488a0e3395ead45c5.webp"
+    },
+    "footer": {
+      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "text": "Achievement Help | Connecting our Helpful Communities!"
+    },
+    "author": {
+      "name": "Combat Affiliate Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+          "fields": [
+      {
+        "name": "Invite Link:",
+        "value": "https://discord.gg/CHhmrz3"
+      },
+      {
+        "name": "Contact:",
+        "value": "<@330098217008234508>"
+      }
+      ]
+  },
    "Elite Dungeon Teams": {
     "title": "Elite Dungeon Teams",
     "description":"Elite Dungeon Teams is a non-toxic, learner friendly discord for finding teams for all Elite Dungeons. Information, achievement and boss guides, and strategies are provided to assist users with their Elite Dungeon journey. We have roles in place to easily find teams for both normal mode and iron mode teams within the Temple of Aminishi and the Dragonkin Laboratory.",
@@ -981,6 +1031,31 @@ exports.data = {
       {
         "name": "Contact:",
         "value": "<@113866531066216450>"
+      }
+      ]
+  },
+  "Scrub Raids": {
+    "title": "Scrub Raids",
+    "description":"Scrub Raids is a non-toxic, non-elitist raiding server that specializes in taking learners to both Beastmaster Durzag and Yakamaru.",
+    "thumbnail": {
+      "url": "https://cdn.discordapp.com/icons/440656737079525379/b381c95ca25dbee48a51caf37757275d.webp"
+    },
+    "footer": {
+      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "text": "Achievement Help | Connecting our Helpful Communities!"
+    },
+    "author": {
+      "name": "Combat Affiliate Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+          "fields": [
+      {
+        "name": "Invite Link:",
+        "value": "https://discord.gg/MAj888b"
+      },
+      {
+        "name": "Contacts:",
+        "value": "<@330098217008234508> and <@337390515827900420>"
       }
       ]
   },
