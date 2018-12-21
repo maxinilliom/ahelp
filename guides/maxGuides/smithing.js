@@ -145,7 +145,7 @@ exports.data = {
   },
   "60 - 70": {
     "title": "Smithing Training Levels 60-70",
-    "description": "At level 60, the player can smelt [gold ore](https://runescape.wiki/w/Gold_ore) into [gold bars](https://runescape.wiki/w/Gold_bar). The player can choose to mine the ore themselves (higher profit) or buy it off the Grand Exchange (faster experience). After completeing the [Family Crest](https://runescape.wiki/w/Family_Crest) quest, players can use the [goldsmithing gauntlets](https://runescape.wiki/w/Goldsmith_gauntlets) to increase the experience gained when smelthing gold ore from 22.5 to 56.2. Using this boost, smelting gold is a viable, low-cost method up to level 99 with a rate of around 68,000 experience per hour.",
+    "description": "At level 60, players can continue smelting [gold ore](https://runescape.wiki/w/Gold_ore) into [gold bars](https://runescape.wiki/w/Gold_bar).",
     "url": "https://runescape.wiki/w/Gold_bar",
     "color": 12269891,
     "footer": {
