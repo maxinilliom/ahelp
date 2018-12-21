@@ -402,6 +402,10 @@ exports.data = {
         "value": "• The [Enhanced Yaktwee Stick](https://runescape.wiki/w/Enhanced_yaktwee_stick) is an upgraded version of the [yaktwee stick](https://runescape.wiki/w/Yaktwee_stick), and is obtained by catching a total of 1,000 [charm sprites](https://runescape.wiki/w/Charm_sprite) with the yaktwee stick equipped and talking to [Yaktwee Swinmari Cianta](https://runescape.wiki/w/Yaktwee_Swinmari_Cianta). When wielded, it increases the chance to get the rarer charm sprites by about 5% as well as giving 5% extra experience in any Hunter activity, as long as the activity allows the stick to be wielded. The boost also works for the [Big Chinchompa](https://runescape.wiki/w/Big_Chinchompa) Distraction and Diversion."
       },
       {
+        "name": "Ring of Whispers",
+        "value": "• The [Ring of Whispers](https://runescape.wiki/w/Ring_of_Whispers) is a reward from the [Sliske's Endgame](https://runescape.wiki/w/Sliske%27s_Endgame) quest. When equipped, it provides a +3 invisible bonus to gathering skills. The invisible boost stacks with [familiar](https://runescape.wiki/w/Summoning_familiars) invisible boosts. Wearing the ring along with the [Necklace of Shadows](https://runescape.wiki/w/Necklace_of_Shadows) and the [Combined Catalyst fragment](https://runescape.wiki/w/Combined_Catalyst_fragment) allows players to occasionally find [Manifested knowledge](https://runescape.wiki/w/Manifested_knowledge) when training which will offer experience in the skill they were training when it appeared."
+      },
+      {
         "name": "Hunter's Outfit",
         "value": "• The [Hunter's outfit](https://runescape.wiki/w/Hunter%27s_outfit) is experience-boosting set for the Hunter skill. The 5 pieces can be purchased in the [Waiko Reward Shop](https://runescape.wiki/w/Waiko_Reward_Shop) for a total of 10,000 chimes and 10 taijitu. Each piece grants 1% bonus to Hunter experience, wearing the full set grants 6%. The outfit also stacks with the enhanced yaktwee stick, granting a total of 11%."
       },
