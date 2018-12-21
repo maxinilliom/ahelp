@@ -59,7 +59,7 @@ exports.data = {
         "fields": [
       { 
         "name": "▬▬ Abyss Training Method ▬▬",
-        "value": "• **Guide:** [Abyss Combat and Invention Guide | Maikeru RS - YouTube](https://www.youtube.com/watch?v=lXrmARBZulU)\n\t• **NPC: **[Abyssal Creatures](https://runescape.wiki/w/Abyssal)\n\t• **Required Miniquest:** [Abyss](https://runescape.wiki/w/Abyss_(miniquest)\n\t• **Location:** [Abyss](https://runescape.wiki/w/Abyss)\n\t• **Recommended Gear for Cheapest Upfront Cost:**\n\t\t• [Augmented Crystal Halberd](https://runescape.wiki/w/Augmented_crystal_halberd) (disassemble)\n\t\t• [Augmented Gandodermic Poncho](https://runescape.wiki/w/Augmented_ganodermic_poncho)/[Leggings](https://runescape.wiki/w/Augmented_ganodermic_leggings) (disassemble)\n\t• **Inventory:**\n\t\t• [Prayer Potion](https://runescape.wiki/w/Prayer_potion)"
+        "value": "• **Guide:** [Abyss Combat and Invention Guide | Maikeru RS - YouTube](https://www.youtube.com/watch?v=lXrmARBZulU)\n\t• **NPC: **[Abyssal Creatures](https://runescape.wiki/w/Abyssal)\n\t• **Required Miniquest:** [Abyss](https://runescape.wiki/w/Abyss_(miniquest)\n\t• **Location:** [Abyss](https://runescape.wiki/w/Abyss)\n\t• **Recommended Gear for Cheapest Upfront Cost:**\n\t\t• [Augmented Crystal Halberd](https://runescape.wiki/w/Augmented_crystal_halberd) (disassemble)\n\t\t• [Augmented Gandodermic Poncho](https://runescape.wiki/w/Augmented_ganodermic_poncho)/[Leggings](https://runescape.wiki/w/Augmented_ganodermic_leggings) (disassemble)\n\t• **Inventory:**\n\t\t• [Prayer Potions](https://runescape.wiki/w/Prayer_potion) (if [Soul Split](https://runescape.wiki/w/Soul_Split) it unlocked)\n\t\t• Food (if Soul Split **is not** unlocked)"
       }
     ]
   },
