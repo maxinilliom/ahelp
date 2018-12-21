@@ -402,7 +402,7 @@ exports.data = {
   "daily challenge": {
     "title": "Daily Challenge",
     "url": "https://runescape.wiki/w/Challenge_XP_Lamp",
-    "description": "Completing a daily challenge for Combat will give experience, depending on the player's level. A lamp will be given upon completion, and a player can choose between the six combat skills in which to receive experience.",
+    "description": "Completing a daily challenge for Combat will give experience depending on the player's levels. A lamp will be given upon completion and a player can choose between the six combat skills in which to receive experience.\n\nPlayers can be assigned challenges below their combat level. The challenge will consist of killing creatures of a certain combat level or the [Barrows Brothers](https://runescape.wiki/w/Barrows), [Giant Mole](https://runescape.wiki/w/Giant_mole), or [God Wars Dungeon](https://runescape.wiki/w/God_Wars_Dungeon) generals or mobs. Look for more appropriate monsters from the [Bestiary](https://runescape.wiki/w/Bestiary). Dungeoneering can also be used for rampage challenges.",
         "color": 12269891,
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
