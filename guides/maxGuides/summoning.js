@@ -588,7 +588,7 @@ exports.data = {
       "fields":[  
          {  
             "name":"​",
-            "value":"To create swamp titan pouches, you will need 1 empty pouch, 1 blue charm, 1 [water talisman](https://runescape.wiki/w/Water_talisman), and 222 [spirit shards](https://runescape.wiki/w/Spirit_shards)."
+            "value":"To create geyser titan pouches, you will need 1 empty pouch, 1 blue charm, 1 [water talisman](https://runescape.wiki/w/Water_talisman), and 222 [spirit shards](https://runescape.wiki/w/Spirit_shards)."
          },
          {  
             "name":"​",
@@ -756,7 +756,7 @@ exports.data = {
          },
          {  
             "name":"​",
-            "value":"While playing the player will be summoned as a random familiar and will have to hunt around for raw shards. The game will end when either one of the following occurs:\n\t• 60 raw [shards](https://runescape.wiki/w/Shards) were collected by the player.\n\t• The player's mental focus reaches 0."
+            "value":"While playing the player will be summoned as a random familiar and will have to hunt around for raw shards. The game will end when either one of the following occurs:\n\t• 60 raw shards were collected by the player.\n\t• The player's mental focus reaches 0."
          },
          {  
             "name":"​",
@@ -859,7 +859,7 @@ exports.data = {
          },
          {  
             "name":"​",
-            "value":"[Amlodd Voice of Seren](https://runescape.wiki/w/Voice_of_Seren#Known_effects)\n• 20% more base Summoning XP from making pouches and scrolls, as well as creating 12 scrolls per pouch instead of the regular 10.\n• 20% more base Divination XP from converting shadow cores, as well as a chance of chronicles spawning after killing a truthful, blissful or manifest shadow."
+            "value":"[Amlodd Voice of Seren](https://runescape.wiki/w/Voice_of_Seren#Known_effects)\n• 20% more base Summoning XP from making pouches and scrolls, as well as creating 12 scrolls per pouch instead of the regular 10.\n• 20% more base Divination XP from converting shadow cores, as well as a chance of chronicles spawning after killing a truthful, blissful, or manifest shadow."
          },
          {  
             "name":"​",
