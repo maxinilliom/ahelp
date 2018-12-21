@@ -215,6 +215,10 @@ exports.data = {
         "value": "[Protean traps](https://runescape.wiki/w/Protean_trap) can be won from [Treasure Hunter](https://runescape.wiki/w/Treasure_Hunter). The traps can be used as a stackable substitute for bird snares, box traps, and marasamaw plants. The traps do not function as tortle traps. Using the trap gives a 25% experience boost with successful catches and gives 50% of the normal catching experience for failed catches. This stacks with bonus experience and other modifiers, along with the [enhanced yaktwee stick](https://runescape.wiki/w/Enhanced_yaktwee_stick) providing its usual 5% experience boost. Use of the trap adds a 10% chance of catching prey, and it stays up for 50% longer."
       },
       {
+        "name": "▬▬ Hunter Skill Training Dummies ▬▬",
+        "value": "The [Hunting skill training dummy](https://runescape.wiki/w/Hunting_skill_training_dummy) is a dummy won off of [Treasure Hunter](https://runescape.wiki/w/Treasure_Hunter). The dummy can be attacked and destroyed up to 5 times, after which, the dummy will disappear and a new one will need to be placed. Each time the dummy is destroyed, the player will receive a certain amount of Hunter experience. Utilizing the dummy a fifth time will provide an extra amount of experience upon its destruction. "
+      },
+      {
         "name": "▬▬ Divine Location ▬▬",
         "value": "A [Divine Location](https://runescape.wiki/w/Divine_location) is a gathering hub that can be placed almost anywhere using the Divination skill. Players may only collect a certain number of resources from divine locations per day, both through their own gathering and contributions from a created location, based on their total level and will be notified when they are close to their daily limit, reaching a maximum cap of 250 resources once level 2,500+. The maximum cap may be temporarily increased by using vis wax. A list of locations that aid in Hunter and their requirements can be found [here](https://runescape.wiki/w/Divine_location#Divine_hunter_spots)."
       },
