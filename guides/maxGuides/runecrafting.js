@@ -325,7 +325,7 @@ exports.data = {
       },
       {
         "name": "Best methods",
-        "value": "• Crafting soul runes, using 100 charges at once\n• Unstable essence at the blood altar"
+        "value": "• Crafting soul runes, using 100 charges at once\n• Unstable essence at the soul altar"
       },
       {
         "name": "Methods which do not work",
@@ -441,7 +441,7 @@ exports.data = {
     "fields": [
       {
         "name": "Ethereal Outfits",
-        "value": "• [Elite Skilling Outfits](https://runescape.wiki/w/Experience-boosting_set)- Blood, Death, Law\n• Gives the ability to move between areas in the Runespan without rune cost, although you must still meet the requirements for a given type of platform\n• 5% chance to double your runes when siphoning in the Runespan, giving twice as much experience\n• 25% chance for your rune pouches to not degrade while runecrafting\n• Can store 6 Rune essence or Pure essence\n• Uses Master runecrafter robes' bonus experience if owned\n•Uses Wicked robes' effects if owned\n• Acts as a Wicked hood if owned.\n• Works as the [Morytania legs 2](https://runescape.wiki/w/Morytania_legs_2) if owned when creating blood runes at the blood altar and [Morytania legs 3](https://runescape.wiki/w/Morytania_legs_3) in saving blood altar teleport tablets\n• The ethereal body and legs grant a weight-reducing effect when worn"
+        "value": "• [Elite Skilling Outfits](https://runescape.wiki/w/Experience-boosting_set)- Blood, Death, Law\n• Gives the ability to move between areas in the Runespan without rune cost, although you must still meet the requirements for a given type of platform\n• 5% chance to double your runes when siphoning in the Runespan, giving twice as much experience\n• 25% chance for your rune pouches to not degrade while runecrafting\n• Can store 6 Rune essence or Pure essence\n• Uses Master runecrafter robes' bonus experience if owned\n• Uses Wicked robes' effects if owned\n• Acts as a Wicked hood if owned.\n• Works as the [Morytania legs 2](https://runescape.wiki/w/Morytania_legs_2) if owned when creating blood runes at the blood altar and [Morytania legs 3](https://runescape.wiki/w/Morytania_legs_3) in saving blood altar teleport tablets\n• The ethereal body and legs grant a weight-reducing effect when worn"
         },
         {
           "name": "Infinity Ethereal Outfit",
