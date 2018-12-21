@@ -373,6 +373,10 @@ exports.data = {
         "name": "Mining Cape",
         "value": "• The [Mining Cape's](https://runescape.wiki/w/Mining_cape) perk provides an invisible +2 Mining levels."
       },
+       {
+            "name": "Ring of Whispers",
+            "value": "• The [Ring of Whispers](https://runescape.wiki/w/Ring_of_Whispers) is a reward from the [Sliske's Endgame](https://runescape.wiki/w/Sliske%27s_Endgame) quest. When equipped, it provides a +3 invisible bonus to gathering skills. The invisible boost stacks with [familiar](https://runescape.wiki/w/Summoning_familiars) invisible boosts. Wearing the ring along with the [Necklace of Shadows](https://runescape.wiki/w/Necklace_of_Shadows) and the [Combined Catalyst fragment](https://runescape.wiki/w/Combined_Catalyst_fragment) allows players to occasionally find [Manifested knowledge](https://runescape.wiki/w/Manifested_knowledge) when training which will offer experience in the skill they were training when it appeared."
+       },
       {
         "name": "Varrock Armour",
         "value": "• Different tiers of [Varrock armour](https://runescape.wiki/w/Varrock_armour) are awarded on completion of the easy, medium, hard and elite sets of [Varrock tasks](https://runescape.wiki/w/Varrock_tasks). Varrock armour is a body slot item. While mining with the armour equipped players have approximately a 10% chance of mining 2 ores at the same time, receiving Mining experience for both of them. Players who have started the [Dimension of Disaster](https://runescape.wiki/w/Dimension_of_Disaster) quest can complete the easy set of [New Varrock tasks](https://runescape.wiki/w/New_Varrock_tasks) to further increase the Varrock armour's chance of mining 2 ores at once. Higher tiers of the armour grant this effect at rocks which have a higher Mining level requirement to mine. The armour's effect does work when mining granite, concentrated coal and gold rocks."
