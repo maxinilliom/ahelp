@@ -105,7 +105,7 @@ exports.data = {
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "thumbnail": {
-      "url": "https://vignette.wikia.nocookie.net/runescape2/images/f/ff/Troll_chucker.png/revision/latest?cb=20120201222754"
+      "url": "https://runescape.wiki/images/1/16/Fire_giant.png?f6543"
     },
     "author": {
       "name": "Max Cape Info",
