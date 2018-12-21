@@ -496,10 +496,6 @@ exports.data = {
       {
         "name": "​",
         "value": "[God Banner](https://runescape.wiki/w/God_banner)\n• Skill boost: +2 levels\n• The boost can be used once per day and lasts for 30 minutes\n\n[Portable Fletcher](https://runescape.wiki/w/Portable_fletcher)\n• 10% experience boost\n• 10% chance to save logs when Fletching [bows](https://runescape.wiki/w/Bow) or [crossbows](https://runescape.wiki/w/Crossbow_(weapon_type)\n• 10% chance to save [arrowheads](https://runescape.wiki/w/Arrowheads) and [headless arrows](https://runescape.wiki/w/Headless_arrow)\n• 10% chance to save [unfinished bolts](https://runescape.wiki/w/Unfinished_bolts) and [feathers](https://runescape.wiki/w/Feather)"
-      },
-      {  
-        "name":"​",
-        "value":"[Divination urns](https://runescape.wiki/w/Divination_urn)\n• Fill up as you harvest and convert memories\n• Once full, the urn can be teleported for experience\n• Gives between 210 and 1,900 experience per urn (depends on level of urn used)\n• Using an [urn enhancer](https://runescape.wiki/w/Urn_enhancer) increases the experience gained when teleporting an urn by 25%\n• There are 5 types of Divination urn: [cracked](https://runescape.wiki/w/Cracked_divination_urn) which only fills when harvest and convert memories that require up to and including level 10 Divination, [fragile](https://runescape.wiki/w/Fragile_divination_urn) which is up to and including level 30 Divination, [normal](https://runescape.wiki/w/divination_urn) which is up to and including level 50 Divination, [strong](https://runescape.wiki/w/Strong_divination_urn) which is up to and including level 70 Divination, and [decorated](https://runescape.wiki/w/Decorated_divination_urn) which is up to and including level 99 Divination"
       }
         ]
   }
