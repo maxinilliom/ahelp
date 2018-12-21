@@ -97,7 +97,7 @@ exports.data = {
          },
          {  
             "name":"​",
-            "value":"While raw desert sole itself gives less experience than raw salmon and raw lobsters, at level 60 you will be able to catch [raw catfish](https://runescape.wiki/w/Raw_catfish), giving 85 experience, at the same location as raw desert sole.\n\nThe fishing spot in the Port District has a [bank deposit box](https://runescape.wiki/w/Bank_deposit_box), which requires Tier 2 Port reputation, and a [bank chest](https://runescape.wiki/w/Bank_chest, which requires Tier 6 Port reputation. The VIP skilling area also has a bank chest. This makes it a lot easier to bank the fish you catch to train Cooking."
+            "value":"While raw desert sole itself gives less experience than raw salmon and raw lobsters, at level 60 you will be able to catch [raw catfish](https://runescape.wiki/w/Raw_catfish), giving 85 experience, at the same location as raw desert sole.\n\nThe fishing spot in the Port District has a [bank deposit box](https://runescape.wiki/w/Bank_deposit_box), which requires Tier 2 Port reputation, and a [bank chest](https://runescape.wiki/w/Bank_chest), which requires Tier 6 Port reputation. The VIP skilling area also has a bank chest. This makes it a lot easier to bank the fish you catch to train Cooking."
          }
     ],
     "footer": { 
@@ -145,7 +145,7 @@ exports.data = {
          },
          {  
             "name":"​",
-            "value":"At level 72, you will be able to catch [raw beltfish](https://runescape.wiki/w/Raw_beltfish) at this fishing spot as well, giving 92 experience.\n\nThe fishing spot in the Port District has a [bank deposit box](https://runescape.wiki/w/Bank_deposit_box), which requires Tier 2 Port reputation, and a [bank chest](https://runescape.wiki/w/Bank_chest, which requires Tier 6 Port reputation. The VIP skilling area also has a bank chest. This makes it a lot easier to bank the fish you catch to train Cooking."
+            "value":"At level 72, you will be able to catch [raw beltfish](https://runescape.wiki/w/Raw_beltfish) at this fishing spot as well, giving 92 experience.\n\nThe fishing spot in the Port District has a [bank deposit box](https://runescape.wiki/w/Bank_deposit_box), which requires Tier 2 Port reputation, and a [bank chest](https://runescape.wiki/w/Bank_chest), which requires Tier 6 Port reputation. The VIP skilling area also has a bank chest. This makes it a lot easier to bank the fish you catch to train Cooking."
          },
          {  
             "name":"▬▬ Alternative Method: Levels 76-93 ▬▬",
@@ -344,7 +344,7 @@ exports.data = {
          },
          {  
             "name":"Best Method:",
-            "value":"• [Fishing Frenzy](https://runescape.wiki/w/Deep_Sea_Fishing#Fishing_frenzy) at the [Deep Sea Fishing]https://runescape.wiki/w/Deep_Sea_Fishing) Hub\n• [Crystallise]https://runescape.wiki/w/Crystallise) [Menaphos Fishing](https://runescape.wiki/w/Pay-to-play_Fishing_training#Fishing_in_Menaphos_(72-93)"
+            "value":"• [Fishing Frenzy](https://runescape.wiki/w/Deep_Sea_Fishing#Fishing_frenzy) at the [Deep Sea Fishing](https://runescape.wiki/w/Deep_Sea_Fishing) Hub\n• [Crystallise](https://runescape.wiki/w/Crystallise) at [Menaphos Fishing](https://runescape.wiki/w/Pay-to-play_Fishing_training#Fishing_in_Menaphos_(72-93)"
          },
          {  
             "name":"Methods which do not Work:",
