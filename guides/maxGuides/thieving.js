@@ -193,6 +193,10 @@ exports.data = {
     },
     "fields": [
       {
+        "name": "▬▬ Thieving Skill Training Dummies ▬▬",
+        "value": "The [Thieving skill training dummy](https://runescape.wiki/w/Thieving_skill_training_dummy) is a dummy won off of [Treasure Hunter](https://runescape.wiki/w/Treasure_Hunter). The dummy can be attacked and destroyed up to 5 times, after which, the dummy will disappear and a new one will need to be placed. Each time the dummy is destroyed, the player will receive a certain amount of Thieving experience. Utilizing the dummy a fifth time will provide an extra amount of experience upon its destruction. "
+      },
+      {
         "name": "▬▬ Pyramid Plunder ▬▬",
         "value": "[Pyramid Plunder](https://runescape.wiki/w/Pyramid_Plunder) is a minigame found in [Sophanem](https://runescape.wiki/w/Sophanem). It requires level 21 Thieving and partial completion of [Icthlarin's Little Helper](https://runescape.wiki/w/Icthlarin%27s_Little_Helper) in order to access the city, though it is recommended to have completed the quest [Contact!](https://runescape.wiki/w/Contact!) in order to access the bank. Completing the [hard Desert achievements](https://runescape.wiki/w/Desert_achievements#Hard_tasks) will also help when playing this minigame. The minigame can be accessed by talking to [Tarik](https://runescape.wiki/w/Tarik) near the [Jalsavrah Pyramid](https://runescape.wiki/w/Jalsavrah_Pyramid), and then by searching the 'anonymous looking doors' around the pyramid. Behind one of thse doors (randomly decided) will be the [Guardian mummy](https://runescape.wiki/w/Guardian_mummy) who can be right-clicked to begin playing Pyramid Plunder."
       },
