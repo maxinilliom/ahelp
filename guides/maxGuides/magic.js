@@ -93,7 +93,7 @@ exports.data = {
   },
   "40 - 60": {
     "title": "Magic Training Levels 40-60",
-    "description": "At level 40, players should now kill [Ghouls](https://runescape.wiki/w/Ghoul). Ghouls are level 64, with 2,300 lifepoints. To reach ghouls, a player must first have completed the [Priest in Peril](https://runescape.wiki/w/Priest_in_Peril) quest. They can be found north of [Canifis](https://runescape.wiki/w/Canifis) in and around the graveyard leading to the mausoleum. A player can get roughly 50,000-70,000 Combat experience per hour training here.",
+    "description": "At level 40, players should now kill [Ghouls](https://runescape.wiki/w/Ghoul). Ghouls are level 64, with 2,300 lifepoints. They can be found north of [Canifis](https://runescape.wiki/w/Canifis) in and around the graveyard leading to the mausoleum. A player can get roughly 50,000-70,000 Combat experience per hour training here.",
     "url": "https://runescape.wiki/w/Pay-to-play_Magic_training#Levels_40-60",
     "color": 12269891,
     "footer": {
@@ -473,7 +473,7 @@ exports.data = {
        ]
   },
   "temporary boosts pt2": {
-    "description": "\n[Wizard's Mind Bomb](https://runescape.wiki/w/Wizard%27s_mind_bomb)\n• +2 Magic levels (if under level 50)\n• +3 Magic levels (if 50 or over)\n• Lowers Attack by 4\n• Lowers Strength and Defence by 3\n\n[Mature Wizard's Mind Bomb](https://runescape.wiki/w/Mature_wmb)\n• +3 Magic levels (if 50 or over)\n• +4 Magic levels (if over 50)\n• Lowers Attack, Strength and Defence by 5\n\n[Magic Essence](https://runescape.wiki/w/Magic_essence)\n• +3 to +8 boost to Magic depending on your magic level\n\n[Vecna Skull](https://runescape.wiki/w/Vecna_skull)\n• 2 + 10% Magic levels\n• Can only be activated once every 7 minutes\n\n[Wolpertinger Scroll](https://runescape.wiki/w/Wolpertinger#Magic_focus_scroll)\n• +7 Magic levels\n• Requires 92 Summoning\n\n[Dominion Marker](https://runescape.wiki/w/Dominion_marker)\n• Tier 1: +4\n• Tier 2: +6\n• Tier 3: +8\n• Tier 4: +10\n• Reapplies the boost once it decays back to the base level",
+    "description": "\n[Wizard's Mind Bomb](https://runescape.wiki/w/Wizard%27s_mind_bomb)\n• +2 Magic levels (if under level 50)\n• +3 Magic levels (if 50 or over)\n• Lowers Attack by 4\n• Lowers Strength and Defence by 3\n\n[Mature Wizard's Mind Bomb](https://runescape.wiki/w/Mature_wmb)\n• +3 Magic levels (if 50 under level 50)\n• +4 Magic levels (if over 50)\n• Lowers Attack, Strength, and Defence by 5\n\n[Magic Essence](https://runescape.wiki/w/Magic_essence)\n• +3 to +8 boost to Magic depending on your magic level\n\n[Vecna Skull](https://runescape.wiki/w/Vecna_skull)\n• 2 + 10% Magic levels\n• Can only be activated once every 7 minutes\n\n[Wolpertinger Scroll](https://runescape.wiki/w/Wolpertinger#Magic_focus_scroll)\n• +7 Magic levels\n• Requires 92 Summoning\n\n[Dominion Marker](https://runescape.wiki/w/Dominion_marker)\n• Tier 1: +4\n• Tier 2: +6\n• Tier 3: +8\n• Tier 4: +10\n• Reapplies the boost once it decays back to the base level",
     "fields": [
       {
         "name": "​",
