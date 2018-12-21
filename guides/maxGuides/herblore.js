@@ -138,7 +138,7 @@ exports.data = {
   },
   "55 - 76": {
     "title": "Herblore Training Levels 55-76",
-    "description": "At level 55, players can make [Super Strength Potions](https://runescape.wiki/w/Super_strength) to reach level 76. The items needed to make them are:\n• [Vial of Water](https://runescape.wiki/w/Vial_of_water)\n• [Clean Kwaurm](https://runescape.wiki/w/Clean_kwuarm)\n• [Limpwurt Root](https://runescape.wiki/w/Limpwurt_root)\n\nApproximately 9,359 potions will be made from levels 55-76.",
+    "description": "At level 55, players can make [Super Strength Potions](https://runescape.wiki/w/Super_strength) to reach level 76. The items needed to make them are:\n• [Vial of Water](https://runescape.wiki/w/Vial_of_water)\n• [Clean Kwuarm](https://runescape.wiki/w/Clean_kwuarm)\n• [Limpwurt Root](https://runescape.wiki/w/Limpwurt_root)\n\nApproximately 9,359 potions will be made from levels 55-76.",
     "url": "https://runescape.wiki/w/Herblore_training#Level_55_to_63",
     "color": 12269891,
     "footer": {
@@ -158,7 +158,7 @@ exports.data = {
         "value": "At level 55, players can choose to make [Super Energy Potions](https://runescape.wiki/w/Super_energy) until level 63. The items needed to make them are:\n• [Vial of Water](https://runescape.wiki/w/Vial_of_water)\n• [Clean Avantoe](https://runescape.wiki/w/Clean_avantoe)\n• [Mort Myre Fungus](https://runescape.wiki/w/Mort_myre_fungus)\n\nApproximately 1,719 potions will be made from levels 52-63."
       },
       {
-        "name": "Alternative Method: Levels 62-76",
+        "name": "Alternative Method: Levels 63-76",
         "value": "At level 63, players can switch to [Super Restore Potions](https://runescape.wiki/w/Super_restore) until level 76. The items needed to make them are:\n• [Vial of Water](https://runescape.wiki/w/Vial_of_water)\n• [Clean Snapdragon](https://runescape.wiki/w/Clean_snapdragon)\n• [Red Spiders' Eggs](https://runescape.wiki/w/Red_spiders%27_eggs)\n\nApproximately 6,792 potions will be made from levels 63-76."
       }
       ]
