@@ -442,7 +442,7 @@ exports.data = {
     "fields": [
       {
         "name": "Hunter Boosts",
-        "value": "[Hunter Cape](https://runescape.wiki/w/Hunter_cape)\n • +1 Hunter level for 1 minute\n\n[Spicy Stew](https://runescape.wiki/w/Spicy_stew)\n • Boost is applied to a random skill\n • Up to ±6 with 3 spice doses\n • Up to ±3 with 2 spice doses\n • Up to ±2 with 1 spice dose\n\n[Mournberry](https://runescape.wiki/w/Mournberry)\n• +2 Levels\n• Reduces Defence by 1\n• Requires access to [The Arc](https://runescape.wiki/w/The_Arc)\n\n[Hunter Potion](https://runescape.wiki/w/Hunter_potion)\n• +3 levels\n• Does not stack with Mud Bath boost\n\n[Arctic Bear](https://runescape.wiki/w/Arctic_bear)\n• +7 invisible levels\n• Requires 71 Summoning \n\n[Wolpertinger](https://runescape.wiki/w/Wolpertinger)\n• +5 invisible levels\n• Requires 92 Summoning"
+        "value": "[Hunter Cape](https://runescape.wiki/w/Hunter_cape)\n • +1 Hunter level for 1 minute\n\n[Spicy Stew](https://runescape.wiki/w/Spicy_stew)\n • Boost is applied to a random skill\n • A [Yellow Spice](https://runescape.wiki/w/Yellow_spice) is needed for the potential boost\n • Up to ±6 with 3 spice doses\n • Up to ±3 with 2 spice doses\n • Up to ±2 with 1 spice dose\n\n[Mournberry](https://runescape.wiki/w/Mournberry)\n• +2 Levels\n• Reduces Defence by 1\n• Requires access to [The Arc](https://runescape.wiki/w/The_Arc)\n\n[Hunter Potion](https://runescape.wiki/w/Hunter_potion)\n• +3 levels\n• Does not stack with Mud Bath boost\n\n[Arctic Bear](https://runescape.wiki/w/Arctic_bear)\n• +7 invisible levels\n• Requires 71 Summoning \n\n[Wolpertinger](https://runescape.wiki/w/Wolpertinger)\n• +5 invisible levels\n• Requires 92 Summoning"
       },
       {
         "name": "​",
