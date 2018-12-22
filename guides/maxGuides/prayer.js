@@ -378,7 +378,7 @@ exports.data = {
          },
          {  
             "name":"​",
-            "value":"[Spicy stew](https://runescape.wiki/w/Spicy_stew)\n•  Boost is applied to a random skill\n•  Up to ±6 with 3 spice doses\n•  Up to ±3 with 2 spice doses\n•  Up to ±2 with 1 spice dose"
+            "value":"[Spicy stew](https://runescape.wiki/w/Spicy_stew)\n•  Boost is applied to a random skill\n • A [Yellow Spice](https://runescape.wiki/w/Yellow_spice) is needed for the potential boost\n•  Up to ±6 with 3 spice doses\n•  Up to ±3 with 2 spice doses\n•  Up to ±2 with 1 spice dose\n• The Yellow Spice affects prayer points, not your prayer level"
          },
          {  
             "name":"​",
