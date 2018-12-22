@@ -492,7 +492,7 @@ exports.data = {
       },
       {
         "name": "​",
-        "value": "[Guthix's Gift](https://runescape.wiki/w/Guthix%27s_gift)\n• 10% bonus to herblore experience when making [Juju Potions](https://runescape.wiki/w/Juju_potion)\n\n[God Banner](https://runescape.wiki/w/God_banner)\n• +2 levels\n• Lasts 30 minutes once per day\n\n[Spicy Stew](https://runescape.wiki/w/Spicy_stew)\n • Boost is applied to a random skill\n • Up to ±6 with 3 spice doses\n • Up to ±3 with 2 spice doses\n • Up to ±2 with 1 spice dose\n\n[Perfect Juju Herblore Potion](https://runescape.wiki/w/Perfect_juju_herblore_potion)\n• 5% more experience for making [Combination Potions](https://runescape.wiki/w/Combination_potion)\n• 10% higher chance of finding a [Recipe](https://runescape.wiki/w/Unreadable_page) in Daemonheim"
+        "value": "[Guthix's Gift](https://runescape.wiki/w/Guthix%27s_gift)\n• 10% bonus to herblore experience when making [Juju Potions](https://runescape.wiki/w/Juju_potion)\n\n[God Banner](https://runescape.wiki/w/God_banner)\n• +2 levels\n• Lasts 30 minutes once per day\n\n[Spicy Stew](https://runescape.wiki/w/Spicy_stew)\n • Boost is applied to a random skill\n • A [Brown Spice](https://runescape.wiki/w/Brown_spice) is needed for the potential boost\n • Up to ±6 with 3 spice doses\n • Up to ±3 with 2 spice doses\n • Up to ±2 with 1 spice dose\n\n[Perfect Juju Herblore Potion](https://runescape.wiki/w/Perfect_juju_herblore_potion)\n• 5% more experience for making [Combination Potions](https://runescape.wiki/w/Combination_potion)\n• 10% higher chance of finding a [Recipe](https://runescape.wiki/w/Unreadable_page) in Daemonheim"
       }      
        ]
   }
