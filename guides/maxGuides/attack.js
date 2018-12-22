@@ -485,7 +485,7 @@ exports.data = {
     "fields": [
       {
         "name": "​",
-        "value": "[Rumberry](https://runescape.wiki/w/Rumberry)\n• +2 Attack levels\n• Reduces Defence by 1\n• Requires access to [The Arc](https://runescape.wiki/w/The_Arc)\n\n[Spicy Stew](https://runescape.wiki/w/Spicy_stew)\n• Boost is applied to a random skill\n• Each color [spice](https://runescape.wiki/w/Spicy_stew#Spices) affects different skills\n• Up to ±6 with 3 spice doses\n• Up to ±3 with 2 spice doses\n• Up to ±2 with 1 spice dose\n\n[God Banner](https://runescape.wiki/w/God_banner)\n• +5 levels\n• Lasts 30 minutes once per day"
+        "value": "[Rumberry](https://runescape.wiki/w/Rumberry)\n• +2 Attack levels\n• Reduces Defence by 1\n• Requires access to [The Arc](https://runescape.wiki/w/The_Arc)\n\n[Spicy Stew](https://runescape.wiki/w/Spicy_stew)\n• Boost is applied to a random skill\n • A [Red Spice](https://runescape.wiki/w/Red_spice) is needed for the potential boost\n• Up to ±6 with 3 spice doses\n• Up to ±3 with 2 spice doses\n• Up to ±2 with 1 spice dose\n\n[God Banner](https://runescape.wiki/w/God_banner)\n• +5 levels\n• Lasts 30 minutes once per day"
       },
       {
         "name": "​",
