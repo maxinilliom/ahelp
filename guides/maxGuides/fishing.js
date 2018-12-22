@@ -543,7 +543,7 @@ exports.data = {
          },
          {  
             "name":"​",
-            "value":"[Spicy stew](https://runescape.wiki/w/Spicy_stew)\n• Boost is applied to a random skill\n• Each color [spice](https://runescape.wiki/w/Spicy_stew#Spices) affects different skills\n• Up to ±6 with 3 spice doses\n• Up to ±3 with 2 spice doses\n•  Up to ±2 with 1 spice dose"
+            "value":"[Spicy stew](https://runescape.wiki/w/Spicy_stew)\n• Boost is applied to a random skill\n• A [Brown Spice](https://runescape.wiki/w/Brown_spice) is needed for the potential boost\n• Each color [spice](https://runescape.wiki/w/Spicy_stew#Spices) affects different skills\n• Up to ±6 with 3 spice doses\n• Up to ±3 with 2 spice doses\n•  Up to ±2 with 1 spice dose"
          },
          {  
             "name":"​",
