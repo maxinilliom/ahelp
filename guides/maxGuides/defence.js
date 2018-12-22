@@ -278,7 +278,7 @@ exports.data = {
       },
       {
         "name": "​",
-        "value": "[Spicy Stew](https://runescape.wiki/w/Spicy_stew)\n• Boost is applied to a random skill\n• Each color [spice](https://runescape.wiki/w/Spicy_stew#Spices) affects different skills\n• Up to ±6 with 3 spice doses\n• Up to ±3 with 2 spice doses\n• Up to ±2 with 1 spice dose\n\n[God Banner](https://runescape.wiki/w/God_banner)\n• +5 levels\n• Lasts 30 minutes once per day\n\n[Sapphire Glacialis](https://runescape.wiki/w/Sapphire_glacialis)\n• +15% + 4 Defence boost\n• Boosts another players Defence level, not yours"
+        "value": "[Spicy Stew](https://runescape.wiki/w/Spicy_stew)\n• Boost is applied to a random skill\n • A [Red Spice](https://runescape.wiki/w/Red_spice) is needed for the potential boost\n• Up to ±6 with 3 spice doses\n• Up to ±3 with 2 spice doses\n• Up to ±2 with 1 spice dose\n\n[God Banner](https://runescape.wiki/w/God_banner)\n• +5 levels\n• Lasts 30 minutes once per day\n\n[Sapphire Glacialis](https://runescape.wiki/w/Sapphire_glacialis)\n• +15% + 4 Defence boost\n• Boosts another players Defence level, not yours"
       },
       {
         "name": "​",

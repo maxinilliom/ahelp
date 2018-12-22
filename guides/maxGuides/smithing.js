@@ -145,7 +145,7 @@ exports.data = {
   },
   "60 - 70": {
     "title": "Smithing Training Levels 60-70",
-    "description": "At level 60, the player can smelt [gold ore](https://runescape.wiki/w/Gold_ore) into [gold bars](https://runescape.wiki/w/Gold_bar). The player can choose to mine the ore themselves (higher profit) or buy it off the Grand Exchange (faster experience). After completeing the [Family Crest](https://runescape.wiki/w/Family_Crest) quest, players can use the [goldsmithing gauntlets](https://runescape.wiki/w/Goldsmith_gauntlets) to increase the experience gained when smelthing gold ore from 22.5 to 56.2. Using this boost, smelting gold is a viable, low-cost method up to level 99 with a rate of around 68,000 experience per hour.",
+    "description": "At level 60, players can continue smelting [gold ore](https://runescape.wiki/w/Gold_ore) into [gold bars](https://runescape.wiki/w/Gold_bar).",
     "url": "https://runescape.wiki/w/Gold_bar",
     "color": 12269891,
     "footer": {
@@ -470,7 +470,7 @@ exports.data = {
     "fields": [
       {
         "name": "Smithing Boosts",
-        "value": "[Smithing Cape](https://runescape.wiki/w/Smithing_cape)\n • +1 level for 1 minute\n\n[Spicy Stew](https://runescape.wiki/w/Spicy_stew)\n • Boost is applied to a random skill\n • Up to ±6 with 3 spice doses\n • Up to ±3 with 2 spice doses\n • Up to ±2 with 1 spice dose\n\n[God Banner](https://runescape.wiki/w/God_banner)\n• Skill boost: +2 levels\n• The boost can be used once per day and lasts for 30 minutes.\n\n[Dwarven Stout](https://runescape.wiki/w/Dwarven_stout)\n• +1 levels\n• Reduces melee skills by 5 levels\n\n[Mature Dwarven Stout](https://runescape.wiki/w/Dwarven_stout_(m)\n• +2 levels\n• Reduces melee skills by 7 levels"
+        "value": "[Smithing Cape](https://runescape.wiki/w/Smithing_cape)\n • +1 level for 1 minute\n\n[Spicy Stew](https://runescape.wiki/w/Spicy_stew)\n • Boost is applied to a random skill\n • An [Orange Spice](https://runescape.wiki/w/Orange_spice) is needed for the potential boost\n • Up to ±6 with 3 spice doses\n • Up to ±3 with 2 spice doses\n • Up to ±2 with 1 spice dose\n\n[God Banner](https://runescape.wiki/w/God_banner)\n• Skill boost: +2 levels\n• The boost can be used once per day and lasts for 30 minutes.\n\n[Dwarven Stout](https://runescape.wiki/w/Dwarven_stout)\n• +1 levels\n• Reduces melee skills by 5 levels\n\n[Mature Dwarven Stout](https://runescape.wiki/w/Dwarven_stout_(m)\n• +2 levels\n• Reduces melee skills by 7 levels"
       },
       {
         "name": "​",

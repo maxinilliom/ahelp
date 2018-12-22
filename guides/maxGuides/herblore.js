@@ -138,7 +138,7 @@ exports.data = {
   },
   "55 - 76": {
     "title": "Herblore Training Levels 55-76",
-    "description": "At level 55, players can make [Super Strength Potions](https://runescape.wiki/w/Super_strength) to reach level 76. The items needed to make them are:\n• [Vial of Water](https://runescape.wiki/w/Vial_of_water)\n• [Clean Kwaurm](https://runescape.wiki/w/Clean_kwuarm)\n• [Limpwurt Root](https://runescape.wiki/w/Limpwurt_root)\n\nApproximately 9,359 potions will be made from levels 55-76.",
+    "description": "At level 55, players can make [Super Strength Potions](https://runescape.wiki/w/Super_strength) to reach level 76. The items needed to make them are:\n• [Vial of Water](https://runescape.wiki/w/Vial_of_water)\n• [Clean Kwuarm](https://runescape.wiki/w/Clean_kwuarm)\n• [Limpwurt Root](https://runescape.wiki/w/Limpwurt_root)\n\nApproximately 9,359 potions will be made from levels 55-76.",
     "url": "https://runescape.wiki/w/Herblore_training#Level_55_to_63",
     "color": 12269891,
     "footer": {
@@ -158,7 +158,7 @@ exports.data = {
         "value": "At level 55, players can choose to make [Super Energy Potions](https://runescape.wiki/w/Super_energy) until level 63. The items needed to make them are:\n• [Vial of Water](https://runescape.wiki/w/Vial_of_water)\n• [Clean Avantoe](https://runescape.wiki/w/Clean_avantoe)\n• [Mort Myre Fungus](https://runescape.wiki/w/Mort_myre_fungus)\n\nApproximately 1,719 potions will be made from levels 52-63."
       },
       {
-        "name": "Alternative Method: Levels 62-76",
+        "name": "Alternative Method: Levels 63-76",
         "value": "At level 63, players can switch to [Super Restore Potions](https://runescape.wiki/w/Super_restore) until level 76. The items needed to make them are:\n• [Vial of Water](https://runescape.wiki/w/Vial_of_water)\n• [Clean Snapdragon](https://runescape.wiki/w/Clean_snapdragon)\n• [Red Spiders' Eggs](https://runescape.wiki/w/Red_spiders%27_eggs)\n\nApproximately 6,792 potions will be made from levels 63-76."
       }
       ]
@@ -492,7 +492,7 @@ exports.data = {
       },
       {
         "name": "​",
-        "value": "[Guthix's Gift](https://runescape.wiki/w/Guthix%27s_gift)\n• 10% bonus to herblore experience when making [Juju Potions](https://runescape.wiki/w/Juju_potion)\n\n[God Banner](https://runescape.wiki/w/God_banner)\n• +2 levels\n• Lasts 30 minutes once per day\n\n[Spicy Stew](https://runescape.wiki/w/Spicy_stew)\n • Boost is applied to a random skill\n • Up to ±6 with 3 spice doses\n • Up to ±3 with 2 spice doses\n • Up to ±2 with 1 spice dose\n\n[Perfect Juju Herblore Potion](https://runescape.wiki/w/Perfect_juju_herblore_potion)\n• 5% more experience for making [Combination Potions](https://runescape.wiki/w/Combination_potion)\n• 10% higher chance of finding a [Recipe](https://runescape.wiki/w/Unreadable_page) in Daemonheim"
+        "value": "[Guthix's Gift](https://runescape.wiki/w/Guthix%27s_gift)\n• 10% bonus to herblore experience when making [Juju Potions](https://runescape.wiki/w/Juju_potion)\n\n[God Banner](https://runescape.wiki/w/God_banner)\n• +2 levels\n• Lasts 30 minutes once per day\n\n[Spicy Stew](https://runescape.wiki/w/Spicy_stew)\n • Boost is applied to a random skill\n • A [Brown Spice](https://runescape.wiki/w/Brown_spice) is needed for the potential boost\n • Up to ±6 with 3 spice doses\n • Up to ±3 with 2 spice doses\n • Up to ±2 with 1 spice dose\n\n[Perfect Juju Herblore Potion](https://runescape.wiki/w/Perfect_juju_herblore_potion)\n• 5% more experience for making [Combination Potions](https://runescape.wiki/w/Combination_potion)\n• 10% higher chance of finding a [Recipe](https://runescape.wiki/w/Unreadable_page) in Daemonheim"
       }      
        ]
   }

@@ -402,7 +402,7 @@ exports.data = {
   "daily challenge": {
     "title": "Daily Challenge",
     "url": "https://runescape.wiki/w/Challenge_XP_Lamp",
-    "description": "Completing a daily challenge for Combat will give experience, depending on the player's level. A lamp will be given upon completion, and a player can choose between the six combat skills in which to receive experience.",
+    "description": "Completing a daily challenge for Combat will give experience depending on the player's levels. A lamp will be given upon completion and a player can choose between the six combat skills in which to receive experience.\n\nPlayers can be assigned challenges below their combat level. The challenge will consist of killing creatures of a certain combat level or the [Barrows Brothers](https://runescape.wiki/w/Barrows), [Giant Mole](https://runescape.wiki/w/Giant_mole), or [God Wars Dungeon](https://runescape.wiki/w/God_Wars_Dungeon) generals or mobs. Look for more appropriate monsters from the [Bestiary](https://runescape.wiki/w/Bestiary). Dungeoneering can also be used for rampage challenges.",
         "color": 12269891,
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
@@ -468,7 +468,7 @@ exports.data = {
       },
       {
         "name": "​",
-        "value": "[Super Melee Potion](https://runescape.wiki/w/Super_melee_potion)\n• 12% + 2 to Attack, Strength, and Defence levels\n• Recipe must be found and bought\n• Requires 81 Herblore to make\n\n[Super Warmaster's Potion](https://runescape.wiki/w/Super_warmaster%27s_potion)\n• 12% + 2 to all combat skills\n\n[Extreme Warmaster's Potion](https://runescape.wiki/w/Extreme_warmaster%27s_potion)\n• 15% + 3 to all combat skills\n• Recipe must be found and bought\n\n[Extreme Brawler's Potion](https://runescape.wiki/w/Extreme_brawler%27s_potion)\n• 15% + 3 to Attack, Strength and Defence\n• Recipe must be found and bought\n\n[Overload](https://runescape.wiki/w/Overload)\n• 15% + 3 to all combat skills\n• Reapplies boost every 15 seconds\n\n[Holy Overload](https://runescape.wiki/w/Holy_overload_potion)\n• 15% + 3 to all combat skills\n• Recipe must be bought\n• Reapplies boost every 15 seconds"
+        "value": "[Super Melee Potion](https://runescape.wiki/w/Super_melee_potion)\n• 12% + 2 to Attack, Strength, and Defence levels\n• Recipe must be found and bought\n• Requires 81 Herblore to make\n\n[Super Warmaster's Potion](https://runescape.wiki/w/Super_warmaster%27s_potion)\n• 12% + 2 to all combat skills\n\n[Extreme Warmaster's Potion](https://runescape.wiki/w/Extreme_warmaster%27s_potion)\n• 15% + 3 to all combat skills\n• Recipe must be found and bought\n\n[Extreme Brawler's Potion](https://runescape.wiki/w/Extreme_brawler%27s_potion)\n• 15% + 3 to Attack, Strength, and Defence\n• Recipe must be found and bought\n\n[Overload](https://runescape.wiki/w/Overload)\n• 15% + 3 to all combat skills\n• Reapplies boost every 15 seconds\n\n[Holy Overload](https://runescape.wiki/w/Holy_overload_potion)\n• 15% + 3 to all combat skills\n• Recipe must be bought\n• Reapplies boost every 15 seconds"
       },
       {
         "name": "​",
@@ -489,7 +489,7 @@ exports.data = {
     "fields": [
       {
         "name": "​",
-        "value": "[Blisterberry](https://runescape.wiki/w/Blisterberry)\n• +2 Strength levels\n• Reduces Defence by 1\n• Requires access to [The Arc](https://runescape.wiki/w/The_Arc)\n\n [Volcanic Strength Scroll](https://runescape.wiki/w/Volcanic_str._scroll)\n• +9 Strength levels\n\n [Sugar Skull](https://runescape.wiki/w/Sugar_skull)\n• +2 Strength levels\n\n [Toffee Apple](https://runescape.wiki/w/Toffee_apple)\n• +2 Strength levelst\n\n[Spicy Stew](https://runescape.wiki/w/Spicy_stew)\n • Boost is applied to a random skill\n • Up to ±6 with 3 spice doses\n • Up to ±3 with 2 spice doses\n • Up to ±2 with 1 spice dose\n\n[God Banner](https://runescape.wiki/w/God_banner)\n• +5 levels\n• Lasts 30 minutes once per day"
+        "value": "[Blisterberry](https://runescape.wiki/w/Blisterberry)\n• +2 Strength levels\n• Reduces Defence by 1\n• Requires access to [The Arc](https://runescape.wiki/w/The_Arc)\n\n [Volcanic Strength Scroll](https://runescape.wiki/w/Volcanic_str._scroll)\n• +9 Strength levels\n\n [Sugar Skull](https://runescape.wiki/w/Sugar_skull)\n• +2 Strength levels\n\n [Toffee Apple](https://runescape.wiki/w/Toffee_apple)\n• +2 Strength levelst\n\n[Spicy Stew](https://runescape.wiki/w/Spicy_stew)\n • Boost is applied to a random skill\n • A [Red Spice](https://runescape.wiki/w/Red_spice) is needed for the potential boost\n • Up to ±6 with 3 spice doses\n • Up to ±3 with 2 spice doses\n • Up to ±2 with 1 spice dose\n\n[God Banner](https://runescape.wiki/w/God_banner)\n• +5 levels\n• Lasts 30 minutes once per day"
       },
       {
         "name": "​",

@@ -325,7 +325,7 @@ exports.data = {
       },
       {
         "name": "Best methods",
-        "value": "• Crafting soul runes, using 100 charges at once\n• Unstable essence at the blood altar"
+        "value": "• Crafting soul runes, using 100 charges at once\n• Unstable essence at the soul altar"
       },
       {
         "name": "Methods which do not work",
@@ -441,7 +441,7 @@ exports.data = {
     "fields": [
       {
         "name": "Ethereal Outfits",
-        "value": "• [Elite Skilling Outfits](https://runescape.wiki/w/Experience-boosting_set)- Blood, Death, Law\n• Gives the ability to move between areas in the Runespan without rune cost, although you must still meet the requirements for a given type of platform\n• 5% chance to double your runes when siphoning in the Runespan, giving twice as much experience\n• 25% chance for your rune pouches to not degrade while runecrafting\n• Can store 6 Rune essence or Pure essence\n• Uses Master runecrafter robes' bonus experience if owned\n•Uses Wicked robes' effects if owned\n• Acts as a Wicked hood if owned.\n• Works as the [Morytania legs 2](https://runescape.wiki/w/Morytania_legs_2) if owned when creating blood runes at the blood altar and [Morytania legs 3](https://runescape.wiki/w/Morytania_legs_3) in saving blood altar teleport tablets\n• The ethereal body and legs grant a weight-reducing effect when worn"
+        "value": "• [Elite Skilling Outfits](https://runescape.wiki/w/Experience-boosting_set)- Blood, Death, Law\n• Gives the ability to move between areas in the Runespan without rune cost, although you must still meet the requirements for a given type of platform\n• 5% chance to double your runes when siphoning in the Runespan, giving twice as much experience\n• 25% chance for your rune pouches to not degrade while runecrafting\n• Can store 6 Rune essence or Pure essence\n• Uses Master runecrafter robes' bonus experience if owned\n• Uses Wicked robes' effects if owned\n• Acts as a Wicked hood if owned.\n• Works as the [Morytania legs 2](https://runescape.wiki/w/Morytania_legs_2) if owned when creating blood runes at the blood altar and [Morytania legs 3](https://runescape.wiki/w/Morytania_legs_3) in saving blood altar teleport tablets\n• The ethereal body and legs grant a weight-reducing effect when worn"
         },
         {
           "name": "Infinity Ethereal Outfit",
@@ -501,7 +501,7 @@ exports.data = {
     "fields": [
       {
         "name": "Runecrafting Boosts",
-        "value": "[Runecrafting Cape](https://runescape.wiki/w/Runecrafting_cape)\n• +1 level for 1 minute\n\n[Spicy Stew](https://runescape.wiki/w/Spicy_stew)\n• Boost is applied to a random skill\n • Up to ±6 with 3 spice doses\n • Up to ±3 with 2 spice doses\n • Up to ±2 with 1 spice dose\n\n[God Banner](https://runescape.wiki/w/God_banner)\n• Skill boost: +2 levels\n• The boost can be used once per day and lasts for 30 minutes\n\nTalking to [Oldak](https://runescape.wiki/w/Oldak)\n• ±2 levels to Magic and Runecrafting."
+        "value": "[Runecrafting Cape](https://runescape.wiki/w/Runecrafting_cape)\n• +1 level for 1 minute\n\n[Spicy Stew](https://runescape.wiki/w/Spicy_stew)\n• Boost is applied to a random skill\n• An [Orange Spice](https://runescape.wiki/w/Orange_spice) is needed for the potential boost\n• Up to ±6 with 3 spice doses\n• Up to ±3 with 2 spice doses\n• Up to ±2 with 1 spice dose\n\n[God Banner](https://runescape.wiki/w/God_banner)\n• Skill boost: +2 levels\n• The boost can be used once per day and lasts for 30 minutes\n\nTalking to [Oldak](https://runescape.wiki/w/Oldak)\n• ±2 levels to Magic and Runecrafting."
       },
       {
         "name": "​",

@@ -215,6 +215,10 @@ exports.data = {
         "value": "[Protean traps](https://runescape.wiki/w/Protean_trap) can be won from [Treasure Hunter](https://runescape.wiki/w/Treasure_Hunter). The traps can be used as a stackable substitute for bird snares, box traps, and marasamaw plants. The traps do not function as tortle traps. Using the trap gives a 25% experience boost with successful catches and gives 50% of the normal catching experience for failed catches. This stacks with bonus experience and other modifiers, along with the [enhanced yaktwee stick](https://runescape.wiki/w/Enhanced_yaktwee_stick) providing its usual 5% experience boost. Use of the trap adds a 10% chance of catching prey, and it stays up for 50% longer."
       },
       {
+        "name": "▬▬ Hunter Skill Training Dummies ▬▬",
+        "value": "The [Hunting skill training dummy](https://runescape.wiki/w/Hunting_skill_training_dummy) is a dummy won off of [Treasure Hunter](https://runescape.wiki/w/Treasure_Hunter). The dummy can be attacked and destroyed up to 5 times, after which, the dummy will disappear and a new one will need to be placed. Each time the dummy is destroyed, the player will receive a certain amount of Hunter experience. Utilizing the dummy a fifth time will provide an extra amount of experience upon its destruction. "
+      },
+      {
         "name": "▬▬ Divine Location ▬▬",
         "value": "A [Divine Location](https://runescape.wiki/w/Divine_location) is a gathering hub that can be placed almost anywhere using the Divination skill. Players may only collect a certain number of resources from divine locations per day, both through their own gathering and contributions from a created location, based on their total level and will be notified when they are close to their daily limit, reaching a maximum cap of 250 resources once level 2,500+. The maximum cap may be temporarily increased by using vis wax. A list of locations that aid in Hunter and their requirements can be found [here](https://runescape.wiki/w/Divine_location#Divine_hunter_spots)."
       },
@@ -398,6 +402,10 @@ exports.data = {
         "value": "• The [Enhanced Yaktwee Stick](https://runescape.wiki/w/Enhanced_yaktwee_stick) is an upgraded version of the [yaktwee stick](https://runescape.wiki/w/Yaktwee_stick), and is obtained by catching a total of 1,000 [charm sprites](https://runescape.wiki/w/Charm_sprite) with the yaktwee stick equipped and talking to [Yaktwee Swinmari Cianta](https://runescape.wiki/w/Yaktwee_Swinmari_Cianta). When wielded, it increases the chance to get the rarer charm sprites by about 5% as well as giving 5% extra experience in any Hunter activity, as long as the activity allows the stick to be wielded. The boost also works for the [Big Chinchompa](https://runescape.wiki/w/Big_Chinchompa) Distraction and Diversion."
       },
       {
+        "name": "Ring of Whispers",
+        "value": "• The [Ring of Whispers](https://runescape.wiki/w/Ring_of_Whispers) is a reward from the [Sliske's Endgame](https://runescape.wiki/w/Sliske%27s_Endgame) quest. When equipped, it provides a +3 invisible bonus to gathering skills. The invisible boost stacks with [familiar](https://runescape.wiki/w/Summoning_familiars) invisible boosts. Wearing the ring along with the [Necklace of Shadows](https://runescape.wiki/w/Necklace_of_Shadows) and the [Combined Catalyst fragment](https://runescape.wiki/w/Combined_Catalyst_fragment) allows players to occasionally find [Manifested knowledge](https://runescape.wiki/w/Manifested_knowledge) when training which will offer experience in the skill they were training when it appeared."
+      },
+      {
         "name": "Hunter's Outfit",
         "value": "• The [Hunter's outfit](https://runescape.wiki/w/Hunter%27s_outfit) is experience-boosting set for the Hunter skill. The 5 pieces can be purchased in the [Waiko Reward Shop](https://runescape.wiki/w/Waiko_Reward_Shop) for a total of 10,000 chimes and 10 taijitu. Each piece grants 1% bonus to Hunter experience, wearing the full set grants 6%. The outfit also stacks with the enhanced yaktwee stick, granting a total of 11%."
       },
@@ -434,7 +442,7 @@ exports.data = {
     "fields": [
       {
         "name": "Hunter Boosts",
-        "value": "[Hunter Cape](https://runescape.wiki/w/Hunter_cape)\n • +1 Hunter level for 1 minute\n\n[Spicy Stew](https://runescape.wiki/w/Spicy_stew)\n • Boost is applied to a random skill\n • Up to ±6 with 3 spice doses\n • Up to ±3 with 2 spice doses\n • Up to ±2 with 1 spice dose\n\n[Mournberry](https://runescape.wiki/w/Mournberry)\n• +2 Levels\n• Reduces Defence by 1\n• Requires access to [The Arc](https://runescape.wiki/w/The_Arc)\n\n[Hunter Potion](https://runescape.wiki/w/Hunter_potion)\n• +3 levels\n• Does not stack with Mud Bath boost\n\n[Arctic Bear](https://runescape.wiki/w/Arctic_bear)\n• +7 invisible levels\n• Requires 71 Summoning \n\n[Wolpertinger](https://runescape.wiki/w/Wolpertinger)\n• +5 invisible levels\n• Requires 92 Summoning"
+        "value": "[Hunter Cape](https://runescape.wiki/w/Hunter_cape)\n • +1 Hunter level for 1 minute\n\n[Spicy Stew](https://runescape.wiki/w/Spicy_stew)\n • Boost is applied to a random skill\n • A [Yellow Spice](https://runescape.wiki/w/Yellow_spice) is needed for the potential boost\n • Up to ±6 with 3 spice doses\n • Up to ±3 with 2 spice doses\n • Up to ±2 with 1 spice dose\n\n[Mournberry](https://runescape.wiki/w/Mournberry)\n• +2 Levels\n• Reduces Defence by 1\n• Requires access to [The Arc](https://runescape.wiki/w/The_Arc)\n\n[Hunter Potion](https://runescape.wiki/w/Hunter_potion)\n• +3 levels\n• Does not stack with Mud Bath boost\n\n[Arctic Bear](https://runescape.wiki/w/Arctic_bear)\n• +7 invisible levels\n• Requires 71 Summoning \n\n[Wolpertinger](https://runescape.wiki/w/Wolpertinger)\n• +5 invisible levels\n• Requires 92 Summoning"
       },
       {
         "name": "​",

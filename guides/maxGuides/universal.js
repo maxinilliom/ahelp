@@ -45,11 +45,11 @@ exports.data = [{
       },
       {
         "name": "Dragonkin Lamp",
-        "value": "• The [Dragonkin Lamp](https://runescape.wiki/w/Dragonkin_lamp) is the final reward from an [Ancient Effigy](https://runescape.wiki/w/Ancient_effigies). An approximate for the experience gained is calculated by taking the level cubed and dividing that by 20.2 (Level^3/20.2). The exact experience gained is shown in the following equation, where the floor function, `x`, means to round down to the nearest integer: explerience = {level}^3 - 2 * {level}^2 + 100 * {level} / 20."
+        "value": "• The [Dragonkin Lamp](https://runescape.wiki/w/Dragonkin_lamp) is the final reward from an [Ancient Effigy](https://runescape.wiki/w/Ancient_effigies). An approximate for the experience gained is calculated by taking the level cubed and dividing that by 20.2 (Level^3/20.2). The exact experience gained is shown in the following equation, where the floor function, `x`, means to round down to the nearest integer: experience = {level}^3 - 2 * {level}^2 + 100 * {level} / 20."
       },
       {
         "name": "Skill Choice Quest Lamps",
-        "value": "• [Skill Choice Quest Lamps](https://runescape.wiki/w/Quests/Experience_rewards#Skill_choice) are lamps where, upon completing the relative quest(s), allows players to choose the skill that these rewards go towards. These rewards usually come in the form of items, like lamps, or books. Currently, a total amount of 5,002,008 experience may be gianed for Skill Choice Quest Lamps."
+        "value": "• [Skill Choice Quest Lamps](https://runescape.wiki/w/Quests/Experience_rewards#Skill_choice) are lamps where, upon completing the relative quest(s), allows players to choose the skill that these rewards go towards. These rewards usually come in the form of items, like lamps, or books. Currently, a total amount of 5,002,008 experience may be gained for Skill Choice Quest Lamps."
       },
       {
         "name": "Troll Invasion",

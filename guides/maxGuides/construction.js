@@ -415,7 +415,7 @@ exports.data = {
       },
       {
         "name": "​",
-        "value": "[Sacred Clay Hammer](https://runescape.wiki/w/Sacred_clay_hammer)\n• 24,450 bonus experience\n• Costs 20 [Stealing Creation](https://runescape.wiki/w/Stealing_Creation) points\n\n[Volatile Clay Hammer](https://runescape.wiki/w/Volatile_clay_hammer)\n• 29,340 bonus experience\n• Costs 20 Stealing Creation points\n• +2 Construction levels\n\n[God Banner](https://runescape.wiki/w/God_banner)\n• +2 levels\n• Lasts 30 minutes once per day\n\n[Spicy Stew](https://runescape.wiki/w/Spicy_stew)\n• Boost is applied to a random skill\n• Each color [spice](https://runescape.wiki/w/Spicy_stew#Spices) affects different skills\n• Up to ±6 with 3 spice doses\n• Up to ±3 with 2 spice doses\n• Up to ±2 with 1 spice dose"
+        "value": "[Sacred Clay Hammer](https://runescape.wiki/w/Sacred_clay_hammer)\n• 24,450 bonus experience\n• Costs 20 [Stealing Creation](https://runescape.wiki/w/Stealing_Creation) points\n\n[Volatile Clay Hammer](https://runescape.wiki/w/Volatile_clay_hammer)\n• 29,340 bonus experience\n• Costs 20 Stealing Creation points\n• +2 Construction levels\n\n[God Banner](https://runescape.wiki/w/God_banner)\n• +2 levels\n• Lasts 30 minutes once per day\n\n[Spicy Stew](https://runescape.wiki/w/Spicy_stew)\n• Boost is applied to a random skill\n• An [Orange Spice](https://runescape.wiki/w/Orange_spice) is needed for the potential boost\n• Up to ±6 with 3 spice doses\n• Up to ±3 with 2 spice doses\n• Up to ±2 with 1 spice dose"
       }
        ]
   }

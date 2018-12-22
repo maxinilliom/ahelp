@@ -59,7 +59,7 @@ exports.data = {
         "fields": [
       { 
         "name": "▬▬ Abyss Training Method ▬▬",
-        "value": "• **Guide:** [Abyss Combat and Invention Guide | Maikeru RS - YouTube](https://www.youtube.com/watch?v=lXrmARBZulU)\n\t• **NPC: **[Abyssal Creatures](https://runescape.wiki/w/Abyssal)\n\t• **Required Miniquest:** [Abyss](https://runescape.wiki/w/Abyss_(miniquest)\n\t• **Location:** [Abyss](https://runescape.wiki/w/Abyss)\n\t• **Recommended Gear for Cheapest Upfront Cost:**\n\t\t• [Augmented Crystal Halberd](https://runescape.wiki/w/Augmented_crystal_halberd) (disassemble)\n\t\t• [Augmented Gandodermic Poncho](https://runescape.wiki/w/Augmented_ganodermic_poncho)/[Leggings](https://runescape.wiki/w/Augmented_ganodermic_leggings) (disassemble)\n\t• **Inventory:**\n\t\t• [Prayer Potion](https://runescape.wiki/w/Prayer_potion)"
+        "value": "• **Guide:** [Abyss Combat and Invention Guide | Maikeru RS - YouTube](https://www.youtube.com/watch?v=lXrmARBZulU)\n\t• **NPC: **[Abyssal Creatures](https://runescape.wiki/w/Abyssal)\n\t• **Required Miniquest:** [Abyss](https://runescape.wiki/w/Abyss_(miniquest)\n\t• **Location:** [Abyss](https://runescape.wiki/w/Abyss)\n\t• **Recommended Gear for Cheapest Upfront Cost:**\n\t\t• [Augmented Crystal Halberd](https://runescape.wiki/w/Augmented_crystal_halberd) (disassemble)\n\t\t• [Augmented Gandodermic Poncho](https://runescape.wiki/w/Augmented_ganodermic_poncho)/[Leggings](https://runescape.wiki/w/Augmented_ganodermic_leggings) (disassemble)\n\t• **Inventory:**\n\t\t• [Prayer Potions](https://runescape.wiki/w/Prayer_potion) (if [Soul Split](https://runescape.wiki/w/Soul_Split) it unlocked)\n\t\t• Food (if Soul Split **is not** unlocked)"
       }
     ]
   },
@@ -86,11 +86,11 @@ exports.data = {
       },
       {
         "name": "​",
-        "value": "\t• **Prayer:** [Soul Split](https://runescape.wiki/w/Soul_Split)\n\t• **Unique Perk:** [Demon Slayer](https://runescape.wiki/w/Demon_Slayer_(perk)\n\t• **Familiar:** [Pack Yak](https://runescape.wiki/w/Pack_yak)\n\t• **Inventory:**\n\t\t• [Aggression Potion](https://runescape.wiki/w/Aggression_potion)\n\t\t• [Prayer Potion](https://runescape.wiki/w/Prayer_potion)\n\t\t• [Infernal Urn](https://runescape.wiki/w/Infernal_urn) / [Attuned Ectoplasmator](https://runescape.wiki/w/Attuned_ectoplasmator)\n\t\t• [Spring Cleaner](https://runescape.wiki/w/Spring_cleaner)\n\t\t• [Enhanced Excalibur](https://runescape.wiki/w/Enhanced_Excalibur)"
+        "value": "\t• **Prayer:** [Soul Split](https://runescape.wiki/w/Soul_Split)\n\t• **Unique Perk:** [Demon Slayer](https://runescape.wiki/w/Demon_Slayer_(perk)\n\t• **Familiar:** [Pack Yak](https://runescape.wiki/w/Pack_yak)\n\t• **Inventory:**\n\t\t• [Aggression Potion](https://runescape.wiki/w/Aggression_potion)\n\t\t• [Prayer Potion](https://runescape.wiki/w/Prayer_potion)\n\t\t• [Infernal Urn](https://runescape.wiki/w/Infernal_urn) / [Attuned Ectoplasmator](https://runescape.wiki/w/Attuned_ectoplasmator)\n\t\t• [Spring Cleaner](https://runescape.wiki/w/Spring_cleaner)\n\t\t• [Enhanced Excalibur](https://runescape.wiki/w/Enhanced_Excalibur)\n\t\t• [Gem Bag](https://runescape.wiki/w/Gem_bag)"
       },
       {
         "name": "▬▬ Combat Method 2 (Fast) (Quest Locked) ▬▬",
-        "value": "• **Guide:** [Muspah Method Guide | Teh Proez - YouTube](https://www.youtube.com/watch?v=y8m2D3KsnOU)\n\t• **Required Quest:** [Fate of the Gods](https://runescape.wiki/w/Fate_of_the_Gods)\n\t• **NPC: **[Muspah](https://runescape.wiki/w/Muspah)\n\t• **Location:** [Freneskae](https://runescape.wiki/w/Freneskae)\n\t• **Gear**\n\t\t•[Augmented Noxious Staff](https://runescape.wiki/w/Augmented_noxious_staff) (siphon) or [Augmented Polypore Staff](https://runescape.wiki/w/Augmented_polypore_staff)/[Augmented Staff of Light](https://runescape.wiki/w/Augmented_staff_of_light)/[Augmented Sunspear (magic)](https://runescape.wiki/w/Augmented_Sunspear_(magic) (disassemble)"
+        "value": "• **Guide:** [Muspah Method Guide | Teh Proez - YouTube](https://www.youtube.com/watch?v=y8m2D3KsnOU)\n\t• **Required Quest:** [Fate of the Gods](https://runescape.wiki/w/Fate_of_the_Gods)\n\t• **NPC: **[Muspah](https://runescape.wiki/w/Muspah)\n\t• **Location:** [Freneskae](https://runescape.wiki/w/Freneskae)\n\t• **Gear:**\n\t\t• [Augmented Noxious Staff](https://runescape.wiki/w/Augmented_noxious_staff) (siphon) or [Augmented Polypore Staff](https://runescape.wiki/w/Augmented_polypore_staff)/[Augmented Staff of Light](https://runescape.wiki/w/Augmented_staff_of_light)/[Augmented Sunspear (magic)](https://runescape.wiki/w/Augmented_Sunspear_(magic) (disassemble)"
      },
       {
         "name": "​",
@@ -98,7 +98,7 @@ exports.data = {
       },
       {
         "name": "▬▬ Combat Method 3 (Slower) (Cheapest) ▬▬",
-        "value": "•**Guide:** [Abyss Combat and Invention Guide | Maikeru RS - YouTube](https://www.youtube.com/watch?v=lXrmARBZulU)\n\t• Full written guide is found in the `Invention Training Levels 4-27` section of this guide."
+        "value": "• **Guide:** [Abyss Combat and Invention Guide | Maikeru RS - YouTube](https://www.youtube.com/watch?v=lXrmARBZulU)\n\t• Full written guide is found in the `Invention Training Levels 4-27` section of this guide."
      },
       {
         "name": "▬▬ Going above and beyond ▬▬",
