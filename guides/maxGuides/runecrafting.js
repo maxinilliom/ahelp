@@ -501,7 +501,7 @@ exports.data = {
     "fields": [
       {
         "name": "Runecrafting Boosts",
-        "value": "[Runecrafting Cape](https://runescape.wiki/w/Runecrafting_cape)\n• +1 level for 1 minute\n\n[Spicy Stew](https://runescape.wiki/w/Spicy_stew)\n• Boost is applied to a random skill\n • Up to ±6 with 3 spice doses\n • Up to ±3 with 2 spice doses\n • Up to ±2 with 1 spice dose\n\n[God Banner](https://runescape.wiki/w/God_banner)\n• Skill boost: +2 levels\n• The boost can be used once per day and lasts for 30 minutes\n\nTalking to [Oldak](https://runescape.wiki/w/Oldak)\n• ±2 levels to Magic and Runecrafting."
+        "value": "[Runecrafting Cape](https://runescape.wiki/w/Runecrafting_cape)\n• +1 level for 1 minute\n\n[Spicy Stew](https://runescape.wiki/w/Spicy_stew)\n• Boost is applied to a random skill\n• An [Orange Spice](https://runescape.wiki/w/Orange_spice) is needed for the potential boost\n• Up to ±6 with 3 spice doses\n• Up to ±3 with 2 spice doses\n• Up to ±2 with 1 spice dose\n\n[God Banner](https://runescape.wiki/w/God_banner)\n• Skill boost: +2 levels\n• The boost can be used once per day and lasts for 30 minutes\n\nTalking to [Oldak](https://runescape.wiki/w/Oldak)\n• ±2 levels to Magic and Runecrafting."
       },
       {
         "name": "​",
