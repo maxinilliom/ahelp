@@ -283,7 +283,7 @@ exports.data = {
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "thumbnail": {
-      "url": "https://cdn.discordapp.com/icons/126472497779441664/85bc2a1fcb0c3cb47f443b4a14c8b49a.webp"
+      "url": "https://cdn.discordapp.com/icons/126472497779441664/0df396ab4e355ef6832f9b56c8f365ff.webp"
     },
     "author": {
       "name": "Skilling Affiliate Info",
@@ -1092,7 +1092,7 @@ exports.data = {
     "title": "Solak FC",
     "description":"A FC dedicated to the new RuneScape boss where you're able to communicate and socialise with other players to find teams for the boss through our FC, as well as dedicated channels to discuss methods and strategies on killing the boss. We welcome all players wanting to challenge Solak on release and in the future.",
     "thumbnail": {
-      "url": "https://cdn.discordapp.com/icons/429001600523042818/94c7d158a53e28467a5c9132403bced9.webp"
+      "url": "https://cdn.discordapp.com/icons/429001600523042818/12beb80b3cfba5e82a93d4a7ead7f27d.webp"
     },
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
