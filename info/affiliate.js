@@ -400,7 +400,7 @@ exports.data = {
     "title": "Skilling",
     "description":"For those interested in experience rates, helpful tips for post 99 skilling, and 5.4b/True Trim.",
     "thumbnail": {
-      "url": "https://cdn.discordapp.com/icons/336818736810164235/bf9860830b1da5343526e97e0fc7e9fc.webp"
+      "url": "https://cdn.discordapp.com/icons/336818736810164235/dec82781bdf8efeda580b9451f75bfc8.webp"
     },
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
@@ -1009,7 +1009,7 @@ exports.data = {
       }
       ]
   },
-    "RS Pocketbook": {
+  "RS Pocketbook": {
     "title": "RS Pocketbook",
     "description":"Built from the RS Pocketbook PDF, this server acts as a support channel both for PvM information and at times for helping to form groups to PvM with, as well as a medium through which the RS pocketbook is updated.",
     "thumbnail": {
