@@ -203,31 +203,6 @@ exports.data = {
       }
       ]
   },
-  "The Dueling Club of Gielinor": {
-    "title": "The Dueling Club of Gielinor",
-    "description":"A server for fun, relaxed, and non-toxic Purple Portal Clan Wars events.",
-    "thumbnail": {
-      "url": "https://cdn.discordapp.com/icons/412794014119493634/4587c18dc3d8baa6d48d53b5e2d29f8f.webp"
-    },
-    "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
-      "text": "Achievement Help | Connecting our Helpful Communities!"
-    },
-    "author": {
-      "name": "Social Affiliate Info",
-      "icon_url": "https://i.imgur.com/6c6q2iC.png"
-    },
-          "fields": [
-      {
-        "name": "Invite Link:",
-        "value": "https://discord.gg/z2NRp32"
-      },
-      {
-        "name": "Contact:",
-        "value": "<@217819569354571776>"
-      }
-      ]
-  },
   "Umami FC": {
     "title": "Umami FC",
     "description":"A friendly community server that features a weekly calendar for all Jmod and Pmod events.",
