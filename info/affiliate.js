@@ -768,7 +768,7 @@ exports.data = {
     "title": "EasyLeech",
     "description":"EasyLeech caters for the leeching needs of all RS3 players. In their server you can get all the information you need to help you leech comfortably including prices, gear setups, and how to stay alive! Solak leeches for members of Achievement Help are discounted from 120m to 108m and Reaper achievement kills are discounted by 10%. For a full list of prices, see the <#520396084351205394> channel after you join!",
     "thumbnail": {
-      "url": "https://cdn.discordapp.com/icons/520396084351205390/94eaf30ed9c2fd7488a0e3395ead45c5.webp"
+      "url": "https://cdn.discordapp.com/icons/520396084351205390/4c68dba18144b2381046569bd4d4e38b.webp"
     },
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
