@@ -8698,7 +8698,7 @@ exports.data = {
 				},
 				{
 					"name": "Requirements:",
-					"value": "• 117 Slayer\n• The Jack of Spades Quest completion | [Runescape Wiki](https://runescape.wiki/w/The_Jack_of_Spades)"
+					"value": "• 117 Slayer\n\n• The Jack of Spades Quest completion | [Runescape Wiki](https://runescape.wiki/w/The_Jack_of_Spades)"
 				}
 			],
 			"footer": {
@@ -8749,6 +8749,42 @@ exports.data = {
 					"value": "[Fight Kiln guide | Runescape Wiki](https://runescape.wiki/w/TzHaar-Ga%27al-Kot)"
 				}
 			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+				"text": "Runescore awarded: 10"
+			},
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
+	},
+	"to thaw a frozen heart": {
+		"cmds": ["mqc"],
+		"embed": {
+			"title": "To Thaw a Frozen Heart",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[To Thaw a Frozen Heart](https://runescape.wiki/w/To_Thaw_a_Frozen_Heart) is an achievement that requires the player to find and thaw all four [frozen snow implings](https://runescape.wiki/w/Frozen_snow_impling) in [Yeti Town](https://runescape.wiki/w/Yeti_Town) after completion of the quest [Violet is Blue](https://runescape.wiki/w/Violet_is_Blue).",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+				{
+					"name": "Chapter 1:",
+					"value": "• Investigate the crate south-east of the bonfire.\n• Investigate the well south of the bonfire.\n• Investigate the barrel at the docks south-west.\n• Investigate the cart north-west of the bonfire."
+				},
+				{
+					"name": "Requirements:",
+					"value": "• Level 80 in all non-elite skills\n\n• Violet is Blue Quest completion | [Runescape Wiki](https://runescape.wiki/w/Violet_is_Blue)"
+				},
+				{
+					"name": "Guide:",
+					"value": "​"
+				}
+			],
+    "image": {
+      "url": "https://i.imgur.com/nnv9rsX.png"
+    },
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
 				"text": "Runescore awarded: 10"
