@@ -847,6 +847,31 @@ exports.data = {
       }
       ]
   },
+  "Mazcab Academy": {
+    "title": "Mazcab Academy",
+    "description":"**Mazcab Academy** is a learner friendly community for mainly the Liberation of Mazcab Raids.\n\n__**Our offer:**__\n🔸 Daily Raids, in the early evening game time.\n🔸 A ranking feature to show what you are able to do.\n🔸 Occasional Feat runs.\n🔸 A strong admin and teachers team that will always help you with your questions!\n🔸 A non elitist atmosphere!\n🔸 The opportunity to grow from Goebie Zero to Goebie Hero and become a Mazcab Master!",
+    "thumbnail": {
+      "url": "https://cdn.discordapp.com/icons/506480622022295572/64a52032234016430077448567c8e37d.webp"
+    },
+    "footer": {
+      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "text": "Achievement Help | Connecting our Helpful Communities!"
+    },
+    "author": {
+      "name": "Combat Affiliate Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "fields": [
+      {
+        "name": "Invite Link:",
+        "value": "https://discord.gg/uKqQk8h"
+      },
+      {
+        "name": "Contact:",
+        "value": "<@249488551790510081> and <@107212441326243840>"
+      }
+      ]
+  },
   "Nexperts": {
     "title": "Nexperts",
     "description":"Nexperts - The Nex Duo Community. We achieve Nex goals together!\n• Collections and titles\n• Reaper tasks\n• Improve duo kill times\n• Helpful friends\n• Comp cape kills\n• Learn the basics",
@@ -1054,7 +1079,7 @@ exports.data = {
         "value": "https://discord.gg/MAj888b"
       },
       {
-        "name": "Contacts:",
+        "name": "Contact:",
         "value": "<@247039087196897291> and <@337390515827900420>"
       }
       ]
