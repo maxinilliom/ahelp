@@ -135,6 +135,33 @@
          }
       ]
    },
+    "clan skilling competition": {  
+      "footer":{  
+         "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
+         "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
+      },
+      "thumbnail":{  
+         "url":"https://runescape.wiki/images/b/bc/XP_Counter_icon.png?91d3a"
+      },
+      "author":{  
+         "name":"Clan Skilling Competition:",
+         "icon_url":"https://i.imgur.com/6c6q2iC.png"
+      },
+      "fields":[
+        {
+          "name": "Rules:",
+          "value": "• All clan members are welcome to participate.\n\n• The competition will begin at reset on January 7th and end at reset on January 13th.\n\n• The contest will consider the total xp and levels gained across the [Fishing](https://runescape.wiki/w/Fishing), [Cooking](https://runescape.wiki/w/Cooking), [Mining](https://runescape.wiki/w/Mining), and [Smithing](https://runescape.wiki/w/Smithing) skills.\n\n • You must log out at reset on the day the competition begins in order to have your xp accurately recorded.\n\n • Good people are giving up their hard-earned GP for the prize money, so please respect the integrity of the competition and keep it fun for everyone."
+        },
+        {
+          "name": "What You Can Win:",
+          "value": "• First place:  15m\n\n• Second place:  10m\n\n• Third place:  5m\n\n• Most Levels Gained:  5m"
+        },
+        {
+          "name": "Standings:",
+          "value": "Results may be tracked [here](http://alright.rocks/)."
+        }
+      ]
+    },
     "clue scrolls": {  
       "title":"What Are Clue Scrolls?:",
       "description": "A Clue scroll sends the player on [Treasure Trails](https://runescape.wiki/w/Treasure_Trails), a series of clues leading towards a buried treasure. Clue scrolls can be randomly dropped by various [monsters](https://runescape.wiki/w/Bestiary), found while pickpocketing [H.A.M. Members](https://runescape.wiki/w/H.A.M._Member) and [Elven clan workers](https://runescape.wiki/w/Elven_clan_worker), looted from a [Treasure chest decoration](https://runescape.wiki/w/Treasure_chest_decoration), [Managing Miscellania](https://runescape.wiki/w/Managing_Miscellania) [rewards](https://runescape.wiki/w/Managing_Miscellania#Rewards) coffer, or purchased with [Thaler](https://runescape.wiki/w/Thaler) or [Treasure Trail points](https://runescape.wiki/w/Treasure_Trails_Reward_Shop#Treasure_Trail_Points). Players will only be able to open one [sealed clue scroll](https://runescape.wiki/w/Sealed_clue_scroll) if they do not already have one of the same type active in their inventory or bank.\n\nSealed clue scrolls can also be obtained from Fishing, Mining, Woodcutting, or Divination. The tier of clue scroll players receive is weighted based on their level of the activity, with elites appearing at level 60 training methods and higher. There is always a 1% chance for a sealed elite clue to upgrade to a [sealed master clue](https://runescape.wiki/w/Sealed_clue_scroll_(master). This can, however, be boosted to a 2% chance if the invention perk [Prosper](https://runescape.wiki/w/Prosper) is in use.",
