@@ -102,6 +102,39 @@
          }
       ]
    },
+    "castle wars solve": {  
+      "title":"Preparation:",
+      "description":"All are welcome! We will be teaching how to do the event on Discord if any learners are apprehensive about coming.\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Castle_Wars).",
+      "footer":{  
+         "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
+         "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
+      },
+      "thumbnail":{  
+         "url":"https://runescape.wiki/images/4/49/Castle_Wars_icon.jpg?b4023"
+      },
+      "author":{  
+         "name":"Castle Wars Community Event",
+         "icon_url":"https://i.imgur.com/6c6q2iC.png"
+      },
+      "fields":[  
+         {  
+            "name":"​Where:",
+            "value":"[Castle Wars](https://runescape.wiki/w/Castle_Wars) lobby, in the south-west corner of [Kandarin](https://runescape.wiki/w/Kandarin), World 68 in <@113770763261181961>'s friends chat."
+         },
+         {  
+            "name":"​Why:",
+            "value":"For those who want to have fun and to assist everyone who needs Castle Wars to:\n\n• Unlock the [music](https://runescape.wiki/w/Music) track\n• Complete the [How Many Games](https://runescape.wiki/w/How_Many_Games%3F) achievement\n(Show a full set of profound armour to Lanthus)\n• Complete the [No Time to Lose](https://runescape.wiki/w/No_Time_to_Lose) achievement\n(Use a [ring of duelling](https://runescape.wiki/w/Ring_of_duelling) to teleport to Castle Wars by choosing the Castle Wars option on the ring)\n• Complete the [What Year Is It](https://runescape.wiki/w/What_Year_Is_It%3F) achievement (Cast [Ice Barrage](https://runescape.wiki/w/Ice_Barrage) 99 times in Castle Wars)"
+         },
+         {  
+            "name":"​Who:",
+           "value":"<@113770763261181961>, <@154378413375881216>, their [Achievement Help](https://www.discord.gg/uUUMPbd) Discord team, and their [Alright](https://discord.gg/KwysmXr) clan."
+         },
+         {  
+            "name":"​What is Needed:",
+           "value":"This is a safe minigame.  Any gear is permitted. [Tier](https://runescape.wiki/w/Equipment_tier) 70+ armor and weapon are recommended, though not required. The better the tier, the better chance you have of surviving."
+         }
+      ]
+   },
     "clue scrolls": {  
       "title":"What Are Clue Scrolls?:",
       "description": "A Clue scroll sends the player on [Treasure Trails](https://runescape.wiki/w/Treasure_Trails), a series of clues leading towards a buried treasure. Clue scrolls can be randomly dropped by various [monsters](https://runescape.wiki/w/Bestiary), found while pickpocketing [H.A.M. Members](https://runescape.wiki/w/H.A.M._Member) and [Elven clan workers](https://runescape.wiki/w/Elven_clan_worker), looted from a [Treasure chest decoration](https://runescape.wiki/w/Treasure_chest_decoration), [Managing Miscellania](https://runescape.wiki/w/Managing_Miscellania) [rewards](https://runescape.wiki/w/Managing_Miscellania#Rewards) coffer, or purchased with [Thaler](https://runescape.wiki/w/Thaler) or [Treasure Trail points](https://runescape.wiki/w/Treasure_Trails_Reward_Shop#Treasure_Trail_Points). Players will only be able to open one [sealed clue scroll](https://runescape.wiki/w/Sealed_clue_scroll) if they do not already have one of the same type active in their inventory or bank.\n\nSealed clue scrolls can also be obtained from Fishing, Mining, Woodcutting, or Divination. The tier of clue scroll players receive is weighted based on their level of the activity, with elites appearing at level 60 training methods and higher. There is always a 1% chance for a sealed elite clue to upgrade to a [sealed master clue](https://runescape.wiki/w/Sealed_clue_scroll_(master). This can, however, be boosted to a 2% chance if the invention perk [Prosper](https://runescape.wiki/w/Prosper) is in use.",
@@ -344,6 +377,39 @@
          }
       ]
    },
+    "fist of guthix solve": {  
+      "title":"Preparation:",
+      "description":"All are welcome! We will be teaching how to do the event on Discord if any learners are apprehensive about coming.\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Fist_of_Guthix).",
+      "footer":{  
+         "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
+         "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
+      },
+      "thumbnail":{  
+         "url":"https://runescape.wiki/images/1/17/Fist_of_Guthix_icon.jpg?76e9a"
+      },
+      "author":{  
+         "name":"Fist of Guthix Community Event",
+         "icon_url":"https://i.imgur.com/6c6q2iC.png"
+      },
+      "fields":[  
+         {  
+            "name":"​Where:",
+            "value":"[Gamers' grotto](https://runescape.wiki/w/Gamers%27_grotto), east of the [Falador lodestone](https://runescape.wiki/w/Falador), World 68 in <@113770763261181961>'s friends chat."
+         },
+         {  
+            "name":"​Why:",
+            "value":"For those who want to have fun and to assist everyone who needs to unlock the [music](https://runescape.wiki/w/Music) track"
+         },
+         {  
+            "name":"​Who:",
+            "value":"<@113770763261181961>, <@154378413375881216>, their [Achievement Help](https://www.discord.gg/uUUMPbd) Discord team, and their [Alright](https://discord.gg/KwysmXr) clan."
+         },
+         {  
+            "name":"​What is Needed:",
+           "value":"This is a safe minigame.  Any gear is permitted. [Tier](https://runescape.wiki/w/Equipment_tier) 70+ armor and weapon are recommended, though not required. The better the tier, the better chance you have of surviving."
+         }
+      ]
+   },
     "general graardor": {  
       "title":"Preparation:",
       "description":"All are welcome! We will be teaching how to do the boss on Discord if any learners are apprehensive about coming.\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/General_Graardor/Strategies) or a video guide [here](https://www.youtube.com/watch?v=CDur0jqFF_8).",
@@ -489,6 +555,39 @@
          {  
             "name":"​Who:",
             "value":"<@294617234033213450>, <@113770763261181961>, their [Achievement Help](https://www.discord.gg/uUUMPbd) Discord team, and their [Alright](https://discord.gg/KwysmXr) clan."
+         },
+         {  
+            "name":"​What is Needed:",
+            "value":"This is a safe [minigame](https://runescape.wiki/w/Minigames). You cannot wear or bring any items into the arena. There is a bank chest in the waiting area for your convenience."
+         }
+      ]
+   },
+    "heist solve": {  
+      "title":"Preparation:",
+      "description":"All are welcome! We will be teaching how to do the event on Discord if any learners are apprehensive about coming.\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Heist).",
+      "footer":{  
+         "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
+         "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
+      },
+      "thumbnail":{  
+         "url":"https://runescape.wiki/images/b/be/Heist_game_lobby.png?42d20"
+      },
+      "author":{  
+         "name":"Heist Community Event",
+         "icon_url":"https://i.imgur.com/6c6q2iC.png"
+      },
+      "fields":[  
+         {  
+            "name":"​Where:",
+            "value":"[Heist](https://runescape.wiki/w/Heist) may be accessed by climbing the ladder just north-west of [Falador](https://runescape.wiki/w/Falador), by the [Taverly](https://runescape.wiki/w/Taverley) wall, World 68 in <@113770763261181961>'s friends chat."
+         },
+         {  
+            "name":"​Why:",
+            "value":"To assist everyone who needs to unlock the [music](https://runescape.wiki/w/Music), complete the [Cops and Robbers](https://runescape.wiki/w/Cops_and_Robbers) achievement (unlock all perks in Heist), or for those who just want to have fun."
+         },
+         {  
+            "name":"​Who:",
+           "value":"<@113770763261181961>, <@154378413375881216>, their [Achievement Help](https://www.discord.gg/uUUMPbd) Discord team, and their [Alright](https://discord.gg/KwysmXr) clan."
          },
          {  
             "name":"​What is Needed:",
@@ -962,6 +1061,39 @@
          {  
             "name":"​Who:",
             "value":"<@294617234033213450>, <@113770763261181961>, their [Achievement Help](https://www.discord.gg/uUUMPbd) Discord team, and their [Alright](https://discord.gg/KwysmXr) clan."
+         },
+         {  
+            "name":"​What is Needed:",
+           "value":"This is a safe [minigame](https://runescape.wiki/w/Minigames). Any gear is permitted, though you will not be able to wear a cape into the arena. [Tier](https://runescape.wiki/w/Equipment_tier) 70+ armor and weapon are recommended, though not required. The better the tier, the better chance you have of surviving."
+         }
+      ]
+   },
+    "soul wars solve": {  
+      "title":"Preparation:",
+      "description":"All are welcome! We will be teaching how to do the event on Discord if any learners are apprehensive about coming.\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Soul_Wars).",
+      "footer":{  
+         "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
+         "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
+      },
+      "thumbnail":{  
+         "url":"https://vignette.wikia.nocookie.net/runescape2/images/b/b4/Avatar_of_Creation.png/revision/latest?cb=20100807183550"
+      },
+      "author":{  
+         "name":"Soul Wars Community Event",
+         "icon_url":"https://i.imgur.com/6c6q2iC.png"
+      },
+      "fields":[  
+         {  
+            "name":"​Where:",
+            "value":"The [Soul Wars](https://runescape.wiki/w/Soul_Wars) lobby, World 68 in <@113770763261181961>'s friends chat. To get to Soul Wars, one must enter the [Soul Wars portal](https://runescape.wiki/w/Soul_Wars_portal) in [Edgeville](https://runescape.wiki/w/Edgeville)."
+         },
+         {  
+            "name":"​Why:",
+            "value":"To assist everyone who needs to unlock the [music](https://runescape.wiki/w/Music), complete the [Magister Smagister](https://runescape.wiki/w/Magister_Smagister) achievement (obtain 100 [soul fragments](https://runescape.wiki/w/Soul_fragments) within [Soul Wars](https://runescape.wiki/w/Soul_Wars) and offer them all at once to the [Soul Obelisk](https://runescape.wiki/w/Soul_obelisk_(Soul_Wars)), and for those who just want to have fun."
+         },
+         {  
+            "name":"​Who:",
+           "value":"<@113770763261181961>, <@154378413375881216>, their [Achievement Help](https://www.discord.gg/uUUMPbd) Discord team, and their [Alright](https://discord.gg/KwysmXr) clan."
          },
          {  
             "name":"​What is Needed:",
