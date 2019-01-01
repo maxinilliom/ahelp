@@ -930,6 +930,47 @@
          }
       ]
    },
+    "nex aod aodmom bren m": {  
+      "title":"Preparation:",
+      "description":"All are welcome!\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Nex:_Angel_of_Death/Strategies) or a video guide [here](https://www.youtube.com/watch?v=Yrh93pIPNzk).",
+      "footer":{  
+         "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
+         "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
+      },
+      "thumbnail":{  
+         "url":"https://vignette.wikia.nocookie.net/runescape2/images/2/2b/Nex_%28Angel_of_Death%29.png/revision/latest?cb=20170130192323"
+      },
+      "author":{  
+         "name":"Nex AOD Mass Community Event",
+         "icon_url":"https://i.imgur.com/6c6q2iC.png"
+      },
+      "fields":[  
+         {  
+            "name":"​Where:",
+            "value":"Nex Bank, within the [Ancient Prison](https://runescape.wiki/w/God_Wars_Dungeon#Ancient_Prison) in the [God Wars Dungeon](https://runescape.wiki/w/God_Wars_Dungeon), World 68 in <@239506926289944603>'s friends chat."
+         },
+         {  
+            "name":"​Why:",
+            "value":"To assist everyone who needs [Nex: Angel of Death](https://runescape.wiki/w/Nex:_Angel_of_Death) for:\n\n• Their [the Reaper](https://runescape.wiki/w/The_Reaper) title for the [Completionist Cape](https://runescape.wiki/w/Completionist_cape) [Reaper Crew requirement](https://runescape.wiki/w/Reaper_Crew)\n• Their [Final Boss](https://runescape.wiki/w/Final_Boss) title\n• Their [Insane Final Boss](https://runescape.wiki/w/Insane_Final_Boss) title"
+         },
+         {  
+            "name":"​​",
+            "value":"• Completing their [Library of Nex](https://runescape.wiki/w/Library_of_Nex) achievement\n(Find and read '[The Promised Gift](https://runescape.wiki/w/The_Promised_Gift)' and '[The Praesul](https://runescape.wiki/w/The_Praesul)' books from the Nex: Angel of Death encounter.)\n• Completing their [Hungry Hungry Reavers](https://runescape.wiki/w/Hungry_Hungry_Reavers) achievement\n(Defeat Nex: Angel of Death without any of the group damaging any of the [blood reavers](https://runescape.wiki/w/Blood_reaver).)\n• Completing their [Fallen Angel](https://runescape.wiki/w/Fallen_Angel) achievement\n(Obtained a collection of unique drops from Nex: Angel of Death.)\n• Completing their [Nex Pls](https://runescape.wiki/w/Nex_Pls) achievement\n(Defeat Nex, the Angel of Death 5, 10, 25, 50, 75, and 100 times, depending on the tier.)"
+         },
+         {  
+            "name":"​Who:",
+            "value":"<@239506926289944603> and Bren M."
+         },
+         {  
+            "name":"​What is Needed:",
+            "value":"• Any gear is permitted. [Tier](https://runescape.wiki/w/Equipment_tier) 80+ armor and weapon are recommended and appreciated, though not required. The better the tier, the better chance you have of surviving and the faster the kills.  Range or mage are highly encouraged.\n• A charged [Frozen key](https://runescape.wiki/w/Frozen_key)\n• Either 40 Zarosian kills or a set of [Ancient ceremonial robes](https://runescape.wiki/w/Ancient_ceremonial_robes)."
+         },
+         {  
+            "name":"​How Drops Work:",
+            "value":"Drops are dispersed via [coinshare](https://runescape.wiki/w/CoinShare) to whoever is in the friend's chat. All drops are kept by their recipients and high-value drops that have [item shards](https://runescape.wiki/w/Item_shards) will be split by the game to everyone who has coinshare enabled and is in the friend's chat. "
+         }
+      ]
+   },
     "penguins": {  
       "title":"Preparation:",
       "description":"All are welcome!\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Penguin_Hide_and_Seek).",
@@ -1154,6 +1195,39 @@
          {  
             "name":"Who:",
             "value":"<@294617234033213450>, <@113770763261181961>, their [Achievement Help](https://www.discord.gg/uUUMPbd) Discord team, and their [Alright](https://discord.gg/KwysmXr) clan."
+         },
+         {  
+            "name":"What is Needed:",
+           "value":"This is a safe [minigame](https://runescape.wiki/w/Minigames). You cannot wear or bring any items into the arena. There is a bank deposit box right by the entrance for your convenience. Items on the [tool belt](https://runescape.wiki/w/Tool_belt) do not work in the game."
+         }
+      ]
+   },
+    "stealing creation aodmom": {  
+      "title":"Preparation:",
+      "description":"All are welcome! We will be teaching how to do the event on Discord if any learners are apprehensive about coming.\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Stealing_Creation).",
+      "footer":{  
+         "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
+         "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
+      },
+      "thumbnail":{  
+         "url":"https://vignette.wikia.nocookie.net/runescape2/images/6/63/Sacred_clay_%28class_5%29_detail.png/revision/latest/scale-to-width-down/100?cb=20170715144235"
+      },
+      "author":{  
+         "name":"Stealing Creation Community Event",
+         "icon_url":"https://i.imgur.com/6c6q2iC.png"
+      },
+      "fields":[  
+         {  
+            "name":"Where:",
+            "value":"The [Stealing Creation](https://runescape.wiki/w/Stealing_Creation) lobby, World 99 in Fast Sc's friends chat.\n\nStealing Creation is located in the [Mystic's Camp](https://runescape.wiki/w/Mystic%27s_Camp), in the northern section of the [Gamers' Grotto](https://runescape.wiki/w/Gamers%27_Grotto), accessible via a cavern entrance situated north of [Falador](https://runescape.wiki/w/Falador) and south-west of [Edgeville](https://runescape.wiki/w/Edgeville). The [Games necklace](https://runescape.wiki/w/Games_necklace) has a teleport option to the grotto."
+         },
+         {  
+            "name":"Why:",
+            "value":"To assist everyone who needs to unlock the [music](https://runescape.wiki/w/Music), complete the [Claymation](https://runescape.wiki/w/Claymation) achievement (fully exhaust all gathering plots in a Stealing Creation match), and for those who just want to have fun."
+         },
+         {  
+            "name":"Who:",
+            "value":"<@239506926289944603>,<@113770763261181961>, and Fast Sc."
          },
          {  
             "name":"What is Needed:",
