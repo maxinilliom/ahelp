@@ -3528,6 +3528,34 @@ exports.data = {
 			"timestamp": "2001-01-04T12:00:00Z"
 		}
 	},
+	"everything is oresome": {
+		"cmds": ["comp"],
+		"embed": {
+			"title": "Everything Is Oresome",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Everything Is Oresome](https://runescape.wiki/w/Everything_Is_Oresome) is an achievement that requires the player to increase the capacity of the [Ore box](https://runescape.wiki/w/Ore_box) by mining 100 of each of the listed ores.\n\nThe Ore box is an item which can store up to 100 of each ore. Upon reaching a certain [Mining](https://runescape.wiki/w/Mining) level for each tier of ore box this capacity is increased to 120. After completing the Everything Is Oresome achievement the total capacity is increased by 20 to a maximum of 140 if the required levels are achieved per ore type except for silver and gold ore which remain at a capacity of 120 each.\n\nOres to mine:\n• [Copper ore](https://runescape.wiki/w/Copper_ore)\n• [Tin ore](https://runescape.wiki/w/Tin_ore)\n• [Iron ore](https://runescape.wiki/w/Iron_ore)\n• [Coal](https://runescape.wiki/w/Coal)\n• [Mithril ore](https://runescape.wiki/w/Mithril_ore)\n• [Adamantite ore](https://runescape.wiki/w/Adamantite_ore)\n• [Luminite ore](https://runescape.wiki/w/Luminite)\n• [Runite ore](https://runescape.wiki/w/Runite_ore)\n• [Orichalcite ore](https://runescape.wiki/w/Orichalcite_ore)\n• [Drakolith ore](https://runescape.wiki/w/Drakolith)\n• [Necrite ore](https://runescape.wiki/w/Necrite_ore)\n• [Phasmatite ore](https://runescape.wiki/w/Phasmatite)\n• [Banite ore](https://runescape.wiki/w/Banite_ore)\n• [Light animica ore](https://runescape.wiki/w/Light_animica)\n• [Dark animica ore](https://runescape.wiki/w/Dark_animica)",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Qc5hKgH.png"
+			},
+			"fields": [{
+					"name": "Requirements:",
+					"value": "• 90 Mining"
+				},
+				{
+					"name": "Guide:",
+					"value": "• [Mining Sites Guide | Suity - Runescape Wiki](https://runescape.wiki/w/User:Suity/MSRework#Mining_Sites)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+				"text": "Runescore awarded: 20"
+			},
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
+	},
 	"experience the fate of the gods": {
 		"cmds": ["mqc"],
 		"embed": {
@@ -4514,6 +4542,34 @@ exports.data = {
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
 				"text": "Runescore awarded: 30"
+			},
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
+	},
+	"it should have been called aetherium": {
+		"cmds": ["comp"],
+		"embed": {
+			"title": "It Should Have Been Called Aetherium",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/dd1sWAa.png"
+			},
+			"description": "[It Should Have Been Called Aetherium](https://runescape.wiki/w/It_Should_Have_Been_Called_Aetherium) is an achievement that requires the player to unlock the ability to [smith](https://runescape.wiki/w/Smithing) [Masterwork armour](https://runescape.wiki/w/Masterwork_armour) by making and upgrading to + 5 a full set of [Elder rune armour](https://runescape.wiki/w/Elder_rune_equipment).\n\nBefore any piece of masterwork armour can be created, the player must unlock the ability to make that piece. Doing so simply requires the player to make an Elder Rune+5 version for that slot, but they must do it from scratch.\n\nArmour pieces:\n• [Elder rune full helm + 5](https://runescape.wiki/w/Elder_rune_full_helm_%2B_5)\n• [Elder rune platebody + 5](https://runescape.wiki/w/Elder_rune_platebody_%2B_5)\n• [Elder rune platelegs + 5](https://runescape.wiki/w/Elder_rune_platelegs_%2B_5)\n• [Elder rune gauntlets + 5](https://runescape.wiki/w/Elder_rune_gauntlets_%2B_5)\n• [Elder rune armoured boots + 5](https://runescape.wiki/w/Elder_rune_armoured_boots_%2B_5)",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Qc5hKgH.png"
+			},
+			"fields": [{
+					"name": "Requirements:",
+					"value": "• 90 Smithing"
+				},
+				{
+					"name": "Guide:",
+					"value": "• [Unlocking Masterwork Armour Guide | Suity - Runescape Wiki](https://runescape.wiki/w/User:Suity/MSRework#Unlocking_Masterwork_Armour)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+				"text": "Runescore awarded: 15"
 			},
 			"timestamp": "2001-01-04T12:00:00Z"
 		}
@@ -9458,26 +9514,22 @@ exports.data = {
 	"work on your artisan": {
 		"cmds": ["trim"],
 		"embed": {
-			"title": "Work On Your Artisan",
+			"title": "Work on Your Artisan",
 			"author": {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Work On Your Artisan](https://runescape.wiki/w/Work_On_Your_Artisan) is an achievement that requires the player to unlock all of the permanent [Rewards](https://runescape.wiki/w/Artisans_Workshop#Rewards) from the [Artisans Workshop](https://runescape.wiki/w/Artisans_Workshop).\n\nArtisans' Workshop is a Smithing workshop founded by [Aksel](https://runescape.wiki/w/Aksel), located in the south-east corner of [Falador](https://runescape.wiki/w/Falador).\n\nThese needed reward purchases include:\n• Quick Repairs\n• Repair Expert\n• Quick Learners\n• Budding Student\n• Master Student\n• Golden Cannon\n• Royale Cannon\n• Ceremonial Sword I\n• Ceremonial Sword II\n• Ceremonial Sword III\n• Ceremonial Sword IV\n• Ceremonial Sword V\n• Restocking Cannon\n• Ceremonial Sword Orders\n\nThe total cost of all unlocks is 590% [Respect](https://runescape.wiki/w/Respect_(Artisans_Workshop). You may only have 100% respect at a time, so you will need to spend time before accruing more. You do **NOT** need to purchase the Sword Polishing Kit or Bonus Package unlocks. \n\nIt is recommended players complete this solely by doing [Rune ceremonial swords](https://runescape.wiki/w/Rune_ceremonial_sword) for an extended [Daily smithing challenges](https://runescape.wiki/w/Challenge_System/Smithing) as this breaks up the grind and makes use of a costless method. ",
+			"description": "[Work on Your Artisan](https://runescape.wiki/w/Work_on_Your_Artisan) is an achievement that requires the player to unlock all rewards from the [Artisans' Workshop](https://runescape.wiki/w/Artisans%27_Workshop) (excluding outfits).\n\nArtisans' Workshop is a Smithing workshop founded by [Aksel](https://runescape.wiki/w/Aksel), located in the south-east corner of [Falador](https://runescape.wiki/w/Falador). With the Mining and Smithing rework released on 7 January 2019 the Artisans Workshop and its activities are reinvented as a proper 'Smithing Guild'. The Smithing Guild will become the default location for players to smith together socially.\n\nThe total cost of all unlocks is 770% [Respect](https://runescape.wiki/w/User:Suity/MSRework#Rewards). You may only have 100% respect at a time, so you will need to spend time before accruing more.",
 			"thumbnail": {
-				"url": "https://i.imgur.com/Shmagnp.png"
+				"url": "https://i.imgur.com/dd1sWAa.png"
 			},
 			"fields": [{
 					"name": "Requirements:",
-					"value": "• 590% respect"
+					"value": "None"
 				},
 				{
-					"name": "Guide/Method 1:",
-					"value": "• [Ceremonial Swords Guide 2017 | puretppc - YouTube](https://www.youtube.com/watch?v=2m1e7wftBE0)"
-				},
-				{
-					"name": "Guide/Method 2:",
-					"value": "• [Road to Trimmed Completionist #6 - Artisan's Workshop | Runescape's SCRUB NATION - YouTube](https://www.youtube.com/watch?v=Qr6B32P3-SM)"
+					"name": "Guide:",
+					"value": "• [Artisans' Workshop Guide | Suity - Runescape Wiki](https://runescape.wiki/w/User:Suity/MSRework#Artisans_Workshop)"
 				}
 			],
 			"footer": {
