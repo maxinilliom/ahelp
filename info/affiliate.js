@@ -95,6 +95,31 @@ exports.data = {
       }
       ]
   },
+  "RS3 Mobile Hangout": {
+    "title": "RS3 Mobile Hangout",
+    "description":"A community-based server for RS3 Mobile assistance.",
+    "thumbnail": {
+      "url": "https://cdn.discordapp.com/icons/508745934134312997/c6ad61d443aa766ee578878f8d334638.webp"
+    },
+    "footer": {
+      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "text": "Achievement Help | Connecting our Helpful Communities!"
+    },
+    "author": {
+      "name": "Social Affiliate Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+          "fields": [
+      {
+        "name": "Invite Link:",
+        "value": "https://discord.gg/pyMYh3X"
+      },
+      {
+        "name": "Contact:",
+        "value": "<@217819569354571776>, <@239506926289944603>, <@244470589144694785>, <@212806035608436736>, or <@97928972305707008>"
+      }
+      ]
+  },
   "RuneHub": {
     "title": "RuneHub",
     "description":"A fun and inviting Runescape Server dedicated to helping support Runescape players of all interests of the game whether it be social, PvM, PvP, skilling or just bank-standing, we encourage all players to join us and make new friends through many events and fun activities! We strive to promote Runescape and introduce other gamers into the game. RuneHub accepts all gamers regardless of whether they play Runescape or not. What do we have to offer?\n\n ❥ Channels dedicated for Reaper tasks, events, skillers, Dungeoneering etc.\n  ❥ Warm and inviting community\n  ❥ Fun commands!\n  ❥ A levelling system based off the Runescape bosses\n  ❥ An active and open server\n  ❥ Event nights, giveaways and much more!",
@@ -373,7 +398,7 @@ exports.data = {
   },
   "Skilling": {
     "title": "Skilling",
-    "description":"For those interested in experience rates, helpful tips for post 99 skilling, and 5.4b/True Trim.",
+    "description":"For those interested in experience rates, guides and helpful tips for post 99 skilling/5.4b.",
     "thumbnail": {
       "url": "https://cdn.discordapp.com/icons/336818736810164235/dec82781bdf8efeda580b9451f75bfc8.webp"
     },
@@ -387,12 +412,16 @@ exports.data = {
     },
           "fields": [
       {
+        "name": "RSOF Thread:",
+        "value": "[\"Skilling\" Discord:Tips/Tricks](http://services.runescape.com/m=forum/forums.ws?98,99,257,66006079)"
+      },
+      {
         "name": "Invite Link:",
         "value": "https://discord.gg/EFrxgks"
       },
       {
         "name": "Contact:",
-        "value": "<@196833719049256960>"
+        "value": "<@196833719049256960> or <@533512763419525120>"
       }
       ]
   },
