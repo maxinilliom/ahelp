@@ -367,6 +367,39 @@ exports.data = {
       }
       ]
   },
+  "Harmed Ore": {
+    "title": "Harmed Ore",
+    "description":"The friends chat based mining community that scouts and calls the best worlds for the T90 Light and Dark Animica ores during Trahaearn VoS.\n\nWhen the Trahaearn Voice of Seren is active, Light and Dark Animica ores have a chance to \"harmonise\" and replace any Rune, Adamant, Mithril, or Coal rocks.\n\nWe scout and call worlds with the best layout for rockertunities, a new mechanic added with the Mining and Smithing rework. Join us for the most convenient and best source of new T90 ores!",
+    "thumbnail": {
+      "url": "https://cdn.discordapp.com/icons/305765557058273280/5e592e4a0584eb2ffe1201d3e062d684.webp"
+    },
+    "footer": {
+      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "text": "Achievement Help | Connecting our Helpful Communities!"
+    },
+    "author": {
+      "name": "Skilling Affiliate Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+          "fields": [
+      {
+        "name": "Friend's Chat:",
+        "value": "• Harmed Ore\n• Harmed Ore1\n• Harmed Ore2\n• Harmed Ore3"
+      },
+      {
+        "name": "RSOF Thread:",
+        "value": "[Harmed Ore FC (v4)](http://services.runescape.com/m=forum/forums.ws?75,76,457,66056246)"
+      },
+      {
+        "name": "Invite Link:",
+        "value": "https://discord.gg/kgCCpsp"
+      },
+      {
+        "name": "Contact:",
+        "value": "<@252602384126050305>"
+      }
+      ]
+  },
   "Player Owned Farms": {
     "title": "Player Owned Farms",
     "description":"The Player Owned Farms server and FC are meant to serve as a hub for Player Owned Farms.  Here, you can discuss prices for animals, trade animals to other players, and discuss tips/tricks on the farm with fellow players. Check it out or join the FC in-game **PoF Trade FC**!",
@@ -393,6 +426,31 @@ exports.data = {
       {
         "name": "Contact:",
         "value": "<@377325128188690432> <@274224380245049344> and <@287703227737047051>"
+      }
+      ]
+  },
+  "Price Check & Trade": {
+    "title": "Price Check & Trade",
+    "description":"Price Check & Trade RS3 is a friendly, community based discord for all buying, selling, price checks and marketplace information for most wanted items.\n\n• Buying/Selling items and services\n• Monthly Raffles\n• Merching advice\n• Price Checking",
+    "thumbnail": {
+      "url": "https://cdn.discordapp.com/icons/531112549924601856/258eeada27f87d879370583c17b19dfd.webp"
+    },
+    "footer": {
+      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "text": "Achievement Help | Connecting our Helpful Communities!"
+    },
+    "author": {
+      "name": "Skilling Affiliate Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+          "fields": [
+      {
+        "name": "Invite Link:",
+        "value": "https://discord.gg/T4ZpEjQ"
+      },
+      {
+        "name": "Contact:",
+        "value": "<@349581235951108098>"
       }
       ]
   },
