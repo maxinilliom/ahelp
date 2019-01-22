@@ -120,6 +120,31 @@ exports.data = {
       }
       ]
   },
+  "RS3IronScape": {
+    "title": "RS3IronScape",
+    "description":"Rs3 IronScape is a community discord server for all Runescape 3 Ironmen. An all-in-one hub for guides, tips and tricks, advice, community events, and much more.",
+    "thumbnail": {
+      "url": "https://cdn.discordapp.com/icons/513336502542139397/42c26737a81dacc89ea7e4769010a8e6.webp"
+    },
+    "footer": {
+      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "text": "Achievement Help | Connecting our Helpful Communities!"
+    },
+    "author": {
+      "name": "Social Affiliate Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+          "fields": [
+      {
+        "name": "Invite Link:",
+        "value": "https://discord.gg/UaNkE62"
+      },
+      {
+        "name": "Contact:",
+        "value": "<@261203659700830208>"
+      }
+      ]
+  },
   "RuneHub": {
     "title": "RuneHub",
     "description":"A fun and inviting Runescape Server dedicated to helping support Runescape players of all interests of the game whether it be social, PvM, PvP, skilling or just bank-standing, we encourage all players to join us and make new friends through many events and fun activities! We strive to promote Runescape and introduce other gamers into the game. RuneHub accepts all gamers regardless of whether they play Runescape or not. What do we have to offer?\n\n ❥ Channels dedicated for Reaper tasks, events, skillers, Dungeoneering etc.\n  ❥ Warm and inviting community\n  ❥ Fun commands!\n  ❥ A levelling system based off the Runescape bosses\n  ❥ An active and open server\n  ❥ Event nights, giveaways and much more!",
@@ -431,7 +456,7 @@ exports.data = {
   },
   "Price Check & Trade": {
     "title": "Price Check & Trade",
-    "description":"Price Check & Trade RS3 is a friendly, community based discord for all buying, selling, price checks and marketplace information for most wanted items.\n\n• Buying/Selling items and services\n• Monthly Raffles\n• Merching advice\n• Price Checking",
+    "description":"Price Check & Trade RS3 is a friendly, community-based discord for all buying, selling, price checks, and marketplace information for most wanted items.\n\n• Custom Suitbot with dedicated Staff team\n• Buying/Selling items and services\n• Monthly Raffles\n• Merching advice\n• Price Checking",
     "thumbnail": {
       "url": "https://cdn.discordapp.com/icons/531112549924601856/258eeada27f87d879370583c17b19dfd.webp"
     },
@@ -959,6 +984,31 @@ exports.data = {
       }
       ]
   },
+  "PvM Encyclopedia": {
+    "title": "PvM Encyclopedia",
+    "description":"A collection of high level guides compiled by high level players, including current record holders. Includes guides for every boss, and has breakdowns by skill level all the way up to extremely experienced.",
+    "thumbnail": {
+      "url": "https://cdn.discordapp.com/icons/534508796639182860/04dcd0924560eb34a6b1ebc0367e2403.webp"
+    },
+    "footer": {
+      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "text": "Achievement Help | Connecting our Helpful Communities!"
+    },
+    "author": {
+      "name": "Combat Affiliate Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+          "fields": [
+      {
+        "name": "Invite Link:",
+        "value": "https://discord.gg/6djqFVN"
+      },
+      {
+        "name": "Contact:",
+        "value": "<@277989267656146944>"
+      }
+    ]     
+  },
   "PvMing FC": {
     "title": "PvMing FC",
     "description":"PvMing FC is a team finding FC for players to find others to PvM with in a non toxic atmosphere. We allow learners and have no kill count requirements. We have teachers to help learners get better at the bosses. We’re the largest PvM FC in-game with no sign up to join.",
@@ -1201,35 +1251,6 @@ exports.data = {
       {
         "name": "Contact:",
         "value": "<@149903940375281664>"
-      }
-      ]
-  },
-    "Solak247": {
-    "title": "Solak247",
-    "description":"FC: Solak247. Solak247 - Hub for all Solakers (7 man teams). 3 Categories with their own dedicated channels. Hench to everyday pvmers will have discord & FC access. Chill & learners will be discord based. With the latest news/guides/videos/meta and will cater for pvmers of all levels.",
-    "thumbnail": {
-      "url": "https://cdn.discordapp.com/icons/362032686702919692/b0715d99eb78acffe14c4930a8aa2a8b.webp"
-    },
-    "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
-      "text": "Achievement Help | Connecting our Helpful Communities!"
-    },
-    "author": {
-      "name": "Combat Affiliate Info",
-      "icon_url": "https://i.imgur.com/6c6q2iC.png"
-    },
-          "fields": [
-      {
-        "name": "Friend's Chat:",
-        "value": "Solak247"
-      },
-      {
-        "name": "Invite Link:",
-        "value": "https://discord.gg/sxGMkny"
-      },
-      {
-        "name": "Contact:",
-        "value": "<@175447328272941061>"
       }
       ]
   },
