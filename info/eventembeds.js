@@ -1,4 +1,37 @@
 ﻿exports.data = {
+    "cabbage facepunch solve": {  
+      "title":"Preparation:",
+      "description":"All are welcome! We will be teaching how to do the event on Discord if any learners are apprehensive about coming.\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Cabbage_Facepunch_Bonanza).",
+      "footer":{  
+         "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
+         "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
+      },
+      "thumbnail":{  
+         "url":"https://runescape.wiki/images/8/82/Cabbage_Facepunch_Bonanza_icon.png?60c37"
+      },
+      "author":{  
+         "name":"Cabbage Facepunch Bonanza Community Event",
+         "icon_url":"https://i.imgur.com/6c6q2iC.png"
+      },
+      "fields":[  
+         {  
+            "name":"​Where:",
+            "value":"[Gamers' Grotto](https://runescape.wiki/w/Gamers%27_Grotto) just north of [Falador](https://runescape.wiki/w/Falador), World 68 in <@113770763261181961>'s friends chat."
+         },
+         {  
+            "name":"​Why:",
+            "value":"For those who want to have fun!"
+         },
+         {  
+            "name":"​Who:",
+           "value":"<@113770763261181961>, <@154378413375881216>, their [Achievement Help](https://www.discord.gg/uUUMPbd) Discord team, and their [Alright](https://discord.gg/KwysmXr) clan."
+         },
+         {  
+            "name":"​What is Needed:",
+           "value":"This is a safe [minigame](https://runescape.wiki/w/Minigames)."
+         }
+      ]
+   },
     "capping": {  
       "title":"Preparation:",
       "description":"Guests are welcome, but only clan members will be able to use the [Skill plots](https://runescape.wiki/w/Clan_Citadel#Skill_plots).",
@@ -437,6 +470,39 @@
          }
       ]
    },
+    "flash powder solve": {  
+      "title":"Preparation:",
+      "description":"All are welcome! We will be teaching how to do the event on Discord if any learners are apprehensive about coming.\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Flash_Powder_Factory).",
+      "footer":{  
+         "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
+         "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
+      },
+      "thumbnail":{  
+         "url":"https://runescape.wiki/images/c/c4/Mg_roguesden.jpg?e8975"
+      },
+      "author":{  
+         "name":"Flash Powder Community Event",
+         "icon_url":"https://i.imgur.com/6c6q2iC.png"
+      },
+      "fields":[  
+         {  
+            "name":"​Where:",
+            "value":"The [Flash Powder Factory](https://runescape.wiki/w/Flash_Powder_Factory), inside the [Rogues' Den](https://runescape.wiki/w/Rogues%27_Den), which is below [The Pick and Lute](https://runescape.wiki/w/The_Pick_and_Lute) bar in [Taverley](https://runescape.wiki/w/Taverley), World 68 in <@113770763261181961>'s friends chat."
+         },
+         {  
+            "name":"​Why:",
+            "value":"For those who want to have fun!"
+         },
+         {  
+            "name":"​Who:",
+           "value":"<@113770763261181961>, <@154378413375881216>, their [Achievement Help](https://www.discord.gg/uUUMPbd) Discord team, and their [Alright](https://discord.gg/KwysmXr) clan."
+         },
+         {  
+            "name":"​What is Needed:",
+           "value":"This is a safe [minigame](https://runescape.wiki/w/Minigames).  Level 75 [Thieving](https://runescape.wiki/w/Thieving), 75 [Agility](https://runescape.wiki/w/Agility), and 50 [Herblore](https://runescape.wiki/w/Herblore) are required to access the game."
+         }
+      ]
+   },
     "general graardor": {  
       "title":"Preparation:",
       "description":"All are welcome! We will be teaching how to do the boss on Discord if any learners are apprehensive about coming.\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/General_Graardor/Strategies) or a video guide [here](https://www.youtube.com/watch?v=CDur0jqFF_8).",
@@ -729,6 +795,43 @@
          }
       ]
    },
+      "kalphite king aodmom": {  
+      "title":"Preparation:",
+      "description":"All are welcome! \n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Kalphite_King/Strategies) or a video guide [here](https://www.youtube.com/watch?v=vgAEnOtkUG4).",
+      "footer":{  
+         "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
+         "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
+      },
+      "thumbnail":{  
+         "url":"https://runescape.wiki/images/9/92/Kalphite_King_%28Magic%29.png?51e9f"
+      },
+      "author":{  
+         "name":"Kalphite King Community Event",
+         "icon_url":"https://i.imgur.com/6c6q2iC.png"
+      },
+      "fields":[  
+         {  
+            "name":"​Where:",
+            "value":"The [Exiled Kalphite Hive](https://runescape.wiki/w/Exiled_Kalphite_Hive) in the [Kharidian Desert](https://runescape.wiki/w/Kharidian_Desert), World 68 in <@239506926289944603>'s friends chat."
+         },
+         {  
+            "name":"​Why:",
+            "value":"To assist everyone who needs [Kalphite King](https://runescape.wiki/w/Kalphite_King) for:\n\n• Their [the Reaper](https://runescape.wiki/w/The_Reaper) title for the [Completionist Cape](https://runescape.wiki/w/Completionist_cape) [Reaper Crew requirement](https://runescape.wiki/w/Reaper_Crew)\n• Their [Final Boss](https://runescape.wiki/w/Final_Boss) title\n• Their [Insane Final Boss](https://runescape.wiki/w/Insane_Final_Boss) title\n• Completing the [Best Offence](https://runescape.wiki/w/Best_Offence) achievement\n(Defeat the Kalphite King after triggering his Immortality and then defeat him again.)\n• Completing the [Exiled](https://runescape.wiki/w/Exiled_%28achievement%29) achievement\n(Obtain a collection of unique drops from Kalphite King.)\n• Completing their [Bug Zapper](https://runescape.wiki/w/Bug_Zapper) achievement\n(Defeat General Graardor 5, 10, 25, 50, 75, and 100 times, depending on the tier.)\n• A chance at obtaining the [Kalphite defender](https://runescape.wiki/w/Kalphite_defender)"
+         },
+         {  
+            "name":"​Who:",
+            "value":"<@239506926289944603>, broomee9, the [Achievement Help](https://www.discord.gg/uUUMPbd) Discord team, and the [Alright](https://discord.gg/KwysmXr) clan."
+         },
+         {  
+            "name":"​What is Needed:",
+            "value":"Any gear is permitted. [Tier](https://runescape.wiki/w/Equipment_tier) 70+ armor and weapon are recommended and appreciated, though not required. The better the tier, the better chance you have of surviving and the faster the kills."
+         },
+         {  
+            "name":"​How Drops Work:",
+            "value":"Drops are dispersed via [lootshare](https://runescape.wiki/w/LootShare) to whoever is in the friend's chat. All drops are kept by their recipients."
+         }
+      ]
+   },
     "mega duck": {  
       "title":"Preparation:",
       "description":"All are welcome! We will be teaching how to do the event on Discord if any learners are apprehensive about coming.\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Mega_Duck).",
@@ -960,6 +1063,47 @@
          {  
             "name":"​Who:",
             "value":"<@239506926289944603> and Bren M."
+         },
+         {  
+            "name":"​What is Needed:",
+            "value":"• Any gear is permitted. [Tier](https://runescape.wiki/w/Equipment_tier) 80+ armor and weapon are recommended and appreciated, though not required. The better the tier, the better chance you have of surviving and the faster the kills.  Range or mage are highly encouraged.\n• A charged [Frozen key](https://runescape.wiki/w/Frozen_key)\n• Either 40 Zarosian kills or a set of [Ancient ceremonial robes](https://runescape.wiki/w/Ancient_ceremonial_robes)."
+         },
+         {  
+            "name":"​How Drops Work:",
+            "value":"Drops are dispersed via [coinshare](https://runescape.wiki/w/CoinShare) to whoever is in the friend's chat. All drops are kept by their recipients and high-value drops that have [item shards](https://runescape.wiki/w/Item_shards) will be split by the game to everyone who has coinshare enabled and is in the friend's chat. "
+         }
+      ]
+   },
+   "nex aod aodmom lspvm247": {  
+      "title":"Preparation:",
+      "description":"All are welcome! \n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Nex:_Angel_of_Death/Strategies) or a video guide [here](https://www.youtube.com/watch?v=Yrh93pIPNzk).",
+      "footer":{  
+         "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
+         "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
+      },
+      "thumbnail":{  
+         "url":"https://vignette.wikia.nocookie.net/runescape2/images/2/2b/Nex_%28Angel_of_Death%29.png/revision/latest?cb=20170130192323"
+      },
+      "author":{  
+         "name":"Nex AOD Mass Community Event",
+         "icon_url":"https://i.imgur.com/6c6q2iC.png"
+      },
+      "fields":[  
+         {  
+            "name":"​Where:",
+            "value":"Nex Bank, within the [Ancient Prison](https://runescape.wiki/w/God_Wars_Dungeon#Ancient_Prison) in the [God Wars Dungeon](https://runescape.wiki/w/God_Wars_Dungeon), World 68 in Lspvm247's friends chat."
+         },
+         {  
+            "name":"​Why:",
+            "value":"To assist everyone who needs [Nex: Angel of Death](https://runescape.wiki/w/Nex:_Angel_of_Death) for:\n\n• Their [the Reaper](https://runescape.wiki/w/The_Reaper) title for the [Completionist Cape](https://runescape.wiki/w/Completionist_cape) [Reaper Crew requirement](https://runescape.wiki/w/Reaper_Crew)\n• Their [Final Boss](https://runescape.wiki/w/Final_Boss) title\n• Their [Insane Final Boss](https://runescape.wiki/w/Insane_Final_Boss) title"
+         },
+         {  
+            "name":"​​",
+            "value":"• Completing their [Library of Nex](https://runescape.wiki/w/Library_of_Nex) achievement\n(Find and read '[The Promised Gift](https://runescape.wiki/w/The_Promised_Gift)' and '[The Praesul](https://runescape.wiki/w/The_Praesul)' books from the Nex: Angel of Death encounter.)\n• Completing their [Hungry Hungry Reavers](https://runescape.wiki/w/Hungry_Hungry_Reavers) achievement\n(Defeat Nex: Angel of Death without any of the group damaging any of the [blood reavers](https://runescape.wiki/w/Blood_reaver).)\n• Completing their [Fallen Angel](https://runescape.wiki/w/Fallen_Angel) achievement\n(Obtained a collection of unique drops from Nex: Angel of Death.)\n• Completing their [Nex Pls](https://runescape.wiki/w/Nex_Pls) achievement\n(Defeat Nex, the Angel of Death 5, 10, 25, 50, 75, and 100 times, depending on the tier.)"
+         },
+         {  
+            "name":"​Who:",
+            "value":"<@294617234033213450>, <@113770763261181961>, & Lspvm247."
          },
          {  
             "name":"​What is Needed:",
@@ -1298,6 +1442,39 @@
          {  
             "name":"​Who:",
             "value":"<@294617234033213450>, <@113770763261181961>, their [Achievement Help](https://www.discord.gg/uUUMPbd) Discord team, and their [Alright](https://discord.gg/KwysmXr) clan."
+         },
+         {  
+            "name":"​What is Needed:",
+            "value":"• You must have completed the [Cabin Fever](https://runescape.wiki/w/Cabin_Fever) quest and have at least 40 [Cooking](https://runescape.wiki/w/Cooking) in order to participate in the [minigame](https://runescape.wiki/w/Minigames).\n• [Boots of Lightness](https://runescape.wiki/w/Boots_of_lightness), a [Monkeyspeak Amulet](https://runescape.wiki/w/Monkeyspeak_amulet), and a good [hatchet](https://runescape.wiki/w/Hatchet) are also recommended."
+         }
+      ]
+   },
+    "trouble brewing solve": {  
+      "title":"Preparation:",
+      "description":"All are welcome! We will be teaching how to do the event on Discord if any learners are apprehensive about coming.\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Trouble_Brewing).",
+      "footer":{  
+         "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
+         "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
+      },
+      "thumbnail":{  
+         "url":"https://vignette.wikia.nocookie.net/runescape2/images/4/40/Trouble_Brewing_red_base.png/revision/latest?cb=20151206092803"
+      },
+      "author":{  
+         "name":"Trouble Brewing Community Event",
+         "icon_url":"https://i.imgur.com/6c6q2iC.png"
+      },
+      "fields":[  
+         {  
+            "name":"​Where:",
+            "value":"The eastern side of [Mos Le'Harmless](https://runescape.wiki/w/Mos_Le%27Harmless), World 68 in <@113770763261181961>'s friends chat."
+         },
+         {  
+            "name":"​Why:",
+            "value":"To assist everyone who needs to unlock the [music](https://runescape.wiki/w/Music), or for those who just want to have fun."
+         },
+         {  
+            "name":"​Who:",
+            "value":"<@113770763261181961>, <@154378413375881216>, their [Achievement Help](https://www.discord.gg/uUUMPbd) Discord team, and their [Alright](https://discord.gg/KwysmXr) clan."
          },
          {  
             "name":"​What is Needed:",
