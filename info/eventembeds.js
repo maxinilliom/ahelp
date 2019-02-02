@@ -622,6 +622,43 @@
          }
       ]
    },
+   "group achievements minigame": {  
+      "title":"Preparation:",
+      "description":"All are welcome! \n\nYou may prepare for the event by viewing the written guides linked below.",
+      "footer":{  
+         "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
+         "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
+      },
+      "thumbnail":{  
+         "url":"https://runescape.wiki/images/7/77/RuneScore.png?9f9cd"
+      },
+      "author":{  
+         "name":"Minigame Group Achievements Community Event",
+         "icon_url":"https://i.imgur.com/6c6q2iC.png"
+      },
+      "fields":[  
+         {  
+            "name":"​Where:",
+            "value":"World 68 in <@113770763261181961>'s friends chat."
+         },
+         {  
+            "name":"​Why:",
+            "value":"To assist everyone who needs help with group achievements."
+         },
+         {  
+            "name":"​Who:",
+            "value":"<@294617234033213450>, <@113770763261181961>, their [Achievement Help](https://www.discord.gg/uUUMPbd) Discord team, and their [Alright](https://discord.gg/KwysmXr) clan."
+         },
+         {  
+            "name":"​Minigame Achievements:",
+            "value":"• [Altar Explorer](https://runescape.wiki/w/Altar_Explorer)\n(Play a round of Great Orb Project on each different altar map.)\n\n• [A-Voiding Conflict](https://runescape.wiki/w/A-Voiding_Conflict)\n(Win a Pest Control game after repairing all barricades to full.)\n\n• [Magister Smagister](https://runescape.wiki/w/Magister_Smagister)\n(Obtain 100 soul fragments within Soul Wars and offer them all at once to the Soul Obelisk.)\n\n• [No Time to Lose](https://runescape.wiki/w/No_Time_to_Lose)\n(Use a ring of duelling to teleport to Castle Wars.)\n\n• [What Year Is It?](https://runescape.wiki/w/What_Year_Is_It%3F)\n(Ice Barrage 99 times in Castle Wars.)\n\n• [Artillery Strike](https://runescape.wiki/w/Artillery_Strike)\n(Use a catapult in a Castle Wars game after gaining the knowledge from the Catapult Construction quest.)\n\n• [You're the Dirty Rascal](https://runescape.wiki/w/You%27re_the_Dirty_Rascal)\nBe on the winning side in a game of Castle Wars."
+         },
+         {  
+            "name":"​",
+            "value":"• [Claymation](https://runescape.wiki/w/Claymation)\n(Fully exhaust all gathering plots in a Stealing Creation match.)"
+         }
+      ]
+   },
     "heist": {  
       "title":"Preparation:",
       "description":"All are welcome! We will be teaching how to do the event on Discord if any learners are apprehensive about coming.\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Heist).",
