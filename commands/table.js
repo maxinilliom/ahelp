@@ -1,7 +1,7 @@
 exports.run = async (client, message, args, level) => {
 
   const table = require("markdown-table");
-  const data = args.join(" ").split("\n").map(r => r.trim.split(","));
+  const data = args.join(" ").split("\n").map(r => r.split(","));
   if (!args[0]) return message.channel.send("ERROR");
 
   message.channel.send(table(data), {code: true});
