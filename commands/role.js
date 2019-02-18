@@ -67,16 +67,17 @@ exports.run = async (client, message, args, level) => {
   const range = roles[role];
   const roleIDs = [];
   const roleNames = [];
-  let roleWarn;
+  let roleWarn = "";
 
                  // apply, range
   const getRoles = (app, rng) => {
     app.forEach(a => {
-      rng.forEach(r => {
+      Object.getOwnPropertyNames(rng).forEach(r => {
         if (rng[r].includes(a)) {
           roleIDs.push(r);
           roleNames.push(guild.roles.get(r).name);
         }
+        // add check for user having roles already
         else {
           roleWarn += `ERROR: **${a}** is not a valid role.\n`;
         }
@@ -90,14 +91,14 @@ exports.run = async (client, message, args, level) => {
       getRoles(apply, range);
       send(roleWarn);
       member.addRoles(roleIDs, `${message.member.user.tag} used the role command.`);
-      log.send(`${message.member.id}: **${message.member.user.tag}** gave the following roles to ${member}: ${roleNames.join(", ")}`);
+      log.send(`${message.member.id}: **${message.member.user.tag}** gave the following roles to ${member}: **${roleNames.join("**, **")}**`);
     }
     else if (num == 1) {
       // addRole
       getRoles(apply, range);
       send(roleWarn);
       member.addRole(roleIDs[0], `${message.member.user.tag} used the role command.`);
-      log.send(`${message.member.id}: **${message.member.user.tag}** gave the following role to ${member}: ${apply}`);
+      log.send(`${message.member.id}: **${message.member.user.tag}** gave the following role to ${member}: **${apply}**`);
     }
   }
 
@@ -107,14 +108,14 @@ exports.run = async (client, message, args, level) => {
       getRoles(apply, range);
       send(roleWarn);
       member.removeRoles(roleIDs, `${message.member.user.tag} used the role command.`);
-      log.send(`${message.member.id}: **${message.member.user.tag}** removed the following roles from ${member}: ${roleNames.join(", ")}`);
+      log.send(`${message.member.id}: **${message.member.user.tag}** removed the following roles from ${member}: **${roleNames.join("**, **")}**`);
     }
     else if (num == 1) {
       // removeRole
       getRoles(apply, range);
       send(roleWarn);
       member.removeRole(roleIDs[0], `${message.member.user.tag} used the role command.`);
-      log.send(`${message.member.id}: **${message.member.user.tag}** removed the following role from ${member}: ${apply}`);
+      log.send(`${message.member.id}: **${message.member.user.tag}** removed the following role from ${member}: **${apply}**`);
     }
   }
 
