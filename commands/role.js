@@ -55,7 +55,7 @@ exports.run = async (client, message, args, level) => {
   const send = msg => message.channel.send(msg);
   const guild = client.guilds.get("382696689812766720");
   const log = guild.channels.get("547042848609140737");
-  const member = message.mentions.users.first();
+  const member = message.mentions.members.first();
   if (!args[0]) return send("Please specify a user to update roles for.");
   if (!/<@!?\d{17,18}>/g.test(args[0]) || !member) return send("Please mention a valid user to update roles for.");
   const data = message.content.split(", ").map(d => d.trim());
@@ -66,6 +66,7 @@ exports.run = async (client, message, args, level) => {
   const num = apply.length;
   const range = roles[role];
   const roleIDs = [];
+  const roleNames = [];
   let roleWarn;
 
                  // apply, range
@@ -74,6 +75,7 @@ exports.run = async (client, message, args, level) => {
       rng.forEach(r => {
         if (rng[r].includes(a)) {
           roleIDs.push(r);
+          roleNames.push(guild.roles.get(r).name);
         }
         else {
           roleWarn += `ERROR: **${a}** is not a valid role.\n`;
@@ -86,14 +88,16 @@ exports.run = async (client, message, args, level) => {
     if (num > 1) {
       // addRoles
       getRoles(apply, range);
-      member.addRoles(roleIDs, "Using role command.");
-      log.send(`${message.member} gave the following roles to ${member}: ${apply.split(", ")}`);
+      send(roleWarn);
+      member.addRoles(roleIDs, `${message.member.user.tag} used the role command.`);
+      log.send(`${message.member.id}: **${message.member.user.tag}** gave the following roles to ${member}: ${roleNames.join(", ")}`);
     }
     else if (num == 1) {
       // addRole
       getRoles(apply, range);
-      member.addRole(roleIDs[0], "Using role command.");
-      log.send(`${message.member} gave the following role to ${member}: ${apply}`);
+      send(roleWarn);
+      member.addRole(roleIDs[0], `${message.member.user.tag} used the role command.`);
+      log.send(`${message.member.id}: **${message.member.user.tag}** gave the following role to ${member}: ${apply}`);
     }
   }
 
@@ -101,14 +105,16 @@ exports.run = async (client, message, args, level) => {
     if (num > 1) {
       // removeRoles
       getRoles(apply, range);
-      member.removeRoles(roleIDs, "Using role command.");
-      log.send(`${message.member} removed the following roles from ${member}: ${apply.split(", ")}`);
+      send(roleWarn);
+      member.removeRoles(roleIDs, `${message.member.user.tag} used the role command.`);
+      log.send(`${message.member.id}: **${message.member.user.tag}** removed the following roles from ${member}: ${roleNames.join(", ")}`);
     }
     else if (num == 1) {
       // removeRole
       getRoles(apply, range);
-      member.removeRole(roleIDs[0], "Using role command.");
-      log.send(`${message.member} removed the following role from ${member}: ${apply}`);
+      send(roleWarn);
+      member.removeRole(roleIDs[0], `${message.member.user.tag} used the role command.`);
+      log.send(`${message.member.id}: **${message.member.user.tag}** removed the following role from ${member}: ${apply}`);
     }
   }
 
