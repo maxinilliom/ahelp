@@ -16,7 +16,7 @@ exports.conf = {
 
 exports.help = {
   name: "invite",
-  category: "Info",
+  category: "Information",
   description: "Fetch an invite for the server.",
   usage: "invite"
 };

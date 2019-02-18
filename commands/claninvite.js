@@ -15,7 +15,7 @@ exports.conf = {
 
 exports.help = {
   name: "claninvite",
-  category: "Info",
+  category: "Information",
   description: "Fetch an invite for the Alright clan server.",
   usage: "claninvite"
 };

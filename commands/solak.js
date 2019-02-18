@@ -47,7 +47,7 @@ exports.conf = {
 
 exports.help = {
   name: "solak",
-  category: "Info",
+  category: "Information",
   description: "Sends info regarding Solak Reaper kills.",
   usage: "solak"
 };

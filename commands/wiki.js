@@ -38,7 +38,7 @@ exports.conf = {
 
 exports.help = {
   name: "wiki",
-  category: "Info",
+  category: "Information",
   description: "Instructions on searching the new RS Wiki.",
   usage: "wiki"
 };
