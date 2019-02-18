@@ -57,11 +57,11 @@ exports.run = async (client, message, args, level) => {
   const log = guild.channels.get("547042848609140737");
   const member = message.mentions.users.first();
   if (!args[0]) return send("Please specify a user to update roles for.");
-  if (!/<@\d{17,18}>/g.test(args[0]) || !member) return send("Please mention a valid user to update roles for.");
-  const data = message.content.split(",").map(d => d.trim());
+  if (!/<@!?\d{17,18}>/g.test(args[0]) || !member) return send("Please mention a valid user to update roles for.");
+  const data = message.content.split(", ").map(d => d.trim());
   const action = data[0].split(" ")[2];
-  const apply = [data[0].split(" ")[3], ...data.slice(1)];
-  if (!["add", "a", "remove", "r"].includes(action)) return send("Please specify a valid action. (add/remove)");
+  const apply = data[0].split(" ")[3] ? [data[0].split(" ")[3], ...data.slice(1)] : undefined;
+  if (!["add", "a", "remove", "r"].includes(action)) return send("Please specify a valid action. **(add/remove)**");
   if (!apply) return send("Please specify one or more roles to update for the user.");
   const num = apply.length;
   const range = roles[role];
