@@ -1,4 +1,4 @@
-exports.data = {
+﻿exports.data = {
   "break1": {
     "files": [{
       "attachment": "media/img/info/fc/break.png",
@@ -151,7 +151,7 @@ exports.data = {
   },
     "fctext": {
     "title": "Looking For More!",
-    "description":"<:bulletpoint:418304110429732883> Please forward any friend's chat suggestions to us and we'll add them to the following lists.\n<:bulletpoint:418304110429732883> You can join Achievement Help’s Official friend chat **Saint Cannon** in game!",
+    "description":"<:bulletpoint:418304110429732883> Please forward any friend's chat suggestions to us and we'll add them to the following lists.\n<:bulletpoint:418304110429732883> You can join Achievement Help’s Official friend chat **AHelp Chat** in game!",
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
       "text": "Achievement Help | Friend Chats"
