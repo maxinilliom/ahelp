@@ -1,4 +1,4 @@
-exports.data = {
+﻿exports.data = {
   "break0": {
     "files": [{
       "attachment": "media/img/info/affiliate/break.png",
@@ -58,7 +58,7 @@ exports.data = {
           "fields": [
       {
         "name": "Friend's Chat:",
-        "value": "Saint Cannon"
+        "value": "AHelp Chat"
       },
       {
         "name": "Invite Link:",
