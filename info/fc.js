@@ -31,7 +31,7 @@
   },
     "minigames": {
     "title": "Minigames",
-    "description":"**CWar United** - Castle Wars Games (Afk). Apply [Here](http://services.runescape.com/m=forum/c=ob7A0kMf9cA/forums.ws?75,76,32,66000897).\n\n**Minigames** - Mazcab Supply Runs and All Around Minigame Needs\n\n**Clue Chasers** - Enthusiastic Clue Scroll community\n\n**Ba Teams** - Barbarian Assault Games\n\n**Conquest Chat** - Conquest Games\n\n**Hybrid Top** - Fight Pit Games and finding partners to get a 'Hybrid Top' (Battle-mage/Trickster/Vanguard)\n\n**FishFlingers** - Fish Flingers\n\n**GOP Addict** - Great Orb Project Games\n\n**Heist4Fun** - Heist Games\n\n**World60pengs** or **W60 Find Pen** - Penguin Hunting\n\n**Fast SC** - Stealing Creation (Non-Combat)",
+    "description":"**CWar United** - Castle Wars Games (AFK). Apply [Here](http://services.runescape.com/m=forum/c=ob7A0kMf9cA/forums.ws?75,76,32,66000897).\n\n**Minigames** - Mazcab Supply Runs and All Around Minigame Needs\n\n**Clue Chasers** - Enthusiastic Clue Scroll community\n\n**BA Teams** - Barbarian Assault Games\n\n**Conquest Chat** - Conquest Games\n\n**Hybrid Top** - Fight Pit Games and finding partners to get a 'Hybrid Top' (Battle-mage/Trickster/Vanguard)\n\n**FishFlingers** - Fish Flingers\n\n**GOP Addict** - Great Orb Project Games\n\n**Heist4Fun** - Heist Games\n\n**World60pengs** or **W60 Find Pen** - Penguin Hunting\n\n**Fast SC** - Stealing Creation (Non-Combat)",
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
       "text": "Achievement Help | Friend Chats"
@@ -91,7 +91,7 @@
   },
     "pvm/teaching": {
     "title": "PvM/Teaching",
-    "description":"**EliteDungFC** - finding teams for Elite Dungeons\n\n**Slayer Dungs** - Finding specific Player Owned Slayer Dungeon Mobs\n\n**AoDTeams** - Teams for Angel of Death\n\n**NexAod** - Angel of Death Masses\n\n**Raiding FC**, **Raid FC**, or **Aus Raiding** - Full Raids and learning\n\n**Boss School**, **PvMing FC**, **PvM Fanatics**, or **Teaching RS** - Teaching and finding any boss teams\n\n**lskk247** - Lootshare Kalphite King kills\n\n**Casual KK** - smaller experienced Kalphite King teams\n\n**Duck Hunters** - Megaduck Pet chances\n\n**Teachingrots** or **Pro Rots** -  Learning and making teams for Rise of the Six\n\n**Rago PvM** or **Wandoodle** -  Vorago Masses and Learning\n\n**LSPVM247** - Boss LootSharing\n\n**Solak247** or **Solak FC** - Solak 2 or 7 man teams",
+    "description":"**EliteDungFC** - finding teams for Elite Dungeons\n\n**Slayer Dungs** - Finding specific Player Owned Slayer Dungeon Mobs\n\n**NexAod** - Angel of Death Masses\n\n**Raid FC** - Full Raids\n\n**Boss School**, **PvMing FC**, or **Teaching RS** - Teaching and finding any boss teams\n\n**LSKK247** - Lootshare Kalphite King kills\n\n**Duck Hunters** - Megaduck Pet chances\n\n**Teachingrots** -  Learning and making teams for Rise of the Six\n\n**Rago PvM** -  Vorago Masses and Learning\n\n**LSPVM247** - Boss Lootsharing\n\n**Solak FC** - Solak 2 or 7 man teams",
     "footer": {
       "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
       "text": "Achievement Help | Friend Chats"
