@@ -392,6 +392,35 @@
       }
       ]
   },
+  "FishingHub1": {
+    "title": "FishingHub1",
+    "description":"Purpose of this Friends Chat:\n- Chat about fishing or anything RS related.\n- Find and call out fishing hub event locations.\n- Trade golden prawn crackers.\n- Price Check.",
+    "thumbnail": {
+      "url": "https://cdn.discordapp.com/icons/433763518697832458/2df99bbb9104de9bf3c59c2c249f23e7.webp"
+    },
+    "footer": {
+      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "text": "Achievement Help | Connecting our Helpful Communities!"
+    },
+    "author": {
+      "name": "Skilling Affiliate Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+          "fields": [
+      {
+        "name": "Friend's Chat:",
+        "value": "FishingHub1"
+      },
+      {
+        "name": "Invite Link:",
+        "value": "https://discord.gg/uUeM862"
+      },
+      {
+        "name": "Contact:",
+        "value": "<@216536276533379073>"
+      }
+      ]
+  },
   "Harmed Ore": {
     "title": "Harmed Ore",
     "description":"The friends chat based mining community that scouts and calls the best worlds for the T90 Light and Dark Animica ores during Trahaearn VoS.\n\nWhen the Trahaearn Voice of Seren is active, Light and Dark Animica ores have a chance to \"harmonise\" and replace any Rune, Adamant, Mithril, or Coal rocks.\n\nWe scout and call worlds with the best layout for rockertunities, a new mechanic added with the Mining and Smithing rework. Join us for the most convenient and best source of new T90 ores!",
