@@ -8356,6 +8356,64 @@ exports.data = {
     },
 "timestamp": "2001-01-04T12:00:00Z"
   },
+  "skills - cooking - the great gnomish shake off": {
+    "title": "The Great Gnomish Shake Off (Skills, Cooking)",
+    "description": "[The Great Gnomish Shake Off](https://runescape.wiki/w/The_Great_Gnomish_Shake_Off) is an achievement that requires the player to make all of the [gnome cocktails](https://runescape.wiki/w/Gnome_cooking#Cocktails).",
+        "color": 12269891,
+    "footer": {
+      "icon_url": "https://runescape.wiki/images/7/77/RuneScore.png?9f9cd",
+      "text": "Runescore awarded: 10"
+    },
+    "thumbnail": {
+      "url": "https://runescape.wiki/images/a/ac/Default_achievement_icon.png?fb2fd"
+    },
+    "author": {
+      "name": "RuneScore Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "fields": [
+      {
+        "name": "​",
+        "value": "To make the cocktails, players must first complete the tutorial from [Blurberry](https://runescape.wiki/w/Blurberry). Blurberry is a world-renowned [gnomish](https://runescape.wiki/w/Gnome) barman and owner of [Blurberry's Bar](https://runescape.wiki/w/Blurberry%27s_Bar), the cocktail bar located on the 1st floor[UK] of the [Grand Tree](https://runescape.wiki/w/Grand_Tree), in the heart of the [Tree Gnome Stronghold](https://runescape.wiki/w/Tree_Gnome_Stronghold).\n\nThe player will also need to have a [cocktail shaker](https://runescape.wiki/w/Cocktail_shaker) and a [cocktail glass](https://runescape.wiki/w/Cocktail_glass).\n\nAll the ingredients required for this achievement can be purchased from the [Grand Exchange](https://runescape.wiki/w/Grand_Exchange) or [Heckel Funch](https://runescape.wiki/w/Heckel_Funch). Heckel Funch's shop, [Funch's Fine Groceries](https://runescape.wiki/w/Funch%27s_Fine_Groceries), is on the east side of the Grand Tree on the 1st floor[UK], near Blurberry's Bar."
+      },
+      {
+        "name": "​",
+        "value": "In total, to make all the cocktails, the player will need:\n• 6 [pineapples](https://runescape.wiki/w/Pineapple)\n• 7 [lemons](https://runescape.wiki/w/Lemon)\n• 6 [oranges](https://runescape.wiki/w/Orange)\n• 8 [limes](https://runescape.wiki/w/Lime)\n• 5 [vodkas](https://runescape.wiki/w/Vodka)\n• 3 [gins](https://runescape.wiki/w/Gin)\n• 1 [whisky](https://runescape.wiki/w/Whisky)\n• 1 [brandy](https://runescape.wiki/w/Brandy)\n• 3 [equa leaves](https://runescape.wiki/w/Equa_leaves)\n• 1 [dwellberries](https://runescape.wiki/w/Dwellberries)\n• 2 [pots of cream](https://runescape.wiki/w/Pot_of_cream)\n• 2 [chocolate bars](https://runescape.wiki/w/Chocolate_bar)\n• 1 [bucket of milk](https://runescape.wiki/w/Bucket_of_milk)"
+      },
+      {
+        "name": "​",
+        "value": "[**Fruit Blast**](https://runescape.wiki/w/Fruit_Blast)\n• Requires level 6 Cooking.\n• Mix 2 lemons, 1 orange, and 1 pineapple in a cocktail shaker to make a [mixed blast](https://runescape.wiki/w/Mixed_blast).\n• Use a [knife](https://runescape.wiki/w/Knife) with 1 lemon to make [lemon slices](https://runescape.wiki/w/Lemon_slices).\n• Pour the mixed blast into a cocktail glass and garnish with the lemon slices."
+      },
+      {
+        "name": "​",
+        "value": "[**Pineapple Punch**](https://runescape.wiki/w/Pineapple_Punch)\n• Requires level 8 Cooking.\n• Mix 2 pineapples, 1 orange, and 1 lemon in a cocktail shaker to make a [mixed punch](https://runescape.wiki/w/Mixed_punch).\n• Use a knife with 1 orange, 1 pineapple, and 1 lime to make [orange slices](https://runescape.wiki/w/Orange_slices), [pineapple chunks](https://runescape.wiki/w/Pineapple_chunks), and [lime chunks](https://runescape.wiki/w/Lime_chunks).\n• Pour the mixed punch into a cocktail glass and garnish with the orange, lime, and pineapple."
+      },
+      {
+        "name": "​",
+        "value": "[**Wizard Blizzard**](https://runescape.wiki/w/Wizard_Blizzard)\n• Requires level 8 Cooking.\n• Mix 2 vodkas, 1 gin, 1 lime, 1 orange, and 1 lemon in a cocktail shaker to make a [mixed blizzard](https://runescape.wiki/w/Mixed_blizzard).\n• Use a knife with 1 lime and 1 pineapple to make [lime slices](https://runescape.wiki/w/Lime_slices) and pineapple chunks.\n• Pour the mixed blizzard into a cocktail glass and garnish with the lime and pineapple."
+      },
+      {
+        "name": "​",
+        "value": "[**Short Green Guy**](https://runescape.wiki/w/Short_Green_Guy)\n• Requires level 20 Cooking.\n• Mix 1 vodka and 3 limes in a cocktail shaker to make a [mixed SGG](https://runescape.wiki/w/Mixed_sgg).\n• Use a knife with 1 lime to make lime slices.\n• Pour the mixed SGG into a cocktail glass and garnish with the lime and equa leaves."
+      },
+      {
+        "name": "​",
+        "value": "[**Drunk Dragon**](https://runescape.wiki/w/Drunk_Dragon)\n• Requires level 32 Cooking.\n• Mix 1 vodka, 1 gin, and 1 dwellberries in a cocktail shaker to make a [mixed dragon](https://runescape.wiki/w/Mixed_dragon_(shaker).\n• Use a knife with 1 pineapple to make pineapple chunks.\n• Pour the mixed dragon into a cocktail glass and garnish with the pineapple and a pot of cream."
+      },
+      {
+        "name": "​",
+        "value": "[**Chocolate Saturday**](https://runescape.wiki/w/Chocolate_Saturday)\n• Requires level 33 Cooking.\n• Mix 1 whisky, 1 chocolate bar, 1 bucket of milk, and 1 equa leaves in a cocktail shaker to make a [mixed Saturday](https://runescape.wiki/w/Mixed_saturday_(shaker).\n• Pour the mixed Saturday into a cocktail glass and heat on a [range](https://runescape.wiki/w/Range).\n• Crush a chocolate bar into [chocolate dust](https://runescape.wiki/w/Chocolate_dust), then garnish the heated Saturday with the chocolate dust and a pot of cream."
+      },
+      {
+        "name": "​",
+        "value": "[**Blurberry Special**](https://runescape.wiki/w/Blurberry_Special)\n• Requires level 37 Cooking.\n• Mix 1 vodka, 1 brandy, 1 gin, 2 lemons, and 1 orange in a cocktail shaker to make a [mixed blurberry special](https://runescape.wiki/w/Mixed_blurberry_special).\n• Use a knife with 1 orange, 1 lemon, and 1 lime to make [orange chunks](https://runescape.wiki/w/Orange_chunks), [lemon chunks](https://runescape.wiki/w/Lemon_chunks), and lime slices.\n• Pour the mixed blurberry special into a cocktail glass and garnish with the orange, lemon, lime, and equa leaves."
+      },
+      {
+        "name": "Requirements:",
+        "value": "• 37 Cooking\n• Completion of the gnome cocktail tutorial."
+      }
+      ]
+  },
   "skills - divination - business is booning!": {
     "title": "Business Is Booning!",
     "author": {
@@ -8567,7 +8625,7 @@ exports.data = {
       "name": "RuneScore Achievement Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[The Archivist](https://runescape.wiki/w/The_Archivist_(achievement) is an achievement that requires the player to recover data for 50 additional backup [memory-storage bots](https://runescape.wiki/w/Memory-storage_bot) in the [Hall of Memories](https://runescape.wiki/w/Hall_of_Memories). This does not include the 5 memory-storage bots that unlock lore ([Aagi](https://runescape.wiki/w/Memory-storage_bot_(Aagi), [Seren](https://runescape.wiki/w/Memory-storage_bot_(Seren), [Juna](https://runescape.wiki/w/Memory-storage_bot_(Juna), [Edicts](https://runescape.wiki/w/Memory-storage_bot_(Edicts), [Cres](https://runescape.wiki/w/Memory-storage_bot_(Cres)).\n\nA backup memory-storage bot requires the player to charge it with 50 memories of each kind of memory; lustrous, brilliant, radiant, luminous, and incandescent, which is a total of 12,500 memories.\n\nCompleting this achievements unlocks the [Archivist title](https://runescape.wiki/w/The_Archivist_(title).",
+    "description": "[The Archivist](https://runescape.wiki/w/The_Archivist_(achievement) is an achievement that requires the player to recover data for 50 additional backup [memory-storage bots](https://runescape.wiki/w/Memory-storage_bot) in the [Hall of Memories](https://runescape.wiki/w/Hall_of_Memories). This does not include the 5 memory-storage bots that unlock lore ([Aagi](https://runescape.wiki/w/Memory-storage_bot_(Aagi), [Seren](https://runescape.wiki/w/Memory-storage_bot_(Seren), [Juna](https://runescape.wiki/w/Memory-storage_bot_(Juna), [Edicts](https://runescape.wiki/w/Memory-storage_bot_(Edicts), [Cres](https://runescape.wiki/w/Memory-storage_bot_(Cres)).\n\nA backup memory-storage bot requires the player to charge it with 50 memories of each kind of memory; [lustrous](https://runescape.wiki/w/Lustrous_memories), [brilliant](https://runescape.wiki/w/Brilliant_memories), [radiant](https://runescape.wiki/w/Radiant_memories), [luminous](https://runescape.wiki/w/Luminous_memories), and [incandescent](https://runescape.wiki/w/Incandescent_memories), which is a total of 12,500 memories.\n\nCompleting this achievements unlocks the [Archivist title](https://runescape.wiki/w/The_Archivist_(title).\n\nTo begin each memory-storage bot, the player should stand within the grouping of 7 memory spawn locations near the [memory jars](https://runescape.wiki/w/Memory_jar) depot to the east. Once the player has only 1-2 memory types left, the [bladed dive](https://runescape.wiki/w/Bladed_Dive) ability, if available, can be used to quickly navigate the shifting memory locations.",
     "thumbnail": {
       "url": "https://i.imgur.com/Shmagnp.png"
     },
@@ -8605,6 +8663,36 @@ exports.data = {
       "text": "Runescore awarded: 5"
     },
 "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "skills - dungeoneering - dungeon mage": {
+    "title": "Dungeon Mage (Skills, Dungeoneering)",
+    "description": "[Dungeon Mage](https://runescape.wiki/w/Dungeon_Mage) is an achievement that requires the player to fully upgrade the magic roles on their [ring of kinship](https://runescape.wiki/w/Ring_of_kinship). The ring of kinship is an item used to create parties for exploring [Daemonheim](https://runescape.wiki/w/Daemonheim) with the Dungeoneering skill. The ring is given to the player by the [Dungeoneering tutor](https://runescape.wiki/w/Dungeoneering_tutor) at the entrance of Daemonheim and is one of the few items that players are permitted to take into the dungeon from the surface.\n\nIn total, this will require 969,645 [dungeoneering tokens](https://runescape.wiki/w/Dungeoneering_Tokens).Tokens are received for completing a dungeon; no tokens are earned if the dungeon is left early. The amount of tokens a player receives is dependent on the amount of experience gained for completing a floor, in a 10:1 ratio of experience to tokens rounded down. An example being if a player received 459 experience, they would get 45 Dungeoneering tokens. Bonus experience does not affect token gain.",
+        "color": 12269891,
+    "footer": {
+      "icon_url": "https://runescape.wiki/images/7/77/RuneScore.png?9f9cd",
+      "text": "Runescore awarded: 20"
+    },
+    "thumbnail": {
+      "url": "https://runescape.wiki/images/a/ac/Default_achievement_icon.png?fb2fd"
+    },
+    "author": {
+      "name": "RuneScore Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "fields": [
+            {
+        "name": "​",
+        "value": "Dungeoneering tokens are a reward from the Dungeoneering skill and are used to purchase rewards from the [Rewards trader](https://runescape.wiki/w/Marmaros). Tokens are received for completing a dungeon; no tokens are earned if the dungeon is left early. The amount of tokens a player receives is dependent on the amount of experience gained for completing a floor, in a 10:1 ratio of experience to tokens rounded down.\n\nTokens can also additionally be obtained from:\n\n• [Sinkholes](https://runescape.wiki/w/Sinkholes)\n• [Fremennik Sagas](https://runescape.wiki/w/Fremennik_Sagas)\n• [Dungeoneering token box](https://runescape.wiki/w/Dungeoneering_token_box)\n• Drops from [Kal'gerion demon](https://runescape.wiki/w/Kal%27gerion_demon)\n• [Pickpocketing](https://runescape.wiki/w/Thieving#Pickpocketing) a [Meilyr worker](https://runescape.wiki/w/Meilyr_worker)\n• [Elite Dungeons](https://runescape.wiki/w/Elite_dungeons)"
+      },
+            {
+        "name": "​",
+        "value": "There are three magic roles that need to be upgraded. They are:\n• [Blazer](https://runescape.wiki/w/Ring_of_kinship_(blazer)\n• [Blaster](https://runescape.wiki/w/Ring_of_kinship_(blaster)\n• [Blitzer](https://runescape.wiki/w/Ring_of_kinship_(blitzer)"
+      },
+      {
+        "name": "Requirements:",
+        "value": "• None"
+      }
+      ]
   },
   "skills - farming - animal whisperer": {
             "title": "Animal Whisperer",
