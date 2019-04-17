@@ -7,7 +7,7 @@ exports.data = {
       },
     "description": "{{output}}",
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     }
   },
@@ -19,7 +19,7 @@ exports.data = {
     },
     "description": "{{output}}",
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     }
   },
@@ -29,7 +29,7 @@ exports.data = {
     "url": "https://runescape.wiki/w/Hunter_training#Levels_1-20:_feeding_ogleroots_to_rabbits",
     "color": 12269891,
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "thumbnail": {
@@ -46,7 +46,7 @@ exports.data = {
     "url": "https://runescape.wiki/w/Hunter_training#Levels_20-27:_tropical_wagtails",
     "color": 12269891,
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "thumbnail": {
@@ -63,7 +63,7 @@ exports.data = {
     "url": "https://runescape.wiki/w/Hunter_training#Levels_27-46:_cobalt_skillchompas",
     "color": 12269891,
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "thumbnail": {
@@ -80,7 +80,7 @@ exports.data = {
     "url": "https://runescape.wiki/w/Hunter_training#Levels_46-68:_viridian_skillchompas",
     "color": 12269891,
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "thumbnail": {
@@ -97,7 +97,7 @@ exports.data = {
     "url": "https://runescape.wiki/w/Hunter_training#Levels_68-77:_azure_skillchompas",
     "color": 12269891,
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "thumbnail": {
@@ -161,7 +161,7 @@ exports.data = {
       }
     ],
     "footer": { 
-    "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg", 
+    "icon_url": "https://i.imgur.com/aPzdbY3.jpg", 
     "text": "Achievement Help | Helping you reach your goals, whatever they may be!" 
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -172,7 +172,7 @@ exports.data = {
     "url": "https://runescape.wiki/w/Hunter_training#Levels_96-99.2B:_ornate_tortles",
     "color": 12269891,
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "thumbnail": {
@@ -199,7 +199,7 @@ exports.data = {
     "description": "Some users may wish to utilize methods outside of the ones displayed in this channel's guide. To aid in this, the following alternative methods are provided.",
         "color": 12269891,
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "thumbnail": {
@@ -250,7 +250,7 @@ exports.data = {
     "url": "https://runescape.wiki/w/Ace_pet",
     "color": 12269891,
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "thumbnail": {
@@ -285,7 +285,7 @@ exports.data = {
     "description": "Currently, a total of 191,500 experience may be gained specifically to hunter throughout all of the RuneScape Quests. These rewards are automatically given and there is no choice involved.",
         "color": 12269891,
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "thumbnail": {
@@ -308,7 +308,7 @@ exports.data = {
 "description": "D&Ds are a subclassification of minigames. However, unlike minigames many D&Ds move around the world to various locations, have a limit on how often they can be played, and only occur at particular times of day.\n\nDistractions and Diversions aim to divert the original intentions of the player in order to provide an interesting distraction from their everyday routines. D&Ds come in many different shapes and sizes; covering Combat, Gathering, Artisan, and Support skills. There are a wide variety of different options available to suit the players choice.", 
 "color": 12269891, 
 "footer": { 
-"icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg", 
+"icon_url": "https://i.imgur.com/aPzdbY3.jpg", 
 "text": "Achievement Help | Helping you reach your goals, whatever they may be!" 
 }, 
 "thumbnail": { 
@@ -359,7 +359,7 @@ exports.data = {
     "description": "Completing a daily challenge in Hunter will give experience, depending on the player's Hunter level.",
         "color": 12269891,
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "thumbnail": {
@@ -382,7 +382,7 @@ exports.data = {
     "description": "A permanent skill boost is anything caused by an item that permanently raises a player's level in one or more skills. It allows the player to do things above their current level.",
         "color": 12269891,
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "thumbnail": {
@@ -429,7 +429,7 @@ exports.data = {
     "description": "A temporary skill boost is anything caused by an item, Summoning familiar, or action that temporarily raises a player's level in one or more skills. It allows the player to do things above their current level.",
         "color": 12269891,
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "thumbnail": {

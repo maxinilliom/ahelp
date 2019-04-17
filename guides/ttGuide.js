@@ -7,7 +7,7 @@ exports.data = {
     },
     "description": "{{output}}",
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help"
     }
   },
@@ -19,7 +19,7 @@ exports.data = {
     },
     "description": "{{output}}",
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help"
     }
   },
@@ -48,7 +48,7 @@ exports.data = {
         }
     ],
     "footer": {
-        "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+        "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
         "text": "AHelp | Designed by Son and AHelpers"
     }
   },
@@ -77,7 +77,7 @@ exports.data = {
       }
     ],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -102,7 +102,7 @@ exports.data = {
       "value": "Players should utilize the [Scavenging 2/3](https://runescape.wiki/w/Scavenging) perk on an [Augmented](https://runescape.wiki/w/Augmentation) reforged [Sunspear](https://runescape.wiki/w/Sunspear) in order to gain many invention [materials](https://runescape.wiki/w/Materials) to help make a profit during this daunting achievement. The sunspear requires [The Lord of Vampyrium](https://runescape.wiki/w/The_Lord_of_Vampyrium) quest and the reforged sunspear requires the [River of Blood](https://runescape.wiki/w/River_of_Blood) quest.\n\nThe [Dwarf multicannon](https://runescape.wiki/w/Dwarf_multicannon), [Oldak coil](https://runescape.wiki/w/Oldak_coil), or [Kinetic cyclone](https://runescape.wiki/w/Kinetic_cyclone) and/or [Aggression potions](https://runescape.wiki/w/Aggression_potion) are very useful in maintaining the mobs aggression."
     }],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -132,7 +132,7 @@ exports.data = {
       }
     ],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -153,7 +153,7 @@ exports.data = {
       "value": "• [List of all possible obelisk locations | Runescape Wiki](https://runescape.wiki/w/Familiarisation#Obelisk_locations)\n• [Familiarisation Guide and Walkthrough | Naffscape - Youtube](https://www.youtube.com/watch?v=BCSym8b-Kjk)"
     }],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -183,7 +183,7 @@ exports.data = {
       }
     ],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -204,7 +204,7 @@ exports.data = {
       "value": "• [Giant Mimic Guide - Runescape 3 | Trissle - Youtube](https://www.youtube.com/watch?v=wv5ecF-R300)"
     }],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -234,7 +234,7 @@ exports.data = {
       }
     ],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -255,7 +255,7 @@ exports.data = {
       "value": "• [Guthixian Cache Guide - Easy Divination Xp! | Maikeru RS - Youtube](https://www.youtube.com/watch?v=Ktun5Jkr4kE)"
     }],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -285,7 +285,7 @@ exports.data = {
       }
     ],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -319,7 +319,7 @@ exports.data = {
       }
     ],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -345,7 +345,7 @@ exports.data = {
       }
     ],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -366,7 +366,7 @@ exports.data = {
       "value": "• [Nimble Outfit FAST | Using Agility Skillcape | puretppc - Youtube](https://www.youtube.com/watch?v=vD2LvJJDKDE)"
     }],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -387,7 +387,7 @@ exports.data = {
       "value": "• [Troll Invasion Guide - Free Monthly EXP! | GentleMen RS - Youtube](https://www.youtube.com/watch?v=tmSzmBnlc1I)"
     }],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -417,7 +417,7 @@ exports.data = {
       }
     ],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -443,7 +443,7 @@ exports.data = {
       }
     ],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -477,7 +477,7 @@ exports.data = {
       }
     ],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -511,7 +511,7 @@ exports.data = {
       }
     ],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -537,7 +537,7 @@ exports.data = {
       }
     ],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -563,7 +563,7 @@ exports.data = {
       }
     ],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -594,7 +594,7 @@ exports.data = {
       }
     ],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -620,7 +620,7 @@ exports.data = {
       }
     ],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -650,7 +650,7 @@ exports.data = {
       }
     ],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -680,7 +680,7 @@ exports.data = {
       }
     ],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -706,7 +706,7 @@ exports.data = {
       }
     ],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -760,7 +760,7 @@ exports.data = {
       }
     ],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -786,7 +786,7 @@ exports.data = {
       }
     ],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -828,7 +828,7 @@ exports.data = {
       }
     ],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -849,7 +849,7 @@ exports.data = {
       "value": "• [Stealing Creation Guide | puretppc - Youtube](https://www.youtube.com/watch?v=7cBQFKPnnhQ)"
     }],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -875,7 +875,7 @@ exports.data = {
       }
     ],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -901,7 +901,7 @@ exports.data = {
       }
     ],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -922,7 +922,7 @@ exports.data = {
       "value": "• 70 Hunter"
     }],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -943,7 +943,7 @@ exports.data = {
       "value": "• [Full guide with rank criteria: Introduction to Combat | Runescape Wiki](https://runescape.wiki/w/Combat_Academy#Introduction_to_Combat)"
     }],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -964,7 +964,7 @@ exports.data = {
       "value": "• Roving Elves Quest completion | [Runescape Wiki](https://runescape.wiki/w/Roving_Elves)"
     }],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -985,7 +985,7 @@ exports.data = {
       "value": "The goblin mails may be looted and used for the [Goblin Diplomacy](https://runescape.wiki/w/Goblin_Diplomacy) quest."
     }],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -1026,7 +1026,7 @@ exports.data = {
       "value": "• 25,000 Runespan points"
     }],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -1052,7 +1052,7 @@ exports.data = {
       }
     ],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -1102,7 +1102,7 @@ exports.data = {
       }
     ],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -1148,7 +1148,7 @@ exports.data = {
       }
     ],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -1174,7 +1174,7 @@ exports.data = {
       }
     ],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -1195,7 +1195,7 @@ exports.data = {
       "value": "• Gunnar's Ground Quest completion | [Runescape Wiki](https://runescape.wiki/w/Gunnar%27s_Ground)"
     }],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -1216,7 +1216,7 @@ exports.data = {
       "value": "• Any means of getting to the [God Wars Dungeon](https://runescape.wiki/w/God_Wars_Dungeon#How_to_get_there)"
     }],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -1237,7 +1237,7 @@ exports.data = {
       "value": "• [The Ravensworn](https://runescape.wiki/w/The_Ravensworn) title\n• The Light Within Quest partial completion | [Runescape Wiki](https://runescape.wiki/w/The_Light_Within)"
     }],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -1258,7 +1258,7 @@ exports.data = {
       "value": "• Nomad's Elegy Quest completion | [Runescape Wiki](https://runescape.wiki/w/Nomad%27s_Elegy)"
     }],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -1296,7 +1296,7 @@ exports.data = {
       }
     ],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -1317,7 +1317,7 @@ exports.data = {
       "value": "• 80 Smithing\n• 80 Divination\n• 80 Crafting"
     }],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -1338,7 +1338,7 @@ exports.data = {
       "value": "• Monkey Madness Quest partial completion | [Runescape Wiki](https://runescape.wiki/w/Monkey_Madness)"
     }],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -1364,7 +1364,7 @@ exports.data = {
       }
     ],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -1385,7 +1385,7 @@ exports.data = {
       "value": "• 41 Woodcutting"
     }],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -1406,7 +1406,7 @@ exports.data = {
       "value": "It's highly recommended that the player brings food if they are lower level, as the [Kalphites](https://runescape.wiki/w/Exiled_Kalphite_Hive#Inhabitants) will attack and sometimes [poison](https://runescape.wiki/w/Poison) the player."
     }],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -1427,7 +1427,7 @@ exports.data = {
       "value": "• Icthlarin's Little Helper Quest completion | [Runescape Wiki](https://runescape.wiki/w/Icthlarin%27s_Little_Helper)"
     }],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -1448,7 +1448,7 @@ exports.data = {
       "value": "• Any means of getting to the [Poison Waste Slayer Dungeon](https://runescape.wiki/w/Poison_Waste_Slayer_Dungeon)"
     }],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -1469,7 +1469,7 @@ exports.data = {
       "value": "• 99 Agility\n• 99 Attack\n• 99 Constitution\n• 99 Construction\n• 99 Cooking\n• 99 Crafting\n• 99 Divination\n• 99 Defence\n• 99 Dungeoneering\n• 99 Farming\n• 99 Firemaking\n• 99 Fishing\n• 99 Fletching\n• 99 Herblore\n• 99 Hunter\n• 99 Invention\n• 99 Magic\n• 99 Mining\n• 99 Prayer\n• 99 Ranged\n• 99 Runecrafting\n• 99 Slayer\n• 99 Smithing\n• 99 Strength\n• 99 Summoning\n• 99 Thieving\n• 99 Woodcutting\n\n• Completion of all [Quests](https://runescape.wiki/w/Quests)"
     }],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -1486,7 +1486,7 @@ exports.data = {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/e/e3/Ozan.png/revision/latest?cb=20160709160720"
     },
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -1512,7 +1512,7 @@ exports.data = {
       }
     ],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -1533,7 +1533,7 @@ exports.data = {
       "value": "• 8 [regular planks](https://runescape.wiki/w/Plank)\n• 16 [nails](https://runescape.wiki/w/Nails) of any type\n\n• Fairy Tale III - Battle at Ork's Rift Quest completion | [Runescape Wiki](https://runescape.wiki/w/Fairy_Tale_III_-_Battle_at_Ork's_Rift)"
     }],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -1550,7 +1550,7 @@ exports.data = {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/5/57/Velrak_the_explorer.png/revision/latest?cb=20170909120543"
     },
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -1576,7 +1576,7 @@ exports.data = {
       }
     ],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -1597,7 +1597,7 @@ exports.data = {
       "value": "• 81 Hunter\n• 77 Farming\n• 54 Herblore\n\n• Lunar Diplomacy Quest partial completion | [Runescape Wiki](https://runescape.wiki/w/Lunar_Diplomacy)"
     }],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -1703,7 +1703,7 @@ exports.data = {
       }
     ],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -1724,7 +1724,7 @@ exports.data = {
       "value": "• 95 Divination"
     }],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -1745,7 +1745,7 @@ exports.data = {
       "value": "• The Jack of Spades Quest started | [Runescape Wiki](https://runescape.wiki/w/The_Jack_of_Spades)"
     }],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -1783,7 +1783,7 @@ exports.data = {
       }
     ],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -1804,7 +1804,7 @@ exports.data = {
       "value": "• 20 Mining"
     }],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -1825,7 +1825,7 @@ exports.data = {
       "value": "• [Complete Araxxor Melee Guide | Trissle - Youtube](https://www.youtube.com/watch?v=g0dKmgwR4HE)\n• [Complete Araxxor Ranged Guide| Trissle - Youtube](https://www.youtube.com/watch?v=O9EajnJjHbM)\n• [Complete Araxxor Mage Guide | Teh Proez - Youtube](https://www.youtube.com/watch?v=o7xE_T3Ondg)"
     }],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -1846,7 +1846,7 @@ exports.data = {
       "value": "• [Strategy guide for Barrows | Wiki](https://runescape.wiki/w/Barrows/Strategies)"
     }],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -1872,7 +1872,7 @@ exports.data = {
       }
     ],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -1898,7 +1898,7 @@ exports.data = {
       }
     ],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -1928,7 +1928,7 @@ exports.data = {
       }
     ],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -1958,7 +1958,7 @@ exports.data = {
       }
     ],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -1979,7 +1979,7 @@ exports.data = {
       "value": "• [Dagannoth Kings Solo Guide | GentleMen RS - Youtube](https://www.youtube.com/watch?v=bNw88i_8iDQ)"
     }],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -2005,7 +2005,7 @@ exports.data = {
       }
     ],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -2035,7 +2035,7 @@ exports.data = {
       }
     ],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -2061,7 +2061,7 @@ exports.data = {
       }
     ],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -2091,7 +2091,7 @@ exports.data = {
       }
     ],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -2121,7 +2121,7 @@ exports.data = {
       }
     ],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -2151,7 +2151,7 @@ exports.data = {
       }
     ],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -2172,7 +2172,7 @@ exports.data = {
       "value": "• [Kalphite King Solo Guide | JuliusRS - Youtube](https://www.youtube.com/watch?v=_2jIPWuX7pM)"
     }],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -2193,7 +2193,7 @@ exports.data = {
       "value": "• [The Kalphite Queen - A Solo Guide! | Lildogdog RS - Youtube](https://www.youtube.com/watch?v=f3LKtH7sTSM)"
     }],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -2214,7 +2214,7 @@ exports.data = {
       "value": "• [King Black Dragon! AFK & Easy | Maikeru RS - Youtube](https://www.youtube.com/watch?v=M53EBOgQLuw)"
     }],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -2244,7 +2244,7 @@ exports.data = {
       }
     ],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -2270,7 +2270,7 @@ exports.data = {
       }
     ],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -2296,7 +2296,7 @@ exports.data = {
       }
     ],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -2326,7 +2326,7 @@ exports.data = {
       }
     ],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -2356,7 +2356,7 @@ exports.data = {
       }
     ],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -2386,7 +2386,7 @@ exports.data = {
       }
     ],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -2407,7 +2407,7 @@ exports.data = {
       "value": "• [Solak Guide - All Phases Covered! | Maikeru RS - Youtube](https://www.youtube.com/watch?v=3z9hYZNOr_k)"
     }],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -2433,7 +2433,7 @@ exports.data = {
       }
     ],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -2459,7 +2459,7 @@ exports.data = {
       }
     ],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -2489,7 +2489,7 @@ exports.data = {
       }
     ],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -2519,7 +2519,7 @@ exports.data = {
       }
     ],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -2545,7 +2545,7 @@ exports.data = {
       }
     ],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -2575,7 +2575,7 @@ exports.data = {
       }
     ],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -2601,7 +2601,7 @@ exports.data = {
       }
     ],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -2627,7 +2627,7 @@ exports.data = {
       }
     ],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -2648,7 +2648,7 @@ exports.data = {
       "value": "It is highly recommended to try and obtain 1 of the chests as a drop from Nex: Angel of Death, since obtaining 1 of the chest is required to unlock the [boss collection log](https://runescape.wiki/w/Boss_collection_log) title. It is also not recommended to try and obtain all the chests as drops since they have a base drop rate of 1/5,000, which means that a specific chest has a drop rate of 1/20,000."
     }],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -2669,7 +2669,7 @@ exports.data = {
       "value": "It is highly recommended to attend boss masses since is is a relatively fast way of obtaining training points.\n\nThe player may choose to self-assign 1 of the following roles in the <#465998663710146579> channel:\n\n• <@&420015717828657152> (Can include Mod Lee's boss masses)\n• <@&420015659620237312> (Some of our <#458052251299348490> host masses)\n• <@&420015552677937152> (Regular boss mass events)"
     }],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -2690,7 +2690,7 @@ exports.data = {
       "value": "The player may choose to simply buy the Flaming Sword Enchantment from the [Grand Exchange](https://runescape.wiki/w/Grand_Exchange). Alternatively, the player can try and get it as drops from [Master clues](https://runescape.wiki/w/Clue_scroll_(master%29). Obtaining this from a Master clue may take a while."
     }],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -2711,7 +2711,7 @@ exports.data = {
       "value": "It is highly recommended to place the gnomeball down with the **Rolling** option selected. This allows it to roll free. While it rolls around, anyone can participate in kicking it around, which will also add up to your total kick count. Therefore, its best to place the gnomeball in a small closed off area with multiple people."
     }],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -2741,7 +2741,7 @@ exports.data = {
       }
     ],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -2767,7 +2767,7 @@ exports.data = {
       }
     ],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -2793,7 +2793,7 @@ exports.data = {
       }
     ],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -2814,7 +2814,7 @@ exports.data = {
       "value": "• 500,000 coins\n\n• King of the Dwarves Quest completion | [Runescape Wiki](https://runescape.wiki/w/King_of_the_Dwarves)"
     }],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -2840,7 +2840,7 @@ exports.data = {
       }
     ],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -2870,7 +2870,7 @@ exports.data = {
       }
     ],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -2896,7 +2896,7 @@ exports.data = {
       }
     ],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -2913,7 +2913,7 @@ exports.data = {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/d/d3/Burnt_bones_detail.png/revision/latest?cb=20111118185540"
     },
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -2943,7 +2943,7 @@ exports.data = {
       }
     ],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -3018,7 +3018,7 @@ exports.data = {
       }
       ],
       "footer": {
-        "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+        "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
         "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
       }
     },
@@ -3043,7 +3043,7 @@ exports.data = {
       }
     ],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -3069,7 +3069,7 @@ exports.data = {
       }
     ],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -3099,7 +3099,7 @@ exports.data = {
       }
     ],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -3120,7 +3120,7 @@ exports.data = {
       "value": "• 77 Agility\n\n• Plague's End Quest completion | [Runescape Wiki](https://runescape.wiki/w/Plague%27s_End)"
     }],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -3141,7 +3141,7 @@ exports.data = {
       "value": "If the player has a lot of unused Teci and decides to sell their Mazcab ability codex drops to the [Grand Exchange](https://runescape.wiki/w/Grand_Exchange), it would be recommended to buy the individual ability codices. This is due to the face that the specific codices are cheaper than the general Mazcab ability codex."
     }],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -3171,7 +3171,7 @@ exports.data = {
       }
     ],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -3197,7 +3197,7 @@ exports.data = {
       }
     ],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -3218,7 +3218,7 @@ exports.data = {
       "value": "• The best way to complete this is by doing daily [Nemi Forest](https://runescape.wiki/w/Nemi_Forest) runs, daily tasks for [Trinks](https://runescape.wiki/w/Trinks), and bi-daily [Raids](https://runescape.wiki/w/Raids) encounters.\n\n• A full list of how to earn reputation can be found [on the wiki](https://runescape.wiki/w/Reputation_(Mazcab%29#Earning_reputation)."
     }],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -3239,7 +3239,7 @@ exports.data = {
       "value": "The player may choose to simply buy the Scare Tactics from the [Grand Exchange](https://runescape.wiki/w/Grand_Exchange), or try and get it as drops from the Unspeakable horrors."
     }],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -3260,7 +3260,7 @@ exports.data = {
       "value": "Once these set effects are unlocked, the player can [disassemble](https://runescape.wiki/w/Disassemble) the warpriest pieces and sell the Anima Core of Sliske set if they wish to do so. This will not reset the set effects."
     }],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -3281,7 +3281,7 @@ exports.data = {
       "value": "• 99 Slayer\n\n• Dishonour among Thieves Quest completion | [Runescape Wiki](https://runescape.wiki/w/Dishonour_among_Thieves)"
     }],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -3307,7 +3307,7 @@ exports.data = {
       }
     ],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -3328,7 +3328,7 @@ exports.data = {
       "value": "• The mossy rock will always be on 1 of the locations on [this list](https://runescape.wiki/w/Mossy_rock#Possible_locations). The headless golem on the other hand, can roam over the whole island."
     }],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -3349,7 +3349,7 @@ exports.data = {
       "value": "• The World Wakes Quest completion | [Runescape Wiki](https://runescape.wiki/w/The_World_Wakes)\n• The Firemaker's Curse Quest completion | [Runescape Wiki](https://runescape.wiki/w/The_Firemaker%27s_Curse)\n• The Ritual of the Mahjarrat Quest completion | [Runescape Wiki](https://runescape.wiki/w/Ritual_of_the_Mahjarrat)\n• The Chosen Commander Quest completion | [Runescape Wiki](https://runescape.wiki/w/The_Chosen_Commander)\n• Branches of Darkmeyer Quest completion | [Runescape Wiki](https://runescape.wiki/w/Branches_of_Darkmeyer)\n• The Void Stares Back Quest completion | [Runescape Wiki](https://runescape.wiki/w/The_Void_Stares_Back)"
     }],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -3370,7 +3370,7 @@ exports.data = {
       "value": "• 99 Summoning"
     }],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -3400,7 +3400,7 @@ exports.data = {
       }
     ],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -3425,7 +3425,7 @@ exports.data = {
         "value": "There are no skill level requirements for a player to receive an effigy from a monster drop. The effigies are a rare drop, and are dropped by many low-level and high-level monsters alike. It has been confirmed that the [ring of wealth](https://runescape.wiki/w/Ring_of_wealth) does not affect the drop rate, but killing a higher level monster will give a greater chance of receiving an effigy. Each effigy a player owns reduces the drop chance by around 20%, until five are owned, after which no more effigies can be obtained as a drop, but you are still able to get them from the [Motherlode Maw](https://runescape.wiki/w/Motherlode_Maw).\n\nPlayers may sign up for the <@&443794570791223317> role in the <#465998663710146579> channel of this discord to be notified when these items are in the [Travelling Merchant's Shop](https://runescape.wiki/w/Travelling_Merchant%27s_Shop)."
       }],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -3446,7 +3446,7 @@ exports.data = {
       "value": "The player may choose to self-assign the <@&420028242401951744> role in the <#465998663710146579> channel. This role allows the player to get a notification if someone else runs into a wild Krar Jnr and already owns the pet themselves or doesn't own one and wants to sell it.\n\nIf the player decides to hunt for the pet themselves, it is highly recommended to bring items they can fletch, such as [broad arrows](https://runescape.wiki/w/Broad_arrow#Making_broad_arrows), or [disassemble](https://runescape.wiki/w/Disassemble) to pass the time, as the spawn rate can be rare. It is also highly recommended to make sure there is as few NPCs in the forest as possible, due to an NPC limit within the forest."
     }],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -3476,7 +3476,7 @@ exports.data = {
       }
     ],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -3497,7 +3497,7 @@ exports.data = {
       "value": "• [Solak Guide - All Phases Covered! | Maikeru RS - Youtube](https://www.youtube.com/watch?v=3z9hYZNOr_k)"
     }],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -3523,7 +3523,7 @@ exports.data = {
       }
     ],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -3548,7 +3548,7 @@ exports.data = {
         "value": "Dungeoneering tokens are a reward from the Dungeoneering skill and are used to purchase rewards from the [Rewards trader](https://runescape.wiki/w/Marmaros). Tokens are received for completing a dungeon; no tokens are earned if the dungeon is left early. The amount of tokens a player receives is dependent on the amount of experience gained for completing a floor, in a 10:1 ratio of experience to tokens rounded down.\n\nTokens can also additionally be obtained from:\n\n• [Sinkholes](https://runescape.wiki/w/Sinkholes)\n• [Fremennik Sagas](https://runescape.wiki/w/Fremennik_Sagas)\n• [Dungeoneering token box](https://runescape.wiki/w/Dungeoneering_token_box)\n• Drops from [Kal'gerion demon](https://runescape.wiki/w/Kal%27gerion_demon)\n• [Pickpocketing](https://runescape.wiki/w/Thieving#Pickpocketing) a [Meilyr worker](https://runescape.wiki/w/Meilyr_worker)\n• [Elite Dungeons](https://runescape.wiki/w/Elite_dungeons)"
       }],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -3586,7 +3586,7 @@ exports.data = {
       }
     ],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -3611,7 +3611,7 @@ exports.data = {
       "value": "Dungeoneering tokens are a reward from the Dungeoneering skill and are used to purchase rewards from the [Rewards trader](https://runescape.wiki/w/Marmaros). Tokens are received for completing a dungeon; no tokens are earned if the dungeon is left early. The amount of tokens a player receives is dependent on the amount of experience gained for completing a floor, in a 10:1 ratio of experience to tokens rounded down.\n\nTokens can also additionally be obtained from:\n\n• [Sinkholes](https://runescape.wiki/w/Sinkholes)\n• [Fremennik Sagas](https://runescape.wiki/w/Fremennik_Sagas)\n• [Dungeoneering token box](https://runescape.wiki/w/Dungeoneering_token_box)\n• Drops from [Kal'gerion demon](https://runescape.wiki/w/Kal%27gerion_demon)\n• [Pickpocketing](https://runescape.wiki/w/Thieving#Pickpocketing) a [Meilyr worker](https://runescape.wiki/w/Meilyr_worker)\n• [Elite Dungeons](https://runescape.wiki/w/Elite_dungeons)"
     }],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -3646,7 +3646,7 @@ exports.data = {
       }
     ],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     }
   },
@@ -3671,7 +3671,7 @@ exports.data = {
       }
     ],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -3692,7 +3692,7 @@ exports.data = {
       "value": "• A [Co-op slayer](https://runescape.wiki/w/Slayer#Social_Slayer) partner"
     }],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -3718,7 +3718,7 @@ exports.data = {
       }
     ],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -3739,7 +3739,7 @@ exports.data = {
       "value": "The [Alt1 Toolkit Clue scroll solver](https://runeapps.org/clue) Web site and/or downloadable application makes clues into a quick task by helping with all types of puzzles, locations, and coordinates. You can read Jagex's stance on the Alt1 Toolkit [here](https://www.reddit.com/r/runescape/comments/3ootg2/alt1_toolkit_guide/cw0ijyk/)."
     }],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -3765,7 +3765,7 @@ exports.data = {
       }
     ],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -3790,7 +3790,7 @@ exports.data = {
       "value": "• [How to get First Age Prayer Outfit FAST! | puretppc - Youtube](https://www.youtube.com/watch?v=IMdf3h8VTDw)"
     }],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -3815,7 +3815,7 @@ exports.data = {
       "value": "• King of the Dwarves Quest completion [Runescape Wiki](https://runescape.wiki/w/King_of_the_Dwarves)"
     }],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -3845,7 +3845,7 @@ exports.data = {
       }
     ],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -3871,7 +3871,7 @@ exports.data = {
       }
     ],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -3897,7 +3897,7 @@ exports.data = {
       }
     ],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -3923,7 +3923,7 @@ exports.data = {
       }
     ],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -3944,7 +3944,7 @@ exports.data = {
       "value": "Every time money is thrown into the whirlpool, it shows the progress towards the next title unlock. This progress will stay the same until more money is thrown in.\n\nMake sure to have enough coins ready to throw into the whirlpool to get the desired title. Players may join the friend's chat '**_whirlpooldnd_** ' and wait for the whirlpool event to spawn. Once you've found the whirlpool, deposit the required amount into the whirlpool and the respective title will be unlocked.\n\nFor the Billionaire title, it's advised to have multiple stacks of 2,147,483,647 coins ready. This is the maximum amount of coins a player can have in a single pile. Therefore, it's required to own two max cash stacks and an additional 705,032,706 coins to obtain The Billionaire title from a single whirlpool event.\n\nIt is however not required to throw in the full amount of coins into a single whirlpool spawn, and can be spread over multiple spawns."
     }],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"

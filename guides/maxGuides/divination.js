@@ -7,7 +7,7 @@ exports.data = {
 			},
 		"description": "{{output}}",
 		"footer": {
-			"icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+			"icon_url": "https://i.imgur.com/aPzdbY3.jpg",
 			"text": "Achievement Help | Helping you reach your goals, whatever they may be!"
 		}
 	},
@@ -19,7 +19,7 @@ exports.data = {
 		},
 		"description": "{{output}}",
 		"footer": {
-			"icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+			"icon_url": "https://i.imgur.com/aPzdbY3.jpg",
 			"text": "Achievement Help | Helping you reach your goals, whatever they may be!"
 		}
 	},
@@ -29,7 +29,7 @@ exports.data = {
     "url": "https://runescape.wiki/w/Divination_training#Pale_wisps_.28levels_1.E2.80.9310.29",
     "color": 12269891,
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Divination"
     },
     "thumbnail": {
@@ -46,7 +46,7 @@ exports.data = {
     "url": "https://runescape.wiki/w/Divination_training#Flickering_wisps_.28levels_10.E2.80.9320.29",
     "color": 12269891,
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Divination"
     },
     "thumbnail": {
@@ -63,7 +63,7 @@ exports.data = {
     "url": "https://runescape.wiki/w/Divination_training#Bright_wisps_.28levels_20.E2.80.9330.29",
     "color": 12269891,
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Divination"
     },
     "thumbnail": {
@@ -80,7 +80,7 @@ exports.data = {
     "url": "https://runescape.wiki/w/Divination_training#Bright_wisps_.28levels_20.E2.80.9330.29",
     "color": 12269891,
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Divination"
     },
     "thumbnail": {
@@ -97,7 +97,7 @@ exports.data = {
     "url": "https://runescape.wiki/w/Divination_training#Sparkling_wisps_.28levels_40.E2.80.9350.29",
     "color": 12269891,
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Divination"
     },
     "thumbnail": {
@@ -114,7 +114,7 @@ exports.data = {
     "url": "https://runescape.wiki/w/Divination_training#Gleaming_wisps_.28levels_50.E2.80.9360.29",
     "color": 12269891,
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Divination"
     },
     "thumbnail": {
@@ -131,7 +131,7 @@ exports.data = {
     "url": "https://runescape.wiki/w/Divination_training#Vibrant_wisps_.28levels_60.E2.80.9365.29",
     "color": 12269891,
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Divination"
     },
     "thumbnail": {
@@ -158,7 +158,7 @@ exports.data = {
     "description": "From level 70, players can train at the [Lustrous Wisp](https://runescape.wiki/w/Lustrous_wisp) Colony, which is located just east of the [Slayer Tower](https://runescape.wiki/w/Slayer_Tower).\n\nWhen buying additional [lustrous energy](https://runescape.wiki/w/Lustrous_energy), players can gain around 66,000 experience an hour from training at sparkling wisps, or 54,000 experience an hour if not buying additional energy.",
         "color": 12269891,
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Divination"
     },
     "thumbnail": {
@@ -189,7 +189,7 @@ exports.data = {
     "url": "https://runescape.wiki/w/Divination_training#Brilliant_wisps_.28levels_80.E2.80.9385.29",
     "color": 12269891,
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Divination"
     },
     "thumbnail": {
@@ -206,7 +206,7 @@ exports.data = {
     "url": "https://runescape.wiki/w/Divination_training#Radiant_wisps_.28levels_85.E2.80.9390.29",
     "color": 12269891,
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Divination"
     },
     "thumbnail": {
@@ -223,7 +223,7 @@ exports.data = {
     "description": "From level 85, players can train at the [Luminous Wisp Colony](https://runescape.wiki/w/Luminous_wisp), which is located in the [Kharidian Desert](https://runescape.wikia.com/wiki/Kharidian_Desert), south of [Sophanem](https://runescape.wiki/w/Sophanem).\n\nWhen buying additional [luminous energy](https://runescape.wiki/w/Luminous_energy), players can gain around 83,000 experience an hour from training at sparkling wisps, or 71,000 experience an hour if not buying additional energy.",
         "color": 12269891,
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Divination"
     },
     "thumbnail": {
@@ -250,7 +250,7 @@ exports.data = {
     "description": "At level 95 Divination, players who have access to [Uncharted Isles](https://runescape.wiki/w/Uncharted_Isles) in [The Arc](https://runescape.wiki/w/The_Arc) can train on [ancestral energy](https://runescape.wiki/w/Ancestral_energy). Players have a chance in finding [Dead Moai](https://runescape.wiki/w/Dead_moai) on the Uncharted Isle, which will leaking ancestral energy that can be collected. The energy is collected but no memories are produced or deposited, meaning all the experience comes directly from the gathering. With this in mind, no energy must be purchased or gathered to increase the experience per hour. This method gives approximately 107,000 experience per hour without the aid of any boosts.\n\nThe experience from harvesting ancestral energy can further be bolstered by completing [contracts](https://runescape.wiki/w/Contract) given by [Sojobo (contracts)](https://runescape.wiki/w/The_Tengu) on [Waiko](https://runescape.wiki/w/Waiko) or via a [contract contact](https://runescape.wiki/w/Contract_contact) on an Uncharted Isle. Divination contracts for ancestral energy give up to about 35,000 experience when handed in, though they tend to average about 24,000 experience each.",
         "color": 12269891,
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Divination"
     },
     "thumbnail": {
@@ -281,7 +281,7 @@ exports.data = {
     "description": "Some users may wish to utilize methods outside of the ones displayed in this channel's guide. To aid in this, the following alternative methods are provided.",
         "color": 12269891,
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Divination"
     },
     "thumbnail": {
@@ -320,7 +320,7 @@ exports.data = {
     "url": "https://runescape.wiki/w/Willow_(pet)",
     "color": 12269891,
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Divination"
     },
     "thumbnail": {
@@ -355,7 +355,7 @@ exports.data = {
     "description": "Currently, a total of 229,837 experience may be gained specifically to Divination throughout all of the RuneScape Quests. These rewards are automatically given and there is no choice involved. You can also receive150,000 bonus experience for completing the Mahjarrat Memories miniquest.",
         "color": 12269891,
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Divination"
     },
     "thumbnail": {
@@ -378,7 +378,7 @@ exports.data = {
     "description": "D&Ds are a subclassification of [minigames](https://runescape.wiki/w/Minigames). However, unlike minigames, many D&Ds move around the world to various locations, have a limit on how often they can be played, and only occur at particular times of day.\n\nDistractions and Diversions aim to divert the original intentions of the player in order to provide an interesting distraction from their everyday routines. D&Ds come in many different shapes and sizes; covering Combat, Gathering, Artisan, and Support skills. There are a wide variety of different options available to suit the players choice.", 
     "color": 12269891, 
     "footer": { 
-    "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg", 
+    "icon_url": "https://i.imgur.com/aPzdbY3.jpg", 
     "text": "Achievement Help | Divination" 
     }, 
     "thumbnail": { 
@@ -417,7 +417,7 @@ exports.data = {
     "description": "Completing a daily challenge in Divination will give Divination experience. The amount of experience depends on the player's Divination level.",
         "color": 12269891,
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Divination"
     },
     "thumbnail": {
@@ -440,7 +440,7 @@ exports.data = {
     "description": "A permanent skill boost is anything caused by an item that permanently raises a player's level or ability in one or more skills. It allows the player to do things above their current level or ability.",
         "color": 12269891,
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Divination"
     },
     "thumbnail": {
@@ -491,7 +491,7 @@ exports.data = {
     "description": "A temporary skill boost is anything caused by an item, [Summoning familiar](https://runescape.wiki/w/Summoning_familiars), or action that temporarily raises a player's level or ability in one or more skills. It allows the player to do things above their current level or ability.",
         "color": 12269891,
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Divination"
     },
     "thumbnail": {

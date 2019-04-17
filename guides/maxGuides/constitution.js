@@ -7,7 +7,7 @@ exports.data = {
       },
     "description": "{{output}}",
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     }
   },
@@ -19,7 +19,7 @@ exports.data = {
     },
     "description": "{{output}}",
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     }
   },
@@ -29,7 +29,7 @@ exports.data = {
     "url": "https://runescape.wiki/w/Pay-to-play_Constitution_training",
     "color": 12269891,
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "thumbnail": {
@@ -52,7 +52,7 @@ exports.data = {
     "description": "[Abilities](https://runescape.wiki/w/Abilities) are a set of combat commands for Attack, Strength, Defence, Constitution, Ranged, and Magic.\n\nAbilities form the basis of combat following the [Evolution of Combat](https://runescape.wiki/w/Evolution_of_Combat), though they cannot be used when in [Legacy Mode](https://runescape.wiki/w/Legacy_Mode) combat. Each skill has a menu of abilities, found in the [Powers](https://runescape.wiki/w/Interface#Powers) menu, which can be dragged outside as part of an interface setup.",
         "color": 12269891,
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "thumbnail": {
@@ -75,7 +75,7 @@ exports.data = {
     "description": "Some users may wish to utilize methods outside of the ones displayed in this channel's guide. To aid in this, the following alternative methods are provided.",
         "color": 12269891,
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "thumbnail": {
@@ -109,7 +109,7 @@ exports.data = {
     "url": "https://runescape.wiki/w/Morty_pet",
     "color": 12269891,
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "thumbnail": {
@@ -144,7 +144,7 @@ exports.data = {
     "description": "Currently, a total of 293,312 - 308,312, depending on the choice made in [Monkey Madness](https://runescape.wiki/w/Monkey_Madness), experience may be gained specifically to Constitution throughout all of the RuneScape Quests. These rewards are automatically given and there is no choice involved.",
         "color": 12269891,
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "thumbnail": {
@@ -167,7 +167,7 @@ exports.data = {
 "description": "D&Ds are a subclassification of [minigames](https://runescape.wiki/w/Minigames). However, unlike minigames, many D&Ds move around the world to various locations, have a limit on how often they can be played, and only occur at particular times of day.\n\nDistractions and Diversions aim to divert the original intentions of the player in order to provide an interesting distraction from their everyday routines. D&Ds come in many different shapes and sizes; covering Combat, Gathering, Artisan, and Support skills. There are a wide variety of different options available to suit the players choice.", 
 "color": 12269891, 
 "footer": { 
-"icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg", 
+"icon_url": "https://i.imgur.com/aPzdbY3.jpg", 
 "text": "Achievement Help | Helping you reach your goals, whatever they may be!" 
 }, 
 "thumbnail": { 
@@ -190,7 +190,7 @@ exports.data = {
     "description": "Completing a daily challenge for Combat will give experience depending on the player's levels. A lamp will be given upon completion and a player can choose between the six combat skills in which to receive experience.\n\nPlayers can be assigned challenges below their combat level. The challenge will consist of killing creatures of a certain combat level or the [Barrows Brothers](https://runescape.wiki/w/Barrows), [Giant Mole](https://runescape.wiki/w/Giant_mole), or [God Wars Dungeon](https://runescape.wiki/w/God_Wars_Dungeon) generals or mobs. Look for more appropriate monsters from the [Bestiary](https://runescape.wiki/w/Bestiary). Dungeoneering can also be used for rampage challenges.",
         "color": 12269891,
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "thumbnail": {
@@ -213,7 +213,7 @@ exports.data = {
     "description": "A permanent skill boost is anything caused by an item that permanently raises a player's level or ability in one or more skills. It allows the player to do things above their current level or ability.",
         "color": 12269891,
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "thumbnail": {
@@ -278,7 +278,7 @@ exports.data = {
     "description": "A temporary skill boost is anything caused by an item, [Summoning familiar](https://runescape.wiki/w/Summoning_familiars), or action that temporarily raises a player's level or ability in one or more skills. It allows the player to do things above their current level or ability.",
         "color": 12269891,
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "thumbnail": {

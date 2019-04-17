@@ -36,7 +36,7 @@ exports.data = {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/3/3d/RuneScape_3_Logo.png/revision/latest?cb=20140317195258"
     },
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
@@ -87,7 +87,7 @@ exports.data = {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/3/3d/RuneScape_3_Logo.png/revision/latest?cb=20140317195258"
     },
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {

@@ -7,7 +7,7 @@ exports.data = {
       },
     "description": "{{output}}",
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     }
   },
@@ -19,7 +19,7 @@ exports.data = {
     },
     "description": "{{output}}",
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     }
   },
@@ -29,7 +29,7 @@ exports.data = {
     "description": "It is recommended to complete the [Rune Mysteries](https://runescape.wiki/w/Rune_Mysteries) and [Rune Memories](https://runescape.wiki/w/Rune_Memories) quests, as well as the [Abyss miniquest](https://runescape.wiki/w/Abyss_%28miniquest%29). This gives 1,550 experience in total, enough to elevate a player from level 1 to level 11. It also unlocks the [Abyss area](https://runescape.wiki/w/Abyss) and [Runecrafting pouches](https://runescape.wiki/w/Runecrafting_pouches).",
     "color": 12269891,
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "thumbnail": {
@@ -52,7 +52,7 @@ exports.data = {
     "description": "At level 11, players should use [Runespan](https://runescape.wiki/w/Runespan) to level further. Siphon [nodes](https://runescape.wiki/w/Runespan#Nodes) and [creatures](https://runescape.wiki/w/Runespan#Creatures) in the lower level of Runespan (prioritising them in the specified order, if possible):\n• [Fleshy growth](https://runescape.wiki/w/Fleshy_growth) (level 20+)\n• [Fireball](https://runescape.wiki/w/Fireball) (level 14+)\n• [Vine](https://runescape.wiki/w/Vine) (level 17+) \n• [Rock fragment](https://runescape.wiki/w/Rock_fragment) (level 9+)\n• [Water pool](https://runescape.wiki/w/Water_pool) (level 5+)\n• [Cyclone](https://runescape.wiki/w/Cyclone) and [Mind storm](https://runescape.wiki/w/Mind_storm) (level 1+).\n• Any creature (varied levels).",
     "color": 12269891,
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "thumbnail": {
@@ -69,7 +69,7 @@ exports.data = {
     "description": "If the player completed the [Lost City quest](https://runescape.wiki/w/Lost_City) and the [Abyss miniquest](https://runescape.wiki/w/Abyss_%28miniquest%29), along with at least level 50 in [Agility](https://runescape.wiki/w/Agility), [Thieving](https://runescape.wiki/w/Thieving), [Mining](https://runescape.wiki/w/Mining), [Woodcutting](https://runescape.wiki/w/Woodcutting) and [Firemaking](https://runescape.wiki/w/Firemaking), they may begin crafting [Cosmic runes](https://runescape.wiki/w/Cosmic_rune) through the [Abyss](https://runescape.wiki/w/Abyss).\n\nKeep in mind that while the Abyss itself is a non-Wilderness area, travelling there requires talking to the [Mage of Zamorak](https://runescape.wiki/w/Mage_of_Zamorak) located in low-level [Wilderness](https://runescape.wiki/w/Wilderness), which is a PvP area. You may still be attacked by other players on the way to the Mage of Zamorak. Additionally, as soon as you enter the Abyss, you will be [skulled](https://runescape.wiki/w/Skull_%28status%29) (and drop all items on death as a result) and have your prayer points drained (preventing the use of the [Protect Item](https://runescape.wiki/w/Protect_Item) prayer).\n__**Do not bring anything you can't afford to lose.**__\n\nAssuming 55 trips between the Edgeville bank and the [Cosmic altar](https://runescape.wiki/w/Cosmic_Altar) per hour and the usage of small and medium [runecrafting pouches](https://runescape.wiki/w/Runecrafting_pouches), this gives around 38,500 (53,900 with [Demonic skull](https://runescape.wiki/w/Demonic_skull)) experience per hour.",
     "color": 12269891,
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "thumbnail": {
@@ -97,7 +97,7 @@ exports.data = {
     "description": "If the player has at least level 50 in the following skills [Agility](https://runescape.wiki/w/Agility), [Thieving](https://runescape.wiki/w/Thieving), [Mining](https://runescape.wiki/w/Mining), [Woodcutting](https://runescape.wiki/w/Woodcutting) and [Firemaking](https://runescape.wiki/w/Firemaking), they should craft Nature runes through the [Abyss](https://runescape.wiki/w/Abyss).\n\nKeep in mind that while the Abyss itself is a non-Wilderness area, travelling there requires talking to the [Mage of Zamorak](https://runescape.wiki/w/Mage_of_Zamorak) located in low-level [Wilderness](https://runescape.wiki/w/Wilderness), which is a PvP area. You may still be attacked by other players on the way to the Mage of Zamorak. Additionally, as soon as you enter the Abyss, you will be [skulled](https://runescape.wiki/w/Skull_%28status%29) (and drop all items on death as a result) and have your prayer points drained (preventing the use of the [Protect Item](https://runescape.wiki/w/Protect_Item) prayer).\n__**Do not bring anything you can't afford to lose.**__\n\nAssuming 55 trips between the Edgeville bank and the [Nature altar](https://runescape.wiki/w/Nature_Altar) per hour and the usage of small and medium [runecrafting pouches](https://runescape.wiki/w/Runecrafting_pouches), this gives around 43,300 (60,600 with [Demonic skull](https://runescape.wiki/w/Demonic_skull)) experience per hour.\nThis is further increased to about 53,200 (74,500 with Demonic skull) experience per hour with the additional usage of the [Large pouch](https://runescape.wiki/w/Large_pouch) at level 50+ Runecrafting.",
     "color": 12269891,
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "thumbnail": {
@@ -124,7 +124,7 @@ exports.data = {
     "description": "If the player has completed the [Mourning End's Part II](http://oldschoolrunescape.wikia.com/wiki/Mourning%27s_Ends_Part_II) quest and has level 50 in at least three of either Agility, Thieving, Mining, Woodcutting and Firemaking, they should craft Death runes through the Abyss.\n\nKeep in mind that while the Abyss itself is a non-Wilderness area, travelling there requires talking to the [Mage of Zamorak](https://runescape.wiki/w/Mage_of_Zamorak) located in low-level [Wilderness](https://runescape.wiki/w/Wilderness), which is a PvP area. You may still be attacked by other players on the way to the Mage of Zamorak. Additionally, as soon as you enter the Abyss, you will be [skulled](https://runescape.wiki/w/Skull_%28status%29) (and drop all items on death as a result) and have your prayer points drained (preventing the use of the [Protect Item](https://runescape.wiki/w/Protect_Item) prayer).\n__**Do not bring anything you can't afford to lose.**__\n\nAssuming 55 trips between the Edgeville bank and the [Death altar](https://runescape.wiki/w/Death_Altar) per hour and the usage of small, medium and large [runecrafting pouches](https://runescape.wiki/w/Runecrafting_pouches), this gives around 59,100 (82,800 with [Demonic skull](https://runescape.wiki/w/Demonic_skull)) experience per hour.\nThis is further increased to about 74,300 (104,000 with Demonic skull) experience per hour with the additional usage of the [Giant pouch](https://runescape.wiki/w/Giant_pouch) at level 75+ Runecrafting.",
     "color": 12269891,
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "thumbnail": {
@@ -155,7 +155,7 @@ exports.data = {
     "description": "After the completion of [Legacy of Seergaze](https://runescape.wiki/w/Legacy_of_Seergaze) quest, players should craft Blood runes through the [Abyss](https://runescape.wiki/w/Abyss).\n\nKeep in mind that while the Abyss itself is a non-Wilderness area, travelling there requires talking to the [Mage of Zamorak](https://runescape.wiki/w/Mage_of_Zamorak) located in low-level [Wilderness](https://runescape.wiki/w/Wilderness), which is a PvP area. You may still be attacked by other players on the way to the Mage of Zamorak. Additionally, as soon as you enter the Abyss, you will be [skulled](https://runescape.wiki/w/Skull_%28status%29) (and drop all items on death as a result) and have your prayer points drained (preventing the use of the [Protect Item](https://runescape.wiki/w/Protect_Item) prayer).\n__**Do not bring anything you can't afford to lose.**__\n\nAssuming 55 trips between the Edgeville bank and the Blood altar per hour and the usage of small, medium, large and giant runecrafting pouches, this gives about 78,000 (109,000 with Demonic skull) experience per hour.",
     "color": 12269891,
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "thumbnail": {
@@ -182,7 +182,7 @@ exports.data = {
     "description": "If the player has completed the ['Phite Club](https://runescape.wiki/w/%27Phite_Club) quest and unlocked the Soul altar by using a [Soul talisman](https://runescape.wiki/w/Soul_talisman) on the fountain in the [Imperial district](https://runescape.wiki/w/Imperial_district) of Menaphos, they should craft Soul runes.\n\nSoul runecrafting is different from ordinary Runecrafting.\nThe altar's runic energy cannot be immediately siphoned into the pure essence - instead, the altar must first be charged with pure essence by putting pure essence into the charger, then generating the charges; four essence will generate one charge, giving 10 Runecrafting experience and taking six seconds to create. 1.25 charges can be used to create one soul rune, meaning it takes 5 essence to make one rune, giving 220 experience per charge. The charger has a capacity of 100 essence, after which they must be converted into charges; the altar can hold up to 100 charges, after which they must be crafted into runes - giving up to 22,000 experience (in normal circumstances).\n\nThis method revolves around utilising the Abyss experience boost, increasing the experience per craft from 22,000 to 55,000 (77,000 using the [Demonic skull](https://runescape.wiki/w/Demonic_skull)). Usage of the Demonic skull and other Runecrafting boosts is **highly** recommended for optimal results.",
     "color": 12269891,
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "thumbnail": {
@@ -221,7 +221,7 @@ exports.data = {
     "description": "Some users may wish to utilize methods outside of the ones displayed in this channel's guide. To aid in this, the following alternative methods are provided.",
         "color": 12269891,
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "thumbnail": {
@@ -269,7 +269,7 @@ exports.data = {
     "url": "https://runescape.wiki/w/Runespan",
     "color": 12269891,
     "footer":{
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "thumbnail": {
@@ -308,7 +308,7 @@ exports.data = {
     "url": "https://runescape.wiki/w/Dojo_Mojo",
     "color": 12269891,
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "thumbnail": {
@@ -343,7 +343,7 @@ exports.data = {
     "description": "Currently, a total of 108,400 experience may be gained specifically to Runecrafting throughout all of the RuneScape quests. These rewards are automatically given and there is no choice involved.",
         "color": 12269891,
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "thumbnail": {
@@ -366,7 +366,7 @@ exports.data = {
 "description": "D&Ds are a subclassification of minigames. However, unlike minigames many D&Ds move around the world to various locations, have a limit on how often they can be played, and only occur at particular times of day.\n\nDistractions and Diversions aim to divert the original intentions of the player in order to provide an interesting distraction from their everyday routines. D&Ds come in many different shapes and sizes; covering Combat, Gathering, Artisan, and Support skills. There are a wide variety of different options available to suit the players choice.", 
 "color": 12269891, 
 "footer": { 
-"icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg", 
+"icon_url": "https://i.imgur.com/aPzdbY3.jpg", 
 "text": "Achievement Help | Helping you reach your goals, whatever they may be!" 
 }, 
 "thumbnail": { 
@@ -409,7 +409,7 @@ exports.data = {
     "description": "Completing a daily challenge in Runecrafting will give Runecrafting experience, depending on the player's Runecrafting level.",
         "color": 12269891,
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "thumbnail": {
@@ -477,7 +477,7 @@ exports.data = {
        }
     ],
     "footer": { 
-    "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg", 
+    "icon_url": "https://i.imgur.com/aPzdbY3.jpg", 
     "text": "Achievement Help | Helping you reach your goals, whatever they may be!" 
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -488,7 +488,7 @@ exports.data = {
     "description": "A temporary skill boost is anything caused by an item, Summoning familiar, or action that temporarily raises a player's level in one or more skills. It allows the player to do things above their current level.",
         "color": 12269891,
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "thumbnail": {

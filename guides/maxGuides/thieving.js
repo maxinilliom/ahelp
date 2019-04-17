@@ -7,7 +7,7 @@ exports.data = {
       },
     "description": "{{output}}",
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     }
   },
@@ -19,7 +19,7 @@ exports.data = {
     },
     "description": "{{output}}",
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     }
   },
@@ -29,7 +29,7 @@ exports.data = {
     "url": "https://runescape.wiki/w/Pompous_merchant",
     "color": 12269891,
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "thumbnail": {
@@ -46,7 +46,7 @@ exports.data = {
     "url": "https://runescape.wiki/w/Bakery_stall",
     "color": 12269891,
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "thumbnail": {
@@ -63,7 +63,7 @@ exports.data = {
     "url": "https://runescape.wiki/w/Thieves%27_Guild#Practice_Chest_Area",
     "color": 12269891,
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "thumbnail": {
@@ -80,7 +80,7 @@ exports.data = {
     "url": "https://runescape.wiki/w/Thieves%27_Guild/Training#Blackjacking",
     "color": 13118778,
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "thumbnail": {
@@ -107,7 +107,7 @@ exports.data = {
     "url": "https://runescape.wiki/w/Safecracking",
     "color": 12269891,
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your agoals, whatever they may be!"
     },
     "thumbnail": {
@@ -127,7 +127,7 @@ exports.data = {
     "url": "https://runescape.wiki/w/Safecracking",
     "color": 12269891,
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your agoals, whatever they may be!"
     },
     "thumbnail": {
@@ -147,7 +147,7 @@ exports.data = {
     "url": "https://runescape.wiki/w/Safecracking",
     "color": 12269891,
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your agoals, whatever they may be!"
     },
     "thumbnail": {
@@ -181,7 +181,7 @@ exports.data = {
     "description": "Some users may wish to utilize methods outside of the ones displayed in this channel's guide. To aid in this, the following alternative methods are provided.",
         "color": 12269891,
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "thumbnail": {
@@ -229,7 +229,7 @@ exports.data = {
     "url": "https://runescape.wiki/w/Ralph",
     "color": 12269891,
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "thumbnail": {
@@ -264,7 +264,7 @@ exports.data = {
     "description": "Currently, a total of 610,787 experience may be gained specifically to thieving throughout all of the RuneScape Quests. These rewards are automatically given and there is no choice involved.",
         "color": 12269891,
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "thumbnail": {
@@ -332,7 +332,7 @@ exports.data = {
     }
     ],
     "footer": { 
-    "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg", 
+    "icon_url": "https://i.imgur.com/aPzdbY3.jpg", 
     "text": "Achievement Help | Helping you reach your goals, whatever they may be!" 
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -343,7 +343,7 @@ exports.data = {
     "description": "Completing a daily challenge in Thieving will give Thieving experience, depending on the player's Thieving level.",
         "color": 12269891,
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "thumbnail": {
@@ -423,7 +423,7 @@ exports.data = {
         }
     ],
     "footer": { 
-    "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg", 
+    "icon_url": "https://i.imgur.com/aPzdbY3.jpg", 
     "text": "Achievement Help | Helping you reach your goals, whatever they may be!" 
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -434,7 +434,7 @@ exports.data = {
     "description": "A temporary skill boost is anything caused by an item, Summoning familiar, or action that temporarily raises a player's level in one or more skills. It allows the player to do things above their current level.",
         "color": 12269891,
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "thumbnail": {

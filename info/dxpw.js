@@ -21,7 +21,7 @@ exports.data = {
       "url": "https://i.imgur.com/srP1pM6.png"
     },
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
@@ -65,7 +65,7 @@ exports.data = {
       "url": "https://i.imgur.com/gwpYsWu.png"
     },
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
@@ -109,7 +109,7 @@ exports.data = {
       "url": "https://i.imgur.com/1mEzhB1.png"
     },
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
@@ -153,7 +153,7 @@ exports.data = {
       "url": "https://i.imgur.com/yh5fD3j.png"
     },
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
@@ -197,7 +197,7 @@ exports.data = {
       "url": "https://i.imgur.com/KHb9eOf.png"
     },
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
@@ -241,7 +241,7 @@ exports.data = {
       "url": "https://i.imgur.com/HwJUxAa.png"
     },
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
@@ -285,7 +285,7 @@ exports.data = {
       "url": "https://i.imgur.com/zYxUeSD.png"
     },
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
@@ -341,7 +341,7 @@ exports.data = {
       "url": "https://i.imgur.com/ElfPGQC.png"
     },
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
@@ -385,7 +385,7 @@ exports.data = {
       "url": "https://i.imgur.com/BNANPYA.png"
     },
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
@@ -429,7 +429,7 @@ exports.data = {
       "url": "https://i.imgur.com/0rtK7uL.png"
     },
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
@@ -473,7 +473,7 @@ exports.data = {
       "url": "https://i.imgur.com/HhLQMc0.png"
     },
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
@@ -517,7 +517,7 @@ exports.data = {
       "url": "https://i.imgur.com/H9dO8mR.png"
     },
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
@@ -561,7 +561,7 @@ exports.data = {
       "url": "https://i.imgur.com/6TXnmAF.png"
     },
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
@@ -605,7 +605,7 @@ exports.data = {
       "url": "https://i.imgur.com/RGJHDBT.png"
     },
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
@@ -649,7 +649,7 @@ exports.data = {
       "url": "https://i.imgur.com/rbucU6y.png"
     },
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
@@ -693,7 +693,7 @@ exports.data = {
       "url": "https://i.imgur.com/Wq4Y0T4.png"
     },
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
@@ -737,7 +737,7 @@ exports.data = {
       "url": "https://i.imgur.com/iOUr5uV.png"
     },
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
@@ -781,7 +781,7 @@ exports.data = {
       "url": "https://i.imgur.com/6VXKcwk.png"
     },
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
@@ -825,7 +825,7 @@ exports.data = {
       "url": "https://i.imgur.com/HBi7Czz.png"
     },
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
@@ -869,7 +869,7 @@ exports.data = {
       "url": "https://i.imgur.com/3eIUB5K.png"
     },
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
@@ -913,7 +913,7 @@ exports.data = {
       "url": "https://i.imgur.com/kaiaImZ.png"
     },
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
@@ -957,7 +957,7 @@ exports.data = {
       "url": "https://i.imgur.com/TCeBHKL.png"
     },
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
@@ -1001,7 +1001,7 @@ exports.data = {
       "url": "https://i.imgur.com/mUJOyXX.png"
     },
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
@@ -1045,7 +1045,7 @@ exports.data = {
       "url": "https://i.imgur.com/6R7nOpZ.png"
     },
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
@@ -1089,7 +1089,7 @@ exports.data = {
       "url": "https://i.imgur.com/my5cDbl.png"
     },
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
@@ -1133,7 +1133,7 @@ exports.data = {
       "url": "https://i.imgur.com/aI7zn8u.png"
     },
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
@@ -1177,7 +1177,7 @@ exports.data = {
       "url": "https://i.imgur.com/FrBPOyS.png"
     },
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {

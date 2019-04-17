@@ -7,7 +7,7 @@ exports.data = {
       },
     "description": "{{output}}",
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     }
   },
@@ -19,7 +19,7 @@ exports.data = {
     },
     "description": "{{output}}",
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     }
   },
@@ -29,7 +29,7 @@ exports.data = {
     "url": "https://runescape.wiki/w/Pay-to-play_Dungeoneering_training#Optimising_floors",
     "color": 12269891,
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "thumbnail": {
@@ -72,7 +72,7 @@ exports.data = {
             "url": "https://runescape.wiki/w/Pay-to-play_Dungeoneering_training#Optimising_floors",
         "color": 12269891,
             "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
         "thumbnail": {
@@ -89,7 +89,7 @@ exports.data = {
             "url": "https://runescape.wiki/w/Pay-to-play_Dungeoneering_training#Optimising_floors",
         "color": 12269891,
             "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
       "thumbnail": {
@@ -106,7 +106,7 @@ exports.data = {
     "url": "https://runescape.wiki/w/Pay-to-play_Dungeoneering_training#Optimising_floors",
     "color": 12269891,
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
       "thumbnail": {
@@ -123,7 +123,7 @@ exports.data = {
     "description": "At level 95, players should [rush](https://runescape.wiki/w/Dungeoneering/Rushing) through all lower floors, including [Abandoned 2](https://runescape.wiki/w/Dungeoneering_floors#Abandoned_2_floors), which will be floors 1-35. Complete [Occult](https://runescape.wiki/w/Dungeoneering_floors#Occult_floors_.28m.29) and [Warped]( https://runescape.wiki/w/Dungeoneering_floors#Warped_floors_.28m.29) floors with the floor size set to large, on [complexity](https://runescape.wiki/w/Complexity) 6, and with a team. (floors 36-60). \n\n[Prestige](https://runescape.wiki/w/Prestige) your progress every time you complete every floor available to you at your current level, repeating until you have achieved your level or experience goal.\n\n**Note:** The official world to train Dungeoneering is world 77. As Dungeoneering can be trained in every world, players who want to train solo or already have partners to train with should choose a world in which they have the best connection.\n\nFor Achievement Help members interested in finding partners or groups for Dungeoneering training, you can self-assign the role **Dungeoneering Team** in the <#465998663710146579> channel.",
     "color": 12269891,
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
       "thumbnail": {
@@ -146,7 +146,7 @@ exports.data = {
     "description": "Some users may wish to utilize methods outside of the ones displayed in this channel's guide. To aid in this, the following alternative methods are provided.",
         "color": 12269891,
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "thumbnail": {
@@ -181,7 +181,7 @@ exports.data = {
     "url": "https://runescape.wiki/w/Gordie",
     "color": 12269891,
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "thumbnail": {
@@ -216,7 +216,7 @@ exports.data = {
     "description": "Currently, a total of 106,000 experience may be gained specifically to Dungeoneering throughout all of the RuneScape Quests. These rewards are automatically given and there is no choice involved.",
         "color": 12269891,
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "thumbnail": {
@@ -239,7 +239,7 @@ exports.data = {
 "description": "D&Ds are a subclassification of [minigames](https://runescape.wiki/w/Minigames). However, unlike minigames, many D&Ds move around the world to various locations, have a limit on how often they can be played, and only occur at particular times of day.\n\nDistractions and Diversions aim to divert the original intentions of the player in order to provide an interesting distraction from their everyday routines. D&Ds come in many different shapes and sizes; covering Combat, Gathering, Artisan, and Support skills. There are a wide variety of different options available to suit the players choice.",
 "color": 12269891,
 "footer": {
-"icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+"icon_url": "https://i.imgur.com/aPzdbY3.jpg",
 "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
 },
 "thumbnail": {
@@ -274,7 +274,7 @@ exports.data = {
     "url": "https://runescape.wiki/w/Challenge_System/Dungeoneering",
     "color": 12269891,
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
      "thumbnail": {
@@ -348,7 +348,7 @@ exports.data = {
       }
     ],
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -359,7 +359,7 @@ exports.data = {
     "description": "A temporary skill boost is anything caused by an item, [Summoning familiar](https://runescape.wiki/w/Summoning_familiars), or action that temporarily raises a player's level or ability in one or more skills. It allows the player to do things above their current level or ability.",
         "color": 12269891,
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "thumbnail": {

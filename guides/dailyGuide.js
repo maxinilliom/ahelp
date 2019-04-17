@@ -7,7 +7,7 @@ exports.data = {
       },
       "description": "{{output}}",
       "footer": {
-        "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+        "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
         "text": "Achievement Help"
       }
   },
@@ -19,7 +19,7 @@ exports.data = {
       },
       "description": "{{output}}",
       "footer": {
-        "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+        "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
         "text": "Achievement Help"
       }
   },
@@ -48,7 +48,7 @@ exports.data = {
         }
     ],
     "footer": {
-        "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+        "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
         "text": "AHelp | Designed by Son and AHelpers"
     }
   },
@@ -58,7 +58,7 @@ exports.data = {
     "url": "https://runescape.wiki/w/Ancient_bones",
     "color": 12269891,
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "thumbnail": {
@@ -93,7 +93,7 @@ exports.data = {
     "url": "https://runescape.wiki/w/Bakriminel_bolts",
     "color": 12269891,
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "thumbnail": {
@@ -123,7 +123,7 @@ exports.data = {
     "description": "[Broad Arrowheads](https://runescape.wiki/w/Broad_arrowheads) can be purchased only after the completion of the [Smoking Kills](https://runescape.wiki/w/Smoking_Kills) quest from [Slayer Shops](https://runescape.wiki/w/Slayer_Equipment).\n\nA total of 9,000 arrowheads can be purchased daily. 3,000 come from [Turael](https://runescape.wiki/w/Turael) **or** [Spria](https://runescape.wiki/w/Spria), who they share the same stock. The next 3,000 can come from any other [Slayer Master](https://runescape.wiki/w/Slayer_Master). The remaining 3,000 can be purchased from [Noterazzo](https://runescape.wiki/w/Noterazzo), found in the [Wilderness Bandit Camp](https://runescape.wiki/w/Bandit_Camp_(Wilderness).",
     "url": "https://runescape.wiki/w/Money_making_guide/Buying_broad_arrowheads",
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "thumbnail": {
@@ -145,7 +145,7 @@ exports.data = {
     "description": "[Coeden](https://runescape.wiki/w/Coeden) is an [Ent](https://runescape.wiki/w/Ent) found in the [Crwys Clan](https://runescape.wiki/w/Crwys_Clan) district of [Prifddinas](https://runescape.wiki/w/Prifddinas), sitting on a rock inside a greenhouse that also contains some [choking ivy](https://runescape.wiki/w/Choking_ivy) for woodcutting. After completing the [Tirannwn Tasks](https://runescape.wiki/w/Tirannwn_Tasks), players can persuade Coeden each day to give a random combination of 28 [elder](https://runescape.wiki/w/Elder_logs), [magic](https://runescape.wiki/w/Magic_logs) and [yew logs](https://runescape.wiki/w/Yew_logs).",
     "url": "https://runescape.wiki/w/Coeden#Persuading",
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "thumbnail": {
@@ -167,7 +167,7 @@ exports.data = {
     "description": "[Crystal Flasks](https://runescape.wiki/w/Crystal_flask) require the completion of the [Plague's End](https://runescape.wiki/w/Plague%27s_End) quest. They can be made from [Crystal-flecked Sandstone](https://runescape.wiki/w/Crystal-flecked_sandstone).\n\n50 sandstone can be mined daily in the [Ithell District](https://runescape.wiki/w/Ithell_Clan) of [Prifddinas](https://runescape.wiki/w/Prifddinas), and an additional 25 in the [Edimmu Resource Dungeon](https://runescape.wiki/w/Edimmu_resource_dungeon) in the [Meilyr Clan](https://runescape.wiki/w/Meilyr_Clan) district of Prifddinas, requiring 115 Dungeoneering to enter.\n\nTo operate the [robust glass machine](https://runescape.wiki/w/Robust_glass_machine) and convert the Crystal-flecked Sandstone into [crystal glass](https://runescape.wiki/w/Crystal_glass), the player must have completed the [As a First Resort](https://runescape.wiki/w/As_a_First_Resort) quest.",
     "url": "https://runescape.wiki/w/Crystal_flask",
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "thumbnail": {
@@ -190,7 +190,7 @@ exports.data = {
     "url": "https://runescape.wiki/w/Money_making_guide/Buying_feathers",
     "color": 12269891,
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "thumbnail": {
@@ -212,7 +212,7 @@ exports.data = {
     "description": "Every day, 1,000 [feathers of Ma'at](https://runescape.wiki/w/Feather_of_Ma%27at) can be bought for 1,500 [coins](https://runescape.wiki/w/Coins) each from the [Menaphite guard](https://runescape.wiki/w/Menaphite_guard_(Sophanem_Slayer_Dungeon) outside the [Sophanem Slayer Dungeon](https://runescape.wiki/w/Sophanem_Slayer_Dungeon) in south-west [Sophanem](https://runescape.wiki/w/Sophanem). The player will have needed to complete the [Icthlarin's Little Helper](https://runescape.wiki/w/Icthlarin%27s_Little_Helper) and [The Jack of Spades](https://runescape.wiki/w/The_Jack_of_Spades) quests in order to use this method.",
     "url": "https://runescape.wiki/w/Money_making_guide/Buying_feathers_of_Ma%27at",
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "thumbnail": {
@@ -234,7 +234,7 @@ exports.data = {
     "description": "[Potion Flasks](https://runescape.wiki/w/Potion_flask) can be made from [Red Sandstone](https://runescape.wiki/w/Red_sandstone).\n\n50 sandstone can be mined daily north of [Oo'glog](https://runescape.wiki/w/Oo%27glog), and an additional 25 east of [Sophanem](https://runescape.wiki/w/Sophanem) after the completion of the [Elite Desert Tasks](https://runescape.wiki/w/Desert_achievements).\n\nTo operate the [robust glass machine](https://runescape.wiki/w/Robust_glass_machine) and convert the Red Sandstone into [robust glass](https://runescape.wiki/w/Robust_glass), the player must have completed the [As a First Resort](https://runescape.wiki/w/As_a_First_Resort) quest.",
     "url": "https://runescape.wiki/w/Money_making_guide/Making_potion_flasks",
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "thumbnail": {
@@ -256,7 +256,7 @@ exports.data = {
     "description": "Runes can be purchased from [Magic Shops](https://runescape.wiki/w/Magic_shops) throughout [Gielinor](https://runescape.wiki/w/Gielinor) daily. Players should only be purchasing runes that can yield profit. For a chart that's up to date on profit, click [here](https://runescape.wiki/w/Calculator:Other/Runes_from_shops).",
     "url": "https://runescape.wiki/w/Money_making_guide/Buying_runes",
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "thumbnail": {
@@ -278,7 +278,7 @@ exports.data = {
     "description": "A Soul Reaper, also known as Boss Slayer or Reaper Task, involves the player helping [Death](https://runescape.wiki/w/Death) harvest the souls of various [boss monsters](https://runescape.wiki/w/Boss_monsters), as, in Death's words, there is an imbalance in the harmony of life and death — specifically, there is too much life. It requires level 50 combat to start. Death tasks players with \"reaping\" various boss monsters in special assignments, which reward Slayer experience and [reaper points](https://runescape.wiki/w/Reaper_points) that can be spent on a number of things, including [hydrix gems](https://runescape.wiki/w/Hydrix).\n\nTo start the activity, a player must visit [Death's office](https://runescape.wiki/w/Death%27s_office) via a portal next to the [Draynor Village](https://runescape.wiki/w/Draynor_Village) [lodestone](https://runescape.wiki/w/Lodestone), and then speak to Death. He gives players a [grim gem](https://runescape.wiki/w/Grim_gem) and assigns them their first task. A task may be rerolled up to 5 times per day, but doing so diminishes the point rewards by 25% for each re-roll, excluding the first re-roll.\n\nA task can be canceled for free if the player does not complete the task by 00:00 UTC, if they go to Death. If this is done via the grim gem, it will act as if you are speaking to Death from the last time you interacted with him in terms of your reward percentage, regardless of how much time has lapsed in between.\n\nOne task can be obtained for free daily. The only way to get more than one task a day is by purchasing the \"Additional Tasks\" from the [rewards shop](https://runescape.wiki/w/Soul_Reaper#Rewards), which costs 250 [Slayer Points](https://runescape.wiki/w/Slayer_points) to get a new task. When buying a new task, players will get the option re-roll up to 5 times, just like at daily reset.",
     "url": "https://runescape.wiki/w/Soul_Reaper",
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "thumbnail": {
@@ -300,7 +300,7 @@ exports.data = {
     "description": "The [Rune Goldberg Machine](https://runescape.wiki/w/Rune_Goldberg_Machine) is a [Distraction and Diversion](https://runescape.wiki/w/Distractions_and_Diversions) that involves turning [Runes](https://runescape.wiki/w/Runes) into [Vis Wax](https://runescape.wiki/w/Vis_wax).\n\nThe machine is located in the [Runecrafting Guild](https://runescape.wiki/w/Runecrafting_Guild), which is located south of [Draynor Village](https://runescape.wiki/w/Draynor_Village). It's required to have at least level 50 Runecrafting in order to enter the guild.\n\nEach of the three slots has a **best** rune, which changes daily. The first slot is the same for every player. The second slot is one of three possible runes (varies from player to player). The third slot is randomly assigned and unique to each player. Using the [Runecrafting Cape](https://runescape.wiki/w/Runecrafting_cape) is the best way to know your own unique third slot.",
     "url": "https://runescape.wiki/w/Rune_Goldberg_Machine",
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "thumbnail": {
@@ -322,7 +322,7 @@ exports.data = {
     "description": "After completing either the Medium, Hard, or Elite [Desert Tasks](https://runescape.wiki/w/Desert_Tasks), the [Weird Old Man](https://runescape.wiki/w/Weird_Old_Man) can be talked to once a day to claim 20 (medium), 30 (hard), or 40 (elite) noted [potato cactus](https://runescape.wiki/w/Potato_cactus).",
     "url": "https://runescape.wiki/w/Money_making_guide/Claiming_potato_cacti_from_the_Weird_Old_Man",
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "thumbnail": {
@@ -344,7 +344,7 @@ exports.data = {
     "description": "After completing the hard [Ardougne Tasks](https://runescape.wiki/w/Ardougne_Tasks), [Wizard Cromperty](https://runescape.wiki/w/Wizard_Cromperty) will give you 150 [pure essence](https://runescape.wiki/w/Pure_essence) every day, resetting at 00:00 UTC.",
     "url": "https://runescape.wiki/w/Money_making_guide/Claiming_pure_essence_from_Wizard_Cromperty",
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "thumbnail": {
@@ -366,7 +366,7 @@ exports.data = {
     "description": "[Yak-hide](https://runescape.wiki/w/Yak-hide) can be purchased after the completion of [The Fremennik Isles](https://runescape.wiki/w/The_Fremennik_Isles) quest. 1,000 hides can be bought daily from [Vanligga Gastfrihet](https://runescape.wiki/w/Vanligga_Gastfrihet) in [Jatizso](https://runescape.wiki/w/Jatizso). ",
     "url": "https://runescape.wiki/w/Money_making_guide/Buying_yak-hide",
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     },
     "thumbnail": {

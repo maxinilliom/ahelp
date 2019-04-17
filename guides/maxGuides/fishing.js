@@ -7,7 +7,7 @@ exports.data = {
       },
     "description": "{{output}}",
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     }
   },
@@ -19,7 +19,7 @@ exports.data = {
     },
     "description": "{{output}}",
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     }
   },
@@ -29,7 +29,7 @@ exports.data = {
       "url":"https://runescape.wiki/w/Pay-to-play_Fishing_training#Levels_1-20:_crayfish",
       "color":12269891,
       "footer":{  
-         "icon_url":"https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+         "icon_url":"https://i.imgur.com/aPzdbY3.jpg",
          "text":"Achievement Help | Helping you reach your goals, whatever they may be!"
       },
       "thumbnail":{  
@@ -101,7 +101,7 @@ exports.data = {
          }
     ],
     "footer": { 
-    "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg", 
+    "icon_url": "https://i.imgur.com/aPzdbY3.jpg", 
     "text": "Achievement Help | Helping you reach your goals, whatever they may be!" 
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -161,7 +161,7 @@ exports.data = {
          }
     ],
     "footer": { 
-    "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg", 
+    "icon_url": "https://i.imgur.com/aPzdbY3.jpg", 
     "text": "Achievement Help | Helping you reach your goals, whatever they may be!" 
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -172,7 +172,7 @@ exports.data = {
       "url":"https://runescape.wiki/w/Pay-to-play_Fishing_training#Levels_93-94:_Prifddinas_waterfall_fishing",
       "color":12269891,
       "footer":{  
-         "icon_url":"https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+         "icon_url":"https://i.imgur.com/aPzdbY3.jpg",
          "text":"Achievement Help | Helping you reach your goals, whatever they may be!"
       },
       "thumbnail":{  
@@ -260,7 +260,7 @@ exports.data = {
       }
     ],
     "footer": { 
-    "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg", 
+    "icon_url": "https://i.imgur.com/aPzdbY3.jpg", 
     "text": "Achievement Help | Helping you reach your goals, whatever they may be!" 
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -316,7 +316,7 @@ exports.data = {
          }
     ],
     "footer": { 
-    "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg", 
+    "icon_url": "https://i.imgur.com/aPzdbY3.jpg", 
     "text": "Achievement Help | Helping you reach your goals, whatever they may be!" 
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -327,7 +327,7 @@ exports.data = {
       "url":"https://runescape.wiki/w/Bubbles",
       "color":12269891,
       "footer":{  
-         "icon_url":"https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+         "icon_url":"https://i.imgur.com/aPzdbY3.jpg",
          "text":"Achievement Help | Helping you reach your goals, whatever they may be!"
       },
       "thumbnail":{  
@@ -362,7 +362,7 @@ exports.data = {
       "url":"https://runescape.wiki/w/Quests/Experience_rewards#Fishing",
       "color":12269891,
       "footer":{  
-         "icon_url":"https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+         "icon_url":"https://i.imgur.com/aPzdbY3.jpg",
          "text":"Achievement Help | Helping you reach your goals, whatever they may be!"
       },
       "thumbnail":{  
@@ -434,7 +434,7 @@ exports.data = {
          }
     ],
     "footer": { 
-    "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg", 
+    "icon_url": "https://i.imgur.com/aPzdbY3.jpg", 
     "text": "Achievement Help | Helping you reach your goals, whatever they may be!" 
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -445,7 +445,7 @@ exports.data = {
       "url":"https://runescape.wiki/w/Challenge_System/Fishing",
       "color":12269891,
       "footer":{  
-         "icon_url":"https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+         "icon_url":"https://i.imgur.com/aPzdbY3.jpg",
          "text":"Achievement Help | Helping you reach your goals, whatever they may be!"
       },
       "thumbnail":{  
@@ -519,7 +519,7 @@ exports.data = {
          }
     ],
     "footer": { 
-    "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg", 
+    "icon_url": "https://i.imgur.com/aPzdbY3.jpg", 
     "text": "Achievement Help | Helping you reach your goals, whatever they may be!" 
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -643,7 +643,7 @@ exports.data = {
          }
     ],
     "footer": { 
-    "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg", 
+    "icon_url": "https://i.imgur.com/aPzdbY3.jpg", 
     "text": "Achievement Help | Helping you reach your goals, whatever they may be!" 
     },
     "timestamp": "2001-01-04T12:00:00Z"

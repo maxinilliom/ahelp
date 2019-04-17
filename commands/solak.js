@@ -7,8 +7,8 @@ exports.run = async (client, message, args, level) => {
     },
     "color": 13480569,
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
-      "text": "Achievement Help | Connecting our Helpful Communities!"
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
+      "text": "Achievement Help | All first time reaper kills are free in #reaper-request-list!"
     },
     "author": {
       "name": "Solak Reaper Kills",

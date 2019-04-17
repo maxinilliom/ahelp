@@ -74,7 +74,7 @@ exports.data = {
                 }
             ],
            "footer": {
-               "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+               "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
                "text": "Achievement Help | Helping you gain Thaler easily!"
             }
         },

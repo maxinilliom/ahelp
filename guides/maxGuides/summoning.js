@@ -7,7 +7,7 @@ exports.data = {
       },
     "description": "{{output}}",
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     }
   },
@@ -19,7 +19,7 @@ exports.data = {
     },
     "description": "{{output}}",
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     }
   },
@@ -29,7 +29,7 @@ exports.data = {
       "url":"https://runescape.wiki/w/Summoning_training#Which_pouches_to_make",
       "color":12269891,
       "footer":{  
-         "icon_url":"https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+         "icon_url":"https://i.imgur.com/aPzdbY3.jpg",
          "text":"Achievement Help | Helping you reach your goals, whatever they may be!"
       },
       "thumbnail":{  
@@ -46,7 +46,7 @@ exports.data = {
       "url":"https://runescape.wiki/w/Summoning_training#Which_pouches_to_make",
       "color":12269891,
       "footer":{  
-         "icon_url":"https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+         "icon_url":"https://i.imgur.com/aPzdbY3.jpg",
          "text":"Achievement Help | Helping you reach your goals, whatever they may be!"
       },
       "thumbnail":{  
@@ -73,7 +73,7 @@ exports.data = {
       "url":"https://runescape.wiki/w/Summoning_training#Which_pouches_to_make",
       "color":12269891,
       "footer":{  
-         "icon_url":"https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+         "icon_url":"https://i.imgur.com/aPzdbY3.jpg",
          "text":"Achievement Help | Helping you reach your goals, whatever they may be!"
       },
       "thumbnail":{  
@@ -108,7 +108,7 @@ exports.data = {
       "url":"https://runescape.wiki/w/Summoning_training#Which_pouches_to_make",
       "color":12269891,
       "footer":{  
-         "icon_url":"https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+         "icon_url":"https://i.imgur.com/aPzdbY3.jpg",
          "text":"Achievement Help | Helping you reach your goals, whatever they may be!"
       },
       "thumbnail":{  
@@ -143,7 +143,7 @@ exports.data = {
       "url":"https://runescape.wiki/w/Summoning_training#Which_pouches_to_make",
       "color":12269891,
       "footer":{  
-         "icon_url":"https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+         "icon_url":"https://i.imgur.com/aPzdbY3.jpg",
          "text":"Achievement Help | Helping you reach your goals, whatever they may be!"
       },
       "thumbnail":{  
@@ -186,7 +186,7 @@ exports.data = {
       "url":"https://runescape.wiki/w/Summoning_training#Which_pouches_to_make",
       "color":12269891,
       "footer":{  
-         "icon_url":"https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+         "icon_url":"https://i.imgur.com/aPzdbY3.jpg",
          "text":"Achievement Help | Helping you reach your goals, whatever they may be!"
       },
       "thumbnail":{  
@@ -237,7 +237,7 @@ exports.data = {
       "url":"https://runescape.wiki/w/Summoning_training#Which_pouches_to_make",
       "color":12269891,
       "footer":{  
-         "icon_url":"https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+         "icon_url":"https://i.imgur.com/aPzdbY3.jpg",
          "text":"Achievement Help | Helping you reach your goals, whatever they may be!"
       },
       "thumbnail":{  
@@ -288,7 +288,7 @@ exports.data = {
       "url":"https://runescape.wiki/w/Summoning_training#Which_pouches_to_make",
       "color":12269891,
       "footer":{  
-         "icon_url":"https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+         "icon_url":"https://i.imgur.com/aPzdbY3.jpg",
          "text":"Achievement Help | Helping you reach your goals, whatever they may be!"
       },
       "thumbnail":{  
@@ -347,7 +347,7 @@ exports.data = {
       "url":"https://runescape.wiki/w/Summoning_training#Which_pouches_to_make",
       "color":12269891,
       "footer":{  
-         "icon_url":"https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+         "icon_url":"https://i.imgur.com/aPzdbY3.jpg",
          "text":"Achievement Help | Helping you reach your goals, whatever they may be!"
       },
       "thumbnail":{  
@@ -390,7 +390,7 @@ exports.data = {
       "url":"https://runescape.wiki/w/Summoning_training#Which_pouches_to_make",
       "color":12269891,
       "footer":{  
-         "icon_url":"https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+         "icon_url":"https://i.imgur.com/aPzdbY3.jpg",
          "text":"Achievement Help | Helping you reach your goals, whatever they may be!"
       },
       "thumbnail":{  
@@ -457,7 +457,7 @@ exports.data = {
       "url":"https://runescape.wiki/w/Summoning_training#Which_pouches_to_make",
       "color":12269891,
       "footer":{  
-         "icon_url":"https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+         "icon_url":"https://i.imgur.com/aPzdbY3.jpg",
          "text":"Achievement Help | Helping you reach your goals, whatever they may be!"
       },
       "thumbnail":{  
@@ -516,7 +516,7 @@ exports.data = {
       "url":"https://runescape.wiki/w/Summoning_training#Which_pouches_to_make",
       "color":12269891,
       "footer":{  
-         "icon_url":"https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+         "icon_url":"https://i.imgur.com/aPzdbY3.jpg",
          "text":"Achievement Help | Helping you reach your goals, whatever they may be!"
       },
       "thumbnail":{  
@@ -575,7 +575,7 @@ exports.data = {
       "url":"https://runescape.wiki/w/Summoning_training#Which_pouches_to_make",
       "color":12269891,
       "footer":{  
-         "icon_url":"https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+         "icon_url":"https://i.imgur.com/aPzdbY3.jpg",
          "text":"Achievement Help | Helping you reach your goals, whatever they may be!"
       },
       "thumbnail":{  
@@ -646,7 +646,7 @@ exports.data = {
       "url":"https://runescape.wiki/w/Summoning_training#Alternative_methods_of_gaining_experience",
       "color":12269891,
       "footer":{  
-         "icon_url":"https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+         "icon_url":"https://i.imgur.com/aPzdbY3.jpg",
          "text":"Achievement Help | Helping you reach your goals, whatever they may be!"
       },
       "thumbnail":{  
@@ -677,7 +677,7 @@ exports.data = {
       "url":"https://runescape.wiki/w/Shamini",
       "color":12269891,
       "footer":{  
-         "icon_url":"https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+         "icon_url":"https://i.imgur.com/aPzdbY3.jpg",
          "text":"Achievement Help | Helping you reach your goals, whatever they may be!"
       },
       "thumbnail":{  
@@ -712,7 +712,7 @@ exports.data = {
       "url":"https://runescape.wiki/w/Quests/Experience_rewards#Summoning",
       "color":12269891,
       "footer":{  
-         "icon_url":"https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+         "icon_url":"https://i.imgur.com/aPzdbY3.jpg",
          "text":"Achievement Help | Helping you reach your goals, whatever they may be!"
       },
       "thumbnail":{  
@@ -735,7 +735,7 @@ exports.data = {
       "url":"https://runescape.wiki/w/Distractions_and_Diversions",
       "color":12269891,
       "footer":{  
-         "icon_url":"https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+         "icon_url":"https://i.imgur.com/aPzdbY3.jpg",
          "text":"Achievement Help | Helping you reach your goals, whatever they may be!"
       },
       "thumbnail":{  
@@ -778,7 +778,7 @@ exports.data = {
       "url":"https://runescape.wiki/w/Challenge_System/Summoning",
       "color":12269891,
       "footer":{  
-         "icon_url":"https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+         "icon_url":"https://i.imgur.com/aPzdbY3.jpg",
          "text":"Achievement Help | Helping you reach your goals, whatever they may be!"
       },
       "thumbnail":{  
@@ -795,7 +795,7 @@ exports.data = {
       "url":"https://runescape.wiki/w/Bonus_experience_items",
       "color":12269891,
       "footer":{  
-         "icon_url":"https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+         "icon_url":"https://i.imgur.com/aPzdbY3.jpg",
          "text":"Achievement Help | Helping you reach your goals, whatever they may be!"
       },
       "thumbnail":{  
@@ -826,7 +826,7 @@ exports.data = {
       "url":"https://runescape.wiki/w/Temporary_skill_boost",
       "color":12269891,
       "footer":{  
-         "icon_url":"https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+         "icon_url":"https://i.imgur.com/aPzdbY3.jpg",
          "text":"Achievement Help | Helping you reach your goals, whatever they may be!"
       },
       "thumbnail":{  

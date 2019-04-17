@@ -7,7 +7,7 @@ exports.data = {
       },
     "description": "{{output}}",
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     }
   },
@@ -19,7 +19,7 @@ exports.data = {
     },
     "description": "{{output}}",
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Helping you reach your goals, whatever they may be!"
     }
   },
@@ -103,7 +103,7 @@ exports.data = {
         }
     ],
     "footer": { 
-    "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg", 
+    "icon_url": "https://i.imgur.com/aPzdbY3.jpg", 
     "text": "Achievement Help | Helping you reach your goals, whatever they may be!" 
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -180,7 +180,7 @@ exports.data = {
          }
     ],
     "footer": { 
-    "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg", 
+    "icon_url": "https://i.imgur.com/aPzdbY3.jpg", 
     "text": "Achievement Help | Helping you reach your goals, whatever they may be!" 
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -191,7 +191,7 @@ exports.data = {
       "url":"https://runescape.wiki/w/Ghostly",
       "color":12269891,
       "footer":{  
-         "icon_url":"https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+         "icon_url":"https://i.imgur.com/aPzdbY3.jpg",
          "text":"Achievement Help | Helping you reach your goals, whatever they may be!"
       },
       "thumbnail":{  
@@ -226,7 +226,7 @@ exports.data = {
       "url":"https://runescape.wiki/w/Quests/Experience_rewards#Prayer",
       "color":12269891,
       "footer":{  
-         "icon_url":"https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+         "icon_url":"https://i.imgur.com/aPzdbY3.jpg",
          "text":"Achievement Help | Helping you reach your goals, whatever they may be!"
       },
       "thumbnail":{  
@@ -294,7 +294,7 @@ exports.data = {
          }
     ],
     "footer": { 
-    "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg", 
+    "icon_url": "https://i.imgur.com/aPzdbY3.jpg", 
     "text": "Achievement Help | Helping you reach your goals, whatever they may be!" 
     },
     "timestamp": "2001-01-04T12:00:00Z"
@@ -305,7 +305,7 @@ exports.data = {
       "url":"https://runescape.wiki/w/Challenge_System/Prayer",
       "color":12269891,
       "footer":{  
-         "icon_url":"https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+         "icon_url":"https://i.imgur.com/aPzdbY3.jpg",
          "text":"Achievement Help | Helping you reach your goals, whatever they may be!"
       },
       "thumbnail":{  
@@ -322,7 +322,7 @@ exports.data = {
       "url":"https://runescape.wiki/w/Bonus_experience_items",
       "color":12269891,
       "footer":{  
-         "icon_url":"https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+         "icon_url":"https://i.imgur.com/aPzdbY3.jpg",
          "text":"Achievement Help | Helping you reach your goals, whatever they may be!"
       },
       "thumbnail":{  
@@ -361,7 +361,7 @@ exports.data = {
       "url":"https://runescape.wiki/w/Temporary_skill_boost",
       "color":12269891,
       "footer":{  
-         "icon_url":"https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+         "icon_url":"https://i.imgur.com/aPzdbY3.jpg",
          "text":"Achievement Help | Helping you reach your goals, whatever they may be!"
       },
       "thumbnail":{  

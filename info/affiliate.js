@@ -48,7 +48,7 @@
       "url": "https://cdn.discordapp.com/icons/485523397179342848/77e1d6cef26416a63c4630488d7bf2fb.webp"
     },
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
@@ -77,7 +77,7 @@
       "url": "https://cdn.discordapp.com/icons/340511685024546816/16d493e625e5d6e6161575beae8eed5d.webp"
     },
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
@@ -102,7 +102,7 @@
       "url": "https://cdn.discordapp.com/icons/508745934134312997/c6ad61d443aa766ee578878f8d334638.webp"
     },
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
@@ -127,7 +127,7 @@
       "url": "https://cdn.discordapp.com/icons/513336502542139397/42c26737a81dacc89ea7e4769010a8e6.webp"
     },
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
@@ -152,7 +152,7 @@
       "url": "https://cdn.discordapp.com/icons/411709369097388034/2bf956f5014633e5627b9a4d9ef59f63.webp"
     },
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
@@ -177,7 +177,7 @@
       "url": "https://cdn.discordapp.com/icons/429016488515600394/536976693011c24bb380f900241f531c.png"
     },
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
@@ -210,7 +210,7 @@
       "url": "https://cdn.discordapp.com/icons/366015778517942283/add489229edb271a7bcf8ea26a256b66.webp"
     },
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
@@ -235,7 +235,7 @@
       "url": "https://cdn.discordapp.com/icons/242076585816096769/40ee225393a58562d959777a8fb77314.webp"
     },
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
@@ -260,7 +260,7 @@
       "url": "https://cdn.discordapp.com/icons/269725566884773892/7f41f5c31464cba1316f9747f95b457d.webp"
     },
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
@@ -304,7 +304,7 @@
     "title": "Altar Community",
     "description":"One of the oldest standing communities that is here for players who seek a little bit of everything. Whether you are looking to get some advice in training skills, battling it out with some friends with PvM or simply chilling out with some like-minded individuals within the community.\n\nThe Altar Community was founded by Altar, Magiq and Warrior with the goal/premise of finding the best way of training the Prayer skill. We teach our community members the best efficient house setups for hosting a gilded altar so that other players on RuneScape can benefit from some spectacular Prayer XP gains!\n\nOur service chats:\nAltar - Friends Chat for Gilded Altar hosting/Guest Clan Chat on RS3\n07 Altar - Clan Chat for Gilded Altar hosting on OSRS",
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "thumbnail": {
@@ -341,7 +341,7 @@
       "url": "https://cdn.discordapp.com/icons/456144506736214046/100ee72fd36938c6b55763df28425221.webp"
     },
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
@@ -370,7 +370,7 @@
       "url": "https://cdn.discordapp.com/icons/420803245758480405/430de7b37243ab74f9ef1d466562cfe7.webp"
     },
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
@@ -399,7 +399,7 @@
       "url": "https://cdn.discordapp.com/icons/433763518697832458/2df99bbb9104de9bf3c59c2c249f23e7.webp"
     },
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
@@ -428,7 +428,7 @@
       "url": "https://cdn.discordapp.com/icons/305765557058273280/5e592e4a0584eb2ffe1201d3e062d684.webp"
     },
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
@@ -461,7 +461,7 @@
       "url": "https://cdn.discordapp.com/icons/486221864671117323/47bb9d3f5e748b4db1777edc05149ef6.webp"
     },
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
@@ -490,7 +490,7 @@
       "url": "https://cdn.discordapp.com/icons/531112549924601856/258eeada27f87d879370583c17b19dfd.webp"
     },
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
@@ -515,7 +515,7 @@
       "url": "https://cdn.discordapp.com/icons/336818736810164235/dec82781bdf8efeda580b9451f75bfc8.webp"
     },
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
@@ -544,7 +544,7 @@
       "url": "https://cdn.discordapp.com/icons/399588802613608459/1c6e1c169b39f4c8fae6f663e8fc28b8.webp"
     },
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
@@ -587,7 +587,7 @@
       "url": "https://cdn.discordapp.com/icons/426143372919701507/c3801fdfd0c3316a50a60d7bde970954.webp"
     },
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
@@ -616,7 +616,7 @@
       "url": "https://cdn.discordapp.com/icons/303641169341054978/e8fa415eafa76912794efb7c987204a4.webp"
     },
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
@@ -645,7 +645,7 @@
       "url": "https://cdn.discordapp.com/icons/332595657363685377/a8eea2d4284f0c86f82364302b164d5f.webp"
     },
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
@@ -674,7 +674,7 @@
       "url": "https://cdn.discordapp.com/icons/264280499034390529/26b8649dde6bf723a4d662dc642d9f99.webp"
     },
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
@@ -703,7 +703,7 @@
       "url": "https://cdn.discordapp.com/icons/296560431416213504/d6d8a90aa0d6de917731f467bb43efad.webp"
     },
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
@@ -732,7 +732,7 @@
       "url": "https://cdn.discordapp.com/icons/133715323240054784/b75a2d08244a464044b21ecc3a50efe3.webp"
     },
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
@@ -761,7 +761,7 @@
       "url": "https://cdn.discordapp.com/icons/388042222710554624/75827107651b163ab4b991f8a236446f.webp"
     },
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
@@ -808,7 +808,7 @@
       "url": "https://cdn.discordapp.com/icons/315710189762248705/72f7d35d73426c2490bd41342d312d04.webp"
     },
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
@@ -833,7 +833,7 @@
       "url": "https://cdn.discordapp.com/icons/290301243140603904/880b5ee22d09f0cf3ed83dafbe1704ab.webp"
     },
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
@@ -862,7 +862,7 @@
       "url": "https://cdn.discordapp.com/icons/183966276706631680/22bae4c56d5ea32d3d7d4b068542d3cf.webp"
     },
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
@@ -887,7 +887,7 @@
       "url": "https://cdn.discordapp.com/icons/520396084351205390/4c68dba18144b2381046569bd4d4e38b.webp"
     },
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
@@ -912,7 +912,7 @@
       "url": "https://cdn.discordapp.com/icons/435851307111415809/70f23765fce03aade890de7bf931c8fc.webp"
     },
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
@@ -941,7 +941,7 @@
       "url": "https://cdn.discordapp.com/icons/324878282463903744/5dc4c57f1155065c63d2d8ca26ab4c8a.webp"
     },
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
@@ -970,7 +970,7 @@
       "url": "https://cdn.discordapp.com/icons/506480622022295572/64a52032234016430077448567c8e37d.webp"
     },
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
@@ -995,7 +995,7 @@
       "url": "https://cdn.discordapp.com/icons/427113689284608002/e84dc704e9a5a887a03bd9411f5bb689.webp"
     },
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
@@ -1020,7 +1020,7 @@
       "url": "https://cdn.discordapp.com/icons/534508796639182860/04dcd0924560eb34a6b1ebc0367e2403.webp"
     },
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
@@ -1045,7 +1045,7 @@
       "url": "https://cdn.discordapp.com/icons/182893014685843457/2789604b94b5e970eaa979c9c4e3b1bd.webp"
     },
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
@@ -1074,7 +1074,7 @@
       "url": "https://cdn.discordapp.com/icons/508332998437896204/b98d05ec172f1899a16e4eb264d1a7e2.webp"
     },
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
@@ -1107,7 +1107,7 @@
       "url": "https://cdn.discordapp.com/icons/492308569908314112/efe0e116415a6767da0c3b4d5795bafe.webp"
     },
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
@@ -1132,7 +1132,7 @@
       "url": "https://cdn.discordapp.com/icons/422634161312890881/35ac0548361770fdd9675d7132a3e35f.webp"
     },
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
@@ -1157,7 +1157,7 @@
       "url": "https://cdn.discordapp.com/icons/493893847772954644/e406d4bf5e7f232a1cc47aa25f7b4a28.webp"
     },
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
@@ -1182,7 +1182,7 @@
       "url": "https://cdn.discordapp.com/icons/368637321823780876/b7a08b2f413fdc92d160b35a4dded14d.webp"
     },
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
@@ -1207,7 +1207,7 @@
       "url": "https://cdn.discordapp.com/icons/440656737079525379/b381c95ca25dbee48a51caf37757275d.webp"
     },
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
@@ -1232,7 +1232,7 @@
       "url": "https://cdn.discordapp.com/icons/386136348651945994/624f5b78dcd1cf0470f7cff3a3310608.webp"
     },
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
@@ -1261,7 +1261,7 @@
       "url": "https://cdn.discordapp.com/icons/429001600523042818/12beb80b3cfba5e82a93d4a7ead7f27d.webp"
     },
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
@@ -1290,7 +1290,7 @@
       "url": "https://cdn.discordapp.com/icons/440187655142113312/20c93132836cba479e8a429e4c3f88b2.webp"
     },
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
@@ -1315,7 +1315,7 @@
       "url": "https://cdn.discordapp.com/icons/274685267703496704/73dc820b952a5888cb394e3c045ad6a2.webp"
     },
     "footer": {
-      "icon_url": "https://cdn.discordapp.com/attachments/297388220231057419/400471386101121024/image.jpg",
+      "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
     "author": {
