@@ -4,7 +4,7 @@
       "description":"All are welcome! We will be teaching how to do the event on Discord if any learners are apprehensive about coming.\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Cabbage_Facepunch_Bonanza).",
       "footer":{  
          "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
-         "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
+         "text":"All events brought to you by the `Alright` clan! (https://alright.page/discord)"
       },
       "thumbnail":{  
          "url":"https://runescape.wiki/images/8/82/Cabbage_Facepunch_Bonanza_icon.png?60c37"
@@ -37,7 +37,7 @@
       "description":"Guests are welcome, but only clan members will be able to use the [Skill plots](https://runescape.wiki/w/Clan_Citadel#Skill_plots).",
       "footer":{  
          "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
-         "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
+         "text":"All events brought to you by the `Alright` clan! (https://alright.page/discord)"
       },
       "thumbnail":{  
          "url":"https://vignette.wikia.nocookie.net/runescape2/images/c/c4/Citadel_night.png/revision/latest?cb=20111119034156"
@@ -70,7 +70,7 @@
       "description":"All are welcome! You can read about the game [here](https://en.wikipedia.org/wiki/Cards_Against_Humanity).",
       "footer":{  
          "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
-         "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
+         "text":"All events brought to you by the `Alright` clan! (https://alright.page/discord)"
       },
       "thumbnail":{  
          "url":"https://www.helpscout.net/images/helpu/2018/apr/cards-against-humanity-scale-service.png"
@@ -107,7 +107,7 @@
       "description":"All are welcome! We will be teaching how to do the event on Discord if any learners are apprehensive about coming.\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Castle_Wars).",
       "footer":{  
          "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
-         "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
+         "text":"All events brought to you by the `Alright` clan! (https://alright.page/discord)"
       },
       "thumbnail":{  
          "url":"https://runescape.wiki/images/4/49/Castle_Wars_icon.jpg?b4023"
@@ -140,7 +140,7 @@
       "description":"All are welcome! \n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Castle_Wars).",
       "footer":{  
          "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
-         "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
+         "text":"All events brought to you by the `Alright` clan! (https://alright.page/discord)"
       },
       "thumbnail":{  
          "url":"https://runescape.wiki/images/4/49/Castle_Wars_icon.jpg?b4023"
@@ -171,7 +171,7 @@
     "clan skilling competition": {  
       "footer":{  
          "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
-         "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
+         "text":"All events brought to you by the `Alright` clan! (https://alright.page/discord)"
       },
       "thumbnail":{  
          "url":"https://runescape.wiki/images/b/bc/XP_Counter_icon.png?91d3a"
@@ -257,7 +257,7 @@
       ],
       "footer":{  
          "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
-         "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
+         "text":"All events brought to you by the `Alright` clan! (https://alright.page/discord)"
       }
     }, 
     "corporeal beast": {  
@@ -265,7 +265,7 @@
       "description":"All are welcome! We will be teaching how to do the boss on Discord if any learners are apprehensive about coming.\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Corporeal_Beast/Strategies) or a video guide [here](https://www.youtube.com/watch?v=lfwu9Owd5kg).",
       "footer":{  
          "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
-         "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
+         "text":"All events brought to you by the `Alright` clan! (https://alright.page/discord)"
       },
       "thumbnail":{  
          "url":"https://runescape.wiki/images/5/5c/Corporeal_Beast.png?36acd"
@@ -302,7 +302,7 @@
       "description":"All are welcome!\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Corporeal_Beast/Strategies) or a video guide [here](https://www.youtube.com/watch?v=lfwu9Owd5kg).",
       "footer":{  
          "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
-         "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
+         "text":"All events brought to you by the `Alright` clan! (https://alright.page/discord)"
       },
       "thumbnail":{  
          "url":"https://runescape.wiki/images/5/5c/Corporeal_Beast.png?36acd"
@@ -339,7 +339,7 @@
       "description":"All are welcome! We will be teaching how to do the event on Discord if any learners are apprehensive about coming.\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Deathmatch).",
       "footer":{  
          "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
-         "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
+         "text":"All events brought to you by the `Alright` clan! (https://alright.page/discord)"
       },
       "thumbnail":{  
          "url":"https://vignette.wikia.nocookie.net/runescape2/images/b/b8/Deathmatch_points.png/revision/latest?cb=20170128230705"
@@ -372,7 +372,7 @@
       "description":"Pull out your best outfits!",
       "footer":{  
          "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
-         "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
+         "text":"All events brought to you by the `Alright` clan! (https://alright.page/discord)"
       },
       "thumbnail":{  
          "url":"https://runescape.wiki/images/archive/1/15/20111119192500%21Dance_emote_icon.png?fcc22"
@@ -409,7 +409,7 @@
       "description":"All are welcome! We will be teaching how to do the event on Discord if any learners are apprehensive about coming.\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Fishing_Trawler).",
       "footer":{  
          "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
-         "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
+         "text":"All events brought to you by the `Alright` clan! (https://alright.page/discord)"
       },
       "thumbnail":{  
          "url":"https://runescape.wiki/images/1/14/Mg_fishingtrawler.jpg?ea413"
@@ -442,7 +442,7 @@
       "description":"All are welcome! \n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Fishing_Trawler).",
       "footer":{  
          "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
-         "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
+         "text":"All events brought to you by the `Alright` clan! (https://alright.page/discord)"
       },
       "thumbnail":{  
          "url":"https://runescape.wiki/images/1/14/Mg_fishingtrawler.jpg?ea413"
@@ -475,7 +475,7 @@
       "description":"All are welcome! \n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Fist_of_Guthix).",
       "footer":{  
          "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
-         "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
+         "text":"All events brought to you by the `Alright` clan! (https://alright.page/discord)"
       },
       "thumbnail":{  
          "url":"https://runescape.wiki/images/1/17/Fist_of_Guthix_icon.jpg?76e9a"
@@ -508,7 +508,7 @@
       "description":"All are welcome! \n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Flash_Powder_Factory).",
       "footer":{  
          "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
-         "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
+         "text":"All events brought to you by the `Alright` clan! (https://alright.page/discord)"
       },
       "thumbnail":{  
          "url":"https://runescape.wiki/images/c/c4/Mg_roguesden.jpg?e8975"
@@ -541,7 +541,7 @@
       "description":"All are welcome! We will be teaching how to do the boss on Discord if any learners are apprehensive about coming.\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/General_Graardor/Strategies) or a video guide [here](https://www.youtube.com/watch?v=CDur0jqFF_8).",
       "footer":{  
          "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
-         "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
+         "text":"All events brought to you by the `Alright` clan! (https://alright.page/discord)"
       },
       "thumbnail":{  
          "url":"https://vignette.wikia.nocookie.net/runescape2/images/b/b8/General_Graardor.png/revision/latest/scale-to-width-down/250?cb=20130501183003"
@@ -578,7 +578,7 @@
       "description":"All are welcome! We will be teaching how to do the boss on Discord if any learners are apprehensive about coming.\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Gregorovic/Strategies) or a video guide [here](https://www.youtube.com/watch?v=-XN3pn12H3s).",
       "footer":{  
          "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
-         "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
+         "text":"All events brought to you by the `Alright` clan! (https://alright.page/discord)"
       },
       "thumbnail":{  
          "url":"https://vignette.wikia.nocookie.net/runescape2/images/7/71/Gregorovic.png/revision/latest?cb=20160402211348"
@@ -615,7 +615,7 @@
       "description":"All are welcome! \n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Gregorovic/Strategies) or a video guide [here](https://www.youtube.com/watch?v=-XN3pn12H3s).",
       "footer":{  
          "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
-         "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
+         "text":"All events brought to you by the `Alright` clan! (https://alright.page/discord)"
       },
       "thumbnail":{  
          "url":"https://vignette.wikia.nocookie.net/runescape2/images/7/71/Gregorovic.png/revision/latest?cb=20160402211348"
@@ -653,7 +653,7 @@
       "description":"All are welcome! We will be listening to players before and during the event to find out which group achievements are most desired by the majority, so be sure to let us know!\n\nYou may prepare for the event by viewing the written guides for all possible achievements in the [Achievement Help](https://www.discord.gg/uUUMPbd) Discord.",
       "footer":{  
          "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
-         "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
+         "text":"All events brought to you by the `Alright` clan! (https://alright.page/discord)"
       },
       "thumbnail":{  
          "url":"https://runescape.wiki/images/7/77/RuneScore.png?9f9cd"
@@ -698,7 +698,7 @@
       "description":"All are welcome! \n\nYou may prepare for the event by viewing the written guides linked below.",
       "footer":{  
          "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
-         "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
+         "text":"All events brought to you by the `Alright` clan! (https://alright.page/discord)"
       },
       "thumbnail":{  
          "url":"https://runescape.wiki/images/7/77/RuneScore.png?9f9cd"
@@ -735,7 +735,7 @@
       "description":"All are welcome! We will be teaching how to do the event on Discord if any learners are apprehensive about coming.\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Heist).",
       "footer":{  
          "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
-         "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
+         "text":"All events brought to you by the `Alright` clan! (https://alright.page/discord)"
       },
       "thumbnail":{  
          "url":"https://runescape.wiki/images/b/be/Heist_game_lobby.png?42d20"
@@ -768,7 +768,7 @@
       "description":"All are welcome! \n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Heist).",
       "footer":{  
          "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
-         "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
+         "text":"All events brought to you by the `Alright` clan! (https://alright.page/discord)"
       },
       "thumbnail":{  
          "url":"https://runescape.wiki/images/b/be/Heist_game_lobby.png?42d20"
@@ -801,7 +801,7 @@
       "description":"All are welcome! We will be teaching how to do the boss on Discord if any learners are apprehensive about coming.\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Helwyr/Strategies) or a video guide [here](https://www.youtube.com/watch?v=5jt0odJqXns).",
       "footer":{  
          "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
-         "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
+         "text":"All events brought to you by the `Alright` clan! (https://alright.page/discord)"
       },
       "thumbnail":{  
          "url":"https://vignette.wikia.nocookie.net/runescape2/images/0/0b/Helwyr.png/revision/latest/scale-to-width-down/200?cb=20160402211237"
@@ -838,7 +838,7 @@
       "description":"All are welcome! \n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Helwyr/Strategies) or a video guide [here](https://www.youtube.com/watch?v=5jt0odJqXns).",
       "footer":{  
          "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
-         "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
+         "text":"All events brought to you by the `Alright` clan! (https://alright.page/discord)"
       },
       "thumbnail":{  
          "url":"https://vignette.wikia.nocookie.net/runescape2/images/0/0b/Helwyr.png/revision/latest/scale-to-width-down/200?cb=20160402211237"
@@ -875,7 +875,7 @@
       "description":"All are welcome!",
       "footer":{  
          "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
-         "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
+         "text":"All events brought to you by the `Alright` clan! (https://alright.page/discord)"
       },
       "thumbnail":{  
          "url":"https://i.kym-cdn.com/photos/images/newsfeed/000/377/980/cd7.png"
@@ -908,7 +908,7 @@
       "description":"All are welcome! We will be teaching how to do the boss on Discord if any learners are apprehensive about coming.\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Kalphite_King/Strategies) or a video guide [here](https://www.youtube.com/watch?v=vgAEnOtkUG4).",
       "footer":{  
          "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
-         "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
+         "text":"All events brought to you by the `Alright` clan! (https://alright.page/discord)"
       },
       "thumbnail":{  
          "url":"https://runescape.wiki/images/9/92/Kalphite_King_%28Magic%29.png?51e9f"
@@ -945,7 +945,7 @@
       "description":"All are welcome! \n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Kalphite_King/Strategies) or a video guide [here](https://www.youtube.com/watch?v=vgAEnOtkUG4).",
       "footer":{  
          "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
-         "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
+         "text":"All events brought to you by the `Alright` clan! (https://alright.page/discord)"
       },
       "thumbnail":{  
          "url":"https://runescape.wiki/images/9/92/Kalphite_King_%28Magic%29.png?51e9f"
@@ -982,7 +982,7 @@
       "description":"All are welcome! \n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Kalphite_King/Strategies) or a video guide [here](https://www.youtube.com/watch?v=vgAEnOtkUG4).",
       "footer":{  
          "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
-         "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
+         "text":"All events brought to you by the `Alright` clan! (https://alright.page/discord)"
       },
       "thumbnail":{  
          "url":"https://runescape.wiki/images/9/92/Kalphite_King_%28Magic%29.png?51e9f"
@@ -1019,7 +1019,7 @@
       "description":"All are welcome! We will be teaching how to do the event on Discord if any learners are apprehensive about coming.\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Mega_Duck).",
       "footer":{  
          "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
-         "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
+         "text":"All events brought to you by the `Alright` clan! (https://alright.page/discord)"
       },
       "thumbnail":{  
          "url":"https://vignette.wikia.nocookie.net/runescape2/images/a/a5/Mega_Duck.png/revision/latest?cb=20140501141126"
@@ -1056,7 +1056,7 @@
       "description":"All are welcome! We will be teaching how to do the boss on Discord if any learners are apprehensive about coming.\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Nex/Strategies) or a video guide [here](https://www.youtube.com/watch?v=U7q-M0ecODA).",
       "footer":{  
          "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
-         "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
+         "text":"All events brought to you by the `Alright` clan! (https://alright.page/discord)"
       },
       "thumbnail":{  
          "url":"https://vignette.wikia.nocookie.net/runescape2/images/f/fe/Nex.png/revision/latest?cb=20170203034912"
@@ -1097,7 +1097,7 @@
       "description":"All are welcome! \n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Nex/Strategies) or a video guide [here](https://www.youtube.com/watch?v=U7q-M0ecODA).",
       "footer":{  
          "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
-         "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
+         "text":"All events brought to you by the `Alright` clan! (https://alright.page/discord)"
       },
       "thumbnail":{  
          "url":"https://vignette.wikia.nocookie.net/runescape2/images/f/fe/Nex.png/revision/latest?cb=20170203034912"
@@ -1138,7 +1138,7 @@
       "description":"All are welcome!\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Nex/Strategies) or a video guide [here](https://www.youtube.com/watch?v=U7q-M0ecODA).",
       "footer":{  
          "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
-         "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
+         "text":"All events brought to you by the `Alright` clan! (https://alright.page/discord)"
       },
       "thumbnail":{  
          "url":"https://vignette.wikia.nocookie.net/runescape2/images/f/fe/Nex.png/revision/latest?cb=20170203034912"
@@ -1179,7 +1179,7 @@
       "description":"All are welcome! We will be teaching how to do the boss on Discord if any learners are apprehensive about coming.\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Nex:_Angel_of_Death/Strategies) or a video guide [here](https://www.youtube.com/watch?v=Yrh93pIPNzk).",
       "footer":{  
          "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
-         "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
+         "text":"All events brought to you by the `Alright` clan! (https://alright.page/discord)"
       },
       "thumbnail":{  
          "url":"https://vignette.wikia.nocookie.net/runescape2/images/2/2b/Nex_%28Angel_of_Death%29.png/revision/latest?cb=20170130192323"
@@ -1220,7 +1220,7 @@
       "description":"All are welcome!\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Nex:_Angel_of_Death/Strategies) or a video guide [here](https://www.youtube.com/watch?v=Yrh93pIPNzk).",
       "footer":{  
          "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
-         "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
+         "text":"All events brought to you by the `Alright` clan! (https://alright.page/discord)"
       },
       "thumbnail":{  
          "url":"https://vignette.wikia.nocookie.net/runescape2/images/2/2b/Nex_%28Angel_of_Death%29.png/revision/latest?cb=20170130192323"
@@ -1261,7 +1261,7 @@
       "description":"All are welcome!\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Nex:_Angel_of_Death/Strategies) or a video guide [here](https://www.youtube.com/watch?v=Yrh93pIPNzk).",
       "footer":{  
          "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
-         "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
+         "text":"All events brought to you by the `Alright` clan! (https://alright.page/discord)"
       },
       "thumbnail":{  
          "url":"https://vignette.wikia.nocookie.net/runescape2/images/2/2b/Nex_%28Angel_of_Death%29.png/revision/latest?cb=20170130192323"
@@ -1302,7 +1302,7 @@
       "description":"All are welcome! \n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Nex:_Angel_of_Death/Strategies) or a video guide [here](https://www.youtube.com/watch?v=Yrh93pIPNzk).",
       "footer":{  
          "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
-         "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
+         "text":"All events brought to you by the `Alright` clan! (https://alright.page/discord)"
       },
       "thumbnail":{  
          "url":"https://vignette.wikia.nocookie.net/runescape2/images/2/2b/Nex_%28Angel_of_Death%29.png/revision/latest?cb=20170130192323"
@@ -1343,7 +1343,7 @@
       "description":"All are welcome!\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Penguin_Hide_and_Seek).",
       "footer":{  
          "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
-         "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
+         "text":"All events brought to you by the `Alright` clan! (https://alright.page/discord)"
       },
       "thumbnail":{  
          "url":"https://vignette.wikia.nocookie.net/runescape2/images/b/ba/Penguin_crate.png/revision/latest?cb=20170721074540"
@@ -1376,7 +1376,7 @@
       "description":"All are welcome!\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Pest_Control).",
       "footer":{  
          "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
-         "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
+         "text":"All events brought to you by the `Alright` clan! (https://alright.page/discord)"
       },
       "thumbnail":{  
          "url":"https://runescape.wiki/images/thumb/e/e0/Brawler_%28Level_53%29.png/468px-Brawler_%28Level_53%29.png?a4a71"
@@ -1409,7 +1409,7 @@
       "description":"All are welcome!\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Pest_Control).",
       "footer":{  
          "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
-         "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
+         "text":"All events brought to you by the `Alright` clan! (https://alright.page/discord)"
       },
       "thumbnail":{  
          "url":"https://runescape.wiki/images/thumb/e/e0/Brawler_%28Level_53%29.png/468px-Brawler_%28Level_53%29.png?a4a71"
@@ -1442,7 +1442,7 @@
       "description":"Clan Members and Honored Guests may signup in the [Alright](https://discord.gg/KwysmXr) Clan's Discord by December 3rd if they wish to participate.",
       "footer":{  
          "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
-         "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
+         "text":"All events brought to you by the `Alright` clan! (https://alright.page/discord)"
       },
       "thumbnail":{  
          "url":"https://runescape.wiki/images/8/86/Santa_head.png?7ab41"
@@ -1475,7 +1475,7 @@
       "description":"All are welcome!",
       "footer":{  
          "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
-         "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
+         "text":"All events brought to you by the `Alright` clan! (https://alright.page/discord)"
       },
       "thumbnail":{  
          "url":"https://vignette.wikia.nocookie.net/runescape2/images/5/5a/Beer_detail.png/revision/latest?cb=20180911203419"
@@ -1508,7 +1508,7 @@
       "description":"All are welcome! We will be teaching how to do the event on Discord if any learners are apprehensive about coming.\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Soul_Wars).",
       "footer":{  
          "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
-         "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
+         "text":"All events brought to you by the `Alright` clan! (https://alright.page/discord)"
       },
       "thumbnail":{  
          "url":"https://vignette.wikia.nocookie.net/runescape2/images/b/b4/Avatar_of_Creation.png/revision/latest?cb=20100807183550"
@@ -1541,7 +1541,7 @@
       "description":"All are welcome! \n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Soul_Wars).",
       "footer":{  
          "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
-         "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
+         "text":"All events brought to you by the `Alright` clan! (https://alright.page/discord)"
       },
       "thumbnail":{  
          "url":"https://vignette.wikia.nocookie.net/runescape2/images/b/b4/Avatar_of_Creation.png/revision/latest?cb=20100807183550"
@@ -1574,7 +1574,7 @@
       "description":"All are welcome! We will be teaching how to do the event on Discord if any learners are apprehensive about coming.\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Stealing_Creation).",
       "footer":{  
          "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
-         "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
+         "text":"All events brought to you by the `Alright` clan! (https://alright.page/discord)"
       },
       "thumbnail":{  
          "url":"https://vignette.wikia.nocookie.net/runescape2/images/6/63/Sacred_clay_%28class_5%29_detail.png/revision/latest/scale-to-width-down/100?cb=20170715144235"
@@ -1607,7 +1607,7 @@
       "description":"All are welcome! We will be teaching how to do the event on Discord if any learners are apprehensive about coming.\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Stealing_Creation).",
       "footer":{  
          "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
-         "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
+         "text":"All events brought to you by the `Alright` clan! (https://alright.page/discord)"
       },
       "thumbnail":{  
          "url":"https://vignette.wikia.nocookie.net/runescape2/images/6/63/Sacred_clay_%28class_5%29_detail.png/revision/latest/scale-to-width-down/100?cb=20170715144235"
@@ -1640,7 +1640,7 @@
       "description":"All are welcome! \n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Stealing_Creation).",
       "footer":{  
          "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
-         "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
+         "text":"All events brought to you by the `Alright` clan! (https://alright.page/discord)"
       },
       "thumbnail":{  
          "url":"https://vignette.wikia.nocookie.net/runescape2/images/6/63/Sacred_clay_%28class_5%29_detail.png/revision/latest/scale-to-width-down/100?cb=20170715144235"
@@ -1673,7 +1673,7 @@
       "description":"Just bring yourself!",
       "footer":{  
          "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
-         "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
+         "text":"All events brought to you by the `Alright` clan! (https://alright.page/discord)"
       },
       "thumbnail":{  
          "url":"https://runescape.wiki/images/archive/3/36/20080318003052%21Think_emote_icon.png?6ea4d"
@@ -1710,7 +1710,7 @@
       "description":"All are welcome! We will be teaching how to do the event on Discord if any learners are apprehensive about coming.\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Trouble_Brewing).",
       "footer":{  
          "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
-         "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
+         "text":"All events brought to you by the `Alright` clan! (https://alright.page/discord)"
       },
       "thumbnail":{  
          "url":"https://vignette.wikia.nocookie.net/runescape2/images/4/40/Trouble_Brewing_red_base.png/revision/latest?cb=20151206092803"
@@ -1743,7 +1743,7 @@
       "description":"All are welcome! \n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Trouble_Brewing).",
       "footer":{  
          "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
-         "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
+         "text":"All events brought to you by the `Alright` clan! (https://alright.page/discord)"
       },
       "thumbnail":{  
          "url":"https://vignette.wikia.nocookie.net/runescape2/images/4/40/Trouble_Brewing_red_base.png/revision/latest?cb=20151206092803"
@@ -1776,7 +1776,7 @@
       "description":"All are welcome! We will be teaching how to do the boss on Discord if any learners are apprehensive about coming.\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Twin_Furies/Strategies) or a video guide [here](https://www.youtube.com/watch?v=CJv790KpJro).",
       "footer":{  
          "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
-         "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
+         "text":"All events brought to you by the `Alright` clan! (https://alright.page/discord)"
       },
       "thumbnail":{  
          "url":"https://vignette.wikia.nocookie.net/runescape2/images/1/16/Nymora%2C_the_Vengeful.png/revision/latest/scale-to-width-down/200?cb=20160402210335"
@@ -1813,7 +1813,7 @@
       "description":"All are welcome! You can read about the game [here](https://en.wikipedia.org/wiki/Uno_(card_game).",
       "footer":{  
          "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
-         "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
+         "text":"All events brought to you by the `Alright` clan! (https://alright.page/discord)"
       },
       "thumbnail":{  
          "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/UNO_Logo.svg/220px-UNO_Logo.svg.png"
@@ -1850,7 +1850,7 @@
       "description":"All are welcome! We will be teaching how to do the boss on Discord if any learners are apprehensive about coming.\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Vindicta/Strategies) or a video guide [here](https://www.youtube.com/watch?v=sI3Br9-cD6c).",
       "footer":{  
          "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
-         "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
+         "text":"All events brought to you by the `Alright` clan! (https://alright.page/discord)"
       },
       "thumbnail":{  
          "url":"https://vignette.wikia.nocookie.net/runescape2/images/f/f3/Vindicta.png/revision/latest?cb=20160402205923"
@@ -1887,7 +1887,7 @@
       "description":"All are welcome! \n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Vindicta/Strategies) or a video guide [here](https://www.youtube.com/watch?v=sI3Br9-cD6c).",
       "footer":{  
          "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
-         "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
+         "text":"All events brought to you by the `Alright` clan! (https://alright.page/discord)"
       },
       "thumbnail":{  
          "url":"https://vignette.wikia.nocookie.net/runescape2/images/f/f3/Vindicta.png/revision/latest?cb=20160402205923"
@@ -1924,7 +1924,7 @@
       "description":"All are welcome! We will be teaching how to do the boss on the discord if any learners are apprehensive about coming.\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Vorago/Strategies) or a video guide [here](https://www.youtube.com/watch?v=VWsNhghbzpk&t=1s).",
       "footer":{  
          "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
-         "text":"All events brought to you by the `Alright` clan! (https://discord.me/alright)"
+         "text":"All events brought to you by the `Alright` clan! (https://alright.page/discord)"
       },
       "thumbnail":{  
          "url":"https://vignette.wikia.nocookie.net/runescape2/images/e/eb/Vorago.png/revision/latest?cb=20130705143815"
