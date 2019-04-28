@@ -1014,6 +1014,43 @@
          }
       ]
    },
+    "kree hm solve": {  
+      "title":"Preparation:",
+      "description":"All are welcome! \n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Kree%27arra/Strategies/Hard_mode) or a video guide [here](https://www.youtube.com/watch?v=Igzndw-QVNg).",
+      "footer":{  
+         "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
+         "text":"All events brought to you by the `Alright` clan! (https://alright.page/discord)"
+      },
+      "thumbnail":{  
+         "url":"https://runescape.wiki/images/1/10/Kree%27arra_chathead.png?887e3"
+      },
+      "author":{  
+         "name":"HM Kree'arra Mass Community Event",
+         "icon_url":"https://i.imgur.com/6c6q2iC.png"
+      },
+      "fields":[  
+         {  
+            "name":"Where:",
+            "value":"The southwest section of the [God Wars Dungeon](https://runescape.wiki/w/God_Wars_Dungeon), World 68 in the \"AHelp Chat\" friends chat."
+         },
+         {  
+            "name":"Why:",
+            "value":"To assist everyone who needs [Kree'arra](https://runescape.wiki/w/Kree%27arra) for:\n\n• Their [the Reaper](https://runescape.wiki/w/The_Reaper) title for the [Completionist Cape](https://runescape.wiki/w/Completionist_cape) [Reaper Crew requirement](https://runescape.wiki/w/Reaper_Crew)\n• Their [Final Boss](https://runescape.wiki/w/Final_Boss) title\n• Their [Insane Final Boss](https://runescape.wiki/w/Insane_Final_Boss) title\n• Completing their [Diary of the Gods](https://runescape.wiki/w/Diary_of_the_Gods) achievement\n• Completing their [Light as a feather](https://runescape.wiki/w/Light_as_a_feather) achievement\n(Obtained a collection of unique drops from Kree'arra.)\n• Completing their [Birdstrike](https://runescape.wiki/w/Birdstrike) achievement\n(Defeat Kree'arra 5, 10, 25, 50, 75, and 100 times in hardmode, depending on the tier.)"
+         },
+         {  
+            "name":"Who:",
+           "value":"<@113770763261181961>, <@154378413375881216>, their [Achievement Help](https://www.discord.gg/uUUMPbd) Discord team, and their [Alright](https://discord.gg/KwysmXr) clan."
+         },
+         {  
+            "name":"What is Needed:",
+            "value":"• Any gear is permitted. [Tier](https://runescape.wiki/w/Equipment_tier) 70+ armor and weapon are recommended and appreciated, though not required. The better the tier, the better chance you have of surviving and the faster the kills.\n• Level 70 [Ranged](https://runescape.wiki/w/Ranged) is required to fight him."
+         },
+         {  
+            "name":"How Drops Work:",
+            "value":"Drops are dispersed via [lootshare](https://runescape.wiki/w/LootShare) to whoever is in the friend's chat. All drops are kept by their recipients."
+         }
+      ]
+   },
     "mega duck": {  
       "title":"Preparation:",
       "description":"All are welcome! We will be teaching how to do the event on Discord if any learners are apprehensive about coming.\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Mega_Duck).",
@@ -1048,6 +1085,43 @@
          {  
             "name":"Pet Chance:",
             "value":"Luring Mega Duck to [Mrs. Duck](https://runescape.wiki/w/Mrs_Duck) in Mobilising Armies gives a 1 in 20 chance to receive the [Mega Ducklings](https://runescape.wiki/w/Mega_ducklings) pet."
+         }
+      ]
+   },
+    "giant mole hm solve": {  
+      "title":"Preparation:",
+      "description":"All are welcome! \n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Giant_mole/Strategies#Hard_Mode) or a video guide [here](https://www.youtube.com/watch?v=dhwkia6dohM).",
+      "footer":{  
+         "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
+         "text":"All events brought to you by the `Alright` clan! (https://alright.page/discord)"
+      },
+      "thumbnail":{  
+         "url":"https://runescape.wiki/images/f/fd/Giant_Mole.png?6906f"
+      },
+      "author":{  
+         "name":"HM Giant Mole Mass Community Event",
+         "icon_url":"https://i.imgur.com/6c6q2iC.png"
+      },
+      "fields":[  
+         {  
+            "name":"Where:",
+            "value":"[Falador Park](https://runescape.wiki/w/Falador_Park), World 68 in the \"AHelp Chat\" friends chat."
+         },
+         {  
+            "name":"Why:",
+            "value":"To assist everyone who needs the [Giant Mole](https://runescape.wiki/w/Giant_mole) for:\n\n• Their [the Reaper](https://runescape.wiki/w/The_Reaper) title for the [Completionist Cape](https://runescape.wiki/w/Completionist_cape) [Reaper Crew requirement](https://runescape.wiki/w/Reaper_Crew)\n• Their [Final Boss](https://runescape.wiki/w/Final_Boss) title\n• Their [Insane Final Boss](https://runescape.wiki/w/Insane_Final_Boss) title\n• Completing their [Can you dig it?](https://runescape.wiki/w/Can_you_dig_it%3F) achievement\n(Obtained a collection of unique drops from the Giant Mole.)\n• Completing their [Whack a Mole](https://runescape.wiki/w/Whack_a_Mole) achievement\n(Defeat the Giant Mole 5, 10, 25, 50, 75, and 100 times in hardmode, depending on the tier.)"
+         },
+         {  
+            "name":"Who:",
+           "value":"<@113770763261181961>, <@154378413375881216>, their [Achievement Help](https://www.discord.gg/uUUMPbd) Discord team, and their [Alright](https://discord.gg/KwysmXr) clan."
+         },
+         {  
+            "name":"What is Needed:",
+            "value":"• Any gear is permitted. [Tier](https://runescape.wiki/w/Equipment_tier) 40+ armor and weapon are recommended and appreciated, though not required. The better the tier, the better chance you have of surviving and the faster the kills."
+         },
+         {  
+            "name":"How Drops Work:",
+            "value":"Drops are dispersed via [lootshare](https://runescape.wiki/w/LootShare) to whoever is in the friend's chat. All drops are kept by their recipients."
          }
       ]
    },
@@ -1338,6 +1412,47 @@
          }
       ]
    },
+    "nex aod solve": {  
+      "title":"Preparation:",
+      "description":"All are welcome! We will be teaching how to do the boss on Discord if any learners are apprehensive about coming.\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Nex:_Angel_of_Death/Strategies) or a video guide [here](https://www.youtube.com/watch?v=Yrh93pIPNzk).",
+      "footer":{  
+         "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
+         "text":"All events brought to you by the `Alright` clan! (https://alright.page/discord)"
+      },
+      "thumbnail":{  
+         "url":"https://vignette.wikia.nocookie.net/runescape2/images/2/2b/Nex_%28Angel_of_Death%29.png/revision/latest?cb=20170130192323"
+      },
+      "author":{  
+         "name":"Nex AOD Mass Community Event",
+         "icon_url":"https://i.imgur.com/6c6q2iC.png"
+      },
+      "fields":[  
+         {  
+            "name":"​Where:",
+            "value":"Nex Bank, within the [Ancient Prison](https://runescape.wiki/w/God_Wars_Dungeon#Ancient_Prison) in the [God Wars Dungeon](https://runescape.wiki/w/God_Wars_Dungeon), World 68 in the \"AHelp Chat\" friends chat."
+         },
+         {  
+            "name":"​Why:",
+            "value":"To assist everyone who needs [Nex: Angel of Death](https://runescape.wiki/w/Nex:_Angel_of_Death) for:\n\n• Their [the Reaper](https://runescape.wiki/w/The_Reaper) title for the [Completionist Cape](https://runescape.wiki/w/Completionist_cape) [Reaper Crew requirement](https://runescape.wiki/w/Reaper_Crew)\n• Their [Final Boss](https://runescape.wiki/w/Final_Boss) title\n• Their [Insane Final Boss](https://runescape.wiki/w/Insane_Final_Boss) title"
+         },
+         {  
+            "name":"​​",
+            "value":"• Completing their [Library of Nex](https://runescape.wiki/w/Library_of_Nex) achievement\n(Find and read '[The Promised Gift](https://runescape.wiki/w/The_Promised_Gift)' and '[The Praesul](https://runescape.wiki/w/The_Praesul)' books from the Nex: Angel of Death encounter.)\n• Completing their [Hungry Hungry Reavers](https://runescape.wiki/w/Hungry_Hungry_Reavers) achievement\n(Defeat Nex: Angel of Death without any of the group damaging any of the [blood reavers](https://runescape.wiki/w/Blood_reaver).)\n• Completing their [Fallen Angel](https://runescape.wiki/w/Fallen_Angel) achievement\n(Obtained a collection of unique drops from Nex: Angel of Death.)\n• Completing their [Nex Pls](https://runescape.wiki/w/Nex_Pls) achievement\n(Defeat Nex, the Angel of Death 5, 10, 25, 50, 75, and 100 times, depending on the tier.)"
+         },
+         {  
+            "name":"​Who:",
+            "value":"<@113770763261181961>, <@154378413375881216>, their [Achievement Help](https://www.discord.gg/uUUMPbd) Discord team, and their [Alright](https://discord.gg/KwysmXr) clan."
+         },
+         {  
+            "name":"​What is Needed:",
+            "value":"• Any gear is permitted. [Tier](https://runescape.wiki/w/Equipment_tier) 80+ armor and weapon are recommended and appreciated, though not required. The better the tier, the better chance you have of surviving and the faster the kills.  Range or mage are highly encouraged.\n• A charged [Frozen key](https://runescape.wiki/w/Frozen_key)\n• Either 40 Zarosian kills or a set of [Ancient ceremonial robes](https://runescape.wiki/w/Ancient_ceremonial_robes)."
+         },
+         {  
+            "name":"​How Drops Work:",
+            "value":"Drops are dispersed via [coinshare](https://runescape.wiki/w/CoinShare) to whoever is in the friend's chat. All drops are kept by their recipients and high-value drops that have [item shards](https://runescape.wiki/w/Item_shards) will be split by the game to everyone who has coinshare enabled and is in the friend's chat. "
+         }
+      ]
+   },
     "penguins": {  
       "title":"Preparation:",
       "description":"All are welcome!\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Penguin_Hide_and_Seek).",
@@ -1499,7 +1614,40 @@
          },
          {  
             "name":"What is Needed:",
-            "value":"[Portable skilling stations](https://runescape.wiki/w/Portable_skilling_stations) of every variant, save the [useless sawmill](https://runescape.wiki/w/Portable_sawmill), will be provided. Just bring your own supplies; or come sit with us for awhile! The availble skills incllude: Firemaking, Crafting, Fletching, Smithing, Cooking, and Herblore!"
+            "value":"[Portable skilling stations](https://runescape.wiki/w/Portable_skilling_stations) of every variant will be provided. Just bring your own supplies; or come sit with us for awhile! The availble skills include: Firemaking, Crafting, Fletching, Smithing, Cooking, and Herblore!"
+         }
+      ]
+   },
+    "skill and chill gojess": {  
+      "title":"Preparation:",
+      "description":"All are welcome!",
+      "footer":{  
+         "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
+         "text":"All events brought to you by the `Alright` clan! (https://alright.page/discord)"
+      },
+      "thumbnail":{  
+         "url":"https://vignette.wikia.nocookie.net/runescape2/images/5/5a/Beer_detail.png/revision/latest?cb=20180911203419"
+      },
+      "author":{  
+         "name":"Skill 'n' Chill Community Event",
+         "icon_url":"https://i.imgur.com/6c6q2iC.png"
+      },
+      "fields":[  
+         {  
+            "name":"Where:",
+            "value":"World 84 [Clan Camp](https://runescape.wiki/w/Clan_Camp)."
+         },
+         {  
+            "name":"Why:",
+            "value":"Socialization, XP gains, and fun."
+         },
+         {  
+            "name":"Who:",
+            "value":"<@113770763261181961> and <@349581235951108098>"
+         },
+         {  
+            "name":"What is Needed:",
+            "value":"[Portable skilling stations](https://runescape.wiki/w/Portable_skilling_stations) of every variant will be provided. Just bring your own supplies; or come sit with us for awhile! The availble skills include: Firemaking, Crafting, Fletching, Smithing, Cooking, and Herblore!"
          }
       ]
    },
@@ -1957,6 +2105,43 @@
          {  
             "name":"​How Drops Work:",
             "value":"Drops are dispersed at random via [coinshare](https://runescape.wiki/w/CoinShare) to whoever is in the friend's chat. All drops are kept by their recipients and high-value drops that have [item shards](https://runescape.wiki/w/Item_shards) will be split by the game to everyone who has coinshare enabled and is in the friend's chat. "
+         }
+      ]
+   },
+    "zilyana hm": {  
+      "title":"Preparation:",
+      "description":"All are welcome! \n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Commander_Zilyana/Strategies/Hard_mode) or a video guide [here](https://www.youtube.com/watch?v=2sLUq3Ymq6M).",
+      "footer":{  
+         "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
+         "text":"All events brought to you by the `Alright` clan! (https://alright.page/discord)"
+      },
+      "thumbnail":{  
+         "url":"https://runescape.wiki/images/2/2d/Commander_Zilyana_chathead.png?16c5e"
+      },
+      "author":{  
+         "name":"HM Zilyana Mass Community Event",
+         "icon_url":"https://i.imgur.com/6c6q2iC.png"
+      },
+      "fields":[  
+         {  
+            "name":"Where:",
+            "value":"The southeast section of the [God Wars Dungeon](https://runescape.wiki/w/God_Wars_Dungeon), World 68 in the \"AHelp Chat\" friends chat."
+         },
+         {  
+            "name":"Why:",
+            "value":"To assist everyone who needs [Zilyana](https://runescape.wiki/w/Zilyana) for:\n\n• Their [the Reaper](https://runescape.wiki/w/The_Reaper) title for the [Completionist Cape](https://runescape.wiki/w/Completionist_cape) [Reaper Crew requirement](https://runescape.wiki/w/Reaper_Crew)\n• Their [Final Boss](https://runescape.wiki/w/Final_Boss) title\n• Their [Insane Final Boss](https://runescape.wiki/w/Insane_Final_Boss) title\n• Completing their [Diary of the Gods](https://runescape.wiki/w/Diary_of_the_Gods) achievement\n• Completing their [Keeper of the Faith](https://runescape.wiki/w/Keeper_of_the_Faith) achievement\n(Obtained a collection of unique drops from Zilyana.)\n• Completing their [Zillier Way To Die](https://runescape.wiki/w/Zillier_Way_To_Die) achievement\n(Defeat Zilyana 5, 10, 25, 50, 75, and 100 times in hardmode, depending on the tier.)"
+         },
+         {  
+            "name":"Who:",
+            "value":"<@294617234033213450>, <@113770763261181961>, their [Achievement Help](https://www.discord.gg/uUUMPbd) Discord team, and their [Alright](https://discord.gg/KwysmXr) clan."
+         },
+         {  
+            "name":"What is Needed:",
+            "value":"• Any gear is permitted. [Tier](https://runescape.wiki/w/Equipment_tier) 70+ armor and weapon are recommended and appreciated, though not required. The better the tier, the better chance you have of surviving and the faster the kills.\n• Level 70 [Agility](https://runescape.wiki/w/Agility) is required to fight her."
+         },
+         {  
+            "name":"How Drops Work:",
+            "value":"Drops are dispersed via [lootshare](https://runescape.wiki/w/LootShare) to whoever is in the friend's chat. All drops are kept by their recipients."
          }
       ]
    }
