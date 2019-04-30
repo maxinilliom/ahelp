@@ -1464,17 +1464,17 @@
          "url":"https://vignette.wikia.nocookie.net/runescape2/images/b/ba/Penguin_crate.png/revision/latest?cb=20170721074540"
       },
       "author":{  
-         "name":"Penguin Hide and Seek Clan Event",
+         "name":"Penguin Hide and Seek Event",
          "icon_url":"https://i.imgur.com/6c6q2iC.png"
       },
       "fields":[  
          {  
             "name":"​Where:",
-            "value":"World 60 in either <@306846425365610496>'s or <@236939835045052416>'s friends chat (to be announced)."
+            "value":"World 60 in the \"AHelp Chat\" friends chat."
          },
          {  
             "name":"​Why:",
-            "value":"For fun and rewards! [Penguin Points](https://runescape.wiki/w/Calculator:Other/Penguin_points) may be redeemed for XP or GP rewards by speaking with [Chuck](https://runescape.wiki/w/Chuck) or [Larry](https://runescape.wiki/w/Larry) at the [Ardougne Zoo](https://runescape.wiki/w/Ardougne_Zoo)."
+            "value":"To assist everyone who needs:\n • Their [Ultimate Birdwatcher](https://runescape.wiki/w/Ultimate_Birdwatcher) achievement (Cash in 50 [Penguin Points](https://runescape.wiki/w/Calculator:Other/Penguin_points) in one go) \n • Their [I C U K G P]() achievement (Find 12 penguin spies and the polar bear in a single week and report your findings). \n • Penguin points to redeem for XP or GP rewards by speaking with [Chuck](https://runescape.wiki/w/Chuck) or [Larry](https://runescape.wiki/w/Larry) at the [Ardougne Zoo](https://runescape.wiki/w/Ardougne_Zoo)."
          },
          {  
             "name":"​Who:",
@@ -1482,7 +1482,7 @@
          },
          {  
             "name":"​What is Needed:",
-            "value":"• Speak with Larry, who will give you a [Spy notebook](https://runescape.wiki/w/Spy_notebook), which allows you to find the [disguised](https://runescape.wiki/w/Penguin_Hide_and_Seek#Disguises) penguins (you do not need to keep the book nor bring it with you).\n\n• Unlocking the [Lodestone Network](https://runescape.wiki/w/Lodestone_Network) for teleportation is extremely helpful. Some weeks, additional telportation methods such as a [Ring of Dueling](https://runescape.wiki/w/Ring_of_duelling), the [Ape Atoll](https://runescape.wiki/w/Ape_Atoll) teleportation spell, or an [Ectophial](https://runescape.wiki/w/Ectophial) are used.\n\n• Full details for the week's hunt will be posted in the friend chat prior to the event!"
+            "value":"• Speak with Larry, who will give you a [Spy notebook](https://runescape.wiki/w/Spy_notebook), which allows you to find the [disguised](https://runescape.wiki/w/Penguin_Hide_and_Seek#Disguises) penguins (you do not need to keep the book nor bring it with you).\n\n• Unlocking the [Lodestone Network](https://runescape.wiki/w/Lodestone_Network) for teleportation is extremely helpful. Some weeks, additional telportation methods such as a [Ring of Dueling](https://runescape.wiki/w/Ring_of_duelling), the [Ape Atoll](https://runescape.wiki/w/Ape_Atoll) teleportation spell, or an [Ectophial](https://runescape.wiki/w/Ectophial) are used.\n\n• Full details for the week's hunt will be posted in the friends chat prior to the event!"
          }
       ]
    },
@@ -1610,7 +1610,7 @@
          },
          {  
             "name":"Who:",
-            "value":"<@294617234033213450>, <@113770763261181961>, and their [Alright](https://discord.gg/KwysmXr) clan."
+            "value":"<@294617234033213450>, <@306846425365610496>, and their [Alright](https://discord.gg/KwysmXr) clan."
          },
          {  
             "name":"What is Needed:",
