@@ -1474,7 +1474,7 @@
          },
          {  
             "name":"​Why:",
-            "value":"To assist everyone who needs:\n • Their [Ultimate Birdwatcher](https://runescape.wiki/w/Ultimate_Birdwatcher) achievement (Cash in 50 [Penguin Points](https://runescape.wiki/w/Calculator:Other/Penguin_points) in one go) \n • Their [I C U K G P]() achievement (Find 12 penguin spies and the polar bear in a single week and report your findings). \n • Penguin points to redeem for XP or GP rewards by speaking with [Chuck](https://runescape.wiki/w/Chuck) or [Larry](https://runescape.wiki/w/Larry) at the [Ardougne Zoo](https://runescape.wiki/w/Ardougne_Zoo)."
+            "value":"To assist everyone who needs:\n • Their [Ultimate Birdwatcher](https://runescape.wiki/w/Ultimate_Birdwatcher) achievement (Cash in 50 [Penguin Points](https://runescape.wiki/w/Calculator:Other/Penguin_points) in one go) \n • Their [I C U K G P](https://runescape.wiki/w/I_C_U_K_G_P) achievement (Find 12 penguin spies and the polar bear in a single week and report your findings). \n • Penguin points to redeem for XP or GP rewards by speaking with [Chuck](https://runescape.wiki/w/Chuck) or [Larry](https://runescape.wiki/w/Larry) at the [Ardougne Zoo](https://runescape.wiki/w/Ardougne_Zoo)."
          },
          {  
             "name":"​Who:",
