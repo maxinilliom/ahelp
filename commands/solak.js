@@ -1,4 +1,4 @@
-exports.run = async (client, message, args, level) => {
+﻿exports.run = async (client, message, args, level) => {
 
   const embed = {
   "embed": {
@@ -21,7 +21,7 @@ exports.run = async (client, message, args, level) => {
       },
       {
         "name": "Cheap Solak/PvM Leeches",
-        "value": "The Solak FC Admin team have created another server to sell *paid* Solak leeches at a price of 100m per leech. This is intended for those that do not want to wait on their free leech list. This service operates mostly during EU hours.\n\nYou can find their discord here: https://discord.gg/U4GRQVX"
+        "value": "The Solak FC Admin team have created another server to sell *paid* Solak leeches at a price of 90m per leech. This is intended for those that do not want to wait on their free leech list. This service operates mostly during EU hours.\n\nYou can find their discord here: https://discord.gg/U4GRQVX"
       }
       ]
   }
