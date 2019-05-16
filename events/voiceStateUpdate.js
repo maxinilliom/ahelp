@@ -1,5 +1,8 @@
 module.exports = async (client, oldMember, newMember) => {
 	const { inspect } = require("util");
+
+	if (!["382696689812766720", "485523397179342848"].includes(message.guild.id)) return;
+
 	const ahelp = client.channels.get('407919969712603145');
 	const genVoice = client.channels.get('382696689812766724');
 	const eventVoice = client.channels.get('425508386713632771');
