@@ -27,7 +27,7 @@ exports.conf = {
   guildOnly: true,
   aliases: [],
   permLevel: "Administrator",
-  guilds: []
+  guilds: ["382696689812766720", "485523397179342848"]
 };
 
 exports.help = {

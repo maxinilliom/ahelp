@@ -27,15 +27,14 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 	const gl = client.guideList;
 	const msgArr = [];
 
-	if (message.guild.id !== "382696689812766720" && level < 3 ||
-		message.guild.id == "382696689812766720" && message.channel.id !== '382701090430386180' && level < 2) return;
+	if (message.guild.id == "382696689812766720" && message.channel.id !== '382701090430386180' && level < 2) return;
 
 	Object.getOwnPropertyNames(data).forEach(k => {
 		if (data[k].cmds.includes("comp")) keyList.push(k);
 	});
 	if (!args[0]) return message.channel.send(`Please specify a valid achievement name.`);
 
-	if (args[0].toLowerCase() == "all" && level >= 2) {
+	if (message.guild.id == "382696689812766720" && args[0].toLowerCase() == "all" && level >= 2) {
 		let i = 0, o = 0, x = keyList.length, errMsg = "", fin = "";
 		if (!gl.has('comp')) gl.set('comp', []);
 		msgArr.push(message.channel.id);
@@ -95,7 +94,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 		return message.delete();
 	}
 
-	if (args[0].toLowerCase() == "clear" && level >= 2) {
+	if (message.guild.id == "382696689812766720" && args[0].toLowerCase() == "clear" && level >= 2) {
 		if (!gl.has('comp')) return message.channel.send('No messages are currently stored for **comp**.');
 		let cl = gl.get('comp');
 		const channel = cl[0];

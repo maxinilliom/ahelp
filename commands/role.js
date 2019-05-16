@@ -69,6 +69,8 @@ exports.run = async (client, message, args, level) => {
   const roleNames = [];
   let roleWarn = "";
 
+  // add case insensitivity to role check
+
                  // apply, range
   const getRoles = (app, rng) => {
     app.forEach(a => {
@@ -79,6 +81,7 @@ exports.run = async (client, message, args, level) => {
         }
         // add check for user having roles already
         else {
+          // this should not check for every role in $range
           roleWarn += `ERROR: **${a}** is not a valid role.\n`;
         }
       });
@@ -86,14 +89,14 @@ exports.run = async (client, message, args, level) => {
   }
 
   if (["add", "a"].includes(action)) {
-    if (num > 1) {
+    if (roleNames.length > 1) {
       // addRoles
       getRoles(apply, range);
       send(roleWarn);
       member.addRoles(roleIDs, `${message.member.user.tag} used the role command.`);
       log.send(`${message.member.id}: **${message.member.user.tag}** gave the following roles to ${member}: **${roleNames.join("**, **")}**`);
     }
-    else if (num == 1) {
+    else if (roleNames.length == 1) {
       // addRole
       getRoles(apply, range);
       send(roleWarn);
@@ -103,14 +106,14 @@ exports.run = async (client, message, args, level) => {
   }
 
   if (["remove", "r"].includes(action)) {
-    if (num > 1) {
+    if (roleNames.length > 1) {
       // removeRoles
       getRoles(apply, range);
       send(roleWarn);
       member.removeRoles(roleIDs, `${message.member.user.tag} used the role command.`);
       log.send(`${message.member.id}: **${message.member.user.tag}** removed the following roles from ${member}: **${roleNames.join("**, **")}**`);
     }
-    else if (num == 1) {
+    else if (roleNames.length == 1) {
       // removeRole
       getRoles(apply, range);
       send(roleWarn);
@@ -127,7 +130,7 @@ exports.conf = {
   enabled: true,
   guildOnly: true,
   aliases: ["r"],
-  permLevel: "User",
+  permLevel: "Bot Admin",
   guilds: ["382696689812766720"]
 };
 

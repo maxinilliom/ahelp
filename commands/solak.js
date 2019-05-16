@@ -37,7 +37,7 @@ exports.conf = {
   guildOnly: false,
   aliases: [],
   permLevel: "User",
-  guilds: [],
+  guilds: ["382696689812766720", "485523397179342848"],
   cooldown: 5000
 };
 

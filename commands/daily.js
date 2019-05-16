@@ -14,8 +14,7 @@ exports.run = async (client, message, args, level) => {
 	const gl = client.guideList;
 	const msgArr = [];
 
-	if (message.guild.id !== "382696689812766720" && level < 3 ||
-		message.guild.id == "382696689812766720" && message.channel.id !== '382701090430386180' && level < 2) return;
+	if (message.guild.id == "382696689812766720" && message.channel.id !== '382701090430386180' && level < 2) return;
 
 	Object.getOwnPropertyNames(data).forEach(k => {
 		if (k !== "help" && k !== "search" && k !== "query") keyList.push(k);
@@ -23,7 +22,7 @@ exports.run = async (client, message, args, level) => {
 	if (!args[0]) return message.channel.send(`Please specify a valid guide name.`);
 
 
-	if (args[0].toLowerCase() == "all" && level >= 2) {
+	if (message.guild.id == "382696689812766720" && args[0].toLowerCase() == "all" && level >= 2) {
     let i = 0, o = 0, x = keyList.length, errMsg = "", fin = "";
 		if (!gl.has('daily')) gl.set('daily', []);
 		msgArr.push(message.channel.id);
@@ -84,7 +83,7 @@ exports.run = async (client, message, args, level) => {
 		return message.delete();
 	}
 
-	if (args[0].toLowerCase() == "clear" && level >= 2) {
+	if (message.guild.id == "382696689812766720" && args[0].toLowerCase() == "clear" && level >= 2) {
 		if (!gl.has('daily')) return message.channel.send('No messages are currently stored for **daily**.');
 		let cl = gl.get('daily');
 		const channel = cl[0];

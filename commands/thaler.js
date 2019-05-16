@@ -2,8 +2,7 @@ const { data } = require("../guides/thalerGuide.js");
 
 exports.run = async (client, message, args, level) => {
 
-  if (message.guild.id !== "382696689812766720" && level < 3 ||
-    message.guild.id == "382696689812766720" && message.channel.id !== '382701090430386180' && level < 2) return;
+  if (message.guild.id == "382696689812766720" && message.channel.id !== '382701090430386180' && level < 2) return;
 
     await message.channel.send({
       files: [{
@@ -34,7 +33,7 @@ exports.conf = {
   guildOnly: true,
   aliases: [],
   permLevel: "User",
-  guilds: []
+  guilds: ["382696689812766720"]
 };
 
 exports.help = {

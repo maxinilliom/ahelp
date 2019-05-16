@@ -29,8 +29,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 	const gl = client.guideList;
 	const msgArr = [];
 
-	if (message.guild.id !== "382696689812766720" && level < 3 ||
-		message.guild.id == "382696689812766720" && message.channel.id !== '382701090430386180' && level < 2) return;
+	if (message.guild.id == "382696689812766720" && message.channel.id !== '382701090430386180' && level < 2) return;
 
 	Object.getOwnPropertyNames(data).forEach(k => {
 		if (k !== "help" && k !== "search" && k !== "query") {
@@ -45,7 +44,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 	if (!args[0]) return message.channel.send(`Please specify a valid achievement name.`);
 	const catList = keyList.filter(k => k.split(" - ")[0].includes(category));
 
-	if (args[0].toLowerCase() == "all" && level >= 2) {
+	if (message.guild.id == "382696689812766720" && args[0].toLowerCase() == "all" && level >= 2) {
 		let i = 0, o = 0, errMsg = "", fin = "";
 		const x = category ? catList.length : keyList.length;
 		if (!gl.has('rs')) gl.set('rs', {});
@@ -147,7 +146,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 		return message.delete();
 	}
 
-	if (args[0].toLowerCase() == "clear" && level >= 2) {
+	if (message.guild.id == "382696689812766720" && args[0].toLowerCase() == "clear" && level >= 2) {
 		const cl = gl.get('rs');
 		if (!cl[nick]) return message.channel.send(`No messages are currently stored for **${nick}**.`);
 		let nl = cl[nick];
