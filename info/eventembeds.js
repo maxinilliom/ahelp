@@ -1614,7 +1614,7 @@
          },
          {  
             "name":"What is Needed:",
-            "value":"[Portable skilling stations](https://runescape.wiki/w/Portable_skilling_stations) of every variant will be provided. Just bring your own supplies; or come sit with us for awhile! The availble skills include: Firemaking, Crafting, Fletching, Smithing, Cooking, and Herblore!"
+            "value":"[Portable skilling stations](https://runescape.wiki/w/Portable_skilling_stations) of every variant will be provided. Just bring your own supplies; or come sit with us for awhile! The availble skills include: Firemaking, Crafting, Fletching, Cooking, and Herblore!"
          }
       ]
    },
@@ -1647,7 +1647,7 @@
          },
          {  
             "name":"What is Needed:",
-            "value":"[Portable skilling stations](https://runescape.wiki/w/Portable_skilling_stations) of every variant will be provided. Just bring your own supplies; or come sit with us for awhile! The availble skills include: Firemaking, Crafting, Fletching, Smithing, Cooking, and Herblore!"
+            "value":"[Portable skilling stations](https://runescape.wiki/w/Portable_skilling_stations) of every variant will be provided. Just bring your own supplies; or come sit with us for awhile! The availble skills include: Firemaking, Crafting, Fletching, Cooking, and Herblore!"
          }
       ]
    },
