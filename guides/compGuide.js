@@ -567,7 +567,7 @@ exports.data = {
 			},
 			"fields": [{
 					"name": "Requirements:",
-					"value": "• Impressing the Locals Miniquest completion | [Runescape Wiki](https://runescape.wiki/w/Impressing_the_Locals)"
+					"value": "• Impressing the Locals Quest completion | [Runescape Wiki](https://runescape.wiki/w/Impressing_the_Locals)"
 				},
 				{
 					"name": "Guides:",
@@ -618,7 +618,7 @@ exports.data = {
 			},
 			"fields": [{
 					"name": "Requirements:",
-					"value": "• 25 Dungeoneering \n\n• Impressing the Locals Miniquest completion | [Runescape Wiki](https://runescape.wiki/w/Impressing_the_Locals)\n\n• Own a bonecrusher from the [Dungeoneering Reward Shop](https://runescape.wiki/w/Marmaros)"
+					"value": "• 25 Dungeoneering \n\n• Impressing the Locals Quest completion | [Runescape Wiki](https://runescape.wiki/w/Impressing_the_Locals)\n\n• Own a bonecrusher from the [Dungeoneering Reward Shop](https://runescape.wiki/w/Marmaros)"
 				},
 				{
 					"name": "Guides:",
@@ -646,7 +646,7 @@ exports.data = {
 			},
 			"fields": [{
 					"name": "Requirements:",
-					"value": "• Impressing the Locals Miniquest completion | [Runescape Wiki](https://runescape.wiki/w/Impressing_the_Locals)"
+					"value": "• Impressing the Locals Quest completion | [Runescape Wiki](https://runescape.wiki/w/Impressing_the_Locals)"
 				},
 				{
 					"name": "Guides:",
@@ -674,7 +674,7 @@ exports.data = {
 			},
 			"fields": [{
 					"name": "Requirements:",
-					"value": "• Impressing the Locals Miniquest completion | [Runescape Wiki](https://runescape.wiki/w/Impressing_the_Locals)\n\n• Unlock the scrolls for the [Death Lotus](https://runescape.wiki/w/Death_Lotus_equipment) hood, chestplate, and chaps in the [Player-owned port](https://runescape.wiki/w/Player-owned_port)."
+					"value": "• Impressing the Locals Quest completion | [Runescape Wiki](https://runescape.wiki/w/Impressing_the_Locals)\n\n• Unlock the scrolls for the [Death Lotus](https://runescape.wiki/w/Death_Lotus_equipment) hood, chestplate, and chaps in the [Player-owned port](https://runescape.wiki/w/Player-owned_port)."
 				},
 				{
 					"name": "Guides:",
@@ -702,7 +702,7 @@ exports.data = {
 			},
 			"fields": [{
 					"name": "Requirements:",
-					"value": "• Impressing the Locals Miniquest completion | [Runescape Wiki](https://runescape.wiki/w/Impressing_the_Locals)\n\n• Unlock the scrolls for the [Seasinger](https://runescape.wiki/w/Seasinger's_equipment) hood, robe top, and robe bottom in the [Player-owned port](https://runescape.wiki/w/Player-owned_port)."
+					"value": "• Impressing the Locals Quest completion | [Runescape Wiki](https://runescape.wiki/w/Impressing_the_Locals)\n\n• Unlock the scrolls for the [Seasinger](https://runescape.wiki/w/Seasinger's_equipment) hood, robe top, and robe bottom in the [Player-owned port](https://runescape.wiki/w/Player-owned_port)."
 				},
 				{
 					"name": "Guides:",
@@ -730,7 +730,7 @@ exports.data = {
 			},
 			"fields": [{
 					"name": "Requirements:",
-					"value": "• Impressing the Locals Miniquest completion | [Runescape Wiki](https://runescape.wiki/w/Impressing_the_Locals)\n\n• Unlock the scrolls for the [Tetsu](https://runescape.wiki/w/Tetsu_equipment) helm, body, and platelegs in the [Player-owned port](https://runescape.wiki/w/Player-owned_port)."
+					"value": "• Impressing the Locals Quest completion | [Runescape Wiki](https://runescape.wiki/w/Impressing_the_Locals)\n\n• Unlock the scrolls for the [Tetsu](https://runescape.wiki/w/Tetsu_equipment) helm, body, and platelegs in the [Player-owned port](https://runescape.wiki/w/Player-owned_port)."
 				},
 				{
 					"name": "Guide:",
