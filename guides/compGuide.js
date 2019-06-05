@@ -3232,7 +3232,7 @@ exports.data = {
 	    },
 	    "fields": [{
 	      "name": "Requirements:",
-	      "value": "• Completed the [Temple of Aminishi](https://runescape.wiki/w/Temple_of_Aminishi) Elite Dungeon once in either normal or story mode."
+	      "value": "• None"
 	    }],
 	    "footer": {
 	      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
@@ -6538,6 +6538,36 @@ exports.data = {
 			"timestamp": "2001-01-04T12:00:00Z"
 		}
 	},
+	"of kraken ink": {
+		"cmds": ["mqc"],
+		"embed": {
+	        "title": "Of Kraken Ink",
+	        "author":
+		        {
+		            "name": "RuneScore Achievement Info",
+		            "icon_url": "https://i.imgur.com/6c6q2iC.png"
+		        },
+	        "description": "[Of Kraken Ink](https://runescape.wiki/w/Of_Kraken_Ink) is an achievement that requires the player to collect the lore books, [The Last Offering](https://runescape.wiki/w/The_Last_Offering) and [Kranon's Ancient Journal](https://runescape.wiki/w/Kranon%27s_Ancient_Journal), from bosses inside [The Shadow Reef](https://runescape.wiki/w/The_Shadow_Reef).\n\nThe Last Offering is a waterlogged book that describes an encounter with [The Ambassador](https://runescape.wiki/w/The_Ambassador), and can be obtained as a drop from the [Crassian Leviathan](https://runescape.wiki/w/Crassian_Leviathan), the first boss inside The Shadow Reef.\n\nKranon's Ancient Journal is a book that details the thoughts of The Ambassador, and can be obtained as a drop from [Taraket The Necromancer](https://runescape.wiki/w/Taraket_the_Necromancer) inside The Shadow Reef.\n\nThe lore books drop at a 1/10 drop rate. Every normal mode or solo kill of the boss increases that chance by 1%. Wearing the [Dungeoneering master cape](https://runescape.wiki/w/Dungeoneering_master_cape) will increase the chance of receiving lore drops within all Elite Dungeons.\n\nBoth can be obtained in either normal or story mode, however the drop rate is higher in story mode.",
+	        "thumbnail":
+		        {
+		            "url": "https://i.imgur.com/Shmagnp.png"
+		        },
+	        "fields":
+		        [
+		           
+		            {
+		                 "name": "Requirements:",
+		                 "value": "• None"
+		            }
+		           
+		        ],
+	        "footer":
+		        {
+		            "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+		            "text": "RuneScore awarded: 20"
+		        }
+	    }
+	},
 	"on a mission from... the gods": {
 		"cmds": ["mqc"],
 		"embed": {
@@ -8455,11 +8485,11 @@ exports.data = {
 			},
 			"fields": [{
 					"name": "Requirements:",
-					"value": "• 33 Magic\n\n• Completed the [Temple of Aminishi](https://runescape.wiki/w/Temple_of_Aminishi) Elite Dungeon once in either story or normal mode"
+					"value": "• 33 Magic"
 				},
 				{
 					"name": "Guide:",
-					"value": "[Map of all note locations | Runescape Wiki](https://vignette.wikia.nocookie.net/runescape2/images/a/ab/Dragonkin_Laboratory_map.png/revision/latest?cb=20180817141803)"
+					"value": "[Map of all note locations | Runescape Wiki](https://runescape.wiki/w/Dragonkin_research_notes#/media/File:Dragonkin_Laboratory_map.png)"
 				}
 			],
 			"footer": {
@@ -8640,7 +8670,7 @@ exports.data = {
 				},
 				{
 					"name": "Guide:",
-					"value": "[A map showing all notes locations | Runescape Wiki](https://vignette.wikia.nocookie.net/runescape2/images/d/d6/Temple_of_Aminishi_map.png/revision/latest?cb=20180701160746)"
+					"value": "[A map showing all notes locations | Runescape Wiki](https://runescape.wiki/w/File:Temple_of_Aminishi_map.png#/media/File:Temple_of_Aminishi_map.png)"
 				}
 			],
 			"footer": {
@@ -9140,6 +9170,40 @@ exports.data = {
 			},
 			"timestamp": "2001-01-04T12:00:00Z"
 		}
+	},
+	"umbral diplomacy": {
+		"cmds": ["mqc"],
+		"embed": {
+	        "title": "Umbral Diplomacy",
+	        "author":
+		        {
+		            "name": "RuneScore Achievement Info",
+		            "icon_url": "https://i.imgur.com/6c6q2iC.png"
+		        },
+	        "description": "[Umbral Diplomacy](https://runescape.wiki/w/Umbral_Diplomacy_(achievement%29) is an achievement that requires the player obtain all 22 [Waterlogged scraps](https://runescape.wiki/w/Waterlogged_scrap) to complete the [Umbral Diplomacy](https://runescape.wiki/w/Umbral_Diplomacy) journal in [The Shadow Reef](https://runescape.wiki/w/The_Shadow_Reef).\n\nThe scraps found in the beginning and end of the third floor of the dungeon require the use of [Telekinetic Grab](https://runescape.wiki/w/Telekinetic_Grab) to obtain them.\n\nThis achievement can be completed in story mode as well as in normal mode.",
+	        "thumbnail":
+		        {
+		            "url": "https://i.imgur.com/Shmagnp.png"
+		        },
+	        "fields":
+		        [
+		           
+		            {
+		                 "name": "Requirements:",
+		                 "value": "• 33 Magic"
+		            },
+						{
+							"name": "Guide:",
+							"value": "[Map of all note locations | Runescape Wiki](https://runescape.wiki/w/The_Shadow_Reef#/media/File:The_Shadow_Reef_map.png)"
+						}
+		           
+		        ],
+	        "footer":
+		        {
+		            "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+		            "text": "RuneScore awarded: 20"
+		        }
+	    }
 	},
 	"uncorrupted ore": {
 		"cmds": ["comp", "mqc"],
