@@ -16,7 +16,7 @@
       "fields":[  
          {  
             "name":"​Where:",
-            "value":"[Gamers' Grotto](https://runescape.wiki/w/Gamers%27_Grotto) just north of [Falador](https://runescape.wiki/w/Falador), World 68 in the \"AHelp Chat\" friends chat."
+            "value":"[Gamers' Grotto](https://runescape.wiki/w/Gamers%27_Grotto) just north of [Falador](https://runescape.wiki/w/Falador), World 68 in the \"AHelp\" friends chat."
          },
          {  
             "name":"​Why:",
@@ -119,7 +119,7 @@
       "fields":[  
          {  
             "name":"​Where:",
-            "value":"[Castle Wars](https://runescape.wiki/w/Castle_Wars) lobby, in the south-west corner of [Kandarin](https://runescape.wiki/w/Kandarin), World 68 in the \"AHelp Chat\" friends chat."
+            "value":"[Castle Wars](https://runescape.wiki/w/Castle_Wars) lobby, in the south-west corner of [Kandarin](https://runescape.wiki/w/Kandarin), World 68 in the \"AHelp\" friends chat."
          },
          {  
             "name":"​Why:",
@@ -152,7 +152,7 @@
       "fields":[  
          {  
             "name":"​Where:",
-            "value":"[Castle Wars](https://runescape.wiki/w/Castle_Wars) lobby, in the south-west corner of [Kandarin](https://runescape.wiki/w/Kandarin), World 24 in the \"AHelp Chat\" friends chat."
+            "value":"[Castle Wars](https://runescape.wiki/w/Castle_Wars) lobby, in the south-west corner of [Kandarin](https://runescape.wiki/w/Kandarin), World 24 in the \"AHelp\" friends chat."
          },
          {  
             "name":"​Why:",
@@ -277,7 +277,7 @@
       "fields":[  
          {  
             "name":"​Where:",
-            "value":"The [Corporeal Lair](https://runescape.wiki/w/Corporeal_Beast#Habitat), World 68 in the \"AHelp Chat\" friends chat. Players who have completed the [Summer's End](https://runescape.wiki/w/Summer%27s_End) quest may use a [games necklace](https://runescape.wiki/w/Games_necklace) to teleport directly into the first of the caverns, a quick run from the third cavern that serves as the Beast's lair. "
+            "value":"The [Corporeal Lair](https://runescape.wiki/w/Corporeal_Beast#Habitat), World 68 in the \"AHelp\" friends chat. Players who have completed the [Summer's End](https://runescape.wiki/w/Summer%27s_End) quest may use a [games necklace](https://runescape.wiki/w/Games_necklace) to teleport directly into the first of the caverns, a quick run from the third cavern that serves as the Beast's lair. "
          },
          {  
             "name":"​Why:",
@@ -351,7 +351,7 @@
       "fields":[  
          {  
             "name":"​Where:",
-            "value":"[Deathmatch](https://runescape.wiki/w/Deathmatch) lobby, World 68 in the \"AHelp Chat\" friends chat. The [minigame](https://runescape.wiki/w/Minigames)'s lobby is an instance shard world, which can be accessed through a hatch at the north-eastern border of [Edgeville](https://runescape.wiki/w/Edgeville)."
+            "value":"[Deathmatch](https://runescape.wiki/w/Deathmatch) lobby, World 68 in the \"AHelp\" friends chat. The [minigame](https://runescape.wiki/w/Minigames)'s lobby is an instance shard world, which can be accessed through a hatch at the north-eastern border of [Edgeville](https://runescape.wiki/w/Edgeville)."
          },
          {  
             "name":"​Why:",
@@ -421,7 +421,7 @@
       "fields":[  
          {  
             "name":"Where:",
-            "value":"[Port Khazard](https://runescape.wiki/w/Port_Khazard), World 68 in the \"AHelp Chat\" friends chat."
+            "value":"[Port Khazard](https://runescape.wiki/w/Port_Khazard), World 68 in the \"AHelp\" friends chat."
          },
          {  
             "name":"Why:",
@@ -454,7 +454,7 @@
       "fields":[  
          {  
             "name":"Where:",
-            "value":"[Port Khazard](https://runescape.wiki/w/Port_Khazard), World 68 in the \"AHelp Chat\" friends chat."
+            "value":"[Port Khazard](https://runescape.wiki/w/Port_Khazard), World 68 in the \"AHelp\" friends chat."
          },
          {  
             "name":"Why:",
@@ -487,7 +487,7 @@
       "fields":[  
          {  
             "name":"​Where:",
-            "value":"[Gamers' grotto](https://runescape.wiki/w/Gamers%27_grotto), east of the [Falador lodestone](https://runescape.wiki/w/Falador), World 68 in the \"AHelp Chat\" friends chat."
+            "value":"[Gamers' grotto](https://runescape.wiki/w/Gamers%27_grotto), east of the [Falador lodestone](https://runescape.wiki/w/Falador), World 68 in the \"AHelp\" friends chat."
          },
          {  
             "name":"​Why:",
@@ -520,7 +520,7 @@
       "fields":[  
          {  
             "name":"​Where:",
-            "value":"The [Flash Powder Factory](https://runescape.wiki/w/Flash_Powder_Factory), inside the [Rogues' Den](https://runescape.wiki/w/Rogues%27_Den), which is below [The Pick and Lute](https://runescape.wiki/w/The_Pick_and_Lute) bar in [Taverley](https://runescape.wiki/w/Taverley), World 68 in the \"AHelp Chat\" friends chat."
+            "value":"The [Flash Powder Factory](https://runescape.wiki/w/Flash_Powder_Factory), inside the [Rogues' Den](https://runescape.wiki/w/Rogues%27_Den), which is below [The Pick and Lute](https://runescape.wiki/w/The_Pick_and_Lute) bar in [Taverley](https://runescape.wiki/w/Taverley), World 68 in the \"AHelp\" friends chat."
          },
          {  
             "name":"​Why:",
@@ -553,7 +553,7 @@
       "fields":[  
          {  
             "name":"​Where:",
-            "value":"In the northwest section of the [God Wars Dungeon](https://runescape.wiki/w/God_Wars_Dungeon), World 68 in the \"AHelp Chat\" friends chat."
+            "value":"In the northwest section of the [God Wars Dungeon](https://runescape.wiki/w/God_Wars_Dungeon), World 68 in the \"AHelp\" friends chat."
          },
          {  
             "name":"​Why:",
@@ -590,7 +590,7 @@
       "fields":[  
          {  
             "name":"​Where:",
-            "value":"The northeast section of the [Heart of Gielinor](https://runescape.wiki/w/Heart_of_Gielinor), World 68 in the \"AHelp Chat\" friends chat."
+            "value":"The northeast section of the [Heart of Gielinor](https://runescape.wiki/w/Heart_of_Gielinor), World 68 in the \"AHelp\" friends chat."
          },
          {  
             "name":"​Why:",
@@ -627,7 +627,7 @@
       "fields":[  
          {  
             "name":"​Where:",
-            "value":"The northeast section of the [Heart of Gielinor](https://runescape.wiki/w/Heart_of_Gielinor), World 68 in the \"AHelp Chat\" friends chat."
+            "value":"The northeast section of the [Heart of Gielinor](https://runescape.wiki/w/Heart_of_Gielinor), World 68 in the \"AHelp\" friends chat."
          },
          {  
             "name":"​Why:",
@@ -665,7 +665,7 @@
       "fields":[  
          {  
             "name":"​Where:",
-            "value":"World 68 in the \"AHelp Chat\" friends chat."
+            "value":"World 68 in the \"AHelp\" friends chat."
          },
          {  
             "name":"​Why:",
@@ -710,7 +710,7 @@
       "fields":[  
          {  
             "name":"​Where:",
-            "value":"World 68 in the \"AHelp Chat\" friends chat."
+            "value":"World 68 in the \"AHelp\" friends chat."
          },
          {  
             "name":"​Why:",
@@ -747,7 +747,7 @@
       "fields":[  
          {  
             "name":"​Where:",
-            "value":"[Heist](https://runescape.wiki/w/Heist) may be accessed by climbing the ladder just north-west of [Falador](https://runescape.wiki/w/Falador), by the [Taverly](https://runescape.wiki/w/Taverley) wall, World 68 in the \"AHelp Chat\" friends chat."
+            "value":"[Heist](https://runescape.wiki/w/Heist) may be accessed by climbing the ladder just north-west of [Falador](https://runescape.wiki/w/Falador), by the [Taverly](https://runescape.wiki/w/Taverley) wall, World 68 in the \"AHelp\" friends chat."
          },
          {  
             "name":"​Why:",
@@ -780,7 +780,7 @@
       "fields":[  
          {  
             "name":"​Where:",
-            "value":"[Heist](https://runescape.wiki/w/Heist) may be accessed by climbing the ladder just north-west of [Falador](https://runescape.wiki/w/Falador), by the [Taverly](https://runescape.wiki/w/Taverley) wall, World 91 in the \"AHelp Chat\" friends chat."
+            "value":"[Heist](https://runescape.wiki/w/Heist) may be accessed by climbing the ladder just north-west of [Falador](https://runescape.wiki/w/Falador), by the [Taverly](https://runescape.wiki/w/Taverley) wall, World 91 in the \"AHelp\" friends chat."
          },
          {  
             "name":"​Why:",
@@ -813,7 +813,7 @@
       "fields":[  
          {  
             "name":"​Where:",
-            "value":"The southeast section of the [Heart of Gielinor](https://runescape.wiki/w/Heart_of_Gielinor), World 68 in the \"AHelp Chat\" friends chat."
+            "value":"The southeast section of the [Heart of Gielinor](https://runescape.wiki/w/Heart_of_Gielinor), World 68 in the \"AHelp\" friends chat."
          },
          {  
             "name":"​Why:",
@@ -850,7 +850,7 @@
       "fields":[  
          {  
             "name":"​Where:",
-            "value":"The southeast section of the [Heart of Gielinor](https://runescape.wiki/w/Heart_of_Gielinor), World 68 in the \"AHelp Chat\" friends chat."
+            "value":"The southeast section of the [Heart of Gielinor](https://runescape.wiki/w/Heart_of_Gielinor), World 68 in the \"AHelp\" friends chat."
          },
          {  
             "name":"​Why:",
@@ -920,7 +920,7 @@
       "fields":[  
          {  
             "name":"​Where:",
-            "value":"The [Exiled Kalphite Hive](https://runescape.wiki/w/Exiled_Kalphite_Hive) in the [Kharidian Desert](https://runescape.wiki/w/Kharidian_Desert), World 68 in the \"AHelp Chat\" friends chat."
+            "value":"The [Exiled Kalphite Hive](https://runescape.wiki/w/Exiled_Kalphite_Hive) in the [Kharidian Desert](https://runescape.wiki/w/Kharidian_Desert), World 68 in the \"AHelp\" friends chat."
          },
          {  
             "name":"​Why:",
@@ -994,7 +994,7 @@
       "fields":[  
          {  
             "name":"​Where:",
-            "value":"The [Exiled Kalphite Hive](https://runescape.wiki/w/Exiled_Kalphite_Hive) in the [Kharidian Desert](https://runescape.wiki/w/Kharidian_Desert), World 68 in the \"AHelp Chat\" friends chat."
+            "value":"The [Exiled Kalphite Hive](https://runescape.wiki/w/Exiled_Kalphite_Hive) in the [Kharidian Desert](https://runescape.wiki/w/Kharidian_Desert), World 68 in the \"AHelp\" friends chat."
          },
          {  
             "name":"​Why:",
@@ -1031,7 +1031,7 @@
       "fields":[  
          {  
             "name":"Where:",
-            "value":"The southwest section of the [God Wars Dungeon](https://runescape.wiki/w/God_Wars_Dungeon), World 68 in the \"AHelp Chat\" friends chat."
+            "value":"The southwest section of the [God Wars Dungeon](https://runescape.wiki/w/God_Wars_Dungeon), World 68 in the \"AHelp\" friends chat."
          },
          {  
             "name":"Why:",
@@ -1068,7 +1068,7 @@
       "fields":[  
          {  
             "name":"​Where:",
-            "value":"[Falador Park](https://runescape.wiki/w/Falador_Park), south of the [Falador](https://runescape.wiki/w/Falador) [Lodestone](https://runescape.wiki/w/Lodestone_Network), World 68 in the \"AHelp Chat\" friends chat."
+            "value":"[Falador Park](https://runescape.wiki/w/Falador_Park), south of the [Falador](https://runescape.wiki/w/Falador) [Lodestone](https://runescape.wiki/w/Lodestone_Network), World 68 in the \"AHelp\" friends chat."
          },
          {  
             "name":"​Why:",
@@ -1105,7 +1105,7 @@
       "fields":[  
          {  
             "name":"Where:",
-            "value":"[Falador Park](https://runescape.wiki/w/Falador_Park), World 68 in the \"AHelp Chat\" friends chat."
+            "value":"[Falador Park](https://runescape.wiki/w/Falador_Park), World 68 in the \"AHelp\" friends chat."
          },
          {  
             "name":"Why:",
@@ -1142,7 +1142,7 @@
       "fields":[  
          {  
             "name":"​Where:",
-            "value":"Nex Bank, within the [Ancient Prison](https://runescape.wiki/w/God_Wars_Dungeon#Ancient_Prison) in the [God Wars Dungeon](https://runescape.wiki/w/God_Wars_Dungeon), World 68 in the \"AHelp Chat\" friends chat."
+            "value":"Nex Bank, within the [Ancient Prison](https://runescape.wiki/w/God_Wars_Dungeon#Ancient_Prison) in the [God Wars Dungeon](https://runescape.wiki/w/God_Wars_Dungeon), World 68 in the \"AHelp\" friends chat."
          },
          {  
             "name":"​Why:",
@@ -1183,7 +1183,7 @@
       "fields":[  
          {  
             "name":"​Where:",
-            "value":"Nex Bank, within the [Ancient Prison](https://runescape.wiki/w/God_Wars_Dungeon#Ancient_Prison) in the [God Wars Dungeon](https://runescape.wiki/w/God_Wars_Dungeon), World 68 in the \"AHelp Chat\" friends chat."
+            "value":"Nex Bank, within the [Ancient Prison](https://runescape.wiki/w/God_Wars_Dungeon#Ancient_Prison) in the [God Wars Dungeon](https://runescape.wiki/w/God_Wars_Dungeon), World 68 in the \"AHelp\" friends chat."
          },
          {  
             "name":"​Why:",
@@ -1265,7 +1265,7 @@
       "fields":[  
          {  
             "name":"​Where:",
-            "value":"Nex Bank, within the [Ancient Prison](https://runescape.wiki/w/God_Wars_Dungeon#Ancient_Prison) in the [God Wars Dungeon](https://runescape.wiki/w/God_Wars_Dungeon), World 68 in the \"AHelp Chat\" friends chat."
+            "value":"Nex Bank, within the [Ancient Prison](https://runescape.wiki/w/God_Wars_Dungeon#Ancient_Prison) in the [God Wars Dungeon](https://runescape.wiki/w/God_Wars_Dungeon), World 68 in the \"AHelp\" friends chat."
          },
          {  
             "name":"​Why:",
@@ -1429,7 +1429,7 @@
       "fields":[  
          {  
             "name":"​Where:",
-            "value":"Nex Bank, within the [Ancient Prison](https://runescape.wiki/w/God_Wars_Dungeon#Ancient_Prison) in the [God Wars Dungeon](https://runescape.wiki/w/God_Wars_Dungeon), World 68 in the \"AHelp Chat\" friends chat."
+            "value":"Nex Bank, within the [Ancient Prison](https://runescape.wiki/w/God_Wars_Dungeon#Ancient_Prison) in the [God Wars Dungeon](https://runescape.wiki/w/God_Wars_Dungeon), World 68 in the \"AHelp\" friends chat."
          },
          {  
             "name":"​Why:",
@@ -1470,7 +1470,7 @@
       "fields":[  
          {  
             "name":"​Where:",
-            "value":"World 60 in the \"AHelp Chat\" friends chat."
+            "value":"World 60 in the \"AHelp\" friends chat."
          },
          {  
             "name":"​Why:",
@@ -1503,7 +1503,7 @@
       "fields":[  
          {  
             "name":"​Where:",
-            "value":"[The Void Knights' Outpost](https://runescape.wiki/w/Void_Knights%27_Outpost), World 68 in the \"AHelp Chat\" friends chat."
+            "value":"[The Void Knights' Outpost](https://runescape.wiki/w/Void_Knights%27_Outpost), World 68 in the \"AHelp\" friends chat."
          },
          {  
             "name":"​Why:",
@@ -1668,7 +1668,7 @@
       "fields":[  
          {  
             "name":"​Where:",
-            "value":"The [Soul Wars](https://runescape.wiki/w/Soul_Wars) lobby, World 68 in the \"AHelp Chat\" friends chat. To get to Soul Wars, one must enter the [Soul Wars portal](https://runescape.wiki/w/Soul_Wars_portal) in [Edgeville](https://runescape.wiki/w/Edgeville)."
+            "value":"The [Soul Wars](https://runescape.wiki/w/Soul_Wars) lobby, World 68 in the \"AHelp\" friends chat. To get to Soul Wars, one must enter the [Soul Wars portal](https://runescape.wiki/w/Soul_Wars_portal) in [Edgeville](https://runescape.wiki/w/Edgeville)."
          },
          {  
             "name":"​Why:",
@@ -1701,7 +1701,7 @@
       "fields":[  
          {  
             "name":"​Where:",
-            "value":"The [Soul Wars](https://runescape.wiki/w/Soul_Wars) lobby, World 68 in the \"AHelp Chat\" friends chat. To get to Soul Wars, one must enter the [Soul Wars portal](https://runescape.wiki/w/Soul_Wars_portal) in [Edgeville](https://runescape.wiki/w/Edgeville)."
+            "value":"The [Soul Wars](https://runescape.wiki/w/Soul_Wars) lobby, World 68 in the \"AHelp\" friends chat. To get to Soul Wars, one must enter the [Soul Wars portal](https://runescape.wiki/w/Soul_Wars_portal) in [Edgeville](https://runescape.wiki/w/Edgeville)."
          },
          {  
             "name":"​Why:",
@@ -1734,7 +1734,7 @@
       "fields":[  
          {  
             "name":"Where:",
-            "value":"The [Stealing Creation](https://runescape.wiki/w/Stealing_Creation) lobby, World 68 in the \"AHelp Chat\" friends chat.\n\nStealing Creation is located in the [Mystic's Camp](https://runescape.wiki/w/Mystic%27s_Camp), in the northern section of the [Gamers' Grotto](https://runescape.wiki/w/Gamers%27_Grotto), accessible via a cavern entrance situated north of [Falador](https://runescape.wiki/w/Falador) and south-west of [Edgeville](https://runescape.wiki/w/Edgeville). The [Games necklace](https://runescape.wiki/w/Games_necklace) has a teleport option to the grotto."
+            "value":"The [Stealing Creation](https://runescape.wiki/w/Stealing_Creation) lobby, World 68 in the \"AHelp\" friends chat.\n\nStealing Creation is located in the [Mystic's Camp](https://runescape.wiki/w/Mystic%27s_Camp), in the northern section of the [Gamers' Grotto](https://runescape.wiki/w/Gamers%27_Grotto), accessible via a cavern entrance situated north of [Falador](https://runescape.wiki/w/Falador) and south-west of [Edgeville](https://runescape.wiki/w/Edgeville). The [Games necklace](https://runescape.wiki/w/Games_necklace) has a teleport option to the grotto."
          },
          {  
             "name":"Why:",
@@ -1833,7 +1833,7 @@
       "fields":[  
          {  
             "name":"Where:",
-            "value":"The [Stealing Creation](https://runescape.wiki/w/Stealing_Creation) lobby, World 45 in the \"AHelp Chat\" friends chat.\n\nStealing Creation is located in the [Mystic's Camp](https://runescape.wiki/w/Mystic%27s_Camp), in the northern section of the [Gamers' Grotto](https://runescape.wiki/w/Gamers%27_Grotto), accessible via a cavern entrance situated north of [Falador](https://runescape.wiki/w/Falador) and south-west of [Edgeville](https://runescape.wiki/w/Edgeville). The [Games necklace](https://runescape.wiki/w/Games_necklace) has a teleport option to the grotto."
+            "value":"The [Stealing Creation](https://runescape.wiki/w/Stealing_Creation) lobby, World 45 in the \"AHelp\" friends chat.\n\nStealing Creation is located in the [Mystic's Camp](https://runescape.wiki/w/Mystic%27s_Camp), in the northern section of the [Gamers' Grotto](https://runescape.wiki/w/Gamers%27_Grotto), accessible via a cavern entrance situated north of [Falador](https://runescape.wiki/w/Falador) and south-west of [Edgeville](https://runescape.wiki/w/Edgeville). The [Games necklace](https://runescape.wiki/w/Games_necklace) has a teleport option to the grotto."
          },
          {  
             "name":"Why:",
@@ -1903,7 +1903,7 @@
       "fields":[  
          {  
             "name":"​Where:",
-            "value":"The eastern side of [Mos Le'Harmless](https://runescape.wiki/w/Mos_Le%27Harmless), World 68 in the \"AHelp Chat\" friends chat."
+            "value":"The eastern side of [Mos Le'Harmless](https://runescape.wiki/w/Mos_Le%27Harmless), World 68 in the \"AHelp\" friends chat."
          },
          {  
             "name":"​Why:",
@@ -1936,7 +1936,7 @@
       "fields":[  
          {  
             "name":"​Where:",
-            "value":"The eastern side of [Mos Le'Harmless](https://runescape.wiki/w/Mos_Le%27Harmless), World 68 in the \"AHelp Chat\" friends chat."
+            "value":"The eastern side of [Mos Le'Harmless](https://runescape.wiki/w/Mos_Le%27Harmless), World 68 in the \"AHelp\" friends chat."
          },
          {  
             "name":"​Why:",
@@ -1969,7 +1969,7 @@
       "fields":[  
          {  
             "name":"Where:",
-            "value":"The northwest section of the [Heart of Gielinor](https://runescape.wiki/w/Heart_of_Gielinor), World 68 in the \"AHelp Chat\" friends chat."
+            "value":"The northwest section of the [Heart of Gielinor](https://runescape.wiki/w/Heart_of_Gielinor), World 68 in the \"AHelp\" friends chat."
          },
          {  
             "name":"Why:",
@@ -2006,7 +2006,7 @@
       "fields":[  
          {  
             "name":"Where:",
-            "value":"The northwest section of the [Heart of Gielinor](https://runescape.wiki/w/Heart_of_Gielinor), World 68 in the \"AHelp Chat\" friends chat."
+            "value":"The northwest section of the [Heart of Gielinor](https://runescape.wiki/w/Heart_of_Gielinor), World 68 in the \"AHelp\" friends chat."
          },
          {  
             "name":"Why:",
@@ -2080,7 +2080,7 @@
       "fields":[  
          {  
             "name":"Where:",
-            "value":"The southwest section of the [Heart of Gielinor](https://runescape.wiki/w/Heart_of_Gielinor), World 68 in the \"AHelp Chat\" friends chat."
+            "value":"The southwest section of the [Heart of Gielinor](https://runescape.wiki/w/Heart_of_Gielinor), World 68 in the \"AHelp\" friends chat."
          },
          {  
             "name":"Why:",
@@ -2117,7 +2117,7 @@
       "fields":[  
          {  
             "name":"Where:",
-            "value":"The southwest section of the [Heart of Gielinor](https://runescape.wiki/w/Heart_of_Gielinor), World 68 in the \"AHelp Chat\" friends chat."
+            "value":"The southwest section of the [Heart of Gielinor](https://runescape.wiki/w/Heart_of_Gielinor), World 68 in the \"AHelp\" friends chat."
          },
          {  
             "name":"Why:",
@@ -2154,7 +2154,7 @@
       "fields":[  
          {  
             "name":"​Where:",
-            "value":"[Vorago](https://runescape.wiki/w/Vorago)'s [Borehole](https://runescape.wiki/w/Borehole), North of the [Falador](https://runescape.wiki/w/Falador) [Lodestone](https://runescape.wiki/w/Lodestone_Network), World 68 in the \"AHelp Chat\" friends chat."
+            "value":"[Vorago](https://runescape.wiki/w/Vorago)'s [Borehole](https://runescape.wiki/w/Borehole), North of the [Falador](https://runescape.wiki/w/Falador) [Lodestone](https://runescape.wiki/w/Lodestone_Network), World 68 in the \"AHelp\" friends chat."
          },
          {  
             "name":"​Why:",
@@ -2195,7 +2195,7 @@
       "fields":[  
          {  
             "name":"Where:",
-            "value":"The southeast section of the [God Wars Dungeon](https://runescape.wiki/w/God_Wars_Dungeon), World 68 in the \"AHelp Chat\" friends chat."
+            "value":"The southeast section of the [God Wars Dungeon](https://runescape.wiki/w/God_Wars_Dungeon), World 68 in the \"AHelp\" friends chat."
          },
          {  
             "name":"Why:",
