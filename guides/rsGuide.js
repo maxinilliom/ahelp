@@ -52,6 +52,36 @@ exports.data = {
         "text": "AHelp | Designed by Son and AHelpers"
     }
   },
+  "combat - elite dungeons - a mini shipment": {
+        "title": "A Mini Shipment (Combat, Elite Dungeons)",
+        "author":
+        {
+            "name": "RuneScore Achievement Info",
+            "icon_url": "https://i.imgur.com/6c6q2iC.png"
+        },
+        "description": "[A Mini Shipment](https://runescape.wiki/w/A_Mini_Shipment) is an achievement that requires the player to loot the [Trunk](https://runescape.wiki/w/Trunk_(Temple_of_Aminishi%29) in the [Azure room](https://runescape.wiki/w/Azure_room) of the [Temple of Aminishi](https://runescape.wiki/w/Temple_of_Aminishi) using a [Trunk key](https://runescape.wiki/w/Trunk_key).\n\nThis achievement can be completed in story mode as well as in normal mode.",
+        "thumbnail":
+        {
+            "url": "https://i.imgur.com/Shmagnp.png"
+        },
+        "fields":
+        [
+            {
+                 "name": "Steps:",
+                 "value": "• Complete the Goshima section of [Curse of the Black Stone](https://runescape.wiki/w/Curse_of_the_Black_Stone).\n\n• Return to [Goshima](https://runescape.wiki/w/Goshima), go to the north-north-easternmost building in town and open the eastern trunk north of that building to find the [Azure key](https://runescape.wiki/w/Azure_key).\n\n• Go to the Temple of Aminishi and find the door in the first room on the northern wall in the north-east corner of the room.\n\n• Use the azure key on the door to permanently open it (removing the key) and go through the door to access the azure room.\n\n• Leave through the north-eastern door to access the north-east island of [Aminishi](https://runescape.wiki/w/Aminishi).\n\n• Dig the mound of sand on the northern part of the island to receive the trunk key.\n\n• Return to the azure room and use the key on the trunk to complete the achievement. This will cause the following message to be shown: \"You plunder the trunk and find many useful supplies!\""
+            },
+            {
+                 "name": "Requirements:",
+                 "value": "• None"
+            }
+           
+        ],
+        "footer":
+        {
+            "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+            "text": "RuneScore awarded: 5"
+        }
+    },
   "combat - elite dungeons - a quest for understanding": {
     "title": "A Quest for Understanding",
     "author": {
@@ -241,6 +271,33 @@ exports.data = {
     },
 "timestamp": "2001-01-04T12:00:00Z"
   },
+  "combat - elite dungeons - clenched": {
+        "title": "Clenched (Combat, Elite Dungeons)",
+        "author":
+        {
+            "name": "RuneScore Achievement Info",
+            "icon_url": "https://i.imgur.com/6c6q2iC.png"
+        },
+        "description": "[Clenched](https://runescape.wiki/w/Clenched) is an achievement that requires the player to defeat [The Ambassador](https://runescape.wiki/w/The_Ambassador) inside [The Shadow Reef](https://runescape.wiki/w/The_Shadow_Reef) without destroying any [Sinister fragments](https://runescape.wiki/w/Sinister_fragment).\n\nIt's recommended to attempt this achievement in a group as destroying a single fragment, even from another set, will result in players being ineligible for the achievement. \n\nAs all six fragments will remain intact, this means players must take six shockwave attacks. Use all defensive abilities at your disposal and [Enfeeble](https://runescape.wiki/w/Enfeeble) to weaken the strength of these attacks.\n\n This achievement can only be completed in normal mode.",
+        "thumbnail":
+        {
+            "url": "https://i.imgur.com/Shmagnp.png"
+        },
+        "fields":
+        [
+           
+            {
+                 "name": "Requirements:",
+                 "value": "• None"
+            }
+           
+        ],
+        "footer":
+        {
+            "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+            "text": "RuneScore awarded: 50"
+        }
+    },
   "combat - elite dungeons - crassian en masse": {
     "title": "Crassian en Masse",
     "author": {
@@ -261,6 +318,87 @@ exports.data = {
     },
 "timestamp": "2001-01-04T12:00:00Z"
   },
+  "combat - elite dungeons - crawfish boil": {
+        "title": "Crawfish Boil (Combat, Elite Dungeons)",
+        "author":
+        {
+            "name": "RuneScore Achievement Info",
+            "icon_url": "https://i.imgur.com/6c6q2iC.png"
+        },
+        "description": "[Crawfish Boil](https://runescape.wiki/w/Crawfish_Boil) is an achievement that requires the player to to disintegrate 12 [Crassian ritual keepers](https://runescape.wiki/w/Crassian_ritual_keeper) simultaneously during [The Ambassador](https://runescape.wiki/w/The_Ambassador) encounter inside [The Shadow Reef](https://runescape.wiki/w/The_Shadow_Reef).\n\nThe amount of ritual keepers that spawn is based on the group's size - for the fastest results, fight Kranon in a group of three. This means he only needs to spawn three sets of ritual keepers to meet the achievement's requirements.\n\nDo not damage Kranon below 200,000 (story mode) or 400,000 (normal mode) health until twelve ritual keepers are in the arena.\n\n This achievement is a requirement in order to purchase the [Tetch](https://runescape.wiki/w/Tetch) pet from [Bryll Thoksdottir](https://runescape.wiki/w/Bryll_Thoksdottir) in her [Elite Dungeon Reward Shop](https://runescape.wiki/w/Elite_Dungeon_Reward_Shop) for 250,000 [dungeoneering tokens](https://runescape.wiki/w/Dungeoneering_tokens).\n\nThis achievement can be completed in story mode as well as normal mode.",
+        "thumbnail":
+        {
+            "url": "https://i.imgur.com/Shmagnp.png"
+        },
+        "fields":
+        [
+           
+            {
+                 "name": "Requirements:",
+                 "value": "• None"
+            }
+           
+        ],
+        "footer":
+        {
+            "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+            "text": "RuneScore awarded: 30"
+        }
+    },
+  "combat - elite dungeons - demon duty": {
+        "title": "Demon Duty (Combat, Elite Dungeons)",
+        "author":
+        {
+            "name": "RuneScore Achievement Info",
+            "icon_url": "https://i.imgur.com/6c6q2iC.png"
+        },
+        "description": "[Demon Duty](https://runescape.wiki/w/Demon_Duty) is an achievement that requires the player to defeat the miniboss [Yor'Ger the Deceiver](https://runescape.wiki/w/Yor%27Ger_the_Deceiver) inside [The Shadow Reef](https://runescape.wiki/w/The_Shadow_Reef) while on a [Kal'gerion demon](https://runescape.wiki/w/Kal%27gerion_demon) [Slayer assignment](https://runescape.wiki/w/Slayer_assignment).\n\nThis achievement can only be completed in normal mode.",
+        "thumbnail":
+        {
+            "url": "https://i.imgur.com/Shmagnp.png"
+        },
+        "fields":
+        [
+           
+            {
+                 "name": "Requirements:",
+                 "value": "• 90 Slayer"
+            }
+           
+        ],
+        "footer":
+        {
+            "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+            "text": "RuneScore awarded: 5"
+        }
+    },
+  "combat - elite dungeons - dextrous crystal": {
+        "title": "Dextrous Crystal (Combat, Elite Dungeons)",
+        "author":
+        {
+            "name": "RuneScore Achievement Info",
+            "icon_url": "https://i.imgur.com/6c6q2iC.png"
+        },
+        "description": "[Dextrous Crystal](https://runescape.wiki/w/Dextrous_Crystal) is an achievement that requires the player to defeat [Taraket the Necromancer](https://runescape.wiki/w/Taraket_the_Necromancer) inside [The Shadow Reef](https://runescape.wiki/w/The_Shadow_Reef) while the [Bloated monstrosity](https://runescape.wiki/w/Bloated_monstrosity) is still alive. \n\nThis achievement can only be completed in normal mode.",
+        "thumbnail":
+        {
+            "url": "https://i.imgur.com/Shmagnp.png"
+        },
+        "fields":
+        [
+           
+            {
+                 "name": "Requirements:",
+                 "value": "• None"
+            }
+           
+        ],
+        "footer":
+        {
+            "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+            "text": "RuneScore awarded: 20"
+        }
+    },
   "combat - elite dungeons - died by the blade!": {
     "title": "Died by the Blade!",
     "author": {
@@ -543,6 +681,34 @@ exports.data = {
     },
 "timestamp": "2001-01-04T12:00:00Z"
   },
+  "combat - elite dungeons - get shredded": {
+        "title": "Get Shredded (Combat, Elite Dungeons)",
+        "author":
+        {
+            "name": "RuneScore Achievement Info",
+            "icon_url": "https://i.imgur.com/6c6q2iC.png"
+        },
+        "description": "[Get Shredded](https://runescape.wiki/w/Get_Shredded) is an achievement that requires the player to defeat [The Crassian Leviathan](https://runescape.wiki/w/The_Crassian_Leviathan) inside [The Shadow Reef](https://runescape.wiki/w/The_Shadow_Reef) after taking at least 30,000 damage from its sweep attack.\n\nTo complete this with ease, use [Barricade](https://runescape.wiki/w/Barricade) and stand in the middle of the sweep. If Barricade is on cooldown, [Reflect](https://runescape.wiki/w/Reflect) and [Debilitate](https://runescape.wiki/w/Debilitate) can serve as alternatives. \n\nThis achievement can only be completed in normal mode.",
+        "thumbnail":
+        {
+            "url": "https://i.imgur.com/Shmagnp.png"
+        },
+        "fields":
+        [
+           
+            {
+                 "name": "Requirements:",
+                 "value": "• None"
+            }
+           
+        ],
+        "footer":
+        {
+            "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+            "text": "RuneScore awarded: 10"
+        },
+"timestamp": "2001-01-04T12:00:00Z"
+  },
   "combat - elite dungeons - goopy bloop boop": {
     "title": "Goopy Bloop Boop",
     "author": {
@@ -563,6 +729,123 @@ exports.data = {
     },
 "timestamp": "2001-01-04T12:00:00Z"
   },
+  "combat - elite dungeons - griefing the reef": {
+        "title": "Griefing the Reef (Combat, Elite Dungeons)",
+        "author":
+        {
+            "name": "RuneScore Achievement Info",
+            "icon_url": "https://i.imgur.com/6c6q2iC.png"
+        },
+        "description": "[Griefing the Reef](https://runescape.wiki/w/Griefing_the_Reef) is an achievement that requires the player to defeat every miniboss inside [The Shadow Reef](https://runescape.wiki/w/The_Shadow_Reef). \n\nThis achievement can be completed in story mode as well as in normal mode.",
+        "thumbnail":
+        {
+            "url": "https://i.imgur.com/Shmagnp.png"
+        },
+        "fields":
+        [
+            {
+                 "name": "Minibosses to kill:",
+                 "value": "• [Hanto](https://runescape.wiki/w/Hanto_(The_Shadow_Reef%29) \n• [Boggoth](https://runescape.wiki/w/Boggoth) \n• [Ulthven Keith](https://runescape.wiki/w/Ulthven_Keith) \n• [Bossy McBossface](https://runescape.wiki/w/Bossy_McBossface) \n• [Cooper](https://runescape.wiki/w/Cooper) \n• [Lady Himiko](https://runescape.wiki/w/Lady_Himiko) \n• [Shrine Maiden Elei](https://runescape.wiki/w/Shrine_Maiden_Elei) \n• [Quetzathog](https://runescape.wiki/w/Quetzathog) \n",
+                 "inline": true
+            },
+            {
+                 "name": "⠀",
+                 "value": "• [Tombi, Khan of Thalassia](https://runescape.wiki/w/Tombi,_Khan_of_Thalassia) \n• [Yor'Ger the Deceiver](https://runescape.wiki/w/Yor%27Ger_the_Deceiver) \n• [Oreb, the Magister](https://runescape.wiki/w/Oreb,_the_Magister) \n• [Black Stone Scuttler](https://runescape.wiki/w/Black_Stone_Scuttler) \n• [Masuta the Descended](https://runescape.wiki/w/Masuta_the_Descended) \n• [Maw of Kolthregar](https://runescape.wiki/w/Maw_of_Kolthregar) \n• [Hand of Dagnath](https://runescape.wiki/w/Hand_of_Dagnath) \n• [Eye of Cythan](https://runescape.wiki/w/Eye_of_Cythan) \n",
+                 "inline": true
+            },
+            {
+                 "name": "Requirements:",
+                 "value": "• None"
+            }
+           
+        ],
+        "footer":
+        {
+            "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+            "text": "RuneScore awarded: 20"
+        }
+    },
+  "combat - elite dungeons - hail hydra": {
+        "title": "Hail Hydra (Combat, Elite Dungeons)",
+        "author":
+        {
+            "name": "RuneScore Achievement Info",
+            "icon_url": "https://i.imgur.com/6c6q2iC.png"
+        },
+        "description": "[Hail Hydra](https://runescape.wiki/w/Hail_Hydra) is an achievement that requires the player to hit [The Crassian Leviathan](https://runescape.wiki/w/The_Crassian_Leviathan) using the [Ice Barrage](https://runescape.wiki/w/Ice_Barrage) spell. \n\nThis achievement can be completed in story mode as well as in normal mode.",
+        "thumbnail":
+        {
+            "url": "https://i.imgur.com/Shmagnp.png"
+        },
+        "fields":
+        [
+           
+            {
+                 "name": "Requirements:",
+                 "value": "• 94 Magic"
+            }
+           
+        ],
+        "footer":
+        {
+            "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+            "text": "RuneScore awarded: 10"
+        }
+    },
+  "combat - elite dungeons - happy trails": {
+        "title": "Happy Trails (Combat, Elite Dungeons)",
+        "author":
+        {
+            "name": "RuneScore Achievement Info",
+            "icon_url": "https://i.imgur.com/6c6q2iC.png"
+        },
+        "description": "[Happy Trails](https://runescape.wiki/w/Happy_Trails) is an achievement that requires the player to defeat [The Ambassador](https://runescape.wiki/w/The_Ambassador) inside [The Shadow Reef](https://runescape.wiki/w/The_Shadow_Reef) without anyone taking any damage from his purple corruption.\n\nThis achievement can only be completed in normal mode.",
+        "thumbnail":
+        {
+            "url": "https://i.imgur.com/Shmagnp.png"
+        },
+        "fields":
+        [
+           
+            {
+                 "name": "Requirements:",
+                 "value": "• None"
+            }
+           
+        ],
+        "footer":
+        {
+            "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+            "text": "RuneScore awarded: 20"
+        }
+    },
+  "combat - elite dungeons - harassing the crassian": {
+        "title": "Harassing the Crassian (Combat, Elite Dungeons)",
+        "author":
+        {
+            "name": "RuneScore Achievement Info",
+            "icon_url": "https://i.imgur.com/6c6q2iC.png"
+        },
+        "description": "[Harassing the Crassian](https://runescape.wiki/w/Harassing_the_Crassian) is an achievement that requires the player to defeat [The Crassian Leviathan](https://runescape.wiki/w/The_Crassian_Leviathan) inside [The Shadow Reef](https://runescape.wiki/w/The_Shadow_Reef) after allowing it to fully regenerate from below half health. \n\nThis achievement can only be completed in normal mode.",
+        "thumbnail":
+        {
+            "url": "https://i.imgur.com/Shmagnp.png"
+        },
+        "fields":
+        [
+           
+            {
+                 "name": "Requirements:",
+                 "value": "• None"
+            }
+           
+        ],
+        "footer":
+        {
+            "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+            "text": "RuneScore awarded: 20"
+        }
+    },
   "combat - elite dungeons - here is my handle": {
     "title": "Here Is My Handle",
     "author": {
@@ -583,6 +866,33 @@ exports.data = {
     },
 "timestamp": "2001-01-04T12:00:00Z"
   },
+  "combat - elite dungeons - hydra halitosis": {
+        "title": "Hydra Halitosis (Combat, Elite Dungeons)",
+        "author":
+        {
+            "name": "RuneScore Achievement Info",
+            "icon_url": "https://i.imgur.com/6c6q2iC.png"
+        },
+        "description": "[Hydra Halitosis](https://runescape.wiki/w/Hydra_Halitosis) is an achievement that requires the player to defeat [The Crassian Leviathan](https://runescape.wiki/w/The_Crassian_Leviathan) inside [The Shadow Reef](https://runescape.wiki/w/The_Shadow_Reef) without ever being stunned. \n\n This achievement can only be completed in normal mode.",
+        "thumbnail":
+        {
+            "url": "https://i.imgur.com/Shmagnp.png"
+        },
+        "fields":
+        [
+           
+            {
+                 "name": "Requirements:",
+                 "value": "• None"
+            }
+           
+        ],
+        "footer":
+        {
+            "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+            "text": "RuneScore awarded: 5"
+        }
+    },
   "combat - elite dungeons - i'll pulverise you!": {
     "title": "I'll Pulverise You!",
     "author": {
@@ -603,6 +913,141 @@ exports.data = {
     },
 "timestamp": "2001-01-04T12:00:00Z"
   },
+  "combat - elite dungeons - i'm the masuta now": {
+        "title": "I'm the Masuta Now (Combat, Elite Dungeons)",
+        "author":
+        {
+            "name": "RuneScore Achievement Info",
+            "icon_url": "https://i.imgur.com/6c6q2iC.png"
+        },
+        "description": "[I'm the Masuta Now](https://runescape.wiki/w/I%27m_the_Masuta_Now) is an achievement that is completed by defeating the miniboss [Masuta the Descended](https://runescape.wiki/w/Masuta_the_Descended) inside [The Shadow Reef](https://runescape.wiki/w/The_Shadow_Reef) while wielding [Masuta's warspear](https://runescape.wiki/w/Masuta%27s_warspear).\n\nThe warspear does not need to be equipped for the entire fight; it is only required to equip it when Masuta is defeated.\n\nThis achievement can only be completed in normal mode.",
+        "thumbnail":
+        {
+            "url": "https://i.imgur.com/Shmagnp.png"
+        },
+        "fields":
+        [
+           
+            {
+                 "name": "Requirements:",
+                 "value": "• None"
+            }
+           
+        ],
+        "footer":
+        {
+            "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+            "text": "RuneScore awarded: 5"
+        }
+    },
+  "combat - elite dungeons - i've got your face": {
+        "title": "I've Got Your Face (Combat, Elite Dungeons)",
+        "author":
+        {
+            "name": "RuneScore Achievement Info",
+            "icon_url": "https://i.imgur.com/6c6q2iC.png"
+        },
+        "description": "[I've Got Your Face](https://runescape.wiki/w/I%27ve_Got_Your_Face) is an achievement that requires the player to defeat the miniboss [Quetzathog](https://runescape.wiki/w/Quetzathog) inside [The Shadow Reef](https://runescape.wiki/w/The_Shadow_Reef) while wearing a [Black mask](https://runescape.wiki/w/Black_mask).\n\nThis achievement can only be completed in normal mode.",
+        "thumbnail":
+        {
+            "url": "https://i.imgur.com/Shmagnp.png"
+        },
+        "fields":
+        [
+           
+            {
+                 "name": "Requirements:",
+                 "value": "• None"
+            }
+           
+        ],
+        "footer":
+        {
+            "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+            "text": "RuneScore awarded: 5"
+        }
+    },
+  "combat - elite dungeons - instability never phased me": {
+        "title": "Instability Never Phased Me (Combat, Elite Dungeons)",
+        "author":
+        {
+            "name": "RuneScore Achievement Info",
+            "icon_url": "https://i.imgur.com/6c6q2iC.png"
+        },
+        "description": "[Instability Never Phased Me](https://runescape.wiki/w/Instability_Never_Phased_Me) is an achievement that requires the player to defeat [The Ambassador](https://runescape.wiki/w/The_Ambassador) inside [The Shadow Reef](https://runescape.wiki/w/The_Shadow_Reef) after surviving explosions from at least 4 [Unstable black holes](https://runescape.wiki/w/Unstable_black_hole).\n\n It is recommended to complete this achievement in trio mode so Kranon creates three black holes at once. To avoid taking damage, activate [Barricade](https://runescape.wiki/w/Barricade) just before the timer bars above the black holes run out. Players will need to wait for Kranon to use the black hole special attack twice.\n\nThis achievement can only be completed in normal mode.",
+        "thumbnail":
+        {
+            "url": "https://i.imgur.com/Shmagnp.png"
+        },
+        "fields":
+        [
+           
+            {
+                 "name": "Requirements:",
+                 "value": "• None"
+            }
+           
+        ],
+        "footer":
+        {
+            "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+            "text": "RuneScore awarded: 30"
+        }
+    },
+  "combat - elite dungeons - island getaway": {
+        "title": "Island Getaway (Combat, Elite Dungeons)",
+        "author":
+        {
+            "name": "RuneScore Achievement Info",
+            "icon_url": "https://i.imgur.com/6c6q2iC.png"
+        },
+        "description": "[Island Getaway](https://runescape.wiki/w/Island_Getaway) is an achievement that requires the player to defeat [Hanto](https://runescape.wiki/w/Hanto_(The_Shadow_Reef%29) while it is at least 4 tiles away from where it started.\n\nTo complete this the player must use one of the following abilities; [Kick](https://runescape.wiki/w/Kick)/[Backhand](https://runescape.wiki/w/Backhand) for melee, [Demoralise](https://runescape.wiki/w/Demoralise)/[Rout](https://runescape.wiki/w/Rout) for ranged or [Shock](https://runescape.wiki/w/Shock)/[Horror](https://runescape.wiki/w/Horror) for magic.\n\nThis achievement can only be completed in normal mode.",
+        "thumbnail":
+        {
+            "url": "https://i.imgur.com/Shmagnp.png"
+        },
+        "fields":
+        [
+           
+            {
+                 "name": "Requirements:",
+                 "value": "• None"
+            }
+           
+        ],
+        "footer":
+        {
+            "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+            "text": "RuneScore awarded: 5"
+        }
+    },
+  "combat - elite dungeons - kraken the whip": {
+        "title": "Kraken the Whip (Combat, Elite Dungeons)",
+        "author":
+        {
+            "name": "RuneScore Achievement Info",
+            "icon_url": "https://i.imgur.com/6c6q2iC.png"
+        },
+        "description": "[Kraken the Whip](https://runescape.wiki/w/Kraken_the_Whip) is an achievement that requires the player to hit [Boggoth](https://runescape.wiki/w/Boggoth) inside [The Shadow Reef](https://runescape.wiki/w/The_Shadow_Reef) using a [Lava whip's](https://runescape.wiki/w/Lava_whip) [special attack](https://runescape.wiki/w/Lava_whip#Special_attack).\n\nEnsure to take a step away from Boggoth before using the special attack.\n\nThis achievement can be completed in story mode as well as in normal mode.",
+        "thumbnail":
+        {
+            "url": "https://i.imgur.com/Shmagnp.png"
+        },
+        "fields":
+        [
+           
+            {
+                 "name": "Requirements:",
+                 "value": "• None"
+            }
+           
+        ],
+        "footer":
+        {
+            "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+            "text": "RuneScore awarded: 5"
+        }
+    },
   "combat - elite dungeons - malignant enigmas": {
     "title": "Malignant Enigmas",
     "author": {
@@ -623,6 +1068,33 @@ exports.data = {
     },
 "timestamp": "2001-01-04T12:00:00Z"
   },
+  "combat - elite dungeons - monkey sadness": {
+        "title": "Monkey Sadness (Combat, Elite Dungeons)",
+        "author":
+        {
+            "name": "RuneScore Achievement Info",
+            "icon_url": "https://i.imgur.com/6c6q2iC.png"
+        },
+        "description": "[Monkey Sadness](https://runescape.wiki/w/Monkey_Sadness) is an achievement that that requires the player to defeat the miniboss [Bossy McBossface's](https://runescape.wiki/w/Bossy_McBossface) first mate inside [The Shadow Reef](https://runescape.wiki/w/The_Shadow_Reef).\n\nThis achievement can only be completed in normal mode.",
+        "thumbnail":
+        {
+            "url": "https://i.imgur.com/Shmagnp.png"
+        },
+        "fields":
+        [
+           
+            {
+                 "name": "Requirements:",
+                 "value": "• None"
+            }
+           
+        ],
+        "footer":
+        {
+            "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+            "text": "RuneScore awarded: 5"
+        }
+    },
   "combat - elite dungeons - not a moth": {
     "title": "Not a Moth",
     "author": {
@@ -664,6 +1136,33 @@ exports.data = {
     },
 "timestamp": "2001-01-04T12:00:00Z"
   },
+  "combat - elite dungeons - of kraken ink": {
+        "title": "Of Kraken Ink",
+        "author":
+        {
+            "name": "RuneScore Achievement Info",
+            "icon_url": "https://i.imgur.com/6c6q2iC.png"
+        },
+        "description": "[Of Kraken Ink](https://runescape.wiki/w/Of_Kraken_Ink) is an achievement that requires the player to collect the lore books, [The Last Offering](https://runescape.wiki/w/The_Last_Offering) and [Kranon's Ancient Journal](https://runescape.wiki/w/Kranon%27s_Ancient_Journal), from bosses inside [The Shadow Reef](https://runescape.wiki/w/The_Shadow_Reef).\n\nThe Last Offering is a waterlogged book that describes an encounter with [The Ambassador](https://runescape.wiki/w/The_Ambassador), and can be obtained as a drop from the [Crassian Leviathan](https://runescape.wiki/w/Crassian_Leviathan), the first boss inside The Shadow Reef.\n\nKranon's Ancient Journal is a book that details the thoughts of The Ambassador, and can be obtained as a drop from [Taraket The Necromancer](https://runescape.wiki/w/Taraket_the_Necromancer) inside The Shadow Reef.\n\nThe lore books drop at a 1/10 drop rate. Every normal mode or solo kill of the boss increases that chance by 1%. Wearing the [Dungeoneering master cape](https://runescape.wiki/w/Dungeoneering_master_cape) will increase the chance of receiving lore drops within all Elite Dungeons.\n\nBoth can be obtained in either normal or story mode, however the drop rate is higher in story mode.",
+        "thumbnail":
+        {
+            "url": "https://i.imgur.com/Shmagnp.png"
+        },
+        "fields":
+        [
+           
+            {
+                 "name": "Requirements:",
+                 "value": "• None"
+            }
+           
+        ],
+        "footer":
+        {
+            "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+            "text": "RuneScore awarded: 20"
+        }
+    },
   "combat - elite dungeons - outflanked 'em in the sanctum": {
     "title": "Outflanked 'em in the Sanctum",
     "author": {
@@ -705,6 +1204,42 @@ exports.data = {
     },
 "timestamp": "2001-01-04T12:00:00Z"
   },
+  "combat - elite dungeons - shadow reef": {
+        "title": "Shadow Reef (Combat, Elite Dungeons)",
+        "author":
+        {
+            "name": "RuneScore Achievement Info",
+            "icon_url": "https://i.imgur.com/6c6q2iC.png"
+        },
+        "description": "[Shadow Reef](https://runescape.wiki/w/Shadow_Reef_(achievement%29) is an achievement that requires the player to complete all of the achievements regarding [The Shadow Reef](https://runescape.wiki/w/The_Shadow_Reef).",
+        "thumbnail":
+        {
+            "url": "https://i.imgur.com/Shmagnp.png"
+        },
+        "fields":
+        [
+            {
+                 "name": "Achievements:",
+                 "value": "• [Griefing the Reef](https://rs.wiki/w/Griefing_the_Reef) \n• [Of Kraken Ink](https://rs.wiki/w/Of_Kraken_Ink) \n• [Umbral Diplomacy](https://rs.wiki/w/Umbral_Diplomacy_(achievement%29) \n• [Hail Hydra](https://rs.wiki/w/Hail_Hydra) \n• [Hydra Halitosis](https://rs.wiki/w/Hydra_Halitosis) \n• [Get Shredded](https://rs.wiki/w/Hydra_Halitosis) \n• [Harassing the Crassian](https://rs.wiki/w/Harassing_the_Crassian) \n• [Sinister Crystal](https://rs.wiki/w/Sinister_Crystal) \n• [Dextrous Crystal](https://rs.wiki/w/Dextrous_Crystal) \n• [Tank and Spank](https://rs.wiki/w/Tank_and_Spank) \n• [Unworthy Dead](https://rs.wiki/w/Unworthy_Dead) \n• [Clenched](https://rs.wiki/w/Clenched)\n",
+                 "inline": true
+            },
+            {
+                 "name": "⠀",
+                 "value": "• [Happy Trails](https://rs.wiki/w/Happy_Trails) \n• [Instability Never Phased Me](https://rs.wiki/w/Instability_Never_Phased_Me) \n• [Crawfish Boil](https://rs.wiki/w/Crawfish_Boil) \n• [Island Getaway](https://rs.wiki/w/Island_Getaway) \n• [Kraken the Whip](https://rs.wiki/w/Kraken_the_Whip) \n• [She Smells Sea Smells by the Sea Floor](https://rs.wiki/w/She_Smells_Sea_Smells_by_the_Sea_Floor) \n• [I've Got Your Face](https://rs.wiki/w/I%27ve_Got_Your_Face) \n• [Demon Duty](https://rs.wiki/w/Demon_Duty) \n• [I'm the Masuta Now](https://rs.wiki/w/I%27m_the_Masuta_Now) \n• [Monkey Sadness](https://rs.wiki/w/Monkey_Sadness) \n• [The Black Stone Trilogy](https://rs.wiki/w/The_Black_Stone_Trilogy) \n• [A Mini Shipment](https://rs.wiki/w/A_Mini_Shipment)",
+                 "inline": true
+            },
+            {
+                 "name": "Requirements:",
+                 "value": "• Curse of the Black Stone Quest partial completetion | [Runescape Wiki](https://runescape.wiki/w/Curse_of_the_Black_Stone)"
+            }
+           
+        ],
+        "footer":
+        {
+            "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+            "text": "RuneScore awarded: 50"
+        }
+    },
   "combat - elite dungeons - shadow wave": {
     "title": "Shadow Wave",
     "author": {
@@ -726,6 +1261,60 @@ exports.data = {
     },
 "timestamp": "2001-01-04T12:00:00Z"
   },
+  "combat - elite dungeons - she smells sea smells by the sea floor": {
+        "title": "She Smells Sea Smells by the Sea Floor (Combat, Elite Dungeons)",
+        "author":
+        {
+            "name": "RuneScore Achievement Info",
+            "icon_url": "https://i.imgur.com/6c6q2iC.png"
+        },
+        "description": "[She Smells Sea Smells by the Sea Floor](https://runescape.wiki/w/She_Smells_Sea_Smells_by_the_Sea_Floor) is an achievement that requires the player to show the miniboss [Shrine Maiden Elei](https://runescape.wiki/w/Shrine_Maiden_Elei) inside [The Shadow Reef](https://runescape.wiki/w/The_Shadow_Reef) some [Sushi](https://runescape.wiki/w/Sushi).\n\nThis achievement can be completed in story mode as well as in normal mode.",
+        "thumbnail":
+        {
+            "url": "https://i.imgur.com/Shmagnp.png"
+        },
+        "fields":
+        [
+           
+            {
+                 "name": "Requirements:",
+                 "value": "• None"
+            }
+           
+        ],
+        "footer":
+        {
+            "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+            "text": "RuneScore awarded: 5"
+        }
+    },
+  "combat - elite dungeons - sinister crystal": {
+        "title": "Sinister Crystal (Combat, Elite Dungeons)",
+        "author":
+        {
+            "name": "RuneScore Achievement Info",
+            "icon_url": "https://i.imgur.com/6c6q2iC.png"
+        },
+        "description": "[Sinister Crystal](https://runescape.wiki/w/Sinister_Crystal) is an achievement that requires the player to defeat [Taraket the Necromancer](https://runescape.wiki/w/Taraket_the_Necromancer) inside [The Shadow Reef](https://runescape.wiki/w/The_Shadow_Reef) while the [Corpse carrier](https://runescape.wiki/w/Corpse_carrier) is still alive. \n\nThis achievement can only be completed in normal mode.",
+        "thumbnail":
+        {
+            "url": "https://i.imgur.com/Shmagnp.png"
+        },
+        "fields":
+        [
+           
+            {
+                 "name": "Requirements:",
+                 "value": "• None"
+            }
+           
+        ],
+        "footer":
+        {
+            "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+            "text": "RuneScore awarded: 20"
+        }
+    },
   "combat - elite dungeons - smoulders and skully": {
     "title": "Smoulders and Skully",
     "author": {
@@ -833,6 +1422,33 @@ exports.data = {
     },
 "timestamp": "2001-01-04T12:00:00Z"
   },
+  "combat - elite dungeons - tank and spank": {
+        "title": "Tank and Spank (Combat, Elite Dungeons)",
+        "author":
+        {
+            "name": "RuneScore Achievement Info",
+            "icon_url": "https://i.imgur.com/6c6q2iC.png"
+        },
+        "description": "[Tank and Spank](https://runescape.wiki/w/Tank_and_Spank) is an achievement that requires the player to defeat [Taraket the Necromancer](https://runescape.wiki/w/Taraket_the_Necromancer) inside [The Shadow Reef](https://runescape.wiki/w/The_Shadow_Reef) while both the [Bloated monstrosity](https://runescape.wiki/w/Bloated_monstrosity) and [Corpse carrier](https://runescape.wiki/w/Corpse_carrier) are still alive. \n\nThe achievement can be easily obtained in group mode, as it is extremely easy to whittle down Taraket's health before the two abominations can cause serious problems.\n\nThis achievement can only be completed in normal mode. ",
+        "thumbnail":
+        {
+            "url": "https://i.imgur.com/Shmagnp.png"
+        },
+        "fields":
+        [
+           
+            {
+                 "name": "Requirements:",
+                 "value": "• None"
+            }
+           
+        ],
+        "footer":
+        {
+            "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+            "text": "RuneScore awarded: 40"
+        }
+    },
   "combat - elite dungeons - temple of aminishi": {
     "title": "Temple of Aminishi",
     "author": {
@@ -858,6 +1474,33 @@ exports.data = {
     },
 "timestamp": "2001-01-04T12:00:00Z"
   },
+  "combat - elite dungeons - the black stone trilogy": {
+        "title": "The Black Stone Trilogy (Combat, Elite Dungeons)",
+        "author":
+        {
+            "name": "RuneScore Achievement Info",
+            "icon_url": "https://i.imgur.com/6c6q2iC.png"
+        },
+        "description": "[The Black Stone Trilogy](https://runescape.wiki/w/The_Black_Stone_Trilogy) is an achievement that requires the player to defeat [Seiryu the Azure Serpent](https://runescape.wiki/w/Seiryu_the_Azure_Serpent), the [Black Stone Dragon](https://runescape.wiki/w/Black_stone_dragon), and [The Ambassador](https://runescape.wiki/w/The_Ambassador) consecutively.\n\nThis does not have to be done in one game session.\n\nThis achievement can only be completed in normal mode.",
+        "thumbnail":
+        {
+            "url": "https://i.imgur.com/Shmagnp.png"
+        },
+        "fields":
+        [
+           
+            {
+                 "name": "Requirements:",
+                 "value": "• None"
+            }
+           
+        ],
+        "footer":
+        {
+            "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+            "text": "RuneScore awarded: 20"
+        }
+    },
   "combat - elite dungeons - the book of elei": {
     "title": "The Book of Elei",
     "author": {
@@ -948,6 +1591,64 @@ exports.data = {
     },
 "timestamp": "2001-01-04T12:00:00Z"
   },
+  "combat - elite dungeons - umbral diplomacy": {
+        "title": "Umbral Diplomacy (Combat, Elite Dungeons)",
+        "author":
+        {
+            "name": "RuneScore Achievement Info",
+            "icon_url": "https://i.imgur.com/6c6q2iC.png"
+        },
+        "description": "[Umbral Diplomacy](https://runescape.wiki/w/Umbral_Diplomacy_(achievement%29) is an achievement that requires the player obtain all 22 [Waterlogged scraps](https://runescape.wiki/w/Waterlogged_scrap) to complete the [Umbral Diplomacy](https://runescape.wiki/w/Umbral_Diplomacy) journal in [The Shadow Reef](https://runescape.wiki/w/The_Shadow_Reef).\n\nThe scraps found in the beginning and end of the third floor of the dungeon require the use of [Telekinetic Grab](https://runescape.wiki/w/Telekinetic_Grab) to obtain them.\n\nThis achievement can be completed in story mode as well as in normal mode.",
+        "thumbnail":
+        {
+            "url": "https://i.imgur.com/Shmagnp.png"
+        },
+        "fields":
+        [
+           
+            {
+                 "name": "Requirements:",
+                 "value": "• 33 Magic"
+            },
+                {
+                    "name": "Guide:",
+                    "value": "[Map of all note locations | Runescape Wiki](https://runescape.wiki/w/The_Shadow_Reef#/media/File:The_Shadow_Reef_map.png)"
+                }
+           
+        ],
+        "footer":
+        {
+            "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+            "text": "RuneScore awarded: 20"
+        }
+    },
+  "combat - elite dungeons - unworthy dead": {
+        "title": "Unworthy Dead (Combat, Elite Dungeons)",
+        "author":
+        {
+            "name": "RuneScore Achievement Info",
+            "icon_url": "https://i.imgur.com/6c6q2iC.png"
+        },
+        "description": "[Unworthy Dead](https://runescape.wiki/w/Unworthy_Dead) is an achievement that requires the player to kill 15 [Summoned skeletons](https://runescape.wiki/w/Summoned_skeleton) within 6 seconds during the encounter with [Taraket the Necromancer](https://runescape.wiki/w/Taraket_the_Necromancer) inside [The Shadow Reef](https://runescape.wiki/w/The_Shadow_Reef). \n\n Both the [Rift of undeath](https://runescape.wiki/w/Rift_of_undeath) and [Corpse carrier](https://runescape.wiki/w/Corpse_carrier) summon skeletons throughout the fight while they are active, with both of them summoning three skeletons at a time around them.\n\nIt is advised to bring the skeletons together before using AoE abilities to quickly dispose of them, as each has only 2,000 health. Make sure to do this before Taraket kills them himself to recover lost health.\n\n This achievement can be completed in story mode as well as in normal mode.",
+        "thumbnail":
+        {
+            "url": "https://i.imgur.com/Shmagnp.png"
+        },
+        "fields":
+        [
+           
+            {
+                 "name": "Requirements:",
+                 "value": "• None"
+            }
+           
+        ],
+        "footer":
+        {
+            "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+            "text": "RuneScore awarded: 20"
+        }
+    },
   "combat - elite dungeons - we will fight in the shade": {
     "title": "We Will Fight in the Shade",
     "author": {
@@ -5450,6 +6151,33 @@ exports.data = {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
       "text": "RuneScore awarded: 20"
     },
+"timestamp": "2001-01-04T12:00:00Z"
+  },
+  "minigames - player-owned-ports - a commodore to adore": {
+    "title": "A Commodore to Adore (Minigames, Player-Owned Port)",
+    "description": "[A Commodore to Adore](https://runescape.wiki/w/A_Commodore_to_Adore) is an achievement that requires the player to unlock the title [Commodore](https://runescape.wiki/w/Commodore) at the [player-owned port](https://runescape.wiki/w/Player-owned_port) by reaching a [port score](https://runescape.wiki/w/Port_score) of at least 1,600.",
+        "color": 12269891,
+    "footer": {
+      "icon_url": "https://runescape.wiki/images/7/77/RuneScore.png?9f9cd",
+      "text": "RuneScore awarded: 5"
+    },
+    "thumbnail": {
+      "url": "https://runescape.wiki/images/a/ac/Default_achievement_icon.png?fb2fd"
+    },
+    "author": {
+      "name": "RuneScore Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "fields": [
+      {
+        "name": "Requirements:",
+        "value": "• Port score of 1,600"
+      },
+      {
+        "name": "Guide:",
+        "value": "• [Kags' POP Encyclopedia V5 | RuneScape Official Forums](http://services.runescape.com/m=forum/forums.ws?75,76,519,65829739)"
+      }
+      ],
 "timestamp": "2001-01-04T12:00:00Z"
   },
   "minigames - treasure trails - balance combat triangle": {
@@ -10031,6 +10759,33 @@ exports.data = {
       "text": "RuneScore awarded: 0"
     }
   },
+  "skills - firemaking - a firemaker's log": {
+    "title": "A Firemaker's Log (Skills, Firemaking)",
+    "description": "[A Firemaker's Log](https://runescape.wiki/w/A_Firemaker%27s_Log) is an achievement that requires the player to burn each of the listed logs. [Blisterwood logs](https://runescape.wiki/w/Blisterwood_logs), [Curly root](https://runescape.wiki/w/Curly_root), and [Driftwood](https://runescape.wiki/w/Driftwood) are all untradeable and must be obtained yourself.\n\nWhile [Cursed magic logs](https://runescape.wiki/w/Cursed_magic_logs) are technically tradeable, they cannot leave the Spirit Realm, therefore it is advised to obtain them yourself.\n\nAn [Inferno adze](https://runescape.wiki/Inferno_adze) can be used.",
+        "color": 12269891,
+    "footer": {
+      "icon_url": "https://runescape.wiki/images/7/77/RuneScore.png?9f9cd",
+      "text": "RuneScore awarded: 20"
+    },
+    "thumbnail": {
+      "url": "https://runescape.wiki/images/a/ac/Default_achievement_icon.png?fb2fd"
+    },
+    "author": {
+      "name": "RuneScore Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "fields": [
+      {
+        "name": "Logs:",
+        "value": "• [Logs](https://runescape.wiki/w/Logs)\n• [Achey tree logs](https://runescape.wiki/w/Achey_tree_logs)\n• [Oak logs](https://runescape.wiki/w/Oak_logs)\n• [Willow logs](https://runescape.wiki/w/Willow_logs)\n• [Teak logs](https://runescape.wiki/w/Teak_logs)\n• [Arctic pine logs](https://runescape.wiki/w/Arctic_pine_logs)\n• [Maple logs](https://runescape.wiki/w/Maple_logs)\n• [Acadia logs](https://runescape.wiki/w/Acadia_logs)\n• [Mahogany logs](https://runescape.wiki/w/Mahogany_logs)\n• [Eucalyptus logs](https://runescape.wiki/w/Eucalyptus_logs)\n• [Yew logs](https://runescape.wiki/w/Yew_logs)\n• [Magic logs](https://runescape.wiki/w/Magic_logs)\n• [Corrupted magic logs](https://runescape.wiki/w/Corrupted_magic_logs)\n• [Blisterwood logs](https://runescape.wiki/w/Blisterwood_logs)\n• [Cursed magic logs](https://runescape.wiki/w/Cursed_magic_logs)\n• [Curly root](https://runescape.wiki/w/Curly_root)\n• [Elder logs](https://runescape.wiki/w/Elder_logs)\n• [Driftwood](https://runescape.wiki/w/Driftwood)"
+      },
+      {
+        "name": "Requirements:",
+        "value": "• 92 Firemaking \n• 83 Woodcutting"
+      }
+      ],
+"timestamp": "2001-01-04T12:00:00Z"
+  },
   "skills - fishing - boosted animal": {
     "title": "Boosted Animal",
     "author": {
@@ -10274,6 +11029,56 @@ exports.data = {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
       "text": "RuneScore awarded: 5"
     },
+"timestamp": "2001-01-04T12:00:00Z"
+  },
+  "skills - summoning - a bit too familiar": {
+    "title": "A Bit TOO Familiar (Skills, Summoning)",
+    "description": "[A Bit TOO Familiar](https://runescape.wiki/w/A_Bit_TOO_Familiar) is an achievement that requires the player to play as all possible familiars in the [Familiarisation](https://runescape.wiki/w/Familiarisation) [distraction and diversion](https://runescape.wiki/w/Distractions_and_Diversions).\n\nOwning a full [Shaman's outfit](https://runescape.wiki/w/Shaman%27s_outfit) makes it more likely that a player will play as a previously unused familiar in Familiarisation. Furthermore, the distraction and diversion does not need to be completely played. Leaving immediately after entering will still tick off the familiar.\n\nSince one can only play Familiarisation once per week (or twice with a [Weekly D&D](https://runescape.wiki/w/D%26D_token_(weekly%29)/[Familiarisation token](https://runescape.wiki/w/D%26D_token_(familiarisation%29)) the minimum time to finish this achievement is 12 weeks (6 weeks with tokens) if one is lucky enough to be assigned each familiar just once.",
+        "color": 12269891,
+    "footer": {
+      "icon_url": "https://runescape.wiki/images/7/77/RuneScore.png?9f9cd",
+      "text": "RuneScore awarded: 40"
+    },
+    "thumbnail": {
+      "url": "https://runescape.wiki/images/a/ac/Default_achievement_icon.png?fb2fd"
+    },
+    "author": {
+      "name": "RuneScore Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "fields": [
+      {
+        "name": "Familiars:",
+        "value": "• [Thorny snail](https://runescape.wiki/w/Thorny_snail)\n• [Compost mound](https://runescape.wiki/w/Compost_mound)\n• [Giant chinchompa](https://runescape.wiki/w/Giant_chinchompa)\n• [Void spinner](https://runescape.wiki/w/Void_spinner)\n• [Evil turnip](https://runescape.wiki/w/Evil_turnip)\n• [Spirit coraxatrice](https://runescape.wiki/w/Spirit_coraxatrice)\n• [Spirit larupia](https://runescape.wiki/w/Spirit_larupia)\n• [Stranger plant](https://runescape.wiki/w/Stranger_plant)\n• [Adamant minotaur](https://runescape.wiki/w/Adamant_minotaur)\n• [Giant ent](https://runescape.wiki/w/Giant_ent)\n• [Ice titan](https://runescape.wiki/w/Ice_titan)\n• [Pack yak](https://runescape.wiki/w/Pack_yak)"
+      },
+      {
+        "name": "Requirements:",
+        "value": "• None"
+      }
+      ],
+"timestamp": "2001-01-04T12:00:00Z"
+  },
+  "skills - summoning - a charm saved is a charm earned": {
+    "title": "A Charm Saved is a Charm Earned (Skills, Summoning)",
+    "description": "[A Charm Saved is a Charm Earned](https://runescape.wiki/w/A_Charm_Saved_is_a_Charm_Earned) is an achievement that requires the player to either charge or combine one or more [spirit gems](https://runescape.wiki/w/Spirit_gems).\n\nThis can easily be done by using a spirit gem on another of the same type.",
+        "color": 12269891,
+    "footer": {
+      "icon_url": "https://runescape.wiki/images/7/77/RuneScore.png?9f9cd",
+      "text": "RuneScore awarded: 10"
+    },
+    "thumbnail": {
+      "url": "https://runescape.wiki/images/a/ac/Default_achievement_icon.png?fb2fd"
+    },
+    "author": {
+      "name": "RuneScore Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "fields": [
+      {
+        "name": "Requirements:",
+        "value": "• None"
+      }
+    ],
 "timestamp": "2001-01-04T12:00:00Z"
   },
   "skills - thieving - pilferin' in asgarnia": {
