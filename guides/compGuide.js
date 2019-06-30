@@ -746,7 +746,7 @@ exports.data = {
 	},
 	"arc - salty": {
 		"cmds": ["trim"],
-		"embed:": {
+		"embed": {
     "title": "Arc - Salty",
     "author": {
       "name": "RuneScore Achievement Info",
