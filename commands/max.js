@@ -197,7 +197,7 @@ exports.run = async (client, message, [skill, ...args], level) => { // eslint-di
 		helpEmbed.description = output;
 		helpEmbed.color = color;
 		helpEmbed.footer = footer;
-		helpEmbed.timestamp = new Date();
+		helpEmbed.timestamp = undefined;
 		return message.channel.send("", {
 			embed: helpEmbed
 		});
@@ -214,7 +214,7 @@ exports.run = async (client, message, [skill, ...args], level) => { // eslint-di
 		helpEmbed.description = output;
 		helpEmbed.color = color;
 		helpEmbed.footer = footer;
-		helpEmbed.timestamp = new Date();
+		helpEmbed.timestamp = undefined;
 		return message.channel.send("", {
 			embed: helpEmbed
 		});
@@ -253,7 +253,7 @@ exports.run = async (client, message, [skill, ...args], level) => { // eslint-di
 			guide.color = color;
 			if (guide.author) guide.author.name = name;
 			if (guide.footer) guide.footer = footer;
-			if (guide.timestamp) guide.timestamp = new Date();
+			if (guide.timestamp) guide.timestamp = undefined;
 			try {
 				await message.channel.send("", {embed: guide})
 	  			.then(m => msgArr.push(m.id));
@@ -268,7 +268,7 @@ exports.run = async (client, message, [skill, ...args], level) => { // eslint-di
 				const help = require("../guides/maxGuides/help.js"),
 				query = help.data.query;
 				query.color = color;
-				query.timestamp = new Date();
+				query.timestamp = undefined;
 				await message.channel.send("", {embed: query})
 		  		.then(m => msgArr.push(m.id));
 	  		const cl = gl.get('max');
@@ -345,7 +345,7 @@ exports.run = async (client, message, [skill, ...args], level) => { // eslint-di
 				guide.color = color;
 				if (/\bpt1/.test(k)) guide.author.name = name;
 				if (guide.footer) guide.footer = footer;
-				if (guide.timestamp) guide.timestamp = new Date();
+				if (guide.timestamp) guide.timestamp = undefined;
 				message.channel.send("", {
 					embed: guide
 				});
@@ -367,7 +367,7 @@ exports.run = async (client, message, [skill, ...args], level) => { // eslint-di
 				guide.color = color;
 				if (/\bpt1/.test(k)) guide.author.name = name;
 				if (guide.footer) guide.footer = footer;
-				if (guide.timestamp) guide.timestamp = new Date();
+				if (guide.timestamp) guide.timestamp = undefined;
 				message.channel.send("", {
 					embed: guide
 				});
@@ -386,7 +386,7 @@ exports.run = async (client, message, [skill, ...args], level) => { // eslint-di
 		guide.author.name = name;
 		guide.color = color;
 		guide.footer = footer;
-		guide.timestamp = new Date();
+		guide.timestamp = undefined;
 		message.channel.send("", {
 			embed: guide
 		});
@@ -409,14 +409,14 @@ exports.run = async (client, message, [skill, ...args], level) => { // eslint-di
 		searchEmbed.description = output;
 		searchEmbed.color = color;
 		searchEmbed.footer = footer;
-		searchEmbed.timestamp = new Date();
+		searchEmbed.timestamp = undefined;
 		await message.channel.send("", {
 			embed: searchEmbed
 		});
 
 		if (second.length > 0) {
 			searchEmbed.description = second;
-			searchEmbed.timestamp = new Date();
+			searchEmbed.timestamp = undefined;
 			await message.channel.send("", {
 				embed: searchEmbed
 			});
@@ -434,7 +434,7 @@ exports.run = async (client, message, [skill, ...args], level) => { // eslint-di
 					choice.color = color;
 					if (choice.author) choice.author.name = name;
 					if (choice.footer) choice.footer = footer;
-					if (choice.timestamp) choice.timestamp = new Date();
+					if (choice.timestamp) choice.timestamp = undefined;
 					message.channel.send("", {
 						embed: choice
 					});
@@ -447,7 +447,7 @@ exports.run = async (client, message, [skill, ...args], level) => { // eslint-di
 			choice.author.name = name;
 			choice.color = color;
 			choice.footer = footer;
-			choice.timestamp = new Date();
+			choice.timestamp = undefined;
 			return message.channel.send("", {
 				embed: choice
 			});

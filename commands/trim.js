@@ -61,7 +61,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 			const guide = data[keyList[o]].embed;
 			guide.color = color;
 			if (guide.author) guide.author.name = name;
-			if (guide.timestamp) guide.timestamp = new Date();
+			if (guide.timestamp) guide.timestamp = undefined;
 			try {
 				await message.channel.send("", {embed: guide})
 					.then(m => msgArr.push(m.id));
@@ -75,7 +75,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 			if (o == x) {
       	const query = data.tquery.embed;
 		  	query.color = color;
-		  	query.timestamp = new Date();
+		  	query.timestamp = undefined;
 		  	await message.channel.send("", {embed: query})
 		  		.then(m => msgArr.push(m.id));
 	  		if (gl.get('trim').length > 0) {
@@ -149,18 +149,18 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 		helpEmbed.author.name = name;
 		helpEmbed.description = output;
 		helpEmbed.color = color;
-		helpEmbed.timestamp = new Date();
+		helpEmbed.timestamp = undefined;
 		message.channel.send("", {embed: helpEmbed});
 
 		if (second.length > 0) {
 			helpEmbed.description = second;
-			helpEmbed.timestamp = new Date();
+			helpEmbed.timestamp = undefined;
 			message.channel.send("", {embed: helpEmbed});
 		}
 
 		if (third.length > 0) {
 			helpEmbed.description = third;
-			helpEmbed.timestamp = new Date();
+			helpEmbed.timestamp = undefined;
 			await message.channel.send("", {embed: helpEmbed});
 		}
 		const helpMsg = message.channel.id == '382701090430386180'
@@ -181,7 +181,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 			const guide = data[k].embed;
 			guide.color = color;
 			if (/\bpt1/.test(k)) guide.author.name = name;
-			if (guide.timestamp) guide.timestamp = new Date();
+			if (guide.timestamp) guide.timestamp = undefined;
 			message.channel.send("", {embed: guide});
 			pt = "true";
 			prev = k.replace(/ \bpt\d/, "");
@@ -196,7 +196,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 		const guide = data[rtnArr[0]].embed;
 		guide.author.name = name;
 		guide.color = color;
-		guide.timestamp = new Date();
+		guide.timestamp = undefined;
 		message.channel.send("", {embed: guide});
 	} else if (rtnArr.length > 1) {
 		let output = "";
@@ -215,12 +215,12 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 		searchEmbed.author.name = name;
 		searchEmbed.description = output;
 		searchEmbed.color = color;
-		searchEmbed.timestamp = new Date();
+		searchEmbed.timestamp = undefined;
 		await message.channel.send("", {embed: searchEmbed});
 
 		if (second.length > 0) {
 			searchEmbed.description = second;
-			searchEmbed.timestamp = new Date();
+			searchEmbed.timestamp = undefined;
 			await message.channel.send("", {embed: searchEmbed});
 		}
 
@@ -235,7 +235,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 					const choice = data[n].embed;
 					choice.color = color;
 					if (choice.author) choice.author.name = name;
-					if (choice.timestamp) choice.timestamp = new Date();
+					if (choice.timestamp) choice.timestamp = undefined;
 					message.channel.send("", {embed: choice});
 					pt = "true";
 				}
@@ -246,7 +246,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 			const choice = data[rtnArr[response-1]];
 			choice.author.name = name;
 			choice.color = color;
-			choice.timestamp = new Date();
+			choice.timestamp = undefined;
 			return message.channel.send("", {embed: choice});
 		}
 	} else if (pt == "true") {

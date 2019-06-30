@@ -50,7 +50,7 @@ exports.run = async (client, message, args, level) => {
       guide.author.name = name;
       guide.color = color;
       guide.footer = footer;
-      guide.timestamp = new Date();
+      guide.timestamp = undefined;
       try {
 				await message.channel.send("", {embed: guide})
 					.then(m => msgArr.push(m.id));
@@ -64,7 +64,7 @@ exports.run = async (client, message, args, level) => {
 			if (o == x) {
       	const query = data.query;
 		  	query.color = color;
-		  	query.timestamp = new Date();
+		  	query.timestamp = undefined;
 		  	await message.channel.send("", {embed: query})
 					.then(m => msgArr.push(m.id));
 		  		if (gl.get('daily').length > 0) {
@@ -132,7 +132,7 @@ exports.run = async (client, message, args, level) => {
 		helpEmbed.description = output;
 		helpEmbed.color = color;
 		helpEmbed.footer = footer;
-		helpEmbed.timestamp = new Date();
+		helpEmbed.timestamp = undefined;
 		await message.channel.send("", {embed: helpEmbed});
 
 		const helpMsg = message.channel.id == '382701090430386180'
@@ -154,7 +154,7 @@ exports.run = async (client, message, args, level) => {
 		guide.author.name = name;
 		guide.color = color;
 		guide.footer = footer;
-		guide.timestamp = new Date();
+		guide.timestamp = undefined;
 		message.channel.send("", {embed: guide});
 	} else if (rtnArr.length > 1) {
 		let output = "";
@@ -169,7 +169,7 @@ exports.run = async (client, message, args, level) => {
 		searchEmbed.description = output;
 		searchEmbed.color = color;
 		searchEmbed.footer = footer;
-		searchEmbed.timestamp = new Date();
+		searchEmbed.timestamp = undefined;
 		message.channel.send("", {embed: searchEmbed});
 		const response = await client.awaitReply(message, "Which guide were you searching for? Please enter the corresponding number.");
 		if (isNaN(response) || response > rtnArr.length || response < 1) return message.channel.send("Invalid number specified, search cancelled.");
@@ -177,7 +177,7 @@ exports.run = async (client, message, args, level) => {
 		choice.author.name = name;
 		choice.color = color;
 		choice.footer = footer;
-		choice.timestamp = new Date();
+		choice.timestamp = undefined;
 		return message.channel.send("", {embed: choice});
 	} else {
 	message.channel.send("If you see this, contact <@97928972305707008>");
