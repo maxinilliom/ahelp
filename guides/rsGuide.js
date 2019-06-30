@@ -11697,7 +11697,7 @@ exports.data = {
       ],
       "footer": {
         "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
-        "text": "RuneScore awarded: 20"
+        "text": "RuneScore awarded: 0"
       },
       "timestamp": "2001-01-04T12:00:00Z"
     },
