@@ -50,7 +50,7 @@ exports.data = {
         },
         {
             "name": "Command Usage:",
-            "value": "The second option is to utilize our Discord bot, <@408471193675497473>, to spawn the information in the <#382701090430386180> channel. To do this, you must utilize the prefix, which in this case is a period, followed by the guide section you are looking in and the achievement or guide you are looking for.\n\n• .comp help - Provides a list of all available commands to use for the Comp cape.\n\n• .comp <achievement name> - Provides the guide for the given achievement. \n\nNote that <> is not needed in any part of the command. All guides can be found by giving a shortened version of that name. If the command has no other identical command counterparts, the guide will directly spawn. If it does, a list of options for you to choose from with its corresponding number will spawn. [Example](https://gyazo.com/31aa9f30ff4f0fc571899c3604e3b13f)."
+            "value": "The second option is to utilize our Discord bot, <@408471193675497473>, to spawn the information in the <#382701090430386180> channel. To do this, you must utilize the prefix, which in this case is a comma, followed by the guide section you are looking in and the achievement or guide you are looking for.\n\n• ,comp help - Provides a list of all available commands to use for the Comp cape.\n\n• ,comp <achievement name> - Provides the guide for the given achievement. \n\nNote that <> is not needed in any part of the command. All guides can be found by giving a shortened version of that name. If the command has no other identical command counterparts, the guide will directly spawn. If it does, a list of options for you to choose from with its corresponding number will spawn. [Example](https://gyazo.com/31aa9f30ff4f0fc571899c3604e3b13f)."
         },
         {
             "name": "Tips:",
@@ -82,7 +82,7 @@ exports.data = {
         },
         {
             "name": "Command Usage:",
-            "value": "The second option is to utilize our Discord bot, <@408471193675497473>, to spawn the information in the <#382701090430386180> channel. To do this, you must utilize the prefix, which in this case is a period, followed by the guide section you are looking in and the achievement or guide you are looking for.\n\n• .mqc help - Provides a list of all available commands to use for the MQC.\n\n• .mqc <achievement name> - Provides the guide for the given achievement.\n\nNote that <> is not needed in any part of the command. All guides can be found by giving a shortened version of that name. If the command has no other identical command counterparts, the guide will directly spawn. If it does, a list of options for you to choose from with its corresponding number will spawn. [Example](https://gyazo.com/31aa9f30ff4f0fc571899c3604e3b13f)."
+            "value": "The second option is to utilize our Discord bot, <@408471193675497473>, to spawn the information in the <#382701090430386180> channel. To do this, you must utilize the prefix, which in this case is a comma, followed by the guide section you are looking in and the achievement or guide you are looking for.\n\n• ,mqc help - Provides a list of all available commands to use for the MQC.\n\n• ,mqc <achievement name> - Provides the guide for the given achievement.\n\nNote that <> is not needed in any part of the command. All guides can be found by giving a shortened version of that name. If the command has no other identical command counterparts, the guide will directly spawn. If it does, a list of options for you to choose from with its corresponding number will spawn. [Example](https://gyazo.com/31aa9f30ff4f0fc571899c3604e3b13f)."
         },
         {
             "name": "Tips:",
@@ -114,7 +114,7 @@ exports.data = {
         },
         {
             "name": "Command Usage:",
-            "value": "The second option is to utilize our Discord bot, <@408471193675497473>, to spawn the information in the <#382701090430386180> channel. To do this, you must utilize the prefix, which in this case is a period, followed by the guide section you are looking in and the achievement or guide you are looking for.\n\n• .trim help - Provides a list of all available commands to use for the Trim cape.\n\n• .trim <achievement name> - Provides the guide for the given achievement.\n\nNote that <> is not needed in any part of the command. All guides can be found by giving a shortened version of that name. If the command has no other identical command counterparts, the guide will directly spawn. If it does, a list of options for you to choose from with its corresponding number will spawn. [Example](https://gyazo.com/31aa9f30ff4f0fc571899c3604e3b13f)."
+            "value": "The second option is to utilize our Discord bot, <@408471193675497473>, to spawn the information in the <#382701090430386180> channel. To do this, you must utilize the prefix, which in this case is a comma, followed by the guide section you are looking in and the achievement or guide you are looking for.\n\n• ,trim help - Provides a list of all available commands to use for the Trim cape.\n\n• ,trim <achievement name> - Provides the guide for the given achievement.\n\nNote that <> is not needed in any part of the command. All guides can be found by giving a shortened version of that name. If the command has no other identical command counterparts, the guide will directly spawn. If it does, a list of options for you to choose from with its corresponding number will spawn. [Example](https://gyazo.com/31aa9f30ff4f0fc571899c3604e3b13f)."
         },
         {
             "name": "Tips:",
@@ -743,6 +743,34 @@ exports.data = {
 			},
 			"timestamp": "2001-01-04T12:00:00Z"
 		}
+	},
+	"arc - salty": {
+		"cmds": ["trim"],
+		"embed:": {
+    "title": "Arc - Salty",
+    "author": {
+      "name": "RuneScore Achievement Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[Arc - Salty](https://runescape.wiki/w/Arc_-_Salty) is an achievement that requires the player to unlock all [Arc rewards](https://runescape.wiki/w/Waiko_Reward_Shop), complete the [Arc journal](https://runescape.wiki/w/Arc_Journal), and convince [Flippers McGraw](https://runescape.wiki/w/Flippers_McGraw) to join their crew.\n\nCompletion of this achievement unlocks the [**Salty** [Name]](https://runescape.wiki/w/Salty) title.\n\nYou may utilise the **,rs exploration wushanko: the arc** command for a list of task guides.",
+    "thumbnail": {
+      "url": "https://vignette.wikia.nocookie.net/runescape2/images/a/ad/Wushanko_-_The_Arc_achievement_icon.png/revision/latest?cb=20180221204546"
+    },
+    "fields": [{
+        "name": "Requirements:",
+        "value": "• [Wushanko Isles: The Arc](https://runescape.wiki/w/Wushanko_Isles:_The_Arc)\n• [Arc - Rewards](https://runescape.wiki/w/Arc_-_Rewards)\n• [Arc - Unlocking Waiko](https://runescape.wiki/w/Arc_-_Unlocking_Waiko)\n• [Arc - Unlocking More Waiko](https://runescape.wiki/w/Arc_-_Unlocking_More_Waiko)\n• [Arc - Upgrading All of the Waiko](https://runescape.wiki/w/Arc_-_Upgrading_All_of_the_Waiko)\n• [Arc - Ancient Eastern Tortle Portals](https://runescape.wiki/w/Arc_-_Ancient_Eastern_Tortle_Portals)\n• [Arc - Mitts and Waders - Tetsu](https://runescape.wiki/w/Arc_-_Mitts_and_Waders_-_Tetsu)\n• [Arc - Mitts and Waders - Death Lotus](https://runescape.wiki/w/Arc_-_Mitts_and_Waders_-_Death_Lotus)\n• [Arc - Mitts and Waders - Seasinger](https://runescape.wiki/w/Arc_-_Mitts_and_Waders_-_Seasinger)\n• [Arc - Don't Crush my Memories](https://runescape.wiki/w/Arc_-_Don%27t_Crush_my_Memories)"
+      },
+      {
+        "name": "​",
+        "value": "• [Arc - All Your Energies](https://runescape.wiki/w/Arc_-_All_Your_Energies)\n• [Arc - Bone To Pick With You](https://runescape.wiki/w/Arc_-_Bone_To_Pick_With_You)\n• [Arc - Flippers](https://runescape.wiki/w/Arc_-_Flippers)"
+      }
+    ],
+    "footer": {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+      "text": "RuneScore awarded: 30"
+    },
+"timestamp": "2001-01-04T12:00:00Z"
+  }
 	},
 	"arc - unlocking waiko": {
 		"cmds": ["comp"],
@@ -1713,6 +1741,41 @@ exports.data = {
 			},
 			"timestamp": "2001-01-04T12:00:00Z"
 		}
+	},
+	"bean there, done that": {
+		"cmds": ["comp"],
+		"embed": {
+    "title": "Bean There, Done That",
+    "author": {
+      "name": "RuneScore Achievement Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[Bean There, Done That](https://runescape.wiki/w/Bean_There,_Done_That) is an achievement that requires the player to purchase the following [farm upgrades](https://runescape.wiki/w/Farmers%27_Market#Farm_upgrades) from [Granny Potterington](https://runescape.wiki/w/Granny_Potterington)'s [Farmer's Market reward shop](https://runescape.wiki/w/Farmers%27_Market) for a total of 38,500 [beans](https://runescape.wiki/w/Beans).\n\nFor bean farming, it is recommended to make sure only the highest tier animal is in the small, medium, and large [pens](https://runescape.wiki/w/Player-owned_farm#Pens) the day before the corresponding [animal traders](https://runescape.wiki/w/Player-owned_farm#Buyers) should arive. This will prevent the player from getting a lower trader, which would result in less beans. The players should keep in mind that animals in the breeding paddock will not count towards spawning the animal trader for that type of animal.\n\nSelling animals while they are [adolescent](https://runescape.wiki/w/Player-owned_farm#Growth_stages) will result in the most beans.",
+    "color": 10257648,
+    "thumbnail": {
+      "url": "https://i.imgur.com/Shmagnp.png"
+    },
+    "fields": [
+      {
+        "inline": true,
+        "name": "Upgrades:",
+        "value": "• Small pen deed II\n• Medium pen deed I\n• Medium pen deed II\n• Large pen deed I\n• Large pen deed II\n• The Bank Chest\n• All 6 [Farm totems](https://runescape.wiki/w/Farm_totem)\n• Noted produce\n• [Seasonaliser wheel](https://runescape.wiki/w/Seasonaliser)\n• Multiple trait boost (small)\n• Multiple trait boost (medium)\n• Multiple trait boost (large)"
+      },
+      {
+        "inline": true,
+        "name": "Bean Price:",
+        "value": "• 100 Beans\n• 150 Beans\n• 500 Beans\n• 250 Beans\n• 1,000 Beans\n• 300 Beans\n• 1,200 Beans\n• 3,000 Beans\n• 5,000 Beans\n• 6,000 Beans\n• 9,000 Beans\n• 12,000 Beans\n"
+      },
+      {
+        "name": "Requirements:",
+        "value": "• 71 Farming\n• 20 Construction\n\n• Completion of the [Player-Owned Farm Tutorial](https://runescape.wiki/w/Player-owned_farm#Tutorial)"
+      }
+    ],
+    "footer": {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+      "text": "RuneScore awarded: 20"
+    }
+  },
 	},
 	"behemoth notes": {
 		"cmds": ["mqc"],
@@ -3300,6 +3363,34 @@ exports.data = {
 			"timestamp": "2001-01-04T12:00:00Z"
 		}
 	},
+ 	"e-i-e-i-o": {
+ 		"cmds": ["trim"],
+ 		"embed": {
+    "title": "E-I-E-I-O",
+    "author": {
+      "name": "RuneScore Achievement Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[E-I-E-I-O](https://runescape.wiki/w/E-I-E-I-O) is an achievement that requires the player to complete the [breeding log](https://runescape.wiki/w/Manor_Farm_breeding_log).\n\nIt is not required to build the medium and large [pens](https://runescape.wiki/w/Player-owned_farm#Pens) to breed the animals for those respective pen sizes, as the player can use the breeding pen instead.",
+    "thumbnail": {
+      "url": "https://i.imgur.com/Shmagnp.png"
+    },
+    "fields": [
+      {
+        "name": "Requirements:",
+        "value": "• 92 Farming\n• 20 Construction\n\n• [You Had a Chicken](https://runescape.wiki/w/You_Had_a_Chicken)\n• [You Had a Rabbit](https://runescape.wiki/w/You_Had_a_Rabbit)\n• [You Had a Sheep](https://runescape.wiki/w/You_Had_a_Sheep)\n• [You Had a Chinchompa](https://runescape.wiki/w/You_Had_a_Chinchompa)\n• [You Had a Spider](https://runescape.wiki/w/You_Had_a_Spider)\n• [You Had a Zygomite](https://runescape.wiki/w/You_Had_a_Zygomite)\n• [You Had a Cow](https://runescape.wiki/w/You_Had_a_Cow)\n• [You Had a Yak](https://runescape.wiki/w/You_Had_a_Yak)\n• [You Had a Dragon](https://runescape.wiki/w/You_Had_a_Dragon)\n\n• Completion of the [Player-Owned Farm Tutorial](https://runescape.wiki/w/Player-owned_farm#Tutorial)"
+      },
+      {
+        "name": "Guide:",
+        "value": "• Guides for each animal type can be found in the corresponding breeding log achievement guides, which can be viewed using the **,rs You Had a** command."
+      }
+    ],
+    "footer": {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+      "text": "RuneScore awarded: 0"
+    }
+  }
+ 	},
 	"eastern adventurer": {
 		"cmds": ["mqc", "trim"],
 		"embed": {
@@ -4148,34 +4239,6 @@ exports.data = {
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
 				"text": "RuneScore awarded: 40"
-			},
-			"timestamp": "2001-01-04T12:00:00Z"
-		}
-	},
-	"how many games?": {
-		"cmds": ["trim"],
-		"embed": {
-			"title": "How Many Games?",
-			"author": {
-				"name": "Cape Info",
-				"icon_url": "https://i.imgur.com/6c6q2iC.png"
-			},
-			"description": "[How Many Games?](https://runescape.wiki/w/How_Many_Games%3F) an achievement that requires the player to purchase a full set of [Profound decorative equipment]( https://runescape.wiki/w/Profound_decorative_equipment) and show it to [Lanthus]( https://runescape.wiki/w/Lanthus). Profound equipment can be purchased using [Gold Castle Wars tickets]( https://runescape.wiki/w/Castle_wars_ticket_(gold), [Thaler]( https://runescape.wiki/w/Thaler), or a mixture of both.\n\nThis is one of the most time-consuming achievements in the game, taking up to 795 hours to complete by playing only [Spotlighted minigames]( https://calendar.google.com/calendar/embed?src=42brp3b48aumm199hord137gh0@group.calendar.google.com) or playing 20 minute Castle Wars games with a 100% win rate (accounting for the 3 minute wait time between games). Even using the fastest methods, playing on spotlight and/or Minigames Weekend, and using [Castle wars token enhancers](https://runescape.wiki/w/Castle_wars_token_enhancer), it will take at least 300 hours to complete. It is generally considered to be the longest and most onerous requirement for the trimmed completionist cape. However, using only Thaler, this achievement can be completed without playing a single game of Castle Wars.\n\n**It is highly advised to do this with a Castle Wars or Thaler community.**\n\n• You may find a Castle Wars community at [this discord](https://discord.gg/hzvwrvX) or at friend-chat **Cwar United**. You can fill out the application for the friends chat [here](https://services.runescape.com/m=forum/c=9s7nqZXGY8Y/forums.ws?75,76,32,66000897).",
-			"thumbnail": {
-				"url": "https://i.imgur.com/Shmagnp.png"
-			},
-			"fields": [{
-					"name": "​",
-					"value": "• You may find an AFK Thaler community in this server. Users can tag the <@&446729279149965315> role if Barbarian Assault, Conquest, Fist of Guthix, Great Orb Project, Heist, Mobilising Armies, Pest Control, Soul Wars, Stealing Creation, or Trouble Brewing minigames are on spotlight in order to find teams. You may join this role by reacting to the 🇻 emoji on the third to last message in the <#465998663710146579> channel."
-				},
-				{
-					"name": "Requirements:",
-					"value": "• A strong will to live"
-				}
-			],
-			"footer": {
-				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
-				"text": "RuneScore awarded: 70"
 			},
 			"timestamp": "2001-01-04T12:00:00Z"
 		}
@@ -6027,6 +6090,30 @@ exports.data = {
 			},
 			"timestamp": "2001-01-04T12:00:00Z"
 		}
+	},
+	"meta-phos (sandy)": {
+		"cmds": ["trim"],
+		"embed": {
+    "title": "Meta-phos (Sandy)",
+    "author": {
+      "name": "RuneScore Achievement Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[Meta-phos](https://runescape.wiki/w/Meta-phos) is an achievement that requires the player to unlock all [Menaphos](https://runescape.wiki/w/Menaphos) rewards.\n\nThis includes:\n\n• Gaining tier 10 [reputation](https://runescape.wiki/w/Reputation_(Menaphos%29) with all Menaphos factions\n• Completing the [Menaphos journal](https://runescape.wiki/w/Menaphos_journal)\n• Completing the [Jack of Spades](https://runescape.wiki/w/Jack_of_Spades), [Crocodile Tears](https://runescape.wiki/w/Crocodile_Tears), [Our Man in the North](https://runescape.wiki/w/Our_Man_in_the_North), and ['Phite Club](https://runescape.wiki/w/%27Phite_Club) quests\n• Obtaining the [Palapa Cape](https://runescape.wiki/w/Palapa_Cape) override\n• Unlocking the [Ishhara](https://runescape.wiki/w/Ishhara) pet\n• Unlocking the [Squeck](https://runescape.wiki/w/Squeck) pet\n• Completing the [Golden Path Challenge](https://runescape.wiki/w/Golden_Path_Challenge) to unlock the [Magic carpet (Basic) pet](https://runescape.wiki/w/Magic_carpet_(pet%29)\n\nCompletion of this achievement unlocks the [**Sandy** [Name]](https://runescape.wiki/w/Sandy_(title%29) title.\n\nYou may utilise the **,rs exploration menaphos** command for a list of task guides.",
+    "thumbnail": {
+      "url": "https://i.imgur.com/TBXiD9p.png"
+    },
+    "fields": [{
+        "name": "Requirements:",
+        "value": "• [Menaphos Pyramid Scheme](https://runescape.wiki/w/Menaphos_Pyramid_Scheme)\n• [All Abuzz](https://runescape.wiki/w/All_Abuzz)\n• [Feline Good](https://runescape.wiki/w/Feline_Good)\n• [Rock and Roll](https://runescape.wiki/w/Rock_and_Roll)\n• [Jack of All Menaphos](https://runescape.wiki/w/Jack_of_all_menaphos) ([Palapa Cape](https://runescape.wiki/w/Palapa_Cape))\n• [Gotta catch 'em both!](https://runescape.wiki/w/Gotta_catch_'em_both) ([Ishhara](https://runescape.wiki/w/Ishhara)) ([Squeck](https://runescape.wiki/w/Squeck))\n• [Follow the Gold-Brick Road](https://runescape.wiki/w/Golden_Path_Challenge)"
+      }
+    ],
+    "footer": {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+      "text": "RuneScore awarded: 0"
+    },
+"timestamp": "2001-01-04T12:00:00Z"
+  }
 	},
 	"milk of chocolate, snape of grass": {
 		"cmds": ["trim"],
@@ -9583,17 +9670,45 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Work on Your Artisan](https://runescape.wiki/w/Work_on_Your_Artisan) is an achievement that requires the player to unlock all rewards from the [Artisans' Workshop](https://runescape.wiki/w/User:Suity/MSRework#Artisans_Workshop) (excluding outfits).\n\nArtisans' Workshop is a Smithing workshop founded by [Aksel](https://runescape.wiki/w/Aksel), located in the south-east corner of [Falador](https://runescape.wiki/w/Falador). With the Mining and Smithing rework released on 7 January 2019 the Artisans Workshop and its activities are reinvented as a proper 'Smithing Guild'. The Smithing Guild will become the default location for players to smith together socially.\n\nThe total cost of all unlocks is 770% [Respect](https://runescape.wiki/w/User:Suity/MSRework#Rewards). You may only have 100% respect at a time, so you will need to spend time before accruing more.",
+			"description": "[Work on Your Artisan](https://runescape.wiki/w/Work_on_Your_Artisan) is an achievement that requires the player to unlock all rewards from the [Artisans' Workshop](https://runescape.wiki/w/Artisans_Workshop) (excluding outfits).\n\nThe Artisans' Workshop is a Smithing workshop founded by [Aksel](https://runescape.wiki/w/Aksel), located in the south-east corner of [Falador](https://runescape.wiki/w/Falador). With the Mining and Smithing rework released on 7 January 2019 the Artisans Workshop and its activities are reinvented as a proper 'Smithing Guild'. The Smithing Guild will become the default location for players to smith together socially.\n\nThe total cost of all unlocks is 770% [Respect](https://runescape.wiki/w/Respect_(Artisans_Workshop%29). You may only have 100% respect at a time, so you will need to spend it before accruing more.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/dd1sWAa.png"
 			},
 			"fields": [{
 					"name": "Requirements:",
-					"value": "None"
+					"value": "• Quick Repairs\n• Repair Expert\n• Solemn Smith V\n• Ceremonial Swordsmith V\n• Golden Cannon\n• Royale Cannon\n• Restocking Cannon\n• Ceremonial Sword Orders"
 				},
 				{
 					"name": "Guide:",
-					"value": "• [Artisans' Workshop Guide | Suity - Runescape Wiki](https://runescape.wiki/w/User:Suity/MSRework#Artisans_Workshop)"
+					"value": "• [Artisans' Workshop Rewards | Runescape Wiki](https://runescape.wiki/w/Artisans_Workshop#Rewards)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+				"text": "RuneScore awarded: 20"
+			},
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
+	},
+	"work on your artisan ii": {
+		"cmds": ["trim"],
+		"embed": {
+			"title": "Work on Your Artisan II",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Work on Your Artisan II](https://runescape.wiki/w/Work_on_Your_Artisan_II) is an achievement that requires the player to unlock all rewards from the [Artisans' Workshop](https://runescape.wiki/w/Artisans_Workshop) (including outfits).\n\nThe Artisans' Workshop is a Smithing workshop founded by [Aksel](https://runescape.wiki/w/Aksel), located in the south-east corner of [Falador](https://runescape.wiki/w/Falador). With the Mining and Smithing rework released on 7 January 2019 the Artisans Workshop and its activities are reinvented as a proper 'Smithing Guild'. The Smithing Guild will become the default location for players to smith together socially.\n\nThe total cost of all unlocks is 1070% [Respect](https://runescape.wiki/w/Respect_(Artisans_Workshop%29). You may only have 100% respect at a time, so you will need to spend it before accruing more.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/dd1sWAa.png"
+			},
+			"fields": [{
+					"name": "Requirements:",
+					"value": "• Quick Repairs\n• Repair Expert\n• Solemn Smith V\n• Ceremonial Swordsmith V\n• Golden Cannon\n• Royale Cannon\n• Restocking Cannon\n• Ceremonial Sword Orders\n• Invictum Outfit\n• Necturion Outfit\n• Aetherium Outfit"
+				},
+				{
+					"name": "Guide:",
+					"value": "• [Artisans' Workshop Rewards | Runescape Wiki](https://runescape.wiki/w/Artisans_Workshop#Rewards)"
 				}
 			],
 			"footer": {
