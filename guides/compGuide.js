@@ -31,102 +31,99 @@ exports.data = {
 			"timestamp": "2001-01-04T12:00:00Z"
 		}
 	},
-    "cquery": {
+	"cquery": {
 		"cmds": [],
 		"embed": {
-    "title": "Completionist Cape Command Query",
-    "author": {
-        "name": "AHelp How-To Info",
-        "icon_url": "https://i.imgur.com/6c6q2iC.png"
-    },
-    "description": "To find a specific achievement or guide you are looking for, you have two options.",
-    "thumbnail": {
-        "url": "https://2007rshelp.com/img/genimg/god/zaros.png"
-    },
-    "fields": [
-        {
-            "name": "Searching:",
-            "value": "The first option is to use the basic search command built into Discord. Simply search for the full or partial name of the requirement or achievement inside of the channel the guide is located in.\n\nFor example, if players want to find the Rewind guide for the Yakamaru Raids Feat, they can click on the search bar in the top right of Discord and type \"**in: rs-combat rewind**\". [Example](https://cdn.discordapp.com/attachments/398504241305747466/490200715625758749/unknown.png)."
-        },
-        {
-            "name": "Command Usage:",
-            "value": "The second option is to utilize our Discord bot, <@408471193675497473>, to spawn the information in the <#382701090430386180> channel. To do this, you must utilize the prefix, which in this case is a comma, followed by the guide section you are looking in and the achievement or guide you are looking for.\n\n• ,comp help - Provides a list of all available commands to use for the Comp cape.\n\n• ,comp <achievement name> - Provides the guide for the given achievement. \n\nNote that <> is not needed in any part of the command. All guides can be found by giving a shortened version of that name. If the command has no other identical command counterparts, the guide will directly spawn. If it does, a list of options for you to choose from with its corresponding number will spawn. [Example](https://gyazo.com/31aa9f30ff4f0fc571899c3604e3b13f)."
-        },
-        {
-            "name": "Tips:",
-            "value": "• You can collapse guides you do not wish to see by left-clicking on the channel category name. [Example](https://cdn.discordapp.com/attachments/398504241305747466/490198657111425042/unknown.png).\n\n• You can also mute channels by right-clicking them and selecting mute. All the guide channels are read-only, but we will be reposting them to amend any information or add new information as updates come. Muting every channel within a category will automatically hide the category from your view after the next time your Discord refreshes.\n\n• You can track the progress of all your achievements [here](https://docs.google.com/spreadsheets/d/19sVmY1BgnRkuLIJANjf42IEvh83u_mYqf6PY0E5KXuk/edit?usp=sharing). You will need to select **File** > **Make a copy..** in order to edit the sheet to your own achievement completion status."
-        }
-    ],
-    "footer": {
-        "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
-        "text": "AHelp | Designed by Son and AHelpers"
-    }
-  }
-    },
-    "mquery": {
+			"title": "Completionist Cape Command Query",
+			"author": {
+				"name": "AHelp How-To Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "To find a specific achievement or guide you are looking for, you have two options.",
+			"thumbnail": {
+				"url": "https://2007rshelp.com/img/genimg/god/zaros.png"
+			},
+			"fields": [{
+					"name": "Searching:",
+					"value": "The first option is to use the basic search command built into Discord. Simply search for the full or partial name of the requirement or achievement inside of the channel the guide is located in.\n\nFor example, if players want to find the Rewind guide for the Yakamaru Raids Feat, they can click on the search bar in the top right of Discord and type \"**in: rs-combat rewind**\". [Example](https://cdn.discordapp.com/attachments/398504241305747466/490200715625758749/unknown.png)."
+				},
+				{
+					"name": "Command Usage:",
+					"value": "The second option is to utilize our Discord bot, <@408471193675497473>, to spawn the information in the <#382701090430386180> channel. To do this, you must utilize the prefix, which in this case is a comma, followed by the guide section you are looking in and the achievement or guide you are looking for.\n\n• ,comp help - Provides a list of all available commands to use for the Comp cape.\n\n• ,comp <achievement name> - Provides the guide for the given achievement. \n\nNote that <> is not needed in any part of the command. All guides can be found by giving a shortened version of that name. If the command has no other identical command counterparts, the guide will directly spawn. If it does, a list of options for you to choose from with its corresponding number will spawn. [Example](https://gyazo.com/31aa9f30ff4f0fc571899c3604e3b13f)."
+				},
+				{
+					"name": "Tips:",
+					"value": "• You can collapse guides you do not wish to see by left-clicking on the channel category name. [Example](https://cdn.discordapp.com/attachments/398504241305747466/490198657111425042/unknown.png).\n\n• You can also mute channels by right-clicking them and selecting mute. All the guide channels are read-only, but we will be reposting them to amend any information or add new information as updates come. Muting every channel within a category will automatically hide the category from your view after the next time your Discord refreshes.\n\n• You can track the progress of all your achievements [here](https://docs.google.com/spreadsheets/d/19sVmY1BgnRkuLIJANjf42IEvh83u_mYqf6PY0E5KXuk/edit?usp=sharing). You will need to select **File** > **Make a copy..** in order to edit the sheet to your own achievement completion status."
+				}
+			],
+			"footer": {
+				"icon_url": "https://i.imgur.com/aPzdbY3.jpg",
+				"text": "AHelp | Designed by Son and AHelpers"
+			}
+		}
+	},
+	"mquery": {
 		"cmds": [],
 		"embed": {
-    "title": "Master Quest Cape Command Query",
-    "author": {
-        "name": "AHelp How-To Info",
-        "icon_url": "https://i.imgur.com/6c6q2iC.png"
-    },
-    "description": "To find a specific achievement or guide you are looking for, you have two options.",
-    "thumbnail": {
-        "url": "https://2007rshelp.com/img/genimg/god/zaros.png"
-    },
-    "fields": [
-        {
-            "name": "Searching:",
-            "value": "The first option is to use the basic search command built into Discord. Simply search for the full or partial name of the requirement or achievement inside of the channel the guide is located in.\n\nFor example, if players want to find the Rewind guide for the Yakamaru Raids Feat, they can click on the search bar in the top right of Discord and type \"**in: rs-combat rewind**\". [Example](https://cdn.discordapp.com/attachments/398504241305747466/490200715625758749/unknown.png)."
-        },
-        {
-            "name": "Command Usage:",
-            "value": "The second option is to utilize our Discord bot, <@408471193675497473>, to spawn the information in the <#382701090430386180> channel. To do this, you must utilize the prefix, which in this case is a comma, followed by the guide section you are looking in and the achievement or guide you are looking for.\n\n• ,mqc help - Provides a list of all available commands to use for the MQC.\n\n• ,mqc <achievement name> - Provides the guide for the given achievement.\n\nNote that <> is not needed in any part of the command. All guides can be found by giving a shortened version of that name. If the command has no other identical command counterparts, the guide will directly spawn. If it does, a list of options for you to choose from with its corresponding number will spawn. [Example](https://gyazo.com/31aa9f30ff4f0fc571899c3604e3b13f)."
-        },
-        {
-            "name": "Tips:",
-            "value": "• You can collapse guides you do not wish to see by left-clicking on the channel category name. [Example](https://cdn.discordapp.com/attachments/398504241305747466/490198657111425042/unknown.png).\n\n• You can also mute channels by right-clicking them and selecting mute. All the guide channels are read-only, but we will be reposting them to amend any information or add new information as updates come. Muting every channel within a category will automatically hide the category from your view after the next time your Discord refreshes.\n\n• You can track the progress of all your achievements [here](https://docs.google.com/spreadsheets/d/19sVmY1BgnRkuLIJANjf42IEvh83u_mYqf6PY0E5KXuk/edit?usp=sharing). You will need to select **File** > **Make a copy..** in order to edit the sheet to your own achievement completion status."
-        }
-    ],
-    "footer": {
-        "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
-        "text": "AHelp | Designed by Son and AHelpers"
-    }
-  }
-    },
-    "tquery": {
+			"title": "Master Quest Cape Command Query",
+			"author": {
+				"name": "AHelp How-To Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "To find a specific achievement or guide you are looking for, you have two options.",
+			"thumbnail": {
+				"url": "https://2007rshelp.com/img/genimg/god/zaros.png"
+			},
+			"fields": [{
+					"name": "Searching:",
+					"value": "The first option is to use the basic search command built into Discord. Simply search for the full or partial name of the requirement or achievement inside of the channel the guide is located in.\n\nFor example, if players want to find the Rewind guide for the Yakamaru Raids Feat, they can click on the search bar in the top right of Discord and type \"**in: rs-combat rewind**\". [Example](https://cdn.discordapp.com/attachments/398504241305747466/490200715625758749/unknown.png)."
+				},
+				{
+					"name": "Command Usage:",
+					"value": "The second option is to utilize our Discord bot, <@408471193675497473>, to spawn the information in the <#382701090430386180> channel. To do this, you must utilize the prefix, which in this case is a comma, followed by the guide section you are looking in and the achievement or guide you are looking for.\n\n• ,mqc help - Provides a list of all available commands to use for the MQC.\n\n• ,mqc <achievement name> - Provides the guide for the given achievement.\n\nNote that <> is not needed in any part of the command. All guides can be found by giving a shortened version of that name. If the command has no other identical command counterparts, the guide will directly spawn. If it does, a list of options for you to choose from with its corresponding number will spawn. [Example](https://gyazo.com/31aa9f30ff4f0fc571899c3604e3b13f)."
+				},
+				{
+					"name": "Tips:",
+					"value": "• You can collapse guides you do not wish to see by left-clicking on the channel category name. [Example](https://cdn.discordapp.com/attachments/398504241305747466/490198657111425042/unknown.png).\n\n• You can also mute channels by right-clicking them and selecting mute. All the guide channels are read-only, but we will be reposting them to amend any information or add new information as updates come. Muting every channel within a category will automatically hide the category from your view after the next time your Discord refreshes.\n\n• You can track the progress of all your achievements [here](https://docs.google.com/spreadsheets/d/19sVmY1BgnRkuLIJANjf42IEvh83u_mYqf6PY0E5KXuk/edit?usp=sharing). You will need to select **File** > **Make a copy..** in order to edit the sheet to your own achievement completion status."
+				}
+			],
+			"footer": {
+				"icon_url": "https://i.imgur.com/aPzdbY3.jpg",
+				"text": "AHelp | Designed by Son and AHelpers"
+			}
+		}
+	},
+	"tquery": {
 		"cmds": [],
 		"embed": {
-    "title": "Trimmed Completionist Cape Command Query",
-    "author": {
-        "name": "AHelp How-To Info",
-        "icon_url": "https://i.imgur.com/6c6q2iC.png"
-    },
-    "description": "To find a specific achievement or guide you are looking for, you have two options.",
-    "thumbnail": {
-        "url": "https://2007rshelp.com/img/genimg/god/zaros.png"
-    },
-    "fields": [
-        {
-            "name": "Searching:",
-            "value": "The first option is to use the basic search command built into Discord. Simply search for the full or partial name of the requirement or achievement inside of the channel the guide is located in.\n\nFor example, if players want to find the Rewind guide for the Yakamaru Raids Feat, they can click on the search bar in the top right of Discord and type \"**in: rs-combat rewind**\". [Example](https://cdn.discordapp.com/attachments/398504241305747466/490200715625758749/unknown.png)."
-        },
-        {
-            "name": "Command Usage:",
-            "value": "The second option is to utilize our Discord bot, <@408471193675497473>, to spawn the information in the <#382701090430386180> channel. To do this, you must utilize the prefix, which in this case is a comma, followed by the guide section you are looking in and the achievement or guide you are looking for.\n\n• ,trim help - Provides a list of all available commands to use for the Trim cape.\n\n• ,trim <achievement name> - Provides the guide for the given achievement.\n\nNote that <> is not needed in any part of the command. All guides can be found by giving a shortened version of that name. If the command has no other identical command counterparts, the guide will directly spawn. If it does, a list of options for you to choose from with its corresponding number will spawn. [Example](https://gyazo.com/31aa9f30ff4f0fc571899c3604e3b13f)."
-        },
-        {
-            "name": "Tips:",
-            "value": "• You can collapse guides you do not wish to see by left-clicking on the channel category name. [Example](https://cdn.discordapp.com/attachments/398504241305747466/490198657111425042/unknown.png).\n\n• You can also mute channels by right-clicking them and selecting mute. All the guide channels are read-only, but we will be reposting them to amend any information or add new information as updates come. Muting every channel within a category will automatically hide the category from your view after the next time your Discord refreshes.\n\n• You can track the progress of all your achievements [here](https://docs.google.com/spreadsheets/d/19sVmY1BgnRkuLIJANjf42IEvh83u_mYqf6PY0E5KXuk/edit?usp=sharing). You will need to select **File** > **Make a copy..** in order to edit the sheet to your own achievement completion status."
-        }
-    ],
-    "footer": {
-        "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
-        "text": "AHelp | Designed by Son and AHelpers"
-    }
-  }
-    },
+			"title": "Trimmed Completionist Cape Command Query",
+			"author": {
+				"name": "AHelp How-To Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "To find a specific achievement or guide you are looking for, you have two options.",
+			"thumbnail": {
+				"url": "https://2007rshelp.com/img/genimg/god/zaros.png"
+			},
+			"fields": [{
+					"name": "Searching:",
+					"value": "The first option is to use the basic search command built into Discord. Simply search for the full or partial name of the requirement or achievement inside of the channel the guide is located in.\n\nFor example, if players want to find the Rewind guide for the Yakamaru Raids Feat, they can click on the search bar in the top right of Discord and type \"**in: rs-combat rewind**\". [Example](https://cdn.discordapp.com/attachments/398504241305747466/490200715625758749/unknown.png)."
+				},
+				{
+					"name": "Command Usage:",
+					"value": "The second option is to utilize our Discord bot, <@408471193675497473>, to spawn the information in the <#382701090430386180> channel. To do this, you must utilize the prefix, which in this case is a comma, followed by the guide section you are looking in and the achievement or guide you are looking for.\n\n• ,trim help - Provides a list of all available commands to use for the Trim cape.\n\n• ,trim <achievement name> - Provides the guide for the given achievement.\n\nNote that <> is not needed in any part of the command. All guides can be found by giving a shortened version of that name. If the command has no other identical command counterparts, the guide will directly spawn. If it does, a list of options for you to choose from with its corresponding number will spawn. [Example](https://gyazo.com/31aa9f30ff4f0fc571899c3604e3b13f)."
+				},
+				{
+					"name": "Tips:",
+					"value": "• You can collapse guides you do not wish to see by left-clicking on the channel category name. [Example](https://cdn.discordapp.com/attachments/398504241305747466/490198657111425042/unknown.png).\n\n• You can also mute channels by right-clicking them and selecting mute. All the guide channels are read-only, but we will be reposting them to amend any information or add new information as updates come. Muting every channel within a category will automatically hide the category from your view after the next time your Discord refreshes.\n\n• You can track the progress of all your achievements [here](https://docs.google.com/spreadsheets/d/19sVmY1BgnRkuLIJANjf42IEvh83u_mYqf6PY0E5KXuk/edit?usp=sharing). You will need to select **File** > **Make a copy..** in order to edit the sheet to your own achievement completion status."
+				}
+			],
+			"footer": {
+				"icon_url": "https://i.imgur.com/aPzdbY3.jpg",
+				"text": "AHelp | Designed by Son and AHelpers"
+			}
+		}
+	},
 	"about 'kin time": {
 		"cmds": ["mqc"],
 		"embed": {
@@ -747,30 +744,30 @@ exports.data = {
 	"arc - salty": {
 		"cmds": ["trim"],
 		"embed": {
-    "title": "Arc - Salty",
-    "author": {
-      "name": "RuneScore Achievement Info",
-      "icon_url": "https://i.imgur.com/6c6q2iC.png"
-    },
-    "description": "[Arc - Salty](https://runescape.wiki/w/Arc_-_Salty) is an achievement that requires the player to unlock all [Arc rewards](https://runescape.wiki/w/Waiko_Reward_Shop), complete the [Arc journal](https://runescape.wiki/w/Arc_Journal), and convince [Flippers McGraw](https://runescape.wiki/w/Flippers_McGraw) to join their crew.\n\nCompletion of this achievement unlocks the [**Salty** [Name]](https://runescape.wiki/w/Salty) title.\n\nYou may utilise the **,rs exploration wushanko: the arc** command for a list of task guides.",
-    "thumbnail": {
-      "url": "https://vignette.wikia.nocookie.net/runescape2/images/a/ad/Wushanko_-_The_Arc_achievement_icon.png/revision/latest?cb=20180221204546"
-    },
-    "fields": [{
-        "name": "Requirements:",
-        "value": "• [Wushanko Isles: The Arc](https://runescape.wiki/w/Wushanko_Isles:_The_Arc)\n• [Arc - Rewards](https://runescape.wiki/w/Arc_-_Rewards)\n• [Arc - Unlocking Waiko](https://runescape.wiki/w/Arc_-_Unlocking_Waiko)\n• [Arc - Unlocking More Waiko](https://runescape.wiki/w/Arc_-_Unlocking_More_Waiko)\n• [Arc - Upgrading All of the Waiko](https://runescape.wiki/w/Arc_-_Upgrading_All_of_the_Waiko)\n• [Arc - Ancient Eastern Tortle Portals](https://runescape.wiki/w/Arc_-_Ancient_Eastern_Tortle_Portals)\n• [Arc - Mitts and Waders - Tetsu](https://runescape.wiki/w/Arc_-_Mitts_and_Waders_-_Tetsu)\n• [Arc - Mitts and Waders - Death Lotus](https://runescape.wiki/w/Arc_-_Mitts_and_Waders_-_Death_Lotus)\n• [Arc - Mitts and Waders - Seasinger](https://runescape.wiki/w/Arc_-_Mitts_and_Waders_-_Seasinger)\n• [Arc - Don't Crush my Memories](https://runescape.wiki/w/Arc_-_Don%27t_Crush_my_Memories)"
-      },
-      {
-        "name": "​",
-        "value": "• [Arc - All Your Energies](https://runescape.wiki/w/Arc_-_All_Your_Energies)\n• [Arc - Bone To Pick With You](https://runescape.wiki/w/Arc_-_Bone_To_Pick_With_You)\n• [Arc - Flippers](https://runescape.wiki/w/Arc_-_Flippers)"
-      }
-    ],
-    "footer": {
-      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
-      "text": "RuneScore awarded: 30"
-    },
-"timestamp": "2001-01-04T12:00:00Z"
-  }
+			"title": "Arc - Salty",
+			"author": {
+				"name": "RuneScore Achievement Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Arc - Salty](https://runescape.wiki/w/Arc_-_Salty) is an achievement that requires the player to unlock all [Arc rewards](https://runescape.wiki/w/Waiko_Reward_Shop), complete the [Arc journal](https://runescape.wiki/w/Arc_Journal), and convince [Flippers McGraw](https://runescape.wiki/w/Flippers_McGraw) to join their crew.\n\nCompletion of this achievement unlocks the [**Salty** [Name]](https://runescape.wiki/w/Salty) title.\n\nYou may utilise the **,rs exploration wushanko: the arc** command for a list of task guides.",
+			"thumbnail": {
+				"url": "https://vignette.wikia.nocookie.net/runescape2/images/a/ad/Wushanko_-_The_Arc_achievement_icon.png/revision/latest?cb=20180221204546"
+			},
+			"fields": [{
+					"name": "Requirements:",
+					"value": "• [Wushanko Isles: The Arc](https://runescape.wiki/w/Wushanko_Isles:_The_Arc)\n• [Arc - Rewards](https://runescape.wiki/w/Arc_-_Rewards)\n• [Arc - Unlocking Waiko](https://runescape.wiki/w/Arc_-_Unlocking_Waiko)\n• [Arc - Unlocking More Waiko](https://runescape.wiki/w/Arc_-_Unlocking_More_Waiko)\n• [Arc - Upgrading All of the Waiko](https://runescape.wiki/w/Arc_-_Upgrading_All_of_the_Waiko)\n• [Arc - Ancient Eastern Tortle Portals](https://runescape.wiki/w/Arc_-_Ancient_Eastern_Tortle_Portals)\n• [Arc - Mitts and Waders - Tetsu](https://runescape.wiki/w/Arc_-_Mitts_and_Waders_-_Tetsu)\n• [Arc - Mitts and Waders - Death Lotus](https://runescape.wiki/w/Arc_-_Mitts_and_Waders_-_Death_Lotus)\n• [Arc - Mitts and Waders - Seasinger](https://runescape.wiki/w/Arc_-_Mitts_and_Waders_-_Seasinger)\n• [Arc - Don't Crush my Memories](https://runescape.wiki/w/Arc_-_Don%27t_Crush_my_Memories)"
+				},
+				{
+					"name": "​",
+					"value": "• [Arc - All Your Energies](https://runescape.wiki/w/Arc_-_All_Your_Energies)\n• [Arc - Bone To Pick With You](https://runescape.wiki/w/Arc_-_Bone_To_Pick_With_You)\n• [Arc - Flippers](https://runescape.wiki/w/Arc_-_Flippers)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+				"text": "RuneScore awarded: 30"
+			},
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"arc - unlocking waiko": {
 		"cmds": ["comp"],
@@ -1533,12 +1530,11 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-        		{
+			"fields": [{
 					"name": "Strategy:",
 					"value": "• Try to minimize the movement to gain points. It is recommended to mix both herb-burning and herb-snatching.\n\n• Utilise [Surge](https://runescape.wiki/w/Surge) and/or [Bladed Dive](https://runescape.wiki/w/Bladed_Dive) (you can equip weapons once you enter) to get around the area quicker. Wearing armour or weapons with the [Mobile](https://runescape.wiki/w/Mobile) perk will enable the use of them more often.\n\n• Zygomites move quite slowly and players can click on multiple of them to take their herbs. When no zygomites are carrying healthy herbs (no green particle zygomites), players should steal or pick corrupted herbs to burn instead.\n\n• There is no penalty on letting any zygomites to burn healthy herbs and no time limit in this activity. If players only want one type of skill experience, they may wait zygomites to take healthy herbs for herblore experience, or ignore zygomites for firemaking experience.\n\n• Ignore zygomites carrying corrupted herbs, and those heading towards them."
 				},
-        		{
+				{
 					"name": "Requirements:",
 					"value": "• None"
 				},
@@ -1778,37 +1774,36 @@ exports.data = {
 	"bean there, done that": {
 		"cmds": ["comp"],
 		"embed": {
-    "title": "Bean There, Done That",
-    "author": {
-      "name": "RuneScore Achievement Info",
-      "icon_url": "https://i.imgur.com/6c6q2iC.png"
-    },
-    "description": "[Bean There, Done That](https://runescape.wiki/w/Bean_There,_Done_That) is an achievement that requires the player to purchase the following [farm upgrades](https://runescape.wiki/w/Farmers%27_Market#Farm_upgrades) from [Granny Potterington](https://runescape.wiki/w/Granny_Potterington)'s [Farmer's Market reward shop](https://runescape.wiki/w/Farmers%27_Market) for a total of 38,500 [beans](https://runescape.wiki/w/Beans).\n\nFor bean farming, it is recommended to make sure only the highest tier animal is in the small, medium, and large [pens](https://runescape.wiki/w/Player-owned_farm#Pens) the day before the corresponding [animal traders](https://runescape.wiki/w/Player-owned_farm#Buyers) should arive. This will prevent the player from getting a lower trader, which would result in less beans. The players should keep in mind that animals in the breeding paddock will not count towards spawning the animal trader for that type of animal.\n\nSelling animals while they are [adolescent](https://runescape.wiki/w/Player-owned_farm#Growth_stages) will result in the most beans.",
-    "color": 10257648,
-    "thumbnail": {
-      "url": "https://i.imgur.com/Shmagnp.png"
-    },
-    "fields": [
-      {
-        "inline": true,
-        "name": "Upgrades:",
-        "value": "• Small pen deed II\n• Medium pen deed I\n• Medium pen deed II\n• Large pen deed I\n• Large pen deed II\n• The Bank Chest\n• All 6 [Farm totems](https://runescape.wiki/w/Farm_totem)\n• Noted produce\n• [Seasonaliser wheel](https://runescape.wiki/w/Seasonaliser)\n• Multiple trait boost (small)\n• Multiple trait boost (medium)\n• Multiple trait boost (large)"
-      },
-      {
-        "inline": true,
-        "name": "Bean Price:",
-        "value": "• 100 Beans\n• 150 Beans\n• 500 Beans\n• 250 Beans\n• 1,000 Beans\n• 300 Beans\n• 1,200 Beans\n• 3,000 Beans\n• 5,000 Beans\n• 6,000 Beans\n• 9,000 Beans\n• 12,000 Beans\n"
-      },
-      {
-        "name": "Requirements:",
-        "value": "• 71 Farming\n• 20 Construction\n\n• Completion of the [Player-Owned Farm Tutorial](https://runescape.wiki/w/Player-owned_farm#Tutorial)"
-      }
-    ],
-    "footer": {
-      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
-      "text": "RuneScore awarded: 20"
-    }
-  },
+			"title": "Bean There, Done That",
+			"author": {
+				"name": "RuneScore Achievement Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Bean There, Done That](https://runescape.wiki/w/Bean_There,_Done_That) is an achievement that requires the player to purchase the following [farm upgrades](https://runescape.wiki/w/Farmers%27_Market#Farm_upgrades) from [Granny Potterington](https://runescape.wiki/w/Granny_Potterington)'s [Farmer's Market reward shop](https://runescape.wiki/w/Farmers%27_Market) for a total of 38,500 [beans](https://runescape.wiki/w/Beans).\n\nFor bean farming, it is recommended to make sure only the highest tier animal is in the small, medium, and large [pens](https://runescape.wiki/w/Player-owned_farm#Pens) the day before the corresponding [animal traders](https://runescape.wiki/w/Player-owned_farm#Buyers) should arive. This will prevent the player from getting a lower trader, which would result in less beans. The players should keep in mind that animals in the breeding paddock will not count towards spawning the animal trader for that type of animal.\n\nSelling animals while they are [adolescent](https://runescape.wiki/w/Player-owned_farm#Growth_stages) will result in the most beans.",
+			"color": 10257648,
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [{
+					"inline": true,
+					"name": "Upgrades:",
+					"value": "• Small pen deed II\n• Medium pen deed I\n• Medium pen deed II\n• Large pen deed I\n• Large pen deed II\n• The Bank Chest\n• All 6 [Farm totems](https://runescape.wiki/w/Farm_totem)\n• Noted produce\n• [Seasonaliser wheel](https://runescape.wiki/w/Seasonaliser)\n• Multiple trait boost (small)\n• Multiple trait boost (medium)\n• Multiple trait boost (large)"
+				},
+				{
+					"inline": true,
+					"name": "Bean Price:",
+					"value": "• 100 Beans\n• 150 Beans\n• 500 Beans\n• 250 Beans\n• 1,000 Beans\n• 300 Beans\n• 1,200 Beans\n• 3,000 Beans\n• 5,000 Beans\n• 6,000 Beans\n• 9,000 Beans\n• 12,000 Beans\n"
+				},
+				{
+					"name": "Requirements:",
+					"value": "• 71 Farming\n• 20 Construction\n\n• Completion of the [Player-Owned Farm Tutorial](https://runescape.wiki/w/Player-owned_farm#Tutorial)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+				"text": "RuneScore awarded: 20"
+			}
+		},
 	},
 	"behemoth notes": {
 		"cmds": ["mqc"],
@@ -2562,13 +2557,14 @@ exports.data = {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
 			"fields": [{
-                 "name": "​",
-                 "value": "The [Lorehound](https://runescape.wiki/w/Lorehound_(pet) pet can be used to increase the chance of this lore drop by 25%. Note that the lorehound must be summoned in order for the effect to be active, and cannot simply be used as a [familiar](https://runescape.wiki/w/Summoning_familiars) override.\n\nThe lorehound is a pet obtainable from [May's Quest Caravan](https://runescape.wiki/w/May%27s_Quest_Caravan). It is unlocked by allocating at least 25 [quest points](https://runescape.wiki/w/Quest_point) to the pet track, however, the Lore helper unlock requires a minimum of 150 cumulative quest points."
-            },
-            {
-				"name": "Requirements:",
-				"value": "• Monkey Madness Quest partial completion | [Runescape Wiki](https://runescape.wiki/w/Monkey_Madness)"
-			}],
+					"name": "​",
+					"value": "The [Lorehound](https://runescape.wiki/w/Lorehound_(pet) pet can be used to increase the chance of this lore drop by 25%. Note that the lorehound must be summoned in order for the effect to be active, and cannot simply be used as a [familiar](https://runescape.wiki/w/Summoning_familiars) override.\n\nThe lorehound is a pet obtainable from [May's Quest Caravan](https://runescape.wiki/w/May%27s_Quest_Caravan). It is unlocked by allocating at least 25 [quest points](https://runescape.wiki/w/Quest_point) to the pet track, however, the Lore helper unlock requires a minimum of 150 cumulative quest points."
+				},
+				{
+					"name": "Requirements:",
+					"value": "• Monkey Madness Quest partial completion | [Runescape Wiki](https://runescape.wiki/w/Monkey_Madness)"
+				}
+			],
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
 				"text": "RuneScore awarded: 10"
@@ -3210,41 +3206,40 @@ exports.data = {
 	"dinosaur hunter": {
 		"cmds": ["comp"],
 		"embed": {
-            "title": "Dinosaur Hunter",
-            "author": {
-                "name": "Cape Info",
-                "icon_url": "https://i.imgur.com/6c6q2iC.png"
-            },
-            "description": "[Dinosaur Hunter](https://runescape.wiki/w/Dinosaur_Hunter) is an achievement that requires the player to take down each dinosaur in the [Big Game Hunter](https://runescape.wiki/w/Big_Game_Hunter) activity.\n\nBig Game Hunter is a [Hunter](https://runescape.wiki/w/Hunter) activity ranging from level 75 to 96 Hunter on [Anachronia](https://runescape.wiki/w/Anachronia), where players can hunt dinosaurs using poison tipped javelins fired from scorpions. Big Game Hunter takes place in a wide-open area. There is one area for each species of dinosaur that can be hunted.",
-            "thumbnail": {
-                "url": "https://i.imgur.com/Shmagnp.png"
-            },
-            "fields": [
-        {
-                    "name": "Dinosaurs:",
-                    "value": "• [Arcane apoterrasaur](https://runescape.wiki/w/Arcane_apoterrasaur)\n• [Scimitops](https://runescape.wiki/w/Scimitops)\n• [Bagrada rex](https://runescape.wiki/w/Bagrada_rex)\n• [Spicati apoterrasaur](https://runescape.wiki/w/Spicati_apoterrasaur)\n• [Asciatops](https://runescape.wiki/w/Asciatops)\n• [Corbicula rex](https://runescape.wiki/w/Corbicula_rex)\n• [Oculi apoterrasaur](https://runescape.wiki/w/Oculi_apoterrasaur)\n• [Malletops](https://runescape.wiki/w/Malletops)\n• [Pavosaurus rex](https://runescape.wiki/w/Pavosaurus_rex)",
-          "inline": true
-                },
-        {
-          "name": "Hunter lvl:⠀⠀⠀              Slayer lvl:",
-                    "value": "75 ⠀⠀⠀                 55\n75 ⠀⠀⠀                 55\n75 ⠀⠀⠀                 55\n80 ⠀⠀⠀                     60\n85 ⠀⠀⠀                      65\n90 ⠀⠀⠀                     70\n94 ⠀⠀⠀                     74\n95 ⠀⠀⠀                 75\n96 ⠀⠀⠀                 76",
-          "inline": true
-        },
-        {
-                    "name": "Requirements:",
-                    "value": "• 96 Hunter\n• 76 Slayer"
-                },
-                {
-                    "name": "Guide:",
-                    "value": "• [Big Game Hunter guide | Bibzuda7 - YouTube](https://www.youtube.com/watch?v=7RthGQQnQLM)"
-                }
-            ],
-            "footer": {
-                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
-                "text": "RuneScore awarded: 10"
-            },
-            "timestamp": "2001-01-04T12:00:00Z"
-        }
+			"title": "Dinosaur Hunter",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Dinosaur Hunter](https://runescape.wiki/w/Dinosaur_Hunter) is an achievement that requires the player to take down each dinosaur in the [Big Game Hunter](https://runescape.wiki/w/Big_Game_Hunter) activity.\n\nBig Game Hunter is a [Hunter](https://runescape.wiki/w/Hunter) activity ranging from level 75 to 96 Hunter on [Anachronia](https://runescape.wiki/w/Anachronia), where players can hunt dinosaurs using poison tipped javelins fired from scorpions. Big Game Hunter takes place in a wide-open area. There is one area for each species of dinosaur that can be hunted.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [{
+					"name": "Dinosaurs:",
+					"value": "• [Arcane apoterrasaur](https://runescape.wiki/w/Arcane_apoterrasaur)\n• [Scimitops](https://runescape.wiki/w/Scimitops)\n• [Bagrada rex](https://runescape.wiki/w/Bagrada_rex)\n• [Spicati apoterrasaur](https://runescape.wiki/w/Spicati_apoterrasaur)\n• [Asciatops](https://runescape.wiki/w/Asciatops)\n• [Corbicula rex](https://runescape.wiki/w/Corbicula_rex)\n• [Oculi apoterrasaur](https://runescape.wiki/w/Oculi_apoterrasaur)\n• [Malletops](https://runescape.wiki/w/Malletops)\n• [Pavosaurus rex](https://runescape.wiki/w/Pavosaurus_rex)",
+					"inline": true
+				},
+				{
+					"name": "Hunter lvl:⠀⠀⠀              Slayer lvl:",
+					"value": "75 ⠀⠀⠀                 55\n75 ⠀⠀⠀                 55\n75 ⠀⠀⠀                 55\n80 ⠀⠀⠀                     60\n85 ⠀⠀⠀                      65\n90 ⠀⠀⠀                     70\n94 ⠀⠀⠀                     74\n95 ⠀⠀⠀                 75\n96 ⠀⠀⠀                 76",
+					"inline": true
+				},
+				{
+					"name": "Requirements:",
+					"value": "• 96 Hunter\n• 76 Slayer"
+				},
+				{
+					"name": "Guide:",
+					"value": "• [Big Game Hunter guide | Bibzuda7 - YouTube](https://www.youtube.com/watch?v=7RthGQQnQLM)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+				"text": "RuneScore awarded: 10"
+			},
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"do a minion, take notes": {
 		"cmds": ["mqc"],
@@ -3334,9 +3329,9 @@ exports.data = {
 					"value": "\n• [Miner's journal #1](https://runescape.wiki/w/Miner%27s_journal_1)\n• [Miner's journal #2](https://runescape.wiki/w/Miner%27s_journal_2)\n• [Miner's journal #3](https://runescape.wiki/w/Miner%27s_journal_3)\n• [Miner's journal #4](https://runescape.wiki/w/Miner%27s_journal_4)\n• [Miner's journal #5](https://runescape.wiki/w/Miner%27s_journal_5)\n• [The diary of Jebediah Omnis](https://runescape.wiki/w/The_diary_of_Jebediah_Omnis)"
 				},
 				{
-                    "name": "​",
-                    "value": "The [Lorehound](https://runescape.wiki/w/Lorehound_(pet) pet can be used to increase the chance of this lore drop by 25%. Note that the lorehound must be summoned in order for the effect to be active, and cannot simply be used as a [familiar](https://runescape.wiki/w/Summoning_familiars) override.\n\nThe lorehound is a pet obtainable from [May's Quest Caravan](https://runescape.wiki/w/May%27s_Quest_Caravan). It is unlocked by allocating at least 25 [quest points](https://runescape.wiki/w/Quest_point) to the pet track, however, the Lore helper unlock requires a minimum of 150 cumulative quest points."
-                },
+					"name": "​",
+					"value": "The [Lorehound](https://runescape.wiki/w/Lorehound_(pet) pet can be used to increase the chance of this lore drop by 25%. Note that the lorehound must be summoned in order for the effect to be active, and cannot simply be used as a [familiar](https://runescape.wiki/w/Summoning_familiars) override.\n\nThe lorehound is a pet obtainable from [May's Quest Caravan](https://runescape.wiki/w/May%27s_Quest_Caravan). It is unlocked by allocating at least 25 [quest points](https://runescape.wiki/w/Quest_point) to the pet track, however, the Lore helper unlock requires a minimum of 150 cumulative quest points."
+				},
 				{
 					"name": "Requirements:",
 					"value": "• 96 Slayer"
@@ -3356,23 +3351,23 @@ exports.data = {
 	"dragon ink": {
 		"cmds": ["mqc"],
 		"embed": {
-	    "title": "Dragon Ink",
-	    "author": {
-	      "name": "RuneScore Achievement Info",
-	      "icon_url": "https://i.imgur.com/6c6q2iC.png"
-	    },
-	    "description": "[Dragon Ink](https://runescape.wiki/w/Dragon_Ink) is an achievement that requires the player to obtain the lore books [Diary of an Overzealous Gnome](https://runescape.wiki/w/Diary_of_an_Overzealous_Gnome) and [Redacted Dragonkin Research](https://runescape.wiki/w/Redacted_Dragonkin_Research) from bosses in the [Dragonkin Laboratory](https://runescape.wiki/w/Dragonkin_Laboratory).\n\nThe Diary of an Overzealous Gnome is a lore book obtained by defeating [Astellarn](https://runescape.wiki/w/Astellarn) and the Redacted Dragonkin Research is a lore book obtained by defeating [Verak Lith](https://runescape.wiki/w/Verak_Lith). Both can be obtained in either normal or story mode, however the drop rate is higher in story mode.\n\nThe lorebooks drop at a 1/10 drop rate. Every normal mode or solo kill of the boss increases that chance by 1%. Wearing the [Dungeoneering master cape](https://runescape.wiki/w/Dungeoneering_master_cape) will increase the chance of receiving lore drops within all Elite Dungeons.",
-	    "thumbnail": {
-	      "url": "https://i.imgur.com/Shmagnp.png"
-	    },
-	    "fields": [{
-	      "name": "Requirements:",
-	      "value": "• None"
-	    }],
-	    "footer": {
-	      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
-	      "text": "RuneScore awarded: 20"
-	    }
+			"title": "Dragon Ink",
+			"author": {
+				"name": "RuneScore Achievement Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Dragon Ink](https://runescape.wiki/w/Dragon_Ink) is an achievement that requires the player to obtain the lore books [Diary of an Overzealous Gnome](https://runescape.wiki/w/Diary_of_an_Overzealous_Gnome) and [Redacted Dragonkin Research](https://runescape.wiki/w/Redacted_Dragonkin_Research) from bosses in the [Dragonkin Laboratory](https://runescape.wiki/w/Dragonkin_Laboratory).\n\nThe Diary of an Overzealous Gnome is a lore book obtained by defeating [Astellarn](https://runescape.wiki/w/Astellarn) and the Redacted Dragonkin Research is a lore book obtained by defeating [Verak Lith](https://runescape.wiki/w/Verak_Lith). Both can be obtained in either normal or story mode, however the drop rate is higher in story mode.\n\nThe lorebooks drop at a 1/10 drop rate. Every normal mode or solo kill of the boss increases that chance by 1%. Wearing the [Dungeoneering master cape](https://runescape.wiki/w/Dungeoneering_master_cape) will increase the chance of receiving lore drops within all Elite Dungeons.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [{
+				"name": "Requirements:",
+				"value": "• None"
+			}],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+				"text": "RuneScore awarded: 20"
+			}
 		}
 	},
 	"dragonkin logs": {
@@ -3392,9 +3387,9 @@ exports.data = {
 					"value": "Adamant dragons can use all three attack styles, as well as dragonfire. [Super antifires](https://runescape.wiki/w/Super_antifire) are highly recommended, with some form of dragonfire protection being needed. While in melee range it will not use its Ranged attack and while outside of melee range it will be unable to use melee. They will use Magic attacks in melee range. For this reason, it is suggested that:\n\n• If wearing Magic type amour, they should stay inside melee attack range (due to Magic armor being weak to Ranged type attacks)\n\n• If wearing Ranged type amour with [dragonbane ammunition](https://runescape.wiki/w/Bane_ammunition), they should stay outside melee attack range."
 				},
 				{
-                    "name": "​",
-                    "value": "The [Lorehound](https://runescape.wiki/w/Lorehound_(pet) pet can be used to increase the chance of this lore drop by 25%. Note that the lorehound must be summoned in order for the effect to be active, and cannot simply be used as a [familiar](https://runescape.wiki/w/Summoning_familiars) override.\n\nThe lorehound is a pet obtainable from [May's Quest Caravan](https://runescape.wiki/w/May%27s_Quest_Caravan). It is unlocked by allocating at least 25 [quest points](https://runescape.wiki/w/Quest_point) to the pet track, however, the Lore helper unlock requires a minimum of 150 cumulative quest points."
-                },
+					"name": "​",
+					"value": "The [Lorehound](https://runescape.wiki/w/Lorehound_(pet) pet can be used to increase the chance of this lore drop by 25%. Note that the lorehound must be summoned in order for the effect to be active, and cannot simply be used as a [familiar](https://runescape.wiki/w/Summoning_familiars) override.\n\nThe lorehound is a pet obtainable from [May's Quest Caravan](https://runescape.wiki/w/May%27s_Quest_Caravan). It is unlocked by allocating at least 25 [quest points](https://runescape.wiki/w/Quest_point) to the pet track, however, the Lore helper unlock requires a minimum of 150 cumulative quest points."
+				},
 				{
 					"name": "Requirements:",
 					"value": "• Hero's Welcome Quest completion | [Runescape Wiki](https://runescape.wiki/w/Hero%27s_Welcome)"
@@ -3435,34 +3430,33 @@ exports.data = {
 			"timestamp": "2001-01-04T12:00:00Z"
 		}
 	},
- 	"e-i-e-i-o": {
- 		"cmds": ["trim"],
- 		"embed": {
-    "title": "E-I-E-I-O",
-    "author": {
-      "name": "RuneScore Achievement Info",
-      "icon_url": "https://i.imgur.com/6c6q2iC.png"
-    },
-    "description": "[E-I-E-I-O](https://runescape.wiki/w/E-I-E-I-O) is an achievement that requires the player to complete the [breeding log](https://runescape.wiki/w/Manor_Farm_breeding_log).\n\nIt is not required to build the medium and large [pens](https://runescape.wiki/w/Player-owned_farm#Pens) to breed the animals for those respective pen sizes, as the player can use the breeding pen instead.",
-    "thumbnail": {
-      "url": "https://i.imgur.com/Shmagnp.png"
-    },
-    "fields": [
-      {
-        "name": "Requirements:",
-        "value": "• 92 Farming\n• 20 Construction\n\n• [You Had a Chicken](https://runescape.wiki/w/You_Had_a_Chicken)\n• [You Had a Rabbit](https://runescape.wiki/w/You_Had_a_Rabbit)\n• [You Had a Sheep](https://runescape.wiki/w/You_Had_a_Sheep)\n• [You Had a Chinchompa](https://runescape.wiki/w/You_Had_a_Chinchompa)\n• [You Had a Spider](https://runescape.wiki/w/You_Had_a_Spider)\n• [You Had a Zygomite](https://runescape.wiki/w/You_Had_a_Zygomite)\n• [You Had a Cow](https://runescape.wiki/w/You_Had_a_Cow)\n• [You Had a Yak](https://runescape.wiki/w/You_Had_a_Yak)\n• [You Had a Dragon](https://runescape.wiki/w/You_Had_a_Dragon)\n\n• Completion of the [Player-Owned Farm Tutorial](https://runescape.wiki/w/Player-owned_farm#Tutorial)"
-      },
-      {
-        "name": "Guide:",
-        "value": "• Guides for each animal type can be found in the corresponding breeding log achievement guides, which can be viewed using the **,rs You Had a** command."
-      }
-    ],
-    "footer": {
-      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
-      "text": "RuneScore awarded: 0"
-    }
-  }
- 	},
+	"e-i-e-i-o": {
+		"cmds": ["trim"],
+		"embed": {
+			"title": "E-I-E-I-O",
+			"author": {
+				"name": "RuneScore Achievement Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[E-I-E-I-O](https://runescape.wiki/w/E-I-E-I-O) is an achievement that requires the player to complete the [breeding log](https://runescape.wiki/w/Manor_Farm_breeding_log).\n\nIt is not required to build the medium and large [pens](https://runescape.wiki/w/Player-owned_farm#Pens) to breed the animals for those respective pen sizes, as the player can use the breeding pen instead.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [{
+					"name": "Requirements:",
+					"value": "• 92 Farming\n• 20 Construction\n\n• [You Had a Chicken](https://runescape.wiki/w/You_Had_a_Chicken)\n• [You Had a Rabbit](https://runescape.wiki/w/You_Had_a_Rabbit)\n• [You Had a Sheep](https://runescape.wiki/w/You_Had_a_Sheep)\n• [You Had a Chinchompa](https://runescape.wiki/w/You_Had_a_Chinchompa)\n• [You Had a Spider](https://runescape.wiki/w/You_Had_a_Spider)\n• [You Had a Zygomite](https://runescape.wiki/w/You_Had_a_Zygomite)\n• [You Had a Cow](https://runescape.wiki/w/You_Had_a_Cow)\n• [You Had a Yak](https://runescape.wiki/w/You_Had_a_Yak)\n• [You Had a Dragon](https://runescape.wiki/w/You_Had_a_Dragon)\n\n• Completion of the [Player-Owned Farm Tutorial](https://runescape.wiki/w/Player-owned_farm#Tutorial)"
+				},
+				{
+					"name": "Guide:",
+					"value": "• Guides for each animal type can be found in the corresponding breeding log achievement guides, which can be viewed using the **,rs You Had a** command."
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+				"text": "RuneScore awarded: 0"
+			}
+		}
+	},
 	"eastern adventurer": {
 		"cmds": ["mqc", "trim"],
 		"embed": {
@@ -4769,38 +4763,61 @@ exports.data = {
 			"timestamp": "2001-01-04T12:00:00Z"
 		}
 	},
+	"jurassic perk": {
+		"cmds": ["trim"],
+		"embed": {
+			"title": "Jurassic Perk (Exploration, Anachronia)",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Jurassic Perk](https://rs.wiki/Jurassic_Perk) is an achievement that requires the player to discover all the [totem pieces](https://rs.wiki/Totems) on [Anachronia](https://rs.wiki/Anachronia).\n\nTotems are items craftable by combining totem tops, middles, and bottoms, found on Anachronia. They can be placed to grant various passive bonuses to the player. Totem pieces can be stored in a [Totem bag](https://runescape.wiki/w/Totem_bag).\n\nAfter assembling a totem, it can be placed at one of three locations on Anachronia. These areas are marked by the [Distractions & Diversions](https://runescape.wiki/w/Distractions_and_Diversions) icon <:DnD_icon:598584831911264292> at the far west, north, and southeast areas on [this map of the island](https://runescape.wiki/images/8/86/Totem_ritual_locations.png).\n\nTo activate it, the player has to interact with it and charge it. Whilst the totem is being charged, [Temporal instabilities](https://runescape.wiki/w/Temporal_instability) can appear which can be closed simply by clicking on them. Charging the totem and closing the instabilities awards [Divination](https://runescape.wiki/w/Divination) experience. Once placed the totem cannot be removed until the next weekly reset.\n\nThe player must recharge the totems after every weekly reset to retain their bonuses.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [{
+					"name": "Requirements:",
+					"value": "• 30 Agility\n• 75 Hunter\n• 90 Slayer\n• 81 Woodcutting"
+				},
+				{
+					"name": "Guide:",
+					"value": "• [Totem Components guide | Runescape Wiki](https://runescape.wiki/w/Totem_(Anachronia%29#How_to_obtain_Totem_pieces)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+				"text": "RuneScore awarded: 30"
+			},
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
+	},
 	"kaiki's tusks": {
 		"cmds": ["trim"],
 		"embed": {
-            "title": "Jurassic Perk (Exploration, Anachronia)",
-            "author":
-        {
-                    "name": "Cape Info",
-                    "icon_url": "https://i.imgur.com/6c6q2iC.png"
-              },
-              "description": "[Jurassic Perk](https://rs.wiki/Jurassic_Perk) is an achievement that requires the player to discover all the [totem pieces](https://rs.wiki/Totems) on [Anachronia](https://rs.wiki/Anachronia).\n\nTotems are items craftable by combining totem tops, middles, and bottoms, found on Anachronia. They can be placed to grant various passive bonuses to the player. Totem pieces can be stored in a [Totem bag](https://runescape.wiki/w/Totem_bag).\n\nAfter assembling a totem, it can be placed at one of three locations on Anachronia. These areas are marked by the [Distractions & Diversions](https://runescape.wiki/w/Distractions_and_Diversions) icon <:DnD_icon:598584831911264292> at the far west, north, and southeast areas on [this map of the island](https://runescape.wiki/images/8/86/Totem_ritual_locations.png).\n\nTo activate it, the player has to interact with it and charge it. Whilst the totem is being charged, [Temporal instabilities](https://runescape.wiki/w/Temporal_instability) can appear which can be closed simply by clicking on them. Charging the totem and closing the instabilities awards [Divination](https://runescape.wiki/w/Divination) experience. Once placed the totem cannot be removed until the next weekly reset.\n\nThe player must recharge the totems after every weekly reset to retain their bonuses.",
-              "thumbnail":
-        {
-                    "url": "https://i.imgur.com/Shmagnp.png"
-              },
-              "fields":
-        [
-            {
-                          "name": "Requirements:",
-                          "value": "• 30 Agility\n• 75 Hunter\n• 90 Slayer\n• 81 Woodcutting"
-                    },
-                {
-                    "name": "Guide:",
-                    "value": "• [Totem Components guide | Runescape Wiki](https://runescape.wiki/w/Totem_(Anachronia%29#How_to_obtain_Totem_pieces)"
-                }
-              ],
-              "footer":
-        {
-                    "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
-                    "text": "RuneScore awarded: 30"
-              },
-              "timestamp": "2001-01-04T12:00:00Z"
-        }
+			"title": "Jurassic Perk (Exploration, Anachronia)",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Jurassic Perk](https://rs.wiki/Jurassic_Perk) is an achievement that requires the player to discover all the [totem pieces](https://rs.wiki/Totems) on [Anachronia](https://rs.wiki/Anachronia).\n\nTotems are items craftable by combining totem tops, middles, and bottoms, found on Anachronia. They can be placed to grant various passive bonuses to the player. Totem pieces can be stored in a [Totem bag](https://runescape.wiki/w/Totem_bag).\n\nAfter assembling a totem, it can be placed at one of three locations on Anachronia. These areas are marked by the [Distractions & Diversions](https://runescape.wiki/w/Distractions_and_Diversions) icon <:DnD_icon:598584831911264292> at the far west, north, and southeast areas on [this map of the island](https://runescape.wiki/images/8/86/Totem_ritual_locations.png).\n\nTo activate it, the player has to interact with it and charge it. Whilst the totem is being charged, [Temporal instabilities](https://runescape.wiki/w/Temporal_instability) can appear which can be closed simply by clicking on them. Charging the totem and closing the instabilities awards [Divination](https://runescape.wiki/w/Divination) experience. Once placed the totem cannot be removed until the next weekly reset.\n\nThe player must recharge the totems after every weekly reset to retain their bonuses.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [{
+					"name": "Requirements:",
+					"value": "• 30 Agility\n• 75 Hunter\n• 90 Slayer\n• 81 Woodcutting"
+				},
+				{
+					"name": "Guide:",
+					"value": "• [Totem Components guide | Runescape Wiki](https://runescape.wiki/w/Totem_(Anachronia%29#How_to_obtain_Totem_pieces)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+				"text": "RuneScore awarded: 30"
+			},
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"kaiki's tusks": {
 		"cmds": ["mqc"],
@@ -5771,39 +5788,34 @@ exports.data = {
 	"master builder": {
 		"cmds": ["trim"],
 		"embed": {
-    "title": "Master Builder",
-    "author":
-    {
-      "name": "Cape Info",
-      "icon_url": "https://i.imgur.com/6c6q2iC.png"
-    },
-    "description": "[Master Builder](https://rs.wiki/Master_Builder) is an achievement that requires the player to fully upgrade the [Base camp](https://runescape.wiki/w/Anachronia_base_camp) on [Anachronia](https://rs.wiki/Anachronia).\n\nThe base camp is a location on Anachronia which can be built up with various structures at multiple tiers, with collected materials from workers. The base camp can be managed by speaking to [Giles](https://runescape.wiki/w/Giles) inside the town hall after talking to him at the entrance to the temple, in front of the unfinished [lodestone](https://runescape.wiki/w/Lodestone_Network).\n\nEach area of the base camp can be upgraded to three tiers, each requiring specific amounts of [resources](https://runescape.wiki/w/Anachronia_base_camp#Workers). These resources are gathered by allocating the camp [workers](https://runescape.wiki/w/Anachronia_base_camp#Workers) to each resource.\n\nThe camp starts off with 10 workers and more can be obtained by upgrading the [sleeping quarters](https://runescape.wiki/w/Anachronia_base_camp#Sleeping_Quarters), up to a maximum of 60. Workers will gather 60 resources each per hour, resulting in 900/1800/3600 resources obtained per hour at sleeping quarters tier 1, 2, and 3 respectively. Workers will continue to gather resources when logged out.\n\nResources can also be found whilst skilling or killing the local fauna. The kind of resource you can get depends on what your workers are assigned to. These can be sent to the camp using the right click option, adding 100 of that resource.\n\nThe tier 1 town hall is constructed during the base camp tutorial and unlocks the ability to upgrade all other buildings.\n\n*The requirements for all building tiers are not yet known as upgrades take time to complete so please let us know if you discover them so that we can update this guide and add the information to the [Runescape wiki page](https://runescape.wiki/w/Anachronia_base_camp)*.",
-    "thumbnail":
-    {
-      "url": "https://i.imgur.com/Shmagnp.png"
-    },
-    "fields":
-    [
-      {
-        "name": "Structures to upgrade:",
-        "value": "• [Town Hall](https://runescape.wiki/w/Anachronia_base_camp#Town_Hall)\n• [Storehouse](https://runescape.wiki/w/Anachronia_base_camp#Storehouse)\n• [Sleeping Quarters](https://runescape.wiki/w/Anachronia_base_camp#Sleeping_Quarters)\n• [Spa](https://runescape.wiki/w/Anachronia_base_camp#Spa)\n• [Hunter Lodge](https://runescape.wiki/w/Anachronia_base_camp#Hunter_Lodge)\n• [Slayer Lodge](https://runescape.wiki/w/Anachronia_base_camp#Slayer_Lodge)\n• [Player lodge](https://runescape.wiki/w/Anachronia_base_camp#Player_Lodge)\n• [Bank Chest](https://runescape.wiki/w/Anachronia_base_camp#Bank_Chest)\n• [Lodestone](https://runescape.wiki/w/Anachronia_base_camp#Lodestone)"
-      },
-      {
-        "name": "Requirements:",
-        "value": "• 90 Agility\n• 90 Construction\n• 90 Hunter\n• 90 Slayer"
-      },
-      {
-        "name": "Guide:",
-        "value": "[Land out of Time First Look & Info! | Maikeru RS - YouTube](https://youtu.be/0_Z84d5WGp4?t=48)"
-      }
-    ],
-    "footer":
-    {
-      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
-      "text": "RuneScore awarded: 30"
-    },
-    "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"title": "Master Builder",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Master Builder](https://rs.wiki/Master_Builder) is an achievement that requires the player to fully upgrade the [Base camp](https://runescape.wiki/w/Anachronia_base_camp) on [Anachronia](https://rs.wiki/Anachronia).\n\nThe base camp is a location on Anachronia which can be built up with various structures at multiple tiers, with collected materials from workers. The base camp can be managed by speaking to [Giles](https://runescape.wiki/w/Giles) inside the town hall after talking to him at the entrance to the temple, in front of the unfinished [lodestone](https://runescape.wiki/w/Lodestone_Network).\n\nEach area of the base camp can be upgraded to three tiers, each requiring specific amounts of [resources](https://runescape.wiki/w/Anachronia_base_camp#Workers). These resources are gathered by allocating the camp [workers](https://runescape.wiki/w/Anachronia_base_camp#Workers) to each resource.\n\nThe camp starts off with 10 workers and more can be obtained by upgrading the [sleeping quarters](https://runescape.wiki/w/Anachronia_base_camp#Sleeping_Quarters), up to a maximum of 60. Workers will gather 60 resources each per hour, resulting in 900/1800/3600 resources obtained per hour at sleeping quarters tier 1, 2, and 3 respectively. Workers will continue to gather resources when logged out.\n\nResources can also be found whilst skilling or killing the local fauna. The kind of resource you can get depends on what your workers are assigned to. These can be sent to the camp using the right click option, adding 100 of that resource.\n\nThe tier 1 town hall is constructed during the base camp tutorial and unlocks the ability to upgrade all other buildings.\n\n*The requirements for all building tiers are not yet known as upgrades take time to complete so please let us know if you discover them so that we can update this guide and add the information to the [Runescape wiki page](https://runescape.wiki/w/Anachronia_base_camp)*.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [{
+					"name": "Structures to upgrade:",
+					"value": "• [Town Hall](https://runescape.wiki/w/Anachronia_base_camp#Town_Hall)\n• [Storehouse](https://runescape.wiki/w/Anachronia_base_camp#Storehouse)\n• [Sleeping Quarters](https://runescape.wiki/w/Anachronia_base_camp#Sleeping_Quarters)\n• [Spa](https://runescape.wiki/w/Anachronia_base_camp#Spa)\n• [Hunter Lodge](https://runescape.wiki/w/Anachronia_base_camp#Hunter_Lodge)\n• [Slayer Lodge](https://runescape.wiki/w/Anachronia_base_camp#Slayer_Lodge)\n• [Player lodge](https://runescape.wiki/w/Anachronia_base_camp#Player_Lodge)\n• [Bank Chest](https://runescape.wiki/w/Anachronia_base_camp#Bank_Chest)\n• [Lodestone](https://runescape.wiki/w/Anachronia_base_camp#Lodestone)"
+				},
+				{
+					"name": "Requirements:",
+					"value": "• 90 Agility\n• 90 Construction\n• 90 Hunter\n• 90 Slayer"
+				},
+				{
+					"name": "Guide:",
+					"value": "[Land out of Time First Look & Info! | Maikeru RS - YouTube](https://youtu.be/0_Z84d5WGp4?t=48)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+				"text": "RuneScore awarded: 30"
+			},
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"master otto": {
 		"cmds": ["trim"],
@@ -6236,26 +6248,25 @@ exports.data = {
 	"meta-phos (sandy)": {
 		"cmds": ["trim"],
 		"embed": {
-    "title": "Meta-phos (Sandy)",
-    "author": {
-      "name": "RuneScore Achievement Info",
-      "icon_url": "https://i.imgur.com/6c6q2iC.png"
-    },
-    "description": "[Meta-phos](https://runescape.wiki/w/Meta-phos) is an achievement that requires the player to unlock all [Menaphos](https://runescape.wiki/w/Menaphos) rewards.\n\nThis includes:\n\n• Gaining tier 10 [reputation](https://runescape.wiki/w/Reputation_(Menaphos%29) with all Menaphos factions\n• Completing the [Menaphos journal](https://runescape.wiki/w/Menaphos_journal)\n• Completing the [Jack of Spades](https://runescape.wiki/w/Jack_of_Spades), [Crocodile Tears](https://runescape.wiki/w/Crocodile_Tears), [Our Man in the North](https://runescape.wiki/w/Our_Man_in_the_North), and ['Phite Club](https://runescape.wiki/w/%27Phite_Club) quests\n• Obtaining the [Palapa Cape](https://runescape.wiki/w/Palapa_Cape) override\n• Unlocking the [Ishhara](https://runescape.wiki/w/Ishhara) pet\n• Unlocking the [Squeck](https://runescape.wiki/w/Squeck) pet\n• Completing the [Golden Path Challenge](https://runescape.wiki/w/Golden_Path_Challenge) to unlock the [Magic carpet (Basic) pet](https://runescape.wiki/w/Magic_carpet_(pet%29)\n\nCompletion of this achievement unlocks the [**Sandy** [Name]](https://runescape.wiki/w/Sandy_(title%29) title.\n\nYou may utilise the **,rs exploration menaphos** command for a list of task guides.",
-    "thumbnail": {
-      "url": "https://i.imgur.com/TBXiD9p.png"
-    },
-    "fields": [{
-        "name": "Requirements:",
-        "value": "• [Menaphos Pyramid Scheme](https://runescape.wiki/w/Menaphos_Pyramid_Scheme)\n• [All Abuzz](https://runescape.wiki/w/All_Abuzz)\n• [Feline Good](https://runescape.wiki/w/Feline_Good)\n• [Rock and Roll](https://runescape.wiki/w/Rock_and_Roll)\n• [Jack of All Menaphos](https://runescape.wiki/w/Jack_of_all_menaphos) ([Palapa Cape](https://runescape.wiki/w/Palapa_Cape))\n• [Gotta catch 'em both!](https://runescape.wiki/w/Gotta_catch_'em_both) ([Ishhara](https://runescape.wiki/w/Ishhara)) ([Squeck](https://runescape.wiki/w/Squeck))\n• [Follow the Gold-Brick Road](https://runescape.wiki/w/Golden_Path_Challenge)"
-      }
-    ],
-    "footer": {
-      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
-      "text": "RuneScore awarded: 0"
-    },
-"timestamp": "2001-01-04T12:00:00Z"
-  }
+			"title": "Meta-phos (Sandy)",
+			"author": {
+				"name": "RuneScore Achievement Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Meta-phos](https://runescape.wiki/w/Meta-phos) is an achievement that requires the player to unlock all [Menaphos](https://runescape.wiki/w/Menaphos) rewards.\n\nThis includes:\n\n• Gaining tier 10 [reputation](https://runescape.wiki/w/Reputation_(Menaphos%29) with all Menaphos factions\n• Completing the [Menaphos journal](https://runescape.wiki/w/Menaphos_journal)\n• Completing the [Jack of Spades](https://runescape.wiki/w/Jack_of_Spades), [Crocodile Tears](https://runescape.wiki/w/Crocodile_Tears), [Our Man in the North](https://runescape.wiki/w/Our_Man_in_the_North), and ['Phite Club](https://runescape.wiki/w/%27Phite_Club) quests\n• Obtaining the [Palapa Cape](https://runescape.wiki/w/Palapa_Cape) override\n• Unlocking the [Ishhara](https://runescape.wiki/w/Ishhara) pet\n• Unlocking the [Squeck](https://runescape.wiki/w/Squeck) pet\n• Completing the [Golden Path Challenge](https://runescape.wiki/w/Golden_Path_Challenge) to unlock the [Magic carpet (Basic) pet](https://runescape.wiki/w/Magic_carpet_(pet%29)\n\nCompletion of this achievement unlocks the [**Sandy** [Name]](https://runescape.wiki/w/Sandy_(title%29) title.\n\nYou may utilise the **,rs exploration menaphos** command for a list of task guides.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/TBXiD9p.png"
+			},
+			"fields": [{
+				"name": "Requirements:",
+				"value": "• [Menaphos Pyramid Scheme](https://runescape.wiki/w/Menaphos_Pyramid_Scheme)\n• [All Abuzz](https://runescape.wiki/w/All_Abuzz)\n• [Feline Good](https://runescape.wiki/w/Feline_Good)\n• [Rock and Roll](https://runescape.wiki/w/Rock_and_Roll)\n• [Jack of All Menaphos](https://runescape.wiki/w/Jack_of_all_menaphos) ([Palapa Cape](https://runescape.wiki/w/Palapa_Cape))\n• [Gotta catch 'em both!](https://runescape.wiki/w/Gotta_catch_'em_both) ([Ishhara](https://runescape.wiki/w/Ishhara)) ([Squeck](https://runescape.wiki/w/Squeck))\n• [Follow the Gold-Brick Road](https://runescape.wiki/w/Golden_Path_Challenge)"
+			}],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+				"text": "RuneScore awarded: 0"
+			},
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"milk of chocolate, snape of grass": {
 		"cmds": ["trim"],
@@ -6708,14 +6719,13 @@ exports.data = {
 					"name": "Phase 4: Slaughter",
 					"value": "During the fourth phase, Nomad stops using all of his other attacks, although Gielinor continues to use the bombs and beam, traps himself and the player between two soul walls in the middle of the bridge, and uses exclusively rapid melee attacks which can deal over 3,000 damage each. If the player has Deflect Melee active, Nomad will occasionally say \"You're alone here [player]\", disabling it and preventing it from being re-activated for a few seconds. During this phase, it is crucial to re-activate Deflect Melee as soon as possible, and while it is deactivated, reduce damage using Resonance, Debilitate, Reflect, and even [Barricade](https://runescape.wiki/w/Barricade), as without prayer, it is possible that Nomad can deal damage faster than the player can heal."
 				}
-      ]
-    }
+			]
+		}
 	},
 	"nomad's mirage pt2": {
 		"cmds": ["trim"],
 		"embed": {
-      "fields": [
-        {
+			"fields": [{
 					"name": "​",
 					"value": "Due to this phase's damage, it is a good idea to adopt the 'foodbrew' technique. It is possible to eat a piece of food (e.g. a [rocktail](https://runescape.wiki/w/Rocktail) or [shark](https://runescape.wiki/w/Shark)) and drink a [Saradomin brew](https://runescape.wiki/w/Saradomin_brew) in the same tick (by clicking the food first) to heal their combined amounts in one tick. This results in faster health restoration than eating food or drinking brews individually."
 				},
@@ -6770,32 +6780,28 @@ exports.data = {
 	"of kraken ink": {
 		"cmds": ["mqc"],
 		"embed": {
-	        "title": "Of Kraken Ink",
-	        "author":
-		        {
-		            "name": "RuneScore Achievement Info",
-		            "icon_url": "https://i.imgur.com/6c6q2iC.png"
-		        },
-	        "description": "[Of Kraken Ink](https://runescape.wiki/w/Of_Kraken_Ink) is an achievement that requires the player to collect the lore books, [The Last Offering](https://runescape.wiki/w/The_Last_Offering) and [Kranon's Ancient Journal](https://runescape.wiki/w/Kranon%27s_Ancient_Journal), from bosses inside [The Shadow Reef](https://runescape.wiki/w/The_Shadow_Reef).\n\nThe Last Offering is a waterlogged book that describes an encounter with [The Ambassador](https://runescape.wiki/w/The_Ambassador), and can be obtained as a drop from the [Crassian Leviathan](https://runescape.wiki/w/Crassian_Leviathan), the first boss inside The Shadow Reef.\n\nKranon's Ancient Journal is a book that details the thoughts of The Ambassador, and can be obtained as a drop from [Taraket The Necromancer](https://runescape.wiki/w/Taraket_the_Necromancer) inside The Shadow Reef.\n\nThe lore books drop at a 1/10 drop rate. Every normal mode or solo kill of the boss increases that chance by 1%. Wearing the [Dungeoneering master cape](https://runescape.wiki/w/Dungeoneering_master_cape) will increase the chance of receiving lore drops within all Elite Dungeons.\n\nBoth can be obtained in either normal or story mode, however the drop rate is higher in story mode.",
-	        "thumbnail":
-		        {
-		            "url": "https://i.imgur.com/Shmagnp.png"
-		        },
-	        "fields":
-		        [
-		           
-		            {
-		                 "name": "Requirements:",
-		                 "value": "• None"
-		            }
-		           
-		        ],
-	        "footer":
-		        {
-		            "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
-		            "text": "RuneScore awarded: 20"
-		        }
-	    }
+			"title": "Of Kraken Ink",
+			"author": {
+				"name": "RuneScore Achievement Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Of Kraken Ink](https://runescape.wiki/w/Of_Kraken_Ink) is an achievement that requires the player to collect the lore books, [The Last Offering](https://runescape.wiki/w/The_Last_Offering) and [Kranon's Ancient Journal](https://runescape.wiki/w/Kranon%27s_Ancient_Journal), from bosses inside [The Shadow Reef](https://runescape.wiki/w/The_Shadow_Reef).\n\nThe Last Offering is a waterlogged book that describes an encounter with [The Ambassador](https://runescape.wiki/w/The_Ambassador), and can be obtained as a drop from the [Crassian Leviathan](https://runescape.wiki/w/Crassian_Leviathan), the first boss inside The Shadow Reef.\n\nKranon's Ancient Journal is a book that details the thoughts of The Ambassador, and can be obtained as a drop from [Taraket The Necromancer](https://runescape.wiki/w/Taraket_the_Necromancer) inside The Shadow Reef.\n\nThe lore books drop at a 1/10 drop rate. Every normal mode or solo kill of the boss increases that chance by 1%. Wearing the [Dungeoneering master cape](https://runescape.wiki/w/Dungeoneering_master_cape) will increase the chance of receiving lore drops within all Elite Dungeons.\n\nBoth can be obtained in either normal or story mode, however the drop rate is higher in story mode.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+
+				{
+					"name": "Requirements:",
+					"value": "• None"
+				}
+
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+				"text": "RuneScore awarded: 20"
+			}
+		}
 	},
 	"on a mission from... the gods": {
 		"cmds": ["mqc"],
@@ -6886,10 +6892,10 @@ exports.data = {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
 			"fields": [{
-                    "name": "​",
-                    "value": "The [Lorehound](https://runescape.wiki/w/Lorehound_(pet) pet can be used to increase the chance of this lore drop by 25%. Note that the lorehound must be summoned in order for the effect to be active, and cannot simply be used as a [familiar](https://runescape.wiki/w/Summoning_familiars) override.\n\nThe lorehound is a pet obtainable from [May's Quest Caravan](https://runescape.wiki/w/May%27s_Quest_Caravan). It is unlocked by allocating at least 25 [quest points](https://runescape.wiki/w/Quest_point) to the pet track, however, the Lore helper unlock requires a minimum of 150 cumulative quest points."
-                },
-                {
+					"name": "​",
+					"value": "The [Lorehound](https://runescape.wiki/w/Lorehound_(pet) pet can be used to increase the chance of this lore drop by 25%. Note that the lorehound must be summoned in order for the effect to be active, and cannot simply be used as a [familiar](https://runescape.wiki/w/Summoning_familiars) override.\n\nThe lorehound is a pet obtainable from [May's Quest Caravan](https://runescape.wiki/w/May%27s_Quest_Caravan). It is unlocked by allocating at least 25 [quest points](https://runescape.wiki/w/Quest_point) to the pet track, however, the Lore helper unlock requires a minimum of 150 cumulative quest points."
+				},
+				{
 					"name": "Requirements:",
 					"value": "• None"
 				},
@@ -7109,34 +7115,34 @@ exports.data = {
 	"peachy bones": {
 		"cmds": ["comp"],
 		"embed": {
-         "title": "Peachy Bones",
-         "author": {
-            "name": "Cape Info",
-            "icon_url": "https://i.imgur.com/6c6q2iC.png"
-         },
-         "description": "[Peachy Bones](https://runescape.wiki/w/Peachy_Bones) is an achievement that requires the player to unlock the [Bones To Peaches](https://runescape.wiki/w/Bones_To_Peaches) spell from the [Mage Training Arena](https://runescape.wiki/w/Mage_Training_Arena).\n\nBones to Peaches is a spell that turns all [bones](https://runescape.wiki/w/Bones) up to and including [big bones](https://runescape.wiki/w/Big_bones) in a player's inventory into [peaches](https://runescape.wiki/w/Peach), which can be used to heal the player for 500 life points.\n\nThe Mage Training Arena is an area and its eponymous [minigame](https://runescape.wiki/w/Minigames) that focuses on the magic skill. It is north of the Duel Arena and south of the Exam Centre. Using various spells, players earn [pizazz](https://runescape.wiki/w/Pizazz_points) points in different activities, which they can use to buy items in a shop on the top floor of the arena. An entrance guardian welcomes visitors to the training arena. You must provide your own runes for the spells. To participate in all the activities, one should bring [nature runes](https://runescape.wiki/w/Nature_rune), [cosmic runes](https://runescape.wiki/w/Cosmic_rune), [law runes](https://runescape.wiki/w/Law_rune), and either all types of [elemental runes](https://runescape.wiki/w/Elemental_rune), or staff to replace them.\n\nThe teleports to the four rooms are located in the north area of the arena:\n\n• [Telekinetic Theatre](https://runescape.wiki/w/Mage_Training_Arena#Telekinetic_Theatre) - south\n• [Alchemists' Playground](https://runescape.wiki/w/Mage_Training_Arena#Alchemists.27_Playground) - north\n• [Enchanting Chamber](https://runescape.wiki/w/Mage_Training_Arena#Enchanting_Chamber) - west\n• [Creature Graveyard](https://runescape.wiki/w/Mage_Training_Arena#Creature_Graveyard) - east",
-         "thumbnail": {
-            "url": "https://i.imgur.com/Shmagnp.png"
-         },
-         "fields": [{
-               "name": "Price Reduction:",
-               "value": "Players should complete the Easy-Hard [Desert Set Tasks](https://runescape.wiki/w/Desert_achievements) prior to completing this achievement in order to take advantage of the provided discount at the Mage Training Arena.\n\n• [Desert Set Tasks - Easy](https://runescape.wiki/w/Desert_Set_Tasks_-_Easy) completion: Mage Training Arena prices are lowered by 2%\n• [Desert Set Tasks - Medium](https://runescape.wiki/w/Desert_Set_Tasks_-_Medium) completion: Mage Training Arena prices are lowered by 5%\n• [Desert Set Tasks - Hard](https://runescape.wiki/w/Desert_Set_Tasks_-_Hard) completion: Mage Training Arena prices are lowered by 10%"
-            },{
-               "name": "Requirements:",
-               "value": "• 33 Magic"
-            },
-            {
-               "name": "Guide:",
-               "value": "• [Bones to Peaches Quick Guide | Nonnera RS - YouTube](https://www.youtube.com/watch?v=Yfs2KMlDBcQ)"
-            }
-         ],
-         "footer": {
-            "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
-            "text": "RuneScore awarded: 10"
-         },
-         "timestamp": "2001-01-04T12:00:00Z"
-      }
-},
+			"title": "Peachy Bones",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Peachy Bones](https://runescape.wiki/w/Peachy_Bones) is an achievement that requires the player to unlock the [Bones To Peaches](https://runescape.wiki/w/Bones_To_Peaches) spell from the [Mage Training Arena](https://runescape.wiki/w/Mage_Training_Arena).\n\nBones to Peaches is a spell that turns all [bones](https://runescape.wiki/w/Bones) up to and including [big bones](https://runescape.wiki/w/Big_bones) in a player's inventory into [peaches](https://runescape.wiki/w/Peach), which can be used to heal the player for 500 life points.\n\nThe Mage Training Arena is an area and its eponymous [minigame](https://runescape.wiki/w/Minigames) that focuses on the magic skill. It is north of the Duel Arena and south of the Exam Centre. Using various spells, players earn [pizazz](https://runescape.wiki/w/Pizazz_points) points in different activities, which they can use to buy items in a shop on the top floor of the arena. An entrance guardian welcomes visitors to the training arena. You must provide your own runes for the spells. To participate in all the activities, one should bring [nature runes](https://runescape.wiki/w/Nature_rune), [cosmic runes](https://runescape.wiki/w/Cosmic_rune), [law runes](https://runescape.wiki/w/Law_rune), and either all types of [elemental runes](https://runescape.wiki/w/Elemental_rune), or staff to replace them.\n\nThe teleports to the four rooms are located in the north area of the arena:\n\n• [Telekinetic Theatre](https://runescape.wiki/w/Mage_Training_Arena#Telekinetic_Theatre) - south\n• [Alchemists' Playground](https://runescape.wiki/w/Mage_Training_Arena#Alchemists.27_Playground) - north\n• [Enchanting Chamber](https://runescape.wiki/w/Mage_Training_Arena#Enchanting_Chamber) - west\n• [Creature Graveyard](https://runescape.wiki/w/Mage_Training_Arena#Creature_Graveyard) - east",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [{
+					"name": "Price Reduction:",
+					"value": "Players should complete the Easy-Hard [Desert Set Tasks](https://runescape.wiki/w/Desert_achievements) prior to completing this achievement in order to take advantage of the provided discount at the Mage Training Arena.\n\n• [Desert Set Tasks - Easy](https://runescape.wiki/w/Desert_Set_Tasks_-_Easy) completion: Mage Training Arena prices are lowered by 2%\n• [Desert Set Tasks - Medium](https://runescape.wiki/w/Desert_Set_Tasks_-_Medium) completion: Mage Training Arena prices are lowered by 5%\n• [Desert Set Tasks - Hard](https://runescape.wiki/w/Desert_Set_Tasks_-_Hard) completion: Mage Training Arena prices are lowered by 10%"
+				}, {
+					"name": "Requirements:",
+					"value": "• 33 Magic"
+				},
+				{
+					"name": "Guide:",
+					"value": "• [Bones to Peaches Quick Guide | Nonnera RS - YouTube](https://www.youtube.com/watch?v=Yfs2KMlDBcQ)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+				"text": "RuneScore awarded: 10"
+			},
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
+	},
 	"penance to the king": {
 		"cmds": ["trim"],
 		"embed": {
@@ -7454,8 +7460,7 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
+			"fields": [{
 					"name": "Chapter 1:",
 					"value": "30th, angry, attack, bed, blue, cart, cook, cry, friends, fuel, gods, month, potions, prayers, sing, sloop, spear, study, voice, wand, year"
 				},
@@ -7653,8 +7658,7 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
+			"fields": [{
 					"name": "Requirements:",
 					"value": "• The ability to obtain [golden rocks](https://runescape.wiki/w/Golden_rock) must be toggled on by talking to [Auron Ithell](https://runescape.wiki/w/Auron_Ithell) who is standing by a golden plinth in the [Tower of Voices](https://runescape.wiki/w/Tower_of_Voices) in [Prifddinas](https://runescape.wiki/w/Prifddinas)."
 				},
@@ -7674,14 +7678,13 @@ exports.data = {
 					"name": "​",
 					"value": "**Crafting**\n• [Crystal Flasks](https://runescape.wiki/w/Crystal_flask) or [Potion Flasks](https://runescape.wiki/w/Potion_flask) made with Daily [Crystal Glass](https://runescape.wiki/w/Crystal_glass) or [Robust Glass](https://runescape.wiki/w/Robust_glass) in any district where the Voice of Seren is active\n• [Empty light orb](https://runescape.wiki/w/Empty_light_orb) from [Molten Glass](https://runescape.wiki/w/Molten_glass)\n• Playing the [Harps](https://runescape.wiki/w/Harp) in Prifddinas\n\n**Farming**\n• [Rumberry Bushes](https://runescape.wiki/w/Rumberry_bush) on [Tuai Leit](https://runescape.wiki/w/Tuai_Leit)\n• [Grapevine](https://www.youtube.com/watch?v=EKBj8-gF28M) runs with [Herb Run](https://www.youtube.com/watch?v=TzNhjl2RZ1c)\n• [Manure mound](https://runescape.wiki/w/Manure_mound)"
 				}
-      ]
-    }
+			]
+		}
 	},
 	"rhian the gold - the original pt2": {
 		"cmds": ["comp"],
 		"embed": {
-      "fields": [
-        {
+			"fields": [{
 					"name": "​",
 					"value": "**Herblore**\n• Cleaning [Tarromin](https://runescape.wiki/w/Grimy_tarromin) in any district where the Voice of Seren is active\n\n**Mining**\n• [Seren Stones](https://runescape.wiki/w/Seren_stone)\n• [Pure Essence](https://runescape.wiki/w/Pure_essence)\n• [Red Sandstone](https://runescape.wiki/w/Red_sandstone) or [Crystal-flecked sandstone](https://runescape.wiki/w/Crystal-flecked_sandstone) Daily\n\n**Smithing**\n• [Corrupted Ore](https://runescape.wiki/w/Corrupted_ore)\n• [Gold Bars](https://runescape.wiki/w/Gold_bar) at a [Portable forge](https://runescape.wiki/w/Portable_forge)\n\n**Woodcutting**\n• [Crystallise](https://runescape.wiki/w/Crystallise) [Acadia](https://runescape.wiki/w/Acadia_tree) in [Menaphos](https://runescape.wiki/w/Menaphos)\n• [Ivy](https://runescape.wiki/w/Ivy)"
 				},
@@ -7950,13 +7953,14 @@ exports.data = {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
 			"fields": [{
-                "name": "​",
-                "value": "The [Lorehound](https://runescape.wiki/w/Lorehound_(pet) pet can be used to increase the chance of this lore drop by 25%. Note that the lorehound must be summoned in order for the effect to be active, and cannot simply be used as a [familiar](https://runescape.wiki/w/Summoning_familiars) override.\n\nThe lorehound is a pet obtainable from [May's Quest Caravan](https://runescape.wiki/w/May%27s_Quest_Caravan). It is unlocked by allocating at least 25 [quest points](https://runescape.wiki/w/Quest_point) to the pet track, however, the Lore helper unlock requires a minimum of 150 cumulative quest points."
-            },
-            {
-				"name": "Requirements:",
-				"value": "• 65 Mining **or** 65 Agility **or** 65 Divination"
-			}],
+					"name": "​",
+					"value": "The [Lorehound](https://runescape.wiki/w/Lorehound_(pet) pet can be used to increase the chance of this lore drop by 25%. Note that the lorehound must be summoned in order for the effect to be active, and cannot simply be used as a [familiar](https://runescape.wiki/w/Summoning_familiars) override.\n\nThe lorehound is a pet obtainable from [May's Quest Caravan](https://runescape.wiki/w/May%27s_Quest_Caravan). It is unlocked by allocating at least 25 [quest points](https://runescape.wiki/w/Quest_point) to the pet track, however, the Lore helper unlock requires a minimum of 150 cumulative quest points."
+				},
+				{
+					"name": "Requirements:",
+					"value": "• 65 Mining **or** 65 Agility **or** 65 Divination"
+				}
+			],
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
 				"text": "RuneScore awarded: 10"
@@ -8419,36 +8423,35 @@ exports.data = {
 	"stacks on stacks": {
 		"cmds": ["comp"],
 		"embed": {
-            "title": "Stacks on Stacks",
-            "author": {
-                "name": "Cape Info",
-                "icon_url": "https://i.imgur.com/6c6q2iC.png"
-            },
-            "description": "[Stacks on Stacks](https://runescape.wiki/w/Stacks_on_Stacks) is an achievement that requires the player to complete the ritual to activate a [Totem](https://runescape.wiki/w/Totem_(Anachronia%29) on [Anachronia](https://runescape.wiki/w/Anachronia).\n\nTotems are items craftable by combining totem tops, middles, and bottoms, found on Anachronia. They can be placed to grant various passive bonuses to the player. Totem pieces can be stored in a [Totem bag](https://runescape.wiki/w/Totem_bag).\n\nAfter assembling a totem, it can be placed at one of three locations on Anachronia. These areas are marked by the [Distractions & Diversions](https://runescape.wiki/w/Distractions_and_Diversions) icon <:DnD_icon:598584831911264292> at the far west, north, and southeast areas on [this map of the island](https://runescape.wiki/images/8/86/Totem_ritual_locations.png).\n\nTo activate it, the player has to interact with it and charge it. Whilst the totem is being charged, [Temporal instabilities](https://runescape.wiki/w/Temporal_instability) can appear which can be closed simply by clicking on them. Charging the totem and closing the instabilities awards [Divination](https://runescape.wiki/w/Divination) experience. Once placed the totem cannot be removed until the next weekly reset.\n\nThe player must recharge the totems after every weekly reset to retain their bonuses.\n\nThe [Totem of Crystal](https://runescape.wiki/w/Totem_of_Crystal) has the lowest level requirements of all, being only 30 [Agility](https://runescape.wiki/w/Agility), but it's strongly recommended to work towards the [Totem of Navigation](https://runescape.wiki/w/Totem_of_Navigation), requiring 81 [Woodcutting](https://runescape.wiki/w/Woodcutting), as it's more easily and commonly obtained.",
-            "thumbnail": {
-                "url": "https://i.imgur.com/Shmagnp.png"
-            },
-            "fields": [
-        {
-                    "name": "Totems:",
-                    "value": "• [Abyss](https://runescape.wiki/w/Totem_of_the_Abyss)\n• [Auras](https://runescape.wiki/w/Totem_of_Auras)\n• [Crystal](https://runescape.wiki/w/Totem_of_Crystal)\n• [Intimidation](https://runescape.wiki/w/Totem_of_Intimidation)\n• [Navigation](https://runescape.wiki/w/Totem_of_Navigation)\n• [Summoning](https://runescape.wiki/w/Totem_of_Summoning)\n• [Treasure](https://runescape.wiki/w/Totem_of_Treasure) ",
-          "inline": true
-                },
-        {
-                    "name": "Requirements:",
-                    "value": "• 30 Agility"
-                },
-                {
-                    "name": "Guide:",
-                    "value": "• [Totem Components guide | Runescape Wiki](https://runescape.wiki/w/Totem_(Anachronia%29#How_to_obtain_Totem_pieces)"
-                }
-            ],
-            "footer": {
-                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
-                "text": "RuneScore awarded: 5"
-            },
-            "timestamp": "2001-01-04T12:00:00Z"
-        }
+			"title": "Stacks on Stacks",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Stacks on Stacks](https://runescape.wiki/w/Stacks_on_Stacks) is an achievement that requires the player to complete the ritual to activate a [Totem](https://runescape.wiki/w/Totem_(Anachronia%29) on [Anachronia](https://runescape.wiki/w/Anachronia).\n\nTotems are items craftable by combining totem tops, middles, and bottoms, found on Anachronia. They can be placed to grant various passive bonuses to the player. Totem pieces can be stored in a [Totem bag](https://runescape.wiki/w/Totem_bag).\n\nAfter assembling a totem, it can be placed at one of three locations on Anachronia. These areas are marked by the [Distractions & Diversions](https://runescape.wiki/w/Distractions_and_Diversions) icon <:DnD_icon:598584831911264292> at the far west, north, and southeast areas on [this map of the island](https://runescape.wiki/images/8/86/Totem_ritual_locations.png).\n\nTo activate it, the player has to interact with it and charge it. Whilst the totem is being charged, [Temporal instabilities](https://runescape.wiki/w/Temporal_instability) can appear which can be closed simply by clicking on them. Charging the totem and closing the instabilities awards [Divination](https://runescape.wiki/w/Divination) experience. Once placed the totem cannot be removed until the next weekly reset.\n\nThe player must recharge the totems after every weekly reset to retain their bonuses.\n\nThe [Totem of Crystal](https://runescape.wiki/w/Totem_of_Crystal) has the lowest level requirements of all, being only 30 [Agility](https://runescape.wiki/w/Agility), but it's strongly recommended to work towards the [Totem of Navigation](https://runescape.wiki/w/Totem_of_Navigation), requiring 81 [Woodcutting](https://runescape.wiki/w/Woodcutting), as it's more easily and commonly obtained.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [{
+					"name": "Totems:",
+					"value": "• [Abyss](https://runescape.wiki/w/Totem_of_the_Abyss)\n• [Auras](https://runescape.wiki/w/Totem_of_Auras)\n• [Crystal](https://runescape.wiki/w/Totem_of_Crystal)\n• [Intimidation](https://runescape.wiki/w/Totem_of_Intimidation)\n• [Navigation](https://runescape.wiki/w/Totem_of_Navigation)\n• [Summoning](https://runescape.wiki/w/Totem_of_Summoning)\n• [Treasure](https://runescape.wiki/w/Totem_of_Treasure) ",
+					"inline": true
+				},
+				{
+					"name": "Requirements:",
+					"value": "• 30 Agility"
+				},
+				{
+					"name": "Guide:",
+					"value": "• [Totem Components guide | Runescape Wiki](https://runescape.wiki/w/Totem_(Anachronia%29#How_to_obtain_Totem_pieces)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+				"text": "RuneScore awarded: 5"
+			},
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"stalker notes": {
 		"cmds": ["mqc"],
@@ -8607,8 +8610,7 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-        {
+			"fields": [{
 					"name": "​",
 					"value": "• Players receive an increased chance of getting strange rocks when skilling with the relevant [Cape of Accomplishment](https://runescape.wiki/w/Cape_of_Accomplishment) equipped."
 				},
@@ -8628,14 +8630,13 @@ exports.data = {
 					"name": "​",
 					"value": "**Crafting**\n• [Crystal Flasks](https://runescape.wiki/w/Crystal_flask) or [Potion Flasks](https://runescape.wiki/w/Potion_flask) made with Daily [Crystal Glass](https://runescape.wiki/w/Crystal_glass) or [Robust Glass](https://runescape.wiki/w/Robust_glass) in any district where the Voice of Seren is active\n• [Empty light orb](https://runescape.wiki/w/Empty_light_orb) from [Molten Glass](https://runescape.wiki/w/Molten_glass)\n• Playing the [Harps](https://runescape.wiki/w/Harp) in Prifddinas\n\n**Farming**\n• [Rumberry Bushes](https://runescape.wiki/w/Rumberry_bush) on [Tuai Leit](https://runescape.wiki/w/Tuai_Leit)\n• [Grapevine](https://www.youtube.com/watch?v=EKBj8-gF28M) runs with [Herb Run](https://www.youtube.com/watch?v=TzNhjl2RZ1c)\n• [Manure mound](https://runescape.wiki/w/Manure_mound)"
 				}
-      ]
-    }
+			]
+		}
 	},
 	"stone's throw away pt2": {
 		"cmds": ["trim"],
 		"embed": {
-      "fields": [
-        {
+			"fields": [{
 					"name": "​",
 					"value": "**Herblore**\n• Cleaning [Tarromin](https://runescape.wiki/w/Grimy_tarromin) in any district where the Voice of Seren is active\n\n**Mining**\n• [Seren Stones](https://runescape.wiki/w/Seren_stone)\n• [Pure Essence](https://runescape.wiki/w/Pure_essence)\n• [Red Sandstone](https://runescape.wiki/w/Red_sandstone) or [Crystal-flecked sandstone](https://runescape.wiki/w/Crystal-flecked_sandstone) Daily\n\n**Smithing**\n• [Corrupted Ore](https://runescape.wiki/w/Corrupted_ore)\n• [Gold Bars](https://runescape.wiki/w/Gold_bar) at a [Portable forge](https://runescape.wiki/w/Portable_forge)\n\n**Woodcutting**\n• [Crystallise](https://runescape.wiki/w/Crystallise) [Acadia](https://runescape.wiki/w/Acadia_tree) in [Menaphos](https://runescape.wiki/w/Menaphos)\n• [Ivy](https://runescape.wiki/w/Ivy)"
 				},
@@ -9117,8 +9118,7 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-				{
+			"fields": [{
 					"name": "Chapter 1:",
 					"value": "• Investigate the crate south-east of the bonfire.\n• Investigate the well south of the bonfire.\n• Investigate the barrel at the docks south-west.\n• Investigate the cart north-west of the bonfire."
 				},
@@ -9131,9 +9131,9 @@ exports.data = {
 					"value": "​"
 				}
 			],
-    "image": {
-      "url": "https://i.imgur.com/nnv9rsX.png"
-    },
+			"image": {
+				"url": "https://i.imgur.com/nnv9rsX.png"
+			},
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
 				"text": "RuneScore awarded: 10"
@@ -9180,142 +9180,140 @@ exports.data = {
 	"top town hall": {
 		"cmds": ["comp"],
 		"embed": {
-    "title": "Top Town Hall",
-    "author": {
-      "name": "Cape Info",
-      "icon_url": "https://i.imgur.com/6c6q2iC.png"
-    },
-    "description": "[Top Town Hall](https://rs.wiki/Top_Town_Hall) is an achievement that requires the player to fully upgrade the [Town Hall](https://runescape.wiki/w/Anachronia_base_camp#Town_Hall) of the [Base camp](https://runescape.wiki/w/Anachronia_base_camp) on [Anachronia](https://rs.wiki/Anachronia).\n\nThe base camp is a location on Anachronia which can be built up with various structures at multiple tiers, with collected materials from workers. The base camp can be managed by speaking to [Giles](https://runescape.wiki/w/Giles) inside the town hall after talking to him at the entrance to the temple, in front of the unfinished [lodestone](https://runescape.wiki/w/Lodestone_Network).\n\nEach area of the base camp can be upgraded to three tiers, each requiring specific amounts of [resources](https://runescape.wiki/w/Anachronia_base_camp#Workers). These resources are gathered by allocating the camp [workers](https://runescape.wiki/w/Anachronia_base_camp#Workers) to each resource.\n\nThe camp starts off with 10 workers and more can be obtained by upgrading the [sleeping quarters](https://runescape.wiki/w/Anachronia_base_camp#Sleeping_Quarters), up to a maximum of 60. Workers will gather 60 resources each per hour, resulting in 900/1800/3600 resources obtained per hour at sleeping quarters tier 1, 2, and 3 respectively. Workers will continue to gather resources when logged out.\n\nResources can also be found whilst skilling or killing the local fauna. The kind of resource you can get depends on what your workers are assigned to. These can be sent to the camp using the right click option, adding 100 of that resource.\n\nThe tier 1 town hall is constructed during the base camp tutorial and unlocks the ability to upgrade all other buildings.\n\n*The requirements for all building tiers are not yet known as upgrades take time to complete so please let us know if you discover them so that we can update this guide and add the information to the [Runescape Wiki page](https://runescape.wiki/w/Anachronia_base_camp)*.",
-    "thumbnail": {
-      "url": "https://i.imgur.com/Shmagnp.png"
-    },
-    "fields": [
-      {
-        "name": "Strategy:",
-        "value": "The first step to focus on after completing the tutorial will greatly ease quick access to the island and improve your stay in it, these should be the [Lodestone](https://runescape.wiki/w/Anachronia_base_camp#Lodestone) and [Bank Chest](https://runescape.wiki/w/Anachronia_base_camp#Bank_Chest) unlocks.\n\nNext up, in order to be able to increase your material cap from 5,000 to 25,000 resources, should be to build the tier 1 Storehouse.\n\nOnce you're able to store more resources, you should acquire the tier 1 sleeping quarters so that you will have more workers gathering resources for you, essentially increasing your buying potential.\n​",
-        "inline": true
-      },
-      {
-        "name": "Tier 1:",
-        "value": "​",
-        "inline": true
-      },
-      {
-        "name": "Materials Needed:",
-        "value": "• 1000 [Wood](https://rs.wiki/Compacted_wood) and [Stone](https://rs.wiki/Compacted_stone)",
-        "inline": true
-      },
-      {
-        "name": "Building requirements for upgrade:",
-        "value": "• None"
-      },
-      {
-        "name": "Tier 2:",
-        "value": "​",
-        "inline": true
-      },
-      {
-        "name": "Materials Needed:",
-        "value": "• 20,000 Wood, Stone, and [Vines](https://rs.wiki/Compacted_vines)",
-        "inline": true
-      },
-      {
-        "name": "Building requirements for upgrade:",
-        "value": "• Storehouse (Tier 1)\n• Sleeping Quarter (Tier 1)"
-      },
-      {
-        "name": "Tier 3:",
-        "value": "​",
-        "inline": true
-      },
-      {
-        "name": "Materials Needed:",
-        "value": "• Currently unknown",
-        "inline": true
-      },
-      {
-        "name": "Building requirements for upgrade:",
-        "value": "• Currently unknown"
-      },
-      {
-        "name": "Guide:",
-        "value": "[Land out of Time First Look & Info! | Maikeru RS - YouTube](https://youtu.be/0_Z84d5WGp4?t=48)"
-      }
-    ],
-    "footer": {
-      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
-      "text": "RuneScore awarded: 15"
-    },
-    "timestamp": "2001-01-04T12:00:00Z"
-  }
+			"title": "Top Town Hall",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Top Town Hall](https://rs.wiki/Top_Town_Hall) is an achievement that requires the player to fully upgrade the [Town Hall](https://runescape.wiki/w/Anachronia_base_camp#Town_Hall) of the [Base camp](https://runescape.wiki/w/Anachronia_base_camp) on [Anachronia](https://rs.wiki/Anachronia).\n\nThe base camp is a location on Anachronia which can be built up with various structures at multiple tiers, with collected materials from workers. The base camp can be managed by speaking to [Giles](https://runescape.wiki/w/Giles) inside the town hall after talking to him at the entrance to the temple, in front of the unfinished [lodestone](https://runescape.wiki/w/Lodestone_Network).\n\nEach area of the base camp can be upgraded to three tiers, each requiring specific amounts of [resources](https://runescape.wiki/w/Anachronia_base_camp#Workers). These resources are gathered by allocating the camp [workers](https://runescape.wiki/w/Anachronia_base_camp#Workers) to each resource.\n\nThe camp starts off with 10 workers and more can be obtained by upgrading the [sleeping quarters](https://runescape.wiki/w/Anachronia_base_camp#Sleeping_Quarters), up to a maximum of 60. Workers will gather 60 resources each per hour, resulting in 900/1800/3600 resources obtained per hour at sleeping quarters tier 1, 2, and 3 respectively. Workers will continue to gather resources when logged out.\n\nResources can also be found whilst skilling or killing the local fauna. The kind of resource you can get depends on what your workers are assigned to. These can be sent to the camp using the right click option, adding 100 of that resource.\n\nThe tier 1 town hall is constructed during the base camp tutorial and unlocks the ability to upgrade all other buildings.\n\n*The requirements for all building tiers are not yet known as upgrades take time to complete so please let us know if you discover them so that we can update this guide and add the information to the [Runescape Wiki page](https://runescape.wiki/w/Anachronia_base_camp)*.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [{
+					"name": "Strategy:",
+					"value": "The first step to focus on after completing the tutorial will greatly ease quick access to the island and improve your stay in it, these should be the [Lodestone](https://runescape.wiki/w/Anachronia_base_camp#Lodestone) and [Bank Chest](https://runescape.wiki/w/Anachronia_base_camp#Bank_Chest) unlocks.\n\nNext up, in order to be able to increase your material cap from 5,000 to 25,000 resources, should be to build the tier 1 Storehouse.\n\nOnce you're able to store more resources, you should acquire the tier 1 sleeping quarters so that you will have more workers gathering resources for you, essentially increasing your buying potential.\n​",
+					"inline": true
+				},
+				{
+					"name": "Tier 1:",
+					"value": "​",
+					"inline": true
+				},
+				{
+					"name": "Materials Needed:",
+					"value": "• 1000 [Wood](https://rs.wiki/Compacted_wood) and [Stone](https://rs.wiki/Compacted_stone)",
+					"inline": true
+				},
+				{
+					"name": "Building requirements for upgrade:",
+					"value": "• None"
+				},
+				{
+					"name": "Tier 2:",
+					"value": "​",
+					"inline": true
+				},
+				{
+					"name": "Materials Needed:",
+					"value": "• 20,000 Wood, Stone, and [Vines](https://rs.wiki/Compacted_vines)",
+					"inline": true
+				},
+				{
+					"name": "Building requirements for upgrade:",
+					"value": "• Storehouse (Tier 1)\n• Sleeping Quarter (Tier 1)"
+				},
+				{
+					"name": "Tier 3:",
+					"value": "​",
+					"inline": true
+				},
+				{
+					"name": "Materials Needed:",
+					"value": "• Currently unknown",
+					"inline": true
+				},
+				{
+					"name": "Building requirements for upgrade:",
+					"value": "• Currently unknown"
+				},
+				{
+					"name": "Guide:",
+					"value": "[Land out of Time First Look & Info! | Maikeru RS - YouTube](https://youtu.be/0_Z84d5WGp4?t=48)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+				"text": "RuneScore awarded: 15"
+			},
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"trials of the heart": {
 		"cmds": ["comp"],
 		"embed": {
-            "title": "Top Town Hall",
-            "author": {
-                "name": "Cape Info",
-                "icon_url": "https://i.imgur.com/6c6q2iC.png"
-            },
-            "description": "[Top Town Hall](https://rs.wiki/Top_Town_Hall) is an achievement that requires the player to fully upgrade the [Town Hall](https://runescape.wiki/w/Anachronia_base_camp#Town_Hall) of the [Base camp](https://runescape.wiki/w/Anachronia_base_camp) on [Anachronia](https://rs.wiki/Anachronia).\n\nThe base camp is a location on Anachronia which can be built up with various structures at multiple tiers, with collected materials from workers. The base camp can be managed by speaking to [Giles](https://runescape.wiki/w/Giles) inside the town hall after talking to him at the entrance to the temple, in front of the unfinished [lodestone](https://runescape.wiki/w/Lodestone_Network).\n\nEach area of the base camp can be upgraded to three tiers, each requiring specific amounts of [resources](https://runescape.wiki/w/Anachronia_base_camp#Workers). These resources are gathered by allocating the camp [workers](https://runescape.wiki/w/Anachronia_base_camp#Workers) to each resource.\n\nThe camp starts off with 10 workers and more can be obtained by upgrading the [sleeping quarters](https://runescape.wiki/w/Anachronia_base_camp#Sleeping_Quarters), up to a maximum of 60. Workers will gather 60 resources each per hour, resulting in 900/1800/3600 resources obtained per hour at sleeping quarters tier 1, 2, and 3 respectively.\n\nThe tier 1 town hall is constructed during the base camp tutorial and unlocks the ability to upgrade all other buildings.\n\nThe requirements for all building tiers are not yet known so please let us know if you discover them so that we can update this guide and add the information to the [Runescape wiki page](https://runescape.wiki/w/Anachronia_base_camp).",
-            "thumbnail": {
-                "url": "https://i.imgur.com/Shmagnp.png"
-            },
-            "fields": [
-        {
-                    "name": "Strategy:",
-                    "value": "The first step to focus on after completing the tutorial will greatly ease quick access to the island and improve your stay in it, these should be the [Lodestone](https://runescape.wiki/w/Anachronia_base_camp#Lodestone) and [Bank Chest](https://runescape.wiki/w/Anachronia_base_camp#Bank_Chest) unlocks.\n\nNext up, in order to be able to increase your material cap from 5,000 to 25,000 resources, should be to build the tier 1 Storehouse.\n\nOnce you're able to store more resources, you should acquire the tier 1 sleeping quarters so that you will have more workers gathering resources for you, essentially increasing your buying potential.\n​",
-          "inline": true
-                },
-        {
-                    "name": "Tier 1:",
-                    "value": "​",
-          "inline": true
-                },
-        {
-          "name": "Materials Needed:",
-                    "value": "• 1000 [Wood](https://rs.wiki/Compacted_wood) and [Stone](https://rs.wiki/Compacted_stone)",
-          "inline": true
-        },
-        {
-                    "name": "Building requirements for upgrade:",
-                    "value": "• None"
-                },
-        {
-                    "name": "Tier 2:",
-                    "value": "​",
-          "inline": true
-                },
-        {
-          "name": "Materials Needed:",
-                    "value": "• 20,000 Wood, Stone, and [Vines](https://rs.wiki/Compacted_vines)",
-          "inline": true
-        },
-        {
-                    "name": "Building requirements for upgrade:",
-                    "value": "• Storehouse (Tier 1)\n• Sleeping Quarter (Tier 1)"
-                },
-        {
-                    "name": "Tier 3:",
-                    "value": "​",
-          "inline": true
-                },
-        {
-          "name": "Materials Needed:",
-                    "value": "• Currently unknown",
-          "inline": true
-        },
-        {
-                    "name": "Building requirements for upgrade:",
-                    "value": "• Currently unknown"
-                }
-            ],
-            "footer": {
-                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
-                "text": "RuneScore awarded: 15"
-            },
-            "timestamp": "2001-01-04T12:00:00Z"
-        }
+			"title": "Top Town Hall",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Top Town Hall](https://rs.wiki/Top_Town_Hall) is an achievement that requires the player to fully upgrade the [Town Hall](https://runescape.wiki/w/Anachronia_base_camp#Town_Hall) of the [Base camp](https://runescape.wiki/w/Anachronia_base_camp) on [Anachronia](https://rs.wiki/Anachronia).\n\nThe base camp is a location on Anachronia which can be built up with various structures at multiple tiers, with collected materials from workers. The base camp can be managed by speaking to [Giles](https://runescape.wiki/w/Giles) inside the town hall after talking to him at the entrance to the temple, in front of the unfinished [lodestone](https://runescape.wiki/w/Lodestone_Network).\n\nEach area of the base camp can be upgraded to three tiers, each requiring specific amounts of [resources](https://runescape.wiki/w/Anachronia_base_camp#Workers). These resources are gathered by allocating the camp [workers](https://runescape.wiki/w/Anachronia_base_camp#Workers) to each resource.\n\nThe camp starts off with 10 workers and more can be obtained by upgrading the [sleeping quarters](https://runescape.wiki/w/Anachronia_base_camp#Sleeping_Quarters), up to a maximum of 60. Workers will gather 60 resources each per hour, resulting in 900/1800/3600 resources obtained per hour at sleeping quarters tier 1, 2, and 3 respectively.\n\nThe tier 1 town hall is constructed during the base camp tutorial and unlocks the ability to upgrade all other buildings.\n\nThe requirements for all building tiers are not yet known so please let us know if you discover them so that we can update this guide and add the information to the [Runescape wiki page](https://runescape.wiki/w/Anachronia_base_camp).",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [{
+					"name": "Strategy:",
+					"value": "The first step to focus on after completing the tutorial will greatly ease quick access to the island and improve your stay in it, these should be the [Lodestone](https://runescape.wiki/w/Anachronia_base_camp#Lodestone) and [Bank Chest](https://runescape.wiki/w/Anachronia_base_camp#Bank_Chest) unlocks.\n\nNext up, in order to be able to increase your material cap from 5,000 to 25,000 resources, should be to build the tier 1 Storehouse.\n\nOnce you're able to store more resources, you should acquire the tier 1 sleeping quarters so that you will have more workers gathering resources for you, essentially increasing your buying potential.\n​",
+					"inline": true
+				},
+				{
+					"name": "Tier 1:",
+					"value": "​",
+					"inline": true
+				},
+				{
+					"name": "Materials Needed:",
+					"value": "• 1000 [Wood](https://rs.wiki/Compacted_wood) and [Stone](https://rs.wiki/Compacted_stone)",
+					"inline": true
+				},
+				{
+					"name": "Building requirements for upgrade:",
+					"value": "• None"
+				},
+				{
+					"name": "Tier 2:",
+					"value": "​",
+					"inline": true
+				},
+				{
+					"name": "Materials Needed:",
+					"value": "• 20,000 Wood, Stone, and [Vines](https://rs.wiki/Compacted_vines)",
+					"inline": true
+				},
+				{
+					"name": "Building requirements for upgrade:",
+					"value": "• Storehouse (Tier 1)\n• Sleeping Quarter (Tier 1)"
+				},
+				{
+					"name": "Tier 3:",
+					"value": "​",
+					"inline": true
+				},
+				{
+					"name": "Materials Needed:",
+					"value": "• Currently unknown",
+					"inline": true
+				},
+				{
+					"name": "Building requirements for upgrade:",
+					"value": "• Currently unknown"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+				"text": "RuneScore awarded: 15"
+			},
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
 	},
 	"trials of the heart": {
 		"cmds": ["mqc"],
@@ -9577,36 +9575,32 @@ exports.data = {
 	"umbral diplomacy": {
 		"cmds": ["mqc"],
 		"embed": {
-	        "title": "Umbral Diplomacy",
-	        "author":
-		        {
-		            "name": "RuneScore Achievement Info",
-		            "icon_url": "https://i.imgur.com/6c6q2iC.png"
-		        },
-	        "description": "[Umbral Diplomacy](https://runescape.wiki/w/Umbral_Diplomacy_(achievement%29) is an achievement that requires the player obtain all 22 [Waterlogged scraps](https://runescape.wiki/w/Waterlogged_scrap) to complete the [Umbral Diplomacy](https://runescape.wiki/w/Umbral_Diplomacy) journal in [The Shadow Reef](https://runescape.wiki/w/The_Shadow_Reef).\n\nThe scraps found in the beginning and end of the third floor of the dungeon require the use of [Telekinetic Grab](https://runescape.wiki/w/Telekinetic_Grab) to obtain them.\n\nThis achievement can be completed in story mode as well as in normal mode.",
-	        "thumbnail":
-		        {
-		            "url": "https://i.imgur.com/Shmagnp.png"
-		        },
-	        "fields":
-		        [
-		           
-		            {
-		                 "name": "Requirements:",
-		                 "value": "• 33 Magic"
-		            },
-						{
-							"name": "Guide:",
-							"value": "[Map of all note locations | Runescape Wiki](https://runescape.wiki/w/The_Shadow_Reef#/media/File:The_Shadow_Reef_map.png)"
-						}
-		           
-		        ],
-	        "footer":
-		        {
-		            "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
-		            "text": "RuneScore awarded: 20"
-		        }
-	    }
+			"title": "Umbral Diplomacy",
+			"author": {
+				"name": "RuneScore Achievement Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Umbral Diplomacy](https://runescape.wiki/w/Umbral_Diplomacy_(achievement%29) is an achievement that requires the player obtain all 22 [Waterlogged scraps](https://runescape.wiki/w/Waterlogged_scrap) to complete the [Umbral Diplomacy](https://runescape.wiki/w/Umbral_Diplomacy) journal in [The Shadow Reef](https://runescape.wiki/w/The_Shadow_Reef).\n\nThe scraps found in the beginning and end of the third floor of the dungeon require the use of [Telekinetic Grab](https://runescape.wiki/w/Telekinetic_Grab) to obtain them.\n\nThis achievement can be completed in story mode as well as in normal mode.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+
+				{
+					"name": "Requirements:",
+					"value": "• 33 Magic"
+				},
+				{
+					"name": "Guide:",
+					"value": "[Map of all note locations | Runescape Wiki](https://runescape.wiki/w/The_Shadow_Reef#/media/File:The_Shadow_Reef_map.png)"
+				}
+
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+				"text": "RuneScore awarded: 20"
+			}
+		}
 	},
 	"uncorrupted ore": {
 		"cmds": ["comp", "mqc"],
@@ -9830,8 +9824,7 @@ exports.data = {
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
-			"fields": [
-        {
+			"fields": [{
 					"name": "​",
 					"value": "• Players receive an increased chance of getting rocks when skilling with the relevant [Cape of Accomplishment](https://runescape.wiki/w/Cape_of_Accomplishment) equipped."
 				},
@@ -9855,14 +9848,13 @@ exports.data = {
 					"name": "​",
 					"value": "**Crafting**\n• [Crystal Flasks](https://runescape.wiki/w/Crystal_flask) or [Potion Flasks](https://runescape.wiki/w/Potion_flask) made with Daily [Crystal Glass](https://runescape.wiki/w/Crystal_glass) or [Robust Glass](https://runescape.wiki/w/Robust_glass) in any district where the Voice of Seren is active\n• [Empty light orb](https://runescape.wiki/w/Empty_light_orb) from [Molten Glass](https://runescape.wiki/w/Molten_glass)\n• Playing the [Harps](https://runescape.wiki/w/Harp) in Prifddinas\n\n**Farming**\n• [Rumberry Bushes](https://runescape.wiki/w/Rumberry_bush) on [Tuai Leit](https://runescape.wiki/w/Tuai_Leit)\n• [Grapevine](https://www.youtube.com/watch?v=EKBj8-gF28M) runs with [Herb Run](https://www.youtube.com/watch?v=TzNhjl2RZ1c)\n• [Manure mound](https://runescape.wiki/w/Manure_mound)"
 				}
-      ]
-    }
+			]
+		}
 	},
 	"who will be her lover? pt2": {
 		"cmds": ["trim"],
 		"embed": {
-      "fields": [
-        {
+			"fields": [{
 					"name": "​",
 					"value": "**Herblore**\n• Cleaning [Tarromin](https://runescape.wiki/w/Grimy_tarromin) in any district where the Voice of Seren is active\n\n**Mining**\n• [Seren Stones](https://runescape.wiki/w/Seren_stone)\n• [Pure Essence](https://runescape.wiki/w/Pure_essence)\n• [Red Sandstone](https://runescape.wiki/w/Red_sandstone) or [Crystal-flecked sandstone](https://runescape.wiki/w/Crystal-flecked_sandstone) Daily\n\n**Smithing**\n• [Corrupted Ore](https://runescape.wiki/w/Corrupted_ore)\n• [Gold Bars](https://runescape.wiki/w/Gold_bar) at a [Portable forge](https://runescape.wiki/w/Portable_forge)\n\n**Woodcutting**\n• [Crystallise](https://runescape.wiki/w/Crystallise) [Acadia](https://runescape.wiki/w/Acadia_tree) in [Menaphos](https://runescape.wiki/w/Menaphos)\n• [Ivy](https://runescape.wiki/w/Ivy)"
 				},
