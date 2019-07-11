@@ -1521,6 +1521,39 @@ exports.data = {
 			"timestamp": "2001-01-04T12:00:00Z"
 		}
 	},
+	"bag of herbs": {
+		"cmds": ["comp"],
+		"embed": {
+			"title": "Bag of Herbs",
+			"author": {
+				"name": "Cape Info",
+				"icon_url": "https://i.imgur.com/6c6q2iC.png"
+			},
+			"description": "[Bag of Herbs](https://runescape.wiki/w/Bag_of_Herbs) is an achievement that requires the player to purchase and upgrade the [Herb bag](https://runescape.wiki/w/Herb_bag) from the [Herby Werby](https://runescape.wiki/w/Herby_Werby) [reward shop](https://runescape.wiki/w/Herby_Werby#Rewards).\n\nHerby Werby is a weekly [Distraction and Diversion](https://runescape.wiki/w/Distractions_and_Diversions). The main objective is to aid some of [Anachronia](https://runescape.wiki/w/Anachronia)'s native species in destroying the poisoned flora in their cavern. The creatures however are frenzied and are burning both the poisoned and healthy plants alike, so the player must help and direct them in this regard.\n\nThe idea is to gather corrupt herbs around the side of the area and deposit them into the centre bonfire, while taking healthy herbs away from the zygomites who are carrying them. Players are required to have both hands free to begin this activity, however they are not required to have any empty inventory slots to play it.",
+			"thumbnail": {
+				"url": "https://i.imgur.com/Shmagnp.png"
+			},
+			"fields": [
+        		{
+					"name": "Strategy:",
+					"value": "• Try to minimize the movement to gain points. It is recommended to mix both herb-burning and herb-snatching.\n\n• Utilise [Surge](https://runescape.wiki/w/Surge) and/or [Bladed Dive](https://runescape.wiki/w/Bladed_Dive) (you can equip weapons once you enter) to get around the area quicker. Wearing armour or weapons with the [Mobile](https://runescape.wiki/w/Mobile) perk will enable the use of them more often.\n\n• Zygomites move quite slowly and players can click on multiple of them to take their herbs. When no zygomites are carrying healthy herbs (no green particle zygomites), players should steal or pick corrupted herbs to burn instead.\n\n• There is no penalty on letting any zygomites to burn healthy herbs and no time limit in this activity. If players only want one type of skill experience, they may wait zygomites to take healthy herbs for herblore experience, or ignore zygomites for firemaking experience.\n\n• Ignore zygomites carrying corrupted herbs, and those heading towards them."
+				},
+        		{
+					"name": "Requirements:",
+					"value": "• None"
+				},
+				{
+					"name": "Guide:",
+					"value": "• [New Herby Werby D&D guide | Protoxx Extra - YouTube](https://www.youtube.com/watch?v=EblMpZrVhrw)"
+				}
+			],
+			"footer": {
+				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+				"text": "RuneScore awarded: 10"
+			},
+			"timestamp": "2001-01-04T12:00:00Z"
+		}
+	},
 	"bandos's memories": {
 		"cmds": ["comp", "mqc"],
 		"embed": {
@@ -3174,6 +3207,45 @@ exports.data = {
 			"timestamp": "2001-01-04T12:00:00Z"
 		}
 	},
+	"dinosaur hunter": {
+		"cmds": ["comp"],
+		"embed": {
+            "title": "Dinosaur Hunter",
+            "author": {
+                "name": "Cape Info",
+                "icon_url": "https://i.imgur.com/6c6q2iC.png"
+            },
+            "description": "[Dinosaur Hunter](https://runescape.wiki/w/Dinosaur_Hunter) is an achievement that requires the player to take down each dinosaur in the [Big Game Hunter](https://runescape.wiki/w/Big_Game_Hunter) activity.\n\nBig Game Hunter is a [Hunter](https://runescape.wiki/w/Hunter) activity ranging from level 75 to 96 Hunter on [Anachronia](https://runescape.wiki/w/Anachronia), where players can hunt dinosaurs using poison tipped javelins fired from scorpions. Big Game Hunter takes place in a wide-open area. There is one area for each species of dinosaur that can be hunted.",
+            "thumbnail": {
+                "url": "https://i.imgur.com/Shmagnp.png"
+            },
+            "fields": [
+        {
+                    "name": "Dinosaurs:",
+                    "value": "• [Arcane apoterrasaur](https://runescape.wiki/w/Arcane_apoterrasaur)\n• [Scimitops](https://runescape.wiki/w/Scimitops)\n• [Bagrada rex](https://runescape.wiki/w/Bagrada_rex)\n• [Spicati apoterrasaur](https://runescape.wiki/w/Spicati_apoterrasaur)\n• [Asciatops](https://runescape.wiki/w/Asciatops)\n• [Corbicula rex](https://runescape.wiki/w/Corbicula_rex)\n• [Oculi apoterrasaur](https://runescape.wiki/w/Oculi_apoterrasaur)\n• [Malletops](https://runescape.wiki/w/Malletops)\n• [Pavosaurus rex](https://runescape.wiki/w/Pavosaurus_rex)",
+          "inline": true
+                },
+        {
+          "name": "Hunter lvl:⠀⠀⠀              Slayer lvl:",
+                    "value": "75 ⠀⠀⠀                 55\n75 ⠀⠀⠀                 55\n75 ⠀⠀⠀                 55\n80 ⠀⠀⠀                     60\n85 ⠀⠀⠀                      65\n90 ⠀⠀⠀                     70\n94 ⠀⠀⠀                     74\n95 ⠀⠀⠀                 75\n96 ⠀⠀⠀                 76",
+          "inline": true
+        },
+        {
+                    "name": "Requirements:",
+                    "value": "• 96 Hunter\n• 76 Slayer"
+                },
+                {
+                    "name": "Guide:",
+                    "value": "• [Big Game Hunter guide | Bibzuda7 - YouTube](https://www.youtube.com/watch?v=7RthGQQnQLM)"
+                }
+            ],
+            "footer": {
+                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+                "text": "RuneScore awarded: 10"
+            },
+            "timestamp": "2001-01-04T12:00:00Z"
+        }
+	},
 	"do a minion, take notes": {
 		"cmds": ["mqc"],
 		"embed": {
@@ -4698,6 +4770,39 @@ exports.data = {
 		}
 	},
 	"kaiki's tusks": {
+		"cmds": ["trim"],
+		"embed": {
+            "title": "Jurassic Perk (Exploration, Anachronia)",
+            "author":
+        {
+                    "name": "Cape Info",
+                    "icon_url": "https://i.imgur.com/6c6q2iC.png"
+              },
+              "description": "[Jurassic Perk](https://rs.wiki/Jurassic_Perk) is an achievement that requires the player to discover all the [totem pieces](https://rs.wiki/Totems) on [Anachronia](https://rs.wiki/Anachronia).\n\nTotems are items craftable by combining totem tops, middles, and bottoms, found on Anachronia. They can be placed to grant various passive bonuses to the player. Totem pieces can be stored in a [Totem bag](https://runescape.wiki/w/Totem_bag).\n\nAfter assembling a totem, it can be placed at one of three locations on Anachronia. These areas are marked by the [Distractions & Diversions](https://runescape.wiki/w/Distractions_and_Diversions) icon <:DnD_icon:598584831911264292> at the far west, north, and southeast areas on [this map of the island](https://runescape.wiki/images/8/86/Totem_ritual_locations.png).\n\nTo activate it, the player has to interact with it and charge it. Whilst the totem is being charged, [Temporal instabilities](https://runescape.wiki/w/Temporal_instability) can appear which can be closed simply by clicking on them. Charging the totem and closing the instabilities awards [Divination](https://runescape.wiki/w/Divination) experience. Once placed the totem cannot be removed until the next weekly reset.\n\nThe player must recharge the totems after every weekly reset to retain their bonuses.",
+              "thumbnail":
+        {
+                    "url": "https://i.imgur.com/Shmagnp.png"
+              },
+              "fields":
+        [
+            {
+                          "name": "Requirements:",
+                          "value": "• 30 Agility\n• 75 Hunter\n• 90 Slayer\n• 81 Woodcutting"
+                    },
+                {
+                    "name": "Guide:",
+                    "value": "• [Totem Components guide | Runescape Wiki](https://runescape.wiki/w/Totem_(Anachronia%29#How_to_obtain_Totem_pieces)"
+                }
+              ],
+              "footer":
+        {
+                    "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+                    "text": "RuneScore awarded: 30"
+              },
+              "timestamp": "2001-01-04T12:00:00Z"
+        }
+	},
+	"kaiki's tusks": {
 		"cmds": ["mqc"],
 		"embed": {
 			"title": "Kaiki's Tusks",
@@ -5662,6 +5767,43 @@ exports.data = {
 			},
 			"timestamp": "2001-01-04T12:00:00Z"
 		}
+	},
+	"master builder": {
+		"cmds": ["trim"],
+		"embed": {
+    "title": "Master Builder (Exploration, Anachronia)",
+    "author":
+    {
+      "name": "Cape Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[Master Builder](https://rs.wiki/Master_Builder) is an achievement that requires the player to fully upgrade the [Base camp](https://runescape.wiki/w/Anachronia_base_camp) on [Anachronia](https://rs.wiki/Anachronia).\n\nThe base camp is a location on Anachronia which can be built up with various structures at multiple tiers, with collected materials from workers. The base camp can be managed by speaking to [Giles](https://runescape.wiki/w/Giles) inside the town hall after talking to him at the entrance to the temple, in front of the unfinished [lodestone](https://runescape.wiki/w/Lodestone_Network).\n\nEach area of the base camp can be upgraded to three tiers, each requiring specific amounts of [resources](https://runescape.wiki/w/Anachronia_base_camp#Workers). These resources are gathered by allocating the camp [workers](https://runescape.wiki/w/Anachronia_base_camp#Workers) to each resource.\n\nThe camp starts off with 10 workers and more can be obtained by upgrading the [sleeping quarters](https://runescape.wiki/w/Anachronia_base_camp#Sleeping_Quarters), up to a maximum of 60. Workers will gather 60 resources each per hour, resulting in 900/1800/3600 resources obtained per hour at sleeping quarters tier 1, 2, and 3 respectively. Workers will continue to gather resources when logged out.\n\nResources can also be found whilst skilling or killing the local fauna. The kind of resource you can get depends on what your workers are assigned to. These can be sent to the camp using the right click option, adding 100 of that resource.\n\nThe tier 1 town hall is constructed during the base camp tutorial and unlocks the ability to upgrade all other buildings.\n\n*The requirements for all building tiers are not yet known as upgrades take time to complete so please let us know if you discover them so that we can update this guide and add the information to the [Runescape wiki page](https://runescape.wiki/w/Anachronia_base_camp)*.",
+    "thumbnail":
+    {
+      "url": "https://i.imgur.com/Shmagnp.png"
+    },
+    "fields":
+    [
+      {
+        "name": "Structures to upgrade:",
+        "value": "• [Town Hall](https://runescape.wiki/w/Anachronia_base_camp#Town_Hall)\n• [Storehouse](https://runescape.wiki/w/Anachronia_base_camp#Storehouse)\n• [Sleeping Quarters](https://runescape.wiki/w/Anachronia_base_camp#Sleeping_Quarters)\n• [Spa](https://runescape.wiki/w/Anachronia_base_camp#Spa)\n• [Hunter Lodge](https://runescape.wiki/w/Anachronia_base_camp#Hunter_Lodge)\n• [Slayer Lodge](https://runescape.wiki/w/Anachronia_base_camp#Slayer_Lodge)\n• [Player lodge](https://runescape.wiki/w/Anachronia_base_camp#Player_Lodge)\n• [Bank Chest](https://runescape.wiki/w/Anachronia_base_camp#Bank_Chest)\n• [Lodestone](https://runescape.wiki/w/Anachronia_base_camp#Lodestone)"
+      },
+      {
+        "name": "Requirements:",
+        "value": "• 90 Agility\n• 90 Construction\n• 90 Hunter\n• 90 Slayer"
+      },
+      {
+        "name": "Guide:",
+        "value": "[Land out of Time First Look & Info! | Maikeru RS - YouTube](https://youtu.be/0_Z84d5WGp4?t=48)"
+      }
+    ],
+    "footer":
+    {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+      "text": "RuneScore awarded: 30"
+    },
+    "timestamp": "2001-01-04T12:00:00Z"
+  }
 	},
 	"master otto": {
 		"cmds": ["trim"],
@@ -8274,6 +8416,40 @@ exports.data = {
 			"timestamp": "2001-01-04T12:00:00Z"
 		}
 	},
+	"stacks on stacks": {
+		"cmds": ["comp"],
+		"embed": {
+            "title": "Stacks on Stacks",
+            "author": {
+                "name": "Cape Info",
+                "icon_url": "https://i.imgur.com/6c6q2iC.png"
+            },
+            "description": "[Stacks on Stacks](https://runescape.wiki/w/Stacks_on_Stacks) is an achievement that requires the player to complete the ritual to activate a [Totem](https://runescape.wiki/w/Totem_(Anachronia%29) on [Anachronia](https://runescape.wiki/w/Anachronia).\n\nTotems are items craftable by combining totem tops, middles, and bottoms, found on Anachronia. They can be placed to grant various passive bonuses to the player. Totem pieces can be stored in a [Totem bag](https://runescape.wiki/w/Totem_bag).\n\nAfter assembling a totem, it can be placed at one of three locations on Anachronia. These areas are marked by the [Distractions & Diversions](https://runescape.wiki/w/Distractions_and_Diversions) icon <:DnD_icon:598584831911264292> at the far west, north, and southeast areas on [this map of the island](https://runescape.wiki/images/8/86/Totem_ritual_locations.png).\n\nTo activate it, the player has to interact with it and charge it. Whilst the totem is being charged, [Temporal instabilities](https://runescape.wiki/w/Temporal_instability) can appear which can be closed simply by clicking on them. Charging the totem and closing the instabilities awards [Divination](https://runescape.wiki/w/Divination) experience. Once placed the totem cannot be removed until the next weekly reset.\n\nThe player must recharge the totems after every weekly reset to retain their bonuses.\n\nThe [Totem of Crystal](https://runescape.wiki/w/Totem_of_Crystal) has the lowest level requirements of all, being only 30 [Agility](https://runescape.wiki/w/Agility), but it's strongly recommended to work towards the [Totem of Navigation](https://runescape.wiki/w/Totem_of_Navigation), requiring 81 [Woodcutting](https://runescape.wiki/w/Woodcutting), as it's more easily and commonly obtained.",
+            "thumbnail": {
+                "url": "https://i.imgur.com/Shmagnp.png"
+            },
+            "fields": [
+        {
+                    "name": "Totems:",
+                    "value": "• [Abyss](https://runescape.wiki/w/Totem_of_the_Abyss)\n• [Auras](https://runescape.wiki/w/Totem_of_Auras)\n• [Crystal](https://runescape.wiki/w/Totem_of_Crystal)\n• [Intimidation](https://runescape.wiki/w/Totem_of_Intimidation)\n• [Navigation](https://runescape.wiki/w/Totem_of_Navigation)\n• [Summoning](https://runescape.wiki/w/Totem_of_Summoning)\n• [Treasure](https://runescape.wiki/w/Totem_of_Treasure) ",
+          "inline": true
+                },
+        {
+                    "name": "Requirements:",
+                    "value": "• 30 Agility"
+                },
+                {
+                    "name": "Guide:",
+                    "value": "• [Totem Components guide | Runescape Wiki](https://runescape.wiki/w/Totem_(Anachronia%29#How_to_obtain_Totem_pieces)"
+                }
+            ],
+            "footer": {
+                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+                "text": "RuneScore awarded: 5"
+            },
+            "timestamp": "2001-01-04T12:00:00Z"
+        }
+	},
 	"stalker notes": {
 		"cmds": ["mqc"],
 		"embed": {
@@ -9000,6 +9176,146 @@ exports.data = {
 			},
 			"timestamp": "2001-01-04T12:00:00Z"
 		}
+	},
+	"top town hall": {
+		"cmds": ["comp"],
+		"embed": {
+    "title": "Top Town Hall",
+    "author": {
+      "name": "Cape Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[Top Town Hall](https://rs.wiki/Top_Town_Hall) is an achievement that requires the player to fully upgrade the [Town Hall](https://runescape.wiki/w/Anachronia_base_camp#Town_Hall) of the [Base camp](https://runescape.wiki/w/Anachronia_base_camp) on [Anachronia](https://rs.wiki/Anachronia).\n\nThe base camp is a location on Anachronia which can be built up with various structures at multiple tiers, with collected materials from workers. The base camp can be managed by speaking to [Giles](https://runescape.wiki/w/Giles) inside the town hall after talking to him at the entrance to the temple, in front of the unfinished [lodestone](https://runescape.wiki/w/Lodestone_Network).\n\nEach area of the base camp can be upgraded to three tiers, each requiring specific amounts of [resources](https://runescape.wiki/w/Anachronia_base_camp#Workers). These resources are gathered by allocating the camp [workers](https://runescape.wiki/w/Anachronia_base_camp#Workers) to each resource.\n\nThe camp starts off with 10 workers and more can be obtained by upgrading the [sleeping quarters](https://runescape.wiki/w/Anachronia_base_camp#Sleeping_Quarters), up to a maximum of 60. Workers will gather 60 resources each per hour, resulting in 900/1800/3600 resources obtained per hour at sleeping quarters tier 1, 2, and 3 respectively. Workers will continue to gather resources when logged out.\n\nResources can also be found whilst skilling or killing the local fauna. The kind of resource you can get depends on what your workers are assigned to. These can be sent to the camp using the right click option, adding 100 of that resource.\n\nThe tier 1 town hall is constructed during the base camp tutorial and unlocks the ability to upgrade all other buildings.\n\n*The requirements for all building tiers are not yet known as upgrades take time to complete so please let us know if you discover them so that we can update this guide and add the information to the [Runescape Wiki page](https://runescape.wiki/w/Anachronia_base_camp)*.",
+    "thumbnail": {
+      "url": "https://i.imgur.com/Shmagnp.png"
+    },
+    "fields": [
+      {
+        "name": "Strategy:",
+        "value": "The first step to focus on after completing the tutorial will greatly ease quick access to the island and improve your stay in it, these should be the [Lodestone](https://runescape.wiki/w/Anachronia_base_camp#Lodestone) and [Bank Chest](https://runescape.wiki/w/Anachronia_base_camp#Bank_Chest) unlocks.\n\nNext up, in order to be able to increase your material cap from 5,000 to 25,000 resources, should be to build the tier 1 Storehouse.\n\nOnce you're able to store more resources, you should acquire the tier 1 sleeping quarters so that you will have more workers gathering resources for you, essentially increasing your buying potential.\n​",
+        "inline": true
+      },
+      {
+        "name": "Tier 1:",
+        "value": "​",
+        "inline": true
+      },
+      {
+        "name": "Materials Needed:",
+        "value": "• 1000 [Wood](https://rs.wiki/Compacted_wood) and [Stone](https://rs.wiki/Compacted_stone)",
+        "inline": true
+      },
+      {
+        "name": "Building requirements for upgrade:",
+        "value": "• None"
+      },
+      {
+        "name": "Tier 2:",
+        "value": "​",
+        "inline": true
+      },
+      {
+        "name": "Materials Needed:",
+        "value": "• 20,000 Wood, Stone, and [Vines](https://rs.wiki/Compacted_vines)",
+        "inline": true
+      },
+      {
+        "name": "Building requirements for upgrade:",
+        "value": "• Storehouse (Tier 1)\n• Sleeping Quarter (Tier 1)"
+      },
+      {
+        "name": "Tier 3:",
+        "value": "​",
+        "inline": true
+      },
+      {
+        "name": "Materials Needed:",
+        "value": "• Currently unknown",
+        "inline": true
+      },
+      {
+        "name": "Building requirements for upgrade:",
+        "value": "• Currently unknown"
+      },
+      {
+        "name": "Guide:",
+        "value": "[Land out of Time First Look & Info! | Maikeru RS - YouTube](https://youtu.be/0_Z84d5WGp4?t=48)"
+      }
+    ],
+    "footer": {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+      "text": "RuneScore awarded: 15"
+    },
+    "timestamp": "2001-01-04T12:00:00Z"
+  }
+	},
+	"trials of the heart": {
+		"cmds": ["comp"],
+		"embed": {
+            "title": "Top Town Hall",
+            "author": {
+                "name": "Cape Info",
+                "icon_url": "https://i.imgur.com/6c6q2iC.png"
+            },
+            "description": "[Top Town Hall](https://rs.wiki/Top_Town_Hall) is an achievement that requires the player to fully upgrade the [Town Hall](https://runescape.wiki/w/Anachronia_base_camp#Town_Hall) of the [Base camp](https://runescape.wiki/w/Anachronia_base_camp) on [Anachronia](https://rs.wiki/Anachronia).\n\nThe base camp is a location on Anachronia which can be built up with various structures at multiple tiers, with collected materials from workers. The base camp can be managed by speaking to [Giles](https://runescape.wiki/w/Giles) inside the town hall after talking to him at the entrance to the temple, in front of the unfinished [lodestone](https://runescape.wiki/w/Lodestone_Network).\n\nEach area of the base camp can be upgraded to three tiers, each requiring specific amounts of [resources](https://runescape.wiki/w/Anachronia_base_camp#Workers). These resources are gathered by allocating the camp [workers](https://runescape.wiki/w/Anachronia_base_camp#Workers) to each resource.\n\nThe camp starts off with 10 workers and more can be obtained by upgrading the [sleeping quarters](https://runescape.wiki/w/Anachronia_base_camp#Sleeping_Quarters), up to a maximum of 60. Workers will gather 60 resources each per hour, resulting in 900/1800/3600 resources obtained per hour at sleeping quarters tier 1, 2, and 3 respectively.\n\nThe tier 1 town hall is constructed during the base camp tutorial and unlocks the ability to upgrade all other buildings.\n\nThe requirements for all building tiers are not yet known so please let us know if you discover them so that we can update this guide and add the information to the [Runescape wiki page](https://runescape.wiki/w/Anachronia_base_camp).",
+            "thumbnail": {
+                "url": "https://i.imgur.com/Shmagnp.png"
+            },
+            "fields": [
+        {
+                    "name": "Strategy:",
+                    "value": "The first step to focus on after completing the tutorial will greatly ease quick access to the island and improve your stay in it, these should be the [Lodestone](https://runescape.wiki/w/Anachronia_base_camp#Lodestone) and [Bank Chest](https://runescape.wiki/w/Anachronia_base_camp#Bank_Chest) unlocks.\n\nNext up, in order to be able to increase your material cap from 5,000 to 25,000 resources, should be to build the tier 1 Storehouse.\n\nOnce you're able to store more resources, you should acquire the tier 1 sleeping quarters so that you will have more workers gathering resources for you, essentially increasing your buying potential.\n​",
+          "inline": true
+                },
+        {
+                    "name": "Tier 1:",
+                    "value": "​",
+          "inline": true
+                },
+        {
+          "name": "Materials Needed:",
+                    "value": "• 1000 [Wood](https://rs.wiki/Compacted_wood) and [Stone](https://rs.wiki/Compacted_stone)",
+          "inline": true
+        },
+        {
+                    "name": "Building requirements for upgrade:",
+                    "value": "• None"
+                },
+        {
+                    "name": "Tier 2:",
+                    "value": "​",
+          "inline": true
+                },
+        {
+          "name": "Materials Needed:",
+                    "value": "• 20,000 Wood, Stone, and [Vines](https://rs.wiki/Compacted_vines)",
+          "inline": true
+        },
+        {
+                    "name": "Building requirements for upgrade:",
+                    "value": "• Storehouse (Tier 1)\n• Sleeping Quarter (Tier 1)"
+                },
+        {
+                    "name": "Tier 3:",
+                    "value": "​",
+          "inline": true
+                },
+        {
+          "name": "Materials Needed:",
+                    "value": "• Currently unknown",
+          "inline": true
+        },
+        {
+                    "name": "Building requirements for upgrade:",
+                    "value": "• Currently unknown"
+                }
+            ],
+            "footer": {
+                "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+                "text": "RuneScore awarded: 15"
+            },
+            "timestamp": "2001-01-04T12:00:00Z"
+        }
 	},
 	"trials of the heart": {
 		"cmds": ["mqc"],
