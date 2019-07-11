@@ -5771,7 +5771,7 @@ exports.data = {
 	"master builder": {
 		"cmds": ["trim"],
 		"embed": {
-    "title": "Master Builder (Exploration, Anachronia)",
+    "title": "Master Builder",
     "author":
     {
       "name": "Cape Info",
