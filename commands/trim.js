@@ -243,7 +243,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 		}
 		else {
 			if (pt == "true") return;
-			const choice = data[rtnArr[response-1]];
+			const choice = data[rtnArr[response-1]].embed;
 			choice.author.name = name;
 			choice.color = color;
 			choice.timestamp = undefined;
