@@ -996,7 +996,7 @@ exports.data = {
   },
     "smithing": {
     "title": "Smithing Method:",
-    "description":"[Rune 2h Swords](https://runescape.wiki/w/Rune_2h_sword)",
+    "description":"[Elder Rune Burial sets](https://runescape.wiki/w/Rune_2h_sword)",
     "thumbnail": {
       "url": "https://i.imgur.com/mUJOyXX.png"
     },
@@ -1004,6 +1004,7 @@ exports.data = {
       "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Connecting our Helpful Communities!"
     },
+    "color": 16738740,
     "author": {
       "name": "Double XP Weekend",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
@@ -1011,15 +1012,15 @@ exports.data = {
           "fields": [
       {
         "name": "Worn Items:",
-        "value": "• [Blacksmith's Outfit](https://runescape.wiki/w/Blacksmith%27s_outfit)\n• [Augmented Crystal Hammer](https://runescape.wiki/w/Crystal_hammer) with [Tinker 3](https://runescape.wiki/w/Tinker) and [Rapid 3](https://runescape.wiki/w/Rapid) perks\n• [Ring of Whispers](https://runescape.wiki/w/Ring_of_Whispers)\n• [Combined Catalyst Fragment](https://runescape.wiki/w/Combined_Catalyst_fragment)\n• [Necklace of Shadows](https://runescape.wiki/w/Necklace_of_Shadows)"
+        "value": "• [Blacksmith's Outfit](https://runescape.wiki/w/Blacksmith%27s_outfit)\n• [Smithing cape](https://runescape.wiki/w/Smithing_cape)\n• [Augmented Crystal Hammer](https://runescape.wiki/w/Augmented_crystal_hammer) with [Tinker 3](https://runescape.wiki/w/Tinker) and [Rapid 3](https://runescape.wiki/w/Rapid) perks\n• [Grace of the Elves](https://runescape.wiki/w/Grace_of_the_elves)\n• [Falador Shield 4](https://runescape.wiki/w/Falador_shield_4)\n• [Rune Pouch](https://runescape.wiki/w/Small_rune_pouch) holding [Fire](https://runescape.wiki/w/Fire_rune) and [Nature](https://runescape.wiki/w/Nature_rune) runes."
       },
       {
         "name": "Inventory:",
-        "value": "• [Rune Bars](https://runescape.wiki/w/Rune_bar)"
+        "value": "• [Perfect Juju Smithing potion](https://runescape.wiki/w/Perfect_juju_smithing_potion#(4%29)\n• [Ancient Elvel Ritual Shard](https://runescape.wiki/w/Ancient_elven_ritual_shard)\n• 5 sets of [Elder Rune Armour + 5](https://runescape.wiki/w/Elder_rune_burial_set)"
       },
       {
         "name": "Tips:",
-        "value": "Use the !portables command in <#382701090430386180> to see what world is hosting a [Portable Forge](https://runescape.wiki/w/Portable_forge). Having the [Scroll of Efficiency](https://runescape.wiki/w/Scroll_of_efficiency) give you the chance to retain a bar, when the items smithed require at least 3 bars. Using a [Pack Yak](https://runescape.wiki/w/Pack_yak) to hold bars can increase experience gained per hour."
+        "value": "• Take advantage of other players' [Luminite Injectors](https://runescape.wiki/w/Luminite_injector) by smithing on busy worlds. These give all players inside the [Artisans' Workshop](https://runescape.wiki/w/Artisans%27_Workshop) an additional +1 progress to their item per swing. World 70 is usually the most populous.\n• Using the [Superheat Form](https://runescape.wiki/w/Superheat_Form) Seren prayer ensures that you continue to gain the 2x XP multiplier for high heat smithing when your item falls below 67% [heat](https://runescape.wiki/w/Heat).\n• Using the [Superheat Item](https://runescape.wiki/w/Superheat_Item) spell will re-heat your item by 33% heat.\n• When wearing the Smithing cape, you gain +5 item progress each time that the item is reheated. This effect can be used to greatly increase XP gained per hour by using superheat item frequently."
       }
       ]
   },

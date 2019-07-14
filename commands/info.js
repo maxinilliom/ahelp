@@ -22,7 +22,7 @@ exports.run = (client, message, args, level) => {
 				curr.footer.text = `Achievement Help | ${channelName}`;
 			} else if (curr.footer) {
 				curr.footer = {
-					"icon_url": "https://cdn.discordapp.com/icons/336818736810164235/bf9860830b1da5343526e97e0fc7e9fc.png",
+					"icon_url": "https://i.imgur.com/FsU0epp.png",
 					"text": "For more info on XP rates and efficiency visit Skilling! (https://discord.me/skilling)"
 				}
 			}
