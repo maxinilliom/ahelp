@@ -110,7 +110,7 @@ exports.data = {
   },
   "50 - 60": {
     "title": "Divination Training Levels 50-60",
-    "description": "From level 50, players can train at the [Gleaming Wisp](https://runescape.wiki/w/Gleaming_wisp) Colony, which is located north-east of [Shilo Village](https://runescape.wiki/w/Shilo_Village).\n\nWhen buying additional [gleaming energy](https://runescape.wiki/w/Gleaming_energy), players can gain around 41,000 experience an hour from training at sparkling wisps, or 33,000 experience an hour if not buying additional energy.",
+    "description": "From level 50, players can train at the [Gleaming Wisp](https://runescape.wiki/w/Gleaming_wisp) Colony, which is located north-east of [Shilo Village](https://runescape.wiki/w/Shilo_Village).\n\nWhen buying additional [gleaming energy](https://runescape.wiki/w/Gleaming_energy), players can gain around 41,000 experience an hour from training at gleaming wisps, or 33,000 experience an hour if not buying additional energy.",
     "url": "https://runescape.wiki/w/Divination_training#Gleaming_wisps_.28levels_50.E2.80.9360.29",
     "color": 12269891,
     "footer": {
@@ -127,7 +127,7 @@ exports.data = {
   },
   "60 - 70": {
     "title": "Divination Training Levels 60-70",
-    "description": "From level 60, players can train at the [Vibrant Wisp](https://runescape.wiki/w/Vibrant_wisp) Colony, just north of [Mobilising Armies](https://runescape.wiki/w/Mobilising_Armies).\n\nWhen buying additional [vibrant energy](https://runescape.wiki/w/Vibrant_energy), players can gain around 53,000 experience an hour from training at sparkling wisps, or 40,000 experience an hour if not buying additional energy.\n\nIf [The Dig Site](https://runescape.wiki/w/The_Dig_Site) quest has not been completed, continue this method until level 70-75.",
+    "description": "From level 60, players can train at the [Vibrant Wisp](https://runescape.wiki/w/Vibrant_wisp) Colony, just north of [Mobilising Armies](https://runescape.wiki/w/Mobilising_Armies).\n\nWhen buying additional [vibrant energy](https://runescape.wiki/w/Vibrant_energy), players can gain around 53,000 experience an hour from training at vibrant wisps, or 40,000 experience an hour if not buying additional energy.\n\nIf [The Dig Site](https://runescape.wiki/w/The_Dig_Site) quest has not been completed, continue this method until level 70-75.",
     "url": "https://runescape.wiki/w/Divination_training#Vibrant_wisps_.28levels_60.E2.80.9365.29",
     "color": 12269891,
     "footer": {
@@ -155,7 +155,7 @@ exports.data = {
   "70 - 80": {
     "title": "Divination Training Levels 70-80",
     "url": "https://runescape.wiki/w/Divination_training#Elder_wisps_or_lustrous_wisps_.28levels_75.E2.80.9380.29",
-    "description": "From level 70, players can train at the [Lustrous Wisp](https://runescape.wiki/w/Lustrous_wisp) Colony, which is located just east of the [Slayer Tower](https://runescape.wiki/w/Slayer_Tower).\n\nWhen buying additional [lustrous energy](https://runescape.wiki/w/Lustrous_energy), players can gain around 66,000 experience an hour from training at sparkling wisps, or 54,000 experience an hour if not buying additional energy.",
+    "description": "From level 70, players can train at the [Lustrous Wisp](https://runescape.wiki/w/Lustrous_wisp) Colony, which is located just east of the [Slayer Tower](https://runescape.wiki/w/Slayer_Tower).\n\nWhen buying additional [lustrous energy](https://runescape.wiki/w/Lustrous_energy), players can gain around 66,000 experience an hour from training at lustrous wisps, or 54,000 experience an hour if not buying additional energy.",
         "color": 12269891,
     "footer": {
       "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
@@ -185,7 +185,7 @@ exports.data = {
   },
   "80 - 85": {
     "title": "Divination Training Levels 80-85",
-    "description": "From level 80, players can train at the [Brilliant Wisp](https://runescape.wiki/w/Brilliant_wisp) Colony, just east of the [Mage Training Arena](https://runescape.wiki/w/Mage_Training_Arena).\n\nWhen buying additional [brilliant energy](https://runescape.wiki/w/Brilliant_energy), players can gain around 73,000 experience an hour from training at sparkling wisps, or 60,000 experience an hour if not buying additional energy.",
+    "description": "From level 80, players can train at the [Brilliant Wisp](https://runescape.wiki/w/Brilliant_wisp) Colony, just east of the [Mage Training Arena](https://runescape.wiki/w/Mage_Training_Arena).\n\nWhen buying additional [brilliant energy](https://runescape.wiki/w/Brilliant_energy), players can gain around 73,000 experience an hour from training at brilliant wisps, or 60,000 experience an hour if not buying additional energy.",
     "url": "https://runescape.wiki/w/Divination_training#Brilliant_wisps_.28levels_80.E2.80.9385.29",
     "color": 12269891,
     "footer": {
@@ -202,7 +202,7 @@ exports.data = {
   },
   "85 - 90": {
     "title": "Divination Training Levels 85-90",
-    "description": "From level 85, players can train at the [Radiant Wisp Colony](https://runescape.wiki/w/Radiant_wisp), which is located at [Dragontooth Island](https://runescape.wiki/w/Dragontooth_Island).\n\nWhen buying additional [radiant energy](https://runescape.wiki/w/Radiant_energy), players can gain around 79,000 experience an hour from training at sparkling wisps, or 65,000 experience an hour if not buying additional energy.",
+    "description": "From level 85, players can train at the [Radiant Wisp Colony](https://runescape.wiki/w/Radiant_wisp), which is located at [Dragontooth Island](https://runescape.wiki/w/Dragontooth_Island).\n\nWhen buying additional [radiant energy](https://runescape.wiki/w/Radiant_energy), players can gain around 79,000 experience an hour from training at radiant wisps, or 65,000 experience an hour if not buying additional energy.",
     "url": "https://runescape.wiki/w/Divination_training#Radiant_wisps_.28levels_85.E2.80.9390.29",
     "color": 12269891,
     "footer": {
@@ -220,7 +220,7 @@ exports.data = {
   "90 - 95": {
     "title": "Divination Training Levels 90-95",
     "url": "https://runescape.wiki/w/Divination_training#Luminous_wisps_.28levels_90.E2.80.9395.29",
-    "description": "From level 85, players can train at the [Luminous Wisp Colony](https://runescape.wiki/w/Luminous_wisp), which is located in the [Kharidian Desert](https://runescape.wikia.com/wiki/Kharidian_Desert), south of [Sophanem](https://runescape.wiki/w/Sophanem).\n\nWhen buying additional [luminous energy](https://runescape.wiki/w/Luminous_energy), players can gain around 83,000 experience an hour from training at sparkling wisps, or 71,000 experience an hour if not buying additional energy.",
+    "description": "From level 90, players can train at the [Luminous Wisp Colony](https://runescape.wiki/w/Luminous_wisp), which is located in the [Kharidian Desert](https://runescape.wikia.com/wiki/Kharidian_Desert), south of [Sophanem](https://runescape.wiki/w/Sophanem).\n\nWhen buying additional [luminous energy](https://runescape.wiki/w/Luminous_energy), players can gain around 83,000 experience an hour from training at luminous wisps, or 71,000 experience an hour if not buying additional energy.",
         "color": 12269891,
     "footer": {
       "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
@@ -263,7 +263,7 @@ exports.data = {
     "fields": [
       {
         "name": "Alternative Method: Incandescent Wisps",
-        "value": "At level 95, players can train at the [Incandescent Wisp](https://runescape.wiki/w/Incandescent_wisp) Colony, which is located just south of the [Poison Waste](https://runescape.wiki/w/Poison_Waste) that is south-west of [Castle Wars](https://runescape.wiki/w/Castle_Wars).\n\nWhen buying additional [incandescent energy](https://runescape.wiki/w/Incandescent_energy), players can gain around 97,000 experience an hour from training at sparkling wisps, or 81,500 experience an hour if not buying additional energy."
+        "value": "At level 95, players can train at the [Incandescent Wisp](https://runescape.wiki/w/Incandescent_wisp) Colony, which is located just south of the [Poison Waste](https://runescape.wiki/w/Poison_Waste) that is south-west of [Castle Wars](https://runescape.wiki/w/Castle_Wars).\n\nWhen buying additional [incandescent energy](https://runescape.wiki/w/Incandescent_energy), players can gain around 97,000 experience an hour from training at incandescent wisps, or 81,500 experience an hour if not buying additional energy."
       },
       {
         "name": "Alternative Method: Weaving Cursed Energy",
