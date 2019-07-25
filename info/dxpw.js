@@ -996,7 +996,7 @@ exports.data = {
   },
     "smithing": {
     "title": "Smithing Method:",
-    "description":"[Elder Rune Burial sets](https://runescape.wiki/w/Rune_2h_sword)",
+    "description":"[Elder Rune Burial sets](https://runescape.wiki/w/Elder_rune_burial_set)",
     "thumbnail": {
       "url": "https://i.imgur.com/mUJOyXX.png"
     },
