@@ -55,7 +55,7 @@ exports.data = {
   },
   "35 - 50": {
     "title": "Slayer Training Levels 35-50",
-    "description": "From levels 35-50 it's recommended to use [Sumona](https://runescape.wiki/w/Slayer_Master#Sumona), which requires 90 combat. \n\t\n\t Sumona is located in [Pollinivneach](https://runescape.wiki/w/Pollnivneach). She requires 35 Slayer, 90 combat, and the completion of [Smoking Kills](https://runescape.wiki/w/Smoking_Kills) quest to use. It's recommended to finish this quest as early as possible to start gaining the maxmimum amount of [Slayer Points](https://runescape.wiki/w/Slayer_reward_point).",
+    "description": "From levels 35-50 it's recommended to use [Sumona](https://runescape.wiki/w/Slayer_Master#Sumona), which requires 90 combat. \n\t\n\t Sumona is located in [Pollinivneach](https://runescape.wiki/w/Pollnivneach). She requires 35 Slayer, 90 combat, and the completion of [Smoking Kills](https://runescape.wiki/w/Smoking_Kills) quest to use. It's recommended to finish this quest as early as possible to start gaining the maximum amount of [Slayer Points](https://runescape.wiki/w/Slayer_reward_point).",
     "url": "https://runescape.wiki/w/Slayer_Master",
     "color": 12269891,
     "footer": {
