@@ -290,11 +290,11 @@ exports.data = {
     "fields": [
       {
         "name": "Methods to Obtain",
-        "value": "• Smelting bars\n• Smithing bars into weapons or armour\n• Completing the [burial armour](https://runescape.wiki/w/Artisans_Workshop#Burial_armour) in [Artisans workshop](https://runescape.wiki/w/Artisans_Workshop)\n• [Repairing a cannon](https://runescape.wiki/w/Artisans_Workshop#Cannon_repair) in Artisans workshop\n• [Ceremonial swords](https://runescape.wiki/w/Artisans_Workshop#Ceremonial_swords) in Artisans workshop\n• [Track repair](https://runescape.wiki/w/Artisans_Workshop#Track_room) activities in Artisans workshop\n• Smelting corrupted ore\n• Casting [Superheat item](https://runescape.wiki/w/Superheat_Item)"
+        "value": "• [Smelting](https://runescape.wiki/w/Smelting) [bars](https://runescape.wiki/w/Bars) or [Corrupted ore](https://runescape.wiki/w/Corrupted_ore)\n• Smithing bars into [weapons or armour](https://runescape.wiki/w/Calculator:Standard_smithing)\n• Casting [Superheat item](https://runescape.wiki/w/Superheat_Item)\n• Completing [Burial armour sets](https://runescape.wiki/w/Burial_equipment#Burial_sets) in the [Artisans' workshop](https://runescape.wiki/w/Artisans_Workshop)\n• Smithing [Ceremonial swords](https://runescape.wiki/w/Artisans_Workshop#Ceremonial_swords) in the Artisans' workshop"
       },
       {
         "name": "Best Method",
-        "value": "• Smithing [rune two-handed swords](https://runescape.wiki/w/Rune_2h_sword) or [rune platelegs](https://runescape.wiki/w/Rune_platelegs)"
+        "value": "• [Elder Rune Burial sets](https://runescape.wiki/w/Elder_rune_burial_set)"
       },
       {
         "name": "Methods which do not Work",
@@ -304,7 +304,7 @@ exports.data = {
         "name": "Formula",
         "value": "Gaining this pet is based on the amount of experience awarded at once; the more experience granted per item made, the greater the chance of gaining this pet. The chance is not affected by experience boosters.\n\nIn a purely mathematical format your chance (f) of receiving the pet on any particular action is: f = B * S / 1,000,000,000\n\nWhere:\nB is the base experience per action\nS is the virtual skill level. At 200 million experience, a flat bonus of 200 is applied to this value."
       }
-      ]
+    ]
   },
   "quests": {
     "title": "Quests which Grant Smithing Experience",
