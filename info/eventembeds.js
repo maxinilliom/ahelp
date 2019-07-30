@@ -334,6 +334,47 @@
          }
       ]
    },
+    "dagannoth kings tim": {  
+      "title":"Preparation:",
+      "description":"All are welcome! We will be teaching how to do the boss on Discord if any learners are apprehensive about coming.\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Dagannoth_Kings/Strategies) or a video guide [here](https://www.youtube.com/watch?v=wxUDfSt57bM).",
+      "footer":{  
+         "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
+         "text":"All events brought to you by the `Alright` clan! (https://alright.page/discord)"
+      },
+      "thumbnail":{  
+         "url":"https://runescape.wiki/w/Dagannoth_Rex#/media/File:Dagannoth_Rex.png"
+      },
+      "author":{  
+         "name":"Dagannoth Kings Community Event",
+         "icon_url":"https://i.imgur.com/6c6q2iC.png"
+      },
+      "fields":[  
+         {  
+            "name":"​Where:",
+            "value":"[Waterbirth Island](https://runescape.wiki/w/Waterbirth_Island), World 68 in the \"AHelp\" friends chat."
+         },
+         {  
+            "name":"​Why:",
+            "value":"To assist everyone who needs [Dagannoth Kings](https://runescape.wiki/w/Daggonath_king) for:\n\n• Their [the Reaper](https://runescape.wiki/w/The_Reaper) title for the [Completionist Cape](https://runescape.wiki/w/Completionist_cape) [Reaper Crew requirement](https://runescape.wiki/w/Reaper_Crew)\n• Their [Final Boss](https://runescape.wiki/w/Final_Boss) title\n• Their [Insane Final Boss](https://runescape.wiki/w/Insane_Final_Boss) title"
+         },
+         {  
+            "name": "​",
+            "value":"• Completing the [Baroo Quality](https://runescape.wiki/w/Baroo_Quality) achievement\n(Defeat a Dagannoth King whilst wearing full yak-hide armour and a Fremennik round shield.)\n• Completing the [Dagannoth Traffic Wardens](https://runescape.wiki/w/Dagannoth_Traffic_Wardens) achievement\n(Defeat the Dagannoth Supreme with each different colour variation of Balmung.)\n• Completing the [Long live the Kings!](https://runescape.wiki/w/Long_live_the_Kings!) achievement\n(Obtained a collection of unique drops from the Dagannoth Kings.)\n• Completing the [Dagannoth for Everyone](https://runescape.wiki/w/Dagannoth_for_Everyone) achievement\n(Defeat any of theDagannoth Kings 5, 10, 25, 50, 75, and 100 times, depending on the tier.)"
+         },
+         {  
+            "name":"​Who:",
+            "value":"<@113770763261181961>, <@443363332322230273>, their [Achievement Help](https://www.discord.gg/uUUMPbd) Discord team, and their [Alright](https://discord.gg/KwysmXr) clan."
+         },
+         {  
+            "name":"​What is Needed:",
+            "value":"Any gear is permitted. [Tier](https://runescape.wiki/w/Equipment_tier) 70+ armor and weapon are recommended and appreciated, though not required. The better the tier, the better chance you have of surviving and the faster the kills."
+         },
+         {  
+            "name":"​How Drops Work:",
+            "value":"Drops are dispersed via [lootshare](https://runescape.wiki/w/LootShare) to whoever is in the friend's chat. All drops are kept by their recipients."
+         }
+      ]
+   },
     "deathmatch": {  
       "title":"Preparation:",
       "description":"All are welcome! We will be teaching how to do the event on Discord if any learners are apprehensive about coming.\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Deathmatch).",
@@ -763,6 +804,39 @@
          }
       ]
    },
+    "heist gojess": {  
+      "title":"Preparation:",
+      "description":"All are welcome! \n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Heist).",
+      "footer":{  
+         "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
+         "text":"All events brought to you by the `Alright` clan! (https://alright.page/discord)"
+      },
+      "thumbnail":{  
+         "url":"https://runescape.wiki/images/b/be/Heist_game_lobby.png?42d20"
+      },
+      "author":{  
+         "name":"Heist Community Event",
+         "icon_url":"https://i.imgur.com/6c6q2iC.png"
+      },
+      "fields":[  
+         {  
+            "name":"​Where:",
+            "value":"[Heist](https://runescape.wiki/w/Heist) may be accessed by climbing the ladder just north-west of [Falador](https://runescape.wiki/w/Falador), by the [Taverly](https://runescape.wiki/w/Taverley) wall, World 91 in the \"GoJess\" friends chat."
+         },
+         {  
+            "name":"​Why:",
+            "value":"To assist everyone who needs to unlock the [music](https://runescape.wiki/w/Music), complete the [Cops and Robbers](https://runescape.wiki/w/Cops_and_Robbers) achievement (unlock all perks in Heist), or for those who just want to have fun."
+         },
+         {  
+            "name":"​Who:",
+           "value":"<@113770763261181961>, <@349581235951108098>, their [Achievement Help](https://www.discord.gg/uUUMPbd) Discord team, and their [Alright](https://discord.gg/KwysmXr) clan."
+         },
+         {  
+            "name":"​What is Needed:",
+            "value":"This is a safe [minigame](https://runescape.wiki/w/Minigames). You cannot wear or bring any items into the arena. There is a bank chest in the waiting area for your convenience."
+         }
+      ]
+   },
     "heist solve": {  
       "title":"Preparation:",
       "description":"All are welcome! \n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Heist).",
@@ -999,6 +1073,84 @@
          {  
             "name":"​Why:",
             "value":"To assist everyone who needs [Kalphite King](https://runescape.wiki/w/Kalphite_King) for:\n\n• Their [the Reaper](https://runescape.wiki/w/The_Reaper) title for the [Completionist Cape](https://runescape.wiki/w/Completionist_cape) [Reaper Crew requirement](https://runescape.wiki/w/Reaper_Crew)\n• Their [Final Boss](https://runescape.wiki/w/Final_Boss) title\n• Their [Insane Final Boss](https://runescape.wiki/w/Insane_Final_Boss) title\n• Completing the [Best Offence](https://runescape.wiki/w/Best_Offence) achievement\n(Defeat the Kalphite King after triggering his Immortality and then defeat him again.)\n• Completing the [Exiled](https://runescape.wiki/w/Exiled_%28achievement%29) achievement\n(Obtain a collection of unique drops from Kalphite King.)\n• Completing their [Bug Zapper](https://runescape.wiki/w/Bug_Zapper) achievement\n(Defeat Kalphite King 5, 10, 25, 50, 75, and 100 times, depending on the tier.)\n• A chance at obtaining the [Kalphite defender](https://runescape.wiki/w/Kalphite_defender)"
+         },
+         {  
+            "name":"​Who:",
+            "value":"<@113770763261181961>, <@154378413375881216>, their [Achievement Help](https://www.discord.gg/uUUMPbd) Discord team, and their [Alright](https://discord.gg/KwysmXr) clan."
+         },
+         {  
+            "name":"​What is Needed:",
+            "value":"Any gear is permitted. [Tier](https://runescape.wiki/w/Equipment_tier) 70+ armor and weapon are recommended and appreciated, though not required. The better the tier, the better chance you have of surviving and the faster the kills."
+         },
+         {  
+            "name":"​How Drops Work:",
+            "value":"Drops are dispersed via [lootshare](https://runescape.wiki/w/LootShare) to whoever is in the friend's chat. All drops are kept by their recipients."
+         }
+      ]
+   },
+      "kalphite king tim": {  
+      "title":"Preparation:",
+      "description":"All are welcome! We will be teaching how to do the boss on Discord if any learners are apprehensive about coming.\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Kalphite_King/Strategies) or a video guide [here](https://www.youtube.com/watch?v=vgAEnOtkUG4).",
+      "footer":{  
+         "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
+         "text":"All events brought to you by the `Alright` clan! (https://alright.page/discord)"
+      },
+      "thumbnail":{  
+         "url":"https://runescape.wiki/images/9/92/Kalphite_King_%28Magic%29.png?51e9f"
+      },
+      "author":{  
+         "name":"Kalphite King Community Event",
+         "icon_url":"https://i.imgur.com/6c6q2iC.png"
+      },
+      "fields":[  
+         {  
+            "name":"​Where:",
+            "value":"The [Exiled Kalphite Hive](https://runescape.wiki/w/Exiled_Kalphite_Hive) in the [Kharidian Desert](https://runescape.wiki/w/Kharidian_Desert), World 68 in the \"AHelp\" friends chat."
+         },
+         {  
+            "name":"​Why:",
+            "value":"To assist everyone who needs [Kalphite King](https://runescape.wiki/w/Kalphite_King) for:\n\n• Their [the Reaper](https://runescape.wiki/w/The_Reaper) title for the [Completionist Cape](https://runescape.wiki/w/Completionist_cape) [Reaper Crew requirement](https://runescape.wiki/w/Reaper_Crew)\n• Their [Final Boss](https://runescape.wiki/w/Final_Boss) title\n• Their [Insane Final Boss](https://runescape.wiki/w/Insane_Final_Boss) title\n• Completing the [Best Offence](https://runescape.wiki/w/Best_Offence) achievement\n(Defeat the Kalphite King after triggering his Immortality and then defeat him again.)\n• Completing the [Exiled](https://runescape.wiki/w/Exiled_%28achievement%29) achievement\n(Obtain a collection of unique drops from Kalphite King.)\n• Completing their [Bug Zapper](https://runescape.wiki/w/Bug_Zapper) achievement\n(Defeat Kalphite King 5, 10, 25, 50, 75, and 100 times, depending on the tier.)\n• A chance at obtaining the [Kalphite defender](https://runescape.wiki/w/Kalphite_defender)"
+         },
+         {  
+            "name":"​Who:",
+            "value":"<@294617234033213450>, <@443363332322230273>, their [Achievement Help](https://www.discord.gg/uUUMPbd) Discord team, and their [Alright](https://discord.gg/KwysmXr) clan."
+         },
+         {  
+            "name":"​What is Needed:",
+            "value":"Any gear is permitted. [Tier](https://runescape.wiki/w/Equipment_tier) 70+ armor and weapon are recommended and appreciated, though not required. The better the tier, the better chance you have of surviving and the faster the kills."
+         },
+         {  
+            "name":"​How Drops Work:",
+            "value":"Drops are dispersed via [lootshare](https://runescape.wiki/w/LootShare) to whoever is in the friend's chat. All drops are kept by their recipients."
+         }
+      ]
+   },
+    "king black dragon solve": {  
+      "title":"Preparation:",
+      "description":"All are welcome! We will be teaching how to do the boss on Discord if any learners are apprehensive about coming.\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/King_Black_Dragon/Strategies) or a video guide [here](https://www.youtube.com/watch?v=tak1OoQG7nY).",
+      "footer":{  
+         "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
+         "text":"All events brought to you by the `Alright` clan! (https://alright.page/discord)"
+      },
+      "thumbnail":{  
+         "url":"https://runescape.wiki/w/King_Black_Dragon#/media/File:King_Black_Dragon.png"
+      },
+      "author":{  
+         "name":"King Black Dragon Community Event",
+         "icon_url":"https://i.imgur.com/6c6q2iC.png"
+      },
+      "fields":[  
+         {  
+            "name":"​Where:",
+            "value":"The [King Black Dragon's Lair](https://runescape.wiki/w/King_Black_Dragon%27s_Lair), World 68 in the \"AHelp\" friends chat."
+         },
+         {  
+            "name":"​Why:",
+            "value":"To assist everyone who needs [King Black Dragon](https://runescape.wiki/w/King_Black_Dragon) for:\n\n• Their [the Reaper](https://runescape.wiki/w/The_Reaper) title for the [Completionist Cape](https://runescape.wiki/w/Completionist_cape) [Reaper Crew requirement](https://runescape.wiki/w/Reaper_Crew)\n• Their [Final Boss](https://runescape.wiki/w/Final_Boss) title\n• Their [Insane Final Boss](https://runescape.wiki/w/Insane_Final_Boss) title"
+         },
+         {  
+            "name": "​",
+            "value":"• Completing the [One Final Ride](https://runescape.wiki/w/One_Final_Ride) achievement\n(Find and read the Last Riders book, dropped by the King Black Dragon.)\n• Completing the [Changing of the Guard](https://runescape.wiki/w/Changing_of_the_Guard) achievement\n(Defeat the King Black Dragon while wearing black dragonhide in six equipment slots.)\n• Completing the [Loyal Subject](https://runescape.wiki/w/Loyal_Subject) achievement\n(Get the King Black Dragon to fully degrade a mole anti-dragon shield.)\n• Completing the [How to shame your Dragon](https://runescape.wiki/w/How_to_shame_your_Dragon) achievement\n(Obtained a collection of unique drops from the King Black Dragon.)\n• Completing their [Three Heads are Deader than One](https://runescape.wiki/w/Three_Heads_are_Deader_than_One) achievement\n(Defeat King Black Dragon 5, 10, 25, 50, 75, and 100 times, depending on the tier.)"
          },
          {  
             "name":"​Who:",
@@ -1552,6 +1704,72 @@
          }
       ]
    },
+    "pest control solve": {  
+      "title":"Preparation:",
+      "description":"All are welcome!\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Pest_Control).",
+      "footer":{  
+         "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
+         "text":"All events brought to you by the `Alright` clan! (https://alright.page/discord)"
+      },
+      "thumbnail":{  
+         "url":"https://runescape.wiki/images/thumb/e/e0/Brawler_%28Level_53%29.png/468px-Brawler_%28Level_53%29.png?a4a71"
+      },
+      "author":{  
+         "name":"Pest Control Community Event",
+         "icon_url":"https://i.imgur.com/6c6q2iC.png"
+      },
+      "fields":[  
+         {  
+            "name":"​Where:",
+            "value":"[The Void Knights' Outpost](https://runescape.wiki/w/Void_Knights%27_Outpost), World 68 in the \"AHelp\" friends chat."
+         },
+         {  
+            "name":"​Why:",
+            "value":"To assist everyone who needs to complete the [A-Voiding Conflict](https://runescape.wiki/w/A-Voiding_Conflict) achievement (Win a Pest Control game after repairing all barricades to full), and for those who just want to have fun!"
+         },
+         {  
+            "name":"​Who:",
+           "value":"<@113770763261181961>, <@154378413375881216>, their [Achievement Help](https://www.discord.gg/uUUMPbd) Discord team, and their [Alright](https://discord.gg/KwysmXr) clan."
+         },
+         {  
+            "name":"​What is Needed:",
+           "value":"This is a safe [minigame](https://runescape.wiki/w/Minigames). Any gear is permitted. [Tier](https://runescape.wiki/w/Equipment_tier) 70+ armor and weapon are recommended, though not required. The better the tier, the better chance you have of surviving."
+         }
+      ]
+   },
+    "pest control tim": {  
+      "title":"Preparation:",
+      "description":"All are welcome!\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Pest_Control).",
+      "footer":{  
+         "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
+         "text":"All events brought to you by the `Alright` clan! (https://alright.page/discord)"
+      },
+      "thumbnail":{  
+         "url":"https://runescape.wiki/images/thumb/e/e0/Brawler_%28Level_53%29.png/468px-Brawler_%28Level_53%29.png?a4a71"
+      },
+      "author":{  
+         "name":"Pest Control Community Event",
+         "icon_url":"https://i.imgur.com/6c6q2iC.png"
+      },
+      "fields":[  
+         {  
+            "name":"​Where:",
+            "value":"[The Void Knights' Outpost](https://runescape.wiki/w/Void_Knights%27_Outpost), World 69 in the \"AHelp\" friends chat."
+         },
+         {  
+            "name":"​Why:",
+            "value":"To assist everyone who needs to complete the [A-Voiding Conflict](https://runescape.wiki/w/A-Voiding_Conflict) achievement (Win a Pest Control game after repairing all barricades to full), and for those who just want to have fun!"
+         },
+         {  
+            "name":"​Who:",
+            "value":"<@294617234033213450>, <@443363332322230273>, their [Achievement Help](https://www.discord.gg/uUUMPbd) Discord team, and their [Alright](https://discord.gg/KwysmXr) clan."
+         },
+         {  
+            "name":"​What is Needed:",
+           "value":"This is a safe [minigame](https://runescape.wiki/w/Minigames). Any gear is permitted. [Tier](https://runescape.wiki/w/Equipment_tier) 70+ armor and weapon are recommended, though not required. The better the tier, the better chance you have of surviving."
+         }
+      ]
+   },
     "secret santa": {  
       "title":"Preparation:",
       "description":"Clan Members and Honored Guests may signup in the [Alright](https://discord.gg/KwysmXr) Clan's Discord by December 3rd if they wish to participate.",
@@ -1635,7 +1853,7 @@
       "fields":[  
          {  
             "name":"Where:",
-            "value":"World 84 [Clan Camp](https://runescape.wiki/w/Clan_Camp)."
+            "value":"Near the [Burthrope](https://runescape.wiki/w/Burthorpe) lodestone and bank, World 100 in the \"GoJess\" friends chat."
          },
          {  
             "name":"Why:",
@@ -1816,6 +2034,39 @@
          }
       ]
    },
+    "stealing creation jordyre fast sc": {  
+      "title":"Preparation:",
+      "description":"All are welcome! \n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Stealing_Creation).",
+      "footer":{  
+         "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
+         "text":"All events brought to you by the `Alright` clan! (https://alright.page/discord)"
+      },
+      "thumbnail":{  
+         "url":"https://vignette.wikia.nocookie.net/runescape2/images/6/63/Sacred_clay_%28class_5%29_detail.png/revision/latest/scale-to-width-down/100?cb=20170715144235"
+      },
+      "author":{  
+         "name":"Stealing Creation Community Event",
+         "icon_url":"https://i.imgur.com/6c6q2iC.png"
+      },
+      "fields":[  
+         {  
+            "name":"Where:",
+            "value":"The [Stealing Creation](https://runescape.wiki/w/Stealing_Creation) lobby, World 99 in the \"Fast SC\" friends chat.\n\nStealing Creation is located in the [Mystic's Camp](https://runescape.wiki/w/Mystic%27s_Camp), in the northern section of the [Gamers' Grotto](https://runescape.wiki/w/Gamers%27_Grotto), accessible via a cavern entrance situated north of [Falador](https://runescape.wiki/w/Falador) and south-west of [Edgeville](https://runescape.wiki/w/Edgeville). The [Games necklace](https://runescape.wiki/w/Games_necklace) has a teleport option to the grotto."
+         },
+         {  
+            "name":"Why:",
+            "value":"To assist everyone who needs to unlock the [music](https://runescape.wiki/w/Music), complete the [Claymation](https://runescape.wiki/w/Claymation) achievement (fully exhaust all gathering plots in a Stealing Creation match), and for those who just want to have fun."
+         },
+         {  
+            "name":"Who:",
+            "value":"<@113770763261181961>, Jordyre, and Fast SC"
+         },
+         {  
+            "name":"What is Needed:",
+           "value":"This is a safe [minigame](https://runescape.wiki/w/Minigames). You cannot wear or bring any items into the arena. There is a bank deposit box right by the entrance for your convenience. Items on the [tool belt](https://runescape.wiki/w/Tool_belt) do not work in the game."
+         }
+      ]
+   },
     "stealing creation solve": {  
       "title":"Preparation:",
       "description":"All are welcome! \n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Stealing_Creation).",
@@ -1846,6 +2097,39 @@
          {  
             "name":"What is Needed:",
            "value":"This is a safe [minigame](https://runescape.wiki/w/Minigames). You cannot wear or bring any items into the arena. There is a bank deposit box right by the entrance for your convenience. Items on the [tool belt](https://runescape.wiki/w/Tool_belt) do not work in the game."
+         }
+      ]
+   },
+    "treasure chest hunting": {  
+      "title":"Preparation:",
+      "description":"All are welcome.  A treasure chest will be buried somewhere in RuneScape.  You will have to find it using a clue given to you.  But it's not that easy.  It will also be locked with a code you'll need to figure out using a set of questions.  The location clue and code questions will be posted on the Alright Discord server.  This may include general knowledge, RuneScape based questions or riddles.  A nice reward will be inside it for the first one to dig it up and correctly enter the code.  Don't forget your spade, and happy hunting!",
+      "footer":{  
+         "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
+         "text":"All events brought to you by the `Alright` clan! (https://alright.page/discord)"
+      },
+      "thumbnail":{  
+         "url":"https://runescape.wiki/images/thumb/d/d5/Treasure_chest_%28Carnillean_Rising%29_detail.png/800px-Treasure_chest_%28Carnillean_Rising%29_detail.png?0ba08"
+      },
+      "author":{  
+         "name":"Treasure Chest Hunting Event",
+         "icon_url":"https://i.imgur.com/6c6q2iC.png"
+      },
+      "fields":[  
+         {  
+            "name":"Where:",
+            "value":"The Alright Clan's Clan Chat."
+         },
+         {  
+            "name":"Why:",
+            "value":"Socialization and fun!"
+         },
+         {  
+            "name":"Who:",
+            "value":"<@270680286960943141> and the [Alright](https://discord.gg/KwysmXr) clan!"
+         },
+         {  
+            "name":"What is Needed:",
+            "value":"Access to the Alright Discord channel to receive the clue-sheet for your code.  Access to the loadstone network or other means of teleportation.  Willingness to Accept Aid to receive your set of keys.  A spade for digging up the chest.  Plague's End for admittance to Prifddinas."
          }
       ]
    },
@@ -2167,6 +2451,47 @@
          {  
             "name":"​Who:",
             "value":"<@294617234033213450>, <@113770763261181961>, their [Achievement Help](https://www.discord.gg/uUUMPbd) Discord team, and their [Alright](https://discord.gg/KwysmXr) clan."
+         },
+         {  
+            "name":"​What is Needed:",
+            "value":"Any gear is permitted. [Tier](https://runescape.wiki/w/Equipment_tier) 70+ armor and weapon are recommended and appreciated, though not required. The better the tier, the better chance you have of surviving and the faster the kills. The use of magic or range is highly recommended.\n\n• Players must have completed their [Challenging Chat](https://runescape.wiki/w/Challenging_Chat) achievement\n(Hear Vorago's introduction dialogue.)\n• Don't forget your pet rock if you need the Who's your daddy achievement!"
+         },
+         {  
+            "name":"​How Drops Work:",
+            "value":"Drops are dispersed at random via [coinshare](https://runescape.wiki/w/CoinShare) to whoever is in the friend's chat. All drops are kept by their recipients and high-value drops that have [item shards](https://runescape.wiki/w/Item_shards) will be split by the game to everyone who has coinshare enabled and is in the friend's chat. "
+         }
+      ]
+   },
+    "vorago tim": {  
+      "title":"Preparation:",
+      "description":"All are welcome! We will be teaching how to do the boss on the discord if any learners are apprehensive about coming.\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Vorago/Strategies) or a video guide [here](https://www.youtube.com/watch?v=VWsNhghbzpk&t=1s).",
+      "footer":{  
+         "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
+         "text":"All events brought to you by the `Alright` clan! (https://alright.page/discord)"
+      },
+      "thumbnail":{  
+         "url":"https://vignette.wikia.nocookie.net/runescape2/images/e/eb/Vorago.png/revision/latest?cb=20130705143815"
+      },
+      "author":{  
+         "name":"Vorago Mass Community Event",
+         "icon_url":"https://i.imgur.com/6c6q2iC.png"
+      },
+      "fields":[  
+         {  
+            "name":"​Where:",
+            "value":"[Vorago](https://runescape.wiki/w/Vorago)'s [Borehole](https://runescape.wiki/w/Borehole), North of the [Falador](https://runescape.wiki/w/Falador) [Lodestone](https://runescape.wiki/w/Lodestone_Network), World 68 in the \"AHelp\" friends chat."
+         },
+         {  
+            "name":"​Why:",
+            "value":"To assist everyone who needs Vorago for:\n\n• Their [the Reaper](https://runescape.wiki/w/The_Reaper) title for the [Completionist Cape](https://runescape.wiki/w/Completionist_cape) [Reaper Crew requirement](https://runescape.wiki/w/Reaper_Crew)\n• Their [Final Boss](https://runescape.wiki/w/Final_Boss) title\n• Their [Insane Final Boss](https://runescape.wiki/w/Insane_Final_Boss) title\n• Killcount to work towards the [Vitalis Pet](https://runescape.wiki/w/Vitalis_(pet) via the [Ancient summoning stone](https://runescape.wiki/w/Ancient_summoning_stone)\n• A chance of loot from Vorago's [drop table](https://runescape.wiki/w/Vorago#Drops)"
+         },
+         {  
+            "name":"​​",
+            "value":"• Completing their [Who's Your Daddy?](https://runescape.wiki/w/Who%27s_Your_Daddy%3F) achievement\n(Defeat Vorago whilst holding your [pet rock](https://runescape.wiki/w/Pet_rock) for the whole kill.)\n• Completing their [Classic Rock](https://runescape.wiki/w/Classic_Rock) achievement\n(Defeat Vorago without using any [defensive abilities](https://runescape.wiki/w/Abilities#Defence).)\n• Completing their [Hard as a Rock](https://runescape.wiki/w/Hard_as_a_rock) achievement\n(Obtained a collection of unique drops from the Vorago.)\n• Completing their [Finish Him!](https://runescape.wiki/w/Finish_Him!) achievement\n(Personally defeat Vorago with the [Maul of Omens](https://runescape.wiki/w/Maul_of_omens).)\n• Completing their [Come and Have Vorago](https://runescape.wiki/w/Come_and_Have_Vorago_VI) achievement\n(Defeat Vorago 5, 10, 25, 50, 75, and 100 times, depending on the tier.)"
+         },
+         {  
+            "name":"​Who:",
+            "value":"<@294617234033213450>, <@443363332322230273>, their [Achievement Help](https://www.discord.gg/uUUMPbd) Discord team, and their [Alright](https://discord.gg/KwysmXr) clan."
          },
          {  
             "name":"​What is Needed:",
