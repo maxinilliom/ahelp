@@ -317,15 +317,15 @@ exports.data = {
                     },
                     {
                     "name": "Recommendations and Requirements:",
-                    "value": "• __Recommended Attack Style:__ Range or Mage\n• __Minimum Recommended Armor Tier:__ 70\n• __Minimum Recommended Weapon Tier:__ 80\n• __Recommended Prayer:__ [Deflect Missles](https://runescape.wiki/w/Deflect_Melee)/[Melee](https://runescape.wiki/w/Deflect_Melee)"
+                    "value": "• __Recommended Attack Style:__ Range or Mage\n• __Minimum Recommended Armor Tier:__ 70\n• __Minimum Recommended Weapon Tier:__ 80\n• __Recommended Prayer:__ [Deflect Missles](https://runescape.wiki/w/Deflect_Melee) and [Deflect Melee](https://runescape.wiki/w/Deflect_Melee)"
                     },
                     {
                         "name": "The Pre-Fight Scene",
-                        "value": "Players want to use the Deflect Missiles throughout this part of the fight.\n\nTo begin the fight, talk to the trapped goebie in the middle of the arena. Once you free him, he will run off to find his friends and they will all come out in panic. A bar above will tell the team to kill 39 [Tuska](https://runescape.wiki/w/Tuska)-related units - which are enhanced Airuts and [Chargers](https://runescape.wiki/w/Charger). The charges do not count towards the counter, however. Each of these monsters will appear from the gongs that the Goebies came out of at the North, East, South, and West points of the pit.\n\nHalfway through the bar (~21 units remaining), [Cormes](https://runescape.wiki/w/Cormes) will appear from the western gong. The pet tank 1 role will ensure this pet is standing so it is facing the northwest or southwest corner."
+                        "value": "Players want to use the Deflect Missiles throughout this part of the fight.\n\nTo begin the fight, the raid leader will talk to the trapped goebie in the middle of the arena. Once you free him, he will run off to find his friends and they will all come out in panic. A bar above will tell the team to kill 39 [Tuska](https://runescape.wiki/w/Tuska)-related units - which are enhanced Airuts and [Chargers](https://runescape.wiki/w/Charger). The chargers do not count towards the counter, however. Each of these monsters will appear from the gongs that the Goebies came out of at the North, East, South, and West points of the pit.\n\nHalfway through the bar (~21 units remaining), [Cormes](https://runescape.wiki/w/Cormes) will appear from the western gong. The pet tank 1 role will ensure this pet is standing so it is facing the northwest or southwest corner."
                     },
                     {
                         "name": "​",
-                        "value": "Once all 39 Airut units are killed, Durzag will appear in the northeast corner with one of his pets appearing by the northern gong. If you are attacked by multiple chargers or hit with an Airut [special](https://runescape.wiki/w/Airut/Strategies#Abilities) at any point during this phase, ensure to switch prayers to Deflect Melee."
+                        "value": "Once all 39 Airut units are killed, Durzag will appear in the northeast corner with one of his pets appearing by the northern gong. If you are attacked by multiple chargers or hit with an Airut [special](https://runescape.wiki/w/Airut/Strategies#Abilities) at any point during this phase, switch prayers to Deflect Melee."
                     },
                     {
                         "name": "The Fight with Durzag",
@@ -2004,7 +2004,7 @@ exports.data = {
                     },
                     {
                         "name": "Recommendations and Requirements:",
-                        "value": "• Players must have defeated [Beastmaster Durzag](https://runescape.wiki/w/Beastmaster_Durzag) during this lockout period without resetting\n• Players must have completed the Liberation of Mazcab puzzle during this lockout period without resetting\n• __Recommended Attack Style:__ Range or Mage\n• __Minimum Recommended Armor Tier:__ 70\n• __Minimum Recommended Weapon Tier:__ 80\n• __Recommended Prayer:__ [Deflect Magic](https://runescape.wiki/w/Deflect_Magic) or [Soul Split](https://runescape.wiki/w/Soul_Split)"
+                        "value": "• Players must have defeated [Beastmaster Durzag](https://runescape.wiki/w/Beastmaster_Durzag) during this lockout period without resetting\n• Players must have completed the Liberation of Mazcab puzzle during this lockout period without resetting\n• __Recommended Attack Style:__ Range or Mage\n• __Minimum Recommended Armor Tier:__ 70\n• __Minimum Recommended Weapon Tier:__ 80\n• __Recommended Prayer:__ [Deflect Missiles](https://runescape.wiki/w/Deflect_Missiles) (for most of the fight) and [Deflect Magic](https://runescape.wiki/w/Deflect_Magic) (if in melee distance)"
                     },
                     {
                         "name": "WARNING: DON'T USE STUNS!",
@@ -2020,7 +2020,7 @@ exports.data = {
                     },
                     {
                         "name": "​",
-                        "value": "Deal damage to Yakamaru while avoiding his special attacks until the end of the phase, where like all phases, poison will spawn. The poison tank role will be contaminated by running into the 1x1 target area must then run melee distance to Yakamaru, infecting it. Ensure you do not stand where the poison lands so the poison tanker may grab it freely."
+                        "value": "Deal damage to Yakamaru while avoiding his special attacks until the end of the phase, where like all phases, poison will spawn. The poison tank role will be contaminated by running into the 1x1 target area and will then run melee distance to Yakamaru, infecting it. Ensure you do not stand where the poison lands so the poison tanker may grab it freely."
                     }
             ]
         },
