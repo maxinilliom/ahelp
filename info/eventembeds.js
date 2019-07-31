@@ -281,7 +281,7 @@
          },
          {  
             "name":"​Why:",
-            "value":"To assist everyone who needs [Corporeal Beast](https://runescape.wiki/w/Corporeal_Beast) for:\n\n• Their [the Reaper](https://runescape.wiki/w/The_Reaper) title for the [Completionist Cape](https://runescape.wiki/w/Completionist_cape) [Reaper Crew requirement](https://runescape.wiki/w/Reaper_Crew)\n• Their [Final Boss](https://runescape.wiki/w/Final_Boss) title\n• Their [Insane Final Boss](https://runescape.wiki/w/Insane_Final_Boss) title\n• Completing the [Glutton for Punishment](https://runescape.wiki/w/Glutton_For_Punishment) achievement\n(Get the Corporeal Beast to devour a variety of delicious familiars.)\n• Completing the [Out of Body experience](https://runescape.wiki/w/Out_of_Body_experience) achievement\n(Obtain a collection of unique drops from Corporeal Beast.)\n• Completing their [Corporeal Punishment](https://runescape.wiki/w/Corporeal_Punishment) achievement\n(Defeat Corporeal Beast 5, 10, 25, 50, 75, and 100 times, depending on the tier.)"
+            "value":"To assist everyone who needs [Corporeal Beast](https://runescape.wiki/w/Corporeal_Beast) for:\n\n• Their [Reaper Crew](https://runescape.wiki/w/Reaper_Crew) achievement\n• Their [Final Boss](https://runescape.wiki/w/Final_Boss) title\n• Their [Insane Final Boss](https://runescape.wiki/w/Insane_Final_Boss) title\n• Completing the [Glutton for Punishment](https://runescape.wiki/w/Glutton_For_Punishment) achievement\n(Get the Corporeal Beast to devour a variety of delicious familiars.)\n• Completing the [Out of Body experience](https://runescape.wiki/w/Out_of_Body_experience) achievement\n(Obtain a collection of unique drops from Corporeal Beast.)\n• Completing their [Corporeal Punishment](https://runescape.wiki/w/Corporeal_Punishment) achievement\n(Defeat Corporeal Beast 5, 10, 25, 50, 75, and 100 times, depending on the tier.)"
          },
          {  
             "name":"​Who:",
@@ -318,7 +318,7 @@
          },
          {  
             "name":"​Why:",
-            "value":"To assist everyone who needs [Corporeal Beast](https://runescape.wiki/w/Corporeal_Beast) for:\n\n• Their [the Reaper](https://runescape.wiki/w/The_Reaper) title for the [Completionist Cape](https://runescape.wiki/w/Completionist_cape) [Reaper Crew requirement](https://runescape.wiki/w/Reaper_Crew)\n• Their [Final Boss](https://runescape.wiki/w/Final_Boss) title\n• Their [Insane Final Boss](https://runescape.wiki/w/Insane_Final_Boss) title\n• Completing the [Glutton for Punishment](https://runescape.wiki/w/Glutton_For_Punishment) achievement\n(Get the Corporeal Beast to devour a variety of delicious familiars.)\n• Completing the [Out of Body experience](https://runescape.wiki/w/Out_of_Body_experience) achievement\n(Obtain a collection of unique drops from Corporeal Beast.)\n• Completing their [Corporeal Punishment](https://runescape.wiki/w/Corporeal_Punishment) achievement\n(Defeat Corporeal Beast 5, 10, 25, 50, 75, and 100 times, depending on the tier.)"
+            "value":"To assist everyone who needs [Corporeal Beast](https://runescape.wiki/w/Corporeal_Beast) for:\n\n• Their [Reaper Crew](https://runescape.wiki/w/Reaper_Crew) achievement\n• Their [Final Boss](https://runescape.wiki/w/Final_Boss) title\n• Their [Insane Final Boss](https://runescape.wiki/w/Insane_Final_Boss) title\n• Completing the [Glutton for Punishment](https://runescape.wiki/w/Glutton_For_Punishment) achievement\n(Get the Corporeal Beast to devour a variety of delicious familiars.)\n• Completing the [Out of Body experience](https://runescape.wiki/w/Out_of_Body_experience) achievement\n(Obtain a collection of unique drops from Corporeal Beast.)\n• Completing their [Corporeal Punishment](https://runescape.wiki/w/Corporeal_Punishment) achievement\n(Defeat Corporeal Beast 5, 10, 25, 50, 75, and 100 times, depending on the tier.)"
          },
          {  
             "name":"​Who:",
@@ -355,7 +355,7 @@
          },
          {  
             "name":"​Why:",
-            "value":"To assist everyone who needs [Dagannoth Kings](https://runescape.wiki/w/Daggonath_king) for:\n\n• Their [the Reaper](https://runescape.wiki/w/The_Reaper) title for the [Completionist Cape](https://runescape.wiki/w/Completionist_cape) [Reaper Crew requirement](https://runescape.wiki/w/Reaper_Crew)\n• Their [Final Boss](https://runescape.wiki/w/Final_Boss) title\n• Their [Insane Final Boss](https://runescape.wiki/w/Insane_Final_Boss) title"
+            "value":"To assist everyone who needs [Dagannoth Kings](https://runescape.wiki/w/Daggonath_king) for:\n\n• Their [Reaper Crew](https://runescape.wiki/w/Reaper_Crew) achievement\n• Their [Final Boss](https://runescape.wiki/w/Final_Boss) title\n• Their [Insane Final Boss](https://runescape.wiki/w/Insane_Final_Boss) title"
          },
          {  
             "name": "​",
@@ -598,7 +598,7 @@
          },
          {  
             "name":"​Why:",
-            "value":"To assist everyone who needs [General Graardor](https://runescape.wiki/w/General_Graardor) for:\n\n• Their [the Reaper](https://runescape.wiki/w/The_Reaper) title for the [Completionist Cape](https://runescape.wiki/w/Completionist_cape) [Reaper Crew requirement](https://runescape.wiki/w/Reaper_Crew)\n• Their [Final Boss](https://runescape.wiki/w/Final_Boss) title\n• Their [Insane Final Boss](https://runescape.wiki/w/Insane_Final_Boss) title\n• Completing their [Five-Star General](https://runescape.wiki/w/Five-Star_General) achievement\n(Obtained a collection of unique drops from General Graardor.)\n• Completing their [General Mayhem](https://runescape.wiki/w/General_Mayhem) achievement\n(Defeat General Graardor 5, 10, 25, 50, 75, and 100 times, depending on the tier.)"
+            "value":"To assist everyone who needs [General Graardor](https://runescape.wiki/w/General_Graardor) for:\n\n• Their [Reaper Crew](https://runescape.wiki/w/Reaper_Crew) achievement\n• Their [Final Boss](https://runescape.wiki/w/Final_Boss) title\n• Their [Insane Final Boss](https://runescape.wiki/w/Insane_Final_Boss) title\n• Completing their [Five-Star General](https://runescape.wiki/w/Five-Star_General) achievement\n(Obtained a collection of unique drops from General Graardor.)\n• Completing their [General Mayhem](https://runescape.wiki/w/General_Mayhem) achievement\n(Defeat General Graardor 5, 10, 25, 50, 75, and 100 times, depending on the tier.)"
          },
          {  
             "name":"​Who:",
@@ -635,7 +635,7 @@
          },
          {  
             "name":"​Why:",
-            "value":"To assist everyone who needs [Gregorovic](https://runescape.wiki/w/Gregorovic) for:\n\n• Their [the Reaper](https://runescape.wiki/w/The_Reaper) title for the [Completionist Cape](https://runescape.wiki/w/Completionist_cape) [Reaper Crew requirement](https://runescape.wiki/w/Reaper_Crew)\n• Their [Final Boss](https://runescape.wiki/w/Final_Boss) title\n• Their [Insane Final Boss](https://runescape.wiki/w/Insane_Final_Boss) title\n• Completing their [Game Over](https://runescape.wiki/w/Game_Over) achievement\n(Obtained a collection of unique drops from Gregorovic.)\n• Completing their [Gregorgeous](https://runescape.wiki/w/Gregorgeous) achievement\n(Defeat Gregorovic 5, 10, 25, 50, 75, and 100 times, depending on the tier.)"
+            "value":"To assist everyone who needs [Gregorovic](https://runescape.wiki/w/Gregorovic) for:\n\n• Their [Reaper Crew](https://runescape.wiki/w/Reaper_Crew) achievement\n• Their [Final Boss](https://runescape.wiki/w/Final_Boss) title\n• Their [Insane Final Boss](https://runescape.wiki/w/Insane_Final_Boss) title\n• Completing their [Game Over](https://runescape.wiki/w/Game_Over) achievement\n(Obtained a collection of unique drops from Gregorovic.)\n• Completing their [Gregorgeous](https://runescape.wiki/w/Gregorgeous) achievement\n(Defeat Gregorovic 5, 10, 25, 50, 75, and 100 times, depending on the tier.)"
          },
          {  
             "name":"​Who:",
@@ -672,7 +672,7 @@
          },
          {  
             "name":"​Why:",
-            "value":"To assist everyone who needs [Gregorovic](https://runescape.wiki/w/Gregorovic) for:\n\n• Their [the Reaper](https://runescape.wiki/w/The_Reaper) title for the [Completionist Cape](https://runescape.wiki/w/Completionist_cape) [Reaper Crew requirement](https://runescape.wiki/w/Reaper_Crew)\n• Their [Final Boss](https://runescape.wiki/w/Final_Boss) title\n• Their [Insane Final Boss](https://runescape.wiki/w/Insane_Final_Boss) title\n• Completing their [Game Over](https://runescape.wiki/w/Game_Over) achievement\n(Obtained a collection of unique drops from Gregorovic.)\n• Completing their [Gregorgeous](https://runescape.wiki/w/Gregorgeous) achievement\n(Defeat Gregorovic 5, 10, 25, 50, 75, and 100 times, depending on the tier.)"
+            "value":"To assist everyone who needs [Gregorovic](https://runescape.wiki/w/Gregorovic) for:\n\n• Their [Reaper Crew](https://runescape.wiki/w/Reaper_Crew) achievement\n• Their [Final Boss](https://runescape.wiki/w/Final_Boss) title\n• Their [Insane Final Boss](https://runescape.wiki/w/Insane_Final_Boss) title\n• Completing their [Game Over](https://runescape.wiki/w/Game_Over) achievement\n(Obtained a collection of unique drops from Gregorovic.)\n• Completing their [Gregorgeous](https://runescape.wiki/w/Gregorgeous) achievement\n(Defeat Gregorovic 5, 10, 25, 50, 75, and 100 times, depending on the tier.)"
          },
          {  
             "name":"​Who:",
@@ -891,7 +891,7 @@
          },
          {  
             "name":"​Why:",
-            "value":"To assist everyone who needs [Helwyr](https://runescape.wiki/w/Helwyr) for:\n\n• Their [the Reaper](https://runescape.wiki/w/The_Reaper) title for the [Completionist Cape](https://runescape.wiki/w/Completionist_cape) [Reaper Crew requirement](https://runescape.wiki/w/Reaper_Crew)\n• Their [Final Boss](https://runescape.wiki/w/Final_Boss) title\n• Their [Insane Final Boss](https://runescape.wiki/w/Insane_Final_Boss) title\n• Completing their [Once the hunter, now the hunted](https://runescape.wiki/w/Once_the_hunter,_now_the_hunted) achievement\n(Obtained a collection of unique drops from the Helwyr.)\n• Completing their [This Helwyr in](https://runescape.wiki/w/This_Helwyr_in) achievement\n(Defeat Helwyr 5, 10, 25, 50, 75, and 100 times, depending on the tier.)"
+            "value":"To assist everyone who needs [Helwyr](https://runescape.wiki/w/Helwyr) for:\n\n• Their [Reaper Crew](https://runescape.wiki/w/Reaper_Crew) achievement\n• Their [Final Boss](https://runescape.wiki/w/Final_Boss) title\n• Their [Insane Final Boss](https://runescape.wiki/w/Insane_Final_Boss) title\n• Completing their [Once the hunter, now the hunted](https://runescape.wiki/w/Once_the_hunter,_now_the_hunted) achievement\n(Obtained a collection of unique drops from the Helwyr.)\n• Completing their [This Helwyr in](https://runescape.wiki/w/This_Helwyr_in) achievement\n(Defeat Helwyr 5, 10, 25, 50, 75, and 100 times, depending on the tier.)"
          },
          {  
             "name":"​Who:",
@@ -928,7 +928,7 @@
          },
          {  
             "name":"​Why:",
-            "value":"To assist everyone who needs [Helwyr](https://runescape.wiki/w/Helwyr) for:\n\n• Their [the Reaper](https://runescape.wiki/w/The_Reaper) title for the [Completionist Cape](https://runescape.wiki/w/Completionist_cape) [Reaper Crew requirement](https://runescape.wiki/w/Reaper_Crew)\n• Their [Final Boss](https://runescape.wiki/w/Final_Boss) title\n• Their [Insane Final Boss](https://runescape.wiki/w/Insane_Final_Boss) title\n• Completing their [Once the hunter, now the hunted](https://runescape.wiki/w/Once_the_hunter,_now_the_hunted) achievement\n(Obtained a collection of unique drops from the Helwyr.)\n• Completing their [This Helwyr in](https://runescape.wiki/w/This_Helwyr_in) achievement\n(Defeat Helwyr 5, 10, 25, 50, 75, and 100 times, depending on the tier.)"
+            "value":"To assist everyone who needs [Helwyr](https://runescape.wiki/w/Helwyr) for:\n\n• Their [Reaper Crew](https://runescape.wiki/w/Reaper_Crew) achievement\n• Their [Final Boss](https://runescape.wiki/w/Final_Boss) title\n• Their [Insane Final Boss](https://runescape.wiki/w/Insane_Final_Boss) title\n• Completing their [Once the hunter, now the hunted](https://runescape.wiki/w/Once_the_hunter,_now_the_hunted) achievement\n(Obtained a collection of unique drops from the Helwyr.)\n• Completing their [This Helwyr in](https://runescape.wiki/w/This_Helwyr_in) achievement\n(Defeat Helwyr 5, 10, 25, 50, 75, and 100 times, depending on the tier.)"
          },
          {  
             "name":"​Who:",
@@ -998,7 +998,7 @@
          },
          {  
             "name":"​Why:",
-            "value":"To assist everyone who needs [Kalphite King](https://runescape.wiki/w/Kalphite_King) for:\n\n• Their [the Reaper](https://runescape.wiki/w/The_Reaper) title for the [Completionist Cape](https://runescape.wiki/w/Completionist_cape) [Reaper Crew requirement](https://runescape.wiki/w/Reaper_Crew)\n• Their [Final Boss](https://runescape.wiki/w/Final_Boss) title\n• Their [Insane Final Boss](https://runescape.wiki/w/Insane_Final_Boss) title\n• Completing the [Best Offence](https://runescape.wiki/w/Best_Offence) achievement\n(Defeat the Kalphite King after triggering his Immortality and then defeat him again.)\n• Completing the [Exiled](https://runescape.wiki/w/Exiled_%28achievement%29) achievement\n(Obtain a collection of unique drops from Kalphite King.)\n• Completing their [Bug Zapper](https://runescape.wiki/w/Bug_Zapper) achievement\n(Defeat Kalphite King 5, 10, 25, 50, 75, and 100 times, depending on the tier.)\n• A chance at obtaining the [Kalphite defender](https://runescape.wiki/w/Kalphite_defender)"
+            "value":"To assist everyone who needs [Kalphite King](https://runescape.wiki/w/Kalphite_King) for:\n\n• Their [Reaper Crew](https://runescape.wiki/w/Reaper_Crew) achievement\n• Their [Final Boss](https://runescape.wiki/w/Final_Boss) title\n• Their [Insane Final Boss](https://runescape.wiki/w/Insane_Final_Boss) title\n• Completing the [Best Offence](https://runescape.wiki/w/Best_Offence) achievement\n(Defeat the Kalphite King after triggering his Immortality and then defeat him again.)\n• Completing the [Exiled](https://runescape.wiki/w/Exiled_%28achievement%29) achievement\n(Obtain a collection of unique drops from Kalphite King.)\n• Completing their [Bug Zapper](https://runescape.wiki/w/Bug_Zapper) achievement\n(Defeat Kalphite King 5, 10, 25, 50, 75, and 100 times, depending on the tier.)\n• A chance at obtaining the [Kalphite defender](https://runescape.wiki/w/Kalphite_defender)"
          },
          {  
             "name":"​Who:",
@@ -1035,7 +1035,7 @@
          },
          {  
             "name":"​Why:",
-            "value":"To assist everyone who needs [Kalphite King](https://runescape.wiki/w/Kalphite_King) for:\n\n• Their [the Reaper](https://runescape.wiki/w/The_Reaper) title for the [Completionist Cape](https://runescape.wiki/w/Completionist_cape) [Reaper Crew requirement](https://runescape.wiki/w/Reaper_Crew)\n• Their [Final Boss](https://runescape.wiki/w/Final_Boss) title\n• Their [Insane Final Boss](https://runescape.wiki/w/Insane_Final_Boss) title\n• Completing the [Best Offence](https://runescape.wiki/w/Best_Offence) achievement\n(Defeat the Kalphite King after triggering his Immortality and then defeat him again.)\n• Completing the [Exiled](https://runescape.wiki/w/Exiled_%28achievement%29) achievement\n(Obtain a collection of unique drops from Kalphite King.)\n• Completing their [Bug Zapper](https://runescape.wiki/w/Bug_Zapper) achievement\n(Defeat Kalphite King 5, 10, 25, 50, 75, and 100 times, depending on the tier.)\n• A chance at obtaining the [Kalphite defender](https://runescape.wiki/w/Kalphite_defender)"
+            "value":"To assist everyone who needs [Kalphite King](https://runescape.wiki/w/Kalphite_King) for:\n\n• Their [Reaper Crew](https://runescape.wiki/w/Reaper_Crew) achievement\n• Their [Final Boss](https://runescape.wiki/w/Final_Boss) title\n• Their [Insane Final Boss](https://runescape.wiki/w/Insane_Final_Boss) title\n• Completing the [Best Offence](https://runescape.wiki/w/Best_Offence) achievement\n(Defeat the Kalphite King after triggering his Immortality and then defeat him again.)\n• Completing the [Exiled](https://runescape.wiki/w/Exiled_%28achievement%29) achievement\n(Obtain a collection of unique drops from Kalphite King.)\n• Completing their [Bug Zapper](https://runescape.wiki/w/Bug_Zapper) achievement\n(Defeat Kalphite King 5, 10, 25, 50, 75, and 100 times, depending on the tier.)\n• A chance at obtaining the [Kalphite defender](https://runescape.wiki/w/Kalphite_defender)"
          },
          {  
             "name":"​Who:",
@@ -1072,7 +1072,7 @@
          },
          {  
             "name":"​Why:",
-            "value":"To assist everyone who needs [Kalphite King](https://runescape.wiki/w/Kalphite_King) for:\n\n• Their [the Reaper](https://runescape.wiki/w/The_Reaper) title for the [Completionist Cape](https://runescape.wiki/w/Completionist_cape) [Reaper Crew requirement](https://runescape.wiki/w/Reaper_Crew)\n• Their [Final Boss](https://runescape.wiki/w/Final_Boss) title\n• Their [Insane Final Boss](https://runescape.wiki/w/Insane_Final_Boss) title\n• Completing the [Best Offence](https://runescape.wiki/w/Best_Offence) achievement\n(Defeat the Kalphite King after triggering his Immortality and then defeat him again.)\n• Completing the [Exiled](https://runescape.wiki/w/Exiled_%28achievement%29) achievement\n(Obtain a collection of unique drops from Kalphite King.)\n• Completing their [Bug Zapper](https://runescape.wiki/w/Bug_Zapper) achievement\n(Defeat Kalphite King 5, 10, 25, 50, 75, and 100 times, depending on the tier.)\n• A chance at obtaining the [Kalphite defender](https://runescape.wiki/w/Kalphite_defender)"
+            "value":"To assist everyone who needs [Kalphite King](https://runescape.wiki/w/Kalphite_King) for:\n\n• Their [Reaper Crew](https://runescape.wiki/w/Reaper_Crew) achievement\n• Their [Final Boss](https://runescape.wiki/w/Final_Boss) title\n• Their [Insane Final Boss](https://runescape.wiki/w/Insane_Final_Boss) title\n• Completing the [Best Offence](https://runescape.wiki/w/Best_Offence) achievement\n(Defeat the Kalphite King after triggering his Immortality and then defeat him again.)\n• Completing the [Exiled](https://runescape.wiki/w/Exiled_%28achievement%29) achievement\n(Obtain a collection of unique drops from Kalphite King.)\n• Completing their [Bug Zapper](https://runescape.wiki/w/Bug_Zapper) achievement\n(Defeat Kalphite King 5, 10, 25, 50, 75, and 100 times, depending on the tier.)\n• A chance at obtaining the [Kalphite defender](https://runescape.wiki/w/Kalphite_defender)"
          },
          {  
             "name":"​Who:",
@@ -1109,7 +1109,7 @@
          },
          {  
             "name":"​Why:",
-            "value":"To assist everyone who needs [Kalphite King](https://runescape.wiki/w/Kalphite_King) for:\n\n• Their [the Reaper](https://runescape.wiki/w/The_Reaper) title for the [Completionist Cape](https://runescape.wiki/w/Completionist_cape) [Reaper Crew requirement](https://runescape.wiki/w/Reaper_Crew)\n• Their [Final Boss](https://runescape.wiki/w/Final_Boss) title\n• Their [Insane Final Boss](https://runescape.wiki/w/Insane_Final_Boss) title\n• Completing the [Best Offence](https://runescape.wiki/w/Best_Offence) achievement\n(Defeat the Kalphite King after triggering his Immortality and then defeat him again.)\n• Completing the [Exiled](https://runescape.wiki/w/Exiled_%28achievement%29) achievement\n(Obtain a collection of unique drops from Kalphite King.)\n• Completing their [Bug Zapper](https://runescape.wiki/w/Bug_Zapper) achievement\n(Defeat Kalphite King 5, 10, 25, 50, 75, and 100 times, depending on the tier.)\n• A chance at obtaining the [Kalphite defender](https://runescape.wiki/w/Kalphite_defender)"
+            "value":"To assist everyone who needs [Kalphite King](https://runescape.wiki/w/Kalphite_King) for:\n\n• Their [Reaper Crew](https://runescape.wiki/w/Reaper_Crew) achievement\n• Their [Final Boss](https://runescape.wiki/w/Final_Boss) title\n• Their [Insane Final Boss](https://runescape.wiki/w/Insane_Final_Boss) title\n• Completing the [Best Offence](https://runescape.wiki/w/Best_Offence) achievement\n(Defeat the Kalphite King after triggering his Immortality and then defeat him again.)\n• Completing the [Exiled](https://runescape.wiki/w/Exiled_%28achievement%29) achievement\n(Obtain a collection of unique drops from Kalphite King.)\n• Completing their [Bug Zapper](https://runescape.wiki/w/Bug_Zapper) achievement\n(Defeat Kalphite King 5, 10, 25, 50, 75, and 100 times, depending on the tier.)\n• A chance at obtaining the [Kalphite defender](https://runescape.wiki/w/Kalphite_defender)"
          },
          {  
             "name":"​Who:",
@@ -1146,7 +1146,7 @@
          },
          {  
             "name":"​Why:",
-            "value":"To assist everyone who needs [King Black Dragon](https://runescape.wiki/w/King_Black_Dragon) for:\n\n• Their [the Reaper](https://runescape.wiki/w/The_Reaper) title for the [Completionist Cape](https://runescape.wiki/w/Completionist_cape) [Reaper Crew requirement](https://runescape.wiki/w/Reaper_Crew)\n• Their [Final Boss](https://runescape.wiki/w/Final_Boss) title\n• Their [Insane Final Boss](https://runescape.wiki/w/Insane_Final_Boss) title"
+            "value":"To assist everyone who needs [King Black Dragon](https://runescape.wiki/w/King_Black_Dragon) for:\n\n• Their [Reaper Crew](https://runescape.wiki/w/Reaper_Crew) achievement\n• Their [Final Boss](https://runescape.wiki/w/Final_Boss) title\n• Their [Insane Final Boss](https://runescape.wiki/w/Insane_Final_Boss) title"
          },
          {  
             "name": "​",
@@ -1187,7 +1187,7 @@
          },
          {  
             "name":"Why:",
-            "value":"To assist everyone who needs [Kree'arra](https://runescape.wiki/w/Kree%27arra) for:\n\n• Their [the Reaper](https://runescape.wiki/w/The_Reaper) title for the [Completionist Cape](https://runescape.wiki/w/Completionist_cape) [Reaper Crew requirement](https://runescape.wiki/w/Reaper_Crew)\n• Their [Final Boss](https://runescape.wiki/w/Final_Boss) title\n• Their [Insane Final Boss](https://runescape.wiki/w/Insane_Final_Boss) title\n• Completing their [Diary of the Gods](https://runescape.wiki/w/Diary_of_the_Gods) achievement\n• Completing their [Light as a feather](https://runescape.wiki/w/Light_as_a_feather) achievement\n(Obtained a collection of unique drops from Kree'arra.)\n• Completing their [Birdstrike](https://runescape.wiki/w/Birdstrike) achievement\n(Defeat Kree'arra 5, 10, 25, 50, 75, and 100 times in hardmode, depending on the tier.)"
+            "value":"To assist everyone who needs [Kree'arra](https://runescape.wiki/w/Kree%27arra) for:\n\n• Their [Reaper Crew](https://runescape.wiki/w/Reaper_Crew) achievement\n• Their [Final Boss](https://runescape.wiki/w/Final_Boss) title\n• Their [Insane Final Boss](https://runescape.wiki/w/Insane_Final_Boss) title\n• Completing their [Diary of the Gods](https://runescape.wiki/w/Diary_of_the_Gods) achievement\n• Completing their [Light as a feather](https://runescape.wiki/w/Light_as_a_feather) achievement\n(Obtained a collection of unique drops from Kree'arra.)\n• Completing their [Birdstrike](https://runescape.wiki/w/Birdstrike) achievement\n(Defeat Kree'arra 5, 10, 25, 50, 75, and 100 times in hardmode, depending on the tier.)"
          },
          {  
             "name":"Who:",
@@ -1261,7 +1261,7 @@
          },
          {  
             "name":"Why:",
-            "value":"To assist everyone who needs the [Giant Mole](https://runescape.wiki/w/Giant_mole) for:\n\n• Their [the Reaper](https://runescape.wiki/w/The_Reaper) title for the [Completionist Cape](https://runescape.wiki/w/Completionist_cape) [Reaper Crew requirement](https://runescape.wiki/w/Reaper_Crew)\n• Their [Final Boss](https://runescape.wiki/w/Final_Boss) title\n• Their [Insane Final Boss](https://runescape.wiki/w/Insane_Final_Boss) title\n• Completing their [Can you dig it?](https://runescape.wiki/w/Can_you_dig_it%3F) achievement\n(Obtained a collection of unique drops from the Giant Mole.)\n• Completing their [Whack a Mole](https://runescape.wiki/w/Whack_a_Mole) achievement\n(Defeat the Giant Mole 5, 10, 25, 50, 75, and 100 times in hardmode, depending on the tier.)"
+            "value":"To assist everyone who needs the [Giant Mole](https://runescape.wiki/w/Giant_mole) for:\n\n• Their [Reaper Crew](https://runescape.wiki/w/Reaper_Crew) achievement\n• Their [Final Boss](https://runescape.wiki/w/Final_Boss) title\n• Their [Insane Final Boss](https://runescape.wiki/w/Insane_Final_Boss) title\n• Completing their [Can you dig it?](https://runescape.wiki/w/Can_you_dig_it%3F) achievement\n(Obtained a collection of unique drops from the Giant Mole.)\n• Completing their [Whack a Mole](https://runescape.wiki/w/Whack_a_Mole) achievement\n(Defeat the Giant Mole 5, 10, 25, 50, 75, and 100 times in hardmode, depending on the tier.)"
          },
          {  
             "name":"Who:",
@@ -1298,7 +1298,7 @@
          },
          {  
             "name":"​Why:",
-            "value":"To assist everyone who needs [Nex](https://runescape.wiki/w/Nex) for:\n\n• Their [the Reaper](https://runescape.wiki/w/The_Reaper) title for the [Completionist Cape](https://runescape.wiki/w/Completionist_cape) [Reaper Crew requirement](https://runescape.wiki/w/Reaper_Crew)\n• Their [Final Boss](https://runescape.wiki/w/Final_Boss) title\n• Their [Insane Final Boss](https://runescape.wiki/w/Insane_Final_Boss) title"
+            "value":"To assist everyone who needs [Nex](https://runescape.wiki/w/Nex) for:\n\n• Their [Reaper Crew](https://runescape.wiki/w/Reaper_Crew) achievement\n• Their [Final Boss](https://runescape.wiki/w/Final_Boss) title\n• Their [Insane Final Boss](https://runescape.wiki/w/Insane_Final_Boss) title"
          },
          {  
             "name":"​​",
@@ -1339,7 +1339,7 @@
          },
          {  
             "name":"​Why:",
-            "value":"To assist everyone who needs [Nex](https://runescape.wiki/w/Nex) for:\n\n• Their [the Reaper](https://runescape.wiki/w/The_Reaper) title for the [Completionist Cape](https://runescape.wiki/w/Completionist_cape) [Reaper Crew requirement](https://runescape.wiki/w/Reaper_Crew)\n• Their [Final Boss](https://runescape.wiki/w/Final_Boss) title\n• Their [Insane Final Boss](https://runescape.wiki/w/Insane_Final_Boss) title"
+            "value":"To assist everyone who needs [Nex](https://runescape.wiki/w/Nex) for:\n\n• Their [Reaper Crew](https://runescape.wiki/w/Reaper_Crew) achievement\n• Their [Final Boss](https://runescape.wiki/w/Final_Boss) title\n• Their [Insane Final Boss](https://runescape.wiki/w/Insane_Final_Boss) title"
          },
          {  
             "name":"​​",
@@ -1380,7 +1380,7 @@
          },
          {  
             "name":"​Why:",
-            "value":"To assist everyone who needs [Nex](https://runescape.wiki/w/Nex) for:\n\n• Their [the Reaper](https://runescape.wiki/w/The_Reaper) title for the [Completionist Cape](https://runescape.wiki/w/Completionist_cape) [Reaper Crew requirement](https://runescape.wiki/w/Reaper_Crew)\n• Their [Final Boss](https://runescape.wiki/w/Final_Boss) title\n• Their [Insane Final Boss](https://runescape.wiki/w/Insane_Final_Boss) title"
+            "value":"To assist everyone who needs [Nex](https://runescape.wiki/w/Nex) for:\n\n• Their [Reaper Crew](https://runescape.wiki/w/Reaper_Crew) achievement\n• Their [Final Boss](https://runescape.wiki/w/Final_Boss) title\n• Their [Insane Final Boss](https://runescape.wiki/w/Insane_Final_Boss) title"
          },
          {  
             "name":"​​",
@@ -1421,7 +1421,7 @@
          },
          {  
             "name":"​Why:",
-            "value":"To assist everyone who needs [Nex: Angel of Death](https://runescape.wiki/w/Nex:_Angel_of_Death) for:\n\n• Their [the Reaper](https://runescape.wiki/w/The_Reaper) title for the [Completionist Cape](https://runescape.wiki/w/Completionist_cape) [Reaper Crew requirement](https://runescape.wiki/w/Reaper_Crew)\n• Their [Final Boss](https://runescape.wiki/w/Final_Boss) title\n• Their [Insane Final Boss](https://runescape.wiki/w/Insane_Final_Boss) title"
+            "value":"To assist everyone who needs [Nex: Angel of Death](https://runescape.wiki/w/Nex:_Angel_of_Death) for:\n\n• Their [Reaper Crew](https://runescape.wiki/w/Reaper_Crew) achievement\n• Their [Final Boss](https://runescape.wiki/w/Final_Boss) title\n• Their [Insane Final Boss](https://runescape.wiki/w/Insane_Final_Boss) title"
          },
          {  
             "name":"​​",
@@ -1462,7 +1462,7 @@
          },
          {  
             "name":"​Why:",
-            "value":"To assist everyone who needs [Nex: Angel of Death](https://runescape.wiki/w/Nex:_Angel_of_Death) for:\n\n• Their [the Reaper](https://runescape.wiki/w/The_Reaper) title for the [Completionist Cape](https://runescape.wiki/w/Completionist_cape) [Reaper Crew requirement](https://runescape.wiki/w/Reaper_Crew)\n• Their [Final Boss](https://runescape.wiki/w/Final_Boss) title\n• Their [Insane Final Boss](https://runescape.wiki/w/Insane_Final_Boss) title"
+            "value":"To assist everyone who needs [Nex: Angel of Death](https://runescape.wiki/w/Nex:_Angel_of_Death) for:\n\n• Their [Reaper Crew](https://runescape.wiki/w/Reaper_Crew) achievement\n• Their [Final Boss](https://runescape.wiki/w/Final_Boss) title\n• Their [Insane Final Boss](https://runescape.wiki/w/Insane_Final_Boss) title"
          },
          {  
             "name":"​​",
@@ -1503,7 +1503,7 @@
          },
          {  
             "name":"​Why:",
-            "value":"To assist everyone who needs [Nex: Angel of Death](https://runescape.wiki/w/Nex:_Angel_of_Death) for:\n\n• Their [the Reaper](https://runescape.wiki/w/The_Reaper) title for the [Completionist Cape](https://runescape.wiki/w/Completionist_cape) [Reaper Crew requirement](https://runescape.wiki/w/Reaper_Crew)\n• Their [Final Boss](https://runescape.wiki/w/Final_Boss) title\n• Their [Insane Final Boss](https://runescape.wiki/w/Insane_Final_Boss) title"
+            "value":"To assist everyone who needs [Nex: Angel of Death](https://runescape.wiki/w/Nex:_Angel_of_Death) for:\n\n• Their [Reaper Crew](https://runescape.wiki/w/Reaper_Crew) achievement\n• Their [Final Boss](https://runescape.wiki/w/Final_Boss) title\n• Their [Insane Final Boss](https://runescape.wiki/w/Insane_Final_Boss) title"
          },
          {  
             "name":"​​",
@@ -1544,7 +1544,7 @@
          },
          {  
             "name":"​Why:",
-            "value":"To assist everyone who needs [Nex: Angel of Death](https://runescape.wiki/w/Nex:_Angel_of_Death) for:\n\n• Their [the Reaper](https://runescape.wiki/w/The_Reaper) title for the [Completionist Cape](https://runescape.wiki/w/Completionist_cape) [Reaper Crew requirement](https://runescape.wiki/w/Reaper_Crew)\n• Their [Final Boss](https://runescape.wiki/w/Final_Boss) title\n• Their [Insane Final Boss](https://runescape.wiki/w/Insane_Final_Boss) title"
+            "value":"To assist everyone who needs [Nex: Angel of Death](https://runescape.wiki/w/Nex:_Angel_of_Death) for:\n\n• Their [Reaper Crew](https://runescape.wiki/w/Reaper_Crew) achievement\n• Their [Final Boss](https://runescape.wiki/w/Final_Boss) title\n• Their [Insane Final Boss](https://runescape.wiki/w/Insane_Final_Boss) title"
          },
          {  
             "name":"​​",
@@ -1585,7 +1585,7 @@
          },
          {  
             "name":"​Why:",
-            "value":"To assist everyone who needs [Nex: Angel of Death](https://runescape.wiki/w/Nex:_Angel_of_Death) for:\n\n• Their [the Reaper](https://runescape.wiki/w/The_Reaper) title for the [Completionist Cape](https://runescape.wiki/w/Completionist_cape) [Reaper Crew requirement](https://runescape.wiki/w/Reaper_Crew)\n• Their [Final Boss](https://runescape.wiki/w/Final_Boss) title\n• Their [Insane Final Boss](https://runescape.wiki/w/Insane_Final_Boss) title"
+            "value":"To assist everyone who needs [Nex: Angel of Death](https://runescape.wiki/w/Nex:_Angel_of_Death) for:\n\n• Their [Reaper Crew](https://runescape.wiki/w/Reaper_Crew) achievement\n• Their [Final Boss](https://runescape.wiki/w/Final_Boss) title\n• Their [Insane Final Boss](https://runescape.wiki/w/Insane_Final_Boss) title"
          },
          {  
             "name":"​​",
@@ -2257,7 +2257,7 @@
          },
          {  
             "name":"Why:",
-            "value":"To assist everyone who needs [Twin Furies](https://runescape.wiki/w/Twin_Furies) for:\n\n• Their [the Reaper](https://runescape.wiki/w/The_Reaper) title for the [Completionist Cape](https://runescape.wiki/w/Completionist_cape) [Reaper Crew requirement](https://runescape.wiki/w/Reaper_Crew)\n• Their [Final Boss](https://runescape.wiki/w/Final_Boss) title\n• Their [Insane Final Boss](https://runescape.wiki/w/Insane_Final_Boss) title\n• Completing their [Heart to Heart](https://runescape.wiki/w/Heart_to_Heart) achievement\n(Obtained a collection of unique drops from the Twin Furies.)\n• Completing their [Fast and Furious](https://runescape.wiki/w/Fast_and_Furious) achievement\n(Defeat [Avaryss](https://runescape.wiki/w/Avaryss,_the_Unceasing) and [Nymora](https://runescape.wiki/w/Nymora,_the_Vengeful) 5, 10, 25, 50, 75, and 100 times, depending on the tier.)"
+            "value":"To assist everyone who needs [Twin Furies](https://runescape.wiki/w/Twin_Furies) for:\n\n• Their [Reaper Crew](https://runescape.wiki/w/Reaper_Crew) achievement\n• Their [Final Boss](https://runescape.wiki/w/Final_Boss) title\n• Their [Insane Final Boss](https://runescape.wiki/w/Insane_Final_Boss) title\n• Completing their [Heart to Heart](https://runescape.wiki/w/Heart_to_Heart) achievement\n(Obtained a collection of unique drops from the Twin Furies.)\n• Completing their [Fast and Furious](https://runescape.wiki/w/Fast_and_Furious) achievement\n(Defeat [Avaryss](https://runescape.wiki/w/Avaryss,_the_Unceasing) and [Nymora](https://runescape.wiki/w/Nymora,_the_Vengeful) 5, 10, 25, 50, 75, and 100 times, depending on the tier.)"
          },
          {  
             "name":"Who:",
@@ -2294,7 +2294,7 @@
          },
          {  
             "name":"Why:",
-            "value":"To assist everyone who needs [Twin Furies](https://runescape.wiki/w/Twin_Furies) for:\n\n• Their [the Reaper](https://runescape.wiki/w/The_Reaper) title for the [Completionist Cape](https://runescape.wiki/w/Completionist_cape) [Reaper Crew requirement](https://runescape.wiki/w/Reaper_Crew)\n• Their [Final Boss](https://runescape.wiki/w/Final_Boss) title\n• Their [Insane Final Boss](https://runescape.wiki/w/Insane_Final_Boss) title\n• Completing their [Heart to Heart](https://runescape.wiki/w/Heart_to_Heart) achievement\n(Obtained a collection of unique drops from the Twin Furies.)\n• Completing their [Fast and Furious](https://runescape.wiki/w/Fast_and_Furious) achievement\n(Defeat [Avaryss](https://runescape.wiki/w/Avaryss,_the_Unceasing) and [Nymora](https://runescape.wiki/w/Nymora,_the_Vengeful) 5, 10, 25, 50, 75, and 100 times, depending on the tier.)"
+            "value":"To assist everyone who needs [Twin Furies](https://runescape.wiki/w/Twin_Furies) for:\n\n• Their [Reaper Crew](https://runescape.wiki/w/Reaper_Crew) achievement\n• Their [Final Boss](https://runescape.wiki/w/Final_Boss) title\n• Their [Insane Final Boss](https://runescape.wiki/w/Insane_Final_Boss) title\n• Completing their [Heart to Heart](https://runescape.wiki/w/Heart_to_Heart) achievement\n(Obtained a collection of unique drops from the Twin Furies.)\n• Completing their [Fast and Furious](https://runescape.wiki/w/Fast_and_Furious) achievement\n(Defeat [Avaryss](https://runescape.wiki/w/Avaryss,_the_Unceasing) and [Nymora](https://runescape.wiki/w/Nymora,_the_Vengeful) 5, 10, 25, 50, 75, and 100 times, depending on the tier.)"
          },
          {  
             "name":"Who:",
@@ -2368,7 +2368,7 @@
          },
          {  
             "name":"Why:",
-            "value":"To assist everyone who needs [Vindicta](https://runescape.wiki/w/Vindicta) for:\n\n• Their [the Reaper](https://runescape.wiki/w/The_Reaper) title for the [Completionist Cape](https://runescape.wiki/w/Completionist_cape) [Reaper Crew requirement](https://runescape.wiki/w/Reaper_Crew)\n• Their [Final Boss](https://runescape.wiki/w/Final_Boss) title\n• Their [Insane Final Boss](https://runescape.wiki/w/Insane_Final_Boss) title\n• Completing their [Revenge Is Sweet](https://runescape.wiki/w/Revenge_Is_Sweet) achievement\n(Obtained a collection of unique drops from Vindicta/[Gorvek](https://runescape.wiki/w/Gorvek).)\n• Completing their [Vindictive and Vexatious](https://runescape.wiki/w/Vindictive_and_Vexatious) achievement\n(Defeat Vindicta and Gorvek 5, 10, 25, 50, 75, and 100 times, depending on the tier.)"
+            "value":"To assist everyone who needs [Vindicta](https://runescape.wiki/w/Vindicta) for:\n\n• Their [Reaper Crew](https://runescape.wiki/w/Reaper_Crew) achievement\n• Their [Final Boss](https://runescape.wiki/w/Final_Boss) title\n• Their [Insane Final Boss](https://runescape.wiki/w/Insane_Final_Boss) title\n• Completing their [Revenge Is Sweet](https://runescape.wiki/w/Revenge_Is_Sweet) achievement\n(Obtained a collection of unique drops from Vindicta/[Gorvek](https://runescape.wiki/w/Gorvek).)\n• Completing their [Vindictive and Vexatious](https://runescape.wiki/w/Vindictive_and_Vexatious) achievement\n(Defeat Vindicta and Gorvek 5, 10, 25, 50, 75, and 100 times, depending on the tier.)"
          },
          {  
             "name":"Who:",
@@ -2405,7 +2405,7 @@
          },
          {  
             "name":"Why:",
-            "value":"To assist everyone who needs [Vindicta](https://runescape.wiki/w/Vindicta) for:\n\n• Their [the Reaper](https://runescape.wiki/w/The_Reaper) title for the [Completionist Cape](https://runescape.wiki/w/Completionist_cape) [Reaper Crew requirement](https://runescape.wiki/w/Reaper_Crew)\n• Their [Final Boss](https://runescape.wiki/w/Final_Boss) title\n• Their [Insane Final Boss](https://runescape.wiki/w/Insane_Final_Boss) title\n• Completing their [Revenge Is Sweet](https://runescape.wiki/w/Revenge_Is_Sweet) achievement\n(Obtained a collection of unique drops from Vindicta/[Gorvek](https://runescape.wiki/w/Gorvek).)\n• Completing their [Vindictive and Vexatious](https://runescape.wiki/w/Vindictive_and_Vexatious) achievement\n(Defeat Vindicta and Gorvek 5, 10, 25, 50, 75, and 100 times, depending on the tier.)"
+            "value":"To assist everyone who needs [Vindicta](https://runescape.wiki/w/Vindicta) for:\n\n• Their [Reaper Crew](https://runescape.wiki/w/Reaper_Crew) achievement\n• Their [Final Boss](https://runescape.wiki/w/Final_Boss) title\n• Their [Insane Final Boss](https://runescape.wiki/w/Insane_Final_Boss) title\n• Completing their [Revenge Is Sweet](https://runescape.wiki/w/Revenge_Is_Sweet) achievement\n(Obtained a collection of unique drops from Vindicta/[Gorvek](https://runescape.wiki/w/Gorvek).)\n• Completing their [Vindictive and Vexatious](https://runescape.wiki/w/Vindictive_and_Vexatious) achievement\n(Defeat Vindicta and Gorvek 5, 10, 25, 50, 75, and 100 times, depending on the tier.)"
          },
          {  
             "name":"Who:",
@@ -2442,7 +2442,7 @@
          },
          {  
             "name":"​Why:",
-            "value":"To assist everyone who needs Vorago for:\n\n• Their [the Reaper](https://runescape.wiki/w/The_Reaper) title for the [Completionist Cape](https://runescape.wiki/w/Completionist_cape) [Reaper Crew requirement](https://runescape.wiki/w/Reaper_Crew)\n• Their [Final Boss](https://runescape.wiki/w/Final_Boss) title\n• Their [Insane Final Boss](https://runescape.wiki/w/Insane_Final_Boss) title\n• Killcount to work towards the [Vitalis Pet](https://runescape.wiki/w/Vitalis_(pet) via the [Ancient summoning stone](https://runescape.wiki/w/Ancient_summoning_stone)\n• A chance of loot from Vorago's [drop table](https://runescape.wiki/w/Vorago#Drops)"
+            "value":"To assist everyone who needs Vorago for:\n\n• Their [Reaper Crew](https://runescape.wiki/w/Reaper_Crew) achievement\n• Their [Final Boss](https://runescape.wiki/w/Final_Boss) title\n• Their [Insane Final Boss](https://runescape.wiki/w/Insane_Final_Boss) title\n• Killcount to work towards the [Vitalis Pet](https://runescape.wiki/w/Vitalis_(pet) via the [Ancient summoning stone](https://runescape.wiki/w/Ancient_summoning_stone)\n• A chance of loot from Vorago's [drop table](https://runescape.wiki/w/Vorago#Drops)"
          },
          {  
             "name":"​​",
@@ -2483,7 +2483,7 @@
          },
          {  
             "name":"​Why:",
-            "value":"To assist everyone who needs Vorago for:\n\n• Their [the Reaper](https://runescape.wiki/w/The_Reaper) title for the [Completionist Cape](https://runescape.wiki/w/Completionist_cape) [Reaper Crew requirement](https://runescape.wiki/w/Reaper_Crew)\n• Their [Final Boss](https://runescape.wiki/w/Final_Boss) title\n• Their [Insane Final Boss](https://runescape.wiki/w/Insane_Final_Boss) title\n• Killcount to work towards the [Vitalis Pet](https://runescape.wiki/w/Vitalis_(pet) via the [Ancient summoning stone](https://runescape.wiki/w/Ancient_summoning_stone)\n• A chance of loot from Vorago's [drop table](https://runescape.wiki/w/Vorago#Drops)"
+            "value":"To assist everyone who needs Vorago for:\n\n• Their [Reaper Crew](https://runescape.wiki/w/Reaper_Crew) achievement\n• Their [Final Boss](https://runescape.wiki/w/Final_Boss) title\n• Their [Insane Final Boss](https://runescape.wiki/w/Insane_Final_Boss) title\n• Killcount to work towards the [Vitalis Pet](https://runescape.wiki/w/Vitalis_(pet) via the [Ancient summoning stone](https://runescape.wiki/w/Ancient_summoning_stone)\n• A chance of loot from Vorago's [drop table](https://runescape.wiki/w/Vorago#Drops)"
          },
          {  
             "name":"​​",
@@ -2524,7 +2524,7 @@
          },
          {  
             "name":"Why:",
-            "value":"To assist everyone who needs [Zilyana](https://runescape.wiki/w/Zilyana) for:\n\n• Their [the Reaper](https://runescape.wiki/w/The_Reaper) title for the [Completionist Cape](https://runescape.wiki/w/Completionist_cape) [Reaper Crew requirement](https://runescape.wiki/w/Reaper_Crew)\n• Their [Final Boss](https://runescape.wiki/w/Final_Boss) title\n• Their [Insane Final Boss](https://runescape.wiki/w/Insane_Final_Boss) title\n• Completing their [Diary of the Gods](https://runescape.wiki/w/Diary_of_the_Gods) achievement\n• Completing their [Keeper of the Faith](https://runescape.wiki/w/Keeper_of_the_Faith) achievement\n(Obtained a collection of unique drops from Zilyana.)\n• Completing their [Zillier Way To Die](https://runescape.wiki/w/Zillier_Way_To_Die) achievement\n(Defeat Zilyana 5, 10, 25, 50, 75, and 100 times in hardmode, depending on the tier.)"
+            "value":"To assist everyone who needs [Zilyana](https://runescape.wiki/w/Zilyana) for:\n\n• Their [Reaper Crew](https://runescape.wiki/w/Reaper_Crew) achievement\n• Their [Final Boss](https://runescape.wiki/w/Final_Boss) title\n• Their [Insane Final Boss](https://runescape.wiki/w/Insane_Final_Boss) title\n• Completing their [Diary of the Gods](https://runescape.wiki/w/Diary_of_the_Gods) achievement\n• Completing their [Keeper of the Faith](https://runescape.wiki/w/Keeper_of_the_Faith) achievement\n(Obtained a collection of unique drops from Zilyana.)\n• Completing their [Zillier Way To Die](https://runescape.wiki/w/Zillier_Way_To_Die) achievement\n(Defeat Zilyana 5, 10, 25, 50, 75, and 100 times in hardmode, depending on the tier.)"
          },
          {  
             "name":"Who:",
