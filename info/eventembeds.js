@@ -1721,7 +1721,7 @@
       "fields":[  
          {  
             "name":"​Where:",
-            "value":"[The Void Knights' Outpost](https://runescape.wiki/w/Void_Knights%27_Outpost), World 68 in the \"AHelp\" friends chat."
+            "value":"[The Void Knights' Outpost](https://runescape.wiki/w/Void_Knights%27_Outpost), World 53 in the \"AHelp\" friends chat."
          },
          {  
             "name":"​Why:",
