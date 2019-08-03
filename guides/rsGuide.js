@@ -58,7 +58,7 @@ exports.data = {
         "name": "Cape Info",
         "icon_url": "https://i.imgur.com/6c6q2iC.png"
       },
-      "description": "[Reaper Crew](https://runescape.wiki/w/Reaper_Crew) is an achievement that requires the player to obtain the [[Name] **the Reaper**](https://runescape.wiki/w/The_Reaper) title by defeating every [boss](https://runescape.wiki/w/Boss) at least once.\n\nThis does not include [hard mode/challenge mode](https://runescape.wiki/w/Hard_mode) variants.\n\nCompleting this achievement unlocks the title the Reaper and adds the following stats to the player at all times:\n\n• +200 [life points](https://runescape.wiki/w/Life_points)\n• +20 armour\n• +2 [Prayer bonus](https://runescape.wiki/w/Prayer_bonus)\n• +12 Melee Strength\n• +12 Ranged Strength\n• +12 Magic Strength\n\nIf you need help with a certain group boss, you may make a post in the <#436714722847621120> channel, filling out the pinned form. Alternatively, check the <#458052251299348490> channel for invite links to Discord servers that we're partnered with to assist with bossing needs.",
+      "description": "[Reaper Crew](https://runescape.wiki/w/Reaper_Crew) is an achievement that requires the player to obtain the [Name] [**the Reaper**](https://runescape.wiki/w/The_Reaper) title by defeating every [boss](https://runescape.wiki/w/Boss) at least once.\n\nThis does not include [hard mode/challenge mode](https://runescape.wiki/w/Hard_mode) variants.\n\nCompleting this achievement unlocks the title the Reaper and adds the following stats to the player at all times:\n\n• +200 [life points](https://runescape.wiki/w/Life_points)\n• +20 armour\n• +2 [Prayer bonus](https://runescape.wiki/w/Prayer_bonus)\n• +12 Melee Strength\n• +12 Ranged Strength\n• +12 Magic Strength\n\nIf you need help with a certain group boss, you may make a post in the <#436714722847621120> channel, filling out the pinned form. Alternatively, check the <#458052251299348490> channel for invite links to Discord servers that we're partnered with to assist with bossing needs.",
       "thumbnail": {
         "url": "https://i.imgur.com/Shmagnp.png"
       },
@@ -1598,7 +1598,7 @@ exports.data = {
       "name": "RuneScore Achievement Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[The Purple Dart](https://runescape.wiki/w/The_Purple_Dart) is an achievement that requires the player to defeat [The Violet Lotus](https://runescape.wiki/w/The_Violet_Lotus) mini-boss in the [Temple of Aminishi](https://runescape.wiki/w/Temple_of_Aminishi) using [Elite Death Lotus darts](https://runescape.wiki/w/Elite_Death_Lotus_dart).\n\nThe Violet Lotus can be found in the fourth chamber, north of the training room, just before [Masuta the Ascended](https://runescape.wiki/w/Masuta_the_Ascended). It should be noted that not every mini-boss will not spawn on every run. They can be identified with a red skull icon in the mini-map.\n\nElite Death Lotus darts are Ranged weapons from the [Eastern Lands](https://runescape.wiki/w/Wushanko_Isles), unlocked through a [Player-owned port](https://runescape.wiki/w/Player-owned_port). They are equipped in the main hand slot. They can be created at level 92 Fletching, requiring 2 [lacquer](https://runescape.wiki/w/Lacquer), 25 [Death Lotus darts](https://runescape.wiki/w/Death_Lotus_dart) and 1 [Death lotus extract](https://runescape.wiki/w/Death_lotus_extract).\n\n Death lotus darts are also created through the Player-owned ports, requiring one set of [ancient bones](https://runescape.wiki/w/Ancient_bones) and 25 [ascension shards](https://runescape.wiki/w/Ascension_shard).\n\nDeath lotus extract is an item that can be bought for 5,000 [Dungeoneering tokens](https://runescape.wiki/w/Dungeoneering_token) from the [Elite Dungeon Aminishi Reward Shop](https://runescape.wiki/w/Elite_Dungeon_Aminishi_Reward_Shop) run by [Bryll Thoksdottir](https://runescape.wiki/w/Bryll_Thoksdottir) on [Aminishi](https://runescape.wiki/w/Aminishi).\n\nThis achievement can only be completed normal mode.",
+    "description": "[The Purple Dart](https://runescape.wiki/w/The_Purple_Dart) is an achievement that requires the player to defeat [The Violet Lotus](https://runescape.wiki/w/The_Violet_Lotus) mini-boss in the [Temple of Aminishi](https://runescape.wiki/w/Temple_of_Aminishi) using [Elite Death Lotus darts](https://runescape.wiki/w/Elite_Death_Lotus_dart).\n\nThe Violet Lotus can be found in the fourth chamber, north of the training room, just before [Masuta the Ascended](https://runescape.wiki/w/Masuta_the_Ascended). It should be noted that not every mini-boss will not spawn on every run. They can be identified with a red skull icon in the mini-map.\n\nElite Death Lotus darts are Ranged weapons from the [Eastern Lands](https://runescape.wiki/w/Wushanko_Isles), unlocked through a [Player-owned port](https://runescape.wiki/w/Player-owned_port). They are equipped in the main hand slot. They can be created at level 92 Fletching, requiring 2 [lacquer](https://runescape.wiki/w/Lacquer), 25 [Death Lotus darts](https://runescape.wiki/w/Death_Lotus_dart) and 1 [Death lotus extract](https://runescape.wiki/w/Death_lotus_extract).\n\n Death lotus darts are also created through the Player-owned ports, requiring one set of [ancient bones](https://runescape.wiki/w/Ancient_bones) and 25 [ascension shards](https://runescape.wiki/w/Ascension_shard).\n\nDeath lotus extract is an item that can be bought for 5,000 [Dungeoneering tokens](https://runescape.wiki/w/Dungeoneering_token) from the [Elite Dungeon Aminishi Reward Shop](https://runescape.wiki/w/Elite_Dungeon_Aminishi_Reward_Shop) run by [Bryll Thoksdottir](https://runescape.wiki/w/Bryll_Thoksdottir) on [Aminishi](https://runescape.wiki/w/Aminishi).\n\nThis achievement can only be completed in normal mode.",
     "thumbnail": {
       "url": "https://i.imgur.com/Shmagnp.png"
     },
@@ -1818,7 +1818,7 @@ exports.data = {
       "name": "RuneScore Achievement Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Final Boss](https://runescape.wiki/w/Final_Boss_(achievement) is an achievement that requires the player to defeat all bosses 100 times and have a total of 5,000 boss kills. Hardmode is not required, but hardmode kills do count as regular kills. If hardmode kills are used to unlock the Final Boss title, but the player lacks 100 kills in normal mode for any boss, the achievement remains locked, although the title itself can still be worn. Completing this achievement awards the **Final Boss [Name]** title.\n\nIt is highly recommended that the player does their daily [Soul Reaper assignments](https://runescape.wiki/w/Soul_Reaper#Assignments). This will break up the grind so the player does not have to camp a single boss all the way through.",
+    "description": "[Final Boss](https://runescape.wiki/w/Final_Boss_(achievement) is an achievement that requires the player to defeat all bosses 100 times and have a total of 5,000 boss kills. Hardmode is not required, but hardmode kills do count as regular kills. If hardmode kills are used to unlock the Final Boss title, but the player lacks 100 kills in normal mode for any boss, the achievement remains locked, although the title itself can still be worn. Completing this achievement awards the **Final Boss** [Name] title.\n\nIt is highly recommended that the player does their daily [Soul Reaper assignments](https://runescape.wiki/w/Soul_Reaper#Assignments). This will break up the grind so the player does not have to camp a single boss all the way through.",
     "color": 10257648,
     "thumbnail": {
       "url": "https://i.imgur.com/Shmagnp.png"
@@ -1849,6 +1849,32 @@ exports.data = {
     },
     "timestamp": "2001-01-04T12:00:00Z"
   },
+  "combat - general - i know you are but what am i": {
+        "title": "I Know You Are But What Am I (Combat, General)",
+        "author":
+        {
+            "name": "RuneScore Achievement Info",
+            "icon_url": "https://i.imgur.com/6c6q2iC.png"
+        },
+        "description": "[I Know You Are But What Am I](https://runescape.wiki/w/I_Know_You_Are_But_What_Am_I)  is an achievement that requires the player to attempt to use the special dragonfire attack from a [Dragonfire shield](https://runescape.wiki/w/Dragonfire_shield), [Dragonfire ward](https://runescape.wiki/w/Dragonfire_ward), or [Dragonfire deflector](https://runescape.wiki/w/Dragonfire_deflector) on a dragon.",
+        "thumbnail":
+        {
+            "url": "https://i.imgur.com/Shmagnp.png"
+        },
+        "fields":
+        [
+            {
+                "name": "Requirements:",
+                "value": "• 70 Defence"
+            }
+        ],
+        "footer":
+        {
+            "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+            "text": "RuneScore awarded: 10"
+        },
+      "timestamp": "2001-01-04T12:00:00Z"
+  },
   "combat - general - insane final boss": {
     "title": "Insane Final Boss",
     "author": {
@@ -1862,7 +1888,7 @@ exports.data = {
     },
     "fields": [{
       "name": "​",
-      "value": "Completing this achievement awards the **Insane Final Boss [Name]** title.\n\nIt is highly recommended that the player does their daily [Soul Reaper assignments](https://runescape.wiki/w/Soul_Reaper#Assignments). This will give a chance on a boss pet from the corresponding assignment while breaking up the grind so the player does not have to camp a single boss trying to get the pets 1 by 1."
+      "value": "Completing this achievement awards the **Insane Final Boss** [Name] title.\n\nIt is highly recommended that the player does their daily [Soul Reaper assignments](https://runescape.wiki/w/Soul_Reaper#Assignments). This will give a chance on a boss pet from the corresponding assignment while breaking up the grind so the player does not have to camp a single boss trying to get the pets 1 by 1."
     }],
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
@@ -1889,6 +1915,38 @@ exports.data = {
       "text": "RuneScore awarded: 30"
     },
 "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "combat - general - race for the soul: 20 - 6 minutes": {
+        "title": "Race for the soul: 20 - 6 minutes (Combat, General)",
+        "author":
+        {
+            "name": "RuneScore Achievement Info",
+            "icon_url": "https://i.imgur.com/6c6q2iC.png"
+        },
+        "description": "[Race for the soul](https://rs.wiki/Race_for_the_soul) is a scaling achievement that requires the player to defeat the [Memory of Nomad](https://rs.wiki/Memory_of_Nomad) encounter in under 20, 16, 14, 12, 10, 8, and 6 minutes respectively.",
+        "thumbnail":
+        {
+            "url": "https://i.imgur.com/Shmagnp.png"
+        },
+        "fields":
+        [
+           
+            {
+                 "name": "Requirements:",
+                 "value": "• Nomad's Elegy Quest completion | [Runescape Wiki](https://rs.wiki/Nomad%27s_Elegy)"
+            },
+           
+            {
+                 "name": "Guide:",
+                 "value": "• [Hard Mode Nomad Guide | The Junesong - YouTube](https://rs.wiki/Nomad%27s_Elegy)"
+            }
+        ],
+        "footer":
+        {
+            "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+            "text": "RuneScore awarded: 5, 5, 5, 5, 5, 5, 5 [35]"
+        },
+    "timestamp": "2001-01-04T12:00:00Z"
   },
   "combat - general - shattering worlds pt1": {
     "title": "Shattering Worlds I-VI",
@@ -3140,6 +3198,34 @@ exports.data = {
     },
 "timestamp": "2001-01-04T12:00:00Z"
   },
+  "combat - solo pvm - kill count still counts": {
+        "title": "Kill Count Still Counts (Combat, Solo PvM)",
+        "author":
+        {
+            "name": "RuneScore Achievement Info",
+            "icon_url": "https://i.imgur.com/6c6q2iC.png"
+        },
+        "description": "[Kill Count Still Counts](https://runescape.wiki/w/Kill_Count_Still_Counts) is an achievement that requires the player to create an [Omni soulstone](https://runescape.wiki/w/Omni_soulstone).\n\nAn omni soulstone is created by combining the [Zamorakian soulstone](https://runescape.wiki/w/Zamorakian_soulstone), [Saradominist soulstone](https://runescape.wiki/w/Saradominist_soulstone), [Bandosian soulstone](https://runescape.wiki/w/Bandosian_soulstone), and [Armadylean soulstone](https://runescape.wiki/w/Armadylean_soulstone). This can only be done when in close proximity to the altar just east of the rope exit in the [God Wars Dungeon](https://runescape.wiki/w/God_Wars_Dungeon).\n\nEach soulstone has a drop rate of 1/25 from the hard mode version of the respective God Wars general.",
+        "thumbnail":
+        {
+            "url": "https://i.imgur.com/Shmagnp.png"
+        },
+        "fields":
+        [
+           
+            {
+                 "name": "Requirements:",
+                 "value": "• 70 Agility\n• 70 Constitution\n• 70 Ranged\n• 70 Strength"
+            }
+           
+        ],
+        "footer":
+        {
+            "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+            "text": "RuneScore awarded: 30"
+        },
+      "timestamp": "2001-01-04T12:00:00Z"
+  },
   "combat - solo pvm - like a boss": {
     "title": "Like A Boss",
     "author": {
@@ -3554,6 +3640,36 @@ exports.data = {
     },
 "timestamp": "2001-01-04T12:00:00Z"
   },
+  "exploration - anachronia - a new direction": {
+    "title": "A New Direction (Exploration, Anachronia)",
+    "author":
+    {
+      "name": "Cape Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[A New Direction](https://rs.wiki/A_New_Direction) is an achievement that requires the player to reunite [Irwinsson](https://rs.wiki/Irwinsson) with his lost [compass](https://rs.wiki/Engraved_compass). \n\n Players can find a [Broken compass](https://rs.wiki/Broken_compass) in a damaged backpack at the shipwreck on the western coast of [Anachronia](https://rs.wiki/Anachronia).\n\nIt is Irwinsson's lucky compass, and if brought to him he will beg the player to repair it. The [Compass arrow](https://rs.wiki/Compass_arrow) can be found after skinning a creature during [Big Game Hunter](https://rs.wiki/Big_Game_Hunter). Using the arrow on the broken compass makes the [Engraved compass](https://rs.wiki/Engraved_compass).",
+    "thumbnail":
+    {
+      "url": "https://i.imgur.com/Shmagnp.png"
+    },
+    "image":
+    {
+      "url": "https://runescape.wiki/images/7/70/Broken_compass_location.png"
+    },
+    "fields":
+    [
+      {
+        "name": "Requirements:",
+        "value": "• 75 Hunter\n• 55 Slayer"
+      }
+    ],
+    "footer":
+    {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+      "text": "RuneScore awarded: 10"
+    },
+    "timestamp": "2001-01-04T12:00:00Z"
+  },
   "exploration - anachronia - bag of herbs": {
       "title": "Bag of Herbs (Exploration, Anachronia)",
       "author": {
@@ -3620,6 +3736,436 @@ exports.data = {
             },
             "timestamp": "2001-01-04T12:00:00Z"
         },
+  "exploration - anachronia - do you think he saw us?": {
+        "title": "Do You Think He Saw Us? (Exploration, Anachronia)",
+        "author":
+        {
+            "name": "RuneScore Achievement Info",
+            "icon_url": "https://i.imgur.com/6c6q2iC.png"
+        },
+        "description": "[Do You Think He Saw Us?](https://runescape.wiki/w/Do_You_Think_He_Saw_Us%3F) is an achievement that requires the player to be caught by each dinosaur in [Big Game Hunter](https://runescape.wiki/w/Big_Game_Hunter) once.",
+        "thumbnail":
+        {
+            "url": "https://i.imgur.com/Shmagnp.png"
+        },
+        "fields":
+        [
+            {
+                 "name": "Dinosaurs:",
+                 "value": "• [Arcane apoterrasaur](https://runescape.wiki/w/Arcane_apoterrasaur)\n• [Scimitops](https://runescape.wiki/w/Scimitops)\n• [Bagrada rex](https://runescape.wiki/w/Bagrada_rex)\n• [Spicati apoterrasaur](https://runescape.wiki/w/Spicati_apoterrasaur)\n• [Asciatops](https://runescape.wiki/w/Asciatops)\n• [Corbicula rex](https://runescape.wiki/w/Corbicula_rex)\n• [Oculi apoterrasaur](https://runescape.wiki/w/Oculi_apoterrasaur)\n• [Malletops](https://runescape.wiki/w/Malletops)\n• [Pavosaurus rex](https://runescape.wiki/w/Pavosaurus_rex)"
+            },
+            {
+                 "name": "Requirements:",
+                 "value": "• 96 Hunter \n• 76 Slayer"
+            }
+           
+        ],
+        "footer":
+        {
+            "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+            "text": "RuneScore awarded: 5"
+        }
+    },
+  "exploration - anachronia - end of the world": {
+    "title": "End Of The World (Exploration, Anachronia)",
+    "author":
+    {
+      "name": "Cape Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[End Of The World](https://rs.wiki/End_Of_The_World) is an achievement that requires the player to use [Meteor Strike](https://rs.wiki/Meteor_Strike) on each type of attackable dinosaur on [Anachronia](https://rs.wiki/Anachronia).",
+    "thumbnail":
+    {
+      "url": "https://i.imgur.com/Shmagnp.png"
+    },
+    "fields":
+    [
+      {
+        "name": "Dinosaur types:",
+        "value": "• [Ripper dinosaur](https://rs.wiki/Ripper_dinosaur)\n• [Brutish dinosaur](https://rs.wiki/Brutish_dinosaur)\n• [Feral Dinosaur](https://rs.wiki/Feral_dinosaur)\n• [Venomous dinosaur](https://rs.wiki/Venomous_dinosaur)"
+      },
+      {
+        "name": "Requirements:",
+        "value": "• 81 Attack\n• 114 Slayer"
+      }
+    ],
+    "footer":
+    {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+      "text": "RuneScore awarded: 10"
+    },
+    "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "exploration - anachronia - father and son": {
+    "title": "Father And Son (Exploration, Anachronia)",
+    "author":
+    {
+      "name": "Cape Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[Father And Son](https://rs.wiki/Father_And_Son) is an achievement that requires the player to speak to [Sigli the Huntsman](https://rs.wiki/Sigli_the_Huntsman) in [Rellekka](https://rs.wiki/Rellekka) and return the [bow](https://rs.wiki/Irwinsson%27s_greatbow) to [Irwinsson](https://rs.wiki/Irwinsson), after first having spoken to Irwinsson on [Anachronia](https://rs.wiki/Anachronia) and selecting the chat option \"Tell me about yourself\".",
+    "thumbnail":
+    {
+      "url": "https://i.imgur.com/Shmagnp.png"
+    },
+    "fields":
+    [
+      {
+        "name": "Requirements:",
+        "value": "• None"
+      }
+    ],
+    "footer":
+    {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+      "text": "RuneScore awarded: 10"
+    },
+    "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "exploration - anachronia - got to go around it": {
+    "title": "Got to Go Around It (Exploration, Anachronia)",
+    "author":
+    {
+      "name": "RuneScore Achievement Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[Got to Go Around It](https://runescape.wiki/w/Got_to_Go_Around_It) is an achievement that requires the player to complete a [Big Game Hunter](https://runescape.wiki/w/Big_Game_Hunter) encounter without stepping into the creature's vision ring.\n\nBeing hidden in the tall grass does not count as being within the vision ring.",
+    "thumbnail":
+    {
+      "url": "https://i.imgur.com/Shmagnp.png"
+    },
+    "fields":
+    [
+      {
+        "name": "Requirements:",
+        "value": "• 75 Hunter \n• 55 Slayer"
+      }
+
+    ],
+    "footer":
+    {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+      "text": "RuneScore awarded: 10"
+    }
+  },
+  "exploration - anachronia - gotta go fast": {
+    "title": "Gotta Go Fast (Exploration, Anachronia)",
+    "author":
+    {
+      "name": "Cape Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[Gotta Go Fast](https://rs.wiki/Gotta_Go_Fast) is an achievement that requires the player to unlock double [Surge](https://rs.wiki/Surge) and double [Escape](https://rs.wiki/Escape) ability upgrades.\n\nThe [Double Surge](https://runescape.wiki/w/Double_Surge_codex) and [Double Escape](https://runescape.wiki/w/Double_Escape_codex) codices are items that can be read to unlock an upgrade to the respective abilities, giving them an extra charge with a separate hidden cooldown. The untradeable versions can be created with 500 [Codex pages](https://runescape.wiki/w/Codex_page) or the tradeable versions can be purchased from the [Grand Exchange](https://runescape.wiki/w/Grand_Exchange).\n\nCodex pages can be found by training on the [Agility course](https://runescape.wiki/w/Anachronia_Agility_Course) on [Anachronia](https://runescape.wiki/w/Anachronia). The player receives 10 pages every time a lap is completed. There is an additional chance to find 1–3 pages when traversing an obstacle (including the final obstacle).\n\nSearching the [lectern](https://runescape.wiki/w/Lectern_(Anachronia%29), just south-east of the lodestone at the [Anachronia base camp](https://runescape.wiki/w/Anachronia_base_camp), yields 25 codex pages; this can be done only once. At least tier three [luck](https://runescape.wiki/w/Luck) (such as the [Ring of fortune](https://runescape.wiki/w/Ring_of_fortune) and above, or a charged [Collector's insignia](https://runescape.wiki/w/Collector%27s_insignia)) increases the chance to receive bonus pages from obstacles.",
+    "thumbnail":
+    {
+      "url": "https://i.imgur.com/Shmagnp.png"
+    },
+    "fields":
+    [
+      {
+        "name": "Requirements:",
+        "value": "• None"
+      }
+    ],
+    "footer":
+    {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+      "text": "RuneScore awarded: 10"
+    },
+    "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "exploration - anachronia - helping laniakea": {
+    "title": "Helping Laniakea (Miscellaneous, Miniquests)",
+    "author":
+    {
+      "name": "Cape Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[Helping Laniakea](https://rs.wiki/Helping_Laniakea_(achievement%29) is an achievement that requires the player to complete the [miniquest of the same name](https://rs.wiki/Helping_Laniakea).",
+    "thumbnail":
+    {
+      "url": "https://i.imgur.com/Shmagnp.png"
+    },
+    "fields":
+    [
+      {
+        "name": "Requirements:",
+        "value": "• None"
+      },
+      {
+        "name": "Guide:",
+        "value": "• [Helping Laniakea Miniquest Guide | Bibzuda7 - YouTube](https://www.youtube.com/watch?v=ynJMNvmnrZo)"
+      }
+    ],
+    "footer":
+    {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+      "text": "RuneScore awarded: 10"
+    },
+    "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "exploration - anachronia - home away from home": {
+    "title": "Home Away From Home (Exploration, Anachronia)",
+    "author":
+    {
+      "name": "Cape Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[Home Away From Home](https://rs.wiki/Home_Away_From_Home) is an achievement that requires the player to build their [Player Lodge](https://runescape.wiki/w/Anachronia_base_camp#Player_Lodge) on [Anachronia](https://rs.wiki/Anachronia).",
+    "thumbnail":
+    {
+      "url": "https://i.imgur.com/Shmagnp.png"
+    },
+    "fields":
+    [
+      {
+        "name": "Requirements:",
+        "value": "• None"
+      }
+    ],
+    "footer":
+    {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+      "text": "RuneScore awarded: 10"
+    },
+    "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "exploration - anachronia - in a flash": {
+    "title": "In A Flash (Exploration, Anachronia)",
+    "author":
+    {
+      "name": "Cape Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[In A Flash](https://rs.wiki/In_A_Flash) is an achievement that requires the player to complete the [Anachronia agility course](https://runescape.wiki/w/Anachronia_Agility_Course) in under 7 minutes.\n\nCombining the use of the [Double surge codex](https://runescape.wiki/w/Double_surge_codex), [Bladed Dive](https://runescape.wiki/w/Bladed_Dive) ability, and [Mobile](https://runescape.wiki/w/Mobile) perk is highly recommended, however it is possible with only the use of [Surge](https://runescape.wiki/w/Surge).",
+    "thumbnail":
+    {
+      "url": "https://i.imgur.com/Shmagnp.png"
+    },
+    "image":
+    {
+      "url": "https://runescape.wiki/images/8/87/Anachronia_Agility_Course_map.png"
+    },
+    "fields":
+    [
+      {
+        "name": "Requirements:",
+        "value": "• 85 Agility"
+      },
+      {
+        "name": "Guide:",
+        "value": "[Anachronia Agility Course Map | Runescape Wiki](https://runescape.wiki/images/8/87/Anachronia_Agility_Course_map.png)"
+      }
+    ],
+    "footer":
+    {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+      "text": "RuneScore awarded: 5"
+    },
+    "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "exploration - anachronia - in and out, nice and slow": {
+    "title": "In and Out, Nice and Slow (Exploration, Anachronia)",
+    "author":
+    {
+      "name": "RuneScore Achievement Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[In and Out, Nice and Slow](https://runescape.wiki/w/In_and_Out,_Nice_and_Slow) is an achievement that requires the player to complete a [Big Game Hunter](https://runescape.wiki/w/Big_Game_Hunter) encounter without using movement abilities.",
+    "thumbnail":
+    {
+      "url": "https://i.imgur.com/Shmagnp.png"
+    },
+    "fields":
+    [
+      {
+        "name": "Requirements:",
+        "value": "• 75 Hunter \n• 55 Slayer"
+      }
+
+    ],
+    "footer":
+    {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+      "text": "RuneScore awarded: 10"
+    }
+  },
+  "exploration - anachronia - jurassic perk": {
+    "title": "Jurassic Perk (Exploration, Anachronia)",
+    "author":
+    {
+      "name": "Cape Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[Jurassic Perk](https://rs.wiki/Jurassic_Perk) is an achievement that requires the player to discover all the [totem pieces](https://rs.wiki/Totems) on [Anachronia](https://rs.wiki/Anachronia).\n\nTotems are items craftable by combining totem tops, middles, and bottoms, found on Anachronia. They can be placed to grant various passive bonuses to the player. Totem pieces can be stored in a [Totem bag](https://runescape.wiki/w/Totem_bag).\n\nAfter assembling a totem, it can be placed at one of three locations on Anachronia. These areas are marked by the [Distractions & Diversions](https://runescape.wiki/w/Distractions_and_Diversions) icon <:DnD_icon:598584831911264292> at the far west, north, and southeast areas on [this map of the island](https://runescape.wiki/images/8/86/Totem_ritual_locations.png).\n\nTo activate it, the player has to interact with it and charge it. Whilst the totem is being charged, [Temporal instabilities](https://runescape.wiki/w/Temporal_instability) can appear which can be closed simply by clicking on them. Charging the totem and closing the instabilities awards [Divination](https://runescape.wiki/w/Divination) experience. Once placed the totem cannot be removed until the next weekly reset.\n\nThe player must recharge the totems after every weekly reset to retain their bonuses.",
+    "thumbnail":
+    {
+      "url": "https://i.imgur.com/Shmagnp.png"
+    },
+    "fields":
+    [
+      {
+        "name": "Requirements:",
+        "value": "• 30 Agility\n• 75 Hunter\n• 90 Slayer\n• 81 Woodcutting"
+      },
+      {
+        "name": "Guide:",
+        "value": "• [Totem Components guide | Runescape Wiki](https://runescape.wiki/w/Totem_(Anachronia%29#How_to_obtain_Totem_pieces)"
+      }
+    ],
+    "footer":
+    {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+      "text": "RuneScore awarded: 30"
+    },
+    "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "exploration - anachronia - leave no zygomite buried": {
+    "title": "Leave No Zygomite Buried (Exploration, Anachronia)",
+    "author":
+    {
+      "name": "Cape Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[Leave No Zygomite Buried](https://rs.wiki/Leave_No_Zygomite_Buried) is an achievement that requires the player to find all 60 [Ancient zygomites](https://rs.wiki/Ancient_zygomite) on [Anachronia](https://rs.wiki/Anachronia).",
+    "thumbnail":
+    {
+      "url": "https://i.imgur.com/Shmagnp.png"
+    },
+    "image":
+    {
+      "url": "https://runescape.wiki/images/thumb/f/f1/Ancient_zygomite_map.png/628px-Ancient_zygomite_map.png?618df"
+    },
+    "fields":
+    [
+      {
+        "name": "Requirements:",
+        "value": "• 85 Agility"
+      },
+      {
+        "name": "Guide:",
+        "value": "[Ancient Zygomite Map | Runescape Wiki](https://runescape.wiki/images/f/f1/Ancient_zygomite_map.png)"
+      }
+    ],
+    "footer":
+    {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+      "text": "RuneScore awarded: 15"
+    },
+    "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "exploration - anachronia - master builder": {
+    "title": "Master Builder (Exploration, Anachronia)",
+    "author":
+    {
+      "name": "Cape Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[Master Builder](https://rs.wiki/Master_Builder) is an achievement that requires the player to fully upgrade the [Base camp](https://runescape.wiki/w/Anachronia_base_camp) on [Anachronia](https://rs.wiki/Anachronia).\n\nThe base camp is a location on Anachronia which can be built up with various structures at multiple tiers, with collected materials from workers. The base camp can be managed by speaking to [Giles](https://runescape.wiki/w/Giles) inside the town hall after talking to him at the entrance to the temple, in front of the unfinished [lodestone](https://runescape.wiki/w/Lodestone_Network).\n\nEach area of the base camp can be upgraded to three tiers, each requiring specific amounts of [resources](https://runescape.wiki/w/Anachronia_base_camp#Workers). These resources are gathered by allocating the camp [workers](https://runescape.wiki/w/Anachronia_base_camp#Workers) to each resource.\n\nThe camp starts off with 10 workers and more can be obtained by upgrading the [sleeping quarters](https://runescape.wiki/w/Anachronia_base_camp#Sleeping_Quarters), up to a maximum of 60. Workers will gather 60 resources each per hour, resulting in 900/1800/3600 resources obtained per hour at sleeping quarters tier 1, 2, and 3 respectively. Workers will continue to gather resources when logged out.\n\nResources can also be found whilst skilling or killing the local fauna. The kind of resource you can get depends on what your workers are assigned to. These can be sent to the camp using the right click option, adding 100 of that resource.\n\nThe tier 1 town hall is constructed during the base camp tutorial and unlocks the ability to upgrade all other buildings.",
+    "thumbnail":
+    {
+      "url": "https://i.imgur.com/Shmagnp.png"
+    },
+    "fields":
+    [
+      {
+        "name": "Structures to upgrade:",
+        "value": "• [Town Hall](https://runescape.wiki/w/Anachronia_base_camp#Town_Hall)\n• [Storehouse](https://runescape.wiki/w/Anachronia_base_camp#Storehouse)\n• [Sleeping Quarters](https://runescape.wiki/w/Anachronia_base_camp#Sleeping_Quarters)\n• [Spa](https://runescape.wiki/w/Anachronia_base_camp#Spa)\n• [Hunter Lodge](https://runescape.wiki/w/Anachronia_base_camp#Hunter_Lodge)\n• [Slayer Lodge](https://runescape.wiki/w/Anachronia_base_camp#Slayer_Lodge)\n• [Player lodge](https://runescape.wiki/w/Anachronia_base_camp#Player_Lodge)\n• [Bank Chest](https://runescape.wiki/w/Anachronia_base_camp#Bank_Chest)\n• [Lodestone](https://runescape.wiki/w/Anachronia_base_camp#Lodestone)"
+      },
+      {
+        "name": "Requirements:",
+        "value": "• 90 Agility\n• 90 Construction\n• 90 Hunter\n• 90 Slayer"
+      },
+      {
+        "name": "Guide:",
+        "value": "[Land out of Time First Look & Info! | Maikeru RS - YouTube](https://youtu.be/0_Z84d5WGp4?t=48)"
+      }
+    ],
+    "footer":
+    {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+      "text": "RuneScore awarded: 30"
+    },
+    "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "exploration - anachronia - setting the foundation": {
+    "title": "Setting The Foundation (Exploration, Anachronia)",
+    "author":
+    {
+      "name": "Cape Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[Setting The Foundation](https://rs.wiki/Setting_The_Foundation) is an achievement that requires the player to complete the [Anachronia base camp](https://runescape.wiki/w/Anachronia_base_camp) tutorial.",
+    "thumbnail":
+    {
+      "url": "https://i.imgur.com/Shmagnp.png"
+    },
+    "fields":
+    [
+      {
+        "name": "Requirements:",
+        "value": "• None"
+      }
+    ],
+    "footer":
+    {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+      "text": "RuneScore awarded: 5"
+    },
+    "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "exploration - anachronia - spinal surgery": {
+    "title": "Spinal Surgery (Exploration, Anachronia)",
+    "author":
+    {
+      "name": "Cape Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[Spinal Surgery](https://rs.wiki/Spinal_Surgery) is an achievement that requires the player to use the [Surge](https://rs.wiki/Surge) ability to venture under the spine on [Anachronia](https://rs.wiki/Anachronia).\n\nThis is the spine that is part of the [Anachronia Agility Course](https://rs.wiki/Anachronia_Agility_Course) and can be found just west of the [Herby Werby](https://rs.wiki/Herby_Werby) [Distraction and Diversion](https://runescape.wiki/w/Distractions_and_Diversions) in the north-eastern part of the island.",
+    "thumbnail":
+    {
+      "url": "https://i.imgur.com/Shmagnp.png"
+    },
+    "fields":
+    [
+      {
+        "name": "Requirements:",
+        "value": "• 30 Magic"
+      }
+    ],
+    "footer":
+    {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+      "text": "RuneScore awarded: 5"
+    },
+    "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "exploration - anachronia - spud that": {
+    "title": "Spud That (Exploration, Anachronia)",
+    "author":
+    {
+      "name": "Cape Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[Spud That](https://rs.wiki/Spud_That) is an achievement that requires the player to use a [Raw potato](https://rs.wiki/Raw_potato) on the [Ancient Zygomite elder](https://runescape.wiki/w/Ancient_Zygomite_elder).\n\nThe Ancient Zygomite elder can be found outside of the [Herby Werby](https://rs.wiki/Herby_Werby) [Distraction and Diversion](https://runescape.wiki/w/Distractions_and_Diversions) on [Anachronia](https://rs.wiki/Anachronia). They run the [rewards shop](https://runescape.wiki/w/Herby_Werby#Rewards) where the spirit points from the activity can be spent.",
+    "thumbnail":
+    {
+      "url": "https://i.imgur.com/Shmagnp.png"
+    },
+    "fields":
+    [
+      {
+        "name": "Requirements:",
+        "value": "• None"
+      }
+    ],
+    "footer":
+    {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+      "text": "RuneScore awarded: 5"
+    },
+    "timestamp": "2001-01-04T12:00:00Z"
+  },
   "exploration - anachronia - stacks on stacks": {
             "title": "Stacks on Stacks (Exploration, Anachronia)",
             "author": {
@@ -3651,14 +4197,14 @@ exports.data = {
             },
             "timestamp": "2001-01-04T12:00:00Z"
         },
-  "exploration - anachronia - master builder": {
-    "title": "Master Builder (Exploration, Anachronia)",
+  "exploration - anachronia - stone cold observers": {
+    "title": "Stone Cold Observers (Exploration, Anachronia)",
     "author":
     {
       "name": "Cape Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Master Builder](https://rs.wiki/Master_Builder) is an achievement that requires the player to fully upgrade the [Base camp](https://runescape.wiki/w/Anachronia_base_camp) on [Anachronia](https://rs.wiki/Anachronia).\n\nThe base camp is a location on Anachronia which can be built up with various structures at multiple tiers, with collected materials from workers. The base camp can be managed by speaking to [Giles](https://runescape.wiki/w/Giles) inside the town hall after talking to him at the entrance to the temple, in front of the unfinished [lodestone](https://runescape.wiki/w/Lodestone_Network).\n\nEach area of the base camp can be upgraded to three tiers, each requiring specific amounts of [resources](https://runescape.wiki/w/Anachronia_base_camp#Workers). These resources are gathered by allocating the camp [workers](https://runescape.wiki/w/Anachronia_base_camp#Workers) to each resource.\n\nThe camp starts off with 10 workers and more can be obtained by upgrading the [sleeping quarters](https://runescape.wiki/w/Anachronia_base_camp#Sleeping_Quarters), up to a maximum of 60. Workers will gather 60 resources each per hour, resulting in 900/1800/3600 resources obtained per hour at sleeping quarters tier 1, 2, and 3 respectively. Workers will continue to gather resources when logged out.\n\nResources can also be found whilst skilling or killing the local fauna. The kind of resource you can get depends on what your workers are assigned to. These can be sent to the camp using the right click option, adding 100 of that resource.\n\nThe tier 1 town hall is constructed during the base camp tutorial and unlocks the ability to upgrade all other buildings.\n\n*The requirements for all building tiers are not yet known as upgrades take time to complete so please let us know if you discover them so that we can update this guide and add the information to the [Runescape wiki page](https://runescape.wiki/w/Anachronia_base_camp)*.",
+    "description": "[Stone Cold Observers](https://rs.wiki/Stone_Cold_Observers) is an achievement that requires the player to observe all five [large Dragonkin statues](https://runescape.wiki/w/Dragonkin_statue_(Anachronia%29) around [Anachronia](https://rs.wiki/Anachronia).",
     "thumbnail":
     {
       "url": "https://i.imgur.com/Shmagnp.png"
@@ -3666,22 +4212,71 @@ exports.data = {
     "fields":
     [
       {
-        "name": "Structures to upgrade:",
-        "value": "• [Town Hall](https://runescape.wiki/w/Anachronia_base_camp#Town_Hall)\n• [Storehouse](https://runescape.wiki/w/Anachronia_base_camp#Storehouse)\n• [Sleeping Quarters](https://runescape.wiki/w/Anachronia_base_camp#Sleeping_Quarters)\n• [Spa](https://runescape.wiki/w/Anachronia_base_camp#Spa)\n• [Hunter Lodge](https://runescape.wiki/w/Anachronia_base_camp#Hunter_Lodge)\n• [Slayer Lodge](https://runescape.wiki/w/Anachronia_base_camp#Slayer_Lodge)\n• [Player lodge](https://runescape.wiki/w/Anachronia_base_camp#Player_Lodge)\n• [Bank Chest](https://runescape.wiki/w/Anachronia_base_camp#Bank_Chest)\n• [Lodestone](https://runescape.wiki/w/Anachronia_base_camp#Lodestone)"
+        "name": "Locations:",
+        "value": "• Near [Laniakea](https://runescape.wiki/w/Laniakea) in the ruins on the south-eastern peninsula.\n• Just south-west of Leonard the [ancient zygomite](https://runescape.wiki/w/Ancient_zygomite), to the east-north-east part of the island.\n• Just south of Penny the ancient zygomite, in the eastern-most ruins.\n• West of Cricket the ancient zygomite, in the south-west part of the island.\n• North-west of the northern start of the [Anachronia Agility Course](https://runescape.wiki/w/Anachronia_Agility_Course), down the stairs."
       },
       {
         "name": "Requirements:",
-        "value": "• 90 Agility\n• 90 Construction\n• 90 Hunter\n• 90 Slayer"
-      },
-      {
-        "name": "Guide:",
-        "value": "[Land out of Time First Look & Info! | Maikeru RS - YouTube](https://youtu.be/0_Z84d5WGp4?t=48)"
+        "value": "• None"
       }
     ],
     "footer":
     {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
-      "text": "RuneScore awarded: 30"
+      "text": "RuneScore awarded: 5"
+    },
+    "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "exploration - anachronia - swings both ways": {
+    "title": "Swings Both Ways (Exploration, Anachronia)",
+    "author":
+    {
+      "name": "Cape Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[Swings Both Ways](https://rs.wiki/Swings_Both_Ways) is an achievement that requires the player to complete a lap going in each direction on the [Anachronia Agility Course](https://rs.wiki/Anachronia_Agility_Course).",
+    "thumbnail":
+    {
+      "url": "https://i.imgur.com/Shmagnp.png"
+    },
+    "fields":
+    [
+      {
+        "name": "Requirements:",
+        "value": "• 85 Agility"
+      }
+    ],
+    "footer":
+    {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+      "text": "RuneScore awarded: 5"
+    },
+    "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "exploration - anachronia - three in a bed": {
+    "title": "Three In a Bed (Exploration, Anachronia)",
+    "author":
+    {
+      "name": "Cape Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[Three In a Bed](https://rs.wiki/Three_In_a_Bed) is an achievement that requires the player to complete a [Big Game Hunter](https://rs.wiki/Big_Game_Hunter) encounter with three creatures active.",
+    "thumbnail":
+    {
+      "url": "https://i.imgur.com/Shmagnp.png"
+    },
+    "fields":
+    [
+      {
+        "name": "Requirements:",
+        "value": "• 75 Hunter\n• 55 Slayer",
+        "inline": true
+      }
+    ],
+    "footer":
+    {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+      "text": "RuneScore awarded: 20"
     },
     "timestamp": "2001-01-04T12:00:00Z"
   },
@@ -3691,7 +4286,7 @@ exports.data = {
       "name": "Cape Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Top Town Hall](https://rs.wiki/Top_Town_Hall) is an achievement that requires the player to fully upgrade the [Town Hall](https://runescape.wiki/w/Anachronia_base_camp#Town_Hall) of the [Base camp](https://runescape.wiki/w/Anachronia_base_camp) on [Anachronia](https://rs.wiki/Anachronia).\n\nThe base camp is a location on Anachronia which can be built up with various structures at multiple tiers, with collected materials from workers. The base camp can be managed by speaking to [Giles](https://runescape.wiki/w/Giles) inside the town hall after talking to him at the entrance to the temple, in front of the unfinished [lodestone](https://runescape.wiki/w/Lodestone_Network).\n\nEach area of the base camp can be upgraded to three tiers, each requiring specific amounts of [resources](https://runescape.wiki/w/Anachronia_base_camp#Workers). These resources are gathered by allocating the camp [workers](https://runescape.wiki/w/Anachronia_base_camp#Workers) to each resource.\n\nThe camp starts off with 10 workers and more can be obtained by upgrading the [sleeping quarters](https://runescape.wiki/w/Anachronia_base_camp#Sleeping_Quarters), up to a maximum of 60. Workers will gather 60 resources each per hour, resulting in 900/1800/3600 resources obtained per hour at sleeping quarters tier 1, 2, and 3 respectively. Workers will continue to gather resources when logged out.\n\nResources can also be found whilst skilling or killing the local fauna. The kind of resource you can get depends on what your workers are assigned to. These can be sent to the camp using the right click option, adding 100 of that resource.\n\nThe tier 1 town hall is constructed during the base camp tutorial and unlocks the ability to upgrade all other buildings.\n\n*The requirements for all building tiers are not yet known as upgrades take time to complete so please let us know if you discover them so that we can update this guide and add the information to the [Runescape Wiki page](https://runescape.wiki/w/Anachronia_base_camp)*.",
+    "description": "[Top Town Hall](https://rs.wiki/Top_Town_Hall) is an achievement that requires the player to fully upgrade the [Town Hall](https://runescape.wiki/w/Anachronia_base_camp#Town_Hall) of the [Base camp](https://runescape.wiki/w/Anachronia_base_camp) on [Anachronia](https://rs.wiki/Anachronia).\n\nThe base camp is a location on Anachronia which can be built up with various structures at multiple tiers, with collected materials from workers. The base camp can be managed by speaking to [Giles](https://runescape.wiki/w/Giles) inside the town hall after talking to him at the entrance to the temple, in front of the unfinished [lodestone](https://runescape.wiki/w/Lodestone_Network).\n\nEach area of the base camp can be upgraded to three tiers, each requiring specific amounts of [resources](https://runescape.wiki/w/Anachronia_base_camp#Workers). These resources are gathered by allocating the camp [workers](https://runescape.wiki/w/Anachronia_base_camp#Workers) to each resource.\n\nThe camp starts off with 10 workers and more can be obtained by upgrading the [sleeping quarters](https://runescape.wiki/w/Anachronia_base_camp#Sleeping_Quarters), up to a maximum of 60. Workers will gather 60 resources each per hour, resulting in 900/1800/3600 resources obtained per hour at sleeping quarters tier 1, 2, and 3 respectively. Workers will continue to gather resources when logged out.\n\nResources can also be found whilst skilling or killing the local fauna. The kind of resource you can get depends on what your workers are assigned to. These can be sent to the camp using the right click option, adding 100 of that resource.\n\nThe tier 1 town hall is constructed during the base camp tutorial and unlocks the ability to upgrade all other buildings.",
     "thumbnail": {
       "url": "https://i.imgur.com/Shmagnp.png"
     },
@@ -3736,12 +4331,12 @@ exports.data = {
       },
       {
         "name": "Materials Needed:",
-        "value": "• Currently unknown",
+        "value": "• 70,000 Wood, Stone, and Vines",
         "inline": true
       },
       {
         "name": "Building requirements for upgrade:",
-        "value": "• Currently unknown"
+        "value": "• Storehouse (Tier 2)\n• Sleeping Quarter (Tier 2)"
       },
       {
         "name": "Guide:",
@@ -5899,6 +6494,34 @@ exports.data = {
     },
 "timestamp": "2001-01-04T12:00:00Z"
   },
+  "exploration - wushanko: the arc - gumbo jumbo": {
+        "title": "Gumbo Jumbo (Exploration, Wushanko: The Arc)",
+        "author":
+        {
+            "name": "RuneScore Achievement Info",
+            "icon_url": "https://i.imgur.com/6c6q2iC.png"
+        },
+        "description": "[Gumbo Jumbo](https://rs.wiki/Gumbo_Jumbo) is an achievement that requires the player to cook a [Shark soup](https://rs.wiki/Shark_soup) and an [Arc gumbo](https://rs.wiki/Arc_gumbo).\n\nNote: All requirements for this achievement are completely boostable and assistable.",
+        "thumbnail":
+        {
+            "url": "https://i.imgur.com/Shmagnp.png"
+        },
+        "fields":
+        [
+           
+            {
+                 "name": "Requirements:",
+                 "value": "• 96 Cooking\n• 92 Crafting\n• 90 Farming\n• 96 Fishing\n• 96 Fletching\n• 96 Hunter\n• 97 Mining\n• 90 Woodcutting\n\n• Impressing the Locals Quest completion | [Runescape Wiki](https://rs.wiki/Impressing_the_Locals)"
+            }
+           
+        ],
+        "footer":
+        {
+            "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+            "text": "RuneScore awarded: 20"
+        },
+      "timestamp": "2001-01-04T12:00:00Z"
+  },
   "exploration - wushanko: the arc - mushrooms of the arc": {
     "title": "Mushroom Clusters of the Arc",
     "author": {
@@ -5956,6 +6579,33 @@ exports.data = {
       "text": "RuneScore awarded: 25"
     },
 "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "exploration - wushanko: the arc - uncharted i - vi": {
+        "title": "Uncharted I - VI (Exploration, Wushanko: The Arc)",
+        "author":
+        {
+            "name": "RuneScore Achievement Info",
+            "icon_url": "https://i.imgur.com/6c6q2iC.png"
+        },
+        "description": "[Uncharted](https://runescape.wiki/w/Uncharted_VI) is a scaling achievement that requires the player to travel to 1, 5, 10, 25, 50, and 100 [uncharted isles](https://runescape.wiki/w/Uncharted_isle) respectively.",
+        "thumbnail":
+        {
+            "url": "https://i.imgur.com/Shmagnp.png"
+        },
+        "fields":
+        [
+            {
+                 "name": "Requirements:",
+                 "value": "• Impressing the Locals Quest completion | [Runescape Wiki](https://runescape.wiki/w/Impressing_the_Locals)"
+            }
+           
+        ],
+        "footer":
+        {
+            "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+            "text": "RuneScore awarded: 5, 10, 20, 30, 40, 50 [155]"
+        },
+    "timestamp": "2001-01-04T12:00:00Z"
   },
   "exploration - wushanko: the arc - unlocking more waiko": {
     "title": "Arc - Unlocking More Waiko",
@@ -6017,7 +6667,7 @@ exports.data = {
       "name": "RuneScore Achievement Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Wushanko Isles: The Arc](https://runescape.wiki/w/Wushanko_Isles:_The_Arc) is an achievement that requires the player to complete the [Arc Journal](https://runescape.wiki/w/Arc_Journal). The Arc Journal is a book given to the player by [Sharkborne](https://runescape.wiki/w/Sharkborne) on [Waiko](https://runescape.wiki/w/Waiko).\n\nCompletion of this achievement unlocks **[Name] the Voyager** title.\n\nYou may utilize the **.rs exploration wushanko: the arc** commands in this server for a list of all task guides.",
+    "description": "[Wushanko Isles: The Arc](https://runescape.wiki/w/Wushanko_Isles:_The_Arc) is an achievement that requires the player to complete the [Arc Journal](https://runescape.wiki/w/Arc_Journal). The Arc Journal is a book given to the player by [Sharkborne](https://runescape.wiki/w/Sharkborne) on [Waiko](https://runescape.wiki/w/Waiko).\n\nCompletion of this achievement unlocks [Name] **the Voyager** title.\n\nYou may utilize the **.rs exploration wushanko: the arc** commands in this server for a list of all task guides.",
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/a/ad/Wushanko_-_The_Arc_achievement_icon.png/revision/latest?cb=20180221204546"
     },
@@ -6257,7 +6907,7 @@ exports.data = {
         "name": "Cape Info",
         "icon_url": "https://i.imgur.com/6c6q2iC.png"
       },
-      "description": "[How Many Games?](https://runescape.wiki/w/How_Many_Games%3F) an achievement that requires the player to purchase a full set of [Profound decorative equipment](https://runescape.wiki/w/Profound_decorative_equipment) and show it to [Lanthus](https://runescape.wiki/w/Lanthus). Profound equipment can be purchased using [Gold Castle Wars tickets](https://runescape.wiki/w/Castle_wars_ticket_(gold), [Thaler](https://runescape.wiki/w/Thaler), or a mixture of both.\n\nCompleting this achievement unlocks the title [[Name] **the Profound**](https://runescape.wiki/w/The_Profound).\n\nThis is one of the most time-consuming achievements in the game, taking up to 795 hours to complete by playing only [Spotlighted minigames](https://calendar.google.com/calendar/embed?src=42brp3b48aumm199hord137gh0@group.calendar.google.com) or playing 20 minute Castle Wars games with a 100% win rate (accounting for the 3 minute wait time between games). Even using the fastest methods, playing on spotlight and/or Minigames Weekend, and using [Castle wars token enhancers](https://runescape.wiki/w/Castle_wars_token_enhancer), it will take at least 300 hours to complete.\n\nIt is possible to complete this achievement without playing a single game of Castle Wars by using Thaler only.\n\n**It is highly advised to do this with a Castle Wars or Thaler community.**\n\n• You may find a Castle Wars community at [this discord](https://discord.gg/hzvwrvX) or at friend-chat **Cwar United**.",
+      "description": "[How Many Games?](https://runescape.wiki/w/How_Many_Games%3F) an achievement that requires the player to purchase a full set of [Profound decorative equipment](https://runescape.wiki/w/Profound_decorative_equipment) and show it to [Lanthus](https://runescape.wiki/w/Lanthus). Profound equipment can be purchased using [Gold Castle Wars tickets](https://runescape.wiki/w/Castle_wars_ticket_(gold), [Thaler](https://runescape.wiki/w/Thaler), or a mixture of both.\n\nCompleting this achievement unlocks the title [Name] [**the Profound**](https://runescape.wiki/w/The_Profound).\n\nThis is one of the most time-consuming achievements in the game, taking up to 795 hours to complete by playing only [Spotlighted minigames](https://calendar.google.com/calendar/embed?src=42brp3b48aumm199hord137gh0@group.calendar.google.com) or playing 20 minute Castle Wars games with a 100% win rate (accounting for the 3 minute wait time between games). Even using the fastest methods, playing on spotlight and/or Minigames Weekend, and using [Castle wars token enhancers](https://runescape.wiki/w/Castle_wars_token_enhancer), it will take at least 300 hours to complete.\n\nIt is possible to complete this achievement without playing a single game of Castle Wars by using Thaler only.\n\n**It is highly advised to do this with a Castle Wars or Thaler community.**\n\n• You may find a Castle Wars community at [this discord](https://discord.gg/hzvwrvX) or at friend-chat **Cwar United**.",
       "thumbnail": {
         "url": "https://i.imgur.com/Shmagnp.png"
       },
@@ -6276,6 +6926,32 @@ exports.data = {
       },
       "timestamp": "2001-01-04T12:00:00Z"
     },
+  "minigames - general - i c u k g p": {
+        "title": "I C U K G P (Minigames, General)",
+        "author":
+        {
+            "name": "RuneScore Achievement Info",
+            "icon_url": "https://i.imgur.com/6c6q2iC.png"
+        },
+        "description": "[I C U K G P](https://runescape.wiki/w/I_C_U_K_G_P) is an achievement that requires the player to find 12 different [Penguins](https://runescape.wiki/w/Penguin_(Hide_and_Seek%29) and the [Polar bear](https://runescape.wiki/w/Polar_bear) during the [Penguin Hide and Seek](https://runescape.wiki/w/Penguin_Hide_and_Seek) [Distraction and Diversion](https://runescape.wiki/w/Distractions_and_Diversion).\n\n To finish this achievement, you need to \"talk to\" [Chuck](https://runescape.wiki/w/Chuck) and report the number of penguins you found using the \"Penguin hide and seek\" followed by \"I've found more penguins\" options.\n\nMake sure not to use the right click \"Hide-n-seek\" option as you will skip directly to the reward points and the achievement will remain incomplete.\n\nYou do not actually need to claim your reward for this achievement, it is highly advised to stockpile them until you have the 50 points required for the [Ultimate Birdwatcher](https://runescape.wiki/w/Ultimate_Birdwatcher) achievement.",
+        "thumbnail":
+        {
+            "url": "https://i.imgur.com/Shmagnp.png"
+        },
+        "fields":
+        [
+            {
+                "name": "Requirements:",
+                "value": "• Cold War Quest completion | [Runescape Wiki](https://runescape.wiki/w/Cold_War)\n• Back to the Freezer Quest completion | [Runescape Wiki](https://runescape.wiki/w/Back_to_the_Freezer)"
+            }
+        ],
+        "footer":
+        {
+            "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+            "text": "RuneScore awarded: 40"
+        },
+      "timestamp": "2001-01-04T12:00:00Z"
+  },
   "minigames - general - it's not called surging tombs": {
     "title": "It's Not Called Surging Tombs",
     "author": {
@@ -6361,6 +7037,37 @@ exports.data = {
     },
 "timestamp": "2001-01-04T12:00:00Z"
   },
+  "minigames - general - something 'bout that sq'irk, sq'irk, sq'irk, sq'irk, sq'irk": {
+        "title": "Something 'bout that Sq'irk, Sq'irk, Sq'irk, Sq'irk, Sq'irk (Minigames, General)",
+        "author":
+        {
+            "name": "RuneScore Achievement Info",
+            "icon_url": "https://i.imgur.com/6c6q2iC.png"
+        },
+        "description": "[Something 'bout that Sq'irk, Sq'irk, Sq'irk, Sq'irk, Sq'irk](https://runescape.wiki/w/Something_%27bout_that_Sq%27irk,_Sq%27irk,_Sq%27irk,_Sq%27irk,_Sq%27irk)   is an achievement that requires the player to hand in all four [Sq'irkjuices](https://runescape.wiki/w/Sq%27irkjuice) in one go. They can be handed into either [Osman](https://runescape.wiki/w/Osman) or [Emir Ali Mirza](https://runescape.wiki/w/Emir_Ali_Mirza) who are found at the [Al Kharid palace](https://runescape.wiki/w/Al_Kharid_palace).",
+        "thumbnail":
+        {
+            "url": "https://i.imgur.com/Shmagnp.png"
+        },
+        "fields":
+        [
+            {
+                "name": "Types of sq'irkjuices:",
+                "value": "• [Spring sq'irkjuice](https://runescape.wiki/w/Spring_sq%27irkjuice)\n• [Summer sq'irkjuice](https://runescape.wiki/w/Summer_sq%27irkjuice)\n• [Autumn sq'irkjuice](https://runescape.wiki/w/Autumn_sq%27irkjuice)\n• [Winter sq'irkjuice](https://runescape.wiki/w/Winter_sq%27irkjuice)"
+            },
+           
+            {
+                "name": "Requirements:",
+                "value": "• Swept Away Quest completion | [Runescape Wiki](https://runescape.wiki/w/Swept_Away)"
+            }
+        ],
+        "footer":
+        {
+            "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+            "text": "RuneScore awarded: 20"
+        },
+    "timestamp": "2001-01-04T12:00:00Z"
+  },
   "minigames - general - source of denial": {
     "title": "Source of Denial",
     "author": {
@@ -6385,6 +7092,32 @@ exports.data = {
       "text": "RuneScore awarded: 10"
     },
 "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "minigames - general - the distracted": {
+        "title": "The Distracted (Minigames, General)",
+        "author":
+        {
+            "name": "RuneScore Achievement Info",
+            "icon_url": "https://i.imgur.com/6c6q2iC.png"
+        },
+        "description": "[The Distracted](https://runescape.wiki/w/The_Distracted_(achievement%29) is an achievement that requires the player to obtain the title [Name] [**the Distracted**](https://runescape.wiki/w/The_Distracted_(title%29) by completing all [Distractions and Diversions](https://runescape.wiki/w/Distractions_and_Diversions) at least once.",
+        "thumbnail":
+        {
+            "url": "https://i.imgur.com/Shmagnp.png"
+        },
+        "fields":
+        [
+            {
+                "name": "Requirements:",
+                "value": "• None"
+            }
+        ],
+        "footer":
+        {
+            "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+            "text": "RuneScore awarded: 0"
+        },
+    "timestamp": "2001-01-04T12:00:00Z"
   },
   "minigames - general - tokhaar-mok": {
     "title": "TokHaar-Mok",
@@ -6422,6 +7155,33 @@ exports.data = {
       "text": "RuneScore awarded: 25"
     },
 "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "minigames - general - ultimate birdwatcher": {
+        "title": "Ultimate Birdwatcher (Minigames, General)",
+        "author":
+        {
+            "name": "RuneScore Achievement Info",
+            "icon_url": "https://i.imgur.com/6c6q2iC.png"
+        },
+        "description": "[Ultimate Birdwatcher](https://runescape.wiki/w/Ultimate_Birdwatcher)  is an achievement which requires the player to hand in 50 [Penguin points](https://runescape.wiki/w/Penguin_point) in one go.",
+        "thumbnail":
+        {
+            "url": "https://i.imgur.com/Shmagnp.png"
+        },
+        "fields":
+        [
+            {
+                 "name": "Requirements:",
+                 "value": "• Cold War Quest completion | [Runescape Wiki](https://runescape.wiki/w/Cold_War)"
+            }
+           
+        ],
+        "footer":
+        {
+            "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+            "text": "RuneScore awarded: 40"
+        },
+    "timestamp": "2001-01-04T12:00:00Z"
   },
   "minigames - general - unlucky for some": {
     "title": "Unlucky For Some",
@@ -6706,6 +7466,176 @@ exports.data = {
             "text": "RuneScore awarded: 5"
         },
       "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "minigames - player-owned port - from landlubber to deck scrubber": {
+        "title": "From Landlubber to Deck Scrubber (Minigames, Player-Owned Port)",
+        "author":
+        {
+            "name": "RuneScore Achievement Info",
+            "icon_url": "https://i.imgur.com/6c6q2iC.png"
+        },
+        "description": "[From Landlubber to Deck Scrubber](https://runescape.wiki/w/From_Landlubber_to_Deck_Scrubber) is an achievement that requires the player to unlock the title [Bo'sun](https://runescape.wiki/w/Bo%27sun) at the [player-owned port](https://runescape.wiki/w/Player-owned_port) by reaching a [port score](https://runescape.wiki/w/Port_score) of at least 400.",
+        "thumbnail":
+        {
+            "url": "https://i.imgur.com/Shmagnp.png"
+        },
+        "fields":
+        [
+            {
+                 "name": "Requirements:",
+                 "value": "• Must have completed the [Player-owned port tutorial](https://runescape.wiki/w/Player-owned_port#Tutorial)"
+            }
+           
+        ],
+        "footer":
+        {
+            "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+            "text": "RuneScore awarded: 5"
+        },
+      "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "minigames - player-owned port - oh captain, my captain": {
+        "title": "Oh captain, my captain (Minigames, Player-Owned Port)",
+        "author":
+        {
+            "name": "RuneScore Achievement Info",
+            "icon_url": "https://i.imgur.com/6c6q2iC.png"
+        },
+        "description": "[Oh captain, my captain](https://runescape.wiki/w/Oh_captain,_my_captain) is an achievement that requires the player to unlock the title [Cap'n](https://runescape.wiki/w/Cap%27n) at the [Player-owned port](https://runescape.wiki/w/Player-owned_port) by reaching a [port score](https://runescape.wiki/w/Port_score) of at least 1,200.",
+        "thumbnail":
+        {
+            "url": "https://i.imgur.com/Shmagnp.png"
+        },
+        "fields":
+        [
+            {
+                 "name": "Requirements:",
+                 "value": "• Must have completed the [Player-owned port tutorial](https://runescape.wiki/w/Player-owned_port#Tutorial)"
+            }
+           
+        ],
+        "footer":
+        {
+            "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+            "text": "RuneScore awarded: 5"
+        },
+      "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "minigames - player-owned port - portnight": {
+        "title": "Portnight (Minigames, Player-Owned Port)",
+        "author":
+        {
+            "name": "RuneScore Achievement Info",
+            "icon_url": "https://i.imgur.com/6c6q2iC.png"
+        },
+        "description": "[Portnight](https://runescape.wiki/w/Portnight) is an achievement that requires the player to send off at least one voyage from the [Player-owned port](https://runescape.wiki/w/Player-owned_port) every day for fourteen consecutive days.",
+        "thumbnail":
+        {
+            "url": "https://i.imgur.com/Shmagnp.png"
+        },
+        "fields":
+        [
+            {
+                 "name": "Requirements:",
+                 "value": "• Must have completed the [Player-owned port tutorial](https://runescape.wiki/w/Player-owned_port#Tutorial)"
+            }
+           
+        ],
+        "footer":
+        {
+            "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+            "text": "RuneScore awarded: 40"
+        },
+    "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "minigames - player-owned port - seasinger": {
+        "title": "Seasinger (Minigames, Player-Owned Port)",
+        "author":
+        {
+            "name": "RuneScore Achievement Info",
+            "icon_url": "https://i.imgur.com/6c6q2iC.png"
+        },
+        "description": "[Seasinger](https://runescape.wiki/w/Seasinger) is an achievement that requires the player to create a complete set of [Superior seasinger's equipment](https://runescape.wiki/w/Seasinger%27s_equipment#Superior_armour) and all [Seasinger weapons](https://runescape.wiki/w/Seasinger%27s_equipment#Weapons).",
+        "thumbnail":
+        {
+            "url": "https://i.imgur.com/Shmagnp.png"
+        },
+        "fields":
+        [
+            {
+                 "name": "Items to make:",
+                 "value": "• [Superior seasinger's hood](https://runescape.wiki/w/Superior_seasinger%27s_hood)\n• [Superior seasinger's robe top](https://runescape.wiki/w/Superior_seasinger%27s_robe_top)\n• [Superior seasinger's robe bottom](https://runescape.wiki/w/Superior_seasinger%27s_robe_bottom)\n• [Superior seasinger aonori](https://runescape.wiki/w/Superior_seasinger_aonori)\n• [Superior seasinger asari](https://runescape.wiki/w/Superior_seasinger_asari)\n• [Seasinger kiba](https://runescape.wiki/w/Seasinger_kiba)\n• [Seasinger makigai](https://runescape.wiki/w/Seasinger_makigai)"
+            },
+                        {
+                 "name": "Requirements:",
+                 "value": "• 92 Runecrafting\n\n• Must have completed the [Player-owned port tutorial](https://runescape.wiki/w/Player-owned_port#Tutorial)"
+            }
+           
+        ],
+        "footer":
+        {
+            "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+            "text": "RuneScore awarded: 30"
+        },
+    "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "minigames - player-owned port - tetsu warrior": {
+        "title": "Tetsu Warrior (Minigames, Player-Owned Port)",
+        "author":
+        {
+            "name": "RuneScore Achievement Info",
+            "icon_url": "https://i.imgur.com/6c6q2iC.png"
+        },
+        "description": "[Tetsu Warrior](https://runescape.wiki/w/Tetsu_Warrior) is an achievement that requires the player to create a complete set of [Superior tetsu equipment](https://runescape.wiki/w/Tetsu_equipment#Superior_armour) and all [Tetsu weapons](https://runescape.wiki/w/Tetsu_equipment#Weapons).",
+        "thumbnail":
+        {
+            "url": "https://i.imgur.com/Shmagnp.png"
+        },
+        "fields":
+        [
+            {
+                 "name": "Items to make:",
+                 "value": "• [Superior tetsu helm](https://runescape.wiki/w/Superior_tetsu_helm)\n• [Superior tetsu body](https://runescape.wiki/w/Superior_tetsu_body)\n• [Superior tetsu platelegs](https://runescape.wiki/w/Superior_tetsu_platelegs)\n• [Superior tetsu kote](https://runescape.wiki/w/Superior_tetsu_kote)\n• [Superior tetsu kogake](https://runescape.wiki/w/Superior_tetsu_kogake)\n• [Tetsu katana](https://runescape.wiki/w/Tetsu_katana)\n• [Tetsu wakizashi](https://runescape.wiki/w/Tetsu_wakizashi)"
+            },
+                        {
+                 "name": "Requirements:",
+                 "value": "• 92 Smithing\n\n• Must have completed the [Player-owned port tutorial](https://runescape.wiki/w/Player-owned_port#Tutorial)"
+            }
+           
+        ],
+        "footer":
+        {
+            "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+            "text": "RuneScore awarded: 30"
+        },
+    "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "minigames - player-owned port - vip - very important portmaster": {
+        "title": "VIP - Very important Portmaster (Minigames, Player-Owned Port)",
+        "author":
+        {
+            "name": "RuneScore Achievement Info",
+            "icon_url": "https://i.imgur.com/6c6q2iC.png"
+        },
+        "description": "[VIP - Very important Portmaster](https://runescape.wiki/w/VIP_-_Very_important_Portmaster) is an achievement that requires the player to unlock the title [Portmaster](https://runescape.wiki/w/Portmaster) at the [Player-owned port](https://runescape.wiki/w/Player-owned_port) by reaching a [port score](https://runescape.wiki/w/Port_score) of at least 4,500.",
+        "thumbnail":
+        {
+            "url": "https://i.imgur.com/Shmagnp.png"
+        },
+        "fields":
+        [
+            {
+                 "name": "Requirements:",
+                 "value": "• Must have completed the [Player-owned port tutorial](https://runescape.wiki/w/Player-owned_port#Tutorial)"
+            }
+           
+        ],
+        "footer":
+        {
+            "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+            "text": "RuneScore awarded: 5"
+        },
+    "timestamp": "2001-01-04T12:00:00Z"
   },
   "minigames - treasure trails - balance combat triangle": {
     "title": "Balanced Combat Triangle",
@@ -7126,6 +8056,32 @@ exports.data = {
     },
 "timestamp": "2001-01-04T12:00:00Z"
   },
+  "miscellaneous - clan - panic at the disco": {
+        "title": "Panic at the Disco (Miscellaneous, Clan)",
+        "author":
+        {
+            "name": "RuneScore Achievement Info",
+            "icon_url": "https://i.imgur.com/6c6q2iC.png"
+        },
+        "description": "[Panic at the Disco](https://runescape.wiki/w/Panic_at_the_Disco) is an achievement that requires the player to use the [Panic](https://runescape.wiki/w/Panic) emote at the party room of a [clan citadel](https://runescape.wiki/w/Clan_citadel).\n\nContrary to the achievement text, the player does not need to be at their own clan citadel; this can be achieved by guest visiting any clan.\n\nThe party room is located in the keep on the 1st/2nd floor (UK/US), next to the meeting rooms. It is located directly above the senate.",
+        "thumbnail":
+        {
+            "url": "https://i.imgur.com/Shmagnp.png"
+        },
+        "fields":
+        [
+            {
+                "name": "Requirements:",
+                "value": "• None"
+            }
+        ],
+        "footer":
+        {
+            "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+            "text": "RuneScore awarded: 10"
+        },
+    "timestamp": "2001-01-04T12:00:00Z"
+  },
   "miscellaneous - general - a flood of spuds": {
     "title": "A Flood of Spuds (Miscellaneous, General)",
     "description": "[A Flood of Spuds](https://runescape.wiki/w/A_Flood_of_Spuds)  is an achievement that requires the player to eat every type of baked potato.",
@@ -7233,6 +8189,34 @@ exports.data = {
         },
 "timestamp": "2001-01-04T12:00:00Z"
     },
+  "miscellaneous - general - fruitful labour": {
+        "title": "Fruitful Labour (Miscellaneous, General)",
+        "author":
+        {
+            "name": "RuneScore Achievement Info",
+            "icon_url": "https://i.imgur.com/6c6q2iC.png"
+        },
+       
+       
+"description": "[Fruitful Labour](https://runescape.wiki/w/Fruitful_Labour) is an achievement that requires the player to fill up [Luthas](https://runescape.wiki/w/Luthas)'s crate on [Karamja](https://runescape.wiki/w/Karamja) with 10 [bananas](https://runescape.wiki/w/Banana) then speak to him to be rewarded with 30 coins.",
+        "thumbnail":
+        {
+            "url": "https://i.imgur.com/Shmagnp.png"
+        },
+        "fields":
+        [
+            {
+                "name": "Requirements:",
+                "value": "• None"
+            }
+        ],
+        "footer":
+        {
+            "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+            "text": "RuneScore awarded: 10"
+        },
+      "timestamp": "2001-01-04T12:00:00Z"
+  },
   "miscellaneous - general - fishy dishes": {
     "title": "Fishy Dishes (Miscellaneous, General)",
     "description": "[Fishy Dishes](https://runescape.wiki/w/Fishy_Dishes) is an achievement that requires the player to eat all types of fish dishes.",
@@ -7270,6 +8254,97 @@ exports.data = {
       {
         "name": "Requirements:",
         "value": "• 95 Fishing\n• 95 Cooking\n\n• Heroes' Quest Quest completion | [Runescape Wiki](https://runescape.wiki/w/Heroes%27_Quest)"
+      }
+      ],
+      "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "miscellaneous - general - get tooled up": {
+        "title": "Get Tooled Up (Miscellaneous, General)",
+        "author":
+        {
+            "name": "RuneScore Achievement Info",
+            "icon_url": "https://i.imgur.com/6c6q2iC.png"
+        },
+       
+        "description": "[Get Tooled Up](https://runescape.wiki/w/Get_Tooled_Up) is an achievement that requires the player to fill up their [tool belt](https://runescape.wiki/w/Tool_belt). Completing this unlocks the title [Name] [**the Tool**](https://runescape.wiki/w/The_Tool).",
+        "thumbnail":
+        {
+            "url": "https://i.imgur.com/Shmagnp.png"
+        },
+        "fields":
+        [
+            {
+                "name": "Requirements:",
+                "value": "• None"
+            }
+        ],
+        "footer":
+        {
+            "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+            "text": "RuneScore awarded: 20"
+        },
+      "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "miscellaneous - general - gielinorian cuisine": {
+    "title": "Gielinorian Cuisine (Miscellaneous, General)",
+    "description": "[Gielinorian Cuisine](https://runescape.wiki/w/Gielinorian_Cuisine) is an achievement that requires the player to complete all of the food-related achievements in the [Miscellaneous category](https://runescape.wiki/w/Miscellaneous_achievements).",
+        "color": 12269891,
+    "footer": {
+      "icon_url": "https://runescape.wiki/images/7/77/RuneScore.png?9f9cd",
+      "text": "RuneScore awarded: 0"
+    },
+    "thumbnail": {
+      "url": "https://runescape.wiki/images/a/ac/Default_achievement_icon.png?fb2fd"
+    },
+    "author": {
+      "name": "RuneScore Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "fields": [
+            {
+        "name": "The Achievements:",
+        "value": "• [A Flood of Spuds](https://runescape.wiki/w/A_Flood_of_Spuds)\n• [Fishy Dishes](https://runescape.wiki/w/Fishy_Dishes)\n• [Gnome More, I'm Full](https://runescape.wiki/w/Gnome_More,_I%27m_Full)\n• [Nice to Meat You](https://runescape.wiki/w/Nice_to_Meat_You)\n• [Who Ate All the Pies?](https://runescape.wiki/w/Who_Ate_All_the_Pies%3F)\n• [You Wanna Pizza Me?](https://runescape.wiki/w/You_Wanna_Pizza_Me%3F)\n\nFor more information on any of the achievements, see their individual embeds."
+      },
+      {
+        "name": "Requirements:",
+        "value": "• 95 Fishing\n• 95 Cooking\n\n• Heroes' Quest Quest completion | [Runescape Wiki](https://runescape.wiki/w/Heroes%27_Quest)\n• Impressing the Locals Quest completion | [Runescape Wiki](https://runescape.wiki/w/Impressing_the_Locals)"
+      }
+      ],
+      "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "miscellaneous - general - going for a punt": {
+    "title": "Gnome More, I'm Full (Miscellaneous, General)",
+    "description": "[Gnome More, I'm Full](https://runescape.wiki/w/Gnome_More,_I%27m_Full) is an achievement that requires the player to eat every type of [gnome food](https://runescape.wiki/w/Gnome_cooking).",
+        "color": 12269891,
+    "footer": {
+      "icon_url": "https://runescape.wiki/images/7/77/RuneScore.png?9f9cd",
+      "text": "RuneScore awarded: 20"
+    },
+    "thumbnail": {
+      "url": "https://runescape.wiki/images/a/ac/Default_achievement_icon.png?fb2fd"
+    },
+    "author": {
+      "name": "RuneScore Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "fields": [
+      {
+        "name": "The Food:",
+        "value": "• All of the food can be purchased in 'premade' form from the [Gnome Waiter](https://runescape.wiki/w/Gnome_Waiter) and the [Barman](https://runescape.wiki/w/Barman_(Grand_Tree) in the [Grand Tree](https://runescape.wiki/w/Grand_Tree) or purchased from the [Grand Exchange](https://runescape.wiki/w/Grand_Exchange)."
+      },
+      {
+        "name": "​",
+        "value": "• [Toad Crunchies](https://runescape.wiki/w/Toad_crunchies)\n• [Worm Crunchies](https://runescape.wiki/w/Worm_crunchies)\n• [Fruit Batta](https://runescape.wiki/w/Fruit_batta)\n• [Worm Batta](https://runescape.wiki/w/Worm_batta)\n• [Cheese & Tomato Batta](https://runescape.wiki/w/Cheese%2Btom_batta)\n• [Veg Ball](https://runescape.wiki/w/Veg_ball)\n• [Chocolate Bomb](https://runescape.wiki/w/Chocolate_bomb)\n• [Pineapple Punch](https://runescape.wiki/w/Pineapple_Punch)\n• [Short Green Guy](https://runescape.wiki/w/Short_Green_Guy)\n• [Chocolate Saturday](https://runescape.wiki/w/Chocolate_Saturday)\n",
+        "inline": true
+      },
+      {
+        "name": "​",
+        "value": "• [Spicy Crunchies](https://runescape.wiki/w/Spicy_crunchies)\n• [Chocolate Chip Crunchies](https://runescape.wiki/w/Chocolate_chip_crunchies)\n• [Toad Batta](https://runescape.wiki/w/Toad_batta)\n• [Vegetable Batta](https://runescape.wiki/w/Vegetable_batta)\n• [Worm Hole](https://runescape.wiki/w/Worm_hole)\n• [Tangled Toads' Legs](https://runescape.wiki/w/Tangled_toads%27_legs)\n• [Fruit Blast](https://runescape.wiki/w/Fruit_Blast)\n• [Wizard Blizzard](https://runescape.wiki/w/Wizard_Blizzard)\n• [Drunk Dragon](https://runescape.wiki/w/Drunk_Dragon)\n• [Blurberry Special](https://runescape.wiki/w/Blurberry_Special)",
+        "inline": true
+      },
+      {
+        "name": "Requirements:",
+        "value": "• None"
       }
       ],
       "timestamp": "2001-01-04T12:00:00Z"
@@ -7351,6 +8426,205 @@ exports.data = {
     },
 "timestamp": "2001-01-04T12:00:00Z"
   },
+  "miscellaneous - general - handles for forks": {
+        "title": "Handles for Forks (Miscellaneous, General)",
+        "author":
+        {
+            "name": "RuneScore Achievement Info",
+            "icon_url": "https://i.imgur.com/6c6q2iC.png"
+        },
+        "description": "[Handles for Forks](https://runescape.wiki/w/Handles_for_Forks) is an achievement that requires the player to attempt to purchase four candles from the [Candle-maker](https://runescape.wiki/w/Candle-maker) at once, but instead getting a [Fork handle](https://runescape.wiki/w/Fork_handle).\n\nThe candle maker can be found in [Catherby](https://runescape.wiki/w/Catherby), in the market square south of the bank.",
+        "thumbnail":
+        {
+            "url": "https://i.imgur.com/Shmagnp.png"
+        },
+        "fields":
+        [
+            {
+                "name": "Requirements:",
+                "value": "• None"
+            }
+        ],
+        "footer":
+        {
+            "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+            "text": "RuneScore awarded: 5"
+        },
+      "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "miscellaneous - general - herald of light": {
+        "title": "Herald of Light (Miscellaneous, General)",
+        "author":
+        {
+            "name": "RuneScore Achievement Info",
+            "icon_url": "https://i.imgur.com/6c6q2iC.png"
+        },
+        "description": "[Herald of Light](https://runescape.wiki/w/Herald_of_Light) is an achievement that requires the player to complete a [Seren symbol](https://runescape.wiki/w/Seren_symbol) by combining all 8 [clan symbol pieces](https://runescape.wiki/w/Clan_symbol_piece) with an [Incomplete seren symbol](https://runescape.wiki/w/Seren%27s_symbol_(incomplete%29).\n\nIt is possible to obtain all of the clan symbol pieces with level 94 [Thieving](https://runescape.wiki/w/Thieving) with the use of an [Abyssal lurker](https://runescape.wiki/w/Abyssal_lurker) familiar and [Abyssal stealth scrolls](https://runescape.wiki/w/Abyssal_stealth_scroll).",
+        "thumbnail":
+        {
+            "url": "https://i.imgur.com/Shmagnp.png"
+        },
+        "fields":
+        [
+            {
+                "name": "Requirements:",
+                "value": "• 98 Thieving\n\n• Plague's End Quest completion | [Runescape Wiki](https://runescape.wiki/w/Plague%27s_End)"
+            }
+        ],
+        "footer":
+        {
+            "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+            "text": "RuneScore awarded: 40"
+        },
+      "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "miscellaneous - general - i meant to do that": {
+        "title": "I Meant To Do That (Miscellaneous, General)",
+        "author":
+        {
+            "name": "RuneScore Achievement Info",
+            "icon_url": "https://i.imgur.com/6c6q2iC.png"
+        },
+        "description": "[I Meant To Do That](https://runescape.wiki/w/I_Meant_To_Do_That) is an achievement that requires the player to use the [Surge](https://runescape.wiki/w/Surge) ability and travel exactly one tile. \n \nThe easiest method to obtain this achievement is simply walking towards a wall, stopping one pace away from it, and activating the ability.",
+ 
+        "thumbnail":
+        {
+            "url": "https://i.imgur.com/Shmagnp.png"
+        },
+        "fields":
+        [
+            {
+                "name": "Requirements:",
+                "value": "• 30 Magic"
+            }
+        ],
+        "footer":
+        {
+            "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+            "text": "RuneScore awarded: 10"
+        },
+      "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "miscellaneous - general - is this a bad time?": {
+        "title": "Is This a Bad Time? (Miscellaneous, General)",
+        "author":
+        {
+            "name": "RuneScore Achievement Info",
+            "icon_url": "https://i.imgur.com/6c6q2iC.png"
+        },
+        "description": "[Is This a Bad Time?](https://runescape.wiki/w/Is_This_a_Bad_Time%3F)  is an achievement that requires the player to contact a [man](https://runescape.wiki/w/Man) who is on the toilet with the \"random\" option of the [NPC Contact](https://runescape.wiki/w/NPC_Contact#Random_NPCs) spell.\n\nIt may be necessary to cast the spell multiple times to get this conversation.",
+        "thumbnail":
+        {
+            "url": "https://i.imgur.com/Shmagnp.png"
+        },
+        "fields":
+        [
+            {
+                "name": "Requirements:",
+                "value": "• 67 Magic\n\n• Lunar Diplomacy Quest completion | [Runescape Wiki](https://runescape.wiki/w/Lunar_Diplomacy)"
+            }
+        ],
+        "footer":
+        {
+            "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+            "text": "RuneScore awarded: 10"
+        },
+      "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "miscellaneous - general - life saver": {
+        "title": "Life Saver (Miscellaneous, General)",
+        "author":
+        {
+            "name": "RuneScore Achievement Info",
+            "icon_url": "https://i.imgur.com/6c6q2iC.png"
+        },
+        "description": "[Life Saver](https://runescape.wiki/w/Life_Saver) is an achievement that requires the player to trigger a [Sign of life](https://runescape.wiki/w/Sign_of_life) effect a total of 50 times.\n\nActivating a [Sign of death](https://runescape.wiki/w/Sign_of_death), [Portent of life](https://runescape.wiki/w/Portent_of_life), [Portent of death](https://runescape.wiki/w/Portent_of_death), or the [Defence cape](https://runescape.wiki/w/Defence_cape) [perk](https://runescape.wiki/w/Defence_cape#Perk) also count for this.",
+        "thumbnail":
+        {
+            "url": "https://i.imgur.com/Shmagnp.png"
+        },
+        "fields":
+        [
+            {
+                "name": "Requirements:",
+                "value": "• None"
+            }
+        ],
+        "footer":
+        {
+            "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+            "text": "RuneScore awarded: 20"
+        },
+      "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "miscellaneous - general - livid": {
+        "title": "Livid (Miscellaneous, General)",
+        "author":
+        {
+            "name": "RuneScore Achievement Info",
+            "icon_url": "https://i.imgur.com/6c6q2iC.png"
+        },
+        "description": "[Livid](https://runescape.wiki/w/Livid_(achievement%29) is an achievement that requires the player to throw a [Rotten tomato](https://runescape.wiki/w/Rotten_tomato_(New_Varrock%29) at [Pauline Polaris](https://runescape.wiki/w/Pauline_Polaris) in [New Varrock](https://runescape.wiki/w/New_Varrock), after having unlocked all [Livid Farm spells](https://runescape.wiki/w/Livid_Farm#spells).",
+        "thumbnail":
+        {
+            "url": "https://i.imgur.com/Shmagnp.png"
+        },
+        "fields":
+        [
+            {
+                 "name": "Requirements:",
+                 "value": "• 60 Agility\n• 50 Construction\n• 60 Crafting\n• 60 Farming\n• 70 Magic\n\n• Dimension of Disaster Quest partial completion | [Runescape Wiki](https://runescape.wiki/w/Dimension_of_Disaster)\n• Lunar Diplomacy Quest completion | [Runescape Wiki](https://runescape.wiki/w/Lunar_Diplomacy)\n• Lunar Master Achievement completion | [Runescape Wiki](https://runescape.wiki/w/Lunar_Master)"
+            }
+           
+        ],
+        "footer":
+        {
+            "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+            "text": "RuneScore awarded: 40"
+        },
+      "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "miscellaneous - general - nice to meat you": {
+    "title": "Nice to Meat You (Miscellaneous, General)",
+    "description": "[Nice to Meat You](https://runescape.wiki/w/Nice_to_Meat_You) is an achievement that requires the player to eat all types of meat dishes.",
+        "color": 12269891,
+    "footer": {
+      "icon_url": "https://runescape.wiki/images/7/77/RuneScore.png?9f9cd",
+      "text": "RuneScore awarded: 20"
+    },
+    "thumbnail": {
+      "url": "https://runescape.wiki/images/a/ac/Default_achievement_icon.png?fb2fd"
+    },
+    "author": {
+      "name": "RuneScore Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "fields": [
+      {
+        "name": "The Meats:",
+        "value": "Pekin must be killed and cooked by the player. All other meats can be purchased from the [Grand Exchange](https://runescape.wiki/w/Grand_Exchange)."
+      },
+      {
+        "name": "​",
+        "value": "• [Cooked Meat](https://runescape.wiki/w/Cooked_meat)\n• [Cooked Chicken](https://runescape.wiki/w/Cooked_chicken)\n• [Ugthanki Meat](https://runescape.wiki/w/Ugthanki_meat)\n• [Cooked Rabbit](https://runescape.wiki/w/Cooked_rabbit)\n• [Roast Bird Meat](https://runescape.wiki/w/Roast_bird_meat)\n• [Bacon](https://runescape.wiki/w/Bacon)\n• [Roast Rabbit](https://runescape.wiki/w/Roast_rabbit)\n• [Spider on Stick](https://runescape.wiki/w/Spider_on_stick)\n• [Spider on Shaft](https://runescape.wiki/w/Spider_on_shaft)\n• [Cooked Crab Meat](https://runescape.wiki/w/Cooked_crab_meat)\n",
+        "inline": true
+      },
+      {
+        "name": "​",
+        "value": "• [Roast Beast Meat](https://runescape.wiki/w/Roast_beast_meat)\n• [Bacon Stack](https://runescape.wiki/w/Bacon_stack)\n• [Cooked Chompy](https://runescape.wiki/w/Cooked_chompy)\n• [Bacon Pile](https://runescape.wiki/w/Bacon_pile)\n• [Cooked Jubbly](https://runescape.wiki/w/Cooked_jubbly)\n• [Bacon Heap](https://runescape.wiki/w/Bacon_heap)\n• [Cooked Oomlie Wrap](https://runescape.wiki/w/Cooked_oomlie_wrap)\n• [Bacon Mound](https://runescape.wiki/w/Bacon_mound)\n• [Cooked Pekin](https://runescape.wiki/w/Cooked_pekin)",
+        "inline": true
+      },
+      {
+        "name": "Meat that must be killed and cooked by the player:",
+        "value": "**Pekin:**\n  • Requires level 91 Cooking to cook.\n  • Must have access to [The Arc](https://runescape.wiki/w/The_Arc)."
+      },
+      {
+        "name": "Requirements:",
+        "value": "• 91 Cooking\n\n• Impressing the Locals Quest completion | [Runescape Wiki](https://runescape.wiki/w/Impressing_the_Locals)"
+      }
+      ],
+      "timestamp": "2001-01-04T12:00:00Z"
+  },
   "miscellaneous - general - open bar": {
     "title": "Open Bar",
     "author": {
@@ -7370,6 +8644,32 @@ exports.data = {
       "text": "RuneScore awarded: 5"
     },
 "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "miscellaneous - general - questioning your sanity": {
+        "title": "Questioning Your Sanity (Miscellaneous, General)",
+        "author":
+        {
+            "name": "RuneScore Achievement Info",
+            "icon_url": "https://i.imgur.com/6c6q2iC.png"
+        },
+        "description": "[Questioning Your Sanity](https://runescape.wiki/w/Questioning_Your_Sanity) is an achievement that requires the player to stand at a [bank](https://runescape.wiki/w/Bank) for one hour. \n\nAs the hourly timer is not cumulative, leaving the bank's healing range will cause it to reset. Actions such as gaining experience, opening the bank, or using the [Grand Exchange](https://runescape.wiki/w/Grand_Exchange) will not affect the timer.",
+        "thumbnail":
+        {
+            "url": "https://i.imgur.com/Shmagnp.png"
+        },
+        "fields":
+        [
+            {
+                "name": "Requirements:",
+                "value": "• None"
+            }
+        ],
+        "footer":
+        {
+            "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+            "text": "RuneScore awarded: 10"
+        },
+    "timestamp": "2001-01-04T12:00:00Z"
   },
   "miscellaneous - general - second shrubbery": {
     "title": "Second Shrubbery",
@@ -7415,6 +8715,225 @@ exports.data = {
       "text": "RuneScore awarded: 50"
     },
 "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "miscellaneous - general - stand and deliver": {
+        "title": "Stand And Deliver (Miscellaneous, General)",
+        "author":
+        {
+            "name": "RuneScore Achievement Info",
+            "icon_url": "https://i.imgur.com/6c6q2iC.png"
+        },
+        "description": "[Stand and Deliver](https://runescape.wiki/w/Stand_and_Deliver_(Miscellaneous_achievement%29) is an achievement that is awarded after using a [Banana pizza](https://runescape.wiki/w/Banana_pizza) on a [Highwayman](https://runescape.wiki/w/Highwayman). Using a half banana pizza will not work.\n\n Upon giving the pizza to the highwayman he will respond, \"That looks absolutely delicious! Thank you!\".\n\nAttempting to give any other pizzas will yield the following responses: \n\n• If a [Plain pizza](https://runescape.wiki/w/Plain_pizza) is given, the highwayman will respond, \"Bit too plain, don't you think? Could it come with some chicken maybe?\" \n\n• If a [Meat pizza](https://runescape.wiki/w/Meat_pizza) is given, the highwayman will respond, \"Tasty and filling but I want something with fruit on it.\"\n\n • If an [Anchovy pizza](https://runescape.wiki/w/Anchovy_pizza) is given, the highwayman will respond, \"You dare give me this vile creation?! I'd rather eat a burnt pizza!\"\n\n• If a [Pineapple pizza](https://runescape.wiki/w/Pineapple_pizza) is given, the highwayman will respond, \"Mmmm, I do like pineapple pizza but there is a tastier fruit and it's missing a bit of crunch.\"\n\n Players who wish to complete [You Wanna Pizza Me?](https://runescape.wiki/w/You_Wanna_Pizza_Me%3F) concurrently are recommended to make a second banana pizza, as the whole pizza will be given to the highwayman. ",
+        "thumbnail":
+        {
+            "url": "https://i.imgur.com/Shmagnp.png"
+        },
+        "fields":
+        [
+            {
+                "name": "Requirements:",
+                "value": "• 85 Cooking"
+            }
+        ],
+        "footer":
+        {
+            "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+            "text": "RuneScore awarded: 10"
+        },
+    "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "miscellaneous - general - the ravensworn": {
+        "title": "The Ravensworn (Miscellaneous, General)",
+        "author":
+        {
+            "name": "RuneScore Achievement Info",
+            "icon_url": "https://i.imgur.com/6c6q2iC.png"
+        },
+        "description": "[The Ravensworn](https://runescape.wiki/w/The_Ravensworn_(achievement%29) is an achievement that requires the player to obtain [the Ravensworn](https://runescape.wiki/w/The_Ravensworn) title by spotting 13 [Ravens](https://runescape.wiki/w/Raven_(Prifddinas%29) in [Prifddinas](https://runescape.wiki/w/Prifddinas).\n\nRavens spawn at 00:00 UTC (game time) every 13 days and disappear 24 hours later. Only one raven can be spotted per spawn, and all ravens on all worlds disappear for a player after being spotted.\n\nTheir location varies from world to world, being known to inhabit one of 9 locations. Its location per world is the same for every player, but its appearance and examine text varies from player to player.",
+        "fields":
+        [
+            {
+                 "name": "Requirements:",
+                 "value": "• 81 Hunter\n\n• Plague's End Quest completion | [Runescape Wiki](https://runescape.wiki/w/Plague%27s_End)"
+            }
+           
+        ],
+        "footer":
+        {
+            "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+            "text": "RuneScore awarded: 30"
+        },
+    "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "miscellaneous - general - this is not a dating site": {
+        "title": "This is Not a Dating Site (Miscellaneous, General)",
+        "author":
+        {
+            "name": "RuneScore Achievement Info",
+            "icon_url": "https://i.imgur.com/6c6q2iC.png"
+        },
+        "description": "[This is Not a Dating Site](https://runescape.wiki/w/This_is_Not_a_Dating_Site) is an achievement that requires the player to open a [Valentine's note](https://runescape.wiki/w/Valentine%27s_note) that is received from a [Jagex Moderator](https://runescape.wiki/w/Jagex_Moderator), who may or may not hand them out at [JMod events](https://runescape.wiki/w/JMod_events).",
+        "thumbnail":
+        {
+            "url": "https://i.imgur.com/Shmagnp.png"
+        },
+        "fields":
+        [
+            {
+                "name": "Requirements:",
+                "value": "• None "
+            }
+        ],
+        "footer":
+        {
+            "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+            "text": "RuneScore awarded: 5"
+        },
+    "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "miscellaneous - general - well, would you look at that": {
+        "title": "Well, Would You Look At That (Miscellaneous, General)",
+        "author":
+        {
+            "name": "RuneScore Achievement Info",
+            "icon_url": "https://i.imgur.com/6c6q2iC.png"
+        },
+        "description": "[Well, Would You Look At That](https://runescape.wiki/w/Well,_Would_You_Look_At_That) is an achievement that requires the player to find a [Needle](https://runescape.wiki/w/Needle) in either a [Haystack](https://runescape.wiki/w/Haystack) or a [Hay bale](https://runescape.wiki/w/Hay_bale).",
+        "thumbnail":
+        {
+            "url": "https://i.imgur.com/Shmagnp.png"
+        },
+        "fields":
+        [
+            {
+                "name": "Requirements:",
+                "value": "• None"
+            }
+        ],
+        "footer":
+        {
+            "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+            "text": "RuneScore awarded: 10"
+        },
+    "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "miscellaneous - general - who ate all the pies?": {
+    "title": "Who Ate All The Pies? (Miscellaneous, General)",
+    "description": "[Who Ate All the Pies?](https://runescape.wiki/w/Who_Ate_All_the_Pies%3F) is an achievement that requires the player to eat every type of [pie](https://runescape.wiki/w/Pie).\n\nEating half of each pie is enough to complete the achievement.\n\nAs the [Mud pie](https://runescape.wiki/w/Mud_pie) is not edible, simply clicking the \"Eat\" option will suffice.",
+        "color": 12269891,
+    "footer": {
+      "icon_url": "https://runescape.wiki/images/7/77/RuneScore.png?9f9cd",
+      "text": "RuneScore awarded: 10 "
+    },
+    "thumbnail": {
+      "url": "https://runescape.wiki/images/a/ac/Default_achievement_icon.png?fb2fd"
+    },
+    "author": {
+      "name": "RuneScore Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "fields": [
+      {
+        "name": "The Pies:",
+        "value": "\n• All of the pies can be purchased from the [Grand Exchange](https://runescape.wiki/w/Grand_Exchange).\n• If the player wishes to make the pies themselves, they must first make a [pie shell](https://runescape.wiki/w/Pie_shell). This is done by using a [pot of flour](https://runescape.wiki/w/Pot_of_flour) with [water](https://runescape.wiki/w/Water_source) to create [pastry dough](https://runescape.wiki/w/Pastry_dough), then by using the pastry dough with a [pie dish](https://runescape.wiki/w/Pie_dish) to create a pie shell."
+      },
+      {
+        "name": "​",
+        "value": "[**Redberry Pie**](https://runescape.wiki/w/Redberry_pie)\n• Requires level 10 [Cooking](https://runescape.wiki/w/Cooking).\n• Fill a pie shell with [redberries](https://runescape.wiki/w/Redberries), then cook on a [range](https://runescape.wiki/w/Range)."
+      },
+      {
+        "name": "​",
+        "value": "[**Meat Pie**](https://runescape.wiki/w/Meat_pie)\n• Can be purchased from the [Forester's Arms](https://runescape.wiki/w/Forester%27s_Arms) in [Seers' Village](https://runescape.wiki/w/Seers%27_Village).\n• Requires level 20 Cooking.\n• Fill a pie shell with [cooked meat](https://runescape.wiki/w/Cooked_meat) or [cooked chicken](https://runescape.wiki/w/Cooked_chicken), then cook on a range."
+      },
+      {
+        "name": "​",
+        "value": "[**Mud Pie**](https://runescape.wiki/w/Mud_pie)\n• Requires level 29 Cooking.\n• Fill a pie shell with [compost](https://runescape.wiki/w/Compost), then a [bucket of water](https://runescape.wiki/w/Bucket_of_water), then [clay](https://runescape.wiki/w/Clay), then cook on a range."
+      },
+      {
+        "name": "​",
+        "value": "[**Apple Pie**](https://runescape.wiki/w/Apple_pie)\n• Can be purchased from the [Legend's Guild](https://runescape.wiki/w/Legends%27_Guild_General_Store)\n• Requires level 30 Cooking.\n• Fill a pie shell with a [cooking apple](https://runescape.wiki/w/Cooking_apple), then cook on a range."
+      },
+      {
+        "name": "​",
+        "value": "[**Garden Pie**](https://runescape.wiki/w/Garden_pie)\n• Requires level 34 Cooking.\n• Fill a pie shell with a [tomato](https://runescape.wiki/w/Tomato), then an [onion](https://runescape.wiki/w/Onion), then a [cabbage](https://runescape.wiki/w/Cabbage), then cook on a range."
+      },
+      {
+        "name": "​",
+        "value": "[**Fish Pie**](https://runescape.wiki/w/Fish_pie)\n• Requires level 47 Cooking.\n• Fill a pie shell with a [cooked trout](https://runescape.wiki/w/Trout), then a [cooked cod](https://runescape.wiki/w/Cod), then a [potato](https://runescape.wiki/w/Raw_potato), then cook on a range."
+      },
+      {
+        "name": "​",
+        "value": "[**Admiral Pie**](https://runescape.wiki/w/Admiral_pie)\n• Requires level 70 Cooking.\n• Fill a pie shell with a [cooked salmon](https://runescape.wiki/w/Salmon), then a [cooked tuna](https://runescape.wiki/w/Tuna), then a potato, then cook on a range."
+      },
+      {
+        "name": "​",
+        "value": "[**Pork Pie**](https://runescape.wiki/w/Pork_pie)\n• Requires level 74 Cooking.\n• Fill a pie shell with 3 pieces of [cooked bacon](https://runescape.wiki/w/Bacon), then cook on a range."
+      },
+      {
+        "name": "​",
+        "value": "[**Wild Pie**](https://runescape.wiki/w/Wild_pie)\n• Requires level 85 Cooking.\n• Fill a pie shell with [raw bear meat](https://runescape.wiki/w/Raw_bear_meat), then a [raw chompy](https://runescape.wiki/w/Raw_chompy), then a [raw rabbit](https://runescape.wiki/w/Raw_rabbit), then cook on a range."
+      },
+      {
+        "name": "​",
+        "value": "[**Wilder Pie**](https://runescape.wiki/w/Wild_pie)\n• Requires level 85 Cooking.\n• Fill a pie shell with raw bear meat, then a raw chompy, then a raw rabbit, then a [crushed dragonstone](https://runescape.wiki/w/Crushed_dragonstone), then cook on a range."
+      },
+      {
+        "name": "​",
+        "value": "[**Summer Pie**](https://runescape.wiki/w/Mud_pie)\n• Requires level 95 Cooking.\n• Fill a pie shell with a [strawberry](https://runescape.wiki/w/Strawberry), then a [watermelon](https://runescape.wiki/w/Watermelon), then a cooking apple, then cook on a range."
+      },
+      {
+        "name": "Requirements:",
+        "value": "• None"
+      }
+      ],
+    "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "miscellaneous - general - you wanna pizza me?": {
+    "title": "You Wanna Pizza Me? (Miscellaneous, General)",
+    "description": "[You Wanna Pizza Me?](https://runescape.wiki/w/You_Wanna_Pizza_Me%3F) is an achievement that requires the player to eat every type of pizza. Eating half of each pizza is enough to complete the achievement.",
+        "color": 12269891,
+    "footer": {
+      "icon_url": "https://runescape.wiki/images/7/77/RuneScore.png?9f9cd",
+      "text": "RuneScore awarded: 10"
+    },
+    "thumbnail": {
+      "url": "https://runescape.wiki/images/a/ac/Default_achievement_icon.png?fb2fd"
+    },
+    "author": {
+      "name": "RuneScore Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "fields": [
+      {
+        "name": "The Pizzas:",
+        "value": "• All of the pizzas except banana pizza can be purchased from the [Grand Exchange](https://runescape.wiki/w/Grand_Exchange).\n• If the player wishes to make the pizzas themselves, they must first make a plain pizza, as described below."
+      },
+      {
+        "name": "​",
+        "value": "[**Plain Pizza**](https://runescape.wiki/w/Plain_pizza)\n• Can be purchased from the [Warrior's Guild Food Shop](https://runescape.wiki/w/Warriors%27_Guild_Food_Shop).\n• Requires level 35 [Cooking](https://runescape.wiki/w/Cooking).\n• Use a [pot of flour](https://runescape.wiki/w/Pot_of_flour) with [water](https://runescape.wiki/w/Water_source) to create a [pizza base](https://runescape.wiki/w/Pizza_base).\n• Add a [tomato](https://runescape.wiki/w/Tomato), then [cheese](https://runescape.wiki/w/Cheese) to the pizza base, then cook on a [range](https://runescape.wiki/w/Range)."
+      },
+      {
+        "name": "​",
+        "value": "[**Meat Pizza**](https://runescape.wiki/w/Meat_pizza)\n• Requires level 45 Cooking.\n• Add [cooked meat](https://runescape.wiki/w/Cooked_meat) or [cooked chicken](https://runescape.wiki/w/Cooked_chicken) to a plain pizza."
+      },
+      {
+        "name": "​",
+        "value": "[**Anchovy Pizza**](https://runescape.wiki/w/Anchovy_pizza)\n• Requires level 55 Cooking.\n• Add [cooked anchovies](https://runescape.wiki/w/Anchovies) to a plain pizza."
+      },
+      {
+        "name": "​",
+        "value": "[**Pineapple Pizza**](https://runescape.wiki/w/Pineapple_pizza)\n• Requires level 65 Cooking.\n• Add a [pineapple ring](https://runescape.wiki/w/Pineapple_ring) to a plain pizza."
+      },
+      {
+        "name": "​",
+        "value": "[**Banana Pizza**](https://runescape.wiki/w/Banana_pizza)\n• Requires level 85 Cooking.\n• Add cooked chicken, then [nuts](https://runescape.wiki/w/Nuts), then a [curry leaf](https://runescape.wiki/w/Curry_leaf), then a [sliced banana](https://runescape.wiki/w/Sliced_banana) to a plain pizza."
+      },
+      {
+        "name": "Requirements:",
+        "value": "• 85 Cooking"
+      }
+      ],
+    "timestamp": "2001-01-04T12:00:00Z"
   },
   "miscellaneous - miniquest - a brief history of telescopes": {
     "title": "A Brief History of Telescopes",
@@ -9793,7 +11312,7 @@ exports.data = {
             "name": "RuneScore Achievement Info",
             "icon_url": "https://i.imgur.com/6c6q2iC.png"
         },
-        "description": "[My Goebie Homies](https://runescape.wiki/w/My_Goebie_Homies) is an achievement that requires the player to reach maximum of 5,000 [reputation](https://runescape.wiki/w/Reputation_(Mazcab%29) with the [goebies](https://runescape.wiki/w/Goebie) on [Mazcab](https://runescape.wiki/w/Mazcab).",
+        "description": "[My Goebie Homies](https://runescape.wiki/w/My_Goebie_Homies) is an achievement that requires the player to reach maximum of 5,000 [reputation](https://runescape.wiki/w/Reputation_(Mazcab%29) with the [Goebies](https://runescape.wiki/w/Goebie) on [Mazcab](https://runescape.wiki/w/Mazcab).",
         "thumbnail":
         {
             "url": "https://i.imgur.com/Shmagnp.png"
@@ -9811,8 +11330,273 @@ exports.data = {
             "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
             "text": "RuneScore awarded: 20"
         },
-"timestamp": "2001-01-04T12:00:00Z"
+      "timestamp": "2001-01-04T12:00:00Z"
   },
+  "miscellaneous - reputation - seren's per-faction-ist": {
+        "title": "Seren's Per-faction-ist (Miscellaneous, Reputation)",
+        "author":
+        {
+            "name": "RuneScore Achievement Info",
+            "icon_url": "https://i.imgur.com/6c6q2iC.png"
+        },
+        "description": "[Seren's Per-faction-ist](https://runescape.wiki/w/Seren%27s_Per-faction-ist) is an achievement that requires the player to reach maximum [reputation](https://runescape.wiki/w/Reputation_(Heart_of_Gielinor%29) with the Seren faction in the [Heart of Gielinor](https://runescape.wiki/w/Heart_of_Gielinor).",
+        "thumbnail":
+        {
+            "url": "https://i.imgur.com/Shmagnp.png"
+        },
+        "fields":
+        [
+            {
+                 "name": "Requirements:",
+                 "value": "• 70 Constitution\n• 60 Strength **or** Agility"
+            }
+           
+        ],
+        "footer":
+        {
+            "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+            "text": "RuneScore awarded: 20"
+        },
+    "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "miscellaneous - reputation - sliske's per-faction-ist": {
+        "title": "Sliske's Per-faction-ist (Miscellaneous, Reputation)",
+        "author":
+        {
+            "name": "RuneScore Achievement Info",
+            "icon_url": "https://i.imgur.com/6c6q2iC.png"
+        },
+        "description": "[Sliske's Per-faction-ist](https://runescape.wiki/w/Sliske%27s_Per-faction-ist) is an achievement that requires the player to reach maximum [reputation](https://runescape.wiki/w/Reputation_(Heart_of_Gielinor%29) with the Sliske faction in the [Heart of Gielinor](https://runescape.wiki/w/Heart_of_Gielinor).",
+        "thumbnail":
+        {
+            "url": "https://i.imgur.com/Shmagnp.png"
+        },
+        "fields":
+        [
+            {
+                 "name": "Requirements:",
+                 "value": "• 70 Constitution\n• 60 Strength **or** Agility"
+            }
+           
+        ],
+        "footer":
+        {
+            "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+            "text": "RuneScore awarded: 20"
+        },
+    "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "miscellaneous - reputation - zamorak's per-faction-ist": {
+        "title": "Zamorak's Per-faction-ist (Miscellaneous, Reputation)",
+        "author":
+        {
+            "name": "RuneScore Achievement Info",
+            "icon_url": "https://i.imgur.com/6c6q2iC.png"
+        },
+        "description": "[Zamorak's Per-faction-ist](https://runescape.wiki/w/Zamorak%27s_Per-faction-ist) is an achievement that requires the player to reach maximum [reputation](https://runescape.wiki/w/Reputation_(Heart_of_Gielinor%29) with the Zamorak faction in the [Heart of Gielinor](https://runescape.wiki/w/Heart_of_Gielinor).",
+        "thumbnail":
+        {
+            "url": "https://i.imgur.com/Shmagnp.png"
+        },
+        "fields":
+        [
+            {
+                 "name": "Requirements:",
+                 "value": "• 70 Constitution\n• 60 Strength **or** Agility"
+            }
+           
+        ],
+        "footer":
+        {
+            "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+            "text": "RuneScore awarded: 20"
+        },
+    "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "miscellaneous - reputation - zaros's per-faction-ist": {
+        "title": "Zaros's Per-faction-ist (Miscellaneous, Reputation)",
+        "author":
+        {
+            "name": "RuneScore Achievement Info",
+            "icon_url": "https://i.imgur.com/6c6q2iC.png"
+        },
+        "description": "[Zaros's Per-faction-ist](https://runescape.wiki/w/Zaros%27s_Per-faction-ist) is an achievement that requires the player to reach maximum [reputation](https://runescape.wiki/w/Reputation_(Heart_of_Gielinor%29) with the Zaros faction in the [Heart of Gielinor](https://runescape.wiki/w/Heart_of_Gielinor).",
+        "thumbnail":
+        {
+            "url": "https://i.imgur.com/Shmagnp.png"
+        },
+        "fields":
+        [
+            {
+                 "name": "Requirements:",
+                 "value": "• 70 Constitution\n• 60 Strength **or** Agility"
+            }
+           
+        ],
+        "footer":
+        {
+            "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+            "text": "RuneScore awarded: 20"
+        },
+    "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "skills - agility - perfectly balanced i - iv": {
+        "title": "Perfectly Balanced I - IV (Skills, Agility)",
+        "author":
+        {
+            "name": "RuneScore Achievement Info",
+            "icon_url": "https://i.imgur.com/6c6q2iC.png"
+        },
+        "description": "[Perfectly Balanced](https://runescape.wiki/w/Perfectly_Balanced_IV) is a scaling achievement that requires the player to train on a [Serenity post](https://runescape.wiki/w/Serenity_posts) 1, 5, 10, and 25 times respectively.\n\nSince one can only train on a serenity post once per day, the minimum time to finish this achievement is 25 days.",
+        "thumbnail":
+        {
+            "url": "https://i.imgur.com/Shmagnp.png"
+        },
+        "fields":
+        [
+            {
+                 "name": "Requirements:",
+                 "value": "• 75 Agility\n\n• Plague's End Quest completion | [Runescape Wiki](https://runescape.wiki/w/Plague%27s_End)"
+            }
+           
+        ],
+        "footer":
+        {
+            "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+            "text": "RuneScore awarded: 5, 10, 20, 30 [65]"
+        },
+    "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "skills - agility - gaps, traps and laps": {
+        "title": "Gaps, Traps and Laps (Skills, Agility)",
+        "author":
+        {
+            "name": "RuneScore Achievement Info",
+            "icon_url": "https://i.imgur.com/6c6q2iC.png"
+        },
+        "description": "[Gaps, Traps and Laps](https://runescape.wiki/w/Gaps,_Traps_and_Laps) is an achievement that requires the player to complete a lap on each of the listed [agility courses](https://runescape.wiki/w/Agility#Agility_courses) at least once.",
+        "thumbnail":
+        {
+            "url": "https://i.imgur.com/Shmagnp.png"
+        },
+        "fields":
+        [
+            {
+                 "name": "Agility courses:",
+                 "value": "• [Burthope](https://rs.wiki/w/Burthorpe_Agility_Course)\n• [Gnome Stronghold](https://rs.wiki/w/Gnome_Stronghold_Agility_Course)\n• [Brimhaven Agility Arena](https://rs.wiki/w/Brimhaven_Agility_Arena)\n• [Werewolf Skullball](https://rs.wiki/w/Werewolf_Skullball)\n• [Jaleustrophos Pyramid](https://rs.wiki/w/Agility_Pyramid)\n• [Penguin Agility Course](https://rs.wiki/w/Penguin_Agility_Course)\n• [Barbarian Outpost](https://rs.wiki/w/Barbarian_Outpost_Agility_Course)\n• [Ape Atoll](https://rs.wiki/w/Ape_Atoll_Agility_Course)",
+                 "inline": true
+            },
+            {
+                 "name": "​",
+                 "value": "• [Wilderness](https://rs.wiki/w/Wilderness_Agility_Course)\n• [Bandos' Throne Room](https://rs.wiki/w/Bandos_Agility_Course)\n• [Werewolf Agility Course](https://rs.wiki/w/Werewolf_Agility_Course)\n• [Hefin Agility Course](https://rs.wiki/w/Hefin_Agility_Course)\n• [Dorgesh-Kaan](https://rs.wiki/w/Dorgesh-Kaan_Agility_Course)\n• [Gnome Stronghold (advanced)](https://runescape.wiki/w/Gnome_Stronghold_Agility_Course#Advanced_course)\n• [Barbarian Outpost (advanced)](https://runescape.wiki/w/Barbarian_Outpost_Agility_Course#Advanced_course)",
+                 "inline": true
+            },
+            {
+                 "name": "Requirements:",
+                 "value": "• 90 Agility\n\n• Bar Crawl Miniquest completion | [Runescape Wiki](https://runescape.wiki/w/Bar_Crawl)\n• The Chosen Commander Quest completion | [Runescape Wiki](https://runescape.wiki/w/The_Chosen_Commander)\n• Cold War Quest completion | [Runescape Wiki](https://runescape.wiki/w/Cold_War)\n• Creature of Fenkenstrain Quest completion | [Runescape Wiki](https://runescape.wiki/w/Creature_of_Fenkenstrain)\n• Death to the Dorgeshuun Quest completion | [Runescape Wiki](https://runescape.wiki/w/Death_to_the_Dorgeshuun)\n• Monkey Madness Quest partial completion | [Runescape Wiki](https://runescape.wiki/w/Monkey_Madness)\n• Plague's End Quest completion | [Runescape Wiki](https://runescape.wiki/w/Plague%27s_End)"
+            }
+           
+        ],
+        "footer":
+        {
+            "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+            "text": "RuneScore awarded: 20"
+        },
+      "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "skills - construction - reverent sculptor": {
+        "title": "Reverent Sculptor (Skills, Construction)",
+        "author":
+        {
+            "name": "RuneScore Achievement Info",
+            "icon_url": "https://i.imgur.com/6c6q2iC.png"
+        },
+        "description": "[Reverent Sculptor](https://runescape.wiki/w/Reverent_Sculptor) is an achievement that requires the player to unlock all of the listed [chisels](https://rs.wiki/Sculpting_chisel) from sculpting [God statues](https://rs.wiki/God_statues) and then talking to [Copernicus Glyph](https://rs.wiki/Copernicus_Glyph) about rewards.",
+        "thumbnail":
+        {
+            "url": "https://i.imgur.com/Shmagnp.png"
+        },
+        "fields":
+        [
+            {
+                 "name": "Chisels to obtain:",
+                 "value": "• [Bandos chisel](https://rs.wiki/Sculpting_chisel_(Bandos%29)\n• [Guthix chisel](https://rs.wiki/Sculpting_chisel_(Guthix%29)\n• [Saradomin chisel](https://rs.wiki/Sculpting_chisel_(Saradomin%29)\n• [Seren chisel](https://rs.wiki/Sculpting_chisel_(Seren%29)\n• [Zamorak chisel](https://rs.wiki/Sculpting_chisel_(Zamorak%29)"
+            },
+            {
+                 "name": "Requirements:",
+                 "value": "• 75 Construction"
+            }
+        ],
+        "footer":
+        {
+            "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+            "text": "RuneScore awarded: 30"
+        },
+    "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "skills - construction - wen mah aquarium jas got a bik too ful": {
+        "title": "Wen Mah Aquarium Jas Got a Bik too Ful (Skills, Construction)",
+        "author":
+        {
+            "name": "RuneScore Achievement Info",
+            "icon_url": "https://i.imgur.com/6c6q2iC.png"
+        },
+        "description": "[Wen Mah Aquarium Jas Got a Bik too Ful](https://rs.wiki/Wen_Mah_Aquarium_Jas_Got_a_Bik_too_Ful) is an achievement that requires the player to place a [Stone of Jas](https://rs.wiki/Stone_of_Jas_plug) plug in the [Aquarium](https://rs.wiki/Aquarium) of a [player-owned house](https://rs.wiki/Player-owned_house) by operating the [Bathysphere](https://rs.wiki/Bathysphere) while in building mode.\n\nThis opens the interface that lets players place items in the tank, then remove the current plug, and select from the menu the Stone of Jas plug and place it in the tank. \n\nNote: Removing the existing stone of jas plug doesn't reset the whole aquarium. You just have to remove it and add it back under building mode.",
+        "thumbnail":
+        {
+            "url": "https://i.imgur.com/Shmagnp.png"
+        },
+        "fields":
+        [
+            {
+                 "name": "Requirements:",
+                 "value": "• 63 Construction"
+            }
+        ],
+        "footer":
+        {
+            "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+            "text": "RuneScore awarded: 30"
+        },
+    "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "skills - cooking - cheese and biscuits": {
+        "title": "Cheese and biscuits (Skills, Cooking)",
+        "author":
+        {
+            "name": "RuneScore Achievement Info",
+            "icon_url": "https://i.imgur.com/6c6q2iC.png"
+        },
+        "thumbnail":
+        {
+            "url": "https://i.imgur.com/Shmagnp.png"
+        },
+        "description": "[Cheese and biscuits](https://rs.wiki/Cheese_and_biscuits) is an achievement that requires the player to make one of each kind of cheesecake.\n\nTalking with the [Head chef](https://rs.wiki/Head_chef) in the [Cooks' Guild](https://rs.wiki/Cooks%27_Guild) after completing this achievement awards the player with a [Cooking XP lamp](https://rs.wiki/Cooking_XP_lamp_(Chef%27s_Assistant,_post-quest%29) that gives 8,000 [Cooking](https://rs.wiki/Cooking) experience.\n\nThe plain [Cheesecake](https://rs.wiki/Cheesecake) made during [Chef's Assistant](https://rs.wiki/Chef%27s_Assistant) is automatically counted toward this achievement.\n\nEach cheesecake, regardless of type, requires [Biscuits](https://rs.wiki/Biscuits) and a [Pot of cream](https://rs.wiki/Pot_of_cream), in addition to the specific item(s) listed below.",
+        "fields":
+        [
+            {
+                 "name": "Cheesecake type:  Cooking Level:",
+                 "value": "• [Plain](https://rs.wiki/Cheesecake)                                        32\n\n• [Vanilla](https://rs.wiki/Vanilla_cheesecake)                                   37\n\n• [Chocolate](https://rs.wiki/Chocolate_cheesecake)                           42\n\n• [Strawberry](https://rs.wiki/Strawberry_cheesecake)                         47\n\n• [Lemon](https://rs.wiki/Lemon_cheesecake)                                  52\n\n• [Bacon](https://rs.wiki/Bacon_cheesecake)                                     57",
+                 "inline": true
+            },
+            {
+                 "name": "Ingredients:",
+                 "value": "• [Cream cheese](https://rs.wiki/Cream_cheese)\n\n• [Vanilla cream cheese](https://rs.wiki/Vanilla_cream_cheese)\n\n• [Chocolate cream cheese](https://rs.wiki/Chocolate_cream_cheese)\n\n• [Strawberry cream cheese](https://rs.wiki/Strawberry_cream_cheese)\n\n• [Cream cheese](https://rs.wiki/Cream_cheese) and [Lemon](https://rs.wiki/Lemon)\n\n• [Cream cheese](https://rs.wiki/Cream_cheese) and [Bacon](https://rs.wiki/Bacon)",
+                 "inline": true
+            },
+            {
+                 "name": "Requirements:",
+                 "value": "• 57 Cooking\n\n• Bringing Home the Bacon Quest partial completion | [Runescape Wiki](https://rs.wiki/Bringing_Home_the_Bacon)\n• Chef's Assistant Quest partial completion | [Runescape Wiki](https://rs.wiki/Chef%27s_Assistant)"
+            }
+           
+        ],
+        "footer":
+        {
+            "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+            "text": "RuneScore awarded: 10"
+        },
+"timestamp": "2001-01-04T12:00:00Z"
+    },
   "skills - cooking - the great gnomish shake off": {
     "title": "The Great Gnomish Shake Off (Skills, Cooking)",
     "description": "[The Great Gnomish Shake Off](https://runescape.wiki/w/The_Great_Gnomish_Shake_Off) is an achievement that requires the player to make all of the [gnome cocktails](https://runescape.wiki/w/Gnome_cooking#Cocktails).",
@@ -9870,6 +11654,36 @@ exports.data = {
         "value": "• 37 Cooking\n• Completion of the gnome cocktail tutorial."
       }
       ]
+  },
+  "skills - crafting - the school of jewels": {
+        "title": "The School of Jewels (Skills, Crafting)",
+        "author":
+        {
+            "name": "RuneScore Achievement Info",
+            "icon_url": "https://i.imgur.com/6c6q2iC.png"
+        },
+        "description": "[The School of Jewels](https://rs.wiki/The_School_of_Jewels) is an achievement that requires the player to cut each of the listed [gems](https://rs.wiki/Uncut_gem).",
+        "thumbnail":
+        {
+            "url": "https://i.imgur.com/Shmagnp.png"
+        },
+        "fields":
+        [
+            {
+                 "name": "Gems to cut:",
+                 "value": "• [Opal](https://rs.wiki/Uncut_opal)\n• [Jade](https://rs.wiki/Uncut_Jade)\n• [Topaz](https://rs.wiki/Uncut_Topaz)\n• [Sapphire](https://rs.wiki/Uncut_Sapphire)\n• [Emerald](https://rs.wiki/Uncut_Emerald)\n• [Ruby](https://rs.wiki/Uncut_Ruby)\n• [Diamond](https://rs.wiki/Uncut_Diamond)\n• [Dragonstone](https://rs.wiki/Uncut_Dragonstone)\n• [Onyx](https://rs.wiki/Uncut_Onyx)\n• [Hydrix](https://rs.wiki/Uncut_Hydrix)"
+            },
+            {
+                 "name": "Requirements:",
+                 "value": "• 79 Crafting"
+            }
+        ],
+        "footer":
+        {
+            "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+            "text": "RuneScore awarded: 20"
+        },
+    "timestamp": "2001-01-04T12:00:00Z"
   },
   "skills - divination - business is booning!": {
     "title": "Business Is Booning!",
@@ -10076,6 +11890,33 @@ exports.data = {
     },
 "timestamp": "2001-01-04T12:00:00Z"
   },
+  "skills - divination - snippets of memory": {
+        "title": "Snippets of Memory (Skills, Divination)",
+        "author":
+        {
+            "name": "RuneScore Achievement Info",
+            "icon_url": "https://i.imgur.com/6c6q2iC.png"
+        },
+        "description": "[Snippets of Memory](https://runescape.wiki/w/Snippets_of_Memory) is an achievement that requires the player to obtain the [Elder divination outfit](https://runescape.wiki/w/Elder_divination_outfit).",
+        "thumbnail":
+        {
+            "url": "https://i.imgur.com/Shmagnp.png"
+        },
+        "fields":
+        [
+            {
+                 "name": "Requirements:",
+                 "value": "• 80 Divination\n• 20 Invention"
+            }
+           
+        ],
+        "footer":
+        {
+            "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+            "text": "RuneScore awarded: 10"
+        },
+    "timestamp": "2001-01-04T12:00:00Z"
+  },
   "skills - divination - the archivist": {
     "title": "The Archivist",
     "author": {
@@ -10151,33 +11992,23 @@ exports.data = {
       }
       ]
   },
-  "skills - cooking - cheese and biscuits": {
-        "title": "Cheese and biscuits (Skills, Cooking)",
+  "skills - dungeoneering - scraps of the gorajo": {
+        "title": "Scraps of the Gorajo (Skills, Dungeoneering)",
         "author":
         {
             "name": "RuneScore Achievement Info",
             "icon_url": "https://i.imgur.com/6c6q2iC.png"
         },
+        "description": "[Scraps of the Gorajo](https://runescape.wiki/w/Scraps_of_the_Gorajo)  is an achievement that requires the player to obtain the [Warped gorajan trailblazer outfit](https://runescape.wiki/w/Warped_gorajan_trailblazer_outfit).",
         "thumbnail":
         {
             "url": "https://i.imgur.com/Shmagnp.png"
         },
-        "description": "[Cheese and biscuits](https://rs.wiki/Cheese_and_biscuits) is an achievement that requires the player to make one of each kind of cheesecake.\n\nTalking with the [Head chef](https://rs.wiki/Head_chef) in the [Cooks' Guild](https://rs.wiki/Cooks%27_Guild) after completing this achievement awards the player with a [Cooking XP lamp](https://rs.wiki/Cooking_XP_lamp_(Chef%27s_Assistant,_post-quest%29) that gives 8,000 [Cooking](https://rs.wiki/Cooking) experience.\n\nThe plain [Cheesecake](https://rs.wiki/Cheesecake) made during [Chef's Assistant](https://rs.wiki/Chef%27s_Assistant) is automatically counted toward this achievement.\n\nEach cheesecake, regardless of type, requires [Biscuits](https://rs.wiki/Biscuits) and a [Pot of cream](https://rs.wiki/Pot_of_cream), in addition to the specific item(s) listed below.",
         "fields":
         [
             {
-                 "name": "Cheesecake type:  Cooking Level:",
-                 "value": "• [Plain](https://rs.wiki/Cheesecake)                                        32\n\n• [Vanilla](https://rs.wiki/Vanilla_cheesecake)                                   37\n\n• [Chocolate](https://rs.wiki/Chocolate_cheesecake)                           42\n\n• [Strawberry](https://rs.wiki/Strawberry_cheesecake)                         47\n\n• [Lemon](https://rs.wiki/Lemon_cheesecake)                                  52\n\n• [Bacon](https://rs.wiki/Bacon_cheesecake)                                     57",
-                 "inline": true
-            },
-            {
-                 "name": "Ingredients:",
-                 "value": "• [Cream cheese](https://rs.wiki/Cream_cheese)\n\n• [Vanilla cream cheese](https://rs.wiki/Vanilla_cream_cheese)\n\n• [Chocolate cream cheese](https://rs.wiki/Chocolate_cream_cheese)\n\n• [Strawberry cream cheese](https://rs.wiki/Strawberry_cream_cheese)\n\n• [Cream cheese](https://rs.wiki/Cream_cheese) and [Lemon](https://rs.wiki/Lemon)\n\n• [Cream cheese](https://rs.wiki/Cream_cheese) and [Bacon](https://rs.wiki/Bacon)",
-                 "inline": true
-            },
-            {
                  "name": "Requirements:",
-                 "value": "• 57 Cooking\n\n• Bringing Home the Bacon Quest partial completion | [Runescape Wiki](https://rs.wiki/Bringing_Home_the_Bacon)\n• Chef's Assistant Quest partial completion | [Runescape Wiki](https://rs.wiki/Chef%27s_Assistant)"
+                 "value": "• 80 Dungeoneering \n• 20 Invention"
             }
            
         ],
@@ -10186,8 +12017,174 @@ exports.data = {
             "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
             "text": "RuneScore awarded: 10"
         },
-"timestamp": "2001-01-04T12:00:00Z"
-    },
+    "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "skills - dungeoneering - the home of daemons": {
+        "title": "The Home of Daemons (Skills, Dungeoneering)",
+        "author":
+        {
+            "name": "RuneScore Achievement Info",
+            "icon_url": "https://i.imgur.com/6c6q2iC.png"
+        },
+        "description": "[The Home of Daemons](https://rs.wiki/The_Home_of_Daemons) is an achievement that requires the player to beat every boss in [Daemonheim](https://rs.wiki/Daemonheim). The bosses do not need to be soloed.",
+        "thumbnail":
+        {
+            "url": "https://i.imgur.com/Shmagnp.png"
+        },
+        "fields":
+        [
+            {
+                 "name": "Bosses (Found until floor 30):",
+                 "value": "• [Gluttonous Behemoth](https://rs.wiki/Gluttonous_behemoth)\n   [Astea Frostweb](https://rs.wiki/Astea_Frostweb)\n   [Icy Bones](https://rs.wiki/Icy_Bones)\n\n• [Luminescent Icefiend](https://rs.wiki/Icy_Bones)\n\n• [Plane-freezer Lakhrahnaz](https://rs.wiki/Plane-freezer_Lakhrahnaz)\n\n• [To'Kash the Bloodchiller](https://rs.wiki/To%27Kash_the_Bloodchiller)\n\n• [Skeletal Horde](https://rs.wiki/Skeletal_Horde)/[Divine skinweaver](https://rs.wiki/Divine_skinweaver)\n   [Hobgoblin Geomancer](https://rs.wiki/Hobgoblin_Geomancer)\n   [Bulwark Beast](https://rs.wiki/Bulwark_beast)\n\n• [Unholy Cursebearer](https://rs.wiki/Unholy_cursebearer)\n\n• [Rammernaut](https://rs.wiki/Rammernaut)\n   [Stomp](https://rs.wiki/Stomp)\n   [Har'Lakk the Riftsplitter](https://rs.wiki/Stomp)\n\n• [Lexicus Runewright](https://rs.wiki/Lexicus_Runewright)\n\n• [Sagittare](https://rs.wiki/Sagittare)\n\n• [Night-gazer Khighorahk](https://rs.wiki/Night-gazer_Khighorahk)\n\n",
+                 "inline": true
+            },
+            {
+                 "name": "Optimal Floors:",
+                 "value": " 1-2\n\n\n\n 3-5\n\n 6-8\n\n 9-11\n\n 12-14\n\n\n\n 15-17\n\n 18-19\n\n\n\n 20-22\n\n 23-26\n\n 26-29",
+                 "inline": true
+            },
+            {
+                 "name": "Bosses (Found from floor 33 to 60):",
+                 "value": "• [Shadow-forger Ihlakhizan](https://rs.wiki/Shadow-forger_Ihlakhizan)\n   [Bal'lak the Pummeller](https://rs.wiki/Bal%27lak_the_Pummeller)\n\n• [Skeletal Trio](https://rs.wiki/Skeletal_trio)\n   [Runebound Behemoth](https://rs.wiki/Runebound_behemoth)\n   [Gravecreeper](https://rs.wiki/Gravecreeper)\n\n• [Necrolord](https://rs.wiki/Necrolord)\n\n• [Flesh-spoiler Haasghenahk](https://rs.wiki/Flesh-spoiler_Haasghenahk)\n\n• [Yk'Lagor the Thunderous](https://rs.wiki/Yk%27Lagor_the_Thunderous)\n\n• [Blink](https://rs.wiki/Blink)\n   [Warped Gulega](https://rs.wiki/Warped_Gulega)\n   [Dreadnaut](https://rs.wiki/Dreadnaut)\n\n• [Hope Devourer](https://rs.wiki/Hope_devourer)\n\n• [World-gorger Shukarhazh](https://rs.wiki/World-gorger_Shukarhazh)\n\n• [Kal'Ger the Warmonger](https://rs.wiki/Kal%27Ger_the_Warmonger)\n\n",
+                 "inline": true
+            },
+            {
+                 "name": "Optimal Floors:",
+                 "value": " 33-35\n\n\n 36-38\n\n\n\n 39-41\n\n 42-44\n\n 45-47\n\n 48-50\n\n\n\n 51-53\n\n 54-56\n\n 57-60",
+                 "inline": true
+            },
+            {
+                 "name": "Requirements:",
+                 "value": "• 113 Dungeoneering"
+            }
+        ],
+        "footer":
+        {
+            "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+            "text": "RuneScore awarded: 50"
+        },
+    "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "skills - dungeoneering - the ominous sarcophagus metropolis i - iv": {
+        "title": "The Ominous Sarcophagus Metropolis I - IV (Skills, Dungeoneering)",
+        "author":
+        {
+            "name": "RuneScore Achievement Info",
+            "icon_url": "https://i.imgur.com/6c6q2iC.png"
+        },
+        "description": "[The Ominous Sarcophagus Metropolis](https://runescape.wiki/w/The_Ominous_Sarcophagus_Metropolis_IV) is a scaling achievement that requires the player to complete 1, 5, 10, and 25 perfect [Shifting Tombs](https://runescape.wiki/w/Shifting_tombs) runs respectively using a [Shifting tombs reward enhancer](https://runescape.wiki/w/Shifting_tombs_reward_enhancer).",
+        "thumbnail":
+        {
+            "url": "https://i.imgur.com/Shmagnp.png"
+        },
+        "fields":
+        [
+            {
+                 "name": "Requirements:",
+                 "value": "• Jack of Spades Quest completion | [Runescape Wiki](https://runescape.wiki/w/The_Jack_of_Spades)"
+            }
+           
+        ],
+        "footer":
+        {
+            "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+            "text": "RuneScore awarded: 5, 10, 20, 30 [65]"
+        },
+    "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "skills - dungeoneering - the riches wythien the maw i - iv": {
+        "title": "The Riches Wythien the Maw I - IV (Skills, Dungeoneering)",
+        "author":
+        {
+            "name": "RuneScore Achievement Info",
+            "icon_url": "https://i.imgur.com/6c6q2iC.png"
+        },
+        "description": "[The Riches Wythien the Maw](https://runescape.wiki/w/The_Riches_Wythien_the_Maw_IV) is a scaling achievement that requires the player to claim a reward from the [Motherlode Maw](https://runescape.wiki/w/Motherlode_Maw) 1, 5, 10, and 25 times respectively.\n\nSince one can only claim a reward from the Motherlode Maw once per day, the minimum time to finish this achievement is 25 days.",
+        "thumbnail":
+        {
+            "url": "https://i.imgur.com/Shmagnp.png"
+        },
+        "fields":
+        [
+            {
+                 "name": "Requirements:",
+                 "value": "• 115 Dungeoneering\n• 95 in all non-elite skills\n\n• Plague's End Quest completion | [Runescape Wiki](https://runescape.wiki/w/Plague%27s_End)"
+            }
+           
+        ],
+        "footer":
+        {
+            "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+            "text": "RuneScore awarded: 5, 10, 20, 30 [65]"
+        },
+    "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "skills - dungeoneering - very resourceful": {
+        "title": "Very resourceful (Skills, Dungeoneering)",
+        "author":
+        {
+            "name": "RuneScore Achievement Info",
+            "icon_url": "https://i.imgur.com/6c6q2iC.png"
+        },
+        "description": "[Very resourceful](https://runescape.wiki/w/Very_resourceful) is an achievement that requires the player to visit the 20 listed [Resource dungeons](https://runescape.wiki/w/Resource_dungeon).",
+        "thumbnail":
+        {
+            "url": "https://i.imgur.com/Shmagnp.png"
+        },
+        "fields":
+        [
+            {
+                 "name": "Dungeons to visit: ",
+                 "value": "• [Edgeville Dungeon chaos druids dungeon](https://runescape.wiki/w/Edgeville_Dungeon_chaos_druids_dungeon)\n• [Dwarven Mine hidden mine](https://runescape.wiki/w/Dwarven_Mine_hidden_mine)\n• [Edgeville Dungeon hill giant resource dungeon](https://runescape.wiki/w/Edgeville_Dungeon_hill_giant_resource_dungeon)\n• [Karamja Volcano resource dungeon](https://runescape.wiki/w/Karamja_Volcano_resource_dungeon)\n• [Daemonheim Peninsula resource dungeon](https://runescape.wiki/w/Daemonheim_Peninsula_resource_dungeon)\n• [Baxtorian Falls resource dungeon](https://runescape.wiki/w/Baxtorian_Falls_resource_dungeon)\n• [Mining Guild  resource dungeon](https://runescape.wiki/w/Mining_Guild_resource_dungeon)\n• [Braindeath Island 'Rum'-geon](https://runescape.wiki/w/Braindeath_Island_%27Rum%27-geon)\n• [Taverley hellhound resource dungeon](https://runescape.wiki/w/Taverley_hellhound_resource_dungeon)"
+            },
+            {
+                 "name": "​",
+                 "value": "• [Taverley blue dragon resource dungeon](https://runescape.wiki/w/Taverley_blue_dragon_resource_dungeon)\n• [Varrock Sewers resource dungeon](https://runescape.wiki/w/Varrock_Sewers_resource_dungeon)\n• [Dragontooth Island resource dungeon](https://runescape.wiki/w/Dragontooth_Island_resource_dungeon)\n• [Chaos Tunnels resource dungeon](https://runescape.wiki/w/Chaos_Tunnels_resource_dungeon)\n• [Al Kharid mining site resource dungeon](https://runescape.wiki/w/Al_Kharid_mining_site_resource_dungeon)\n• [Brimhaven Dungeon resource dungeon](https://runescape.wiki/w/Brimhaven_Dungeon_resource_dungeon)\n• [Polypore Dungeon resource dungeon](https://runescape.wiki/w/Polypore_Dungeon_resource_dungeon)\n• [Asgarnian Ice Dungeon resource dungeon](https://runescape.wiki/w/Asgarnian_Ice_Dungeon_resource_dungeon)\n• [Kal'gerion dungeon](https://runescape.wiki/w/Kal%27gerion_dungeon)"
+            },
+            {
+                 "name": "​",
+                 "value": "• [Gorajo resource dungeon](https://runescape.wiki/w/Gorajo_resource_dungeon)\n• [Edimmu resource dungeon](https://runescape.wiki/w/Edimmu_resource_dungeon)\n\n"
+            },
+            {
+                 "name": "Requirements:",
+                 "value": "• 115 Dungeoneering"
+            }
+           
+        ],
+        "footer":
+        {
+            "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+            "text": "RuneScore awarded: 10"
+        },
+    "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "skills - dungeoneering - without blinking an eye": {
+        "title": "Without Blinking An Eye (Skills, Dungeoneering)",
+        "author":
+        {
+            "name": "RuneScore Achievement Info",
+            "icon_url": "https://i.imgur.com/6c6q2iC.png"
+        },
+        "description": "[Without Blinking An Eye](https://rs.wiki/Without_Blinking_An_Eye) is an achievement that requires the player to kill [Blink](https://rs.wiki/Blink) in a solo Dungeoneering instance, without dying.",
+        "thumbnail":
+        {
+            "url": "https://i.imgur.com/Shmagnp.png"
+        },
+        "fields":
+        [
+           
+            {
+                 "name": "Requirements:",
+                 "value": "• 95 Dungeoneering"
+            }
+        ],
+        "footer":
+        {
+            "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+            "text": "RuneScore awarded: 40"
+        },
+    "timestamp": "2001-01-04T12:00:00Z"
+  },
   "skills - farming - animal whisperer": {
             "title": "Animal Whisperer",
             "author": {
@@ -10478,6 +12475,32 @@ exports.data = {
       "text": "RuneScore awarded: 10"
     }
   },
+  "skills - farming - gotta patch'em all": {
+        "title": "Gotta Patch'em All (Skills, Farming)",
+        "author":
+        {
+            "name": "RuneScore Info",
+            "icon_url": "https://i.imgur.com/6c6q2iC.png"
+        },
+        "description": "[Gotta Patch 'Em All](https://runescape.wiki/w/Gotta_Patch_%27Em_All) is an achievement that requires the player to have something planted and living in every [farming patch](https://runescape.wiki/w/Farming/Patch_locations). Patches in which something was just planted count. \n \n Having a [Sprinkler MK1](https://runescape.wiki/w/Sprinkler_MK1) or scarecrow in a flower patch does not count as living. An actual flower needs to be planted. \n \n Players can use the [Remote Farming](https://runescape.wiki/w/Remote_Farming) spell from the [Lunar spellbook](https://runescape.wiki/w/Lunar_spell) to check which patches have something planted in them. The spell will also show which patches are empty.",
+        "thumbnail":
+        {
+            "url": "https://i.imgur.com/Shmagnp.png"
+        },
+        "fields":
+        [
+            {
+                "name": "Requirements:",
+                "value": "• 94 Farming\n\n• Plague's End Quest completion | [Runescape Wiki](https://runescape.wiki/w/Plague%27s_End)\n• The Great Brain Robbery Quest completion | [Runescape Wiki](https://runescape.wiki/w/The_Great_Brain_Robbery)\n• Back To My Roots Quest completion | [Runescape Wiki](https://runescape.wiki/w/Back_to_my_Roots)"
+            }
+        ],
+        "footer":
+        {
+            "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+            "text": "RuneScore awarded: 50"
+        },
+      "timestamp": "2001-01-04T12:00:00Z"
+  },
   "skills - farming - granny knows best": {
     "title": "Granny Knows Best",
     "author": {
@@ -10502,6 +12525,52 @@ exports.data = {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
       "text": "RuneScore awarded: 5"
     }
+  },
+  "skills - farming - herb your enthusiasm": {
+        "title": "Herb Your Enthusiasm (Skills, Farming)",
+        "author":
+        {
+            "name": "RuneScore Info",
+            "icon_url": "https://i.imgur.com/6c6q2iC.png"
+        },
+        "description": "[Herb Your Ethusiasm](https://runescape.wiki/w/Herb_Your_Enthusiasm) is an achievement that requires the player to harvest each of the listed [herbs](https://runescape.wiki/w/herbs).\n \n",
+        "thumbnail":
+        {
+            "url": "https://i.imgur.com/Shmagnp.png"
+        },
+        "fields":
+        [
+            {
+                "name": "Standard:",
+                "value": "• [Guam](https://runescape.wiki/w/Grimy_Guam) \n• [Marrentill](https://runescape.wiki/w/Grimy_Marrentill) \n• [Tarromin](https://runescape.wiki/w/Grimy_Tarromin) \n• [Harralander](https://runescape.wiki/w/Grimy_Harralander) \n• [Ranarr](https://runescape.wiki/w/Grimy_Ranarr) \n• [Spiritweed](https://runescape.wiki/w/Grimy_Spiritweed) \n• [Toadflax](https://runescape.wiki/w/Grimy_Toadflax) \n• [Irit](https://runescape.wiki/w/Grimy_Irit) \n• [Wergali](https://runescape.wiki/w/Grimy_Wergali)",
+                "inline": true
+ 
+            },
+            {
+                "name": "​",
+                "value": "• [Avantoe](https://runescape.wiki/w/Grimy_Avantoe) \n• [Kwuarm](https://runescape.wiki/w/Grimy_Kwuarm) \n• [Bloodweed](https://runescape.wiki/w/Grimy_Bloodweed) \n• [Cadantine](https://runescape.wiki/w/Grimy_Cadantine) \n• [Lantadyme](https://runescape.wiki/w/Grimy_Lantadyme) \n• [Dwarfweed](https://runescape.wiki/w/Grimy_Dwarfweed) \n• [Torstol](https://runescape.wiki/w/Grimy_Torstol) \n• [Fellstalk](https://runescape.wiki/w/Grimy_Fellstalk) \n ",
+                "inline": true
+ 
+            },
+            {
+                "name": "Herblore Habitat:",
+                "value": "• [Erzille](https://runescape.wiki/w/Grimy_Erzille) \n• [Argway](https://runescape.wiki/w/Grimy_Argway) \n• [Ugune](https://runescape.wiki/w/Grimy_Ugune) \n• [Shengo](https://runescape.wiki/w/Grimy_Shengo) \n• [Samaden](https://runescape.wiki/w/Grimy_Samaden)\n"
+            },
+            {
+                "name": "Requirements:",
+                "value": "• 91 Farming"
+            },
+            {
+                "name": "Guide:",
+                "value": "• [Herblore Habitat | Runescape Wiki](https://runescape.wiki/w/Herblore_Habitat) \n• [Herb Patch Locations | Runescape Wiki](https://runescape.wiki/w/Farming/Patch_locations#Allotment/Flower/Herb_patches) "
+            }
+        ],
+        "footer":
+        {
+            "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+            "text": "RuneScore awarded: 20"
+        },
+      "timestamp": "2001-01-04T12:00:00Z"
   },
   "skills - farming - honorary dragonkin": {
     "title": "Honorary Dragonkin",
@@ -10677,6 +12746,33 @@ exports.data = {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
       "text": "RuneScore awarded: 20"
     }
+  },
+  "skills - farming - smartest harvest": {
+        "title": "Smartest Harvest (Skills, Farming)",
+        "author":
+        {
+            "name": "RuneScore Info",
+            "icon_url": "https://i.imgur.com/6c6q2iC.png"
+        },
+       
+"description": "[Smartest Harvest](https://runescape.wiki/w/Smartest_Harvest) is an achievement that requires the player to harvest 60 objects from [Fruit tree patches](https://runescape.wiki/w/Fruit_tree_patches) within 4 minutes. Bushes also work.\n\n Without bonuses, only 42 fruits can be picked from the 7 fruit trees. The potential harvest of fruit can be boosted through a combination of the following means: \n\n\t\t • Wearing the [Tree farmer outfit](https://runescape.wiki/w/Tree_farmer_outfit) or [Master farmer outfit](https://runescape.wiki/w/Master_farmer_outfit), which provides a 10% chance of gaining bonus produce when harvesting from fruit trees.\n\n• A [Giant ent](https://runescape.wiki/w/Giant_ent) familiar, which gives a 50% chance of giving an extra fruit.\n\nThere is currently a bug where wearing the [Farming cape](https://runescape.wiki/w/Farming_cape) will prevent the achievement from being completed.\n\nA costlier method involves purchasing multiple [Magic bean (fruity)](https://runescape.wiki/w/Magic_bean_(fruity%29) from [Granny Potterington](https://runescape.wiki/w/Granny_Potterington) and using them on a singular fruit patch.\n\nIf 60 fruits are not harvested within 4 minutes, a chatbox message will appear saying: \"Your progress for the 'Smartest Harvest' achievement has been reset.\"",
+        "thumbnail":
+        {
+            "url": "https://i.imgur.com/Shmagnp.png"
+        },
+        "fields":
+        [
+            {
+                "name": "Requirements:",
+                "value": "• 27 Farming"
+            }
+        ],
+        "footer":
+        {
+            "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+            "text": "RuneScore awarded: 30"
+        },
+    "timestamp": "2001-01-04T12:00:00Z"
   },
   "skills - farming - tickety boom!": {
     "title": "Tickety Boom!",
@@ -11615,6 +13711,33 @@ exports.data = {
     },
 "timestamp": "2001-01-04T12:00:00Z"
   },
+  "skills - fishing - scales of the sea": {
+        "title": "Scales of the Sea (Skills, Fishing)",
+        "author":
+        {
+            "name": "RuneScore Achievement Info",
+            "icon_url": "https://i.imgur.com/6c6q2iC.png"
+        },
+        "description": "[Scales of the Sea](https://runescape.wiki/w/Scales_of_the_Sea) is an achievement requires the player to obtain the [Fury shark outfit](https://runescape.wiki/w/Fury_shark_outfit).",
+        "thumbnail":
+        {
+            "url": "https://i.imgur.com/Shmagnp.png"
+        },
+        "fields":
+        [
+            {
+                 "name": "Requirements:",
+                 "value": "• 80 Fishing\n• 20 Invention"
+            }
+           
+        ],
+        "footer":
+        {
+            "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+            "text": "RuneScore awarded: 10"
+        },
+    "timestamp": "2001-01-04T12:00:00Z"
+  },
   "skills - fletching - bakriminel minds": {
         "title": "Bakriminel Minds (Skills, Fletching)",
         "author":
@@ -11658,7 +13781,7 @@ exports.data = {
       "name": "RuneScore Achievement Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Jack of All Blades](https://runescape.wiki/w/Jack_of_All_Blades_(achievement) is an achievement rewarded after obtaining all 9 combat [skilling pets](https://runescape.wiki/w/Skilling_pets) and thus unlocking the title, **[Name], Jack of All Blades**.",
+    "description": "[Jack of All Blades](https://runescape.wiki/w/Jack_of_All_Blades_(achievement) is an achievement rewarded after obtaining all 9 combat [skilling pets](https://runescape.wiki/w/Skilling_pets) and thus unlocking the title, [Name]**, Jack of All Blades**.",
     "color": 10257648,
     "thumbnail": {
       "url": "https://i.imgur.com/Shmagnp.png"
@@ -11679,7 +13802,7 @@ exports.data = {
       "name": "RuneScore Achievement Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Jack of All Trades](https://runescape.wiki/w/Jack_of_All_Trades_(achievement) is an achievement rewarded after obtaining all 18 non-combat [skilling pets](https://runescape.wiki/w/Skilling_pets) and thus unlocking the title, **[Name], Jack of All Trades**.",
+    "description": "[Jack of All Trades](https://runescape.wiki/w/Jack_of_All_Trades_(achievement) is an achievement rewarded after obtaining all 18 non-combat [skilling pets](https://runescape.wiki/w/Skilling_pets) and thus unlocking the title, [Name]**, Jack of All Trades**.",
     "color": 10257648,
     "thumbnail": {
       "url": "https://i.imgur.com/Shmagnp.png"
@@ -11700,7 +13823,7 @@ exports.data = {
       "name": "RuneScore Achievement Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Jack of Blades](https://runescape.wiki/w/Jack_of_Blades_(achievement) is an achievement rewarded after obtaining 3 combat [skilling pets](https://runescape.wiki/w/Skilling_pets) and thus unlocking the title, **[Name], Jack of Blades**.",
+    "description": "[Jack of Blades](https://runescape.wiki/w/Jack_of_Blades_(achievement) is an achievement rewarded after obtaining 3 combat [skilling pets](https://runescape.wiki/w/Skilling_pets) and thus unlocking the title, [Name]**, Jack of Blades**.",
     "color": 10257648,
     "thumbnail": {
       "url": "https://i.imgur.com/Shmagnp.png"
@@ -11721,7 +13844,7 @@ exports.data = {
       "name": "RuneScore Achievement Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Jack of Trades](https://runescape.wiki/w/Jack_of_Trades_(achievement) is an achievement rewarded after obtaining 5 non-combat [skilling pets](https://runescape.wiki/w/Skilling_pets) and thus unlocking the title, **[Name], Jack of Trades**.",
+    "description": "[Jack of Trades](https://runescape.wiki/w/Jack_of_Trades_(achievement) is an achievement rewarded after obtaining 5 non-combat [skilling pets](https://runescape.wiki/w/Skilling_pets) and thus unlocking the title, [Name]**, Jack of Trades**.",
     "color": 10257648,
     "thumbnail": {
       "url": "https://i.imgur.com/Shmagnp.png"
@@ -11742,7 +13865,7 @@ exports.data = {
       "name": "RuneScore Achievement Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Master of All](https://runescape.wiki/w/Master_of_All_(achievement%29) is an achievement that requires the player to obtain all 27 [skilling pets](https://runescape.wiki/w/Skilling_pets). There is 4 other titles that the player will unlock before the Master of All title, which include:\n\n• The [Jack of Trades](https://runescape.wiki/w/Jack_of_Trades) title (after 5 non-combat skill pets)\n• The [Jack of All Trades](https://runescape.wiki/w/Jack_of_All_Trades) title (after 18 non-combat skill pets)\n• The [Jack of Blades](https://runescape.wiki/w/Jack_of_Blades) title (after 3 combat skill pets)\n• The [Jack of All Blades](https://runescape.wiki/w/Jack_of_All_Blades) title (after 9 combat skill pets)\n\nCompleting this achievement awards the **[Name], Master of All** title.",
+    "description": "[Master of All](https://runescape.wiki/w/Master_of_All_(achievement%29) is an achievement that requires the player to obtain all 27 [skilling pets](https://runescape.wiki/w/Skilling_pets). There is 4 other titles that the player will unlock before the Master of All title, which include:\n\n• The [Jack of Trades](https://runescape.wiki/w/Jack_of_Trades) title (after 5 non-combat skill pets)\n• The [Jack of All Trades](https://runescape.wiki/w/Jack_of_All_Trades) title (after 18 non-combat skill pets)\n• The [Jack of Blades](https://runescape.wiki/w/Jack_of_Blades) title (after 3 combat skill pets)\n• The [Jack of All Blades](https://runescape.wiki/w/Jack_of_All_Blades) title (after 9 combat skill pets)\n\nCompleting this achievement awards the [Name]**, Master of All** title.",
     "color": 10257648,
     "thumbnail": {
       "url": "https://i.imgur.com/Shmagnp.png"
@@ -11803,6 +13926,294 @@ exports.data = {
       "text": "RuneScore awarded: 5"
     },
 "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "skills - hunter - goebie one with the wildlife": {
+        "title": "Goebie One with the Wildlife (Skills, Hunter)",
+        "author":
+        {
+            "name": "RuneScore Achievement Info",
+            "icon_url": "https://i.imgur.com/6c6q2iC.png"
+        },
+        "description": "[Goebie One with the Wildlife](https://runescape.wiki/w/Goebie_One_with_the_Wildlife) is an achievement that requires the player to complete [Arod's](https://runescape.wiki/w/Arod_the_environmentalist) wildlife reserve on [Mazcab](https://runescape.wiki/w/Mazcab).",
+        "thumbnail":
+        {
+            "url": "https://i.imgur.com/Shmagnp.png"
+        },
+        "fields":
+        [
+            {
+                 "name": "Creatures:",
+                 "value": "• [Choloa](https://runescape.wiki/w/Choloa) \n• [Kerrit](https://runescape.wiki/w/Kerrit) \n• [Popoca](https://runescape.wiki/w/Popoca)\n• [Snuffle](https://runescape.wiki/w/Snuffle)"
+            },
+            {
+                 "name": "Requirements:",
+                 "value": "• 70 Hunter"
+            }
+           
+        ],
+        "footer":
+        {
+            "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+            "text": "RuneScore awarded: 10"
+        },
+      "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "skills - hunter - jadinko bingo": {
+        "title": "Jadinko Bingo (Skills, Hunter)",
+        "author":
+        {
+            "name": "RuneScore Achievement Info",
+            "icon_url": "https://i.imgur.com/6c6q2iC.png"
+        },
+        "description": "[Jadinko Bingo](https://rs.wiki/Jadinko_Bingo) is an achievement that requires the player to catch each of the listed [Jadinkos](https://rs.wiki/Jadinko).\n\nCapturing each jadinko requires variable combinations of planted [vine blossoms](https://runescape.wiki/w/Blossom_seed), [bushes](https://rs.wiki/w/Farming#Bush), and [fruit trees](https://rs.wiki/w/Farming#Fruit_tree) as well as various habitats.\n\nThe plants do not need to be fully grown. Rare jadinko types require a [Juju hunter potion](https://rs.wiki/Juju_hunter_potion) to be used on the vine blossom. Additionally, the combinations for the three types of [god jadinkos](https://rs.wiki/Herblore_Habitat#God_Jadinkos) change weekly, differing between players.\n\nThe combination can be found easily by first planting a vine blossom, using a juju hunter potion on it, then constructing various habitats until a game message appears in the chat box alerting the player that they have met two requirements for attracting a certain type of jadinko.\n\nThen, the third requirement can be met by planting either a [Banana tree](https://rs.wiki/Banana_tree), [Apple tree](https://rs.wiki/Apple_tree), or [Orange tree](https://rs.wiki/Orange_tree) until the notification is given. The type of fruit tree will remain identical for all three god jadinkos.\n\n Finally, plant either a [Lergberry bush](https://rs.wiki/Lergberry_bush), [Kalferberry bush](https://rs.wiki/Kalferberry_bush), or leave the patch empty until one of three god jadinkos has been attracted. \n\nNote:\n\n It may be beneficial to bring a spade as some plants do not have a clear option.\n\n Further information, including [efficient catching methods](https://rs.wiki/Herblore_Habitat#Efficient_catching_method), may be found on the [Herblore Habitat](https://rs.wiki/Herblore_Habitat) page.",
+        "fields":
+        [
+            {
+                 "name": "Jadinko:  ⠀Vine Blossom:",
+                 "value":"• [Common](https://rs.wiki/Common_jadinko)  • Any\n\n• [Igneous](https://rs.wiki/Igneous_jadinko)    • [Blue](https://rs.wiki/Blue_vine_blossom)\n\n• [Cannibal](https://rs.wiki/Cannibal_jadinko)  • [Green](https://rs.wiki/Blue_vine_blossom) ([Juju](https://rs.wiki/Juju_hunter_potion))\n\n• [Aquatic](https://rs.wiki/Aquatic_jadinko)    • [Red](https://rs.wiki/Red_vine_blossom) (Juju)\n\n• [Amphibious](https://rs.wiki/Amphibious_jadinko)   • Blue\n\n• [Carrion](https://rs.wiki/Carrion_jadinko)     • Green\n\n• [Draconic](https://rs.wiki/Draconic_jadinko)  • Red (Juju)\n\n• [Saradomin](https://rs.wiki/Saradomin_jadinko)  • Varies\n\n• [Guthix](https://rs.wiki/Guthix_jadinko)   • Varies\n\n• [Zamorak](https://rs.wiki/Zamorak_jadinko)  • Varies\n\n• [Shadow](https://rs.wiki/Shadow_jadinko)    • Red\n\n• [Diseased](https://rs.wiki/Diseased_jadinko)  • Any\n\n• [Camouflaged](https://rs.wiki/Camouflaged_jadinko) • Any (Juju)",
+                 "inline": true
+            },
+            {
+                 "name": "Bush:     Habitat:     Fruit Tree:",
+                 "value":"•Any/None       • Any/None                • Any/None\n\n• Lergberry        • [Thermal vent](https://rs.wiki/Thermal_vent)            • Orange tree\n\n• Kalferberry     • [Tall grass](https://rs.wiki/Tall_grass)                   • None\n\n• Kalferberry     • [Pond](https://rs.wiki/Pond)                           • Apple tree\n\n• Lergberry        • Pond                           • None\n\n• Kalferberry     • [Boneyard](https://rs.wiki/Boneyard)                   • Any/None\n\n• Lergberry        • [Dark pit](https://rs.wiki/Dark_pit)                      • None\n\n• Varies              • Varies                         • Varies\n\n• Varies              • Varies                         • Varies\n\n• Varies              • Varies                         • Varies\n\n• None                • [Abandoned house](https://rs.wiki/Abandoned_house)   • Any/None\n\n• None                • Boneyard                   • Banana tree\n\n• Lergberry        • [Standing stones](https://rs.wiki/Standing_stones)       • None",
+                 "inline": true
+            },
+            {
+                 "name": "Requirements:",
+                 "value": "• 81 Hunter"
+            }
+           
+        ],
+        "footer":
+        {
+            "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+            "text": "RuneScore awarded: 30"
+        },
+      "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "skills - hunter - sonic crystal": {
+        "title": "Sonic Crystal (Skills, Hunter)",
+        "author":
+        {
+            "name": "RuneScore Achievement Info",
+            "icon_url": "https://i.imgur.com/6c6q2iC.png"
+        },
+        "description": "[Sonic Crystal](https://runescape.wiki/w/Sonic_Crystal) is an achievement that requires the player to use the [Crystallise](https://runescape.wiki/w/Crystallise) spell on a caught [Grenwall](https://runescape.wiki/w/Grenwall).",
+        "thumbnail":
+        {
+            "url": "https://i.imgur.com/Shmagnp.png"
+        },
+        "fields":
+        [
+            {
+                 "name": "Requirements:",
+                 "value": "• 77 Hunter\n• 88 Magic\n\n• The Light Within Quest completion | [Runescape Wiki](https://runescape.wiki/w/The_Light_Within)"
+            }
+           
+        ],
+        "footer":
+        {
+            "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+            "text": "RuneScore awarded: 10"
+        },
+    "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "skills - invention - great responsibility": {
+        "title": "Great Responsibility (Skills, Invention)",
+        "author":
+        {
+            "name": "RuneScore Achievement Info",
+            "icon_url": "https://i.imgur.com/6c6q2iC.png"
+        },
+        "description": "[Great Responsibility](https://runescape.wiki/w/Great_Responsibility) is an achievement that requires the player to have over 490,000 charges in a [jumbo generator](https://runescape.wiki/w/Jumbo_generator) in the [Invention Guild](https://runescape.wiki/w/Invention_Guild).",
+        "thumbnail":
+        {
+            "url": "https://i.imgur.com/Shmagnp.png"
+        },
+        "fields":
+        [
+            {
+                 "name": "Requirements:",
+                 "value": "• 102 Invention"
+            }
+           
+        ],
+        "footer":
+        {
+            "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+            "text": "RuneScore awarded: 20"
+        },
+      "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "skills - invention - i said disassemble, not dismember": {
+        "title": "I Said Disassemble, Not Dismember (Skills, Invention)",
+        "author":
+        {
+            "name": "RuneScore Achievement Info",
+            "icon_url": "https://i.imgur.com/6c6q2iC.png"
+        },
+        "description": "[I Said Disassemble, Not Dismember](https://runescape.wiki/w/I_Said_Disassemble,_Not_Dismember) is an achievement that requires the player to try to [Disassemble](https://runescape.wiki/w/Disassemble) a living creature, such as a [Dreadnip](https://runescape.wiki/w/Dreadnip) or a [Red chinchompa](https://runescape.wiki/w/Red_chinchompa).",
+        "thumbnail":
+        {
+            "url": "https://i.imgur.com/Shmagnp.png"
+        },
+        "fields":
+        [
+            {
+                 "name": "Requirements:",
+                 "value": "• 80 Smithing\n• 80 Divination\n• 80 Crafting"
+            }
+           
+        ],
+        "footer":
+        {
+            "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+            "text": "RuneScore awarded: 5"
+        },
+      "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "skills - invention - light 'em up!": {
+        "title": "Light 'Em Up! (Skills, Invention)",
+        "author":
+        {
+            "name": "RuneScore Achievement Info",
+            "icon_url": "https://i.imgur.com/6c6q2iC.png"
+        },
+        "description": "[Light 'Em Up!](https://runescape.wiki/w/Light_%27Em_Up!) is an achievement that requires the player to burn at least 15 logs at once using the [Pyromaniac](https://runescape.wiki/w/Pyromaniac) perk.",
+        "thumbnail":
+        {
+            "url": "https://i.imgur.com/Shmagnp.png"
+        },
+        "fields":
+        [
+            {
+                 "name": "Requirements:",
+                 "value": "• 80 Smithing\n• 80 Divination\n• 80 Crafting\n• 22 Invention"
+            }
+           
+        ],
+        "footer":
+        {
+            "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+            "text": "RuneScore awarded: 10"
+        },
+      "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "skills - mining - i love dailyscape": {
+        "title": "I Love DailyScape (Skills, Mining)",
+        "author":
+        {
+            "name": "RuneScore Achievement Info",
+            "icon_url": "https://i.imgur.com/6c6q2iC.png"
+        },
+        "description": "[I Love DailyScape](https://runescape.wiki/w/I_Love_DailyScape) is an achievement that requires the player to cap out on [Red sandstone](https://runescape.wiki/w/Red_sandstone) and [Crystal-flecked sandstone](https://runescape.wiki/w/Crystal-flecked_sandstone_(ore%29) in a day.",
+        "thumbnail":
+        {
+            "url": "https://i.imgur.com/Shmagnp.png"
+        },
+        "fields":
+        [
+            {
+                 "name": "Red Sandstone:",
+                 "value": "• 50 can be found at the [Oo'glog red sandstone mine](https://runescape.wiki/w/Oo%27glog_red_sandstone)\n• 25 can be found at the [Sophanem red sandstone mine](https://runescape.wiki/w/Sophanem_red_sandstone)"
+            },
+            {
+                 "name": "Crystal-flecked Sandstone:",
+                 "value": "• 50 can be found at the [Ithell crystal sandstone mine](https://runescape.wiki/w/Ithell_crystal_sandstone)\n• 25 can be found at the [Meilyr crystal sandstone mine](https://runescape.wiki/w/Meilyr_crystal_sandstone)"
+            },
+            {
+                 "name": "Requirements:",
+                 "value": "• 81 Mining\n• 115 Dungeoneering\n\n• As a First Resort Quest completion | [Runescape Wiki](https://runescape.wiki/w/As_a_First_Resort)\n• Plague's End Quest completion | [Runescape Wiki](https://runescape.wiki/w/Plague%27s_End)\n• Elite Desert Tasks completion | [Runescape Wiki](https://runescape.wiki/w/Desert_achievements#Elite_achievements)"
+            }
+           
+        ],
+        "footer":
+        {
+            "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+            "text": "RuneScore awarded: 20"
+        },
+      "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "skills - mining - imcando attitude": {
+        "title": "Imcando Attitude (Skills, Mining)",
+        "author":
+        {
+            "name": "RuneScore Achievement Info",
+            "icon_url": "https://i.imgur.com/6c6q2iC.png"
+        },
+        "description": "[Imcando Attitude](https://runescape.wiki/w/Imcando_Attitude) is an achievement that requires the player to obtain an [Imcando pickaxe](https://runescape.wiki/w/Imcando_pickaxe) from the [Lava Flow Mine](https://runescape.wiki/w/Lava_Flow_Mine).",
+        "thumbnail":
+        {
+            "url": "https://i.imgur.com/Shmagnp.png"
+        },
+        "fields":
+        [
+            {
+                 "name": "Requirements:",
+                 "value": "• 70 Smithing\n• 77 Strength\n• 68 Mining"
+            }
+           
+        ],
+        "footer":
+        {
+            "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+            "text": "RuneScore awarded: 30"
+        },
+      "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "skills - mining - it's late and i'm awake": {
+        "title": "It's Late and I'm Awake (Skills, Mining)",
+        "author":
+        {
+            "name": "RuneScore Achievement Info",
+            "icon_url": "https://i.imgur.com/6c6q2iC.png"
+        },
+        "description": "[It's Late and I'm Awake](https://runescape.wiki/w/It%27s_Late_and_I%27m_Awake)  is an achievement that requires the player to hand in 200 stardust to a [Star sprite](https://runescape.wiki/w/Star_sprite) after mining a [Shooting star](https://runescape.wiki/w/Shooting_star).",
+        "thumbnail":
+        {
+            "url": "https://i.imgur.com/Shmagnp.png"
+        },
+        "fields":
+        [
+            {
+                 "name": "Requirements:",
+                 "value": "• 10 Mining"
+            }
+           
+        ],
+        "footer":
+        {
+            "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+            "text": "RuneScore awarded: 10"
+        },
+      "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "skills - mining - shards of the earth": {
+        "title": "Shards of the Earth (Skills, Mining)",
+        "author":
+        {
+            "name": "RuneScore Achievement Info",
+            "icon_url": "https://i.imgur.com/6c6q2iC.png"
+        },
+        "description": "[Shards of the Earth](https://runescape.wiki/w/Shards_of_the_Earth) is an achievement that requires the player to obtain the [Magic golem outfit](https://runescape.wiki/w/Magic_golem_outfit).",
+        "thumbnail":
+        {
+            "url": "https://i.imgur.com/Shmagnp.png"
+        },
+        "fields":
+        [
+            {
+                 "name": "Requirements:",
+                 "value": "• 20 Invention\n• 80 Mining"
+            }
+           
+        ],
+        "footer":
+        {
+            "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+            "text": "RuneScore awarded: 10"
+        },
+    "timestamp": "2001-01-04T12:00:00Z"
   },
   "skills - prayer - bury all": {
         "title": "Bury All (Skills, Prayer)",
@@ -11975,6 +14386,87 @@ exports.data = {
         },
       "timestamp": "2001-01-04T12:00:00Z"
   },
+  "skills - runecrafting - rinsit transit": {
+        "title": "Rinsit Transit (Skills, Runecrafting)",
+        "author":
+        {
+            "name": "RuneScore Achievement Info",
+            "icon_url": "https://i.imgur.com/6c6q2iC.png"
+        },
+        "description": "[Rinsit Transit](https://runescape.wiki/w/Rinsit_Transit) is an achievement that requires the player to unlock the [Runespan](https://runescape.wiki/w/Runespan) [portal](https://runescape.wiki/w/Runespan#Location) redirect for 1,000 [Runespan points](https://runescape.wiki/w/Runespan_points).",
+        "thumbnail":
+        {
+            "url": "https://i.imgur.com/Shmagnp.png"
+        },
+        "fields":
+        [
+            {
+                 "name": "Requirements:",
+                 "value": "• None"
+            }
+           
+        ],
+        "footer":
+        {
+            "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+            "text": "RuneScore awarded: 5"
+        },
+    "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "skills - runecrafting - splinters of power": {
+        "title": "Splinters of Power (Skills, Runecrafting)",
+        "author":
+        {
+            "name": "RuneScore Achievement Info",
+            "icon_url": "https://i.imgur.com/6c6q2iC.png"
+        },
+        "description": "[Splinters of Power](https://runescape.wiki/w/Splinters_of_Power) is an achievement that requires the player to own the [Infinity ethereal outfit](https://runescape.wiki/w/Infinity_ethereal_outfit).",
+        "thumbnail":
+        {
+            "url": "https://i.imgur.com/Shmagnp.png"
+        },
+        "fields":
+        [
+            {
+                 "name": "Requirements:",
+                 "value": "• 80 Runecrafting\n• 20 Invention"
+            }
+           
+        ],
+        "footer":
+        {
+            "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+            "text": "RuneScore awarded: 10"
+        },
+    "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "skills - runecrafting - y'all got any more of that rune dust? i - iv": {
+        "title": "Y'all Got Any More of that Rune Dust? I - IV (Skills, Runecrafting)",
+        "author":
+        {
+            "name": "RuneScore Achievement Info",
+            "icon_url": "https://i.imgur.com/6c6q2iC.png"
+        },
+        "description": "[Y'all Got Any More of that Rune Dust?](https://runescape.wiki/w/Y%27all_Got_Any_More_of_that_Rune_Dust%3F_IV) is a scaling achievement that requires the player to hand in [Rune dust](https://runescape.wiki/w/Rune_dust_(Runespan%29) to a [Runesphere](https://runescape.wiki/w/Runesphere) 1, 5, 10, and 25 times respectively.\n\nAny amount can be handed in. Since one can only hand in rune dust once per day, the minimum time to finish this achievement is 25 days.",
+        "thumbnail":
+        {
+            "url": "https://i.imgur.com/Shmagnp.png"
+        },
+        "fields":
+        [
+            {
+                 "name": "Requirements:",
+                 "value": "• None"
+            }
+           
+        ],
+        "footer":
+        {
+            "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+            "text": "RuneScore awarded: 5, 10, 20, 30 [65]"
+        },
+    "timestamp": "2001-01-04T12:00:00Z"
+  },
   "skills - smithing - work on your artisan": {
       "title": "Work on Your Artisan (Skills, Smithing)",
       "author": {
@@ -12000,6 +14492,31 @@ exports.data = {
       },
       "timestamp": "2001-01-04T12:00:00Z"
     },
+  "skills - smithing - work on your artisan ii": {
+      "title": "Work on Your Artisan II",
+      "author": {
+        "name": "Cape Info",
+        "icon_url": "https://i.imgur.com/6c6q2iC.png"
+      },
+      "description": "[Work on Your Artisan II](https://runescape.wiki/w/Work_on_Your_Artisan_II) is an achievement that requires the player to unlock all rewards from the [Artisans' Workshop](https://runescape.wiki/w/Artisans_Workshop) (including outfits).\n\nThe Artisans' Workshop is a Smithing workshop founded by [Aksel](https://runescape.wiki/w/Aksel), located in the south-east corner of [Falador](https://runescape.wiki/w/Falador). With the Mining and Smithing rework released on 7 January 2019 the Artisans Workshop and its activities are reinvented as a proper 'Smithing Guild'. The Smithing Guild will become the default location for players to smith together socially.\n\nThe total cost of all unlocks is 1070% [Respect](https://runescape.wiki/w/Respect_(Artisans_Workshop%29). You may only have 100% respect at a time, so you will need to spend it before accruing more.",
+      "thumbnail": {
+        "url": "https://i.imgur.com/dd1sWAa.png"
+      },
+      "fields": [{
+          "name": "Requirements:",
+          "value": "• Quick Repairs\n• Repair Expert\n• Solemn Smith V\n• Ceremonial Swordsmith V\n• Golden Cannon\n• Royale Cannon\n• Restocking Cannon\n• Ceremonial Sword Orders\n• Invictum Outfit\n• Necturion Outfit\n• Aetherium Outfit"
+        },
+        {
+          "name": "Guide:",
+          "value": "• [Artisans' Workshop Rewards | Runescape Wiki](https://runescape.wiki/w/Artisans_Workshop#Rewards)"
+        }
+      ],
+      "footer": {
+        "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+        "text": "RuneScore awarded: 0"
+      },
+      "timestamp": "2001-01-04T12:00:00Z"
+    }
   "skills - summoning - a bit too familiar": {
     "title": "A Bit TOO Familiar (Skills, Summoning)",
     "description": "[A Bit TOO Familiar](https://runescape.wiki/w/A_Bit_TOO_Familiar) is an achievement that requires the player to play as all possible familiars in the [Familiarisation](https://runescape.wiki/w/Familiarisation) [distraction and diversion](https://runescape.wiki/w/Distractions_and_Diversions).\n\nOwning a full [Shaman's outfit](https://runescape.wiki/w/Shaman%27s_outfit) makes it more likely that a player will play as a previously unused familiar in Familiarisation. Furthermore, the distraction and diversion does not need to be completely played. Leaving immediately after entering will still tick off the familiar.\n\nSince one can only play Familiarisation once per week (or twice with a [Weekly D&D](https://runescape.wiki/w/D%26D_token_(weekly%29)/[Familiarisation token](https://runescape.wiki/w/D%26D_token_(familiarisation%29)) the minimum time to finish this achievement is 12 weeks (6 weeks with tokens) if one is lucky enough to be assigned each familiar just once.",
@@ -12152,6 +14669,240 @@ exports.data = {
       ],
 "timestamp": "2001-01-04T12:00:00Z"
     },
+  "skills - summoning - gold": {
+    "title": "Gold (Skills, Summoning)",
+    "description": "[Gold](https://runescape.wiki/w/Gold_(achievement) is an achievement that requires the player to create each of the listed [gold charm summoning pouches](https://runescape.wiki/w/Gold_charm#Familiars).",
+        "color": 12269891,
+    "footer": {
+      "icon_url": "https://runescape.wiki/images/7/77/RuneScore.png?9f9cd",
+      "text": "RuneScore awarded: 20"
+    },
+    "thumbnail": {
+      "url": "https://runescape.wiki/images/a/ac/Default_achievement_icon.png?fb2fd"
+    },
+    "author": {
+      "name": "RuneScore Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "fields": [
+      {
+        "name": "The Ingredients:",
+        "value": "In total, to make all the gold charm pouches, the player will need:\n• 14 [gold charms](https://runescape.wiki/w/Gold_charm)\n• 14 [pouches](https://runescape.wiki/w/Pouch)\n• 107 [spirit shards](https://runescape.wiki/w/Spirit_shards)\n\nSeveral of the secondaries for this acheivement **cannot** be purchased on the [Grand Exchange](https://runescape.wiki/w/Grand_Exchange) and must be collected by killing several types of [pigs](https://runescape.wiki/w/Pig) after the completion of [Bringing Home the Bacon](https://runescape.wiki/w/Bringing_Home_the_Bacon)."
+      },
+      {
+        "name": "​",
+        "value": "[**Spirit Wolf**](https://runescape.wiki/w/Spirit_wolf_pouch)\n• Requires level 1 [Summoning](https://runescape.wiki/w/Summoning).\n• Made with 1 gold charm, 1 pouch, 7 spirit shards, and 1 [wolf bones](https://runescape.wiki/w/Wolf_bones).\n\n\n[**Dreadfowl**](https://runescape.wiki/w/Dreadfowl_pouch)\n• Requires level 8 Summoning\n• Made with 1 gold charm, 1 pouch, 8 spirit shards, and 1 [raw chicken](https://runescape.wiki/w/Raw_chicken).\n\n\n[**Spirit Spider**](https://runescape.wiki/w/Spirit_spider_pouch)\n• Requires level 10 Summoning\n• Made with 1 gold charm, 1 pouch, 8 spirit shards, and 1 [spider carcass](https://runescape.wiki/w/Spider_carcass).\n\n\n[**Thorny Snail**](https://runescape.wiki/w/Thorny_snail_pouch)\n• Requires level 13 Summoning\n• Made with 1 gold charm, 1 pouch, 9 spirit shards, and 1 [thin snail](https://runescape.wiki/w/Thin_snail)."
+      },
+      {
+        "name": "​",
+        "value": "[**Pack Pig**](https://runescape.wiki/w/Pack_pig_pouch)\n• Requires level 14 Summoning\n• Made with 1 gold charm, 1 pouch, 6 spirit shards, and 1 [pack pig tooth](https://runescape.wiki/w/Pack_pig_tooth).\n**This secondary can only be obtained by killing pigs with the pig creation machine set to spirit pack pigs.**\n\n\n[**Prayer Pig**](https://runescape.wiki/w/Prayer_pig_pouch)\n• Requires level 14 Summoning\n• Made with 1 gold charm, 1 pouch, 6 spirit shards, and 1 [prayer pig tooth](https://runescape.wiki/w/Prayer_pig_tooth).\n**This secondary can only be obtained by killing pigs with the pig creation machine set to spirit prayer pigs.**\n\n\n[**War Pig**](https://runescape.wiki/w/War_pig_pouch)\n• Requires level 14 Summoning\n• Made with 1 gold charm, 1 pouch, 6 spirit shards, and 1 [war pig tooth](https://runescape.wiki/w/War_pig_tooth).\n**This secondary can only be obtained by killing pigs with the pig creation machine set to spirit war pigs.**"
+      },
+      {
+        "name": "​",
+        "value": "[**Granite Crab**](https://runescape.wiki/w/Granite_crab_pouch)\n• Requires level 16 Summoning\n• Made with 1 gold charm, 1 pouch, 7 spirit shards, and 1 [iron ore](https://runescape.wiki/w/Iron_ore).\n\n\n[**Spirit Mosquito**](https://runescape.wiki/w/Spirit_mosquito_pouch)\n• Requires level 17 Summoning\n• Made with 1 gold charm, 1 pouch, 1 spirit shard, and 1 [proboscis](https://runescape.wiki/w/Proboscis).\n\n\n[**Bull Ant**](https://runescape.wiki/w/Bull_ant_pouch)\n• Requires level 40 Summoning\n• Made with 1 gold charm, 1 pouch, 11 spirit shards, and 1 [marigold](https://runescape.wiki/w/Marigolds).\n\n\n[**Spirit Terrorbird**](https://runescape.wiki/w/Spirit_terrorbird_pouch)\n• Requires level 52 Summoning\n• Made with 1 gold charm, 1 pouch, 12 spirit shards, and 1 [raw bird meat](https://runescape.wiki/w/Raw_bird_meat)."
+      },
+      {
+        "name": "​",
+        "value": "[**Barker Toad**](https://runescape.wiki/w/Barker_toad_pouch)\n• Requires level 66 Summoning\n• Made with 1 gold charm, 1 pouch, 11 spirit shards, and 1 [swamp toad](https://runescape.wiki/w/Swamp_toad).\n\n\n[**War Tortoise**](https://runescape.wiki/w/War_tortoise_pouch)\n• Requires level 67 Summoning\n• Made with 1 gold charm, 1 pouch, 1 spirit shard, and 1 [tortoise shell](https://runescape.wiki/w/Tortoise_shell).\n\n\n[**Arctic Bear**](https://runescape.wiki/w/Arctic_bear_pouch)\n• Requires level 71 Summoning\n• Made with 1 gold charm, 1 pouch, 14 spirit shards, and 1 [polar kebbit fur](https://runescape.wiki/w/Polar_kebbit_fur)."
+      },
+      {
+        "name": "Requirements:",
+        "value": "• 71 Summoning\n• Bringing Home the Bacon Quest completion | [Runescape Wiki](https://runescape.wiki/w/Bringing_Home_the_Bacon)"
+      }
+      ],
+      "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "skills - summoning - if your colours were like my dreams pt1": {
+    "title": "If Your Colours Were Like My Dreams (Skills, Summoning)",
+    "description": "[If Your Colours Were Like My Dreams](https://runescape.wiki/w/If_your_colours_were_like_my_dreams) is an achievement that requires the player to create each of the listed [blue charm summoning pouches](https://runescape.wiki/w/Blue_charm#Familiars).",
+    "color": 12269891,
+    "thumbnail": {
+      "url": "https://runescape.wiki/images/a/ac/Default_achievement_icon.png?fb2fd"
+    },
+    "author": {
+      "name": "RuneScore Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "fields": [
+      {
+        "name": "The Ingredients:",
+        "value": "In total, to make all the blue charm pouches, the player will need:\n• 24 [Blue charms](https://runescape.wiki/w/Blue_charm)\n• 24 [Pouches](https://runescape.wiki/w/Pouch)\n• 3,292 [Spirit shards](https://runescape.wiki/w/Spirit_shards)\n\nSeveral of the secondaries for this acheivement **cannot** be purchased on the [Grand Exchange](https://runescape.wiki/w/Grand_Exchange) and must be collected from minigames at the [Void Knights' Outpost](https://runescape.wiki/w/Void_Knights%27_Outpost), by killing [TzHaar creatures](https://runescape.wiki/w/TzHaar#The_caste_system), and by killing [Shadow creatures](https://runescape.wiki/w/Shadow_creature)."
+      },
+      {
+        "name": "​",
+        "value": "[**Albino Rat**](https://runescape.wiki/w/Albino_rat_pouch)\n• Requires level 23 [Summoning](https://runescape.wiki/w/Summoning).\n• Made with 1 blue charm, 1 pouch, 75 spirit shards, and 1 [Raw rat meat](https://runescape.wiki/w/Raw_rat_meat).\n\n\n[**Spirit Kalphite**](https://runescape.wiki/w/Spirit_kalphite_pouch)\n• Requires level 25 Summoning\n• Made with 1 blue charm, 1 pouch, 51 spirit shards, and 1 [Potato cactus](https://runescape.wiki/w/Potato_cactus).\n\n\n[**Giant Chinchompa**](https://runescape.wiki/w/Giant_chinchompa_pouch)\n• Requires level 29 Summoning\n• Made with 1 blue charm, 1 pouch, 29 spirit shards, and 1 [chinchompa](https://runescape.wiki/w/Chinchompa).\n\n\n[**Void Shifter**](https://runescape.wiki/w/Void_shifter_pouch)\n• Requires level 34 Summoning\n• Made with 1 blue charm, 1 pouch, 74 spirit shards and 1 [shifter charm](https://runescape.wiki/w/Shifter_charm).\n**This secondary can only be obtained through minigames at the Void Knights' Outpost.**"
+      },
+      {
+        "name": "​",
+        "value": "[**Void Spinner**](https://runescape.wiki/w/Void_spinner_pouch)\n• Requires level 34 Summoning\n• Made with 1 blue charm, 1 pouch, 34 spirit shards, and 1 [spinner charm](https://runescape.wiki/w/Spinner_charm).\n**This secondary can only be obtained through minigames at the Void Knights' Outpost.**\n\n\n[**Void Torcher**](https://runescape.wiki/w/Void_torcher_pouch)\n• Requires level 34 Summoning\n• Made with 1 blue charm, 1 pouch, 34 spirit shards, and 1 [torcher charm](https://runescape.wiki/w/Torcher_charm).\n**This secondary can only be obtained through minigames at the Void Knights' Outpost.**\n\n\n[**Bronze Minotaur**](https://runescape.wiki/w/Bronze_minotaur_pouch)\n• Requires level 36 Summoning\n• Made with 1 blue charm, 1 pouch, 102 spirit shards, and 1 [bronze bar](https://runescape.wiki/w/Bronze_bar).\n\n\n[**Iron Minotaur**](https://runescape.wiki/w/Iron_minotaur_pouch)\n• Requires level 46 Summoning\n• Made with 1 blue charm, 1 pouch, 125 spirit shards, and 1 [iron bar](https://runescape.wiki/w/Iron_bar)."
+      },
+      {
+        "name": "​",
+        "value": "[**Spirit Jelly**](https://runescape.wiki/w/Spirit_jelly_pouch)\n• Requires level 55 Summoning\n• Made with 1 blue charm, 1 pouch, 151 spirit shards, and 1 [jug of water](https://runescape.wiki/w/Jug_of_water).\n\n\n[**Steel Minotaur Pouch**](https://runescape.wiki/w/Steel_minotaur_pouch)\n• Requires level 56 Summoning\n• Made with 1 blue charm, 1 pouch, 141 spirit shards, and 1 [steel bar](https://runescape.wiki/w/Steel_bar).\n\n\n[**Spirit Graahk**](https://runescape.wiki/w/Spirit_graahk_pouch)\n• Requires level 57 Summoning\n• Made with 1 blue charm, 1 pouch, 154 spirit shards, and 1 [graahk fur](https://runescape.wiki/w/Graahk_fur).\n\n\n[**Spirit Kyatt**](https://runescape.wiki/w/Spirit_kyatt_pouch)\n• Requires level 57 Summoning\n• Made with 1 blue charm, 1 pouch, 153 spirit shards, and 1 [kyatt fur](https://runescape.wiki/w/Kyatt_fur)."
+      },
+      {
+        "name": "​",
+        "value": "[**Spirit Larupia**](https://runescape.wiki/w/Spirit_larupia_pouch)\n• Requires level 57 Summoning\n• Made with 1 blue charm, 1 pouch, 155 spirit shards, and 1 [larupia fur](https://runescape.wiki/w/Larupia_fur).\n\n\n[**Karamthulu Overlord**](https://runescape.wiki/w/Karam._overlord_pouch)\n• Requires level 58 Summoning\n• Made with 1 blue charm, 1 pouch, 144 spirit shards, and 1 [fishbowl](https://runescape.wiki/w/Fishbowl).\n\n\n[**Mithril Minotaur**](https://runescape.wiki/w/Mithril_minotaur_pouch)\n• Requires level 66 Summoning\n• Made with 1 blue charm, 1 pouch, 152 spirit shards, and 1 [mithril bar](https://runescape.wiki/w/Mithril_bar).\n\n\n[**Obsidian Golem**](https://runescape.wiki/w/Obsidian_golem_pouch)\n• Requires level 73 Summoning\n• Made with 1 blue charm, 1 pouch, 195 spirit shards, and 1 [obsidian charm](https://runescape.wiki/w/Obsidian_charm).\n**This secondary can only be obtained by killing TzHaar creatures.**"
+      }
+
+    ]
+  },
+  "skills - summoning - if your colours were like my dreams pt2": {
+        "fields":
+        [
+            {
+        "name": "​",
+        "value": "[**Adamant Minotaur**](https://runescape.wiki/w/Adamant_minotaur_pouch)\n• Requires level 76 Summoning\n• Made with 1 blue charm, 1 pouch, 144 spirit shards, and 1 [adamant bar](https://runescape.wiki/w/Adamant_bar).\n\n\n[**Fire Titan**](https://runescape.wiki/w/Fire_titan_pouch)\n• Requires level 79 Summoning\n• Made with 1 blue charm, 1 pouch, 198 spirit shards, and 1 [fire talisman](https://runescape.wiki/w/Fire_talisman).\n\n\n[**Ice Titan**](https://runescape.wiki/w/Ice_titan_pouch)\n• Requires level 79 Summoning\n• Made with 1 blue charm, 1 pouch, 198 spirit shards, 1 [air talisman](https://runescape.wiki/w/Air_talisman), and 1 [water talisman](https://runescape.wiki/w/Water_talisman).\n\n\n[**Moss Titan**](https://runescape.wiki/w/Moss_titan_pouch)\n• Requires level 79 Summoning\n• Made with 1 blue charm, 1 pouch, 202 spirit shards, and 1 [earth talisman](https://runescape.wiki/w/Earth_talisman)."
+      },
+      {
+        "name": "​",
+        "value": "[**Lava Titan**](https://runescape.wiki/w/Lava_titan_pouch)\n• Requires level 83 Summoning\n• Made with 1 blue charm, 1 pouch, 219 spirit shards, and 1 obsidian charm.\n**This secondary can only be obtained by killing TzHaar creatures.**\n\n\n[**Rune Minotaur**](https://runescape.wiki/w/Rune_minotaur_pouch)\n• Requires level 86 Summoning\n• Made with 1 blue charm, 1 pouch, 1 spirit shard, and 1 [rune bar](https://runescape.wiki/w/Rune_bar).\n\n\n[**Light Creature**](https://runescape.wiki/w/Light_creature_pouch)\n• Requires level 88 Summoning\n• Made with 1 blue charm, 1 pouch, 204 spirit shards, and 1 [light core](https://runescape.wiki/w/Light_core).\n**This secondary can only be obtained by killing shadow creatures or stealing from [Prifddinas elves](https://runescape.wiki/w/Elven_clan_worker).**\n\n\n[**Geyser Titan**](https://runescape.wiki/w/Geyser_titan_pouch)\n• Requires level 89 Summoning\n• Made with 1 blue charm, 1 pouch, 222 spirit shards, and 1 water talisman."
+      },
+      {
+        "name": "Requirements:",
+        "value": "• 89 Summoning\n\n• Plague's End Quest completion | [Runescape Wiki](https://runescape.wiki/w/Plague%27s_End)"
+      }
+      ],
+        "footer":
+        {
+            "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+            "text": "RuneScore awarded: 20"
+        },
+    "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "skills - summoning - loving would be easy": {
+    "title": "Loving Would Be Easy (Skills, Summoning)",
+    "description": "[Loving Would Be Easy](https://runescape.wiki/w/Loving_would_be_easy) is an achievement that requires the player to create each of the listed [elder charm summoning pouches](https://runescape.wiki/w/Elder_charm#Familiars).",
+        "color": 12269891,
+    "footer": {
+      "icon_url": "https://runescape.wiki/images/7/77/RuneScore.png?9f9cd",
+      "text": "Runescore awarded: 20"
+    },
+    "thumbnail": {
+      "url": "https://runescape.wiki/images/a/ac/Default_achievement_icon.png?fb2fd"
+    },
+    "author": {
+      "name": "RuneScore Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "fields": [
+            {
+        "name": "The Ingredients:",
+        "value": "In total, to make all the elder charm pouches, the player will need:\n• 5 [elder charms](https://runescape.wiki/w/Elder_charm)\n• 5 [pouches](https://runescape.wiki/w/Pouch)\n• 750 [elder energy](https://runescape.wiki/w/Elder_energy)\n\nThe charms and secondaries cannot be purchased on the [Grand Exchange](https://runescape.wiki/w/Grand_Exchange) and must be collected from [muspah](https://runescape.wiki/w/Muspah) and [nihils](https://runescape.wiki/w/Nihil#Monsters). The nihil secondaries can be transformed into the other nihil secondaries using elder energy."
+      },
+      {
+        "name": "​",
+        "value": "[**Nightmare Muspah**](https://runescape.wiki/w/Nightmare_muspah_pouch)\n• Requires level 81 [Summoning](https://runescape.wiki/w/Summoning).\n• Made with 1 elder charm, 1 pouch, 150 elder energy, and 1 [muspah spine](https://runescape.wiki/w/Muspah_spine)."
+      },
+      {
+        "name": "​",
+        "value": "[**Smoke Nihil**](https://runescape.wiki/w/Smoke_nihil_pouch)\n• Requires level 87 Summoning\n• Made with 1 elder charm, 1 pouch, 150 elder energy, and 1 [aviansie talons](https://runescape.wiki/w/Aviansie_talons)."
+      },
+      {
+        "name": "​",
+        "value": "[**Blood Nihil**](https://runescape.wiki/w/Blood_nihil_pouch)\n• Requires level 87 Summoning\n• Made with 1 elder charm, 1 pouch, 150 elder energy, and 1 [vampyre fangs](https://runescape.wiki/w/Vampyre_fangs)."
+      },
+      {
+        "name": "​",
+        "value": "[**Ice Nihil**](https://runescape.wiki/w/Ice_nihil_pouch)\n• Requires level 87 Summoning\n• Made with 1 elder charm, 1 pouch, 150 elder energy, and 1 [icyene feather](https://runescape.wiki/w/Icyene_feather)."
+      },
+      {
+        "name": "​",
+        "value": "[**Shadow Nihil**](https://runescape.wiki/w/Shadow_nihil_pouch)\n• Requires level 87 Summoning\n• Made with 1 elder charm, 1 pouch, 150 elder energy, and 1 [demon horn](https://runescape.wiki/w/Demon_horn)."
+      },
+      {
+        "name": "Requirements:",
+        "value": "• 87 Summoning\n\n• Fate of the Gods Quest completion | [Runescape Wiki](https://runescape.wiki/w/Fate_of_the_Gods)"
+      }
+      ],
+      "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "skills - summoning - red pt1": {
+    "title": "Red (Skills, Summoning)",
+    "description": "[Red](https://runescape.wiki/w/Red_(achievement) is an achievement that requires the player to create each of the listed [crimson charm summoning pouches](https://runescape.wiki/w/Crimson_charm#Familiars).",
+        "color": 12269891,
+    "thumbnail": {
+      "url": "https://runescape.wiki/images/a/ac/Default_achievement_icon.png?fb2fd"
+    },
+    "author": {
+      "name": "RuneScore Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "fields": [
+      {
+        "name": "The Ingredients:",
+        "value": "In total, to make all the crimson charm pouches, the player will need:\n• 26 [crimson charms](https://runescape.wiki/w/Crimson_charm)\n• 26 [pouches](https://runescape.wiki/w/Pouch)\n• 3,499 [spirit shards](https://runescape.wiki/w/Spirit_shards)\n\nSeveral of the secondaries for this acheivement **cannot** be purchased on the [Grand Exchange](https://runescape.wiki/w/Grand_Exchange) and must be collected from the [Temple Trekking](https://runescape.wiki/w/Temple_Trekking) minigame and killing [TzHaar creatures](https://runescape.wiki/w/TzHaar#The_caste_system)."
+      },
+      {
+        "name": "​",
+        "value": "[**Spirit Scorpion**](https://runescape.wiki/w/Spirit_scorpion_pouch)\n• Requires level 19 [Summoning](https://runescape.wiki/w/Summoning).\n• Made with 1 crimson charm, 1 pouch, 57 spirit shards, and 1 [bronze claw](https://runescape.wiki/w/Bronze_claw).\n\n\n[**Spirit Tz-Kih**](https://runescape.wiki/w/Spirit_tz-kih_pouch)\n• Requires level 22 Summoning\n• Made with 1 crimson charm, 1 pouch, 64 spirit shards, and 1 [obsidian charm](https://runescape.wiki/w/Obsidian_charm).\n**This secondary can only be obtained by killing TzHaar creatures.**\n\n\n[**Vampyre Bat**](https://runescape.wiki/w/Vampyre_bat_pouch)\n• Requires level 31 Summoning\n• Made with 1 crimson charm, 1 pouch, 81 spirit shards, and 1 [vampyre dust](https://runescape.wiki/w/Vampyre_dust).\n\n\n[**Honey Badger**](https://runescape.wiki/w/Honey_badger_pouch)\n• Requires level 32 Summoning\n• Made with 1 crimson charm, 1 pouch, 84 spirit shards, and 1 [honeycomb](https://runescape.wiki/w/Honeycomb)."
+      },
+      {
+        "name": "​",
+        "value": "[**Evil Turnip**](https://runescape.wiki/w/Evil_turnip_pouch)\n• Requires level 42 Summoning\n• Made with 1 crimson charm, 1 pouch, 104 spirit shards, and 1 [carved evil turnip](https://runescape.wiki/w/Carved_evil_turnip).\n\n\n[**Pyrelord**](https://runescape.wiki/w/Pyrelord_pouch)\n• Requires level 46 Summoning\n• Made with 1 crimson charm, 1 pouch, 111 spirit shards, and 1 [tinderbox](https://runescape.wiki/w/Tinderbox).\n\n\n[**Bloated Leech**](https://runescape.wiki/w/Bloated_leech_pouch)\n• Requires level 49 Summoning\n• Made with 1 crimson charm, 1 pouch, 117 spirit shards, and 1 [raw beef](https://runescape.wiki/w/Raw_beef).\n\n\n[**Smoke Devil**](https://runescape.wiki/w/Smoke_devil_pouch)\n• Requires level 61 Summoning\n• Made with 1 crimson charm, 1 pouch, 141 spirit shards, and 1 [goat horn dust](https://runescape.wiki/w/Goat_horn_dust)."
+      },
+      {
+        "name": "​",
+        "value": "[**Spirit Cobra**](https://runescape.wiki/w/Spirit_cobra_pouch)\n• Requires level 63 Summoning\n• Made with 1 crimson charm, 1 pouch, 116 spirit shards, and 1 [snake hide](https://runescape.wiki/w/Snake_hide).\n\n\n[**Stranger Plant**](https://runescape.wiki/w/Stranger_plant_pouch)\n• Requires level 64 Summoning\n• Made with 1 crimson charm, 1 pouch, 128 spirit shards, and 1 [bagged plant 1](https://runescape.wiki/w/Bagged_plant_1).\n\n\n[**Ravenous Locust**](https://runescape.wiki/w/Ravenous_locust_pouch)\n• Requires level 70 Summoning\n• Made with 1 crimson charm, 1 pouch, 79 spirit shards, and 1 [pot of flour](https://runescape.wiki/w/Pot_of_flour).\n\n\n[**Phoenix**](https://runescape.wiki/w/Phoenix_pouch)\n• Requires level 72 Summoning\n• Made with 1 crimson charm, 1 pouch, 165 spirit shards, and 1 [phoenix quill](https://runescape.wiki/w/Phoenix_quill)."
+      },
+      {
+        "name": "​",
+        "value": "[**Granite Lobster**](https://runescape.wiki/w/Granite_lobster_pouch)\n• Requires level 74 Summoning\n• Made with 1 crimson charm, 1 pouch, 166 spirit shards, and 1 [500g granite](https://runescape.wiki/w/Granite_(500g).\n\n\n[**Praying Mantis**](https://runescape.wiki/w/Praying_mantis_pouch)\n• Requires level 75 Summoning\n• Made with 1 crimson charm, 1 pouch, 168 spirit shards, and 1 [red flowers](https://runescape.wiki/w/Red_flowers).\n\n\n[**Talon Beast**](https://runescape.wiki/w/Talon_beast_pouch)\n• Requires level 77 Summoning\n• Made with 1 crimson charm, 1 pouch, 174 spirit shards, and 1 [talon beast charm](https://runescape.wiki/w/Talon_beast_charm).\n**This secondary can only be obtained by killing [nail beasts](https://runescape.wiki/w/Nail_beast) in Temple Trekking**.\n\n\n[**Brawler Demon**](https://runescape.wiki/w/Brawler_demon_pouch)\n• Requires level 82 Summoning\n• Made with 1 crimson charm, 1 pouch, 136 spirit shards, and 1 [demon claw](https://runescape.wiki/w/Demon_claw)."
+      }
+      ]
+  },
+  "skills - summoning - red pt2": {
+    "footer": {
+      "icon_url": "https://runescape.wiki/images/7/77/RuneScore.png?9f9cd",
+      "text": "RuneScore awarded: 20"
+    },
+    "fields": [
+      {
+        "name": "​",
+        "value": "[**Executioner Demon**](https://runescape.wiki/w/Executioner_demon_pouch)\n• Requires level 82 Summoning\n• Made with 1 crimson charm, 1 pouch, 136 spirit shards, and 1 demon claw.\n\n\n[**Deacon Demon**](https://runescape.wiki/w/Deacon_demon_pouch)\n• Requires level 82 Summoning\n• Made with 1 crimson charm, 1 pouch, 136 spirit shards, and 1 demon claw.\n\n\n[**Spirit Dagannoth**](https://runescape.wiki/w/Spirit_dagannoth_pouch)\n• Requires level 83 Summoning\n• Made with 1 crimson charm, 1 pouch, 1 spirit shard, and 1 [dagannoth hide](https://runescape.wiki/w/Dagannoth_hide).\n\n\n[**Reborn Phoenix**](https://runescape.wiki/w/Reborn_phoenix_pouch)\n• Requires level 84 Summoning\n• Made with 1 crimson charm, 1 pouch, 173 spirit shards, and 2 phoenix quills.\n\n\n[**Swamp Titan**](https://runescape.wiki/w/Swamp_titan_pouch)\n• Requires level 85 Summoning\n• Made with 1 crimson charm, 1 pouch, 150 spirit shards, and 1 [swamp lizard](https://runescape.wiki/w/Swamp_lizard)."
+      },
+      {
+        "name": "​",
+        "value": "[**Wolpertinger**](https://runescape.wiki/w/Wolpertinger_pouch)\n• Requires level 92 Summoning\n• Made with 1 crimson charm, 1 pouch, 203 spirit shards, 1 [raw rabbit](https://runescape.wiki/w/Raw_rabbit), and 1 [wolf bones](https://runescape.wiki/w/Wolf_bones).\n\n\n[**Iron Titan**](https://runescape.wiki/w/Iron_titan_pouch)\n• Requires level 95 Summoning\n• Made with 1 crimson charm, 1 pouch, 198 spirit shards, and 1 [iron platebody](https://runescape.wiki/w/Iron_platebody).\n\n\n[**Pack Yak**](https://runescape.wiki/w/Pack_yak_pouch)\n• Requires level 96 Summoning\n• Made with 1 crimson charm, 1 pouch, 211 spirit shards, and 1 [yak-hide](https://runescape.wiki/w/Yak-hide).\n\n\n[**Steel Titan**](https://runescape.wiki/w/Steel_titan_pouch)\n• Requires level 99 Summoning\n• Made with 1 crimson charm, 1 pouch, 178 spirit shards, and 1 [steel platebody](https://runescape.wiki/w/Steel_platebody)."
+      },
+      {
+        "name": "​",
+        "value": "[**Pack Mammoth**](https://runescape.wiki/w/Pack_mammoth_pouch)\n• Requires level 99 Summoning\n• Made with 1 crimson charm, 1 pouch, 222 spirit shards, and 1 [mammoth tusk](https://runescape.wiki/w/Mammoth_tusk)."
+      },
+      {
+        "name": "Requirements:",
+        "value": "• 99 Summoning\n\n• The Darkness of Hallowvale Quest completion | [Runescape Wiki](https://runescape.wiki/w/Darkness_of_Hallowvale)\n• In Aid of the Myreque Quest completion | [Runescape Wiki](https://runescape.wiki/w/In_Aid_of_the_Myreque)"
+      }
+    ],
+    "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "skills - summoning - regard my shards": {
+        "title": "Regard My Shards (Skills, Summoning)",
+        "author":
+        {
+            "name": "RuneScore Achievement Info",
+            "icon_url": "https://i.imgur.com/6c6q2iC.png"
+        },
+        "description": "[Regard My Shards](https://runescape.wiki/w/Regard_My_Shards) is an achievement that requires the player to collect 60 shards in the [Familiarisation](https://runescape.wiki/w/Familiarisation) [Distraction and Diversion](https://runescape.wiki/w/Distractions_and_Diversions).",
+        "thumbnail":
+        {
+            "url": "https://i.imgur.com/Shmagnp.png"
+        },
+        "fields":
+        [
+            {
+                 "name": "Requirements:",
+                 "value": "• None"
+            }
+           
+        ],
+        "footer":
+        {
+            "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+            "text": "RuneScore awarded: 40"
+        },
+    "timestamp": "2001-01-04T12:00:00Z"
+  },
   "skills - thieving - a thief beyond belief": {
         "title": "A Thief Beyond Belief (Skills, Thieving)",
         "author":
@@ -12293,6 +15044,33 @@ exports.data = {
     },
 "timestamp": "2001-01-04T12:00:00Z"
   },
+  "skills - thieving - slivers of camouflage": {
+        "title": "Slivers of Camouflage (Skills, Thieving)",
+        "author":
+        {
+            "name": "RuneScore Achievement Info",
+            "icon_url": "https://i.imgur.com/6c6q2iC.png"
+        },
+        "description": "[Slivers of Camouflage](https://runescape.wiki/w/Slivers_of_Camouflage) is an achievement requires the player to obtain the [Master camouflage outfit](https://runescape.wiki/w/Master_camouflage_outfit).",
+        "thumbnail":
+        {
+            "url": "https://i.imgur.com/Shmagnp.png"
+        },
+        "fields":
+        [
+            {
+                 "name": "Requirements:",
+                 "value": "• 80 Thieving\n• 20 Invention"
+            }
+           
+        ],
+        "footer":
+        {
+            "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+            "text": "RuneScore awarded: 10"
+        },
+    "timestamp": "2001-01-04T12:00:00Z"
+  },
   "skills - thieving - the world is a safe place": {
     "title": "The world is a safe place",
     "author": {
@@ -12352,5 +15130,32 @@ exports.data = {
       }
       ],
 "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "skills - woodcutting - hacks": {
+        "title": "Hacks (Skills, Woodcutting)",
+        "author":
+        {
+            "name": "RuneScore Achievement Info",
+            "icon_url": "https://i.imgur.com/6c6q2iC.png"
+        },
+        "description": "[Hacks](https://runescape.wiki/w/Hacks) is an achievement that requires the player to participate in the [Evil Tree](https://runescape.wiki/w/Evil_tree) [Distraction and Diversion](https://runescape.wiki/w/Distractions_and_Diversions). The achievement is unlocked once the player collects their rewards from the tree's trunk.",
+        "thumbnail":
+        {
+            "url": "https://i.imgur.com/Shmagnp.png"
+        },
+        "fields":
+        [
+            {
+                 "name": "Requirements:",
+                 "value": "• None"
+            }
+           
+        ],
+        "footer":
+        {
+            "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+            "text": "RuneScore awarded: 10"
+        },
+      "timestamp": "2001-01-04T12:00:00Z"
   }
 };
