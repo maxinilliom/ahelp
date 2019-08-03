@@ -4766,7 +4766,7 @@ exports.data = {
 	"jurassic perk": {
 		"cmds": ["trim"],
 		"embed": {
-			"title": "Jurassic Perk (Exploration, Anachronia)",
+			"title": "Jurassic Perk",
 			"author": {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
@@ -5788,34 +5788,39 @@ exports.data = {
 	"master builder": {
 		"cmds": ["trim"],
 		"embed": {
-			"title": "Master Builder",
-			"author": {
-				"name": "Cape Info",
-				"icon_url": "https://i.imgur.com/6c6q2iC.png"
-			},
-			"description": "[Master Builder](https://rs.wiki/Master_Builder) is an achievement that requires the player to fully upgrade the [Base camp](https://runescape.wiki/w/Anachronia_base_camp) on [Anachronia](https://rs.wiki/Anachronia).\n\nThe base camp is a location on Anachronia which can be built up with various structures at multiple tiers, with collected materials from workers. The base camp can be managed by speaking to [Giles](https://runescape.wiki/w/Giles) inside the town hall after talking to him at the entrance to the temple, in front of the unfinished [lodestone](https://runescape.wiki/w/Lodestone_Network).\n\nEach area of the base camp can be upgraded to three tiers, each requiring specific amounts of [resources](https://runescape.wiki/w/Anachronia_base_camp#Workers). These resources are gathered by allocating the camp [workers](https://runescape.wiki/w/Anachronia_base_camp#Workers) to each resource.\n\nThe camp starts off with 10 workers and more can be obtained by upgrading the [sleeping quarters](https://runescape.wiki/w/Anachronia_base_camp#Sleeping_Quarters), up to a maximum of 60. Workers will gather 60 resources each per hour, resulting in 900/1800/3600 resources obtained per hour at sleeping quarters tier 1, 2, and 3 respectively. Workers will continue to gather resources when logged out.\n\nResources can also be found whilst skilling or killing the local fauna. The kind of resource you can get depends on what your workers are assigned to. These can be sent to the camp using the right click option, adding 100 of that resource.\n\nThe tier 1 town hall is constructed during the base camp tutorial and unlocks the ability to upgrade all other buildings.\n\n*The requirements for all building tiers are not yet known as upgrades take time to complete so please let us know if you discover them so that we can update this guide and add the information to the [Runescape wiki page](https://runescape.wiki/w/Anachronia_base_camp)*.",
-			"thumbnail": {
-				"url": "https://i.imgur.com/Shmagnp.png"
-			},
-			"fields": [{
-					"name": "Structures to upgrade:",
-					"value": "• [Town Hall](https://runescape.wiki/w/Anachronia_base_camp#Town_Hall)\n• [Storehouse](https://runescape.wiki/w/Anachronia_base_camp#Storehouse)\n• [Sleeping Quarters](https://runescape.wiki/w/Anachronia_base_camp#Sleeping_Quarters)\n• [Spa](https://runescape.wiki/w/Anachronia_base_camp#Spa)\n• [Hunter Lodge](https://runescape.wiki/w/Anachronia_base_camp#Hunter_Lodge)\n• [Slayer Lodge](https://runescape.wiki/w/Anachronia_base_camp#Slayer_Lodge)\n• [Player lodge](https://runescape.wiki/w/Anachronia_base_camp#Player_Lodge)\n• [Bank Chest](https://runescape.wiki/w/Anachronia_base_camp#Bank_Chest)\n• [Lodestone](https://runescape.wiki/w/Anachronia_base_camp#Lodestone)"
-				},
-				{
-					"name": "Requirements:",
-					"value": "• 90 Agility\n• 90 Construction\n• 90 Hunter\n• 90 Slayer"
-				},
-				{
-					"name": "Guide:",
-					"value": "[Land out of Time First Look & Info! | Maikeru RS - YouTube](https://youtu.be/0_Z84d5WGp4?t=48)"
-				}
-			],
-			"footer": {
-				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
-				"text": "RuneScore awarded: 30"
-			},
-			"timestamp": "2001-01-04T12:00:00Z"
-		}
+	    "title": "Master Builder",
+	    "author":
+	    {
+	      "name": "Cape Info",
+	      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+	    },
+	    "description": "[Master Builder](https://rs.wiki/Master_Builder) is an achievement that requires the player to fully upgrade the [Base camp](https://runescape.wiki/w/Anachronia_base_camp) on [Anachronia](https://rs.wiki/Anachronia).\n\nThe base camp is a location on Anachronia which can be built up with various structures at multiple tiers, with collected materials from workers. The base camp can be managed by speaking to [Giles](https://runescape.wiki/w/Giles) inside the town hall after talking to him at the entrance to the temple, in front of the unfinished [lodestone](https://runescape.wiki/w/Lodestone_Network).\n\nEach area of the base camp can be upgraded to three tiers, each requiring specific amounts of [resources](https://runescape.wiki/w/Anachronia_base_camp#Workers). These resources are gathered by allocating the camp [workers](https://runescape.wiki/w/Anachronia_base_camp#Workers) to each resource.\n\nThe camp starts off with 10 workers and more can be obtained by upgrading the [sleeping quarters](https://runescape.wiki/w/Anachronia_base_camp#Sleeping_Quarters), up to a maximum of 60. Workers will gather 60 resources each per hour, resulting in 900/1800/3600 resources obtained per hour at sleeping quarters tier 1, 2, and 3 respectively. Workers will continue to gather resources when logged out.\n\nResources can also be found whilst skilling or killing the local fauna. The kind of resource you can get depends on what your workers are assigned to. These can be sent to the camp using the right click option, adding 100 of that resource.\n\nThe tier 1 town hall is constructed during the base camp tutorial and unlocks the ability to upgrade all other buildings.",
+	    "thumbnail":
+	    {
+	      "url": "https://i.imgur.com/Shmagnp.png"
+	    },
+	    "fields":
+	    [
+	      {
+	        "name": "Structures to upgrade:",
+	        "value": "• [Town Hall](https://runescape.wiki/w/Anachronia_base_camp#Town_Hall)\n• [Storehouse](https://runescape.wiki/w/Anachronia_base_camp#Storehouse)\n• [Sleeping Quarters](https://runescape.wiki/w/Anachronia_base_camp#Sleeping_Quarters)\n• [Spa](https://runescape.wiki/w/Anachronia_base_camp#Spa)\n• [Hunter Lodge](https://runescape.wiki/w/Anachronia_base_camp#Hunter_Lodge)\n• [Slayer Lodge](https://runescape.wiki/w/Anachronia_base_camp#Slayer_Lodge)\n• [Player lodge](https://runescape.wiki/w/Anachronia_base_camp#Player_Lodge)\n• [Bank Chest](https://runescape.wiki/w/Anachronia_base_camp#Bank_Chest)\n• [Lodestone](https://runescape.wiki/w/Anachronia_base_camp#Lodestone)"
+	      },
+	      {
+	        "name": "Requirements:",
+	        "value": "• 90 Agility\n• 90 Construction\n• 90 Hunter\n• 90 Slayer"
+	      },
+	      {
+	        "name": "Guide:",
+	        "value": "[Land out of Time First Look & Info! | Maikeru RS - YouTube](https://youtu.be/0_Z84d5WGp4?t=48)"
+	      }
+	    ],
+	    "footer":
+	    {
+	      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+	      "text": "RuneScore awarded: 30"
+	    },
+	    "timestamp": "2001-01-04T12:00:00Z"
+	  }
 	},
 	"master otto": {
 		"cmds": ["trim"],
@@ -9180,73 +9185,74 @@ exports.data = {
 	"top town hall": {
 		"cmds": ["comp"],
 		"embed": {
-			"title": "Top Town Hall",
-			"author": {
-				"name": "Cape Info",
-				"icon_url": "https://i.imgur.com/6c6q2iC.png"
-			},
-			"description": "[Top Town Hall](https://rs.wiki/Top_Town_Hall) is an achievement that requires the player to fully upgrade the [Town Hall](https://runescape.wiki/w/Anachronia_base_camp#Town_Hall) of the [Base camp](https://runescape.wiki/w/Anachronia_base_camp) on [Anachronia](https://rs.wiki/Anachronia).\n\nThe base camp is a location on Anachronia which can be built up with various structures at multiple tiers, with collected materials from workers. The base camp can be managed by speaking to [Giles](https://runescape.wiki/w/Giles) inside the town hall after talking to him at the entrance to the temple, in front of the unfinished [lodestone](https://runescape.wiki/w/Lodestone_Network).\n\nEach area of the base camp can be upgraded to three tiers, each requiring specific amounts of [resources](https://runescape.wiki/w/Anachronia_base_camp#Workers). These resources are gathered by allocating the camp [workers](https://runescape.wiki/w/Anachronia_base_camp#Workers) to each resource.\n\nThe camp starts off with 10 workers and more can be obtained by upgrading the [sleeping quarters](https://runescape.wiki/w/Anachronia_base_camp#Sleeping_Quarters), up to a maximum of 60. Workers will gather 60 resources each per hour, resulting in 900/1800/3600 resources obtained per hour at sleeping quarters tier 1, 2, and 3 respectively. Workers will continue to gather resources when logged out.\n\nResources can also be found whilst skilling or killing the local fauna. The kind of resource you can get depends on what your workers are assigned to. These can be sent to the camp using the right click option, adding 100 of that resource.\n\nThe tier 1 town hall is constructed during the base camp tutorial and unlocks the ability to upgrade all other buildings.\n\n*The requirements for all building tiers are not yet known as upgrades take time to complete so please let us know if you discover them so that we can update this guide and add the information to the [Runescape Wiki page](https://runescape.wiki/w/Anachronia_base_camp)*.",
-			"thumbnail": {
-				"url": "https://i.imgur.com/Shmagnp.png"
-			},
-			"fields": [{
-					"name": "Strategy:",
-					"value": "The first step to focus on after completing the tutorial will greatly ease quick access to the island and improve your stay in it, these should be the [Lodestone](https://runescape.wiki/w/Anachronia_base_camp#Lodestone) and [Bank Chest](https://runescape.wiki/w/Anachronia_base_camp#Bank_Chest) unlocks.\n\nNext up, in order to be able to increase your material cap from 5,000 to 25,000 resources, should be to build the tier 1 Storehouse.\n\nOnce you're able to store more resources, you should acquire the tier 1 sleeping quarters so that you will have more workers gathering resources for you, essentially increasing your buying potential.\n​",
-					"inline": true
-				},
-				{
-					"name": "Tier 1:",
-					"value": "​",
-					"inline": true
-				},
-				{
-					"name": "Materials Needed:",
-					"value": "• 1000 [Wood](https://rs.wiki/Compacted_wood) and [Stone](https://rs.wiki/Compacted_stone)",
-					"inline": true
-				},
-				{
-					"name": "Building requirements for upgrade:",
-					"value": "• None"
-				},
-				{
-					"name": "Tier 2:",
-					"value": "​",
-					"inline": true
-				},
-				{
-					"name": "Materials Needed:",
-					"value": "• 20,000 Wood, Stone, and [Vines](https://rs.wiki/Compacted_vines)",
-					"inline": true
-				},
-				{
-					"name": "Building requirements for upgrade:",
-					"value": "• Storehouse (Tier 1)\n• Sleeping Quarter (Tier 1)"
-				},
-				{
-					"name": "Tier 3:",
-					"value": "​",
-					"inline": true
-				},
-				{
-					"name": "Materials Needed:",
-					"value": "• Currently unknown",
-					"inline": true
-				},
-				{
-					"name": "Building requirements for upgrade:",
-					"value": "• Currently unknown"
-				},
-				{
-					"name": "Guide:",
-					"value": "[Land out of Time First Look & Info! | Maikeru RS - YouTube](https://youtu.be/0_Z84d5WGp4?t=48)"
-				}
-			],
-			"footer": {
-				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
-				"text": "RuneScore awarded: 15"
-			},
-			"timestamp": "2001-01-04T12:00:00Z"
-		}
+	    "title": "Top Town Hall",
+	    "author": {
+	      "name": "Cape Info",
+	      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+	    },
+	    "description": "[Top Town Hall](https://rs.wiki/Top_Town_Hall) is an achievement that requires the player to fully upgrade the [Town Hall](https://runescape.wiki/w/Anachronia_base_camp#Town_Hall) of the [Base camp](https://runescape.wiki/w/Anachronia_base_camp) on [Anachronia](https://rs.wiki/Anachronia).\n\nThe base camp is a location on Anachronia which can be built up with various structures at multiple tiers, with collected materials from workers. The base camp can be managed by speaking to [Giles](https://runescape.wiki/w/Giles) inside the town hall after talking to him at the entrance to the temple, in front of the unfinished [lodestone](https://runescape.wiki/w/Lodestone_Network).\n\nEach area of the base camp can be upgraded to three tiers, each requiring specific amounts of [resources](https://runescape.wiki/w/Anachronia_base_camp#Workers). These resources are gathered by allocating the camp [workers](https://runescape.wiki/w/Anachronia_base_camp#Workers) to each resource.\n\nThe camp starts off with 10 workers and more can be obtained by upgrading the [sleeping quarters](https://runescape.wiki/w/Anachronia_base_camp#Sleeping_Quarters), up to a maximum of 60. Workers will gather 60 resources each per hour, resulting in 900/1800/3600 resources obtained per hour at sleeping quarters tier 1, 2, and 3 respectively. Workers will continue to gather resources when logged out.\n\nResources can also be found whilst skilling or killing the local fauna. The kind of resource you can get depends on what your workers are assigned to. These can be sent to the camp using the right click option, adding 100 of that resource.\n\nThe tier 1 town hall is constructed during the base camp tutorial and unlocks the ability to upgrade all other buildings.",
+	    "thumbnail": {
+	      "url": "https://i.imgur.com/Shmagnp.png"
+	    },
+	    "fields": [
+	      {
+	        "name": "Strategy:",
+	        "value": "The first step to focus on after completing the tutorial will greatly ease quick access to the island and improve your stay in it, these should be the [Lodestone](https://runescape.wiki/w/Anachronia_base_camp#Lodestone) and [Bank Chest](https://runescape.wiki/w/Anachronia_base_camp#Bank_Chest) unlocks.\n\nNext up, in order to be able to increase your material cap from 5,000 to 25,000 resources, should be to build the tier 1 Storehouse.\n\nOnce you're able to store more resources, you should acquire the tier 1 sleeping quarters so that you will have more workers gathering resources for you, essentially increasing your buying potential.\n​",
+	        "inline": true
+	      },
+	      {
+	        "name": "Tier 1:",
+	        "value": "​",
+	        "inline": true
+	      },
+	      {
+	        "name": "Materials Needed:",
+	        "value": "• 1000 [Wood](https://rs.wiki/Compacted_wood) and [Stone](https://rs.wiki/Compacted_stone)",
+	        "inline": true
+	      },
+	      {
+	        "name": "Building requirements for upgrade:",
+	        "value": "• None"
+	      },
+	      {
+	        "name": "Tier 2:",
+	        "value": "​",
+	        "inline": true
+	      },
+	      {
+	        "name": "Materials Needed:",
+	        "value": "• 20,000 Wood, Stone, and [Vines](https://rs.wiki/Compacted_vines)",
+	        "inline": true
+	      },
+	      {
+	        "name": "Building requirements for upgrade:",
+	        "value": "• Storehouse (Tier 1)\n• Sleeping Quarter (Tier 1)"
+	      },
+	      {
+	        "name": "Tier 3:",
+	        "value": "​",
+	        "inline": true
+	      },
+	      {
+	        "name": "Materials Needed:",
+	        "value": "• 70,000 Wood, Stone, and Vines",
+	        "inline": true
+	      },
+	      {
+	        "name": "Building requirements for upgrade:",
+	        "value": "• Storehouse (Tier 2)\n• Sleeping Quarter (Tier 2)"
+	      },
+	      {
+	        "name": "Guide:",
+	        "value": "[Land out of Time First Look & Info! | Maikeru RS - YouTube](https://youtu.be/0_Z84d5WGp4?t=48)"
+	      }
+	    ],
+	    "footer": {
+	      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+	      "text": "RuneScore awarded: 15"
+	    },
+	    "timestamp": "2001-01-04T12:00:00Z"
+	  }
 	},
 	"trials of the heart": {
 		"cmds": ["comp"],
