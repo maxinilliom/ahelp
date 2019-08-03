@@ -88,7 +88,7 @@ exports.run = async (client, message, args, level) => {
 
 	if (message.guild.id == "382696689812766720" && args[0].toLowerCase() == "clear" && level >= 2) {
 		if (!gl.has('reaper')) return message.channel.send('No messages are currently stored for **reaper**.');
-		const cl = gl.get('reaper');
+		let cl = gl.get('reaper');
 		const channel = cl[0];
 		if (message.channel.id !== channel) return message.channel.send(`Please use this command in the <#${message.guild.channels.get(channel).id}> channel that the embeds were originally sent in.`);
 		cl = cl.slice(1);
