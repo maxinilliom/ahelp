@@ -91,7 +91,7 @@
   },
     "pvm/teaching": {
     "title": "PvM/Teaching",
-    "description":"**EliteDungFC** - finding teams for Elite Dungeons\n\n**Slayer Dungs** - Finding specific Player Owned Slayer Dungeon Mobs\n\n**NexAod** - Angel of Death Masses\n\n**Raid FC** - Full Raids\n\n**Boss School**, **PvMing FC**, or **Teaching RS** - Teaching and finding any boss teams\n\n**LSKK247** - Lootshare Kalphite King kills\n\n**Duck Hunters** - Megaduck Pet chances\n\n**Teachingrots** -  Learning and making teams for Rise of the Six\n\n**Rago PvM** -  Vorago Masses and Learning\n\n**LSPVM247** - Boss Lootsharing\n\n**Solak FC** - Solak 2 or 7 man teams",
+    "description":"**EliteDungFC** - finding teams for Elite Dungeons\n\n**Slayer Dungs** - Finding specific Player Owned Slayer Dungeon Mobs\n\n**NexAod** - Angel of Death Masses\n\n**Raid FC** - Full Raids\n\n**Boss School**, **PvMing FC**, or **Teaching RS** - Teaching and finding any boss teams\n\n**Duck Hunters** - Megaduck Pet chances\n\n**Teachingrots** -  Learning and making teams for Rise of the Six\n\n**Rago PvM** -  Vorago Masses and Learning\n\n**LSPVM247** - Boss Lootsharing\n\n**Solak FC** - Solak 2 or 7 man teams",
     "footer": {
       "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Friend Chats"
