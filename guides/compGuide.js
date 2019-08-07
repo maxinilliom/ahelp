@@ -172,15 +172,15 @@ exports.data = {
 			"timestamp": "2001-01-04T12:00:00Z"
 		}
 	},
-	"abyssal reach": {
+	"abyss": {
 		"cmds": ["comp", "mqc"],
 		"embed": {
-			"title": "Abyssal Reach",
+			"title": "Abyss",
 			"author": {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Abyssal Reach](https://runescape.wiki/w/Almost_as_Perky_as_a_Prawn) is an achievement that requires the player to finish the [Abyss miniquest](https://runescape.wiki/w/Abyss_(miniquest%29).\n\nIn the Abyss miniquest, the player helps the [Zamorakians](https://runescape.wiki/w/Zamorak) access the [Rune essence mines](https://runescape.wiki/w/Rune_essence_mine) so that they can craft their own runes. Previously it had been a [Saradominist](https://runescape.wiki/w/Saradomin) secret, but the [Mage of Zamorak](https://runescape.wiki/w/Mage_of_Zamorak) asks for the player's help in learning it.",
+			"description": "[Abyss](https://runescape.wiki/w/Abyss_(achievement%29) is an achievement that requires the player to finish the [Abyss miniquest](https://runescape.wiki/w/Abyss_(miniquest%29).\n\nIn the Abyss miniquest, the player helps the [Zamorakians](https://runescape.wiki/w/Zamorak) access the [Rune essence mines](https://runescape.wiki/w/Rune_essence_mine) so that they can craft their own runes. Previously it had been a [Saradominist](https://runescape.wiki/w/Saradomin) secret, but the [Mage of Zamorak](https://runescape.wiki/w/Mage_of_Zamorak) asks for the player's help in learning it.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -407,7 +407,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Almost as Perky as a Prawn](https://runescape.wiki/w/Almost_as_Perky_as_a_Prawn) is an achievement that requires the player to unlock 15 of the [Prawn Perks](https://runescape.wiki/w/Prawnbroker#Prawn_Perks) from the [Aquarium](https://runescape.wiki/w/Aquarium) in their [Player-owned house](https://runescape.wiki/w/Player-owned_house).\n\nPrawn Perks can be unlocked by finding [Golden fish eggs](https://runescape.wiki/w/Golden_fish_egg) and gaining 1, 20, 100, and 200 [Prawn balls](https://runescape.wiki/w/Prawn_ball) and [Prawn crackers](https://runescape.wiki/w/Prawn_cracker).\n\nFifty bonus prawn balls are available to players who have obtained level 99 [Fishing](https://runescape.wiki/w/Fishing) by speaking to the [Prawnbroker](https://runescape.wiki/w/Prawnbroker).\n\nYou may also ask other players if they have extra [Golden crackers](https://runescape.wiki/w/Golden_cracker) they could pull with you in order for you to quickly complete this requirement.\n\nPlayer's may also sign up for the <@&420029633371570176> in the <#465998663710146579> channel to be notified when users offer their extra golden crackers.",
+			"description": "[Almost as Perky as a Prawn](https://runescape.wiki/w/Almost_as_Perky_as_a_Prawn) is an achievement that requires the player to unlock 15 of the [Prawn Perks](https://runescape.wiki/w/Prawnbroker#Prawn_Perks) from the [Aquarium](https://runescape.wiki/w/Aquarium) in their [Player-owned house](https://runescape.wiki/w/Player-owned_house).\n\nPrawn Perks can be unlocked by finding [Golden fish eggs](https://runescape.wiki/w/Golden_fish_egg) and gaining 1, 20, 100, and 200 [Prawn balls](https://runescape.wiki/w/Prawn_ball) **or** [Prawn crackers](https://runescape.wiki/w/Prawn_cracker).\n\nFifty bonus prawn balls are available to players who have obtained level 99 [Fishing](https://runescape.wiki/w/Fishing) by speaking to the [Prawnbroker](https://runescape.wiki/w/Prawnbroker).\n\nYou may also ask other players if they have extra [Golden crackers](https://runescape.wiki/w/Golden_cracker) they could pull with you in order for you to quickly complete this requirement.\n\nPlayers may also sign up for the <@&420029633371570176> in the <#465998663710146579> channel to be notified when users offer their extra golden crackers.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -7235,7 +7235,7 @@ exports.data = {
 				"name": "Cape Info",
 				"icon_url": "https://i.imgur.com/6c6q2iC.png"
 			},
-			"description": "[Perky like a Prawn](https://runescape.wiki/w/Perky_like_a_Prawn) is an achievement that requires the player to unlock all [Prawn perks](https://runescape.wiki/w/Prawnbroker#Prawn_Perks) from the [Prawnbroker](https://runescape.wiki/w/Prawnbroker).\n\nThis can be done by collecting [Golden fish eggs](https://runescape.wiki/w/Golden_fish_egg) and gaining 1, 20, 100, and 200 [Prawn balls](https://runescape.wiki/w/Prawn_balls) and [Prawn crackers](https://runescape.wiki/w/Prawn_cracker).\n\nFifty bonus prawn balls are available to players who have obtained level 99 Fishing by speaking to the Prawnbroker. You may also ask other players if they have extra golden crackers they could pull with you in order for you to quickly complete this requirement.\n\nYou may tag the <@&420029633371570176> role in this discord to inquire about availability as well.",
+			"description": "[Perky like a Prawn](https://runescape.wiki/w/Perky_like_a_Prawn) is an achievement that requires the player to unlock all [Prawn perks](https://runescape.wiki/w/Prawnbroker#Prawn_Perks) from the [Prawnbroker](https://runescape.wiki/w/Prawnbroker).\n\nThis can be done by collecting [Golden fish eggs](https://runescape.wiki/w/Golden_fish_egg) and gaining 1, 20, 100, and 200 [Prawn balls](https://runescape.wiki/w/Prawn_balls) **or** [Prawn crackers](https://runescape.wiki/w/Prawn_cracker).\n\nFifty bonus prawn balls are available to players who have obtained level 99 Fishing by speaking to the Prawnbroker. You may also ask other players if they have extra golden crackers they could pull with you in order for you to quickly complete this requirement.\n\nYou may tag the <@&420029633371570176> role in this discord to inquire about availability as well.",
 			"thumbnail": {
 				"url": "https://i.imgur.com/Shmagnp.png"
 			},
@@ -8621,7 +8621,7 @@ exports.data = {
 				},
 				{
 					"name": "​",
-					"value": "**Agility**\n• [Cycling](https://runescape.wiki/w/The_Empty_Throne_Room#Agility) in [The Empty Throne Room](https://runescape.wiki/w/The_Empty_Throne_Room)\n\n**Construction**\n• [Stone Fireplaces](https://runescape.wiki/w/Stone_fireplace) (buy [Limestone bricks](https://runescape.wiki/w/Limestone) outside of [Prifddinas](https://runescape.wiki/w/Prifddinas) house portal during the [Ithell](https://runescape.wiki/w/Ithell_Clan) [Voice of Seren](https://runescape.wiki/w/Voice_of_Seren))\n• [Oak Lecterns](https://runescape.wiki/w/Oak_lectern) (Requires only 1 [Oak Plank](https://runescape.wiki/w/Oak_plank))"
+					"value": "**Agility**\n• [Cycling](https://runescape.wiki/w/The_Empty_Throne_Room#Agility) in [The Empty Throne Room](https://runescape.wiki/w/The_Empty_Throne_Room)\n\n**Construction**\n• [Stone Fireplaces](https://runescape.wiki/w/Stone_fireplace) (buy [Limestone bricks](https://runescape.wiki/w/Limestone_brick) outside of [Prifddinas](https://runescape.wiki/w/Prifddinas) house portal during the [Ithell](https://runescape.wiki/w/Ithell_Clan) [Voice of Seren](https://runescape.wiki/w/Voice_of_Seren))\n• [Oak Lecterns](https://runescape.wiki/w/Oak_lectern) (Requires only 1 [Oak Plank](https://runescape.wiki/w/Oak_plank))"
 				},
 				{
 					"name": "​",

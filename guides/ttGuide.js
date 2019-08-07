@@ -2652,7 +2652,7 @@ exports.data = {
       "name": "True Trimmed Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Bossing 101](https://runescape.wiki/w/Harlan#Boss_assistance) requires the player to unlock all rewards from the [boss assistance rewards system](https://runescape.wiki/w/Harlan#Boss_assistance). This include the following rewards:\n\n• The [Mortar Board](https://runescape.wiki/w/Mortar_Board) override\n• [The Master](https://runescape.wiki/w/Cornellius) title\n• The [Cornellius](https://runescape.wiki/w/Cornellius) pet\n\nUnlocking all rewards will take the player 500 boss assistance points, also known as training points. These are rewarded when bossing with someone who has under 10 kills at the specific bosses.",
+    "description": "[Bossing 101](https://runescape.wiki/w/Harlan#Boss_assistance) requires the player to unlock all rewards from the [boss assistance rewards system](https://runescape.wiki/w/Harlan#Boss_assistance). This include the following rewards:\n\n• The [Mortar Board](https://runescape.wiki/w/Mortar_Board) override\n• [The Master](https://runescape.wiki/w/The_Master) title\n• The [Cornellius](https://runescape.wiki/w/Cornellius) pet\n\nUnlocking all rewards will take the player 500 boss assistance points, also known as training points. These are rewarded when bossing with someone who has under 10 kills at the specific bosses.",
     "color": 10257648,
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/4/4b/Cornellius_pet.png/revision/latest?cb=20180309175828"

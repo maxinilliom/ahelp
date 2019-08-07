@@ -103,7 +103,7 @@ exports.data = {
       },
       {
         "name": "​",
-        "value": ":regional_indicator_g: **<@&383654949957009428>**\n• **When to tag:** If you have a question for those who have gone above and beyond the game's demands.\n\n• **When to join:** If you’d like to be identified among players who can work together on this extreme goal.\n\n:regional_indicator_h: **<@&420015337271066674>**\n• **When to tag:** If you have spotted a corrupted egg in Menaphos.\n\n• **When to join:** If you would like to be notified when a player has spotted a corrupted egg in Menaphos.\n\n:regional_indicator_i: **<@&420015391830573056>**\n• **When to tag:** If you have spotted a crystal impling.\n\n• **When to join:** If you would like to be notified when a player has spotted a crystal impling."
+        "value": ":regional_indicator_g: **<@&383654949957009428>**\n• **When to tag:** If you have a question for those who have gone above and beyond the game's demands.\n\n• **When to join:** If you’d like to be identified among players who can work together on this extreme goal.\n\n:regional_indicator_h: **<@&420015337271066674>**\n• **When to tag:** If you have spotted a corrupted egg in Menaphos.\n\n• **When to join:** If you would like to be notified when a player has spotted a corrupted egg in Menaphos.\n\n:regional_indicator_i: **<@&420015391830573056>**\n• **When to tag:** If you have spotted a rare impling.\n\n• **When to join:** If you would like to be notified when a player has spotted a rare impling."
       },
       {
         "name": "​",

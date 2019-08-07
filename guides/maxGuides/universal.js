@@ -1,6 +1,6 @@
 exports.data = [{
     "title": "Universal Boosts",
-    "description": "These are boosts which may be applied across all skills, except for areas where certain items or followers are disabled, such as within a Dungeoneeing floor.",
+    "description": "These are boosts which may be applied across all skills, except for areas where certain items or followers are disabled, such as within a Dungeoneering floor.",
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Answer_to_Life.png/220px-Answer_to_Life.png",
     "color": 12269891,
     "thumbnail": {
@@ -35,8 +35,8 @@ exports.data = [{
         "name": "Hellion Aura",
         "value": "• The [Hellion Aura](https://runescape.wiki/w/Hellion_aura) is provided to 2018 [Premier Club](https://runescape.wiki/w/Premier_Club) members and provides the following experience based benefits:\n\t• 10% experience boost for an hour\n\t• 10% pulse core boost for 10 minutes\n\t• It can recharge one other aura, like the ones from above, once per day."
       }
-      ]
-},
+    ]
+  },
 {
     "fields": [
       {
