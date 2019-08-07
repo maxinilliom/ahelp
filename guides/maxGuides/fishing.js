@@ -344,7 +344,7 @@ exports.data = {
          },
          {  
             "name":"Best Method:",
-            "value":"• [Fishing Frenzy](https://runescape.wiki/w/Deep_Sea_Fishing#Fishing_frenzy) at the [Deep Sea Fishing](https://runescape.wiki/w/Deep_Sea_Fishing) Hub\n• [Crystallise](https://runescape.wiki/w/Crystallise) at [Menaphos Fishing](https://runescape.wiki/w/Pay-to-play_Fishing_training#Fishing_in_Menaphos_(72-93)"
+            "value":"• [Fishing Frenzy](https://runescape.wiki/w/Deep_Sea_Fishing#Fishing_frenzy) at the [Deep Sea Fishing](https://runescape.wiki/w/Deep_Sea_Fishing) Hub\n"
          },
          {  
             "name":"Methods which do not Work:",

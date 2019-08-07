@@ -1001,7 +1001,7 @@ exports.data = {
       "name": "RuneScore Achievement Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Malignant Enigmas](https://runescape.wiki/w/Malignant_Enigmas) is an achievement that requires the player to kill 18 [shadow enigmas](https://runescape.wiki/w/Shadow_enigma) in 10 seconds during the [Seiryu the Azure Serpent](https://runescape.wiki/w/Seiryu_the_Azure_Serpent) battle in the [Temple of Aminishi](https://runescape.wiki/w/Temple_of_Aminishi).\n\nThis achievement requires the player to have all shadow enigmas [agro](https://runescape.wiki/w/Aggressiveness) them while dealing minimal damage to ensure none die. This can be accomplished by wielding a tier 1 [wand](https://runescape.wiki/w/Wand).\n\nAfter Seiryu goes into his slumber at 7,200,000 health, no players should jump up to the [black crystals](https://runescape.wiki/w/Black_crystal_(Temple_of_Aminishi), and the players should work together to gather all the shadow enigmas into a death dot position so they are all placed onto one tile, or as close as they can be to it.\n\nWhen Seiryu comes back from his temporary slumber, utilize multiple area of effect [abilities](https://runescape.wiki/w/Abilities) such as [detonate](https://runescape.wiki/w/Detonate) to kill them all quickly. It is best if all members of the party time it so all detonates are released at the same time.\n\n**This achievement must be completed before the blue timer on the large center blank hand depletes.**\n\nThis achievement unlocks as soon as it is completed. It does not require the completion of killing Seiryu the Azure Serpent. This achievement can not be obtained in story mode.",
+    "description": "[Malignant Enigmas](https://runescape.wiki/w/Malignant_Enigmas) is an achievement that requires the player to kill 18 [Shadow enigmas](https://runescape.wiki/w/Shadow_enigma) in 10 seconds during the [Seiryu the Azure Serpent](https://runescape.wiki/w/Seiryu_the_Azure_Serpent) battle in the [Temple of Aminishi](https://runescape.wiki/w/Temple_of_Aminishi).\n\nThis achievement requires the player to have all shadow enigmas become [aggressive](https://runescape.wiki/w/Aggressiveness) towards them while dealing minimal damage to ensure none die. This can be accomplished by wielding a tier 1 [wand](https://runescape.wiki/w/Wand).\n\nAfter Seiryu goes into his slumber at 7,200,000 health, no players should jump up to the [black crystals](https://runescape.wiki/w/Black_crystal_(Temple_of_Aminishi), and the players should work together to gather all the shadow enigmas into a death dot position so they are all placed onto one tile, or as close as they can be to it.\n\nWhen Seiryu comes back from his temporary slumber, utilize multiple area of effect [abilities](https://runescape.wiki/w/Abilities) such as [Detonate](https://runescape.wiki/w/Detonate) to kill them all quickly. It is best if all members of the party time it so all detonates are released at the same time.\n\n**This achievement must be completed before the blue timer on the large center blank hand depletes.**\n\nThis achievement unlocks as soon as it is completed. It does not require the completion of killing Seiryu the Azure Serpent.\n\n One of the strategies would be to attempt this achievement in a minimum group size of 2 (preferably 3). Then gather 2 waves of blobs while everyone in the group stays back on the ground, have someone tag them all and group them using debuff spells while being careful not to kill them prematurely. Then you must finish them before the blue timer above the black hand disappears.\n\n Note: The timer disappears quite a while before Seiryu wakes up, so that is a thing to look out for.\n\nThis achievement can not be completed in story mode. ",
     "thumbnail": {
       "url": "https://i.imgur.com/Shmagnp.png"
     },
@@ -1013,7 +1013,7 @@ exports.data = {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
       "text": "RuneScore awarded: 30"
     },
-    "timestamp": "2001-01-04T12:00:00Z"
+"timestamp": "2001-01-04T12:00:00Z"
   },
   "combat - elite dungeons - monkey sadness": {
     "title": "Monkey Sadness (Combat, Elite Dungeons)",
@@ -4163,81 +4163,85 @@ exports.data = {
   },
   "exploration - menaphos - all abuzz": {
     "title": "All Abuzz",
-    "author": {
+    "author":
+    {
       "name": "RuneScore Achievement Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[All Abuzz](https://runescape.wiki/w/All_Abuzz) is an achievement that requires the player to find all of the [insects](https://runescape.wiki/w/Insects_of_the_Desert) within [Menaphos](https://runescape.wiki/w/Menaphos). This can be started by talking to [Assistant Librarian Subotai](https://runescape.wiki/w/Assistant_Librarian_Subotai) near the [Merchant district](https://runescape.wiki/w/Merchant_district) deposit box, or bank chest if rank 6 [reputation](https://runescape.wiki/w/Merchant_district#Reputation) with the Merchant district.\n\nUsing [dwarven ramhammers](https://runescape.wiki/w/Dwarven_ramhammer) on double experience mode, the effect of the [inferno adze](https://runescape.wiki/w/Inferno_adze), or the consume option on the [shark outfit](https://runescape.wiki/w/Shark_outfit) still allows insects to be obtained.",
-    "thumbnail": {
+    "description": "[All Abuzz](https://rs.wiki/All_Abuzz) is an achievement that requires the player to find all of the [insects](https://rs.wiki/Insects_of_the_Desert) within [Menaphos](https://rs.wiki/Menaphos). This can be started by talking to [Assistant Librarian Subotai](https://rs.wiki/Assistant_Librarian_Subotai) near the [Merchant district](https://rs.wiki/Merchant_district) deposit box, or bank chest if rank 6 [reputation](https://rs.wiki/Merchant_district#Reputation) with the Merchant district.\n\nUsing [Dwarven ramhammers](https://rs.wiki/Dwarven_ramhammer) on double experience mode, the effect of the [Inferno adze](https://rs.wiki/Inferno_adze), or the consume option on the [Shark outfits](https://rs.wiki/Shark_outfit) still allows insects to be obtained.",
+    "thumbnail":
+    {
       "url": "https://i.imgur.com/TBXiD9p.png"
     },
-    "fields": [{
+    "fields":
+    [
+      {
         "name": "Insect Log",
-        "value": "• **Insect:** [Menaphite honey bee in amber](https://runescape.wiki/w/Menaphite_honey_bee_in_amber)\n\t• **Location:** Found whilst mining in the [Worker district](https://runescape.wiki/w/Worker_district) or [VIP skilling area](https://runescape.wiki/w/VIP_skilling_area)"
+        "value": "• **Insect:** [Menaphite honey bee in amber](https://rs.wiki/Menaphite_honey_bee_in_amber)\n• **Location:** Found whilst mining in the [Worker district](https://rs.wiki/Worker_district) or [VIP skilling area](https://rs.wiki/VIP_skilling_area)"
       },
       {
         "name": "​",
-        "value": "• **Insect:** [Pygmy giant scarab in amber](https://runescape.wiki/w/Pygmy_giant_scarab_in_amber)\n\t• **Location:** Found whilst mining in the Worker district or VIP skilling area"
+        "value": "• **Insect:** [Pygmy giant scarab in amber](https://rs.wiki/Pygmy_giant_scarab_in_amber)\n• **Location:** Found whilst mining in the Worker district or VIP skilling area"
       },
       {
         "name": "​",
-        "value": "• **Insect:** [Clicker kalphite in amber](https://runescape.wiki/w/Clicker_kalphite_in_amber)\n\t• **Location:** Found whilst fishing in the [Worker district](https://runescape.wiki/w/Worker_district) or VIP skilling area"
+        "value": "• **Insect:** [Clicker kalphite in amber](https://rs.wiki/Clicker_kalphite_in_amber)\n• **Location:** Found whilst fishing in the [Port district](https://rs.wiki/Port_district) or VIP skilling area"
       },
       {
         "name": "​",
-        "value": "• **Insect:** [Desert locust in amber](https://runescape.wiki/w/Desert_locust_in_amber)\n\t• **Location:** Found whilst fishing in the Port district or VIP skilling area."
+        "value": "• **Insect:** [Desert locust in amber](https://rs.wiki/Desert_locust_in_amber)\n• **Location:** Found whilst fishing in the Port district or VIP skilling area."
       },
       {
         "name": "​",
-        "value": "• **Insect:** [Kalphite wanderer in amber](https://runescape.wiki/w/Kalphite_wanderer_in_amber)\n\t• **Location:** Pickpocketed from the [Gullible tourist](https://runescape.wiki/w/Gullible_tourist) on the southern dock in the [Port district](https://runescape.wiki/w/Port_district) or from [Menaphite marketeer](https://runescape.wiki/w/Menaphite_marketeer). The tourist will spawn randomly on some worlds. World locations are often called in the **soulobby** friend's chat."
+        "value": "• **Insect:** [Kalphite wanderer in amber](https://rs.wiki/Kalphite_wanderer_in_amber)\n• **Location:** Pickpocketed from the [Gullible tourist](https://rs.wiki/Gullible_tourist) on the southern dock in the [Port district](https://rs.wiki/Port_district) or from [Menaphite marketeer](https://rs.wiki/Menaphite_marketeer). The tourist will spawn randomly on some worlds. World locations are often called in the **soulobby** friend's chat."
       },
       {
         "name": "​",
-        "value": "• **Insect:** [Hornless unicornfly in amber](https://runescape.wiki/w/Hornless_unicornfly_in_amber)\n\t• **Location:** Pickpocketed from the Gullible tourist on the southern dock in the Port district or from Menaphite marketeers. The tourist will spawn randomly on some worlds. World locations are often called in the **soulobby** friend's chat."
+        "value": "• **Insect:** [Hornless unicornfly in amber](https://rs.wiki/Hornless_unicornfly_in_amber)\n• **Location:** Pickpocketed from the Gullible tourist on the southern dock in the Port district or from Menaphite marketeers. The tourist will spawn randomly on some worlds. World locations are often called in the **soulobby** friend's chat."
       },
       {
         "name": "​",
-        "value": "• **Insect:** [Fly dragon in amber](https://runescape.wiki/w/Fly_dragon_in_amber)\n\t• **Location:** Found whilst stealing from the [lamp stall](https://runescape.wiki/w/Lamp_stall) or [silk stall](https://runescape.wiki/w/Silk_stall_(Menaphos) in the Merchant district"
+        "value": "• **Insect:** [Fly dragon in amber](https://rs.wiki/Fly_dragon_in_amber)\n• **Location:** Found whilst stealing from the [lamp stall](https://rs.wiki/Lamp_stall) or [silk stall](https://rs.wiki/Silk_stall_(Menaphos) in the Merchant district"
       },
       {
         "name": "​",
-        "value": "• **Insect:** [Fruit fly in amber](https://runescape.wiki/w/Fruit_fly_in_amber)\n\t• **Location:** Found whilst burning [acadia logs](https://runescape.wiki/w/Acadia_logs). It is not required to burn the logs within Menaphos"
+        "value": "• **Insect:** [Fruit fly in amber](https://rs.wiki/Fruit_fly_in_amber)\n• **Location:** Found whilst burning [Acadia logs](https://rs.wiki/Acadia_logs). It is not required to burn the logs within Menaphos"
       },
       {
         "name": "​",
-        "value": "• **Insect:** [Menaphite honey bee](https://runescape.wiki/w/Menaphite_honey_bee)\n\t• **Location:** Found whilst burning acadia logs. It is not required to burn the logs within Menaphos"
+        "value": "• **Insect:** [Menaphite honey bee](https://rs.wiki/Menaphite_honey_bee)\n• **Location:** Found whilst burning Acadia logs. It is not required to burn the logs within Menaphos"
       },
       {
         "name": "​",
-        "value": "• **Insect:** [Pygmy giant scarab](https://runescape.wiki/w/Pygmy_giant_scarab)\n\t• **Location:** Found whilst hunting [Plover bird](https://runescape.wiki/w/Plover_bird_(NPC) in the southern part of [Sophanem](https://runescape.wiki/w/Sophanem)"
+        "value": "• **Insect:** [Pygmy giant scarab](https://rs.wiki/Pygmy_giant_scarab)\n• **Location:** Found whilst hunting [Plover bird](https://rs.wiki/Plover_bird_(NPC) in the southern part of [Sophanem](https://rs.wiki/Sophanem)"
       },
       {
         "name": "​",
-        "value": "• **Insect:** [Clicker kalphite](https://runescape.wiki/w/Clicker_kalphite)\n\t• **Location:** Found whilst hunting Plover bird in the southern part of Sophanem"
+        "value": "• **Insect:** [Clicker kalphite](https://rs.wiki/Clicker_kalphite)\n• **Location:** Found whilst hunting Plover bird in the southern part of Sophanem"
       },
       {
         "name": "​",
-        "value": "• **Insect:** [Desert locust](https://runescape.wiki/w/Desert_locust)\n\t• **Location:** Found whilst woodcutting [acadia trees](https://runescape.wiki/w/Acadia_tree) in the [Imperial district](https://runescape.wiki/w/Imperial_district) or VIP skilling area"
+        "value": "• **Insect:** [Desert locust](https://rs.wiki/Desert_locust)\n• **Location:** Found whilst woodcutting [Acadia trees](https://rs.wiki/Acadia_tree) in the [Imperial district](https://rs.wiki/Imperial_district) or VIP skilling area"
       },
       {
         "name": "​",
-        "value": "• **Insect:** [Kalphite wanderer](https://runescape.wiki/w/Kalphite_wanderer)\n\t• **Location:** Found whilst woodcutting acadia trees in the Imperial district or VIP skilling area"
+        "value": "• **Insect:** [Kalphite wanderer](https://rs.wiki/Kalphite_wanderer)\n• **Location:** Found whilst woodcutting Acadia trees in the Imperial district or VIP skilling area"
       },
       {
         "name": "​",
-        "value": "• **Insect:** [Hornless unicornfly](https://runescape.wiki/w/Hornless_unicornfly)\n\t• **Location:** Found whilst woodcutting acadia trees in the VIP skilling area"
+        "value": "• **Insect:** [Hornless unicornfly](https://rs.wiki/Hornless_unicornfly)\n• **Location:** Found whilst woodcutting Acadia trees in the VIP skilling area"
       },
       {
         "name": "​",
-        "value": "• **Insect:** [Fly dragon](https://runescape.wiki/w/Fly_dragon)\n\t• **Location:** Found whilst harvesting [luminous memories](https://runescape.wiki/w/Luminous_memory) south of Sophanem. Using a [divine-o-matic vacuum](https://runescape.wiki/w/Divine-o-matic_vacuum) works for this as well"
+        "value": "• **Insect:** [Fly dragon](https://rs.wiki/Fly_dragon)\n• **Location:** Found whilst harvesting [Luminous memories](https://rs.wiki/Luminous_memory) south of Sophanem. Using a [Divine-o-matic vacuum](https://rs.wiki/Divine-o-matic_vacuum) works for this as well"
       },
       {
         "name": "​",
-        "value": "• **Insect:** [Fruit fly](https://runescape.wiki/w/Fruit_fly)\n\t• **Location:** Found whilst harvesting luminous memories south of Sophanem. Using a divine-o-matic vacuum works for this as well"
+        "value": "• **Insect:** [Fruit fly](https://rs.wiki/Fruit_fly)\n• **Location:** Found whilst harvesting Luminous memories south of Sophanem. Using a Divine-o-matic vacuum works for this as well"
       },
       {
         "name": "Requirements:",
-        "value": "• 47 Woodcutting\n• 20 Thieving\n• 35 Mining\n• 52 Fishing\n• 47 Firemaking\n• 73 Hunter\n• 90 Divination\n\n• The Jack of Spades Quest completion | [Runescape Wiki](https://runescape.wiki/w/The_Jack_of_Spades)\n\n• Rank 7 overall Menaphos [reputation](https://runescape.wiki/w/Menaphos/Reputation)"
+        "value": "• 47 Woodcutting\n• 20 Thieving\n• 35 Mining\n• 52 Fishing\n• 47 Firemaking\n• 73 Hunter\n• 90 Divination\n\n• The Jack of Spades Quest completion | [Runescape Wiki](https://rs.wiki/The_Jack_of_Spades)\n\n• Rank 7 overall Menaphos [reputation](https://rs.wiki/Reputation_(Menaphos%29)"
       }
     ],
     "footer": {

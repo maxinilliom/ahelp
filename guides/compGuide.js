@@ -2598,34 +2598,30 @@ exports.data = {
 	"complete trekky": {
 		"cmds": ["mqc", "trim"],
 		"embed": {
-			"title": "Complete Trekky",
-			"author": {
-				"name": "Cape Info",
-				"icon_url": "https://i.imgur.com/6c6q2iC.png"
-			},
-			"description": "[Complete Trekky](https://runescape.wiki/w/Complete_Trekky) is an achievement that requires the player to level all adventurers in [Temple Trekking](https://runescape.wiki/w/Temple_Trekking) to level 99.\n\nThere are a total of six people that can be escorted - three people for the journey to the [Paterdomus Temple](https://runescape.wiki/w/Paterdomus) and three for [Burgh De Rott](https://runescape.wiki/w/Burgh_de_Rott). They are:\n• [Dean Vellio](https://runescape.wiki/w/Dean_Vellio)\n• [Jayene Kliyn](https://runescape.wiki/w/Jayene_Kliyn)\n• [Smiddi Ryak](https://runescape.wiki/w/Smiddi_Ryak)\n• [Pazuzu](https://runescape.wiki/w/Pazuzu)\n• [Zachory Bragg](https://runescape.wiki/w/Zachory_Bragg)\n• [Rolayne Twickit](https://runescape.wiki/w/Rolayne_Twickit)\n\nYou can choose who to escort by using the noticeboard at the start point at Paterdomus or in Burgh De Rott. Each of the three people on each journey has a different [Difficulty](https://runescape.wiki/w/Temple_Trekking#Difficulty) - easy, medium and hard.\n\nBy being escorted, the follower will gain experience and levels. As they do so, they will gain new abilities and become more adept in combat. Their examine information and appearance will also change after receiving some new abilities. It will also allow the player to unlock certain rewards. Some rewards require all of the followers to have reached a certain level.\n\nIt is possible to let your companion do much, if not all, of the fighting leading to fast level ups. This is easier for the mages and ranger, but can still be done with the warrior provided you have food to sustain him. This tactic works well with the Easy and Medium NPCs at the easy and medium route difficulties for the giant snail, ghast, nail beast, swamp snake, and shade [events](https://runescape.wiki/w/Temple_Trekking/Events). The Hard NPC’s can simply be rushed through the hard path for the fastest levels.",
-			"thumbnail": {
-				"url": "https://i.imgur.com/Shmagnp.png"
-			},
-			"fields": [{
-					"name": "​",
-					"value": "Players should use [potatoes](https://runescape.wiki/w/Potatoes) (sack of potatoes) with 10 [raw potatoes](https://runescape.wiki/w/Raw_potato) within each for their follower's food, as each type of food will heal the same amount and this allows the most food to be carried at once."
-				},
-				{
-					"name": "Requirements:",
-					"value": "• The [Darkness of Hallowvale](https://runescape.wiki/w/Darkness_of_Hallowvale) quest for Burgh de Rott Ramble route\n• The [In Aid of the Myreque](https://runescape.wiki/w/In_Aid_of_the_Myreque) quest for Temple Trekking route"
-				},
-				{
-					"name": "Guide:",
-					"value": "• [Temple Trekking powerleveling companions guide | FBA - YouTube](https://www.youtube.com/watch?v=uLH1vnxrXBs)"
-				}
-			],
-			"footer": {
-				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
-				"text": "RuneScore awarded: 40"
-			},
-			"timestamp": "2001-01-04T12:00:00Z"
-		}
+      "title": "Complete Trekky",
+      "author": {
+        "name": "Cape Info",
+        "icon_url": "https://i.imgur.com/6c6q2iC.png"
+      },
+      "description": "[Complete Trekky](https://runescape.wiki/w/Complete_Trekky) is an achievement that requires the player to level all adventurers in [Temple Trekking](https://runescape.wiki/w/Temple_Trekking) to level 99.\n\nThere are a total of six people that can be escorted - three people for the journey to the [Paterdomus Temple](https://runescape.wiki/w/Paterdomus) and three for [Burgh De Rott](https://runescape.wiki/w/Burgh_de_Rott). They are:\n• [Dean Vellio](https://runescape.wiki/w/Dean_Vellio)\n• [Jayene Kliyn](https://runescape.wiki/w/Jayene_Kliyn)\n• [Smiddi Ryak](https://runescape.wiki/w/Smiddi_Ryak)\n• [Pazuzu](https://runescape.wiki/w/Pazuzu)\n• [Zachory Bragg](https://runescape.wiki/w/Zachory_Bragg)\n• [Rolayne Twickit](https://runescape.wiki/w/Rolayne_Twickit)\n\nYou can choose who to escort by using the noticeboard at the start point at Paterdomus or in Burgh De Rott. Each of the three people on each journey has a different [Difficulty](https://runescape.wiki/w/Temple_Trekking#Difficulty) - easy, medium and hard.\n\nBy being escorted, the follower will gain experience and levels. As they do so, they will gain new abilities and become more adept in combat. Their examine information and appearance will also change after receiving some new abilities. It will also allow the player to unlock certain rewards. Some rewards require all of the followers to have reached a certain level.\n\nIt is possible to let your companion do much, if not all, of the fighting leading to fast level ups. This is easier for the mages and ranger, but can still be done with the warrior provided you have food to sustain him. This tactic works well with the Easy and Medium NPCs at the easy and medium route difficulties for the giant snail, ghast, nail beast, swamp snake, and shade [events](https://runescape.wiki/w/Temple_Trekking/Events). The Hard NPC’s can simply be rushed through the hard path for the fastest levels.",
+      "thumbnail": {
+        "url": "https://i.imgur.com/Shmagnp.png"
+      },
+      "fields": [{
+          "name": "​",
+          "value": "Players should use [potatoes](https://runescape.wiki/w/Potatoes) (sack of potatoes) with 10 [raw potatoes](https://runescape.wiki/w/Raw_potato) within each for their follower's food, as each type of food will heal the same amount and this allows the most food to be carried at once."
+        },
+        {
+          "name": "Requirements:",
+          "value": "• Darkness of Hallowvale Quest completion | [Runescape Wiki](https://runescape.wiki/w/Darkness_of_Hallowvale)\n• In Aid of the Myreque Quest completion | [Runescape Wiki](https://runescape.wiki/w/In_Aid_of_the_Myreque)"
+        }
+      ],
+      "footer": {
+        "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+        "text": "RuneScore awarded: 40"
+      },
+      "timestamp": "2001-01-04T12:00:00Z"
+    }
 	},
 	"completionist cape": {
 		"cmds": ["trim"],
@@ -4938,62 +4934,62 @@ exports.data = {
 	"keeping up with the carnilleans": {
 		"cmds": ["mqc"],
 		"embed": {
-			"title": "Keeping Up with the Carnilleans",
-			"author": {
-				"name": "Cape Info",
-				"icon_url": "https://i.imgur.com/6c6q2iC.png"
-			},
-			"description": "[Keeping Up with the Carnilleans](https://runescape.wiki/w/Keeping_Up_with_the_Carnilleans) is an achievement that requires the player to find [Philipe Carnillean](https://runescape.wiki/w/Philipe_Carnillean) around [Gielinor](https://runescape.wiki/w/Gielinor) and claim the experience lamps.\n\nPhilipe will travel the world on his [Own adventures](https://runescape.wiki/w/Philipe_Carnillean#Adventures_of_his_own), and if you speak to him will he give you his experience lamps.\n\nYou can speak to [Ceril Carnillean](https://runescape.wiki/w/Ceril_Carnillean) to find out more about Philipe's current location.\n\nThe list of locations is the same for every player; however, you need a certain number of quest points for him to appear. Ceril will say that he doesn't know where he is if you don't have the sufficient amount of quest points to receive the next reward. You will have to use the lamp before Philipe will appear at the next location.",
-			"thumbnail": {
-				"url": "https://i.imgur.com/Shmagnp.png"
-			},
-			"fields": [{
-					"name": "Order of Locations:",
-					"value": "**Location:** Inside the [Ardougne](https://runescape.wiki/w/Ardougne) [Combat Training Camp](https://runescape.wiki/w/Combat_Training_Camp), near the entrance.\n\t• **Quest Points Required:** 50"
-				},
-				{
-					"name": "​",
-					"value": "**Location:** At the entrance to the [Mountain Camp](https://runescape.wiki/w/Mountain_Camp) of [Hamal](https://runescape.wiki/w/Hamal_the_Chieftain)'s tribe, in the [Fremennik Province](https://runescape.wiki/w/Fremennik_Province).\n\t• **Quest Points Required:** 100"
-				},
-				{
-					"name": "​",
-					"value": "**Location:** On the [Paramaya Inn](https://runescape.wiki/w/Paramaya_Inn)'s top floor in [Shilo Village](https://runescape.wiki/w/Shilo_Village). You will need 35 coins to go to the top floor.\n\t• **Quest Points Required:** 150"
-				},
-				{
-					"name": "​",
-					"value": "**Location:** [Port Phasmatys](https://runescape.wiki/w/Port_Phasmatys), inside [The Green Ghost](https://runescape.wiki/w/The_Green_Ghost) Inn.\n\t• **Quest Points Required:** 200"
-				},
-				{
-					"name": "​",
-					"value": "**Location:** The [Polypore Dungeon](https://runescape.wiki/w/Polypore_Dungeon), close to the [Ramokee Skinweaver](https://runescape.wiki/w/Ramokee_Skinweaver_(Polypore_Dungeon) on the very bottom.\n\t• **Quest Points Required:** 250"
-				},
-				{
-					"name": "​",
-					"value": "**Location:** Outside [Oldak](https://runescape.wiki/w/Oldak)'s house in the north-west of [Dorgesh-Kaan](https://runescape.wiki/w/Dorgesh-Kaan).\n\t• **Quest Points Required:** 300"
-				},
-				{
-					"name": "​",
-					"value": "**Location:** Inside the machine room in the [Piscatoris Fishing Colony](https://runescape.wiki/w/Piscatoris_Fishing_Colony).\n\t• **Quest Points Required:** 350"
-				},
-				{
-					"name": "​",
-					"value": "**Location:** At the southern gate of [Prifddinas](https://runescape.wiki/w/Prifddinas), north of [Isafdar](https://runescape.wiki/w/Isafdar) woods.\n\t• **Quest Points Required:** 400"
-				},
-				{
-					"name": "Requirements:",
-					"value": "• Carnillean Rising Quest completion | [Runescape Wiki](https://runescape.wiki/w/Carnillean_Rising)\n\n• 400 Quest Points"
-				},
-				{
-					"name": "Guide:",
-					"value": "• [Phillipe Carnillean's Adventures of his own Guide | Runescape Wiki](https://runescape.wiki/w/Philipe_Carnillean#Adventures_of_his_own)"
-				}
-			],
-			"footer": {
-				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
-				"text": "RuneScore awarded: 35"
-			},
-			"timestamp": "2001-01-04T12:00:00Z"
-		}
+      "title": "Keeping Up with the Carnilleans",
+      "author": {
+        "name": "Cape Info",
+        "icon_url": "https://i.imgur.com/6c6q2iC.png"
+      },
+      "description": "[Keeping Up with the Carnilleans](https://runescape.wiki/w/Keeping_Up_with_the_Carnilleans) is an achievement that requires the player to find [Philipe Carnillean](https://runescape.wiki/w/Philipe_Carnillean) around [Gielinor](https://runescape.wiki/w/Gielinor) and claim the experience lamps.\n\nPhilipe will travel the world on his [own adventures](https://runescape.wiki/w/Philipe_Carnillean#Adventures_of_his_own), and if you speak to him will he give you his experience lamps.\n\nYou can speak to [Ceril Carnillean](https://runescape.wiki/w/Ceril_Carnillean) to find out more about Philipe's current location.\n\nThe list of locations is the same for every player; however, you need a certain number of quest points for him to appear. Ceril will say that he doesn't know where he is if you don't have the sufficient amount of quest points to receive the next reward. You will have to use the lamp before Philipe will appear at the next location.",
+      "thumbnail": {
+        "url": "https://i.imgur.com/Shmagnp.png"
+      },
+      "fields": [{
+          "name": "Order of Locations:",
+          "value": "**Location:** Inside the [Ardougne](https://runescape.wiki/w/Ardougne) [Combat Training Camp](https://runescape.wiki/w/Combat_Training_Camp), near the entrance.\n\t• **Quest Points Required:** 50"
+        },
+        {
+          "name": "​",
+          "value": "**Location:** At the entrance to the [Mountain Camp](https://runescape.wiki/w/Mountain_Camp) of [Hamal](https://runescape.wiki/w/Hamal_the_Chieftain)'s tribe, in the [Fremennik Province](https://runescape.wiki/w/Fremennik_Province).\n\t• **Quest Points Required:** 100"
+        },
+        {
+          "name": "​",
+          "value": "**Location:** On the [Paramaya Inn](https://runescape.wiki/w/Paramaya_Inn)'s top floor in [Shilo Village](https://runescape.wiki/w/Shilo_Village). You will need 35 coins to go to the top floor.\n\t• **Quest Points Required:** 150"
+        },
+        {
+          "name": "​",
+          "value": "**Location:** [Port Phasmatys](https://runescape.wiki/w/Port_Phasmatys), inside [The Green Ghost](https://runescape.wiki/w/The_Green_Ghost) Inn.\n\t• **Quest Points Required:** 200"
+        },
+        {
+          "name": "​",
+          "value": "**Location:** The [Polypore Dungeon](https://runescape.wiki/w/Polypore_Dungeon), close to the [Ramokee Skinweaver](https://runescape.wiki/w/Ramokee_Skinweaver_(Polypore_Dungeon) on the very bottom.\n\t• **Quest Points Required:** 250"
+        },
+        {
+          "name": "​",
+          "value": "**Location:** Outside [Oldak](https://runescape.wiki/w/Oldak)'s house in the north-west of [Dorgesh-Kaan](https://runescape.wiki/w/Dorgesh-Kaan).\n\t• **Quest Points Required:** 300"
+        },
+        {
+          "name": "​",
+          "value": "**Location:** Inside the machine room in the [Piscatoris Fishing Colony](https://runescape.wiki/w/Piscatoris_Fishing_Colony).\n\t• **Quest Points Required:** 350"
+        },
+        {
+          "name": "​",
+          "value": "**Location:** At the [TzHaar Fight Caves](https://runescape.wiki/w/TzHaar_Fight_Cave) entrance, in the [TzHaar City](https://runescape.wiki/w/TzHaar_City).\n\t• **Quest Points Required:** 400"
+        },
+        {
+          "name": "Requirements:",
+          "value": "• Carnillean Rising Quest completion | [Runescape Wiki](https://runescape.wiki/w/Carnillean_Rising)\n\n• 400 Quest Points"
+        },
+        {
+          "name": "Guide:",
+          "value": "• [Phillipe Carnillean's Adventures of his own Guide | Runescape Wiki](https://runescape.wiki/w/Philipe_Carnillean#Adventures_of_his_own)"
+        }
+      ],
+      "footer": {
+        "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+        "text": "RuneScore awarded: 35"
+      },
+      "timestamp": "2001-01-04T12:00:00Z"
+    }
 	},
 	"kharshai's memories": {
 		"cmds": ["comp"],
@@ -7646,67 +7642,68 @@ exports.data = {
 			"timestamp": "2001-01-04T12:00:00Z"
 		}
 	},
-	"rhian the gold - the original pt1": {
+	"rhian in gold - the original pt1": {
 		"cmds": ["comp"],
 		"embed": {
-			"title": "Rhian in Gold - The Original",
-			"author": {
-				"name": "Cape Info",
-				"icon_url": "https://i.imgur.com/6c6q2iC.png"
-			},
-			"description": "[Rhian in Gold - The Original](https://runescape.wiki/w/Rhian_in_Gold_-_The_Original) is an achievement that requires the player to collect all of the [golden rocks](https://runescape.wiki/w/Golden_rock) and building the [Statue of Rhiannon](https://runescape.wiki/w/Statue_of_Rhiannon) once.\n\nThe plinth for the statue is located in the [Tower of Voices](https://runescape.wiki/w/Tower_of_Voices) in [Prifddinas](https://runescape.wiki/w/Prifddinas), where it is attended by [Auron Ithell](https://runescape.wiki/w/Auron_Ithell). You can build as many statues per week as you desire, unlike the [Dahmaroc statue](https://runescape.wiki/w/Dahmaroc_statue).\n\nPlayers should note:\n• Rocks are obtained randomly based on the number of experience drops, not on the size of the experience drop. \n• Rock chances reduce for the given skill when gaining the first rock, so you should switch skills in-between.\n• It is beneficial to obtain rocks while capping if that is something your clan requires.\n• The rocks must be added in pairs and can be stored in the [Statue collection bag]( https://runescape.wiki/w/Statue_collection_bag). \n• While [Golden rocks]( https://runescape.wiki/w/Golden_rock) are not restricted to only being found in Prifddinas, it is more likely to find one while skilling in a district of the city that has the [Voice of Seren]( https://runescape.wiki/w/Voice_of_Seren) active.\n• Players receive an increased chance of getting rocks when skilling with the relevant [Cape of Accomplishment](https://runescape.wiki/w/Cape_of_Accomplishment) equipped.",
-			"thumbnail": {
-				"url": "https://i.imgur.com/Shmagnp.png"
-			},
-			"fields": [{
-					"name": "Requirements:",
-					"value": "• The ability to obtain [golden rocks](https://runescape.wiki/w/Golden_rock) must be toggled on by talking to [Auron Ithell](https://runescape.wiki/w/Auron_Ithell) who is standing by a golden plinth in the [Tower of Voices](https://runescape.wiki/w/Tower_of_Voices) in [Prifddinas](https://runescape.wiki/w/Prifddinas)."
-				},
-				{
-					"name": "Methods:",
-					"value": "\n**Dungeoneering**\n• Completing [Small]( https://runescape.wiki/w/Dungeoneering#Dungeon_size), [Complexity 4]( https://runescape.wiki/w/Dungeoneering#Complexity) Dungeoneering [Floors]( https://runescape.wiki/w/Dungeoneering#Floors)\n• Participating in an [Elite Dungeon]( https://runescape.wiki/w/Elite_dungeons)\n\n**Summoning**\n• [Spirit Terrorbird pouches]( https://runescape.wiki/w/Spirit_terrorbird_pouch) during the [Amlodd]( https://runescape.wiki/w/Amlodd_Clan) Voice of Seren\n\n**Slayer**\n• Gather slayer with your preferred [Mask]( https://runescape.wiki/w/Slayer_mask) or [Slayer contract]( https://runescape.wiki/w/Slayer_contract) and then go to the [Trolls]( https://runescape.wiki/w/Troll) in the [Abandoned Burthorpe mine]( https://runescape.wiki/w/Abandoned_Burthorpe_mine)"
-				},
-				{
-					"name": "​",
-					"value": "**Divination**\n• [Siphon Incandescent Memories]( https://runescape.wiki/w/Incandescent_memory) into [Energy]( https://runescape.wiki/w/Incandescent_energy), experience, or [Divine charges]( https://runescape.wiki/w/Divine_charge)"
-				},
-				{
-					"name": "​",
-					"value": "**Agility**\n• [Cycling](https://runescape.wiki/w/The_Empty_Throne_Room#Agility) in [The Empty Throne Room](https://runescape.wiki/w/The_Empty_Throne_Room)\n\n**Construction**\n• [Stone Fireplaces](https://runescape.wiki/w/Stone_fireplace) (buy [Limestone bricks](https://runescape.wiki/w/Limestone) outside of [Prifddinas](https://runescape.wiki/w/Prifddinas) house portal during the [Ithell](https://runescape.wiki/w/Ithell_Clan) [Voice of Seren](https://runescape.wiki/w/Voice_of_Seren))\n• [Oak Lecterns](https://runescape.wiki/w/Oak_lectern) (Requires only 1 [Oak Plank](https://runescape.wiki/w/Oak_plank))"
-				},
-				{
-					"name": "​",
-					"value": "**Crafting**\n• [Crystal Flasks](https://runescape.wiki/w/Crystal_flask) or [Potion Flasks](https://runescape.wiki/w/Potion_flask) made with Daily [Crystal Glass](https://runescape.wiki/w/Crystal_glass) or [Robust Glass](https://runescape.wiki/w/Robust_glass) in any district where the Voice of Seren is active\n• [Empty light orb](https://runescape.wiki/w/Empty_light_orb) from [Molten Glass](https://runescape.wiki/w/Molten_glass)\n• Playing the [Harps](https://runescape.wiki/w/Harp) in Prifddinas\n\n**Farming**\n• [Rumberry Bushes](https://runescape.wiki/w/Rumberry_bush) on [Tuai Leit](https://runescape.wiki/w/Tuai_Leit)\n• [Grapevine](https://www.youtube.com/watch?v=EKBj8-gF28M) runs with [Herb Run](https://www.youtube.com/watch?v=TzNhjl2RZ1c)\n• [Manure mound](https://runescape.wiki/w/Manure_mound)"
-				}
-			]
-		}
+      "title": "Rhian in Gold - The Original",
+      "author": {
+        "name": "Cape Info",
+        "icon_url": "https://i.imgur.com/6c6q2iC.png"
+      },
+      "description": "[Rhian in Gold - The Original](https://rs.wiki/w/Rhian_in_Gold_-_The_Original) is an achievement that requires the player to collect all of the [Golden rocks](https://rs.wiki/w/Golden_rock) and build the [Statue of Rhiannon](https://rs.wiki/w/Statue_of_Rhiannon) once.\n\nThe plinth for the statue is located in the [Tower of Voices](https://rs.wiki/w/Tower_of_Voices) in [Prifddinas](https://rs.wiki/w/Prifddinas), where it is attended by [Auron Ithell](https://rs.wiki/w/Auron_Ithell). You can build as many statues per week as you desire, unlike the [Dahmaroc statue](https://rs.wiki/w/Dahmaroc_statue).\n\nPlayers should note:\n• Rocks are obtained randomly based on the number of experience drops, not on the size of the experience drop. \n• Rock chances reduce for the given skill when gaining the first rock, so you should switch skills in-between.\n• It is beneficial to obtain rocks while capping if that is something your clan requires.\n• The rocks must be added in pairs and can be stored in the [Statue collection bag](https://rs.wiki/w/Statue_collection_bag). \n• While [Golden rocks](https://rs.wiki/w/Golden_rock) are not restricted to only being found in Prifddinas, it is more likely to find one while skilling in a district of the city that has the [Voice of Seren](https://rs.wiki/w/Voice_of_Seren) active.\n• Players receive an increased chance of getting rocks when skilling with the relevant [Cape of Accomplishment](https://rs.wiki/w/Cape_of_Accomplishment) equipped.",
+      "thumbnail": {
+        "url": "https://i.imgur.com/Shmagnp.png"
+      },
+      "fields": [{
+          "name": "Requirements:",
+          "value": "• The ability to obtain [golden rocks](https://rs.wiki/w/Golden_rock) must be toggled on by talking to [Auron Ithell](https://rs.wiki/w/Auron_Ithell) who is standing by a golden plinth in the [Tower of Voices](https://rs.wiki/w/Tower_of_Voices) in [Prifddinas](https://rs.wiki/w/Prifddinas)."
+        },
+        {
+          "name": "Methods:",
+          "value": "**Agility**\n• [Cycling](https://rs.wiki/w/The_Empty_Throne_Room#Agility) in [The Empty Throne Room](https://rs.wiki/w/The_Empty_Throne_Room)\n• Completing the [Hefin Agility course](https://rs.wiki/w/Hefin_Agility_Course) while the Voice of Seren is active in the Hefin district\n\n**Construction**\n• [Stone Fireplaces](https://rs.wiki/w/Stone_fireplace) (buy [Limestone bricks](https://rs.wiki/w/Limestone_brick) outside of [Prifddinas](https://rs.wiki/w/Prifddinas) house portal during the [Ithell](https://rs.wiki/w/Ithell_Clan) [Voice of Seren](https://rs.wiki/w/Voice_of_Seren))\n• [Oak Lecterns](https://rs.wiki/w/Oak_lectern) (Requires only 1 [Oak Plank](https://rs.wiki/w/Oak_plank))\n• Making items with [Protean](https://rs.wiki/w/Protean_plank) or [Mahogany](https://rs.wiki/w/Mahogany_plank) planks with a [Flatpack Depacker](https://rs.wiki/w/Flatpack_depacker) held in inventory (AFK)\n• Wielding the [Crystal saw](https://rs.wiki/w/Crystal_saw_(Prifddinas%29) will double the chance of receiving a rock"
+        },
+        {
+          "name": "​",
+          "value": "**Crafting**\n• Creating [Crystal Flasks](https://rs.wiki/w/Crystal_flask) or [Potion Flasks](https://rs.wiki/w/Potion_flask) made from [Crystal Glass](https://rs.wiki/w/Crystal_glass) or [Robust Glass](https://rs.wiki/w/Robust_glass) in the Ithell district while the Voice of Seren is active\n• Playing the [Harps](https://rs.wiki/w/Harp) in Prifddinas while the Voice of Seren is active in the Ithell district while the Voice of Seren is active there\n• Crafting [Empty light orbs](https://rs.wiki/w/Empty_light_orb) from [Molten Glass](https://rs.wiki/w/Molten_glass)\n\n**Divination**\n• Siphoning [Incandescent Memories](https://rs.wiki/w/Incandescent_memory) into [Incandescent energy](https://rs.wiki/w/Incandescent_energy), experience, or [Divine charges](https://rs.wiki/w/Divine_charge)"
+        },
+        {
+          "name": "​",
+          "value": "\n**Dungeoneering**\n• Completing [small](https://rs.wiki/w/Dungeoneering#Dungeon_size) [complexity 4](https://rs.wiki/w/Dungeoneering#Complexity) Dungeoneering [floors](https://rs.wiki/w/Dungeoneering#Floors)\n• Participating in an [Elite Dungeon](https://rs.wiki/w/Elite_dungeons)\n• Completing [Sinkholes](https://runescape.wiki/w/Sinkholes)\n\n**Farming**\n• Foraging [Rumberry Bushes](https://rs.wiki/w/Rumberry_bush) on [Tuai Leit](https://rs.wiki/w/Tuai_Leit)\n• Completing [Grapevine](https://www.youtube.com/watch?v=EKBj8-gF28M) [herb runs](https://www.youtube.com/watch?v=TzNhjl2RZ1c)\n• Turning the [Manure mound](https://rs.wiki/w/Manure_mound) at the [Manor Farm](https://runescape.wiki/w/Manor_Farm)\n• Harvesting from the Meilyr district [Fruit tree patch](https://runescape.wiki/w/Farming/Patch_locations#Fruit_tree_patches) or the Cryws district [Herb patch](https://runescape.wiki/w/Farming/Patch_locations#Herb-only_patches) while the Voice of Seren is active there"
+        },
+        {
+          "name": "​",
+          "value": "**Herblore**\n• Cleaning cheap herbs such as [Tarromin](https://runescape.wiki/w/Grimy_tarromin)\n\n**Magic**\n• Killing [Troll shamans](https://runescape.wiki/w/Troll_shaman) in the [Abandoned Burthorpe mine](https://runescape.wiki/w/Abandoned_Burthorpe_mine)\n\n**Melee**\n• Killing [Troll brutes](https://runescape.wiki/w/Troll_Brute) in the Abandoned Burthorpe mine\n• Killing [Cows](https://runescape.wiki/w/Cow)\n\n**Mining**\n• Mining [Seren Stones](https://runescape.wiki/w/Seren_stone) while the Voice of Seren is active in the Trahaearn district\n• Mining any ore\n\n**Prayer**\n• Using the [Bonecrusher](https://runescape.wiki/w/Bonecrusher) whilst killing Trolls in the Abandoned Burthorpe mine\n• Burying [bones](https://runescape.wiki/w/Bones_(disambiguation%29) or scattering [demonic ashes](https://runescape.wiki/w/Demonic_ashes)"
+        }
+      ]
+    }
 	},
-	"rhian the gold - the original pt2": {
+	"rhian in gold - the original pt2": {
 		"cmds": ["comp"],
 		"embed": {
-			"fields": [{
-					"name": "​",
-					"value": "**Herblore**\n• Cleaning [Tarromin](https://runescape.wiki/w/Grimy_tarromin) in any district where the Voice of Seren is active\n\n**Mining**\n• [Seren Stones](https://runescape.wiki/w/Seren_stone)\n• [Pure Essence](https://runescape.wiki/w/Pure_essence)\n• [Red Sandstone](https://runescape.wiki/w/Red_sandstone) or [Crystal-flecked sandstone](https://runescape.wiki/w/Crystal-flecked_sandstone) Daily\n\n**Smithing**\n• [Corrupted Ore](https://runescape.wiki/w/Corrupted_ore)\n• [Gold Bars](https://runescape.wiki/w/Gold_bar) at a [Portable forge](https://runescape.wiki/w/Portable_forge)\n\n**Woodcutting**\n• [Crystallise](https://runescape.wiki/w/Crystallise) [Acadia](https://runescape.wiki/w/Acadia_tree) in [Menaphos](https://runescape.wiki/w/Menaphos)\n• [Ivy](https://runescape.wiki/w/Ivy)"
-				},
-				{
-					"name": "​",
-					"value": "**Thieving**\n• [Elven clan workers](https://runescape.wiki/w/Elven_clan_worker)\n• [Dwarf Traders](https://runescape.wiki/w/Trader)"
-				},
-				{
-					"name": "Requirements:",
-					"value": "• Plague's End Quest completion | [Runescape Wiki](https://runescape.wiki/w/Plague%27s_End)"
-				},
-				{
-					"name": "Guide:",
-					"value": "• [Golden Rock Guide | Runescape Wiki](https://runescape.wiki/w/Golden_rock)"
-				}
-			],
-			"footer": {
-				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
-				"text": "RuneScore awarded: 50"
-			},
-			"timestamp": "2001-01-04T12:00:00Z"
-		}
+      "fields": [
+        {
+          "name": "​",
+          "value": "**Ranged**\n• Killing [Troll chuckers](https://runescape.wiki/w/Troll_chucker) in the Abandoned Burthorpe mine\n\n**Slayer**\n• Killing [Cadarn magus](https://runescape.wiki/w/Cadarn_magus) and [Cadarn rangers](https://runescape.wiki/w/Cadarn_ranger) while the Voice of Seren is active in the Cadarn district\n• Killing [Shadow creatures](https://runescape.wiki/w/Truthful_shadow) in the Amlodd district while the Voice of Seren is active there\n• Killing monsters on a [slayer task](https://runescape.wiki/w/Slayer_task) from your highest available [Slayer Master](https://runescape.wiki/w/Slayer_Master)\n\n**Smithing**\n• [Corrupted Ore](https://runescape.wiki/w/Corrupted_ore) in the Trahaearn district furnace while the Voice of Seren is active there\n• Smelting cheap ores such as [Gold ore](https://runescape.wiki/w/Gold_ore)"
+        },
+        {
+          "name": "​",
+          "value": "**Summoning**\n• Creating [Spirit terrorbird pouches](https://rs.wiki/w/Spirit_terrorbird_pouch) in the [Amlodd](https://rs.wiki/w/Amlodd_Clan) district while the Voice of Seren is active there\n• Creating any [summoning pouch](https://runescape.wiki/w/Summoning_pouches)\n\n**Woodcutting**\n• Cutting [Ivy](https://runescape.wiki/w/Ivy) in the Crwys district while the Voice of Seren is active there\n• Cutting any [trees](https://runescape.wiki/w/Woodcutting#Types_of_trees)"
+        },
+        {
+          "name": "Requirements:",
+          "value": "• Plague's End Quest completion | [Runescape Wiki](https://runescape.wiki/w/Plague%27s_End)"
+        },
+        {
+          "name": "Guide:",
+          "value": "• [Golden Rock Guide | Runescape Wiki](https://runescape.wiki/w/Golden_rock)"
+        }
+      ],
+      "footer": {
+        "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+        "text": "RuneScore awarded: 50"
+      },
+      "timestamp": "2001-01-04T12:00:00Z"
+    }
 	},
 	"roake kal": {
 		"cmds": ["mqc"],
@@ -9815,54 +9812,60 @@ exports.data = {
 	"who will be her lover? pt1": {
 		"cmds": ["trim"],
 		"embed": {
-			"title": "Who Will Be Her Lover?",
-			"author": {
-				"name": "Cape Info",
-				"icon_url": "https://i.imgur.com/6c6q2iC.png"
-			},
-			"description": "[Who Will Be Her Lover?](https://runescape.wiki/w/Who_Will_Be_Her_Lover%3F) is an achievement that requires the player to complete the [Statue of Rhiannon](https://runescape.wiki/w/Statue_of_Rhiannon) statue 32 times to rebuild it fully in the [Max Guild]( https://runescape.wiki/w/Max_Guild) garden and is built while participating in the [Shattered Heart](https://runescape.wiki/w/Shattered_Heart) [Distraction and Diversion](https://runescape.wiki/w/Distractions_and_Diversions). The Max Guild is in [Prifddinas](https://runescape.wiki/w/Prifddinas), in the south-eastern part of the [Cadarn Clan](https://runescape.wiki/w/Cadarn_Clan) district. The plinth for the statue is located in the Tower of Voices in Prifddinas, where it is attended by Auron Ithell. You can build as many statues per week as you desire, unlike the [Dahmaroc statue](https://runescape.wiki/w/Dahmaroc_statue).\n\nPlayers should note:\n\n• Rocks are obtained randomly based on the number of experience drops, not on the size of the experience drop.\n\n• Rock chances reduce for the given skill when gaining the first rock, so you should switch skills in-between.\n\n• It is beneficial to obtain rocks while capping if that is something your clan requires.\n\n• It is beneficial to do the Dahmaroc statue and Statue of Rhiannon simultaneously. Although the Statue of Rhiannon has no time lock, many skills are shared with the Dahmaroc statue, making them being done together a viable option.\n\n• The rocks must be added in pairs, and can be stored in the [Statue collection bag]( https://runescape.wiki/w/Statue_collection_bag).\n\n• While [Golden rocks]( https://runescape.wiki/w/Golden_rock) are not restricted to only being found in Prifddinas, it is more likely to find one while skilling in a district of the city that has the [Voice of Seren]( https://runescape.wiki/w/Voice_of_Seren) active.",
-			"thumbnail": {
-				"url": "https://i.imgur.com/Shmagnp.png"
-			},
-			"fields": [{
-					"name": "​",
-					"value": "• Players receive an increased chance of getting rocks when skilling with the relevant [Cape of Accomplishment](https://runescape.wiki/w/Cape_of_Accomplishment) equipped."
-				},
-				{
-					"name": "Requirements:",
-					"value": "• The ability to obtain [golden rocks](https://runescape.wiki/w/Golden_rock) must be toggled on by talking to [Auron Ithell](https://runescape.wiki/w/Auron_Ithell) who is standing by a golden plinth in the [Tower of Voices](https://runescape.wiki/w/Tower_of_Voices) in [Prifddinas](https://runescape.wiki/w/Prifddinas)."
-				},
-				{
-					"name": "Guide:",
-					"value": "\n**Dungeoneering**\n• Completing [Small]( https://runescape.wiki/w/Dungeoneering#Dungeon_size), [Complexity 4]( https://runescape.wiki/w/Dungeoneering#Complexity) Dungeoneering [Floors]( https://runescape.wiki/w/Dungeoneering#Floors)\n• Participating in an [Elite Dungeon]( https://runescape.wiki/w/Elite_dungeons)\n\n**Summoning**\n• [Spirit Terrorbird pouches]( https://runescape.wiki/w/Spirit_terrorbird_pouch) during the [Amlodd]( https://runescape.wiki/w/Amlodd_Clan) Voice of Seren\n\n**Slayer**\n• Gather slayer with your preferred [Mask]( https://runescape.wiki/w/Slayer_mask) or [Slayer contract]( https://runescape.wiki/w/Slayer_contract) and then go to the [Trolls]( https://runescape.wiki/w/Troll) in the [Abandoned Burthorpe mine]( https://runescape.wiki/w/Abandoned_Burthorpe_mine)"
-				},
-				{
-					"name": "​",
-					"value": "**Divination**\n• [Siphon Incandescent Memories]( https://runescape.wiki/w/Incandescent_memory) into [Energy]( https://runescape.wiki/w/Incandescent_energy), experience, or [Divine charges]( https://runescape.wiki/w/Divine_charge)"
-				},
-				{
-					"name": "​",
-					"value": "**Agility**\n• [Cycling](https://runescape.wiki/w/The_Empty_Throne_Room#Agility) in [The Empty Throne Room](https://runescape.wiki/w/The_Empty_Throne_Room)\n\n**Construction**\n• [Stone Fireplaces](https://runescape.wiki/w/Stone_fireplace) (buy [Limestone bricks](https://runescape.wiki/w/Limestone) outside of [Prifddinas](https://runescape.wiki/w/Prifddinas) house portal during the [Ithell](https://runescape.wiki/w/Ithell_Clan) [Voice of Seren](https://runescape.wiki/w/Voice_of_Seren))\n• [Oak Lecterns](https://runescape.wiki/w/Oak_lectern) (Requires only 1 [Oak Plank](https://runescape.wiki/w/Oak_plank))"
-				},
-				{
-					"name": "​",
-					"value": "**Crafting**\n• [Crystal Flasks](https://runescape.wiki/w/Crystal_flask) or [Potion Flasks](https://runescape.wiki/w/Potion_flask) made with Daily [Crystal Glass](https://runescape.wiki/w/Crystal_glass) or [Robust Glass](https://runescape.wiki/w/Robust_glass) in any district where the Voice of Seren is active\n• [Empty light orb](https://runescape.wiki/w/Empty_light_orb) from [Molten Glass](https://runescape.wiki/w/Molten_glass)\n• Playing the [Harps](https://runescape.wiki/w/Harp) in Prifddinas\n\n**Farming**\n• [Rumberry Bushes](https://runescape.wiki/w/Rumberry_bush) on [Tuai Leit](https://runescape.wiki/w/Tuai_Leit)\n• [Grapevine](https://www.youtube.com/watch?v=EKBj8-gF28M) runs with [Herb Run](https://www.youtube.com/watch?v=TzNhjl2RZ1c)\n• [Manure mound](https://runescape.wiki/w/Manure_mound)"
-				}
-			]
-		}
+      "title": "Who Will Be Her Lover?",
+      "author": {
+        "name": "Cape Info",
+        "icon_url": "https://i.imgur.com/6c6q2iC.png"
+      },
+      "description": "[Who Will Be Her Lover?](https://rs.wiki/w/Who_Will_Be_Her_Lover%3F) is an achievement that requires the player to complete the [Statue of Rhiannon](https://rs.wiki/w/Statue_of_Rhiannon) statue 32 times to rebuild it fully in the [Max Guild]( https://rs.wiki/w/Max_Guild) garden and is built while participating in the [Shattered Heart](https://rs.wiki/w/Shattered_Heart) [Distraction and Diversion](https://rs.wiki/w/Distractions_and_Diversions).\n\nThe Max Guild is in [Prifddinas](https://rs.wiki/w/Prifddinas), in the south-eastern part of the [Cadarn Clan](https://rs.wiki/w/Cadarn_Clan) district. The plinth for the statue is located in the Tower of Voices in Prifddinas, where it is attended by Auron Ithell. You can build as many statues per week as you desire, unlike the [Dahmaroc statue](https://rs.wiki/w/Dahmaroc_statue).\n\nPlayers should note:\n• Rocks are obtained randomly based on the number of experience drops, not on the size of the experience drop.\n• Rock chances reduce for the given skill when gaining the first rock, so you should switch skills in-between.\n• It is beneficial to obtain rocks while capping if that is something your clan requires.\n• It is beneficial to do the Dahmaroc statue and Statue of Rhiannon simultaneously. Although the Statue of Rhiannon has no time lock, many skills are shared with the Dahmaroc statue, making them being done together a viable option.\n• The rocks must be added in pairs, and can be stored in the [Statue collection bag]( https://rs.wiki/w/Statue_collection_bag).\n• While [Golden rocks](https://rs.wiki/w/Golden_rock) are not restricted to only being found in Prifddinas, it is more likely to find one while skilling in a district of the city that has the [Voice of Seren](https://rs.wiki/w/Voice_of_Seren) active.\n• Players receive an increased chance of getting rocks when skilling with the relevant [Cape of Accomplishment](https://rs.wiki/w/Cape_of_Accomplishment) equipped.",
+      "thumbnail": {
+        "url": "https://i.imgur.com/Shmagnp.png"
+      },
+      "fields": [
+        {
+          "name": "Getting started:",
+          "value": "• The ability to obtain [golden rocks](https://rs.wiki/w/Golden_rock) must be toggled on by talking to [Auron Ithell](https://rs.wiki/w/Auron_Ithell) who is standing by a golden plinth in the [Tower of Voices](https://rs.wiki/w/Tower_of_Voices) in [Prifddinas](https://rs.wiki/w/Prifddinas)."
+        },
+        {
+          "name": "Methods:",
+          "value": "**Agility**\n• [Cycling](https://rs.wiki/w/The_Empty_Throne_Room#Agility) in [The Empty Throne Room](https://rs.wiki/w/The_Empty_Throne_Room)\n• Completing the [Hefin Agility course](https://rs.wiki/w/Hefin_Agility_Course) while the Voice of Seren is active in the Hefin district\n\n**Construction**\n• [Stone Fireplaces](https://rs.wiki/w/Stone_fireplace) (buy [Limestone bricks](https://rs.wiki/w/Limestone_brick) outside of [Prifddinas](https://rs.wiki/w/Prifddinas) house portal during the [Ithell](https://rs.wiki/w/Ithell_Clan) [Voice of Seren](https://rs.wiki/w/Voice_of_Seren))\n• [Oak Lecterns](https://rs.wiki/w/Oak_lectern) (Requires only 1 [Oak Plank](https://rs.wiki/w/Oak_plank))\n• Making items with [Protean](https://rs.wiki/w/Protean_plank) or [Mahogany](https://rs.wiki/w/Mahogany_plank) planks with a [Flatpack Depacker](https://rs.wiki/w/Flatpack_depacker) held in inventory (AFK)\n• Wielding the [Crystal saw](https://rs.wiki/w/Crystal_saw_(Prifddinas%29) will double the chance of receiving a rock"
+        },
+        {
+          "name": "​",
+          "value": "**Crafting**\n• Creating [Crystal Flasks](https://rs.wiki/w/Crystal_flask) or [Potion Flasks](https://rs.wiki/w/Potion_flask) made from [Crystal Glass](https://rs.wiki/w/Crystal_glass) or [Robust Glass](https://rs.wiki/w/Robust_glass) in the Ithell district while the Voice of Seren is active\n• Playing the [Harps](https://rs.wiki/w/Harp) in Prifddinas while the Voice of Seren is active in the Ithell district while the Voice of Seren is active there\n• Crafting [Empty light orbs](https://rs.wiki/w/Empty_light_orb) from [Molten Glass](https://rs.wiki/w/Molten_glass)\n\n**Divination**\n• Siphoning [Incandescent Memories](https://rs.wiki/w/Incandescent_memory) into [Incandescent energy](https://rs.wiki/w/Incandescent_energy), experience, or [Divine charges](https://rs.wiki/w/Divine_charge)"
+        },
+        {
+          "name": "​",
+          "value": "\n**Dungeoneering**\n• Completing [small](https://rs.wiki/w/Dungeoneering#Dungeon_size) [complexity 4](https://rs.wiki/w/Dungeoneering#Complexity) Dungeoneering [floors](https://rs.wiki/w/Dungeoneering#Floors)\n• Participating in an [Elite Dungeon](https://rs.wiki/w/Elite_dungeons)\n• Completing [Sinkholes](https://runescape.wiki/w/Sinkholes)\n\n**Farming**\n• Foraging [Rumberry Bushes](https://rs.wiki/w/Rumberry_bush) on [Tuai Leit](https://rs.wiki/w/Tuai_Leit)\n• Completing [Grapevine](https://www.youtube.com/watch?v=EKBj8-gF28M) [herb runs](https://www.youtube.com/watch?v=TzNhjl2RZ1c)\n• Turning the [Manure mound](https://rs.wiki/w/Manure_mound) at the [Manor Farm](https://runescape.wiki/w/Manor_Farm)\n• Harvesting from the Meilyr district [Fruit tree patch](https://runescape.wiki/w/Farming/Patch_locations#Fruit_tree_patches) or the Cryws district [Herb patch](https://runescape.wiki/w/Farming/Patch_locations#Herb-only_patches) while the Voice of Seren is active there"
+        },
+        {
+          "name": "​",
+          "value": "**Herblore**\n• Cleaning cheap herbs such as [Tarromin](https://runescape.wiki/w/Grimy_tarromin)\n\n**Magic**\n• Killing [Troll shamans](https://runescape.wiki/w/Troll_shaman) in the [Abandoned Burthorpe mine](https://runescape.wiki/w/Abandoned_Burthorpe_mine)\n\n**Melee**\n• Killing [Troll brutes](https://runescape.wiki/w/Troll_Brute) in the Abandoned Burthorpe mine\n• Killing [Cows](https://runescape.wiki/w/Cow)\n\n**Mining**\n• Mining [Seren Stones](https://runescape.wiki/w/Seren_stone) while the Voice of Seren is active in the Trahaearn district\n• Mining any ore\n\n**Prayer**\n• Using the [Bonecrusher](https://runescape.wiki/w/Bonecrusher) whilst killing Trolls in the Abandoned Burthorpe mine\n• Burying [bones](https://runescape.wiki/w/Bones_(disambiguation%29) or scattering [demonic ashes](https://runescape.wiki/w/Demonic_ashes)"
+        }
+      ]
+    }
 	},
 	"who will be her lover? pt2": {
 		"cmds": ["trim"],
 		"embed": {
-			"fields": [{
-					"name": "​",
-					"value": "**Herblore**\n• Cleaning [Tarromin](https://runescape.wiki/w/Grimy_tarromin) in any district where the Voice of Seren is active\n\n**Mining**\n• [Seren Stones](https://runescape.wiki/w/Seren_stone)\n• [Pure Essence](https://runescape.wiki/w/Pure_essence)\n• [Red Sandstone](https://runescape.wiki/w/Red_sandstone) or [Crystal-flecked sandstone](https://runescape.wiki/w/Crystal-flecked_sandstone) Daily\n\n**Smithing**\n• [Corrupted Ore](https://runescape.wiki/w/Corrupted_ore)\n• [Gold Bars](https://runescape.wiki/w/Gold_bar) at a [Portable forge](https://runescape.wiki/w/Portable_forge)\n\n**Woodcutting**\n• [Crystallise](https://runescape.wiki/w/Crystallise) [Acadia](https://runescape.wiki/w/Acadia_tree) in [Menaphos](https://runescape.wiki/w/Menaphos)\n• [Ivy](https://runescape.wiki/w/Ivy)"
-				},
-				{
-					"name": "​",
-					"value": "**Thieving**\n• [Elven clan workers](https://runescape.wiki/w/Elven_clan_worker)\n• [Dwarf Traders](https://runescape.wiki/w/Trader)"
-				}
-			],
+			"fields": [
+        {
+          "name": "​",
+          "value": "**Ranged**\n• Killing [Troll chuckers](https://runescape.wiki/w/Troll_chucker) in the Abandoned Burthorpe mine\n\n**Slayer**\n• Killing [Cadarn magus](https://runescape.wiki/w/Cadarn_magus) and [Cadarn rangers](https://runescape.wiki/w/Cadarn_ranger) while the Voice of Seren is active in the Cadarn district\n• Killing [Shadow creatures](https://runescape.wiki/w/Truthful_shadow) in the Amlodd district while the Voice of Seren is active there\n• Killing monsters on a [slayer task](https://runescape.wiki/w/Slayer_task) from your highest available [Slayer Master](https://runescape.wiki/w/Slayer_Master)\n\n**Smithing**\n• [Corrupted Ore](https://runescape.wiki/w/Corrupted_ore) in the Trahaearn district furnace while the Voice of Seren is active there\n• Smelting cheap ores such as [Gold ore](https://runescape.wiki/w/Gold_ore)"
+        },
+        {
+          "name": "​",
+          "value": "**Summoning**\n• Creating [Spirit terrorbird pouches](https://rs.wiki/w/Spirit_terrorbird_pouch) in the [Amlodd](https://rs.wiki/w/Amlodd_Clan) district while the Voice of Seren is active there\n• Creating any [summoning pouch](https://runescape.wiki/w/Summoning_pouches)\n\n**Woodcutting**\n• Cutting [Ivy](https://runescape.wiki/w/Ivy) in the Crwys district while the Voice of Seren is active there\n• Cutting any [trees](https://runescape.wiki/w/Woodcutting#Types_of_trees)"
+        },
+        {
+          "name": "Requirements:",
+          "value": "• Plague's End Quest completion | [Runescape Wiki](https://runescape.wiki/w/Plague%27s_End)"
+        },
+        {
+          "name": "Guide:",
+          "value": "• [Golden Rock Guide | Runescape Wiki](https://runescape.wiki/w/Golden_rock)"
+        }
+      ],
 			"footer": {
 				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
 				"text": "RuneScore awarded: 75"
@@ -10029,30 +10032,30 @@ exports.data = {
 	"yaktwee's a charm": {
 		"cmds": ["comp"],
 		"embed": {
-			"title": "Yaktwee's a Charm",
-			"author": {
-				"name": "Cape Info",
-				"icon_url": "https://i.imgur.com/6c6q2iC.png"
-			},
-			"description": "[Yaktwee's a Charm](https://runescape.wiki/w/Yaktwee%27s_a_Charm) is an achievement that requires the player to catch 1,000 [charm sprites](https://runescape.wiki/w/Charm_sprite) to unlock the [enhanced yaktwee stick](https://runescape.wiki/w/Enhanced_yaktwee_stick).\n\nCharm sprites are fast flying creatures that can be hunted with a [Yaktwee stick](https://runescape.wiki/w/Yaktwee_stick) and [Sprite lure](https://runescape.wiki/w/Sprite_lure), located south-west of the [Tree Gnome Stronghold](https://runescape.wiki/w/Tree_Gnome_Stronghold).\n\nThere are 3 different versions of charm sprites:\n• [Gleaelg](https://runescape.wiki/w/Gleaelg) (130 experience), yellow smoke trail\n• [Tranart](https://runescape.wiki/w/Tranart) (200 experience), orange smoke trail\n• [Slithtils](https://runescape.wiki/w/Slithtils) (400 experience), purple smoke trail\n\nWhen wielded, the enhanced yaktwee stick increases the chance to get the rarer charm sprites by about 5% as well as giving 5% extra experience in any Hunter activity, as long as the activity allows the stick to be wielded.",
-			"thumbnail": {
-				"url": "https://i.imgur.com/Shmagnp.png"
-			},
-			"fields": [{
-					"name": "Requirements:",
-					"value": "• 72 Hunter\n\n• Yaktwee Stick and Sprite lure"
-				},
-				{
-					"name": "Guide:",
-					"value": "• [RS3 Charm Sprite Guide | Teh Proez - YouTube](https://runescape.wiki/w/Doric_and_Boric_tasks)"
-				}
-			],
-			"footer": {
-				"icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
-				"text": "RuneScore awarded: 10"
-			},
-			"timestamp": "2001-01-04T12:00:00Z"
-		}
+    "title": "Yaktwee's a Charm",
+    "author": {
+      "name": "Cape Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[Yaktwee's a Charm](https://rs.wiki/Yaktwee%27s_a_Charm) is an achievement that requires the player to catch 1,000 [Charm sprites](https://rs.wiki/Charm_sprite) to unlock the [Enhanced yaktwee stick](https://rs.wiki/Enhanced_yaktwee_stick).\n\nCharm sprites are fast flying creatures that can be hunted with a [Yaktwee stick](https://rs.wiki/Yaktwee_stick) and [Sprite lure](https://rs.wiki/Sprite_lure), located south-west of the [Tree Gnome Stronghold](https://rs.wiki/Tree_Gnome_Stronghold).\n\nThere are 3 different versions of charm sprites:\n• [Gleaelg](https://rs.wiki/Gleaelg) (130 experience), yellow smoke trail\n• [Tranart](https://rs.wiki/Tranart) (200 experience), orange smoke trail\n• [Slithtils](https://rs.wiki/Slithtils) (400 experience), purple smoke trail\n\nWhen wielded, it increases the chance to get the rarer charm sprites by 20% as well as giving 2% extra experience in any [Hunter](https://rs.wiki/Hunter) activity, as long as the activity allows the stick to be wielded.",
+    "thumbnail": {
+      "url": "https://i.imgur.com/Shmagnp.png"
+    },
+    "fields": [{
+      "name": "Requirements:",
+      "value": "• 72 Hunter"
+    },
+     {
+       "name": "Guide:",
+       "value": "• [RS3 Charm Sprite Guide | Teh Proez - YouTube](https://www.youtube.com/watch?v=V68SOv8xSYA)"
+     }
+    ],
+    "footer": {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+      "text": "RuneScore awarded: 10"
+    },
+    "timestamp": "2001-01-04T12:00:00Z"
+  }
 	},
 	"you're not my real mah": {
 		"cmds": ["mqc", "trim"],

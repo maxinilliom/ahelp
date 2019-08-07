@@ -204,11 +204,11 @@ exports.data = {
       "fields":[  
          {  
             "name":"Methods to obtain",
-            "value":"• Cremating Vyre Corpses (50% more experience with Morytania Legs 4)\n• Cremating Vyres with the Sunspear (50% more experience with Morytania Legs 4)\n• Ectofunctus with bones\n• Ectofunctus with ashes\n• Burying Bones\n• Scattering Ashes\n• Bonecrusher during combat\n• Attuned Ectoplasmator during combat\n• Cleansing Crystals\n• Skeletal Horror\n• Blessing Spirit Shields\n• Nemi Forrest\n• Shifting Tombs with the Scabaras brazier lit"
+            "value":"• Cremating Vyre Corpses (50% more experience with Morytania Legs 4)\n• Cremating Vyres with the Sunspear (50% more experience with Morytania Legs 4)\n• Ectofunctus with bones\n• Ectofunctus with ashes\n• Burying Bones\n• Scattering Ashes\n• Bonecrusher during combat\n• Attuned Ectoplasmator during combat\n• Cleansing Crystals\n• Skeletal Horror\n• Blessing Spirit Shields\n• Nemi Forrest\n• Shifting Tombs with the Scabaras brazier lit\n• Running laps around the Hefin Agility Course while the Voice of Seren is active in the Hefin Clan district."
          },
          {  
             "name":"Best method",
-            "value":"• Searing Ashes or Frost Dragon Bones on a Gilded Alter with two lit burners (Fastest)\n• Dragon Bones on a Gilded Alter with two lit burners (Most Reasonably Cheap)\n\nNote: While not the best method in terms of time, killing Vyres is a method which can be utilized for a chance at the Prayer, Firemaking, Farming, Summoning, Constitution, Magic, Range, Strength, Attack, and Defence pet at the same time."
+            "value":"• Searing Ashes or Frost Dragon Bones on a Gilded Altar with two lit burners (Fastest)\n• Dragon Bones on a Gilded Altar with two lit burners (Most Reasonably Cheap)\n\nNote: While not the best method in terms of time, killing Vyres is a method which can be utilized for a chance at the Prayer, Firemaking, Farming, Summoning, Constitution, Magic, Range, Strength, Attack, and Defence pet at the same time."
          },
          {  
             "name":"Methods which do not work",

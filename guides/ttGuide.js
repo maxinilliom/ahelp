@@ -164,7 +164,7 @@ exports.data = {
       "name": "True Trimmed Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Fish Flingers Rewards](https://runescape.wiki/w/Fish_Flingers#Rewards) are rewards that can be unlocked by playing the [Fish Flingers](https://runescape.wiki/w/Fish_Flingers) [Distraction and Diversion](https://runescape.wiki/w/Distraction_and_Diversion). The only permanent reward from Fish Flingers is the [fishing outfit](https://runescape.wiki/w/Fishing_outfit).\n\nFish Flingers takes place on [Isla Anglerine](https://runescape.wiki/w/Isla_Anglerine), which can be gotten to by talking to a [Fisherman](https://runescape.wiki/w/Fisherman_(Fish_Flingers). You can enter a competition by talking to a Fisherman every 20 minutes, the fisherman will offer to teleport you to the Isla Anglerine from 5 minutes before the start of a competition. Games will last 10 minutes, with a time of 10 minutes between each game. They can be found all over Gielinor next to the [yellow quest icon](https://vignette.wikia.nocookie.net/runescape2/images/0/07/D%26D_map_icon.png/revision/latest?cb=20160223204246) next to fishing spots.\n\n Players should utilize **FishFlingers** friend's chat to complete this requirement. Players will want to be in there during reset if they can, otherwise it’s a rather inactive minigame.\n\nYou can stock up to 15 [tickets](https://runescape.wiki/w/Fish_Flingers#Entry_tickets) total by talking to the fish master at any fishing location. You can get more tickets from fishing, but it’s slow and isn’t worth doing unless it’s your last requirement.\n\nThe fishing outfit can be bought for a total of 560 [Fish Flinger tokens](https://runescape.wiki/w/Fish_Flingers#Tokens), or 140 tokens per piece. Once bought more of the same pieces can be obtained for free.",
+    "description": "[Fish Flingers Rewards](https://runescape.wiki/w/Fish_Flingers#Rewards) are rewards that can be unlocked by playing the [Fish Flingers](https://runescape.wiki/w/Fish_Flingers) [Distraction and Diversion](https://runescape.wiki/w/Distraction_and_Diversion). The only permanent reward from Fish Flingers is the [Fishing outfit](https://runescape.wiki/w/Fishing_outfit).\n\nFish Flingers takes place on [Isla Anglerine](https://runescape.wiki/w/Isla_Anglerine), which can be gotten to by talking to a [Fisherman](https://runescape.wiki/w/Fisherman_(Fish_Flingers). You can enter a competition by talking to a Fisherman every 20 minutes, the fisherman will offer to teleport you to the Isla Anglerine from 5 minutes before the start of a competition. Games will last 10 minutes, with a time of 10 minutes between each game. They can be found all over Gielinor at the Distractions & Diversions icon <:DnD_icon:598584831911264292> next to fishing spots.\n\n Players should utilize **FishFlingers** friend's chat to complete this requirement. Players will want to be in there during reset if they can, otherwise it’s a rather inactive minigame.\n\nYou can stock up to 15 [tickets](https://runescape.wiki/w/Fish_Flingers#Entry_tickets) total by talking to the fish master at any fishing location.  There is a hard cap of 10 tickets per day but an additional 5 tickets can be recieved from Fish Flingers, Fishing, or using a [D&D token (daily)](https://runescape.wiki/w/D%26D_token_(daily%29).\n\nThe fishing outfit can be bought for a total of 560 [Fish Flinger tokens](https://runescape.wiki/w/Fish_Flingers#Tokens), or 140 tokens per piece. Once bought more of the same pieces can be obtained for free.",
     "color": 10257648,
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/9/93/Fishing_jacket_detail.png/revision/latest?cb=20170121050609&format=original"
@@ -179,7 +179,7 @@ exports.data = {
       },
       {
         "name": "Guide:",
-        "value": "• [Fish Flingers solo method | Lildogdog RS - Youtube](https://www.youtube.com/watch?v=kst1261t1uo)"
+        "value": "• [Fish Flingers solo method | Lildogdog RS - Youtube](https://www.youtube.com/watch?v=-noPr_B2JoY)"
       }
     ],
     "footer": {
@@ -1756,15 +1756,12 @@ exports.data = {
       "name": "True Trimmed Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-    "description": "[Throne Room excavation](https://runescape.wiki/w/The_Empty_Throne_Room#Helping_the_excavation) requires the player to assist [Celia Diggory](https://runescape.wiki/w/Celia_Diggory) with 3 different activities:\n\n• Mining the [Crystal formations](https://runescape.wiki/w/Crystal_formation)\n• Moving the cart by riding a [Manual Auto-cycles](https://runescape.wiki/w/Manual_Auto-cycle)\n• Transmuting the [Senntisten crystals](https://runescape.wiki/w/Senntisten_crystal) into different colors\n\nEach of the activities will always have one of their nodes empowered. The empowered node will change around every minute, and using an empowered node will grant ten times the experience, except for depositing crystals.\n\nEach task will be completed after the player gained 800,000 base experience from the corresponding activity. Bonus experience will not count towards the 800,000 experience target.",
+    "description": "[Throne Room excavation](https://runescape.wiki/w/The_Empty_Throne_Room#Helping_the_excavation) requires the player to assist [Celia Diggory](https://runescape.wiki/w/Celia_Diggory) with 2 different activities:\n\n• Moving the cart by riding a [Manual Auto-cycles](https://runescape.wiki/w/Manual_Auto-cycle)\n• Transmuting the [Senntisten crystals](https://runescape.wiki/w/Senntisten_crystal) into different colors\n\nEach of the activities will always have one of their nodes empowered. The empowered node will change around every minute, and using an empowered node will grant ten times the experience, except for depositing crystals.\n\nEach task will be completed after the player gained 800,000 base experience from the corresponding activity. Bonus experience will not count towards the 800,000 experience target.",
     "color": 10257648,
     "thumbnail": {
       "url": "https://vignette.wikia.nocookie.net/runescape2/images/5/56/Celia_Diggory.png/revision/latest?cb=20180209180050&format=original"
     },
-    "fields": [{
-        "name": "Mining:",
-        "value": "There are four crystal formations at the bottom level of the throne room which can be mined. Mining one produces [Impure Senntisten crystals](https://runescape.wiki/w/Impure_Senntisten_crystal). Once the player's inventory is full, they should deposit them into the [Refinatrix](https://runescape.wiki/w/Refinatrix) for others to process. Both the act of mining individual crystals and depositing them into the Refinatrix gives the player mining experience - 4.6 for mining it (46.8 when empowered), and 20 for depositing it. As well as this, one of the crystals is always empowered, to give ten times experience. Training at the throne room gives around 54,000 Mining experience an hour at level 65-75 Mining. [Mining urns](https://runescape.wiki/w/Mining_urn) work here and give about a 14% boost to experience gained."
-      },
+    "fields": [
       {
         "name": "Agility:",
         "value": "Agility is trained at one of the six Manual Auto-cycles in the center of the throne room. Cycling on an Auto-cycle will give Agility experience drops every 1.8 seconds (3.8 experience at a time), which are ten times higher (38.2 experience) if using an empowered Auto-cycle. Two of the Auto-cycles are operated by workers, but these can be ridden as well."
@@ -1775,11 +1772,7 @@ exports.data = {
       },
       {
         "name": "Requirements:",
-        "value": "• 65 Mining\n• 65 Agility\n• 65 Divination\n\n• The Dig Site Quest completion | [Runescape Wiki](https://runescape.wiki/w/The_Dig_Site)"
-      },
-      {
-        "name": "Guide:",
-        "value": "• [Empty Throne Room Guide Easy XP | FatNooblet - Youtube](https://www.youtube.com/watch?v=dhn7TRbw2zI)"
+        "value": "• 65 Agility\n• 65 Divination\n\n• The Dig Site Quest completion | [Runescape Wiki](https://runescape.wiki/w/The_Dig_Site)"
       }
     ],
     "footer": {
