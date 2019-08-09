@@ -155,7 +155,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 	}
 
 	if (message.guild.id == "382696689812766720" && args[0].toLowerCase() == "clear" && level >= 2) {
-		const cl = gl.get('t');
+		const cl = gl.get('tt');
 		if (!cl[nick]) return message.channel.send(`No messages are currently stored for **${nick}**.`);
 		let nl = cl[nick];
 		const channel = nl[0];
