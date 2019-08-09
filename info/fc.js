@@ -151,7 +151,7 @@
   },
     "fctext": {
     "title": "Looking For More!",
-    "description":"<:bulletpoint:418304110429732883> Please forward any friend's chat suggestions to us and we'll add them to the following lists.\n<:bulletpoint:418304110429732883> You can join Achievement Help’s Official friend chat **AHelp Chat** in game!",
+    "description":"<:bulletpoint:418304110429732883> Please forward any friend's chat suggestions to us and we'll add them to the following lists.\n<:bulletpoint:418304110429732883> You can join Achievement Help’s Official friend chat **AHelp** in game!",
     "footer": {
       "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Friend Chats"

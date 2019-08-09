@@ -7655,7 +7655,7 @@ exports.data = {
         "url": "https://i.imgur.com/Shmagnp.png"
       },
       "fields": [{
-          "name": "Requirements:",
+          "name": "Getting started:",
           "value": "• The ability to obtain [golden rocks](https://rs.wiki/w/Golden_rock) must be toggled on by talking to [Auron Ithell](https://rs.wiki/w/Auron_Ithell) who is standing by a golden plinth in the [Tower of Voices](https://rs.wiki/w/Tower_of_Voices) in [Prifddinas](https://rs.wiki/w/Prifddinas)."
         },
         {
@@ -7664,15 +7664,15 @@ exports.data = {
         },
         {
           "name": "​",
-          "value": "**Crafting**\n• Creating [Crystal Flasks](https://rs.wiki/w/Crystal_flask) or [Potion Flasks](https://rs.wiki/w/Potion_flask) made from [Crystal Glass](https://rs.wiki/w/Crystal_glass) or [Robust Glass](https://rs.wiki/w/Robust_glass) in the Ithell district while the Voice of Seren is active\n• Playing the [Harps](https://rs.wiki/w/Harp) in Prifddinas while the Voice of Seren is active in the Ithell district while the Voice of Seren is active there\n• Crafting [Empty light orbs](https://rs.wiki/w/Empty_light_orb) from [Molten Glass](https://rs.wiki/w/Molten_glass)\n\n**Divination**\n• Siphoning [Incandescent Memories](https://rs.wiki/w/Incandescent_memory) into [Incandescent energy](https://rs.wiki/w/Incandescent_energy), experience, or [Divine charges](https://rs.wiki/w/Divine_charge)"
+          "value": "**Crafting**\n• Creating [Crystal Flasks](https://rs.wiki/w/Crystal_flask) or [Potion Flasks](https://rs.wiki/w/Potion_flask) made from [Crystal Glass](https://rs.wiki/w/Crystal_glass) or [Robust Glass](https://rs.wiki/w/Robust_glass) in the Ithell district while the Voice of Seren is active\n• Playing the [Harps](https://rs.wiki/w/Harp) in Prifddinas while the Voice of Seren is active in the Ithell district while the Voice of Seren is active there\n• Crafting [Empty light orbs](https://rs.wiki/w/Empty_light_orb) from [Molten Glass](https://rs.wiki/w/Molten_glass)\n\n**Divination**\n• Siphoning [Incandescent Memories](https://rs.wiki/w/Incandescent_memory) into [Incandescent energy](https://rs.wiki/w/Incandescent_energy), experience, or [Divine charges](https://rs.wiki/w/Divine_charge)\n• Siphoning [Ancestral energy](https://rs.wiki/w/Ancestral_energy) on Uncharted isles\n• Depositing [Shadow cores](https://rs.wiki/w/Shadow_core) into the rift in the Amlodd district while the Voice of Seren is active there"
         },
         {
           "name": "​",
-          "value": "\n**Dungeoneering**\n• Completing [small](https://rs.wiki/w/Dungeoneering#Dungeon_size) [complexity 4](https://rs.wiki/w/Dungeoneering#Complexity) Dungeoneering [floors](https://rs.wiki/w/Dungeoneering#Floors)\n• Participating in an [Elite Dungeon](https://rs.wiki/w/Elite_dungeons)\n• Completing [Sinkholes](https://runescape.wiki/w/Sinkholes)\n\n**Farming**\n• Foraging [Rumberry Bushes](https://rs.wiki/w/Rumberry_bush) on [Tuai Leit](https://rs.wiki/w/Tuai_Leit)\n• Completing [Grapevine](https://www.youtube.com/watch?v=EKBj8-gF28M) [herb runs](https://www.youtube.com/watch?v=TzNhjl2RZ1c)\n• Turning the [Manure mound](https://rs.wiki/w/Manure_mound) at the [Manor Farm](https://runescape.wiki/w/Manor_Farm)\n• Harvesting from the Meilyr district [Fruit tree patch](https://runescape.wiki/w/Farming/Patch_locations#Fruit_tree_patches) or the Cryws district [Herb patch](https://runescape.wiki/w/Farming/Patch_locations#Herb-only_patches) while the Voice of Seren is active there"
+          "value": "\n**Dungeoneering**\n• Completing [small](https://rs.wiki/w/Dungeoneering#Dungeon_size) [complexity 4](https://rs.wiki/w/Dungeoneering#Complexity) Dungeoneering [floors](https://rs.wiki/w/Dungeoneering#Floors)\n• Participating in an [Elite Dungeon](https://rs.wiki/w/Elite_dungeons)\n• Completing [Sinkholes](https://rs.wiki/w/Sinkholes)\n\n**Farming**\n• Foraging [Rumberry Bushes](https://rs.wiki/w/Rumberry_bush) on [Tuai Leit](https://rs.wiki/w/Tuai_Leit)\n• Completing [Grapevine](https://www.youtube.com/watch?v=EKBj8-gF28M) [herb runs](https://www.youtube.com/watch?v=TzNhjl2RZ1c)\n• Turning the [Manure mound](https://rs.wiki/w/Manure_mound) at the [Manor Farm](https://rs.wiki/w/Manor_Farm)\n• Harvesting from the Meilyr district [Fruit tree patch](https://rs.wiki/w/Farming/Patch_locations#Fruit_tree_patches) or the Cryws district [Herb patch](https://rs.wiki/w/Farming/Patch_locations#Herb-only_patches) while the Voice of Seren is active there"
         },
         {
           "name": "​",
-          "value": "**Herblore**\n• Cleaning cheap herbs such as [Tarromin](https://runescape.wiki/w/Grimy_tarromin)\n\n**Magic**\n• Killing [Troll shamans](https://runescape.wiki/w/Troll_shaman) in the [Abandoned Burthorpe mine](https://runescape.wiki/w/Abandoned_Burthorpe_mine)\n\n**Melee**\n• Killing [Troll brutes](https://runescape.wiki/w/Troll_Brute) in the Abandoned Burthorpe mine\n• Killing [Cows](https://runescape.wiki/w/Cow)\n\n**Mining**\n• Mining [Seren Stones](https://runescape.wiki/w/Seren_stone) while the Voice of Seren is active in the Trahaearn district\n• Mining any ore\n\n**Prayer**\n• Using the [Bonecrusher](https://runescape.wiki/w/Bonecrusher) whilst killing Trolls in the Abandoned Burthorpe mine\n• Burying [bones](https://runescape.wiki/w/Bones_(disambiguation%29) or scattering [demonic ashes](https://runescape.wiki/w/Demonic_ashes)"
+          "value": "**Herblore**\n• Cleaning cheap herbs such as [Tarromin](https://rs.wiki/w/Grimy_tarromin)\n\n**Magic**\n• Killing [Troll shamans](https://rs.wiki/w/Troll_shaman) in the [Abandoned Burthorpe mine](https://rs.wiki/w/Abandoned_Burthorpe_mine)\n\n**Melee**\n• Killing [Troll brutes](https://rs.wiki/w/Troll_Brute) in the Abandoned Burthorpe mine\n• Killing [Cows](https://rs.wiki/w/Cow)\n• Killing [Dagannoths](https://rs.wiki/w/Dagannoth_(Waterbirth_Island%29) in the [Waterbirth island dungeon](https://rs.wiki/w/Waterbirth_Island_Dungeon)\n\n**Mining**\n• Mining [Seren Stones](https://rs.wiki/w/Seren_stone) while the Voice of Seren is active in the Trahaearn district\n• Mining any ore\n\n**Prayer**\n• Using the [Bonecrusher](https://rs.wiki/w/Bonecrusher) whilst killing Trolls in the Abandoned Burthorpe mine\n• Burying [bones](https://rs.wiki/w/Bones_(disambiguation%29) or scattering [demonic ashes](https://rs.wiki/w/Demonic_ashes)"
         }
       ]
     }
@@ -7683,19 +7683,19 @@ exports.data = {
       "fields": [
         {
           "name": "​",
-          "value": "**Ranged**\n• Killing [Troll chuckers](https://runescape.wiki/w/Troll_chucker) in the Abandoned Burthorpe mine\n\n**Slayer**\n• Killing [Cadarn magus](https://runescape.wiki/w/Cadarn_magus) and [Cadarn rangers](https://runescape.wiki/w/Cadarn_ranger) while the Voice of Seren is active in the Cadarn district\n• Killing [Shadow creatures](https://runescape.wiki/w/Truthful_shadow) in the Amlodd district while the Voice of Seren is active there\n• Killing monsters on a [slayer task](https://runescape.wiki/w/Slayer_task) from your highest available [Slayer Master](https://runescape.wiki/w/Slayer_Master)\n\n**Smithing**\n• [Corrupted Ore](https://runescape.wiki/w/Corrupted_ore) in the Trahaearn district furnace while the Voice of Seren is active there\n• Smelting cheap ores such as [Gold ore](https://runescape.wiki/w/Gold_ore)"
+          "value": "**Ranged**\n• Killing [Troll chuckers](https://rs.wiki/w/Troll_chucker) in the Abandoned Burthorpe mine\n• Killing Dagannoths in the Waterbirth island dungeon\n\n**Slayer**\n• Killing [Cadarn magus](https://rs.wiki/w/Cadarn_magus) and [Cadarn rangers](https://rs.wiki/w/Cadarn_ranger) while the Voice of Seren is active in the Cadarn district\n• Killing [Shadow creatures](https://rs.wiki/w/Truthful_shadow) in the Amlodd district while the Voice of Seren is active there\n• Killing monsters on a [slayer task](https://rs.wiki/w/Slayer_task) from your highest available [Slayer Master](https://rs.wiki/w/Slayer_Master)\n Killing [Crawling hands](https://rs.wiki/w/Crawling_hand) in the [Slayer tower](https://rs.wiki/w/Slayer_Tower) with a [Slayer contract](https://rs.wiki/w/Slayer_contract) from Markus\n\n**Smithing**\n• [Corrupted Ore](https://rs.wiki/w/Corrupted_ore) in the Trahaearn district furnace while the Voice of Seren is active there\n• Smelting cheap ores such as [Gold ore](https://rs.wiki/w/Gold_ore)"
         },
         {
           "name": "​",
-          "value": "**Summoning**\n• Creating [Spirit terrorbird pouches](https://rs.wiki/w/Spirit_terrorbird_pouch) in the [Amlodd](https://rs.wiki/w/Amlodd_Clan) district while the Voice of Seren is active there\n• Creating any [summoning pouch](https://runescape.wiki/w/Summoning_pouches)\n\n**Woodcutting**\n• Cutting [Ivy](https://runescape.wiki/w/Ivy) in the Crwys district while the Voice of Seren is active there\n• Cutting any [trees](https://runescape.wiki/w/Woodcutting#Types_of_trees)"
+          "value": "**Summoning**\n• Creating [Spirit terrorbird pouches](https://rs.wiki/w/Spirit_terrorbird_pouch) in the [Amlodd](https://rs.wiki/w/Amlodd_Clan) district while the Voice of Seren is active there\n• Creating any [summoning pouch](https://rs.wiki/w/Summoning_pouches)\n\n**Woodcutting**\n• Cutting [Ivy](https://rs.wiki/w/Ivy) in the Crwys district while the Voice of Seren is active there\n• Cutting any [trees](https://rs.wiki/w/Woodcutting#Types_of_trees)"
         },
         {
           "name": "Requirements:",
-          "value": "• Plague's End Quest completion | [Runescape Wiki](https://runescape.wiki/w/Plague%27s_End)"
+          "value": "• Plague's End Quest completion | [Runescape Wiki](https://rs.wiki/w/Plague%27s_End)"
         },
         {
           "name": "Guide:",
-          "value": "• [Golden Rock Guide | Runescape Wiki](https://runescape.wiki/w/Golden_rock)"
+          "value": "• [Golden Rock Guide | Runescape Wiki](https://rs.wiki/w/Golden_rock)"
         }
       ],
       "footer": {
@@ -9821,8 +9821,7 @@ exports.data = {
       "thumbnail": {
         "url": "https://i.imgur.com/Shmagnp.png"
       },
-      "fields": [
-        {
+      "fields": [{
           "name": "Getting started:",
           "value": "• The ability to obtain [golden rocks](https://rs.wiki/w/Golden_rock) must be toggled on by talking to [Auron Ithell](https://rs.wiki/w/Auron_Ithell) who is standing by a golden plinth in the [Tower of Voices](https://rs.wiki/w/Tower_of_Voices) in [Prifddinas](https://rs.wiki/w/Prifddinas)."
         },
@@ -9832,15 +9831,15 @@ exports.data = {
         },
         {
           "name": "​",
-          "value": "**Crafting**\n• Creating [Crystal Flasks](https://rs.wiki/w/Crystal_flask) or [Potion Flasks](https://rs.wiki/w/Potion_flask) made from [Crystal Glass](https://rs.wiki/w/Crystal_glass) or [Robust Glass](https://rs.wiki/w/Robust_glass) in the Ithell district while the Voice of Seren is active\n• Playing the [Harps](https://rs.wiki/w/Harp) in Prifddinas while the Voice of Seren is active in the Ithell district while the Voice of Seren is active there\n• Crafting [Empty light orbs](https://rs.wiki/w/Empty_light_orb) from [Molten Glass](https://rs.wiki/w/Molten_glass)\n\n**Divination**\n• Siphoning [Incandescent Memories](https://rs.wiki/w/Incandescent_memory) into [Incandescent energy](https://rs.wiki/w/Incandescent_energy), experience, or [Divine charges](https://rs.wiki/w/Divine_charge)"
+          "value": "**Crafting**\n• Creating [Crystal Flasks](https://rs.wiki/w/Crystal_flask) or [Potion Flasks](https://rs.wiki/w/Potion_flask) made from [Crystal Glass](https://rs.wiki/w/Crystal_glass) or [Robust Glass](https://rs.wiki/w/Robust_glass) in the Ithell district while the Voice of Seren is active\n• Playing the [Harps](https://rs.wiki/w/Harp) in Prifddinas while the Voice of Seren is active in the Ithell district while the Voice of Seren is active there\n• Crafting [Empty light orbs](https://rs.wiki/w/Empty_light_orb) from [Molten Glass](https://rs.wiki/w/Molten_glass)\n\n**Divination**\n• Siphoning [Incandescent Memories](https://rs.wiki/w/Incandescent_memory) into [Incandescent energy](https://rs.wiki/w/Incandescent_energy), experience, or [Divine charges](https://rs.wiki/w/Divine_charge)\n• Siphoning [Ancestral energy](https://rs.wiki/w/Ancestral_energy) on Uncharted isles\n• Depositing [Shadow cores](https://rs.wiki/w/Shadow_core) into the rift in the Amlodd district while the Voice of Seren is active there"
         },
         {
           "name": "​",
-          "value": "\n**Dungeoneering**\n• Completing [small](https://rs.wiki/w/Dungeoneering#Dungeon_size) [complexity 4](https://rs.wiki/w/Dungeoneering#Complexity) Dungeoneering [floors](https://rs.wiki/w/Dungeoneering#Floors)\n• Participating in an [Elite Dungeon](https://rs.wiki/w/Elite_dungeons)\n• Completing [Sinkholes](https://runescape.wiki/w/Sinkholes)\n\n**Farming**\n• Foraging [Rumberry Bushes](https://rs.wiki/w/Rumberry_bush) on [Tuai Leit](https://rs.wiki/w/Tuai_Leit)\n• Completing [Grapevine](https://www.youtube.com/watch?v=EKBj8-gF28M) [herb runs](https://www.youtube.com/watch?v=TzNhjl2RZ1c)\n• Turning the [Manure mound](https://rs.wiki/w/Manure_mound) at the [Manor Farm](https://runescape.wiki/w/Manor_Farm)\n• Harvesting from the Meilyr district [Fruit tree patch](https://runescape.wiki/w/Farming/Patch_locations#Fruit_tree_patches) or the Cryws district [Herb patch](https://runescape.wiki/w/Farming/Patch_locations#Herb-only_patches) while the Voice of Seren is active there"
+          "value": "\n**Dungeoneering**\n• Completing [small](https://rs.wiki/w/Dungeoneering#Dungeon_size) [complexity 4](https://rs.wiki/w/Dungeoneering#Complexity) Dungeoneering [floors](https://rs.wiki/w/Dungeoneering#Floors)\n• Participating in an [Elite Dungeon](https://rs.wiki/w/Elite_dungeons)\n• Completing [Sinkholes](https://rs.wiki/w/Sinkholes)\n\n**Farming**\n• Foraging [Rumberry Bushes](https://rs.wiki/w/Rumberry_bush) on [Tuai Leit](https://rs.wiki/w/Tuai_Leit)\n• Completing [Grapevine](https://www.youtube.com/watch?v=EKBj8-gF28M) [herb runs](https://www.youtube.com/watch?v=TzNhjl2RZ1c)\n• Turning the [Manure mound](https://rs.wiki/w/Manure_mound) at the [Manor Farm](https://rs.wiki/w/Manor_Farm)\n• Harvesting from the Meilyr district [Fruit tree patch](https://rs.wiki/w/Farming/Patch_locations#Fruit_tree_patches) or the Cryws district [Herb patch](https://rs.wiki/w/Farming/Patch_locations#Herb-only_patches) while the Voice of Seren is active there"
         },
         {
           "name": "​",
-          "value": "**Herblore**\n• Cleaning cheap herbs such as [Tarromin](https://runescape.wiki/w/Grimy_tarromin)\n\n**Magic**\n• Killing [Troll shamans](https://runescape.wiki/w/Troll_shaman) in the [Abandoned Burthorpe mine](https://runescape.wiki/w/Abandoned_Burthorpe_mine)\n\n**Melee**\n• Killing [Troll brutes](https://runescape.wiki/w/Troll_Brute) in the Abandoned Burthorpe mine\n• Killing [Cows](https://runescape.wiki/w/Cow)\n\n**Mining**\n• Mining [Seren Stones](https://runescape.wiki/w/Seren_stone) while the Voice of Seren is active in the Trahaearn district\n• Mining any ore\n\n**Prayer**\n• Using the [Bonecrusher](https://runescape.wiki/w/Bonecrusher) whilst killing Trolls in the Abandoned Burthorpe mine\n• Burying [bones](https://runescape.wiki/w/Bones_(disambiguation%29) or scattering [demonic ashes](https://runescape.wiki/w/Demonic_ashes)"
+          "value": "**Herblore**\n• Cleaning cheap herbs such as [Tarromin](https://rs.wiki/w/Grimy_tarromin)\n\n**Magic**\n• Killing [Troll shamans](https://rs.wiki/w/Troll_shaman) in the [Abandoned Burthorpe mine](https://rs.wiki/w/Abandoned_Burthorpe_mine)\n\n**Melee**\n• Killing [Troll brutes](https://rs.wiki/w/Troll_Brute) in the Abandoned Burthorpe mine\n• Killing [Cows](https://rs.wiki/w/Cow)\n• Killing [Dagannoths](https://rs.wiki/w/Dagannoth_(Waterbirth_Island%29) in the [Waterbirth island dungeon](https://rs.wiki/w/Waterbirth_Island_Dungeon)\n\n**Mining**\n• Mining [Seren Stones](https://rs.wiki/w/Seren_stone) while the Voice of Seren is active in the Trahaearn district\n• Mining any ore\n\n**Prayer**\n• Using the [Bonecrusher](https://rs.wiki/w/Bonecrusher) whilst killing Trolls in the Abandoned Burthorpe mine\n• Burying [bones](https://rs.wiki/w/Bones_(disambiguation%29) or scattering [demonic ashes](https://rs.wiki/w/Demonic_ashes)"
         }
       ]
     }
@@ -9848,22 +9847,22 @@ exports.data = {
 	"who will be her lover? pt2": {
 		"cmds": ["trim"],
 		"embed": {
-			"fields": [
+      "fields": [
         {
           "name": "​",
-          "value": "**Ranged**\n• Killing [Troll chuckers](https://runescape.wiki/w/Troll_chucker) in the Abandoned Burthorpe mine\n\n**Slayer**\n• Killing [Cadarn magus](https://runescape.wiki/w/Cadarn_magus) and [Cadarn rangers](https://runescape.wiki/w/Cadarn_ranger) while the Voice of Seren is active in the Cadarn district\n• Killing [Shadow creatures](https://runescape.wiki/w/Truthful_shadow) in the Amlodd district while the Voice of Seren is active there\n• Killing monsters on a [slayer task](https://runescape.wiki/w/Slayer_task) from your highest available [Slayer Master](https://runescape.wiki/w/Slayer_Master)\n\n**Smithing**\n• [Corrupted Ore](https://runescape.wiki/w/Corrupted_ore) in the Trahaearn district furnace while the Voice of Seren is active there\n• Smelting cheap ores such as [Gold ore](https://runescape.wiki/w/Gold_ore)"
+          "value": "**Ranged**\n• Killing [Troll chuckers](https://rs.wiki/w/Troll_chucker) in the Abandoned Burthorpe mine\n• Killing Dagannoths in the Waterbirth island dungeon\n\n**Slayer**\n• Killing [Cadarn magus](https://rs.wiki/w/Cadarn_magus) and [Cadarn rangers](https://rs.wiki/w/Cadarn_ranger) while the Voice of Seren is active in the Cadarn district\n• Killing [Shadow creatures](https://rs.wiki/w/Truthful_shadow) in the Amlodd district while the Voice of Seren is active there\n• Killing monsters on a [slayer task](https://rs.wiki/w/Slayer_task) from your highest available [Slayer Master](https://rs.wiki/w/Slayer_Master)\n Killing [Crawling hands](https://rs.wiki/w/Crawling_hand) in the [Slayer tower](https://rs.wiki/w/Slayer_Tower) with a [Slayer contract](https://rs.wiki/w/Slayer_contract) from Markus\n\n**Smithing**\n• [Corrupted Ore](https://rs.wiki/w/Corrupted_ore) in the Trahaearn district furnace while the Voice of Seren is active there\n• Smelting cheap ores such as [Gold ore](https://rs.wiki/w/Gold_ore)"
         },
         {
           "name": "​",
-          "value": "**Summoning**\n• Creating [Spirit terrorbird pouches](https://rs.wiki/w/Spirit_terrorbird_pouch) in the [Amlodd](https://rs.wiki/w/Amlodd_Clan) district while the Voice of Seren is active there\n• Creating any [summoning pouch](https://runescape.wiki/w/Summoning_pouches)\n\n**Woodcutting**\n• Cutting [Ivy](https://runescape.wiki/w/Ivy) in the Crwys district while the Voice of Seren is active there\n• Cutting any [trees](https://runescape.wiki/w/Woodcutting#Types_of_trees)"
+          "value": "**Summoning**\n• Creating [Spirit terrorbird pouches](https://rs.wiki/w/Spirit_terrorbird_pouch) in the [Amlodd](https://rs.wiki/w/Amlodd_Clan) district while the Voice of Seren is active there\n• Creating any [summoning pouch](https://rs.wiki/w/Summoning_pouches)\n\n**Woodcutting**\n• Cutting [Ivy](https://rs.wiki/w/Ivy) in the Crwys district while the Voice of Seren is active there\n• Cutting any [trees](https://rs.wiki/w/Woodcutting#Types_of_trees)"
         },
         {
           "name": "Requirements:",
-          "value": "• Plague's End Quest completion | [Runescape Wiki](https://runescape.wiki/w/Plague%27s_End)"
+          "value": "• Plague's End Quest completion | [Runescape Wiki](https://rs.wiki/w/Plague%27s_End)"
         },
         {
           "name": "Guide:",
-          "value": "• [Golden Rock Guide | Runescape Wiki](https://runescape.wiki/w/Golden_rock)"
+          "value": "• [Golden Rock Guide | Runescape Wiki](https://rs.wiki/w/Golden_rock)"
         }
       ],
 			"footer": {
