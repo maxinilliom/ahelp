@@ -394,8 +394,8 @@ exports.data = {
         "value": "• Only one part of the suit can be gained per encounter and pieces are gained in the following order: boots, gloves, helmet, trousers, top. It can take around 3-5 hours of mining to find a liquid gold nymph. If all pieces of the set are worn, an additional set bonus effect is given. If a player has Varrock armour as well as all the pieces of the golden mining suit, then players will receive the effects of the Varrock armour while wearing a complete golden mining suit."
       },
       {
-        "name": "Starfury outfit",
-        "value": "• Parts of [starfury outfits](https://runescape.wiki/w/Starfury) could be made by combining starfire outfit pieces with starborn diamonds, available from [Treasure Hunter](https://runescape.wiki/w/Treasure_Hunter) between the 9 September and 14 September 2015. When wearing starfury outfit pieces players deplete Seren stones at a slower rate while mining them and receive the benefits of the corresponding pieces of the golden mining suit, if they are owned."
+        "name": "Invention Perks",
+        "value": "• With level 22 Invention, players can choose to mine using an [augmented pickaxe of earth and song](https://runescape.wiki/w/Augmented_pickaxe_of_earth_and_song) or an [augmented crystal pickaxe](https://runescape.wiki/w/Augmented_crystal_pickaxe). [Tool gizmos](https://runescape.wiki/w/Tool_gizmo) with [perks](https://runescape.wiki/w/Perks) may be added to these items to give benefits to mining. The most useful perks for mining are:\n   • [Honed](https://runescape.wiki/w/Honed) - a 2% chance per rank of mining an additional ore\n   • [Furnace](https://runescape.wiki/w/Furnace_(perk%29) - a 5% chance per rank to generate no progress for an extra 100% XP\n   • [Wise](https://runescape.wiki/w/Wise) - when equipped, +1% per rank additional experience, up to 50,000 XP per day"
       },
       {
         "name": "Golem outfits",

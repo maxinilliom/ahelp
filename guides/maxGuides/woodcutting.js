@@ -385,11 +385,15 @@ exports.data = {
         "value": "• [Seer's Headband 2](https://runescape.wiki/w/Seer%27s_headband_2)\n\t• Get 10 extra experience per log when cutting maple trees."
       },
       {
+        "name": "Invention Perks",
+        "value": "• With level 22 Invention, players can choose to train using an [augmented crystal hatchet](https://runescape.wiki/w/Augmented_crystal_hatchet). [Tool gizmos](https://runescape.wiki/w/Tool_gizmo) with [perks](https://runescape.wiki/w/Perks) may be added to these items to give benefits to woodcutting. The most useful perks for woodcutting are:\n• [Furnace](https://runescape.wiki/w/Furnace_%28perk%29) - a 5% chance per rank of consuming a gathered resource for an extra 100% XP\n• [Honed](https://runescape.wiki/w/Honed) - a 2% per rank higher chance of successfully gathering items\n• [Wise](https://runescape.wiki/w/Wise) - when equipped, +1% per rank additional experience, up to 50,000 XP per day"
+      },
+      {
         "name": "Sentinel Outfits",
         "value": "• [Elite Skilling Outfit](https://runescape.wiki/w/Experience-boosting_set#Elite_skilling_outfits) - [Oaken](https://runescape.wiki/w/Oaken_sentinel_outfit), [Willow](https://runescape.wiki/w/Willow_sentinel_outfit), [Maple](https://runescape.wiki/w/Maple_sentinel_outfit)\n\t • 5 daily teleports to various woodcutting locations\n\t • 5% increase success chance while Woodcutting (stacks with the [Lumberjack auras](https://runescape.wiki/w/Lumberjack_aura))\n\t • 5% increased chance to obtain bird's nests and crystal geodes\n\t • An option to automatically burn logs when cut (25% chance and stacks with the [inferno adze](https://runescape.wiki/w/Inferno_adze) additively)\n\t • Uses Lumberjack clothing's bonus experience if owned, even while the set is in the bank or player-owned house"
       },
       {
-        "name": "Combined Sentinel Outfit",
+        "name": "Nature's Sentinel Outfit",
         "value": "• [Nature's Sentinel Outfit](https://runescape.wiki/w/Nature%27s_sentinel_outfit)\n\t • 20 daily teleports to various woodcutting locations\n\t • 7% increase success chance while Woodcutting (stacks with the [Lumberjack auras](https://runescape.wiki/w/Lumberjack_aura)\n\t • 7% increased chance to obtain bird's nests and crystal geodes\n\t • An option to automatically burn or fletch logs when cut (25% chance and stacks with the [inferno adze](https://runescape.wiki/w/Inferno_adze) additively)\n\t • Uses Lumberjack clothing's bonus experience if owned, even while the set is in the bank or player-owned house\n\t •The ability to contact Evil Trees \n\t • The ability to plant a miniature Evil Tree per day. This scales with your level and works like a divine location, but doesn't count towards your cap. This tree can only be chopped by the player who plants it."
       }
       ]
