@@ -9836,10 +9836,6 @@ exports.data = {
         {
           "name": "​",
           "value": "\n**Dungeoneering**\n• Completing [small](https://rs.wiki/w/Dungeoneering#Dungeon_size) [complexity 4](https://rs.wiki/w/Dungeoneering#Complexity) Dungeoneering [floors](https://rs.wiki/w/Dungeoneering#Floors)\n• Participating in an [Elite Dungeon](https://rs.wiki/w/Elite_dungeons)\n• Completing [Sinkholes](https://rs.wiki/w/Sinkholes)\n\n**Farming**\n• Foraging [Rumberry Bushes](https://rs.wiki/w/Rumberry_bush) on [Tuai Leit](https://rs.wiki/w/Tuai_Leit)\n• Completing [Grapevine](https://www.youtube.com/watch?v=EKBj8-gF28M) [herb runs](https://www.youtube.com/watch?v=TzNhjl2RZ1c)\n• Turning the [Manure mound](https://rs.wiki/w/Manure_mound) at the [Manor Farm](https://rs.wiki/w/Manor_Farm)\n• Harvesting from the Meilyr district [Fruit tree patch](https://rs.wiki/w/Farming/Patch_locations#Fruit_tree_patches) or the Cryws district [Herb patch](https://rs.wiki/w/Farming/Patch_locations#Herb-only_patches) while the Voice of Seren is active there"
-        },
-        {
-          "name": "​",
-          "value": "**Herblore**\n• Cleaning cheap herbs such as [Tarromin](https://rs.wiki/w/Grimy_tarromin)\n\n**Magic**\n• Killing [Troll shamans](https://rs.wiki/w/Troll_shaman) in the [Abandoned Burthorpe mine](https://rs.wiki/w/Abandoned_Burthorpe_mine)\n\n**Melee**\n• Killing [Troll brutes](https://rs.wiki/w/Troll_Brute) in the Abandoned Burthorpe mine\n• Killing [Cows](https://rs.wiki/w/Cow)\n• Killing [Dagannoths](https://rs.wiki/w/Dagannoth_(Waterbirth_Island%29) in the [Waterbirth island dungeon](https://rs.wiki/w/Waterbirth_Island_Dungeon)\n\n**Mining**\n• Mining [Seren Stones](https://rs.wiki/w/Seren_stone) while the Voice of Seren is active in the Trahaearn district\n• Mining any ore\n\n**Prayer**\n• Using the [Bonecrusher](https://rs.wiki/w/Bonecrusher) whilst killing Trolls in the Abandoned Burthorpe mine\n• Burying [bones](https://rs.wiki/w/Bones_(disambiguation%29) or scattering [demonic ashes](https://rs.wiki/w/Demonic_ashes)"
         }
       ]
     }
@@ -9848,6 +9844,10 @@ exports.data = {
 		"cmds": ["trim"],
 		"embed": {
       "fields": [
+        {
+          "name": "​",
+          "value": "**Herblore**\n• Cleaning cheap herbs such as [Tarromin](https://rs.wiki/w/Grimy_tarromin)\n\n**Magic**\n• Killing [Troll shamans](https://rs.wiki/w/Troll_shaman) in the [Abandoned Burthorpe mine](https://rs.wiki/w/Abandoned_Burthorpe_mine)\n\n**Melee**\n• Killing [Troll brutes](https://rs.wiki/w/Troll_Brute) in the Abandoned Burthorpe mine\n• Killing [Cows](https://rs.wiki/w/Cow)\n• Killing [Dagannoths](https://rs.wiki/w/Dagannoth_(Waterbirth_Island%29) in the [Waterbirth island dungeon](https://rs.wiki/w/Waterbirth_Island_Dungeon)\n\n**Mining**\n• Mining [Seren Stones](https://rs.wiki/w/Seren_stone) while the Voice of Seren is active in the Trahaearn district\n• Mining any ore\n\n**Prayer**\n• Using the [Bonecrusher](https://rs.wiki/w/Bonecrusher) whilst killing Trolls in the Abandoned Burthorpe mine\n• Burying [bones](https://rs.wiki/w/Bones_(disambiguation%29) or scattering [demonic ashes](https://rs.wiki/w/Demonic_ashes)"
+        },
         {
           "name": "​",
           "value": "**Ranged**\n• Killing [Troll chuckers](https://rs.wiki/w/Troll_chucker) in the Abandoned Burthorpe mine\n• Killing Dagannoths in the Waterbirth island dungeon\n\n**Slayer**\n• Killing [Cadarn magus](https://rs.wiki/w/Cadarn_magus) and [Cadarn rangers](https://rs.wiki/w/Cadarn_ranger) while the Voice of Seren is active in the Cadarn district\n• Killing [Shadow creatures](https://rs.wiki/w/Truthful_shadow) in the Amlodd district while the Voice of Seren is active there\n• Killing monsters on a [slayer task](https://rs.wiki/w/Slayer_task) from your highest available [Slayer Master](https://rs.wiki/w/Slayer_Master)\n Killing [Crawling hands](https://rs.wiki/w/Crawling_hand) in the [Slayer tower](https://rs.wiki/w/Slayer_Tower) with a [Slayer contract](https://rs.wiki/w/Slayer_contract) from Markus\n\n**Smithing**\n• [Corrupted Ore](https://rs.wiki/w/Corrupted_ore) in the Trahaearn district furnace while the Voice of Seren is active there\n• Smelting cheap ores such as [Gold ore](https://rs.wiki/w/Gold_ore)"
