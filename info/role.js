@@ -146,7 +146,7 @@ exports.data = {
       },
       {
         "name": "​",
-        "value": ":play_pause: **<@&514474325743763463>**\n• **When to join:** If you would like to be notified 30 minutes before the Large Animal Buyer will spawn"
+        "value": ":play_pause: **<@&514474692623466516>**\n• **When to join:** If you would like to be notified 30 minutes before the Large Animal Buyer will spawn"
       }
       ],
       "footer": {

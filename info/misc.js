@@ -42,23 +42,27 @@ exports.data = {
       },
       {
         "name": "​",
-        "value": "[Compiled List of Achievements](http://runescape.wikia.com/wiki/List_of_achievements)\nBy: <@220616902857195521> and the Wikian Team"
+        "value": "[Compiled List of Achievements](https://runescape.wiki/w/List_of_achievements)\nBy: <@220616902857195521> and the Wikian Team"
       },
       {
         "name": "​",
         "value": "[Level 3 to Master Quest Cape & Trimmed Completionist Cape](https://docs.google.com/spreadsheets/d/1uLxm0jvmL1_FJNYUJp6YqIezzqrZdjPf2xQGOWYd6ao/edit?usp=sharing)\nBy: <@111813700352016384>"
-      },
+      },/*
       {
         "name": "​",
         "value": "[Time Locked Cape Requirements](https://www.reddit.com/r/runescape/comments/7mfcr0/psa_you_should_be_doing_these_reqs_if_going_for/)\nBy: <@212672527405678592>"
-      },            
+      },*/
       {
         "name": "​",
-        "value": "[Guide to Everything Ports](http://services.runescape.com/m=forum/forums.ws?75,76,519,65829739)\nBy: Portmaster Kags"
+        "value": "[Guide to Everything Ports](http://services.runescape.com/m=forum/forums.ws?75,76,519,65829739)\nBy: <@471389821659512849>"
       },
       {
         "name": "​",
         "value": "[True Trim Requirement List](http://services.runescape.com/m=forum/forums.ws?48,49,834,65820293,30,339213816#30)\nBy: <@140239473739825153>"
+      },
+      {
+        "name": "​",
+        "value": "[Project Tenacity: Level 3 to All Achievements](https://www.reddit.com/r/runescape/comments/cfn2qa/project_tenacity_comprehensive_account_planning/)\nBy: <@114959199926091781>"
       }
       ]
   },
@@ -105,10 +109,6 @@ exports.data = {
       },
       {
         "name": "​",
-        "value": "[Morvran task sheet for the average adventurer](https://docs.google.com/spreadsheets/d/1SqjgJnZShBTzuodTTcmlaPhdGu9xHkXLHx-JkvskofI/htmlview#)\nBy: Charzila"
-      },
-      {
-        "name": "​",
         "value": "[Slayer Tasks Calculations](https://docs.google.com/spreadsheets/d/1hYNMQ_2QjhebZJsMCXEGDarEekOT1uZiPGx0i26ILps/htmlview#)\nBy: Jona Than"
       },
       {
@@ -122,6 +122,10 @@ exports.data = {
       {
         "name": "​",
         "value": "[Morvran Slayer Assignment Calculator](https://docs.google.com/spreadsheets/d/1TcyyaQnaoBv8OyX6vTqTwgIeM0cJcppVSV00WQkynmo/edit?usp=sharing)\nBy: <@241534285130104833>\n\n*“It's pretty simple to use. Everything is set to default weight values. Make the effective weights 0 if they are blocked, toggled off, or you havent unlocked the assignment. Double the effective weight if you prefered it.”*"
+      },
+      {
+        "name": "​",
+        "value": "[Morvran Task Sheet XP Calculator](https://docs.google.com/spreadsheets/d/1SqjgJnZShBTzuodTTcmlaPhdGu9xHkXLHx-JkvskofI)\nBy: <@272538148263690241>"
       },
       {
         "name": "​",
@@ -176,10 +180,6 @@ exports.data = {
           "fields": [
       {
         "name": "​",
-        "value": "[Shop Runs](https://docs.google.com/spreadsheets/d/17eUeogMBOUyou8SqupSDFbPbrHwh2e1Cvb-pGNekEog/edit?usp=sharing)\nBy: <@97928972305707008>"
-      },
-      {
-        "name": "​",
         "value": "[Runescape Repeatables](https://docs.google.com/document/d/1-Qvra1QeW0u03J1DCaHNgUnvWevomeZRj7XxLLZnRTA/mobilebasic#)\nBy: Forthorn"
       },
       {
@@ -193,7 +193,11 @@ exports.data = {
       {
         "name": "​",
         "value": "[PoF Merchant Tracker](https://calendar.google.com/calendar/embed?src=pofdiscordrs%40gmail.com)\nBy: <@176094756315594752>"
-      }            
+      },
+      {
+        "name": "​",
+        "value": "[Comprehensive Herblore Calculator](https://docs.google.com/spreadsheets/d/1-Iv9xiiVj3M8UisSYQSejjFgioFRfcE-INnRj9C4O-I)\nBy: <@138145229155991553>"
+      }
       ]
   },
   "break6": {
@@ -244,7 +248,11 @@ exports.data = {
       {
         "name": "​",
         "value": "[Hardcore Ironman Safe Death List](https://media.discordapp.net/attachments/275755292753526784/415374075230289921/unknown.png)\nBy: RS Wiki"
-      }        
+      },
+      {
+        "name": "​",
+        "value": "[Tonix's Ten Tips & Tricks for New Ironmen!](https://www.youtube.com/watch?v=xU83nwZEyXk)\nBy: <@223981210446200832>"
+      }
       ]
   },
   "break8": {
@@ -298,7 +306,7 @@ exports.data = {
       },
       {
         "name": "​",
-        "value": "[[Runescape 3] How to farm Easy Clue Scrolls FAST](https://www.youtube.com/watch?v=qeUnUMbVm5A&t=1s)\nBy: puretppc"
+        "value": "[[Runescape 3] How to farm Easy Clue Scrolls FAST](https://www.youtube.com/watch?v=qeUnUMbVm5A&t=1s)\nBy: Tonix RS"
       },            
       {
         "name": "​",
@@ -353,7 +361,7 @@ exports.data = {
       },
       {
         "name": "​",
-        "value": "[[Runescape 3] Complete Double XP Weekend Guide 2017: Basics, Strategies + Tips/Tricks!](https://www.youtube.com/watch?v=mGbyl9l-YU0)\nBy: puretppc"
+        "value": "[Top 10 Best Skills to Train on Double XP Weekend!](https://www.youtube.com/watch?v=pLsTOYCJ-eY)\nBy: Tonix RS"
       },
       {
         "name": "​",
