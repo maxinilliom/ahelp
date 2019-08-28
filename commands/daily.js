@@ -67,7 +67,7 @@ exports.run = async (client, message, args, level) => {
 		  	query.timestamp = undefined;
 		  	await message.channel.send("", {embed: query})
 					.then(m => msgArr.push(m.id));
-		  		if (gl.get('daily').length > 0) {
+		  		if (gl.get('daily') && gl.get('daily').length > 0) {
 		  			fin = "Message IDs already exist for **daily** guides. Message IDs not saved to prevent overwriting.";
 		  		} else {
 		  			gl.set('daily', msgArr);

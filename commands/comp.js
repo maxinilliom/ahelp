@@ -78,7 +78,7 @@ exports.run = async (client, message, args, level) => { // eslint-disable-line n
 			  	query.timestamp = undefined;
 			  	await message.channel.send("", {embed: query})
 			  		.then(m => msgArr.push(m.id));
-		  		if (gl.get('comp').length > 0) {
+		  		if (gl.get('comp') && gl.get('comp').length > 0) {
 		  			fin = "Message IDs already exist for **comp** guides. Message IDs not saved to prevent overwriting.";
 		  		} else {
 		  			gl.set('comp', msgArr);

@@ -70,7 +70,7 @@ exports.run = async (client, message, args, level) => {
 		  	query.timestamp = undefined;
 		  	await message.channel.send("", {embed: query})
 		  		.then(m => msgArr.push(m.id));
-		  		if (gl.get('reaper').length > 0) {
+		  		if (gl.get('reaper') && gl.get('reaper').length > 0) {
 		  			fin = "Message IDs already exist for **reaper** guides. Message IDs not saved to prevent overwriting.";
 		  		} else {
 		  			gl.set('reaper', msgArr);
