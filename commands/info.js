@@ -59,7 +59,7 @@ exports.run = (client, message, args, level) => {
 			o++;
 			if (o < x) setTimeout(list, 2000);
 			if (o == x) {
-	  		if (gl.get(type).length > 0) {
+	  		if (gl.get(type) && gl.get(type).length > 0) {
 	  			fin = `Message IDs already exist for **${type}** guides. Message IDs not saved to prevent overwriting.`;
 	  		} else {
 	  			gl.set(type, msgArr);
