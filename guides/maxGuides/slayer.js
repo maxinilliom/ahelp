@@ -42,11 +42,11 @@ exports.data = {
       "fields":[  
          {  
             "name":"​Mazchna",
-            "value":"\t**Tasks to do:** Every task you can \n\n\t**Tasks to prefer:** N/A\n\t**Tasks to block:** N/A \n\t**Tasks to skip:** N/A \n\t**Slayer/h:** 30k slayer xp \n\t**Cb/h:** N/A"
+            "value":"\t**Tasks to do:** Every task you can \n\n\t**Tasks to prefer:** N/A\n\t**Tasks to block:** N/A \n\t**Tasks to skip:** N/A"
          },
          {  
             "name":"​Vannaka",
-            "value":"\t**Tasks to do:** Every task you can \n\n\t**Tasks to prefer:** N/A\n\t**Tasks to block:** N/A \n\t**Tasks to skip:** N/A \n\t**Slayer/h:** 36k slayer xp \n\t**Cb/h:** N/A"
+            "value":"\t**Tasks to do:** Every task you can \n\n\t**Tasks to prefer:** N/A\n\t**Tasks to block:** N/A \n\t**Tasks to skip:** N/A"
          },
          {  
             "name":"​Prefer/Block",
@@ -72,11 +72,11 @@ exports.data = {
       "fields":[  
          {  
             "name":"​Sumona (Lower levels)",
-            "value":"\t**Tasks to do:** [Cave crawlers](https://runescape.wiki/w/Cave_crawler), [Black demons](https://runescape.wiki/w/Black_demon), [Fire giants](https://runescape.wiki/w/Fire_giant), [Elves](https://runescape.wiki/w/Elf_warrior), [Kalphites](https://runescape.wiki/w/Kalphites), \n\t[Iron dragons](https://runescape.wiki/w/Iron_dragon), [Dagganoths](https://runescape.wiki/w/Dagannoth) and [Red dragons](https://runescape.wiki/w/Red_dragon) \n\n\t**Tasks to prefer:** N/A\n\t**Tasks to block:** [Banshees](https://runescape.wiki/w/Banshee), [Greater demons](https://runescape.wiki/w/Greater_demon) and [Grotworms](https://runescape.wiki/w/Grotworm)\n\t**Tasks to skip:** Everything else \n\t**Slayer/h:** 70k slayer xp \n\t**Cb/h:** 120k"
+            "value":"\t**Tasks to do:** [Cave crawlers](https://runescape.wiki/w/Cave_crawler), [Black demons](https://runescape.wiki/w/Black_demon), [Fire giants](https://runescape.wiki/w/Fire_giant), [Elves](https://runescape.wiki/w/Elf_warrior), [Kalphites](https://runescape.wiki/w/Kalphites), \n\t[Iron dragons](https://runescape.wiki/w/Iron_dragon), [Dagannoths](https://runescape.wiki/w/Dagannoth) and [Red dragons](https://runescape.wiki/w/Red_dragon) \n\n\t**Tasks to prefer:** N/A\n\t**Tasks to block:** [Banshees](https://runescape.wiki/w/Banshee), [Greater demons](https://runescape.wiki/w/Greater_demon) and [Grotworms](https://runescape.wiki/w/Grotworm)\n\t**Tasks to skip:** Everything else"
          },
                  {  
             "name":"​Sumona (Higher levels)",
-            "value":"\t**Tasks to do:** Cave crawlers, Black demons, [Bloodvelds](https://runescape.wiki/w/Bloodveld), Fire giants, Elves, \n\tKalphites, Iron dragons, Dagganoths and Red dragons \n\n\t**Tasks to prefer:** N/A\n\t**Tasks to block:** Banshees, Greater demons and Grotworms\n\t**Tasks to skip:** Everything else \n\t**Slayer/h:** 74k slayer xp \n\t**Cb/h:** 126k"
+            "value":"\t**Tasks to do:** Cave crawlers, Black demons, [Bloodvelds](https://runescape.wiki/w/Bloodveld), Fire giants, Elves, \n\tKalphites, Iron dragons, Dagannoths and Red dragons \n\n\t**Tasks to prefer:** N/A\n\t**Tasks to block:** Banshees, Greater demons and Grotworms\n\t**Tasks to skip:** Everything else"
          },
 {  
             "name":"​Prefer/Block",
@@ -102,20 +102,21 @@ exports.data = {
       "fields":[  
          {  
             "name":"​Duradel (Lower levels)",
-            "value":"\t**Tasks to do:** [Aviansies](https://runescape.wiki/w/Aviansie),[Aberrant Spectres](https://runescape.wiki/w/Aberrant_spectre), [Black demons](https://runescape.wiki/w/Black_demon), [Fire giants](https://runescape.wiki/w/Fire_giant), [Elves](https://runescape.wiki/w/Elf_warrior), \n\t[Kalphites](https://runescape.wiki/w/Kalphites), [Iron dragons](https://runescape.wiki/w/Iron_dragon)\n\n\t**Tasks to prefer:** N/A\n\t**Tasks to block:** [Greater demons](https://runescape.wiki/w/Greater_demon) and [Grotworms](https://runescape.wiki/w/Grotworm)\n\t**Tasks to skip:** Everything else \n\t**Slayer/h:** N/A \n\t**Cb/h:** N/A"
+            "value":"\t**Tasks to do:** [Aviansies](https://runescape.wiki/w/Aviansie),[Aberrant Spectres](https://runescape.wiki/w/Aberrant_spectre), [Black demons](https://runescape.wiki/w/Black_demon), [Fire giants](https://runescape.wiki/w/Fire_giant), [Elves](https://runescape.wiki/w/Elf_warrior), \n\t[Kalphites](https://runescape.wiki/w/Kalphites), [Iron dragons](https://runescape.wiki/w/Iron_dragon)\n\n\t**Tasks to prefer:** N/A\n\t**Tasks to block:** [Greater demons](https://runescape.wiki/w/Greater_demon) and [Grotworms](https://runescape.wiki/w/Grotworm)\n\t**Tasks to skip:** Everything else"
          },
                  {  
             "name":"​Duradel (Higher levels)",
-            "value":"\t**Tasks to do:** Aviansies, [Automatons](https://runescape.wiki/w/Automaton_(monster) Black demons, [Bloodvelds](https://runescape.wiki/w/Bloodveld), Fire giants, \n\tElves, [Gargoyles](https://runescape.wiki/w/Gargoyle) [Jungle Strykeworms](https://runescape.wiki/w/Jungle_strykewyrm) Kalphites, Iron dragons, [Waterfiends](https://runescape.wiki/w/Waterfiend) \n\n\t**Tasks to prefer:** N/A\n\t**Tasks to block:** Greater demons and Grotworms\n\t**Tasks to skip:** Everything else \n\t**Slayer/h:** N/A \n\t**Cb/h:** N/A"
+            "value":"\t**Tasks to do:** Aviansies, [Automatons](https://runescape.wiki/w/Automaton_(monster) Black demons, [Bloodvelds](https://runescape.wiki/w/Bloodveld), Fire giants, \n\tElves, [Gargoyles](https://runescape.wiki/w/Gargoyle), [Jungle Strykeworms](https://runescape.wiki/w/Jungle_strykewyrm), Kalphites, Iron dragons, [Waterfiends](https://runescape.wiki/w/Waterfiend) \n\n\t**Tasks to prefer:** N/A\n\t**Tasks to block:** Greater demons and Grotworms\n\t**Tasks to skip:** Everything else"
          },
 {  
             "name":"​Prefer/Block",
-            "value":"Prefer and block list can be modified to suit your liking better, such as blocking tasks you dislike, but the list above is for maximum slayer experience an hour."         }
+            "value":"Prefer and block list can be modified to suit your liking better, such as blocking tasks you dislike, but the list above is for maximum slayer experience an hour."}
       ]
   },
   "75 - 85": {
     "title": "Slayer Training Levels 75-85",
     "description": "From levels 75-85, it's recommended to use [Kuradal](https://runescape.wiki/w/Slayer_Master#Kuradal), which requires 110 combat. \n\t\n\t Kuradal is the second highest level slayer master, requiring 75 slayer and 110 combat to use. She is located in the [Ancient Cavern](https://runescape.wiki/w/Ancient_Cavern) under [Baxtorian Falls](https://runescape.wiki/w/Baxtorian_Falls). The first time you access the cave through the whirlpool on the surface, but you can also access it by repairing the [Fairy Ring](https://runescape.wiki/w/Fairy_Ring) or using a [Ferocious Ring](https://runescape.wiki/w/Ferocious_ring).",
+    "url": "https://runescape.wiki/w/Slayer_Master",
     "color": 12269891,
     "footer": {
       "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
@@ -135,7 +136,7 @@ exports.data = {
          },
          {  
             "name":"​",
-            "value":"\t**Tasks to prefer:** Waterfiends\n\t**Tasks to block:** [Abberant spectres](https://runescape.wiki/w/Aberrant_spectre), [Greater demons](https://runescape.wiki/w/Greater_demon) and [Grotworms](https://runescape.wiki/w/Grotworm)\n\t**Tasks to skip:** Everything else \n\t**Slayer/h:** 188k slayer xp \n\t**Cb/h:** 307k"        
+            "value":"\t**Tasks to prefer:** Waterfiends\n\t**Tasks to block:** [Abberant spectres](https://runescape.wiki/w/Aberrant_spectre), [Greater demons](https://runescape.wiki/w/Greater_demon) and [Grotworms](https://runescape.wiki/w/Grotworm)\n\t**Tasks to skip:** Everything else"
          },
          {  
             "name":"Kuradal (Higher levels)",
@@ -143,7 +144,7 @@ exports.data = {
          },
         {
             "name":"​",
-            "value":"\t**Tasks to prefer:** Waterfiends\n\t**Tasks to block:** Abberant spectres, Greater demons, Grotworms and \n\t[Dagganoths](https://runescape.wiki/w/Dagannoth)\n\t**Tasks to skip:** Everything else\n\t**Slayer/h:** 191k slayer xp\n\t**Cb/h:** 314k"
+            "value":"\t**Tasks to prefer:** Waterfiends\n\t**Tasks to block:** Abberant spectres, Greater demons, Grotworms and \n\t[Dagannoths](https://runescape.wiki/w/Dagannoth)\n\t**Tasks to skip:** Everything else"
         },
          {  
             "name":"Prefer/Block",
@@ -170,19 +171,19 @@ exports.data = {
       "fields":[  
          {  
             "name":"​Morvran (Lower levels)",
-            "value": "\t**Tasks to do:** [Elves](https://runescape.wiki/w/Elf_warrior), [Abyssal demons](https://runescape.wiki/w/Abyssal_demon), [Glacors](https://runescape.wiki/w/Glacor), [Nightmares](https://runescape.wiki/w/Nightmare), \n\t[Waterfiends](https://runescape.wiki/w/Waterfiend), [Celestial dragons](https://runescape.wiki/w/Celestial_dragon), [Tormented demons](https://runescape.wiki/w/Tormented_demon), and [Shadow \n\tcreatures](https://runescape.wiki/w/Shadow_creature) (if done inside a player owned dungeon)"
+            "value": "\t**Tasks to do:** [Abyssal demons](https://runescape.wiki/w/Abyssal_demon), [Elves](https://runescape.wiki/w/Elf_warrior), [Glacors](https://runescape.wiki/w/Glacor), [Nightmares](https://runescape.wiki/w/Nightmare), \n\t[Waterfiends](https://runescape.wiki/w/Waterfiend), [Celestial dragons](https://runescape.wiki/w/Celestial_dragon), [Tormented demons](https://runescape.wiki/w/Tormented_demon), and [Shadow \n\tcreatures](https://runescape.wiki/w/Shadow_creature) (if done inside a player owned dungeon)"
          },
          {  
             "name":"​",
-            "value":"\t**Tasks to prefer:** Elves, Abyssal demons, Glacors, Nightmare muspahs \n\t**Tasks to block:** [Greater demons](https://runescape.wiki/w/Greater_demon), [Grotworms](https://runescape.wiki/w/Grotworm), [Black demons](https://runescape.wiki/w/Black_demon), \n\t[Ascension members](https://runescape.wiki/w/Monastery_of_Ascension), and [Dagannoths](https://runescape.wiki/w/Dagannoth)\n\t**Tasks to skip:** Everything else \n\t**Slayer/h:** 450k slayer xp \n\t**Cb/h:** 745k"        
+            "value":"\t**Tasks to prefer:** Abyssal demons, Elves, Glacors, [Nightmares](https://runescape.wiki/w/Nightmare) \n\t**Tasks to block:** [Greater demons](https://runescape.wiki/w/Greater_demon), [Grotworms](https://runescape.wiki/w/Grotworm), [Black demons](https://runescape.wiki/w/Black_demon), \n\t[Ascension members](https://runescape.wiki/w/Monastery_of_Ascension), and [Dagannoths](https://runescape.wiki/w/Dagannoth)\n\t**Tasks to skip:** Everything else"
          },
          {  
             "name":"​Morvran (Higher levels)",
-            "value":"\t**Tasks to do:** Elves, Airut, Abyssal demons, Acheron mammoths, \n\tDark beasts, Living wyverns, Ripper demons, Nightmares, \n\t[Kal'gerion demons](https://runescape.wiki/w/Kal%27gerion_demon), [Gemstone Dragons](https://runescape.wiki/w/Gemstone_dragons), and [Corrupted Creatures](https://runescape.wiki/w/Corrupted_creature)"
+            "value":"\t**Tasks to do:** [Airut](https://runescape.wiki/w/Airut), Abyssal demons, [Acheron mammoths](https://runescape.wiki/w/Acheron_mammoth), \n\t[Dark beasts](https://runescape.wiki/w/Dark_beast), Elves, [Living wyverns](https://runescape.wiki/w/Wyvern), [Ripper demons](https://runescape.wiki/w/Ripper_Demon), Nightmares, \n\t[Kal'gerion demons](https://runescape.wiki/w/Kal%27gerion_demon), [Gemstone Dragons](https://runescape.wiki/w/Gemstone_dragons), [Moss golems](https://runescape.wiki/w/Moss_golem), [Soul devourers](https://runescape.wiki/w/Soul_devourer), \n\tand [Corrupted creatures](https://runescape.wiki/w/Corrupted_creature)"
          },
          {  
             "name":"​",
-            "value":"\t**Tasks to prefer:** Elves, [Airut](https://runescape.wiki/w/Airut), Abyssal demons, [Acheron mammoths](https://runescape.wiki/w/Acheron_mammoth), \n\t[Dark beasts](https://runescape.wiki/w/Dark_beast), [Living wyverns](https://runescape.wiki/w/Wyvern) and [Ripper demons](https://runescape.wiki/w/Ripper_Demon) \n\t**Tasks to block:** Greater demons, Grotworms, Black demons, \n\tAscention members, Dagannoths\n\t**Tasks to skip:** Everything else \n\t**Slayer/h:** 600k slayer xp \n\t**Cb/h:** 850k"        
+            "value":"\t**Tasks to prefer:** Airut, Abyssal demons, Acheron mammoths, \n\tDark beasts, Gemstone dragons, Living wyverns, Moss golems, and Ripper \n\tdemons \n\t**Tasks to block:** Greater demons, Grotworms, Black demons, \n\tAscention members, Dagannoths\n\t**Tasks to skip:** Everything else"
          },
          {  
             "name":"​Prefer/Block",
@@ -221,7 +222,7 @@ exports.data = {
     },
     {
       "name": "▬▬ Corrupted Scarabs ▬▬",
-      "value": "[Corrupted Scarabs](https://runescape.wiki/w/Corrupted_Scarab_(Menaphos) provide a significant amount of experience daily, with the experience per scarab dropping as you proceed. They may appear around [Shifting Tombs](https://runescape.wiki/w/Shifting_Tombs) entrances in [Menaphos](https://runescape.wiki/w/Menaphos), at the mine in the [Worker District](https://runescape.wiki/w/Menaphos#Worker_district), and periodically outside the [Sophanem Slayer Dungeon](https://runescape.wiki/w/Sophanem_Slayer_Dungeon). They may also be found in the treasure chests in Shifting Tombs. They can be burst to gain a small amount of [Reputation](https://runescape.wiki/w/Menaphos/Reputation) and a high amount of Slayer experience. However, this also deals damage to the player that varies based on their Constitution level."
+      "value": "[Corrupted Scarabs](https://runescape.wiki/w/Corrupted_Scarab_(Menaphos) provide a significant amount of experience daily, with the experience per scarab dropping as you proceed. They may appear around [Shifting Tombs](https://runescape.wiki/w/Shifting_Tombs) entrances in [Menaphos](https://runescape.wiki/w/Menaphos), at the mine in the [Worker District](https://runescape.wiki/w/Menaphos#Worker_district), and periodically outside the [Sophanem Slayer Dungeon](https://runescape.wiki/w/Sophanem_Slayer_Dungeon). They may also be found in the treasure chests in Shifting Tombs. They can be burst to gain a small amount of [Reputation](https://runescape.wiki/w/Menaphos/Reputation) and a high amount of Slayer experience. However, this also deals damage to the player that varies based on their Constitution level. It is highly advised to bring food if training this way to negate the damage to lifepoints."
     }
       ]
   },
