@@ -119,7 +119,7 @@
       "fields":[  
          {  
             "name":"​Where:",
-            "value":"[Castle Wars](https://runescape.wiki/w/Castle_Wars) lobby, in the south-west corner of [Kandarin](https://runescape.wiki/w/Kandarin), World 68 in the \"AHelp\" friends chat."
+            "value":"[Castle Wars](https://runescape.wiki/w/Castle_Wars) lobby, in the south-west corner of [Kandarin](https://runescape.wiki/w/Kandarin), World 24 in the \"AHelp\" friends chat."
          },
          {  
             "name":"​Why:",
@@ -297,7 +297,7 @@
          }
       ]
    },
-    "corporeal beast aodmom": {  
+    "corporeal beast somer": {  
       "title":"Preparation:",
       "description":"All are welcome!\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Corporeal_Beast/Strategies) or a video guide [here](https://www.youtube.com/watch?v=lfwu9Owd5kg).",
       "footer":{  
@@ -323,6 +323,84 @@
          {  
             "name":"​Who:",
             "value":"<@239506926289944603>, <@276479407730851851>, their [Achievement Help](https://www.discord.gg/uUUMPbd) Discord team, and their [Alright](https://discord.gg/KwysmXr) clan."
+         },
+         {  
+            "name":"​What is Needed:",
+            "value":"Any gear is permitted. [Tier](https://runescape.wiki/w/Equipment_tier) 70+ armor and weapon are recommended and appreciated, though not required. The better the tier, the better chance you have of surviving and the faster the kills."
+         },
+         {  
+            "name":"​How Drops Work:",
+            "value":"Drops are dispersed via [lootshare](https://runescape.wiki/w/LootShare) to whoever is in the friend's chat. All drops are kept by their recipients."
+         }
+      ]
+   },
+    "corporeal beast solve": {  
+      "title":"Preparation:",
+      "description":"All are welcome! We will be teaching how to do the boss on Discord if any learners are apprehensive about coming.\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Corporeal_Beast/Strategies) or a video guide [here](https://www.youtube.com/watch?v=lfwu9Owd5kg).",
+      "footer":{  
+         "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
+         "text":"All events brought to you by the `Alright` clan! (https://alright.page/discord)"
+      },
+      "thumbnail":{  
+         "url":"https://runescape.wiki/images/5/5c/Corporeal_Beast.png?36acd"
+      },
+      "author":{  
+         "name":"Corporeal Beast Community Event",
+         "icon_url":"https://i.imgur.com/6c6q2iC.png"
+      },
+      "fields":[  
+         {  
+            "name":"​Where:",
+            "value":"The [Corporeal Lair](https://runescape.wiki/w/Corporeal_Beast#Habitat), World 68 in the \"AHelp\" friends chat. Players who have completed the [Summer's End](https://runescape.wiki/w/Summer%27s_End) quest may use a [games necklace](https://runescape.wiki/w/Games_necklace) to teleport directly into the first of the caverns, a quick run from the third cavern that serves as the Beast's lair. "
+         },
+         {  
+            "name":"​Why:",
+            "value":"To assist everyone who needs [Corporeal Beast](https://runescape.wiki/w/Corporeal_Beast) for:\n\n• Their [Reaper Crew](https://runescape.wiki/w/Reaper_Crew) achievement\n• Their [Final Boss](https://runescape.wiki/w/Final_Boss) title\n• Their [Insane Final Boss](https://runescape.wiki/w/Insane_Final_Boss) title\n• Completing the [Glutton for Punishment](https://runescape.wiki/w/Glutton_For_Punishment) achievement\n(Get the Corporeal Beast to devour a variety of delicious familiars.)\n• Completing the [Out of Body experience](https://runescape.wiki/w/Out_of_Body_experience) achievement\n(Obtain a collection of unique drops from Corporeal Beast.)\n• Completing their [Corporeal Punishment](https://runescape.wiki/w/Corporeal_Punishment) achievement\n(Defeat Corporeal Beast 5, 10, 25, 50, 75, and 100 times, depending on the tier.)"
+         },
+         {  
+            "name":"​Who:",
+            "value":"<@113770763261181961>, <@154378413375881216>, their [Achievement Help](https://www.discord.gg/uUUMPbd) Discord team, and their [Alright](https://discord.gg/KwysmXr) clan."
+         },
+         {  
+            "name":"​What is Needed:",
+            "value":"Any gear is permitted. [Tier](https://runescape.wiki/w/Equipment_tier) 70+ armor and weapon are recommended and appreciated, though not required. The better the tier, the better chance you have of surviving and the faster the kills."
+         },
+         {  
+            "name":"​How Drops Work:",
+            "value":"Drops are dispersed via [lootshare](https://runescape.wiki/w/LootShare) to whoever is in the friend's chat. All drops are kept by their recipients."
+         }
+      ]
+   },
+    "dagannoth kings solve": {  
+      "title":"Preparation:",
+      "description":"All are welcome! We will be teaching how to do the boss on Discord if any learners are apprehensive about coming.\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Dagannoth_Kings/Strategies) or a video guide [here](https://www.youtube.com/watch?v=wxUDfSt57bM).",
+      "footer":{  
+         "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
+         "text":"All events brought to you by the `Alright` clan! (https://alright.page/discord)"
+      },
+      "thumbnail":{  
+         "url":"https://runescape.wiki/w/Dagannoth_Rex#/media/File:Dagannoth_Rex.png"
+      },
+      "author":{  
+         "name":"Dagannoth Kings Community Event",
+         "icon_url":"https://i.imgur.com/6c6q2iC.png"
+      },
+      "fields":[  
+         {  
+            "name":"​Where:",
+            "value":"[Waterbirth Island](https://runescape.wiki/w/Waterbirth_Island), World 68 in the \"AHelp\" friends chat."
+         },
+         {  
+            "name":"​Why:",
+            "value":"To assist everyone who needs [Dagannoth Kings](https://runescape.wiki/w/Daggonath_king) for:\n\n• Their [Reaper Crew](https://runescape.wiki/w/Reaper_Crew) achievement\n• Their [Final Boss](https://runescape.wiki/w/Final_Boss) title\n• Their [Insane Final Boss](https://runescape.wiki/w/Insane_Final_Boss) title"
+         },
+         {  
+            "name": "​",
+            "value":"• Completing the [Baroo Quality](https://runescape.wiki/w/Baroo_Quality) achievement\n(Defeat a Dagannoth King whilst wearing full yak-hide armour and a Fremennik round shield.)\n• Completing the [Dagannoth Traffic Wardens](https://runescape.wiki/w/Dagannoth_Traffic_Wardens) achievement\n(Defeat the Dagannoth Supreme with each different colour variation of Balmung.)\n• Completing the [Long live the Kings!](https://runescape.wiki/w/Long_live_the_Kings!) achievement\n(Obtained a collection of unique drops from the Dagannoth Kings.)\n• Completing the [Dagannoth for Everyone](https://runescape.wiki/w/Dagannoth_for_Everyone) achievement\n(Defeat any of theDagannoth Kings 5, 10, 25, 50, 75, and 100 times, depending on the tier.)"
+         },
+         {  
+            "name":"​Who:",
+            "value":"<@113770763261181961>, <@154378413375881216>, their [Achievement Help](https://www.discord.gg/uUUMPbd) Discord team, and their [Alright](https://discord.gg/KwysmXr) clan."
          },
          {  
             "name":"​What is Needed:",
@@ -528,7 +606,7 @@
       "fields":[  
          {  
             "name":"​Where:",
-            "value":"[Gamers' grotto](https://runescape.wiki/w/Gamers%27_grotto), east of the [Falador lodestone](https://runescape.wiki/w/Falador), World 68 in the \"AHelp\" friends chat."
+            "value":"[Gamers' grotto](https://runescape.wiki/w/Gamers%27_grotto), east of the [Falador lodestone](https://runescape.wiki/w/Falador), World 92 in the \"AHelp\" friends chat."
          },
          {  
             "name":"​Why:",
@@ -1014,7 +1092,7 @@
          }
       ]
    },
-      "kalphite king aodmom": {  
+      "kalphite king somer": {  
       "title":"Preparation:",
       "description":"All are welcome! \n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Kalphite_King/Strategies) or a video guide [here](https://www.youtube.com/watch?v=vgAEnOtkUG4).",
       "footer":{  
@@ -1359,7 +1437,7 @@
          }
       ]
    },
-    "nex aodmom": {  
+    "nex somer": {  
       "title":"Preparation:",
       "description":"All are welcome!\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Nex/Strategies) or a video guide [here](https://www.youtube.com/watch?v=U7q-M0ecODA).",
       "footer":{  
@@ -1389,6 +1467,47 @@
          {  
             "name":"​Who:",
             "value":"<@239506926289944603>, <@276479407730851851>, their [Achievement Help](https://www.discord.gg/uUUMPbd) Discord team, and their [Alright](https://discord.gg/KwysmXr) clan."
+         },
+         {  
+            "name":"​What is Needed:",
+            "value":"• Any gear is permitted. [Tier](https://runescape.wiki/w/Equipment_tier) 70+ armor and weapon are recommended and appreciated, though not required. The better the tier, the better chance you have of surviving and the faster the kills.  Range or mage are highly encouraged.\n• A charged [Frozen key](https://runescape.wiki/w/Frozen_key)\n• Either 40 Zarosian kills or a set of [Ancient ceremonial robes](https://runescape.wiki/w/Ancient_ceremonial_robes)."
+         },
+         {  
+            "name":"​How Drops Work:",
+            "value":"Drops are dispersed via [lootshare](https://runescape.wiki/w/LootShare) to whoever is in the friend's chat. All drops are kept by their recipients."
+         }
+      ]
+   },
+    "nex tim cannon": {  
+      "title":"Preparation:",
+      "description":"All are welcome! We will be teaching how to do the boss on Discord if any learners are apprehensive about coming.\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Nex/Strategies) or a video guide [here](https://www.youtube.com/watch?v=U7q-M0ecODA).",
+      "footer":{  
+         "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
+         "text":"All events brought to you by the `Alright` clan! (https://alright.page/discord)"
+      },
+      "thumbnail":{  
+         "url":"https://vignette.wikia.nocookie.net/runescape2/images/f/fe/Nex.png/revision/latest?cb=20170203034912"
+      },
+      "author":{  
+         "name":"Nex Mass Community Event",
+         "icon_url":"https://i.imgur.com/6c6q2iC.png"
+      },
+      "fields":[  
+         {  
+            "name":"​Where:",
+            "value":"Nex Bank, within the [Ancient Prison](https://runescape.wiki/w/God_Wars_Dungeon#Ancient_Prison) in the [God Wars Dungeon](https://runescape.wiki/w/God_Wars_Dungeon), World 68 in the \"AHelp\" friends chat."
+         },
+         {  
+            "name":"​Why:",
+            "value":"To assist everyone who needs [Nex](https://runescape.wiki/w/Nex) for:\n\n• Their [Reaper Crew](https://runescape.wiki/w/Reaper_Crew) achievement\n• Their [Final Boss](https://runescape.wiki/w/Final_Boss) title\n• Their [Insane Final Boss](https://runescape.wiki/w/Insane_Final_Boss) title"
+         },
+         {  
+            "name":"​​",
+            "value":"• Completing their [Matricide](https://runescape.wiki/w/Matricide) achievement\n(Defeat Nex while accompanied by each of the nihil followers.)\n• Completing their [Next To No Power](https://runescape.wiki/w/Next_To_No_Power) achievement\n(Defeat Nex without the use of prayers by anyone in the group.)\n• Completing their [Prison Break (feat)](https://runescape.wiki/w/Prison_Break_(feat) achievement\n(Obtained a collection of unique drops from Nex.)\n• Completing their [Brass Nex](https://runescape.wiki/w/Brass_Nex) achievement\n(Defeat Nex 5, 10, 25, 50, 75, and 100 times, depending on the tier.)\n• A chance at obtaining the [Ancient defender](https://runescape.wiki/w/Ancient_defender)"
+         },
+         {  
+            "name":"​Who:",
+            "value":"<@113770763261181961>, <@443363332322230273>, their [Achievement Help](https://www.discord.gg/uUUMPbd) Discord team, and their [Alright](https://discord.gg/KwysmXr) clan."
          },
          {  
             "name":"​What is Needed:",
@@ -1441,7 +1560,7 @@
          }
       ]
    },
-    "nex aod aodmom": {  
+    "nex aod somer": {  
       "title":"Preparation:",
       "description":"All are welcome!\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Nex:_Angel_of_Death/Strategies) or a video guide [here](https://www.youtube.com/watch?v=Yrh93pIPNzk).",
       "footer":{  
@@ -1482,7 +1601,7 @@
          }
       ]
    },
-    "nex aod aodmom bren m": {  
+    "nex aod somer bren m": {  
       "title":"Preparation:",
       "description":"All are welcome!\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Nex:_Angel_of_Death/Strategies) or a video guide [here](https://www.youtube.com/watch?v=Yrh93pIPNzk).",
       "footer":{  
@@ -1523,7 +1642,7 @@
          }
       ]
    },
-   "nex aod aodmom lspvm247": {  
+   "nex aod somer lspvm247": {  
       "title":"Preparation:",
       "description":"All are welcome! \n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Nex:_Angel_of_Death/Strategies) or a video guide [here](https://www.youtube.com/watch?v=Yrh93pIPNzk).",
       "footer":{  
@@ -1553,6 +1672,47 @@
          {  
             "name":"​Who:",
             "value":"<@239506926289944603>, <@276479407730851851>, & Lspvm247."
+         },
+         {  
+            "name":"​What is Needed:",
+            "value":"• Any gear is permitted. [Tier](https://runescape.wiki/w/Equipment_tier) 80+ armor and weapon are recommended and appreciated, though not required. The better the tier, the better chance you have of surviving and the faster the kills.  Range or mage are highly encouraged.\n• A charged [Frozen key](https://runescape.wiki/w/Frozen_key)\n• Either 40 Zarosian kills or a set of [Ancient ceremonial robes](https://runescape.wiki/w/Ancient_ceremonial_robes)."
+         },
+         {  
+            "name":"​How Drops Work:",
+            "value":"Drops are dispersed via [coinshare](https://runescape.wiki/w/CoinShare) to whoever is in the friend's chat. All drops are kept by their recipients and high-value drops that have [item shards](https://runescape.wiki/w/Item_shards) will be split by the game to everyone who has coinshare enabled and is in the friend's chat. "
+         }
+      ]
+   },
+    "nex aod gojess": {  
+      "title":"Preparation:",
+      "description":"All are welcome! We will be teaching how to do the boss on Discord if any learners are apprehensive about coming.\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Nex:_Angel_of_Death/Strategies) or a video guide [here](https://www.youtube.com/watch?v=Yrh93pIPNzk).",
+      "footer":{  
+         "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
+         "text":"All events brought to you by the `Alright` clan! (https://alright.page/discord)"
+      },
+      "thumbnail":{  
+         "url":"https://vignette.wikia.nocookie.net/runescape2/images/2/2b/Nex_%28Angel_of_Death%29.png/revision/latest?cb=20170130192323"
+      },
+      "author":{  
+         "name":"Nex AOD Mass Community Event",
+         "icon_url":"https://i.imgur.com/6c6q2iC.png"
+      },
+      "fields":[  
+         {  
+            "name":"​Where:",
+            "value":"Nex Bank, within the [Ancient Prison](https://runescape.wiki/w/God_Wars_Dungeon#Ancient_Prison) in the [God Wars Dungeon](https://runescape.wiki/w/God_Wars_Dungeon), World 68 in the \"GoJess\" friends chat."
+         },
+         {  
+            "name":"​Why:",
+            "value":"To assist everyone who needs [Nex: Angel of Death](https://runescape.wiki/w/Nex:_Angel_of_Death) for:\n\n• Their [Reaper Crew](https://runescape.wiki/w/Reaper_Crew) achievement\n• Their [Final Boss](https://runescape.wiki/w/Final_Boss) title\n• Their [Insane Final Boss](https://runescape.wiki/w/Insane_Final_Boss) title"
+         },
+         {  
+            "name":"​​",
+            "value":"• Completing their [Library of Nex](https://runescape.wiki/w/Library_of_Nex) achievement\n(Find and read '[The Promised Gift](https://runescape.wiki/w/The_Promised_Gift)' and '[The Praesul](https://runescape.wiki/w/The_Praesul)' books from the Nex: Angel of Death encounter.)\n• Completing their [Hungry Hungry Reavers](https://runescape.wiki/w/Hungry_Hungry_Reavers) achievement\n(Defeat Nex: Angel of Death without any of the group damaging any of the [blood reavers](https://runescape.wiki/w/Blood_reaver).)\n• Completing their [Fallen Angel](https://runescape.wiki/w/Fallen_Angel) achievement\n(Obtained a collection of unique drops from Nex: Angel of Death.)\n• Completing their [Nex Pls](https://runescape.wiki/w/Nex_Pls) achievement\n(Defeat Nex, the Angel of Death 5, 10, 25, 50, 75, and 100 times, depending on the tier.)"
+         },
+         {  
+            "name":"​Who:",
+            "value":"<@113770763261181961>, <@349581235951108098>, their [Achievement Help](https://www.discord.gg/uUUMPbd) Discord team, and their [Alright](https://discord.gg/KwysmXr) clan."
          },
          {  
             "name":"​What is Needed:",
@@ -1721,7 +1881,7 @@
       "fields":[  
          {  
             "name":"​Where:",
-            "value":"[The Void Knights' Outpost](https://runescape.wiki/w/Void_Knights%27_Outpost), World 53 in the \"AHelp\" friends chat."
+            "value":"[The Void Knights' Outpost](https://runescape.wiki/w/Void_Knights%27_Outpost), World 69 in the \"AHelp\" friends chat."
          },
          {  
             "name":"​Why:",
@@ -1919,7 +2079,7 @@
       "fields":[  
          {  
             "name":"​Where:",
-            "value":"The [Soul Wars](https://runescape.wiki/w/Soul_Wars) lobby, World 68 in the \"AHelp\" friends chat. To get to Soul Wars, one must enter the [Soul Wars portal](https://runescape.wiki/w/Soul_Wars_portal) in [Edgeville](https://runescape.wiki/w/Edgeville)."
+            "value":"The [Soul Wars](https://runescape.wiki/w/Soul_Wars) lobby, World 44 in the \"AHelp\" friends chat. To get to Soul Wars, one must enter the [Soul Wars portal](https://runescape.wiki/w/Soul_Wars_portal) in [Edgeville](https://runescape.wiki/w/Edgeville)."
          },
          {  
             "name":"​Why:",
@@ -1968,7 +2128,7 @@
          }
       ]
    },
-    "stealing creation aodmom": {  
+    "stealing creation somer": {  
       "title":"Preparation:",
       "description":"All are welcome! We will be teaching how to do the event on Discord if any learners are apprehensive about coming.\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Stealing_Creation).",
       "footer":{  
@@ -1985,7 +2145,7 @@
       "fields":[  
          {  
             "name":"Where:",
-            "value":"The [Stealing Creation](https://runescape.wiki/w/Stealing_Creation) lobby, World 99 in Fast Sc's friends chat.\n\nStealing Creation is located in the [Mystic's Camp](https://runescape.wiki/w/Mystic%27s_Camp), in the northern section of the [Gamers' Grotto](https://runescape.wiki/w/Gamers%27_Grotto), accessible via a cavern entrance situated north of [Falador](https://runescape.wiki/w/Falador) and south-west of [Edgeville](https://runescape.wiki/w/Edgeville). The [Games necklace](https://runescape.wiki/w/Games_necklace) has a teleport option to the grotto."
+            "value":"The [Stealing Creation](https://runescape.wiki/w/Stealing_Creation) lobby, World 99 in \"Fast Sc\" friends chat.\n\nStealing Creation is located in the [Mystic's Camp](https://runescape.wiki/w/Mystic%27s_Camp), in the northern section of the [Gamers' Grotto](https://runescape.wiki/w/Gamers%27_Grotto), accessible via a cavern entrance situated north of [Falador](https://runescape.wiki/w/Falador) and south-west of [Edgeville](https://runescape.wiki/w/Edgeville). The [Games necklace](https://runescape.wiki/w/Games_necklace) has a teleport option to the grotto."
          },
          {  
             "name":"Why:",
@@ -2093,6 +2253,39 @@
          {  
             "name":"Who:",
             "value":"<@113770763261181961>, <@154378413375881216>, their [Achievement Help](https://www.discord.gg/uUUMPbd) Discord team, and their [Alright](https://discord.gg/KwysmXr) clan."
+         },
+         {  
+            "name":"What is Needed:",
+           "value":"This is a safe [minigame](https://runescape.wiki/w/Minigames). You cannot wear or bring any items into the arena. There is a bank deposit box right by the entrance for your convenience. Items on the [tool belt](https://runescape.wiki/w/Tool_belt) do not work in the game."
+         }
+      ]
+   },
+    "stealing creation tim": {  
+      "title":"Preparation:",
+      "description":"All are welcome! We will be teaching how to do the event on Discord if any learners are apprehensive about coming.\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Stealing_Creation).",
+      "footer":{  
+         "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
+         "text":"All events brought to you by the `Alright` clan! (https://alright.page/discord)"
+      },
+      "thumbnail":{  
+         "url":"https://vignette.wikia.nocookie.net/runescape2/images/6/63/Sacred_clay_%28class_5%29_detail.png/revision/latest/scale-to-width-down/100?cb=20170715144235"
+      },
+      "author":{  
+         "name":"Stealing Creation Community Event",
+         "icon_url":"https://i.imgur.com/6c6q2iC.png"
+      },
+      "fields":[  
+         {  
+            "name":"Where:",
+            "value":"The [Stealing Creation](https://runescape.wiki/w/Stealing_Creation) lobby, World 45 in the \"AHelp\" friends chat.\n\nStealing Creation is located in the [Mystic's Camp](https://runescape.wiki/w/Mystic%27s_Camp), in the northern section of the [Gamers' Grotto](https://runescape.wiki/w/Gamers%27_Grotto), accessible via a cavern entrance situated north of [Falador](https://runescape.wiki/w/Falador) and south-west of [Edgeville](https://runescape.wiki/w/Edgeville). The [Games necklace](https://runescape.wiki/w/Games_necklace) has a teleport option to the grotto."
+         },
+         {  
+            "name":"Why:",
+            "value":"To assist everyone who needs to unlock the [music](https://runescape.wiki/w/Music), complete the [Claymation](https://runescape.wiki/w/Claymation) achievement (fully exhaust all gathering plots in a Stealing Creation match), and for those who just want to have fun."
+         },
+         {  
+            "name":"Who:",
+            "value":"<@294617234033213450>, <@443363332322230273>, their [Achievement Help](https://www.discord.gg/uUUMPbd) Discord team, and their [Alright](https://discord.gg/KwysmXr) clan."
          },
          {  
             "name":"What is Needed:",
