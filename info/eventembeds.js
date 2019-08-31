@@ -2050,7 +2050,7 @@
       "fields":[  
          {  
             "name":"Where:",
-            "value":"Near the [Burthrope](https://runescape.wiki/w/Burthorpe) lodestone and bank, World 100 in the \"GoJess\" friends chat."
+            "value":"Near the [Burthrope](https://runescape.wiki/w/Burthorpe) lodestone and bank, World 68 in the \"GoJess\" friends chat."
          },
          {  
             "name":"Why:",
