@@ -1355,9 +1355,9 @@
          }
       ]
    },
-    "giant mole hm solve f2p": {  
+    "giant mole solve f2p": {  
       "title":"Preparation:",
-      "description":"All are welcome! \n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Giant_mole/Strategies#Hard_Mode) or a video guide [here](https://www.youtube.com/watch?v=dhwkia6dohM).",
+      "description":"All are welcome! \n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Giant_mole/Strategies) or a video guide [here](https://www.youtube.com/watch?v=0lrGI8Nsvns).",
       "footer":{  
          "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
          "text":"All events brought to you by the `Alright` clan! (https://alright.page/discord)"
@@ -1366,7 +1366,7 @@
          "url":"https://runescape.wiki/images/f/fd/Giant_Mole.png?6906f"
       },
       "author":{  
-         "name":"HM Giant Mole Mass Community Event",
+         "name":"Giant Mole Mass Community Event",
          "icon_url":"https://i.imgur.com/6c6q2iC.png"
       },
       "fields":[  
@@ -1376,7 +1376,7 @@
          },
          {  
             "name":"Why:",
-            "value":"To assist everyone who needs the [Giant Mole](https://runescape.wiki/w/Giant_mole) for:\n\n• Their [Reaper Crew](https://runescape.wiki/w/Reaper_Crew) achievement\n• Their [Final Boss](https://runescape.wiki/w/Final_Boss) title\n• Their [Insane Final Boss](https://runescape.wiki/w/Insane_Final_Boss) title\n• Completing their [Can you dig it?](https://runescape.wiki/w/Can_you_dig_it%3F) achievement\n(Obtained a collection of unique drops from the Giant Mole.)\n• Completing their [Whack a Mole](https://runescape.wiki/w/Whack_a_Mole) achievement\n(Defeat the Giant Mole 5, 10, 25, 50, 75, and 100 times in hardmode, depending on the tier.)"
+            "value":"To assist everyone who needs the [Giant Mole](https://runescape.wiki/w/Giant_mole) for:\n\n• Their [Reaper Crew](https://runescape.wiki/w/Reaper_Crew) achievement\n• Their [Final Boss](https://runescape.wiki/w/Final_Boss) title\n• Their [Insane Final Boss](https://runescape.wiki/w/Insane_Final_Boss) title\n• Completing their [Can you dig it?](https://runescape.wiki/w/Can_you_dig_it%3F) achievement\n(Obtained a collection of unique drops from the Giant Mole.)\n• Completing their [Mole Removal](https://runescape.fandom.com/wiki/Mole_Removal) achievement\n(Defeat the Giant Mole 5, 10, 25, 50, 75, and 100 times, depending on the tier.)"
          },
          {  
             "name":"Who:",
