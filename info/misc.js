@@ -310,7 +310,7 @@ exports.data = {
       },            
       {
         "name": "​",
-        "value": "**Clue Presets**\n\t- [Master Clues](https://cdn.discordapp.com/attachments/426541438369792012/492140745789276160/unknown.png)\n\t- [Elite Clues](https://cdn.discordapp.com/attachments/426541438369792012/492140832875610113/unknown.png)\n\t- [Hard Clues](https://cdn.discordapp.com/attachments/426541438369792012/492141057769865227/unknown.png) (empty space at the bottom is for the hard casket)\nBy: <@177599043118039040>"
+        "value": "**Clue Presets**\n\t- [Master Clues](https://i.imgur.com/75LEcJZ.png)\n\t- [Elite Clues](https://i.imgur.com/paCrjVH.png)\n\t- [Hard Clues](https://i.imgur.com/GYYxTls.png) (The empty space at the top is for the hard casket)\n\t- [Passage of the Abyss 1](https://i.imgur.com/WT45QGq.png)\n\t- [Passage of the Abyss 2](https://i.imgur.com/ZfG1LRn.png)\nBy: <@177599043118039040>"
       },
       {
         "name": "​",
