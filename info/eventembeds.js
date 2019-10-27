@@ -168,6 +168,39 @@
          }
       ]
    },
+    "castle wars tim": {  
+      "title":"Preparation:",
+      "description":"All are welcome! We will be teaching how to do the event on Discord if any learners are apprehensive about coming.\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Castle_Wars).",
+      "footer":{  
+         "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
+         "text":"All events brought to you by the `Alright` clan! (https://alright.page/discord)"
+      },
+      "thumbnail":{  
+         "url":"https://runescape.wiki/images/4/49/Castle_Wars_icon.jpg?b4023"
+      },
+      "author":{  
+         "name":"Castle Wars Community Event",
+         "icon_url":"https://i.imgur.com/6c6q2iC.png"
+      },
+      "fields":[  
+         {  
+            "name":"​Where:",
+            "value":"[Castle Wars](https://runescape.wiki/w/Castle_Wars) lobby, in the south-west corner of [Kandarin](https://runescape.wiki/w/Kandarin), World 24 in the \"AHelp\" friends chat."
+         },
+         {  
+            "name":"​Why:",
+            "value":"For those who want to have fun and to assist everyone who needs Castle Wars to:\n\n• Unlock the [music](https://runescape.wiki/w/Music) track\n• Complete the [How Many Games](https://runescape.wiki/w/How_Many_Games%3F) achievement\n(Show a full set of profound armour to Lanthus)\n• Complete the [No Time to Lose](https://runescape.wiki/w/No_Time_to_Lose) achievement\n(Use a [ring of duelling](https://runescape.wiki/w/Ring_of_duelling) to teleport to Castle Wars by choosing the Castle Wars option on the ring)\n• Complete the [What Year Is It](https://runescape.wiki/w/What_Year_Is_It%3F) achievement (Cast [Ice Barrage](https://runescape.wiki/w/Ice_Barrage) 99 times in Castle Wars)"
+         },
+         {  
+            "name":"​Who:",
+            "value":"<@294617234033213450>, <@443363332322230273>, their [Achievement Help](https://www.discord.gg/uUUMPbd) Discord team, and their [Alright](https://discord.gg/KwysmXr) clan."
+         },
+         {  
+            "name":"​What is Needed:",
+           "value":"This is a safe minigame.  Any gear is permitted. [Tier](https://runescape.wiki/w/Equipment_tier) 70+ armor and weapon are recommended, though not required. The better the tier, the better chance you have of surviving."
+         }
+      ]
+   },
     "clan skilling competition": {  
       "footer":{  
          "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
@@ -1618,7 +1651,7 @@
          },
          {  
             "name":"​Who:",
-            "value":"<@294617234033213450>, <@443363332322230273>, their [Achievement Help](https://www.discord.gg/uUUMPbd) Discord team, and their [Alright](https://discord.gg/KwysmXr) clan."
+            "value":"<@294617234033213450>, <@113770763261181961>, their [Achievement Help](https://www.discord.gg/uUUMPbd) Discord team, and their [Alright](https://discord.gg/KwysmXr) clan."
          },
          {  
             "name":"​What is Needed:",
@@ -1865,6 +1898,47 @@
          {  
             "name":"​Who:",
             "value":"<@113770763261181961>, <@154378413375881216>, their [Achievement Help](https://www.discord.gg/uUUMPbd) Discord team, and their [Alright](https://discord.gg/KwysmXr) clan."
+         },
+         {  
+            "name":"​What is Needed:",
+            "value":"• Any gear is permitted. [Tier](https://runescape.wiki/w/Equipment_tier) 80+ armor and weapon are recommended and appreciated, though not required. The better the tier, the better chance you have of surviving and the faster the kills.  Range or mage are highly encouraged.\n• A charged [Frozen key](https://runescape.wiki/w/Frozen_key)\n• Either 40 Zarosian kills or a set of [Ancient ceremonial robes](https://runescape.wiki/w/Ancient_ceremonial_robes)."
+         },
+         {  
+            "name":"​How Drops Work:",
+            "value":"Drops are dispersed via [coinshare](https://runescape.wiki/w/CoinShare) to whoever is in the friend's chat. All drops are kept by their recipients and high-value drops that have [item shards](https://runescape.wiki/w/Item_shards) will be split by the game to everyone who has coinshare enabled and is in the friend's chat. "
+         }
+      ]
+   },
+    "nex aod tim": {  
+      "title":"Preparation:",
+      "description":"All are welcome! We will be teaching how to do the boss on Discord if any learners are apprehensive about coming.\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Nex:_Angel_of_Death/Strategies) or a video guide [here](https://www.youtube.com/watch?v=Yrh93pIPNzk).",
+      "footer":{  
+         "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
+         "text":"All events brought to you by the `Alright` clan! (https://alright.page/discord)"
+      },
+      "thumbnail":{  
+         "url":"https://vignette.wikia.nocookie.net/runescape2/images/2/2b/Nex_%28Angel_of_Death%29.png/revision/latest?cb=20170130192323"
+      },
+      "author":{  
+         "name":"Nex AOD Mass Community Event",
+         "icon_url":"https://i.imgur.com/6c6q2iC.png"
+      },
+      "fields":[  
+         {  
+            "name":"​Where:",
+            "value":"Nex Bank, within the [Ancient Prison](https://runescape.wiki/w/God_Wars_Dungeon#Ancient_Prison) in the [God Wars Dungeon](https://runescape.wiki/w/God_Wars_Dungeon), World 68 in the \"AHelp\" friends chat."
+         },
+         {  
+            "name":"​Why:",
+            "value":"To assist everyone who needs [Nex: Angel of Death](https://runescape.wiki/w/Nex:_Angel_of_Death) for:\n\n• Their [Reaper Crew](https://runescape.wiki/w/Reaper_Crew) achievement\n• Their [Final Boss](https://runescape.wiki/w/Final_Boss) title\n• Their [Insane Final Boss](https://runescape.wiki/w/Insane_Final_Boss) title"
+         },
+         {  
+            "name":"​​",
+            "value":"• Completing their [Library of Nex](https://runescape.wiki/w/Library_of_Nex) achievement\n(Find and read '[The Promised Gift](https://runescape.wiki/w/The_Promised_Gift)' and '[The Praesul](https://runescape.wiki/w/The_Praesul)' books from the Nex: Angel of Death encounter.)\n• Completing their [Hungry Hungry Reavers](https://runescape.wiki/w/Hungry_Hungry_Reavers) achievement\n(Defeat Nex: Angel of Death without any of the group damaging any of the [blood reavers](https://runescape.wiki/w/Blood_reaver).)\n• Completing their [Fallen Angel](https://runescape.wiki/w/Fallen_Angel) achievement\n(Obtained a collection of unique drops from Nex: Angel of Death.)\n• Completing their [Nex Pls](https://runescape.wiki/w/Nex_Pls) achievement\n(Defeat Nex, the Angel of Death 5, 10, 25, 50, 75, and 100 times, depending on the tier.)"
+         },
+         {  
+            "name":"​Who:",
+            "value":"<@294617234033213450>, <@443363332322230273>, their [Achievement Help](https://www.discord.gg/uUUMPbd) Discord team, and their [Alright](https://discord.gg/KwysmXr) clan."
          },
          {  
             "name":"​What is Needed:",
