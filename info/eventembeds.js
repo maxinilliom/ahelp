@@ -1269,6 +1269,43 @@
          }
       ]
    },
+      "kalphite queen exiled solve": {  
+      "title":"Preparation:",
+      "description":"All are welcome! \n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Kalphite_Queen/Strategies) or a video guide [here](https://www.youtube.com/watch?v=UCwcTPowtiA).",
+      "footer":{  
+         "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
+         "text":"All events brought to you by the `Alright` clan! (https://alright.page/discord)"
+      },
+      "thumbnail":{  
+         "url":"https://runescape.wiki/images/thumb/d/d7/Exiled_Kalphite_Queen.png/741px-Exiled_Kalphite_Queen.png?14674"
+      },
+      "author":{  
+         "name":"Exiled Kalphite Queen Community Event",
+         "icon_url":"https://i.imgur.com/6c6q2iC.png"
+      },
+      "fields":[  
+         {  
+            "name":"​Where:",
+            "value":"The [Exiled Kalphite Hive](https://runescape.wiki/w/Exiled_Kalphite_Hive) in the [Kharidian Desert](https://runescape.wiki/w/Kharidian_Desert), World 68 in the \"AHelp\" friends chat."
+         },
+         {  
+            "name":"​Why:",
+            "value":"To assist everyone who needs [Exiled Kalphite Queen](https://runescape.wiki/w/Exiled_Kalphite_Queen) for:\n\n• Their [Reaper Crew](https://runescape.wiki/w/Reaper_Crew) achievement\n• Their [Final Boss](https://runescape.wiki/w/Final_Boss) title\n• Their [Insane Final Boss](https://runescape.wiki/w/Insane_Final_Boss) title\n• Completing the [Hail To The Queen](https://runescape.wiki/w/Hail_To_The_Queen) achievement\n(Defeat two Kalphite Guardians whilst fighting Kalphite Queen and then defeat her.)\n• Completing the [Checkmate](https://runescape.wiki/w/Checkmate) achievement\n(Obtained a collection of unique drops from the Kalphite Queen.)\n• Completing their [Bug Swatter](https://runescape.wiki/w/Bug_Swatter) achievement\n(Defeat Kalphite Queen 5, 10, 25, 50, 75, and 100 times, depending on the tier.)"
+         },
+         {  
+            "name":"​Who:",
+            "value":"<@113770763261181961>, <@154378413375881216>, their [Achievement Help](https://www.discord.gg/uUUMPbd) Discord team, and their [Alright](https://discord.gg/KwysmXr) clan."
+         },
+         {  
+            "name":"​What is Needed:",
+            "value":"Any gear is permitted, though it is recommended to bring both [melee](https://runescape.wiki/w/Melee) and either [range](https://runescape.wiki/w/Range) or [magic](https://runescape.wiki/w/Magic) gear since the Exiled Kalphite Queen changes forms and prayers during the fight. [Tier](https://runescape.wiki/w/Equipment_tier) 60+ armor and weapon are recommended and appreciated, though not required. The better the tier, the better chance you have of surviving and the faster the kills."
+         },
+         {  
+            "name":"​How Drops Work:",
+            "value":"Drops are dispersed via [lootshare](https://runescape.wiki/w/LootShare) to whoever is in the friend's chat. All drops are kept by their recipients."
+         }
+      ]
+   },
     "king black dragon solve": {  
       "title":"Preparation:",
       "description":"All are welcome! We will be teaching how to do the boss on Discord if any learners are apprehensive about coming.\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/King_Black_Dragon/Strategies) or a video guide [here](https://www.youtube.com/watch?v=tak1OoQG7nY).",
