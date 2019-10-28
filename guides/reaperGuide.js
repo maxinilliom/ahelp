@@ -828,7 +828,7 @@ exports.data = {
             },
         "timestamp": "2001-01-04T12:00:00Z"
         },
-    "kalphite king": {
+    "kalphite king pt1": {
             "title": "Kalphite King",
             "author": {
                 "name": "Boss Reaper Kill Info",
