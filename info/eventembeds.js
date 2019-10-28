@@ -2795,6 +2795,43 @@
          }
       ]
    },
+    "vindicta gojess": {  
+      "title":"Preparation:",
+      "description":"All are welcome! We will be teaching how to do the boss on Discord if any learners are apprehensive about coming.\n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Vindicta/Strategies) or a video guide [here](https://www.youtube.com/watch?v=sI3Br9-cD6c).",
+      "footer":{  
+         "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
+         "text":"All events brought to you by the `Alright` clan! (https://alright.page/discord)"
+      },
+      "thumbnail":{  
+         "url":"https://vignette.wikia.nocookie.net/runescape2/images/f/f3/Vindicta.png/revision/latest?cb=20160402205923"
+      },
+      "author":{  
+         "name":"Vindicta Mass Community Event",
+         "icon_url":"https://i.imgur.com/6c6q2iC.png"
+      },
+      "fields":[  
+         {  
+            "name":"Where:",
+            "value":"The southwest section of the [Heart of Gielinor](https://runescape.wiki/w/Heart_of_Gielinor), World 68 in the \"Friendliness\" friends chat."
+         },
+         {  
+            "name":"Why:",
+            "value":"To assist everyone who needs [Vindicta](https://runescape.wiki/w/Vindicta) for:\n\n• Their [Reaper Crew](https://runescape.wiki/w/Reaper_Crew) achievement\n• Their [Final Boss](https://runescape.wiki/w/Final_Boss) title\n• Their [Insane Final Boss](https://runescape.wiki/w/Insane_Final_Boss) title\n• Completing their [Revenge Is Sweet](https://runescape.wiki/w/Revenge_Is_Sweet) achievement\n(Obtained a collection of unique drops from Vindicta/[Gorvek](https://runescape.wiki/w/Gorvek).)\n• Completing their [Vindictive and Vexatious](https://runescape.wiki/w/Vindictive_and_Vexatious) achievement\n(Defeat Vindicta and Gorvek 5, 10, 25, 50, 75, and 100 times, depending on the tier.)"
+         },
+         {  
+            "name":"Who:",
+            "value":"<@116331205653299201> and <@349581235951108098>"
+         },
+         {  
+            "name":"What is Needed:",
+            "value":"• Any gear is permitted. [Tier](https://runescape.wiki/w/Equipment_tier) 70+ armor and weapon are recommended and appreciated, though not required. The better the tier, the better chance you have of surviving and the faster the kills.\n• Level 80 [Attack](https://runescape.wiki/w/Attack) is required to fight her."
+         },
+         {  
+            "name":"How Drops Work:",
+            "value":"Drops are dispersed via [lootshare](https://runescape.wiki/w/LootShare) to whoever is in the friend's chat. All drops are kept by their recipients."
+         }
+      ]
+   },
     "vindicta solve": {  
       "title":"Preparation:",
       "description":"All are welcome! \n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Vindicta/Strategies) or a video guide [here](https://www.youtube.com/watch?v=sI3Br9-cD6c).",
