@@ -228,6 +228,39 @@
         }
       ]
     },
+    "Clan Wars White Portal Solve": {  
+      "title":"Preparation:",
+      "description":"All are welcome! \n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Clan_Wars#White_portal).",
+      "footer":{  
+         "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
+         "text":"All events brought to you by the `Alright` clan! (https://alright.page/discord)"
+      },
+      "thumbnail":{  
+         "url":"https://runescape.wiki/w/Clan_Wars#/media/File:Free_for_all_(safe_portal).png"
+      },
+      "author":{  
+         "name":"Clan Wars White Portal Community Event",
+         "icon_url":"https://i.imgur.com/6c6q2iC.png"
+      },
+      "fields":[  
+         {  
+            "name":"​Where:",
+            "value":"[Gamers' Grotto](https://runescape.wiki/w/Gamers%27_Grotto), World 68, in the \"AHelp\" friends chat."
+         },
+         {  
+            "name":"​Why:",
+            "value":"To assist everyone who needs to unlock the [music](https://runescape.wiki/w/Music) track and for those who just want to have fun."
+         },
+         {  
+            "name":"​Who:",
+            "value":"<@113770763261181961>, <@154378413375881216>, their [Achievement Help](https://www.discord.gg/uUUMPbd) Discord team, and their [Alright](https://discord.gg/KwysmXr) clan."
+         },
+         {  
+            "name":"​What is Needed:",
+           "value":"This is a safe minigame.  Any gear is permitted. [Tier](https://runescape.wiki/w/Equipment_tier) 70+ armor and weapon are recommended, though not required. The better the tier, the better chance you have of surviving."
+         }
+      ]
+   },
     "clue scrolls": {  
       "title":"What Are Clue Scrolls?:",
       "description": "A Clue scroll sends the player on [Treasure Trails](https://runescape.wiki/w/Treasure_Trails), a series of clues leading towards a buried treasure. Clue scrolls can be randomly dropped by various [monsters](https://runescape.wiki/w/Bestiary), found while pickpocketing [H.A.M. Members](https://runescape.wiki/w/H.A.M._Member) and [Elven clan workers](https://runescape.wiki/w/Elven_clan_worker), looted from a [Treasure chest decoration](https://runescape.wiki/w/Treasure_chest_decoration), [Managing Miscellania](https://runescape.wiki/w/Managing_Miscellania) [rewards](https://runescape.wiki/w/Managing_Miscellania#Rewards) coffer, or purchased with [Thaler](https://runescape.wiki/w/Thaler) or [Treasure Trail points](https://runescape.wiki/w/Treasure_Trails_Reward_Shop#Treasure_Trail_Points). Players will only be able to open one [sealed clue scroll](https://runescape.wiki/w/Sealed_clue_scroll) if they do not already have one of the same type active in their inventory or bank.\n\nSealed clue scrolls can also be obtained from Fishing, Mining, Woodcutting, or Divination. The tier of clue scroll players receive is weighted based on their level of the activity, with elites appearing at level 60 training methods and higher. There is always a 1% chance for a sealed elite clue to upgrade to a [sealed master clue](https://runescape.wiki/w/Sealed_clue_scroll_(master). This can, however, be boosted to a 2% chance if the invention perk [Prosper](https://runescape.wiki/w/Prosper) is in use.",
