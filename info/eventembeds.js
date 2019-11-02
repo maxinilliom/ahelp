@@ -228,7 +228,7 @@
         }
       ]
     },
-    "Clan Wars White Portal Solve": {  
+    "clan wars white portal solve": {  
       "title":"Preparation:",
       "description":"All are welcome! \n\nYou may prepare for the event by viewing the written guide [here](https://runescape.wiki/w/Clan_Wars#White_portal).",
       "footer":{  
