@@ -356,7 +356,7 @@
       "fields":[  
          {  
             "name":"Where:",
-            "value":"The [Alright](https://discord.gg/KwysmXr) Clan's Discord Server.  A fashionscape channel will be created for the event."
+            "value":"The [Alright](https://discord.gg/hDfHXTJ) Clan's Discord Server.  A fashionscape channel will be created for the event."
          },
          {  
             "name":"Why:",
@@ -1027,7 +1027,7 @@
 
     "secret santa": {  
       "title":"Preparation:",
-      "description":"Clan Members and Honored Guests may signup in the [Alright](https://discord.gg/KwysmXr) Clan's Discord by December 3rd if they wish to participate.",
+      "description":"Clan Members and Honored Guests may signup in the [Alright](https://discord.gg/hDfHXTJ) Clan's Discord by December 2nd if they wish to participate.",
       "footer":{  
          "icon_url":"https://cdn.discordapp.com/attachments/477252880823353360/486592536337580063/okay3.png",
          "text":"All events brought to you by the `Alright` clan! (https://alright.page/discord)"
@@ -1046,7 +1046,7 @@
          },
          {  
             "name":"How:",
-            "value":"After registering for the event, you will be given the name of your recipient on December 4th.  After buying or making your gift, please trade it to any of the Leaders.  Please keep gifts under 25m.  Gifts will be distributed the week of December 21st through the end of the year."
+            "value":"After registering for the event, you will be given the name of your recipient on December 3rd.  After buying or making your gift, please trade it to any of the Leaders.  Please keep gifts under 25m.  Gifts will be distributed the week of December 15th."
          },
          {  
             "name":"What is Needed:",
