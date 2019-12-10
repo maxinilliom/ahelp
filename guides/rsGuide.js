@@ -6791,6 +6791,9 @@ exports.data = {
         "value": "• [Source Of Denial Achievement Guide (Image) | Junglebiscuit](http://junglebiscuit.com/wp-content/uploads/2017/09/e89b729f0b1.jpg)"
       }
     ],
+    "image": {
+      "url": "https://i.imgur.com/8u2DagS.gif"
+    },
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
       "text": "RuneScore awarded: 10"
