@@ -3134,6 +3134,9 @@ exports.data = {
     "thumbnail": {
       "url": "https://i.imgur.com/Shmagnp.png"
     },
+    "image": {
+      "url": "https://i.imgur.com/704JuQB.png"
+    },
     "fields": [{
         "name": "​",
         "value": "The strategy throughout the fight should be to cycle between the [anticipation](https://runescape.wiki/w/Anticipation) and [freedom](https://runescape.wiki/w/Freedom) [defensive](https://runescape.wiki/w/Abilities#Defence) [abilities](https://runescape.wiki/w/Abilities) to avoid the [special attacks](https://runescape.wiki/w/Araxxor/Strategies#Special_attacks), whilst rotating between the [deadshot](https://runescape.wiki/w/Deadshot) and [onslaught](https://runescape.wiki/w/Onslaught) [ultimate abilities](https://runescape.wiki/w/Abilities) to deal damage. The onslaught ultimate ability is particularly strong after a special attack from Araxxor, due to the large hit-chance bonus added to ultimate abilities."
@@ -3172,7 +3175,7 @@ exports.data = {
       },
       {
         "name": "Guides:",
-        "value": "• [Strategies for Araxxor/Araxxi | Runescape Wiki](https://runescape.wiki/w/Araxxor/Strategies)\n\n• [Complete Araxxor Guide 2017 (Ranged Perspective) Guide | Trissle - YouTube](https://www.youtube.com/watch?v=O9EajnJjHbM)"
+        "value": "• [Strategies for Araxxor/Araxxi | Runescape Wiki](https://runescape.wiki/w/Araxxor/Strategies)\n\n• [8 minute Lumbridge Strikes Back | Simmerr - Streamable](https://streamable.com/t3z3w)"
       }
     ],
     "footer": {
