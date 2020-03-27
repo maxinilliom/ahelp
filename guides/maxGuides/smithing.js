@@ -338,7 +338,7 @@ exports.data = {
       },
       { 
         "name": "▬▬ Alternative Method: No Investment/Ironman ▬▬",
-        "value": "From level 89 the player can smelt [corrupted ore](https://runescape.wiki/w/Corrupted_ore). The experience from smelting this is increased by the [Trahaearn](https://runescape.wiki/w/Trahaearn_Clan)[Voice of Seren](https://runescape.wiki/w/Voice_of_Seren). The ore cannot be traded and must be mined, but there is no investment required or loss of money."
+        "value": "From level 89 the player can smelt [corrupted ore](https://runescape.wiki/w/Corrupted_ore). The experience from smelting this is increased by the [Trahaearn](https://runescape.wiki/w/Trahaearn_Clan) [Voice of Seren](https://runescape.wiki/w/Voice_of_Seren). The ore cannot be traded and must be mined, but there is no investment required or loss of money."
       }
     ]
   },
@@ -498,10 +498,6 @@ exports.data = {
     "url": "https://runescape.wiki/w/Bonus_experience_items",
     "description": "A permanent skill boost is anything caused by an item that permanently raises a player's level in one or more skills. It allows the player to do things above their current level.",
     "color": 12269891,
-    "footer": {
-      "icon_url": "https://runescape.wiki/images/8/84/Smithing.png?65e82",
-      "text": "Let's unfurl those banners!"
-    },
     "thumbnail": {
       "url": "https://runescape.wiki/images/8/8e/Blacksmith%27s_outfit_equipped.png?3e5e3"
     },
