@@ -2572,6 +2572,31 @@ exports.data = {
 			"timestamp": "2001-01-04T12:00:00Z"
 		}
 	},
+  "collectors assemble": {
+    "cmds": ["trim"],
+    "embed": {
+    "title": "Collectors Assemble",
+    "author": {
+      "name": "Cape Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[Collectors Assemble](https://runescape.wiki/w/Collectors_Assemble) is an achievement that requires the player to complete all collections for archaeological collectors.\n\nThere are 51 collections to be completed.",
+    "thumbnail": {
+      "url": "https://i.imgur.com/Shmagnp.png"
+    },
+    "fields": [
+      {
+        "name": "Requirements:",
+        "value": "• 119 Archaeology"
+      }
+    ],
+    "footer": {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+      "text": "RuneScore awarded: 0"
+    },
+    "timestamp": "2001-01-04T12:00:00Z"
+  	}
+	},
 	"complete history of droalak": {
 		"cmds": ["mqc"],
 		"embed": {
@@ -2804,6 +2829,30 @@ exports.data = {
 			"timestamp": "2001-01-04T12:00:00Z"
 		}
 	},
+  "da vinci who?": {
+    "cmds": ["comp"],
+    "embed": {
+    "title": "Da Vinci who?",
+    "author": {
+      "name": "Cape Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[Da Vinci who?](https://runescape.wiki/w/Da_Vinci_who%3F) is an achievement that requires the player to unlock the Ancient gizmo, Ancient tools, and XP Capacitor [Ancient Invention](https://runescape.wiki/w/Ancient_Invention) blueprints.",
+    "thumbnail": {
+      "url": "https://i.imgur.com/Shmagnp.png"
+    },
+    "fields": [
+      {
+        "name": "Requirements:",
+        "value": "• None"
+      }
+    ],
+    "footer": {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+      "text": "RuneScore awarded: 20"
+    },
+    "timestamp": "2001-01-04T12:00:00Z"
+  },
 	"daemonology of celerity": {
 		"cmds": ["mqc"],
 		"embed": {
@@ -3398,6 +3447,31 @@ exports.data = {
 			"timestamp": "2001-01-04T12:00:00Z"
 		}
 	},
+  "dream team": {
+    "cmds": ["trim"],
+    "embed": {
+      "title": "Dream Team",
+      "author": {
+        "name": "Cape Info",
+        "icon_url": "https://i.imgur.com/6c6q2iC.png"
+      },
+      "description": "[Dream Team](https://runescape.wiki/w/Dream_Team) is an achievement that requires the player to have a full research team and send that team off on a research contract.\n\nThree new research team members must be recruited by giving them a unique restored artefact.\n\n[Eduardo](https://runescape.wiki/w/Eduardo_(student%29) is located in the west end of the [Varrock Dig Site](https://runescape.wiki/w/Varrock_Dig_Site). He requires a [Ceremonial unicorn ornament](https://runescape.wiki/w/Ceremonial_unicorn_ornament).\n\n[Katarina](https://runescape.wiki/w/Katarina_(student%29) is located near one of the winches at the Varrock Dig Site. She requires a [Zarosian training dummy](https://runescape.wiki/w/Zarosian_training_dummy).\n\n[Dorian](https://runescape.wiki/w/Dorian_(student%29) is located near the [Empty Throne Room](https://runescape.wiki/w/Empty_Throne_Room) entrance. He requires an [Opulent wine goblet](https://runescape.wiki/w/Opulent_wine_goblet).",
+      "thumbnail": {
+        "url": "https://i.imgur.com/Shmagnp.png"
+      },
+      "fields": [
+        {
+          "name": "Requirements:",
+          "value": "• 99 Archaeology\n\n• Qualification - Grandmaster"
+        }
+      ],
+      "footer": {
+        "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+        "text": "RuneScore awarded: 50"
+      },
+      "timestamp": "2001-01-04T12:00:00Z"
+    }
+  },
 	"dusting murial": {
 		"cmds": ["mqc"],
 		"embed": {
@@ -5949,6 +6023,131 @@ exports.data = {
 			"timestamp": "2001-01-04T12:00:00Z"
 		}
 	},
+  "mastery - everlight": {
+    "cmds": ["trim"],
+    "embed": 
+      "title": "Mastery - Everlight",
+      "author": {
+        "name": "Cape Info",
+        "icon_url": "https://i.imgur.com/6c6q2iC.png"
+      },
+      "description": "[Mastery - Everlight](https://runescape.wiki/w/Mastery_-_Everlight) is an achievement that requires the player to complete all achievements in the [Everlight](https://runescape.wiki/w/Everlight) digsite.",
+      "thumbnail": {
+        "url": "https://i.imgur.com/Shmagnp.png"
+      },
+      "fields": [
+        {
+          "name": "Requirements:",
+          "value": "• ? Archaeology"
+        }
+      ],
+      "footer": {
+        "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+        "text": "RuneScore awarded: 0"
+      },
+      "timestamp": "2001-01-04T12:00:00Z"
+    }
+  },
+  "mastery - infernal source": {
+    "cmds": ["trim"],
+    "embed": {
+      "title": "Mastery - Infernal Source",
+      "author": {
+        "name": "Cape Info",
+        "icon_url": "https://i.imgur.com/6c6q2iC.png"
+      },
+      "description": "[Mastery - Infernal Source](https://runescape.wiki/w/Mastery_-_Infernal_Source) is an achievement that requires the player to complete all achievements in the [Infernal Source](https://runescape.wiki/w/Infernal_Source) digsite.",
+      "thumbnail": {
+        "url": "https://i.imgur.com/Shmagnp.png"
+      },
+      "fields": [
+        {
+          "name": "Requirements:",
+          "value": "• ? Archaeology"
+        }
+      ],
+      "footer": {
+        "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+        "text": "RuneScore awarded: 0"
+      },
+      "timestamp": "2001-01-04T12:00:00Z"
+    }
+  },
+  "mastery - kharid-et": {
+    "cmds": ["trim"],
+    "embed": {
+      "title": "Mastery - Kharid-et",
+      "author": {
+        "name": "Cape Info",
+        "icon_url": "https://i.imgur.com/6c6q2iC.png"
+      },
+      "description": "[Mastery - Kharid-et](https://runescape.wiki/w/Mastery_-_Kharid-et) is an achievement that requires the player to complete all achievements in the [Kharid-et](https://runescape.wiki/w/Kharid-et) digsite.",
+      "thumbnail": {
+        "url": "https://i.imgur.com/Shmagnp.png"
+      },
+      "fields": [
+        {
+          "name": "Requirements:",
+          "value": "• ? Archaeology"
+        }
+      ],
+      "footer": {
+        "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+        "text": "RuneScore awarded: 0"
+      },
+      "timestamp": "2001-01-04T12:00:00Z"
+    }
+  },
+  "mastery - stormguard citadel": {
+    "cmds": ["trim"],
+    "embed": {
+      "title": "Mastery - Stormguard Citadel",
+      "author": {
+        "name": "Cape Info",
+        "icon_url": "https://i.imgur.com/6c6q2iC.png"
+      },
+      "description": "[Mastery - Stormguard Citadel](https://runescape.wiki/w/Mastery_-_Stormguard_Citadel) is an achievement that requires the player to complete all achievements in the [Stormguard Citadel](https://runescape.wiki/w/Stormguard_Citadel) digsite.",
+      "thumbnail": {
+        "url": "https://i.imgur.com/Shmagnp.png"
+      },
+      "fields": [
+        {
+          "name": "Requirements:",
+          "value": "• ? Archaeology"
+        }
+      ],
+      "footer": {
+        "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+        "text": "RuneScore awarded: 0"
+      },
+      "timestamp": "2001-01-04T12:00:00Z"
+    }
+  },
+  "mastery - warforge": {
+    "cmds": ["trim"],
+    "embed": {
+      "title": "Mastery - Warforge",
+      "author": {
+        "name": "Cape Info",
+        "icon_url": "https://i.imgur.com/6c6q2iC.png"
+      },
+      "description": "[Mastery - Warforge](https://runescape.wiki/w/Mastery_-_Warforge) is an achievement that requires the player to complete all achievements in the [Warforge!](https://runescape.wiki/w/Warforge!) digsite.",
+      "thumbnail": {
+        "url": "https://i.imgur.com/Shmagnp.png"
+      },
+      "fields": [
+        {
+          "name": "Requirements:",
+          "value": "• ? Archaeology"
+        }
+      ],
+      "footer": {
+        "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+        "text": "RuneScore awarded: 0"
+      },
+      "timestamp": "2001-01-04T12:00:00Z"
+    }
+  },
 	"mazcab teleport": {
 		"cmds": ["trim"],
 		"embed": {
@@ -6499,6 +6698,135 @@ exports.data = {
 			"timestamp": "2001-01-04T12:00:00Z"
 		}
 	},
+  "mysteries - everlight": {
+    "cmds": ["mqc"],
+    "embed": {
+	    "title": "Mysteries - Everlight",
+	    "author": {
+	      "name": "Cape Info",
+	      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+	    },
+	    "description": "[Mysteries - Everlight](https://runescape.wiki/w/Mysteries_-_Everlight) is an achievement that requires the player to complete all mysteries at the [Everlight](https://runescape.wiki/w/Everlight) dig site.\n\nCompleting this achievement rewards the player with the Everlight site manager, [Vanesula Drakan](https://runescape.wiki/w/Vanescula_Drakan#Archaeology), as a consultant for their research team.\n\nThe following mysteries must be solved:\n• Fallen Angels\n• Queen of the Icyene\n• Fall and Rise\n• The door of Bable\n• The Epic of Hebe\n• Hallowed be...\n• The Everlight",
+	    "thumbnail": {
+	      "url": "https://i.imgur.com/Shmagnp.png"
+	    },
+	    "fields": [
+	      {
+	        "name": "Requirements:",
+	        "value": "• ? Archaeology"
+	      }
+	    ],
+	    "footer": {
+	      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+	      "text": "RuneScore awarded: 0"
+	    },
+	    "timestamp": "2001-01-04T12:00:00Z"
+	  }
+  },
+  "mysteries - infernal source": {
+    "cmds": ["mqc",],
+    "embed": {
+	    "title": "Mysteries - Infernal Source",
+	    "author": {
+	      "name": "Cape Info",
+	      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+	    },
+	    "description": "[Mysteries - Infernal Source](https://runescape.wiki/w/Mysteries_-_Infernal_Source) is an achievement that requires the player to complete all mysteries at the [Infernal Source](https://runescape.wiki/w/Infernal_Source) dig site.\n\nCompleting this achievement rewards the player with the Infernal Source site manager, [Movario](https://runescape.wiki/w/Movario#Archaeology), as a consultant for their research team.\n\nThe following mysteries must be solved:\n• Eyes in Their Stars\n• Embrace the Chaos\n• Contract Claws\n• Dagon Bye",
+	    "thumbnail": {
+	      "url": "https://i.imgur.com/Shmagnp.png"
+	    },
+	    "fields": [
+	      {
+	        "name": "Requirements:",
+	        "value": "• 68 Archaeology"
+	      }
+	    ],
+	    "footer": {
+	      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+	      "text": "RuneScore awarded: 0"
+	    },
+	    "timestamp": "2001-01-04T12:00:00Z"
+	  }
+  },
+  "mysteries - guild": {
+    "cmds": ["mqc", "trim"],
+    "embed": {
+	    "title": "Mysteries - Guild",
+	    "author": {
+	      "name": "Cape Info",
+	      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+	    },
+	    "description": "[Mysteries - Guild](https://runescape.wiki/w/Mysteries_-_Guild) is an achievement that requires the player to have completed the mysteries [Secrets of the Monolith](https://runescape.wiki/w/Secrets_of_the_Monolith) and [Writings on the Walls](https://runescape.wiki/w/Writings_on_the_Walls).",
+	    "thumbnail": {
+	      "url": "https://i.imgur.com/Shmagnp.png"
+	    },
+	    "fields": [
+	      {
+	        "name": "Requirements:",
+	        "value": "• 40 Archaeology\n\n• Qualification - Assistant\n• Writings on the Walls"
+	      }
+	    ],
+	    "footer": {
+	      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+	      "text": "RuneScore awarded: 0"
+	    },
+	    "timestamp": "2001-01-04T12:00:00Z"
+	  }
+  },
+  "mysteries - kharid-et": {
+    "cmds": ["mqc"],
+    "embed": {
+	    "title": "Mysteries - Kharid-et",
+	    "author": {
+	      "name": "Cape Info",
+	      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+	    },
+	    "description": "[Mysteries - Kharid-et](https://runescape.wiki/w/Mysteries_-_Kharid-et) is an achievement that requires the player to complete all mysteries at the [Kharid-et](https://runescape.wiki/w/Kharid-et) dig site.\n\nCompleting this achievement rewards the player with the Kharid-et site manager, [Dr Nabanik](https://runescape.wiki/w/Azzanadra#Dr_Nabanik), as a consultant for their research team.\n\nThe following mysteries must be solved:\n• Breaking the Seal\n• Prison Break\n• Time Served\n• The Forgotten Prisoner\n• The Cult of Orcus\n• Decimation\n• Shadow Fall\n• The Vault of Shadows",
+	    "thumbnail": {
+	      "url": "https://i.imgur.com/Shmagnp.png"
+	    },
+	    "fields": [
+	      {
+	        "name": "Requirements:",
+	        "value": "• 107 Archaeology"
+	      }
+	    ],
+	    "footer": {
+	      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+	      "text": "RuneScore awarded: 0"
+	    },
+	    "timestamp": "2001-01-04T12:00:00Z"
+	  }
+  },
+  "mysteries - stormguard citadel": {
+    "cmds": ["mqc"],
+    "embed": {
+	    "title": "Mysteries - Stormguard Citadel",
+	    "author": {
+	      "name": "Cape Info",
+	      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+	    },
+	    "description": "[Mysteries - Stormguard Citadel](https://runescape.wiki/w/Mysteries_-_Stormguard_Citadel) is an achievement that requires the player to complete all mysteries at the [Stormguard Citadel](https://runescape.wiki/w/Stormguard_Citadel) dig site.\n\nCompleting this achievement rewards the player with the Everlight site manager, [Gee'ka](https://runescape.wiki/w/Gee%27ka#Archaeology), as a consultant for their research team.\n\nThe following mysteries must be solved:\n• Atonement\n• Leap of Faith\n• The Spy Who Loved Metal\n• Wing Out\n• A Study in Aether\n• Howl's Floating Workshop",
+	    "thumbnail": {
+	      "url": "https://i.imgur.com/Shmagnp.png"
+	    },
+	    "fields": [
+	      {
+	        "name": "Requirements:",
+	        "value": "• 95 Archaeology"
+	      }
+	    ],
+	    "footer": {
+	      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+	      "text": "RuneScore awarded: 0"
+	    },
+	    "timestamp": "2001-01-04T12:00:00Z"
+	  }
+  },
+  "mysteries - warforge": {
+    "cmds": ["mqc"],
+    "embed": 
+  },
 	"mysteries of the tokhaar": {
 		"cmds": ["mqc"],
 		"embed": {
@@ -7480,6 +7808,31 @@ exports.data = {
 			"timestamp": "2001-01-04T12:00:00Z"
 		}
 	},
+  "qualification - grandmaster": {
+    "cmds": ["comp"],
+    "embed": {
+	    "title": "Qualification - Guildmaster",
+	    "author": {
+	      "name": "Cape Info",
+	      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+	    },
+	    "description": "[Qualification - Guildmaster](https://runescape.wiki/w/Qualification_-_Guildmaster) is an achievement that requires the player to complete specific achievements and attend the qualification ceremony.\n\nCompleting this achievement rewards the player with an increased research team size of 5, access to research professors, [Guildmaster rewards](https://runescape.wiki/w/Archaeology_Guild_Shop#Guildmaster) in the [Archaeology Reward Shop](https://runescape.wiki/w/Archaeology_Guild_Shop), and the title:\n**[Name] the Archaeology Guildmaster**.",
+	    "thumbnail": {
+	      "url": "https://i.imgur.com/Shmagnp.png"
+	    },
+	    "fields": [
+	      {
+	        "name": "Requirements:",
+	        "value": "• 99 Archaeology\n\n• Qualification - Professor\n• Excavated 1,000 damaged artefacts\n• Restored 1,000 damaged artefacts\n• Completed 25 unique archaeological collections\n• Solve 20 of Gielinor's greatest mysteries\n• 168 Hours of research team field studies completed"
+	      }
+	    ],
+	    "footer": {
+	      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+	      "text": "RuneScore awarded: 75"
+	    },
+	    "timestamp": "2001-01-04T12:00:00Z"
+	  }
+  },
 	"quiet but deadly lore": {
 		"cmds": ["mqc", "trim"],
 		"embed": {
@@ -7619,6 +7972,156 @@ exports.data = {
 			"timestamp": "2001-01-04T12:00:00Z"
 		}
 	},
+  "research - everlight": {
+    "cmds": ["mqc"],
+    "embed": {
+      "title": "Research - Everlight",
+      "author": {
+        "name": "Cape Info",
+        "icon_url": "https://i.imgur.com/6c6q2iC.png"
+      },
+      "description": "[Research - Everlight](https://runescape.wiki/w/Research_-_Everlight) is an achievement that requires the player to have completed all research in the [Everlight](https://runescape.wiki/w/Everlight) digsite.\n\nThe following research must be studied:\n• Lions and Unicorns and Centaurs, Oh My!\n• Ode to a Midsummer Morning\n• Stadio Ga Ga\n• Home, Sweet Home\n• Ground of the Polis\n• Battle of Optimatoi\n• Like Clockwork",
+      "thumbnail": {
+        "url": "https://i.imgur.com/Shmagnp.png"
+      },
+      "fields": [
+        {
+          "name": "Requirements:",
+          "value": "• 105 Archaeology"
+        }
+      ],
+      "footer": {
+        "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+        "text": "RuneScore awarded: 0"
+      },
+      "timestamp": "2001-01-04T12:00:00Z"
+    }
+  },
+  "research - guild": {
+    "cmds": ["mqc", "trim"],
+    "embed": {
+      "title": "Research - Guild",
+      "author": {
+        "name": "Cape Info",
+        "icon_url": "https://i.imgur.com/6c6q2iC.png"
+      },
+      "description": "[Research - Guild](https://runescape.wiki/w/Research_-_Guild) is an achievement that requires the player to have completed all research in the [Archaeology Guild](https://runescape.wiki/w/Archaeology_Guild).",
+      "thumbnail": {
+        "url": "https://i.imgur.com/Shmagnp.png"
+      },
+      "fields": [
+        {
+          "name": "Requirements:",
+          "value": "• ? Archaeology"
+        }
+      ],
+      "footer": {
+        "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+        "text": "RuneScore awarded: 0"
+      },
+      "timestamp": "2001-01-04T12:00:00Z"
+    }
+  },
+  "research - infernal source": {
+    "cmds": ["mqc"],
+    "embed": {
+      "title": "Research - Infernal Source",
+      "author": {
+        "name": "Cape Info",
+        "icon_url": "https://i.imgur.com/6c6q2iC.png"
+      },
+      "description": "[Research - Infernal Source](https://runescape.wiki/w/Research_-_Infernal_Source) is an achievement that requires the player to have completed all research in the [Infernal Source](https://runescape.wiki/w/Infernal_Source) digsite.\n\nThe following research must be studied:\n• Starry Eyed\n• The Dark Underbelly\n• Abandon All Hope\n• Deeper and Down\n• Who Dis?\n• Hell Mouths",
+      "thumbnail": {
+        "url": "https://i.imgur.com/Shmagnp.png"
+      },
+      "fields": [
+        {
+          "name": "Requirements:",
+          "value": "• 98 Archaeology"
+        }
+      ],
+      "footer": {
+        "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+        "text": "RuneScore awarded: 0"
+      },
+      "timestamp": "2001-01-04T12:00:00Z"
+    }
+  },
+  "research - kharid-et": {
+    "cmds": ["mqc"],
+    "embed": {
+      "title": "Research - Kharid-et",
+      "author": {
+        "name": "Cape Info",
+        "icon_url": "https://i.imgur.com/6c6q2iC.png"
+      },
+      "description": "[Research - Kharid-et](https://runescape.wiki/w/Research_-_Kharid-et) is an achievement that requires the player to have completed all research in the [Kharid-et](https://runescape.wiki/w/Kharid-et) digsite.\n\nThe following research must be studied:\n• Demon Door\n• Proving Grounds\n• Cell, a Door\n• Requiescat in Pace\n• Where There's Smoke\n• Shadow Play\n• Lockdown",
+      "thumbnail": {
+        "url": "https://i.imgur.com/Shmagnp.png"
+      },
+      "fields": [
+        {
+          "name": "Requirements:",
+          "value": "• 107 Archaeology"
+        }
+      ],
+      "footer": {
+        "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+        "text": "RuneScore awarded: 0"
+      },
+      "timestamp": "2001-01-04T12:00:00Z"
+    }
+  },
+  "research - stormguard citadel": {
+    "cmds": ["mqc"],
+    "embed": {
+      "title": "Research - Stormguard Citadel",
+      "author": {
+        "name": "Cape Info",
+        "icon_url": "https://i.imgur.com/6c6q2iC.png"
+      },
+      "description": "[Research - Stormguard Citadel](https://runescape.wiki/w/Research_-_Stormguard_Citadel) is an achievement that requires the player to have completed all research in the [Stormguard Citadel](https://runescape.wiki/w/Stormguard_Citadel) digsite.\n\nThe following research must be studied:\n• Ikovian Tragedy\n• Deer-ly Departed\n• The Aetherium Giant\n• Night and Day\n• Howling Man\n• Back to the Drawing Board",
+      "thumbnail": {
+        "url": "https://i.imgur.com/Shmagnp.png"
+      },
+      "fields": [
+        {
+          "name": "Requirements:",
+          "value": "• ? Archaeology"
+        }
+      ],
+      "footer": {
+        "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+        "text": "RuneScore awarded: 0"
+      },
+      "timestamp": "2001-01-04T12:00:00Z"
+    }
+  },
+  "research - warforge": {
+    "cmds": ["mqc"],
+    "embed": {
+      "title": "Research - Warforge",
+      "author": {
+        "name": "Cape Info",
+        "icon_url": "https://i.imgur.com/6c6q2iC.png"
+      },
+      "description": "[Research - Warforge](https://runescape.wiki/w/Research_-_Warforge) is an achievement that requires the player to have completed all research in the [Warforge](https://runescape.wiki/w/Warforge!) digsite.\n\nThe following research must be studied:\n• Melting Point\n• Too Many Bones\n• Northside\n• Dwarven Forge\n• Big High War Chest\n• Power Behind the Throne",
+      "thumbnail": {
+        "url": "https://i.imgur.com/Shmagnp.png"
+      },
+      "fields": [
+        {
+          "name": "Requirements:",
+          "value": "• ? Archaeology"
+        }
+      ],
+      "footer": {
+        "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+        "text": "RuneScore awarded: 0"
+      },
+      "timestamp": "2001-01-04T12:00:00Z"
+    }
+  },
 	"respect the balance": {
 		"cmds": ["mqc"],
 		"embed": {
@@ -8995,6 +9498,31 @@ exports.data = {
 			"timestamp": "2001-01-04T12:00:00Z"
 		}
 	},
+  "the prodigial spender": {
+    "cmds": ["trim"],
+    "embed": {
+      "title": "The Prodigal Spender",
+      "author": {
+        "name": "Cape Info",
+        "icon_url": "https://i.imgur.com/6c6q2iC.png"
+      },
+      "description": "[The Prodigal Spender](https://runescape.wiki/w/The_Prodigal_Spender) is an achievement that requires the player to purchase all permanent unlocks from [Ezreal](https://runescape.wiki/w/Ezreal)'s [Archaeology Guild Shop](https://runescape.wiki/w/Archaeology_Guild_Shop).\n\nThe total cost of all unlocks is 1,024,500 [Chronotes](https://runescape.wiki/w/Chronotes).",
+      "thumbnail": {
+        "url": "https://i.imgur.com/Shmagnp.png"
+      },
+      "fields": [
+        {
+          "name": "Requirements:",
+          "value": "• 99 Archaeology\n\n• Qualification - Grandmaster"
+        }
+      ],
+      "footer": {
+        "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+        "text": "RuneScore awarded: 30"
+      },
+      "timestamp": "2001-01-04T12:00:00Z"
+    }
+  },
 	"three's a kiln": {
 		"cmds": ["mqc"],
 		"embed": {
