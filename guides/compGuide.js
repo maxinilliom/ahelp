@@ -6025,7 +6025,7 @@ exports.data = {
 	},
   "mastery - everlight": {
     "cmds": ["trim"],
-    "embed": 
+    "embed": {
       "title": "Mastery - Everlight",
       "author": {
         "name": "Cape Info",
