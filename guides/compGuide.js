@@ -6825,7 +6825,28 @@ exports.data = {
   },
   "mysteries - warforge": {
     "cmds": ["mqc"],
-    "embed": 
+    "embed": {
+	    "title": "Mysteries - Warforge",
+	    "author": {
+	      "name": "Cape Info",
+	      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+	    },
+	    "description": "[Mysteries - Warforge](https://runescape.wiki/w/Mysteries_-_Warforge) is an achievement that requires the player to complete all mysteries at the [Warforge!](https://runescape.wiki/w/Warforge!) dig site.\n\nCompleting this achievement rewards the player with the Everlight site manager, [Zanik](https://runescape.wiki/w/Zanik#Archaeology), as a consultant for their research team.\n\nThe following mysteries must be solved:\n• The First Commander\n• Out of the Crucible\n• Forge War!\n• Into the Forge\n• You Have Chosen...\n• Heart of the Forge",
+	    "thumbnail": {
+	      "url": "https://i.imgur.com/Shmagnp.png"
+	    },
+	    "fields": [
+	      {
+	        "name": "Requirements:",
+	        "value": "• ? Archaeology"
+	      }
+	    ],
+	    "footer": {
+	      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+	      "text": "RuneScore awarded: 0"
+	    },
+	    "timestamp": "2001-01-04T12:00:00Z"
+	  }
   },
 	"mysteries of the tokhaar": {
 		"cmds": ["mqc"],
