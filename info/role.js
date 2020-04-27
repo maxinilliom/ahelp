@@ -134,7 +134,7 @@ exports.data = {
       },
        {
         "name": "​",
-        "value": ":regional_indicator_z: **<@&509477144498274324>**\n• **When to tag:** If you are looking to complete the achievement Dragonstone, Dragonstone, Dragonstone, and would like to have the armour set temporarily traded to you.\n\n• Not returning these items will result in a ban from the server.\n\n• **When to join:** If you are in possession of the Dragonstone Armour, and would like to help others who are looking to complete the achievement.\n\n:abc: **<@&509477311566053392>**\n• **When to tag:** If you have an Elite (Super) Cow spawn.\n\n• **When to join:** If you would like to be notified when someone has an Elite (Super) Cow spawn."
+        "value": ":regional_indicator_z: **<@&509477144498274324>**\n• **When to tag:** If you are looking to complete an achievement which requires an armour set. Someone with this role may be able to temporarily trade the set to you.\n\n• Not returning these items will result in a ban from the server.\n\n• **When to join:** If you are in possession of the Dragonstone armour, Bane armour, Chaos armour, or Dagon'hai robes set(s) and would like to help others who are looking to complete the achievement.\n\n:abc: **<@&509477311566053392>**\n• **When to tag:** If you have an Elite (Super) Cow spawn.\n\n• **When to join:** If you would like to be notified when someone has an Elite (Super) Cow spawn."
       },
         {
         "name": "​",
