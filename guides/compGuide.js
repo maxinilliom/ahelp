@@ -3450,21 +3450,20 @@ exports.data = {
   "dream team": {
     "cmds": ["trim"],
     "embed": {
-      "title": "Dream Team",
+      "title": "Dream Team (Skills, Archaeology)",
       "author": {
         "name": "Cape Info",
         "icon_url": "https://i.imgur.com/6c6q2iC.png"
       },
-      "description": "[Dream Team](https://runescape.wiki/w/Dream_Team) is an achievement that requires the player to have a full research team and send that team off on a research contract.\n\nThree new research team members must be recruited by giving them a unique restored artefact.\n\n[Eduardo](https://runescape.wiki/w/Eduardo_(student%29) is located in the west end of the [Varrock Dig Site](https://runescape.wiki/w/Varrock_Dig_Site). He requires a [Ceremonial unicorn ornament](https://runescape.wiki/w/Ceremonial_unicorn_ornament).\n\n[Katarina](https://runescape.wiki/w/Katarina_(student%29) is located near one of the winches at the Varrock Dig Site. She requires a [Zarosian training dummy](https://runescape.wiki/w/Zarosian_training_dummy).\n\n[Dorian](https://runescape.wiki/w/Dorian_(student%29) is located near the [Empty Throne Room](https://runescape.wiki/w/Empty_Throne_Room) entrance. He requires an [Opulent wine goblet](https://runescape.wiki/w/Opulent_wine_goblet).",
+      "description": "[Dream Team](https://runescape.wiki/w/Dream_Team) is an achievement that requires the player to have a full [Research](https://runescape.wiki/w/Research) team of all 5 consultants and send that team off on a research contract.\n\nTo get all five dig site managers as consultants, players need to complete all mysteries from the respective dig site.",
       "thumbnail": {
         "url": "https://i.imgur.com/Shmagnp.png"
       },
       "fields": [
         {
           "name": "Requirements:",
-          "value": "• 99 Archaeology\n\n• Qualification - Grandmaster"
-        }
-      ],
+          "value": "• 110 Archaeology\n\n• Mysteries - Everlight\n• Mysteries - Infernal Source\n• Mysteries - Kharid-et\n• Mysteries - Stormguard Citadel\n• Mysteries - Warforge"
+        }],
       "footer": {
         "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
         "text": "RuneScore awarded: 50"
@@ -6706,14 +6705,14 @@ exports.data = {
         "name": "Cape Info",
         "icon_url": "https://i.imgur.com/6c6q2iC.png"
       },
-      "description": "[Mysteries - Everlight](https://runescape.wiki/w/Mysteries_-_Everlight) is an achievement that requires the player to complete all mysteries at the [Everlight](https://runescape.wiki/w/Everlight) dig site.\n\nCompleting this achievement rewards the player with the Everlight site manager, [Vanesula Drakan](https://runescape.wiki/w/Vanescula_Drakan#Archaeology), as a consultant for their research team.\n\nThe following mysteries must be solved:\n• Fallen Angels\n• Queen of the Icyene\n• Fall and Rise\n• The door of Bable\n• The Epic of Hebe\n• Hallowed be...\n• The Everlight",
+      "description": "[Mysteries - Everlight](https://runescape.wiki/w/Mysteries_-_Everlight) is an achievement that requires the player to complete all mysteries at the [Everlight](https://runescape.wiki/w/Everlight) dig site.\n\nCompleting this achievement rewards the player with the Everlight site manager, [Vanesula Drakan](https://runescape.wiki/w/Vanescula_Drakan#Archaeology), as a consultant for their [Research](https://runescape.wiki/w/Research) team.",
       "thumbnail": {
-        "url": "https://i.imgur.com/Shmagnp.png"
+        "url": "https://i.imgur.com/JpAhdYc.png"
       },
       "fields": [
         {
           "name": "Requirements:",
-          "value": "• ? Archaeology"
+          "value": "• 105 Archaeology\n\n• Fallen Angels Mystery completion | [Runescape Wiki](https://runescape.wiki/w/Fallen_Angels)\n• Queen of the Icyene Mystery completion | [Runescape Wiki](https://runescape.wiki/w/Queen_of_the_Icyene)\n• Fall and Rise Mystery completion | [Runescape Wiki](https://runescape.wiki/w/Fall_and_Rise)\n• The Dour of Bable Mystery completion | [Runescape Wiki](https://runescape.wiki/w/The_Dour_of_Bable)\n• The Epic of Hebe Mystery completion | [Runescape Wiki](https://runescape.wiki/w/The_Epic_of_Hebe)\n• Hallowed be... Mystery completion | [Runescape Wiki](https://runescape.wiki/w/Hallowed_Be...)\n• The Everlight Mystery completion | [Runescape Wiki](https://runescape.wiki/w/The_Everlight)"
         }
       ],
       "footer": {
@@ -6731,14 +6730,14 @@ exports.data = {
         "name": "Cape Info",
         "icon_url": "https://i.imgur.com/6c6q2iC.png"
       },
-      "description": "[Mysteries - Infernal Source](https://runescape.wiki/w/Mysteries_-_Infernal_Source) is an achievement that requires the player to complete all mysteries at the [Infernal Source](https://runescape.wiki/w/Infernal_Source) dig site.\n\nCompleting this achievement rewards the player with the Infernal Source site manager, [Movario](https://runescape.wiki/w/Movario#Archaeology), as a consultant for their research team.\n\nThe following mysteries must be solved:\n• Eyes in Their Stars\n• Embrace the Chaos\n• Contract Claws\n• Dagon Bye",
+      "description": "[Mysteries - Infernal Source](https://runescape.wiki/w/Mysteries_-_Infernal_Source) is an achievement that requires the player to complete all mysteries at the [Infernal Source](https://runescape.wiki/w/Infernal_Source) dig site.\n\nCompleting this achievement rewards the player with the Infernal Source site manager, [Movario](https://runescape.wiki/w/Movario#Archaeology), as a consultant for their [Research](https://runescape.wiki/w/Research) team.\n\nIronmen accounts will need level 49 [Farming](https://runescape.wiki/w/Farming) as well as [Bringing Home the Bacon](https://runescape.wiki/w/Bringing_Home_the_Bacon) quest completion for the Contract Claws mystery.",
       "thumbnail": {
-        "url": "https://i.imgur.com/Shmagnp.png"
+        "url": "https://i.imgur.com/8jTCaYC.png"
       },
       "fields": [
         {
           "name": "Requirements:",
-          "value": "• 68 Archaeology"
+          "value": "• 68 Archaeology\n\n• Eyes in Their Stars Mystery completion | [Runescape Wiki](https://runescape.wiki/w/Eyes_in_Their_Stars)\n• Embrace the Chaos Mystery completion | [Runescape Wiki](https://runescape.wiki/w/Embrace_the_Chaos)\n• Contract Claws Mystery completion | [Runescape Wiki](https://runescape.wiki/w/Contract_Claws)\n• Dagon Bye Mystery completion | [Runescape Wiki](https://runescape.wiki/w/Dagon_Bye)"
         }
       ],
       "footer": {
@@ -6758,12 +6757,12 @@ exports.data = {
       },
       "description": "[Mysteries - Guild](https://runescape.wiki/w/Mysteries_-_Guild) is an achievement that requires the player to have completed the mysteries [Secrets of the Monolith](https://runescape.wiki/w/Secrets_of_the_Monolith) and [Writings on the Walls](https://runescape.wiki/w/Writings_on_the_Walls).",
       "thumbnail": {
-        "url": "https://i.imgur.com/Shmagnp.png"
+        "url": "https://i.imgur.com/tFKmafh.png"
       },
       "fields": [
         {
           "name": "Requirements:",
-          "value": "• 40 Archaeology\n\n• Qualification - Assistant\n• Writings on the Walls"
+          "value": "• 99 Archaeology\n\n• Qualification - Guildmaster"
         }
       ],
       "footer": {
@@ -6781,14 +6780,14 @@ exports.data = {
         "name": "Cape Info",
         "icon_url": "https://i.imgur.com/6c6q2iC.png"
       },
-      "description": "[Mysteries - Kharid-et](https://runescape.wiki/w/Mysteries_-_Kharid-et) is an achievement that requires the player to complete all mysteries at the [Kharid-et](https://runescape.wiki/w/Kharid-et) dig site.\n\nCompleting this achievement rewards the player with the Kharid-et site manager, [Dr Nabanik](https://runescape.wiki/w/Azzanadra#Dr_Nabanik), as a consultant for their research team.\n\nThe following mysteries must be solved:\n• Breaking the Seal\n• Prison Break\n• Time Served\n• The Forgotten Prisoner\n• The Cult of Orcus\n• Decimation\n• Shadow Fall\n• The Vault of Shadows",
+      "description": "[Mysteries - Kharid-et](https://runescape.wiki/w/Mysteries_-_Kharid-et) is an achievement that requires the player to complete all mysteries at the [Kharid-et](https://runescape.wiki/w/Kharid-et) dig site.\n\nCompleting this achievement rewards the player with the Kharid-et site manager, [Dr Nabanik](https://runescape.wiki/w/Azzanadra#Dr_Nabanik), as a consultant for their [Research](https://runescape.wiki/w/Research) team.",
       "thumbnail": {
-        "url": "https://i.imgur.com/Shmagnp.png"
+        "url": "https://i.imgur.com/pFf7YzE.png"
       },
       "fields": [
         {
           "name": "Requirements:",
-          "value": "• 107 Archaeology"
+          "value": "• 107 Archaeology\n\n• Breaking the Seal Mystery completion | [Runescape Wiki](https://runescape.wiki/w/Breaking_the_Seal)\n• Prison Break Mystery completion | [Runescape Wiki](https://runescape.wiki/w/Prison_Break_(Archaeology_achievement%29)\n• Time Served Mystery completion | [Runescape Wiki](https://runescape.wiki/w/Time_Served)\n• The Forgotten Prisoner Mystery completion | [Runescape Wiki](https://runescape.wiki/w/The_Forgotten_Prisoner)\n• The Cult of Orcus Mystery completion | [Runescape Wiki](https://runescape.wiki/w/The_Cult_of_Orcus)\n• Decimation Mystery completion | [Runescape Wiki](https://runescape.wiki/w/Decimation_(achievement%29)\n• Shadow Fall Mystery completion | [Runescape Wiki](https://runescape.wiki/w/Shadow_Fall)\n• The Vault of Shadows Mystery completion | [Runescape Wiki](https://runescape.wiki/w/The_Vault_of_Shadows)"
         }
       ],
       "footer": {
@@ -6806,14 +6805,14 @@ exports.data = {
         "name": "Cape Info",
         "icon_url": "https://i.imgur.com/6c6q2iC.png"
       },
-      "description": "[Mysteries - Stormguard Citadel](https://runescape.wiki/w/Mysteries_-_Stormguard_Citadel) is an achievement that requires the player to complete all mysteries at the [Stormguard Citadel](https://runescape.wiki/w/Stormguard_Citadel) dig site.\n\nCompleting this achievement rewards the player with the Everlight site manager, [Gee'ka](https://runescape.wiki/w/Gee%27ka#Archaeology), as a consultant for their research team.\n\nThe following mysteries must be solved:\n• Atonement\n• Leap of Faith\n• The Spy Who Loved Metal\n• Wing Out\n• A Study in Aether\n• Howl's Floating Workshop",
+      "description": "[Mysteries - Stormguard Citadel](https://runescape.wiki/w/Mysteries_-_Stormguard_Citadel) is an achievement that requires the player to complete all mysteries at the [Stormguard Citadel](https://runescape.wiki/w/Stormguard_Citadel) dig site.\n\nCompleting this achievement rewards the player with the Everlight site manager, [Gee'ka](https://runescape.wiki/w/Gee%27ka#Archaeology), as a consultant for their [Research](https://runescape.wiki/w/Research) team.",
       "thumbnail": {
-        "url": "https://i.imgur.com/Shmagnp.png"
+        "url": "https://i.imgur.com/tTxl6Nk.png"
       },
       "fields": [
         {
           "name": "Requirements:",
-          "value": "• 95 Archaeology"
+          "value": "• 95 Archaeology\n\n• Atonement Mystery completion | [Runescape Wiki](https://runescape.wiki/w/Atonement)\n• Leap of Faith Mystery completion | [Runescape Wiki](https://runescape.wiki/w/Leap_of_Faith_(Archaeology_achievement%29)\n• The Spy Who Loved Metal Mystery completion | [Runescape Wiki](https://runescape.wiki/w/The_Spy_Who_Loved_Metal)\n• Wing Out Mystery completion | [Runescape Wiki](https://runescape.wiki/w/Wing_Out)\n• A Study in Aether Mystery completion | [Runescape Wiki](https://runescape.wiki/w/A_Study_in_Aether)\n• Howl's Floating Workshop Mystery completion | [Runescape Wiki](https://runescape.wiki/w/Howl%27s_Floating_Workshop)"
         }
       ],
       "footer": {
@@ -6831,14 +6830,14 @@ exports.data = {
         "name": "Cape Info",
         "icon_url": "https://i.imgur.com/6c6q2iC.png"
       },
-      "description": "[Mysteries - Warforge](https://runescape.wiki/w/Mysteries_-_Warforge) is an achievement that requires the player to complete all mysteries at the [Warforge!](https://runescape.wiki/w/Warforge!) dig site.\n\nCompleting this achievement rewards the player with the Everlight site manager, [Zanik](https://runescape.wiki/w/Zanik#Archaeology), as a consultant for their research team.\n\nThe following mysteries must be solved:\n• The First Commander\n• Out of the Crucible\n• Forge War!\n• Into the Forge\n• You Have Chosen...\n• Heart of the Forge",
+      "description": "[Mysteries - Warforge](https://runescape.wiki/w/Mysteries_-_Warforge) is an achievement that requires the player to complete all mysteries at the [Warforge!](https://runescape.wiki/w/Warforge!) dig site.\n\nCompleting this achievement rewards the player with the Everlight site manager, [Zanik](https://runescape.wiki/w/Zanik#Archaeology), as a consultant for their [Research](https://runescape.wiki/w/Research) team.",
       "thumbnail": {
-        "url": "https://i.imgur.com/Shmagnp.png"
+        "url": "https://i.imgur.com/RjWk4Up.png"
       },
       "fields": [
         {
           "name": "Requirements:",
-          "value": "• ? Archaeology"
+          "value": "• 110 Archaeology\n• 35 Dungeoneering\n• 28 Fishing\n\n• The First Commander Mystery completion | [Runescape Wiki](https://runescape.wiki/w/The_First_Commander)\n• Out of the Crucible Mystery completion | [Runescape Wiki](https://runescape.wiki/w/Out_of_the_Crucible)\n• Into the Forge Mystery completion | [Runescape Wiki](https://runescape.wiki/w/Into_the_Forge)\n• Forge War! Mystery completion | [Runescape Wiki](https://runescape.wiki/w/Forge_War!_(achievement%29)\n• You Have Chosen... Mystery completion | [Runescape Wiki](https://runescape.wiki/w/You_Have_Chosen...)\n• Heart of the Forge Mystery completion | [Runescape Wiki](https://runescape.wiki/w/Heart_of_the_Forge)"
         }
       ],
       "footer": {
@@ -8001,9 +8000,9 @@ exports.data = {
         "name": "Cape Info",
         "icon_url": "https://i.imgur.com/6c6q2iC.png"
       },
-      "description": "[Research - Everlight](https://runescape.wiki/w/Research_-_Everlight) is an achievement that requires the player to have completed all research in the [Everlight](https://runescape.wiki/w/Everlight) digsite.\n\nThe following research must be studied:\n• Lions and Unicorns and Centaurs, Oh My!\n• Ode to a Midsummer Morning\n• Stadio Ga Ga\n• Home, Sweet Home\n• Ground of the Polis\n• Battle of Optimatoi\n• Like Clockwork",
+      "description": "[Research - Everlight](https://runescape.wiki/w/Research_-_Everlight) is an achievement that requires the player to have completed all [research](https://runescape.wiki/w/Research) in the [Everlight](https://runescape.wiki/w/Everlight) digsite.\n\nThe following research must be studied:\n• Lions and Unicorns and Centaurs, Oh My!\n• Ode to a Midsummer Morning\n• Stadio Ga Ga\n• Home, Sweet Home\n• Like Clockwork\n• Ground of the Polis\n• Battle of Optimatoi",
       "thumbnail": {
-        "url": "https://i.imgur.com/Shmagnp.png"
+        "url": "https://i.imgur.com/JpAhdYc.png"
       },
       "fields": [
         {
@@ -8026,14 +8025,14 @@ exports.data = {
         "name": "Cape Info",
         "icon_url": "https://i.imgur.com/6c6q2iC.png"
       },
-      "description": "[Research - Guild](https://runescape.wiki/w/Research_-_Guild) is an achievement that requires the player to have completed all research in the [Archaeology Guild](https://runescape.wiki/w/Archaeology_Guild).",
+      "description": "[Research - Guild](https://runescape.wiki/w/Research_-_Guild) is an achievement that requires the player to have completed all [research](https://runescape.wiki/w/Research) in the [Archaeology Guild](https://runescape.wiki/w/Archaeology_Guild).\n\nList of research:\n• Mysterious Monolith: Existence\n• Mysterious Monolith: Architecture\n• Mysterious Monolith: Symbology\n• Philosophy\n• Writings of the Walls: Kharid-et\n• Writings of the Walls: Infernal Source\n• Writings of the Walls: Everlight\n• Writings of the Walls: Stormguard\n• Writings of the Walls: Warforge",
       "thumbnail": {
-        "url": "https://i.imgur.com/Shmagnp.png"
+        "url": "https://i.imgur.com/tFKmafh.png"
       },
       "fields": [
         {
           "name": "Requirements:",
-          "value": "• ? Archaeology"
+          "value": "• 99 Archaeology\n\n• Qualification - Guildmaster"
         }
       ],
       "footer": {
@@ -8051,9 +8050,9 @@ exports.data = {
         "name": "Cape Info",
         "icon_url": "https://i.imgur.com/6c6q2iC.png"
       },
-      "description": "[Research - Infernal Source](https://runescape.wiki/w/Research_-_Infernal_Source) is an achievement that requires the player to have completed all research in the [Infernal Source](https://runescape.wiki/w/Infernal_Source) digsite.\n\nThe following research must be studied:\n• Starry Eyed\n• The Dark Underbelly\n• Abandon All Hope\n• Deeper and Down\n• Who Dis?\n• Hell Mouths",
+      "description": "[Research - Infernal Source](https://runescape.wiki/w/Research_-_Infernal_Source) is an achievement that requires the player to have completed all [research](https://runescape.wiki/w/Research) in the [Infernal Source](https://runescape.wiki/w/Infernal_Source) digsite.\n\nThe following research must be studied:\n• Abandon All Hope\n• The Dark Underbelly\n• Starry Eyed\n• Deeper and Down\n• Who Dis?\n• Hell Mouths",
       "thumbnail": {
-        "url": "https://i.imgur.com/Shmagnp.png"
+        "url": "https://i.imgur.com/8jTCaYC.png"
       },
       "fields": [
         {
@@ -8076,9 +8075,9 @@ exports.data = {
         "name": "Cape Info",
         "icon_url": "https://i.imgur.com/6c6q2iC.png"
       },
-      "description": "[Research - Kharid-et](https://runescape.wiki/w/Research_-_Kharid-et) is an achievement that requires the player to have completed all research in the [Kharid-et](https://runescape.wiki/w/Kharid-et) digsite.\n\nThe following research must be studied:\n• Demon Door\n• Proving Grounds\n• Cell, a Door\n• Requiescat in Pace\n• Where There's Smoke\n• Shadow Play\n• Lockdown",
+      "description": "[Research - Kharid-et](https://runescape.wiki/w/Research_-_Kharid-et) is an achievement that requires the player to have completed all [research](https://runescape.wiki/w/Research) in the [Kharid-et](https://runescape.wiki/w/Kharid-et) digsite.\n\nThe following research must be studied:\n• Demon Door\n• Proving Grounds\n• Cell, a Door\n• Lockdown\n• Requiescat in Pace\n• Where There's Smoke\n• Shadow Play",
       "thumbnail": {
-        "url": "https://i.imgur.com/Shmagnp.png"
+        "url": "https://i.imgur.com/pFf7YzE.png"
       },
       "fields": [
         {
@@ -8101,14 +8100,14 @@ exports.data = {
         "name": "Cape Info",
         "icon_url": "https://i.imgur.com/6c6q2iC.png"
       },
-      "description": "[Research - Stormguard Citadel](https://runescape.wiki/w/Research_-_Stormguard_Citadel) is an achievement that requires the player to have completed all research in the [Stormguard Citadel](https://runescape.wiki/w/Stormguard_Citadel) digsite.\n\nThe following research must be studied:\n• Ikovian Tragedy\n• Deer-ly Departed\n• The Aetherium Giant\n• Night and Day\n• Howling Man\n• Back to the Drawing Board",
+      "description": "[Research - Stormguard Citadel](https://runescape.wiki/w/Research_-_Stormguard_Citadel) is an achievement that requires the player to have completed all [research](https://runescape.wiki/w/Research) in the [Stormguard Citadel](https://runescape.wiki/w/Stormguard_Citadel) digsite.\n\nThe following research must be studied:\n• Ikovian Tragedy\n• Deer-ly Departed\n• Night and Day\n• Back to the Drawing Board\n• The Aetherium Giant\n• Howling Man",
       "thumbnail": {
-        "url": "https://i.imgur.com/Shmagnp.png"
+        "url": "https://i.imgur.com/tTxl6Nk.png"
       },
       "fields": [
         {
           "name": "Requirements:",
-          "value": "• ? Archaeology"
+          "value": "• 118 Archaeology"
         }
       ],
       "footer": {
@@ -8126,14 +8125,14 @@ exports.data = {
         "name": "Cape Info",
         "icon_url": "https://i.imgur.com/6c6q2iC.png"
       },
-      "description": "[Research - Warforge](https://runescape.wiki/w/Research_-_Warforge) is an achievement that requires the player to have completed all research in the [Warforge](https://runescape.wiki/w/Warforge!) digsite.\n\nThe following research must be studied:\n• Melting Point\n• Too Many Bones\n• Northside\n• Dwarven Forge\n• Big High War Chest\n• Power Behind the Throne",
+      "description": "[Research - Warforge](https://runescape.wiki/w/Research_-_Warforge) is an achievement that requires the player to have completed all [research](https://runescape.wiki/w/Research) in the [Warforge](https://runescape.wiki/w/Warforge!) digsite.\n\nThe following research must be studied:\n• Melting Point\n• Northside\n• Dwarven Forge\n• Too Many Bones\n• Power Behind the Throne\n• Big High War Chest",
       "thumbnail": {
-        "url": "https://i.imgur.com/Shmagnp.png"
+        "url": "https://i.imgur.com/RjWk4Up.png"
       },
       "fields": [
         {
           "name": "Requirements:",
-          "value": "• ? Archaeology"
+          "value": "• 119 Archaeology"
         }
       ],
       "footer": {
