@@ -11011,6 +11011,904 @@ exports.data = {
     },
     "timestamp": "2001-01-04T12:00:00Z"
   },
+  "skills - archaeology - a little overdressed": {
+    "title": "A Little Overdressed (Skills, Archaeology)",
+    "author": {
+      "name": "Cape Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[A Little Overdressed](https://runescape.wiki/w/A_Little_Overdressed) is an achievement that requires the player to equip a [Diving apparatus](https://runescape.wiki/w/Diving_apparatus) and [Fishbowl helmet](https://runescape.wiki/w/Fishbowl_helmet) when diving in Everlight.\n\nGo to the underwater cave in [Everlight](https://runescape.wiki/w/Everlight), accessible via the door near the [Acropolis](https://runescape.wiki/w/Everlight#Acropolis). In the room to the north there is a spot you can dive into, do so while wearing the fishbowl helmet and diving apparatus to unlock the achievement.\n\nIf you haven't unlocked the underwater cave yet, you can do so by placing a restored [Dominion torch](https://runescape.wiki/w/Dominion_torch) artefact into the sconce next to the door, then lighting it.",
+    "thumbnail": {
+      "url": "https://i.imgur.com/JpAhdYc.png"
+    },
+    "fields": [
+      {
+        "name": "Requirements:",
+        "value": "• 69 Archaeology\n\n• Recipe for Disaster: Freeing Pirate Pete Quest partial completion | [Runescape Wiki](https://runescape.wiki/w/Recipe_for_Disaster:_Freeing_Pirate_Pete)"
+      }],
+    "footer": {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+      "text": "RuneScore awarded: 10"
+    },
+    "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "skills - archaeology - abinnah resting here for a while": {
+    "title": "Abbinah Resting Here For a While (Skills, Archaeology)",
+    "author": {
+      "name": "Cape Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[Abbinah Resting Here For a While](https://runescape.wiki/w/Abbinah_Resting_Here_For_a_While) is an achievement that requires the player to locate all of the ancient [Aviansie](https://runescape.wiki/w/Aviansie_(race%29) spirits within [Stormguard Citadel](https://runescape.wiki/w/Stormguard_Citadel).\n\nThere are five spirits total to be found. Go to each location and click an interact-able urn to spawn the spirit. The urns are quite small on the ground so it's advised to zoom in to make them easier to see. Ensure that all dialogue is completed with each spirit before leaving.\n\nThe locations of each urn are marked on the map below. To access all of the locations for the urns the player will need to have a [Wingsuit v2](https://runescape.wiki/w/Wingsuit_v2) on the [Tool belt](https://runescape.wiki/w/Tool_belt).",
+    "thumbnail": {
+      "url": "https://i.imgur.com/tTxl6Nk.png"
+    },
+    "image": {"url": "https://i.imgur.com/PacWgV4.png"},
+    "fields": [
+      {
+        "name": "Requirements:",
+        "value": "• 76 Archaeology\n• 40 Smithing\n\n• Wing Out Mystery completion | [Runescape Wiki](https://runescape.wiki/w/Wing_Out)"
+      }],
+    "footer": {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+      "text": "RuneScore awarded: 10"
+    },
+    "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "skills - archaeology - any port in a storm": {
+    "title": "Any Port in a Storm (Skills, Archaeology)",
+    "author": {
+      "name": "Cape Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[Any Port in a Storm](https://runescape.wiki/w/Any_Port_in_a_Storm) is an achievement that requires the player to activate all of the portals at the [Stormguard Citadel](https://runescape.wiki/w/Stormguard_Citadel) dig site.\n\nThere are four portals total to be activated, each requiring 20 [Quintessence](https://runescape.wiki/w/Quintessence) to activate.\n\nThe locations of each urn are marked on the map below. To access all of the locations for the portals the player will need to have a [Wingsuit v2](https://runescape.wiki/w/Wingsuit_v2) on the [Tool belt](https://runescape.wiki/w/Tool_belt).",
+    "thumbnail": {
+      "url": "https://i.imgur.com/tTxl6Nk.png"
+    },
+    "image": {
+      "url": "https://i.imgur.com/jMCFkd2.png"
+    },
+    "fields": [
+      {
+        "name": "Requirements:",
+        "value": "• 76 Archaeology (91 if playing in Ironman mode)\n• 40 Smithing\n\n• Wing Out Mystery completion | [Runescape Wiki](https://runescape.wiki/w/Wing_Out)"
+      }],
+    "footer": {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+      "text": "RuneScore awarded: 10"
+    },
+    "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "skills - archaeology - aquatic escape": {
+    "title": "Aquatic Escape (Skills, Archaeology)",
+    "author": {
+      "name": "Cape Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[Aquatic Escape](https://runescape.wiki/w/Aquatic_Escape) is an achievement that requires the player to leave [Kharid-et](https://runescape.wiki/w/Kharid-et) by boat.",
+    "thumbnail": {
+      "url": "https://i.imgur.com/pFf7YzE.png"
+    },
+    "fields": [
+      {
+        "name": "Requirements:",
+        "value": "• 86 Archaeology\n\n• Prison Break Mystery completion | [Runescape Wiki](https://runescape.wiki/w/Prison_Break)"
+      }],
+    "footer": {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+      "text": "RuneScore awarded: 10"
+    },
+    "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "skills - archaeology - breaking the sound barrier": {
+    "title": "Breaking the Sound Barrier (Skills, Archaeology)",
+    "author": {
+      "name": "Cape Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[Breaking the Sound Barrier](https://runescape.wiki/w/Breaking_the_Sound_Barrier) is an achievement that requires the player to use the [Surge](https://runescape.wiki/w/Surge) ability while flying across the [Stormguard Citadel](https://runescape.wiki/w/Stormguard_Citadel) dig site using the [Wingsuit v1](https://runescape.wiki/w/Wingsuit_v1).\n\nThis achievement is not always unlocked on the first try. Continue using surge whilst flying until it is unlocked.",
+    "thumbnail": {
+      "url": "https://i.imgur.com/tTxl6Nk.png"
+    },
+    "fields": [
+      {
+        "name": "Requirements:",
+        "value": "• 76 Archaeology\n• 40 Smithing\n• 30 Magic\n\n• Leap of Faith Mystery completion | [Runescape Wiki](https://runescape.wiki/w/Leap_of_Faith)"
+      }],
+    "footer": {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+      "text": "RuneScore awarded: 10"
+    },
+    "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "skills - archaeology - demonic ingenuity": {
+    "title": "Demonic Ingenuity (Skills, Archaeology)",
+    "author": {
+      "name": "Cape Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[Demonic Ingenuity](https://runescape.wiki/w/Demonic_Ingenuity) is an achievement that requires the player to use a [Rock hammer](https://runescape.wiki/w/Rock_hammer) on [Ophiuchus](https://runescape.wiki/w/Ophiuchus) within the [Infernal Source](https://runescape.wiki/w/Infernal_Source).\n\nOphiuchus can be found immediately upon entering the third and final area of the Infernal Source, [The Source](https://runescape.wiki/w/Infernal_Source#The_Source). The rock hammer must be in the players inventory as having one on the [Tool belt](https://runescape.wiki/w/Tool_belt) will not work.",
+    "thumbnail": {
+      "url": "https://i.imgur.com/8jTCaYC.png"
+    },
+    "fields": [
+      {
+        "name": "Requirements:",
+        "value": "• 29 Archaeology\n\n• Embrace the Chaos Mystery completion | [Runescape Wiki](https://runescape.wiki/w/Embrace_the_Chaos)"
+      }],
+    "footer": {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+      "text": "RuneScore awarded: 25"
+    },
+    "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "skills - archaeology - die! die! die!": {
+    "title": "Die! Die! Die! (Skills, Archaeology)",
+    "author": {
+      "name": "Cape Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[Die! Die! Die!](https://runescape.wiki/w/Die!_Die!_Die!) is an achievement that requires the player to solve all of the imps puzzles within the final area of the [Infernal Source](https://runescape.wiki/w/Infernal_Source) and roll the [Infernal dice (d%)](https://runescape.wiki/w/Infernal_dice_(d%25%29).\n\nFind [Mephisto](https://runescape.wiki/w/Mephisto) the imp 6 times in [The Source](https://runescape.wiki/w/Infernal_Source#The_Source) and once in the [Dungeon of Disorder](https://runescape.wiki/w/Infernal_Source#Dungeon_of_Disorder), unbinding him by completing [slider puzzles](https://runescape.wiki/w/Slider_puzzle). He will give you a die each time which reduces the chance of the chaos portals malfunctioning within The Source, with the final one reducing the chance to 1/100 and unlocking the achievement.\n\n__Mephisto Locations:__\n• First location: The Source - Vestibule of Futility (top ring), to the east\n• Second location: The Source - The Harrowing (middle ring), to the west\n• Third location: The Source - The Harrowing (middle ring), to the south-east\n• Fourth location: Dungeon of Disorder, just outside the portal to enter the Source\n• Fifth location: The Source - Vestibule of Futility (top ring), to the north-west\n• Sixth location: The Source - Dagon Overlook (bottom ring), to the north-west\n• Seventh location: The Source - The Harrowing (middle ring), to the east",
+    "thumbnail": {
+      "url": "https://i.imgur.com/8jTCaYC.png"
+    },
+    "fields": [
+      {
+        "name": "Requirements:",
+        "value": "• 29 Archaeology\n\n• Embrace the Chaos Mystery completion | [Runescape Wiki](https://runescape.wiki/w/Embrace_the_Chaos)"
+      }],
+    "footer": {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+      "text": "RuneScore awarded: 25"
+    },
+    "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "skills - archaeology - dream team": {
+    "title": "Dream Team (Skills, Archaeology)",
+    "author": {
+      "name": "Cape Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[Dream Team](https://runescape.wiki/w/Dream_Team) is an achievement that requires the player to have a full [Research](https://runescape.wiki/w/Research) team of all 5 consultants and send that team off on a research contract.\n\nTo get all five dig site managers as consultants, players need to complete all mysteries from the respective dig site.",
+    "thumbnail": {
+      "url": "https://i.imgur.com/Shmagnp.png"
+    },
+    "fields": [
+      {
+        "name": "Requirements:",
+        "value": "• 110 Archaeology\n\n• Mysteries - Everlight\n• Mysteries - Infernal Source\n• Mysteries - Kharid-et\n• Mysteries - Stormguard Citadel\n• Mysteries - Warforge"
+      }],
+    "footer": {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+      "text": "RuneScore awarded: 50"
+    },
+    "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "skills - archaeology - eipy rreb dere voli": {
+    "title": "Eipy Rreb Dere Voli (Skills, Archaeology)",
+    "author": {
+      "name": "Cape Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[Eipy Rreb Dere Voli](https://runescape.wiki/w/Eipy_Rreb_Dere_Voli) is an achievement that requires the player to cook a [Redberry pie](https://runescape.wiki/w/Redberry_pie) within [Thalmund's forge](https://runescape.wiki/w/Thalmund%27s_Forge) in the [Warforge!](https://runescape.wiki/w/Warforge) dig site.\n\nUse the [Lunar spell](https://runescape.wiki/w/Lunar_spells) [Bake pie](https://runescape.wiki/w/Bake_pie) on an [Uncooked berry pie](https://runescape.wiki/w/Uncooked_berry_pie) to unlock this achievement. Using a [Portable range](https://runescape.wiki/w/Portable_range) will not work.\n\nPlayers can use their redberry pie to complete the [Tasty Pastry](https://runescape.wiki/w/Tasty_Pastry) achievement while still in the forge.",
+    "thumbnail": {
+      "url": "https://i.imgur.com/RjWk4Up.png"
+    },
+    "fields": [
+      {
+        "name": "Requirements:",
+        "value": "• 83 Archaeology\n• 10 Cooking\n• 65 Magic\n\n• Into the Forge Mystery completion | [Runescape Wiki](https://runescape.wiki/w/Into_the_Forge)\n• Lunar Diplomacy Quest completion | [Runescape Wiki](https://runescape.wiki/w/Lunar_Diplomacy)"
+      }],
+    "footer": {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+      "text": "RuneScore awarded: 25"
+    },
+    "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "skills - archaeology - from across the keramos": {
+    "title": "From Across the Keramos (Skills, Archaeology)",
+    "author": {
+      "name": "Cape Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[From Across the Keramos](https://runescape.wiki/w/From_Across_the_Keramos) is an achievement that requires the player to throw a [Gnomeball](https://runescape.wiki/w/Gnomeball) into one of the golden hoops at the southern tip of the [Everlight](https://runescape.wiki/w/Everlight) dig site near the [Stadio debris](https://runescape.wiki/w/Stadio_debris) [excavation hotspot](https://runescape.wiki/w/Excavation_hotspot).\n\nIt is recommended to bring multiple gnomeballs as there is a chance that the player will fail the throw. Stocking up on gnomeballs can be made easy by bringing [Magic notepaper](https://runescape.wiki/w/Magic_notepaper) or a [Pack yak](https://runescape.wiki/w/Pack_yak) familiar with [Winter storage scrolls](https://runescape.wiki/w/Winter_storage_scroll) to the [Gnome Ball](https://runescape.wiki/w/Gnome_Ball) minigame and noting or transporting each ball to the bank as you get it.\n\nThe player must score 5 points before leaving the arena with the ball to keep it. Gnomeballs are tradable but may not be sold on the [Grand Exchange](https://runescape.wiki/w/Grand_Exchange). They may be passed to other players by using the ball on them if the other player has both of their hands free. This way you can help out others going for the achievement if you have spare gnomeballs remaining after you've unlocked it.",
+    "thumbnail": {
+      "url": "https://i.imgur.com/JpAhdYc.png"
+    },
+    "fields": [
+      {
+        "name": "Requirements:",
+        "value": "• 42 Archaeology"
+      }],
+    "footer": {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+      "text": "RuneScore awarded: 10"
+    },
+    "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "skills - archaeology - goblin tutorial": {
+    "title": "Goblin Tutorial (Skills, Archaeology)",
+    "author": {
+      "name": "Cape Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[Goblin Tutorial](https://runescape.wiki/w/Goblin_Tutorial) is an achievement that requires the player to smith a [Bronze dagger](https://runescape.wiki/w/Bronze_dagger) from scratch in [Thalmund's Forge](https://runescape.wiki/w/Thalmund%27s_Forge) within the [Warforge!](https://runescape.wiki/w/Warforge) dig site.\n\nPlayers must mine 2 [Copper ores](https://runescape.wiki/w/Copper_ore) and 2 [Tin ores](https://runescape.wiki/w/Tin_ore) from the [Southern tunnels](https://runescape.wiki/w/Warforge_Dig_Site#Southern_tunnels) area then smelt the ores into 2 [Bronze bars](https://runescape.wiki/w/Bronze_bar) using the furnace inside Thalmund's Forge. Players must then use an [Anvil](https://runescape.wiki/w/Anvil) inside the forge to smith a [Bronze dagger](https://runescape.wiki/w/Bronze_dagger).",
+    "thumbnail": {
+      "url": "https://i.imgur.com/RjWk4Up.png"
+    },
+    "fields": [
+      {
+        "name": "Requirements:",
+        "value": "• 83 Archaeology"
+      }],
+    "footer": {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+      "text": "RuneScore awarded: 10"
+    },
+    "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "skills - archaeology - hey, look! over here!": {
+    "title": "Hey, Look! Over Here! (Skills, Archaeology)",
+    "author": {
+      "name": "Cape Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[Hey, Look! Over Here!](https://runescape.wiki/w/Hey,_Look!_Over_Here!) is an achievement that requires the player to achieve 100% [sprite focus](https://runescape.wiki/w/Buffs_and_debuffs#Skilling) five times without losing focus of the [Time sprite](https://runescape.wiki/w/Time_sprite).\n\nWhile excavating at any [excavation hotspot](https://runescape.wiki/w/Excavation_hotspot), keep an eye out on the time sprite, and follow it whenever it jumps to another spot (a message pops up above your head indicating so). You can keep track of the time sprite focus percentage via your buff bar. Once the buff reaches 100% 5 times in a row, you will get the achievement.\n\nExcavating at a spot that doesn't have the time sprite will deplete the focus by 2% with every action (4 ticks), and not excavating at all will deplete the focus by 1% every 10 ticks. If it reaches 0%, your progress will be reset.\n\nUnlocking this achievement can be made exceptionally easier by using [Signs of the porter](https://runescape.wiki/w/Sign_of_the_porter) to send materials to the bank, an [Auto-screener v1.080](https://runescape.wiki/w/Auto-screener_v1.080) to automatically screen soil, or simply dropping soil as you excavate.",
+    "thumbnail": {
+      "url": "https://i.imgur.com/Shmagnp.png"
+    },
+    "fields": [
+      {
+        "name": "Requirements:",
+        "value": "• 5 Archaeology (76 if playing in Ironman mode)\n\n• The Vault of Shadows Mystery completion | [Runescape Wiki](https://runescape.wiki/w/The_Vault_of_Shadows)"
+      }],
+    "footer": {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+      "text": "RuneScore awarded: 10"
+    },
+    "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "skills - archaeology - home is where the god is": {
+    "title": "Home is Where the God is (Skills, Archaeology)",
+    "author": {
+      "name": "Cape Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[Home is Where the God is](https://runescape.wiki/w/Home_is_Where_the_God_is) is an achievement that requires the player to convince [Armadyl](https://runescape.wiki/w/Armadyl) to visit the [Stormguard Citadel](https://runescape.wiki/w/Stormguard_Citadel) dig site.\n\nArmadyl can be found atop [Armadyl's Tower](https://runescape.wiki/w/Armadyl%27s_Tower) near the [Clan camp](https://runescape.wiki/w/Clan_Camp) south west of [Falador](https://runescape.wiki/w/Falador). Bring an [Aviansie dreamcoat](https://runescape.wiki/w/Aviansie_dreamcoat) and use it on him to unlock the achievement.\n\nArmadyl cannot be found at his tower during certain points in [Sliske's Endgame](https://runescape.wiki/w/Sliske%27s_Endgame). There was a bug-fix that set the quest progress to incomplete even for players who have completed the quest, so those affected need to finish the quest/replay before they can talk to Armadyl. Speaking to him in [Burthorpe Castle](https://runescape.wiki/w/Burthorpe_Castle) does not work.",
+    "thumbnail": {
+      "url": "https://i.imgur.com/tTxl6Nk.png"
+    },
+    "fields": [
+      {
+        "name": "Requirements:",
+        "value": "• 81 Archaeology\n\n• Leap of Faith Mystery completion | [Runescape Wiki](https://runescape.wiki/w/Leap_of_Faith)"
+      }],
+    "footer": {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+      "text": "RuneScore awarded: 15"
+    },
+    "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "skills - archaeology - how do you do, fellow ghost?": {
+    "title": "How Do You Do, Fellow Ghost? (Skills, Archaeology)",
+    "author": {
+      "name": "Cape Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[How Do You Do, Fellow Ghost?](https://runescape.wiki/w/How_Do_You_Do,_Fellow_Ghost%3F) is an achievement that requires the player to wear a full set of [Ghostly robes](https://runescape.wiki/w/Ghostly_robes) when talking to a [Ghost legionary](https://runescape.wiki/w/Ghost_legionary) inside the main fortress of the [Kharid-et](https://runescape.wiki/w/Kharid-et) dig site.\n\nIf you haven't unlocked a Ghost legionary inside Kharid-et you can do so by powering up the northwestern [Shadow anchor](https://runescape.wiki/w/Shadow_anchor) with ten [Pylon batteries](https://runescape.wiki/w/Pylon_battery) in your inventory, as this one will also spawn a Ghost legionary.\n\nYou will only be able to see it if you have a [Ring of visibility](https://runescape.wiki/w/Ring_of_visibility) equipped, have received [Sliske's gift](https://runescape.wiki/w/Fate_of_the_Gods#Rewards) unlocking the ability to see into the [Shadow realm](https://runescape.wiki/w/Shadow_Realm) after completion of the [Fate of the Gods](https://runescape.wiki/w/Fate_of_the_Gods) quest, or while the [Protection of Zaros](https://runescape.wiki/w/Protection_of_Zaros) buff is active after fully charging the [Pylons](https://runescape.wiki/w/Pylon_(Archaeology%29) in Kharid-et. Clicking interact on any of the Ghost legionaries with the Ghostly equipment worn will unlock the achievement.",
+    "thumbnail": {
+      "url": "https://i.imgur.com/pFf7YzE.png"
+    },
+    "fields": [
+      {
+        "name": "Requirements:",
+        "value": "• 12 Archaeology\n\n• Desert Treasure Quest completion | [Runescape Wiki](https://runescape.wiki/w/Desert_Treasure)\n• The Curse of Zaros Miniquest completion | [Runescape Wiki](https://runescape.wiki/w/The_Curse_of_Zaros)\n• Breaking the Seal Mystery completion | [Runescape Wiki](https://runescape.wiki/w/Breaking_the_Seal)"
+      }],
+    "footer": {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+      "text": "RuneScore awarded: 25"
+    },
+    "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "skills - archaeology - i am inevitable": {
+    "title": "I Am Inevitable (Skills, Archaeology)",
+    "author": {
+      "name": "Cape Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[I Am Inevitable](https://runescape.wiki/w/I_Am_Inevitable) is an achievement that requires the player to attempt to repower the war golem arm at the [Stormguard Citadel](https://runescape.wiki/w/Stormguard_Citadel) dig site.\n\nRepowering the war golem arm requires one of each of the following **cut** gems: [Sapphire](https://runescape.wiki/w/Sapphire), [Emerald](https://runescape.wiki/w/Emerald), [Ruby](https://runescape.wiki/w/Ruby), [Diamond](https://runescape.wiki/w/Diamond), [Dragonstone](https://runescape.wiki/w/Dragonstone), and [Onyx](https://runescape.wiki/w/Onyx). While having all 6 cut gems in your inventory, use one of them on the war golem arm to unlock the achievement.\n\nThe arm is only accessible while in flight.",
+    "thumbnail": {
+      "url": "https://i.imgur.com/tTxl6Nk.png"
+    },
+    "fields": [
+      {
+        "name": "Requirements:",
+        "value": "• 76 Archaeology\n• 40 Smithing\n\n• Wing Out Mystery completion | [Runescape Wiki](https://runescape.wiki/w/Wing_Out)"
+      }],
+    "footer": {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+      "text": "RuneScore awarded: 25"
+    },
+    "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "skills - archaeology - i made dis": {
+    "title": "I Made Dis (Skills, Archaeology)",
+    "author": {
+      "name": "Cape Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[I Made Dis](https://runescape.wiki/w/I_Made_Dis) is an achievement that requires the player to wear a full set of [Dagon'hai robes](https://runescape.wiki/w/Dagon%27hai_robes) and use a [Ritual dagger](https://runescape.wiki/w/Ritual_dagger) on the [sacrificial altar](https://runescape.wiki/w/Sacrificial_altar) in the [Dungeon of Disorder](https://runescape.wiki/w/Dungeon_of_Disorder) at the [Infernal Source](https://runescape.wiki/w/Infernal_Source) dig site.\n\nThe sacrificial altar can be found just north of the arrival area after entering the Dungeon of Disorder through the [Star Lodge cellar](https://runescape.wiki/w/Infernal_Source#Star_Lodge_cellar) furnace after completion of the [Eyes in their Stars](https://runescape.wiki/w/Eyes_in_Their_Stars) mystery.",
+    "thumbnail": {
+      "url": "https://i.imgur.com/8jTCaYC.png"
+    },
+    "fields": [
+      {
+        "name": "Requirements:",
+        "value": "• 36 Archaeology\n• 40 Magic\n• 40 Defence\n\n• The Hunt for Surok Miniquest completion | [Runescape Wiki](https://runescape.wiki/w/The_Hunt_for_Surok)\n• Eyes in their Stars Mystery completion | [Runescape Wiki](https://runescape.wiki/w/Eyes_in_Their_Stars)"
+      }],
+    "footer": {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+      "text": "RuneScore awarded: 25"
+    },
+    "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "skills - archaeology - icarus": {
+    "title": "Icarus (Skills, Archaeology)",
+    "author": {
+      "name": "Cape Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[Icarus](https://runescape.wiki/w/Icarus) is an achievement that requires the player to fly beyond the limits of the [Stormguard Citadel](https://runescape.wiki/w/Stormguard_Citadel) dig site.\n\nFly in any direction towards the edge of Stormguard using the [Wingsuit v2](https://runescape.wiki/w/Wingsuit_v2). Once at the edge and the player will fall from the sky, unlocking the achievement.",
+    "thumbnail": {
+      "url": "https://i.imgur.com/tTxl6Nk.png"
+    },
+    "fields": [
+      {
+        "name": "Requirements:",
+        "value": "• 76 Archaeology\n• 40 Smithing\n\n• Wing Out Mystery completion | [Runescape Wiki](https://runescape.wiki/w/Wing_Out)"
+      }],
+    "footer": {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+      "text": "RuneScore awarded: 10"
+    },
+    "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "skills - archaeology - light and shadow": {
+    "title": "Light and Shadow (Skills, Archaeology)",
+    "author": {
+      "name": "Cape Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[Light and Shadow](https://runescape.wiki/w/Light_and_Shadow) is an achievement that requires the player to power up all of the [Shadow anchors](https://runescape.wiki/w/Shadow_anchor) at [Kharid-et](https://runescape.wiki/w/Kharid-et).\n\nPylon batteries are received at random intervals while excavating at any of the [excavation hotspots](https://runescape.wiki/w/Excavation_hotspot) or [material caches](https://runescape.wiki/w/Material_cache) within the [inner fortress](https://runescape.wiki/w/Kharid-et#Inner_fortress), or by handing in items to certain [collection logs](https://runescape.wiki/w/Archaeology_collections).\n\nTo access the final two shadow anchors, you will need to enter the chapel which requires a restored [Pontifex signet ring](https://runescape.wiki/w/Pontifex_signet_ring) artefact, available by excavating at [Carcerem debris](https://runescape.wiki/w/Carcerem_debris) hotspots from 58 Archaeology.\n\nSee the map below for the location of each shadow anchor.",
+    "thumbnail": {
+      "url": "https://i.imgur.com/pFf7YzE.png"
+    },
+    "image": {
+      "url": "https://i.imgur.com/RCSvMN8.png"
+    },
+    "fields": [
+      {
+        "name": "Requirements:",
+        "value": "• 58 Archaeology\n\n• Prison Break Mystery completion | [Runescape Wiki](https://runescape.wiki/w/Prison_Break_(Archaeology_achievement%29)"
+      }],
+    "footer": {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+      "text": "RuneScore awarded: 25"
+    },
+    "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "skills - archaeology - looting stars": {
+    "title": "Looting Stars (Skills, Archaeology)",
+    "author": {
+      "name": "Cape Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[Looting Stars](https://runescape.wiki/w/Looting_Stars) is an achievement that requires the player to loot all [Star Lodge storage](https://runescape.wiki/w/Star_Lodge_storage) chests in the [Star Lodge cellar](https://runescape.wiki/w/Infernal_Source#Star_Lodge_cellar) within the [Infernal Source](https://runescape.wiki/w/Infernal_Source) dig site.\n\nThere are 6 chests total. 4 can be found on the west side of the cellar and 2 on the east side. Open them all to unlock the achievement.",
+    "thumbnail": {
+      "url": "https://i.imgur.com/8jTCaYC.png"
+    },
+    "fields": [
+      {
+        "name": "Requirements:",
+        "value": "• 20 Archaeology"
+      }],
+    "footer": {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+      "text": "RuneScore awarded: 10"
+    },
+    "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "skills - archaeology - monolithic power": {
+    "title": "Monolithic Power (Skills, Archaeology)",
+    "author": {
+      "name": "Cape Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[Monolithic Power](https://runescape.wiki/w/Monolithic_Power) is an achievement that requires the player to harness three [Relic powers](https://runescape.wiki/w/Relic_power) at once at the [Mysterious monolith](https://runescape.wiki/w/Mysterious_monolith).",
+    "thumbnail": {
+      "url": "https://i.imgur.com/Shmagnp.png"
+    },
+    "fields": [
+      {
+        "name": "Requirements:",
+        "value": "• 25 Archaeology\n\n• Breaking the Seal Mystery completion | [Runescape Wiki](https://runescape.wiki/w/Breaking_the_Seal)\n• Eyes in their Stars Mystery completion | [Runescape Wiki](https://runescape.wiki/w/Eyes_in_Their_Stars)"
+      }],
+    "footer": {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+      "text": "RuneScore awarded: 20"
+    },
+    "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "skills - archaeology - mysteries - guild": {
+    "title": "Mysteries - Guild",
+    "author": {
+      "name": "Cape Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[Mysteries - Guild](https://runescape.wiki/w/Mysteries_-_Guild) is an achievement that requires the player to have completed the mysteries [Secrets of the Monolith](https://runescape.wiki/w/Secrets_of_the_Monolith) and [Writings on the Walls](https://runescape.wiki/w/Writings_on_the_Walls).",
+    "thumbnail": {
+      "url": "https://i.imgur.com/tFKmafh.png"
+    },
+    "fields": [
+      {
+        "name": "Requirements:",
+        "value": "• 99 Archaeology\n\n• Qualification - Guildmaster"
+      }
+    ],
+    "footer": {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+      "text": "RuneScore awarded: 0"
+    },
+    "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "skills - archaeology - neverlight": {
+    "title": "Neverlight (Skills, Archaeology)",
+    "author": {
+      "name": "Cape Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[Neverlight](https://runescape.wiki/w/Neverlight) is an achievement that requires the player to use a [Darklight](https://runescape.wiki/w/Darklight) weapon on the Everlight flames on top of the [Everlight](https://runescape.wiki/w/Everlight) lighthouse.\n\nThe Everlight lighthouse is located in the south-eastern corner of the Everlight dig site. and accessed via the entrance door, the underground entry, and the elevator repaired in the [Hallowed Be...](https://runescape.wiki/w/Hallowed_Be...) mystery.",
+    "thumbnail": {
+      "url": "https://i.imgur.com/JpAhdYc.png"
+    },
+    "fields": [
+      {
+        "name": "Requirements:",
+        "value": "• 105 Archaeology\n\n• Hallowed Be... Mystery completion | [Runescape Wiki](https://runescape.wiki/w/Hallowed_Be...)\n• The Everlight Mystery partial completion | [Runescape Wiki](https://runescape.wiki/w/The_Everlight)\n• Shadow of the Storm Quest completion | [Runescape Wiki](https://runescape.wiki/w/Shadow_of_the_Storm)"
+      }],
+    "footer": {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+      "text": "RuneScore awarded: 25"
+    },
+    "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "skills - archaeology - no fighting in the warforge!": {
+    "title": "No Fighting in the Warforge! (Skills, Archaeology)",
+    "author": {
+      "name": "Cape Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[No Fighting in the Warforge!](https://runescape.wiki/w/No_Fighting_in_the_Warforge!) is an achievement that requires the player to participate in a [Duel](https://runescape.wiki/w/Duel) with another player in the Crucible area of the [Warforge!](https://runescape.wiki/w/Warforge) dig site.\n\nThe *Hide duel option on players* option must be disabled in [Game settings](https://runescape.wiki/w/Game_settings) for this. Navigate to `Gameplay` -> `General` -> `Game Interaction` and ensure that it is disabled.\n\nSend a duel request to another player by right-clicking on them and selecting *Duel*. Both players will unlock the achievement.",
+    "thumbnail": {
+      "url": "https://i.imgur.com/RjWk4Up.png"
+    },
+    "fields": [
+      {
+        "name": "Requirements:",
+        "value": "• 76 Archaeology"
+      }],
+    "footer": {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+      "text": "RuneScore awarded: 10"
+    },
+    "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "skills - archaeology - no secrets left to steal": {
+    "title": "No Secrets Left to Steal (Skills, Archaeology)",
+    "author": {
+      "name": "Cape Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[No Secrets Left to Steal](https://runescape.wiki/w/No_Secrets_Left_to_Steal) is an achievement that requires the player to restore and claim from the statues of four famous [Icyene](https://runescape.wiki/w/Icyene) at the [Everlight](https://runescape.wiki/w/Everlight) dig-site.\n\nEach statue requires 10 unnoted [White marble](https://runescape.wiki/w/White_marble) and the respective item in your inventory to be restored. The Statue of Hebe (south, requires [Hallowed lantern](https://runescape.wiki/w/Hallowed_lantern)) rewards you with 24 white marble, so you only need to start with 16 to get the total required of 40.\n\nRefer to the map below for the exact locations of each statue.\n\n__Required items:__\n• [Statue of Hebe](https://runescape.wiki/w/Statue_of_Hebe) (south): Hallowed lantern\n• [Statue of Mesomedes](https://runescape.wiki/w/Statue_of_Mesomedes) (north): [Everlight harp](https://runescape.wiki/w/Everlight_harp)\n• [Statue of Padosan](https://runescape.wiki/w/Statue_of_Padosan) (north-east): [Dominion torch](https://runescape.wiki/w/Dominion_torch)\n• [Statue of Tromple](https://runescape.wiki/w/Statue_of_Tromple) (south-west): [Rod of Asclepius](https://runescape.wiki/w/Rod_of_Asclepius)",
+    "thumbnail": {
+      "url": "https://i.imgur.com/JpAhdYc.png"
+    },
+    "image": {
+      "url": "https://i.imgur.com/w7QWxQT.png"
+    },
+    "fields": [
+      {
+        "name": "Requirements:",
+        "value": "• 92 Archaeology\n• 40 Construction"
+      }],
+    "footer": {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+      "text": "RuneScore awarded: 10"
+    },
+    "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "skills - archaeology - oops! wrong tunnel!": {
+    "title": "Oops! Wrong Tunnel! (Skills, Archaeology)",
+    "author": {
+      "name": "Cape Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[Oops! Wrong Tunnel!](https://runescape.wiki/w/No_Fighting_in_the_Warforge!) is an achievement that requires the player to wear a full set of [H.A.M. robes](https://runescape.wiki/w/H.A.M._robes) when entering the [Warforge!](https://runescape.wiki/w/Warforge) dig site.\n\nEach of the following items must be worn:\n• [H.a.m. Hood](https://runescape.wiki/w/H.a.m._hood)\n• [H.a.m. shirt](https://runescape.wiki/w/H.a.m._shirt)\n• [H.a.m. robe](https://runescape.wiki/w/H.a.m._robe)\n• [H.a.m. gloves](https://runescape.wiki/w/H.a.m._gloves)\n• [H.a.m. boots](https://runescape.wiki/w/H.a.m._boots)\n• [H.a.m. cloak](https://runescape.wiki/w/H.a.m._cloak)\n• [H.a.m. logo](https://runescape.wiki/w/H.a.m._logo)",
+    "thumbnail": {
+      "url": "https://i.imgur.com/RjWk4Up.png"
+    },
+    "fields": [
+      {
+        "name": "Requirements:",
+        "value": "• 76 Archaeology"
+      }],
+    "footer": {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+      "text": "RuneScore awarded: 10"
+    },
+    "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "skills - archaeology - plunder hunter": {
+    "title": "Plunder Hunter (Skills, Archaeology)",
+    "author": {
+      "name": "Cape Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[Plunder Hunter](https://runescape.wiki/w/Plunder_Hunter) is an achievement that requires the player to pick up all of the [Crate of materials](https://runescape.wiki/w/Crate_of_materials) in the [Warforge!](https://runescape.wiki/w/Warforge) dig site.\n\nThe locations of each crate are marked on the map below.\n\nThe code-locked chests are not required to be opened for this achievement.",
+    "thumbnail": {
+      "url": "https://i.imgur.com/RjWk4Up.png"
+    },
+    "image": {
+      "url": "https://i.imgur.com/6BumcNi.png"
+    },
+    "fields": [
+      {
+        "name": "Requirements:",
+        "value": "• 100 Archaeology"
+      }],
+    "footer": {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+      "text": "RuneScore awarded: 10"
+    },
+    "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "skills - archaeology - ponti-nex": {
+    "title": "Ponti-Nex (Skills, Archaeology)",
+    "author": {
+      "name": "Cape Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[Ponti-Nex](https://runescape.wiki/w/Ponti-Nex) is an achievement that requires the player to wear a full set of [Ancient ceremonial robes](https://runescape.wiki/w/Ancient_ceremonial_robes) while praying at the altar in the [chapel](https://runescape.wiki/w/Kharid-et#Chapel) at [Kharid-et](https://runescape.wiki/w/Kharid-et).\n\nYou will need a restored [Pontifex signet ring](https://runescape.wiki/w/Pontifex_signet_ring) artefact to pass the barrier and get into the chapel, located in the south-east corner of the inner fortress. Once inside, pray at the altar while wearing the Ancient ceremonial robes to unlock the achievement.",
+    "thumbnail": {
+      "url": "https://i.imgur.com/pFf7YzE.png"
+    },
+    "fields": [
+      {
+        "name": "Requirements:",
+        "value": "• 58 Archaeology\n\n• Prison Break Mystery completion | [Runescape Wiki](https://runescape.wiki/w/Prison_Break_(Archaeology_achievement%29)"
+      }],
+    "footer": {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+      "text": "RuneScore awarded: 30"
+    },
+    "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "skills - archaeology - research - guild": {
+    "title": "Research - Guild",
+    "author": {
+      "name": "Cape Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[Research - Guild](https://runescape.wiki/w/Research_-_Guild) is an achievement that requires the player to have completed all [research](https://runescape.wiki/w/Research) in the [Archaeology Guild](https://runescape.wiki/w/Archaeology_Guild).\n\nList of research:\n• Mysterious Monolith: Existence\n• Mysterious Monolith: Architecture\n• Mysterious Monolith: Symbology\n• Philosophy\n• Writings of the Walls: Kharid-et\n• Writings of the Walls: Infernal Source\n• Writings of the Walls: Everlight\n• Writings of the Walls: Stormguard\n• Writings of the Walls: Warforge",
+    "thumbnail": {
+      "url": "https://i.imgur.com/tFKmafh.png"
+    },
+    "fields": [
+      {
+        "name": "Requirements:",
+        "value": "• 99 Archaeology\n\n• Qualification - Guildmaster"
+      }
+    ],
+    "footer": {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+      "text": "RuneScore awarded: 0"
+    },
+    "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "skills - archaeology - secrets of the monolith": {
+    "title": "Secrets of the Monolith (Skills, Archaeology)",
+    "author": {
+      "name": "Cape Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[Secrets of the Monolith](https://runescape.wiki/w/Secrets_of_the_Monolith) is an achievement that requires the player to solve the mystery of the same name.\n\nSpeaking to [Acting Guildmaster Reiniger](https://runescape.wiki/w/Acting_Guildmaster_Reiniger) after achieving the [Assistant qualification](https://runescape.wiki/w/Qualification_-_Assistant) will play a cutscene at the [Mysterious monolith](https://runescape.wiki/w/Mysterious_monolith). Follow the mini-tutorial after the cutscene to complete the mystery and unlock the achievement.",
+    "thumbnail": {
+      "url": "https://i.imgur.com/GxtI5jo.png"
+    },
+    "fields": [
+      {
+        "name": "Requirements:",
+        "value": "• 40 Archaeology\n\n• Qualification - Assistant"
+      }],
+    "footer": {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+      "text": "RuneScore awarded: 5"
+    },
+    "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "skills - archaeology - soils of the past": {
+    "title": "Soils of the Past (Skills, Archaeology)",
+    "author": {
+      "name": "Cape Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[Soils of the Past](https://runescape.wiki/w/Soils_of_the_Past) is an achievement that requires the player to own the [Master archaeologist's outfit](https://runescape.wiki/w/Master_archaeologist%27s_outfit).\n\nThe Master archaeologist's outfit can be purchased from the [Archaeology Guild Shop](https://runescape.wiki/w/Archaeology_Guild_Shop) for a total of 250,000 [Chronotes](https://runescape.wiki/w/Chronotes) after achieving [Qualification - Guildmaster](https://runescape.wiki/w/Qualification_-_Guildmaster).",
+    "thumbnail": {
+      "url": "https://i.imgur.com/Shmagnp.png"
+    },
+    "fields": [
+      {
+        "name": "Requirements:",
+        "value": "• 99 Archaeology\n\n• Qualification - Guildmaster"
+      }],
+    "footer": {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+      "text": "RuneScore awarded: 10"
+    },
+    "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "skills - archaeology - stick it to da boss man": {
+    "title": "Stick It to Da Boss Man (Skills, Archaeology)",
+    "author": {
+      "name": "Cape Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[Stick It to Da Boss Man](https://runescape.wiki/w/Stick_It_to_Da_Boss_Man) is an achievement that requires the player to use a restored [Dorgeshuun spear](https://runescape.wiki/w/Dorgeshuun_spear) artefact on Bandos' throne in the [Warforge!](https://runescape.wiki/w/Warforge) dig site.\n\nA [Dorgeshuun spear (damaged)](https://runescape.wiki/w/Dorgeshuun_spear_(damaged%29) can be excavated from the [Kyzaj champion's boudoir](https://runescape.wiki/w/Kyzaj_champion%27s_boudoir) hotspot or obtained randomly from an [Ancient casket](https://runescape.wiki/w/Ancient_casket) after successfully locating and excavating a [Tetracompass](https://runescape.wiki/w/Tetracompass_(powered%29) clue.\n\nBandos' throne is found on the north side of the Crucible at the immediate entry point when entering the Crucible.",
+    "thumbnail": {
+      "url": "https://i.imgur.com/RjWk4Up.png"
+    },
+    "fields": [
+      {
+        "name": "Requirements:",
+        "value": "• 100 Archaeology"
+      }],
+    "footer": {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+      "text": "RuneScore awarded: 10"
+    },
+    "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "skills - archaeology - superhot": {
+    "title": "Superhot (Skills, Archaeology)",
+    "author": {
+      "name": "Cape Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[Superhot](https://runescape.wiki/w/Superhot) is an achievement that requires the player to have the [Seren Prayer](https://runescape.wiki/w/Seren_Prayer) [Superheat Form](https://runescape.wiki/w/Superheat_Form) active while training Archaeology within the [Infernal Source](https://runescape.wiki/w/Infernal_Source) dig site.\n\nThe player must be on the [Ancient Curses](https://runescape.wiki/w/Ancient_Curses) prayer book to be able to use Superheat Form and can excavate at any [Excavation hotspot](https://runescape.wiki/w/Excavation_hotspot) or [Material cache](https://runescape.wiki/w/Material_cache) in the Infernal Source to unlock the achievement.",
+    "thumbnail": {
+      "url": "https://i.imgur.com/8jTCaYC.png"
+    },
+    "fields": [
+      {
+        "name": "Requirements:",
+        "value": "• 20 Archaeology\n• 91 Prayer\n\n• The Light Within Quest completion | [Runescape Wiki](https://runescape.wiki/w/The_Light_Within)"
+      }],
+    "footer": {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+      "text": "RuneScore awarded: 25"
+    },
+    "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "skills - archaeology - tasty pastry": {
+    "title": "Tasty Pastry (Skills, Archaeology)",
+    "author": {
+      "name": "Cape Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[Tasty Pastry](https://runescape.wiki/w/Tasty_Pastry) is an achievement that requires the player to give a [Redberry pie](https://runescape.wiki/w/Redberry_pie) to [Thurgo](https://runescape.wiki/w/Warforge) inside [Thalmund's Forge](https://runescape.wiki/w/Thalmund%27s_Forge) in the [Warforge!](https://runescape.wiki/w/Warforge) dig site.\n\nExactly one minute after entering Thalmund's Forge a dwarf will teleport into the room by the northern doors. They will wander around the room for the next 150 seconds. If it is Thurgo who teleports in, use the Redberry pie on him to get the achievement. If it's any other dwarf, simply leave and re-enter the Forge.\n\nIt is recommended to use the Redberry pie created for the [Eipy Rreb Dere Voli](https://runescape.wiki/w/Eipy_Rreb_Dere_Voli) achievement to complete both achievements subsequently.",
+    "thumbnail": {
+      "url": "https://i.imgur.com/RjWk4Up.png"
+    },
+    "fields": [
+      {
+        "name": "Requirements:",
+        "value": "• 83 Archaeology\n\n• Into the Forge Mystery completion | [Runescape Wiki](https://runescape.wiki/w/Into_the_Forge)"
+      }],
+    "footer": {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+      "text": "RuneScore awarded: 10"
+    },
+    "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "skills - archaeology - teacher's pet": {
+    "title": "Teacher's Pet (Skills, Archaeology)",
+    "author": {
+      "name": "Cape Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[Teacher's Pet](https://runescape.wiki/w/Teacher%27s_Pet) is an achievement that requires the player to bring the perfect cup of tea to [Helen](https://runescape.wiki/w/Helen) at the [Archaeology Guild](https://runescape.wiki/w/Archaeology_Guild). She is located just east of the [Screening station](https://runescape.wiki/w/Screening_station).\n\nThe \"perfect cup of tea\" is the [Cup of soil tea](https://runescape.wiki/w/Cup_of_soil_tea) which requires a [Cup of tea](https://runescape.wiki/w/Cup_of_tea), [Ancient gravel](https://runescape.wiki/w/Ancient_gravel), [Fiery brimstone](https://runescape.wiki/w/Fiery_brimstone), [Saltwater mud](https://runescape.wiki/w/Saltwater_mud), [Aerated sediment](https://runescape.wiki/w/Aerated_sediment), and [Earthen clay](https://runescape.wiki/w/Earthen_clay).\n\nUse one of the types of soil on the cup of tea to combine them, then bring the freshly made cup of soil tea to Helen. Use the cup on her to get the achievement.",
+    "thumbnail": {
+      "url": "https://i.imgur.com/Shmagnp.png"
+    },
+    "fields": [
+      {
+        "name": "Requirements:",
+        "value": "• 20 Cooking"
+      }],
+    "footer": {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+      "text": "RuneScore awarded: 5"
+    },
+    "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "skills - archaeology - that's not how it works": {
+    "title": "That's Not How it Works (Skills, Archaeology)",
+    "author": {
+      "name": "Cape Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[That's Not How it Works](https://runescape.wiki/w/That%27s_Not_How_it_Works) is an achievement that requires the player to experiment with one of [Howl](https://runescape.wiki/w/Howl)'s prototype weapons.\n\nUse an [Armadyl hilt](https://runescape.wiki/w/Armadyl_Hilt) on a [Prototype godsword (damaged)](https://runescape.wiki/w/Prototype_godsword_(damaged%29) artefact to unlock the achievement. This will not work with a restored [Prototype godsword](https://runescape.wiki/w/Prototype_godsword) artefact. The hilt is not consumed.\n\nA Prototype godsword (damaged) can be obtained through several methods, some of which allow the achievement to be completed earlier than others:\n• Opening an [Ancient casket](https://runescape.wiki/w/Ancient_casket)\n• Completing a general research to the [Stormguard Citadel](https://runescape.wiki/w/Stormguard_Citadel) dig site which has a small chance of receiving damaged artefacts\n• Completing the Back to the Drawing Board [Armadylean special research](https://runescape.wiki/w/Research#Armadylean_culture_research), requiring level 95 [Archaeology](https://runescape.wiki/w/Archaeology)\n• Excavating from the [Aetherium forge](https://runescape.wiki/w/Aetherium_forge) hotspot, requiring level 112 Archaeology",
+    "thumbnail": {
+      "url": "https://i.imgur.com/tTxl6Nk.png"
+    },
+    "fields": [
+      {
+        "name": "Requirements:",
+        "value": "• 95 Archaeology"
+      }],
+    "footer": {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+      "text": "RuneScore awarded: 10"
+    },
+    "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "skills - archaeology - the prodigal spender": {
+      "title": "The Prodigal Spender",
+      "author": {
+        "name": "Cape Info",
+        "icon_url": "https://i.imgur.com/6c6q2iC.png"
+      },
+      "description": "[The Prodigal Spender](https://runescape.wiki/w/The_Prodigal_Spender) is an achievement that requires the player to purchase all permanent unlocks from [Ezreal](https://runescape.wiki/w/Ezreal)'s [Archaeology Guild Shop](https://runescape.wiki/w/Archaeology_Guild_Shop).\n\nThe total cost of all unlocks is 1,024,500 [Chronotes](https://runescape.wiki/w/Chronotes).",
+      "thumbnail": {
+        "url": "https://i.imgur.com/Shmagnp.png"
+      },
+      "fields": [
+        {
+          "name": "Requirements:",
+          "value": "• 99 Archaeology\n\n• Qualification - Grandmaster"
+        }
+      ],
+      "footer": {
+        "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+        "text": "RuneScore awarded: 30"
+      },
+      "timestamp": "2001-01-04T12:00:00Z"
+    },
+  "skills - archaeology - the seeker's job": {
+    "title": "The Seeker's Job (Skills, Archaeology)",
+    "author": {
+      "name": "Cape Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[The Seeker's Job](https://runescape.wiki/w/The_Seeker%27s_Job) is an achievement that requires the player to catch a [Golden butterfly](https://runescape.wiki/w/Golden_butterfly) at the [Everlight](https://runescape.wiki/w/Everlight) dig site.\n\nGolden butterflies spawn randomly, often in the far eastern side of Everlight. It may take several attempts to successfully catch it and will not disappear or give any items when caught.",
+    "thumbnail": {
+      "url": "https://i.imgur.com/JpAhdYc.png"
+    },
+    "fields": [
+      {
+        "name": "Requirements:",
+        "value": "• 42 Archaeology\n• 6 Hunter"
+      }],
+    "footer": {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+      "text": "RuneScore awarded: 20"
+    },
+    "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "skills - archaeology - the feast and the famine": {
+    "title": "The Feast and the Famine (Skills, Archaeology)",
+    "author": {
+      "name": "Cape Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[The Feast and the Famine](https://runescape.wiki/w/The_Feast_and_the_Famine) is an achievement that requires the player to use a [Primal feast](https://runescape.wiki/w/Primal_feast) on [Famine](https://runescape.wiki/w/Famine) within [Stormguard Citadel](https://runescape.wiki/w/Stormguard_Citadel).\n\nCreating a Primal feast requires level 115 [Cooking](https://runescape.wiki/w/Cooking), this is only possible by boosting from as low as level 98 Cooking using an [Extreme cooking potion](https://runescape.wiki/w/Extreme_cooking_potion). The Extreme cooking potion can be made at level 104 [Herblore](https://runescape.wiki/w/Herblore) ([boostable](https://runescape.wiki/w/Herblore#Temporary_boosts)).\n\nFamine can be found in the south-eastern corner of the first island on Stormguard, Recreation.",
+    "thumbnail": {
+      "url": "https://i.imgur.com/tTxl6Nk.png"
+    },
+    "fields": [
+      {
+        "name": "Requirements:",
+        "value": "• 70 Archaeology\n• 98 Cooking\n• 104 Herblore\n\n• Leap of Faith Mystery completion | [Runescape Wiki](https://runescape.wiki/w/Leap_of_Faith_(Archaeology_achievement%29)"
+      }],
+    "footer": {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+      "text": "RuneScore awarded: 10"
+    },
+    "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "skills - archaeology - this one time...": {
+    "title": "This One Time... (Skills, Archaeology)",
+    "author": {
+      "name": "Cape Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[This One Time...](https://runescape.wiki/w/This_One_Time...) is an achievement that requires the player to play an instrument on the [Amphitheatre](https://runescape.wiki/w/Everlight#Amphitheatre) at [Everlight](https://runescape.wiki/w/Everlight).\n\nThe Amphitheatre stage is located north of the mass grave, accessible by traversing a bridge. Playing the [Holy Cithara](https://runescape.wiki/w/Holy_Cithara) while standing beside the amphitheatre stage will unlock the achievement.",
+    "thumbnail": {
+      "url": "https://i.imgur.com/JpAhdYc.png"
+    },
+    "fields": [
+      {
+        "name": "Requirements:",
+        "value": "• 42 Archaeology\n\n• One Piercing Note Quest completion | [Runescape Wiki](https://runescape.wiki/w/One_Piercing_Note)"
+      }],
+    "footer": {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+      "text": "RuneScore awarded: 20"
+    },
+    "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "skills - archaeology - warm glow": {
+    "title": "Warm Glow (Skills, Archaeology)",
+    "author": {
+      "name": "Cape Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[Warm Glow](https://runescape.wiki/w/Warm_Glow) is an achievement that requires the player to excavate at an [excavation hotspot](https://runescape.wiki/w/Excavation_hotspot) or [material cache](https://runescape.wiki/w/Material_cache) inside the [Kharid-et](https://runescape.wiki/w/Kharid-et) fortress dig site while the [Pylons](https://runescape.wiki/w/Pylon_(Archaeology%29) are active.\n\nThe pylons activate after they reach 100% charge. The current charge is shared between the pylons, and it is global across all worlds and players.\n\nAny player can contribute to the charge by adding [Pylon batteries]() at 0.01% charge per battery, requiring a combined total of 10,000.\n\nOnce they are fully charged the entire Kharid-et dig site receives the [Protection of Zaros](https://runescape.wiki/w/Buffs_and_debuffs#Skilling) buff, including players who arrive after the pylons activate. This buff will be active for 30 minutes after activation, during which you can excavate at any spot in Kharid-et to unlock the achievement.",
+    "thumbnail": {
+      "url": "https://i.imgur.com/pFf7YzE.png"
+    },
+    "fields": [
+      {
+        "name": "Requirements:",
+        "value": "• 58 Archaeology\n\n• Breaking the Seal Mystery completion | [Runescape Wiki](https://runescape.wiki/w/Breaking_the_Seal)"
+      }],
+    "footer": {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+      "text": "RuneScore awarded: 30"
+    },
+    "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "skills - archaeology - who's a bad boy?": {
+    "title": "Who's a Bad Boy? (Skills, Archaeology)",
+    "author": {
+      "name": "Cape Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[Who's a Bad Boy?](https://runescape.wiki/w/Who%27s_a_Bad_Boy%3F) is an achievement that requires the player to use a restored [Spiked dog collar](https://runescape.wiki/w/Spiked_dog_collar) artefact on a [Hellhound](https://runescape.wiki/w/Spiked_dog_collar).\n\nA [Spiked dog collar (damaged)](https://runescape.wiki/w/Spiked_dog_collar_(damaged%29) can be obtained from [Shakroth remains](https://runescape.wiki/w/Shakroth_remains) on the [Vestibule of Futiility](https://runescape.wiki/w/Infernal_Source#Vestibule_of_Futility), the highest level of [The Source](https://runescape.wiki/w/Infernal_Source#The_Source).\n\nUse the Spiked dog collar on a Hellhound. You will keep the artefact. Hellhounds can be found easily in the [Taverley dungeon](https://runescape.wiki/w/Taverley_Dungeon).",
+    "thumbnail": {
+      "url": "https://i.imgur.com/8jTCaYC.png"
+    },
+    "fields": [
+      {
+        "name": "Requirements:",
+        "value": "• 68 Archaeology\n\n• Embrace the Chaos Mystery completion | [Runescape Wiki](https://runescape.wiki/w/Embrace_the_Chaos)"
+      }],
+    "footer": {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+      "text": "RuneScore awarded: 25"
+    },
+    "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "skills - archaeology - writings on the walls": {
+    "title": "Writings on the Walls (Skills, Archaeology)",
+    "author": {
+      "name": "Cape Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[Writings on the Walls](https://runescape.wiki/w/Writings_on_the_Walls) is an achievement that requires the player to solve the mystery of the same name.\n\nTo begin the mystery you must have purchased and be wearing the full [Master archaeologist's outfit](https://runescape.wiki/w/Master_archaeologist%27s_outfit) from the [Archaeology Guild Shop](https://runescape.wiki/w/Archaeology_Guild_Shop).\n\nVisit each of the dig sites and inspect the [Writings on the wall](https://runescape.wiki/w/Writings_on_the_Walls#Locations). New [Special Research](https://runescape.wiki/w/Research#Special_Research) will be unlocked after each inspection. Complete the special research individually and return to the dig sites, inspecting each of the writings once more.\n\nThe achievement is unlocked by inspecting all of the writings a second time after completing the respective special research.",
+    "thumbnail": {
+      "url": "https://i.imgur.com/GxtI5jo.png"
+    },
+    "fields": [
+      {
+        "name": "Requirements:",
+        "value": "• 99 Archaeology\n\n• Qualification - Guildmaster"
+      }],
+    "footer": {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+      "text": "RuneScore awarded: 5"
+    },
+    "timestamp": "2001-01-04T12:00:00Z"
+  },
   "skills - construction - reverent sculptor": {
     "title": "Reverent Sculptor (Skills, Construction)",
     "author": {
@@ -11033,6 +11931,27 @@ exports.data = {
     "footer": {
       "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
       "text": "RuneScore awarded: 30"
+    },
+    "timestamp": "2001-01-04T12:00:00Z"
+  },
+  "skills - archaeology - whoa, double chaos": {
+    "title": "Whoa, Double Chaos (Skills, Archaeology)",
+    "author": {
+      "name": "Cape Info",
+      "icon_url": "https://i.imgur.com/6c6q2iC.png"
+    },
+    "description": "[Whoa, Double Chaos](https://runescape.wiki/w/Whoa,_Double_Chaos) is an achievement that requires the player to wear a full set of [Chaos equipment](https://runescape.wiki/w/Chaos_equipment) when entering a chaos portal within [The Source](https://runescape.wiki/w/Infernal_Source#The_Source) area of the [Infernal Source](https://runescape.wiki/w/Infernal_Source).",
+    "thumbnail": {
+      "url": "https://i.imgur.com/8jTCaYC.png"
+    },
+    "fields": [
+      {
+        "name": "Requirements:",
+        "value": "• 29 Archaeology\n\n• Elemental Workshop IV Quest completion | [Runescape Wiki](https://runescape.wiki/w/Elemental_Workshop_4)\n• Embrace the Chaos Mystery completion | [Runescape Wiki](https://runescape.wiki/w/Embrace_the_Chaos)"
+      }],
+    "footer": {
+      "icon_url": "https://vignette.wikia.nocookie.net/runescape2/images/7/77/RuneScore.png/revision/latest?cb=20170902033715",
+      "text": "RuneScore awarded: 10"
     },
     "timestamp": "2001-01-04T12:00:00Z"
   },
