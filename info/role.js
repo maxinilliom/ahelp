@@ -29,7 +29,7 @@ exports.data = {
       "name": "break.png"
     }]
   },
-    "staff assigned roles": {
+  "staff assigned roles": {
     "title": "Staff Assigned Roles",
     "description":"Achievement Help is a friendly community for those looking to complete and help each other with all kinds of achievements. The following roles **may not** be self assigned, as they represent achievements earned in game or inside the discord.",
     "footer": {
@@ -40,7 +40,7 @@ exports.data = {
       "name": "Role Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-          "fields": [
+    "fields": [
       {
         "name": "​",
         "value": "**<@&382703090455019521>**\n• We try our best to bring the community together and provide a platform for people to assist one another. The council collectively maintain public relations and outreach, maintain server channels and information, host events, and provide assistance where able.\n\n**<@&382705157709758466>**\n• Our moderators assist in keeping the server clean and moderated, and can often help you should you have anything server-related on your mind. You can also ask them to assign a rank if you have earned any of the below roles in game!\n\n**<@&382710482232016896>**\n• Contributors are people who have proven themselves to be helpful not only in helping others by being able to provide reliable and accurate information, but also in maintaining the server or organizing teams to help with achievements requiring a group.\n\n**<@&456091063703044106>**\n• AHelpers are the main contributors and authors that program, write, and supply quality assurance to the <@408471193675497473> bot."
@@ -65,7 +65,7 @@ exports.data = {
         "name":"​",
         "value": "**<@&399291635898253333>**\n• This role is bestowed to members who lead an affiliated server that is in partnership with Achievement Help.\n\n**<@&382710614222569482>**\n• This is for members who have shown strong activity in the Achievement Help Discord Community and its conversations.\n\n**<@&399992283488845845>**\n• This is for members who have been verified to have 50+ followers on either YouTube or Twitch."
       }      
-      ]
+    ]
   },
   "break4": {
     "files": [{
@@ -85,14 +85,14 @@ exports.data = {
       "name": "break.png"
     }]
   },
-    "runescape notify roles pt1": {
+  "runescape notify roles pt1": {
     "title": "RuneScape Notify Roles (Self-Assigned)",
     "description":"The notify roles are meant to be used in order to help one another with various achievements.\n• To join a notify role, simply react to the proper message in <#465998663710146579> with the corresponding emoji.\n• You may also send ?rank [role] in <#382701090430386180>.\n\t- **Example:** `?rank AFK Thaler`\n\t- Leaving a role is the same command as joining that role.",
     "author": {
       "name": "Role Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-          "fields": [
+    "fields": [
       {
         "name": "​",
         "value": ":regional_indicator_a: **<@&382940086511075349>**\n• **When to tag:** If you have a Consistent Yak Card (team) Gorajo card to offer.\n\n• **When to join:** If you would like to be notified when a Consistent Yak Card (team) is being offered.\n\n:regional_indicator_b: **<@&382959993768378378>**\n• **When to tag:** If you need a conquest partner.\n\n• **When to join:** If you would like to be notified when someone is looking for a Conquest Partner.\n\n:regional_indicator_c: **<@&382960017499881474>**\n• **When to tag:** If you are looking for a hard mode Dungeoneering partner. This is not for a normal Dungeoneering team.\n\n •**When to join:**  If you would like to be notified when someone is looking for a hard mode Dungeoneering partner."
@@ -117,43 +117,43 @@ exports.data = {
         "name": "​",
         "value": ":regional_indicator_p: **<@&451411977894494212>**\n• **When to tag:** If you are looking for people to help with a group minigame related achievement or song unlock.\n\n• **This is not for Thaler purposes**\n\n• **Check all other roles to ensure there isn't a more specific role for you to tag**\n\n• **When to join:** If you are in need of a group minigame related achievement or song unlock and would like to be notified when groups are forming.\n\n• If you are willing to help those who are in need of a minigame related achievement or song unlock.\n\n:regional_indicator_q: **<@&451412074334126091>**\n• **When to tag:** After placing a portable deposit box at a useful location.\n\n• **When to join:** If you would like to be notified when someone has laid a portable deposit box in a useful location."
       }
-      ]
+    ]
+  },
+  "runescape notify roles pt2": {
+    "fields": [{
+      "name": "​",
+      "value": ":regional_indicator_r: **<@&425025597635428376>**\n• **When to tag:** If you are looking to complete the achievement Open Bar, and would like to have the 28 ales temporarily traded to you.\n\n• Not returning these ales will result in a ban from the server.\n\n• **When to join:** If you are in possession of the 28 different ales, and would like to help others who are looking to complete the achievement.\n\n:regional_indicator_s: **<@&426195054827274240>**\n• **When to tag:** If you have an Elite Rune Dragon spawn.\n\n• Please list the price of the sell and distinguish if it is a normal elite or Barry.\n\n• **When to join:** If you would like to be notified when someone has an Elite Rune Dragon spawn.\n\n:regional_indicator_t: **<@&426195111148388372>**\n• **When to tag:** If you have an Elite Edimmu spawn.\n\n• **When to join:** If you would like to be notified when someone has an Elite Edimmu spawn."
     },
-    "runescape notify roles pt2": {
-      "fields": [{
-        "name": "​",
-        "value": ":regional_indicator_r: **<@&425025597635428376>**\n• **When to tag:** If you are looking to complete the achievement Open Bar, and would like to have the 28 ales temporarily traded to you.\n\n• Not returning these ales will result in a ban from the server.\n\n• **When to join:** If you are in possession of the 28 different ales, and would like to help others who are looking to complete the achievement.\n\n:regional_indicator_s: **<@&426195054827274240>**\n• **When to tag:** If you have an Elite Rune Dragon spawn.\n\n• Please list the price of the sell and distinguish if it is a normal elite or Barry.\n\n• **When to join:** If you would like to be notified when someone has an Elite Rune Dragon spawn.\n\n:regional_indicator_t: **<@&426195111148388372>**\n• **When to tag:** If you have an Elite Edimmu spawn.\n\n• **When to join:** If you would like to be notified when someone has an Elite Edimmu spawn."
-      },
-      {
-        "name": "​",
-        "value": ":regional_indicator_u:**<@&430138114455896074>**\n• **When to tag:** If you need help with a Penance King kill.\n\n• **When to join:** If you would like to be notified when someone needs a team for a Penance King kill.\n\n:regional_indicator_v:**<@&446729279149965315>**\n• **When to tag:** If you are looking to organize a group of people to AFK the currently spotlighted minigame.\n\n• **This is not for Minigame Achievement/Song Help purposes.**\n\n• **When to join:** If you would like to be notified of groups being created to AFK the currently spotlighted minigame.\n\n:regional_indicator_w: **<@&488765560541413376>**\n• **When to tag:**  If you are looking to organize a group of Ironman/woman to complete achievements and bossing.\n\n• **When to join:** If you would like to be notified of groups being created by an Ironman/woman to complete achievements and bossing."
-      },
-      {
-        "name": "​",
-        "value": ":regional_indicator_x: **<@&488765489280188437>**\n• **When to tag:** If you are looking to organize a group of to obtain the Survive Title at the Dominion Tower.\n\n• **When to join:** If you would like to be notified of groups being created to obtain the Survive Title at the Dominion Tower.\n\n:regional_indicator_y:**<@&488492228512317451>**\n• **When to tag:** If you are looking to complete a PoF achievement and would like to see if anyone has the items to assist you with.\n\n• Not returning these items will result in a ban from the server.\n\n• **When to join:** If you are in possession of PoF achievement items, like 12 bunnies or 4 seasonal rams, and would like to help others who are looking to complete the achievement."
-      },
-       {
-        "name": "​",
-        "value": ":regional_indicator_z: **<@&509477144498274324>**\n• **When to tag:** If you are looking to complete an achievement which requires an armour set. Someone with this role may be able to temporarily trade the set to you.\n\n• Not returning these items will result in a ban from the server.\n\n• **When to join:** If you are in possession of the Dragonstone armour, Bane armour, Chaos armour, or Dagon'hai robes set(s) and would like to help others who are looking to complete the achievement.\n\n:abc: **<@&509477311566053392>**\n• **When to tag:** If you have an Elite (Super) Cow spawn.\n\n• **When to join:** If you would like to be notified when someone has an Elite (Super) Cow spawn."
-      },
-        {
-        "name": "​",
-        "value": ":abcd: **<@&509477651107545108>**\n• **When to tag:** If you have spotted the Runespan Runesphere.\n\n• **When to join:** If you would like to be notified when someone has spotted the Runespan Runesphere.\n\n:capital_abcd: **<@&509477261712556058>**\n• **When to tag:** If you are looking for a team for the Shifting Tombs Runescore Requirements or if you'd like a team for experience runs.\n\n• **When to join:** If you would like to be notified when someone needs a team for the Shifting Tombs Runescore Requirements or a team for experience runs.\n\n:asterisk: **<@&510540442023231488>**\n• **When to tag:** If you are looking for a team to attempt to catch the Tiger Shark in the Fishing Trawler Minigame.\n\n• **When to join:** If you would like to be notified when someone is looking for a team to attempt to catch the Tiger Shark in the Fishing Trawler Minigame."
-      },
-      {
-        "name": "​",
-        "value": ":hash: **<@&511322089224142854>**\n• **When to tag:** If you are looking to borrow the Barrows Weapons needed for the Brothers in Arms achievement.\n\n• Not returning these items will result in a ban from the server.\n\n• **When to join:** If you would like to be notified when someone is looking to borrow the Barrows Weapons needed for the Brothers in Arms achievement.\n\n:pause_button: **<@&514474325743763463>**\n• **When to join:** If you would like to be notified 30 minutes before the Small Animal Buyer will spawn\n\n:stop_button: **<@&514474635895767047>**\n• **When to join:** If you would like to be notified 30 minutes before the Medium Animal Buyer will spawn"
-      },
-      {
-        "name": "​",
-        "value": ":play_pause: **<@&514474692623466516>**\n• **When to join:** If you would like to be notified 30 minutes before the Large Animal Buyer will spawn"
-      }
-      ],
-      "footer": {
+    {
+      "name": "​",
+      "value": ":regional_indicator_u:**<@&430138114455896074>**\n• **When to tag:** If you need help with a Penance King kill.\n\n• **When to join:** If you would like to be notified when someone needs a team for a Penance King kill.\n\n:regional_indicator_v:**<@&446729279149965315>**\n• **When to tag:** If you are looking to organize a group of people to AFK the currently spotlighted minigame.\n\n• **This is not for Minigame Achievement/Song Help purposes.**\n\n• **When to join:** If you would like to be notified of groups being created to AFK the currently spotlighted minigame.\n\n:regional_indicator_w: **<@&488765560541413376>**\n• **When to tag:**  If you are looking to organize a group of Ironman/woman to complete achievements and bossing.\n\n• **When to join:** If you would like to be notified of groups being created by an Ironman/woman to complete achievements and bossing."
+    },
+    {
+      "name": "​",
+      "value": ":regional_indicator_x: **<@&488765489280188437>**\n• **When to tag:** If you are looking to organize a group of to obtain the Survive Title at the Dominion Tower.\n\n• **When to join:** If you would like to be notified of groups being created to obtain the Survive Title at the Dominion Tower.\n\n:regional_indicator_y:**<@&488492228512317451>**\n• **When to tag:** If you are looking to complete a PoF achievement and would like to see if anyone has the items to assist you with.\n\n• Not returning these items will result in a ban from the server.\n\n• **When to join:** If you are in possession of PoF achievement items, like 12 bunnies or 4 seasonal rams, and would like to help others who are looking to complete the achievement."
+    },
+    {
+      "name": "​",
+      "value": ":regional_indicator_z: **<@&509477144498274324>**\n• **When to tag:** If you are looking to complete an achievement which requires an armour set. Someone with this role may be able to temporarily trade the set to you.\n\n• Not returning these items will result in a ban from the server.\n\n• **When to join:** If you are in possession of the Dragonstone armour, Bane armour, Chaos armour, or Dagon'hai robes set(s) and would like to help others who are looking to complete the achievement.\n\n:abc: **<@&509477311566053392>**\n• **When to tag:** If you have an Elite (Super) Cow spawn.\n\n• **When to join:** If you would like to be notified when someone has an Elite (Super) Cow spawn."
+    },
+    {
+      "name": "​",
+      "value": ":abcd: **<@&509477651107545108>**\n• **When to tag:** If you have spotted the Runespan Runesphere.\n\n• **When to join:** If you would like to be notified when someone has spotted the Runespan Runesphere.\n\n:capital_abcd: **<@&509477261712556058>**\n• **When to tag:** If you are looking for a team for the Shifting Tombs Runescore Requirements or if you'd like a team for experience runs.\n\n• **When to join:** If you would like to be notified when someone needs a team for the Shifting Tombs Runescore Requirements or a team for experience runs.\n\n:asterisk: **<@&510540442023231488>**\n• **When to tag:** When a Jagex Moderator event is occuring.\n\n• **When to join:** If you would like to be notified when a Jagex Moderator event is in progress to receive a Valentine's Note or Stroopwafel."
+    },
+    {
+      "name": "​",
+      "value": ":hash: **<@&511322089224142854>**\n• **When to tag:** If you are looking to borrow the Barrows Weapons needed for the Brothers in Arms achievement.\n\n• Not returning these items will result in a ban from the server.\n\n• **When to join:** If you would like to be notified when someone is looking to borrow the Barrows Weapons needed for the Brothers in Arms achievement.\n\n:pause_button: **<@&514474325743763463>**\n• **When to join:** If you would like to be notified 30 minutes before the Small Animal Buyer will spawn\n\n:stop_button: **<@&514474635895767047>**\n• **When to join:** If you would like to be notified 30 minutes before the Medium Animal Buyer will spawn"
+    },
+    {
+      "name": "​",
+      "value": ":play_pause: **<@&514474692623466516>**\n• **When to join:** If you would like to be notified 30 minutes before the Large Animal Buyer will spawn"
+    }
+    ],
+    "footer": {
       "icon_url": "https://i.imgur.com/aPzdbY3.jpg",
       "text": "Achievement Help | Making information more easily available!"
-      }
-    },
+    }
+  },
   "break6": {
     "files": [{
       "attachment": "media/img/info/role/break.png",
@@ -172,7 +172,7 @@ exports.data = {
       "name": "break.png"
     }]
   },
-    "dsf merchant notify roles":  {
+  "dsf merchant notify roles":  {
     "title": "Deep Sea Fishing Merchant Roles (Self-Assigned)",
     "description":"The following roles were added for the Deep Sea Fishing Merchant because of their correlation to current or future Achievements.\n\nThe following roles can also be added in one of the following ways;\n• To join a DSF Merchant role, simply react to the proper message in <#465998663710146579> with the corresponding emoji.\n• You may also send ?rank [role] in <#382701090430386180>.\n\t- **Example:** **?rank AFK Thaler**\n\t- Leaving a role is the same command as joining that role.\n\nIf you would like to have other notifications besides these, you can use <@439803413623078927> in the <#382701090430386180> channel. Simply type **?addnotif Item Name Here**, and the bot will PM you whenever that item is in the store.",
     "footer": {
@@ -183,7 +183,7 @@ exports.data = {
       "name": "Role Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-          "fields": [
+    "fields": [
       {
         "name": "​",
         "value": ":arrow_double_up: **<@&443761366201925653>**\n• 20 Reaper Points to go towards the Trimmed cape requirement.\n\n:arrow_double_down: **<@&443761702903873536>**\n• 5,000 Runespan Points to go towards the Trimmed cape requirement.\n\n:arrow_forward: **<@&443762022178488320>**\n• 350 (Small), 900 (Medium), or 1350 (Large) Menaphos Reputation to go towards the Trimmed cape requirement or for Quest unlocks.\n\n:arrow_backward: **<@&444155849791766528>**\n•  500,000 - 2,000,000 shattered anima currency\n\n:arrow_right: **<@&443762434818179073>**\n• 10,000 - 40,000 Livid Farm Produce Points to go towards the Completionist cape requirement.\n\n:arrow_left: **<@&443762151228833794>**\n• 3 - 5 Taijitu to go towards the Arc's Waiko Reward Shop requirements for an array of all cape requirements.\n\n:arrow_lower_right: **<@&443762202235764738>**\n• 1 enhancer to go towards an array of all cape requirements."
@@ -196,7 +196,7 @@ exports.data = {
         "name": "​",
         "value": ":arrow_heading_up: **<@&443794634586718218>**\n• For an array of all cape requirements.\n\n:arrow_heading_down: **<@&443794673052680203>**\n• For an array of all cape requirements."
       }
-      ]
+    ]
   },
   "break8": {
     "files": [{
@@ -216,7 +216,7 @@ exports.data = {
       "name": "break.png"
     }]
   },
-    "discord server notify roles": {
+  "discord server notify roles": {
     "title": "Achievement Help Discord Roles (Self-Assigned)",
     "description":"These roles are only to be called by Contributors, Moderators, or Council. Make sure not to abuse notifying these roles. If you keep mentioning these roles for no reason, a mute may be applied.\n\nThe following roles can also be added in one of the following ways;\n• To join a DSF Merchant role, simply react to the proper message in <#465998663710146579> with the corresponding emoji.\n• You may also send ?rank [role] in <#382701090430386180>.\n\t- **Example:** **?rank AFK Thaler**\n\t- Leaving a role is the same command as joining that role.",
     "footer": {
@@ -227,7 +227,7 @@ exports.data = {
       "name": "Role Info",
       "icon_url": "https://i.imgur.com/6c6q2iC.png"
     },
-          "fields": [
+    "fields": [
       {
         "name": "​",
         "value": ":one: **<@&420015457110720523>**\n• **When to join:** If you would like to be notified when an Achievement Help Poll is occurring.\n\n:two: **<@&420015552677937152>**\n• **When to join:** If you would like to be notified when an Achievement Help Event has been created or begun.\n\n:three: **<@&420015659620237312>**\n• **When to join:** If you would like to be notified when an Affiliate Event has been created or begun.\n\n:four: **<@&420015717828657152>**\n• **When to join:** If you would like to be notified when an Official RuneScape Event has been created or begun.\n\n:five: **<@&420015773621420043>**\n• **When to join:** If you would like to be notified when the Achievement Help Discord has been updated."
@@ -236,7 +236,7 @@ exports.data = {
         "name": "​",
         "value": ":six: **<@&420015843804708864>**\n• **When to join:** If you would like to be notified whenever something is posted in <#395575375083601920>\n\n:seven: **<@&431292159053004800>**\n• **When to join:** If you would like to be notified when the official RuneScape stream or a verified streamer from the Achievement Help Discord goes live.\n\n:eight: **<@&431292311553572864>**\n• **When to join:** If you would like to be notified of when game news is posted to the official RuneScape website.\n\n:nine: **<@&431292243140280320>**\n• **When to join:** If you would like to be notified of the spotlight change as it occurs."
       }
-      ]
+    ]
   },
   "break10": {
     "files": [{
