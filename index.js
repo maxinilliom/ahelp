@@ -22,41 +22,42 @@ client.fiveCD = 17;
 client.scav = new Discord.Collection();
 client.scavrsns = [];
 client.scavteams = new Discord.Collection();
+client.amReq = new Enmap({provider: new EnmapLevel({name: "amReq"})});
 
 const init = async () => {
 
-	const cmdFiles = await readdir("./commands/");
-	console.log(`Loading a total of ${cmdFiles.length} commands.`);
-	cmdFiles.forEach(f => {
-		if (!f.endsWith(".js")) return;
-		const response = client.loadCommand(f);
-		if (response) console.log(response);
-	});
+  const cmdFiles = await readdir("./commands/");
+  console.log(`Loading a total of ${cmdFiles.length} commands.`);
+  cmdFiles.forEach(f => {
+    if (!f.endsWith(".js")) return;
+    const response = client.loadCommand(f);
+    if (response) console.log(response);
+  });
 
-	const evtFiles = await readdir("./events/");
-	console.log(`Loading a total of ${evtFiles.length} events.`);
-	evtFiles.forEach(file => {
-		const eventName = file.split(".")[0];
-		const event = require(`./events/${file}`);
-		client.on(eventName, event.bind(null, client));
-		delete require.cache[require.resolve(`./events/${file}`)];
-	});
+  const evtFiles = await readdir("./events/");
+  console.log(`Loading a total of ${evtFiles.length} events.`);
+  evtFiles.forEach(file => {
+    const eventName = file.split(".")[0];
+    const event = require(`./events/${file}`);
+    client.on(eventName, event.bind(null, client));
+    delete require.cache[require.resolve(`./events/${file}`)];
+  });
 
-	const maxGuides = await readdir("./guides/maxGuides/");
-	console.log(`Loading a total of ${maxGuides.length} Max cape guides.`);
-	maxGuides.forEach(f => {
-		if (!f.endsWith(".js")) return;
-		const response = client.loadMaxGuide(f);
-		if (response) console.log(response);
-	});
+  const maxGuides = await readdir("./guides/maxGuides/");
+  console.log(`Loading a total of ${maxGuides.length} Max cape guides.`);
+  maxGuides.forEach(f => {
+    if (!f.endsWith(".js")) return;
+    const response = client.loadMaxGuide(f);
+    if (response) console.log(response);
+  });
 
-	client.levelCache = {};
-	for (let i = 0; i < client.config.permLevels.length; i++) {
-		const thisLevel = client.config.permLevels[i];
-		client.levelCache[thisLevel.name] = thisLevel.level;
-	}
+  client.levelCache = {};
+  for (let i = 0; i < client.config.permLevels.length; i++) {
+    const thisLevel = client.config.permLevels[i];
+    client.levelCache[thisLevel.name] = thisLevel.level;
+  }
 
-	client.login(client.config.token);
+  client.login(client.config.token);
 
 };
 
