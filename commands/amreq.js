@@ -1,8 +1,8 @@
 exports.run = async (client, message, args, level) => {
   if (!args[0]) return;
   const update = args.join(" ");
-  client.amReq.set(0, update)
-    .then(a => message.channel.reply(`Successfully updated requirement to: ${update}`));
+  client.amReq.set("0", update);
+  message.channel.send(`Successfully updated requirement to: ${update}`);
 };
 
 exports.conf = {
